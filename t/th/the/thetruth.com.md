@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426224827id_/https%3A//www.thetruth.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruth.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102201312id_/https%3A//www.thetruth.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy and Terms of Service | truth
 
@@ -18,12 +18,11 @@ Cookies are information files that allow websites to remember users’ activitie
 
 ####  Personally Identifiable Information 
 
-We collect personally identifiable information from you through the site (such as your name, mailing address or email address) when you choose to sign up for our newsletter or otherwise voluntarily provide such information to us. We use your personally identifiable information to create a customized digital experience through the various truth platforms, for analytics, personalization and tracking, and for the purpose for which it was provided, (for example, to add you to our newsletter distribution list or to respond to a query). If you provide us with your email address, we may begin sending you emails with information that we think will be of interest to you. If, at any time, you wish to stop receiving emails from us, please follow the unsubscribe instructions at the bottom of any email you receive. If you provide your cell phone number to us, you consent to receive autodialed messages and texts at that number on any subject from us, unless and until you request that such messages stop.
+We collect personally identifiable information from you through the site (such as your name, mailing address or email address) when you choose to sign up for our newsletter or otherwise voluntarily provide such information to us. We use your personally identifiable information to create a customized digital experience through the various truth platforms, for analytics, personalization and tracking, and for the purpose for which it was provided, (for example, to add you to our newsletter distribution list, to respond to a query or to fulfill a purchase of truth® merch). If you provide us with your email address, we may begin sending you emails with information that we think will be of interest to you. If, at any time, you wish to stop receiving emails from us, please follow the unsubscribe instructions at the bottom of any email you receive. If you provide your cell phone number to us, you consent to receive autodialed messages and texts at that number on any subject from us, unless and until you request that such messages stop.
 
 We also use personal information about users to our website to better understand how people use our site so that we can improve the website and its offerings.  
 
-Unfortunately, given the complexity of privacy regulations outside the United States, we do not profile, personalize, track or create customized digital experience for IP addresses that appear to come from outside the United States.  As a result, you may not have the benefit of full digital platform experience.    
- 
+Unfortunately, given the complexity of privacy regulations outside the United States, we do not profile, personalize, track or create customized digital experience for IP addresses that appear to come from outside the United States.  As a result, you may not have the benefit of full digital platform experience.  
 
 ####  Security 
 
@@ -33,9 +32,7 @@ We take appropriate security measures to protect against unauthorized access to 
 
 We may share your personal information with other like-minded organizations, government officials or other policy-makers, or the press if we believe it will help advance our mission of achieving a culture where all youth and young adults reject tobacco and drugs.
 
-We may also share your information if you provide the information in a context where you would expect the information to be shared.  For instance, if you choose to sign a truth-sponsored petition with your name and email address, we may share that information with the party receiving the petition.
-
-We may use third party service providers to help us operate our website or administer activities on our behalf. We may share personal information about our users with these third parties for those limited purposes, but we require that such third parties protect the confidentiality of user information and use it for no other purpose.
+We may also share your information if you provide the information in a context where you would expect the information to be shared.  For instance, if you choose to sign a truth-sponsored petition with your name and email address, we may share that information with the party receiving the petition.  We may use third party service providers to help us operate our website or administer activities on our behalf. Examples may include fulfilling orders, delivering packages, removing repetitive information from customer lists, processing credit card payments and providing customer service.   We may share personal information about our users with these third parties for those limited purposes, but we require that such third parties protect the confidentiality of user information and use it for no other purpose.
 
 In addition, we will share personally identifiable information about our users when required to do so by law, or in the good faith belief that such action is necessary to comply with state and federal laws or to respond to a court order, subpoena, or search warrant. We will also share personally identifiable information if we believe it is necessary to protect the rights, property and safety of us or others.
 
@@ -45,7 +42,7 @@ We may share generic aggregated demographic information not linked to any person
 
 ####  Third Party Websites 
 
-We may provide links from our website to other websites. We do not control the content or links that appear on these third party websites and are not responsible for the practices employed by websites linked to or from our site.  For instance, these other websites may use cookies to track and profile people.  These third-party websites and services have their own privacy policies.  Browsing and interaction on any other website, including websites that have a link to or from our site, is subject to that website’s own terms and policies. **This Privacy Policy covers only information collected through the use of this website**. In addition, we do not currently respond to web browser “do not track” signals.
+We may reference mobile applications (“apps”) or provide links from our website to other websites. We do not control the content or links that appear on these third party websites/apps, and we are not responsible for the practices employed by websites linked to or references to apps from our site.  For instance, these other websites/apps may use cookies or other methods to track and profile people.  These third-party websites and services have their own privacy policies.  Browsing and interaction on any other website and/or app, including websites that have a link to or apps referenced from our site, is subject to that website’s/app’s own terms and policies.  **This Privacy Policy covers only information collected through the use of this website**. In addition, we do not currently respond to web browser “do not track” signals.
 
 ####  Adobe Cloud Marketing Coop 
 
@@ -55,13 +52,23 @@ Truth Initiative participates in the Adobe Marketing Cloud Device Co-op to bette
 
 Protecting the privacy of the young is especially important. For that reason, we never collect information at the website from those we know are under 13, and no part of the website is structured to attract anyone under 13. If we become aware of having information about anyone under 13, we will promptly delete the information, unless we obtain consent from the parent or legal guardian of the child to retain such information.
 
-####  California Privacy Rights 
+####  SPECIAL PROVISIONS FOR THIS IS QUITTING PROGRAM 
 
-If you reside in California and have provided your personally identifiable information to us, you may request information once per calendar year about our disclosures of certain categories of your personally identifiable information to third parties for their direct marketing purposes. Such requests may be submitted to us at [contact us](https://truthinitiative.org/contact-us).
+We are excited that you have decided to use This is Quitting to achieve your vaping cessation goals.  We are constantly trying to improve our web and mobile tools to help people quit vaping. To further that goal, we collect data about your use of This is Quitting services (e.g., number and frequency of program use, the content of your texts, etc.). 
 
-####  Changes to this Privacy Policy 
+Data collected from the program may be used for public health and research purposes to help us build better tools for quitting smoking or vaping. 
 
-We may update this Privacy Policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage our website users to frequently check this page for any changes to stay informed about what information we collect and how we use that information. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of any modifications since your last visit.
+When you sign up for This is Quitting, you are agreeing that at a later date, we may send you communications and content about other Truth Initiative programs, initiatives, campaigns and messaging.  You may unsubscribe to these communications at any time.
+
+We may share with other third-party research partners or sponsoring organizations certain aggregated, de-identified data collected from users without their consent. Such information will not include any personally identifiable information such as your name or phone number.
+
+Information provided as part of This is Quitting does not constitute medical advice. This is Quitting services are not to be used to make diagnoses, prescribe medicine or provide treatment, and should not be relied upon as a substitute for consultations with qualified health professionals who are familiar with your individual medical needs. The This is Quitting program is provided as a self-help service to provide you with support while quitting vaping. Please contact your health care provider with any concerns about your physical or mental health or about whether this program is or is not working for you. We do not promise or guarantee any outcome, including that you will successfully quit vaping.
+
+For versions of This is Quitting offered through a school, healthcare system, public health organization or other sponsoring entity (each, a "Sponsoring Entity"), we may share aggregated, de-identified data about your use of This is Quitting with such Sponsoring Entity.
+
+####  CHANGES TO THIS PRIVACY POLICY 
+
+We may update this Privacy Policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage our website users to frequently check this page for any changes to stay informed about what information we collect and how we use that information. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of any modifications since your last visit.  Your further use of this site following any such modifications constitutes your agreement to the terms of the amended Privacy Policy.
 
 ####  Your Acceptance of These Terms 
 
@@ -132,4 +139,4 @@ Truth Initiative’s failure to assert any right or provision under these Terms 
 
 If you have any questions about this Privacy Policy, Terms of Service or anything relating to the website, please [contact us](https://truthinitiative.org/contact-us).
 
-_Amended on September 6, 2018_
+_Amended on July 18, 2019​_
