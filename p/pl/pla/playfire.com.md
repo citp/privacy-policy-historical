@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfire.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331224658id_/https%3A//www.greenmangaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfire.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102055933id_/https%3A//www.greenmangaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Get Up To Speed With GDPR Privacy Policy | Green Man Gaming
 
@@ -22,7 +22,7 @@ For further information about our Privacy Policy or our processing of data about
 
 Or escalate your query to:
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ce8edf8edfcfee3f8e9eff8e5e3e2ccebfee9e9e2e1ede2ebede1e5e2eba2efe3e1)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99fdf8edf8e9ebf6edfcfaedf0f6f7d9feebfcfcf7f4f8f7fef8f4f0f7feb7faf6f4)
 
 Green Man Gaming Limited of Mutual House, 70 Conduit Street, London W1S 2GF is incorporated in England and Wales under the company number 05271628.
 
