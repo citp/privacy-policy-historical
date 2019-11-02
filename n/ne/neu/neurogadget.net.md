@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurogadget.net privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511083225id_/https%3A//neurogadget.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurogadget.net privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102121141id_/https%3A//neurogadget.net/privacy-policy) for the most accurate reproduction.*
 
 # Neurogadget Privacy Policy - Neurogadget
 
