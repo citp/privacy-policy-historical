@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyverge.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402034943id_/https%3A//www.skyverge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyverge.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103003247id_/https%3A//www.skyverge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SkyVerge
 
