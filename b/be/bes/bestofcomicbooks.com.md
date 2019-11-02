@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestofcomicbooks.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526123455id_/https%3A//bestofcomicbooks.com/our-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofcomicbooks.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102083649id_/https%3A//bestofcomicbooks.com/our-privacy-policies) for the most accurate reproduction.*
 
 # Our Privacy Policies
 
