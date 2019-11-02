@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estately.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515204336id_/https%3A//www.estately.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estately.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102215335id_/https%3A//www.estately.com/about/privacy) for the most accurate reproduction.*
 
 # Estately.com - Terms of Use & Privacy
 
