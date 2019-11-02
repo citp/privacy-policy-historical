@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukpollingreport.co.uk privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511102433id_/http%3A//ukpollingreport.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukpollingreport.co.uk privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102235724id_/http%3A//ukpollingreport.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # UK Polling Report
 
