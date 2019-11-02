@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowrestling.net privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406103444id_/https%3A//prowrestling.net/site/our-privacy-policy-at-prowrestling-net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestling.net privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102122208id_/https%3A//prowrestling.net/site/our-privacy-policy-at-prowrestling-net) for the most accurate reproduction.*
 
 # Our Privacy Policy at ProWrestling.net - Pro Wrestling Dot Net
 
@@ -23,3 +23,7 @@ In addition, we may use third party services such as Google Analytics that colle
 **Communications**
 
 We may use your Personal Information to contact you with newsletters, marketing, or promotional materials and other information that you provide to us.
+
+* * *
+
+The new edition of the Pro Wrestling Boom Podcast with Jason Powell and guest Court Bauer, who discusses MLW Saturday Night SuperFight, his mindset just days before the company's first pay-per-view, the $19.99 price point, future PPV possibilities, the free pre-show, former WWE and Lucha Underground creative force Chris DeJoseph joining the MLW staff, and more... 
