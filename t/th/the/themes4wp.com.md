@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themes4wp.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903184538id_/https%3A//themes4wp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themes4wp.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102225408id_/https%3A//themes4wp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Themes4WP
 
@@ -81,7 +81,7 @@ We save your personal information in our database in order to improve our Websit
 
 ## 5\. Third Party Payment Processor
 
-We use a third-party payment processors, PayPal.com & GPWebPaz (the “Payment Processor”), to bill Users. Each User can pay the fees due via our Website. The processing of payments shall be subject to the privacy policies of the Payment Processor (https://www.paypal.com/us/webapps/mpp/ua/privacy-full) in addition to Themes4WP ’s Privacy Policy. We only collect the personal information stated in par. 1 of his Privacy Policy. Any additional information requested by the Payment Processor is collected and stored by the Payment Processor and not Themes4WP. Themes4WP does not collect nor store any credit card or other billing information. Themes4WP stores only a User’s identification code to verify payment by a User, sent by the Payment Processor to Themes4WP. We are not responsible for the use of your personal information by the Payment Processor.
+We use a third-party payment processors, PayPal.com, FastSpring & GPWebPay (the “Payment Processor”), to bill Users. Each User can pay the fees due via our Website. The processing of payments shall be subject to the privacy policies of the Payment Processor (https://www.paypal.com/us/webapps/mpp/ua/privacy-full, https://fastspring.com/privacy/) in addition to Themes4WP ’s Privacy Policy. We only collect the personal information stated in par. 1 of his Privacy Policy. Any additional information requested by the Payment Processor is collected and stored by the Payment Processor and not Themes4WP. Themes4WP does not collect nor store any credit card or other billing information. Themes4WP stores only a User’s identification code to verify payment by a User, sent by the Payment Processor to Themes4WP. We are not responsible for the use of your personal information by the Payment Processor.
 
 ## 6\. Cookies Policy
 
