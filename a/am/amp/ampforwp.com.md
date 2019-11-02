@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampforwp.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319104854id_/https%3A//ampforwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampforwp.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102231145id_/https%3A//ampforwp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AMP for WordPress
 
