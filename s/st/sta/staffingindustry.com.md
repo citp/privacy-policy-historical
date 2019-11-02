@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staffingindustry.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407234033id_/https%3A//www2.staffingindustry.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staffingindustry.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102112529id_/https%3A//www2.staffingindustry.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home - Staffing Industry Analysts
 
