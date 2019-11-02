@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the celebritystyleguide.com privacy policy that was archived on 2019-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190607152847id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the celebritystyleguide.com privacy policy that was archived on 2019-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191102225701id_/http%3A//www.celebritystyleguide.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" prefix="og:http://ogp.me/ns#"><head>
+<!DOCTYPE html><html lang="en" prefix="og:http://ogp.me/ns#"><head>
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=134836189896380"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1606064-1"></script>
 <script>
@@ -60,19 +60,20 @@
 	<meta name="msapplication-square310x310logo" content="/images/v13/mstile-310x310.png">
 	<meta name="theme-color" content="#68aecb">
 	
-	<link rel="stylesheet" type="text/css" href="/css/csgMenu_13.3.css?v=13.242">
-	<link rel="stylesheet" type="text/css" href="/css/csgStyles_13.8.css?v=13.242">
-	<link rel="stylesheet" href="/css/font-awesome/css/font-awesome_12.css">
-	<link rel="stylesheet" type="text/css" href="/css/gdpr-styles.css?v=1.4">
+	<link rel="stylesheet" type="text/css" href="/css/csgMenu-14.min.css?v=1.23">
+	<link rel="stylesheet" type="text/css" href="/css/csgStyles-14.min.css?v=1.23">
+	<link rel="stylesheet" href="/css/font-awesome/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/gdpr-styles.css?v=1.06">
 	
 	<script type="text/javascript" src="/js/jquery-3.2.1.min.js"></script>
 	<script type="text/javascript" src="/js/jquery.ihavecookies.js?v=1.0"></script>
+	<script type="text/javascript" src="/js/lazyload.min.js?v=1.0"></script>
 	
 	<script type="text/javascript">
 	
 		$( document ).ready( function() {
 
-			init();
+			//init();
 		           
 			var scroll_pos = 0;
 			
@@ -117,11 +118,35 @@
 				$( "#pinItButton" ).fadeOut( "fast" );
 			});
 
+			$( '.openShopWidget' ).click( function(){
+				let elemId = $( this ).attr( 'data-for' );
+				$( '#shopWidget-' + elemId ).css( { 'zIndex': 4001 } );
+				$( '#closeWidget-' + elemId ).fadeIn( 'fast' );
+				$( '#openWidget-' + elemId ).fadeOut( 'fast' );
+			});
+
+			$( '.closeShopWidget' ).click( function(){
+				let elemId = $( this ).attr( 'data-for' );
+				$( '#shopWidget-' + elemId ).css( { 'zIndex': 3999 } );
+				$( '#closeWidget-' + elemId ).fadeOut( 'fast' );
+				$( '#openWidget-' + elemId ).fadeIn( 'fast' );
+			});
+
 
 			/* 1024 or less NAV */
 			$( '.menu-btn' ).click( function(){
 				$( '.responsiveMenu' ).slideToggle();
 				$( "#overlay" ).fadeToggle( "slow" );
+			});
+
+			$( '.sub-menu-parent' ).click( function( event ){
+				event.preventDefault();
+				$( this ).next( '.sub-menu-nav' ).css( { 'left': '0%', 'opacity': '100' } );
+			});
+
+			$( '.sub-menu-nav .back-arrow' ).click( function( event ){
+				event.preventDefault();
+				$( this ).parent( '.sub-menu-nav' ).css( { 'left': '100%', 'opacity': '0' } );
 			});
 
 			var el = document.getElementById("searchQ");
@@ -194,7 +219,7 @@
 		<span></span>
 	</div>
 	
-	<div class="responsiveMenu">
+	<div class="responsiveMenu" id="mobiMenu">
 		<ul>
 			<li><div id="searchBox">
 
@@ -209,14 +234,41 @@
 	
 	</form>
 
-</div></li>			<li><a href="http://www.celebritystyleguide.com/">HOME</a></li>
-			<li><a href="http://www.celebritystyleguide.com/celebrities/">CELEBRITIES</a></li>
-			<li><a href="http://www.celebritystyleguide.com/tv-shows/">TV SHOWS</a></li>
-			<li><a href="http://www.celebritystyleguide.com/movies/">MOVIES</a></li>
-			<li><a href="http://www.celebritystyleguide.com/blog/">BLOG</a></li>
-			<li><a href="http://www.celebritystyleguide.com/shop-the-look-for-less/">THE LOOK FOR LESS</a></li>
-			<li><a href="http://www.celebritystyleguide.com/shop-instagram/">SHOP INSTAGRAM</a></li>
-			<li><a href="http://www.celebritystyleguide.com/shop-celebrity-style/">BACHELORETTE STYLE</a></li>
+</div></li>			<li><a href="//www.celebritystyleguide.com">HOME</a></li>
+			<li><a href="http://www.celebritystyleguide.com/celebrities">CELEBRITIES</a></li>
+			<li><a href="http://www.celebritystyleguide.com/tv-shows">TV SHOWS</a></li>
+			<li><a href="http://www.celebritystyleguide.com/movies">MOVIES</a></li>
+			<li><a href="javascript:void(0);" class="sub-menu-parent">BLOG <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+				<div class="sub-menu-nav">
+					<a href="javascript:void(0);" class="back-arrow"><i class="fa fa-angle-double-left" aria-hidden="true"></i></a>
+					<ul>
+						<li><a href="http://www.celebritystyleguide.com/blog/" class="sub-menu-item">Blog Main</a></li>
+						<li><a href="http://www.celebritystyleguide.com/blog/category/my-style/" class="sub-menu-item">My Style</a></li>
+						<li><a href="http://www.celebritystyleguide.com/blog/category/my-home/" class="sub-menu-item">My Home</a></li>
+						<li><a href="http://www.celebritystyleguide.com/blog/category/beauty/" class="sub-menu-item">Beauty</a></li>
+						<li><a href="http://www.celebritystyleguide.com/blog/category/health/" class="sub-menu-item">Health</a></li>
+						<li><a href="http://www.celebritystyleguide.com/blog/category/fitness/" class="sub-menu-item">Fitness</a></li>
+						<li><a href="http://www.celebritystyleguide.com/blog/category/travel/" class="sub-menu-item">Travel</a></li>
+					</ul>
+				</div>
+			</li>
+			<li><a href="http://www.celebritystyleguide.com/shop-the-look-for-less">THE LOOK FOR LESS</a></li>
+			<li><a href="http://www.celebritystyleguide.com/shop-instagram">SHOP INSTAGRAM</a></li>
+			<li><a href="javascript:void(0);" class="sub-menu-parent">SHOP BY PRODUCT <i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+				<div class="sub-menu-nav">
+					<a href="javascript:void(0);" class="back-arrow"><i class="fa fa-angle-double-left" aria-hidden="true"></i></a>
+					<ul>
+						<li><a href="http://www.celebritystyleguide.com/search/find/?q=Bag" class="sub-menu-item">Bags</a></li>
+						<li><a href="http://www.celebritystyleguide.com/search/find/?q=Dress" class="sub-menu-item">Dresses</a></li>
+						<li><a href="http://www.celebritystyleguide.com/search/find/?q=Shoes" class="sub-menu-item">Footwear</a></li>
+						<li><a href="http://www.celebritystyleguide.com/search/find/?q=Jacket" class="sub-menu-item">Jackets</a></li>
+						<li><a href="http://www.celebritystyleguide.com/search/find/?q=Jeans" class="sub-menu-item">Jeans</a></li>
+						<li><a href="http://www.celebritystyleguide.com/search/find/?q=Pants" class="sub-menu-item">Pants</a></li>
+						<li><a href="http://www.celebritystyleguide.com/search/find/?q=Sweater" class="sub-menu-item">Sweaters</a></li>
+						<li><a href="http://www.celebritystyleguide.com/search/find/?q=Swimsuit" class="sub-menu-item">Swimsuits</a></li>
+					</ul>
+				</div>
+			</li>
 		</ul>
 	</div>
 	
@@ -246,7 +298,26 @@
 							</ul>
 						</li>
 <li><a class="nonDropDownMarker" href="http://www.celebritystyleguide.com/shop-the-look-for-less/" title="Shop the Look for Less!">LOOK FOR LESS</a></li>
-<li><a class="nonDropDownMarker" href="http://www.celebritystyleguide.com/shop-celebrity-style/" title="Shop Bachelorette Style">BACHELORETTE STYLE</a></li>
+<li><a class="nonDropDownMarker" href="http://www.celebritystyleguide.com/" title="Shop by Product">SHOP</a>
+							<ul class="left-minus-250">
+								<li><a href="https://www.liketoknow.it/celebstyleguide" target="_blank" class="sub-menu-item">My Instagram</a></li>
+								<li><a href="http://www.celebritystyleguide.com/search/find/?q=Bag" class="sub-menu-item">Bags</a></li>
+								<li><a href="http://www.celebritystyleguide.com/search/find/?q=Dress" class="sub-menu-item">Dresses</a></li>
+								<li><a href="http://www.celebritystyleguide.com/search/find/?q=Shoes" class="sub-menu-item">Footwear</a></li>
+								<li><a href="http://www.celebritystyleguide.com/search/find/?q=Jacket" class="sub-menu-item">Jackets</a></li>
+								<li><a href="http://www.celebritystyleguide.com/search/find/?q=Jeans" class="sub-menu-item">Jeans</a></li>
+								<li><a href="http://www.celebritystyleguide.com/search/find/?q=Pants" class="sub-menu-item">Pants</a></li>
+								<li><a href="http://www.celebritystyleguide.com/search/find/?q=Sweater" class="sub-menu-item">Sweaters</a></li>
+								<li><a href="http://www.celebritystyleguide.com/search/find/?q=Swimsuit" class="sub-menu-item">Swimsuits</a></li>
+							</ul>
+						</li>
+</ul>	
+	
+<ul class="socialButtons">
+	<a href="https://www.facebook.com/CelebrityStyleGuide/" target="_blank" rel="nofollow noopener" title="follow us on Facebook"><li class="fa fa-facebook-f fa-1x"></li></a>
+	<a href="https://www.instagram.com/celebstyleguide/" target="_blank" rel="nofollow noopener" title="watch us on Instagram"><li class="fa fa-instagram fa-1x"></li></a>
+	<a href="https://www.pinterest.com/celebstyleguide/" target="_blank" rel="nofollow noopener" title="dont miss us on Pinterest"><li class="fa fa-pinterest fa-1x"></li></a>
+	<a href="https://twitter.com/CelebStyleGuide" target="_blank" rel="nofollow noopener" title="read us on Twitter"><li class="fa fa-twitter fa-1x"></li></a>
 </ul>
 	
 	<div id="searchContainer">
@@ -375,6 +446,8 @@
 			</div>
 				
 			<div class="hSpace20"><!--  --></div>
+			
+					
 			<div class="hSpace20"><!--  --></div>
 			
 		</div>
@@ -413,7 +486,7 @@
 	</div>
 
 	<script type="text/javascript">
-		function init() {
+		/* function init() {
 			
 			var imgDefer = document.getElementsByTagName( 'img' );
 
@@ -424,7 +497,11 @@
 					imgDefer[i].setAttribute( 'src', imgDefer[i].getAttribute( 'data-src' ) );
 				}
 			}
-		}
+		} */
+
+		var lazyLoadInstance = new LazyLoad({
+		    elements_selector: ".lazy"
+		});
 	</script>
 	
 	
