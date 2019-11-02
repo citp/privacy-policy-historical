@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506223754id_/https%3A//cyfuture.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfuture.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102062510id_/https%3A//cyfuture.com/privacy.html) for the most accurate reproduction.*
 
 # Cyfuture : Privacy Statement
 
