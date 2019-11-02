@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbsfl.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624184406id_/https%3A//www.floridablue.com/internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbsfl.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102133235id_/https%3A//www.floridablue.com/internet-privacy-statement) for the most accurate reproduction.*
 
 # Internet Privacy Statement | Florida Blue | Florida Blue
 
