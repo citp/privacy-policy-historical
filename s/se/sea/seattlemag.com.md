@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seattlemag.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428185214id_/https%3A//www.seattlemag.com/seattle-magazine-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattlemag.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102183711id_/http%3A//www.seattlemag.com/seattle-magazine-privacy-policy) for the most accurate reproduction.*
 
 # Seattle Magazine Privacy Policy | Seattle Magazine
 
@@ -133,8 +133,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 Tiger Oak Media  
 1417 4th Ave., Suite 600  
 Seattle WA. 98101
-
-[websiteadmin@tigeroak.com](mailto:websiteadmin@tigeroak.com)
 
 206.284.1750
 
