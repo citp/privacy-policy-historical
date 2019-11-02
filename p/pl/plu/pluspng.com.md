@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluspng.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231194004id_/http%3A//pluspng.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluspng.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102091636id_/http%3A//pluspng.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PlusPNG
 
@@ -68,4 +68,4 @@ For additional rights and additional information on your rights, we encourage yo
 If you have any questions about this privacy statement, the practices of this website, or your dealings with this website, please contact:  
 
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#620b0c040d22120e1711120c054c010d0f)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#aec7c0c8c1eedec2dbdddec0c980cdc1c3)
