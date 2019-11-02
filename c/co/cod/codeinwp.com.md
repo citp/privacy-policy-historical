@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeinwp.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607114656id_/https%3A//www.codeinwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeinwp.com privacy policy that was archived on 2019-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191102221627id_/https%3A//www.codeinwp.com/privacy-policy) for the most accurate reproduction.*
 
 # CodeinWP Privacy Policy
 
@@ -93,7 +93,7 @@ Performance Cookies
 
 These cookies collect information about the use of the website, such as pages visited, traffic sources, users’ interests, content management, and other website measurements.
 
-Functional Cookies
+Functional Cookies 
 
 These cookies enable the website to remember a user’s choices – such as their language, user name, and other personal choices – while using the website. They can also be used to deliver services, such as letting a user make a blog post, listen to audio, or watch videos on the website.
 
@@ -202,7 +202,7 @@ However, non-personally identifiable visitor information may be provided to othe
 
 Communications and Emails
 
-When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: support@codeinwp.com
+When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: legal@vertistudio.com
 
 Legally Required Releases of Information
 
@@ -266,4 +266,4 @@ Vertigo Studio SRL.
 
 Romania
 
-Email: support@codeinwp.com
+Email: legal@vertistudio.com
