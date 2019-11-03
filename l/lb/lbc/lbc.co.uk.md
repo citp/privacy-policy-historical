@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429095231id_/https%3A//www.lbc.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbc.co.uk privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103232211id_/https%3A//www.lbc.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Statement - LBC
 
