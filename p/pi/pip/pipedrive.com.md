@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipedrive.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331132124id_/https%3A//www.pipedrive.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipedrive.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103044255id_/https%3A//www.pipedrive.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pipedrive
 
@@ -42,51 +42,65 @@ We collect different types of information from or through the Service. The legal
 
 We use the information that we collect in a variety of ways in providing the Service and operating our business, including the following:
 
-##### 3.1 Operations
+**3.1 Operations**
 
 We use the information – other than Client Data - to operate, maintain, enhance and provide all features of the Service, to provide the services and information that you request, to respond to comments and questions and to provide support to users of the Service. We process Client Data solely in accordance with the directions provided by the applicable Client or User.
 
-##### 3.2 Improvements
+**3.2 Improvements**
 
 We use the information to understand and analyze the usage trends and preferences of our Visitors and Users, to improve the Service, and to develop new products, services, feature, and functionality. Should this purpose require Pipedrive to process Client Data, then the data will only be used in anonymized or aggregated form.
 
-##### 3.3 Communications
+**3.3 Communications**
 
 We may use a Visitor’s or User’s email address or other information – other than Client Data – to contact that Visitor or User (i) for administrative purposes such as customer service, to address intellectual property infringement, right of privacy violations or defamation issues related to the Client Data or Personal Data posted on the Service or (ii) with updates on promotions and events, relating to products and services offered by us and by third parties we work with. You have the ability to opt-out of receiving any promotional communications as described below under  **“Your Choices.”**
 
-##### 3.4 Cookies and Tracking Technologies
+**3.4 Cookies and Tracking Technologies**
 
 We use automatically collected information and other information collected on the Service through cookies and similar technologies to: (i) personalize our Service, such as remembering a User’s or Visitor’s information so that the User or Visitor will not have to re-enter it during a visit or on subsequent visits; (ii) provide customized advertisements, content, and information; (iii) monitor and analyze the effectiveness of Service and third-party marketing activities; (iv) monitor aggregate site usage metrics such as total number of visitors and pages viewed; and (v) track your entries, submissions, and status in any promotions or other activities on the Service. You can obtain more information about cookies by visiting [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-##### 3.5 Analytics
+**3.5 Analytics**
 
 We use Google Analytics to measure and evaluate access to and traffic on the Public Area of the Site, and create user navigation reports for our Site administrators. Google operates independently from us and has its own privacy policy, which we strongly suggest you review. Google may use the information collected through Google Analytics to evaluate Users' and Visitors’ activity on our Site. For more information, see [Google Analytics Privacy and Data Sharing](https://support.google.com/analytics/answer/6004245).
 
 We take measures to protect the technical information collected by our use of Google Analytics. The data collected will only be used on a need to know basis to resolve technical issues, administer the Site and identify visitor preferences; but in this case, the data will be in non-identifiable form. We do not use any of this information to identify Visitors or Users.
 
+**3.6 Additional Limits on Use of Your Google User Data**
+
+Notwithstanding anything else in this Privacy Policy, if you provide the App access to your Google data, the App's use of that data will be subject to these additional restrictions:
+
+  * The App will only use access to read, write, modify or control Gmail message bodies (including attachments), metadata, headers, and settings to provide a web email client that allows users to compose, send, read,and process emails and will not transfer this Gmail data to others unless doing so is necessary to provide and improve these features, comply with applicable law, or as part of a merger, acquisition, or sale of assets.
+  * The App will not use this Gmail data for serving advertisements.
+  * The App will not allow humans to read this data unless we have your affirmative agreement for specific messages, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for the App's internal operations and even then only when the data have been aggregated and anonymized.
+
+
+
 #### 4\. To Whom We Disclose Information
 
 Except as described in this Policy, we will not intentionally disclose the Personal Data or Client Data that we collect or store on the Service to third parties without the consent of the applicable Visitor, User or Client. We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:
 
-##### 4.1 Unrestricted Information
+**4.1 Unrestricted Information**
 
 Any information that you voluntarily choose to include in a Public Area of the Service, such as a public profile page, will be available to any Visitor or User who has access to that content.
 
-##### 4.2 Service Providers
+**4.2 Other Users in Your Company Account**
+
+Certain information about your use of the Pipedrive Services is available to the administrator(s) of your Pipedrive Account and, depending on the settings chosen by the Users of the Account, also to other Users for the purposes of providing the Pipedrive Services.
+
+**4.3 Service Providers**
 
 We work with third party service providers who provide website, application development, hosting, maintenance, and other services for us. These third parties may have access to, or process Personal Data or Client Data as part of providing those services for us. We limit the information provided to these service providers to that which is reasonably necessary for them to perform their functions, and our contracts with them require them to maintain the confidentiality of such information.
 
-##### 4.3 Non Personally Identifiable Information
+**4.4 Non Personally Identifiable Information**
 
-We may make certain automatically-collected, aggregated, or otherwise non-personally-identifiable information available to third parties for various purposes, including (i) compliance with various reporting obligations; (ii) for business or marketing purposes; or (iii) to assist such parties in understanding our Clients’, Users’ and Visitors’ interests, habits, and usage patterns for certain programs, content, services, and/or functionality available through the Service.
+We may make certain automatically-collected, aggregated, or otherwise non-personally-identifiable information available to third parties for various purposes, including (i) compliance with various reporting obligations; (ii) for business or marketing purposes; or (iii) to assist such parties in understanding our Clients’, Users’ and Visitors’ interests, habits, and usage patterns for certain programs, content, services, and/or functionality available through the Service, all of the foregoing being subject to additional limits on use of your Google User data as stated in this Privacy Policy.
 
-##### 4.4 Law Enforcement, Legal Process and Compliance
+**4.5 Law Enforcement, Legal Process and Compliance**
 
 We may disclose Personal Data or other information if required to do so by law or in the good-faith belief that such action is necessary to comply with applicable laws, in response to a facially valid court order, judicial or other government subpoena or warrant, or to otherwise cooperate with law enforcement or other governmental agencies.
 
 We also reserve the right to disclose Personal Data or other information that we believe, in good faith, is appropriate or necessary to (i) take precautions against liability, (ii) protect ourselves or others from fraudulent, abusive, or unlawful uses or activity, (iii) investigate and defend ourselves against any third-party claims or allegations, (iv) protect the security or integrity of the Service and any facilities or equipment used to make the Service available, or (v) protect our property or other legal rights, enforce our contracts, or protect the rights, property, or safety of others.
 
-##### 4.5 Change of Ownership
+**4.6 Change of Ownership**
 
 Information about Users and Visitors, including Personal Data, may be disclosed and otherwise transferred to an acquirer, successor or assignee as part of any merger, acquisition, debt financing, sale of assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which information is transferred to one or more third parties as one of our business assets and only if the recipient of the User or Visitor Data commits to a Privacy Policy that has terms substantially consistent with this Privacy Policy.
 
@@ -94,7 +108,7 @@ Client Data may be physically or electronically transferred to an acquirer, or s
 
 #### 5\. Your Choices
 
-##### 5.1 Access, Correction, Deletion
+**5.1 Access, Correction, Deletion**
 
 We respect your privacy rights and provide you with reasonable access to the Personal Data that you may have provided through your use of the Services. If you wish to access or amend any other Personal Data we hold about you, or to request that we delete or transfer any information about you that we have obtained from an Integrated Service, you may contact us as set forth in the “How to Contact Us” section. At your request, we will have any reference to you deleted or blocked in our database.
 
@@ -106,11 +120,11 @@ At any time, you may object to the processing of your Personal Data, on legitima
 
 This provision does not apply to Personal Data that is part of Client Data. In this case, the management of the Client Data is subject to the Client’s own Privacy Policy, and any request for access, correction or deletion should be made to the Client responsible for the uploading and storage of such data into the Service.
 
-##### 5.2 Navigation Information
+**5.2 Navigation Information**
 
 You may opt out from the collection of navigation information about your visit to the Site by Google Analytics by using the [Google Analytics Opt-out feature](https://tools.google.com/dlpage/gaoptout).
 
-##### 5.3 Opting out from Commercial Communications
+**5.3 Opting out from Commercial Communications**
 
 If you receive commercial emails from us, you may unsubscribe at any time by following the instructions contained within the email or by sending an email to the address provided in the “How to Contact Us” section.
 
@@ -178,7 +192,7 @@ The business partners and advertising networks that serve interest-based adverti
 
 We do not share with these third parties any information that would readily identify you (such as email address); however, these third parties may have access to information about your device (such as IP or MAC address). We do not have access to, or control over, the technologies that these third parties may use to collect information about your interests, and the information practices of these third parties are not covered by this Privacy Notice. Other than as discussed in this document, we have no control over these third parties.
 
-##### 11.1 The Following Types of Cookies Are Used in the Site:
+**11.1 The Following Types of Cookies Are Used in the Site:**
 
   1. strictly necessary/essential cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for cannot be provided. These cookies don’t collect information that identifies a visitor.
   2. performance cookies - These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
@@ -187,49 +201,119 @@ We do not share with these third parties any information that would readily iden
 
 
 
-##### 11.2 The Following Cookies are Used in the Site:
+**11.2 The Following Cookies are Used in the Site:**
 
 Service provider | Cookie name | Cookie type | Expiration | Content  
 ---|---|---|---|---  
 Pipedrive | pd_referrer | 1 | 1 year | Helps to identify the referrer and landing page of visitors  
 Pipedrive | pd_referrer_session | 1 | session | Helps to identify the referrer and landing page of visitors  
-Pipedrive | pipedrive_trafficsource | 1 | 1 year | Helps to identify the traffic source of visitors  
-Pipedrive | split_tests | 1 | 1 year | Helps to remember which version of the page to show to visitor  
-Pipedrive | pd_cookie-policy-agreement | 3 | 1 year | Helps to remember visitor agreement of the cookie policy  
-Pipedrive | pd_android-banner | 3 | 1 year | Helps to remember that visitor has seen the android banner  
+Pipedrive | country  
+| 2 | 1 year | The cookie determines the country setting of the visitor  
+  
+Pipedrive | split_tests | 2 | 1 year | Helps to remember which version of the page to show to visitor  
+Pipedrive | pd_cookie-policy-agreement | 3 | 1 year | Helps to remember visitor preferences for cookies  
+Pipedrive | device_id  
+| 1 | 2 months | Used to identify new devices for security alerts  
+  
 Pipedrive | pd_language_selection | 3 | 1 year | Helps to remember preferred language selection of the visitor  
 Pipedrive | has_account | 3 | 1 year | Helps to make clear whether the visitor has an account with Pipedrive  
 Pipedrive | pd_account | 3 | 1 year | Helps to remember information about visitor Pipedrive account  
-Google DoubleClick | __ar_v4 | 2 | 5 years | Helps with tracking conversion rates for ads  
-Google Analytics | __utma | 2 | 2 years | Helps to identify sessions of visitors  
-Google Analytics | __utmb | 2 | 30 minutes | Helps to identify new visitors to the Site  
-Google Analytics | __utmc | 2 | session | Helps to identify new visitors to the Site  
-Google Analytics | __utmt | 2 | 10 minutes | Helps to throttle traffic rate for Google servers  
-Google Analytics | __utmz | 2 | 2 years | Helps to identify the traffic source of visitors  
-Google Analytics | _ga | 2 | 2 years | Helps to identify sessions of visitors  
-Google Analytics | _gat | 2 | 10 minutes | Helps to throttle traffic rate for Google servers  
-Linkedin Bizo | _bizo_bzid | 2 | 1 day | Helps to identify visitors for ad retargeting purposes  
-Linkedin Bizo | _bizo_bzid | 2 | 1 day | Helps to identify visitors for ad retargeting purposes  
-Linkedin Bizo | _bizo_bzid | 2 | 1 day | Helps to identify visitors for ad retargeting purposes  
-Segment | ajs_anonymous_id | 2 | 1 year | Helps to identify sessions of visitors  
-Segment | ajs_group_id | 2 | 1 year | Helps to identify registered visitors by group  
+Pipedrive  
+| pipe-last-active  
+| 3 | 1 year | Helps keep session alive for users who did not select "Remember me" but are active  
+  
+Pipedrive  
+| pipe-session  
+| 3 | 30 days | Holds encrypted application session data  
+  
+Pipedrive  
+| pipe-session-token  
+| 1 | 30 days | Helps to prevent CSRF protection on webapp pages  
+  
+Pipedrive  
+| pipe-verify  
+| 1 | 30 minutes | Helps to prevent CSRF protection on public pages  
+  
+Pipedrive  
+| 2fa  
+| 1 | 1 hour | Used in logging in with 2FA  
+  
+Pipedrive  
+| 2fa-remember  
+| 1 | 30 days | Remembers that user has performed 2FA login to not ask for 2FA while cookie is valid  
+  
+  
+Pipedrive | login_protocol  
+| 1 | 5 minutes | Used to differentiate SSO login from mobile app  
+  
+Google AdSense  
+| _gcl_au  
+| 4  
+| 3 months  
+| Used by Google AdSense for experimenting with advertisement efficiency across websites using their services  
+  
+Google Analytics  
+| _gid  
+| 2  
+| 1 day  
+| Registers a unique ID that is used to generate statistical data on how the visitor uses the website  
+  
+Google Analytics  
+| _ga  
+| 2  
+| 2 years  
+| Helps to identify sessions of visitors  
+  
+Google Analytics  
+| _gat  
+| 2  
+| 1 day  
+| Helps to throttle traffic rate for Google servers  
+  
+Segment | ajs_anonymous_id | 2 | 1 year | Helps to distinguish anonymous / logged out visitors  
+Segment | ajs_group_id | 2 | 1 year | Helps to identify registered visitors company grouping  
 Segment | ajs_user_id | 2 | 1 year | Helps to identify registered visitors  
 Amplitude | amplitude_idpipedrive.com | 2 | 10 years | Helps to identify sessions of visitors  
-FullStory | fs_uid | 2 | 100+ years | Helps to identify sessions of visitors  
-**status.pipedrive.com**  
-Pipedrive | pipedrive_trafficsource | 1 | 1 year | Helps to identify the traffic source of visitors  
-**support.pipedrive.com**  
-Google Analytics | _ga | 2 | 2 years | Helps to identify sessions of visitors  
-Google Analytics | _ga | 2 | 10 minutes | Helps to throttle traffic rate for Google servers  
-Zendesk | _help_center_session | 2 | session | Helps to identify new visitors  
-Zendesk | _zendesk_shared_session | 2 | session | Helps to identify new visitors  
-Pipedrive | pd_referrer | 1 | 1 year | Helps to identify the referrer and landing page of visitors  
-Pipedrive | pd_referrer_session | 1 | session | Helps to identify the referrer and landing page of visitors  
-Pipedrive | pipedrive_trafficsource | 1 | 1 year | Helps to identify the traffic source of visitors  
-**office365.pipedrive.com**  
-Pipedrive | office-company-domain | 1 | session | Helps to identify the users active company  
-Pipedrive | office-user-id | 1 | session | Helps to identify the active user  
-Pipedrive | office-saved-emails | 2 | 1 minute | Helps to identify which emails are linked to pipedrive  
+FullStory | fs_uid | 2 | 1 year | Helps to identify sessions of visitors  
+Akamai  
+| RT  
+| 1 | 6 days | Used to identify the optimal routing between client and Pipedrive  
+  
+Optimizely  
+| optimizelyEndUserId  
+| 2  
+| 180 days  
+| Helps to remember which version of the page to show to visitor  
+  
+Intercom  
+| intercom-session  
+| 1 | session | Helps to identify your previous conversations with customer support  
+  
+Zendesk  
+| _zendesk_session  
+| 3 | session | Holds session information for root access applications  
+  
+Zendesk | _help_center_session | 2 | session | Stores session information for guide  
+Zendesk | _zendesk_shared_session | 2 | session | Holds session information for sharing across Zendesk applications  
+Zendesk  
+| __cfduid  
+| 3 | 1 year | Cloudflare per-client security settings for assets  
+  
+Zendesk  
+| __cfruid  
+| 3 | session | Cloudflare cookie used in cases were multiple users are hidden behind the same client IP address. Each user will have a unique cookie to help prevent a case of rate limiting all users if one particular user hits the rate limit threshold  
+  
+Pipedrive | pipedrive-cdl  
+| 1 | 1 day | Allows us to route customers to the correct datacenter directly  
+  
+Pipedrive  
+| pd_partner_session  
+| 1 | 9 days | Holds encrypted application session data to identify the user after login  
+  
+Pipedrive  
+| pd_partner_session.sig  
+| 1 | 9 days | Holds session signature  
+  
   
 #### 12\. Minors and Children’s Privacy
 
@@ -276,7 +360,7 @@ The Client or the User is the data controller under the Regulation for any Clien
 
 Pipedrive is not responsible for the content of the Personal Data contained in the Client Data or other information stored on its servers (or its subcontractors’ servers) at the discretion of the Client or User nor is Pipedrive responsible for the manner in which the Client or User collects, handles disclosure, distributes or otherwise processes such information.
 
-If you need a signed Data Processing Addendum in addition to the Terms of Service and Privacy Policy, you can find the document signed on behalf of Pipedrive [here](https://danjcm2668ozn.cloudfront.net/Pipedrive-DPA-2018-08-27.pdf).  
+If you need a signed Data Processing Addendum in addition to the Terms of Service and Privacy Policy, you can find the document signed on behalf of Pipedrive [here](https://cms.pipedriveassets.com/2019-08-28-Pipedrive-DPA.pdf).  
 
 
 #### 18\. Changes and Updates to this Policy
@@ -287,4 +371,6 @@ Please revisit this page periodically to stay aware of any changes to this Polic
 
 Please contact us with any questions or comments about this Policy, your Personal Data, our use and disclosure practices, or your consent choices by email at [privacy@pipedrive.com](mailto:privacy@pipedrive.com). If you have any concerns or complaints about this Policy or your Personal Data, you may contact Pipedrive’s Data Protection Officer by email at [dpo@pipedrive.com](mailto:dpo@pipedrive.com).
 
-Last update: March 23, 2018
+Last update: October 21, 2019
+
+We use cookies to improve your experience on our site and offer you relevant information. [ Learn more ](https://www.pipedrive.com/en/privacy) Accept 
