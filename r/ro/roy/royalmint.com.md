@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511230155id_/https%3A//www.royalmint.com/help/trm-faqs/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103133857id_/https%3A//www.royalmint.com/help/trm-faqs/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies | The Royal Mint
 
@@ -89,7 +89,7 @@ The types of Personal Data that we collect include:
 
 
 
-We only routinely gather special categories of Personal Data with respect to visitors to The Royal Mint Experience booked on a VIP Tour. Visitors will be required to complete a Health Questionnaire before arriving. Tours involve a degree of walking and standing so visitors will be asked if they physically fit to undertake the tour. Visitors will be asked if they have a pace maker fitted as magnetic frequencies are in operation in some of the areas you may visit. Visitors will be asked if they have a nut allergy as nuts are used in processes that visitors may encounter. You will also be asked if you have additional needs that you will require further assistance with on the Tour. These questions are asked in order for us to determine if reasonable adjustments are required in respect of the tour. Visitors to the The Royal Mint Experience may also be asked to provide allergy information when ordering food or attending a catered event.
+We only routinely gather special categories of Personal Data with respect to visitors to The Royal Mint Experience booked on a VIP Tour. Visitors will be required to complete a Health Questionnaire before arriving. These questions are asked in order for us to determine if reasonable adjustments are required and if these can be made in relation to the tour. For example, visitors will be asked if they have a pace maker fitted as magnetic frequencies are in operation in some of the areas you may visit. Visitors will also be asked if they have a nut allergy as nuts are used in processes that visitors may encounter. Visitors to The Royal Mint Experience may also be asked to provide allergy information when ordering food or attending a catered event.
 
 We do not routinely collect any information about criminal allegations, proceedings or convictions.
 
@@ -106,7 +106,7 @@ We collect and process your Personal Data based on one or more of the following 
   * It is necessary for us to perform a contract that you have entered into with us, or because it is necessary before entering into a contact _(for example, to provide you with the product or service that you have requested)_ ;
   * You have given us consent to process your Personal Data for a specific purpose _(for example, to provide you information about our competitions, products, services, offers and news);_
   * The processing is necessary for us to comply with our legal obligations _(for example, to conduct know your customer checks)_ ;
-  * We have a legitimate interest to do so, and have taken your rights into consideration _(for example, to obtain feedback on our products and services or to better understand you as a customer)_ ; and/or
+  * We have a legitimate interest to do so, and have taken your rights into consideration _(for example, to obtain feedback on our products and services or to better understand you as a customer, and to operate a refer-a-friend scheme in order to reward existing customers and to bring in new customers);  _ and/or
   * The processing is necessary to protect your vital interests _(for example, to protect your life)_
 
 
@@ -574,6 +574,98 @@ Analytical/Performance
   
 For more information visit: [_https://www.linkedin.com/legal/privacy-policy_](https://www.linkedin.com/legal/privacy-policy)  
   
+**Mention Me**  
+  
+Name of Cookie
+
+| 
+
+Why we use it
+
+| 
+
+Type
+
+| 
+
+Expiry  
+  
+mm id
+
+| 
+
+This is our tracking ID which serves to identify any unique browser using our flow.
+
+| 
+
+Functionality
+
+| 
+
+5 Years  
+  
+mm allocation
+
+| 
+
+Used to keep track of which offers you are participating in order to give you a more consistent experience.
+
+| 
+
+Functionality
+
+| 
+
+5 Years  
+  
+mm_offer_frequency
+
+| 
+
+Used to keep track of how many times you have seen an offer so that we can limit how many times you see it.
+
+| 
+
+Functionality
+
+| 
+
+30 Days  
+  
+mm_overlay_suppressed
+
+| 
+
+Used to suppress a corner peel promotion if the ‘x’ is clicked.
+
+| 
+
+Functionality
+
+| 
+
+1 Hour  
+  
+mm_conversion_message_suppressed
+
+| 
+
+Used to suppress a conversion message if the ‘x’ is clicked.
+
+| 
+
+Functionality
+
+| 
+
+1 Hour  
+  
+Mention Me helps us operate our refer-a-friend scheme and related services. They act as a service provider and a data processor. Through their technology platform, they enable our customers to refer their friends to us and enable us to reward both the referrer and referred friend when the referred friend becomes a customer. They also enable us to deliver rewards and offers to customers and to engage with customers.
+
+To opt-out of the refer-a-friend scheme, please email customer.services@royalmint.com.
+
+Alternatively to opt-out of the scheme via Mention Me or to obtain further information visit: https://mention-me.com/help/privacy_policy_s#referrers .  
+  
 **Microsoft**  
   
 Name of Cookie
@@ -616,7 +708,11 @@ Name of Cookie
 
 Why we use it
 
-|  | 
+| 
+
+Type
+
+| 
 
 Expiry  
   
@@ -646,7 +742,11 @@ Name of Cookie
 
 Why we use it
 
-|  | 
+| 
+
+Type
+
+| 
 
 Expiry  
   
@@ -674,7 +774,11 @@ Name of Cookie
 
 Why we use it
 
-|  | 
+| 
+
+Type
+
+| 
 
 Expiry  
   
@@ -701,6 +805,72 @@ Functionality
 1 Year  
   
 For more information visit: <https://www.rakuten.com/help/article/privacy-policy-360002101688>  
+  
+**SessionCam**  
+  
+Name of Cookie
+
+| 
+
+Why we use it
+
+| 
+
+Type
+
+| 
+
+Expiry  
+  
+sc.UserId
+
+sc.OptOut
+
+| 
+
+Cookies used to track anonymous data related to website visits.
+
+| 
+
+Performance
+
+| 
+
+1 Year  
+  
+SessionCamTestCookie
+
+| 
+
+Cookie used to test that the SessionCam tool is operational
+
+| 
+
+Functional
+
+| 
+
+Immediate  
+  
+sc.Status
+
+sc.ASP_NET_SESSIONID
+
+| 
+
+Cookies used to track anonymous data related to website visits.
+
+| 
+
+Performance
+
+| 
+
+Duration of visit  
+  
+SessionCam identifies visitors by unique ID and/or IP address. SessionCam collects information such as mouse movements, page scrolling and click activity of individual visitors. Data that is not personally identifiable entered into forms may also be captured. For example, when a visitor ticks a check box or chooses an answer to a multiple choice question. We use the data collected by SessionCam to identify where visitors struggle the most so that we can improve these areas of our website.
+
+For further information, including how to opt out of SessionCam collecting data about how you use our website, please visit https://help.sessioncam.com/hc/en-gb/articles/360004422674-Opt-Out-of-SessionCam .  
   
 **The Royal Mint**  
   
@@ -1093,4 +1263,4 @@ If you are dissatisfied with the outcome of the review, then you may seek a revi
 
 
 
-**Last updated on 17th April 2019.**
+**Last updated on 27th September 2019.**
