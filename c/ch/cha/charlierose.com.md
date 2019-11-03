@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charlierose.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330130506id_/https%3A//charlierose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charlierose.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103110927id_/https%3A//charlierose.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Charlie Rose
 
