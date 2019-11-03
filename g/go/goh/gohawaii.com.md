@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331122738id_/https%3A//www.gohawaii.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103114204id_/https%3A//www.gohawaii.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Go Hawaii
 
@@ -65,3 +65,18 @@ If at any time you believe HTA has not adhered to the principles set forth in th
 
 **X. Amendments to HTA’s Privacy Policy**  
 From time to time, it may be necessary for HTA to amend this Privacy Policy. You are responsible for regularly reviewing this Privacy Policy so that you will be aware of any changes. However, if we make any substantial changes in the way we use your personal information, we will notify you by posting a prominent announcement on our website. Please note that your continued use of this website means that you accept the amendments to this Privacy Policy.
+
+[Gohawaii.com](http://gohawaii.com/) is committed to providing a website that is accessible to the widest possible audience, regardless of technology or ability. We are actively working to increase the accessibility and usability of our website and in doing so adhere to many of the available standards and guidelines.
+
+This website endeavors to conform to level Double-A of the World Wide Web Consortium (W3C) [ **Web Content Accessibility Guidelines 2.**](https://www.w3.org/TR/WCAG20/)[ **1**](https://www.w3.org/TR/WCAG21/). These guidelines explain how to make web content more accessible for people with disabilities. Conformance with these guidelines will help make the web more user-friendly for all people and most importantly our site visitors.
+
+This site has been built using code compliant with W3C standards for HTML and CSS. The site displays correctly in current browsers and using standards compliant HTML/CSS code means any future browsers will also display it correctly.
+
+While [Gohawaii.com](http://gohawaii.com/) strives to adhere to the accepted guidelines and standards for accessibility and usability, it is not always possible to do so in all areas of the website. However, our website will continue to be assessed on a recurring basis from both engineering and user-experience perspective, including the use of assistive technology (such as screen readers and screen magnifiers), and the involvement of users with disabilities who use such assistive technologies.
+
+**Contact Hawaii Tourism Authority with Your Accessibility Questions/Feedback:**  
+We are continually seeking out solutions that will bring all areas of the site up to the same level of overall web accessibility, but please be aware that these are ongoing efforts. In the meantime, should you experience any difficulty in accessing the [Gohawaii.com](http://gohawaii.com/) website, please don’t hesitate to 
+
+ _[contact us](mailto:info@gohta.org?subject=Accessibility%20Issues%20Gohawaii.com)_
+
+. If you do encounter an accessibility issue, please be sure to specify the web page/URL in your email, and we will make all reasonable efforts to address your concerns.
