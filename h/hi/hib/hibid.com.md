@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hibid.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612104516id_/https%3A//hibid.com/%23email-cta-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibid.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103031316id_/https%3A//hibid.com/%23email-cta-footer) for the most accurate reproduction.*
 
 # HiBid Auctions
 
