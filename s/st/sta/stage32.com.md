@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stage32.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329211542id_/https%3A//www.stage32.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stage32.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103175247id_/https%3A//www.stage32.com/privacy) for the most accurate reproduction.*
 
 # Stage 32® Privacy Policy - Stage 32
 
@@ -8,11 +8,11 @@ The Company is the exclusive owner and operator of the Stage 32® website access
 
 THIS DOCUMENT CONTAINS FIFTEEN (15) NUMBERED PARAGRAPHS. BEFORE YOU BEGIN OR CONTINUE TO USE THE SITE, OR ANY SERVICES OR FUNCTIONALITY PROVIDED BY OR THROUGH THE SITE, PLEASE CAREFULLY READ THIS PRIVACY POLICY. THIS PRIVACY POLICY CONTAINS IMPORTANT INFORMATION. IT IS ALSO VERY IMPORTANT THAT YOU FULLY UNDERSTAND OUR POLICY BECAUSE BY YOUR USE OR CONTINUED USE OF THIS SITE OR ANY OF ITS RELATED SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY IN ITS ENTIRETY AND THAT YOU AGREE TO THE COLLECTION AND USE OF INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU, INCLUDING PERSONAL INFORMATION, AS DETAILED IN THIS POLICY STATEMENT.
 
-ONLY PERSONS OVER THE AGE OF SIXTEEN (16) YEARS ARE AUTHORIZED TO USE THIS SITE. AUTHORIZED ACCESS AND USE OF THE SITE, ITS DATABASES AND FUNCTIONALITY IS LIMITED TO PERSONS OVER THE AGE OF SIXTEEN (16) YEARS, AND SUCH ACCESS AND USE IS LIMITED BY OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20190329211542id_/https%3A//www.stage32.com/terms).
+ONLY PERSONS OVER THE AGE OF SIXTEEN (16) YEARS ARE AUTHORIZED TO USE THIS SITE. AUTHORIZED ACCESS AND USE OF THE SITE, ITS DATABASES AND FUNCTIONALITY IS LIMITED TO PERSONS OVER THE AGE OF SIXTEEN (16) YEARS, AND SUCH ACCESS AND USE IS LIMITED BY OUR [TERMS AND CONDITIONS](https://web.archive.org/terms).
 
 ONLY PERSONS OVER THE AGE OF SIXTEEN (16) YEARS ARE AUTHORIZED TO PROVIDE PERSONAL INFORMATION TO STAGE 32® OR TO THE COMPANY. THE COMPANY DOES NOT KNOWINGLY SEEK OR COLLECT ANY PERSONAL INFORMATION OR OTHER DATA FROM ANY PERSONS UNDER THE AGE OF SIXTEEN (16) YEARS.
 
-IF YOU DO NOT UNDERSTAND OR DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY AND OUR [WEBSITE TERMS OF USE](https://web.archive.org/web/20190329211542id_/https%3A//www.stage32.com/terms) YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED OR OTHERWISE PROVIDED BY OR THROUGH THIS SITE.
+IF YOU DO NOT UNDERSTAND OR DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY AND OUR [WEBSITE TERMS OF USE](https://web.archive.org/terms) YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED OR OTHERWISE PROVIDED BY OR THROUGH THIS SITE.
 
   1. Information Security
 
@@ -78,7 +78,7 @@ European Union Regulation 2016/679 – General Data Protection Regulation
 
 The EU Regulation 2016/679 requires STAGE 32 to request your consent for the collection and processing of parts of your information in order to allow us to continue to provide you with a secure and complete use of STAGE 32 Services. The information that you provide either through your subscription to STAGE 32, or through a STAGE 32 partner, or by using the STAGE 32 Services guarantees the efficient operating of these same STAGE 32 Services. This Information is used exclusively within the framework of the activity of STAGE 32 Services. 
 
-You have the right to modify, correct or delete your Information whenever you so choose either by going to your administration interface (“Settings”, where you will find “[Edit Profile](http://stage32.com/profile)” and “[Email Preferences](https://web.archive.org/web/20190329211542id_/https%3A//www.stage32.com/subscriptions)”) or by contacting our support ([support@stage32.com](mailto:support@stage32.com)).
+You have the right to modify, correct or delete your Information whenever you so choose either by going to your administration interface (“Settings”, where you will find “[Edit Profile](http://stage32.com/profile)” and “[Email Preferences](https://web.archive.org/subscriptions)”) or by contacting our support ([support@stage32.com](mailto:support@stage32.com)).
 
 I hereby consent to use of the following Information:
 
@@ -171,7 +171,7 @@ The Company does not provide a process to update or modify a Website user's pers
 
 
 
-The Website also offers to you a procedure for "Opting-Out" if you subsequently choose to revoke or withdraw any consent to accept or receive Offers. To revoke or withdraw a consent to accept or receive Offers, send an e-mail to [remove@stage32.com](mailto:remove@stage32.com), clearly stating that you have revoked or withdrawn consent to receive any future Offers. You may also Opt-Out or terminate subscriptions or memberships by visiting our unsubscribe/cancel memberships page at [https://www.stage32.com/settings](https://web.archive.org/web/20190329211542id_/https%3A//www.stage32.com/settings).
+The Website also offers to you a procedure for "Opting-Out" if you subsequently choose to revoke or withdraw any consent to accept or receive Offers. To revoke or withdraw a consent to accept or receive Offers, send an e-mail to [remove@stage32.com](mailto:remove@stage32.com), clearly stating that you have revoked or withdrawn consent to receive any future Offers. You may also Opt-Out or terminate subscriptions or memberships by visiting our unsubscribe/cancel memberships page at [https://www.stage32.com/settings](https://web.archive.org/settings).
 
 If you decide to cancel a subscription, membership or other Offer and later wish to re-subscribe, rejoin or recommence receiving a previously cancelled Offer, you may not always be able or entitled to do so, and you many not be entitled to receive credit towards benefits offered by the Company or a third party. We reserve the right at all times to terminate or suspend any subscription, membership, Offer, service or account at any time with or without notice.
 
@@ -183,7 +183,7 @@ We may send you offers on behalf of Third Party Program Participants. Acceptance
 
 The Company shares aggregated demographic and Website navigation information, Data, Optional Information and other information with Third Party Program Participants, advertisers, analysts and others. We may also sell access to our mailing lists, including e-mail lists, and other information to brokers and third party advertisers and we may transfer your information to such third parties. We may transfer some or all of our information to a purchaser of all or part of our Company or any successor in interest in the Company or the Website. We may also hire contractors or other third parties to perform any Company, Website or Website service function with or without notice to you. The Company and its agents may also aggregate demographic and other information about you and other Website users in databases and disclose, license or sell such information to Third Party Program Participants and other parties.
 
-By your use or continued use of the Website or acceptance of any Offer associated with the Website, you expressly agree that this Privacy Policy, all Data, Optional Information and other information collected by the Company, its agents, affiliates, Third Party Program Participants and all other third parties associated with the Company or the Website, all contractual rights and all rights arising under the [Terms and Conditions](https://web.archive.org/web/20190329211542id_/https%3A//www.stage32.com/terms) may be freely and unconditionally transferred, assigned, sold, leased or licensed to any person or entity and that all Offers are subject to change and may be terminated by the Company or any third party initiating the Offer, with or without notice.
+By your use or continued use of the Website or acceptance of any Offer associated with the Website, you expressly agree that this Privacy Policy, all Data, Optional Information and other information collected by the Company, its agents, affiliates, Third Party Program Participants and all other third parties associated with the Company or the Website, all contractual rights and all rights arising under the [Terms and Conditions](https://web.archive.org/terms) may be freely and unconditionally transferred, assigned, sold, leased or licensed to any person or entity and that all Offers are subject to change and may be terminated by the Company or any third party initiating the Offer, with or without notice.
 
   10. Disclosure
 
@@ -212,13 +212,13 @@ NO MINOR ACCESS TO ANY OF OUR MEMBER SERVICES IS AUTHORIZED. PERSONS UNDER THE A
 
 
 
-This Privacy Policy applies to your use of the Website and services owned or operated by the Company. This policy does not apply to your use of unaffiliated sites which are only linked to the Website, except in any circumstances in which Company is deemed to be responsible or liable in any manner for any activity pertaining to such unaffiliated site(s) that is the subject matter of this Privacy Policy, in which case, you expressly agree that the terms of this Privacy Policy shall control. By use of the Website, you agree that all disputes relating to or arising under this Privacy Policy shall be resolved by the procedures for dispute resolution, and limitations of damages, set forth in the Website’s [Terms and conditions](https://web.archive.org/web/20190329211542id_/https%3A//www.stage32.com/terms).
+This Privacy Policy applies to your use of the Website and services owned or operated by the Company. This policy does not apply to your use of unaffiliated sites which are only linked to the Website, except in any circumstances in which Company is deemed to be responsible or liable in any manner for any activity pertaining to such unaffiliated site(s) that is the subject matter of this Privacy Policy, in which case, you expressly agree that the terms of this Privacy Policy shall control. By use of the Website, you agree that all disputes relating to or arising under this Privacy Policy shall be resolved by the procedures for dispute resolution, and limitations of damages, set forth in the Website’s [Terms and conditions](https://web.archive.org/terms).
 
   14. Revisions to this Privacy Policy; Questions.
 
 
 
-The Company reserves the right, in its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner. Changes to this Policy will be effective by posting revisions on the Website at [https://www.stage32.com/terms/revisions](https://web.archive.org/web/20190329211542id_/https%3A//www.stage32.com/terms/revisions) or elsewhere as indicated on the Website. In some circumstances you might be required to actively "accept" or "agree" to a new Privacy Policy or to new or modified provisions in the Privacy Policy in order to continue using the Website or services provided by the Company or Third Party Program Participants. Such assent or agreement to revisions to this Privacy Policy may be effectuated via an Opt-In or Opt-Out procedure (as those procedures are discussed above). The effective date of this Privacy Police is 12:01 a.m. PST on the date indicated at the beginning of this document. The latest date of revision of this Privacy Policy is May 23, 2018 above.
+The Company reserves the right, in its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner. Changes to this Policy will be effective by posting revisions on the Website at [https://www.stage32.com/terms/revisions](https://web.archive.org/terms/revisions) or elsewhere as indicated on the Website. In some circumstances you might be required to actively "accept" or "agree" to a new Privacy Policy or to new or modified provisions in the Privacy Policy in order to continue using the Website or services provided by the Company or Third Party Program Participants. Such assent or agreement to revisions to this Privacy Policy may be effectuated via an Opt-In or Opt-Out procedure (as those procedures are discussed above). The effective date of this Privacy Police is 12:01 a.m. PST on the date indicated at the beginning of this document. The latest date of revision of this Privacy Policy is May 23, 2018 above.
 
   15. Miscellaneous.
 
