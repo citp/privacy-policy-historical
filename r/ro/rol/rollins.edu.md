@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollins.edu privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503221844id_/https%3A//www.rollins.edu/the-fine-print/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollins.edu privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103220848id_/https%3A//rollins.edu/the-fine-print/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Fine Print | Rollins College | Orlando, FL
 
