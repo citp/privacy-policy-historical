@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manhub.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818212635id_/http%3A//www.manhub.com/static/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manhub.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103055822id_/http%3A//www.manhub.com/static/privacyPolicy) for the most accurate reproduction.*
 
 # Man Hub ™ - Free Gay Porn Movies Updated Daily On Our Gay Tube
 
