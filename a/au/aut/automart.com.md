@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automart.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520133627id_/https%3A//www.autotrader.com/legal/privacy-statement.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automart.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103211810id_/https%3A//www.autotrader.com/legal/privacy-statement.xhtml) for the most accurate reproduction.*
 
 # Privacy Statement - Autotrader
 
