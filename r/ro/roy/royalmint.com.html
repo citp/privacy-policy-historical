@@ -1,11 +1,53 @@
-<!--The following is the downloaded HTML source of the royalmint.com privacy policy that was archived on 2019-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190511230155id_/https%3A//www.royalmint.com/help/trm-faqs/privacy-and-cookies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the royalmint.com privacy policy that was archived on 2019-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191103133857id_/https%3A//www.royalmint.com/help/trm-faqs/privacy-and-cookies) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html ng-app="rmApp"><head>
 <meta name="google-site-verification" content="Eul-QCxIkkkxGipDpVRsMVhx-D7WK6s4M0d6zvzolso">
 
 
 <style>
+
+@media only screen and (max-width: 768px) {
+.btn-inline{margin-top: 15px;}
+}
+
+@media only screen and (min-width: 768px) {
+
+.btn-inline{margin-left: 15px; margin-top:0!important;}
+
+.block-container .btn-block{
+width:auto;
+display:inline-block;
+}
+.trmVariant a {
+display:block!important;
+}
+
+.trmVariant reviewstars {
+    display: none;
+}
+
+}
+
+
+/*VARIANT CAROUSEL*/
+.variantCarouselBlock .bg-pearl{background:transparent;}
+.noAddToBasket .item-extras{display:none;}
+.noAddToBasket .btn{display:none;}
+
+
+/*GIFT HEADER MOVE TO CUSTOMER.CSS*/
+.giftHeader {
+    padding-bottom: 15px;
+    padding-top: 45px;
+    font-weight: 100;
+    text-align: center!important;
+    color: #cab6b6!important;
+    border-color: #cab6b6!important;
+}
+
+
+
 /*Custom css added by The Royal Mint*/
     /*Facet filters styling for desktop sized viewing*/
     @media screen and (min-width: 992px) {
@@ -206,25 +248,44 @@ background-color:#fff;
 
 </style>
 
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MWXJFDN"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-
 
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MWXJFDN"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 
-<!-- BASKET ADSELL -->
 
-<style>
-	/*body{ background: #eee; }*/
-	.page-basket-page h1{ margin-top:30px;}
-	.floating-button{position: fixed; bottom: 0; left: 0; width: 100%; margin: 0; z-index: 105; border-top:1px SOLID #EEE; }
-</style>
 
-<!-- END BASKET ADSELL -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MWXJFDN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
 
 <!-- START TRM CONTENT MODAL -->
+<script type="text/javascript">
+	
+	$(document).ready( function(){	
+		
+		$(".trm-modal").click(function() {
+			$(".trm-modal").css({'display':'none'});
+		});
+
+		$(".trm-modal-close-button").click(function() {
+			$(".trm-modal").css({'display':'none'});
+		});		
+			
+	})	
+
+</script>
+
+
+
+
+
+
+
 <script type="text/javascript">
 
 	
@@ -235,7 +296,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		sessionStorage.trmPages = 1;
 	}	
 
-	console.log(sessionStorage.trmPages);
+	//console.log(sessionStorage.trmPages);
 	
 	/* BEGIN TRM COOKIE FUNCTIONS */
 	
@@ -270,7 +331,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		//CHECK IF THE COOKIE HAS BEEN SET
 		if(shown != ''){
 			//SEEN THIS BEFORE DON'T SHOW
-			console.log('Seen Survey before - do not show');
+			//console.log('Seen Survey before - do not show');
 		}else{
 
 if (document.location.href.indexOf('checkout') === -1 && document.location.href.indexOf('basket') === -1){ 
@@ -290,24 +351,7 @@ if (document.location.href.indexOf('checkout') === -1 && document.location.href.
 	
 	
 	$(document).ready( function(){	
-
-
-		//IMPLIMENT THE 60 SECONDS DELAY BACKUP
-		setTimeout( function(){
-			trmShowModal("trm-modal1")
-		}, 60000);
-		
-		//SEVEN PAGE TRIGGER
-		if(sessionStorage.trmPages == 7){
-			console.log(sessionStorage.trmPages);
-
-//DELAY FOR 3 SECONDS AFTER LANDING ON PAGE
-			setTimeout( function(){
-				trmShowModal("trm-modal1")
-			}, 3000);
-
-                       sessionStorage.trmPages = 0			
-		}
+			
 		
 		//CLOSE FUNCTION FOR MODAL CLASS SO IT CAN BE USED THROUGHOUT THE SITE
 		$(".trm-modal").click(function() {
@@ -326,6 +370,12 @@ if (document.location.href.indexOf('checkout') === -1 && document.location.href.
 
 </script>
 <!-- END TRM CONTENT MODAL -->	
+
+
+
+
+
+
 
 <script>
         function HuntConfiguration() {
@@ -400,28 +450,32 @@ if (document.location.href.indexOf('checkout') === -1 && document.location.href.
 
 	$('document').ready(function(){
 		
-if ($(".secondary-menu")[0]){
+if ( $(window).width() > 768){
 
 		//BUILD THE NAV
 		newNav = '<div class="level0"><a href="/our-coins" title="Browse and buy coins from our coin catalogue">Coins</a></div>';
 		newNav += '<div class="level0"><a href="/gifts" title="Discover our range of gifts">Gifts</a></div>';
 		newNav += '<div class="level0"><a href="/invest" title="Start investing in gold, silver and platinum bullion today">Invest</a></div>';
 		newNav += '<div class="level0"><a href="/experience" title="Discover our history and learn how we make coins at The Royal Mint Experience">Visit</a></div>';
-		newNav += '<div class="level0"><a href="/corporate" title="">Business</a></div>';
+		//newNav += '<div class="level0"><a href="/corporate" title="">Business</a></div>';
 		newNav += '<div class="level0"><a href="/discover" title="">Discover</a></div>';
 		newNav += '<div class="level0"><a href="/aboutus" title="">About</a></div>';
 		newNav += '<div class="level0"><a href="https://blog.royalmint.com" title="">Blog</a></div>';
 		//newNav += '<div class="level0"><a href="/collector-services" title="">Collectors</a></div>';
 		
-		$('.rm-navbar').html(newNav);	
-
+		$('.rm-navbar').html(newNav);
+                $('.rm-navbar').addClass('desktopNav');
 }	
-		
 	});
 	
 </script>
-
 <!-- END PRIMARY MENU OVERRIDE -->
+
+<script>
+$(function () {
+$('#loginForm-header > form > p.has-error').html('<div class="help-block ng-binding"><p>We are having difficulty accessing your account. Please consider <a href="" data-show="#forgottenPW-header" data-hide="#loginForm-header" class="pw-link">resetting your password</a> or if you require further assistance please contact our <a href="/contact/">customer services team</a>, who’ll be able to help you login.</p></div>');
+});
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale = 1.0, minimum-scale=1.0, maximum-scale=1.0, user-scaleable=no, minimal-ui">
     <base href="https://www.royalmint.com">
@@ -443,7 +497,7 @@ if ($(".secondary-menu")[0]){
 
 
 
-<link href="/bundles/css?v=7-lM679eJva1y0m7FnfhQVveQEpXuL2egtJCrhMxP0U1" rel="stylesheet">
+<link href="/bundles/css?v=KLe70j07quQ8p7O9fEq8WbaOmH6YnECJOj5MkuKv0IQ1" rel="stylesheet">
 <meta name="msapplication-square70x70logo" content="/Static/img/global/favicons/windows-tile-70x70.png">
 <meta name="msapplication-square150x150logo" content="/Static/img/global/favicons/windows-tile-150x150.png">
 <meta name="msapplication-square310x310logo" content="/Static/img/global/favicons/windows-tile-310x310.png">
@@ -479,7 +533,7 @@ if ($(".secondary-menu")[0]){
         </script>
 
 
-</head>
+<script type="text/javascript">var appInsights=window.appInsights||function(config){function t(config){i[config]=function(){var t=arguments;i.queue.push(function(){i[config].apply(i,t)})}}var i={config:config},u=document,e=window,o="script",s="AuthenticatedUserContext",h="start",c="stop",l="Track",a=l+"Event",v=l+"Page",r,f;setTimeout(function(){var t=u.createElement(o);t.src=config.url||"https://az416426.vo.msecnd.net/scripts/a/ai.0.js";u.getElementsByTagName(o)[0].parentNode.appendChild(t)});try{i.cookie=u.cookie}catch(y){}for(i.queue=[],r=["Event","Exception","Metric","PageView","Trace","Dependency"];r.length;)t("track"+r.pop());return t("set"+s),t("clear"+s),t(h+a),t(c+a),t(h+v),t(c+v),t("flush"),config.disableExceptionTracking||(r="onerror",t("_"+r),f=e[r],e[r]=function(config,t,u,e,o){var s=f&&f(config,t,u,e,o);return s!==!0&&i["_"+r](config,t,u,e,o),s}),i}({instrumentationKey:"e835c9c5-e581-4558-90be-7df5c1f337f5",sdkExtension:"a"});window.appInsights=appInsights;appInsights.queue&&appInsights.queue.length===0&&appInsights.trackPageView();</script><script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script></head>
 
 <body class="page-privacyand-cookies standard-page " ng-controller="rmCommerceController as rmCommerce" breakpoint="{0:'body-xs', 767:'body-sm', 991:'body-md', 1199:'body-lg'}" id="pageTop">
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -488,7 +542,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-MWXJFDN');</script>
     
-<input name="__RequestVerificationToken" type="hidden" value="DI7oShFk-o0t33-whYaUXQIV2WazVV0P4S9GFu4D8Bmi4SBmGGPENsTgmXU_Rk31-ZWCpnibfTqhPxP9msKT0VL_Oh2Nzn1XChfCAGhuCy41">
+<input name="__RequestVerificationToken" type="hidden" value="QGUy6HcQaZpmf1WQX7C3glZ6aSz_gskUHtEpAbEY1ujUpwsxnEDwDV-lnPoDsOfdYGIQMgEx1JdEPjqKpqX8OHACgCDYCAC3OK-cxGGu3TQ1">
 
 
 
@@ -543,18 +597,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                                                                     <div class="block  editorialBlock col-xs-12 col-sm-4"><div class="blockContent ">
     <div class="level2 has-children"><a href="/our-coins/just-arrived/">New Coins</a></div>
-<div class="level3"><a title="D-Day" href="/our-coins/events/d-day/">75th Anniversary of D-Day</a></div>
-<div class="level3"><a title="Victoria 200" href="/our-coins/events/queen-victoria/">Victoria 200</a></div>
-<div class="level3"><a href="/our-coins/events/samuel-pepys/">Samuel Pepys </a></div>
-<div class="level3"><a title="50 Years of the 50p Brilliant Uncirculated" href="/our-coins/events/50-years-of-the-50p/50-Years-of-the-50p-Brilliant-Uncirculated-Coin-Set-British-Culture/">50 Years of the 50p</a></div>
-<div class="level3"><a title="Wedgwood" href="/our-coins/events/wedgwood/">Wedgwood</a></div>
+<div class="level3"><a href="/our-coins/events/wallace-and-gromit-2019/">Wallace and Gromit</a></div>
+<div class="level3"><a href="/sovereign/2020-gold-proof-sovereign/">Sovereign 2020</a></div>
+<div class="level3"><a href="/our-coins/events/gruffalo/">Gruffalo</a></div>
+<div class="level3"><a title="Prince Albert Sovereign" href="/sovereign/2019/Prince-Albert-2019-Celebration-Sovereign/">SOTD Sovereign</a></div>
+<div class="level3"><a title="Paddington" href="/our-coins/events/paddington/">Paddington</a></div>
+<div class="level3"><a title="Tower Of London Collection" href="/our-coins/events/tower-of-london/">Tower Of London Collection</a></div>
+<div class="level3"><a title="Captain Cook" href="/our-coins/events/captain-cook/">Captain Cook</a></div>
+<div class="level3"><a title="Sherlock Holmes" href="/our-coins/events/sherlock-holmes/">Sherlock Holmes</a></div>
 <div class="level2"><a href="/our-coins/just-arrived/">View All</a></div>
 </div></div><div class="block  hidden-xs hidden-sm editorialBlock col-xs-12 col-sm-4"><div class="blockContent ">
     <div class="level2 has-children"><a href="/our-coins/events/">Collections</a>
 <div>
 <div class="level3"><a href="/our-coins/events/beatrix-potter/">Beatrix Potter</a></div>
 <div class="level3"><a title="The Great British Coin Hunt" href="/coinhunt/2019/">Great British Coin Hunt</a></div>
-<div class="level3"><a href="/our-coins/military/">Military</a></div>
+<div class="level3"><a href="/our-coins/military-coins/">Military</a></div>
 <div class="level3"><a href="/our-coins/interests/royalty/">Royalty</a></div>
 <div class="level3"><a href="/our-coins/events/childhood-characters/">Childhood Characters</a></div>
 <div class="level2"><a href="/our-coins/events/">View All</a></div>
@@ -576,7 +633,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div>
 <div class="level3"><a href="/our-coins/events/beatrix-potter/">Beatrix Potter</a></div>
 <div class="level3"><a href="/our-coins/events/great-british-coin-hunt/">Great British Coin Hunt</a></div>
-<div class="level3"><a href="/our-coins/military/">Military</a></div>
+<div class="level3"><a href="/our-coins/military-coins/">Military</a></div>
 <div class="level3"><a href="/our-coins/interests/royalty/">Royalty</a></div>
 <div class="level3"><a href="/our-coins/events/childhood-characters/">Childhood Characters</a></div>
 <div class="level3"><a href="/our-coins/ranges/brilliant-uncirculated-coins/">Coins from £10</a></div>
@@ -594,7 +651,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="level3"><a href="/our-coins/ranges/annual-sets/">Annual Sets</a></div>
 <div class="level3"><a href="/our-coins/ranges/britannia/">Britannia</a></div>
 <div class="level3"><a href="/our-coins/ranges/queens-beasts/">The Queen's Beasts Series</a></div>
-<div class="level3"><a title="Lunar Chinese Zodiac" href="/lunar/">Lunar Chinese Zodiac</a></div>
+<div class="level3"><a title="Lunar Chinese Zodiac" href="/lunar-old/">Lunar Chinese Zodiac</a></div>
 <div class="level2"><a href="/our-coins/ranges/">View All</a></div>
 </div>
 </div>
@@ -604,7 +661,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="level3"><a href="/our-coins/ranges/historic-coins/bulletin-historic/">Best Selling Historic Coins</a></div>
 <div class="level3"><a href="/our-coins/ranges/historic-coins/historic-sets/">Historic Sets</a></div>
 <div class="level3"><a href="/our-coins/ranges/historic-coins/ancillaries/">Coin Care and Display</a></div>
-<div class="level3"><a href="/our-coins/ranges/historic-coins/victoria-and-the-victorian-era/">Victoria and the Victorian Era</a></div>
+<div class="level3"><a href="/our-coins/ranges/historic-coins/monarch/queen-victoria/">Victoria and the Victorian Era</a></div>
 <div class="level3"><a href="/our-coins/ranges/historic-coins/maundy-thursday/">Maundy Money</a></div>
 <div class="level2 has-children"><a href="/our-coins/ranges/historic-coins/">View All</a></div>
 </div>
@@ -641,7 +698,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="level3"><a href="/our-coins/events/childhood-characters/">Childhood Characters</a></div>
 <div class="level3"><a href="/our-coins/interests/great-britons/">Great Britons</a></div>
 <div class="level3"><a href="/our-coins/interests/british-interest/">British Interest</a></div>
-<div class="level3"><a href="/our-coins/military/">Military</a></div>
+<div class="level3"><a href="/our-coins/military-coins/">Military</a></div>
 <div class="level3"><a href="/our-coins/interests/natural-world/">Natural World</a></div>
 <div class="level3"><a href="/our-coins/interests/art-and-culture/">Art and Culture</a></div>
 <div class="level3"><a href="/our-coins/interests/popular-culture/">Popular Culture</a></div>
@@ -876,6 +933,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                                                             </div>
                                                     </div>
+                                                    <div class="level1 ">
+                                                            <a href="/mintmarque/">Mint Marque</a>
+                                                                                                            </div>
                                             </div>
                                         </div>
                                     </div>
@@ -890,16 +950,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                             <a href="/gifts/">Gifts Home</a>
                                                                                                             </div>
                                                     <div class="level1 ">
-                                                            <a href="/gifts/silver/">Silver Gifts</a>
-                                                                                                            </div>
-                                                    <div class="level1 ">
-                                                            <a href="/gifts/accessories/">Accessories</a>
-                                                                                                            </div>
-                                                    <div class="level1 ">
-                                                            <a href="/gifts/coin-gifts/">Coin Gifts</a>
-                                                                                                            </div>
-                                                    <div class="level1 ">
-                                                            <a href="/gifts/stationery-and-books/">Stationery</a>
+                                                            <a href="/christmas/">Christmas Gifts</a>
                                                                                                             </div>
                                                     <div class="level1 has-children">
                                                             <span class="fauxLink">
@@ -948,28 +999,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
     </div>
 </article></div><div class="block  contentNavBlock col-xs-6"><article class="blockContent">
-     <a title="" href="/gifts/stationery-and-books/"><picture>
-        <source media="(max-width: 767px)" data-srcset="/globalassets/the-royal-mint/blocks/gifting-blocks/stationery-and-books-mega-menu.jpg?width=767">
-            <source media="(max-width: 991px)" data-srcset="/globalassets/the-royal-mint/blocks/gifting-blocks/stationery-and-books-mega-menu.jpg?width=991">
-            <source media="(max-width: 1199px)" data-srcset="/globalassets/the-royal-mint/blocks/gifting-blocks/stationery-and-books-mega-menu.jpg?width=1199">
-            <source media="(min-width: 1200px)" data-srcset="/globalassets/the-royal-mint/blocks/gifting-blocks/stationery-and-books-mega-menu.jpg?width=2147483647">
-    <img class="img-responsive  lazy" data-src="/globalassets/the-royal-mint/blocks/gifting-blocks/stationery-and-books-mega-menu.jpg?width=2147483647">
+     <a title="" href="/gifts/jewellery/"><picture>
+                    <source media="(min-width: 1200px)" data-srcset="/globalassets/gifts/_structure/jewellery/sprig-menu.jpg?width=2147483647">
+    <img class="img-responsive  lazy" data-src="/globalassets/gifts/_structure/jewellery/sprig-menu.jpg?width=2147483647">
 </picture>
 </a>
     <div class="block-content">
         <h2>
         </h2>
         <div class="xhtml">
-            <p class="h5"><a href="/gifts/stationery-and-books/">Stationery</a></p>
+            <p class="h5"><a href="/gifts/jewellery/">Jewellery</a></p>
         </div>
     </div>
 </article></div><div class="block  contentNavBlock col-xs-6"><article class="blockContent">
      <a title="" href="/gifts/accessories/"><picture>
-        <source media="(max-width: 767px)" data-srcset="/globalassets/the-royal-mint/blocks/gifting-blocks/accessories-mega-menu.jpg?width=767">
-            <source media="(max-width: 991px)" data-srcset="/globalassets/the-royal-mint/blocks/gifting-blocks/accessories-mega-menu.jpg?width=991">
-            <source media="(max-width: 1199px)" data-srcset="/globalassets/the-royal-mint/blocks/gifting-blocks/accessories-mega-menu.jpg?width=1199">
-            <source media="(min-width: 1200px)" data-srcset="/globalassets/the-royal-mint/blocks/gifting-blocks/accessories-mega-menu.jpg?width=2147483647">
-    <img class="img-responsive  lazy" data-src="/globalassets/the-royal-mint/blocks/gifting-blocks/accessories-mega-menu.jpg?width=2147483647">
+                    <source media="(min-width: 1200px)" data-srcset="/globalassets/gifts/scarves.jpg?width=2147483647">
+    <img class="img-responsive  lazy" data-src="/globalassets/gifts/scarves.jpg?width=2147483647">
 </picture>
 </a>
     <div class="block-content">
@@ -989,6 +1034,116 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                                                             </div>
                                                     </div>
+                                                    <div class="level1 has-children">
+                                                            <span class="fauxLink">
+                                                                Our Ranges
+                                                            </span>
+                                                                                                                    <div>
+                                                                <div class="list-heading">
+                                                                    Our Ranges<a class="btn nav-close pull-right visible-md visible-lg" role="button"><i class="trmi trmi-close"></i></a>
+                                                                </div>
+                                                                <div class="row">
+
+                                                                    <div class="block  trmNavigationBlock col-xs-12">
+
+
+<div class="level2 ">
+            <a href="/gifts/by-range/molten/">Molten</a>
+            <div class="row">
+                    
+            </div>
+
+
+</div>
+</div><div class="block  trmNavigationBlock col-xs-12">
+
+
+<div class="level2 ">
+            <a href="/gifts/by-range/queens-beasts-accessories/">Queen's Beasts Accessories</a>
+            <div class="row">
+                    
+            </div>
+
+
+</div>
+</div><div class="block  trmNavigationBlock col-xs-12">
+
+
+<div class="level2 ">
+            <a href="/gifts/motto/">Motto</a>
+            <div class="row">
+                    
+            </div>
+
+
+</div>
+</div><div class="block  trmNavigationBlock col-xs-12">
+
+
+<div class="level2 ">
+            <a href="/gifts/by-range/sprig/">Sprig</a>
+            <div class="row">
+                    
+            </div>
+
+
+</div>
+</div><div class="block  trmNavigationBlock col-xs-12">
+
+
+<div class="level2 ">
+            <a href="/gifts/by-range/hello-little-one/">Hello Little One</a>
+            <div class="row">
+                    
+            </div>
+
+
+</div>
+</div><div class="block  trmNavigationBlock col-xs-12">
+
+
+<div class="level2 ">
+            <a href="/gifts/by-range/minty/">Minty®</a>
+            <div class="row">
+                    
+            </div>
+
+
+</div>
+</div><div class="block  trmNavigationBlock col-xs-12">
+
+
+<div class="level2 ">
+            <a href="/gifts/by-range/stephen-hawking-accessories/">Stephen Hawking Accessories</a>
+            <div class="row">
+                    
+            </div>
+
+
+</div>
+</div>
+                                                                </div>
+
+                                                            </div>
+                                                    </div>
+                                                    <div class="level1 ">
+                                                            <a href="/gifts/personalised-gifts/">Personalised Gifts</a>
+                                                                                                            </div>
+                                                    <div class="level1 ">
+                                                            <a href="/jewellery/">Jewellery</a>
+                                                                                                            </div>
+                                                    <div class="level1 ">
+                                                            <a href="/gifts/accessories/">Accessories</a>
+                                                                                                            </div>
+                                                    <div class="level1 ">
+                                                            <a href="/gifts/silver/">Silver Gifts</a>
+                                                                                                            </div>
+                                                    <div class="level1 ">
+                                                            <a href="/gifts/coin-gifts/">Coin Gifts</a>
+                                                                                                            </div>
+                                                    <div class="level1 ">
+                                                            <a href="/gifts/stationery-and-books/">Stationery</a>
+                                                                                                            </div>
                                             </div>
                                         </div>
                                     </div>
@@ -1073,54 +1228,78 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 </div><div class="block  trmNavigationBlock col-xs-12 col-md-4">
-<a href="/invest/bullion/bullion-by-metal/" title="Bullion by Metal">
-    Bullion by Metal
-</a>
-    <ul>
-            <li>
-                <a href="/invest/bullion/bullion-by-metal/gold-bullion/" title="Gold Bullion">Gold Bullion</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/bullion-by-metal/silver-bullion/" title="Silver Bullion">Silver Bullion</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/bullion-by-metal/platinum-bullion/" title="Platinum Bullion">Platinum Bullion</a>
-            </li>
-                    <li>
-                <a href="/invest/bullion/bullion-by-metal/" title="View All">Bullion by Metal</a>
-            </li>
-    </ul>
 
-</div><div class="block border-none  hidden-xs hidden-sm spacerBlock   col-xs-12 border-transparent"><div class="blockContent">
+
+<div class="level2 has-children">
+            <a href="/invest/bullion/bullion-by-metal/">Bullion by Metal</a>
+            <div>
+                    <div class="level3">
+                        <a href="/invest/bullion/bullion-by-metal/gold-bullion/">Gold Bullion</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/bullion-by-metal/silver-bullion/">Silver Bullion</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/bullion-by-metal/platinum-bullion/">Platinum Bullion</a>
+                    </div>
+                
+                <div class="row">
+                    
+                </div>
+
+                    <div class="levelParent mt-1x mb-1x strong">
+                        <a href="/invest/bullion/bullion-by-metal/" title="View All">View All</a>
+                    </div>
+
+            </div>
+
+
+</div>
+</div><div class="block border-none  hidden-xs hidden-sm spacerBlock mb-0   col-xs-12 border-transparent"><div class="blockContent">
     &nbsp;
 </div></div><div class="block  trmNavigationBlock col-xs-12 col-md-4">
-<a href="/invest/bullion/uk-coin-ranges/" title="UK Coin Ranges">
-    UK Coin Ranges
-</a>
-    <ul>
-            <li>
-                <a href="/invest/bullion/uk-coin-ranges/britannia/" title="The Britannia">The Britannia</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/uk-coin-ranges/sovereign/" title="The Sovereign">The Sovereign</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/uk-coin-ranges/lunar/" title="Lunar">Lunar</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/uk-coin-ranges/queens-beasts/" title="The Queen's Beasts">The Queen's Beasts</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/uk-coin-ranges/landmarks-of-britain/" title="Landmarks of Britain">Landmarks of Britain</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/uk-coin-ranges/the-royal-arms/" title="The Royal Arms">The Royal Arms</a>
-            </li>
-                    <li>
-                <a href="/invest/bullion/uk-coin-ranges/" title="View All">UK Coin Ranges</a>
-            </li>
-    </ul>
 
+
+<div class="level2 has-children">
+            <a href="/invest/bullion/uk-coin-ranges/">UK Coin Ranges</a>
+            <div>
+                    <div class="level3">
+                        <a href="/invest/bullion/uk-coin-ranges/britannia/">The Britannia</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/uk-coin-ranges/sovereign/">The Sovereign</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/uk-coin-ranges/lunar/">Lunar</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/uk-coin-ranges/queens-beasts/">The Queen's Beasts</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/uk-coin-ranges/landmarks-of-britain/">Landmarks of Britain</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/uk-coin-ranges/the-royal-arms/">The Royal Arms</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/uk-coin-ranges/the-valiant/">Valiant</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/uk-coin-ranges/two-dragons/">Two Dragons</a>
+                    </div>
+                
+                <div class="row">
+                    
+                </div>
+
+                    <div class="levelParent mt-1x mb-1x strong">
+                        <a href="/invest/bullion/uk-coin-ranges/" title="View All">View All</a>
+                    </div>
+
+            </div>
+
+
+</div>
 </div><div class="block  trmNavigationBlock col-xs-12 col-md-4">
 
 
@@ -1156,27 +1335,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </div>
 </div><div class="block  trmNavigationBlock col-xs-12 col-md-4">
-<a href="/invest/bullion/storage-and-delivery/" title="Storage and Delivery">
-    Storage and Delivery
-</a>
-    <ul>
-            <li>
-                <a href="/invest/bullion/storage-and-delivery/vaulting/" title="Vaulting">Vaulting</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/storage-and-delivery/secure-storage/" title="Secure Storage">Secure Storage</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/storage-and-delivery/delivery-information/" title="Delivery Information">Delivery Information</a>
-            </li>
-            <li>
-                <a href="/invest/bullion/storage-and-delivery/fees/" title="Fees">Fees</a>
-            </li>
-                    <li>
-                <a href="/invest/bullion/storage-and-delivery/" title="View All">Storage and Delivery</a>
-            </li>
-    </ul>
 
+
+<div class="level2 has-children">
+            <a href="/invest/bullion/storage-and-delivery/">Storage and Delivery</a>
+            <div>
+                    <div class="level3">
+                        <a href="/invest/bullion/storage-and-delivery/vaulting/">Vaulting</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/storage-and-delivery/secure-storage/">Secure Storage</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/storage-and-delivery/delivery-information/">Delivery Information</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/storage-and-delivery/fees/">Fees</a>
+                    </div>
+                
+                <div class="row">
+                    
+                </div>
+
+                    <div class="levelParent mt-1x mb-1x strong">
+                        <a href="/invest/bullion/storage-and-delivery/" title="View All">View All</a>
+                    </div>
+
+            </div>
+
+
+</div>
 </div>
                                                                 </div>
 
@@ -1209,27 +1397,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </a>
 
 </div><div class="block  trmNavigationBlock col-xs-12 level3">
+<a href="/invest/bullion/the-signature-range/signature-silver/" title="Signature Silver">
+    Signature Silver
+</a>
 
-
-<div class="level2 ">
-            <a href="/invest/bullion/the-signature-range/signature-silver/">Signature Silver</a>
-            <div class="row">
-                    
-            </div>
-
-
-</div>
 </div><div class="block  trmNavigationBlock col-xs-12 level3">
+<a href="/invest/bullion/the-signature-range/signature-platinum/" title="Signature Platinum">
+    Signature Platinum
+</a>
 
-
-<div class="level2 ">
-            <a href="/invest/bullion/the-signature-range/signature-platinum/">Signature Platinum</a>
-            <div class="row">
-                    
-            </div>
-
-
-</div>
 </div><div class="block  editorialBlock col-xs-12 level3"><div class="blockContent ">
     <div class="level3"><strong><a href="/invest/bullion/the-signature-range/">View All</a></strong></div>
 </div></div>
@@ -1264,6 +1440,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </div>
                     <div class="level3">
                         <a href="/invest/bullion/selling-to-the-royal-mint/sell-platinum/">Sell Platinum</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/selling-to-the-royal-mint/form/">Form</a>
                     </div>
                 
                 <div class="row">
@@ -1312,9 +1491,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
                                                             </div>
                                                     </div>
-                                                    <div class="level1 ">
-                                                            <a href="/rmg/">Digital Gold</a>
-                                                                                                            </div>
                                                     <div class="level1 has-children">
                                                             <a href="/invest/bullion/discover-bullion/">Discover Bullion</a>
                                                                                                                     <div>
@@ -1336,6 +1512,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         <a href="/invest/bullion/discover-bullion/a-guide-to-storing-bullion/">A guide to storing bullion</a>
                     </div>
                     <div class="level3">
+                        <a href="/invest/bullion/discover-bullion/investing-in-bullion/">Investing in Bullion</a>
+                    </div>
+                    <div class="level3">
                         <a href="/invest/bullion/discover-bullion/why-invest-in-bullion/">Why invest in bullion?</a>
                     </div>
                     <div class="level3">
@@ -1343,6 +1522,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     </div>
                     <div class="level3">
                         <a href="/invest/bullion/discover-bullion/is-platinum-a-good-investment/">Is Platinum a good investment?</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/discover-bullion/the-relevance-of-gold-as-a-strategic-asset-in-the-uk/">The relevance of gold as a strategic asset in the UK</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/discover-bullion/could-gold-reach-1500/">Can gold reach the $1,500 mark?</a>
+                    </div>
+                    <div class="level3">
+                        <a href="/invest/bullion/discover-bullion/why-investment-is-hotting-up-for-summer/">Why Investment is hotting up for the Summer</a>
                     </div>
                 
                 <div class="row">
@@ -1537,59 +1725,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     </div>
                             </div>
                             <div class="level0 has-children">
-                                    <a href="/corporate/">Business</a>
-
-                                    <div class="nav-dropdown ">
-                                        <div class="nav-col">
-                                            <div>
-                                                    <div class="level1 has-children">
-                                                            <a href="/corporate/circulating-coin/">Circulating Coin</a>
-                                                                                                                    <div>
-                                                                <div class="list-heading">
-                                                                    Circulating Coin<a class="btn nav-close pull-right visible-md visible-lg" role="button"><i class="trmi trmi-close"></i></a>
-                                                                </div>
-                                                                <div class="row">
-
-                                                                    <div class="block  editorialBlock col-xs-12"><div class="blockContent ">
-    <p><a href="/corporate/circulating-coin/">-&nbsp;Circulating Coin Home&nbsp;</a></p>
-<p><a href="/corporate/circulating-coin/our-team/">- Meet the Team</a></p>
-<p><a href="/corporate/circulating-coin/coin-management-training-programe-2017/">- Coin Management Programme</a></p>
-<p><a href="/corporate/circulating-coin/technical-services/">- Technical Services</a></p>
-</div></div>
-                                                                </div>
-
-                                                            </div>
-                                                    </div>
-                                                    <div class="level1 ">
-                                                            <a href="/invest/">Bullion Sales</a>
-                                                                                                            </div>
-                                                    <div class="level1 has-children">
-                                                            <a href="/corporate/international-sales/">International Sales</a>
-                                                                                                                    <div>
-                                                                <div class="list-heading">
-                                                                    International Sales<a class="btn nav-close pull-right visible-md visible-lg" role="button"><i class="trmi trmi-close"></i></a>
-                                                                </div>
-                                                                <div class="row">
-
-                                                                    <div class="block  editorialBlock col-xs-12"><div class="blockContent ">
-    <p><a href="/corporate/international-sales/">- International Sales Home</a></p>
-<p><a href="/corporate/international-sales/highest-standards/">- Highest Standards</a></p>
-<p><a href="/corporate/international-sales/options/">- Options</a></p>
-<p><a href="/corporate/international-sales/contract-minting/">- Contract Minting</a></p>
-<p><a href="/corporate/international-sales/contact-international-sales/">- Contact Us</a></p>
-</div></div>
-                                                                </div>
-
-                                                            </div>
-                                                    </div>
-                                                    <div class="level1 ">
-                                                            <a href="/corporate/retail-sales/">Retail Sales</a>
-                                                                                                            </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </div>
-                            <div class="level0 has-children">
                                     <a href="/discover/">Discover</a>
 
                                     <div class="nav-dropdown ">
@@ -1615,6 +1750,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                                     <div class="block  editorialBlock col-ovr-sm-12 col-xs-12 col-sm-4"><div class="blockContent ">
     <div class="level2 has-children"><a href="/discover/uk-coins/">Discover Collections</a>
 <div>
+<div class="level3"><a title="Captain Cook" href="/discover/uk-coins/captain-cook/">NEW Captain Cook</a></div>
+<div class="level3"><a title="Sherlock Holmes" href="/discover/uk-coins/sherlock-holmes/">NEW Sherlock Holmes</a></div>
 <div class="level3"><a title="75th Anniversary of D-day" href="/discover/uk-coins/75th-anniversary-of-d-day/">NEW 75th Anniversary of D-day</a></div>
 <div class="level3"><a title="Victoria 200" href="/discover/uk-coins/victoria-200/">Victoria 200</a></div>
 <div class="level3"><a title="Samuel Pepys" href="/discover/uk-coins/samuel-pepys/">Samuel Pepys</a></div>
@@ -1881,9 +2018,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                                             <a href="/aboutus/our-history/">Our History</a>
                                                                                                             </div>
                                                     <div class="level1 ">
-                                                            <a href="/aboutus/mint-marque/">Mint Marque</a>
-                                                                                                            </div>
-                                                    <div class="level1 ">
                                                             <a href="/aboutus/press-centre/">Press Centre</a>
                                                                                                             </div>
                                                     <div class="level1 ">
@@ -1905,7 +2039,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 
 <script type="text/javascript">
-    function searchKeyPress(e) {
+    function headerSearchKeyPress(e) {
         e = e || window.event;
         if (e.keyCode === 13) {
             document.getElementById("OneBoxSearch").click();
@@ -1929,7 +2063,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="col-xs-12 col-md-8 col-md-offset-3">
             <form id="searchForm">
                 <div class="input-group">
-                    <input type="text" class="form-control" placeholder="Search for..." value="" ng-model="searchTerm" ng-change="doSearch()" id="headerSearch" onkeypress="return searchKeyPress(event);">
+                    <input type="text" class="form-control" placeholder="Search for..." value="" ng-model="searchTerm" ng-change="doSearch()" id="headerSearch" onkeypress="return headerSearchKeyPress(event);">
                     <span class="input-group-btn">
                         <button id="OneBoxSearch" class="btn btn-default" type="button" onclick="doOneBoxSearch()"><span class="visible-md-inline visible-lg-inline">Search</span><span class="trmi trmi-search visible-xs-inline visible-sm-inline"></span></button>
                     </span>
@@ -2030,7 +2164,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         </div>
     </div>
-</div>
+</div>    
 <div class="nav-section" ng-controller="rmLogin" id="navSectionAccount">
     <div ng-init="setupLogin('', '', '', false)" class="section-body">
         <div class="row" ng-hide="userLoggedIn == true" ng-cloak="">
@@ -2076,9 +2210,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <label class="sr-only" for="Email1">Email address</label>
                             <input type="email" class="form-control" id="Email1" ng-required="true" ng-model="resetEmail" placeholder="Email address*">
                         </div>
+                        <div class="form-group mb-2x">
+                            <div id="recaptchaForgotPasswordDiv"></div>
+                        </div>
+                        <div class="form-group mb-2x has-error" ng-if="resetPasswordError!=''">
+                            <span class="help-block">
+                                <span class="field-validation-error">{{resetPasswordError}}</span>
+                            </span>
+                        </div>
                         <div class="row mb-1x">
                             <div class="col-xs-12 col-md-8">
-                                <button class="btn btn-secondary btn-block" type="submit">Reset Password</button>
+                                <button disableonclick="" class="btn btn-secondary btn-block" type="submit">Reset Password</button>
                             </div>
                         </div>
                         <div class="row mb-2x">
@@ -2142,77 +2284,77 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <div class="row" ng-cloak="" ng-show="userLoggedIn == true">
                 <div class="col-xs-12 col-sm-6 hidden-xs hidden-sm">
                     <ul class="rm-account-nav">
-                        <li class="level0 ">
-                            <a href="/my-account/">My Account</a>
-                        </li>
-                        <li class="level0 has-children">
-                            <a href="">Your Orders</a>
-                                <ul>
-                                        <li class="level1">
-                                            <a href="/my-account/your-orders/how-to-return-an-item/">
-                                                How to Return an item
-                                            </a>
-                                        </li>
-                                        <li class="level1">
-                                            <a href="/my-account/your-orders/view-closed-orders/">
-                                                View Closed Orders
-                                            </a>
-                                        </li>
-                                        <li class="level1">
-                                            <a href="/my-account/your-orders/view-open-orders/">
-                                                View Open Orders
-                                            </a>
-                                        </li>
+                                <li class="level0 ">
+                                    <a href="/my-account/">My Account</a>
+                                </li>
+                                <li class="level0 has-children">
+                                    <a href="">Your Orders</a>
+                                        <ul>
+                                                <li class="level1">
+                                                    <a href="/my-account/your-orders/how-to-return-an-item/">
+                                                        How to Return an item
+                                                    </a>
+                                                </li>
+                                                <li class="level1">
+                                                    <a href="/my-account/your-orders/view-closed-orders/">
+                                                        View Closed Orders
+                                                    </a>
+                                                </li>
+                                                <li class="level1">
+                                                    <a href="/my-account/your-orders/view-open-orders/">
+                                                        View Open Orders
+                                                    </a>
+                                                </li>
 
-                                </ul>
-                        </li>
-                        <li class="level0 has-children">
-                            <a href="">Credit Account</a>
-                                <ul>
-                                        <li class="level1">
-                                            <a href="/my-account/credit-account/view-statement-history/">
-                                                View Statement History
-                                            </a>
-                                        </li>
-                                        <li class="level1">
-                                            <a href="/my-account/credit-account/make-a-payment/">
-                                                Make a payment
-                                            </a>
-                                        </li>
-                                        <li class="level1">
-                                            <a href="/my-account/credit-account/account-balance/">
-                                                Account Balance
-                                            </a>
-                                        </li>
+                                        </ul>
+                                </li>
+                                <li class="level0 has-children">
+                                    <a href="">Credit Account</a>
+                                        <ul>
+                                                <li class="level1">
+                                                    <a href="/my-account/credit-account/view-statement-history/">
+                                                        View Statement History
+                                                    </a>
+                                                </li>
+                                                <li class="level1">
+                                                    <a href="/my-account/credit-account/make-a-payment/">
+                                                        Make a payment
+                                                    </a>
+                                                </li>
+                                                <li class="level1">
+                                                    <a href="/my-account/credit-account/account-balance/">
+                                                        Account Balance
+                                                    </a>
+                                                </li>
 
-                                </ul>
-                        </li>
-                        <li class="level0 has-children">
-                            <a href="">Contact and Delivery Details</a>
-                                <ul>
-                                        <li class="level1">
-                                            <a href="/my-account/contact-and-delivery-details/change-password/">
-                                                Change Password
-                                            </a>
-                                        </li>
-                                        <li class="level1">
-                                            <a href="/my-account/contact-and-delivery-details/contact-preferences/">
-                                                Contact Preferences
-                                            </a>
-                                        </li>
-                                        <li class="level1">
-                                            <a href="/my-account/contact-and-delivery-details/manage-addresses/">
-                                                Manage Addresses
-                                            </a>
-                                        </li>
-                                        <li class="level1">
-                                            <a href="/my-account/contact-and-delivery-details/edit-personal-details/">
-                                                Edit personal details
-                                            </a>
-                                        </li>
+                                        </ul>
+                                </li>
+                                <li class="level0 has-children">
+                                    <a href="">Contact and Delivery Details</a>
+                                        <ul>
+                                                <li class="level1">
+                                                    <a href="/my-account/contact-and-delivery-details/change-password/">
+                                                        Change Password
+                                                    </a>
+                                                </li>
+                                                <li class="level1">
+                                                    <a href="/my-account/contact-and-delivery-details/contact-preferences/">
+                                                        Contact Preferences
+                                                    </a>
+                                                </li>
+                                                <li class="level1">
+                                                    <a href="/my-account/contact-and-delivery-details/manage-addresses/">
+                                                        Manage Addresses
+                                                    </a>
+                                                </li>
+                                                <li class="level1">
+                                                    <a href="/my-account/contact-and-delivery-details/edit-personal-details/">
+                                                        Edit personal details
+                                                    </a>
+                                                </li>
 
-                                </ul>
-                        </li>
+                                        </ul>
+                                </li>
                     </ul>
                 </div>
             <div class="col-xs-12 col-md-5 col-md-push-1">
@@ -2226,7 +2368,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </div>
         </div>
     </div>
-    </div>
+</div>
 <div class="nav-section" id="navSectionBasket">
     <div class="section-body" id="miniBasket">
         <div class="row" ng-if="getBasketQty() >= 1" ng-cloak="">
@@ -2253,7 +2395,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 <p class="text-silver mb-0"></p>
 
                                 <!-- message personalize -->
-                                <div ng-if="variant.CanBePersonalised" class="mt-5">
+                                <div ng-if="variant.HasbeenPersonalised" class="mt-5">
                                     <span class="bg-lightgray p-1xs mt-1x">
                                         This item has been personalised
                                     </span>
@@ -2276,7 +2418,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 </div>
                             </td>
                             <td>
-                                <button class="btn btn-sm btn-link pt-0 pb-0" ng-click="removeFromBasket(variant.ShipmentId, variant.Code);">Remove</button>
+                                <button class="btn btn-sm btn-link pt-0 pb-0" ng-click="removeFromBasket(variant.ShipmentId, variant.Code, variant.UniqueId);">Remove</button>
                             </td>
                             <td class="text-right"><span ng-bind="variant.DiscountedPrice" ng-cloak=""></span></td>
                         </tr>
@@ -2415,7 +2557,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>Information collected through cookies; and</li>
 <li>Your vehicle details and registration number, your representative organisation (if applicable), and image (which may be recorded on CCTV) if your visit us.</li>
 </ul>
-<p>We only routinely gather special categories of Personal Data with respect to visitors to The Royal Mint Experience booked on a VIP Tour. Visitors will be required to complete a Health Questionnaire before arriving. Tours involve a degree of walking and standing so visitors will be asked if they physically fit to undertake the tour. Visitors will be asked if they have a pace maker fitted as magnetic frequencies are in operation in some of the areas you may visit. Visitors will be asked if they have a nut allergy as nuts are used in processes that visitors may encounter. You will also be asked if you have additional needs that you will require further assistance with on the Tour. These questions are asked in order for us to determine if reasonable adjustments are required in respect of the tour. Visitors to the The Royal Mint Experience may also be asked to provide allergy information when ordering food or attending a catered event.</p>
+<p>We only routinely gather special categories of Personal Data with respect to visitors to The Royal Mint Experience booked on a VIP Tour. Visitors will be required to complete a Health Questionnaire before arriving. These questions are asked in order for us to determine if reasonable adjustments are required and if these can be made in relation to the tour. For example, visitors will be asked if they have a pace maker fitted as magnetic frequencies are in operation in some of the areas you may visit. Visitors will also be asked if they have a nut allergy as nuts are used in processes that visitors may encounter. Visitors to The Royal Mint Experience may also be asked to provide allergy information when ordering food or attending a catered event.</p>
 <p>We do not routinely collect any information about criminal allegations, proceedings or convictions.</p>
 <p>We do not routinely collect Personal Data about children under 16. There are a limited number of activities that we undertake which may involve the collection of children’s’ Personal Data, for example competition entries and photo/video permission forms. Where children’s’ Personal Data is processed it will be done so with the consent of whoever holds parental responsibility of the child.</p>
 <p>For further information on the types of Personal Data that we hold on you, please contact us.</p>
@@ -2427,7 +2569,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>It is necessary for us to perform a contract that you have entered into with us, or because it is necessary before entering into a contact <em>(for example, to provide you with the product or service that you have requested)</em>;</li>
 <li>You have given us consent to process your Personal Data for a specific purpose <em>(for example, to provide you information about our competitions, products, services, offers and news);</em></li>
 <li>The processing is necessary for us to comply with our legal obligations <em>(for example, to conduct know your customer checks)</em>;</li>
-<li>We have a legitimate interest to do so, and have taken your rights into consideration <em>(for example, to obtain feedback on our products and services or to better understand you as a customer)</em>; and/or</li>
+<li>We have a legitimate interest to do so, and have taken your rights into consideration <em>(for example, to obtain feedback on our products and services or to better understand you as a customer, and to operate a refer-a-friend scheme in order to reward existing customers and to bring in new customers);&nbsp;</em>&nbsp;and/or</li>
 <li>The processing is necessary to protect your vital interests <em>(for example, to protect your life)</em></li>
 </ul>
 <p>As referenced above, we have a legitimate business interest (and in some cases a legal obligation) to process Personal Data in order to better understand our customers.&nbsp; To do this we may combine the data that we collect directly from you from your interactions with The Royal Mint, with data that we obtain from third parties.</p>
@@ -2907,6 +3049,107 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </tr>
 <tr>
 <td colspan="4" width="601">
+<p><strong>Mention Me</strong></p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>Name of Cookie</p>
+</td>
+<td width="145">
+<p>Why we use it</p>
+</td>
+<td width="155">
+<p>Type</p>
+</td>
+<td width="126">
+<p>Expiry</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>mm id</p>
+</td>
+<td width="145">
+<p>This is our tracking ID which serves to identify any unique browser using our flow.</p>
+<p>&nbsp;</p>
+</td>
+<td width="155">
+<p>Functionality</p>
+</td>
+<td width="126">
+<p>5 Years</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>mm allocation</p>
+</td>
+<td width="145">
+<p>Used to keep track of which offers you are participating in order to give you a more consistent experience.</p>
+<p>&nbsp;</p>
+</td>
+<td width="155">
+<p>Functionality</p>
+</td>
+<td width="126">
+<p>5 Years</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>mm_offer_frequency</p>
+</td>
+<td width="145">
+<p>Used to keep track of how many times you have seen an offer so that we can limit how many times you see it.</p>
+<p>&nbsp;</p>
+</td>
+<td width="155">
+<p>Functionality</p>
+</td>
+<td width="126">
+<p>30 Days</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>mm_overlay_suppressed</p>
+</td>
+<td width="145">
+<p>Used to suppress a corner peel promotion if the ‘x’ is clicked.</p>
+<p>&nbsp;</p>
+</td>
+<td width="155">
+<p>Functionality</p>
+</td>
+<td width="126">
+<p>1 Hour</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>mm_conversion_message_suppressed</p>
+</td>
+<td width="145">
+<p>Used to suppress a conversion message if the ‘x’ is clicked.</p>
+<p>&nbsp;</p>
+</td>
+<td width="155">
+<p>Functionality</p>
+</td>
+<td width="126">
+<p>1 Hour</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="601">
+<p>Mention Me helps us operate our refer-a-friend scheme and related services. They act as a service provider and a data processor. Through their technology platform, they enable our customers to refer their friends to us and enable us to reward both the referrer and referred friend when the referred friend becomes a customer. They also enable us to deliver rewards and offers to customers and to engage with customers.</p>
+<p>To opt-out of the refer-a-friend scheme, please email customer.services@royalmint.com.</p>
+<p>Alternatively to opt-out of the scheme via Mention Me or to obtain further information visit: https://mention-me.com/help/privacy_policy_s#referrers .</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="601">
 <p><strong>Microsoft</strong></p>
 </td>
 </tr>
@@ -2957,7 +3200,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Why we use it</p>
 </td>
 <td width="155">
-<p>&nbsp;</p>
+<p>Type</p>
 </td>
 <td width="126">
 <p>Expiry</p>
@@ -2997,7 +3240,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Why we use it</p>
 </td>
 <td width="155">
-<p>&nbsp;</p>
+<p>Type</p>
 </td>
 <td width="126">
 <p>Expiry</p>
@@ -3036,7 +3279,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <p>Why we use it</p>
 </td>
 <td width="155">
-<p>&nbsp;</p>
+<p>Type</p>
 </td>
 <td width="126">
 <p>Expiry</p>
@@ -3064,6 +3307,78 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <tr>
 <td colspan="4" width="601">
 <p>For more information visit: <a href="https://www.rakuten.com/help/article/privacy-policy-360002101688">https://www.rakuten.com/help/article/privacy-policy-360002101688</a></p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="601">
+<p><strong>SessionCam</strong></p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>Name of Cookie</p>
+</td>
+<td width="145">
+<p>Why we use it</p>
+</td>
+<td width="155">
+<p>Type</p>
+</td>
+<td width="126">
+<p>Expiry</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>sc.UserId</p>
+<p>sc.OptOut</p>
+</td>
+<td width="145">
+<p>Cookies used to track anonymous data related to website visits.</p>
+<p>&nbsp;</p>
+</td>
+<td width="155">
+<p>Performance</p>
+</td>
+<td width="126">
+<p>1 Year</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>SessionCamTestCookie</p>
+</td>
+<td width="145">
+<p>Cookie used to test that the SessionCam tool is operational</p>
+<p>&nbsp;</p>
+</td>
+<td width="155">
+<p>Functional</p>
+</td>
+<td width="126">
+<p>Immediate</p>
+</td>
+</tr>
+<tr>
+<td width="175">
+<p>sc.Status</p>
+<p>sc.ASP_NET_SESSIONID</p>
+</td>
+<td width="145">
+<p>Cookies used to track anonymous data related to website visits.</p>
+<p>&nbsp;</p>
+</td>
+<td width="155">
+<p>Performance</p>
+</td>
+<td width="126">
+<p>Duration of visit</p>
+</td>
+</tr>
+<tr>
+<td colspan="4" width="601">
+<p>SessionCam identifies visitors by unique ID and/or IP address. SessionCam collects information such as mouse movements, page scrolling and click activity of individual visitors. Data that is not personally identifiable entered into forms may also be captured. For example, when a visitor ticks a check box or chooses an answer to a multiple choice question. We use the data collected by SessionCam to identify where visitors struggle the most so that we can improve these areas of our website.</p>
+<p>For further information, including how to opt out of SessionCam collecting data about how you use our website, please visit https://help.sessioncam.com/hc/en-gb/articles/360004422674-Opt-Out-of-SessionCam .</p>
 </td>
 </tr>
 <tr>
@@ -3474,7 +3789,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>Telephone: 03031231113</li>
 <li>Mail: Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF.</li>
 </ul>
-<p><strong>Last updated on 17th April 2019.</strong></p>
+<p><strong>Last updated on 27th September 2019.</strong></p>
                
              </div>
             <div class="contentArea">
@@ -3539,24 +3854,27 @@ table, th, td {
 
     </div>
     <input type="hidden" ng-init="formData.ContentId=93" name="ContentId" ng-model="formData.ContentId">
-    <input name="__RequestVerificationToken" type="hidden" value="L_3JQN2hEHIvWKCoRRsA0P6swvbPqbaW4dqBr13G2Li9Yt1tw98preHYybo_j3lhKwqXoPcH_XeD4hVGztzNK8FQMSWeSoHx7FNYhKoMJno1">
+    <input name="__RequestVerificationToken" type="hidden" value="ZcOjN198gHJ5igsHUddLtp8Y91VP3D0ybLbmkH_vD3V1VxJ_KebPsQhsBhUqvZkoYgEfu9kkFFJchXwbT5fJL0N2pIi5MZfln8VU_4pl60M1">
 </form>
 </div>
         </div>
     </div>
 </div>
 
-</div><div class="block  containerBlock col-md-12 col-xs-12 col-sm-6">
+</div><div class="block  textAreaBlock col-xs-12"><div class="pt-1x bt-1x text-slateblue">
+
+</div></div><div class="block  containerBlock col-md-12 col-xs-12 col-sm-12">
 <div class="block-container">
     <div class="blockContent">
         <div class="row">
-            <div class="block  footerBlock col-xs-6 col-md-3">    <h3 class="no-border">About Us</h3>
+            <div class="block  footerBlock col-xs-6 col-md-3">    <h3 class="no-border">The Royal Mint</h3>
 
     <ul class="list-unstyled">
 <li><a title="About" href="/aboutus/">About</a></li>
+<li><a href="/corporate/">Corporate Information</a></li>
 <li><a title="Our History" href="/aboutus/our-history/">Our History</a></li>
 <li><a title="Our Location" href="/aboutus/ourlocation/">Our Location</a></li>
-<li><a title="Press Centre" href="/aboutus/press-centre/">Press&nbsp;Centre</a></li>
+<li><a title="Press Centre" href="/aboutus/press-centre/">Press&nbsp;Releases</a></li>
 <li><a title="Contact" href="/contact/">Contact</a></li>
 </ul>
 
@@ -3564,15 +3882,12 @@ table, th, td {
 </div><div class="block  footerBlock col-xs-6 col-md-3">    <h3 class="no-border">Help Topics</h3>
 
     <ul class="list-unstyled">
-<ul class="list-unstyled">
-<ul class="list-unstyled">
 <li><a title="Privicy &amp; Cookies" href="/help/trm-faqs/privacy-and-cookies/">Privacy &amp; Cookies</a></li>
 <li><a title="Terms and Conditions" href="/help/trm-faqs/terms-and-conditions/">Terms and Conditions</a></li>
 <li><a title="Delivery Information" href="/help/trm-faqs/delivery-information/">Delivery&nbsp;Information</a></li>
+<li><a href="/help/coinage-faqs/how-do-i-return-coins-to-the-royal-mint/">Returns</a></li>
 <li><a title="Secure Ordering" href="/help/trm-faqs/3d-secure/">Secure Ordering</a></li>
 <li><a title="FAQs" href="/help/">FAQs</a></li>
-</ul>
-</ul>
 </ul>
 
  
@@ -3581,9 +3896,10 @@ table, th, td {
     <ul class="list-unstyled">
 <li><a title="Job Vacancies" href="https://careers.royalmint.com/royalmint/Search/Results/All/1">Job Vacancies</a></li>
 <li><a title="International Sales" href="/corporate/international-sales/">International Sales</a></li>
-<li><a title="Circulating Coin" href="/corporate/circulating-coin/">Circulating Coin</a></li>
+<li><a title="Circulating Coin" href="/currency/">Currency</a></li>
 <li><a title="Retail Sales" href="/corporate/retail-sales/">Retail Sales</a></li>
 <li><a title="Royal Mint Bullion" href="/invest/">Royal Mint Bullion</a></li>
+<li><a title="Official Distributors" href="/corporate/official-distributors/">Official Distributors</a></li>
 </ul>
 
  
@@ -3609,24 +3925,6 @@ table, th, td {
 </div><div class="block  editorialBlock col-xs-12"><div class="blockContent ">
     <p>© The Royal Mint Limited 2019. <a title="Privacy and Cookies" href="/help/trm-faqs/privacy-and-cookies/">Privacy and cookies</a> | <a title="Terms and conditions" href="/terms/">Terms and conditions</a></p>
 <p>The Royal Mint Limited whose registered office is at Llantrisant, Pontyclun, CF72 8YT, United Kingdom (registered in England and Wales No. 06964873).</p>
-</div></div><div class="block  editorialBlock col-xs-12"><div class="blockContent ">
-    <style type="text/css"><!--
-/* The Modal (background) */ 	.trm-modal { 		display: none; 
-		align-items: center;
-		justify-content: center;
-/* Hidden by default */ 		position: fixed; /* Stay in place */ 		z-index: 9999; /* Sit on top */ 		left: 0; 		top: 0; 		width: 100%; /* Full width */ 		height: 100%; /* Full height */ 		overflow: auto; /* Enable scroll if needed */ 		background-color: rgb(0,0,0); /* Fallback color */ 		background-color: rgba(0,0,0,0.7); /* Black w/ opacity */ 	} 	/* Modal Content/Box */ 	.trm-modal-content-wrapper{ 		background-color: #009681; 		color: #FFF; 		margin: 15% auto; /* 15% from the top and centered */ 		border: 1px solid #888; 		width: 50%; /* Could be more or less, depending on screen size */ 		max-width: 600px; 		animation-name: animateModal; 	animation-duration: 1s 	} 	.trm-modal-content { 		padding: 20px; 	} 	 	@media only screen and (max-width: 768px) { 		.trm-modal-content-wrapper { 			width: 100%; 			margin: 0 auto; 			position: absolute; 			bottom: 0; 		} 		 		.trm-modal-content{ 			padding: 20px; 		} 	} 	/* The Close Button */ 	.trm-modal-close { 		color: #FFF; 		float: right; 		font-size: 28px; 		font-weight: bold; 	} 	.trm-modal-close:hover, 	.trm-modal-close:focus { 		color: black; 		text-decoration: none; 		cursor: pointer; 	} 	 	/* ANIIMATION */ 	@keyframes animateModal { 		from {top: -200px; opacity: 0} 		to {top: 0; opacity: 1} 	}
---></style>
-<div id="trm-modal1" class="trm-modal">
-<div class="trm-modal-content-wrapper">
-<div class="trm-modal-content"><span class="trm-modal-close">×</span>
-<h2>Your opinion is important to us</h2>
-<p>Would you be willing to answer a few questions? Feedback about your visit today, will help us improve our website.</p>
-<div style="margin-top: 10px;">
-<div class="btn btn-white-ww btn-sm trm-modal-close-button">No, not at this time.</div>
-<a class="btn btn-default-ww btn-sm" style="margin-left: 20px;" href="https://www.surveymonkey.co.uk/r/WTVDYXS">Share your feedback</a></div>
-</div>
-</div>
-</div>
 </div></div><div class="block  textAreaBlock col-xs-12"><script type="text/javascript">
 	$(document).ready(function(){
 		$('.footerSignUpBlock button[type=submit]').removeClass('btn-default');
@@ -3644,7 +3942,7 @@ border:1px SOLID #EEEEEE;
 .brand-footer{
 	padding-top: 0;
 }
-footer.container{ margin-top:20px;}
+footer.container{ margin-top:0px;}
 .footerNewsletter .help-block{ color:#ffffff!important;}	
 .footerNewsletter{ color: #fff;  }
 
@@ -3893,6 +4191,9 @@ h4.row.mega-title {
 }
 h4.row.mega-title {
 }
+
+h5.mega-title, h5.mega-title a{color:#9b834f!important; font-size:18px!important;}
+
 .mega-menu a {
 	line-height: 25px;
 	font-size: 90%;
@@ -4333,11 +4634,11 @@ var linkCounter = 1;
 	$('.exo-menu').toggleClass('display');
  });
 
-	console.log('FIRED!');
+	//console.log('FIRED!');
 	
 $('.exo-menu a').each(function(){
 	$(this).addClass('link-' + linkCounter++)
-	console.log(linkCounter);
+	//console.log(linkCounter);
 })	
 	
  
@@ -4351,9 +4652,10 @@ $(document).ready(function(){
 
 		
 		var skuVariantHeading = $('.variantHeading h1').html(); 
-		var skuVariantPrice = $('.variantAddToBakset .item-price').html();
-		var skuVariantAddToBasket = $('.variantAddToBakset .item-add').html();
-		/*
+		var skuVariantPrice = $('.variantAddToBakset #priceString').html();
+		var skuVariantAddToBasket = $('.variantAddToBakset button').parent().html();
+		
+/*
 		var skuVariantHeading = $('.page-40th-anniversaryof-the-snowman2018uk50p-silver-proof-coin .variantHeading h1').html(); 
 		var skuVariantPrice = $('.page-40th-anniversaryof-the-snowman2018uk50p-silver-proof-coin .variantAddToBakset .item-price').html();
 		var skuVariantAddToBasket = $('.page-40th-anniversaryof-the-snowman2018uk50p-silver-proof-coin .variantAddToBakset .item-add').html();
@@ -4368,12 +4670,19 @@ $(document).ready(function(){
 		
 		//SETUP THE CONTENT 
 		skuVariant = '<div class="variantFloatingActions" '+displayFloat+'><div class="row">';
-		skuVariant += '<div class="variantHeading col-md-9"><div class="content"><h3>' + skuVariantHeading + '</h3>' + skuVariantPrice +'</div></div>';
+		skuVariant += '<div class="variantHeading col-md-9"><div class="content"><h3>' + skuVariantHeading + ' ' + skuVariantPrice +'</h3></div></div>';
 		skuVariant += '<div class="variantAddToBasket col-md-3 text-right"><div class="content">' + skuVariantAddToBasket + '</div></div>';
 		skuVariant += '</div></div>';
 
 		//APPEND TO THE BODY
 		$('body').append(skuVariant);
+		
+		//REMOVE SECOND QUANTITY
+		$('.variantAddToBasket .input-group').remove();
+		
+		//REMOVE THE CLASSES
+		$('.variantAddToBasket button').removeAttr('class');
+		$('.variantAddToBasket button').attr('class','btn btn-primary');
 		
 	}
 	
@@ -4421,7 +4730,11 @@ $(document).scroll(function() {
 		padding: 10px;
 		display: flex;
 		align-items: center;
-	}	
+	}
+	
+	.variantFloatingActions .content .input-group{
+		display: none;
+	}
 	
 	.variantFloatingActions h6{ 
 		margin: 0 0 0 10px; 
@@ -4468,53 +4781,7 @@ $(document).scroll(function() {
 	}	
 	
 	
-</style></div><div class="block  textAreaBlock col-xs-12"><style>
-	#commonTerms .content{		
-		display: flex;
-		flex-wrap: wrap;
-	}
-	#commonTerms .content ul{
-		margin: 0;
-		padding:0;
-		flex-grow: 1;
-	}
-	#commonTerms .content ul li{
-		list-style: none;
-		margin: 0;
-		padding: 0;
-	}
-</style>
-<script>
-	$(document).ready(function(){
-		
-		commonterms = '<div id="commonTerms">';
-		commonterms += '<h3>Top searches</h3>';
-		//COLUMN
-		commonterms += '<div class="content">';
-		commonterms += '<ul>';
-		commonterms += '<li><a href="https://www.royalmint.com/our-coins/events/beatrix-potter/">Beatrix Potter</a></li>';
-		commonterms += '<li><a href="https://www.royalmint.com/our-coins/ranges/denomination/?RankedDenomination=50&eso=LH">50p</a></li>';
-		commonterms += '<li><a href="https://www.royalmint.com/our-coins/events/paddington/">Paddington</a></li>';
-		commonterms += '</ul>';
-		//COLUMN
-		commonterms += '<ul>';
-		commonterms += '<li><a href="https://www.royalmint.com/our-coins/ranges/sovereign/">Sovereign</a></li>';
-		commonterms += '<li><a href="https://www.royalmint.com/our-coins/ranges/collector-albums/">Collector Albums</a></li>';
-		commonterms += '<li><a href="https://www.royalmint.com/our-coins/ranges/britannia/">Britannia</a></li>';
-		commonterms += '</ul>';	
-		//COLUMN
-		commonterms += '<ul>';
-		commonterms += '<li><a href="https://www.royalmint.com/our-coins/ranges/annual-sets/">Annual Sets</a></li>';
-		commonterms += '<li><a href="https://www.royalmint.com/our-coins/events/tower-of-london/">Tower of London </a></li>';
-		commonterms += '<li><a href="https://www.royalmint.com/our-coins/ranges/denomination/?RankedDenomination=10&eso=LH">10p</a></li>';
-		commonterms += '</ul>';		
-		//LAST ITEM CLOSE THE CONTAINER
-		commonterms += '</div></div>';
-					  
-		$('#searchForm').append(commonterms);
-					  
-	});
-</script></div><div class="block  textAreaBlock col-xs-12">
+</style></div><div class="block  textAreaBlock col-xs-12">
 <script>
 	$(document).ready(function(){
 if( $('#tab5').length )         // use this if you are using id to check
@@ -4532,12 +4799,19 @@ $('#tab5').addClass('active');
 <script src="/bundles/jquery?v=DilzeZuJxdbQsfc_JOwsWB4VFDhTPM73urYeggaKdL81"></script>
 <script src="/bundles/angular?v=pOT-wjDc8GBJ8PqnpTURTGo-ET25ceTatwCR82sZNPA1"></script>
 <script src="/bundles/bootstrap?v=7DCcizdyon2WjBH6LKXWbHR01zIevnP3Q8CZxb3sO7Q1"></script>
-<script src="/bundles/footscripts?v=s9Acd--nQkULmMxaLp2FkjiWXUiq3L3j5_IKFwTgDDg1"></script>
-<script src="/bundles/app?v=VVd0On7Kcq6yyW8lmcbk9zGBsgxkwdcvmr_8ppjHoGM1"></script>
-<script src="/bundles/products?v=mqApaBI5HpJw-t-hOlfNHor3_aOH03X2liPlgmGwZsk1"></script>
+<script src="/bundles/footscripts?v=xT6fpck3CzM-ldwHBxDOCW4lAW_60RoQ4ooMKQ9aEVg1"></script>
+<script src="/bundles/app?v=z7UZW5F7Sui8y6S7KdE5LtrCnhQ3_UEMQT8d5gDa_6U1"></script>
 
 
-        
+    
+
+<!-- Partial rating -->
+<style>
+#content > div > div > div > div.row.ng-scope {
+    display: none;
+}
+</style>
+
 
 <!-- password reset message overlay -->
 <script>
@@ -4567,12 +4841,6 @@ display: none;
 }
 </style>
 
-<!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear -->
-<script type="text/javascript" src="//royalmint.whoson.com/include.js?domain=www.royalmint.com"></script>
-<script type="text/javascript">
-if(typeof sWOTrackPage=='function')sWOTrackPage();
-</script>
-<!-- End of embedded WhosOn -->
 
 <!-- NEWSLETTER OVERRIDES -->
 <script type="text/javascript">
@@ -4901,7 +5169,7 @@ $(document).ready(function() {
 });
 </script>
     <div id="menuOverlay" class=""></div>
-    <script type="text/javascript" src="https://dl.episerver.net/13.0.5/epi-util/find.js"></script>
+    <script type="text/javascript" src="https://dl.episerver.net/13.2.5/epi-util/find.js"></script>
 <script type="text/javascript">
 if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApiBaseUrl('/find_v2/');api.processEventFromCurrentUri();api.bindWindowEvents();api.bindAClickEvent();api.sendBufferedEvents();}
 </script>
@@ -4935,6 +5203,34 @@ if(FindApi){var api = new FindApi();api.setApplicationUrl('/');api.setServiceApi
             </div>
         </div>
     </div>
+
+        <script type="text/javascript">
+            var registrationRecaptcha;
+            var forgotPasswordRecaptcha;
+            var onloadRecaptchaCallback = function () {
+                if ($('#registrationRecaptcha').length > 0) {
+                    registrationRecaptcha = grecaptcha.render('registrationRecaptcha', {
+                        'sitekey': '6LejU6oUAAAAAN1E6IZV0BwgaoELlNsO0FB8VuyX'
+                    });
+                }
+
+                // All pages
+                if ($('#recaptchaForgotPasswordDiv').length > 0) {
+                    grecaptcha.render('recaptchaForgotPasswordDiv', {
+                        'sitekey': '6LejU6oUAAAAAN1E6IZV0BwgaoELlNsO0FB8VuyX'
+                    });
+                }
+
+                // On checkoutpage
+                if ($('#recaptchaForgotPasswordOnCheckoutPageDiv').length > 0) {
+                    grecaptcha.render('recaptchaForgotPasswordOnCheckoutPageDiv', {
+                        'sitekey': '6LejU6oUAAAAAN1E6IZV0BwgaoELlNsO0FB8VuyX'
+                    });
+                }
+            };
+        </script>
+        <script src="https://www.google.com/recaptcha/api.js?onload=onloadRecaptchaCallback&amp;render=explicit" async="" defer="">
+        </script>
 
 
     
