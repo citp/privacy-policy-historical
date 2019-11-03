@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411034310id_/https%3A//www.thegreenhead.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenhead.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103031146id_/https%3A//www.thegreenhead.com/privacy) for the most accurate reproduction.*
 
 # The Green Head - Privacy Policy
 
-This document was last updated **September 3, 2011**.   
+This document was last updated **October 19, 2019**.   
 This Privacy Policy discloses the general privacy practices for **The Green Head - www.thegreenhead.com**.
 
 #### SUMMARY
@@ -15,9 +15,9 @@ No information should be submitted to The Green Head by children under 18 years 
 
 #### AFFILIATE MARKETING
 
-The Green Head is affiliated with several brand name online retailers, this is done either directly with the retailer or via a third-party provider of affiliate marketing programs. Neither the third-party providers, nor the retailers, share personally identifiable information with The Green Head. The information provided is generic in nature; type of product sold and date of sale for example. The information provided is not sold, shared, nor rented to any third party, and is used internally only. 
+The Green Head is affiliated with several brand name online retailers, this is done either directly with the retailer or via a third-party provider of affiliate marketing programs. All links to online retailers may be automatically turned into affiliate links, which means that if you click through a link we post or purchase a product we recommend, we may get a small share of that sale from the online retailer. Neither the third-party providers, nor the retailers, share personally identifiable information with The Green Head. The information provided is generic in nature; type of product sold and date of sale for example. The information provided is not sold, shared, nor rented to any third party, and is used internally only. 
 
-The Green Head is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+The Green Head is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. As an Amazon Associate, I earn from qualifying purchases.
 
 [ ](https://www.viglink.com/legal/disclosures/users?vgtag=badge)
 
