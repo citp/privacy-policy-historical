@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wendyshow.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626013630id_/https%3A//www.wendyshow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wendyshow.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103171807id_/https%3A//www.wendyshow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Wendy Williams Show
 
