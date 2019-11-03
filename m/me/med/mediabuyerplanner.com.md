@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediabuyerplanner.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627153120id_/https%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediabuyerplanner.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103054731id_/https%3A//www.marketingcharts.com/privacy) for the most accurate reproduction.*
 
 # MarketingCharts' Privacy Policy - Marketing Charts
 
