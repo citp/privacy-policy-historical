@@ -1,99 +1,95 @@
-> *The following text is extracted and transformed from the citycruises.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207211241id_/http%3A//www.citycruises.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citycruises.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103045342id_/https%3A//www.citycruises.com/about-city-cruises/privacy) for the most accurate reproduction.*
 
-# City Cruises | privacy policy
+# Privacy Policy | About City Cruises | City Cruises
 
-Valid as of 01.03.2012
+Privacy Policy
 
-City Cruises is committed to safeguarding your privacy online. We have posted this privacy policy to help you understand what information we are gathering and how we will use it. We believe your personal privacy on the Internet is a fundamental right and we are committed to clear, open and accessible privacy policies.
+Valid as of 23.09.2019
 
-We hope that you feel our privacy policy explains clearly how we gather and use any data we may collect from you. We have used our best efforts to compose a policy that is fair, respectful and protects your privacy online. Your feedback is important to us. Please email any questions, comments or suggestions to webmaster@citycruises.com  
-City Cruises' Commitment to User Privacy:
+City Cruises is committed to safeguarding your privacy online. We have posted this privacy policy to help you understand what information we are gathering and how we will use it. We believe your personal privacy is a fundamental right and we are committed to clear, open and accessible privacy policies.
 
-1\. City Cruises will not willfully disclose individually identifiable information about its users to any third party.
+We hope that you feel our privacy policy explains clearly how we gather and use any data we may collect from you. We have used our best efforts to compose a policy that is fair, respectful and protects your privacy.  
+If you consider that the policy has not been followed in respect of personal information about yourself or others, or for general comments or feedback please raise the matter with the Data Protection Officer who can be contacted at [IanV@citycruises.com](mailto:IanV@citycruises.com).
 
-2\. If at any stage in the future we feel disclosing such information may be of benefit to our users, we will not disclose such information without first receiving each individual user's permission.  
-Gathering, Use and Disclosure of Information:  
-1\. Personally Identifiable Information
+STATUS OF THE POLICY  
+This policy sets out our rules on data protection and the legal conditions that must be satisfied in relation to any act taken in relation to personal information, including but not limited to the obtaining, handling, processing, storage, transportation and destruction of personal information.
 
-a) City Cruises may collect personally identifiable contact information during the registration process for some services and when purchasing products.
+When referencing citycruises.com, this also encompasses citycruisespoole.com, citycruisesyork.com and thamesjet.com.   
 
-b)This information includes contact details such as name, address and e-mail address. The personally identifiable information we collect may change from time to time but can only be collected when you voluntarily give it to us.
+The information is subject to certain legal safeguards and restrictions set out in  
+EU General Data Protection Regulation (“GDPR”) which is due to be implemented into UK law under what will likely be the Data Protection Act 2018. Roles and responsibilities. 
 
-c) With your permission, we may also use your contact information to tell you about news or promotional materials from City Cruises or our strategic partners that we believe may interest you. As described below, you are not automatically subject to such mailings but must actively request them, either when you provide your registration information or later. We may also use this information to communicate with you about your account with us, even if you have opted-out of receiving promotional materials. Such communications will not be promotional but limited to essential discussions required to maintain your account.  
-2\. Demographic Information
+  City Cruises is the data controller over the personal data it holds, meaning it has the primary responsibility to ensure that the GDPR is complied with and for defining the purposes for processing your personal data and also for compliance with the data protection legislation.
 
-a) City Cruises may also collect demographic and profile information, such as preferences, age, interests or employer, during the form entry process. Your personal identity is linked to this information and is gathered and stored in a manner which enables us to link such information back to you for marketing purposes.
+  **City Cruises processing of your personal data**
 
-b) City Cruises may also use this information to get a general idea of who is visiting our web site and how they are using it. We may analyse this kind of information to find out what areas or topics are more or less popular with our users, to tailor our users' visit to the site and introduce new areas to the site which may interest our visitors.
+**1.1 Introduction**
 
-c) Aggregate, summary (not individual) reports on site usage generated from this information may be shared with City Cruises's strategic partners. An example of a summary report might be "during May this article has 25,500 unique readers."  
-3\. IP Addresses
+This Privacy Policy explains how we collect, use and disclose your personal data when you use our service and otherwise interact with us as described below. It explains our data processing activities, their purpose, what category of personal data that these activities involve and the legal basis for these processing activities.
 
-a) City Cruises may also track your domain name or IP address to assist our efforts to gather and track the information described above. For some computers, the IP address is a globally unique identifier of your computer. Multiple users of the same computer will share the same IP address. However, in most cases your ISP (or network server, if a business user) will allocate you an IP address only for the duration of your online session (about 80% of all surfers are using "temporary" IP addresses). This means that, even when your IP address is noted, it is unlikely you will have the same IP address next time you use the internet.
+**1.2 Booking your ticket or other services**
 
-b) IP addresses are never shared with third parties.  
-4\. Cookies
+When you book any product or service with City Cruises you will be asked to provide information such as your name, phone number, e-mail address and payment details. Depending on your specific booking details, additional information might be requested, such as date of birth etc. In addition, when you request special assistance, such as special diet or wheel chair services, you might need to provide related sensitive data such as your health condition.
 
-a) City Cruises does not use "cookie" technology.
+When you change your booking or otherwise seek other support from us, we will process the above-mentioned personal information we have collected from you. Your name as well as your contact information will be used by us to keep you informed of your bookings. This includes sending you reminders by SMS, email or phone regarding your booking and notification of any disruption if your booking is delayed or cancelled. The purpose of these processing activities is to provide you with the products and services you have booked from us.
 
-b) If you do not wish to have cookies placed on your computer, you can disable cookies through your Internet browser. Disabling cookies will not prevent you from accessing any portions of the City Cruises site or service.  
-5\. Opt-In and Opt-Out
+You also have to provide your payment details (e.g. card number and expiry date) in addition to other personal data to complete your payment. These data, in particular your name, address, e-mail address and will be disclosed to our payment services providers, for the purpose of receiving your payment and completing your booking. If you request for refund of your payment, these data will also be processed.
 
-a) The City Cruises site always requires users to actively select that they receive promotional communications from City Cruises. We will never assume acceptance.
+To fulfill our legal obligations, we may disclose your data to e.g. your card issuer, maritime security services, or the police. For this purpose, the data we process may include your name, address, e-mail address, and payment details.
 
-b) In addition, every e-mail sent out by City Cruises will contain instructions on removing that e-mail address from lists for further mailings.  
-6\. Consent
+The information you have provided for the purposes of booking and booking management will be stored up to 10 years until it is not necessary for us to protect and defend City Cruises.
 
-By using citycruises.com and inputting personal information you consent to the collection and use of this information. If we change our privacy policy we will post those changes on this page. Should we change our policy in the future the change will not affect how the data you enter now is used.  
-7\. Correcting/Updating Personal Information
+The legal basis for the processing of your data as described in this section is your acceptance of the Terms and Conditions under which you book from us and our legitimate interests to operate our business, or otherwise that it is necessary to fulfill our legal obligations.
 
-We are currently developing the capability to allow users to update, correct or amend their personally identifiable or demographic information and hope to make it available to users soon. If you believe we have incorrect or inappropriate information about you, please contact us on +44 (0)20 77 400 400.  
-8\. Contacting the Web Site
+**1.3 Customer Support**
 
-If you have any questions about this policy, the practices of the City Cruises site or our services, or your dealings with this website, please e-mail webmaster@citycruises.com  
-Your Rights Under Law  
-1\. The Data Protection Act 1998
+City Cruises has various forms of customer support in order to help you. For us to be able to provide you with customer support, we will process your personal data to identify you and help you as best we can. On our website, you will be able to start a LiveChat or submit a questionnaire form, or you can also contact us by phone, via email or letters, or via social media; and when you communicate with us via any of these means, we will help you with inquiries, questions or feedbacks concerning our services. Depending on your inquiry, question or feedback, you may be asked to provide additional personal data.
 
-According to the Government Data Protection website:
+After you have contacted Customer Support, we will examine the content of our communication with you, for instance, the recording of our communication with you when we deal with your complaint. This is to control the quality of the service we have provided to you. For this purpose, your personal data such as your name and contact detail may be processed.
 
-'Processing' is broadly defined and takes place when any operation or set of operations is carried out on personal data. The Data Protection Act 1998 requires that personal data be processed "fairly and lawfully". Personal data will not be considered to be processed fairly unless certain conditions are met. A data subject must be told the identity of the data controller and why that information is or is not to be processed.
+To maintain our service level, we may conduct data testing regarding our websites and mobile applications when an error occurs or when any change is made to our system, and this involves processing your personal data. This enables us to debug (to eliminate technical errors) our systems, to correctly display any changes made by you or us that is relevant to you, and to ensure the proper functioning of these websites and mobile applications.
 
-Processing may only be carried out where one of the following conditions has been met:  
-\- the individual has given his or her consent to the processing;  
-\- the processing is necessary for the performance of a contract with the individual;  
-\- the processing is required under a legal obligation;  
-\- the processing is necessary to protect the vital interests of the individual;  
-\- the processing is necessary to carry out public functions;  
-\- the processing is necessary in order to pursue the legitimate interests of the data controller or third parties (unless it could prejudice the interests of the individual).
+We also produce reports and statistics by analyzing the data you have provided to us, such as your name and contact details. The purpose is to improve our service and to provide you a better user experience next time when you use our services.
 
-City Cruises meets and exceeds all these conditions. Our only interest in your personal details is to process bookings and to target promotional offers for those who request them. Any other data we collect is not user-specific.  
-2\. The European Union Privacy Directive
+If we detect irregular activities on your account, we will take necessary steps. These might include processing your personal data.
 
-The European Union (EU) encourages the free movement of goods, people, services and capital throughout the Union. It recognises that facilitating this requires the free flow of data from one Member State to another, but also that "fundamental rights of individuals should be recognised". In October 1998 the EU adopted the Directive on Data Protection, which sets forth strict rules for companies which handle personal data about EU citizens.
+**1.4 Marketing**
 
-The Directive instructs Member States to pass laws that specifically include the following terms:
+Aiming to help you make the most of the offers provided by us, we will send you or in other ways make you aware of various activities and offers via email, which may include newsletter, e-shots, unique offers based on your preferences, or information on other special or seasonal offers. For this purpose we will process your e-mail address, booking history and campaign participation history.
 
-\- Companies must notify both employees and consumers about how information collected about them will be used;  
-\- Companies can only use data for its intended purpose;  
-\- Companies cannot transfer data on employees and consumers to countries with inadequate privacy protection laws;  
-\- Consumers will have a right to access data collected about them;  
-\- Consumers will have a right to have inaccurate data rectified;  
-\- Consumers will have a right to know the origin of data about them (if this information is available);  
-\- Consumers will have a right of recourse in the event of unlawful processing of data about them;  
-\- Consumers will have a right to withhold permission to use their data (e.g. the right to opt-out of direct marketing campaigns for free without providing a reason);  
-\- Companies need explicit permission of consumers to process sensitive information, including information on racial origin, political or religious beliefs, trade union membership, medical data and sexual life.
+We may also send you offers related to your upcoming booking via email; for this purpose we will process your e-mail address and booking history. In addition, we will also remind you via email about your uncompleted booking, and provide you easy access to your uncompleted booking process; for this purpose your email address and your web-behavior data concerning your uncompleted booking will be processed.
 
-Fundamentally this means companies must ask customers if they can collect personal data, disclose how any information will be collected and used and provide customers with free access to data about themselves.
+City Cruises strives to be as relevant as possible for each customer across different digital channels. If you have visited our website, we may present relevant offers to you on other digital media based on your web clicks. Anonymized IP in cookies will be processed for this purpose. When you visit our website we will use your on-line behavior in order to present relevant offers through our internet portals, e-mail campaign and in other digital media.
 
-City Cruises meets and exceeds all these conditions. Our only interest in your personal details is to process online orders. Any other data we collect is not user specific.
+For the purpose of improving our communications with you, we also carry out market research, which can be conducted by using your personal data to connect various data sets. Personal data in analytical data sets will always be deleted after the analysis.
 
-If you wish to access any personal information you feel we may have about you, e-mail us at:info@citycruises.com
+You are free to request deletion of your personal data used for marketing by contacting as at the details given below.  As for anonymous user cookies, they are not identifiable to a specific person but will nonetheless be deleted according to industry practice.
 
-We consider good privacy practices to be very important. If you believe this document or our practices can be improved, please e-mail webmaster@citycruises.com
+The legal basis for processing your personal data is your consent and our legitimate interests to operate and improve our business. Please note that withdrawal of any consent does not affect the lawfulness of the processing that has taken place based on a consent given prior to the withdrawal.
 
-City Cruises PLC  
-Cherry Garden Pier  
-Cherry Garden Street  
-London SE16 4TU
+**2\. IP Addresses**
 
-info@citycruises.com
+City Cruises may also track your domain name or IP address to assist our marketing efforts as described above. For some computers, the IP address is a globally unique identifier of your computer. Multiple users of the same computer will share the same IP address. However, in most cases your ISP (or network server, if a business user) will allocate you an IP address only for the duration of your online session (about 80% of all surfers are using "temporary" IP addresses). This means that, even when your IP address is noted, it is unlikely you will have the same IP address next time you use the internet.
+
+**3\. Cookies**
+
+City Cruises uses its own cookies and cookies supplied by large and small advertising and analysis companies to assist with transactions, to advertise to consumers and to understand the behaviour of users on the company’s websites in order to make them easier to use.  
+ If you do not wish to have cookies placed on your computer, you can disable cookies through your Internet browser. Disabling cookies will not prevent you from accessing any portions of the City Cruises site or service.
+
+**4\. Opt-In and Opt-Out**
+
+The City Cruises site always requires users to actively select that they receive promotional communications from City Cruises. We will never assume acceptance.  In addition, every e-mail sent out by City Cruises will contain instructions on removing that e-mail address from lists for further mailings.
+
+**5\. Consent**
+
+By using citycruises.com and inputting personal information you consent to the collection and use of this information. If we change our privacy policy we will post those changes on this page. Should we change our policy in the future the change will not affect how the data you enter now is used.
+
+**6\. Images rights terms and conditions**
+
+Approved Instagram content terms and conditions
+
+When accepting rights requests you are allowing City Cruises to use your content in future marketing campaigns with no copyright.
+
+Rights will be requested by City Cruises via commenting on your Instagram and require a response to approve use of your content. To agree to City Cruises reusing your content simply reply using the hashtag  _#YesCityCruises_.
+
+Copyright: Upon approval, photos become the property of City Cruises and each participant relinquishes any claims of ownership or rights therein upon approval of their content to be used.
