@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smrt.com.sg privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628065547id_/http%3A//www.smrt.com.sg/Privacy-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smrt.com.sg privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103173620id_/http%3A//www.smrt.com.sg/Privacy-Statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
