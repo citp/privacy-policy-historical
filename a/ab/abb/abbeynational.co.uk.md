@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbeynational.co.uk privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407213925id_/https%3A//www.santander.co.uk/personal/support/customer-support/legal-information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbeynational.co.uk privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103164447id_/https%3A//www.santander.co.uk/personal/support/customer-support/legal-information) for the most accurate reproduction.*
 
 # Legal information | Santander UK
 
@@ -98,13 +98,13 @@ Subject to applicable data protection law we may share your personal data with:�
 
 ### **International transfers**
 
-In some instances your personal data may be transferred outside the UK and the European Economic Area. While some countries have adequate protections for personal data under applicable laws, in other countries steps will be necessary to ensure appropriate safeguards apply to it. These include imposing contractual obligations of adequacy or requiring the recipient to subscribe or be certified with an ‘international framework’ of protection. More details can be found in our '[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data.pdf "Using my personal data.pdf").
+In some instances your personal data may be transferred outside the UK and the European Economic Area. While some countries have adequate protections for personal data under applicable laws, in other countries steps will be necessary to ensure appropriate safeguards apply to it. These include imposing contractual obligations of adequacy or requiring the recipient to subscribe or be certified with an ‘international framework’ of protection. More details can be found in our '[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data_0.pdf "Using my personal data.pdf").
 
 ### **Online applications  **
 
-If you apply for an account online, before you enter any personal details into the online form, we'll tell you how your information will be used in our data protection statement relevant to that account, in the[ ](https://web.archive.org/csdlvlr/BlobServer?blobtable=MungoBlobs&blobkey=id&blobcol=urldata&blobheader=application/pdf&blobheadervalue1=inline%3Bfilename%3DUsing%20my%20personal%20data%20do-ec-445.pdf&blobwhere=1314025224022&blobheadername1=Content-Disposition)‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data.pdf "Using my personal data.pdf") and sometimes in the relevant terms and conditions. You’ll be asked to confirm that you have read these and you’ll be asked to agree to our terms and conditions before your application can proceed.
+If you apply for an account online, before you enter any personal details into the online form, we'll tell you how your information will be used in our data protection statement relevant to that account, in the ‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data_0.pdf "Using my personal data.pdf") and sometimes in the relevant terms and conditions. You’ll be asked to confirm that you have read these and you’ll be asked to agree to our terms and conditions before your application can proceed.
 
-The data protection statement, in conjunction with the ‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data.pdf "Using my personal data.pdf"), includes details of the uses we may make of your data, the legal basis we are relying upon to carry out that processing, and who we may share your personal data with. For instance, for credit account applications like loans and bank accounts, we may pass your details to a recognised credit reference agency to help process your application.
+The data protection statement, in conjunction with the ‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data_0.pdf "Using my personal data.pdf"), includes details of the uses we may make of your data, the legal basis we are relying upon to carry out that processing, and who we may share your personal data with. For instance, for credit account applications like loans and bank accounts, we may pass your details to a recognised credit reference agency to help process your application.
 
 We may occasionally send you information about accounts and services which we think would be of interest to you but only where we have your consent or if this is within our legitimate interests (see above for more details about lawful reasons). You can choose to stop receiving information at any time by contacting us.
 
@@ -124,7 +124,7 @@ Emails are stored on our standard internal contact systems which are secure and 
 
 ### **Automated decision making and processing**
 
-Automated decision making involves processing your personal data without human intervention to evaluate your personal situation such as your economic position, personal preferences, interests or behaviour, for instance if you have accounts with us, in relation to transactions on your accounts, your payments to other providers, and triggers and events such as account opening anniversaries and maturity dates. We may do this to decide what marketing communications and marketing in-branch is suitable for you, to analyse statistics and assess lending and insurance risks. All this activity is on the basis of our legitimate interests, to protect our business, and to develop and improve our products and services, except as follows; when we do automated decision making including profiling activity to assess lending and insurance risks, this will be performed on the basis of it being necessary to perform the contract with you or to take steps to enter into that contract. Further details can be found in the[ ](https://web.archive.org/assets/s3fs-public/2018-09/Using%20my%20personal%20data.pdf "Using my personal data.pdf")‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data.pdf "Using my personal data.pdf")
+Automated decision making involves processing your personal data without human intervention to evaluate your personal situation such as your economic position, personal preferences, interests or behaviour, for instance if you have accounts with us, in relation to transactions on your accounts, your payments to other providers, and triggers and events such as account opening anniversaries and maturity dates. We may do this to decide what marketing communications and marketing in-branch is suitable for you, to analyse statistics and assess lending and insurance risks. All this activity is on the basis of our legitimate interests, to protect our business, and to develop and improve our products and services, except as follows; when we do automated decision making including profiling activity to assess lending and insurance risks, this will be performed on the basis of it being necessary to perform the contract with you or to take steps to enter into that contract. Further details can be found in the[ ](https://web.archive.org/assets/s3fs-public/2018-09/Using%20my%20personal%20data.pdf "Using my personal data.pdf")‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data_0.pdf "Using my personal data.pdf")
 
 ### **Using our calculators, decision tools, guides and budget planners**
 
@@ -188,7 +188,7 @@ Your rights are as follows (noting that these rights don’t apply in all circum
 
 You have the right to complain to the Information Commissioner’s Office. It has enforcement powers and can investigate compliance with data protection law: **ico.org.uk**.
 
-For more details on all the above you can contact our DPO, view the ‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data.pdf "Using my personal data.pdf") or ask for a copy in branch.
+For more details on all the above you can contact our DPO, view the ‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data_0.pdf "Using my personal data.pdf") or ask for a copy in branch.
 
 [Find your nearest branch](https://branchlocator.santander.com/?view=gb&defaultLanguage=en) or [contact us](https://web.archive.org/personal/support/talk-to-us "Talk to us")
 
@@ -198,7 +198,7 @@ Your personal data may be converted into statistical or aggregated data which ca
 
 ### **Group companies**
 
-For more information on the Santander group companies, please see the ‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data.pdf "Using my personal data.pdf")
+For more information on the Santander group companies, please see the ‘[Using My Personal Data’ booklet](https://web.archive.org/assets/s3fs-public/documents/using-my-personal-data_0.pdf "Using my personal data.pdf")
 
 ### **Changes to this Privacy Statement**
 
