@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kashflow.com privacy policy that was archived on 2019-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190304073148id_/https%3A//www.kashflow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kashflow.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103053700id_/https%3A//www.kashflow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KashFlow
 
-Please read this privacy notice (“Privacy Notice”) carefully and ensure you understand its contents as it describes how we collect, retain, protect, use and disclose your personal information. The Privacy notice applies to [www.kashflow.com](http://www.kashflow.com/) and where you provide us any information in ways described below you agree that we may collect, store and use it in accordance with this Privacy Notice.
+Please read this privacy notice (“Privacy Notice”) carefully and ensure you understand its contents as it describes how we collect, retain, protect, use and disclose your personal information. The Privacy notice applies to [www.kashflow.com](https://www.kashflow.com/) and where you provide us any information in ways described below you agree that we may collect, store and use it in accordance with this Privacy Notice.
 
 KashFlow is part of IRIS Software Group Limited. The IRIS Software group of companies (“IRIS”) or “we” (and “our” or “us” will be construed accordingly) are committed to protecting and respecting your privacy.
 
@@ -188,6 +188,6 @@ For information on our use of cookies, please see our [cookie policy](https://ww
 
 #### Further information
 
-If you have any queries about how we treat your information, the contents of this Privacy Notice, your rights under local legislation, how to update your records or how to obtain a copy of the information that we hold about you, please write to our Data Protection Officer, IRIS Software Group Limited, Riding Court House, Riding Court Road, Datchet SL3 9JT.
+If you have any queries about how we treat your information, the contents of this Privacy Notice, your rights under local legislation, how to update your records or how to obtain a copy of the information that we hold about you, please write to our Data Protection Officer, IRIS Software Group Limited, Heathrow Approach, 470 London Road, Slough, SL3 8QY.
 
 If you have any questions about the security of our websites, please contact us at [webmaster@iris.co.uk](mailto:webmaster@iris.co.uk).
