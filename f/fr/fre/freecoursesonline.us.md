@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freecoursesonline.us privacy policy that was archived on 2018-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180808033821id_/https%3A//www.freecoursesonline.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecoursesonline.us privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103161516id_/https%3A//www.freecoursesonline.me/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | FreeCoursesOnline.Us
+# Privacy Policy | FreeCoursesOnline.Me
 
 ### 1\. INTRODUCTION
 
-**1.1. PURPOSE OF POLICY.** FreeCoursesOnline.Us (us, we, Non-Profit Orgainzation) is committed to respecting the privacy rights of visitors and other users of this site. We created this Privacy Policy (this Policy) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+**1.1. PURPOSE OF POLICY.**  Our Website (us, we, Non-Profit Organization) is committed to respecting the privacy rights of visitors and other users of this site. We created this Privacy Policy (this Policy) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 **1.2. NOTICE CONCERNING CHILDREN**
 
@@ -12,9 +12,9 @@ PLEASE NOTE: We are a general audience site, and do not direct any of our conten
 
 ### 2\. INFORMATION COLLECTION PRACTICES
 
-**2.1. WHAT BASIC INFORMATION DOES THE WE COLLECT?**
+**2.1. WHAT BASIC INFORMATION DOES WE COLLECT?**
 
-In operating the Site, we collect personal information from you in a couple different situations. The first is if you should contact us via the contact page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site.
+In operating the Site, we collect personal information from you in a couple of different situations. The first is if you should contact us via the contact page. In doing so, you will provide us with your name and email address. The second is if you leave a comment to a blog post during which you may be asked for a name and other information. You are not required to provide us with information via these two methods to use and enjoy the Site.
 
 **2.2. WHAT ADDITIONAL INFORMATION DOES WE COLLECT?**
 
@@ -52,7 +52,7 @@ From time-to-time, the Site may contain links to other websites. If you choose t
 
 **6.1. CONTACTING US**
 
-If you have any questions about this Policy or our practices related to this Site, please feel contact us.
+If you have any questions about this Policy or our practices related to this Site, please feel free to contact us.
 
 **6.2. UPDATES AND CHANGES**
 
