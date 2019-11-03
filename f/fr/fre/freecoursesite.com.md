@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecoursesite.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121123411id_/https%3A//freecoursesite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecoursesite.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103031757id_/https%3A//freecoursesite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
