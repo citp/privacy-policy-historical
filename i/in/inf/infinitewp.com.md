@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitewp.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315002857id_/https%3A//infinitewp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitewp.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103013943id_/https%3A//infinitewp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - InfiniteWP
 
