@@ -1,51 +1,159 @@
-> *The following text is extracted and transformed from the routenote.com privacy policy that was archived on 2017-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170424193227id_/http%3A//routenote.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routenote.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103180833id_/https%3A//www.routenote.com/privacypolicy) for the most accurate reproduction.*
 
 # RouteNote Privacy Policy | RouteNote: Sell Your Music Online - Digital Music Distribution - Promotion - Publishing
 
-Privacy Policy
+RouteNote Privacy Policy
 
-This privacy policy applies to RouteNote [http://www.routenote.com](http://www.routenote.com/ "http://www.routenote.com"), and details what information RouteNote collects, how it is used and how to opt out of non-compulsory aspects of information gathering. RouteNote will not disclose your personal information to third parties without your consent. RouteNote always uses secure methods when handling your sensitive information. If you need any further help, please feel free to get in touch with us on [support@routenote.com](mailto:support@routenote.com). 
+1\. Introduction 
 
-What information does RouteNote collect and how is it collected? 
+At RouteNote, we want to give you the best possible experience to ensure that you enjoy our service today, tomorrow, and in the future. Your privacy and the security of your personal data is, and will always be, enormously important to us. So, we want to transparently explain how and why we gather, store, share and use your personal data - as well as outline the controls and choices you have around when and how you choose to share your personal data. 
 
-Information requested of you during the registration and licensing process will include, but is not limited to: your name, physical address, e-mail address, a password, biographical information, a picture of you, site links, credit card details, bank account details and/or other payment information and music or pictures in digital formats. 
+That is our objective, and this Privacy Policy (“Policy”) will explain exactly what we mean in further detail below. 
 
-Cookies may be used to help us track and record your use of the site, and help us improve our services. Cookies are small text or data files that are written to your computer's hard drive when you visit a particular site. Cookies are an industry standard, and most sites use them; it is possible to disable cookies in your internet browser, please consult the help pages in your browser if you wish to do so. 
+2\. About this Policy 
 
-From time to RouteNote may ask you to participate in a survey or questionnaire pertaining to the site, or other RouteNote products and services, your responses will be treated as confidential and anonymous unless otherwise specified. 
+The Policy applies to all RouteNote services and any associated services (referred to as the ‘RouteNote Service’). The terms governing your use of the RouteNote Service are defined in our [Terms and Conditions of Use](https://routenote.com/termsandconditions) (the “Terms and Conditions of Use”). 
 
-If you forget your password or site identity details, RouteNote may request reminder information to help you recall this information; this will only occur at your request. If you receive unsolicited requests for this information or you are not completely sure of the authenticity of any such communication please contact RouteNote immediately for confirmation. Such action helps us to prevent identity fraud. 
+From time to time, we may develop new or offer additional services. If the introduction of these new or additional services results in any change to the way we collect or process your personal data we will provide you with more information and additional terms or policies. Unless stated otherwise when we introduce these new or additional services, they will be subject to this Policy. 
 
-How is the information used and to whom is it disclosed? 
+The aim of this Policy is to:
 
-RouteNote gathers the information discussed above for purposes of providing and improving our web site and services and in the development of new products and services. 
+1\. Ensure that you understand what personal data we collect about you, the reasons why we collect and use it, and who we share it with;  
+2\. Explain the way we use the personal data that you share with us in order to give you a great experience when you are using the RouteNote Service; and  
+3\. Explain your rights and choices in relation to the personal data we collect and process about you and how we will protect your privacy.   
 
-We may also use anonymous and impersonal information supplied by you during registration as part of statistics describing our clients to potential partners, investors and advertisers. Personal information will not under any circumstances be sold or otherwise transferred to third parties without your express approval of each instance. 
 
-From time to time, it may be necessary for RouteNote employees to view your personal information. This will only be in the strictest confidence, and those individuals authorised to do so will be bound by the strictures of the Data Protection Act, and our own stringent internal privacy guidelines. 
+We hope this helps you to understand our privacy commitments to you. For information on how to contact us if you ever have any questions or concerns, please [visit our contact form](https://routenote.com/contact). Alternatively, if you do not agree with the content of this Policy, then please remember it is your choice whether you want to use the RouteNote Service. 
 
-Please be aware that RouteNote is legally obliged to disclose your personal information in repose to a subpoena, warrant, or court order as governed by the English Courts, and may release personally identifiable information in the good faith that such action is necessary to comply with British law, such as copyright law. We will give you ten (10) days notice before we release such information unless otherwise obliged. In the case of an alleged breach of any of the Terms and Conditions of the Contributors or Licensors agreement, we may also pass on information to our own legal advisers and associates, and we will take all legally permissible action in order to protect ourselves against allegations of copyright or other legal infringement. 
+3\. Your rights and your preferences: Giving you choice and control 
 
-In connection with any merger, acquisition, a sale of all or substantially all of the assets of the company, or other change of control, involvement in bankruptcy proceedings, or dissolution or closing of the company, or the application of laws or equitable principles affecting creditors rights generally RouteNote may transfer information it collects from you or obtains from third parties, including your personally identifiable information to the extent allowed by British law. 
+You may be aware that a new European Union law, called the General Data Protection Regulation or "GDPR" gives certain rights to individuals in relation to their personal data. Accordingly, we have implemented additional transparency and access controls in our Privacy Center and Privacy Settings to help users take advantage of those rights. As available and except as limited under applicable law, the rights afforded to individuals are: 
 
-How can I correct or remove my personal information? 
+* Right of Access - the right to be informed of and request access to the personal data we process about you;
+* Right to Rectification - the right to request that we amend or update your personal data where it is inaccurate or incomplete;
+* Right to Erasure - the right to request that we delete your personal data;
+* Right to Restrict - the right to request that we temporarily or permanently stop processing all or some of your personal data;
+* Right to Object -
+* the right, at any time, to object to us processing your personal data on grounds relating to your particular situation;
+* the right to object to your personal data being processed for direct marketing purposes;
+* Right to Data Portability - the right to request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service; and
+* Right not to be subject to Automated Decision-making - the right to not be subject to a decision based solely on automated decision making, including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.
 
-RouteNote will use commercially reasonable efforts to allow you to correct, update or remove your personal information. You acknowledge that it may be impossible to completely delete all of your information from RouteNote's records without some residual information being maintained due to backups or other reasons. 
+In order to enable you to exercise these rights with ease and to record your preferences in relation to how RouteNote uses your personal data, we provide you with access to the following settings via your Account Settings page: 
 
-Please be aware when requesting that information be deleted from RouteNote's database that RouteNote may not immediately be able to remove such material from partner sites due to the existence of contracts that have not yet reached their fixed termination or expiry date. 
+* Profile Preferences - allows you to control some of the categories of personal data we process about you, enables you to access your personal data, and edit and remove your data at any point. 
 
-Access to your personal information is protected by a password in which is selected by you. By approving this policy you agree that it is your responsibility to keep your password secure confidential in order to prevent unauthorised access and you also agree to notify RouteNote if any unauthorised use incurs. You are responsible for any orders placed with RouteNote or any submissions to RouteNote using your site identity and password. 
+If you have any questions about your privacy, your rights, or how to exercise them, please contact our Data Protection Officer using the ‘Contact Us’ form. We will respond to your request within a reasonable period of time upon verification of your identity. 
 
-How is my personal information protected? 
+4\. How do we collect your personal data? 
 
-RouteNote will take measures to safeguard your personal information against loss, theft or misuse, as well as unauthorised access, disclosure, alteration, or destruction. Unfortunately, no data transmission over the internet can be 100% secure. As a result, while RouteNote strives to protect your information, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once a transmission is received RouteNote follows the industry accepted security standards designed to safeguard and prevent unauthorised access, disclosure and use of your personal information, such as passwords, firewalls, encryption technology and other security measures. 
+We collect your personal data in the following ways: 
 
-Will this policy change? 
+* When you sign up for the RouteNote Service - when you sign up to the RouteNote Service, we collect certain personal data so you can use the RouteNote Service such as your email address, name, telephone number, address, gender, and country.
+* From third parties - we will receive personal data about you and your activity from third parties, including advertisers and partners we work with in order to provide you with the RouteNote Service. We will use this personal data either where you have provided your consent to the third party or to RouteNote to that data sharing taking place or where RouteNote has a legitimate interest to use the personal data in order to provide you with the RouteNote Service.
+* We use anonymised and aggregated information for purposes that include testing our IT systems, research, data analysis, creating marketing and promotion models, improving the RouteNote Service, and developing new features and functionality within the RouteNote Service.
 
-As RouteNote grows and expands to suite your needs, this privacy policy may need to be modified, altered or otherwise updated at any time. We encourage you to review this Privacy Policy from time to time, as any changes to this policy will be deemed to be accepted by you 30 days after they are posted here. Please contact RouteNote directly to discuss any changes. 
+5\. What personal data do we collect from you? 
 
-Acceptance of this privacy policy 
+Personal data collected when you sign up for the RouteNote Service 
 
-By using RouteNote and associated sites, you signify your agreement with RouteNote's Privacy Policy. If you do not agree with this policy, please do not use any of these sites. If you would like to speak to a RouteNote representative about this Privacy policy, please contact RouteNote via email at [legal@routenote.com](mailto:legal@routenote.com). 
+RouteNote collects Account Registration Data - This is the personal data that is provided by you or collected by us to enable you to sign up for and use the RouteNote Service. This includes your email address, name, address, telephone number, gender, postal code, and country. 
 
-This Privacy Policy is effective as of August 1, 2007. 
+Some of the personal data we will ask you to provide is required in order to create your account. You also have the option to provide us with some additional personal data in order to make your account more personalized. 
+
+The exact personal data we will collect depends on the type of RouteNote Service and whether or not you use a Third Party Service (as defined in the Terms and Conditions of Use, such as Facebook) to sign up and use the RouteNote Service. If you use a Third Party Service to create an account, we will receive personal data via that Third Party Service but only when you have consented to that Third Party Service sharing your personal data with us. 
+
+Personal data collected with your permission that enables us to provide you with additional features/functionality 
+
+Marketing Data - This personal data is used to enable RouteNote and our partners / service providers to send you marketing communications either: 
+
+* Via email;
+* Whilst using the RouteNote Service; and/or
+* Direct from the third party.
+
+6\. What do we use your personal data for? 
+
+When you use or interact with the RouteNote Service, we use a variety of technologies to process the personal data we collect about you for various reasons. We have set out below the reasons why we process your personal data, the associated legal bases we rely upon to legally permit us to process your personal data, and the categories of personal data used for these purposes: 
+
+To communication with you for RouteNote Service
+
+  
+
+
+Legal Basis for the processing purpose: 
+
+* Performance of a Contract
+* Legitimate Interest
+  
+
+
+Categories of personal data used by RouteNote for processing purposes: 
+
+* Account Registration on Data
+* Service Usage Data
+  
+
+
+To process your payments to prevent or detect fraud including fraudulent payments and fraudulent use of the RouteNote Service.
+
+  
+
+
+Legal Basis for the processing purpose: 
+
+* Performance of a Contract
+* Compliance with legal obligations
+* Legitimate Interest
+  
+
+
+Categories of personal data used by RouteNote for processing purposes: 
+
+* Payment data
+  
+
+
+7\. Sharing your personal data 
+
+We have set out the categories of recipients of the personal data collected or generated through your use of the RouteNote Service. 
+
+Information we may share 
+
+Other RouteNote Group companies - We will share your personal data with other RouteNote Group companies to carry out our daily business operations and to enable us to maintain and provide the RouteNote Service to you. 
+
+Law Enforcement and Data Protection Authorities - We will share your personal data when we in good faith believe it is necessary for us to do so in order to comply with a legal obligation under applicable law, or respond to valid legal process, such as a search warrant, a court order, or a subpoena. We also will also share your personal data where we in good faith believe that it is necessary for the purpose of our own, or a third party’s legitimate interest relating to national security, law enforcement, litigation, criminal investigation, protecting the safety of any person, or to prevent death or imminent bodily harm, provided that we deem that such interest is not overridden by your interests or fundamental rights and freedoms requiring the protection of your personal data. 
+
+8\. Data retention and deletion 
+
+We keep your personal data only as long as necessary to provide you with the RouteNote Service and for legitimate and essential business purposes, such as maintaining the performance of the RouteNote Service, complying with our legal obligations, and resolving disputes. 
+
+If you request, we will delete or anonymise your personal data so that it no longer identifies you, unless, we are legally allowed or required to maintain certain personal data, including situations such as the following: 
+
+* If there is an unresolved issue relating to your account, such as fraudulent activity on your account or an unresolved claim or dispute we will retain the necessary personal data until the issue is resolved;
+* Where we are required to retain the personal data for our legal, tax, audit, and accounting obligations, we will retain the necessary personal data for the period required by applicable law; and/or,
+* Where necessary for our legitimate business interests such as fraud prevention or to maintain the security of our users.
+
+9\. Keeping your personal data safe 
+
+We are committed to protecting our users’ personal data. We implement appropriate technical and organisational measures to help protect the security of your personal data; however, please note that no system is ever completely secure. 
+
+Your password protects your user account, so we encourage you to use a unique and strong password, limit access to your computer and browser, and log out after having used the RouteNote Service. 
+
+10\. Changes to this Privacy Policy 
+
+We may occasionally make changes to this Policy.   
+When we make material changes to this Policy, we’ll provide you with prominent notice as appropriate under the circumstances, e.g., by displaying a prominent notice within the RouteNote Service or by sending you an email. We may notify you in advance. 
+
+Please, therefore, make sure you read any such notice carefully. 
+
+11\. How to contact us 
+
+Thank you for reading our Privacy Policy. If you have any questions about this Policy, please contact our Data Protection Officer by using the [‘Contact Us’ form](https://routenote.com/contact) or by writing to us at the following address: 
+
+RouteNote Ltd   
+Kernow House   
+Gas Hill   
+Truro, Cornwall, TR1 2XP   
+United Kingdom   
+We hope you enjoy RouteNote   
+© RouteNote Ltd. 
