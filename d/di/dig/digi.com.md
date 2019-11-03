@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digi.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418204055id_/https%3A//www.digi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digi.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103105232id_/https%3A//www.digi.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Digi International
 
@@ -8,11 +8,11 @@ We know that your privacy is important to you. We created this Privacy Policy to
 
 If you have any questions about this Privacy Policy or our privacy practices, please contact our data privacy team at [data.privacy@digi.com](mailto:data.privacy@digi.com) or by call us at 001-952-912-3444.
 
-#### YOUR CONSENT
+###### YOUR CONSENT
 
 Please read this Privacy Policy carefully before using this Site and our Products. By using this Site or our Products, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Privacy Policy. If you do not agree to any of the terms of this Privacy Policy, then you may not access or use this Site or our Products. 
 
-#### INFORMATION WE COLLECT
+###### INFORMATION WE COLLECT
 
 Digi collects personal information from you, which is information that can be used to directly or indirectly identify you (“Personal Information”). Personal Information also includes anonymous information that is linked to information that can be used to directly or indirectly identify you. Personal Information does not include information that has been irreversibly anonymized or aggregated so that it can no longer enable us, whether in combination with other information or otherwise, to identify you.
 
@@ -53,7 +53,7 @@ Digi collects, processes, and determines how to process your Personal Informatio
 
 As a global company, Digi has a number of corporate affiliates in different jurisdictions. Each of these affiliates collects, processes and determines how to process your personal information as a data controller to help provide you the Products and Services you request.
 
-#### YOUR CHOICES
+###### YOUR CHOICES
 
 **In General**
 
@@ -71,17 +71,17 @@ California law requires this Privacy Policy to address how the Site responds to 
 
 You may change previously expressed preferences regarding how we use your Personal Information. If at any time you wish to be taken off our mailing lists, please indicate your preferences by e-mailing [data.privacy@digi.com](mailto:data.privacy@digi.com) or by indicating your preferences on our [privacy management](https://www.digi.com/legal/privacy/manage) page.
 
-#### HOW TO ACCESS, UPDATE OR CORRECT YOUR PERSONAL INFORMATION
+###### HOW TO ACCESS, UPDATE OR CORRECT YOUR PERSONAL INFORMATION
 
 You have the right to access, update or correct your Personal Information, and you may do so through your Cloud Services account information, if applicable, by visiting our [Data Management Page](https://www.digi.com/legal/privacy/manage), or by e-mailing us at [data.privacy@digi.com](mailto:data.privacy@digi.com). We will perform such changes within a reasonable time and, in any case, within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will provide access and correct or delete any inaccurate information you discover. In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identify.
 
 You are also entitled to object to or restrict, at any time, the further processing of your Personal Information. You have the right to receive your Personal Information in a structured and standard format. You may lodge a complaint with the competent data protection authority regarding the processing of your Personal Information.
 
-#### THIRD PARTY WEBSITES AND SERVICES
+###### THIRD PARTY WEBSITES AND SERVICES
 
 Our Products and this Site may contain links to or the ability for you to access third party websites, products, and services that are not owned, managed or controlled by Digi, and who may have privacy policies with different standards than those contained in this Privacy Policy. This Privacy Policy applies solely to information collected by us. We encourage you to read the privacy policies of any third parties before using their websites, products, or services.
 
-#### SAFEGUARDING YOUR INFORMATION
+###### SAFEGUARDING YOUR INFORMATION
 
 It is important that you take precautions to protect against unauthorized access to Products provided by us, account credentials, and computers or other devices. If you feel that the security of your account or Personal Information has been compromised, please Contact Us immediately at [data.privacy@digi.com](mailto:data.privacy@digi.com). Please be aware that, despite our efforts, no security system is impenetrable. In the event of a security breach, we will promptly notify you and the proper authorities if required by law.
 
@@ -93,15 +93,15 @@ We maintain reasonable administrative, physical and technological measures to pr
 
 We will retain your Personal Information for as long as it is necessary to fulfill the purposes outlined in this Privacy Policy, or as permitted or required by applicable law. If you wish to cancel your account or request that we no longer use your information to provide you Products or services, please contact us and we will consider your request along with the requirements of applicable law. 
 
-#### PRIVACY OBLIGATIONS FOR MINORS
+###### PRIVACY OBLIGATIONS FOR MINORS
 
 We do not knowingly collect, use, or disclose information from children under the age of 16 through the Site or Products. If you are the parent or guardian of a minor under the age of 16 and you are or become aware that your child has provided us with Personal Information without your consent, please Contact Us at [data.privacy@digi.com](mailto:data.privacy@digi.com) and we will work with you regarding your requests relating to such Personal Information. If we become aware that a minor under the age of 16 has provided us with Personal Information without consent from his or her parent or guardian, we will delete the information from our records.
 
-#### CHANGES TO THIS PRIVACY POLICY
+###### CHANGES TO THIS PRIVACY POLICY
 
 We are continually improving and adding to the features and functionality of this Site and the Products we offer to you. As a result of these changes (or changes to the law), we may need to revise or update this Privacy Policy. Accordingly, we reserve the right to update or modify this Policy at any time, by posting the revised version of this Privacy Policy behind the link marked “Privacy Policy” at the bottom of this Site. Your continued use of this Site after we have posted the revised Privacy Policy constitutes your agreement to be bound by the revised Privacy Policy. However, we will honor the terms that were in effect when we gathered Personal Information from you.
 
-#### ADDITIONAL INFORMATION FOR USERS IN THE EUROPEAN ECONOMIC AREA ONLY
+###### ADDITIONAL INFORMATION FOR USERS IN THE EUROPEAN ECONOMIC AREA ONLY
 
 If you have any questions about this Privacy Policy, including any requests to exercise your legal rights, please contact us at [data.privacy@digi.com](mailto:data.privacy@digi.com) the DPO using the details set out above.
 
