@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2019-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190218053611id_/https%3A//www.hsamuel.co.uk/webstore/static/customerservice/shopping/privacyPolicy.cdo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsamuel.co.uk privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103215839id_/https%3A//www.hsamuel.co.uk/webstore/static/customerservice/shopping/privacyPolicy.cdo) for the most accurate reproduction.*
 
-# Shopping at H.Samuel - Customer Services | H.Samuel
+# Shopping at H.Samuel - Customer Services
 
 ### **Signet Jewelers Privacy Policy**
 
@@ -15,36 +15,6 @@ To make this Policy as user friendly as possible, at the start of each section b
 ### **What Information Do We Collect?**
 
 We collect information like your name, email address, location, and the account credentials that you have given us online or in store or that we have obtained automatically. We use this information to process your orders and a few other things mentioned in this Privacy policy (like logging and analytics). If you connect with social media through one of our websites we will automatically have access to information provided by the platform. For your convenience, we use cookies so you don't have to log in every time you visit our website.
-
-* * *
-
-We collect personal information about you in various ways, such as when you provide it at our stores, on our Websites or affiliated websites, through our apps and social media channels, at our events, through your participation in surveys, via text messages or on the telephone. The types of personal information we may collect include: 
-
-  * Contact information (such as name, postal address, email address, and mobile or other telephone number); 
-  * Username and password if you have registered an account with us;
-  * Payment information (such as your payment card number, expiration date, authorization number or security code, delivery address, and billing address);
-  * Purchase, return, wish list and transaction information;
-  * Customer service information (such as customer service inquiries, comments and history);
-  * Device information
-  * Photographs, comments and other content you provide;
-  * Information regarding your personal or professional interests, date of birth, anniversary date, demographics (such as gender, occupation, income and marital status), experiences with our products, and shopping and contact preferences;
-  * Social media information;
-  * Contact information you provide about friends or other people you would like us to contact; and
-  * Information we may obtain from our third-party service providers.
-
-
-
-In addition, when you visit our Website, open our emails, use our apps or interact with our related tools, widgets or plug-ins, we may collect certain information by automated means, such as cookies, web beacons and web server logs. The information we collect in this manner may include your IP address, unique device identifier, browser characteristics, domain and other system settings, search queries, device characteristics, operating system type, language preferences, referring URLs, actions taken on our site, dates and times of website visits, metadata and other information associated with other files stored on your device. Through these automated collection methods, we obtain “clickstream data,” which is a log of the links and other content on which a visitor clicks while browsing a website. We may link certain data elements we have collected through automated means, such as your browser information, with other information we have obtained about you for the purposes described below, and to let us know, for example, whether you have opened an email we sent to you. While you can change your cookies settings in your browser, please note, however, that without cookies you may not be able to use all of the features of our Website.
-
-We may also offer internet-based advertising programs on our Website such as [AdChoices](http://youradchoices.com/) and [NetworkAdvertising](http://www.networkadvertising.org/). These third-party services selectively display ads based on browsing history. You can opt out of these services by clicking on the links in this paragraph.
-
-We also may collect information about the location of the mobile device or tablet used to access the Website (“Location Data”). Location Data includes: (a) the location of the mobile device or tablet derived from GPS or WiFi use; (b) the IP address of the mobile device or tablet or internet service used to access the Website; and (c) other information made available by a user or others that indicates the current or prior location of the user, such as geotag information in photographs. We will inform you if a specific Website, app or service collects precise Location Data. If you do not want us to collect Location Data from your device, please delete the app or disable the location settings on your device or tablet. Note, however, that disabling the location setting may affect your ability to access and use that app.
-
-When you connect with social media though the Website, you may link with social media platforms and social media plug-ins (e.g., the Facebook “Like” button, “Share to Twitter” button) (collectively, “Social Media”). When accessing services through a Facebook or other Social Media account, we may (depending on the applicable user privacy settings) automatically have access to information provided to or through the Social Media platform. We may collect and use this information for the purposes described in this Policy or at the time the information is collected.
-
-Information collected directly by the third party providers of the features is subject to the privacy policies or notices of these providers. We are not responsible for these providers’ information and privacy practices.
-
-Information we collect will only be used as described in this Policy. If you choose not to provide certain information, we may not be able to provide you with requested products, services or information.
 
 ### **How Do We Use the Information We Collect?**
 
