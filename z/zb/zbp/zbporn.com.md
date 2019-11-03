@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zbporn.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401003228id_/https%3A//zbporn.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbporn.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103113809id_/https%3A//zbporn.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy / ZB Porn
 
