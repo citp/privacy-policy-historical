@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the manhub.com privacy policy that was archived on 2018-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180818212635id_/http%3A//www.manhub.com/static/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manhub.com privacy policy that was archived on 2019-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191103055822id_/http%3A//www.manhub.com/static/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,6 +30,7 @@
 	<link href="http://static.manhubmedia.com/css/ie8.css" rel="stylesheet" type="text/css" media="all" />
         <![endif]-->
         <script type="text/javascript" async="" src="http://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="http://cdn.engine.phn.doublepimp.com/Scripts/infinity.js.aspx?guid=276b1bef-1b46-4875-aba2-5acd7bef3252" id="infinity" data-guid="276b1bef-1b46-4875-aba2-5acd7bef3252" data-version="async"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://static.manhubmedia.com/js/master.js"></script>
+        <script language="javascript" type="text/javascript" src="/js/cookieUtils.min.js"></script>
         
         <script type="text/javascript">
 
@@ -130,7 +131,7 @@
                         <!--<li class="mpipe">|</li>
                         <li class="mlinks">
                             <a href="http://ads.genericlink.com/ads/site/manhub/dispatcher/mh_camtab.php" target="_new" rel="nofollow" style="color: 
-red;">Premium LIVE Cams (57)</a>
+red;">Premium LIVE Cams (52)</a>
                         </li>-->
                         <li class="mpipe">|</li>
                         <li class="mlinks">
@@ -318,7 +319,7 @@ red;">Premium LIVE Cams (57)</a>
                     });
                 }, 90000);
         </script>
-                
+                        
 
         <script language="javascript" type="text/javascript">
         
@@ -393,6 +394,40 @@ red;">Premium LIVE Cams (57)</a>
             changing_thumbs = [];
             jQuery(img).attr('src', profile_thumb);
         }
+</script><script type="text/javascript">
+    var wpn_ad_configuration = [];
+    var wpn_ad_site = 'xvideos';
+    var wpn_ad_category = 'gay';
+    var tf_ads = [
+        {'type':'footer','nb_ban':'1','area_tag':'manhub','div_id':'footer_ad'},
+        {'type':'square','nb_ban':'1','area_tag':'manhub','div_id':'playvideo_ad_1'},
+        {'type':'square','nb_ban':'1','area_tag':'manhub','div_id':'playvideo_ad_2'},
+        {'type':'headermobile','nb_ban':'1','area_tag':'manhub','div_id':'mobile_header_ad'},
+        {'type':'footermobile','nb_ban':'1','area_tag':'manhub','div_id':'mobile_footer_ad'}
+    ];
+
+    function configureAds() {
+        return new Promise(function (resolve) {
+            for (var i = 0; i < tf_ads.length; i++) {
+                if (document.getElementById(tf_ads[i].div_id)) {
+                    wpn_ad_configuration.push(tf_ads[i]);
+                }
+            }
+            resolve();
+        });
+    }
+
+    (function () {
+        configureAds().then(function () {
+            if (wpn_ad_configuration.length > 0) {
+                var tf = document.createElement('script');
+                tf.type = 'text/javascript';
+                tf.src = 'http://rpc-php.trafficfactory.biz/js/ads.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(tf, s);
+            }
+        });
+    })();
 </script>    
 
 
