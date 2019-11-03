@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520120427id_/https%3A//www.securly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securly.com privacy policy that was archived on 2019-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191103184039id_/https%3A//www.securly.com/privacy) for the most accurate reproduction.*
 
 # Policy - Securly
 
@@ -97,7 +97,7 @@ Privacy Director
 San Jose, California 95113   
 United States
 
-[support@securly.com](mailto:support@securly.com)   
+[privacy@securly.com](mailto:privacy@securly.com)   
 1 (855) 732-8759 (ext. 101)
 
 ### Changes to this Policy
