@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2019-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190225122949id_/https%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymemory.co.uk privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104202733id_/https%3A//www.mymemory.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyMemory
 
@@ -46,7 +46,7 @@ With your consent we will send you information about products which we hope will
 
 ## Access to your information and correction
 
-You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email us at support@mymemory.com.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate.
 
@@ -60,7 +60,7 @@ We keep our privacy policy under regular review and we will place any updates on
 
 Please contact us if you have any questions about our privacy policy or information we hold about you.
 
-  * Email us at [support@mymemory.com](mailto:support@mymemory.com)
+  * Email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21525451514e5355614c584c444c4e53580f424e4c)
   * Call us on +44 (0)203 8902558 between Monday to Friday, 10am to 4pm (GMT)
   * Our live chat service is open Monday to Friday, 9am to 4pm (GMT)
   * Write to us at MyMemory Ltd,2 Britannia Place, St Helier, Jersey, JE2 4SU
