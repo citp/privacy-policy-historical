@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepsmut.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525113617id_/http%3A//stepsmut.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepsmut.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104231207id_/http%3A//stepsmut.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms and Condtions
 
