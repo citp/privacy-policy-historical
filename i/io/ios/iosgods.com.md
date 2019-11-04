@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iosgods.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401105311id_/https%3A//iosgods.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iosgods.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104082917id_/https%3A//iosgods.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iOSGods
 
@@ -103,21 +103,3 @@ More information regarding the Cookies we set can be found here: <https://iosgo
 In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through this site.
 
 This site uses the Google AdSense service we use to serve advertising uses a DoubleClick cookie to serve more relevant ads across the web and limit the number of times that a given ad is shown to you. 
-
-### Third Parties
-
-**Google Analytics**
-
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services.
-
-**Spam Defense**
-
-The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
-
-**SendGrid**
-
-SendGrid is used by this website to process and deliver emails.
-
-**Invisible reCAPTCHA**
-
-This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
