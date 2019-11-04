@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathlinks.ro privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624180912id_/https%3A//artofproblemsolving.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathlinks.ro privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105004026id_/https%3A//artofproblemsolving.com/company/privacy) for the most accurate reproduction.*
 
 # Art of Problem Solving
 
@@ -36,7 +36,7 @@ Teachers using our Teacher Tools on our website must first be members of the Art
 
 Teachers may enroll students in their classes using the Teacher Tools. In the case that such a student is under the age of 13, teachers agree that they, or their school, are acting as the students' parents' agent in providing consent for the online collection of students' personal information within the school context. (Please see [ this website from the Federal Trade Commission](http://www.ftc.gov/tips-advice/business-center/guidance/complying-coppa-frequently-asked-questions#Schools) for more information.) Please note that we will only use children's information we collect with the school's consent for educational purposes. 
 
-##  Students enrolling in a class within his or her school, established by a registered teacher using our Teacher Tools 
+##  Students enrolling in a class within their school, established by a registered teacher using our Teacher Tools 
 
 Students who enroll in a class set up by a registered teacher using our Teacher Tools do not need to be members of the Art of Problem Solving community. We will collect your name, and you will also have to choose a unique username and password, which are both needed to log on. (If you are already a member of the Art of Problem Solving community, we will use your already-existing username and password, but you may have to additionally provide your real name.) Your real name and username, along with other data that we have collected including (but not necessarily limited to) any data collected during your use of our Alcumus online educational system, will be shared with the teacher in whose class you are enrolling. We will not use this information for any other purpose, and will not share this information with any other third party (except as may be required by law). Please note that we will only use children's information we collect with the school's consent for educational purposes. 
 
