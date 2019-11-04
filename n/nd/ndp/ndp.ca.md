@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513135035id_/https%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndp.ca privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104131617id_/https%3A//www.ndp.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Canada's NDP
 
@@ -6,15 +6,17 @@
 
 Canada’s NDP is committed to respecting and protecting your privacy, including your personal information. Our policy is in strict compliance with Canadian privacy principles, as well as our obligations under the _Canada Elections Act_. We are committed to ensuring the confidentiality and security of your personal information.
 
-This page summarizes our privacy policy and information practices for NDP.ca. It is intended to provide information to help you make informed decisions when choosing to communicate with us via this site.
+This page summarizes our privacy policy and information practices for the NDP including this website ndp.ca. It is intended to provide information to help you make informed decisions when choosing to communicate with and interact with us.
 
  **Collecting Personal Information**
 
-“Personal information” is information about an identifiable individual. It includes information such as your name, email address, telephone number, and financial information.
+“Personal information” is information about an identifiable individual. It includes information such as your name, addresses, email address, telephone number, financial and demographic information.
 
-Elections Canada provides all registered political parties with the List of Electors, which includes names and addresses.
+Elections Canada provides all registered political parties with the List of Electors, which includes names and addresses. We also collect information from publicly available data sources.
 
-We collect the personal information that you choose to provide to us when you become a donor, a member, when you voluntarily subscribe to our communications, when you register for an event or sign a petition either in person or online, or when you complete any of the forms on NDP.ca. If you submit your email address and/or personal information through NDP.ca, you consent to being added to our email and/or contact list.
+We collect the personal information that you choose to provide to us when you become a donor, a member, when you voluntarily subscribe to our communications, when you register for an event or sign a petition either in person or online, when you complete any of the forms on NDP.ca and through voter contact activities, such as door-to-door canvassing and phone calls.
+
+If you submit your email address and/or personal information through NDP.ca, you consent to being added to our email and/or contact list and to receive future communications from us.
 
  **Using Personal Information**
 
@@ -33,6 +35,8 @@ We may engage third parties to provide us with services from time-to-time, such 
 Under no circumstances does the NDP sell your personal information to any third parties.
 
 In the event of a privacy breach, the NDP is committed to documenting the circumstances that led to the breach, the personal identifying information that might have been compromised and immediately and proactively informing affected individuals.
+
+The NDP provides its employees with training on the Party’s privacy policy, including its collection and use of personal information, as well as, how to securely maintain this information.
 
  **Privacy officer**
 
@@ -56,7 +60,7 @@ We aim to keep your information accurate and up-to-date. To update or correct th
 
  **Contacting Us**
 
-Questions or concerns about our privacy policy or the information we collect may be directed to [privacy@ndp.ca](mailto:CanadasNDP-LeNPDduCanada@ndp.ca).
+Questions or concerns about our privacy policy or the information we collect may be directed to our Privacy Officer, Jesse Calvert at [privacy@ndp.ca](mailto:CanadasNDP-LeNPDduCanada@ndp.ca).
 
 You can also contact us by phone at 613-236-3613 or by postal mail at the address below:
 
