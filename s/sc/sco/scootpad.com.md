@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scootpad.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329113144id_/https%3A//scootpad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scootpad.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104204408id_/https%3A//scootpad.com/privacy) for the most accurate reproduction.*
 
-# ScootPad: Delivering personalized, mastery-based learning to every student, continuously and automatically.™
+# ScootPad: The most personalized mastery platform in the world.
 
 ##### Effective date: 1st November, 2016
 
