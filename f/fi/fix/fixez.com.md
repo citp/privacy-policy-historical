@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fixez.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318140310id_/https%3A//www.fixez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fixez.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104040126id_/https%3A//www.fixez.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
