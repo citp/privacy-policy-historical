@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindawi.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330104045id_/https%3A//www.hindawi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindawi.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104234037id_/https%3A//www.hindawi.com/privacy) for the most accurate reproduction.*
 
 # Hindawi
 
@@ -8,7 +8,7 @@ By using this website, you consent to the use of cookies as described in our [Pr
 
 ## Privacy Policy
 
-Updated: May 23, 2018
+Updated: April 24, 2019
 
 #### Introduction
 
@@ -52,17 +52,18 @@ We will collect any information that you provide to us when you:
 
   1. (a) make an enquiry, provide feedback or make a complaint over the phone, by email or on our Site;
   2. (b) submit correspondence to us by post, email or via our Site;
-  3. (c) provide us with your contact details by email or over the phone; 
+  3. (c) provide us with your contact details by email or over the phone;
   4. (d) register for a MTS Account with us or update your profile and other MTS account details;
-  5. (e) submit, edit or review a manuscript via the MTS depending on whether you are a Submitting Author or Editor or Reviewer; 
-  6. (f) if you are an institutional administrator and you contact us to enquire about, or purchase, an institutional membership; 
-  7. (g) subscribe to our mailing lists or blog; 
-  8. (h) attend an event hosted by us; 
-  9. (i) fill in a form, conduct a search, post content on the website, respond to surveys or use any other features of the website; 
-  10. (j) submit a CV; 
-  11. (k) submit an application to a job vacancy; 
-  12. (l) attend an interview or assessment; or
-  13. (m) “follow”, “like”, post to or interact with our social media accounts, including Facebook, LinkedIn, Twitter, Medium, or Youtube.
+  5. (e) submit, edit or review a manuscript via the MTS depending on whether you are a Submitting Author or Editor or Reviewer;
+  6. (f) if you are an institutional administrator and you contact us to enquire about, or purchase, an institutional membership;
+  7. (g) subscribe to our mailing lists or blog;
+  8. (h) attend an event hosted by us;
+  9. (i) fill in a form, conduct a search, post content on the website, respond to surveys or use any other features of the website;
+  10. (j) engage with an electronic communication from us (email, sms, etc.)
+  11. (k) submit a CV;
+  12. (l) submit an application to a job vacancy;
+  13. (m) attend an interview or assessment; or
+  14. (n) “follow”, “like”, post to or interact with our social media accounts, including Facebook, LinkedIn, Twitter, Medium, or Youtube.
 
 
 
@@ -87,6 +88,16 @@ The information you provide to us will include (depending on the circumstances):
 
 
 
+##### Information We Collect about You from Third Parties
+
+We also collect data about You from third-parties such as:
+
+  * those who operate the platform through which articles are submitted and reviewed;
+  * article authors, editors and peer reviewers who may recommend you as a potential author, reviewer or editor;
+  * publicly available sources in order to identify potential contributors, editors and peer reviewers.
+
+
+
 ##### Sensitive Personal Data
 
 “Special categories” of particularly sensitive personal information (“Sensitive Personal Data”) require higher levels of protection. Such Sensitive Personal Data includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data. In addition, details about criminal convictions and offences are also subject to higher levels of protection.
@@ -107,14 +118,15 @@ If you are submitting a job application, you may also provide Sensitive Personal
 In certain circumstances, we will receive information about you from third parties. For example:
 
   1. (a) ORCID ID: if you are a Submitting Author using the MTS to submit a Contribution, you will be required to provide your ORCID ID. By providing your ORCID ID you are authorising that third-party provider to display certain information about you in accordance with your ORCID account settings;
-  2. (b) Plagiarism checking services: we also use third-party providers to verify information provided by you via your MTS Account, including via any articles you submit to us for publication. We use iThenticate and CrossCheck (both based in the USA) software to detect instances of overlapping and similar text in submitted manuscripts. We also use other third-party databases or websites to confirm your publication history to prevent duplicate submission (including Web of Science, Scopus, PubMed and Arvix.org);
+  2. (b) Plagiarism checking services: we also use third-party providers to verify information provided by you via your MTS Account, including via any articles you submit to us for publication. We use iThenticate and CrossCheck (both based in the USA) software to detect instances of overlapping and similar text in submitted manuscripts. We also use other third-party databases or websites to confirm your publication history to prevent duplicate submission (including Web of Science, Scopus, PubMed, Dimensions and Arvix.org);
   3. (c) Referring organisations: we receive information about you from third parties that are referring you to Hindawi. For example, if you are the co-author or institutional contact of a Submitting Author, the Submitting Author will be required to provide us with information about you. If you are the referring party, you warrant that you have obtained the necessary consent to share this information with us;
   4. (d) Service providers: we may collect personal information from our website developer, IT support provider and payment services provider (who may be based inside or outside the EU) and our bank which processes invoices for institutional membership, Article Processing Charges or other paid-for services;
   5. (e) Website security: we will collect information from our website security service partners who are based in the UK about any misuse to the website, for instance, the introduction of viruses, Trojans, worms, logic bombs, website attacks or any other material or action that is malicious or harmful;
   6. (f) Employers, recruitment agencies, and referees: if you are a job applicant we may contact your recruiter, current and former employers and/or referees, who may be based inside or outside the EU, to provide information about you and your application;
-  7. (g) Social media plugins: we currently use social media plugins from the following service providers who are based both inside and outside the EU: Facebook, Twitter, LinkedIn, Medium and YouTube. By providing your social media account details you are authorising that third-party provider to share with us certain information about you;
+  7. (g) Social media plugins: we currently use social media plugins from the following service providers who are based both inside and outside the EU: Facebook, Twitter, LinkedIn and YouTube. By providing your social media account details you are authorising that third-party provider to share with us certain information about you;
   8. (h) Third-party agents: we may receive personal information, such as contact details (e.g. name, address, email address and affiliation), from third-party sales agents who have made a referral to us; and
-  9. (i) Third-party sources: we currently use a variety of sources in order to carry out basic research to find potential authors, editors and reviewers and carry out identity and compliance checks. In addition to general information researched on the internet, we make use of information from publicly available, officially registered information providers (such as institutional websites, PubMed, PubMed Central and CrossRef) as well as proprietary sources.
+  9. (i) Third-party sources: we currently use a variety of sources in order to carry out basic research to find potential authors, editors and reviewers and carry out identity and compliance checks. In addition to general information researched on the internet, we make use of information from publicly available, officially registered information providers (such as institutional websites, PubMed, PubMed Central, CrossRef and Dimensions) as well as proprietary sources.
+  10. (j) Third-party marketing services providers such as Kudos Innovations Limited, Outsell, Inc., DataSalon Limited and SciencePOD (Armor Media Limited) that help us to refine and target our marketing communications. 
 
 
 
@@ -170,19 +182,20 @@ In connection with the purposes and on the lawful grounds described above and in
   * Our service providers: service providers we work with to deliver our business, who are acting as data processors and provide us with: 
     1. (a) website development and hosting services based in the USA, UK, Egypt, Romania and India;
     2. (b) editorial, production, IT, system administration and security (including verification and fraud detection) and quality assurance services: Hindawi Publishing Corporation (based in Egypt);
-    3. (c) production and typesetting services: TNQ Books & Journals Private Limited (based in India) and SPi Technologies, Inc. (based in the Philippines); 
-    4. (d) marketing and advertising services (including Outbrain and Hubspot), analytics providers (including Hotjar and Google Analytics) based in the USA;
-    5. (e) relationship management and tracking for customer service (based in the USA);
-    6. (f) communication services (including Google, Slack, Oath and Microsoft), based in the USA;
+    3. (c) production, production editing and typesetting services: TNQ Books & Journals Private Limited (based in India) and SPi Technologies, Inc. (based in the Philippines);
+    4. (d) marketing and advertising services (including Outbrain, Facebook Business and Twitter Advertising, Kudos Innovations Limited, DataSalon Limited, Verizon Media and SciencePOD (Armor Media Limited)) and analytics providers (including Hotjar and Google Analytics and Outsell, Inc.) based in Europe and the USA;
+    5. (e) relationship management, customer services (SPi Technologies, Inc. (based in the Philippines) and tracking for customer service (based in the USA), Freshdesk and Salesforce);
+    6. (f) communication services (including Google, Slack and Microsoft), based in the USA;
     7. (g) printing services Lightning Source and Printforce, based in the USA and the Netherlands;
     8. (h) maps services (including Google Maps API), based in the USA;
-    9. (i) social media plugin services including Facebook, Twitter, Linkedin, Youtube, and Medium, based in the USA; 
-    10. (j) payment services, Braintree and Paypal (based in the Luxembourg);
-    11. (k) editorial and quality assurance services: Scientific Publishing Services (P) Ltd. (based in India); 
+    9. (i) social media plugin services including Facebook, Twitter, Linkedin and Youtube, based in the USA;
+    10. (j) payment services, Braintree (based in USA) and Paypal (based in Luxembourg);
+    11. (k) editorial and quality assurance services and production services: Scientific Publishing Services (P) Ltd. (based in India);
     12. (l) plagiarism checking services, iThenticate and CrossRef Similarity Check (Crossref), based in the USA;
     13. (m) banking services, HSBC based in the UK; 
     14. (n) legal, accountancy, auditing and insurance services and other professional advisers based in the UK;
-    15. (o) recruitment service providers based in the UK.
+    15. (o) recruitment service providers based in the UK;
+    16. (p) Reviewer Connect Services (Publons UK Limited).
   * Other publishers: we may also share information with other publishers for the purposes of academic misconduct investigations. These other publishers may be located outside of the EU;
   * Marketing parties: any selected third party that you consent to our sharing your information with for marketing purposes; 
   * Prospective sellers and buyers of our business: any prospective seller or buyer of such business or assets, only in the event that we decide to sell or buy any business or assets; and
@@ -196,7 +209,7 @@ We require third parties to maintain appropriate security to protect your inform
 
 We use cookies to ensure that you get the most out of our Site. Cookies are small amounts of information in the form of text files which we store on the device you use to access the Site. Cookies allow us to monitor your use of the software and simplify your use of the site. For example, a temporary cookie is also used to keep track of your “session”. Without that temporary cookie (which is not stored after you quit your browser) you would have to log on every time you access a new page. 
 
-If you do not wish for cookies to be installed on your device, you can change the settings on your browser or device to reject cookies. For more information about how to reject cookies using your internet browser settings please consult the “Help” section of your internet browser (or alternatively visit [http://www.aboutcookies.org](http://www.aboutcookies.org/)). Please note that, if you do set your Internet browser to reject cookies, you may not be able to access all of the functions of the Site. 
+If you do not wish for cookies to be installed on your device, you can change the settings on your browser or device to reject cookies. For more information about how to reject cookies using your internet browser settings please consult the “Help” section of your internet browser (or alternatively visit [http://www.aboutcookies.org](http://www.aboutcookies.org/)). Please note that, whilst access to the website is not conditional upon the acceptance of cookies by you, if you do set your Internet browser to reject cookies, you may not be able to access all of the functions of the Site.
 
 The names of the cookies used by the Site and the purposes for which these cookies are used are set out in the table below:
 
@@ -211,9 +224,11 @@ _biz_uid| analytics| Cloudflare| 1 year
 _ga| analytics| Google Analytics| 2 years  
 _gat| analytics| Google Analytics| 1 minute  
 _gid| tracking| Google Analytics| 1 day  
+collect| tracking| Google Analytics| single session  
 cto_lwid| tracking| Google Doubleclick| 1 year  
 IDE| tracking| Google Doubleclick| 6 months  
-_dc_gtm_UA-8578054-24| analytics and tracking| Google Tag Manager| 1 minute  
+ads/ga-audiences| tracking| Google Ads| single session  
+_dc_gtm_UA-#8578054-24| analytics and tracking| Google Tag Manager| 1 minute  
 .aspauthMTSMVC| authentication| Hindawi| 1 day  
 cookieconsent_dismissed| display| Hindawi| 1 year  
 hindawiAccount| authentication| Hindawi| session  
@@ -226,6 +241,15 @@ mp_hj_mixpanel| analytics| Hotjar| 6 months
 optimizelyBuckets| analytics| Hotjar| 10 years  
 optimizelyEndUserId| analytics| Hotjar| 10 years  
 optimizelySegments| analytics| Hotjar| 10 years  
+pixel| tracking| Outbrain| single session  
+MUID| tracking| Bing| 1 year  
+MUIDB| tracking| Bing| 1 year  
+B| tracking| Yahoo| 1 year  
+_fbp| tracking| Facebook| 3 months  
+fr| tracking| Facebook| 3 months  
+tr| tracking| Facebook| single session  
+personalization_id| tracking| Twitter| 2 years  
+j/adsct| tracking| Twitter| single session  
   
 Our Site may contain content and links to other sites that are operated by third parties that may also operate cookies. We don’t control these third-party sites or cookies and this Privacy Policy does not apply to them. Please consult the terms and conditions and Privacy Policy of the relevant third-party site to find out how that site collects and uses your information and to establish whether and for what purpose they use cookies.
 
