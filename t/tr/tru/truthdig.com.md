@@ -1,81 +1,160 @@
-> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611130449id_/https%3A//www.truthdig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104213651id_/https%3A//www.truthdig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & User Agreement - Truthdig: Expert Reporting, Current News, Provocative Columnists
 
-Welcome to Truthdig.com (the “Web Site,” “Service” or “we”). At Truthdig, we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on the website and acknowledge the importance of protecting this information. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy.
+### **1\. Introduction**
 
-### Traffic Data
+The privacy of our website visitors is very important to us, and we are committed to safeguarding it and to complying with all applicable laws and regulations regarding privacy and the storage and use of personal information. This policy explains how we handle and protect your personal information.
 
-When you visit Truthdig, our systems collect basic information about your computer, including Internet Protocol Address (IP Address), operating system, browser software and Internet Service Provider. We also collect information about what you view on the website. This information reflects our readership as a whole and is used to help us better understand and best serve the Truthdig community.
+### **2\. Use of Cookies**
 
-### Use of Cookies
+Consenting to our use of cookies in accordance with the terms of this policy when you first visit our website permits us to use cookies every time you visit our website. **Please see Section 13 below for more detailed information on our policies and practices regarding the use of cookies**.
 
-The website uses “cookies” — a small piece of information which a web server can store temporarily with your web browser. We use cookies to track the type of content and web sites to which our users link, the length of time they spend at any particular web site and the Truthdig services they use. Cookies also help us diagnose problems with our server.
+### **3\. Collecting personal information**
 
-### Email News and “Send to a Colleague” Feature
+The following types of personal information may be collected, stored, and used:
 
-After signing up with Truthdig, users will receive email news and other occasional announcements from Truthdig. In order to distribute our email, we collect subscribers’ email addresses. We do not share email addresses with other companies or partners. Users can unsubscribe from receiving emails from Truthdig at any time.
+  1. information about your computer including your IP address, geographical location, browser type and version, and operating system;
+  2. information about your visits to and use of this website including the referral source, length of visit, page views, and website navigation paths;
+  3. information, such as your email address, that you enter when you register with our website;
+  4. information that you enter when you create a profile on our website—for example, your name, profile pictures, gender, birthday, relationship status, interests and hobbies, educational details, and employment details;
+  5. information, such as your name and email address, that you enter in order to set up subscriptions to our emails and/or newsletters;
+  6. information that you enter while using the services on our website;
+  7. information that is generated while using our website, including when, how often, and under what circumstances you use it;
+  8. information relating to anything you purchase, services you use, or transactions you make through our website, which includes your name, address, telephone number, email address, and credit card details;
+  9. information that you post to our website with the intention of publishing it on the internet, which includes your username, profile pictures, and the content of your posts;
+  10. information contained in any communications that you send to us by email or through our website, including its communication content and metadata;
+  11. any other personal information that you send to us.
 
-We offer a “Send to a Colleague” feature, which allows our users to inform others about a Dig or other Truthdig content they might be interested in. For this feature to function, we ask for email addresses from the sender and for the recipient. We do not store or save these email addresses and you will not receive any communication from Truthdig or its partners as a result of having used this feature.
 
-### Discussion Forums
 
-Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig’s User Agreement, by using the website you grant Truthdig permission to use any content you post on the website for any purpose.
+Before you disclose to us the personal information of another person, you must obtain that person’s consent to both the disclosure and the processing of that personal information in accordance with this policy.
 
-If you have any concerns about the discussion forums, send email to info@truthdig.com.
+### **4\. Using your personal information**
 
-### Surveys
+Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the website. We may use your personal information for the following:
 
-From time to time Truthdig will conduct voluntary surveys of website visitors to obtain aggregate demographic information about them. This information may be compiled and shared in the aggregate with third parties, but no personal details will be traceable or associated with specific individuals.
+  1. administering our website and business;
+  2. personalizing our website for you;
+  3. enabling your use of the services available on our website;
+  4. sending you goods purchased through our website;
+  5. supplying services purchased through our website;
+  6. sending statements, invoices, and payment reminders to you, and collecting payments from you;
+  7. sending you non-marketing commercial communications;
+  8. sending you email notifications that you have specifically requested;
+  9. sending you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter);
+  10. sending you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications);
+  11. providing third parties with statistical information about our users (but those third parties will not be able to identify any individual user from that information);
+  12. dealing with inquiries and complaints made by or about you relating to our website;
+  13. keeping our website secure and prevent fraud;
+  14. verifying compliance with the terms and conditions governing the use of our website (including monitoring private messages sent through our website private messaging service); and
+  15. other uses.
 
-### Linking to Other Sites
 
-The website may contain links to web sites operated and maintained by third parties, over which we have no control. Privacy policies on such linked sites may be different from our privacy policy. You access such linked sites at your own risk. You should always read the privacy policy of a linked site before disclosing any personal information on such websites.
 
-### Children’s Guidelines
+If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
-Protecting the rights of children is important to us. As a result, we do not collect or maintain any information from individuals we know to be under 13 years old, and no part of the website is intended to attract anyone under 13 years old.
+Your privacy settings can be used to limit the publication of your information on our website and can be adjusted using privacy controls on the website.
 
-### Unsubscribe, Data Removal and Data Modification Policies
+We will not, without your express consent, supply your personal information to any third party for their or any other third party’s direct marketing. ** **
 
-Truthdig allows users to opt-out of receiving communications from us and to modify or remove their information from our system. The following options are available to do so:
+### **5\. Disclosing personal information**
 
-Send email to [webmaster@truthdig.com](mailto:webmaster@truthdig.com)
+We may disclose your personal information to any of our employees, officers, insurers, professional advisers, agents, suppliers, or subcontractors as reasonably necessary for the purposes set out in this policy.
 
-Send mail to:
+We may disclose your personal information to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) as reasonably necessary for the purposes set out in this policy.
 
-1158 26th Street, #443
+We may disclose your personal information:
 
-Santa Monica, CA 90403-4698
+  1. to the extent that we are required to do so by law;
+  2. in connection with any ongoing or prospective legal proceedings;
+  3. in order to establish, exercise, or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
+  4. to the purchaser (or prospective purchaser) of any business or asset that we are (or are contemplating) selling; and
+  5. to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
 
-### Other Disclosure of Personal Information
 
-Truthdig will not use or disclose your personal information without your consent, except (i) as described in this Privacy Policy or (ii) as required by law, court order or as requested by other government or law enforcement authority. This Privacy Policy does not protect information you post to any online bulletin board or other public forum within the Web Site.
 
-### Contacting Truthdig
+Except as provided in this policy, we will not provide your personal information to third parties.
 
-If you have any questions about this Privacy Policy, the practices of the website or your dealings with the website, you can contact:
+### **6\. International data transfers**
 
-[info@truthdig.com](mailto:info@truthdig.com)
+  1. Information that we collect may be stored, processed in, and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this policy.
+  2. Information that we collect may be transferred to the following countries which do not have data protection laws equivalent to those in force in the European Economic Area: the United States of America, Russia, Japan, China, and India.
+  3. Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We cannot prevent the use or misuse of such information by others.
+  4. You expressly agree to the transfers of personal information described in this Section 6.
 
-### Comment Policy
 
-We specifically reserve the right to delete any comment which in the opinion of our editorial staff violates any of the above standards or otherwise violates normal standards of good taste or proper decorum, or fails to contribute in any meaningful way to furthering the discussion or topic.
 
-Truthdig will not tolerate:
+### **7\. Retaining personal information**
 
-* personal attacks on our writers or readers
+  1. This Section 7 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations regarding the retention and deletion of personal information.
+  2. Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+  3. Without prejudice to article 7.b., we will usually delete personal data falling within the categories set out below at the date/time set out below: 
+    1. personal data type will only be deleted at Truthdig’s discretion.  If you wish to have your personal data deleted, please [click here](https://www.truthdig.com/deleting-your-personal-data/) to contact the company.
+  4. Notwithstanding the other provisions of this Section 7, we will retain documents (including electronic documents) containing personal data: 
+    1. to the extent that we are required to do so by law;
+    2. if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; or
+    3. in order to establish, exercise, or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk).
 
-* excessive profanity
 
-* racist, sexist or other discriminatory or hateful language
 
-* statements that may be construed as urging attacks on political leaders, officials, security forces or civilians—American or otherwise
+### **8\. Security of your personal information**
 
-* comments that are off-topic or irrelevant to the story or discussion at hand
+  1. We will take reasonable technical and organizational precautions to prevent the loss, misuse, or alteration of your personal information.
+  2. We will store all the personal information you provide on our secure (password- and firewall-protected) servers.
+  3. All electronic financial transactions entered into through our website will be protected by encryption technology.
+  4. You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
+  5. You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password (except when you log in to our website).
 
-* comments disclosing personal information about Truthdig writers or fellow commenters
 
-### Policy Changes
 
-Truthdig reserves the right to amend this Privacy Policy at any time without notice, and only the current Privacy Policy may be deemed effective. If we decide to change our Privacy Policy in whole or in part, we will inform you by posting a notice on the website. Those changes will go into effect on the date posted in the notice. The new Privacy Policy will apply to all current and past users of the website and will replace any prior policies that are inconsistent.
+### **9\. Amendments**
+
+We may update this policy from time to time by publishing a new version on our website. You should check this page occasionally to ensure you understand any changes to this policy. We may notify you of changes to this policy by email or through the private messaging system on our website.
+
+### **10\. Your rights**
+
+You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to the following:
+
+  1. the supply of evidence of your identity satisfactory to Truthdig.
+
+
+
+We may withhold personal information that you request to the extent permitted by law.
+
+You may instruct us at any time not to process your personal information for marketing purposes.
+
+In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you with an opportunity to opt out of the use of your personal information for marketing purposes.
+
+### **11\. Third party websites**
+
+Our website includes hyperlinks to, and details of, third party websites. We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+
+### **12\. Updating information**
+
+Please let us know if the personal information that we hold about you needs to be corrected or updated.
+
+### **13\. Cookies**
+
+Our website uses cookies. A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed. Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies. We use both session and persistent cookies on our website. [Click here](https://www.truthdig.com/cookie-consent/) to adjust your cookie consent preferences.
+
+  1. The names of the cookies that we use on our website, and the purposes for which they are used, are set out below: 
+    1. GOOGLE. We use Google Analytics and Adwords on our website.
+    2. ESSENTIAL cookies are used to store information or preferences for the individual user, for things like logged-in status, commenting, etc. These cookies are necessary to make full use of the Truthdig site.
+    3. PERFORMANCE cookies are used to collect information the visitor’s activity on the site. This can include browsing history and errors. In most cases, these are third-party cookies that — even if they collect some personally identifiable information (PII), — is aggregated or obfuscated for Truthdig. Typically, these cookies improve the performance and experience of using the website.
+    4. ANALYTICS cookies collect usage information and other visitor statistics in order to improve their functionality and performance. The data is used for aggregate statistical purposes, so that Truthdig can better understand how the site is used, and who (generally speaking) is using it. No PII is stored.
+    5. ADVERTISING cookies are set by advertisers and advertising services that Truthdig uses. These cookies are used to collect browsing information about the user; to track what ads are shown to a user; to track clicks on ads, and so on. Turning these off may decrease the usefulness of ads to the visitor, but will not affect the site performance.
+    6. THIRD-PARTY COOKIES may be set by services the site uses or connects to. Turning these off will typically not impact the experience of the site much.
+  2. Some third-party services provide ways for user to opt out. Please visit the website of the third-party to obtain information on your consent options.
+  3. Most browsers allow you to refuse to accept cookies—for example: 
+    1. in Internet Explorer (version 10) you can block cookies using the cookie handling override settings available by clicking “Tools,” “Internet Options,” “Privacy,” and then “Advanced”;
+    2. in Firefox (version 24) you can block all cookies by clicking “Tools,” “Options,” “Privacy,” selecting “Use custom settings for history” from the drop-down menu, and unticking “Accept cookies from sites”; and
+    3. in Chrome (version 29), you can block all cookies by accessing the “Customize and control” menu, and clicking “Settings,” “Show advanced settings,” and “Content settings,” and then selecting “Block sites from setting any data” under the “Cookies” heading.
+    4. Blocking all cookies will have a negative impact upon the usability of many websites. If you block cookies, you will not be able to use all the features on our website.
+  4. You can delete cookies already stored on your computer—for example: 
+    1. in Internet Explorer (version 10), you must manually delete cookie files (you can find instructions for doing so at <http://support.microsoft.com/kb/278835> );
+    2. in Firefox (version 24), you can delete cookies by clicking “Tools,” “Options,” and “Privacy”, then selecting “Use custom settings for history”, clicking “Show Cookies,” and then clicking “Remove All Cookies”; and
+    3. in Chrome (version 29), you can delete all cookies by accessing the “Customize and control” menu, and clicking “Settings,” “Show advanced settings,” and “Clear browsing data,” and then selecting “Delete cookies and other site and plug-in data” before clicking “Clear browsing data.”
+  5. Deleting cookies will have a negative impact on the usability of many websites.
+
+
