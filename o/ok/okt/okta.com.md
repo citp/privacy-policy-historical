@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the okta.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513014652id_/https%3A//www.okta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the okta.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104170443id_/https%3A//www.okta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Okta
 
-### Effective Date: May 25, 2018
+### Effective Date: May 13, 2019
 
 Okta, Inc., including its wholly-owned subsidiaries (collectively, "Us," "We," "Our," "Okta," or the "Company") is committed to protecting the privacy of individuals who visit the Company’s Web sites (“Visitor(s),” “You,” and derived adjective “Your”), individuals who register to use the Service as defined below (“Customers”), and individuals who register who attend the Company’s corporate events (“Attendees”). This Privacy Statement describes Okta's privacy practices with regards to its Web sites and the related services and applications offered for production use by Okta to its customers that purchase commercial subscriptions (collectively, the “Service”).
 
 If You have questions or complaints regarding Okta’s Privacy Statement or practices, please contact Us at [info@okta.com](mailto:info@okta.com).
-
-Okta complies with the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. 
 
 Okta has established this Privacy Statement to help You to understand how Okta collects and uses personally identifiable information. This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including, but not limited to [http://www.okta.com](http://www.okta.com/), [http://www.identityis.com](http://www.identityis.com/), and [http://www.oauth.com](http://www.oauth.com/).
 
@@ -430,14 +428,14 @@ Okta’s Web sites includes social media features, such as the Facebook and Twit
 
 Okta will retain Personal Information it processes on behalf of Visitors for as long as needed to provide Web site services to Visitors.  Okta will retain and use this Personal Information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.
 
-Customers may update their Personal Information by editing their users’ information in the Service. If you're a Visitor and Your Personal Information changes, or if You no longer desire to receive information about Okta’s Service, You may have Your Personal Information updated or removed from Okta’s records by emailing [accounts@okta.com](https://web.archive.org/web/20190513014652id_/https://www.okta.com/privacy-policy/accounts@okta.com) or by contacting Us by telephone or postal mail at the contact information listed below.
+Customers may update their Personal Information by editing their users’ information in the Service. If you're a Visitor and Your Personal Information changes, or if You no longer desire to receive information about Okta’s Service, You may have Your Personal Information updated or removed from Okta’s records by emailing [accounts@okta.com](https://web.archive.org/web/20191104170443id_/https://www.okta.com/privacy-policy/accounts@okta.com) or by contacting Us by telephone or postal mail at the contact information listed below.
 
 We will respond to your request within 30 days.
 
   * You can always opt not to disclose information, even though it may be needed to take advantage of or register for certain features of the Service or other content made available via the Web sites.
 
-  * You may request deletion of Your Okta account by sending an e-mail to [accounts@okta.com](https://web.archive.org/web/20190513014652id_/https://www.okta.com/privacy-policy/accounts@okta.com).
-  * If You do not wish to receive email or other mail from Us, please indicate this preference during the registration process, by changing Your account settings, following the unsubscribe mechanism within the message or by notifying Us at [accounts@okta.com](https://web.archive.org/web/20190513014652id_/https://www.okta.com/privacy-policy/accounts@okta.com). Please note that if You do not want to receive legal notices from Us, such as this Privacy Statement, those legal notices will still govern Your use of the Web sites, and You are responsible for reviewing such legal notices for changes.
+  * You may request deletion of Your Okta account by sending an e-mail to [accounts@okta.com](https://web.archive.org/web/20191104170443id_/https://www.okta.com/privacy-policy/accounts@okta.com).
+  * If You do not wish to receive email or other mail from Us, please indicate this preference during the registration process, by changing Your account settings, following the unsubscribe mechanism within the message or by notifying Us at [accounts@okta.com](https://web.archive.org/web/20191104170443id_/https://www.okta.com/privacy-policy/accounts@okta.com). Please note that if You do not want to receive legal notices from Us, such as this Privacy Statement, those legal notices will still govern Your use of the Web sites, and You are responsible for reviewing such legal notices for changes.
 
 
 
