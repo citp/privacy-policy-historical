@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditsavvy.com.au privacy policy that was archived on 2018-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180510070954id_/https%3A//www.creditsavvy.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditsavvy.com.au privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104015437id_/https%3A//www.creditsavvy.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Credit Savvy - Privacy Policy
 
@@ -8,7 +8,7 @@ At Credit Savvy Australia (“Credit Savvy”, “We”, “Us” and “Our”)
 
 You can be confident that We comply with the Privacy Act 1988 (Cth) (“Privacy Act”) and the Australian Privacy Principles for the protection and use of personal information. This Credit Savvy Privacy Policy (“Privacy Policy”) outlines how We can collect, use, hold and disclose Your personal information.
 
-Please read through this Privacy Policy carefully prior to accessing or using the Site. Your access or use of the Site indicates that You agree to abide by, and be bound by, this Privacy Policy and any other related policies, notices, representations or additional terms applicable to the Site, including the [Credit Savvy Terms of Use](https://web.archive.org/web/20180510070954id_/https%3A//www.creditsavvy.com.au/terms-of-use). The personal information We seek to collect about You is necessary for the service We provide. If You do not allow Us to collect all of the information We require, We may not be able to deliver Our service to You.
+Please read through this Privacy Policy carefully prior to accessing or using the Site. Your access or use of the Site indicates that You agree to abide by, and be bound by, this Privacy Policy and any other related policies, notices, representations or additional terms applicable to the Site, including the [Credit Savvy Terms of Use](https://web.archive.org/web/20191104015437id_/https%3A//www.creditsavvy.com.au/terms-of-use). The personal information We seek to collect about You is necessary for the service We provide. If You do not allow Us to collect all of the information We require, We may not be able to deliver Our service to You.
 
 ### What kind of personal information do We collect?
 
@@ -16,7 +16,7 @@ If You are a visitor on the Site, We will not store any personal information You
 
 If You register as a member with Us, We will collect personal information directly from You. This will include identification information such as Your full name, address, contact details, date of birth, drivers licence and passport details.
 
-Throughout Your membership with Us, We may collect credit reporting information about You. Details of the type of credit information We receive from Experian Australia Credit Services Pty Ltd ABN 12 150 305 838 (“Experian”) is outlined in detail in the [Credit Savvy Terms of Use](https://web.archive.org/web/20180510070954id_/https%3A//www.creditsavvy.com.au/terms-of-use).
+Throughout Your membership with Us, We may collect credit reporting information about You. Details of the type of credit information We receive from Experian Australia Credit Services Pty Ltd ABN 12 150 305 838 (“Experian”) is outlined in detail in the [Credit Savvy Terms of Use](https://web.archive.org/web/20191104015437id_/https%3A//www.creditsavvy.com.au/terms-of-use).
 
 We may from time to time receive and store certain automatic non-identifiable information relating to Your use of, and behaviour on the Site. This information is commonly referred to as “clickstream” information. For example, We may record information such as the areas of the Site accessed by You, the time, date and URL of the pages requested by You, Your browser software, Your IP address, and/or the previous website that You have linked to the Site from. The recording of such information enables Us to identify the areas of Our Site that are most popular and to tailor the Site accordingly.
 
