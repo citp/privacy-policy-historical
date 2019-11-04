@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotclassic.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620121207id_/http%3A//legal.na.wargaming.net/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotclassic.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104093843id_/http%3A//legal.na.wargaming.net/privacy-policy) for the most accurate reproduction.*
 
 # Legal Documentation | Wargaming.net
 
@@ -230,6 +230,7 @@ For the performance of a contract with you, compliance with a legal obligation t
   15. **Public authorities and auditors:** some personal data shall be disclosed to public authorities, e.g., tax and customs authorities, auditors, and other competent parties, in accordance with Union or Member State law; 
   16. **Wargaming subsidiaries and affiliates:** as a global company, we collect information that may be processed in our offices worldwide. Your information may also be processed outside of the European Economic Area, e.g. in the United States, the Republic of Belarus, or any other country in which we, our affiliates or subsidiaries maintain presence. 
   17. **Change of control:** we may share your data as part of our company’s sale, merger or change in control, or in preparation for any of these events. Any entity which buys us, or part of our business will have the right to continue using your data, but only in the manner set out in this Privacy Policy unless you are specifically informed otherwise. 
+  18. **Third-party game developers:** We also publish on our platform (Wargaming Game Center) games developed solely by third party developers. When you choose to play such games, we share your data with the third-party game developer, such as your Wargaming ID, nickname, in-game purchases, in-game bans of our Games, language preference of Wargaming Game Center. In such case we and the third-party game developer act as independent data controllers. 
 
 
 
@@ -239,7 +240,7 @@ When your personal data is shared with Wargaming affiliates and subsidiaries, as
 
 **7\. YOUR RIGHTS**
 
-To allow you to exercise your data protection rights in a simple way we have improved the Account Management tools available [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/). If you are using a demo account, you will only be able to fully control our use of your data after you create the Account [here](http://wargaming.net/) or – for Console Games – [here](https://console.worldoftanks.com/). This means that if you are using a demo version of the Account, you will only be able to fully control our use of your data after you complete the Account here. Please visit it to make choices about which direct communications you would like to receive, as well as to exercise your rights to data access, data erasure and objection to data processing.
+To allow you to exercise your data protection rights in a simple way we have improved the Account Management tools available [here](https://wargaming.net/personal/) and – for Console Games – [here](https://console.worldoftanks.com/accounts/management/). If you are using a demo account, you will only be able to fully control our use of your data after you create the Account [here](http://wargaming.net/) or – for Console Games – [here](https://console.worldoftanks.com/). This means that if you are using a demo version of the Account, you will only be able to fully control our use of your data after you complete the Account here. Please visit it to make choices about which direct communications you would like to receive, as well as to exercise your rights to data access, data erasure and objection to data processing. In some cases, for games developed solely by third parties and published by Wargaming on Wargaming Game Center (see paragraph 6(18) above), you can exercise your rights directly from the third-party developer. You may contact us to assist you on how you can exercise your rights for games developed solely by third parties.
 
 **7.1. OPT-OUT OF DIRECT MARKETING AND RIGHT TO OBJECT**
 
