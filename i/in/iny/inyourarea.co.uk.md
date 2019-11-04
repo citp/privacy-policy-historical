@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inyourarea.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331190325id_/https%3A//www.inyourarea.co.uk/news/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inyourarea.co.uk privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104102429id_/https%3A//www.inyourarea.co.uk/news/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice |
 
@@ -6,7 +6,7 @@
 
 We are the publishing group Reach plc.  
 
-In this Privacy Notice, when we refer to any of our Sites we mean any website or app, including e-editions, published by our various subsidiary companies and brands, listed [here](https://reachplc.com/brands) ("Reach Group" or "we"), regardless of how you access it.
+In this Privacy Notice, when we refer to any of our Sites we mean any website or app, including e-editions, published by our various subsidiary companies and brands, listed [here](https://www.reachplc.com/our-newsbrands) ("Reach Group" or "we"), regardless of how you access it.
 
 **ABOUT THIS PRIVACY NOTICE**
 
