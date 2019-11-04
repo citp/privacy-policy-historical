@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erail.in privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623220255id_/https%3A//erail.in/info/erail-in-privacy/2404) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erail.in privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104233734id_/https%3A//erail.in/info/erail-in-privacy/2404) for the most accurate reproduction.*
 
 # Privacy
 
