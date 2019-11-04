@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inquirer.net privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630144126id_/https%3A//services.inquirer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inquirer.net privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104092932id_/https%3A//services.inquirer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - INQUIRER.net Services | INQUIRER.net Services
 
@@ -6,7 +6,7 @@
 
 This privacy statement discloses the privacy practices of [www.inquirer.net](http://www.inquirer.net/). It is our continuing goal to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information and user privacy practices.
 
-By using this website, you consent to the data practices described in this privacy statement. If you feel that we are not abiding by our posted privacy statement, please send us an email at [feedback@inquirer.net](mailto:feedback@inquirer.net)
+By using this website, you consent to the data practices described in this privacy statement. If you feel that we are not abiding by our posted privacy statement, please send us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6c0a0909080e0d0f072c05021d19051e091e42020918)
 
 **Collection of Personal Information**
 
@@ -38,7 +38,7 @@ Some of our business partners use cookies on our website. For the complete list 
 ****  
 ** We have established security measures to protect your personal information from unauthorized access, use or disclosure. We secure the personally identifiable information you provide on secured computer servers protected from unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination.   
   
-If you have provided us your personal information, you have the right to ask for a copy of any personal information we hold about you, as well as to ask for it to be corrected if you think it is wrong. To do so, please contact [feedback@inquirer.net](mailto:feedback@inquirer.net).
+If you have provided us your personal information, you have the right to ask for a copy of any personal information we hold about you, as well as to ask for it to be corrected if you think it is wrong. To do so, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3f595a5a5b5d5e5c547f56514e4a564d5a4d11515a4b).
 
 This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every website that collects personally identifiable information.
 
@@ -48,6 +48,6 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 **Exponential Interactive Privacy Statement**
 
-Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time via . For more details including access requests and complaints, review their privacy policy or contact their data protection officer via privacy@exponential.com
+Subject to your consent, Exponential Interactive, Inc collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. You may change your consent decision at any time via . For more details including access requests and complaints, review their privacy policy or contact their data protection officer via [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 Don’t miss out on the latest news and information. Follow us: [](https://www.facebook.com/inquirerdotnet) [](https://twitter.com/inquirerdotnet)
