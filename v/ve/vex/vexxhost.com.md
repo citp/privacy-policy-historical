@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the vexxhost.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510210759id_/https%3A//vexxhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vexxhost.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104145838id_/https%3A//vexxhost.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy - VEXXHOST
+
+Skip to content
+
+Privacy & Policy[Hind Naser](https://vexxhost.com/blog/author/hnaser/ "Posts by Hind Naser")2017-08-17T17:48:32+00:00
+
+Because VEXXHOST, Inc. takes privacy very seriously and wants to protect all of your rights, we have established the following Privacy Policy. Please make sure you understand our policy regarding this matter and feel free to contact us if you have any questions regarding this document.
 
 #### **Personal Information Usage**
 
