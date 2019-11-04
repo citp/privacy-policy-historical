@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providr.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619202731id_/https%3A//www.providr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providr.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104091316id_/https%3A//www.providr.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Providr.com
 
@@ -122,4 +122,4 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 and we will promptly remove you from ALL correspondence.
 
-If there are any questions regarding this privacy policy you may contact us at [[email protected]](https://www.providr.com/cdn-cgi/l/email-protection#e48d8a828ba494968b928d8096ca878b89).
+If there are any questions regarding this privacy policy you may contact us at [[email protected]](https://www.providr.com/cdn-cgi/l/email-protection#1b72757d745b6b69746d727f6935787476).
