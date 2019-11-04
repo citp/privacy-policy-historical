@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bet9ja.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408030231id_/https%3A//web.bet9ja.com/pages/SportFooter_Privacy/guest) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bet9ja.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104091000id_/https%3A//web.bet9ja.com/pages/SportFooter_Privacy/guest) for the most accurate reproduction.*
 
 # Bet9ja Nigeria Sport Betting,Premier League Odds,Casino,Bet
 
