@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slalom.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509181439id_/https%3A//www.slalom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slalom.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104224118id_/https%3A//www.slalom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Slalom
 
