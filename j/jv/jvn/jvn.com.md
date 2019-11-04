@@ -1,45 +1,41 @@
-> *The following text is extracted and transformed from the jvn.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531165920id_/https%3A//www.jvn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvn.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104054614id_/https%3A//www.jvn.com/jvn-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for JVN
 
-﻿
+At JVN, accessible from https://www.jvn.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by JVN and how we use it.
 
- **Dear valued JVN customer,** We love to engage our customers and get them involved in the brand in various ways. We solicit comments about our dresses, host contests and generally love hearing about your experiences in your beautiful JVN gowns. Your privacy is important to us, and protection of the information you provide is a top priority for us. We share your desire to keep your personally identifying information confidential and to prevent unwanted solicitation. We encourage you to read our privacy policy below so you have a better understanding of how we safe-guard your personal information: 
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [[email protected]](https://www.jvn.com/cdn-cgi/l/email-protection)
 
-  * • **How we collect your information**
-  * i. JVN may collect information from our customers via several platforms, including through: our website at www.jvn.com, Facebook, Twitter, Blogger, Tumblr, YouTube, Google+, Linked In, Wordpress, Pinterest, fan letters and emails we receive.
-  * ii. When engaging our customers through these platforms, as appropriate, you may be asked: to register in order to receive information from us, to leave a comment, to enter your contact information for a contest, or to upload a picture. 
+## Log Files
 
+JVN follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
 
-  * **• What is collected**
-  * i. You may be asked to enter your name, age, e-mail address, mailing address, phone number, school name, school year, to upload pictures, or enter other identifying information such as your username on a social network. Note, providing us with such information is optional. 
-  * **• How we use your information**
-  * i. To personalize your experience, such as directing you to a particular dress you may be interested in.
-  * ii. To improve our website based on feedback from you (your information helps us more effectively respond to your needs).
-  * iii. To improve on our dresses based on feedback from you.
-  * iv. To send periodic emails or newsletters that may include company news and updates. You should note that you may opt-out from receiving such communication at any time.
-  * v. We may display the comments you leave via the platforms discussed above, including quoting them on our website.
-  * vi. We may display the pictures you send us.
-  * vii. We may contact you about your experience in your JVN dress.
-  * viii. For information provided to us for a contest, we may use your information in selecting the winners of such contest as provided for by the rules of the contest. We also use the information provided to communicate with winners, which may also be displayed on our website.  
+## Cookies and Web Beacons
 
+Like any other website, JVN uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
 
+## Privacy Policies
 
-  * • **How we protect your information**
-  * i. We keep the non-public information you provide to us confidential. If any identifying information you provide us will be made public, such as the names of contest winners, then you will be on notice when providing us with that information, such as in the contest rules.
-  * ii. We store your information in secure company computers and files, or the secure computers and files of trusted third parties as detailed below.   
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on JVN, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
+Note that JVN has no access to or control over these cookies that are used by third-party advertisers.
 
+## Third Pary Privacy Policies
 
-  * **• Third parties**
-  * i. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This however does not include trusted third parties who assist us in operating our website, conducting our business, administering contests, or servicing you at our request, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies or protect ours or others’ rights, property and safety.
-  * ii. For the purposes of our privacy policy, employees of JVN are not considered third parties and may have direct access to your information. They are however under the same obligations outlined here, and must keep your information confidential as laid out in this policy.
+JVN's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
 
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
 
-  * **• Children’s Online Privacy Protection Act**
-  * i. Our website is directed to people who are at least 13 years or older, and we do not anticipate that children under the age of 13 will provide personally identifiable information through our website. If we learn that we have information about a child under the age of 13, we will delete it. 
-  * • Like most websites, information about your computer, such as your IP address, may automatically be collected, which may track your visits to our website. This information is used to maintain quality of service, and to provide general statistics regarding use of and visits to our website. We do not make public such information, which are for internal use only. 
-  * • By using our site, you consent to our privacy policy.
-  * • If you have any questions regarding our privacy policy, you may contact us at [ConsumerProtection@JVN.com](mailto:ConsumerProtection@JVN.com)This email address is being protected from spambots. You need JavaScript enabled to view it. 
+## Children's Information
 
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
 
+JVN does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+## Online Privacy Policy Only
+
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in JVN. This policy is not applicable to any information collected offline or via channels other than this website.
+
+## Consent
+
+By using our website, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
