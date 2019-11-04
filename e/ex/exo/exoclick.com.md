@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621122902id_/https%3A//www.exoclick.com/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104112638id_/https%3A//www.exoclick.com/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# ExoClick Privacy & Cookies Policy - ExoClick
+# Privacy & Cookies Policy - ExoClick
 
 In compliance with current regulations on the protection of personal data you are informed of the following aspects.
 
