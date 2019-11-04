@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geo-fs.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516204339id_/https%3A//www.geo-fs.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geo-fs.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105000212id_/https%3A//www.geo-fs.com/pages/privacy.php) for the most accurate reproduction.*
 
 # GeoFS - Privacy Policy
 
