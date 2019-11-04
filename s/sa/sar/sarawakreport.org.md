@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sarawakreport.org privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526033803id_/http%3A//www.sarawakreport.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarawakreport.org privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104070027id_/http%3A//www.sarawakreport.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sarawak Report
-
-Investigating the deforestation of Sarawak, Borneo, and the dispossession of its people, journalist Clare Rewcastle Brown followed a trail of corruption that led her to the heart of Malaysian politics and to Prime Minister Najib Razak himself. Determined that the public should know the truth, she started a blog, which became Malaysia's go-to news outlet for information that the government was trying to suppress – and whistleblowers wanted to get out. She was soon running a radio station too...
 
 This privacy policy relates to the website located at [http://sarawakreport.org](http://sarawakreport.org/) (the “Website”).  It explains how We use Your Personal Information (as defined below).
 
@@ -67,4 +65,4 @@ This privacy policy is subject to change, so please check it regularly.  We ret
 
 If You have any comments or queries in connection with this privacy policy, please contact Us by one of the following methods:
 
-Email: [info@sarawakreport.org](https://web.archive.org/web/20190526033803id_/http://www.sarawakreport.org/privacy-policy/info@sarawakreport.org)
+Email: [info@sarawakreport.org](https://web.archive.org/web/20191104070027id_/http://www.sarawakreport.org/privacy-policy/info@sarawakreport.org)
