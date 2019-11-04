@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornmd.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620154209id_/https%3A//www.pornmd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornmd.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104095315id_/https%3A//www.pornmd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PornMD
 
