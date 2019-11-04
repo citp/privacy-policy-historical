@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makeblock.com privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202194739id_/https%3A//makeblock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeblock.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104120326id_/https%3A//www.makeblock.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Makeblock - Global STEAM Education Solution Provider
 
@@ -14,7 +14,7 @@ Our Privacy Policy explains:
 
 
 
-We have tried to keep the wording of Privacy Policy as simple as possible. Please also visit our Terms and Conditions at http://www.makeblock.com/general-terms-conditions/ establishing the use, disclaimers, and limitations of liability governing the use of the Site.
+We have tried to keep the wording of Privacy Policy as simple as possible. Please also visit our Terms and Conditions at https://www.makeblock.com/general-terms-conditions/ establishing the use, disclaimers, and limitations of liability governing the use of the Site.
 
 This Privacy Policy applies to all of the services offered by Makeblock but excludes any external services that have separate privacy policies that do not incorporate this Privacy Policy. Our Privacy Policy also does not apply to other companies or organizations that advertise our products or services and that may use cookies and other technologies to serve and offer relevant ads.
 
@@ -237,4 +237,4 @@ Copyright 2018 Makeblock Co., Ltd. All rights reserved.
 
 Updated on 2018/03/29
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at http://www.makeblock.com/about-us/contact/
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at https://www.makeblock.com/about-us/contact/
