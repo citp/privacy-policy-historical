@@ -1,96 +1,8 @@
-> *The following text is extracted and transformed from the f45training.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602221309id_/https%3A//f45training.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f45training.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104093218id_/https%3A//f45training.com/privacy) for the most accurate reproduction.*
 
-# Privacy - F45 Training - Team Training, Life Changing
+# Privacy | F45 Training
 
-In this Privacy Policy, 'us' 'we' or 'our' means F45 Training Pty Ltd, its affiliates, and member studios. We are committed to respecting your privacy. Our Privacy Policy sets outs out how we collect, use, store and disclose your personal information.
-
-F45 Training is a franchised business and all member studios are independently owned and operated. To the extent that a member studio processes personal data in ways that are not described below, that member studio is individually responsible for informing you about this.
-
-Please read this Privacy Policy carefully. We may change our Privacy Policy from time to time by publishing changes to it on our website. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy. We will notify you of any modifications to this Privacy Policy that might materially affect the way we use or disclose your personal information prior to the change becoming effective.
-
-Personal information includes information or an opinion about an individual that is reasonably identifiable. For example, this may include your name, age, gender, postcode and contact details. It may also include financial information, including your credit card information.
-
-If you are visiting this site from the European Economic Area (“EEA”), see below under heading “Users from the European Union and Switzerland”.
-
-#### What personal information do we collect?
-
-We may collect the following types of personal information: 
-
-  * Name;
-  * mailing or street address;
-  * email address;
-  * telephone number and other contact details;
-  * age or date of birth;
-  * credit card information;
-  * your device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information; 
-  * with your consent, limited health information (such as the information measured by your F45 LionHeart heart rate monitor, if you have registered one); 
-  * details of the products and services we have provided to you or that you have enquired about, including any additional information necessary to deliver those products and services and respond to your enquiries; 
-  * any additional information relating to you that you provide to us directly through our website or app or indirectly through your use of our website or app or online presence or through other websites or accounts from which you permit us to collect information; 
-  * information you provide to us through customer surveys; or
-  * any other personal information that may be required in order to facilitate your dealings with us. 
-
-
-
-We may collect these types of personal information either directly from you, or from third parties. We may collect this information when you: 
-
-  * register on our website or app;
-  * communicate with us through correspondence, chats, email, or when you share information with us from other social applications, services or websites; 
-  * interact with our sites, services, content and advertising; or
-  * invest in our business or enquire as to a potential purchase in our business. 
-
-
-
-In addition, when you apply for a job or position with us we may collect certain information from you (including your name, contact details, working history and relevant records checks) from any recruitment consultant, your previous employers and others who may be able to provide information to us to assist in our decision on whether or not to make you an offer of employment or engage you under a contract. This Privacy Policy does not apply to acts and practices in relation to employee records of our current and former employees, which are exempt from the Privacy Act in Australia.
-
-#### Why do we collect, use and disclose personal information?
-
-We may collect, hold, use and disclose your personal information for the following purposes: 
-
-  * to enable you to access and use our services and app (whether that means becoming a member at one of our studios, booking a class, joining the F45 Challenge, or using your F45 LionHeart heart rate monitor); 
-  * to operate, protect, improve and optimise our services and app, business and our users’ experience, such as to perform analytics, conduct research and for advertising and marketing; 
-  * to send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you; 
-  * to send you marketing and promotional messages and other information that may be of interest to you, including information sent by, or on behalf of, our business partners that we think you may find interesting; 
-  * to administer rewards, surveys, contests, or other promotional activities or events sponsored or managed by us or our business partners; 
-  * to comply with our legal obligations, resolve any disputes that we may have with any of our users, and enforce our agreements with third parties; and 
-  * to consider your employment application.
-
-
-
-We may also disclose your personal information to a trusted third party who also holds other information about you. This third party may combine that information in order to enable it and us to develop anonymised consumer insights so that we can better understand your preferences and interests, personalise your experience and enhance the products and services that you receive.
-
-#### Do we use your personal information for direct marketing?
-
-With your consent where required by law, we and/or our carefully selected business partners may send you direct marketing communications and information about our services and products. This may take the form of emails, SMS, mail or other forms of communication, in accordance with the Spam Act and the Privacy Act, or relevant law in your jurisdiction. You may opt-out of receiving marketing materials from us by contacting us using the details set out below or by using the opt-out facilities provided (eg an unsubscribe link).
-
-#### To whom do we disclose your personal information?
-
-We may disclose personal information for the purposes described in this privacy policy to: 
-
-  * our employees and related bodies corporate;
-  * third party suppliers and service providers (including providers for the operation of our websites and/or our business or in connection with providing our products and services to you); 
-  * professional advisers, dealers and agents;
-  * payment systems operators (eg merchants receiving card payments); 
-  * our existing or potential agents, business partners or partners; 
-  * our sponsors or promoters of any competition that we conduct via our services; 
-  * anyone to whom our assets or businesses (or any part of them) are transferred; 
-  * specific third parties authorised by you to receive information held by us; and/or 
-  * other persons, including government agencies, regulatory bodies and law enforcement agencies, or as required, authorised or permitted by law. 
-
-
-
-#### Disclosure of personal information outside Australia
-
-We may disclose personal information outside of Australia to F45 Australia Pty Ltd, their affiliates and related body corporates and cloud service providers.
-
-When you provide your personal information to us, you consent to the disclosure of your information outside of Australia and acknowledge that we are not required to ensure that overseas recipients handle that personal information in compliance with Australian Privacy Law. We will, however, take reasonable steps to ensure that any overseas recipient will deal with such personal information in a way that is consistent with the Australian Privacy Principles.
-
-#### Using our app and cookies
-
-We may collect personal information about you when you use and access our app.
-
-While we do not use browsing information to identify you personally, we may record certain information about your use of our website, such as which pages you visit, the time and date of your visit and the internet protocol address assigned to your computer.
-
-We may also use 'cookies' or other similar tracking technologies on our website that help us track your website usage and remember your preferences. Cookies are small files that store information on your computer, TV, mobile phone or other device. They enable the entity that put the cookie on your device to recognise you across different websites, services, devices and/or browsing sessions. You can disable cookies through your internet browser but our websites may not work as intended for you if you do so.
+## PRIVACY POLICY
 
 We may also use cookies to enable us to collect data that may include personal information. For example, where a cookie is linked to your account, it will be considered personal information under the Privacy Act. We will handle any personal information collected by cookies in the same way that we handle all other personal information as described in this Privacy Policy.
 
@@ -140,4 +52,4 @@ If you are aware of changes or inaccuracies in your information, you should info
 
 #### Contact Us
 
-For further information about our Privacy Policy or practices, or to exercise control over your personal information, or make a complaint, please contact us via support@f45training.com, or contact your local studio. If you have questions about how your local studio processes your information in particular, contact your local studio (your studio’s contact information can be found using the “Find a Studio” link on https://f45training.com).
+For further information about our Privacy Policy or practices, or to exercise control over your personal information, or make a complaint, please contact us via , or contact your local studio. If you have questions about how your local studio processes your information in particular, contact your local studio (your studio’s contact information can be found using the “Find a Studio” link on https://f45training.com).
