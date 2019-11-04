@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soundtrack.net privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327010026id_/https%3A//www.soundtrack.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundtrack.net privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104160023id_/https%3A//www.soundtrack.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Soundtraack.net Privacy Policy
+# Soundtrack.Net Privacy Policy
 
 **This privacy statement applies to the website of:**  
 Soundtrack.Net / Autotelics, LLC ([mail@soundtrack.net](mailto:mail@soundtrack.net)) 
