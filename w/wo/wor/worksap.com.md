@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worksap.com privacy policy that was archived on 2018-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180505042915id_/http%3A//www.worksap.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksap.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104044328id_/https%3A//www.worksap.com/website-privacy-policy) for the most accurate reproduction.*
 
-# WEBSITE PRIVACY POLICY | WORKS APPLICATIONS
+# WEBSITE PRIVACY POLICY | Works Applications
 
 ## Purpose of use of personal information
 
@@ -169,4 +169,4 @@ This Policy will be effective from February 19, 2015.
 
 
 
-This site uses cookies for comfortable viewing and improving user experience. By continuing to browse the site, you are agreeing to our use of cookies. [ Display cookie policy ](http://www.worksap.com/website-privacy-policy/)
+This site uses cookies for comfortable viewing and improving user experience. By continuing to browse the site, you are agreeing to our use ofcookies. [ Display cookie policy ](http://www.worksap.co.jp/privacy)
