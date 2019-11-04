@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artreview.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410053944id_/https%3A//artreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artreview.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104200134id_/https%3A//artreview.com/privacy) for the most accurate reproduction.*
 
 # privacy / ArtReview
 
