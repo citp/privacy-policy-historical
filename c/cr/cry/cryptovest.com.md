@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptovest.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423105024id_/https%3A//cryptovest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptovest.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104215509id_/https%3A//cryptovest.com/privacy-policy) for the most accurate reproduction.*
 
 # Cryptovest - Cryptovest
 
