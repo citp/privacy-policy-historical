@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the guerrilla-games.com privacy policy that was archived on 2018-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181225024439id_/https%3A//www.guerrilla-games.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guerrilla-games.com privacy policy that was archived on 2019-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191104205400id_/https%3A//www.guerrilla-games.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js no-touchevents video json svg" data-site="privacy-policy" xmlns="http://www.w3.org/1999/xhtml" lang="en-US" style="" data-region="esrb" data-country="us"><head>
         <meta charset="utf-8">
@@ -30,10 +30,89 @@
 
                 
         
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K5DP8F"></script><script type="text/javascript">(function(){var pageContentRevealed=false;var maxRevealTimeout;var landingPageVideo;document.addEventListener('DOMContentLoaded',function(){var inlineWrapper=document.querySelector('.inline-loading__wrapper');landingPageVideo=document.querySelector('.hero-landing__background__assets .video__element');inlineWrapper.className+=' _is-ready';if(landingPageVideo){landingPageVideo.oncanplaythrough=_showPageContent;}
-window.addEventListener('load',_showPageContent);maxRevealTimeout=window.setTimeout(_showPageContent,3000);});var _showPageContent=function(){if(pageContentRevealed){return;}
-var body=document.querySelector('body');body.className+=' _is-loaded';if(landingPageVideo){landingPageVideo.oncanplaythrough='';}
-setTimeout(function(){body.className+=' inline-page-load--done';},700);pageContentRevealed=true;clearTimeout(maxRevealTimeout);};var head=document.getElementsByTagName('head')[0];var styles=document.createElement('link');var fontCSS;styles.rel='stylesheet';styles.type='text/css';fontCSS=styles.cloneNode();styles.href='/dist/css/main.css?1500389976';fontCSS.href='/dist/css/fonts.css?1500389968';head.appendChild(styles);if(localStorage.guerrillaFontsLoaded||!localStorage){head.appendChild(fontCSS);}else{window.addEventListener('load',function(){head.appendChild(fontCSS);localStorage.guerrillaFontsLoaded=true;});}})();</script><link rel="stylesheet" type="text/css" href="/dist/css/main.css?1500389976"><link rel="stylesheet" type="text/css" href="/dist/css/fonts.css?1500389968">        
+<script type="text/javascript">
+    (function () {
+        /**
+         * Kick off loading animation
+         */
+        var pageContentRevealed = false;
+        var maxRevealTimeout;
+        var landingPageVideo;
+
+        document.addEventListener('DOMContentLoaded', function() {
+            var inlineWrapper = document.querySelector('.inline-loading__wrapper');
+
+            landingPageVideo = document.querySelector('.hero-landing__background__assets .video__element');
+
+            // Inform loading wrapper that DOM is ready to trigger animations
+            inlineWrapper.className += ' _is-ready';
+
+            // Show page content when video starts playing
+            if (landingPageVideo) {
+                landingPageVideo.oncanplaythrough = _showPageContent;
+            }
+
+            // Otherwise on load event
+            window.addEventListener('load', _showPageContent);
+
+            // Wait a maximum of 3 seconds then show content finally
+            maxRevealTimeout = window.setTimeout(_showPageContent, 3000);
+        });
+
+        var _showPageContent = function () {
+            if (pageContentRevealed) {
+                return;
+            }
+
+            var body = document.querySelector('body');
+
+            body.className += ' _is-loaded';
+
+            if (landingPageVideo) {
+                landingPageVideo.oncanplaythrough = '';
+            }
+
+            setTimeout(function () {
+                body.className += ' inline-page-load--done';
+            }, 700);
+
+            pageContentRevealed = true;
+            clearTimeout(maxRevealTimeout);
+        };
+
+        /**
+         * Loading styles and fonts with performance in mind
+         * TODO: Switch to loadCSS?
+         */
+        var head  = document.getElementsByTagName('head')[0];
+        var styles = document.createElement('link');
+        var fontCSS;
+
+        styles.rel  = 'stylesheet';
+        styles.type = 'text/css';
+
+        fontCSS = styles.cloneNode();
+
+        styles.href = '/dist/css/main.css?1500389976';
+        fontCSS.href = '/dist/css/fonts.css?1500389968';
+
+        head.appendChild(styles);
+
+        if (localStorage.guerrillaFontsLoaded || !localStorage) {
+
+            // Load web fonts right away if user has been here before
+            head.appendChild(fontCSS);
+        } else {
+
+            // Load web fonts later on first visit
+            window.addEventListener('load', function () {
+                head.appendChild(fontCSS);
+                localStorage.guerrillaFontsLoaded = true;
+            });
+        }
+    })();
+</script><link rel="stylesheet" type="text/css" href="/dist/css/main.css?1500389976"><link rel="stylesheet" type="text/css" href="/dist/css/fonts.css?1500389968">
+        
 <style type="text/css">@keyframes inline-heartbeat{0%{transform:scale(1)}14%{transform:scale(1.05)}28%{transform:scale(1)}42%{transform:scale(1.05)}70%{transform:scale(1)}100%{transform:scale(1)}}.js .inline-loading:not(._is-loaded){background-color:#2e2b34}.js .inline-loading:not(._is-loaded):before{border-width:0}.js .inline-loading.layout-transition__container{transition:opacity 7s,visibility 7s;transition-delay:2s,2s}.js .inline-loading:not(._is-loaded) .layout-transition__container{visibility:hidden;opacity:0}.js .inline-loading._is-loaded:not(.is-loading) .inline-loading__wrapper{transition:opacity 700ms,visibility 700ms;opacity:0;visibility:hidden;pointer-events:none}.js .inline-loading__wrapper{display:flex;justify-content:center;align-items:center;position:fixed;top:0;left:0;bottom:0;right:0;z-index:5;top:0;left:0;width:100%;height:100%;backface-visibility:hidden}.no-js .inline-loading__wrapper{display:none}.inline-page-load--done .inline-loading__wrapper{pointer-events:none}.js .inline-loading:not(.inline-page-load--done) .inline-loading__wrapper{background-color:#2e2b34}.inline-loading__svg{width:90px;height:auto;transition:opacity .3s 1s,transform .3s 1s;backface-visibility:hidden}.inline-loading:not(._is-loaded) .inline-loading__svg,.inline-loading.is-loading .inline-loading__svg{animation:inline-heartbeat 1.3s 1s ease infinite normal}.inline-loading__wrapper:not(._is-ready) .inline-loading__svg,.inline-page-load--done:not(.is-loading) .inline-loading__svg{opacity:0;transform:scale(0.8)}.js .inline-loading._is-loaded:not(.is-loading) .inline-loading__svg{transition:opacity 200ms,visibility 200ms;opacity:0;visibility:hidden}.inline-loading__svg path{fill:#9c96a7}.js .inline-loading.inline-page-load--done .inline-loading__svg path{fill:#5983ff}</style>
                 <noscript>
             <link rel="stylesheet" type="text/css" href="/dist/css/main.css?1500389976">
@@ -48,7 +127,7 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
 
         <script type="text/javascript">
             window.csrfTokenName = "csrfToken";
-          //  window.csrfTokenValue = "RhYhuapUepVTD347\x7E0rlWrV1IvsKkBr0kvFA4DIl";
+          //  window.csrfTokenValue = "cumDD0cTEj4ihA29CmoEednBrwnkv7ekNfTr0oma";
         </script>
 
                 <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-touch-icon-57x57.png">
@@ -78,19 +157,12 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
                     use_existing_jquery=false,
                     /* DO NOT EDIT BELOW THIS LINE */
                     f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=106392&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20181225024439id_%2Fhttps%253A%2F%2Fwww.guerrilla-games.com%2Fprivacy-policy&amp;r=0.4398631867736835" type="text/javascript"></script>
-        <!-- End Visual Website Optimizer Asynchronous Code -->
-        <script>
+        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=106392&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20191104205400id_%2Fhttps%253A%2F%2Fwww.guerrilla-games.com%2Fprivacy-policy&amp;r=0.10370626150339768" type="text/javascript"></script>
+        <!-- End Visual Website Optimizer Asynchronous Code --> 
+       <script>
             dataLayer = [];
         </script>
-                <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K5DP8F"
-                          height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-            })(window,document,'script','dataLayer','GTM-K5DP8F');</script>
-            </head>
+                            </head>
     <body class="inline-loading _is-loaded base-loaded">
         <div id="layout-transition" class="layout-transition__container">
             
@@ -118,17 +190,13 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
 
                                                             
                 <li class="navigation__item _level-1">
-                    
-                    <a href="https://www.guerrilla-games.com/explore" class="navigation__link _level-1" data-uri="explore">Explore</a>
-
-                                        
+                    		                        <a href="https://www.guerrilla-games.com/explore" class="navigation__link _level-1" data-uri="explore">Explore</a>
+		                                            
                 </li>
                                                             
                 <li class="navigation__item _level-1 _has-level-2">
-                    
-                    <a href="https://www.guerrilla-games.com/play" class="navigation__link _level-1" data-uri="play">Play</a>
-
-                                                                <ul class="navigation__list _level-2">
+                    		                        <a href="https://www.guerrilla-games.com/play" class="navigation__link _level-1" data-uri="play">Play</a>
+		                                                                    <ul class="navigation__list _level-2">
                             
                                                             
                                 <li class="navigation__item _level-2">
@@ -151,18 +219,24 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
                     
                 </li>
                                                             
-                <li class="navigation__item _level-1">
-                    
-                    <a href="https://www.guerrilla-games.com/join" class="navigation__link _level-1" data-uri="join">Join <span class="_info">11</span></a>
+                <li class="navigation__item _level-1 _has-level-2">
+                    		                        <a href="https://www.guerrilla-games.com/join" class="navigation__link _level-1" data-uri="join">Join <span class="_info">15</span></a>
+		                                                                    <ul class="navigation__list _level-2">
+                            
+                                                            
+                                <li class="navigation__item _level-2">
+                                    <a href="https://www.guerrilla-games.com/join/working-at-guerrilla" class="navigation__link _level-2" data-uri="join/working-at-guerrilla">Working at Guerrilla</a>
+                                </li>
 
-                                        
+                                                    </ul>
+                        <div class="navigation__background _level-2"></div>
+
+                    
                 </li>
                                                             
                 <li class="navigation__item _level-1 _has-level-2">
-                    
-                    <a href="https://www.guerrilla-games.com/read" class="navigation__link _level-1" data-uri="read">Read</a>
-
-                                                                <ul class="navigation__list _level-2">
+                    		                        <a href="https://www.guerrilla-games.com/read" class="navigation__link _level-1" data-uri="read">Read</a>
+		                                                                    <ul class="navigation__list _level-2">
                             
                                                             
                                 <li class="navigation__item _level-2">
@@ -181,10 +255,8 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
                 </li>
                                                             
                 <li class="navigation__item _level-1">
-                    
-                    <a href="https://www.guerrilla-games.com/contact" class="navigation__link _level-1" data-uri="contact">Contact</a>
-
-                                        
+                    		                        <a href="https://www.guerrilla-games.com/contact" class="navigation__link _level-1" data-uri="contact">Contact</a>
+		                                            
                 </li>
                     </ul>
         <div class="navigation__background _level-1"></div>
@@ -220,7 +292,7 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
     <div class="richtext__container richtext__index__container" data-js-init="richtext-index">
         <div class="richtext__index__toc__wrapper" style="">
 
-                        <div data-scrollmagic-pin-spacer="" class="scrollmagic-pin-spacer" style="top: auto; left: auto; bottom: auto; right: auto; margin: 0px 0px 24px; display: block; position: relative; box-sizing: content-box; min-height: 390px; height: auto; padding-top: 0px; padding-bottom: 1728px;"><ul class="richtext__index__toc__list" style="position: relative; margin: auto; top: auto; left: auto; bottom: auto; right: auto; box-sizing: border-box; width: 100%;">
+                        <div data-scrollmagic-pin-spacer="" class="scrollmagic-pin-spacer" style="top: auto; left: auto; bottom: auto; right: auto; margin: 16px 0px; display: block; position: relative; box-sizing: content-box; min-height: 126px; height: auto; padding-top: 0px; padding-bottom: 1066px;"><ul class="richtext__index__toc__list" style="position: relative; margin: auto; top: auto; left: auto; bottom: auto; right: auto; box-sizing: border-box; width: 100%;">
                 
                                                         
                                                                 <li class="richtext__index__toc__item">
@@ -374,7 +446,7 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
             
                             <div class="footer__copyright__wrapper">
                     <div class="footer__copyright__text">
-                        <p>website©2018 Guerrilla. "KILLZONE", "Horizon Zero Dawn", "Horizon Zero Dawn logo", "RIGS", "RIGS logo", "Guerrilla", "Guerrilla logo" and "Decima" are trademarks or registered trademarks of&nbsp; Sony Interactive Entertainment Europe. <br>All Rights Reserved.</p>
+                        <p>website©2019 Guerrilla. "KILLZONE", "Horizon Zero Dawn", "Horizon Zero Dawn logo", "RIGS", "RIGS logo", "Guerrilla", "Guerrilla logo" and "Decima" are trademarks or registered trademarks of&nbsp; Sony Interactive Entertainment Europe. <br>All Rights Reserved.</p>
 <p>Read our <a href="https://www.guerrilla-games.com/privacy-policy">privacy policy</a>.</p>
                     </div>
 
@@ -390,13 +462,6 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
                 
 
 
-    
-    <a href="https://www.guerrilla-games.com/join" data-gtm-event="{&quot;event&quot;:&quot;cta-link&quot;,&quot;context&quot;:&quot;homepage&quot;,&quot;target&quot;:&quot;join&quot;}" class="notification-openings__wrapper">
-        <div class="notification-openings__content">
-            Become a Guerrilla
-            <span class="notification-openings__count">11 openings</span>
-        </div>
-    </a>
                 
 
 
@@ -574,6 +639,7 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
                      <select name="year">
                          <option value="">Year</option>
                          
+                                                                                   <option value="2019">2019</option>
                                                                                    <option value="2018">2018</option>
                                                                                    <option value="2017">2017</option>
                                                                                    <option value="2016">2016</option>
@@ -674,7 +740,6 @@ setTimeout(function(){body.className+=' inline-page-load--done';},700);pageConte
                                                                                    <option value="1921">1921</option>
                                                                                    <option value="1920">1920</option>
                                                                                    <option value="1919">1919</option>
-                                                                                   <option value="1918">1918</option>
                                               </select>
                  </div>
              </div>
