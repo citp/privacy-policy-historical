@@ -1,92 +1,112 @@
-> *The following text is extracted and transformed from the tutorvista.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011231448id_/http%3A//www.tutorvista.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorvista.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104220154id_/https%3A//byjus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - BYJU'S
 
-## Privacy Policy
+### Privacy Policy
+
+BYJU’S values your trust. In order to honour that trust, BYJU’S adheres to ethical standards in gathering, using, and safeguarding any information you provide.
+
+Think and Learn Private Limited (operating under the brandname BYJU’S), is a leading edtech company, incorporated in India, for imparting learning. For the sake of brevity of understanding this Privacy Policy the company will be hereinafter referred as BYJU’S.
+
+This privacy policy governs your use of the application ‘BYJU’S-The Learning App’ (“Application”), www.byjus.com (“Website”) and the other associated/ancillary applications, products, websites and services managed by the Company, Think and Learn Private Limited.
+
+Please read this privacy policy (“ **Policy** “) carefully before using the Application, Website, its services and products, along with the Terms of Use (“ **ToU** “) provided on the Application and on the Website. Your use of the Website, Application, or services in connection with the Application, Website or products (“ **Services** “), or registrations with us through any mode or use of any products including that of SD cards, tablets or other storage/transmitting device shall signify your acceptance of this Policy and your agreement to be legally bound by the same. For the sake of brevity your use of ‘BYJU’S-‘The Learning App’ in any electronic form or device shall be bound by the terms and conditions enumerated and agreed upon hereunder with wilful and free consent. 
+
+If you wish not to agree with any of the terms and conditions of this Policy, kindly refrain from using the Website, Application or its products or until satisfaction for you to use the same by its Sales/Marketing/Technical/Legal Team, avail any of these services.
+
+#### User Provided Information
+
+The Application/Website/Services/products records the information you provide when you download and register for the Application or Services or products. When you register with us, you generally provide (a) your name, age, email address, phone number, password and your ward’s educational interests; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) information you enter into its system when using the Application/Services/products, such as while asking doubts, participating in discussions and taking tests. The said information collected from the users could be categorized as “ **Personal Information** “, “ **Sensitive Personal Information** ” and “ **Associated Information** “. Personal Information, Sensitive Personal Information and Associated Information (each as individually defined under this Information Technology (Reasonable security practices and procedures and sensitive personal data or information) Rules, 2011 (the “ **Data Protection Rules** “)) shall collectively be referred to as “ **Information** ” in this Policy. 
+
+BYJU’S may use this Information to contact you from time to time, to provide you with the Services, important information, required notices and marketing promotions. BYJU’S will request you when it need more information that personally identifies you (personal information) or allows us to contact you.
+
+BYJU’S will not differentiate between who is using the device to access the Application, Website or Services or products, so long as the log in/access credentials match with yours. In order to make the best use of the Application/Website/Services/products and enable your Information to be captured accurately on the Application/Website/Services/products, it is essential that you have logged in using your own credentials.
+
+BYJU’S will, at all times, provide the option to you, not to provide the Personal Information or Sensitive Personal Information, which it seeks from you. Further, you can, at any time while using the Application/Services/products, also have an option to withdraw your consent given earlier to it, to use such Personal Information or Sensitive Personal Information. Withdrawal of the consent by you is required to be sent in writing to us at the contact details provided in this Policy below. In any such event, BYJU’S or the Company fully reserves the right to withdraw further usage of the Application/Website or provide any further Services/products thereunder to you.
+
+#### Automatically Collected Information
+
+In addition, the Application/products/Services may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application/Services/products. As is true for most Mobile applications, BYJU’S also collects other relevant information as per the permissions that you provide. 
+
+BYJU’S uses an outside credit card processing company to bill you for the goods and services availed by you. These companies do not retain, share, store or use personally identifiable information of you for any other purpose.
+
+#### Use of your Personal Information
+
+BYJU’S uses the collected Information to analyse trends, to conduct research, to administer the Application/Services and products, to learn about each user’s learning patterns and movements around the Application/Services and products and to gather demographic information and usage behaviour about its user base as a whole. Aggregated and individual, anonymized and non-anonymized data may periodically be transmitted to external service providers to help us improve the Application, products and its Services. BYJU’S will share your information with third parties only in the ways that are described below in this Policy.
+
+BYJU’S may use the individual data and behavior patterns combined with personal information to provide you with personalized content, and better your learning objectives/experience. Third parties provide certain services which we may use to analyze the data and information you provide to personalize, drive insights and help it better your experience or reach out to you with more value added applications, products, information and services. However, these third party companies do not have any independent right to share this information. BYJU’S does not sell, trade or rent your Information to any third party unless, we have been expressly authorized by you either in writing or electronically to do so. BYJU’S may at times provide aggregate statistics about its customers, traffic patterns, and related site information to reputable third parties, however this information when disclosed will be in an aggregate form and does not contain any of your Personally Identifiable Information.  
+BYJU’S will occasionally send email notices or contact you to communicate about its Services, products and benefits, as they are considered an essential part of the Services/products you have chosen.
+
+#### BYJU’S may disclose Information:
+
+  * as required by law, such as to comply with a subpoena, or similar legal process;
+  * to enforce applicable ToU, including investigation of potential violations thereof;
+  * when it believes in good faith (doctrine of uberrima fides) that the disclosure is necessary to protect its rights, protect your safety or the safety of others, investigate fraud, address security or technical issues or respond to a government request;
+  * with its trusted services providers who work on its behalf, do not have an independent use of the information BYJU’S discloses to them, and have agreed to and adhered to the rules set forth in this Policy;
+  * to protect against imminent harm to the rights, property or safety of the Application/Website/ Think and Learn Private Limited or its users or the public as required or permitted by law;
+  * with third party service providers in order to personalize the Application/Website/Services/products for a better user experience and to perform behavioural analysis;
+
+
+
+Any portion of the Information containing personal data relating to minors provided by you shall be deemed to be given with the consent of the minor’s legal guardian. Such consent is deemed to be provided by your registration with BYJU’S.
+
+#### Access to your Personal Information
+
+BYJU’S will provide you with the means to ensure that your Personal Information is correct and current. If you have filled out a user profile, it will provide an obvious way for you to access and change your profile from its Application/Services/Website/products. BYJU’S adopts stringent security measures to protect your password from being exposed or disclosed to anyone. Only upon you forgetting the password for its Application/Website or Services, BYJU’S will have a right to reset the same to you with your prior approval as per standard web practices.
+
+#### Cookies
+
+BYJU’S send cookies (small files containing a string of characters) to your computer, thereby uniquely identifying your browser. Cookies are used to track your preferences, help you login faster, and aggregated to determine user trends. This data is used to improve its offerings, such as providing more content in areas of greater interest to a majority of users.
+
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. 
+
+Disclaimer:  
+Some of BYJU’S features and services may not function properly if your cookies are disabled.
+
+#### Links
+
+BYJU’S may present links in a format that enables us to keep track of whether these links have been followed. BYJU’S uses this information to improve its customized content. Clicking on links may take you to sites outside its domain. BYJU’S are not responsible for the privacy practices of other web sites. BYJU’S encourage its users to be aware when they leave its site to read the EULA/T&Cs of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by its Website.
+
+#### Alerts
+
+BYJU’S may alert you by email or phone (through sms/call) to inform you about new service offerings or other information which it perceives might be useful for you.
+
+#### Public Forums
+
+When you use certain features on its website like the discussion forums and you post or share your personal information such as comments, messages, files, photos, will be available to all users, and will be in the public domain. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting on its forums this information may become publicly available.
+
+#### Security
+
+BYJU’S are concerned about safeguarding the confidentiality of your Information. BYJU’S provide physical, electronic, and procedural safeguards to protect Information it processes and maintain. An illustration being, BYJU’S limits access to this Information to authorized employees only who need to know that information in order to operate, develop or improve its Application/Services/products/Website. Please be aware that, although BYJU’S endeavour is to provide stringent security, for information it possesses and maintains, no security system can prevent all potential security breaches.
+
+#### How long does BYJU’S retain user data?
+
+Currently, BYJU’S retains user data while an account is active and for at least three years afterwards. It may alter this practice according to legal and business requirements. For example, it may lengthen the retention period for some data if needed to comply with law or voluntary codes of conduct. Unless otherwise prohibited, it may shorten the retention period for some types of data if needed to free up storage space.
+
+#### Log information
+
+When you access BYJU’S Website, its servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, internet protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+
+#### User communications
+
+When you send an email or other communication to BYJU’S, it may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
+
+#### Changes to this Statement
+
+As the Company (Think and Learn Private Limited) evolves, its privacy policy will need to evolve as well to cover new situations. You are advised to review this Policy regularly for any changes, as continued use is deemed approval of all changes.
+
+#### Your Consent
+
+BYJU’S believes that, every user of our Application/Services/Products/Website must be in a position to provide an informed consent prior to providing any Information required for the use of the Application/Services/Products/Website. By registering with it, you are expressly consenting to its collection, processing, storing, disclosing and handling of your information as set forth in this Policy now and as amended by us. Processing, your information in any way, including, but not limited to, collecting, storing, deleting, using, combining, sharing, transferring and disclosing information, all of which activities will take place in India. If you reside outside India your information will be transferred, processed and stored in accordance with the applicable data protection laws of India.
+
+#### Contact Information
+
+BYJU’S Grievance Officer shall undertake all reasonable efforts to address your grievances at the earliest possible opportunity. You may contact it at:
+
+Grievance Officer: Mr. Pravin Prakash  
+Address: 4/1, Tower D, 2nd Floor, IBC Knowledge Park, Bannerghatta Main Road, Bangalore – 560029, Karnataka, India.
+
+Reach out to us on _support@byjus.com_ , in case of any queries.
 
   
 
-
-## Privacy Statement Effective as of August, 2006
-
-  
-
-
-## TutorVista.com Privacy statement
-
-TutorVista.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the TutorVista.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit TutorVista.com regularly to review our privacy statement. 
-
-If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing [care@tutorvista.com](mailto:care@tutorvista.com). 
-
-## Collected Information
-
-We require customers who register to use the services offered on our Site (collectively, the "Service") to give us contact information, such as their name, address, phone number, and e-mail address, and billing information, such as billing name and address, credit card number, and the school grade and subjects to use the service. We also receive and may store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses www.tutorvista.com. More information on our use of "cookies" can be found below. 
-
-TutorVista.com uses the information that we collect to set up the Service for our customers. We may also use the information to contact customers to further discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to [care@tutorvista.com](mailto:care@tutorvista.com). Separately, customers are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Customer Newsletter. 
-
-In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, experience with our products and services, and more detailed contact preferences. Customers and visitors always have the option of choosing not to provide us with this information. 
-
-Except as we explicitly state at the time we request information, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by TutorVista.com for marketing or promotional purposes. TutorVista.com uses a third-party intermediary to manage the credit card processing. This intermediary uses the information for the sole purpose of credit card processing. 
-
-TutorVista.com may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties. 
-
-## Special Relationships
-
-TutorVista.com has a number of relationships with business partners with whom we may share your personal information for the purpose of providing a service, fulfilling an order or completing a transaction. For example, we use certain vendors for the purpose of providing credit card transaction and check processing services. These vendors verify your purchase information, such as credit card number or checking account number, and authorize your transaction. In doing so, they have access to data about users, but they are prohibited from using this information for any other purpose. We also strongly urge you to read the privacy policy of our business partner at the business partners site. 
-
-## Cookies
-
-TutorVista.com uses software tags called "cookies" to identify customers when they visit our site. Cookies are used to remember user preferences and maximize performance of our services. The information we collect with cookies is not sold, rented, or shared with any outside parties. Users who disable their Web browser's ability to accept cookies will be able to browse our Website but will not be able to successfully use our Service. 
-
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. 
-
-This privacy statement covers the use of cookies by TutorVista.com only and does not cover the use of cookies by any advertisers. 
-
-**Third Party Cookies:** We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of [TutorVista.com](http://www.tutorvista.com/) is used only to provide us with information on site usage and is not shared with any other third parties. 
-
-## Web Beacons
-
-Web pages may contain an electronic file called a web beacon, that allows a web site to count users who have visited that page or to access certain cookies. TutorVista uses web beacons in the following ways: 
-
-Within the TutorVista web sites  
-
-
-  * TutorVista uses web beacons within the TutorVista web sites in order to count users and to recognize users by accessing TutorVista cookies. 
-  * Being able to access TutorVista cookies allows us to personalize your experience when you visit TutorVista web sites that are located both on and off of the tutorvista.com domain. 
-
-  
-
-
-## HTML eMail
-
-TutorVista's practice is to include web beacons in HTML-formatted email messages (messages that include graphics) that TutorVista, or its agents, sends in order to determine which email messages were opened and to note whether a message was acted upon. 
-
-In general, any file served as part of a web page, including an ad banner, can act as a web beacon. TutorVista may also include web beacons from other companies within pages served by TutorVista so that TutorVista's advertisers may receive auditing, and reporting. 
-
-## Log Files
-
-TutorVista.com maintains log files of the traffic that visits our site. We do not link any information gathered in these log files to personally identifying information. Log files are used to manage traffic loads and information technology requirements for providing reliable service. Information collected includes IP addresses and browser types. 
-
-## Information Security
-
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
-
-All information gathered on the site is stored and maintained in secure facilities that limit access to authorized personnel only. 
-
-## Retention of Information
-
-TutorVista.com will keep personal information of its users for as long as they are registered subscribers or users of our products and services, and for a reasonable time thereafter. 
-
-## Legal Disclaimer
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
-
-## Change in this Privacy Statement
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. 
-
-## Contact Us
-
-If you have questions or concerns regarding this statement, you should contact the Privacy Program Office of TutorVista.com by emailing [care@tutorvista.com](mailto:care@tutorvista.com). 
