@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovewhatmatters.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331185511id_/https%3A//www.lovewhatmatters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovewhatmatters.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104081736id_/https%3A//www.lovewhatmatters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Love What Matters
 
