@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the maximintegrated.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507175458id_/https%3A//www.maximintegrated.com/en/aboutus/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximintegrated.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104194526id_/https%3A//www.maximintegrated.com/en/aboutus/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Website Privacy Policy - Maxim
 
 Effective May 2018
 
 In this Website Privacy Policy ("Statement or "Policy"), we, Maxim Integrated Products, Inc., provide information about how we collect, use, and transfer personally identifiable data from you, a website visitor, through www.maximintegrated.com and other websites that we operate and on which we post a direct link to this Statement, including any data you may provide when you subscribe to Maxim's newsletter, purchase a product or service, or take part in a competition or promotional activities (collectively the "Site"). Maxim processes Personal Data fairly, lawfully, and in accordance with applicable laws, including, the EU General Data Protection Regulation ("GDPR") and the e-Privacy Directive (2002/58/EC). "Personal Data" means individually identifiable information about you collected or otherwise received by Maxim. If the GDPR is applicable to our processing of your Personal Data, personal data means any information relating to an identified or identifiable natural person.
+
+ **Download the Privacy Policy:** [French](https://web.archive.org/content/dam/files/aboutus/company/legal/pdfs/privacy-policy-content-only.html_FR.pdf) (PDF) | [German](https://web.archive.org/content/dam/files/aboutus/company/legal/pdfs/privacy-policy-content-only.html_DE.pdf) (PDF) | [Italian](https://web.archive.org/content/dam/files/aboutus/company/legal/pdfs/privacy-policy-content-only.html_IT.pdf) (PDF)
 
 ## Who We Are
 
@@ -384,6 +386,8 @@ Address: Maxim Integrated Products, Inc.
 160 Rio Robles  
 San Jose, CA 95134
 
-EU Data Privacy Officer: [Harry.marsden@maximintegrated.com](mailto:Harry.marsden@maximintegrated.com)
+Europe, Middle East & Africa, Data Privacy Officer: [Harry.Marsden@maximintegrated.com](mailto:Harry.Marsden@maximintegrated.com)  
+Americas, Data Privacy Officer: [Wendy.SovakSmith@maximintegrated.com](mailto:Wendy.SovakSmith@maximintegrated.com)  
+Asia Pacific, Data Privacy Officer: [Marc.Salarda@maximintegrated.com](mailto:Marc.Salarda@maximintegrated.com)
 
 The Policy was last updated in May 2018.
