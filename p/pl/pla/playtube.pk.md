@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playtube.pk privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416141435id_/https%3A//playtube.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playtube.pk privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104100005id_/https%3A//playtube.pk/privacy) for the most accurate reproduction.*
 
 # PlayTube.pk | Ultimate Video Sharing Website
 
@@ -116,7 +116,7 @@ Please note that depending on the country of your residence and the applicable l
 
  **8\. YOUR RIGHTS & OPTING -OUT  
 **  
- **8.1**. General. Generally, no one is under a statutory or contractual obligation to provide any Data. However, certain Data is collected automatically and, if some Data, such as account setup details, is not provided, we may be unable to provide you with certain features on our Service. You are entitled to access, correct and/or delete the Data you have provided to Us, as described under Section 1.2. of this Privacy Policy by requesting to do so through the setting of your account, or by reaching out to the PlayTube Help Center via the dedicated “Your Personal Data” section, or by sending a letter to the attention of our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) (please make sure to include a copy of your ID within your request). Please note that you are entitled to define and communicate to our rules applicable to your Data upon your death.
+ **8.1**. General. Generally, no one is under a statutory or contractual obligation to provide any Data. However, certain Data is collected automatically and, if some Data, such as account setup details, is not provided, we may be unable to provide you with certain features on our Service. You are entitled to access, correct and/or delete the Data you have provided to Us, as described under Section 1.2. of this Privacy Policy by requesting to do so through the setting of your account, or by reaching out to the PlayTube Help Center via the dedicated “Your Personal Data” section, or by sending a letter to the attention of our Data Protection Officer at info@playtube.pk (please make sure to include a copy of your ID within your request). Please note that you are entitled to define and communicate to our rules applicable to your Data upon your death.
 
  **8.2. Change of privacy settings for Promotional Communications.  
 **  
@@ -140,13 +140,13 @@ On your mobile device, you may also go to your device settings and select "Limit
 
 **8.5. Additional Choices for Residents in the European Economic Area.  
 **  
-Individuals located in the European Economic Area, have certain statutory rights in relation to their Data. Subject to any exemptions provided by law, you may have the right to request access to your personal information, as well as to seek to update, delete, correct or transfer this information. You can usually do this using the settings and tools provided in your PlayTube account. If you cannot use the settings and tools, contact us by stating your country of residence and reach out to the PlayTube Help Center via the dedicated “Your Personal Data” section or send a letter to the attention of our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) Please include within your request a copy of your ID together with any information allowing us to identify your account on the PlayTube Service.
+Individuals located in the European Economic Area, have certain statutory rights in relation to their Data. Subject to any exemptions provided by law, you may have the right to request access to your personal information, as well as to seek to update, delete, correct or transfer this information. You can usually do this using the settings and tools provided in your PlayTube account. If you cannot use the settings and tools, contact us by stating your country of residence and reach out to the PlayTube Help Center via the dedicated “Your Personal Data” section or send a letter to the attention of our Data Protection Officer at leglanotice@playtube.pk. Please include within your request a copy of your ID together with any information allowing us to identify your account on the PlayTube Service.
 
 To the extent that PlayTube’s processing of your Data is subject to the General Data Protection Regulation (“GDPR”), and in addition to any consent you might have granted or contract you might have concluded with us, PlayTube relies on its legitimate interests, described above, to process your Data. 
 
 **8.6. Additional Choices for California Residents.  
 **  
-If you are a California resident, you may be entitled to request certain information regarding our disclosure, if any, of personal information (such as your name and contact information) to third parties who wish to contact you or send you promotional information about their products and services directly (as compared to when the third party is acting on our behalf or you have provided your personal information as part of a co-promotion by PlayTube and the third party). If you are a California resident and would like to request a copy of information regarding our disclosure to third parties for their direct marketing purposes in the preceding calendar year, please send us a letter at Attention: Legal Department at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you are a California resident, you may be entitled to request certain information regarding our disclosure, if any, of personal information (such as your name and contact information) to third parties who wish to contact you or send you promotional information about their products and services directly (as compared to when the third party is acting on our behalf or you have provided your personal information as part of a co-promotion by PlayTube and the third party). If you are a California resident and would like to request a copy of information regarding our disclosure to third parties for their direct marketing purposes in the preceding calendar year, please send us a letter at Attention: Legal Department at info@playtube.pk.
 
 If you are a California resident under the age of 18 and a registered user of the PlayTube Service, you may request and obtain removal of Content or information you have publicly posted on the PlayTube Service. To make this request, please contact the PlayTube Help Center via the “Your Personal Data” section and include a detailed description of the specific content or information you would like to remove. Please note that this removal does not ensure complete or comprehensive removal of the Content or information posted on the PlayTube Service by you as there may be circumstances in which the law does not require or allow removal. 
 
@@ -174,7 +174,7 @@ From time to time, we may revise this Privacy Policy to reflect changes in the l
  **9.6. Contact Us**  
 If you have further questions about this Privacy Policy or wish to learn more about our information-handling practices, you can reach us:  
 by sending a letter to the attention of:  
-our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), if you reside in a country of the European Economic Area; or  
-our Legal Department at the at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), if you reside in a country that is not part of the European Economic Area. 
+our Data Protection Officer at info@playtube.pk, if you reside in a country of the European Economic Area; or  
+our Legal Department at the at info@playtube.pk, if you reside in a country that is not part of the European Economic Area. 
 
 Last modified on March 14th, 2019
