@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userscloud.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511185924id_/https%3A//userscloud.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userscloud.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104074229id_/https%3A//userscloud.com/privacy.html) for the most accurate reproduction.*
 
 # Userscloud › Free Unlimited Cloud Storage
 
