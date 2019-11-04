@@ -1,77 +1,84 @@
-> *The following text is extracted and transformed from the skyscanner.co.in privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624100044id_/https%3A//www.skyscanner.co.in/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.co.in privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104234225id_/https%3A//www.skyscanner.co.in/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - Skyscanner India
 
-Last updated 1 October 2018
+We can’t help you plan and book your dream trip without information. So, when you use our services, we have to collect, keep and share some personal data and ask that you agree to that in line with this policy. We collect information in three ways:
 
-**No surprises!**
+  
+**You give it to us voluntarily**  
+Information you choose to give us might include personal data needed for you to book travel for yourself and others. This ranges from the dates and destination you choose in a search, to the basic stuff for making a booking with a Travel Supplier such as names and contact details. It can also include content like the reviews or photographs you upload to our services to share with other travellers. Most importantly, it’s always up to you whether or not you choose to give us this kind of information.
 
-We’ll only ever collect, use and share your information in ways that are described in this policy.
+  
+**We generate or collect it automatically**  
+We generate or collect some information from your computer or device automatically as you use our services. This includes stuff like your IP address, information about the device and browser you are using to access our services, the website URL you visited us from and the third party sites you visit when you click on links to exit the Skyscanner site. It also includes details of the bookings you have made via Skyscanner. We may also know your location from your mobile or your IP address. This helps us to improve your experience and make sure you receive the content that’s most relevant to you.
 
-**We’ll keep your information safe**
+  
+**We receive it from third parties**  
+Sometimes we’re given information about you from third parties, depending on how you choose to interact with us. For example, when you come to our website via a promotional partner, or when you log into your Skyscanner account using our social network login feature. And, if you’ve redirected to a Travel Supplier’s website or app to complete your booking, we might collect information from them about whether you went ahead with your trip and what you booked.
 
-We’re committed to the confidentiality and security of the personal data you give us.
+  
+Our services are not intended for children under 13 years of age, and no one under the age of 13 should provide any information to, on or via our services. We don’t knowingly collect personal data from children under 13, and will delete any that we learn we have collected or received that was not provided by, or with express consent on behalf of, the child’s parent or legal guardian. 
 
-**You’re always in control**
+Depending on how you interact with our services, we may collect or process the following categories of personal data via the three different ways explained above.
 
-Update your profile and communication preferences at any time.
+**Contact Information:**
 
-## About this policy
+such as your name, address, email address, telephone number and other similar information.
 
-> Along with our [Terms of Service](https://www.skyscanner.net/termsofservice.aspx) and [Cookie Policy](https://www.skyscanner.net/cookiepolicy.aspx), this policy explains how we collect and handle your information across all of our websites, mobile apps and other services. We’ll review this policy from time to time to make sure it’s up-to-date. If we make changes, we’ll post the latest version here. When we make significant changes, we’ll let you know when you next access our services, or by other communications.
-> 
-> Learn more about this policy
+**Identification information:**
 
-## Why and how do we use your personal data?
+such as a copy of your passport or other identity confirming documentation which may contain information like your name, address, gender, immigration status, nationality and date of birth.
 
-> We only use your information where you’ve given us your consent, where its necessary to deliver the services you’ve requested, where it’s necessary to exercise or comply with legal rights or obligations, or for normal business purposes of the kind set out in this policy.
-> 
-> Learn more about why and how we use your personal data
+**Payments information:**
 
-## What personal data do we collect?
+such as your credit or debit card number, expiry date and verification code when you book travel via our services.
 
-## How long do we store your personal data?
+**Travel and Booking information:**
 
-> We only keep your data for as long as we need it, or are required to for legal reasons. We’ll then either delete it or anonymise it so it doesn’t identify you. We treat data differently depending on what it’s used for, but you can ask us to delete your personal data at any time.
-> 
-> Learn more about how long we store your personal data 
+such as your booking reference, booking history, passenger name record (“PNR”), identification or passport information and travel itinerary.
 
-## When is your information shared with or collected by third parties?
+**Demographic Information:**
 
-> We share your information only where you ask us to, where it’s a necessary part of doing business with you and providing you with the services, or where we need to for legal reasons. Companies you book with via Skyscanner (like airlines or hotels) will collect your data in line with their own policies. Sometimes companies that advertise via our services may also collect your information (see Do we use cookies or other similar technologies?). Finally, companies that help us deliver our services will also collect and use your data on our behalf.
-> 
-> Learn more about how we share or allow others to collect your information
+your age, gender, location and preferred language when you use our services.
 
-## How do we keep your personal data secure?
+In circumstances where you are applying for a job with Skyscanner, we may ask for certain information for diversity monitoring purposes (such as race and ethnicity).
 
-## Where do we store your information?
+**Device and Location Information:**
 
-> Your data is securely stored in data centres around the world – the exact location depends on where you are when you use Skyscanner. Your data will only be processed by suppliers who provide appropriate contractual safeguards for the information they process. Sometimes your data may be stored in countries with different levels of security to your own but we always make sure their standards meet ours.
-> 
-> Learn more about where we store your information 
+generic details from your device such as your IP address, type, make, model and operating system of your device;
 
-## How is your information used for advertising?
+specific location data based on GPS data from your mobile device (when you grant us access to this information via your device settings); and
 
-> You’ll see various adverts when you use our services and might also see adverts about Skyscanner when you’re on other platforms. These adverts might come from us or from third parties and may be personalised to make them more relevant to you. The information used to personalise adverts you see may include your details of what you’ve searched for on Skyscanner or general location information at a city or airport level, but will never include your name, contact details or other information that would enable you to be identified in the offline world. If you want to manage how your information is used for advertising purposes, you can find out more below and in our [Cookie Policy](https://www.skyscanner.net/cookiepolicy.aspx).
-> 
-> Learn more about how your information is used for advertising
+non-specific location based on your IP address.
 
-## Do we use cookies or similar technologies?
+**Usage and Profiling Information:**
 
-## What are your choices and rights?
+your Skyscanner search history and travel preferences;
 
-> If you’ve got a Skyscanner account, you can access, edit, download or delete the key personal data associated with your profile at any time by going to your Profile. From here you can also manage your subscription and marketing preferences.
-> 
-> You also have rights in relation to the personal data we have about you, which we explain in more detail below. You can exercise these rights by getting in touch with us via our [Help Centre](https://help.skyscanner.net/hc/requests/new).
-> 
-> Learn more about your choices and rights
+how you’ve interacted with our services, including time you spend on our site and/or app and the pages, features or functionality you have accessed;
 
-## Who are we and how can you contact us?
+links you have clicked on to be redirected to or from our services, including the identity of the Travel Supplier you are redirecting to and the type of travel service you have selected; and
 
-> Skyscanner is provided by Skyscanner Limited, a company registered in the UK.
-> 
-> Skyscanner Limited is the Data Controller of any information collected from you by us.
-> 
-> Our company number is: 04217916
-> 
-> Our registered office address is: Floor 6, The Avenue, 1 Bedford Avenue, London, United Kingdom, WC1B 3AU.
+where you’ve redirected to a Travel Supplier’s website or app for the purposes of completing a booking, we may collect information from that Travel Supplier about whether and what you went on to book with them.
+
+**Preferences Information:**
+
+selected preferences associated with your Skyscanner account including specific consents you have given or declined, email and push notification preferences and cookies containing your advertisement preferences.
+
+**Communications Information:**
+
+includes communications we receive from you such as feedback, help requests and queries via email and other electronic communication methods such as online chat, instant messaging or social media; and
+
+metadata associated with those communications, such as time and date.
+
+**User Generated or Provided Content:**
+
+content you upload to our services including comments, photos, videos, recommendations, preferences and reviews and metadata such as the time and date associated with that content; and
+
+any information you submit to us during the course of any correspondence you may have with us, such as signatures, photographs, opinions and, where you are applying for a job with Skyscanner, details of your employment history, salary and other similar information.
+
+**Social Media Information**
+
+email address is automatically collected by us from the third party social media platform you log in to Skyscanner from; and
+
+information from your publicly accessible LinkedIn (or other social network) profile such as name, email address and CV for recruitment purposes, where you have given this to a third party and they have made it available to us in accordance with their own terms and privacy policies.
