@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503180632id_/https%3A//www.lupus.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lupus.org privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104220623id_/https%3A//www.lupus.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lupus Foundation of America
 
 We respect the privacy of all visitors to our websites. This Privacy Policy describes the ways in which the Lupus Foundation of America (“we,” “our,” or “us”) collect, use, and disclose information about you through our websites and online services that link to this Privacy Policy, which include lupus.org, the embedded websites of our national network affiliates, and all other related domains and sub-domains, including befiercetakecontrol.org, cruelmystery.org, greatunknownchallenge.org, knowlupus.org, LFA-POINT.org, lupusawarenessmonth.org, lupuspickup.org, lupuspickupmdva.org, LFApickupservice.org, lupusvoices.org, shoplupus.org, teamlupus.org, walktoendlupusnow.org, worldlupusday.org, and worldlupusfederation.org (collectively, the "Site").  By using the Site, you consent to the processing of your information as set forth in this Privacy Policy, now and as amended by us.
 
-_Amended November 27, 2018_
+ _Amended November 27, 2018_
 
 Why We Collect Information 
 
@@ -16,15 +16,15 @@ Opt Out Choices for Donors and Subscribers
 
 You may choose to opt out of receiving some or all surface mailings from us.  Send your full name and complete mailing address (along with any codes that were printed on the mailing label), and the type of information that you no longer wish to receive from us or wish to limit the number of mailings sent to you each year. Send your request to info@lupus.org or write to us at 2121 K Street NW, Suite 200, Washington, DC 20037 - USA.
 
-**Email Communications**
+ **Email Communications**
 
 You may choose to limit or opt out from receiving email communications from us at any time. You may unsubscribe from future email messages by sending your request to info@lupus.org, or by updating your email preferences by clicking on the appropriate link within the email message that you receive.
 
-**Telephone Communications**
+ **Telephone Communications**
 
 You may choose to opt out from receiving telephone calls from us or from any third-party that we engage to provide that service for us.  You may send your request to info@lupus.org or by writing to us at the address provided above. You may also call our office during business hours at (202) 349-1155.
 
-**Information Exchanges with Other Organizations**
+ **Information Exchanges with Other Organizations**
 
 You may request that we not sell or exchange your name and mailing information with other organizations by sending an email message to info@lupus.org, or by writing to us at the address provided above. Please include your full name and complete mailing address (along with any other information that will help us to locate your record) and a request that we not exchange your information with other organizations.
 
@@ -52,25 +52,23 @@ Use by Third Parties. We do not sell your personally identifiable information to
 
 For more information.  If you have any further questions regarding our privacy practices, please email us at info@lupus.org.
 
-Additional Privacy Practices for Specialized Services & Resources 
+Privacy Practices for Contacting the Health Educator Online 
 
-**Contacting the Health Educator Online**
+### **Information You Provide:**
 
-**Information You Provide:**
-
-**Contact Information**
+####  **Contact Information**
 
 When you submit an inquiry to the Health Educator we ask for certain contact information including, but not limited to, your first and last name, e-mail address, phone number and mailing address in order to respond to your inquiry.
 
-**Health Information and Demographic Information**
+####  **Health Information and Demographic Information**
 
 Your submission to the Health Educator may include health information, such as diagnosis information.  In addition, when responding to your inquiry we may ask for additional health information to better respond to your request. We also ask for demographic information in order to better improve our services. You are not obligated to provide any health or demographic information you do not want to provide.
 
-**Inquiry Information**
+####  **Inquiry Information**
 
 The inquiry information we collect may include any information you elect to provide in the form of a question to the Health Educator. This information also includes the subject of the inquiry, the date of the inquiry, and information regarding individuals on whose behalf you may be seeking information.
 
-**How We Use and Disclose Information Provided When You Contact the Health Educator Online**
+####  **How We Use and Disclose Information Provided When You Contact the Health Educator Online**
 
 Submitting an inquiry online does NOT enroll you to receive other communications from us unless you specifically indicate you would like to do so.  Only members of our Data Management Team and other personnel with a need to know have access to the identifiable information described above.
 
@@ -80,25 +78,25 @@ We may use your location information to help us better serve you and identify re
 
 We do not share or sell any of the information described above with any non-affiliated third party. We may, however, us this information to provide you with information from non-affiliated third parties.
 
-**Taking Part in the Online Research.ForME TM Lupus Registry**
+Privacy Practices for Taking Part in the Online Research.ForME Lupus Registry 
 
 The Lupus Research Registry (the “Registry”) is a formal research registration program with its own safeguards for the information you provide. You can find detailed information at lupus.org/registry.  A summary of that information is provided in this section as well. The Registry is open only to individuals with a lupus diagnosis.
 
-**Information You Provide:**
+### Information You Provide:
 
-**Contact Information**
+#### Contact Information
 
 The Registry asks for your contact information including your e-mail, mailing address and phone number in order to contact you about studies that may be of interest to you or to the individual you are registering.
 
-**Health, Research and Demographic Information**
+#### Health, Research and Demographic Information
 
 The Registry contains several questions about your health and quality of life. This information is considered health information. We also ask questions about your date of birth and other demographics. The information allows us to better focus our programs and services to your needs as well as to identify study opportunities for which you may be a match.
 
-**Informed Consent**
+#### Informed Consent
 
 To enroll in the Registry, you will be asked to complete an Informed Consent form, which includes your electronic signature.  This form will provide information on the Registry, and any risks of participation. Additional Informed Consent forms may be required to participate in specific research studies.
 
-**How We Use and Disclose Information Provided to the Registry**
+#### How We Use and Disclose Information Provided to the Registry
 
 Information submitted through the Registry is subject to the requirements set forth by a third-party Institutional Review Board and any informed consents to which you agree. Details about those processes will be made available to registry participants. In addition, except as required by an Institutional Review Board, and any informed consents:
 
@@ -110,40 +108,67 @@ Information submitted through the Registry is subject to the requirements set fo
 
 
 
-**How to Unsubscribe from the Registry**
+#### How to Unsubscribe from the Registry
 
-You may unsubscribe from the Registry at any time by sending an e-mail to registrycoordinator@lupus.org. When you unsubscribe from the Registry you will no longer be contacted by the Registry about study opportunities.
+You may unsubscribe from the Registry at any time by sending an e-mail to registrycoordinator@lupus.org. When you unsubscribe from the Registry you will no longer be contacted by the Registry about study opportunities.
 
-**Taking Part in the Online Research.ForME Lupus Interest Group**
+Privacy Practices for Taking Part in the Online Research.ForME Lupus Interest Group 
 
 Unlike the Registry, the Lupus Interest Group is not a formal research study. The Lupus Research Interest Group (the “Interest Group”) is an online forum where you can sign up to receive information about opportunities for participating in research that may be interesting to you. To read more about the difference between participating in the two options please go to lupus.org/research/enroll-in-a-lupus-research-interest-group.
 
-**Information You Provide:**
+### Information You Provide:
 
-**Contact Information**
+#### Contact Information
 
 The Lupus Interest Group registration process asks for your contact information including your e-mail, mailing address and phone number in order to contact you about studies that may be of interest to you or to the individual you are enrolling. Registering for the Interest Group does NOT sign you up to receive other types of communications from us.
 
-**Demographic and Health Information**
+#### Demographic and Health Information
 
 The Interest Group enrollment will ask for fewer details about your health and quality of life than the Registry enrollment. Instead, you will answer a few general questions about your diagnosis process and demographics. This information is collected in order to better communicate to you about our programs, services and informal studies that meet your specific needs.
 
-**How We Use and Disclose Information Provided to the Interest Group**
+#### How We Use and Disclose Information Provided to the Interest Group
 
-Only members of our Data Management Team and other personnel with a need to know have access to the identifiable information described above. Your information may be disclosed in aggregate (summary) form in a way that does not contain identifiable information.  
-How to Unsubscribe from the Lupus Interest Group  
-You may unsubscribe from the Interest Group at any time by sending an e-mail to registrycoordinator@lupus.org.
+Only members of our Data Management Team and other personnel with a need to know have access to the identifiable information described above. Your information may be disclosed in aggregate (summary) form in a way that does not contain identifiable information.
 
-**When You Participate in our LUPUSCONNECT TM Online Community**
+#### How to Unsubscribe from the Lupus Interest Group
 
-Our online support community, LUPUSCONNECT, is operated by a third-party service, Inspire, through a contractual agreement us.  
-Information You Provide
+You may unsubscribe from the Interest Group at any time by sending an e-mail to [registrycoordinator@lupus.org](mailto:registrycoordinator@lupus.org).
+
+Privacy Practices for Participating in the LUPUSCONNECT Online Community 
+
+Our online support community, LUPUSCONNECT, is operated by a third-party service, Inspire, through a contractual agreement us.
+
+#### Information You Provide:
 
 To participate in the LUPUSCONNECT community, you must register for the service, which includes creating a username and password and providing an email address. When you sign up for LUPUSCONNECT, you agree to Inspire’s terms and conditions, including the company’s privacy policy, which is available on their website.
 
-How We Use and Disclose Information Provided to the Interest Group
+#### How We Use and Disclose Information Provided to the Interest Group
 
 The LUPUSCONNECT message boards are available for public use to all individuals who agree to and abide by the Terms and Conditions.  Any information shared on the message boards may be shared with others who see it, as well as by us in accordance with this Privacy Policy.
+
+Privacy Practices for Participating in the SELF Program 
+
+Strategies to Embrace Living with Lupus Fearlessly (SELF) is an online lupus self-management program, that offers ideas, suggestions, and tools that can help you reach personal goals to manage your lupus. This program is open only to individuals with lupus who are age 18 and over.
+
+### Information You Provide:
+
+You must register to participate in the SELF Program. You will need to create a username and password and provide your email address, phone number and other information about yourself. We use your e-mail address and phone number to deliver health education messages, reminders about helpful self-management strategies and invitations to take an optional survey that helps us improve SELF.
+
+The SELF program includes health information questions about your health status and quality of life. We also ask questions about your date of birth and other statistical information. This information enables us to tailor the SELF Program and other services to better meet your needs.
+
+#### Third-Party Agreement:
+
+We established a contractual agreement with Pro-Change Behavior to create and host SELF. When you register for SELF, you also agree to Pro-Change Behavior Systems terms and conditions, including the company’s privacy policy, which you can review [using this link](https://self.lupus.org/ttmx/privacy.html).  
+
+#### How We Use and Disclose Information Provided to SELF:
+
+  * We will never disclose personal information that could identify you, such as your date of birth, contact information and your health status.
+  * We may use and disclose information that you and other groups of participants provide to us in aggregate (summary) form, which does not include your identifiable information.
+  * We may use this aggregate information to improve the SELF Program and the services we provide, and to create reports that help us better understand the needs of our constituents.
+  * We also may use or disclose information that you provide using a code that removes your contact information, date of birth and other information that could identify you.
+  * At the time you register for the SELF Program you also may choose to opt-in to receive other types of communications from the Lupus Foundation of America.
+
+
 
 Our Commitment to Children's Privacy 
 
@@ -163,7 +188,7 @@ Data Security
 
 We strive to maintain reasonable administrative, technical, and physical safeguards designed to safeguard the information collected by the Site.  However, no information system can be 100% secure, so we cannot guarantee the absolute security of your information.  Moreover, we are not responsible for the security of information you transmit to the Site over networks that we do not control, including the Internet and wireless networks.
 
-**How the Foundation Maintains the Credit Card and Personal Information We Collect**
+ **How the Foundation Maintains the Credit Card and Personal Information We Collect**
 
 The security of your personal information is important to us. All communications between your browser and our payment system is encrypted using secure socket layer technology (SSL). You will notice the "Locked" ICON and “Blackbaud, Inc.”  (the company that provides our donor CRM software) appear in the address bar in your browser. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. All servers are protected and monitored by leading firewall technology 24 hours a day
 
@@ -179,13 +204,13 @@ We and our service providers collect any information that you provide when you u
 
 The information that you provide us can include, but is not limited to, (a) your name, contact information, username, password, email address and other registration information; (b) transaction-related information or payment card information, such as when you make donations or purchases; (c) information you provide when participating in research, an interest group, or a message board; and (d) information you provide us when you contact us.
 
-**Information Automatically Collected From You**
+ **Information Automatically Collected From You**
 
 We and our service providers may automatically collect certain technical information from your computer or mobile device when you use the Site, such as your Internet Protocol (IP) address or unique identifier, your browser type, your operating system, the pages you view on the Site, the pages you view immediately before and after you access the Site, and the search terms you enter on the Site.
 
 This information allows us to recognize you and personalize your experience if you return to the Site, and to improve the Site and the services we provide.  We and our service providers may collect this information using “cookies,” which are small text files that the Site saves on your computer using your web browser and accesses when you return, or similar technologies.
 
-**Cookies**
+ **Cookies**
 
 A “cookie” is a small file placed on your computer to allow a website to recognize your computer on return visits. Like most websites, we use cookies to manage certain website features and to provide localized information. These cookies do not contain information typically used to identify you, but they may contain demographic (such as language preference) or interest-based information.  Other technologies are used for similar purposes as a cookie on other platforms where cookies are not available or applicable, such as the Advertising ID available on Android mobile devices. Most web browsers give you options for preventing, accepting, or receiving notice of new cookies.  If you reject cookies, you may still use our Site, however, some Site features may be lost or not function properly.
 
@@ -193,19 +218,19 @@ Many consider the use of cookies for these purposes to be an industry standard. 
 
 Please note that if you delete, reject, or otherwise prohibit cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice.
 
-**Information Collected by Third Parties**
+ **Information Collected by Third Parties**
 
 We use third party tools and services such as Google Analytics and AdWords that may deploy cookies, pixel tags, or similar tracking technologies to collect, analyze and report on Site activity and evaluate marketing campaign performance. A pixel tag is a type of technology placed on a website or within the body of an email for the purpose of tracking activity on websites, and all of the information resources provided through them.
 
-**Statistical Data**
+ **Statistical Data**
 
 We collect information such as the total number of visitors, the date, time, length and frequency of visits, the average length of time and total number of times that visitors view each page, the device and software used to access our websites, how visitors arrived at our Site, and the domain name and locations of visitors' internet service providers.   We also compile lists of the keywords and search terms that visitors used to find information published on our Site, and the websites or search engines that referred visitors to our websites.
 
-**Geolocation Data**
+ **Geolocation Data**
 
 When you access and use the Site, we may receive, store and process different types of information about your geographic location, including general information (e.g., zip code) and more specific information (e.g., GPS-based functionality on mobile devices used to access the Sites). If you access the Site through a mobile device and you do not want your device to provide us with location-tracking information, you can disable the GPS or other location-tracking functions on your device, provided that your device allows you to do so. Please see your device manufacturer’s instructions for further details.
 
-**How We Use Information Collected on our Site**
+ **How We Use Information Collected on our Site**
 
 In General, except as described elsewhere in this Privacy Policy, we and our affiliates and subsidiaries may use the information we collect for a number of purposes, including, but not limited to the list below. For clarification, this list does not apply to information you provide while seeking specialized services (Health Educator line, Lupus Research Registry, etc.) described in the section on Additional Privacy Practices for Specialized Services & Resources.
 
@@ -224,7 +249,7 @@ In General, except as described elsewhere in this Privacy Policy, we and our aff
 
 We also may combine or aggregate any of the information we collect through the Site or elsewhere for any of these purposes.
 
-**How We Disclose Information Collected on our Site**
+ **How We Disclose Information Collected on our Site**
 
 In General, except as described elsewhere in this Privacy Policy, we and our affiliates and subsidiaries may disclose the information we collect:
 
@@ -239,14 +264,14 @@ In General, except as described elsewhere in this Privacy Policy, we and our aff
 
 In addition, we may share de-identified reports on user demographics and traffic patterns, as well as de-identified information, with third parties.
 
-**Email Addresses**
+ **Email Addresses**
 
 Except as described above, we never share your email address with anyone outside of our organization without your consent.
 
-**Sharing with Non-Profits**
+ **Sharing with Non-Profits**
 
 Periodically, we will exchange the names and mailing addresses and contact information, but not email addresses, of our donors, event participants, subscribers, and store customers with other reputable non-profit organizations.
 
-**Page Links Contained within Email Messages**
+ **Page Links Contained within Email Messages**
 
 When you click on a page link contained within an email message, advocacy alert or eNewsletter that you receive from us, that information is stored as part of your online profile.  This information helps us determine which articles or topics are of greatest interest to you so we can better serve you in the future.  The information is not shared with others without your consent and is used only to help us deliver future content that is more tailored to your individual interests or needs.
