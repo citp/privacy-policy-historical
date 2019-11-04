@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828054753id_/https%3A//www.quotemedia.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotemedia.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104133116id_/https%3A//www.quotemedia.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - QuoteMedia Market Data Solutions
 
