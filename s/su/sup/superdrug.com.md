@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410093113id_/https%3A//www.superdrug.com/acc/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104102435id_/https%3A//superdrug.com/acc/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Superdrug
 
@@ -118,7 +118,7 @@ As long as you keep shopping with us. If after three years, you have no transact
 
 We need this information to process your order or any other service you request from us (performance of a contract). If we need information about you that is considered sensitive (e.g. information on your health for medication) we will inform you in a transparent manner about our legal obligations to process such personal data.
 
-Purchase/ Agreeing to a Service
+Customer Service
 
 #### What Personal Data may we collect?
 
@@ -245,6 +245,14 @@ We may also tailor our Sites and our products to your interests and needs, by co
 Where we use Google Analytics, we have set up the service to anonymise your IP address as soon as data is received by the Analytics Collection Network  <https://support.google.com/analytics/answer/2763052?hl=en>  , before any storage or processing takes place. To opt out of being tracked by Google Analytics across all websites please visit <http://tools.google.com/dlpage/gaoptout>.
 
 You can view more information on the Cookies we use and adjust your preferences via the Cookie Consent Tool on our Sites. Please note, however, that without cookies you may not be able to use all of the features of our Sites or online services.
+
+### 6.3 Your Personal Data and Superdrug App
+
+Our app does not collect or store pictures taken with your phone.
+
+We will ask for your separate permissions for our app to open your camera. If you change your mind, you will be able to revoke them any time by changing the settings on your device. Please note that rejecting or switching off these permissions will limit the features you can use in our app.
+
+We use face recognition technology already included in your phone (such as TrueDepth API) to create augmented reality effects within the App. We do not share information with third parties, do not store or process in any other way the data which we access and use via this technology.
 
 ### 7.1 Our Service Providers
 
