@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the lolsided.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407165447id_/https%3A//lolsided.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lolsided.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104092752id_/http%3A//lolsided.com/privacy-policy.php) for the most accurate reproduction.*
 
 # LolSided
 
 This privacy policy has been compiled to better serve those who are concerned with how their Personally Identifiable Information (PII) is being used online. PII, as used in privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
 
-If you have any questions about this Privacy Policy, feel free to [contact us](https://web.archive.org/web/20190407165447id_/https%3A//lolsided.com/contact.php).
+If you have any questions about this Privacy Policy, feel free to [contact us](https://web.archive.org/web/20191104092752id_/http%3A//lolsided.com/contact.php).
 
 **Data Controller.**  
-The controller of personal data is Wayne Whitty, who owns and operates LolSided.com. Wayne Whitty is based in the Republic of Ireland. If you wish to make a query about our personal data processing or if you wish to obtain information on the processing of your personal data, please use one of the contact options on our [contact page](https://web.archive.org/web/20190407165447id_/https%3A//lolsided.com/contact.php). 
+The controller of personal data is Wayne Whitty, who owns and operates LolSided.com. Wayne Whitty is based in the Republic of Ireland. If you wish to make a query about our personal data processing or if you wish to obtain information on the processing of your personal data, please use one of the contact options on our [contact page](https://web.archive.org/web/20191104092752id_/http%3A//lolsided.com/contact.php). 
 
 **What personal information do we collect from the people that visit our app?**  
 We do not keep a long-term record of personally identifiable information. Our app is built in such a way that storing your Facebook information in a database would be completely unnecessary. If you have taken any of our quizzes in the past, then you can rest assured that we have not kept a database record of any of your personally identifiable information.  
-The only reason we would ever keep a record of your personally identifiable information is if we believe that your account activity is abnormal or you are suspected of violating our [Terms of Service](https://web.archive.org/web/20190407165447id_/https%3A//lolsided.com/terms.php). 
+The only reason we would ever keep a record of your personally identifiable information is if we believe that your account activity is abnormal or you are suspected of violating our [Terms of Service](https://web.archive.org/web/20191104092752id_/http%3A//lolsided.com/terms.php). 
 
 **Third-party disclosure.**  
 We do **NOT** sell, trade, or otherwise transfer to outside parties your personally identifiable information. If you agree to provide us with access to your name, gender, etc, that information remains with LolSided.com and it is never transferred to a third-party.  
@@ -37,7 +37,7 @@ Our app abides by the Platform Policy for Facebook developers. Our app does not 
 In most cases, we only ask for your basic profile information: This includes your Facebook profile ID, name, profile picture and gender.  
 On quizzes that involve a member of your friend list, we will ask for the friend list permission.  
 We do **NOT** ask for access to your interests, likes, timeline posts, photo albums or messages.  
-For more information on what Facebook information we request, please see our article on [Facebook Permissions](https://web.archive.org/web/20190407165447id_/https%3A//lolsided.com/permissions.php). 
+For more information on what Facebook information we request, please see our article on [Facebook Permissions](https://web.archive.org/web/20191104092752id_/http%3A//lolsided.com/permissions.php). 
 
 **Do we use cookies?**  
 Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember if you are logged into LolSided.com or not. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
@@ -119,7 +119,7 @@ We will publish a notice on our website and on our Facebook page within 2 busine
 
 We also agree to the Individual Redress Principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors. 
 
-If you have any questions about our Privacy Policy, you can [contact the website](https://web.archive.org/web/20190407165447id_/https%3A//lolsided.com/contact.php).
+If you have any questions about our Privacy Policy, you can [contact the website](https://web.archive.org/web/20191104092752id_/http%3A//lolsided.com/contact.php).
 
 Last Edited on 17 Sep 2018 
 
