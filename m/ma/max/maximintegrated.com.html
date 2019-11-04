@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the maximintegrated.com privacy policy that was archived on 2019-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190507175458id_/https%3A//www.maximintegrated.com/en/aboutus/legal/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the maximintegrated.com privacy policy that was archived on 2019-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191104194526id_/https%3A//www.maximintegrated.com/en/aboutus/legal/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en_US"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en_US"> <![endif]-->
@@ -17,9 +17,9 @@
 <meta name="author" content="">
 <link rel="canonical" href="https://www.maximintegrated.com/en/aboutus/legal/privacy-policy.html">
 <link rel="alternate" hreflang="x-default" href="https://www.maximintegrated.com/en/aboutus/legal/privacy-policy.html">
+<link rel="alternate" hreflang="en-us" href="https://www.maximintegrated.com/en/aboutus/legal/privacy-policy.html">
 <link rel="alternate" hreflang="zh-cn" href="https://www.maximintegrated.com/cn/aboutus/legal/privacy-policy.html">
 <link rel="alternate" hreflang="ja-jp" href="https://www.maximintegrated.com/jp/aboutus/legal/privacy-policy.html">
-<link rel="alternate" hreflang="en-us" href="https://www.maximintegrated.com/en/aboutus/legal/privacy-policy.html">
 <meta name="pathlanguage" content="en">
 <meta name="category" content="about-us">
 <meta name="subcategory" content="legal">
@@ -27,6 +27,7 @@
 <meta name="language" content="en_US">
 <meta name="title" content="Website Privacy Policy - Maxim">
 <meta name="currentPage" content="/content/maximintegrated/en/aboutus/legal/privacy-policy">
+<meta name="businessUnit" content="">
 
 <meta name="productsection" content="notavailable">
 <meta name="generalsection" content="show">
@@ -107,10 +108,12 @@
         }
 	</script>
 <!--[if IE 9]><script src="/etc/designs/maximintegrated/_js/jqueryrotate.js"></script><![endif]-->
+<script src="https://scripts.demandbase.com/adobeanalytics/hCknWs2u.min.js"></script>
+<script src="//api.demandbase.com/api/v2/ip.json?key=b0d226e3cb590be302600f2accb16548&amp;callback=Dmdbase_CDC.callback"></script>
 <script>
     var isstorefrontlanding = '';
 </script>
-<meta http-equiv="last-modified" content="Tue, 22 May 2018 21:49:57 UTC">
+<meta http-equiv="last-modified" content="Tue, 09 Jul 2019 18:52:24 UTC">
 <script>
 var countryCode;
 $(window).load(function() {
@@ -129,7 +132,7 @@ if(countryCode != "CN"){
 		w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});
 		var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
 		j.async=true;
-		j.src='https://www.googletagmanager.com/gtm.js?id=GTM-MZP5NM8';
+		j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
 		f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-MZP5NM8');
 }
@@ -427,16 +430,23 @@ $(window).load(function() {
 			}
 			
 		}
-        CQ.shared.Util.load(url);
-        
 		if(typeof _satellite != "undefined"){
 			_satellite.track("logout success"); 
 		}
-               
+        CQ.shared.Util.load(url);
+		if(window.sessionStorage) 
+        { 
+            var tokenVal = (sessionStorage.getItem("tokenValue")) ? sessionStorage.getItem("tokenValue") : null; 
+            if(tokenVal!==null)
+            {
+            sessionStorage.removeItem("tokenValue");
+            }
+        }
+		
+        
     }
     function showMyMaximLogin() {
-        $.removeCookie("hasaccesstoassetshare",{ path: '/' });
-    	//$('#myMaximLoginModal').modal('show');
+       //$('#myMaximLoginModal').modal('show');
 		gigya.accounts.showScreenSet(aem.login.params);
     	setTimeout( function() { $('#j_username').focus() }, 500 );
     	$('#j_username').select();
@@ -449,7 +459,7 @@ $(window).load(function() {
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </button>
-<a class="navbar-brand hidden-xs" href="/en.html" title="Maxim Integrated">
+ <a class="navbar-brand hidden-xs" href="/en.html" title="Maxim Integrated">
 <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/layout/maxim-logo-web.png" alt="Maxim Integrated"/><![endif]-->
 <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/layout/maxim-logo-web.svg" alt="Maxim Integrated"/><![endif]-->
 <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/layout/maxim-logo-web.svg" alt="Maxim Integrated"><!-- <![endif]-->
@@ -514,11 +524,15 @@ Register
 </a>
 <div id="parametricsearchinfo" class="psdropdown">
 <div class="pslink"><a href="https://para.maximintegrated.com/en/?node=5071">Power</a></div>
-<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40860">Analog Signal</a></div>
+<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40619">Sensors</a></div>
+<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40860">Analog</a></div>
 <div class="pslink"><a href="https://para.maximintegrated.com/en/?node=5017">Interface</a></div>
 <div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40858">Communications</a></div>
-<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40863">Digital</a></div>
-<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40862">Industries</a></div>
+<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40598">Embedded Security</a></div>
+<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=5054">Microcontrollers </a></div>
+<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40863">iButton and Memory</a></div>
+<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40963">Automotive</a></div>
+<div class="pslink"><a href="https://para.maximintegrated.com/en/?node=40964">Military</a></div>
 <div class="pslink"><a href="https://para.maximintegrated.com/en">All</a></div>
 </div>
 </div>
@@ -532,20 +546,20 @@ Register
 </div>
 
 <div class="maxim-nav single-line navbar-right hidden-xs">
-<a href="/cn/aboutus/legal/privacy-policy.html" title="Chinese">中文</a>
+<a class="localPglink" href="/cn/aboutus/legal/privacy-policy.html" title="Chinese">中文</a>
 |
-<a href="/jp/aboutus/legal/privacy-policy.html" title="Japanese">日本語</a>
+<a class="localPglink" href="/jp/aboutus/legal/privacy-policy.html" title="Japanese">日本語</a>
 </div>
 <div class="maxim-nav single-line navbar-right hidden-xs">
 </div>
 
 <ul class="nav navbar-nav visible-xs">
-<form id="mobile-nav-search-bar" action="/en/sitesearch.html" class="form" role="form">
+<form id="mobile-nav-search-bar" action="/en/sitesearch.external.html" class="form" role="form">
 <li><input type="searchField" class="form-control input bottom-margin search-icon" id="sp_q" name="sp_q" placeholder="Search"></li>
 </form>
 <li><a href="/cn/aboutus/legal/privacy-policy.html">中文</a></li>
 <li><a href="/jp/aboutus/legal/privacy-policy.html">日本語</a></li>
-<li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Products <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/products/power.html">Power</a></li><li><a href="/en/products/sensors.html">Sensors</a></li><li><a href="/en/products/analog.html">Analog</a></li><li><a href="/en/products/interface.html">Interface</a></li><li><a href="/en/products/comms.html">Communications</a></li><li><a href="/en/products/embedded-security.html">Embedded Security</a></li><li><a href="/en/products/microcontrollers.html">Microcontrollers</a></li><li><a href="/en/products/ibutton.html">iButton</a></li><li><a href="/en/products/all-products.html">All</a></li><li><a href="/en/products/whats-new.html">What's New</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Markets <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/markets/industrial.html">Industrial</a></li><li><a href="/en/markets/automotive.html">Automotive</a></li><li><a href="/en/markets/healthcare.html">Healthcare</a></li><li><a href="/en/markets/communications.html">Communications</a></li><li><a href="/en/markets/consumer.html">Consumer</a></li><li><a href="/en/markets/computing.html">Computing</a></li><li><a href="/en/markets/solar-energy.html">Solar Energy</a></li><li><a href="/en/markets/military-aerospace.html">Military and Aerospace ICs</a></li><li><a href="/en/markets/internet-of-things.html">Internet of Things</a></li><li><a href="/en/markets/all-markets.html">All Markets</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Design <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/design/overview.html">Overview</a></li><li><a href="/en/design/technical-documents.html">Technical Documents</a></li><li><a href="/en/design/reference-design-center.html">Reference Designs</a></li><li><a href="/en/design/design-tools.html">Design Tools</a></li><li><a href="/en/design/packaging.html">Packaging</a></li><li><a href="/en/design/cross-reference-search.html">Cross-Reference Search</a></li><li><a href="/en/design/technical-training.html">Technical Training</a></li><li><a href="/en/design/partners-and-technology.html">Partners and Technology</a></li><li><a href="/en/design/videos.html">Videos</a></li><li><a href="/en/design/blog.html">mgineer Blog</a></li><li><a href="/en/design/customer-testimonials.html">Customer Testimonials</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Support <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://maximsupport.microsoftcrmportals.com/en-US/support-center/">Support Portal</a></li><li><a href="/en/support/qa-reliability.html">QA and Reliability</a></li><li><a href="/en/support/emmi.html">Environmental</a></li><li><a href="https://maximsupport.microsoftcrmportals.com/en-US/knowledgebase/">Knowledge Base Search</a></li></ul></li><li class="dropdown"></li><li><a href="/en/storefront.html" class="uppercase dropdown-toggle ">Order</a></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle  toggleon" data-toggle="dropdown">About Us <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/aboutus/maxim-profile.html">Maxim Profile</a></li><li><a href="http://investor.maximintegrated.com/home/default.aspx">Investor Relations</a></li><li><a href="/en/aboutus/careers.html">Careers</a></li><li><a href="/en/aboutus/newsroom.html">Newsroom</a></li><li><a href="/en/aboutus/events.html">Events</a></li><li><a href="/en/aboutus/worldwide-locations.html">Worldwide Locations</a></li><li><a href="/en/aboutus/leadership.html">Leadership</a></li><li><a href="http://www.maximventures.com">Maxim Ventures</a></li><li><a href="/en/aboutus/maxim-corporate-policies.html">Corporate Policies</a></li><li><a href="http://investor.maximintegrated.com/corporate-responsibility/default.aspx">Corporate Responsibility</a></li><li><a href="/en/aboutus/contact-us.html">Contact Us</a></li><li><a href="/en/aboutus/legal.html" class="navon">Legal</a></li></ul></li><li id="mobile-target" class="dropdown">
+<li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Products <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/products/power.html">Power</a></li><li><a href="/en/products/sensors.html">Sensors</a></li><li><a href="/en/products/analog.html">Analog</a></li><li><a href="/en/products/interface.html">Interface</a></li><li><a href="/en/products/comms.html">Communications</a></li><li><a href="/en/products/embedded-security.html">Embedded Security</a></li><li><a href="/en/products/microcontrollers.html">Microcontrollers</a></li><li><a href="/en/products/ibutton.html">iButton</a></li><li><a href="/en/products/all-products.html">All</a></li><li><a href="/en/products/whats-new.html">What's New</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Markets <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/markets/industrial.html">Industrial</a></li><li><a href="/en/markets/automotive.html">Automotive</a></li><li><a href="/en/markets/healthcare.html">Healthcare</a></li><li><a href="/en/markets/communications.html">Communications</a></li><li><a href="/en/markets/consumer.html">Consumer</a></li><li><a href="/en/markets/computing.html">Computing</a></li><li><a href="/en/markets/solar-energy.html">Solar Energy</a></li><li><a href="/en/markets/military-aerospace.html">Military and Aerospace</a></li><li><a href="/en/markets/internet-of-things.html">Internet of Things</a></li><li><a href="/en/markets/essential-analog-ics.html">Essential Analog ICs</a></li><li><a href="/en/markets/all-markets.html">All Markets</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Design <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/design/overview.html">Overview</a></li><li><a href="/en/design/technical-documents.html">Technical Documents</a></li><li><a href="/en/design/reference-design-center.html">Reference Designs</a></li><li><a href="/en/design/design-tools.html">Design Tools</a></li><li><a href="/en/design/packaging.html">Packaging</a></li><li><a href="/en/design/cross-reference-search.html">Cross-Reference Search</a></li><li><a href="/en/design/technical-training.html">Technical Training</a></li><li><a href="/en/design/partners-and-technology.html">Partners and Technology</a></li><li><a href="/en/design/videos.html">Videos</a></li><li><a href="/en/design/blog.html">mgineer Blog</a></li><li><a href="/en/design/customer-testimonials.html">Customer Testimonials</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Support <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://maximsupport.microsoftcrmportals.com/en-US/support-center/">Support Portal</a></li><li><a href="/en/support/qa-reliability.html">QA and Reliability</a></li><li><a href="/en/support/emmi.html">Environmental</a></li><li><a href="https://maximsupport.microsoftcrmportals.com/en-US/knowledgebase/">Knowledge Base Search</a></li></ul></li><li class="dropdown"></li><li><a href="/en/storefront.html" class="uppercase dropdown-toggle ">Order</a></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle  toggleon" data-toggle="dropdown">About Us <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/aboutus/maxim-profile.html">Maxim Profile</a></li><li><a href="http://investor.maximintegrated.com/home/default.aspx">Investor Relations</a></li><li><a href="/en/aboutus/careers.html">Careers</a></li><li><a href="/en/aboutus/newsroom.html">Newsroom</a></li><li><a href="/en/aboutus/events.html">Events</a></li><li><a href="/en/aboutus/worldwide-locations.html">Worldwide Locations</a></li><li><a href="/en/aboutus/leadership.html">Leadership</a></li><li><a href="http://www.maximventures.com">Maxim Ventures</a></li><li><a href="/en/aboutus/maxim-corporate-policies.html">Corporate Policies</a></li><li><a href="http://investor.maximintegrated.com/corporate-responsibility/default.aspx">Corporate Responsibility</a></li><li><a href="/en/aboutus/contact-us.html">Contact Us</a></li><li><a href="/en/aboutus/legal.html" class="navon">Legal</a></li></ul></li><li id="mobile-target" class="dropdown">
 <a href="javascript:void(0)" class="dropdown-toggle myMaximLink" data-toggle="dropdown"><img id="mymi-icon-mobile" width="25" height="25" style="display:none; padding-right:5px" src="/etc/designs/maximintegrated/_images/icons/mymaxim_icon.png"><span class="myMaximSpan">MyMaxim</span><b class="caret"></b></a>
 <ul id="myMaximLoginDl" class="dropdown-menu">
 <li><a data-toggle="modal" href="javascript:void(0)" onclick="gigya.accounts.showScreenSet(aem.login.params);">Login</a></li>
@@ -569,7 +583,7 @@ Register
 </style>
 <noindex>
 <script>
-    var mobileMenu = $('<li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Products <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/products/power.html">Power</a></li><li><a href="/en/products/sensors.html">Sensors</a></li><li><a href="/en/products/analog.html">Analog</a></li><li><a href="/en/products/interface.html">Interface</a></li><li><a href="/en/products/comms.html">Communications</a></li><li><a href="/en/products/embedded-security.html">Embedded Security</a></li><li><a href="/en/products/microcontrollers.html">Microcontrollers</a></li><li><a href="/en/products/ibutton.html">iButton</a></li><li><a href="/en/products/all-products.html">All</a></li><li><a href="/en/products/whats-new.html">What&#x27;s New</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Markets <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/markets/industrial.html">Industrial</a></li><li><a href="/en/markets/automotive.html">Automotive</a></li><li><a href="/en/markets/healthcare.html">Healthcare</a></li><li><a href="/en/markets/communications.html">Communications</a></li><li><a href="/en/markets/consumer.html">Consumer</a></li><li><a href="/en/markets/computing.html">Computing</a></li><li><a href="/en/markets/solar-energy.html">Solar Energy</a></li><li><a href="/en/markets/military-aerospace.html">Military and Aerospace ICs</a></li><li><a href="/en/markets/internet-of-things.html">Internet of Things</a></li><li><a href="/en/markets/all-markets.html">All Markets</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Design <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/design/overview.html">Overview</a></li><li><a href="/en/design/technical-documents.html">Technical Documents</a></li><li><a href="/en/design/reference-design-center.html">Reference Designs</a></li><li><a href="/en/design/design-tools.html">Design Tools</a></li><li><a href="/en/design/packaging.html">Packaging</a></li><li><a href="/en/design/cross-reference-search.html">Cross-Reference Search</a></li><li><a href="/en/design/technical-training.html">Technical Training</a></li><li><a href="/en/design/partners-and-technology.html">Partners and Technology</a></li><li><a href="/en/design/videos.html">Videos</a></li><li><a href="/en/design/blog.html">mgineer Blog</a></li><li><a href="/en/design/customer-testimonials.html">Customer Testimonials</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Support <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://maximsupport.microsoftcrmportals.com/en-US/support-center/">Support Portal</a></li><li><a href="/en/support/qa-reliability.html">QA and Reliability</a></li><li><a href="/en/support/emmi.html">Environmental</a></li><li><a href="https://maximsupport.microsoftcrmportals.com/en-US/knowledgebase/">Knowledge Base Search</a></li></ul></li><li class="dropdown"><li><a href="/en/storefront.html" class="uppercase dropdown-toggle ">Order</a></li></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle  toggleon" data-toggle="dropdown">About Us <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/aboutus/maxim-profile.html">Maxim Profile</a></li><li><a href="http://investor.maximintegrated.com/home/default.aspx">Investor Relations</a></li><li><a href="/en/aboutus/careers.html">Careers</a></li><li><a href="/en/aboutus/newsroom.html">Newsroom</a></li><li><a href="/en/aboutus/events.html">Events</a></li><li><a href="/en/aboutus/worldwide-locations.html">Worldwide Locations</a></li><li><a href="/en/aboutus/leadership.html">Leadership</a></li><li><a href="http://www.maximventures.com">Maxim Ventures</a></li><li><a href="/en/aboutus/maxim-corporate-policies.html">Corporate Policies</a></li><li><a href="http://investor.maximintegrated.com/corporate-responsibility/default.aspx">Corporate Responsibility</a></li><li><a href="/en/aboutus/contact-us.html">Contact Us</a></li><li><a href="/en/aboutus/legal.html" class="navon">Legal</a></li></ul></li>');
+    var mobileMenu = $('<li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Products <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/products/power.html">Power</a></li><li><a href="/en/products/sensors.html">Sensors</a></li><li><a href="/en/products/analog.html">Analog</a></li><li><a href="/en/products/interface.html">Interface</a></li><li><a href="/en/products/comms.html">Communications</a></li><li><a href="/en/products/embedded-security.html">Embedded Security</a></li><li><a href="/en/products/microcontrollers.html">Microcontrollers</a></li><li><a href="/en/products/ibutton.html">iButton</a></li><li><a href="/en/products/all-products.html">All</a></li><li><a href="/en/products/whats-new.html">What&#x27;s New</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Markets <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/markets/industrial.html">Industrial</a></li><li><a href="/en/markets/automotive.html">Automotive</a></li><li><a href="/en/markets/healthcare.html">Healthcare</a></li><li><a href="/en/markets/communications.html">Communications</a></li><li><a href="/en/markets/consumer.html">Consumer</a></li><li><a href="/en/markets/computing.html">Computing</a></li><li><a href="/en/markets/solar-energy.html">Solar Energy</a></li><li><a href="/en/markets/military-aerospace.html">Military and Aerospace</a></li><li><a href="/en/markets/internet-of-things.html">Internet of Things</a></li><li><a href="/en/markets/essential-analog-ics.html">Essential Analog ICs</a></li><li><a href="/en/markets/all-markets.html">All Markets</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Design <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/design/overview.html">Overview</a></li><li><a href="/en/design/technical-documents.html">Technical Documents</a></li><li><a href="/en/design/reference-design-center.html">Reference Designs</a></li><li><a href="/en/design/design-tools.html">Design Tools</a></li><li><a href="/en/design/packaging.html">Packaging</a></li><li><a href="/en/design/cross-reference-search.html">Cross-Reference Search</a></li><li><a href="/en/design/technical-training.html">Technical Training</a></li><li><a href="/en/design/partners-and-technology.html">Partners and Technology</a></li><li><a href="/en/design/videos.html">Videos</a></li><li><a href="/en/design/blog.html">mgineer Blog</a></li><li><a href="/en/design/customer-testimonials.html">Customer Testimonials</a></li></ul></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle " data-toggle="dropdown">Support <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="https://maximsupport.microsoftcrmportals.com/en-US/support-center/">Support Portal</a></li><li><a href="/en/support/qa-reliability.html">QA and Reliability</a></li><li><a href="/en/support/emmi.html">Environmental</a></li><li><a href="https://maximsupport.microsoftcrmportals.com/en-US/knowledgebase/">Knowledge Base Search</a></li></ul></li><li class="dropdown"><li><a href="/en/storefront.html" class="uppercase dropdown-toggle ">Order</a></li></li><li class="dropdown"><a href="#" class="uppercase dropdown-toggle  toggleon" data-toggle="dropdown">About Us <b class="caret"></b></a><ul class="dropdown-menu"><li><a href="/en/aboutus/maxim-profile.html">Maxim Profile</a></li><li><a href="http://investor.maximintegrated.com/home/default.aspx">Investor Relations</a></li><li><a href="/en/aboutus/careers.html">Careers</a></li><li><a href="/en/aboutus/newsroom.html">Newsroom</a></li><li><a href="/en/aboutus/events.html">Events</a></li><li><a href="/en/aboutus/worldwide-locations.html">Worldwide Locations</a></li><li><a href="/en/aboutus/leadership.html">Leadership</a></li><li><a href="http://www.maximventures.com">Maxim Ventures</a></li><li><a href="/en/aboutus/maxim-corporate-policies.html">Corporate Policies</a></li><li><a href="http://investor.maximintegrated.com/corporate-responsibility/default.aspx">Corporate Responsibility</a></li><li><a href="/en/aboutus/contact-us.html">Contact Us</a></li><li><a href="/en/aboutus/legal.html" class="navon">Legal</a></li></ul></li>');
     $(function(){
 		$('#mobile-target').before(mobileMenu);
 		setTimeout(function (){
@@ -600,10 +614,10 @@ Power</a>
 <a href="/en/products/power/linear-regulators.html"><div class="leftnav-tertiary">Linear Regulators</div></a>
 <a href="/en/products/power/led-drivers.html"><div class="leftnav-tertiary">LED Drivers</div></a>
 <a href="/en/products/power/motor-driver-ics.html"><div class="leftnav-tertiary">Motor Driver ICs</div></a>
-<a href="/en/products/power/protection-control.html"><div class="leftnav-tertiary">Protection and Control</div></a>
-<a href="/en/products/power/display-power-control.html"><div class="leftnav-tertiary">Display Power and Control</div></a>
+<a href="/en/products/power/protection-control.html"><div class="leftnav-tertiary">Power Protection and Control</div></a>
+<a href="/en/products/power/display-power-control.html"><div class="leftnav-tertiary">Display Control and Power</div></a>
 <a href="/en/products/power/supervisors-voltage-monitors-sequencers.html"><div class="leftnav-tertiary">Voltage Supervisors, Voltage Monitors, and Sequencers</div></a>
-<a href="/en/products/power/power-management-ics.html"><div class="leftnav-tertiary">PMICs</div></a>
+<a href="/en/products/power/power-management-ics.html"><div class="leftnav-tertiary">Power Management ICs (PMICs)</div></a>
 <a href="/en/products/power/power-over-ethernet.html"><div class="leftnav-tertiary">Power Over Ethernet</div></a>
 <a href="/en/products/power/power-modules.html"><div class="leftnav-tertiary">Himalaya Power Modules</div></a>
 </div></div>
@@ -611,8 +625,7 @@ Power</a>
 Sensors</a>
 <div class="terlinks">
 <a href="/en/products/sensors/temperature-sensor-ics.html"><div class="leftnav-tertiary">Temperature Sensor ICs</div></a>
-<a href="/en/products/sensors/optical-sensor-ics.html"><div class="leftnav-tertiary">Optical Sensor ICs</div></a>
-<a href="/en/products/sensors/biopotential-sensors.html"><div class="leftnav-tertiary">Biopotential Sensors</div></a>
+<a href="/en/products/sensors/healthcare-sensor-ics.html"><div class="leftnav-tertiary">Healthcare Sensor ICs</div></a>
 </div></div>
 <div class="left-nav-section"><a href="/en/products/analog.html">
 Analog</a>
@@ -627,13 +640,14 @@ Analog</a>
 <a href="/en/products/analog/real-time-clocks.html"><div class="leftnav-tertiary">Real-Time Clock</div></a>
 <a href="/en/products/analog/clock-generation-distribution.html"><div class="leftnav-tertiary">Clock Generation and Distribution</div></a>
 </div></div>
+
 <div class="left-nav-section"><a href="/en/products/interface.html">
 Interface</a>
 <div class="terlinks">
 <a href="/en/products/interface/transceivers.html"><div class="leftnav-tertiary">Transceivers</div></a>
 <a href="/en/products/interface/io-link-transceivers.html"><div class="leftnav-tertiary">IO-Link and Binary Drivers</div></a>
 <a href="/en/products/interface/controllers-expanders.html"><div class="leftnav-tertiary">Controllers/Expanders</div></a>
- <a href="/en/products/interface/level-translators.html"><div class="leftnav-tertiary">Level Translators</div></a>
+<a href="/en/products/interface/level-translators.html"><div class="leftnav-tertiary">Level Translators</div></a>
 <a href="/en/products/interface/industrial-digital-io.html"><div class="leftnav-tertiary">Industrial Digital I/O Interface ICs</div></a>
 <a href="/en/products/interface/isolation.html"><div class="leftnav-tertiary">Isolation ICs</div></a>
 <a href="/en/products/interface/high-speed-signaling.html"><div class="leftnav-tertiary">High-Speed Signaling</div></a>
@@ -651,7 +665,7 @@ Communications</a>
 <a href="/en/products/comms/wireless-rf.html"><div class="leftnav-tertiary">Wireless and RF</div></a>
 <a href="/en/products/comms/optical-communications.html"><div class="leftnav-tertiary">Optical</div></a>
 <a href="/en/products/comms/powerline-communications.html"><div class="leftnav-tertiary">Powerline Communications (PLC) </div></a>
-</div></div>
+ </div></div>
 <div class="left-nav-section"><a href="/en/products/embedded-security.html">
 Embedded Security</a>
 <div class="terlinks">
@@ -696,7 +710,6 @@ Industrial</a>
 <div class="terlinks">
 <a href="/en/markets/industrial/factory-automation.html"><div class="leftnav-tertiary">Factory Automation</div></a>
 <a href="/en/markets/industrial/sensors-field-instruments.html"><div class="leftnav-tertiary">Sensors and Field Instruments</div></a>
-
 <a href="/en/markets/industrial/building-automation.html"><div class="leftnav-tertiary">Building Automation</div></a>
 <a href="/en/markets/industrial/motor-control.html"><div class="leftnav-tertiary">Motor Control</div></a>
 <a href="/en/markets/industrial/automated-test-equipment.html"><div class="leftnav-tertiary">Automated Test Equipment</div></a>
@@ -705,13 +718,13 @@ Industrial</a>
 <div class="left-nav-section"><a href="/en/markets/automotive.html">
 Automotive</a>
 <div class="terlinks">
+<a href="/en/markets/automotive/power-management.html"><div class="leftnav-tertiary">Power Management</div></a>
 <a href="/en/markets/automotive/adas.html"><div class="leftnav-tertiary">ADAS</div></a>
 <a href="/en/markets/automotive/infotainment.html"><div class="leftnav-tertiary">Infotainment</div></a>
 <a href="/en/markets/automotive/body-electronics.html"><div class="leftnav-tertiary">Body Electronics</div></a>
-<a href="/en/markets/automotive/power-management.html"><div class="leftnav-tertiary">Power Management</div></a>
 <a href="/en/markets/automotive/ev-powertrain.html"><div class="leftnav-tertiary">EV Powertrain</div></a>
 <a href="/en/markets/automotive/automotive-iot.html"><div class="leftnav-tertiary">Automotive IoT</div></a>
-<a href="/en/markets/automotive/lighting.html"><div class="leftnav-tertiary">Lighting</div></a>
+<a href="/en/markets/automotive/lighting.html"><div class="leftnav-tertiary">Automotive LED Lighting</div></a>
 </div></div>
 <div class="left-nav-section"><a href="/en/markets/healthcare.html">
 Healthcare</a>
@@ -749,7 +762,7 @@ Solar Energy</a>
 <a href="/en/markets/solar-energy/solar-cell-optimizers.html"><div class="leftnav-tertiary">Solar Cell Optimizer Technology</div></a>
 </div></div>
 <div class="left-nav-section"><a href="/en/markets/military-aerospace.html">
-Military and Aerospace ICs</a>
+Military and Aerospace</a>
 <div class="terlinks">
 <a href="/en/markets/military-aerospace/obsolescence-mitigation-program.html"><div class="leftnav-tertiary">Obsolescence Mitigation (OM) Program</div></a>
 <a href="/en/markets/military-aerospace/lead-finish-cots-parts.html"><div class="leftnav-tertiary">Lead (SnPb) Finish for COTS Parts</div></a>
@@ -762,6 +775,14 @@ Military and Aerospace ICs</a>
 Internet of Things</a>
 <div class="terlinks">
 <a href="/en/markets/internet-of-things/iot-platform.html"><div class="leftnav-tertiary">IoT Platform</div></a>
+</div></div>
+<div class="left-nav-section"><a href="/en/markets/essential-analog-ics.html">
+Essential Analog ICs</a>
+<div class="terlinks">
+<a href="/en/markets/essential-analog-ics/rugged-connectivity.html"><div class="leftnav-tertiary">Rugged Connectivity</div></a>
+<a href="/en/markets/essential-analog-ics/reliable-protection.html"><div class="leftnav-tertiary">Reliable Protection</div></a>
+<a href="/en/markets/essential-analog-ics/precision-measurement.html"><div class="leftnav-tertiary">Precision Measurement</div></a>
+<a href="/en/markets/essential-analog-ics/efficient-power.html"><div class="leftnav-tertiary">Efficient Power</div></a>
 </div></div>
 <a href="/en/markets/all-markets.html"><div class="left-nav-section-link ">All Markets</div></a>
 </div>
@@ -792,7 +813,7 @@ Design
 </div>
 
 <div class="accordion-group">
- <div class="accordion-heading">
+<div class="accordion-heading">
 <a class="accordion-toggle leftnav-primary  collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse4">
 Support
 </a>
@@ -818,7 +839,7 @@ Support
 <a class="accordion-toggle leftnav-primary  toggleon collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapse5">
 About Us
 </a>
-</div>
+ </div>
 <div id="collapse5" class="accordion-body collapse" style="height: 316px;">
 <div class="accordion-inner">
 <a href="/en/aboutus/maxim-profile.html"><div class="left-nav-section-link ">Maxim Profile</div></a>
@@ -872,9 +893,11 @@ Website Privacy Policy
 <div id="ib6info" class="ibdropdown">
 <div class="iblink"><a href="/en/aboutus/legal/terms-conditions.html">Terms and Conditions</a></div>
 <div class="iblink">Website Privacy Policy</div>
-<div class="iblink"><a href="/en/aboutus/legal/export-control-statement.html">Maxim&amp;#x27;s Export Control Statement</a></div>
+<div class="iblink"><a href="/en/aboutus/legal/export-control-statement.html">Export Control Statement</a></div>
 <div class="iblink"><a href="https://www.maximintegrated.com/en/legal/trademarks.cfm">Trademarks</a></div>
 <div class="iblink"><a href="/en/aboutus/legal/patents.html">U.S. Patent Information</a></div>
+<div class="iblink"><a href="/en/aboutus/legal/copyrights.html">Copyrights</a></div>
+<div class="iblink"><a href="/en/aboutus/legal/sla.html">Software License Agreements</a></div>
 </div>
 <script>
              $(document).ready(
@@ -918,6 +941,8 @@ Website Privacy Policy
 <a href="#contact-us">How to Contact Us</a></p>
 </div>
 </div>
+</div>
+<div class="mytext"><p><b>Download the Privacy Policy:</b> <a adhocenable="false" href="/content/dam/files/aboutus/company/legal/pdfs/privacy-policy-content-only.html_FR.pdf">French</a> (PDF) | <a adhocenable="false" href="/content/dam/files/aboutus/company/legal/pdfs/privacy-policy-content-only.html_DE.pdf">German</a> (PDF) | <a adhocenable="false" href="/content/dam/files/aboutus/company/legal/pdfs/privacy-policy-content-only.html_IT.pdf">Italian</a> (PDF)</p>
 </div>
 <div class="mytext"><h2><a name="who-we-are" id="who-we-are"></a>Who We Are</h2>
 <p>Maxim Integrated Products, Inc. is made up of different legal entities, details of which can be found <a href="https://investor.maximintegrated.com/financial-information/default.aspx?section=secfilings" target="_blank">here</a> (collectively the "Maxim Group"). This Policy is issued on behalf of the Maxim Group so when we mention, "Maxim", "we", "us" or "our" in this Statement, we are referring to the relevant company in the Maxim Group. Maxim Integrated Products, Inc. ("Maxim") is the Data Controller. This means that Maxim decides how your personal data is processed and for what purposes.</p>
@@ -1236,7 +1261,9 @@ Email: <a href="mailto:dataprivacy@maximintegrated.com">dataprivacy@maximintegra
 Address: Maxim Integrated Products, Inc.<br>
 160 Rio Robles<br>
 San Jose, CA 95134</p>
-<p>EU Data Privacy Officer: <a href="mailto:Harry.marsden@maximintegrated.com">Harry.marsden@maximintegrated.com</a></p>
+<p>Europe, Middle East &amp; Africa, Data Privacy Officer: <a href="mailto:Harry.Marsden@maximintegrated.com">Harry.Marsden@maximintegrated.com</a><br>
+Americas, Data Privacy Officer: <a href="mailto:Wendy.SovakSmith@maximintegrated.com">Wendy.SovakSmith@maximintegrated.com</a><br>
+Asia Pacific, Data Privacy Officer: <a href="mailto:Marc.Salarda@maximintegrated.com">Marc.Salarda@maximintegrated.com</a></p>
 <p>The Policy was last updated in May 2018.</p>
 </div>
 </div>
@@ -1291,11 +1318,14 @@ San Jose, CA 95134</p>
         }
     });
 </script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MZP5NM8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
 <style type="text/css">
 .nobr br {
    display:none
 }
-
 </style>
 <div id="footer_bottom_anchor"></div>
 <noindex>
@@ -1351,7 +1381,7 @@ Share</h4>
 <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/print_icon.svg"><!-- <![endif]-->
 <div class="share-text">Print</div>
 </div></a>
-<a href="javascript:void(0)"><div class="sharemodule">
+ <a href="javascript:void(0)"><div class="sharemodule">
 <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/email_icon.png" /><![endif]-->
 <!--[if gt IE 8]><img src="/etc/designs/maximintegrated/_images/icons/email_icon.svg" /><![endif]-->
 <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/email_icon.svg"><!-- <![endif]-->
@@ -1395,7 +1425,7 @@ Share</h4>
 <!--[if !IE]> --><img src="/etc/designs/maximintegrated/_images/icons/blogger_icon.svg"><!-- <![endif]-->
 <div class="share-text">Blogger</div>
 </div></a>
- </div>
+</div>
 <div class="col-sm-4">
 <a href="javascript:void(0)"><div class="sharemodule">
 <!--[if lte IE 8]><img src="/etc/designs/maximintegrated/_images/icons/digg_icon.png" /><![endif]-->
@@ -1607,7 +1637,7 @@ Share</h4>
 					bootbox.alert('System error occured. Contact customer support  for assistance.');
 				} else{
 					try{
-						if (data === undefined || data === null) {
+						if (!data) {
 							cartJson = {};	
 						}else {
 							cartJson = jQuery.parseJSON(data);
@@ -1860,9 +1890,13 @@ Share</h4>
                     });
         }
 
-
-
-
+$(window).load(function () {
+    if (window.location.href.indexOf('#mycart') != -1) {
+        setTimeout(function () {
+            mycart_widget();
+        }, 400)
+    }
+});
 </script>
 
 <div class="modal fade" id="bookmarksModal" tabindex="-1" role="dialog" aria-labelledby="bookmarksModalLabel" aria-hidden="true">
@@ -2585,7 +2619,7 @@ Thank You for interest in Maxim Integrated. Our free samples program limits the 
                                                           
                                                           var servletName = "/bin/SFComponent";
                                            document.cookie="mySearchServlet="+window.location+";domain=.maximintegrated.com;path=/";              
-                          var url = servletName+"?input=single&query=" + encodeURIComponent(part_no)+"&userType="+userType;
+                var url = servletName + "?input=single&query=" + encodeURIComponent(part_no);
                 $.ajax({
                     url: url,
                     dataType: "json",
@@ -2601,6 +2635,11 @@ Thank You for interest in Maxim Integrated. Our free samples program limits the 
                                                                                                     digitalErrorFunction('System error occured. Contact customer support  for assistance.');
                                       bootbox.alert('System error occured. Contact customer support  for assistance.');
                         } else if(result != "") {
+								if(result.errors != undefined && result.errors[0].message) {
+									document.cookie="mySearchServlet="+window.location+";domain=.maximintegrated.com;path=/";
+									digitalErrorFunction('System error occured. Contact customer support  for assistance.');
+									bootbox.alert('System error occured. Contact customer support  for assistance.');
+							}else {
                                                                                       document.cookie="mySearchServlet="+window.location+";domain=.maximintegrated.com;path=/";              
                                       var sampleJson = result;
                             sampleJson['userType'] = userType;
@@ -2750,11 +2789,11 @@ Thank You for interest in Maxim Integrated. Our free samples program limits the 
                                                                                                                    $('#inventoryDetails').addClass('col-sm-12');
                                                                                                                    $('#inventoryDetails').css('padding-left', '55px');
                                                                                                                    $('#inventoryDetails').css('padding-right', '55px');
-                                                                                                                   $("#sotPartswithnostock").html('We are sorry, but unfortunately there is no inventory to support this request. We only sell this part when we have finished product available because this package type comes off of our testers on 2.5K reels. When we have excess left over, we sell this part number on strips in qtys <2.5K until that stock is no longer available, which is currently the case. Please change your order to the tape & reel part number if you would like to order this device from Maxim or check with our distribution partners in your region for smaller quantities.');
+                                                                                                                   $("#sotPartswithnostock").html('Unfortunately there is no inventory to support this request. We only sell this type of product when we have excess inventory available because this package type comes off of our testers in reels. When we have excess inventory from a lot that completes final test, we can sell this product on cut tape strips in quantities less than reel size until it is sold out, which is currently the case. Please change your order to the tape & reel part number (usually ending in +T or +T&R) if you would like to order this product or check with our <a href="/en/aboutus/contact-us/distributor-offices.html">distribution partners</a> in your region for smaller quantities.');
                                                                                                                    
                                                                                                      }
                                                                                                      
-                                                                                                     
+						}                                                           
                         } else {
                             document.getElementById('buyParams').innerHTML = "Default";
                             digitalErrorFunction('System error occured.  customer support for assistance.');
@@ -2810,12 +2849,12 @@ Thank You for interest in Maxim Integrated. Our free samples program limits the 
                 var isSampleOrderAllowed = "true";
                 var sampleMessage = "";
                 var data = "userId="+userId;
-      
-                $.ajax({
-                    type: "post",
-                    url: '/bin/validateSampleOrder',
-                    async: false,
-                    data: data,
+
+                        $.ajax({
+                            type: "post",
+                            url: '/bin/validateSampleOrder',
+                            async: false,
+                            data: data,
                     success: function(msg) {
                         if(msg.error == "genericerrorText"){
                              digitalErrorFunction('System error occured. Contact customer support  for assistance.');
@@ -2827,12 +2866,12 @@ Thank You for interest in Maxim Integrated. Our free samples program limits the 
                                     CQ.shared.Util.load("\x2Fbin\x2FLogoutServlet\x3Flanguage\x3Den"+"&authorizableId="+authorizableId);
                                     window.location="/en/mymaxim/login.html";
                                                                                                                    });
-                                                                                                                   
+
                                                                                                      } else {
                                                                                                                    digitalErrorFunction(msg.message);
                                                                                                                    bootbox.alert(msg.message);
                                                                                                      }
-                                                                                      }else{
+                                } else {
                             isSampleOrderAllowed = msg.output.validateEmailDomain.isOrderAllowed;
                             sampleMessage = msg.output.validateEmailDomain.message; 
                                                                                                      var itemCount = msg.output.validateEmailDomain.itemCount;
@@ -2841,14 +2880,14 @@ Thank You for interest in Maxim Integrated. Our free samples program limits the 
                             if(localStorage.getItem(part_no) == 1) {
                                 mycart_widget("sample", function(status){
                                                          if(status && typeof _satellite != "undefined") _satellite.track("cart: add");
-                                });
+                        });
                                 return false;
-                            } else {
+                    } else {
                                 sampleAddToCart(isSampleOrderAllowed, sampQty, part_no, sampleMessage,itemCount,orderCount);
 
-                            }
+                    }
         
-                        }
+                }
                     }
                 });
 
@@ -2964,7 +3003,7 @@ function getDistrbutorInventoryData(partNumber) {
                 var small_template = Handlebars.compile($("#buyModalBody").html());
                                            document.cookie="mySearchServlet="+window.location+";domain=.maximintegrated.com;path=/";              
                                                           var servletName = "/bin/SFComponent";
-                          var url = servletName+"?input=single&query=" + encodeURIComponent(part_no)+"&userType="+userType;
+            var url = servletName + "?input=single&query=" + encodeURIComponent(part_no);
                 $.ajax({
                     url: url,
                     dataType: "json",
@@ -2979,6 +3018,11 @@ function getDistrbutorInventoryData(partNumber) {
                                                                                                     digitalErrorFunction('System error occured. Contact customer support  for assistance.');
                                       bootbox.alert('System error occured. Contact customer support  for assistance.');
                         }else if (result != "") {
+								if(result.errors != undefined && result.errors[0].message) {
+									document.cookie="mySearchServlet="+window.location+";domain=.maximintegrated.com;path=/";
+									digitalErrorFunction('System error occured. Contact customer support  for assistance.');
+									bootbox.alert('System error occured. Contact customer support  for assistance.');
+							}else {
                                                                                       document.cookie="mySearchServlet="+window.location+";domain=.maximintegrated.com;path=/";              
                                       var sampleJson = result;
                             var vol = sampleJson.volumePrices;
@@ -3027,7 +3071,8 @@ function getDistrbutorInventoryData(partNumber) {
                             $('#addToCart').html(small_template(sampleJson));
                             if(userType != "DISTRIBUTOR") {
                                 call(quantity); 
-                            }                                                                                                                  
+                            }  
+						}
                         } else {
                             document.getElementById('buyParams').innerHTML = "Default";
                             digitalErrorFunction('System error occured.  customer support for assistance.');
@@ -3079,12 +3124,12 @@ function getDistrbutorInventoryData(partNumber) {
                         sampleMessage = msg.output.validateEmailDomain.message;  
                                                                                       var itemCount = msg.output.validateEmailDomain.itemCount;
                                                                                       var orderCount = msg.output.validateEmailDomain.orderCount;                                                                           
-                        if(localStorage.getItem(part_no) == 1) {
-                            mycart_widget("sample", function(status){
-                                           if(status && typeof _satellite != "undefined") _satellite.track("cart: add");
-                            });
-                            return false;
-                        } else {
+            if (localStorage.getItem(part_no) == 1) {
+                mycart_widget("sample", function (status) {
+                    if (status && typeof _satellite != "undefined") _satellite.track("cart: add");
+                });
+                return false;
+            } else {
                             sampleAddToCart(isSampleOrderAllowed, sampQty, part_no, sampleMessage,itemCount,orderCount);
 
                         }
@@ -3105,47 +3150,47 @@ function getDistrbutorInventoryData(partNumber) {
                                                           return;
                                            } else{
                                                           //var qty = document.getElementById('product-quantity').value;
-            if(sampQty>=1 || userType == "DISTRIBUTOR" || userType == "EMPLOYEE"){
+                if (sampQty >= 1 || userType == "DISTRIBUTOR" || userType == "EMPLOYEE") {
                 var qty = 1; //taking qty fixed as 5 for sample
                 var data = "input=addtocart&qty=" + qty + "&part_no=" + encodeURIComponent(part_no) + "&CartType=sampleCart&sampleQty="+sampQty+"&usertype="+userType;
-                $.ajax({
-                    type: "post",
+                    $.ajax({
+                        type: "post",
                     url: '/bin/cartOperations',
-                    async:false,
-                    data: data,
-                    success: function(msg, textStatus, jqXHR) {
-                        if (textStatus == "success") {
-                            if(msg=="false"){
-                            digitalErrorFunction('Maximum quantity exceeded. Please lower the quantity to proceed.');
-                                bootbox.alert('Maximum quantity exceeded. Please lower the quantity to proceed.');
-                                return false;
-                            }else if(msg.match("^You") || msg.match("^Product")){
-                                bootbox.confirm('Your session expired. Please login and try again.', function(result) {
-                                    var authorizableId = CQ_Analytics.PersonalInfoStoreMgr.getProperty("authorizableId");
-                                    CQ.shared.Util.load("\x2Fbin\x2FLogoutServlet\x3Flanguage\x3Den"+"&authorizableId="+authorizableId);
-                                    window.location="/en/mymaxim/login.html";
-                                });
-                            }else if(msg.match("^No orderable unit")){
-                            digitalErrorFunction(msg);
-                                                                                                                   bootbox.alert(msg);
-                                                                                                     }else{
-                                localStorage.setItem(part_no, "1");
-                                mycart_widget("sample", function(status){
-                                                         if(status && typeof _satellite != "undefined") _satellite.track("cart: add");
-                                });
-                            }
-                        } else {
-                             digitalErrorFunction('System error occured. Contact  customer support for assistance.'+ JSON.stringify(msg));
-                            bootbox.alert('System error occured. Contact  customer support for assistance.'+ JSON.stringify(msg));
+                        async: false,
+                        data: data,
+                        success: function (msg, textStatus, jqXHR) {
+                            if (textStatus == "success") {
+                                    if (msg == "false") {
+                                        digitalErrorFunction('Maximum quantity exceeded. Please lower the quantity to proceed.');
+                                        bootbox.alert('Maximum quantity exceeded. Please lower the quantity to proceed.');
+                                        return false;
+                                    } else if (msg.match("^You") || msg.match("^Product")) {
+                                        bootbox.confirm('Your session expired. Please login and try again.', function (result) {
+                                            var authorizableId = CQ_Analytics.PersonalInfoStoreMgr.getProperty("authorizableId");
+                                            CQ.shared.Util.load("\x2Fbin\x2FLogoutServlet\x3Flanguage\x3Den" + "&authorizableId=" + authorizableId);
+                                            window.location = "/en/mymaxim/login.html";
+                                        });
+                                    } else if (msg.match("^No orderable unit")) {
+                                        digitalErrorFunction(msg);
+                                        bootbox.alert(msg);
+                                    } else {
+                                        localStorage.setItem(part_no, "1");
+                                        mycart_widget("sample", function (status) {
+                                            if (status && typeof _satellite != "undefined") _satellite.track("cart: add");
+                                        });
+                                    }
+                                } else {
+                                digitalErrorFunction('System error occured. Contact  customer support for assistance.' + JSON.stringify(msg));
+                                bootbox.alert('System error occured. Contact  customer support for assistance.' + JSON.stringify(msg));
                         }
-                    }
-                });
-            }else{
-              digitalErrorFunction('Not enough quantity available for samples, the max quantity available for sample is'+ sampQty);
-                bootbox.alert('Not enough quantity available for samples, the max quantity available for sample is'+ sampQty);
-            }
+                        }
+                    });
+                } else {
+                    digitalErrorFunction('Not enough quantity available for samples, the max quantity available for sample is' + sampQty);
+                    bootbox.alert('Not enough quantity available for samples, the max quantity available for sample is' + sampQty);
+                }
                                                           
-                                           }
+            }
                                                           
                                            } else {
             if(sampleMessage =='SAMPLEEMAILDENIAL'){
@@ -3154,10 +3199,10 @@ function getDistrbutorInventoryData(partNumber) {
       
             } else{
                 $('#domainerrordialog').modal('show');
-            }
+        }
     
             //bootbox.alert(sampleMessage);
-        } 
+    }
     }
     $(document).on("click", ".useThisBuyQuote", function () {
                              var quantity = "";
@@ -3307,8 +3352,8 @@ function getDistrbutorInventoryData(partNumber) {
                              // Bulk SOT Check
         if(cfValue == 'true' && carrierTypeValue == 'Tape'){
             if(parseInt(stockAvaliability) == 0){
-              digitalErrorFunction('We are sorry, but unfortunately there is no inventory to support this request. We only sell this part when we have finished product available because this package type comes off of our testers on 2.5K reels. When we have excess left over, we sell this part number on strips in qtys <2.5K until that stock is no longer available, which is currently the case. Please change your order to the tape & reel part number if you would like to order this device from Maxim or check with our distribution partners in your region for smaller quantities.');
-                bootbox.alert('We are sorry, but unfortunately there is no inventory to support this request. We only sell this part when we have finished product available because this package type comes off of our testers on 2.5K reels. When we have excess left over, we sell this part number on strips in qtys <2.5K until that stock is no longer available, which is currently the case. Please change your order to the tape & reel part number if you would like to order this device from Maxim or check with our distribution partners in your region for smaller quantities.');
+              digitalErrorFunction('Unfortunately there is no inventory to support this request. We only sell this type of product when we have excess inventory available because this package type comes off of our testers in reels. When we have excess inventory from a lot that completes final test, we can sell this product on cut tape strips in quantities less than reel size until it is sold out, which is currently the case. Please change your order to the tape & reel part number (usually ending in +T or +T&R) if you would like to order this product or check with our <a href="/en/aboutus/contact-us/distributor-offices.html">distribution partners</a> in your region for smaller quantities.');
+                bootbox.alert('Unfortunately there is no inventory to support this request. We only sell this type of product when we have excess inventory available because this package type comes off of our testers in reels. When we have excess inventory from a lot that completes final test, we can sell this product on cut tape strips in quantities less than reel size until it is sold out, which is currently the case. Please change your order to the tape & reel part number (usually ending in +T or +T&R) if you would like to order this product or check with our <a href="/en/aboutus/contact-us/distributor-offices.html">distribution partners</a> in your region for smaller quantities.');
                 return false;
                                                                         
             }
@@ -3392,7 +3437,10 @@ function getDistrbutorInventoryData(partNumber) {
                                                                                                                    digitalErrorFunction(msg);
                                                                                                                    bootbox.alert(msg);
                                 return false;
-                                                                                                     } else if(msg==""){
+                                                                                                     }else if(msg.match("^zeroInventoryErrorMsg")){
+                                                                                                                   digitalErrorFunction('Unfortunately there is no inventory to support this request. We only sell this type of product when we have excess inventory available because this package type comes off of our testers in reels. When we have excess inventory from a lot that completes final test, we can sell this product on cut tape strips in quantities less than reel size until it is sold out, which is currently the case. Please change your order to the tape & reel part number (usually ending in +T or +T&R) if you would like to order this product or check with our <a href="/en/aboutus/contact-us/distributor-offices.html">distribution partners</a> in your region for smaller quantities.');
+                                                                                                                   bootbox.alert('Unfortunately there is no inventory to support this request. We only sell this type of product when we have excess inventory available because this package type comes off of our testers in reels. When we have excess inventory from a lot that completes final test, we can sell this product on cut tape strips in quantities less than reel size until it is sold out, which is currently the case. Please change your order to the tape & reel part number (usually ending in +T or +T&R) if you would like to order this product or check with our <a href="/en/aboutus/contact-us/distributor-offices.html">distribution partners</a> in your region for smaller quantities.');
+                                                                                                      }else if(msg==""){
                                                                                                                    digitalErrorFunction('System error occured. Contact customer support for assistance.');
                                 bootbox.alert('System error occured. Contact customer support for assistance.');
                                 return false;
@@ -4529,7 +4577,7 @@ Request Company Account</h4>
 
 </select>
 <form id="search-form" action="/en/sitesearch.external.html" method="POST">
-<img id="search-input-icon" src="/etc/designs/maximintegrated/_img/search-icon.png">
+ <img id="search-input-icon" src="/etc/designs/maximintegrated/_img/search-icon.png">
 <input id="search-bar-modal" type="text" name="sp_q" size="100" value="" class="form-control" placeholder="Search Maximintegrated.com" autocomplete="off">
 <div id="autocomplete-searchbar-modal" class="smaller autocomplete-container">
 <div id="autocomplete-recent-searches">
@@ -4637,14 +4685,6 @@ Request Company Account</h4>
 
 </script>
 <script type="text/javascript">
-	BOOMR_config = {
-		autorun: false,
-		CrossDomain: {
-			sending: true
-		}
-	};
-	</script>
-<script type="text/javascript">
 	if(typeof _satellite != "undefined"){
 		_satellite.pageBottom();
 	}	
@@ -4666,18 +4706,18 @@ Request Company Account</h4>
       var LiveChatPriorityCustomer = false;
       var distributorUserType = false;
       var maximEmployeeUserType = false;
-      
+
 	  // alert("LiveChatPriorityCustomer : "+LiveChatPriorityCustomer+" : maximEmployeeUserType : "+maximEmployeeUserType+" : distributorUserType :"+distributorUserType+" : memberId :"+memberId);
       //console.log("pageSection : "+''+" : language : "+'english'+" : LiveChatPriorityCustomer : "+LiveChatPriorityCustomer+" : maximEmployeeUserType : "+maximEmployeeUserType+" : distributorUserType :"+distributorUserType+" : memberId :"+memberId);
 
     var lpTag = lpTag || {}; lpTag.vars = lpTag.vars  || []; lpTag.dbs = lpTag.dbs || [];
     lpTag.section = 'maxim';
-	
+
 	//Modifications as part of integration of Test LE2 account
 	lpTag.sdes = lpTag.sdes||[];
 	var email = CQ_Analytics.PersonalInfoStoreMgr.getProperty("email");
 	var auth;
-	
+
       if(userType.toUpperCase() == "DISTRIBUTOR"){
           distributorUserType = true;
       } else {
@@ -4701,7 +4741,7 @@ Request Company Account</h4>
         { scope:'visitor', name:'MemberCenter_id', value:memberId },
         { scope:'session', name:'CartTotal', value:sessionStorage['carttotal'] }
     ];
-	
+
 
 	$.ajax({
 		url : "/bin/turnoff_cafex_info",
@@ -4711,10 +4751,13 @@ Request Company Account</h4>
 		},
 		success : function(myresponse) {
 			console.log(myresponse);
-			
-			if(myresponse.returnCodes==="ENABLED" && typeof email !== "undefined" && email!=null && email!=="anonymous" && email.length > 0 && userType!="EMPLOYEE"){
+
+			if(myresponse.returnCodes==="ENABLED" && typeof email !== "undefined" && email!=null && email!=="anonymous" && email.length > 0 && userType!="EMPLOYEE")
+            {
+
 				lpTag.vars.push(arrLPvars);
-				
+				if((sessionStorage.getItem('tokenValue'))===null)
+                {
 				$.ajax({
 					url : "/bin/cafexauth",
 					type: "POST",
@@ -4725,9 +4768,9 @@ Request Company Account</h4>
 						//alert("Dynamic Authentication Token Generation Error Occured");
 					//},
 					success : function(myresponse) {
-						console.log(myresponse);
-
 						if(myresponse.UserInfo!="No" && myresponse.token!="TOKEN_NOT_GENERATED"){
+						console.log(myresponse);
+                     	sessionStorage.setItem('tokenValue', myresponse.token);
 							lpTag.sdes.push(
 							{
 								"type": "ctmrinfo",
@@ -4737,9 +4780,9 @@ Request Company Account</h4>
 								   "cstatus": "authenticated",
 								}
 							});
-							
+
 							console.log("cstatus - authenticated");
-							
+
 							auth = (function (){
 								return {
 									getAuthenticationToken: function (callback)
@@ -4776,9 +4819,11 @@ Request Company Account</h4>
 						}
 					}
 				});
-	
+
+                }
+
 			} else {
-				
+
 				lpTag.sdes.push(
 				{
 					"type": "ctmrinfo",
@@ -4788,15 +4833,22 @@ Request Company Account</h4>
 					"cstatus": "unauthenticated",
 					}
 				});      
-				
+
 				console.log("cstatus - unauthenticated");				
-				
+
 			}
 		}
 	});	
-//alert('Array :'+JSON.stringify(arrLPvars));
-    
+//alert('Array :'+JSON.stringify(arrLPvars)
+	  document.body.onclick= function(e){
+		  $('.lp_maximized').click(function(){
+			  $('.modal.fade.in').removeAttr("tabindex");
+		  });
 
+		  $('.LPMcontainer ').click(function(){
+			  $('.modal.fade.in').removeAttr("tabindex");
+		  });
+	  }
 
   </script>
 
