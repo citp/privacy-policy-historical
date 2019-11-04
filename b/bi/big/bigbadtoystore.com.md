@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bigbadtoystore.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330094256id_/https%3A//www.bigbadtoystore.com/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbadtoystore.com privacy policy that was archived on 2019-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191104085351id_/https%3A//www.bigbadtoystore.com/Help/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  1. [BBTS Help Center](https://web.archive.org/web/20190330094256id_/https%3A//www.bigbadtoystore.com/Help/index)
+  1. [BBTS Help Center](https://web.archive.org/web/20191104085351id_/https%3A//www.bigbadtoystore.com/Help/index)
   2. Privacy Policy
 
 
