@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casebookconnect.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629193116id_/https%3A//lrus.wolterskluwer.com/policies/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casebookconnect.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105190211id_/https%3A//lrus.wolterskluwer.com/policies/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Wolters Kluwer Legal & Regulatory
 
