@@ -1,75 +1,100 @@
-> *The following text is extracted and transformed from the nessy.com privacy policy that was archived on 2012-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120922045540id_/http%3A//www.nessy.com/%3Fpage_id%3D228) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nessy.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105063312id_/https%3A//www.nessy.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nessy
+# Nessy - Privacy Policy
 
-**e-Safety**
+### Scope of this Privacy Policy
 
-Nessy is committed to maintaining a high level of online safety for children, parents and teachers. Nessy has no links to third party websites. We do not allow third-party companies to solicit or advertise to our users. Our intention is to keep Nessy free from any advertising of any sort.
+This Privacy Policy applies to all Nessy brands, products, and services. It describes what information we collect and how it is used and shared. Our online services (which we refer to as the “Nessy Platform”) are available through the nessy.com and learn.nessy.com websites. Our tablet and smartphone apps (which we refer to as the “Nessy Apps”) are available to purchase and download through the Apple App Store, Google Play Store and the Amazon App Store.
 
-Please help ensure that children have a safe and rewarding online experience by encouraging responsible information practices. To keep your child’s account safe, write their monkey name somewhere secret, and don’t tell anyone else these login details.
+This Privacy Policy applies only to information collected through the Nessy Platform and Nessy Apps and held in digital format. This Privacy Policy does not apply to information collected and stored offline.
 
-**The security of personal information**
+### Online Safety
 
-The secrecy of your personal information is important to Nessy. Any information you provide will be held securely and in accordance with the Data Protection Act 1998. All of the data collected, including usernames, passwords and any test results achieved, is stored on secure servers. Nessy will not sell or rent any of your personal information. We ask you to provide your email and telephone number solely to assist in coordinating and confirming your access to your Nessy online adventure (called a “Nessy Subscription” for short),
+Nessy Learning is committed to maintaining a high level of online safety for children, parents and teachers. Nessy Learning does not allow third-party companies to advertise through the Nessy Platform or Nessy Apps, and we are fully committed to keeping the Nessy Platform and Nessy Apps free from advertising.
 
-**What information do we collect?**
+Nessy Learning provides, completely free of charge, a safe web browser (which we refer to as the “Nessy Browser”) that can be downloaded from the nessy.com website and used to access the Nessy Platform. The Nessy Browser allows children (which we refer to as “students”) to access the full Nessy Platform whilst preventing them from accessing any content or websites other than those that are provided through the Nessy Platform.
 
-We collect information from you when you register on for a Nessy account, place an order, enter a contest, respond to a survey or communication such as e-mail, or participate in another Nessy.com feature.
+Please help ensure that students have a safe and rewarding online experience by encouraging responsible information practices. Several enhanced security features can be accessed and managed through the password protected Admin & Reports portal.
 
-When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously.
+If you are under 13 years you will need your parent’s permission before you can create a nessy.com account.
 
-Like many websites, we use “cookies” to enhance your experience and gather information about visitors and visits to our websites. Please refer to the “Do we use ‘cookies’?” section below for information about cookies and how we use them.
+### What information do we collect?
 
-If you decide to purchase a 1-year subscription to a Nessy Subscription your full name, email address, credit card billing information including mailing address will be required at the time of purchase. That information is not stored by Nessy, but is collected by PayPal for the purpose of processing payments made to Nessy. That information is safeguarded with appropriate security, and is not retained upon completion of the purchase unless you have set up a PayPal account. A PayPay account is not required to make a purchase.
+The security of your personal information is important to Nessy. Any information you provide will be held securely and in accordance with the Data Protection Act 1998 and the General Data Protection Regulation 2018. Nessy will never sell or rent any of your personal information.
 
-**How do we protect visitor information?**
+The Nessy Platform collects personal information from you in the following ways:
 
-We implement a variety of security measures to maintain the safety of your personal information. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorised access, maintain data security, and correctly use the information we collect online. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+  * When you register for a free trial
+  * When you purchase a product or service
+  * When you add a student
+  * When you request support from Nessy’s customer support team
+  * When you log in
+  * When you enter a contest or respond to a survey
+  * When you request any score or results to be emailed to you from a Nessy App
 
-**How do we use your information?**
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other features in the following ways:
 
-To personalise your site experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+Information about a student’s progress through the Nessy Platform is collected whenever they interact with the program. This progress information includes information about reading, spelling, writing, numeracy and typing skills as well as how long they have spent using the platform.
 
-To allow us to better service you in responding to your customer service requests.
+When you use the nessy.com website, we gather anonymous usage statistics via various analytics platforms to enable us to improve our website and offering.
 
-To quickly process your transactions
+### How do we store your information?
 
-To administer a contest, promotion, survey or other site feature.
+We implement a variety of security measures to maintain the safety of your personal information. We have put in place appropriate physical, electronic, and managerial procedures to safeguard your data and prevent unauthorised access or use of the information we collect online.
 
-If you have registered for a free Nessy account we may send you periodic e-mails to inform you of Nessy developments relevant to your account. If you would no longer like to receive e-mail from us, please contact us and we will delete your Nessy account.
+Your personal information is stored on secure databases that are behind secured networks. Direct access to these databases is very strictly limited and controlled. Only a limited number of Nessy employees have access to such systems. All Nessy employees are contractually obligated to respect your information and keep this information confidential and secure.
 
-**Do we use cookies?**
+The Nessy Platform is only accessible via a secure (SSL) connection. Any sensitive information you supply (such as passwords) is stored via an SSL connection to our databases using one-way hashing (an extremely secure method of encryption), meaning nobody can view this sensitive information once it has been saved to the database.
 
-Yes. Nessy Applications require cookies and will not function without them. You will need to ensure your web browser (such as Internet Explorer, Chrome, Safari and Firefox) will accept cookies from www.nessy.com. You do this through your browser settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. The cookies required for the running of your Nessy Subscription are encrypted using plain text and contain no private information.
+### How do we use this information?
 
-Cookies are small files that a website or its service provider transfers to your computer’s hard drive through your web browser that enables the site’s or service provider’s systems to recognise your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart and to know when a player is logged into and using the Nessy Subscription. Cookies are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We may use the information we collect from you in the following ways:
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+  * To personalise your experience on the nessy.com website, allowing us to deliver the type of content and product offerings in which you are most interested
+  * To allow us to better service you in responding to your customer service requests
+  * To facilitate the purchase of Nessy products and services
+  * To allow the renewal of any subscriptions purchased through the nessy.com website
+  * To send you reports via email of student progress through the Nessy Platform
+  * To inform you about updates and improvements to the Nessy Platform including information about new and upcoming applications
+  * To administer a contest, promotion, survey or other site feature
+  * To benchmark the usage of Nessy Apps and improve the features available through them
 
-**How can you opt-out, remove or modify information you have provided to us?**
 
-To modify your e-mail subscriptions, please let us know by emailing info@nessy.co.uk or telephoning 0117 9239777. Please note that due to email production schedules you may receive any emails already in production.
 
-To delete all of your online account information from our database, sign into the My Account section of the website and click on your username. You will then see an option to ‘delete profile’. Deletion of your profile will prevent any future access to the Application. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
+### How is this information shared?
 
-**Changes to our policy**
+We work with third party companies to help provide and improve the Nessy service. Where necessary these companies have been checked to ensure they maintain the same levels of privacy and security that Nessy does.
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on September 1st, 2012.
+As part of helping you get the most effective use of the Nessy platform we may produce a progress report for your account to share with you. One of our Nessy advisors will first read through and analyse this report so they can offer advice on how best to use Nessy to suit your needs.
 
-**Questions and feedback**
+We also work with the academic community to facilitate research into areas surrounding learning difficulties and how best to tackle them. From time to time we will provide totally anonymised user data to a small number of trusted academic researchers to enable this research.
 
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
+### How can you manage or delete information about yourself?
 
-**Online Policy Only**
+To view or modify your account data including any active subscriptions you have for the Nessy Platform, you can log in via the nessy.com website. You can view or modify any student data through the Admin & Reporting portal.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+If you wish to delete your online account and corresponding data from the Nessy Platform, please contact our customer support team via the nessy.com website. Deletion of your account information will prevent any future access to the Nessy Platform. Please note that we may keep some information about individual sales transactions for accounting purposes (this is a legal requirement).
 
-**Terms and Conditions**
+### How to contact Nessy with questions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+We welcome your questions, comments, and concerns about privacy. If you have any questions about this privacy policy or any questions in general about privacy of data on the Nessy platform, please contact our customer support team via the nessy.com website.
 
-**Your consent**
+The data controller responsible for your information is Nessy Learning Ltd, which you can contact online or by post to:
 
-By using Nessy.com, you consent to our privacy policy.
+Nessy Learning Ltd  
+Royal London Buildings  
+42-43 Baldwin Street  
+Bristol  
+BS1 1PN
+
+### Cookie Policy
+
+For information about what cookies we use and why we use them, please see our [cookie policy](https://www.nessy.com/us/cookie-policy).
+
+### Terms and Conditions
+
+Please visit our [Terms and Conditions](https://www.nessy.com/us/terms-and-conditions) section establishing the use, disclaimers, and limitations of liability governing the use of Nessy services and products.
+
+### How will we notify you of changes to this policy?
+
+If we decide to change our privacy policy, we will post those changes on our [privacy policy](https://www.nessy.com/us/privacy-policy) page and display them when you login to the Admin & Reporting portal. Policy changes will apply only to information collected after the date of the change. This policy was last modified on May 8th 2018.
