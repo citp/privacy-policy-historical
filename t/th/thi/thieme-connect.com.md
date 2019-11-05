@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thieme-connect.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529145841id_/https%3A//www.thieme.de/de/thieme-gruppe/privacy-policy-statement-Thieme-EN.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thieme-connect.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105021900id_/https%3A//www.thieme.de/de/thieme-gruppe/privacy-policy-statement-Thieme-EN.htm) for the most accurate reproduction.*
 
 # privacy-policy-statement-Thieme-EN
 
@@ -13,7 +13,7 @@ Rüdigerstraße 14, 70469 Stuttgart
 Deutschland  
 tel. : +49 (0) 711 - 8931-0  
 fax.:  +49 (0) 711 - 8931-298   
-email:kundenservice@thieme.de 
+Internet:[Customer service]()
 
 Die Georg Thieme Verlag KG is controller according to Article 4 No. 7 GDPR (General Data Protection Regulation).
 
@@ -221,7 +221,7 @@ Provided that your personal data are processed based on legitimate interest acco
 
 Should you exercise your right of withdrawal, it is sufficient that you send an email to
 
-[kundenservice@thieme.de](mailto:kundenservice@thieme.de)
+[https://kundenservice.thieme.de](mailto:https://kundenservice.thieme.de)
 
 **Data security**
 
