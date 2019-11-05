@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the seraphine.com privacy policy that was archived on 2019-04-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190411004013id_/https%3A//www.seraphine.com/en-us/privacy-and-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seraphine.com privacy policy that was archived on 2019-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191105161707id_/https%3A//www.seraphine.com/en-us/privacy-and-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" id="top" class="no-js"><!--<![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MGLF8M"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MGLF8M"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
 <title>Privacy and Security | Seraphine US</title>
 <meta name="description" content="Seraphine US guarantees a safe, secure and simple online shopping experience. Review our privacy and security information here for your piece of mind.">
 <meta name="keywords" content="">
 <meta name="robots" content="INDEX,FOLLOW">
-<link rel="icon" href="https://www.seraphine.com/en-us/media/favicon/default/favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="https://www.seraphine.com/en-us/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="icon" href="https://www.seraphine.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.seraphine.com/media/favicon/default/favicon.ico" type="image/x-icon">
 <!--[if lt IE 7]>
 <script type="text/javascript">
 //<![CDATA[
@@ -24,7 +24,7 @@
 <link rel="stylesheet" type="text/css" href="https://www.seraphine.com/en-us/skin/frontend/seraphine/default/css/styles_20170728.css" media="all">
 <link rel="stylesheet" type="text/css" href="https://www.seraphine.com/en-us/skin/frontend/seraphine/default/css/custom_styles.css" media="all">
 <script type="text/javascript" src="https://www.seraphine.com/en-us/js/prototype/prototype.js"></script>
-<script type="text/javascript" src="https://www.seraphine.com/en-us/js/lib/jquery/jquery-1.12.0.min.js"></script>
+<script type="text/javascript" src="https://www.seraphine.com/en-us/js/lib/jquery/jquery-1.12.1.min.js"></script>
 <script type="text/javascript" src="https://www.seraphine.com/en-us/js/lib/jquery/noconflict.js"></script>
 <script type="text/javascript" src="https://www.seraphine.com/en-us/js/lib/ccard.js"></script>
 <script type="text/javascript" src="https://www.seraphine.com/en-us/js/prototype/validation.js"></script>
@@ -43,6 +43,7 @@
 <script type="text/javascript" src="https://www.seraphine.com/en-us/js/google/ga.js"></script>
 <script type="text/javascript" src="https://www.seraphine.com/en-us/js/iwd/all/iwd-jquery-2.1.3.min.js"></script>
 <script type="text/javascript" src="https://www.seraphine.com/en-us/js/iwd/all/modal.js"></script>
+<script type="text/javascript" src="https://www.seraphine.com/en-us/js/realex/validation.js"></script>
 <script type="text/javascript" src="https://www.seraphine.com/en-us/skin/frontend/rwd/default/js/lib/modernizr.custom.min.js"></script>
 <script type="text/javascript" src="https://www.seraphine.com/en-us/skin/frontend/rwd/default/js/lib/selectivizr.js"></script>
 <script type="text/javascript" src="https://www.seraphine.com/en-us/skin/frontend/rwd/default/js/lib/matchMedia.js"></script>
@@ -107,16 +108,6 @@ jQuery(document).ready(function($) {
             document.getElementsByTagName("head")[0].appendChild(sc);},50);
         })();
             </script>
-
-        <style type="text/css" data-photoslurp-css-id="ps_container1">
-                    </style>
-        <style type="text/css" data-photoslurp-css-id="ps_container2">
-                    </style>
-        <style type="text/css" data-photoslurp-css-id="ps_container3">
-                    </style>
-        <style type="text/css" data-photoslurp-css-id="ps_container4">
-                    </style>
-
 <link rel="stylesheet" type="text/css" href="https://www.seraphine.com/en-us/skin/frontend/seraphine/default/css/locale-us.css" media="all">
 
 <meta property="og:type" content="article">
@@ -140,11 +131,35 @@ jQuery(document).ready(function($) {
     -moz-border-radius: 50%;
     border-radius: 50%;
 }
+
+.special-price .price {
+color: #b0002e !important;
+}
 </style>
 
 <!--703213ebdb2d770604f32e63c851c819-->
 
-<meta name="p:domain_verify" content="457e1ffd7ee59bc0e86014a484fa8ca3"><script src="https://cdn.ometria.com/tags/bfa9abb97adab1e5.js" async="true"></script></head>
+<meta name="p:domain_verify" content="457e1ffd7ee59bc0e86014a484fa8ca3">
+
+<style type="text/css">
+@media (max-width: 667px) { 
+.category-static-block .category-block-top-content
+
+{ top: inherit; bottom: auto; position: relative; transform: none; width: 100%;}
+.category-static-block .category-block-top
+
+{ margin: 0 auto; height: auto; padding: 0; }
+.category-static-block .category-block-top-content .inner
+
+{ padding: 15px 5px 5px !important; }
+.category-static-block .category-block-top .category-block-top-image-mobile
+
+{ height: auto; display: none !important; }
+}
+.amlabel-div .amlabel-table2 {
+display: initial !important;
+}
+</style><script src="https://cdn.ometria.com/tags/bfa9abb97adab1e5.js" async="true"></script></head>
 <body class=" cms-page-view cms-privacy-and-security">
                 <!-- GOOGLE TAG MANAGER -->
         <noscript>
@@ -174,14 +189,111 @@ jQuery(document).ready(function($) {
     </noscript>
     <div class="page">
         
+    <div class="header-promo-top">
+    <style>
+     .header-promo-top {
+      background: #d26e75 !important; }
 
-</div>
-<header id="header" class="page-header">
+     .header-promo-top .simple-grid .center .title {
+         font-family: Futura BT W01 Medium !important;
+         letter-spacing: 2px !important;
+         color: white !important;
+         font-size: 20px;
+         
+      }     
+       .info { 
+       color: white !important;
+}
+       .clear {
+       width: 100%;
+       height: 10px;
+     }
 
-    <div class="page-header-container">
 
-        <div class="header-logo">
-            <a class="logo" href="https://www.seraphine.com/en-us/">
+    @media only screen and (max-width: 768px) {
+
+     .header-promo-top .simple-grid .center {
+        width: 100% !important;
+      }
+
+      .header-promo-top .simple-grid .center .title {
+             font-size: 15px;
+             letter-spacing: 0;
+             line-height: 30px;
+       }
+
+        .show-tablet {
+             font-size: 8px;
+             color: #fff !important;
+        }
+
+        .info {
+            display: block!important;
+            font-size: 12px;
+            
+         }
+      .clear {
+       width: 100%;
+       height: 1px;
+     }
+
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+
+     .header-promo-top .simple-grid .center {
+        width: 33.33% !important;
+      }
+
+      .header-promo-top .simple-grid .center .title {
+             font-size: 15px;
+             letter-spacing: 0;
+             line-height: 30px;
+       }
+
+        .show-tablet {
+             font-size: 8px;
+             color: #fff !important;
+             display: none;
+        }
+        .info {
+            display: block!important;
+            font-size: 10px;
+            padding-top: 5px;
+            
+         }
+      .clear {
+       width: 100%;
+       height: 1px;
+     }
+
+}
+</style>
+<div class="simple-grid header-promo-top-content">
+	<div class="col-1-3 center">
+		<div class="clear"></div>
+               <a href="https://www.seraphine.com/en-us/maternity-clothes/promotion.html"> 
+                     <span class="info">The November Edit</span>
+               </a>
+        </div>
+		<div class="col-1-3 center">
+               <a href="https://www.seraphine.com/en-us/maternity-clothes/promotion.html"> 
+                     <span class="title">Up to 30% off selected styles*</span>
+               </a>
+        </div>
+		<div class="col-1-3 center">
+               <div class="clear"></div>
+               <a href="https://www.seraphine.com/en-us/coupons"> 
+               <span class="info">*T&amp;C's apply, until 13/11/2019.</span>
+		</a></div><a href="https://www.seraphine.com/en-us/coupons">
+</a></div><a href="https://www.seraphine.com/en-us/coupons">    </a></div><a href="https://www.seraphine.com/en-us/coupons">
+
+</a></div><a href="https://www.seraphine.com/en-us/coupons">
+</a><header id="header" class="page-header"><a href="https://www.seraphine.com/en-us/coupons">
+
+    </a><div class="page-header-container"><a href="https://www.seraphine.com/en-us/coupons">
+
+        </a><div class="header-logo"><a href="https://www.seraphine.com/en-us/coupons">
+            </a><a class="logo" href="https://www.seraphine.com/en-us/">
                 <img width="300" height="100" src="https://www.seraphine.com/en-us/skin/frontend/seraphine/default/images/en_gb/logo.png" alt="Seraphine Maternity Clothes" onerror="this.src='https://www.seraphine.com/en-us/skin/frontend/seraphine/default/images/en_gb/logo.png'" class="large">
                 <img width="300" height="100" src="https://www.seraphine.com/en-us/skin/frontend/seraphine/default/images/en_gb/logo.png" alt="Seraphine Maternity Clothes" onerror="this.src='https://www.seraphine.com/en-us/skin/frontend/seraphine/default/images/en_gb/logo.png'" class="small">
             </a>
@@ -198,7 +310,7 @@ jQuery(document).ready(function($) {
 </a>
 
 <div id="header-cart" class="block block-cart basket-content">
-    <!--{CART_SIDEBAR_db3a2ede879fed896e75b7f6d624f6fb}-->
+    
 <div id="minicart-error-message" class="minicart-message"></div>
 <div id="minicart-success-message" class="minicart-message"></div>
 
@@ -209,11 +321,7 @@ jQuery(document).ready(function($) {
 
                     <p class="empty">You have no items in your shopping cart.</p>
     </div>
-<script type="text/javascript">
-    var googleAnalyticsUniversalData = googleAnalyticsUniversalData || {};
-    googleAnalyticsUniversalData['shoppingCartContent'] = [];
-</script>
-<!--/{CART_SIDEBAR_db3a2ede879fed896e75b7f6d624f6fb}--></div>
+</div>
                 </div>
                 <div class="header-account">
                     <div class="links">
@@ -223,7 +331,7 @@ jQuery(document).ready(function($) {
                 <li class="first account"><a href="https://www.seraphine.com/en-us/customer/account/" title="Account">Account</a></li>
                     
                             
-                <li class=" last signin"><a href="https://www.seraphine.com/en-us/customer/account/login/" title="Sign in">Sign in</a></li>
+                <li class=" last signin"><a href="https://www.seraphine.com/en-us/customer/account/login/referer/aHR0cHM6Ly93d3cuc2VyYXBoaW5lLmNvbS9lbi11cy9wcml2YWN5LWFuZC1zZWN1cml0eQ,,/" title="Sign in">Sign in</a></li>
                         </ul>
 </div>
                 </div>
@@ -232,56 +340,12 @@ jQuery(document).ready(function($) {
                     <div class="header-stores">
     <a href="https://www.seraphine.com/en-us/stores" target="_top" class="stores-link" title="Stores"><span class="title">Stores</span><span class="icon-icon-stores"></span></a>
 </div>
-                    <div class="currency-switcher" id="currency-switcher">
-    <div class="current-currency">
-        US$        <a href="javascript:void(0)" title="Currency">
-            Currency        </a>
-    </div>
-    <ul>
-                            <li class="">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=BRL" class="currency">
-	                <span class="flag">
-	                    <img width="34" height="17" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-BRL.jpg" title="Brazilian Real - BRL">
-	                </span>
-                    <span class="title currency-symbol">
-                        R$                    </span>
-                </a>
-            </li>
-                                <li class="">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=CAD" class="currency">
-	                <span class="flag">
-	                    <img width="34" height="17" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-CAD.jpg" title="Canadian Dollar - CAD">
-	                </span>
-                    <span class="title currency-symbol">
-                        CA$                    </span>
-                </a>
-            </li>
-                                <li class="">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=MXN" class="currency">
-	                <span class="flag">
-	                    <img width="34" height="17" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-MXN.jpg" title="Mexican Peso - MXN">
-	                </span>
-                    <span class="title currency-symbol">
-                        MX$                    </span>
-                </a>
-            </li>
-                                <li class=" selected">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=USD" class="currency">
-	                <span class="flag">
-	                    <img width="34" height="17" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-USD.jpg" title="US Dollar - USD">
-	                </span>
-                    <span class="title currency-symbol">
-                        US$                    </span>
-                </a>
-            </li>
-                        </ul>
-</div>
-
+                    
                     <div class="header-languages">
     
     <a class="store-language-block-trigger" title="Country">
         <span class="title">Country</span>
-        <span class="flag" title="US"><img width="34" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-us.jpg" alt="US"></span>
+        <span class="flag" title="US"><img width="34" src="https://www.seraphine.com/media/wysiwyg/header/flag-us.jpg" alt="US"></span>
     </a>
 
     <div class="store-language-block-content">
@@ -289,33 +353,38 @@ jQuery(document).ready(function($) {
             Select Your Website And Prefered Language        </div>
                     <a class="country" title="UK" href="https://www.seraphine.com/en-gb/" target="_top">
                 <span class="title">UK</span>
-                <span class="flag"><img width="34" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-default.jpg" alt="UK"></span>
+                <span class="flag"><img width="34" src="https://www.seraphine.com/media/wysiwyg/header/flag-default.jpg" alt="UK"></span>
                 <span class="title-language">English £</span>
             </a>
         
                     <a class="country" title="FR" href="https://www.seraphine.fr/" target="_top">
                 <span class="title">FR</span>
-                <span class="flag"><img width="34" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-fr.jpg" alt="FR"></span>
+                <span class="flag"><img width="34" src="https://www.seraphine.com/media/wysiwyg/header/flag-fr.jpg" alt="FR"></span>
                 <span class="title-language">Français €</span>
 
             </a>
                                     <a class="country" title="EU" href="https://www.seraphine.com/eu/" target="_top">
                 <span class="title">EU</span>
-                <span class="flag"><img width="34" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-ie.jpg" alt="EU"></span>
+                <span class="flag"><img width="34" src="https://www.seraphine.com/media/wysiwyg/header/flag-ie.jpg" alt="EU"></span>
                 <span class="title-language">English €</span>
             </a>
                             <a class="country" title="EU" href="https://www.seraphine.com/es-es/" target="_top">
                 <span class="title">ES</span>
-                <span class="flag"><img width="34" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-ie_es.jpg" alt="EU"></span>
+                <span class="flag"><img width="34" src="https://www.seraphine.com/media/wysiwyg/header/flag-ie_es.jpg" alt="EU"></span>
                 <span class="title-language">Español €</span>
             </a>
                             <a class="country" title="DE" href="https://www.seraphine.com/de-de/" target="_top">
                 <span class="title">DE</span>
-                <span class="flag"><img width="34" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-de.jpg" alt="DE"></span>
+                <span class="flag"><img width="34" src="https://www.seraphine.com/media/wysiwyg/header/flag-de.jpg" alt="DE"></span>
                 <span class="title-language">Deutsch €</span>
             </a>
             
-    </div>
+                    <a class="country" title="AU" href="https://www.seraphine.com/en-au/" target="_top">
+                <span class="title">AU</span>
+                <span class="flag"><img width="34" src="https://www.seraphine.com/media/wysiwyg/header/flag-au.jpg" alt="AU"></span>
+                <span class="title-language">English $</span>
+            </a>
+            </div>
 </div>
                 </div>
             </div>
@@ -357,7 +426,7 @@ jQuery(document).ready(function($) {
             
     <nav id="meganav">
         <ol class="meganav-primary jetmenu desktop">
-            <li class="level0 nav-1 first"><a href="https://www.seraphine.com/en-us/maternity-clothes.html" class="item-link level0  maternityclothes">Maternity Clothes</a><div class="subnav megamenu   full-width"><div class="row row-top"><style>
+            <li class="level0 nav-1 active first"><a href="https://www.seraphine.com/en-us/maternity-clothes.html" class="item-link level0  maternityclothes">Maternity Clothes</a><div class="subnav megamenu   full-width"><div class="row row-top"><style>
 
 .megamenu p.menu-title {
     padding: 0 0 15px 0;
@@ -410,13 +479,17 @@ jQuery(document).ready(function($) {
 <div class="simple-grid">
 <div class="col-1-3">
 <ul>
-<li><a href="https://www.seraphine.com/en-us/maternity-clothes/new-trendy-maternity-clothes.html" target="_top">New In</a></li>
+<li><a href="https://www.seraphine.com/en-us/maternity-clothes/new-trendy-maternity-clothes.html" target="_top"><strong> New In​</strong></a></li>
+<li><a href="https://www.seraphine.com/en-us/maternity-clothes/promotion.html" style="color:#d26e75;" target="_top"><strong>The November Edit </strong>  </a></li><a href="https://www.seraphine.com/en-us/maternity-clothes/promotion.html" style="color:#d26e75;" target="_top"> 
        <li>    </li>
-       <li>    </li>
-<li><a href="https://www.seraphine.com/en-us/maternity-clothes/discount-maternity-clothes.html" target="_top">Outlet</a></li>    
-<li></li>             
+</a><li><a href="https://www.seraphine.com/en-us/maternity-clothes/promotion.html" style="color:#d26e75;" target="_top"></a><a href="https://www.seraphine.com/en-us/maternity-clothes/discount-maternity-clothes.html" target="_top">OUTLET</a></li>
+
+<li>  </li>
+
+<li>  </li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/celebrity-look-us.html" target="_top">Celebrities in Seraphine</a></li>
 <li><a href="https://www.seraphine.com/en-us/instashop" target="_top">Instashop</a></li>
+<li><a href="https://www.seraphine.com/en-us/refer-a-friend/?situation=megamenu" target="_top">Refer a Friend</a></li>
 </ul>
 </div>
 <div class="col-1-3">
@@ -424,17 +497,17 @@ jQuery(document).ready(function($) {
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-dresses.html" target="_top">Maternity Dresses</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-maxi-dress.html" target="_top">Midi &amp; Maxi Maternity Dresses</a></li>
 <li><a href="https://www.seraphine.com/en-us/luxe-collection.html" target="_top">Maternity Evening Dresses</a></li>
+<li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-coats-jackets.html" target="_top">Maternity Coats &amp; Outerwear</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-tops.html" target="_top">Maternity Tops &amp; Tunics</a></li>
+<li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-sweaters-cardigans.html" target="_top">Maternity Sweaters</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-jeans-denim.html" target="_top">Maternity Jeans &amp; Denim</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-overalls-jumpsuits.html" target="_top">Maternity Overalls &amp; Jumpsuits</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-pants-shorts.html" target="_top">Maternity Pants &amp; Shorts</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-skirts.html" target="_top">Maternity Skirts</a></li>
-<li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-swimwear.html" target="_top">Maternity Swimwear</a></li>
-<li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-sweaters-cardigans.html" target="_top">Maternity Sweaters</a></li>
-<li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-coats-jackets.html" target="_top">Maternity Coats &amp; Outerwear</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-workout-clothes-activewear.html" target="_top">Maternity Workout Clothes &amp; Prenatal Yoga</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-pajamas-sleepwear.html" target="_top">Maternity Pajamas &amp; Sleepwear</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-bras-lingerie.html" target="_top">Maternity Bras &amp; Lingerie</a></li>
+<li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-swimwear.html" target="_top">Maternity Swimwear</a></li>
 </ul>
 </div>
 
@@ -447,31 +520,32 @@ jQuery(document).ready(function($) {
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/shoes-us.html" target="_top">Shoes</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/designer-diaper-bags.html" target="_top">Diaper Bags</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-belts.html" target="_top">Maternity Belts</a></li>
-<li><a href="https://www.seraphine.com/en-us/maternity-clothes/stretch-mark-cream-pregnancy-skin-care.html" target="_top">Stretch Mark Cream &amp; Pregnancy Skin Care</a></li>
+<!--<li><a href="https://www.seraphine.com/en-us/maternity-clothes/stretch-mark-cream-pregnancy-skin-care.html" target="_top">Stretch Mark Cream & Pregnancy Skin Care</a></li>-->
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/jewellery.html" target="_top">Jewelry</a></li>
 </ul>
 
 <p class="menu-title2">Shop by occasion</p>
 <ul>
-<li><a href="https://www.seraphine.com/en-us/maternity-clothes/pregnancy-gift-guide.html" target="_top"> Gifts for Moms</a></li>
-<li><a href="https://www.seraphine.com/en-us/luxe-collection.html" target="_top">Special Occasions</a></li>
-<li><a href="https://www.seraphine.com/en-us/maternity-clothes/babymoon.html" target="_top">Babymoon &amp; Winter Sun</a></li>
-<li><a href="https://www.seraphine.com/en-us/maternity-clothes/baby-shower-maternity-dresses.html" target="_top">Baby Shower Dresses</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-workwear.html" target="_top">Maternity Work Clothes</a></li>
+<li><a href="https://www.seraphine.com/en-us/maternity-clothes/pregnancy-gift-guide.html" target="_top"> Gifts for Moms</a></li>
+<li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" target="_top">Special Occasions</a></li>
+<li><a href="https://www.seraphine.com/en-us/maternity-clothes/babymoon.html" target="_top">Babymoon &amp; Indian Summer</a></li>
+<li><a href="https://www.seraphine.com/en-us/maternity-clothes/baby-shower-maternity-dresses.html" target="_top">Baby Shower Dresses</a></li>
 <li><a href="https://www.seraphine.com/en-us/maternity-clothes/hospital-bag-checklist.html" target="_top"> Hospital Bag Checklist </a></li>
 </ul>
 
 </div>
 </div>
 </div>
+
 <div class="col-1-3">
+<a href="https://www.seraphine.com/en-us/maternity-clothes/new-in.html"><img src="https://www.seraphine.com/media/wysiwyg/megamenu/anna_megamenu.jpg" alt="maternity babywearing coats"></a>
 
-<a href="https://www.seraphine.com/en-us/maternity-clothes/new-trendy-maternity-clothes.html"><img src="https://www.seraphine.com/en-us/media/wysiwyg/megamenu/Antonietta.jpg" alt="maternity knitwear"></a>
-
-		<p class="a-center2">New For Spring</p>
-		<p class="a-center"><a href="https://www.seraphine.com/en-us/maternity-clothes/new-trendy-maternity-clothes.html" target="_top" class="button button2">Shop the latest looks</a></p>
+		<p class="a-center2">Winter Coats</p>
+		<p class="a-center">From smart wool styles to babywearing parkas</p>
+		<p class="a-center"><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-coats-jackets.html" target="_top" class="button button2">Find yours now</a></p>
 </div>
-</div></div><div class="row row-col4">    <div class="col clft empty"></div><div class="col crgt empty"></div></div><div class="row row-btm empty"></div></div></li><li class="level0 nav-2 active"><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" class="item-link level0  formaldresses">Formal Dresses</a><div class="subnav megamenu   full-width"><div class="row row-top"><style>
+</div></div><div class="row row-col4">    <div class="col clft empty"></div><div class="col crgt empty"></div></div><div class="row row-btm empty"></div></div></li><li class="level0 nav-2"><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" class="item-link level0  formaldresses">Formal Dresses</a><div class="subnav megamenu   full-width"><div class="row row-top"><style>
 
 .megamenu p.menu-title {
     padding: 0 0 15px 0;
@@ -513,7 +587,6 @@ jQuery(document).ready(function($) {
 				<p class="menu-title">Formal Maternity Dresses</p>
 				<div class="col-1-2">
 					<ul>
-                                         
 					<li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses/long-maternity-gowns.html" target="_top">Long Maternity Gowns</a></li>
 				        <li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses/maternity-cocktail-dresses.html" target="_top">Maternity Cocktail Dresses</a></li>
 						<li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses/maternity-silk-dresses.html" target="_top">Silk Maternity Dresses</a></li>
@@ -531,17 +604,17 @@ jQuery(document).ready(function($) {
 					</ul>	
 				</div>
 			</div>
-			<div class="col-1-3">
-						<a href="https://www.seraphine.com/en-us/formal-maternity-dresses/maternity-wedding-dresses.html"><img src="https://www.seraphine.com/en-us/media/wysiwyg/megamenu/Yvette-mega_Bridal.jpg" alt="celebrity-style"></a>
-		<p class="a-center2">Find the Dress</p>
-		<p class="a-center"><a href="https://www.seraphine.com/en-us/formal-maternity-dresses/maternity-wedding-dresses.html" target="_top" class="button button2">Shop bridal gowns</a></p>
+<div class="col-1-3">
+	<a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html"><img src="https://www.seraphine.com/media/wysiwyg/megamenu/Marina_Burgundy.jpg" alt="celebrity-style"></a>
+		<p class="a-center2">Be party ready</p>
+		<p class="a-center"><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" target="_top" class="button button2">Shop formal dresses</a></p>
 			</div>
 		</div>
 	</div>
-	<div class="col-1-3">
-				<a href="https://www.seraphine.com/en-us/fashion-inspiration/"><img src="https://www.seraphine.com/en-us/media/wysiwyg/megamenu/Mae-mega-No-button.jpg" alt="luxe-style" class="float-center"></a>
-				<p class="a-center2"><a href="https://www.seraphine.com/en-us/fashion-inspiration/" target="_top" class="">Watch the video ►</a></p>
-				<p class="a-center"><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" target="_top" class="button button2">Shop the collection</a></p>
+<div class="col-1-3">
+	<a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html"><img src="https://www.seraphine.com/media/wysiwyg/megamenu/Gisele.jpg" alt="luxe-style" class="float-center"></a>
+		<p class="a-center2">Elegant evening wear</p>
+		<p class="a-center"><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" target="_top" class="button button2">Shop dresses</a></p>
 				
 	</div>
 </div></div><div class="row row-col4">    <div class="col clft empty"></div><div class="col crgt empty"></div></div><div class="row row-btm empty"></div></div></li><li class="level0 nav-3"><a href="https://www.seraphine.com/en-us/nursing-clothes.html" class="item-link level0  nursing">Nursing</a><div class="subnav megamenu   full-width"><div class="row row-top"><style>
@@ -585,6 +658,7 @@ jQuery(document).ready(function($) {
 				<p class="menu-title">Nursing Clothes</p>
 				<div class="col-1-2">
 					<ul>
+						<li><strong><a href="https://www.seraphine.com/en-us/breastfeeding-tips" target="_top">Breastfeeding Tips</a></strong></li>
 						<li><a href="https://www.seraphine.com/en-us/nursing-clothes/nursing-tops.html" target="_top">Nursing Tops</a></li>
 						<li><a href="https://www.seraphine.com/en-us/nursing-clothes/nursing-dresses.html" target="_top">Nursing Dresses</a></li>
 						<li><a href="https://www.seraphine.com/en-us/nursing-clothes/nursing-sweaters.html" target="_top">Nursing Sweaters</a></li>
@@ -599,22 +673,21 @@ jQuery(document).ready(function($) {
 						<li><a href="https://www.seraphine.com/en-us/nursing-clothes/baby-carriers.html" target="_top">Baby Carriers &amp; Equipment</a></li>
 						<li><a href="https://www.seraphine.com/en-us/baby-clothes/babywearing-coats.html" target="_top">Babywearing Coats</a></li>
 						<li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-shapewear.html" target="_top">Post-Maternity &amp; Shapewear</a></li>
-						<li><a href="https://www.seraphine.com/en-us/baby-clothes/skin-to-skin-clothing.html" target="_top">Skin to Skin Clothing</a></li>
+						<li><a href="https://www.seraphine.com/en-us/nursing-clothes/skin-to-skin-shirts.html" target="_top">Skin to Skin Clothing</a></li>
 					</ul>	
 				</div>
 			</div>
 			<div class="col-1-3">
-				<a href="https://www.seraphine.com/en-us/nursing-clothes.html"><img src="https://www.seraphine.com/en-us/media/wysiwyg/megamenu/Priya.jpg" alt="celebrity-style" class="float-center"></a>
-				<p class="a-center2">Easy Nursing</p>
-				<p class="a-center"><a href="https://www.seraphine.com/en-us/nursing-clothes.html" target="_top" class="button button2">Shop our full collection</a></p>
-		
+				<a href="https://www.seraphine.com/en-us/fashion-inspiration"><img src="https://www.seraphine.com/media/wysiwyg/Side-buttons/Megamenu_Nursing_UK.jpg" alt="celebrity-style" class="float-center"></a>
+				<p class="a-center2">5* Nursing Clothes: <br>Approved by Mums</p>
+				<p class="a-center"><a href="https://www.seraphine.com/en-us/nursing-clothes.html" target="_top" class="button button2">Shop the looks</a></p>
 			</div>
 		</div>
 	</div>
 	<div class="col-1-3">
-<a href="https://www.seraphine.com/en-us/maternity-clothes/coats-jackets.html"><img src="https://www.seraphine.com/en-us/media/wysiwyg/megamenu/Richmond-mega_Spring_parka.jpg" alt="new-in"></a>
-		<p class="a-center2">Babywearing Coats</p>
-		<p class="a-center"><a href="https://www.seraphine.com/en-us/maternity-clothes/coats-jackets.html" target="_top" class="button button2">Shop the collection</a></p>
+<a href="https://www.seraphine.com/en-us/nursing-clothes/skin-to-skin-clothing.html"><img src="https://www.seraphine.com/media/wysiwyg/megamenu/Winifrid_Blue.jpg" alt="new-in"></a>
+		<p class="a-center2">Skin to Skin Tops</p>
+		<p class="a-center"><a href="https://www.seraphine.com/en-us/nursing-clothes/skin-to-skin-clothing.html" target="_top" class="button button2">Shop now</a></p>
 	</div>
 </div></div><div class="row row-col4">    <div class="col clft empty"></div><div class="col crgt empty"></div></div><div class="row row-btm empty"></div></div></li><li class="level0 nav-4"><a href="https://www.seraphine.com/en-us/baby-clothes.html" class="item-link level0  baby">Baby</a><div class="subnav megamenu   full-width"><div class="row row-top"><style>
 
@@ -697,7 +770,7 @@ jQuery(document).ready(function($) {
 						<li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-shapewear.html" target="_top">Post-Maternity &amp; Shapewear</a></li>
 						<li><a href="https://www.seraphine.com/en-us/maternity-clothes/designer-diaper-bags.html" target="_top">Diaper Bags</a></li>
 						<li><a href="https://www.seraphine.com/en-us/nursing-clothes.html" target="_top">Nursing Clothes</a></li>
-						<li><a href="https://www.seraphine.com/en-us/baby-clothes/skin-to-skin-clothing.html" target="_top">Skin to Skin Clothing</a></li>
+						<li><a href="https://www.seraphine.com/en-us/nursing-clothes/skin-to-skin-clothing.html" target="_top">Skin to Skin Clothing</a></li>
                 </ul>
             </div>
             
@@ -707,7 +780,7 @@ jQuery(document).ready(function($) {
 
     <div class="col-1-3">
 
-        <a href="https://www.seraphine.com/en-us/baby-clothes.html"><img src="https://www.seraphine.com/en-us/media/wysiwyg/Press/mega_menu.jpg" alt="celebrity-style"></a>
+        <a href="https://www.seraphine.com/en-us/baby-clothes.html"><img src="https://www.seraphine.com/media/wysiwyg/Press/mega_menu.jpg" alt="celebrity-style"></a>
         <p class="a-center2">BABY CLOTHES</p>
         <p class="a-center"><a href="https://www.seraphine.com/en-us/baby-clothes.html" target="_top" class="button button2">Shop All</a></p>
     </div>
@@ -731,7 +804,7 @@ jQuery(document).ready(function($) {
 
 <div class="simple-grid">
 	<div class="col-1-3">
-		<a href="http://www.seraphine.com/us/blog/"><img src="https://www.seraphine.com/en-us/media/wysiwyg/megamenu/Mega-Menu_448x263_Blog-UK.jpg" alt="celebrity-style"></a>
+		<a href="http://www.seraphine.com/us/blog/"><img src="https://www.seraphine.com/media/wysiwyg/megamenu/marine_tanguy_blog.jpg" alt="celebrity-style"></a>
 		<p class="a-center2">Our Blog</p>
 		<p class="a-center"><a href="http://www.seraphine.com/us/blog/" target="_top" class="button button2">Read the latest fashion news</a></p>
 <p class="a-center2"><br>Fashion Inspo</p>
@@ -740,17 +813,17 @@ jQuery(document).ready(function($) {
 	<div class="col-2-3">
 		<div class="simple-grid">
 			<div class="col-1-3">
-				<a href="https://www.seraphine.com/en-us/maternity-clothes/celebrity-look-us.html"><img src="https://www.seraphine.com/en-us/media/wysiwyg/Press/kate-blossom-megamenu.jpg" alt="celebrity-style" class="float-center"></a>
-				<p class="a-center2">Celebs in Seraphine</p>
+				<a href="https://www.seraphine.com/en-us/maternity-clothes/celebrity-look-us.html"><img src="https://www.seraphine.com/media/wysiwyg/megamenu/Kate_Jolene-updated.jpg" alt="celebrity-style" class="float-center"></a>
+				<p class="a-center2">Celebs ❤️Us</p>
 				<p class="a-center"><a href="https://www.seraphine.com/en-us/maternity-clothes/celebrity-look-us.html" target="_top" class="button button2">Find out who is wearing Seraphine</a></p>
 			</div>
 			<div class="col-1-3">
-				<a href="https://www.seraphine.com/en-us/about-us.html"><img src="https://www.seraphine.com/en-us/media/wysiwyg/portrait-cecile-new.jpg" alt="celebrity-style" class="float-center"></a>
+				<a href="https://www.seraphine.com/en-us/about-us.html"><img src="https://www.seraphine.com/media/wysiwyg/portrait-cecile-new.jpg" alt="celebrity-style" class="float-center"></a>
 				<p class="a-center2">Our Story</p>
 				<p class="a-center"><a href="https://www.seraphine.com/en-us/about-us.html" target="_top" class="button button2">Read more about us and Cecile</a></p>
 			</div>
 			<div class="col-1-3">
-				<a href="https://www.seraphine.com/en-us/press/"><img src="https://www.seraphine.com/en-us/media/wysiwyg/megamenu/Mega-Menu_448x263_Press-UK.jpg" alt="celebrity-style" class="float-center"></a>
+				<a href="https://www.seraphine.com/en-us/press/"><img src="https://www.seraphine.com/media/wysiwyg/megamenu/Mega-Menu_448x263_Press-UK.jpg" alt="celebrity-style" class="float-center"></a>
 				<p class="a-center2">Press</p>
 				<p class="a-center"><a href="https://www.seraphine.com/en-us/press/" target="_top" class="button button2">they are talking about us...</a></p>
 			</div>
@@ -758,42 +831,39 @@ jQuery(document).ready(function($) {
 	</div>
 </div></div><div class="row row-col4">    <div class="col clft empty"></div><div class="col crgt empty"></div></div><div class="row row-btm empty"></div></div></li>        </ol>
         <ol class="meganav-primary jetmenu top-mobile">
-            <li class="level0 nav-1"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/maternity-clothes/new-in.html" class="item-link level0  maternityclothes">New In</a></div></li>
-<li class="level0 nav-1"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/maternity-clothes/discount-maternity-clothes.html" class="item-link level0 maternityclothes">Outlet</a></div></li>
-<li class="level0 nav-1"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/maternity-clothes.html" class="item-link level0  maternityclothes">Maternity Clothes</a><span class="indicator"><i class="icon-icon-arrow-down"></i></span></div><div class="subnav megamenu   full-width" style="display: block;"><div class="row row-top">
+            <li class="level0 nav-1 active"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/maternity-clothes/new-in.html" class="item-link level0  maternityclothes"> New In </a></div></li>
+
+<li class="level0 nav-1 active"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/maternity-clothes/promotion.html" style="color:#d26e75;" class="item-link level0  maternityclothes"><strong>The November Edit </strong></a></div></li>  
+
+<li class="level0 nav-1 active"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/maternity-clothes.html" class="item-link level0  maternityclothes">Maternity Clothes</a><span class="indicator"><i class="icon-icon-arrow-down"></i></span></div><div class="subnav megamenu   full-width" style="display: block;"><div class="row row-top">
 
     <div class="simple-grid">
         <div class="col-2-3">
             <div class="simple-grid">
                 <div class="col-1-3">
                     <ul>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/new-in.html" target="_top">New In</a></li>    
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-dresses.html" target="_top">Maternity Dresses</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-maxi-dress.html" target="_top">Midi &amp; Maxi Maternity Dresses</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" target="_top">Evening Dresses</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-coats-jackets.html" target="_top">Maternity Coats &amp; Outerwear</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-tops.html" target="_top">Maternity Tops &amp; Tunics</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-sweaters-cardigans.html" target="_top">Maternity Sweaters</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-jeans-denim.html" target="_top">Maternity Jeans &amp; Denim</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-overalls-jumpsuits.html" target="_top">Maternity Overalls &amp; Jumpsuits</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-pants-shorts.html" target="_top">Maternity Pants &amp; Shorts</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/skirts.html" target="_top">Maternity Skirts</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/pregnancy-yoga-and-sportwear.html" target="_top">Maternity Workout Clothes &amp; Prenatal Yoga</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/nightwear.html" target="_top">Maternity Pajamas &amp; Sleepwear</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/lingerie.html" target="_top">Maternity Bras &amp; Underwear</a></li>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-swimwear.html" target="_top">Maternity Swimwear</a></li>
+                    </ul>
+                </div>
+                <div class="col-1-3">
+                    <ul><br>
                         <li><a href="https://www.seraphine.com/en-us/maternity-clothes/celebrity-look.html" target="_top">Celebrities in Seraphine</a></li>
                         <li><a href="https://www.seraphine.com/en-us/instashop" target="_top">Instashop</a></li> 
                     </ul>
                 </div>
-                
-                <div class="col-1-3">
-                    <ul>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-dresses.html" target="_top">Maternity Dresses</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-maxi-dress.html" target="_top">Midi &amp; Maxi Maternity Dresses</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" target="_top">Evening Dresses</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-tops.html" target="_top">Maternity Tops &amp; Tunics</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-jeans-denim.html" target="_top">Maternity Jeans &amp; Denim</a></li>
-    <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-overalls-jumpsuits.html" target="_top">Maternity Overalls &amp; Jumpsuits</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-pants-shorts.html" target="_top">Maternity Pants &amp; Shorts</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/skirts.html" target="_top">Maternity Skirts</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-swimwear.html" target="_top">Maternity Swimwear</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-sweaters-cardigans.html" target="_top">Maternity Sweaters</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-coats-jackets.html" target="_top">Maternity Coats &amp; Outerwear</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/pregnancy-yoga-and-sportwear.html" target="_top">Maternity Workout Clothes &amp; Prenatal Yoga</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/nightwear.html" target="_top">Maternity Pajamas &amp; Sleepwear</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/lingerie.html" target="_top">Maternity Bras &amp; Underwear</a></li>
-
-  
-                    </ul>
-                </div>
-
                 <div class="col-1-3">
                     <ul>
 
@@ -807,24 +877,24 @@ jQuery(document).ready(function($) {
                         <li><a href="https://www.seraphine.com/en-us/maternity-clothes/shoes-us.html" target="_top">Shoes</a></li>
                         <li><a href="https://www.seraphine.com/en-us/maternity-clothes/baby-changing-bags.html" target="_top">Diaper Bags</a></li>
                         <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-belts.html" target="_top">Maternity Belts</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/stretch-mark-cream-pregnancy-skin-care.html" target="_top">Stretch Mark Cream &amp; Pregnancy Skin Care</a></li>
+                       <!-- <li><a href="https://www.seraphine.com/en-us/maternity-clothes/stretch-mark-cream-pregnancy-skin-care.html" target="_top">Stretch Mark Cream & Pregnancy Skin Care</a></li>-->
                         <li><a href="https://www.seraphine.com/en-us/maternity-clothes/jewellery.html" target="_top">Jewelry</a></li>
                     </ul>
 
                     <p class="menu-title2"><br>Shop by occasion</p>
                     <ul>
+                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-workwear.html" target="_top">Maternity Work Clothes</a></li>
                         <li><a href="https://www.seraphine.com/en-us/maternity-clothes/gift-guide.html" target="_top"> Gifts for moms</a></li>
                         <li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" target="_top">Special Occasions</a></li>
                         <li><a href="https://www.seraphine.com/en-us/maternity-clothes/babymoon.html" target="_top">Babymoon &amp; Indian Summer</a></li>
                         <li><a href="https://www.seraphine.com/en-us/maternity-clothes/baby-shower-maternity-dresses.html" target="_top">Baby Shower Dresses</a></li>
-                        <li><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-workwear.html" target="_top">Maternity Work Clothes</a></li>
                         <li><a href="https://www.seraphine.com/en-us/maternity-clothes/hospital-bag.html" target="_top">Hospital Bag</a></li>
                     </ul>
 
                 </div>
             </div>
         </div>
-    </div></div><div class="row row-col4">    <div class="col clft empty"></div><div class="col crgt empty"></div></div><div class="row row-btm empty"></div></div></li><li class="level0 nav-2 active fix-sub"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" class="item-link level0  luxecollection">Formal Dresses</a><span class="indicator"><i class="icon-icon-arrow-down"></i></span></div><div class="subnav megamenu   full-width" style=""><div class="row row-top">
+    </div></div><div class="row row-col4">    <div class="col clft empty"></div><div class="col crgt empty"></div></div><div class="row row-btm empty"></div></div></li><li class="level0 nav-2 fix-sub"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/formal-maternity-dresses.html" class="item-link level0  luxecollection">Formal Dresses</a><span class="indicator"><i class="icon-icon-arrow-down"></i></span></div><div class="subnav megamenu   full-width" style=""><div class="row row-top">
 
     <div class="simple-grid">
         <div class="col-2-3">
@@ -832,7 +902,6 @@ jQuery(document).ready(function($) {
                 <div class="col-2-3">
                     <div class="col-1-2">
                         <ul>
-
                             <li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses/long-maternity-gowns.html" target="_top">Long Maternity Gowns</a></li>
                             <li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses/maternity-cocktail-dresses.html" target="_top">Maternity Cocktail Dresses</a></li>
                             <li><a href="https://www.seraphine.com/en-us/formal-maternity-dresses/maternity-silk-dresses.html" target="_top">Silk Maternity Dresses</a></li>
@@ -882,7 +951,7 @@ jQuery(document).ready(function($) {
         </div>
     </div></div><div class="row row-col4">    <div class="col clft empty"></div><div class="col crgt empty"></div></div><div class="row row-btm empty"></div></div></li>
 
-
+<li class="level0 nav-1 active"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/maternity-clothes/discount-maternity-clothes.html" class="item-link level0 maternityclothes">OUTLET</a></div></li>
 
 <li class="level0 nav-50 fix-sub"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/baby-clothes.html" class="item-link level0  baby">Baby</a><span class="indicator"><i class="icon-icon-arrow-down"></i></span></div><div class="subnav megamenu   full-width" style=""><div class="row row-top">
 
@@ -924,7 +993,7 @@ jQuery(document).ready(function($) {
 
 
 
-<li class="level0 nav-1"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/blog/" class="item-link level0  maternityclothes">Read Our Blog ⭐</a></div></li>
+<li class="level0 nav-1 active"><div class="has-children-link"><a href="http://blog.seraphine.com/" class="item-link level0  maternityclothes">Read Our Blog ⭐</a></div></li>
 
 
 <li class="level0 nav-6 last fix-sub"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/about-us.html" class="item-link level0  ourstory">Our Story</a><span class="indicator"><i class="icon-icon-arrow-down"></i></span></div><div class="subnav megamenu   full-width" style=""><div class="row row-top">
@@ -936,7 +1005,7 @@ jQuery(document).ready(function($) {
                     <div class="col-1-2">
                         <ul>
 
-                            <li><a href="http://www.seraphine.com/life/" target="_top">Our blog: Fashion tips</a></li>
+                            <li><a href="http://blog.seraphine.com/" target="_top">Our blog: Fashion tips</a></li>
                             <li><a href="https://www.seraphine.com/en-us/fashion-inspiration/" target="_top">Fashion Inspo</a></li> 
                             <li><a href="https://www.seraphine.com/en-us/maternity-clothes/celebrity-look.html" target="_top">Celebs in Seraphine</a></li>
                             <li><a href="https://www.seraphine.com/en-us/about-us.html" target="_top">Our Story</a></li>
@@ -947,64 +1016,22 @@ jQuery(document).ready(function($) {
             </div>
         </div>
 <div class="row row-col4">    <div class="col clft empty"></div><div class="col crgt empty"></div></div><div class="row row-btm empty"></div></div></div></div></li>
-<li class="level0 nav-1"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/brochure-online/" class="item-link level0  maternityclothes">ONLINE BROCHURE​ </a></div></li>
-<li class="level0 nav-1"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/seraphine-maternity-gift-card.html" class="item-link level0  maternityclothes">Gift Cards</a>
+<li class="level0 nav-1 active"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/brochure-online/" class="item-link level0  maternityclothes">ONLINE BROCHURE​ </a></div></li>
+<li class="level0 nav-1 active"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/seraphine-maternity-gift-card.html" class="item-link level0  maternityclothes">Gift Cards</a>
  </div></li>
-<li class="level0 nav-1"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/refer-a-friend?situation=megamenu" class="item-link level0  maternityclothes">Refer a friend</a></div></li>        </ol>
+<li class="level0 nav-1 active"><div class="has-children-link"><a href="https://www.seraphine.com/en-us/refer-a-friend?situation=megamenu" class="item-link level0  maternityclothes">Refer a friend</a></div></li>        </ol>
     </nav>
         </div>
 
         <div class="mobile-currency-switcher">
-            <div class="currency-switcher">
-    <div class="current-currency">
-        <a href="javascript:void(0)" title="Currency">
-            Currency        </a>
-		<span>US$</span>
-    </div>
-    <ul> 
-                            <li class="brl ">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=BRL" class="currency">
-					<div class="currency-name">
-                        BRL                    </div>
-                    <span class="currency-symbol">
-                        R$                    </span>
-                </a>
-            </li>
-                                <li class="cad ">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=CAD" class="currency">
-					<div class="currency-name">
-                        CAD                    </div>
-                    <span class="currency-symbol">
-                        CA$                    </span>
-                </a>
-            </li>
-                                <li class="mxn ">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=MXN" class="currency">
-					<div class="currency-name">
-                        MXN                    </div>
-                    <span class="currency-symbol">
-                        MX$                    </span>
-                </a>
-            </li>
-                                <li class="usd  selected">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=USD" class="currency">
-					<div class="currency-name">
-                        USD                    </div>
-                    <span class="currency-symbol">
-                        US$                    </span>
-                </a>
-            </li>
-                      
-    </ul>
-</div>
-        </div>
+                    </div>
                     <div class="social-header">
                             <div class="social">
             <span class="title">Follow Us</span>
 			<ul class="social-links">
-				<li><a href="https://www.facebook.com/SeraphineMaternity/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-				<li><a href="https://www.instagram.com/seraphinematernity/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-				<li><a href="https://twitter.com/seraphineltd/" target="_blank"><i class="fa fa-twitter"></i></a></li>
+				<li><a href="https://www.facebook.com/SeraphineMaternity/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+				<li><a href="https://www.instagram.com/seraphinematernity/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+				<li><a href="https://twitter.com/seraphineltd/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 			</ul>
 		</div>            </div>
                             <div class="responsive-menu-block-bottom">
@@ -1270,7 +1297,7 @@ jQuery(document).ready(function($) {
 <div class="category-landing-categories simple-grid">
 	<div class="category-landing-categories-item col-1-3 a-center">
 
-		<a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-dresses-us.html"><div class="image"><img alt="seraphine printed maternity dress" src="https://www.seraphine.com/en-us/media/wysiwyg/pages/Minnie.jpg"></div></a>
+		<a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-dresses-us.html"><div class="image"><img alt="seraphine printed maternity dress" src="https://www.seraphine.com/media/wysiwyg/pages/Minnie.jpg"></div></a>
 		<h3>Shop Dresses</h3>
 		<p class="text">Discover our stunning dresses &amp; find the perfect one to suit your style.</p>
 		<p><a class="button button2" href="https://www.seraphine.com/en-us/maternity-clothes/maternity-dresses-us.html" target="_top">Let's go</a></p>
@@ -1278,7 +1305,7 @@ jQuery(document).ready(function($) {
 
 
 	<div class="category-landing-categories-item col-1-3 a-center">
-		<a href="https://www.seraphine.com/en-us/maternity-clothes/celebrity-look.html"><div class="image"><img alt="celebrity in seraphine" src="https://www.seraphine.com/en-us/media/wysiwyg/pages/Celebs.jpg"></div></a>
+		<a href="https://www.seraphine.com/en-us/maternity-clothes/celebrity-look.html"><div class="image"><img alt="celebrity in seraphine" src="https://www.seraphine.com/media/wysiwyg/pages/Celebs.jpg"></div></a>
 		<h3>Celeb Style</h3>
 		<p class="text">Add a touch of star quality to your style with the looks the celebs love.</p>
 		<p><a class="button button2" href="https://www.seraphine.com/en-us/maternity-clothes/celebrity-look.html" target="_top">Love it</a></p>
@@ -1286,7 +1313,7 @@ jQuery(document).ready(function($) {
 
 	</div>
 	<div class="category-landing-categories-item col-1-3 a-center">
-		<a href="https://www.seraphine.com/en-us/nursing-clothes.html"><div class="image"><img alt="seraphine nursing clothes" src="https://www.seraphine.com/en-us/media/wysiwyg/pages/Rudy.jpg"></div></a>
+		<a href="https://www.seraphine.com/en-us/nursing-clothes.html"><div class="image"><img alt="seraphine nursing clothes" src="https://www.seraphine.com/media/wysiwyg/pages/Rudy.jpg"></div></a>
 		<h3>Nursing Clothes</h3>
 		<p class="text">Designed with you &amp; your little one in mind.</p>
 		<p><a class="button button2" href="https://www.seraphine.com/en-us/nursing-clothes.html" target="_top">Shop now</a></p>
@@ -1297,7 +1324,7 @@ jQuery(document).ready(function($) {
 
 <div class="category-landing-bottom">
 <div class="category-landing-bottom-left">
-<p><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-dresses-us.html" target="_top"> <img src="https://www.seraphine.com/en-us/media/wysiwyg/round-bottom-image/New_Trinity.png" alt="kate middleton in a pink nursing and maternity dress" class="float-center"></a></p>
+<p><a href="https://www.seraphine.com/en-us/maternity-clothes/maternity-dresses-us.html" target="_top"> <img src="https://www.seraphine.com/media/wysiwyg/round-bottom-image/New_Trinity.png" alt="kate middleton in a pink nursing and maternity dress" class="float-center"></a></p>
 </div>
 <div class="category-landing-bottom-right">
 <h3>Secure Online Shopping at Seraphine</h3>
@@ -1338,50 +1365,6 @@ jQuery(document).ready(function($) {
         </div>
     </form>
 </div>
-<div class="currency-switcher" id="currency-switcher">
-    <div class="current-currency">
-        US$        <a href="javascript:void(0)" title="Currency">
-            Currency        </a>
-    </div>
-    <ul>
-                            <li class="">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=BRL" class="currency">
-	                <span class="flag">
-	                    <img width="34" height="17" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-BRL.jpg" title="Brazilian Real - BRL">
-	                </span>
-                    <span class="title currency-symbol">
-                        R$                    </span>
-                </a>
-            </li>
-                                <li class="">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=CAD" class="currency">
-	                <span class="flag">
-	                    <img width="34" height="17" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-CAD.jpg" title="Canadian Dollar - CAD">
-	                </span>
-                    <span class="title currency-symbol">
-                        CA$                    </span>
-                </a>
-            </li>
-                                <li class="">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=MXN" class="currency">
-	                <span class="flag">
-	                    <img width="34" height="17" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-MXN.jpg" title="Mexican Peso - MXN">
-	                </span>
-                    <span class="title currency-symbol">
-                        MX$                    </span>
-                </a>
-            </li>
-                                <li class=" selected">
-                <a href="https://www.seraphine.com/en-us/privacy-and-security/?currency=USD" class="currency">
-	                <span class="flag">
-	                    <img width="34" height="17" src="https://www.seraphine.com/en-us/media/wysiwyg/header/flag-USD.jpg" title="US Dollar - USD">
-	                </span>
-                    <span class="title currency-symbol">
-                        US$                    </span>
-                </a>
-            </li>
-                        </ul>
-</div>
         <div class="footer-information footer-toggle-wrapper">
             <div class="footer-information-btn">
 	<span class="footer-toggle-btn">Help &amp; Information <span class="icon-seraphine icon-icon-angle-down"></span></span>
@@ -1397,9 +1380,12 @@ jQuery(document).ready(function($) {
 				<li><a href="https://www.seraphine.com/en-us/delivery/">Delivery Information</a></li>
 				<li><a href="https://www.seraphine.com/en-us/returns/">Returns Policy</a></li>
 				<li><a href="https://www.seraphine.com/en-us/terms-and-conditions/">Terms &amp; Conditions</a></li>
-                                 <li><a href="https://www.seraphine.com/en-us/privacy-and-security/">Privacy &amp; Security</a></li>
+                                <li><a href="https://www.seraphine.com/en-us/privacy-and-security/">Privacy &amp; Security</a></li>
 				<li><a href="https://www.seraphine.com/en-us/careers/">Careers with Seraphine</a></li>
+                                <li class="accessibilityIcon"><span data-acsb="trigger" style="cursor:pointer;"><img src="https://www.seraphine.com/media/wysiwyg/logo/WebAccessibility.png" alt="Web Accessibility" role="button" height="35px" width="35px" cursor="pointer"></span></li>
+
 			
+
 			</ul>
 		</div>
 		<div class="col-1-3">
@@ -1423,17 +1409,17 @@ jQuery(document).ready(function($) {
                 <ul>       
                                 
                                 <li><a href="https://www.seraphine.com/en-us/refer-a-friend?situation=homepage_footer">Refer a Friend</a></li>
-			        <li><a href="https://www.seraphine.com/en-us/seraphine-maternity-gift-card.html/">Gift Cards</a></li>
+			        <li><a href="https://www.seraphine.com/en-us/seraphine-maternity-gift-card.html">Gift Cards</a></li>
 
 </ul>
 <br>
 <ul class="social-links">
                              
-				<li><a href="https://www.facebook.com/SeraphineMaternity" target="_blank"><i class="fa fa-facebook"></i></a></li>
-				<li><a href="https://twitter.com/seraphineltd/" target="_blank"><i class="fa fa-twitter"></i></a></li>
-				<li><a href="https://www.instagram.com/seraphinematernity/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-				<li><a href="https://uk.pinterest.com/seraphineltd/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-				<li><a href="https://www.youtube.com/user/SeraphineMaternityTV" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+				<li><a href="https://www.facebook.com/SeraphineMaternity" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+				<li><a href="https://twitter.com/seraphineltd/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+				<li><a href="https://www.instagram.com/seraphinematernity/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+				<li><a href="https://uk.pinterest.com/seraphineltd/" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+				<li><a href="https://www.youtube.com/user/SeraphineMaternityTV" target="_blank"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
 			
 			</ul>
 		</div>
@@ -1457,7 +1443,7 @@ jQuery(document).ready(function($) {
 //]]>
 </script>    </div>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c04bff438e","applicationID":"99454474","transactionName":"blMBbUMAWUFTAkUPClcZNktYTkFTQE5GERIWRhFWVRRURlsOX0gJWlEMSlJPVF1fTkIOBEtTBxZUDxpHQU5YCAFcTk1JWRE=","queueTime":0,"applicationTime":76,"atts":"QhQCGwsaSk8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"7516e10757","applicationID":"176862936","transactionName":"M1RaY0cDWUEHBRYIXQoebUVcTUFTFEkVFkVLR1BYRhZEHRUDEABCDFhWUhsBWF9JFhAOVhFSTF5aDBhBDgcQBFZLVFYaQBEYWwgCBxkcFFlI","queueTime":0,"applicationTime":36,"atts":"HxNZFQ8ZSk8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 
 </body></html>
