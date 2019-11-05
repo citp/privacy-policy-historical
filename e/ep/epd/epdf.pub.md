@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epdf.pub privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607235828id_/https%3A//epdf.pub/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epdf.pub privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105191953id_/https%3A//epdf.pub/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EPDF.PUB
 
