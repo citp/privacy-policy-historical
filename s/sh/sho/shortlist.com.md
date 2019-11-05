@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223181941id_/https%3A//www.shortlist.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shortlist.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105115244id_/https%3A//www.shortlist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ShortList
+# Privacy Policy - Shortlist
 
-The purpose of this statement is to explain to you what personal information we collect and how we may use it.
-
- **Privacy Statement**
+**Privacy Statement**
 
 The purpose of this statement is to explain to you what personal information we collect and how we may use it.
 
-**1\. About Us**
+ **1\. About Us**
 
 This website (https://www.Shortlist.com/) is owned and operated by Shortlist Media Ltd, a company registered in England no. 06246263, having its registered offices at Jubilee House, 92 Lincoln Road, Peterborough, PE1 2SN.
 
 Shortlist Media Ltd is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK, including the General Data Protection Regulation 2016 and the Data Protection Act 2018 and we are registered on the Data Protection Public Register number Z2425006.
 
-**2\. Definitions**
+ **2\. Definitions**
 
 Unless the context otherwise requires, in this Agreement the following expressions shall have the meanings set out below:-
 
@@ -24,11 +22,11 @@ Unless the context otherwise requires, in this Agreement the following expressio
 
 For the purposes of Section 13 a subscriber is defined as an “Active Subscriber” and will remain so for a period of 90 days if they open an email from Shortlist.com or enter a competition.
 
-**3\. The Data Protection Officer (DPO)**
+ **3\. The Data Protection Officer (DPO)**
 
 Due to the type of data we collect and the nature of our business we currently have no legal requirement to have a DPO at Shortlist Media Ltd. However, our Information Security Officer, will be happy to deal with any queries or requests regarding the data we hold about you. They can be contacted by email at [privacy@shortlist.com](mailto:privacy@shortlist.com) or by post to Information Security Officer, Shortlist Media Ltd., 26-34 Emerald Street, London, WC1N 3QA.
 
-**4\. Information we collect about You and How we use it**
+ **4\. Information we collect about You and How we use it**
 
 When you register on our website we may collect your name, address, email address, contact number and other contact details and content preference information. This allows us to process your registration.
 
@@ -36,7 +34,7 @@ We do not collect sensitive information (also known as special categories of inf
 
 We do collect some information from cookies and similar software which allows us to understand how you arrive on our websites, and use and navigate round them so we can improve the sites. We obtain some information from google analytics and Facebook. The Facebook information provided is limited and only that which you have previously agreed with Facebook that they can share.
 
-**5\. What we do with your Information**
+ **5\. What we do with your Information**
 
 We will use your personal information for a number of purposes including
 
@@ -60,7 +58,7 @@ We will use your personal information for a number of purposes including
 
 • We may use and disclose information in aggregate (so no individuals are identified) for marketing and strategic development purposes.
 
-**6\. What if I don’t provide some or all of the information requested?**
+ **6\. What if I don’t provide some or all of the information requested?**
 
 The impact of this will depend on what information you withhold but the main impacts may be:
 
@@ -76,7 +74,7 @@ The impact of this will depend on what information you withhold but the main imp
 
 Withholding marketing consent. You are free to do this at any time. It will only stop you receiving marketing. It will not impact any other service/events we provide you with.
 
-**7\. Will You be contacted for Marketing Purposes?**
+ **7\. Will You be contacted for Marketing Purposes?**
 
 We use your personal information to update you about new products/services by post and email. We will only contact you with your consent. You will provide this either when you fill in a form to provide your data, by signing up for a newsletter, selecting your preferences in your online account or when you call us.
 
@@ -86,7 +84,7 @@ We may use information which we hold about you to show you relevant advertising 
 
 You are entitled to withhold this consent and opt out from receiving such communications at any time by not giving your consent on the form (paper or web) that collects your details or telling the operator when you call. You can also update these options by logging into your account (if you have one) and adjusting your preferences, contacting us by email at [privacy@shortlist.com](mailto:privacy@shortlist.com) or by post to Information Security Officer, Shortlist Media Ltd., 26-34 Emerald Street, London, WC1N 3QA We will always provide you with a way of opting out of receiving future marketing messages from us, each time we send them to you.
 
-**8\. What grounds (legal basis) are we processing the data under?**
+ **8\. What grounds (legal basis) are we processing the data under?**
 
 There are a number of ground we process your data under. These are
 
@@ -98,7 +96,7 @@ There are a number of ground we process your data under. These are
 
 • Consent – where you have given us consent to market to you.
 
-**9\. Sharing your Information with Third Parties**
+ **9\. Sharing your Information with Third Parties**
 
 We may from time to time provide your personal information to third parties for the purposes of providing you with our events and services. These third party providers include payment processors, providers of card validation services, credit referencing providers, third party sales processor (includes fulfilment services) and service providers who assist us with hosting our marketing/advertising campaigns. They do not decide what is done with your data and only process it on our behalf. These third parties may be located outside the European Economic Area; however we only use providers that provide adequate protection for your information at all times.
 
@@ -116,15 +114,15 @@ When transferring any personal information outwith the EEA we only do so under o
 
 We will not provide your data to other third parties for marketing purposes unless you have specifically consented to this when you first provided your data to us. You are entitled to withhold this consent and opt out from receiving such third party communications at any time by not giving your consent on the form (paper or web) that collects your details or telling the operator when you call. You can also update these options by contacting us by email at [privacy@shortlist.com ](mailto:privacy@shortlist.com)or by post to Information Security Officer, Shortlist Media Ltd., 26-34 Emerald Street, London, WC1N 3QA.
 
-**10\. Cookies [and web browser information]**
+ **10\. Cookies [and web browser information]**
 
 This website uses cookies. For more information about what cookies are, what we use them for and how you can delete them, please read our cookies policy.
 
-**11\. What if I am aged under 16?**
+ **11\. What if I am aged under 16?**
 
 If you are aged 16 or under, please get your parent/guardian’s permission before you provide any personal information to Shortlist Media Ltd as this website is not aimed at under 16’s.
 
-**12\. How we Protect your Information**
+ **12\. How we Protect your Information**
 
 We follow strict security procedures in the storage, use and disclosure of information which you have given us, to prevent unauthorised access to, and loss, misuse or alteration of your personal information in accordance with the UK data protection legislation. These include access control, firewalls and virus checking procedures.
 
@@ -132,7 +130,7 @@ You are responsible for keeping any confidential passwords or other login or acc
 
 We also recommend that if you use a shared computer or a computer in a public place such as a library that you close your browser when you have finished you session
 
-**13\. How long we hold your Data for**
+ **13\. How long we hold your Data for**
 
 Some of the information you provide to us is necessary to carry out repeated tasks, such as verifying your identity when signing in to use an account or providing our events and services to you or you using an online checkout. We will keep this information for as long as you remain a registered user of any of our sites and an Active Subscriber.
 
@@ -142,7 +140,7 @@ Shortlist Media Ltd do not retain your payment card information. It is keyed dir
 
 We may retain anonymised information for analytical purposes.
 
-**14\. Your rights regarding your Personal Information**
+ **14\. Your rights regarding your Personal Information**
 
 Under the Data Protection law you have a number of rights with respect to your personal information which are:
 
@@ -176,11 +174,11 @@ You are entitled to request that we stop processing your data for marketing purp
 
 You can action any of these rights by contacting your normal customer service department or by contacting us by email at [privacy@shortlist.com](mailto:privacy@shortlist.com) or by post to Information Security Officer, Shortlist Media Ltd., 26-34 Emerald Street, London, WC1N 3QA.
 
-**15\. Sale of the Business**
+ **15\. Sale of the Business**
 
 Should all or part of the Shortlist Media Ltd business be sold to or taken over by another organisation, your personal information may move to that other organisation as part of the sale or takeover agreement.
 
-**16\. Right of complaint to the Regulator for Data Protection**
+ **16\. Right of complaint to the Regulator for Data Protection**
 
 The data protection laws in the UK are regulated and enforced by the Information Commissioner’s Office (ICO). Each individual has the right to raise a concern/complaint to the ICO if they have any concerns about how their personal information and/or privacy is treated. You can do this via
 
@@ -192,15 +190,15 @@ Email [casework@ico.org.uk](mailto:casework@ico.org.uk)
 
 Postal address: Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF
 
-**17\. Links to Third Party Websites**
+ **17\. Links to Third Party Websites**
 
 Our website may contains links to other websites belonging to third parties which are not covered by this privacy policy. If you want to click through to a third party website, please make sure that you read the privacy policy for that website.
 
-**18\. Updates to this Policy**
+ **18\. Updates to this Policy**
 
 We may update this Policy at any time without notice. We will tell you that we have updated the policy by emailing you at the email address you have provided to us and/or by posting an announcement on the website. By continuing to use the website after we have emailed you or posted a notice informing you of an update, you accept the changes to this Policy.
 
-**19\. Contacting Us**
+ **19\. Contacting Us**
 
 If you have any questions about privacy, or wish to update your details or action any of your other data rights at any time, please contact us using [privacy@shortlist.com.](mailto:privacy@shortlist.com)
 
