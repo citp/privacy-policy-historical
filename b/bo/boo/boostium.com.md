@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostium.com privacy policy that was archived on 2018-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180816000158id_/https%3A//brandpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostium.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105045024id_/https%3A//brandpa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
