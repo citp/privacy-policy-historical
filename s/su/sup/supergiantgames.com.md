@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supergiantgames.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303145246id_/http%3A//store.supergiantgames.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supergiantgames.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105094224id_/http%3A//store.supergiantgames.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Supergiant Games
 
