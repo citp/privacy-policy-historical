@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the generalmills.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525164046id_/https%3A//www.generalmills.com/en/Company/privacy-policies/privacy-policy-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the generalmills.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105204722id_/https%3A//www.generalmills.com/en/Company/privacy-policies/privacy-policy-US) for the most accurate reproduction.*
 
 # General Mills: Privacy policy
 
