@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the big5sportinggoods.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630123211id_/http%3A//big5sportinggoods.com/store/company/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the big5sportinggoods.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105082549id_/http%3A//big5sportinggoods.com/store/company/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Big 5 Sporting Goods
 
