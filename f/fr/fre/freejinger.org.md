@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freejinger.org privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120142735id_/https%3A//www.freejinger.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freejinger.org privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105083844id_/https%3A//www.freejinger.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Free Jinger
 
@@ -48,7 +48,7 @@ We may disclose Personal Data without providing you with a choice under the foll
 
 Free Jinger is housed on servers maintained and operated by Liquid Web. Liquid Web utilizes security measures to protect the loss, misuse and alteration of the information under its control. Servers have security in place to guard against an intruder from retrieving personal information about its users. 
 
-If you feel this policy has been violated, [please contact us](https://web.archive.org/cdn-cgi/l/email-protection#a7cfc2cbd7cac2e7c1d5c2c2cdcec9c0c2d589c8d5c0). 
+If you feel this policy has been violated, [please contact us](mailto:helpme@freejinger.org). 
 
 **Termination**
 
