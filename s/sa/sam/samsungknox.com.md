@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungknox.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402115009id_/https%3A//www2.samsungknox.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungknox.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105124620id_/https%3A//www2.samsungknox.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Samsung Knox Privacy Policy | Samsung Knox
 
@@ -19,6 +19,10 @@ For example:
 • We may collect information about the products and services you or your employer have bought or received and payment data and other information provided in connection with a transaction;
 
 • We also may receive personal information about you from your employer or service provider or from publicly and commercially available sources (as permitted by law), which we may combine with other information we receive from or about you.
+
+ **Third Party Analytics**
+
+Through the Business Services, we may collect personal information about your online activities on the Business Services’ websites and connected devices over time and across third-party websites and devices. We may use third-party analytics services on the Business Services, such as those of Google Analytics. The service providers that administer these analytics services help us to analyze your use of the Business Services and improve the Business Services. The information we obtain may be disclosed to or collected directly by these providers and other relevant third parties who use the information, for example, to evaluate use of the Business Services, help administer the Business Services and diagnose technical issues. To learn more about Google Analytics, please visit <http://www.google.com/analytics/learn/privacy.html> and <https://www.google.com/policies/privacy/partners/>.
 
  **How do we use your information?**
 
@@ -106,4 +110,4 @@ You can make choices about whether to receive promotional communications from us
 
  **Contact**
 
-Privacy Policy version: 1.0
+Privacy Policy version: 1.1
