@@ -1,57 +1,356 @@
-> *The following text is extracted and transformed from the gays.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509103830id_/http%3A//gays.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gays.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105063044id_/https%3A//www.gays.com/policy/popup/true) for the most accurate reproduction.*
 
-# 
+# Gays.com - online dating community for men seeking men
 
-At Gays.com we couldn’t care more about you and your privacy and are strictly following four fundamental principles:
+Introduction        
 
-  * We only ask you for the personal information we really need. (We believe a social network really doesn’t need to ask about your income level and whether you like cats or dogs – you provide all information you want yourself and at your privacy.)
-  * We would never share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We store your personal information on our servers only as required for the on-going operation of one of our services.
-  * We offer you as many possibilities as we can for the privacy settings of your profile. We want you to be solely in control of who can see what on your Gays.com profile.
+1\. Details of the Controller        
+
+2\. Information on the Types of Data Processed and Their Origin        
+
+a. Types of Data That We Automatically Collect        
+
+During every visit of our Website:        
+
+b. Types of Data You Transmit to Us        
+
+i. User account / profile data:        
+
+ii. Optional Profile Information:        
+
+iii. Location Data:        
+
+iv. Communication Data: Users        
+
+v. Communication Data: Customer Service        
+
+vi. Data for Age Verification and Fake Check:        
+
+vii. Social Sign-On:        
+
+3\. Processing Purposes & Legal Bases        
+
+purposes:        
+
+Your consent (Art. 6 (1) lit. a & Art. 9 (2) lit. a GDPR)        
+
+Fulfilment of contractual obligations (Art. 6 (1) lit. b GDPR)        
+
+Protecting vital interests (Art. 6 (1) lit. d GDPR)        
+
+Safeguarding legitimate interests (Art. 6 (1) lit. f GDPR)        
+
+Legal requirements or in the public interest (Art. 6 (1) lit. c & e GDPR)        
+
+4\. Data Transmission        
+
+a. To Other Users:        
+
+b. To Group Companies:        
+
+c. Third parties and Other Recipients:        
+
+Affiliate Systems        
+
+Amazon S3        
+
+Public Authorities        
+
+Compay        
+
+Facebook        
+
+Google        
+
+Kayako        
+
+Paysafecard.com        
+
+Twilio        
+
+Typeform        
+
+Vendo        
+
+Virtual Business Support        
+
+5\. Processing of Payment Data        
+
+6\. Information on Behavioural Advertising        
+
+7\. Transfer to Countries Outside the EU or the EEA        
+
+8\. How Long Will my Data be Stored?        
+
+9\. Information on the Voluntary Nature of the Information Provided        
+
+10\. Information About Your Rights        
+
+11\. Information About Your Right of Objection        
+
+a. Right of Objection in Individual Cases        
+
+b. Right to Object to the Processing of Data for Advertising Purposes        
+
+12\. Amendment of the Privacy Statement        
+
+This Privacy Notice provides an overview of the processing of your personal data in the context of the use of the offers and online Services on [our](https://www.google.com/url?q=http://www.gay.de&sa=D&ust=1558080699370000) Website (hereinafter referred to as the ‘Service’). 
+
+Furthermore, this Privacy Notice informs you about your rights and the possibilities you have to control your personal data and to protect your privacy.
+
+We have always taken the protection of your personal data very seriously and continuously take appropriate organisational, contractual and technical measures to protect your data from unauthorised or unlawful processing and against accidental loss, destruction or damage.
+
+The data controller is Ideawise Limited, Room 604, Alliance Building, 133 Connaught Road, Central Hong Kong, Hong Kong. Its representative is SmH ServiceCenter.de GmbH, P.O. Box: 20 04 34, 13514 Berlin/Germany. Please direct any general support requests to: [support@](mailto:support@gay.de)gays.com). 
+
+Ideawise Limited is also meant when the terms ‘we’ or ‘us’ are used below.  Please note that we are a company based outside the European Economic Area (‘EEA’). As far as you use our Service and data is processed, these data are transferred to a so-called ‘Third Country’. Details can be found in section 7 below. You can contact our data protection officer at: dataprotection@gays.com (general support request will not be processed by the data protection team, please direct these requests to support@gays.com).
+
+If we provide the Service for your use, we process personal data from various sources. This is data that we collect automatically - for example when you visit our Website - as well as other data that you have additionally provided to us.
+
+## a. Types of Data That We Automatically Collect
+
+When visiting our Website, you submit technical information to our servers. This happens regardless of whether you subsequently register an account with us to use the Service or not. In any case, the following data will be processed:
+
+  * ### During every visit of our Website:
 
 
 
-The following Privacy Policy incorporates these goals.
 
-## Website Visitors
+The so-called server log. This is a file which stores the following data: the time, the status of your Website visit (status means in this case whether the request of the Website was successful or not) as well as the request that your browser has made to the server to open the page, the amount of data transferred and the Website from which you came to the requested page (referrer), and the product and version information of the browser used (user agent).
 
-Like most website operators, Gays.com collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how our visitors use Gays.com. From time to time, Gays.com may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website. Gays.com also collects potentially personally-identifying information like Internet Protocol (IP) addresses. We do not use such information to identify the Gays.com visitors, however, and do not disclose such information, other than under the same circumstances that we use and disclose personally-identifying information, as described below.
+We also use cookies and API tokens to process this data. Cookies are usually small text files that download to your device and that store the above information about you when you use our Services. API tokens are unique identifier files that we use for authentication when requesting access to our Service. If you want to learn more about how cookies and API tokens work, what cookies and API tokens we use, and where you can find opt-out options, click [here](https://www.google.com/url?q=https://www.gays.com/privacy/cookies&sa=D&ust=1558080699381000). 
 
-## Gathering of Personally-Identifying Information
+If you create a profile on our Service, we will assign a so-called unique user ID to it. Besides your chosen profile name, the unchangeable Unique User ID allows us to uniquely identify your profile.
 
-Most visitors to the Gays.com website choose to interact with Gays.com in ways that require us to gather personally-identifying information. The amount and type of information that Gays.com gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a basic Gays.com account to provide a name, email address, gender, orientation, date of birth and location. Once you are a member, you may provide additional information in the profile section describing your interests, background and networking objectives. Whether or not to provide this additional information beyond what is required at registration is entirely up to you, but it will allow you to better present and express yourself on Gays.com. In each case, Gays.com collects such information only insofar as is necessary or appropriate to fulfill the purpose of your interaction with Gays.com. We do not disclose personally-identifying information other than as described below. Generally, visitors and members of Gays.com can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+## b. Types of Data You Transmit to Us
 
-## Aggregated Statistics
+In addition to the data we receive from all Website visitors, we also process other data from registered users. 
 
-Gays.com may collect anonymous statistics about the behavior of visitors to its website. Gays.com may display this information publicly or provide it to others. However, Gays.com does not disclose personally-identifying information other than as described below.
+The exact amount of this data depends on how you use the Service. 
 
-## Protection of Certain Personally-Identifying Information
+Personal information that you publicly upload to your profile or other areas of the Service will be visible to other users (and searchable via the search feature within the Service). If you choose additional settings for the wider publication of your data, this information will also be accessible to users who are not logged in. These privacy settings can be determined by you in your profile settings. 
 
-Gays.com discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on our behalf or to provide services available at the Gays.com website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using the Gays.com website, you consent to the transfer of such information to them. Gays.com will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Gays.com discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Gays.com believes in good faith that disclosure is reasonably necessary to protect the property or rights of Gays.com, third parties or the public at large. Gays.com takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+The data you provide to us include:
 
-## Links
+### i. User account / profile data:
 
-Gays.com may contain links to other websites. We are not and cannot be responsible for the privacy practices of other websites. We encourage you to be aware when you leave Gays.com to read the privacy statements of each and every web site that collects personally-identifying information. This Privacy Policy applies solely to information collected at Gays.com.
+To use the Service, you can create a user account (a ‘Profile’). When you create a Profile, you must provide some mandatory information to complete the registration. 
 
-## Email Communications
+Required are:
 
-If you are a registered user of the Gays.com website and have supplied your email address, we may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Gays.com and our services. We also use the website itself to communicate this type of information, so we expect to keep this type of email to a minimum. You may also receive notification emails from Gays.com which inform you of actions (e.g. friend requests) that have been performed on the website. Please note that in all cases you will continue to receive all system emails (e.g. those regarding forgotten member passwords) and legal notices (e.g. updates to our policies) from Gays.com. If you send us a request (for example via a support email or via a feedback mechanism), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. However, we will never provide your email address publicly on the website or to a third party without explicit permission.
+● Username
 
-## Cookies
+● Password
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. Gays.com uses cookies to help us identify and track visitors, their usage of the Gays.com website, and their website access preferences. Gays.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before accessing the Gays.com website, with the drawback that certain features of the Gays.com website may not function properly without the aid of cookies.
+● Email address
 
-## Security
+● Gender
 
-In order to secure your personal information, access to your profile and personal data on Gays.com is password-protected. In order to further protect any of your data stored on our servers, we also regularly audit our systems for possible vulnerabilities and attacks and we use a tier-one secured-access data center.
+● Country
 
-## Privacy Policy Changes
+● City and postcode
 
-Although most changes are likely to be minor, Gays.com may change its Privacy Policy from time to time, and in Gays.com’s sole discretion. We encourage members and visitors to frequently check this page for any changes to the Privacy Policy. If you have a Gays.com account, you should also check your home page for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+● Date of birth
 
-## Effective Date of this Privacy Policy
+● What gender is searched for
 
-This Privacy Policy is effective as of April 1, 2008 and last updated April 30, 2008. Note, this Privacy Policy is partly derived from a Privacy Policy released by Automattic Inc. under a Creative Commons Sharealike license. Therefore, this Privacy Policy is available under the same license. Thanks to the lovely folks at Automattic and [Wordpress.com](http://wordpress.com/) for sharing.
+● What you are looking for (one-night stand, affair...)
 
-[](http://creativecommons.org/licenses/by-nc-sa/3.0/)  
-This work is licensed under a [Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
+When uploading an image, other users have the option of sending the image directly from our Service to Google Image Search using the ‘Classify Images’ feature. This way, other users can help us to better recognise fake profiles and unwarrantedly uploaded images. Of course this does not apply where you have uploaded an image to your secret gallery.
+
+### ii. Optional Profile Information:
+
+The use of the Service is possible only with the aforementioned information. However, you may also provide additional personal information in your Profile, such as physical characteristics, personal interests or detailed information about your sexual preferences, political opinion or ideological beliefs. If you want to, you can upload photos and videos to your Profile or to a secret gallery. The scope of this optional data can be determined by you via the respective input fields in your Profile settings. 
+
+### iii. Location Data:
+
+When you register with our Service, we use your IP once to determine your approximate location. You can agree to this localisation when registering or change it if necessary. 
+
+### iv. Communication Data: Users
+
+If you communicate with other users of our Service, we save your conversations so that the conversation history with your chat partners can be permanently displayed, and conduct checks on certain keywords for the prevention of criminal activity. 
+
+### v. Communication Data: Customer Service
+
+When you contact our Customer Service, written communications between you and the Service staff and notes on each transaction are stored so that you can always have a smooth Customer Service experience when the transaction is resumed by other Service staff.
+
+### vi. Data for Age Verification and Fake Check:
+
+To perform the age verification (18+ check), we need a video from you. You must be visible in the video. In addition, your date of birth must be clearly visible on an official identity card. This way, we can verify that you are in fact of age.
+
+Alternatively, (Germany only), with 'Age Verification via PIN', €0.99 will be deducted from your bank account and your age checked and verified by Schufa. Upon entering the unique PIN code from your bank statement on your profile, you are age-verified. 
+
+If your profile is suspected of being a fake profile, you must have your profile verified. To do this, you need to upload an image that shows your face. You must also visibly hold a note in your hand stating your user name and the current date.
+
+### vii. Social Sign-On:
+
+You can also use the ‘Login with Facebook’ feature to create your profile. When choosing this feature, you transmit your username on the social network at www.facebook.com (‘Facebook’), your email address with which you registered on Facebook, as well as your gender, first name and your profile picture. Your first name and profile picture are used to suggest a profile name and profile picture in our Service, you can reject or change both during the sign-up process.
+
+We process your data exclusively for the following defined
+
+## purposes:
+
+\- To allow you and other users to use the Service and to ensure its functionality
+
+\- To provide you with additional Services that you have purchased
+
+\- To keep you up to date with relevant information about our Service and to send you system notifications to the e-mail address you have provided.
+
+\- To send our newsletter and other information about our Services to the provided e-mail address (such as for example about competitions/sweepstakes, discount campaigns, events, satisfaction surveys or other similar offerings of our online platforms)
+
+\- To adapt the provision of the Service to your needs 
+
+\- To display advertising tailored to your interests (including participation in sweepstakes)
+
+\- To continuously improve the Service offer and to correct errors
+
+\- To detect and prevent fraud attempts 
+
+\- To ensure the protection of minors 
+
+\- To enable the exchange with Customer Service in case of questions
+
+\- To check information published on your profile or shared by you through the Service
+
+\- To disclose your personal data to third parties if we are legally obliged to do so
+
+\- To assert legal claims and to defend against legal disputes  
+
+\- To ensure IT security and smooth operation of IT systems 
+
+\- To assist the competent authorities in discovering and prosecuting criminal offences including, but not limited to, offences causing bodily injury or death of the victims
+
+In doing so, we rely on various legal bases in accordance with the so-called General Data Protection Regulation, a European Union legal framework for the standardisation of data protection law (‘GDPR’ for short). We refer in detail to the following legal bases:
+
+## Your consent (Art. 6 (1) lit. a & Art. 9 (2) lit. a GDPR)
+
+When visiting the Website without registration, you agree to the cookie guidelines in the pop-up. If you have given us your consent to process personal data for specific purposes, this consent ensures the legality of the processing. By registering and creating your profile, you expressly agree to its use for the purposes described in detail in this Privacy Notice by ticking the box before submitting the registration form. So, if we process your data, it is because you have expressly allowed us to do so when you registered. Your consent is therefore the most important legal basis for the processing of your personal data by us. If you provide us with information about your sexual orientation or preferences, we will process this data exclusively on the basis of your consent.
+
+## Fulfilment of contractual obligations (Art. 6 (1) lit. b GDPR)  
+
+At the same time, the processing of personal data takes place also for the provision of the Service and in the context of the performance of our contract with you. In many cases, the processing is not only justified by your consent, but also because it is necessary to fulfil our contract with you: In order to fulfil your claim to the Services described in more detail in our General Terms and Conditions, it may be necessary, for example, to process your personal data, for example, if you wish to pay for your Vip or Premium membership the processing of your payment information is required.
+
+## Protecting vital interests (Art. 6 (1) lit. d GDPR)
+
+We invoke this legal basis in narrowly defined case constellations (e.g. reported suicide announcements) where the processing is necessary for the protection of the vital interests of the data subject or another natural person.
+
+## Safeguarding legitimate interests (Art. 6 (1) lit. f GDPR)
+
+By registering to use the Service, you consent to the processing of your data in accordance with this Privacy Notice. That is why we process your data in principle, because you have allowed us to do so. However, there are some cases in which we would be entitled to process your data without your consent because it is necessary to protect our legitimate interests (or the interests of third parties). In this respect, the purposes for which we process your data also represent legitimate interests. We pursue legitimate interests, for example, if we check images or texts for content relevant under applicable criminal law or if we take measures to secure our ‘virtual domiciliary rights’. In these cases, we will not ask you in advance whether you agree to this processing, since processing is otherwise permitted by law.
+
+## Legal requirements or in the public interest (Art. 6 (1) lit. c & e GDPR)
+
+In addition, we are legally obliged to provide certain information to criminal prosecution, tax or other authorities in individual cases upon request, if such processing is necessary for safeguarding public interest. Additionally, commercial and tax law contain such obligations for processing in some cases. 
+
+We treat your personal data with care and confidentiality and will only pass them on to third parties and other recipients to the extent described below and not beyond.
+
+## a. To Other Users:
+
+As our Service is a platform for getting to know each other, it is in the nature of things that we forward your profile data as well as other data (e.g. news you write and other communication you have with other users and the community) at your request and on your behalf to the corresponding users of the Service.
+
+## b. To Group Companies:
+
+We transfer data to affiliated companies which form part of the same group of companies as us within the framework of strict protection requirements. This is the case, for example, when you make a Customer Service request. We will then forward this request to SmH ServiceCenter.de GmbH, a service company associated with us. In addition, our development company, TheNetCircle Network Co. Ltd. as well as the payment / debt collection partners Compay GmbH and Faircollect GmbH and the community management and marketing at Playamedia S.L. receive the necessary information to ensure the security and functionality of the Service and the handling of payments. 
+
+## c. Third parties and Other Recipients:
+
+In addition, we transmit data to external service providers who enable us to provide the Service to you. These include hosting providers, delivery service providers, payment service providers and providers of analytics platforms. We require each of these service providers to comply with strict rules about the security of your personal information when processing personal information on our behalf. Such processing operations are therefore principally based on contractual agreements guaranteeing an adequate level of protection for your data. 
+
+### Affiliate Systems
+
+We use the following affiliate systems to attract new customers to our community. In doing so we measure success on the basis of registrations and revenue.
+
+\- Hasoffers/TUNE (location USA, Privacy Shield certified) is an affiliate marketing platform that uses anonymised postback tracking as well as pixel tracking to track in-site/in-app user activity (e.g. purchase of memberships, picture uploads yes/no etc.) of a user that was acquired via the Hasoffers affiliate marketing platform. We use this service to understand how users acquired via this channel interact with our sites and to analyse the effectiveness of our Hasoffers campaigns. [Further information](https://www.google.com/url?q=https://www.hasoffers.com/privacy-policy/&sa=D&ust=1558080699397000) and [opt-out options](https://www.google.com/url?q=https://optoutmobile.com/&sa=D&ust=1558080699398000)
+
+### Amazon S3
+
+This hosting service (processing in USA and Europe, Privacy Shield certified) is used by us to store and deliver videos and images. 
+
+### Public Authorities
+
+We transmit data to authorities in the event of a legal obligation based on a request for information from the respective authority.
+
+### Compay
+
+Our subsidiary Compay GmbH (located in Germany, adequate level of data protection) is our payment collection partner. When purchasing a membership or points via the website or mobile website, the billing information is passed directly to Compay. [Here](https://www.google.com/url?q=https://www.gays.com/privacy/payinfo&sa=D&ust=1558080699400000) you can see what data is involved.
+
+### Facebook
+
+We use Facebook (location USA, Privacy Shield certified) for the feature ‘Log in with Facebook’. The data required for registration (e-mail address, date of birth, first name, profile photo) is transferred from Facebook to us. 
+
+### Google
+
+Google LLC is a Privacy Shield certified provider from the USA. Google Analytics is used to analyse the behavior of users of our Services. With the help of Google Captcha, we can determine whether a visitor is a human being or a machine for certain actions. YouTube videos are embedded in our Service in ‘advanced privacy mode’. While no Youtube cookies are set due to this particularly data protection-friendly method of embedding, calling up the pages nevertheless leads to a connection being established with YouTube and the DoubleClick network. A click on the video can trigger further data processing operations over which we have no control. [Information on opt-out options](https://www.google.com/url?q=https://support.google.com/ads/answer/2662922?hl%3Den&sa=D&ust=1558080699401000) 
+
+### Kayako
+
+Kayako (location UK, adequate level of data protection) is our system for dealing with customer queries. With each request the e-mail address, your preview profile picture and the username will be transmitted.
+
+### Paysafecard.com
+
+Paysafecard.com (branch of the Prepaid Services Company Limited located in Germany, adequate level of data protection) is a payment provider for anonymous payments. With a Paysafecard you can buy a membership or points. If you select Paysafecard when you purchase, the User ID will be passed on to Paysafecard.com and the email address will be passed on to our own payment provider Compay.
+
+### Twilio
+
+We use Twilio (location USA, Privacy Shield certified) for our free SMS service. If this feature is used, the recipient's telephone number and the SMS text are transferred.
+
+### Typeform
+
+With this survey feature (location Spain, adequate level of data protection) we improve and entertain our community through a permanent feedback survey, as well as regular via quizzes, other surveys and evaluations. It depends on each survey which information is passed on to Typeform, furthermore you decide yourself what you enter here. Among other things, the nickname, sex, payment class, information about the device (operating system, model, manufacturer and mobile phone provider) as well as the location stored in the profile can be transmitted.
+
+### Vendo
+
+Vendo (location Switzerland, adequate level of data protection) is an alternative payment provider for payments outside of Germany, Austria and Switzerland. When purchasing a membership or points, the User ID will be forwarded directly to Vendo.
+
+### Virtual Business Support
+
+In order to unlock uploaded pictures even faster, we work with Virtual Business Support (Philippines), who moderate new pictures with the help of expert staff. For the Philippines there is currently no adequacy decision of the European Commission, the processing is based on your explicit consent according to Art. 49 GDPR, and is based on data processing agreements and standard contract clauses.
+
+When purchasing on our Service through the Website or mobile Website, we transfer different information to our collection partners for each payment method. Our partners are Compay GmbH, Vendo Services GmbH, and Paysafecard.com Services. [Here](https://www.google.com/url?q=https://www.gays.com/privacy/payinfo&sa=D&ust=1558080699406000)[ you can](https://www.google.com/url?q=https://www.gay.de/privacy/payinfo&sa=D&ust=1558080699406000) find out which data this is for each desired payment method. 
+
+‘Behavioral advertising’ means the use of tracking measures to determine the potential interest of users in advertisements on our Website and to display them according to their interests. For this we use the following features: Gender, membership type, 18+ status, preferences, interest in membership, number of logins and which gender a member is looking for. Members with a Premium and VIP membership have the possibility to turn off advertising. 
+
+All servers of the Service are located in the European Economic Area (‘EEA’), so your data do not technically leave the EEA for the time being, but the technical provision and processing of the data for the operation of the Service takes place in the European Union.
+
+However, when you submit information to us, it is legally transferred to a country outside the EEA because we are based in Hong Kong (P.R. China). In addition, our development company is also based in China, from where it has technical access to the servers in the European Union (EU). 
+
+According to the GDPR, China is a so-called ‘Third Country’ in which no adequate level of data protection can be guaranteed in principle; there is no corresponding adequacy decision and no specific guarantees to compensate for this deficit. This means that, from a European perspective, personal data and data subjects enjoy less protection and rights there, as would be the case, for example, with processing operations in Australia, Russia or India.
+
+If we transfer data to a third country, we generally guarantee an adequate level of data protection. This applies regardless of whether it is a transfer to an affiliated company or to another recipient (such as an external service provider). In these cases, we will ensure that the transfer is either based on approved standard contractual clauses, or that providers in the United States are certified under the EU-US Privacy Shield Program, or that there is another appropriate guarantee of an adequate level of data protection.
+
+We process and store your personal data for as long as it is necessary for the fulfilment of our contractual or legal obligations. Thus, we store the data in principle only as long as our contractual relationship with you exists and also after termination only as far as the laws of the Federal Republic of Germany and the People's Republic of China require this. If the data are no longer necessary for the fulfilment of such obligations, they shall be deleted regularly and without delay, unless their further processing is necessary for the protection of legitimate interests or for the preservation of evidence within the framework of statutes of limitations. In this sense, in particular the storage of age verification and fake suspicion photos and videos is carried out expressly for the entire duration of the contract, since we hold this data in particular for the ongoing guarantee of the protection of minors and the prevention of fraud attempts.
+
+The data collected under 2.a are stored for 90 days. This storage period serves our protection against attacks on the systems of our Service, e.g. by so-called Distributed Denial of Service attacks, in which the systems are deliberately overloaded by a large number of accesses to our Service in order to interrupt the provision of our Service.
+
+You are not legally obliged to provide us with the above data. In principle, the contractual relationship that you have entered into with us by agreeing to our General Terms and Conditions does not result in any obligation to provide this personal data. However, the transmission of the compulsory data is a basic requirement for a conclusion of a contract with us. In addition, if you do not provide us with certain information or if you object to its use, you may not be able to use the Service, or only to a limited extent. This is because the Service essentially only becomes ‘alive’ through the content posted by the users. 
+
+You can assert the following rights:
+
+Your right to information according to article 15 GDPR, 
+
+Your right to rectification according to article 16 GDPR, 
+
+Your right to erasure according to article 17 GDPR, 
+
+Your right to restriction of processing according to Article 18 GDPR as well as 
+
+Your right to data portability according to Article 20 GDPR. 
+
+If you have any questions in this regard, please contact customer service at support@gays.com. 
+
+You can revoke your consent to the processing of personal data at any time.
+
+In addition, you have the right to lodge a complaint with the responsible data protection supervisory authority. 
+
+## a. Right of Objection in Individual Cases 
+
+In addition to the rights already mentioned, you have the right, for reasons arising from your particular situation, to object at any time to the processing of personal data relating to you on the basis of Article 6 (1) lit. f GDPR (data processing on the basis of a balancing of interests). If you object, we will no longer process your personal data unless we can prove compelling reasons for processing worthy of protection which outweigh your interests, rights and freedoms, or the processing serves the assertion, exercise or defence of legal claims. 
+
+## b. Right to Object to the Processing of Data for Advertising Purposes
+
+You also have the right to object at any time to the processing of your personal data for the purpose of direct marketing. If you object, we will no longer process your personal data.
+
+Please also note the information in Section 9 of this Privacy Policy: If we terminate the processing due to your objection, it may be that the Service can no longer be made available to you or only to a limited extent.
+
+The objection can be made in each case form-free and should be addressed to support@gays.com if possible.
+
+We reserve the right to occasionally adapt parts of this Privacy Statement which do not require consent so that they always comply with the current legal requirements or to implement changes to our Services in the Privacy Statement, e.g. when introducing new Services. Your new visit will then be subject to the new privacy policy. If your prior consent is required for a change to our Services or for the introduction of a new Service, we will inform you in good time and ask for your consent.
