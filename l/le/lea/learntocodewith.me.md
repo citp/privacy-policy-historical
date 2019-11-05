@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learntocodewith.me privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401060127id_/https%3A//learntocodewith.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learntocodewith.me privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105195432id_/https%3A//learntocodewith.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,3 +66,5 @@ For more information about our privacy practices, if you have questions, or if y
 Laurence Bradford, PO Box 230380, New York, NY, 10023, United States
 
 _This policy was last updated on July 23, 2018._
+
+We use cookies to customize content and give you the best experience possible. If you continue using the site, we'll assume you're happy with this. GOT IT
