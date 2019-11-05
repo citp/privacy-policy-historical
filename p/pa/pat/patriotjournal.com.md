@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotjournal.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425215239id_/http%3A//patriotjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotjournal.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105031925id_/https%3A//patriotjournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Patriot JournalPatriot Journal
 
