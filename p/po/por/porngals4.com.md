@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porngals4.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317060611id_/http%3A//www.porngals4.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porngals4.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105014635id_/https%3A//www.porngals4.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
