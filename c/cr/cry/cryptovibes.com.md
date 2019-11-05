@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cryptovibes.com privacy policy that was archived on 2018-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181020021829id_/https%3A//www.cryptovibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cryptovibes.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105161922id_/https%3A//www.cryptovibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cryptovibes.com - Your source of cryptocurrency
 
@@ -105,3 +105,5 @@ Privacy policy
 (c) on our social channels;
 
 Disclaimer: If you keep using Cryptovibes.com website after May 25th and was our subscriber before MAY 25th 2018 you automatically agree to get our further emails and future releases. Otherwise please unsubsrcibe [HERE](http://www.specificfeeds.com/cryptovibes?subParam=followPub).
+
+Trading is comes with risk. All content on our website is provided solely for informational purposes, and is not an offer to buy or sell or a solicitation of an offer to buy or sell any security, product, service or investment. The opinions expressed in this Site do not constitute investment advice and independent financial advice should be sought where appropriate.
