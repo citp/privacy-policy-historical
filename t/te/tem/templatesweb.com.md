@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatesweb.com privacy policy that was archived on 2018-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181121131358id_/https%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatesweb.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105170356id_/https%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
