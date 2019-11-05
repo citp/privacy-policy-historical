@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendforce.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622092135id_/https%3A//www.trendforce.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendforce.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105090757id_/https%3A//www.trendforce.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TrendForce - Market report, price trend and B2B platform of DRAM, NAND Flash, LEDs, TFT-LCD and green energy, PV
 
