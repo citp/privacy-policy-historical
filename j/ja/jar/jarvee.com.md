@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jarvee.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607083723id_/https%3A//jarvee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jarvee.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105092344id_/https%3A//jarvee.com/privacy-policy) for the most accurate reproduction.*
 
 # JARVEE privacy policy - the best social media automation software around
 
