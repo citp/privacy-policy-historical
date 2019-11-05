@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omron.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425062102id_/https%3A//www.omron.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omron.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105075721id_/https%3A//www.omron.com/general/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OMRON Global
 
@@ -82,7 +82,7 @@ OMRON will promptly respond to requests, within a reasonable scope, for disclosu
 
   1. Where to send requests for disclosure, etc.  
 Please mail your request to OMRON Corporation. Please mark the envelop with "Request for Disclosure, etc." in red.  
-[Request form (download) <PDF 60kb>](https://web.archive.org/web/20190425062102id_/https://www.omron.com/general/privacy/pdf/request_form.pdf)
+[Request form (download) <PDF 60kb>](https://web.archive.org/web/20191105075721id_/https://www.omron.com/general/privacy/pdf/request_form.pdf)
   2. Documents (forms) to be submitted with "Request for Disclosure, etc."  
 When sending a "Request for Disclosure, etc.", please download the request form as described in (a) below and fill in all the spaces provided. Please enclose the ID documents described in (b) below and a return envelop with the address of the Person in Question (the same address as on the ID) and mail them to the address provided in 7(1) above.
 
