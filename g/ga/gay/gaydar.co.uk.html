@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gaydar.co.uk privacy policy that was archived on 2019-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330062615id_/https%3A//www.gaydar.net/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gaydar.co.uk privacy policy that was archived on 2019-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191105063155id_/https%3A//www.gaydar.net/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB"><head>
     <meta charset="utf-8">
@@ -14,9 +14,11 @@
     <link rel="apple-touch-icon" sizes="72x72" href="/public/images/favicon/icon-hires.png">
     <link rel="apple-touch-icon" href="/public/images/favicon/icon-normal.png">
     <link rel="icon" type="image/x-icon" href="/public/images/favicon/favicon.ico">
-    <link href="/public/css/main.css?v=10111" rel="stylesheet">
-    <link href="/public/vendor/angular-emoji-popup/dist/css/emoji.min.css?v=10111" rel="stylesheet">
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+    <link href="/public/css/main.css?v=101142" rel="stylesheet">
+    <link href="/public/vendor/angular-emoji-popup/dist/css/emoji.min.css?v=101142" rel="stylesheet">
+    
+    <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://js.stripe.com/v3/"></script>
+    <script>
         var qbAPI = {
             ID: "9",
             key: "CcE6fBRL6nGREkj",
@@ -26,6 +28,7 @@
             profileService: "https://profile-live.gaydar.net/",
             commsService: "https://comms-live.gaydar.net/",
             mediaService: "https://media-live.gaydar.net/",
+            mediaCdnService: "https://media-live-r.gaydar.net/",
             chatterService: "https://chatter-live.gaydar.net/",
             accountService: "https://account-live.gaydar.net/",
             registerService: "https://registration-live.gaydar.net/",
@@ -34,12 +37,13 @@
             featureService: "https://feature-live.gaydar.net/",
             cdn: "https://www.gaydar.net/"
         };
-        var buildVersion = "10111";
+        var buildVersion = "101142";
+        var stripe = Stripe('pk_live_6XjGkE3yZwT84Pig5GuD4P5o');
     </script>
 
   
-  <script data-main="/public/js/build.min.js?v=10111" src="/public/vendor/jquery/dist/jquery.min.js?v=10111"></script>
-  <script data-main="/public/js/build.min.js?v=10111" src="/public/vendor/socket.io-client/dist/socket.io.js?v=10111"></script> 
+  <script data-main="/public/js/build.min.js?v=101142" src="/public/vendor/jquery/dist/jquery.min.js?v=101142"></script>
+  <script data-main="/public/js/build.min.js?v=101142" src="/public/vendor/socket.io-client/dist/socket.io.js?v=101142"></script> 
 
     <script>
         (function(i, s, o, g, r, a, m) {
@@ -64,11 +68,36 @@
         googletag.cmd = googletag.cmd || [];
         googletag.cmd.push(function() {
             googletag.cmd.push(function() {
-                googletag.pubads().enableSingleRequest();
-                googletag.enableServices();
+              try {
+                  googletag.pubads().enableSingleRequest();
+                  googletag.enableServices();
+              }
+              catch(err) {
+                // TODO: GDW-164 ensure google tag manager works
+              }
             });
         });
     </script>
+
+    <!-- Facebook Pixel Code -->
+    <script>
+	    !function(f,b,e,v,n,t,s)
+	    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	    n.queue=[];t=b.createElement(e);t.async=!0;
+	    t.src=v;s=b.getElementsByTagName(e)[0];
+	    s.parentNode.insertBefore(t,s)}(window,document,'script',
+	    'https://connect.facebook.net/en_US/fbevents.js');
+	    fbq('init', '293545811520961'); 
+	    fbq('track', 'PageView');
+    </script>
+    <noscript>
+	    <img height="1" width="1" 
+	    src="https://www.facebook.com/tr?id=293545811520961&ev=PageView
+	    &noscript=1"/>
+    </noscript>
+    <!-- End Facebook Pixel Code -->
 
     <!-- Start Visual Website Optimizer Asynchronous Code -->
     <script type="text/javascript">
@@ -79,9 +108,17 @@
         use_existing_jquery=false,
         /* DO NOT EDIT BELOW THIS LINE */
         f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-    </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=361412&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190330062615id_%2Fhttps%253A%2F%2Fwww.gaydar.net%2Fcontent%2Fprivacy&amp;r=0.09963506143373357" type="text/javascript"></script>
+    </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=361412&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20191105063155id_%2Fhttps%253A%2F%2Fwww.gaydar.net%2Fcontent%2Fprivacy&amp;r=0.9449414399308376" type="text/javascript"></script>
     <!-- End Visual Website Optimizer Asynchronous Code -->
     
+    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-3062039476508799",
+        enable_page_level_ads: true
+      });
+    </script>
+
   <script>
     var socket = null;
 
@@ -253,10 +290,10 @@
         }
 
         if (count != 0) {
-          $('#navcounter-messages').text(count < 100 ? count : '99+');
-          $('#navcounter-messages').removeClass('hidden');
+          $('.navcounter-messages').text(count < 100 ? count : '99+');
+          $('.navcounter-messages').removeClass('hidden');
         } else {
-          $('#navcounter-messages').addClass('hidden');
+          $('.navcounter-messages').addClass('hidden');
         }
       }
     });
@@ -268,6 +305,65 @@
     };
   </script>
     
+  <script>
+
+    $(document).ready(function () {
+      correctContentSizeForApple();
+    });
+
+    function correctContentSizeForApple() {
+      if (!isIOS()) {
+        return;
+      }
+
+      if (!isSafari()) {
+        return;
+      }
+      
+      if (isCurrentPageMessages())
+        setClassHeight("content-container", "73vh");
+    }
+
+    function isIOS() {
+      var ua = window.navigator.userAgent;
+      if (ua.match(/iPad/i))
+        return true;
+
+      if (ua.match(/iPhone/i))
+        return true;
+
+      if (ua.match(/iPod/i))
+        return true;
+
+      return false;
+    }
+
+    function isSafari() {
+      var ua = window.navigator.userAgent;
+
+      if (!ua.match(/WebKit/i))
+        return false;
+
+      if (ua.match(/CriOS/i)) // avoid Chrome
+        return false;
+    
+      return true;
+    }
+
+    function isCurrentPageMessages() {
+      var currentPath = window.location.pathname;
+      return currentPath && currentPath.length >= 9 && currentPath.substring(1, 9).toLowerCase() == "messages";
+    }
+
+    function setClassHeight(className, height) {
+      var rx = document.getElementsByClassName(className);
+      var ri;
+      for (ri = 0; ri < rx.length; ri++) {
+        rx[ri].style.height = height;
+      } 
+    }
+
+  </script>
     <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
     <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
     <script>
@@ -452,7 +548,7 @@
     </script>
 
     
-    <script data-main="/public/js/build.min.js?v=10111" src="/public/vendor/requirejs/require.js?v=10111"></script>
+    <script data-main="/public/js/build.min.js?v=101142" src="/public/vendor/requirejs/require.js?v=101142"></script>
     <script type="text/javascript">
         var google_conversion_id = 1035186757;
         var google_custom_params = window.google_tag_params;
