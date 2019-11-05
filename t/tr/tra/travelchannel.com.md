@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelchannel.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331030345id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelchannel.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105073142id_/http%3A//www.scrippsnetworks.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
