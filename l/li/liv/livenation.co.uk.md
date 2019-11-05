@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenation.co.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626213223id_/http%3A//www.livenation.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenation.co.uk privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105063642id_/http%3A//www.livenation.co.uk/privacy) for the most accurate reproduction.*
 
 # Live Nation UK
 
@@ -8,7 +8,7 @@
 
 You are at the heart of everything we do. Our goal is to maintain your trust and confidence by handling your personal information with respect and putting you in control.
 
-It’s important that you know what personal information Live Nation Entertainment (known here as "we" or " Live Nation Entertainment") collects about you, and how we use it.
+It’s important that you know what personal information Live Nation (Music) UK (known here as "we" or " Live Nation") collects about you, and how we use it.
 
 We’ve done our best to make our explanations short and easy to understand. But, if you’d like further information, or have any questions, please contact our Data Protection Officer using the details in the ‘Contact’ section below.
 
