@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the klyker.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013191249id_/https%3A//klyker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klyker.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105175035id_/https%3A//klyker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KLYKER.COM
 
-[](https://klyker.com/ "KLYKER.COM") Start your day with a bunch of funny pictures. Oh yes, you can also check out perfectly timed photos, WTF pictures, cute animal pictures etc.
+[](https://klyker.com/)Start your day with a bunch of random funny pictures. Oh yes, you can also check out perfectly timed photos, WTF pictures, funny animal pictures etc.
 
 At klyker.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit klyker.com, and how we safeguard your information. We never sell your personal information to third parties.
 
