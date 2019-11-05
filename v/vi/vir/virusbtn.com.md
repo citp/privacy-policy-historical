@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111075030id_/https%3A//www.virusbulletin.com/about-vb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105164125id_/https%3A//www.virusbulletin.com/about-vb/privacy-policy) for the most accurate reproduction.*
 
 # Virus Bulletin :: Privacy Policy
 
-_This document was last updated on 07 January 2019._
+_This document was last updated on 13 June 2019._
 
 ## Virus Bulletin's commitment to privacy
 
@@ -56,14 +56,6 @@ If you **register for a Virus Bulletin conference** , in addition to the "extran
 
 
 
-If you **create a job seeker profile** , in addition to the "extranet user" details listed above we will collect:
-
-  * Your personal summary
-  * Your profile
-  * Details of your online presence (if applicable)
-
-
-
 If you **submit an abstract** (a proposal) for a Virus Bulletin conference paper, in addition to the "extranet user" details listed above we will collect:
 
   * Your telephone number
@@ -83,6 +75,31 @@ If you forward information to us electronically or as a hard copy, we will colle
 Whether you apply for a position advertised by Virus Bulletin or send us your details speculatively, we will keep the information you have provided to us – including but not limited to: your CV, any details you have provided on your employment history, your qualifications, and any relevant disability – for one year after receipt.
 
 Should your application be successful and you subsequently become a Virus Bulletin employee or contractor, your data will be kept until 6 years after the end of your employment by or contract with the company.
+
+## Applicants for free student tickets for the VB Conference
+
+If you apply for a free student ticket for the VB Conference we will collect the following personal data:
+
+  * your name
+  * your email address
+  * the name of the university or academic institution at which you study
+  * details of what you study
+  * whether you are a full-time or a part-time student
+  * details of your research interests
+
+
+
+and we may also collect
+
+  * details of your LinkedIn or other social media profile
+  * your resume
+  * other information you choose to share with us
+
+
+
+If you apply for a free student ticket for the VB Conference the data you submit will be shared with the company that sponsors the free student tickets (the "NextGen sponsor"). In 2019 the NextGen sponsor is Google Android. Your data will be shared with Google and treated by Google according to its own data retention and privacy policies.
+
+Your data will be retained by Virus Bulletin for a period of 12 months. If your application is successful and you subsequently become a conference delegate, your information will be used and retained in line with Virus Bulletin's policy on the use of conference delegate data, as detailed in this Privacy Policy.
 
 ## Cookies
 
@@ -134,14 +151,6 @@ When you use this site to submit an abstract (a proposal) for a Virus Bulletin c
   * The name, email address and telephone numbers of co-authors listed (if applicable) will be used to contact those people about the submission they are associated with.
 
 
-
-### Submitting job seeker details
-
-When you use this site to submit your details as a job seeker, the details you have provided in your personal summary, profile, and online presence, will be listed publicly on our main website ([www.virusbulletin.com](https://www.virusbulletin.com/)) along with all the data you have registered in your VB extranet account: your name, email, country, company, job title. If you don't want your personal data to be listed, we strongly encourage you to create an anonymous account for the purpose of job seeking.
-
-### Submitting job vacancies
-
-When you use this site to submit a job vacancy, the details of the vacancy you have submitted will be listed publicly on our main site ([www.virusbulletin.com](https://www.virusbulletin.com/)) along with all the data you have registered in your VB extranet account: your name, email, country, company, job title. If you don't want your personal data to be listed, we strongly encourage you to create an anonymous account for the purpose of submitting job vacancies.
 
 ## Legal basis for processing personal data
 
