@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423122540id_/https%3A//www.personneltoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105050223id_/https%3A//www.personneltoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Personnel Today
 
@@ -17,9 +17,10 @@ We are DVV Media International Limited of 6th Floor, Chancery House, St Nicholas
 DVV Media International Limited is the UK arm of the global publishing company DVV Media Group. Publications of DVV Media International Limited which are provided for in this privacy policy include:
 
   * Personnel Today
-  * Occupational Health & Wellbeing
   * Personnel Today Jobs
   * Personnel Today Awards
+  * Occupational Health & Wellbeing
+  * Occupational Health & Wellbeing Awards
   * The RAD Awards
   * WhatMedia
 
@@ -278,4 +279,4 @@ You have the right to make a complaint at any time to the Information Commission
   
 We reserve the right to update this privacy policy at any time. We may also notify you in other ways from time to time about the processing of your personal data.
 
-If you have any questions about this Privacy Policy, please contact the DPO by emailing [dataprotection@dvvmediainternational.com](https://web.archive.org/web/20190423122540id_/https://www.personneltoday.com/privacy/dataprotection@dvvmediainternational.com)
+If you have any questions about this Privacy Policy, please contact the DPO by emailing [dataprotection@dvvmediainternational.com](https://web.archive.org/web/20191105050223id_/https://www.personneltoday.com/privacy/dataprotection@dvvmediainternational.com)
