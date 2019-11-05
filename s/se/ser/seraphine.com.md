@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seraphine.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411004013id_/https%3A//www.seraphine.com/en-us/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seraphine.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105161707id_/https%3A//www.seraphine.com/en-us/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Seraphine US
 
