@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the gemini.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406014913id_/https%3A//gemini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gemini.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105152136id_/https%3A//gemini.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ##### Introduction
 
-Welcome! Thanks for visiting Gemini, a digital asset exchange and custodian operated by and proprietary to Gemini Trust Company, LLC (d/b/a Gemini Exchange, LLC in AK, AZ, DE, ID, IL, KS, KY, MA, MI, MN, NC, ND, NM, OH, OR, SC, SD, UT, and VA; d/b/a Gemini Exchange in WA). You agree and understand that by visiting, accessing, or using Gemini, you are consenting to the policies and practices of our privacy policy (the “Privacy Policy”) so _please read them carefully_. If any policy or practice of this Privacy Policy is unacceptable to you, please do not visit, access, or use Gemini. Use of the words “we,” “us,” or “our” in this Privacy Policy refers to Gemini Trust Company, LLC and any or all of its affiliates.
+Welcome! Thanks for visiting Gemini, a digital asset platform operated by and proprietary to Gemini Trust Company, LLC (d/b/a Gemini Exchange, LLC in AK, AZ, DE, ID, IL, KS, KY, MA, MI, MN, NC, ND, NM, OH, OR, SC, SD, UT, and VA; d/b/a Gemini Exchange in WA). You agree and understand that by visiting, accessing, or using Gemini, you are consenting to the policies and practices of our privacy policy (the “Privacy Policy”) so _please read them carefully_. If any policy or practice of this Privacy Policy is unacceptable to you, please do not visit, access, or use Gemini. Use of the words “we,” “us,” or “our” in this Privacy Policy refers to Gemini Trust Company, LLC and any or all of its affiliates.
 
 ##### General Terms
 
-This Privacy Policy explains what [Personal Information](https://gemini.com/privacy-policy/#personal-information) (as defined below) we collect, why we collect it, and how we treat it.
+This Privacy Policy explains what [Personal Information](https://gemini.com/privacy-policy/#personal-information) (as defined below) we collect, why we collect it, and how we treat it. 
 
-You agree and understand that by visiting, accessing, or using Gemini, you have affirmed that you are at least 18 years old, have the legal capacity to consent to this Privacy Policy, and to agree to be bound by the policies and practices of this Privacy Policy in their entirety.
+By visiting, accessing, or using Gemini, you represent and affirm that you are at least 18 years old, have the legal capacity to consent to this Privacy Policy, and to agree to be legally bound by the terms and conditions of this Privacy Policy in their entirety. 
 
-You agree and understand that this Privacy Policy is subject to the terms and conditions set forth in our [User Agreement](https://gemini.com/user-agreement/). In case of conflict, the User Agreement shall control. You further agree and understand that the defined terms used in this Privacy Policy, if defined in our User Agreement, shall have the meanings set forth in our User Agreement.
+You agree and understand that this Privacy Policy is subject to the terms and conditions set forth in our [User Agreement](https://gemini.com/user-agreement/); for the avoidance of doubt, this includes the terms and conditions set forth in the ‘General Provisions’ section of our User Agreement, which also govern this Privacy Policy. In case of conflict, the User Agreement shall control. You further agree and understand that the defined terms used in this Privacy Policy, if defined in our User Agreement, shall have the meanings set forth in our User Agreement.
 
-Your privacy matters to us so whether you are new to Gemini or a long-time customer, please do take the time to get to know and familiarize yourself with our policies and practices. Feel free to print and keep a copy of this Privacy Policy, but please understand that we reserve the right to change any of our policies and practices at any time. But don’t worry, you can always find the latest version of this Privacy Policy here on this page.
+Your privacy matters to us so whether you are new to Gemini or a long-time customer, please do take the time to get to know and familiarize yourself with our policies and practices. Feel free to print and keep a copy of this Privacy Policy, but please understand that we reserve the right to change any of our policies and practices at any time. But don’t worry, you can always find the latest version of this Privacy Policy here on this page. 
 
-You agree and understand that by visiting, accessing, or using Gemini following any change to this Privacy Policy, you are consenting to any such changes. You should, therefore, read this Privacy Policy from time to time. If you do not agree to be bound by this Privacy Policy, you should not visit, access or use Gemini.
+You agree and understand that by visiting, accessing, or using Gemini following any change to this Privacy Policy, your visitation, access, or use, as applicable, shall constitute your agreement and consent to the amended Privacy Policy, and you agree to be legally bound by its terms and conditions as amended. You should, therefore, read this Privacy Policy from time to time. If you do not agree to be bound by this Privacy Policy, you should not visit, access or use Gemini. 
 
 ##### Definitions
 
@@ -104,7 +104,7 @@ Be aware that bitcoin, ether, and other [Digital Assets](https://gemini.com/user
 
 ##### Information Security
 
-No security is foolproof, and the Internet is an insecure medium. We cannot guarantee absolute security, but we work hard to protect Gemini and you from unauthorized access to or unauthorized alteration, disclosure, or destruction of Personal Information we collect and store. Measures we take include encryption of the Gemini website communications with SSL; required two-factor authentication for all sessions; periodic review of our Personal Information collection, storage, and processing practices; and restricted access to your Personal Information on a need-to-know bases for our employees, contractors and agents who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+No security is foolproof, and the Internet is an insecure medium. We cannot guarantee absolute security, but we work hard to protect Gemini and you from unauthorized access to or unauthorized alteration, disclosure, or destruction of Personal Information we collect and store. Measures we take include encryption of the Gemini website communications with SSL; required two-factor authentication for all sessions; periodic review of our Personal Information collection, storage, and processing practices; and restricted access to your Personal Information on a need-to-know basis for our employees, contractors and agents who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
 
 ##### Accuracy and Retention of Personal Information
 
@@ -133,10 +133,6 @@ This Privacy Policy only pertains to our policies and practices with regard to y
 We cannot agree to obligations of confidentiality or nondisclosure with regard to any unsolicited information you submit to us, regardless of the method or medium chosen. By submitting unsolicited information or materials to us, you or anyone acting on your behalf, agree and understand that any such information or materials will not be considered confidential or proprietary.
 
 We do not provide any facility for sending or receiving private or confidential electronic communications. You should not use Gemini to transmit any communication for which you intend only you and the intended recipient(s) to read. Notice is hereby given that all messages and other content entered using Gemini can and may be read by us, regardless of whether we are the intended recipients of such messages.
-
-##### Changes
-
-We reserve the right to change this Privacy Policy from time to time to meet our changing needs, but don’t worry, you can always find the latest version (as well as all archived older versions) here. We also send an annual notice of this Privacy Policy to all registered customers. By visiting, accessing, or using Gemini] following any change to this Privacy Policy, you are consenting to our new Privacy Policy.
 
 ##### Privacy Statement for Data Subjects Whose Personal Information May Be Collected in or from the EEA or the Channel Islands
 
