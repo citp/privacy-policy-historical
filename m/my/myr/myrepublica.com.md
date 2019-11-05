@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myrepublica.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402192928id_/https%3A//myrepublica.nagariknetwork.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrepublica.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105205550id_/https%3A//myrepublica.nagariknetwork.com/content/privacy-policy) for the most accurate reproduction.*
 
-# The New York Times Partner, Latest news of Nepal in English, Latest News Articles
+# myRepublica - The New York Times Partner, Latest news of Nepal in English, Latest News Articles
 
 MyRepublica.com recognizes the importance of protecting the privacy of information you provide us.
 
