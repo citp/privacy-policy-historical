@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misspennystocks.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620083823id_/http%3A//www.misspennystocks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misspennystocks.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105100941id_/http%3A//misspennystocks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Miss Penny Stocks
 
@@ -35,7 +35,7 @@ We use “cookies” to collect information. You can instruct your browser to re
 **DoubleClick Cookie**
 
   * Google, as a third party vendor, uses cookies to serve ads on our Service. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other web sites on the Internet.  
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](http://www.google.com/ads/preferences/)
 
 
 
