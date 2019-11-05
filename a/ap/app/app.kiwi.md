@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the app.kiwi privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407121715id_/http%3A//app.kiwi/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the app.kiwi privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105195336id_/http%3A//app.kiwi/privacypolicy) for the most accurate reproduction.*
 
 # AppKiwi Privacy Policy
 
