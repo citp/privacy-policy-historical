@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620013825id_/https%3A//www.hitachivantara.com/en-us/company/legal.privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentaho.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105102110id_/https%3A//www.hitachivantara.com/en-us/company/legal.privacy.html) for the most accurate reproduction.*
 
 # Legal Terms, Privacy, Cookie Policy, Ethics and Trademarks | Hitachi Vantara
 
