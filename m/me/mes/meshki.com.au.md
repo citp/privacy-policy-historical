@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meshki.com.au privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406204022id_/https%3A//www.meshki.com.au/pages/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meshki.com.au privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105060202id_/https%3A//www.meshki.com.au/pages/privacy-policy-1) for the most accurate reproduction.*
 
 # Privacy Policy - MESHKI
 
