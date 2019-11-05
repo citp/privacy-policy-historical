@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypeddit.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330123350id_/https%3A//hypeddit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypeddit.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105192828id_/https%3A//hypeddit.com/privacy) for the most accurate reproduction.*
 
 # Hypeddit Privacy Policy
 
@@ -46,6 +46,8 @@ You have the right to ask us to stop using your information for a period of time
 Finally, in some circumstances you can ask us not to reach decisions affecting you using automated processing or profiling.
 
 To submit a request regarding your personal data, please use the contact information provided at the bottom of this Policy.
+
+If you have connected your YouTube Account to this website, you may revoke this access and your consent at any time by visiting <https://myaccount.google.com/permissions>
 
 #### Your right to complain
 
