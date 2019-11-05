@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangoapps.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518113824id_/https%3A//www.mangoapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangoapps.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105092602id_/https%3A//www.mangoapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MangoApps
 
