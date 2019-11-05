@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stagecoachbus.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404104218id_/https%3A//www.stagecoachbus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stagecoachbus.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105230241id_/https%3A//www.stagecoachbus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -178,6 +178,7 @@ Where we use trusted suppliers to help us deliver our service to you, we allow t
   * Third parties which we use to analyse traffic and other pseudonymised data on our website and app and use of our services
   * Market research and analysis organisations working on our behalf
   * Organisations that support our ticketing activities
+  * Partner organisations to confirm entitlement to purchase particular tickets or receive discounted rates
   * Agencies that handles our customer service enquiries, complaints and refunds
   * Fraud checking and prevention organisations
 
@@ -288,4 +289,4 @@ We link our website directly to other sites. This privacy notice does not cover 
 
 This privacy notice does not provide exhaustive detail of all aspects of our collection and use of personal information. However, we are happy to provide any additional information or explanation using the contact details at the beginning of this privacy policy. 
 
-We keep our privacy notice under regular review. This privacy notice was last updated on 18.05.18 
+We keep our privacy notice under regular review. This privacy notice was last updated on 08.04.19 
