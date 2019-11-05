@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330161430id_/https%3A//www.younglife.org/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younglife.org privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105154725id_/https%3A//www.younglife.org/Pages/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Young Life Global Privacy Statement
 
