@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearsonpte.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518045951id_/https%3A//pearsonpte.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonpte.com privacy policy that was archived on 2019-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191105010346id_/https%3A//pearsonpte.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PTE Academic
 
@@ -6,7 +6,7 @@
 
 (Updated 20 May 2018)
 
-**Here, you can find out how we safeguard your information and how we use it to improve our products and services for the benefit of all our customers and website users.**
+ **Here, you can find out how we safeguard your information and how we use it to improve our products and services for the benefit of all our customers and website users.**
 
 You can also read this policy in [Arabic عربى](https://pearsonpte.com/wp-content/uploads/2018/08/PTE-Academic-Privacy-Arabic.pdf), [Japanese 日本語](https://pearsonpte.com/wp-content/uploads/2018/08/PTE-Academic-Privacy-Japanese.pdf), [Korean 한국어](https://pearsonpte.com/wp-content/uploads/2018/08/PTE-Academic-Privacy-Korean.pdf), [Simplified Chinese 简体中文](https://pearsonpte.com/wp-content/uploads/2018/08/PTE-Academic-Privacy-Simplified-Chinese.pdf), [Thai ไทย](https://pearsonpte.com/wp-content/uploads/2018/08/PTE-Academic-Privacy-Thai.pdf), [Urdu اردو ](https://pearsonpte.com/wp-content/uploads/2018/08/PTE-Academic-Privacy-Urdu.pdf)or [Vietnamese Tiếng Việt](https://pearsonpte.com/wp-content/uploads/2018/08/PTE-Academic-Privacy-Vietnamese.pdf).
 
