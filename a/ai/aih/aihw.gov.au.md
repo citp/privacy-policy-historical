@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630094824id_/https%3A//www.aihw.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106002325id_/https%3A//www.aihw.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Australian Institute of Health and Welfare
 
@@ -207,7 +207,7 @@ Google has a [privacy policy](http://www.google.com.au/intl/en/policies/privacy/
 
 You can ask to access the personal information we hold about you. If that information is incorrect or outdated, you can ask us to correct it.  
 
-Contact our [Privacy Officer](https://web.archive.org/contact-us)[.](https://web.archive.org/cdn-cgi/l/email-protection#2d5d5f445b4c4e546d4c44455a034a425b034c58)
+Contact our [Privacy Officer](https://web.archive.org/contact-us)[.](https://web.archive.org/cdn-cgi/l/email-protection#a1d1d3c8d7c0c2d8e1c0c8c9d68fc6ced78fc0d4)
 
 ## How to complain about a possible breach of privacy
 
@@ -221,7 +221,7 @@ If you are not happy with our response to your complaint about privacy, you can 
 
 ## How to contact us about privacy
 
-**Email   **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#bcccced5cadddfc5fcddd5d4cb92dbd3ca92ddc9)
+**Email   **[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8d8f948b9c9e84bd9c94958ad39a928bd39c88)
 
 **Post**
 
