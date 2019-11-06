@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idlehearts.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104215602id_/https%3A//www.idlehearts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idlehearts.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106225807id_/https%3A//www.idlehearts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IdleHearts
 
@@ -44,11 +44,11 @@ This privacy policy only applies to information collected by IdleHearts website.
 
 ###### Security
 
-All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers. 
+All non-personally-identifying information, potentially personally-identifying and personally identifying-information described above is stored on restricted database servers.
 
 ###### Choice/Opt-out
 
-If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices. 
+If we ever send you information by email concerning new products, services or information that you did not expressly request, we will provide you with an email address by which you may request no further notices.
 
 ###### Privacy Policy Changes
 
