@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cu-portland.edu privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129164150id_/https%3A//www.cu-portland.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cu-portland.edu privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106213823id_/http%3A//www.cu-portland.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Concordia University
 
@@ -32,4 +32,4 @@ This site contains links to external, non-Concordia sites. Concordia University 
 
 ## Questions
 
-If you have questions or concerns regarding privacy, you may contact Glenn Smith at 503-493-6542 or [](mailto:gsmith@cu-portland.edu?subject=Privacy%20Inquiry)[gsmith@cu-portland.edu](mailto:gsmith@cu-portland.edu).
+If you have questions or concerns regarding privacy, you may contact Jason Nairn at 503-493-6268 or [](mailto:jnairn@cu-portland.edu?subject=Privacy%20Inquiry)[jnairn@cu-portland.edu](mailto:jnairn@cu-portland.edu).
