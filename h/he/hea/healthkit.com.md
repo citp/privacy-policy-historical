@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthkit.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308030322id_/https%3A//www.healthkit.com/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthkit.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106142831id_/https%3A//www.healthkit.com/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy
 
