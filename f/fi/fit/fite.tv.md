@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fite.tv privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401084220id_/https%3A//www.fite.tv/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fite.tv privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106172631id_/https%3A//www.fite.tv/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FITE
 
