@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dcmp.org privacy policy that was archived on 2018-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180101153749id_/https%3A//dcmp.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcmp.org privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107004035id_/https%3A//dcmp.org/privacy_policy) for the most accurate reproduction.*
 
 # Disclaimer / Privacy Policy
 
 ## Disclaimer
 
-The contents of the Described and Captioned Media Program website were developed under a grant from the U.S. Department of Education (H327N110002). However, these contents do not necessarily represent the policy of the U.S. Department of Education and you should not assume endorsement by the Federal government. Project Officer, Jo Ann McCann. 
+The contents of the Described and Captioned Media Program website were developed under a grant from the U.S. Department of Education (H327N110002). However, these contents do not necessarily represent the policy of the U.S. Department of Education and you should not assume endorsement by the Federal government. Project Officer, Glinda Hill. 
 
 ## Privacy Policy
 
