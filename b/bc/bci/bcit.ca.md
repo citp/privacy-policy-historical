@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206172644id_/https%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcit.ca privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106171633id_/https%3A//www.bcit.ca/privacy) for the most accurate reproduction.*
 
 # BCIT : : Privacy : : Important Privacy Information
 
