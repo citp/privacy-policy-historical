@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the buykud.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402070317id_/https%3A//www.buykud.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buykud.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106065332id_/https%3A//www.buykud.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BUYKUD
+# Privacy Policy – BUYKUD
 
 PRIVACY STATEMENT
 
@@ -76,7 +76,7 @@ QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at service@buykud.com or by mail to this address:
 
-Room 401, No.1 Building, JuHe Creative Park, Metallurgical Reseach Institute, Hebian  National Road 106, Baiyun  District,  
-Guangzhou, Guangdong, China  
-Telephone :0086-020-86213862  
-ZIP : 510420 
+Room 401, No.1 Building, JuHe Creative Park, Metallurgical Reseach Institute, Hebian National Road 106, Baiyun District,  
+Guangzhou, Guangdong, China  
+Telephone :0086-020-86213862  
+ZIP : 510420
