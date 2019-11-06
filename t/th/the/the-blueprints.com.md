@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620105412id_/https%3A//www.the-blueprints.com/information/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-blueprints.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107005320id_/https%3A//www.the-blueprints.com/information/privacystatement) for the most accurate reproduction.*
 
 # Privacy Policy
 
