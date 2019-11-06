@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagueofgraphs.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630185441id_/https%3A//www.leagueofgraphs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueofgraphs.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107000657id_/https%3A//www.leagueofgraphs.com/privacy) for the most accurate reproduction.*
 
 # Privacy - LeagueOfGraphs
 
