@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrailpass.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510093128id_/https%3A//www.jrailpass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrailpass.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106060752id_/https%3A//www.jrailpass.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Cookies - JRailPass
 
@@ -78,7 +78,7 @@ You can consult the Privacy Policy of [Nippon Travel Agency](http://www.ntainbou
 
 GAC is our Pocket WiFi and SIM Card distributor. So that GAC can deliver the device paid for by the client to the right place on the date specified. We share information that will allow for a successful delivery such as the product ordered and specifications, full name of recipient and hotel or accommodation address (if they so desire), flight details in case the device is to be delivered upon arrival at the airport and arrival date. As well as this, we include the User email address as it is GAC who will contact the client directly to give them all the details for delivery, tracking for shipping and any other related information with their purchase/hire or delivery.
 
-You can consult the Privacy Policy of [Global Advanced Communications](https://www.globaladvancedcomm.com/aboutus.html#privacy) to see how they use and store this information.
+You can consult the Privacy Policy of [Global Advanced Communications](https://www.globaladvancedcomm.com/privacy-policy/) to see how they use and store this information.
 
 3.1.3. Delivery Companies
 
