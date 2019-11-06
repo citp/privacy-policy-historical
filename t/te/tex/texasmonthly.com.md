@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425213846id_/https%3A//www.texasmonthly.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106192344id_/https%3A//www.texasmonthly.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Texas Monthly
 
-Welcome to the Web site for TEXAS MONTHLY (www.texasmonthly.com). This site is owned by Genesis Park. We recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this website Privacy Statement.
+Welcome to the Web site for TEXAS MONTHLY (www.texasmonthly.com). This site is owned by Texas Monthly, LLC. We recognize that many visitors to our website are concerned about the information that they provide to us or that may be collected, and how we treat that information. In order to address those concerns we have developed this website Privacy Statement.
 
 This privacy policy (“Privacy Policy”) describes TEXAS MONTHLY’s privacy practices for our Web site located at www.texasmonthly.com (our “Site”), including what types of information we gather and track, how we use the information, and with whom we share the information. By using the Site, you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and, if you do not agree to the terms of this or any revised policy, please exit the Site immediately.
 
@@ -65,4 +65,5 @@ If you have any concerns about privacy procedures at our Web site or wish to acc
 
 Please make any communications as complete and descriptive as possible, and we will attempt to respond promptly to your concerns.
 
-Effective May 25, 2018.
+_Effective May 25, 2018  
+Last updated: July 21, 2019_
