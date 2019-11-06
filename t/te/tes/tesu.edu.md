@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesu.edu privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512195318id_/https%3A//www.tesu.edu/about/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesu.edu privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106211224id_/https%3A//www.tesu.edu/about/Privacy-Policy) for the most accurate reproduction.*
 
 # Thomas Edison State University: Privacy Policy | About Us
 
