@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ego.co.uk privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119080931id_/https%3A//ego.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ego.co.uk privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106230654id_/https%3A//ego.co.uk/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | Protecting Your Privacy | EGO
 
@@ -6,7 +6,7 @@
 
 At EGO, we are 100% committed to protecting the privacy and security of our customers and site visitors. The EGO team members are customers themselves, of both EGO and other internet sites – so we totally appreciate and respect how important privacy is. If you have any questions about how we Protect Your Privacy, drop us a line at **help@ego.co.uk**
 
-For all our services, the data controller - the company that’s responsible for your privacy - is EGO Shoes Ltd.
+For all our services, the data controller - the company that’s responsible for your privacy - is EGO Shoes Ltd
 
 ## How we use your information
 
@@ -22,7 +22,7 @@ Send you service messages by text or email such as order updates - we’ve got t
 
 Sending you information by email, SMS, or post, about our new products and services - to keep you up to date.
 
-Fraud prevention and detection - To prevent and detect fraud against either you or EGO - unfortunate, but absolutely essential.
+Fraud prevention and detection - To prevent and detect fraud against either you or EGO Shoes Ltd- unfortunate, but absolutely essential.
 
 Showing you EGO adverts as your browse the web - So you can see our latest products and deals.
 
@@ -48,7 +48,7 @@ This means your card’s security/CVV code, don’t worry, we don’t keep these
 
 We use this to take payment, and give refunds - we’ve got to do this to perform our contract with you - we’re not giving all our stuff away!
 
-Fraud prevention and detection - to prevent and detect fraud against either you or EGO - unfortunate, but absolutely essential.
+Fraud prevention and detection - to prevent and detect fraud against either you or EGO Shoes Ltd - unfortunate, but absolutely essential.
 
 ## Your contact history with us
 
@@ -82,7 +82,7 @@ Information you give us when you browse our site, including your IP address and 
 
 Improve our website and set default options for you (such as language and currency) - to give you the best possible shopping experience.
 
-Protect our website - to prevent and detect fraud against either you or EGO – unfortunate, but absolutely essential - and to meet our legal obligations about looking after your data.
+Protect our website - to prevent and detect fraud against either you or EGO Shoes Ltd – unfortunate, but absolutely essential - and to meet our legal obligations about looking after your data.
 
 ## Your responses to surveys, competitions and promotions
 
@@ -126,8 +126,8 @@ By replying to the SMS and following the instructions stated.
 
 By writing to the address listed below.
 
-EGO Shoes Ltd  
-Unit E4  
+EGO   
+Unit A1  
 Longford Trading Estate  
 Stretford  
 Manchester  
@@ -218,7 +218,7 @@ Please don’t hesitate to contact our Customer Care team, who will be happy to 
 
 You can contact our privacy team by dropping us a line at **help@ego.co.uk**. Or if you’d like to, you can write to us at:
 
-EGO Shoes Ltd  
+EGO   
 Unit A1  
 Longford Trading Estate  
 Stretford  
