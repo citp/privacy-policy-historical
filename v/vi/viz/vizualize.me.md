@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizualize.me privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828003349id_/https%3A//vizme.helpscoutdocs.com/article/407-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizualize.me privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106104825id_/https%3A//vizme.helpscoutdocs.com/article/407-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vizualize.me Help Center
 
