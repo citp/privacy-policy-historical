@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215185229id_/https%3A//ip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106031333id_/https%3A//ip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - IP.com
 
