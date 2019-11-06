@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillspet.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416203334id_/https%3A//www.hillspet.com/legal-statement-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillspet.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106051516id_/https%3A//www.hillspet.com/legal-statement-and-privacy-policy) for the most accurate reproduction.*
 
 # Legal Statement & Privacy Policy | Hill's Pet
 
