@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voxeo.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129042634id_/https%3A//www.aspect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxeo.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106181150id_/https%3A//www.aspect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aspect
 
@@ -62,7 +62,7 @@ Your right to withdraw consent. For more information click here
 
 Your right to lodge a complaint with the relevant supervisory authority. For more information click here
 
-You can exercise your rights by submitting a [Data Subject Request](https://web.archive.org/company/gdpr/data-subject-request).
+You can exercise your rights by submitting a [Data Subject Request](https://web.archive.org/company/gdpr/data-subject-request/).
 
 9\. Links
 
