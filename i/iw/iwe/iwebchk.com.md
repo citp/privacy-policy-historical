@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwebchk.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010032id_/http%3A//iwebchk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwebchk.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106082558id_/https%3A//iwebchk.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Comprehensive Website Review and Analysis
+# Privacy | iwebchk
 
 ### Privacy Policy
 
@@ -24,7 +24,7 @@ This does not include trusted third parties who assist us in operating our websi
 
 **Security of your Personal Information**
 
-No method of safeguarding information is 100% secure. At this time iwebchk.com uses a third-party payment gateway. PayPal is a leading global online payment company. Follow the link to read [PayPal's privacy policy](https://cms.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US) regarding the payment processing and security. 
+No method of safeguarding information is 100% secure. At this time iwebchk.com uses a third-party payment gateway. PayPal is a leading global online payment company. Follow the link to read [PayPal's privacy policy](https://cms.paypal.com/us/cgi-bin/marketingweb?cmd=_render-content&content_ID=ua/Privacy_full&locale.x=en_US) regarding the payment processing and security.
 
 Your private information (credit cards, financials, etc.) will not be stored on iwebchk.com servers.
 
