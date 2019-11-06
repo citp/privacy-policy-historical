@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506174636id_/https%3A//www.kaplaninternational.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaplaninternational.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106174730id_/https%3A//www.kaplaninternational.com/privacy-notice) for the most accurate reproduction.*
 
-# Kaplan International English Privacy Notice | Kaplan International
+# Kaplan International Languages Privacy Notice | Kaplan International
 
 ## You are here
 
 [Home](https://web.archive.org/) > Privacy Notice
 
-Kaplan International English is committed to maintaining the privacy and security of your personal data. This Privacy Notice explains how we collect, use, share and protect your personal data.
+Kaplan International Languages is committed to maintaining the privacy and security of your personal data. This Privacy Notice explains how we collect, use, share and protect your personal data.
 
 It is important that you read this Privacy Notice so that you are aware of how and why we are using your personal data. 
 
 This Privacy Notice is provided in a layered format so you can click through to the specific areas set out below. 
 
-* For the  **Kaplan International Hosts Privacy Notice**  please click [here](http://ebook.kaplaninternational.com/privacy%20notice/Kaplan%20International%20Hosts%20Privacy%20Notice.pdf)[.](https://web.archive.org/ebook.kaplaninternational.com/privacy%2Bnotice/Kaplan%2BInternational%2BHosts%2BPrivacy%2BNotice.pdf)
+* Find out more aobut the [ **Kaplan International Hosts Privacy Notice**](http://ebook.kaplaninternational.com/privacy%20notice/Kaplan%20International%20Hosts%20Privacy%20Notice.pdf) 
 
-Kaplan International English is a "data controller". This means that we are responsible for deciding how we hold and use personal information about you. Where we act as a data controller, we are required under data protection legislation to notify anyone who provides personal data to us, either directly or through a third party, of the information contained in this Privacy Notice.
+Kaplan International Languages is a "data controller". This means that we are responsible for deciding how we hold and use personal information about you. Where we act as a data controller, we are required under data protection legislation to notify anyone who provides personal data to us, either directly or through a third party, of the information contained in this Privacy Notice.
 
-Kaplan International English is the trading name for Aspect International Language Academies Limited (company number 02162156 and registered address at 2 nd Floor Warwick Building, Kensington Village, Avonmore Road, London W14 8HQ) so when we mention "Kaplan", "we", "us" or "our" in this Privacy Notice, we are referring to this company which is responsible for processing your data.
+Kaplan International Languages is the trading name for Aspect International Language Academies Limited (company number 02162156 and registered address at 2 nd Floor Warwick Building, Kensington Village, Avonmore Road, London W14 8HQ) so when we mention "Kaplan", "we", "us" or "our" in this Privacy Notice, we are referring to this company which is responsible for processing your data.
 
 We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this Privacy Notice, including any requests to exercise your legal rights, please contact the DPO using the details set out below:
 
