@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408023841id_/http%3A//gicare.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106162326id_/https%3A//www.gicare.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Jackson Siegelbaum Gastroenterology
+# Privacy | Jackson Siegelbaum Gastroenterology
 
 **Notice of Privacy Practices for Jackson Siegelbaum Gastroenterology**  
-effective july 1, 2006
+effective July 1, 2006
 
 **This notice describes how medical information about you may be used and disclosed and how to get access to this information.  
 Please read it carefully.**
@@ -17,20 +17,12 @@ Telephone: 717-761-0930
 FAX: 717-761-0465
 
   1. **YOUR PROTECTED HEALTH INFORMATION**  
-Jackson Siegelbaum Gastroenterology is required by the federal privacy rule to maintain the privacy of health information protected by the rule. We are also required to provide you with notice of our legal duties and privacy practices related to your protected health care information. We are required to abide by the terms of the notice currently in effect. 
-
-Your protected health information includes the following: (a) information that relates to your past, present or future physical or mental health or condition; (b) the provision of health care to you; and (c) payment for health care provided to you. Protected information must individually identify you or can reasonably be used to identify you.
-
-Your medical and billing records at our practice are examples of information that is usually regarded as protected health information.
-
+Jackson Siegelbaum Gastroenterology is required by the federal privacy rule to maintain the privacy of health information protected by the rule. We are also required to provide you with notice of our legal duties and privacy practices related to your protected health care information. We are required to abide by the terms of the notice currently in effect.Your protected health information includes the following: (a) information that relates to your past, present or future physical or mental health or condition; (b) the provision of health care to you; and (c) payment for health care provided to you. Protected information must individually identify you or can reasonably be used to identify you.Your medical and billing records at our practice are examples of information that is usually regarded as protected health information.
   2. **USES AND DISCLOSURES OF YOUR PROTECTED HEALTH INFORMATION**
     1. **Treatment, payment, and health care operations**  
 This section describes how we may use and disclose your protected health information for treatment, payment and health care operations purposes. The descriptions include examples. Not every possible use or disclosure for treatment, payment and health care operations purposes will be listed. 
       1. **Treatment**  
-We may use and disclose your protected health information for our treatment purposes as well as the treatment purposes of other health care providers. Treatment includes the provision, coordination, or management of health care services to you by one or more health care providers. 
-
-Some examples of treatment issues and disclosures include:
-
+We may use and disclose your protected health information for our treatment purposes as well as the treatment purposes of other health care providers. Treatment includes the provision, coordination, or management of health care services to you by one or more health care providers.Some examples of treatment issues and disclosures include: 
         * During an office visit, practice physicians and other staff involved in your care may review your medical record and share and discuss your medical information with each other.
         * We may share and discuss your medical information with an outside physician to whom we have referred your care.
         * We may share and discuss your medical information with an outside physician with whom we are consulting regarding your care.
@@ -43,10 +35,7 @@ Some examples of treatment issues and disclosures include:
         * We may contact you to provide appointment reminders. To do this, we may send postcards with our practice name and return address, mail you letters in envelopes with our practice name and return address, call you at home or work, or leave messages with family members or voice mail.
         * We may contact you to call the office. To do this, we may send postcards with our practice name and return address, mail you letters in envelopes with our practice name and return address, call you at home or work, or leave messages with family members or voice mail.
       2. **Payment**  
-We may use and disclose your protected health information for our payment purposes as well as the payment purposes of other health care providers and health plans. Payment uses and disclosures include activities conducted to obtain payment for the care provided to you or so you can obtain reimbursement for that care, for example, from your health insurer. 
-
-Some examples of payment uses and disclosures include:
-
+We may use and disclose your protected health information for our payment purposes as well as the payment purposes of other health care providers and health plans. Payment uses and disclosures include activities conducted to obtain payment for the care provided to you or so you can obtain reimbursement for that care, for example, from your health insurer.Some examples of payment uses and disclosures include: 
         * Sharing information with you health insurer to determine whether you are eligible for coverage or whether proposed treatment is a covered service.
         * Submission of a claim form to your health insurer.
         * Providing supplemental information to you health insurer so that you health insurer can obtain reimbursement from another health plan under a coordination of benefits clause in your subscriber agreement.
@@ -59,10 +48,7 @@ Some examples of payment uses and disclosures include:
         * Providing information to a collection agency or our attorney for purposes of securing payment of a delinquent account.
         * Disclosing information in a legal action for purposes of securing payment of a delinquent account.
       3. **Health care operations**  
-We may use and disclose your protected health information for our health care operation purposes as well as certain health care operation purposes of other health care providers and health plans. 
-
-Some examples of health care operation purposes include:
-
+We may use and disclose your protected health information for our health care operation purposes as well as certain health care operation purposes of other health care providers and health plans.Some examples of health care operation purposes include: 
         * Quality assessment and improvement activities.
         * Population based activities relating to improving health or reducing health care costs.
         * Reviewing the competence, qualifications, or performance of health care professionals.
@@ -81,7 +67,8 @@ We may disclose your protected health information to someone involved in your ca
 We may use and disclose your protected health information to notify, or to assist in the notification of, a family member, a personal representative, or another person responsible for your care, regarding your location, general condition, or death. For example, if you are hospitalized, we may notify a family member of the hospital and your general condition. In addition, we may disclose your protected health information to a disaster relief entity, such as the Red Cross, so that it can notify a family member, a personal representative, or another person involved in your care regarding your location, general condition, or death.
       3. **Required by law**  
 We may use and disclose protected health information when required by federal, state, or local law. For example, we may disclose protected health information to comply with mandatory reporting requirements involving births and deaths, child abuse, disease prevention and control, vaccine-related injuries, medical device-related deaths and serious injuries, gunshot and other injuries by a deadly weapon or criminal act, driving impairments, blood alcohol testing and medical errors.
-      4. Other public health activities We may use and disclose protected health information for public health activities, including: 
+      4. **Other public health activities**  
+We may use and disclose protected health information for public health activities, including: 
         * Communicable disease reports.
         * Child abuse and neglect reports.
         * FDA-related reports and disclosures, for example, adverse event reports
