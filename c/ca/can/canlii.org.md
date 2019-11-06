@@ -1,79 +1,65 @@
-> *The following text is extracted and transformed from the canlii.org privacy policy that was archived on 2006-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061018221007id_/http%3A//canlii.org/priv_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canlii.org privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106163634id_/https%3A//www.canlii.org/en/info/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy | CanLII
 
-## A. General Statement
+All questions, comments and requests concerning the present document should be emailed to the CanLII Editor using the [feedback form](https://web.archive.org/en/feedback/feedback.html). 
 
-1. CanLII treats personal data about CanLII website visitors with the utmost confidentiality and scrupulously abides by Canadian law pertaining to personal data protection insofar as it applies to CanLII.
+1. CanLII avoids collecting and storing personal information and, if personal information on users is received, CanLII treats it with utmost confidentiality. CanLII complies with applicable Canadian legislation on privacy protection.
 
-2. Furthermore, CanLII adheres to the principles of openness and transparency that underlie the Canadian legislative and judiciary processes and recognizes their fundamental importance in a democratic society.
+2\. CanLII adheres to the principle of openness and transparency of legislative and judicial processes, and recognizes their fundamental importance in democratic societies. In order to minimize the negative impact of such transparency on the privacy of those involved in cases leading to judicial decisions, CanLII does not permit its case law collections to be indexed by external search engines.
 
-3. The following privacy policy is an integral part of CanLII’s Terms and Conditions of Use, available at <<http://www.canlii.org/conditions_en.html>>. CanLII reserves the right to amend this Privacy Policy occasionally.
+## Information on Website Users
 
-4. Any requests or comments regarding the content or the application of the following Privacy Policy should be directed to CanLII’s Privacy Policy Officer at the following address:
+3\. CanLII does not gather personal information on site users. When a user contacts CanLII, personal information may be conveyed at the user’s discretion. CanLII considers such information to be confidential. Personal information on users that comes into CanLII’s possession is destroyed or erased as soon as CanLII no longer requires it for the purposes for which it was provided.
 
-## B. CanLII User Data
+4\. CanLII gathers information on the use of its services for the sole purpose of keeping statistics on visits and ensuring smooth operation of its website’s services. CanLII does not attempt to identify users, and information gathered is never used to establish user profiles. Moreover, information gathered is never disclosed to third parties, unless such disclosure is required by law or needed to prevent misuse or unauthorized use of services offered by CanLII.
 
-5. Any CanLII user data gathered is deemed confidential. CanLII user information is only gathered for purposes of establishing statistics about visits to the site and for improving the services provided, such as website navigation, the CanLII search engine, the CanLII feedback form and mailing lists managed by CanLII. All personal CanLII user data gathered is never used to either identify or try to identify individuals. CanLII user data is never divulged to third parties without the user’s explicit consent, except (1) when required by law or (2) in cases where unauthorized or abusive use of the CanLII resource has been made. Further details on unauthorized or abusive usage of CanLII may be found in [CanLII’s Terms and Conditions of Use](https://web.archive.org/web/20061018221007id_/http%3A//canlii.org/conditions_eng_1.doc).
+**Data on Visits**
 
-### CanLII User Visit Information
+5\. When a user accesses a website, various pieces of information circulate between the user’s computer and the website’s server. CanLII stores the transactional information related to user computers. The information consists in:
 
-6. Technical information about access, navigation and searches performed by CanLII users is automatically logged and retained. Such information pertains to the user’s computer and to the computer’s of the website. More specifically, this information consists of:
-
-  * The computer’s IP address and its corresponding domain name;
-  * The computer’s operating system and the Web browser used;
-  * The referring site address, if CanLII was accessed from another site;
-  * The query made on the referring site’s search engine, when applicable;
-  * The addresses of the pages visited on CanLII;
+  * The IP address and corresponding domain name, if available;
+  * The operating system and web browser employed;
+  * The address of the referring site, if the user reached CanLII from another site;
+  * The query on the search engine of the referring site, if applicable;
+  * The pages visited on CanLII;
   * The date, time and duration of the visit;
-  *  The queries made on CanLII’s search engine.
+  * The queries made on CanLII’s search engine.
 
 
 
-7. Any analysis of this data is strictly for improving the technical quality of the services provided and to evaluate the number of visits to the CanLII website.
+6\. CanLII gathers this information in order to track the number of visitors, pages most often visited, technology used by users, referring sites and users’ countries of origin. Analysis of this data enables CanLII to improve its site, develop new services and prevent misuse of its resources.
 
-### Cookies
+**Cookies**
 
-8. Navigating the CanLII website does not require the use of cookies. However, in order to allow for easier and customized user navigation CanLII creates and saves cookies files on a user computer when, for instance, the user checks a box displaying a message such as “Do not display this warning anymore” or “Save these settings as the default values”. When a cookies file is created, the cookie only contains the information required for the technical features described in these messages, with no personal user data.
+7\. A cookie is saved on the user computer’s hard disk in order to record the choice of language made when CanLII is visited for the first time. The cookie expires 30 days after the last use of CanLII. It is also possible to erase it at any time by clicking here. Users can also refuse cookies by changing their preferences in their web browser. Since cookies are not necessary to use CanLII, users who refuse cookies can navigate CanLII web pages freely and without any problem.
 
-### Feedback Form
+**Feedback Form**
 
-9. When a user completes the CanLII [feedback form](http://www.canlii.org/feedback/commentaires.html), the user has the option of providing his/her name, an organization name and an e-mail address. Such information is collected only for the purposes of addressing the user’s particular concern or comment and to follow-up on requests received at CanLII through this form. Names and e-mail addresses are never added to any mailing list and are duly deleted immediately after the user request or comment has been addressed.
+8\. When users complete the feedback form, it is possible for them to provide their names, organization’s name and email address. The information is used and stored only as required to process the request and to establish general statistics.
 
-### Mailing Lists
+**Mailing List**
 
-10. A user subscribing to a mailing list on CanLII (the “subscriber”) must provide a valid e-mail address and has the option of providing a name. Mailing list user data is collected only for the management and operation of these lists. The subscriber can consult or modify their mailing list information by following the instructions found on CanLII’s [mailing lists page](https://web.archive.org/web/20061018221007id_/http%3A//canlii.org/subscription.html). Personal CanLII mailing list subscriber data is destroyed when the subscriber unsubscribes from the list.
+9\. Users who subscribe to CanLII mailing lists must provide valid email addresses, and may provide their names, at their discretion. The information is gathered uniquely for the purposes of managing and operating the list, and is destroyed when the subscriber terminates the subscription. Users always have access to their accounts and can correct information and terminate subscriptions themselves.
 
-### Personal Data Security
+**Management of Information Gathered by CanLII**
 
-11. Information collected about CanLII users and their computers is maintained in a secure environment. CanLII personnel are strictly bound to ensure the confidentiality of any personal CanLII user data.
+10\. In order to ensure compliance with the present policy and applicable legislation on privacy protection, an officer is appointed to see to respect for the principles stated here and legislation applicable to protection of personal information on users. The Privacy Policy Officer can be contacted using the [feedback form](https://web.archive.org/en/feedback/feedback.html).
 
-12. CanLII strives to maintain a consistently high level of security to ensure the confidentiality of CanLII user data. However, except in cases of intentional or gross fault, CanLII declines all liability for any damage or harm caused by any third person managing to access any such stored data.
+11\. All information gathered by CanLII is kept in a secure computer environment to which access is restricted. CanLII employees who gather, store and use personal information are required to ensure that their activities comply with the present policy. CanLII makes a commitment to maintain a high degree of security.
 
-## C. Personal Information Contained Within Published Documents
+## Information in Documents Published by CanLII
 
-13. CanLII publishes documents as received from decision issuing institutions, that is, official printers, courts and tribunals, or law societies. These documents are already of a public nature. CanLII considers that the complete and unabriged dissemination of these documents, including any personal information these documents contain, is paramount to the realization of the principle of openness governing public institutions in Canada.
+12\. CanLII publishes documents in the form in which they are received from the institutions that issue them, such as official publishers, courts and law societies. The documents are public. CanLII considers that publishing the complete documents, including the personal information they may contain, is primordial to implementing the principles of openness and transparency that govern Canadian public institutions.
 
-14. CanLII does not systematically examine the content of statutes and regulations published on its Web site and does not edit or modify the content of these documents. With regard to the decisions, CanLII detects possible restrictions on publication and modifies the content of these documents only to the extent required by the Law.
+13\. With respect to court decisions, the transparency characteristic of the Canadian judicial system protects the impartiality of the judiciary, ensures the fairness of the judicial process and enables individuals to base their conduct on precedents established by judges. CanLII does not edit the content of court decisions except to comply with publication bans imposed by statutes or courts and in accordance with the policies of the institution that provided the text of the decision.
 
-15. In order to minimize the prejudicial impact on individuals resulting from the wide access to documents containing personal information, CanLII is actively involved in the advancement of standards and formal guidelines that promote an optimal level of privacy protection.
+14\. In order to limit prejudice to individuals that could result from free publication of documents containing personal information, CanLII is actively involved in advancing standards and policies that promote optimal protection of the privacy of people who appear before the courts.
 
-### Personal Information Contained in Decisions
+**Indexing of Decisions by External Search Engines**
 
-16. Canadian courts and tribunal decisions are meant to be of a public nature. This fundamental characteristic of the Canadian judicial system protects the impartiality of the judiciary, ensures the equity of the judicial system and allows for citizens and their legal representatives, in their own legal proceedings, to base themselves upon precedents set by judges. CanLII respects the public nature of decisions and publishes the complete and unabriged textual content of these documents, including any possible personal information contained within these decisions.
+15\. Through application of [recognized web robot exclusion protocols](http://www.robotstxt.org/wc/exclusion.html) and by restricting indexing activities in its [terms of use](https://web.archive.org/en/info/terms.html), CanLII prohibits external search engines from indexing the text and case name of decisions published on its website, except for Supreme Court of Canada decisions. When indexing prohibitions in robot exclusion protocols are complied with, searching for the name of an individual using an Internet search engine does not return decisions published on CanLII. However, when a third party links to a CanLII decision on a web page that is not under CanLII’s control, names that are included in this page or in the link’s text might still be indexed by external search engines. Neither CanLII nor its partners represent or guarantee that the technological and legal measures taken to prevent external indexing will be respected or be free of mistakes or malfunctions.
 
-17. CanLII and its partners cannot be held liable for prejudice caused by the lawful publication of any public document containing personal information on the CanLII website, nor by the eventual dissemination or re-use of these public documents by a third person.
+**Requests Concerning the Content of Published Documents**
 
-18. In certain exceptional cases, the principle of complete and unabriged publication of decisions is waived by law. In these cases, the law prohibits the disclosure of some pieces of information such as information that would allow for the identification of certain participants in the judicial system. CanLII abides by these legal restrictions on publication, in collaboration with the decision issuing institutions.
-
-### Decision Indexing and Storage
-
-19. CanLII does not allow search engines to index the content and case names of any trial decision and most appeal decisions published on the CanLII website.
-
-20. Moreover, CanLII prohibits the storage of any decision available on the CanLII website when such stored decisions could be publicly accessible.
-
-21. CanLII uses all the technological tools and methods currently available to prevent the external indexing or storage of its decision collections by search engines. Nonetheless, CanLII and its partners cannot be held liable for any situation wherein a third party manages to override the measures taken at CanLII.
-
-### Requests regarding the Content of Published Documents
-
-22. Any request regarding the content of a document published on the CanLII website must be sent to CanLII’s Editor or Privacy Policy Officer. CanLII decides whether a document should remain, be replaced or removed from the CanLII website only after having obtained the advice from the registrar or other authorized officer of this document’s issuing institution.
+16\. All requests concerning the content of a document published on the CanLII website should be submitted to CanLII’s Editor or Privacy Policy Officer using the [feedback form](https://web.archive.org/en/feedback/feedback.html). If the request is to withdraw or amend a decision, it will be studied in light of applicable rules pertaining to publication restrictions. Requests for withdrawal or amendment that are not justified by relevant legislative provisions or a court order restricting publication will be refused. Persons wishing to submit a request for withdrawal but who do not know the law applicable to their situation are asked to contact their lawyer or the registry of the court that rendered the decision.
