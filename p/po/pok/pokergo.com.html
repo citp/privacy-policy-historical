@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pokergo.com privacy policy that was archived on 2019-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190407075722id_/https%3A//www.pokergo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pokergo.com privacy policy that was archived on 2019-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191106125402id_/https%3A//www.pokergo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="utf-8">
@@ -38,8 +38,8 @@
 		var LOC_CONTENT = "https://neulionsmbnyc-a.akamaihd.net/u/mt1/pokergo/thumbs/";
 		var LOC_RESOURCE = "https://neulionms-a.akamaihd.net/mt1/player3/";
 		var LOC_EXT_AUDIO = "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/pokercentral/";
-		var SOLR_PROGRAM = "https://neulionsc1-a.akamaihd.net/solr/mt2_program/pokergo/";
-		var SOLR_CATEGORY = "https://neulionsc3-a.akamaihd.net/solr/mt1_category/pokergo/";
+		var SOLR_PROGRAM = "https://neulionscmt1-a.akamaihd.net/solr/mt1_program/pokergo/";
+		var SOLR_CATEGORY = "https://neulionscmt1-a.akamaihd.net/solr/mt1_category/pokergo/";
 		var SITE_ID = "pokergo";
 		var pageName = "privacy";
 		var isLoggedIn = false;
@@ -63,8 +63,10 @@
 	<script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/pokergo/site_4/scripts/lib/jquery.easing.js"></script>
 	<script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/pokergo/site_4/scripts/lib/owl.carousel.min.js"></script>
 	<script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/pokergo/site_4/scripts/lib/neu.min.js"></script>
+	<script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/pokergo/site_4/scripts/initPersonal.js"></script>
 	<script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/pokergo/site_4/scripts/master.js"></script>
 	<!-- <script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/pokergo/site_4/scripts/message.js"></script> -->
+	<script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/pokergo/site/scripts/env.js"></script>
 	<script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/pokergo/site_4/scripts/config.js"></script>
 	<script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/pokergo/site_4/scripts/common.js"></script>
 	<script type="text/javascript" src="https://neulionms-a.akamaihd.net/mt1/player3/base/reg/scripts/util.js"></script>
@@ -91,7 +93,7 @@
 			var accessTokenServer = "https://www.pokergo.com/secure/accesstoken";
 			var nlat = new NLAccessToken(accessTokenServer, accessToken);
 		</script>
-		
+		<script>var LOC_API = "https://mt1api.neulion.com/api_mt1/";</script>
 		
 			<script src="https://neulionms-a.akamaihd.net/mt1/player3/base/site/scripts/nlps.js"></script>
 			<script>
@@ -150,7 +152,7 @@
 <script>
 	NLTracker.initialize({
 		locResource:"https://neulionms-a.akamaihd.net/mt1/player3/base/site/"
-		,locQos:"//nlqosdrecv01.neulion.com/msdrecv/ProxyBean"
+		,locQos:"https://neulionqos-a.akamaihd.net/msdrecv/ProxyBean"
 		,site:"pokergo"
 		,gaa:"UA-57294405-6"
 		
@@ -232,7 +234,7 @@
 	<!-- End Personalization -->
 </head>
 
-<body onload="init()" class=" privacy-page no-access">
+<body class=" privacy-page no-access">
 <!-- Google Tag Manager (noscript) -->
 
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KP8RCP5"
@@ -287,7 +289,6 @@
 							<div id="menuMore">
 								<div class="menuItem" id=""><a href="/page/device">Ways to Watch</a></div>
 								<div class="menuItem" id=""><a href="/faq">About PokerGO</a></div>
-								<div class="menuItem" id=""><a href="https://shop.pokergo.com/" target="_blank">Shop PokerGO</a></div>
 								<div class="menuItem" id=""><a href="/faq#contact">Contact Us</a></div>
 								<div class="menuItem" id=""><a href="/tos">Terms of Use</a></div>
 								<div class="menuItem" id=""><a href="/privacy">Privacy Policy</a></div>
@@ -474,7 +475,7 @@
 						
 							<li class="container"><a href="javascript:goToPackage();" class="nav-subscribe">SUBSCRIBE</a></li>
 							<li class="container">
-								<a href="javascript:showSignIn();">SIGN IN</a>
+								<a id="signinMobile" href="javascript:showSignIn();">SIGN IN</a>
 							</li>
 						
 					
@@ -483,7 +484,6 @@
 				
 				<li class="container"><a href="/page/device">Ways to Watch</a></li>
 				<li class="container"><a href="/faq">About PokerGO</a></li>
-				<li class="container"><a href="https://shop.pokergo.com/" target="_blank">Shop PokerGO</a></li>
 				<li class="container"><a href="/faq#contact" onclick="window.location.reload()">Contact Us</a></li>
 				<li class="container"><a href="/tos">Terms of Use</a></li>
 				<li class="container"><a href="/privacy">Privacy Policy</a></li>
@@ -586,7 +586,7 @@
 			<h1>PROCESSING IN THE UNITED STATES</h1>
 			<p>Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. If you are located outside of the United States, please be advised that we process and store all information in the United States. By providing personal data, you confirm your consent to having such personal data being hosted and accessed in the United States.</p>
 			<h1>CONTACT US</h1>
-			<p class="info-text-indent">Poker Central LLC<br>3960 Howard Hughes Parkway, Suite 290<br>Las Vegas, NV&nbsp; 89169<br>compliance@pokercentral.com</p>
+			<p class="info-text-indent">Poker Central LLC<br>3993 Howard Hughes Parkway, Suite 450<br>Las Vegas, NV&nbsp; 89169<br>compliance@pokercentral.com</p>
 			<p>If you are located in the European Union and feel that your Personal Data has been processed in a way that does not comply with the EU General Data Protection Regulation, you have the right to lodge a complaint with the relevant supervisory authority.  The supervisory authority will be the point of contact with respect to the progress and outcome of your complaint.</p>
 			<h1>PRIVACY POLICY CHANGES</h1>
 			<p>From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will go into effect on the Revision Date shown in the revised Privacy Policy. Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy.</p>
@@ -616,6 +616,7 @@
 					<span class="footerLink"><a href="/faq#contact">Help</a></span>
 					<span class="footerLink"><a href="/faq">FAQ</a></span>
 					<span class="footerLink"><a href="/page/device">Devices</a></span>
+					<span class="footerLink"><a href="https://shop.pokergo.com/" target="_blank">Shop</a></span>
 					<span class="footerLink"><a href="/privacy">Privacy Policy</a></span>
 					<span class="footerLink"><a href="/tos">Terms of Use</a></span>
 					<span class="footerLink"><a href="https://www.pokercentral.com/" target="_blank">PokerCentral.com</a></span>
@@ -759,7 +760,7 @@
 	<a href="javascript:hideFreeSample()" id="freeSampleClose" class="icon-hover" alt="Close"></a>
 	<div id="freeSampleStep1" class="free-sample-container" style="display:none">
 		<div class="free-sample-header">
-			<h1 class="free-sample-title">Start Watching for Free</h1>
+			<h2 class="free-sample-title">Start Watching for Free</h2>
 		</div>
 		<div class="free-sample-content">Enter your email address below to start your free preview of PokerGO.</div>
 		<div class="free-sample-bottom">
@@ -778,7 +779,7 @@
 	</div>
 	<div id="freeSampleStep2" class="free-sample-container" style="display:none">
 		<div class="free-sample-header">
-			<h1 class="free-sample-title">Start Your Free Preview</h1>
+			<h2 class="free-sample-title">Start Your Free Preview</h2>
 		</div>
 		<div class="free-sample-content">Use the code sent to your email to activate your free preview now.</div>
 		<div class="free-sample-bottom">
@@ -790,7 +791,7 @@
 	</div>
 	<div id="freeSampleExpired" class="free-sample-container" style="display:none">
 		<div class="free-sample-header">
-			<h1 class="free-sample-title">Your Preview Has Expired</h1>
+			<h2 class="free-sample-title">Your Preview Has Expired</h2>
 		</div>
 		<div class="free-sample-content">Subscribe now to finish watching. Plus, get unlimited access to 100+ days of live poker, original programming, and more!</div>
 		<div class="free-sample-bottom">
@@ -850,6 +851,7 @@
 	<!-- Adobe Tag Manager -->
 	<script type="text/javascript">_satellite.pageBottom();</script>
 	<!-- End Adobe Tag Manager -->
+	<script>init();</script>
 
 
 </body></html>
