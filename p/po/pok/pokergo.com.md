@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokergo.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407075722id_/https%3A//www.pokergo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokergo.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106125402id_/https%3A//www.pokergo.com/privacy) for the most accurate reproduction.*
 
 # PokerGO - Privacy Policy
 
@@ -91,7 +91,7 @@ We do not knowingly collect Personal Data from children under the age of 18. If 
 Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. If you are located outside of the United States, please be advised that we process and store all information in the United States. By providing personal data, you confirm your consent to having such personal data being hosted and accessed in the United States.
 
 Poker Central LLC  
-3960 Howard Hughes Parkway, Suite 290  
+3993 Howard Hughes Parkway, Suite 450  
 Las Vegas, NV  89169  
 compliance@pokercentral.com
 
