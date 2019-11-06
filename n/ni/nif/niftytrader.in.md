@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the niftytrader.in privacy policy that was archived on 2017-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171230015544id_/https%3A//www.niftytrader.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niftytrader.in privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106104554id_/https%3A//www.niftytrader.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nifty Trader's Resources
 
-Niftytrader.in/ is committed to maintaining the confidentiality, integrity and security of all personal information about our users. This Privacy Policy explains how we protect personal information provided through our website http://www.niftytrader.in/, (the “Site”) and how we use that information in connection with our service offered through the Site (the “Service”). “Personal information” for purposes of this Policy means information that identifies you, such as your email address or your mobile phone number.
+Niftytrader.in is committed to maintaining the confidentiality, integrity and security of all personal information about our users. This Privacy Policy explains how we protect personal information provided through our website http://www.niftytrader.in/, (the “Site”) and how we use that information in connection with our service offered through the Site (the “Service”). “Personal information” for purposes of this Policy means information that identifies you, such as your email address or your mobile phone number.
 
 **A. Disclosure, if required by law**  
 If required by Government of India or similar Organizational bodies, niftytrader would be sharing your personal information to the extent being demanded.
