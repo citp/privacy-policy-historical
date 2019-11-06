@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandforum.co privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330211153id_/https%3A//broadbandforum.co/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandforum.co privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106022922id_/https%3A//broadbandforum.co/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | India Broadband Forum
 
