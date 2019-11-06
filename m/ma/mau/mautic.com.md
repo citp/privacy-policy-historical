@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mautic.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623150118id_/https%3A//mautic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mautic.com privacy policy that was archived on 2019-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191106155318id_/https%3A//mautic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mautic
 
