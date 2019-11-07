@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piac.com.pk privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622165841id_/https%3A//www.piac.com.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piac.com.pk privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107113302id_/https%3A//www.piac.com.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pakistan International Airlines - PIA
 
