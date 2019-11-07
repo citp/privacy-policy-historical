@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petition.parliament.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331025000id_/https%3A//petition.parliament.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petition.parliament.uk privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107155037id_/https%3A//petition.parliament.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies
 
@@ -116,6 +116,15 @@ Contact us if you either:
 
 
 
+You can contact the Data Protection Officer for the House of Commons (part of Parliament) at:
+
+Head of Information Rights and Information Security  
+iris@parliament.uk
+
+IRIS Service  
+House of Commons  
+SW1A 0AA 
+
 You can contact the Data Protection Officer for the Cabinet Office (part of the Government) here:
 
 Data Protection Officer  
@@ -125,15 +134,6 @@ Cabinet Office
 70 Whitehall  
 London  
 SW1A 2AS 
-
-You can contact the Data Protection Officer for the House of Commons (part of Parliament) at:
-
-Head of Information Rights and Information Security  
-iris@parliament.uk
-
-IRIS Service  
-House of Commons  
-SW1A 0AA 
 
 You may also make a complaint to the Information Commissioner, who is an independent regulator set up to uphold information rights.
 
@@ -155,16 +155,17 @@ Cookies are used to:
 
   * measure how you use the petitions service so it can be updated and improved based on your needs
   * remember the notifications you’ve seen so that we don’t show them to you again
+  * help prevent people from fraudulently signing petitions
 
 
 
-These cookies aren’t used to identify you personally.
+These cookies aren’t used to identify you personally and are strictly necessary to ensure the secure running of this website.
 
 Find out more about [how to manage cookies.](http://www.aboutcookies.org/)
 
 ### Google Analytics cookies
 
-We use Google Analytics to collect information about how you use the service. This information helps us to improve the service.
+We use Google Analytics to collect information about how you use the service. This information helps us to improve the service and prevent fraudulent signing.
 
 The Google analytics cookie collects and stores information about:
 
