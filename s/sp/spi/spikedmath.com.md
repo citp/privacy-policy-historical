@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spikedmath.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627125357id_/http%3A//spikedmath.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spikedmath.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108000650id_/http%3A//spikedmath.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Spiked Math - Privacy Policy
 
