@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420201004id_/https%3A//www.educause.edu/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educause.edu privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107144601id_/https%3A//www.educause.edu/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | EDUCAUSE
 
-Date Updated: 10/16/2018
+Date Updated: 09/26/2019
 
   
 
@@ -63,13 +63,13 @@ The information we hold enables us to engage in basic communication with you, he
   * If you are a presenter at one of our events, we will collect information about you including your name, employer, and contact information. We may also collect information provided by event attendees who evaluated your presentation and associate it with your record in our database. In certain instances and with your approval, we will make and store a recording of your voice and likeness.
   * If you submit a proposal to present at an EDUCAUSE event, we will collect information about you and your co-presenters (if relevant) including name, employer, contact information, proposed abstract, and other information associated with your proposed session.
   * If you evaluate proposals for an EDUCAUSE event, we will collect information about you including your name, employer, contact information, and your evaluations of the assigned proposals.
-  * If you are a participant at particular events of ours (e.g., webinar or preconference workshop) we may share basic registration information, including your name, title, and institution name, with the designated presenter(s) for the purpose of planning for the event and tailoring the presentation to the group.
+  * If you are a participant at particular events of ours (e.g., webinar or preconference workshop) we may share basic registration information, including your name, title, institution name, and email with the designated presenter(s) and attendees for the purpose of planning for the event, tailoring the presentation, communication related to group assignments, and follow-up.
   * We keep a record of your participation in EDUCAUSE events as an attendee or presenter, which may be used to provide you with information about other relevant EDUCAUSE products and services, or to help us better understand your interests and tailor our offerings to meet your needs.
   * In association with attending particular conferences of ours, you will have the option to download the EDUCAUSE Conference and Events mobile app to help you navigate the conference and plan your schedule. The mobile app may require the device identifier associated with your device but does not require the collection or use any other personal data—outside of what you choose to provide as part of your participant profile.
   * As a participant, to facilitate networking with colleagues, we include your name, title, and organization in the event registration list, unless you opt out of sharing this information in the registration process. This list is only accessible by registered participants.
   * Some of our events are sponsored. We may share your name and postal mail address with corporate participants at EDUCAUSE conferences you have registered to attend, unless you have opted out of corporate participant communications in the registration process.
-  * We may provide you with a “lead retrieval card” at certain EDUCAUSE and affiliate conferences that contains your basic personal information. This card allows you to pass on this information to exhibitors from whom you would like to receive more information. By allowing a conference exhibitor to swipe that card, you give the exhibitor your name and contact information, including email address.
-  * For some events, EDUCAUSE may use wearable beacons. Beacons placed on participant badges help us refine our events and make future programming improvements by allowing us to observe how participants move around the meeting space and participate in select activities. A beacon ID number is associated with your participant information. EDUCAUSE and our beacon vendor have access to this information. Aggregate data is shared with EDUCAUSE staff for planning purposes and with corporate partners/sponsors to see traffic patterns on the exhibit floor (individual data is not shared). Beacons are not mandatory; attendees are asked to opt in to our beacon program during the event registration process.
+  * We may provide you with a "lead retrieval card" at certain EDUCAUSE and affiliate conferences that contains your basic personal information. This card allows you to pass on this information to exhibitors from whom you would like to receive more information. By allowing a conference exhibitor to swipe that card, you give the exhibitor your name and contact information, including email address.
+  * For some events, EDUCAUSE may use wearable beacons. Beacons placed on participant badges help us refine our events and make future programming improvements by allowing us to observe how participants move around the meeting space and participate in select activities. A beacon ID number is associated with your participant information. EDUCAUSE and our beacon vendor have access to this information. Individual data is only shared with EDUCAUSE staff for planning and aggregate reporting purposes. Corporate partners/sponsors may access aggregate data to see traffic patterns on the exhibit floor. Beacons are not mandatory; attendees are asked to opt in to our beacon program during the event registration process.
   * For some events, EDUCAUSE may offer targeted, interest-specific networking services through a specific platform. Information provided by attendees in the networking platform helps us refine our events and make future programming improvements by allowing us to provide content tailored to the needs of attendees. EDUCAUSE and our networking services vendor have access to this information. Aggregate data, unless otherwise defined during the event registration process, is shared with EDUCAUSE staff for planning purposes. Use of networking services is not mandatory and to participate you must create a profile through the platform.
 
 
@@ -84,7 +84,7 @@ The information we hold enables us to engage in basic communication with you, he
 
 #### Your correspondence with EDUCAUSE
 
-  * If you correspond with us by email, the postal service, or other form of communication, we may retain such correspondence and the information contained in it and use it to respond to your inquiry; to notify you of EDUCAUSE conferences, publications, or other services; or to keep a record of your complaint, accommodation request, and the like. As always, if you wish to have EDUCAUSE “erase” your personal data or otherwise refrain from communicating with you, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#88f8fae1fee9ebf1c8edecfdebe9fdfbeda6edecfd). (Note: If you ask EDUCAUSE not to contact you by email at a certain email address, EDUCAUSE will retain a copy of that email address on its “master do not send” list in order to comply with your no-contact request.)
+  * If you correspond with us by email, the postal service, or other form of communication, we may retain such correspondence and the information contained in it and use it to respond to your inquiry; to notify you of EDUCAUSE conferences, publications, or other services; or to keep a record of your complaint, accommodation request, and the like. As always, if you wish to have EDUCAUSE “erase” your personal data or otherwise refrain from communicating with you, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f2f2d36293e3c261f3a3b2a3c3e2a2c3a713a3b2a). (Note: If you ask EDUCAUSE not to contact you by email at a certain email address, EDUCAUSE will retain a copy of that email address on its “master do not send” list in order to comply with your no-contact request.)
 
 
 
@@ -117,7 +117,7 @@ We send marketing emails and, occasionally, postal mail, which contain promotion
 
 If there is a concern regarding your personal data, we will contact you when required to do so by law. To do this, we will use the email address on file for you. 
 
-If for any reason you think there is a problem regarding communications to you, please let us know by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b9d0d7dfd6f9dcddccdad8cccadc97dcddcc). 
+If for any reason you think there is a problem regarding communications to you, please let us know by contacting [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c7aea9a1a887a2a3b2a4a6b2b4a2e9a2a3b2). 
 
 ## Third-Party Sharing
 
@@ -164,13 +164,13 @@ EDUCAUSE and its service providers release institutionally identifiable informat
 
 ### Access to Personal Data
 
-Upon request, we will provide you with information about whether we hold any of your personal data. You have the right to access the personal data we have about you, and you may request that it be corrected, amended, not processed, or deleted by [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with the subject of “Access Request.” We require all our requests to be in writing. We will respond to your access request within a reasonable time, under 30 days. We may require additional information from you to allow us to confirm your identity or find your personal data.
+Upon request, we will provide you with information about whether we hold any of your personal data. You have the right to access the personal data we have about you, and you may request that it be corrected, amended, not processed, or deleted by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ea9a98839c8b8993aa8f8e9f898b9f998fc48f8e9fd5999f88808f899ed7ab89898f9999cab88f9b9f8f999e) with the subject of “Access Request.” We require all our requests to be in writing. We will respond to your access request within a reasonable time, under 30 days. We may require additional information from you to allow us to confirm your identity or find your personal data.
 
 If you believe that any personal data we are holding on you is incorrect, incomplete, or shouldn’t be processed, please contact us as soon as possible, at the contact information below, and we will promptly take the appropriate action. 
 
 ### Withdrawing Your Consent
 
-You have the right to withdraw your consent for any marketing material. To do this, you may send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#375e59515877525342545642445219525342), click on the unsubscribe link at the bottom of any of our emails, or change your preferences within your profile. 
+You have the right to withdraw your consent for any marketing material. To do this, you may send an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e373038311e3b3a2b3d3f2b2d3b703b3a2b), click on the unsubscribe link at the bottom of any of our emails, or change your preferences within your profile. 
 
 ### Automated Processing 
 
@@ -190,7 +190,7 @@ It is our policy to post any changes we make to our Privacy Notice on this page.
 
 ## Questions, Concerns, or Complaints
 
-If you have a question about or complaint with how you believe we have handled a request under this Privacy Notice (including subject “Access Request”), please let us know, and we will work to fix it. You can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99e9ebf0eff8fae0d9fcfdecfaf8eceafcb7fcfdec) or call 303-449-4430.
+If you have a question about or complaint with how you believe we have handled a request under this Privacy Notice (including subject “Access Request”), please let us know, and we will work to fix it. You can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ccbcbea5baadafb58ca9a8b9afadb9bfa9e2a9a8b9) or call 303-449-4430.
 
 ## Further information
 
@@ -200,11 +200,11 @@ EDUCAUSE
 282 Century Place, Suite 5000  
 Louisville, CO 80027  
 303-449-4430  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9aeae8f3ecfbf9e3dafffeeff9fbefe9ffb4fffeef)
+[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d7a7a5bea1b6b4ae97b2b3a2b4b6a2a4b2f9b2b3a2)
 
 ## FAQ
 
-This Privacy Notice was revised on 10/16/2018 to include information on how we collect and use data related to optional networking services.
+This Privacy Notice was revised on 09/26/2019 regarding the type of information shared with the presenter(s) and attendees of particular events (e.g., webinar or preconference workshop).
 
 ### How Can You Change How EDUCAUSE Uses Your Information?
 
@@ -212,14 +212,14 @@ Balanced with our goal of sharing information with our constituents is our commi
 
 ### Changing email and directory listing preferences
 
-Log in to your [EDUCAUSE profile](https://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) to change your:
+Log in to your [EDUCAUSE profile](https://ams.educause.edu/eweb/MemberPage.aspx?WebCode=MyInformation&amp;Site=edu) to change your:
 
   * Promotional communications preferences
   * Listing status in the EDUCAUSE Member Directory
 
 
 
-You can [create a personal EDUCAUSE profile](https://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) if you do not have one. If you would like to change any preferences listed above but do not wish to create a profile, please email your request to EDUCAUSE Membership at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e68f888089a68382938587939583c8838293) or call 303-449-4430.
+You can [create a personal EDUCAUSE profile](https://ams.educause.edu/eweb/DynamicPage.aspx?WebCode=verify&amp;Site=edu) if you do not have one. If you would like to change any preferences listed above but do not wish to create a profile, please email your request to EDUCAUSE Membership at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8b1b6beb798bdbcadbbb9adabbdf6bdbcad) or call 303-449-4430.
 
 ### Removal from all nontransactional EDUCAUSE emails
 
@@ -231,7 +231,7 @@ To remove yourself from a constituent or discussion group, select the Join or Le
 
 ### How Can You Update Your Personal Information?
 
-Log in to your [EDUCAUSE profile](https://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) to change your:
+Log in to your [EDUCAUSE profile](https://ams.educause.edu/eweb/MemberPage.aspx?WebCode=MyInformation&amp;Site=edu) to change your:
 
   * Basic personal information
   * Biographic information
@@ -239,4 +239,4 @@ Log in to your [EDUCAUSE profile](https://sso-users.educause.edu/?resumePath=%2F
 
 
 
-You can [create a personal EDUCAUSE profile](https://sso-users.educause.edu/?resumePath=%2Fidp%2FUlqGR%2FresumeSAML20%2Fidp%2FstartSSO.ping&allowInteraction=true&reauth=false) if you do not have one. If you would like to change any information listed above but do not wish to create a profile, please email your request to EDUCAUSE Membership at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or call 303-449-4430.
+You can [create a personal EDUCAUSE profile](https://ams.educause.edu/eweb/DynamicPage.aspx?WebCode=verify&amp;Site=edu) if you do not have one. If you would like to change any information listed above but do not wish to create a profile, please email your request to EDUCAUSE Membership at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or call 303-449-4430.
