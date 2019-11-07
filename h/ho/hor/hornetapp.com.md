@@ -1,52 +1,268 @@
-> *The following text is extracted and transformed from the hornetapp.com privacy policy that was archived on 2014-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141218203222id_/https%3A//www.webnames.ca/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornetapp.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107041219id_/https%3A//hornet.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – About Hornet
 
-  |    
-  
-This version in effect since **18 June 2008**
+[en Français](https://hornet.com/about/privacy-policy-francais/)
 
-Protecting your privacy is important to each of Webnames.ca Inc., Webnames Asia Inc. and Webnames Services Inc. (collectively, the **"Webnames Group"** ). This Policy explains how the members of the Webnames Group collect, use and disclose the personal and non-personal information you may provide while using their respective websites (collectively, the "Websites") and the services they provide (collectively, the **"Services"** ).
+## **OUR COMMITMENT TO YOUR PRIVACY**
 
-Your Consent
-  1. By using any of the Websites or the Services, or by submitting information to any member of the Webnames Group, you signify your consent to the collection, use and disclosure of your personal information in accordance with this Policy and any applicable service agreement you have with any member of the Webnames Group, including the _Webnames.ca Terms of Use and Services Agreement and the Webnames Services Inc. Privacy Service Subscription Agreement_ (collectively, the **"Services Agreements"** ), which are available by clicking [here](https://www.webnames.ca/terms/tc.aspx?typecode=privacy_term). If you do not consent to the collection, use, and disclosure of your personal information in accordance with this Policy and the Services Agreements, you may not use the Websites or the Services.
+Your privacy is important to us. To better protect your privacy, we developed this policy as an extension of our commitment to combine quality services with integrity in dealing with our users. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using Hornet.
 
-Information Automatically Collected
-
-  2. Non-Personal Information:  Each of the Websites automatically collects certain non-personal information regarding Website users, such as the date and time they access the Website, the Internet address of the website from which they linked directly to the Website, the browser or operating system they are using, and the Website pages read and content accessed or downloaded. This non-personal information is used for system administration purposes and to improve the Websites. Non-personal information may be disclosed to other persons and permanently retained for future use. If non-personal information is combined with personal information, then the non-personal information will be treated as personal information.
-  3. Cookies:  The Websites may use "cookies", a technology that adds a small amount of information on a Website user's computer to permit the Website to recognize future visits using that computer. Cookies are not executable cannot carry viruses and cannot install malware. Cookies enhance the convenience and use of the Websites. For example, the information provided through cookies is used to recognize you as a previous user of the Website (so you do not have to enter your personal information every time), offer personalized web page content and information for your use, and otherwise facilitate your Website experience. You may choose to decline cookies if your browser permits, but doing so may affect your ability to access or use certain features of the Websites.
-
-Personal Information You Specifically Provide
-
-  4. Your Personal Information:  During your use of the Websites or the Services, you may be asked to voluntarily provide personal information (such as your personal name, email address, postal address, telephone number, fax number, and credit card details, login and password information). If you choose not to provide certain requested personal information, you will not be able to use certain features of the Websites or use certain Services.
-  5. Use of Your Personal Information:  Each member of the Webnames Group uses your personal information for the following purposes and as otherwise permitted by applicable law: (a) to contact and correspond with you regarding the Websites and the Services; (b) to bill you for the services requested by you and otherwise to administer your account; (c) to administer the Websites and the Services; and (d) as reasonably required by the rules, policies, procedures, and guidelines adopted and amended by domain name registration authorities from time to time. Each member of the Webnames Group may develop a confidential profile for you, which will be used to provide services to you and facilitate your use of the Websites. Additionally, each member of the Webnames Group may keep a record of all communications with you.
-  6. Emails and Newsletters:  From time to time, members of the Webnames Group may send to you email or other communications containing information about the Webnames Group, the Services, the Websites, and other matters they believe may interest you. You may also sign up to receive newsletters from the Webnames Group. At any time, you may ask the Webnames Group to stop sending you email, newsletters and other information by sending your request to the Webnames Privacy Officer at the email address noted below. From time to time, including as described in the Services Agreements, the members of the Webnames Group may also send to you email containing important information regarding the Websites or the Services, which you may not opt out of receiving.
-  7. Disclosure of Your Personal Information by Webnames.ca:  Subject to the provisions of any applicable Services Agreement, each member of the Webnames Group may disclose your personal information in the following circumstances and as otherwise permitted by applicable law: 
-(a) Authorized Disclosure:  Each member of the Webnames Group may disclose your personal information as permitted by an applicable Services Agreement.
-
-(b) Disclosure to Authorizing Persons:  If you use the Websites or the Services on behalf of another person or organization, such as your employer or a domain name registrant (an **"Authorizing Person"** ) or if you identify your organization (an **"Organization"** ) when you subscribe for an account, each member of the Webnames Group may provide your personal information to your Authorizing Person or Organization. The Webnames Group has no control over, and no responsibility or liability for, the use of your personal information by your Authorizing Person or Organization, and that use is not subject to this Policy. If you do not wish your personal information to be disclosed to an Authorizing Person or Organization, you should not reference that Authorizing Person or Organization in your account application form and you will not be permitted to use the Websites or the Services on behalf of that Authorizing Person or Organization.
-
-(c) Disclosure to Affiliates, Agents, Suppliers and Service Providers:  Each member of the Webnames Group may provide your personal information to their affiliates, agents, suppliers and service providers for use in connection with matters relating to your use of the Websites and the Services or the provision of services to you. The Webnames Group requires its affiliates, agents, suppliers and service providers to agree to use your personal information only for the purposes for which it is provided to them, and to protect the privacy of your personal information in a manner that is consistent with this Policy. If at any time you do not wish your personal information to be disclosed to certain affiliates, agents, suppliers, service providers, or any other persons, you may send your request to the Webnames Privacy Officer at the email address noted below; however, this may affect your ability to use the Websites or the Services.
-
-(d) Disclosure to Registration Authorities and Public Directories:  Each member of the Webnames Group may disclose your personal information as reasonably required by the rules, policies, procedures, and guidelines (including domain name dispute policies and rules) adopted and amended by domain name registration authorities (such as the Internet Corporation for Assigned Names and Numbers and the Canadian Internet Registration Authority) from time to time, including making certain of your personal information publicly available on searchable databases (including WHOIS databases) relating to domain name registrations. The information disclosed for those purposes (not all of which is personal information) includes the domain names sought to be or registered by you; the names, postal addresses, email addresses, voice telephone numbers and fax numbers of the technical and administrative contacts for the registered domain names; the full hostnames and internet protocol (IP) addresses of at least two nameserver hosts (one primary and at least one secondary) for each registered domain names; the corresponding names of those nameservers; the original creation date of the registration; and the date on which the registration expires. The Webnames Group has no control over, and no responsibility or liability for, the use or disclosure of your personal information disclosed to comply with the rules, policies, procedures, and guidelines of domain name registration authorities, and that use and disclosure is not subject to this Policy.
-
-(e) Disclosure in Business Transfers:  Each member of the Webnames Group may be involved in the sale or transfer of some or all of their businesses. As part of a sale or transfer, each member of the Webnames Group may disclose your personal information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of your personal information in a manner that is consistent with this Policy.
-
-(f) Disclosure for Law Enforcement Purposes:  Each member of the Webnames Group may disclose your personal information if the disclosure is required by law (including to a government institution or agency that has asserted its lawful authority to obtain the information, or to comply with a subpoena or warrant or an order made by a court, person or body with jurisdiction to compel the production of information, or to comply with court rules regarding the production of records and information), to its legal counsel, or where they have reasonable grounds to believe the information could be useful in the investigation of unlawful activity. The Webnames Group has no control over, or liability for, those persons' use and disclosure of your personal information, and that use and disclosure is not subject to this Policy. 
-
-  8. Depersonalized Information:  Each member of the Webnames Group may use personal information to create non-personal information regarding the use of the Website and the Services. Each member of the Webnames Group may then disclose that non-personal information to other persons and permanently retain that non-personal information for future use.
-  9. Business Contact Information:  To the extent permitted by law, the provisions of this Policy concerning "personal information" do not apply to information (such as your personal name, position or title, business address, business telephone number, business fax number and business email address) that enables you to be contacted at a place of business.
-  10. Location of Information:  The Webnames Group will store and process your personal information in Vancouver, Canada. However, the disclosure of your information in accordance with this Policy and applicable law may result in your personal information being transferred outside of Canada, including to the United States. The laws of other countries regarding the collection, use, and disclosure of personal information may be different from the laws of Canada.
-  11. Securing Your Information:  The Webnames Group employs reasonable security safeguards appropriate to the sensitivity of the personal information in its possession or under its control in order to protect that information from unauthorized access, collection, use, disclosure, modification or similar risks. Nevertheless, security risks cannot be eliminated and the Webnames Group cannot guarantee that your personal information will not be used or disclosed in ways not otherwise described in this Policy.
-  12. Accessing Your Personal Information:  You may request access to your personal information and information about Webnames.ca's collection, use and disclosure of that information by sending your request to the Webnames Privacy Officer at one of the addresses noted below. Subject to certain exceptions and limitations prescribed by applicable law, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of the information and to have it amended as appropriate. You can help the Webnames Group maintain the accuracy of your information by notifying the Webnames Group of any changes to your personal information. 
-
-Other Matters
-
-  13. Other Websites:  The Websites may contain links to other websites or Internet resources. When you click on one of those links you are contacting another website. The Webnames Group has no control over, and no responsibility or liability for, other websites or their collection, use and disclosure of your personal information.
-  14. Former Users:  If you cease using the Websites and the Services, or your permission to use the Websites and the Services is terminated, the Webnames Group may continue to use and disclose your personal information in accordance with this Policy as amended from time to time.
-  15. Services Agreements:  The Services Agreements contain important provisions, including provisions disclaiming, limiting, or excluding the liability of the Webnames Group for your use of the Websites and the Services and provisions determining the applicable law and exclusive jurisdiction for the resolution of any disputes regarding your use of the Websites and the Services. Each of those provisions applies to any disputes that may arise in relation to this Policy and the collection, use and disclosure of your personal information, and are of the same force and effect as if they had been reproduced directly in this Policy.
-  16. Policy Changes:  To accommodate changes in the Websites and the Services, changing technology, and legal developments, this Policy may be changed from time to time in the Webnames Group's discretion and without any prior notice or liability to you or any other person. The Webnames Group's collection, use and disclosure of your personal information will be governed by the version of this Policy in effect at that time. New versions of the Policy will be posted on the Website and are available upon request from the Webnames Group. Your continued dealings with the Webnames Group or your use of the Websites or the Services subsequent to any changes to this Policy will signify your consent to the collection, use and disclosure of your personal information in accordance with the changed Policy. Accordingly, when you use the Websites or the Services you should check the date of this Policy and review any changes since the last version. You should also bookmark this page and periodically review this Policy to ensure that you are familiar with the most current version.
-  17. Contacting the Webnames Privacy Officer:  The Webnames Privacy Officer may be contacted by the following methods: (a) by telephone at (604) 633.3097, ext. 103; (b) by email at privacy@webnames.ca; or (c) by postal mail to "Webnames Privacy Officer", c/o Webnames.ca Inc., Suite 333 - 333 Terminal Ave., Vancouver, BC, Canada V6A 4C1.
-  18. English Language:  The parties have expressly requested and required that this Policy and all other related documents be drawn up in the English language. _Les parties conviennent et exigent expressement que ce Politique et tous les documents qui s'y rapportent soient rédigés en anglais._
+  * We will be transparent about the information we are collecting and what we will do with it
+  * We will use the information you give us for purposes described in our Privacy Policy, which include providing you with services you have requested and enhancing your experience with Hornet
+  * We will also use the information to help us understand you better and so that we can give you relevant services and information
+  * If you tell us you don’t want to receive marketing messages we will stop sending them.  We will, of course, continue to send important information relating to the Hornet service and your account with us.
+  * We will put in place measures to protect your information and keep it secure
+  * We will protect your data protection rights and aim to give you control over your own information.
 
 
+
+If you have any further questions please get in touch with us by writing to:
+
+Data Protection Officer  
+Hornet Networks Limited  
+Office D 3/F  
+Man Lok Building  
+93 Bonham Strand  
+Sheung Wan  
+Hong Kong Island  
+Hong Kong
+
+You may also contact us by email at: datarequest@hornet.com
+
+## **CONTROLLER OF PERSONAL INFORMATION**
+
+Any personal information processed by Hornet in connection with this Privacy Policy is controlled by Hornet Networks Limited, which is considered the data controller of your personal information under relevant data protection laws.
+
+## **WHAT DO WE MEAN BY PERSONAL INFORMATION?**
+
+Personal information means details which identify you or could be used to identify you, such as your name and contact details, age, profile, comments, photographs, geographic locations, ethnic background, preference data and more.  It may also include information about how you use our websites and mobile applications.
+
+## **WHEN DOES THIS POLICY APPLY?**
+
+This Privacy Policy applies to personal information about you that we collect, use and otherwise process regarding your relationship with us as a customer or potential customer, including when you engage with us or use our other products or services, use our websites or mobile applications or contact us.
+
+## **HOW CAN YOU KEEP YOUR PERSONAL INFORMATION SECURE?**
+
+We take great care to protect the personal information you provide to us. Here are some things that you can do to keep your information secure.
+
+### **KEEP YOUR HORNET REGISTERED CUSTOMER LOG-IN DETAILS CONFIDENTIAL**
+
+To make sure your access to our websites and mobile applications is secure, you should not share your log-in details with anyone else.  When you finish using the website or mobile app you should log out if others may be able to access your computer or device. This is especially important if you are using a publicly accessible computer.
+
+### **BE AWARE OF AND PROTECT YOURSELF AGAINST INTERNET FRAUD AND PHISHING**
+
+There is an internet fraud practice known as phishing which is the illegal gathering of personal information by deception. Unsolicited emails are sent to individuals from lists illegally gathered by a third party, and recipients are asked to enter login, password or other personal details into a cloned or illegal copy website. You should ensure that you always have up-to-date protection software on your devices to minimise the risks of becoming the target of an attack.
+
+We will never ask you to disclose your password to any of our staff. If you receive a suspicious request purporting to be from us, do not take any actions before confirming the authenticity of the request with us directly, using the contact details provided in this policy.
+
+## **WHEN DO WE COLLECT PERSONAL INFORMATION ABOUT YOU?**
+
+We collect personal information about you whenever you use our products or services (whether these products or services are provided by us or by other companies or agents acting on our behalf), including when you use our website or mobile applications, or interact with us via email or use our contact centres.  For additional details see ‘What information do we collect and retain?’ below.
+
+## **WHAT INFORMATION DO WE COLLECT AND RETAIN?**
+
+In order to gain use of Hornet with your device we generate an ID that is unique to the device or browser on which you install and/or access Hornet. Unless legally obliged, we will never disclose or share this identifier to other parties.
+
+### **INFORMATION WE SHARE WITH HORNET USERS**
+
+When using Hornet, you may provide Hornet with certain personal information specifically:
+
+  * The name you choose
+  * Description of yourself for your profile
+  * Any photos you upload
+  * Any comments you make on content or posts on our discussion forums
+  * Your geographic information
+  * Your ethnic background
+  * Your height
+  * Your weight
+  * Your preferred sexual role
+  * Your relationship status
+  * Your HIV status and if you take pre-exposure prophylaxis (“PrEP”)
+  * What you’re looking for: chat, dates, friends, networking or friendships
+  * Whether you have ‘liked’ content shown to you: events, articles and photos posted by Hornet members.
+
+
+
+Hornet provides a social network service for connecting gay people. We use your information to help other users find and connect with you.
+
+We may show the personal information listed above as part of our feed or on your profile page.
+
+We provide users the ability to find you based on this information.
+
+Geographic information is made available to our users as a relative distance or on the level of city, region or country.
+
+### **INFORMATION WE DO NOT SHARE WITH HORNET USERS**
+
+You may provide us with the following information, which is used by us to identify you for logging in or for contacting you.
+
+This is not shared with Hornet users.
+
+  * Your email address.
+  * Your Facebook ID, if you choose to login using Facebook.
+  * Your Google ID, if you choose to login using Google.
+
+
+
+### **IN-APP CHATS**
+
+When using Hornet, you may use our in-app messaging service to communicate with other Hornet users either on our web app or in our mobile apps. We store messages, photos and stickers from your chats on our servers, so that you can have seamless access to your messaging history on your device at any time.
+
+When you delete your account, we delete your chat messages as well as your user profile, subject to certain conditions set out below in the section “How long will we keep your personal information?”
+
+### **INFORMATION WE COLLECT FROM YOUR USAGE OF THE MOBILE APP OR WEB SITE**
+
+We may also collect:
+
+  * **Your contact with our support team —** We collect information about you contacting our support team to help us answer your queries. We also gather information about any suggestions or complaints you make in order to help your with your queries and improve the products we offer you.
+  * **IP address —** The last IP address associated with a profile or user account is stored. This is used to control spam and fake account creation and identify illicit access to the Hornet service.
+  * **Anonymous usage information —** Your usage of the mobile app or website. We anonymize this information so we can no longer link it to your user account. We collect this to guide our product development so that we can continuously improve the services to our members.
+  * **How you pay for premium subscriptions —** If you have a current premium subscription and the details of how you pay for this so that we can continue taking payments for your subscription.
+  * **Email preferences —** Your preferences for receiving emails from us so we know which emails to send you and which you would rather not receive.
+  * **Information about violations of our terms of service —** We store information about incidents we feel are violations of our terms of service to help control and suspend users who are repeatedly breaking our terms of service.
+  * **Violation reports you make about other users —** If you report another user for violations of our terms of service, we collect information on what you feel the violation is, the time of the report, the user you are reporting and other further details you give us.
+
+
+
+## **WHEN AND WHY DO WE COLLECT ‘SENSITIVE PERSONAL DATA‘?**
+
+Certain categories of personal information, such as that about race, ethnicity, religion, health, sexuality or biometric information are special categories of data requiring additional protection under European Union and UK data protection law and is referred to here as “sensitive personal data“.
+
+You may choose to give us the following specific sensitive personal data, which we show on your profile and provide users the ability to find you based on it:
+
+  * Your ethnicity
+  * Your preferred sexual role
+  * Your relationship status
+
+
+
+You may also choose to share your HIV status with us and if your take pre-exposure prophylaxis (“PrEP”).
+
+Your HIV status is only searchable by users who have defined themselves as HIV positive.
+
+You may opt to receive in-app reminders to undergo HIV tests and receive information on the location of nearby testing centers.
+
+**_We do not share any sensitive personal data information with third parties unless required to do so by law._**
+
+You may edit or delete this information any time.
+
+## **HOW IS YOUR INFORMATION USED BY OTHERS THAT HAVE LINKS ON HORNET?**
+
+You may be able to access other websites or apps through Hornet via links or ads. When you do so, you are subject to their policies regarding privacy and data collection and you should read those policies carefully before using the same. Hornet does not accept responsibility for their use of your personal information, their privacy and data collection practices.
+
+## **WHEN WILL WE SEND YOU MARKETING AND NEWSLETTERS?**
+
+For users joining our community who are subject to the data protection legislation of the EU, we will specifically ask them whether they wish to receive our newsletters. All other new users will automatically benefit from our newsletters, and all users can unsubscribe from our newsletters at any time. Please be aware that we do sometimes send marketing communications that promote a third party’s products and services (for example, those of our business partners) as well as our own.
+
+We may ask if you consent to receiving marketing communications from other members of our group or from third parties.
+
+We will respect your choice as to what communications you wish to receive and the methods by which you are sent them.
+
+### **HOW CAN YOU CHANGE WHAT MARKETING COMMUNICATIONS YOU RECEIVE AND HOW YOU RECEIVE THEM?**
+
+If you decide you would no longer like to be sent marketing communications, you can change your mind at any time.
+
+If you are a registered user of Hornet, you can change your marketing preferences at any time by amending your profile on the web site or in the mobile app.
+
+You may also unsubscribe from our newsletter or all email communication by following the unsubscribe link on the bottom of relevant  emails received from us.
+
+Please note that if you tell us that you do not wish to be sent further marketing communications, you will still receive service communications which are necessary, such as membership and other important service information. If you ask us to stop sending marketing communications, please note we will retain your personal information for the purposes of indicating that you do not want to receive marketing communications.
+
+## **WHAT IS OUR LEGAL BASIS FOR USING YOUR PERSONAL INFORMATION?**
+
+Hornet will only process your personal information where we have a legal basis to do so. The legal basis will depend on the reason or reasons Hornet collected and needs to use your information. Under most relevant laws (EU, UK and others) in almost all cases the legal basis will be:
+
+  * Because we need to use your information so that we can provide the products and services to you and otherwise perform the contract we have with you.
+  * Because it is in Hornet’s legitimate interests to use your personal information to operate and improve our business.
+  * Because Hornet needs to use your personal information to comply with a legal obligation.
+  * To protect the vital interests of you or another person.
+  * Because you have consented to Hornet using your information for a particular purpose.
+
+
+
+If processing of your data is subject to any other laws then the basis of processing your data may be different to that set out above and may in those circumstances be based on your consent in all cases.
+
+## **WHO DO WE SHARE YOUR PERSONAL INFORMATION WITH?**
+
+Your personal information may be shared with companies within our group to assist us in providing the services to you.  We may also disclose your personal information to the following third parties for the purposes described here:
+
+  * Credit and charge card companies and anti-fraud screening service providers to process payments and (where necessary) to carry out fraud-screening.
+  * In response to a valid legal request from Government, regulatory authorities and law enforcement agencies.
+  * Third parties such as law firms and law courts to enforce or apply any contract with you or including subpoenas, court orders, legal process.
+  * In order to improve our business services, we may share information about your age and location, as well as non-personally identifiable information, with our advertising and analytics providers and with related service providers.
+  * We may share your personal data with any subsidiaries, joint ventures, or other companies under common control. If another company acquires our company, business, or our assets, that company will possess the personal data collected by us and will assume the rights and obligations regarding your personal data as described in this Privacy Policy.
+
+
+
+## **HOW LONG WILL WE KEEP YOUR PERSONAL INFORMATION?**
+
+We will keep your personal information for as long as is necessary to provide you with our services and as permitted by the relevant legal requirements.
+
+When you delete your account, it will be removed from our active database, but in some circumstances, it may remain in certain archives where it is not practical or possible to delete it.
+
+In addition, we may keep your personal data and usage history (which includes a history of text or photos that have been censored, banned) as needed to comply with our legal obligations, resolve disputes, and/or enforce any of our agreements.
+
+## **WHAT COUNTRIES WILL YOUR PERSONAL INFORMATION BE SENT TO?**
+
+Your personal information may be sent to and stored by us and third parties in countries outside the country in which you are located and outside the European Economic Area (EEA) and the United Kingdom (UK).
+
+The nature of our business means it is often necessary for us to send your personal information outside the EEA or the UK to fulfil your use of our products and services. This occurs because our business and the third parties identified in ’Who do we share your personal information with?’ have operations in countries across the world. For example, you may be based in the European Economic Area or UK, your personal information will be transferred to other Hornet members outside of those territories.
+
+In addition, we may transfer your data to parties in countries outside the country in which you are located to provide services to us.
+
+This may involve sending your data to countries where under their local laws you may have fewer legal rights.
+
+## **REQUESTING A COPY OF YOUR PERSONAL INFORMATION**
+
+Under the relevant data protection laws, you may request a copy of any personal data about you held by Hornet Networks Limited. In most instances, this is provided free of charge.
+
+You can request your personal data from the mobile app or website.
+
+We will need to verify your identity in order to request your data and we prefer to send your data to you by email.
+
+If you no longer can access your account, our support team ([feedback@hornet.com](http://feedback@hornet.com/)) can help you find your account details so you can login again.
+
+If you have deleted your account, we no longer hold your personal information, subject to certain conditions set out above in the section “How long will we keep your personal information?”.
+
+## **WHAT ARE YOUR OTHER RIGHTS IN RELATION TO THE PERSONAL DATA WE COLLECT?**
+
+Dependent on the jurisdiction you are subject to, you may have some additional rights in relation to your personal information. Should you be subject to EU data protection legislation, for instance, you have, under certain circumstances, a right to:
+
+  * Access your personal data, rectify inaccurate data or erase your personal data, as well as request a restrictiction of or object to the processing of your personal data. Your profile can be amended by you at any time, allowing you to update your personal data as necessary;
+  * Withdraw your consent at any time where consent forms the legal basis of the data being processed. Note that a withdrawal of consent may impact the services we will be able to offer to you; and
+  * Get in touch with your relevant data protection authority to file a complaint. For a list of EU data protection authorities please see:[ http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
+
+
+
+In order to make our services more relevant to you and to improve our overall services, we may use automated processing of some of your personal information. We may use such automated processing in the following  instances:
+
+  * In relation to your interactions with other users and certain content on the Hornet platform (such as who you communicate with, which profiles you have viewed and/or follow, contents of your profile, which content you and other users liked or similar activities) to suggest other users you may wish to talk to and vice versa (our “HornetSuggest” feature); and
+  * To allow us to moderate the large number of images submitted to us, our dedicated software automatically analyses and categorizes such images. If any of your images are not accepted or you have any queries in relation to our categorisation of images, please contact us using the contact details in this policy.
+
+
+
+## **PERSONAL INFORMATION OF CHILDREN**
+
+Our services are intended only for users aged 18 or above. We do not knowingly collect, maintain or use any personal information of anyone below the age of 18. Should you become aware of anyone under 18 having submitted personal information to us, please contact us using the contact details contained in this policy and we will address the issue accordingly.
+
+## **CHANGES AND UPDATE TO THIS PRIVACY POLICY**
+
+Your use of Hornet means that you accept the Policy above. We expressly reserve the right to make changes to the Policy from time to time at our discretion. Your continued use indicates your agreement to those changes.
+
+## **EU REPRESENTATIVE**
+
+Our EU representative for the purposes of GDPR Article 27 is:
+
+Christof Wittig  
+c/o Hornet Networks Limited  
+Office D 3/F  
+Man Lok Building  
+93 Bonham Strand  
+Sheung Wan  
+Hong Kong Island  
+Hong Kong  
+Email address: gdpr-eu-representative@hornet.com
+
+Last updated:  May 2018
+
+**The English text of this policy is the authoritative version.**
