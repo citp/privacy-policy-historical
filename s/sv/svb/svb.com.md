@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609124714id_/https%3A//www.svb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107203929id_/https%3A//www.svb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Silicon Valley Bank
 
-_Effective as of October 31, 2018_
+_Effective as of September 30, 2019_
 
 SVB Financial Group provides diversified financial services to emerging, growth and established technology companies and to the life science, cleantech, venture capital, private equity and to premium wine markets. SVB Financial Group's businesses and divisions include Silicon Valley Bank, SVB Capital, SVB Analytics, SVB Private Bank a division of Silicon Valley Bank, SVB Wealth Advisory, Inc. and other affiliated organizations.
 
@@ -10,12 +10,12 @@ This Privacy Notice ("Notice") applies to your interaction with SVB Financial Gr
 
 SVB is headquartered in Santa Clara, California, USA. SVB serves clients around the world through its offices in the United States and international branches or subsidiaries in the UK, Germany, Canada, Israel, India and China.
 
-For our US Private Bank and Wealth Advisory Privacy Notice [click here](https://web.archive.org/globalassets/content/corporate/private-bank-and-wealth-advisory-privacy-policy-2017.pdf "Private Bank and Wealth Advisory Privacy Notice").   
-For US individual customers the Privacy Notice can be [found here](https://web.archive.org/globalassets/content/corporate/us-individual-privacy-notice-2017.pdf "US individual customers the Privacy Notice").
+For our US Private Bank and Wealth Advisory Privacy Notice [click here](https://web.archive.org/globalassets/content/corporate/us-privacy-notice-wapb-2019.pdf "Private Bank and Wealth Advisory Privacy Notice").   
+For US individual customers the Privacy Notice can be [found here](https://web.archive.org/globalassets/content/corporate/us-privacy-notice-non-wapb-2019.pdf "US individual customers the Privacy Notice").
 
 SVB respects your privacy and is committed to protecting your personal data. This Notice will inform you as to how we look after your personal data and tell you about your privacy rights and how the law protects you. It also applies to the personal data we hold in relation to certain third parties (for example, our clients’ beneficial owners), so if you are an SVB client or prospective client and provide us with personal data on behalf of beneficial owners or other third parties, you should provide them with this Notice so that they understand how we deal with their personal data.
 
-To download this Notice [click here](https://web.archive.org/globalassets/library/uploadedfiles/content/corporate/svb-global-privacy-notice---2018.pdf). Please use the Glossary to understand the meaning of some of the terms used in this Notice.
+To download this Notice [click here](https://web.archive.org/globalassets/content/corporate/svbg-global-privacy-notice_30sept2019.pdf). Please use the Glossary to understand the meaning of some of the terms used in this Notice.
 
 ## 1\. IMPORTANT INFORMATION AND WHO WE ARE
 
@@ -125,7 +125,7 @@ We use your personal information in various ways including for the following pur
 
 We may use your Identity, Contact, Technical, Usage and Profile Data to form a view on what we think our clients may want or need, or what may be of interest to our clients. This is how we decide which products, services and offers may be relevant for our clients (we call this marketing). You will receive marketing communications from us if you have requested information from us or signed up to receive a service from us and, in each case, you have not opted out of receiving that marketing.
 
-### _B. For individuals resident in the EEA_
+### _B. For individuals resident in the EEA or Individuals with SVB Cayman Island Funds_
 
 Most commonly, we will use your personal data in the following circumstances:
 
@@ -135,7 +135,7 @@ Most commonly, we will use your personal data in the following circumstances:
 
 
 
-See Glossary in Section 14 to find out more about the types of lawful basis that we will rely on to process your personal data.
+See Glossary in Section 15 to find out more about the types of lawful basis that we will rely on to process your personal data.
 
 Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you. You have the right to withdraw consent to marketing at any time by contacting us.
 
@@ -229,7 +229,7 @@ Please note that we may process your personal data without your knowledge or con
 
 We may have to share your personal data with the parties set out below for the purposes set out in Section 4 above and such sharing of your personal data may continue when you are a former customer:
 
-  * Internal third parties in the SVB Financial Group and who are based in the US, UK, Canada, Germany, Israel, China, Hong Kong, India and provide IT and system administration services.
+  * Internal third parties in the SVB Financial Group and who are based in the US, UK, Canada, Germany, Israel, China, Hong Kong, India or the Cayman Islands and provide IT and system administration services.
   * External Third Parties as set out in the Glossary.
   * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this Notice.
 
@@ -260,7 +260,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 ## 7\. DATA SECURITY
 
-We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. These may include encryption of data from pages where payments are made or other sensitive data is transmitted. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
+We have put in place appropriate reasonable security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. These may include encryption of data from pages where payments are made or other sensitive data is transmitted. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
 Keep in mind, however, that no security or encryption method can ensure complete protection from hackers or human error. We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
@@ -282,7 +282,7 @@ In some circumstances we may anonymise your personal data (so that it can no lon
 
 You can sign into your SVB online account to see personally identifiable information we have stored, such as your name, email, address or phone number and you can ask the administrator on your SVB online account to edit any information which is inaccurate or incomplete. If you have a right under California or other US State legislation to request access to the personal information we hold about you, you can contact us using the methods listed at the end of this Notice.
 
-## 10\. INDIVIDUALS RESIDENT IN THE EEA - YOUR LEGAL RIGHTS
+## 10\. INDIVIDUALS RESIDENT IN THE EEA OR INDIVIDUALS WITH INVESTMENTS IN SVB CAYMAN ISLAND FUNDS - YOUR LEGAL RIGHTS
 
 You have the right to:
 
@@ -299,6 +299,8 @@ Request restriction of processing of your personal data. This enables you to ask
 Request the transfer of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to residents of the EEA and only to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
 
 Withdraw consent to our processing of your personal data at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+ **DPO**
 
 We have appointed a data protection officer (DPO) for Silicon Valley Bank UK and German Branches who is responsible for overseeing questions in relation to this Notice. If you have any questions about this Notice, including any requests to exercise your legal rights under the General Data Protection Regulation, please contact the DPO using the details set out below. You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://ico.org.uk/)) or the relevant German federal data protection regulator. We would, however, appreciate the chance to deal with your concerns before you approach the ICO or German regulator (as relevant) so please contact us in the first instance.
 
@@ -334,7 +336,7 @@ London EC2A 1BR
   
 ## 11\. INDIVIDUALS IN CANADA - YOUR LEGAL RIGHTS
 
-You may withdraw your consent to our processing of your personal data at any time, subject to contractual and legal restrictions and reasonable notice. Note that if you withdraw your consent to certain types of processing, we may no longer be able to provide certain of our products or services. You may request access to, or correction of, your personal data in our custody or control, by writing to us as described in Section 13. Your right to access or correct your personal data is subject to applicable legal restrictions. We may take reasonable steps to verify your identity before granting access or making corrections.
+You may withdraw your consent to our processing of your personal data at any time, subject to contractual and legal restrictions and reasonable notice. Note that if you withdraw your consent to certain types of processing, we may no longer be able to provide certain of our products or services. You may request access to, or correction of, your personal data in our custody or control, by writing to us as described in Section 14. Your right to access or correct your personal data is subject to applicable legal restrictions. We may take reasonable steps to verify your identity before granting access or making corrections.
 
 ## 12\. YOUR LEGAL RIGHTS (FOR INDIVIDUALS RESIDENT IN CANADA AND THE EEA ONLY)
 
@@ -352,13 +354,26 @@ _Time limit to respond_
 
 We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-## 13\. CONTACT US
+## 13\. YOUR LEGAL RIGHTS WHERE YOUR PERSONAL DATA IS PROCESSED BY AN SVB CAYMAN ISLANDS FUND
+
+Where your personal data is processed by an SVB Cayman Fund or processed in the Cayman Islands in relation to your investment in a Cayman Islands Fund, you have the rights set forth in Section 10 above, as well as the rights herein. You have a right to know: 
+
+  * where the personal data came from;
+  * the recipients or classes of recipients of the personal data;
+  * any countries or territories outside the Islands to which the personal data is transferred;
+  * how the security and integrity of your personal data is maintained.
+
+
+
+You have the right to make a complaint to the Cayman Islands Office of the Ombudsman.
+
+## 14\. CONTACT US
 
 If you have any questions, concerns or complaints about our privacy notices, please contact us:
 
-**By email** : [privacy@svb.com](mailto:privacy@svb.com)
+**By email** : [privacyoffice@svb.com](mailto:privacyoffice@svb.com)
 
-**For U.S. and Canada Clients:**  
+**For U.S. Clients, Cayman Funds Clients and Canada Clients:**  
 
 **By phone** :   
 +1 (800) 774-7390 (U.S.)
@@ -388,7 +403,7 @@ EC2A 1BR
   
 ---|---|---  
   
-## 14\. GLOSSARY
+## 15\. GLOSSARY
 
 ### _A. LAWFUL BASIS (EEA Only)_
 
@@ -400,7 +415,7 @@ Comply with a legal or regulatory obligation means processing your personal data
 
 ### _B. EXTERNAL THIRD PARTIES_
 
-Service providers acting as processors including those based in the UK, Europe, Canada, India and the US who provide IT and system administration services.
+Service providers acting as processors including those based in the UK, Europe, Canada, India, Cayman Islands and the US who provide IT and system administration services.
 
   * Professional advisers acting as processors including lawyers, bankers, auditors and insurers who provide consultancy, banking, legal, insurance and accounting services.
   * Specialist data and research companies.
