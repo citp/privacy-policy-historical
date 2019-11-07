@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the asiancrush.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530184439id_/https%3A//www.asiancrush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiancrush.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107121044id_/https%3A//www.asiancrush.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | AsianCrush
+
+**Features of the use of steroids.**  Every modern person has to decide for himself how he sees his own body and what he wants to achieve with the help of balanced nutrition and training. Since many of us are maximalists, we are used to set high goals. These are the athletes who strive to do everything faster or more [buy anabolic steroids](http://liquidroids.com/ "buy anabolic steroids") efficiently than their rivals in the competition. It is impossible to achieve such a result without a comprehensive approach. In order not to have to regret not quite an impressive result, it is better to combine grueling exercises with taking special drugs that can improve their effectiveness.
+
+**Achieving a lofty goal.**  Today, anabolic steroids are a common type of pharmacology that athletes take. These drugs allow you to beat the competition and to install put before you. It is only necessary not to forget about the rules and doses of their use to minimize the risk of negative factors. High-quality sports pharmacology makes it possible to make the muscles more dense, as well as to increase the relief of the body.
+
+## Anabolic steroids
+
+The use of such drugs in the modern world is not a novelty. They have been known for several decades, so more than one generation of athletes was able to achieve excellent results through their use. A bodybuilder just needs to know where to buy steroids. Such products are offered by many companies today, but only some of them can guarantee really high quality of the presented products. Correct dosage of these drugs will help at all to eliminate the side effects. If you need a first-class sports pharmacology, feel free to contact us and get the opportunity to purchase such substances. With their help, the body will be maintained in perfect condition without harm.
+
+**Variety of drugs.**  The use of special means allows athletes to achieve important goals. Some athletes decide to buy steroids in order to increase muscle mass. Another use of drugs allows you to get rid of fatty tissues that interfere with the creation of a beautiful figure. To increase the weight, you should use:
 
 ## Privacy Policy
 
