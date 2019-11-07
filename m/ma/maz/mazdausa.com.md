@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazdausa.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428131137id_/https%3A//www.mazdausa.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazdausa.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107013806id_/https%3A//www.mazdausa.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mazda USA
 
