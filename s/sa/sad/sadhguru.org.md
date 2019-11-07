@@ -1,24 +1,28 @@
-> *The following text is extracted and transformed from the sadhguru.org privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521025357id_/http%3A//www.ishafoundation.org/Copyright.isa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadhguru.org privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108002201id_/https%3A//isha.sadhguru.org/in/en/privacy) for the most accurate reproduction.*
 
-# Copyright & Privacy Policy | News
+# Legal Terms & Conditions | Isha Sadhguru
 
-**Copyright Information and Privacy Policy (updated 05/02/10)**
+**(updated 1st April 2017)**
 
-This is the website of Isha Foundation. Our postal address is: 
+This website is registered and maintained by Isha Foundation, Inc USA
 
-**India:**  
+Our postal address is:
+
+#### United States:
+
+Isha Foundation, Inc.  
+951 Isha Lane,  
+McMinnville, TN 37110 USA
+
+Email us at [info@ishafoundation.org](mailto:info@ishafoundation.org)  
+Telephone us at 866-424-ISHA,  
+or at the numbers provided on our Contact Us page.
+
+#### India:
+
 Isha Foundation  
 15, Govindasamy Naidu Layout, Singanallur  
 Coimbatore - 641 005, INDIA
-
-**United States:**  
-Isha Foundation, Inc.   
-951 Isha Lane,   
-McMinnville, TN 37110 USA
-
-Email us at [info@ishafoundation.org](mailto:info@ishafoundation.org). 
-
-Telephone us at 866-424-ISHA, or at the numbers provided on our [Contact Us](http://www.ishafoundation.org/ContactUs) page.
 
 **Copyright Information**
 
@@ -44,18 +48,8 @@ We use cookies to store visitors' preferences, to record activity at the website
 
 If you do not want to receive email from us, let us know by writing to us at the above email address. Please specify NO EMAIL in your email subject.
 
-**On-line Communications:** If you provide us with your postal address on-line, you will receive only the information that you specify. If you provide your telephone number on-line, you will receive telephone contact only regarding orders you have placed (or registrations) on-line. 
+On-line Communications: If you provide us with your postal address on-line, you will receive only the information that you specify. If you provide your telephone number on-line, you will receive telephone contact only regarding orders you have placed (or registrations) on-line.
 
 Isha Foundation reserves the right to change our policy regarding how visitor information is used. If our information usage policy changes, the changes will be posted here. We will use for the new purposes only data collected after the policy change. If you are concerned about how your information will be used, check this privacy policy for changes when you visit our website.
 
 Upon written request, we will provide you with the information (e.g., name, address, phone number) that we maintain about you. Consumers can request this information by writing to the email address or postal address provided above.
-
-**Security:**
-
-When we request certain types of sensitive information, such as health or financial information, they will be performed using a secure server. Other transactions regarding sensitive information will also be performed using a secure server. 
-
-If you feel that this website is not following this privacy policy, you may contact us at the addresses or telephone numbers provided above.
-
-**Refund policy for online donations & magazine subscriptions:**
-
-Donations and Subscriptions made online will not be refunded under any circumstances whatsoever.
