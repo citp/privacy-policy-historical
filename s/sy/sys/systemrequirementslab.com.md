@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the systemrequirementslab.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612051031id_/https%3A//www.systemrequirementslab.com/Marketing/PrivacyN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the systemrequirementslab.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107042106id_/https%3A//www.systemrequirementslab.com/Marketing/PrivacyN.html) for the most accurate reproduction.*
 
 # System Requirements Lab Privacy Policy
 
@@ -171,7 +171,9 @@ Privacy policy
 
 11.4        We use Avocet, OpenX, PulsePoint, Sovrn and Google Audiences to carry out retargeting and Header Bidding. These service uses cookies for retargeting ads and targeting ads based on your interests. You can view the privacy policy of these service providers at [http://avocet.io/privacy-policy](https://www.google.com/url?q=http://avocet.io/privacy-policy&sa=D&ust=1527193553693000), [https://www.openx.com/legal/privacy-policy/](https://www.google.com/url?q=https://www.openx.com/legal/privacy-policy/&sa=D&ust=1527193553693000), [https://www.pulsepoint.com/privacy-policy.html](https://www.google.com/url?q=https://www.pulsepoint.com/privacy-policy.html&sa=D&ust=1527193553694000), [https://www.sovrn.com/privacy-policy/](https://www.google.com/url?q=https://www.sovrn.com/privacy-policy/&sa=D&ust=1527193553694000) and [https://www.google.com/policies/privacy/](https://www.google.com/url?q=https://www.google.com/policies/privacy/&sa=D&ust=1527193553694000)
 
-12.        Managing cookies
+11.5        We use third party advertisements to support our site. Some of these advertisers may be served from our third party advertiser, you can view their [privacy policy](https://www.network-n.com/network-privacy-policy/) and cookie [policy](https://www.network-n.com/network-cookie-policy/) here. You can manage your cookies here We use Google Analytics and Comscore to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: <https://www.google.com/policies/privacy/>. Comscore's privacy policy is available at <https://www.comscore.com/About-comScore/Privacy-Policy>.
+
+12.        Managing cookies    Manage Cookie Settings
 
 12.1        Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
