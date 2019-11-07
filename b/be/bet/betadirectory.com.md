@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betadirectory.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627091233id_/https%3A//www.contrib.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betadirectory.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107030833id_/https%3A//www.contrib.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Contrib.com
 
