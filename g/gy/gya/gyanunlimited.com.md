@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gyanunlimited.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403004002id_/http%3A//www.gyanunlimited.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyanunlimited.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107030608id_/https%3A//www.gyanunlimited.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-_[Contact Us Form](http://www.gyanunlimited.com/contact-us/)_
+_[Contact Us Form](https://www.gyanunlimited.com/contact-us/)_
 
 You can also mail us at:  [ **info@gyanunlimited.com**](mailto:info@gyanunlimited.com)
 
