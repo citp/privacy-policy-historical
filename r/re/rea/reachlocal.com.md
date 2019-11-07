@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachlocal.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306230041id_/https%3A//www.reachlocal.com/us/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachlocal.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108000351id_/https%3A//www.reachlocal.com/us/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReachLocal
 
