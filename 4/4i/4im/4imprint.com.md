@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510031358id_/https%3A//www.4imprint.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4imprint.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107212900id_/https%3A//www.4imprint.com/info/privacy) for the most accurate reproduction.*
 
 # 4imprint Privacy Policy
 
