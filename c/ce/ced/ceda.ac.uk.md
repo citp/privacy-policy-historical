@@ -1,114 +1,68 @@
-> *The following text is extracted and transformed from the ceda.ac.uk privacy policy that was archived on 2018-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180430063846id_/http%3A//www.ceda.ac.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceda.ac.uk privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107192013id_/https%3A//help.ceda.ac.uk/article/4639-privacy-and-cookies) for the most accurate reproduction.*
 
-# Privacy and Cookies | Centre for Environmental Data Analysis
+# Privacy and Cookies - Centre for Environmental Analysis (CEDA) Help Docs Site
 
-CEDA may collect personal information from you via this website, for example, if you register with us for data and services, in order to receive news and announcements, and your information may be stored manually or electronically.
+Centre for Environmental Data Analysis (CEDA) and Data Protection
 
-Any personal information you give to us will always be processed in accordance with the UK Data Protection Act 1998. We will only use the personal information you provide to deliver the services you have requested, or for our lawful, disclosed purposes. In some cases this will involve sharing your details with others outside CEDA's host organisation, STFC, for example to gain third-party approval for your access to particular data and services. We will not make your personal details available outside our organisation without your consent, unless obliged by law.
+At STFC (being a Council under, and part of, United Kingdom Research and Innovation), we intend to make sure that we maintain the UK as a world-leader in science and technology research - integral to this is our commitment to protecting and safeguarding your data privacy.
 
-This website will automatically track certain information about you in the course of you using this website, such as your IP address and browser identification, and your userid for login purposes. This information is used only for correct operation of interactive tools hosted by CEDA, for system administration and for providing statistics to evaluate use of this and/or other sites run by CEDA. We do not use cookies for collecting personal information. (A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer`s hard drive.)
+It is part of STFC’s public purpose to provide services such as the CEDA Archive and services and JASMIN Services, including the JASMIN Cloud service. In order to effectively provide that service to you, we need to collect information about you and may need to contact you from time to time with regards to its provision.
 
-Questions regarding this Privacy Policy should be addressed in writing to:
+However, you must not sign up for a CEDA User or JASMIN User account if you are under the age of 18. If you are under the age of 18 you must get someone with parental responsibility to open and manage an account on your behalf.
 
-The Data Protection Officer  
-Science and Technology Facilities Council  
-Polaris House  
-Swindon, UK  
-SN2 1SZ
+STFC considers it to be in its legitimate interest that it should be able to efficiently manage the CEDA and JASMIN services for the benefit of anyone who has signed up to access them. STFC therefore requests and securely holds the data which it requires for these purposes. Please ensure that, for so long as you are accessing these service, the information that you have provided to us is kept up to date via the CEDA and JASMIN user accounts or that you notify us if your information needs to be updated by [contacting us](http://www.ceda.ac.uk/contact/).
+
+We may share your details with others outside CEDA's host organisation, STFC, to aid in the provision of data and services; for example: to gain third-party approval for your access to particular data and services; for external assistance in resolving user issues/answering enquiries.
+
+####  UKRI and Data Protection
+
+UKRI and STFC comply with the requirements of the GDPR with regard to the collection, storage, processing and disclosure of personal information and we are committed to upholding the GDPR's core data protection principles.
+
+A full notice of UKRI’s position with regards to Freedom of Information and the General Data Protection Regulations (GDPR) (EU) (2016/679) can be found at:
+
+        <https://www.ukri.org/privacy-notice/>
+
+        <https://www.ukri.org/cookie-policy/>
+
+        <https://www.ukri.org/terms-of-use/>
+
+        <https://www.ukri.org/freedom-of-information/>
 
 ## Cookies
 
-When we provide services, we want to make them easy, useful and reliable. This sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
-
-These pieces of information are used to improve services for you through, for example:
-
-  * enabling a service to recognise your device so you don`t have to give the same information during one task,
-  * recognising that you have already given a username and password so you don`t need to enter it for every web page requested,
-  * measuring how many people are using services, so they can be made easier to use and that there is enough capacity to ensure they are fast.
-
-
-
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue "session cookies" cookies when you visit our site. If you refuse to accept cookies, please be aware that some functionality will not perform as intended.
-
-For more information on cookies, and how to delete and control them visit [AboutCookies.org](http://www.aboutcookies.org/ "AboutCookies.org \(link opens in a new window\)") or [AllAboutCookies.org](http://www.allaboutcookies.org/ "AllAboutCookies.org \(link opens in a new window\)").
+As is common practice with websites, CEDA and JASMIN websites may place small files known as “cookies” on your device (e.g. computer or smartphone) in order to improve your user experience.
 
 ### Our use of cookies
 
-The list below shows all of the cookies that are set by the Centre for Environmental Data Analysis and the third-party services we use.
+CEDA and JASMIN websites themselves set ‘first-party’ cookies in order to identify you as you travel around the sites. This enables us to provide services that are tailored to your account, such as applying for access to a resource. These cookies will usually be deleted when you log out, however in some cases they may remain afterwards to remember your site preferences.
 
-#### Cookies for managing your current visit
+CEDA and JASMIN sites may also make use of ‘third-party’ cookies from the following services:
 
-These are cookies set by the CEDA website (known as 'first-party' cookies). They are used to remember the selections or preferences that you’ve made when looking at the information on this site.
-
-##### cookielaw_accepted
-
-  * **Purpose** : This cookie tells us that you have read our cookie usage message and have chosen not to see it again.
-  * **Benefit** : You will not see the cookie usage message, having elected not to do so.
-  * **Data stored by cookie** : Nothing; the presence of the cookie is sufficient for its purpose. The cookie itself contains no personal information.
-  * **Duration of cookie** : Expires 12 months after you elected not to see the cookie message.
+  * Google Analytics
+  * Google Maps
+  * YouTube (owned by Google)
+  * Help Scout
 
 
 
-#### Cookies for measuring website usage
+We use these services to monitor the usage of our websites in order to continue to improve the services we offer, and to provide effective user support. For more information about cookies set by Google services, see the [Google Cookie Policy](https://www.google.com/policies/technologies/cookies/), and for Help Scout services see the [Help Scout Privacy Policy](https://www.helpscout.net/company/legal/privacy/).
 
-We use Google Analytics to collect information about how people use this site. We do this to make sure it’s meeting its users’ needs and to understand how we could do it better.
+### Disabling cookies
 
-Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This is to ensure that the website is available when you want it and to help us understand what you want to use.
-
-For further details on the cookies set by Google Analytics, please refer to the [Google Code](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet "Google Code \(link opens in a new window\)") website
-
-##### Google Analytics cookies: _utma, _utmb, _utmc, _utmz
-
-  * **Purpose** : To record how many people are using the STFC website and how they move around the site once they've arrived: 
-    * _utma tracks how many times (if any) you have visited the STFC website before.
-    * _utmb and _utmc are connected, and track how long you stay on the site.
-    * _utmz tracks identifies where you've come from e.g. from a search engine or from another website.
-  * **Benefit** : So service is available when you want it and fast, we measure numbers and volumes of visitors.
-  * **Data stored by cookies** : No personal information about you, just information about your computer and your browser.
-  * **Duration of cookies** : 
-    * _utma: Expires 2 years after your last visit to this site.
-    * _utmb: Expires 30 minutes after your visit, or after 30 minutes of inactivity.
-    * _utmc: Expires when you close your browser.
-    * _utmz: Expires 6 months after it was last set.
-
-
-
-#### Cookies set by other websites through this site
-
-We want to provide interesting and engaging content on our website. On a number of pages we use Google maps and we embed YouTube videos in some pages.
-
-The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content. These are known as 'third-party' cookies.
-
-##### Google Maps: NID
-
-  * **Purpose** : Enables traffic analysis to Google Maps.
-  * **Benefit** : When we provide links to third party services you find useful, they may place a cookie on your device to make their service easier to use. [Google's privacy policy](http://www.google.co.uk/intl/en/policies/privacy/ "Google's privacy policy \(link opens in a new window\)").
-  * **Data stored by the cookie** : A unique identifier; data only used in aggregate.
-  * **Duration of cookie** : Expires after 183 days.
-
-
-
-##### YouTube cookie: VISITOR_INFO1_LIVE
-
-  * **Purpose** : To track visitor views of [YouTube](http://www.youtube.com/ "YouTube \(link opens in a new window\)") videos embedded in BIS web pages.
-  * **Benefit** : When we provide links to third party services you find useful, they may place a cookie on your device to make their service easier to use. YouTube is owned by Google: [Google's privacy policy](http://www.google.co.uk/intl/en/policies/privacy/ "Google's privacy policy \(link opens in a new window\)").
-  * **Data stored by cookie** : Unique identifier, no personal information (data is only used in aggregate).
-  * **Duration of cookie** : Expires after 241 days.
-
-
-
-## How to control and delete cookies
-
-**We will not use cookies to collect personally identifiable information about you**.
+CEDA and JASMIN websites will not use cookies to collect personally identifiable information about you.
 
 However, if you wish to restrict or block the cookies which are set by our websites, or indeed any other website, you can do this through your browser settings. The ‘Help’ function within your browser should tell you how.
 
-Alternatively, you may wish to visit the [About Cookies](http://www.aboutcookies.org/ "About Cookies \(link opens in a new window\)") website, which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
+Alternatively, you may wish to visit the [About Cookies](https://www.aboutcookies.org/) website, which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your machine as well as more general information about cookies.
 
-**Please be aware that restricting cookies may have an impact upon the functionality of our website**.
+Please be aware that restricting cookies may have an impact upon the functionality of CEDA and JASMIN websites.
 
-If you wish to view your cookie code, just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
+### Questions
 
-For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+If you have any questions about this policy, please [contact us](http://www.jasmin.ac.uk/contact/).
 
-To opt-out of third-parties collecting any data regarding your interaction on our website, please refer to their websites for further information.
+Current version: 1
+
+Published on: 23 May 2018
+
+Last revision: 23 May 2018
