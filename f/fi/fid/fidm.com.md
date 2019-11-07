@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621074603id_/http%3A//fidm.edu/en/about/policies%2Bdisclosures/privacy%2Blegal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107205851id_/http%3A//fidm.edu/en/about/policies%2Bdisclosures/privacy%2Blegal) for the most accurate reproduction.*
 
-# Privacy Statement & Legal Notices | Privacy Statement & Legal Notices | FIDM.edu
+# Privacy Statement & Legal Notices | About | FIDM.edu
 
 At some sites, FIDM collects personal information, such as your email address, name, home or work address, or telephone number. There is also statistical information about your computer hardware and software that is automatically collected by FIDM and may be shared with other websites within the FIDM family of websites. This information may include: your IP address, which is a number used by computers on the network to identify your computer so that data can be transmitted to you, your browser type, domain names, the time you accessed our website, and referring website addresses. This information is used by FIDM for the operation of the website service, to maintain quality of the website service, and to provide general statistics regarding the use of FIDM websites.
 
