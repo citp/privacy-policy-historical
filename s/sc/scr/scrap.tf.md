@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrap.tf privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517013647id_/https%3A//scrap.tf/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrap.tf privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107013322id_/https%3A//scrap.tf/privacy) for the most accurate reproduction.*
 
 # Scrap.TF
 
@@ -195,7 +195,7 @@ We use Google Analytics and Comscore to analyse the use of our website. Google A
 
 ### Advertising
 
-We use third party advertisements to support our site. Some of these advertisers may be served from our third party advertiser, you can view their [privacy policy](https://www.network-n.com/network-privacy-policy/) and [cookie policy](https://www.network-n.com/network-cookie-policy/) here. 
+We use third party advertisements to support our site. Some of these advertisers may be served from our third party advertiser, you can view their [privacy policy](https://www.network-n.com/network-privacy-policy/) and [cookie policy](https://www.network-n.com/network-cookie-policy/) here. You can manage your cookies here 
 
 ### Payments
 
