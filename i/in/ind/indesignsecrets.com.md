@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indesignsecrets.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313142716id_/https%3A//indesignsecrets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indesignsecrets.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107210136id_/https%3A//indesignsecrets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - InDesignSecrets : InDesignSecrets
 
