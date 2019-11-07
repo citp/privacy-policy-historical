@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trulytokyo.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610162132id_/https%3A//trulytokyo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trulytokyo.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107205422id_/https%3A//trulytokyo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
