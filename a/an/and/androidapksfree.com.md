@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the androidapksfree.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401044839id_/https%3A//androidapksfree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidapksfree.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107211003id_/https%3A//androidapksfree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AndroidAPKsFree
 
-At www.androidapksfree.com (“androidapksfree”, “website”, “we” or “us”), the privacy of our users is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used.
+At androidapksfree.com (“androidapksfree”, “website”, “we” or “us”), the privacy of our users is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used.
 
 ## What personal data we collect and why we collect it
 
@@ -74,6 +74,10 @@ If you have an account on this site, or have left comments, you can request to r
 ## Where we send your data
 
 Visitor comments may be checked through an automated spam detection service.
+
+## Terms of Service
+
+You agree to our [terms and conditions](https://androidapksfree.com/terms/) by using our service.
 
 ## Contact information
 
