@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetruthaboutguns.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409175124id_/https%3A//www.thetruthaboutguns.com/ttag-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutguns.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108001416id_/https%3A//www.thetruthaboutguns.com/ttag-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Truth About Guns
 
-_Effective Date: This policy was last updated on 05/22/2018_
+_Effective Date: This policy was last updated on 01/25/2019_
 
 ## **Overview**
 
@@ -76,7 +76,7 @@ This type of information is collected anonymously by approved third-party partne
 
 ## **What Is Done With The Collected Information?**
 
-Site Content: The Truth About Guns partners with Zeta Global to provide you with content that is relevant and personalized to your reading interests. You can read[ Zeta Global’s privacy policy here](https://zetaglobal.com/privacy-policy/).
+Site Content: The Truth About Guns partners with GetResponse to provide you with content that is relevant and personalized to your reading interests. You can read[ GetResponse’s privacy policy here](https://www.getresponse.com/legal/privacy-us).
 
 Email Communications: The Truth About Guns may use the information that you submit to send you email communications, such as newsletters, breaking news, information about the site, alerts, and promotional messages from advertising partners.
 
@@ -112,9 +112,9 @@ The Truth About Guns utilizes common social media sharing and commenting feature
 
 The Truth About Guns does not allow any third-party company to use your email address for commercial purposes without your express permission. We will send you newsletter communications, partner sponsorship messages, account alerts, and any other emails you have requested to receive. If you would like to opt out of any specific newsletters or mailings, please email us at info@thetruthaboutguns.com to change your newsletter settings or use the unsubscribe feature within the newsletter.
 
-Additional details and privacy policy notice with contact information for Zeta Global can be found below:
+Additional details and privacy policy notice with contact information for GetResponse can be found below:
 
-[Zeta Global Privacy Policy](https://zetaglobal.com/privacy-policy/)
+[GetResponse Privacy Policy](https://www.getresponse.com/legal/privacy-us)
 
 ## **Cookies**
 
