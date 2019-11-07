@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistedvoxel.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331122924id_/https%3A//twistedvoxel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistedvoxel.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107051659id_/https%3A//twistedvoxel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TwistedVoxel
 
