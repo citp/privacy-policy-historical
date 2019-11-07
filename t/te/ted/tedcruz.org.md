@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tedcruz.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229013557id_/https%3A//www.tedcruz.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedcruz.org privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107012109id_/https%3A//www.tedcruz.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ted Cruz for Senate : Ted Cruz for Senate
+
+### Sign up today to make a difference.
 
 **LAST REVISED: August 14, 2017  
 **  
