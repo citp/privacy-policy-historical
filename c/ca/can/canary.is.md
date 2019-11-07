@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the canary.is privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208030049id_/https%3A//canary.is/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canary.is privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107155020id_/https%3A//canary.is/legal/privacy-policy) for the most accurate reproduction.*
 
 # Canary Privacy Policy | Canary
 
-#### Canary Privacy Policy
-
- _Effective Date: May 25, 2018_
+_Effective Date: May 25, 2018_
 
   1. Accepting the Privacy Policy
   2. Information Canary Collects
@@ -20,15 +18,15 @@
 
 
 
-###### 1\. Accepting the Privacy Policy 
+### 1\. Accepting the Privacy Policy
 
-Our mission at Canary is to build products that empower people to live fearless lives and make decisions about their safety and security. We believe that providing transparency around the data and personal information you entrust to us is critical to complete that mission. Your privacy and trust are our utmost concern. This privacy policy ("Privacy Policy") describes how we collect and use personal and other information through our home security device, mobile applications, and web applications (our "Products" or "Services") and from visitors to our website [https://canary.is](https://web.archive.org/) (the "Site"). This Policy describes the choices available to you regarding our use of your personal information, how we share your information, and how you can access and update your information. 
+Our mission at Canary is to build products that empower people to live fearless lives and make decisions about their safety and security. We believe that providing transparency around the data and personal information you entrust to us is critical to complete that mission. Your privacy and trust are our utmost concern. This privacy policy ("Privacy Policy") describes how we collect and use personal and other information through our home security device, mobile applications, and web applications (our "Products" or "Services") and from visitors to our website [https://canary.is](https://web.archive.org/) (the "Site"). This Policy describes the choices available to you regarding our use of your personal information, how we share your information, and how you can access and update your information.
 
 If you are a resident of the US or Canada, these terms are an agreement between you and Canary Connect, Inc. Otherwise, these terms are an agreement between you and Canary Technology Europe, Limited. In these terms, references to "Canary" "us", "we" and "our" mean either Canary Connect, Inc. or Canary Technology Europe Limited, as appropriate.
 
 By visiting the Site or using our Products you agree that your personal information will be handled as described in this Policy. Any additional terms, conditions, or policies referenced or available by hyperlink at [https://www.canary.is/legal](https://web.archive.org/legal/) are incorporated by reference into this Policy.
 
-###### 2\. Information Canary Collects
+### 2\. Information Canary Collects
 
 We collect the following personal and device information when visiting our Site or using our Product:
 
@@ -50,7 +48,7 @@ We collect the following personal and device information when visiting our Site 
 
 
 
-###### 3\. How Canary Uses Your Information
+### 3\. How Canary Uses Your Information
 
 We collect the information identified above and use it for the following purposes:
 
@@ -76,7 +74,7 @@ You may configure your Canary device from within the mobile application to captu
 
 You may enable privacy mode or disable recording from within the app menu to prevent the recording of video and audio through the device. In privacy mode, the watch live video feature and event notifications are disabled and the camera and microphone are turned off. Your device will continue to monitor environmental activity in privacy mode so we may provide you with aggregated HomeHealth information. LED lights on the bottom of the device will be turned off to indicate the device is in privacy mode.
 
-###### 5\. How Canary Shares Your Information
+### 5\. How Canary Shares Your Information
 
 We will share certain categories of your information with third parties only in certain circumstances as described below:
 
@@ -93,40 +91,40 @@ Specifically, we may share this information as follows:
 
 
 
-###### Anonymized Information
+### Anonymized Information
 
 We may share your aggregated and de-identified information, which is anonymized and does not identify you. We may use this information in a variety of ways, including to publish trends about energy use or home security, and to generally improve our offerings. We may also share this anonymized information with third parties for marketing, advertising, research, or similar purposes.
 
-###### Information We Share With Your Consent
+### Information We Share With Your Consent
 
 We may share personally identifiable information with third parties provided we receive your consent to share that information. For example, you may opt to share certain information so it can be posted on your social media accounts like Facebook or Twitter, you may link your Canary account with another app or Service, or you may opt into providing information to Canary’s business partners to receive special offers. Information will never be shared for these purposes without your consent. We never share your audio or video information with any third party for business or marketing purposes.
 
-###### Information Obtained from Third Parties
+### Information Obtained from Third Parties
 
 If you provide personal information about others or if others provide us your information, we will only use that information for the specific reason for which it was provided to us.
 
-###### 6\. Controlling Your Information
+### 6\. Controlling Your Information
 
 You have the ability to view, change, or correct your personal information through your settings within the Canary app.
 
 We will retain your information for as long as your account is active or as needed to provide services to you. If you wish to cancel your account or request that we no longer use your information to provide services to you, contact us at [support@canary.is](mailto:support@canary.is). We also retain log files for internal analysis purposes. These log files are generally retained for a brief period of time, except in cases where they are used for site safety and security, to improve site functionality, or we are legally obligated to retain them for longer time periods.
 
-###### 7\. Marketing, Advertising, and Analytics
+### 7\. Marketing, Advertising, and Analytics
 
  **Cookies, Tracking and Ads**   
 We may automatically collect information about your use of our Site or Services through cookies, web beacons, and other technologies, such as your domain name; your browser type and operating system; web pages you visit; links you click; your IP address; the length of time you visit our Site and or use our services; and the referring URL, or the webpage that led you to our Site.
 
 We may use technologies to understand how many household members access your Canary device(s) at your location or access features within the app. We use this aggregated information to understand and optimize how Canary devices and the app are used and to provide content and features that are of interest to you. Please refer to our Ads & Cookie Statement for more information about your choices around cookies and related technologies and third party advertising.
 
-###### 8\. Email & SMS Communications 
+### 8\. Email & SMS Communications
 
-You may choose to submit your email address through a submission form located on our Site to sign up for communications from Canary. You may also provide your mobile phone number to Canary in connection with account registration or otherwise. The email address and mobile phone number associated with your account may also be used, in accordance with applicable law, to send you news about Canary, such as new features or marketing promotions, account updates, promotional offers, and information regarding Membership and other premium services. We may use one or more service providers to administer these messages. Canary does not share your email address or phone number with spammers or any other non-affiliated third parties for their own marketing purposes without your permission. You may opt out of receiving newsletter or marketing communications from us by following the unsubscribe instructions or by contacting us at [support@canary.is](mailto:support@canary.is).
+You may choose to submit your email address through a submission form located on our Site to sign up for communications from Canary. You may also provide your mobile phone number to Canary in connection with account registration or otherwise. The email address and mobile phone number associated with your account may also be used, in accordance with applicable law, to send you news about Canary, such as new features or marketing promotions, account updates, promotional offers, and information regarding Membership and other premium services. We may use one or more service providers to administer these messages. Canary does not share your email address or phone number with spammers or any other non-affiliated third parties for their own marketing purposes without your permission. You may opt out of receiving newsletter or marketing communications from us by following the unsubscribe instructions or by contacting us at support@canary.is.
 
-###### 9\. Security of Your Information
+### 9\. Security of Your Information
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the information transmitted to us, both during transmission and upon receipt. No method of transmission or electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about the security of our Products can contact us at [support@canary.is](mailto:support@canary.is).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the information transmitted to us, both during transmission and upon receipt. No method of transmission or electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about the security of our Products can contact us at support@canary.is.
 
-###### 10\. Other Rights & Important Notices
+### 10\. Other Rights & Important Notices
 
  **Children**   
 Our Site and Products do not knowingly collect or store any personal information about children under the age of 16.
@@ -143,12 +141,12 @@ We process personal data as necessary to pursue our legitimate interest of provi
 California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Canary does not share your personally identifiable information with third parties for the third parties’ direct marketing purposes unless you provide us with consent to do so.
 
  **Do Not Track**   
-Canary does not support Do Not Track at this time. Do Not Track is a privacy preference that you can set in your web browser to indicate that you do not want certain information about your webpage visits collected across websites when you have not interacted with that service on the page. For all the details, including how to turn on Do Not Track, visit [www.donottrack.us](http://www.donottrack.us/).
+Canary does not support Do Not Track at this time. Do Not Track is a privacy preference that you can set in your web browser to indicate that you do not want certain information about your webpage visits collected across websites when you have not interacted with that service on the page. For all the details, including how to turn on Do Not Track, visit [www.eff.org/issues/do-not-track](https://www.eff.org/issues/do-not-track).
 
  **Notification of Privacy Policy Changes**   
 We may update this privacy statement to reflect changes to our information practices or changes to our services. If we make any material changes, we will notify you by email (sent to the email address specified in your account), through a push-notification, or by means of a notice in the app prior to the change becoming effective. We encourage you to periodically review this statement for the latest information on our privacy practices.
 
-###### 11\. Contact Us
+### 11\. Contact Us
 
 If you have any questions about this Privacy Policy, you may contact us at [legal@canary.is](mailto:legal@canary.is) or by mail to:
 
@@ -161,5 +159,9 @@ New York, NY, 10038
 If you do not reside in the US or Canada:
 
 Canary Technology Europe, Limited   
-Digital Depot, Roe Lane   
-Dublin 8, Ireland
+Pembroke House   
+28-32 Pembroke Street Upper   
+Dublin   
+D02 EK84   
+Ireland   
+
