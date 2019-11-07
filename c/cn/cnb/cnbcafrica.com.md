@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnbcafrica.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630213249id_/https%3A//www.cnbcafrica.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbcafrica.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108001714id_/https%3A//www.cnbcafrica.com/privacy-policy-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - CNBC Africa
 
