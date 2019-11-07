@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628083145id_/https%3A//www.youthcentral.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youthcentral.vic.gov.au privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107094713id_/https%3A//www.youthcentral.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Youth Central
 
@@ -62,7 +62,7 @@ Youth Central's social media channels will be monitored during standard business
 
 Department of Health & Human Services  
 Youth Central  
- **Email:** [youthcentral@dhhs.vic.gov.au](mailto:youthcentral@dhhs.vic.gov.au)  
+ **Email:** [youthcentral@dpc.vic.gov.au](mailto:youthcentral@dpc.vic.gov.au)  
  **Postal Address:** GPO BOX 4057, MELBOURNE, VIC 3001  
  **Street Address:** 50 Lonsdale Street, MELBOURNE, VIC 3000  
  **Tel:** 1300 650 172
