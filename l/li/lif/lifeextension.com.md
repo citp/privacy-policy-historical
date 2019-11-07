@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lifeextension.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407141938id_/https%3A//www.lifeextension.com/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeextension.com privacy policy that was archived on 2019-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191107044958id_/https%3A//www.lifeextension.com/Legal/Privacy-Notice) for the most accurate reproduction.*
 
-# Privacy Notice | Life Extension
+# Legal | Privacy Notice - Life Extension
 
 REVISION Date: February 27, 2019
 
