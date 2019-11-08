@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schlage.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301081754id_/https%3A//www.schlage.com/en/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schlage.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108213252id_/http%3A//www.schlage.com/en/home/privacy.html) for the most accurate reproduction.*
 
 # English - Allegion
 
