@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevpnsdownload.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607154752id_/http%3A//www.freevpnsdownload.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevpnsdownload.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108064724id_/http%3A//www.freevpnsdownload.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Vpn Download
 
