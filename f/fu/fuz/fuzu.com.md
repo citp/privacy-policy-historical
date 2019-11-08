@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuzu.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504105056id_/https%3A//www.fuzu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzu.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108082837id_/https%3A//www.fuzu.com/privacy-policy) for the most accurate reproduction.*
 
 # Read our Privacy Policy | Fuzu
 
@@ -145,7 +145,7 @@ You may exercise your rights by contacting us or by managing your account and ch
 
 ### Who is the controller of your personal data?
 
-FUZU Ltd (corporate ID 2546225-2), Siltavuorenpenger 7, 00170 Helsinki, Finland is the controller of your personal data.
+FUZU Ltd (corporate ID 2546225-2), Lapinlahdenkatu 16, 00180 Helsinki, Finland is the controller of your personal data.
 
 In addition, the FUZU affiliate providing the product or service may be a controller of your personal data. You may find the identity of the controller and its contact details by reviewing the terms and conditions of such a product or service or by using contact information provided in the applicable FUZU websites.
 
