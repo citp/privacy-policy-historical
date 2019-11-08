@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517081048id_/https%3A//www.gaiam.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiam.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108120337id_/https%3A//www.gaiam.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gaiam
 
