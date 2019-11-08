@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526125722id_/https%3A//www.bunnings.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bunnings.com.au privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108042857id_/https%3A//www.bunnings.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bunnings Warehouse
 
@@ -112,33 +112,35 @@
 
 11.  You have the option of dealing with Bunnings anonymously or by using a pseudonym.However, if you deal with us in this manner, we may not be able to provide all of our products and services to you or interact with you in other ways set out in this policy.For example, we will not be able to deliver products to you if you do not provide us with address details for the delivery. 
 
-**Marketing and advertising** _ ****_
+**Marketing, advertising and customer insights  **
 
 12\. As part of Bunnings’ functions and business activities and to promote the services we can provide to you, Bunnings may use and disclose to third parties personal information that you have provided to us for the purposes of advertising (including online behavioural advertising) and direct marketing. We may engage third parties to assist us in ensuring that the marketing and advertising we provide is of interest to you. Direct marketing includes, but is not limited to, Bunnings or third parties sending to you and/or contacting you directly in relation to promotions and information about Bunnings’ products and services. Generally, we will provide direct marketing to you where you have requested or consented to receiving such information. You can opt out of receiving direct marketing communications by using the opt out link or details provided in the direct marketing communication or sending an email to Bunnings’ Privacy Officer at [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au).
 
 13\. The th[ __](https://web.archive.org/EditorPage.aspx?da=core&id=%7BE9EBDA5F-988B-4283-B0E3-A8B693E9436E%7D&ed=FIELD2582845278&vs&la=en&fld=%7BF82D41DA-B4EE-419C-B881-B9EE714CF59F%7D&so=%2Fsitecore%2Fsystem%2FSettings%2FHtml%20Editor%20Profiles%2FRich%20Text%20Medium&di=0&hdl=H2582845411&mo&pe=0&fbd=1# "Italic")ird parties we engage to assist us in marketing and advertising may use cookies (that is, small data files transferred onto devices when a website is accessed) and other technologies to obtain information about your preferences when you access online platforms or websites other than the Bunnings’ website. Your preferences collected in this manner may be disclosed to us.
 
+14\. We may collect, use or disclose information about you in order to combine the information that we hold about you with information about you collected from or held by other trusted partners or from public sources. We may do this to enable us to derive insights about you. This includes being able to better understand your preferences and interests, personalise your experience, enhance the products and services you receive, and to tell you about products and services that may be of interest to you. We may also use trusted service providers to undertake the process of creating these consumer insights. If you don't want us to develop and use these insights about you, please contact us at [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au). 
+
 ****Security and storage****
 
-14\. Bunnings will take reasonable steps to protect the security of your personal information that we hold, including both paper and electronic records.We have security measures in place to attempt to reasonably protect personal information under our control from misuse, interference, loss, unauthorised access, modification or disclosure.For example, Bunnings seeks to ensure that personal information in paper form is held securely and personal information held electronically by or for Bunnings is held on secured servers in controlled facilities.
+15\. Bunnings will take reasonable steps to protect the security of your personal information that we hold, including both paper and electronic records.We have security measures in place to attempt to reasonably protect personal information under our control from misuse, interference, loss, unauthorised access, modification or disclosure.For example, Bunnings seeks to ensure that personal information in paper form is held securely and personal information held electronically by or for Bunnings is held on secured servers in controlled facilities.
 
-15. No data transmission over the internet can be guaranteed to be secure.As a result, Bunnings cannot ensure or warrant the security of any personal information transmitted by you to Bunnings over the internet.
+16. No data transmission over the internet can be guaranteed to be secure.As a result, Bunnings cannot ensure or warrant the security of any personal information transmitted by you to Bunnings over the internet.
 
 ****Use and disclosure of personal information****
 
-16.  You have the right under applicable Australian or New Zealand privacy legislation to request access to, and correction of, personal information about you held by Bunnings, at no cost to you.Requests should be made as set out under the heading “How to contact Bunnings” below.
+17.  You have the right under applicable Australian or New Zealand privacy legislation to request access to, and correction of, personal information about you held by Bunnings, at no cost to you.Requests should be made as set out under the heading “How to contact Bunnings” below.
 
-17.  Bunnings may require you to verify your identity at the time you request access to, or correction of, your personal information so that we can ensure your personal information is disclosed only to you.
+18.  Bunnings may require you to verify your identity at the time you request access to, or correction of, your personal information so that we can ensure your personal information is disclosed only to you.
 
-18.  Bunnings will respond to any requests for access or correction within a reasonable time, but in any event by no later than 30 days after the date you make the request.
+19.  Bunnings will respond to any requests for access or correction within a reasonable time, but in any event by no later than 30 days after the date you make the request.
 
-19.  If Bunnings refuses to provide you with access to the personal information held about you, or if Bunnings refuses to correct that information, we will provide reasons for such refusal.If you object to the refusal, you may make a complaint in the manner indicated under the heading “Questions and complaints” below.
+20.  If Bunnings refuses to provide you with access to the personal information held about you, or if Bunnings refuses to correct that information, we will provide reasons for such refusal.If you object to the refusal, you may make a complaint in the manner indicated under the heading “Questions and complaints” below.
 
 **Questions and complaints**
 
-20.  If you have a question or complaint about this policy, Bunnings’ collection of your personal information or the way in which Bunnings deals with your personal information, this should be directed to Bunnings’ Privacy Officer using the contact details set out under the heading “How to contact Bunnings” below.
+21.  If you have a question or complaint about this policy, Bunnings’ collection of your personal information or the way in which Bunnings deals with your personal information, this should be directed to Bunnings’ Privacy Officer using the contact details set out under the heading “How to contact Bunnings” below.
 
-21\. We will promptly investigate any complaint you make to us and attempt to resolve that complaint.If you are not satisfied with Bunnings’ proposed resolution of your complaint, or if we do not respond to you within 30 days of the date you make the complaint, then you may, if you are in Australia, contact the Office of the Australian Information Commissioner or, if you are in New Zealand, the New Zealand Privacy Commissioner to resolve that complaint:
+22\. We will promptly investigate any complaint you make to us and attempt to resolve that complaint.If you are not satisfied with Bunnings’ proposed resolution of your complaint, or if we do not respond to you within 30 days of the date you make the complaint, then you may, if you are in Australia, contact the Office of the Australian Information Commissioner or, if you are in New Zealand, the New Zealand Privacy Commissioner to resolve that complaint:
 
 **Australia:**
 
@@ -158,11 +160,11 @@ Phone:  0800 803 909
 
 **Accessing links**
 
-22\. Bunnings’ website may contain links to other websites.If you access any third party website from Bunnings’ website, personal information about you may be collected by that third party website.Bunnings is not responsible for ensuring the protection of any of your information collected from any such third party website.Bunnings encourages you to be aware of when you leave our website and to read the privacy policies for every third party website that you access.
+23\. Bunnings’ website may contain links to other websites.If you access any third party website from Bunnings’ website, personal information about you may be collected by that third party website.Bunnings is not responsible for ensuring the protection of any of your information collected from any such third party website.Bunnings encourages you to be aware of when you leave our website and to read the privacy policies for every third party website that you access.
 
 **How to contact Bunnings**
 
-23.  You can contact us in writing or by email as set out below:
+24.  You can contact us in writing or by email as set out below:
 
 Bunnings’ Privacy Officer
 
@@ -176,4 +178,4 @@ Email: [privacy@bunnings.com.au](mailto:privacy@bunnings.com.au)
 
 ******Changes to this policy**
 
-24\. Bunnings may update this policy from time to time. We may let you know of significant changes to this policy by posting a notification on our website.  The current version of this policy will always be available on our website.    
+25\. Bunnings may update this policy from time to time. We may let you know of significant changes to this policy by posting a notification on our website.  The current version of this policy will always be available on our website.    
