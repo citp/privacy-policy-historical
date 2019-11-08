@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbooth.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603230529id_/https%3A//redbooth.com/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbooth.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108212207id_/https%3A//redbooth.com/security) for the most accurate reproduction.*
 
 # Security, Compliance and Data Privacy at Redbooth
 
