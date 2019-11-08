@@ -1,175 +1,215 @@
-> *The following text is extracted and transformed from the canneslions.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407032601id_/https%3A//www.canneslions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canneslions.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108150150id_/https%3A//www.canneslions.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Cannes Lions 2019
+# Privacy Policy | Cannes Lions 2020
 
-1\. INTRODUCTION
+This global privacy policy explains how Ascential Group Limited  and/or its affiliates (“Ascential” referred to as “we”, “us” or “our”) handle your personal data, including the types of personal data we collect about you, how your personal data may be used and when it may be disclosed, how we protect your personal data and the rights you have in relation to the processing of your personal data. Ascential respects your privacy and we are committed to protecting your personal data in accordance with applicable data privacy laws and our internal policies.
 
-1.1 This policy (the “Privacy Policy”) sets out the privacy and cookies policy of Ascential Events (Europe) Limited (“Ascential”. “we”, “us” or “our”).  Ascential is a company registered in England and Wales under company number 7814172, whose registered address is at The Prow, 1 Wilder Walk, London W1B 5AP.
+In the event of conflict between a translated version of this global privacy policy and the English version, the English version shall prevail.
 
-1.2. For the purpose of applicable data protection and privacy laws (the “Privacy Laws”), and unless otherwise stated below, Ascential is the data controller in relation to the personal information covered by this Privacy Policy.
+  1. **Who is the controller of my personal data?**
 
-1.3 Ascential is committed to protecting the privacy of its users.  The purpose of this Privacy Policy is to describe to you how Ascential will use personal information about you that is submitted to Ascential.  If at any time you wish to access, change or delete the personal information we hold about you or opt-out of or change the uses of your personal information, or if you wish us to transfer your data to a third party, please contact us at [unsubscribe@canneslions.com](mailto:unsubscribe@canneslions.com).
 
-1.4 Ascential may revise this Privacy Policy at any time by posting an update on its website(s). Please ensure that you check this website and any other Ascential website(s) you use from time to time to review the then current Privacy Policy and to update your preferences. This Privacy Policy was last updated in November 2017.
 
-2\. COLLECTION OF PERSONAL INFORMATION
+Unless we notify you otherwise, Ascential Group Limited is the controller of your personal data as it is the entity who alone or jointly determines how or why your personal data is being processed. Our affiliates may be the controller of your personal data in certain circumstances depending on our relationship, and the services we are providing to you. Here is a list of our [group of affiliates](https://web.archive.org/mediaonline/canneslions/2020/downloads/Affiliate_Entities_28102019.pdf).
 
-2.1 Depending on the circumstances in which we collect your information (as set out in paragraph 2.2 below) the types of personal information we collect and store may include your name, job title, place of work or study, date of birth, e-mail address, postal address, telephone number, and/or credit/debit card details.
+  2. **How do we collect your personal data?**
 
-2.2 Ascential (or third parties acting on Ascential’s behalf) may collect personal information about you in the following ways:
 
-(a) when you complete and submit an application to Ascential to register on its website(s) or receive email alerts or other communications from Ascential;
 
-(b) via postings to forums and blogs and any other posting that you make to a Ascential website (in such circumstances the information posted by you may, of course, also be available to users of the forum/blog/website throughout the world);
+We use different methods to collect personal data from and about you, including: -
 
-(c) during any transaction with us; and
+**Collection directly from you**
 
-(d) when you enquire about our activities, email, telephone or write to us or otherwise provide us with personal information.
+Most of the personal data we process about you comes directly from you.  You may give us your name and contact details when filling in forms or corresponding with us by email, phone, mail, in person or otherwise including when you: -
 
-3\. STORAGE AND RETENTION OF YOUR INFORMATION
+  * subscribe to our services, products or email alerts; and
+  * buy or express an interest in our products and services (including attending an event).
 
-3.1 Ascential will keep your information securely. The technology that Ascential uses and the security policies which Ascential has implemented are intended to safeguard your information from unauthorised access and improper use. 
 
-3.2 Ascential will keep your information (to the extent permitted by the Privacy Laws) to enable Ascential to use it for the purposes described in this Privacy Policy.  We will keep your personal information for no longer than is needed for those purposes.
 
-4\. USE OF YOUR INFORMATION
+**Automatic collection**
 
-4.1 Ascential may use your personal information to provide services to you, for example when you buy a festival pass.  Ascential may also use your personal information to further its legitimate interests, i.e. to help Ascential improves its services or for our direct marketing purposes.  
+We automatically collect technical information when you use our websites, for example: - IP address, log-in data, browser type, time zone setting and location and plug-in types when you interact with our websites.  We also collect data through cookies. Please see our cookies policy for further details.
 
-In more detail, we may include using your personal information for the following purposes:
+**Collection from other sources**
 
-(a) administering your website account(s) and otherwise in connection with any service for which you have provided your information, including any delegate pass, accommodation reservation, email alerts, transactions with us and competitions and promotions that you take part in;
+We may collect information about you from third parties and public sources (such as public databases and social media websites). This is to ensure we have accurate, up to date or necessary information for us to communicate with you or to provide the best possible service. The types of information we may collect includes personal details (including name, age, gender and other demographic data) and contact information (including postal address and telephone numbers).
 
-(b) responding to any enquiry you make;
+  3. **For which purposes and on which legal basis do we process your personal data?**
 
-(c) sending you newsletters and/or alerts and information regarding Ascential’s services;
 
-(d) Sending you important festival information, including but not limited to, speaker announcements, programme updates and invitations to special festival events;
 
-(e) for generating aggregated statistics about users, traffic patterns etc. of the website and other services and developing Ascential's marketing plans.
+We have set out below a description of all the ways we plan to use your personal data and which legal basis we rely on to do so. We have also identified what our legitimate interests are, where appropriate.
 
-4.2 Ascential may also disclose your information (subject in each case to the requirements of the Privacy Laws) as follows:
+**Legal basis**
 
-(a) if you have given your consent for Ascential to do so, to other selected organisations to enable them to contact you or send you information by post, telephone and/or email;
+| 
 
-(b) to third parties who are engaged by Ascential to exercise its rights under Clause 4.1;
+**Purpose**  
+  
+---|---  
+  
+Necessary for the compliance with a legal obligation to which we are subject.
 
-(c) to third parties selected by Ascential as part of aggregated and anonymised statistics about users, traffic patterns etc. of the Ascential website(s);
+| 
 
-(d) to such individuals and/or bodies as necessary to; ensure Ascential’s compliance with any applicable law, regulation, legal proceeding or governmental request;
+Complying with legal requirements.  
+  
+Necessary for the performance of a contract to which you are a party.
 
-(e) to third party providers as necessary to properly deal with your request, for example to accommodation providers where you have requested accommodation at a festival;
+| 
 
-(f) (where you post material that does or may constitute a criminal offence, breach the rights of a third party, give rise to a civil action or breach the terms & conditions of the applicable website and as otherwise necessary to protect the rights, property or safety of Ascential and its customers), to any relevant authority or third party requiring Ascential to disclose the identity of or locate anyone posting such material on an Ascential website; or
+Managing our contractual relationship with you.  
+  
+Justified on the basis of our legitimate interest in ensuring the proper functioning of our business operations.
 
-(g) to third parties selected by Ascential who will be present at Ascential events (e.g. selected festival sponsors) so that they can better plan the activities they offer to visitors to those events.
+| 
 
-4.3 If Ascential (or a relevant part of Ascential) is acquired by or merges with another company, your personal information may be passed to the purchasing/merging company amongst the transferred business assets. This will enable your relationship to continue with the relevant Ascential business despite the change of ownership. Your personal information may also be passed (on a confidential basis) to companies with whom Ascential is negotiating such a sale/merger as part of the verification exercise carried out on Ascential by the third party.
+Operating and managing our business operations and/or improving our products, service and event experience.  
+  
+Justified on the basis of our legitimate interest in ensuring that we can conduct and increase our business.
 
-4.4 In processing your information in accordance with the above, Ascential may (to the extent permitted by the Privacy Laws) send it outside the European Economic Area (“EEA”). Ascential will take all reasonable steps to ensure that in such circumstances your personal information is treated securely and in accordance with this Privacy Policy but your attention is drawn to the fact that the laws of countries outside the EEA may provide lesser protection to your information than the UK.
+| 
 
-5\. COOKIES
+Marketing or communicating information to you related to our products and services, unless you have objected to such processing, as further described in the section 3 “How do we use personal data for direct marketing purposes?”  We may also share personal data with our affiliates for this purpose, as further described at section 6 below.  
+  
+Justified on the basis of our legitimate interest in ensuring we can conduct and increase our business and those of our business partners.
 
-When you visit a Ascential website(s), Ascential uses “cookie” technology try to make that experience simple, personalised and meaningful. Cookies are small data files which are issued to your computer or any similar device you use to access the internet (e.g. smart phone, tablet or other mobile device) when you visit a website. Cookies store and sometimes track information about your use of the website. A number of cookies Ascential use last only for the duration of your web session and expire when you close your browser. Other cookies are used to remember you when you return to the website and will last for longer.
+| 
 
-Ascential use cookies to:
+Sharing personal data with selected partners (including sponsors), as further described in section 6 below.  
+  
+Justified on the basis of our legitimate interest in ensuring network and information security.
 
-(a) create a specific log-in session for a visitor to a Ascential website in order that page requests by that visitor are delivered in an effective, secure and consistent manner;
+| 
 
-(b) recognise when a visitor to a Ascential website has visited before; this means we can identify the number of unique visitors we receive to the website and allows us to make sure we have enough capacity for the number of users that we get;
+Monitoring your use of our systems (including using technical tools to automatically monitor the use of our website and any apps and tools you use).  
+  
+Justified on the basis of our legitimate interest in ensuring that you receive an excellent user experience.
 
-(c) customise elements of the promotional layout and/or content of the pages of the website;
+| 
 
-(d) store your product selections to the shopping basket; and
+Improving the security and functioning of our website, networks and information.  
+  
+Justified on the basis of our legitimate interest in ensuring the proper functioning of our business operations.
 
-(e) collect statistical information about how our visitors use the website(s) so that we can improve the website(s) and learn which parts are most popular to visitors;
+| 
 
-(f) gather information through our advertising partners, about the pages on the Ascential website(s) that you visit, and also other information about other websites that you visit, so as to place you in an “interest segment”. This information is then used to serve interest-based advertisements which it is believed will be targeted to your interests. For more information about this type of interest based advertising, and about how to turn this feature off please visit <http://www.youronlinechoices.com/uk/> or follow the link to the website of our advertising partners shown below. Without these cookies, advertisements you encounter will be less relevant to you and to your interests.
+Undertaking data analytics, i.e. applying analytics to business operations and data to describe, predict and improve business performance within Ascential and/or to provide a better user experience. (more details on how we run analytics on our website can be found in our cookie policy.  
+  
+  4. **How do we use personal data for direct marketing purposes?**
 
-Some of the cookies used by Ascential websites are set by us, and some are set by third parties who are delivering services on our behalf. Most web browsers automatically accept cookies but, if you prefer, you can change your browser to prevent that or to notify you each time a cookie is set. You can also learn more about cookies by visiting www.allaboutcookies.org which includes additional useful information on cookies and how to block cookies using different types of browser. Please note however, that by blocking or deleting cookies used on a Ascential website(s) you may not be able to take full advantage of the website(s) if you do so.
 
-We have described the main cookies used on our website(s) below:
 
-COOKIES THAT SUPPORT OUR WEB PLATFORM
+We may send you marketing communications to keep you up to date with our products and services, including those we think may be of interest to you.
 
-"__RequestVerificationToken"  
-This is an anti-forgery cookie set by web applications built using ASP.NET MVC technologies. It is designed to stop unauthorised posting of content to a website, known as Cross-Site Request Forgery. It holds no information about the user and is destroyed on closing the browser.
+**Do we send targeted e-mails?**
 
-".ASPXAUTH"  
-This cookie is used by sites using the .NET technology platform from Microsoft. It is commonly used to identify a logged-in user to enable access to secure areas of a site.
+We send targeted electronic direct marketing to business contacts at our clients or other companies with whom we want to develop or maintain a business relationship in accordance with applicable marketing laws. Our electronic direct marketing typically includes web beacons, cookies, and similar technologies that allow us to know whether you open, read, or delete the message, and links you may click. When you click a link in an electronic direct marketing message, we will also use a cookie to log what pages you view and what content you download from our websites, even if you are not registered at or signed into our site. Please see our cookies policy for further details.
 
-"ASP.NET_SessionId"  
-General purpose platform session cookie, used by sites written with Microsoft .NET based technologies. Usually used to maintain an anonymised user session by the server.
+**Do we maintain Customer Relationship Management (CRM) databases?**
 
-"SC_ANALYTICS_GLOBAL_COOKIE"  
-This cookie name is associated with the Sitecore Content Management System as is used for web analytics to identify repeat visits by unique users.
+Like most companies, Ascential uses customer relationship management (CRM) database technology to manage and track our marketing efforts. Our CRM databases include personal data belonging to business contacts at our clients and other companies with whom we already have a business relationship or want to develop one. The personal data used for these purposes includes relevant business information such as: contact data, publicly available information (e.g. board membership, published articles, press releases, your public posts on social media sites if relevant for business purpose), your responses to targeted electronic direct marketing (including web activity following links from our e-mails), website activity of registered users of our website and other business information included by Ascential professionals based on their personal interactions with you. 
 
-"dtCookie", "dtLatC", "dtPC"  
-This cookie name is associated with software from Dynatrace, an application performance management (APM) software company. Their software manages the availability and performance of software applications and the impact on user experience in the form of deep transaction tracing, synthetic monitoring, real user monitoring, and network monitoring.
+**Do we combine and analyse personal data?**
 
-ANALYTICS COOKIES
+We may combine data from publicly available sources, and from our different e-mail, website, and personal interactions with you (this includes information collected across our different websites such as our careers and corporate sites and information collected when you sign-up or log on to our sites or connect to our sites using your social media credentials). We combine this data to better assess your experience with Ascential and to perform the other activities described throughout this privacy policy.
 
-"_ga"  
-This cookie name is associated with Google Universal Analytics - which is an update to Google's more commonly used analytics service. This cookie is used to distinguish unique users by assigning a randomly generated number as a client identifier. It is included in each page request in a site and used to calculate visitor, session and campaign data for the site’s analytics reports.
+**What are your rights regarding marketing communications?**
 
-"_gid"  
-This cookie name is associated with Google Universal Analytics and stores a unique value for each page visited.
+You can elect to not receive marketing communications from us by, or by utilising opt-out mechanisms in e-mails we send to you.  You can also object to receiving marketing communications or request that your personal data be removed from our CRM databases by contacting us at [www.ascential.com/data](http://www.ascential.com/data).
 
-“PREF”, “VISITOR_INFO1_LIVE”, “YSC”  
-YouTube uses these cookies to analyse traffic from embedded videos on our website(s).
+  5. **What about sensitive data?**
 
-MARKETING COOKIES
 
-"_mkto_trk"  
-This cookie is associated with an email marketing service provided by Marketo. This tracking cookie allows a website to link visitor behaviour to the recipient of an email marketing campaign, to measure campaign effectiveness.  
-"com.silverpop.iMA.page_visit", "com.silverpop.iMA.session", "com.silverpop.iMAWebCookie"  
-Used to support IBM Silverpop Engage email marketing, to permit newsletter activity and tracking.
 
-"_CAN_BId"  
-This cookie is set on sites using the CANDDi software from UK company Campaign and Digital Intelligence Ltd. The software provides the capacity to identify individuals visiting a site in real time, linked up directly with personal data held about the visitor, to improve sales conversion rates. This cookie contains a unique identifier for each visitor, enabling consistent tracking between visits.
+We do not generally seek to collect sensitive data (also known as special categories of personal data) from individuals and we request that you please do not submit sensitive data to us. In the limited cases where we do seek to collect such data, we will do this in accordance with data privacy law requirements and/or ask for your consent.
 
-"CAN_SId"  
-This cookie is set on sites using the CANDDi software from UK company Campaign and Digital Intelligence Ltd. The software provides the capacity to identify individuals visiting a site in real time, linked up directly with personal data held about the visitor, to improve sales conversion rates. This cookie is a session identifier which enables tracking of visitors in a single browser session.
+The term "sensitive data" refers to the various categories of personal data including racial or ethnic origin, political opinions, religious, philosophical or other similar beliefs, membership of a trade union, physical or mental health, biometric or genetic data, sexual life or orientation, or criminal convictions and offences (including information about suspected criminal activities).
 
-"ceg.s"  
-This cookie name is associated with software provided by Crazy Egg Inc., a USA based company providing web analytics that tracks how visitors interact with pages on a site.
+  6. **What about persons 18 or under?**
 
-"ceg.u"  
-This cookie name is associated with software provided by Crazy Egg Inc., a USA based company providing web analytics that tracks how visitors interact with pages on a site.
 
-"OptimizelyBuckets"  
-Cookie set by the Optimizely website optimisation platform. Used to store the page variants assigned to a user for A/B performance testing, to ensure the user gets a consistent experience.
 
-"OptimizelyEndUserId"  
-Cookie set by the Optimizely website optimisation platform. This cookie is a unique user identifier.
+We are concerned to protect the privacy of children. We do not knowingly contact or collect information from persons under the age of 18. The website is not intended to solicit information of any kind from persons under the age of 18.
 
-"OptimizelySegments"  
-This cookie is set by the Optimizely website optimisation platform. It holds audience segmentation information for a visitor.
+If you believe that we have received information pertaining to or from persons under the age of 18 please contact us at   contacting us at [www.ascential.com/data](http://www.ascential.com/data) ; or [dpo@ascential.com](mailto:dpo@ascential.com). If we become aware that a person under the age of 18 has provided us with personal information, we will take steps to delete such information.
 
-"_hjIncludedInSample"  
-This cookie is associated with web analytics functionality and services from Hot Jar, a Malta based company. It uniquely identifies a visitor during a single browser session and indicates they are included in an audience sample.
+  7. **Will we share your personal data with third parties?**
 
-"zarget_user_id"  
-Zarget enables personalisation and testing for subsets of users. This cookie is set to collect information on user identification. This cookie is set only once upon visitor’s first page visit. Cookie expiration time is 30 days.
 
-6.  THIRD PARTY WEBSITES
 
-Please be aware that Ascential does not control and is not responsible for websites that are referred to or linked from its own websites and that use of your personal information on these websites is not subject to this Privacy Policy.
+We may share personal data with the following categories of recipients:
 
-7\. REGISTRATION
+  * Our affiliates, so they can send you communications about their products and services (as further described in section 3 above)
+  * Our third-party service providers, including IT service providers, marketing automation, solutions and analytics providers, marketing agencies, professional advisors, and
+  * Our selected partners, representatives and sponsors, for example we may share attendee lists with event sponsors so that they can better plan their sponsorship to enhance attendee experience and, where applicable, to choose invitees to private briefings, meetings or dinners, or we may make available contact details to create marketing opportunities in certain industries and markets.
 
-7.1 To access certain parts of the Ascential websites, Ascential may require you to register and provide certain information about yourself. 
 
-7.2 You are reminded that in addition to the provisions of this Privacy Policy, where you register you also agree to: 
 
-(a) provide true, accurate, current and complete information about yourself as prompted by the relevant registration form (such information being the "Registration Data"); and
+We may also share your personal data with public and governmental authorities if we are required to do so, or with third parties in connection with potential corporate or commercial transaction.
 
-(b) maintain and promptly update the Registration Data to keep it fully up to date.
+Before we share your personal data with any third parties, we take the necessary steps to ensure that your personal data will be given adequate protection in accordance with relevant data privacy laws and Ascential’s internal policies.
 
-8\. TELEPHONE CALLS
+  8. **How long will your personal data be retained by us?**
 
-Please note your calls to Ascential may be recorded for training and quality control purposes.
 
-9\. QUESTIONS OR COMPLAINTS
 
-If you have questions or complaints about this Privacy Policy or our use of your personal information, please contact [unsubscribe@canneslions.com](mailto:unsubscribe@canneslions.com).  Under the Privacy Laws, you may also have a right to lodge a complaint with the Information Commissioner’s Office.  For more information, see the Information Commissioner’s website at [www.ico.org.uk](https://ico.org.uk/).
+We retain your information for no longer than necessary for the purpose for which it was collected. We maintain specific records management and retention policies and procedures, so that in determining how long your information will be stored, we will consider:
+
+  * the purpose(s) and use of your information both now and in the future;
+  * our global legal and contractual obligations; and
+  * what information we need to manage your relationship with us and to develop and deliver our products and services.
+
+
+  9. **Do we transfer your data internationally?**
+
+
+
+As we are a global organisation with a presence in a number of jurisdictions and countries, we may transfer your personal data to our affiliates internationally. If you are located in the EEA, this may involve transferring your data outside the EEA. To ensure that such transfers are in accordance with applicable law and carefully managed to protect your privacy rights, any inter-company transfers of personal data are covered by agreement(s) which contractually oblige(s) us to ensure adequate and consistent levels of protection wherever personal data is transferred within our group of companies.
+
+We may also share your personal data with third parties (see section 6), some of which are based outside the EEA. Whenever we transfer your personal data outside the EEA, we ensure a similar degree of protection is afforded it by ensuring appropriate safeguards are implemented, for example we may use specific contracts approved by the European Commission.
+
+Please contact us (see our details at section 10 below) if you would like further information on the mechanism used by us when transferring your personal data outside the EEA.
+
+  10. **Data security.**
+
+
+
+We maintain organizational, physical and technical security arrangements for all the personal data we hold. We have protocols, controls and relevant policies, procedures and guidance to maintain these arrangements taking into account the risks associated with the categories of personal data and the processing we undertake, including as appropriate: -  
+
+  * The pseudonymisation and encryption of personal data;
+  * The ability to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services;
+  * The ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident; and
+  * A process for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures for ensuring the security of personal data.
+
+
+  11. **Which rights do you have with respect to the processing of your personal data?**
+
+
+
+If you are based within the EEA, you may be entitled under certain circumstances to: -
+
+  * Request access to the personal data we process about you: this right entitles you to know whether we hold personal data about you and, if we do, to obtain information on and a copy of that personal data.
+  * Request a rectification of your personal data: this right entitles you to have your personal data corrected if it is inaccurate or incomplete.
+  * Object to the processing of your personal data: this right entitles you to request that Ascential no longer processes your personal data.
+  * Request the erasure of your personal data: this right entitles you to request the erasure of your personal data, including where such personal data would no longer be necessary to achieve the purposes.
+  * Request the restriction of the processing of your personal data: this right entitles you to request that Ascential only processes your personal data in limited circumstances, including with your consent.
+  * Request portability of your personal data: this right entitles you to receive a copy (in a structured, commonly used and machine-readable format) of personal data that you have provided to Ascential, or request Ascential to transmit such personal data to another data controller.
+  * Request not to be subject to any decision that significantly affects you being taken by automated processing, including profiling.
+
+
+
+If you are based in CALIFORNIA you have many of the rights set out at section 11 and you are entitled under certain circumstances to:- 
+
+Request access to certain information about the personal data we have shared with third parties for direct marketing purposes.
+
+Please contact us at [www.ascential.com/data](http://www.ascential.com/data) to exercise any of these rights. We will process any request in line with any local laws and our policies and procedures. We may ask you for additional information to confirm your identity and for security purposes, before disclosing information requested to you.
+
+  12. **What if you have questions or want further information?**
+
+
+
+Any questions regarding this notice and our privacy practices should be sent using [ **www.ascential.com/data**](http://www.ascential.com/data) or by writing to Director of Compliance and DPO, Ascential Group Limited, The Prow, 1 Wilder Walk, London, United Kingdom, W1B 5AP, or by email at [dpo@ascential.com](mailto:dpo@ascential.com).
+
+If you wish to make a complaint about how we use your information, please contact us using  [ **www.ascential.com/data**](http://www.ascential.com/data) **  **and we will do our best to help. If you are located in the EEA, you have the right to lodge a complaint with the appropriate data protection supervisory authority in your country. We would, however, appreciate the chance to deal with your concerns before you approach your local supervisory authority so please contact us in the first instance.
