@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seositecheckup.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520232327id_/https%3A//seositecheckup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seositecheckup.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108202513id_/https%3A//seositecheckup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Site Checkup
 
