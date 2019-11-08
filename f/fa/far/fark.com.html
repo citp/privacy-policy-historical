@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fark.com privacy policy that was archived on 2019-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190624231650id_/https%3A//www.fark.com/farq/legal) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fark.com privacy policy that was archived on 2019-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191108231305id_/https%3A//www.fark.com/farq/legal) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
 <title>FARK.com: Frequently Asked Questions: Legal Stuff</title>   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,10 +7,10 @@
 <meta name="keywords" content="Fark, Fark.com, Drew Curtis, News, Community News, Social News, News Flash, Funny News, Weird News, Odd News, Strange News, Satirical News, Humor, Photoshop, Photoshop Contest, Memes, Caturday, Comments, News Commentary, Political News, Celebrity News, Sports News, Geek News">
 
  <meta property="fb:admins" content="741339004,690298743,503216953">
-<meta property="og:type" content="website">  <meta property="og:image" content="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2013/site/farkLogo2Big.gif">  <link rel="image_src" type="image/gif" href="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2013/site/farkLogo2Big.gif">      <meta name="viewport" content="minimum-scale=0.35, width=device-width"> <link rel="shortcut icon" href="https://www.fark.com/favicon.ico">
-<link rel="apple-touch-icon" href="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2008/site/fark-webclip.png"> 
+<meta property="og:type" content="website">  <meta property="og:image" content="https://img.fark.net/images/2013/site/farkLogo2Big.gif">  <link rel="image_src" type="image/gif" href="https://img.fark.net/images/2013/site/farkLogo2Big.gif">      <meta name="viewport" content="minimum-scale=0.35, width=device-width"> <link rel="shortcut icon" href="https://www.fark.com/favicon.ico">
+<link rel="apple-touch-icon" href="https://img.fark.net/images/2008/site/fark-webclip.png"> 
 
-  <meta name="referrer" content="always">      <link rel="stylesheet" href="https://www.fark.com/css/farkstyle_desktop.min_1561276862.css" media="screen">            <script type="text/javascript" async="" src="//mixi.media/data/js/91782.js" charset="utf-8"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.fark.com/js/farktools_desktop.min_1561276858.js"></script>  <script>
+  <meta name="referrer" content="always">      <link rel="stylesheet" href="https://www.fark.com/css/farkstyle_desktop.min_1572666541.css" media="screen">            <script type="text/javascript" async="" src="//mixi.media/data/js/91782.js" charset="utf-8"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://www.fark.com/js/farktools_desktop.min_1572666541.js"></script>  <script>
     // fark.page.headerbidTargeting = "";
     fark.page.rcPageName = "default_fark";
     fark.page.isMobile = false;
@@ -18,11 +18,74 @@
 
     $.ajaxSetup({ timeout: 15000 });
     fark.ajax.ajaxSpinner = new Image();
-    fark.ajax.ajaxSpinner.src = 'https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2011/site/ajax-loader.gif';
-    fark.ajax.ajaxSpinnerRaw = '<\img alt="..." src="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2011/site/ajax-loader.gif" width="16" height="16">';
+    fark.ajax.ajaxSpinner.src = 'https://img.fark.net/images/2011/site/ajax-loader.gif';
+    fark.ajax.ajaxSpinnerRaw = '<\img alt="..." src="https://img.fark.net/images/2011/site/ajax-loader.gif" width="16" height="16">';
 </script>
 
-  <!-- Google Analytics -->
+  <!-- CONFIANT CODE -->
+<!-- v3 Wrapper for Fark created on 6.7.19 -->
+
+<script>
+window.confiant = window.confiant || {};
+window.confiant.callback = function(blockingType, blockingId, isBlocked, wrapperId, tagId, impressionData) {
+    //console.log('----test_refresh--callback', impressionData , tagId);
+
+    var slot_path = '';
+    var order_num = '';
+    var line_item_num = '';
+    var container_div = '';
+    if (typeof impressionData != 'undefined' && typeof impressionData.dfp != 'undefined') {
+        slot_path = impressionData.dfp.A;
+        order_num = impressionData.dfp.o;
+        line_item_num = impressionData.dfp.l;
+        container_div = impressionData.dfp.s;
+    }
+    ga( "send", "event", "Confiant Blocked", slot_path, order_num + '/' + line_item_num, { "nonInteraction": 1 } );
+
+    // check if ad is blocked and we haven't refreshed this slot
+    // (this only allows for one refresh)
+    if( isBlocked && fark.page.confiant_refresh_slots.indexOf(slot_path) == -1 ){
+        //console.log('---test_refresh--blocked--');
+
+        // mark it as refreshed so it won't refresh multiple time
+        fark.page.confiant_refresh_slots.push(slot_path);
+
+        var targArray = []; // for setTargetingForGPTAsync (will be one element)
+        var refArray = []; // for googletag.pubads().refresh (will be one element)
+        fark.page.adSlots.forEach(function(i) {
+             if (i.id == container_div) {
+                targArray.push(i.id);
+            }
+        });
+
+        var slots = googletag.pubads().getSlots();
+        //var slot_length = slots.length;
+
+        slots.forEach(function(slot) {
+             if (slot_path == slot.getAdUnitPath() ) {
+                slot.setTargeting('rf', 3);
+                refArray.push(slot);
+            }
+        });
+
+        if ( typeof pbjs !== "undefined" && pbjs.que ) {
+            pbjs.que.push( function() {
+                pbjs.requestBids( {
+                    timeout: 1000,
+                    adUnitCodes: [ fark.globals.leaderboardTopAdSlot.getSlotElementId(), fark.globals.billboardTopAdSlot .getSlotElementId(), fark.globals.billboardMidAdSlot.getSlotElementId(), fark.globals.billboardBotAdSlot.getSlotElementId(), fark.globals.leaderboardBotAdSlot.getSlotElementId() ],
+                    bidsBackHandler: function() {
+                        pbjs.setTargetingForGPTAsync( targArray );
+                        fark.page.headerbidTargeting = pbjs.getAdserverTargeting();
+                        googletag.pubads().refresh( refArray );
+                    }
+                } );
+            } );
+        }
+    }
+};
+</script>
+<script async="" src="https://confiant-integrations.global.ssl.fastly.net/cEfft1aujoR3mcJAi8Jzh_8If_c/gpt_and_prebid/config.js"></script>
+<!-- END CONFIANT CODE --> <!-- Google Analytics -->
 <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -58,7 +121,7 @@ if (typeof pbjs !== "undefined") {
 
 </script>
 <!-- End Google Analytics -->            <style> .headlineRow:hover, .headlineRow:hover:nth-child(odd) { background-color: #eeeeff; } </style> <script src="https://www.youtube.com/iframe_api"></script>
-</head>  <body>        <a href="#newsContainer" class="skipToContent" tabindex="1">Skip to content</a><!-- BEGIN left 2019-06-24 19:04:11--> <div class="fullwidthheaderbackground"></div>
+</head>  <body>        <a href="#newsContainer" class="skipToContent" tabindex="1">Skip to content</a><!-- BEGIN left 2019-11-08 17:47:17--> <div class="fullwidthheaderbackground"></div>
 
   <div class="fullwidthheaderbackground">&nbsp;</div>
 <div id="container">
@@ -68,7 +131,7 @@ if (typeof pbjs !== "undefined") {
     
 <div id="header">  <div class="tryBareFark">
         <a href="https://www.fark.com/barefarksignup" target="_blank">Try Ads-Free Fark</a>
-    </div>   <a id="logo" class="retina header_logo" href="https://www.fark.com"><img src="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2013/site/farkLogoBig.png" srcset="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2013/site/farkLogoBig.png 1x, https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2013/site/farkLogoBig-2x.png 2x" alt="Real news. Real Funny"></a>   <div class="ad_container top">  <div id="topAd728x90"><script src="https://www.fark.com/aptminus/size1"></script></div>  <div class="reportAdBlock"><a href="https://www.fark.com/feedback/" onclick="reportAd('topAd728x90'); return false;">Report</a></div>    </div> <div id="headerBottom">  <div id="tagLine">Real news. Real funny. </div>  </div>
+    </div>   <a id="logo" class="retina header_logo" href="https://www.fark.com"><img src="https://img.fark.net/images/2013/site/farkLogoBig.png" srcset="https://img.fark.net/images/2013/site/farkLogoBig.png 1x, https://img.fark.net/images/2013/site/farkLogoBig-2x.png 2x" alt="Real news. Real Funny"></a>   <div class="ad_container top">  <div id="topAd728x90"><script src="https://www.fark.com/aptminus/size1"></script></div>  <div class="reportAdBlock"><a href="https://www.fark.com/feedback/" onclick="reportAd('topAd728x90'); return false;">Report</a></div>    </div> <div id="headerBottom">  <div id="tagLine">Real news. Real funny. </div>  </div>
 </div>  </td>
 </tr>
 <tr>
@@ -112,7 +175,8 @@ style sheets. Try clearing your browser cache and refreshing the page.</small></
         <li><a href="https://www.fark.com/entertainment/"> Entertainment</a></li>
         <li><a href="https://www.fark.com/dawww/"> D'awww</a></li>
         <li><a href="https://www.fark.com/food/"> Food</a></li>
-        <li><a href="https://www.fark.com/politics/"> Politics</a></li>        </ul> <div id="newsContainer"><!-- TOP end -->
+        <li><a href="https://www.fark.com/politics/"> Politics</a></li>
+        <li><a href="https://www.fark.com/podcast/"> Podcast</a></li>        </ul> <div id="newsContainer"><!-- TOP end -->
 <div class="main">
 <blockquote> <div class="mw-parser-output">
 <div id="toc">
@@ -306,18 +370,18 @@ Smallest light: <img src="https://img.fark.net/images/2014/site/farklogo_smalles
 </div> <!-- end #newsContainer -->
         </td>
         <td id="rightCol">
-            <div class="rightColContent">  <div class="sidebar_callout_container tfark_callout">
-                    <p style="font-size:13px;">Want more stories with less ads? Try</p>
-                    <!--<img src="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2017/site/totalfark_logo_2017.png" srcset="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2017/site/totalfark_logo_2017.png 1x, https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2017/site/totalfark_logo_2017-2x.png 2x" class="retina" alt="TotalFark">-->
-                    <img src="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2017/site/totalfark_logo_2017.png" srcset="https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2017/site/totalfark_logo_2017.png 1x, https://farkimg.sfo2.cdn.digitaloceanspaces.com/images/2017/site/totalfark_logo_2017-2x.png 2x" class="retina" alt="TotalFark">
-                    <p class="tf-callout-text">It's what the cool kids are doing.<br>It also helps us pay the bills.</p>
+            <div class="rightColContent">  <div style="padding: 10px;margin-top: 20px;"> <a rel="nofollow" class="outbound_link id " data-farkdomain="podcasts.apple.com" target="_blank" href="https://podcasts.apple.com/us/podcast/fark-and-schnitt/id1475043998"><img src="https://img.fark.net/images/2019/ads/FNSRailBanner336.png" width="336" height="157"></a> </div>   <br>     <div class="top_right_container"> <div class="ad_container rightTop">  <div id="rightAd300x250"><script src="https://www.fark.com/aptminus/size3"></script></div>  <div class="reportAdBlock"><a href="https://www.fark.com/feedback/" onclick="reportAd('rightAd300x250'); return false;">Report</a></div>  <div class="advertiseLink"><a href="https://www.fark.com/advertise/" target="blank">Advertise on Fark</a></div>    </div> </div>      <div class="sidebar_callout_container tfark_callout">
+                <p style="font-size:13px;">If you like these links, you'll love</p>
+                <!--<img src="https://img.fark.net/images/2017/site/totalfark_logo_2017.png" srcset="https://img.fark.net/images/2017/site/totalfark_logo_2017.png 1x, https://img.fark.net/images/2017/site/totalfark_logo_2017-2x.png 2x" class="retina" alt="TotalFark">-->
+                <img src="https://img.fark.net/images/2017/site/totalfark_logo_2017.png" srcset="https://img.fark.net/images/2017/site/totalfark_logo_2017.png 1x, https://img.fark.net/images/2017/site/totalfark_logo_2017-2x.png 2x" class="retina" alt="TotalFark">
+                <p class="tf-callout-text">Come for the Total, stay for the Farking.</p>
 
-                    <a href="https://www.fark.com/farq/about/#What_is_TotalFark.3F">learn more</a> | <a href="/totalfarksignup">sign up</a>
-                </div>   <br>     <div class="top_right_container"> <div class="ad_container rightTop">  <div id="rightAd300x250"><script src="https://www.fark.com/aptminus/size3"></script></div>  <div class="reportAdBlock"><a href="https://www.fark.com/feedback/" onclick="reportAd('rightAd300x250'); return false;">Report</a></div>  <div class="advertiseLink"><a href="https://www.fark.com/advertise/" target="blank">Advertise on Fark</a></div>    </div> </div>   <div class="sidebar_callout_container newsletter_callout">
+                <a href="https://www.fark.com/farq/about/#What_is_TotalFark.3F">learn more</a> | <a href="/totalfarksignup">sign up</a>
+            </div>   <div class="sidebar_callout_container newsletter_callout">
             <p>Sign up for the Fark NotNewsletter!</p>
              <form name="newsletter_signup" action="/newslettersignup" method="post" class="ajaxsubmit">
                 <input type="text" name="nnl_e" placeholder="you@you.com">
-                <input type="hidden" name="submitbutton" value="Sign Me Up!"> <input type="hidden" name="e0$H6078RGBrEDqWeqbzNojZGuIYKbQUdaak93tp" value="H6139L2jjIAOCACwE1JQfF0mqoG9gub5oTwzSLIugUeV8wobXYrlgthMXG60SzlivOfT0zZqEVDLhVmj">
+                <input type="hidden" name="submitbutton" value="Sign Me Up!"> <input type="hidden" name="e0$H612$I9fDy1j6zffGSJMnw0BCEKeb8mfqdUeD" value="H60c9m5E1oglyTxXpKri7EtwAjIP1VNvyTdcNdR4WwUPNeppIXMhq5doIlzcXy83vmYHQ8uSD5w7K9zD">
  <input type="submit" class="gradientbutton" value="Go»">
             </form>
             <a href="https://www.fark.com/farq/services/#What_is_the_Fark_NotNewsletter.3F" style="display: inline-block; margin-top: 5px; ">learn more</a>
@@ -573,34 +637,37 @@ var loadNewer = new Vue({
         <table id="alsoOnFarkTable">
             <tbody>      <tr>
                         <td class="alsoOnFarkLabel"><a href="https://www.fark.com/">Main</a></td>
-                         <td><a target="_blank" href="https://www.fark.com/goto/10459769" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Main');">University of Maryland offering a first in the nation Master's of Marijuana program It's unclear if proper bong use, blunt techniques, water pipe maintenance or effective joint rolling will be offered as part of the curriculum</a> ( <a rel="nofollow" class="outbound_link id10459769 " data-farkdomain="washfm.iheart.com" target="_blank" href="https://www.fark.com/goto/10459769">washfm.iheart.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10459769/University-of-Maryland-offering-a-first-in-nation-Masters-of-Marijuana-program-Its-unclear-if-proper-bong-use-blunt-techniques-water-pipe-maintenance-effective-joint-rolling-will-be-offered-as-part-of-curriculum" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Main');">(17 comments)</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10614891" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Main');">When I die, I want to go peacefully in my sleep... like my Uber driver</a> ( <a rel="nofollow" class="outbound_link id10614891 " data-farkdomain="twitter.com" target="_blank" href="https://www.fark.com/goto/10614891">twitter.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10614891/When-I-die-I-want-to-go-peacefully-in-my-sleep-like-my-Uber-driver" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Main');">(7 comments)</a></td>
                     </tr>      <tr>
                         <td class="alsoOnFarkLabel"><a href="https://www.fark.com/discussion/">Discussion</a></td>
-                         <td><a target="_blank" href="https://www.fark.com/goto/10459887" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Discussion');">In case you haven't noticed, and judging by the lack of threads, you haven't, the College World Series final series kicks off tonight on ESPN at 7pm EDT. SEC vs. B1G with Vanderbilt taking on Michigan</a> ( <a rel="nofollow" class="outbound_link id10459887 " data-farkdomain="espn.com" target="_blank" href="https://www.fark.com/goto/10459887">espn.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10459887/In-case-you-havent-noticed-judging-by-lack-of-threads-you-havent-College-World-Series-final-series-kicks-off-tonight-on-ESPN-at-7pm-EDT-SEC-vs-B1G-with-Vanderbilt-taking-on-Michigan" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Discussion');">(8 comments)</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10614829" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Discussion');">Here is a list of 35 different phrases you never want to see describing your writing in a judicial opinion. Fark: All 35 appeared in the same opinion. Ultra Fark: The lawyer-author has been sanctioned and referred for discipline</a> ( <a rel="nofollow" class="outbound_link id10614829 " data-farkdomain="loweringthebar.net" target="_blank" href="https://www.fark.com/goto/10614829">loweringthebar.net</a> ) »&nbsp;<a href="https://www.fark.com/comments/10614829/Here-is-a-list-of-35-different-phrases-you-never-want-to-see-describing-your-writing-in-a-judicial-opinion-Fark-All-35-appeared-in-same-opinion-Ultra-Fark-The-lawyer-author-has-been-sanctioned-referred-for-discipline" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Discussion');">(6 comments)</a></td>
                     </tr>      <tr>
                         <td class="alsoOnFarkLabel"><a href="https://www.fark.com/sports/">Sports</a></td>
-                         <td><a target="_blank" href="https://www.fark.com/goto/10459887" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Sports');">In case you haven't noticed, and judging by the lack of threads, you haven't, the College World Series final series kicks off tonight on ESPN at 7pm EDT. SEC vs. B1G with Vanderbilt taking on Michigan</a> ( <a rel="nofollow" class="outbound_link id10459887 " data-farkdomain="espn.com" target="_blank" href="https://www.fark.com/goto/10459887">espn.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10459887/In-case-you-havent-noticed-judging-by-lack-of-threads-you-havent-College-World-Series-final-series-kicks-off-tonight-on-ESPN-at-7pm-EDT-SEC-vs-B1G-with-Vanderbilt-taking-on-Michigan" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Sports');">(8 comments)</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10614765" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Sports');">Why Penske buying IndyCar is such a big deal</a> ( <a rel="nofollow" class="outbound_link id10614765 " data-farkdomain="jalopnik.com" target="_blank" href="https://www.fark.com/goto/10614765">jalopnik.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10614765/Why-Penske-buying-IndyCar-is-such-a-big-deal" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Sports');">(6 comments)</a></td>
                     </tr>      <tr>
                         <td class="alsoOnFarkLabel"><a href="https://www.fark.com/business/">Business</a></td>
-                         <td><a target="_blank" href="https://www.fark.com/goto/10459767" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Business');">MiSter (not so) soFTy</a> ( <a rel="nofollow" class="outbound_link id10459767 " data-farkdomain="marketwatch.com" target="_blank" href="https://www.fark.com/goto/10459767">marketwatch.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10459767/MiSter-not-so-soFTy" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Business');">(3 comments)</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10614305" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Business');">China's top chip maker urges U.S. firms to help ease tensions. Those 'compromised' chips aren't going to install themselves in company servers and networks</a> ( <a rel="nofollow" class="outbound_link id10614305 " data-farkdomain="reuters.com" target="_blank" href="https://www.fark.com/goto/10614305">reuters.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10614305/Chinas-top-chip-maker-urges-US-firms-to-help-ease-tensions-Those-compromised-chips-arent-going-to-install-themselves-in-company-servers-networks" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Business');">(1 comment)</a></td>
                     </tr>      <tr>
                         <td class="alsoOnFarkLabel"><a href="https://www.fark.com/geek/">Geek</a></td>
-                         <td><a target="_blank" href="https://www.fark.com/goto/10459764" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Geek');">Stanford sells out to Skynet</a> ( <a rel="nofollow" class="outbound_link id10459764 " data-farkdomain="eurekalert.org" target="_blank" href="https://www.fark.com/goto/10459764">eurekalert.org</a> ) »&nbsp;<a href="https://www.fark.com/comments/10459764/Stanford-sells-out-to-Skynet" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Geek');">(3 comments)</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10614847" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Geek');">Mark Hamill cringing in horror at his original Star Wars audition tape proves costar Harrison Ford's observation about the script: "George, you can type this sh*t, but you sure can't say it"</a> ( <a rel="nofollow" class="outbound_link id10614847 " data-farkdomain="news.avclub.com" target="_blank" href="https://www.fark.com/goto/10614847">news.avclub.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10614847/Mark-Hamill-cringing-in-horror-at-his-original-Star-Wars-audition-tape-proves-costar-Harrison-Fords-observation-about-script-George-you-can-type-this-sht-but-you-sure-cant-say-it" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Geek');">(2 comments)</a></td>
                     </tr>      <tr>
                         <td class="alsoOnFarkLabel"><a href="https://www.fark.com/entertainment/">Entertainment</a></td>
-                         <td><a target="_blank" href="https://www.fark.com/goto/10459186" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Entertainment');">The trailer for HBO's documentary about rapper Meek Mill's experience with the justice system is here, and it seems as if someone thought celebrity was a shield from prosecution</a> ( <a rel="nofollow" class="outbound_link id10459186 " data-farkdomain="deadline.com" target="_blank" href="https://www.fark.com/goto/10459186">deadline.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10459186/The-trailer-for-HBOs-documentary-about-rapper-Meek-Mills-experience-with-justice-system-is-here-it-seems-as-if-someone-thought-celebrity-was-a-shield-from-prosecution" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Entertainment');">(8 comments)</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10614529" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Entertainment');">Get ready for more earworms courtesy of Frozen 2</a> ( <a rel="nofollow" class="outbound_link id10614529 " data-farkdomain="msn.com" target="_blank" href="https://www.fark.com/goto/10614529">msn.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10614529/Get-ready-for-more-earworms-courtesy-of-Frozen-2" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Entertainment');">(4 comments)</a></td>
                     </tr>      <tr>
                         <td class="alsoOnFarkLabel"><a href="https://www.fark.com/dawww/">D'awww</a></td>
-                         <td><a target="_blank" href="https://www.fark.com/goto/10459729" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'D\'awww');">A zorse is a zorse, of course of course</a> ( <a rel="nofollow" class="outbound_link id10459729 " data-farkdomain="boredpanda.com" target="_blank" href="https://www.fark.com/goto/10459729">boredpanda.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10459729/A-zorse-is-a-zorse-of-course-of-course" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'D\'awww');">(6 comments)</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10614332" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'D\'awww');">This woman was awarded $35,000 for bringing an animal shelter's kill rate from 100 percent to 0 in one year. Is it dusty in here or what?</a> ( <a rel="nofollow" class="outbound_link id10614332 " data-farkdomain="fox43.com" target="_blank" href="https://www.fark.com/goto/10614332">fox43.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10614332/This-woman-was-awarded-$35000-for-bringing-an-animal-shelters-kill-rate-from-100-percent-to-0-in-one-year-Is-it-dusty-in-here-what" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'D\'awww');">(0 comments)</a></td>
                     </tr>      <tr>
                         <td class="alsoOnFarkLabel"><a href="https://www.fark.com/food/">Food</a></td>
-                         <td><a target="_blank" href="https://www.fark.com/goto/10459808" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Food');">How to cook your steak over-easy and your eggs medium-rare</a> ( <a rel="nofollow" class="outbound_link id10459808 " data-farkdomain="skillet.lifehacker.com" target="_blank" href="https://www.fark.com/goto/10459808">skillet.lifehacker.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10459808/How-to-cook-your-steak-over-easy-your-eggs-medium-rare" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Food');">(6 comments)</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10614400" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Food');">Jimmy Dean's sausage-scented wrapping paper is back. Some things deserve to be ripped to pieces</a> ( <a rel="nofollow" class="outbound_link id10614400 " data-farkdomain="delish.com" target="_blank" href="https://www.fark.com/goto/10614400">delish.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10614400/Jimmy-Deans-sausage-scented-wrapping-paper-is-back-Some-things-deserve-to-be-ripped-to-pieces" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Food');">(2 comments)</a></td>
                     </tr>      <tr>
                         <td class="alsoOnFarkLabel"><a href="https://www.fark.com/politics/">Politics</a></td>
-                         <td><a target="_blank" href="https://www.fark.com/goto/10459786" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Politics');">It's easy to be a fan of Trump in states like Indiana and South Carolina where you're less likely to have a job to distract you</a> ( <a rel="nofollow" class="outbound_link id10459786 " data-farkdomain="cnbc.com" target="_blank" href="https://www.fark.com/goto/10459786">cnbc.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10459786/Its-easy-to-be-a-fan-of-Trump-in-states-like-Indiana-South-Carolina-where-youre-less-likely-to-have-a-job-to-distract-you" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Politics');">(22 comments)</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10614808" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Politics');">Why'd you make me hit you?</a> ( <a rel="nofollow" class="outbound_link id10614808 " data-farkdomain="twitter.com" target="_blank" href="https://www.fark.com/goto/10614808">twitter.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10614808/Whyd-you-make-me-hit-you" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Politics');">(25 comments)</a></td>
+                    </tr>      <tr>
+                        <td class="alsoOnFarkLabel"><a href="https://www.fark.com/podcast/">Podcast</a></td>
+                         <td><a target="_blank" href="https://www.fark.com/goto/10610890" rel="nofollow" onclick="ga('send', 'event', 'Also on Fark Links', 'Outbound Click', 'Podcast');">If you're going to be charged with putting razor blades in Halloween buckets be sure to blame the 3-year old. Also, candy wine pairings, and wanton high speed destruction #freehongkong</a> ( <a rel="nofollow" class="outbound_link id10610890 " data-farkdomain="podcasts.apple.com" target="_blank" href="https://www.fark.com/goto/10610890">podcasts.apple.com</a> ) »&nbsp;<a href="https://www.fark.com/comments/10610890/If-youre-going-to-be-charged-with-putting-razor-blades-in-Halloween-buckets-be-sure-to-blame-3-year-old-Also-candy-wine-pairings-wanton-high-speed-destruction-freehongkong" target="_top" onclick="ga('send', 'event', 'Also on Fark Links', 'Internal Click', 'Podcast');">(13 comments)</a></td>
                     </tr>  </tbody>
         </table>   <ul id="footerFarkLinks">
-        <li>Fark :: <a href="https://www.fark.com/">Main</a> | <a href="https://www.fark.com/discussion/">Discussion</a> | <a href="https://www.fark.com/sports/">Sports</a> | <a href="https://www.fark.com/business/">Business</a> | <a href="https://www.fark.com/geek/">Geek</a> | <a href="https://www.fark.com/entertainment/">Entertainment</a> | <a href="https://www.fark.com/dawww/">D'awww</a> | <a href="https://www.fark.com/food/">Food</a> | <a href="https://www.fark.com/politics/">Politics</a></li>
+        <li>Fark :: <a href="https://www.fark.com/">Main</a> | <a href="https://www.fark.com/discussion/">Discussion</a> | <a href="https://www.fark.com/sports/">Sports</a> | <a href="https://www.fark.com/business/">Business</a> | <a href="https://www.fark.com/geek/">Geek</a> | <a href="https://www.fark.com/entertainment/">Entertainment</a> | <a href="https://www.fark.com/dawww/">D'awww</a> | <a href="https://www.fark.com/food/">Food</a> | <a href="https://www.fark.com/politics/">Politics</a> | <a href="https://www.fark.com/podcast/">Podcast</a></li>
         <li>Total Fark :: <a href="https://total.fark.com/">TotalFark</a> | <a href="https://total.fark.com/live/">TF Live</a> | <a href="https://total.fark.com/advice/">TF Advice</a> | <a href="https://total.fark.com/tfdiscussion/">TF Discussion</a> | <a href="https://total.fark.com/commented/">Commented</a> | <a href="https://total.fark.com/linkvote/">Top Voted</a> | <a href="https://total.fark.com/greenlit/">Greenlit</a></li>
         <li>FArQ :: <a href="https://www.fark.com/farq/about#What_is_Fark.3F">About Us</a> | <a href="https://www.fark.com/farq/faq#Quick_Answers">Quick Answers</a> | <a href="https://www.fark.com/farq/posting#Posting_Rules">Posting Rules</a> | <a href="https://www.fark.com/farq/farkisms#Farkisms">Farkisms</a></li>
         <li>Contests :: <a href="https://www.fark.com/topic/photoshop">Photoshop</a> | <a href="https://www.fark.com/topic/farktography">Farktography</a> | <a href="https://www.fark.com/topic/caption">Caption</a></li>
@@ -608,7 +675,7 @@ var loadNewer = new Vue({
     </ul>
     <p class="submitLinkcontainer"><a href="https://www.fark.com/submit/" class="submitLink">Submit a Link »</a></p>
     <p id="copyrightInfo">
-        Copyright © 1999 - 2019 Fark, Inc | Last updated: Jun 24 2019 19:04:11<br>
+        Copyright © 1999 - 2019 Fark, Inc | Last updated: Nov 08 2019 17:47:17<br>
         <a href="https://www.fark.com/feedback">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.fark.com/feedback/error">Report a bug/error msg</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.fark.com/advertise">Advertise on Fark</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.fark.com/farq/legal">Terms of service/legal/privacy policy</a><br>
 <img src="https://www.fark.com/ll" width="4" height="1" alt="">  </p>
 
@@ -633,10 +700,32 @@ var loadNewer = new Vue({
     });
 </script>
   <noscript>
-<img src="https://farkimg.sfo2.cdn.digitaloceanspaces.com/imagesnoc/trans.gif?usertype=Lurker" width="16" height="1" alt="">
+<img src="https://img.fark.net/imagesnoc/trans.gif?usertype=Lurker" width="16" height="1" alt="">
 </noscript>
 
     <div class="ad_container bottom">  <div id="bottomAd728x90"><script src="https://www.fark.com/aptminus/size1"></script></div>  <div class="reportAdBlock"><a href="https://www.fark.com/feedback/" onclick="reportAd('bottomAd728x90'); return false;">Report</a></div>    </div> <br><br>
 
-  
+  <div id="modal">
+        <a href="#" onclick="Custombox.modal.close()" class="modal_close">X</a>
+
+        <div class="modal_header">
+            <span class="modal_header_title"></span>
+        </div>
+        <div class="modal_content"></div>
+    </div>
+    <script>
+        // Instantiate new modal
+        fark.modal = new Custombox.modal({
+            content: {
+                effect: 'fadein',
+                target: '#modal',
+                onClose: function() {
+                    // clear classes when closing
+                    document.getElementById("modal").className = ''; 
+                }
+            }
+        });
+    </script>
+
+
 </body></html>
