@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dts.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516215425id_/https%3A//dts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dts.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108043103id_/https%3A//dts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DTS
 
