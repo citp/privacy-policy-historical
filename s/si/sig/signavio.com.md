@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the signavio.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322144947id_/https%3A//www.signavio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signavio.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108152648id_/https%3A//www.signavio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Signavio
 
@@ -62,9 +62,14 @@ _sgnv_current_lang | Internal | 1 year | Persistent | This cookie is used to sto
 _sgnv_detected_country_code | Internal | Session duration | Transient | This cookie is used to store the information related to the country user belongs to, this is made starting from user’s IP.  
 _sgnv_usr_lang | Internal | 1 day | Persistent | This cookie is used to store first language initially chosen by the user according to browser language settings.  
 _sgnv_usr_loc | Internal | 1 day | Persistent | This cookie stores information about the user’s location and it is used to serve content related to that.  
-SL_C_23361dd035530_KEY | Smartlook | 2 years | Persistent | Project key.  
-SL_C_23361dd035530_SID | Smartlook | 2 years | Persistent | Session ID, that is assigned to each new session that is being recorded.  
-SL_C_23361dd035530_VID | Smartlook | 2 years | Persistent | Visitor ID, assigned to each new visitor.  
+_hjClosedSurveyInvites | Hotjar | 1 year | Persistent | This cookie is set once a visitor interacts with a Survey invitation modal popup. It is used to ensure that the same invite does not re-appear if it has already been shown.  
+_hjDonePolls | Hotjar | 1 year | Persistent | This cookie is set once a visitor completes a poll using the Feedback Poll widget. It is used to ensure that the same poll does not re-appear if it has already been filled in.  
+_hjMinimizedPolls | Hotjar | 1 year | Persistent | This cookie is set once a visitor minimizes a Feedback Poll widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  
+_hjDoneTestersWidgets |  Hotjar |  1 year | Persistent | This cookie is set once a visitor submits their information in the Recruit User Testers widget. It is used to ensure that the same form does not re-appear if it has already been filled in.  
+_hjMinimizedTestersWidgets |  Hotjar |  1 year | Persistent | This cookie is set once a visitor minimizes a Recruit User Testers widget. It is used to ensure that the widget stays minimizes when the visitor navigates through your site.  
+_hjIncludedInSample |  Hotjar |  1 year | Persistent | This session cookie is set to let Hotjar know whether that visitor is included in the sample which is used to generate funnels.  
+_hjShownFeedbackMessage |  Hotjar |  1 year | Persistent | This cookie is set when a visitor minimizes or completes Incoming Feedback. This is done so that the Incoming Feedback will load as minimized immediately if they navigate to another page where it is set to show.  
+_hjid |  Hotjar |  1 year | Persistent | This cookie is set when the customer first lands on a page with the Hotjar script. It is used to persist the random user ID, unique to that site on the browser. This ensures that behavior in subsequent visits to the same site will be attributed to the same user ID.  
 _gat | Google Analytics | 1 minute | Persistent | This cookie is used to throttle request rate.  
 _ga | Google Analytics | 2 years | Persistent | This cookie is used Used to distinguish users.  
 _gid | Google Analytics | 1 day | Persistent | This cookie is used Used to distinguish users.  
@@ -74,6 +79,9 @@ JSESSIONID | Jira | Session duration | Transient | This is Jira’s session cook
 seraph.rememberme.cookie | Jira | 14 days | Persistent | This cookie recognizes your login details when clicking the remember me box.  
 atlassian.xsrf.token | Jira | Session duration | Transient | Helps prevent XSRF attacks. Ensures that during a user’s session, browser requests sent to a Jira server originated from that Jira server.  
 _uetmsclkid | Bing | 90 days | Persistent | This cookie saves the user ID and optimizes the Universal Event Trackings.  
+_nauid | N.Rich | 540 days | Persistent | Cookie ID: Unique identifier of user’s browser.  
+N.RICH_PRIVACY_INFORMATION | N.Rich | 540 days | Persistent | Link to N.Rich Privacy Notice and Opt out page.  
+_nrich_opt-out | N.Rich | Perpetual | Persistent | Indicates that user has opted out. No other cookies will be set.  
   
 (3) When using Signavio Products more cookies will be stored to provide all functions of our software. To prevent the storage of such cookies please adjust your browser settings accordingly.
 
@@ -116,9 +124,9 @@ More information can be found at: <https://www.logmeininc.com/en/legal/privacy>.
 
 (6) **Atlassian** : We use Jira, a service by Atlassian Pty Ltd, to provide a service portal for the coordination and handling of customer inquiries. Therefore, if you use our support services we process your email address and name. In the course of this, we use cookies which are mentioned in the table above. All data is stored on a server in Germany which is hosted by us and no data is transferred to Atlassian.
 
-(7) **Smartlook** : For analysis purposes, we use Smartlook. Through this service, we can gather anonymous evaluations regarding user’s behaviour and therefore, we are able to improve our offerings.  
-For this evaluation, cookies (see above) are stored on your computer. The information collected in this way is stored by Smartlook exclusively on a server hosted within the EU.  
-The storage of cookies and the exchange of data with Smartlook can be prevented by enrolling in the opt-out option provided above.
+(7) **Hotjar** : For analysis purposes, we use Hotjar. Through this service, we can gather anonymous evaluations regarding user’s behaviour and therefore, we are able to improve our offerings.  
+For this evaluation, cookies (see above) are stored on your computer. The information collected in this way is stored by Hotjar exclusively on a server hosted within the EU.  
+The storage of cookies and the exchange of data with Hotjar can be prevented by enrolling in the opt-out option provided above.
 
 (8) **LinkedIn** : In order to display individual advertisings on the networking portal LinkedIn’s websites and to get an analysis of user’s behaviour on our website, we use the service “LinkedIn Insight Tag”. Hereby, different types of data regarding type and duration of a website visit are collected, however only IP-addresses are personal data amongst the collected data. This service exclusively applies to users which are registered users of LinkedIn services.
 
@@ -126,6 +134,9 @@ The storage of cookies and the exchange of data with Smartlook can be prevented 
 Microsoft might also track your user behaviour across multiple devices and could therefore offer personalized ads.  
 The storage of cookies and the exchange of data with Bing can be prevented by enrolling in the opt-out option provided above.  
 For more information about Bing Event Tracking (UET) please visit <https://help.bingads.microsoft.com/#apex/3/de/53056/2>.
+
+(10) **N.Rich** : On our website we use N.Rich Smart Audience Tag from N Technologies Inc. (https://n.rich). N.Rich associates end user behavior data to the specific company’s IP address, which is being used for the website visit or that the visitor has used before browsing other websites including N.Rich Tag. Furthermore, N.Rich associates your behavior to a cookie stored to your browser enabling tracking you on consecutive sessions on our website and on other websites including N.Rich Tag. N.Rich enables us to gather analytical data about your interests towards our content and offerings on our website and on other websites with N.Rich tag. WeiN.Rich further enables us to target personalized advertising to you based on your company association and other data that could help us deliver more relevant content and advertising. The data gathered remains anonymous for us, offering us no way to determine the identity of the users. The data is saved and processed by N Technologies in accordance to N Technologies Privacy Notice: <https://n.rich/privacy-notice>.  
+The storage of cookies and the exchange of data with N.Rich can be prevented by enrolling in the opt-out option provided above or you can opt-out by using N.Rich’s Opt-out form: <https://app.nrich.ai/optout/>.
 
 ### § 6 Emails from Signavio
 
@@ -140,4 +151,4 @@ You can object to this tracking at any time by informing us via the contact prov
 
 You can revoke your consent to having your data processed at any time. Likewise, you may object to our processing of your personal data for advertising and data analysis at any time. You can send us your concerns by sending an email to [dataprotection@signavio.com](mailto:dataprotection@signavio.com).
 
-Version: February 13th, 2019
+Version: August 20th, 2019
