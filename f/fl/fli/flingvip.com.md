@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flingvip.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230026id_/https%3A//camster.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flingvip.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108231234id_/https%3A//camster.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Camster - Free live cam models and sex chat
 
