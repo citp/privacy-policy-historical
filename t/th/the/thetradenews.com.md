@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetradenews.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430170854id_/https%3A//www.thetradenews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetradenews.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108095901id_/https%3A//www.thetradenews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The TRADE
 
