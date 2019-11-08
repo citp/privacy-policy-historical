@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikifixes.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317223013id_/https%3A//wikifixes.com/pages/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikifixes.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108092905id_/https%3A//wikifixes.com/pages/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
