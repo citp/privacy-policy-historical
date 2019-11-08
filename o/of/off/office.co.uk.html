@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the office.co.uk privacy policy that was archived on 2019-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190522163913id_/https%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the office.co.uk privacy policy that was archived on 2019-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191108084927id_/https%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,24 +9,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 <meta name="apple-itunes-app" content="app-id=472905738"><link rel="canonical" href="https://www.office.co.uk/view/content/privacy-info-page"><link rel="manifest" href="/assets/manifest.json">
 
-<link rel="alternate" hreflang="de" href="https://www.officelondon.de/view/content/privacy-info-page">
-    <link rel="icon" href="//media.office.co.uk/office/styles/images/icon.ico?version=3.7d" type="image/x-icon">
-
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDV4Z5"></script><script>
-    // Progressive font loading with font events
-    !function(){if(sessionStorage.fontsLoaded){var a=JSON.parse(sessionStorage.getItem("fonts"));a.forEach(function(a){document.documentElement.classList.add(a)})}}();
-</script>
+<link rel="alternate" hreflang="de" href="https://www.officelondon.de%2Fview%2Fcontent%2Fprivacy-info-page">
+    <link rel="icon" href="//media.office.co.uk/office/styles/images/icon.ico?version=5.0" type="image/x-icon">
 
 <!--Optimization is ON -->
-	   <link rel="stylesheet" type="text/css" href="//media.office.co.uk/_ui/responsive/site-office/css/style-concat-min.css?version=3.7d">
-	<!-- ********************* Load Bootstrap JS and from _ui folder *********************************** -->
- <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->
-<script src="https://cdn.polyfill.io/v2/polyfill.js?features=default-3.6,es2015,es2016,es2017,es2018,fetch,NodeList.prototype.forEach,NodeList.prototype.@@iterator"></script>
+	   <link rel="stylesheet" type="text/css" href="//media.office.co.uk/_ui/responsive/site-office/css/style.css?version=5.0">
+	<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700" rel="stylesheet"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KDV4Z5"></script><script src="https://cdn.polyfill.io/v2/polyfill.js?features=default-3.6,es2015,es2016,es2017,es2018,fetch,NodeList.prototype.forEach,NodeList.prototype.@@iterator"></script>
 <script type="text/javascript">
     if (window.NodeList && !NodeList.prototype.forEach) {
         NodeList.prototype.forEach = function (callback, thisArg) {
@@ -52,123 +41,11 @@ function isHashedUserId (userId) {
     return true;
 }
 var userIdVal = getCookie('userId');
-console.log('before deleting ', getCookie('userId'));
 if( userIdVal === 'anonymous' || isHashedUserId( userIdVal ) ){
-    document.cookie = 'userId=""; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    document.cookie = 'userId=""; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;secure';
 }
-console.log('after delete, before Monetate', getCookie('userId'));
 </script>
-<script src="//media.office.co.uk/_ui/responsive/site-office/../common/js/analyticsmediator.js?version=3.7d"></script>
 
-<link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,800,800i%7CQuicksand:400%7CRoboto+Condensed:400" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,600,600i,700,800,800i%7CQuicksand:400%7CRoboto+Condensed:400"></noscript>
-
-<script type="text/javascript">
-/*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
-/* This file is meant as a standalone workflow for
-- testing support for link[rel=preload]
-- enabling async CSS loading in browsers that do not support rel=preload
-- applying rel preload css once loaded, whether supported or not.
-*/
-(function( w ){
-	"use strict";
-	// rel=preload support test
-	if( !w.loadCSS ){
-		w.loadCSS = function(){};
-	}
-	// define on the loadCSS obj
-	var rp = loadCSS.relpreload = {};
-	// rel=preload feature support test
-	// runs once and returns a function for compat purposes
-	rp.support = (function(){
-		var ret;
-		try {
-			ret = w.document.createElement( "link" ).relList.supports( "preload" );
-		} catch (e) {
-			ret = false;
-		}
-		return function(){
-			return ret;
-		};
-	})();
-
-	// if preload isn't supported, get an asynchronous load by using a non-matching media attribute
-	// then change that media back to its intended value on load
-	rp.bindMediaToggle = function( link ){
-		// remember existing media attr for ultimate state, or default to 'all'
-		var finalMedia = link.media || "all";
-
-		function enableStylesheet(){
-			link.media = finalMedia;
-		}
-
-		// bind load handlers to enable media
-		if( link.addEventListener ){
-			link.addEventListener( "load", enableStylesheet );
-		} else if( link.attachEvent ){
-			link.attachEvent( "onload", enableStylesheet );
-		}
-
-		// Set rel and non-applicable media type to start an async request
-		// note: timeout allows this to happen async to let rendering continue in IE
-		setTimeout(function(){
-			link.rel = "stylesheet";
-			link.media = "only x";
-		});
-		// also enable media after 3 seconds,
-		// which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
-		setTimeout( enableStylesheet, 3000 );
-	};
-
-	// loop through link elements in DOM
-	rp.poly = function(){
-		// double check this to prevent external calls from running
-		if( rp.support() ){
-			return;
-		}
-		var links = w.document.getElementsByTagName( "link" );
-		for( var i = 0; i < links.length; i++ ){
-			var link = links[ i ];
-			// qualify links to those with rel=preload and as=style attrs
-			if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
-				// prevent rerunning on link
-				link.setAttribute( "data-loadcss", true );
-				// bind listeners to toggle media back
-				rp.bindMediaToggle( link );
-			}
-		}
-	};
-
-	// if unsupported, run the polyfill
-	if( !rp.support() ){
-		// run once at least
-		rp.poly();
-
-		// rerun poly on an interval until onload
-		var run = w.setInterval( rp.poly, 500 );
-		if( w.addEventListener ){
-			w.addEventListener( "load", function(){
-				rp.poly();
-				w.clearInterval( run );
-			} );
-		} else if( w.attachEvent ){
-			w.attachEvent( "onload", function(){
-				rp.poly();
-				w.clearInterval( run );
-			} );
-		}
-	}
-
-
-	// commonjs
-	if( typeof exports !== "undefined" ){
-		exports.loadCSS = loadCSS;
-	}
-	else {
-		w.loadCSS = loadCSS;
-	}
-}( typeof global !== "undefined" ? global : this ) );
-</script>
 <script type="text/javascript">
     var OFFICE = OFFICE || {};
     OFFICE.carousels = [];
@@ -180,75 +57,16 @@ console.log('after delete, before Monetate', getCookie('userId'));
         OFFICE.qtips.push({id: id, params: params});
     }
 </script>
+<script src="https://www.google.com/recaptcha/api.js?render=explicit"></script>
+<script>
+    // Picture element HTML5 shiv
+    document.createElement( "picture" );
+</script>
+<script src="//media.office.co.uk/_ui/responsive/site-office/../shared/js/plugins/picturefill.min.js?version=5.0" async=""></script>
 
-<!--Optimization is ON -->
-	   <script src="//media.office.co.uk/_ui/responsive/site-office/../common/js/office-responsive-header-min.js?version=3.7d"></script>
-	
-
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-		
-	
-	
-	<script type="text/javascript">
-        (function() {
-            var bvapiUrl = window.location.protocol + "//display.ugc.bazaarvoice.com/static/officeshoes/en_GB/bvapi.js";
-
-            function getScript(url, callback) {
-                var head = document.getElementsByTagName("head")[0] ||
-                        document.documentElement,
-                    script = document.createElement("script");
-                script.src = url;
-                script.type = "text/javascript";
-                script.charset = "utf-8";
-                script.setAttribute("async", "async");
-                script.onload = script.onreadystatechange = function () {
-                    if (!this.readyState || this.readyState === "loaded" ||
-                        this.readyState === "complete") {
-                        script.onload = script.onreadystatechange = null;
-                        callback();
-                    }
-                };
-                head.insertBefore(script, head.firstChild);
-            }
-
-            // work around Firefox 3.0, 3.5 lack of document.readyState
-            // property.
-            // Note: Because of this workaround, the <script> fragment must
-            // be included within the <head> or <div> element so that it
-            // executes before the window load event is fired.
-
-            var docReady, onDocReady = function(){docReady = true;};
-            if (document.readyState === undefined && document.addEventListener)
-            {
-                document.addEventListener("DOMContentLoaded", onDocReady,
-                    false);
-                window.addEventListener("load", onDocReady, false);
-            }
-
-            window.loadBazaarvoiceApi = function(callback) {
-                if (window.$BV) {
-                    callback();
-                } else {
-                    getScript(bvapiUrl, function() {
-                        if (docReady) {
-                            $BV.docReady();
-                        }
-                        callback();
-                    });
-                }
-            };
-        })();
-	</script>
-<title></title>
+<script src="//media.office.co.uk/_ui/responsive/site-office/../site-office/js/header-scripts.min.js?version=5.0"></script>
+        <script src="//media.office.co.uk/_ui/responsive/site-office/../site-office/js/header-legacy.min.js?version=5.0"></script>
+	<title></title>
 
 
 
@@ -319,7 +137,7 @@ console.log('after delete, before Monetate', getCookie('userId'));
                     type: 'PRODUCT',
                     data: [sku_id]
                 },
-                url: window.location.href.replace(base_product, sku_id),
+                url: encodeURI(window.location.href.replace(base_product, sku_id)),
                 countAsPageview: true
             };
             DY.API('spa', DYEvent);
@@ -378,7 +196,7 @@ console.log('after delete, before Monetate', getCookie('userId'));
         var removed = {};
         for (var i in QLJS.miniCartData.items){
             var cartItem = QLJS.miniCartData.items[i];
-            if (cartItem.entryNumbers != entryNumbers){
+            if (cartItem.entryNumbers[0] !== entryNumbers[0]){
                 items.push({
                     productId: cartItem.product.code,
                     quantity: cartItem.quantity,
@@ -486,19 +304,20 @@ console.log('after delete, before Monetate', getCookie('userId'));
         });
     });
 
-    async function sha256(message) {
-        // encode as UTF-8
-        const msgBuffer = new TextEncoder('utf-8').encode(message);
+    function sha256(message) {
+        return new Promise(function(resolve, reject) {
+            var msgBuffer = new TextEncoder('utf-8').encode(message);
+            crypto.subtle.digest('SHA-256', msgBuffer).then(function(hashBuffer){
+                // convert ArrayBuffer to Array
+                var hashArray = Array.from(new Uint8Array(hashBuffer));
 
-        // hash the message
-        const hashBuffer = await crypto.subtle.digest('SHA-256', msgBuffer);
-
-        // convert ArrayBuffer to Array
-        const hashArray = Array.from(new Uint8Array(hashBuffer));
-
-        // convert bytes to hex string
-        const hashHex = hashArray.map(b => ('00' + b.toString(16)).slice(-2)).join('');
-        return hashHex;
+                // convert bytes to hex string
+                var hashHex = hashArray.map(function(b){
+                    return ('00' + b.toString(16)).slice(-2);
+                }).join('');
+                resolve(hashHex);
+            });
+        });
     }
 
     window.mediator.subscribe("trackCartRecreation", function(miniCartData) {
@@ -526,12 +345,23 @@ console.log('after delete, before Monetate', getCookie('userId'));
 
 
 
+
+
+
+
+
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><script type="text/javascript" async="" src="https://d16fk4ms6rqz1v.cloudfront.net/capture/OFFICE.js"></script></head>
-    <body id="body">
+
+    
+    
+    
+    <body id="body" class="body ">
     	
 
 
     
+
 
 
 
@@ -575,662 +405,506 @@ console.log('after delete, before Monetate', getCookie('userId'));
 
 
 
-<header class="privacy-info-page" id="header">
+
+
+
+
+
+
+
+
+
+
+
+<header class="header privacy-info-page " id="header">
 	<nav class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation" id="slide-nav">
 		
-			
-
-<div class="headerPromos headerPromosTop hidden-xs">
-    <div class="container">
-        <div class="row">
-            <ul>
-			    <li class="col-sm-4 col-md-3 text-center"><a href="/view/content/deliveryinfo-page">FREE UK Standard Delivery*</a></li>
-				<li class="col-sm-4 col-md-3 text-center"><a href="/view/content/clickandcollectinfo-page">FREE UK Click + Collect</a></li>
-				<li class="hidden-sm col-md-3 text-center"><a href="/view/content/deliveryinfo-page">Next Day Delivery - Order by 9pm</a></li>
-   <!--  <li class="hidden-sm col-md-3 text-center"><a href="/studentdiscount">10% off for Students</a></li> -->
-                   <li class="col-sm-4 col-md-3 text-center currency">
-                    Currency: <select data-show-tick="false" data-tick-icon="" class="currency-select">
-                    </select>
-                </li>
-            </ul>
+		    
+			        <div class="c-promoSwiper" style="background-color: rgb(146 116 174)">
+    <div class="swiper-container container-flex">
+        <div class="swiper-wrapper row-flex">
+            <div class="swiper-slide col-s-24 col-l-6"><a href="https://www.office.co.uk/view/search?search=sale&amp;SHOE+TYPE=Ankle+Boots|Boots|Knee+High+Boots" style="color: white;
+">Up to 70% off Boots</a>
+</div>
+            <div class="swiper-slide col-s-24 col-l-6"><a href="https://www.office.co.uk/view/search?search=sale" style="color: white;
+">Shop All Sale</a>
+</div>
+            <div class="swiper-slide col-s-24 col-l-6"><a href="https://www.office.co.uk/view/content/deliveryinfo-page" style="color: white;
+">Free UK sale delivery over £60</a>
+</div>
+            <div class="swiper-slide col-s-24 col-l-6"><a href="https://www.office.co.uk/studentdiscount" style="color: white;
+">10% Student Discount</a>
+</div>
         </div>
+        <div class="swiper-pagination"></div>
     </div>
 </div>
 		
-		<div class="container clear relative">
+		<div class="container-flex clear relative">
 			
 				
 
-<div class="navbar-header">
-    <a class="navbar-toggle"> 
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-burger"></span>
+<div class="navbar-header navbar-item navbar-item--center">
+    <a href="/" class="navbar-brand" title="Office">
+        <img class="img-responsive" src="/_ui/responsive/site-office/images/office-logo.svg" border="0" alt="Office logo">
     </a>
-    <a class="navbar-brand" rel="home" href="/" title="Office"><img class="img-responsive" src="/_ui/responsive/site-office/images/office-logo.png" alt="Office logo"></a>
 </div>
 			
 				
 
-<div id="slidemenu"> 
-<ul class="nav navbar-nav">
-<li class="dropdown">
- <a href="/womens" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-="" expanded="false">Hers</a>
- <ul class="dropdown-menu multi-column columns-6" role="menu">
-  <div class="row">
-   <div class="col-sm-3 col-md-2 no-border">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Category</h5></li>
-     <li><a href="/womens?pageSize=150&amp;sort=releaseDate&amp;SHOP+BY=New+in">New In</a></li>
-	 <li><a href="/womens/new-season">New Season Trends</a></li>  
-     <li><a href="/womens/vegan-shoes">Vegan Shoes</a></li>
-     <li><a href="/womens/holiday-shop">Holiday Shop</a></li>
-     <li><a href="/womens/animal-print">Animal Print</a></li>
-     <li><a href="/view/search?search=mini+me">Mini Me</a></li>
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-     <li><a href="/womens?SHOP+BY=hers"><strong>Womens Shoes</strong></a></li>
-     <li><a href="/womens/ballet-shoes">Ballet Shoes</a></li>
-     <li><a href="/womens/espadrilles">Espadrilles</a></li>
-     <li><a href="/flats/womens">Flats</a></li>
-     <li><a href="/womens/loafers">Loafers</a></li>
-     <li><a href="/sandals/womens">Sandals</a></li>     
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-     <li><a href="/view/search?search=womens+heels"><strong>All Heels</strong></a></li>
-     <li><a href="/highheels/womens">High Heels</a></li>
-     <li><a href="/view/search?search=womens+heeled+sandals">Heeled Sandals</a></li>
-     <li><a href="/view/search?search=partybootstrend">Heeled Boots</a></li>   
-     <li><a href="/midheels/womens">Mid Heels</a></li>
-     <li><a href="/womens/wedges">Wedges</a></li>
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>&nbsp;</h5></li>
-    <li><a href="/womens/boots"><strong>Womens Boots</strong></a></li>
-     <li><a href="/ankleboots">Ankle Boots</a></li>
-     <li><a href="/chelseaboots/womens">Chelsea Boots</a> </li>
-     <li><a href="/kneeboots/womens">Knee Boots</a></li>
-     <li><a href="/overthekneeboots/womens">Over the Knee Boots</a></li>  
-     <li><a href="/view/search?drp1&amp;search=shoeboots&amp;SHOP+BY=hers">Shoe Boots</a></li>  
-     <li><a href="/wellies/womens">Wellies</a></li>  
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-      <li><a href="/womens/trainers"><strong>Womens Trainers</strong></a></li>
-     <li><a href="/Chunky-Trainers">Chunky Trainers</a></li>
-      <li><a href="/womens/fashion-trainers">Fashion Trainers</a></li>
-     <li><a href="/womens/trainers?COLOUR=black">Black Trainers</a></li>
-     <li><a href="/womens/trainers?COLOUR=white">White Trainers</a></li>
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-     <li><a href="/accessories"><strong>Accessories</strong></a></li>
-     <li><a href="/accessories/backpacks">Backpacks</a></li>
-     <li><a href="/accessories/socks">Socks</a></li>
-     <li><a href="/accessories/shoe-care-and-laces">Shoe Care &amp; Laces</a></li>
-     <li><a href="/accessories/bags-and-purses">Bags</a></li>
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Brands</h5></li>
-     <li><a href="/womens?BRAND=office"><strong>OFFICE</strong></a></li>
-     <li><a href="/view/search?search=o+by+office">O By OFFICE</a></li>
-     <li><a href="/womens?BRAND=adidas">adidas</a></li>
-     <li><a href="/womens?BRAND=birkenstock">Birkenstock</a></li>
-     <li><a href="/brand/Buffalo">Buffalo</a></li>
-     <li><a href="/womens?BRAND=converse">Converse</a></li>
-     <li><a href="/womens?BRAND=dr.+martens">Dr. Martens</a></li>
-     <li><a href="/womens?BRAND=Fila">Fila</a></li>
-     <li><a href="/womens?BRAND=havaianas">Havaianas</a></li>
-     <li><a href="/womens?BRAND=nike">Nike</a></li>
-     <li><a href="/womens?BRAND=puma">Puma</a></li>
-     <li><a href="/womens?BRAND=salt+water">Salt Water</a></li>
-     <li><a href="/womens?BRAND=ted+baker">Ted Baker</a></li>
-     <li><a href="/womens?BRAND=timberland">Timberland</a></li>
-     <li><a href="/womens?BRAND=ugg">UGG</a></li>
-   <li><a href="/womens?BRAND=vagabond">Vagabond</a></li>
-     <li><a href="/womens?BRAND=vans">Vans</a></li>     
-     <li><a href="/brand/Veja">Veja</a></li>
-     <li>&nbsp;</li>
-     <li><a href="/brand"><strong>View All Brands A-Z</strong></a></li>
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Shoe Diary</h5></li>
-     <li><a href="/blog/">Read The Blog</a></li>
-	 <li><a href="/summerinthecity">Summer in the city</a></li>
-	  <li><a href="/view/content/holiday_shop">The Holiday Shop</a></li>
-     <li><a href="/blog/brands/nike-unite-collection-meet-confetti-crowd-the-shoe-diary/">Nike Unite Collection </a></li>
-     <li><a href="/brand/converse/exclusives">Converse Exclusive Edit</a></li>
+<div id="sidebar" class="nav-main navbar-item navbar-item--left">
+                                                 <div class="nav-main__header overlay__header">
+                                                     <button type="button" class="nav-main__close overlay__close icon-close"></button>
+                                                 </div>
+                                                 <!-- Women -->
+                                                 <div class="dd">
+                                                     <a class="dd__btn" href="/womens?pageSize=60&amp;SHOP+BY=hers">Women<span class="icon icon-plus"></span></a>
+                                                     <div class="dd__content container-flex">
+                                                         <div class="row-flex">
+                                                             <div class="col-s-24 col-x-4 dd__col dd__col--noborder">
+                                                                 <h3>Category</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/womens/boots" class="dd__strong">Womens Boots</a>
+                                                                 <a href="/ankleboots">Ankle Boots</a>
+                                                                 <a href="/kneeboots/womens">Knee High Boots</a>
+                                                                 <a href="/chelseaboots/womens">Chelsea Boots</a>
+                                                                 <a href="/view/search?search=western+boots">Western Boots</a>
+                                                                <a href="/bikerboots/womens">Biker Boots</a>
+                                                                 <a href="/wellies/womens" class="mb10">Wellies</a>
+                                                                 <!-- space -->
+                                                                 <a href="/womens/trainers" class="dd__strong">Womens Trainers</a>
+                                                                 <a href="/womens/trainers?COLOUR=black">Black Trainers</a>
+                                                                 <a href="/womens/trainers?COLOUR=white">White Trainers</a>
+                                                                 <a href="/Chunky-Trainers">Chunky Trainers</a>
+                                                                 <a href="/womens/fashion-trainers">Fashion Trainers</a>
+                                                                 <a href="/trainers?SHOP+BY=exclusives">Exclusive Trainers</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3 class="dd__empty">&nbsp;</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/womens?SHOP+BY=hers" class="dd__strong">Womens Shoes</a>
+                                                                 <a href="/highheels/womens">High Heels</a>
+                                                                 <a href="/midheels/womens">Mid Heels</a>
+                                                                 <a href="/womens/wedges">Wedges</a>
+                                                                 <a href="/view/search?search=womens+heels">All Heels</a>
+                                                                 <a href="/flats/womens">Flats</a>
+                                                                 <a href="/womens/loafers">Loafers</a>
+                                                                 <a href="/sandals/womens">Sandals</a>
+                                                                 <a href="/womens/espadrilles">Espadrilles</a>
+                                                                 <a href="/womens/slippers">Slippers</a>
+                                                                 <a href="/brand/ugg/slippers">UGG Slippers</a>
+                                                                 <a href="/womens/vegan-shoes">Vegan Shoes</a>
+                                                                 <a href="/online-exclusives" class="mb10">Online Only</a>
+                                                                 <!-- space -->
+                                                                 <a href="/accessories" class="dd__strong">Accessories</a>
+                                                                 <a href="/accessories/backpacks-and-bags">Backpacks &amp; Bags</a>
+                                                                 <a href="/accessories/shoe-care-and-laces">Shoe Care &amp; Laces</a>
+                                                                 <a href="/accessories/socks">Socks</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Brands</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/womens?BRAND=office" class="dd__strong">OFFICE</a>
+                                                                 <a href="/womens?BRAND=adidas">adidas</a>
+                                                                 <a href="/womens?BRAND=converse">Converse</a>
+                                                                 <a href="/womens?BRAND=dr.+martens">Dr. Martens</a>
+                                                                 <a href="/womens?BRAND=nike">Nike</a>
+                                                                 <a href="/womens?BRAND=puma">Puma</a>
+                                                                 <a href="/womens?BRAND=ted+baker">Ted Baker</a>
+                                                                 <a href="/womens?BRAND=timberland">Timberland</a>
+                                                                 <a href="/womens?BRAND=ugg">UGG</a>
+                                                                 <a href="/womens?BRAND=vagabond">Vagabond</a>
+                                                                 <a href="/womens?BRAND=vans">Vans</a>
+                                                                 <a href="/brand/Veja" class="mb10">Veja</a>
+                                                                 <!-- space -->
+                                                                 <a href="/brand" class="dd__viewall btn-link">View All Brands A-Z</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Trending</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/womens?sort=releaseDate&amp;SHOP+BY=New+in">New In</a>
+                                                                 <a href="/christmas-gifts-for-her-edit">Womens Gift Guide</a>
+                                                                 <a href="/office-editor">Office Editor Picks</a>
+                                                                 <a href="/brand/converse/exclusives" class="mb10">Converse Exclusives</a>
+                                                                 <!-- space -->
+                                                                 <a href="/christmas-gift-guide" class="social"><img src="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/HP-Icons-40x40Xmas.png" width="40" height="40" alt="Officeloves"><span>The Christmas Gift Guide</span></a>
+                                                                 <a href="/blog" class="social"><img src="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk18/OfficeReadtheBlog.png" width="40" height="40" alt="Officeloves"><span>Read The Blog</span></a>
+                                                                 <a href="https://www.instagram.com/officeshoes/" class="social"><img src="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk18/OfficeLoves.png" width="40" height="40" alt="Officeloves"><span>#officeloves</span></a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-8 dd__col">
+                                                                 <h3>Shop Ankle Boots</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/ankleboots" class="lazy-load">
+                                                                     <div class="lazy-load__spinner">
+                                                                         <div class="lazy-load__spinner-circle"></div>
+                                                                         <div class="lazy-load__spinner-circle lazy-load__spinner-inner-circle"></div>
+                                                                     </div>
+                                                                     <picture>
+                                                                         <source data-srcset="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_HERS.jpg" media="(max-width: 599px)">
+                                                                         <source data-srcset="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_HERS.jpg" media="(min-width: 600px)">
+                                                                         <img class="lazy-load__item" data-lazy="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_HERS.jpg" alt="Ankle Boots">
+                                                                     </picture>
+                                                                 </a>
+                                                             </div>
+                                                         </div>
+                                                     </div>
+                                                 </div>
+                                                 <!-- Men -->
+                                                 <div class="dd">
+                                                     <a class="dd__btn" href="/mens?pageSize=60&amp;SHOP+BY=his">Men<span class="icon icon-plus"></span></a>
+                                                     <div class="dd__content dd__col--noborder container-flex">
+                                                         <div class="row-flex">
+                                                             <div class="col-s-24 col-x-4 dd__col dd__col--noborder">
+                                                                 <h3>Category</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/mens/boots" class="dd__strong">Mens Boots</a>
+                                                                 <a href="/chelseaboots/mens">Chelsea Boots</a>
+                                                                 <a href="/mens/desert-boots">Desert Boots</a>
+                                                                 <a href="/mens/boots?COLOUR=BLACK">Black Boots</a>
+                                                                 <a href="/mens/boots?COLOUR=BROWN" class="mb10">Brown Boots</a>
+                                                                 <!-- space -->
+                                                                 <a href="/mens/trainers" class="dd__strong">Mens Trainers</a>
+                                                                 <a href="/mens/trainers?SHOP+BY=his&amp;COLOUR=Black">Black Trainers</a>
+                                                                 <a href="/mens/trainers?SHOP+BY=his&amp;COLOUR=White">White Trainers</a>
+                                                                 <a href="/mens/casual-trainers">Casual Trainers</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3 class="dd__empty">&nbsp;</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/mens?SHOP+BY=his" class="dd__strong">Mens Shoes</a>
+                                                                 <a href="/mens/smart-shoes">Smart Shoes</a>
+                                                                 <a href="/mens/casual-shoes">Casual Shoes</a>
+                                                                 <a href="/mens?SHOP+BY=his&amp;COLOUR=Black">Black Shoes</a>
+                                                                 <a href="/mens?SHOP+BY=his&amp;COLOUR=Brown">Brown Shoes</a>
+                                                                 <a href="/mens/loafers">Loafers</a>
+                                                                 <a href="/mens/brogues">Brogues</a>
+                                                                 <a href="/mens/sandals">Sandals</a>
+                                                                 <a href="/mens/slippers" class="mb10">Slippers</a>
+                                                                 <!-- space -->
+                                                                 <a href="/accessories" class="dd__strong">Accessories</a>
+                                                                 <a href="/accessories/backpacks-and-bags">Backpacks &amp; Bags</a>
+                                                                 <a href="/accessories/shoe-care-and-laces">Shoe Care &amp; Laces</a>
+                                                                 <a href="/accessories/socks">Socks</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Brands</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/mens?BRAND=Office" class="dd__strong">OFFICE</a>
+                                                                 <a href="/mens?BRAND=adidas">adidas</a>
+                                                                 <a href="/mens?BRAND=clarks+originals">Clarks Originals</a>
+                                                                 <a href="/mens?BRAND=converse">Converse</a>
+                                                                 <a href="/mens?BRAND=Dr.+Martens">Dr. Martens</a>
+                                                                 <a href="/mens?BRAND=New+Balance">New Balance</a>
+                                                                 <a href="/mens?BRAND=Nike">Nike</a>
+                                                                 <a href="/mens?BRAND=reebok">Reebok</a>
+                                                                 <a href="/mens?BRAND=Ted+Baker">Ted Baker</a>
+                                                                 <a href="/mens?BRAND=Timberland">Timberland</a>
+                                                                 <a href="/mens?BRAND=Toms">Toms</a>
+                                                                 <a href="/mens?BRAND=ugg">Ugg</a>
+                                                                 <a href="/mens?BRAND=Vans">Vans</a>
+                                                                 <a href="/mens?BRAND=Veja" class="mb10">Veja</a>
+                                                                 <!-- space -->
+                                                                 <a href="/brand" class="dd__viewall btn-link">View All Brands A-Z</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Trending</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/mens?sort=releaseDate&amp;SHOP+BY=New+in" class="dd__strong">New In</a>
+                                                                 <a href="/christmas-gifts-for-him-edit">Mens Gift Guide</a>
+                                                                 <a href="/mens/smart-shoes" class="mb10">Occasion Shop</a>
+                                                                 <!-- space -->
+                                                                  <a href="/christmas-gift-guide" class="social"><img src="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/HP-Icons-40x40Xmas.png" width="40" height="40" alt="Officeloves"><span>The Christmas Gift Guide</span></a>
+                                                                 <a href="/blog" class="social"><img src="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk18/OfficeReadtheBlog.png" width="40" height="40" alt="Officeloves"><span>Read The Blog</span></a>
+                                                                 <a href="https://www.instagram.com/officeshoes/" class="social"><img src="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk18/OfficeLoves.png" width="40" height="40" alt="Officeloves"><span>#officeloves</span></a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-8 dd__col">
+                                                                 <h3>Shop Mens Boots</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/mens/boots" class="lazy-load">
+                                                                     <div class="lazy-load__spinner">
+                                                                         <div class="lazy-load__spinner-circle"></div>
+                                                                         <div class="lazy-load__spinner-circle lazy-load__spinner-inner-circle"></div>
+                                                                     </div>
+                                                                     <img class="lazy-load__item" data-lazy="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_HIS.jpg" alt="Shop Mens Boots">
+                                                                 </a>
+                                                             </div>
+                                                         </div>
+                                                     </div>
+                                                 </div>
+                                                 <!-- Trainers -->
+                                                 <div class="dd">
+                                                     <a class="dd__btn" href="/trainers">Trainers<span class="icon icon-plus"></span></a>
+                                                     <div class="dd__content container-flex">
+                                                         <div class="row-flex">
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Brands</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/brand/adidas">adidas</a>
+                                                                 <a href="/brand/converse">Converse</a>
+                                                                 <a href="/brand/Fila">Fila</a>
+                                                                 <a href="/brand/new_balance">New Balance</a>
+                                                                 <a href="/brand/nike">Nike</a>
+                                                                 <a href="/brand/puma">Puma</a>
+                                                                 <a href="/womens/fashion-trainers?BRAND=Office">OFFICE</a>
+                                                                 <a href="/brand/reebok">Reebok</a>
+                                                                 <a href="/brand/Tommy_Hilfiger">Tommy Hilfiger</a>
+                                                                 <a href="/brand/superga">Superga</a>
+                                                                 <a href="/brand/vans">Vans</a>
+                                                                 <a href="/brand/Veja" class="mb10">Veja</a>
+                                                                 <!-- space -->
+                                                                 <a href="/brand" class="dd__viewall btn-link">View All Brands A-Z</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Collections</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/trainers/adidas/superstar">adidas Superstar</a>
+                                                                 <a href="/brand/adidas/stan-smith">adidas Stan Smith</a>
+                                                                 <a href="/trainers/adidas/gazelle">adidas Gazelle</a>
+                                                                 <a href="/view/search?search=converse+all+star">Converse All Star</a>
+                                                                 <a href="/brand/converse/exclusives">Converse Exclusives</a>
+                                                                 <a href="/view/search?search=converse+all+star+70s">Converse All Star 70's</a>
+                                                                 <a href="/brand/nike/air-force-1">Nike Air Force 1</a>
+                                                                 <a href="/view/search?search=nike+air+max">Nike Air Max 1</a>
+                                                                 <a href="/view/search?search=air+max+95">Nike Air Max 95</a>
+                                                                 <a href="/view/search?search=air+max+97">Nike Air Max 97</a>
+                                                                 <a href="/view/search?search=air+max+200">Nike Air Max 200</a>
+                                                                <a href="/brand/nike/air-max-270">Nike Air Max 270</a>
+                                                                 <a href="/view/search?search=vans+authentic">Vans Authentic</a>
+                                                                 <a href="/brand/vans/old-skool">Vans Old Skool</a>
+                                                                 <a href="/view/search?search=vans+slip+on">Vans Slip On</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Category</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/trainers" class="dd__strong">Shop All Trainers</a>
+                                                                 <a href="/christmas-gifts-trainers-edit">Trainers Gift Guide</a>
+                                                                 <a href="/womens/trainers">Womens Trainers</a>
+                                                                 <a href="/mens/trainers">Mens Trainers</a>
+                                                                 <a href="/kids/trainers ">Kids Trainers</a>
+                                                                 <a href="/trainers?COLOUR=white">White Trainers</a>
+                                                                 <a href="/trainers?COLOUR=black">Black Trainers</a>
+                                                                 <a href="/trainers?SHOP+BY=new+in">New In Trainers</a>
+                                                                 <a href="/trainers?SHOP+BY=exclusives">Exclusive Trainers</a>
+                                                                 <a href="/Chunky-Trainers">Chunky Trainers</a>
+                                                                 <a href="https://www.offspring.co.uk/">OFFSPRING</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-8 dd__col">
+                                                                 <h3>Shop Converse</h3>
+                                                                 <legend></legend>
+                                                                 <a class="lazy-load" href="/brand/converse">
+                                                                     <div class="lazy-load__spinner">
+                                                                         <div class="lazy-load__spinner-circle"></div>
+                                                                         <div class="lazy-load__spinner-circle lazy-load__spinner-inner-circle"></div>
+                                                                     </div>
+                                                                     <img class="lazy-load__item" data-lazy="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_TRAINERS.jpg" alt="Shop Converse">
+                                                                 </a>
+                                                             </div>
+                                                         </div>
+                                                     </div>
+                                                 </div>
+                                                 <!-- Kids -->
+                                                 <div class="dd">
+                                                     <a class="dd__btn" href="/kids">Kids<span class="icon icon-plus"></span></a>
+                                                     <div class="dd__content container-flex">
+                                                         <div class="row-flex">
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Category</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/kids" class="dd__strong">All Kids Shoes</a>
+                                                                 <a href="/christmas-gifts-for-kids-edit">Kids Gift Guide</a>
+                                                                 <a href="/kids/school-shoes">Kids School Shoes</a>
+                                                                 <a href="/kids/trainers">Kids Trainers</a>
+                                                                 <a href="/kids?SHOP+BY=new+in" class="mb10">New In</a>
+                                                                 <!--space-->
+                                                                 <a href="/accessories" class="dd__strong">Accessories</a>
+                                                                 <a href="/accessories/backpacks-and-bags">Backpacks &amp; Bags</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Size</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/view/search?search=cribshoesk">Crib Shoes (sizes 1 - 2.5)</a>
+                                                                 <a href="/kids?pageSize=60&amp;SIZE=3+infant|3.5+infant|4+infant|4.5+infant|5+infant|5.5+infant|6+infant|6.5+infant|7+infant|7.5+infant|8+infant|8.5+infant|8%2F9+infant|9+infant|9.5+infant">Infant (sizes 3 - 9.5)</a>
+                                                                 <a href="/kids?pageSize=60&amp;SIZE=10+youth|10%2F11+youth|11+youth|11.5+youth|12+youth|12.5+youth|13+youth|13.5+youth|1+youth|1.5+youth|2" class="mb10">Kids (sizes 10 - 2)</a>
+                                                                 <!-- space -->
+                                                                 <a href="/trainers?SHOP%20BY=junior">OFFICE Junior (trainer sizes 3 - 5.5) </a>
+                                                                 <a href="/view/search?search=womens&amp;SHOP+BY=Office+Girl">OFFICE Girl (shoe sizes 3 - 5) </a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-4 dd__col">
+                                                                 <h3>Brands</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/kids?BRAND=adidas">adidas</a>
+                                                                 <a href="/kids?BRAND=Bobux">Bobux</a>
+                                                                 <a href="/kids?BRAND=Converse">Converse</a>
+                                                                 <a href="/kids?&amp;BRAND=Dr.+Martens">Dr. Martens</a>
+                                                                <a href="/kids?&amp;BRAND=Hunter">Hunter</a>
+                                                                 <a href="/kids?&amp;BRAND=kickers">Kickers</a>
+                                                                 <a href="/kids?BRAND=Nike">Nike</a>
+                                                                 <a href="/kids?&amp;BRAND=Timberland">Timberland</a>
+                                                                 <a href="/kids?&amp;BRAND=Ugg">UGG</a>
+                                                                <a href="/kids?BRAND=vans">Vans</a>
+                                                                 <a href="/kids?&amp;BRAND=veja" class="mb10">Veja</a>
+                                                                 <!-- space -->
+                                                                 <a href="/brand" class="dd__viewall btn-link">View All Brands A-Z</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-8 dd__col">
+                                                                 <h3>Shop Kids Veja</h3>
+                                                                 <legend></legend>
+                                                                 <a class="lazy-load" href="/kids?&amp;BRAND=veja">
+                                                                     <div class="lazy-load__spinner">
+                                                                         <div class="lazy-load__spinner-circle"></div>
+                                                                         <div class="lazy-load__spinner-circle lazy-load__spinner-inner-circle"></div>
+                                                                     </div>
+                                                                     <img class="lazy-load__item" data-lazy="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk18/wk18_KIDS.jpg" alt="Shop Kids Veja">
+                                                                 </a>
+                                                             </div>
+                                                         </div>
+                                                     </div>
+                                                 </div>
+                                                 <!-- Brands -->
+                                                 <div class="dd">
+                                                     <a class="dd__btn" href="/brand">Brands<span class="icon icon-plus"></span></a>
+                                                     <div class="dd__content container-flex">
+                                                         <div class="row-flex">
+                                                             <div class="col-s-24 col-x-6 dd__col dd__col--noborder">
+                                                                 <a href="/brand/office" class="dd__strong">OFFICE</a>
+                                                                 <a href="/brand/adidas">adidas</a>
+                                                                 <a href="/brand/birkenstock">Birkenstock</a>
+                                                                 <a href="/brand/blowfish">Blowfish Malibu</a>
+                                                                 <a href="/brand/Buffalo">Buffalo</a>
+                                                                 <a href="/brand/clarks_originals">Clarks Originals</a>
+                                                                 <a href="/brand/converse">Converse</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-6 dd__col dd__col--noborder">
+                                                                 <a href="/brand/dr_martens">Dr. Martens</a>
+                                                                 <a href="/brand/Fila">Fila</a>
+                                                                 <a href="/brand/havaianas">Havaianas</a>
+                                                                 <a href="/brand/hunter">Hunter</a>
+                                                                 <a href="/brand/kickers">Kickers</a>
+                                                                 <a href="/brand/new_balance">New Balance</a>
+                                                                 <a href="/brand/nike">Nike</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-6 dd__col dd__col--noborder">
+                                                                 <a href="/brand/poste">Poste</a>
+                                                                 <a href="/brand/puma">Puma</a>
+                                                                 <a href="/brand/reebok">Reebok</a>
+                                                                 <a href="/brand/salt_water">Salt-Water</a>
+                                                                 <a href="/view/brand/Solillas">Solillas</a>
+                                                                 <a href="/brand/superga">Superga</a>
+                                                                 <a href="/brand/ted_baker">Ted Baker</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-6 dd__col">
+                                                                 <a href="/brand/timberland">Timberland</a>
+                                                                 <a href="/brand/toms">Toms</a>
+                                                                 <a href="/brand/ugg">UGG</a>
+                                                                 <a href="/brand/vagabond">Vagabond</a>
+                                                                 <a href="/brand/vans">Vans</a>
+                                                                 <a href="/brand/Veja" class="mb10">Veja</a>
+                                                                 <!-- space -->
+                                                                 <a href="/brand" class="dd__viewall btn-link">View All Brands A-Z</a>
+                                                             </div>
+                                                         </div>
+                                                     </div>
+                                                 </div>
+                                                 <!-- Gifts -->
+                                                 <div class="dd">
+                                                     <a class="dd__btn" href="/christmas-gift-guide">Christmas<span class="icon icon-plus"></span></a>
+                                                     <div class="dd__content container-flex">
+                                                         <div class="row-flex">
+                                                             <div class="col-s-24 col-x-6 dd__col">
+                                                                 <h3 class="dd__empty">&nbsp;</h3>
+                                                                 <a href="/christmas-gift-guide">The Christmas Gift Guide</a>
+                                                                 <a href="/christmas-gifts-for-her-edit">Womens Gifts</a>
+                                                                 <a href="/christmas-gifts-for-him-edit">Mens Gifts</a>
+                                                                 <a href="/christmas-gifts-for-kids-edit">Kids Gifts</a>
+                                                                 <a href="/christmas-gifts-trainers-edit">Trainer Gifts</a>
+                                                                 <a href="/accessories">Stocking Fillers</a>
+                                                                 <a href="/brand/ugg/slippers">Ugg Slippers</a>
+                                                                 <a href="/highheels/womens" class="mb10">Party Shop</a>
+                                                                 <!-- space -->
+                                                                 <a href="/view/content/Christmas_Info">Christmas Delivery</a>
+                                                                 <a href="/view/content/Christmas_Info">Christmas Returns Policy</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-8 dd__col">
+                                                                 <h3>Shop Stocking Fillers</h3>
+                                                                 <legend></legend>
+                                                                 <a class="lazy-load" href="accessories">
+                                                                     <div class="lazy-load__spinner">
+                                                                         <div class="lazy-load__spinner-circle"></div>
+                                                                         <div class="lazy-load__spinner-circle lazy-load__spinner-inner-circle"></div>
+                                                                     </div>
+                                                                     <img class="lazy-load__item" data-lazy="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk19/wk19_XMASa.jpg" alt="Shop Accessories">
+                                                                 </a>
+                                                             </div>
+                                                         </div>
+                                                     </div>
+                                                 </div>
+                                                 <!-- Sale -->
+                                                 <div class="dd">
+                                                     <a class="dd__btn" href="/view/search?search=sale">Sale<span class="icon icon-plus"></span></a>
+                                                     <div class="dd__content container-flex">
+                                                         <div class="row-flex">
+                                                             <div class="col-s-24 col-x-6 dd__col">
+                                                                 <h3>Shop by Size</h3>
+                                                                 <legend></legend>
+                                                                 <a href="/sale?SIZE=3">3</a>
+                                                                 <a href="/sale?SIZE=4">4</a>
+                                                                 <a href="/sale?SIZE=5">5</a>
+                                                                 <a href="/sale?SIZE=6">6</a>
+                                                                 <a href="/sale?SIZE=7">7</a>
+                                                                 <a href="/sale?SIZE=8">8</a>
+                                                                 <a href="/sale?SIZE=9">9</a>
+                                                                 <a href="/sale?SIZE=10">10</a>
+                                                                 <a href="/sale?SIZE=11">11</a>
+                                                                 <a href="/sale?SIZE=12">12</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-6 dd__col">
+                                                                 <h3>Shop by Category</h3>
+                                                                 <legend></legend>
+                                                                 <a class="dd__strong" href="/view/search?search=sale">Shop All Sale</a>
+                                                                 <a href="/view/search?search=sale&amp;SHOP+BY=hers">Womens Sale</a>
+                                                                 <a href="/view/search?search=sale&amp;SHOP+BY=his">Mens Sale</a>
+                                                                 <a href="/view/search?&amp;search=sale&amp;SHOP+BY=Kids">Kids Sale</a>
+                                                                 <a href="/view/search?search=trainers+sale" class="mb10">Trainers Sale</a>
+                                                                 <!-- space -->
+                                                                 <a href="/view/search?search=sale&amp;SHOP+BY=hers&amp;SHOE+TYPE=Ankle+Boots">Up to 70% off Ankle Boots</a>
+                                                                 <a href="/view/search?search=sale&amp;SHOE+TYPE=Boots">Up to 70% off Mens Boots</a>
+                                                                 <a href="/view/search?search=sale&amp;BRAND=adidas" class="mb10">Up to 60% off adidas</a>
+                                                                 <!-- space -->
+                                                                 <a href="https://offcutsshoes.co.uk/" target="_blank">OFFCUTS - Up to 70% Off Ex-Display</a>
+                                                             </div>
+                                                             <div class="col-s-24 col-x-8 dd__col">
+                                                                 <h3>Sale - Up To 70% Off!</h3>
+                                                                 <legend></legend>
+                                                                 <a class="lazy-load" href="/view/search?search=sale">
+                                                                     <div class="lazy-load__spinner">
+                                                                         <div class="lazy-load__spinner-circle"></div>
+                                                                         <div class="lazy-load__spinner-circle lazy-load__spinner-inner-circle"></div>
+                                                                     </div>
+                                                                     <img class="lazy-load__item" data-lazy="https://www.office.co.uk/assets//Office_responsive/Drop_down/wk01/wk01_SALE.jpg" alt="lazy loaded image woo!">
+                                                                     <div>Final Reductions - Up to 70% Off Sale</div>
+                                                                 </a>
+                                                             </div>
+                                                         </div>
+                                                     </div>
+                                                 </div>
+                                                 <!-- Mobile Only -->
+                                                 <div class="dd--mobile">
+                                                     <div class="dd">
+                                                         <a class="dd__btn dd__btn--mob" href="/view/secured/content/myaccount"><span class="icon icon-account"></span>Account</a>
+                                                     </div>
+                                                     <div class="dd">
+                                                         <a class="dd__btn dd__btn--mob js-dd__btn--currency" role="button">
+                                                             <div class="selected-currency"></div>
+                                                         </a>
+                                                         <ul class="currency-list"></ul>
+                                                     </div>
+                                                     <div class="dd">
+                                                         <a class="dd__btn dd__btn--mob" href="/view/content/storelocator"><span class="icon icon-location"></span>Find a Store</a>
+                                                     </div>
+                                                 </div>
 
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-     <li><h5>Your Style Edit</h5></li>
-     <li><a href="/officeloves">#officeloves</a></li>
-    </ul>
-   </div>
-     <div class="col-sm-2 col-md-4 hidden-xs">
-    <ul class="multicolumn-dropdown">
-     <li><a href="/womens/espadrilles?drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk45/wk45_HERS.jpg&quot;}" alt=""></a>
-
-                                        <h5>Summer Flair</h5>
-                                        <p>Dressed up or down, the Marmalade espadrille is just for you!</p>
-                                        </li>
-    </ul>
-   </div>
-  </div>
- </ul>
-                     </li>
-<li class="dropdown">
- <a href="/mens" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-="" expanded="false">His</a>
- <ul class="dropdown-menu multi-column columns-6" role="menu">
-  <div class="row">
-   <div class="col-sm-3 col-md-2 no-border">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Category</h5></li>
-     <li><a href="/mens?sort=releaseDate&amp;SHOP+BY=New+in">New In</a></li>
-     <li><a href="/mens/holiday-shop">Holiday Shop</a></li>
-     <li><a href="/mens/new-season">New Season Trends</a></li>
-     <li><a href="/mens/boots?sort=releaseDate">New Season Boots</a></li>
-     <li><a href="/mens/casual-trainers">Casual Trainers</a></li>
-     <li><a href="/mens/smart-shoes">Occasion Shop</a></li>
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-     <li><a href="/mens?SHOP+BY=his"><strong>Mens Shoes</strong></a></li>
-     <li><a href="/mens/boat-shoes">Boat Shoes</a></li>
-     <li><a href="/mens/brogues">Brogues</a></li>
-     <li><a href="/mens/casual-shoes">Casual</a></li>
-     <li><a href="/mens/espadrilles">Espadrilles</a></li>
-     <li><a href="/mens/loafers">Loafers</a></li>
-     <li><a href="/mens/sandals">Sandals</a></li>
-     <li><a href="/mens?pageSize=150&amp;SHOE+TYPE=Slippers">Mens Slippers</a></li>
-     <li><a href="/mens/smart-shoes">Smart Shoes</a></li>
-     <li><a href="/mens/trainers">Trainers</a></li>
-    
-     </ul>
-   </div> 
-   <div class="col-sm-3 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>&nbsp;</h5></li>
-     <li><a href="/mens/boots"><strong>Mens Boots</strong></a></li>
-     <li><a href="/chelseaboots/mens">Chelsea Boots</a> </li>
-     <li><a href="/view/search?search=chukka+boots+DRP1&amp;SHOP+BY=His">Chukka Boots</a></li>
-     <li><a href="/mens/desert-boots">Desert Boots</a></li>
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-    <li><a href="/accessories"><strong>Accessories</strong></a></li>
-     <li><a href="/accessories/backpacks">Backpacks</a></li>
-     <li><a href="/accessories/socks">Socks</a></li>
-     <li><a href="/accessories/shoe-care-and-laces">Shoe Care &amp; Laces</a></li>
-     <li><a href="/accessories/bags-and-purses">Bags</a></li>
-     
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Brands</h5></li>
-     <li><a href="/mens?BRAND=Office"><strong>OFFICE</strong></a></li>
-     <li><a href="/mens?BRAND=adidas">adidas</a></li>
-     <li><a href="/mens?BRAND=Ask+the+Missus">Ask The Missus</a></li>
-     <li><a href="/mens?BRAND=Birkenstock">Birkenstock</a></li>
-     <li><a href="/mens?BRAND=converse">Converse</a></li>
-     <li><a href="/mens?BRAND=Dr.+Martens">Dr. Martens</a></li>
-     <li><a href="/mens?BRAND=Havaianas">Havaianas</a></li>
-     <li><a href="/mens?BRAND=New+Balance">New Balance</a></li>
-     <li><a href="/mens?BRAND=Nike">Nike</a></li>
-     <li><a href="/mens?BRAND=Poste">Poste</a></li>
-     <li><a href="/mens?BRAND=Puma">Puma</a></li>
-     <li><a href="/mens?BRAND=Ted+Baker">Ted Baker</a></li>
-     <li><a href="/mens?BRAND=Timberland">Timberland</a></li>
-     <li><a href="/mens?BRAND=Toms">Toms</a></li>
-     <li><a href="/mens?BRAND=ugg">UGG</a></li>
-     <li><a href="/mens?BRAND=Vans">Vans</a></li>
-     <li>&nbsp;</li>
-                                        <li><a href="/brand"><strong>View All Brands A-
-
-Z</strong></a></li>
-    </ul>
-   </div>
-  <div class="col-sm-3 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Shoe Diary</h5></li>
-     <li><a href="/blog/">Read The Blog</a></li>
-     <li><a href="/timberland-exclusives">Timberland Exclusives</a></li>
-     <li><a href="/mens/smart-shoes">Work Wear</a></li>
-    </ul>
-   </div>
-   <div class="col-sm-2 col-md-4 hidden-xs">
-    <ul class="multicolumn-dropdown">
-     <li><a href="/mens/holiday-shop?drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk45/wk45_HIS.jpg&quot;}" alt=""></a>
-                                        <h5>Holiday Booked? Check!</h5>
-                                        <p>The summer silhouette keeping you cool and on trend throughout the season.</p>
-                                        </li>
-    </ul>
-   </div>
-  </div>
- </ul>
-
-   </li> 
-    <li class="dropdown">
-            <a href="/kids" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-="" expanded="false">Kids</a>
-            <ul class="dropdown-menu multi-column columns-5" role="menu">
-  <div class="row">
-   <div class="col-sm-4 col-md-4">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Category</h5></li>
-   <li><a href="/view/search?search=cribshoesk+DRP1">Crib Shoes (sizes 1 - 2.5)</a></li>
-     <li><a href="/view/search?search=infantstylesk+DRP1">Infant (sizes 3 - 9.5)</a></li>
-     <li><a href="/view/search?search=youthshoesk+drp1">Youth (sizes 10 - 2)</a></li>
-     <li><a href="/trainers?pageSize=30&amp;SHOP%20BY=junior">OFFICE Junior (trainer sizes 3 - 5.5)
-</a></li>
-     <li><a href="/view/search?search=womens&amp;SHOP+BY=Office+Girl">OFFICE Girl (shoe sizes 3 - 5)
-</a></li>
-<li><a href="/kids?SHOP+BY=new+in">New In</a></li>
-          <li><a href="/kids/trainers">Trainers</a></li>
-        <li><a href="/kids/school-shoes">School Shoes</a></li>
-<li><a href="/kids/holiday-shop">Kid's Holiday Shop</a></li>
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-3">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Brands</h5></li>
-     <li><a href="/kids?BRAND=adidas">adidas</a></li> 
-     <li><a href="/kids?&amp;BRAND=Blowfish">Blowfish</a></li>   
-     <li><a href="/kids?&amp;BRAND=Birkenstock">Birkenstock</a></li>  
-    <li><a href="kids?&amp;BRAND=Bobux">Bobux</a></li>
-     <li><a href="/kids?BRAND=Converse">Converse</a></li>
-     <li><a href="/kids?&amp;BRAND=Havaianas">Havaianas</a></li>
-      <li><a href="/kids?&amp;BRAND=Igor">Igor</a></li>
-     <li><a href="/kids?BRAND=Nike">Nike</a></li>
-     <li><a href="/kids?&amp;BRAND=Salt+Water">Salt Water</a></li>
-     <li><a href="/kids?&amp;BRAND=Toms">Toms</a></li>
-     <li><a href="/kids?BRAND=vans">Vans</a></li>
-     <li>&nbsp;</li>
-     <li><a href="/brand"><strong>View All Brands A-Z</strong></a></li>
-    </ul>
-   </div>
-   <div class="col-sm-5 col-md-5 hidden-xs">
-    <ul class="multicolumn-dropdown">
-     <li><a href="/kids?drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk45/wk45_KIDS.jpg&quot;}" alt=""></a>
-                                        <h5>Kiddies on Tour</h5>
-                                        <p>Get your little ones ready for holiday.</p>
-                                        </li>
-    </ul>
-   </div>
-  </div>
- </ul>
-
-           </li>
-           <li class="dropdown">
-            <a href="/trainers" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Trainers</a>
-            <ul class="dropdown-menu multi-column columns-5" role="menu">
-  <div class="row">
-   <div class="col-sm-3 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Brands</h5></li>
-     <li><a href="/brand/adidas">adidas</a></li>
-     <li><a href="/brand/Champion">Champion</a></li>
-     <li><a href="/brand/converse">Converse</a></li>
-     <li><a href="/brand/Fila">Fila</a></li>
-     <li><a href="/brand/new_balance">New Balance</a></li>
-     <li><a href="/brand/nike">Nike</a></li>
-     <li><a href="/brand/puma">Puma</a></li>
-     <li><a href="/brand/reebok">Reebok</a></li>
-     <li><a href="/brand/Skechers">Skechers</a></li>
-     <li><a href="/brand/vans">Vans</a></li>
-     <li><a href="/brand/Veja">Veja</a></li>
-     <li>&nbsp;</li>
-     <li><a href="/brand"><strong>View All Brands A-Z</strong></a></li>
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Category</h5></li>
-     <li><a href="/trainers"><strong>Shop All Trainers</strong></a></li>
-     <li><a href="/womens/trainers">Hers</a></li>
-     <li><a href="/mens/trainers">His</a></li>
-     <li><a href="/kids/trainers ">Kids</a></li>
-     <li><a href="https://www.office.co.uk/trainers?SHOP+BY=new+in">New In</a></li>
-     <li><a href="https://www.office.co.uk/trainers?SHOP+BY=exclusives">Exclusives</a></li>
-     <li><a href="https://www.office.co.uk/Chunky-Trainers">Chunky Trainers</a></li>
-     <li><a href="https://www.office.co.uk/trainers?COLOUR=white">White Trainers</a></li>
-     <li><a href="https://www.office.co.uk/trainers?COLOUR=black">Black Trainers</a></li>
-     <li><a href="https://www.offspring.co.uk/">OFFSPRING</a></li>
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-3">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Collections</h5></li>
-     <li><a href="https://www.office.co.uk/trainers/adidas/superstar">adidas Superstar</a></li>
-     <li><a href="https://www.office.co.uk/trainers/adidas/stan-smith">adidas Stan Smith</a></li>
-     <li><a href="https://www.office.co.uk/trainers/adidas/gazelle">adidas Gazelle</a></li>
-     <li><a href="https://www.office.co.uk/view/search?search=converse+all+star">Converse All Star</a></li>
-     <li><a href="https://www.office.co.uk/view/search?search=converse+all+star+70s">Converse All Star 70's</a></li>
-     <li><a href="/brand/converse/exclusives">Converse Exclusives</a></li>
-     <li><a href="https://www.office.co.uk/view/search?search=nike+air+force+1">Nike Air Force</a></li>
-     <li><a href="https://www.office.co.uk/view/search?search=nike+air+max">Nike Air Max</a></li>
-     <li><a href="/view/search?search=air+max+95+DRP1">Nike Air Max 95</a></li>
-     <li><a href="/view/search?search=air+max+97+DRP1">Nike Air Max 97</a></li>
-     <li><a href="https://www.office.co.uk/view/search?search=vans+authentic">Vans Authentic</a></li>
-     <li><a href="https://www.office.co.uk/view/search?search=vans+old+skool">Vans Old Skool</a></li>
-     <li><a href="/view/search?search=vans+slip+on+DRP1">Vans Slip On</a></li>
-    </ul>
-   </div>
-
-   <div class="col-sm-3 hidden-xs col-md-5 hidden-xs">
-    <ul class="multicolumn-dropdown">
-     <li><a href="/brand/reebok?drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk45/wk45_TRAINERS.jpg&quot;}" alt=""></a>
-                                        <h5>Reebok Classics</h5>
-                                        <p>Keeping it cool and collected in our classic Reeboks.</p>
-                                        </li>
-    </ul>
-   </div>
-  </div>
- </ul>
-           </li>
-   <li class="dropdown">
-    <a href="/brand" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-="" expanded="false">Brands</a>
-    <ul class="dropdown-menu multi-column columns-4 brands" role="menu">
-  <div class="row">
-   <div class="col-sm-3 col-md-3">
-    <ul class="multicolumn-dropdown">
-     <li><a href="/brand/adidas">adidas</a></li>
-     <li><a href="/brand/ash">Ash</a></li>
-     <li><a href="/brand/ask_the_missus">Ask The Missus</a></li>
-     <li><a href="/brand/birkenstock">Birkenstock</a></li>
-     <li><a href="/brand/blowfish">Blowfish</a></li>
-     <li><a href="/brand/Buffalo">Buffalo</a> </li> 
-     <li><a href="/brand/Champion">Champion</a></li>
-     <li><a href="/brand/clarks_originals">Clarks Originals</a></li>
-     <li><a href="/brand/converse">Converse</a></li> 
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-3">
-    <ul class="multicolumn-dropdown">
-   <li><a href="/brand/dr_martens">Dr. Martens</a> </li> 
-     <li><a href="/brand/Ego">Ego</a> </li>
-     <li><a href="/brand/Fila">Fila</a> </li>    
-     <li><a href="/brand/fred_perry">Fred Perry</a> </li>
-     <li><a href="/brand/gaimo_for_office">Gaimo for Office</a> </li>   
-     <li><a href="/brand/havaianas">Havaianas</a></li>
-     <li><a href="/brand/hunter">Hunter</a></li>
-     <li><a href="/brand/kickers">Kickers</a></li>
-     <li><a href="/brand/lacoste">Lacoste</a></li>  
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-3">
-    <ul class="multicolumn-dropdown">  
-     <li><a href="/brand/new_balance">New Balance</a></li>   
-     <li><a href="/brand/nike">Nike</a></li>  
-     <li><a href="/brand/office"><strong>OFFICE</strong></a></li>
-     <li><a href="/brand/poste">Poste</a></li>
-     <li><a href="/brand/puma">Puma</a></li>
-     <li><a href="/brand/reebok">Reebok</a></li>
-     <li><a href="/brand/salt_water">Salt Water</a></li> 
-     <li><a href="/brand/Skechers">Skechers</a></li>  
-     <li><a href="/view/brand/Solillas">Solillas</a></li>  
-    </ul>
-   </div>
-   <div class="col-sm-3 col-md-3">
-    <ul class="multicolumn-dropdown">
-     <li><a href="/view/brand/Solillas">Solillas</a></li>     
-     <li><a href="/brand/ted_baker">Ted Baker</a></li>
-     <li><a href="/brand/Teva">Teva</a></li>
-     <li><a href="/brand/timberland">Timberland</a></li>
-     <li><a href="/brand/toms">Toms</a></li>
-     <li><a href="/brand/ugg">UGG</a></li>
-     <li><a href="/brand/vagabond">Vagabond</a></li>
-     <li><a href="/brand/vans">Vans</a></li>
-     <li><a href="/brand/Veja">Veja</a></li>
-     <li>&nbsp;</li>
-     <li>&nbsp;</li>
-     <li><a href="/brand"><strong>View All Brands A-Z</strong></a></li>
-    </ul>
-   </div>
-  </div>
- </ul>
-
-</li>
-
-<li class="dropdown">
-  <a href="/view/category/office_catalog/NEWIN?sort=releaseDate" class="dropdown-toggle" data-="" toggle="dropdown" role="button" aria-="" expanded="false">NEW IN</a>
-  <ul class="dropdown-menu multi-column columns-3" role="menu">
-  <div class="row">
-   <div class="col-sm-4 col-md-3">
-    <ul class="multicolumn-dropdown">
-                <li><a href="/womens?SHOP+BY=new+in">Hers</a></li>
-                <li><a href="/mens?SHOP+BY=new+in">His</a></li>
-                <li><a href="/kids?SHOP+BY=new+in">Kids</a></li>
-                <li><a href="/trainers?SHOP+BY=new+in">Trainers</a></li>              
-             </ul>
-   </div>
-   <div class="col-sm-8 col-md-9 hidden-xs">
-    <ul class="multicolumn-dropdown">
-     <li><a href="/brand/vagabond?drpimg"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk45/wk45_NEWIN.jpg&quot;}" alt=""></a>
-                                        <h5>The Vagabond Sandal</h5>
-                                        <p>When less is more, Vagabond are all about that minimal appeal</p></li>
-    </ul>
-   </div>
-  </div>
- </ul>
-                     </li> 
-    <li class="dropdown">
-    <a href="/sale" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-="" expanded="false"><span style="color: 
-
-red;">Sale</span></a>
-            <ul class="dropdown-menu multi-column columns-4" role="menu">
-  <div class="row">
-   <div class="col-sm-2 col-md-2">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Shop by Size</h5></li>
-     <li><a href="/sale?SIZE=3">3</a></li>
-     <li><a href="/sale?SIZE=4">4</a></li>
-     <li><a href="/sale?SIZE=5">5</a></li>
-     <li><a href="/sale?SIZE=6">6</a></li>
-     <li><a href="/sale?SIZE=7">7</a></li>
-     <li><a href="/sale?SIZE=8">8</a> </li>
-     <li><a href="/sale?SIZE=9">9</a> </li>
-     <li><a href="/sale?SIZE=10">10</a> </li>
-     <li><a href="/sale?SIZE=11">11</a> </li>
-     <li><a href="/sale?SIZE=12">12</a> </li>
-    </ul>
-   </div>
-   <div class="col-sm-4 col-md-4">
-    <ul class="multicolumn-dropdown">
-     <li><h5>Sale Categories</h5></li>
-     <li><a href="/view/search?search=sale"><strong>Shop All Sale</strong></a></li>
-     <li><a href="/sale?SHOP+BY=hers">Hers</a></li>
-     <li><a href="/sale?SHOP+BY=his">His</a></li>
-     <li><a href="/view/search?&amp;search=sale&amp;SHOP+BY=Kids">Kids</a></li>
-     <li><a href="/view/search?search=trainers+sale">All Trainers</a></li>
-     <li><a href="/sale?SHOE+TYPE=hers+trainers">Hers Trainers</a></li>
-     <li><a href="/sale?SHOE+TYPE=his+trainers">His Trainers</a></li>
-  
-     <li>&nbsp;</li>
-     <li><a href="/sale?SHOE+TYPE=womens+boots">Up to 50% off Womens Boots</a></li>
-     <li><a href="/sale?SHOP+BY=his&amp;SHOE+TYPE=boots">Up to 50% off Mens Boots</a></li>
-     <li><a href="/sale?BRAND=ugg">Up to 50% off Ugg</a></li>
-     <li>&nbsp;</li>
-
-     <li><a target="_blank" style="color:#D20003" href="https://offcutsshoes.co.uk/">OFFCUTS - Up 
-
-to 70% Off Ex-Display</a></li>
-    </ul>
-   </div>
-   <div class="col-sm-6 col-md-6 hidden-xs">
-    <ul class="multicolumn-dropdown">
-     <li><a href="/view/search?drpimg&amp;pageSize=150&amp;search=sale"><img class="js-responsive-img" data-media="{&quot;500&quot;:&quot;https://www.office.co.uk/assets//Office_responsive/Drop_down/wk42/wk42_SALE.jpg&quot;}" alt=""></a>
-                                        <h5>Sale - Up To 70% Off!</h5>
-                                        <p>Up to 50% Off selected styles.</p>
-                                        </li>
-    </ul>
-   </div>
-  </div>
- </ul>
-
-</li>
-    
-    <!-- store locator and my account link for hamburger menu-->
-    <li class="slidemenu-hamburger"><a href="/view/content/storelocator">Store Locator</a></li>
-    <li class="slidemenu-hamburger"><a href="/view/secured/content/myaccount">My Account</a></li>
-    <li class="slidemenu-hamburger"><a href="/studentdiscount">Student Discount</a></li>
-    <li class="slidemenu-hamburger"><a href="/view/content/clickandcollectinfo-page">Click &amp; 
-
-Collect</a></li>
-    
-    <!-- Help, delivery -->
-    <li class="slidemenu-hamburger"><a href="/view/content/contactus-info-page">Help</a></li>
-    <li class="slidemenu-hamburger"><a href="/view/content/deliveryinfo-page">Delivery</a></li>
-    <li class="slidemenu-hamburger"><a href="/view/content/returnsinfo-page">Returns</a></li>
-     <li class="dropdown currency-nav">
-        <a class="slidemenu-hamburger dropdown-toggle" role="button" data-toggle="dropdown" aria-expanded="false">Currency <span class="selected-currency"></span></a>
-        <ul class="dropdown-menu multi-column columns-4 currency-list" role="menu">
-        </ul>
-    </li>
-    <li class="slidemenu-hamburger"><a href="/view/content/privacy-info-page">Privacy 
-
-Policy</a></li>
-    <li class="slidemenu-hamburger"><a href="/view/content/terms-info-page">Terms &amp; 
-
-Conditions</a></li>    
-           </ul>
-      </div>
-			
-				
-
-
-
-
-
-
-
-<script type="text/javascript">
-    $(document).ready(function() {
-      QLJS.setUpMiniBasketAjax();
-    });
-
-    function removeItemFromBasket(entryNumbers) {
-        entryNumbers = entryNumbers.replace("[", "").replace("]","");
-        window.mediator.publish("trackRemoveFromCart", entryNumbers);
-        if ($("#cartItemForm").length == 0) {	//	if current page is not basket page
-            $.ajax({
-                type: "POST",
-                url: "/view/basket/remove",
-                data: "cartEntry=" + entryNumbers + "&componentUid=headerbasketComponent",
-                success: function(data) {
-                    $(".myBasket_removing_error").hide();
-                    //	TODO	notify GTM of removing order entry
-                    QLJS.setUpMiniBasketAjax(true);
-                },
-                error: function(data) {
-                    $(".myBasket_removing_error").show();
-                }
-            })
-        } else {	//	if current page is basket page
-            window.location.href = "/view/basket/remove?cartEntry=" + entryNumbers +
-                 "&pageLabel=basket&componentUid=headerbasketComponent";
-        }
-      return false;
-    }
-
-</script>
-
-
-<ul class="dropdown--right nav navbar-nav">
-
-  <li class="myBasket dropdown empty-minicart" id="mb">
-  	  <a rel="external" href="/view/content/basket" class="cart nav--link icon-basket" id="basketLabel" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></a>
-  	  <span class="quantity"></span>
-      <div class="dropdown-menu dropdown-menu--right" aria-labelledby="basketLabel">
-        <input class="empty--msg" type="hidden" value="There are currently no items in your bag">
-        <div class="myBasket_inner_contents"></div>
-      </div>
-      <script id="myBasketContentsTemplate" type="text/x-jquery-tmpl">
-      {{if totalQuantity > 0}}
-  			<div class="qty-msg">
-  				You have {{= totalQuantity}} item(s) in your bag
-  			</div>
-        <ul>
-          {{each items}}
-              <li class="containerShadow219">
-                  <div class="myBasket_contents_item clearfix">
-            				<div class="l-image-wrapper col-xs-3">
-                      <a href="{{= product.productPageUrl}}">
-                        {{if product.picture['thumbnail']}}
-                          {{if product.picture['thumbnail'].url.length}}
-                            <img src="{{= product.picture["thumbnail"].url}}" alt="{{= product.picture["thumbnail"].alttext}}"/>
-                          {{/if}}
-                        {{/if}}
-                      </a>
-            				</div>
-            				<div class="l-content-wrapper col-xs-9">
-                      <div class="myBasket_contents_info col-xs-8">
-                      {{if product.brand}}
-                        <div class="name">{{= product.brand.name}}</div>
-                      {{/if}}
-            					{{if product.name.length > 28 }}
-            					    <div class="name"> <a href="{{= product.productPageUrl}}"> {{= product.name.substring(0, 28)}}... </a> </div>
-                              {{else}}
-                                  <div class="name"> <a href="{{= product.productPageUrl}}"> {{= product.name}} </a> </div>
-                              {{/if}}
-                              {{if product.shoeColour.name.length > 20}}
-                                  <div title="{{= product.shoeColour.name}}" class="color">
-                                      {{= product.shoeColour.name.substring(0, 20)}}...
-                                  </div>
-                              {{else}}
-                                  <div>{{= product.shoeColour.name}}</div>
-                              {{/if}}
-                          <div class="myBasket_contents_pricevalue">
-                              <div class="qty">Qty: {{= quantity}}</div>
-                              <div>Total: <strong class="js-price-format js-price-format-mini-basket" data-value="{{= totalPriceCurr}}">{{html htmlFormattedTotalPrice}}</strong></div>
-                         	</div>
-                          </div>
-
-                				<a class="removeItemLink col-xs-4" href="#" data-entryNo='{{= entryNumbers}}' onclick="removeItemFromBasket('[{{= entryNumbers}}]');">
-                					Remove
-                				</a>
-
-            				</div>
-                </div>
-            </li>
-        {{/each}}
-        </ul>
-  				<div class="mb-total" >Total: <strong class="js-price-format js-price-format-mini-basket" data-value="{{= totalCurr}}">{{= htmlFormattedTotal}}</strong></div>
-
-  				{{if appliedOrderPromotions }}
-  					{{each appliedOrderPromotions}}
-  						<div class="standard-msg">{{= description}}</div>
-  					{{/each}}
-  				{{/if}}
-
-  	       
-           
-
-          
-
-      		<div class="myBasket_removing_error" style="display:none;" >
-    				<p>Removing item from bag failed </p>
-    			</div>
-
-          <a href=/view/content/basket class="p_small actionBtn mb_viewbasket btn btn-primary">View Bag</a>
-        {{/if}}
-      </script>
-  </li>
-			
-				
-
-
-
-
-
-
-<li>
-	<a href="/view/content/wishlist" class="wishlist icon-heart-outline nav--link" id="wlLabel"></a>
-	<span class="quantity js-wishlistHeaderQuantity hidden"></span>
-</li>
+                                             </div>
+                                             <div class="nav-backdrop"></div>
 			
 				
 
@@ -1240,111 +914,130 @@ Conditions</a></li>
 
 
 <script type="text/javascript">
-$.ajax({
-    cache: false,
-    url: "/view/resources/getUserInfo",
-    success: function(userInfo) {
-        QLJS.setUpGTMUserAjax(userInfo);
-        var loginStatus =  userInfo.anonymousCustomer ? '<p>Login if you are an existing OFFICE customer or register to make ordering simple</p> <a class="btn btn-primary btn-fluid" href="/view/secured/content/myaccount">Login/Register</a>' : '<a class="btn btn-primary btn-fluid" href="/j_spring_security_logout">Logout</a>';
-        document.body.querySelector('.myAccountHeader_inner_contents').innerHTML = loginStatus;
-
-        //Mentionme logic
-        if (document.body.querySelector('#mmWrapper') != null){
-            var mmrefUrl = document.body.querySelector('#mmWrapper').getAttribute("data-mmrefurl");
-            if (!userInfo.anonymousCustomer){
-                mmrefUrl += "&firstname="+userInfo.firstname+"&surname="+userInfo.lastname+"&email="+userInfo.email;
+    $.ajax({
+        cache: false,
+        url: "/view/resources/getUserInfo",
+        data: QLJS.passThroughParams(),
+        success: function(userInfo) {
+            QLJS.setUpGTMUserAjax(userInfo);
+            QLJS.usersWishlist = userInfo.wishlist;
+            window.hybrisSessionExists = true;
+            var b = document.body;
+            var anonymous = userInfo.anonymousCustomer;
+            var loginStatus =  anonymous ? '<p><strong>Your Account</strong></p><p>Login if you are an existing OFFICE customer or register to make ordering simple</p> <a class="btn btn-primary btn-fluid" href="/view/secured/content/myaccount">Login/Register</a>' : '<a class="btn btn-primary btn-fluid" href="/j_spring_security_logout">Logout</a>';
+            var navAcc = b.querySelector('li.nav__account');
+            var aLink = navAcc.querySelector('a');
+            var innerContent = navAcc.querySelector('.myAccountHeader_inner_contents');
+            if (innerContent) innerContent.innerHTML = loginStatus;
+            if (!anonymous) {
+                aLink.classList.toggle('icon-account');
+                aLink.classList.toggle('icon-account-fill');
             }
-            var mmReferrerScript = document.createElement('script');
-            mmReferrerScript.setAttribute('src',mmrefUrl);
-            document.body.appendChild(mmReferrerScript);
-        }
 
-        if (!userInfo.anonymousCustomer){
-            window.analytics = {}; window.analytics.userInfo = userInfo;
-        }
+            //Mentionme logic
+            if (b.querySelector('#mmWrapper') != null){
+                var mmrefUrl = b.querySelector('#mmWrapper').getAttribute("data-mmrefurl");
+                if (!anonymous){
+                    mmrefUrl += "&firstname="+userInfo.firstname+"&surname="+userInfo.lastname+"&email="+userInfo.email;
+                }
+                var mmReferrerScript = document.createElement('script');
+                mmReferrerScript.setAttribute('src',mmrefUrl);
+                b.appendChild(mmReferrerScript);
+            }
 
-        if (userInfo.newlyRegistered){
-            window.mediator.publish("trackSignupEvent", window.analytics.userInfo.email);
-        }
+            window.analytics = window.analytics ? window.analytics : {};
 
-        if (userInfo.userLogin){
-            window.mediator.publish("trackLoginEvent", window.analytics.userInfo.email);
+            if (!anonymous) window.analytics = {}; window.analytics.userInfo = userInfo;
+            
+            $(document).ready(function() {
+                $('.js-wishlistPlpAdd').each(function () {
+                var productCode = $(this).data('product').toString();
+                    if (userInfo.wishlist.includes(productCode)) {
+                        $(this).removeClass('icon-save js-wishlistPlpAdd');
+                        $(this).addClass('icon-save-fill js-wishlistPlpRemove');
+                    }
+                });
+
+                //seting CSRFToken from cookie because of caching
+                $('[name=CSRFToken]').val(QLJS.getCookie('CSRFToken'));
+            });
+            
+            /*
+                OFFICEHYBR-7171, Without this, the user will be directed to myAccount.
+                Varnish will serve the 403 before hybris can direct them to the login
+            */
+            if (b.querySelector('#accountLabel') != null){
+                if (anonymous) {
+                    $('#accountLabel, .myAccountHeader_inner_contents a').attr("href", "/view/secured/content/login");
+                }
+            }
+
+            if (userInfo.newlyRegistered){
+                window.mediator.publish("trackSignupEvent", window.analytics.userInfo.email);
+            }
+
+            if (userInfo.userLogin){
+                window.mediator.publish("trackLoginEvent", window.analytics.userInfo.email);
+            }
         }
-    }
-});
+    });
 </script>
-<li class="dropdown">
-    <a id="accountLabel" href="/view/secured/content/myaccount" class="account icon-person nav--link hidden-xs" aria-haspopup="true" aria-expanded="false"></a>
-    <div class="dropdown-menu dropdown-menu--center" aria-labelledby="accountLabel">
-        <div class="myAccountHeader_inner_contents"></div>
-    </div>
-</li>
 
+<div class="navbar-item navbar-item--right">
+    <form id="searchform" class="navbar__searchbar" name="searchform" method="get" action="/view/search">
 
-</ul>
+        <div class="mdc-text-field mdc-text-field--upgraded navbar__searchbar__input-field input-field col-s-24 col-m-12 js-input-field">
+            <button type="submit" class="navbar__searchbar__btn icon-search"></button>
+            <input class="mdc-text-field__input navbar__searchbar__input" type="text" id="searchBox" aria-controls="username-helper-text" aria-describedby="first-name-helper" name="search" autocomplete="off">
+            <label for="searchBox" class="mdc-floating-label">Search for products and brands...</label>
+            <div class="mdc-line-ripple"></div>
+        </div>
+
+        
+            
+            <div id="autocomplete-list" class="autocomplete-items"></div>
+        
+    </form>
+
+    
+
+    <ul class="dropdown--right nav navbar-nav">
+        <li class="nav__account dropdown">
+            <a id="accountLabel" href="/view/secured/content/myaccount" class="icon-account nav--link" aria-haspopup="true" aria-expanded="false"></a>
+            <div class="dropdown-menu dropdown-menu--right" aria-labelledby="accountLabel">
+                <div class="myAccountHeader_inner_contents acc__content"></div>
+            </div>
+        </li>
+    
+        <li>
+            <a href="/view/content/wishlist" class="wishlist icon-save nav--link"></a>
+            <span class="quantity js-wishlistHeaderQuantity hidden"></span>
+        </li>
+
+        <li class="myBasket dropdown empty-minicart" id="mb">
+            <a rel="external" href="/view/content/basket" class="cart js-cart nav--link icon-bag-fill" id="basketLabel"></a>
+            <span class="quantity"></span>
+            <div class="dropdown-menu dropdown-menu--right" aria-labelledby="basketLabel">
+                <input class="empty--msg" type="hidden" value="There are currently no items in your bag">
+                
+                <div class="myBasket_inner_contents mb--data" data-item-bag="You have {0} item in your bag" data-items-bag="You have {0} items in your bag" data-view-bag="View Bag" data-checkout="Checkout"></div>
+            </div>
+        </li>
+    
+        <li class="nav__menu">
+            <a class="navbar-toggle">
+                <span class="sr-only">Toggle navigation</span> 
+                <span class="icon-burger"></span> 
+            </a>
+        </li>
+    </ul>
+</div>
 			
 				
-
-
-
-
-
-
-
-
-	<div class="search-box-container">
-		<form id="searchform" name="searchform" method="get" action="/view/search">
 			
-			<input type="text" id="searchBox" name="search" placeholder="Search for products and brands..." class="banner_search_box" autocomplete="off">
-			<button type="submit" class="icon-search"></button>
-			
-				<div id="autocomplete"></div>
 				
 			
-		</form>
-	</div>
-	<script>
-		// Lower case search term before submitting
-		$(document).ready(function () {
-			QLJS.submitToLower('#searchform');
-		})
-	</script>
-
-
-
-
-
-    <script>
-	    $(function() {
-	        $( "#searchBox" ).autocomplete({
-	          source: function( request, response ) {
-	            $.ajax({
-	              url: "//content.lon5.atomz.com/autocomplete/sp10/04/e2/2c",
-	              dataType: "jsonp",
-	              data: {
-	                query: request.term
-	              },
-	              success: function( data ) {
-	                response( data.slice(0, 10) );
-	              }
-	            });
-	          },
-	          position: {
-	              //offset: '0 10' // Shift 0px left, 5px down.
-	        	  my: "left-1 top-1",
-	          },
-	          minLength: 3,
-	          appendTo: "#autocomplete",
-	          select: function( event, ui ) {
-	        	  $(this).val(ui.item.value);
-                  $('#searchform').submit();
-	          }
-	        });
-	        $.ui.autocomplete.prototype._resizeMenu = function () {
-	        	this.menu.element.outerWidth( 300 );
-        	}
-	      });
-    </script>
+				
 
 			
 				
@@ -1353,27 +1046,29 @@ $.ajax({
 			
 		</div>
     </nav>
+    <div id="addToBag" class="addToBag container-flex overlay overlay--hidden animated" data-continue-checkout="Continue to Checkout" data-item-added="Item added"></div>
+    <div id="addToWishlist" class="wishlist-popup container-flex overlay overlay--hidden animated">
+		<div class="wishlist-popup__content">
+			<div class="wishlist-popup__title">
+				<h4>Your Wishlist</h4>
+			</div>
+			<div class="wishlist-popup__error"></div>
+		</div>
+	</div>
 </header>
 
-<div id="page-content" class="privacy-info-page">
-<section class="no-margin-top">
-	<div class="container-fluid privacy-info-page">
-		<!-- Main component for a primary marketing message or call to action -->
-		 
-			
 
-<div class="headerPromos headerPromosBottom row" style="background-color: #d88484 !important; font-family: Open Sans, sans-serif; font-style: normal">
-<div class="container"><div class="row"><ul>
-<li class="col-sm-4 text-center" style="background-color: #d88484 !important;"><a style="color: #fce9db !important;" href="/view/search?topstrip&amp;pageSize=150&amp;search=thesummerhotlist">UP TO 30% OFF THE HOT LIST</a></li>
-<li class="col-sm-4 text-center" style="background-color: #d88484 !important;"><a style="color: #fce9db !important;" href="/view/search?topstrip&amp;pageSize=150&amp;search=sale&amp;SHOP+BY=hers">UP TO 70% OFF WOMENS SALE</a></li>
-<li class="col-sm-4 text-center" style="background-color: #d88484 !important;"><a style="color: #fce9db !important;" href="/view/search?topstrip&amp;pageSize=150&amp;search=sale&amp;SHOP+BY=his">UP TO 70% OFF MENS SALE</a></li>
-</ul>
-</div></div></div>
-		 
-        
-		<div class="container">
-	   	
-			
+
+
+<div id="page-content" class="privacy-info-page clearfix">
+    <section class="no-margin-top">
+        <div class="container-flex privacy-info-page"> 
+            <!-- Main component for a primary marketing message or call to action -->
+             
+            
+            <div class="container-flex ">
+            
+                
 
 <style>
 #page-content #left-nav .categoryTree ul.categoryTree_facet li { padding: 0; }
@@ -1415,8 +1110,8 @@ $.ajax({
         </ul>
     </div>
 </div>
-		
-			
+            
+                
 
 <div class="customerService col-xs-12 col-sm-9 col-md-10 col-lg-10">
     <h1 class="pageTitle">OFFICE PRIVACY AND COOKIES POLICY</h1>
@@ -2113,37 +1808,87 @@ $.ajax({
 }
 </style>
 
-<script>
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-    if (document.body.scrollTop > 1000 || document.documentElement.scrollTop > 1000) {
-        document.getElementById("myBtn").style.display = "block";
-    } else {
-        document.getElementById("myBtn").style.display = "none";
-    }
-}
-
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-    document.body.scrollTop = 0;
-    document.documentElement.scrollTop = 0;
-}
-</script>
 
         </div>
     </div>
 </div>
-		 
-		</div>
-	</div>
-</section>
-<footer id="footer">
-	<div class="container">
-		<div class="row wrapper">
-			
-				
+            
+            </div>
+        </div>
+    </section>
+</div>
+
+
+
+
+
+
+
+
+<footer id="footer" class="footer">
+    <div class="footer__top container-flex">
+
+        
+        
+
+            <div class="footer__signup row-flex footer--margin js-signupInnerWrapper">
+                <div class="footer--pad col-24">
+                    <div class="row-flex footer--margin">
+                        <div class="col-s-24 col-m-12">
+                            <p class="col-s-hidden footer__newsletter">Newsletter</p>
+                            <h3 class="h3">For all the Office gossip...<br>sale previews &amp; exclusives, sign up!</h3>
+                        </div>
+                        <form class="col-s-24 col-m-12 row-flex footer__newsletter-form">
+
+                            <div class="footer__signup__gender col-s-18 col-offset-s-3 col-m-24">
+                                <div class="row-flex">
+                                    <div class="col-m-6 col-l-5">
+                                        <div class="form-element ">
+    <input id="GENDER_FIELD_FEM" name="myRadio" type="radio" checked="" value="Women">
+    <label class="form-element__label" for="GENDER_FIELD_FEM">
+        <span class="form-element__label-text">Women</span>
+    </label>
+</div>
+                                    </div>
+                                    <div class="col-m-6 col-l-5">
+                                        <div class="form-element ">
+    <input id="GENDER_FIELD_MAL" name="myRadio" type="radio" value="Men">
+    <label class="form-element__label" for="GENDER_FIELD_MAL">
+        <span class="form-element__label-text">Men</span>
+    </label>
+</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="footer__signup__input col-s-24 col-m-16">
+                                <div class="mdc-text-field mdc-text-field--upgraded input-block__field js-input-field">
+                                    <input class="mdc-text-field__input" type="email" id="signup__input" aria-controls="username-helper-text" aria-describedby="first-name-helper" name="EMAIL_FIELD" required="">
+                                    <label for="signup__input" class="mdc-floating-label">Email</label>
+                                    <div class="mdc-line-ripple"></div>
+                                </div>
+                                <div class="mdc-text-field-helper-line input-helper js-input-helper">
+                                    <div id="first-name-helper" class="mdc-text-field-helper-text mdc-text-field-helper-text--validation-msg input-helper__message" aria-hidden="true">
+                                        Please fill in the field above
+                                    </div>
+                                </div>
+                            </div>
+                            <button type="submit" data-action="/view/emailsignup/simple" data-redirecturl="/view/content/secondsignup" class="js-email_submit btn btn-primary col-s-24 col-m-8">
+                                Submit
+                            </button>
+                            <a href="/view/content/privacy-info-page">View our Privacy Policy</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        
+
+        
+        <div class="row-flex">
+
+            
+            
+                
+                
 
 <script type="text/javascript">
 var viewportMeta = document.createElement('meta');
@@ -2151,251 +1896,149 @@ viewportMeta.name = "viewport";
 viewportMeta.content = "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no";
 document.getElementsByTagName('head')[0].appendChild(viewportMeta);
 </script>
-			
-				
+            
+                
+                
 
-<div class="col-xs-12 col-sm-12 col-md-12">
-    <div class="row mt0">
-
-        <div class="col-xs-12 col-sm-3 col-md-2">
-            <div class="panel-group" id="help-links" role="tablist" aria-multiselectable="true">
-                <div class="panel">
-                    <div class="panel-heading" role="tab" id="headingOne">
-                        <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#help-links" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                Customer Help
-                                <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                        <div class="panel-body">
-                            <ul>
-                                <li>
-                                    <a href="/view/content/contactus-info-page">Contact Us</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/deliveryinfo-page">Delivery</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/returnsinfo-page">Returns</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/terms-info-page">Terms &amp; Conditions</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/sitemap">Sitemap</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/giftcardinfo-page">Gift Cards</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/about-us-page">About Office</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/storelocator">Store Finder</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-3 col-md-2">
-            <div class="panel-group" id="additionalinfo-links" role="tablist" aria-multiselectable="true">
-                <div class="panel">
-                    <div class="panel-heading" role="tab" id="headingTwo">
-                        <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#additionalinfo-links" href="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                                Additional Info
-                                <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapseTwo" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingTwo">
-                        <div class="panel-body">
-                            <ul>
-                                <li>
-                                    <a href="/studentdiscount">Student Discount</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/careersAboutus">Careers</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/ModernSlaveryAct">Modern Slavery Act Statement</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/gender-pay-gap">Gender Pay Gap Report</a>
-                                </li>                                
-                                <li>
-                                    <a href="/view/content/affiliate-info">Become an Affiliate</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/privacy-info-page">Privacy Policy</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/wholesale-enquiries">Wholesale Enquiries</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/tax-strategy">Tax Strategy</a>
-                                </li>                                
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-3 col-md-2">
-            <div class="panel-group" id="other-links" role="tablist" aria-multiselectable="true">
-                <div class="panel">
-                    <div class="panel-heading" role="tab" id="headingThree">
-                        <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#other-links" href="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
-                                Shop With Us
-                                <span class="glyphicon glyphicon-plus visible-xs-inline" aria-hidden="true"></span>
-                            </a>
-                        </h4>
-                    </div>
-                    <div id="collapseThree" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingThree">
-                        <div class="panel-body">
-                            <ul>
-                                <li>
-                                    <a href="https://www.offspring.co.uk/">OFFSPRING</a>
-                                </li>
-                                <li>
-                                    <a href="https://offcutsshoes.co.uk/">OFFCUTS Outlet</a>
-                                </li>
-                                <li>
-                                    <a href="https://www.officelondon.de/">OFFICE Germany</a>
-                                </li>
-                                <li>
-                                    <a href="/view/content/apps">OFFICE App</a>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-3 col-md-2 currency-section hidden-xs hidden-md hidden-lg">
-            <div class="panel-group">
-                <div class="panel">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            Currency
-                        </h4>
-                    </div>
-                    <div class="panel-body">
-                        <select data-show-tick="false" data-tick-icon="" class="currency-select"></select>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0 newsletter-section">
-            <div class="panel-group email-signup-wrapper">
-                <div class="panel">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            Newsletter
-                        </h4>
-                    </div>
-                    <div class="panel-body simple-signup">
-                        <div class="simple-signup__success js-signupSuccess">
-                            <p>Thank You For Signing Up</p>
-                        </div>
-                        <div class="simple-signup__inner-wrapper js-signupInnerWrapper">
-                            <form class="simple-signup__form">
-                                <input id="EMAIL_FIELD" name="EMAIL_FIELD" placeholder="Email address" type="email" value="" size="30" class="simple-signup__input js-email">
-                                <div class="simple-signup__gender">
-                                    Female
-                                    <input type="radio" id="GENDER_FIELD_FEM" name="GENDER_FIELD" value="female"> Male
-                                    <input type="radio" id="GENDER_FIELD_MAL" name="GENDER_FIELD" value="male">
-                                </div>
-                                <input type="submit" data-action="/view/emailsignup/simple" data-redirecturl="/view/content/secondsignup"  ="" value="SIGN UP" class="js-email_submit simple-signup__submit">
-                            </form>
-                            <div class="tc_links">
-                                <a href="http://www.office.co.uk/view/content/privacy-info-page">View our Privacy Policy</a>
-                                <div class="simple-signup__error js-signupError">
-                                    <p>Request failed</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="panel-group">
-                <div class="panel">
-                    <div class="panel-heading hidden-sm hidden-md hidden-lg">
-                        <h4 class="panel-title">
-                            Get Social
-                        </h4>
-                    </div>
-                    <ul class="social-links">
-                        <li>
-                            <a target="_blank" href="https://instagram.com/officeshoes" class="instagram">
-                                <span class="icon-instagram"></span>
-                            </a>
-                        </li>
-                        <li>
-                            <a target="_blank" href="https://twitter.com/OfficeShoes" class="twitter">
-                                <span class="icon-twitter"></span>
-                            </a>
-                        </li>
-                        <li>
-                            <a target="_blank" href="https://www.facebook.com/Officeshoes1" class="facebook">
-                                <span class="icon-facebook"></span>
-                            </a>
-                        </li>
-                        <li>
-                            <a target="_blank" href="http://www.office.co.uk/blog/" class="blog">
-                                <span class="icon-blog"></span>
-                            </a>
-                        </li>
-                        <li>
-                            <a target="_blank" href="https://www.pinterest.com/officeshoes1/" class="pinterest">
-                                <span class="icon-pinterest"></span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-3 col-md-2 currency-section hidden-sm">
-            <div class="panel-group">
-                <div class="panel">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            Currency
-                        </h4>
-                    </div>
-                    <div class="panel-body">
-                        <select data-show-tick="false" data-tick-icon="" class="currency-select"></select>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-
-			
-				
-
-
-			
-				
-
-<div class="col-xs-12">
-    <div class="payment-method-wrap">
-        <div class="panel-heading visible-xs">
+<div class="panel-group col-s-24 col-m-18" id="footer-accordion" role="tablist" aria-multiselectable="true">
+    <div class="panel col-s-24 col-m-8">
+        <div class="panel-heading" role="tab" id="headingOne">
             <h4 class="panel-title">
-                Secure Payments
+                <a data-toggle="collapse" data-parent="#footer-accordion" href="#collapseOne" aria-expanded="false" class="collapsed" aria-controls="collapseOne">
+                    Help &amp; Info
+                    <span class="icon-expand" aria-hidden="true"></span>
+                </a>
             </h4>
         </div>
-      <img class="img-responsive payment-method-logos" width="340" height="28" src="/_ui/responsive/site-office/images/payment.svg">
+        <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+            <div class="panel-body">
+                <ul>
+                    <li>
+                        <a href="/view/content/contactus-info-page">Contact Us</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/deliveryinfo-page">Delivery &amp; Returns</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/storelocator">Find a Store</a>
+                    </li>
+                    <li>
+                        <a href="/studentdiscount">Student Discount</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/giftcardinfo-page">Gift Cards</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="panel col-s-24 col-m-8">
+        <div class="panel-heading" role="tab" id="headingTwo">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#footer-accordion" href="#collapseTwo" aria-expanded="false" class="collapsed" aria-controls="collapseTwo">
+                    About Office
+                    <span class="icon-expand" aria-hidden="true"></span>
+                </a>
+            </h4>
+        </div>
+        <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+            <div class="panel-body">
+                <ul>
+                    <li>
+                        <a href="/view/content/about-us-page">About Us</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/current-career-vacancies">Join Us!</a>
+                    </li>
+                    <li>
+                        <a href="/blog/">Shoe Diaries</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/gender-pay-gap">Gender Pay Gap Report</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/ModernSlaveryAct">Modern Slavery Act Statement</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="panel col-s-24 col-m-8">
+        <div class="panel-heading" role="tab" id="headingThree">
+            <h4 class="panel-title">
+                <a data-toggle="collapse" data-parent="#footer-accordion" href="#collapseThree" aria-expanded="false" class="collapsed" aria-controls="collapseThree">
+                    Shop with Us
+                    <span class="icon-expand" aria-hidden="true"></span>
+                </a>
+            </h4>
+        </div>
+        <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+            <div class="panel-body">
+                <ul>
+                    <li>
+                        <a href="https://www.offspring.co.uk/">OFFSPRING</a>
+                    </li>
+                    <li>
+                        <a href="https://offcutsshoes.co.uk/">OFFCUTS Outlet</a>
+                    </li>
+                    <li>
+                        <a href="https://www.officelondon.de/">OFFICE Germany</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/apps">OFFICE App</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
     </div>
 </div>
-			
-				<script type="text/javascript">
+<div class="panel-group--right col-s-24 col-m-6">
+    <div class="footer__currency">
+        <div class="dropdown footer__currency__dropdown">
+            <a class="dropdown-toggle" role="button" data-toggle="dropdown">
+                Currency: 
+                <div class="selected-currency"></div>
+            </a>
+            <ul class="dropdown-menu currency-list" role="menu"></ul>
+        </div>
+    </div>
+    <ul class="footer__social social-links row-flex">
+        <li>
+            <a target="_blank" href="https://www.facebook.com/Officeshoes1" class="facebook">
+                <span class="icon-facebook"></span>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://www.pinterest.com/officeshoes1/" class="pinterest">
+                <span class="icon-pinterest"></span>
+            </a>
+        </li>
+        <li>
+            <a target="_blank" href="https://instagram.com/officeshoes" class="instagram">
+                <span class="icon-instagram"></span>
+            </a>
+        </li>
+    </ul>
+</div>
+            
+                
+                
+            
+                
+                
+
+<legend class="primary"></legend>
+<div class="footer__payments col-s-24">
+    <img class="img-responsive" width="40" height="25" src="/_ui/responsive/site-office/images/payment/office.svg">
+    <img class="img-responsive" width="40" height="25" src="/_ui/responsive/site-office/images/payment/visa.svg">
+    <img class="img-responsive" width="40" height="25" src="/_ui/responsive/site-office/images/payment/paypal.svg">
+    <img class="img-responsive" width="40" height="25" src="/_ui/responsive/site-office/images/payment/amex.svg">
+    <img class="img-responsive" width="40" height="25" src="/_ui/responsive/site-office/images/payment/maestro.svg">
+    <img class="img-responsive" width="40" height="25" src="/_ui/responsive/site-office/images/payment/master.svg">
+</div>
+            
+                
+                <script type="text/javascript">
 var accountID="UA-1321678-2";
 var localVars = QLTracking.populateLocalVariables();
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -2434,44 +2077,12 @@ if (localVars.pageType == "Checkout:Confirmation" || localVars.pageType == "Chec
 </script> 
 
 
-			
-				
-			
-				
-
-<div id="cookie-wrapper">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-offset-2 col-sm-8 cookie-message">
-        <p class="cookie-text">
-          We use cookies to improve our site and your shopping experience. By continuing to browse our site you accept our cookie policy. <a href="/view/content/privacy-info-page">Find out more</a>
-        </p>
-      </div>
-      <div class="col-sm-2">
-        <a class="btn btn-primary btn-fluid" id="cookiePolicyButton">
-          Got It
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-<script>
-  $(document).ready(function() {
-    var cookieName = "cookiePrompt";
-    var cookieWrapper = $("#cookie-wrapper");
-    var gotIt = $("#cookiePolicyButton");
-    var setPolicyCookie = function() {
-      QLJS.setCookie(cookieName, "true", "9999");
-      cookieWrapper.removeClass("active");
-    }
-    if (!QLJS.getCookie(cookieName)) {
-      cookieWrapper.addClass("active");
-    }
-    gotIt.on('click', setPolicyCookie);
-  });
-</script>
-			
-				
+            
+                
+                
+            
+                
+                
 
 
 
@@ -2479,14 +2090,15 @@ if (localVars.pageType == "Checkout:Confirmation" || localVars.pageType == "Chec
 <div class="banner_content currency_info hidden">
 
     <script type="text/javascript">
-
         $(document).ready(function() {
             var cookieSelectedCurrency = QLJS.getCookie("selectedCurrency");
-            var multicurrencyEnabled = 'true';
+            var multicurrencyEnabled = true;
+            var currentSite = 'office';
 
-            
+            if(multicurrencyEnabled){
+                QLJS.multicurrencyEnabled = true;
 
-                
+                // Default Currency
                 var defaultCurrency =  {};
                 defaultCurrency['name'] = 'Pound Sterling';
                 defaultCurrency['isoCode'] = 'GBP';
@@ -2499,8 +2111,8 @@ if (localVars.pageType == "Checkout:Confirmation" || localVars.pageType == "Chec
                 defaultCurrency['decimalDigits'] = '2';
                 defaultCurrency['currencySymbol'] = '£';
 
+                // If there is no cookie but there is a currency selection
                 if (!cookieSelectedCurrency) {
-                    //if there is no cookie but there is a currency selection
                     QLJS.setCookie("selectedCurrency", defaultCurrency['isoCode'], 1825);
                     cookieSelectedCurrency = QLJS.getCookie("selectedCurrency");
                 } else if (!(cookieSelectedCurrency === defaultCurrency['isoCode'])) {
@@ -2512,10 +2124,9 @@ if (localVars.pageType == "Checkout:Confirmation" || localVars.pageType == "Chec
                         }
                     })
                 }
+            }
 
-            
-
-            
+            // List of Currencies - they will appear in currency selector
             var selectableCurrencies = [];
             var currency =  {};
 
@@ -2536,7 +2147,7 @@ if (localVars.pageType == "Checkout:Confirmation" || localVars.pageType == "Chec
                 currency =  {};
                 currency['name'] = 'Euro';
                 currency['isoCode'] = 'EUR';
-                currency['gbpConversionRate'] = '1.14';
+                currency['gbpConversionRate'] = '1.16';
                 currency['currencySymbolPosition'] = 'RIGHT';
                 currency['roundingRule'] = '0';
                 currency['decimalSeparator'] = ',';
@@ -2549,7 +2160,7 @@ if (localVars.pageType == "Checkout:Confirmation" || localVars.pageType == "Chec
                 currency =  {};
                 currency['name'] = 'US Dollar';
                 currency['isoCode'] = 'USD';
-                currency['gbpConversionRate'] = '1.27';
+                currency['gbpConversionRate'] = '1.29';
                 currency['currencySymbolPosition'] = 'LEFT';
                 currency['roundingRule'] = '0';
                 currency['decimalSeparator'] = '.';
@@ -2562,173 +2173,347 @@ if (localVars.pageType == "Checkout:Confirmation" || localVars.pageType == "Chec
 
             QLJS.selectableCurrencies = selectableCurrencies;
 
+            //Currency exchange
+            if(multicurrencyEnabled){
+                $.each(selectableCurrencies, function( index, value ) {
+                    var currencyName = currentSite === 'offspring' ? 
+                        value.isoCode + " (" + value.currencySymbol.trim() +")" :
+                        value.currencySymbol+ ' ' +value.isoCode;
+                    var currencyIso = value.isoCode;
+                    var currencyHTML = currentSite === 'offspring' ? 
+                        "<img src='/_ui/responsive/site-office/images/flags/"+currencyIso+"-flag.png' /> " + currencyName :
+                        currencyName + "<img src='/_ui/responsive/site-office/images/flags/"+currencyIso+"-flag.svg' />";
 
-            //currency exchange
-            
-                
-                    $.each(selectableCurrencies, function( index, value ) {
-                        var currencyName = value.isoCode + " (" + value.currencySymbol.trim() +")",
-                            currencyIso = value.isoCode,
-                            currencyHTML = "<img src='/_ui/responsive/site-office/images/flags/"+currencyIso+"-flag.png' /> " + currencyName,
-                            currencySelected = false;
-                        if (cookieSelectedCurrency === value.isoCode){
-                            currencySelected = true;
-                            QLJS.changePrices(cookieSelectedCurrency, selectableCurrencies, true);
-                        }else{
-                            currencySelected = false;
-                        }
+                    var currencySelected = false;
+                    if (cookieSelectedCurrency === value.isoCode){
+                        currencySelected = true;
+                        QLJS.changePrices(cookieSelectedCurrency, selectableCurrencies, true);
+                    } else {
+                        currencySelected = false;
+                    }
 
-                        $("select.currency-select").each(function() {
-                            $(this).append($('<option>', {
-                                value: currencyIso,
-                                html : currencyHTML,
-                                selected : currencySelected,
-                                title: currencyHTML,
-                                class: currencyIso
-                            }));
+                    $("select.currency-select").each(function() {
+                        $(this).append($('<option>', {
+                            value: currencyIso,
+                            html : currencyHTML,
+                            selected : currencySelected,
+                            title: currencyHTML,
+                            class: currencyIso
+                        }));
+                    })
+                    .selectpicker('refresh');
+
+                    if (currencySelected){
+                        $(".selected-currency").each(function () {
+                            $(this).html('<span class="'+ currencyIso +' currency-item" value="'+ currencyIso +'">'+currencyHTML+'</span>');
                         });
-
-                        $('select.currency-select').selectpicker('refresh');
-
-                        if (currencySelected === false){
-                            $("ul.currency-list:not(.in-modal)").each(function () {
-                                $(this).append($('<li>', {
-                                    class: currencyIso + " currency-item",
-                                    value: currencyIso,
-                                    html: currencyHTML
-                                }));
-                            });
-                        } else {
-                            $(".selected-currency").each(function () {
-                                $(this).html('<span class="'+ currencyIso +' currency-item" value="'+ currencyIso +'">'+currencyHTML+'</span>');
-                            });
-                        }
-
-                        $("ul.currency-list.in-modal").each(function () {
+                    } else {
+                        $("ul.currency-list:not(.in-modal)").each(function () {
                             $(this).append($('<li>', {
                                 class: currencyIso + " currency-item",
                                 value: currencyIso,
                                 html: currencyHTML
                             }));
                         });
-
-                    });
-
-
-                    $('#genericCurModal').on('hidden.bs.modal', function (e) {
-                        QLJS.setCookie("hasUserSelectedCurr", "true", 1825);
-                    })
-
-                    // If the Akamai cookie exist and is set to true
-                    if ( QLJS.getCookie('akamaiMulticurrency') && QLJS.getCookie('akamaiMulticurrency') === "true" ) {
-                        // if hasUserSelectedCurr doesn't exist, or is set to false
-                        if ( !QLJS.getCookie('hasUserSelectedCurr') || QLJS.getCookie('hasUserSelectedCurr') === "false" ) {
-                            // Make sure there modal exist in the DOM
-                            if( $('#genericCurModal').length > 0 ) {
-                                // Show the currency modal
-                                $('#genericCurModal').modal('show');
-                            }
-                        }
                     }
 
-                    $(".currency").css("visibility", "visible");
-
-                    
-                        
-                        
-                            //selecting new currency from list
-                            $( ".currency-select" ).change(function() {
-                                var currencySelIso = $(this).val();
-                                var cookieCurrency = QLJS.getCookie("selectedCurrency");
-                                if (currencySelIso.length == 0) {
-                                    return true;
-                                }
-                                if ( document.location.href.indexOf('/basket') > -1 || $(".empty-minicart").length === 0) {
-                                    QLJS.ajaxCurrency(currencySelIso, true);
-                                }else{
-                                    if (cookieCurrency != currencySelIso){
-                                        QLJS.changePrices(currencySelIso, selectableCurrencies);
-                                    }
-                                    //changes all other selects to the new currency
-                                    $(".currency-select").not(this).val(currencySelIso).selectpicker('refresh');
-                                    QLJS.remainingCurrenciesDropdown(currencySelIso, selectableCurrencies);
-                                    QLJS.updateSelectedCurrency(currencySelIso, selectableCurrencies);
-                                }
-
-                            });
-                        
-                    
-
-                    //selecting new currency from item
-                    $(".currency-list").on("click", "li.currency-item", function () {
-
-                        var currencySelIso = $(this).attr("value"),
-                            currencyHTML = $(this).html();
-
-                        // Check with remaining currency are available (all currency - current one)
-                        // and generate the listing with the remaining options
-                        QLJS.remainingCurrenciesDropdown(currencySelIso, selectableCurrencies);
-
-
-                        if ( document.location.href.indexOf('/basket') > -1 || $(".empty-minicart").length === 0) {
-                            QLJS.ajaxCurrency(currencySelIso, true);
-                        }else{
-                            QLJS.changePrices(currencySelIso, selectableCurrencies);
-                            //changes all other selects to the new currency
-                            $(".currency-select").not(this).val(currencySelIso).selectpicker('refresh');
-                            $(".selected-currency").each(function () {
-                                $(this).html('<span class="'+ currencySelIso +' currency-item" value="'+ currencySelIso +'">'+currencyHTML+'</span>');
-                            });
-                        }
-
-                        // If it's currency modal
-                        if( $(this).parents('#genericCurModal') ) {
-                            // If a currency is selected, setting the currency is already taken care of
-                            // so dismiss the modal
-                            $('.currency-list.in-modal').hide(); // for visual transition
-                            $('#genericCurModal').modal('hide');
-                        }
+                    $("ul.currency-list.in-modal").each(function () {
+                        $(this).append($('<li>', {
+                            class: currencyIso + " currency-item",
+                            value: currencyIso,
+                            html: currencyHTML
+                        }));
                     });
 
-                    
-                
-                
-            
-        });
+                });
 
+
+                $('#genericCurModal').on('hidden.bs.modal', function (e) {
+                    QLJS.setCookie("hasUserSelectedCurr", "true", 1825);
+                })
+
+                // If the Akamai cookie exist and is set to true
+                if ( QLJS.getCookie('akamaiMulticurrency') && QLJS.getCookie('akamaiMulticurrency') === "true" ) {
+                    // if hasUserSelectedCurr doesn't exist, or is set to false
+                    if ( !QLJS.getCookie('hasUserSelectedCurr') || QLJS.getCookie('hasUserSelectedCurr') === "false" ) {
+                        if( $('#genericCurModal').length ) $('#genericCurModal').modal('show');
+                    }
+                }
+
+                $(".currency").css("visibility", "visible");
+
+                //selecting new currency from item
+                $(".currency-list").on("click", "li.currency-item", function () {
+                    var currencySelIso = $(this).attr("value");
+                    var currencyHTML = $(this).html();
+
+                    // Check with remaining currency are available (all currency - current one)
+                    // and generate the listing with the remaining options
+                    QLJS.remainingCurrenciesDropdown(currencySelIso, selectableCurrencies);
+
+                    if ( document.location.href.indexOf('/basket') > -1 || $(".empty-minicart").length === 0) {
+                        QLJS.ajaxCurrency(currencySelIso, true);
+                    } else {
+                        QLJS.changePrices(currencySelIso, selectableCurrencies);
+                        //changes all other selects to the new currency
+                        $(".currency-select").not(this).val(currencySelIso).selectpicker('refresh');
+                        $(".selected-currency").each(function () {
+                            $(this).html('<span class="'+ currencySelIso +' currency-item" value="'+ currencySelIso +'">'+currencyHTML+'</span>');
+                        });
+                    }
+
+                    // If it's currency modal
+                    if( $(this).parents('#genericCurModal') ) {
+                        // If a currency is selected, setting the currency is already taken care of
+                        // so dismiss the modal
+                        $('.currency-list.in-modal').hide(); // for visual transition
+                        $('#genericCurModal').modal('hide');
+                    }
+                });
+
+                // Facets only applies for Offspring
+                if(currentSite === 'offspring'){
+                    // Currency Selector
+                    $(".currency-select").on("change", function() {
+                        var currencySelIso = $(this).val();
+                        var cookieCurrency = QLJS.getCookie("selectedCurrency");
+                        if (!currencySelIso.length) return true;
+                        if ( document.location.href.indexOf('/basket') > -1 || $(".empty-minicart").length === 0) {
+
+                            if( $('.productList').length ) {
+                                // If the page is PLP
+                                QLJS.ajaxCurrency(currencySelIso, false);
+                                var pageReload = QLJS.changeFacetPrices(currencySelIso, selectableCurrencies);
+                                if (pageReload) location.reload();
+                            } else {
+                                // Any other page than PLP
+                                QLJS.ajaxCurrency(currencySelIso, true);
+                            }
+                        }else{
+                            if (cookieCurrency != currencySelIso){
+                                // If the page is PLP
+                                if( $('.productList').length ) {
+                                    QLJS.changeFacetPrices(currencySelIso, selectableCurrencies);
+                                    QLJS.changePrices(currencySelIso, selectableCurrencies);
+                                } else {
+                                    // Any other page than PLP
+                                    QLJS.changePrices(currencySelIso, selectableCurrencies);
+                                }
+                            }
+                            //changes all other selects to the new currency
+                            $(".currency-select").not(this).val(currencySelIso).selectpicker('refresh');
+                            QLJS.remainingCurrenciesDropdown(currencySelIso, selectableCurrencies);
+                            QLJS.updateSelectedCurrency(currencySelIso, selectableCurrencies);
+                        }
+
+                    });
+
+                    //  On facet price range search
+                    $(".js-facet-price-form .js-facet-filter-btn").on("click", function(e){
+                        e.preventDefault();
+                        // Sets variables
+                        var cookieSelectedCurrency = QLJS.getCookie("selectedCurrency"),
+                            $from = $(".js-price-from"),
+                            $to = $(".js-price-to"),
+                            exchange,
+                            convertedFrom,
+                            convertedTo,
+                            valueFrom,
+                            valueTo,
+                            $facetForm = $(".js-facet-price-form");
+
+                        // Replace commas by dot to make "valid" numbers
+                        valueFrom = $from.val();
+                        valueFrom = valueFrom.replace(",",".").trim();
+                        valueTo = $to.val();
+                        valueTo = valueTo.replace(",",".").trim();
+
+                        // Get the exchange rate, and rounding rules
+                        selectableCurrencies.filter(function (current) {
+                            if(current.isoCode == cookieSelectedCurrency){
+                                exchange =  current.gbpConversionRate;
+                            }
+                        });
+
+                        // FROM value - convert the "from" input to the selected currency
+                        if (!isNaN(valueFrom)) {
+                            convertedFrom = QLJS.reverseExchangePrice(valueFrom, exchange);
+                            // Store the converted values to the hidden input
+                            // to submit the request and filter products
+                            $facetForm.find(".js-price-from-base").val(convertedFrom);
+                        }
+
+                        // TO value - convert the "to" input to the selected currency
+                        if (!isNaN(valueTo)) {
+                            convertedTo   = QLJS.reverseExchangePrice(valueTo, exchange);
+                            // Store the converted values to the hidden input
+                            // to submit the request and filter products
+                            $facetForm.find(".js-price-to-base").val(convertedTo);
+                        }
+
+                        // Submit the form now
+                        $facetForm.trigger("submit");
+
+                    });
+
+                    // If you are the PLP with the URL parameters for the price range:
+                    if(QLJS.getParameterByName("price_min") || QLJS.getParameterByName("price_max")) {
+                        var defaultPriceVal = "";
+                        var min = defaultPriceVal;
+                        if (QLJS.getParameterByName("price_min")) {
+                            min = QLJS.getParameterByName("price_min").trim();
+                        }
+                        var max = defaultPriceVal;
+                        if (QLJS.getParameterByName("price_max")) {
+                            max = QLJS.getParameterByName("price_max").trim()
+                        }
+                        var $from = $(".js-price-from"),
+                            $to = $(".js-price-to"),
+                            convertedFrom,
+                            convertedTo;
+
+                        // Store the converted values to the hidden input
+                        // to submit the request and filter products
+                        $(".js-price-from-base").attr("value",min);
+                        $(".js-price-to-base").attr("value",max);
+
+                        selectableCurrencies.filter(function (current) {
+                            if(current.isoCode == cookieSelectedCurrency){
+                                exchange =  current.gbpConversionRate;
+                            }
+                        });
+
+                        // On page load if the currency is different than GBP
+                        if (cookieSelectedCurrency !== "GBP") {
+                            // from the URL in GBP, convert it back to the selected
+                            // currency and display that value in the input range
+                            if (min !== "") {
+                                convertedFrom = QLJS.exchangePrice(min, exchange),
+                                convertedFrom = Math.floor(convertedFrom);
+                                $from.attr("value", convertedFrom);
+                            } else {
+                                $from.attr("value", "");
+                            }
+
+                            if (max !== "") {
+                                convertedTo = QLJS.exchangePrice(max, exchange),
+                                convertedTo = Math.floor(convertedTo);
+                                $to.attr("value", convertedTo);
+                            } else {
+                                $to.attr("value", "");
+                            }
+                        }
+
+                    }
+
+                }
+            } else {
+                //if currency is turned off this should run
+                var $jsPrice = $(".js-price");
+                var jsPriceLength = $jsPrice.length;
+                $("footer .currency-convertor, .currency-container, .currency-section, .currency-nav").remove();
+                QLJS.changeHistoryPrices(selectableCurrencies);
+                $jsPrice.each(function (index) {
+                    $(this).show(0, function() {
+                        //triggered event is used for properly calculating equal height on WL page on mobile.
+                        //Equal Height plugin is called once the last ".js-price" element is displayed
+                        if(index === (jsPriceLength - 1)) $(document).trigger("priceConversionCompleted");
+                    });
+                });
+                $(".js-price-format, .js-price-history, .js-price-norounding").each(function () {
+                    $(this).show();
+                });
+                
+                if(currentSite === 'offspring'){
+                    //Restore price min and price max form inputs if multicurrency is disabled
+                    $(".js-facet-price-form .js-facet-filter-btn").on("click", function(e){
+                        e.preventDefault();
+                        $from = $('.js-price-from');
+                        $to = $('.js-price-to');
+                        valueFrom = $from.val().trim();
+                        valueTo   = $to.val().trim();
+                        $priceFacetForm = $('.js-facet-price-form');
+                        $facetForm = $(".js-facet-price-form");
+                        $priceFacetForm.find('.js-price-from-base').val(valueFrom);
+                        $priceFacetForm.find('.js-price-to-base').val(valueTo);
+                        $facetForm.trigger("submit");
+                    });
+                }
+            }
+        });
     </script>
 
 </div>
-
-			
-				
+            
+                
+                
 
 <div id="genericCurModal" class="modal modal--currency fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal"></button>
-        <div class="modal-title text-center">Choose your currency</div>
-      </div>
-      <div class="modal-body text-center">
-        <p>You can now pay in Euros &amp; Dollars at Office.co.uk <br> Please select the currency you wish to shop in.</p>
-          <div class="row mt15">
-            <ul class="currency-list in-modal">
+    <div class="modal-dialog">
+        <div class="modal-content text-center">
+        <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal"></button>
+            <div class="modal-title">Choose your currency</div>
+        </div>
+        <div class="container-flex modal-body">
+            <p>You can now pay in Euros &amp; Dollars at Office.co.uk <br> Please select the currency you wish to shop in.</p>
+            <ul class="currency-list row-flex in-modal">
             </ul>
-          </div>
-      </div>
+        </div>
+        </div>
     </div>
-  </div>
 </div>
-				
-		</div>
-	</div>
+            
+
+        </div>
+    </div>
+
+    
+    <div class="footer__bottom">
+        <div class="container-flex">
+            <div class="row-flex">
+                <div class="col-s-24 col-m-8 footer__bottom__copyright">
+                    <p>© 2019 Office Holdings Ltd. All Rights Reserved</p>
+                </div>
+                <ul class="col-s-24 col-m-16">
+                    <li>
+                        <a href="/view/content/sitemap">Sitemap</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/privacy-info-page">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/privacy-info-page">Cookies Policy</a>
+                    </li>
+                    <li>
+                        <a href="/view/content/terms-info-page">Terms &amp; Conditions</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </footer>
+
+
+<div class="cookie-policy" id="cookie-policy">
+    <div class="cookie-policy__wrapper">
+        <div class="cookie-policy__info">
+            <p class="cookie-policy__text">We use cookies to improve our site and your shopping experience. By continuing to browse our site you accept our cookie policy. <a class="btn-link" href="/view/content/privacy-info-page">Find out more</a>
+            </p>
+        </div>
+        <div class="cookie-policy__action">
+            <span class="cookie-policy__close icon-close js-close-popup"></span>
+        </div>
+    </div>
 </div>
 
-        <!--Optimization is ON -->
-	   <script async="" src="//media.office.co.uk/_ui/responsive/site-office/../common/js/office-responsive-footer-min.js?version=3.7d"></script>
 
+<div class="overlay-backdrop"></div>
+        <script src="//media.office.co.uk/_ui/responsive/site-office/../site-office/js/footer-scripts.min.js?version=5.0"></script>
+
+<script src="//media.office.co.uk/_ui/responsive/site-office/../site-office/js/common.min.js?version=5.0"></script>
+
+<script src="//media.office.co.uk/_ui/responsive/site-office/../site-office/js/footer-legacy.min.js?version=5.0"></script>
 	<script type="text/javascript">try {var __scP=(document.location.protocol=="https:")?"https://":"http://";var __scS=document.createElement("script");__scS.type="text/javascript";__scS.async=true;__scS.src=__scP+"d16fk4ms6rqz1v.cloudfront.net/capture/OFFICE.js";document.getElementsByTagName("head")[0].appendChild(__scS);}catch(e){}</script>
 
         <div class="mobile-menu-overlay"></div>
