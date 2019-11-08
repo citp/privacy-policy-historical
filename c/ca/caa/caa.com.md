@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caa.com privacy policy that was archived on 2019-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190209144215id_/https%3A//www.caa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caa.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108215624id_/https%3A//www.caa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CAA
 
@@ -8,7 +8,7 @@ Introduction
 
 Creative Artists Agency, LLC (“Company” or “We”), respects your privacy and is committed to protecting it through compliance with this policy.
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website www.caa.com (“Website”) and our practices for collecting, using, maintaining, protecting, and disclosing that information. Company is the data controller for information processed through the Website.
+This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.caa.com](http://www.caa.com/) (“Website”) and our practices for collecting, using, maintaining, protecting, and disclosing that information. Company is the data controller for information processed through the Website.
 
 This policy applies to information we collect:
 
@@ -29,7 +29,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 Children
 
-Our Website is not intended for nor targeted towards children as defined by applicable law. We do not knowingly collect personal information from children. If you are younger than the age of consent in your jurisdiction, do not use or provide any information on this Website or on or through any of its features or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If you believe we might have any information from or about a child under the applicable age of consent, please contact us at Privacy@caa.com and we will delete it.
+Our Website is not intended for nor targeted towards children as defined by applicable law. We do not knowingly collect personal information from children. If you are younger than the age of consent in your jurisdiction, do not use or provide any information on this Website or on or through any of its features or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If you believe we might have any information from or about a child under the applicable age of consent, please contact us at [Privacy@caa.com](mailto:Privacy@caa.com) and we will delete it.
 
 Information We Collect About You and How We Collect It
 
@@ -138,11 +138,11 @@ Choices About How We Use and Disclose Your Information
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
   * Tracking Technologies and Advertising. Our website does not respond to “Do Not Track” signals. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe’s website. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * Promotional Offers from the Company. If you do not wish to have your contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by checking the relevant box located on the form on which we collect your data or at any other time by sending us an email stating your request to Privacy@caa.com. If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
+  * Promotional Offers from the Company. If you do not wish to have your contact information used by the Company to promote our own or third parties’ products or services, you can opt-out by checking the relevant box located on the form on which we collect your data or at any other time by sending us an email stating your request to [Privacy@caa.com](mailto:Privacy@caa.com). If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
 
 
 
-We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website: https://www.networkadvertising.org/.
+We do not control third parties’ collection or use of your information to serve interest-based advertising. However these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website: <https://www.networkadvertising.org/>.
 
 Your Rights
 
@@ -150,7 +150,7 @@ To the extent required by law, Company provides you with (i) reasonable access t
 
 Your California Privacy Rights
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to Privacy@caa.com or write us at: 2000 Avenue of the Stars, Los Angeles, CA 90067, Attn: General Counsel.
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [Privacy@caa.com](mailto:Privacy@caa.com) or write us at: 2000 Avenue of the Stars, Los Angeles, CA 90067, Attn: General Counsel.
 
 Data Security
 
@@ -168,6 +168,6 @@ To ask questions or comment about this privacy policy and our privacy practices,
 
 2000 Avenue of the Stars, Los Angeles, CA 90067, Attn: General Counsel
 
-Email: Privacy@caa.com
+Email: [Privacy@caa.com](mailto:Privacy@caa.com)
 
 European Union: You have the right to lodge a complaint with a supervisory authority if you believe we have processed your personal data in a manner inconsistent with your privacy rights. We kindly request that you contact us first so that we may address your concern.
