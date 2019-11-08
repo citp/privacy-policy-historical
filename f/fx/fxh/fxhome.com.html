@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fxhome.com privacy policy that was archived on 2019-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190610111236id_/https%3A//fxhome.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxhome.com privacy policy that was archived on 2019-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191109001721id_/https%3A//fxhome.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
 		<meta charset="utf-8">
@@ -42,10 +42,10 @@
 		<link rel="apple-touch-icon" sizes="76x76" href="https://s3.amazonaws.com/fxhome-static/images/global/hf/apple-touch-icon-ipad@1x.png">
 		<link rel="apple-touch-icon" sizes="152x152" href="https://s3.amazonaws.com/fxhome-static/images/global/hf/apple-touch-icon-ipad@2x.png">
 
-		<link rel="stylesheet" href="https://fxhome.com/style/ce6e848b3f844976c7ab3c2bc331eab4bbab2450/global-new.css">
+		<link rel="stylesheet" href="https://fxhome.com/style/5890769ba4e99ea33a690297255d23d654e15049/global-new.css">
 		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
-		<script src="https://fxhome.com/js/ce6e848b3f844976c7ab3c2bc331eab4bbab2450/global.js"></script>
+		<script src="https://fxhome.com/js/5890769ba4e99ea33a690297255d23d654e15049/global.js"></script>
 								<!-- Google Analytics -->
 			<script>
 				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -80,12 +80,23 @@
         <![endif]-->
 
 			<div id="cookie-notice" class="cookie-notice" data-last-updated="1542621300">
-		<h3><i class="ion-information-circled"></i>This website uses cookies</h3>
-		<p>We use cookies to personalise your content, analyse our traffic and improve your browsing experience. You consent to our cookies if you continue to use our&nbsp;website.</p>
-		<p>Read more about our use of <a href="/cookies">cookies</a>. Understand your data by reading our <a href="/privacy">Privacy&nbsp;policy</a>.</p>
-
-		<a id="cookie-notice-accept" class="btn" style="display: none">Accept</a>
-		<a class="btn-link" href="/cookies#preferences">Options</a>
+		<div class="g-container-medium">
+			<div class="g-unit-12 g-medium-unit-12 g-large-unit-12">
+				<div class="brand">
+					<img src="https://s3.amazonaws.com/fxhome-static/images/global/fxhome-96.png" alt="">
+					<span>FXhome</span>
+				</div>
+				<h3>We value your privacy</h3>
+			</div>
+			<div class="g-unit-12 g-medium-unit-8 g-large-unit-8">
+				<p>We use cookies to personalise your content, analyse our traffic and improve your browsing experience. You consent to our cookies if you continue to use our&nbsp;website.</p>
+				<p>Read more about our use of <a href="/cookies">cookies</a>. Understand your data by reading our <a href="/privacy">Privacy&nbsp;policy</a>.</p>
+			</div>
+			<div class="g-unit-12 g-medium-unit-4 g-large-unit-4">
+				<a id="cookie-notice-accept" class="btn" style="display: none">Accept</a>
+				<a class="btn-link" href="/cookies#preferences">Options</a>
+			</div>
+		</div>
 	</div>
 
 		<nav class="nav ">
@@ -108,8 +119,6 @@
 						<li><a href="/action-pro">Action Pro</a></li>
 						<li><a href="/hitfilm-express">HitFilm Express <span class="free">free</span></a></li>
 						<li><a href="/hitfilm-pro">HitFilm Pro</a></li>
-						<li><a href="/hitfilm-studio">HitFilm Studio</a></li>
-						<li><a href="/ignite-express">Ignite Express <span class="free">free</span></a></li>
 						<li><a href="/ignite-pro">Ignite Pro</a></li>
 						<li><a href="/imerge-pro">Imerge Pro</a></li>
 					</ul>
@@ -512,6 +521,7 @@
         <ul>
           <li><a href="/friends">Friends of FXhome</a></li>
           <li><a href="/blog">Blog</a></li>
+          <li><a href="/articles">Articles</a></li>
           <li><a href="/forum">Forum</a></li>
         </ul>
       </div>
@@ -539,7 +549,6 @@
           <li><a href="/action-pro">Action Pro</a></li>
           <li><a href="/hitfilm-express">HitFilm Express <span class="free">free</span></a></li>
           <li><a href="/hitfilm-pro">HitFilm Pro</a></li>
-          <li><a href="/hitfilm-studio">HitFilm Studio</a></li>
         </ul>
       </div>
       <div class="flex-item-4up">
@@ -550,13 +559,11 @@
         <h4>Legacy Software</h4>
         <ul>
           <li><a href="/photokey-pro">PhotoKey 8 Pro</a></li>
-          <li><a href="/photokey-studio">PhotoKey 8 Studio</a></li>
         </ul>
       </div>
       <div class="flex-item-4up">
         <h3>Effects Plugins</h3>
         <ul>
-          <li><a href="/ignite-express">Ignite Express <span class="free">free</span></a></li>
           <li><a href="/ignite-pro">Ignite Pro</a></li>
         </ul>
         <h3><a href="/compare">Compare Products »</a></h3>
@@ -578,7 +585,7 @@
           function subscribeToNewsletter(email, method, callback) {
             $.ajax({
               type: 'POST',
-              url: '/api/user/subscribeToNewsletter',
+              url: '/api/user/subscribe-to-newsletter',
               data: {email:email, method:method},
               dataType: 'json',
               success: function(data){
