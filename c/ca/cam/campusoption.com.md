@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the campusoption.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606212237id_/https%3A//www.campusoption.com/static/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusoption.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108105804id_/https%3A//www.campusoption.com/static/privacy-statement) for the most accurate reproduction.*
 
 # Best educational portal : Providing latest news, exam result
 
