@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download.hr privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331182531id_/https%3A//www.download.hr/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download.hr privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108142532id_/https%3A//www.download.hr/about/privacy) for the most accurate reproduction.*
 
 # Download.hr Privacy Policy
 
