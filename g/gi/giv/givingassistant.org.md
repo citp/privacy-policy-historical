@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givingassistant.org privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327224607id_/https%3A//givingassistant.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givingassistant.org privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108235401id_/https%3A//givingassistant.org/privacy-policy) for the most accurate reproduction.*
 
 # Giving Assistant - Privacy Policy
 
