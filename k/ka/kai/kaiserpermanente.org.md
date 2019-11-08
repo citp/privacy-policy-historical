@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaiserpermanente.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615012613id_/https%3A//healthy.kaiserpermanente.org/health/poc%3Furi%3Dcenter%3Aprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaiserpermanente.org privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108020320id_/https%3A//healthy.kaiserpermanente.org/health/poc%3Furi%3Dcenter%3Aprivacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Kaiser Permanente
 
@@ -214,4 +214,4 @@ Pleasanton, CA 94588
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>[____](https://feedback-form.truste.com/watchdog/request "https://feedback-form.truste.com/watchdog/request").
 
-Last revised September 13, 2017.
+Last revised: October 16, 2019.
