@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815033124id_/https%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108214342id_/https%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Secret Escapes
 
 **1\. Secret Escapes' approach to privacy**  
 
-The website and app that is linked to this privacy policy is operated by Secret Escapes Limited ("we" or "us"). 
+The website and app that is linked to this privacy notice is operated by Secret Escapes Limited ("we" or "us"). 
 
 We appreciate your interest in our website (our "site") or our app (our "app"). Privacy protection is very important to us and we are committed to protecting you and respecting your privacy. This privacy notice sets out information about how we collect, store, process, transfer, share and use data that identifies or is associated with you (hereinafter "personal information"). It also describes your data protection rights, including a right to object to some of the processing which we carry out. More information about your rights, and how to exercise them, is set out in the “Accessing and Correcting your personal information” section.  
 
@@ -64,31 +64,31 @@ e) Using personal information about you that is contained in private messages se
 
  **As required to conduct our business and pursue our legitimate interests.** In particular, we will:  
 
-a) Send you electronic marketing communications in accordance with your marketing preferences 
+a) Post to your social network or to your friends in accordance with your privacy settings on each network 
 
-b) Post to your social network or to your friends in accordance with your privacy settings on each network 
+b) Use your comments and opinions to address your queries, issues and concerns and improve our service.  
 
-c) Use your comments and opinions to address your queries, issues and concerns and improve our service.  
+c) Use comments and opinions you express (when responding to surveys, entering competitions or taking part in other promotions) to determine offers that may be of interest to you. 
 
-d) Use comments and opinions you express (when responding to surveys, entering competitions or taking part in other promotions) to determine offers that may be of interest to you. 
+d) Use your transaction information and history to determine travel offers that may be of interest to you and send you marketing in accordance with your marketing preferences 
 
-e) Use your transaction information and history to determine travel offers that may be of interest to you and send you marketing in accordance with your marketing preferences 
+e) Use your preference settings for the purpose of providing notifications, sending marketing communications and displaying our site in accordance with your choices 
 
-f) Use your preference settings for the purpose of providing notifications, sending marketing communications and displaying our site in accordance with your choices 
+f) Use information about how you use and connect to our site and our app to optimise your experience of our site or our app on your device, to determine offers that may be of interest to you for marketing purposes and to assess the success of our marketing campaigns 
 
-g) Use information about how you use and connect to our site and our app to optimise your experience of our site or our app on your device, to determine offers that may be of interest to you for marketing purposes and to assess the success of our marketing campaigns 
+g) Use an approximate location to ensure content on our site is relevant to the area, city, state or country you are using your device in 
 
-h) Use an approximate location to ensure content on our site is relevant to the area, city, state or country you are using your device in 
+h) Monitor use of our site or our app for the purposes of detecting and preventing fraud or crime 
 
-i) Monitor use of our site or our app for the purposes of detecting and preventing fraud or crime 
-
-j) Use your personal information help us develop new products and services 
+i) Use your personal information help us develop new products and services 
 
  **Under certain circumstances, where you give us consent, we will:**  
 
-a) Identify your location for the purposes of tailoring travel information (including hotels and recommended airports) to you 
+a) Send you electronic marketing communications in accordance with your marketing preferences
 
-b) Place certain cookies and use similar technologies subject to consent requirements. 
+b) Identify your location for the purposes of tailoring travel information (including hotels and recommended airports) to you 
+
+c) Place certain cookies and use similar technologies subject to consent requirements. 
 
  **For purposes which are required by law,** such as requests by governments or law enforcement authorities conducting an investigation. 
 
@@ -102,11 +102,38 @@ We may share your personal information with the following parties: 
 
 (b) **Hotel and travel operators:** we will share personal information which is required by the hotels and travel operators that you purchase your hotel or package holiday with so that they can arrange your booking. 
 
-(c) **Service providers and advisors:** third parties who provide a service to us. For example, third party service providers help support our IT infrastructure, process payments from you on our behalf, develop analytical information for us about our products, services and marketing and provide professional services such as legal and accountancy services. These third parties will only be allowed to use your personal information in accordance with our instructions and will be required to keep your information secure. 
+(c) **Service providers and advisors:** third parties who provide a service to us. For example, third party service providers help support our IT infrastructure, process payments from you on our behalf, develop analytical information for us about our products, services and marketing and provide professional services such as legal and accountancy services. These third parties will only be allowed to use your personal information in accordance with our instructions and will be required to keep your information secure. Such companies include: 
+
+Amazon Web Services EMEA SARL, which provides part of our website hosting; 
+
+Salesforce.com EMEA Limited, which provides our core CRM system, allowing us to manage the sending of newsletters to our members;
+
+Sitel Europe Limited, which provides our customer service centre and which has access to customer data for the purposes of assisting customers with their bookings and enquiries;
+
+Worldpay (UK) Limited, which provides payment processing services for all bookings made through our website;
+
+Snowflake Computing Inc, which provides database services enabling us to store customer data securely.
 
 (d) **Purchasers of our business:** personal information may be disclosed or transferred to buyers or prospective buyers of our business or any of our assets as part of any such sale. 
 
 (e) **Law enforcement, regulators and other parties for legal reasons:** third parties who we are under a legal obligation to disclose your personal information to or to whom we need to disclose your personal information to protect our rights, property or safety or to protect the rights, property or safety of others. For example, we may provide information to the United States Customs and Border Protection agencies if you are travelling to the USA. We may also disclose personal information to third parties to help detect and investigate illegal activities and breaches of any agreement we have with you. 
+
+(f) **Third party advertisers** : Some personal data is shared with third party companies in order to display advertising from Secret Escapes or partners in other locations on the internet. We do not share or sell member personal data for the purposes of direct marketing by third party companies. A number of specific examples are below: 
+
+(i) 
+
+_Cookies_ \- Third parties may serve cookies on your computer or mobile device to serve advertising through our site or our app. These companies may use information, in some cases including your IP address, about your visits to our website and other websites in order to display relevant advertisements about goods and services that you may be interested in. The information collected through this process does not enable us or them to identify your name, contact details or other personally identifying details unless you choose to provide these. Partners that we use in this way include Google, LiveRamp, Criteo and Captify. If you would like to opt-out of the use of your personal data in this way, you can do so by following the links below: 
+
+Google Ads - <https://support.google.com/ads/answer/2662922?hl=en-GB>  
+LiveRamp - <https://liveramp.uk/cookies-101/>  
+Criteo - <https://www.criteo.com/privacy/>  
+Captify - <https://www.captify.co.uk/privacy-policy-opt/>
+
+(ii) _Facebook_ \- We periodically match the email address you enter on the Secret Escapes website with the Facebook database. If you have a Facebook account, you would be shown information about Secret Escapes in your newsfeed where you have elected to see such ads. If you do not have a Facebook account, Facebook would delete any personal information sent to them automatically. Only a hashed email address is shared with Facebook and the information is sent in a fully encrypted and secure way. You can find out more information about the process here: [https://www.facebook.com/ads/about/?page_number=4&entry_product=ad_preferences.](https://www.facebook.com/ads/about/?page_number=4&entry_product=ad_preferences.)
+
+You can also opt-out of such sharing and elect not to see any such ads if you visit www.facebook.com - Settings - Ads - Ad settings.
+
+(iii) _Jetlore_ \- Jetlore uses cookies and a pseudonymised user ID to aggregate user behaviour on the website and emails in order to personalise content that is provided to members in the Secret Escapes newsletters. They do not receive individual email addresses or other personal data, only a number. That number can only be connected to specific users on Secret Escapes’ own systems.
 
 We may provide third parties with aggregate statistical information and analytics about users of our site or our app but we will make sure no one can be identified from this information before we disclose it. 
 
@@ -184,7 +211,7 @@ If we need to provide you with information about something, whether for legal, m
 
 If you want to get in touch to ask any questions about this notice, your privacy and your legal rights, please contact us at: Secret Escapes Limited, 4th Floor, 120 Holborn, London EC1N 2TD, and at support@secretescapes.com 
 
-This Privacy Notice was last modified on 17 May 2018. 
+This Privacy Notice was last modified on 29 July 2019. 
 
 Secret Escapes uses cookies and similar technologies to recognise you when you visit our our site or our app. The following section explains what these technologies are and why we use them, as well as your rights to control our use of them. 
 
