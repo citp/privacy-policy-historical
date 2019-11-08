@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331042418id_/http%3A//www.aimmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108185033id_/http%3A//www.aimmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Active Interest Media
 
@@ -105,7 +105,7 @@ If there are any questions regarding this privacy policy you may contact us usin
 Active Interest Media | Attn: Circulation Department  
 5720 Flatiron Pkwy  
 Boulder, CO 80301  
-privacy@aimmedia.com / 310.356.4100
+privacy@aimmedia.com
 
 **Privacy Policy Customer Pledge**  
 We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
