@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whowhatwear.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401141505id_/https%3A//www.whowhatwear.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowhatwear.co.uk privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108092931id_/https%3A//www.whowhatwear.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Celebrity Style and Fashion Trend Coverage | Who What Wear UK
 
@@ -23,9 +23,9 @@ Last Modified: 25 May 2018
 
 Welcome to the Clique UK Privacy Policy.
 
-Clique Brands Uk Limited (“Clique, or “we”, “our”, or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy will inform you as to how we look after your personal information when you visit our [www.whowhatwear.co.uk](http://www.whowhatwear.co.uk/), and [www.byrdie.co.uk](http://www.byrdie.co.uk/) websites (including, without limitation, their respective subdomains, their mobile and online versions, and their respective features, applications, content, downloads and other services that we make available through these websites and/or that post a link to this Privacy Policy (collectively, our “Site”) (regardless of where you visit them from and whether via personal computers, mobile devices or otherwise), and will tell you about your privacy rights and how the law protects you.
+Clique Brands Uk Limited (“Clique, or “we”, “our”, or “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy will inform you as to how we look after your personal information when you visit our [www.whowhatwear.co.uk](https://www.whowhatwear.co.uk/), and [www.byrdie.co.uk](http://www.byrdie.co.uk/) websites (including, without limitation, their respective subdomains, their mobile and online versions, and their respective features, applications, content, downloads and other services that we make available through these websites and/or that post a link to this Privacy Policy (collectively, our “Site”) (regardless of where you visit them from and whether via personal computers, mobile devices or otherwise), and will tell you about your privacy rights and how the law protects you.
 
-In addition, please review the Site’s Terms and Conditions of Service at <http://www.whowhatwear.co.uk/terms-conditions> and/or [www.byrdie.co.uk/terms-conditions](http://www.byrdie.co.uk/terms-conditions), which govern your use of the Site.
+In addition, please review the Site’s Terms and Conditions of Service at [http://www.whowhatwear.co.uk/terms-conditions](https://www.whowhatwear.co.uk/terms-conditions) and/or [www.byrdie.co.uk/terms-conditions](http://www.byrdie.co.uk/terms-conditions), which govern your use of the Site.
 
 ## Important information and who we are
 
@@ -53,7 +53,7 @@ We have appointed a data protection team who are responsible for overseeing ques
 
 
 
-You also have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the regulator so please contact us at [privacy@cliquebrands.com](mailto:privacy@cliquebrands.com) in the first instance.
+You also have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the regulator so please contact us at [privacy@cliquebrands.com](mailto:privacy@cliquebrands.com) in the first instance.
 
 ## Changes to the Privacy Policy and your duty to inform us of changes
 
