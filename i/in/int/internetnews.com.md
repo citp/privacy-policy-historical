@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetnews.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331205328id_/http%3A//www.internetnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetnews.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108192429id_/http%3A//www.internetnews.com/privacy) for the most accurate reproduction.*
 
 # QUINSTREET, INC. Privacy Policy
 
