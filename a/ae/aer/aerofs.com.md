@@ -1,29 +1,73 @@
-> *The following text is extracted and transformed from the aerofs.com privacy policy that was archived on 2013-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130312112027id_/https%3A//www.aerofs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerofs.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108212207id_/https%3A//redbooth.com/security) for the most accurate reproduction.*
 
-# AeroFS
+# Security, Compliance and Data Privacy at Redbooth
 
-#### This Document was last updated August 16th, 2012
+## Our Data Privacy Policy
 
-We at Air Computing, Inc. (the "Company") provide the following privacy policy (the "Policy") to inform our users how personal information is collected, used, disclosed and protected with respect to your use of www.aerofs.com website and the services and products available through the website (collectively, the "Services"). By using the Services, you consent to the practices described in the Policy. We reserve the right to modify the Policy at any time. When we change the Policy, we will post the new policy on the website and update the "Last Modified" date set forth above.
+**Your data is private and only visible to your team**
 
-## Information We Collect from You
+### Information we collect and store
 
-When you use the Services, we collect personal information from you and about you. Personal information refers to information that can be used to contact or identify you and information on your use of the Services. Personal information that we collect include, but is not limited to, your name, email addresses, credit card or other payment method information, telephone numbers, home, business, and/or billing postal addresses, email contacts (names and email addresses), IP addresses, preferences and settings, and activities and the date and time of activities performed during the use of the Services. Our servers also automatically collect information about your computer and your visits to the website, such as your IP address, browser type, date and time of visit, length of visit, page views, and the date and time of each page view in the server log files. Similar to many other websites, the website utilizes a standard technology called "cookies" to collect and store information for record-keeping purposes in a part of your computer hard drive specifically designed for cookies. A cookie is a very small data file, which often includes an anonymous unique identifier. When you visit the website, the web server asks your browser for permission to store this file on your computer. If your browser does not accept cookies, you may not be able to use all functionality of the website. We use cookies to save your sign-in ID and password for future sign-ins to the website; and we use cookies to enable certain features of the website, to better understand how you interact with the website and to monitor aggregate usage and web traffic routing on the website. In addition to personal information, we also collect "aggregate" information, which we collect from all our users as a group over time and which does not contain user identity information. We may use third parties to collect such aggregate information, and we may share aggregate information with third parties for various purposes, including helping us better understand our users and improve the Services.
+We collect and store the text, information, tasks and files you upload or access with the Redbooth Service. When you access Redbooth, we may automatically record information from your device, its software, and your activity using the service. This may include your device’s IP address, browser type, the web page visited before you came to our website, location, locale preferences, date and time stamps and other metadata concerning your interactions with the service.
 
-##  The AeroFS Usage Collector 
+### Cookies
 
-This section describes how the Company will treat the data provided by individuals and organizations through the AeroFS Usage Collector.
+We use “cookies” to collect information and improve our services. A cookie is a small data file that we transfer to your device. We may use “persistent cookies” to save your registration ID and login password for future logins to the service. You can configure your browser by changing its options to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to easily access all aspects of the Redbooth service and may need to manually enter user and password information.
 
-A unique id is generated for every workstation that submits data using the AeroFS Data Collector. This session id is transmitted every time data is sent to the Company. The data that is being collected relates to how you are using AeroFS. This includes, but is not limited to, information regarding your AeroFS version, user id, system properties available to Java, AeroFS program directory path, AeroFS configuration parameters, AeroFS UI events, sign up events, sign in events, exit events, create/join folder events, and AeroFS update events, as well as per-folder and per-file meta data such as file name extensions, how oftne files are saved and operation system flags. You can imagine it to be similar to "click stream" data that is collected at certain web sites. The Usage Collector will periodically transmit your usage data to the Company. The Company may, in its sole discretion, make available to organizations and individuals, on a case-by case-basis, the data that it collects through the Usage Collector in aggregated form.
+### Our Use of Your Personal Information
 
-## We Do Not Collect Information About Children 
+In the course of using the Service, we may collect personal information that can be used to contact or identify you (“Personal Information”). Personal Information is or may be used: (i) to provide and improve our Service, (ii) to administer your use of the Service, (iii) to better understand your needs and interests, (iv) to personalize and improve your experience, and (v) to provide or offer software updates and product announcements. If you no longer wish to receive communications from us, please follow the “unsubscribe” instructions provided in any of those communications.
 
-We do not intend or market the Services to be used by children under the age of 13, and we do not knowingly, directly or indirectly, collect personal information from children under the age of 13.
+### Geo-Location Information
 
-## How We Use Personal Information
+Some browsers allow applications to access real-time location-based information (for example, GPS). Our mobile apps do not collect such information as of the date this policy went into effect, but may do so in the future with your consent to improve our Services.
 
-We use your personal information for the following purposes: (a) to provide and improve the Services for you, (b) to administer your account and use of the Services, (c) to determine files and folders owned or added by you and shared with you, (d) to track and report your file and folder activities, (e) to personalize your experience during your use of the Services, (f) to authenticate your use of the Services, (g) to allow others to share files and folders with you, (h) to allow others to communicate with you using the Services, (i) to allow us to provide you software and product updates, and (j) to aggregate user metric or summary information for us to monitor and analyze the use of the Services.
+### Third-Party Applications
 
-## How We Share and Disclose Information
+We may share your information with a third party application with your consent (Google Drive, Dropbox or similar service), for example, when you choose to access our Services through such an application. We are not responsible for what those parties do with your information, so you should make sure you trust the application and that it has a privacy policy acceptable to you.
 
-When you share a file or folder with or send a message about a file or folder to other users, they will see a limited portion of your personal information just enough for them to recognize who you are. This limited portion includes, but is not limited to, your name and email address. When you perform activities to a file or folder you have shared with others or have been shared with you by others, the summary of such activities are displayed to other users and they include your name. We also use third parties (service providers, consultants, partners, etc.) to facilitate the Services, including, but not limited to, sending email, processing payments, providing computing servers, storing data and personal information, managing databases, and monitoring and analyzing the performance, reliability, and user experience of the Services. In connection with these business operations, these third parties may have access to your personal information for use in connection with their business activities and tasks on our behalf. As we develop our business, we may buy or sell assets or business offerings. Personal and aggregate information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+### Encryption
+
+Redbooth will not be able to decrypt any files that you encrypted prior to storing them on Redbooth.
+
+### Analytics
+
+We also collect some information (using third party services) using logging and cookies. We use this information for the above purposes and to monitor and analyze use of the Service, to increase our functionality and user-friendliness. As of the date this policy went into effect, we use Google Analytics and Intercom.
+
+### Business Transfers
+
+If we are involved in a merger, acquisition, or sale of all or a portion of our assets, your information may be transferred as part of that transaction. We will notify you (for example, via email and/or a prominent notice on our website) of any change in control or use of your Personal Information or Files, or if either become subject to a different Privacy Policy. We will also notify you of choices you may have regarding the information.
+
+### Changing or Deleting Your Information
+
+If you are a registered user, you may review, update, correct or delete the Personal Information provided in your registration or account profile by changing your “account settings.” If your personally identifiable information changes, or if you no longer desire our service, you may update or delete it by making the change on your account settings.
+
+### Data Retention
+
+Redbooth will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, you may delete your account. We will try to delete your information quickly upon request. Please note, however, that there might be latency in deleting information from our servers and backed-up.
+
+### Changes to our Privacy Policy
+
+This Privacy Policy may change from time to time. If we make a change to this privacy policy that we believe materially reduces your rights, we will provide you with notice (for example, by email). And we may provide notice of changes in other circumstances as well. By continuing to use the Service after those changes become effective, you agree to be bound by the revised Privacy Policy.
+
+If you have any questions or concerns about security or data privacy on our website or through our service, you should review this entire Security and Data Privacy Policy Page or contact us at [info@redbooth.com](mailto:info@redbooth.com).
+
+We go to great effort to make our Redbooth products as secure as possible, however if you have discovered a security vulnerability in Redbooth we would appreciate your help to disclose this to us in a responsible manner.
+
+In order to do so please send an email to [security@redbooth.com](mailto:security@redbooth.com) explaining the issue and provide detailed steps on how to reproduce the vulnerability.
+
+### EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield
+
+When transferring data from the European Union, the European Economic Area, and Switzerland, Redbooth relies upon a variety of legal mechanisms, including contracts with our users. Redbooth complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Notion Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/participant?id=a2zt00000008RluAAE&status=Active).
+
+Redbooth is subject to oversight by the U.S. Federal Trade Commission. [JAMS](https://www.jamsadr.com/eu-us-privacy-shield) is the US-based independent organization responsible for reviewing and resolving complaints about our Privacy Shield compliance — free of charge to you. We ask that you first submit any such complaints directly to us via [privacyshield@redbooth.com](mailto:privacyshield@redbooth.com). If you aren't satisfied with our response, please contact JAMS at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. In the event your concern still isn't addressed by JAMS, you may be entitled to a binding arbitration under Privacy Shield and its principles.
+
+Within the scope of our authorization to do so, and in accordance with our commitments under the Privacy Shield, Redbooth will provide individuals access to personal data about them. Redbooth also will take reasonable steps to enable individuals to correct, amend, or delete personal data that is demonstrated to be inaccurate.
+
+Redbooth uses a limited number of third party providers to assist us in providing the Services to our customers. These third parties may access, process or store personal data in the course of providing services like hosting services and marketing automation, but based on our instructions only.
+
+If we receive personal data subject to our certification under the Privacy Shield and then transfer it to a third-party service provider acting as an agent on our behalf, we have certain liability under the Privacy Shield if both (i) the agent processes the personal data in a manner inconsistent with the Privacy Shield and (ii) we are responsible for the event giving rise to the damage.
+
+Redbooth may disclose personal data when we have a good faith belief that such action is necessary to: conform to legal requirements or to respond to lawful requests by public authorities, including to meet national security or law enforcement requirements; or to enforce our contractual obligations.
+
+Redbooth is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Redbooth complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
