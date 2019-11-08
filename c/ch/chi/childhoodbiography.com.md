@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childhoodbiography.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407151546id_/https%3A//childhoodbiography.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childhoodbiography.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108015649id_/https%3A//childhoodbiography.com/privacy-policy) for the most accurate reproduction.*
 
 # Welcome to Childhood Biography Privacy Policy Page
 
