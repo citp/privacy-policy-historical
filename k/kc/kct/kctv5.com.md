@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kctv5.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330100026id_/https%3A//www.kctv5.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kctv5.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108160909id_/https%3A//www.kctv5.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | kctv5.com
 
