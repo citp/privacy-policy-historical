@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2019-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190215201015id_/https%3A//www.riskified.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riskified.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108211747id_/https%3A//www.riskified.com/privacy) for the most accurate reproduction.*
 
-# Platform and Privacy Policy | Riskified
-
-###### Last updated: May 25th, 2018
+# Privacy – Riskified
 
 Riskified provides online merchants (“Merchant”) a service that helps prevent fraudulent online transactions (“Fraud Prevention”).  Merchants integrate our Fraud Prevention on their eCommerce websites and mobile apps where consumers like you place orders (“eCommerce Platform”). After you place an order, the eCommerce Platform may request that we process your personal data to provide our services. 
 
 This Privacy Policy (“Policy”)  explains the privacy practices of Riskified Ltd., on behalf of ourselves and for the benefit of our affiliates (“Riskified”, “we”, “our”, or “us”) for our Fraud Prevention service. It describes how we collect, use and share personal information, and the rights and options available to you with respect to your information.
 
-You are not obligated by law to provide us with your personal data, but the eCommerce Platform may require that you provide us with your personal data to enable the processing of orders you place. Please note that this Policy does not cover the practices or policies of Merchants, the eCommerce Platform, or other parties.
+You are not obligated by law to provide us with your personal data, but the eCommerce Platform may require that you provide us with your personal data to enable the  processing of orders you place. Please note that this Policy does not cover the practices or policies of Merchants, the eCommerce Platform, or other parties.
 
 ## In short…
 
 This is a quick summary of the policies, listed  for your convenience. The summary does not substitute the full Policy.
 
-  * We collect information regarding your transaction, including data about your device, geolocation, cross-referenced data, and other analytical points.   
+  * We collect information regarding your transaction, including data about your device, geolocation, cross-referenced data,and other analytical points.   
   * We use the information first and foremost to analyze whether the transaction is fraudulent.
   * In some circumstances, we share your information mainly in order to operate the Fraud Prevention service. For that purpose, we may combine it with information acquired from publicly available data sources or contract with third parties for cross-referencing.
   * The Merchant may use Riskified’s fraud assessment to decide whether to accept or decline your order, based solely on automated processing.
@@ -56,35 +54,57 @@ We also use the information we collect for the following purposes:
 
 ## SHARING INFORMATION COLLECTED
 
+We may share the information outlined in this Policy with others, in the following instances:
+
+  * In order to help us provide Fraud Prevention services, we may share information with our contractors and service providers
+  * We may share limited elements of the personal data we collect with a number of third parties and operators of online publicly available data sources (such as online search engines, online ‘white pages’, online mapping services etc.). We do this in order to cross-reference, verify, and enhance the accuracy of the data we collect.
+  * Those data sources may use the data we share with them for their own purposes, in accordance with their own policies.
+  * On rare occasions, we may share limited elements of your personal data with the Merchant with whom the transaction was made for review or audit purposes.
+  * Your personal data may be shared with third parties if we believe it is required by law or legitimate legal rights.
+  * We may share information if the operation of the Fraud Prevention service is organized within a different framework or through another legal structure or entity (i.e. due to a merger or acquisition).
+  * We may share personally identifiable information with our corporate group entities but their use of such information must comply with the Policy.
+
+
+
+Several of these data sources are companies operating in countries outside your local territory or the European Economic Area, in legal environments that may not be adequate by EU data protection standards. You may opt-out of having your personal data shared with those data sources. However, opting out may prevent us from providing Fraud Prevention services and, as a result, use of the eCommerce Platform. To exercise this right please contact [support@riskified.com](mailto:support@riskified.com).
+
+## AUTOMATED DECISION MAKING
+
 In certain circumstances, the information outlined in this Policy may be shared with others including:
 
-**With our third party service providers  
-**We use best of breed service providers to assist us in providing the Fraud Prevention services. We only share with them the limited elements of the personal data we collect which are strictly necessary for them to provide us with their service. These data enrichers include online operators of publicly available data sources, such as online search engines, ‘white pages’ and mapping services etc. We do this in order to cross-reference, verify, and enhance the accuracy of the data that we collect. Some of these third party providers may use the data we share with them for their own purposes, in accordance with their own terms and policies, such as [Google’s Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://maps.google.com/help/terms_maps.html).
+**With our third party service providers**
 
-**With the Merchant  
-**On rare occasions, we may share limited elements of your personal data with the Merchant from whom you made your transaction was made This information sharing will be for the purpose of reviews, audits or dispute handling.
+We use best of breed service providers to assist us in providing the Fraud Prevention services. We only share with them the limited elements of the personal data we collect which are strictly necessary for them to provide us with their service. These data enrichers include  online operators of publicly available data sources, such as online search engines, ‘white pages’ and mapping services etc. We do this in order to cross-reference, verify, and enhance the accuracy of the data that we collect. Some of these third party providers may use the data we share with them for their own purposes, in accordance with their own terms and policies, such as [Google’s Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://maps.google.com/help/terms_maps.html).
 
-**When required for Legal Purposes  
-**Your personal data may be shared with third parties, if we believe it is required by law or for the purpose of exercising legitimate legal rights. For instance, it could be necessary to share your data in order to comply with legal proceedings, to protect or exercise the legal rights of Riskified or our Merchants, or to respond to lawful requests.
+**With the Merchant**
 
-**With Corporate Group Entities or in a Business Transfer  
-**We may share personally identifiable information with our corporate group entities but their use of such information must comply with the Policy. Your data may also be shared if the operation of the Fraud Prevention service is organized within a different framework or through another legal structure or entity, such as due to a merger or acquisition.
+On rare occasions, we may share limited elements of your personal data with the Merchant from whom you made your transaction was made This information sharing will be for the purpose of reviews, audits or dispute handling.
 
-**Non-Personal Information  
-**We may use the information we collect to compile aggregated, anonymized, or de-identified information. We may share anonymized information unless it is combined with personally identifiable information.
+**When required for Legal Purposes**
 
-**Transfer of Data Outside Your Territory  
-**We may store and process information in the US, the EU, Israel, and in other countries. We may also process information using cloud services.
+Your personal data may be shared with third parties, if we believe it is required by law or for the purpose of exercising legitimate legal rights. For instance, it could be necessary to share your data in order to comply with legal proceedings, to protect or exercise the legal rights of Riskified or our Merchants, or to respond to lawful requests.
+
+**With Corporate Group Entities or in a Business Transfer**
+
+We may share personally identifiable information with our corporate group entities but their use of such information must comply with the Policy. Your data may also be shared if the operation of the Fraud Prevention service is organized within a different framework or through another legal structure or entity, such as due to a merger or acquisition.
+
+**Non-Personal Information**
+
+We may use the information we collect to compile aggregated, anonymized, or de-identified information. We may share anonymized information unless it is combined with personally identifiable information.
+
+**Transfer of Data Outside Your Territory**
+
+We may store and process information in the US, the EU, Israel, and in other countries. We may also process information using cloud services.
 
 We frequently process information under arrangements aimed at providing an adequate level of data protection. This may include processing in countries that the EU has determined maintain adequate data protection, the use of model contract clauses, or other mechanisms.  
 
 However, in certain cases the laws in some of these countries may nevertheless provide a lesser degree of data protection than the laws of your own country. We may transfer your information to entities within other such countries for the purpose of processing as described in this Policy.
 
-## Special Treatment
+**Special Treatment**
 
 If you are a resident of the **European Union** , Switzerland, or any other territory with similar data protection laws, the following section is applicable to how we collect and manage your personal data.
 
-  * As a data controller we rely on our legitimate interests to process your information, including the use of our third party service providers assisting us to deliver the Fraud Prevention. We may also receive your explicit consent through the eCommerce Platform. The eCommerce Platform relies on their own valid legal basis for processing your information, which may be in the form of consent, legitimate interest or execution of a contract. 
+  * As a data controller we rely on our legitimate interests to process your information, including the use of our third party service providers assisting us to deliver the Fraud Prevention. We may also receive your explicit consent through the eCommerce Platform. The eCommerce Platform relies on their own valid legal basis for processing your information, which may be in the form of consent, legitimate interest or execution of a contract.
   * The eCommerce Platform may, at its own discretion, use Riskified’s fraud assessment to make a decision on whether to accept or decline your order based solely on automated processing. It may do so if you have given your consent, if needed to enter into or perform a contract, or if authorized by law. Please direct inquiries concerning processing your order based solely on automated means to the eCommerce Platform.
   * If the law grants you such rights, you may ask to access, correct, or delete your personal information that is stored in our systems. You may also ask for our confirmation as to whether or not we process your personal data. Subject to the limitations in law, you may request that we update, correct, or delete inaccurate or outdated information. You may also request that we suspend the use of any personal data that you contest the accuracy of, while we verify the status of that data. You may also be entitled to obtain personal data that you directly provided us and have the right to transmit it to another party. However, we will continue retaining, using and sharing certain information if it is associated with fraudulent activity or to comply with legal obligations.
   * Several of our data sources are companies operating in countries outside of your local territory or the European Economic Area, in legal environments that may not be adequate by EU data protection standards. You may opt out of having your personal data shared with those data sources. However, opting out may prevent us from providing Fraud Prevention services and, as a result, may prevent you from using the eCommerce Platform. Irrespective of requests to opt out, if your personal data is associated with fraudulent activity we may continue to retain, use and share certain information, in order to prevent unlawful practices. 
@@ -115,9 +135,11 @@ We do not respond to browsers’ “Do Not Track” requests.
 
 ## CONTACT US
 
-You may contact us with any questions or comments, at: [support@riskified.com. ](mailto:support@riskified.com)Our postal address is: 30 Kalischer Street, Tel Aviv, Israel, postal code 6525724.
+You may contact us with any questions or comments, at: [support@riskified.com](mailto:support@riskified.com)
 
-###### Effective date of the policy: May 25, 2018
+Our postal address is: 30 Kalischer Street, Tel Aviv, Israel, postal code 6525724.
+
+###### Effective date of the policy: May, 2018
 
 ## Latest Platform and Services Privacy Policy Amendments
 
@@ -133,7 +155,7 @@ In a brief summary of the changes:
     
     
 
-Riskified respects the privacy of the users of our website at https://www.riskified.com (the “Site”) and is committed to protecting the information that is collected and/or is disclosed by the Site users (“users” or “you”). This Website Privacy Policy (“Policy”) explains the privacy practices of Riskified Ltd., on behalf of ourselves and for the benefit of our affiliates (“Riskified”, “we”, “our”, or “us”) for use of the Site.
+Riskified respects the privacy of the users of our website at https://www.riskisite.local (the “Site”) and is committed to protecting the information that is collected and/or is disclosed by the Site users (“users” or “you”). This Website Privacy Policy (“Policy”) explains the privacy practices of Riskified Ltd., on behalf of ourselves and for the benefit of our affiliates (“Riskified”, “we”, “our”, or “us”) for use of the Site.
 
 ## INFORMATION WE COLLECT
 
@@ -183,11 +205,9 @@ You have the ability to opt out of receiving marketing communications from Riski
 
 We do not send emails to anyone without permission and we do not sell or rent email addresses to any unauthorized third party. If you believe that you have received an unsolicited email from us, please contact us at support@riskified.com and we will investigate.
 
-## DATA RETENTION
-
 Our data retention policy is in compliance with applicable laws and regulations. The personal data we collect is retained only for as long as necessary to provide the Fraud Prevention service or newly developed services under this Policy. We retain the personal information we receive through the Site for no more than 50 months, unless you request that we delete this information, or if it is required by us to establish, exercise, or defend against legal claims, or comply with legal obligations. When we dispense with data it is either deleted from our system or anonymize without further notice to you.
 
-## POLICY TOWARDS CHILDREN
+## POLICY REGARDING CHILDREN
 
 We do not knowingly collect personally identifiable information from children under the age of 13, or 16 in the EU. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at support@riskified.com. If we become aware that a child under the age of 13 has provided us with Personal Information, we will delete such information from our files unless we have appropriate consent, where applicable, or unless we are required to maintain it for law-enforcement or legal purposes.
 
@@ -212,3 +232,5 @@ To protect your privacy and security, we may take reasonable steps to verify you
 ## GOVERNING LAW
 
 This Privacy Policy shall be exclusively governed by and construed in all respects under the laws of the State of New York, without giving effect to any choice-of-law or conflict-of-law provisions. Any and all legal claims, suits, or actions that arise in connection with this Privacy Policy or with breach of this Privacy Policy shall be submitted to the personal jurisdiction of the courts located in the New York County.
+
+###### Last updated: January 1, 2013
