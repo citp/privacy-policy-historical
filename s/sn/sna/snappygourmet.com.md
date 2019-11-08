@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snappygourmet.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227205639id_/https%3A//snappygourmet.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappygourmet.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108170310id_/https%3A//snappygourmet.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Snappy Gourmet
 
