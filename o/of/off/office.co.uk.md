@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522163913id_/https%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the office.co.uk privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108084927id_/https%3A//www.office.co.uk/view/content/privacy-info-page) for the most accurate reproduction.*
 
 # 
 
