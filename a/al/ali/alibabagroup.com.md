@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibabagroup.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413005801id_/https%3A//www.alibabagroup.com/en/global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibabagroup.com privacy policy that was archived on 2019-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191108113713id_/https%3A//www.alibabagroup.com/en/global/privacy) for the most accurate reproduction.*
 
 # Alibaba Group
 
