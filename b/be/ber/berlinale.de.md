@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the berlinale.de privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601213011id_/https%3A//kbb.eu/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berlinale.de privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109222031id_/https%3A//kbb.eu/legal/privacy_policy) for the most accurate reproduction.*
 
 # Kulturveranstaltungen des Bundes in Berlin GmbH (KBB)
-
-#### Privacy Policy 
 
 KBB GmbH (KBB) unites three institutions under one roof: The Berlin International Film Festival, the Berliner Festspiele with the Gropius Bau, and the Haus der Kulturen der Welt.  
 KBB, Kulturveranstaltungen des Bundes in Berlin GmbH
@@ -14,12 +12,14 @@ In this document we inform you about our processing of your personal data and of
 Body responsible for the data collection (“controller”):
 
 Kulturveranstaltungen des Bundes in Berlin (KBB) GmbH  
-Schöneberger Straße D-1510963 Berlin, Germany  
+Schöneberger Straße 15  
+10963 Berlin, Germany  
 Tel +49 30 26 397-0 (Head Office)  
 Fax +49 30 26 397-397  
 [info@kbb.eu](mailto:info@kbb.eu)
 
-The KBB Data Protection Officer can be contacted at [datenschutz@kbb.eu](https://web.archive.org/web/20190601213011id_/https%3A//kbb.eu/legal/datenschutz@kbb.eu) or our postal address with the addition “The Data Protection Officer”.
+The KBB Data Protection Officer can be contacted at [datenschutz@kbb.eu](mailto:datenschutz@kbb.eu)  
+or our postal address with the addition “The Data Protection Officer”.
 
 ## B. Your rights
 
@@ -103,7 +103,33 @@ If you wish to order tickets or merchandising products in our online shop, we st
 
 On the basis of the requirements of commercial law, we store your data for a period of ten years.
 
- **4 Use of our apps**
+ **4 Applications on our website kbb.eu**
+
+We are happy to receive your application. You can apply online on our website for advertised positions.
+
+For this purpose, we use the online application tool from the company softgarden e-recruiting GmbH, Tauentzienstraße 14, 10789 Berlin, which processes your data for the purpose of conducting the application procedure on our behalf and in compliance with the legal requirements. We have obliged the company to ensure and comply with data protection with a contract for order processing. When you use the application tool, you leave our website and are taken to the supplier's website.
+
+As part of the application process, all the personal data you enter is processed: name, date of birth, contact data such as address, email address, telephone number, data on training, school-leaving qualifications and/or a degree, certificates, details of other qualifications such as language skills, PC knowledge, application photos, information on desired salary and work samples.
+
+The legal basis for the processing of your data is Art. 6 (1) clause (b) GDPR.
+
+We use the personal data you enter exclusively for processing your application for the advertised position. If we sign an employment contract with you, your data will be stored for the purpose of processing the employment relationship and in compliance with the legal requirements.
+
+If your application is unsuccessful, we hope that you will apply again to another position. We erase your data six months after you have been notified of the rejection.
+
+ **5 Visiting and participating in our online forums and online portals**
+
+With our online forums and online portals ("Kultur öffnet Welten", "Anthropozän Curriculum", "Synapse", "Expert*innen-Datenbank KIWit", etc., among others), we offer culture enthusiasts, creative artists, scientists and institutions a platform for cultural participation and exchange as part of projects. You have the ability to present yourself, your work or your initiative and to exchange ideas with others.
+
+If you wish to obtain information on our platforms and/or to contribute to them, please fill out the relevant contact or registration form.
+
+In this connection, we process the following personal data: name, institution, email address, telephone number, contact address, work specializations and details about your work or your institution.
+
+If necessary, we pass on your data to our cooperation partners with which we operate the respective portal jointly and on a project-by-project basis. All our partners have been contractually obliged by us to comply with data protection regulations.
+
+The legal basis for the processing of this data is Art. 6 (1) clause 1 (b) GDPR. The disclosure of your data also takes place in the context of our contractual obligations. We store your data until you no longer wish to have your contributions published on our portal. If we do not include a contribution on our portals in individual cases, we will erase your data immediately. 
+
+**6 Use of our apps**
 
 Alongside our online services, we also offer a number of mobile apps, which you can download to your mobile device.
 
@@ -125,7 +151,7 @@ You may object to the data collection by Mapbox at any time with effect for the 
 
 The application Mapbox, 85 2nd St Suite 300, San Francisco, CA 94105, USA, is an open-source project. Information about data protection by the third-party provider is available at <https://www.mapbox.com/privacy> . Mapbox has submitted to the EU-US Privacy Shield, <https://www.privacyshield.gov/EU-US-Framework> .
 
- **5 My program / My daily planner (Berlinale)**
+ **7 My program / My daily planner (Berlinale)**
 
 To help you prepare for your visit to the Berlinale or the EFM (European Film Market), we offer you the service My program/My daily planner. In order to save your favorite program you will need to create an account. For this purpose, we save the following personal data via the function “My Account”: Name and email address. If you are interested in the Berlinale Generation program and are not at least 16 years of age, you will need to ask your parent or legal guardian to do this for you.
 
@@ -133,7 +159,7 @@ Once your account has been created you will be able to mark favorite programs. W
 
 We delete your favorite programs at the end of each festival season. We delete your account three years after its last use.
 
- **6 Accreditation and film registration for the Berlinale or the European Film Market (EFM).**
+ **8 Accreditation and film registration for the Berlinale or the European Film Market (EFM).**
 
 We are delighted that you wish to be accredited for the Berlinale or the EFM or wish to submit a film to the Berlinale.
 
@@ -149,7 +175,7 @@ At the same time, the Berlinale is one of the largest film festivals in the worl
 
 Due to their significance for the history of film, the data relating to your participation in the Berlinale or a submitted film will be stored permanently. In accordance with the provisions of commercial law, we store the data relating to your participation in the EFM for a period of ten years. If we reject your accreditation in individual cases, we will delete your data at the end of the festival season. Your place and date of birth, which we collect only for security reasons, will in any case be deleted at the end of the festival season.
 
- **7 Application to Berlinale Talents**
+ **9 Application to Berlinale Talents**
 
 Berlinale Talents is a worldwide talent promotion platform for film and series creators. We’re delighted about your interest in us!
 
@@ -163,13 +189,13 @@ We process your data in order to fulfill our obligations arising from your parti
 
 If you wish to take part in a Talents Initiative of one of our partners worldwide rather than the Berlinale Talents in Berlin, we will make your data available to our partners.
 
-In addition, we store your data in order to inform you about programs and worldwide Talents Initiatives in the future. We also publish your data in our publications and enable all former and current participants in the festival to access a selection of their data (name, country of origin, place of participation, sample of work) via our website. Berlinale Talents is a forum for film and series creators and providing this forum as a network to young artists is part of our mission to promote talent. This form of data processing and disclosure therefore takes place on the basis of a weighing of interests (Art. 6 (1) (f) GDPR). You may object to this form of processing and the disclosure at any time by sending an email to [datenschutz@kbb.eu](https://web.archive.org/web/20190601213011id_/https%3A//kbb.eu/legal/datenschutz@kbb.eu) .
+In addition, we store your data in order to inform you about programs and worldwide Talents Initiatives in the future. We also publish your data in our publications and enable all former and current participants in the festival to access a selection of their data (name, country of origin, place of participation, sample of work) via our website. Berlinale Talents is a forum for film and series creators and providing this forum as a network to young artists is part of our mission to promote talent. This form of data processing and disclosure therefore takes place on the basis of a weighing of interests (Art. 6 (1) (f) GDPR). You may object to this form of processing and the disclosure at any time by sending an email to [datenschutz@kbb.eu](https://web.archive.org/web/20191109222031id_/https%3A//kbb.eu/legal/datenschutz@kbb.eu) .
 
 If you have been selected to participate in one of the Talents Initiatives, we will store your data permanently for archiving purposes.
 
 If your application was unsuccessful, we regret this and hope that you will apply again. Five years after your last application, we will assume that you are no longer interested in our programs and will delete your data.
 
- **8 Submissions to the World Cinema Fund**
+ **10 Submissions to the World Cinema Fund**
 
 We are delighted that you submitted your project to the World Cinema Fund (WCF). For this purpose, we store all information submitted by you and the following personal data: Name, company, producer, director, scriptwriter, any other persons involved, samples of work and curricula vitae of producers and directors.
 
@@ -181,7 +207,7 @@ If your application for funding is successful, we will store your data permanent
 
 If your application for funding is unsuccessful, we regret this and hope that you will submit further projects to the WCF in future. In this case, personal data will be deleted five years after submission.
 
- **9 Submissions to the Berlinale Co-Production Market**
+ **11 Submissions to the Berlinale Co-Production Market**
 
 We are delighted that you submitted your project to the Co-Production Market. For this purpose, we store all information submitted by you and the following personal data: Name, company, address, email, phone number, company profile, area of work, cast details and links to samples of work.
 
@@ -195,7 +221,7 @@ If your application for participation in the Co-Production Market is successful,
 
 If your application is unsuccessful, we regret this and hope that you will apply again. Five years after your last application, we will assume that you are no longer interested in our programs and will delete your data.
 
- **10 B2B site of the Berlinale**
+ **12 B2B site of the Berlinale**
 
 B2B is a platform which we provide to future and current sponsors of the Berlinale. In order to enable future partners to enter into a collaboration this way, we collect the following personal data: Name, company and email address.
 
@@ -207,7 +233,7 @@ We store your data to meet our obligations arising from our partnership (Art. 6 
 
 We delete these data at the end of the partnership or if there is no prospect of a future partnership.
 
- **11 Berlinale Contractor Portal**
+ **13 Berlinale Contractor Portal**
 
 On the Berlinale Contractor Portal (Berlinale-Dienstleister-Portal) our contractors register their suppliers and employees. The registration contributes to a smooth running of Berlinale.
 
@@ -219,7 +245,7 @@ The processing of personal data serves to facilitate the provision of the contra
 
 The legal basis for this is Article 6 (1) clause 1 (a) GDPR. We will delete this data 5 weeks after each Berlinale at the latest.
 
- **12 Application to the National Contests of the Berliner Festspiele**
+ **14 Application to the National Contests of the Berliner Festspiele**
 
 We are delighted about your interest in our young talent festivals. If you wish to submit an application you will first need to create an account. For this purpose, we save the following personal data: Address, email address, phone number, age. Please note that accounts can only be opened by persons aged 16 or above. If you are below this age, please ask your parent or legal guardian to open an account for you, or apply by post, including their written consent. If you are below this age limit, we are only authorized to process your data if your parent or legal guardian has consented.
 
@@ -231,29 +257,19 @@ If you are selected for participation, we will also forward your data to externa
 
 We store your data in order to fulfill our obligations arising from your participation (Art. 6 (1) clause 1 (b) GDPR). The disclosure of your data to our service providers is likewise performed in the context of our contractual obligations.
 
-In addition, we store your data in order to inform you about the programs and initiatives of our talent promotion scheme in the future. We also publish them in our publications and on our website. Our young talent programs are a forum for young artists, and it is part of our mission, the promotion of young talent, to provide young artists with this forum. This form of data processing therefore takes place on the basis of a weighing of interests (Art. 6 (1) clause 1 (f) GDPR). You may object to this form of processing and the disclosure at any time by sending an email to [datenschutz@kbb.eu](https://web.archive.org/web/20190601213011id_/https%3A//kbb.eu/legal/datenschutz@kbb.eu) .
+In addition, we store your data in order to inform you about the programs and initiatives of our talent promotion scheme in the future. We also publish them in our publications and on our website. Our young talent programs are a forum for young artists, and it is part of our mission, the promotion of young talent, to provide young artists with this forum. This form of data processing therefore takes place on the basis of a weighing of interests (Art. 6 (1) clause 1 (f) GDPR). You may object to this form of processing and the disclosure at any time by sending an email to [datenschutz@kbb.eu](https://web.archive.org/web/20191109222031id_/https%3A//kbb.eu/legal/datenschutz@kbb.eu) .
 
 If you have been selected for our young talent programs, we will store your data permanently for archiving purposes.
 
 If your application was unsuccessful, we regret this and hope that you will apply again. Five years after your last application, we will assume that you are no longer interested in our programs and will delete your data. However, you may also at any time delete your account and accordingly all your data yourself.
 
- **13 "Kultur öffnet Welten" (Culture opens worlds)**
+ **15 Open Calls and Workshops (Call for participation in artistic and scientific programms and workshops)**
 
-With the "Kultur öffnet Welten" portal, we offer creative artists and institutions a platform for which cultural participation is a fundamental concern. If you would like to present your project on our portal, please fill out the corresponding contact form. In this context, we store the following personal data: name, institution, e-mail address, contact address and your details about the work of your institution.
-
-We pass on your data to our cooperation partner "netzwerk junge ohren e.V.", with whom we discuss the inclusion of your initiative in the portal. Our partner has been contractually obliged by us to comply with data protection regulations.
-
-If you present your institution in the "Kultur öffnet Welten" portal, we will store your data in order to fulfill our contractual obligation (Article 6 (1) sentence 1 (b) GDPR). The disclosure of your data also takes place in the context of our contractual obligations. We store your data until you no longer wish to have your initiative presented on our portal.
-
-If we do not include an initiative in our portal in individual cases, we will delete your data immediately. 
-
-**14 Open Calls**
-
-We welcome your application to our open calls for different artistic und scientific programms. For this purpose we store all information you provide to us, including your personal data.
+We welcome your application to our open calls and workshops for different artistic und scientific programms. For this purpose we store all information you provide to us, including your personal data.
 
 We disclose your personal data to our selection panel. The members of the selection panel are representatives of our cooperation partners. These have been contractually bound to comply with the applicable data privacy regulations. We store your personal data in order to comply with our obligations resulting from your participation (Art. 6 (1) clause 1 (b) GDPR). This also applies to the disclosure of your data to our national and international cooperation partners, who have been contractually bound to comply with the applicable data privacy regulations.
 
-Additionally we use your data to inform you about our programs and initiatives in the future. This processing and disclosure of your data is based on a balancing of interests (Art. 6 (1) clause 1 (f) GDPR). You can object to this processing and disclosure of your personal data at any time by e-mailing us at [datenschutz@kbb.eu](https://web.archive.org/web/20190601213011id_/https%3A//kbb.eu/legal/datenschutz@kbb.eu) .
+Additionally we use your data to inform you about our programs and initiatives in the future. This processing and disclosure of your data is based on a balancing of interests (Art. 6 (1) clause 1 (f) GDPR). You can object to this processing and disclosure of your personal data at any time by e-mailing us at [datenschutz@kbb.eu](https://web.archive.org/web/20191109222031id_/https%3A//kbb.eu/legal/datenschutz@kbb.eu) .
 
 If your application is successful, we will permanently store your personal data for record purposes. If your application is not successful, we regret this and we will delete your personal data after the end of the application period.
 
@@ -375,3 +391,5 @@ Cookies are data packages which are exchanged between your browser and the websi
 Some functions of the website require the transfer of cookies as a technical basis. If you deactivate cookies, you will no longer be able to use these functions.
 
 Where third-party providers are involved, these may also use cookies. This allows third-party providers to track your internet usage across several websites. The transfer of cookies to third-party providers can be reviewed in your browser settings. The loading of third-party provider contents can be managed through extensions, such as “NoScript”, “AdBlock” or “uBlock Origin”.
+
+Version of: September 2019
