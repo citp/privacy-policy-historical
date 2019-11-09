@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514183001id_/https%3A//www.edinarealty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinarealty.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109060427id_/https%3A//www.edinarealty.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edina Realty
 
