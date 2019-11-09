@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the mindworks.org privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416075640id_/https%3A//mindworks.org/mindworks-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindworks.org privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109190601id_/https%3A//mindworks.org/mindworks-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Services - Mindfulness Meditation App | Mindworks
 
-Privacy Policy[Mindworks Team](https://mindworks.org/blog/author/mindworks/ "Posts by Mindworks Team")2019-01-12T17:18:11-07:00
+Skip to content
+
+Privacy Policy[Mindworks Team](https://mindworks.org/blog/author/mindworks/ "Posts by Mindworks Team")2019-10-29T16:47:44-08:00
 
   1. ##  **WHAT INFORMATION WE COLLECT**
 
@@ -168,3 +170,5 @@ Mindworks Inc.
 2815 Townsgate Road, Suite 133  
 Westlake Village, CA 91361  
 [support@mindworks.org](mailto:support@mindworks.org)
+
+Our Services use cookies and other means to improve your browsing experience, site analytics, and to help us advertise. We use the Facebook Pixel to provide personalized advertisements in the Facebook network. To find out more and how you can manage your settings, [click here](https://web.archive.org/mindworks-privacy-policy#Cookies).  Accept 
