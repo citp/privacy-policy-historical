@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321092559id_/https%3A//www.wyndhamvacationrentals.com/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyndhamvacationrentals.com privacy policy that was archived on 2019-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191110001815id_/https%3A//www.wyndhamvacationrentals.com/content/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Wyndham Vacation Rentals
 
-Last Updated: July 15, 2018
+Last Updated: September 26, 2019
 
 ### Updates to this Privacy Notice
 
@@ -161,16 +161,25 @@ Any request to access or obtain copies of your Personal Information must be made
 
   •   **Transferring your Information:** Under certain circumstances, you may receive your Personal Information in a format that allows you to send it to another company or to direct us to transfer it directly to another company.
 
- **Notice to California Residents: Your California Privacy Rights:** If you are a resident of California, California Civil Code Section 1798.83 allows you to request information regarding the Personal Information we collected and third parties to whom we disclosed your Personal Information for the third parties' direct marketing purposes during the preceding calendar year. To make such a request, please send an email to our Privacy Officer at [privacy@wynvr.com](mailto:privacy@wynvr.com) or send a letter to:
+ **Notice to California Residents:**  
+Your California Privacy Rights: If you are a resident of California, California Civil Code Section 1798.83 allows you to request information regarding the Personal Information we collected and third parties to whom we disclosed your Personal Information for the third parties' direct marketing purposes during the preceding calendar year. To make such a request, please send an email to our Privacy Officer at [Privacy@wynvr.com](mailto:privacy@wynvr.com) or send a letter to:
 
  _Wyndham Vacation Rentals North America  
 14 Sylvan Way  
 Parsippany, NJ 07054  
 Attn: Legal - Privacy_
 
-### How Can You Contact Us?
+ **Your Nevada Privacy Rights**  
+Notice to Nevada Residents: If you are a resident of Nevada, under certain circumstances, Nevada Civil Code Section NRS 603A.340 allows you to request operators of websites not to sell your Personal Information. To make such a request, please send an email to our Legal Services-Privacy Department at [Privacy@wyn.com](mailto:privacy@wynvr.com) or send a letter to:
 
-  •   **Contact Information:** If after reviewing this Privacy Notice, you have any questions, complaints or privacy concerns, or would like to make any requests in relation to your Personal Information, or obtain further information on safeguards used for international transfers please send an email to our Privacy Officer at [privacy@wynvr.com](mailto:privacy@wynvr.com) or send a letter to:
+  _Wyndham Destinations Inc._  
+ _Attn: Legal Services-Privacy Department_  
+ _6277 Sea Harbor Drive_  
+ _Orlando, FL 32821_
+
+###  How Can You Contact Us?
+
+  •   **Contact Information:** If after reviewing this Privacy Notice, you have any questions, complaints or privacy concerns, or would like to make any requests in relation to your Personal Information, or obtain further information on safeguards used for international transfers please send an email to our Privacy Officer at [Privacy@wynvr.com](mailto:privacy@wynvr.com) or send a letter to:
 
  _Wyndham Vacation Rentals North America  
 14 Sylvan Way  
