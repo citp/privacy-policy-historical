@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the studentloans.gov privacy policy that was archived on 2019-01-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190108195746id_/https%3A//studentloans.gov/myDirectLoan/privacy.action) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the studentloans.gov privacy policy that was archived on 2019-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191109231238id_/https%3A//studentloans.gov/myDirectLoan/privacy.action) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
     
@@ -25,7 +25,7 @@
     	
     
     
-		<meta name="_csrf_parameter" content="_csrf"><meta name="_csrf_header" content="X-XSRF-TOKEN"><meta name="_csrf" content="7ce05e76-48dc-47ad-8aa1-28100c2bd619">
+		<meta name="_csrf_parameter" content="_csrf"><meta name="_csrf_header" content="X-XSRF-TOKEN"><meta name="_csrf" content="ed50c53c-f968-4a1d-b894-76d8099a968b">
 
     
 
@@ -87,6 +87,8 @@ var staticText = {
 <script type="text/javascript" src="https://static.studentloans.gov/js/jquery/jquery.tools.min.js"></script>
 <script type="text/javascript" src="https://static.studentloans.gov/js/jquery/popup.js"></script>
 <script type="text/javascript" src="https://static.studentloans.gov/js/jquery/jquery.livequery.js"></script>
+<script type="text/javascript" src="https://static.studentloans.gov/js/amCharts/amcharts.js"></script>
+<script type="text/javascript" src="https://static.studentloans.gov/js/amCharts/serial.js"></script>
 <script type="text/javascript" src="https://static.studentloans.gov/js/dialog.js"></script>
 <script type="text/javascript" src="https://static.studentloans.gov/js/divSelect.js"></script>
 <script type="text/javascript" src="https://static.studentloans.gov/js/tooltip.js"></script>
@@ -108,7 +110,7 @@ var staticText = {
 <script type="text/javascript">
 	<!-- CSRF paramenter name and token variables -->
 	window.csrfParameterName = '_csrf';
-	window.csrfToken = '7ce05e76-48dc-47ad-8aa1-28100c2bd619';
+	window.csrfToken = 'ed50c53c-f968-4a1d-b894-76d8099a968b';
 	window.slLanguage = 'en-us';
 </script>
 <script>
@@ -121,28 +123,8 @@ var staticText = {
 
 <script type="text/javascript" src="https://static.studentloans.gov/js/dltimeout.js"></script> 
    
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2007 WebTrends Inc.  All rights reserved. -->
-<!-- Version: 1.1.0 -->
-<!-- Created: 12/17/2007-->
-
-<!-- dynamically load js file depending on environment -->
+<!-- functions still leveraged by myDl.js and dialog.js -->
 <script type="text/javascript">
-	var url = location.href;
-	var jsrc="";
-	if(url.substring(0,15) == "https://student" || url.substring(0,15) == "https://www.stu"){
-		jsrc="js/webtrends_studentloans.js";
-		
-	} else{ jsrc="js/webtrends_studentloans_test.js";}
-	
-	function loadjsfile(filename){
-	  var fileref = document.createElement("script");
-	  fileref.setAttribute("type","text/javascript");
-	  fileref.setAttribute("src", filename);
-	  document.getElementsByTagName("head")[0].appendChild(fileref);
-	}
-
-    loadjsfile('https://static.studentloans.gov/'+jsrc); //dynamically load and add this .js file
 
 	 function yesButtonText() {
 	  return "Yes";
@@ -196,10 +178,9 @@ var staticText = {
 		 return 'Collapse Icon';
 	 }
 
-</script><script type="text/javascript" src="https://static.studentloans.gov/js/webtrends_studentloans_test.js"></script>
+</script>
 
 
-<script src="https://static.studentloans.gov/js/webtrends_studentloans.js"></script>
 <script type="text/javascript" src="https://static.studentloans.gov/js/mydl.js"></script>
 
 
@@ -262,7 +243,7 @@ var staticText = {
 
 
 
-	<meta name="_csrf_parameter" content="_csrf"><meta name="_csrf_header" content="X-XSRF-TOKEN"><meta name="_csrf" content="7ce05e76-48dc-47ad-8aa1-28100c2bd619">
+	<meta name="_csrf_parameter" content="_csrf"><meta name="_csrf_header" content="X-XSRF-TOKEN"><meta name="_csrf" content="ed50c53c-f968-4a1d-b894-76d8099a968b">
 
 
 <header class="fsa-header">
@@ -282,17 +263,17 @@ var staticText = {
 								
 									
 									
-										<a class="login-action" href="login.action?redirectTo=%2FmyDirectLoan%2Fprivacy.action" id="login">Log In</a> &nbsp;
+										<a class="login-action fsa-margin-right" href="login.action?redirectTo=%2FmyDirectLoan%2Fprivacy.action" id="login">Log In</a>
 									
 									
 								
 								</span>
-								<span class="fsa-header-content__language-selector">
+								<span class="fsa-header-content__language-selector fsa-margin-left--10">
 									
 										
 									
 										
-											&nbsp;&nbsp;<a class="fsa-banner-links__user-name locales" id="es-es" href="#">Español</a>
+											<a class="fsa-banner-links__user-name locales" id="es-es" href="#">Español</a>
 										
 									
 								</span>						
@@ -335,7 +316,7 @@ var staticText = {
 							
 						
 							
-								<a class="fsa-slide__language-selector__link locales" id="es-es" href="#">Español</a>
+								<a class="fsa-slide__language-selector__link locales" id="fsa_Link_Languagees-es" href="#">Español</a>
 							
 							
 						
@@ -416,9 +397,14 @@ var staticText = {
                         <li class="fsa-menu__top-item__li">
                                <a id="fsa_Link_MenuSliderLaunchPlus" class="fsa-menu__sub-menu__anchor fsa-menu__top-item__anchor" href="launchPLUS.action" ng-click="openLink($event)" ng-touch="openLink($event)"><span class=" ">&nbsp;&nbsp;Apply For PLUS Loans</span></a>
                         </li>
-                        <li class="fsa-menu__top-item__li">
-                               <a id="fsa_Link_MenuSliderCreditCheckAppeal" class="fsa-menu__sub-menu__anchor fsa-menu__top-item__anchor" href="login.action?redirectTo=/myDirectLoan/creditCheckAppeal.action" ng-click="openLink($event)" ng-touch="openLink($event)"><span class=" ">&nbsp;&nbsp;Appeal Credit Decision</span></a>
-                        </li>
+                        
+	                   	
+	                   		<li class="fsa-menu__top-item__li">
+	                   			<demo-start-confirm id-description="MenuSliderCreditCheckAppeal" styling="fsa-menu__sub-menu__anchor fsa-menu__top-item__anchor" demo-target="demoAppealCreditDecision.action" display-text="&nbsp;&nbsp;Appeal Credit Decision">
+                        	</demo-start-confirm></li>
+	                   	
+	                   	
+	                   
                         
                         <li class="fsa-menu__top-item__li">
                                <a id="fsa_Link_MenuSliderLaunchEndorserAddendum" class="fsa-menu__sub-menu__anchor fsa-menu__top-item__anchor" href="launchEndorserAddendum.action" ng-click="openLink($event)" ng-touch="openLink($event)"><span class=" ">&nbsp;&nbsp;Complete Endorser Addendum</span></a>
@@ -600,7 +586,7 @@ var staticText = {
 			<li class="fsa-scrollspy__element fsa-anchor-link__element"><a id="fsa_Anchor_Section2Header" href="#section2-header" class="fsa-anchor-link__href">
 					<div class="fsa-anchor-link__circle"></div>
 					<div class="fsa-anchor-link__text hidden-sm hidden-xs hidden-xxs">
-						Non-personal information we record
+						Non-personal information we collect
 					</div>
 			</a></li>
 			<li class="fsa-scrollspy__element fsa-anchor-link__element"><a id="fsa_Anchor_Section3Header" href="#section3-header" class="fsa-anchor-link__href">
@@ -609,6 +595,14 @@ var staticText = {
 						Cookies
 					</div>
 			</a></li>
+			<li class="fsa-scrollspy__element fsa-anchor-link__element">
+				<a id="fsa_Anchor_SectionThirdPartyHeader" href="#sectionThirdParty-header" class="fsa-anchor-link__href">
+						<div class="fsa-anchor-link__circle"></div>
+						<div class="fsa-anchor-link__text hidden-sm hidden-xs hidden-xxs">
+							Third-party Tools
+						</div>
+				</a>
+			</li>
 			<li class="fsa-scrollspy__element fsa-anchor-link__element"><a id="fsa_Anchor_Section4Header" href="#section4-header" class="fsa-anchor-link__href">
 					<div class="fsa-anchor-link__circle"></div>
 					<div class="fsa-anchor-link__text hidden-sm hidden-xs hidden-xxs">
@@ -749,7 +743,7 @@ var staticText = {
 					<div class="col-lg-12 col-xs-12-no-padding">
 						<div class="fsa-section-header center-block row no-margin-bottom">
 							<div class="col-lg-12-no-padding col-xs-12">
-								<h2 id="section2-header" class="fsa-section-header__title">Non-personal information we record</h2>
+								<h2 id="section2-header" class="fsa-section-header__title">Non-personal information we collect</h2>
 							</div>
 						</div>
 					</div>
@@ -761,13 +755,29 @@ var staticText = {
 
 	<div id="fsa_Text_PrivacyInfo_2">
 		<p>
-			During your visit to the StudentLoans.gov Web site, our web operating system will record:
+			Certain information about your visit can be collected when you browse websites. During your visit to StudentLoans.gov, we, and in some cases our third-party service providers, can collect the following types of information about your visit:
 		</p>
 
-		<ol><li>The Internet domain for your Internet service, such as "xcompany.com" or "xcompany.net" if you use a private Internet access account, or "yourschool.edu" if you connect from a college or university domain.</li><br><li>The type of browser (such as "Firefox version X" or "Internet Explorer version X") that you are using.</li><br><li>The type of operating system that you use (such as Macintosh, Unix, or Windows).</li><br><li>The date and time you visit our site, and the web pages that you visit on our site.</li><br><li>The address of the previous web site you were visiting, if you linked to us from another web site.</li></ol>
+		<ul>
+	<li>Domain (e.g., comcast.com, if you are using a Comcast account) from which you accessed the internet</li>
+	<li>IP address (an IP or internet protocol address is a number that is automatically assigned to a device connected to the web)</li>
+	<li>Device type (desktop computer, tablet, or type of mobile device)</li>
+	<li>Type of operating system that you use (such as Macintosh, Unix, or Windows)</li>
+	<li>Type of browser (such as "Chrome version x" or "Internet Explorer version x") that you use when visiting the site</li>
+	<li>Date and time of your visit</li>
+	<li>Web pages you visited on the site</li>
+	<li>Address of the website that connected you to StudentLoans.gov (such as <a href="https://google.com" id="fsa_Link_PrivacyGoogle" target="_blank">google.com</a> or <a href="https://bing.com" id="fsa_Link_PrivacyBing" target="_blank">bing.com</a>)</li>
+	<li>Screen resolution</li>
+	<li>Browser language</li>
+	<li>Geographic location</li>
+	<li>Time spent on page</li>
+	<li>Scroll depth (i.e., how much of a web page was viewed)</li>
+	<li>User events (things you do on the site, e.g., clicking on a button)</li>
+</ul>
+
 
 		<p class="no-margin-bottom">
-			We use this information for statistical analysis. This tracking system does not record information about individual visitors.
+			Federal Student Aid uses this information for statistical analysis to help make our site more useful to visitors and to improve our public education and outreach. Federal Student Aid's staff analyzes the data collected from web analytics tools. The data and resulting reports are available only to Federal Student Aid managers, members of Federal Student Aid's communications and web teams, and other designated federal staff and contractors who need this information to perform their duties. 
 		</p>
 	</div>
 
@@ -831,17 +841,74 @@ var staticText = {
 
 
 	<div id="fsa_Text_PrivacyInfo_3">
-		<p>
-			After you login successfully to the StudentLoans.gov Web site, we use "cookies" to help you use our web sites interactively.  A cookie is a small file that a web site transfers to your computer's hard disk to keep track of your session as you move from page to page while connected to that site. 
-		</p>
+		<p>The Office of Management and Budget Memo M-10-22, <a id="fsa_Link_PrivacyGuidance" href="https://www.digitalgov.gov/resources/m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies/" target="_blank">Guidance for Online Use of Web Measurement and Customization Technologies</a>, allows federal agencies to use session and persistent cookies subject to the limitations described within the guidance.</p><p>Cookies from StudentLoans.gov web pages collect information only about your browser's visit to the site. They do not collect any personal information about you.</p><p>There are two types of cookies: </p>
+		<ul><li><strong>Session cookies:</strong> We use temporary session cookies for technical purposes such as enabling better navigation through our site. These temporary cookies let our server know that you're continuing a visit to our site. The OMB Memo 10-22 guidance defines our use of temporary session cookies as "Usage Tier 1-Single Session." The guidance states, "This tier encompasses any use of single-session web measurement and customization technologies." A single-session cookie lasts only as long as your web browser is open. Once you close your browser, the cookie disappears.</li><li><strong>Persistent cookies:</strong> We use persistent cookies to enable Google Analytics (third-party analytics providers) tracking. Persistent cookies from Google Analytics remain on your device between visits to StudentLoans.gov for up to two years. Other third-party tools on the site use persistent cookies, which can be stored on a user's local system and are set to expire at varying time periods depending upon the cookie. The OMB Memo 10-22 guidance defines our use of persistent cookies as "Usage Tier 2-Multi-session without PII (personally identifiable information)." The guidance states, "This tier encompasses any use of multi-session web measurement and customization technologies when no PII is collected."</li></ul>
+		<p>StudentLoans.gov uses third-party analytics providers (e.g., Google Analytics) to analyze the data collected through the session and persistent cookies. These third-party analytics providers do not receive PII through these cookies and do not combine, match, or cross-reference StudentLoans.gov information with any other information. We view aggregate statistical analyses prepared by our third-party analytics providers, and these analyses do not include any PII. We do not sell, rent, exchange, or otherwise disclose this information to individuals or organizations. </p><p>Pursuant to OMB Memo 10-22, the session and persistent cookies collect information similar to that automatically received and stored on the servers hosting StudentLoans.gov. These servers do not collect PII, and StudentLoans.gov does not access or store the raw information collected through these cookies. </p><p><strong>How to Opt Out or Disable Cookies</strong></p><p>Your website browser's standard setting enables cookies by default. If you do not wish to have session or persistent cookies stored on your machine, find out how to <a id="fsa_Link_PrivacyCookieOptOut" href="https://www.usa.gov/optout-instructions" target="_blank">opt out or disable cookies in your browser</a>. You will still have access to all the information and resources throughout the StudentLoans.gov website. However, turning off cookies may affect the functioning of some content within StudentLoans.gov. Be aware that disabling cookies in your browser will affect cookie usage at all other websites you visit as well.</p><p><strong>How Long Federal Student Aid Keeps Data</strong> </p><p>Federal Student Aid will keep data long enough to achieve the specified objective for which the data were collected. The StudentLoans.gov site issues session cookies-cookies that expire when you close your browser, ending your session on the site. Third-party tools on the site use persistent cookies, which can be stored on a user's local system and are set to expire at varying time periods depending upon the cookie. You can opt out or disable cookies in your browser.</p>
+	</div>
+	
+	
 
-		<p>
-			These cookies collect no information about you, but only about your browser "session." The cookie makes it easier for you to use the dynamic features of these web pages, without having to provide the same information again as you move from one page to another.  The cookie and the information about your session will be destroyed automatically shortly after you close your browser or click the logout button -- it is not permanently stored on your computer.
-		</p>
 
-		<p class="no-margin-bottom">
-			To protect your privacy, be sure to close your browser completely after you have finished conducting business with a web site that uses cookies. If you are concerned about the potential use of information gathered from your computer by cookies, you can set your browser to prompt you before it accepts a cookie. Most Internet browsers have settings that let you identify and/or reject cookies.
-		</p>
+
+ 
+
+
+ <!--this id matches the id in anchor links that are used to navigate the page  -->
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+	
+
+
+
+
+	
+	
+		
+	
+
+
+
+	
+	
+		
+			
+				<div class="row no-margin-bottom">
+					<div class="col-lg-12 col-xs-12-no-padding">
+						<div class="fsa-section-header center-block row no-margin-bottom">
+							<div class="col-lg-12-no-padding col-xs-12">
+								<h2 id="sectionThirdParty-header" class="fsa-section-header__title">Third-party Tools</h2>
+							</div>
+						</div>
+					</div>
+				</div>
+			
+			
+		
+	
+
+
+	<div id="fsa_Text_PrivacyInfo_ThirdParty">
+			<p><strong>Website Analytics</strong></p><p>Federal Student Aid uses the third-party tool, Google Analytics, to support website analytics. Federal Student Aid uses <a id="fsa_Link_ToolsGoogleAnalytics" href="https://support.google.com/analytics/answer/6004245?hl=en" target="_blank">Google Analytics</a> to collect basic site usage information:</p> <ul><li>how many visits StudentLoans.gov receives</li><li>the pages visited </li><li>time spent on the site</li><li>the number of return visits to the site</li><li>the approximate location of the device used to access the site</li><li>types of devices used </li></ul><p>This information is then used to maintain the website including monitoring site stability, measuring site traffic, optimizing site content, and helping make the site more useful to visitors. You can <a id="fsa_Link_PrivacyTrackingOptOut" target="_blank" href="https://www.usa.gov/optout-instructions">opt out or disable tracking in your browser</a>.</p>
+			<p><strong>Digital Advertising Tools for Outreach and Education</strong></p><p>Federal Student Aid uses third-party tools to support our digital advertising outreach and education efforts. These tools enable Federal Student Aid to reach new people and provide information to previous visitors. In order to use these tools, we may use the following technologies on StudentLoans.gov:<strong></strong></p><p><strong>Click Tracking:</strong> Federal Student Aid may use click tracking to identify the messaging and/or ads that are most helpful to consumers and efficient for outreach. This enables Federal Student Aid to improve the performance of messaging or ads that consumers click on. When users click on links from any messaging or ad, data about what ad was viewed is collected. Reports are generated about ad performance, including the total number of views and clicks an ad received. You can <a id="fsa_Link_PrivacyClickTrackingOptOut" target="_blank" href="https://www.usa.gov/optout-instructions">opt out or disable tracking in your browser</a>.</p><p><strong>Conversion Tracking:</strong> Federal Student Aid may use conversion tracking to identify ads that are helpful to consumers and efficient for outreach. This enables Federal Student Aid to improve the performance of ads viewed by consumers. When a StudentLoans.gov ad is viewed on a third-party site (e.g., a banner ad), a cookie is placed in the browser of the device the ad was viewed on. If this device later visits StudentLoans.gov, the visit is linked to the ad viewed on the same device. This information helps Federal Student Aid determine which messaging and/or ads are more likely to generate visits to our websites. You can <a id="fsa_Link_PrivacyConversionTrackingOptOut" target="_blank" href="https://www.usa.gov/optout-instructions">opt out or disable tracking in your browser</a>. You also can click on the "AdChoices" icon in the corner of our ads to opt-out of this ad targeting. Users who have set their browser to "Do Not Track" will automatically be opted out of conversion tracking. </p>
+			<p><strong>Other Tools</strong></p><p>Many of the tools Federal Student Aid uses to gather visitor data and monitor the health of StudentLoans.gov, such as Google Analytics, are deployed using Tealium iQ. Tealium iQ gives Federal Student Aid and its staff and contractors an easy way to manage these tools.</p><p>In the future, Federal Student Aid may consider using additional third-party tools that may improve site performance or customer outreach. Federal Student Aid will provide information on any new tools used on StudentLoans.gov below: </p><ul><li>Federal Student Aid uses the third-party tool Crazy Egg on StudentLoans.gov. Crazy Egg is a tool that creates visual displays of overall site visitor activity on the website. If you wish to opt out of Crazy Egg collecting information when you visit StudentLoans.gov, please see the <a id="fsa_Link_PrivacyCrazyEggOptOut" target="_blank" href="https://www.crazyegg.com/opt-out">Crazy Egg opt-out instructions</a>.</li></ul>
 	</div>
 
 	
@@ -905,7 +972,7 @@ var staticText = {
 
 	<div id="fsa_Text_PrivacyInfo_4">
 		<p>
-			For security purposes and to make sure this service remains available to all users, we use special software programs for monitoring network traffic to identify unauthorized attempts to upload or change information, or otherwise to cause damage to this government computer system.  These programs collect no personally identifiable information, but they do collect information that could help us identify someone attempting to tamper with this web site.    
+			For security purposes and to make sure this service remains available to all users, we use special software programs for monitoring network traffic to identify unauthorized attempts to upload or change information, or otherwise to cause damage to this government computer system. These programs collect no personally identifiable information, but they do collect information that could help us identify someone attempting to tamper with this web site. 
 		</p>
 
 		<p class="no-margin-bottom">
@@ -1109,77 +1176,7 @@ var staticText = {
 
 		
 	<div id="fsa_Text_PrivacyInfo_7">
-		<p>If you have applied for federal student aid or have received a federal student loan, the Office of Federal Student Aid is authorized to maintain a record of all transactions related to your application or loan.</p>
-
-<p><a href="http://www2.ed.gov/policy/gen/leg/sorn.html" id="fsa_Link_SystemsOfRecordsNotice" target="new">Review the System of Records notices</a>, which list the authorized disclosures and the safeguards for Office of Federal Student Aid systems under the <a href="http://www.justice.gov/opcl/privacy-act-1974" id="fsa_Link_PrivacyAct" target="new">Privacy Act of 1974</a>, as amended. The systems that apply specifically to loans that you receive under the Direct Loan Program are #18-11-05 called Title IV Program Files and #18-11-06 called National Student Loan Data System (NSLDS).</p>
-
-<p>The fact that you have completed an electronic Master Promissory Note (MPN), Direct PLUS Loan Request or Entrance Counseling will be communicated to the school for which you are borrowing the money. The privacy of financial aid records (and admission, enrollment, and other records) kept by an educational institution is protected by the Family Educational Rights and Privacy Act. Click here to <a href="http://www.ed.gov/policy/gen/reg/ferpa/index.html" id="fsa_Link_FERPA" target="new">read the FERPA regulations</a>.</p>
-
-<p><strong>What information will be collected for the system (Ex. Name, Social Security Number, annual income, etc)?</strong></p>
-
-<ul>
-	<li>The COD system receives, processes and stores privacy act related data, such as names, social security numbers, current address, date of birth, place of birth, telephone numbers, and dollar amounts.</li>
-	<li>The general public does not have access to COD.</li>
-</ul>
-
-<p></p>
-
-<p><strong>Why is this information being collected?</strong></p>
-
-<ul>
-	<li>
-	<p>The information is provided by the student applicants and the schools participating in the Title IV Higher Education Student Financial Aid Programs to enable the administration of the Federal Title IV grants and loans by the Department. The Title IV loans and grants are used by eligible students to attend those schools.</p>
-	</li>
-</ul>
-
-<p><strong>How will FSA use this information?</strong></p>
-
-<ul>
-	<li>FSA/COD uses this student-level detail to book loans, account for awarded grants and to enable the Department to reconcile school cash drawdowns from the Treasury to individual student disbursements.</li>
-	<li>This information also is used to ensure the respective schools receive the appropriate amount of dollars during the respective time periods.</li>
-</ul>
-
-<p></p>
-<strong>Will this information be shared with any other agency? If so, with which agency or agencies?</strong>
-
-<p></p>
-
-<ul>
-	<li>Not routinely (This information can be made available for a civil or criminal law enforcement activity that is authorized by law, upon a written request by the agency).</li>
-</ul>
-
-<p></p>
-<strong>Describe the notice or opportunities for consent would be/ or are provided to individuals about what information is collected and how that information is shared with others organizations. (e.g., posted Privacy Notice)</strong>
-
-<p></p>
-
-<ul>
-	<li>Extensive Privacy Act notices are posted at the web site of the Free Application for Federal Student Aid (<a href="http://www.fafsa.ed.gov" id="fsa_Link_PrivacyBodyFAFSA" target="new">http://www.fafsa.ed.gov</a>). The basis for the data sent to COD by colleges is the FAFSA<sup>®</sup>, which is filled out by student applicants first. The FAFSA<sup>®</sup> is an OMB approved data collection instrument (OMB #1845-0001)</li>
-</ul>
-
-<p></p>
-<strong>How will the information be secured?</strong>
-
-<p></p>
-
-<ul>
-	<li>All information is protected by a secure FSA ID or password and is monitored by automated and manual controls.</li>
-	<li>COD is developed and maintained under a contract with Accenture.</li>
-	<li>Interfacing ED systems are operated for the most part within FSA's Next Generation Data Center (NGDC), which provides the respective security controls. The COD data is encrypted as it moves between COD system interfaces.</li>
-	<li>System administrators outside of the NGDC provide comparable security controls to protect the system and the information contained therein.</li>
-</ul>
-
-<p></p>
-<strong>Is a system of records being created or updated with the collection of this information? (A system of record is created when information can be retrieved from the system by the name of the individual or an identifying number, symbol or other identifying particular assigned to an individual. Also, in responding to this question a helpful reference may be to the system's System of Record organization step completed in the Definition phase of the Solution Lifecycle process.)</strong>
-
-<p></p>
-
-<ul>
-	<li>A system of records notification has been submitted to update the previous system of record notification for the TEACH Program.</li>
-</ul>
-
-<p></p>
-
+		<p>If you have applied for federal student aid or have received a federal student loan, the Office of Federal Student Aid is authorized to maintain a record of all transactions related to your application or loan. </p><p><a id="fsa_Link_SystemsOfRecordsNotice" href="http://www2.ed.gov/policy/gen/leg/sorn.html" target="new">Review the System of Records notices</a>, which list the authorized disclosures and the safeguards for Office of Federal Student Aid systems under the <a id="fsa_Link_PrivacyAct" href="http://www.justice.gov/opcl/privacy-act-1974" target="_blank">Privacy Act of 1974</a>, as amended. The systems that apply specifically to loans that you receive under the Direct Loan Program are #18-11-05 called Title IV Program Files and #18-11-06 called National Student Loan Data System (NSLDS).</p><p>The fact that you have completed an electronic Master Promissory Note (MPN), Direct PLUS Loan Request or Entrance Counseling will be communicated to the school for which you are borrowing the money. The privacy of financial aid records (and admission, enrollment, and other records) kept by an educational institution is protected by the Family Educational Rights and Privacy Act.  Click here to <a id="fsa_Link_FERPA" href="http://www.ed.gov/policy/gen/reg/ferpa/index.html" target="new">read the FERPA regulations</a>.  </p><span>INTRODUCTION TO PRIVACY IMPACT ASSESSMENT</span><p>Section 208 of the E-Government Act of 2002 (P.L.107-347) requires FSA to complete a Privacy Impact Assessment for each new system that collects information from the public through the Internet.</p><p>During the Definition Phase of the FSA Solution Lifecycle, the System Security Officer must make sure that the team completes the attached Privacy Impact Assessment Questionnaire, must have it reviewed by the Chief Information Officer or equivalent official, and must file the completed form in the system's Security Notebook as part of the system's documentation.  This Privacy Impact Assessment must also be made publicly available.</p><span>Privacy Impact Assessment Questionnaire</span><p>System Name: Common Origination and Disbursement (COD)<br>System Owner:  William Leith<br>System Manager: Nancy Hoover<br> System Security Officer:  Don Dorsey<br>Privacy Impact Assessment Questionnaire Author:  Don Dorsey<br>Date:  1/22/2008</p><p>Officials and organizational components involved in the analysis and review of the Privacy Impact Assessment included the following:  Department of Education Office of the Chief Information Officer, Federal Student Aid (FSA) CIO Computer Security Officer, and COD management, including the System Security Officer.</p><p><strong>What information will be collected for the system (Ex. Name, Social Security Number, annual income, etc)?</strong></p><ul><li>The COD system receives, processes and stores privacy act related data, such as names, social security numbers, current address, date of birth, place of birth, telephone numbers, and dollar amounts.</li><li>The general public does not have access to COD.</li></ul><p></p><p><strong>Why is this information being collected?</strong></p><ul><li><p>The information is provided by the student applicants and the schools participating in the Title IV Higher Education Student Financial Aid Programs to enable the administration of the Federal Title IV grants and loans by the Department. The Title IV loans and grants are used by eligible students to attend those schools.</p></li></ul><p><strong>How will FSA use this information?</strong></p><ul><li>FSA/COD uses this student-level detail to book loans, account for awarded grants and to enable the Department to reconcile school cash drawdowns from the Treasury to individual student disbursements.</li><li>This information also is used to ensure the respective schools receive the appropriate amount of dollars during the respective time periods.</li></ul><p></p><strong>Will this information be shared with any other agency?  If so, with which agency or agencies?</strong><p></p><ul><li>Not routinely (This information can be made available for a civil or criminal law enforcement activity that is authorized by law, upon a written request by the agency).</li></ul><p></p><strong>Describe the notice or opportunities for consent would be/ or are provided to individuals about what information is collected and how that information is shared with others organizations.  (e.g., posted Privacy Notice)</strong><p></p><ul><li>Extensive Privacy Act notices are posted at the web site of the Free Application for Federal Student Aid (FAFSA<sup>®</sup>) form at <a id="fsa_Link_PrivacyBodyFAFSA" href="https://studentaid.ed.gov/sa/fafsa" target="new">StudentAid.gov/fafsa</a>.  The basis for the data sent to COD by colleges is the FAFSA<sup>®</sup>, which is filled out by student applicants first.  The FAFSA<sup>®</sup> is an OMB approved data collection instrument (OMB #1845-0001)</li></ul><p></p><strong>How will the information be secured?</strong><p></p><ul><li>All information is protected by a secure FSA ID or password and is monitored by automated and manual controls.</li><li>COD is developed and maintained under a contract with Accenture, and is housed within a secure facility run under a subcontract with  TSYS Inc., one of the largest credit card processors in the world. </li><li>Interfacing ED systems are operated for the most part within FSA's Virtual Data Center (VDC), located in Plano, TX, which provides the respective security controls.  The COD data is encrypted as it moves between COD system interfaces.</li><li>System administrators outside of the VDC provide comparable security controls to protect the system and the information contained therein.</li></ul><p></p><strong>Is a system of records being created or updated with the collection of this information? (A system of record is created when information can be retrieved from the system by the name of the individual or an identifying number, symbol or other identifying particular assigned to an individual.  Also, in responding to this question a helpful reference may be to the system's System of Record organization step completed in the Definition phase of the Solution Lifecycle process.)</strong><p class="no-margin-bottom"></p><ul><li>A system of records notification has been submitted to update the previous system of record notification for the TEACH Program.</li></ul><p></p>
 	</div>
 	
 </article>
@@ -1248,9 +1245,14 @@ var staticText = {
 	                   <li>
 	                       <a id="fsa_Link_FooterLaunchPLUS" ng-click="openLink($event)" ng-touch="openLink($event)" href="launchPLUS.action">Apply For PLUS Loans</a>
 	                   </li>
-	                   <li>
-	                       <a id="fsa_Link_FooterCreditCheckAppeal" ng-click="openLink($event)" ng-touch="openLink($event)" href="login.action?redirectTo=/myDirectLoan/creditCheckAppeal.action">Appeal Credit Decision</a>
-	                   </li>
+	                   
+	                   	
+	                   		<li>
+	                   			<demo-start-confirm id-description="FooterCreditCheckAppeal" demo-target="demoAppealCreditDecision.action" display-text="Appeal Credit Decision">
+		                   </demo-start-confirm></li>
+	                   	
+	                   	
+	                   
 	                   <li>
 	                       <a id="fsa_Link_FooterEndorserAddendum" ng-click="openLink($event)" ng-touch="openLink($event)" href="launchEndorserAddendum.action">Complete Endorser Addendum</a>
 	                   </li>
@@ -1278,7 +1280,12 @@ var staticText = {
 	               </h3>
 	               <ul>
 	                   <li>
-	                       <a id="fsa_Link_FooterRepaymentEstimator" ng-click="openLink($event)" ng-touch="openLink($event)" href="repaymentEstimator.action">Estimate Your Payments</a>
+	                       
+			                   	
+				                	<a id="fsa_Link_FooterRepaymentEstimator" ng-click="openLink($event)" ng-touch="openLink($event)" href="demoRepaymentEstimator.action">Estimate Your Payments</a>
+			                   	
+			                   	
+		                   
 	                   </li>
 	                   <li>
 	                       <a id="fsa_Link_FooterConsolidation" ng-click="openLink($event)" ng-touch="openLink($event)" href="launchConsolidation.action">Consolidate Your Loans</a>
@@ -1353,36 +1360,6 @@ var staticText = {
 	<filler></filler>
 	</div>
 </footer>
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2010 WebTrends Inc.  All rights reserved. -->
-<!-- Version: 9.3.0 -->
-<!-- Tag Builder Version: 3.1  -->
-<!-- Created: 10/28/2010 3:42:48 PM -->
-
-<!-- ----------------------------------------------------------------------------------- -->
-<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
-<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
-<!-- ----------------------------------------------------------------------------------- -->
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCustom=function(){
-// Add custom parameters here.
-//_tag.DCSext.param_name=param_value;
-}
-_tag.dcsCollect();
-//]]>
-</script>
-<noscript>
-<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcst23eu310000oqgxxj4omeg_8y6k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.3.0&amp;WT.dcssip=www.cod.ed.gov"/></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
 
 <script>
 
