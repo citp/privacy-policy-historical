@@ -1,396 +1,252 @@
-> *The following text is extracted and transformed from the capcomprotour.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615104540id_/http%3A//www.capcom.com/capcom/legal_privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capcomprotour.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109042209id_/https%3A//capcomprotour.com/privacy-policy) for the most accurate reproduction.*
 
-# Capcom Privacy Policy
+# Privacy Policy | Capcom Pro Tour
 
-[](http://www.esrb.org/confirm/capcom-confirmation.jsp)
+## CAPCOM MEDIA VENTURES, INC.,  
+PRIVACY POLICY
 
-## CAPCOM USA ONLINE PRIVACY STATEMENT
+#### Last Updated: August 26, 2019
 
-Last updated August 2, 2018
+### INTRODUCTION
 
-Here is a [PDF version](https://web.archive.org/web/20190615104540id_/http%3A//www.capcom.com/capcom/legal_privacy/Capcom%20USA%20Online%20Privacy%20Statement%2020180802.pdf) of our Privacy Policy for those who wish to save or print the contents of this page.
+Your privacy is important to Capcom Media Ventures, Inc. (" **CMV** "). This Privacy Policy explains the types of information we collect, and how we collect, use, disclose, share and protect your information. Please familiarize yourself with our privacy practices and contact us as described below under **Contacting CMV** if you have any questions.
 
-Welcome to Capcom USA!
+This Privacy Policy applies only to the collection, use and disclosure of information that we may receive through your use of (i) our applications for mobile devices (the " **CMV Apps** "), (ii) our web domains and subdomains, including capcomprotour.com, campesportscom and streetfighterleague.com (our " **Sites** ") and (iii) our online services (“ **Tournament Services** ”) relating to CMV-operated video game tournaments and leagues (“ **CMV Tournaments** ”), including when provided via third party apps or websites that link back to this Privacy Policy, such as Smash.gg (such third party service providers, “ **Tournament Servicers** ”). The CMV Apps, Sites and Tournament Services may include (i) integrations with third party social networking services such as Facebook (“ **SNSs** ”) and (ii) web forums and messaging boards (“Forums”). We refer to the CMV Apps, the Sites and CMV Tournaments, including any integrated Forums and SNSs, as our “ **Services** ”.
 
-**OUR PRIVACY COMMITMENT**
+As used in this Privacy Policy, “ **CMV** ”, “ **we** ”, “ **us** ”, or “ **our** ” refer to Capcom Media Ventures, Inc. This Privacy Policy does not apply to our parent company, Capcom U.S.A., Inc., or any of the other companies within the Capcom corporate group.
 
-Capcom U.S.A., Inc. (collectively, "Capcom USA", "Capcom", or "we") respects the privacy rights of our online visitors and users of our mobile, online, downloadable products, websites and services, and we recognize the importance of protecting all information that you may choose to share with us. To further this commitment, we have adopted this Capcom USA Online Privacy Policy ("Privacy Policy") to outline for you how we collect and process your information.
+When we refer to the term “ **GDPR** ” in this Privacy Policy we mean the European Union General Data Protection Regulation. The term “ **EEA** ” means the European Economic Area.
 
-This Privacy Policy applies to the use and sharing of information collected on and after the date that this Privacy Policy is posted. Unless applicable law requires your affirmative consent (as further described herein), by using our Services, you hereby consent to this Privacy Policy.
+  1. INFORMATION WE COLLECT
+  2. HOW WE USE YOUR INFORMATION
+  3. HOW WE COLLECT YOUR INFORMATION AND HOW LONG WE KEEP IT
+  4. HOW WE SHARE YOUR INFORMATION
+  5. CHILDREN’S PRIVACY
+  6. FRIEND-FINDING FUNCTION
+  7. HOW WE PROTECT YOUR INFORMATION
+  8. HOW YOU MAY CHANGE, REMOVE, OR EXPORT YOUR INFORMATION
+  9. LINKS TO THIRD-PARTY WEBSITES AND SERVICES
+  10. Updates to this Privacy Policy
+  11. NON-US USERS
+  12. RIGHTS OF USERS FROM THE EEA 
+    1. Data Controller
+    2. Rights of EEA Residents
+  13. YOUR CALIFORNIA PRIVACY RIGHTS
+  14. CONTACTING CMV
 
-This Privacy Policy and the ESRB certification seals shown on our websites confirm that Capcom USA is a member in good standing of the Entertainment Software Rating Board's Privacy Certified Program ("ESRB Privacy Certified"). To protect your privacy, we have voluntarily undertaken this privacy initiative and all our websites, products, and services where this Privacy Policy is posted have been reviewed and certified by ESRB Privacy Certified to meet established online information collection, use, and disclosure practices. As a licensee of this privacy program, we are subject to frequent audits of our Services (defined below) and other enforcement and accountability mechanisms administered independently by ESRB Privacy Certified.
 
-**TABLE OF CONTENTS**
+  1. ### INFORMATION WE COLLECT
 
-**Q1.**What information does this Privacy Policy cover?  
-**Q2.**What types of information do we collect about you?  
-**Q3.**How is your information used and shared?  
-**Q4.**What are your California Privacy Rights?  
-**Q5.**What kinds of security measures do we take to safeguard your personal information?  
-**Q6.**How can you update your personal information and profile?  
-**Q7.**How can you ask questions, or send us comments, about this Privacy Policy?  
-**Q8.**How can you access and control the use of your personal information?  
-**Q9.**How will you know if we amend this Privacy Policy?  
-**Q10.**How is information treated when it is collected from non-US residents?
+We may collect through the Services both personal information that identifies you and can be used to contact you, and non-personal information, which is data in a form that does not allow direct association with you, which may include technical information, including the IP address through which you are accessing the Services and the unique mobile device ID or virtual unique device identifier for any mobile device you may be using.
 
-  
+    1. #### Data You Provide to Us
 
+We collect and store the personal information you provide us when purchasing, registering, or using the CMV Apps, when you inquire about CMV Tournaments, products and services, and when you sign up for our events (including via Tournament Servicers), promotions, and mailing lists. This information includes:
 
-## • Q1. What information does this Privacy Policy cover?
+      * Contact and CMV Tournament registration information, such as your email address, address, or phone number;
+      * Your account id and password;
+      * Profile information, such as a profile photo;
+      * Your communication with us, including in relation to customer support inquiries and chat logs;
+      * Information required for prize payouts (such as tax identifiers) or travel reservations for certain CMV Tournament winners; and
+      * Any other data which you willingly provide to us when using the Services.
+    2. #### Data We Collect Automatically
 
-This Privacy Policy applies only to information collected on or through the websites, services, games and applications (each a “Service” or collectively, the “Services”) offered to you by Capcom USA, and to information shared with Capcom USA by certain third parties (as further described in this Privacy Policy). It does not apply to any other information collected by Capcom USA through any other means.
+CMV automatically collects and stores certain technical, app-related, and customer purchase information. Most of this information is non-personal, which means that this information by itself cannot be used to identify you; but this data may be used to identify you when combined with other information. This information includes:
 
-Please note that this Privacy Policy applies only to information submitted and collected via the Internet, and does not apply to information that may be collected by Capcom via offline means. Further, this Privacy Policy applies only to the Services offered and maintained by Capcom USA, and not to any websites, services, games and/or applications offered and/or maintained by our international affiliates (e.g., Capcom Vancouver, Capcom Asia, Capcom Europe, and Capcom Japan), or, unless otherwise described in this Privacy Policy, any other companies or organizations to which we link. Capcom USA is therefore not responsible for the content or activities provided on those websites, except as expressly provided in this Privacy Policy.
+      * Data about your account, tournament registrations, and purchase history;
+      * Your internet location and mobile device identifiers (such as mobile device type, IP Address, unique mobile device ID or other device identifiers, Media Access Control (MAC) addresses, telephone number of mobile device, and country of registration);
+      * Additional information about your device, such as device name, operating system, browser type and language;
+      * Platform data, including purchase history and other information related to the Google Play Store or iOS App Store; and
+      * Location data (based on your IP address and telecommunications provider).
+    3. #### Data We Collect From our Partners
 
-**Third Party Websites**
+      * Data from a third-party tool or SNS, if you link it with the Service (e.g., Facebook or Google);
+      * Data from third-party Tournament Servicer tools, to the extent you provide the information (e.g., via the Smash.gg website or app);
+      * Data we use to investigate and prevent fraud such as click-fraud or fraudulent refunds or rebates; and
+      * Data related to analytics and advertising, in order to provide you with access to better apps and Services.
+  2. ### HOW WE USE YOUR INFORMATION
 
-Once you have clicked on an advertisement or a third party link and have left our websites or other Services, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser/third party to see how your information will be collected and processed on its website.
+Generally, we use your information to provide you with an efficient and customized experience. For example, we may use information in the following ways to provide you the Services:
 
-Please note that the Capcom merchandise and apparel stores (accessible at <http://shop.capcom.com/>) are third party websites operating under license from Capcom USA, and are not covered by this Privacy Policy. Specifically, the purchase information collected through the [Capcom merchandise store](http://store.capcom.com/) is collected and used by Digital River, Inc. and is therefore governed by Digital River's privacy policy. Similarly, the purchase information collected through the [Capcom apparel store](http://www.capcomstore.com/) is collected and used by Pinpoint Marketing Group, Inc. and is therefore governed by Pinpoint Marketing Group, Inc.’s privacy policy. We encourage you to review Digital River and Pinpoint’s privacy policies carefully, and you may reach out to them directly with any questions you have regarding their privacy practices at the following:
+    * To send important notices, such as communications about your purchases and changes to our Terms of Service and this Privacy Policy;
+    * To send “push” notifications to your mobile device regarding CMV Apps that you have been using (for example, suggesting that you open the CMV Apps to take certain actions);
+    * To provide in-app information regarding upcoming CMV Tournaments, other events or achievements;
+    * To identify and suggest connections with other CMV users or users of an SNS that you use in connection with a CMV App;
+    * To enable communications between you and other CMV users or users of an SNS that you use in connection with a CMV App;
+    * To allow us to enable you to reset your password if you have forgotten it;
+    * To provide technical support and respond to inquiries from you;
+    * To prevent fraud and potentially illegal activities and enforce our Terms of Service;
+    * To monitor the performance of our third-party vendors and distributors; and
+    * To help us to develop, deliver and improve the Services.
 
-**Digital River, Inc.**  
-ATTN: Privacy Department  
-10380 Bren Road West  
-Minnetonka, MN 55343  
+_For users in the EEA, the legal basis for processing of the above personal information is to provide you with the Services you have requested and to prevent fraud or injury to the Services and our other customers._
 
+Additionally, we may use your information to promote additional CMV Tournaments, events, products or services, including:
 
-**Pinpoint Marketing Group, Inc.**  
-ATTN: Privacy Department  
-3710 W. Royal Ln, Suite 125  
-Irving, TX 75063  
+    * To inform you about new CMV Tournaments, CMV-licensed video game tournaments or other events and to promote CMV Tournaments, CMV-licensed video game tournaments or other events;
+    * To contact you regarding CMV Tournaments, events, sweepstakes, or campaigns you may participate in, and provide you with the requirements to join the foregoing, as well to provide you with benefits and prizes from CMV;
+    * For market research purposes that support our efforts to deliver a more valuable service to our community of CMV users;
+    * To deliver and target advertising from third parties;
+    * To gather demographic information about CMV users in order to more effectively manage the Services and provide targeted advertising; and
+    * To track clicks or other ad fulfillment metrics.
 
+_The EEA legal basis for this processing of your personal information is our pursuit of legitimate interests, specifically in this case the legitimate interest to optimize your experience with the Services by avoiding display of recommendations and offers that are irrelevant to you. If you or the relevant Data Controller are located in the EEA, you have the right to object, on grounds relating to your particular situation, at any time to such processing. To exercise this right, you may do so by contacting us as provided in the “Contact” link below._
 
-Finally, the terms of this Privacy Policy are subject to all applicable laws.
+If we send e-mail or SMS messages to you for the purpose of promoting CMV events, products or services, or those of a third-party partner, we will generally provide you with choices about receiving further such promotional messages. Preferences for “push” notifications may in most cases be adjusted through the applicable CMV App or your mobile device.
 
-(Back to top)
+  3. ### HOW WE COLLECT YOUR INFORMATION AND HOW LONG WE KEEP IT
 
-## • Q2. What types of information do we collect about you?
+    1. #### Interaction with SNS’s
 
-Capcom respects your privacy, and, accordingly, we strive to minimize our collection of your personal information. Personal information is information that can be used to directly or indirectly with other collected information identify and contact you. If required by applicable law, Capcom will request your specific consent prior to collecting any of your personal information. If you prefer, however, not to disclose your personal information to Capcom, you may not be able to enjoy certain features of our Services.
+By registering with your SNS login information, you allow CMV to access certain information from your profile for that SNS. The information you allow CMV to access is affected by the privacy settings you and your friends establish at the SNS. You can control and find out more about these settings directly from the SNS. For example, CMV may access and store some or all of the following information, as allowed by you, the SNS and your preferences:
 
-**Our Services and European Economic Area Users**
+      * Your first and last name;
+      * Your SNS ID;
+      * The URL of your SNS profile;
+      * Your user ID number, which is linked to publicly available information such as name and profile photo
+      * The user ID numbers and other public data for your friends;
+      * The login e-mail you provided to that SNS when you registered; and
+      * Your gender.
 
-Data protection law in Europe requires a “lawful basis” for collecting and processing personal information from citizens or residents of the European Economic Area. Our lawful bases include:
+In addition, if you are a member of an SNS, CMV Apps may also enable you to log in through an interface provided by that SNS. CMV Apps may also enable you to access the SNS through the CMV Apps themselves. If you log in to a CMV App using an SNS, or access an SNS through a CMV App, we may receive the personal and non-personal information that you have provided (or provide in the future) to that SNS. 
 
-**Specific Affirmative Consent:** As stated above, Capcom will request your specific affirmative consent, if required by applicable law, in a clear, concise, and specific manner prior to collecting and processing your personal information.
+By connecting any CMV App to an SNS, you consent to CMV’s access, use and storage in accordance with this Privacy Policy of any and all of the information that you agreed the SNS could provide to CMV. Furthermore, by logging into any CMV App or Service through an SNS such as Facebook, you permit the SNS to check your SNS account cookies when you are visiting our website and to receive information concerning the actions you take on the website.
 
-**Performance of Contract:** In some instances, we will need to collect your personal information to comply with our contractual obligation to deliver the Services to you (e.g., pursuant to our End User License Agreement for a Service), such as by collecting your IP address to facilitate matchmaking in an online multiplayer video game, or collecting your telemetry data to display your player statistics and rankings to you.
+You may be able to specify what information is provided by the SNS to CMV using the privacy settings in your SNS profile information.
 
-**Legal Compliance:** Sometimes the law says we need to collect and process your personal information. For example, a court may order us to process your data for a particular purpose other than for which it was initially collected.
+    2. #### CMV Tournaments
 
-**Legitimate Interests:** On occasion, we may collect and process your personal information when we have a good and fair reason to use your data and we do so in ways which do not hurt your interests and rights. In other words, we may collect and process your data to pursue our legitimate interests in a way that might reasonably be expected as part of running our business and that does not materially impact your rights, freedom or interests.
+By registering for CMV Tournaments via Tournament Servicers, you allow CMV to receive certain information from your profile from that Tournament Servicer, as well as information collected via our registration forms hosted by the Tournament Servicer. You can control and find out more about these settings directly from the Tournament Servicer. For example, CMV may access and store some or all of the following information, as allowed by you, the Tournament Servicer and your preferences:
 
-**Our Services and Children**
+      * Your first and last name;
+      * Your physical address; and
+      * Your email address.
+    3. #### Other
 
-We do not knowingly collect or maintain personal information from users under in the United States, and under the applicable age of consent in other countries ("Child" or "Children") other than as permitted by law, for example, in support of our internal operations (in the U.S.) and legitimate interests or contractual or legal obligations (in the EU). We take Children's privacy seriously and encourage parents to play an active role in their Children's online experience at all times.
+In certain instances, CMV may offer you the opportunity to provide us with more information so that we can register you to receive premium support or to provide you with special offers from CMV or our partner companies. For example, you may have the option to provide an e-mail address to enable us to contact you with updates about CMV Apps or CMV Tournaments, or CMV-licensed events. Your e-mail address may also be used as your user name for certain CMV Apps.
 
-If Capcom learns that a Child's personal information has been collected, we will delete the account. If parents believe that we have unintentionally collected their Child's personal information, they should contact us to request the deletion of the information.
+CMV may provide you the opportunity to participate in CMV Tournaments. If you choose to participate in CMV Tournaments, we may request that you provide us with personal information such as your e-mail address or mailing address. In the event that you are a winner of an applicable Tournament, we may request evidence of your identification in order to verify your identity and comply with applicable financial laws relating to awarding prizes and procuring travel to additional CMV Tournaments.
 
-**Capcom USA**  
-Attn.: Privacy Policy Administrator  
-185 Berry Street, Suite 1200  
-San Francisco, CA 94107  
-(650) 350-6500  
-[privacy@capcom.com](mailto:privacy@capcom.com)
+CMV may provide you the opportunity to participate in include sweepstakes or contests (“Promotions”). If you choose to participate in a Promotion, we may request that you provide us with personal information such as your e-mail address or mailing address. In the event that you are a winner of an applicable Promotion, we may request evidence of your identification in order to verify your identity.
 
-**Personal Information That We Collect**
+If you request support relating to a CMV App or CMV Tournament, we may request personal information such as your name and e-mail address and your user name for any SNS’s, if that appears necessary to resolving the problem.
 
-To offer our users certain features of our Services, and to create certain user accounts (e.g., to create a Capcom Fighters Network account), we collect several types of personal information from you directly. Typically, this information includes:
+Our Services may require you to enter a region and language in order to provide relevant information in your language.
 
-  * Name 
-  * Username/Online ID 
-  * E-mail address 
-  * Date of birth/Age 
-  * Telephone number 
-  * Country of residence 
+We may also request or receive personal information in other interactions you may have with CMV.
 
+    4. #### Cookies and Other Technologies
 
+A cookie is a small string of text that we, or service providers acting on our behalf, such as Google Analytics, send to your computer’s or mobile device’s browser. Other types of cookies exist, but the cookies in the Services are only used to obtain browser or device-specific information.
 
-Other times, we collect your personal information automatically when you use our Services sometimes through cookies. Typically, this information includes:
+Some cookies are necessary to enable a CMV App or CMV Site to function properly and to allow your experience to continue from one session another, or to prevent you from having to reenter your region and language each time you access our Sites. Other cookies can show, for instance, which parts of CMV Apps are the most popular, how much time users are spending there, and how they are interacting with the content. Cookies may be linked to your CMV user ID. They do not collect information from your computer or mobile device that is not related to the Service.
 
-  * IP address 
-  * Mobile or device identifiers 
-  * Browser information, including browser type 
-  * Platform type 
-  * Details about the Services you are using and your use of them, such as: 
-    * game telemetry data; 
-    * purchase behavior; and/or 
-    * user and gameplay progression information. 
+You may have the option to disable cookies by changing the options in your browser to stop accepting cookies or to prompt you before accepting a cookie from the pages you visit. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. If you do not accept cookies, however, you may not be able to use all portions of our Services.
 
+We may also use “pixel tags,” “web beacons,” “clear GIFs” or similar means (individually or collectively “ **Pixel Tags** ”) in connection with our Services and to collect usage, demographic and geographical location data. A Pixel Tag is an electronic image, often a single pixel that is ordinarily not visible to users and may be associated with cookies on a user’s device or hard drive. Pixel Tags allow us to count users who have visited certain pages of the Services and to help determine the effectiveness of promotional or advertising campaigns.
 
+Please note that third parties delivering advertisements through the Services may also use cookies or other technologies. Their placement and use of cookies and other technologies will be subject to their own privacy policies and terms and conditions.
 
-As referenced above, please note that when purchasing merchandise and apparel from Digital River, Inc. and Pinpoint Marketing Group, Inc., you may have the ability to authorize those third parties to transfer to Capcom your email address and other information for our direct marketing purposes. Should you choose not to consent to the sharing of this information, no personal information will be provided to us by Digital River, Inc. and/or Pinpoint Marketing Group, Inc.
+BY CLICKING ON THE “SIGN UP” BUTTON, WHERE APPLICABLE, OR OTHERWISE BY ACCESSING OR USING OUR SERVICES YOU ARE CONSENTING TO THE USE OF COOKIES AND OTHER TRACKING TECHNOLOGIES ON YOUR DEVICE.
 
-**Non-Personal Information That We Collect**
+    5. #### Retention of Your Information
 
-Additionally, we may also collect other types of non-personal information (known as demographic information) such as your hobbies, occupation, game preferences, platform preferences, and other game ownership information. This demographic information may be combined with your personal information.
+We will only store your information as long as necessary to fulfil the purposes for which the information is collected and processed or, where applicable law provides for longer storage and retention periods, for the storage and retention period required by law. After that your personal information will be deleted.
 
-**Information Collected Through Third Party Services**
+  4. ### HOW WE SHARE YOUR INFORMATION
 
-i. Information Collected Through Social Networking Services
+    1. #### With Third-Party Advertising Entities
 
-You can engage with our Services on or through third-party social networking websites, such as Facebook, Twitch and Twitter, or other third-party social media plug-ins and applications which may be hosted on separate websites or embedded within or integrated with our Services. Where practicable, we will provide clear notice before you are directed to a third-party social networking website, plug-in, or application. When you engage with our Services on or through third-party social networking websites, plug-ins and applications, you may authorize us to have access to certain information from your social media profile (e.g., name, e-mail address, photo, birthday, location, your list of friends, people you follow and/or who follow you, the posts or the "likes" you make) to deliver content or as part of the operation of the Service. We may also obtain non-personal information from your interaction with our Services (e.g., content viewed, game performance and scores, and information about advertisements within the content you have been shown or may have clicked on).
+We will not share your personal information with third-party advertisers, ad networks and ad platforms (" **Advertising Entities** ") for their direct marketing purposes unless you provide your consent.
 
-By engaging with our Services on and through social networking websites, you consent to the sharing of such personal information with Capcom in accordance with this Privacy Policy. Please note that when you provide personal information to us through social networking websites, it may be publicly viewed by other members of those social networking websites, and we cannot prevent further use of the information by third parties. Further, any use of third-party social networking websites, plug-ins, or applications will be subject to such third-party social network’s respective terms of service and privacy policy, and may result in the collection of information about your use of our Services by those third parties. 
+We may share certain non-personal information with Advertising Entities to develop and deliver targeted advertising in the Services and on the websites of third parties. We may also allow Advertising Entities to collect non-personal information within the Services which they may share with us, including your device identifier, device type, device brand, device model, OS type/version, network type, device language, device locale, and IP address. Advertising Entities may also collect non-personal information related to the performance of the advertisements, such as how many times an advertisement is shown, how long an advertisement is viewed, and any click-throughs of an advertisement. Advertising Entities may collect this information through the use of tracking technologies like browser cookies and web beacons.
 
-ii. Information Collected Through First Party Platforms
+    2. #### With Tournament Servicers
 
-You can also engage with certain portions of our Services through certain first-party and/or mobile platforms (the “First Party Platform(s)”). For instance, if you desire to use features of our Services by signing in through or otherwise linking with, for example, your PSN account or Steam account to authenticate yourself, some information from those First Party Platforms (e.g., your account ID, date of birth/age, username, language preference, entitlement information, achievement/trophy information, and/or geographic information), and/or information regarding your usage of our Services (e.g., web analytics data or game telemetry data) (collectively, the “Platform Information”), which may have been collected by the First Party Platform may be transmitted to Capcom. Further, some First Party Platforms, such as mobile platform providers, may provide to us additional information such as your precise location or contact list information. We will collect this information only if you provide your affirmative consent.
+If you use our Tournament Servicers to provide us with personal information, the information will be accessible to the Tournament Servicer (e.g., Smash.gg), and subject to the Tournament Servicer’s privacy policy and service terms. Before providing any information to the Tournament Servicer’s third-party website, app or service, we encourage you to review the privacy policy and other terms and conditions of Tournament Servicer’s website, app or service. You agree that CMV will have no liability for any matters relating to a Tournament Servicer’s third-party website, app or service that you provide information to, including their collection and handling of that information.
 
-Where required by applicable law, Capcom will request your specific affirmative consent prior to collecting and processing any Platform Information. Otherwise, by signing in and/or linking with a First Party Platform in connection with your use of the Services, you hereby acknowledge and agree that Platform Information may be transmitted to us and that all Platform Information transmitted to us may be used by Capcom in accordance with this Privacy Policy and any applicable terms of consent required by a First Party Platform provider. Further, your use of the First Party Platform will be subject to such First Party Platforms’ respective terms of service and privacy policy.
+    3. #### With Other Service Providers
 
-**Information Collected Through Cookies and Other Web-Based Technologies**
+To help administer the Services, we may use certain other third-party service providers. These service providers will have access to your information only to perform the services they have been engaged to perform for us, and they have agreed not to disclose or use it for any other purpose.
 
-We collect information through web-based technologies, such as “cookies”, to make our Services more interesting and useful to you. For example, when you use one of our Services, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet Service Provider), your company, or your university. At times, we use IP addresses to collect information regarding the frequency with which our users visit various parts of our websites. At other times, we collect your IP address to facilitate location-based matchmaking in our online multiplayer Services.
+    4. #### Under Special Circumstances
 
-i. Cookies
+We may disclose information about you to law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including but not limited to subpoenas), to protect the property and rights of CMV or a third party, to protect the safety of any person or to prevent or stop activity we may consider to be illegal or unethical.
 
-Our web-based Services use cookies. A cookie is a small file consisting of letters and numbers that is downloaded to and stored on your computer or mobile device when you visit a website. Each cookie is unique to your web browser or device. There are several different types of cookies:
+_If you or the relevant Data Controller is a resident of an EEA country, the legitimate interest in sharing this information is to comply with our legal obligations, and to protect the vital and legitimate interests of third parties, as the circumstances warrant._
 
-  * Session cookies, which only last as long as your visit to the website. Session cookies are used for things such as remembering what you put into your shopping cart as you browse a website, or to ensure that your bank account information cannot be accessed after you leave the bank’s website. 
-  * Persistent cookies, which last for a longer period of time, including in between sessions. Persistent cookies are used for things like remembering your preferences and choices when you re-visit a website, or for keeping you logged in to a website. 
-  * First- and third-party cookies, which refer to who is placing the cookie on your computer or device. First-party cookies are placed by the website that you are visiting; third-party cookies are placed by a third-party, such as an advertising company that is posting ads on the website that you are visiting. 
+In connection with a merger, acquisition, reorganization or sale of assets, or in the event of bankruptcy, we may sell, transfer or otherwise share some or all of CMV assets, including your personal information.
 
+  5. ### CHILDREN’S PRIVACY
 
+CMV Apps are not intended for children under the age of 13. We do not knowingly collect any personal information from children under the age of 13. CMV may use an age screen in certain countries in which users are required to enter their’ ages. When a CMV App collects age information via an age screen prior to download and users identify themselves as under 13, the CMV App will block such users from providing personal information, will disable the collection of personal information from such users until they reach the age of 13, will not send any cookies to such users and will instruct third parties not to send cookies to such users. We will not collect more information from children under the age of 13 than is reasonably necessary to provide our Services. In one or more countries outside the United States, the applicable age may be older than 13.
 
-We use the cookies for the following purposes:
+We encourage you to talk with your children about communicating with strangers and disclosing personal information online. 
 
-  * Strictly necessary functionality: We use several persistent cookies that are strictly necessary to enable you to move around the website and use its features. Without these cookies, we would not be able to provide certain functions of our sites, such as automatic sign-in to Capcom-Unity. 
-  * To provide additional functionality: To remember the setting you’ve chosen to use when viewing our site, and to tailor our site to you. For example, if you set your location to France, we know to translate the site into the French language for you. 
-  * Analytical or Performance purposes: To measure visitor behavior, such as how many times a visitor visits the site, so that we can improve our site and provide you a better experience. 
+  6. ### FRIEND-FINDING FUNCTION
 
+The Services may include a function that may help you to identify friends with whom you may wish to engage with regarding or within a CMV App. At your option, the function may access your contacts on the SNS. By providing the applicable CMV App with permission to access your SNS contacts, you hereby consent to us processing your information for the purposes of utilizing the friend-finding function.
 
+Your use of the friend-finding function in connection with an SNS is subject to your user agreement with the SNS, and any policies of that SNS.
 
-Depending on your choice of browser (e.g., Edge, Chrome, Firefox, etc.), you may be able to modify your browser so that it notifies you when cookies are sent to it. Alternatively, you can refuse to accept cookies altogether, and you can also delete cookies that have already been set. You can do this through your browser settings. Each browser is a little different, so look at your browser's help menu to learn the correct way to modify your settings. If you turn cookies off, you will not have access to many features that make your web experience smoother, like the features mentioned above, and some of our services may not function properly.
+  7. ### HOW WE PROTECT YOUR INFORMATION
 
-To support our web pages, we sometimes also embed content from third-party websites, such as video content from YouTube. As a result, when you visit a page containing such content, you will be presented with third-party cookies from these third-party websites. Similarly, you will also see embedded ‘share’ buttons on Capcom web pages that enable users to easily share content with their friends through a number of popular social networks. When you click on one of these buttons, a cookie will be set by the service through which you have chosen to share content (such as Facebook or Twitter). Capcom does not control the placement of these cookies and you should check the relevant third party's website for more information on how to restrict the placement of these cookies. When visiting Capcom's websites, the third-party cookies that may be present include, but are not limited to those listed in the chart below.
+CMV is committed to protecting the security of your information. We have implemented security measures to protect against identity theft and unauthorized access.
 
-Cookies Used
+We do not and will not, at any time, request your credit card information, your login information or other identification in a non-secure or unsolicited communication (such as e-mail).
 
- Cookie name  |  Source  |  Expiry  | Purpose | How to block  
----|---|---|---|---  
-_utma | Google Analytics | 2 years from set/update | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve our site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.  | You may visit <https://tools.google.com/dlpage/gaoptout?hl=en-GB> to block these cookies. Alternatively, you can change your browser settings to accept or refuse these cookies as mentioned below.   
-_utmb | Google Analytics | 30 minutes from set/update |  |   
-_utmc | Google Analytics | Upon the browser closing |  |   
-_utmv | Google Analytics | 2 years from the visitor's last visit |  |   
-_utmz | Google Analytics | 6 months from set/update |  |   
-  
-YouTube (Google) | Cookies are used to deliver content on this website using YouTube (Google). Data collected by Google may also be used for other purposes, including advertising. |  You can find out more about Google's privacy practices and the cookies that it uses via YouTube here (<http://www.google.com/intl/en/policies/privacy/>). You can also change your browser settings to accept or refuse these cookies as mentioned above.   
----|---|---  
-Twitter |  Twitter uses cookies to enable visitors to share website pages and content through third party social networking and other websites. Twitter may also use visitors' information to serve targeted advertising on other websites. | Further information about how Twitter uses cookies, including how you can opt-out is available here (<https://twitter.com/privacy>). You can also change your browser settings to accept or refuse these cookies as mentioned above.   
-Facebook | Cookies are used to deliver content on this website using Facebook. Data collected by Facebook may also be used for other purposes, including advertising. | You can find out more about Facebook's privacy practices and the cookies that it uses here (<https://www.facebook.com/about/privacy/>). You can also change your browser settings to accept or refuse these cookies as mentioned above.   
-MediaMind (__atuvs, __atuvc) | Streetfighter.com uses cookies to enhance their marketing campaign analytics gathering. Data collected is only available to marketing team involved with the product and is not shared. | Further information about how Mediamind uses cookies, including how you can opt-out is available here (<http://www.mediamind.com/privacy-policy>). You can also change your browser settings to accept or refuse these cookies as mentioned above.   
-  
-ii. Other Web Technologies
+Should any breach of security occur, we will make any legally required disclosure to you by e-mail or posting on the Services as soon as reasonably possible, subject to (i) the requests of law enforcement and (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-Except to the extent that any additional web technologies are incorporated into a third-party’s embedded services listed above (i.e., YouTube, Twitter, Facebook, Google Analytics, etc.), Capcom’s web-based Services do not use pixels, clear GIFs, web beacons, or other web or browser-based technologies to collect information about you. In the event that the foregoing changes, we will amend this Privacy Policy to accurately reflect our new collection and usage.
+  8. ### HOW YOU MAY CHANGE, REMOVE, OR EXPORT YOUR INFORMATION
 
-iii. California “Do Not Track” Disclosure
+You may email us at privacycmv@capcom.com to request that we delete your personal information from our database. In that case, please place “delete my account” in the subject line and include your first and last name and e-mail address in the body of the message. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for business administrative purposes.
 
-At this time, Capcom’s websites do not recognize automated browser signals regarding tracking mechanisms, which may include ‘Do Not Track’ instructions. You can, however, change your privacy preferences regarding the use of cookies and similar technologies through your browser, as mentioned above.
+Please note that communications you may send through the Services, as well as any comments you may post, will be stored by CMV, and may not be subject to modification or deletion.
 
-(Back to top)
+You may also control the information that CMV collects through the settings in your browser or mobile device. You may configure your browser to reject cookies from CMV and may adjust the settings of your mobile device to prevent a CMV App or other Service from obtaining location information. However, please note that CMV Apps may rely on cookies and location information to function properly and some services may not be available if you disable cookies.
 
-## • Q3. How is your personal information used and shared?
+  9. ### LINKS TO THIRD-PARTY WEBSITES AND SERVICES
 
-We use your personal and non-personal information, both individually and in the aggregate, in the following ways:
+The Services may contain links to other websites and online services, including third-party advertisements. If you choose to click through to one of these other websites or online services, please note that any information you may provide will be subject to the privacy policy and other terms and conditions of that websites or service, and not to this Privacy Policy. We do not control third-party websites or services, and fact that a link to such a website or service appears in the Services does not mean that we endorse them or have approved their policies or practices relating to user information.
 
-To operate our business and to enhance and personalize your game experience including to:
+Before providing any information to any third-party website or service, we encourage you to review the privacy policy and other terms and conditions of that website or service. You agree that CMV will have no liability for any matters relating to a third-party website or service that you provide information to, including their collection and handling of that information.
 
-  * Operate, improve, and develop our games and Services; 
-  * Enable online matchmaking and provide online statistic tracking; 
-  * Help you find your friends or tell your friends about a Service; 
-  * Facilitate sharing on social networks; 
-  * Serve and measure the effectiveness of advertising; 
-  * Measure the health of our Services; 
-  * Set up and maintain accounts you register for; 
-  * Provide game experiences that you may like; 
-  * Set up loyalty programs; 
-  * Identify, fix, and troubleshoot bugs and service errors; 
-  * Provide software updates; 
-  * Adhere to your preferences and to deliver dynamic content; and 
-  * Help keep our Services safe and fair, resolve disputes, investigate and help curb fraud and illegal behavior, comply with the law, and to enforce our agreements and policies. 
+  10. ### UPDATES TO THIS PRIVACY POLICY
 
+We reserve the right to update this Privacy Policy at any time. If we modify this Privacy Policy in a material way, a notice will be posted on the Sites along with the updated Privacy Policy. We will also update the “Last Updated Date” in the Privacy Policy. “Privacy Policy” as used herein includes any updates and modifications we may make from time to time.
 
+By continuing to access or use the Services after we have posted an updated Privacy Policy or have provided you with notice of a modification, you agree to be bound by the modified Privacy Policy. If the modified Privacy Policy is not acceptable to you, you must immediately stop using any Services.
 
-To provide you support, including to:
+  11. ### NON-US USERS
 
-  * Help identify and troubleshoot problems with your use of our Services; 
-  * To survey your opinions through surveys or questionnaires; 
-  * Communicate with you and respond to your specific requests or questions; and 
-  * Manage and send you confirmations and important information about your account, products, purchases, subscriptions, and warranties. 
+Information that you provide may be transferred or accessed by entities around the world as described in this Privacy Policy. If you are located outside the United States, you understand that we may transfer personal information to and process it in the United States. If you are located in the European Union, you freely consent to the transfer of personal information outside of the European Union, and we agree to use technical, organizational, and security measures appropriate for the protection of your personal information during the storage and transfer of your data; or any other measures reasonably necessary to comply with European Union data protection law and the requirements of the EU Data Protection Directive 95/46/EC. Your consent to this Privacy Policy followed by your submission of personal information represents your agreement to these transfers.
 
+  12. ### RIGHTS OF USERS FROM THE EEA
 
+    1. #### Data Controller
 
-To personalize our communications with you, including to:
+For the purposes of this Privacy Policy, Capcom Media Ventures, Inc. is the Data Controller of your personal information.
 
-  * Present offers and/or information relating to Services you might like; 
-  * Make recommendations to you; and 
-  * Personalize advertising for you and deliver targeted marketing newsletters, service updates and promotional offers. 
+    2. #### Rights of EEA Residents
 
+If you are accessing or using the website or mobile app from within the EEA, you may have the following rights under the GDPR (as well as other rights). If you wish to exercise any of these rights, you may do so by contacting us as provided in the “Contact” link below, or as provided in the applicable section below.
 
+      * _Right of Access_ : You have the right to obtain confirmation from us as to whether or not CMV processes personal information from you and you also have the right to at any time obtain access to your personal information stored by CMV.
+      * _Right to Correction of your Personal Information_ : If we process your personal information, we use reasonable measures to ensure that your personal information is accurate and up-to-date for the purposes for which your personal information was collected. If your personal information is inaccurate or incomplete, you have the right to require us to correct it.
+      * _Right to Deletion of your Personal Information or Right to Restriction of Processing_ : You may have the right to require us to delete your personal information or to restrict of processing of your personal information.
+      * _Right to Withdraw your Consent_ : If you have given your consent to the processing of your personal information, you have the right to withdraw your consent at any time, without affecting the lawfulness of processing based on the consent before the withdrawal.
+      * _Right to Data Portability_ : You may have the right to receive the personal information concerning you and which you have provided to us, in a structured, commonly used and machine-readable format or to transmit this data to another controller.
+      * _Right to Object_ : You may have the right to object to the processing of your personal information as further specified in this Privacy Policy.
+      * _Right to Lodge a Complaint with Supervisory Authority_ : You have the right to lodge a complaint with a data protection supervisory authority located in the European Union. Further information about how to contact your local data protection authority is available at <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.
+  13. ### YOUR CALIFORNIA PRIVACY RIGHTS
 
-Whatever the purpose may be, we will only collect and process your information to the extent you have provided to us your affirmative consent, or, alternatively, as reasonably necessary to fulfill our contracts with you, perform our legitimate business objectives, or as otherwise required under applicable law. More importantly, we will not collect and use your personal information for any purposes other than as set forth in this Privacy Policy without your affirmative consent.
+If you are a resident of California, USA resident and CMV user, you are entitled to request certain information regarding our disclosure of certain “personal information” (as defined in California Civil Code Section 1798.83) to third parties for their direct marketing purposes. If you are a California resident and have provided CMV with personal information within the last year, you may make such a request by emailing us at [privacycmv@capcom.com](mailto:privacycmv@capcom.com) and typing the following in the subject line of the e-mail: “California Privacy Rights”.
 
-**Capcom USA Activities and Updates**
+Within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for such third parties’ direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. A request may be made no more than once per calendar year and we are not required to respond to requests made by means other than through the e-mail address above.
 
-Information collected from those who voluntarily submit it to us is used to provide services like newsletter subscriptions, updates on special events, game news, and e-mail announcements of interest to our users, as well as providing our users with exclusive content, awards, prizes and/or access to special promotions. You may opt out of such services by following the process set forth in Q8 below.
+  14. ### CONTACTING CMV
 
-**Forums, Blogs, and Message Boards**
+If you have any questions, inquires, requests or complaints concerning this Privacy Policy or our information practices, please contact us at [privacycmv@capcom.com](mailto:privacycmv@capcom.com) or by regular mail at the following address: Privacy Officer, Capcom Media Ventures, Inc., 10960 Wilshire Blvd, Suite 1500, Los Angeles, CA 90024 USA.
 
-If you register for access to our blogs or message boards, we will use your personal information to enable you to view and post messages on the boards. You should understand, however, that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community. So whenever you give out personal information in public areas, that information can be collected and used by people you don't know.
 
-Should you wish to remove content or information after you have posted it, you may do so by logging into your Capcom account and clicking either the "garbage can" or "x" icon located on your post. Alternatively, you may contact us at [privacy@capcom.com](mailto:privacy@capcom.com) with your request. In addition, Capcom provides all registered users the ability to completely and permanently delete their account information including all comments, blogs, and forum posts. To delete your Capcom-Unity account, please log in and visit this link: <http://www.capcom-unity.com/help/remove_user.one>. Please note that deleting your profile cannot be reversed.
 
-Please also note that removal of this content or information from public view does not guarantee complete or comprehensive removal. After your removal request has been honored, we may retain copies of the content or information you have previously posted on our servers if we have a legal basis for doing so. For example, we are not required to remove your posted content or information if it has been rendered anonymous or if we are ordered by a court to retain it. Additionally, we do not have control over third parties (e.g., other users) who may have copied or reposted this information. 
-
-**Operational Uses**
-
-We may also use your personal information for other purposes, such as operational uses necessary to conduct our business or provide the Services. For example, we may use your information to send you administrative communications either about your account with us or about features of our Services.
-
-**Aggregated and Anonymous Information**
-
-Finally, we may take your personal information and make it anonymous. We do this either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (e.g., your name or other identifying information) that make the information personally identifiable to you. This process is known as de-personalizing your information. Given the non-personal nature of this information, no restrictions apply under this Privacy Policy on our right to de-personalize your personal information. We may use de-personalized information in any way and share it with third parties without your consent.
-
-**Employment-Related Information**
-
-For practical reasons, we treat personal information submitted to us in an employment context different from information we receive in other contexts. Personal information submitted to us in an employment context (e.g., employment applications and resumes) may be shared with third parties, depending on the nature of the inquiry.
-
-**Purchase or Sale of Businesses**
-
-From time to time, we may purchase a business or sell one or more of our businesses and your personal information may be transferred as a part of the purchase or sale. If we purchase a business, the personal information received with that business would be treated in accordance with this Privacy Policy, to the maximum extent possible. If we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personal information in the same way required by this Privacy Policy (including any amendments to this Privacy Policy). The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
-
-**Third Party Processing**
-
-Capcom engages third parties, located both within and outside of the United States, to collect and/or process your personal information on our behalf in connection with our offering and maintenance of the Services, such as for providing back-end server/matchmaking services, customer support services, and analytics services, conducting market surveys, or sending newsletters, or otherwise in accordance with the purpose(s) for which your personal information was originally collected. When these third party service providers collect or receive your personal information, we require that they use your personal information only on our behalf, not sell your personal information to third parties, not disclose your personal information except as may be required by law, or as permitted by us or as stated in this Privacy Policy.
-
-To the extent that your personal information may be transferred to countries outside of the United States, we will take measures to ensure that any such transfers comply with applicable data protection laws and that your personal information remains protected to the standards described in this Privacy Policy.
-
-**No Third Party Marketing**
-
-Our company does not share and has not reserved the right to rent or sell your personal or demographic information to third parties for their direct marketing purposes.
-
-**Automated Decision Making**
-
-Capcom does not use your personal information in any form of automated processing, including profiling, which produces legal effects concerning you, or similarly significantly affects you.
-
-**Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Services and Others**
-
-We will disclose personal information when we believe in good faith that disclosure is required by law (e.g., court order or subpoena) or to help:
-
-  * enforce our Terms of Service, or contest, sweepstakes, eSports tournaments, promotions, or game rules; 
-  * protect your safety or security, including the safety and security of your property; or 
-  * protect the safety and security of our Services or third parties. 
-
-
-
-(Back to top)
-
-## • Q4. What are your California Privacy Rights?
-
-California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. However, as previously stated, we do not share information with third parties for their direct marketing purposes. If you still have inquiries regarding our disclosure policy, please contact us:
-
-Capcom USA  
-Attn.: Privacy Policy Administrator  
-185 Berry Street, Suite 1200  
-San Francisco, CA 94107  
-(650) 350-6500  
-[privacy@capcom.com](mailto:privacy@capcom.com)  
-
-
-(Back to top)
-
-## • Q5. What kinds of security measures do we take to safeguard your personally identifiable information?
-
-The security and confidentiality of your information is extremely important to us. We have technical, administrative and physical security measures in place to protect your personal information from unauthorized access and improper use. We also review our security procedures periodically to consider appropriate new technology and updated methods. But, despite our best efforts, no security measure is ever perfect or impenetrable. Specific security measures we currently implement to prevent unauthorized physical or electronic access to users' personal and demographic information:
-
-  * User data is stored behind a firewall to protect your data from unauthorized access or against loss, misuse or alteration 
-  * Data is stored in a secure physical environment (e.g. behind locked doors) 
-  * Data is stored in a database accessible to authorized employees on a need-to-know basis only 
-  * Users or employees must have a unique password before gaining access to user data 
-  * We use industry standard encryption technology when transferring or receiving sensitive personal information 
-  * We maintain written security policies to which all employees must adhere. 
-
-
-
-(Back to top)
-
-## • Q6. How can you update your personal information and profile for web-based Services?
-
-You can access and update the personal information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by e-mailing us at [accounts@capcom.com](mailto:accounts@capcom.com). You may update the information in your profile by logging into your account and visiting your account settings.
-
-(Back to top)
-
-## • Q7. How can you ask questions, or send us comments, about this Privacy Policy?
-
-If you have questions or wish to send us comments about this Privacy Policy, please contact us with questions or comments at:
-
-Capcom USA  
-Attn.: Privacy Policy Administrator  
-185 Berry Street, Suite 1200  
-San Francisco, CA 94107  
-(650) 350-6500  
-[privacy@capcom.com](mailto:privacy@capcom.com)  
-
-
-Any personal information you provide to the above e-mail and postal mail addresses will not be used to send you promotional materials, unless you request it.
-
-Capcom is a licensee of the ESRB's Privacy Certified Program. If you believe that we have not properly responded to your inquiry, please contact the ESRB at <http://www.esrb.org/privacy/contact.jsp>, or:
-
-ESRB  
-Attn.: Privacy Certified Program  
-420 Lexington Avenue, Suite 2240  
-New York, NY 10170  
-[privacy@esrb.org](mailto:privacy@esrb.org)  
-
-
-(Back to top)
-
-## • Q8. How can you access and control the use of your personal information? 
-
-Capcom provides you choices when it comes to the collection and use of your personal information. For example, you can choose to opt in or out of marketing emails. If you would like to opt out at any time after granting consent, contact us at the following:
-
-Capcom USA  
-Attn.: Privacy Policy Administrator  
-185 Berry Street, Suite 1200  
-San Francisco, CA 94107  
-(650) 350-6500  
-[privacy@capcom.com](mailto:privacy@capcom.com)  
-
-
-You also may adjust your browser settings to block certain online tracking, such as cookies. 
-
-**European Union/European Economic Area Users**
-
-Users residing in certain countries, including the EU/EEA users, are afforded certain additional rights regarding their personal information. Except where an exception or exemption applies, these rights include the ability to access, correct, and request deletion of your personal information; request a portable copy of your personal information; or otherwise object to or restrict how we use your personal information.
-
-At any time, you may contact us to deactivate your Capcom accounts, delete the personal information associated with your accounts or otherwise collected in connection with your use of our Services by contacting our Privacy Policy Administrator at the address above. If you choose to do so, you may no longer have access to the Services associated with your accounts. Note that Capcom may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our products. Otherwise, we will retain your personal information only for as long as reasonably necessary to provide you Services, create and improve our products, comply with the law, and to run our business.
-
-You may exercise your rights concerning your personal information at any time. To exercise your personal data rights, send us an email at [privacy@capcom.com](mailto:privacy@capcom.com) headed "Subject Access Request". Before we process any request, we may ask you for certain personal information in order to verify your identity. Where permitted by local law, we may reject requests that are unreasonable or impractical. We will respond to your requests in a reasonable timeframe.
-
-(Back to top)
-
-## • Q9. How will you know if we amend this Privacy Policy?
-
-We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will make reasonable efforts to notify you via our Services, and we will prominently post a notice of the changes covered by this Privacy Policy on our website located at <http://www.capcom-unity.com/>. Any material changes to this Privacy Policy will be effective when posted, and your continued use of any of the Services covered by the Privacy Policy after the posting will constitute your acceptance of and agreement to be bound by those changes, to the extent permitted by applicable law. In the event that a material change in this Privacy Policy affects the collection and/or processing of your personal information which was previously collected pursuant to your prior consent, we will request a re-affirmation of your consent to any new collection and/or processing, as required by applicable law.
-
-(Back to top)  
-
-
-## • Q10. How is information treated when it is collected from non-US residents?
-
-For personal information transferred from a European Union or European Economic Area member country or Switzerland to the United States, Capcom complies with the EU-U.S. and the Swiss-U.S. Privacy Shield Frameworks as set forth by the U.S. Department of Commerce. Capcom certifies that it adheres to the Privacy Shield Principles. If there is any conflict between the terms of this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view Capcom’s Privacy Shield certification, please visit <https://www.privacyshield.gov/>.
-
-In compliance with the Privacy Shield Principles, Capcom commits to resolve complaints about our collection or use of your personal information. European Union, European Economic Area and/or Swiss individuals with inquiries or complaints regarding our Privacy Policy should contact us at [privacy@capcom.com](mailto:privacy@capcom.com), or regular mail at:
-
-Capcom USA  
-Attn.: Privacy Policy Administrator  
-185 Berry Street, Suite 1200  
-San Francisco, CA 94107  
-
-
-If a European Union, European Economic Area or Swiss individual’s complaint cannot be resolved through our internal process, we will cooperate with JAMS pursuant to the JAMS International Mediation Rules, available on the [JAMS website](https://www.jamsadr.com/eu-us-privacy-shield). Mediation shall be conducted in English and shall take place in the City and County of San Francisco in the State of California before one mediator selected in accordance with such rules and procedures. All documents submitted to such mediation shall be in English. JAMS mediation may be commenced as provided for in the relevant JAMS rules, and at no cost to you. Under certain conditions, a European Union, European Economic Area or Swiss individual may also pursue binding arbitration through the Privacy Shield Panel. Arbitration before the Privacy Shield Panel shall be conducted in accordance with the [Arbitration Procedures](https://www.privacyshield.gov/article?id=G-Arbitration-Procedures) set forth in Privacy Shield Annex I. Any arbitration not before the Privacy Shield Panel shall be conducted in English and shall take place in the City and County of San Francisco in the State of California before one arbitrator. All documents submitted to such arbitration shall be in English.
-
-Additionally, at any time, a European Union, European Economic Area or Swiss individual may submit a complaint directly to his or her local European Union data protection authority or the Swiss Federal Data Protection and Information Commissioner, as applicable. Moreover, Capcom is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. For more information about filing a complaint, [click here](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint).
-
-Capcom may be liable for the onward transfer of EU, EEA or Swiss individual’s personal data to third parties that process personal data in a manner inconsistent with the Privacy Shield Principles, unless Capcom proves that it is not responsible for the event giving rise to the damage.
