@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isbndb.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329181727id_/https%3A//isbndb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isbndb.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109110626id_/https%3A//isbndb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ISBNdb
 
