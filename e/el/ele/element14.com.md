@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the element14.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231131717id_/https%3A//www.element14.com/community/static/legal/e14fullterms%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the element14.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109104227id_/https%3A//www.element14.com/community/static/legal/e14fullterms%23privacy) for the most accurate reproduction.*
 
 # element14 Community Terms of Use and Privacy Po... | element14 |
 
-element14 Community Terms of Use and Privacy Policy
+Privacy statement Including Information Notice
 
 ## Terms of Use
 
@@ -12,13 +12,15 @@ These Terms of Use (“Terms”) set out the basis upon which the Premier Farnel
 
 We may update these Terms from time to time without notice so you should check them regularly because your continued use of element14 will constitute your acceptance of the updated Terms.
 
-Any personal information collected on element14 will be handled in accordance with our _Privacy Policy_.
+By using the website you accept of all of the Terms contained herein, all other operating rules, policies (including, without limitation, element14 Privacy Policy for the website) and procedures that may be published from time to time on the website by element14. Any personal information collected on element14 will be handled in accordance with our _Privacy Statement_.
+
+Please read these Terms carefully before accessing or using the website. If you do not agree to all the Terms, you may not access the website or use any of its services. If these terms are considered an offer by element14, acceptance is expressly limited to these terms. The website is available only to individuals who are at least 13 years old.
 
 #### Registration
 
 You are required to be registered with element14 in order to participate in, contribute to and access certain services on element14. Your registration is only for your personal use and you should not share your username or password with anyone else. You are responsible for keeping your password confidential and for all activity that occurs through your account. 
 
-#### Prohibited use / Who should not use element14
+#### Prohibited use / who should not use element14
 
 You should not use element14 if you are:
 
@@ -38,7 +40,7 @@ By using element14 you confirm that you do NOT fall into any of the categories a
 
 _Content that we provide:_
 
-Any content or materials on element14 that we provide will be subject to intellectual property rights (such as copyright, trade marks, design rights) that are owned by or licenced to us.  All rights to this content remains under our ownership or our licensors’ ownership.
+Any content or materials on element14 that we provide will be subject to intellectual property rights (such as copyright, trademarks, design rights) that are owned by or licensed to us.  All rights to this content remains under our ownership or our licensors’ ownership.
 
 No part of element14 or any of its content may be reproduced (in whole or in part) or modified or disassembled/decompiled without our express prior written permission and you should not collect or compile information and/or materials from element14 as part of a database or other work without our express prior written permission. In the event that you are given permission, you are required to retain any copyright or other intellectual property notices contained in the original materials.
 
@@ -104,75 +106,108 @@ Any provision of these Terms that is found by a competent court or authority to 
 
 * * *
 
-We take the privacy of our customers and prospective customers very seriously. The purpose of this statement is to set out the principles governing our collection and use of personal information we may obtain about you during the course of element14. By accepting these Terms, you are indicating that you have read this Privacy Policy and understand that your personal information may be used in accordance with it. If you have any questions regarding this Policy or feel that we are not complying with it, please let us know at [communitymanager@element14.com.](mailto:communitymanager@element14.com)
+Premier Farnell Ltd (also referred to ‘Farnell’, ‘we’, ‘us’ or ‘our’ in this Statement) is a member of a world-wide group of companies of which AVNET Inc. (based in the USA) is the parent company. Protecting the security and privacy of your personal data is important to us. On this website Premier Farnell Ltd, registered in England and Wales (no 00876412), registered office: Farnell House, Forge Lane, Leeds LS12 2NE, in its role of data controller is collecting and storing personal data.
 
-#### How we collect information about you
+This privacy statement shall apply in addition to our Data Protection Policy and all our Terms and Conditions. To ensure fair and transparent processing of your personal data and compliance with applicable laws on data protection, we provide you with the following information:
 
-In order for you to be registered with element14, we need a username, your name and email address (Registration Data) and if you choose to you may at your sole discretion edit your profile and provide further personal information such as employment information, location and photograph (Profile Information). We determine the purpose of collection, use and disclosure of your Registration Data and, as such, are considered the data controller of this information. Because you, not we, determine the purposes for which Profile Information is collected, used and disclosed, we are not the data controller of Profile Information that you provide on your profile. It is not intended that any sensitive personal data be collected on element14 and therefore you should not include any sensitive personal data (e.g. data relating to health, sexual orientation, religion, race or ethnic origin, political opinion) on your profile or otherwise on element14. During the course of your use of element14 you may pass information to us and/or other Contributors in the context of questions and comments and a dialogue may develop. The majority of this information will not be personal data but, to the extent that you do disclose any personal data during these sessions, that information is retained in accordance with this Policy. Any information exchanged during an online conversation you have with another Contributor may be recorded, primarily for customer service, monitoring and security purposes, but, save for the tracking referred to below, the storing of emails on our servers of emails sent via element14 and the recordal of your registration and profile information, your participation in the element14 environment will not be recorded. 
+#### What personal data is collected and/or processed by Farnell?
 
-#### How we store and use your information
+Depending on your interaction with us, the following registration details shall be collected and processed:
 
-Your Registration Data and Profile Information is stored on a Group server located in the UK and it may be used by us or any other company in the Group:
+User´s Name
 
-  * For the purposes of your participation in element14, including contacting you in connection with any query you have raised;
-  * If you have opted in, in order to contact you subsequently to inform you about other products, services or events on offer from Premier Farnell which we think may genuinely be of interest to you. We will always give you the option not to be contacted in this way or at all and you may exercise that option at any time; 
-  * For administration purposes or to help us develop and improve our offering;
-  * For crime prevention or detection purposes.
+Company
+
+Department
+
+Salutation, if applicable title
+
+Name and surname
+
+Tel. no., Fax no.
+
+E-Mail address
+
+Address
+
+IP address
+
+#### How do we use your personal data?
+
+Farnell uses the personal data we have about you for the following purposes:
+
+  * Logging of access to our websites (IP address) for statistical purposes, optimise, improve and further develop our website, for instance by analysing user behaviour with respect to dates and times and the data volume called up on our website.
+  * Communication about products, services and projects e.g. by responding to inquiries or requests.
+  * Planning, performing and managing the (contractual) relationship e.g. by performing transactions and orders of products or services, processing payments, performing accounting, auditing, billing and collection activities, arranging shipments and deliveries, facilitating repairs and providing support services.
+  * Advertising similar or identical products and/or services to the products or services already purchased unless you have objected and sending out newsletters.
+  * Administrating and performing customer surveys, marketing campaigns, market analysis, contests, or other promotional activities or events.
+  * Maintaining and protecting the security of our products, services and websites, preventing and detecting errors through the log files, security threats, fraud or other criminal or malicious activities.
+  * Ensuring compliance with legal obligations (such as record keeping obligations), compliance screening obligations, and Farnell’s policies or industry standards; and
+  * Solving disputes, enforce our contractual agreements and to establish, exercise or defend legal claims.
 
 
 
-Any marketing consents, opt-ins/opt-outs or other preference details provided to us in connection with another site or service operated by us will be recorded and administered separately from any preferences or consents provided in connection with element14, but you have the option at any time to change your preferences registered in connection with any of our sites or services at any time.
+We are entitled to use and process your personal data for these purposes by virtue of the performance of a contractual relationship or the legitimate interest of Farnell or third party. If explicitly provided by you, consent can also be a legal basis for Farnell to process or use your personal data. This consent can be withdrawn at any time with effect for the future.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
+If the legal ground for processing your personal data is no longer available, Farnell may only further process your personal data where there is another legal ground for the processing.
 
-#### To whom may we disclose your information?
+If the legal ground for processing your personal data is no longer available, Farnell may only further process your personal data where there is another legal ground for the processing.
 
-We may need or wish to share your information with a limited number of others for a variety of reasons.
+In addition, we employ cookies on our websites. You will find additional information on this subject in our [Cookie Statement](https://web.archive.org/community/static/about_cookies).
 
-In connection with element14 
+#### Does Farnell share your personal data with a third party or country?
 
-Jive Software, Inc.  (Jive) is the company which provides the platform for element14. From time to time, Jive may be required to access our servers in connection with their provision of the platform for element14 and they may therefore have indirect access to all your information on element14 although they will not process your information in any way. Jive has its own privacy policy which is available at <http://www.jivesoftware.com/legal>
+Farnell may transfer your personal data to other[ Avnet and Premier Farnell companies,](https://web.archive.org/community/themes/pages/AvnetandPremierFarnellCompanies.pdf) but only if and to the extent, such transfer is strictly required for the purposes mentioned above. The other [Avnet companies](https://web.archive.org/community/themes/pages/AvnetandPremierFarnellCompanies.pdf) act only upon our instructions and are contractually bound to act in compliance with applicable data protection law and to provide appropriate technical and organisational security measures.
 
-element14 uses Salesforce.com Marketing Cloud for marketing communications purposes. Your information may be passed to the Salesforce.com servers (which may be located outside the EEA) via a secure transfer but will not be accessed by Salesforce.com directly. To review the Salesforce.com privacy policy please see [http://www.salesforce.com/uk/company/privacy](http://www.salesforce.com/uk/company/privacy/)
+If legally permitted to do so, Farnell may transfer personal data to courts, law enforcement authorities, regulators or attorneys if necessary to comply with the law or for the establishment, exercise or defence of legal claims
 
-element14 carries out analyses on visits to increase the efficiency of the site, and may therefore use your IP address (a series of numbers that identifies a computer on the internet), operating system and browser type to collect among other things, statistical data about users’ browsing actions and patterns but such data will not be used to identify you personally. 
+In connection with the operation of our websites and the services provided through our websites, Farnell works with service providers (so-called data processors), such as hosting or IT maintenance, which only act upon instructions of Farnell and are contractually bound to act in compliance with applicable data protection law and to provide appropriate technical and organisational security measures.
 
-If you expressly ask or allow us to, we will share your information that you authorise with specific suppliers. Any such suppliers should have their own privacy policies and should treat your information in accordance with these policies. We will not share any of your information with any suppliers unless you specifically ask or allow us to.
+Recipients of personal data may possibly be located in countries outside of the European Union /European Economic Area (“third countries”), in which applicable laws do not offer the same level of data protection as the laws of your home country.
 
-Please note that any information that you choose to make visible when you set up your account and any information you include on your edited profile will be made available to other Contributors. Please also note that your username and information you submit or generate will be visible to all participants in element14. Your comments, postings and actions will also be public. This is an intrinsic feature of the element14 community. If you are not comfortable with this, please do not register to join element14.
+In such cases and unless permitted otherwise by applicable law, Farnell is committed to take measures in order to ensure the recipients in the third country provides an adequate level of protection.
 
-Otherwise in connection with our business
+Farnell transfers and shares personal data with recipients in third countries if they have entered into EU Standard Contractual Clauses with us or – in case of US recipients – if the recipient is certified under the Privacy Shield.
 
-For the purposes outlined above we may disclose your information to our service providers and agents who help us to carry on or advise us on how to develop our business (which may include other companies within the Premier Farnell Group, as well as reputable third party providers). We require them to treat your personal information as confidential and to comply with applicable data protection legislation in handling your personal information.
+Where you have been asked to sign up for the [element14 Community Site,](https://www.element14.com/) with your consent your information will be passed to our UK based group company Premier Farnell Ltd as operators of that site and such data will be passed to them and they will operate as data controllers for use of your information on that site in accordance with their privacy policy. 
 
-Sometimes, in connection with the purposes outlined above, we may need to transfer your personal information to service providers and agents in countries (such as the USA) which do not provide the same level of data protection as you may be entitled to in your homeland. If we do make such a transfer we will put a contract in place to ensure your information is given the same level of protection as it would have had if it had remained in your country. 
+#### How long will Farnell store your personal data?
 
-Contributors may also be based in countries outside of the European Economic Area, including in the USA. When information is passed to any Contributor in accordance with the terms of this policy, that Contributor becomes responsible for safeguarding your data. 
+Unless explicitly indicated otherwise at the time of the collection of the personal data, we erase your personal data if the retention of the personal data is no longer necessary in relation to the purposes for which they were collected or otherwise processed and to the extent the processing of personal data is no longer necessary for compliance with a legal obligation under applicable law (e.g. tax or commercial law).
 
-For crime prevention, security or regulatory purposes
+#### Right of access to and rectification or erasure of personal data, restriction of processing, right to object to processing and right to data portability
 
-You should also be aware that we may pass on information to a law enforcement agency requesting it in connection with the commission of an offence, once we are reasonably satisfied as to the circumstances surrounding the request, or to comply with applicable laws and any lawful government or regulatory requests. 
+Applicable data protection law provides you with the right to:
+
+  1. obtain from Farnell information on your personal data Farnell holds and/or processes about you and receive a copy of your personal data being processed in a structured, commonly used and machine-readable format,
+  2. obtain from Farnell the rectification of inaccurate personal data,
+  3. obtain from Farnell the erasure of your personal data, unless processing of her/his personal data is necessary for compliance with applicable legal obligations,
+  4. obtain from Farnell restriction of processing regarding your personal data,
+  5. transmit your personal data which you actively provided to another recipient selected by you, and
+  6. object, on grounds relating to your particular situation, to processing of your personal data based on a legitimate interest of Farnell or a third party.
+
+
+
+An application form to easily request for access is available [here.](https://web.archive.org/community/themes/pages/DataSubjectAccesstoInformationForm.docx)
 
 #### Security
 
-We take the security of your personal information very seriously. element14 uses Secure Socket Layer (SSL) encryption to protect the information exchanged. In addition to encryption which creates a secure channel to prevent others from tapping into the network, SSL provides authentication to verify the identity of the parties and message integrity to ensure that messages cannot be altered en route. Your data and the information you provide is maintained and archived on secure servers. Access to stored data is password protected and access to passwords is limited. Firewall technology is used to prevent unauthorised access and servers are backed up daily, with archives stored in a secure location. 
+Farnell takes reasonable and appropriate measures to protect Personal Information from loss, misuse and unauthorised access, disclosure, alteration and destruction, taking into due account the risks involved in the Processing and the nature of the Personal Information. An example is the use of SSL technology (encryption, authentication, message integrity).
 
-#### Use of Cookies
+We would recommend that you log out of your account fully and take steps to delete any browsing history and cookies that may be stored to prevent that information being used by an unauthorised user.
 
-We may obtain information about your general internet usage by using a cookie file. A "cookie" is a piece of information that element14 sends to your browser, which then stores this information on the hard drive of your computer. Cookies help us improve element14 and deliver a better and more personalised service by for example recognising you when you return to the site and help speed up your searches.
+#### Links to Other Websites
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of element14. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log onto element14.
+If any link is offered connecting to a third party website, it is as an accommodation to the respective third party site owner and without charge. Sites linked to and from this site are not necessarily under our control and we shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. We do not necessarily endorse companies (or related products or services) to or from which this site is linked. If you decide to access any of the third party sites linked to this site, you do so entirely at your own risk. We hereby disclaim any rights to trademarks, service marks, tradenames, logos, copyrights, patents, domain names or other intellectual property interests of third parties.
 
-#### Your choices
+From time to time, we may offer you the opportunity to transact using PayPal. Any such transactions will be subject to PayPal’s privacy policy which you can view at www.paypal.com under the ‘Privacy’ link at the foot of their webpage.
 
-It is up to you how we use your information.  If you are not comfortable with our proposed use of your information during the course of the provision of element14, please be aware that we regret that we have limited possibilities to modify element14 and the terms of your participation in it. Please do not set up an element14 account if you object to the use of your information in the manner outlined in this Policy.
+#### Data Privacy Contact
 
-If you would prefer that we do not use the data provided to us in connection with registration for or use of element14 in any of the ways proposed following registration, please note that you may let us know at any time by contacting the administrator of element14 at [ communitymanager@element14.com.](mailto:communitymanager@element14.com)
+Farnell’s Data Protection Team provides support with any data privacy related questions, comments, concerns or complaints or in case a data subject wishes to exercise any of its data privacy related rights as mentioned above. Farnell’s Data Protection Team may be contacted at: [DPOCOM@element14.com.](https://web.archive.org/web/20191109104227id_/https%3A//www.element14.com/community/static/legal/DPOCOM@element14.com)
 
-#### Your rights to access personal information
+The Data Protection Officer of Farnell for Germany (Farnell GmbH) is Stefan Schindler, [Stefan.Schindler@csr-legal.de.](https://web.archive.org/web/20191109104227id_/https%3A//www.element14.com/community/static/legal/Stefan.Schindler@csr-legal.de)
 
-You have the right of access to your personal records held on our files by written request to us on payment of a fee.
+Farnell’s Data Protection Team will use its best efforts to handle any requests or complaints brought to its attention. The data subject has got the right to approach the competent data protection authority with requests or complaints. A list of national data protection authorities is available [here.](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
 
-#### Who are we
-
-Premier Farnell Ltd is the holding company of the Premier Farnell Ltd group of companies. When we refer to “Group”, “Company”, or “we”, “our” or “us” in this notice, we mean Premier Farnell Ltd and each of its subsidiary companies. 
+When browsing and using our website, Farnell collects, stores and/or processes personal data. To ensure fair and transparent processing of your personal data and compliance with applicable laws on data protection, please read our [Data Protection Policy](https://web.archive.org/community/themes/pages/DataProtectionPolicy.docx) on your personal data. You can see what cookies we serve and how to set your own preferences in our [Cookie Statement.](https://web.archive.org/community/static/about_cookies)
