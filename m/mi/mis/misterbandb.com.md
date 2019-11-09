@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the misterbandb.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524171424id_/https%3A//www.misterbandb.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the misterbandb.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109044008id_/https%3A//www.misterbandb.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - misterb&b Help Center
 
