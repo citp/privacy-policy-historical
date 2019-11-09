@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515094605id_/https%3A//www.currencyfair.com/trust/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currencyfair.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109195521id_/https%3A//www.currencyfair.com/trust/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy And Data Protection | CurrencyFair
 
@@ -10,6 +10,7 @@
   * [Legal Documents And Disclaimers](https://www.currencyfair.com/trust/trust-legal-stuff/ "Legal Documents And Disclaimers")
   * [Data Privacy Policy](https://www.currencyfair.com/trust/privacy-policy/ "Data Privacy Policy")
   * [Complaints Procedure](https://www.currencyfair.com/trust/complaints-procedure/ "Complaints Procedure")
+  * [User Disclosures](https://www.currencyfair.com/trust/user-disclosures/ "User Disclosures")
 
 
 
@@ -327,23 +328,17 @@ You have the right to:
 
 We are obliged to respond without undue delay. In most instances, we will respond within one calendar month. If we are unable to deal with your request fully within a calendar month (due to the complexity or number of requests), we may extend this period by a further two calendar months. Should this be necessary, we will explain the reasons why. If you make your request electronically, we will, where possible, provide the relevant information electronically unless you ask us otherwise. You have the right to complain to the Data Protection Commission or another supervisory authority. You can contact the Office of the [ Data Protection Commissioner](https://www.dataprotection.ie/docs/Contact-us/b/11.html) at:
 
-Telephone: +353 (0)761 104 800 or Lo Call Number 1890 252 231  
-Fax: +353 57 868 4757  
-E-mail: info@dataprotection.ie  
-Postal Address: Data Protection Commission, Canal House, Station Road,  
-Portarlington, R32 AP23, Co. Laois.
+Telephone: +353 (0)761 104 800 or Lo Call Number 1890 252 231 Fax: +353 57 868 4757 E-mail: info@dataprotection.ie Postal Address: Data Protection Commission, Canal House, Station Road, Portarlington, R32 AP23, Co. Laois.
 
 ### 12\. How to contact us and/or our Data Protection Officer
 
 If you have any questions about how your personal data is gathered, stored, shared or used, or if you wish to exercise any of your data rights, please contact our Data Protection Officer at:
 
-E-mail: compliance@currencyfair.com  
-Postal Address: CurrencyFair, Colm House, 91 Pembroke Road Ballsbridge D04 EC42 Ireland
+E-mail: compliance@currencyfair.com Postal Address: CurrencyFair, Colm House, 91 Pembroke Road Ballsbridge D04 EC42 Ireland
 
 Or, contact our Data Protection Officer directly:
 
-Name: Fintan Byrne  
-Email: fintanbyrne@currencyfair.com
+Name: Fintan Byrne Email: fintanbyrne@currencyfair.com 
 
 ### 13\. Changes to this notice
 
