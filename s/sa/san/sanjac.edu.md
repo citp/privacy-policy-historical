@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2019-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190130044832id_/http%3A//www.sanjac.edu/sites/default/files/Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanjac.edu privacy policy that was archived on 2019-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191110002129id_/https%3A//www.sanjac.edu/sites/default/files/media-file/Website-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # Web Privacy Notice and Statement of Information Disclosure Practices
 
