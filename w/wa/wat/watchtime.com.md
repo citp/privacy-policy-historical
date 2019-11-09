@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchtime.com privacy policy that was archived on 2019-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190301011117id_/https%3A//www.watchtime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchtime.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109014341id_/https%3A//www.watchtime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WatchTime - USA's No.1 Watch Magazine
 
