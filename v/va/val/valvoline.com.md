@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valvoline.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630141044id_/https%3A//www.valvoline.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valvoline.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109204639id_/https%3A//www.valvoline.com/privacy-notice) for the most accurate reproduction.*
 
 # Valvoline Consolidated Online Privacy Notice - Valvoline™
 
