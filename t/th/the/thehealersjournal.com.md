@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehealersjournal.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617195458id_/http%3A//www.thehealersjournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealersjournal.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109155237id_/http%3A//www.thehealersjournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,11 +15,11 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
   * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
   * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
-  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+  * Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](https://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
 
 
-You can read more about Google’s Advertising and Cookies here: <http://www.google.com/policies/privacy/ads/>
+You can read more about Google’s Advertising and Cookies here: [http://www.google.com/policies/privacy/ads/](https://www.google.com/policies/privacy/ads/)
 
 ******What Are Cookies?**  
 A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.  
