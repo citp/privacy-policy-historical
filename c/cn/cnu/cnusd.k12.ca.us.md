@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cnusd.k12.ca.us privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523164619id_/https%3A//www.schoolmessenger.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnusd.k12.ca.us privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109124848id_/https%3A//www.schoolmessenger.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - SchoolMessenger
 
-**West’s Education Group  
+**Intrado’s Education Group  
 SchoolMessenger Solutions  
 Privacy Statement**
 
-West’s Education group, part of West Interactive Services Corporation (in the U.S.) and West Unified Communication Services Canada (in Canada) and the provider of SchoolMessenger solutions, is committed to safeguarding the privacy and security of customer information. We believe the personal information of our service customers and users, and especially of students, is private, and we treat it confidentially. We have developed this privacy statement for our SchoolMessenger products and services, because we believe it is important for you to understand how we treat information you provide to us, or that we collect or maintain on your behalf.
+Intrado’s Education group, part of Intrado Interactive Services Corporation (in the U.S.) and Intrado Canada, Inc. (in Canada) and the provider of SchoolMessenger solutions, is committed to safeguarding the privacy and security of customer information. We believe the personal information of our service customers and users, and especially of students, is private, and we treat it confidentially. We have developed this privacy statement for our SchoolMessenger products and services, because we believe it is important for you to understand how we treat information you provide to us, or that we collect or maintain on your behalf.
 
 **In General, for our SchoolMessenger solutions:**
 
@@ -24,15 +24,15 @@ This Privacy Statement is divided into two separate and distinct privacy stateme
 
 
 
-This statement applies only to the SchoolMessenger branded family of products and services, and does not apply to other products or services of West Corporation. These policies do not supersede any additional or different terms of any agreements between West and its subsidiaries and any customer agency/institution. This statement applies in the case of any conflict with the privacy statement of West Corporation or any other of its subsidiaries.
+This statement applies only to the SchoolMessenger branded family of products and services, and does not apply to other products or services of Intrado Corporation. These policies do not supersede any additional or different terms of any agreements between Intrado and its subsidiaries and any customer agency/institution. This statement applies in the case of any conflict with the privacy statement of Intrado Corporation or any other of its subsidiaries.
 
 We collect, maintain and use personal information in compliance with applicable laws, including in the United States the federal Family Educational Rights and Privacy Act (FERPA) and in Canada the federal Personal Information Protection and Electronic Documents Act (PIPEDA) as required.
 
-West’s Education group’s SchoolMessenger solutions also are a signatory to the Student Privacy Pledge (www.studentprivacypledge.org), and its commitments and protections are reflected in our relevant School Platform & Services Privacy Policy.
+Intrado’s Education group’s SchoolMessenger solutions also are a signatory to the Student Privacy Pledge (www.studentprivacypledge.org), and its commitments and protections are reflected in our relevant School Platform & Services Privacy Policy.
 
 If you have any questions about this privacy statement or our practices for handling personal information, please contact us as follows:
 
-**West’s Education Group  
+**Intrado’s Education Group  
 SchoolMessenger Solutions**  
 100 Enterprise Way, Suite A-300  
 Scotts Valley, CA 95066  
@@ -65,7 +65,7 @@ In General
 
 We operate as a school service provider, meaning that our customer agreement is with an educational agency or institution (“customer”) and not with an individual educator, parent, student or other individual (“user”) including not with visitors to our school websites or users of our school mobile applications. As such, we collect and maintain both customer and user personal information, including student personally identifiable information from education records, only acting as authorized by our customer agency/institution to deliver services to and on behalf of the agency/institution (e.g., in the United States, with regard to student personal information, as a “school official” as allowed under the federal Family Educational Rights and Privacy Act (FERPA)). In this role, we are deemed by the school to perform a service or function for which the school would otherwise use its employees.
 
-Student personally identifiable information we obtain from our customer educational agency/institution continues to be the property of, and maintained under the direct control of, the agency/institution. We enable our customer agency/institution to exercise direct control over this student personal information through our Terms of Use, Terms of Service, and other agreements as well as through our product functionality to support school compliance with FERPA and other applicable laws. We shall not be responsible for any agency/institution violations of FERPA (in the United States) or laws in other jurisdictions where they apply specifically to our customer public or other education entity and not directly to West.
+Student personally identifiable information we obtain from our customer educational agency/institution continues to be the property of, and maintained under the direct control of, the agency/institution. We enable our customer agency/institution to exercise direct control over this student personal information through our Terms of Use, Terms of Service, and other agreements as well as through our product functionality to support school compliance with FERPA and other applicable laws. We shall not be responsible for any agency/institution violations of FERPA (in the United States) or laws in other jurisdictions where they apply specifically to our customer public or other education entity and not directly to Intrado.
 
 By using our product(s) or service(s), you agree to the terms of this Privacy Statement.
 
@@ -160,7 +160,7 @@ If you are the administrator of an educational agency/institution customer accou
 
 If you are otherwise a user of one of our school services, we encourage you to first contact your educational agency/institution with any questions or concerns regarding this privacy statement or our handling of personal information.
 
-**West’s Education Group  
+**Intrado’s Education Group  
 SchoolMessenger Solutions**  
 Privacy Manager  
 100 Enterprise Way, Suite A-300  
@@ -168,4 +168,4 @@ Scotts Valley, CA 95066
 Phone: 800-920-3897  
 <http://www.schoolmessenger.com/support>
 
-This policy was last updated on July 14, 2017.
+This policy was last updated on October 10, 2019.
