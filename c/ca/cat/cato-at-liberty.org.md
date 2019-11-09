@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the cato-at-liberty.org privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524182401id_/https%3A//www.cato.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cato-at-liberty.org privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109153548id_/https%3A//www.cato.org/privacy) for the most accurate reproduction.*
 
 # Cato Institute Online Privacy Policy | Cato Institute
 
 [https://www.cato.org](https://www.cato.org/)  
-Last updated: November 7, 2018  
+Last updated: July 2, 2019  
  
 
 The Cato Institute (“Cato”) respects the personal information privacy of users of our online websites.  We understand the need for secure handling and storage of such information.
@@ -20,7 +20,7 @@ We also collect information about your use of our Website through technological 
 
   * Log Files, which may collect information such as Internet protocol (IP) addresses, browser type, geographic location, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data.
   * Persistent and session cookies.
-  * Flash cookies (or local stored objects), which are not managed by the same browser settings as are used for browser cookies.
+  * Flash cookies (or local stored objects), which are not managed by the same browser settings as are used for browser cookies.
 
 
 
@@ -28,7 +28,7 @@ To learn more about cookies, please visit [http://www.allaboutcookies.org](http:
 
 Your browser may offer tools to reject or delete cookies. If you reject cookies on your browser, you may still use our site, but your ability to use some areas of our site may be limited. Even if you set your browser to reject cookies, we may continue to collect data automatically through other technologies.  By using any of the Sites, you are deemed to unambiguously agree to its use of any cookies that you do not disable.
 
-Cato may use service providers, such as Google Analytics, that may use cookies to collect information about your online activities across this and other sites over time for non-advertising purposes. To learn more about how Google Analytics collects and processes data and the choices Google may offer to control these activities, please visit <http://www/google.com/intl/en/policies/privacy/partners/>.
+Cato may use service providers, such as Google Analytics, that may use cookies to collect information about your online activities across this and other sites over time for non-advertising purposes. To learn more about how Google Analytics collects and processes data and the choices Google may offer to control these activities, please visit <http://www/google.com/intl/en/policies/privacy/partners/>.
 
 **Uses of Your Information**
 
@@ -57,13 +57,25 @@ With the exception of PII relating to donors, we may disclose the PII that we co
 
 
 
+**Sponsors**
+
+We do not sell any Sponsor information to other organizations. However, we may provide some personal information to certain “cooperative databases” as explained below.
+
+We periodically publish the names of Sponsors on our website and in other communications. If you do not wish to have your name published, please contact us at the email address or phone number listed below.
+
+We may use your personal information to contact you about donations or matters concerning the Institute. You may also receive periodic communications from us about news, events, opportunities to give, or other matters by mail, phone, or email. If you prefer not to receive such communications, you may notify us at the contact information provided below to opt out at any time.
+
+To facilitate our fundraising activities, we participate in certain “cooperative databases” as do many other reputable charitable organizations. This means that we occasionally contribute certain Sponsor names and postal addresses to a shared database that may be accessed by other participating organizations who also contribute certain information to the database. Note that the cooperative database does not allow participating organizations to identify Sponsors to the Institute or access donation amounts, but may identify a Sponsor as being interested in a particular type of charitable organization (e.g. health policy). Our partner organizations will not have continued access to your name and address unless you choose to respond to their mailings. They may also be required to comply with certain laws or guidelines concerning your information, such as the Direct Marketing Association’s guidelines for ethical business practice. We do not sell your information or share your email address with cooperative databases. If you do not wish to have your information shared with a cooperative database, please contact us at the email address or phone number listed below. We strive to promptly honor all requests concerning your preferences on how we share or use your personal information.
+
+_Sponsors may instruct that we exclude their information from any lists that we share. All such requests — directed to the Cato Institute, 1000 Massachusetts Ave. NW, Washington, DC 20001,[sponsors@cato.org](mailto:sponsors@cato.org) — will be promptly implemented._
+
 **Children Under the Age of 13**
 
 Our Website is not intended for children under 13 years of age. We do not knowingly collect PII from children under 13. If we discover that we have received PII from a child under 13, we will delete that information.
 
 **Choice/Opt-out**
 
-Newsletters and Promotional Communications: We provide you the opportunity to opt out of receiving newsletters and promotional email communications from us. If you no longer wish to receive electronic newsletters and/or promotional communications, you may opt out of receiving these communications by following the instructions included in each newsletter or communication.  Additionally, at any time, you may e-mail privacy [at] cato.org to request removal of your information from our system.
+Newsletters and Promotional Communications: We provide you the opportunity to opt out of receiving newsletters and promotional email communications from us. If you no longer wish to receive electronic newsletters and/or promotional communications, you may opt out of receiving these communications by following the instructions included in each newsletter or communication.  Additionally, at any time, you may e-mail [privacy@cato.org](mailto:privacy@cato.org) to request removal of your information from our system.
 
 **Aggregate Information**
 
@@ -71,7 +83,7 @@ At times, we share aggregated demographic information about our user base with s
 
 **Correcting or Updating Personal Information**
 
-You may ask us to correct, update or delete your PII within our communications systems by emailing us at privacy [at] cato.org.
+You may ask us to correct, update or delete your PII within our communications systems by emailing us at [privacy@cato.org](mailto:privacy@cato.org).
 
 **Security**
 
