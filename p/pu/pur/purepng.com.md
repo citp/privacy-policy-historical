@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purepng.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415153626id_/https%3A//purepng.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purepng.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109060555id_/https%3A//purepng.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PurePNG | Free transparent CC0 PNG Image Library
 
