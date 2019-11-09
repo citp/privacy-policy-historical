@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelstalk.net privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624114139id_/https%3A//www.pixelstalk.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelstalk.net privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109144320id_/https%3A//www.pixelstalk.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PixelsTalk.Net
 
