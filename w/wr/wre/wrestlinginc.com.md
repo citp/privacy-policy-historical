@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330113423id_/https%3A//www.wrestlinginc.com/pages/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestlinginc.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109141426id_/https%3A//www.wrestlinginc.com/pages/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WWE Wrestling News, PPV Results, Videos - Wrestling Inc.
 
