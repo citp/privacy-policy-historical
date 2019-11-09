@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the konkanrailway.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610090458id_/https%3A//konkanrailway.com/pages/viewpage/mobile_app_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the konkanrailway.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109192500id_/http%3A//konkanrailway.com/pages/viewpage/mobile_app_privacy_policy) for the most accurate reproduction.*
 
 # Konkan Railway
 
