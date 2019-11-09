@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microbit.org privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527004435id_/https%3A//microbit.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microbit.org privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109050107id_/https%3A//microbit.org/privacy) for the most accurate reproduction.*
 
 # The Micro:bit Foundation is a global non-profit organisation making invention with technology fun for everyone!
 
@@ -58,7 +58,7 @@ On our main site (excluding third party subdomains) we enhance privacy in the fo
   * Neither the Micro:bit Educational Foundation nor Google associate your IP address with any information that can identify you personally. We don’t store personal information such as your name, age or email address in cookies.
   * We do not use geo-location data from your device but, as with other websites, we may be able to determine your approximate location from your IP address. See the section below on server logs.
   * We only share data with Google for the analytics purposes outlined in this policy.
-  * Our Google Analytics dashboard can only be accessed by people working for the Micro:bit Educational Foundation using Foundation-controlled accounts.
+  * Our Google Analytics dashboard can only be accessed by people working for, or on behalf of, the Micro:bit Educational Foundation.
   * We may use Google Analytics cookies on our own subdomains such as our Python editor python.microbit.org.
   * For more information about Google Analytics cookies see [Google’s information about safeguarding your data](https://support.google.com/analytics/answer/6004245?hl=en).
   * Google have developed the Google Analytics opt-out browser add-on for the Google Analytics JavaScript (ga.js, analytics.js, dc.js). If you want to opt out of Google Analytics, you can download and install the add-on for your web browser [here](https://tools.google.com/dlpage/gaoptout?hl=en).
@@ -100,6 +100,10 @@ We purge logs to save space and to secure the data on a regular basis.
 
 The editor at python.microbit.org is hosted and maintained by the Foundation and is subject to this policy. This includes the use of server logs and Google Analytics (as stated above).
 
+## The iOS app
+
+* The [iOS app](https://itunes.apple.com/gb/app/micro-bit/id1092687276), developed in partnership with Insight Resources is subject to this policy and hosted in Apple's iTunes store. Read [Apple's privacy policy](https://www.apple.com/uk/legal/privacy/en-ww/)
+
 ## Third party web sites
 
 Web sites operated by a third party on our behalf may collect information about you for the purpose of providing you the service. These include:
@@ -113,7 +117,7 @@ Web sites operated by a third party on our behalf may collect information about 
   * We use [Slack](https://slack.com/) as a hub for our developer community. Read their [privacy policy](https://slack.com/privacy-policy).
   * We previously linked to give.microbit.org page, maintained by Kitronik (which required cookies). Please contact support if you have any questions. [Kitronik privacy policy is available here](https://www.kitronik.co.uk/data-protection-policy/).
   * We make use of Youtube for publishing our support videos and we use the `youtube-nocookie` flag to avoid tracking on the site. Use of Youtube is subject to [Google's privacy policy](https://policies.google.com/privacy).
-  * We collect survey information via Jotform. For more information read [Jotform’s Privacy Policy.](https://www.jotform.com/privacy/)
+  * We collect a range of information including surveys and competition entries via Jotform. For more information read [Jotform’s Privacy Policy.](https://www.jotform.com/privacy/)
   * We may link to content provided by third parties.
 
 
@@ -125,10 +129,13 @@ We highlight external links using this icon:  These links point to a different w
 Mobile and desktop applications operated by a third party on our behalf may collect information about you for the purpose of providing you the service and are subject to their respective app store policies. These include:
 
   * The [Android App](https://play.google.com/store/apps/details?id=com.samsung.microbit), provided by Samsung and hosted in Google's Play Store. Read [Samsung's privacy policy](http://www.samsung.com/uk/info/privacy/) and read [Google's privacy policy](https://policies.google.com/privacy?hl=en)
-  * The iOS app, provided by Insight Resources is subject to this policy and hosted Apple's iTunes store. Read [Apple's privacy policy](https://www.apple.com/uk/legal/privacy/en-ww/)
   * The [Windows App](https://www.microsoft.com/en-gb/store/p/makecode-for-micro-bit/9pjc7sv48lcx), provided by Microsoft is hosted on the Microsoft App store and subject to their [privacy statement](https://privacy.microsoft.com/en-gb/privacystatement) and their [Student Pledge](https://blogs.microsoft.com/on-the-issues/2014/10/07/pledge-safeguard-student-privacy/)
 
 
+
+## Other Third Parties
+
+We occasionally work with other third parties in ways that require us to share your personal data with them. E.g. if we are conducting research to improve our services with organisations like [Discovery](https://www.discoveryres.co.uk/). Wherever this is necessary, we will always ask for your consent before sharing any of your data. How third parties manage your data will be subject to their respective privacy policies.
 
 ## Deleting user accounts and personal data
 
@@ -157,13 +164,15 @@ to manage our Social Media communications.
 
 We occasionally use third-party Social Media Analytics tools in conjunction with our social media accounts to assist in monitoring reporting metrics (Reach, Impressions, Engagement). For example, we use TweetReach ([Read TweetReach's Privacy Policy](https://www.trendkite.com/privacy-policy)), a tool from a company subject to the terms of being an [Official Partner](https://partners.twitter.com/en.html) of Twitter.
 
-## The Global Challenge
+## do your :bit challenge
 
-The Micro:bit Educational Foundation will only ever use your personal details that you sent with your Global Challenge entry for the competition. Entries will be shared with partner organisations for judging purposes. These partners are listed on the website [microbit.org/global-challenge](https://microbit.org/global-challenge). Winners details will also be shared with the Micro:bit Educational Foundation’s appointed travel company in order to arrange the finale event trip.
+The Micro:bit Educational Foundation will only ever use personal details that are sent with a do your :bit entry for the competition. Entries will be shared with some partners ('Co-creators' and 'In collaboration with' partners) for judging purposes. These partners are listed on the [website](https://web.archive.org/do-your-bit/partners/).
+
+Winners details will also be shared with the Micro:bit Educational Foundation’s appointed travel company in order to arrange the finale event trip.
 
 We will only collect children’s personal data (names) if parental consent is given on the entry form.
 
-All personal details collected in competition entries will be deleted on 8th February 2019. Some third-party websites (such as MailChimp) require a few days to process this request and all personal details will be deleted at the first opportunity after 8th February 2019. 
+All personal details collected in competition entries will be deleted on 30 June 2020. Some third-party websites (such as MailChimp) require a few days to process this request and all personal details will be deleted at the first opportunity after 30 June 2020.
 
 Competition entries will be collected via Jotform. For more information on Jotform’s Privacy Policy: <https://www.jotform.com/privacy/>
 
