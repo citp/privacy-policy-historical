@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudsonyardsnewyork.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406054119id_/https%3A//www.hudsonyardsnewyork.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudsonyardsnewyork.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109171018id_/https%3A//www.hudsonyardsnewyork.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Hudson Yards
 
@@ -10,7 +10,7 @@ Last Updated: March 3, 2019
 
 The Related Companies, L.P., along with its affiliates and subsidiaries (collectively referred to as “Related”, and also referred to herein as “we”, “us” or “our”) is committed to the privacy of our residents, website visitors and other individuals who communicate with us or use our services. We operate this website, and we wish to help you better understand the information we collect, how we use it and disclose it.
 
-This following Privacy Policy applies to the information that we collect and use about you when you access or use any of Related’s sites (including [www.related.com](http://www.related.com/)), mobile application or other online or mobile service that links to or otherwise presents this Privacy Policy to you (collectively, the “Sites”). 
+This following Privacy Policy applies to the information that we collect and use about you when you access or use any of Related’s sites (including [www.related.com](https://www.related.com/)), mobile application or other online or mobile service that links to or otherwise presents this Privacy Policy to you (collectively, the “Sites”). 
 
 We refer to all of the above as the “Services”. By accessing and using the Services, you are consenting to the collection, use, disclosure and other handling of your information as described below. If you do not agree to this Privacy Policy, please do not use the Services.
 
@@ -125,7 +125,7 @@ We may disclose and/or share your information under the following circumstances:
 
 
 
-We may use third-party web analytics services (such as those of Google Analytics) on our Services to collect and analyze the information discussed above, and to engage in auditing, research, or reporting. The information (including your IP address) collected by various analytics technologies described above will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services, including by noting the third-party website from which you arrive to our Services, analyzing usage trends, assisting with fraud prevention, and providing certain features to you. To learn more about Google’s privacy practices, please review the [Google Privacy Policy](http://www.google.com/policies/privacy); to prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking [here](https://tools.google.com/dlpage/gaoptout).
+We may use third-party web analytics services (such as those of Google Analytics) on our Services to collect and analyze the information discussed above, and to engage in auditing, research, or reporting. The information (including your IP address) collected by various analytics technologies described above will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the Services, including by noting the third-party website from which you arrive to our Services, analyzing usage trends, assisting with fraud prevention, and providing certain features to you. To learn more about Google’s privacy practices, please review the [Google Privacy Policy](https://policies.google.com/privacy); to prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out Browser Add-on by clicking [here](https://tools.google.com/dlpage/gaoptout).
 
 If you receive email from us, we may use certain tags or pixels to capture data such as when you open our message or click on any links or banners our email contains. This data allows us to gauge the effectiveness of our communications and marketing campaigns.
 
