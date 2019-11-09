@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahschools.us privacy policy that was archived on 2018-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180919211433id_/https%3A//www.ahschools.us/Page/29780) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahschools.us privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109045613id_/https%3A//www.ahschools.us/Page/29780) for the most accurate reproduction.*
 
 # Conditions / Privacy policy
 
