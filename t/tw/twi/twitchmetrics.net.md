@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitchmetrics.net privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602215530id_/https%3A//www.twitchmetrics.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitchmetrics.net privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109220355id_/https%3A//www.twitchmetrics.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ We may disclose information about our users if required to do so by law or when 
 
 For visitors outside the European Economic Area (EEA) and Switzerland, by visiting our web site and providing us with data, you acknowledge and consent that due to the international scope of Twitchmetrics we may use the data collected in the course of our relationship for the reasons outlined in this policy or in our other communications with you, including the transmission of information outside of your resident jurisdiction. Such information may be stored on servers located in the United States. By providing us with your information, you acknowledge and consent to the transfer of such data under the terms herein and to this locale.
 
-For visitors within the European Economic Area (EEA) and Switzerland, Twitchmetrics complies with the US-EU and US-Swiss Safe Harbor Principles as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland governed under this privacy policy. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit <http://www.export.gov/safeharbor>.
+For visitors within the European Economic Area (EEA) and Switzerland, Twitchmetrics complies with the US-EU and US-Swiss Safe Harbor Principles as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland governed under this privacy policy. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company's certification, please visit [http://www.export.gov/safeharbor](https://www.export.gov/safeharbor).
 
 In compliance with US-EU and US-Swiss Safe Harbor Principles, we commit to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact Twitchmetrics by clicking here.
 
@@ -48,4 +48,4 @@ Twitchmetrics has further committed to refer unresolved privacy complaints under
 
 ##### Contact Us
 
-We welcome your questions and feedback on our Privacy Policy. To contact us, [email us](https://web.archive.org/cdn-cgi/l/email-protection#f98a8c8989968b8db98d8e908d9a91949c8d8b909a8ad7979c8d).
+We welcome your questions and feedback on our Privacy Policy. To contact us, [email us](https://web.archive.org/cdn-cgi/l/email-protection#5a292f2a2a35282e1a2e2d332e3932373f2e2833392974343f2e).
