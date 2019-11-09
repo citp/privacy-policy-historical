@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmuscle.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331203601id_/https%3A//www.t-nation.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmuscle.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109215437id_/https%3A//www.t-nation.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | T Nation
 
