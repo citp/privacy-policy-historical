@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howlifeworks.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625200346id_/http%3A//www.howlifeworks.com/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howlifeworks.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109061318id_/http%3A//www.howlifeworks.com/Policy.aspx) for the most accurate reproduction.*
 
 # How Life Works
 
