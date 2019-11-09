@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6ave.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127101656id_/https%3A//6ave.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6ave.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109094016id_/https%3A//6ave.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy & Security
 
