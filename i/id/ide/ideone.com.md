@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ideone.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623063122id_/https%3A//ideone.com/legal-pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideone.com privacy policy that was archived on 2019-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191110000433id_/http%3A//ideone.com/legal-pp) for the most accurate reproduction.*
 
-# Ideone.com - Online Compiler and IDE >> C/C++, Java, PHP, Python, Perl and 40+ other compilers and interpreters
+# Online Compiler and IDE >> C/C++, Java, PHP, Python, Perl and 70+ other compilers and interpreters - Ideone.com
 
 * This Privacy and Cookie Policy defines the terms of gathering, processing and using personal data of the Users of the web-based Service available under the following web address ideone.com (hereinafter referred to as the “Service”). Controller of the personal data shall use best efforts to ensure that the privacy of Users of the Service is respected and that the personal information they disclose is protected.
 
