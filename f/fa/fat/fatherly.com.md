@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402180809id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109044053id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fatherly
 
@@ -21,6 +21,8 @@ We use tracking technologies, such as cookies, local storage, and pixel tags.
 ### _Cookies and Local Storage_
 
 Cookies and local storage may be set and accessed on your computer. Upon your first visit to the Services, a cookie or local storage will be sent to your computer that uniquely identifies your browser. “Cookies” and local storage are small files containing a string of characters that is sent to your computer’s browser and stored on your device when you visit a website. Many major Web services use cookies to provide useful features for their users. Each Web site can send its own cookie to your browser. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent; however, if you reject cookies, you will not be able to sign in to the Services or take full advantage of our Services. Additionally, if you clear all cookies on your browser at any point after setting your browser to refuse all cookies or indicate when a cookie is being sent, you will have to again reset your browser to refuse all cookies or indicate when a cookie is being sent.
+
+Our partners may place or recognize a cookie on your computer, device, or directly in our emails/communications, and we may share personal information with them if you have submitted such information to us, such as your name, postal address, email address, or device ID. Our partners may link the hashed or obfuscated personal information we share with them to the cookie stored on your browser or device, and they may collect information such as your IP address, browser or operating system type and version, and demographic or inferred-interest information. Your data may be transferred outside of the country from which it was originally collected.
 
 Our Services use the following types of cookies for the purposes set out below:
 
