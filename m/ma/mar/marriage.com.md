@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriage.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401174125id_/https%3A//www.marriage.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriage.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109042805id_/https%3A//www.marriage.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy | Marriage.com
 
