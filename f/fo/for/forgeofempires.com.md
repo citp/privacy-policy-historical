@@ -1,140 +1,664 @@
-> *The following text is extracted and transformed from the forgeofempires.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905040219id_/http%3A//legal.innogames.com/portal/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forgeofempires.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109035534id_/https%3A//legal.innogames.de/foe/us/privacy) for the most accurate reproduction.*
 
-# Data Protection Provisions
+# Privacy Policy for End Users
 
-InnoGames GmbH ("InnoGames") is seriously committed towards protecting the privacy of its users when processing personal data and considers this for all business processes. InnoGames observes the pertinent data protection guidelines. These data protection provisions apply to all services offered on websites operated by InnoGames as well as to portals and to all online games offered by InnoGames ("Website") but not to pages belonging to other providers to which the website may link. In this respect, the data provision conditions of the relevant provider shall apply. 
+Last update: 25 June 2019
 
-Here we would like to inform you about the way we collect and use data. By accessing and using the Website, you expressly declare that you approve of the following data protection provisions. At any time, you have the right to revoke any potentially granted approvals to be effective in the future. (Refer to clause 8 "Revocation option"). 
+## What is the purpose of this document?
 
-If you have any questions as to how InnoGames uses your personal data, please contact us. **(refer to clause 9 "Questions on data protection and contact")**. 
+InnoGames GmbH (“InnoGames”) is committed to protecting the privacy and security of your personal data. 
 
-## 1\. Capturing and use of your personal data by InnoGames 
+This privacy policy describes how we collect and use your personal data when you use our mobile apps, online games as well as portals and websites. 
 
-**1.1** You are anonymous when visiting the website. Any access by a user of the website and any retrieval of a file always collects access data on this process in the protocol file on our server without personal relevance and is stored in our server as follows: Internet Protocol, address / IP address, page from which the file was requested, date, time, browser type and operating system, the page you visited, transferred data quantity, access status (file transferred, file not found, etc.). This data is used to generate statistics which help InnoGames to adapt the services offered to your requirements. 
+It applies to all end users, including paying and non-paying users. 
 
-**1.2** In principle, InnoGames only gains knowledge of, captures and utilises such data which you provide when using the website within the scope of your initial registration and full user registration and, if applicable, when making use of services subject to a charge. Upon initial registration and full user registration, all you need is to give a user name and an email address. 
+## Contents
 
-**1.3** Within the scope of executing the concluded user agreement, in particular with regard to any services subject to a charge which you have selected, you may be required to provide further data, such as for example, full name, address, banking details, credit card numbers, etc. The processing of your requests or your support may also require us to ask for personal data, such as your name, address, email address and telephone number. InnoGames will treat this data confidentially and according to the legal data protection provisions. InnoGames will not pass such information to a third party without your authorisation, other than to the extent required to execute the agreement, to process your requests or for your support. You will find more details regarding passing on data to third parties in clause 6 "Passing personal data to third parties".
+  1. Introduction
+  2. Name and address of the controller
+  3. Name and address of the data protection officer
+  4. General information on data processing
+  5. Provision of our services and creation of log files
+  6. Inquiries via contact form, email, and support tool
+  7. Submission of newsletters
+  8. Submission of push notifications
+  9. Use of cookies
+  10. Transfer of personal data to third parties
+  11. Use of third-party login services (“social logins”)
+  12. Use of third-party analysis services
+  13. Use of third-party advertising services
+  14. Use of other third-party services
+  15. Rights of the data subject
+  16. Final provisions
 
-**1.4** Here, InnoGames points out that inventory data, utilisation data and statement data according to Articles 14, 15 of the Telecommunications Act or Article 28 of the Federal Data Protection Act are collected, processed and used and this is done, as far as required, even beyond the fulfilment of an agreement. InnoGames reserves the right to store IP addresses and log files for a reasonable period of time after making use of the website to monitor whether the user complies with the conditions and game rules, in particular to ensure proper processing of the payment that you have authorized. This process especially serves to prevent or clarify any cases of abuse and to allow these data to be appropriately passed on to the investigative authorities in specific instances. For the rest, as far as possible, any other evaluation of the data takes place in an anonymized form. Provided there is no pending concrete prosecution action and no preliminary proceedings have been initiated for abuse, the IP addresses and log files are deleted in full at the end of this deadline. 
 
-**1.5** At its own initiative or at your request, InnoGames can complete, correct or delete incomplete, incorrect and/or outdated personal data which InnoGames stores in connection with the operation of the website.
 
-**1.6** Within the scope of legal provisions, InnoGames immediately deletes personal data at the authorised person`s request, provided this does not contradict mandatory legal retention obligations. 
+## I. Introduction
 
-## 2\. Receipt of information about the Game / Newsletter 
+InnoGames GmbH (“InnoGames”, “We”) is the data controller in respect of your personal data and is committed to protecting and respecting your privacy and personal integrity when you are using the mobile apps and online games as well as portals and websites offered by us (together “Services”). This Privacy Policy will help you understand what personal data we collect about you, why it is collected and how it is used by us. It will clarify how you can exer-cise your rights when you trust us to handle your personal data for you. We ask that you take a moment to read this Privacy Policy carefully and familiarize yourself with its content. If you have any questions, you are welcome to contact us by using the contact information provided at the end of this Privacy Policy. 
 
-With your registration, you confirm that you agree to receive regular email information about the game (e.g. information about updates, etc.) for which you have initially registered / fully registered, as well as a newsletter with current information about other games, etc. You can, at any time, send InnoGames a message that you no longer wish to receive such information. In addition, you always have the option to de-register via a special link located directly in the information about the game or in the newsletter to stop any further receipt. 
+Please note that our Services may contain links to websites that can be held by partner com-panies. If you follow a link to any of these websites or use these third-party services, you should be aware that they have their own privacy policies and that we do not assume any liability for their processing of your personal data. Therefore, please make sure to read their privacy policies before providing your personal data to them. 
 
-_**You can revoke your approval to use your email address to receive information about the game and/or the newsletter at any time with effect for the future**_ (For contact information, refer to clause 8).
+We offer our Services only to players who are at least 16 years old. Hence, we do not knowingly market to or solicit personal data from persons under the age of 16. 
 
-## 3\. The use of cookies and web beacons
+## II. Name and address of the controller
 
-**3.1 Own cookies and web beacons, advertising by third parties, links to other websites**
-
-In order to design our Internet offer in the most user-friendly manner for you, we, as well as many other companies, also use so-called permanent or temporary cookies and web beacons. Cookies are small text files which are stored on the user's computer and allow for an analysis of how he or she uses the website. This storage, for example, serves to enable an auto-login so that you do not have to identify yourself each time you access the site. No personal identification of the user takes place based on the data stored in the cookie. 
-
-If you do not want cookies to be stored on your computer or wish to be informed of their storage, you can prevent the installation of cookies by a corresponding adjustment to your browser software by selecting the option "do not accept cookies" in your browser settings. Your browser manufacturer's instructions will give you more details on how this works. However, we would like to point out that by preventing cookies, you may find that you cannot use all of the website's functions to the full extent. 
-
-**3.2 Google Analytics**
-
-Google Analytics, a web analysis service from the provider Google Incorporated ("Google"), collects and stores data on the company`s website, enabling the creation of user profiles under pseudonyms. These user profiles serve to analyse visitor behaviour and are evaluated in order to improve and design our offer so as to meet the demands. Cookies can be used for this purpose. You can prevent cookies being installed by making a corresponding adjustment to your browser software; however, we must point out that if you do so, you may not be able to use all the functions on this website to the full extent. The pseudonymous user profiles are not merged with personal data via the pseudonym carrier without an especially granted approval by the affected person. You can, at any time with effect for the future, object to the collection and storing of data for the purpose of web analysis by installing the browser add-on to deactivate Google Analytics. (<http://tools.google.com/dlpage/gaoptout?hl=de>). 
-
-**3.3. Advertising by third parties, links to other websites, Google AdSense, Facebook button**
-
- **3.3.1** From time to time, the website may also contain advertising by a third party and interactive links to third party Internet appearances for which InnoGames is not responsible. In particular, InnoGames has no influence on the content and design of the linked external pages or the Internet appearances which you reach via these pages. The relevant providers are exclusively responsible for the content and design of these Internet appearances as well as their compliance with the provisions of the Data Protection Act. 
-
-**3.3.2** The website uses Google AdSense, a web services provided by Google, through which third party advertisements are posted on the website. Within these advertisements, Google can post cookies on the user's hard drive in order to read out the data and can use web beacons (small, invisible graphic files) to collect information. Information created by the cookies and/or web beacons are transferred to a Google server in the USA and processed there. 
-
-**3.3.3** Occasionally, the advertisers or companies use technologies through which advertisements appearing on the InnoGames page are sent directly to your browser, resulting in an automatic transfer of your IP address. The relevant advertisers or companies at times also use cookies as well as other technical means to measure their advertisements' efficiency or to improve their content. This particularly, but not exclusively, affects the allocation of Internet pages to certain interest categories according to your Internet use. In this context, no connection is created between this information and your name, address, telephone number or email address. InnoGames has no influence on this. Data handling by these third parties is therefore not included in this data protection declaration. You can deactivate the use of cookies in your browser settings (refer to clause 3.1). In addition you can prevent the collection of interest-related data and their categorisation by deactivation on [www.google.com/privacy_ads.html.](http://www.google.com/privacy_ads.html)
-
-**3.3.4** The website can include the so-called Facebook button "Like", which is exclusively operated by the social network Facebook and thus by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook“). Should you click on the Facebook button "Like" you will be asked by Facebook, if you do not have a Facebook account or are not currently logged into your Facebook account, to register with Facebook in order to use the function. The consequence is that your information is transferred to Facebook. However, should you already have a Facebook account and are logged into your Facebook account parallel to your visit to the website, a connection is automatically created to Facebook's servers, in other words, even without you clicking on the Facebook button; this means that data is transferred to Facebook immediately following your visit to the website. The transfer of your data and the allocation to your Facebook account therefore takes place automatically without any further notification. InnoGames has no influence on this. You can only prevent this transfer if you log out of your Facebook account beforehand. InnoGames expressly points out that you can obtain further information about the data which Facebook collects and your individual rights in this regard from Facebook's website and the data protection provisions stated there. You can read Facebook's data protection provisions on page <http://de-de.facebook.com/privacy/explanation.php>
-
-**3.3.5** When you use or connect to a InnoGames website or download a InnoGames mobile app by or through a Third Party Platform, such as Facebook or other social networking site, you allow us to access and/or collect certain information from your Third Party Platform profile/account (such as your Facebook account) or via any cookies placed on your device by such Third Party Platform as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. We will share such information with the Third Party Platform for their use as permitted by the terms of the agreement and your privacy setting with the Third Party Platform.”
-
-We will share some of the information we collect from you upon install of the mobile app with vendors and other service providers who are engaged by or working with us in connection with the operation of the services we provide to you and/or for analytics purposes which may require the reproduction and display of such information in an aggregated and anonymized manner such that will not in any way identify you.
-
-You may "opt out" of the collection of your information for third party analytics purposes by following the directions provided by our third party analytics vendor located at <http://www.mobileapptracking.com/privacy-policy/>. If you “opt out” with our third party analytics provider, that action is specific to the information we collect specifically for that provider, and does not limit our ability to collect information from you, under the terms of this privacy policy, for other vendors.
-
-**3.3.6** In order to improve and optimize our service continuously, we use so-called mobile tracking technologies. For this, we use the services of the adjust GmbH, Saarbrücker Str. 38a, 10405 Berlin, Germany (www.adjust.com). With the help of these services, we collect statistical data on the usage of our apps to be able to constantly improve our offers. While using our apps, information transmitted to us by your device are collected and analyzed. In this respect, the following data are gathered: IP address, which is anonymized right away, MAC address, anonymized Device ID (IDentifier For Advertisers - IDFA or Google Advertiser ID - GAID), browser type, language settings, internet service provider, network status, time zone, URL of the entry and exit pages, date of access and time spent, clickstream data, and other statistical information about the use of our services. A direct individual identification of the user is not possible. The data gathered this way is used to create anonymous user profiles. The data collected with the tracking technologies will not be used to personally identify any visitor of our websites without their explicit consent. The collection and storing of the data can at any time be disabled with effect for the future by adjusting the settings of your mobile device as set out in section §3.5.
-
-**3.3.7** Our website utilizes the “conversion tracking pixel” of Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA, www.facebook.com (“Facebook”) and/or Twitter International Company, The Academy 42, Pearse Street, Dublin 2, Ireland, http://www.twitter.com (“Twitter”). This tool allows us to follow the actions of users after they are redirected to a provider’s website by clicking on a partner’s advertisement. Hence, we are able to record the efficacy of Facebook or Twitter advertisements for statistical and market research purposes. The collected data are anonymous. This means that we cannot see the personal data of any individual user. However, the collected data are saved and processed by Facebook or Twitter. We are informing you on this matter according to our information at this time. Facebook and Twitter are able to connect the data with your Facebook or Twitter account and might use them for their own advertising in accordance with their privacy policies: https://www.facebook.com/about/privacy/ or https://twitter.com/privacy. The conversion tracking allows Facebook, Twitter and their respective partners to show you advertisements on and outside Facebook or Twitter. In addition, a cookie will be saved onto your computer for these purposes in both cases. Please click here if you would like to revoke your permission: <https://www.facebook.com/ads/website_custom_audiences/> or <https://twitter.com/settings/security>.
-
-**3.4 Usage via a third-party platform; MobileTracking**
-
- **3.4a** By using a website or downloading an InnoGames mobile app from or through a third-party platform, you consent to the access and / or storage of 
-
-  * specific account and/or profile information with this third-party provider or
-  * specific information through cookies placed on your device by third-party platforms. 
-
-
-
-We share this data with the third-party platform for the purpose of use by them according to the terms of use and your privacy settings at this third-party platform.
-
-If you use a mobile app, InnoGames, in accordance with the privacy settings you have agreed with your mobile operator, can collect your IP address, i.e. the unique identification number automatically assigned to your device; the device type; and any information you voluntarily provide or publish (such as your email address).
-
-We pass on some of this information during the installation of the mobile app to contracted suppliers as well as to other service providers with whom we work who require the duplication or disclosure of this data for the purpose of providing you with the provided services and / or for analysis purposes.
-
-You can, at any time, revoke permission to the access and / or storage of your data for the purpose of analysis by third-party platforms or prevent such access and / or storage of this by using the following apps: [https://play.google.com/store/apps/details?id=com.adxtracking.optout&hl=en](https://play.google.com/store/apps/details?id=com.adxtracking.optout&hl=en) oder <https://itunes.apple.com/en/app/ad-x-tracking-opt-out/id651367370?mt=8>.
-
-**3.4b** In order to improve and optimize our service continuously, we use so-called mobile tracking technologies. For this, we use the services of the adjust GmbH, Saarbrücker Str. 38a, 10405 Berlin, Germany (www.adjust.com). With the help of these services, we collect statistical data on the usage of our apps to be able to constantly improve our offers. While using our apps, information transmitted to us by your device are collected and analyzed. In this respect, the following data are gathered: IP address, which is anonymized right away, MAC address, anonymized Device ID (IDentifier For Advertisers - IDFA or Google Advertiser ID - GAID), browser type, language settings, internet service provider, network status, time zone, URL of the entry and exit pages, date of access and time spent, clickstream data, and other statistical information about the use of our services. A direct individual identification of the user is not possible. The data gathered this way is used to create anonymous user profiles. The data collected with the tracking technologies will not be used to personally identify any visitor of our websites without their explicit consent. The collection and storing of the data can at any time be disabled with effect for the future by adjusting the settings of your mobile device as set out in section §3.5.
-
-**3.5** You can disable the tracking of your device ID as follows: 
-
-  * In the case of a mobile device of Apple: Open the settings of your mobile device (e.g. iPhone or iPad) and select the menu item “Privacy”. Under “Advertising“ you can turn off the Ad Tracking.
-  * In the case of Android devices: Open the settings in your App list and tap on the “Ad” button. When the Ad window has opened, you can deactivate the Google Advertising ID.
-
-
-
-## 4\. Use of the Scalable Central Measurement Method
-
-The website uses the "Scalable Central Measurement Method / Skalierbares Zentrales Messverfahren" [SZM] of INFOnline (https://www.infoline.de) to determine statistical characteristic values in the use of InnoGames`s offer. Anonymous measured values are collected in this process. For the recognition of computer systems, the SZM audience measurement uses alternatively either a cookie with the identifier "ivwbox.de" or a signature which is created from various information automatically transferred by your computer. IP addresses are not stored via this method and only processed in anonymised form.
-
-The audience measurement was developed in consideration of data protection. The goal of the audience measurement is to statistically determine user intensity and the number of users of a specific website. Individual users are not identified at any point in time. Your identity is always protected. You will not receive any advertising via the system. 
-
-For websites which are members of the IVW German Audit Bureau of Circulation (Informationsgemeinschaft zur Feststellung der Verbreitung von Werbeträgern e.V., www.ivw.eu) [Information association to determine the distribution of advertisers] or that participate in the study "Internet Facts" organised by the Arbeitsgemeinschaft Online-Forschung e.V. [Work Group Online Research](AGOF - www.agof.de), user statistics are published monthly by the AGOF and the Arbeitsgemeinschaft Media-Analyse e.V. (agma - www.agma-mmc.de), as well as the IVW and can beviewed at http://www.agof.de, http://www.agma-mmc.de and http://www.ivw.eu.
-
-In addition to the publication of measurement data, the IVW also regularly checks the SZM process to ensure that it is used according to regulations and in line with data protection.
-
-You can find additional information about the SZM process on the website of INFOline GmbH (https://www.infoline.de), the operators of the SZM process, as well as the data protection website of AGOF (http://agof.de/datenschutz) and the data protection website of IVW (http://www.ivw.eu).
-
-You can object to the data processing by the SZM under the following link: [http://optout.ivwbox.de](http://optout.ivwbox.de/)
-
-## 5.Data security
-
-5.1 At all times, InnoGames strives to take precautions, to a reasonable extent, to prevent unauthorised access to your personal data as well as the unauthorised use or falsification of theses data and to minimise the corresponding risks. Nevertheless, the provision of personal data, wheter this is done personally, by telephone or over the Internet, is always associated with risks and no technological system is fully exempt from the possibility of manipulation or sabotage. 
-
-5.2 InnoGames processes the data collected from you according to the German Data Protection Law. All employees are obliged to comply with data secrecy and the data protection provisions and are instructed accordingly. In the event of payment transactions, your data is transferred encrypted through the use of the SSL process.
-
-## 6\. Passing personal data to third parties
-
-**6.1** InnoGames will in principle only pass your personal and/or billing-related data to third parties, that is to partner companies, other companies cooperating with InnoGames, external service providers and investigative authorities as far as this is required to fulfil the agreement and for the aforementioned purposes, in particular for payment processing as well as to protect other users or as provided by law. Payment processing takes place via external service providers (e.g. credit card companies, banks, PaySafe, Wallie, Clickandbuy, Moneybookers, Paypal, Global Collect). Your protected interests are considered according to the legal provisions. External service providers are obliged to treat your data confidentially and securely and may only use your data as far as this is required to fulfil their duties. We point out that InnoGames may be obliged to pass data on the basis of legal provisions (e.g. passing to investigative authorities). Data are only passed as far as this is required or prescribed by law.
-
-In the event of payment arrears, InnoGames will, if necessary, instruct a collection company or a lawyer to collect the payable amount. The required data are passed for this purpose and utilised in compliance with all data protection guidelines. 
-
-**6.2** In other instances, InnoGames will only pass your personal data which you provided to InnoGames during the course of your registration and to process your order if you have previously given your express approval.
-
-## 7\. Changes 
-
-InnoGames can change these data protection provisions or change the content of the page or change or block access to these pages at any time. InnoGames will use suitable means to point out such changes.
-
-## 8\. Option of revocation and data deletion
-
-**8.1** If you wish to revoke your approval to send information about the game or the newsletter, please send an email to: privacy@innogames.com by stating your user name and the email address to which the information and/or the newsletter is being sent. Each of our newsletters contains a link which gives you the oppportunity to revoke your approval and to cancel the newsletter. 
-
-**8.2** At your request, InnoGames will immediately delete personal data, that is data which include the user`s information about personal and factual circumstances, unless mandatory obligations to preserve records or other obligations contradict such a deletion. 
-
-## 9\. Questions on data protection and contact / information, correction, deletion and blocking
-
-You are always entitled to request information about any of your data that InnoGames has stored, as well as their origin and recipient and the purpose it was stored for. If you have any questions about data protection or if you wish to correct, block or delete your profile or any of qur personal data, or if you would like to revoke a granted authorization regarding the use of your customer data or e-mail adress, please contact the following and also provide user name end your e-mail address: 
+The controller in line with the General Data Protection Regulation and other national data protection laws of the member states, as well as other legal data protection provisions, is: 
 
 InnoGames GmbH  
 Friesenstraße 13  
 20097 Hamburg  
-Germany 
-
 Fax: +49 40 7889335-200  
-[privacy@innogames.com](mailto:privacy@innogames.com)
+E-Mail: [privacy@innogames.com](mailto:privacy@innogames.com)  
+Website: [www.innogames.com](https://www.innogames.com/)  
 
-Status: February 2013  
-Copyright InnoGames 2009 – 2014. All rights reserved. 
+
+## III. Name and address of the data protection officer
+
+The data protection officer of the controller is:
+
+Lawyer and bar-certified specialist in information technology law  
+Dr. Christian Rauda  
+GRAEF Rechtsanwälte Digital PartG mbB  
+Jungfrauenthal 8  
+20149 Hamburg  
+E-Mail: [dpo@innogames.com](mailto:dpo@innogames.com)  
+Website: [www.graef.eu](https://www.graef.eu/)
+
+## IV. General information on data processing 
+
+### 1\. Scope of personal data processing 
+
+In general, we record only the personal data which you disclose when using Services as part of your login or registration and possibly during use of fee-based services. Personal data are those which contain information about personal or factual circumstances. When logging in and registering as a user on our website, you only have to provide an email address and, if applicable, a username and password. When registering for certain Services, email addresses are not collected during registration but only later during the use of the Service. The password is stored in hasehd form, which never allows for an inference of the actual password. 
+
+In the context of implementing the concluded user contract, particularly in the context of fee-based Services you have chosen, the disclosure of further data, such as the full name, address, account details, credit card numbers, etc., may be required. It is sometimes also necessary to request personal information such as your name, address, email address, and telephone number for the purposes of processing your inquiries or providing you with support. InnoGames will handle these data confidentially and in compliance with the legal data protection provisions. In principle, InnoGames will not disclose such information to third parties without your permission, unless this is required for the implementation and execution of the contract, for processing your request or for your support or in the case of a legal permit. 
+
+### 2\. Legal basis for personal data processing
+
+Insofar as we obtain the consent of the data subject for processing of personal data, Art. 6(1)(a) of EU General Data Protection Regulation (GDPR) serves as the legal basis for personal data processing. 
+
+In personal data processing required for the fulfilment of a contract of which the data subject is a party, Art. 6(1)(b) GDPR serves as the legal basis. This also applies to the processing required in order to carry out pre-contractual actions. 
+
+Insofar as personal data processing is required for the fulfilment of a legal obligation which our company is subject to, Art. 6(1)(c) GDPR serves as the legal basis. 
+
+In the event that vital interests of the data subject or another natural person require personal data processing, Art. 6(1)(d) GDPR serves as the legal basis. 
+
+If processing is required to protect the legitimate interests of our company or of a third party, and if the interests, fundamental rights, and freedoms of the data subject do not prevail over the interests mentioned first, Art. 6(1)(f) serves as the legal basis for processing. 
+
+### 3\. Deletion of data and duration of storage
+
+The personal data of the data subject are deleted or blocked as soon as the purpose of storage no longer exists. In addition, such storage may occur if this is provided for by the European or national legislator in EU regulations, laws or other regulations to which the controller is subject. The blocking or deletion of data also occurs when the storage period prescribed in the abovementioned regulations lapses, unless further storage of the data is required for conclusion or fulfilment of a contract. 
+
+### 4\. Data security
+
+InnoGames makes reasonable efforts to prevent unauthorised access to your personal data as well as unauthorised use or falsification of these data and to minimise the corresponding risks. However, the provision of personal data, whether it be in person, over the phone or over the Internet, always involves risks and no technological system is completely free of the possibility of being manipulated or sabotaged. 
+
+InnoGames processes the information collected from you in accordance with German and European data protection law. All employees are obliged to comply with data secrecy and data protection provisions and are instructed in this regard. Your data are transmitted in an en-crypted form using the SSL method. 
+
+## V. Provision of our services and creation of log files
+
+### 1\. Description and scope of data processing
+
+Each time our website is accessed, our system automatically collects data and information from the computer system of the accessing computer. 
+
+The following data are collected here: 
+
+  * Internet protocol
+  * IP address
+  * URL of the referring website from which the file was requested
+  * Date and time of access
+  * Browser type and operating system
+  * the page visited by you
+  * amount of transferred data
+  * access status (file transferred, file not found etc.),
+  * duration and frequency of use
+
+
+
+The data is also stored in the log files of our system. 
+
+When accessing mobile apps, the following data and information are collected: 
+
+  * Internet protocol
+  * IP address
+  * date and time of access
+  * device type and operating system
+  * amount of transferred data
+  * access status (file transferred, file not found etc.),
+  * duration and frequency of use
+  * Google Play IDs and Game Center IDs can possibly be stored to log you in to several devices.
+
+
+
+If an error occurs during the use of our Services and we want to rectify this, we may also col-lect other data, e.g. Player ID and username. 
+
+### 2\. Legal basis for data processing 
+
+The legal basis for the temporary storage of data and log files is provided by Art. 6(1)(f) GDPR. 
+
+### 3\. Purpose of data processing
+
+The temporary storage of the IP address by the system is necessary to allow delivery of the Services to the computer of the user. For this purpose, the user's IP address must be stored for the duration of the session. 
+
+The storage in log files is done to ensure the functionality of the Services. In addition, the data is used by us in order to optimise the website and to ensure the security of our information technology systems. Evaluation of the data for marketing purposes does not take place in this context. Only a statistical evaluation of datasets takes place. 
+
+InnoGames reserves the right to store IP addresses and log files for a maximum period of 30 days after the website is used to monitor compliance with the terms of use and rules of the game. In particular, this procedure is used to prevent any cases of abuse or to resolve them and, on a case-by-case basis, to pass on the data for this purpose to investigative authorities. Apart from that, any other analysis of data is done in anonymous form as much as possible. After the end of this period, the IP address and log files are completely deleted, unless there are mandatory statutory storage requirements or specific prosecution- and abuse investigation proceedings pending. 
+
+These purposes also constitute our legitimate and predominant interest in data processing according to Art. 6(1)(f) GDPR. 
+
+### 4\. Storage duration
+
+The data are deleted as soon as they are no longer necessary to fulfil the purpose of their collection. In the case when data are collected for the purpose of making the website availa-ble, this is the case when the respective session is over. 
+
+Log files which contain personal data are generally deleted after seven days at the latest. Ad-ditional storage is possible in the case of so-called error logs which allow us to fix errors. These error logs are deleted after maximum 30 days, collected IP addresses are anonymised after 30 days. 
+
+### 5\. Possibility of objection and removal
+
+The collection of data for the purpose of making the website available and the storage of the data in log files is essential for the operation of the website. As a consequence, there is no objection possibility on the part of the user. 
+
+## VI. Inquiries via contact form, email, and support tool
+
+### 1\. Description and scope of data processing
+
+#### a) Contact form 
+
+On our website, a contact form is available which can be used to contact us electronically. Should a user choose this option, the data entered in the input mask will be transmitted to us and stored. These data are: 
+
+  * Name
+  * Email address
+  * Message
+
+
+
+Additionally, at the point of sending the message, the following data are stored: 
+
+  * IP address of the user
+  * Date and time of submission
+
+
+
+For the processing of the data, reference is made to this privacy policy in the context of the submission process. 
+
+#### b) Email
+
+Alternatively, it is possible to contact us via our provided email addresses. In this case, the personal data of the user transmitted with the email are stored. 
+
+#### c) Support tool
+
+Alternatively, you can contact us via our support tool integrated into our Service. It will then store your user data and the content of the support inquiry as well as the time of the inquiry. 
+
+No data are transmitted to third parties in this context. The data are used exclusively for the processing of the conversation. 
+
+### 2\. Legal basis 
+
+Legal basis for data processing is Art. 6(1)(f) GDPR. If the e-mail contact is aimed to conclude a contract or serves the contract execution, additional legal basis for the processing is Art. 6(1)(b) GDPR. 
+
+### 3\. Aim of data processing
+
+The processing of the personal data serves us only to process the contact and the support request. The other personal data processed during the submission process serve to prevent misuse of the contact form and to ensure the security of our information technology systems. 
+
+### 4\. Storage duration
+
+The data are deleted as soon as they are no longer necessary to fulfil the purpose of their collection. 
+
+### 5\. Possibility of objection and removal
+
+At any time after contacting us, you have the option to object to personal data processing, regardless of whether this was done via a contact form, email or support tool. In such a case, the conversation cannot continue and your concern may not be conclusively handled. All per-sonal data stored in the course of contacting will be deleted in this case. This shall not apply if mandatory statutory retention requirements preclude this. 
+
+## VII. Submission of newsletters
+
+You can subscribe on our websites or in our games for a newsletter on the respective game. For this, we require your email address. 
+
+In addition, we must verify, taking into consideration the relevant legal regulations, that you are the actual owner of the provided email address and wish to receive the newsletter. For this purpose, we send you a validation email. 
+
+Our newsletters contain a pixel-size image (tracking pixels), which is retrieved by a server of the newsletter sender when the newsletter is opened. As part of this retrieval, technical information, such as information about your browser or operating system, as well as your IP address, location, and time of retrieval, is collected. This information is anonymised and evaluated independently of the individual. 
+
+Since the submission and receipt of the newsletter depend on your consent, you can revoke this consent for collection and storage of your data at any time without providing the reasons for it. For this purpose, use the unsubscribe link which can be found at the end of our newsletter. 
+
+Additionally, you have the option to opt-out of receiving newsletters in the Data Usage Window inside any of our games under “Settings”. 
+
+## VIII. Submission of push notifications
+
+### 1\. Description and scope of data processing
+
+If you have selected the appropriate settings on your device, InnoGames can send push notifications to your mobile device to give you updates for games and other relevant news. You can manage push notifications on the page “Options” or “Settings” in the mobile app or in the settings of your device. 
+
+### 2\. Legal basis for data processing 
+
+The legal basis for data processing in the presence of a contract is according to Art. 6(1)(b) GDPR. 
+
+### 3\. Purpose of data processing 
+
+Push notifications are special notifications which are displayed directly on your mobile device. The notifications contain, for instance, the information that one of your buildings in the game has been completed. As a rule, push notifications contain short messages which focus on the essential. 
+
+### 4\. Storage duration
+
+The messages are stored within our push gateway for up to 21 days. The messages are also stored in anonymised form in our event tracking system for an indefinite amount of time. To our knowledge, messages may be stored by the supplier of your mobile device. 
+
+### 5\. Possibility of objection and removal
+
+You can switch off the push notifications as follows:
+
+#### a) Android
+
+Open Settings > Apps & notifications > Notifications > App notifications > Name of the app. On this screen you can control if and how Push Notifications are shown to you. 
+
+#### b) iOS
+
+Open settings > Notifications > Name of the app. On this screen you can control if and how Push Notifications are shown to you. 
+
+#### c) Data Usage Window
+
+Additionally, you have the option to opt-out of receiving push notifications sent for marketing purposes in the Data Usage Window inside any of our games under “Settings”. 
+
+## IX. Use of cookies
+
+### 1\. Description and scope of data processing
+
+In order to ensure that you receive the most relevant information and the best service when you visit the Website, information and data will be collected through the use of cookies. It helps us (and other authorized third parties) to provide you with a personalized experience when you visit our Website, and it also allows us to improve our Service and make sure that you will easily find what you want. We want you to understand our use of cookies. Hence, we explain the types of technologies we use, what they do and your choices regarding their use. 
+
+Cookies are small pieces of data (text files) that are sent to your browser from a web server and stored on your device so that the website can recognize your device. There are two types of cookies, permanent and temporary (or “session”) cookies. Permanent cookies are stored as a file on your computer or mobile device for a longer period of time. Session cookies are temporarily placed on your computer when you visit our Website but are erased when you shut down the page. If you do not want to accept cookies, you can adjust the settings in your web browsers security preferences, see more information on this below. 
+
+We and our service providers may use the following categories of cookies:
+
+#### a) Essential Cookies
+
+These cookies are strictly necessary for us to provide our Services. For example, we may use these cookies to authenticate and identify our members when they use our Site so we can provide our Services. Without these cookies we would not be able to recognise you and you would not be able to access our Services. They also help us to enforce our Terms and Conditions and maintain the security of our Services. 
+
+#### b) Performance and Functionality Cookies
+
+These cookies are not strictly necessary but allow us to personalize your online experience of our Site. For example, they allow us to remember your preferences and mean that you do not need to re-enter information you have already provided e.g. when signing-up to our Ser-vices. We also use these cookies to collect information (e.g. popular pages, viewing patterns, click-throughs) about our visitors' usage of our Services so that we can improve our Site and Services and conduct market research. If you choose to delete these cookies you will have limited functionality of our Services. 
+
+#### c) Advertising Cookies
+
+These cookies use information about your usage of our Site and other websites, e.g. the pages you visit or your response to ads, to deliver ads that are more tailored to you, both on and off our Site. These types of ads are called “Interest-Based Advertising.” Many of these types of cookies belong to our service providers. For third party advertisers, see more below. 
+
+### 2\. Legal basis for the data processing 
+
+The legal basis for personal data processing with the use of cookies is Art. 6(1)(f) GDPR. 
+
+### 3\. Purpose of data processing
+
+We use the information from cookies to make our Website user-friendly and to enable us to provide you with personalized recommendations. We may also use several authorized third parties who put cookies on our Website to deliver services that they provide (third party cookies). 
+
+We may use session cookies to allow you to move between pages on our Website without having to re-enter information. 
+
+Permanent cookies are used in several ways, including: 
+
+  * To allow you to move between pages on our Services without having to re-enter information.
+  * To help us recognize you when you return to our Website to use our Services.
+  * To allow you access to stored information.
+  * To allow us to recommend other games that suit your preferences.
+  * To ensure that you do not get asked to fill in survey forms repeatedly.
+
+
+
+We (and our authorized third parties) may use non-personal information from both permanent cookies and session cookies for statistical purposes as follows: 
+
+  * To determine which are the most popular parts of our Services.
+  * To monitor the use of our Services and our Website (frequency and time).
+  * To provide anonymous information to third parties so that more appropriate advertising can be directed at you.
+  * To track product success.
+  * To determine how frequently you and other users visit our Services and your interaction in our games.
+
+
+
+We set and read our own cookies to provide the following functions (first-party cookies):
+
+#### a) Remember Me Cookie
+
+To provide you with ‘remember me’ functionality: We allow users to log into the game via this cookie. This can be disabled by deselecting “Remember Me” on manual login. If you select the "Remember Me" function, a permanent cookie will be installed in the device you are using, so that you do not need to log in again when browsing the Services. If you log out of a Service, the cookie will be deleted again. 
+
+#### b) Language Version Cookie
+
+To ensure the right language version of the game is shown to you.
+
+#### c) Portal Cookie
+
+To allow us to optimize our landing pages and improve our marketing: we store details of the landing page you visited as well as an identifier in a cookie. 
+
+#### d) 3rd Party Snippet Cookie
+
+We set a cookie to record your decision about 3rd party tracking snippets and cookies.
+
+We also use several third-party cookies as part of our Services. These cookies are governed by the respective sites and are not controlled by us. You can switch off the installation of some of these cookies in your general browser settings, for others you will need to go to the respective websites and follow the instructions provided. 
+
+For instance, it is checked which language version you use to access our Services. If you became aware of our Services through one of our partners, we store the information on who the partner is. 
+
+Third party advertisers: We may use advertisers, third party ad networks, and other advertising companies to serve advertisements on our Services. Please be advised that such advertising companies may gather information about your visit to our Services or other sites to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. If you would like more information about third party advertisers, please click [here](http://optout.networkadvertising.org/?c=1#!/). Please note that the collection and use of information by third party advertisers is not covered by this privacy policy. 
+
+In the abovementioned purposes, our legitimate interest also consists in personal data processing according to Art. 6(1)(f) GDPR. 
+
+### 4\. Storage duration
+
+The data are deleted as soon as they are no longer necessary to fulfil the purpose of their collection. 
+
+### 5\. Possibility of objection and removal
+
+If you do not want these cookies to be stored on your computer or wish to be informed of their storage, you can prevent the installation of cookies by a corresponding adjustment to your browser software by selecting the option "do not accept cookies" in your browser settings or declining the use of third party tracking on the first visit to the website. Your browser manufacturer's instructions will give you more details on how this works or see [https://www.aboutcookies.org](https://www.aboutcookies.org/). You can also opt-out of receiving third-party cookies in general at [http://www.youronlinechoices.com](http://www.youronlinechoices.com/). However, we would like to point out that by preventing cookies, you may find that you cannot use all the website's functions to the full extent. 
+
+#### a) Android
+
+Open the settings in your app list and tap on the “Ad” button. Once you have opened the ad window, you can disable the Google Advertising ID. 
+
+#### b) iOS
+
+Open the settings on your mobile end device (e.g. iPhone or iPad) and select the menu option “Data protection”. Under the option “Advertising”, you can switch off the ad tracking. 
+
+#### c) Data Usage Window
+
+Additionally, you have the option to opt-out of using third-party tracking in the Data Usage Window inside any of our games under “Settings”. 
+
+## X. Transfer of personal data to third parties
+
+InnoGames will only transfer your personal and/or billing-related data to third parties, in the sense of companies cooperating with InnoGames or external service providers, insofar as this is required for the fulfilment of the contract, for payment processing as well as for the pro-tection of other users and is legally permitted or prescribed. 
+
+This applies in particular to the processing of payments made via external service providers chosen by you (e.g. banks, credit card companies, payment service providers such as Al-lopass, Amazon, Apple, Boacompra, Facebook, Google, Boku Payments, DaoPay, HiPay, Mobiyo, PayPal, Samsung, Sofortüberweisung, Worldpay). Your legally protected interests will be considered in accordance with the statutory provisions. The external service providers are required to treat your data confidentially and securely and may only use your data to the extent necessary to fulfil their task. 
+
+In the event of payment delay, we may commission a debt collection agency or a lawyer to collect the outstanding debt. For this purpose, the necessary data will be passed on and used in compliance with all data protection guidelines. 
+
+In addition, your personal information will be shared if it is necessary to protect other users or to counter threats to state or public security or to prosecute criminal offences and if is permitted by statutory data protection provisions. Your protectable interests will be considered in accordance with the statutory provisions. Please note that InnoGames may be obliged to disclose data due to statutory provisions or, for instance, a judicial order (e.g. disclosure to investigative authorities). Disclosure always occurs only insofar as it is necessary and legally permitted or prescribed. 
+
+## XI. Use of third-party login services (“social logins”)
+
+### 1\. Login via Facebook Connect 
+
+We offer you the possibility to log in to our services via Facebook Connect. This is a service of Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA or, if you reside in the EU, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland (“Facebook”). If you use it, additional registration is not necessary. To log in, you are redirected to the Facebook website where you can log in with your user data. This links your Facebook profile and our service. Through the link, we automatically receive information from Facebook. The following information is transferred to us: Email address 
+
+This information is mandatory for the conclusion of the contract in order to identify you. Further information on Facebook and privacy settings can be found in the data protection guidelines at: [ https://www.facebook.com/about/privacy/update](https://www.facebook.com/about/privacy/update). 
+
+### 2\. Login via Google Sign-In
+
+We offer you the possibility to log in to our services via your Google account. This is a service of Google Ireland Ltd. (Gordon House, 4 Barrow Street, Dublin, Ireland (“Google”)). If you use it, additional registration is not necessary. To log in, you are redirected to the Google website where you can log in with your user data. This links your Google profile and our service. Through the link, we automatically receive information from Google. The following information is transferred to us: Email address 
+
+This information is mandatory for the conclusion of the contract in order to identify you. Further information on Google and privacy settings can be found in the data protection guidelines at: [ https://policies.google.com/privacy](https://policies.google.com/privacy). 
+
+## XII. Use of third-party analysis services
+
+### 1\. Adjust
+
+#### a) Description and scope of data processing
+
+We use mobile tracking technologies. For this we use the services of adjust GmbH, Saarbrücker St. 38a, 10405 Berlin, Germany. With the help of these services we collect statistical data about the use of our services to continually improve them. When you use our apps, your device sends us information that we collect and analyse. The following data is collected: IP address that is immediately anonymised, MAC address, anonymised Device ID (IDentifier For Advertisers - IDFA or Google Advertiser ID - GAID), browser type, language, Internet service provider, network status, time zone, access and exit page URL, time and date of access, clickstream data and other statistical information about the use of our services. There are no direct personal identifiers. The data collected in this way is used to create anonymous user profiles. The data collected with the tracking technology will not be used to personally identify the visitor of these websites without the express consent of the person concerned. For more information, please refer to the Adjust data protection policy at: <https://www.adjust.com/terms/privacy-policy>. 
+
+#### b) Legal basis for the data processing 
+
+The legal basis for this processing is Art. 6(1)(f) GDPR. We have entered into a data processing agreement with Adjust. 
+
+#### c) Purpose of the data processing
+
+The purpose is to improve your user experience with our services and to make our offer more attractive to you. In addition, the data collected is used to analyse the performance of marketing campaigns and generate performance reports. 
+
+#### d) Storage duration
+
+The data will be retained by us for the duration of use of the service and by Adjust for 28 days. 
+
+#### e) Objection and deletion
+
+Data collection and storage can be halted at any time with future effect by configuring your mobile device as described above at IX.5. 
+
+### 2\. Google Analytics
+
+#### a) Description and scope of the data processing
+
+This website uses the “Google Analytics” service, which is provided by Google Ireland Ltd. (Gordon House, 4 Barrow Street, Dublin, Ireland) for analysis of website usage by users. The service uses “cookies” - text files which are stored on your device. The information collected by the cookies is usually sent to a Google server and stored there. 
+
+IP anonymisation is used on this website. The IP address of users within the member states of the EU and the European Economic Area will be abbreviated. This abbreviation eliminates the personal reference to your IP address. Under the data processing agreement, which we have established with Google, Google uses the information collected to analyse website usage and activity and to provide services related to internet usage. 
+
+#### b) Legal basis for the data processing 
+
+The legal basis for this processing is Art. 6(1)(f) GDPR. We have entered into a data processing agreement with Google. 
+
+#### c) Purpose of data processing
+
+On our behalf, Google uses this information to analyse your website usage, to compile reports on website activity and to provide other services relating to website and internet usage. The IP address transmitted by your browser through Google Analytics is not amalgamated with other Google data. 
+
+#### d) Storage duration
+
+The data will be retained by Google for 26 months; due to the abbreviation of the IP addresses, no personal data will be stored. 
+
+#### e) Objection and deletion
+
+You have the option of preventing the storage of cookies on your device by configuring your browser accordingly. There is no guarantee that you will be able to access all functions of this website without restrictions if your browser does not allow cookies. Furthermore, you can use a browser plug-in to prevent the information collected by cookies (including your IP address) from being sent to and used by Google. The following link takes you to the required plug-in: [ https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). 
+
+More information on how Google uses your data, can be found here: [ https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245). 
+
+### 3\. Hotjar
+
+#### a) Description and scope of data processing
+
+We use the services of Hotjar Ltd, Malta. This is an analysis tool that helps us to track how you use our website, such as how you navigate through our site. Among other things, Hotjar uses “cookies” (small text files that are stored on your display device) to perform the analysis. More information about Hotjar's cookies can be found here: <https://www.hotjar.com/cookies>. We have also embedded the Hotjar tracking code on our website, which is used for the collection of (i) device-specific data (i.e. collection and storage of the IP address in anonymised form, size of the device screen, device type and browser information, country as geographical location and preferred language when displaying a website) and (ii) log data (i.e. referring domain, visited page(s), country as geographical location and preferred language when displaying a website, date and time of website access). Hotjar also uses third-party services such as Google Analytics and Optimizely. More information about Hotjar's data protection services can be found here: <https://www.hotjar.com/privacy>. 
+
+#### b) Legal basis for the data processing 
+
+The legal basis for this processing is Art. 6(1)(f) GDPR. We have entered into a data processing agreement with Hotjar. 
+
+#### c) Purpose of the data processing
+
+The purpose is to improve your user experience with our website and to make our offer more attractive to you. If you do not wish to allow cookies, you can disable them (see above). If you register with us, your data will not be linked to your personal data. 
+
+#### d) Storage duration
+
+The data will be retained for 365 days by Hotjar ([ https://help.hotjar.com/hc/en-us/articles/115011640427-Data-Retention](https://help.hotjar.com/hc/en-us/articles/115011640427-Data-Retention)). 
+
+#### e) Objection and deletion
+
+You can opt-out of the future collection and storage of your data by Hotjar here: <https://www.hotjar.com/opt-out>. 
+
+## XIII. Use of third-party advertising services
+
+### 1\. General information
+
+The website may occasionally contain advertisements from third parties and interactive links to third-party websites for which we are not responsible. In particular, we have no influence whatsoever on the content and design of the external sites linked to the websites to which you may be directed via these sites. The respective providers are exclusively responsible for the content and design of these websites as well as compliance with data protection regulations. Advertisers occasionally use technologies that send advertisements that appear on our websites directly to your browser, automatically transmitting your IP address. The advertisers concerned sometimes also use cookies and other technical means to measure the efficiency of their advertising or to optimise their content. This applies in particular, but not exclusively, to the classification of websites to certain interest categories within the scope of your Internet use. No connection will be established between this information and your name, address, telephone number or email address. We have no influence on that. The handling of data by these third parties is therefore not covered by this data protection declaration. Therefore, please contact the respective provider directly for information on their data protection regulations. You can disable the use of cookies in your browser settings (see above). 
+
+We forward your anonymised Device ID (IDentifier For Advertisers - IDFA or Google Advertiser ID - GAID) to some of our marketing partners within and outside of Europe (e.g. in the USA), in order to generate advertising for certain user groups with the help of our partners or to exclude users from certain advertising efforts. You can revoke data collection, storage, and transfer by applying your mobile device settings as described above. 
+
+### 2\. AppNexus
+
+InnoGames uses the advertising display services of the external vendor AppNexus Inc., 28 West 23rd Street, 4th Floor, New York, NY 10010, USA, [https://www.appnexus.com](https://www.appnexus.com/) („AppNexus“). For this purpose, we have implemented the AppNexus tracking pixel (i.e. a code snippet) on our website. The tracking pixel allows players' actions to be tracked on our website. No personal reference is established. Only statistical information is collected and transmitted to Ap-pNexus. This is intended to optimise advertising campaigns and to broadcast advertisements of interest to Internet users. Should wish otherwise, you can disable the AppNexus tracking by tapping the opt-out button at [ https://www.appnexus.com/en/company/platform-privacy-policy#choices](https://www.appnexus.com/en/company/platform-privacy-policy#choices). For more information on data protection at AppNexus, please visit: [ https://www.appnexus.com/en/company/platform-privacy-policy](https://www.appnexus.com/en/company/platform-privacy-policy). 
+
+### 3\. Facebook Pixel
+
+On grounds of our legitimate interests in and for these purposes of analysis, optimisation and economic operation of our Services, our services use the so-called “Facebook pixel” by the Facebook social network, operated by Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA or, if you are an EU resident, Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Ireland (“Facebook”). 
+
+The Facebook pixel is a code snippet placed on our website. 
+
+Facebook Pixel allows Facebook to identify the visitors of our online content as a target group for displaying advertisement (known as “Facebook ads”). Accordingly, we use Facebook Pixel to display our posted Facebook ads only to Facebook users who have shown an interest in our services or who share certain factors (such as interests in certain topics or products determined on the basis of visited web pages), which we transmit to Facebook (which is known as Custom Audiences). Facebook Pixel also helps us understand the effectiveness of Facebook ads for statistical and market research purposes, by showing whether users have been redirected to our services after clicking on a Facebook ad (known as conversion, and allowing to determine on which devices a user is performing an action), in order to create so-called lookalike audiences or statistical twins (i.e. to broadcast ads to target groups that are similar to existing customers) and to obtain comprehensive statistics about the use of the website. Facebook Pixel establishes a direct connection to the Facebook servers when you visit our website. This way, the Facebook server is notified that you have visited our website and Facebook assigns this information to your personal Facebook user account. 
+
+Facebook is certified under the Privacy Shield Agreement and therefore offers a guarantee of compliance with European data protection laws: [ https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000GnywAAC&status=Active). 
+
+For further information about the collection and use of data by Facebook and your privacy protection rights and options, please see the Facebook data protection policy at [ https://www.facebook.com/about/privacy/update](https://www.facebook.com/about/privacy/update). For specific information and details about Facebook Pixel and how it works, please visit the Facebook help section at [ https://www.facebook.com/business/help/651294705016616](https://www.facebook.com/business/help/651294705016616). You can disable this function as shown at [ https://de-de.facebook.com/business/help/1415256572060999?helpref=uf_permalink](https://de-de.facebook.com/business/help/1415256572060999?helpref=uf_permalink) or at [ https://www.facebook.com/settings?tab=ads](https://www.facebook.com/settings?tab=ads). You must be logged into Facebook to do this. 
+
+### 4\. Google DoubleClick
+
+DoubleClick is a service of Google Ireland Ltd. (Gordon House, 4 Barrow Street, Dublin, Ireland (“Google”)). DoubleClick uses cookies to display advertisements relevant to you. Your browser is assigned an pseudonymised identification number (ID) to check which ads have been displayed in your browser and which ads have been interacted with. These cookies do not contain any personal information. The use of DoubleClick cookies only allows Google and its partner websites to display ads based on previous visits to our site or other websites on the Internet. The information generated by cookies is transmitted by Google to a server and stored for analysis. You can reject the use of cookies by selecting the appropriate settings on your browser. However, please note that this may limit the full functionality of our website for you. You can also prevent Google from collecting and processing cookie-generated data about your use of the website by disabling the use of cookies in your browser settings (see above). You can also opt out of the collection and categorisation of interest-based information by disabling it on the DoubleClick cookie settings page at: [ https://support.google.com/ads/answer/7395996](https://support.google.com/ads/answer/7395996)
+
+### 5\. TV Squared
+
+In order to measure the effectiveness and the effect of TV commercial campaigns on user behaviour, we use TV tracker technology. This is a service of TV Squared Ltd., Codebase, Argyle House, 3 Lady Lawson Street, Edinburgh, EH3 9DR, United Kingdom. On our behalf TV Squared surveys the dates and times of user sessions, referring websites, user interactions on our websites and information about browser and operating system. For this purpose, a cookie assigns each user a random user ID. All data is processed by TV Squared in the EU. The privacy policy of TV Squared applies: [ https://tvsquared.com/privacy-policy](https://tvsquared.com/privacy-policy). You can object to the future collection of personal data by TV Squared at: 
+
+  * Overall: [ https://collector.tvsquared.com/optout.php](https://collector.tvsquared.com/optout.php)
+  * Only Elvenar (US): [ http://collector-4683.tvsquared.com/optout.php](http://collector-4683.tvsquared.com/optout.php)
+  * Only Forge of Empires (US): [ http://collector-4686.tvsquared.com/optout.phpp](http://collector-4686.tvsquared.com/optout.php)
+
+
+
+## XIV. Use of other third-party services
+
+### 1\. Episerver Campaign (formerly optivo Broadmail)
+
+Our newsletters are sent via Episerver Campaign (formerly optivo broadmail), an email marketing platform provided by Episerver GmbH, Wallstraße 16, 10179 Berlin. 
+
+The e-mail addresses of our newsletter recipients and other data described in this notice are temporarily stored for this purpose on Episerver servers in data centres within Germany and are subject to the German Data Protection Act. Episerver uses this information to send and assess newsletters on our behalf. Episerver may also use this information to improve its own services, such as technically optimising newsletter dispatch and presentation. However, Episerver does not use the data of our newsletter recipients to write to them, and never forwards the information to third parties if not legally required. The security scheme of Episerver Campaign for the Omni channel and the email marketing cloud is ISO 27001 certified. For further information, please visit: [ https://www.episerver.de/produkte/plattform/episerver-campaign/sicherheit](https://www.episerver.de/produkte/plattform/episerver-campaign/sicherheit). 
+
+Our newsletters contain a pixel-sized image (pixel code) that is retrieved by an Episerver server when the newsletter is opened. Technical information is collected as part of this retrieval, such as information about your browser or operating system, as well as your IP ad-dress, and the place and time of retrieval. This information is anonymised and assessed without personal information. 
+
+### 2\. Google Maps
+
+Our websites use maps from Google Ireland Ltd. (Gordon House, 4 Barrow Street, Dublin, Ireland). When you access one of our pages featuring a relevant map, map content is retrieved from Google's servers. If you are signed in with your Google account, Google can merge your browsing behaviour with other information. The use of Google Maps is in the interest of an easy-to-understand representation of our Services. This constitutes a legitimate interest within the meaning of Art. 6(1)(f) GDPR. Google's data protection policy applies: [ https://policies.google.com/privacy?hl=de&gl=de](https://policies.google.com/privacy?hl=de&gl=de). 
+
+### 3\. LinkedIn
+
+Our websites use buttons from LinkedIn Corp., 2029 Stierlin Court, Mountain View, CA 94043, USA. The contents of LinkedIn servers are retrieved when you access one of our pages with a relevant button. If you are logged into your LinkedIn account, LinkedIn can merge your browsing behaviour with other information. The use of LinkedIn buttons is in the interest of exchanging information about our Services and improving them. This constitutes a legitimate interest within the meaning of Art. 6(1)(f) GDPR. LinkedIn's data protection policy applies: [ https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy). 
+
+### 4\. Litmus
+
+Litmus is a service provided by Litmus Software, Inc. (675 Massachusetts Ave., 10th Floor, Cambridge, MA 02139, USA) for analysing emails. The newsletters contain a pixel-sized image (pixel code) that is retrieved by a Litmus server when the newsletter is opened. Technical information is collected as part of this retrieval, such as information about your browser or operating system, as well as your IP address, and the place and time of retrieval. This information is anonymised and assessed without personal information. 
+
+### 5\. Mailgun
+
+Mailgun is a service provided by Mailgun, Inc. (620 Folsom St, Ste 100, San Francisco, CA 94107, USA) for sending our e-mails. This service may also collect information about the date and time when messages were read by the user and when the user interacts with incoming messages (such as by clicking on links contained in them). The company is a party to the Safe Harbour Agreement with the EU and is committed to upholding European data protection standards: [ https://www.mailgun.com/privacy](https://www.mailgun.com/privacy). 
+
+### 6\. Pinterest
+
+Our websites use buttons from Pinterest, Inc., 808 Brannan St, San Francisco, CA 94103, USA. The contents of Pinterest servers are retrieved when you access one of our pages with a relevant button. If you are logged into your Pinterest account, Pinterest can merge your browsing behaviour with other information. The Pinterest data protection policy applies: <http://pinterest.com/about/privacy/>. 
+
+### 7\. Twitter
+
+Our websites use buttons from Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. The contents of Twitter servers are retrieved when you access one of our pages with a relevant button. If you are logged into your Twitter account, Twitter can merge your browsing behaviour with other information. The use of Twitter buttons is in the interest of exchanging information about our Services and improving them. This constitutes a legitimate interest within the meaning of Art. 6(1)(f) GDPR. The Twitter data protection policy applies: <https://twitter.com/de/privacy>. 
+
+### 8\. YouTube
+
+Our websites use videos from YouTube, LLC 901 Cherry Ave., 94066 San Bruno, CA, USA, a company of Google Ireland Ltd. (Gordon House, 4 Barrow Street, Dublin, Ireland). In doing so, we use the “Enhanced Data Protection Mode” option made available by YouTube. By loading one of our sites via a YouTube video, contents from YouTube will be loaded. If you are logged on to your YouTube account, YouTube shall have the possibility to amalgamate your navigation behaviour with other data. The use of YouTube videos serves the purpose of offering an easy-to-understand representation of our Services. YouTube’s privacy policies apply: [ https://www.google.de/intl/de/policies/privacy/](https://www.google.de/intl/de/policies/privacy/). 
+
+### 9\. Xing
+
+Our websites use buttons by Xing AG, Dammtorstraße 29-32, 20354 Hamburg, Germany. By loading one of our sites via said buttons, contents from Xing will be loaded. To the best of our knowledge, no personal information is collected, and your navigation behaviour shall not be analysed. The data protection provisions for Xing’s buttons shall apply: [ https://www.xing.com/app/share?op=data_protection](https://www.xing.com/app/share?op=data_protection). 
+
+## XV. Rights of the data subject
+
+If your personal data are processed, you are a data subject as defined by the GDPR, and you have the following rights before the controller: 
+
+### 1\. Right to information
+
+You can request the controller to provide you with a confirmation of whether personal data concerning you are being processed by us. 
+
+If such processing should exist, you can demand that the controller provide you with the following information: 
+
+  1. the purposes toward which your personal data are being processed;
+  2. The categories of personal data which are being processed;
+  3. The recipients and/or the categories of recipients to whom the affected personal data has been- or continues to be disclosed;
+  4. The planned storage duration of your personal data or, if specific information cannot be provided, criteria for determining the storage duration;
+  5. the existence of the right to request from the controller rectification or erasure of personal data or restriction of processing of personal data concerning the data subject or to object to such processing; 
+  6. the right to lodge a complaint with a supervisory authority; 
+  7. where the personal data are not collected from the data subject, any available infor-mation as to their source; 
+  8. the existence of automated decision-making, including profiling, referred to in Arti-cle 22(1) and (4) and, at least in those cases, meaningful information about the logic involved, as well as the significance and the envisaged consequences of such pro-cessing for the data subject.
+
+
+
+You shall be entitled to demand information as to whether the personal data concerning you are being transferred to a third country or to an international organisation. In this regard, you can demand to be briefed on the applicable guarantees pursuant to Art. 46 GDPR associated to said transfer. 
+
+We shall respond to inquiries within a month upon receipt of the request. 
+
+### 2\. Right to rectification 
+
+You also have the right to rectification and/or completion before the controller, provided that the processed personal data concerning you are incorrect or incomplete. The controller shall have the obligation to implement the rectification immediately. 
+
+### 3\. Right to restriction of processing
+
+Under the following circumstances, you may claim the restriction of the processing of the personal data concerning you: 
+
+  1. if the accuracy of the personal data is contested by the data subject, for a period ena-bling the controller to verify the accuracy of the personal data;
+  2. if the processing is unlawful and you oppose the erasure of the personal data, request-ing that their use be restricted instead;
+  3. if the controller no longer needs the personal data for the purposes of its processing, but you require it for the assertion, exercise, or defence of legal claims; or
+  4. if you have filed an objection to the processing pursuant to Art. 21(1) GDPR, and it has not been yet determined whether the controller’s stated grounds outweigh yours.
+
+
+
+If processing has been restricted, such personal data shall, with the exception of storage, only be processed either with your consent; for the purposes of asserting, exercising, or defending legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest of the Union or of a Member State. 
+
+If the processing restriction was imposed under any of the above circumstances, you will be briefed by the controller before the restriction is lifted. 
+
+### 4\. Right to erasure
+
+You shall have the possibility to erase your account yourself at: <https://goodbye.innogames.com/login>. We will then erase all your personal data, provided that we are not legally mandated to storing them. After one year of inactivity, we will also erase your account with us. 
+
+#### a) Obligation to erase
+
+You have the right to claim that the controller erase all personal data concerning you without undue delay, and the controller shall have the obligation to erase personal data without undue delay where one of the following grounds applies: 
+
+  1. the personal data concerning you are no longer necessary in relation to the purposes for which they were collected or otherwise processed;
+  2. you have revoked your consent on the basis of which the data collection was ground-ed, Pursuant to Art. 6(1)(a) or Art. 9(2)(a) GDPR, and no other legal grounds exist for their processing. 
+  3. you file an objection to the processing, pursuant to Art. 21(1) GDPR, and there are no outweighing grounds for the processing, or you file an objection to the processing pur-suant to Art. 21(2) GDPR.
+  4. the personal data concerning you have been unlawfully processed; 
+  5. the personal data concerning you have to be erased to comply with a legal obligation which requires processing under the laws of the European Union or the Member States, to which the processor is subject; 
+  6. the personal data concerning you have been collected in relation to the offer of information society services referred to in Article 8(1) GDPR.
+
+
+
+#### b) Information for third parties
+
+If the controller has made public the personal data concerning you and is obliged, pursuant to Art. 17(1) GDPR, to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform controllers who are processing the personal data that you, as data subject, have requested the erasure by said controllers of any links to, or copy or replication of, this personal data. 
+
+#### c) Exceptions
+
+The right to erasure shall not apply whenever the processing is required for the purposes of: 
+
+  1. exercising the right of freedom of expression and information;
+  2. complying with a legal obligation which requires processing under the laws of the European Union or the Member States, to which the processor is subject, or performing a task in the public interest or in exercise of public authority vested in the processor;
+  3. reasons of public interest in the area of public health in accordance with Art. 9(2)(h) and (i), as well as Art. 9(3) GDPR;
+  4. archival, scientific, or historiographical research purposes serving the public interest pursuant to Art. 89(1) GDPR, provided that the deletion right described in paragraph (a) does not render impossible or impede the realisation of the objectives of the processing;
+  5. for the establishment, exercise or defence of legal claims.
+
+
+
+### 5\. Right to briefing
+
+If you assert the right to rectification, erasure, or restriction of processing before the controller, the latter has the obligation to notify all recipients to whom the personal data concerning you were disclosed of this data rectification, erasure, or the restriction of its processing, unless this should prove impossible or associated with a disproportionate cost. 
+
+You have the right to be informed of these recipients by the controller. 
+
+### 6\. Right to data portability
+
+You have the right to receive the personal data concerning you which you have provided to the controller in a structured, accessible, and machine-readable format. Furthermore, you have the right to transfer this data to another controller without restriction from the controller to whom the personal data had been provided, provided that 
+
+  1. the processing is grounded on consent pursuant to Art. 6(1)(a) GDPR, or Art. 9(2)(a) GDPR, or on a contract pursuant to Art. 6(1)(b) GDPR, and
+  2. the processing is carried out by automated means.
+
+
+
+In exercising this right, you have the further right to request that the personal data concerning you be directly transferred by one controller to another, provided that this is technically feasible. The liberties and rights of other persons may not be compromised by these actions. 
+
+The right of data portability shall not apply to processing personal data which is required for the performance of a task carried out in the public interest or in exercise of public authority vested in the controller 
+
+### 7\. Right to object
+
+You have the right to object to personal data processing concerning you on grounds relating to your particular situation, at any time, on the basis of Art. 6(1)(e) or (f) GDPR, including profiling based on those provisions. 
+
+The controller shall no longer process the personal data unless the controller demonstrates compelling legitimate grounds for the processing which override your interests, rights and freedoms, or for the assertion, exercise or defence of legal claims. 
+
+If personal data are processed for direct marketing purposes, you shall have the right to object at any time to processing of personal data concerning you for said marketing purposes, including profiling to the extent that it is related to such direct marketing. 
+
+If you object to processing for direct marketing purposes, personal data concerning you shall no longer be processed for such purposes. 
+
+In the context of the use of information society services, and notwithstanding Directive 2002/58/EC, you may exercise your right to object by using automated means which use technical specifications. 
+
+### 8\. Right of withdrawal of consent under data protection law
+
+You have the right to withdraw your declaration of consent under data protection law at any time. Withdrawal of consent shall not affect the lawfulness of data processing based on consent effective prior to its withdrawal. 
+
+### 9\. Automated individual decision-making, including profiling
+
+You shall have the right not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning you or similarly affects you in a significant manner. The above shall not apply if the decision 
+
+  1. is required for entering into, or performance of, a contract between yourself and a data controller,
+  2. is authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard your rights and freedoms and legitimate interests; or
+  3. is made with your express consent.
+
+
+
+Decisions referred to in paragraph 2 shall not be based on special categories of personal data referred to in Article 9, Para. 1 GDPR, unless Article 9, Para. 2, lit. (a) or (g) applies and suitable measures are in place to safeguard your rights and freedoms and legitimate interests. 
+
+In the cases referred to in points (1) and (3), the data controller shall implement suitable measures to safeguard your rights and freedoms and legitimate interests, entailing, at a minimum, the right to obtain human intervention on the part of the controller, to express his or her point of view and to contest the decision. 
+
+### 10\. Right to lodge a complaint with a supervisory authority
+
+Without prejudice to any other administrative or judicial remedy, you shall have the right to lodge a complaint with a supervisory authority, in particular in the Member State of his or her habitual residence, place of work or place of the alleged infringement if you consider that personal data processing relating to you infringes the GDPR. 
+
+The supervisory authority with which the complaint has been lodged shall inform the complainant on the progress and the outcome of the complaint including the possibility of a judicial remedy pursuant to Article 78 of the GDPR. 
+
+## XVI. Final provisions
+
+InnoGames may alter these data protection provisions at any time. InnoGames shall notify any such changes through appropriate channels. 
+
+© Copyright InnoGames 2018. All rights reserved.
