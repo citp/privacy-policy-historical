@@ -1,23 +1,28 @@
-<!--The following is the downloaded HTML source of the 9flats.com privacy policy that was archived on 2018-08-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180819235636id_/https%3A//www.9flats.com/terms) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 9flats.com privacy policy that was archived on 2019-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191109094028id_/https%3A//www.9flats.com/terms) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js no-ie" lang="en" xml:lang="en" xmlns:v="urn:schemas-microsoft-com:vml" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
     <meta charset="utf-8">
-<script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"62682a9f93","applicationID":"179015","transactionName":"JgpXTUFWXFRcSxYVBQIAShZHXEJVSg==","queueTime":1,"applicationTime":35,"agent":""}</script>
-<script>(window.NREUM||(NREUM={})).loader_config={xpid:"UA4HUldACQQJVFBX"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,c){try{p?p-=1:o(c||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,s.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:s.now();i("err",[t,n])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),d=!0)}c.on("fn-start",function(t,e,n){d&&(p+=1)}),c.on("fn-err",function(t,e,n){d&&!n[l]&&(f(n,l,function(){return!0}),this.thrown=!0,o(n))}),c.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw s.emit("fn-err",[arguments,this,t],n),t}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+<script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script>window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"62682a9f93","applicationID":"179015","transactionName":"JgpXTUFWXFRcSxYVBQIAShZHXEJVSg==","queueTime":0,"applicationTime":28,"agent":""}</script>
+<script>(window.NREUM||(NREUM={})).loader_config={xpid:"UA4HUldACQQJVFBX",licenseKey:"62682a9f93",applicationID:"179015"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(u){try{i("ierr",[u,c.now(),!0])}catch(d){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),u=t("gos"),f=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(u(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(f);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[f,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),u=XMLHttpRequest,f="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(u.prototype)):u.prototype.hasOwnProperty(f)&&(o(window),o(u.prototype)),a.on(f+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",u="clearTimeout",f="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[u,"clearImmediate"],u+d),i.on(c+f,r),i.on(s+f,o)},{}],6:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=f.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,f.emit("xhr-resolved",[],t)),d.inPlace(t,x,"fn-",s)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(3);var u=t("ee"),f=u.get("xhr"),d=t(18)(f),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",x=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=f;var y=window.XMLHttpRequest=function(t){var n=new p(t);try{f.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}return n};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),f.on("send-xhr-start",function(t,n){r(t,n),i(n)}),f.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else u.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],7:[function(t,n,e){function r(){var t=window.NREUM,n=t.info.accountID||null,e=t.info.agentID||null,r=t.info.trustKey||null,i="btoa"in window&&"function"==typeof window.btoa;if(!n||!e||!i)return null;var a={v:[0,1],d:{ty:"Browser",ac:n,ap:e,id:o.generateCatId(),tr:o.generateCatId(),ti:Date.now()}};return r&&n!==r&&(a.d.tk=r),btoa(JSON.stringify(a))}var o=t(13);n.exports={generateTraceHeader:r}},{}],8:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return v(r)}function i(t,n){var e=u(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),u=t(9),f=t(7).generateTraceHeader,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(12),v=t(11),w=window.XMLHttpRequest;s.features.xhr=!0,t(6),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=f();r&&n.setRequestHeader("newrelic",r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=v(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof w&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)})}},{}],9:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],10:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[u.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),u=t("loader"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){f[n]=o(l+n,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,f.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[u.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[u.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[u.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,u.now(),!1,n])}},{}],11:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],12:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],13:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],14:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(u){l([u,"",[r,a,o],s])}f(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw f(n+"err",[r,a,d],s),d}finally{f(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function u(t,n,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,u?s+o:o,i,s))}function f(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=u,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,u=0;u<c;u++)s[u].apply(a,r);var d=f[g[e]];return d&&d.push([y,e,r,a]),a}}function p(t,n){x[t]=m(t).concat(n)}function h(t,n){var e=x[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return x[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){u(t,function(t,e){n=n||"feature",g[e]=n,n in f||(f[n]=[])})}var x={},g={},y={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return y}function i(){return new r}function a(){(f.api||f.feature)&&(l.aborted=!0,f=l.backlog={})}var s="nr@context",c=t("gos"),u=t(15),f={},d={},l=n.exports=o();l.backlog=f},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return f.abort();u(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),u=t(15),f=t("ee"),d=t(14),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var x=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},y=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:x,features:{},xhrWrappable:y,userAgent:d};t(10),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(17)},{}]},{},["loader",2,8]);</script>
     <title>vacation rentals, apartments and accommodations on 9flats.com</title>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 <meta content="index, follow, noarchive" name="robots">
 <meta content="en" name="language">
 <meta content="https://www.9flats.com:443/assets/9flats/9flats_logo.png" property="og:image">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="EOFgMye94FwPQj6mzsIPCPbypGJDAo+WVRL+yf4sl7c=" name="csrf-token">
+<meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="f0JNGLPyWpDcy8nDBrOlRZ+LNOP61DlYcBE/BMOYtJcn6JZi31Z+G5VofIeIIxAkV6OMW22dFCiun529Kcz0zw==">
 <meta content="181720678509480" property="fb:app_id">
+
 
 <link href="/favicon.ico?v=2" rel="shortcut icon" type="image/vnd.microsoft.icon">
 
 
-    <link href="//assets.9flats.com/assets/redesign/application-bf6786a19a4506727456ca9c0ea41055.css" media="all" rel="stylesheet" type="text/css">
+    <link rel="preload" href="//assets.9flats.com/assets/redesign/application-ea53209a3113cb4a9e0967f4f105f107a895aebe8b10071b27a3c6973ead5ca1.css" as="style">
+    <link rel="preload" href="//assets.9flats.com/assets/external/external-2baf44ceb69a06a590d84b5a40773509c3b04bb811df17057d80008a337ae973.js" as="script">
+    <link rel="preload" href="//assets.9flats.com/assets/redesign/application-dfcd55869a1a03c904173ca5dbaafbf0e06d82a4b2512193c5a790c080861870.js" as="script">
+
+    <link rel="stylesheet" media="all" href="//assets.9flats.com/assets/redesign/application-ea53209a3113cb4a9e0967f4f105f107a895aebe8b10071b27a3c6973ead5ca1.css">
 
       <link href="/opensearch.xml" rel="search" title="9flats search" type="application/opensearchdescription+xml">
 
@@ -28,7 +33,7 @@
     <meta name="day-names" content="[&quot;Sun&quot;,&quot;Mon&quot;,&quot;Tue&quot;,&quot;Wed&quot;,&quot;Thu&quot;,&quot;Fri&quot;,&quot;Sat&quot;]">
     <meta name="month-names" content="[&quot;January&quot;,&quot;February&quot;,&quot;March&quot;,&quot;April&quot;,&quot;May&quot;,&quot;June&quot;,&quot;July&quot;,&quot;August&quot;,&quot;September&quot;,&quot;October&quot;,&quot;November&quot;,&quot;December&quot;]">
 
-    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <meta content="width=device-width,initial-scale=1,minimum-scale=1" name="viewport">
 
     <script type="text/javascript">
   //<![CDATA[
@@ -56,14 +61,14 @@
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-20029170-1']);
     _gaq.push (['_gat._anonymizeIp']);
-    _gaq.push(['_setDomainName', '9flats.com']);
+    _gaq.push(['_setDomainName', "9flats.com"]);
     _gaq.push(['_setAllowLinker', true]);
     if (window.NineFlats.GoogleAnalytics.log_visitor_level === '1') {
       _gaq.push(['_setCustomVar', 1, 'Visitor-Level', 'Visitor', 1]);
     }
     if (window.NineFlats.GoogleAnalytics.log_timestamp_source === '1') {
       _gaq.push(['_setCustomVar', 2, 'Source', '', 1]);
-      _gaq.push(['_setCustomVar', 3, 'Timestamp', '2018-08-19 23:56:36 UTC', 1]);
+      _gaq.push(['_setCustomVar', 3, 'Timestamp', '2019-11-09 09:40:29 UTC', 1]);
     }
     if (window.NineFlats.GoogleAnalytics.log_location.length > 0) {
       _gaq.push(['_setCustomVar', 4, 'Locations', NineFlats.GoogleAnalytics.log_location, 1]);
@@ -74,67 +79,64 @@
     _gaq.push(['_trackPageview']);
   //]]>
 </script>
-<script src="//maps.googleapis.com/maps/api/js?v=3.32&amp;key=AIzaSyBcYGw6Alt1rpP6gzNWQhSD2PtGJvEp5Oo" type="text/javascript"></script>
 <script type="text/javascript">
   //<![CDATA[
     window.translateAPIkey = 'AIzaSyBcYGw6Alt1rpP6gzNWQhSD2PtGJvEp5Oo';
-  //]]>
-</script>
-<script async="async" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="text/javascript"></script>
-<script type="text/javascript">
-  //<![CDATA[
-    (adsbygoogle = window.adsbygoogle || []).push({
-      google_ad_client: "ca-pub-2783192004251469",
-      enable_page_level_ads: true
-    });
   //]]>
 </script>
 
 
     
 
-  </head>
+  <script id="facebook-jssdk" async="" src="https://connect.facebook.net/en_US/all.js"></script></head>
 
-  <body class="b-js v2  pages-terms " onclick="return {name: 'global'}" data-bjs-name="global">
+  <body class="b-js v2  pages-terms" onclick="return {name: 'global'}" data-bjs-name="global">
 
     <div id="fb-root"></div>
     <script type="text/javascript">
-      //<![CDATA[
         window.fbAsyncInit = function() {
           FB.init({
             appId      : "181720678509480", // App ID
             channelUrl : '//9flats.com/channel.html', // Channel File
+            autoLogAppEvents : true,
             status     : true, // check login status
             cookie     : true, // enable cookies to allow the server to access the session
-            xfbml      : true  // parse XFBML
+            xfbml      : true,  // parse XFBML
+            version: 'v2.10'
           });
-
-          // Additional initialization code here
         };
 
-        // Load the SDK Asynchronously
         (function(d){
-           var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
-           if (d.getElementById(id)) {return;}
-           js = d.createElement('script'); js.id = id; js.async = true;
-           js.src = '//connect.facebook.net/en_US/all.js';
-           ref.parentNode.insertBefore(js, ref);
-         }(document));
-      //]]>
+          var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+          js = d.createElement('script'); js.id = id; js.async = true;
+          js.src = "https://connect.facebook.net/en_US/all.js";
+          d.getElementsByTagName('head')[0].appendChild(js);
+        }(document));
+
+        function fb_login() {
+          window.location.href = '/auth/facebook/callback';
+        }
     </script>
 
-    <header class="b-js" onclick="return {name: 'header'}"><div class="b-js" onclick="return {name: 'search_bar', url: '/geo_locators.json'}"><form accept-charset="UTF-8" action="/searches" class="search-bar__form js-datepicker-form en" data-autocomplete-url="/autocomplete" data-geocoded-form="search" data-html-url="/searches" id="search_form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div><input id="mode" name="mode" type="hidden" value="list"><input delimiter="" id="search_place_type" name="search[place_type]" type="hidden"><input delimiter="" id="search_price_min" name="search[price_min]" type="hidden"><input delimiter="" id="search_price_max" name="search[price_max]" type="hidden"><input delimiter="" id="search_currency" name="search[currency]" type="hidden"><input delimiter="" id="search_sort_by" name="search[sort_by]" type="hidden" value="top_ranking"><input delimiter="" id="search_view_index" name="search[view_index]" type="hidden" value="0"><input delimiter="" id="search_number_of_bathrooms" name="search[number_of_bathrooms]" type="hidden" value="0"><input delimiter="" id="search_number_of_bedrooms" name="search[number_of_bedrooms]" type="hidden" value="0"><input delimiter="" id="search_radius" name="search[radius]" type="hidden" value="25"><input delimiter="" id="search_amenities" name="search[amenities]" type="hidden" value=""><input delimiter="" id="search_woeid" name="search[woeid]" type="hidden"><input delimiter="" id="search_bb_sw" name="search[bb_sw]" type="hidden"><input delimiter="" id="search_bb_ne" name="search[bb_ne]" type="hidden"><input delimiter="" id="search_lat" name="search[lat]" type="hidden" value="0.0"><input delimiter="" id="search_lng" name="search[lng]" type="hidden" value="0.0"><input delimiter="" id="search_iso" name="search[iso]" type="hidden"><input delimiter="" id="search_is_country" name="search[is_country]" type="hidden"><input delimiter="" id="search_category" name="search[category]" type="hidden" value=""><input delimiter="" id="search_geo_search" name="search[geo_search]" type="hidden"><input delimiter="" id="search_geo_region" name="search[geo_region]" type="hidden"><input delimiter="" id="search_point_of_interest" name="search[point_of_interest]" type="hidden" value="false"><input delimiter="" id="search_price_range" name="search[price_range]" type="hidden" value=""><input delimiter="" id="search_ancestries" name="search[ancestries]" type="hidden" value=""><input delimiter="" id="search_continuous_update" name="search[continuous_update]" type="hidden"><input delimiter="" id="search_booking_type" name="search[booking_type]" type="hidden" value=""><input delimiter="" id="search_payment_type" name="search[payment_type]" type="hidden" value=""><input id="search_start_date_alt" name="search[start_date_alt]" type="hidden"><input id="search_end_date_alt" name="search[end_date_alt]" type="hidden"><nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white navbar-main"><a href="/" class="navbar-brand" title="9flats.com – book a home"><img alt="Logo" src="//assets.9flats.com/assets/new_home/logo-2e79bdef7b723de10a89e6754c262161.svg"></a><div class="navbar-search-field form-inline mr-auto"><div class="md-form mt-0"><i class="fa fa-search prefix"></i><input autocomplete="off" class="search-bar__form__input_query form-control mr-sm-2" delimiter="" id="search_query" name="search[query]" placeholder="Where do you want to go?" size="30" tabindex="1" type="text" value=""></div></div><button aria-controls="nav-collapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#nav-collapse" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="nav-collapse"><ul class="navbar-nav ml-auto"><li class="nav-item"><a href="/users/sign_in" class="nav-link" rel="nofollow" title="Log in">Log in</a></li><li class="nav-item"><span class="navbar-text">or</span></li><li class="nav-item"><a href="/users/sign_in?signup=1" class="nav-link" rel="nofollow" title="Sign up">Sign up</a></li><li class="header__nav__item_contact nav-item"><a href="#" class="nav-link">Help</a></li><li class="header__nav__item_languages nav-item"><a href="#" class="header__nav__link_language nav-link" id="language_currency_selector"><span class="header__nav__link__language header__nav__link__language_gb"></span> $ USD</a></li><li class="header__nav__item header__nav__item_last nav-item"><a href="/places/new" class="btn btn-outline-primary btn-sm">List a place</a></li></ul></div></nav></form><ul class="userpopup">
-  <li class="userpopup__item userpopup__item_first"><a href="/profile" class="userpopup__link">Overview</a></li>
-    <li class="userpopup__item"><a href="/profile/message_threads" class="userpopup__link">Messages</a></li>
-  <li class="userpopup__item"><a href="/bookings" class="userpopup__link">Trips</a></li>
-  <li class="userpopup__item"><a href="/accommodations/places" class="userpopup__link">Hosting</a></li>
-  <li class="userpopup__item"><a href="/reviews" class="userpopup__link">Reviews</a></li>
-  <li class="userpopup__item"><a href="/profile/edit" class="userpopup__link">Account</a></li>
-  <li class="userpopup__item"><a href="/users/sign_out" class="userpopup__link">Log out</a></li>
+      <div class="login_popup rounded border z-depth-1" style="display: none;">
+    <button type="button" class="close float-right" aria-label="Close">
+      <span aria-hidden="true">×</span>
+    </button>
+    <h3>Log in now.</h3>
+    <hr>
+    <div class="fb-login-button" data-size="medium" data-button-type="continue_with" data-auto-logout-link="false" data-onlogin="fb_login" data-use-continue-as="true"></div>
+  </div>
+
+    <header class="b-js" onclick="return {name: 'header'}"><nav class="navbar navbar-expand-lg navbar-light fixed-top bg-white navbar-main"><a class="navbar-brand" title="9flats.com – book a home" href="/"><img src="//assets.9flats.com/assets/new_home/logo-0aee51de5d08cfd71ad01d410e9b61ad821b8768f3c9de039f6bb6e48b792be7.svg"></a><button aria-controls="nav-collapse" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#nav-collapse" data-toggle="collapse" type="button"><span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="nav-collapse"><ul class="navbar-nav"><li class="nav-item"><a class="nav-link text-dark font-weight-bold" href="/rentalcars"><i class="fa fa-car text-9flats"></i>&nbsp;Car Rental</a></li></ul><ul class="navbar-nav ml-auto"><li class="nav-item"><a class="nav-link" rel="nofollow" title="Log in" href="/users/sign_in">Log in</a></li><li class="nav-item"><span class="navbar-text">or</span></li><li class="nav-item"><a class="nav-link" rel="nofollow" title="Sign up" href="/users/sign_in?signup=1">Sign up</a></li><li class="header__nav__item header__nav__item_last nav-item"><a class="btn btn-outline-primary btn-sm btn-create-place" data-page="pages-terms" rel="nofollow" href="https://join.booking.com/a/1626093">List a place</a></li></ul></div></nav><ul class="userpopup">
+  <li class="userpopup__item userpopup__item_first"><a class="userpopup__link" href="/profile">Overview</a></li>
+    <li class="userpopup__item"><a class="userpopup__link" href="/profile/message_threads">Messages</a></li>
+  <li class="userpopup__item"><a class="userpopup__link" href="/bookings">Trips</a></li>
+  <li class="userpopup__item"><a class="userpopup__link" href="/profile/edit">Account</a></li>
+  <li class="userpopup__item"><a class="userpopup__link" rel="nofollow" data-method="delete" href="/users/sign_out">Log out</a></li>
 </ul>
 <div class="contact contact_en">
   <div class="help__popup__faq">
-    <a href="http://faq.9flats.com/hc/en-gb" class="help__popup__header">FAQ</a>
+    <a class="help__popup__header" href="/faq">FAQ</a>
     <div class="help__popup__faq__description">
       Get answers to all your questions
     </div>
@@ -144,73 +146,67 @@
   
   <ul class="languagepicker__languages">
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/de" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/de">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_de"></span>
     Deutschland
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/de-at" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/de-at">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_at"></span>
     Österreich
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/de-ch" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/de-ch">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_ch"></span>
     Schweiz
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/en" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/en">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_gb"></span>
     United Kingdom
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/en-us" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/en-us">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_us"></span>
     USA
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/es" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/es">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_es"></span>
     España
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/fr" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/fr">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_fr"></span>
     France
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/it" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/it">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_it"></span>
     Italia
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/pt" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/pt">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_pt"></span>
     Portugal
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/ru" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/ru">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_ru"></span>
     Россия
 </a></li>
 
       <li class="languagepicker__languages__item">
-  <a href="/choose_language/tr" class="languagepicker__languages__item__link">
-    <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_tr"></span>
-    Türkiye
-</a></li>
-
-      <li class="languagepicker__languages__item">
-  <a href="/choose_language/zh" class="languagepicker__languages__item__link">
+  <a class="languagepicker__languages__item__link" href="/choose_language/zh">
     <span class="languagepicker__languages__item__link__flag languagepicker__languages__item__link__flag_zh"></span>
     中國
 </a></li>
@@ -219,100 +215,99 @@
   
   <ul class="languagepicker__currencies">
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=AUD" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=AUD">
           $
           AUD
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=BRL" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=BRL">
           R$
           BRL
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=CAD" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=CAD">
           $
           CAD
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=CHF" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=CHF">
           CHF
           CHF
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=DKK" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=DKK">
           kr.
           DKK
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=EUR" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=EUR">
           €
           EUR
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=GBP" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=GBP">
           £
           GBP
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=JPY" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=JPY">
           ¥
           JPY
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=NOK" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=NOK">
           kr
           NOK
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=PLN" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=PLN">
           zł
           PLN
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=RUB" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=RUB">
           ₽
           RUB
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=SEK" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=SEK">
           kr
           SEK
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=TRY" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=TRY">
           ₺
           TRY
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=USD" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=USD">
           $
           USD
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=ZAR" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=ZAR">
           R
           ZAR
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=SGD" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=SGD">
           $
           SGD
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=NZD" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=NZD">
           $
           NZD
 </a>      </li>
       <li class="languagepicker__currencies__item">
-        <a href="/set_currency?currency=THB" class="languagepicker__currencies__item__link">
+        <a class="languagepicker__currencies__item__link" href="/set_currency?currency=THB">
           ฿
           THB
 </a>      </li>
   </ul>
   
 </div>
-</div><div class="container">
-
+</header><div class="container">
 
 
 
@@ -326,7 +321,7 @@
 
 
   
-</div></header>
+</div>
 
     <div class="content">
       <div class="dialog dialog_terms">
@@ -337,9 +332,9 @@
   <div class="dialog__text">
     <div class="paragraph_body">
 <span class="number"></span>
-<p>Dear 9flats user,</p>
-<p>We know that General Terms and Conditions of Business are long and often seen as being commonly dull. All the same, it’s really important that you read them the following provisions carefully. The general terms and conditions of business firstly describe the specific contractual relationship that exists between you and 9flats (i.e. the respective rights and obligations of you and 9flats) and secondly outline the fundamental obligations that concern the relationship between the guest and host.</p>
-<p>General Terms and Conditions of Business for the usage of the 9flats.com platform</p>
+<p>Dear 9flats user,<br>
+We know that General Terms and Conditions of Business are long and often seen as being commonly dull. All the same, it’s really important that you read them the following provisions carefully. The general terms and conditions of business firstly describe the specific contractual relationship that exists between you and 9flats (i.e. the respective rights and obligations of you and 9flats) and secondly outline the fundamental obligations that concern the relationship between the users and third parties involved.<br>
+General Terms and Conditions of Business for the usage of the 9flats.com platform</p>
 </div>
 <div class="paragraph_head">
 <span class="number">1</span>
@@ -347,11 +342,11 @@
 </div>
 <div class="paragraph_body">
 <span class="number">1.1</span>
-<p>The following General Terms and Conditions of Business apply for the business relationships between the user of the online platform 9flats and 9flats <span class="caps">PTE</span>. Ltd., 111 North Bridge Road, # 08-19  Peninsula Plaza Singapore 179098 represented by its directors (hereinafter referred to as “9flats”).</p>
+<p>The following General Terms and Conditions of Business apply for the business relationships between the user of the online platform 9flats and 9flats <span class="caps">PTE</span>. Limited, 111 North Bridge Road # 08-19 Peninsula Plaza Singapore 179098, represented by its director Roman Bach (hereinafter referred to as “9flats”).</p>
 </div>
 <div class="paragraph_body">
 <span class="number">1.2</span>
-<p>General Terms and Conditions of Business or contract conditions of the user that contradict or deviate from these General Terms and Conditions of Business are not recognised by 9flats unless their validity is explicitly agreed to in writing. These General Terms and Conditions of Business are also applicable if 9flats unconditionally carries out the service towards the user in the knowledge of the user’s contradictory or deviating conditions.</p>
+<p>General Terms and Conditions of Business or contract conditions of the user that contradict or deviate from these General Terms and Conditions of Business are not recognized by 9flats unless their validity is explicitly agreed to in writing. These General Terms and Conditions of Business are also applicable if 9flats unconditionally carries out the service towards the user in the knowledge of the user’s contradictory or deviating conditions.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">1.3</span>
@@ -367,617 +362,246 @@
 </div>
 <div class="paragraph_body">
 <span class="number">2.2</span>
-<p>With the complete registration (surname, first name, e-mail, telephone number, address, and password) in addition to the consent to these General Terms and Conditions of Business and the data protection conditions, the user account (referred to as a member account on the website) is set up and subsequently an agreement is concluded between the user and 9flats for the usage of the online platform. Should the user not accept the General Terms and Conditions of Business and/or the data protection conditions, the usage agreement is not concluded.</p>
+<p>With the complete registration (surname, first name, e-mail address, telephone number, and password) in addition to the consent to these General Terms and Conditions of Business and the data protection conditions, the user account (referred to as a member account on the website) is set up and subsequently an agreement is concluded between the user and 9flats for the usage of the online platform. Should the user not accept the General Terms and Conditions of Business and/or the data protection conditions, the usage agreement is not concluded.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">2.3</span>
-<p>As a text of the contract we save the booking details (in the languages German, English, Spanish, Italian, French, Portuguese and Turkish) and the General Terms of Conditions of Business. After completed booking these contract details can be accessed within the statutory retention periods as far as there is proof of a legitimate interest.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">2.4</span>
 <p>The user undertakes to provide truthful, current and complete information during registration.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">2.5</span>
+<span class="number">2.4</span>
 <p>The user undertakes to keep the data up-to-date and correct at all times.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">2.6</span>
+<span class="number">2.5</span>
 <p>The user undertakes not to disclose the selected password.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">2.7</span>
-<p>The user undertakes to immediately inform 9flats if there is reason to suspect unauthorised usage of his/her user account.</p>
+<span class="number">2.6</span>
+<p>The user undertakes to immediately inform 9flats if there is reason to suspect unauthorized usage of his/her user account.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">2.8</span>
+<span class="number">2.7</span>
 <p>Currently the registration for usage of the online platform is free of charge for users.</p>
 </div>
 <div class="paragraph_head">
 <span class="number">3</span>
-<p>General services of 9flats<br>
-(Functions of the platform, entry into force of contracts between the users, payment modalities)</p>
+<p>General services of 9flats (Functions of the platform, entry into force of contracts between the users, payment modalities)</p>
 </div>
 <div class="paragraph_body">
 <span class="number">3.1</span>
-<p>9flats offers an online platform to registered users. On this platform, a user can firstly offer other users the usage of apartments, rooms or another kind of accommodation (hereinafter referred to as: accommodation) for a fee. Secondly, a user can also look for suitable accommodation on this online platform and make a booking query via the online platform. 9flats therefore provides the users with a marketplace on which guest and host can find each other.</p>
+<p>9flats offers an online platform to registered users. This platform enables users to search for tourist accommodations such as apartments, cottages and hotel rooms and other related third-party services, and to compare prices and inquire or book directly with third parties.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">3.2</span>
-<p>The provider of accommodation is hereinafter referred to as the host; the person searching for accommodation is referred to as the guest. The term “user” applies to both the host and the guest.</p>
+<p>It is expressly referred to the fact that 9flats does not offer any accommodation and is not a contracting partner to contracts which have solely been concluded between the users (guest and host). During the course of contract negotiations between users and third parties, 9flats does not submit any declarations of intent.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">3.3</span>
-<p>One explicitly makes reference to the fact that 9flats does not offer any accommodation and is not a contracting partner to contracts which have solely been concluded between the users (guest and host). During the course of contract negotiations between guest and host, 9flats does not submit any declarations of intent.</p>
+<p>9flats offers the users the option of creating a comprehensive personal profile. This, however, is not necessary. The online platform can be used solely under one first name in the public area.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">3.4</span>
-<p>9flats undertakes to provide services in a reliable and straightforward manner pursuant to Clause 8 (and/or 9) of this contract; 9flats acquires the claim from the host for the accommodation price directly after its incurrence and asserts this claim in its own name and for its own account towards the guest (cf. Clause 8).</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.5</span>
-<p>9flats offers each user the option of using the online platform both as a host and as a guest.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.6</span>
-<p>9flats offers users the technical possibility for them to publish content in word and images on the website themselves (descriptions of accommodation, ratings, etc., cf. Clause 3.13 and 4.1).</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.7</span>
-<p>9flats communicates binding booking enquiries via the online platform from guests to the hosts.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.8</span>
-<p>9flats communicates the acceptance of a binding booking enquiry from the host to the guest; subsequently the guest and host have concluded a valid contract with one another regarding the usage of the accommodation. In this case, 9flats sends an e-mail to host and guest in which the information provided by the contracting partners such as type of accommodation, length of stay and the prices are once again listed. It is not until this e-mail that further contact details of the contracting partners stored on the online platform are exchanged between the host and guest.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.9</span>
-<p>9flats offers some hosts the option of receiving direct bookings from guests. In this case, the booking of the accommodation is already legally binding with the receipt of the binding booking enquiry by the host. Direct bookings are clearly marked as such.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.10</span>
-<p>9flats offers the users the option of creating a comprehensive personal profile. This, however, is not necessary. The online platform can be used solely under one first name in the public area. Pursuant to Clause 3.9, (other) personal data are only exchanged between guest and host of 9flats only if a binding booking has been concluded between these parties.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.11</span>
-<p>In addition, 9flats offers the user a “credit account” which can be topped up with so called “credits” resulting from certain activities such as suggested friends registering, writing of a first rating for an accommodation or similar actions. These credits cannot be paid out, but they can be used for platform-internal payments of a booking via 9flats. The precise conditions how and for what value the credit account can be topped up, which are part of these General Terms and Conditions of Business, can be found <a href="http://www.9flats.com/credits">here</a> .</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.12</span>
-<p>In addition, 9flats offers users within the online platform a messaging system where they can communicate with one another like for instance in order to clarify any uncertainties in the run-up to booking queries, without being able to exchange the real contact details.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.13</span>
-<p>9flats also offers users a rating system on the online platform with which the users can rate each other. The provisions for the usage of this rating system are outlined under Clauses 11 and 12.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.14</span>
-<p>9flats offers hosts and guests an insurance. The 9flats.com insurance refers to the obligation pursuant to certain conditions to provide compensation for damage caused to the inventory of the rented accommodation. Detailed information can be found <a href="http://media.9flats.com/about/terms-and-conditions-insurance_EN.pdf">here</a> .</p>
-</div>
-<div class="paragraph_body">
-<span class="number">3.15</span>
 <p>The services of 9flats will be offered to the users subject to particular conditions. 9flats will make every effort to ensure that the services are accessible at all times. The usage options can be restricted or temporarily interrupted through maintenance work, further development or disruptions. As far as possible 9flats will inform users in good time of disruptions as those referred to as above.</p>
 </div>
 <div class="paragraph_head">
 <span class="number">4</span>
-<p>Special services provided to the host by 9flats<br>
-(listing of accommodation, cancellation policies, processing transactions, optional insurance cover)</p>
+<p>Use of the site</p>
 </div>
 <div class="paragraph_body">
 <span class="number">4.1</span>
-<p>9flats offers hosts the opportunity to place their accommodation on the online platform with a description, photos, videos, price(s), availability calendar and a personal user profile (accommodation profile).</p>
+<p>Use of the site as an information, search, and comparison portal</p>
 </div>
 <div class="paragraph_body">
 <span class="number">4.2</span>
-<p>9flats offers hosts the option of entering the accommodation at different prices (currently referred to as “General price” or “Seasonal price”) for certain periods and to indicate and charge additional fees such as, for instance, cleaning charges, fees for the use of a washing machine, etc.</p>
+<p>The user is able to use the website to search for accommodation and support services from third-parties based on self-selected parameters and to obtain further information on selected accommodation or other services, in particular, characteristics such as equipment, location, exterior, customer rating, price, availability etc. The user can compare selected accommodation options side by side. User-selected services may link to external third party sites when necessary to make direct inquiries or bookings. In these cases 9flats.com is responsible for the technical transmission of user submitted information to the external site.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">4.3</span>
-<p>9flats offers the host the option of setting cancellation conditions for their guests. The host may agree upon the cancellation policy with guests individually. However, 9flats also provides three different cancellation policies for guests (flexible, semi-flexible, strict) that hosts may elect to offer their guests. These “Cancellation Policies for Guests” can be consulted <a href="http://about.9flats.com/cancellation-policies">here</a>. Apart from that the agreement reached between the guest and host can only be rescinded if both parties agree to this rescission and the consent is declared at least in text form by corresponding e-mails.</p>
+<p>9flats is not involved in bookings made by the User with third parties and therefore does not store the respective agreements. It is strongly recommended that all users ensure the permanent storage of booking information and agreements made with third parties.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">4.4</span>
-<p>The listing of accommodation by the host does not constitute a legally binding offer. It merely gives guests the opportunity for them to make a legally binding offer. Only after an offer has been accepted by the host has a contract been concluded. This also applies to <a href="https://nineflats.zendesk.com/hc/en-gb/sections/200135387-Handling-instant-bookings">‘instant bookings’</a>.</p>
-<p>All booking requests (binding offers) made by the guest are forwarded to the host by 9flats. However, booking requests will be automatically deleted from the host’s system in the event another host accepts a guest’s booking request beforehand. Once a host accepts a guest’s booking request, all other booking requests are deemed invalid. In this respect the booking request is only insofar as binding until one of the requested hosts accepts.</p>
-<p>Booking requests that are not accepted by a host within 24 working hours shall be declined automatically by the system.  The host has to reply to a booking request within 24 hours or else it is automatically rejected by the system. When a host accepts a booking request, both the guest and the host each receive a confirmation-email.</p>
+<p>In individual cases and upon request, the 9flats team will, if necessary, support the user by phone or e-mail in the use of the search function. However, this is not an entitlement of the user.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">4.5</span>
-<p>9flats also allows the host to cancel the booking; the details of this are regulated in the following paragraphs.</p>
+<p>After selecting a service and any additional options, the user is redirected to the website of the service provider. Reservations for all services are therefore made on the respective websites of the partners. 9flats does not collect any reservations in the name and on behalf of any person. The booking contract(s) is exclusively concluded between the third party (9flats’ partner(s)) and the user. 9flats is not part of this contractual relationship and does not in itself provide accommodation, travel, transport services to the user or any other type of service related and/or connected to travel. For the correct provision of a service, regardless of its legal nature, only the third party provider is liable to the user. All claims arising from the booking made by the user are directly between the third party as contracting party and the user and cannot be the subject of claims against 9flats. This also applies to existing legal rights or other rights granted voluntarily by third parties, such as rights of withdrawal and termination or other statements concerning the contractual relationship or the service relationship of the user with the third party.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">4.5.1</span>
-<p>When a Host cancel a confirmed booking, 9flats may apply penalties or consequences to him or his listing, including publishing an automated review on his listing indicating that a reservation was cancelled, keeping the calendar for the listing unavailable or blocked for the dates of the cancelled booking. A cancellation fee is always imposed. In case the fee will be not paid as requested, it will be withheld from host future payouts.<br>
-The cancellation is possible by way of the “Cancel booking” button.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">4.5.2</span>
-<p>A prompt detailing the consequences of the cancellation appears and the host has to declare that he agrees with the cancellation conditions by opting in.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">4.5.3</span>
-<p>By clicking the button “Cancel now”, the cancellation is effected.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">4.5.4</span>
-<p>The host has to pay a cancellation fee of 15% of the total price, but no less than <span class="caps">EUR</span> 50.00, to 9flats for every cancellation. The host will be explicitly reminded of this cancellation fee during the cancellation process.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">4.5.5</span>
-<p>The duty of the host to fulfill any potential claims for damages from guests is not affected.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">4.5.6</span>
-<p>In particular, the host undertakes to cover the price difference in case the guest cannot find accommodation of acceptable value for the booking period and has to switch to a more expensive accommodation or a hotel room. If the price of the alternative accommodation or the hotel room exceeds the total price of the cancelled accommodation by more than 25%, the guest needs to furnish prima facie evidence that a stay at a less expensive alternative was impossible.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">4.5.7</span>
-<p>The host cannot claim an asking price as stipulated in paragraph 8.3.1 for the cancelled booking.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">4.5.8</span>
-<p>9flats will lock the calendar of the accommodation for the period of the cancelled booking to prevent booking requests and possible further cancellations resulting from it.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">4.5.9</span>
-<p>If the guest does not encounter the host on the day of arrival at the agreed upon time and place and the host cannot be reached within an acceptable period of time, this shall also be deemed a cancellation by the host.</p>
+<span class="number">4.6</span>
+<p>Unless 9flats is not subject to a corresponding contractual obligation by express agreement with the user, 9flats does not guarantee the realization of the third-party contract resulting from the booking request made by the user.</p>
 </div>
 <div class="paragraph_head">
 <span class="number">5</span>
-<p>Special services of 9flats provided to the guests (Search function, handling, complaint option)</p>
+<p>Payments</p>
 </div>
 <div class="paragraph_body">
 <span class="number">5.1</span>
-<p>9flats offers guests an online platform in the form of a marketplace to search for possible accommodation.</p>
+<p>Payments for the arranged services can take place in any form accepted by the third party. The individual payment (and any applicable charges to the user for the choice of payment method, any required prepayment, payment dates and other information) are displayed to the user on the partner website during the booking process. Depending on the selected service, payment is made to the respective third party or a service established by it to collect debts.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">5.2</span>
-<p>9flats offers guests with the online platform the option of placing up to three parallel booking enquiries for three different accommodation for one specified period. As soon as the booking enquiry is accepted by a host, the guest has concluded a valid contract with the latter; the further booking enquiries are forwarded automatically by 9flats immediately and marked as declined so that multiple bookings are excluded at the same time automatically the other booking enquiries are with immediate effect noted by 9flats as rejected which excludes multiple bookings.</p>
+<p>9flats is not part of any payment or transaction service between the user and the third party which offers the requested service.</p>
 </div>
 <div class="paragraph_body">
 <span class="number">5.3</span>
-<p>At its own discretion, 9flats has the option of issuing vouchers in favour of the hosts within the scope of special promotions. 9flats is not obligated to do this; the guest does not have any entitlement to any kind of special promotions.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">5.3.1</span>
-<p>At the discretion of 9flats, these vouchers can have a discount for a certain amount or a discount of a percentage share of an accommodation price.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">5.3.2</span>
-<p>In the event of a special promotion, the guest receives a voucher which indicates the corresponding discount and includes a so-called voucher code. The guest must indicate this voucher code to redeem the discount when booking.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">5.4</span>
-<p>Furthermore, 9flats also offers the option of contacting 9flats with a complaint if there are any problems with the accommodation and/or the host within at the latest 24 hours after the check-in. The complaint must at least be made in text form (e-mail). In this compliant, the guest must specifically indicate the grounds for the complaint and attach evidences (such as photos, videos, messages and so on). In such a case, 9flats will attempt to bring about an amicable solution. An amicable solution is deemed to have been reached when the accommodation parties (host and guest) have submitted two corresponding declarations of intent to this effect from which it is clearly evident that both parties are in agreement with the formulated solution; the compliant declarations of will must at least have been submitted in text form (e-mail). The further procedure is based on Clause 9.2.</p>
+<p>9flats does not cash any payment on behalf of partners and/or third party. Any complaint or claim related to the payment of a service must be addressed to the party who sold that service</p>
 </div>
 <div class="paragraph_head">
 <span class="number">6</span>
-<p>Services and other obligations of the host</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.1</span>
-<p>The host undertakes to handle the payment pursuant to Clauses 8 and 9.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.2</span>
-<p>The host undertakes to make truthful and correct statements with regard to their contact details, including the data for payment handling.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.3</span>
-<p>The host undertakes to describe the offering of the respective accommodation in word and if applicable in photos correctly and completely in order to provide guests with a true impression of the accommodation and to make it possible for them to assess the offering. The offering includes all amenities and features of the accommodation that are of fundamental importance for the guest’s decision, in particular also defects or other disadvantages of the accommodation that have not only an insignificant affect on the value of the accommodation.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.4</span>
-<p>The host undertakes to indicate the complete price of the respective offering including any <span class="caps">VAT</span> incurred as well as other price components (such as e.g. cleaning fees) on the accommodation profile. However, the host undertakes to indicate the other price components such as cleaning fees etc. separately.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.5</span>
-<p>The host undertakes to offer the guest one of the cancellation options. The various cancellation conditions for guests can be viewed <a href="http://about.9flats.com/terms-and-conditions">here</a>. The cancellation conditions become part of the contract which is concluded between the host and guest.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.6</span>
-<p>The host undertakes to state on the accommodation profile if any rooms and/or items in the accommodation are not included in a right of usage and/or what other rules of conduct are to be part of the contract (“house rules”).</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.7</span>
-<p>The host undertakes to accept or decline binding booking enquiries from guests within 24 hours.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.8</span>
-<p>In the case of a direct booking being offered, the host undertakes to recognise the direct binding nature of this and the resulting direct conclusion of a contract. The host is not obligated to offer direct booking options.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.9</span>
-<p>The host undertakes not to charge the guest any other fees, commissions or other payments beyond total price indicated on the accommodation profile.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.10</span>
-<p>The host undertakes to issue the guest with an orderly invoice.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">6.11</span>
-<p>The host undertakes to satisfy themselves of the identity of the contracting partner as far as this is necessary.9flats can only carry out a very limited check on the data provided at the time of registration as the identification of persons via the internet is somewhat restricted.  Consequently, despite all efforts, it is impossible to exclude that false data have been provided for a user account.</p>
-</div>
-<div class="paragraph_head">
-<span class="number">7</span>
-<p>Services and other obligations of the guest</p>
-</div>
-<div class="paragraph_body">
-<span class="number">7.1</span>
-<p>The guest undertakes to handle the payment pursuant to Clauses 8 and 9.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">7.2</span>
-<p>The guest undertakes to make truthful and correct statements with regard to his or her contact details, including the data for payment handling.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">7.3</span>
-<p>The guest undertakes to recognize the cancellation conditions offered by the host to guest as part of the agreement between the host and guest.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">7.4</span>
-<p>The guest undertakes to accept the cancellation conditions for host as stipulated in paragraphs 4.5 and 9.2 also as part of the contract between host and guest.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">7.5</span>
-<p>The guest undertakes to recognise the “house rules” pursuant to Clause 6.6 as part of the contractual conditions between the host and guest.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">7.6</span>
-<p>The guest undertakes to satisfy themselves of the identity of the contracting partner as far as this is necessary. 9flats can only carry out a very limited check on the data provided at the time of registration as the identification of persons via the internet is somewhat restricted. Consequently, despite all efforts it is impossible to exclude that false data have been provided for a user account.</p>
-</div>
-<div class="paragraph_head">
-<span class="number">8</span>
-<p>Payment handling (remuneration, purchase of accounts receivable, payment flow)</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.1</span>
-<p>With the acceptance of the binding booking enquiry or in the event of a direct booking with the receipt of the booking by the host, an effective contract is concluded between the host and guest regarding the host’s obligation to make an accommodation available for the guest’s use for a certain period of time and the guest’s obligation to pay a certain fee to the host for this. The payable amount results from the price agreed between the host and guest for the usage of the accommodation (accommodation price), and any other remuneration agreed such as cleaning fees or fees for washing machines, which is indicated in the accommodation profile.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.2</span>
-<p>With the conclusion of the binding contract, the host is entitled to claim the accommodation price from the guest (receivable); the receivable becomes due immediately.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.3</span>
-<p>Host and 9flats agree that the host in pursuant to 8.1 and 8.2 sells the created receivable following its conclusion to 9flats and by means of assignment transfers it to the latter.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.3.1</span>
-<p>9flats undertakes to pay to the host as the purchase price for the receivable the amount of the accommodation price minus a commission (receivable price). The commission is normally 15% of the accommodation price; 9flats, however, reserves the right to change this commission at times in favour of the host as part of special promotions and discounts. The host will be informed about possible aforementioned discounts and special promotions on the online platform via the user account and where necessary, also informed by e-mail.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.3.2</span>
-<p>The parties are in agreement that the receivable will not become due until 24 hours after the first working day after the guest has checked into the accommodation. For bookings of more than 10 days 9flats is entitled to pay the receivable price in reasonable instalments.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.4</span>
-<p>The guest undertakes to immediately settle the due receivable with 9flats or to make it possible for 9flats to collect the receivable.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.5</span>
-<p>9flats shall collect the receivable in its own name and for its own account.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.6</span>
-<p>9flats shall bears the risk of the uncollectibility of the receivable from the guest. 9flats must in case of doubt commence legal proceedings to enforce the claim against the guest.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.7</span>
-<p>If, however, it is recognised in the court proceedings between 9flats and the guest that the assigned receivable (accommodation price) did not exist with regard to its merits or amount, 9flats can also claim the difference between the original amount of the receivable and the amount of the receivable recognised in court from the host as damages, as well as the court and lawyer costs necessary to gain the right in this case. Ultimately, it is the responsibility of the host to ensure that the assigned receivable exists in the scope envisaged pursuant to the original contract for the purchase of receivables pursuant to Clause 8.3.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.8</span>
-<p>The host undertakes to truthfully and completely provide 9flats with all required information that is necessary to commence legal proceedings in order to make a claim against the guest. 9flats reserves the right to involve the host in the legal proceedings within the scope of possibilities offered by  the Code of Civil Procedure.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.9</span>
-<p>In the event of a non-redemption or objection of a direct debit, the user (guest or host) irrevocably gives permission to the bank to release their full name and address at the request of 9flats <span class="caps">PTE</span>. Ltd.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.9.1</span>
-<p>In case a bank transfer is returned which the guest is at fault for or a respective failed credit card booking (because of a lack of sufficient funds) then 9flats will burden the guest with the costs for the charge back in form of the actually calculated fees of the respective financial institute. The guest is though free to prove that 9flats has suffered no or a much smaller damage. As long as no complete payment has been received within 10 days after receipt of the booking confirmation then 9flats is in no way obliged to maintain the existing booking, meaning that the booking will be cancelled according to the cancellation policies at the expense of the guest. In any case the guest is obliged to pay the agreed amounts for the booked services. Part payments are not permitted.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">8.10</span>
-<p>9flats reserves the right to additionally bill the guest for an appropriate extent for any administrative costs which might be incurred if the guest chooses the payment options credit card, debit card or PayPal. Such costs are displayed by us in detail before conclusion of the booking. The guest has the right to prove that 9flats has suffered no or much lower costs than those which have been displayed. All other payment options offered by 9flats are free of charge for the guest.</p>
-</div>
-<div class="paragraph_head">
-<span class="number">9</span>
-<p>Payment handling in the event of cancellation and complaint</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.1</span>
-<p>In the event of a cancellation, the guest and host have rescinded the agreement regarding the accommodation. Depending on the beforehand agreed cancellation conditions this means that the host’s entitlement to payment of the accommodation price has lapsed in part or completely.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.1.1</span>
-<p>The guest is also able to exercise this objection against 9flats as new creditor of the claim. 9flats is subsequently obliged to reimburse the guest the respective cancellation amount pursuant to the cancellation conditions agreed upon between the guest and host.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.1.2</span>
-<p>As a consequence of the cancellation the entitlement to the receivable assigned to 9flats (paid booking sum on conclusion of the booking) does not exist in the scope as had been presumed under the original receivable purchase contract pursuant to Clause 8.3. In any case a processing fee pursuant to Clause 9.1.3 which amounts to 15% is due for the cancellation and subsequently retained by 9flats. The refund for the guest (minus the stated processing fee) and the payment amount to the host depends on the cancellation conditions that apply to the booking.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.1.3</span>
-<p>Pursuant to the cancellation conditions for every type of cancellation made by a guest a processing fee amounting to 15% of the originally agreed accommodation price has to be paid by them.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.1.4</span>
-<p>Should the host want to cancel a confirmed booking and 9flats after due diligence come to the conclusion that this booking is objectively impossible and the host is responsible for the impossibility then 9flats will accept the host’s cancellation. Pursuant to the cancellation conditions the guest is fully refunded all incurred costs. For hosts specific provisions apply which can be viewed in the cancellation conditions. In this case both guest and host declare this contract to be dissolved.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.2</span>
-<p>In case of a cancellation by the host, the full amount agreed upon for the booking and paid in advance is reimbursed. For the host, paragraph 4.5 applies.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.3</span>
-<p>If the guest should submit a complaint to 9flats pursuant to Clause 5.3 at least in text form within 24 hours after check-in claiming that there are defects in the accommodation then 9flats will check these objections. 9flats will attempt to bring about an amicable solution.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.3.1</span>
-<p>The parties are in agreement that with an amicable solution pursuant to Clause 5.4 the price of the accommodation can be subsequently reduced.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.3.2</span>
-<p>The parties are in agreement that with an amicable price reduction the assigned receivable is regarded as not existing in its full amount as it had been initially.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.3.3</span>
-<p>The parties are in agreement that, in the event of an amicable solution and price reduction, 9flats will pay the guest the difference between the original accommodation price and the subsequent determined price by the guest and host from the resulting established defect.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.3.4</span>
-<p>The parties are in agreement that the host will pay the part of the claim that has expired as a result of the amicable reduction in price (difference amount pursuant to Clause 9.2.3) as compensation to 9flats.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.3.5</span>
-<p>If no amicable solution can be found within two weeks after the guest has checked out, 9flats commence legal proceedings in order to claim the full amount. The host’s obligation to co-operate pursuant to Clause 8.8 applies accordingly.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">9.4</span>
-<p>Should it not be possible to find an amicable solution within 14 days then 9flats takes a decision based on the information that is available to them. 9flats is obliged to equally consider the interests of both parties. The parties undertake to accept this decision.</p>
-</div>
-<div class="paragraph_head">
-<span class="number">10</span>
-<p>Cases of suspected fraud</p>
-</div>
-<div class="paragraph_body">
-<span class="number">10.1</span>
-<p>9flats reserves the right to evaluate exchanged messages between the guest and host to the effect whether the host and guest are collusively cooperating to the detriment of 9flats by jointly concluding contracts for the use of accommodation without actually having any intention to use the accommodation but more to fraudulently act against 9flats or to possibly commit a criminal offence in accordance with the criminal code. Should this suspicion be substantiated through the evaluation then the entire communication of the concerned guest or host will be analysed. In this respect the guest and host consent to the use of the personal data for the stated purposes. In both cases the evaluations are only used to prevent fraud as well as if necessary for criminal prosecution and with the ending of the purpose immediately deleted. Furthermore all parties of this contract agree that the sold receivable does not exist until then and the agreed purchase price (accommodation price on conclusion of the booking minus commission) subsequently not paid to the host until the guest and/or host has been exonerated in respect to the suspicion of fraud.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">10.2</span>
-<p>In cases of substantiated suspicion, 9flats reserves the right to report the suspected persons to the police or the state prosecutor.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">10.3</span>
-<p>9flats reserves the right to repay amounts already paid by the guest, minus a fee for the processing in cases of the attempted fraud.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">10.4</span>
-<p>In cases of bookings paid with stolen credit card, 9flats reserves the right to cancel the booking at anytime before the supposed check-in. Both host and guest will receive an email about the cancellation. 9flats will refund the credit card holder. Regardless the cancellation policy which rules the cancelled booking, no host payout is due.</p>
-</div>
-<div class="paragraph_head">
-<span class="number">11</span>
-<p>Rating system</p>
-</div>
-<div class="paragraph_body">
-<span class="number">11.1</span>
-<p>9flats enables members after fulfilment of the contract by using a rating system to rate each other and to rate the content published by other members as to whether it is helpful, relevant or useful.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">11.2</span>
-<p>Members are obliged to only make truthful statements in the ratings that are given and to comply with the statutory provisions. The ratings must be  objective are not allowed to include any abusive criticism.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">11.3</span>
-<p>9flats does not verify the ratings.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">11.4</span>
-<p>It is not permitted to use the rating system that would be contrary to its purpose. In particular, it is forbidden<br>
-- to submit incorrect ratings,<br>
-- to submit ratings about oneself or to have such a rating be submitted by a third party or<br>
-- to include circumstances in ratings that are not associated with the conclusion or fulfilment of the contract.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">11.5</span>
-<p>9flats reserves the right, when it becomes aware of this (information from third parties) to completely or partly delete such ratings in case they include content which is improper according to 11.4 or is prohibited content or activity pursuant to 12.2.</p>
-</div>
-<div class="paragraph_head">
-<span class="number">12</span>
 <p>Content: rights, granting of rights, forbidden content, indemnity</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.1</span>
-<p>Description of accommodation, ratings, profile images</p>
+<span class="number">6.1</span>
+<p>With the making public of a profile picture on the online platform of 9flats (upload and release of pictures, publication of texts, etc.), the user grants 9flats the free, non- exclusive right for an unlimited time and area to use this work (in its entirety or part) worldwide to provide the services offered by 9flats on the Internet or mobile applications (right to make publicly accessible). The profile picture of the user may not be used for advertising, unless the user has explicitly agreed to this at least in text form.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.1.1</span>
-<p>The works protected by copyright that are used by the hosts for the description of the accommodation, in particular texts and photographs as well as graphics and videos (descriptions of accommodation) as well as the texts used by the users for ratings and profile pictures used by the users must not infringe the rights of third parties, in particular in respect to  copyrights, trademarks and personal rights.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">12.1.2</span>
-<p>The users give assurance that they have the necessary rights to the texts and photographs mentioned under Clause 12.1.1 and, if applicable, graphics or videos or other works protected by law and/or trademarks and/or consents with regard to personal rights.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">12.1.3</span>
-<p>By making an accommodation description or a rating publicly accessible on the online platform of 9flats (entry, upload and thus release of texts, photographs, videos, graphics, etc.) the user grants 9flats the free, non-exclusive right to use for an indefinite time and area this work (in its entirety or in part) worldwide for the provision of the services offered by 9flats or to advertise this service on the Internet or a mobile application), and to use this work worldwide for the provision of the services offered by 9flats or to advertise this service on posters, in print media of any kind, television and radio advertising (right of copying, dissemination, broadcasting, public rendition) and the right to process or redesign the works and the right to transfer these rights to third parties if this is necessary to meet the required purpose (provision of the service offered by 9flats or to advertise the service).</p>
-</div>
-<div class="paragraph_body">
-<span class="number">12.1.4</span>
-<p>With the making public of a profile picture on the online platform of 9flats (upload and release of pictures, publication of texts, etc.), the user grants 9flats the free, non-exclusive right for an unlimited time and area to use this work (in its entirety or part) worldwide to provide the services offered by 9flats on the Internet or mobile applications (right to make publicly accessible). Pursuant to Clause 12.1.3, the profile picture of the user may not be used for advertising, unless the user has explicitly agreed to this at least in text form.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">12.1.5</span>
+<span class="number">6.2</span>
 <p>9flats does not check uploads made by the users pursuant to the aforementioned clauses with regard to the legality of the content.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.1.6</span>
-<p>9flats reserves the right when it becomes aware of this (information from third parties) to completely or partly delete content if the content is unlawful or is to be seen as forbidden content or forbidden activity pursuant to 12.2.</p>
+<span class="number">6.3</span>
+<p>9flats reserves the right when it becomes aware of this (information from third parties) to completely or partly delete content if the content is unlawful or is to be seen as forbidden content or forbidden activity pursuant to 6.4</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.2</span>
+<span class="number">6.4</span>
 <p>Other forbidden content and activities</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.2.1</span>
-<p>It is the responsibility of users to ensure that their conduct on the online platform complies with the valid laws and these General Terms and Conditions. The following content and activities outlined below are those that breach applicable law, which pursuant to Clause 12.1 are not allowed to be published or undertaken via the online platform or otherwise in the interest of 9flats not via their services and as a consequence are forbidden on the online platform and its services:<br>
-- insults, false accusations, abusive criticism, other defamatory statements,<br>
-- statements and images relevant under criminal law (such as National Socialist comments and images, those glorifying violence and war, racial abuse, children or violent pornography or calls to commit criminal offences),<br>
-- any sexual content and depictions or those that are a danger to children and young people;<br>
-- copying, distributing and making works protected by copyright publicly accessible if the user does not have the corresponding usage rights,<br>
-- publication of images on which persons can be recognised who have not given their consent to publication,<br>
-- de-anonymization of other users<br>
-- Usage of the platform for own commercial purposes that go beyond the actual purposes of this platform unless 9flats has agreed to such a commercial usage in writing beforehand,<br>
-- publication of personal data of third parties,<br>
-- usage of the platform for (solely) political or religious activity,<br>
-- sending of junk mails, chain letters or unrequested mass mails, instant messages, spimming or spamming,<br>
-- disruption, interruption or excessive use of the services of 9flats,<br>
-- the use of the account, user name or password of another member, use of mechanisms, software or other scripts in conjunction with the online platform that could impair the faultless and orderly function of the platform and the respective website,<br>
-- blocking, overwriting or modification of content generated by 9flats,<br>
-- usage of the services of 9flats in a way that breaches the valid laws and regulations in another way.</p>
+<span class="number">6.5</span>
+<p>It is the responsibility of users to ensure that their conduct on the online platform complies with the valid laws and these General Terms and Conditions. The following content and activities outlined below are those that breach applicable law, which pursuant to Clause 6.1 are not allowed to be published or undertaken via the online platform or otherwise in the interest of 9flats not via their services and as a consequence are forbidden on the online platform and its services: – insults, false accusations, abusive criticism, other defamatory statements, – statements and images relevant under criminal law (such as National Socialist comments and images, those glorifying violence and war, racial abuse, children or violent pornography or calls to commit criminal offences), – any sexual content and depictions or those that are a danger to children and young people; – copying, distributing and making works protected by copyright publicly accessible if the user does not have the corresponding usage rights, – publication of images on which persons can be recognized who have not given their consent to publication, – de-anonymization of other users – Usage of the platform for own commercial purposes that go beyond the actual purposes of this platform unless 9flats has agreed to such a commercial usage in writing beforehand, – publication of personal data of third parties, – usage of the platform for (solely) political or religious activity, – sending of junk mails, chain letters or unrequested mass mails, instant messages, spimming or spamming, – disruption, interruption or excessive use of the services of 9flats, – the use of the account, user name or password of another member, use of mechanisms, software or other scripts in conjunction with the online platform that could impair the faultless and orderly function of the platform and the respective website, – blocking, overwriting or modification of content generated by 9flats, – usage of the services of 9flats in a way that breaches the valid laws and regulations in another way.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.2.2</span>
-<p>The examples included in the list are not exhaustive. The consequences of breaches of statutory regulations, the rights of third parties or these General Terms and Conditions of Business is regulated in the Clauses 12.3 (indemnity), 13 (Deletion of content, blocking of accounts) and 14 (Liability of the user).</p>
+<span class="number">6.6</span>
+<p>The examples included in the list are not exhaustive. The consequences of breaches of statutory regulations, the rights of third parties or these General Terms and Conditions of Business is regulated in the Clauses 6.7 (indemnity), 7 (Deletion of content, blocking of accounts) and 8 (Liability of the user).</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.3</span>
+<span class="number">6.7</span>
 <p>Indemnity</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.3.1</span>
-<p>The user shall indemnify 9flats from all claims that other users or third parties file against 9flats due to the breach of their rights by the offers and content entered by the user or due to other usage of the website, including ratings submitted by the member.</p>
+<span class="number">6.7.1</span>
+<p>The user shall indemnify 9flats from all claims that other users or third parties file against 9flats due to the breach of their rights by the offers and content entered by the user or due to other usage of the website.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.3.2</span>
+<span class="number">6.7.2</span>
 <p>The user also assumes the necessary cost of legal counsel (attorney and court costs) here of 9flats.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">12.3.3</span>
-<p>In addition, the user undertakes to provide 9flats, in the event of a claim being filed by third parties, with all information in a truthful and complete manner that is necessary to verify the claim and mount an appropriate defence.</p>
+<span class="number">6.7.3</span>
+<p>In addition, the user undertakes to provide 9flats, in the event of a claim being filed by third parties, with all information in a truthful and complete manner that is necessary to verify the claim and mount an appropriate defense.</p>
 </div>
 <div class="paragraph_head">
-<span class="number">13</span>
+<span class="number">7</span>
 <p>Deletion of content, restriction and blocking of accounts</p>
 </div>
 <div class="paragraph_body">
-<span class="number">13.1</span>
-<p>In the event that a user breaches statutory regulations, rights of third parties or the General Terms and Conditions of Business, 9flats reserves the right, subject to termination without notice,<br>
-- warn the member,<br>
-- delete offers or other content of this member,<br>
-- restrict the usage of the platform for the user,<br>
-- temporarily or permanently exclude the use of the platform (blocking),<br>
-- initiate other legal steps (such as filing criminal charges)</p>
+<span class="number">7.1</span>
+<p>In the event that a user breaches statutory regulations, rights of third parties or the General Terms and Conditions of Business, 9flats reserves the right, subject to termination without notice, – warn the member, – delete offers or other content of this member, – restrict the usage of the platform for the user, – temporarily or permanently exclude the use of the platform (blocking), – initiate other legal steps (such as filing criminal charges)</p>
 </div>
 <div class="paragraph_body">
-<span class="number">13.2</span>
+<span class="number">7.2</span>
 <p>These measures are, as far as they are required by law, at the discretion of 9flats. However, 9flats will take into account the legitimate interests of the user as well as all circumstances relating to the breach, particularly the degree of culpability.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">13.3</span>
+<span class="number">7.3</span>
 <p>As soon as a user has been blocked, this member is not permitted to register with another user account or use the services via another user account.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">13.4</span>
+<span class="number">7.4</span>
 <p>Already concluded usage agreements between users generally remain unaffected from this restriction or blocking of the user.</p>
 </div>
 <div class="paragraph_head">
-<span class="number">14</span>
+<span class="number">8</span>
 <p>Liability of the user</p>
 </div>
 <div class="paragraph_body">
-<span class="number">14.1</span>
+<span class="number">8.1</span>
 <p>The user is generally liable for all activities that are made through their user account, unless the user is not responsible for the misuse of their user account as there has not been a breach of their obligation of.</p>
 </div>
 <div class="paragraph_head">
-<span class="number">15</span>
+<span class="number">9</span>
 <p>Liability restrictions and warranty of 9flats</p>
 </div>
 <div class="paragraph_body">
-<span class="number">15.1</span>
+<span class="number">9.1</span>
 <p>9flats is liable without restriction for damage caused in a willful or grossly negligent manner by 9flats, its employees and vicarious agents and in the malicious concealment of deficits, with the explicit assumption of warranty and for damage arising from injury to life, body and health.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">15.2</span>
-<p>9flats is only liable for other damage if an obligation is breached whose fulfilment makes the orderly implementation of the contract possible in the first place and whose compliance the contracting partner may regularly trust in (cardinal obligation). The compensation obligation is restricted to damage that can be seen as typical of the contract and foreseeable. Any liability pursuant to the product liability law remains unaffected. A liability of 9flats that goes beyond the aforementioned is excluded.</p>
+<span class="number">9.2</span>
+<p>9flats is only liable for other damage if an obligation is breached whose fulfillment makes the orderly implementation of the contract possible in the first place and whose compliance the contracting partner may regularly trust in (cardinal obligation). The compensation obligation is restricted to damage that can be seen as typical of the contract and foreseeable. Any liability pursuant to the product liability law remains unaffected. A liability of 9flats that goes beyond the aforementioned is excluded.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">15.3</span>
-<p>As 9flats is not involved in the contractual relationship between the guest and host, 9flats cannot assume any warranty and/or liability for services from the agreement regarding the accommodation. However, 9flats must allow objections that the guest files with justification against the host to be made against itself with regard to the claim (cf. Clause 8, 9).</p>
+<span class="number">9.3</span>
+<p>As 9flats is not involved in the contractual relationship between the guest and host, 9flats cannot assume any warranty and/or liability for services from the agreement regarding the accommodation. However, 9flats must allow objections that the guest files with justification against the host to be made against itself with regard to the claim.</p>
 </div>
 <div class="paragraph_head">
-<span class="number">16</span>
+<span class="number">10</span>
 <p>Duration, termination</p>
 </div>
 <div class="paragraph_body">
-<span class="number">16.1</span>
+<span class="number">10.1</span>
 <p>The usage agreement runs for an indefinite period of time from the time of registration pursuant to Clause 2.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">16.2</span>
+<span class="number">10.2</span>
 <p>Users may terminate this usage agreement at any time.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">16.3</span>
-<p>9flats can terminate the usage agreement at any time with a period of notice of 14 days to the end of the month.</p>
+<span class="number">10.3</span>
+<p>9flats can terminate the usage agreement at any time without any notice.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">16.4</span>
-<p>In cases of doubt, however, the contractual relationship is not ended until the last necessary payment processing pursuant to Clauses 8 and 9 has been concluded.</p>
-</div>
-<div class="paragraph_body">
-<span class="number">16.5</span>
+<span class="number">10.4</span>
 <p>The right to block and to terminate the user account is not affected by this.</p>
 </div>
 <div class="paragraph_head">
-<span class="number">17</span>
+<span class="number">11</span>
 <p>Amendment of the conditions of usage</p>
 </div>
 <div class="paragraph_body">
-<span class="number">17.1</span>
+<span class="number">11.1</span>
 <p>9flats reserves the right to amend the General Terms and Conditions of Business with effect for the future in particular in the following cases:</p>
 </div>
 <div class="paragraph_body">
-<span class="number">17.1.1</span>
+<span class="number">11.1.1</span>
 <p>If and to the extent that the market situation has changed in the opinion of 9flats to a considerable extent from a calculative or technical perspective after the conclusion of the contract, 9flats reserves the right to amend the General Terms and Conditions of Business with regard to the amount of commission in a reasonable manner for the users; this consequently incorporates in particular possible, moderate price increases.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">17.1.2</span>
+<span class="number">11.1.2</span>
 <p>If 9flats would like to improve, extend or change for the benefit of the partners the offering and the services, 9flats reserves the right to change the General Terms and Conditions of Business.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">17.1.3</span>
+<span class="number">11.1.3</span>
 <p>If legislation or case law necessitate a change in the General Terms and Conditions of Business, 9flats reserves the right to make a change in the General Terms and Conditions of Business.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">17.2</span>
+<span class="number">11.2</span>
 <p>If the terms of use are changed, users will be informed about changes on the website and by e-mail.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">17.3</span>
+<span class="number">11.3</span>
 <p>When the user next logs in to his or her user account, he or she will be reminded of the change in the General Terms and Conditions of Business and asked to agree to the changes by opt-in.</p>
 </div>
 <div class="paragraph_body">
-<span class="number">17.4</span>
-<p>If the user does not accept the proposed changes within a period of two weeks starting from the date the user was informed about the changes to the terms of use as stipulated in paragraph 17.2, the contract shall be upheld without the proposed changes. 9flat’s right to terminate the contract shall not be affected by this.</p>
+<span class="number">11.4</span>
+<p>If the user does not accept the proposed changes within a period of two weeks starting from the date the user was informed about the changes to the terms of use, the contract shall be upheld without the proposed changes. 9flats’ right to terminate the contract shall not be affected by this.</p>
 </div>
 <div class="paragraph_head">
-<span class="number">18</span>
+<span class="number">12</span>
 <p>Final provisions</p>
 </div>
 <div class="paragraph_body">
-<span class="number">18.1</span>
+<span class="number">12.1</span>
 <p>The law of the Republic of Singapore applies, with the exclusion of the United Nations Convention on Contracts for the International Sale of Goods (<span class="caps">CISG</span>).</p>
 </div>
 <div class="paragraph_body">
-<span class="number">18.2</span>
-<p>If the user is a business person, legal entity of public law or special fund under public law the exclusive place of jurisdiction for any disputes arising from this contract with 9flats is Singapore. The same applies if the user has no general place of jurisdiction in Singapore or residence or the habitual residence is not known at the time of the commencement of proceedings. The text of all provisions is subject to Singapore law and should be interpreted in accordance with Singapore understanding of law. The provided version in all languages serves the purpose of information and is not part of the legal transaction.</p>
+<span class="number">12.2</span>
+<p>If the user is a business person, legal entity of public law or special fund under public law the exclusive place of jurisdiction for any disputes arising from this contract with 9flats is Singapore. The same applies if the user has no general place of jurisdiction in Singapore or residence or the habitual residence is not known at the time of the commencement of proceedings. The text of all provisions is subject to Singapore law and should be interpreted in accordance with Singapore understanding of law. The provided version in all languages serves the purpose of information and is not part of the legal transaction. In the event of any discrepancy between the English version and the foreign language version, the English version shall prevail</p>
 </div>
 <div class="paragraph_body">
-<span class="number">18.3</span>
+<span class="number">12.3</span>
 <p>If individual provisions of the agreement with the user, including this provision, should be or become invalid in their entirety or in part, this shall not affect the validity of the remaining provisions. The same applies in the event of a lacuna.</p>
 </div>
 
@@ -992,32 +616,23 @@ The cancellation is possible by way of the “Cancel booking” button.</p>
     <p>Dear 9flats.com user,<br>
 We know that data protection conditions are not usually particularly exciting to read. Nevertheless, in your own interest, you should read the provisions below carefully. After all, it is about what we are allowed to do with your data.</p>
 <p class="paragraph_head">Data protection provisions of 9flats.com</p>
-<p class="paragraph_body">The protection of your data is important to us. After all, you should be able to enjoy using 9flats.com (9flats.com  <span class="caps">PTE</span>  Limited, 111 North Bridge Road # 08-19 Peninsula Plaza Singapore 179098). This is why we inform you below about how we collect data and handle them. When you register with 9flats.com, you declare by opt-in your consent to these data protection provisions – otherwise, we cannot unfortunately offer you the full usage of our platform. If you use this website, various pieces of personal data will be collected. Personal information is any data with which you could be personally identified. This privacy policy explains what information we collect and what we use it for. It also explains how and for what purpose this happens. Please note that data transmitted via the internet (e.g. via email communication) may be subject to security breaches. Complete protection of your data from third-party access is not possible.</p>
+<p class="paragraph_body">The protection of your data is important to us. After all, you should be able to enjoy using 9flats.com (9flats.com PTELimited, 111 North Bridge Road # 08-19 Peninsula Plaza Singapore 179098). This is why we inform you below about how we collect data and handle them. When you register with 9flats.com, you declare by opt-in your consent to these data protection provisions – otherwise, we cannot unfortunately offer you the full usage of our platform. If you use this website, various pieces of personal data will be collected. Personal information is any data with which you could be personally identified. This privacy policy explains what information we collect and what we use it for. It also explains how and for what purpose this happens. Please note that data transmitted via the internet (e.g. via email communication) may be subject to security breaches. Complete protection of your data from third-party access is not possible.</p>
 <p class="paragraph_head">1. Subject of the data protection</p>
 <p class="paragraph_body">Personal data are individual information about the personal or material circumstances of a defined or definable private individual. These include e.g. information such as full name, postal address, e-mail address and/or telephone number, and if applicable also usage data such as your IP address.</p>
 <p class="paragraph_head">1.1 Controller</p>
-<p class="paragraph_body">As defined in the Directive and the <span class="caps">GDPR</span>, processor of Personal Data is mission39 Service GmbH, Hongkongstr. 7, 20457 Hamburg, Germany on behalf of  9flats.com <span class="caps">PTE</span>. Ltd.<br>
-Controller is  9flats.com <span class="caps">PTE</span>. Ltd., 111 North Bridge Road, # 08-19 Peninsula Plaza Singapore 179098<br>
+<p class="paragraph_body">As defined in the Directive and the <span class="caps">GDPR</span>, processor of Personal Data is mission39 Service GmbH, Hongkongstr. 7, 20457 Hamburg, Germany on behalf of 9flats.com <span class="caps">PTE</span>. Ltd.<br>
+Controller is 9flats.com <span class="caps">PTE</span>. Ltd., 111 North Bridge Road, # 08-19 Peninsula Plaza Singapore 179098<br>
 mission39 Service GmbH adheres to the Directive of 1995 and the <span class="caps">GDPR</span> from May 25th 2018. Consequentially, mission39 Service GmbH processes all data provided by 9flats.com<br>
 All data collected by mission39 Service GmbH will be stored exclusively in secure hosting facilities provided by Amazon Web Service, by Hetzner Europe and By Google Services.<br>
 agreement. mission39 Service GmbH has a data processing agreement in place with its providers, ensuring compliance with the Directive. All hosting is performed in accordance with the highest security regulations. All transfers of data internally in the <span class="caps">EEA</span> is done in accordance with this data processing</p>
 <p class="paragraph_head">2. Scope of the data collection and storage</p>
 <p class="paragraph_body">As a fundamental principle, it is not necessary for you to enter personal details to use our online platform 9flats.com<br>
-If you, however, would like to use our service, you have to register with us and at least provide the following personal details:<br>
+If you, however, would like to register with us, you have at least provide the following personal details:<br>
 - your first and last name,<br>
 - your e-mail address,<br>
 - your town or city (place of the accommodation that you are offering)<br>
 Please read our further information under Clause 6 if you register with the Facebook sign-up.<br>
-If you actively use our platform by entering accommodation on it, we require the following additional data from you to handle the transaction:<br>
-- your PayPal account number or your bank details (account holder, account no. and sort code),<br>
-- your complete invoice address including any <span class="caps">VAT</span> ID no. in order to be able to involve you for our service.<br>
-If you actively use our platform by booking accommodation on it, we require the following additional data from you to handle the transaction:<br>
-- your credit card details or your bank account information if you cannot or do not want to pay by PayPal.<br>
-The aforementioned information, with the exception of your first name, is not all made public on the platform. The contact details (e-mail address and if applicable telephone number) of you as a guest and/or host are not exchanged between guest and host until after conclusion of a binding booking or if the guest and host have networked with each other via the 9flats.com friendship function. Beforehand, you can communicate with the guest and/or host via the platform-internal messaging system.<br>
-9flats.com reserves the right to randomly evaluate exchanged messages between the guest and host to the effect whether the host and guest are collusively cooperating to the detriment of 9flats.com by jointly concluding contracts for the use of accommodation without actually having any intention to use the accommodation but more to fraudulently act against 9flats.com or to possibly commit a criminal offence in accordance with the criminal code. Should this suspicion be substantiated through the random evaluation then the entire communication of the concerned guest or host will be analyzed. In this respect the guest and host consent to the use of the personal data for the stated purposes. In both cases the evaluations are only used to prevent fraud as well as if necessary for criminal prosecution and with the ending of the purpose immediately deleted.<br>
-Your bank, credit or PayPal data are not of course forwarded to the guest or the host.<br>
-In addition, you can supplement your profile with further personal details such as your telephone number, your professional situation, your Twitter account, your Facebook account, your date of birth and a few key words about yourself and a photo of yourself. You provide these data on a voluntary basis so that your guests or hosts can get a better picture of you, but you do not have to provide them. The only mandatory information that must be made public at all times is your first name.<br>
-In addition, you can use our platform by making friends with other users, for instance. We also save these connection data to enable us to assess the usage and success rates of our features. We would be pleased to also publish these connections but we will only do so if you explicitly consent to this.<br>
+In addition, you can supplement your profile with further personal details such as your telephone number, your professional situation, your Twitter account, your Facebook account, your date of birth and a few key words about yourself and a photo of yourself. You provide these data on a voluntary basis. The only mandatory information that must be made public at all times is your first name.<br>
 In addition, you can use our platform with the Facebook sign-up and/or log-in pursuant to Clause 6.2. We would also be pleased to publish your thus visible Facebook links or your other publicly accessible data (such as e.g. your hobbies or the university that you attended) in order to make 9flats.com more interactive and more communicative for you. However, we will only publish these data if you give us your explicit consent to do so.</p>
 <p class="paragraph_head">3. Appropriated data use</p>
 <p class="paragraph_body">We adhere to the principle of the appropriate use of data and we only ascertain, process and store your personal data for purposes for which you have provided them for, as stated under 2.or stated possible hereafter. We will process the data provided during registration only based on your consent per Art. 6 (1)(a) <span class="caps">GDPR</span> You have the option of subscribing/unsubscribing to the guest and/or host newsletter. In addition to this we use your provided email during registration for sending you own product information. At any time you are able to object to the mailing of such emails by clicking on the unsubscribe button within the email or via the settings in your member account. Your personal data is not passed on to third parties without express consent as far as it is not necessary in order to render services or perform contractual obligations. Furthermore, the transmission to authorized state institutions only is done within the scope of statutory duty of disclosure or if a judgment obliges a disclosure.</p>
@@ -1033,19 +648,12 @@ Contact form<br>
 Should you send us questions via the contact form, we will collect the data entered on the form, including the contact details you provide, to answer your question and any follow-up questions. We do not share this information without your permission.<br>
 We will, therefore, process any data you enter onto the contact form only with your consent per Art. 6 (1)(a) <span class="caps">GDPR</span>. You may revoke your consent at any time. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.<br>
 We will retain the data you provide on the contact form until you request its deletion, revoke your consent for its storage, or the purpose for its storage no longer pertains (e.g. after fulfilling your request). Any mandatory statutory provisions, especially those regarding mandatory data retention periods, remain unaffected by this provision.</p>
-<p class="paragraph_head">3.2 Leaving comments on this website</p>
-<p class="paragraph_body">If you use the comment function on this site, the time at which you created the comment and your email address will be stored along with your comment, as well as your username, unless you are posting anonymously.<br>
-How long comments are stored<br>
-The comments and the associated data (e.g. IP address) are stored and remain on our website until the content commented upon has been completely deleted or the comments are required to be removed for legal reasons (slander, etc.).<br>
-Legal basis<br>
-The comments are stored based on your consent per Art. 6 (1) (a) <span class="caps">GDPR</span>. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.</p>
 <p class="paragraph_head">4. Cookies, usage profiles</p>
 <p class="paragraph_body">In addition, we also use cookies. Cookies are small text files that can store a website such as ours on the computer of a website visitor, i.e. locally. With the help of this text file, the web server can save, for instance, preferences and settings on the user’s computer which are then automatically restored on the next visit. Or to put it another way, the cookies are used, among other things, to make the use of the site more user-friendly so that, for instance, you do not have to complete the full log-in mask when you visit again.<br>
 We use both persistent cookies and session cookies. Whereas persistent cookies remain on your computer for a longer period of time, session cookies are automatically deleted when the browser window is closed.<br>
 Using cookies, data are also collected and saved on this website from which pseudonymized usage profiles are created. The data is data such as the IP address, the browser type, the software used, that website previously called up by you (referrer <span class="caps">URL</span>), time and duration of the visit to a website. Incidentally, the IP address is immediately made unrecognizable by us; we can then still compare whether different users have the same IP address (we need this information to be able to prevent any misuse and fraud) but can no longer discern the origins of the address.<br>
-These usage profiles are used to analyze visitor behavior and are analyzed to design and improve the offering in line with requirements. The pseudonymized usage profiles are not merged with the personal data via the carrier of the pseudonym without the express consent of the person affected which must be given separately.<br>
-Cookies are also used to enable us to carry out our Premium partner program. Further information on the Premium Partner program can be found here; information on the tracking in this regard and on cookies can be found in particular in Clause 4.4.<br>
-You can prevent the installation of the cookies by preventing the installation of the cookies with a corresponding setting in your browser software ("private mode – can be found under Settings with most browsers); however, it should be pointed out that in this case you may not be able to use all functions of this website.<br>
+These usage profiles are used to analyze visitor behavior and are analyzed to design and improve the offering in line with requirements. The pseudonymized usage profiles are not merged with the personal data via the carrier of the pseudonym without the express consent of the person affected which must be given separately.</p>
+<p>You can prevent the installation of the cookies by preventing the installation of the cookies with a corresponding setting in your browser software ("private mode – can be found under Settings with most browsers); however, it should be pointed out that in this case you may not be able to use all functions of this website.<br>
 In addition, you can delete cookies that have already been set (also to be found under “Settings” in the browser).</p>
 <p class="paragraph_head">5. Google Analytics</p>
 <p class="paragraph_body">We also use Google Analytics, a web analysis service of Google Inc. (in future: Google) on this website. Google Analytics is a web analysis tool with the help of which we analyse the interaction of the visitors with our website and thus are able to improve our website for you further. Google Analytics also uses cookies, as they were in principle described in more detail under Clause 4. The information generated by the cookie regarding your use of this website are usually transferred to a server belonging to Google in the US and stored there. Google Analytics cookies are stored based on Art. 6 (1) (f) <span class="caps">GDPR</span>. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising. The information saved by the cookies includes, for instance, the time of the website visit, the frequency with which the visitor has called up the website, and from where the visitor has accessed the website. To determine the latter value, Google initially records the IP address of the user. However, we have activated the IP anonymisation on our website. Based on this, your IP address within Member States of the European Union or in other signatory states of the Treaty on the European Economic Area is shortened by Google before transmission to the US. Only in exceptional cases is the full IP address transferred to a server belonging to Google in the US and shortened there. On behalf of 9flats.com, Google will use the aforementioned information to analyse your usage of the website, to compile reports on the website activities and to provide further services associated with the usage of the website and the Internet towards the website operator. The IP address communicated under Google Analytics by your browser is not merged with other data of Google.<br>
@@ -1113,47 +721,15 @@ Post Affiliate Pro’s operating company is Quality Unit, <span class="caps">LLC
 Post Affiliate Pro sets a cookie on the information technology system of the person concerned. What cookies are, has already been explained above. Post Affiliate Pro’s tracking cookie does not store any personal information. Only the identification number of the affiliate, ie the partner mediating the potential customer, as well as the ordinal number of the visitor of a website and of the clicked advertising medium are stored. The purpose of storing this data is the processing of commission payments between a merchant and the affiliate, which are processed via the affiliate network, ie Post Affiliate Pro.<br>
 The affected person can prevent the setting of cookies through our website, as shown above, at any time by means of a corresponding setting of the Internet browser used and thus permanently contradict the setting of cookies. Such a setting of the Internet browser used would also prevent Post Affiliate Pro from setting a cookie on the information technology system of the person concerned. In addition, cookies already set by Post Affiliate Pro can be deleted at any time via an internet browser or other software programs.<br>
 The applicable privacy policies of Post Affiliate Pro are available at <a href="https://www.postaffiliatepro.com/gdpr/">https://www.postaffiliatepro.com/gdpr/</a>.</p>
-<p class="paragraph_head">9. Payment service providers</p>
-<p class="paragraph_head">Credit Card</p>
-<p class="paragraph_body">If you choose to pay by credit card, payment will be processed through the payment service Stripe Payments Europe Ltd, Block 4, Harcourt Center, Harcourt Road, Dublin 2, Ireland, to whom we will disclose your information provided during the ordering process and the information about your order (Name, address, account number, bank code, possibly credit card number, invoice amount, currency and transaction number). The transfer of your data is exclusively for the purpose of payment processing with the payment service provider Stripe Payments Europe Ltd. For more information about Stripe’s privacy, please visit <a href="https://stripe.com/terms">https://stripe.com/terms</a>.</p>
-<p class="paragraph_head">Bitcoins</p>
-<p class="paragraph_body">On this website, the controller has integrated components of BitPay. BitPay is an online payment service provider. Payments are processed via BitCoin transactions.<br>
-The operating company of BitPay is BitPay, Inc., located in Suite 516, 3423 Piedmont Road, NE Atlanta, GA 30305, United States.<br>
-If the data subject chooses “Bitcoin” as the payment option in the online checkout during the ordering process, we automatically transmit the <span class="caps">REQUIRED</span> data <span class="caps">ONLY</span> to BitPay. By selecting this payment option, the data subject agrees to the transfer of personal data required <span class="caps">ONLY</span> for payment processing. The personal data transmitted to BitPay is usually first name, last name, email address or other data necessary for payment processing and fraud prevention. The processing of the purchase also requires such personal data, which is in connection with the respective order.<br>
-The transmission of the data is aimed at payment processing and fraud prevention. The controller will transfer personal data to BitPay, in particular, if a legitimate interest in the transmission is given.<br>
-BitPay will, if necessary, pass on personal data to affiliates and service providers or subcontractors to the extent that this is necessary to fulfill contractual obligations or for data to be processed in the order.<br>
-The data subject has the possibility to revoke consent for the handling of personal data at any time from BitPay. A revocation shall not have any effect on personal data which must be processed, used or transmitted in accordance with (contractual) payment processing.<br>
-The applicable data protection provisions of BitPay may be retrieved under <a href="https://bitpay.com/about/privacy">https://bitpay.com/about/privacy</a>.</p>
-<p class="paragraph_head">PayPal</p>
-<p class="paragraph_body">Our website accepts payments via PayPal. The provider of this service is PayPal (Europe) S.à.r.l &amp; Cie, S.C.A. (22-24 Boulevard Royal, L-2449 Luxembourg.<br>
-If you select payment via PayPal, the payment data you provide will be supplied to PayPal based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) <span class="caps">GDPR</span> (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected.</p>
-<p class="paragraph_head">Klarna</p>
-<p class="paragraph_body">Our website accepts payments via Klarna. This service is provided by Klarna AB, Sveavägen 46, 111 34 Stockholm, Sweden.<br>
-Klarna offers various payment options (e.g. installment payments). If you opt to pay using Klarna, Klarna will collect various pieces of personal data from you. Further information can be found in the Klarna privacy policy: <a href="https://www.klarna.com/de/datenschutz/">https://www.klarna.com/de/datenschutz/</a>.<br>
-Klarna uses cookies to optimize the use of Klarna checkout solution. Optimizing the checkout solution provides a legitimate interest within the meaning of Art. 6 (1) (f) <span class="caps">GDPR</span>. Cookies are small text files that are stored on your device and do no harm. They remain on your device until you delete them. For further information on how Klarna uses cookies, go to the following link: <a href="https://cdn.klarna.com/1.0/shared/content/policy/cookie/de_de/checkout.pdf">https://cdn.klarna.com/1.0/shared/content/policy/cookie/de_de/checkout.pdf</a>.<br>
-Data is transmitted to Klarna based on Art. 6 (1)(a) (Consent) and Art. 6 (1)(b) <span class="caps">GDPR</span> (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected.</p>
-<p class="paragraph_head">Sofortüberweisung</p>
-<p class="paragraph_body">Our website accepts payments via Sofortüberweisung. The provider of this service is Sofort GmbH, Theresienhöhe 12, 80339 Munich, Germany.<br>
-Sofortüberweisung provides us with real-time payment confirmations, allowing us to begin fulfilling our end of our contract right away.<br>
-If you opt to pay using Sofortüberweisung, you will be submitting a <span class="caps">PIN</span> and a valid <span class="caps">TAN</span> to Sofort GmbH so that it can access your online banking account. Sofort GmbH will automatically check your account balance and perform the transfer to our account using the <span class="caps">TAN</span> you supply. It then sends an immediate transaction confirmation. After logging in, your income, the overdraft protection, and the availability of other accounts and their balances will be checked.<br>
-In addition to the <span class="caps">PIN</span> and <span class="caps">TAN</span>, the payment details you provide as well as personal information will be sent to Sofort GmbH. This personal information includes your name, address, telephone numbers, email address, IP address, and any other data required to process your payment. This data must be transferred to identify you securely and to prevent fraud.<br>
-Data is transmitted to Sofort GmbH based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) <span class="caps">GDPR</span> (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected.<br>
-Please refer to the payment with Sofortüberweisung links below: <a href="https://www.sofort.de/datenschutz.html">https://www.sofort.de/datenschutz.html</a> and <a href="https://www.klarna.com/sofort/">https://www.klarna.com/sofort/</a>.</p>
-<p class="paragraph_head">Paydirekt</p>
-<p class="paragraph_body">Our website accepts payments via Paydirekt. The provider of this service is Paydirekt GmbH, Hamburger Allee 26-28, 60486 Frankfurt am Main, Germany (hereafter referred to as “Paydirekt”).<br>
-When you make payments through Paydirekt, Paydirekt collects various pieces of transaction data and forwards it to the bank you have indicated to Paydirekt. In addition to the data required for the payment, Paydirekt will also collect such data as your shipping address or the items in your shopping cart.<br>
-Paydirekt then authenticates the transaction by using the authentication method your bank has set up. The payment is then transferred from your account to ours. Neither we nor third parties have access to your account information.<br>
-For more information, see the terms and conditions and privacy policy of Paydirekt at<br>
-<a href="https://www.paydirekt.de/agb/index.html">https://www.paydirekt.de/agb/index.html</a>.</p>
-<p class="paragraph_head">10. Sign Up, Login</p>
+<p class="paragraph_head">9. Sign Up, Login</p>
 <p class="paragraph_body">We also offer you the option of registering with us using the Facebook sign-up or registering via the log-in. If you would like to register or log in with us using the Facebook sign-up and/or log-in, you then permit us to:<br>
 1. Access your general details such as your name, profile image, gender, the user ID, your friend lists and all other data that you have made public in your profile.<br>
 2. Send you e-mails.<br>
 3. Post status reports on your behalf.<br>
 4. Also to access your data when you are not currently using the application.<br>
-5. Access your other profile information such as “About me”, your date of birth, your home town and your current place of residence.<br>
-11. Rights of information, revocation and deletion<br>
-You may obtain information about the data stored with us free of charge, without indicating any reasons by contacting us at service@9flats.com<br>
+5. Access your other profile information such as “About me”, your date of birth, your home town and your current place of residence.</p>
+<p>10. Rights of information, revocation and deletion<br>
+p(paragraph_body). You may obtain information about the data stored with us free of charge, without indicating any reasons by contacting us at service@9flats.com<br>
 We will make sure to provide you with a copy of the data we process about you. In order to comply with your request, we may ask you to verify your identity. We will fulfill your request by sending your copy electronically, unless your request expressly specifies a different method. For any subsequent access request, we may charge you with administrative fee. You can object to the use of your data at any time and revoke the consent to use your data that you gave when you registered. In addition, you can correct, block or have deleted at any time the data that we have collected and stored. We make explicit reference to the fact that we are obligated by law to continue to save the data; in this case, the data can only be blocked.<br>
 You can contact us at any time to:<br>
 - Request access to information that 9flats.com <span class="caps">PTE</span> Ltd has about you<br>
@@ -1161,29 +737,20 @@ You can contact us at any time to:<br>
 - Delete information that 9flats.com <span class="caps">PTE</span> Ltd has about you<br>
 To exercise the aforementioned rights and also if you have any additional questions about 9flats.com <span class="caps">PTE</span> Ltd’s collection and storage of data, please contact us at:<br>
 9flats.com <span class="caps">PTE</span>. Ltd., 111 North Bridge Road, # 08-19 Peninsula Plaza Singapore 179098<br>
- service@9flats.com</p>
-<p class="paragraph_head">11.1 Right to file complaints with regulatory authorities</p>
+service@9flats.com</p>
+<p class="paragraph_head">10.1 Right to file complaints with regulatory authorities</p>
 <p class="paragraph_body">If there has been a breach of data protection legislation, the person affected may file a complaint with the competent regulatory authorities. The competent regulatory authority for matters related to data protection legislation is the data protection officer of the German state in which our company is headquartered. A list of data protection officers and their contact details can be found at the following link: <a href="https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html">https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html</a>.</p>
-<p class="paragraph_head">11.2 Right to data portability</p>
+<p class="paragraph_head">11 Right to data portability</p>
 <p class="paragraph_body">You have the right to have data which we process based on your consent or in fulfillment of a contract automatically delivered to yourself or to a third party in a standard, machine-readable format. If you require the direct transfer of data to another responsible party, this will only be done to the extent technically feasible</p>
 <p class="paragraph_head">12. Storage and processing</p>
 <p class="paragraph_body">Your information collected through the 9flats.com portal may be stored and processed in Europe, Singapore, US or any other country in which 9flats.com <span class="caps">PTE</span> Ltd or its subsidiaries, affiliates or service providers maintain facilities. 9flats.com <span class="caps">PTE</span> Ltd may transfer information that we collect about you, including personal information, to affiliated entities, or to other third parties across borders and from your country or jurisdiction to other countries or jurisdictions across the world. If you are located in the European Union or other region with laws governing data collection and use that may differ from Singapore law, please note that we will not transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.</p>
 <p class="paragraph_head">13. How we protect your information.</p>
-<p class="paragraph_body">9flats.com. <span class="caps">PTE</span> LTd is concerned with protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to 9flats.com or guarantee that your information on the 9flats.com portal may be not accessed, disclosed, altered or destroyed by breach of any of our industry standard physical, technical or managerial safeguards. When you enter sensitive information (such as log in credentials) on our registration or order forms, we encrypt that information using secure socket layer technology (<span class="caps">SSL</span>).  No method of transmission over the Internet or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our site, you can contact us at service@9flats.com. We use an outside help company, and a credit card processing company to bill you if you purchase services. These companies do not retain, share, store or use personally identifiable</p>
-<p class="paragraph_head">13.1 Encrypted payments on this website</p>
-<p class="paragraph_body">If you enter into a contract which requires you to send us your payment information (e.g. account number for direct debits), we will require this data to process your payment.<br>
-Payment transactions using common means of payment (Visa/MasterCard, direct debit) are only made via encrypted <span class="caps">SSL</span> or <span class="caps">TLS</span> connections. You can recognize an encrypted connection in your browser’s address line when it changes from “http://” to “https://” and the lock icon in your browser line is visible.<br>
-In the case of encrypted communication, any payment details you submit to us cannot be read by third parties.</p>
-<p class="paragraph_head">13.2 Data transferred when signing up for services and digital content</p>
+<p class="paragraph_body">9flats.com. <span class="caps">PTE</span> LTd is concerned with protecting your privacy and data, but we cannot ensure or warrant the security of any information you transmit to 9flats.com or guarantee that your information on the 9flats.com portal may be not accessed, disclosed, altered or destroyed by breach of any of our industry standard physical, technical or managerial safeguards. When you enter sensitive information (such as log in credentials) on our registration or order forms, we encrypt that information using secure socket layer technology (<span class="caps">SSL</span>). No method of transmission over the Internet or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our site, you can contact us at service@9flats.com.</p>
+<p class="paragraph_head">13.1 Data transferred when signing up for services and digital content</p>
 <p class="paragraph_body">We transmit personally identifiable data to third parties only to the extent required to fulfill the terms of your contract with us, for example, to banks entrusted to process your payments.<br>
 Your data will not be transmitted for any other purpose unless you have given your express permission to do so. Your data will not be disclosed to third parties for advertising purposes without your express consent.<br>
 The basis for data processing is Art. 6 (1) (b) <span class="caps">GDPR</span>, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.</p>
-<p class="paragraph_head">14. Premium Partner program</p>
-<p class="paragraph_body">If you participate in the Premium Partner program of 9flats.com, we point out that these data protection provisions apply accordingly. To handle the Premium Partner program, it is necessary that you notify us of the following data:<br>
-- First name and surname<br>
-- Address<br>
-- Bank details.<br>
-If you have any further questions on data protection or on these data protection provisions, please feel free to contact us at any time!</p>
+<p class="paragraph_body">If you have any further questions on data protection or on these data protection provisions, please feel free to contact us at any time!</p>
 
   </div>
 </div>
@@ -1200,40 +767,119 @@ If you have any further questions on data protection or on these data protection
 
   <ul class="footer__content__list">
       <li class="footer__content__list__item">
-          <a href="/choose_language/de" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_de" title="Deutschland">
+          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_de" title="Deutschland" href="/choose_language/de">
             Deutschland
-</a>          <a href="/choose_language/de-at" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_at" title="Österreich">
+</a>          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_at" title="Österreich" href="/choose_language/de-at">
             Österreich
 </a>      </li>
       <li class="footer__content__list__item">
-          <a href="/choose_language/de-ch" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_ch" title="Schweiz">
+          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_ch" title="Schweiz" href="/choose_language/de-ch">
             Schweiz
-</a>          <a href="/choose_language/en" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_gb" title="United Kingdom">
+</a>          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_gb" title="United Kingdom" href="/choose_language/en">
             United Kingdom
 </a>      </li>
       <li class="footer__content__list__item">
-          <a href="/choose_language/en-us" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_us" title="USA">
+          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_us" title="USA" href="/choose_language/en-us">
             USA
-</a>          <a href="/choose_language/es" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_es" title="España">
+</a>          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_es" title="España" href="/choose_language/es">
             España
 </a>      </li>
       <li class="footer__content__list__item">
-          <a href="/choose_language/fr" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_fr" title="France">
+          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_fr" title="France" href="/choose_language/fr">
             France
-</a>          <a href="/choose_language/it" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_it" title="Italia">
+</a>          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_it" title="Italia" href="/choose_language/it">
             Italia
 </a>      </li>
       <li class="footer__content__list__item">
-          <a href="/choose_language/pt" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_pt" title="Portugal">
+          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_pt" title="Portugal" href="/choose_language/pt">
             Portugal
-</a>          <a href="/choose_language/ru" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_ru" title="Россия">
+</a>          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_ru" title="Россия" href="/choose_language/ru">
             Россия
 </a>      </li>
       <li class="footer__content__list__item">
-          <a href="/choose_language/tr" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_tr" title="Türkiye">
-            Türkiye
-</a>          <a href="/choose_language/zh" class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_zh" title="中國">
+          <a class="footer__content__list__link footer__content__list__link--flag footer__content__list__link--flag_zh" title="中國" href="/choose_language/zh">
             中國
+</a>      </li>
+  </ul>
+</div>
+
+<div class="footer__content__container">
+  <h4 class="footer__content__header">
+    Choose your currency
+  </h4>
+
+  <ul class="footer__content__list">
+      <li class="footer__content__list__item">
+          <a class="footer__content__list__link" href="/set_currency?currency=AUD">
+            <strong>$</strong>
+            AUD
+</a>          <a class="footer__content__list__link" href="/set_currency?currency=BRL">
+            <strong>R$</strong>
+            BRL
+</a>      </li>
+      <li class="footer__content__list__item">
+          <a class="footer__content__list__link" href="/set_currency?currency=CAD">
+            <strong>$</strong>
+            CAD
+</a>          <a class="footer__content__list__link" href="/set_currency?currency=CHF">
+            <strong>CHF</strong>
+            CHF
+</a>      </li>
+      <li class="footer__content__list__item">
+          <a class="footer__content__list__link" href="/set_currency?currency=DKK">
+            <strong>kr.</strong>
+            DKK
+</a>          <a class="footer__content__list__link" href="/set_currency?currency=EUR">
+            <strong>€</strong>
+            EUR
+</a>      </li>
+      <li class="footer__content__list__item">
+          <a class="footer__content__list__link" href="/set_currency?currency=GBP">
+            <strong>£</strong>
+            GBP
+</a>          <a class="footer__content__list__link" href="/set_currency?currency=JPY">
+            <strong>¥</strong>
+            JPY
+</a>      </li>
+      <li class="footer__content__list__item">
+          <a class="footer__content__list__link" href="/set_currency?currency=NOK">
+            <strong>kr</strong>
+            NOK
+</a>          <a class="footer__content__list__link" href="/set_currency?currency=PLN">
+            <strong>zł</strong>
+            PLN
+</a>      </li>
+      <li class="footer__content__list__item">
+          <a class="footer__content__list__link" href="/set_currency?currency=RUB">
+            <strong>₽</strong>
+            RUB
+</a>          <a class="footer__content__list__link" href="/set_currency?currency=SEK">
+            <strong>kr</strong>
+            SEK
+</a>      </li>
+      <li class="footer__content__list__item">
+          <a class="footer__content__list__link" href="/set_currency?currency=TRY">
+            <strong>₺</strong>
+            TRY
+</a>          <a class="footer__content__list__link" href="/set_currency?currency=USD">
+            <strong>$</strong>
+            USD
+</a>      </li>
+      <li class="footer__content__list__item">
+          <a class="footer__content__list__link" href="/set_currency?currency=ZAR">
+            <strong>R</strong>
+            ZAR
+</a>          <a class="footer__content__list__link" href="/set_currency?currency=SGD">
+            <strong>$</strong>
+            SGD
+</a>      </li>
+      <li class="footer__content__list__item">
+          <a class="footer__content__list__link" href="/set_currency?currency=NZD">
+            <strong>$</strong>
+            NZD
+</a>          <a class="footer__content__list__link" href="/set_currency?currency=THB">
+            <strong>฿</strong>
+            THB
 </a>      </li>
   </ul>
 </div>
@@ -1244,11 +890,11 @@ If you have any further questions on data protection or on these data protection
   </h4>
 
   <ul class="footer__content__list">
-    <li class="footer__content__list__item"><a href="http://about.9flats.com/what-is-9flats" class="footer__content__list__link">About 9flats</a></li>
-    <li class="footer__content__list__item"><a href="http://about.9flats.com/jobs/open-positions" class="footer__content__list__link">Jobs</a></li>
-      <li class="footer__content__list__item"><a href="http://blog.9flats.com/?lang=en" class="footer__content__list__link">Blog</a></li>
-    <li class="footer__content__list__item"><a href="http://about.9flats.com/legal-info" class="footer__content__list__link">Legal info</a></li>
-    <li class="footer__content__list__item"><a href="/terms" class="footer__content__list__link js-popup" data-title="Terms of service &amp; Data protection policy" rel="nofollow">Terms and privacy</a></li>
+    <li class="footer__content__list__item"><a class="footer__content__list__link" href="http://about.9flats.com/what-is-9flats">About 9flats</a></li>
+    <li class="footer__content__list__item"><a class="footer__content__list__link" href="http://about.9flats.com/jobs/open-positions">Jobs</a></li>
+      <li class="footer__content__list__item"><a class="footer__content__list__link" href="http://blog.9flats.com/?lang=en">Blog</a></li>
+    <li class="footer__content__list__item"><a class="footer__content__list__link" href="http://about.9flats.com/legal-info">Legal info</a></li>
+    <li class="footer__content__list__item"><a class="footer__content__list__link" data-title="Terms of service &amp; Data protection policy" href="/terms">Terms and privacy</a></li>
   </ul>
 </div>
 
@@ -1258,9 +904,8 @@ If you have any further questions on data protection or on these data protection
   </h4>
 
   <ul class="footer__content__list">
-    <li class="footer__content__list__item"><a href="http://faq.9flats.com/hc/en-gb" class="footer__content__list__link">Help &amp; FAQs</a></li>
-    <li class="footer__content__list__item"><a href="http://about.9flats.com/press.html" class="footer__content__list__link">Press</a></li>
-    <li class="footer__content__list__item"><a href="/affiliate" class="footer__content__list__link">Affiliates</a></li>
+    <li class="footer__content__list__item"><a class="footer__content__list__link" href="/faq">Help &amp; FAQs</a></li>
+    <li class="footer__content__list__item"><a class="footer__content__list__link" href="http://about.9flats.com/press.html">Press</a></li>
   </ul>
 </div>
 
@@ -1271,34 +916,30 @@ If you have any further questions on data protection or on these data protection
 
   <ul class="footer__content__list footer__content__list_social">
     <li class="footer__content__list__item v2">
-      <a href="http://blog.9flats.com/?lang=en" title="Blog"><i class="fa fa-pencil-square" aria-hidden="true"></i></a>
-      <a href="https://www.facebook.com/9flats" title="Facebook"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
-      <a href="https://twitter.com/9flats" title="Twitter"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
-      <a href="https://www.instagram.com/9flats/" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-      <a href="https://www.pinterest.com/9flats/" title="Pinterest"><i class="fa fa-pinterest-square" aria-hidden="true"></i></a>
-    </li>
-
-    <li class="footer__content__list__item footer__content__list__item_last footer__content__list__item_pile">
-      <fb:facepile app_id="181720678509480" width="300" max_rows="1"></fb:facepile>
+      <a title="Blog" href="http://blog.9flats.com/?lang=en"><i class="fa fa-pencil-square" aria-hidden="true"></i></a>
+      <a title="Facebook" href="https://www.facebook.com/9flats"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+      <a title="Twitter" href="https://twitter.com/9flats"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+      <a title="Instagram" href="https://www.instagram.com/9flats/"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+      <a title="Pinterest" href="https://www.pinterest.com/9flats/"><i class="fa fa-pinterest-square" aria-hidden="true"></i></a>
     </li>
   </ul>
 </div>
 
 
-    <a href="/" class="footer__content__logo footer__content__logo_new">9flats.com</a>
+    <a class="footer__content__logo footer__content__logo_new" href="/">9flats.com</a>
   </div>
 
   <div class="footer__bottom-spacer"></div>
 
   <div class="footer__terms">
-    © 2018 9flats. All rights reserved.
+    © 2019 9flats. All rights reserved.
   </div>
 </footer>
 
 
 
-    <script src="//assets.9flats.com/assets/external/external-5db96ab7a4c1f8475d8ed5a920a71dfa.js" type="text/javascript"></script>
-<script src="//assets.9flats.com/assets/redesign/application-78a0d1c231d09f472c7826eef100908b.js" type="text/javascript"></script>
+    <script src="//assets.9flats.com/assets/external/external-2baf44ceb69a06a590d84b5a40773509c3b04bb811df17057d80008a337ae973.js"></script>
+<script src="//assets.9flats.com/assets/redesign/application-dfcd55869a1a03c904173ca5dbaafbf0e06d82a4b2512193c5a790c080861870.js"></script>
 
       <script type="text/javascript">
   //<![CDATA[
@@ -1307,43 +948,6 @@ If you have any further questions on data protection or on these data protection
 </script>
 
 
-
-
-<script type="text/javascript">
-  var belboonTag = {};
-</script>
-<script type="text/javascript" src="https://containertags.belboon.de/belboonTag.js.php?pId=18296&amp;page=start&amp;type=static" async=""></script>
-
-<script type="text/javascript">
-  document.write(unescape("%3Cscript id=%27pap_x2s6df8d%27 src=%27" + "https://coop9flats.postaffiliatepro.com/scripts/trackjs.js%27 type=%27text/javascript%27%3E%3C/script%3E"));
-</script><script id="pap_x2s6df8d" src="https://coop9flats.postaffiliatepro.com/scripts/trackjs.js" type="text/javascript"></script>
-<script type="text/javascript">
-    try {
-      PostAffTracker.setAccountId('default1');
-      PostAffTracker.track();
-    } catch (err) {
-      // TODO add error notification using airbrake
-    }
-</script>
-
-<!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-    n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];
-    s.parentNode.insertBefore(t,s)}(window, document,'script',
-    'https://connect.facebook.net/en_US/fbevents.js');
-
-  fbq('init', '612160658923724');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=612160658923724&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
 
 
 
@@ -1367,7 +971,7 @@ If you have any further questions on data protection or on these data protection
   </div>
 
 
-    <!-- brought to you by: ashe -->
+    <!-- brought to you by: lycan -->
 
   
 
