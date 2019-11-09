@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightbend.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331211648id_/https%3A//www.lightbend.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightbend.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109153547id_/https%3A//www.lightbend.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | @lightbend
 
