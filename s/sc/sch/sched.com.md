@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sched.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417004819id_/https%3A//sched.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sched.com privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109192505id_/https%3A//sched.com/privacy) for the most accurate reproduction.*
 
-# Event Schedule & Agenda Builder App | Sched
+# Privacy Policy - Sched
 
-Sched LLC ("Sched", “us”, “we”, or “our”) takes the privacy and security of your personal data seriously. This Privacy Policy describes how we protect and use the personal data we collect about you through our website and in connection with the services we offer (“Service”).
+Sched LLC (“Sched”, “us”, “we”, or “our”) takes the privacy and security of your personal data seriously. This Privacy Policy describes how we protect and use the personal data we collect about you through our website and in connection with the services we offer (“Service”).
 
 Please contact [support@sched.com](mailto:support@sched.com) with any requests, questions, or concerns relating to this Privacy Policy.
 
@@ -32,7 +32,7 @@ We may use your personal data as follows:
 
 **Internal Operations.** We may use your personal data for internal business purposes, including without limitation, to help us improve the content and functionality of the Services, to better understand our customers and users of the Service, to improve the Services, to protect against, identify or address wrongdoing, to enforce our Terms of Service, to manage your account and provide you with customer service, and to generally manage the Services and our business.
 
-**Event Organizers.** We allow event organizers to use our email tools to contact you regarding your current and past events, so you may receive emails from our system that originate with event organizers and that we send on their behalf. If you registered for an event on the Services, your email address is available to that event organizer. However, organizers may also import the email addresses they have from external sources and send communications through the Services to those email addresses, and we will deliver those communications to those email addresses on the organizer's behalf. The organizer and not Sched is responsible for sending these emails. You can opt out of these here <http://sched.com/unsubscribe>.
+**Event Organizers.** We allow event organizers to use our email tools to contact you regarding your current and past events, so you may receive emails from our system that originate with event organizers and that we send on their behalf. If you registered for an event on the Services, your email address is available to that event organizer. However, organizers may also import the email addresses they have from external sources and send communications through the Services to those email addresses, and we will deliver those communications to those email addresses on the organizer’s behalf. The organizer and not Sched is responsible for sending these emails. You can opt out of these here <http://sched.com/unsubscribe>.
 
 If we intend to use any personal data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time the personal data is collected.
 
@@ -54,9 +54,6 @@ We share your personal data with the following third parties:
 
 **Foursquare:** For social networking. Foursquare Connect lets attendees pull their contacts and show them friends that are attending the same event.
 
-  
-
-
 ## ANALYTICS
 
 **Google LLC (Google Analytics):** For tracking analytics and usage. This helps us learn from trends.
@@ -66,9 +63,6 @@ We share your personal data with the following third parties:
 **Mouseflow:** For tracking how users interact with a page. This helps us improve the user experience and fix bugs.
 
 **Google LLC (Firebase):** For tracking analytics and usage of mobile apps. This helps us learn from trends and fix errors.
-
-  
-
 
 ## INFRASTRUCTURE
 
@@ -82,12 +76,9 @@ We share your personal data with the following third parties:
 
 **New Relic:** For tracking server statistics like loading and response times. This helps us improve our application.
 
-**Recurly:** For billing. We use Recurly to securely store billing information and charge for both one-time services and recurring charges. 
+**Recurly:** For billing. We use Recurly to securely store billing information and charge for both one-time services and recurring charges.
 
 **The Rocket Science Group, LLC dba MailChimp (Mandrill):** For email. We use Mandrill (owned by MailChimp) to power all of the emails that Sched sends out on behalf of our company and the event organizers that use Sched. They help ensure that organizers are sending email to people that want it, and not spamming them.
-
-  
-
 
 ## SUPPORT & SALES TOOLS
 
@@ -139,7 +130,7 @@ If you live in the EU, European Economic Area (“EEA”), United Kingdom (“UK
 
 • Where we process personal data based on your consent, you may withdraw your consent.
 
-• You may correct personal data that is inaccurate and have incomplete personal data completed. 
+• You may correct personal data that is inaccurate and have incomplete personal data completed.
 
 • You may request that we delete your account and personal data or return or provide a copy of your personal data to you. However, we may retain certain information to comply with our legal obligations, resolve disputes, or enforce our agreements, and there may be some delay in deleting certain data from our servers and back-up storage.
 
@@ -157,19 +148,19 @@ If we ever send you information by e-mail concerning new products, services or i
 
 ## 8\. Cookies.
 
-A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. We use cookies to help us identify and track visitors, their usage of our Services, and their preferences. Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our Services, with the drawback that certain features of our Services may not function properly without the aid of cookies.
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. We use cookies to help us identify and track visitors, their usage of our Services, and their preferences. Visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our Services, with the drawback that certain features of our Services may not function properly without the aid of cookies.
 
 ## 9\. Links to Third Party Sites.
 
 This Privacy Policy only applies to information we receive. This Privacy Policy does not apply to the practices of companies that Sched does not own or control, or employees that Sched does not manage. Our Services furnish links to third party websites. Any information you provide to, or that is collected by, third-party sites may be subject to the privacy policies of those sites, if any. You should read the privacy policies of any third-party sites you visit.
 
-## 10\. No Collection of Children's Personal Information.
+## 10\. No Collection of Children’s Personal Information.
 
 Our Services are intended for general audiences and commercial use and are not intended for and may not be used by children under the age of 13, or any higher minimum age in the jurisdiction where the person resides. We do not knowingly collect any personal information from children under the age of 13, or any higher minimum age in the jurisdiction where the person resides, and take reasonable steps to delete any information we believe to be in violation of this provision.
 
 ## 11\. Changes and Contact Information.
 
-If we modify this Privacy Policy, we will post the updated version on our website. It is your responsibility to periodically review this Privacy Policy, and you are bound by any changes to it by using our Services or websites after such changes have been posted. 
+If we modify this Privacy Policy, we will post the updated version on our website. It is your responsibility to periodically review this Privacy Policy, and you are bound by any changes to it by using our Services or websites after such changes have been posted.
 
 If you have questions or concerns about this Privacy Policy or your rights, please email [support@sched.com](mailto:support@sched.com) or contact us at Sched LLC / 8605 Santa Monica Blvd #69687 / Los Angeles, CA 90069-4109.
 
