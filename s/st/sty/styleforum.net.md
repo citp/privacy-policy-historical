@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styleforum.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629063047id_/https%3A//www.styleforum.net/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styleforum.net privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109170558id_/https%3A//www.styleforum.net/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Styleforum
 
@@ -217,7 +217,7 @@ We may use third-party Service Providers to show advertisements to you to help s
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 
 
