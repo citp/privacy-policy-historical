@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accreditedschoolsonline.org privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508154315id_/https%3A//www.accreditedschoolsonline.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accreditedschoolsonline.org privacy policy that was archived on 2019-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191109231534id_/https%3A//www.accreditedschoolsonline.org/privacy-policy) for the most accurate reproduction.*
 
 # Accredited Schools Online's Privacy Policy
 
