@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justcreativedesign.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416233109id_/https%3A//justcreative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justcreativedesign.com privacy policy that was archived on 2019-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191110210738id_/https%3A//justcreative.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JUST™ Creative
 
