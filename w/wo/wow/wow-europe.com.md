@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wow-europe.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613175114id_/https%3A//www.blizzard.com/en-gb/legal/8c41e7e6-0b61-42c4-a674-c91d8e8d68d3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow-europe.com privacy policy that was archived on 2019-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191110212145id_/https%3A//www.blizzard.com/en-gb/legal/8c41e7e6-0b61-42c4-a674-c91d8e8d68d3) for the most accurate reproduction.*
 
-# Blizzard Entertainment® Privacy Policy Blizzard Legal
+# Blizzard Entertainment Privacy Policy - Blizzard Legal
 
 Blizzard Entertainment respects the privacy of its players and recognizes the importance of providing a secure environment for their data. We have adopted this Privacy Policy (“Privacy Policy”) that explains how and why we collect, store and use the information you provide us.
 
