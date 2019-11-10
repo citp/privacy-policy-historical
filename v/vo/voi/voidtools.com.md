@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the voidtools.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626051932id_/https%3A//www.voidtools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voidtools.com privacy policy that was archived on 2019-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191110150917id_/https%3A//www.voidtools.com/privacy) for the most accurate reproduction.*
 
 # Privacy - voidtools
 
 Your Internet Protocol (IP) address and browser type is logged when you visit voidtools.com
 
-Information is kept for the last 1000 HTTP requests.
+Information is kept for the current and previous month.
 
 Cookies may be used to uniquely identify your browser when visiting the forums.
 
