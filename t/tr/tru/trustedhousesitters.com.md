@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406032608id_/https%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2019-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191110122636id_/https%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TrustedHousesitters.com
+# Find the Perfect Pet Sitter! Home & Pet Sitting Made Easy | TrustedHousesitters.com
 
 ### TrustedHousesitters Privacy Policy
 
