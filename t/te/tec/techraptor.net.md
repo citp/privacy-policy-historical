@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the techraptor.net privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620082652id_/https%3A//techraptor.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techraptor.net privacy policy that was archived on 2019-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191110092915id_/https%3A//techraptor.net/privacy-policy) for the most accurate reproduction.*
 
-# Our Policies
+# Our Policies | TechRaptor
 
-This Privacy Policy governs the manner in which TechRaptor collects, uses, maintains and discloses information collected from users (each, a “User”) of the techraptor.net website (“Site”). This privacy policy applies to the Site and all products and services offered by TechRaptor.
+This Privacy Policy governs the manner in which TechRaptor collects, uses, maintains and discloses information collected from users (each, a "User") of the techraptor.net website ("Site"). This privacy policy applies to the Site and all products and services offered by TechRaptor.
 
 ## Who we are
 
-Our website address is: https://techraptor.net, in addition, some links are served from https://rapto.rs.
+Our website address is: [https://techraptor.net](https://techraptor.net/), in addition, some links are served from [https://rapto.rs](https://rapto.rs/).
 
 ## What personal data we collect and why we collect it
 
@@ -14,7 +14,7 @@ Our website address is: https://techraptor.net, in addition, some links are serv
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection. This data is handled by Disqus.
 
-An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: <https://automattic.com/privacy/>. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
 ### Personal identification information
 
@@ -34,7 +34,7 @@ If you leave a comment on our site you may opt-in to saving your name, email add
 
 If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select "Remember Me", your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
 If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
@@ -46,7 +46,7 @@ These websites may collect data about you, use cookies, embed additional third-p
 
 ### Payment Information
 
-TechRaptor Accepts Payments via PayPal for its membership. No payment information is stored on TechRaptor, and all processing is handled by PayPal. Each cycle, a member will be billed by PayPal, and upon successful payment – TechRaptor’s backend will be informed to update the member’s status, but no other information beyond that is transferred.
+TechRaptor Accepts Payments via PayPal for its membership. No payment information is stored on TechRaptor, and all processing is handled by PayPal. Each cycle, a member will be billed by PayPal, and upon successful payment - TechRaptor's backend will be informed to update the member's status, but no other information beyond that is transferred.
 
 ### Newsletter
 
@@ -64,7 +64,7 @@ No identifiable information is otherwise tracked outside this website except for
 
 ### Who we share your data with
 
-TechRaptor utilizes the services of WordPress, Alexa Internet, Quantcast, and Google Analytics to track pageviews and site usage. These sites maintain some user data, although that data is anonymized.
+TechRaptor utilizes the services of Wordpress, Alexa Internet, Quantcast, and Google Analytics to track pageviews and site usage. These sites maintain some user data, although that data is anonymized.
 
 ### How long we retain your data
 
@@ -102,7 +102,7 @@ Sensitive and private data exchange between the Site and its Users happens over 
 
 ### What third parties we receive data from
 
-TechRaptor receives data from various third parties that we work with for Advertising, Analytics, and Affiliate Marketing. This data includes information such as clicks, IP Address, device type, and other information used to explore how people use our site. We do not tie this data into our membership platform, and it is kept it separate from any personal information that is entered into a member’s profile, with the exception of membership role – which is used to remove ads from our site via code.
+TechRaptor receives data from various third parties that we work with for Advertising, Analytics, and Affiliate Marketing. This data includes information such as clicks, IP Address, device type, and other information used to explore how people use our site. We do not tie this data into our membership platform, and it is kept it separate from any personal information that is entered into a member's profile, with the exception of membership role - which is used to remove ads from our site via code.
 
 ### What automated decision making and/or profiling we do with user data
 
