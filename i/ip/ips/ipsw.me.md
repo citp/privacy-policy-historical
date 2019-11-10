@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipsw.me privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523233634id_/https%3A//ipsw.me/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipsw.me privacy policy that was archived on 2019-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191110171200id_/https%3A//ipsw.me/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - IPSW Downloads
+# Privacy Policy / IPSW Downloads
 
 This Privacy Policy governs the manner in which Just a Penguin collects, uses, maintains and discloses information collected from users (each, a "User") of the IPSW Downloads website ("Site").
 
@@ -27,7 +27,7 @@ We share your Personal Information with third parties to help us use your Person
 
   * We use **Google Analytics** to help us understand how our customers use the Site–you can read more about how Google uses your Personal Information here: <https://www.google.com/intl/en/policies/privacy/>. You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
   * We also use **Cloudflare** to provide the Site with safety, reliability and security features. You can view more information about Cloudflare’s commitment to user privacy here: <https://www.cloudflare.com/security-policy/>.
-  * When you sign up for email notifications, we use **Sendgrid** to automatically send the emails to you. In doing so, Sendgrid will receive your email address, and may track further information about your interactions with the emails sent to you. This is an opt-in service, and can be unsubscribed from within any email, or on the account section of the Site. You can view Sendgrid’s privacy statements here: <https://sendgrid.com/policies/privacy/>.
+  * When you sign up for email notifications, we use **Amazon SES** to automatically send the emails to you. In doing so, Amazon SES will receive your email address, and may track further information about your interactions with the emails sent to you. This is an opt-in service, and can be unsubscribed from within any email, or on the account section of the Site. You can view Amazon Web Service’s privacy statements here: [https://aws.amazon.com/privacy//](https://aws.amazon.com/privacy/).
 
 
 
@@ -35,7 +35,7 @@ Finally, we may also share your Personal Information to comply with applicable l
 
 ### BEHAVIOURAL ADVERTISING
 
-As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s ("NAI") educational page at [http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work](https://www.networkadvertising.org/understanding-online-advertising/how-does-it-work).
+As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative’s ("NAI") educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
 
 Just a Penguin use Google Adsense to provide adverts which support the upkeep of the Site. You can opt out of targeted advertising from Google by following the instructions at: <https://www.google.com/settings/ads/anonymous>.
 
@@ -75,4 +75,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at [cj@icj.me](mailto:cj@icj.me) or using the contact details provided here: <https://ipsw.me/contact>
 
-This document was last updated on 1st May 2018
+This document was last updated on 30th August 2019
