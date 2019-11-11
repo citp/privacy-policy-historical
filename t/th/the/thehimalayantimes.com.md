@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the thehimalayantimes.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401100637id_/https%3A//thehimalayantimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehimalayantimes.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111161310id_/https%3A//thehimalayantimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Himalayan Times
+
+NAI: [optout.networkadvertising.org](http://optout.networkadvertising.org/)
+
+DAA: [optout.aboutads.info](http://optout.aboutads.info/)
 
 What we know about you:
 
