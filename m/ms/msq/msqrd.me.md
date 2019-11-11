@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msqrd.me privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323003829id_/https%3A//www.facebook.com/msqrd/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msqrd.me privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111111702id_/https%3A//www.facebook.com/msqrd/privacy) for the most accurate reproduction.*
 
 # Facebook
 
@@ -8,7 +8,7 @@ Privacy Policy
 
  _Effective Date: June 28, 2016_
 
-Masquerade Technologies, Inc. ("Masquerade," "we" or "us") offers services, such as the Masquerade app (the "App") that enable people to use filters and masks ("Masks") for a range of activities, like photo and video editing, and sharing. You consent to Masquerade's practices as set out in this privacy policy when you choose to use the App, the Masks, our features to edit or create masks for the App ("Mask Editor"), our website ([http://msqrd.me/](http://l.facebook.com/l.php?u=http%3A%2F%2Fmsqrd.me%2F&h=AT20a3uq-PGOEPOr7Dq--W5cMlXuXCjR7f5y0iaIv1BwfpXwFPJY5iQ1rMClRXE0zyjpJjjSXB7rEUTYyC8ayhLMcZ1QrIxfChc5gKUhNSl2awnAoA5TZf5_wu9uAr40OO_fXY8lvQX2Chl0) or the "Site"), or our other product and services (collectively the "Services").
+Masquerade Technologies, Inc. ("Masquerade," "we" or "us") offers services, such as the Masquerade app (the "App") that enable people to use filters and masks ("Masks") for a range of activities, like photo and video editing, and sharing. You consent to Masquerade's practices as set out in this privacy policy when you choose to use the App, the Masks, our features to edit or create masks for the App ("Mask Editor"), our website ([http://msqrd.me/](http://l.facebook.com/l.php?u=http%3A%2F%2Fmsqrd.me%2F&h=AT3j086zrSko7Clqtp-ERKedboiD3aQ1PCCCCEdPBYHbgESwKo9kpT1OSf15dhw133LPZTo5BPmOqFzvZI6hFvuNv2gakkJUGDL42-y8cfZgIbxJHH5VMwK0OiYUmPtsFBB5n65GFq9fZ1J8) or the "Site"), or our other product and services (collectively the "Services").
 
  ** _Information we collect or receive_**
 
