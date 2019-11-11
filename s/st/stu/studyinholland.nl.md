@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the studyinholland.nl privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427134043id_/https%3A//www.studyinholland.nl/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyinholland.nl privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111130340id_/https%3A//www.studyinholland.nl/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — Study in Holland
 
 We are aware that you have placed your trust in us. Therefore, we handle your personal data with the utmost care. How exactly do we do that? 
 
-You register with a network, sign up for a training or subscribe to a newsletter. When you use one of our services, we ask you for your personal details, so that we can provide you with good service.  These could be your name, address, email address and telephone number. 
+You register with a network, sign up for a training or subscribe to a newsletter. When you use one of our services, we ask you for your personal details, so that we can provide you with good service. These could be your name, address, email address and telephone number. 
 
 ## Use
 
-We will use your personal data exclusively for the purpose for which have you provided it. If you entered your name and email address to subscribe to a newsletter, for example, we will not use the data to send you other information. Unless expressly stated otherwise, we will not pass on your personal data to third parties. Your data may be used by the authorities, if legally required.
+We will use your personal data exclusively for the purpose for which you have provided it. If you entered your name and email address to subscribe to a newsletter, for example, we will not use the data to send you other information. Unless expressly stated otherwise, we will not pass on your personal data to third parties. Your data may be used by the authorities, if legally required.
 
 If you ask us a question we may need to involve another organisation to answer this question. The data that we exchange with this organisation will only be used by them to answer your question.
 
