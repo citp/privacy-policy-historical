@@ -1,195 +1,201 @@
-> *The following text is extracted and transformed from the icepop.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506025607id_/https%3A//www.icepop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icepop.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111035056id_/https%3A//www.icepop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Icepop
+# Privacy Policy and Cookie Notice | - Icepop
 
 **NOVELTY MAGAZINES LTD. PRIVACY POLICY**
 
-The Novelty Magazines Ltd. Privacy Policy was last updated on July 24, 2018.
+This Novelty Privacy Policy was last updated on May 31, 2019.
 
-We, Novelty Magazines Ltd. and our corporate affiliates (“ **Novelty** “, “ **we** ” or “ **us** “), are committed to protecting and respecting your privacy. _We believe in transparency and want you to feel comfortable using our platform, and we are committed to being upfront about our privacy practices._
+We, Novelty Magazines Ltd. and our corporate affiliates (“ **Novelty** “, “ **we** ” or “ **us** “), are committed to protecting and respecting your privacy. We are the company responsible for the collection, use, and disclosure of your personal information under this Privacy Policy. _We believe in transparency and want you to feel comfortable using our platform, and we are committed to being upfront about our privacy practices._
 
-  1. **Important information and who we are**
-    1. **Purpose of This Privacy Policy**
-
-
-
-This Privacy Policy (“ **Policy** “) explains which information we collect from you, when you (“ **you** ” or “ **your** “, the user of our Services) access and use our websites (including www.icepop.com) (the “ **Site** “), as well as our platforms, widgets, analytics tools, and other technical applications that we may provide either through our Sites or through third-party websites  or other products and services provided by us (which, together, are referred to as the “ **Services** “), will be processed by us, and how we use such information and protect it. The Policy also wishes to make sure that you are aware of the options available to you when you access and use our Services.
-
-  1. **Contact Details**
+  1. **Introduction**
+    1. **Scope of this Privacy Policy**
 
 
 
-If you have any questions or concerns about Novelty’s Privacy Policy or data processing or if you would like to make a complaint about a possible breach of local privacy laws, please contact us at:
+This Privacy Policy explains the information we collect from you when you access and use the Novelty family of websites (each, a “ **Site** ” and collectively, the “ **Site** “), as well as our platforms, widgets, analytics tools, and other technical applications that we may provide either through our Sites or through third-party websites or other products and services provided by us (which, together, are referred to as the “ **Services** ”), how we use and disclose such information. We also wish to make sure that you are aware of the options available to you when you access and use our Services.
+
+  1. **Contact Us**
+
+
+
+If you have any questions about this Privacy Policy, please contact us at:
 
 Novelty Magazines Ltd.
 
-Email address: Contact@novelty.media
+Email address: [contact@novelty.media](mailto:contact@novelty.media)
 
-Postal address: 1 Habarzel Street, Tel Aviv, Israel 69710.
-
-Telephone number: 972-36209614
-
-If you are an EU resident, you have the right to make a complaint at any time to the relevant supervisory authority. We would, however, appreciate the chance to deal with your concerns before you approach such authority, so please contact us in the first instance.
+Postal address: Habarzel 1, Tel Aviv, Israel 6971001
 
   1. **Third-Party Links**
 
 
 
-This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy policies and practices. When you leave our website, we encourage you to read the privacy policy of every website you visit.
+The Site may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect information about you. We do not control these third-party services and are not responsible for their privacy, information, or other practices. We encourage you to read the privacy policy of every website or other online service that you visit or use.
 
-  2. **The information we collect and process from your use of the Services.**
-    1. When you use or interact with our Services, we automatically collect (by cookies, web beacons and similar technologies) certain information, such as: (a) anonymous encrypted code representing your Internet protocol (IP) address or your device identifier (if using a mobile device) and being used as a persistent identifier, anonymous login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and version, device information; as well as (b) information about a user’s visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products a visitor viewed or searched for, the frequency and scope of the respective use of the Services, page interaction information (such as scrolling, clicks, and mouse-overs), the content viewed (including advertisements clicked on) and pages visited, and cookie data.
+  2. **Personal Information**
 
 
 
-As such, the information we collect cannot be used by us to specifically identify you. Our Services do not collect any personal information, i.e. information about a natural person such as name, address, email address, phone number, or other identifier that permits direct or indirect identification of a specific individual. To the extent required, the legal grounds for collecting, processing and using your information is your consent, which you may withdraw.
+“Personal Information” is information that identifies you as an individual or relates to an identifiable individual. If you choose to contact us by using the forms provided on our Site, you may choose to provide Personal Information to us, such as your full name, email address, phone number, job title, and company. If you disclose any Personal Information relating to other people to us or to our service providers in connection with the Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.
 
-In addition, when you engage with advertisements that are displayed on the Services, Novelty, third party advertisers and data service providers may use industry-wide tracking methods (e.g., cookies, web beacons, etc.) which store certain information (“ **Methods** ”) and which allow us or such third parties to collect certain data for the purpose of serving advertisements through the use of the Novelty Services (including without limitation, serving advertisements that may be of interest to you). The Methods may store non-personal information as well as a persistent identifier. In such case, you will be subject to such third-party advertisers’ privacy policy. Please note, however, that we do not control such third-party advertisers or service providers, i.e. the third-party advertisers or service providers solely determine the purposes and means of the processing of personal data and are thus data controllers. We generally do not have any access to the information so collected.
+  3. **Use of Personal Information**
 
-To learn more about cookies, please visit <http://www.allaboutcookies.org/>. You may delete or decline cookies by changing your browser settings. The “Help” function in the toolbar of most browsers should indicate how you can set your browser to notify you before accepting cookies or to disable cookies entirely. However, if you refuse to accept cookies, you won’t be able to access and take advantage of many features of our Services properly.
 
-  1. **Collaboration with Google and other Third-Party Ad Networks.**
 
+We and our service providers use Personal Information for legitimate business purposes, including to:
 
+  * **Provide the functionality of the Services and fulfill your requests.**
+    * To respond to your inquiries and fulfill your requests, such as when you contact us by using the forms provided on our Site.
 
-We may collaborate with Google or other third party vendors or advertising networks as business partners. Google uses cookies to help serve the ads it displays on the websites of its partners, such as websites displaying Google ads or participating in Google certified ad networks. When users visit a Google partner’s website, a cookie may be dropped on that end user’s browser.
 
-  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website or other websites.
-  * Google’s use of advertising cookies enables it and its partners to serve ads to you based on you visit to our sites and/or other sites on the Internet.
-  * You may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). Alternatively, you can opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [info](http://www.aboutads.info/).
 
+We will engage in these activities to manage our contractual relationship with you and/or to comply with a legal obligation.
 
+  * **Aggregate and/or anonymize Personal Information.**
+    * We may aggregate and/or anonymize Personal Information so that it will no longer be considered Personal Information. We do so to generate other information for our use, which we may use and disclose for any purpose.
+  * **Accomplish our business purposes.**
+    * For data analysis, for example, to improve the efficiency of our Services;
+    * For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory, or contractual requirements;
+    * For fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft;
+    * For developing new products and services;
+    * For enhancing, improving, or modifying our current products and services;
+    * For identifying usage trends, for example, understanding which parts of our Services are of most interest to users;
+    * For determining the effectiveness of our promotional campaigns, so that we can adapt our campaigns to the needs and interests of our users; and
+    * For operating and expanding our business activities, for example, understanding which parts of our Services are of most interest to our users so we can focus our energies on meeting our users’ interests.
 
-Please be advised that the cookies of other [third-party vendors or ad networks](https://www.google.com/support/dfp_sb/bin/answer.py?answer=94149) may also be used to serve ads on our website, and therefore, please be informed as follows:
 
-  * Third-party vendors and ad networks may serve ads on our site.
-  * You may opt out of personalized advertising from such third-party vendors and ad networks under the following link: [http://optout.aboutads.info/?c=2#!/ ](http://optout.aboutads.info/?c=2#!/)
-  * Alternatively, you can opt out of some third-party vendor’s use of cookies for interest-based advertising by visiting [info](http://www.aboutads.info/).
 
+We engage in these activities to manage our contractual relationship with you, to comply with a legal obligation, and/or because we have a legitimate interest.
 
+  4. **Disclosure of Personal Information**
 
-__Information collected by third parties__. The third parties that display advertisements on our site may use tracking technologies, such as cookies, web beacons and similar technologies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers end users a single location to opt out of ad targeting from member companies ([www.networkadvertising.org)](about:blank).
 
-We also collect, use, and share aggregated data such as statistical or demographic data for any purpose. Aggregated data is not considered personal data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate usage data to calculate the percentage of users accessing a specific website feature.
 
-  3. **How we use the information we collect and store**
+Your Personal Information will be disclosed:
 
+  * **To our affiliates for the purposes described in this Privacy Policy** , including to Novelty Magazines Inc., a Delaware corporation, Songo Media Inc., a Delaware corporation, and Songo Media Ltd., an Israeli entity.
+  * **To our third-party service providers, to facilitate services they provide to us.** These can include providers of services such as website hosting, data analysis, information technology and related infrastructure provision, customer service, auditing, and other services.
 
 
-We respect your privacy. As explained above, Novelty does not collect any personal data or information that can identify you. We generally use the information that we collect and process to provide and improve our services and products, for targeted online and offline marketing, and for general research and aggregate reporting.
 
-We use the information that we collect in order to:
+**Other Uses and Disclosures**
 
-  * deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you;
-  * communicate back to you;
-  * provide and monetize our website; to deliver content or advertising; to perform market research or measure Website usage; and to analyse traffic counts, your interests and website performance;
-  * to perform network communications, to administer our site and to support internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes and as part of our efforts to keep our site safe and secure;
-  * for maintaining and analysing the function of the Services’ features and offerings, advertisements, and e-mail communications, and to improve them when necessary.
-  * Respond and handle your questions and requests. In such cases, we do not store any contact information.
+We also use and disclose your Personal Information as necessary or appropriate, especially when we have a legal obligation or legitimate interest to do so:
 
+  * **To comply with** **applicable law and regulations** , which can include laws outside your country of residence.
+  * **To cooperate with public and government authorities** , to respond to a request or to provide information we believe is important. These can include authorities outside your country of residence.
+  * **To cooperate with law enforcement** , such as when we respond to law enforcement requests and orders or provide information we believe is important, including to law enforcement outside your country of residence.
+  * **For other legal reasons** , such as to enforce our terms and conditions and **t** o protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others.
+  * **In connection with a sale or business transaction.** We have a legitimate interest in disclosing or transferring your Personal Information to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings) Such third parties may include, for example, an acquiring entity and its advisors.
 
-  4. **DISCLOSURE OF YOUR INFORMATION TO THIRD PARTIES**
 
+  5. **Other Information**
 
 
-We value your privacy and will not share information except with the parties set out below for the purposes indicated in the following instances:
 
-  1. _With our affiliates._ This relates to companies that are legally part of the same group of companies that we are part of, or that become part of that group. Currently our affiliates are based in Israel and in the USA.
-  2. _Third-Party Service_ Professional and legal advisers acting as processors including lawyers, bankers, auditors and insurers based in the USA and Israel who provide consultancy, banking, legal, insurance and accounting services or who conduct general business analyses, and who require reporting of processing activities in certain circumstances.
-  3. __We may make use of third party service providers in the course of collecting, storing and/or processing information we collect from and receive about you in order to to deliver content or advertising; to perform market research or measure website usage; and to analyze traffic counts, your interests and website performance. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find interesting and to customize content and advertising.
-  4. We may disclose information that we collect (i) as a response to a legal request (such as a court order, search warrant, or subpoena) if we believe that we are required to do so by applicable law; or (ii) when we believe that such disclosure or use is necessary in order to: reveal, prevent and address fraud, intellectual property infringement, piracy, or other illegal activities; enforce this Policy or our Terms of Use, including in order to investigate potential breaches; protect our rights, property or safety, or those of our users or from members of the public from harm, as required or permitted by law; and prevent death or imminent bodily harm.
-  5. Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use the information we collect in the same way as set out in this Policy.
-  6. We use commercially reasonable efforts to engage with third-party service providers that post a privacy policy governing their collection, processing and use of non-personal and personal information. Please note, however, that we do not control such third party service providers, i.e. the third party service providers solely determine the purposes and means of the processing of personal data and are thus data controllers.
+“Other Information” is any information that does not reveal your specific identity or does not directly relate to an identifiable individual. We may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use and disclose it for the purposes for which we use and disclose Personal Information as detailed in this Privacy Policy. In some instances, we may combine Other Information with Personal Information. If we do, we will treat the combined information as Personal Information as long as it is combined.
 
+  6. **Cookies and Tracking**
 
-  5. **Transfers of Data**
 
 
+When you use or interact with our Services, we or our service providers automatically collect certain information, such as your browser and device information, IP address, and information collected through cookies and similar technologies. We use this information to ensure that the Services function properly, for security purposes, to facilitate navigation, to display information more effectively, to understand and measure how the Services are used, to improve and resolve questions regarding the Services, to resolve When visiting our Site for the first time, you will be prompted to provide consent for our use of cookies questions about them, and to measure the effectiveness of our marketing campaigns.
 
-Please be aware that we may transfer your information, to Israel, the European Union and other countries through certain third parties that we use to operate and manage the Site and Services, including Amazon Web Services (AWS) or Google Cloud Services.
+To learn more about how we use cookies, or to opt out of the collection and use of cookies, please see our _Cookie Notice_ , which is incorporated by reference into this Privacy Policy.
 
-  6. **Data Retention**
+We do not currently respond to browser do-not-track signals.
 
+  7. **Jurisdiction and Cross-Border Transfer**
 
 
-We retain aggregated or anonymous data, which cannot identify an individual or device and is used for purposes of reporting and analysis, for as long as is necessary for the purposes set out in this Policy, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
-  7. **How do We Secure Your Information?**
+Your Personal Information may be stored and processed in any country where we have facilities or in which we engage service providers, and, by using the Services, you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.
 
+  8. **Retention Period**
 
 
-We consider data security a top priority and we do our best to keep your information secure. We have put in place appropriate security measures to prevent information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. Such measures include:
 
-  * Encrypting many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en).
-  * Employing firewalls and intrusion detection systems.
-  * Practicing administrative, technical, and physical security procedures to help protect the information you provide us.
+We retain aggregated or anonymous information, which cannot identify an individual or device and is used for purposes of reporting and analysis, for as long as necessary for the purposes set out in this Privacy Policy, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
+  9. **Information Security**
 
 
-Please keep in mind that no method of transmission over the Internet, or method of electronic storage, is 100% secure. As a result, although we strive to protect your information, we cannot promise or guarantee that such information will be immune from any wrongdoings, malfunctions, unlawful interceptions or access, or other kinds of abuse and misuse.
 
-If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the “Contact Us” section above. **           **
+We have put in place security measures designed to prevent Personal Information from being accidentally lost or acquired, used, accessed, altered, or disclosed in an unauthorized way. Please keep in mind that no method of transmission over the Internet or method of electronic storage is 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of your Personal Information may have been compromised during, or as a result of, your use of the Services), please immediately notify us in accordance with the “Contact Us” section above.
 
-  8. **Protection of Children’s Privacy**
+  10. **Protection of Children’s Privacy**
 
 
 
-We are concerned about the privacy and safety of children when they use the internet. Our Services are not directed to children under sixteen (16).
+We are concerned about the privacy and safety of children when they use the internet. Our Services are not directed to children under eighteen (18).
 
-We will never knowingly request personally identifiable information online from anyone under the age of 16 without prior verifiable parental consent. Our Services are general audience sites and are not targeted to or intended for use by children. However, if we learn that we have received information from a child under the age of 16 without parental consent, we will delete that information from our database.
+We will never knowingly request Personal Information online from anyone under the age of 18 without prior verifiable parental consent. Our Services are general audience sites and are not targeted to or intended for use by children. However, if we learn that we have received information from a child under the age of 18 without parental consent, we will delete that information from our database.
 
-  9. **Your Legal Rights**
+  11. **Choices and Access**
 
 
 
-If you reside in the European Union, you have certain rights under European Data Protection Law with regard to your **personal data**. You have the right to:
+If you would like to request to review, correct, update, suppress, restrict, or delete Personal Information, object to the processing of Personal Information, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent these rights are provided to you by applicable law), you may contact us at [contact@novelty.media](mailto:contact@novelty.media) or Habarzel 1, Tel Aviv, Israel 6971001. We will respond to your request consistent with applicable law.
 
-  * **Request access** to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
-  * **Request correction** of the personal data that we hold about you. This enables you to have any incomplete or inaccurate data we hold about you corrected, though we may need to verify the accuracy of the new data you provide to us.
-  * **Request erasure** of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have successfully exercised your right to object to processing (see below), where we may have processed your information unlawfully or where we are required to erase your personal data to comply with local law. Note, however, that we may not always be able to comply with your request of erasure for specific legal reasons which, if applicable, will be notified to you at the time of your request.
-  * **Object to processing** of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground as you feel it impacts on your fundamental rights and freedoms. You also have the right to object where we are processing your personal data for direct marketing purposes. In some cases, we may demonstrate that we have compelling legitimate grounds to process your information which override your rights and freedoms.
-  * **Request restriction of processing** of your personal data. This enables you to ask us to suspend the processing of your personal data in the following scenarios: (a) if you want us to establish the data’s accuracy; (b) where our use of the data is unlawful but you do not want us to erase it; (c) where you need us to hold the data even if we no longer require it as you need it to establish, exercise or defend legal claims; or (d) you have objected to our use of your data but we need to verify whether we have overriding legitimate grounds to use it.
-  * **Request the transfer** of your personal data to you or to a third party. We will provide to you, or a third party you have chosen, your personal data in a structured, commonly used, machine-readable format. Note that this right only applies to automated information which you initially provided consent for us to use or where we used the information to perform a contract with you.
-  * **Withdraw consent** at any time where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable. Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion.
 
+  12. **Changes to Our Privacy Policy**
 
 
-If you wish to exercise any of the rights set out above, please contact us under: contact@novelty.media _._
 
-You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances
+Any changes we may make to our Privacy Policy in the future will be posted on this page. Your use of the Services following these changes means that you accept the revised Privacy Policy.
 
-We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal data (or to exercise any of your other rights). This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+  13. **Additional Information Regarding the European Economic Area**
 
-We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-**If you do not reside in the European Union but you believe that you have a right to restriction of processing or a right to object to processing under your local laws, please contact Novelty at** contact@novelty.media **      **
 
-  10. **Changes to Our Privacy Policy**
+If you are located within the European Economic Area, you may lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law occurs. A list of data protection authorities is available at [http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080](https://protect-us.mimecast.com/s/GVKtCmZM8ki2Bq0BH312ig).
 
+**NOVELTY MAGAZINES LTD. COOKIE NOTICE**
 
+Last revised: May 31, 2019
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy. To the extent permitted by law, your continued use of our Services following the posting of changes to this Policy or providing notice to you, whichever occurs first, means that you accept those changes.
+This Cookie Notice (“ **Notice** ”) explains more about how Novelty Magazines Ltd. and its affiliates (“ **Novelty** ”, “ **we** ”, “ **us** ” or “ **our** ”) and our authorized service providers, may use cookies, web beacons, and other similar technologies (collectively “ **cookies** ”) on our websites (including [www.icepop.com](http://www.icepop.com/)) (the “ **Sites** ”), as well as your choices related to such use.
 
-  11. **General**
+We may change this Notice at any time. Please refer to the top of this page for the date this Notice was last revised. Any changes in this Notice will become effective when we post the revised Notice to this Site.  This Notice is incorporated in and part of our _Privacy Policy_.
 
+About cookies
 
+A cookie is a file containing an identifier (a string of letters and numbers) that a web server transmits to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
 
-If any provision of this Policy is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Policy, which shall remain in full force and effect, provided, however, that in such event this Policy shall be interpreted so as to give effect, to the greatest extent consistent with, and permitted by, applicable law, to the meaning and intention of the excluded provision as determined by such court of competent jurisdiction. **             **
+Cookies may be either “persistent” cookies or “session” cookies. A persistent cookie will be stored by a web browser and remain valid until its expiration date, unless it is deleted by the user, while a session cookie will expire when the web browser is closed at the end of the user session.
 
-  12. **Governing Law and Jurisdiction**
+Cookies do not typically contain any information that personally identifies a user, but personal data that we store about you may be linked to the information stored in and obtained from cookies. Cookies enable a website to remember your actions and preferences over a period of time, so you don’t have to repetitively enter certain information, perform certain action or configure certain aspects of a website whenever you return to the website or browse from one page to another. More information about cookies and how they work is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
+Cookies that we use
 
+We use cookies to:
 
-This Policy shall be governed by the laws of the State of Israel, without respect to its conflict of laws principles. We each agree to submit to the personal and exclusive jurisdiction of the federal and state courts located in California, and waive any jurisdictional, venue, or inconvenient forum objections to such courts.
+  * Identify you when you visit our Site and as you navigate our Site
+  * Analyze the use and performance of our Site and services
+  * Display advertisements that will be relevant to you
+  * Store your preferences in relation to the use of cookies more generally
 
-  13. **Note to International Users**
 
+  * Maintain your session
+  * Remember your language and origin settings
+  * Remember your past searches on our Sites
+  * Remember your location
+  * Remember your preferences
 
 
-We are a private company incorporated under the laws of Israel. If you are located elsewhere, the information you provide to us or that we collect will be transferred to Israel and the USA and governed by applicable laws and regulations and this Privacy Policy. Some of this information may be transferred to, processed and stored by our service providers in other countries.
 
-Residents of the State of California may request a list of all third parties to which we have disclosed personal information during the preceding year for the third parties’ direct marketing purposes. If you are an Israeli resident and want a list, you should send a request to: contact@novelty.media or, contact us at:1 Habarzel Street, Tel Aviv, Israel 69710
+Cookies used by our service providers
 
-ATTN: Lirit Belisha, Chief Finance Officer
+_Analytics/Performance Cookies_ : Our service providers use cookies that may be stored on your computer when you visit our Site.
 
-You need to provide the statement “Your California Privacy Rights” in the subject field of your e-mail or on the envelope or post card and in the actual request. For all requests, please include your name, street address, city, state, and zip code. We will not accept requests via telephone or by facsimile. We are not responsible for notices that are not labelled or sent properly, or that do not have complete information.
+**Google Analytics.**   We use Google Analytics. Google Analytics gathers information about the use of our Site by means of cookies. This information is used to create reports about the use of our Site. You can find out more about Google’s use of information by visiting <https://www.google.com/policies/privacy/partners/> and you can review Google’s privacy notice at <https://policies.google.com/privacy>. If you want to opt-out of being tracked by Google Analytics, visit the Google Analytics Opt-out page at <https://tools.google.com/dlpage/gaoptout> and install the add-on for your browser.
+
+**Facebook Analytics.**   We use a Facebook pixel on our Site. Using the pixel, Facebook collects information about the users and use of our Site. The information is used to personalize Facebook advertisements and to analyze the use of our Site. To find out more about the Facebook pixel and about Facebook’s use of personal data generally, see the Facebook cookie policy at <https://www.facebook.com/policies/cookies/> and the Facebook privacy policy at <https://www.facebook.com/about/privacy>. If you are a registered Facebook user, you can adjust how advertisements are targeted by following the instructions at <https://www.facebook.com/help/568137493302217>, and you may opt out from tracking by the Facebook pixel under <https://www.facebook.com/settings?tab=ads>.
+
+**Other Third-Party Cookies.** We also use other third party service providers, such as Comscore, Taboola, Quantcast, and Outbrain, which may use cookies for interest-based advertising and behavior analytics. Specifically, you may receive advertisements based on information relating to your access to and use of the Services and other websites or online services on any of your devices, as well as on information received from third parties. These companies place or recognize a unique cookie on your browser (including through the use of pixel tags). They also use these technologies, along with information they collect about your online use, to recognize you across the devices you use, such as a mobile phone and a laptop. If you would like more information about this practice, and to learn how to opt out of it in desktop and mobile browsers on the particular device on which you are accessing this Privacy Policy, please visit [http://optout.aboutads.info/#/](http://optout.aboutads.info/), [http://optout.networkadvertising.org/#/](http://optout.networkadvertising.org/) and www.youronlinechoices.eu.
+
+**Managing cookies**
+
+Most browsers also allow you to refuse to accept cookies and to delete cookies. You can normally change your browser settings within the ‘options’ or ‘preferences’ menu for your browser. You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. You can review your Internet browser settings, typically under the sections “Help” or “Internet Options,” to exercise choices you have for certain Cookies. If you disable or delete certain cookies, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work. Please refer to <http://www.allaboutcookies.org/manage-cookies/index.html> for information on commonly used browsers.
