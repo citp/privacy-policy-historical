@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the square.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607162458id_/https%3A//squareup.com/us/en/legal/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the square.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111200439id_/https%3A//squareup.com/us/en/legal/general/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Users Who Apply or Sign Up for a Square Account
 
@@ -56,7 +56,7 @@ We collect information about you and the devices you use to access the Services,
   * **Device Information.** Information about your device, including your hardware model, operating system and version, device name, unique device identifier, mobile network information, and information about the device’s interaction with our Services.
   * **Use Information.** Information about how you use our Services, including your access time, “log-in” and “log-out” information, browser type and language, country and language setting on your device, Internet Protocol (“IP”) address, the domain name of your Internet service provider, other attributes about your browser, mobile device and operating system, any specific page you visit on our platform, content you view, features you use, the date and time of your visit to or use of the Services, your search terms, the website you visited before you visited or used the Services, data about how you interact with our Services, and other clickstream data.
   * **Business Information.** Information about products and services you sell (including inventory, pricing and other data) and other information you provide about you or your business (including appointment, staffing availability, employee, payroll and contact data).
-  * **Employee Information.** Information provided to a Seller using our Services, for example information about employees whose employers use Square Payroll or Employee Management (including hours worked and other timecard data).
+  * **Employee Information.** Information provided to a Seller using our Services, for example information about employees whose employers use Square Payroll or Team Management (including hours worked and other timecard data).
   * **Customer Information.** Information you collect from your customers, including email address, phone number, payment information, or other information.
 
 
