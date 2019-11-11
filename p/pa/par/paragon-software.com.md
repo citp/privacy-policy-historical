@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531063537id_/https%3A//www.paragon-software.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paragon-software.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111135302id_/https%3A//www.paragon-software.com/privacy) for the most accurate reproduction.*
 
 # Data Protection Policy |Paragon Software Group
 
@@ -25,4 +25,6 @@ If you have any questions or concerns please contact us via our contact form on 
 
 **d) When using our product with a trial**
 
-Some of the products have an option of one-time free trial. In order to establish the proper trial work, such personal data as Google e-mail and/or Facebook data are required. The purpose of the data collection is to associate the device with the trial activation and to keep track of time for the trial mode.
+The Paragon products may hash and send the hashed email address and/or Facebook data to its server. Hashed emails are completely anonymous and used only for trial identification. The hashed data is securely stored on the server for 5 years and then deleted. The data is not shared with third parties.
+
+One product may offer several free trial options. For that, the app needs to uniquely identify users in order to understand which trial they have already used, which they have not; and to track time of the trial in-use. Validating the trial is the only reason for the anonymized data collection.
