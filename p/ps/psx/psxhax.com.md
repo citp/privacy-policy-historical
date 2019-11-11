@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psxhax.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526014645id_/https%3A//www.psxhax.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxhax.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111103407id_/https%3A//www.psxhax.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | PSXHAX - PSXHACKS
 
