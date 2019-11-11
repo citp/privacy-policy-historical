@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poodwaddle.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515074220id_/http%3A//www.poodwaddle.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poodwaddle.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111212032id_/http%3A//www.poodwaddle.com/privacypolicy) for the most accurate reproduction.*
 
 # Poodwaddle
 
@@ -23,7 +23,7 @@ Poodwaddle.com does not use cookies to store your info, but we do use flash cook
   
 _Third Party Vendors (Ad Networks)_
 
-Google, as a third party vendor, uses cookies to serve ads on poodwaddle.com. Google's use of the DoubleClick cookie enables it to serve ads to users based on their visit to www.poodwaddle.com and other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/) or by visiting [aboutads.info](http://www.aboutads.info/)
+Google, as a third party vendor, uses cookies to serve ads on poodwaddle.com. Google's use of the DoubleClick cookie enables it to serve ads to users based on their visit to www.poodwaddle.com and other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/) or by visiting [aboutads.info](http://www.aboutads.info/)
 
 These third-party ad servers or ad networks use browser technologies to send your IP address and other data to their ad network. These technologies ( such as cookies, JavaScript, or Web Beacons) are then used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. Thus, if you travel to a foreign country you will see ads tailored for that location, and also to your own surfing habits.
 
