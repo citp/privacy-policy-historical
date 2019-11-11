@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330083324id_/https%3A//www.boxycharm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxycharm.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111111600id_/https%3A//www.boxycharm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BOXYCHARM: The Best Monthly Beauty and Makeup Box Subscription
 
-Last Modified: November  9th, 2015 
+Last Modified: July  2, 2019 
 
 Boxy Charm Inc. (collectively with its affiliates and subsidiaries 
 
