@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g2play.net privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520132020id_/https%3A//www.g2play.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2play.net privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111034650id_/https%3A//www.g2play.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
