@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330214543id_/https%3A//www.genomeweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genomeweb.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111055740id_/https%3A//www.genomeweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GenomeWeb
 
-_Last updated: May 9, 2018_
+_Last updated: September 16, 2019_
 
-GenomeWeb LLC values your privacy. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our websites and the choices you have associated with that data.
+GenomeWeb values your privacy. This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our websites and the choices you have associated with that data.
 
-GenomeWeb LLC ("us", "we", or "our") operates the [www.genomeweb.com](https://www.genomeweb.com/) and the [www.360dx.com](https://www.360dx.com/) websites (the "Service").
+GenomeWeb ("us", "we", or "our"), a business unit of Crain Communications Inc., operates the [www.genomeweb.com](https://www.genomeweb.com/), [www.360dx.com](https://www.360dx.com/), and [www.precisiononcologynews.com](https://www.precisiononcologynews.com/) websites (the "Service").
 
 We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, [accessible here](https://web.archive.org/terms-conditions).
 
