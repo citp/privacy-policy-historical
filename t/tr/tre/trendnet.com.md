@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendnet.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120131111id_/https%3A//www.trendnet.com/company/%3Fcompany%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendnet.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111165540id_/https%3A//www.trendnet.com/company/%3Fcompany%3Dprivacy_policy) for the most accurate reproduction.*
 
 # About Us | TRENDnet
 
