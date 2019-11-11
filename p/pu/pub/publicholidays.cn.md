@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicholidays.cn privacy policy that was archived on 2019-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190226110909id_/https%3A//publicholidays.cn/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicholidays.cn privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111031101id_/https%3A//publicholidays.cn/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PublicHolidays.cn
 
