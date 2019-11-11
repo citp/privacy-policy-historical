@@ -1,125 +1,94 @@
-> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428003505id_/http%3A//www.visiondirect.co.uk/pageNoParse.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111153948id_/https%3A//www.visiondirect.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Buy Cheap Contact Lenses Online | Vision Direct > Privacy Policy
+# Privacy Policy | Vision Direct UK
 
-We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
+Under this Privacy Notice, we Vision Direct BV and Vision Dispensing Ltd, each subsidiaries of Essilor International, inform you what personal data of yours we collect when you visit our website or use our services, why we collect it, and what we do with it. Your personal data means any information relating to you, in particular your name and contact details such as your home address, your telephone number or your email address.
 
- **(1) What information do we collect?**
+Please take the time to read this Privacy Notice carefully, it is very important that you fully understand how we are processing your personal data and how we are protecting your privacy. If you have any questions regarding our use of your personal data, you can of course contact us as set out below:
 
-We may collect, store and use the following kinds of personal data:
+Our contact details are: Vision Direct, Unit 2, Hudson Court, Great North Way, York Business Park, Nether Poppleton, York YO26 6RB, tel.: 020 7768 5000
 
-[(a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views)
+Our Data Protection Officer is: Laurent Teyssandier, Essilor International, 147, Rue de Paris – F-94220 Charenton Le Pont
 
-[(b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any purchases you make of our goods or services
+## Data we collect when you visit our website
 
-[(c) information that you provide to us for the purpose of registering with us
+When you access our website, we automatically collect and store some of your data in our server logs and in cookies, which are small files we send to your computer when you visit our website.
 
-[(d) information that you provide to us for the purpose of subscribing to our website services, email notifications and/or newsletters
+This data does not allow us to directly identify you; however, it records data related to your browsing on our website, such as the pages that you accessed, the date and time you accessed these pages, your search queries, information on your device (hardware model, operating system version, unique device identifier, Internet protocol address, hardware settings, browser type, browser language), the date and time of your request and referral URL.
 
-[(e) any other information that you choose to send to us
+The provision of your personal data is not required if you only want to visit our website. This means that you may refuse to accept cookies by configuring your web browser accordingly (for more information, refer to the help section of your web browser). However, refusing cookies is likely to disrupt your navigation on our website, in particular by preventing you to access to certain parts of it.
 
- **(2) Cookies**
+## Data we collect when you sign up or when you order products
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
+Some of the services offered on our website require you to sign up. If you want to use these services, we will ask you to provide us with personal data, and we thank you to provide us with complete and accurate data, and also to inform us if your data needs to be updated. If you do not provide us with complete and accurate data, or if you do not inform us that your data needs to be updated, we may not be able to provide you with the services you requested.
 
-We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit. 
+We inform you that we may share your personal data with companies outside Vision Direct. Vision Direct reserves the right to share client personal data with any entity member of the Essilor International Group.
 
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+We collect the following categories of your personal data:
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+  * **Identification data.** This includes your name, telephone number, e-mail address, home address, login and password and will also include details of any purchases
+you have made with us (including the parameters you have entered against ophthalmic products and any prescriptions you have uploaded or emailed to us. 
+  * **Financial data.** This includes in particular your credit card data. Card details are sent directly to the payment provider who provide a secure one-way encrypted token for us to process payments. This token cannot be used to identify your card details.
+  * **IT data.** This includes data related to your browsing on our website, such as the pages that you accessed, the date and time you accessed to these pages, your search queries, information on your device (hardware model, operating system version, unique device identifiers, Internet protocol address, hardware settings, browser type, browser language), the date and time of your request and referral URL. We may also record interactions such as mouse clicks and navigation in order to improve customer experience.
 
-Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites.
 
- **(3) Using your personal data**
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
+## How we use personal data we collect
 
-We may use your personal information to:
+We only use your personal data within the limits authorized by the laws and regulations. Sometimes, we shall use your personal data because the laws and regulations require us to do so. In any case, we do not make any automated decisions solely on automatic processing which may produce legal effects concerning you, or similarly significantly affect you.
 
-(a) administer the website;
+We use your personal data for the following purposes:
 
-(b) improve your browsing experience by personalising the website;
+  * We use your identification data to facilitate delivery of goods you have purchased from us, update you on the progress of your order, send reminders for replenishment, process automatic re-orders, handle returns and service your account and to contact you in case of a product recall. Such a process is based on the agreement we enter into.
+  * We use your financial data to process payments and refunds and to store information as required to fulfil our tax and other regulatory obligations.
+  * We use your IT data to improve your experience on our website, identify and report on bugs and issues, assess the impact of changes we make on customer behaviour, analyse and improve the performance of the website. Such a process is operated for our legitimate interest.
 
-(c) enable your use of the services available on the website;
 
-(d) send to you goods purchased via the website, and supply to you services purchased via the website;
 
-(e) send statements and invoices to you, and collect payments from you;
+## How long we keep personal data we collect
 
-(f) send you general (non-marketing) commercial communications;
+The period for which we store your personal data is shown in the table below:
 
-(g) send you email notifications which you have specifically requested;
+Category of data | Retention period  
+---|---  
+Identification data | 10 years from date of transaction  
+Financial data | 10 years from date of transaction  
+IT data | 12 years from date of interaction  
+  
+## How we protect personal data
 
-(h) send to you our newsletter and other marketing communications relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, by email or similar technology (you can inform us at any time if you no longer require marketing communications) Opt-Out.
+We have measures in place to protect your personal data against unauthorized access, use, or disclosure, including without limitation:
 
-[(i) provide third parties with statistical information about our users – but this information will not be used to identify any individual user;
+  * We implement and maintain sophisticated technical measures to ensure that your personal data is recorded and processed in complete confidentiality and security.
+  * We implement and maintain appropriate restrictions on access to your personal data, and monitoring of the access, use, and transfer of personal data.
+  * All of our employees who have access to your personal data are required to enter into non-disclosure or similar agreements, which imposes obligations on them to comply with our data privacy and confidentiality requirements.
+  * We require any business partners and third party service providers with whom we may share your personal data to comply with any applicable data privacy and confidentiality requirements.
+  * We provide data privacy training on a regular basis to our employees and third parties who have access to personal data.
 
-[(j) deal with enquiries and complaints made by or about you relating to the website; 
 
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
 
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+## What rights you have
 
-All our website financial transactions are handled through our payment services provider, Paypal and Paypoint (Secpay). Your payment details are stored by our payment services providers and not on our website. You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at www.paypal.com). We will share information with Paypal only to the extent necessary for the purposes of processing payments you make via our website.
+Under applicable data protection laws and regulations, you have the right:
 
- **(4) Disclosures**
+  * Of access to, rectification of, and/or erasure of your personal data;
+  * To restrict or object to its processing;
+  * To tell us that you do not wish to receive marketing information;
+  * In some circumstances, to require certain of your personal data to be transferred to you or a third party
+  * To the extent our processing of your personal data is based upon your consent, to withdraw your consent, without affecting the lawfulness of our processing based on your consent before its withdrawal.
 
-We may disclose information about you to [any of our employees, officers, agents, suppliers or subcontractors] insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
-In addition, we may disclose information about you: 
 
-(a) to the extent that we are required to do so by law;
+We are committed to enabling you to exercise your rights: to do so, you can contact us at the details set out at the beginning of this Privacy Notice. Please provide us with the following information, so that we can take on your request with all due consideration:
 
-(b) in connection with any legal proceedings or prospective legal proceedings;
+  * Your name and surname, and a photocopy of your id (photo id such as passport or driving license and proof of address)
+  * Your specific petition (in other words, what rights you want to exercise)
+  * The date of the application and your signature (if you sent your application by postal mail)
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
 
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
 
-(e) to couriers/ shipping companies in order for those companies to contact you regarding your order(s). 
+If you are not happy with the response you get from us after contacting us, you can also lodge a complaint about our processing of your Personal Data with a data protection authority.
 
-Except as provided in this privacy policy, we will not provide your information to third parties.
+## Changes to this Privacy Notice
 
- **(5) International data transfers**
-
-Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy.
-
-Information which you provide may be transferred to countries (including [the United States], [other EU countries]) which do not have data protection laws equivalent to those in force in the European Economic Areas (EEA). 
-
-You expressly agree to such transfers of personal information.
-
- **(6) Security of your personal data**
-
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
-
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted [using SSL technology]. 
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-You are responsible for keeping your password and user details confidential. We will not ask you for your password without your consent.
-
- **(7) Policy amendments**
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
-
-**(8) Your rights**
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
-
-You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
-
- **(9) Third party websites**
-
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
-
- **(10) Updating information**
-
-Please let us know if the personal information which we hold about you needs to be corrected or updated.
-
- **(11) Contact**
-
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to our main email address in   
-[About Us](http://www.visiondirect.co.uk/page.php?xPage=amex_aboutus.html) or by post to VISION DIRECT, Postbus 37030, 1030 AA Amsterdam, Netherlands.
-
-This [privacy policy](http://www.website-law.co.uk/privacypolicy.html) is courtesy of  
-[Employment Law Contracts](http://www.employmentlawcontracts.co.uk/) and [Website Law](http://www.website-law.co.uk/)
+We regularly review our compliance with our Privacy Notice, in particular to make it compliant with new laws and regulations regarding data protection but even if this Privacy Notice may change from time to time, we will not reduce your rights under this Privacy Notice without your explicit consent.
