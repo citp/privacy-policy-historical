@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylove.is privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507185308id_/https%3A//mylove.is/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylove.is privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111215412id_/https%3A//mylove.is/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy - 100% Free Online Dating Site
 
@@ -193,7 +193,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 
 You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
 
-For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <http://www.google.com/intl/en/policies/privacy/>**
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/) **
 
 Advertising
 
@@ -203,7 +203,7 @@ We may use third-party Service Providers to show advertisements to you to help s
  **Google AdSense & DoubleClick Cookie**  
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>**
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/) **
 
 Links To Other Sites
 
