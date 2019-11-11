@@ -1,76 +1,147 @@
-> *The following text is extracted and transformed from the devacurl.com privacy policy that was archived on 2018-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180523093448id_/http%3A//www.devacurl.com/terms-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devacurl.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111171025id_/https%3A//www.devacurl.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# DevaCurl
 
-This website is operated by Deva Concepts, Inc. Throughout the site, the terms “we”, “us” and “our” refer to Deva Concepts, Inc. Deva Concepts, Inc. offers this website, including all information, tools and services available from this site to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here. This Privacy Policy governs the manner in which Deva Concepts LLC. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.devacurl.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Deva Concepts LLC.. 
+**Privacy Policy: Your Privacy Rights
 
-By visiting our website and/ or purchasing something from us, you engage in our “Service” and agree to be bound by the following terms and conditions (“Terms of Service”, “Terms”), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/ or contributors of content. Users will also include anyone who obtains documents, either electronic or non-electronic in version, of content and/or images that have previously appeared or currently appear on the website. 
+Effective Date: September 25, 2019
 
-Please read these Terms of Service carefully before accessing or using our website. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any services. If these Terms of Service are considered an offer, acceptance is expressly limited to these Terms of Service. 
+**DevaCurl knows that your privacy is important to you, and we want you to know that it is important to us too. We created this Policy to explain the types of information we collect through www.devacurl.com and the various social networking platforms that we use (each, a “Site”); how we will use, disclose and protect this information once it is collected; and how you can opt-out of some of our uses and disclosures of your information.
 
-Any new features, content, or tools which are added to the current store shall also become subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes. 
+Here are a few general principles to keep in mind as you read through this Policy:
 
-**SECTION 1 - ONLINE STORE TERMS**
+  * The Site is owned and operated by Deva Concepts, LLC and its corporate affiliates (referred to collectively in this policy as “we,” “us,” “our” and other similar pronouns).
+  * This Privacy Policy does not apply to any Web site or areas of any Web sites that are directed to children under 13.
+  * As our business evolves, this Policy may change, so check back to this page periodically to make sure you understand how your personal information will be treated.
+  *  **Advertisements displayed to you on this Site and elsewhere may be customized to your interests and preferences based on your Personal Information and Site Usage Information (as further described below) collected through our Site. We may work with third parties, such as Facebook and Google, to make this happen. You may be able to opt out of such advertisements. For more information, visit http://www.networkadvertising.org/choices/ or** **http://www.aboutads.info/choices/** **or https://youradchoices.ca/en/tools (in Canada)** **. (You have to opt-out using each of your Web browsing applications and devices separately.) You may also learn how to individually opt-out of these activities for Facebook at https://www.facebook.com/help/568137493302217 and for Google at https://www.google.com/settings/u/0/ads/authenticated?hl=en. However, if you opt-out we may still suggest offerings to you on our Site based on your history at our Site.**
+  * This Policy does not address any data collection by our retail partners.
 
-By agreeing to these [ Terms of Service](http://www.devacurl.com/terms-conditions.html), you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site. 
 
-You may not use our products for any illegal or unauthorized purpose nor may you, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws). Any product that we may provide for you is for your personal use only. You agree not to sell or resell any of the products you have received or purchased from us. We reserve the right, with or without notice, to cancel or reduce the quantity of any order to be filled or products or services to be provided to you that we believe, in our sole discretion, may result in violation of our Terms of Service. 
 
-You must not transmit any worms or viruses or any code of a destructive nature. 
+ **Opt In and Opt Out  
+** You may have the right to opt in to or opt out of certain of our uses and disclosures of your Personal Information. For example, when you are asked to provide Personal Information on this Site, you may have the opportunity to elect to, or not to, receive messages from us by e-mail. You may tell us that you do not want to receive our promotional messages by sending us your name, address, e-mail and phone number to privacy@devacurl.com. You can also opt-out of our promotional emails by clicking on the opt-out link within the e-mail you receive. Please understand that it may take us a few days to process any opt-out request and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, appointments, purchases, activities, transactions and communications with us. To stop receiving promotional messages from third parties who already have your contact information, please contact them directly.
 
-A breach or violation of any of the Terms will result in an immediate termination of your Services. 
+ **What information is collected on this Site?
 
-**SECTION 2 - PERSONAL IDENTIFICATION INFORMATION**
+User-Provided Information
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the siteplace an orderfill out a formrespond to a surveysubscribe to the newsletter and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, credit card information, 
+** “Personal Information” is information that can be used to identify you as an individual or allow someone to contact you, as well as information attributed with such information. We collect Personal Information such as your name; username, alias, postal addresses; e-mail addresses; telephone numbers; wireless device addresses (including text message addresses); photograph; video; hair type; name of the company or salon you work at; credit card and payment information; purchase, site browsing and transaction history; and interests and demographic information. For example, we collect Personal Information when you: conduct a transaction on our Site; make online purchases; review a product; create an account on our Site; sign up for our marketing e-mails; upload photos to the Site; provide your social media content; enter sweepstakes and contests; complete surveys or quizzes; make an online appointment at one of our salons; contribute to a social forum on the Site; or use other services, features or resources we make available on the Site; or submit a comment or question to us.
 
-Users may, however, visit our Site anonymously. 
+Information you are required to provide to us in order to complete your transaction or make your request is indicated with an asterisk next to the field on our online forms. In those cases, you are not required by law to provide the information, but if you do not provide the information, you will not be able to conduct your transaction and we may not be able to respond to your request. An example of this is your payment card information, billing address and shipping address when you make a purchase, or your email address when you sign up to receive emails from us.
 
-We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+The tool provided on the Site to share blog posts and personalization quiz results allows you to send information about our products and offerings to another person. You may also be able to purchase gifts for another person. When you use these offerings, we may ask you for the name and information of the other person, and that information will be protected pursuant to this Privacy Policy.
 
-**SECTION 3 - NON-PERSONAL IDENTIFICATION INFORMATION**
+**Site Usage Information  
+** As is the case with many Web sites, our servers automatically collect your IP address when you visit our Site, and we may associate that with your domain name or that of your Internet access provider, and your general geographic location. We may also capture certain “clickstream data” pertaining to your Site usage. Clickstream data includes, for example, your IP address, information about your computer or device, Web browser and operating system and their settings, the referring page that linked you to the Site, the pages, content or ads you see or click on during your visit and when and for how long you do so, items you download, the next Web site you visit when you leave the Site, and any search terms you have entered on the Site or a referral site.
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information. 
+Among other things, this information enables us to generate analytics reports on the usage of the Site. We may also implement certain Google Analytics Advertising Features (including Remarketing with Google Analytics; Google Display Network Impression Reporting or Google Analytics Demographics and Interest Reporting). To opt-out of your Site usage being included in our Google analytics reports or being used for Google Analytics Advertising Features, you may follow these instructions: https://tools.google.com/dlpage/gaoptout. To learn more about privacy and Google Analytics please consult the Google Analytics overview provided by Google at: http://www.google.com/intl/en/analytics/privacyoverview.html.
 
-**SECTION 4 - WEB BROWSER COOKIES**
+In addition, we may deploy various tracking technologies on the Site to collect additional information about your Site visits. For example:
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly. 
+  * Cookies are small data files stored on your computer or device at the request of a Web site. A cookie assigns a unique numerical identifier to your Web browser, and may enable us to recognize you as the same user who was at our Site in the past, and relate your use of the Site to other information about you, such as your Site usage information and Personal Information. Cookies may also be used to enhance your experience on the Site (for example, by storing your username so you can log in easily, keeping you logged into the Site after you have provided your password, and storing the contents of your shopping cart as you browse) or to collect general usage and aggregated statistical information and detect and prevent fraud. Most browsers can be set to detect cookies and give you an opportunity to reject them, but refusing cookies may, in some cases, inhibit or preclude your use of the Site or its features. You can learn more about the use of cookies, including how to manage or delete them, at www.allaboutcookies.org.
+  * A pixel tag (also known as a “clear GIF” or “web beacon”) is a tiny image – typically just one-pixel – that can be placed on a Web page or in our electronic communications to you in order to help us measure the effectiveness of our content by, for example, counting the number of individuals who visit us online or verifying whether you’ve opened one of our emails or seen one of our Web pages.
 
-**SECTION 5 - HOW WE USE COLLECTED INFORMATION**
 
-Deva Concepts LLC. collects and uses Users personal information for the following purposes: 
 
-To improve customer service Your information helps us to more effectively respond to your customer service requests and support needs.To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.To improve our Site We continually strive to improve our website offerings based on the information and feedback we receive from you.To process transactions We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.To administer a content, promotion, survey or other Site feature To send Users information they agreed to receive about topics we think will be of interest to them.To send periodic emails 
+These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number or identifier to you, your device or household and relate your Site Usage Information to other information about you, including your Personal Information. These technologies also enable us to recognize you when you access our Site using different Web browsers and different computers or devices.
 
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site. 
+ **How is your information used?  
+** We or our service providers may use the information we collect from and about you to perform the following business functions:
 
-**SECTION 6 - HOW WE PROTECT YOUR INFORMATION**
+  * providing you our services
+  * enabling users to use our Site and its features
+  * signing you up to receive our emails
+  * sending you quiz results
+  * processing and fulfilling your transactions and payments
+  * auditing your transactions with us
+  * receiving and posting your product reviews and blog comments
+  * engaging in a chat session with you on our Site
+  * registering you for courses, classes or other education about DevaCurl
+  * adding you to our list of Deva-certified professionals
+  * administering the Site and your account with us
+  * responding to your requests, questions and concerns
+  * verifying customer information
+  * internal research to develop, improve, upgrade and enhance new products, features and offerings for our customers
+  * featuring your social media content
+  * research, analytics and developing new features and offerings on the Site
+  * sending you marketing and other communications, including information about products, services, and events, of ours and of others, that we think might interest you. You may opt out of receiving such notices from us by following the instructions in the “Opt In and Opt Out” section above.
+  * customizing our Site to your interests and history with us
+  * providing you and others with more relevant content and advertisements
+  * advertising and marketing our products and services, contextual advertising, and tailoring ads displayed to you on our Site and elsewhere to your interests and history with us
+  * counting and verifying ad impressions
+  * analytics
+  * auditing compliance and other practices
+  * protecting our rights and property
+  * preventing fraud
+  * detecting security incidents
+  * protecting against malicious, deceptive, fraudulent or illegal activity
+  * bringing claims against wrongdoers
+  * quality and safety assurance measures
+  * debugging software, systems and practices
+  * other purposes disclosed when Personal Information is submitted to us
+  * other limited transactional uses
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site. 
 
-Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users. 
 
-**SECTION 7 - SHARING YOUR PERSONAL INFORMATION**
+To perform the above functions, we may match information collected from you through different means or at different times, including both Personal Information and Site Usage Information, and use such information along with information obtained from other sources (including third parties like data aggregators and sales lead generators), inferences we can derive from Personal Information and Site Usage Information, and publicly accessible information (such as information available publicly on the Internet). This information includes, for example, demographic information and updated contact information. We or our service providers may also use your information to assess the level of interest in, and use of, the Site, our e-mails and our other messaging campaigns both on an individual basis and in the aggregate.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission. 
+The uses of Personal Information and Site Usage Information described above represent, at least, the uses of such information we have made during the twelve-month period prior to the date that this Privacy Policy was last updated.
 
-**SECTION 8 - THIRD-PARTY WEBSITES**
+ **Your California Privacy Rights  
+** California law permits residents of California to request notice of how their information is shared with third parties for direct marketing purposes or to opt out of such sharing. If you are a California resident and would like a copy of this notice or to opt out, please email us at privacy@devacurl.com (please include your name, mailing address and email address).
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website\'s own terms and policies. 
+ **Social Networking  
+** We use several social networking and blogging platforms to communicate with our customers, some of which are operated by third parties, such as Instagram, Facebook, Twitter and Pinterest. This Policy applies to our use of information you submit to us there, but it does not apply to what those third-party platforms do with your information. Those platforms have their own privacy policies, and we encourage you to read them.
 
-**SECTION 9 - CHANGES TO THIS PRIVACY POLICY**
+Our Site may include features and functionalities that allow you to share information with us that you have already provided to a third-party social networking platform. For example, you may be able to create an account on our Site or log-in to our Site using your Facebook account or other third-party credentials. If you do so, then Personal Information or other data that you have provided to that third party will be made available to us, pursuant to the third party’s terms and conditions, and you consent to our use of that information in accordance with this Policy. The information we receive from that third party may depend on the privacy settings you have on the third-party site.
 
-Deva Concepts LLC. has the discretion to update this privacy policy at any time. When we do, revise the updated date at the bottom of this page,. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications. 
+We also include tools on our Site that allow you to share and/or publicly post content or information from our Site to your profile on a third-party social network. Third party social networking platforms and blogging platforms have their own privacy policies which explain how they will use, protect and share your information, including any information you share on those platforms from our Site, and we encourage you to read them.
 
-**SECTION 10 - YOUR ACCEPTANCE OF THESE TERMS**
+ **Do we share Personal Information and Site Usage Information with others?  
+** Yes. We may share your information with others for a variety of reasons. In addition to the kinds of information sharing you might expect, such sharing what you voluntarily post to public areas on the Site with other Site users, we may share your information:
 
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
+  * with third parties who need your information in order to provide services to us or on our behalf, such as those that fulfill orders, provide payment services, web hosting, advertising or marketing services
+  * with our current and future parents, subsidiaries, affiliates, and other companies under common control and ownership
+  * with our co-sponsor(s) if we obtain your information in connection with a contest, sweepstakes, offering, or other promotional activity that is jointly offered by us and any third parties, unless you instruct us not to by following the instructions in the “Opt In and Opt Out” section above.
+  * when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law.
+  * in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business.
 
-**SECTION 11 - CONTACTING US**
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:   
-Deva Concepts LLC.   
-www.devacurl.com 
 
-75 Spring Street, Floor 8 New York, New York, 10012   
-(212) 274-8686 
+When you provide a product review or other user content, that content will be publicly posted. Other users may be able to see your name or other information about you that you post.
+
+In addition, we may share non-personally identifiable Site Usage Information (including aggregate data) with others, for their own use, in a form that does not include your name or contact information.
+
+**Third-Party Ad Servers and Networks  
+** We use third-party advertising companies to serve ads when you visit our Site or elsewhere online. These companies may use information about your visits to this Site and other Web sites as well as other information about you in order to provide advertisements about goods and services of interest to you. These advertisements may appear on this Site and on other Web sites. These companies may employ cookies, clear GIFs and other tracking technologies to cause relevant ads to be displayed to you. We may also use social media advertising platforms, including those operated by Google, Facebook and Instagram, to show you interest-based ads. We may convert your email address, telephone number or other information into a unique value which can be matched by those third parties with a user on their platform or with other data they may have collected from you. This matching allows interest-based ads to be delivered on those platforms. We encourage you to read these businesses’ privacy policies to learn about how they treat your information. **For more information about third-party advertisers and how to prevent them from using your information, visit: the Network Advertising Initiative’s consumer Web site at** [**http://www.networkadvertising.org/choices/**](http://www.networkadvertising.org/choices/) **,** **Digital Advertising Alliance’s Web site at** [**http://www.aboutads.info/choices/**](http://www.aboutads.info/choices/) **or the Digital Advertising Alliance of Canada at** [**https://youradchoices.ca/en/tools**](https://youradchoices.ca/en/tools) **.
+
+Do Not Track Disclosures
+
+**Some web browsers may transmit “do-not-track” (DNT) signals to the websites with which the user communicates. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not change our tracking practices (which are explained in more detail under “Site Usage Information” above) in response to DNT settings in your web browser.
+
+Our third-party partners, such as web analytics companies and third-party ad networks, collect information about your online activities over time and across our Site and other online properties. We utilize Google Analytics for our web analytics and you can opt out of your Site usage data being included in our Google Analytics reports by visiting https://tools.google.com/dlpage/gaoptout.
+
+ **Your Access Rights  
+** You may review, update or modify certain of the Personal Information that is stored in your user account on the Site (if you have one) by logging in to the “My Account” area of the Site. You may request to review, change or delete your personal information by sending an email to privacy@devacurl.com. We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to delete your information is subject to our records retention policies and applicable law.
+
+ **Security  
+** While we endeavor to protect the security and integrity of sensitive Personal Information collected via this Site, due to the inherent nature of the Internet as an open global communications vehicle, we cannot guarantee that any information, during transmission through the Internet or while stored on our system or otherwise in our care, will be absolutely safe from intrusion by others, such as hackers.
+
+If you correspond with us by e-mail, you should be aware that your transmission might not be secure. A third party could view the information you send in transit by such means. We will have no liability for disclosure of your information due to errors or unauthorized acts of third parties during or after transmission.
+
+If you create an account on our Site, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any activity that occurs using your account credentials, whether or not you authorized such activity. Please notify us of any unauthorized use of your password or account or any other breach of security.
+
+If at any time during or after our relationship we believe that the security of your Personal Information in our care may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to notify you as promptly as possible under the circumstances. If we have your e-mail address, we may notify you by e-mail to the most recent e-mail address you have provided us in your account profile. Please keep your e-mail address in your account up to date. You can change that e-mail address anytime in your account profile. If you receive a notice from us, you can print it to retain a copy of it. To receive these notices, you must check your e-mail account using your computer or mobile device and email application software. **If you prefer for us to use the U.S. Postal Service to notify you in this situation, please e-mail us at privacy@devacurl.com.** You can make this election any time, and it will apply to notifications we make after a reasonable time thereafter for us to process your request. You may also use this e-mail address to request a print copy, at no charge, of an electronic notice we have sent to you regarding a compromise of your Personal Information.
+
+ **“Linked-To” Web Sites  
+** The Site may contain links, banners, widgets or advertisements that lead to other Web sites. We are not responsible for these other sites, and so their posted privacy policies (not this Policy) will govern the collection and use of your information on them. We encourage you to read the privacy statements of each Web site visited after leaving the Site to learn about how your information is treated by others.
+
+ **Changes to this Privacy Policy  
+** We may change this Policy from time to time. When we do, we will let you know by posting the changed Policy on this page with a new “Effective Date.” In some cases (for example, if we significantly expand our use or sharing of your Personal Information), we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you. In some cases, we may request your consent to the changes.
+
+**Contact Us  
+** If you have any questions or comments regarding our privacy practices, you may contact us at:  
+Deva Concepts LLC (Devacurl)  
+75 Spring Street, 8th Floor  
+New York, NY 10012  
+Email: privacy@devacurl.com
