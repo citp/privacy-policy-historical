@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cefcu.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531095144id_/https%3A//www.cefcu.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cefcu.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111224727id_/https%3A//www.cefcu.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CEFCU
 
@@ -86,7 +86,7 @@ You have a choice as to whether or not you want your transaction information dis
 
 ### Opting Out with Non-Affiliates
 
-If you prefer that we not share your transaction information with the non-affiliated financial service providers or with non-affiliated, nonfinancial companies, as described above, you may opt out, that is, you may direct us not to share the information (other than disclosures permitted by law), by [printing, completing, and mailing the Mail-in Form (PDF, 74 KB)](https://web.archive.org/content/docs/opt-out-form-9-18.pdf). If you are a resident of California, you will also need to complete the [Important Privacy Choices for Consumers Form (PDF, 44 KB)](https://web.archive.org/content/docs/ca_cons_privacy_choices.pdf).
+If you prefer that we not share your transaction information with the non-affiliated financial service providers or with non-affiliated, non-financial companies, as described above, you may opt out, that is, you may direct us not to share the information (other than disclosures permitted by law), by [printing, completing, and mailing the Mail-in Form (PDF, 74 KB)](https://web.archive.org/content/docs/opt-out-form-9-18.pdf). If you are a resident of California, you will also need to complete the [Important Privacy Choices for Consumers Form (PDF, 44 KB)](https://web.archive.org/content/docs/ca_cons_privacy_choices.pdf).
 
 ### Affiliate Marketing Opt Out
 
