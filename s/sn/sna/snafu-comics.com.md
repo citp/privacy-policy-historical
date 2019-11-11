@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snafu-comics.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629134646id_/http%3A//snafu-comics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snafu-comics.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111041933id_/https%3A//snafu-comics.com/privacy) for the most accurate reproduction.*
 
 # » Privacy Policy
 
