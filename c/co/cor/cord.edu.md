@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the cord.edu privacy policy that was archived on 2015-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150323111133id_/https%3A//www.concordiacollege.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cord.edu privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111121646id_/https%3A//www.concordiacollege.edu/privacy) for the most accurate reproduction.*
 
-# Online Privacy Policy · Concordia College
+# Privacy | Concordia College
 
-### About the Concordia College Website
+## About the Concordia College Website
 
 Concordia College is committed to the privacy of all constituents. This policy refers to the gathering and dissemination practices for all domains owned by the college, including: concordiacollege.edu; cord.edu; goconcordia.com; gocobbers.com;  concordiarecordings.com; concordiatickets.com; concordiachristmas.com; and concordialanguagevillages.org.
 
-#### Information Collected
+### Legitimate Interest Statement
+
+#### Processing of Personal Data
+
+Concordia College has a genuine and legitimate interest in the collection and processing of personal information to carry out the business of the College. We seek to balance this legitimate interest of the College in processing personal data with the individual’s rights as owner of their own data. In some instances we are mandated by government regulation or required by performance of contractual obligations to collect, process and store personal data. The College recognizes the importance of maintaining the security of the information it collects and has processes in place to ensure appropriate usage and protection of personal data. Some examples of uses of personal data include: admissions, financial aid, academic records, health records, development activities, alumni relations, marketing, analytics, internal administration and auditing.
+
+### Information Collected
 
 Concordia College occasionally collects information from our users at different points on our web sites. Typical points of collection are forms, newsletter subscription pages and e-commerce pages. 
 
