@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemmo.eu privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320021204id_/https%3A//pokemmo.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemmo.eu privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111185325id_/http%3A//pokemmo.eu/privacy) for the most accurate reproduction.*
 
 # PokeMMO - Privacy
 
@@ -6,7 +6,8 @@ This privacy policy tells you what to expect when PokeMMO collects personal info
 
   * <http://pokemmo.eu/> and <https://pokemmo.eu/>
   * <https://forums.pokemmo.eu/>
-  * All Services related to the Game.
+  * <https://translate.pokemmo.eu/>
+  * All other Services related to the Game.
 
 
 
@@ -56,10 +57,10 @@ This table explains the cookies we use when you visit PokeMMO and why:
 
 **Company or Software** | **Cookie Name** | **Use/when set** | **Expires in**  
 ---|---|---|---  
-PokeMMO | modtids coppa sfct mqtids anonlogin member_id sfc pass_hash session_id uagent_bypass rteStatus mobileApp | Provides core functionality to the PokeMMO forums. You will likely not have all of these cookies on your computer. | 1-8 years  
+PokeMMO | modtids coppa sfct mqtids anonlogin member_id sfc pass_hash session_id uagent_bypass rteStatus mobileApp JSESSIONID | Provides core functionality to the forums and translate subdomains of pokemmo.eu. You will likely not have all of these cookies on your computer. | 1-8 years  
 Google | __qca __utma __utmb __utmc __utmd __utmv __utmz | Anonymous visitor tracking. You will likely not have all of these cookies on your computer. | 26 years  
-Cloudflare | __cfduid cf_retry cf_use_ob civicAllowCookies | To load balance our servers and provide a better service, we sometimes use [CloudFlare](https://www.cloudflare.com/) which sets this cookie. | 7 years  
-Gravatar | gravatar __qca | To provide user customization and choosable avatars, we sometimes use [Gravatar](https://en.gravatar.com/) which sets this cookie. | 5-42 years  
+Cloudflare | __cfduid cf_retry cf_use_ob civicAllowCookies | To load balance our servers and provide a better service, we sometimes use [CloudFlare](https://www.cloudflare.com/) which sets these cookies. | 7 years  
+Gravatar | gravatar __qca | To provide user customization and choosable avatars, we sometimes use [Gravatar](https://en.gravatar.com/) which sets these cookies. | 5-42 years  
   
 ## 3\. Who collects the personal information
 
@@ -82,11 +83,11 @@ If you are a parent or guardian who has discovered that your child has entered t
 
 PokeMMO takes reasonable precautions to protect Your information: 
 
-  * When users submit information using our Website, the information is encrypted using Secure Socket Layers ("SSL"). 
-  * When interacting with our Servers, the Game Client uses open source cryptographic standards in order to create a secure connection to our Servers. 
+  * When users submit information using our Website, the information is encrypted using Hyper Text Transfer Protocol Secure ("HTTPS") and Transport Layer Security ("TLS"). 
+  * When interacting with our Services, the Game Client uses open source cryptographic standards in order to create a secure connection to our Services. 
   * Account credentials used by You are stored in a non-reversible encrypted manner on PokeMMO's Servers, as defined by open source cryptographic standards. 
   * We use off-site backups, penetration testing, and password protection in order to prevent loss, misuse, or alteration of your personal information. 
 
 
 
-If a flaw is discovered in our implementations of securing your personal information which may result in unwanted loss, misuse, or altercation of the personal information, we will attempt to rectify the situation as soon as possible. Users who have discovered flaws in our implementations are asked to responsibly disclose the flaws by e-mailing desu@pokemmo.eu with all applicable details.
+If a flaw is discovered in our implementations of securing your personal information which may result in unwanted loss, misuse, or altercation of the personal information, we will attempt to rectify the situation as soon as possible. Users who have discovered flaws in our implementations are asked to responsibly disclose the flaws by e-mailing admin@pokemmo.eu with all applicable details.
