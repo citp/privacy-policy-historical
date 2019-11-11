@@ -1,37 +1,142 @@
-> *The following text is extracted and transformed from the myjoyonline.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303142618id_/https%3A//www.myjoyonline.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjoyonline.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111183908id_/https%3A//www.myjoyonline.com/ghana-news/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Myjoyonline.com | Joy 99.7 FM
+# None
 
-Myjoyonline and its advertisers are committed to protecting the privacy of Internet users.
+Effective date: July 09, 2018
 
-## Collection of personally identifiable information for memberships
+The Multimedia Group ("us", "we", or "our") operates the https://www.myjoyonline.com website (the "Service").
 
-Unless you register yourself Myjoyonline does not collect personally identifiable information about you, such as your email adddress, name, age, etc. To register yourself is optional. You can access most of the content of Myjoyonline anonymously without registering yourself.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. 
 
-You must be 18 years or older before you can register yourself.
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://www.myjoyonline.com
 
-Your personally identifiable information is not sold to third parties.
+## Information Collection And Use
 
-Your personally identifiable information will be used to facilitate the communication between you and other members of Myjoyonline. You can determine yourself how if and how much personal information you want to share with the other visitors of Myjoyonline.
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-## Collection of non-personally identifiable information
+### Types of Data Collected
 
-Myjoyonline does obtain some types of non-personally identifiable information such as the ip-address you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This information is used to improve the website by - for example - analyzing which pages are popular and which pages need to be improved. The collected information is not sold to third-parties.
+#### Personal Data
 
-## Usage of cookies by Myjoyonline
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you ("Personal Data"). Personally identifiable information may include, but is not limited to:
 
-Myjoyonline uses [cookies](http://www.cookiecentral.com/faq/) to store information about the country and city from which you are surfing. This information is used to customise the website - content as well as advertisements - according to your geo-graphical location.
+  * Email address
+  * First name and last name
+  * Phone number
+  * Address, State, Province, ZIP/Postal code, City
+  * Cookies and Usage Data
 
-Myjoyonline uses cookies to remember you screenname when commenting on news articles and when joining the chatroom. Without these cookies you would need to re-type your screenname all the time.
 
-Myjoyonline uses a cookie for the Say It Loud forum to determine whether you are a registered user. Without this cookie it will not be possible to automatically give you the priviliges of a registered user.
 
-In all cases you can stop this usage of cookies by Myjoyonline by disabling cookies in your browser. In the helpsection of your browser you will also find information about how to remove existing cookies from Myjoyonline from your computer.
+#### Usage Data
 
-In general you can use Myjoyonline without cookies although it might reduce the user-friendliness of the website.
+We may also collect information how the Service is accessed and used ("Usage Data"). This Usage Data may include information such as your computer's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-## Usage of cookies by Advertisers
+#### Tracking & Cookies Data
 
-Myjoyonline runs advertisements from various renowned advertising networks, such as [Valueclick Media](http://www.valueclickmedia.com/), [Google](http://www.google.com/) and [Adconion](http://www.adconion.com/). Their usage of cookies is governed by the individual privacy policy of the advertising network in question. 
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-A good resource to learn more about your consumer privacy in relation to these advertising networks is the [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/). On this website you can opt out from Behavioral Advertising for all the advertising networks which are member of the NAI.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
+
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
+
+Examples of Cookies we use:
+
+  * **Session Cookies.** We use Session Cookies to operate our Service.
+  * **Preference Cookies.** We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies.** We use Security Cookies for security purposes.
+
+
+
+## Use of Data
+
+The Multimedia Group uses the collected data for various purposes:
+
+  * To provide and maintain the Service
+  * To notify you about changes to our Service
+  * To allow you to participate in interactive features of our Service when you choose to do so
+  * To provide customer care and support
+  * To provide analysis or valuable information so that we can improve the Service
+  * To monitor the usage of the Service
+  * To detect, prevent and address technical issues
+
+
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Ghana and choose to provide information to us, please note that we transfer the data, including Personal Data, to Ghana and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+The Multimedia Group will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+The Multimedia Group may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  * To comply with a legal obligation
+  * To protect and defend the rights or property of The Multimedia Group
+  * To prevent or investigate possible wrongdoing in connection with the Service
+  * To protect the personal safety of users of the Service or the public
+  * To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service ("Service Providers"), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+  * **Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <https://policies.google.com/privacy?hl=en>
+
+
+
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children's Privacy
+
+Our Service does not address anyone under the age of 18 ("Children").
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+  * By email: info@myjoyonline.com
+  * By visiting this page on our website: https://www.myjoyonline.com/ghana-news/contact.php
+  * By phone number: 030 221 6540
+
+
