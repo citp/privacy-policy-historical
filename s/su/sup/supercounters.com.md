@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercounters.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611200332id_/http%3A//www.supercounters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercounters.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111183109id_/http%3A//www.supercounters.com/privacy) for the most accurate reproduction.*
 
 # Supercounters - Privacy
 
