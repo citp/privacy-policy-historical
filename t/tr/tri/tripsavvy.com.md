@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripsavvy.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630232341id_/https%3A//www.tripsavvy.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsavvy.com privacy policy that was archived on 2019-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191111020333id_/https%3A//www.tripsavvy.com/legal%23privacy) for the most accurate reproduction.*
 
 # Terms of Use and Policies
 
@@ -345,6 +345,10 @@ If you have an unresolved privacy or data use concern that we have not addressed
 Our Notice to California Residents
 
 Subject to certain limits, under California law California residents may ask us to provide them with a list of the categories of personal data that we have disclosed to third parties for those third parties’ direct marketing purposes during the preceding calendar year, as well as the identity of those third parties. California residents may contact us as specified in the How to Contact Us section above to make a request for this information.
+
+Our Notice to Nevada Residents
+
+Under Nevada law, Nevada residents may opt out of the sale of certain “covered information” collected by operators of websites or online services. We currently do not sell covered information, as “sale” is defined by such law, and we don’t have plans to sell this information. However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, please go to [NevadaPrivacy@tripsavvy.com](mailto:NevadaPrivacy@tripsavvy.com) to provide your name and email address. We may share your data as explained in this privacy policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request. You may also have other choices regarding our data practices as set forth elsewhere in this privacy policy.
 
 **If you are located in the European Economic Area (EEA):**
 
