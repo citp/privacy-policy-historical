@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 1and1.ca privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408102123id_/https%3A//www.ionos.ca/terms-gtc/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1and1.ca privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112025246id_/https%3A//www.ionos.ca/terms-gtc/terms-privacy) for the most accurate reproduction.*
 
 # Privacy policy - IONOS T&C
 
-1&1 IONOS Inc. has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website and the services offered by 1&1 IONOS. This Privacy Policy governs the manner in which 1&1 IONOS Inc. (1&1 IONOS) uses, maintains and discloses information collected from its customers and users of its website. This website is not directed at children under 13 years of age.
+1&1 IONOS Inc. has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website and the services offered by 1&1 IONOS. This Privacy Policy governs the manner in which 1&1 IONOS Inc. (1&1 IONOS) uses, maintains and discloses information collected from its customers and users of its website. This website is not directed at children under 13 years of age.
 
 ###  Information We Collect 
 
@@ -78,7 +78,7 @@ You are responsible for the security of your Customer ID and passwords. Make sur
 
 California Civil Code \xA71798.83 permits our visitors who are California residents to request certain information regarding the disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to PrivacyPolicy@1and1.com or write to us:
 
-1&1 IONOS Inc. Privacy Rights
+1&1 IONOS Inc. Privacy Rights
 
 701 Lee Road
 
@@ -94,4 +94,4 @@ This website utilizes Mouseflow, a web analysis tool from Mouseflow ApS, to reco
 
 Revised: October 12, 2018  
 
-© 2018 1&1 IONOS Inc. All rights reserved.
+© 2018 1&1 IONOS Inc. All rights reserved.
