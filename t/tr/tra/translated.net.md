@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625014530id_/https%3A//translated.com/confidentiality) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translated.net privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112030716id_/https%3A//translated.com/confidentiality) for the most accurate reproduction.*
 
 # Translation Service - Confidentiality - Translated
 
@@ -85,11 +85,20 @@ Each browser has a different procedure for managing settings. Below are specific
 
 
 
-##### Third-Party Cookies
+#### V. Third-Party Cookies
 
 This site also acts as an intermediary for third-party cookies, which are used to provide additional services and features to users. These also improve user experience of the site via such things as buttons for social media, or videos. This site has no control over the cookies of third parties—they are entirely managed by third parties. As a consequence, information on the use of these cookies and their purpose, as well as how to disable them, are provided directly by the third parties on the pages indicated below.
 
-#### V. Social Networks
+##### DMP
+
+Cookie Name: 3rdPlace  
+Purpose: 3rdPlace offers profiling and advertising services based on the behaviour and interests of online users.  
+Type: Third party  
+Duration: Persistent  
+Consent: Required  
+More information: You can read the privacy policy and disable tracking at the following URL: https://thirdplace-pixel.appspot.com/policy/ 
+
+##### Social Network
 
 This website also incorporates plugins and/or buttons for social networks, in order to allow easy sharing of content on your favorite social networks. These plugins are programmed so as not to set any cookies when users access the page in order to safeguard the privacy of users. Cookies may be set, if so provided by the social networks, only when the user makes effective and voluntary use of the plugin. Please note that if the user browses the website while logged in to the social network, then he/she has already given consent to the use of cookies conveyed through this site at the time of registration to the social network.
 
