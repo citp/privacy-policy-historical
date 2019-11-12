@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swgohevents.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531234902id_/https%3A//swgohevents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swgohevents.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112233418id_/https%3A//swgohevents.com/privacy-policy) for the most accurate reproduction.*
 
 # SWGOH Guild Mercs of Malachor is recruiting active players
 
