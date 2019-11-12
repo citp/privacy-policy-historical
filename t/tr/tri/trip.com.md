@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trip.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417024305id_/https%3A//pages.trip.com/service-guideline/privacy-policy-en-us.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trip.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112081916id_/https%3A//pages.trip.com/service-guideline/privacy-policy-en-us.html) for the most accurate reproduction.*
 
 # Privacy Statement - Trip.com
 
