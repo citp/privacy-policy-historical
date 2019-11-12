@@ -1,23 +1,29 @@
-> *The following text is extracted and transformed from the celemony.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308184249id_/https%3A//www.celemony.com/en/service/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celemony.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112135130id_/http%3A//www.celemony.com/en/service/legal) for the most accurate reproduction.*
 
 # Celemony | Privacy policy
 
 **a) When you visit our website**
 
-When you visit our website www.celemony.com, the browser on your device automatically sends information to the server on our website. This information is temporarily stored in a so-called log file. The following information is recorded without your intervention and stored until it is automatically deleted after 14 days:  
-• the IP address of the requesting computer;  
-• the date and time of access;  
-• the name and URL of the retrieved file;  
-• the volume of data transmitted;  
-• notification of successful retrieval;  
-• the website from which access is made (referrer URL);  
-• the browser you are using, the operating system of your computer and the name of your access provider.
+When you visit our website www.celemony.com, the browser on your device automatically sends information to the server on our website. This information is temporarily stored in a so-called log file. The following information is recorded without your intervention and stored until it is automatically deleted after 14 days:
 
-The above-mentioned data will be processed by us for the following purposes:  
-• to ensure a smooth connection to the website;  
-• to assure a user-friendly experience on our website;  
-• for the evaluation of system security and stability;  
-• for other administrative purposes.
+  * the IP address of the requesting computer;
+  * the date and time of access;
+  * the name and URL of the retrieved file;
+  * the volume of data transmitted;
+  * notification of successful retrieval;
+  * the website from which access is made (referrer URL);
+  * the browser you are using, the operating system of your computer and the name of your access provider.
+
+
+
+The above-mentioned data will be processed by us for the following purposes:
+
+  * to ensure a smooth connection to the website;
+  * to assure a user-friendly experience on our website;
+  * for the evaluation of system security and stability;
+  * for other administrative purposes.
+
+
 
 The legal basis for the data processing is Art. 6(1)(f) GDPR. Our legitimate interest follows from the purposes listed above for data collection. We do not use the data collected to draw any conclusions about you personally. Furthermore, this data is never merged with other data. We reserve the right, however, to examine the log files subsequently, should we become aware of any concrete indications of illegal use.
 
@@ -31,11 +37,11 @@ In the case of payment by credit card, the data (card number, cardholder, expiry
 
 The legal basis for the above-mentioned data processing, in so far as the data are required for the fulfillment of your order, is Art. 6(1)(b) GDPR, or in the case of additional information you have provided freely, Art. 6(1)(a) GDPR.
 
-We may also process the email address you provide when you complete your purchase to provide you with important technical information about the products you have purchased or to inform you of other products in our range that may be of interest to you. The legal basis for this data processing is Art. 6(1)(f) GDPR or Art. 6(1)(f) GDPR in conjunction with § 7(3) UWG (the German law against unfair competition). Our legitimate interests here are customer retention and the promotion of our business through the provision of product information based on your previous purchases and technical information relevant to you to maintain or enhance the performance of your products. You can object to our sending you product-related emails of this type without incurring any costs other than those of transmission at the current rates. For this purpose, it is enough to send an email to this effect to info@celemony.com or click on the “unsubscribe” link provided at the end of each of our info emails.
+We may also process the email address you provide when you complete your purchase to provide you with important technical information about the products you have purchased or to inform you of other products in our range that may be of interest to you. The legal basis for this data processing is Art. 6(1)(f) GDPR or Art. 6(1)(f) GDPR in conjunction with § 7(3) UWG (the German law against unfair competition). Our legitimate interests here are customer retention and the promotion of our business through the provision of product information based on your previous purchases and technical information relevant to you to maintain or enhance the performance of your products. You can object to our sending you product-related emails of this type without incurring any costs other than those of transmission at the current rates. For this purpose, it is enough to do one of three things: i) send an email to this effect to info@celemony.com; ii) click on the “unsubscribe” link provided at the end of each of our info emails; iii) change the corresponding setting on the profile page of your user account.
 
- **c) In the context of your myCelemony account**
+ **c) In the context of your user account**
 
-As part of our online purchasing process (or online registration process, if the product was purchased from a physical retail outlet), you are asked to create a myCelemony user account by entering a user name and password. Your myCelemony account gives you a convenient overview of your licenses and customer data and provides you with the latest versions for your Celemony products. From your myCelemony account, you can also adjust your newsletter preferences, which provides you with an alternative method of unsubscribing. You can access your myCelemony account at any time and adjust your preferences. Your myCelemony account data cannot be seen by third parties.
+As part of our online purchasing process (or online registration process, if the product was purchased from a physical retail outlet), you are asked to create a user account by entering an email address and a password. Your user account gives you a convenient overview of your licenses and customer data and provides you with the latest versions of your Celemony products. From your user account, you can also adjust your newsletter preferences, which provides you with an alternative method of unsubscribing. You can access your user account at any time and adjust your preferences. Your user account data cannot be seen by third parties.
 
 The legal basis for the above-mentioned data processing is Art. 6(1)(f) GDPR. Our legitimate interest lies in the desire to foster customer loyalty and satisfaction by setting aside an area of the website from which you can obtain a clear overview of all your Celemony products as well as any updates that may be available, and where you can update your personal data and preferences in a swift and uncomplicated manner.
 
@@ -43,19 +49,19 @@ The legal basis for the above-mentioned data processing is Art. 6(1)(f) GDPR. Ou
 
 Before you can avail yourself of the full functionality of your Celemony product, it must be activated via our server. This is a copy-protection measure.
 
-In the course of the activation process, an automatic analysis of your device environment is conducted and a license code generated, which is then stored on your hard disk. By combining this with another numerical code generated in the course of the above-mentioned analysis of your device environment and transmitted to our product, your authorization to use the software can be verified when the software is subsequently launched. The data stored by us in the course of this process comprises anonymous numerical codes from which no conclusions can be drawn either about you or your device environment.
+In the course of the activation process, an automatic analysis of your device environment is conducted and a license code (aka ‘Host ID’) generated, which is then stored on your hard disk. By combining this with another numerical code generated by our server in the course of the above-mentioned analysis of your device environment and transmitted to our product, your authorization to use the software can be verified when the software is subsequently launched. The data stored by us in the course of this process comprises anonymous numerical codes that cannot be traced back to you.
 
 The legal basis for the above-mentioned data processing is Art. 6(1)(f) GDPR. Our legitimate interest lies in preventing the unlawful copying of our software.
 
  **e) When you contact our Support team**
 
-Any difficulties you may encounter in the use of our products can be raised with our Support team, usually by sending an e-mail to support@celemony.com. When you do so, any processing by us of the data you send us is for the sole purpose of responding to your requests. Once the matter in question has been resolved, we retain this data for a period of 3 years to increase the speed and quality of our response to further support requests.
+Any difficulties you may encounter in the use of our products can be raised with our Support team, usually by sending an e-mail to support@celemony.com. When you do so, any processing by us of the data you send us is for the sole purpose of responding to your requests. Once the matter in question has been resolved, we retain this data for a period of 5 years to increase the speed and quality of our response to further support requests.
 
 The legal basis for the data processing is Art. 6(1)(f) GDPR. Our legitimate interests lie in facilitating the problem-free use of our products by customers as well as, with respect to the storage of such data, increasing the efficiency of our future support efforts and thereby customer satisfaction.
 
  **f) When you subscribe to our newsletter**
 
-From various pages of our website you can subscribe to our free newsletter. Should you do so, the newsletter will be sent to the e-mail address you provide. You will then receive from us on, a regular basis, up-to-date information on updates, offers and workshops devoted to Celemony products. All data processing arising from the dispatch of the newsletter is confined to our own servers.  
+From your user account, you can subscribe to our free newsletter. Should you do so, the newsletter will be sent to the e-mail address you provide. You will then receive from us on, a regular basis, up-to-date information on updates, offers and workshops devoted to Celemony products. All data processing arising from the dispatch of the newsletter is confined to our own servers.  
 In addition to your e-mail address, we will store the times of your subscription and confirmation and the IP addresses used in each case. The purpose of this procedure is to verify your subscription and help us detect the possible abuse of your personal data.
 
 The provision of additional data is voluntary; such data will be used to address you more personally. If you have provided us with information regarding your place of residence, we will use it to avoid plying you with content of little interest to you. From the ZIP or postcode you have provided, for instance, we can avoid telling you about events that would require your travelling unreasonable distances to attend.
@@ -66,7 +72,7 @@ If you are already a registered user, you have the possibility when subscribing 
 
 The legal basis for this data processing is your freely granted consent under Art. 6(1)(a) GDPR. You can object to this at any time either by changing the newsletter settings in your Celemony profile or simply by unsubscribing to the newsletter.
 
-You can cancel your newsletter subscription at any time, for example, by clicking on the link provided for the purpose at the end of each newsletter. Alternatively, you can send an e-mail to info@celemony.com expressing your desire to unsubscribe.
+You can cancel your newsletter subscription at any time, for example, by clicking on the link provided for the purpose at the end of each newsletter. Alternatively, you can send an e-mail to [privacy@celemony.com](mailto:privacy@celemony.com) expressing your desire to unsubscribe or change the newsletter settings of your user account.
 
  **g) When you use our newsletter**
 
