@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperup.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413070526id_/https%3A//www.wallpaperup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperup.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112115400id_/https%3A//www.wallpaperup.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | WallpaperUP
 
@@ -95,7 +95,7 @@ If you make a request, we have one month to respond to you. If you would like to
 
 Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.
 
-For further information, visit [allaboutcookies.org](https://web.archive.org/web/20190413070526id_/https%3A//www.wallpaperup.com/allaboutcookies.org).
+For further information, visit [allaboutcookies.org](https://web.archive.org/web/20191112115400id_/https%3A//www.wallpaperup.com/allaboutcookies.org).
 
 ### How do we use cookies?
 
