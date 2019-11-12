@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getaway.co.za privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630143420id_/https%3A//www.getaway.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaway.co.za privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112024242id_/https%3A//www.getaway.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Getaway Magazine
 
