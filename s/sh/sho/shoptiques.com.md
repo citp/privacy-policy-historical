@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoptiques.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127132152id_/https%3A//www.shoptiques.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptiques.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112101342id_/https%3A//www.shoptiques.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Shoptiques
 
@@ -89,6 +89,6 @@ b. displaying a prominent announcement above the text of this Privacy Policy for
   18. **Historical Modifications:**   
 10/1/2011 Original Privacy Policy Posted.   
 5/24/18 This Current Version Posted. 
-  19. **How to contact us:** We always want to hear from our customers (especially if you feel we’ve let you down or could do better). If you have any questions or feedback about this notice, or would like us to stop using your information, or want to exercise any of your rights as set out above or have a complaint please don’t hesitate to contact our customer service team at [support@shoptiques.com](mailto:support@shoptiques.com), who will be happy to answer any questions you may have. You can contact our privacy team by dropping us a line at [privacy@shoptiques.com](mailto:privacy@shoptiques.com). Or if you’d like to, you can write to us at: Shoptiques, Inc., 75 Broad St. Suite 1010, New York, NY 10004, Attn: Chief Operating Officer or Chief Executive Officer.
+  19. **How to contact us:** We always want to hear from our customers (especially if you feel we’ve let you down or could do better). If you have any questions or feedback about this notice, or would like us to stop using your information, or want to exercise any of your rights as set out above or have a complaint please don’t hesitate to contact our customer service team at [support@shoptiques.com](mailto:support@shoptiques.com), who will be happy to answer any questions you may have. You can contact our privacy team by dropping us a line at [privacy@shoptiques.com](mailto:privacy@shoptiques.com). Or if you’d like to, you can write to us at: Shoptiques, Inc., 41 East 11th Street 11th Floor New York, NY 10003, Attn: Chief Operating Officer or Chief Executive Officer.
 
 
