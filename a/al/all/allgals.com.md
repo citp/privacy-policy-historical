@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allgals.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529224029id_/https%3A//www.fuq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgals.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112010421id_/https%3A//www.fuq.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## for fuq.com
 
-Last Modified: May 29, 2019  
+Last Modified: August 2, 2019  
 
 
 This website fuq.com ('site') is operated by PB Web Media B.V.('we', 'us', 'our'). We process personal and non-personal (anonymous) data about our site's visitors ('you', 'your'). This Privacy Policy is intended to explain to you what personal data we process through your use of the site and what we do with that data. By visiting our site and using our services, you agree to the terms stated in this Privacy Policy. 
@@ -64,9 +64,9 @@ We only retain this personal data for as long as necessary for the purposes ment
 
 #### A. Cookies
 
-This website uses cookies. According to the GDPR parts of this information could be interpreted as (online) identifiers and therefore may qualify as personal data, especially when this data is combined. However, we consider the data we process through cookies anonymous, since this information does not relate to an identified or identifiable natural person. For full transparency we have outlined more information on the cookies that are placed through our site below. 
+This website uses cookies and other similar technologies, such as local storage (collectively referred to as “cookie" or "cookies” in this document). According to the GDPR parts of this information could be interpreted as (online) identifiers and therefore may qualify as personal data, especially when this data is combined. However, we consider the data we process through cookies anonymous, since this information does not relate to an identified or identifiable natural person. For full transparency we have outlined more information on the cookies that are placed through our site below. 
 
-A cookie is a small file that is being delivered to you through the pages of this site and that is being stored on your computer. The information stored on this cookie is being used by us each time you visit our site. Cookies help us to analyze the traffic to and from our site and deliver our visitors a better experience during their visit. 
+A cookie is a small file that is being delivered to you through the pages of this site and that is being stored on your computer. Local storage is an industry-standard technology that allows a website or application to store information locally on your computer or mobile device. The information stored in cookies is being used by us each time you visit our site. Cookies help us to analyze the traffic to and from our site and deliver our visitors a better experience during their visit. 
 
 ##### Cookie consent
 
@@ -92,7 +92,7 @@ You can easily withdraw your consent to our use of cookies by clearing your cook
 
 
 
-For an overview of cookies that are placed through our site see the table below: 
+For an overview of cookies and similar technologies that may be placed through our site see the table below: 
 
 Name | Type | Purpose  
 ---|---|---  
@@ -104,6 +104,7 @@ _gat | Persistent cookie | Third party analytics by Google
 _utma | Persistent cookie | Third party analytics by Google  
 session | Session based cookie | First party cookie, stores user session  
 locale | Persistent cookie | First party cookie, stores language setting  
+usbl. | Local storage | Local storage object by Usabilla, enables feedback options  
   
 #### B. Other technical information provided by you, your browser or your device.
 
