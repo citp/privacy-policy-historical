@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the panpacific.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209144827id_/https%3A//www.panpacific.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panpacific.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112081204id_/https%3A//www.panpacific.com/en/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Pan Pacific Hotels and Resorts
+# Privacy Policy
 
 **_Data Protection Policy_**
 
@@ -10,24 +10,17 @@
 
 This Data Protection Policy supplements but does not supersede nor replace any other consents you may have previously provided to PPHR in respect of your Personal Data, and your consents herein are additional to any rights which to any of the Companies may have at law to collect, use or disclose your Personal Data. 
 
-PPHR may from time to time update this Data Protection Policy to ensure that this Data Protection Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Data Protection Policy as updated from time to time on our website [[panpacific.com](http://www.panpacific.com/)]. Please check back regularly for updated information on the handling of your Personal Data.
+PPHR may from time to time update this Data Protection Policy to ensure that this Data Protection Policy is consistent with our future developments, industry trends and/or any changes in legal or regulatory requirements. Subject to your rights at law, you agree to be bound by the prevailing terms of the Data Protection Policy as updated from time to time on our website [[https://www.panpacific.com](https://www.panpacific.com/)]. Please check back regularly for updated information on the handling of your Personal Data.
 
 **_1\. Personal Data_**
 
-  
+**1.1**  In this Data Protection Policy, “ _Personal Data_ ” refers to any data, whether true or not, about an individual who can be identified (a) from that data; or (b) from that data and other information to which we have or are likely to have access, including data in our records as may be updated from time to time.
 
-
-**1.1** In this Data Protection Policy, “
-
- _Personal Data_
-
-” refers to any data, whether true or not, about an individual who can be identified (a) from that data; or (b) from that data and other information to which we have or are likely to have access, including data in our records as may be updated from time to time.
-
-**1.2** Examples of such Personal Data you may provide to us include (depending on the nature of your interaction with us) your name, NRIC, passport or other identification number, telephone number(s), mailing address, email address, network data and any other information relating to any individuals which you have provided us in any forms you may have submitted to us, or via other forms of interaction with you.
+**1.2**  Examples of such Personal Data you may provide to us include (depending on the nature of your interaction with us) your name, NRIC, passport or other identification number, telephone number(s), mailing address, email address, network data and any other information relating to any individuals which you have provided us in any forms you may have submitted to us, or via other forms of interaction with you.
 
 **_2\. Collection of Personal Data_**
 
-**2.1** Generally, we collect Personal Data in the following ways:
+**2.1**  Generally, we collect Personal Data in the following ways:
 
 (a) when you submit an application form or other forms relating to any of our Products and Services (defined below);
 
@@ -47,15 +40,15 @@ PPHR may from time to time update this Data Protection Policy to ensure that thi
 
 (i) when you submit your Personal Data to us for any other reasons.
 
-**2.2** When you browse our website, you generally do so anonymously but please see the section below on cookies. We do not at our website automatically collect Personal Data unless you provide such information or login with your account credentials.
+**2.2**  When you browse our website, you generally do so anonymously but please see the section below on cookies. We do not at our website automatically collect Personal Data unless you provide such information or login with your account credentials.
 
-**2.3** If you provide us with any Personal Data relating to a third party (e.g. information of your spouse, children, parents, and/or employees), by submitting such information to us, you represent to us that you have obtained the consent of the third party to provide us with their Personal Data for the respective purposes.
+**2.3**  If you provide us with any Personal Data relating to a third party (e.g. information of your spouse, children, parents, and/or employees), by submitting such information to us, you represent to us that you have obtained the consent of the third party to provide us with their Personal Data for the respective purposes.
 
-**2.4** You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with the Products and Services you have requested.
+**2.4**  You should ensure that all Personal Data submitted to us is complete, accurate, true and correct. Failure on your part to do so may result in our inability to provide you with the Products and Services you have requested.
 
-**_3\. Purposes for the Collection, Use and Disclosure of Your Personal Data_**  
+**_3\. Purposes for the Collection, Use and Disclosure of Your Personal Data_**
 
-**3.1** **Generally** , PPHR collects, uses and discloses your Personal Data for the following purposes:
+**3.1**   **Generally** , PPHR collects, uses and discloses your Personal Data for the following purposes:
 
 (a) responding to your queries and requests;
 
@@ -81,7 +74,7 @@ PPHR may from time to time update this Data Protection Policy to ensure that thi
 
 (l) purposes which are reasonably related to the aforesaid.
 
-**3.2** **In addition** , PPHR collects, uses and discloses your Personal Data for the following purposes:
+**3.2**   **In addition** , PPHR collects, uses and discloses your Personal Data for the following purposes:
 
 (a) If you are a customer or an employee of an organisation which is a customer of PPHR (for products and services relating to, without limitation, hotels and resorts, restaurants, spas, meetings, and events (“Products and Services”)): 
 
@@ -155,16 +148,9 @@ PPHR may from time to time update this Data Protection Policy to ensure that thi
 
 (xiv) any other purposes relating to any of the above.
 
-**3.3** Furthermore, where permitted under the Act:
+**3.3**  Furthermore, where permitted under the Act:
 
-  
-
-
-(a) PPHR may also collect, use and disclose your Personal Data for the following “
-
- _PPHR Additional Purposes_
-
-”: 
+(a) PPHR may also collect, use and disclose your Personal Data for the following “ _PPHR Additional Purposes_ ”: 
 
 (i) analytics and tracking, including facilitating the sale of analytical data on an aggregated and/or non-personally identifiable basis;
 
@@ -186,17 +172,17 @@ PPHR may from time to time update this Data Protection Policy to ensure that thi
 
 In addition, where permitted under the Act and subject to the provisions of any applicable law, your Personal Data may be disclosed, for PPHR Additional Purposes, to the vendors or other third party service providers in connection with promotions and services offered by PPHR.
 
-**3.4** If you have provided your Singapore telephone number(s) and have indicated that you consent to receiving marketing or promotional information via your Singapore telephone number(s), then from time to time, PPHR may contact you using such Singapore telephone number(s) (including via voice calls, text, fax or other means) with information about our Products and Services.
+**3.4**  If you have provided your Singapore telephone number(s) and have indicated that you consent to receiving marketing or promotional information via your Singapore telephone number(s), then from time to time, PPHR may contact you using such Singapore telephone number(s) (including via voice calls, text, fax or other means) with information about our Products and Services.
 
-**3.5** In relation to particular Products and Services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use or disclose your Personal Data. If so, we will collect, use and disclose your Personal Data for these additional purposes as well, unless we have specifically notified you otherwise.
+**3.5**  In relation to particular Products and Services or in your interactions with us, we may also have specifically notified you of other purposes for which we collect, use or disclose your Personal Data. If so, we will collect, use and disclose your Personal Data for these additional purposes as well, unless we have specifically notified you otherwise.
 
-**3.6** You have a choice to withdraw your consent for receiving marketing or promotional materials/communication. You may contact us using the contact details found below. 
+**3.6**  You have a choice to withdraw your consent for receiving marketing or promotional materials/communication. You may contact us using the contact details found below. 
 
-**3.7** Please be aware that once we receive confirmation that you wish to withdraw your consent for marketing or promotional materials/communication, it may take up to [30 working days] for your withdrawal to be reflected in our systems. Therefore, you may still receive marketing or promotional materials/communication during this period of time. Please note that even if you withdraw your consent for the receipt of marketing or promotional materials, we may still contact you for other purposes in relation to the Products and Services that you have requested from PPHR.
+**3.7**  Please be aware that once we receive confirmation that you wish to withdraw your consent for marketing or promotional materials/communication, it may take up to [30 working days] for your withdrawal to be reflected in our systems. Therefore, you may still receive marketing or promotional materials/communication during this period of time. Please note that even if you withdraw your consent for the receipt of marketing or promotional materials, we may still contact you for other purposes in relation to the Products and Services that you have requested from PPHR.
 
-**_4\. Disclosure of Personal Data_**  
+**_4\. Disclosure of Personal Data_**
 
-**4.1** PPHR will take reasonable steps to protect your Personal Data against unauthorised disclosure. Subject to the provisions of any applicable law, your Personal Data may be disclosed, for the purposes listed above (where applicable), to the following: 
+**4.1**  PPHR will take reasonable steps to protect your Personal Data against unauthorised disclosure. Subject to the provisions of any applicable law, your Personal Data may be disclosed, for the purposes listed above (where applicable), to the following: 
 
 (a) PPHR’s related corporations and employees to provide Products and Services to you, address your questions and requests in relation to your billing arrangements with us as well as our Products and Services, to maintain and operate our systems and/or services;
 
@@ -218,45 +204,25 @@ In addition, where permitted under the Act and subject to the provisions of any 
 
 (j) any other party to whom you authorise us to disclose your Personal Data to.
 
-**_5\. Use of Cookies_**  
+**_5\. Use of Cookies_**
 
-  
+**5.1**  When you interact with us on our websites, we automatically receive and record  _non-personally identifiable_  information on our server logs from your browser. We may employ cookies in order for our server to recognise a return visitor as a unique user including, without limitation, monitoring information relating to how a visitor arrives at the website, what kind of browser a visitor is on, what operating system a visitor is using, a visitor's IP address, and a visitor's click stream information and time stamp (for example, which pages they have viewed, the time the pages were accessed and the time spent per web page).  _Please also see para 2.2 above._
 
+**5.2  **Cookies are small text files stored in your computing or other electronic devices which allow us to remember you. The cookies placed by our server are readable only by us. Cookies _  are not programs and therefore_ cannot access, read or modify any other data on an electronic device. All web-browsers offer the option to refuse any cookie, and if you refuse our cookie then we do not gather any information on that visitor.
 
-**5.1**  When you interact with us on our websites, we automatically receive and record 
-
-_non-personally identifiable_
-
-information on our server logs from your browser. We may employ cookies in order for our server to recognise a return visitor as a unique user including, without limitation, monitoring information relating to how a visitor arrives at the website, what kind of browser a visitor is on, what operating system a visitor is using, a visitor's IP address, and a visitor's click stream information and time stamp (for example, which pages they have viewed, the time the pages were accessed and the time spent per web page). 
-
-_Please also see para 2.2 above._
-
-  
-
-
-**5.2  **Cookies are small text files stored in your computing or other electronic devices which allow us to remember you. The cookies placed by our server are readable only by us. Cookies
-
- _are not programs and therefore_
-
-cannot access, read or modify any other data on an electronic device. All web-browsers offer the option to refuse any cookie, and if you refuse our cookie then we do not gather any information on that visitor.
-
-**5.3**  Should you wish to disable the cookies associated with these technologies, you may do so by changing the setting on your browser. However, you may not be able to 
-
-_use certain services or_
-
-enter certain part(s) of our website. 
+**5.3**  Should you wish to disable the cookies associated with these technologies, you may do so by changing the setting on your browser. However, you may not be able to  _use certain services or_  enter certain part(s) of our website. 
 
 **_6\. Data Security_**
 
-**6.1** PPHR will take reasonable efforts to protect Personal Data in our possession or our control by making reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks. However, we cannot completely guarantee the security of any Personal Data we may have collected from or about you, or that for example no harmful code will enter our website (for example viruses, bugs, trojan horses, spyware or adware). You should be aware of the risks associated with using websites.
+**6.1**  PPHR will take reasonable efforts to protect Personal Data in our possession or our control by making reasonable security arrangements to prevent unauthorised access, collection, use, disclosure, copying, modification, disposal or similar risks. However, we cannot completely guarantee the security of any Personal Data we may have collected from or about you, or that for example no harmful code will enter our website (for example viruses, bugs, trojan horses, spyware or adware). You should be aware of the risks associated with using websites.
 
-**6.2** While we strive to protect your Personal Data, we cannot ensure the security of the information you transmit to us via the Internet, and we urge you to take every precaution to protect your Personal Data when you are on the Internet. We recommend that you change your passwords often, use a combination of letters and numbers, and ensure that you use a secure browser.
+**6.2**  While we strive to protect your Personal Data, we cannot ensure the security of the information you transmit to us via the Internet, and we urge you to take every precaution to protect your Personal Data when you are on the Internet. We recommend that you change your passwords often, use a combination of letters and numbers, and ensure that you use a secure browser.
 
-**6.3** If applicable, you undertake to keep your username and password secure and confidential and shall not disclose or permit it to be disclosed to any unauthorised person, and to inform us as soon as reasonably practicable if you know or suspect that someone else knows your username and password or believe the confidentiality of your username and password has been lost, stolen or compromised in any way or that actual or possible unauthorized transactions have taken place. We are not liable for any damages resulting from any security breaches, on unauthorised and/or fraudulent use of your username and password. 
+**6.3**  If applicable, you undertake to keep your username and password secure and confidential and shall not disclose or permit it to be disclosed to any unauthorised person, and to inform us as soon as reasonably practicable if you know or suspect that someone else knows your username and password or believe the confidentiality of your username and password has been lost, stolen or compromised in any way or that actual or possible unauthorized transactions have taken place. We are not liable for any damages resulting from any security breaches, on unauthorised and/or fraudulent use of your username and password. 
 
 **_7\. Contacting Us – Withdrawal of Consent, Access and Correction of your Personal Data_**
 
-**7.1** If you:
+**7.1**  If you:
 
 (a) have any questions or feedback relating to your Personal Data or our Data Protection Policy;  
 
@@ -266,18 +232,20 @@ enter certain part(s) of our website. 
 
 please contact PPHR as follows:
 
-**    Email:** [enquiry@pphg.com](mailto:enquiry@pphg.com)
+  
+**    Email:** [enquiry@pphg.com](mailto:enquiry@pphg.com)  
+     **Call:**  (65) 6808 1180  
+**    Write in:** Data Protection Officer
 
- **Call:** (65) 6808 1180  
-**     Write in:** Data Protection Officer  
-              7500 A Beach Road  
-            #03-301 The Plaza  
+           7500 A Beach Road  
+           #03-301 The Plaza  
            Singapore 199591
 
-7.2 Please note that if your Personal Data has been provided to us by a third party (e.g. a referrer, or your company), you should contact that organisation or individual to make such queries, complaints, and access and correction requests to PPHR on your behalf. 
+  
+**7.2** Please note that if your Personal Data has been provided to us by a third party (e.g. a referrer, or your company), you should contact that organisation or individual to make such queries, complaints, and access and correction requests to PPHR on your behalf. 
 
-**7.3** If you withdraw your consent to any or all use of your Personal Data, depending on the nature of your request, PPHR may not be in a position to continue to provide its Products and Services to you, administer any contractual relationship in place, which in turn may also result in the termination of any agreements with PPHR, and your being in breach of your contractual obligations or undertakings. PPHR’s legal rights and remedies in such event are expressly reserved.
+**7.3**  If you withdraw your consent to any or all use of your Personal Data, depending on the nature of your request, PPHR may not be in a position to continue to provide its Products and Services to you, administer any contractual relationship in place, which in turn may also result in the termination of any agreements with PPHR, and your being in breach of your contractual obligations or undertakings. PPHR’s legal rights and remedies in such event are expressly reserved.
 
 **_8\. Governing Law_**
 
-**8.1** This Data Protection Policy and your use of this website shall be governed in all respects by the laws of Singapore.
+**8.1**  This Data Protection Policy and your use of this website shall be governed in all respects by the laws of Singapore.
