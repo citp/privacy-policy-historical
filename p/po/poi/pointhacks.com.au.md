@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326155928id_/https%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointhacks.com.au privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112081455id_/https%3A//www.pointhacks.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Point Hacks Privacy Policy
 
@@ -147,4 +147,4 @@ Contact our Privacy Officer at [assist@pointhacks.com.au](mailto:assist@pointhac
 
 Please also contact our Privacy Officer if you want to review and/or correct any personal information we hold about you, or if you receive communications purporting to be connected with Point Hacks or our services that you believe have been sent other than in accordance with this Policy or in breach of any law.
 
- **Point Hacks, we, us** and **our** means Point Hacks Pty Ltd, ACN 622 987 160 of 120/3 Male Street, Brighton, Victoria 3186 together with its successors and assigns.
+ **Point Hacks, we, us** and **our** means Point Hacks Pty Ltd, ACN 622 987 160 of 207/28 Riddell Parade, Elsternwick, Victoria 3185 together with its successors and assigns.
