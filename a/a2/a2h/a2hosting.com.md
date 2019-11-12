@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a2hosting.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630041718id_/https%3A//www.a2hosting.com/about/website-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a2hosting.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112030811id_/https%3A//www.a2hosting.com/about/website-privacy) for the most accurate reproduction.*
 
 # Website Privacy
 
@@ -20,9 +20,9 @@ USA
 
 It is represented by the CEO Bryan Muthig.
 
-You can also contact us through the email address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a5c497d5d7ccd3c4c6dce5c497cdcad6d1cccbc28bc6cac8)
+You can also contact us through the email address [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#69085b191b001f080a1029085b01061a1d00070e470a0604)
 
-In case of questions or comments concerning this Privacy Policy, please contact our data protection officer at the following email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#28491a585a415e494b5168491a40475b5c41464f064b4745)
+In case of questions or comments concerning this Privacy Policy, please contact our data protection officer at the following email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#3a5b084a48534c5b59437a5b085255494e53545d14595557)
 
 ### EU-US Privacy Shield Framework
 
@@ -39,7 +39,7 @@ Among other things, the Privacy Shield Principles describe our obligations with 
 
 
 
-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b3d281c3c1dac5d2d0caf3d281dbdcc0c7daddd49dd0dcde)
+Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1d7c2f6d6f746b7c7e645d7c2f75726e6974737a337e7270)
 
 Attn: Privacy Policy  
 PO Box 2998
@@ -117,7 +117,7 @@ With your consent, you can subscribe to our newsletter in which we inform you of
 
 We used the so-called double opt-in process for registration to our newsletter. This means that after your registration, an email is sent to the disclosed email address, in which we ask you to confirm your request to receive the newsletter. If you do not confirm your registration through the hyperlink within 24 hours, your information is blocked and erased after the expiration of one month. We furthermore retain your utilized IP addresses and the time of registration and confirmation. The purpose of this process is to verify your registration and clarify a possible abuse of your personal data, if necessary. Only the disclosure of your email address is required to receive the newsletter. All other disclosed information is voluntary and will be used to allow us to address you personally. After your confirmation, we store your email address for sending you the newsletter. The legal basis for this is Art. 6 (1) Clause 1 lit. a) GDPR.
 
-To unsubscribe from the newsletter, you can click on the link provided in every newsletter email, send an email to **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#f996898dd4968c8dd4979c8e8a959c8d8d9c8bb9cb91968a8d90979ed79a9694).**
+To unsubscribe from the newsletter, you can click on the link provided in every newsletter email, send an email to **[[email  protected]](https://web.archive.org/cdn-cgi/l/email-protection#d9b6a9adf4b6acadf4b7bcaeaab5bcadadbcab99ebb1b6aaadb0b7bef7bab6b4).**
 
 **Please note that we analyze your user behavior when sending the newsletter. For this analysis, the emails sent by us contain so-called web beacons or tracking pixels, which are one-pixel images that are stored on our website. For the analysis we combine the data listed under “Server log files” and the web beacons with your email address and an individual ID.**
 
