@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addoncrop.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623085401id_/https%3A//addoncrop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addoncrop.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112081211id_/https%3A//addoncrop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Addoncrop
 
