@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the keyt.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524223449id_/https%3A//www.keyt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyt.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112034544id_/https%3A//www.keyt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KEYT
-
-## 
-
-**Privacy Policy**
+# Privacy Policy - KEYT | KCOY
 
 _Updated May [18], 2018_
 
@@ -18,7 +14,7 @@ Please refer to our Terms of Use/Service ("Terms") for additional information.
 
 **No Children Under 13**
 
-This Website is not directed at or intended for use by children under 13 years old. We do not knowingly collect personal data from children under 13 through this Website. You may be required to create an account to use certain features of our Website, which will require you to provide your date of birth. Please review our Terms **** for additional information. 
+This Website is not directed at or intended for use by children under 13 years old. We do not knowingly collect personal data from children under 13 through this Website. You may be required to create an account to use certain features of our Website, which will require you to provide your date of birth. Please review our Terms for additional information. 
 
 **Users Outside the U.S.**
 
@@ -30,7 +26,7 @@ We collect personal data that you provide through voluntary submissions via this
 
 With your prior express written consent, we may also send advertising text messages using an autodialer to your mobile number. Subscribing to text messages is not a condition of purchasing any property, goods or services. 
 
-Please see our Terms for additional information. ****
+Please see our Terms for additional information.
 
 **Cookies, Beacons and Tracking**
 
@@ -49,7 +45,7 @@ We may use cookies and beacons for these purposes:
 
 **Data Matching**
 
-This Website uses data matching technology. Email addresses voluntarily submitted through our Website are matched with cookie data and interactions on our Website data so we may target or retarget content, advertising and promotions to our users. ****
+This Website uses data matching technology. Email addresses voluntarily submitted through our Website are matched with cookie data and interactions on our Website data so we may target or retarget content, advertising and promotions to our users. 
 
 **California Do-Not-Track Disclosure**
 
@@ -64,14 +60,14 @@ Our Website uses Google Analytics, a service provided by Google, Inc. Google Ana
 We will not share your personal data except in the following limited circumstances: 
 
   * We may collect, report, and share personal data with third parties that perform services on our behalf, for example, technical, marketing and content service providers. We may also share your personal data with third-party providers of cloud, web and/or server hosting services. We do not authorize these third parties to use your personal data except as necessary to provide services to us or for purposes authorized by us. 
-  * Our website uses third-party service providers **** for the following purposes: (1) to conduct financial transactions on our Website, (2) to create and manage our email lists to fulfill newsletters, alerts, clubs and other purposes, (3) to conduct our online job application intake process, (4) to handle your comments and questions submitted on our Website, (5) to deliver advertisements and promotions, including behavioral pop-ups, (6) to analyze navigation and site usage patterns, (7) for data matching and behavioral marketing, (8) for contests and promotions and (9) to store and process data. These third-party service providers may collect financial and other personal data from you as authorized by us. We do not collect or store your financial data. Our service providers may provide data collected by them through this Website to us, such as reports of email addresses and personal data they collect, store and/or process for us, which we may use for marketing purposes. We are not responsible for the privacy practices of these service providers or of other websites. By using our Website, you consent to the processing and handling of your personal data by our service providers in the manner and for the purposes described here and in their respective privacy policies. We do not authorize our third-party service providers to use your personal data except as necessary to provide services to us or for purposes authorized by us. 
-  * Additionally, we may disclose your personal data (1) to comply with a law, regulation, or other governmental request, for example, to comply with subpoenas, court orders, legal process, or requests by law enforcement or governmental entities; (2) to investigate or defend against third-party claims against us; (3) to detect, prevent, or investigate fraud or other illegal activity or to enforce our Terms ****; (4) to repair or resolve technical issues in the operation of this Website; (5) to respond to a request by you to disclose the information, including your requests to allow access to your account and personal data by third-parties designated by you; (6) with your knowledge and consent; and (7) to address emergencies or acts of god. We may share your personal data as an asset of the business in the event of a sale, merger, or other business combination or transfer involving us, our parent or subsidiary entities.
+  * Our website uses third-party service providers for the following purposes: (1) to conduct financial transactions on our Website, (2) to create and manage our email lists to fulfill newsletters, alerts, clubs and other purposes, (3) to conduct our online job application intake process, (4) to handle your comments and questions submitted on our Website, (5) to deliver advertisements and promotions, including behavioral pop-ups, (6) to analyze navigation and site usage patterns, (7) for data matching and behavioral marketing, (8) for contests and promotions and (9) to store and process data. These third-party service providers may collect financial and other personal data from you as authorized by us. We do not collect or store your financial data. Our service providers may provide data collected by them through this Website to us, such as reports of email addresses and personal data they collect, store and/or process for us, which we may use for marketing purposes. We are not responsible for the privacy practices of these service providers or of other websites. By using our Website, you consent to the processing and handling of your personal data by our service providers in the manner and for the purposes described here and in their respective privacy policies. We do not authorize our third-party service providers to use your personal data except as necessary to provide services to us or for purposes authorized by us. 
+  * Additionally, we may disclose your personal data (1) to comply with a law, regulation, or other governmental request, for example, to comply with subpoenas, court orders, legal process, or requests by law enforcement or governmental entities; (2) to investigate or defend against third-party claims against us; (3) to detect, prevent, or investigate fraud or other illegal activity or to enforce our Terms ; (4) to repair or resolve technical issues in the operation of this Website; (5) to respond to a request by you to disclose the information, including your requests to allow access to your account and personal data by third-parties designated by you; (6) with your knowledge and consent; and (7) to address emergencies or acts of god. We may share your personal data as an asset of the business in the event of a sale, merger, or other business combination or transfer involving us, our parent or subsidiary entities. 
 
 
 
 **Links to Third Party Sites**
 
-This Website contains links to other websites. Please be aware that we are not responsible for the privacy practices or content of other websites. This Privacy Policy applies solely to personal data collected by this Website ([www.keyt.com](http://www.keyt.com/)). We encourage you to be aware when you leave our Website and to read the privacy policies of other websites and online services. 
+This Website contains links to other websites. Please be aware that we are not responsible for the privacy practices or content of other websites. This Privacy Policy applies solely to personal data collected by this Website ([www.keyt.com](https://keyt.com/)). We encourage you to be aware when you leave our Website and to read the privacy policies of other websites and online services. 
 
 **Security of Personal Data**
 
@@ -91,4 +87,4 @@ You may choose to stop receiving our communications, alerts, or marketing emails
 
 **Updates to this Privacy Policy**
 
-We may update or change our privacy practices and this policy from time to time. If we update the policy, we will publish an announcement on our Website. The date at the top of this policy reflects the date of the most recent update. 
+We may update or change our privacy practices and this policy from time to time. If we update the policy, we will publish an announcement on our Website. The date at the top of this policy reflects the date of the most recent update.
