@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tuko.co.ke privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612125020id_/https%3A//www.tuko.co.ke/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuko.co.ke privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112014744id_/https%3A//www.tuko.co.ke/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
