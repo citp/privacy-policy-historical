@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mashed.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319110150id_/https%3A//www.mashed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashed.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112184447id_/https%3A//www.mashed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
