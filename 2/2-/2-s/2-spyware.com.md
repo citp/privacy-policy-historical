@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614195202id_/https%3A//www.2-spyware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-spyware.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112161202id_/https%3A//www.2-spyware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Information Notice
 
