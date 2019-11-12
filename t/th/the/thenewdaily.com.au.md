@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607125935id_/https%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewdaily.com.au privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112143208id_/https%3A//thenewdaily.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | The New Daily
 
