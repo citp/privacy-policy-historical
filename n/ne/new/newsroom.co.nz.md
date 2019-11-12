@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsroom.co.nz privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330213815id_/https%3A//www.newsroom.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsroom.co.nz privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112100328id_/https%3A//www.newsroom.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
