@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the eaton.com privacy policy that was archived on 2018-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181123212840id_/http%3A//eaton.com/us/en-us/company/policies-and-statements/privacy-cookies-and-data-protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaton.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112054815id_/https%3A//www.eaton.com/us/en-us/company/policies-and-statements/privacy-cookies-and-data-protection.html) for the most accurate reproduction.*
 
 # Privacy, cookies and data protection | Eaton
 
-Last updated: May 25, 2018
+Last updated: January 14, 2019  
+
 
 Eaton respects your preferences about the processing of your _personal data_. The following privacy policy is tailored for the different ways your _personal data_ is collected by Eaton. ****
 
