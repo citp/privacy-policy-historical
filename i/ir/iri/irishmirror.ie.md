@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishmirror.ie privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510091103id_/https%3A//www.irishmirror.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishmirror.ie privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112195533id_/https%3A//www.irishmirror.ie/privacy-policy) for the most accurate reproduction.*
 
 # Irish Mirror: the latest news, showbiz, football and sport
 
@@ -32,9 +32,9 @@ Information that we collect and process about you includes:
   * Personal and contact details you have provided to us, such as your name, email address or postal address, for example when you register on a Site or to receive a newsletter, enter a sales promotion or competition, or at an Event, or where you have agreed to receive marketing materials from us or third parties;
   * Information you have provided when you obtain products or services from us or enquire about those products or services;
   * Information included in any communications between us or which you provide in any post on any Site or any information collected when you participate in any poll or quiz or obtained via social media or which is publicly available;
-  * Information about your use of third party products or services or from third parties who we may use to operate certain aspects of our business; 
+  * Information about your use of third party products or services or from third parties who we may use to operate certain aspects of our business;
   * Information obtained if we carry out a credit search at a credit search referencing agency;
-  * Information we buy or obtain from third parties, including marketing lists; and 
+  * Information we buy or obtain from third parties, including marketing lists; and
   * We also collect information from cookies on your devices and this includes information about your IP address, MAC address and other identifying information, information about your devices, including your location, from third party advertising networks and how you use our products and services.
 
 
@@ -43,7 +43,7 @@ For more information about cookies, please see our [Cookie Notice](https://web.a
 
 2.    USE OF YOUR INFORMATION
 
-We want to offer you products and services which you want to use. We may use and permit others to use your personal data as set out below. 
+We want to offer you products and services which you want to use. We may use and permit others to use your personal data as set out below.
 
 We may use information about you to provide and manage the products and services you have subscribed to or purchased, to help us customise our products or services for you, to personalise your visits to our Sites, to help us to choose products and services we think will interest you, for market research and to improve the usefulness of our Sites, products and services.
 
@@ -51,13 +51,13 @@ We also use your personal data to contact you, including to notify you about cha
 
 We may use your information for the management of our business and improving the operation of our business and that of our business partners, to assess our internal processes and carry out financial checks.
 
-We may monitor, record and store records of calls, email, text messages, social media messages, in person meetings and other communications where permitted by law and we’ll do this where the law requires it, or to comply with regulatory rules, to prevent or detect crime, for evidential purposes, in the interests of protecting the security of our communications systems and procedures and for quality control and staff training purposes. 
+We may monitor, record and store records of calls, email, text messages, social media messages, in person meetings and other communications where permitted by law and we’ll do this where the law requires it, or to comply with regulatory rules, to prevent or detect crime, for evidential purposes, in the interests of protecting the security of our communications systems and procedures and for quality control and staff training purposes.
 
 We may use your data to comply with legal and regulatory obligations.
 
 We may make use of your personal information for direct marketing activities, or supply this information to third parties for their direct marketing activities, with your consent or as permitted by law. By direct marketing activities, we mean the communication directly to particular individuals (by e-mail, post or telephone) of any advertising or marketing material.
 
-Where we’re relying upon your consent to process personal data, you can withdraw this at any time by contacting us at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com). 
+Where we’re relying upon your consent to process personal data, you can withdraw this at any time by contacting us at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com).
 
 Information about you helps us sell advertising to businesses of products and services relevant to you so that we can continue to fund these through advertising and you can continue to use the majority of our websites for free.
 
@@ -83,7 +83,7 @@ We collect information about you automatically when you visit our Sites by using
 
 We’re based in the UK and the Republic of Ireland but sometimes your personal information may be transferred outside the European Economic Area. If we do so we’ll make sure that suitable safeguards are in place, for example by using approved contractual agreements, unless certain exceptions apply.  We can provide more information about this on request.
 
-6.    WHAT ARE THE LEGAL GROUNDS FOR OUR PROCESSING OF YOUR PERSONAL INFORMATION (INCLUDING WHEN WE SHARE IT WITH OTHERS)? 
+6.    WHAT ARE THE LEGAL GROUNDS FOR OUR PROCESSING OF YOUR PERSONAL INFORMATION (INCLUDING WHEN WE SHARE IT WITH OTHERS)?
 
 We rely on the following legal bases to use your personal data:
 
@@ -112,10 +112,10 @@ B.    Where it is in our legitimate interests to do so, such as:
 
 
 
-C.    With your consent or explicit consent 
+C.    With your consent or explicit consent
 
   * For some direct marketing communications and digital advertising activities
-  * For some of our processing of special data categories of personal data such as about your health 
+  * For some of our processing of special data categories of personal data such as about your health
 
 
 
@@ -123,7 +123,7 @@ C.    With your consent or explicit consent
 
 In general, we keep your personal information for as long as we need it for the purpose for which it was collected, plus a short additional period in case of problems.  How long we keep it therefore varies according to the type of information it is and why we have it, and will range from a few days or weeks to, in some cases, several years.  We have established a full data retention policy, and can provide further information on request.
 
-8.    WHAT ARE YOUR RIGHTS UNDER DATA PROTECTION LAW? 
+8.    WHAT ARE YOUR RIGHTS UNDER DATA PROTECTION LAW?
 
 The law gives you certain rights in respect of the information that we hold about you.  Below is a short overview of those rights.  The website of the Data Protection Commission ([http://www.dataprotection.ie](http://www.dataprotection.ie/)) has a wealth of useful information in respect of your rights over your personal data.
 
@@ -157,12 +157,12 @@ Your right to complain to the Data Protection Commission
 
 You have the right to lodge a complaint about our handling of your personal data with the supervisory authority, which in the Republic of Ireland is the Data Protection Commission. But before you do so, please do contact us first to give us a chance to put matters right, at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com)
 
-You can contact the Data Protection Commission at [www.dataproterction.ie](http://www.dataproterction.ie/). The phone number is 0671 104 800
+You can contact the Data Protection Commission at [www.dataprotection.ie](http://www.dataprotection.ie/). The phone number is 0671 104 800
 
 9.    CHANGES TO THIS PRIVACY NOTICE
 
 It’s likely that we’ll need to update this Privacy Notice from time to time.  Any changes to this Privacy Notice will be posted here and such changes will become effective as soon as they are posted. Your continued use of the relevant Site constitutes notice to you of all these changes. 
 
-10.    CONTACT US 
+10.    CONTACT US
 
 If you have any questions about this privacy notice, or if you wish to exercise your rights you can contact us email at [dataprotection@reachplc.com](mailto:dataprotection@reachplc.com). Alternatively, you can write to the Legal Department, Reach plc, One Canada Square, London E14 5AP
