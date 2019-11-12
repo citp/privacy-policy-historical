@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manjaro.org privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601134127id_/https%3A//manjaro.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manjaro.org privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112085052id_/https%3A//manjaro.org/privacy-policy) for the most accurate reproduction.*
 
 # Manjaro - Privacy Policy
 
@@ -48,19 +48,7 @@ We offer to donate to our project via [PayPal](https://www.paypal.com/). Provide
 
 ## How we use collected information
 
-Our website may collect and use Users’ personal information for the following purposes:  
-– To run and operate our Site  
-We may need your information to display content on the Site correctly.  
-– To improve customer service  
-The information you provide helps us respond to your customer service requests and support needs more efficiently.  
-– To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.  
-– To improve our Site  
-We may use feedback you provide to improve our products and services.  
-– To run a promotion, contest, survey or other Site feature  
-To send Users’ information they agreed to receive about topics we think will be of interest to them.  
-– To send periodic emails  
-We may use the email address to send Users information and updates pertaining to their order. It may also be used to respond to their inquiries, questions and/or other requests.
+Our website may collect and use Users’ personal information for the following purposes: – To run and operate our Site We may need your information to display content on the Site correctly. – To improve customer service The information you provide helps us respond to your customer service requests and support needs more efficiently. – To personalize user experience We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. – To improve our Site We may use feedback you provide to improve our products and services. – To run a promotion, contest, survey or other Site feature To send Users’ information they agreed to receive about topics we think will be of interest to them. – To send periodic emails We may use the email address to send Users information and updates pertaining to their order. It may also be used to respond to their inquiries, questions and/or other requests.
 
 ## How we protect your information
 
@@ -96,4 +84,4 @@ Our website has the discretion to update this privacy policy at any time. When w
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us. You can find our contact information on the [Terms of Use](https://web.archive.org/terms-of-use/) page.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us via [email](mailto:privacy-policy@manjaro.org).
