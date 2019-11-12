@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayinn.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406164819id_/https%3A//www.ihg.com/content/us/en/customer-care/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayinn.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112080116id_/https%3A//www.ihg.com/content/us/en/customer-care/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement | IHG
 
@@ -279,6 +279,11 @@ InterContinental Hotels Group
 Attn: Privacy Office  
 Three Ravinia Drive  
 Atlanta, Georgia 30346
+
+InterContinental Hotels Group  
+Attn: Privacy Office  
+Broadwater Park  
+Denham, UB9 5HR, United Kingdom
 
   * By phone: 1-770-604-8347
   * By fax: 1-770-604-5275
