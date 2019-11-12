@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepeninsulaqatar.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324210625id_/https%3A//thepeninsulaqatar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepeninsulaqatar.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112174508id_/https%3A//www.thepeninsulaqatar.com/privacy) for the most accurate reproduction.*
 
 # The Peninsula Qatar - Privacy Site - The Peninsula Qatar
 
