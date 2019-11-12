@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ihopkc.org privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427122551id_/https%3A//www.ihopkc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihopkc.org privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112033542id_/https%3A//www.ihopkc.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - International House of Prayer
 
 IHOPKC recognizes your right to confidentiality and is committed to protecting your privacy. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. You can expect to be notified of:
 
   * What personally identifiable information of yours is collected
-  * How are the information used
-  * What kinds of security procedures are in place to protect the loss, misuse or alteration of information under the company’s control
+  * How is the information used
+  * What kinds of security procedures are in place to protect the loss, misuse, or alteration of the information under the company’s control
   * How you can correct inaccuracies in your information
 
 
