@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622175446id_/https%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112213729id_/https%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Icy Veins
 
@@ -55,6 +55,8 @@ If you use your forum account to create an Icy Veins [Premium subscription](http
 Payment information for Premium users is not collected or otherwise accessible to Icy Veins. All payments are done through [Braintree](https://www.braintreepayments.com/), a subsidiary of [PayPal](https://www.paypal.com/), who are the ones who have access to this information, and who are obliged to comply with GDPR.
 
 All third-party javascripts are disabled when using a Premium account (with the exception of external tools to provide game-specific tooltips, but these do not collect data), so they cannot collect any data from you at this time. Please note that this requires you to be logged into your Premium account when accessing the website.
+
+On the sign-up page for Premium, we occasionally use [Hotjar](https://www.hotjar.com/) to collect data on how our visitors use this page to try and improve it (to build heatmaps or poll visitors and ask them why they did not finish registration). See their [Privacy Policy](https://www.hotjar.com/legal/policies/privacy) for more information. In Hotjar's options, we asked not to collect location data during recording and to not send or record any of the fields where user can input sensitive information, such as credit card details. Hotjar is headquartered in the European Union and subject to GDPR.
 
 ### Communications
 
