@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330141457id_/https%3A//www.publishersweekly.com/pw/corp/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishersweekly.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112161248id_/https%3A//www.publishersweekly.com/pw/corp/privacypolicy.html) for the most accurate reproduction.*
 
 # Book Reviews, Bestselling Books & Publishing Business News | Publishers Weekly
 
