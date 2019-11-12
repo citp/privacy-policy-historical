@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sidehustlenation.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502125843id_/https%3A//www.sidehustlenation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidehustlenation.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112165929id_/http%3A//www.sidehustlenation.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Side Hustle Nation
 
@@ -78,7 +78,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (b)    <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);
 
-(c)    [http://www.opera.com/help/tutorials/security/cookies/](https://www.opera.com/help/tutorials/security/cookies/) (Opera);
+(c)    <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
 
 (d)    <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
