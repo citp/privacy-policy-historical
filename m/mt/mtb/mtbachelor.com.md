@@ -1,52 +1,120 @@
-> *The following text is extracted and transformed from the mtbachelor.com privacy policy that was archived on 2017-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171003133704id_/http%3A//www.mtbachelor.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtbachelor.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112083807id_/https%3A//www.mtbachelor.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our Commitment To Privacy**  
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and we will update it immediately if our policies change.
+_Updated May 2018_
 
- **The Information We Collect:**  
-This notice applies to information you supply to Mt. Bachelor, LLC. The information may be provided via the Resort's websites or at various other locations including points of sale at the Resort. The types of personal information collected may include:
+Theses websites are owned and operated by POWDR Corp., a Utah-based company that operates various ski resorts and adventure companies throughout the United States.  POWDR Corp. operates powdr.com, killington.com, rideboreal.com, skisodasprings.com, mtbachelor.com, suncountrytours.com, coppercolorado.com, eldora.com, leecanyonlv.com, gorgoza.com, picomountain.com and campwoodward.com. POWDR Corp. (“POWDR”, “us”, or “we”) takes your privacy very seriously.  We are committed to protecting and safeguarding the privacy of visitors to our websites including mobile versions of our website (“Sites”), and users of any of our sites’ mobile device applications.  If you have any questions, comments, or requests regarding this Policy or the information practices of POWDR, please contact us by e-mail at legal@powdr.com or write to us at 1794 Olympic Parkway, Suite 210, Park City, Utah, 84098, Attn:  Legal Department/Privacy. 
 
-Name  
-Address  
-Email address  
-Phone number  
-Credit/Debit Card Information  
-(etc.)
+This Privacy Policy identifies and describes the way POWDR uses and protects the information that we may collect about individuals who utilize the Sites.  This Policy may be changed or updated from time to time, and the “last-modified” date will always be visible at the top of this document.
 
-On some webpages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
+**If you do not agree to this Policy, please do not use POWDR websites or our properties’ mobile applications.** Your use of POWDR Sites and/or mobile applications indicates your acceptance of this Policy and of the collection and use of your personally identifiable information in accordance with this Policy.
 
-Name  
-Address  
-Phone Number  
-(etc.)
+## The Personal Information We Collect
 
- **The Way We Use Information:**  
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+We may collect different types of personal and other information based on your use of our products and services and our relationship with you (“Personal Information”).  Some examples of Personal Information we may collect include:
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+### **INFORMATION YOU GIVE US**
 
-We may offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.
+  * Contact Information (such as your name, mailing address, telephone number, and e-mail address);
+  * Information you provide in the context of enrollment in one of our programs (i.e., ski school) or in signing up to receive notices from a POWDR property (i.e. snow conditions);
+  * Payment information (such as your payment card details, financial account information, security codes, and billing address);
+  * Information provided in an online job application (such as information about your education and work history and past salaries);
+  * Information provided by you in conjunction with a survey or a promotion, or in registering for one our events;
+  * Other personal information you may provide to us (including photographs)
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-You can register on our website if you would like to receive marketing collateral as well as updates regarding resort events, news, snow conditions or terrain park information. Information you submit on other pages of our website will not be used for this purpose unless you fill out the registration form.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose personally identifiable information.
+### **AUTOMATICALLY-COLLECTED INFORMATION**
 
-Finally, Mt. Bachelor, LLC will never use, sell, rent or share the personally identifiable information provided to us to any third party for any reason, except for in certain special cases in which we may disclose your personally identifiable information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to you, or otherwise injuring or interfering with Mt. Bachelor, LLC rights, property or operations, other Mt. Bachelor, LLC site users, or anyone else who could be harmed by such activities. We may also disclose your personally identifiable information when we believe the law requires it, or in response to any demand by law enforcement authorities in connection with a criminal investigation, or civil or administrative authorities in connection with a pending civil case, administrative investigation or investigation conducted by Mt. Bachelor, LLC. We shall have no obligation to inform you of our compliance with the law, including without limitation a response to a law enforcement request or a valid subpoena.
+Also, when you visit our Sites or any POWDR-property mobile application, we may collect certain information via automated means.  For example, our systems may collect information about your activity on the Sites (i.e., pages you visit, address of a referring website (if any), identifiers for your mobile device, geographic location information, and Internet Protocol (IP) address) for a number of purposes.  Such information is collected using automated technologies such as cookies, web beacons, and server log files. We use this automatically-collected information to help tailor the ads you may see on the Sites and the messaging that is provided to you from our systems.  Further, we use this information to operate, maintain, and manage our Sites.
 
- **Our Commitment To Data Security:**  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+  * **Standard Web server traffic pattern information.** General traffic, site usage, browser information and length of stay information is collected and stored in log files.
+  * **Cookies/Web Beacons.** A “cookie” is a text file that our website would send to your computer or mobile device to identify your browser or to store information or settings in your browser.  A “web beacon” (also known as a pixel tag or Internet tag) links web pages to web servers and their cookies and may be used to transmit information through cookies back to a server.  These tools allow a certain Internet site to remember important information that will make your use of the site more convenient. For example, if you often visit content on one of the POWDR websites, we may use “web beacons” to infer your possible interest in that specific property and may deliver ads to you related to that interest.  It’s important to understand that these technologies use anonymous identifiers within the “cookies” stored in your browser. Use the options in your Internet browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the “Help” section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features of the POWDR websites.
+  * **Analytics.**   We use analytic services, such as Google Analytics, as well as other third party vendors tracking aggregate data that place first-party and/or third-party cookies on a browser across our websites. To opt out of Google tracking, please visit their opt-out page. We also use Google AdWords “remarketing” to market our sites across the web. We place a cookie on a browser, and then Google reads these cookies and may serve an ad on a 3rd party site (i.e., when you are visiting your Facebook page).  You may opt out of this ad serving on Google’s opt out page. If you are concerned about 3rd party cookies served by networks, you should also visit the Network Advertising Initiative opt-out page.
 
- **Our Commitment To Children's Privacy:**  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
- **How You Can Access Or Correct Your Information:**  
-You can request information about all your personally identifiable information that we maintain by contacting us at info@mtbachelor.com or by sending postal mail to: Mt. Bachelor, LLC Privacy Policy, P.O. Box 1000, Bend, OR 97709. To protect your privacy and security we will also take reasonable steps to verify your identity before granting access or making corrections. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a written request that credibly shows error.
 
- **How To Contact Us:**  
-Should you have other questions or concerns about these privacy policies, send us an email at info@mtbachelor.com or you may contact us at: Mt. Bachelor, LLC Privacy Policy, P.O. Box 1000, Bend, OR 97709
+## How We Use The Personal Information We Collect
 
-Mt. Bachelor, LLC reserves the right to change this Privacy Policy at any time; all changes will be posted to this page. It is your responsibility to check this site for any such updates as you will be bound by them should you choose to visit our sites.
+We may use the Personal Information we collect in a variety of ways, including to:
+
+  * Provide you with the best customer experience possible;
+  * Provide the products and services you purchase, and to respond to your questions;
+  * Communicate with you regarding purchases, registrations, offers, snow/terrain conditions, special events, and promotions;
+  * Deliver customized content and advertising that may be of interest to you, and remember you when you visit our Sites;
+  * Address network integrity and security issues;
+  * Service members of various clubs and memberships run by POWDR properties;
+  * Evaluate online job applications and respond to your inquiries into potential employment;
+  * Respond to your requests, questions, and/or comments;
+  * Perform data analyses (including market and consumer research, and trend analyses).
+
+
+
+## Personal Information We Share With Others
+
+POWDR does not sell your Personal Information to third parties. POWDR may share your personal information with our parent companies, subsidiaries, and affiliates (“POWDR Companies”), and requires these entities to comply fully with this Privacy Policy.  Subject to applicable legal restrictions, the POWDR Companies may share your Personal Information with each other to make sure your experience is as seamless as possible, and you have the full benefit of what POWDR has to offer. 
+
+POWDR also may share your Personal Information with non-POWDR companies that perform services on our behalf, as necessary for them to perform those services (i.e., payment processing, shipping, etc.). For example, online sales are done by BigCommerce. POWDR requires those non-POWDR companies to have reasonable safeguards in place to protect any Personal Information they may receive in a manner consistent with applicable law. 
+
+Further, POWDR may share information collected by cookies and other automated means with sites you link to from the Sites, or with social media providers (such as Twitter, Facebook, and Google+) that you visit by clicking through from our Sites.  Please note that while POWDR does not capture or store your login information or any other personally identifiable information for social networks if you link to those through our Sites, their websites may store session information or cookies on your computer or wireless phone.  Social media is further discussed below.
+
+Other than as noted above, we may be required to share your Personal Information for purposes such as complying with court orders or law enforcement; assisting with identity verification, and to prevent fraud and identity theft; selling POWDR Companies’ assets, or in process of arranging for the dissolution of the POWDR Companies; or enforcing our agreements and property rights.
+
+## Anonymous & Aggregate Information
+
+POWDR also collects some Personal Information on an anonymous basis if you are visiting our Sites, and/or anonymizes the Personal Information we collect about you.  We obtain aggregate data by combining anonymous data that meet certain criteria into groups.  When we employ non-POWDR companies to anonymize or aggregate data on our behalf, or to perform analytics, POWDR requires those non-POWDR companies to protect any Personal Information they may receive in a manner consistent with this Policy. 
+
+We may share aggregate or anonymous information in various formats with trusted non-POWDR companies, and may work with those entities to do research and provide products and services.
+
+## "Do Not Track” Practices
+
+We do not honor do-not-track signals from browsers or other consumer choice mechanisms regarding the collection of behavioral tracking data.
+
+## Our Online Privacy Policy for Children
+
+We don’t knowingly collect personally identifying information from anyone under the age of 13 unless we first obtain permission from the child’s parent or legal guardian.  In addition, children under the age of 13 are not authorized to make purchases from POWDR or register for programs operated by POWDR without consent from a parent or legal guardian.
+
+If we become aware that we have inadvertently received Personal Information provided by a visitor under the age of 13 without permission from a parent or legal guardian, we will delete the information from our records.  A child’s parent or legal guardian can also request that the Personal Information of their child be deleted from our records, if it has not been already.  To make such a request, please contact us at legal@powdr.com or write to us at 1794 Olympic Parkway, Suite 210, Park City, Utah, 84098, Attn:  Legal Department/Privacy
+
+## Safeguarding Your Personal Information
+
+The security of your Personal Information is important to us. We have implemented encryption or other appropriate security controls to protect Personal Information when stored or transmitted by POWDR. We require non-POWDR companies acting on our behalf (i.e., credit card processing companies) to have reasonable safeguards in place to protect any Personal Information they may receive in a manner consistent with applicable law. If you make an online purchase through use of a credit card, your payment card details, financial account information, security codes, and billing address are encrypted and provided to BigCommerce, whose privacy policy governs any information you provide. If we need to ship something to you, we must share your name and address with a shipping company.
+
+However, you understand and agree that such steps do not guarantee that use of the Sites is invulnerable to all security breaches, and that POWDR makes no warranty, guarantee, or representation that use of any of our Sites is protected from viruses, security threats or other vulnerabilities.
+
+There are several measures you can take to protect your Personal Information.  One option is simply not to volunteer it to us.  The Federal Trade Commission’s site, www.ftc.gov, also offers useful information about how to protect personally-identifiable information provided online or through mobile applications.
+
+## Links to Other Sites
+
+We may offer links to sites that are not operated by POWDR, or you may see a banner ad for a product and click on that to visit a non-POWDR website for that product.  If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies.
+
+## Social Media and Personal Information
+
+Further, POWDR uses a variety of new technologies and social media options to communicate and interact with consumers, and has links to certain social media provider available on its Sites. When interacting with the POWDR presence on those social media websites (i.e., Twitter, Instagram, Facebook, YouTube, and Google+), you may opt to reveal certain Personal Information. Any Personal Information you have chosen to share on any POWDR social media pages will be visible to persons visiting those pages, and privacy on those pages is governed by the privacy policies of those social media companies.  Other than to respond to posts or answer questions, POWDR will not use Personal Information provided on its social media pages without permission from you.
+
+POWDR uses at present five types of social media; those companies’ privacy policies will govern any Personal Information you opt to provide while you are visiting any POWDR presence on those sites, and can be visited through the links below. 
+
+Twitter: http://twitter.com/privacy
+
+Instagram: https://instagram.com/about/legal/privacy/#
+
+Facebook: https://www.facebook.com/about/privacy/ 
+
+YouTube: http://www.youtube.com/t/privacy 
+
+Google+: https://www.google.com/intl/en_ALL/+/policy/
+
+## Notice to California Residents
+
+Subject to certain limits under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, please contact us by e-mail at legal@powdr.com or write to us at 1794 Olympic Parkway, Suite 210, Park City, Utah, 84098, Attn: Legal Department/Privacy.
+
+## Personal Information Access, Correction and Deletion
+
+You can request access to the personal information we have for you by contacting us as below. We will provide you with a copy of the data that we have for you. We will fulfill your request by sending your copy electronically, unless the request specifies a different method.
+
+If you believe that the personal information or personal data that we have about you is incorrect, you can contact us to update it. If at any point you wish for us to delete your personal information or personal data, please contact us at legal@powdr.com or by mail at 1794 Olympic Parkway, Suite 210, Park City, Utah, 84098. For your protection, we only fulfill requests for the personal information associated with the email address that you use to send us your request, and we may need to verify your identity before fulfilling your request.
+
+## Email and Other Communications
+
+POWDR may contact you by email or other means at an address that you have provided to us. If you do not want to receive email from us, please “unsubscribe” through the link that is included in our emails. If you do not want to receive mailings, do not check the box to receive such mailings when you give us your personal information, or follow the directions to remove your name from our mailing list.
