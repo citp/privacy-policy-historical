@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417055451id_/http%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyersclubindia.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112060959id_/https%3A//www.lawyersclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -116,7 +116,7 @@ We may also provide our subscribers/advertisers with aggregate or de-identified 
 
 We may also work with third parties such as network advertisers to serve advertisements on the Website and on third-party websites or other media (e.g., social networking platforms), such as DoubleClick Ad Exchange ([more info here](https://support.google.com/dfp_premium/answer/3376772?hl=en)), Google AdSense ([more info here](https://support.google.com/adsense/answer/142293?hl=en)) and Facebook Audience Network ([more info here](https://www.facebook.com/help/568137493302217)). These third parties may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other tracking technologies to measure the effectiveness of their ads and to personalize advertising content to you. 
 
-  While you cannot opt out of advertising on the Website, you may opt out of much interest-based advertising on third party sites and through third party ad networks (including DoubleClick Ad Exchange, Facebook Audience Network, and Google AdSense). For more information, visit [www.aboutads.info/choices](http://www.aboutads.info/choices). Opting out means that you will no longer receive personalized ads by third parties ad networks from which you have opted out, which is based on your browsing information across multiple sites and online services; if you delete cookies or change devices, your opt-out may no longer be effective.
+  While you cannot opt out of advertising on the Website, you may opt out of much interest-based advertising on third party sites and through third party ad networks (including DoubleClick Ad Exchange, Facebook Audience Network, and Google AdSense). For more information, visit [www.aboutads.info/choices](https://www.aboutads.info/choices). Opting out means that you will no longer receive personalized ads by third parties ad networks from which you have opted out, which is based on your browsing information across multiple sites and online services; if you delete cookies or change devices, your opt-out may no longer be effective.
 
 **DATA SECURITY PRECAUTIONS**
 
