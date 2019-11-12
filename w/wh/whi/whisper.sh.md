@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whisper.sh privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513000033id_/http%3A//whisper.sh/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whisper.sh privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112091154id_/http%3A//whisper.sh/privacy) for the most accurate reproduction.*
 
 # Whisper Privacy Policy
 
