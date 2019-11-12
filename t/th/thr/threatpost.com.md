@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threatpost.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610151321id_/https%3A//threatpost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threatpost.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112181424id_/https%3A//threatpost.com/privacy-policy) for the most accurate reproduction.*
 
 # Data Privacy Statement Threatpost Inc. | Threatpost
 
