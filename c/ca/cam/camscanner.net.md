@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camscanner.net privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515223721id_/https%3A//www.camscanner.com/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camscanner.net privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112175359id_/https%3A//www.camscanner.com/app/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -246,7 +246,7 @@ If your trust in us changes upon the abovementioned assignment, you can cancel y
 
 **XII. Information security**
 
-We take various security technologies and measures to protect the information and data stored in systems against authorized access, use or disclosure of the same. For instance, the safe channel for information you send through Our Products or website to us is protected by TLS (an updated edition of SSL, with 2048-bit RSA and 256-bit AES encryption), and the information you store in the server is safeguarded with AES 256-bit encryption, a bank-grade security standard. Specific technical measures will be adjusted from time to time with the technical and business development. 
+We take various security technologies and measures to protect the information and data stored in systems against unauthorized access, use or disclosure of the same. For instance, the safe channel for information you send through Our Products or website to us is protected by TLS (an updated edition of SSL, with 2048-bit RSA and 256-bit AES encryption), and the information you store in the server is safeguarded with AES 256-bit encryption, a bank-grade security standard. Specific technical measures will be adjusted from time to time with the technical and business development. 
 
 We will use our best efforts to protect the security of your information. However, despite all the abovementioned security technologies and measures we have been taken, we appreciate your understanding that **THERE IS NO SECURITY MEASURE IN THE INFORMATION NETWORK THAT WORKS AGAINST ALL KINDS OF RISKS** due to the complexity of security environment of Internet. You may visit Security & Protection [[https://www.camscanner.com/app/security](https://www.camscanner.com/app/security?language=en-us)] to further understand our information security policy. 
 
