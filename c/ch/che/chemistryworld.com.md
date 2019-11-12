@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the chemistryworld.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624011901id_/https%3A//www.chemistryworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistryworld.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112173016id_/https%3A//www.chemistryworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Information | Chemistry World
 
-**Last updated: 24 May 2018**
+**Last updated: 19th  July 2018**
 
 Your privacy is very important to us, which is why we make sure you are always in control of what we do with your personal information.
 
-The purpose of this Notice is to tell you what information we collect from you as a data subject, how and when it may be collected and what happens to it. For the purpose of this Notice ‘we’, ’our’ and ’us’ refer to the Royal Society of Chemistry (and each of its subsidiaries) as an organisation (also referred to as ‘RSC’). Transmission of information online is not 100% secure and we cannot guarantee the security of data sent to us in this way. Transmission of data over the internet is at your own risk.
+The purpose of this Notice is to tell you what information we collect from you as a data subject, how and when it may be collected and what happens to it. For the purpose of this Notice “we”, “our” and “us” refer to The Royal Society of Chemistry (and each of its subsidiaries) as an organisation (also referred to as “RSC”). Transmission of information online is not 100% secure and we cannot guarantee the security of data sent to us in this way. Transmission of data over the internet is at your own risk.
 
 RSC is a data controller and our address for contact is:
 
-**The Royal Society of Chemistry  
-** _Thomas Graham House (290)  
-_ _Science Park, Milton Road, Cambridge, CB4 0WF_
+The Royal Society of Chemistry  
+Thomas Graham House (290)  
+Science Park, Milton Road, Cambridge, CB4 0WF
 
-Our Data Protection Officer is David Barr. He can be contacted via telephone (01223 420066), e-mail ([DPO@rsc.org](mailto:DPO@rsc.org)) or in writing at the address above. If you have a specific question about this Notice or how we use your personal information, you should contact us via the contact methods set out above. Please mark your communication as “Data Protection Enquiry”.
+Our Data Protection Officer is David Barr, he can be contacted via telephone (01223 420066), e-mail ( [DPO@rsc.org](mailto:DPO@rsc.org)) or in writing at the address above. If you have a specific question about this Notice or how we use your personal information, you should contact us via the contact methods set out above. Please mark your communication as “Data Protection Enquiry”.
 
 This Notice only applies to:
 
@@ -58,18 +58,21 @@ This will depend on the reason we are collecting your personal information. Our 
   * use of Cookies
 
 
+
+## Who we may share your personal data with, and why
+
   * Royal Society of Chemistry staff across each of our service departments in order to provide you with applicable services.
   * Banks, finance management, direct debit, and accountancy software systems: personal information is collected and used in order that we can make payment to you in accordance with the appropriate transaction that you are entering into with us, for example processing card details to secure payment before dispatching a product to a customer.
   * Our internal and external judges: information supplied in relation to an application for awards, scholarships, bursaries (including research bursaries), funding (via our various Funds) internship, travel and outreach grants, will be used by our internal and external judges to assess whether you should receive such an award. Financial details will be collected in order to make payments under such Grants and to competition winners.
   * Appropriate third parties whom will provide mentoring services and products.
-  * Membership management systems in order to enable us to manage and effectively provide you with membership services.
-  * Telesales providers in order that they may assist us with our renewal of membership process.
+  * Membership management systems in order to enable us to manage and effectively provide you with membership services, including managing the status of your membership.
+  * Telesales providers in order that they may assist us with our renewal of membership process, including managing the status of your membership.
   * Mailing and delivery companies to send you written communications and hard copies of newsletters, journals etc as appropriate.
   * electoral service companies in order to assist us with facilitating and running our elections process
   * Sponsors and external judges: information may be provided in relation to their assessment of participants in our events and competitions.
   * Document storage management systems in order to store copies of contracts and relevant documentation.
   * Third party Legal service, counselling and career service providers: on receipt of your completed contact form we will pass your information on to such service providers.
-  * Twitter (which may include your institution’s twitter handle) and Facebook where you have submitted a community related news story to us and we have published it, publication may be via <http://www.rsc.org/news-events/community/>, and in the print version of  _Voice_.
+  * Twitter (which may include your institution’s twitter handle) and Facebook where you have submitted a community related news story to us and we have published it, publication may be via  [http://www.rsc.org/news-events/community/](https://www.rsc.org/news-events/community/), and in the print version of  _Voice_.
   * Print supplier companies
   * Travel booking systems, travel companies, taxi services and flight providers where you ask us to make such arrangements on your behalf.
   * Venues: where we are running an event, conference or symposium and the venue requires personal details of attendees to make bookings, for example for hotel rooms.
@@ -98,7 +101,7 @@ Portions of our services may be provided by organisations with which we have a c
 
   * We will never pass your personal details to anyone outside the RSC for them to use for their own marketing purposes unless you have previously provided us with your informed and specific consent.
   * We will make sure that our contact with you is relevant and in accordance with the preference information that you give us and in order to enable us to provide the service you require to you.
-  * You can change your contact preferences at any time. All you need to do is update your preferences by contacting us at [marketing@rsc.org](mailto:marketing@rsc.org). But remember, you may miss out on important news and developments in chemical sciences.
+  * You can change your contact preferences at any time. All you need to do is update your preferences by contacting us at  [marketing@rsc.org](mailto:marketing@rsc.org). But remember, you may miss out on important news and developments in chemical sciences.
   * Your personal information will be stored safely and will remain secure at all times.
   * No statistical information which identifies you personally will be published.
   * No personal information will be kept any longer than necessary in order to fulfil the purpose it was collected for, and if you ask us to, it will be deleted.
@@ -114,7 +117,7 @@ If you make an enquiry via our website, on the telephone or via email, or via an
 We will process your personal data:
 
   1. As necessary to perform our contract with you for the relevant service: to take steps at your request before entering into it, to decide whether to enter into it, to manage and perform that contract and to update our records.
-  2. As necessary for our own legitimate interests: for example to monitor emails, record calls, and other communications to train staff and activities relating to your membership or in dealing with a complaint that you raise.
+  2. As necessary for our own legitimate interests: for example to monitor emails, record calls, and other communications to train staff and activities relating to your membership (including managing the status of your membership, or in dealing with a complaint that you raise.
   3. As necessary to comply with a legal obligation: for example when you exercise your rights under data protection laws and make requests, for establishment and defence of legal rights or obligations, for example in dealing with any complaint from you.
   4. Based on your consent: for example to send you marketing communications where we’ve asked for your consent to do so.
 
@@ -124,13 +127,13 @@ We will process your personal data:
 
 We want to share information and news about our products and services with you. We can do this in various ways including e-mail, post, phone or social media (or such other method(s) as may become relevant) but only if you would like us to.
 
-Subject to your consent, if required by applicable law, we may use your personal information to provide you with direct marketing information about our products and services as well as those of third parties and to take part in our marketing research. 
+In accordance with applicable laws and lawful basis for processing, we may use your personal information to provide you with direct marketing information about our products and services as well as those of third parties and to take part in our marketing research.
 
 We will ensure that any direct marketing from us and which is sent by electronic means will provide a simple means for you to stop further communications, in accordance with applicable law. Once you have provided your express consent for us to contact you on our behalf, or on behalf of other organisations, there are a number of methods available to you in order to change your preferences, to correct or update your personal information at any time by:
 
   * clicking the ‘unsubscribe’ link in any promotional e-mail you receive from us
   * contacting our product or service team where a correction is required
-  * contacting us at [marketing@rsc.org](mailto:marketing@rsc.org)
+  * contacting us at  [marketing@rsc.org](mailto:marketing@rsc.org)
 
 
 
@@ -144,7 +147,7 @@ If you complete a contact form on one of our websites, your query and informatio
 
 ## Publishing
 
-#### Databases
+### Databases
 
 The National Chemical Database Service (NCDS) is a portal to allow access to third-party databases. We have contracts with Engineering and Physical Sciences Research Council (EPSRC) to host the service and with third-party providers to license the databases. We do not send your personal information to EPSRC or the third-party providers.
 
@@ -152,7 +155,7 @@ Your personal data is only used for operational purposes (such as sending servic
 
 It is necessary for us to gather evidence of the scientific impact of the NCDS to secure continued funding. Therefore we may occasionally contact registered NCDS users about their use of the service.
 
-#### Journals
+### Journals
 
 Authors submit their manuscript and personal details via online submission and peer review systems.
 
@@ -162,11 +165,11 @@ We may use your personal information to contact you to invite you to serve as a 
 
 Your personal information may be included in our internal tracking and archiving processes.
 
-We use information from publicly available sources to create a list of, and make contact with, suitable contacts to speak at symposiums we run or sponsor.
+If you provide us with your personal data, we will ask you if you would like to receive information from us about our other activities, products and services. If you choose to opt-in to receiving this information then we may contact you regarding journal news, journal symposia, Themed Issues, nominations for lectureships and awards. You will not be automatically opted-in and if you do opt-in you can opt-out at any time.
 
-If you provide us with your personal data, we will ask you if you would like to receive information from us about our other activities, products and services. You can opt out at any time.
+## Profiling and automated decision making
 
-We will solicit nominations for lectureships and awards from the Editorial and Advisory Boards, as well as from authors and readers who have opted-in to receive marketing communications from one of our journals. Nominators will supply the Editorial Office with personal information of the nominee for evaluation. Nominations will be considered by the Editorial Office team in conjunction with the Editorial Board or lectureship panel to decide who should win the lectureship/award, and the winner will be subsequently notified.
+RSC does itself carry out automated decision making or profiling. We will share email addresses, which have been given directly to RSC by data subjects, or browsing information,   obtained in ways such as pixel tracking, to enable us to show tailored adverts on a third party platform, such as Twitter, Facebook, LinkedIn and Google, whom may perform profiling.
 
 ## Film and video
 
@@ -188,9 +191,11 @@ Access to the surveillance footage is limited to our staff and those third party
 
 A cookie is text file that is stored on your computer or mobile device by a website’s server. Each cookie contains anonymised information about how you use our websites and applications, which allows us to improve your experience of using our products and services.
 
-Cookies by themselves cannot be used to identify you. Several types of cookie are used on our websites and applications:
+Show me more about cookies
 
-#### Session cookies
+Cookies by themselves cannot be used to identify you. Several types of cookie are used on our websites and applications:
+
+### Session cookies
 
 These are temporary cookies that are saved on your computer or mobile device until you leave our website. They carry information across pages of our websites and applications, for instance:
 
@@ -199,7 +204,7 @@ These are temporary cookies that are saved on your computer or mobile device unt
 
 
 
-#### Persistent cookies
+### Persistent cookies
 
 These cookies remain on your computer for much longer (though how long will depend on the lifetime of the specific cookie). They are used to:
 
@@ -209,7 +214,7 @@ These cookies remain on your computer for much longer (though how long will depe
 
 
 
-#### Third-party cookies
+### Third-party cookies
 
 These cookies are produced by third party services we use to support your website experience. They are used to:
 
@@ -225,43 +230,17 @@ These cookies are produced by third party services we use to support your websit
 
 If you prefer, it is possible to disable cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features on our websites if cookies are disabled.
 
-The following list provides guidance on disabling cookies on a variety of browsers and mobile devices.
-
-#### Browsers
-
-  * [Internet Explorer](http://support.microsoft.com/kb/278835)
-  * [Chrome](http://support.google.com/chrome/bin/answer.py?hl=en-GB&answer=95647)
-  * [Safari](http://docs.info.apple.com/article.html?path=Safari/5.0/en/9277.html)
-  * [Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
-  * [Opera](http://www.opera.com/browser/tutorials/security/privacy/)
-
-
-
-#### Mobile devices
-
-  * [iOS](http://support.apple.com/kb/HT1677)
-  * [Android](http://support.google.com/mobile/bin/answer.py?hl=en&answer=169022)
-  * [Windows phone](http://www.microsoft.com/windowsphone/en-us/howto/wp7/web/changing-privacy-and-other-browser-settings.aspx)
-  * [Blackberry](http://docs.blackberry.com/en/smartphone_users/deliverables/32004/Turn_off_cookies_in_the_browser_60_1072866_11.jsp)
-
-
-
-To opt out of your personal information being collected by Google Analytics, please view the [Google Analytics Opt-out Browser Add-on.](https://tools.google.com/dlpage/gaoptout/)
-
-To find out more about cookies please view the [Information Commissioner’s Office guide to cookies](http://ico.org.uk/for_organisations/privacy_and_electronic_communications/the_guide/cookies).
-
-  * To opt out of Google’s use of cookies for personalised advertising visit [Ads Settings](https://www.google.co.uk/settings/ads).
-  * To opt out of other third-party vendor’s use of cookies for personalised advertising visit [www.aboutads.info](http://www.aboutads.info/choices/).
-
-
+Show me how to disable cookies
 
 ### List of cookies we use
 
 This list of the cookies used on our websites provides a brief explanation of why they are used.
 
-#### Cookies in use on Chemistry World ([www.chemistryworld.com](http://www.chemistryworld.com/))
+Show me the list of cookies
 
-Cookie name | Description  
+#### Cookies in use on Chemistry World ( [www.chemistryworld.com](http://www.chemistryworld.com/))
+
+Cookie name| Description  
 ---|---  
   
 . ASPXAUTH
@@ -270,19 +249,25 @@ Cookie name | Description
 
 Indicates the user is logged in. Contains user specific information such as user ID in encrypted form  
   
+ADConCtrlCookie
+
+| 
+
+Used to support content access for logged in users. The cookie contains no personally identifiable information. It is created when a user successfully logs into the website.  
+  
 ADFEAuthCookie
 
 | 
 
 Used to authenticate user when they log in to the site  
   
-ADmessage_4
+ADmessage_[x]
 
 | 
 
 Related to subscription renewal message  
   
-ADmessage_session_4
+ADmessage_session_[x]
 
 | 
 
@@ -294,17 +279,35 @@ AgentCookie
 
 When logged in, used to identify user’s browser and device  
   
+ai_session
+
+| 
+
+Application Insights - monitors site performance  
+  
+ai_user
+
+| 
+
+Application Insights - monitors site performance  
+  
 AnonUserCookie
 
 | 
 
 Managing session state when not logged in  
   
+CONSENT
+
+| 
+
+Some users are required to complete additional data consent questions prior to site usage. This cookie is added to improve the website’s performance, ensuring this check is not made on every page of the site and for every visit. The cookie contains no personally identifiable information. It is created when a user completes the consent form.  
+  
 CT_CookiePolicyAccepted
 
 | 
 
-Dropped when cookie policy has been seen / accepted  
+Dropped when cookie policy has been seen and accepted  
   
 cwvogel
 
@@ -312,29 +315,23 @@ cwvogel
 
 Anonymously records how many articles have been fully scrolled through within the current web browser in each of the last 28 days  
   
-_gat
+IP_Message_Accepted
 
 | 
 
-Used by Google Analytics  
+Dropped when a user closes a notification message to prevent it from showing again in the same session  
   
-_gads
+_MadgexTracking
 
 | 
 
-Used by Google AdSense  
+Used to support display and customisation of jobs widget (provided by Madgex)  
   
-ai_session
+mb__closed
 
 | 
 
-Application Insights – helps to monitor site performance  
-  
-ai_user
-
-| 
-
-Application Insights – helps to monitor site performance  
+Dropped when a user closes a notification message to prevent it from showing again in the same session  
   
 sp_
 
@@ -347,12 +344,6 @@ _AntiXsrfToken
 | 
 
 Stores session information used to guarantee the origin of JavaScript request  
-  
-mssgday
-
-| 
-
-Dropped when the user closes a notification message to prevent it showing again within the session  
   
 __cfduid
 
@@ -372,12 +363,16 @@ Related to Bizo advertising network (owned by LinkedIn)
   
 #### Cookies commonly used across our websites
 
-Cookie name | Description  
+Cookie name| Description  
 ---|---  
   
 _ga
 
+__gads
+
 _gat
+
+_gid
 
 __utma
 
@@ -537,7 +532,7 @@ The data that we collect from you may be stored in a location outside of the Eur
 
 
 
-We have not set out the specific circumstances when each of these protection measures are used. You can contact us at [DPO@rsc.org](mailto:DPO@rsc.org) for the details as to how we protect specific transfer of your data.
+We have not set out the specific circumstances when each of these protection measures are used. You can contact us at  [DPO@rsc.org](mailto:DPO@rsc.org) for the details as to how we protect specific transfer of your data.
 
 ## Children’s data
 
@@ -570,7 +565,7 @@ We also offer the following controls:
 
 
 
-If you consider that we are in breach of our obligations under data protection laws, you may lodge a complaint with the [Information Commissioner’s Office](https://ico.org.uk/global/contact-us/). You have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or of an alleged infringement of the GDPR.
+If you consider that we are in breach of our obligations under data protection laws, you may lodge a complaint with the  [Information Commissioner’s Office](https://ico.org.uk/global/contact-us/). You have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, place of work or of an alleged infringement of the GDPR.
 
 ## Retention
 
