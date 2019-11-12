@@ -1,23 +1,46 @@
-> *The following text is extracted and transformed from the thegeekpage.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119021528id_/http%3A//stacktips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegeekpage.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112100008id_/https%3A//thegeekpage.com/disclaimer-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Stacktips
+# Disclaimer & Privacy Policy
 
-We consider our readers privacy seriously! We are committed to protect the privacy and accuracy of confidential information to the extent possible. This document outlines our privacy policy statement to and about our information gathering and dissemination practices.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://thegeekpage.com/contact/).
 
-Stacktips readers are free to visit, comment, test and download code snippets, examples, docs, etc. without any user registration. Stacktips may contain links to other sites. We are not responsible for the privacy practices or the content of such web sites. This privacy document applies only to stacktips.com.
+we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by thegeekpage.com and how we use it.
 
-## How we use your information
+**Log Files**  
+Like many other Web sites, thegeekpage.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-Although there are many applications and websites that collect information and other statistics about their users, Stacktips **DO NOT** collect any personal information or use cookies about you when you visit this website.
+**Cookies and Web Beacons**  
+thegeekpage.com does not use cookies.
 
-If you contact us via this website, you might provide your name and email address. Such informations are solely used for the purpose of replying to your enquiry. Any of your details are not used for any other reason and is not passed to anyone else without your consent.
+**DoubleClick DART Cookie**
 
-IP addresses are logged for aggregate statistics and diagnosis. We use third party sites for statistics and analysis purpose. We have implemented and use display advertising through re-marketing with Google analytics.
+→ Google, as a third party vendor, uses cookies to serve ads on thegeekpage.com.  
+→ Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to thegeekpage.com and other sites on the Internet.  
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
-## Cookies
+**Our Advertising Partners**
 
-Cookies are small files placed on your computer which can log certain information about your visit.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
 
-We use third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to our website. The information is stored by Google is adhered to [Google’s privacy policy](https://www.google.com/policies/privacy/).
+  * Google
 
-This privacy statement was last revised on 15th June 2016 We may change this privacy statement at any time and for any reason. If you have questions or comments about this privacy statement, please write to support[at]stacktips.com.
+
+
+These third-party ad servers or ad networks use technology in their respective advertisements and links that appear on thegeekpage.com and which are sent directly to your browser. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons) may also be used by our site’s third-party ad networks to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on the site.
+
+thegeekpage.com has no access to or control over these cookies that are used by third-party advertisers.
+
+**Third Party Privacy Policies**
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. https://thegeekpage.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+**Consent**  
+By using our website, you hereby consent to our privacy policy and agree to its terms.
+
+## Terms of Use
+
+All content provided on this thegeekpage.com blog is for informational purposes only. The owner of this blog makes no representations as to the accuracy or completeness of any information on this site or found by following any link on this site.
+
+The owner of thegeekpage.com will not be liable for any errors or omissions in this information nor for the availability of this information. The owner will not be liable for any losses, injuries, or damages from the display or use of this information.
