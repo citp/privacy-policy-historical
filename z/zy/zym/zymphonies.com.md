@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zymphonies.com privacy policy that was archived on 2018-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181106065402id_/http%3A//www.zymphonies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zymphonies.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112065431id_/https%3A//www.zymphonies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Zymphonies
 
@@ -32,4 +32,4 @@ Our Privacy Policy may change from time to time and all updates will be posted o
 
 ## Contact us
 
-If the information provided by you is incorrect or incomplete, then update it with us by sending an email. If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20181106065402id_/http%3A//www.zymphonies.com/contact).
+If the information provided by you is incorrect or incomplete, then update it with us by sending an email. If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20191112065431id_/https%3A//www.zymphonies.com/contact).
