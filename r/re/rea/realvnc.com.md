@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617205158id_/https%3A//www.realvnc.com/en/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realvnc.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112160038id_/https%3A//www.realvnc.com/en/legal/%23privacy) for the most accurate reproduction.*
 
 # Legal | RealVNC
 
