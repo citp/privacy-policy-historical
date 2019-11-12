@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shangri-la.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622072246id_/https%3A//www.shangri-la.com/en/corporate/policies-pledges) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shangri-la.com privacy policy that was archived on 2019-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191112071507id_/https%3A//www.shangri-la.com/en/corporate/policies-pledges) for the most accurate reproduction.*
 
 # Policies and Pledges | Shangri-La Hotels and Resorts
 
@@ -244,18 +244,21 @@ More specifically, we may use the following cookies on our Site:
   *  **Adobe Audience Manager** stored by Adobe for 6 months to 2 years, depending on the cookies - We use Adobe Audience Manager for visitors’ website activity analysis and personalised user marketing, such as identifying visitors, creating user segments, recording data calls, synchronizing data, error tracking and testing. For further information on how Adobe Audience Manager cookies work, please see <https://marketing.adobe.com/resources/help/en_US/whitepapers/cookies/cookies_am.html> To opt-out, please see: <https://www.adobe.com/hk_en/privacy/opt-out.html> 
   *  **Flurry Analytics** stored by Yahoo with no expiry date - We use Flurry Analytics to help us collect unexpected crash logs of our mobile application users (excluding those in the People’s Republic of China except for Hong Kong, Taiwan and Macao) to improve stability and performance of our mobile application and to track how users use our mobile application. For more information on how Flurry Analytics uses your data, please refer to <https://policies.yahoo.com/us/en/yahoo/privacy/index.htm> 
   *  **Umeng Analytics** stored by Umeng with no expiry date - We use Umeng Analytics to help us collect unexpected crash logs of our mobile application users in the People’s Republic of China except for Hong Kong, Taiwan and Macao to improve stability and performance of our mobile application and to track how users use our mobile application. For more information on how Umeng Analytics uses your data, please refer to <http://www.umeng.com/policy.html> To opt-out, please see <https://dip.umeng.com/opt_out.html> 
+  *  **pardot.com** stored by Pardot for 1 day to 2 years – We use Pardot to track visitors’ activities on our website by remembering preferences (such as how the visitors use our website and which pages are viewed most often) when the visitors return to our website. For further information on how Pardot uses your data, please refer to Pardot’s [Privacy Policy](https://www.salesforce.com/company/privacy/full_privacy/). To opt-out, see [section 4 of Pardot’s Privacy Policy](https://www.salesforce.com/company/privacy/full_privacy/) and/or click the Cookie Preferences link in the footer of the Pardot’s Privacy Policy . 
 
 
 
- ** _Necessary Cookies_**  
+**_Necessary Cookies_**  
 
   *  **Akamai CDN** stored by Akamai for 1 day - We use Akamai Content Delivery Network (CDN) for page caching to enhance our website performance and security. For further information on how Akamai CDN uses your data, please refer to <https://www.akamai.com/us/en/privacy-policies/> 
   *  **ASP.NET_SessionId** stored by Microsoft - Our website is .net based and we use ASP.NET to identify user sessions on our website. The data is not stored because this is a session cookie. For more information on how ASP.NET cookies work, please see <https://msdn.microsoft.com/en-us/library/ms178194.aspx> 
   *  **.ASPXFORMSAUTH** stored by Microsoft - We use .ASPXFORMSAUTH for authentication on our website’s logon page to identify users. The data is not stored because this is a session cookie. For more information about how the authentication cookies work, please see <https://support.microsoft.com/en-us/help/910443/understanding-the-forms-authentication-ticket-and-cookie> 
+  *  **Hotelchamp_Session** stored by Hotelchamp for zero day (session cookie) – Hotelchamp sets cookies to display personalized marketing messaging to visitors on our website. For detailed information on Hotelchamp’s GDPR compliance, please refer to the [Hotelchamp GDPR Compliance Statement](https://www.hotelchamp.com/gdpr-compliance "Hotelchamp GDPR Compliance Statement"). For further information on how Hotelchamp cookies work, please see the [Hotelchamp Privacy Policy](https://www.hotelchamp.com/privacy-policy/ "Hotelchamp Privacy Policy"). 
+  * **Hotelchamp_User** stored by Hotelchamp for 2 years – Hotelchamp sets cookies to display personalized marketing messaging to visitors on our website.For detailed information on Hotelchamp’s GDPR compliance, please refer to the [Hotelchamp GDPR Compliance Statement](https://www.hotelchamp.com/gdpr-compliance "Hotelchamp GDPR Compliance Statement"). For further information on how Hotelchamp cookies work, please see the [Hotelchamp Privacy Policy](https://www.hotelchamp.com/privacy-policy/ "Hotelchamp Privacy Policy"). 
 
 
 
- ** _Advertising Cookies_**  
+**_Advertising Cookies_**  
 
   *  **DoubleClick** stored by Google for 2 years - Google (doubleclick.net) sets cookies to display personalised user marketing on other websites and track transactions made by you on [www.shangri-la.com](http://www.shangri-la.com/). For more information on how DoubleClick uses your data, please refer to <https://www.google.com/intl/en/policies/privacy/> 
   *  **fr** stored by Facebook for 3 months - Facebook (facebook.com) sets cookies to display personalised user marketing on other websites and track transactions made by you on [www.shangri-la.com](http://www.shangri-la.com/). For more information on how Facebook uses your data, please refer to <https://en-gb.facebook.com/policies/cookies/> 
@@ -269,6 +272,9 @@ More specifically, we may use the following cookies on our Site:
   *  **__ysuid** stored by Youku for 24 years and 9 months - Youku (youku.com) sets cookies to display personalised user marketing on other websites and track transactions made by you on [www.shangri-la.com](http://www.shangri-la.com/). For more information on how Youku uses your data, please refer to <http://mapp.youku.com/service/flsm2?spm=a2hww.20027244.0.0> 
   *  **netmng** : stored by IgnitionOne for 24 months – IgnitionOne sets cookies to display personalized user marketing on other websites and measures the marketing performance. For more information on how IgnitionOne uses your data, please refer to: <https://www.ignitionone.com/services-privacy-policy/>. To opt-out from the cookies, please refer to: <https://ione.netmng.com/optout.php>.
   *  **adsrvr.org** : stored by The Trade Desk for 18 months – The Trade Desk sets cookies to display personalized user marketing on other websites and measures the marketing performance. For more information on how The Trade Desk uses your data, please refer to: <https://www.thetradedesk.com/general/privacy>. To opt-out from the cookies, please refer to: <https://www.adsrvr.org/>.
+  *  **quantserve.com** : stored by Quantcast for up to 13 months – Quantcast allows us to provide more relevant advertisement and marketing content by setting cookies to measuringe on-site behaviours of users and optimizinge marketing performance. For more information on how Quantcast uses your data, please refer to: <https://www.quantcast.com/privacy/>. To opt-out from the cookies, please refer to: <https://www.quantcast.com/opt-out/>. 
+  * **cdn.zampda.net** : stored by Zamplus for less than one1 month – Zamplus sets cookies to display personalized user marketing on other websites, measures on-site behaviour and optimizes marketing performance. For more information on how Zamplus uses your data, please refer to: <http://www.zamplus.com/privacy/>. To opt-out from the cookies, please refer to: <http://www.zamplus.com/privacy/>. 
+  * **p.teads.tv** : stored by Teads for a maximum of 365 days – Teads sets cookies to display personalized user marketing on other websites, to measures on-site behaviour and to optimizes marketing performance. For more information on how Teads uses your data, please refer to: <https://www.teads.com/privacy-policy/>. To opt-out from the cookies, please refer to: [http://www.youronlinechoices.com/uk/your-ad-choices](https://www.teads.com/privacy-policy/).
 
 
 
@@ -310,4 +316,4 @@ We may change this Cookies Policy from time to time by posting the updated versi
 
 If you have any questions about the cookies used on our website, please contact us at [dataprotectionofficer@shangri-la.com](mailto:dataprotectionofficer@shangri-la.com).
 
- **Last Updated:** **11 March 2019**  
+ **Last Updated: 14 August** **  2019** 
