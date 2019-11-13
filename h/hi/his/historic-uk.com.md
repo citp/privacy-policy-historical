@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330150410id_/https%3A//www.historic-uk.com/CookiePolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113104623id_/https%3A//www.historic-uk.com/CookiePolicy) for the most accurate reproduction.*
 
 # Historic UK's Privacy & Cookie Policy - Historic UK
 
