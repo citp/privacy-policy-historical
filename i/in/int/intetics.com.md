@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2018-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180912140107id_/https%3A//intetics.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intetics.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113070607id_/https%3A//intetics.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Intetics
 
@@ -40,7 +40,7 @@ You can find privacy information about AdWords [here](https://policies.google.co
 
  **AddThis** component enables buttons for sharing our publications in Xing, Facebook, Twitter, LinkedIn and Google+. When you go through the pages where this button is displayed, information about your visit (mainly the same as in the case of Google Analytics) is uploaded to AddThis, which enables them to show you personalized advertisements.
 
-We cannot identify you personally using the above statistics because we can only see the aggregated and anonymized data. If you don’t want your behavior to be tracked, you may wish to disable cookies in your browser. Please follow the links to further educate yourself on how to manage cookies: [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en), [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy), [Internet Explorer](https://support.microsoft.com/en-my/help/17442/windows-internet-explorer-delete-manage-cookies), [Safari](https://support.apple.com/kb/ph21411?locale=en_US).
+We cannot identify you personally using the above statistics because we can only see the aggregated and anonymized data. If you don’t want your behavior to be tracked, you may wish to disable cookies in your browser. Please follow the links to further educate yourself on how to manage cookies: [Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en), [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy), [Internet Explorer](https://support.microsoft.com/en-my/help/17442/windows-internet-explorer-delete-manage-cookies), [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac).
 
 You can find AddThis Privacy Policy [here](http://www.addthis.com/privacy/privacy-policy). This service belongs to Oracle Corporation located in the US (Chief Privacy Officer Oracle Corporation, 10 Van De Graaff Dr., Burlington, MA 01803, United States of America). Oracle corporation and its subsidiaries and affiliates comply with the EU-US Privacy Shield adequacy decision ("Privacy Shield").
 
@@ -137,7 +137,7 @@ You can read what each of these rights means in the section Your rights of this 
 
 ### Logs of the web server
 
-This website is located on our dedicated server which is supported by Intetics' Infrastructure Department. It collects some technical information: Client IP, Date, Requested URL, Server Response, and Response size. These data sets are used for the purposes of our legitimate interest to troubleshoot and secure our infrastructure.
+This website is located on our dedicated server which is supported by Intetics' Infrastructure Department. It collects some technical information: Client IP, Date, Requested URL, Server Response, and Response size. These data sets are used for the purposes of our legitimate interest: to troubleshoot and secure our infrastructure, to identify which articles are more in demand depending on the client’s geography, and to optimize the content of our website.
 
 The retention period for the logs of our web server is set to 2 years.
 
