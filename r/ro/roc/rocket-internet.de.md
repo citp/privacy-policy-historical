@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocket-internet.de privacy policy that was archived on 2018-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181012173400id_/https%3A//www.rocket-internet.com/imprint) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocket-internet.de privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113135007id_/https%3A//www.rocket-internet.com/imprint) for the most accurate reproduction.*
 
 # Imprint | Rocket Internet
 
@@ -25,7 +25,7 @@ This Privacy Policy contains information about our use of your personal data wit
 
 The data controller (hereinafter referred to as “Rocket Internet” or “we”) in the sense of the GDPR and other national data protection laws of the member states as well as other data protection regulations is:
 
-Rocket Internet SE
+**Rocket Internet SE**
 
 Charlottenstraße 4  
 10969 Berlin  
