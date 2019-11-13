@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguin.com.au privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504120355id_/https%3A//www.penguin.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.com.au privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113041747id_/https%3A//www.penguin.com.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy - Penguin Books Australia
 
