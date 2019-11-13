@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the manilatimes.net privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629145030id_/https%3A//www.manilatimes.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manilatimes.net privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113095248id_/https%3A//www.manilatimes.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Manila Times Online
+# Privacy Policy – The Manila Times
 
 This site, www.manilatimes.net , is established and managed by The Manila Times, Publishing Company (“Manila Times”).
 
@@ -8,7 +8,7 @@ Manila Times respects your right to privacy in accordance to Republic Act No. 10
 
 By using this website, agree to the terms of this privacy policy. By accessing the Sites or utilizing the Services, you hereby consent to the use of your information, including your personal information, in the manner described in this Policy.
 
-**INFORMATION WE COLLECT**
+ **INFORMATION WE COLLECT**
 
 Manila Times collects both personal information and non-personal information such as computer data.
 
@@ -51,7 +51,7 @@ We also at times collect anonymous demographic information such as the following
 
 
 
-**HOW WE USE YOUR INFORMATION**
+ **HOW WE USE YOUR INFORMATION**
 
 Generally, we use personal information to analyze trends, administer the website, track user movement, and gather broad demographic information for general use.
 
@@ -67,7 +67,7 @@ When the user signs up for our services, we may be required to share names, or o
 
 Manila Times does not engage in the business of selling customers’ personal information to third parties.
 
-**USE OF COOKIES**
+ **USE OF COOKIES**
 
 We use cookies to help you personalize your online experience. A cookie is a piece of data stored on the user’s hard drive containing information about the user. You are free to accept or decline cookies by modifying your browser setting to decline cookies. If you choose to decline cookies, you may not be able to fully experience the features of the website.
 
@@ -85,7 +85,7 @@ Crowdynews
 
 <https://www.crowdynews.com/>
 
-**HOW WE PROTECT YOUR PERSONAL INFORMATION**
+ **HOW WE PROTECT YOUR PERSONAL INFORMATION**
 
 Manila Times ensures that all information collected will be safe and secure. We shall protect all information you provided by:
 
@@ -97,20 +97,20 @@ Manila Times ensures that all information collected will be safe and secure. We 
 
 While we take these reasonable efforts to safeguard your personal information, no system or transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
 
-If you believe that your privacy has been breached, contact us at our email address: comments@manilatimes.net
+If you believe that your privacy has been breached, contact us at our email address: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
-You have the right to ask for a copy of any personal information we hold about you, as well as to ask for it to be corrected if you think it is wrong. To do so, please contact comments@manilatimes.net.
+You have the right to ask for a copy of any personal information we hold about you, as well as to ask for it to be corrected if you think it is wrong. To do so, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every website that collects personally identifiable information.
 
-**CHANGES TO OUR PRIVACY POLICY**
+ **CHANGES TO OUR PRIVACY POLICY**
 
 Manila Times reserves the right to change this Privacy Policy at any time. Any changes to this policy shall be published on the Platform. By accessing and continuing to use this site, you confirm that you have read, understood, and agreed to this Privacy Policy and any subsequently modified Privacy Policy in its entirety.
 
-**MANILA TIMES’ RIGHT**
+ **MANILA TIMES’ RIGHT**
 
 You acknowledge and agree that Manila Times has the right to disclose your personal information to any legal, regulatory, governmental, tax, law enforcement or other authorities or the relevant right owners, if Manila Times has reasonable grounds to believe that disclosure of your personal information is necessary for the purpose of meeting any obligations, requirements or arrangements, whether voluntary or mandatory, as a result of cooperating with an order, an investigation and/or a request of any nature by such parties. To the extent permissible by applicable law, you agree not to take any action and/or waive your rights to take any action against Manila Times for the disclosure of your personal information in these circumstances.
 
-**CONTACT US**
+ **CONTACT US**
 
-Should you have any concerns, queries, or comments, feel free to contact us at comments@manilatimes.net.
+Should you have any concerns, queries, or comments, feel free to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
