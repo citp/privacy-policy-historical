@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114051449id_/https%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113014858id_/https%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Typing Test and Free Learn to Type Tutor Online - Privacy Statement
 
 **Copyrighted Typing Test Technology**
 
-Content and materials on this website are Copyright ©1999-2018 Learn2Type.com, Inc. 
+Content and materials on this website are Copyright ©1999-2019 Learn2Type.com, Inc. 
 
 Access to this website and content is provided at no charge, and with no   
 guarantees. While this content has been made available to assist you in   
@@ -15,7 +15,7 @@ the ability or disability of using this website. Use these materials at your own
 
 Usage of this website constitutes acknowledgment of these disclaimers and terms. 
 
-If you have any questions or concerns, please [contact us with the online feedback form](http://www.learn2type.com/Feedback). 
+If you have any questions or concerns, please [contact us with the online feedback form](https://www.learn2type.com/Feedback). 
 
 * * *
 
@@ -55,7 +55,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by postal mail at the address below, or [use the online feedback form](http://www.learn2type.com/Feedback): 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by postal mail at the address below, or [use the online feedback form](https://www.learn2type.com/Feedback): 
 
 _Webmaster  
 Learn2Type.com, Inc.   
