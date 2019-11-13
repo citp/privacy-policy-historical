@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404213652id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodnetwork.co.uk privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113181503id_/http%3A//www.foodnetwork.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Notice | Recipes | Food Network UK
 
@@ -10,15 +10,11 @@ This Privacy Notice was last changed 25 May 2018.
 
 ## Who we are
 
-We are Scripps Networks International (UK) Limited and we respect your privacy.
+We are Discovery Corporate Services Limited and we respect your privacy.
 
-Your personal data is collected by Scripps Networks International (UK) Limited, acting as data controller ( _registration number 05068968_ ) and its affiliates ("we"/"us"/"our").
+Your personal data is collected by Discovery Corporate Services Limited and its affiliates ("we"/"us"/"our").
 
-_Registered address: One Fleet Place, London, EC4M 7WS, United Kingdom_
-
-_Business address: 111 Buckingham Palace Road, 4th Floor, London, SW1W 0SR, United Kingdom_
-
-_Phone: +44 (0)20 7578 9700_
+_Business address: Chiswick Park Building 2, 566 Chiswick High Road, London W4 5YB_
 
 This Privacy Notice covers this Website and all other Websites, applications and features operated by us and where this Privacy Notice is posted ( **Website** ).
 
