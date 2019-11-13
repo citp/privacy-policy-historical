@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the icsi.edu privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903211726id_/https%3A//www.icsi.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsi.edu privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113024304id_/https%3A//www.icsi.edu/privacy) for the most accurate reproduction.*
 
-# The Institute of Company Secretaries of India, The ICSI
+# ICSI - Privacy
+
+### Privacy
 
 ICSI: The Institute of Company Secretaries of India is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the ICSI: The Institute of Company Secretaries of India Web site and governs data collection and usage. By using the ICSI: The Institute of Company Secretaries of India website, you consent to the data practices described in this statement.
 
@@ -44,4 +46,4 @@ ICSI: The Institute of Company Secretaries of India will occasionally update thi
 
 Contact Information
 
-ICSI: The Institute of Company Secretaries of India welcomes your comments regarding this Statement of Privacy. If you believe that ICSI: The Institute of Company Secretaries of India has not adhered to this Statement, please contact ICSI: The Institute of Company Secretaries of India at [dit@icsi.edu](mailto:dit@icsi.edu). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+ICSI: The Institute of Company Secretaries of India welcomes your comments regarding this Statement of Privacy. If you believe that ICSI: The Institute of Company Secretaries of India has not adhered to this Statement, please contact ICSI: The Institute of Company Secretaries of India at [dit@icsi.edu](mailto:dit@icsi.edu). We will use commercially reasonable efforts to promptly determine and remedy the problem.
