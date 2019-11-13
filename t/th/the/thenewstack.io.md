@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewstack.io privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530195224id_/https%3A//thenewstack.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewstack.io privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113042348id_/https%3A//thenewstack.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The New Stack
 
