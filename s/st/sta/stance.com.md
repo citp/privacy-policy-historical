@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stance.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331123434id_/https%3A//www.stance.com/privacy-policy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stance.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113130718id_/https%3A//www.stance.com/support/privacy-and-terms) for the most accurate reproduction.*
 
-# Stance eCommerce Privacy Policy
+# Privacy and Terms
 
 **Application of this Policy**
 
@@ -18,7 +18,7 @@ Our Website is not intended for children under 16 years of age. No one under age
 
 **Information We Collect About You and How We Collect It**
 
-We collect several types of information from and about users of our Website, including the following: 
+We collect several types of information from and about users of our Website, including the following:
 
   * information by which you may be personally identified, such as name, postal address, e-mail address, telephone number, (“personal information”);
   * information that is about you but individually does not identify you by itself, such as your IP address, some types of profile information and content that you post on the Website; and/or
@@ -41,7 +41,7 @@ We collect this information directly from you when you provide it to us and/or a
 
 **Information You Provide to Us**
 
-The information we collect on or through our Website may include: 
+The information we collect on or through our Website may include:
 
   * information that you provide by filling in forms on our Website. This includes information provided at the time of registering to use our Website or placing an order with our Website.
   * information when you enter a contest or promotion sponsored by us.
@@ -55,7 +55,7 @@ You also may provide information to be published or displayed (hereinafter, “p
 
 **Analytics data, Cookies and Other Technologies**
 
-As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including: 
+As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions and patterns, including:
 
   * details of your visits to our Website, including traffic data, location data, logs and other communication data and the resources that you access and use on the Website;
   * information about your computer and internet connection, including your IP address, operating system and browser type.
@@ -65,7 +65,7 @@ As you navigate through and interact with our Website, we may use automatic data
 
 We also may use these technologies to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). As we have noted elsewhere in this policy, you have the right not to be tracked and can turn of this feature if you choose.
 
-The information we collect automatically is statistical data and may include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to: 
+The information we collect automatically is statistical data and may include personal information, but we may maintain it or associate it with personal information we collect in other ways or receive from third parties. It helps us to improve our Website and to deliver a better and more personalized service, including by enabling us to:
 
   * estimate our audience size and usage patterns;
   * store information about your preferences, allowing us to customize our Website according to your individual interests.
@@ -74,16 +74,16 @@ The information we collect automatically is statistical data and may include per
 
 
 
-The technologies we use for this automatic data collection may include: 
+The technologies we use for this automatic data collection may include:
 
   * Cookies as outlined above
-  * • Web Beacons. Pages of the Website may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
+  * Web Beacons. Pages of the Website may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit us, for example, to count users who have visited those pages or and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity).
 
 
 
 **How We Use Your Information**
 
-We only use information we collect from you for as long as it is reasonably required for a legitimate business purpose. We review our retention periods for personal information on a regular basis. We are legally required to hold some types of information to fulfill our statutory obligations, such as for tax records, or to confirm your warranty. We will hold your personal information on our systems for as long as necessary for the relevant activity, or for as long as is set out in any relevant contract you hold with us. We use information that we collect about you or that you provide to us, including any personal information: 
+We only use information we collect from you for as long as it is reasonably required for a legitimate business purpose. We review our retention periods for personal information on a regular basis. We are legally required to hold some types of information to fulfill our statutory obligations, such as for tax records, or to confirm your warranty. We will hold your personal information on our systems for as long as necessary for the relevant activity, or for as long as is set out in any relevant contract you hold with us. We use information that we collect about you or that you provide to us, including any personal information:
 
   * to present our Website and its contents to you;
   * to provide you with information, products or services that you request from us;
@@ -102,14 +102,14 @@ We may also use your information to contact you about our goods and services tha
 
 We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
 
-We may disclose personal information that we collect or you provide as described in this privacy policy for the following legitimate business purposes: 
+We may disclose personal information that we collect or you provide as described in this privacy policy for the following legitimate business purposes:
 
   * to contractors, service providers and other third parties required to support legitimate business purposes;
   * by operation of contract to a buyer or other successor of Stance, such as in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Stance’s assets, in which personal information held by Stance about our Website users is among the assets transferred;
   * for the other purpose disclosed by us at the time you provide the information;
   * with your consent;
   * to comply with any court order, law or legal process, including to respond to any government or regulatory request;
-  * to enforce or apply our terms of use at https://www.stance.com/terms-and-conditions/terms.html, including for billing and collection purposes; and/or
+  * to enforce or apply our terms of use at https://www.stance.com/support/terms-and-conditions, including for billing and collection purposes; and/or
   * if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Stance, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 
@@ -119,7 +119,7 @@ We may disclose personal information that we collect or you provide as described
 We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information:
 
   * _Tracking Technologies and Advertising_. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this Website may then be inaccessible or not function properly.
-  * _Promotional Offers from Stance._ We will not email you unless you opt in. Once you have opted in, If you do not wish to have your e-mail address used by Stance to promote our own or third parties’ products or services, you can opt-out either by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes; by sending us an e-mail stating your request to the address specified in the “Contact Information” section below; or by following the unsubscribe instructions contained in all promotional emails. If we have sent you a promotional e-mail pursuant to your opting-in, you may send us a return e-mail asking to be omitted from future e-mail distributions.
+  * _Promotional Offers from Stance._  We will not email you unless you opt in. Once you have opted in, If you do not wish to have your e-mail address used by Stance to promote our own or third parties’ products or services, you can opt-out either by logging into the Website and adjusting your user preferences in your account profile by checking or unchecking the relevant boxes; by sending us an e-mail stating your request to the address specified in the “Contact Information” section below; or by following the unsubscribe instructions contained in all promotional emails. If we have sent you a promotional e-mail pursuant to your opting-in, you may send us a return e-mail asking to be omitted from future e-mail distributions.
 
 
 
@@ -153,14 +153,13 @@ It is our policy to post any changes we make to our privacy policy on this page.
 
 **Contact Information**
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at:   
-
+To ask questions or comment about this privacy policy and our privacy practices, contact us at: 
 
    193 Avenida La Pata
 
    San Clemente, CA 92673
 
-   Toll-free Number: (888) 391-9020
+   Toll-free Number: (888) 391-9020
 
    Phone Number: (949) 391-9030
 
