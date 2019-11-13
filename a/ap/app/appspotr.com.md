@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appspotr.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504102448id_/https%3A//appspotr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appspotr.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114002624id_/https%3A//www.appspotr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Appspotr
 
