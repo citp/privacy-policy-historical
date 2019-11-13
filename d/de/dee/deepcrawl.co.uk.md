@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepcrawl.co.uk privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409092050id_/https%3A//www.deepcrawl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepcrawl.co.uk privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113211058id_/https%3A//www.deepcrawl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DeepCrawl
 
@@ -9,7 +9,8 @@ It provides you with details about the personal information we collect from you,
 Please read this privacy policy carefully – by accessing or browsing this website, you confirm that you have read and understood this privacy policy in its entirety.
 
 This privacy policy was last updated on 6th March 2018. Please check back  
-regularly to keep informed of updates to this privacy policy.
+regularly to keep informed of updates to this privacy policy.  
+ 
 
 ## Who We Are
 
@@ -24,14 +25,16 @@ If you have any questions about how we collect, store and use personal
 information, or if you have any other privacy-related questions, please contact
 
 Matt Jones who is our data protection officer by any of the following means:  
-Matt Jones at mj@deepcrawl.com or by post at: 29 Throgmorton Street, London, EC2N 2AT, UK.
+Matt Jones at mj@deepcrawl.com or by post at: 29 Throgmorton Street, London, EC2N 2AT, UK.  
+ 
 
 ## A Quick Word About Children
 
 We do not and will not knowingly collect information from any unsupervised child  
 under the age of 18. If you are under the age of 18, you must not use this  
 website unless you have the consent of, and are supervised by, a parent or  
-guardian.
+guardian.  
+ 
 
 ## The Personal Information We Collect About You
 
@@ -43,7 +46,8 @@ information to us through data entry fields on the website), we may collect the 
 ● your postal address;  
 ● your phone, fax and e-mail details;  
 ● credit card information for transactions; and  
-● data about your computer hardware and software (such as IP address, browser type, domain names, access times and referring website addresses).
+● data about your computer hardware and software (such as IP address, browser type, domain names, access times and referring website addresses).  
+ 
 
 ## How We Store And Use Your Information
 
@@ -59,7 +63,8 @@ DeepCrawl service.
 Your personal information is processed in accordance with our legitimate interest in providing a service to you and monitoring and improving the use and  
 satisfaction of our website.
 
-Finally, we also collect anonymised details about visitors to our website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details we collect for these purposes.
+Finally, we also collect anonymised details about visitors to our website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymised details we collect for these purposes.  
+ 
 
 ## How We Share Your Personal Information And Who We Share It With
 
@@ -88,7 +93,8 @@ we are acquired by or merged with another company. If we are involved
 in a merger, acquisition, or sale of all or a portion of its assets, you will be  
 notified afterwards via email and/or a prominent notice on our website of  
 any change in ownership or uses of your personal information, as well as  
-any choices you may have regarding your personal information.
+any choices you may have regarding your personal information.  
+ 
 
 ## International Transfers
 
@@ -111,11 +117,13 @@ Please be aware that countries which are outside the European Economic Area
 may not offer the same level of data protection as the United Kingdom, although our collection, storage and use of your personal data will continue to be governed by this privacy policy.
 
 Further details on the steps we take to protect your personal information in  
-these cases is available from us on request by emailing info@deepcrawl.com or writing to us at 29 Throgmorton Street, London EC2N 2AT.
+these cases is available from us on request by emailing info@deepcrawl.com or writing to us at 29 Throgmorton Street, London EC2N 2AT.  
+ 
 
 ## Cookies
 
-We use cookies on our website in accordance with our Cookie Policy. Please read more about how we use cookies and what information is collected using cookies [in our cookie policy here.](https://www.deepcrawl.com/cookie-policy/)
+We use cookies on our website in accordance with our Cookie Policy. Please read more about how we use cookies and what information is collected using cookies [in our cookie policy here.](https://www.deepcrawl.com/cookie-policy/)  
+ 
 
 ## Security
 
@@ -124,7 +132,8 @@ the personal information that you provide to us, no transmission over the
 Internet can ever be guaranteed secure.
 
 Consequently, please note that we cannot guarantee the security of any  
-personal information that you transfer over the Internet to us.
+personal information that you transfer over the Internet to us.  
+ 
 
 ## Data Retention
 
@@ -134,7 +143,8 @@ subscription and the services we provide to you for as long as you subscribe to 
 We will retain information used for marketing purposes for up to two years  
 unless you let us know that you would like to opt-out of such communications.
 
-We will delete personal information after the retention periods set out above except where we need to keep any personal information to comply with our legal obligations, resolve disputes, or enforce our agreements.
+We will delete personal information after the retention periods set out above except where we need to keep any personal information to comply with our legal obligations, resolve disputes, or enforce our agreements.  
+ 
 
 ## Your Rights
 
