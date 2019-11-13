@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medievaltimes.com privacy policy that was archived on 2018-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181227032355id_/https%3A//www.medievaltimes.com/about-medieval-times/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medievaltimes.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114003953id_/https%3A//www.medievaltimes.com/about-medieval-times/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Medieval Times Dinner & Tournament
 
-At Medieval Times Entertainment, we respect your privacy. This Privacy Policy covers how we collect, store, use, disclose, and transfer information we may collect from you when you visit our website or communicate with us through this website. Please familiarize yourself with our Privacy Policy, and review it periodically. Medieval Times may update its Privacy Policy from time to time.
+At Medieval Times USA, Inc., we respect your privacy. This Privacy Policy covers how we collect, store, use, disclose, and transfer information we may collect from you when you visit our website or communicate with us through this website. Please familiarize yourself with our Privacy Policy, and review it periodically. Medieval Times may update its Privacy Policy from time to time.
 
 **Collection of Personal Information**
 
@@ -54,7 +54,7 @@ Medieval Times understands the importance of extra precautions to protect the sa
 
 **Access to Other Websites**
 
-This website may provide links to other websites not operated by Medieval Times Entertainment, Inc., including websites operated by affiliates of Medieval Times. This Privacy Policy does not apply to those other websites, nor does it apply to any unaffiliated third party's website such as Facebook or Google. Those websites have their own privacy policies that differ from ours. When you click on a link to those websites, or visit those other websites, you are entering another site. You should carefully review the privacy policies and terms and conditions of use of those sites, because those terms will apply to your visit to those sites.
+This website may provide links to other websites not operated by Medieval Times USA, Inc., including websites operated by affiliates of Medieval Times. This Privacy Policy does not apply to those other websites, nor does it apply to any unaffiliated third party's website such as Facebook or Google. Those websites have their own privacy policies that differ from ours. When you click on a link to those websites, or visit those other websites, you are entering another site. You should carefully review the privacy policies and terms and conditions of use of those sites, because those terms will apply to your visit to those sites.
 
 **Your California Privacy Disclosures**
 
@@ -64,7 +64,7 @@ We do not share your personal information with non-affiliates except as describe
 
 **International Users**
 
-This website is directed to visitors and potential visitors to our castles in the United States and our castle in Canada. This website is operated by Medieval Times Entertainment, Inc., a United States company, which is the controller with regard to your personal information. Information you provide from outside of the United States may be transferred or accessed by us in the United States and Canada, and in limited circumstances to our service providers who may also have a presence in other countries. We share your personal information only in the limited circumstances and for the purposes described in this Privacy Policy.
+This website is directed to visitors and potential visitors to our castles in the United States and our castle in Canada. This website is operated by Medieval Times USA, Inc., a United States company, which is the controller with regard to your personal information. Information you provide from outside of the United States may be transferred or accessed by us in the United States and Canada, and in limited circumstances to our service providers who may also have a presence in other countries. We share your personal information only in the limited circumstances and for the purposes described in this Privacy Policy.
 
 **Information Regarding Electronic Messages in Canada**
 
@@ -74,13 +74,13 @@ Medieval Times and its affiliates are [Canadian CASL compliant](http://fightspam
 
 If you are receiving electronic mail or electronic messages from us, and you do not want to be on our mailing list, desire to withdraw a previously given consent to electronic messages, desire to opt out of our promotional emails, or have any questions concerning our Privacy Policy, please contact us at privacypolicy@medieval times.com, or write us at:
 
-            Medieval Times Entertainment
+            Medieval Times USA, Inc.
 
             Privacy Policy Issues
 
-            6363 N. Hwy. 161, Suite 400
+            5020 Riverside Dr, Suite 400
 
-            Irving, TX 75038
+            Irving, TX 75039
 
 Please be sure to include your name, address, email address, and telephone number along with your request. To remove your name from an email list, you may also click on the “Unsubscribe” link at the end of the email.
 
@@ -90,4 +90,4 @@ You may also contact us at the addresses above if you desire to obtain access to
 
             This Privacy Policy applies to information we collect on this website, and to email, text, and other electronic messages between you and this website. This Privacy Policy does not apply to information collected by us offline or through other means, including information collected on websites operated by third parties, whether or not those websites are linked to or accessible from our website. It is your choice whether to use our website. Your continued use of this site constitutes your acceptance of our Privacy Policy.
 
-This Medieval Times Privacy Policy was last updated on January 12, 2016.
+This Medieval Times Privacy Policy was last updated on April 1, 2019.
