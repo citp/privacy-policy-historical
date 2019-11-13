@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mospi.nic.in privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528195628id_/http%3A//mospi.nic.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mospi.nic.in privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113165715id_/http%3A//www.mospi.nic.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ministry of Statistics and Program Implementation | Government Of India
 
