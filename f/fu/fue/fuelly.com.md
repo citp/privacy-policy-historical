@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuelly.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611100005id_/http%3A//www.fuelly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuelly.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113070843id_/http%3A//www.fuelly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
