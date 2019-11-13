@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518084443id_/https%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearias.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113183749id_/https%3A//www.clearias.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClearIAS.com
 
@@ -9,8 +9,6 @@ Please note that this privacy policy applies to all products from Clear IAS, inc
 ### Type of information we collect, if any
 
 We do not collect or retain any personal information unless you choose to provide it to us.
-
-[](https://www.cleariasexam.com/)
 
 **Non-personally identifiable information –** When you visit our website (www.clearias.com), it collects and stores non-personally identifiable information such as the name of the domain or IP address from which you access the Internet, the date and time you access our website, the browser version used, the device type (laptop or mobile) etc. We use this information to track the number of visitors to the different pages of our website. This helps us to make our website more convenient for users.
 
