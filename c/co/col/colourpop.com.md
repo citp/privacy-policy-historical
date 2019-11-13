@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colourpop.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416190148id_/https%3A//colourpop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colourpop.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113065453id_/https%3A//colourpop.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ColourPop
 
@@ -154,6 +154,8 @@ We collect and use information from individuals who interact with particular fea
 **E-Newsletter**
 
 When you sign up for our e-newsletter on our website or opt to receive news, offers, updates on out-of-stock items from us _by entering your name and email address and clicking subscribe or ticking a box at checkout indicating that they would like to receive your e-newsletter_ , we collect your email address , information about your browser, information about the page you signed up on,  and any other additional information you may provide to us.
+
+Text Marketing and notifications (if applicable): By entering your phone number in the checkout and initializing a purchase, you agree that we may send you text notifications and text marketing offers. You can unsubscribe from further text messages by replying STOP. Message and data rates may apply.
 
 **Legal basis for processing** : your consent (Article 6(1)(a) of the General Data Protection Regulation).   
 **Consent** : you give your consent to us sending you our e-newsletter by signing up to receive it using the steps described above.
