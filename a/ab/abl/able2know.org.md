@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the able2know.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401022950id_/https%3A//able2know.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the able2know.org privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113170205id_/https%3A//able2know.org/about/privacy) for the most accurate reproduction.*
 
 # able2know - Privacy Policy
 
