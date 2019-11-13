@@ -1,132 +1,136 @@
-> *The following text is extracted and transformed from the eyefortravel.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611185807id_/http%3A//www.eyefortravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefortravel.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113093314id_/https%3A//www.eyefortravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Travel Industry News & Conferences - EyeforTravel
 
-  1. **OVERVIEW**
+**Privacy Policy**
 
+Eyefortravel Ltd (also referred to as “ **EYEFORTRAVEL** ”, “ **we** ”, “ **our** ” and “ **us** ”) is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified, such as your name, address or contact details (“ **personal information** ”) then you can be assured that it will only be used in accordance with this privacy statement.
 
+The term “ **process** ” means any activity relating to personal information, including, by way of example, collection, storage, use, consultation and transmission.
 
-This policy applies to personal information collected via websites owned or controlled by Eyefortravel Ltd and their brands (for a list of these brands, please see <http://fc-bi.com/>.) (collectively referred to in this policy as “we”, "us" or "our").
+**About Us**
 
-The aim of this policy is to explain how we use any personal information we collect, or that you provide through our websites, landing pages, emails or webforms.
+EYEFORTRAVEL is the data controller of your personal information.
 
-We comply with the relevant data protection legislation for your region. If you are in the European Economic Area, this includes the General Data Protection Regulations and the Privacy and Electronic Communications Regulations.
+This means that we make decisions about how and why we process your personal information, and, because of this, we are responsible for making sure it is used in accordance with data protection laws.
 
-If our Privacy Policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures that you are always aware of what personal information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+**Personal Information We Collect**
 
-  2. **WHAT PERSONAL INFORMATION DO WE COLLECT?**
+Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and personalised experience while using our services.
 
+We collect different types of personal information about you when you visit our website, purchase something from us or otherwise communicate or engage with us. We also obtain some personal information from other sources and create some personal information ourselves.
 
+**Events**
 
-You do not have to give us any personal information in order to use most of our websites.
+If you wish to book a pass to our events, in order to fulfil your booking and let you know of any future events that may be of interest to you, we may ask you to provide us with your contact information, as well as your demographic information and areas of professional interests.
 
-However, if you wish to subscribe to a service, download content, book a pass to our events, or request further information, we may collect the following personal information from you:
+**Free business intelligence**
 
-  * name, business phone number and business email address; and
-  * job title, company name, company address, demographic information (such as country) and areas of professional interests.
+If you request to receive content from us, we will ask you to provide us with your name and email address so we can send this to you.
 
+**Website browsing**
 
+When you use our website, we collect non-personally identifying information such as page response times, download errors or your browser type and version. We also collect personal information such as your IP address, user names, passwords or other log-in information.
 
-We will also keep a record of any financial transaction you make with us but we do not directly collect, process or store your debit or credit card information. Online payments made through this website are processed securely by a third party payment provider Cvent. Please refer to paragraph 4 to understand how cvent process your payment card data.
+**Information obtained from or provided by third parties**
 
-In addition, we may automatically collect information about the website that you came from or are going to. We also collect information about the pages of our website which you visit, IP addresses, the type of browser you use and the times you access this website. Our marketing system uses this information to provide you with a smooth, efficient, and personalised experience while using our services.
+Third party organisations from whom you have recently engaged with or bought a product from sometimes provide us with your personal information such as your name, address, email address, phone number, date of birth and gender. We may use this information to contact you about our products and services that we think you would find useful.
 
-  3. **PROCESSING YOUR PERSONAL DATA**
+**Using Your Personal Information**
 
+**Marketing communications**
 
+We collect your personal information such as your name and email address to periodically send promotional emails about new products, special offers or other information which we think you may find interesting where you have consented to receive such emails. We may collect this information directly from you or from publicly available sources.
 
-We will use the personal information we collect in order to:
+**Market research**
 
-  * provide information; and updates about our products when you request it;
-  * administer our website and provide customer services;
-  * meet legal, regulatory and compliance requirements;
-  * gather management information to form statistical and trend analysis;
-  * investigate any complaints about this website;
-  * personalise your experience of this website; and
-  * contact you about our products and services which we think might be of interest to you (where we have the appropriate permissions to do so; please see Paragraph 5 for more information).
+From time to time, we may also use your name, email address, postal address or telephone number to contact you for market research purposes. We may contact you by email, phone, fax or mail. We use the information to customise the website according to your interests.
 
+**Events**
 
+We will use your name, email address, job title and demographic information and other relevant information in order to fulfil your booking.
 
-We may employ the services of third party service providers to help us in certain areas, such as website hosting and maintenance; and in the provision of software such as our CRM system and marketing system. In some cases the third party may receive your information. However, at all times, we will control and be responsible for the use of your information.
+**What lawful basis do we rely upon?**
 
-We may use aggregated information so we can administer and improve our website, analyse trends, gather broad demographic information and detect suspicious or fraudulent transactions.
+We must always have a “lawful basis” (i.e. a legal reason, prescribed by law) for processing your personal information. We rely on one of the following reasons when processing your personal information:
 
-If you provide a credit or debit card, we may also use third parties to check the validity of the sort code, account number and card number you submit in order to prevent fraud as well as to process any transaction you attempt via the website.
+**Our Legitimate interest**
 
-  4. **THIRD PARTY PRIVACY POLICIES:**
+Sometimes it is in our legitimate interest to process your personal information. This may be when:
 
+  * We process your browser information and log-in details in connection with the functionality of our website.
 
 
-**Oracle Eloqua:**[ **https://www.oracle.com/legal/privacy/index.html**](https://www.oracle.com/legal/privacy/index.html)
+  * We use profiling in order to improve our services and personalise your experience when visiting our website (you have the right to object to this type of processing – please see below “ **Your Rights** ”).
 
-We use Oracle Eloqua as our Email Marketing System. Where we have the relevant permission (please see Paragraphs 3 & 5 for more information), your data will be processed by this system. 
 
-**Cvent:**[ **http://www.cvent.com/en/privacy-policy.shtml**](http://www.cvent.com/en/privacy-policy.shtml)
+  * We may share your personal information in the event of a proposed sale, restructuring, transfer or merging of any or all parts of our business, including to respond to queries from the prospective buyer or merging organisation.
 
-We use Cvent as our Event Rigistration System. Where we have the relevant permission (please see Paragraphs 3 & 5 for more information), your data will be processed by this system. 
 
-**Salesforce:**[ **https://www.salesforce.com/uk/company/privacy/**](https://www.salesforce.com/uk/company/privacy/)
 
-We use Salesforce as our Customer Relationship Management (CRM) system. Where we have the relevant permission (please see Paragraphs 3 & 5 for more information), your data will be processed by this system.
+**Necessary to perform a contract with you**
 
-**Google:**[ **https://policies.google.com/privacy**](https://policies.google.com/privacy)
+Processing of your personal information may be necessary to perform a contract with you, for example when we process your name, telephone number, email address and payment information in order to provide you with subscription content or provide our services to you.
 
-We use google services: to analyse data visiting our websites (google analytics); to place and track paid search adverts on search engines (google adwords); and to re-target relevant adverts (google adwords). Please see paragraphs 3, 5 & 6 for more information)
+**Legal obligation**
 
-  5. **TRANSFERRAL OF DATA OUTSIDE THE EUROPEAN ECONOMIC AREA**
+In certain circumstances, we may be under a legal obligation to process your personal information. Examples of this include:
 
+  * Disclosing your contact details, including your name, telephone number and email address in order to comply with instructions, orders and requests from law enforcement agencies, any court or otherwise as required by law.
 
 
-We may transfer some of your personal information to the United States of America as our marketing system and CRM providers outsource to both these jurisdictions. These countries may not have equivalent data protection legislation to the UK. However, when we transfer your personal information in this way, we will keep it securely and only use it as outlined in this Privacy & Cookies Policy. By submitting your personal information to this website, you consent to such transfers taking place.
+  * Maintaining your contact details in records that are required by law to evidence our compliance with laws, including consumer protection laws and data protection laws.
 
-Where you have given us the appropriate permissions either during the registration process for our events; or in the process of accessing our content through online webforms, we may from time to time contact you by email, telephone or post about our products and services (from all of our brands) that may be of interest to you.
 
-We may offer you complimentary content and ask you for your consent to allow us to process your personal data in exchange. Under the GDPR, we rely on legitimate interests to make your consent mandatory in exchange for our content provision. If you would like more information, please get in touch at [privacy@fc-bi.com](mailto:privacy@fc-bi.com).
 
-If at any point, you would like to opt-out of receiving such marketing communications from us, please click on the unsubscribe link at the bottom of any emails you receive, or email us, stating your preferences, at [privacy@fc-bi.com](mailto:privacy@fc-bi.com).
+**Personal Information We Share and Why**
 
-  7. **USE OF COOKIES & TRACKING TECHNOLOGY**
+From time to time, we may ask third parties to carry out certain business functions for us, such as IT support. These third parties will process your personal information on our behalf.
 
+We will disclose your personal information to these parties so that they can perform those functions. Before we disclose your personal information to these third parties, we will seek to ensure that they have appropriate security standards in place to protect your personal information.
 
+**Security of Your Personal Information**
 
-**Use of Cookies on our website**
+We will take specific steps (as required by applicable data protection laws) to ensure we take appropriate security measures to protect your personal information from unlawful or unauthorised processing and accidental loss, destruction or damage.
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. 
+**How Long We Keep Personal Information**
 
-All cookies have expiration dates in them that determine how long they stay in your browser. Cookies can be removed in two ways: automatically, when they expire; or when you manually delete them. For more information on cookies, see: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+We will only retain your personal information for a limited period of time and for no longer than is necessary for the purposes for which we are processing it for. This will depend on a number of factors, including:
 
-We use the following categories of cookies on our website:
+  * Any laws or regulations that we are required to follow
 
-**Necessary Cookies**
 
-These cookies are essential in order to enable you to move around the website and use its features. Without these cookies, services you have asked for such as remembering your login details or shopping basket items cannot be provided.
+  * Whether we are in a legal or other type of dispute with each other or any third party
 
-**Performance Cookies**
 
-These cookies collect information on how people use our website. They may be anonymous e.g. Google Analytics; or identifiable e.g. our email marketing system. Performance cookies help us understand how customers arrive at, browse or use our site, and highlight areas where we can improve our marketing campaigns.
+  * The type of information that we hold about you
 
-**Functionality Cookies**
 
-These cookies remember choices you make such as the country you visit our website from, and contact details. These can then be used to provide you with an experience more appropriate to your selections and to make the visits more tailored and pleasant.
+  * Whether we are asked by you or a regulatory authority to keep your personal information
 
-**Targeting Cookies**
 
-These cookies collect information about your browsing habits in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of an advertising campaign. The cookies are usually placed by third party advertising networks. They remember the websites you visit and that information is shared with us.
 
-**Social Media Cookies**
+**Your Rights**
 
-These cookies allow you to share what you’ve been doing on the website on social media such as Facebook and Twitter. These cookies are not within our control. Please refer to the respective privacy policies for how their cookies work.
+Where our processing of your personal information is based on your **consent** , you have the right to withdraw your consent at any time. If you do decide to withdraw your consent, we will stop processing your personal information for that purpose, unless there is another lawful basis we can rely on – in which case, we will let you know.
 
-If you want to delete any cookies that are already on your computer, please refer to the help and support area on your internet browser for instructions on how to locate the file or directory that stores cookies.
+Where our processing of your personal information is based on our **legitimate interests** , you can object to this processing at any time. If you do this, we will need to show either a compelling reason why our processing should continue, which overrides your interests, rights and freedoms or that the processing is necessary for us to establish, exercise or defend a legal claim.
 
-Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site. To find out more about cookies please visit: [www.allaboutcookies.org](http://www.allaboutcookies.org/)  or see [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)  which contains further information about behavioural advertising and online privacy.
+Where we are processing your personal information for **direct marketing** purposes, you have the right to object to that processing.
 
-We have implemented comprehensive technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. In the unlikely event of a data breach – we will notify you within 72 hours.
+You also have the right to (subject to applicable laws and certain limitations):
 
-  9. **ACCESS TO YOUR PERSONAL INFORMATION**
+  * access your personal information and to be provided with certain information in relation to it, such as the purpose for which it is processed, the persons to whom it is disclosed and the period for which it will be stored;
+  * require us to correct any inaccuracies in your personal information without undue delay;
+  * require us to erase your personal information;
+  * require us to restrict processing of your personal information;
+  * receive the personal information which you have provided to us, in a machine-readable format, where we are processing it on the basis of your consent or because it is necessary for your contract with us and where the processing is automated; and
+  * object to a decision that we make which is based solely on automated processing of your personal information.
 
 
 
-You may review, correct, update or change the personal information we hold at any time. If you wish to do this, please contact us at [privacy@fc-bi.com](mailto:privacy@fc-bi.com). We may require you to provide verification of your identity before providing a copy of the personal information we hold.
+You also have the right to lodge a complaint with the relevant Supervisory Authority (in the UK this would be the Information Commissioner’s Office, for example. However, if you do have a reason to complain then please let us know so that we can investigate.
 
-If you have any questions about this statement or your personal information, please contact us at [privacy@fc-bi.com](mailto:privacy@fc-bi.com).
+**Where You Can Find Out More**
+
+If you want more information about any of the subjects covered in this privacy policy or if you would like to discuss any issues or concerns with us, you can contact us at [privacy@fc-bi.com](mailto:privacy@fc-bi.com).
