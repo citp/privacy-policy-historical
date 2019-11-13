@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cu.edu privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502233239id_/https%3A//www.cu.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cu.edu privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113221930id_/https%3A//www.cu.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | University of Colorado
 
