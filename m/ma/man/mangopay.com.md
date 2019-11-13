@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the mangopay.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129231230id_/https%3A//www.mangopay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangopay.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113101619id_/https%3A//www.mangopay.com/privacy) for the most accurate reproduction.*
 
-# Privacy - MANGOPAY
+# Read our privacy policy to learn about our data policy and obligations - MANGOPAY
 
-_Last update: 25 May 2018_
+Last update: 25/05/2018
 
-To download the Confidentiality Policy in PDF format, [_click here_. ](https://www.mangopay.com/privacy_doc/Privacy_EN.pdf)
+To download the Confidentiality Policy in PDF format, [click here](https://www.mangopay.com/privacy_doc/Privacy_EN.pdf).
+
+* * *
 
 ## 1\. Introduction
 
@@ -26,7 +28,7 @@ Furthermore, if you have made a payment by card on a Partner site using a MANGOP
 
 Regarding Personal Data relating to web browsers on the website [www.mangopay.com](http://www.mangopay.com/), please refer to: [https://www.mangopay.com/cookies/](https://www.mangopay.com/cookies/) 
 
-* The beneficial owners are physical persons who hold, directly or indirectly, more than 10% of capital or voting rights of the company, or exercise, by any other means, supervisory power over the company. 
+* The beneficial owners are physical persons who hold, directly or indirectly, more than 25% of capital or voting rights of the company, or exercise, by any other means, supervisory power over the company. 
 
 ## 3. What Personal Data is processed by MANGOPAY? How is it collected?
 
