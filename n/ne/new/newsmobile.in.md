@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsmobile.in privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626160304id_/http%3A//newsmobile.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsmobile.in privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113234621id_/http%3A//newsmobile.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Newsmobile
 
