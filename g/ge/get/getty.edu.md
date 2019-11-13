@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628170911id_/http%3A//www.getty.edu/legal/privacy.html%3Fhp-footer%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getty.edu privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113013631id_/http%3A//www.getty.edu/legal/privacy.html%3Fhp-footer%3D1) for the most accurate reproduction.*
 
 # Privacy Policy Statement | The Getty
 
@@ -44,6 +44,9 @@ You may stop receiving e-newsletters at any time. Follow the "unsubscribe" link 
 
 **On Demand Text Messages**  
 From time to time we may invite visitors with SMS-enabled mobile devices to request information or offers by texting a keyword to a short code, for example, "To access a mobile phone tour of Sample Exhibition, text _sample_ to 12345." If you respond to this kind of call to action, we will immediately send you a one-time text message with the information you requested. We will not send you recurring text messages, and we will not retain your information any longer than reasonably necessary to fulfill your request. We will never share your information with any third parties.
+
+**Online Surveys**  
+We may occasionally ask you to participate in surveys appearing on various pages of this site. Your participation in these surveys is voluntary. These surveys may ask for information relating to your background, occupation, or experience, or ask for identifying information such as an email address. We use this information to help us better understand and respond to the needs of our audiences and to enhance our marketing efforts.
 
 **Getty Bookmarks**  
 To use the Getty Bookmark feature, you need to create an online account. Your e-mail address is used to identify your account and the associated bookmarks. The e-mail address tied to your account is stored on secure Getty servers and will not be used for marketing purposes or shared with anyone. We may occasionally use your e-mail address for purposes related to administration of your online account, such as sending service notices or password reminders.
