@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filezilla-project.org privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627013156id_/https%3A//filezilla-project.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filezilla-project.org privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113100334id_/http%3A//filezilla-project.org/privacy.php) for the most accurate reproduction.*
 
 # FileZilla - Privacy Policy
 
@@ -10,7 +10,9 @@ For the processing of personal data we, as data controller, adhere to the Genera
 
 When visiting our website, each page access is temporarily logged in order to combat abuse and to ensure the health of _the website_. This data includes the page accessed, the time of access, the IP address and the browser's user agent. This data is not shared with any third party and is automatically deleted after no more than 10 days. Data processing is in accordance with Art. 6 (1) point f GDPR.
 
-For statistical purposes, anonymized data may be collected in aggregate form from which no information about individual users can be infered.
+For the purpose of displaying advertisement, the assumed country of origin of page visitors may be submitted to advertisers.
+
+For statistical purposes, anonymized data may be collected in aggregate form from which no information about individual users can be infered. This data may be shared with third parties.
 
 Some services on _the website_ allow you to register an account, requiring you to enter your e-mail address in addition to a username of your choice upon account creation. All actions made using an account are logged, including account name, IP-address and content. Your account profile as well as all texts and images posted using your account are publicly visible. Data retention is potentially unlimited unless removal is requested by you or required by law. We do not share non-public data with third parties. Registering an account and the subsequent data processing requires consent in accordance to Art. 6 (1) point a GDPR.
 
@@ -44,4 +46,4 @@ The controller responsible for this privacy policy and the data processing is Ti
 
 Please direct all questions regarding this policy to [privacy@filezilla-project.org](mailto:privacy@filezilla-project.org).
 
-This policy has been last updated on 2018-05-24.
+This policy has been last updated on 2019-09-09.
