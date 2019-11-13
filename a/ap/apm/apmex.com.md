@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2019-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy) for the most accurate reproduction.*
 
-# Buy Gold and Silver Safely - APMEX Privacy Policy | APMEX
+# APMEX Privacy Policy | APMEX
 
 APMEX, Inc. ("APMEX") respects your privacy. We will never willfully disclose individually identifiable information about our customers to any third party, except in the limited circumstances permitted by this policy.
 
@@ -10,18 +10,18 @@ This privacy policy (“Privacy Policy”) applies solely to information collect
 
 This Privacy Policy explains what information may be collected through the Sites, how such information may be used and/or shared with others, how we safeguard it and how you may access and control its use in connection with our marketing communications and activities. Please read this Privacy Policy carefully, because by using the Sites you are acknowledging that you understand and agree to the terms of this Privacy Policy. In addition, please review our [User Agreement](https://web.archive.org/useragreement), which governs your use of the Sites and any content you submit to the Sites.
 
-  1. [Information We Collect On Our Sites](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?information#informationWeCollect)
-  2. [How We Use The Information We Collect](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?howWeUse#howWeUsetheInformation)
-  3. [Sharing Of Information](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?sharing#sharingofInformation)
-  4. [Information We Receive From Third Parties](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?thirdParties#informationWeReceive)
-  5. [Your Choice And Access](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?yourChoice#yourChoiceandAccess)
-  6. [Advertising/Behavioral Targeting; How To Opt-Out](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?advertising#advertisingBehavioralTargeting)
-  7. [Children](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?children#children)
-  8. [Security Of Your Information](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?security#securityofYourInformation)
-  9. [Other Sites](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?otherSites#otherSites)
-  10. [Consent To Processing And Transfer Of Information](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?consent#consenttoProcessing)
-  11. [Changes](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?changes#changes)
-  12. [Contact Us](https://web.archive.org/web/20190413023239id_/https%3A//www.apmex.com/privacypolicy?contacUs#contactUs)
+  1. [Information We Collect On Our Sites](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?information#informationWeCollect)
+  2. [How We Use The Information We Collect](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?howWeUse#howWeUsetheInformation)
+  3. [Sharing Of Information](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?sharing#sharingofInformation)
+  4. [Information We Receive From Third Parties](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?thirdParties#informationWeReceive)
+  5. [Your Choice And Access](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?yourChoice#yourChoiceandAccess)
+  6. [Advertising/Behavioral Targeting; How To Opt-Out](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?advertising#advertisingBehavioralTargeting)
+  7. [Children](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?children#children)
+  8. [Security Of Your Information](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?security#securityofYourInformation)
+  9. [Other Sites](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?otherSites#otherSites)
+  10. [Consent To Processing And Transfer Of Information](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?consent#consenttoProcessing)
+  11. [Changes](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?changes#changes)
+  12. [Contact Us](https://web.archive.org/web/20191113222203id_/https%3A//www.apmex.com/privacypolicy?contacUs#contactUs)
 
 
 
@@ -81,9 +81,9 @@ This Privacy Policy explains what information may be collected through the Sites
   * #### A. Opting Out
 
     * You may always direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) sending us an e-mail at remove@apmex.com with the word “Remove” as the subject header; (ii) calling us at (800) 375-9006; or (iii) following the removal instructions in the communication that you receive. Your opt-out request will be processed within 30 days of the date on which we receive it.
-    * You can opt out of attribution modeling by clicking [here](http://www.convertro.com/opt-out/).
+    * You can opt out of attribution modeling by clicking [here](https://www.convertro.com/opt-out/).
     * You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/).
-    * You can find out more about how Google uses cookies in advertising and opt-out via the following links: [Google Display Network (DoubleClick)](http://www.google.com/policies/privacy/ads/) & [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)
+    * You can find out more about how Google uses cookies in advertising and opt-out via the following links: [Google Display Network (DoubleClick)](https://www.google.com/policies/privacy/ads/) & [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout)
     * If you wish to verify, correct, or update any of your personal information collected through the Sites, you may edit your profile preferences or contact us at the above address or e-mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
   * #### B. Do Not Track Signals
 
@@ -94,7 +94,7 @@ This Privacy Policy explains what information may be collected through the Sites
 #### 6\. Advertising/Behavioral Targeting; How to Opt-Out
 
   *     * APMEX licenses technology to serve advertisements on its own Sites and within its content as that content is served across the Internet. In addition, APMEX may use third party network advertisers to serve advertisements and third party analytics vendors to evaluate and provide us with information about the use of the Sites and viewing of our content. We do not share Personal Information with these third parties, but ad network providers, the advertisers, the sponsors, and/or analytics service providers may set and access their own cookies, pixel tags and similar technologies on your Device and they may otherwise collect or have access to information about you, including Usage Information. We and our network advertisers may target advertisements for products and services in which you might be interested based on your visits to both the Sites and other websites. We may use a variety of companies to serve advertisements.
-    * If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information. To do so please visit the NAI Opt-Out Page: <http://www.networkadvertising.org/managing/opt_out.asp>.
+    * If you prefer to not receive targeted advertising, you can opt out of some network advertising programs that use your information. To do so please visit the NAI Opt-Out Page: <https://www.networkadvertising.org/managing/opt_out.asp>.
     * Please note that even if you choose to remove your information (opt out), you will still see advertisements while you are browsing online. However the advertisements you see may be less relevant to you and your interests. Additionally, many network advertising programs allow you to view and manage the interest categories they have compiled from your online browsing activities. These interest categories help determine the types of targeted advertisements you may receive. The NAI Opt-Out Page provides a tool that identifies its member companies that have cookies on your browser and provides links to those companies.
 
 
