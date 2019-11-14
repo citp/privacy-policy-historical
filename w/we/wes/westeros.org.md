@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westeros.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331210931id_/https%3A//www.westeros.org/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westeros.org privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114184908id_/https%3A//www.westeros.org/Privacy_Policy) for the most accurate reproduction.*
 
 # Westeros: Privacy Policy
 
