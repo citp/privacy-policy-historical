@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ceros.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420150021id_/https%3A//www.ceros.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceros.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114221933id_/https%3A//www.ceros.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ceros
 
@@ -14,6 +14,16 @@ There are two kinds of information that we collect as discussed in this Privacy 
 
 This Website may contain links to third-party websites. CEROS has no control over the privacy practices or the content of these websites. As such, we are not responsible for the content or the privacy policies of those third-party websites. You should check the applicable third-party privacy policy and terms of use when visiting any other websites.
 
-You have a right to access your Personal Information.  If you have any questions or concerns regarding our privacy policy please send us your question by going **[here](mailto:privacyofficer@ceros.com)**. You may also send a letter to: Ceros Inc. 40 West 25th Street 12th Floor New York, NY 10010 USA We provide the EU DPA Panel as an independent dispute resolution body designated to address any complaints and provide appropriate recourse free of charge to individuals in the European Union and we are also subject to the investigatory and enforcement powers of the FTC.  Under certain conditions, it may be possible for you to invoke binding arbitration.
+You have a right to access your Personal Information. In compliance with the Privacy Shield Principles, Ceros, Inc. commits to resolve complaints about our collection or use of your personal information.  EU individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Ceros, Inc. at:
+
+Brian Abent  
+VP of Product  
+[privacyofficer@ceros.com](mailto:privacyofficer@ceros.com)
+
+You may also send a letter to: Ceros Inc. 40 West 25th Street 12th Floor New York, NY 10010 USA
+
+  Ceros, Inc. has committed to cooperate with the panel established by the EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
+
+  Ceros, Inc. has further committed to refer unresolved Privacy Shield complaints to American Arbitration Association, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please visit adr.org for more information or to file a complaint. The services of the American Arbitration Association are provided at no cost to you. Arbitration is binding.
 
 This policy may be changed at any time at our discretion. If we should update this policy, we will post the updates to this page on our Website and update the Effective Date at the top.  Your use of this Website after an update indicates your agreement.
