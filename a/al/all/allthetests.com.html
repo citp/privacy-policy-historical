@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allthetests.com privacy policy that was archived on 2019-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331050802id_/https%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allthetests.com privacy policy that was archived on 2019-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191114082434id_/https%3A//www.allthetests.com/privacy.php3) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" xmlns:fb="http://ogp.me/ns/fb#" style=""><!--<![endif]--><head>
 	<meta charset="UTF-8">
@@ -38,7 +38,7 @@
 			<link rel="stylesheet" type="text/css" href="/css/desktop.css" />
 			<![endif]-->
 <!-- BLOGHER ADS Begin header tag -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="//c.aaxads.com/aax.js?pub=AAXN4MUR6&amp;hst=web.archive.org&amp;ver=1.2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
   var blogherads = blogherads || {};
   blogherads.adq = blogherads.adq || [];
 </script>
@@ -85,6 +85,91 @@ if (window.devicePixelRatio && (window.devicePixelRatio != 1) ) {
 
 //-->
 </script>
+<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css">
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+    window.addEventListener("load", function(){
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#fff"
+                },
+                "button": {
+                    "background": "#e58156"
+                }
+            },
+            "theme": "classic",
+            "content": {
+                "message": "Cookies are also used on this site. We can use them to evaluate site usage and display advertisements. This is important for us, because our website is financed by advertising. The use of the site is considered consent to the use of cookies. Please visit our <a href='/privacy.php3#cookie-policy-anchor'>Cookie regulations </a> to learn more about how you can deactivate cookies and oppose the creation of user profiles.",
+                "dismiss": "Ok",
+                "link": "",
+                "href": ""
+            },
+            location: {
+                serviceDefinitions: {
+                    eu_check: function(options) {
+                        return {
+                            url: '/scripts/eu_check.php',
+                            callback: function(done, response) {
+                                // This function must parse the 'response' and return the country code, or fail.
+                                // If this function doesn't fail correctly, then the next service will not run.
+                                // Therefore, it's generally best to add a try {...} catch () {...} block
+                                try {
+                                    var json = JSON.parse(response);
+                                    if (json.countryCode) {
+                                        return {code: json.countryCode}
+                                    }
+                                    throw 'Could not find a country code in the response';
+                                } catch (err) {
+                                    return new Error('Invalid response (' + err + ')');
+                                }
+                            },
+                        };
+                    },
+                },
+
+                services: [
+                    'eu_check'
+                ]
+            }
+        })});
+</script>
+<style>
+    .cc-compliance .cc-btn {
+        color: #f2efbb !important;
+        border-radius: 8px;
+        background: #e58156;
+        border: 1px solid #e58156;
+        box-shadow: 0 1px 2px rgba(0,0,0,.2), inset 0 1px 2px #fff;
+    }
+    .cc-message {
+        font-family: "Quattrocento Sans",Helvetica,Arial;
+        color: #3b4b59;
+    }
+    .cc-message a {
+        font-weight:bold;
+    }
+</style>
+<script type="text/javascript">
+     (function() {
+         window.aax = window.aax || {};
+         var aax = window.aax;
+         aax.initTime = new Date().getTime();
+         aax.pubId = "AAXN4MUR6";
+         aax.ver = "1.2";
+         aax.hst = window.location.hostname;
+         var aaxEndpoint = "//c.aaxads.com/aax.js?pub=" + aax.pubId + "&hst=" + aax.hst + "&ver=" + aax.ver;
+         function loadScript(endpoint) {
+             var scriptTag = document.createElement("script"),
+                 placeTag = document.getElementsByTagName("script")[0];
+             scriptTag.type = "text/javascript";
+             scriptTag.async = true;
+             scriptTag.src = endpoint;
+             placeTag.parentNode.insertBefore(scriptTag, placeTag);
+         }
+         loadScript(aaxEndpoint);
+     })();
+ </script>
 <script type="text/javascript" src="//web.archive.org/web/20170213130626/http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script></head><body>
 <!--[if lt IE 9]>
 <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please
@@ -103,10 +188,10 @@ if (window.devicePixelRatio && (window.devicePixelRatio != 1) ) {
             <div id="close-mobile-menu-btn" onclick="closeMenuTd()">×</div>
             <ul>
                 <li>
-                    <a href="/quiz36/quizbedingung.php">Develop a quiz</a>
+                    <a href="/quiz37/quizbedingung.php">Develop a quiz</a>
                 </li>
                 <li>
-                    <a href="/quiz36/quizbedingung.php">Write fanfiction</a>
+                    <a href="/quiz37/quizbedingung.php">Write fanfiction</a>
                 </li>
                 <li>
                     <a href="/usertest.php3" rel="nofollow">My tests</a>
@@ -118,7 +203,7 @@ if (window.devicePixelRatio && (window.devicePixelRatio != 1) ) {
                 </li>
                 <li class="sub-menu">
                     <ul>
-                        <li title="Here you can find tests and quizzes about your favorite actors."><a href="/fan-quizzes-tests-Actors.php?katb=143">Actor</a></li><li title="Test your knowledge about various books."><a href="/fan-quizzes-tests-Books.php?katb=146">Books</a></li><li title="Do you earn enough? Which career should you choose? Should you change your job?"><a href="/career-tests-job-quizzes.php">Career / Job</a></li><li title="The best tests and quizzes about cartoons, manga and anime can be found here."><a href="/fan-quizzes-tests-Cartoons-Mangas.php?katb=147">Cartoon / Manga</a></li><li title="How well do you know the latest gossip?"><a href="/fan-quizzes-tests-Celebrities.php?katb=1490">Celebrities</a></li><li title="Welcome to the world of children, their reality, dreams and fantasies!"><a href="/children-tests-kids-quizzes.php">Children / Kids</a></li><li title="Wonder if you are able to deal with your feelings and emotions - test your EQ here!"><a href="/eq-tests-emotional-quotient-quizzes.php">EQ Tests</a></li><li title="Are you a true fan? Do you know your favorite stars, singers, games...?"><a href="/fan-quizzes-tests-Fantests.php">Fan</a></li><li title="Fan fictions and stories."><a href="/stories-fan-fiction-poem.php">Fan Fiction</a></li><li title="Have fun with these funny tests and quizzes!"><a href="/fun-tests-humor-quizzes.php">Fun</a></li><li title="See how much you know about your favorite games!"><a href="/fan-quizzes-tests-Games.php?katb=148">Game</a></li><li title="How healthy are you?"><a href="/health-tests-quizzes.php">Health</a></li><li title="The best IQ tests. Find out how smart you are."><a href="/iq-test-intelligence.php3">IQ Tests</a></li><li title="Do you have a good general knowledge? Find out if you familiar with all areas of life."><a href="/knowledge-tests-trivia-quizzes.php">Knowledge</a></li><li title="Test your proficiency level in different languages."><a href="/language-tests-quizzes-all.php">Language</a></li><li title="Quizzes about sex, love and relationships. Test yourself and your partner!"><a href="/relationship-tests-love-quizzes.php">Love Tests</a></li><li title="Do you know everything about the latest movies?"><a href="/fan-quizzes-tests-Movies.php?katb=142">Movie</a></li><li title="Here you will find the best tests and quizzes about the latest hits, bands and singers."><a href="/fan-quizzes-tests-Music.php?katb=145">Music</a></li><li title="Attention! This category is for our male visitors only."><a href="/men-tests-man-quizzes.php">Only for Men</a></li><li title="Attention! This category is only for our female visitors."><a href="/women-tests-woman-quizzes.php">Only for Women</a></li><li title="Find out your personality type. Do you have similarities with your favorite celebrity or a film or book hero?"><a href="/personality-tests-character-quizzes-psycho.php">Person­ality</a></li><li title="Play free online games"><a href="https://games.allthetests.com?arkpromo=Home_TopNav">Play games</a></li><li title="How innocent are you? Test it with our purity tests."><a href="/purity-tests-quizzes.php">Purity Tests</a></li><li title="Find out if you are familiar with different sports and famous sport stars. "><a href="/fan-quizzes-tests-Sport.php?katb=144">Sport</a></li><li title="Prove your memory and thinking skills!"><a href="/memory-tests-thinking-quizzes.php">Think / Memory</a></li><li title="Test your knowledge about popular TV series."><a href="/fan-quizzes-tests-TV-Shows.php?katb=141">TV Show</a></li><li title="Are you familiar with the new internet stars?"><a href="/fan-quizzes-tests-YouTube.php?katb=14A">YouTube</a></li><li title="Check out new quizzes and tests."><a href="/new.php3">New Tests</a></li><li title="Top 10 lists"><a href="https://www.allthetests.com/top-10-list.php">Top 10 lists</a></li><li title="Images galleries"><a href="https://www.allthetests.com/images-gallery.php">Images galleries</a></li>                    </ul>
+                        <li title="Here you can find tests and quizzes about your favorite actors."><a href="/fan-quizzes-tests-Actors.php?katb=143">Actor</a></li><li title="Test your knowledge about various books."><a href="/fan-quizzes-tests-Books.php?katb=146">Books</a></li><li title="Do you earn enough? Which career should you choose? Should you change your job?"><a href="/career-tests-job-quizzes.php">Career / Job</a></li><li title="The best tests and quizzes about cartoons, manga and anime can be found here."><a href="/fan-quizzes-tests-Cartoons-Mangas.php?katb=147">Cartoon / Manga</a></li><li title="How well do you know the latest gossip?"><a href="/fan-quizzes-tests-Celebrities.php?katb=1490">Celebrities</a></li><li title="Welcome to the world of children, their reality, dreams and fantasies!"><a href="/children-tests-kids-quizzes.php">Children / Kids</a></li><li title="Wonder if you are able to deal with your feelings and emotions - test your EQ here!"><a href="/eq-tests-emotional-quotient-quizzes.php">EQ Tests</a></li><li title="Are you a true fan? Do you know your favorite stars, singers, games...?"><a href="/fan-quizzes-tests-Fantests.php">Fan</a></li><li title="Fan fictions and stories."><a href="/stories-fan-fiction-poem.php">Fan Fiction</a></li><li title="Have fun with these funny tests and quizzes!"><a href="/fun-tests-humor-quizzes.php">Fun</a></li><li title="See how much you know about your favorite games!"><a href="/fan-quizzes-tests-Games.php?katb=148">Game</a></li><li title="How healthy are you?"><a href="/health-tests-quizzes.php">Health</a></li><li title="The best IQ tests. Find out how smart you are."><a href="/iq-test-intelligence.php3">IQ Tests</a></li><li title="Do you have a good general knowledge? Find out if you familiar with all areas of life."><a href="/knowledge-tests-trivia-quizzes.php">Knowledge</a></li><li title="Test your proficiency level in different languages."><a href="/language-tests-quizzes-all.php">Language</a></li><li title="Quizzes about sex, love and relationships. Test yourself and your partner!"><a href="/relationship-tests-love-quizzes.php">Love Tests</a></li><li title="Do you know everything about the latest movies?"><a href="/fan-quizzes-tests-Movies.php?katb=142">Movie</a></li><li title="Here you will find the best tests and quizzes about the latest hits, bands and singers."><a href="/fan-quizzes-tests-Music.php?katb=145">Music</a></li><li title="Attention! This category is for our male visitors only."><a href="/men-tests-man-quizzes.php">Only for Men</a></li><li title="Attention! This category is only for our female visitors."><a href="/women-tests-woman-quizzes.php">Only for Women</a></li><li title="Find out your personality type. Do you have similarities with your favorite celebrity or a film or book hero?"><a href="/personality-tests-character-quizzes-psycho.php">Person­ality</a></li><li title="Play free online games"><a href="https://games.allthetests.com?arkpromo=Home_TopNav">Play games</a></li><li title="How innocent are you? Test it with our purity tests."><a href="/purity-tests-quizzes.php">Purity Tests</a></li><li title="Find out if you are familiar with different sports and famous sport stars. "><a href="/fan-quizzes-tests-Sport.php?katb=144">Sport</a></li><li title="Prove your memory and thinking skills!"><a href="/memory-tests-thinking-quizzes.php">Think / Memory</a></li><li title="Test your knowledge about popular TV series."><a href="/fan-quizzes-tests-TV-Shows.php?katb=141">TV Show</a></li><li title="Are you familiar with the new internet stars?"><a href="/fan-quizzes-tests-YouTube.php?katb=14A">YouTube</a></li><li title="Check out new quizzes and tests."><a href="/new.php3">New Tests</a></li><li title="Top 10 lists"><a href="https://www.allthetests.com/top-10-list-start.php">Top 10 lists</a></li><li title="Images galleries"><a href="https://www.allthetests.com/images-gallery.php">Images galleries</a></li>                    </ul>
                 </li>
             </ul>
         </div>
@@ -134,7 +219,7 @@ if (window.devicePixelRatio && (window.devicePixelRatio != 1) ) {
                 <div id="categories" class="dropdown">
                     <a href=""><img class="closeMenu" src="/img/img_trans.gif" width="1" height="1" alt="Close menu on touch device"></a>
                     <ul>
-                        <li title="Here you can find tests and quizzes about your favorite actors."><a href="/fan-quizzes-tests-Actors.php?katb=143">Actor</a></li><li title="Test your knowledge about various books."><a href="/fan-quizzes-tests-Books.php?katb=146">Books</a></li><li title="Do you earn enough? Which career should you choose? Should you change your job?"><a href="/career-tests-job-quizzes.php">Career / Job</a></li><li title="The best tests and quizzes about cartoons, manga and anime can be found here."><a href="/fan-quizzes-tests-Cartoons-Mangas.php?katb=147">Cartoon / Manga</a></li><li title="How well do you know the latest gossip?"><a href="/fan-quizzes-tests-Celebrities.php?katb=1490">Celebrities</a></li><li title="Welcome to the world of children, their reality, dreams and fantasies!"><a href="/children-tests-kids-quizzes.php">Children / Kids</a></li><li title="Wonder if you are able to deal with your feelings and emotions - test your EQ here!"><a href="/eq-tests-emotional-quotient-quizzes.php">EQ Tests</a></li><li title="Are you a true fan? Do you know your favorite stars, singers, games...?"><a href="/fan-quizzes-tests-Fantests.php">Fan</a></li><li title="Fan fictions and stories."><a href="/stories-fan-fiction-poem.php">Fan Fiction</a></li><li title="Have fun with these funny tests and quizzes!"><a href="/fun-tests-humor-quizzes.php">Fun</a></li></ul><ul><li title="See how much you know about your favorite games!"><a href="/fan-quizzes-tests-Games.php?katb=148">Game</a></li><li title="How healthy are you?"><a href="/health-tests-quizzes.php">Health</a></li><li title="The best IQ tests. Find out how smart you are."><a href="/iq-test-intelligence.php3">IQ Tests</a></li><li title="Do you have a good general knowledge? Find out if you familiar with all areas of life."><a href="/knowledge-tests-trivia-quizzes.php">Knowledge</a></li><li title="Test your proficiency level in different languages."><a href="/language-tests-quizzes-all.php">Language</a></li><li title="Quizzes about sex, love and relationships. Test yourself and your partner!"><a href="/relationship-tests-love-quizzes.php">Love Tests</a></li><li title="Do you know everything about the latest movies?"><a href="/fan-quizzes-tests-Movies.php?katb=142">Movie</a></li><li title="Here you will find the best tests and quizzes about the latest hits, bands and singers."><a href="/fan-quizzes-tests-Music.php?katb=145">Music</a></li><li title="Attention! This category is for our male visitors only."><a href="/men-tests-man-quizzes.php">Only for Men</a></li><li title="Attention! This category is only for our female visitors."><a href="/women-tests-woman-quizzes.php">Only for Women</a></li></ul><ul><li title="Find out your personality type. Do you have similarities with your favorite celebrity or a film or book hero?"><a href="/personality-tests-character-quizzes-psycho.php">Person­ality</a></li><li title="Play free online games"><a href="https://games.allthetests.com?arkpromo=Home_TopNav">Play games</a></li><li title="How innocent are you? Test it with our purity tests."><a href="/purity-tests-quizzes.php">Purity Tests</a></li><li title="Find out if you are familiar with different sports and famous sport stars. "><a href="/fan-quizzes-tests-Sport.php?katb=144">Sport</a></li><li title="Prove your memory and thinking skills!"><a href="/memory-tests-thinking-quizzes.php">Think / Memory</a></li><li title="Test your knowledge about popular TV series."><a href="/fan-quizzes-tests-TV-Shows.php?katb=141">TV Show</a></li><li title="Are you familiar with the new internet stars?"><a href="/fan-quizzes-tests-YouTube.php?katb=14A">YouTube</a></li><li title="Check out new quizzes and tests."><a href="/new.php3">New Tests</a></li><li title="Top 10 lists"><a href="https://www.allthetests.com/top-10-list.php">Top 10 lists</a></li><li title="Images galleries"><a href="https://www.allthetests.com/images-gallery.php">Images galleries</a></li></ul><ul>                    </ul>
+                        <li title="Here you can find tests and quizzes about your favorite actors."><a href="/fan-quizzes-tests-Actors.php?katb=143">Actor</a></li><li title="Test your knowledge about various books."><a href="/fan-quizzes-tests-Books.php?katb=146">Books</a></li><li title="Do you earn enough? Which career should you choose? Should you change your job?"><a href="/career-tests-job-quizzes.php">Career / Job</a></li><li title="The best tests and quizzes about cartoons, manga and anime can be found here."><a href="/fan-quizzes-tests-Cartoons-Mangas.php?katb=147">Cartoon / Manga</a></li><li title="How well do you know the latest gossip?"><a href="/fan-quizzes-tests-Celebrities.php?katb=1490">Celebrities</a></li><li title="Welcome to the world of children, their reality, dreams and fantasies!"><a href="/children-tests-kids-quizzes.php">Children / Kids</a></li><li title="Wonder if you are able to deal with your feelings and emotions - test your EQ here!"><a href="/eq-tests-emotional-quotient-quizzes.php">EQ Tests</a></li><li title="Are you a true fan? Do you know your favorite stars, singers, games...?"><a href="/fan-quizzes-tests-Fantests.php">Fan</a></li><li title="Fan fictions and stories."><a href="/stories-fan-fiction-poem.php">Fan Fiction</a></li><li title="Have fun with these funny tests and quizzes!"><a href="/fun-tests-humor-quizzes.php">Fun</a></li></ul><ul><li title="See how much you know about your favorite games!"><a href="/fan-quizzes-tests-Games.php?katb=148">Game</a></li><li title="How healthy are you?"><a href="/health-tests-quizzes.php">Health</a></li><li title="The best IQ tests. Find out how smart you are."><a href="/iq-test-intelligence.php3">IQ Tests</a></li><li title="Do you have a good general knowledge? Find out if you familiar with all areas of life."><a href="/knowledge-tests-trivia-quizzes.php">Knowledge</a></li><li title="Test your proficiency level in different languages."><a href="/language-tests-quizzes-all.php">Language</a></li><li title="Quizzes about sex, love and relationships. Test yourself and your partner!"><a href="/relationship-tests-love-quizzes.php">Love Tests</a></li><li title="Do you know everything about the latest movies?"><a href="/fan-quizzes-tests-Movies.php?katb=142">Movie</a></li><li title="Here you will find the best tests and quizzes about the latest hits, bands and singers."><a href="/fan-quizzes-tests-Music.php?katb=145">Music</a></li><li title="Attention! This category is for our male visitors only."><a href="/men-tests-man-quizzes.php">Only for Men</a></li><li title="Attention! This category is only for our female visitors."><a href="/women-tests-woman-quizzes.php">Only for Women</a></li></ul><ul><li title="Find out your personality type. Do you have similarities with your favorite celebrity or a film or book hero?"><a href="/personality-tests-character-quizzes-psycho.php">Person­ality</a></li><li title="Play free online games"><a href="https://games.allthetests.com?arkpromo=Home_TopNav">Play games</a></li><li title="How innocent are you? Test it with our purity tests."><a href="/purity-tests-quizzes.php">Purity Tests</a></li><li title="Find out if you are familiar with different sports and famous sport stars. "><a href="/fan-quizzes-tests-Sport.php?katb=144">Sport</a></li><li title="Prove your memory and thinking skills!"><a href="/memory-tests-thinking-quizzes.php">Think / Memory</a></li><li title="Test your knowledge about popular TV series."><a href="/fan-quizzes-tests-TV-Shows.php?katb=141">TV Show</a></li><li title="Are you familiar with the new internet stars?"><a href="/fan-quizzes-tests-YouTube.php?katb=14A">YouTube</a></li><li title="Check out new quizzes and tests."><a href="/new.php3">New Tests</a></li><li title="Top 10 lists"><a href="https://www.allthetests.com/top-10-list-start.php">Top 10 lists</a></li><li title="Images galleries"><a href="https://www.allthetests.com/images-gallery.php">Images galleries</a></li></ul><ul>                    </ul>
                     <br>
                 </div>
             </li>
@@ -144,13 +229,13 @@ if (window.devicePixelRatio && (window.devicePixelRatio != 1) ) {
                     <a href=""><img class="closeMenu closeCreate" src="/img/img_trans.gif" width="1" height="1" alt="Close menu on touch device"></a>
                     <ul>
                         <li>
-                            <a href="/quiz36/quizbedingung.php"><img class="create" src="/img/img_trans.gif" width="1" height="1" alt="Develop a quiz">Develop a quiz</a>
+                            <a href="/quiz37/quizbedingung.php"><img class="create" src="/img/img_trans.gif" width="1" height="1" alt="Develop a quiz">Develop a quiz</a>
                         </li>
                         <li>
                             <a href="/usertest.php3" rel="nofollow"><img class="mytests" src="/img/img_trans.gif" width="1" height="1" alt="My Tests">My tests</a>
                         </li>
                         <li>
-                            <a href="/quiz36/quizbedingung.php"><img class="write" src="/img/img_trans.gif" width="1" height="1" alt="Write fanfiction">Write fanfiction</a>
+                            <a href="/quiz37/quizbedingung.php"><img class="write" src="/img/img_trans.gif" width="1" height="1" alt="Write fanfiction">Write fanfiction</a>
                         </li>
                     </ul>
                 </div>
@@ -232,7 +317,7 @@ log files include  your IP (internet protocol) address, your ISP (internet servi
 AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox),
 the time you visited our site and which pages you visited throughout our site.
 </p><p>
-<b>Cookies and Web Beacons</b>
+<b id="cookie-policy-anchor">Cookies and Web Beacons</b>
 </p><p>
 We also use third party advertisements on AllTheTests.com to support our site.  Some of these advertisers
 may use technology such as cookies and web beacons when they advertise on our site, which will also send
@@ -249,7 +334,6 @@ services or programs, such as logging into forums or accounts.
 </p><p>
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org" target="_blank">www.networkadvertising.org</a> .
 </p><p>
-<a class="change-consent" onclick="window.__cmp('displayConsentUi');">Change your consent choices</a>
 </p><p>
 AdSense Privacy Policy Provided by <a href="http://www.JenSense.com" rel="nofollow" target="_blank">JenSense</a>
 </p><p>
@@ -262,7 +346,7 @@ If you feel that this site is not following its stated information policy, you m
 						<aside id="related">
 			  				<div id="resources">
 			  						<ul>
-										<a href="/quiz36/quizbedingung.php">Develop your own quiz! Click here</a>
+										<a href="/quiz37/quizbedingung.php">Develop your own quiz! Click here</a>
 			  						</ul>
 
 			  				</div>                                    
@@ -274,12 +358,12 @@ If you feel that this site is not following its stated information policy, you m
 <li><a href="/relationship-tests-love-Does-he-like-me.php?katb=10C0">Does he like me?</a></li>
 <li><a href="/relationship-tests-love-Am-I-lesbian.php?katb=1090">Am I lesbian?</a></li>
 <li><a href="/relationship-tests-love-Am-I-bisexual.php?katb=1085">Am I bisexual?</a></li>
-<li><a href="/fan-quizzes-tests-Friends.php?katb=1413">Friends</a></li>
-<li><a href="/health-tests-quizzes-When-will-I-get-my-first-period-quiz.php?katb=02RA">When will I get my first period? quiz</a></li>
-<li><a href="/fan-quizzes-tests-BTS-Bangtan-Boys.php?katb=14541">BTS / Bangtan Boys</a></li>
 <li><a href="/fan-quizzes-tests-Why-Dont-We.php?katb=1454B">Why Don't We</a></li>
-<li><a href="/relationship-tests-love-Does-she-like-me.php?katb=10CC">Does she like me?</a></li>
-<li class="last"><a href="/relationship-tests-love-compatibility-test.php?katb=1040">Compatibility test</a></li>
+<li><a href="/relationship-tests-love-Am-I-a-transgender.php?katb=1087">Am I a transgender?</a></li>
+<li><a href="/fun-tests-humor-predict-my-future.php?katb=12T0">Predict my future</a></li>
+<li><a href="/fan-quizzes-tests-Friends.php?katb=1413">Friends</a></li>
+<li><a href="/personality-tests-character-quizzes-What-kind-of-person-are-you.php?katb=045Z">What kind of person are you?</a></li>
+<li class="last"><a href="/relationship-tests-love-What-type-of-girl-is-your-type.php?katb=10AA">What type of girl is your type?</a></li>
 										</ul>
 								</div>
 											  			<div class="squareAd">
@@ -295,7 +379,7 @@ if (winW>1023)
 				  											<div id="resources">
 										<h2>Other tests</h2>
 										<ul>
-											<li><a href="/searcher.php3?search=are+you+ready+to+be+a+parent" title="are you ready to be a parent">are you ready to be a parent</a></li> <li><a href="/searcher.php3?search=battle+cats" title="battle cats">battle cats</a></li> <li><a href="/searcher.php3?search=crushes+about+him" title="crushes about him">crushes about him</a></li> <li><a href="/searcher.php3?search=do+i+like+him" title="do i like him">do i like him</a></li> <li><a href="/searcher.php3?search=does+she+want+more" title="does she want more">does she want more</a></li> <li><a href="/searcher.php3?search=drill" title="drill">drill</a></li> <li><a href="/searcher.php3?search=fort+nite" title="fort nite">fort nite</a></li> <li><a href="/searcher.php3?search=hardest+game+ever" title="hardest game ever">hardest game ever</a></li> <li><a href="/searcher.php3?search=harry+potter+house" title="harry potter house">harry potter house</a></li> <li><a href="/searcher.php3?search=how+many+babies+will+i+have" title="how many babies will i have">how many babies will i have</a></li> <li><a href="/searcher.php3?search=if+you+woke+up+as+a+girl+what+would+you+do" title="if you woke up as a girl what would you do">if you woke up as a girl what would you do</a></li> <li><a href="/searcher.php3?search=liza+koshty" title="liza koshty">liza koshty</a></li> <li><a href="/searcher.php3?search=mbape" title="mbape">mbape</a></li> <li><a href="/searcher.php3?search=mental+age" title="mental age">mental age</a></li> <li><a href="/searcher.php3?search=spanking" title="spanking">spanking</a></li> <li><a href="/searcher.php3?search=toxic+crush" title="toxic crush">toxic crush</a></li> 										</ul>
+											<li><a href="/searcher.php3?search=are+you+a+freak+freak" title="are you a freak freak">are you a freak freak</a></li> <li><a href="/searcher.php3?search=bff+club" title="bff club">bff club</a></li> <li><a href="/searcher.php3?search=boys" title="boys">boys</a></li> <li><a href="/searcher.php3?search=color" title="color">color</a></li> <li><a href="/searcher.php3?search=does+he+have+a+crush+on+me" title="does he have a crush on me">does he have a crush on me</a></li> <li><a href="/searcher.php3?search=does+my+coach+like+me" title="does my coach like me">does my coach like me</a></li> <li><a href="/searcher.php3?search=does+she+like+mewhen+you+only+see+her+at+church" title="does she like mewhen you only see her at church">does she like mewhen you only see her at church</a></li> <li><a href="/searcher.php3?search=erin+hunter" title="erin hunter">erin hunter</a></li> <li><a href="/searcher.php3?search=harry" title="harry">harry</a></li> <li><a href="/searcher.php3?search=how+big+am+i" title="how big am i">how big am i</a></li> <li><a href="/searcher.php3?search=scenario+boys+only" title="scenario boys only">scenario boys only</a></li> <li><a href="/searcher.php3?search=shadow+house+the+missing" title="shadow house the missing">shadow house the missing</a></li> <li><a href="/searcher.php3?search=sissy" title="sissy">sissy</a></li> <li><a href="/searcher.php3?search=soul+mate" title="soul mate">soul mate</a></li> <li><a href="/searcher.php3?search=the+pathfinder" title="the pathfinder">the pathfinder</a></li> <li><a href="/searcher.php3?search=write+to+harry+++potter" title="write to harry   potter">write to harry   potter</a></li> 										</ul>
 
 								</div>
 										  		</aside>
@@ -308,8 +392,8 @@ if (winW>1023)
 							<h4>Tests &amp; Quizzes</h4>
 							<ul>
 									<li><a href="/usertest.php3" rel="nofollow">My tests </a></li>
-									<li><a href="/quiz36/quizbedingung.php">Develop a quiz </a></li>
-									<li><a href="/quiz36/quizbedingung.php">Write fanfiction </a></li>
+									<li><a href="/quiz37/quizbedingung.php">Develop a quiz </a></li>
+									<li><a href="/quiz37/quizbedingung.php">Write fanfiction </a></li>
 									<li><a href="/katoverview.php3">Categories overview </a></li>
 									<li><a href="/suggest.php3" rel="nofollow">Suggest a site </a></li>
 									<li><a href="/top10.php3">Top 10 tests </a></li>
