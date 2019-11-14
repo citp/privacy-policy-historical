@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pen.io privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623050602id_/http%3A//privacy.pen.io) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pen.io privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114160124id_/http%3A//privacy.pen.io) for the most accurate reproduction.*
 
 # Privacy policy | pen
 
