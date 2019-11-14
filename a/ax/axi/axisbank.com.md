@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603200818id_/https%3A//www.axisbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axisbank.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114213847id_/https%3A//www.axisbank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Axis Bank Limited (The Bank) recognizes the expectations of its customers with r
   * medical records & history;
   * biometric information;
   * any detail relating to the above clauses as provided to body corporate for providing service;
-  * any of the information received under above clauses by body corporate for processing, stored or processed under lawful contract or otherwise.
+  * any of the information received under above clauses by body corporate for processing, stored or processed under lawful contract or otherwise. 
 
 
 
@@ -23,11 +23,13 @@ Provided that, any information that is freely available or accessible in public 
 
 ### Applicability
 
-This Policy is applicable to personal information and sensitive personal data or information collected by the Bank or it’s affiliates directly from the customer or through the Bank’s online portals, mobile apps and electronic communications as also any information collected by the Bank’s server from the customer’s browser.
+This Policy is applicable to personal information and sensitive personal data or information collected by the Bank or its affiliates directly from the customer or through the Bank’s online portals, mobile apps and electronic communications as also any information collected by the Bank’s server from the customer’s browser.
 
 ### Purpose of Collection and Use of Personal Information
 
-The Bank collects and uses the financial information and other personal information from its customers. This information is collected and used for specific business purposes or for other related purposes designated by the Bank or for a lawful purpose to comply with the applicable laws and regulations. The Bank shall not divulge any personal information collected from the customer, for cross selling or any other purposes.
+The Bank collects and uses the financial information and other personal information from its customers. This information is collected and used for specific business purposes or for other related purposes designated by the Bank or for a lawful purpose to comply with the applicable laws and regulations. The Bank shall not divulge any personal information collected from the customer, for cross selling or any other purposes. 
+
+The User authorises Axis Bank to exchange, share, part with all information related to the details and transaction history of the User to its Affiliates / banks / financial institutions / credit bureaus / agencies/participation in any telecommunication or electronic clearing network as may be required by law, customary practice, credit reporting, statistical analysis and credit scoring, verification or risk management or any of the aforesaid purposes and shall not hold Axis Bank liable for use or disclosure of this information. All Information collected shall be used for the relevant lawful purposes connected with various functions or activities of the Bank related to services in which the User is interested, and/or to help determine the eligibility of the User for the product/services requested/ applied/ shown interest in and/or to enable Bank the User verification and/or process applications, requests, transactions and/or maintain records as per internal/legal/regulatory requirements and shall be used to provide the User with the best possible services/products as also to protect interests of Axis Bank.
 
 The authenticity of the personal information provided by the customer shall not be the responsibility of the Bank.
 
@@ -37,7 +39,6 @@ Any information that is freely available or accessible in public domain or furni
 
 The personal information collected by the Bank shall not be disclosed to any other organization except:
 
-  * where the disclosure has been agreed in a written contract or otherwise between the Bank and the customer;
   * where the disclosure has been agreed in a written contract or otherwise between the Bank and the customer;
   * where the Bank is required to disclose the personal information to a third party on a need-to-know basis, provided that in such case the Bank shall inform such third party of the confidential nature of the personal information and shall keep the same standards of information/ data security as that of the Bank.
 
@@ -49,7 +50,7 @@ The security of personal information is a priority and is protected by maintaini
 
 ### Contact Information
 
-In order to address any discrepancies or grievances related to the personal information residing with the Bank, the customer may visit: [https://www.axisbank.com/contact-us/grievance-redressal](http://contact-us/grievance-redressal/retail-banking-grievance-redressal)
+In order to address any discrepancies or grievances related to the personal information residing with the Bank, the customer may visit: [https://www.axisbank.com/contact-us/grievance-redressal](https://web.archive.org/contact-us/grievance-redressal)
 
 ### Notice of change
 
