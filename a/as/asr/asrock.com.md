@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asrock.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525122358id_/http%3A//www.asrock.com/general/TermsPrivacy.asp%3Fcat%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asrock.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114171936id_/https%3A//www.asrock.com/general/TermsPrivacy.asp%3Fcat%3DPrivacy) for the most accurate reproduction.*
 
 # ASRock > Privacy Policy
 
