@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheki.com.ng privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403014445id_/https%3A//www.cheki.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheki.com.ng privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114034838id_/https%3A//www.cheki.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cheki
 
