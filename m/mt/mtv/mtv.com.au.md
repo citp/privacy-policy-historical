@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtv.com.au privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523025332id_/http%3A//www.mtv.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtv.com.au privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114140305id_/http%3A//www.mtv.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
 # VIMN Australia Privacy Policy | MTV
 
