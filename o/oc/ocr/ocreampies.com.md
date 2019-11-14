@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocreampies.com privacy policy that was archived on 2017-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170813181016id_/https%3A//ocreampies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocreampies.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114153945id_/https%3A//ocreampies.com/privacy) for the most accurate reproduction.*
 
 # OCreamPies.com - Privacy Statement
 
@@ -54,7 +54,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <http://www.ocreampies.com/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our websites at <https://ocreampies.com/terms>
 
 **Your Consent**
 
@@ -70,4 +70,4 @@ All questions to  regarding these terms and conditions must be directed to:
 
 registered address at 
 
-Should you have other questions or concerns about these privacy policies, please [contact us](http://www.supportidols.com/).
+Should you have other questions or concerns about these privacy policies, please [contact us](https://www.supportidols.com/).
