@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620220450id_/http%3A//www.everythingzoomer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50plus.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114215534id_/http%3A//www.everythingzoomer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Everything Zoomer
 
