@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interpol.int privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331071808id_/https%3A//www.interpol.int/Who-we-are/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interpol.int privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114141019id_/https%3A//www.interpol.int/Who-we-are/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
