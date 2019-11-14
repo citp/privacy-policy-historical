@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the hustlertube.com privacy policy that was archived on 2019-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190512235512id_/http%3A//www.hustler.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hustlertube.com privacy policy that was archived on 2019-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191114144218id_/https%3A//hustler.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-
+<!--UK Age Verification plugin -->
+<!-- <script id="age-wall" data-avs-iframe-variant="preLaunchPage" data-cp-bg-url="https://elevatedx.hustler.com/warningpage.php" data-x-api-key="wupdgw4bqpftglPCjeZx4jkb1VLDoGN8NY9RT9N1" src="https://avsecure.dev/v1/age_wall.js" target="_parent"></script>
+<script type="text/javascript" src="https://avsecure.dev/v1/crosstab_sharing_url_wrapper.js"></script> -->
+<!--End UK Age Verification plugin -->
 	
 	<!-- Google Optimize code- This snippet ensures that users only see your variant content, minimizing page flicker. -->
 	<!-- <style>.async-hide { opacity: 0 !important} </style> -->
@@ -61,7 +64,7 @@
 
 
 
-	<link rel="canonical" href="https://hustler.com/privacy.html">
+	<link rel="canonical" href="https://hustler.com/privacy/">
 
 
 	<!-- This includes the number of clicks that are allowed on the Tour -->
@@ -179,6 +182,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 jQuery(function($) {
 	var warningpopup_cookie = 'warningpopup_26042017777';
 	var check_cookie_value = Cookies.get(warningpopup_cookie);
+	var url = document.location.search;
 
 	$(document).on('click', 'a.btn-enter', function (e) {
 		e.preventDefault();
@@ -187,8 +191,11 @@ jQuery(function($) {
 		Cookies.set(warningpopup_cookie, 'true', { expires: 30, path: '/', domain: 'hustler.com' });
 	});
 	
-	if (check_cookie_value === undefined || check_cookie_value === null) {
+	if (url.indexOf('uuid=') == -1 && (check_cookie_value === undefined || check_cookie_value === null)) {
 		$('#warningpopup').show();
+	} else if (url.indexOf('uuid=') !== -1) {
+		Cookies.set(warningpopup_cookie, 'true', { expires: 30, path: '/', domain: 'hustler.com' });
+		$('#warningpopup').remove();
 	} else {
 		$('#warningpopup').remove();
 	}
@@ -271,7 +278,7 @@ jQuery(function($) {
 </script>
 
 <div class="visibleSearchNavContainer">
-<div class="wrapper">
+<div class="wrapper" style="float: none; width: 96%;">
 
 
 
@@ -284,7 +291,7 @@ jQuery(function($) {
   <!-- //////////////// MOBILE NAV AREA WHICH IS HIDDEN AFTER 800 PX ///////////////-->
         <div class="mobileNavContainer">
             <a href="/">
-                <img src="https://customassets.hustler.com/images/logo_red.png" class="mainLogo" alt="Hustler.com">
+                <img src="https://customassets.hustler.com/images/logoRed.png" class="mainLogo" alt="Hustler.com">
             </a>    
             
             <div class="mobileNavDropDownButton">
@@ -301,7 +308,7 @@ jQuery(function($) {
                 <ul>
                                     <li><a href="https://members.hustler.com" class="dropDownLoginButton">Login</a></li>
                                                     <!-- <li><a href="categories/exclusive.html">Hustler Exclusives</a></li> -->
-                    <li><a href="/categories/movies-1-d.html">10,000+ Videos</a></li>
+                    <li><a href="/porn-videos/">Videos</a></li>
                     
                                             
                         <!-- <li><a href="virtual-reality-tour/">Virtual Reality Videos</a></li> -->
@@ -337,7 +344,7 @@ jQuery(function($) {
         <!-- top with the logo, buttons and search bar -->
         <div class="navTopHalfContainer">
             <a href="/">
-                <img src="https://customassets.hustler.com/images/logo_red.png" class="mainLogo" alt="Hustler.com">
+                <img src="https://customassets.hustler.com/images/logoRed.png" class="mainLogo" alt="Hustler.com">
             </a>
             <script>
 $().ready(function(){
@@ -409,7 +416,7 @@ $().ready(function(){
             <ul>
 
             
-                <li class=" "><a href="/porn-videos" id="videosButton-NOTFORNOW">Videos</a></li>
+                <li class=" "><a href="/porn-videos/" id="videosButton-NOTFORNOW">Videos</a></li>
                 <li class=" "><a href="/categories/photos-1-d.html">Photos</a></li>
                 <li class=" "><a href="/models/models-p.html">Pornstars</a></li>
                 <li class=" "><a href="/magazines/">Magazines</a></li>
@@ -442,7 +449,7 @@ $().ready(function(){
             <div class="videosDropdown">
                 <ul>
                 <!-- <li><a href="categories/exclusive.html">Hustler Exclusives</a></li> -->
-                <li><a href="/categories/movies-1-d.html">10,000+ Videos</a></li>
+                <li><a href="/porn-videos/">10,000+ Videos</a></li>
                                         <!-- <li><a href="virtual-reality-tour/">Virtual Reality Videos</a></li> -->
                                     </ul>
             </div>
@@ -647,7 +654,100 @@ $( document ).ready(function() {
 <!-- <div class="header_spacer"></div> -->
 
 <div class="clear"></div>
+<div class="popUpBG">
+	<div class="popUpAd">
+		<a href="https://secure.hustler.com/signup/signup.php?nats=NDI0Mzk4LjEuOS45LjAuMC4wLjAuMA&amp;step=2&amp;tpl=join14">
+			<img src="https://hustler.com/images/thanksgivingPopup.jpg" title="Welcome to Hustler.com">
+		</a>
+		<div class="popUpCloseButton">Close</div>
+	</div>
+</div>
 
+
+<script>
+var hideAdPopupCookie = getCookie('hideAdPopupThanksgiving') ;
+var overlay = $('.popUpBG');
+console.log("cookie value: " + hideAdPopupCookie);
+
+
+if(hideAdPopupCookie == 'true'){
+    //console.log("if() is working");
+    $('.popUpBG').css({"display":"none"});
+    $('.popUpBG').remove();
+}
+else{
+    //start the popup invisible then hae it appear after 5 seconds
+    $('.popUpBG').css({"display":"none"}); 
+    setTimeout(function(){
+       $('.popUpBG').stop().fadeIn();
+    },5000);
+
+}
+
+
+
+
+
+
+
+
+////close the overlay when the button is clicked
+    $('.popUpCloseButton, .popUpBG').click(function(event){
+        event.preventDefault();
+        event.cancelBubble = true;
+        event.stopPropagation();
+        close(overlay);
+    });
+
+    $('.popUpAd').click(function(event){
+        event.preventDefault();
+        event.cancelBubble = true;
+        event.stopPropagation();        
+        window.location.href = "https://secure.hustler.com/signup/signup.php?nats=NDI0Mzk4LjEuOS45LjAuMC4wLjAuMA&step=2&tpl=join14";
+        // window.open(
+        // 'https://secure.hustler.com/signup/signup.php?nats=NDI0Mzk4LjEuOS45LjAuMC4wLjAuMA&step=2&tpl=join14',
+        // '_self' 
+       // );
+        $('.popUpBG').fadeOut('slow');
+        close(overlay);
+
+    });
+    
+    ////close functionality
+    function close(item){
+        $(item).fadeOut('slow');
+        setCookie('hideAdPopupThanksgiving','true',365);
+
+    }
+    
+    /////set the cookie//////////
+    function setCookie(cname, cvalue, exdays) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays*24*60*60*1000));
+        var expires = "expires="+d.toUTCString();
+        document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+    }
+
+
+	function getCookie(cname) {
+	    //this will return 'true' if the cookie is set
+	    var name = cname + "=";
+	    var decodedCookie = decodeURIComponent(document.cookie);
+	    var ca = decodedCookie.split(';');
+	    for(var i = 0; i <ca.length; i++) {
+	        var c = ca[i];
+	        while (c.charAt(0) == ' ') {
+	            c = c.substring(1);
+	        }
+	        if (c.indexOf(name) === 0) {
+	        	console.log("cookie exists");
+	            return c.substring(name.length, c.length);
+	        }
+	    }
+	    return "";
+    }
+    
+    </script>
 <div class="content">
 	<div class="wrapper">
 
@@ -848,141 +948,6 @@ var url = window.location.href ;
 </div><!--//content-->
 
 <div class="clear"></div>
-
-<style type="text/css">
-	
-	.bottomPromoPopup{
-		width: 100%;
-		max-width: 800px;
-		height: auto;
-		position: fixed;
-		bottom: -600px;
-		left: 0;
-		right: 0;
-		margin-left: auto;
-		margin-right: auto;
-		z-index: 1000;
-	}
-
-	.bottomPromoPopup img{
-		width: 100%;
-		max-width: 800px;
-		height: auto;
-		vertical-align: bottom;
-	}
-
-	.bottomPopupCloseButton{
-		position: absolute;
-		top: -20px;
-		right: 0;
-		z-index: 10;
-		padding: 10px;
-		font-family: Arial, Helvetica, sans-serif;
-		color: #3c251d;
-		text-shadow: 1px 1px #ffd7ac;
-		font-weight: bold;
-		border:2px solid #000;
-		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ad7b18+0,eab92d+20,f2b830+20,f7f7ea+42,e0be00+53,ad7b18+79,f2dc15+100 */
-		background: #ad7b18; /* Old browsers */
-		background: -moz-linear-gradient(left, #ad7b18 0%, #eab92d 20%, #f2b830 20%, #f7f7ea 42%, #e0be00 53%, #ad7b18 79%, #f2dc15 100%); /* FF3.6-15 */
-		background: -webkit-linear-gradient(left, #ad7b18 0%,#eab92d 20%,#f2b830 20%,#f7f7ea 42%,#e0be00 53%,#ad7b18 79%,#f2dc15 100%); /* Chrome10-25,Safari5.1-6 */
-		background: linear-gradient(to right, #ad7b18 0%,#eab92d 20%,#f2b830 20%,#f7f7ea 42%,#e0be00 53%,#ad7b18 79%,#f2dc15 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ad7b18', endColorstr='#f2dc15',GradientType=1 ); /* IE6-9 */
-		cursor: pointer;
-	}
-
-	.bottomPopupCloseButton:hover{
-		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ad7b18+0,eab92d+20,f2b830+20,f7f7ea+42,e0be00+53,ad7b18+79,f2dc15+100 */
-		background: #b18917; /* Old browsers */
-		background: -moz-linear-gradient(left, #b18917 0%, #eab92d 20%, #f2b830 20%, #cec69e 42%, #e0be00 53%, #b18917 79%, #f2dc15 100%); /* FF3.6-15 */
-		background: -webkit-linear-gradient(left, #b18917 0%,#eab92d 20%,#f2b830 20%,#cec69e 42%,#e0be00 53%,#b18917 79%,#f2dc15 100%); /* Chrome10-25,Safari5.1-6 */
-		background: linear-gradient(to right, #b18917 0%,#eab92d 20%,#f2b830 20%,#cec69e 42%,#e0be00 53%,#b18917 79%,#f2dc15 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b18917', endColorstr='#f2dc15',GradientType=1 ); /* IE6-9 */
-		cursor: pointer;
-	}
-
-
-
-</style>
-
-<script type="text/javascript">
-	
-$(document).ready(function(){
-	
-	function displayPopup(){
-		var popupImgHeight = $('.bottomPromoPopup img').height();
-		var popupImgWidth = $('.popupImage').innerWidth();
-
-		var popUpContainer = $(".bottomPromoPopup");
-		console.log(popupImgWidth);
-
-		//take the height of the image and negate it to know how far down to set the container
-		popUpContainer.css({"bottom":popupImgHeight * -1});
-
-		//animate the container up to whatever the height is
-		popUpContainer.stop().animate({"bottom":0});
-	}//end popup
-
-
-	setTimeout(function(){
-		if( getCookie("hideBottomPopup") !== true && getCookie("hideBottomPopup") !== "true"  ){
-			displayPopup();
-		}
-		
-
-	},8000);
-
-
-	$(".bottomPopupCloseButton").click(function(){
-		var popupImgHeight = $('.bottomPromoPopup img').height();
-		$(".bottomPromoPopup").css({"display":"none"});
-		setCookie("hideBottomPopup",true,365);
-	});
-
-	$(".bottomPromoPopup").click(function(){
-		setCookie("hideBottomPopup",true,365);
-	});
-
-
-	function setCookie(cname, cvalue, exdays) {
-	  var d = new Date();
-	  d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
-	  var expires = "expires="+d.toUTCString();
-	  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
-	}
-
-	function getCookie(cname) {
-	  var name = cname + "=";
-	  var ca = document.cookie.split(';');
-	  for(var i = 0; i < ca.length; i++) {
-	    var c = ca[i];
-	    while (c.charAt(0) == ' ') {
-	      c = c.substring(1);
-	    }
-	    if (c.indexOf(name) == 0) {
-	      return c.substring(name.length, c.length);
-	    }
-	  }
-	  return "";
-	}
-
-
-
-
-});
-
-</script>
-
-
-
-<div class="bottomPromoPopup">
-	<div class="bottomPopupCloseButton">Close X</div>
-	<a href="https://hustler.com/trailers/MarieMcCray12.html?LFPID=074369018785">
-	<img src="https://hustler.com/images/thronesPopup.jpg" class="popupImage">
-	</a>
-</div>
-
-
    
 
 
@@ -990,8 +955,8 @@ $(document).ready(function(){
 {
   "@context": "http://schema.org/", 
         "@type": "Webpage", 
-      	"url": "https://hustler.com/privacy.html", 
-        "@id": "https://hustler.com/privacy.html", 
+      	"url": "https://hustler.com/privacy/", 
+        "@id": "https://hustler.com/privacy/", 
         "name": "Hustler",
         "image": "https://customassets.hustler.com/images/logo_red.png", 
         "description": "Sexiest Porn Videos & Pornstars at Hustler.com"
@@ -1003,7 +968,7 @@ $(document).ready(function(){
 </div>
 
 <div id="footer">
-	<div class="wrapper">
+	<div class="wrapper" style="float: none;">
 
 		<span class="left">
 			<ul class="social">
