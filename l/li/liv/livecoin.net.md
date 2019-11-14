@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the livecoin.net privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406052547id_/https%3A//www.livecoin.net/en/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecoin.net privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114144629id_/https%3A//www.livecoin.net/en/policy) for the most accurate reproduction.*
 
 # Livecoin - Privacy policy
 
 This Privacy Policy was last modified on January 01, 2015.
 
-Livecoin.net ("us", "we", or "our") operates [www.livecoin.net](https://www.livecoin.net/) (the "Website"). This page informs you of our policies regarding gather, use and disclosure of our customers’ personal data received from our Website. We are not responsible for the websites hosted on any other domains. 
+Livecoin.net ("us", "we", or "our") operates [www.livecoin.net](http://www.livecoin.net/) (the "Website"). This page informs you of our policies regarding gather, use and disclosure of our customers’ personal data received from our Website. We are not responsible for the websites hosted on any other domains. 
 
 The only purpose we use your personal data is to maintain our Website proper functioning and improve its services for the benefit of our Customers. By using the Website, you consent to the collection and use of information in accordance with this Privacy Policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms, accessible at www.livecoin.net. 
 
@@ -39,3 +39,7 @@ Livecoin.net may update this Privacy Policy from time to time. We will notify yo
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us.
+
+In 5 minutesthe system will be set into maintenance mode. All open orders handling operations will be resumed after maintenance is completed.
+
+**Time left:**
