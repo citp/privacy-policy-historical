@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motor1.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513041000id_/https%3A//accounts.motorsportnetwork.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motor1.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114065658id_/https%3A//accounts.motorsportnetwork.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
