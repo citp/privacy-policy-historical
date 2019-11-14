@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reshareworthy.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615080548id_/https%3A//www.reshareworthy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reshareworthy.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114214141id_/https%3A//www.reshareworthy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Reshareworthy
 
-**Last Updated May 24, 2018**
+**Last Updated November 7, 2019**
 
 Our privacy policy explains how we treat your personal data and protect your privacy when you use our Services. By accessing our website, you agree to our privacy policy and terms of use. The information contained on Reshareworthy.com is for informational purposes only.
 
@@ -71,10 +71,11 @@ When you access Reshareworthy.com from a computer, mobile phone, or other device
 
 We may use third-party Service Providers to show advertisements to you to help support and maintain our Site. Third-party Service Providers we select include:
 
-  * Google AdSense: Google Adsense, as a third party vendor, uses cookies to serve ads on our Site. You may control the information Google uses to show you ads through Google by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)  
+  * Google AdSense & DoubleClick: Google Adsense, as a third party vendor, uses cookies to serve ads on our Site. You may control the information Google uses to show you ads through Google by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)  
 Note: Using the Google Ads Settings, visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
   * Taboola: Taboola, as a third party vendor, uses cookies to serve ads on our Site. Taboola’s use of the cookie enables it and its partners to serve ads to our users based on their visit to our Site or other websites on the Internet. You may opt out of the use of the Taboola Cookie for interest-based advertising by visiting the Taboola page: <https://www.taboola.com/cookie-policy>
   * Amazon: Amazon, as a third party vendor, uses cookies to serve ads on our Site. To learn more about Amazon and their use of cookies visit Amazon’s Privacy Policy page: <https://www.amazon.com/gp/help/customer/display.html?nodeId=468496>
+  * Amazon Associates Program: We are a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for websites such as ours to earn advertising fees by linking to Amazon.com and affiliate sites. Some articles on Reshareworthy.com contain affiliate links. An affiliate link contains a special code for affiliates embedded in the link to identify our website and that a reader has been referred to Amazon.com from our site. We only earn a small commission on a sale if you choose to make a purchase within 24 hours of clicking on the link. Note: Amazon links are not “pay per click”.
 
 
 
