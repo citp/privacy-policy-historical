@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeno.fm privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330164047id_/https%3A//www.zenomedia.com/wp-content/themes/zeno/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeno.fm privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114113904id_/https%3A//www.zenomedia.com/wp-content/themes/zeno/privacy_policy.pdf) for the most accurate reproduction.*
 
 # Zeno Media Privacy Policy
 
