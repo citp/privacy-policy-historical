@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidglobal.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516235823id_/https%3A//www.hidglobal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidglobal.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114192510id_/https%3A//www.hidglobal.com/about/privacy) for the most accurate reproduction.*
 
 # HID® Global Privacy Notice | HID Global
 
@@ -217,7 +217,6 @@ If you believe HID Global maintains your personal data in one of the services wi
 
   
   
-[HID® Authentication Service Privacy Notice](https://web.archive.org/about/privacy/hid-authentication-service-privacy-notice)  
 [HID® FARGO® Connect™ Privacy Notice](https://web.archive.org/about/privacy/hid-fargo-connect-privacy-notice)  
 [HID® Mobile Access® Application Privacy Notice](https://web.archive.org/about/privacy/hid-mobile-access-application-privacy-notice)  
 [HID® Origo™ Management Portal Privacy Notice](https://web.archive.org/about/privacy/hid-origo-management-portal-privacy-notice)  
