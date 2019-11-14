@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2018-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180911160642id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12wbt.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114121845id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.*
 
 # Privacy - 12wbt.com
 
