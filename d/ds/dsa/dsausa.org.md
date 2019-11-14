@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsausa.org privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530135246id_/https%3A//www.dsausa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsausa.org privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114152753id_/https%3A//www.dsausa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Democratic Socialists of America (DSA)
 
@@ -62,6 +62,6 @@ If we change our privacy policies and procedures, we will post those changes on 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at [info[at]dsausa.org](mailto:info@dsausa.org) or send mail to:
 
-DSA  
-75 Maiden Lane, Suite 702  
-New York, NY 10038
+Democratic Socialists of America  
+PO Box 1038  
+New York, NY 10272
