@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211023721id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherspark.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114111440id_/https%3A//weatherspark.com/policies/privacy) for the most accurate reproduction.*
 
 # The Typical Weather Anywhere on Earth - Weather Spark
 
