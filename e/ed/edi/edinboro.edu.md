@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinboro.edu privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619025637id_/http%3A//www.edinboro.edu/directory/offices-services/communications-marketing/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinboro.edu privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114233539id_/http%3A//www.edinboro.edu/directory/offices-services/communications-marketing/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Edinboro University
 
