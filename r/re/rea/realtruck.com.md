@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtruck.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609115525id_/https%3A//realtruck.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtruck.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114124914id_/https%3A//realtruck.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RealTruck
 
@@ -97,3 +97,5 @@ Sat & Sun: Closed
 1-877-216-5446  
 Mon - Sat: 8 a.m. - 11 p.m. ET  
 Sun: 9 a.m. - 9 p.m. ET
+
+This privacy policy applies to RealTruck.com, a RealTruck (THI E-Commerce) company.
