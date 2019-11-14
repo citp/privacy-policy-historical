@@ -1,131 +1,116 @@
-> *The following text is extracted and transformed from the me.me privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130103436id_/http%3A//us.rd.yahoo.com/default/%2Ahttp%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the me.me privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114145531id_/https%3A//me.me/privacy) for the most accurate reproduction.*
 
-# Yahoo! Privacy Policy
+# Privacy Policy | ME.ME
 
-## WHAT THIS PRIVACY POLICY COVERS
+This Privacy Policy describes the policies and procedures of Limit, Inc. ("we", "our" or "us") on the collection, use and disclosure of your information on www.me.me and other sites which re-direct to www.me.me, including, but not limited to, me.me (the "Site") and the services, features, content or applications we offer (collectively with the Site, the "Services"). We receive information about you from various sources, including: (i) your use of the Services generally; and (ii) from third party websites and services. When you use the Services, you are consenting to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy.
 
-### Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+#### What Does This Privacy Policy Cover?
 
-The federal government and technology industry have developed [practical tips](http://onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information. 
+This Privacy Policy covers the treatment of personally identifiable information ("Personal Information") gathered when you are using or accessing the Services. This Privacy Policy also covers our treatment of any Personal Information that our business partners share with us or that we share with our business partners.
 
-### How Yahoo! Uses Your Personal Information
+This Privacy Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications ("Third Party Services") that you elect to access through the Service or to individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. We encourage you to carefully review the privacy policies of any Third Party Services you access.
 
-This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+#### What Information Do We Collect?
 
-### This privacy policy only applies to Yahoo!
+The information we gather enables us to personalize, improve and continue to operate the Services. In connection with certain aspects of the Services, we may request, collect and/or display some of your Personal Information. We collect the following types of information from our users.
 
-This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, some companies that Yahoo! has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](http://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/).
+User Content:
 
-### Yahoo!'s participation in the Safe Harbor program
+Some features of the Services allow you to provide content to the Services. All content submitted by you to the Services may be retained by us indefinitely, even if and after your access to the Services is terminated. We may continue to disclose such content to third parties in a manner that does not reveal Personal Information, as described in this Privacy Policy.
 
-Yahoo! participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). For more information about Yahoo!'s participation in the Safe Harbor program, please visit our [Safe Harbor](http://info.yahoo.com/privacy/us/yahoo/safeharbor/) details page.
+IP Address Information and Other Information Collected Automatically:
 
-Return to Top
+We automatically receive and record information from your web browser when you interact with the Services, including your IP address and cookie information. This information is used for fighting spam/malware and also to facilitate collection of data concerning your interaction with the Services (e.g., what links you have clicked on).
 
-## INFORMATION COLLECTION AND USE
+Generally, the Services automatically collect usage information, such as the number and frequency of visitors to the Site. We may use this data in aggregate form, that is, as a statistical measure, but not in a manner that would identify you personally. This type of aggregate data enables us and third parties authorized by us to figure out how often individuals use parts of the Services so that we can analyze and improve them.
 
-### General
+Information Collected Using Cookies:
 
-Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](http://info.yahoo.com/privacy/us/all/), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](http://info.yahoo.com/privacy/us/yahoo/promotions/). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
+Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet. Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services.
 
-When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo! and sign in to our services, you are not anonymous to us. 
+Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways.
 
-Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
+This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
 
-Yahoo! automatically receives and records information from your computer and browser, including your [IP address](http://info.yahoo.com/privacy/us/yahoo/ip/), Yahoo! [cookie](http://info.yahoo.com/privacy/us/yahoo/cookies/) information, software and hardware attributes, and the page you request.
+Information Related to Advertising and the Use of Web Beacons:
 
-Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
+To support and enhance the Services, we may serve advertisements, and also allow third parties advertisements, through the Services. These advertisements are sometimes targeted and served to particular users and may come from third party companies often referred to as "ad networks." Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms.
 
-### Children
+Advertisements served through the Services may be targeted to users who fit a certain general profile category may be based on anonymized information inferred from information provided to us by a user, including Personal Information (e.g., gender or age), may be based on the Services usage patterns of particular users, or may be based on your activity on Third Party Services. We do not provide Personal Information to any ad networks for use outside of the Services.
 
-When a child under age 13 attempts to register with Yahoo!, we ask the child to have a parent or guardian create a [Yahoo! Family Account](http://info.yahoo.com/privacy/us/family/details.html) to obtain parental permission. 
+To increase the effectiveness of ad delivery, we may deliver a file (known as a "web beacon") from an ad network to you through the Services. Web beacons allow ad networks to provide anonymized, aggregated auditing, research and reporting for us and for advertisers. Web beacons also enable ad networks to serve targeted advertisements to you when you visit other websites. Because your web browser must request these advertisements and web beacons from the ad network's servers, these companies can view, edit or set their own cookies, just as if you had requested a web page from their site.
 
-Yahoo! does not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
+Aggregate Information:
 
-Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
+We collect statistical information about how users, collectively, use the Services ("Aggregate Information"). Some of this information is derived from Personal Information. This statistical information is not Personal Information and cannot be tied back to you, or your web browser. How, and With Whom, Is My Information Shared?
 
-Return to Top
+The Services are designed to help you share information with others. As a result, some of the information generated through the Services is shared publicly or with third parties. We use the information we collect from the Services to provide, maintain, protect and improve them, to develop new ones, and to protect us and our users. We also use this information to offer you tailored content – like giving you more relevant search results and ads.
 
-## INFORMATION SHARING AND DISCLOSURE
+Public Information about Your Activity on the Services:
 
-Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+Some of your activity on and through the Services is public by default. This may include, but is not limited to, content you have posted publicly on the Site or otherwise through the Services. Information concerning your use of the Services (such as what pages you have visited) may be tracked anonymously through the use of cookies and stored by us.
 
-  * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-  * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+Remember that if you choose to provide Personal Information using certain public features of the Services, then that information is governed by the privacy settings of those particular features and may be publicly available. Individuals reading such information may use or disclose it to other individuals or entities without our control and without your knowledge, and search engines may index that information. We therefore encourage you to think carefully about including any specific information you may deem private in content that you create or information that you submit through the Services.
+
+IP Address Information:
+
+While we collect and store IP address information, that information is not made public. We do at times, however, share this information with our partners, service providers and other persons with whom we conduct business, and as otherwise specified in this Privacy Policy.
+
+Information You Elect to Share:
+
+You may access other Third Party Services through the Services, for example by clicking on links to those Third Party Services from within the Site. We are not responsible for the privacy policies and/or practices of these Third Party Services, and you are responsible for reading and understanding those Third Party Services' privacy policies. This Privacy Policy only governs information collected on the Services.
+
+Aggregate Information:
+
+We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how our Services interface with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired.
+
+Information Shared with Our Agents:
+
+We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our "Agents"). We may need to share Personal Information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
+
+Information Disclosed Pursuant to Business Transfers:
+
+In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your Personal Information as set forth in this policy.
+
+Information Disclosed for Our Protection and the Protection of Others:
+
+We also reserve the right to access, read, preserve, and disclose any information, including Personal Information, as we reasonably believe is necessary to (i) satisfy any applicable law, regulation, legal process or governmental request, (ii) enforce the Terms of Service, including investigation of potential violations thereof, (iii) detect, prevent, or otherwise address fraud, security or technical issues, (iv) respond to user support requests, or (v) protect our rights, property or safety, our users and the public. This includes exchanging information with other companies and organizations for fraud protection and spam/malware prevention.
+
+Information We Share With Your Consent:
+
+Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and may be able to prevent the sharing of this information.
+
+#### Is Information About Me Secure?
+
+We seek to protect user information to ensure that it is kept private; however, we cannot guarantee the security of any user information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
+
+We otherwise store all of our information, including your IP address information, using industry-standard techniques. We do not guarantee or warrant that such techniques will prevent unauthorized access to information about you that we store, Personal Information or otherwise.
+
+#### What Information of Mine Can I Access?
+
+Users can access and delete cookies through their web browser settings.
+
+California Privacy Rights: Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 1227 Fulton St San Francisco, CA 94117.
+
+You can always opt not to disclose certain information to us, even though it may be needed to take advantage of some of our features.
+
+#### What Happens When There Are Changes to this Privacy Policy?
+
+We may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. A user is bound by any changes to the Privacy Policy when he or she uses the Services after such changes have been first posted.
+
+#### What If I Have Questions or Concerns?
+
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to support@me.me. We will make every effort to resolve your concerns.
+
+#### What Choices Do I Have Regarding My Information?
+
+You can use many of the features of the Services without registering, thereby limiting the type of information that we collect. If you would like more information about this practice and to know your choices about not having this information used, check out <http://www.networkadvertising.org/managing/opt_out.asp>
+
+Our partners include:
+
+  * [Google](https://google.com/)
+  * [Facebook](https://facebook.com/)
+  * [KnowYourMeme](https://knowyourmeme.com/)
+  * [Freestar](https://freestar.io/)
 
 
-
-Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
-
-  * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-  * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-
-
-
-Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://info.yahoo.com/privacy/us/all/). 
-
-Return to Top
-
-## COOKIES
-
-Yahoo! may set and access Yahoo! [cookies](http://info.yahoo.com/privacy/us/yahoo/cookies/) on your computer.
-
-Yahoo! lets [other companies](http://info.yahoo.com/privacy/us/yahoo/thirdparties/) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies.
-
-Yahoo! uses [web beacons](http://info.yahoo.com/privacy/us/yahoo/webbeacons/) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services.
-
-### Your Ability to Edit and Delete Your Account Information and Preferences
-
-  
-
-
-### General
-
-You can edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-
-New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-
-We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt out of receiving them. 
-
-You can delete your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-### Children
-
-Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-
-If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-Return to Top
-
-## CONFIDENTIALITY AND SECURITY
-
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-
-To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://info.yahoo.com/privacy/us/yahoo/security/).
-
-### CHANGES TO THIS PRIVACY POLICY
-
-Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
-
-Return to Top
-
-## QUESTIONS AND SUGGESTIONS
-
-[Yahoo! is TRUSTe-certified](http://www.truste.org/ivalidate.php?url=www.yahoo.com&sealid=101). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-
-If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at:
-
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070
-
-Effective Date: November 22, 2006
-
-Return to Top
