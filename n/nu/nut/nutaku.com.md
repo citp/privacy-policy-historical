@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nutaku.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525111145id_/https%3A//www.nutaku.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutaku.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114013109id_/https%3A//www.nutaku.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Last Modified: May 21st, 2018_**
+**_Last Modified: July 9th, 2019_**
 
 ## Introduction
 
-Nutaku Entertainment S.à.r.l. (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [nutaku.net](http://nutaku.net/) (hereinafter “ **Nutaku** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
+Nutaku Entertainment S.à.r.l. (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [nutaku.com](http://nutaku.com/) (hereinafter “ **Nutaku** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
 
 Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data
 
@@ -61,7 +61,7 @@ We use different methods to collect data from and about you including through:
 
 ## User Contributions
 
-We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content ( _e.g_., pictures, videos, audio files, _etc_.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at <https://www.nutaku.net/terms/>. If you use a forum, blog, user commenting features, community or other interactive sharing or social features that may be offered through our Website, you should be aware that any Personal Information you submit, display, or publish there is considered publicly available and can be read, collected, used, and disclosed by other users of those features, by us, and other third parties without restriction, except to the extent limited access features are available, if any. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. If you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Information. Once you have posted information, you may not be able to edit or delete such information. To request removal of your personal information from our blog, sharing service or community forum, for example, send us an e-mail at [support@nutaku.net](mailto:support@nutaku.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+We may provide areas on our Website where you can post information about yourself and others and communicate with others, upload content ( _e.g_., pictures, videos, audio files, _etc_.), and post comments or reviews of content found on the Website. Such postings are governed by our terms of use found at <https://www.nutaku.com/legal/tos>. If you use a forum, blog, user commenting features, community or other interactive sharing or social features that may be offered through our Website, you should be aware that any Personal Information you submit, display, or publish there is considered publicly available and can be read, collected, used, and disclosed by other users of those features, by us, and other third parties without restriction, except to the extent limited access features are available, if any. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. If you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your Personal Information. Once you have posted information, you may not be able to edit or delete such information. To request removal of your personal information from our blog, sharing service or community forum, for example, send us an e-mail at [support@nutaku.net](mailto:support@nutaku.net). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 ## Information Collected Through Automatic Data Collection Technologies
 
@@ -205,7 +205,7 @@ Note that some requests to delete certain Personal Information will require the 
 
 ## Changes to Our Privacy Policy
 
-We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at <https://www.nutaku.net/terms/> so you are aware of any changes, as they are binding on you.
+We may modify or revise our privacy policy from time to time. Although we may attempt to notify you when major changes are made to this privacy policy, you are expected to periodically review the most up-to-date version found at <https://www.nutaku.com/legal/tos> so you are aware of any changes, as they are binding on you.
 
 If we change anything in our privacy policy, the date of change will be reflected in the “last modified date”. You agree that you will periodically review this privacy policy and refresh the page when doing so. You agree to note the date of the last revision to our privacy policy. If the “last modified” date is unchanged from the last time you reviewed our privacy policy, then it is unchanged. On the other hand, if the date has changed, then there have been changes, and you agree to re-review our privacy policy, and you agree to the new ones. By continuing to use the Website subsequent to us making available an amended version of our privacy policy in a way that you can easily take notice of it, you thereby consent to such amendment.
 
