@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the enpass.io privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516223315id_/https%3A//www.enpass.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enpass.io privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114105623id_/https%3A//www.enpass.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Enpass
+# Privacy Policy | Enpass
 
 ### Introduction
 
 Your privacy is important to [Sinew Software Systems Pvt. Ltd.](https://sinew.io/) This statement describes the information practices for Sinew web sites, including what type of information is gathered and tracked, how the information is used.
+
+### Enpass and browser extensions
+
+Data entered in Enpass software by you either manually or through browser extensions is stays only with your computer. We do not store it on our servers. If you prefer to sync it with your other devices, your data is always travel through internet in encrypted form and never routed through our servers. Your master password is the only key for accessing your data. There are no back-doors.
 
 ### What Personal Information we collect
 
