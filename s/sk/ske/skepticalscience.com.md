@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skepticalscience.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524180209id_/https%3A//skepticalscience.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skepticalscience.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114181144id_/https%3A//skepticalscience.com/privacy.shtml) for the most accurate reproduction.*
 
 # Skeptical Science Privacy Policy
 
