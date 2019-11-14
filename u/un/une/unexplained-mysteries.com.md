@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unexplained-mysteries.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604210704id_/https%3A//www.unexplained-mysteries.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unexplained-mysteries.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114075955id_/https%3A//www.unexplained-mysteries.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Unexplained Mysteries - Privacy Policy
 
