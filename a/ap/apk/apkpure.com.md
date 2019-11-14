@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apkpure.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530205201id_/https%3A//apkpure.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkpure.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114113540id_/https%3A//apkpure.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
