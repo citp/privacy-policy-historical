@@ -1,41 +1,40 @@
-> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628171708id_/https%3A//www.dnb.com/utility-pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114022317id_/https%3A//www.dnb.com/utility-pages/privacy-policy.html) for the most accurate reproduction.*
 
 # Dun & Bradstreet Privacy Notice
 
 ### Dun & Bradstreet Privacy Notice
 
-Dun & Bradstreet is the world’s leading source of business information and insight.  Since 1841, Dun & Bradstreet has collected information about businesses to deliver products and services that assist our customers in making critical commercial decisions.  Our global business database contains more than 300 million business records. Some of the information in the business records may be classified as personal information under various laws such as information relating to an individual (e.g. a sole trader, a partnership, a company director, a beneficial owner, a trustee, a professional contact.)
+Dun & Bradstreet is the world’s leading source of business information and insight. Since 1841, Dun & Bradstreet has collected information about businesses to deliver products and services that assist our customers in making critical commercial decisions. Our global business database contains more than 330 million business records. Some of the information in the business records may be classified as personal information under various laws such as information relating to an individual (e.g. a sole trader, a partnership, a company director, a beneficial owner, a trustee, a professional contact.)
 
-This privacy notice explains how we collect, share and protect business information. 
+This privacy notice explains how we collect, share and protect business information.
 
 Back to Top
 
 ### Applicability - Legal Entities and Websites
 
-This Privacy Notice does not apply to Dun & Bradstreet companies based in the European Union or United Kingdom, or when any Dun & Bradstreet company processes data relating to residents of the European Union or the United Kingdom. In such cases please see the UK Privacy Notice found at  _<https://www.dnb.co.uk/utility-pages/privacy-policy.html>_. This Privacy Notice also covers transfers of data relating to residents of the European Union and United Kingdom to the United States pursuant to Dun & Bradstreet’s Privacy Shield certification.
+This Privacy Notice does not apply to Dun & Bradstreet companies based in the European Union or United Kingdom, or when any Dun & Bradstreet company processes data relating to residents of the European Union or the United Kingdom. In such cases please see the [UK Privacy Notice](https://www.dnb.co.uk/utility-pages/privacy-policy.html). The UK Privacy Notice also covers transfers of data relating to residents of the European Union and United Kingdom to the United States pursuant to Dun & Bradstreet’s Privacy Shield certification. This Privacy Notice does not apply to personal information of Dun & Bradstreet employees or information collected on employment applicants.
 
-This Privacy Notice does not apply to data collected by or products and solutions sold by Dun & Bradstreet legal entities based in the People’s Republic of China on Chinese residents. In such cases please see the China Privacy Notice.   
+This Privacy Notice does not apply to Dun & Bradstreet legal entities based in the People’s Republic of China, and their collection and sale of such information. In such cases, please see the China Privacy Notice: [www.dnbchina.com/privacy.html](http://www.dnbchina.com/privacy.html)
 
+This Privacy Notice applies **** to the following Dun & Bradstreet legal entities: Dun & Bradstreet, Inc., Dun & Bradstreet NetProspex, Inc. ("NPX"); Avention, Inc.; Hoover’s Inc.; Dun & Bradstreet Emerging Businesses ("DBEB"). NPX, Avention, D&B Government Solutions, Inc, and Hoover’s provide Sales and Marketing solutions. DBEB provides business credit information. Market Data Retrieval (MDR), a part of Dun and Bradstreet Inc., is a provider of marketing information and services for the K-12, higher education, library, early childhood, and related education market. These entities and lines of business will be referred to collectively as “Dun & Bradstreet” in this notice.
 
-This Privacy Notice applies ** ** to the following Dun & Bradstreet legal entities: Dun & Bradstreet, Inc., Dun & Bradstreet NetProspex, Inc. ("NPX"); Avention, Inc.; Hoover’s Inc.; Dun & Bradstreet Emerging Businesses ("DBEB"). NPX, Avention, and Hoover’s provide Sales and Marketing solutions.  DBEB provides business credit information. Market Data Retrieval (MDR), a part of Dun and Bradstreet Inc., is a provider of marketing information and services for the K-12, higher education, library, early childhood, and related education market.  These entities and lines of business will be referred to collectively as “Dun & Bradstreet” in this notice.
-
-This policy covers the following Dun & Bradstreet websites:  [dnb.com](https://www.dnb.com/), [DandB.com](https://www.dandb.com/index.html), [accesstocapital.com](http://accesstocapital.com/), [products.dandb.com](https://www.dandb.com/index.html), [dandbeducation.com](http://dandbeducation.com/), [companyupdate.com](https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1), [EdAhead.org](http://edahead.org/), [education.dandb.com](http://education.dandb.com/), [CreditSignal.com](https://www.creditsignal.com/), [businesscredit.dnb.com](https://businesscredit.dnb.com/), [creditreports.dnb.com](https://businesscredit.dnb.com/), [b2b.dnb.com](https://b2b.dnb.com/), [dnb.com/mktsem/microsite-business-credit-solutions.html](https://www.dnb.com/mktsem/microsite-business-credit-solutions.html), [cart.dnb.com](http://cart.dnb.com/), [hoovers.com](http://www.hoovers.com/); [sales.hoovers.com](https://www.dnb.com/), [yourhoovers.com](http://yourhoovers.com/), and [products.hoovers.com](http://www.hoovers.com/), [mdreducation.com](https://web.archive.org/products/marketing-sales/mdr-integrated-education-marketing.html), [ednetconference.com](http://ednetconference.com/).
+This policy covers the following Dun & Bradstreet websites: [dnb.com](https://www.dnb.com/), [DandB.com](https://www.dandb.com/index.html), [accesstocapital.com](http://accesstocapital.com/), [products.dandb.com](https://www.dandb.com/index.html), [dandbeducation.com](http://dandbeducation.com/), [companyupdate.com](https://www.dandb.com/product/companyupdate/companyupdateLogin?execution=e1s1), [EdAhead.org](http://edahead.org/), [education.dandb.com](http://education.dandb.com/), [CreditSignal.com](https://www.creditsignal.com/), [businesscredit.dnb.com](https://businesscredit.dnb.com/), [creditreports.dnb.com](https://businesscredit.dnb.com/), [dnb.com/mktsem/microsite-business-credit-solutions.html](https://www.dnb.com/mktsem/microsite-business-credit-solutions.html), [cart.dnb.com](http://cart.dnb.com/), [hoovers.com](http://www.hoovers.com/); [sales.hoovers.com](https://www.dnb.com/), [yourhoovers.com](http://yourhoovers.com/), <https://www.dnb.com/solutions/government.html>, and [products.hoovers.com](http://www.hoovers.com/), [mdreducation.com](https://www.dnb.com/products/marketing-sales/mdr-integrated-education-marketing.html), [ednetconference.com](http://ednetconference.com/).
 
 These sites may provide links to other U.S. Dun & Bradstreet websites, non-U.S. Dun & Bradstreet websites and non-Dun & Bradstreet websites that may have different privacy notices. We encourage you to carefully read the online privacy notices of these other websites to ensure that you understand their practices and the relevant distinctions.
 
 Back to Top
 
-### What information we collect
+### What Information We Collect
 
 _Products and Services_
 
-Dun & Bradstreet collects information on businesses and business professionals. We collect information offline from business owners and principals, from businesses' creditors, vendors, third parties and suppliers, and from public records such as business registrations, Uniform Commercial Code filings and bankruptcy filings. MDR collects information on educational institutions and professionals. Dun & Bradstreet has a right to publish information on businesses that may be a factor in our customers’ decision making involving credit, insurance, marketing and other activities. The business information that we collect includes the following:
+Dun & Bradstreet collects information on businesses and business professionals. This includes information we collect offline from business owners and principals, from businesses' creditors, vendors, third parties and suppliers, and from public records such as business registrations, Uniform Commercial Code filings and bankruptcy filings. MDR collects information on educational institutions and professionals. Dun & Bradstreet has a right to publish information on businesses that may be a factor in our customers’ decision making involving credit, insurance, marketing and other activities. The business information that we collect includes the following:
 
-Company and business professional information, including business contact information such as name, title, address, phone number, fax number, and e-mail address, domain names, and trade associations. In the United States we collect a limited amount of non-business personal information on business individuals (such as a personal, non-business email address) to increase the accuracy of our business contact information, but we never publish such information in any of our business products or solutions. In addition, we corroborate and build business contact emails by way of various verification methods and data points;
+Company and business professional information, including business contact information such as name, title, address, phone number, fax number, and e-mail address, domain names, FEIN numbers, trade associations, utility bills, incorporation and tax records and information on minority owned and veteran owned businesses. In the United States we collect a limited amount of non-business personal information on business individuals (such as a personal, non-business email address) to increase the accuracy of our business contact information, but we never publish such information in any of our business products or solutions. In addition, we corroborate and build business contact emails by way of various verification methods and data points;
 
 Detailed company profiles and statistics, including number of employees;
 
-Background information regarding company management, such as beneficial ownership/persons of significant control, the educational and career histories of company principals;
+Background information regarding company management, such as beneficial ownership/persons of significant control, the educational and career histories of company principals, adverse media history including but not limited to any history of criminal acts or misconduct;
 
 Company operational histories, including territories, subsidiaries, affiliates, and lines of business;
 
@@ -49,9 +48,11 @@ Educational institutional profiles and statistics, including educational subject
 
 Background information regarding educational institutional management, such as the educational and career histories of school deans and principals;
 
-IP addresses, geolocation, comments on social media is collected and aggregated and used to analyze trends regarding Dun & Bradstreet products and services and to increase accuracy of our business data sets, as well as to assist us in matching IP addresses to business contact information.
+IP addresses, geolocation, comments on social media are collected and aggregated and used to analyze trends regarding Dun & Bradstreet products and services and to increase accuracy of our business data sets, as well as to assist us in matching IP addresses to business contact information.
 
 Credit/debit card information in order to process certain customer payments.
+
+Other, similar types of data.
 
 **Personal Information You Provide Through Websites** : includes name, address, telephone number, social media handle, email address, employer, job title. We collect personal information from website visitors and when you purchase products and services through our website, apply for Dun & Bradstreet D-U-N-S® Number; subscribe to email newsletters and alerts, fill out a form to request additional information; participate in Community Forums; enter a contest; fill out a survey; access video content; receive free incentives.
 
@@ -61,7 +62,7 @@ PLEASE NOTE: Your registration information and/or any information collected by D
 
 When you sign up to participate in D&B hosted blogs, tutorials, and social media, we will collect personally identifiable information in order to establish your profile. You may choose to make public certain individual profile elements, in which case that information will be available to visitors and possibly to other users of the Internet. Any information that you submit and post may likewise be available to website visitors and viewable to anyone online. Your blog postings will be associated with your username and your voluntarily created public profile. Violation of our Terms of Use agreement may result in the removal of your post(s) and/or the termination of your membership.
 
-**Information Collected Automatically Through Computer Tracking** : We also collect information about website visitors such as IP address, browser type, or operating system, areas of the website visited and the website from which a visitor came. We collect and analyze this information for the continued improvement of the Products, Websites, and our business. We routinely use this web log information to administer and improve our website.  While some of this information may be traceable to an individual, we only seek to identify individuals (i) whom we believe are using our website for improper purposes, (ii) when necessary to assist them with their user experience, (iii) or to otherwise use the information as described in this policy.
+**Information Collected Automatically Through Computer Tracking** : We also collect information about website visitors such as IP address, browser type, or operating system, areas of the website visited and the website from which a visitor came. We collect and analyze this information for the continued improvement of the Products, Websites, and our business. We routinely use this web log information to administer and improve our website. While some of this information may be traceable to an individual, we only seek to identify individuals (i) whom we believe are using our website for improper purposes, (ii) when necessary to assist them with their user experience, (iii) for marketing purposes, including third party marketing , (iv) or to otherwise use the information as described in this policy.
 
 Dun & Bradstreet analyzes IP addresses of visitors to our websites and match business information from our various databases and received from third parties against the IP addresses to learn more about what types of businesses are visiting our websites and the browsing preferences of such businesses on our websites. We use the information derived from these analytical activities, which may be combined with non-personally identifiable behavioral information received from third parties, to better model and refine our general marketing activities and may, from time to time and to the extent permitted by law, directly market our products and services to these businesses based on the information we have learned about their browsing activities while on our websites.  In addition, Hoover’s analyzes IP addresses from Hoover’s products users to match business information from our various databases and received from third parties against users’ IP addresses for our internal analytical purposes which helps us to increase the accuracy of the information in our various business information databases.
 
@@ -69,24 +70,32 @@ Dun & Bradstreet analyzes IP addresses of visitors to our websites and match bus
 
 Dun & Bradstreet does not respond to Do Not Track Signals.
 
+### Our Purpose for Collecting Information  
+
+
+D&B collects personal information so that we can supply commercial data about organizations to other organizations. Our purpose is to enable businesses to manage their financial risks, protect against fraud and dishonesty, know who they are doing business with, meet their compliance and regulatory obligations and better understand organizations, industries and markets.
+
+We also collect personal information so that we can license and sell professional business contact information for marketing and data management purposes.  
+
+
 ### How Do We Use and Share Information?
 
 Dun & Bradstreet uses the information that we collect to operate our websites, offer customers a variety of business information products and services for use in making business credit, risk management, supplier, and marketing decisions, and to carry out transactions that you request or authorize. Dun & Bradstreet also licenses professional business contact information to authorized resellers and third party businesses for marketing and data management purposes.
 
-We may use your professional business contact information to match it with other public and private sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Dun & Bradstreet and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising by following the instructions in the section below entitled " What are your choices regarding Cookies ".  
+We may use your professional business contact information to match it with other public and private sources in order to create anonymous segments of information (this is non-personally identifying information, such as demographic, behavioral and technical information, extracted from the underlying Data) for use by Dun & Bradstreet and/or third parties to target advertising messages to you on third party sites and services. Such segments do not reveal or contain your personal information. You may opt-out from certain targeting advertising by following the instructions in the section below entitled "What are your choices regarding Cookies".  
 
 
-Hoover's maintains a separate professional contacts directory in which your company and individual business contact information may be listed. Hoover's licenses business and professional contact information to authorized resellers and third party businesses for marketing purposes. Aggregated website visitor data may be used to determine usage patterns or interests of visitors to the website and users of our products, or for purposes related to technical support or security of the website, products and computer systems. Usage information, such as number of reports, types of reports and functions accessed by a particular UserID, may be tracked within the products. We do this to monitor authorized usage of the products, respond to questions from the user, for market research, and to improve the design and functionality of the products. We may also aggregate corporate or industry information accessed by all of our customers. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the products. We do not correlate the accessed corporate or industry information to a specific user or to a particular organization.
+D&B Hoovers maintains a separate professional contacts directory in which your company and individual business contact information may be listed. Hoover's licenses business and professional contact information to authorized resellers and third party businesses for marketing purposes. Aggregated website visitor data may be used to determine usage patterns or interests of visitors to the website and users of our products, or for purposes related to technical support or security of the website, products and computer systems. Usage information, such as number of reports, types of reports and functions accessed by a particular UserID, may be tracked within the products. We do this to monitor authorized usage of the products, respond to questions from the user, for market research, and to improve the design and functionality of the products. We may also aggregate corporate or industry information accessed by all of our customers. We do this in order to appreciate the types of companies and industries for which our customers require information, which in turn improves the quality of the products. We do not correlate the accessed corporate or industry information to a specific user or to a particular organization.
 
 Dun & Bradstreet shares information with third party service providers, such as credit card processors, auditors, attorneys, consultants, live help/chat providers and contractors, in order to support Dun & Bradstreet's Internet websites and business operations. Dun & Bradstreet contractually requires that these recipients only use the information for the intended purpose of the disclosure and that they destroy or return the information when it is no longer needed. We may also disclose the information as required or appropriate in order to protect our website, business operations or legal rights, or in connection with a sale or merger involving Dun & Bradstreet assets or businesses.
 
-From time to time, Dun & Bradstreet compiles online and offline transaction and registration information for internal analyses, such as market research, quality assurance, customer experience, and operational benchmarking initiatives.
+From time to time, Dun & Bradstreet compiles online and offline transaction and registration information for internal analyses, such as market research, quality assurance, customer experience, and operational benchmarking initiatives. D&B may use IP address information collected from customers for analytical purposes and in some of our products and services.
 
 When necessary or appropriate, we may disclose information in response to a court order, subpoena, law enforcement proceeding, regulatory inquiry or when otherwise legally required. Also, be advised that Dun & Bradstreet sometimes receives requests (e.g., court order, subpoena, law enforcement proceeding,) for personal information from public authorities to meet national security or law enforcement requirements. In responding those requests D&B's response will be limited (a) to the extent necessary to meet national security, public interest, or law enforcement requirements or (b) by statute, government regulation or case law that creates conflicting obligations or explicit authorizations.
 
 ### Collection of Sensitive Personally Identifiable Information
 
-Dun & Bradstreet may collect sensitive personally identifiable information ("SPI") associated with certain customers or customers' clients, such as individuals' Social Security Numbers and dates of birth, in order to provide certain product and service offerings.  We will only collect this SPI if it is necessary to fulfill certain product orders and only when voluntarily provided by the customer.  We will only use it for the limited, permissible purpose for which it is collected and we will take commercially reasonable steps to adequately secure the information. We may also share this SPI with trusted third parties for the limited, permissible purpose of fulfilling the associated product orders.
+Dun & Bradstreet may collect sensitive personally identifiable information ("SPI") associated with certain customers or customers' clients, such as individuals' Social Security Numbers and dates of birth, in order to provide certain product and service offerings.  We will only collect this SPI if it is necessary to fulfill certain product orders and only when voluntarily provided by the customer.  We will only use it for the limited, permissible purpose for which it is collected and we will take commercially reasonable steps to adequately secure the information. We may also share this SPI with trusted third parties for the limited, permissible purpose of fulfilling the associated product orders. Additionally, sometimes data subjects will send us sensitive personally identifiable information without our asking. When we become aware of this, we will delete the sensitive personally identifiable information. 
 
 Back to Top
 
@@ -172,9 +181,9 @@ To help ensure data quality and accuracy, Dun & Bradstreet provides businesses o
 
 To obtain a copy of your company’s business report or your information or, to correct or update your information:
 
-Dun & Bradstreet Customer Service at 1-800-234-3867 or send an email to  _[custservprivacy@dnb.com](mailto:custservprivacy@dnb.com)_
+Dun & Bradstreet Customer Service at 1-800-234-3867 or send an email to [custservprivacy@dnb.com](mailto:custservprivacy@dnb.com)
 
-Hoovers/Avention: Customer Support at 1-800-486-8666 or by sending an e-mail to  _[customersupport@hoovers.com](mailto:customersupport@hoovers.com)_
+Hoovers/Avention: Customer Support at 1-800-486-8666 or by sending an e-mail to [customersupport@hoovers.com](mailto:customersupport@hoovers.com)
 
 When a business owner or principal contacts Dun & Bradstreet about a potential data error, we promptly investigate the issue, confirm the information in question, correct verified inaccuracies or delete any personal information within such business information if required by law, and respond to the original inquiry. In such a case, we may apply a "stop distribution" order regarding the relevant business report, as well as ancillary products that may be affected by the verified inaccuracy, until the matter is properly resolved. When the investigation is complete, we will also send a correction or deletion notice to businesses or others whom we know to have received the inaccurate data, as appropriate. However, some third parties and third party sites may continue to display inaccurate Data until their databases and display of data are refreshed in accordance with their update schedules.
 
@@ -206,11 +215,11 @@ Dun & Bradstreet will retain your information for as long as your account is act
 
 Dun & Bradstreet websites, products and services are for business purposes only. They are not targeted, intended or expected to be of use to children. User provided contributions of content or contact information regarding or about children are expressly prohibited.
 
-### Changes To Data Privacy Practices
+### Changes to Data Privacy Practices
 
 If we make material changes to our data privacy practices, this policy will be updated and posted on our website in order to keep you informed of how we collect, use, manage, disclose, and protect information. The policy effective date will be updated accordingly.
 
-### Your Use of Our Website is Consent
+### Your Use of Our Website Is Consent
 
 By using our website, you hereby consent to our collection, use, management, retention, and disclosure of your information as described in this policy.
 
@@ -231,15 +240,15 @@ Dun & Bradstreet also complies with EU/EEA to US cross border transfer requireme
 
 ### Dispute Resolution
 
-This dispute resolution program covers both offline Data collection (e.g. personal information collected through our call centers or via postal mail) and online Data collection (e.g. personal information collected via the Internet). If you are a citizen of the EU and you have any complaints regarding our compliance with relevant aspects of the Data transfer laws and regulations surrounding Data transfers from the EU you should contact us at: _[EUDPO@dnb.com](mailto:eudpo@dnb.com)_ or _[customerhelp@dnb.co.uk](mailto:eudpo@dnb.com)_.
+This dispute resolution program covers both offline Data collection (e.g. personal information collected through our call centers or via postal mail) and online Data collection (e.g. personal information collected via the Internet). If you are a citizen of the EU and you have any complaints regarding our compliance with relevant aspects of the Data transfer laws and regulations surrounding Data transfers from the EU you should contact us at: [EUDPO@dnb.com](mailto:eudpo@dnb.com).
 
-If you are not a citizen of the EU and you have a question or concern regarding Dun & Bradstreet's data privacy practices, please contact the Chief Privacy Officer at _[privacyofficer@dnb.com](mailto:privacyofficer@dnb.com)_ or call the Customer Service center at 1-800-234-3867 or send an email to& _[custservprivacy@dnb.com](mailto:custservprivacy@dnb.com)_. We will do our best to resolve any complaints or issues as quickly as possible.
+If you are not a citizen of the EU and you have a question or concern regarding Dun & Bradstreet's data privacy practices, please contact the Chief Privacy Officer at [privacyofficer@dnb.com](mailto:privacyofficer@dnb.com) or call the Customer Service center at 1-800-234-3867 or send an email to& [custservprivacy@dnb.com](mailto:custservprivacy@dnb.com). We will do our best to resolve any complaints or issues as quickly as possible.
 
 If we cannot resolve your complaints, you may have rights to independent dispute resolution or arbitration under certain circumstances as described below in the sections titled “Independent Dispute Resolution” and “Arbitration.”
 
 ### Independent Dispute Resolution
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may invoke binding arbitration under certain circumstances. Please contact our U.S.-based third party dispute resolution provider (free of charge) at  _<https://feedback-form.truste.com/watchdog/request>_ , and the section below titled “Arbitration.”
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may invoke binding arbitration under certain circumstances. Please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>, and the section below titled “Arbitration.”
 
 ### Arbitration
 
@@ -266,11 +275,8 @@ EU Data Protection Officer at [EUDPO@dnb.com](mailto:EU%20Data%20Protection%20Of
 ### Effective Date:   
 
 
-Effective Date of this Privacy Notice: February 15, 2019   
+Effective Date of this Privacy Notice: October 14, 2019 
 
+This update to the Privacy Notice incorporates minor updates to the type of information collected by Dun & Bradstreet and how it is used and the addition of a new legal entity.
 
-This update to the Privacy Notice incorporates guidance from the EU-U.S. Privacy Shield Framework regarding the withdrawal of the United Kingdom from the European Union, as well as updates the type of information collected by Dun & Bradstreet and how it is used. This update also clarified that this Privacy Notice does not apply to data collected by or products and solutions sold by Dun & Bradstreet legal entities based in the People’s Republic of China on Chinese residents.   
-
-
-This Privacy Notice was previously updated October 8, 2018.   
-
+This Privacy Notice was previously updated February 15, 2019. 
