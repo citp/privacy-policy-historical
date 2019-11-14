@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcrisk.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518003259id_/https%3A//www.pcrisk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcrisk.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114210219id_/https%3A//www.pcrisk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -67,3 +67,18 @@ If there are any questions regarding this privacy policy you may contact us usin
 info@pcrisk.com
 
 **Thank You for using our site!**
+
+Malware activity
+
+**Global virus and spyware activity level today:**
+
+[](https://www.pcrisk.com/global-threat-level "Virus level - more info")  
+**Medium**
+
+Increased attack rate of infections detected within the last 24 hours.
+
+Virus and malware removal
+
+This page provides information on how to avoid infections by malware or viruses and is useful if your system suffers from common spyware and malware attacks.
+
+[Learn about malware removal](https://www.pcrisk.com/how-to-remove-spyware "Malware removal help")
