@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almasdarnews.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415225403id_/https%3A//www.almasdarnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almasdarnews.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114113051id_/https%3A//www.almasdarnews.com/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ Al Masdar News may change this policy from time to time by updating this page. Y
 
 ### What we collect
 
-**We may collect the following information:**
+ **We may collect the following information:**
 
   * name and job title
   * contact information including email address
@@ -18,7 +18,7 @@ Al Masdar News may change this policy from time to time by updating this page. Y
 
 
 
-**What we do with the information we gather**  
+ **What we do with the information we gather**  
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
   * Internal record keeping.
@@ -28,10 +28,10 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-**Security**  
+ **Security**  
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**  
+ **How we use cookies**  
 _A cookie is a small file which asks permission to be placed on your computer’s hard drive._  
 Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.  
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.  
@@ -42,7 +42,7 @@ _This may prevent you from taking full advantage of the website._
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any  
 information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Controlling your personal information**
+ **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
@@ -56,3 +56,7 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to it@almasdarnews.com.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+## Third Parties
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: [http://www.networkadvertising.org/managing/opt_out.asp](https://www.networkadvertising.org/managing/opt_out.asp)
