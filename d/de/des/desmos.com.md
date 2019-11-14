@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desmos.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621030445id_/https%3A//www.desmos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desmos.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114170227id_/https%3A//www.desmos.com/privacy) for the most accurate reproduction.*
 
 # Desmos | Privacy Policy
 
@@ -60,7 +60,7 @@ We care about the security of your information and employ physical, administrati
 
 ## 6\. Children’s Privacy
 
-Our Service is not directed to children under 13, unless and until a School has provided consent and authorization for a student under 13 to use the Service and for Desmos to collect information from such student. If you believe that we have inadvertently collected Personal Data from a child under 13 years of age without parental consent, then please alert us at [support@desmos.com](https://web.archive.org/web/20190621030445id_/https%3A//www.desmos.com/support@desmos.com) and we will promptly delete the child's Personal Data from our systems.
+Our Service is not directed to children under 13, unless and until a School has provided consent and authorization for a student under 13 to use the Service and for Desmos to collect information from such student. If you believe that we have inadvertently collected Personal Data from a child under 13 years of age without parental consent, then please alert us at [support@desmos.com](https://web.archive.org/web/20191114170227id_/https%3A//www.desmos.com/support@desmos.com) and we will promptly delete the child's Personal Data from our systems.
 
 ## 7\. For Our International Users
 
