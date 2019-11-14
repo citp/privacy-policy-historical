@@ -1,69 +1,51 @@
-> *The following text is extracted and transformed from the mountainside.com privacy policy that was archived on 2015-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151229115428id_/http%3A//www.mountainside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountainside.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114201338id_/https%3A//mountainside.com/notice-of-privacy-practices) for the most accurate reproduction.*
 
-# Privacy Policy | Mountainside
+# Notice of Privacy Practices
 
-## What information do we collect?
+### General Information
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey, fill out a form or CHAT WITH LIVE OPERATOR. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+Information regarding your health care, including payment for health care, is protected by two federal laws: the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”), 42 U.S.C. Sec. 1320d et seq., 45 C.F.R. Parts 160 and 164, and the Confidentiality Law, 42 U.S.C. Sec. 290 dd-2, 42 C.F.R. Part 2. Under these laws, Mountainside may not say to a person outside Mountainside that you attend the program, nor may Mountainside disclose any information identifying you as an alcohol or drug abuser, or disclose any other protected information except as permitted by federal law.
 
-## What do we use your information for?
+Mountainside must obtain your written consent before it can disclose information about you for payment purposes. For example, Mountainside may obtain your written consent before it can disclose information to your health insurer in order to be paid for services. Generally, you must also sign a written consent before Mountainside can share information for treatment purposes or for your health care operations. However, federal law permits Mountainside to disclose information without your written consent:
 
-Any of the information we collect from you may be used in one of the following ways:
+  * Pursuant to an agreement with a qualified service organization/business associate;  
 
-To personalize your experience (your information helps us to better respond to your individual needs)
+  * To report a crime committed on Mountainside’s premises or against Mountainside’s personnel;  
 
-To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To medical personnel in a medical emergency;  
 
-## To process transactions
+  * To appropriate authorities to report suspected child abuse or neglect;  
 
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. To administer a contest, promotion, survey or other site feature To send periodic emails The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+  * As allowed by court order.  
 
-## How do we protect your information?
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-## Do we use cookies?
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+Before Mountainside can use or disclose any information about your health in a manner which is not described above, it must first obtain your specific written consent allowing it to make the disclosure. Any such written consent may be revoked by you in writing.
 
-## Do we disclose any information to outside parties?
+### Your Rights
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Under HIPAA you have the right to request restrictions on certain uses and disclosures of your health information. Mountainside is not required to agree to any restrictions you request, but if it does agree then it is bound by that agreement and may not use or disclose any information which you have restricted except as necessary in a medical emergency.
 
-## California Online Privacy Protection Act Compliance
+Under HIPAA you have the right to inspect and copy your own health information obtained by Mountainside except to the extent that the information contains psychotherapy notes or information compiled for use in a civil, criminal, administrative proceeding or in other limited circumstances.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Under HIPAA you also have the right, with some exceptions, to amend health care information maintained in Mountainside’s records, and to request and receive and accounting of disclosures of your health related information made by Mountainside during the six years prior to your request. You also have the right to receive a paper copy of this notice.
 
-## Childrens Online Privacy Protection Act Compliance
+### Mountainside Duties
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Mountainside is required by law to maintain the privacy of your health information and to provide you with notice of its legal duties and privacy practices with respect to your health information. Mountainside is required by law to abide by the terms of this notice. Mountainside reserves the right to change the terms of this notice and to make new notice provisions effective for all protected information it maintains. All requests should be made in writing to the contact listed as the bottom of this notice.
 
-## Online Privacy Policy Only
+### Complaints and Reporting Violations
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+You may complain to Mountainside and the Secretary of the United States Department of Health and Human Services if you believe that your privacy rights have been violated under HIPAA. You may complain to us in writing using the information listed in this form. At your request we will also provide you with the address of the US Department of Health and Human Services. We support your right to the privacy of your health information. You will not be retaliated against for filing such a complaint.
 
-## Terms and Conditions
+Violation of the Confidentiality Law by a program is a crime. Suspected violations of the Confidentiality Law may be reported to the United States Attorney in the district where the violation occurred.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.Mountainside.com/](https://web.archive.org/)
+### Contact
 
-## Your Consent
-
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
-
-## Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page.
-
-## Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-[http://www.Mountainside.com](https://web.archive.org/ "http://www.Mountainside.com")  
-187 South Canaan Road  
+For further information, contact:  
+ **Mountainside Privacy Officer**  
+187 Route 7, Box 717  
 Canaan, CT 06018  
-United States  
-[info@mountainside.com](mailto:info@mountainside.com)  
-(800) 762-5433
-
-This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm).
+ **Phone:** 860-824-1397  
+ **Fax:** 888-749-8752
