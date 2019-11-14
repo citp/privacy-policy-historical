@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utdol.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605070512id_/https%3A//www.uptodate.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utdol.com privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114114319id_/https%3A//www.uptodate.com/home/privacy-policy) for the most accurate reproduction.*
 
 # Wolters Kluwer Clinical Effectiveness Privacy Policy | UpToDate
 
