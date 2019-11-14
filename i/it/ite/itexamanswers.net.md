@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the itexamanswers.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331195807id_/https%3A//itexamanswers.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itexamanswers.net privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114062617id_/https%3A//itexamanswers.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy
-
-3 (5) votes 
 
 At **CCNAv6.com** the privacy of our visitors is of extreme importance to us (See this article to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by **CCNAv6.com** and how it is used.
 
