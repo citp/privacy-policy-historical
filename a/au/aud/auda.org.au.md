@@ -1,234 +1,193 @@
-> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414210325id_/https%3A//www.auda.org.au/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auda.org.au privacy policy that was archived on 2019-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191114020405id_/https%3A//www.auda.org.au/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » auDA
 
-## BACKGROUND
+[Download PDF Version](https://www.auda.org.au/assets/Uploads/auDA-Privacy-Policy.pdf)
 
-#### Published 28 August 2017
+Background
 
-.au Domain Administration Ltd (ABN 38 079 009 34) (auDA) is committed to protecting privacy, in accordance with the Privacy Act 1988 (Cth) and other applicable privacy legislation.
+Published 16/09/2019
 
-This Privacy Policy explains how auDA collects, uses, discloses and otherwise handles personal information.
+au Domain Administration Ltd (ABN 38 079 009 34) (auDA) recognises the importance of protecting the privacy and the rights of individuals in relation to their personal information.  This document sets out auDA’s privacy policy and tells you how we collect and manage your personal information in the course of performing our functions and activities as the administrator and self-regulatory policy body for the Australian country code top-level domain (.au ccTLD).
 
-### What is personal information?
+We respect your rights to privacy under the Privacy Act 1988 (Cth) (Act) and other applicable laws that protect your privacy. We are committed to complying with these laws including in particular the Australian Privacy Principles (APPs) which are set out in the Act and regulate how we must handle your personal information.
 
-“Personal information” means information or an opinion, whether true or not and whether recorded in a material form or not, about an individual who is either identified or reasonably identifiable. 
+## What is personal information?
 
-### Applicable legislation
+The Act provides for the protection of “personal information” which is information or an opinion, whether true or not and whether recorded in a material form or not, about an individual who is either identified or reasonably identifiable. When used in this privacy policy, the term “personal information” has the meaning given to it in the Act. In general terms, it is any information that can be used to personally identify you.  If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information.
 
-auDA is required to comply with the Australian Privacy Principles (APPs) in the Privacy Act.  The APPs regulate how personal information is handled throughout its lifecycle, from collection to use and disclosure, storage, accessibility and disposal.
+## What personal information do we collect and hold?
 
-### Employee records
+The types of personal information we may collect about you include:
 
-auDA is generally exempt from the Privacy Act when we collect and handle employee records and this Privacy Policy does not apply to that information.  However, the Privacy Act still applies to personal information about job applicants, and contractors and State Health Privacy Law still requires us to protect the privacy of employee health information.
+  * name;
+  * mailing or street address;
+  * email address;
+  * telephone number;
+  * payment details;
+  * age or birth date;
+  * profession, occupation or job title;
+  * IP Address;
+  * any additional information relating to you that you provide to us directly through our websites or indirectly through use of our websites or online presence, through our representatives or otherwise;
+  * information you provide to us through our Compliance Department or membership surveys;
+  * information collected through cookies or tracking technologies (including IP address);
+  * any other information collected to become an accredited registrar or reseller
+  * any other information collected for an auDA event
+  * any other information collected as part of a submission for Policy change
+  * any other information collected as part of a job application; and
+  * any other information collected for a new employee.
 
-## TYPE OF PERSONAL INFORMATION COLLECTED BY auDA
 
-The type of personal information that auDA collects about you depends on the type of dealings you have with us. For example, if you:
 
-a)     tender to become a registry operator, we will collect the name and contact details of the applicant's contact person, the names of all directors, officers and senior management staff of the applicant and the name and contact details of a contact person at the applicant's bank or financial institution;
+We may also collect some information that is not personal information because it does not identify you or anyone else.  For example, we may collect anonymous answers to surveys or aggregated information about how users use our website.
 
-b)    apply to become an auDA Accredited Registrar, we will collect the name and contact details of the applicant's contact person, the names of all directors, officers and senior management staff of the applicant and the name and contact details of a contact person at the applicant's bank or financial institution;
+## Sensitive information
 
-c)     are notified to us as a reseller of an auDA Accredited Registrar, we will collect your name and contact details from the registrar that appointed you;
-
-d)    apply to become a member of auDA, we will collect your name, postal address, contact details, membership class and payment details;
-
-e)     make a complaint (or are the subject of a complaint) under auDA’s Complaints Policy, we will collect your name and contact details and information about the substance, progress and outcome of the complaint;
-
-f)      send us an enquiry or provide us with feedback, we may collect your name, contact details, details of your enquiry or feedback and information about our response;
-
-g)    send us a submission as part of a policy consultation process that we are conducting, we will collect your name, contact details and details of your submission;
-
-h)    participate in a survey in relation to the .au domain, we will collect your name, contact details and the responses you provide to our survey questions;
-
-i)      apply for an auDA Foundation grant, we will collect your name, contact details, details of your application and information about our response;
-
-j)      register to attend an event hosted by us, auDA will collect your name, contact details and payment details;
-
-k)     apply for a job with auDA, we will collect the information you include in your job application, including your cover letter, resume, contact details and referee reports; and
-
-l)      access the auDA website, we will collect your Internet Protocol (IP)address
-
-#### Sensitive information
-
-“Sensitive information” is a subset of personal information that is generally afforded a higher level of privacy protection, such as health information and information about an individual’s criminal record. auDA only collects sensitive information where it is reasonably necessary for our functions or activities and either: 
+Sensitive information is a subset of personal information that is generally afforded a higher level of privacy protection, such as health, racial or criminal record information. auDA only collects sensitive information where it is reasonably necessary for our functions or activities and either:
 
   * the individual has consented; or
-  * we are required or authorised by or under law (including applicable privacy legislation) to do so. 
+  * we are required or authorised by or under law (including applicable privacy legislation) to do so.
 
 
 
-For example, we may collect information about whether the directors, officers or relevant staff of an applicant for registry operator appointment or registrar accreditation have been convicted of a criminal offence.
+For example, we may collect information about whether the directors, officers or relevant staff of a registry operator appointment or registrar accreditation have been convicted of a criminal offence.
 
-## HOW auDA COLLECTS PERSONAL INFORMATION
+## How auDA Collects Personal Information
 
-auDA collects personal information in a number of ways, including:
+We collect your personal information directly from you unless it is unreasonable or impracticable to do so.  When collecting personal information from you, we may collect it in various ways including:
 
-a)     through our websites;
+  * when you complete your Associate Membership application;
+  * when you complete an application to become an accredited registrar or reseller;
+  * when you apply to attend an auDA event;
+  * when you participate in an auDA submission for policy change;
+  * through your access and use of our website;
+  * written communications;
+  * during conversations between you and our representatives;
+  * recordings of auDA public forums;
+  * auDA Foundation grant applications;
+  * job applications; and
+  * new employee onboarding.
 
-b)    on hard copy forms;
 
-c)     over the telephone;
 
-d)    in person;
+We may also collect personal information from third parties including:
 
-e)     through written communications (including letter, fax and email); and
+  * from third party companies such as credit reporting agencies, law enforcement agencies, other government entities, and contractors or subcontractors acting on our behalf; and
+  * your employer, where you are nominated as a contact for the entity as part of an application, submission or other communication.
 
-f)      from third parties, including:
 
-  * the registry and registrars;
-  * third parties contacted by auDA to verify the information contained in applications; and
-  * third parties contacted by auDA where relevant to our complaints handling processes.
 
+### Cookies
 
+In some cases, we may also collect your personal information through the use of cookies.  When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer.  This enables us to recognise your computer and greet you each time you visit our website without bothering you with a request to register.  We also use cookies to measure traffic patterns, to determine which areas of our website have been visited.  We use this to research our users’ habits so that we can improve our online services.  If you do not wish to receive cookies, you can set your browser so that your computer does not accept them.
 
-## PURPOSES OF COLLECTION
+We may log IP addresses (that is, the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track user movements, and gather broad demographic information.
 
-auDA collects personal information about you for the purpose of administering and managing the .au domain space. 
+## What happens if we can’t collect your personal information?
 
-auDA may collect personal information to:
+If you do not provide us with the personal information described above, some or all of the following may happen:
 
-a)     appoint and license registry operators; 
+  * we may not be able to provide you with an Associate Membership to auDA;
+  * we may not be able to provide you with updated information about auDA and the .au namespace;
+  * we may be unable to tailor the content of our websites to your preferences and your experience of our websites may not be as enjoyable or useful;
+  * we may not provide you with accreditation as a registrar;
+  * we may not be able to assist you in addressing your complaint or general enquiry; and
+  * we may not be able to provide you with other services that you may request.
 
-b)    accredit and license registrars;
 
-c)     maintain publicly available online databases, including:
 
-  * a public Reseller Search Tool containing the names of resellers that have been appointed by a registrar, and
-  * auDA’s Membership List, containing the name and membership class 
+## For what purposes do we collect, hold, use and disclose your personal information?
 
+We collect personal information about you so that we can provide you with services that you request, perform our business activities and functions and provide the best possible quality of customer service.
 
+We collect, hold and use your personal information for the following purposes:
 
-d)    conduct policy consultation processes; 
+  * to keep you informed of auDA Membership related news and events;
+  * to accredit and license registrars;
+  * to process applications for the auDA Foundation;
+  * to conduct policy consultation processes;
+  * to consider applications for employment;
+  * to answer enquiries and provide information or advice about existing and new products or services;
+  * to assess the performance of the website and improve the operation of the website;
+  * to update our records and keep your contact details up to date;
+  * to process and respond to any complaint or general enquiry made by you;
+  * to collect feedback about our products, services, website, policies and processes, including about our complaints handling processes; and
+  * to comply with any law, rule, regulation, lawful and binding determination, decision or direction of a regulator, or in co-operation with any governmental authority of any country.
 
-e)     administer the .au Dispute Resolution Policy and auDA’s Complaints Policy;
 
-f)      process applications for membership of auDA and administer membership; 
 
-g)    process applications for auDA Foundation grants;
+Your personal information will not be shared, sold, rented or disclosed other than as described in this Privacy Policy.
 
-h)    deal with consumer enquiries and complaints;
+## To whom may we disclose your information?
 
-i)      refer individuals and/or complaints to another regulatory authority;
+We may disclose your personal information to:
 
-j)      canvass stakeholders for their views, opinions and suggestions in relation to the .au domain space; and
+  * our employees, contractors or service providers for the purposes of operation of our website or our business, to fulfil requests by you and to otherwise provide products and services to you including, without limitation, web hosting providers, IT systems administrators, couriers, payment processors, data entry service providers, electronic network administrators, debt collectors, and professional advisors such as accountants, solicitors, business advisors, law enforcement agency and consultants;
+  * Information shared with contractors or serviced providers will be specific to performing tasks on behalf of auDA and will be bound by confidentiality arrangements in place with the respective parties; and
+  * any organisation for any authorised purpose with your express consent.
 
-k)     consider applications for employment with auDA.
 
-auDA will only collect personal information which is reasonably necessary for one or more of our functions or activities.
 
-## USE AND DISCLOSURE OF PERSONAL INFORMATION
+## Direct marketing materials
 
-auDA uses and discloses personal information for the purposes outlined above. As most information is collected directly from the relevant individual, that individual will normally be aware of the purpose of the collection.
+We may send you direct marketing communications and information about our services that we consider may be of interest to you.  These communications may be sent in various forms, including mail, SMS, fax and email, in accordance with applicable marketing laws, such as the Spam Act 2003 (Cth).  You consent to us sending you those direct marketing communications by any of those methods.  If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so.  In addition, at any time you may opt-out of receiving marketing communications from us by contacting us at [privacy@auda.org.au](mailto:privacy@auda.org.au)
 
-auDA may also use or disclose personal information for other purposes explained at the time of collection or where:
+## How can you access and correct your personal information?
 
-a)     the use or disclosure is consented to by you (the individual); 
+You may request access to any personal information we hold about you at any time by contacting us at [privacy@auda.org.au](mailto:privacy@auda.org.au)   Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you).  We may charge you a fee to cover our administrative and other reasonable costs in providing the information to you. We will not charge for simply making the request and will not charge for making any corrections to your personal information.
 
-b)    the use or disclosure of the information is required or authorised by or under an Australian law or court or tribunal order; and 
+There may be instances where we cannot grant you access to the personal information we hold.  For example, we may need to refuse access if granting access would interfere with the privacy of others or if it would result in a breach of confidentiality.  If that happens, we will give you written reasons for any refusal.
 
-c)     we believe that the use or disclosure of the information is reasonably necessary for one or more enforcement related activities conducted by, or on behalf of, an enforcement body.
+If you believe that personal information, we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it.  Amendment requests should be forwarded to [privacy@auda.org.au](mailto:privacy@auda.org.au)
 
-auDA may share personal information with third parties where appropriate for the purposes set out above, including:
+## What is the process for complaining about a breach of privacy?
 
-a)     financial institutions for payment processing; 
+If you believe that your privacy has been breached, please contact our Privacy Officer at [privacy@auda.org.au](mailto:privacy@auda.org.au) and provide details of the concern or incident so that we can investigate it.
 
-b)    referees whose details are provided to auDA by job applicants; and
+We request that complaints about breaches of privacy be made in writing, so we can be sure about the details of the complaint.  Our Privacy Officer deals with privacy complaints and any complaints should be directed to our Privacy Officer at [privacy@auda.org.au](mailto:privacy@auda.org.au).  We will attempt to confirm as appropriate and necessary with you your understanding of the conduct relevant to the complaint and what you expect as an outcome.  We will inform you whether we will conduct an investigation and the estimated completion date for the investigation process.
 
-c)     our contracted service providers, including:     
+After we have completed our enquiries, we will contact you, in writing, to advise the outcome and invite a response to our conclusions about the complaint.  If we receive a response from you, we will assess it and advise if we have changed our view
 
-  * information technology and data storage providers;
-  * function and event organisers
-  * marketing and communications agencies
-  * research and statistical analysis providers
-  * external business advisors (such as recruitment advisors, auditors and lawyers).
+## Do we disclose your personal information to anyone outside australia?
 
+We may disclose personal information to our related third-party service providers located overseas.
 
+We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information.
 
-In each case, auDA may disclose personal information to the service provider and the service provider may in turn provide auDA with personal information collected in the course of providing the relevant products or services.
+We may disclose your personal information to entities located outside of Australia, including the following:
 
-## Mailing Lists
+  * our DNS name server data hosting facilities and other IT service providers which may be located outside of Australia; and
+  * to other third parties which may be located outside of Australia.
 
-auDA may use your personal information to keep you informed and up to date about what is happening at auDA, including events, news and decisions.  Where you have consented to receiving communications from auDA, that consent will remain current until you advise otherwise.  You can opt out at any time.
 
-People who subscribe to one of auDA's mailing lists (such as the auDA Announcements List) may decide at any time to unsubscribe from the list. Instructions for unsubscribing will appear in the footer of all list emails, or you can contact us.
 
-## CROSS BORDER DISCLOSURE OF PERSONAL INFORMATION
+## Security
 
-auDA may disclose personal information to an overseas entity for the purpose of administering and managing the .au domain.  Before auDA discloses personal information about an individual to an overseas entity, we will take such steps as are reasonable to ensure that the overseas entity does not breach the Australian Privacy Principles in relation to that information.
+We take reasonable steps to ensure your personal information is protected from misuse and loss and from unauthorised access, modification or disclosure.  We may hold your information in either electronic or hard copy form.  Personal information is destroyed or de-identified when no longer needed.
 
-However, auDA may disclose personal information to an overseas recipient where we reasonably believe that the overseas recipient is subject to a law or binding scheme, that has the effect of protecting the information in a way that is at least substantially similar to the ways in which the APPs protect the information and mechanisms can be accessed by the individual to enforce that protection of the law or binding scheme.
+As our website is linked to the internet, and the internet is inherently insecure, we cannot provide any assurance regarding the security of transmission of information you communicate to us online.  We also cannot guarantee that the information you supply will not be intercepted while being transmitted over the internet. Accordingly, any personal information or other information which you transmit to us online is transmitted at your own risk.
 
-auDA may also disclose personal information to an overseas entity where that disclosure is required or authorised by or under an Australian law or a court or tribunal order or where the disclosure is reasonably necessary for the establishment, exercise or defence of a legal or equitable claim or for the purposes of a confidential alternative dispute resolution process.
+We maintain a plan and procedures for responding to actual or suspected data security breaches involving personal information in accordance with applicable requirements under the Act.
 
-## PROTECTION OF PERSONAL INFORMATION
+## Links
 
-auDA holds personal information in a number of ways, including in hard copy documents, electronic databases (including databases published online), email contact lists and in paper files held in drawers and cabinets.
+Our website may contain links to other websites operated by third parties.  We make no representations or warranties in relation to the privacy practices of any third-party website and we are not responsible for the privacy policies or the content of any third-party website.  Third party websites are responsible for informing you about their own privacy practices.
 
-auDA endeavours to maintain the security and integrity of all facilities in which personal information is stored. This extends to protecting personal information from misuse, interference and loss, as well as from unauthorised access, modification and disclosure.
+## Contacting us
 
-The steps auDA takes to secure the personal information it holds include website protection measures (such as firewalls and anti-virus software), security restrictions on access to computer systems (such as login and password protection), controlled access to our corporate premises, policies on document storage and security, personnel security (including restricting access to personal information on our systems to staff who specifically require that access to carry out their work responsibilities), staff training and workplace policies.
+If you have any questions about this privacy policy, any concerns or a complaint regarding the treatment of your privacy or a possible breach of your privacy, please use the contact link on our website or contact our Privacy Officer using the details set out below.
 
-Commercially sensitive information (for example, information provided by a prospective registrar for the purpose of accreditation) will held by auDA staff and will not be disclosed to any director of the auDA Board.
+We will treat your requests or complaints confidentially.  Our representative will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved.  We will aim to ensure that your complaint is resolved in timely and appropriate manner.
 
-All personal information will only be retained for a reasonable period of time.
+Please contact our Privacy Officer at:
 
-## ACCESS AND CORRECTION OF PERSONAL INFORMATION
+Privacy Officer, auDA  
+Post:          Level 17, 1 Collins Street, Melbourne 3000 Victoria  
+Tel:            03 8341 4111  
+Email:        privacy@auda.org.au
 
-auDA is committed to processing personal information promptly and accurately. As part of this commitment, individuals may request access to the personal information auDA holds about them and request correction of that information.
+## Changes to our privacy policy
 
-Requests for access or correction should be directed to auDA's Privacy Officer. auDA reserves the right to refuse a request if it is vexatious or frivolous, or if we are legally entitled to do so.
+We may change this privacy policy from time to time.  Any updated versions of this privacy policy will be posted on our website.  Please review it regularly.
 
-## PRIVACY COMPLAINTS
-
-If you have a complaint about how auDA has collected or handled your personal information, please contact us. We will endeavour in the first instance to deal with your complaint and take action to resolve the matter.
-
-If your complaint cannot be resolved at the first instance, we will ask you to lodge a formal complaint in writing, explaining the circumstances of the matter that you are complaining about, how you believe your privacy has been interfered with and how you believe your complaint should be resolved.
-
-auDA will acknowledge receipt of your formal complaint and indicate the timeframe that you can expect a response. auDA will endeavour to resolve the complaint as quickly as possible, but if the matter is complex and our investigation may take longer, we will let you know when we expect to provide our response.
-
-If you are unhappy with auDA's response, you may refer your complaint to the Office of the Australian Information Commissioner or, in some instances, other regulatory bodies, such as the Victorian Health Services Commissioner or the Australian Communications and Media Authority.
-
-## auDA’S CONTACT DETAILS
-
-Please contact auDA if you have any queries about the personal information that we hold about you or the way we handle that personal information. Our contact details are set out below:
-
-**Telephone**  
-
-| 
-
-1300 732 929 (Within Australia)  
-  
----|---  
-| 
-
-+61 3 8341 4111 (International)  
-  
-|   
-  
-**Facsimile**  
-
-| 
-
-+61 3 8341 4112  
-  
-|   
-  
-**Email**
-
-| 
-
-[info@auda.org.au](mailto:info@auda.org.au)  
-  
-|   
-  
-**Address**  
-
-| 
-
-Privacy Officer  
-auDA  
-Level 17, 1 Collins St  
-Melbourne VIC 3000  
-Australia
+This privacy policy was last updated on 16/09/2019.
