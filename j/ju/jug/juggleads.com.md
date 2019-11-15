@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juggleads.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405181240id_/https%3A//www.hover.com/privacy%3Fsource%3Dparked) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juggleads.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115081339id_/https%3A//www.hover.com/privacy%3Fsource%3Dexpired) for the most accurate reproduction.*
 
 # Privacy Policy | Hover.com
 
