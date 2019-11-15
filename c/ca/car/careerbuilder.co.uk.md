@@ -1,99 +1,153 @@
-> *The following text is extracted and transformed from the careerbuilder.co.uk privacy policy that was archived on 2018-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180220230743id_/https%3A//www.careerbuilder.co.uk/uk/jobseeker/info/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.co.uk privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115093035id_/http%3A//www.careerbuilder.co.uk/uk/jobseeker/info/privacy.aspx) for the most accurate reproduction.*
 
 # CareerBuilder.co.uk - Privacy
 
-**Overview**
+**CAREERBUILDER UK LIMITED**
 
-We have created this Privacy Policy to demonstrate our commitment to treating you fairly with regard to your personal information.
+ **Privacy Statement**
 
-This Privacy Policy only applies to personal information gathered by CareerBuilder UK Limited (“CareerBuilder UK”) in connection with the careerbuilder.co.uk web site (the "Site"), and does not apply to any other CareerBuilder company. Please review this Privacy Policy periodically as we may update it from time to time. If we decide to change this Privacy Policy we will post a notice on the homepage alerting you to the change. By using the Site you are consenting to us collecting, using and disclosing your personal information in accordance with the provisions of this Privacy Policy. 
+Effective Date: May 25, 2018
 
-**Personal Information – what we collect and why we collect it**
+This web site is ownedand operated by CareerBuilder UK Limited ("CareerBuilder"). CareerBuildercollects personal and non-personal information on this web site. CareerBuilderis committed to protecting the privacy of its users. We have created this PrivacyStatement in order to describe and explain to users our information collectionpractice. 
 
-We collect personal information so that we can provide the services offered by the Site in an efficient and effective manner. The type of information that we may collect in order to do this includes: your name, your contact details, your date of birth, your gender, your nationality, details of your education and working career, details of your personal interests, details of the debit cards and credit cards that you use for payments, details of your use of our Site, and your IP address.
+**Contact Information**
 
-**Personal Information – how we collect it**
+If you have any questionsor concerns in connection with CareerBuilder's information collection practice describedin this Privacy Statement, please send an email to the Customer Service Center. In the email, please state your questionsor concerns.  Our postal address is:
 
-We collect personal information in the following ways: 
+CareerBuilder UK Limited
 
-  1. by asking you to provide information about yourself;
-  2. by obtaining certain information about you through the use of data collection devices, such as web beacons and cookies;
-  3. by other companies within the CareerBuilder group supplying information about you to us (note that this information will have been supplied to us in compliance with the provisions of the privacy policy notified to you by that company);
-  4. by other persons supplying information about you to us (this could be from any person, company or body but would normally be employers. We would only retain information supplied by other persons if it were relevant to the information that we collect generally under this Privacy Policy and, unless informed by you to the contrary, we would assume that these persons were entitled to supply this information to us).
+The South Quay Building, 
 
+189 Marsh Wall 
 
+London, E14 9SH
 
-**Personal Information – what we do with it**
+ **The Types of Personal DataThat We Collect**
 
-We use your personal information for the following purposes: 
+CareerBuilder collects personaland other data from data subjects in the European Economic Area (“EEA”) whovisit this web site ("EEA Website Visitors") or who are individualrepresentatives of our current, former or prospective corporate customers,suppliers and business partners ("EEA Business Contacts").
 
-  * to inform you of job postings that may be of interest
-  * to provide you with private and secure areas to post and modify your submissions to our Site (such as job requests and CVs)
-  * to send you newsletters and other information related to your interests (where you have agreed to this)
-  * to notify you of new services offered by our Site (where you have agreed to this)
-  * to notify you of any changes to your use of our Site
-  * to analyse the use of our Site in order to improve its content, layout and services
+CareerBuilder may collect the following types ofdata:
 
+·     Name
 
+·     Email addresses
 
-Your personal information will also be made available to the following persons: 
+·     Home and work addresses
 
-  * where you have expressly permitted us to do so in setting or amending your account profile then your personal information will be made available to other users of our Site (please note that CareerBuilder UK is not responsible for what other users subsequently do with your information. Further, given that some users may be employers or recruiting agencies that are based outside the European Economic Area, you should bear in mind that such users may not be subject to type of data protection legislation that applies within the EEA)
-  * where you have provided personal information in an area of the Site that is ‘hosted’ or ‘co-branded’ by another company then that information will be made available to both CareerBuilder UK and the hosting/co-branding company (note that you should review the privacy policy of the hosting/co-branding company to ensure that you are comfortable with how it intends to use and disclose your information. CareerBuilder UK is not responsible for what the hosting/co-branding company subsequently does with your information)
-  * where you have arrived at our Site from the web site of another company in the CareerBuilder group then we may share the information that we collect from you with that affiliate (note that this information will be held by that affiliate in compliance with the provisions of its privacy policy)
-  * where we are taking payment from you for goods or services then we will share with reputable financial institutions and credit reference agencies such of your personal information as is necessary in order to process that payment and prevent the fraudulent use of credit cards etc. (please note that CareerBuilder UK is not responsible for what these institutions and agencies may subsequently do with your information)
-  * where we reasonably determine that it is necessary in order to comply with the law, to cooperate with or seek assistance from law enforcement, to prevent a crime or protect national security, or to protect the interests or safety of CareerBuilder UK or other users of the Site then we may disclose your information to such persons as are relevant for those purposes
-  * where CareerBuilder UK or its assets are subject to a transfer of ownership then your personal information may be transferred to the new owner, but your personal information will continue to be held on the same terms as before
+·     Phone numbers
 
+·     CV
 
+·     Employment history, including job titles and company names
 
-**Personal Information – what we do not do with it**
+·     Education information
 
-We do not make your personal information available to other persons so that they may contact you for marketing or promotional purposes.
+·     Financial information
 
-**Correction and Removal**
+·     Username and password for the accounts established on this web site
 
-At any time you may access any of your personal information held by CareerBuilder UK (i.e. not just the information held as part of your account profile) in order to review, correct or update such information. In order to do so, please [click here]. Please note that we may need you to verify your identity before we process your request.
+·     Job search behavior and preferences, including a record of the searchesthat visitors make on this web site
 
-Further, you may at any time request that we permanently delete all your personal information held by CareerBuilder UK. In order to do so, please [click here]. Following such a request, we will cease to use or make available your personal information (other than where required by law). We will also delete your personal information from our systems with the exception of information that is contained in emails, correspondence and other documents that we may retain as evidence of the terms of the legal relationship between us and you. Please note that we may need you to verify your identity before we process your request.
+·     If a visitor signs in to this web site with a social media account, thatvisitor’s social media ID, social network site profile image URL and otherinformation included in that visitor’s social media profile
 
-**Summary of your rights under the Data Protection Act 1998**
+·     Information about the devices a visitor used to access this web site (suchas the IP address and the device, browser and operating system type and otheroperating system support information)
 
-The Site is operated by CareerBuilder UK. For the purposes of the Data Protection Act 1998, this company is the “data controller” in respect of personal information that we obtain in connection with the Site. CareerBuilder UK hosts and stores your personal information on servers situated in the United States. These servers are owned and maintained by our parent company CareerBuilder, LLC.
+·     Pages and URLs that refer visitors to this web site, and pages and URLsthat visitors exit to once they leave this web site
 
-CareerBuilder, LLC is a Delaware limited liability company with its principal place of business located at 200 North LaSalle St., Suite 1100, Chicago, IL 60601, USA. 
+·     Dates and times of visits to this web site
 
-The website of the Information Commissioner’s Office provides information and assistance with regard to your rights under the Data Protection Act 1998 and related legislation (<http://www.ico.gov.uk/>). Briefly summarised, your principal rights are: 
+·     Information on actions taken on this web site (such as page views, sitenavigation patterns and job view or application activity)
 
-  * the right to find out what information is held about you on computer and in some paper records
-  * the right to take steps to prevent your personal information being processed if the processing is likely to cause you to suffer substantial damage or substantial distress where this is unjustified
-  * the right to require that your personal data is not used to market to you products, services or ideas
-  * the right to prevent decisions being taken about you which are based solely on automatic processing
-  * the right to have inaccurate information about you amended or destroyed
-  * the right to claim compensation where you have suffered damage and distress as a result of breaches of the Data Protection Act
+·     A general geographic location (such as country and city) from which avisitor accesses this web site
 
+·     Search terms that visitors use to reach this web site
 
+CareerBuilder does not seekto collect personal data revealing racial or ethnic origin, political opinions,religious or philosophical beliefs, or trade union membership, or genetic data,biometric data for the purpose of uniquely identifying a natural person, dataconcerning health or data concerning a natural person’s sex life or sexualorientation. 
 
-**Dispute Resolution**
+**Purposes for theProcessing of Personal Data; Legal Basis**
 
-If, at any time, you have questions or concerns regarding this Privacy Policy or believe that we have violated this Privacy Policy, please [click here] and we will attempt to resolve any problem or concern you may have. 
+CareerBuilder processesthe personal data of EU data subjects for the purposes of:
 
-**Making Changes to Your Information or Preferences**
+·     Providing our products and services.
 
-To review, correct, update, change or delete your CareerBuilder UK account profile information or CV at any time, log into your My CareerBuilder account, go to your Account Profile or CV, review your account information or CV and, if you wish, edit or delete it with the options provided (please note that CareerBuilder UK may retain records of your previous account profiles, which will not be accessible by third parties, for audit and recordkeeping purposes). If, at the time of registration or on some other occasion, you have opted into receiving commercial emails or other communications from CareerBuilder UK, you can use this method to opt out of such receipt. Conversely, if you should change your mind and decide that you would prefer to receive such emails from CareerBuilder UK, you can use this method to opt into receipt.
+·     Registering, managing and maintaining user accounts on our website.
 
-**Web Beacons**
+·     Maintaining the CVs posted to this web site and making them available.
 
-CareerBuilder UK web pages may contain electronic images known as web beacons (sometimes called single-pixel gifs) that allow us to count users who have visited those pages and to deliver co-branded services. Web beacons are not used to access your personally identifiable information on CareerBuilder UK and cannot be used by third parties; they are a technique we use to compile aggregated statistics about our web site usage.
+·     Processing, validating and delivering purchases (including by processingpayment card transactions and contacting customers about their orders,including by telephone).
 
-Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. Because web beacons are the same as any other content request included in the recipe page, you cannot opt out or refuse them. However, they can be rendered ineffective by either opting out of cookies or changing the cookie setup in your browser. 
+·     Maintaining a record of the jobs a visitor views or applies to on thisweb site. 
 
-**About Cookies**
+·     Informing visitors to this web site of relevant job postings that may beof interest to them.
 
-Cookies are alphanumeric identifiers that track your on-line movements. At CareerBuilder UK, we use cookies only for the protection and convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. If a user's system is idle for more than an hour, however, the cookie will expire, forcing the user to sign in again to continue their session. This helps to prevent unauthorized access to the user's information while they are away from their computer. Your browser should tell you how to refuse all cookies or to indicate when a cookie is being sent; however, some Site features or services may not function properly without cookies.
+·     Providing administrative notices or communications applicable to use of thisweb site.
 
-Third-Party Cookies: In the course of serving advertisements to the Site, our third-party advertisers may place or recognize a unique "cookie" on your browser. CareerBuilder UK is not responsible for such third party use of cookies.
+·     Providing customer support as well as handling technical issues.
 
-**Security for your Personal Information**
+·     Contacting data subjects and delivering information to them that, in somecases, is targeted to their interests (such as relevant services, educationalor other career development opportunities)
 
-CareerBuilder UK has taken considerable steps to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. As part of this process, we have encrypted all account and password data. In addition, we employ encryption for secure credit card transactions. Although we have taken all reasonable steps, there is no such thing as infallible security. Thus, we cannot guarantee that your personal information will not be subject to unauthorised access.
+·     Enabling data subjects to communicate with us through our blogs, socialnetworks and other interactive media,
+
+·     Soliciting data subjects’ feedback and input. 
+
+·     Managing participation in our events and other promotions.
+
+·     Analyzing and enhancing our marketing communications and strategies.
+
+·     Analyzing trends and statistics regarding visitors’ use of this web site,mobile applications and social media assets, and the jobs viewed or applied toon this web site. 
+
+·     Analyzing trends and statistics about the job market and career mobilityin local economies and nationally.
+
+·     Optimizing our site search engine results.
+
+·     Protecting against and preventing fraud, unauthorized transactions,claims and other liabilities, and manage risk exposure, including byidentifying potential hackers and other unauthorized users.
+
+·     Complying with applicable legal requirements, court orders, legalproceedings, document requests, and industry standards and our policies.
+
+We may also combine certainnon-personally identifiable Aggregate Data, or otherwise anonymized orde-identified data about our users and use and share such data in our productsand services.  “Aggregate Data” is the demographic information or employmentinformation (such as occupation, education and experience) of many individualsthat is combined together.  Aggregate Data is used to analyze thecharacteristics of various populations and does not identify any specificindividuals.  We may also use and share anonymized or de-identified data totrack trends in the labor market as well as use of our products and services. 
+
+For EEA Website Visitors,CareerBuilder’s legal basis for processing your personal data is: (i) performanceof the contract in relation to any registration, CV and job application informationyou provide and (ii) consent for use of certain cookies when browsing thesite, where unregistered users sign up for job recommendation emails and whereregistered and unregistered users sign up to receive marketing emails.  For EEABusiness Contacts that are current customers, suppliers and business partnersof CareerBuilder, our legal basis for processing your personal data isperformance of the contract between us. 
+
+Wemay also process personal information when it is in our legitimate interests todo so and when our interests are not overridden by the impact on the datasubject.  Our legitimate interests include marketing, selling and providing our products and services;product development and enhancement; understanding our users’ behavior,activities, preferences and needs; protecting against and preventing fraud; andcomplying with applicable legal requirements, court orders, legal proceedings,document requests, and industry standards and our policies.
+
+ **Recipientsof Personal Data**
+
+We share the personal informationthat we collect from EEA Website Visitors with third party employers,recruiters and other companies that purchase our services.  When an EEA WebsiteVisitor applies for a job with a company through this web site, the informationsupplied by them may become part of such company’s database.  Similarly, if acompany downloads a CV from our CV database, that information may become a partof that company’s database.  In these instances, we share the information asone data controller to another data controller and the use of such informationby the company will be subject to the privacy policy of that company, and weare not responsible for that company’s use of that information.  Thosecompanies may use that information to contact data subjects directly. 
+
+In the normal course ofperforming services for our clients, personal information may be shared withinCareerBuilder and its affiliates for the purposes specified in this Privacy Statement,as well as research and statistical purposes, system administration and crimeprevention or detection.
+
+We also may sharepersonal information with our service providers who help us in the delivery ofour own products and services. Our service providers provide the followingcategories of services: Code Hosting, Code Deployment, Logger, Search Engine, DockerRegistry, Bullhorn Integration, Code Deployment, Career Site, Email Processing,On-call Alerting, Internal Login Authentication, Reporting and Monitoring, ProxyServices, Content Management/CMS, Automated Testing/Monitoring, Networkdiagnostic and lookup tools, Resume Parser, Application Monitoring, Work forceanalytics, Machine Translations, Server Hosting, Aggregation of Monitoring, VPNand traffic encryption, Application Performance Management, Web Hosting, CustomerRelationship Management, Developers, Cloud Hosting, Cloud Storage, ManagedServer/Hosting, Email Delivery, Email Marketing, Parsing Technology, eCommerceProcessing, Data Matching Technology and Site Analytics.  These serviceproviders are required by contract and by law to only use or disclose the informationas necessary to perform services on our behalf or as otherwise required by law.Where we have knowledge that a service provider is using or disclosing personalinformation in a manner inconsistent with this Privacy Statement, CareerBuilderwill take reasonable steps to prevent or stop such improper use and/ordisclosure.
+
+In addition, whereCareerBuilder serves as a service provider (data processor) to its clients(data controllers), CareerBuilder may be in possession of client data thatcontains information defined as personal data. In performing these services,CareerBuilder does not process, store, or handle personal data in any othermanner other than that directed by the data controller. Accordingly,CareerBuilder does not share, uniquely identify, or in any way use personaldata for any commercial purpose other than that authorized by the controller.In some cases in accordance with our client agreements, we may disclosepersonal data with a subcontractor contracted to provide services on ourbehalf, in order to provide service to our clients.
+
+CareerBuilder preservesthe right to disclose without your prior permission any Personal Informationabout you or your use of this Site if we have a good faith belief that suchaction is necessary to: (a) protect and defend the rights, property or safetyof CareerBuilder, its employees, other users of this web site, or the public;(b) enforce the terms and conditions that apply to use of this web site; (c) asrequired by a legally valid request from a competent governmental authority; or(d) respond to claims that any content violates the rights of third-parties. Wemay also disclose Personal Information as we deem necessary to satisfy anyapplicable law, regulation, legal process or governmental request.
+
+In addition, PersonalInformation we have collected may be passed on to a third party in the event ofa transfer of ownership or assets or a bankruptcy or other corporatereorganization of CareerBuilder. 
+
+**Transfer of PersonalData to a Third Country**
+
+Personal data collectedby CareerBuilder is stored in Europe or in the United States, and processingprimarily takes place in Europe and the United States but may also take placein other countries where CareerBuilder or its affiliates, subsidiaries, or thirdparty service providers maintain facilities.  CareerBuilder ensures that suchaffiliates, subsidiaries or third party service providers are covered by asuitable framework or contract recognized by the relevant authorities or courtsas providing an adequate level of protection for personal data.
+
+ **Cookies**
+
+Like most other websites, weuse cookies to help provide you with the best possible browsing experience.  You can find more information on cookies here.
+
+ **Retention Period**
+
+Personal data is retainedby CareerBuilder as long as necessary to fulfill the purposes for which it wascollected.  Registration,CV and job application information of EEA Website Visitors is stored until theearlier of when the contract between us terminates or when the data subjectasks us to erase their data.  For data retention relating to cookies, pleasesee the [cookie policy](https://www.careerbuilder.co.uk/s/cookiesPolicy).  Personal data for jobrecommendation emails and marketing emails are retained until the data subjectunsubscribes from such emails.  Business contact information of our EEA BusinessContacts is retained until they ask us to erase their data.  All other personaldata relating to EEA Business Contacts that are current customers, suppliersand business partners is stored until the contract between us terminates. 
+
+**DataSubject Rights**
+
+You are entitled torequest access to, rectification of, deletion of and portability of yourpersonal information collected by us.  You are also entitled to restrict orobject to the processing of your data by us and to object to any decision basedsolely on automated processing of your data by us.  To exercise these rights,as provided under applicable law, please submit a request to the Customer Service Center.
+
+Please help us to keepyour data accurate by informing us of any personal information change promptly.
+
+There may be cases whererestrictions on the amount of information that can be disclosed to datasubjects under applicable law (for example, if that would necessarily involvedisclosing information about another person).  CareerBuilder is permitted towithhold some types of personal data in certain circumstances, subject toapplicable local law requirements.  If there is a dispute, please contact the Customer Service Center.  In addition, data subjects havethe right to lodge a complaint with a supervisory authority.
+
+ **Right to WithdrawConsent**
+
+Data subjects whoseprocessing is based upon consent may withdraw that consent at any time;however, CareerBuilder will not be able to provide or continue to provideservices or marketing communications to the data subject. 
+
+**Changes to ThisStatement**
+
+We may update this PrivacyStatement to reflect changes to our information practices. If we make anychanges to this Privacy Statement, we will notify data subjects by means of anotice on this web site as well as the applicable date.  We encourage EEA WebsiteVisitors, EEA Business Contacts, and others to periodically review this pagefor the latest information on our privacy practices.
