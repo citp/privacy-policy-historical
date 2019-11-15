@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paramountnetwork.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401004500id_/https%3A//www.paramountnetwork.com/legal/bhws2g/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paramountnetwork.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115093747id_/https%3A//www.paramountnetwork.com/legal/bhws2g/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Paramount Network
+# privacy-policy | Paramount Network
 
 **Last Modified: September 28, 2018**  
 (See the **[Legal Updates Summary](http://legal.viacom.com/Changes/M+E/)** to learn more)
