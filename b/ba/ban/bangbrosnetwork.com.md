@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bangbrosnetwork.com privacy policy that was archived on 2018-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180629010618id_/http%3A//t8.bangbrosnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangbrosnetwork.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115060826id_/http%3A//t8.bangbrosnetwork.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-With respect to all purchasers located in the United States, who have United States citizenship or other legal status in the United States and/or users whose purchases are made through United States payment processors, any personal information provided to or gathered by this site is controlled by Sonesta Group, LLC, a Florida limited liability company, and its parent company as licensees of Sonesta Technologies, s.r.o. With respect to all other users, any personal information provided to or gathered by this site is controlled by Sonesta Technologies, s.r.o. 
+Any personal information provided to or gathered by this site is controlled by Sonesta Group, LLC, a Florida limited liability company, and its parent company as licensees of Sonesta Technologies, s.r.o. 
 
 As noted below, please be aware that we may change our Privacy Policy in the future. If such changes are not substantial in amount or in limiting your privacy rights, such changes will be posted here with an updated effective date. All substantial changes- both in amount and in limiting your privacy rights- will be emailed to you prior to becoming effective. 
 
@@ -12,7 +12,7 @@ _Adults Only Service_
 
 _What We Collect_
 
-During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password) and "Demographic Information". Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history. Please note that all financial data you may submit in connection with any purchase will be submitted directly to the third party payment processor which will be processing your purchase. The use of such data will be subject to such payment processor’s own privacy policy which you will need to review separate and apart from this Policy before making any purchase. 
+During sign up we require that you provide us with certain information which may include Account Data (i.e., your name, physical address, email address, phone number, username, and password) and "Demographic Information". Demographic Information may include IP address(es), referring website information, Internet browser used, zip code and/or other data regarding search history, browsing history, registration and user history. Please note that all financial data you may submit in connection with any purchase will be submitted directly to the third party payment processor which will be processing your purchase. The use of such data will be subject to such payment processor's own privacy policy which you will need to review separate and apart from this Policy before making any purchase. 
 
 _How We Use the Information We Collect_
 
@@ -34,10 +34,10 @@ _Advertisements_
 
 We utilize the services of outside advertising agencies to advertise our services and goods and/or services offered by third parties. Either we or our advertising agencies may use cookies and/or "action tags" to measure advertising effectiveness on an "anonymous basis". Some emails from us may contain advertisements from companies unrelated to the Sites. Should you elect to visit any such advertiser's website, we cannot, and do not, make any representations about applicable terms of use or privacy policies for such advertisers' websites, this is regardless of whether or not there may be any mentions of or references to any or all of the Sites on such advertisers' website(s). 
 
-_Changes to the Privacy Policy_
+Changes to the Privacy Policy 
 
 We may change this privacy policy at any time. Any and all changes to this Policy will be posted here with an updated effective date. In the event that any changes are substantial and/or substantially limit your privacy rights, we will provide you with notice to the email address you have provided to us. 
 
-_Changes in the Ownership of the Sites_
+Changes in the Ownership of the Sites 
 
 The Sites may have the occasion to buy or sell assets including, by way of example only, through a merger, dissolution, and/or transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us with third parties as may be necessary or appropriate to initiate, investigate, and/or complete any such transaction(s). 
