@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bankmobilevibe.com privacy policy that was archived on 2018-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181014011900id_/https%3A//bankmobilevibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankmobilevibe.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115060702id_/https%3A//bankmobilevibe.com/privacy) for the most accurate reproduction.*
 
 # Privacy - BankMobile VIBE
-
-#### Your Privacy Is Our Priority
 
 [View BankMobile's Privacy Disclosure/Notice](https://www.bankmobilevibe.com/privacy_notice.pdf)
 
