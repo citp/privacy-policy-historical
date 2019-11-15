@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sopcast.org privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516201002id_/http%3A//www.sopcast.org/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sopcast.org privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115093606id_/http%3A//www.sopcast.org/info/privacy.html) for the most accurate reproduction.*
 
 # Disclaimer
 
