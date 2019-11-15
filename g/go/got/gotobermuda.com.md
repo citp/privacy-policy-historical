@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the gotobermuda.com privacy policy that was archived on 2018-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181030134340id_/https%3A//www.gotobermuda.com/info/terms-use-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotobermuda.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115103736id_/https%3A//www.gotobermuda.com/info/terms-use-privacy) for the most accurate reproduction.*
 
 # Privacy Policy // Go To Bermuda
 
 Welcome to Bermuda Tourism Authority located at [http://www.gotobermuda.com/](https://www.gotobermuda.com/) (the “Website”).  This Website is maintained and operated by the Bermuda Tourism Authority (“BTA”, “we”, “our” or “us”). The Privacy Policy below discloses our practices regarding information collection and usage solely for the Website and the services provided on the Website.  This Privacy Policy does not apply to any other website or service provided by us, our partners or clients, unless it appears on such website or service. By using and visiting our Website and by submitting your personally identifiable information to us you agree to us using your personally identifiable information as set out in this Privacy Policy. If you do not agree to this Privacy Policy you may not access or otherwise use the Website.
 
 BY USING OR ACCESSING THE WEBSITE, YOU SIGNIFY YOUR AGREEMENT TO BE BOUND BY OUR PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE WEBSITE. 
+
+FOR THE BERMUDA ARRIVAL CARD POLICY NOTICE PLEASE VIEW [HERE](https://www.gotobermuda.com/bta/bermuda-arrival-card-privacy-notice).
 
 **_Personally Identifiable Information That We Collect_ :  **We may collect personally identifiable information, such as your name, address, and/or e-mail address (collectively, “PII”), from the Website only when you choose to provide it to us.  For example, you may choose to provide us with PII when you send us an email, register for the Website, subscribe to our newsletter, and/or participate in other activities, services, features or resources that we make available on the Website. 
 
