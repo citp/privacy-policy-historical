@@ -1,42 +1,42 @@
-> *The following text is extracted and transformed from the puzzlewarehouse.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220022209id_/http%3A//www.puzzlewarehouse.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlewarehouse.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115033745id_/https%3A//www.puzzlewarehouse.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | PuzzleWarehouse.com
 
-   
-  
-Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
+### **_We care about transparency. Some websites hide their practices from their customers and visitors. We prefer honesty._**
 
-Note, the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.  
-  
-### Collection of Information
+As online shoppers ourselves, relevant and personalized ads or emails are always more interesting than irrelevant ads or emails. In order to power relevant, interest-based content and advertisements for you, we need partners to help us identify you when you interact with us. Our partners may collect non-personal information like your IP address, device ID, shopping behavior, and information about your browser or operating system. We may share information about you such as your email or other identifiers with our partners. If we do, we always share it in a non-human-readable form to ensure the security of your information. Our partners may combine our personal and non-personal information about you with information from other sources, and may place or recognize a unique cookie on your browser, all to help us communicate better with you.
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.  
-  
-### Cookie/Tracking Technology
+We also care about choice. You can opt-out of these services at any time. To opt-out of BouncePilot’s services, please go to [http://BouncePilot.com/opt-out/](http://bouncepilot.com/opt-out/). To opt out of LiveRamp’s services, please go to <http://www.liveramp.com/opt_out>. To opt-out of third party cookies, please go to <http://www.aboutads.info/choices>. To opt-out of the use of your mobile device ID for targeted advertising, please see <http://www.aboutads.info/appchoices>.
 
-The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.  
-  
-### Google Advertising
+###  ** _Safe Shopping Guarantee_**
 
-Google, as a third party vendor, uses cookies to serve ads on our site.   
-Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet.   
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
-  
-### Distribution of Information
+The Puzzle Warehouse Safe Shopping Guarantee protects you while you shop at Puzzle Warehouse so that you never have to worry about credit card safety. Period.
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.  
-  
-### Commitment to Data Security
+We guarantee that every transaction you make at Puzzle Warehouse will be safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at Puzzle Warehouse. See guarantee details below.
 
-Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings.  
-  
-### Privacy Contact information
+###  ** _Why is Puzzle Warehouse so safe?_**
 
-If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
+  * Safety in Numbers: When you shop at Puzzle Warehouse, you'll be one of the thousands of customers who have safely shopped with us without credit card fraud.
+  * Safe Technology: Our Secure Sockets Layer (SSL) software is provided by Google, one of the world's leading providers of Internet trust services and we believe it is the best software available today for secure online commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. You can rest assured that your personal information is safe.
 
-  * By E-Mail: support@puzzlewarehouse.com 
-  * By Phone: 651-466-2118
 
-  
-  
-We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+###  ** _You still don't want to use your credit card on the Internet?_**
+
+No problem. Just call our toll-free number at 1-866-539-4278 and one of our outstanding customer service representatives will be glad to take your order.
+
+###  ** _Guarantee Details:_**
+
+  1. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50 of fraudulent charges. If your bank does hold you liable for any of this $50, Puzzle Warehouse will cover the entire liability for you, up to the full $50. Puzzle Warehouse will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at Puzzle Warehouse while using the secure server.
+  2. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+
+
+
+[](https://www.puzzlewarehouse.com/custom-jigsaw-puzzles.html) [](https://www.puzzlewarehouse.com/Large-Piece-Puzzles_25.html) [](https://www.puzzlewarehouse.com/1000-piece-jigsaw-puzzles/) [](https://www.puzzlewarehouse.com/puzzle-accessories/)  
+
+
+Copyright © 2008-2019, Puzzle Warehouse, All rights reserved.
+
+Puzzle Warehouse recycles everything it can to save the environment and to keep costs and prices low.
+
+We are Hiring! Please fill out the [employment form](http://www.puzzlewarehouse.com/employment-form/) or send your resume to [Career@waytechnology.com](mailto:Career@waytechnology.com).
