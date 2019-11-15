@@ -1,101 +1,80 @@
-> *The following text is extracted and transformed from the wovn.io privacy policy that was archived on 2017-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170519062347id_/https%3A//wovn.io/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wovn.io privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115224704id_/https%3A//wovn.io/privacy-policy) for the most accurate reproduction.*
 
-# WOVN.io | Localize your website.
+# WOVN.io | Privacy policy
 
-## Section I. Definitions.
+This privacy policy contains details on how Wovn Technologies (hereinafter referred to as “the company”) handles, uses and protects information for everyone (hereinafter collectively referred to as “users”) who uses our services and websites.
 
-For the duration of this privacy policy, the following terms have the following definitions and meanings:
+* ### 1\. Personal Information
 
-Cookie – A small piece of data sent from a website and stored in a user's browser (e.g. Mozilla Firefox or Internet Explorer) while the user is browsing that website.
+In this policy “Personal Information” refers to collected information that could specifically identify an individual and may include but is not limited to name, date of birth, business name, address, telephone number, email address or other contact addresses. Other electronic personal information that may be collected when accessing the company’s services and websites is covered in section 5.
 
-Encrypted hash – A method of storing a password which is considered practically impossible to invert, that is, to recreate the input data from its hash value alone rather than a simple encryption. In other words, it is very secure.
+* ### 2\. Information Usage
 
-Hosting – The process of uploading your data to our servers so it can be stored and displayed in many different languages.
+The company reserves the right to use any collected personal information in the following ways
 
-Information - Information you provide us or information we collect from you that could be used to personally identify you. Examples include IP addresses, name, email address, etc. Additionally, this is what the primary focus of this document is.
-
-Internet Protocal Address (IP) - A numerical label assigned to a device participating in a computer network that uses the Internet Protocol for communication. An IP address serves two principal functions: host or network interface identification and location.
-
-JavaScript – A standard software programming language used on most modern websites.
-
-Metadata - Provides information about a certain item's content. For example, an website may include metadata that describes how large the picture is, the color depth, the image resolution, when the image was created, and other data.
-
-You / Your – Refers to the user and end-user of this website.
-
-Third Party – Individuals, entities, websites, services, products, and applications that are not controlled, managed, or operated by us. This includes other users and independent organizations or groups who help promote, pay for, advertise on, or have any other non-controlling interest in WOVN. This may include translators.
-
-We, Us, and Our: Refers to WOVN.IO and its partners that incorporate this policy. Please note that this term does not necessarily represent independent translators or other external stakeholders.
-
-## Section II. Application of This Policy.
-
-Our privacy policy applies to all of the services offered by us, but might exclude services that have separate privacy policies that do not incorporate this document, such as external translation companies that you may use. This privacy policy is the same, regardless of any language. Please note that in the event of any differences in meaning or interpretation between the original English version of this Privacy Policy and a translation, the original English version takes precedence. Our privacy policy does not cover the information practices of third parties who advertise our services. This policy also does not cover any information linked to our site through any other, for example, by signing in from your Facebook account, any information processed through Facebook directly would be covered by their privacy policy. Any content on your sites, or other publicly uploaded information, can be seen by everyone and is therefore not covered by this policy. By using our services you are agreeing to this policy in its entirety, as well as our Terms of Service. NOTE: Our Terms of Service will be shortly forthcoming.
-
-## Section III. Information You Give Us.
-
-The purpose of WOVN.IO is to expand information on the Internet to a wider variety of people, cultures, and countries that may otherwise be limited by language barriers. In essence, we seek to share your web content with the world. In order to do that, we must gather and store specific pieces of information that you share with us. Examples of this information include, but are not necessarily limited to:
-
-  1. Email and password of your account;
-  2. Content of uploaded sites;
-  3. Translated content of uploaded sites through third parties;
-  4. Financial information used to pay for manual translation (for the specific details on this, including your rights and protections, please see our Terms of Service; and,
-  5. Any other information you share with us.
+  1. 2.1 To manage and operate WOVN.io and WOVN Partners (hereinafter collectively referred to as our “services”).
+  2. 2.2 To contact and inform users of our services and to provide guidance on how to use our services.
+  3. 2.3 To send questionnaires or surveys to users to obtain data on improving our services and advertising.
+  4. 2.4 Displaying saved personal information to allow users to more easily access our services.
+  5. 2.5 To improve our services, aid in planning and development of new services, marketing, market research and development of new business partners.
+  6. 2.6 To confirm the identity of users.
+  7. 2.7 To bill or process payments related to services charges.
+  8. 2.8 To identify and restrict access to users who violate the WOVN.io or WOVN Partners Terms and Conditions of use. Including but not restricted to non-payment, causing damage to a third party or those who intend to use our services for fraud.
+  9. 2.9 To more effectivity respond to users’ enquiries.
+  10. 2.10 When users’ personal information is requested or used under the terms of the Personal Information Protection Act or other laws and regulations.
+  11. 2.11 To obtain consent from users.
 
 
+* ### 3\. Consent for Providing Personal Information to Third Parties
 
-This information is the bare minimum required to use our services. We strive to keep this information at a minimum to ease the use of our services as well as increase the amount of privacy for our users.
+While using the company’s services, you agree in advance that the company may provide personal information to third parties as specified in the following items
 
-## Section IV. Information We Collect Automatically.
-
-Examples of the information we collect automatically include, but are not necessarily limited to:
-
-  1. Internet protocol (IP) address;
-  2. Certain computer information your browser or computer automatically provides us with (this might be information such as browser type, version, plug-ins, etc);
-  3. The time, date, and signature of your account when you sign-in and sign-out;
-  4. The content of your sites that are stored on our servers;
-  5. The translated content of your sites that are stored on our servers;
-  6. External sign-in data from other sites such as Facebook or Twitter;
-  7. Any other information automatically gathered. This is often performed by using information gathered through the use of cookies, javascript, and other methods.
+  1. 3.1 To entrust secure storage of personal information and other data to a cloud server (including servers located in a foreign country) operated by an external third party.
+  2. 3.2 If the company receives a disclosure request and deems it valid, a user’s personal information may be disclosed to a relevant law enforcement agency.
+  3. 3.3 In cases where the user is a minor and personal information is requested by the user’s legal guardians or legal representative.
 
 
+* ### 4\. Providing Personal Information to Third Parties Without Consent
 
-## Section V. Information We Do Not Collect.
+The company may also provide personal information to third parties without seeking consent of the user as specified in the following items
 
-We do not collect the following information:
-
-  1. Meta-data of your web content;
-  2. Site content sharing; and,
-  3. Specific personal information that is not absolutely required for the use of our services.
-
+  1. 4.1 In cases where disclosure of personal information is required by law enforcement agencies or court judgments related to violations of the law or other regulations.
+  2. 4.2 In cases where it is necessary for the protection of human life, body or property, and it is difficult to obtain the consent of the user.
+  3. 4.3 If required under the Personal Information Protection Act or other laws and regulations.
 
 
-## Section VI. Protection of Your Information.
+* ### 5\. Electronic Data and Tracking
 
-We collect very little personal information about you and we do not rent or sell your information to third parties. Additionally, we are not actively viewing your uploaded content for any information. We may use common technologies to collect information about how you use our service. For example, we use cookies to track your use of our service to verify that your account is valid. We also store your language preferences using a cookie. We use this information to enhance your user experience, perform maintenance on our code and translations, and to develop new features. These are used in a positive manner to help our services run smoothly and are not shared. Once we receive information from you, or information about you through automatic means, we keep it until your use of our services has ended.
+In this policy “Electronic Data” refers to the personal information gathered when users browse web pages of the services operated by the company. This includes but is not limited to – the browsing history of each user, user’s advertisement display history, user’s keyword searches, user’s time zone, user’s browsing device and software, user’s IP address, user’s cookie information, user’s scrolling and mouse pointer tracking.
 
-It is our official policy to not reveal your information to any party (third or otherwise) unless absolutely necessary (see Section VIII for certain exceptions). We strive to protect your information from unauthorized access, use, or disclosure. We use a variety of technical procedures (such as storing your passwords in an encrypted hash) designed to protect our systems and your information. Your information is important to you and your privacy is important to us.
-
-While we make every effort to secure your information, there may be extreme unauthorized exceptions (such as digital piracy or illegal violations of our policy). In such circumstances we will make every effort to protect your information to the best of our ability and comply with the law of your applicable country when necessary.
-
-## Section VII. Your Rights.
-
-We may share your information with your consent. It is your right to discontinue our services at any time. You always have the right to disable cookies and other tracking methods on your own browser. If you do, it may cause errors with the site's use. You also have the right to request any content to be removed from our servers at any time.
-
-## Section VIII. Our Right and Obligations.
-
-We reserve the right to change this privacy policy at any time. You will always be able to view this policy and any changes to it whenever you wish. Unfortunately, there are certain conditions where we must share your information. However, these situations are very limited and include the following situations:
-
-  1. Meet any applicable law, regulation, legal process or enforceable governmental request;
-  2. Comply with any court orders or mandates from legal authorities;
-  3. Enforce applicable Terms of Service, including investigation of potential violations;
-  4. Detect, prevent, or otherwise address fraud, security or technical issues;
-  5. Protect against harm to our rights, property, and safety;
-  6. To protect the rights, property, and safety of our users;
-  7. Protect our organization, infrastructure, employees, and contractors;
-  8. Prevent serious harm or death to a person; and,
-  9. Any other extreme or extenuating circumstance that may warrant the sharing of your information.
+  1. 5.1 The company may use the gathered electronic data to 
+    1. 5.1.1 Analyze and record the number of users and traffic on each service to aid in marketing and market research.
+    2. 5.1.2 Improve each service, or plan and develop new services.
+  2. 5.2 The company may task advertising networks with the display of advertising related to the company’s services. Users accessing the services via these advertisements may receive a cookie on their browsing device which contains information such as an anonymous ID or advertisement identifier. This cookie may be subject to the privacy policy of the advertising network as well as the company’s privacy policy. Please check each individual advertising network for more information on their privacy policies.
 
 
+* ### 6\. Disclosure of Personal Information
 
-## Section IX. Closing.
+When the company receives a request under the Personal Information Protection Act to disclose personal information, the company will promptly confirm if the request is genuine and lawful, then disclose the personal information and notify the user a disclosure has been processed. However, if the company receives a disclosure request which the company is not obligated under law to process, the company will not disclose the information and will inform the user of the denied request.
 
-Thank you for reading our Privacy Policy. Please remember, the purpose of this information is to provide your web content to the world. WOVN.IO has no interest in your personal information other than fulfilling the mission of translation and that of your site's own mission. We hope you enjoy using our service and spread your web content across the globe.
+* ### 7\. Correction of Personal Information
+
+In the event there is a request for a correction, addition, suspension or deletion (hereinafter collectively referred to as “correction”) of personal information from either a user or a third party, we will endeavor to investigate the request and if confirmed valid, make the correction after confirming the identity of the user or third party. In cases where the correction is related to stored personal information that is not factual or has been handled inappropriately the company will respond promptly to the correction. The company may deny correction requests if processing the correction would result in violations of the law or other regulations, the user or third party requesting the correction will then be notified of the denial.
+
+* ### 8\. Management of Personal Information
+
+The company is responsible for managing access to personal information, enacting measures to prevent unauthorized access to personal information, prevention of data loss or damage to personal information and other personal information safety management The company will take the necessary and appropriate measures to achieve these tasks.
+
+When the company entrusts the provision of our service to a third party, the company will select outsourcers that are deemed to handle personal information properly, and in the contract with the third party, will establish safety management measures, ensuring confidentiality of personal information. The company shall properly determine matters concerning the handling of personal information and shall conduct necessary and proper supervision.
+
+* ### 9\. Changes to this Policy
+
+When the company changes the contents of this policy, the company will notify users in advance of the changes. After the deadline specified in the notification, the policy changes will be automatically applied.
+
+* ### 10\. Questions Regarding Handling of Personal Information
+
+If you have any questions or concerns related to the handling of personal information please contact the company via the contact details at the bottom of this policy.
+
+© Wovn Technologies Inc.  
+2017/8/3 – Current Version  
+2015/6/17 – Initial Version 
