@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faststone.org privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608031955id_/https%3A//www.faststone.org/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faststone.org privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115071625id_/https%3A//www.faststone.org/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # FastStone Soft - Thank You
 
