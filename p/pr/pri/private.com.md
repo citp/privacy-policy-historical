@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the private.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423162003id_/https%3A//www.private.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the private.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115091105id_/https%3A//www.private.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Private.com - Private Porn Sex Videos
 
@@ -16,7 +16,7 @@ This privacy policy describes what personal data we collect, process, use and sh
 
 This privacy policy covers treatment of your personally identifiable information that collects when you are on the Site, and when you use the services. This policy also covers treatment of any personally identifiable information that business partners share with or that may collect on a partner's site. This policy does not apply to the practices of companies that PMG does not own or control or to people that PMG does not employ or manage.
 
-If users have questions or concerns regarding this statement, they should contact the privacy team by email at support@private.com
+If users have questions or concerns regarding this statement, they should contact the privacy team by email at [support@private.com](mailto:support@private.com)
 
 ### What data we collect and why we collect:
 
@@ -28,7 +28,7 @@ In order for us to provide our service when you subscribe we collect the followi
 
 \- Your name, country, ZIP or post code, credit card or other billing information, through a third party billing provider as detailed below, to enable us to charge you the subscription fees.
 
-We also occasionally send you content updates and special offers for us or our partners. You can opt out of receiving these at any time by unsubscribing or contacting us by email at support@private.com
+We also occasionally send you content updates and special offers for us or our partners. You can opt out of receiving these at any time by unsubscribing or contacting us by email at [support@private.com](mailto:support@private.com)
 
 ### Information collection and use
 
@@ -40,7 +40,7 @@ In order to use this Site, a user must first complete the registration form. Dur
 
 ### Profile
 
-We store information that we collect through cookies, log files, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information is tied to the user’s personally identifiable information to provide offers and improve the content of the Site for the user. This profile is used to tailor a user's visit to our Site and to direct pertinent marketing promotions to them. You can opt out of receiving these at any time by unsubscribing or contacting us by email at support@private.com
+We store information that we collect through cookies, log files, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that detail their viewing preferences. Consequently, collected information is tied to the user’s personally identifiable information to provide offers and improve the content of the Site for the user. This profile is used to tailor a user's visit to our Site and to direct pertinent marketing promotions to them. You can opt out of receiving these at any time by unsubscribing or contacting us by email at [support@private.com](mailto:support@private.com)
 
 ### Cookies
 
@@ -48,7 +48,7 @@ This Site uses cookies to enable us to improve our services to you and to provid
 
 Now for a little more information about cookies! A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our Site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
 
-By setting a cookie on our Site, users would not have view the adult warning page or choose their preference of language, thereby saving time while on our Site. If users reject the cookie, they may still use our Site. The only drawback to this is that the user will be limited in some areas of our Site. For example, the user's language preference would not be saved. For more information about cookies and how to delete cookies being installed visit the following website: http://www.allaboutcookies.org
+By setting a cookie on our Site, users would not have view the adult warning page or choose their preference of language, thereby saving time while on our Site. If users reject the cookie, they may still use our Site. The only drawback to this is that the user will be limited in some areas of our Site. For example, the user's language preference would not be saved. For more information about cookies and how to delete cookies being installed visit the following website: [http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
 
 ### Log Files
 
@@ -62,7 +62,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a user service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage.
 
-If users have any questions about the security at our Site, users can send an email to support@private.com
+If users have any questions about the security at our Site, users can send an email to [support@private.com](mailto:support@private.com)
 
 ### Sharing your personal data
 
@@ -74,7 +74,7 @@ If you sign up to our Site, your credit card or other billing data (credit card,
 
 We sometimes partner with other third parties to provide specific services. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our Site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists.
 
-Users who no longer wish to receive our newsletter, service announcements and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or the user may contact us by email at support@private.com to opt-out.
+Users who no longer wish to receive our newsletter, service announcements and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or the user may contact us by email at [support@private.com](mailto:support@private.com) to opt-out.
 
 Users of our Site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
 
@@ -94,11 +94,11 @@ By using this Site, you agree that we may use any personal information you have 
 
 ### Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our User Support at support@private.com
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our User Support at [support@private.com](mailto:support@private.com)
 
 According to the European (please see below more information with respect to new European regulation on data protection) and International data protection laws, the personal information collected on this Website, by registration and order forms, will be used by PMG, to provide you with the service requested and inform you about promotional activities.
 
-You may ask us for details of the personal information relating to you that we hold, and you may also ask under certain circumstances, to request information, access, correction, restriction of processing, transfer, erasure and withdrawal of consent of your personal data by contacting our privacy team at support@private.com
+You may ask us for details of the personal information relating to you that we hold, and you may also ask under certain circumstances, to request information, access, correction, restriction of processing, transfer, erasure and withdrawal of consent of your personal data by contacting our privacy team at [support@private.com](mailto:support@private.com)
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Site. We do share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
 
@@ -114,33 +114,33 @@ As from the 25th May 2018 the General Data Protection Regulation (Regulation (EU
 
 Under certain circumstances, by law you have the right to:
 
-• Request information about whether we hold personal information about you, and, if so, what that information is and why we are holding/using it.
+• **Request information** about whether we hold personal information about you, and, if so, what that information is and why we are holding/using it.
 
-• Request access to your personal information (commonly known as a "data subject access request"). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
+• **Request access** to your personal information (commonly known as a "data subject access request"). This enables you to receive a copy of the personal information we hold about you and to check that we are lawfully processing it.
 
-• Request correction of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+• **Request correction** of the personal information that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
 
-• Request erasure of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing (see below).
+• **Request erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal information where you have exercised your right to object to processing (see below).
 
-• Object to processing of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal information for direct marketing purposes.
+• **Object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground. You also have the right to object where we are processing your personal information for direct marketing purposes.
 
-• Object to automated decision-making including profiling, that is not to be subject of any automated decision-making by us using your personal information or profiling of you.
+• **Object to automated decision-making including profiling** , that is not to be subject of any automated decision-making by us using your personal information or profiling of you.
 
-• Request the restriction of processing of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
+• **Request the restriction of processing** of your personal information. This enables you to ask us to suspend the processing of personal information about you, for example if you want us to establish its accuracy or the reason for processing it.
 
-• Request transfer of your personal information in an electronic and structured form to you or to another party (commonly known as a right to “data portability”). This enables you to take your data from us in an electronically useable format and to be able to transfer your data to another party in an electronically useable format.
+• **Request transfer** of your personal information in an electronic and structured form to you or to another party (commonly known as a right to “data portability”). This enables you to take your data from us in an electronically useable format and to be able to transfer your data to another party in an electronically useable format.
 
-• Withdraw consent. In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
+• http://www.allaboutcookies.org. In the limited circumstances where you may have provided your consent to the collection, processing and transfer of your personal information for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
 
 Please note these rights may only apply in certain cases. For example, some rights only apply where our lawful ground of processing is your consent, or where we have a contract with you.
 
 We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to us changes, for example if you change your email address or name, please let us know the correct details by contacting us on the details below. You may ask us, or we may ask you, to correct information you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.
 
-PMG has not designated a Data Protection Officer, but our privacy team can be contacted directly at support@private.com
+PMG has not designated a Data Protection Officer, but our privacy team can be contacted directly at [support@private.com](mailto:support@private.com)
 
 ### Optional features
 
-We ask consent from you to share your data with partners at certain times, as well as to use your email address to send you content updates and special offers from us or our partners. If you do not give us consent to do so we will not share your data and you will not receive these emails. You can change your email marketing setting at any time by contacting us at support@private.com
+We ask consent from you to share your data with partners at certain times, as well as to use your email address to send you content updates and special offers from us or our partners. If you do not give us consent to do so we will not share your data and you will not receive these emails. You can change your email marketing setting at any time by contacting us at [support@private.com](mailto:support@private.com)
 
 ### Complaints
 
