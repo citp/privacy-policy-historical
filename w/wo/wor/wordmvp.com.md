@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordmvp.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306045307id_/https%3A//wordmvp.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordmvp.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115203946id_/https%3A//wordmvp.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Word MVP Site - Privacy Policy
 
@@ -71,7 +71,7 @@ This website contains links to other websites of interest. However, note that on
 
 Word MVP [Lene Fredborg](https://www.mvp.microsoft.com/en-us/PublicProfile/4020246?fullName=Lene%20Fredborg "Microsoft Word MVP. Read Lene Fredborg's profile at microsoft.com") is maintaning this website.
 
-You can [ contact Lene Fredborg via the DocTools website](https://www.thedoctools.com/index.php?show=contact&lang=us "Contact Lene Fredborg at DocTools") if you have questions about this policy.
+You can [ contact Lene Fredborg via the DocTools website](https://www.thedoctools.com/home/en/contact/ "Contact Lene Fredborg at DocTools") if you have questions about this policy.
 
 [Go to Word Home](https://wordmvp.com/)
 
