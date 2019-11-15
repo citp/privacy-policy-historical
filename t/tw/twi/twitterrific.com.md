@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitterrific.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627185528id_/https%3A//twitterrific.com/mac/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitterrific.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115051743id_/https%3A//twitterrific.com/mac/privacy) for the most accurate reproduction.*
 
 # Twitterrific: Privacy Policy
 
