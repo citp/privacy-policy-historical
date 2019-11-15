@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531023132id_/https%3A//www.coop.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115025835id_/https%3A//www.coop.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy notice - Co-op
 
