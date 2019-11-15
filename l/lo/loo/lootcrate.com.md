@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501213443id_/https%3A//www.lootcrate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115224600id_/https%3A//www.lootcrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Loot Crate Privacy Policy - Official Terms | Loot Crate
 
