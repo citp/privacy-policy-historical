@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bitmex.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421035956id_/https%3A//www.bitmex.com/app/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitmex.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115061310id_/https%3A//www.bitmex.com/app/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Notice - BitMEX
+
+_This notice was prepared in the English language and the English language version shall prevail in the event of any conflict, discrepancy or ambiguity between translations._
 
 **Effective Date: March 6th 2019**
 
