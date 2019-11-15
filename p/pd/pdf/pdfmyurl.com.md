@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfmyurl.com privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308155114id_/http%3A//pdfmyurl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfmyurl.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115132515id_/https%3A//pdfmyurl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
