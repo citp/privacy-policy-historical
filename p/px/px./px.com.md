@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the px.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603215200id_/https%3A//www.px.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the px.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115115619id_/https%3A//www.px.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PX
 
@@ -91,7 +91,7 @@ If your personal information changes, or if you no longer desire our service, yo
 
 By submitting your information to us, you are consenting to receive marketing communications from Provider and its third party marketing partners. If, after you have shared your information with us, you decide that you do not want to receive marketing communications from Provider, you can discontinue the communications by sending an [**email**](https://www.px.com/contact-us/) here with the phrase “opt out” (or similar language) in the subject heading, or by calling **1-800-491-7025**. You may also send opt-out requests to the following address:
 
- **PX, Inc** , 44 Wall St, Suite 505, New York, NY 10005, **USA**
+ **PX, Inc** , 44 Wall Street, Suite 505, New York, NY 10005, **USA**
 
 If you have registered or submitted information under more than one email account, you must submit separate opt-out requests for each account.
 
