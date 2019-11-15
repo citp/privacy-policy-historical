@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vrsmash.com privacy policy that was archived on 2018-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181222014644id_/https%3A//www.vrsmash.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrsmash.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115102552id_/https%3A//www.vrsmash.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | VR Porn Videos - VRSmash
+# Privacy Policy - VR Porn Videos - VRSmash.com
 
 Last Updated: May 25, 2018
 
