@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goregrish.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017185427id_/http%3A//goregrish.com/tos/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goregrish.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115074154id_/https%3A//goregrish.com/tos/privacy.php) for the most accurate reproduction.*
 
 # Goregrish Privacy Policy
 
