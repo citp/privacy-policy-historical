@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606032044id_/https%3A//ntrepidcorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115055932id_/https%3A//ntrepidcorp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Ntrepid
+# Privacy Policy | Ntrepid
 
 ##### LAST UPDATED: August 6, 2018
 
@@ -12,7 +12,7 @@ Please note that the policies described in the Privacy Statement and this summar
 
 ## What Information Does Ntrepid Collect?
 
-**We collect the following types of information:**
+ **We collect the following types of information:**
 
   * Information you provide to us when you contact us or in order to use our products and services, such as your contact information, information you provide when signing up for promotions, payment information, and product preferences.
 
@@ -26,7 +26,7 @@ Read more about the information we collect.
 
 ## How does Ntrepid use my information?
 
-**We use your information for the following purposes:**
+ **We use your information for the following purposes:**
 
   * Providing products, content, content suggestions, services, and support;
   * Maintaining the security and integrity of our Systems (including maintaining internal records);
@@ -62,7 +62,7 @@ Read more about how we share your information.
 
 Ntrepid Corporation (“Ntrepid,” “we,” “our,” or “us”) respects your concerns about privacy and values the relationship we have with you.  This Privacy Statement describes the types of information we collect about and from individuals who visit our website or otherwise communicate with us (collectively, “you”). This Privacy Statement also describes how we use the information, with whom we share it, the choices available to you regarding our use of the information, and how you can contact us about our privacy practices.
 
-  1. **To What Information Does This Privacy Statement Apply?**
+  1.  **To What Information Does This Privacy Statement Apply?**
 
 
 
@@ -74,13 +74,13 @@ This Privacy Statement also does not apply to third party websites that may be a
 
 If you choose to use our Systems in any way, such as browsing or interacting, you agree with the terms of our current Privacy Statement as posted here. If you do not agree with this Privacy Statement, you should not use our Systems. We may update or modify this Privacy Statement from time to time at our sole discretion, and will note the date of last update on the top of this page. We encourage you to visit this area frequently to stay informed, as your continued use of our Systems following the posting of changes to these terms means that you consent to such changes.
 
-  2. **What Information Does Ntrepid Collect?**
+  2.  **What Information Does Ntrepid Collect?**
 
 
 
 We may obtain information about you from various sources. We may collect this information when you provide directly through our website, mobile applications, telephone or email communication, or at one of our events. We may also collect information about you from third parties. When you use our Systems, we may also collect certain information about your device or usage by automated means or by using technologies such as cookies, web server logs, and web beacons.
 
-_Information that You or Others Provide_
+ _Information that You or Others Provide_
 
 You may choose to provide information to us in a number of ways, such as when you participate in an offer or promotion, when you register on our System, when you contact us, or when you otherwise interact on our Systems. The types of information you may provide to us include:
 
@@ -95,14 +95,14 @@ We may also collect your email address through our website for employment-relate
 
 If you provide us with information regarding another individual, we will assume that you have that person’s consent to give us his or her information. In addition, we may collect information about you that is provided to us by other users of our Systems and other third parties.
 
-_Information Collected Automatically_
+ _Information Collected Automatically_
 
 When you visit our Systems or our online advertisements, utilize our services, open an email that we send you, or interact with the communication features on our Systems, we may collect information about your usage or device by automated means or by using technologies such as cookies, web server logs, and web beacons. Some of the technologies we use to collect information automatically collected include:
 
-  * _Cookies_ : Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. We may use cookies that are managed by Ntrepid or by third parties for the purposes provided in this Privacy Statement, including for session management, authentication, user preference storage, Systems performance and personalization, Systems analytics, advertising (including affiliate marketing), content management, eCommerce, search, and social media integration.
-  * _Web server logs_ : In conjunction with obtaining information through cookies, our web servers may log details regarding your device, operating system, or information about your usage of our Systems.
-  * _Web beacons and pixels_ : We may place tags on our Systems or in emails called “web beacons” or “pixels.” These are computer instructions that link web pages to particular web servers and their cookies. Web beacons and pixels can be used to track the pages you view, links that you click, or other online behavior. These tools have a number of uses, such as measuring the effectiveness of our email campaigns and online advertisements (both on our Systems and on third party websites).
-  * _Other_ : In addition to cookies, web server logs, and web beacons, we may use other technologies to collect information for the purposes described in this Privacy Statement.
+  *  _Cookies_ : Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. We may use cookies that are managed by Ntrepid or by third parties for the purposes provided in this Privacy Statement, including for session management, authentication, user preference storage, Systems performance and personalization, Systems analytics, advertising (including affiliate marketing), content management, eCommerce, search, and social media integration.
+  *  _Web server logs_ : In conjunction with obtaining information through cookies, our web servers may log details regarding your device, operating system, or information about your usage of our Systems.
+  *  _Web beacons and pixels_ : We may place tags on our Systems or in emails called “web beacons” or “pixels.” These are computer instructions that link web pages to particular web servers and their cookies. Web beacons and pixels can be used to track the pages you view, links that you click, or other online behavior. These tools have a number of uses, such as measuring the effectiveness of our email campaigns and online advertisements (both on our Systems and on third party websites).
+  *  _Other_ : In addition to cookies, web server logs, and web beacons, we may use other technologies to collect information for the purposes described in this Privacy Statement.
 
 
 
@@ -112,7 +112,7 @@ We also collect information about you and your interactions with social media an
 
 At this time, we do not honor “do not track” signals from website browsers. However, you may refuse or delete cookies.  If you do so, some of the functionality of our website may be impaired. Additionally, you may still be identifiable and your usage may still be trackable by other means. Please refer to your browser “Help” instructions to learn more about how to manage cookies and the use of similar technologies.
 
-  3. **How Does Ntrepid Use My Information?**
+  3.  **How Does Ntrepid Use My Information?**
 
 
 
@@ -132,7 +132,7 @@ We use your information for the following purposes:
   * Marketing and advertising our products or services as well as products and services of third parties (such as affiliates, subsidiaries, and business partners).
 
 
-  4. **How Does Ntrepid Share My Information?**
+  4.  **How Does Ntrepid Share My Information?**
 
 
 
@@ -147,19 +147,19 @@ We may share aggregated data about you that does not identify you directly with 
 
 Your information may be stored in databases maintained by Ntrepid (including local storage) or third parties, and may be disclosed to third parties for the purposes stated in this Privacy Statement, that are located within and outside the United States, including countries where privacy rules differ and may be less stringent than those of the country in which you reside.
 
-  5. **Is My Information Secure?**
+  5.  **Is My Information Secure?**
 
 
 
 Ntrepid will take reasonable precautions to protect your information from loss, misuse, or alteration. Please be aware, however, that any email or other transmission you send through the Internet cannot be completely protected against unauthorized interception.
 
-  6. **Does Ntrepid Collect Information From Children?**
+  6.  **Does Ntrepid Collect Information From Children?**
 
 
 
 Ntrepid does not intentionally collect information from children under 13 years of age, and children under age 13 should not submit any information to us. If we become aware that a child has provided us with information without parental consent, or a parent or guardian of a child contacts us through the contact information provided below, we will use reasonable efforts to delete the child’s information from our databases.
 
-  7. **What Choices Do I Have?**
+  7.  **What Choices Do I Have?**
 
 
 
@@ -167,7 +167,7 @@ We want to communicate with you about our products and services and make content
 
 We store data for as long as it is necessary to provide the products and services described in this Privacy Statement, as required by law, and for our internal business purposes. If you would like us to delete your data, you may contact us using the information below, and we will make reasonable efforts to accommodate your request.
 
-  8. **How Can I Contact Ntrepid?**
+  8.  **How Can I Contact Ntrepid?**
 
 
 
