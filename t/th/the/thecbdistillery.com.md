@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecbdistillery.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417041641id_/https%3A//www.thecbdistillery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecbdistillery.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115081231id_/https%3A//www.thecbdistillery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The CBDistillery | We Protect Your Privacy
 
