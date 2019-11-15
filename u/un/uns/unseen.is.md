@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unseen.is privacy policy that was archived on 2018-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180806072711id_/https%3A//unseen.is/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unseen.is privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115101515id_/https%3A//www.unseen.is/privacy.html) for the most accurate reproduction.*
 
 # Unseen | Unseen Privacy Policy
 
