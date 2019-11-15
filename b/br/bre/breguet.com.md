@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breguet.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430092015id_/https%3A//www.breguet.com/en/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breguet.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115164254id_/https%3A//www.breguet.com/en/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Breguet
 
