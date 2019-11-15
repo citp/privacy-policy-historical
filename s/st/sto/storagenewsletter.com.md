@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storagenewsletter.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622112424id_/https%3A//www.storagenewsletter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagenewsletter.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115094136id_/https%3A//www.storagenewsletter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - StorageNewsletter
 
@@ -8,7 +8,8 @@ This privacy policy has been compiled to better serve those who are concerned wi
 **We do not collect information from visitors of our site.
 
 **When do we collect information?  
-**We collect information from you when you subscribe to our daily newsletter.
+**We collect information from you when you subscribe to our newsletter, or subscribe to our one-year unlimited access to 50,000+ articles published since 2007. When subscribing to our newsletter, you may be asked to enter your name, e-mail address, company name, profile and country. When subscribing to our one-year unlimited access to 50,000+ articles published since 2007, you may be asked to enter your name, e-mail address, company name, company address, profile and country. You will be requested to enter your credit card details for the payment but the process is directly handled by Stripe or PayPal and we do not keep any record of your credit card.  
+
 
 **How do we use your information?  
 **We use information we collect from you to send our daily newsletter and a maximum of 3 paid email blasts related to data storage each week.
@@ -16,7 +17,6 @@ This privacy policy has been compiled to better serve those who are concerned wi
 **How do we protect your information?**
 
   * We do not use vulnerability scanning and/or scanning to PCI standards.
-  * We only provide articles and information. We never ask for credit card numbers.
   * We do not use Malware Scanning.
   * We only provide articles and information. We never ask for personal or private information like names, email addresses, or credit card numbers.
 
@@ -25,7 +25,6 @@ This privacy policy has been compiled to better serve those who are concerned wi
 **Do we use ‘cookies’?  
 **We do not use cookies for tracking purposes
 
-  
 **Third-party disclosure  
 **We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
@@ -46,7 +45,7 @@ We collect your email address in order to send our daily Newsletter and a maximu
   * Identify the message as an advertisement in some reasonable way.
   * Include the physical address of our business or site headquarters.
   * Monitor third-party email marketing services for compliance, if one is used.
-  * Honor opt-out/unsubscribe requests immediatly
+  * Honor opt-out/unsubscribe requests immediately
   * Allow users to unsubscribe by using the link at the bottom of each email.
 
 
@@ -64,4 +63,4 @@ France
 
 info@storagenewsletter.com
 
-**Last Edited on 2017-06-30**
+**Last Edited on 2019-08-08**
