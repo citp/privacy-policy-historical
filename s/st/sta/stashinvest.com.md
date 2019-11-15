@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stashinvest.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411231130id_/https%3A//www.stashinvest.com/theprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stashinvest.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115163022id_/https%3A//www.stashinvest.com/theprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Stash
 
@@ -119,7 +119,7 @@ Notwithstanding anything to the contrary in this Privacy Policy, our Terms of Us
 
 You authorize the sharing, exchange and use of Cash Back Data described above and herein by and among Stash and our third-party service providers (including Empyr), applicable payment card networks and applicable merchants participating in the Stash Cash Back Program. 
 
-If you have consented to participate in our Stash Cash Back Program, please visit the Terms and Conditions of the Stash Cash Back Program on our Site (at [www.stashinvest.com/disclosurelibrary](https://web.archive.org/web/20190411231130id_/https%3A//www.stashinvest.com/www.stashinvest.com/disclosurelibrary)) to learn more about the card linking and transaction eligibility in connection with the Stash Cash Back Program. If you would like to opt out of the Stash Cash Back Program and unlink your cards, please contact us at [[email protected]](https://web.archive.org/web/20190411231130id_/https%3A//www.stashinvest.com/support@stashinvest.com) or follow the steps below:
+If you have consented to participate in our Stash Cash Back Program, please visit the Terms and Conditions of the Stash Cash Back Program on our Site (at [www.stashinvest.com/disclosurelibrary](https://web.archive.org/web/20191115163022id_/https%3A//www.stashinvest.com/www.stashinvest.com/disclosurelibrary)) to learn more about the card linking and transaction eligibility in connection with the Stash Cash Back Program. If you would like to opt out of the Stash Cash Back Program and unlink your cards, please contact us at [support@stashinvest.com](https://web.archive.org/web/20191115163022id_/https%3A//www.stashinvest.com/support@stashinvest.com) or follow the steps below:
 
   1. Go to “My Cards”
   2. Select the card you would like to unlink from the Stash Cash Back Program
@@ -130,7 +130,7 @@ If you have consented to participate in our Stash Cash Back Program, please visi
 
 Unlinking your card from the Stash Cash Back Program will not affect your enrollment in any other services offered by Stash for which you may have separately and independently enrolled your card.
 
-If you would otherwise like to opt-out of Stash’s sharing of your Information with affiliates and third parties, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#fd8e888d8d928f89bd8e899c8e9594938b988e89). We will use your Information for our internal business purposes, including but not limited to, creating user state modeling and comprehensive behavioral profiling.
+If you would otherwise like to opt-out of Stash’s sharing of your Information with affiliates and third parties, please contact us at [support@stashinvest.com](mailto:support@stashinvest). We will use your Information for our internal business purposes, including but not limited to, creating user state modeling and comprehensive behavioral profiling.
 
 If Stash intends on using your Personal Information in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Information is collected.
 
@@ -138,21 +138,21 @@ If Stash intends on using your Personal Information in any manner that is not co
 
 We will not share your Information with non-affiliated third parties that may use your Information to market to you, without obtaining your opt-in consent. For example, we may offer you with a product opportunity that requires us to share your Information with non-affiliated third parties that may use your Information to market to you. We will obtain your opt-in consent to such sharing of your Information when we present you with the terms of such offer.
 
-If you have opted-in for this kind of sharing of your Information, then you may: (i) choose to opt-out of such sharing by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection); or (ii) request certain information regarding our disclosure of your Information to such non-affiliated third parties by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#285b5d5858475a5c685b5c495b4041465e4d5b5c). If you have signed up for a Stash Debit account, you will not be able to opt out of us sharing Information with Green Dot Bank, the provider of the Stash Debit account.
+If you have opted-in for this kind of sharing of your Information, then you may: (i) choose to opt-out of such sharing by contacting us at support@stashinvest.com; or (ii) request certain information regarding our disclosure of your Information to such non-affiliated third parties by contacting us at [support@stashinvest.com](mailto:support@stashinvest). If you have signed up for a Stash Debit account, you will not be able to opt out of us sharing Information with Green Dot Bank, the provider of the Stash Debit account.
 
 ### Accessing and Modifying Information
 
-If you have provided us any Personal Information, you may access, review, and/or make changes, by making the changes in your registered account settings page, by emailing our Customer Support at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#73000603031c010733000712001b1a1d05160007) or by contacting us at the contact information listed below.
+If you have provided us any Personal Information, you may access, review, and/or make changes, by making the changes in your registered account settings page, by emailing our Customer Support at [support@stashinvest.com](mailto:support@stashinvest) or by contacting us at the contact information listed below.
 
 ### Communication Preferences
 
 When you sign up for our Services or newsletter(s), we will send periodic emails to you regarding the Services or to tell you about services we believe will be of interest to you.
 
-If at any time you wish not to receive any future newsletters or marketing communications or you wish to have your name deleted from our mailing lists, please following the unsubscribe instructions included in these emails or contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5d2e282d2d322f291d2e293c2e3534332b382e29). We will use commercially reasonable efforts to process such requests in a timely manner. Note however that as a user of the Services we and/or our custodian(s) will send you administrative and transactional communications that are reasonably necessary to provide the Services, such as billing, brokerage or service notifications and you cannot opt out of receiving such communications.
+If at any time you wish not to receive any future newsletters or marketing communications or you wish to have your name deleted from our mailing lists, please following the unsubscribe instructions included in these emails or contact us at [support@stashinvest.com](mailto:support@stashinvest). We will use commercially reasonable efforts to process such requests in a timely manner. Note however that as a user of the Services we and/or our custodian(s) will send you administrative and transactional communications that are reasonably necessary to provide the Services, such as billing, brokerage or service notifications and you cannot opt out of receiving such communications.
 
 We may also deliver notifications to your phone or mobile device. You can disable these notifications by deleting the relevant service or by changing the settings on your mobile device.
 
-By providing your phone number you expressly consent to Stash and/or its agents calling or texting you using an automated telephone dialing system and / or prerecorded messages, even if you incur charges for receiving such communications. For example, we may send you informational text messages to your mobile device in order to better service your account. You can revoke your consent to receiving informational text messages at any time by replying “STOP” or following any other instructions included in these text messages or you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f3808683839c8187b3808792809b9a9d85968087).
+By providing your phone number you expressly consent to Stash and/or its agents calling or texting you using an automated telephone dialing system and / or prerecorded messages, even if you incur charges for receiving such communications. For example, we may send you informational text messages to your mobile device in order to better service your account. You can revoke your consent to receiving informational text messages at any time by replying “STOP” or following any other instructions included in these text messages or you can contact us at [support@stashinvest.com](mailto:support@stashinvest).
 
 ### Surveys
 
@@ -162,7 +162,7 @@ We may, from time to time, ask you to participate in surveys on our Sites. Parti
 
 The security of your information is important to us. When you enter sensitive information (such as bank account information) in our App, we encrypt the transmission of that information using secure socket layer technology (SSL). We and our custodian also use third-party ID verification to ensure our users’ true identities are validated.
 
-We take commercially reasonable technical, administrative, and physical safeguards to protect information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases or the databases of the third parties with which we may share such information, nor can we guarantee that the information you supply will not be intercepted while being transmitted over the Internet. In particular, email sent to us may not be secure, and you should therefore take special care in deciding what information you send to us via email. If you have any questions about security on our website, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8af9fffafae5f8fecaf9feebf9e2e3e4fceff9fe).
+We take commercially reasonable technical, administrative, and physical safeguards to protect information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases or the databases of the third parties with which we may share such information, nor can we guarantee that the information you supply will not be intercepted while being transmitted over the Internet. In particular, email sent to us may not be secure, and you should therefore take special care in deciding what information you send to us via email. If you have any questions about security on our website, you can contact us at [support@stashinvest.com](mailto:support@stashinvest).
 
 ### Retention of Your Information
 
@@ -174,11 +174,11 @@ This Privacy Policy does not apply to any Personal Information collected by Stas
 
 ### Suspicious Email
 
-We do not email you or send you other electronic communications to request nonpublic information or account information (such as username and password). If you receive an unsolicited email or other electronic communication that appears to be from Stash but you suspect it may be from some other source or fraudulent, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cdbeb8bdbda2bfb98dbeb9acbea5a4a3bba8beb9).
+We do not email you or send you other electronic communications to request nonpublic information or account information (such as username and password). If you receive an unsolicited email or other electronic communication that appears to be from Stash but you suspect it may be from some other source or fraudulent, please email us at [support@stashinvest.com](mailto:support@stashinvest).
 
 ### Children
 
-The Platform is not directed to children under 13, and Stash does not knowingly collect or receive Personal Information from children under the age of 13 through the Platform and/or the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Privacy Policy by instructing their children to never provide any Personal Information on the Platform, the Services, or any other website without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to Stash through the Platform and/or the Services, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#186b6d6868776a6c586b6c796b7071766e7d6b6c), and we will endeavor to delete that information from our databases.
+The Platform is not directed to children under 13, and Stash does not knowingly collect or receive Personal Information from children under the age of 13 through the Platform and/or the Services. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Privacy Policy by instructing their children to never provide any Personal Information on the Platform, the Services, or any other website without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Information to Stash through the Platform and/or the Services, please contact us at [support@stashinvest.com](mailto:support@stashinvest), and we will endeavor to delete that information from our databases.
 
 If you establish an account with us that is governed by the Uniform Gifts to Minors Act or the Uniform Transfers to Minors Act that is for the benefit of a child under the age of 13, only the individual establishing the account provides Personal Information to us necessary to establish the account for the child under the age of 13. Subsequent to the creation of the account, we will only collect and use Personal Information related to the child for the limited purpose of providing the Services, and except as set forth in this Privacy Policy, such information will not be shared with third parties for any purpose not required or permitted by law, including marketing.
 
@@ -212,6 +212,6 @@ We may update this Privacy Policy to reflect changes to our information practice
 
 Please feel free to contact us if you have any questions about Stash’s Privacy Policy or our information practices:
 
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1b686e6b6b74696f5b686f7a687372756d7e686f)
+Email: [support@stashinvest.com](mailto:support@stashinvest)
 
 Phone: 1 (800) 205-5164
