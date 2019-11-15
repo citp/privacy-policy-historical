@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exactmetrics.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829214802id_/https%3A//exactmetrics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactmetrics.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115124122id_/https%3A//exactmetrics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ExactMetrics
 
@@ -49,6 +49,8 @@ ExactMetrics is the second-most popular Google Analytics plugin for WordPress. O
 ExactMetrics Google Analytics application uses the Google Analytics Reporting API to gather analytics about your website and present them in an actionable way via charts, graphs and tables inside your WordPress dashboard to any user with administrator level privileges on your website.
 
 ExactMetrics discloses client Google Analytics information with prior user consent only to those of its employees, contractors, and affiliated organizations that (i) need to know that information in order to process it on ExactMetrics behalf or to provide the services available at ExactMetrics websites (ii) and to provide necessary technical support for our services.
+
+You can learn about the use of Google oAuth permissions [here](https://exactmetrics.com/google-permissions-for-oauth/).
 
 **Privacy Policy Changes**
 
