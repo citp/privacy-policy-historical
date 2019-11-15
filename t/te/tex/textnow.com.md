@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the textnow.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629225647id_/https%3A//www.textnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textnow.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115095116id_/https%3A//www.textnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TextNow, Inc.
 
-{{'Effective: May 25, 2018' | i18n}}
+{{'Effective: May 25, 2018. Modified Sept. 16, 2019' | i18n}}
 
 ## {{'General' | i18n}}
 
-{{'1. This privacy policy (“Privacy Policy”) applies to all products/software, services and websites of TextNow, Inc. (TextNow, “our”, “we” or “us”) (collectively, the “Services”). You (“you” or “your”) consent to this Privacy Policy for collecting, using, disclosing and handling of your information (personal and device information) in connection with your access to, and use of, the Services. ' | i18n}}
+{{'1. This privacy policy (“Privacy Policy”) applies to all products/software, services and websites of TextNow, Inc. (TextNow, “our”, “we” or “us”) (collectively, the “Services”). You (“you” or “your”) consent to this Privacy Policy for collecting, using, disclosing and handling of your information (personal and device information) in connection with your access to, and use of, the Services. The 2ndline Application and the TextNow Application are both applications (software) from TextNow, Inc. ' | i18n}}
 
 {{'2. AS PART OF THE SERVICES, YOU ARE PROVIDED WITH A US/CANADIAN FORMATED TELEPHONE NUMBER. THE TELECOMMUNICATIONS INFRASTRUCTURE NECESSARY TO PROVIDED THE SERVICES ARE LOCATED IN THE US AND CANADA, AS SUCH YOU ARE UNDER THE JURISDICTION OF THE LAWS OF THE UNITED STATES AND THE LAWS OF CANADA when you accept the Services with the US/Canadian telephone number. ' | i18n}}
 
@@ -27,7 +27,7 @@
 {{'Waterloo, ON' | i18n}}  
 {{'N2L 0J6' | i18n}}  
 {{'Canada' | i18n}}  
-{{'Email: legal@enflick.com' | i18n}}
+{{'Email: legal@textnow.com' | i18n}}
 
 {{'9. You may update your personal information (including flagging your messages for deletion) by accessing your account from our website at' | i18n}} [https://www.textnow.com](https://www.textnow.com/).
 
@@ -35,7 +35,7 @@
 
 {{'1. Personal Information: When you sign up for a user account for any of the Services, We collect personal information, such as your name, and email address. When you sign up for paid service, we also collect your payment information for billing purposes.' | i18n}}
 
-{{'2. Device Information: When you access our website or use our software, the information we collect include IP Addresses, location data, Device ID, Advertiser ID, browser type and settings, device type and settings, and operating system (such as iOS and Android).' | i18n}}
+{{'2. Device Information: When you access our website or use our software (TextNow Application and/or 2ndline Application), the information we collect include IP Addresses, location data, Device ID, Advertiser ID, browser type and settings, device type and settings, and operating system (such as iOS and Android).' | i18n}}
 
 {{'3. Cookies and Analytical Tracking: Sometimes we use cookie technology, web beacons and other similar devices on our Websites and our software to enhance functionality and navigation, and portions of our Websites and our software may use statistical tools that may be operated by third party providers (collectively, the “Analytical Tools”). The third party providers of Analytical Tools may also transfer this information to other third parties where they are required to do so by law, or where such third parties process the information on their behalf. You consent to the processing of data about you by third party providers of Analytical Tools in the manner and for the purposes set out herein.' | i18n}}
 
@@ -43,9 +43,9 @@
 
 {{'5. Third Parties: We may make third party applications, such as extensions, available through the Services. The information collected by us when you enable a third party application is processed under this Privacy Policy. Information collected by the third party application provider is governed by their privacy policies. For example:' | i18n}}
 
-{{'Emogi Privacy Policy' | i18n}}
+{{'Emoji Privacy Policy' | i18n}}
 
-[{{'Click here to view Emogi\'s Privacy Policy' | i18n}}](https://www.emogi.com/privacy-policy)
+[{{'Click here to view Emoji\'s Privacy Policy' | i18n}}](https://www.emoji.com/privacy-policy)
 
 {{'6. We “do not track” you across third party websites. However, we do track you as per this Privacy Policy, and further some of our third party advertisers may also track you across other websites or online services. ' | i18n}}
 
@@ -55,7 +55,7 @@
 
 {{'2. As a provider of telecommunications services, we are subject to legal and regulatory requirements to retain some of your information such as telephone toll records for a period of time.' | i18n}}
 
-{{'3. We provide the information we collect to third parties, such as advertisers, in order to provide you with commercial advertisements. The provision of such information generate revenue to pay in part or in whole for the Services. We do not provide personal information to third parties except for billing purposes.' | i18n}}
+{{'3. We provide the information we collect to third parties, such as advertisers, in order to provide you with commercial advertisements. An anonymization or pseudonymization (such as hashing) of your email address may be provided to the third parties for these purposes. The provision of such information generate revenue to pay in part or in whole for the Services. We do not provide personal information to third parties except for billing purposes.' | i18n}}
 
 {{'If you would like more information about this practice and to know your choices about not having this information used by these companies, click here ' | i18n}} [(http://www.networkadvertising.org/managing/opt_out.asp)](http://www.networkadvertising.org/managing/opt_out.asp).
 
@@ -65,7 +65,10 @@
 
 ## {{'Revoking Your Consent' | i18n}}
 
-{{'1. You may withdraw your consent to the ongoing uses of your information set out in this Privacy Policy at any time, subject to legal or contractual restrictions and reasonable notice. You can withdraw your consent by deactivating your account.' | i18n}}  
+{{'1. You may withdraw your consent to the ongoing uses of your information set out in this Privacy Policy at any time, subject to legal or contractual restrictions and reasonable notice. You can withdraw your consent by deactivating your account or by uninstalling the TextNow Application using the standard uninstall procedures that may be available as part of your mobile device or via the mobile application marketplace or network where you obtained the TextNow Application.' | i18n}}  
+
+
+{{'2. You may opt-out of providing your location information to us when you are using mobile devices. If you do not want us to use your location information as described in this Privacy Policy, you should turn off the location services for the mobile application located in your mobile device settings. Please refer to instructions provided by your mobile service provider or the manufacturer of your device to learn how to adjust your mobile device and mobile browser settings.' | i18n}}  
 
 
 ## {{'Disclosure and Retention of Your Information' | i18n}}
