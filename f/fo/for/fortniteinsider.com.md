@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortniteinsider.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509203543id_/https%3A//fortniteinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortniteinsider.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115181510id_/https%3A//fortniteinsider.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fortnite Insider
 
@@ -73,4 +73,9 @@ If you do not wish to receive future communications from us by e-mail, simply fo
 
 There are also times when you provide information about yourself to us in areas of the site that may be managed or participated in by third parties, such as e-commerce. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies.
 
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie.
+
 We may also provide access to our database in order to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal process.
+
+  
+To change your privacy settings, click here
