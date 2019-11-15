@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisismyjam.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529115846id_/https%3A//www.thisismyjam.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisismyjam.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115221924id_/https%3A//www.thisismyjam.com/privacy) for the most accurate reproduction.*
 
 # Privacy | This Is My Jam
 
