@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.duckdns.org privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504100912id_/http%3A//duckdns.org/pp.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.duckdns.org privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115070122id_/http%3A//duckdns.org/pp.jsp) for the most accurate reproduction.*
 
 # Duck DNS - privacy policy
 
