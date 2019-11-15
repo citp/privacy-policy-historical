@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksalpha.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516195756id_/http%3A//www.linksalpha.com/about/privacy%3Futm_campaign%3Dhome_2013%26utm_medium%3Dwebsite%26utm_source%3Dhome%26utm_content%3DHome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksalpha.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115082445id_/https%3A//www.linksalpha.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LinksAlpha
 
