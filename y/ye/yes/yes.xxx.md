@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yes.xxx privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519102255id_/http%3A//www.yes.xxx%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yes.xxx privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115105840id_/http%3A//www.yes.xxx%3Fs%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - YES.XXX
 
