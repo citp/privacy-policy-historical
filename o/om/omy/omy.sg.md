@@ -1,40 +1,64 @@
-> *The following text is extracted and transformed from the omy.sg privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528163325id_/http%3A//www.sph.com.sg/legal/sph_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omy.sg privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115093035id_/https%3A//easycredit.com.sg/privacy-policy) for the most accurate reproduction.*
 
-# SPH Privacy Policy - Singapore Press Holdings
+# Privacy Policy - Licensed Money Lender Directory | Easy Credit Singapore
 
-This Privacy Policy applies to all information collected by Singapore Press Holdings Ltd and/or its related entities, affiliates and subsidiaries (individually and collectively, " **SPH** ") under **Clause 1** below. 
+Skip to content
 
-For the purpose of this Policy, “ **we** ” and “ **our** ” shall refer to SPH. 
+Privacy Policy[Easy Credit](https://easycredit.com.sg/author/easycredit/ "Posts by Easy Credit")2019-08-29T14:18:46+08:00
 
-**1.** | **When is information collected from you?**  
----|---  
-**1.1** | When you register for or use any of our services on websites owned and/or operated by us.  
-**1.2** | When you take part in any contest, survey or promotion conducted by us and/or our business partners.  
-**1.3** | When you register as a member of websites owned and/or operated by us, or hosted by us on behalf of our business partners or use services on such websites.   
-  |    
-**2.** | **What is the information used for?** ****  
-**2.1** | Information which you provide to us may be used and disclosed by us and our affiliates, business partners and contractors (who may be based outside Singapore) for the following purposes:  
-  |  | **2.1.1** | to respond to your requests and queries;  
----|---  
-**2.1.2** | to provide goods and services to you;  
-**2.1.3** | to verify and process your personal particulars and payments;  
-**2.1.4** | to communicate with you;  
-**2.1.5** | to enforce contractual and legal rights and obligations;  
-**2.1.6** | for marketing research, user profile and statistical analysis;   
-**2.1.7** | to send you information, promotions, updates, and marketing and advertising materials in relation to our goods and services and those of third party organisations;  
-**2.1.8** | complying with law, the requests of law enforcement and regulatory officials, or orders of court; and  
-**2.1.9** | for any other purposes for which we have obtained your consent, including during the registration process under our[ Member Terms and Conditions](https://web.archive.org/legal/member_conditions.html).  
-**2.2** | In the event that you participate in contests or other promotional programs on our websites sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our sites, your information may be disclosed to and used by such third parties.   
-  |    
-**3.** | **Use of cookies**  
-**3.1** | SPH uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites.  The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites.   
-**3.2** | Like many web site operators, SPH may use an independent company (the “ **Third Party** **Market Research Company** ”) to measure and analyse the Internet usage across SPH web sites.  SPH uses the Third Party Market Research **** Company’s services to collect the following core information on the usage of our web sites, including:   
-  |  | **3.2.1** | The number of page views (or page impressions) that occur on SPH web sites;   
----|---  
-**3.2.2** | The number of unique visitors to SPH web sites;   
-**3.2.3** | How long these unique visitors (on average) spend on SPH web sites when they do visit; and   
-**3.2.4** | Common entry and exit points into SPH web sites.   
-**3.3** | This information is collated by the Third Party Market Research Company and provided to SPH to assist in analysing the usage of SPH web sites. Such data is also accessible by media organizations and research companies, for the purpose of conducting industry comparisons with other Internet portals.   
-**3.4** | Pages on SPH web sites may be coded with software which enables the Third Party Market Research Company and SPH to track visitors to our web sites.  
-  
-(Last updated on 25 January 2011) 
+This Privacy Policy governs the manner in which **[Easy Credit](https://easycredit.com.sg/ "Licensed Money Lender")** collects, uses, maintains and discloses information collected from users (each, a “User”) of the Easy Credit website (“Site”). This privacy policy applies to the Site and all products and services offered by EasyCredit.
+
+### Personal identification information
+
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+
+### Non-personal identification information
+
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+### Web browser cookies
+
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+### How we use collected information
+
+Easy Credit may collect and use Users personal information for the following purposes:
+
+  * To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site  
+We may use feedback you provide to improve our products and services.
+  * To send periodic emails  
+We may use the email address to respond to their inquiries, questions, and/or other requests.
+
+
+
+### How we protect your information
+
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+
+### Sharing your personal information
+
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+
+### Third party websites
+
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+
+### Advertising
+
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+
+### Changes to this privacy policy
+
+Easy Credit has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+### Your acceptance of these terms
+
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+### Contacting us
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#94f5f0f9fdfad4f1f5e7edf7e6f1f0fde0bae7f3)
+
+Share This:
