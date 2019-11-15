@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ned.org privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407144908id_/https%3A//www.ned.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ned.org privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115084609id_/https%3A//www.ned.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – NATIONAL ENDOWMENT FOR DEMOCRACY
 
@@ -30,7 +30,7 @@ NED receives data from you to provide you with benefits you have requested from 
 
 **When and how we share information with others**
 
-As a recipient federal appropriations and funding from other entities, NED is required to provide certain information regarding parties who are beneficiaries of these funds.  Such information may be shared in the course of fulfilling standard compliance and reporting requirements in adherence with the terms of the entity’s grant to NED, as well as to comply with U.S. law, to include the NED Act.  These requirements also include provisions to protect individuals’ privacy.
+As a recipient of federal appropriations and funding from other entities, NED is required to provide certain information regarding parties who are beneficiaries of these funds.  Such information may be shared in the course of fulfilling standard compliance and reporting requirements in adherence with the terms of the entity’s grant to NED, as well as to comply with U.S. law, to include the NED Act.  These requirements also include provisions to protect individuals’ privacy.
 
 We do not reveal your personal data to third-parties for their independent use unless: (1) you request or authorize it; (2) the information is provided to a NED event co-sponsor on a per-event basis; (3) the information is provided to comply with the law, enforce an agreement we have with you, or to protect our rights, property or safety, or the rights, property or safety of our employees or others; (4) the information is provided to our agents, vendors or service providers who perform functions on our behalf; (5) to address emergencies or acts of God; or (6) to address disputes, claims, or to persons demonstrating legal authority to act on your behalf. We may also gather aggregated data about site visitors and disclose the results of such aggregated (but not personally identifiable) information to our partners or service providers.
 
