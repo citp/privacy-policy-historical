@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faso.com privacy policy that was archived on 2018-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181102215920id_/https%3A//faso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faso.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115195347id_/https%3A//faso.com/privacy) for the most accurate reproduction.*
 
 # Policies
 
@@ -19,7 +19,7 @@ For purposes of this Privacy Policy, the following definitions apply:
 **Site Access**
 
 FASO Client access to this site may be restricted by password. Interested Customer access to this site is provided to view FASO Client branded pages. Accessing this site means You agree with the License to use this site. To review the license terms please click:  
-<http://faso.com/tos>
+[http://faso.com/tos](https://faso.com/tos)
 
 **Collection and Use of Personal Information**
 
@@ -71,7 +71,7 @@ By using this Web site, You consent to the collection and use of Your informatio
 You will only receive communications from FASO if You have subscribed to our email newsletter or have requested information. Every email newsletter sent gives You the opportunity to unsubscribe with one click if You no longer wish to receive it. You can also request that FASO no longer send You information from us in the following ways: 
 
 You can send email here, with "Opt Out" in the subject line:  
-<http://faso.com/contact3.html>
+[http://faso.com/contact3.html](https://faso.com/contact3.html)
 
 **Resolution of Concerns and Issues: How to Contact Us**
 
