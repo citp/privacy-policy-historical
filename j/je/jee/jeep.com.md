@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeep.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425053048id_/https%3A//www.jeep.com/crossbrand_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeep.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115185716id_/https%3A//www.jeep.com/crossbrand_us/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
