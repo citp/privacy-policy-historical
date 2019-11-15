@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torguard.net privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604221926id_/https%3A//torguard.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torguard.net privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115100131id_/https%3A//torguard.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | TorGuard
 
