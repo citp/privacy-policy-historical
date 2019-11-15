@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hype.my privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330223820id_/https%3A//hype.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hype.my privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115110948id_/https%3A//hype.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hype Malaysia
 
-**This Agreement was last revised on 1 st April 2012.**
+**This Agreement was last revised on 1 st April 2019.**
 
 Welcome to Hype.my, the website and online service of Lowyat MSC Sdn Bhd (“Company” “we,” or “us”). Hype.my knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use Hype.my and related services (the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-**Information We Collect**  
+ **Information We Collect**  
 User-Provided Information: You provide us information about yourself, such as your name and e-mail address, when you register with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
 Cookies Information: When you visit Hype.my, we may send one or more cookies — a small text file containing a string of alphanumeric characters — to your computer that uniquely identifies your browser and lets Company help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
@@ -15,7 +15,7 @@ Log File Information: Log file information is automatically reported by your bro
 
 Clear Gifs Information: When you use the Service, we may employ clear gifs which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Company account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
 
-**  
+ **  
 **How We Use Your Information****  
 We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
 
@@ -29,7 +29,7 @@ Company reserves the right, but has no obligation, to monitor the User Content y
 
 We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
 
-**How We Share Your Information**  
+ **How We Share Your Information**  
 Personally Identifiable Information: Company will not rent or sell your personally identifiable information to others. Company may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
 
 As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
@@ -44,7 +44,7 @@ Company does not provide any personally identifiable information to these third-
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers.
 
-**How We Protect Your Information**  
+ **How We Protect Your Information**  
 Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.  
@@ -52,16 +52,16 @@ To protect your privacy and security, we take reasonable steps (such as requesti
 **Compromise of Personal Information****  
 In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-**Your Choices About Your Information**  
+ **Your Choices About Your Information**  
 You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.
 
-**Children’s Privacy**  
+ **Children’s Privacy**  
 Protecting the privacy of young children is especially important. For that reason, Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Company. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at askus@hype.my.
 
-**Links to Other WebSites**  
+ **Links to Other WebSites**  
 We are not responsible for the practices employed by Web sites linked to or from our website nor the information or content contained therein. Please remember that when you use a link to go from our website to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website’s own rules and policies. Please read over those rules and policies before proceeding.
 
-**Notification Procedures**  
+ **Notification Procedures**  
 It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.  
 **  
 **Changes to Our Privacy Policy****  
