@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the smartdnsproxy.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610020203id_/https%3A//www.smartdnsproxy.com/Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdnsproxy.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115093428id_/https%3A//www.smartdnsproxy.com/Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smart DNS Proxy
 
-This privacy policy ("Policy") covers the website http://www.smartdnsproxy.com which are owned and operated by Global Stealth, Incorporated ("SmartDNSProxy", "we", "us", "our"), and all associated SmartDNSProxy services (“Services”) provided by Global Stealth, Inc. through these Websites.
+This privacy policy ("Policy") covers the website http://www.smartdnsproxy.com which are owned and operated by B1 Secure sp z o.o ("SmartDNSProxy", "we", "us", "our"), and all associated SmartDNSProxy services (“Services”) provided by B1 Secure sp z o.o through these Websites.
 
 ####  What we collect
 
-Global Stealth, Inc. may collect personally identifiable information from Users in variety of ways on it's websites, including through online forms for ordering it's services and some other instances Users may get invited to volunteer such information. 
+B1 Secure sp z o.o may collect personally identifiable information from Users in variety of ways on it's websites, including through online forms for ordering it's services and some other instances Users may get invited to volunteer such information. 
 
 ####  How We Use Information
 
-Global Stealth, Inc. collects and uses such information only insofar as is it deems reasonably necessary in order to provide our Services, for us to manage and send you notices regarding your account, and for us to send you notices regarding the Services. We however will NOT share this information with trusted affiliates, independent contractors, business partners or outside entities.
+B1 Secure sp z o.o collects and uses such information only insofar as is it deems reasonably necessary in order to provide our Services, for us to manage and send you notices regarding your account, and for us to send you notices regarding the Services. We however will NOT share this information with trusted affiliates, independent contractors, business partners or outside entities.
 
 ####  How We Secure The Information
 
