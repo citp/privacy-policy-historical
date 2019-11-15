@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twilightlexicon.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305005854id_/https%3A//www.twilightlexicon.com/administration/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilightlexicon.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115104405id_/https%3A//www.twilightlexicon.com/administration/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Twilight Lexicon
 
