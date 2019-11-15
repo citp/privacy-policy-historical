@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theonering.net privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515210714id_/http%3A//www.theonering.net/torwp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonering.net privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115193431id_/https%3A//www.theonering.net/torwp/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hobbit Movie News and Rumors | TheOneRing.net™
+# Privacy Policy | J.R.R. Tolkien Books and Movies | TheOneRing.net™ | The Lord of the Rings, The Hobbit, The Silmarillion
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form.
 
