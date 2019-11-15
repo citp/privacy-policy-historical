@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estatesgazette.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220133857id_/https%3A//www.reedbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesgazette.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115151002id_/https%3A//www.reedbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Reed Business Information
 
