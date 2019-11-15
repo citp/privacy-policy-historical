@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gqueues.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515192852id_/https%3A//www.gqueues.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gqueues.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115074244id_/https%3A//www.gqueues.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GQueues
 
 Effective Date: August 3, 2018
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=d2d491a5-c577-4eb4-8150-d2b36d16eb77 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=d2d491a5-c577-4eb4-8150-d2b36d16eb77)
 
 This Privacy Policy describes the information GQueues LLC, (collectively, " **GQueues** ", " **We** ", " **Us** ", or " **Our** ") collects and how we use, disclose, and secure the information you provide to us. It also describes your choices regarding use, access and correction of your personal information. The use of information collected and processed through our Services shall be limited to the purpose of providing the Services for which the User has engaged GQueues.
 
@@ -141,5 +141,5 @@ We may update this Privacy Policy from time to time to reflect changes to our in
 Please feel free to contact GQueues if you have any questions about this Privacy Policy or GQueues' practices, or if you are seeking to exercise any of your statutory rights. You may contact us at [privacy@gqueues.com](mailto:privacy@gqueues.com) or at our mailing address below:
 
 GQueues LLC   
-2223 16th St   
+1824 Pearl St Unit A   
 Boulder, CO 80302 
