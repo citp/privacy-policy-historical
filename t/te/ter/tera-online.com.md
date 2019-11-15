@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the tera-online.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623143604id_/http%3A//tera.enmasse.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tera-online.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115212956id_/https%3A//enmasse.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Legal - Privacy Policy - TERA
-
-## Privacy and Cookie Policy
+# Privacy Policy
 
 En masse Entertainment, Inc. (“En Masse”, “we”, or “our”) respects your privacy and is committed to protect the personal Information that you may provide us while using our sites located on the enmasse.com domain (the “Site”) and the services and features offered through the Site (the “Services”). This policy describes what information En Masse Collects when you use the Services and offered by En Masse. By using our Services, you consent to this policy.
 
-### Table of Contents
+## Table of Contents
 
   1. Information We Collect
   2. How We Collect Information
@@ -66,7 +64,7 @@ We also may collect information locally on your device, using mechanisms like Se
 
 ### 2\. How We Collect Information
 
-We collect information from you when you provide it to us directly, such as via an online form on our website or when you summit your support ticket to our CS team through http://support.enmasse.com/games. And also we and third parties use certain technologies described below to collect information to deliver excellent experiences.
+We collect information from you when you provide it to us directly, such as via an online form on our website or when you summit your support ticket to our CS team through https://support.enmasse.com. And also we and third parties use certain technologies described below to collect information to deliver excellent experiences.
 
 #### A. Cookies and Other Similar Tracking Technologies
 
@@ -174,17 +172,17 @@ Information collected is secured in a manner consistent with this Privacy Policy
 
 Please note that if you grant consent for your child to use En Masse's services, this may include such general audience communication services as email, instant messaging, and forum, and your child will be able to communicate with, and disclose personal information to, other users of all ages. We encourage you to talk with your children about communicating with strangers and disclosing personal information online.
 
-If you are a parent and wish to revoke your previously provided consent, review information collected from your child or have that information deleted, contact the appropriate [support.enmasse.com](http://support.enmasse.com/games).
+If you are a parent and wish to revoke your previously provided consent, review information collected from your child or have that information deleted, contact the appropriate [support.enmasse.com](https://support.enmasse.com/).
 
 If we make material changes to how we use, collect, or share your child's personal information, we will notify parents by email or by in-game notice in order to obtain verifiable parental consent for the new uses of your child's personal information.
 
 ### 8\. Your Choices and Controls
 
-We give you meaningful choices when it comes to important uses and collection of information. For example, you can update your account information and preferences, choose to opt in or out of newsletters and Account Armor™, and choose whether to save your payment method. If you want at any time after granting approval, you can opt in or out and review and change most of your preferences through your En Masse Account settings. If you need additional assistance, please contact [support.enmasse.com/games](http://support.enmasse.com/games).
+We give you meaningful choices when it comes to important uses and collection of information. For example, you can update your account information and preferences, choose to opt in or out of newsletters and Account Armor™, and choose whether to save your payment method. If you want at any time after granting approval, you can opt in or out and review and change most of your preferences through your En Masse Account settings. If you need additional assistance, please contact [support.enmasse.com](https://support.enmasse.com/).
 
-You may deactivate your En Masse Account or delete the personal information associated with your account by contacting [support.enmasse.com/games](http://support.enmasse.com/games) or your Personal Information Protection Officer. If you do so, you will no longer have access to the En Masse games or services associated with your account. Note that En Masse may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our services. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you services, create and improve our services, comply with the law, and to run our business. The Information retained is secured in a manner consistent with this Privacy Policy (see Section 6 above).
+You may deactivate your En Masse Account or delete the personal information associated with your account by contacting [support.enmasse.com](https://support.enmasse.com/) or your Personal Information Protection Officer. If you do so, you will no longer have access to the En Masse games or services associated with your account. Note that En Masse may retain information needed to resolve disputes, enforce our user agreements, protect our legal rights, and comply with technical and legal requirements and constraints related to the security, integrity and operation of our services. Otherwise, we will retain your personal information for as long as reasonably necessary to provide you services, create and improve our services, comply with the law, and to run our business. The Information retained is secured in a manner consistent with this Privacy Policy (see Section 6 above).
 
-You have rights of access, rectification, erasure, restriction and object of processing and data portability for the personal information we hold about you. To request your rights, contact [support.enmasse.com/games](http://support.enmasse.com/games). Before we process any request, we may ask you for certain personal information in order to verify your identity and we may request payment where allowed by law. Where permitted by local law, we may reject requests that are unreasonable or impractical. We will respond to your requests in a reasonable timeframe.
+You have rights of access, rectification, erasure, restriction and object of processing and data portability for the personal information we hold about you. To request your rights, contact [support.enmasse.com](https://support.enmasse.com/). Before we process any request, we may ask you for certain personal information in order to verify your identity and we may request payment where allowed by law. Where permitted by local law, we may reject requests that are unreasonable or impractical. We will respond to your requests in a reasonable timeframe.
 
 You also may adjust your browser settings to block certain online tracking, such as cookies. (see Section 2.A above).
 
@@ -198,7 +196,7 @@ We may update this policy from time to time, so please review it frequently. We'
 
 ### 11\. Contact Us
 
-If you have a complaint or question about this policy, you may contact us through [support.enmasse.com/games](http://support.enmasse.com/games) If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact Personal Information Protection Officer.
+If you have a complaint or question about this policy, you may contact us through [support.enmasse.com](https://support.enmasse.com/) If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact Personal Information Protection Officer.
 
 #### Post:
 
@@ -227,6 +225,8 @@ New Mallow Road
 Cork T23AT2P  
 Ireland
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
+
+For residual complaints not fully or partially resolved by other means, you may be able to invoke binding arbitration before the Privacy Shield Panel as detailed in the Principles.
 
 For more information and updates to this policy, visit <http://www.enmasse.com/legal/privacy-policy>
