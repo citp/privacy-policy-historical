@@ -1,71 +1,78 @@
-> *The following text is extracted and transformed from the newfrog.com privacy policy that was archived on 2017-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170525153949id_/http%3A//www.newfrog.com/help_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newfrog.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115124414id_/https%3A//www.newfrog.com/helper/index%3Fid%3D64) for the most accurate reproduction.*
 
-# Privacy Concerns at Newfrog
+# Security & Privacy | NewFrog.com
 
-  * Can I trust Newfrog.com?
-  * What information may be collected?
-  * How does Newfrog.com collect information about me?
-  * How does Newfrog.com use my personal information?
-  * How to unsubscribe our email?
-  * When will Newfrog.com change privacy policy?
-  * Questions or Concerns
+PRIVACY POLICY
+
+Original Effective Date: August 31, 2017.
+
+Your privacy is an important factor, Newfrog Application and newfrog.com considers in the development of our Site. As such, we are committed to being transparent and open. This Privacy Policy explains generally how we receive information about our customers, and what we do with that information once we have it.
+
+ **What information do we collect?**
+
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
+
+When ordering or registering on our site, as appropriate, you may be asked to enter the following: your name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+
+ **What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways: 
+
+  * • To personalize your experience  
+     (your information helps us to better respond to your individual needs)
+
+  * • To improve our website and your shopping experience   
+     (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+
+  * • To improve  customer service   
+     (your information helps us to more effectively respond to your customer service requests and support needs)
+
+  * • To process  transactions  
+     Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+
+  * • To administer a contest, special promotion, survey, activity or other site      feature
+
+  * • To send periodic emails  
+     The email address you provide for order processing, may be used to send      you important information and updates pertaining to your order, in      addition to receiving occasional company news, updates, related product or      service information, etc.
 
 
 
-### Can I trust Newfrog.com?
 
-Newfrog.com adopts available high technology and encryption to protect every customer's Personal information online/offline. Personal Information is stored in a secure environment protected by a combination of physical and technical measure, only our specific staffs know the information for handling with orders.
+ **How do we protect your information?**
 
-Newfrog.com is a reliable electronic business website to offer best goods and service to customers, will not give out any customer privacy information.
+Customers are responsible for their own username and password safety and security on Newfrog. We recommend choosing a strong password and changing it frequently. Please do not use the same login details (email and password) across multiple websites. 
 
-### What information may be collected?
+That said, we do implement a variety of security measures including offering the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-Register email, Password (No any other body can get your password include our staffs, it is encrypted!)
+Our servers and website are security scanned and fully verified externally by McAfee Secure from Symantec on a daily basis to protect you online. Click on the certificated seal to learn more. 
 
-Nickname, IP address, the date and time, browser and operating system, the URL you request, your PayPal email, your PayPal shipping address; Other information if you want to share with us, like Phone number etc.
+**Do we use cookies?**
 
-Note: phone number is useful to postman.
+Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you have allowed it via your settings. This enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-### How does Newfrog.com collect information about me?
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools for you in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us directly conduct and improve our business.
 
-When you browse our website, we may collect:
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting Customer Service.
 
-IP address, browser and operating system, the URL you request.
+ **Do we disclose any information to outside parties?**
 
-When you register in our website, we may collect information:
+Absolutely not. We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Register email, Nickname, IP address, the date and time, browser and operating system, the URL you request.
+ **Third party links**
 
-When you place orders in our website, we may collect:
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-Register email, Nickname, IP address, the date and time, browser and operating system, the URL you request, PayPal email, PayPal shipping address
+ **Terms and Conditions**
 
-When we have more cooperation, we may collect more information: like Phone number, your website, MSN, your reviews and testimonials etc
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service ](https://www.newfrog.com/helper/index?id=65)
 
-**Links**
+**Terms and Conditions** **** ****
 
-Our website contains links to other sites (like tracking web). Please be aware that Newfrog.com is not responsible for the privacy practices of such other sites. We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website.
+By using our site, you consent to our online privacy policy.
 
-### How does Newfrog.com use my personal information?
+ **Changes to our Privacy Policy**
 
-We need the information to process your orders and offer better services to you; we want to make it easier to tailor our products and services to your particular needs. We also want you to have the most enjoyable Internet and shopping experiences possible. This Personal Information also may be used to contact you about sales, special offers and new site features, unless you have elected not to receive promotional communications in connection with this website. However, if you do not like receive promotion emails from us, we will respect you wish.
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-### How to unsubscribe our email?
-
-We use email to communicate news and special promotions to our members. If you'd rather not receive these messages, you can click the unsubscribe link on the email and you will be unsubscribed from the mail list immediately and without cost.
-
-### When will Newfrog.com change privacy policy?
-
-If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Customers are responsible for periodically checking the Privacy Policy available on the Website for changes. If we make material changes to this policy, we will notify you here or by means of a notice on our homepage.
-
-### Questions or Concerns
-
-Questions regarding our Privacy Policy, or other policy related material can be directed to our support staff by clicking on the "Contact Us" link in the side menu. Or through the following methods:
-
-**Live Chat** :[http://www.newfrog.com/livezilla/chat.php?acid=7faf8&ee=fw__](http://www.newfrog.com/livezilla/chat.php?acid=7faf8&ee=fw__)
-
-**Email** :[sales@newfrog.com](mailto:sales@newfrog.com?subject=Contact).
-
-**Telephone** : (+86)755-84525519
-
-**Contact Address** : Universal E-Business (Shenzhen) Co., Ltd 3rd Floor, Block 1 ,Xintianxia Industry ,Banxuegang Avenue, Longgang District,Shenzhen City, China (Office time: 9:00am to 6:00pm GMT + 08:00)
+**https://www.Newfrog.com  
+service@Newfrog.com**
