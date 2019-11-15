@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gpnotebook.co.uk privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615194737id_/https%3A//www.gpnotebook.co.uk/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpnotebook.co.uk privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115200002id_/http%3A//gpnotebook.co.uk/privacy.cfm) for the most accurate reproduction.*
 
 # General Practice Notebook
 
 This website is provided by Oxbridge Solutions Limited, registered in England and Wales under company number 2592842 at Ground Floor, 108 Cannon Street, London, EC4N 6EU, UK.  
 We take very seriously the privacy of our website users and the security of their personal information.   
-This Privacy Policy together with our Terms and Conditions (<http://www.gpnotebook.co.uk/TnC.cfm>) set out the principles governing our use of personal information which you give or we obtain about you. By using this website you agree to this use. We ask you to read this Privacy Policy carefully. Any dispute which may arise over privacy will be subject to this policy, any data collection notice incorporated into this website and the provisions of English law.   
+This Privacy Policy together with our Terms and Conditions (<https://www.gpnotebook.co.uk/TnC.cfm>) set out the principles governing our use of personal information which you give or we obtain about you. By using this website you agree to this use. We ask you to read this Privacy Policy carefully. Any dispute which may arise over privacy will be subject to this policy, any data collection notice incorporated into this website and the provisions of English law.   
 We may change our Privacy Policy from time to time. Therefore we ask you to check this Privacy Policy occasionally to ensure that you are aware of the most recent version which will apply each time you access this website. 
 
 DESCRIPTION OF THE INFORMATION WE COLLECT
