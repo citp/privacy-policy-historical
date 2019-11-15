@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thez9.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518001857id_/https%3A//thez9.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thez9.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115122903id_/https%3A//thez9.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TheZ9
 
