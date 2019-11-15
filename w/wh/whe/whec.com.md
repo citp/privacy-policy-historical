@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whec.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330080600id_/https%3A//www.whec.com/article/stories/s1845425.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whec.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115231903id_/https%3A//www.whec.com/article/stories/s1845425.shtml) for the most accurate reproduction.*
 
 # News10NBC Privacy Policy | WHEC.com
 
