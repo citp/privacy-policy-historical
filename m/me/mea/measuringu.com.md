@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the measuringu.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315195050id_/https%3A//measuringu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the measuringu.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115224743id_/https%3A//measuringu.com/privacy) for the most accurate reproduction.*
 
 # MeasuringU: Privacy
 
