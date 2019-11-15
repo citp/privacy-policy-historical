@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the documentarystorm.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422223303id_/https%3A//www.documentarystorm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the documentarystorm.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115174618id_/https%3A//www.documentarystorm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DocumentaryStorm.com
 
