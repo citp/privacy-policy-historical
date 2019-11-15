@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiksha.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522224048id_/https%3A//www.shiksha.com/shikshaHelp/ShikshaHelp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiksha.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115093024id_/http%3A//shiksha.com/shikshaHelp/ShikshaHelp/privacyPolicy) for the most accurate reproduction.*
 
 # Shiksha::Privacy Policy
 
@@ -47,7 +47,7 @@ Tracking technologies may record information such as Internet domain and host na
 
 Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyse information that does not contain Personal Information for trends and statistics.
 
-For more information about our use of cookies please refer to our [Cookie Policy.](https://web.archive.org/web/20190522224048id_/https%3A//www.shiksha.com/shikshaHelp/ShikshaHelp/cookiePolicy)
+For more information about our use of cookies please refer to our [Cookie Policy.](https://web.archive.org/web/20191115093024id_/http%3A//shiksha.com/shikshaHelp/ShikshaHelp/cookiePolicy)
 
 ## Third Party Services
 
