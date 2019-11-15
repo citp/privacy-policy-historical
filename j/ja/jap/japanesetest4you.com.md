@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanesetest4you.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323105507id_/https%3A//japanesetest4you.com/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanesetest4you.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115113931id_/https%3A//japanesetest4you.com/privacy-policies) for the most accurate reproduction.*
 
 # Privacy Policies – Japanesetest4you.com
 
@@ -53,6 +53,16 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
 
+**Social Sharing**
+
+We embed a Facebook widget to allow you to see number of likes/shares/recommends and “like/share/recommend” our webpages. This widget may collect your IP address, your web browser User Agent, store and retrieve cookies on your browser, embed additional tracking, and monitor your interaction with the widget, including correlating your Facebook account with whatever action you take within the widget (such as “liking/sharing/recommending” our webpage), if you are logged in to Facebook. For more information about how this data may be used, please see Facebook’s data privacy policy: https://www.facebook.com/about/privacy/update
+
+We use a Twitter Tweet widget at our website. As a result, our website makes requests to Twitter’s servers for you to be able to tweet our webpages using your Twitter account. These requests make your IP address visible to Twitter, who may use it in accordance with their data privacy policy: https://twitter.com/en/privacy#update
+
+We use a Linkedin Share widget at our website to allow you to share our webpages on Linkedin. These requests may track your IP address in accordance with their data privacy policy: https://www.linkedin.com/legal/privacy-policy
+
+We use Pinterest Save widget at our website to allow you to pin images to Pinterest from our webpages. These requests may track your IP address in accordance with their data privacy policy: https://policy.pinterest.com/en/privacy-policy
+
 **Third Party Disclosure**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
@@ -104,4 +114,4 @@ We will notify the users via in site notification
 
 We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
 
-Last Edited on 2015-05-17
+Last Edited on 2019-04-04
