@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401130753id_/https%3A//www.blackbaud.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the si.edu privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115064709id_/https%3A//www.blackbaud.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # North American Privacy Policy | Blackbaud
 
@@ -24,9 +24,9 @@ If you are a California resident, you may ask us to disclose certain information
 
 [www.Blackbaud.com](https://www.blackbaud.com/) is a general audience site, and we do not knowingly collect information about children or sell products to children under the age of 13. If you are under the age of 13, you must ask your parent or guardian to assist you in using our website. Furthermore, we may restrict entries to any contests, sweepstakes or promotions to entrants who are at least 18 years of age.
 
-### Promotional Emails
+### Marketing Communications
 
-We may send you e-mails with promotional offers, special event information, sales notifications or other messages only if you opt-in to receiving such e-mails. If you would no longer like to receive such e-mails from us, please follow the “Unsubscribe” instructions at the end of each email or contact us at [webmaster@blackbaud.com](mailto:webmaster@blackbaud.com). Your e-mail address will be removed from our marketing list. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process.
+We may contact you about promotions, customer stories, Blackbaud news and updates, or thought leadership content. We may send these communications via email or postal mail, call your organization, or serve you advertisements on our website. If you would no longer like to receive such emails, please follow the “Unsubscribe” instructions at the end of each email. Your e-mail address will be removed from our marketing list. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process. To opt out of being contacted by any other communication methods, please contact us at [webmaster@blackbaud.com](mailto:webmaster@blackbaud.com).
 
 ### Email
 
@@ -80,12 +80,12 @@ Blackbaud may update this Policy at any time and from time to time and we will p
 
 If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Blackbaud, Inc., 2000 Daniel Island Drive, Charleston, SC, 29492-7541, USA or at [webmaster@blackbaud.com](mailto:webmaster@blackbaud.com).
 
-Last updated August 1, 2017
+Last updated September 18, 2019
 
 ## Blackbaud Privacy Shield Notice
 
 ### Privacy Shield
 
-This is a United States-based website and is subject to United States law. Laws related to Personal Data vary by country. For example, Personal Data collected in the European Union is subject to laws based on the European Union Data Protection Directive. Blackbaud, its subsidiaries, and its affiliates are certified under the EU-U.S. Privacy Shield framework and the Swiss-U.S. Privacy Shield Framework regarding the collection, storage, transfer, use and other processing of Personal Data transferred from the European Union and Switzerland, respectively, to the United States.
+This is a United States-based website and is subject to United States law. Laws related to Personal Data vary by country. For example, Personal Data collected in the European Union is subject to laws based on the European Union Data Protection Directive. Blackbaud, its subsidiaries, and its affiliates are certified under the EU-U.S. Privacy Shield framework and the Swiss-U.S. Privacy Shield Framework regarding the collection, storage, transfer, use and other processing of Personal Data transferred from the European Union, the United Kingdom, and Switzerland, as applicable, to the United States.
 
 [Click here](https://www.blackbaud.com/privacy-shield) to view our Privacy Shield Notice
