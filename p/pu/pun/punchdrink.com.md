@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punchdrink.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620051945id_/http%3A//www.randomhouse.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punchdrink.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116003033id_/http%3A//www.randomhouse.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Penguin Random House
 
