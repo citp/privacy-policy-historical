@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628152011id_/https%3A//www.npg.org.uk/footer/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npg.org.uk privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115094344id_/https%3A//www.npg.org.uk/footer/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy Notice - National Portrait Gallery
 
@@ -6,7 +6,7 @@ The National Portrait Gallery is committed to protecting your personal informati
 
 We will never sell, rent or exchange your details with any other organisation outside the National Portrait Gallery without your prior consent.
 
-This Privacy Notice has been prepared to be as comprehensive as possible, but it does not include an exhaustive list of every aspect of our collection and use of personal information. However, we would be happy to provide any further information or explanation about our practices. If you have any general queries or concerns about this policy, please contact our Data Protection Officer at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#eaaebaa5aa849a8dc485988dc49f81).
+This Privacy Notice has been prepared to be as comprehensive as possible, but it does not include an exhaustive list of every aspect of our collection and use of personal information. However, we would be happy to provide any further information or explanation about our practices. If you have any general queries or concerns about this policy, please contact our Data Protection Officer at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#bcf8ecf3fcd2ccdb92d3cedb92c9d7).
 
 ## Changes to this Privacy Notice
 
@@ -45,7 +45,7 @@ Personal data may be legally collected and used if it is necessary for a legitim
 
 When we use your personal information, we will always consider if it is fair and balanced to do so and if it is within your reasonable expectations. We will balance your rights and our legitimate interests to ensure that we use your personal information responsibly and in ways that are not unduly intrusive or unfair.
 
-If you would like more information on our use of legitimate interests, or to change our use of your personal data in this manner, please get in touch with us by contacting our Data Protection Officer at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#a4e0f4ebe4cad4c38acbd6c38ad1cf).
+If you would like more information on our use of legitimate interests, or to change our use of your personal data in this manner, please get in touch with us by contacting our Data Protection Officer at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#286c78676846584f06475a4f065d43).
 
 ## Your rights
 
@@ -62,11 +62,11 @@ There are some exceptions to the rights above and, although we will always try t
 
 If you would like further information on your rights or wish to exercise them, please contact our Data Protection Officer (details below).
 
-It is important that the information we hold about you is accurate, therefore please let us know of any changes to the personal information you give to us. Please also get in touch if you wish to know what personal information we hold about you or how we process your information. This is your right of access and is known as a Subject Access Request (SAR). To submit a SAR you can contact us by email at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#80c4d0cfc0eef0e7aeeff2e7aef5eb), or write to us at Data Protection Officer, National Portrait Gallery, St Martin’s Place, London, WC2H 0HE. Please note you will be asked to provide proof of identification.
+It is important that the information we hold about you is accurate, therefore please let us know of any changes to the personal information you give to us. Please also get in touch if you wish to know what personal information we hold about you or how we process your information. This is your right of access and is known as a Subject Access Request (SAR). To submit a SAR you can contact us by email at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#3175617e715f41561f5e43561f445a), or write to us at Data Protection Officer, National Portrait Gallery, St Martin’s Place, London, WC2H 0HE. Please note you will be asked to provide proof of identification.
 
 ### Questions and complaints
 
-Should you have a question or complaint about how we have used (‘processed’) your personal data, you can contact us directly by contacting our Data Protection Officer in the first instance via email at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#8acedac5cae4faeda4e5f8eda4ffe1), or by writing to Data Protection Officer, National Portrait Gallery, St Martin’s Place, London, WC2H 0HE.
+Should you have a question or complaint about how we have used (‘processed’) your personal data, you can contact us directly by contacting our Data Protection Officer in the first instance via email at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#dd998d929db3adbaf3b2afbaf3a8b6), or by writing to Data Protection Officer, National Portrait Gallery, St Martin’s Place, London, WC2H 0HE.
 
 If you are not happy with our response, or you believe that your data protection or privacy rights have been infringed, you can complain to the UK Information Commissioner’s Office (ICO) which regulates and enforces data protection law in the UK. Details of how to do this can be found at [**http://www.ico.org.uk**](http://www.ico.org.uk/)
 
@@ -155,10 +155,10 @@ Some of the Gallery’s onsite services are operated by third parties, and are g
 
 We use the following third parties to process transactions onsite:
 
-  * WorldPay for Print on Demand orders and mobile PDQ machines - [**http://www.worldpay.com/uk/privacy-policy**](http://www.worldpay.com/uk/privacy-policy)
+  * WorldPay for Print on Demand orders and mobile PDQ machines
   * King & McGaw to fulfil framed print orders and transactions - [**https://www.kingandmcgaw.com/help/privacy**](https://www.kingandmcgaw.com/help/privacy)
   * Transaction Network Services (TNS), the payment solution provider for Membership, Patronage and ticketing card transactions -[ **https://www.tnsi.com/Privacy**](https://www.tnsi.com/Privacy)
-  * Experian for address verification - [**https://www.edq.com/uk/privacy**](https://www.edq.com/uk/privacy)
+  * Experian for address verification - [**https://www.experian.co.uk/privacy-and-your-data.html**](https://www.experian.co.uk/privacy-and-your-data.html)
 
 
 
@@ -211,7 +211,7 @@ We use the following third parties to process transactions online:
   * King & McGaw to fulfil framed print orders and transactions - [**https://www.kingandmcgaw.com/help/privacy**](https://www.kingandmcgaw.com/help/privacy)
   * Transaction Network Services (TNS), the payment solution provider for Membership, Patronage and ticketing card transactions - [**https://www.tnsi.com/Privacy**](https://www.tnsi.com/Privacy)
   * Bottomline Technologies to verify Direct Debits for Members and Patrons who have chosen this payment option - [**https://www.bottomline.com/uk/terms-conditions/safe-harbor-privacy-policy/**](https://www.bottomline.com/uk/terms-conditions/safe-harbor-privacy-policy/)
-  * Experian for address verification - [**https://www.edq.com/uk/privacy**](https://www.edq.com/uk/privacy)
+  * Experian for address verification - [**https://www.experian.co.uk/privacy-and-your-data.html**](https://www.experian.co.uk/privacy-and-your-data.html)
 
 
 
@@ -277,7 +277,7 @@ Enewsletter subscriber
 
 We collect information about you when you opt in to receive the Gallery e-newsletter/s and join our mailing list. With your consent we will use the personal data you provide (name and email address) to send you the relevant e-newsletters and email updates. You can withdraw your consent at any time by using the unsubscribe link at the bottom of all e-communications.
 
-When you sign up to the Gallery’s mailing list you can tell us your preferences for what you want to hear about. You can update your preferences at any time by logging into your account [**here**](https://my.npg.org.uk/account/interests.aspx). If you opted in to receive the Gallery e-newsletter/s when you signed into our onsite public Wifi, please email [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#563b37243d33223f3831163826317839243178233d) to register your preferences.
+When you sign up to the Gallery’s mailing list you can tell us your preferences for what you want to hear about. You can update your preferences at any time by logging into your account [**here**](https://my.npg.org.uk/account/interests.aspx). If you opted in to receive the Gallery e-newsletter/s when you signed into our onsite public Wifi, please email [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#4b262a39202e3f22252c0b253b2c6524392c653e20) to register your preferences.
 
 We will share your personal information with third parties who we use to send out our e-communications. These are:
 
@@ -292,7 +292,7 @@ Please note the Portrait Restaurant and Portrait Café are run by a third party,
 
 ## Marketing communications
 
-You have the right to ask us not to process your personal data for direct marketing purposes (e.g. providing you with information about the Gallery’s programme of exhibitions and events, shop products or fundraising initiatives). We will inform you before collecting your data if we intend to use your personal information for such purposes. You can stop us using your data in this way at any time by exercising your right to object to processing and contacting us at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#b2dfd3c0d9d7c6dbdcd5f2dcc2d59cddc0d59cc7d9).
+You have the right to ask us not to process your personal data for direct marketing purposes (e.g. providing you with information about the Gallery’s programme of exhibitions and events, shop products or fundraising initiatives). We will inform you before collecting your data if we intend to use your personal information for such purposes. You can stop us using your data in this way at any time by exercising your right to object to processing and contacting us at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#244945564f41504d4a43644a54430a4b56430a514f).
 
 Once your personal information is no longer required we will delete it from our records in a secure manner. Not all records can be deleted immediately; The Gallery has statutory, legal, business continuity and administrative requirements to hold on to certain records for specified periods.
 
@@ -317,7 +317,7 @@ When you sign up to become a Member, we will use the personal data you provide (
 
 For full details please refer to the Terms and Conditions of Membership [**here**](https://www.npg.org.uk/about/faq/membership-terms-and-conditions).
 
-To help us to provide the best level of service and offers to our Members, every two years we will invite you to participate in the Members Survey online. You can let us know how you would prefer to be contacted, ask us to update your personal information, or object to receiving these communications at any time through your Member Account online or by contacting the Membership team at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#b2dfd7dfd0d7c0c1dadbc2f2dcc2d59cddc0d59cc7d9).
+To help us to provide the best level of service and offers to our Members, every two years we will invite you to participate in the Members Survey online. You can let us know how you would prefer to be contacted, ask us to update your personal information, or object to receiving these communications at any time through your Member Account online or by contacting the Membership team at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#4c2129212e293e3f24253c0c223c2b62233e2b623927).
 
 If you purchase a Membership for somebody else as a gift, we will use your personal data to set up and service the Membership. If you are the recipient of a Gift Membership we will let you know who gave us your information and make you aware of this Privacy Notice and how to manage your communication preferences in your Welcome Letter.
 
@@ -327,7 +327,7 @@ We will share your information with third parties who we have commissioned to ac
 
   * Transaction Network Services (TNS), the payment solution provider for membership transactions - [**https://www.tnsi.com/Privacy**](https://www.tnsi.com/Privacy)
   * Bottomline Technologies to verify Direct Debits for Members who have chosen this payment option - [**https://www.bottomline.com/uk/terms-conditions/safe-harbor-privacy-policy/**](https://www.bottomline.com/uk/terms-conditions/safe-harbor-privacy-policy/)
-  * Experian for address verification - [**https://www.edq.com/uk/privacy**](https://www.edq.com/uk/privacy)
+  * Experian for address verification - [**https://www.experian.co.uk/privacy-and-your-data.html**](https://www.experian.co.uk/privacy-and-your-data.html)
   * Wordfly, the e-communications service we use to communicate with our Members -[ **https://www.wordfly.com/privacy-policy/**](https://www.wordfly.com/privacy-policy/)
   * [Membership Plus for communicating with our Members, including about membership renewals - **https://membershipplus.co.uk/help-public/privacy-policy/**](https://www.wordfly.com/privacy-policy/)
   * TMB Mailing for communicating with our Members, including our Members quarterly mailing.
@@ -348,7 +348,7 @@ If you are affiliated with the Gallery through a corporate membership, we will u
 
 For full details please refer to the Terms and Conditions of Patronage [**here**](https://www.npg.org.uk/about/faq/membership-terms-and-conditions).
 
-You can let us know how you would prefer to be contacted, ask us to update your personal information, or object to receiving our regular communications at any time by contacting the Patrons Team at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#60100114120f0e13200e10074e0f12074e150b) or the Corporate Team at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#3e534d57505d525f574c7e504e5910514c59104b55).
+You can let us know how you would prefer to be contacted, ask us to update your personal information, or object to receiving our regular communications at any time by contacting the Patrons Team at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#6818091c1a07061b2806180f46071a0f461d03) or the Corporate Team at [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#f9948a90979a9598908bb997899ed7968b9ed78c92).
 
 When you visit the Gallery, we will scan your Patron/Membership card to check your entitlement to free entry, to understand how and when our members visit, and to help us send you more relevant communications. In our legitimate interests to understand our Patrons and Members and provide improved communications and benefits to them, we will carry out demographic profiling and we may use your personal data for marketing, statistical, and analytical purposes. 
 
@@ -358,7 +358,7 @@ We will share your information with third parties who we have commissioned to ac
 
   * Transaction Network Services (TNS), the payment solution provider for membership and Patronage transactions - [**https://www.tnsi.com/Privacy**](https://www.tnsi.com/Privacy)
   * Bottomline Technologies to verify Direct Debits for Members and Patrons who have chosen this payment option - [**https://www.bottomline.com/uk/terms-conditions/safe-harbor-privacy-policy/**](https://www.bottomline.com/uk/terms-conditions/safe-harbor-privacy-policy/)
-  * Experian for address verification - [**https://www.edq.com/uk/privacy**](https://www.edq.com/uk/privacy)
+  * Experian for address verification - [**https://www.experian.co.uk/privacy-and-your-data.html**](https://www.experian.co.uk/privacy-and-your-data.html)
   * Wordfly, the e-communications service we use to communicate with our Members and Patrons -[ **https://www.wordfly.com/privacy-policy/**](https://www.wordfly.com/privacy-policy/)
 
 
@@ -401,7 +401,7 @@ Occasionally we use a third party processor, Search & Prosper, to carry out this
 
 We may use profiling and database segmentation techniques to analyse your personal information and create a profile of your interests, preferences and ability to donate. This allows us to ensure communications are relevant and timely, to provide an improved experience for our supporters. It also helps us understand our supporters so that we can make appropriate requests to those who may be willing and able to donate more than they already do, or leave a gift in their will. This enables us to raise funds in the most cost-effective and least intrusive way.
 
-Under data protection legislation, you have the right to object to your data being processed in this way. If you wish to ask not to be identified as a high net worth individual, or to review or amend your personal data, please contact [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#d3beb2a1b2be93bda3b4fdbca1b4fda6b8).
+Under data protection legislation, you have the right to object to your data being processed in this way. If you wish to ask not to be identified as a high net worth individual, or to review or amend your personal data, please contact [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#422f2330232f022c32256c2d30256c3729).
 
 Please be aware that Charity Commission rules require us to be assured of the provenance of funds and any conditions attached to them, and we are legally required to carry out checks on individuals who give us large donationsto prevent money laundering and protect against fraud. To meet these legal obligations, we follow a due diligence process which involves researching the financial soundness, credibility, reputation and ethical principles of donors who have made, or are likely to make, a significant donation to the National Portrait Gallery. This is in accordance with our Grants and Donations Policy.
 
@@ -537,7 +537,7 @@ Please include the following information in your email:
 
 
 
-Please send your query to [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#e6948f818e92958788828f8b87818395a6889681c8899481c8938d) and a member of the Rights & Images team will deal with your enquiry as soon as possible.
+Please send your query to [**[email  protected]**](https://www.npg.org.uk/cdn-cgi/l/email-protection#88fae1efe0fcfbe9e6ece1e5e9efedfbc8e6f8efa6e7faefa6fde3) and a member of the Rights & Images team will deal with your enquiry as soon as possible.
 
 Image licensee
 
