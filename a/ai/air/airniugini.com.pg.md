@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airniugini.com.pg privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612212820id_/http%3A//www.airniugini.com.pg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airniugini.com.pg privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115105045id_/http%3A//www.airniugini.com.pg/privacy-policy) for the most accurate reproduction.*
 
-# Air Niugini | Papua New Guinea's National Airline | Privacy Policy
+# Privacy Policy - Air Niugini
 
 ### Introduction
 
