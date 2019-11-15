@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proprivacy.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629200358id_/https%3A//proprivacy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proprivacy.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115061100id_/https%3A//proprivacy.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ProPrivacy.com
 
