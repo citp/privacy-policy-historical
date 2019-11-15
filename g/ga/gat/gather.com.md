@@ -1,88 +1,45 @@
-> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628151139id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115073042id_/https%3A//www.gather.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Gather
+# Gather.com, Inc
 
-At Gather.com ("Gather"), we strive to develop innovative products and services to benefit our users and registered users ("Members"). We recognize that privacy is an important issue, so we design and operate our products and services with your privacy in mind. This Privacy Policy outlines the types of personal information we may collect when you use our service at gather.com ("Service"), which is further described in the Terms of Service ("TOS") available at <http://www.gather.com/userTerms.jsp>, as well as some of the steps we take to secure it.
+This privacy notice discloses the privacy practices for (Gather.com). This privacy notice applies solely to information collected by this website. It will notify you of the following:
 
-**What This Policy Covers**
-
-  * This Policy covers how we treat personal information that we collect or receive from you when you use our Service. "Personal Information" is information about you that is personally identifiable like your social security number, name, address, email address, or phone number.
-  * This Policy does not apply to the practices of companies and/or other entities that Gather does not own or control, to people that are not managed or employed by Gather, and/or to operators of sites to which you may link from the Service.
-
-
-
-**Data and Information Collection and Use**
-
-**General**
-
-  * Gather collects information from and about you when you register as a Member and you use the Service.
-  * Users who visit gather.com and do not register do not need to provide any Personal Information. Gather does, however, collect limited, non-personally identifying information from non-registered users that browsers make available whenever a user visits a website. This information includes your internet protocol address, browser type, browser language, cookies, and use patterns.
-  * When you register as a Member, we ask for information such as your name, email address, date of birth, gender, zip code, personal interests and a password. Your password will be maintained on our system in an encrypted form and you will be able to create a unique username that will identify you during login and when you are using the Service. Please note that Gather owns your username, grants you a license to use it while you are a Member, and reserves all rights to your username once you either cease to be a Member or following an extended period of inactivity, including but not limited to the right to revoke, reuse, resell or license your username.
-  * Certain Members may opt to participate in programs offered by Gather where a Member can earn Gather Points or cash compensation from Gather. If you participate in such programs, Gather may require you to provide additional information including but not limited to your social security number. All such information will be maintained in secure and encrypted areas of our system. For more information pleas see the Gather Redemption and Compensation Policy located at <http://www.gather.com/compensation.jsp>.
-  * Once you register with Gather and sign into our site, you are not anonymous to us. For certain elements of the Service, such as our advertising programs, we may request credit card or other payment information which we maintain in encrypted form on secure servers.
-  * Gather uses the information we collect for the following purposes: to customize the advertising and content you see, fulfill requests for products and service, improve our Service, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+  * What personally identifiable information is collected from you through the website, how it is used and with whom it may be shared.
+  * What choices are available to you regarding the use of your data.
+  * The security procedures in place to protect the misuse of your information.
+  * How you can correct any inaccuracies in the information.
 
 
 
-**Posting on the Service**
+## Information Collection, Use, and Sharing
 
-  * Use care when posting Personal Information or your personal content on our Service or in our Gather Groups (as defined below), particularly sensitive information such as social security numbers, financial information, home addresses or phone numbers.
-  * You should be aware that, when you post information via the Service, the information that you post ï¿½ including but not limited to the content of the post, header information, username and email address associated with the posting ï¿½ may be read, copied, used and re-distributed by people you do not know.
-  * The contents of the postings that you submit to the Service are stored and maintained on our servers in order to publish the postings and provide the Service. In order to protect our Members from email harvesting software and bots, we attempt to "mask" email addresses so that they are typically human readable but not machine readable. In addition, we collect and maintain information about your account activity, such as the contents of your posts, the links that you click on, your email activity, search inquiries, Gather Groups that you join or manage, messages or topics you track and your preferred settings when the using the Service.
+We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.
 
+We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.
 
+Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy.
 
-**Children**
+## Your Access to and Control Over Information
 
-  * To comply with the Children's Online Privacy Protection Act, the Service, including Gather Groups (as further described below), are only available to users and Members who are at least 13 years old. If you are under 13, you may not use the Service.
-  * Gather needs to ask all users, including children under age 13, for certain Personal Information that is reasonably necessary to determine the user's eligibility to participate in the Service. 
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website:
 
-
-
-**Gather Groups**
-
-  * Gather offers an element of the Service that enables Members to create and maintain their own "Gather Group." A Gather Group consists of internet based discussions and other functionalities that allow participants in the Gather Group to communicate.
-  * Gather Groups include two types of discussions: publicly accessible discussions that anyone can access subject to the age restrictions described above (provided, however, that only Members can post to a Gather Group) and restricted discussions that are limited to Members who join the Gather Group. The leader of a Gather Group decides who can access the Gather Group and whether the Gather Group is public or restricted. You should also be aware that the leader of a Gather Group may change the restrictions on the Gather Group at any time.
+  * See what data we have about you, if any.
+  * Change/correct any data we have about you.
+  * Have us delete any data we have about you.
+  * Express any concern you have about our use of your data.
 
 
 
-**Information Sharing and Disclosure**
+## Security
 
-  * Gather does not rent, sell, share, or otherwise disclose Personal Information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a lock icon in the address bar and looking for "https" at the beginning of the address of the Web page.
 
-  1. We may provide information to trusted partners who work on our behalf and who have entered into confidentiality agreements with us.
-  2. Gather responds to valid subpoenas, court orders, and other legal proceedings. We also may disclose information if we deem it necessary to exercise our legal rights or to defend ourselves against legal claims.
-  3. We will share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of any of our TOS, or as otherwise required by law.
-  4. We may transfer information about you if we are acquired or merged with another company.
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment.
 
+If you feel that we are not abiding by this privacy policy, you should contact us immediately.
 
+## Contact Information
 
-**Information Security**
-
-  * Gather takes appropriate physical and electronic measures to protect against unauthorized access to, alteration of, and disclosure of Personal Information.
-  * Access to Personal Information is limited to employees who need to know that information in order to provide our Service. All of our employees enter into confidentiality agreements with Gather.
-
-
-
-**Cookies**
-
-  * The Service may set and access "cookies" on your computer. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our Service, target advertising, and to better understand how people interact with us. We do this by storing user preferences in cookies and by tracking user trends and patterns of how you use our Service. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent, but this may impact the quality of our Service.
-  * We may use third party advertising technology to serve ads when you access the Services and may from time to time use various outside ad-serving companies to serve advertisements. They may collect anonymous information about your visits to the Site and your interaction with our Service. They may also use information about your visits to gather.com and other websites to target advertisements for goods and services. This anonymous information is collected through the use of pixel tags or cookies, which are industry standard technologies, used by most major websites. No personally identifiable information is collected or used in this process from the Services. If you would like more information about this practice and to know your choices about not having this anonymous information used by a third party service provider, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
-
-
-
-**Your Ability to Edit and Delete Account Information**
-
-  * You may edit your Member account and related Personal Information at any time by visiting <http://www.gather.com/editAccount.jsp>.
-  * You may delete your member account by [contacting Gather Member Support](http://www.gather.com/submitCase.action).
-
-
-
-**Changes to this Policy**
-
-  * Gather may update and change this Policy from time to time.
-  * All updates and changes will be posted on this web page.
-  * We will notify you directly if we make significant changes to this Policy.
-
-
+Notices to Gather.com, Inc. should be directed to [legal@gather.com](mailto:legal@gather.com). 
