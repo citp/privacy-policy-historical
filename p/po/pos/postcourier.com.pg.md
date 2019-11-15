@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcourier.com.pg privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330140437id_/https%3A//postcourier.com.pg/post-courier-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcourier.com.pg privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115072917id_/https%3A//postcourier.com.pg/post-courier-privacy-policy) for the most accurate reproduction.*
 
 # Post Courier Privacy policy - Post Courier
 
