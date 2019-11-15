@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esurance.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515064952id_/https%3A//www.esurance.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esurance.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115071043id_/https%3A//www.esurance.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Esurance
 
