@@ -1,33 +1,36 @@
-> *The following text is extracted and transformed from the zootool.com privacy policy that was archived on 2008-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootool.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115110740id_/https%3A//bastianallgeier.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy
 
-1\. Heart Internet Ltd is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of data protection legislation in the UK. The purpose of this statement is to explain to you what personal information we collect and how we may use it. 
+This Privacy Policy describes how I, Bastian Allgeier, collect, use, and share information in connection with your use of this website ([https://bastianallgeier.com](https://bastianallgeier.com/)).
 
-2\. When you order, we need to know your name, address, phone number, email address and payment details. This allows us to process and fulfil your order. You have the option to withhold personal information that is not required for the order process. 
+Bastian Allgeier  
+Böhmer Weg 22  
+69151 Neckargemünd  
+Germany
 
-3\. Heart Internet offer a great value service, by using our service you agree that we will use your personal information to update you about service updates and new products/services.
+If you have any questions or concerns, please contact me at [mail@bastianallgeier.com](mailto:mail@bastianallgeier.com).
 
-4\. We do not sell, rent or exchange your personal information with any third party for commercial reasons, beyond the essential requirement for credit/debit card validation during purchase.
+## Your Data Protection Rights
 
-5\. We follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access in accordance with UK data protection legislation. We do not collect sensitive information about you except when you specifically knowingly provide it. In order to maintain the accuracy of our database, you can check, update or remove your personal details by accessing the "Contacts and Billing Details" section of the customer area. We use a technology called "cookies" as part of a normal business procedure to allow you to login to the Heart Internet customer area. A cookie is an element of data that our customer area sends to your web browser which is then stored on your system.
+You always have the right to access all personal information I hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact me: [mail@bastianallgeier.com](mailto:mail@bastianallgeier.com).
 
-6\. In order to process credit/debit card transactions, the bank or card processing agency may require to verify your personal details.
+You may always file a complaint with your national data protection authorities regarding the use of your data. But please tell me first so I have a chance to sort things out.
 
-7\. If you have any questions about privacy please contact us at [sales@heartinternet.co.uk](mailto:sales@heartinternet.co.uk).
+## Collected Information
 
-[ ](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/extend-h.shtml)
+Generally, I don’t collect any personal information about you on this website. This website does not store any local storage information such as cookies that could identify a single, unique user. I also don't use any form of analytics tool to track visitors and page impressions.
 
-The worlds most powerful web hosting control panel - now even better.
+My hosting provider [DomainFactory](https://domainfactory.com/) stores server logs, including the IP address, user agent, timestamp and status code. Those logs are kept for three days.
 
-[ ](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/prices-d.shtml)
+## Secure Data Transfer
 
-The UKs lowest price domains - only from Heart Internet.
+This website transmits all data using HTTPS, encrypting all data between the browser and the server. Your network provider may still be able to see that you are loading files from bastianallgeier.com, but not their content.
 
-[ ](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/transfer-d.shtml)
+## Changes to this policy
 
-Move to Heart Internet and get all our great features for FREE.
+I may update this privacy policy from time to time in order to reflect, for example, changes to my practices or for other operational, legal or regulatory reasons.
 
-[ ](https://web.archive.org/web/20080516052001id_/http%3A//www.heartinternet.co.uk/builder-h.shtml)
+–
 
-Many of our hosting accounts come with our FREE Website Builder Software.
+Last update: 17.05.2019
