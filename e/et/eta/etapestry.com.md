@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etapestry.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220165929id_/https%3A//www.blackbaud.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etapestry.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115064709id_/https%3A//www.blackbaud.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blackbaud
+# North American Privacy Policy | Blackbaud
 
 At Blackbaud, we are committed to protecting your privacy. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request. This Website Privacy Policy (“Policy”) provides you with information concerning our practices and procedures as they relate specifically to information we collect at this website. If you have additional questions or would like further information on this topic, please feel free to write to us at [webmaster@blackbaud.com](mailto:webmaster@blackbaud.com). By visiting this website, you are accepting the practices described herein. We may update this Policy from time to time, so please check this Policy periodically for changes.
 
@@ -8,7 +8,7 @@ At Blackbaud, we are committed to protecting your privacy. You can travel throug
 
 We do not collect any personal information about you at our website unless you choose to provide it to us voluntarily. We define “personal information” as information that personally identifies you or allows us to contact you. Such information might include your phone number, name or email address. Generally, this information is requested when you are asked to register before entering a contest, subscribing to e-mail newsletters, completing an online survey, joining a limited-access premium site, viewing premium-level resource information, or when requesting information about or purchasing Blackbaud products and services. If you encounter a screen or page that requests information you do not want to share with us, do not enter the information and do not proceed with that screen or page.
 
-You can personalize your experience at [www.blackbaud.com](http://www.blackbaud.com/) by becoming a registered user. If you ever want to review or update your profile, simply visit [www.blackbaud.com](http://www.blackbaud.com/) and edit your account information. We’ll ask you to disclose your User ID and password so that only you can access your profile. Your account information is secure and is accessible by using a password that you select. Do not share your password with anyone. The Blackbaud website assigns a personal identification number and sends it to your computer in the form of a small text file, called a “cookie.” The use of this cookie allows you to visit other password-restricted portions of Blackbaud’s website—for which you have security access—without having to sign in again.
+You can personalize your experience at [www.blackbaud.com](https://www.blackbaud.com/) by becoming a registered user. If you ever want to review or update your profile, simply visit [www.blackbaud.com](https://www.blackbaud.com/) and edit your account information. We’ll ask you to disclose your User ID and password so that only you can access your profile. Your account information is secure and is accessible by using a password that you select. Do not share your password with anyone. The Blackbaud website assigns a personal identification number and sends it to your computer in the form of a small text file, called a “cookie.” The use of this cookie allows you to visit other password-restricted portions of Blackbaud’s website—for which you have security access—without having to sign in again.
 
 ### Use of your Personal Information
 
@@ -22,11 +22,11 @@ If you are a California resident, you may ask us to disclose certain information
 
 ### Information Collected from Children
 
-[www.Blackbaud.com](http://www.blackbaud.com/) is a general audience site, and we do not knowingly collect information about children or sell products to children under the age of 13. If you are under the age of 13, you must ask your parent or guardian to assist you in using our website. Furthermore, we may restrict entries to any contests, sweepstakes or promotions to entrants who are at least 18 years of age.
+[www.Blackbaud.com](https://www.blackbaud.com/) is a general audience site, and we do not knowingly collect information about children or sell products to children under the age of 13. If you are under the age of 13, you must ask your parent or guardian to assist you in using our website. Furthermore, we may restrict entries to any contests, sweepstakes or promotions to entrants who are at least 18 years of age.
 
-### Promotional Emails
+### Marketing Communications
 
-We may send you e-mails with promotional offers, special event information, sales notifications or other messages only if you opt-in to receiving such e-mails. If you would no longer like to receive such e-mails from us, please follow the “Unsubscribe” instructions at the end of each email or contact us at [webmaster@blackbaud.com](mailto:webmaster@blackbaud.com). Your e-mail address will be removed from our marketing list. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process.
+We may contact you about promotions, customer stories, Blackbaud news and updates, or thought leadership content. We may send these communications via email or postal mail, call your organization, or serve you advertisements on our website. If you would no longer like to receive such emails, please follow the “Unsubscribe” instructions at the end of each email. Your e-mail address will be removed from our marketing list. Please allow us a reasonable period of time in order to satisfy your request, as some promotions may already be in process. To opt out of being contacted by any other communication methods, please contact us at [webmaster@blackbaud.com](mailto:webmaster@blackbaud.com).
 
 ### Email
 
@@ -34,7 +34,7 @@ We appreciate your questions and comments about our website and services and wel
 
 ### Access to your Personal Information
 
-We will provide you with the means to ensure that your personal information is correct and current. If you are a registered user of our website, you may review and update this information at any time on [www.blackbaud.com](http://www.blackbaud.com/). Registered users can view and edit personal information they have already given us. All users can subscribe or unsubscribe to Blackbaud email newsletters and blogs.
+We will provide you with the means to ensure that your personal information is correct and current. If you are a registered user of our website, you may review and update this information at any time on [www.blackbaud.com](https://www.blackbaud.com/). Registered users can view and edit personal information they have already given us. All users can subscribe or unsubscribe to Blackbaud email newsletters and blogs.
 
 We require you to enter your password for security purposes before you update your email address, user name, password, and/or your security question and answer. If you change your email address, we send an email to both your old and new email addresses.
 
@@ -80,12 +80,12 @@ Blackbaud may update this Policy at any time and from time to time and we will p
 
 If you have any questions about this Policy or would like to learn more about how we protect privacy, please write to us at Blackbaud, Inc., 2000 Daniel Island Drive, Charleston, SC, 29492-7541, USA or at [webmaster@blackbaud.com](mailto:webmaster@blackbaud.com).
 
-Last updated August 1, 2017
+Last updated September 18, 2019
 
 ## Blackbaud Privacy Shield Notice
 
 ### Privacy Shield
 
-This is a United States-based website and is subject to United States law. Laws related to Personal Data vary by country. For example, Personal Data collected in the European Union is subject to laws based on the European Union Data Protection Directive. Blackbaud, its subsidiaries, and its affiliates are certified under the EU-U.S. Privacy Shield framework and the Swiss-U.S. Privacy Shield Framework regarding the collection, storage, transfer, use and other processing of Personal Data transferred from the European Union and Switzerland, respectively, to the United States.
+This is a United States-based website and is subject to United States law. Laws related to Personal Data vary by country. For example, Personal Data collected in the European Union is subject to laws based on the European Union Data Protection Directive. Blackbaud, its subsidiaries, and its affiliates are certified under the EU-U.S. Privacy Shield framework and the Swiss-U.S. Privacy Shield Framework regarding the collection, storage, transfer, use and other processing of Personal Data transferred from the European Union, the United Kingdom, and Switzerland, as applicable, to the United States.
 
 [Click here](https://www.blackbaud.com/privacy-shield) to view our Privacy Shield Notice
