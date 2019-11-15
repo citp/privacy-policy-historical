@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printfriendly.com privacy policy that was archived on 2018-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181114103706id_/https%3A//www.printfriendly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printfriendly.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115041210id_/http%3A//printfriendly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -65,11 +65,13 @@ General Principles:
 
 #### Non Personal Data
 
-PrintFriendly.com collects non-personally-identifying information such as the browser type, language preference, referring site, and the date and time of each visitor request. PrintFriendly's purpose in collecting non-personally identifying information is to better understand how PrintFriendly's visitors use its services. From time to time, PrintFriendly's may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its service.
+PrintFriendly.com collects "log files" like all other websites with non-personally-identifying information such as the browser type, language preference, referring site, and the date and time of each visitor request. PrintFriendly's purpose in collecting non-personally identifying information is to better understand how PrintFriendly's visitors use its services. From time to time, PrintFriendly's may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its service.
 
 #### IP Address:
 
 Internet Protocol (IP) addresses are temporarily gathered to detect and prevent abuse. They are stored for approximately 2 days then permenantly deleted. IP address is also gathered by our data processor (Google) and stored for 30 days.
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
 
 #### Accounts, Purchases and Trials
 
@@ -106,15 +108,17 @@ We use third party services to provide the following important functions.
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by PrintFriendly and does not cover the use of cookies by any advertisers.
 
-Our trusted third party Ad partnerships:
+Google, as a third party vendor, uses cookies to serve ads on PrintFriendly.com. Google’s use of the DART cookie enables it to serve ads to users based on their visit to PrintFriendly.com and other sites on the Internet.
 
-  * [Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496)
-  * [Google](https://policies.google.com/privacy)
-  * [Criteo](https://www.criteo.com/privacy/)
-  * [Sovrn](https://www.sovrn.com/privacy-policy/)
-  * [Media.net](https://www.media.net/en/privacy-policy)
+### Ad Personalization and Opt Out Information
 
+Google and other third party ad network/exchanges personalize ads to be more relevant. You can opt out of this personalization.
 
+You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [google.com/ads/preferences/](http://www.google.com/ads/preferences/ "Google Dart Cookie Preferences")
+
+Users in the United States may opt out of many third-party ad networks. For example, you may go to the Digital Advertising Alliance (“DAA”) [Consumer Choice Page](http://optout.aboutads.info/?c=2&lang=EN "Consumer Choice Page Opt Out Information") for information about opting out of interest-based advertising and their choices regarding having information used by [DAA companies](http://www.aboutads.info/participating/ "Interest Based Advertising Companies"). You may also go to the Network Advertising Initiative (“NAI”) [Consumer Opt-Out Page](http://www.networkadvertising.org/choices/ "NAI Opt Out") for information about opting out of interest-based advertising and their choices regarding having information used by [NAI members](http://www.networkadvertising.org/participating-networks "Interest Based Advertising Choices").
+
+Opting out from one or more companies listed on the DAA [Consumer Choice Page](http://www.aboutads.info/choices/ "DAA Choice Page") or the [NAI Consumer Opt-Out Page](http://www.networkadvertising.org/choices/ "NAI Consumer Opt Out Page") will opt you out from those companies’ delivery of interest-based content or ads to you, but it does not mean you will no longer receive any advertising through our sites or on other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., contextually based ads). Also, if your browsers are configured to reject cookies when you opt out on the DAA or NAI websites, your opt out may not be effective. Additional information is available on the DAA’s website at [aboutads.info](http://www.aboutads.info/) or the NAI’s website at [networkadvertising.org](http://www.networkadvertising.org/).
 
 ### Protection of Personally-Identifying Information
 
