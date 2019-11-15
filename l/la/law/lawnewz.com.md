@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawnewz.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330103320id_/https%3A//lawandcrime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawnewz.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115212741id_/https%3A//lawandcrime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Law & Crime
 
