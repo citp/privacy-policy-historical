@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketsandmarkets.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503002136id_/https%3A//www.marketsandmarkets.com/Privacy-12.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketsandmarkets.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115061008id_/https%3A//www.marketsandmarkets.com/Privacy-12.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -66,7 +66,11 @@ Most browsers are set up to accept cookies, but you can change your settings to 
 ·         **CHILDREN**  
 This website does not provide services or sell products to children under the age of 18. If we discovers that we have received any information from a child under the age of 18 in violation of this policy, we will delete that information immediately. If you believe we have received any information from or about anyone under the age of 18, please contact us immediately.
 
-**What do we do with the information collected?**
+** ** We and our third-party service providers, including analytics providers and third-party content providers or advertising partners, may automatically collect certain information whenever you access and use the Services ("Usage Information").
+
+We may share your Personal Information or your non-personally identifying information with ad networks for online behavioral advertising purposes.
+
+ **What do we do with the information collected?**
 
 ·         We uses your information collected in the following ways:
 
