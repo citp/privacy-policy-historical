@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoiledvirgins.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605035130id_/http%3A//1passforallsites.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoiledvirgins.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115054648id_/http%3A//1passforallsites.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
@@ -77,7 +77,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email support@supportservice24h.com
 
 **Registration**
 
