@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humoroutcasts.com privacy policy that was archived on 2018-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180323042256id_/http%3A//humoroutcasts.com/%3Fpage_id%3D109) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humoroutcasts.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115082100id_/https%3A//humoroutcasts.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | HumorOutcasts
+# Privacy Statement – HumorOutcasts.com
 
 **Privacy Statement** ****
 
