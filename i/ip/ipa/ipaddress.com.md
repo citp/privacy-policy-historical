@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406053450id_/https%3A//www.ipaddress.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaddress.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115071238id_/https%3A//www.ipaddress.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IPAddress.com Privacy Policy | IPAddress Security Policy | IPAddress.com
 
@@ -50,11 +50,11 @@ We herewith advise you that the transmission of data via the Internet (i.e. thro
 
 The data processing controller on this website is:
 
-IP ~~e"CT8 &2[f~~A **B[rI** d))*{;:d ~~` <w9X~~res ~~oRI`~~ s|Q2N. _xgm4,{]R_ c&g@Umx>yg3om Ne _0 &_5l_V#>m_tw_uOzVbqWwuork _x7jKT_ USeGEG (ha _|^n[$ <Z_f ~~8[BhbHZ9~~ t **Jknu/dM,g_bo** un **X:J6w** gs ~~M~2 <*CT%:(n#~~b _dWFhIj_ e _iJ`MnFh_ scvF:>Zhrä **Sv"+W7j** n]$CP-QP5'O/kt)  
-E ~~e{7UO/~~ rz _3YAIT >_b _Q]F >n 'eU_er _yg)D >)sh[_gel~}6*oc4oIUr ~~1AnkpFA~~ strYTwxX. _7}1}_8-?_ {gm\'(0f14 _=dw0p',i723_ A _c^p >8%}'yLsJ_  
-DE,m 6729 ~~< xC~~2 KA\shcir_qKEVuVUc ~~xOQTy~~ hh _);_ eix4]imbaP" o _hgPN6R7=0;GG_ lay<%u#_}lRDm-n _yq3_ den  
-Telephone: +4+"b9 ~~Zx43I <wI"C~~6 ~~0fVJv@wGr~~ 35 _P=Yu_ 2 _VOl^chHfM/a_ 7 ~~z!B*Zc~~ 5 _{H2N! <_01 ~~y37S"5~~ 515 ~~nf1jD-L5i[~~  
-Email: pr1|]S-b2xivacy%<KDP2D@C#PeviipaddressnZy3.p)qetwork.com
+IPPpVl'DgrwsG$A _K=pZf}0 &}_ddrtRf65V0Q.$Kess _+6LuMIr 6_. _U+hg# <{MXD*_cG"rPxcoom .hMR5rJ$ <0Ne **q%*KNE** t ~~JE3e~~ wq*Bco _D >_rk UG (Gyv:3haf **WZY4Ae?H6** tu]~H^"ngs ~~**}%~ X\8,*~~ b ~~n}X|K;~~ e _g!S(a!_ s **}{** c ~~x4 &&o:\p|gm~~hräc~%gn ~~xm~~ k ~~(E~8Y;O >P~~t) ~~:tj9??KhD5a~~  
+Er ~~Ly >AV~~z _-WxYQ'vb_ ber _3(^R#L5 >#7bq_g **9. &qj(7**er..Y<V]rstr~"|MM3>. 14A  
+DK{5kbhuE 6uc/'L7 ~~ca]B*fh~~ 2onr9Z<_Y3DK9 **yx4;*"[]IV** 2 _9b\B+p &M/SW_ 9eJ.Kir7 c _fAhC?cEz <*N_h _}CO@+j:TN_ he _=KQ(o3@b_ im ~~qbo=~~ bol ~~SjDK%Py5OO~~ an _RsV,=cP-\\!~N_ den  
+Telephone: +4 ~~Tw0X#:_u &*L~~963 _"/N_ 527VP501 _aBH[|0hnR^-_ 5.]\\-?1 _4vp=P_ 5lvI-]Ukn7N  
+Email: pr _nEoN_ ivacy _cp:% &_@ _-Me &t_ipaddressnetwo _u?u/Je4_ rk.com
 
 The controller is the natural person or legal entity that single-handedly or jointly with others makes decisions as to the purposes of and resources for the processing of personal data (e.g. names, e-mail addresses, etc.).
 
@@ -110,8 +110,6 @@ Most of the cookies we use are so-called “session cookies.” They are automat
 You can adjust the settings of your browser to make sure that you are notified every time cookies are placed and to enable you to accept cookies only in specific cases or to exclude the acceptance of cookies for specific situations or in general and to activate the automatic deletion of cookies when you close your browser. If you deactivate cookies, the functions of this website may be limited.
 
 Cookies that are required for the performance of the electronic communications transaction or to provide certain functions you want to use (e.g. the shopping cart function), are stored on the basis of Art. 6 Sect. 1 lit. f GDPR. The website operator has a legitimate interest in storing cookies to ensure the technically error free and optimised provision of the operator’s services. If other cookies (e.g. cookies for the analysis of your browsing patterns) should be stored, they are addressed separately in this Data Protection Declaration.
-
-You can revoke your consent for cookies from our website at any time by visiting the Privacy Settings.
 
 ### Server log files
 
@@ -238,4 +236,4 @@ We use Google Maps to present our online content in an appealing manner and to m
 
 For more information on the handling of user data, please review Google’s Data Privacy Declaration under: <https://policies.google.com/privacy?hl=en>.
 
-Last updated: Feb 13, 2019
+Last updated: Sep 24, 2019
