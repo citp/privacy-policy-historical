@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alljackpotscasino.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302101733id_/https%3A//www.alljackpotscasino.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alljackpotscasino.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115055737id_/https%3A//www.alljackpotscasino.com/privacy) for the most accurate reproduction.*
 
 # Security and Privacy | All Jackpots Online Casino
 
@@ -31,7 +31,7 @@ In this Privacy Policy, you can learn about:
 We encourage you to read the Privacy Policy carefully and use it to make informed decisions. By visiting the Digimedia group websites, mobile apps or other online properties, or by creating an account through our Services, you hereby agree to the Privacy Policy.  
 If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send our Data Protection Officer at:
 
-<https://www.playersupportcentre.com/ajc/en/RemoveDataRequest>
+<https://www.playersupportcentre.com/AJC/en/RemoveDataRequest>
 
 ## THE GROUP
 
@@ -207,7 +207,7 @@ We employ industry standard procedures and controls to ensure the safety of our 
 
 Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse the Services, and we make no warranty, express, implied or otherwise, that we will prevent such access.
 
-## CHANGES TO TH **E PRIVACY POLICY**
+## **CHANGES TO THE PRIVACY POLICY**
 
 We reserve the right to change this Privacy Policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this Privacy Policy on the Services and/or we will send you an e-mail regarding such changes to the e-mail address that you volunteered. Such substantial changes will take effect seven (7) days after such notice was provided on any of the above mentioned methods. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date, and your continued use of the Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
 
@@ -216,6 +216,8 @@ We reserve the right to change this Privacy Policy at any time, so please re-vis
 If you have any general questions about the Services or the information that we collect about you and how we use it, please contact us via email or via the form below.
 
 We will make an effort to reply within a reasonable timeframe. Please feel free to reach out to us at any time. If you are unsatisfied with our response, you can reach out to the applicable data protection supervisory authority.
+
+## ****DIGIMEDIA COOKIE POLICY****
 
 Revised at: March 28th 2018
 
@@ -283,7 +285,7 @@ Most web browsers will provide you with some general information about cookies, 
     * Safari
   * ******Turning off third party cookies******
 
-You can turn off certain third party targeting/advertising cookies by visiting the following link: Network Advertising Initiative.
+You can turn off certain third party targeting/advertising cookies by visiting the following link: [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1).
 
 
 
