@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330235639id_/https%3A//www.logoground.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoground.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115181447id_/https%3A//www.logoground.com/privacy.php) for the most accurate reproduction.*
 
 # LogoGround Privacy Policy
 
@@ -16,9 +16,11 @@ Clients are asked to provide optional feedback and a rating at the end of the de
 
 Designers who participate on LogoGround are not employed by LogoGround and we cannot control their use of client information. When you provide information to a designer or any other member of the site, you do so without any guarantee of privacy unless such guarantee is offered by the member themselves.
 
-When you register as a seller on LogoGround you are required to supply your real name and surname for the purpose of copyright transfer in the event of a sale. Your name and surname will be displayed publicly. We require a working email address so that your account details and sales notifications can be delivered to you. And lastly we require payment information, such as a PayPal email address, so that proceeds from sales may be paid over to you. Your contact information will not be displayed publicly unless with your explicit consent. When a sale takes place LogoGround may share the seller's email address with the buyer.
+When you register as a seller on LogoGround you are required to supply your real name and surname for the purpose of copyright transfer in the event of a sale. Your name and surname will be displayed publicly. We require a working email address so that your account details and sales notifications can be delivered to you. We require payment information, such as a PayPal email address, so that proceeds from sales may be paid over to you. Your contact information will not be displayed publicly unless with your explicit consent. When a sale takes place LogoGround may share the seller's email address with the buyer.
 
 As a registered user you will have access to email preference settings which specify under which circumstances LogoGround may email you.
+
+If you do not supply country information, LogoGround may automatically complete your country information based on your IP address. Country information is shown publicly. You are free to change your country information at any time and to specify "none" as your country.
 
 If you log in with the "Remember me" option checked we will set a cookie on your computer which enables us to identify you when you return to the web site. The cookie does not contain your name, username, password, or contact details.
 
