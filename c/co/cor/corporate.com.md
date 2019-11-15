@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812052246id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corporate.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115145959id_/https%3A//www.incorporate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | incorporate.com
 
@@ -213,7 +213,7 @@ Consider using a firewall to help prevent unauthorized access to your network or
 
 ### 12\. ACCESS TO YOUR INFORMATION
 
-CSC acknowledges the individual's right to access their personal data. Individuals wishing to access their personal information may do so by logging into the site and visiting the account detail page or by contacting CSC's Information Security and Privacy Team directly at InformationSecurity@cscglobal.com . If you require additional assistance you may contact our Customer Service staff from 8:00 a.m. to 8:00 p.m. U.S. Eastern Time, Monday through Friday, at: Phone: +1 (302) 636-5400.
+CSC acknowledges the individual's right to access their personal data. Individuals wishing to access their personal information may do so by logging into the site and visiting the account detail page or by contacting CSC's Information Security and Privacy Team directly at [InformationSecurity@cscglobal.com](mailto:InformationSecurity@cscglobal.com) . If you require additional assistance you may contact our Customer Service staff from 8:00 a.m. to 8:00 p.m. U.S. Eastern Time, Monday through Friday, at: Phone: +1 (302) 636-5400.
 
 CSC users who report suspected or known security events that may jeopardize the confidentiality, integrity, or availability of CSC information, information systems, or information processing facilities shall not be retaliated against, intimidated, or otherwise prevented or harassed for making such a report.
 
