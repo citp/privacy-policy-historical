@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechherald.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609032513id_/http%3A//www.thetechherald.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechherald.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115150913id_/https%3A//www.thetechherald.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,7 @@ www.thetechherald.com uses cookies to store information about visitors’ prefer
 
 → Google, as a third party vendor, uses cookies to serve ads on www.thetechherald.com.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to www.thetechherald.com and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
@@ -32,7 +32,7 @@ These third-party ad servers or ad networks use technology in their respective a
 
 www.thetechherald.com has no access to or control over these cookies that are used by third-party advertisers.
 
-**Third Party Privacy Policies**  
+**Third-Party Privacy Policies**  
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.thetechherald.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
@@ -49,6 +49,6 @@ This policy does not apply to any information collected offline or via channels 
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 **Update**  
-This Privacy Policy was last updated on: Tuesday, March 15th, 2016.  
+This Privacy Policy was last updated on: Tuesday, September 3rd, 2019.  
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
