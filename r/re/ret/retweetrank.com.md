@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retweetrank.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627091136id_/http%3A//www.retweetrank.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retweetrank.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115091920id_/http%3A//www.retweetrank.com/view/privacy) for the most accurate reproduction.*
 
 # Retweet Rank - Maximize your social media ROI through actionable analytics
 
