@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vocativ.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603120057id_/https%3A//www.vocativ.com/pages/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vocativ.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115102400id_/http%3A//www.vocativ.com/pages/legal) for the most accurate reproduction.*
 
 # Privacy Policy - Vocativ
 
