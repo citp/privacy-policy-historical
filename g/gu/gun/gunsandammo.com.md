@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419145624id_/https%3A//www.gunsandammo.com/privacy/247031) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunsandammo.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115074529id_/http%3A//www.gunsandammo.com/privacy/247031) for the most accurate reproduction.*
 
-# Privacy Policy - Guns and Ammo
+# Privacy Policy
 
 KSE Outdoor Sportsman Group, LLC (“ ** _OSG_** ”) respects the privacy of others. This PRIVACY POLICY (this “ ** _Privacy Policy_** ”) is intended to explain OSG’s privacy practices with respect to the OutdoorSG.com website (together with its pages and features, the “ ** _Site_** ”). This Privacy Policy is also intended to provide you and any person helping you visit, access, register with or use the Site (collectively, “ ** _you_** ” or “ ** _your_** ”) with an overview of the following:
 
@@ -30,7 +30,7 @@ As used herein, the term “ ** _personal information_** ” means information t
 
 The Site is a general audience website intended for use by adults. The Site is not designed or intended to attract, and is not directed to, children under eighteen (18) years of age, let alone children under thirteen (13) years of age. OSG does not collect personal information through the Site from any person it actually knows to be under thirteen (13) years of age. If OSG obtains actual knowledge that it has collected personal information through the Site from a person under thirteen (13) years of age, then it will use reasonable efforts to refrain from further using such personal information or maintaining it in retrievable form.
 
-Furthermore, if you are under eighteen (18) years of age, then you (or your parent or legal guardian) may at any time request that OSG remove content or information about you that is posted on the Site. Please submit any such request (“ ** _Request for Removal of Minor Information_** ”) to digitalsupport@outdoorsg.com, with a subject line of “Removal of Minor Information.”
+Furthermore, if you are under eighteen (18) years of age, then you (or your parent or legal guardian) may at any time request that OSG remove content or information about you that is posted on the Site. Please submit any such request (“ ** _Request for Removal of Minor Information_** ”) to [privacy@outdoorsg.com](mailto:privacy@outdoorsg.com), with a subject line of “Removal of Minor Information.”
 
 For each Request for Removal of Minor Information, please state “Removal of Minor Information” in the email or letter subject line, and clearly state the following in the body:
 
@@ -261,7 +261,7 @@ To help maintain the security of your personal information, OSG asks that you pl
 
 ### 9\. RETENTION, REVIEW, AND CHANGE OF INFORMATION COLLECTED.
 
-You may request at any time that OSG provide you with an opportunity to review and change your personal information collected through the Site, if any, or to no longer use your personal information to provide you with any products or services. Please submit any such request (“ ** _Request Concerning Personal Information_** ”) to digitalsupport@outdoorsg.com, with a subject line of “Your Personal Information.”
+You may request at any time that OSG provide you with an opportunity to review and change your personal information collected through the Site, if any, or to no longer use your personal information to provide you with any products or services. Please submit any such request (“ ** _Request Concerning Personal Information_** ”) to [privacy@outdoorsg.com](mailto:privacy@outdoorsg.com), with a subject line of “Your Personal Information.”
 
 For each Request Concerning Personal Information, please state “Your Personal Information” in the email or letter subject line, and clearly state the following in the body:
 
@@ -282,7 +282,7 @@ OSG is not responsible for any Request Concerning Personal Information that is i
 
 ### 10\. YOUR CALIFORNIA PRIVACY RIGHTS.
 
-If you are a resident of the State of California and OSG has an established business relationship with you, then, pursuant to Section 1798.83 of the California Civil Code, you have the right to request the following at any time: (a) information from OSG free of charge regarding the manner in which OSG shares certain personal information collected through the Site with third parties who use such information for direct marketing purposes; and (b) the discontinuation (or opt-out) of OSG’s sharing of such information with such third parties. Please submit any such request (“ ** _California Privacy Rights Request_** ”) to digitalsupport@outdoorsg.com, with a subject line of “Your California Privacy Rights.”
+If you are a resident of the State of California and OSG has an established business relationship with you, then, pursuant to Section 1798.83 of the California Civil Code, you have the right to request the following at any time: (a) information from OSG free of charge regarding the manner in which OSG shares certain personal information collected through the Site with third parties who use such information for direct marketing purposes; and (b) the discontinuation (or opt-out) of OSG’s sharing of such information with such third parties. Please submit any such request (“ ** _California Privacy Rights Request_** ”) to [privacy@outdoorsg.com](mailto:privacy@outdoorsg.com), with a subject line of “Your California Privacy Rights.”
 
 For each California Privacy Rights Request, please state “Your California Privacy Rights” in the email or letter subject line, and clearly state the following in the body:
 
@@ -317,7 +317,7 @@ If any term or condition of this Privacy Policy is deemed invalid or unenforceab
 
 ### 13\. CONTACT US.
 
-Please direct any questions you may have about this Privacy Policy to digitalsupport@outdoorsg.com, with a subject line of “Privacy Policy.” The foregoing contact information may change from time-to-time by supplementation, amendment, or modification of this Privacy Policy.
+Please direct any questions you may have about this Privacy Policy to [privacy@outdoorsg.com](mailto:privacy@outdoorsg.com), with a subject line of “Privacy Policy.” The foregoing contact information may change from time-to-time by supplementation, amendment, or modification of this Privacy Policy.
 
 ### 14\. INTERNATIONAL USERS.
 
@@ -325,4 +325,4 @@ For any of the above purposes and in view of OSG’s global operations, you agre
 
 ### 15\. MODIFICATION DATE.
 
-This Privacy Policy was last modified on January 19, 2018. 
+This Privacy Policy was last modified on January 19, 2018.
