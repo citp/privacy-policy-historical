@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twinkl.ie privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606073734id_/https%3A//www.twinkl.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinkl.ie privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115052616id_/https%3A//www.twinkl.ie/privacy-policy) for the most accurate reproduction.*
 
 # Twinkl User Privacy & Data Protection Policies
 
-## A message from Jon Seaton, Twinkl's CEO, about our commitment to your security and privacy.
+## A message from Jon Seaton, Twinkl's CEO, about our commitment to your security and privacy. 
 
 At Twinkl, your trust means **everything** to us. That’s why we respect your privacy, protect it with commercial encryption and ensure that there are strict policies that govern how all data is handled.
 
@@ -297,6 +297,8 @@ Contractual and legitimate interest
 
 
 1.4. Where contractual and legal obligations are the lawful basis of processing your personal data, the consequence of failing to provide your personal data will be that we are unable to provide our service to you.
+
+1.5 We may process information relating to you where this has been provided by an employer or through our online school referral service. To illustrate, your employer may have provided us with your work contact details so that we can communicate with you and set up your school account; or your email may have been provided to our school referral service by someone who thought our service may be of interest to you and your school. In each case, we will provide you with the appropriate details from where we obtained your personal data in accordance with data protection laws.   
 
 ## 2\. Your Twinkl Service Usage Data
 
