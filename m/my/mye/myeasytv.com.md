@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myeasytv.com privacy policy that was archived on 2018-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180322123518id_/http%3A//www.myeasytv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeasytv.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115084326id_/http%3A//www.myeasytv.com/privacy-policy) for the most accurate reproduction.*
 
 # MyEasyTV.com : Privacy Policy
 
 **Privacy Policy for www.myeasytv.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by [using this contact form](http://www.myeasytv.com/contact).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by [using this contact form](http://www.onlinetvs.com/contact/).
 
 At www.myeasytv.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.myeasytv.com and how it is used.
 
