@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rileyguide.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526231935id_/https%3A//www.myperfectresume.com/information/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rileyguide.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115092015id_/https%3A//www.myperfectresume.com/privacy-policy) for the most accurate reproduction.*
 
 # MPR Privacy Policy
 
@@ -109,7 +109,7 @@ When you visit the Site, we and our business partners can use tracking technolog
 
 
 
-For more information about the use of cookies and similar technology on our Site please review this Privacy Policy and our [Tracking Technologies Policy](https://web.archive.org/cookie-tracking-policy.aspx#CTCookiesSection4).
+For more information about the use of cookies and similar technology on our Site please review this Privacy Policy and our [Tracking Technologies Policy](https://web.archive.org/information/cookie-tracking-policy.aspx#CTCookiesSection4).
 
 ##### 8\. Accessing, Reviewing, and Changing Your Personal Information
 
@@ -153,4 +153,4 @@ From time to time, we can choose to update this Privacy Policy. The Privacy Poli
 
 ##### 16\. Contact Us
 
-The Site is controlled and operated by Provider. Whether you access the services through any of our family Site, including, but not limited to, myperfectresume.com, jobhero.com, livecareer.com, and any other site powered by myperfectresume.com, bold.com, or livecareer.com, you may contact Provider using the information provided herein. If your questions are not answered online, you can e-mail us at [privacy@bold.com](mailto:privacy@bold.com), or write to us at , or using the [contact us form](https://web.archive.org/contact-us) on the Site.
+The Site is controlled and operated by Provider. Whether you access the services through any of our family Site, including, but not limited to, myperfectresume.com, jobhero.com, livecareer.com, and any other site powered by myperfectresume.com, bold.com, or livecareer.com, you may contact Provider using the information provided herein. If your questions are not answered online, you can e-mail us at [privacy@bold.com](mailto:privacy@bold.com), or write to us at Auxiliant sarl, 1A, rue Thomas Edison, L-445 Strassen, Luxembourg, or using the [contact us form](https://web.archive.org/contact-us) on the Site.
