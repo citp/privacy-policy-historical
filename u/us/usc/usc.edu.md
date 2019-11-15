@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620051809id_/https%3A//www.usc.edu/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.edu privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115052311id_/https%3A//www.usc.edu/privacy-notice) for the most accurate reproduction.*
 
 # USC Privacy Notice - University of Southern California
 
