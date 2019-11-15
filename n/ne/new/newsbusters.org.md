@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsbusters.org privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629220047id_/https%3A//www.newsbusters.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbusters.org privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115130307id_/https%3A//www.newsbusters.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
