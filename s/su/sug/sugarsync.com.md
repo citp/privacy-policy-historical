@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404033350id_/https%3A//www2.sugarsync.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarsync.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115094236id_/https%3A//www2.sugarsync.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SugarSync
 
