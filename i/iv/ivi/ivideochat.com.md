@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivideochat.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616105617id_/https%3A//www.camfrog.com/en/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivideochat.com privacy policy that was archived on 2019-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191115062543id_/https%3A//www.camfrog.com/en/privacy.phtml) for the most accurate reproduction.*
 
 # Camfrog - Privacy Policy
 
