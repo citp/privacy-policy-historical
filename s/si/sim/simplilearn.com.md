@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplilearn.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528051638id_/https%3A//www.simplilearn.com/terms-and-conditions%23/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplilearn.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116032306id_/https%3A//www.simplilearn.com/terms-and-conditions/%23privacy-policy) for the most accurate reproduction.*
 
 # Terms and Conditions, Rescheduling, Refund and Privacy Policy | Simplilearn
 
