@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indusind.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426125355id_/https%3A//www.indusind.com/content/home/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indusind.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116133229id_/https%3A//www.indusind.com/content/home/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
