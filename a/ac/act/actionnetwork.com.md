@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionnetwork.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402171159id_/https%3A//www.actionnetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionnetwork.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116193705id_/https%3A//www.actionnetwork.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Action Network
 
