@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotdigital.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401002703id_/https%3A//dotdigital.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotdigital.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116161345id_/https%3A//dotdigital.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | dotdigital Engagement Cloud
+# dotdigital | Privacy Policy
 
 We ask that you read this privacy notice carefully as it contains important information on who we are, how and why we collect, store, use and share personal information, your rights in relation to your personal information and on how to contact us and supervisory authorities in the event you have a complaint.  
 ---  
@@ -23,10 +23,10 @@ Importantly, (i) where we use the term “client” we are referring to the enti
   
 ## Who we are  
   
-dotdigital (including dotmailer Limited (based in the UK), dotmailer, Inc. (based in the US) and dotmailer Pty Ltd (based in Australia)) collects, uses and is responsible for certain personal information about you.  
+dotdigital (including dotdigital EMEA Limited (based in the UK), dotdigital, Inc. (based in the US) and dotdigital APAC Pty Ltd (based in Australia)) collects, uses and is responsible for certain personal information about you.  
 When we do so we are regulated under the General Data Protection Regulation which applies across the European Union (including in the United Kingdom) and we are responsible as ‘controller’ of that personal information for the purposes of those laws.  
 In connection with personal data provided through your use of the Engagement Cloud platform and other services that we provide, we are a ‘processor’ for the purposes of the General Data Protection Regulation.   
-As some dotdigital affiliates are based outside of the European Economic Area, and these affiliates have appointed dotmailer Limited to be our representative within the EEA as necessary. Contact details are available  
+As some dotdigital affiliates are based outside of the European Economic Area, and these affiliates have appointed dotdigital EMEA Limited to be our representative within the EEA as necessary. Contact details are available  
 back to top  
  |    
   
@@ -174,4 +174,4 @@ back to top
 ## How to contact us  
   
 Please contact our Data Protection Officer, Joseph Stoker, if you have any questions about this privacy notice or the information we hold about you.  
-If you wish to contact our Data Protection Officer please send an email to [privacy@dotdigital.com](mailto:privacy@dotdigital.com), write to Data Protection Officer, dotmailer Limited, No.1 London Bridge, London, SE1 9BG, United Kingdom or call +44(0)20 3953 4518.
+If you wish to contact our Data Protection Officer please send an email to [privacy@dotdigital.com](mailto:privacy@dotdigital.com), write to Data Protection Officer, dotdigital EMEA Limited, No.1 London Bridge, London, SE1 9BG, United Kingdom or call +44(0)20 3953 4518.
