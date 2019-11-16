@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesq.com privacy policy that was archived on 2019-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190211031248id_/http%3A//www.betfair.com/aboutUs/Privacy.Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesq.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116020759id_/http%3A//www.betfair.com/aboutUs/Privacy.Policy) for the most accurate reproduction.*
 
 # Betfair
 
@@ -6,7 +6,7 @@ Your personal information may be transferred or disclosed to any company within 
 
 ### Within the Group:
 
-Any reference to the "Group" within this Policy includes Paddy Power Betfair plc and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time including, but not limited to, Paddy Power, Betfair, Timeform, Sportsbet and TVG. Any member of Paddy Power Betfair plc may use and share, within the group and with its advisors, the information you provide and other information it holds about you for the following purposes:
+Any reference to the "Group" within this Policy includes Flutter Entertainment plc and all or any of its direct or indirect subsidiary undertakings, joint venture partners, and their related companies wherever located in the world as may exist from time to time including, but not limited to, Paddy Power, Betfair, , Timeform, Sportsbet, FanDuel, Draft, TVG and Adjarabe. Any member of Flutter Entertainment plc may use and share, within the group and with its advisors, the information you provide and other information it holds about you for the following purposes:
 
   * Account set up, verification and management;
   * Marketing and events
@@ -35,4 +35,4 @@ Your personal information including, but not limited to, your registration detai
 
 ### International Transfers
 
-Paddy Power Betfair plc operates businesses in multiple jurisdictions some of which are not located in the European Economic Area (“EEA”). Countries outside the EEA do not always have strong data protection laws. Where we transfer personal information from the EEA to other countries in which applicable laws do not offer the same level of data privacy protection as in your home country, we take measures to provide an appropriate level of data privacy protection. For example, we use approved contractual clauses, intragroup agreements and other measures designed to ensure that the recipients of your personal information protect it. We take steps to ensure that the information we collect is processed according to this privacy policy and the requirements of the applicable law wherever the data is located. Please contact us below if you require further information.
+Flutter Entertainment plc operates businesses in multiple jurisdictions some of which are not located in the European Economic Area (“EEA”). Countries outside the EEA do not always have strong data protection laws. Where we transfer personal information from the EEA to other countries in which applicable laws do not offer the same level of data privacy protection as in your home country, we take measures to provide an appropriate level of data privacy protection. For example, we use approved contractual clauses, intragroup agreements and other measures designed to ensure that the recipients of your personal information protect it. We take steps to ensure that the information we collect is processed according to this privacy policy and the requirements of the applicable law wherever the data is located. Please contact us below if you require further information.
