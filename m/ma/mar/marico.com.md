@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marico.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112224143id_/https%3A//marico.com/other/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marico.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116025127id_/https%3A//marico.com/other/privacy-policy) for the most accurate reproduction.*
 
 # Marico – make a difference
 
