@@ -1,0 +1,535 @@
+<!--The following is the downloaded HTML source of the kizoa.com privacy policy that was archived on 2019-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191116083553id_/https%3A//www.kizoa.com/Privacy-Policy) for the most accurate reproduction.-->
+
+<html lang="en"><head><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/jquery-1.11.0.min.js"></script> 
+
+ <script>
+    var hostUrl = document.location.href;
+    if (hostUrl.indexOf("kizoa.pt") >= 0) window.location.href = "https://kizoa.com.br";
+
+    var currentLangue = "en"
+    var urlLang, loader = new XMLHttpRequest(), i, urlAll = { };
+    var lang = ["fr", "en", "se", "ru", "pl", "tr", "zh", "de", "ja", "it", "pt", "es"];
+    var allDatas = {};
+    var allDatasEdit = {};
+
+    loader.onload = function(e){
+        if (loader.readyState == 4) if(loader.status == 200) {
+            urlLang = loader.responseText;
+            var labelByLang = urlLang.split("[#]"), i,len = labelByLang.length
+            var str, lang, t, textByLabel;
+            var j,nb,o,oEdit, t2
+
+            for(i = 0; i < len; i++) {
+                str = labelByLang[i];
+                t = str.split("[/#]");
+                lang = t.shift();
+                textByLabel = t.join("").split(",");
+                nb = textByLabel.length;
+                o = {};
+                oEdit = {};
+                for(j = 0; j < nb; j++){
+                    t2 = textByLabel[j].split("_[!]_")
+                    o[t2[0]] = t2[1];
+                    oEdit[t2[1]] = t2[0];
+                }
+                allDatasEdit[lang] = oEdit;
+                allDatas[lang] = o;
+            }
+        }
+    }
+    loader.open('GET',"./urlLink.php?", true);
+    loader.send();
+
+    console.log("???")
+    console.log("je viens sur web2");
+
+</script>
+
+
+<!-- United States -->
+
+
+    
+        <meta charset="UTF-8">
+        <meta name="description" content="By accessing and using the Kizoa website and/or Kizoa services, you acknowledge and agree to be bound by this Privacy Policy. If you do not agree to any of the provisions that are set by this Privacy Policy and further detailed below, you waive your right to use the Kizoa website or any of Kizoa services. ">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="">
+	<meta property="al:ios:url" content="kizoamoviemaker://applinks">
+	<meta property="al:ios:app_store_id" content="1288075522">
+	<meta property="al:ios:app_name" content="Kizoa">
+	<meta property="al:web:should_fallback" content="false">
+        <link rel="icon" href="/favicon.ico">
+        <title data-id="PAGE_TITLE">Privacy Policy</title>
+        <link href="/js/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+        <link href="/css/style.css?data=1" rel="stylesheet">
+                <!--[if lt IE 9]>
+          <script defer src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+          <script defer src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+	 		<script> 
+			function linkancre(btn) {
+				var elem, menu;
+				menu = document.getElementById("topmenu_cat");
+				elem = document.getElementById(btn);
+				if (elem.classList.value.indexOf("category_enable") == -1) elem.click();
+			}
+		</script>
+    </head>
+    <body class="lang-en">
+        <header class="center clearfix">
+          <div class="container center no-padding-left-right">
+            <div class="logo">
+                <p>
+                    <a href="/" title="Accueil">
+                        <!--<img src="/images/logobase_en.png" alt="logo-accueil">-->
+                        <img src="/img/logo_kizoa_HP_127x33.png" alt="logo-accueil">
+                    </a>
+                </p>
+            </div>
+            <div class="menu">
+              <ul class="topMenu">
+                  <div class="list">
+                      <li class="sup" data-type="slideshow">
+                          <a href="/Movie-Maker">Movies - Videos - Slideshows</a>
+                          <ul>
+                              <li class="sub"> <a href="/Movie-Maker"> Online Movie Maker</a> </li>
+                                                                <li class="sub"> <a href="/Video-Editor"> Video Editor and Maker</a> </li>
+                              
+                              
+                                                                <li class="sub"> <a href="/Slideshow-Maker"> Slideshow Maker</a> </li>
+                              
+                              <li class="sub"> 
+                                  <a href="/4K-Video-Editor-Movie-Maker">4K Video Editing</a>                              </li>
+                              <li class="sub">
+                                  <a href="/Online-Photo-Storage-RAW">RAW File Storage</a>                              </li>
+
+                                                              <li class="sub">
+                                  <a href="/Business-Video-Marketing">Make a Business Video</a>                                </li>
+                              
+
+                                                            <li class="sub">
+                                  <a href="/movie-maker-ios-iphone-app"> Mobile iOS app for iPhone </a>                              </li>
+                              						  </ul>
+                      </li>
+                      <li class="sup" data-type="collage">
+                          <a href="/Collage-Maker">Collage Maker</a>
+                          <ul>
+                              <li class="sub">
+                                  <a href="/Collage-Maker">Collage Maker</a>                              </li>
+                          </ul>
+                      </li>
+                      <li class="sup">
+                          <a href="/video-slideshow-collage-cloud-prints">More...</a>
+                          <ul>
+                            <li class="sub">
+                                <a href="/Photo-Editor">Photo Editor</a>                            </li>
+
+                        <!-- Désactiver Tirage Photo -->
+                                                    <li class="sub">
+                                <a href="/prints-enlargements-posters">Prints &amp; Gifts</a>                            </li>
+                            
+							<li class="sub">
+                                  <a href="/cloud">Cloud</a>                              </li>
+                          </ul>
+                      </li>
+                      <li class="sup" id="topmenu_cat">
+                        <a href="/catalog-slideshow-video">Catalog
+</a>
+                        <ul>
+                            <li class="sub" onclick="linkancre(&quot;slideshows&quot;)">
+                                <a href="/catalog-slideshow-video#slideshow">Movies, Slideshows, Videos</a>                            </li>
+                            <li class="sub" onclick="linkancre(&quot;collages&quot;)">
+                                <a href="/catalog-slideshow-video#collage">Collages</a>                            </li>
+                            <li class="sub" onclick="linkancre(&quot;effects&quot;)">
+                                <a href="/catalog-slideshow-video#effect">Effects</a>                            </li>
+                            <li class="sub" onclick="linkancre(&quot;transitions&quot;)">
+                                <a href="/catalog-slideshow-video#music">Music</a>                            </li>
+                            <li class="sub" onclick="linkancre(&quot;animations&quot;)">
+                                <a href="/catalog-slideshow-video#animation">GIFs</a>                            </li>
+                            <li class="sub" onclick="linkancre(&quot;musics&quot;)">
+                                <a href="/catalog-slideshow-video#transition">Transitions</a>                            </li>
+                        </ul>
+                    </li>
+                  </div>
+              </ul>
+            </div>
+            <div style="display:inline;">
+
+                <div class="changeLanguage">
+                    <div class="selectedLanguage">
+                        <p><span>EN</span></p>
+                    </div>
+                    <div class="listLanguages">
+
+                        <div class="line"><a id="en" class="www.kizoa.com">English</a></div><div class="line"><a id="fr" class="www.kizoa.fr">Français</a></div><div class="line"><a id="de" class="www.kizoa.de">Deutsch</a></div><div class="line"><a id="it" class="www.kizoa.it">Italiano</a></div><div class="line"><a id="es" class="www.kizoa.es">Español</a></div><div class="line"><a id="pt" class="www.kizoa.com.br">Português</a></div><div class="line"><a id="ja" class="www.kizoa.jp">日本語</a></div><div class="line"><a id="zh" class="cn.kizoa.com">华语</a></div><div class="line"><a id="tr" class="tr.kizoa.com">Türkçe</a></div><div class="line"><a id="ru" class="www.kizoa.ru">Русский</a></div><div class="line"><a id="se" class="www.kizoa.se">Svenska</a></div><div class="line"><a id="pl" class="www.kizoa.pl">Polski</a></div>                        <script>
+                            $(".listLanguages .line").click(function(){
+                                var urlNum = allDatasEdit[currentLangue][location.pathname.substring(1)];
+                                var line = $(this).find('a')[0];
+                                var url = line.className.replace(/ /g,'');
+                                var tab = allDatas[line.id][urlNum] ? allDatas[line.id][urlNum] :  "home" ;
+//                                console.log("lien : ", url);
+//                                console.log("le tableau : ", tab);
+                                window.location.href = "https://" + url + "/" + tab;
+                            })
+                        </script>
+                    </div>
+                </div>
+
+                <div id="login">
+                    <div class="user-states">
+                        <div class="user-out" style="display: block;">
+                            <div class="sign-up"><span data-id="MENU_REGISTER">Sign up</span></div><div class="log-in"><span data-id="MENU_LOGIN">Log in</span></div>
+                        </div>
+                        <div class="user-in" style="display: none;">
+                            <div class="user-mail"><p></p></div>
+                            <div class="user-logout" data-id="HOME_LOGOUT"><p>Logout</p></div>
+                        </div>
+<!--                        <div class="clear"></div>
+                        <div class="forgot">
+                              <p><a href="" data-id="HOME_LOGIN_FORGOT_PWD">Forgot my password</a></p>
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+          </div>
+        </header>
+
+                    <script type="text/javascript">
+                var defined_language = "";
+				if ((!defined_language) || (defined_language.length==0)) defined_language=(navigator.userLanguage || navigator.language);
+                defined_language = defined_language ? defined_language.substring(0, 2) : "en";
+
+
+            console.log(defined_language);
+                var redirect = null;
+				var pathnametrans="";
+
+                switch (defined_language) {
+                    case "fr":  redirect = "https://www.kizoa.fr"; break;
+                    case "pt":  redirect = "https://www.kizoa.com.br"; break;
+                    case "it":  redirect = "https://www.kizoa.it"; break;
+                    case "de":  redirect = "https://www.kizoa.de"; break;
+                    case "es":  redirect = "https://www.kizoa.es"; break;
+                    case "se":  redirect = "https://www.kizoa.se"; break;
+                    case "sv":  redirect = "https://www.kizoa.se"; break;
+                    case "ru":  redirect = "https://www.kizoa.ru"; break;
+                    case "pl":  redirect = "https://www.kizoa.pl"; break;
+                    case "ja":  redirect = "https://www.kizoa.jp"; break;
+                    case "tr":  redirect = "https://tr.kizoa.com"; break;
+                    case "cl":  redirect = "https://www.kizoa.cl"; break;
+                    case "zh":  redirect = "https://cn.kizoa.com"; break;
+                    default:;
+                }
+
+                if (document.domain === "www.kizoa.com" &&
+                    typeof localStorage !== "undefined" &&
+					localStorage!=null &&
+                    localStorage.getItem("lang") === "en") {
+                    redirect = null;
+                }
+
+                if (((document.referrer.indexOf("https://www.kizoa.") !== -1) || (document.referrer.indexOf("kizoa.com") !== -1)  || (document.referrer.indexOf("kizoa.com") !== -1)) && (document.referrer.indexOf("kizoa.com.br") == -1)) {
+                    redirect = null;
+                    /*
+                    * If the user wants to rests on the US version, set a local cookie
+                    */
+                   if (document.domain === "www.kizoa.com" &&
+                        typeof localStorage !== "undefined" &&
+						localStorage!=null) {
+                       localStorage.setItem("lang", "en");
+                   }
+                }
+			console.log("path:"+document.location.pathname+" len:"+document.location.pathname.length+" redi:"+redirect);
+			  if ((document.location.pathname.length>3) && (redirect!=null)) {
+                 redirect = redirect+"/Privacy-Policy";
+				}
+                if (redirect !== null) {
+                    window.location.href = redirect;
+                }
+            </script>
+                    <div class="fullpage"><div class="bg-0">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-center space_bottom">
+                <h1 data-id="POLICY_TITLE"><br>PRIVACY POLICY</h1>
+                <div data-id="POLICY_TITLE_DESC"></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 space_top space_bottom">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <div class="row pressRelease">
+                            <div class="col-md-12 col-xs-12">
+                                <div class="row">
+                                    <div class="col-xs-12 space_bottom content" data-id="POLICY_CONTENT">
+                                        At Kizoa, we take your privacy very seriously. This privacy policy (titled “Privacy Policy”) has been developed in line with our Terms of Use and Terms of Service to inform you about how we collect, store, and use your personal Information.<br><br> 
+
+By accessing and using the Kizoa website, mobile app and/or Kizoa services, you acknowledge and agree to be bound by this Privacy Policy. If you do not agree to any of the provisions that are set by this Privacy Policy further detailed below, you waive your right to use the Kizoa website, app or any other Kizoa services. <br><br>
+
+This Privacy Policy must be read and agreed to along with the Terms of Use and Terms of Service before using the Kizoa website, mobile app or Kizoa services. Together they constitute the entire agreement between you, the user, and Kizoa.<br><br>
+
+This Privacy Policy applies to any and all personal information that we collect online through using our website, mobile app and/or any of our services, including but not limited to email communication. <br><br>
+Kizoa reserves the right to change this Privacy Policy at any time without notice. We therefore ask you to review this policy periodically in order to be fully informed about how we collect, store, and use your personal information. You agree to this policy upon your first use of the Kizoa website, mobile app and/or Kizoa services and will continue to be bound to these terms even after you have ceased to use the website, mobile app and/or services.<br><br>
+<span style="font-size: 20pt;"><b>Information That We Collect</b></span><br><br>
+The personal Information we collect from our users helps us personalize and improve the Kizoa website, mobile app and services. Listed below are the types of information that Kizoa collects:<br><br>
+<b>Information Provided by You.</b> During your use of the Kizoa website and/or mobile app, Kizoa collects personal information provided by you either as part of your registration to the website or by any other means, including but not limited to providing your name, email address, and personal address. This personal information may be updated by you at any time. By using our website, our mobile app and/or services, you may supply us with other information supplied by your uploaded content and metadata such as the source of that content.<br><br>
+<b>Automatic Information (Cache and Cookie data).</b> When using the Kizoa website and/or the Kizoa mobile app, we collect personal information that your browser sends to every website you visit automatically, including but not limited to, your IP address, your browser information (including browser type, capabilities and language), your operating system, the date and time you accessed the website, and the website from which you accessed Kizoa. In addition, we may collect other information from you (such as location-based data). To organize this data, we may group some or all this personal information into aggregate data to describe the Kizoa website, mobile app and/or Kizoa services to potential business partners and advertisers, or in response to a legal demand. We may also group demographic information that we collect from our users into aggregate data for the same purposes. Upon demand by legal authorities, we reserve the right to use and share any non-personal information with third parties, including but not limited to lawyers and judges. We may associate your personal information with non-personal information within our database. In this case, we treat all the associated information as personal information as defined by this Privacy Policy. Except in the cases noted below, we do not share this associated personal Information with third parties.<br><br>
+<span style="font-size: 20pt;"><b>How we use your information</b></span><br><br>
+<b>Internal Use.</b> We use personal information for internal purposes only, to improve the Kizoa website, mobile app and/or services for you as the user. In addition, we use the personal information collected to analyze who is using our website or mobile app and to deliver information to you about certain promotions, services or items that might interest you as the user. We may use your email address to contact you with news regarding the Kizoa website, mobile app and/or services.<br><br>
+<b>Editing Information.</b> You may review and edit any of your personal information by using your e-mail address and password. If you cancel your account, your personal information will be deleted from our database except for certain residual information within our databases which includes but is not limited to access logs, backup logs and other records, which may or may not contain personally identifiable information.<br><br>
+<b>Troubleshooting.</b> We may use your personal information and other data obtained from your current and past activities, in order to troubleshoot technical problems or resolve any disputes.<br><br>
+Kizoa will not sell, trade or rent your Personal Information to others unless you explicitly provide us with written permission to do so.<br><br>
+<span style="font-size: 20pt;"><b>Disclosure of Personal Information</b></span><br><br>
+<b>At Your Request.</b> We will not disclose, sell or transfer any of your Personal Information to any third parties, except if you provide a written request as part of Kizoa Services.<br><br>
+<b>Legal Disclosures.</b> In the event we are required to disclose personal information and other related information for legal purposes, including but not limited to subpoenas, or court orders, or if we must verify compliance with applicable laws, we will make such disclosure.<br><br>
+<b>Sale of Business.</b> In the event the ownership of all or a part of Kizoa were to change, your personal information and other related information pertinent to our operations will be transferred to, and licensed for use by, the new owner.<br><br>
+<b>To Protect Kizoa Services.</b> We may disclose your personal information and other related information in the event we reasonably believe such disclosure is necessary to protect the Kizoa website, Kizoa mobile app, Kizoa services, our rights reserved as the service and website provider, our property, or the rights of any third party.<br><br>
+<b>Third Party Service Providers.</b> We use third-party service providers to perform certain services on our behalf, including but not limited to delivering print orders made through Kizoa. We may provide your personal information to these third-party service providers if they demand this information in order for them perform their services. These third-party service providers are contractually restricted from using personal information for any other purpose and required to comply with all applicable laws with respect to the your personal information and other related information they receive. This is defined and detailed by their Privacy Policy and/or Terms of Use or Terms of Service.<br><br>
+
+<b>Exceptional Cases.</b> Kizoa reserves the right to disclose your personal information and other related information, when we have reason to believe that disclosing such information is necessary to identify, contact or bring legal action against someone who may be violating this Privacy Policy, and/or our Terms of Service and Terms of Use. Such action will also be taken if we believe someone may be causing injury to or interference with (either intentionally or unintentionally), the rights reserved to us as the website/mobile app/service provider, to our property, other users, or anyone else that could be harmed by such activities. You therefore authorize us to disclose any information about you to law enforcement or other legal officials if we, in our sole and absolute discretion, believe that such a disclosure is necessary.<br><br>
+
+<span style="font-size: 20pt;"><b>Sharing of Information</b></span><br><br>
+Our Privacy Policy only addresses the use and disclosure of personal information we collect while using the Kizoa website and/or Kizoa services. We have no control over privacy policies of third parties and Kizoa users will be subject to the privacy customs and policies of these third parties as noted in the aforementioned section.<br><br>
+<span style="font-size: 20pt;"><b>Protection of Information</b></span><br><br>
+Personal information collected about you is protected in several ways. If you create a Kizoa account, you can access your Personal Information which is protected by a password and unique user ID that you select upon creation of your account. That password is encrypted. We recommend that you do not disclose your password to anyone in order to protect your account information and content. In addition, your personal information resides on proprietary secured servers that only selected personnel and contracts have access to with an encrypted password.<br><br>
+Your personal information is guarded under industry standard security measures and it is not available for use by unauthorized parties. However, Kizoa cannot guarantee that the personal information submitted to, maintained on, or transmitted from our systems will be completely secure. If you have any questions regarding which measures and techniques we use, feel free to contact us at support@kizoa.com.<br><br>
+<span style="font-size: 20pt;"><b>Cookies</b></span><br><br>
+
+You acknowledge and agree that we may use cookies on the Kizoa website and mobile app. A cookie is a piece of text that is stored into the memory of your hard drive and can store information about your use of the Kizoa website or mobile app (these are called "Cookies"). Cookies will help us make our services more convenient, personalized and more secure. In addition, Cookies allow us to keep track and retrieve information about any user who violates our Privacy Policy. We may also work with third parties who use Cookies and other system services to aid in their presentation of directed advertising and reporting of aggregate site usage statistics for the Kizoa website, Kizoa mobile app and Kizoa services. These statistics are not linked to personally identifiable information. If you would rather not have Cookies on your computer, you can set your web browser (e.g. Internet Explorer, Safari, Google Chrome, etc…) to deny some but not all Cookies. You can also delete Cookies from your computer whenever you as the user deem fit by accessing the settings of your web browser.<br><br>
+
+<span style="font-size: 20pt;"><b>Other Websites, Services and Communities</b></span><br><br>
+When using the Kizoa website, mobile app and/or services, you may be directed via hyperlinks or other means to third-party websites, services and online communities that are not affiliated with us. These websites, services and online communities may send their own cookies to visitors in order to collect data or solicit your personal information. The privacy policies of these websites, services and online communities may be very different from the Privacy Policy set forth in these pages. We are not responsible for the privacy practices of these other websites, services and online communities and Kizoa cannot guarantee the security of any of the personal information collected, used or shared there.<br><br>
+<span style="font-size: 20pt;"><b>Policy Regarding Children</b></span><br><br>
+Kizoa is a COPPA compliant website. You must be 13 years old or older to use the Kizoa website and/or Kizoa services; we do not knowingly collect information from children under the age of 13. If we become aware that we have collected Personal Information from a child under the age of 13 years old, we will delete such information from our database in order to adhere to COPPA regulations. If you are between 13 and 17 years old, you agree that you received your parent or legal guardian's consent to use and access the Kizoa website, Kizoa mobile app and/or Kizoa services.<br><br>
+<span style="font-size: 20pt;"><b>Regulations that govern personal data protection
+</b></span><br>
+<br>
+There are currently various documents covering data protection in place at the national, international, and European levels. The most important ones are the following:<br><br>
+- Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data, repealed on 25 May 2018 by Regulation (EU) 2016/679 (<a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31995L0046">http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A31995L0046</a>).<br><br>
+- Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (<a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679">http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679</a>).<br><br>
+- Charter of Fundamental Rights of the European Union (2012/C 326/02) (<a href="http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A12012P%2FTXT">http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A12012P%2FTXT</a>).<br><br>
+- Convention for the protection of individuals with regard to the automatic processing of personal data (<a href="https://www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/108">https://www.coe.int/fr/web/conventions/full-list/-/conventions/treaty/108</a>).<br><br>
+Kizoa undertakes to abide by its obligations in accordance with the aforementioned regulations, particularly the General Data Protection Regulations (GDPR). It's this commitment to compliance in particular which means that Kizoa's customers can also meet some of their own regulatory obligations. We strongly advise all our customers to be particularly vigilant on these aspects of compliance. Other, more specific regulations may exist, including for certain specific categories of personal data. In such cases, organisations are solely responsible for correctly identifying the regulations applicable to their business activities, and achieving compliance with them. Choosing the right provider, especially when it comes to the cloud, is essential if you want to meet your own obligations on protecting personal data.<br><br>
+<span style="font-size: 20pt;"><b>Kizoa's Data Protection Officer (DPO): oversees data protection strategy and implementation to ensure compliance with GDPR.</b></span><br><br>
+Kizoa has appointed a DPO, whose role and aims are partly determined by European regulations. The DPO acts as a fully independent internal watchdog, ensuring that Kizoa's data processing operations are compliant with all applicable European regulations.<br><br>
+Francois Aichelbaum - Data Protection Officer - privacy@kizoa.com<br><br>
+Francois Aichelbaum is totally committed to his objectives and has the resources at his disposal to operate completely independently, without any conflicts of interest. He regularly runs awareness and training sessions for Kizoa's employees and is there to answer their questions on privacy and data protection. He is in charge of implementing a "privacy by design" and "privacy by default" approach, especially for designing new solutions for customers, he liaises with supervisory authorities and more... He is also the first point of contact for any customers who need guarantees for the measures they have implemented in order to conform with applicable regulations, including the GDPR.<br><br>
+<span style="font-size: 20pt;"><b>Questions</b></span><br><br>
+You may direct questions concerning this Privacy Policy by email to <b>support@kizoa.com</b> by adding the word “Privacy” in the subject heading. <br><br>
+
+<span style="font-size: 20pt;"><b>About Kizoa</b></span><br><br>
+Kizoa is an online movie maker application for photos and videos. Launched in 2007 and headquartered in Paris, France. Available in 12 languages with over 15 million users around the world, thousands of movies are created per day using our application. For more information about Kizoa and its features, please visit https://www.kizoa.com/.
+<br><br>
+<span style="font-size: 20pt;"><b>Legal Notice</b></span><br><br>
+<b>PIXVISIO SA</b><br>
+PARIS HEADQUARTERS:<br>
+24 rue de l'Est<br>
+75020 Paris, France<br>
+For business inquiries:<br>
++33 1 74 87 54 83<br>
+RCS number 490 864 063                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+        <div class="footer kfooter">
+            <div class="container">
+              <div class="row padd-top-bottom-2">
+                <div class="col-xs-5">
+                  <p class="top-slug" data-id="FOOTER_TOP_SLUG">Make a Movie with your<br>
+Photos, Videos and Music</p>
+                </div>
+                <div class="col-xs-4">
+                  <button id="flashButton" data-alt-login="Open Kizoa" data-alt-register="Open Kizoa" class="gobtn pull-right">Open Kizoa</button>
+                </div>
+                <div class="col-xs-3">
+                  <p class="quick-contact" data-id="FOOTER_QUICK_CONTACT_WAY"></p>
+                </div>
+              </div>
+            </div>
+                           <div class="mobileApp" style="padding-top:15px;background-color:white; width:100%; margin-bottom:10px;height:60px;text-align:center;">
+                    <a style="font-style: inherit;" href="https://itunes.apple.com/us/app/apple-store/id1288075522?pt=1081222&amp;ct=Website_desktop_us&amp;mt=8">
+                    <img style="margin-top: -5px;" src="/mob/img/badge/App_Store_Badge_us.svg"></a>
+                    <p data-id="FOOTER_MOBILEAPP" style="font-size:18px;display:inline;font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;font-style: inherit !important;margin-left: 5px;"><strong style="font-style: italic;">NEW</strong> &gt; Kizoa is now available for iPhone</p>
+               </div>
+            
+            <div class="container">
+              <div class="row">
+                  <div class="col-xs-15">
+                      <h6 data-id="FOOTER_SLD_TITLE">Movie Maker - Video Editor</h6>
+                      <p data-id="FOOTER_SLD_SUB1"><a href="/Movie-Maker">Online movie maker</a></p>
+                      <p data-id="FOOTER_SLD_SUB2"><a href="/Video-Editor">Video maker and editor</a></p>
+                      
+                      <p data-id="FOOTER_SLD_SUB3"><a href="/Slideshow-Maker">Slideshow maker</a></p>
+                      <p data-id="FOOTER_SLD_SUB3_1"><a href="/4K-Video-Editor-Movie-Maker">Edit videos in 4K
+</a></p>
+                      <p data-id="FOOTER_SLD_SUB3_2"><a href="/Online-Photo-Storage-RAW">Store RAW files
+</a></p>
+
+
+
+                      <p data-id="FOOTER_SLD_SUB4"><a href="/catalog-slideshow-video/">Video and movie templates
+</a></p><p data-id="FOOTER_SLD_SUB5"><a href="/share-slideshow-video">Share movies, videos, slideshows</a></p>
+                      <p data-id="MENU_OFFERS_SUB_4"> <a href="/Business-Video-Marketing">Kizoa for Business</a> </p>
+                      <p data-id="FOOTER_SLD_SUB6"> <a href="https://itunes.apple.com/us/app/apple-store/id1288075522?pt=1081222&amp;ct=Website_desktop_us&amp;mt=8"> </a><a href="/movie-maker-ios-iphone-app">Movie Maker for iPhone</a> </p>                </div>
+                  <div class="col-xs-15">
+                      <h6 data-id="FOOTER_COL_TITLE">Collage Maker</h6>
+                      <p data-id="FOOTER_COL_SUB1"><a href="/Collage-Maker">Still and animated collages</a></p>
+                      <p data-id="FOOTER_COL_SUB2"><a href="/catalog-slideshow-video/">Templates, grids, scrapbooks</a></p>
+                      <p data-id="FOOTER_COL_SUB3"><a href="/share-collage-scrapbook-ecard#mail">Share your collages</a></p>
+                  </div>
+                  <div class="col-xs-15">
+                      <h6 data-id="FOOTER_EDITING_TITLE">Photo Editor</h6>
+                      <p data-id="FOOTER_EDITING_SUB1"><a href="/Photo-Editor">Straighten, rotate, crop
+</a></p>
+                      <p data-id="FOOTER_EDITING_SUB2"><a href="/Photo-Editor">Filters and effects</a></p>
+                      <p data-id="FOOTER_EDITING_SUB3"><a href="/Photo-Editor">Frames</a></p>
+                  </div>
+                  <div class="col-xs-15">
+                      <h6 data-id="FOOTER_OFFRES_TITLE">Our Memberships</h6>
+                      <p data-id="MENU_OFFERS_SUB_1"><a href="/premium#">Premium</a></p>
+                      <p data-id="MENU_OFFERS_SUB_2"><a href="/premium#kizoaLife">One-time fee</a></p>
+                      <p data-id="MENU_OFFERS_SUB_3"><a href="/premium#tabOffres">Membership details</a></p>
+
+                  </div>
+                  <div class="col-xs-15">
+                      <h6 data-id="FOOTER_ABOUTUS_TITLE">About us</h6>
+                      <p data-id="FOOTER_ABOUTUS_SUB1"><a href="/about-us/#AboutKizoaTeam">Our history</a></p>
+                      <p data-id="FOOTER_ABOUTUS_SUB2"><a href="/about-us/#meetKizoaTeam">The team</a></p>
+                      <p data-id="FOOTER_ABOUTUS_SUB3"><a href="/about-us/#Contact">Contact</a></p>
+                      <p data-id="FOOTER_ABOUTUS_SUB5"><a href="/Jobs">Jobs</a></p>                      <p data-id="FOOTER_POLICY_SUB1"><a href="/Privacy-Policy"> Privacy policy  </a></p>
+
+                  </div>
+              </div>
+            </div>
+        </div>
+        <div id="fpsperfs"></div>
+        <div class="weditor hidden">
+            <div class="header">
+                <div class="title">
+                    <p>Kizoa Text Editor</p>
+                </div>
+                <div class="close"><p>x</p></div>
+            </div>
+            <div class="top">
+                <div class="search_bar">
+                    <input type="text" name="searcher">
+                </div>
+            </div>
+            <div class="middle">
+                <div class="left_keys">
+                    <div class="search_key">
+                        <form name="searchKey" action="#" method="get">
+                            <input type="text" name="keyname">
+                        </form>
+                    </div>
+                    <div class="left_content">
+
+                    </div>
+                </div>
+                <div class="right_content"><textarea></textarea></div>
+            </div>
+            <div class="bottom">
+                <div class="btn">
+                    <!--<button class="reset">Reset from last file</button>-->
+                </div>
+                <div class="btn">
+                    <!--<button class="save">Save modifications</button>-->
+                </div>
+                <div class="btn">
+                    <button class="ok">OK</button>
+                </div>
+            </div>
+        </div>
+            		<!-- USE: REMOTE_ADDR -->
+        <script type="text/javascript">
+            var _userState = "out";
+            var infos = {
+                lang: "en-us",
+                country: "US",
+                phpsession: "",
+                pfdomain: "www.kizoa.com",
+                language: "en",
+            };
+        </script>
+        <script defer="" type="text/javascript" src="https://kizoa.com/copyCookie.php?16453575063497"></script>
+        <script defer="" type="text/javascript" src="/js/jquery-1.11.0.min.js"></script> 
+        <script defer="" type="text/javascript" src="/js/bootstrap/dist/js/bootstrap.min.js"></script>
+        <script defer="" type="text/javascript" src="//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+        <script defer="" type="text/javascript" src="/js/interface.js?v=8"></script>
+
+                <script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-11069057-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+        <script type="text/javascript">
+            /* <![CDATA[ */
+            var google_conversion_id = 1002441420;
+            var google_custom_params = window.google_tag_params;
+            var google_remarketing_only = true;
+            /* ]]> */
+        </script>
+        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+        <noscript>
+            <div style="display:inline;">
+              <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1002441420/?value=0&amp;guid=ON&amp;script=0"/>
+            </div>
+        </noscript>
+	<script>
+		(function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
+		a.src="//radar.cedexis.com/1/15241/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
+		.test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&&a[d]("on"+e,f))})
+		(window,document,"addEventListener","attachEvent","load");
+	</script>
+        <script type="text/javascript">
+		function preloadItem(path) {
+			var res = document.createElement("link");
+			res.rel = "preload";
+			res.href = path;
+			document.head.appendChild(res);
+		}
+		function startPrefetch() {
+			preloadItem("/pf.js");
+			preloadItem("/menu.swf");
+			preloadItem("/xt2.xml");
+			preloadItem("/lang/us/us.xml");
+		}
+		if (typeof hasHomeAnim == 'undefined') {
+			setTimeout(startPrefetch,5000);
+		}
+        </script>
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2225331247575879');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2225331247575879&ev=PageView&noscript=1"
+/></noscript>
+<div id="bdTest" style="position: absolute;top: 0; left: 0;width: 20px;height: 20px;"> </div>
+<div id="h5Test" style="position: absolute;top: 0; left: 20px;width: 20px;height: 20px;"> </div>
+    
+
+<script async="" src="//radar.cedexis.com/1/15241/radar.js"></script></body></html>
