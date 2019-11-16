@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezvid.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428195047id_/https%3A//www.ezvid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezvid.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116213704id_/https%3A//www.ezvid.com/privacy) for the most accurate reproduction.*
 
 # Ezvid Wiki Privacy Policy
 
