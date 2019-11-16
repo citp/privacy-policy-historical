@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appsheet.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527021600id_/https%3A//www.appsheet.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsheet.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116085041id_/https%3A//www.appsheet.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AppSheet
 
-_Last updated: August 13, 2018_
+_Last updated: August 16, 2019_
 
 We care about and respect the privacy of your data.
 
@@ -90,7 +90,7 @@ In compliance with the Privacy Shield Principles, AppSheet commits to resolve co
 
 
 
-AppSheet has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint. The services of JAMS are provided at no cost to you. 
+AppSheet has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS are provided at no cost to you. 
 
 AppSheet commits to cooperate with EU data protection authorities and the Swiss Data Protection and Information Commissioner and complies with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of employment relationship when applicable. 
 
