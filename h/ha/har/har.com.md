@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the har.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401162953id_/https%3A//www.har.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the har.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116142755id_/https%3A//www.har.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HAR.com - HAR.com
 
