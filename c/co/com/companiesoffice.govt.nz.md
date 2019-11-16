@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companiesoffice.govt.nz privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324194344id_/https%3A//www.companiesoffice.govt.nz/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesoffice.govt.nz privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116111222id_/https%3A//www.companiesoffice.govt.nz/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | Companies Office
 
@@ -38,7 +38,7 @@ The information we collect about you enables us to: **
 
 
 
-We’ll generally only use personal information obtained through the websites for the purposes for which it was collected. However, we may use or share your personal information for some other directly related purpose, as otherwise permitted by the [Privacy Act 1993](http://www.legislation.govt.nz/act/public/1993/0028/latest/DLM296639.html), or as required by some other legislation.
+We’ll generally only use personal information obtained through the websites for the purposes for which it was collected. However, we may use or share your personal information for some other directly related purpose, as otherwise permitted by the [Privacy Act 1993 ](http://www.legislation.govt.nz/act/public/1993/0028/latest/DLM296639.html), or as required by some other legislation.
 
 We may also be required to share personal information under the Official Information Act 1982, or to a Parliamentary Select Committee or Parliament, in response to a parliamentary question.
 
@@ -49,11 +49,11 @@ The personal details you provide will be viewable by MBIE staff (where appropria
 
 ## How long will your personal information be held?
 
-Where your personal information constitutes a public record, it will be retained as required by the [Public Records Act 2005](http://www.legislation.govt.nz/act/public/2005/0040/latest/DLM345529.html).
+Where your personal information constitutes a public record, it will be retained as required by the [Public Records Act 2005 ](http://www.legislation.govt.nz/act/public/2005/0040/latest/DLM345529.html).
 
 ## How is your information kept safe?
 
-We’re obliged by the [Privacy Act 1993](http://www.legislation.govt.nz/act/public/1993/0028/latest/DLM296639.html) to keep your personal information secure, and any authorised third-party will be subject to our own security and privacy requirements.
+We’re obliged by the [Privacy Act 1993 ](http://www.legislation.govt.nz/act/public/1993/0028/latest/DLM296639.html) to keep your personal information secure, and any authorised third-party will be subject to our own security and privacy requirements.
 
 Our websites have security measures in place to prevent the loss, misuse and alteration of the information we hold. To maintain the effectiveness of our systems, they undergo regular monitoring, including activity logging, analysis and auditing.
 
@@ -97,7 +97,7 @@ Auckland 1142
 
 If we have a good reason for refusing a request to correct information, you’re entitled to ask that a statement be attached to the information to show that a correction was sought, but not made.
 
-For more information on the privacy laws in New Zealand, and contact details for the Office of the Privacy Commissioner, visit the [website for the Office of the Privacy Commissioner](https://www.privacy.org.nz/).
+For more information on the privacy laws in New Zealand, and contact details for the Office of the Privacy Commissioner, visit the [website for the Office of the Privacy Commissioner ](https://www.privacy.org.nz/).
 
 ## What are cookies, and what do they do?
 
@@ -107,11 +107,11 @@ MBIE uses cookies to collect statistical information, such as trends in how thes
 
 We don’t use cookies to gather any information that will identify you personally.
 
-You can read [Google’s privacy statement](https://www.google.com/intl/en/policies/privacy/) and access a Google Analytics opt-out tool on Google’s website.
+You can read [Google’s privacy statement ](https://www.google.com/intl/en/policies/privacy/) and access a Google Analytics opt-out tool on Google’s website.
 
 ## What statistical information is collected when you use this website?
 
- ** ** We may collect statistical information about your visit, to help us improve our websites. This information won’t identify you personally, and includes:
+** ** We may collect statistical information about your visit, to help us improve our websites. This information won’t identify you personally, and includes:
 
   * the search terms you used
   * the pages you accessed on and the links you clicked on
@@ -126,4 +126,14 @@ You can read [Google’s privacy statement](https://www.google.com/intl/en/polic
 
 The statistical information referred to above can be viewed by certain MBIE staff. It may also be shared with other government agencies.
 
-Last updated 21 November 2018
+The Incorporated Societies Register’s Constitution Builder tool requires that you send your completed draft constitution to a secure email address. You’ll also be asked for an email address if you start a constitution and intend to finish it later. This information is stored temporarily within the tool.
+
+Stored email addresses are inaccessible to MBIE and the Constitution Builder service provider, and are not used for marketing purposes unless you opt in to receiving marketing emails.
+
+Any draft constitution that has not been reopened within 90 days will be deleted, along with the email addresses, and any other information you have provided.
+
+Once you’ve completed your constitution and it has been sent to your nominated address, all information will be permanently deleted from the tool and companiesoffice.govt.nz.
+
+MBIE may collect statistical information about the use of the Constitution Builder tool. This information is anonymous and cannot be traced back to an email address used when creating the draft.
+
+Last updated 16 October 2019
