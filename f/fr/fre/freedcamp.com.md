@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedcamp.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320085029id_/https%3A//freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/pAbab) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedcamp.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116113941id_/https%3A//freedcamp.com/Freedcamp_LxR/Freedcamp_Devel_yOf/wiki/wiki_public/view/pAbab) for the most accurate reproduction.*
 
 # Privacy Policy | Freedcamp
 
@@ -7,6 +7,15 @@
 This Privacy Policy describes the manner in which Freedcamp collects, uses, maintains and discloses information collected from Users ("User") through our all our websites ("Site") by accessing our Services (“Services”). This privacy policy applies to the Site and all products and services offered by Freedcamp, INC. If you do not agree with this policy, please do not access or use our Services or any aspect of our Business. 
 
 Updates in this Privacy Policy reflects recent changes in data protection law (eg. GDPR) and aims to provide Users a clearer understanding of how Freedcamp manages all User Data.
+
+  * Freedcamp doesn't have access to your password.
+  * No one at Freedcamps reads your information.
+  * Freedcamp is not in the business of selling your data to third parties.
+  * We don't share your browsing data with third parties.
+  * We don't share your email data with third parties.
+  * You can delete Freedcamp account at any time and it will also delete your data (see 'Date Deletion' section to learn more).
+
+
 
 This privacy policy applies to all products and Services (collectively, the “ **Services** ”) offered by Freedcamp, INC through Freedcamp.com (collectively, the “ **Sites** ”) and our Mobile Applications. **** In addition, this policy applies to personal data from the European Union that is collected and retained in the United States. This Privacy Policy does not apply to any third party applications or software that integrate with Freedcamp’s Services or any other third party products, services or business. 
 
@@ -72,7 +81,7 @@ Freedcamp will only disclose or share User information for the following purpose
 
 The operations of Freedcamp does require our employees to have access to systems which store and process User Data. This primarily serves the purpose of problem diagnostic or troubleshooting. For example, in order to diagnose a problem Users may have with Freedcamp services, our Employees may need access to your User Data. All employees are prohibited from viewing User Data for any reasons unless absolutely necessary to do so. 
 
-When Users delete their account(s) there are different scenarios how data deletion will be treated as described below:
+When Users delete their account(s) there are different scenarios of how data deletion will be treated as described below:
 
   1. If you were not invited to any other projects owned by other Freedcamp User then your data can no longer be accessed by you or any other Users that you invited to Freedcamp. Complete data deletion will occur post 90 days. Please see “Data Retention” below for additional details regarding 90-days data retention.
   2. If User does not own projects and was only invited to other Freedcamp User’s projects then your specific contribution in other the projects will remain, but your personal information will be deleted. Freedcamp will make every effort to mask any personal information remaining, for example, your contribution to someone else’s project will be listed as “First Name, Last Initial” with no connection to your deleted personal information such as email, phone numbers, etc.
@@ -153,7 +162,9 @@ Freedcamp, Inc.
 Santa Barbara, CA 93105, USA  
 +1 (805) 245-8713
 
-Users have certain statutory rights in relation to their personal data. Users may have the right to request or delete any personal information stored on Freedcamp. Please contact Freedcamp's Data Protection Officer for assistance. 
+Users have certain statutory rights in relation to their personal data. Users may have the right to request or delete any personal information stored on Freedcamp.
+
+Freedcamp will offer EEA and Swiss individuals whose personal information has been transferred to us the opportunity to choose whether the personal information it has received is to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. An individual may opt-out of such uses of their personal information by contacting us at the following:
 
 [_legal+dataprotection@freedcamp.com_](mailto:support@freedcamp.com) or by mail at
 
