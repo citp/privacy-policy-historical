@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stepik.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403135008id_/https%3A//welcome.stepik.org/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stepik.org privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116111621id_/https%3A//welcome.stepik.org/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — Stepik
 
