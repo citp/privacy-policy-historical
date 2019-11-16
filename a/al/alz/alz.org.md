@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517050846id_/https%3A//www.alz.org/Security-and-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alz.org privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116225130id_/https%3A//www.alz.org/Security-and-Privacy-Policy) for the most accurate reproduction.*
 
 # Security and Privacy Policy | Alzheimer's Association
 
