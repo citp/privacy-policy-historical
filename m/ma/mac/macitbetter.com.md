@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macitbetter.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611021204id_/https%3A//www.macitbetter.com/imprint-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macitbetter.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116203148id_/https%3A//www.macitbetter.com/imprint-en) for the most accurate reproduction.*
 
 # Imprint and Privacy Policy - MacItBetter
 
