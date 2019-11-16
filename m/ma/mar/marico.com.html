@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marico.com privacy policy that was archived on 2019-01-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190112224143id_/https%3A//marico.com/other/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marico.com privacy policy that was archived on 2019-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191116025127id_/https%3A//marico.com/other/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="https://www.w3.org/1999/xhtml"><head>
 <meta charset="UTF-8">
@@ -121,7 +121,7 @@
                                     <li id="3"><a href="https://marico.com/south-africa/brands/grace">Grace</a></li>
                                     <li id="4"><a href="https://marico.com/india/brands/hair-and-care">Hair &amp; Care</a></li>
                                     <li id="5"><a href="https://marico.com/india/brands/parachute-advansed-hair">Parachute Advansed</a></li>
-                                    <li id="6"><a href="https://marico.com/india/brands/revive">Revive</a></li>
+                                    <li id="6"><a href="https://marico.com/india/brands/studio-x">Revive</a></li>
                                     <li id="7"><a href="https://marico.com/india/brands/saffola">Saffola</a></li>
                                   </ul>
               </li>
@@ -145,8 +145,7 @@
                                     <li id="19"><a href="https://marico.com/india/brands/parachute-advansed-body-lotion1">Parachute Advansed Body Lotion</a></li>
                                     <li id="20"><a href="https://marico.com/south-africa/brands/black-chic-avocado-range">Black Chic Avocado Range</a></li>
                                     <li id="21"><a href="https://marico.com/india/brands/set-wet">Set Wet</a></li>
-                                    <li id="22"><a href="https://marico.com/india/brands/true-roots">True Roots</a></li>
-                                    <li id="23"><a href="https://marico.com/india/brands/parachute-coconut-oil">Parachute Coconut Oil</a></li>
+                                    <li id="22"><a href="https://marico.com/india/brands/parachute-coconut-oil">Parachute Coconut Oil</a></li>
                                   </ul>
               </li>
                           </ul>
@@ -522,7 +521,7 @@ width: 16%;
 					</div>
 									<div class="brandsList">
 						<ul>
-												  <li><a href="https://marico.com/india/brands/revive">Revive</a></li>
+												  <li><a href="https://marico.com/india/brands/studio-x">Revive</a></li>
 												  <li><a href="https://marico.com/india/brands/saffola">Saffola</a></li>
 												  <li><a href="https://marico.com/egypt/brands/hair-code">Hair Code</a></li>
 												  <li><a href="https://marico.com/south-africa/brands/hercules">Hercules</a></li>
@@ -548,7 +547,6 @@ width: 16%;
 												  <li><a href="https://marico.com/india/brands/parachute-advansed-body-lotion1">Parachute Advansed Body Lotion</a></li>
 												  <li><a href="https://marico.com/south-africa/brands/black-chic-avocado-range">Black Chic Avocado Range</a></li>
 												  <li><a href="https://marico.com/india/brands/set-wet">Set Wet</a></li>
-												  <li><a href="https://marico.com/india/brands/true-roots">True Roots</a></li>
 												  <li><a href="https://marico.com/india/brands/parachute-coconut-oil">Parachute Coconut Oil</a></li>
 											
 						</ul>
@@ -705,7 +703,25 @@ $(document).ready(function(){
 </script>
 <!-- common js files ends -->
 
+<script type="text/javascript">
+$(document ).ready(function() {
 
+  $(".fmorelick").click(function(){
+	$(".fraudText").toggleClass("show");
+	$(this).toggleClass("homeReadLessBtn");
+	if ($(this).find("span").text() === "More") {
+		$(this).find("span").text("Less")
+	} else {
+		$(this).find("span").text("More")
+	}
+  });
+
+  $("#fraudPopup a.close").click(function(){
+	$("#fraudPopup").hide();
+  });
+
+});
+</script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
