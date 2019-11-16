@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mivacentral.com privacy policy that was archived on 2019-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190302093406id_/https%3A//www.miva.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mivacentral.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116232853id_/https%3A//www.miva.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Miva, Inc
 
@@ -80,13 +80,13 @@ The security of your personal information is important to us. We follow generall
 
 We provide two means for you to make a purchase on our site. You can either use our order form or a third party checkout option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted. If you choose to use a third party checkout option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
 
-We will retain your information for as long as your account is active, or as needed to provide you services. If you wish to cancel your account, or request that we no longer use your information to provide you services, contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#3c4c4e554a5d5f457c51554a5d125f5351). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active, or as needed to provide you services. If you wish to cancel your account, or request that we no longer use your information to provide you services, contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#5424263d2235372d14393d22357a373b39). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Other Information
 
 Our Websites include third party hosted widgets, which are interactive mini-programs that run on our Websites to provide single-purpose services (e.g. sharing of articles, videos, etc.). Personal information, like your email address, may be collected and cookies may be set so the widget can work properly. The information through the widget is subject to the widget provider's privacy policy. 
 
-Our Websites offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#2555574c5344465c65484c53440b464a48). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so.
+Our Websites offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#d6a6a4bfa0b7b5af96bbbfa0b7f8b5b9bb). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so.
 
 Our Websites and services are not directed to, and we do not knowingly collect personal information from, individuals under the age of sixteen (16).
 
@@ -94,11 +94,11 @@ We may store or process your personal information in any country in which we hav
 
 ## Correcting, Updating, and Removing Your Personal Information
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in those emails, or you can contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#4636342f3027253f062b2f30276825292b). Please note, if you opt-out of receiving our newsletter or marketing emails, you may still receive important administrative communications from us, as long as your account is active, or as needed to provide you services.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in those emails, or you can contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#fa8a88938c9b9983ba97938c9bd4999597). Please note, if you opt-out of receiving our newsletter or marketing emails, you may still receive important administrative communications from us, as long as your account is active, or as needed to provide you services.
 
-To review and update your personal information to ensure it is accurate, or to restrict or request deletion of personal information you have provided to us, please contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#3242405b4453514b725f5b44531c515d5f). For security purposes, we will only respond to such requests regarding personal information in our database that is associated with the email address you used to send your request, and additional information may be required to verify your identity before doing so.
+To review and update your personal information to ensure it is accurate, or to restrict or request deletion of personal information you have provided to us, please contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#addddfc4dbccced4edc0c4dbcc83cec2c0). For security purposes, we will only respond to such requests regarding personal information in our database that is associated with the email address you used to send your request, and additional information may be required to verify your identity before doing so.
 
-Please note, we will retain your personal information for as long as your account is active, or as needed to provide you services, including use of our websites and social media pages. If you wish to cancel your account, or request that we no longer use your personal information to provide you services, contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#1b6b69726d7a78625b76726d7a35787476). Following cancellation of your account or processing of your request for us to discontinue providing services to you, we will only retain and use your information as necessary for recordkeeping purposes, and to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Please note, we will retain your personal information for as long as your account is active, or as needed to provide you services, including use of our websites and social media pages. If you wish to cancel your account, or request that we no longer use your personal information to provide you services, contact us at [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#6d1d1f041b0c0e142d00041b0c430e0200). Following cancellation of your account or processing of your request for us to discontinue providing services to you, we will only retain and use your information as necessary for recordkeeping purposes, and to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Notification of Privacy Policy Changes
 
@@ -112,7 +112,7 @@ Miva, Inc.
 16745 W. Bernardo Dr., 4th Floor  
 San Diego, CA 92127  
 United States  
-Email: [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#3141435847505248715c5847501f525e5c)  
+Email: [[email protected]](https://www.miva.com/cdn-cgi/l/email-protection#d3a3a1baa5b2b0aa93bebaa5b2fdb0bcbe)  
 Phone: 800-608-MIVA
 
   * Need Help?
