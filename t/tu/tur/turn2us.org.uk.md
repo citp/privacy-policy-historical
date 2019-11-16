@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turn2us.org.uk privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629014702id_/https%3A//www.turn2us.org.uk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turn2us.org.uk privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116030601id_/https%3A//www.turn2us.org.uk/Privacy-Policy) for the most accurate reproduction.*
 
 # Turn2us Privacy Policy - Turn2us
 
