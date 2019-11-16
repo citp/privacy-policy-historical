@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613080735id_/http%3A//www.cricketmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epals.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116163300id_/http%3A//www.cricketmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cricket Media
 
@@ -18,7 +18,7 @@ If you are not of legal age to form a binding contract (in many jurisdictions, t
 
 As you will see from reviewing this Privacy Policy, we take your privacy seriously. By accessing or using the Services (including via mobile devices) or accessing [shop.cricketmedia.com](http://shop.cricketmedia.com/) and ordering Products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Remember that your use of the Services is at all times subject to the [Terms of Use](http://www.cricketmedia.com/terms/), which incorporates this Privacy Policy; and for certain Services such as CricketTogether or TryEngineering Together, your use may be subject to participation guidelines and permissions that may be imposed by a child’s teacher or school administrator. Any capitalized terms we use here without defining them have the definitions provided in the [Terms of Use](http://www.cricketmedia.com/terms/).
 
-If you have questions or concerns regarding the Privacy Policy, you should contact us at support@cricketmedia.com. Note if you are reading a hard copy of this Privacy Policy, the email address for Cricket Support is: [support@cricketmedia.com](https://web.archive.org/web/20190613080735id_/http://cricketmedia.com/privacy/support@cricketmedia.com).
+If you have questions or concerns regarding the Privacy Policy, you should contact us at support@cricketmedia.com. Note if you are reading a hard copy of this Privacy Policy, the email address for Cricket Support is: [support@cricketmedia.com](https://web.archive.org/web/20191116163300id_/http://cricketmedia.com/privacy/support@cricketmedia.com).
 
 [](https://privo.com/privo-site-validation/?company=681)
 
