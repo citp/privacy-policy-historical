@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shopclues.com privacy policy that was archived on 2019-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190331150758id_/https%3A//www.shopclues.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopclues.com privacy policy that was archived on 2019-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191116012812id_/https%3A//www.shopclues.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" async-hide"><head>
    <meta charset="utf-8">
@@ -78,13 +78,14 @@
         var product_status = "";
         var outOfStock = "";
         var percentage_z = '["50","50","0","0"]';
-        function addZoneProducts_category(products,c1xobj){
+        function addZoneProducts_category(products,c1xobj,campaign_id){ 
                   var adzone_html = '';
                   for(var i=0;i<products.length;i++){
-                      var selling_price = products[i].price;
+                      var selling_price = products[i].price; 
                       var old_price = '';
                       var older_price = '';
                       var discount='';
+                      var position = i+1;
                       if(products[i].third_price != 0){
                         selling_price = Math.round(products[i].third_price);
                       }
@@ -106,12 +107,11 @@
                         discount = (Math.round(products[i].price) - Math.round(products[i].third_price)) / Math.round(products[i].price);
                         discount = Math.round(discount*100);
                       }
-                      products[i].seoname = products[i].seoname+'.html';
+                      products[i].seoname = products[i].seoname+'.html?adz_page=plp&adz_pos='+position+'&campaign_id='+campaign_id[i];
                       var image_src  = '';
                       if(products[i] && products[i].product_gallery && products[i].product_gallery[0] && products[i].product_gallery[0]["320X1"]){
                         image_src = products[i].product_gallery[0]["320X1"];
                       }
-                      var position = i+1;
                       var sell_price_html = '';
                       var old_price_html = '';
                       var discount_html  ='';
@@ -124,18 +124,20 @@
                       if(discount){
                         discount_html = '<span class="prd_discount">'+discount+'% OFF</span>';
                       }
-                      adzone_html+='<div class="column col3 c1x-adzone" style="float:left;"><a data-main_leaf_category='+products[i].main_leaf_category+' data-position='+position+' href="'+urlFrontend+products[i].seoname+'" id="'+products[i].product_id+'" onclick="adzone_click(this);" target="_blank"><input type="hidden" id="'+products[i].product_id+'" value=""><div class="img_section img_280"><img class="" id="det_img_'+products[i].product_id+'" src="'+image_src+'" alt='+products[i].product+' border="0" alt="" title=""></div><span class="prod_name">'+products[i].product+'</span><div class="prd_p_section"><div class="ori_price">'+sell_price_html+''+discount_html+'</div><div class="old_prices">'+old_price_html+'</div></div><div class="sh_content"><div class="visited"></div></div></a></div>';
+
+                      adzone_html+='<div class="column col3 c1x-adzone" style="float:left;"><a data-main_leaf_category='+products[i].main_leaf_category+' data-position='+position+' href="'+urlFrontend+products[i].seoname+'" id="'+products[i].product_id+'" campaign_id="'+campaign_id[i]+'" onclick="adzone_click(this);" target="_blank"><input type="hidden" id="'+products[i].product_id+'" value=""><div class="img_section img_280"><img class="" id="det_img_'+products[i].product_id+'" src="'+image_src+'" alt='+products[i].product+' border="0" alt="" title=""></div><span class="prod_name">'+products[i].product+'</span><div class="prd_p_section"><div class="ori_price">'+sell_price_html+''+discount_html+'</div><div class="old_prices">'+old_price_html+'</div></div><div class="sh_content"><div class="visited"></div></div></a></div>';
 
                   }
                   return adzone_html;
               }
-              function addZoneProducts_pdp(products,c1xobj){
+              function addZoneProducts_pdp(products,c1xobj,campaign_id){ 
                       var adzone_html = '';
                       for(var i=0;i<products.length;i++){
                           var selling_price = products[i].price;
                           var old_price = '';
                           var older_price = '';
                           var discount='';
+                          var position = i+1;
                           if(products[i].third_price != 0){
                             selling_price = Math.round(products[i].third_price);
                           }
@@ -157,12 +159,11 @@
                             discount = (Math.round(products[i].price) - Math.round(products[i].third_price)) / Math.round(products[i].price);
                             discount = Math.round(discount*100);
                           }
-                          products[i].seoname = products[i].seoname+'.html';
+                          products[i].seoname = products[i].seoname+'.html?adz_page=pdp&adz_pos='+position+'&campaign_id='+campaign_id[i];
                           var image_src  = '';
                           if(products[i] && products[i].product_gallery && products[i].product_gallery[0] && products[i].product_gallery[0]["320X1"]){
                             image_src = products[i].product_gallery[0]["320X1"];
                           }
-                          var position = i+1;
                           var sell_price_html = '';
                           var old_price_html = '';
                           var discount_html  ='';
@@ -175,11 +176,14 @@
                           if(discount){
                             discount_html = '<span class="prd_discount">'+discount+'% OFF</span>';
                           }
-                          adzone_html+='<li class="slick-slide" style="width: 16.65%;" aria-hidden="false" role="option"><a href="'+urlFrontend+products[i].seoname+'" id="'+products[i].product_id+'" target="_blank" data-position='+position+' data-main_leaf_category='+products[i].main_leaf_category+' onclick="adzone_click(this);"><input type="hidden" id="'+products[i].product_id+'" value="'+image_src+'"><img class="" id="det_img_'+products[i].product_id+'" src="'+image_src+'" border="0" alt="'+products[i].product+'"><h4>'+products[i].product+'</h4><p>'+old_price_html+'Rs.'+selling_price+'</p></a></li>';
+                          adzone_html+='<li class="slick-slide" style="width: 16.65%;" aria-hidden="false" role="option"><a href="'+urlFrontend+products[i].seoname+'" id="'+products[i].product_id+'" campaign_id="'+campaign_id[i]+'" target="_blank" data-position='+position+' data-main_leaf_category='+products[i].main_leaf_category+' onclick="adzone_click(this);"><input type="hidden" id="'+products[i].product_id+'" value="'+image_src+'"><img class="" id="det_img_'+products[i].product_id+'" src="'+image_src+'" border="0" alt="'+products[i].product+'"><h4>'+products[i].product+'</h4><p>'+old_price_html+'Rs.'+selling_price+'</p></a></li>';
 
                       }
                       return adzone_html;
                 }
+                
+                function ReadCookie(o){var e=" "+document.cookie,t=e.indexOf(" "+o+"=");if(-1==t&&(t=e.indexOf(";"+o+"=")),-1==t||""===o)return"";var n=e.indexOf(";",t+1);return-1==n&&(n=e.length),unescape(e.substring(t+o.length+2,n))}function SetCookie(o,e,t,n){var i=new Date,c=new Date;null!=t&&0!=t||(t=1),c.setTime(i.getTime()+864e5*t),document.cookie=""!=n?o+"="+escape(e)+";expires="+c.toGMTString()+";domain="+n+";path=/":o+"="+escape(e)+";expires="+c.toGMTString()}
+
       </script>
              <script src="//assets.adobedtm.com/a27f844e6d39b151a4c50628d74d0027a93ce93f/satelliteLib-7d2f0d5af2e6977e292dd2fe9c51476f8ebb4e6b.js"></script>
           <!-- Code for google ads -->
@@ -545,11 +549,11 @@
  };
 </script>
 <script>
-  function adzone_click(element){
+  function adzone_click(element){ 
       $.ajax({
-            url: urlFrontend+'ajaxCall/adzone_click?'+'product_id='+element.id+'&click_position='+element.getAttribute('data-position')+'&category_id='+element.getAttribute('data-main_leaf_category')+'&platform=D',
+            url: urlFrontend+'ajaxCall/adzone_click?'+'product_id='+element.id+'&click_position='+element.getAttribute('data-position')+'&category_id='+element.getAttribute('data-main_leaf_category')+'&campaign_id='+element.getAttribute('campaign_id')+'&platform=D',
             dataType: 'json',
-            success: function (res) {
+            success: function (res) { 
             },
             error:function(res) { 
               console.log(res);
@@ -866,7 +870,7 @@ return unescape(theCookie.substring(ind + cookieName.length + 2, ind1));
  </script>    
  
 	
-<!--<p class="footer">Page rendered in <strong>0.0293</strong> seconds</p>-->
+<!--<p class="footer">Page rendered in <strong>0.0344</strong> seconds</p>-->
 </div>
 
              
@@ -883,7 +887,8 @@ return unescape(theCookie.substring(ind + cookieName.length + 2, ind1));
                 <div class="sc_callouts">
                     <h4>Shopper Central</h4>
                     <ul>
-                        <li><a href="//www.shopclues.com/index.php?dispatch=auth.login_form&amp;return_url=index.php">Sign In/Register</a></li>
+                       
+                    <li><a href="javascript:void(0);" id="signupLog" onclick="loginPopup();">Sign In/Register</a></li>  
                         <li><a href="//www.shopclues.com/buyer-protection.html">Our Policies</a></li>
                         <li><a href="//www.shopclues.com/cluesbucks.html">CluesBucks</a></li>
                         <li><a href="//www.shopclues.com/payment-policy.html">Payment Options</a></li>
@@ -906,6 +911,7 @@ return unescape(theCookie.substring(ind + cookieName.length + 2, ind1));
                         <li><a href="//www.shopclues.com/merchant-testimonial.html">Testimonials</a></li>
                         <li><a href="//www.shopclues.com/seller-summit.html">Seller Summit</a></li>
                          <li><a href="http://merchant-community.shopclues.com">Merchant Blog</a></li>
+                         <li><a href="http://developer.shopclues.com">Developer Resources</a></li>
                     </ul>
                 </div>
                 <div class="sc_callouts">
@@ -1209,7 +1215,18 @@ return unescape(theCookie.substring(ind + cookieName.length + 2, ind1));
                 </div>
             </div>
         </div>
-    </footer><input type="hidden" value="bhf[]" class="bhf_id">
+    </footer>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        var fname = ReadCookie('fname');
+        var scumd_m= ReadCookie('scumd_m');
+        var scun_m= ReadCookie('scun_m');
+        if(fname && scumd_m && scun_m){
+            $("#signupLog").hide();
+        }        
+    });
+    </script><input type="hidden" value="bhf[]" class="bhf_id">
 
 <div id="responseLoading" style="display: none;">
   <div class="circleSpin">
@@ -1822,6 +1839,112 @@ if(source !== 'undefined' && source=='cuelinks'){
 </script>
 
 <div class="filter_overlay"></div>
+<script type="text/javascript">
+    var qoo_data = {"enable_script":true,"base_url":"https:\/\/shopclues-log.qoo10.in\/log\/shopclues\/?v=1&","keys":{"url":"prl","email":"lg","uid":"cn","mac":"mac_address","app_code":"app_code","kv":"kv","cache_version":"cv","visitor_id":"mid"}};
+    qoo_data["values"] = {};
+    var qoo_url = qoo_data['base_url'];
+    for (var key in qoo_data['keys']) {
+        var def = false; // default case, i.e, no value found for key 'k'
+        switch (key) {
+            case 'url':
+                qoo_data['values'][qoo_data['keys'][key]] = encodeURIComponent(document.URL);
+                qoo_url += qoo_data['keys'][key] + '=' + qoo_data['values'][qoo_data['keys'][key]] + '&';
+                break;
+            case 'email':
+                let mailid = '';
+                try {
+                    mailid = window.atob(unescape(getCOOKIE('scun_m')));
+                    if (!mailid) { mailid = ''; }
+                } catch (e) { mailid = ''; }
+                qoo_data['values'][qoo_data['keys'][key]] = mailid;
+                qoo_url += qoo_data['keys'][key] + '=' + mailid + '&';
+                break;
+            case 'uid':
+                let uid = '';
+                try {
+                    uid = window.atob(unescape(getCOOKIE('scumd_m')));
+                    if (!uid) { uid = ''; }
+                } catch (e) { uid = ''; }
+                qoo_data['values'][qoo_data['keys'][key]] = uid;
+                qoo_url += qoo_data['keys'][key] + '=' + uid + '&';
+                break;
+            case 'app_code' :
+                qoo_data['values'][qoo_data['keys'][key]] = 'web';
+                qoo_url += qoo_data['keys'][key] + '=web&';
+                break;
+            case 'ip':
+                // not sending temporarily
+                break;
+            case 'kv':
+                let router_class = "products";
+                switch (router_class.toLowerCase()) {
+                    case 'search' :
+                        qoo_url += qoo_data['keys'][key] + '=page_search|kew_' + "" + '&';
+                        break;
+                    case 'products' :
+                        if ("3224" > 0) {
+                            switch ("a") {
+                                case 'p':
+                                    qoo_data['values'][qoo_data['keys'][key]] = '=page_pdp|pid_' + "3224";
+                                    qoo_url += qoo_data['keys'][key] + qoo_data['values'][qoo_data['keys'][key]] + '&';
+                                    break;
+                                case 'c':
+                                    let clp_plp = "" ? '=page_clp|cat_' : '=page_plp|cat_';
+                                    qoo_data['values'][qoo_data['keys'][key]] = clp_plp + "3224";
+                                    qoo_url += qoo_data['keys'][key] + qoo_data['values'][qoo_data['keys'][key]] + '&';
+                                    break;
+                                default:
+                                    def = true;
+                                    break;
+                            }
+                        } else {
+                            def = true;
+                        }
+                        break;
+                    default :
+                        def = true;
+                        break;
+                }
+                break;
+            case 'visitor_id' :
+                let qoo_visitorId = '';
+                try {
+                    let om_ck = unescape(getCOOKIE('AMCV_20CC138653C6496B0A490D45%40AdobeOrg')).split('|');
+                    if (om_ck[4] && om_ck[4].length > 7) {
+                        qoo_visitorId = om_ck[4];
+                    } else {
+                        for (i = 0; i < om_ck.length; i++) {
+                            if (om_ck[i] === 'MCMID') {
+                                qoo_visitorId = ((i + 1) < om_ck.length) ? ((om_ck[i + 1].length > 7) ? om_ck[i + 1] : '') : '';
+                                break;
+                            }
+                        }
+                    }
+                } catch (e) { qoo_visitorId = ''; }
+                qoo_data['values'][qoo_data['keys'][key]] = qoo_visitorId;
+                qoo_url += qoo_data['keys'][key] + '=' + qoo_visitorId + '&';
+                break;
+            case 'cache_version' :
+                qoo_data['values'][qoo_data['keys'][key]] = (new Date().getTime());
+                qoo_url += qoo_data['keys'][key] + '=' + qoo_data['values'][qoo_data['keys'][key]] + '&';
+                break;
+            default:
+                def = true;
+                break;
+        }
+        qoo_url = (def) ? (qoo_url + qoo_data['keys'][key] + '=&') : qoo_url;
+    }
+    qoo_url = qoo_url.replace(/&+$/,'');
+    qoo_data['values']['f_url'] = qoo_url;
+    var qoo_img = document.createElement('img');
+    qoo_img.id = 'qoo_log_pixel';
+    qoo_img.src = qoo_url;
+    qoo_img.alt = 'qoo_log'
+    qoo_img.style.height = "1px";
+    qoo_img.style.width = "1px";
+    qoo_img.style.display = "none";
+    window.onload = document.body.appendChild(qoo_img);
+</script><img id="qoo_log_pixel" src="https://shopclues-log.qoo10.in/log/shopclues/?v=1&amp;prl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20191116012812id_%2Fhttps%253A%2F%2Fwww.shopclues.com%2Fprivacy-policy.html&amp;lg=&amp;cn=&amp;mac_address=&amp;app_code=web&amp;kv=&amp;cv=1580614976101&amp;mid=" alt="qoo_log" style="height: 1px; width: 1px; display: none;">
  
 
 
