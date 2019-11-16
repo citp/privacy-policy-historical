@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horriblesubs.info privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630012939id_/https%3A//horriblesubs.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horriblesubs.info privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116225556id_/https%3A//horriblesubs.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – HorribleSubs
 
