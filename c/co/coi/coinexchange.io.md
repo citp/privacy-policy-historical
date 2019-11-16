@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinexchange.io privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330085118id_/https%3A//www.coinexchange.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinexchange.io privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116233103id_/https%3A//www.coinexchange.io/privacy) for the most accurate reproduction.*
 
 # CoinExchange.io Privacy Policy
 
