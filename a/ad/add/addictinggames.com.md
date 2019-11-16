@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613035047id_/http%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addictinggames.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116173513id_/https%3A//www.addictinggames.com/legal/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy And Your California Privacy Rights | Addicting Games
 
@@ -201,139 +201,110 @@ E-mail: yourfriends@addictinggames.com
 
 #### About Addicting Games
 
-**ABOUT ADDICTING GAMES**  
-Addicting Games is the largest online games site in the US. Reaching over 10 million unique users every month (comScore). We are considered founders in the casual game territory, developing and distributing innovative, irreverent, addictive online games since the early 2000s. Addicting Games has a long history of working closely with game developers to provide one of the largest ranges of free online games including action games, sports games, puzzle games, IO games, mobile games and many more. Our goal is to maintain our values of integrity, inclusion, and most of all, continue to provide a great place where our patrons can come and have hours of gaming fun!  
- 
+Addicting Games is the largest online games site in the US. Reaching over 10 million unique users every month (comScore). We are considered founders in the casual game territory, developing and distributing innovative, irreverent, addictive online games since the early 2000s. Addicting Games has a long history of working closely with game developers to provide one of the largest ranges of free online games including action games, sports games, puzzle games, IO games, mobile games and many more. We release new games every Thursday and update features daily based on what's trending and what our users are telling us about. 
 
-**WHAT** **WE DO** **AT** **ADDICTINGGAMES** **?**  
-Listen to our diverse group of Patrons… Offering the best content on the web requires core, commitment, and dedication. We believe in the potential of every individual. At Addicting Games, we promote diversity in all realms of humanity, culture, lifestyle, age, background, experience, religion, socioeconomic status, gender identity, and marital status. Listening to all the feedback we receive daily, staying grounded and being open to new ways of thinking allows us to stay relevant and provide the absolute best and most creative content. Addicting Games players know what they like. We make it easy for them to tell us, with reviews, ratings, favorites, and our social media platforms. Feel free to visit us at [Facebook AG](https://www.facebook.com/AddictingGames/), [Twitter AG](https://twitter.com/AddictingGames), and [Instagram AG](https://www.instagram.com/theofficialaddictinggames/).
+**WHAT WE DO AT ADDICTING GAMES?**  
+Listen to our diverse group of Patrons… Offering the best casual games possible requires core, commitment, and dedication. We believe in the potential of every individual. At Addicting Games, we promote diversity in all realms of humanity, culture, lifestyle, age, background, experience, religion, socioeconomic status, gender identity, and marital status. Listening to all the feedback we receive daily, staying grounded and being open to new ways of thinking allows us to stay relevant and provide the absolute best and most creative content. Addicting Games players know what they like. We make it easy for them to tell us, with reviews, ratings, favorites, and our social media platforms. Feel free to visit us at [Facebook AG](https://www.facebook.com/AddictingGames/), [Twitter AG](https://twitter.com/AddictingGames), and [Instagram AG](https://www.instagram.com/theofficialaddictinggames/).
 
-**Deliver fresh games**  
-AddictingGames launches more than a dozen new games every week. We present games from hundreds of independent developers, spread around the globe. Patrons can play as much as they want, anytime, anywhere, on any internet-connected devices.
+**NEW GAMES**
 
   
-**Innovate**  
+Addicting Games launches more than a dozen new games every week. We present games from hundreds of independent developers, spread around the globe. Patrons can play as much as they want, anytime, anywhere, on any internet-connected devices.
+
+  
+**INNOVATE**
+
+  
 Addicting Games was built on innovation. The idea was simple: get great games on our site! Striving to bring imagination, original ideas, and excitement to everything we do. Addicting Games has produced titles like Fratboy Girlfriend TD, Pencil Racer, and 50 States. We seek out new game concepts and foster experimental game ideas. Displaying the courage and curiosity it requires to be a leader in the casual gaming space.
 
   
-**Lead the way**  
-AddictingGames was a pioneer in the online game space. We have come a long way and have refined our trade over the years. We are proud to represent games and developers that break the mold and redefine online games. Committed to each other, and to the integrity and accountability required to be a successful team. Through sponsorships, game licensing, and development deals, we offer an infinite amount of ways to collaborate with us. 
+**LEAD THE WAY**
+
+  
+Addicting Games was a pioneer in the online game space. We have come a long way and have refined our trade over the years. We are proud to represent games and developers that break the mold and redefine online games. Committed to each other, and to the integrity and accountability required to be a successful team. Through sponsorships, game licensing, and development deals, we offer an infinite amount of ways to collaborate with us. 
+
+**FUN FACTS**
+
+  * Addicting Games is an industry leader in publishing casual games online and has been since 2002
+  * We are one of the first gaming portals on the internet
+  * Our games have raked in hundreds of millions of plays over the last 17+ years
+  * For over seven years we proudly displayed our logo in Comic Sans
+  * A library of over four thousand classic games as well as new games added every week
+  * "Addictive Games" would technically be grammatically correct but less fun
+
+
 
 #### Advertising Opportunities
 
-Impulsive, popular, and user-driven, AddictingGames brings games to teens and young adults as fresh and relevant to them as pop culture. It's a wild place to gorge on simple, funny games and find great fodder to share with friends.
+The often imitated, never duplicated Addicting Games brings new games to the masses every week and has been doing this from.. well the start of the internet almost! It's a wild place to gorge on simple, funny games and find great fodder to share with friends. We have tons of fun and creative ways to reach gamers without annoying them and ensuring your brand/creatives are well placed and well received by our players.
 
 For inquiries, contact us at [advertising@addictinggames.com](mailto:advertising@addictinggames.com), or  
 fill out our [Contact Form](https://web.archive.org/support/contact-us.jsp).
 
 #### Developer Center
 
-**Jump to:** Submit an Online Game
+**Jump to:** Submit an Online Game  
+ 
 
-###### About Developer Community
+Welcome to the Addicting Games Developer Community. As a member of the community, we ask that you cut your grass, refrain from burning things on Sundays and occasionally send us a game to feature. Addicting Games is the largest casual games site on any of the MANY Internets. At Addicting Games we work with a broad range of developers from across the world. How many developers, you ask? How does 1 million sound? Too high? Yeah, you're probably right. Realistically, it's in the thousands. But that's still a lot!
 
-Welcome to the AddictingGames.com Developer Community. As a member of the community, we ask that you cut your grass, refrain from burning things on Sundays and occasionally send us a game to feature on our website. AddictingGames.com is the largest casual games site on any of the Internets, and, as an awesome game publisher, we were honored with several 2013 FGL Ninja Awards for our hit games.
-
-At Addicting Games, we work with a broad range of developers from across the world. How many developers, you ask? How does 1 million sound? Too high? Yeah, you're probably right. Realistically, it's in the thousands. But that's still a lot!
-
-At AddictingGames.com, we enjoy building relationships with independent and professional game developers for original IP on AddictingGames.com. Our audience is primarily composed of teen gamers, ages 14 and up, who like edgy, irreverent content. So if you've made it this far into the fine print, why stop now?
+At Addicting Games, we enjoy building relationships with independent and professional game developers and have many ways to showcase, distribute and promote your game titles.
 
 ###### Developer Sponsorship
 
-Are you tired of not getting hundreds of thousands of gameplays? Sick of creating a bunch of cool games and not having anyone to sponsor them? Then you need the Shake Wei AddictingGames.com!
+We want to get the best oringal games in front of as many players as possible, on as many platforms as possible.
 
-If you want to get a game sponsored by AddictingGames.com, ask yourself if it meets the following criteria:
+If you want to get a game sponsored by Addicting Games, ask yourself if it meets the following criteria:
 
   * **Is it original?**
-    * Does your game feature some new game mechanic or twist on gameplay? If not, are you at least doing it better than similar games? Just don't send us something that's been done a thousand times before 900 times before is cool, though.
-  * **Is it a good fit for AddictingGames.com?**
-    * There's a lot of great games that simply aren't right for our audience. Check out some of our games to get a feel for our brand. We could use the page views.
-  * **Is it mobile-ready?**
-    * Can you easily convert the game for mobile platforms? If not, it's not a deal-breaker. But if you can, well that's like asking whether we want a tasty doughnut or a tasty doughnut with a jetpack attached to it.
-  * **Is it addicting?**
-    * Does it have that je ne sais quoi? If not, does it speak French and could it tell us what je ne sais quoi means? On the level (pun!), some of the most addicting, replayable games are the simplest. We can't pick up every game we like or every game that's kind of fun. Does your game stand out above the rest?
+
+Does your game feature some new game mechanic or twist on gameplay? If not, are you at least doing it better than similar games? We look for creativity and most of all fun! Fun doesn't need to be polished and perfect, fun can be a half-done work in progress that has everyone playing for hours. 
+
+  * **Is it a good fit for AddictingGames.com?**  
+
+There are a lot of great games that simply aren't right for our audience. Check out some of our games to get a feel for our brand. We want games that can be enjoyed by everyone, many of our players are playing from work and schools so we try not to get people fired / suspended for having little downtime playing games. 
+
+  * **Is it mobile-ready?**  
+
+Can you easily convert the game for mobile platforms? If not, it's not a deal-breaker. But if you can, well that's like asking whether we want a tasty doughnut or a tasty doughnut with a jetpack attached to it.
+
+  * **Is it addictive errrr ADDICTING?**
+
+Does it have that je ne sais quoi? If not, does it speak French and could it tell us what je ne sais quoi means? On the level (pun!), some of the most addicting, replayable games are the simplest. We can't pick up every game we like or every game that's kind of fun. Does your game stand out above the rest?
 
 
 
-If you answered yes to all of the above, well then what are you doing still reading this!? FOLLOW THE DIRECTIONS BELOW AND SUBMIT YOUR GAME ALREADY AT [submit@addictinggames.com](mailto:submit@addictinggames.com) !!!
 
-Please read the following instructions carefully, review the checklist at the bottom of this page, and if you have any questions, please feel free to contact us.
+Please read the following instructions carefully and if you have any questions please feel free to contact us.
 
 **Important requirements for HTML5 games.**
 
-  1. 1\. The game must be responsive to resizing and can display in landscape or portrait modes. We want your game to appear properly on all modern web browsers and mobile devices.
-  2. 2\. Please make sure your game does not link out to any sites other than your own. If your game does link out, please declare it to us so we can evaluate as we may ask that you remove them. Advertisements also fall under this request.
-  3. 3\. Make sure your games can be played on mobile devices, your control scheme should take mobile players into account.
+  1. The game must be responsive to resizing and can display in landscape or portrait modes. We want your game to appear properly on all modern web browsers and mobile devices.
+  2. Please make sure your game does not link out to any sites other than your own. If your game does link out, please declare it to us so we can evaluate as we may ask that you remove them. Advertisements also fall under this request.
+  3. Make sure your games can be played on mobile devices, your control scheme should take mobile players into account.
+  4. Please remove all 3rd party tracking from your games. We don't like tracking and spyware and other junk, our players don't like it either.
 
 
 
-**IMPORTANT! IF YOU ARE SUBMITTING AN MMO TITLE, YOU ONLY NEED TO COMPLETE STEP 1.**
+**Preloader Visuals**
 
-**STEP 1:  CREATE A MARKETING ICON (.PNG or .JPEG) AND GAMEPLAY VIDEO THUMBNAIL**
+If your game happens to be a single-player title, please be sure to incorporate the Addicting Games Preloader to display when your game launches. You can find the files you need to implement below.
 
-These icons are used to promote your game around our site and are the player’s first introduction to your game. Icons should be colorful and show something interesting or unique about your game. If possible, include the title of your game (see below). Titles should NOT be placed in the Top Left Corner or the Bottom Right Corner to avoid overlap with our banners.
+[HTML5 Preloader](https://cdn2.addictinggames.com/addictinggames-content/ag-assets/preloaders/HTML5_preloader.zip)
 
-Icons will only be accepted in .PNG and .JPEG format. Please provide images in the following sizes:
-
-  * 180 x 125 (title logo if appropriate)
-  * 393 x 255 (only if submitting an MMO title)
-
-
-
-Examples of our banner placement for ‘multiplayer,’ ‘new,’ and ‘throwback’ assets.
-
-The gameplay video thumbnail should be no bigger than, 10-15 seconds in length, 400kb in size, at 180 x 125 resolution, and in .mp4 format with no audio and 24 frames per second. Give us a quick shot of your game in action! See live examples by hovering over game images on Addicting Games.
-
-**STEP 2 : ADD AN ADDICTING GAMES LOGO,  ADDICTING GAMES & IO GAMES TEXT LINK TO YOUR GAME (AND STINGER IF SUBMITTING A SINGLE PLAYER GAME)**
-
-**NOTE: If you are submitting a single player Flash/HTML5 game, please scroll down to the stinger portion of these directions.**
-
-In some place on the home page, either within the ‘controls’ or ‘about’ section of your game, please add the Addicting Games logo, that links back to [http://www.addictinggames.com](http://www.addictinggames.com/) when clicked, and 2 sentences featuring links to [http://www.addictinggames.com](http://www.addictinggames.com/), and [http://iogames.space](http://iogames.space/). The link should be a DO-Follow link and it should be in plain text, not javascript. The context of this link should be something similar to the following (Please feel free to copy and combine at least 2 of these lines):
-
-**SAMPLE/EXAMPLE**
-
-  * **[Game Title] is available on Addicting Games, home of the largest collection of free online**[ **games**](http://www.addictinggames.com/) **, including car, puzzle, shooting games, and more! We are also listed at**[ **IO Games**](https://iogames.space/) **which has all the latest multi-player games like slither io and surviv io**
-  * ****Looking for more free games like [Game Title]? Check out Addicting Games, where you can play tons of free online**[ **games**](http://www.addictinggames.com/) **!****
-  * **Want to play more free games? [Game Title] and others like it can be found on Addicting Games, the best place to find free**[ **games**](http://www.addictinggames.com/) **to play instantly!**
-  * **Want more IO[ **games**](http://iogames.space/)** **? Check out ioGames.space for a massive library of games like [Game Title] that you can play with others in real time!**
-  * **Play other[ **games**](http://iogames.space/) **against live players on ioGames.space! You’ll find plenty of other games like [Game TItle]!****
-  * **You can play more free[ **games**](http://iogames.space/) **online by visiting ioGames.space! [Game Title] is just the beginning!****
-
-
-
-Please include this text in the ‘about’ or ‘controls’ section of your game description. Please make sure this text is visible in your page’s source code.
-
-**Stinger / Preloader Visuals**
-
-If your game happens to be a single player title, please be sure to incorporate the Addicting Games stinger to display when your game launches. You can find the files you need to implement for Flash or HTML5 games below.
-
-[Flash Stingers](http://cdn2.addictinggames.com/addictinggames-content/ag-assets/stingers/Flash%20stingers.zip)
-
-[HTML5 Stingers](http://cdn2.addictinggames.com/addictinggames-content/ag-assets/stingers/HTML%205%20stinger.zip)
-
-**STEP 3: SEND US YOUR GAME!!!**
+**SEND US YOUR GAME!!!**
 
 Once you have completed the steps above it is time to prep your game and send it to us via email. Place all of the necessary image files into a .ZIP file then send us an email and include:
 
-  1. 1\. Title of your game.
-  2. 2\. Game Dimensions (800x600, for example)
-  3. 3\. Marketing Assets (refer to Step 1)
-  4. 4\. A url that we can iFrame on Addicting Games. If your title is an HTML5 game, please skip this and go to step 5.
-  5. 5\. A link to the archive containing all necessary game files (.html, .swf, or .js) or link to the page containing your game’s files.
+  1. Title of your game
+  2. Game Dimensions (800x600, for example)
+  3. Any Marketing Assets
+  4. A url that we can iFrame on Addicting Games. If your title is an HTML5 game, please skip this and go to step 5.
+  5. A link to the archive containing all necessary game files (.html, .swf, or .js) 
 
 
 
-Note: The final point is only if you are contractually required to send us the source code for your game. This is not a common situation.
-
-**Final Checklist for submitting your game:**
-
-  * 1\. Marketing assets (image and video thumbnail) delivered.
-  * 2\. Clickable Addicting Games logo that links to [www.addictinggames.com](http://www.addictinggames.com/) as described in step 2.
-  * 3\. Text Link out to [www.addictinggames.com](http://www.addictinggames.com/) as described in step 2.
-  * 4\. Text Link out to www.iogames.space as described in step 2.
-  * 5\. Deliver the required game files if submitting an HTML5 title, or deliver URL to iFrame with ideal dimensions.
-
-
+If you answered yes to all of the above, well then what are you doing still reading this!? Email us at submit@addictinggames.com !!!
 
 #### Privacy Policy And Your California Privacy Rights
 
