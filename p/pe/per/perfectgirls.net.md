@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectgirls.net privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515210313id_/http%3A//www.perfectgirls.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectgirls.net privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116155034id_/http%3A//www.perfectgirls.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy ::: PERFECT GIRLS
 
