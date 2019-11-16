@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgestonetire.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221005855id_/https%3A//www.bridgestonetire.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgestonetire.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116041142id_/https%3A//www.bridgestonetire.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bridgestone Tires
 
