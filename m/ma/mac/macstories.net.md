@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the macstories.net privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406151301id_/https%3A//www.macstories.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macstories.net privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116214605id_/https%3A//www.macstories.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – MacStories
+# Privacy Policy - MacStories
 
 At MacStories, your privacy is important to us. We take your privacy seriously and only ask you to provide the personal information necessary to provide the services we offer. Also, we store personal information for only as long as we have a reason to keep it and aim to make it as simple as possible for you to control your personal information.
 
 ## **Who We Are and What This Policy Covers**
 
-MacStories consists of three websites: [MacStories](https://www.macstories.net/), [Club MacStories](https://club.macstories.net/), and [AppStories](https://appstories.net/). This Privacy Policy applies to information we collect you when you use any of these websites and their related content, products and services, which we refer to herein as the ‘Services.’
+MacStories consists of four websites: [MacStories](https://www.macstories.net/), [MacStories Pixel](https://macstories.net/pixel/), [Club MacStories](https://club.macstories.net/), [AppStories](https://appstories.net/), and [Dialog](https://dialogpodcast.net/). This Privacy Policy applies to information we collect about you when you use any of these websites and their related content, products and services, which we refer to herein as the ‘Services.’
 
 ### **Information We Collect**
 
@@ -53,6 +53,7 @@ We share information about you in the limited circumstances spelled out below an
   * Third-Party Vendors: We may share information about you with third-party vendors who need to know information about you in order to provide their services to us. This group includes vendors that help us provide our Services to you and those that help us understand and enhance our Services including: 
     * [Stripe](https://stripe.com/), which processes your credit and debit card information. [Stripe Privacy Policy](https://stripe.com/us/privacy).
     * [Memberful](https://memberful.com/), which administers Club MacStories. [Memberful Privacy Policy](https://memberful.com/privacy-policy/).
+    * [E-jukie](https://www.e-junkie.com/), which provides shopping cart and transactional services for MacStories Pixel. [E-junkie Privacy Policy](https://www.e-junkie.com/wiki/privacy).
     * [MailChimp](https://mailchimp.com/), which provides email newsletter distributions services for Club MacStories. [MailChimp Privacy Policy](https://mailchimp.com/legal/privacy/).
     * [Google Analytics](https://www.google.com/analytics/) and [Matomo](https://matomo.org/), which provide website analytics [Google Analytics Privacy Policy](https://policies.google.com/privacy); [Matomo Privacy Policy](https://matomo.org/privacy-policy/).
   * As Required by Law: We may disclose information about you in response to a subpoena, court order, or other governmental request.
@@ -85,4 +86,4 @@ Although most changes are likely to be minor, MacStories may change its Privacy 
 
 #### **Credit**
 
-This policy is adapted from the [Automattic Privacy Policy](https://automattic.com/privacy/) which is made available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Sharealike").
+This policy is adapted from the [Automattic Privacy Policy](https://automattic.com/privacy/) which is made available under a [Creative Commons Sharealike license](https://creativecommons.org/licenses/by-sa/4.0/).
