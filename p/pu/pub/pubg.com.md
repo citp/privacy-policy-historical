@@ -1,79 +1,92 @@
-> *The following text is extracted and transformed from the pubg.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522153751id_/https%3A//www.pubg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubg.com privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116180848id_/https%3A//www.pubg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PLAYERUNKNOWN'S BATTLEGROUNDS
 
-### Effective Date: 12th of April 2019
+**Privacy Policy**
 
-PLAYERUNKNOWN’S BATTLEGROUNDS (“Game”) is a game developed by PUBG CORPORATION (“Company”). PUBG CORPORATION is an affiliated company of KRAFTON, INC. and the Company provides game services, official website ([https://www.pubg.com](https://www.pubg.com/)), and other game related services (Collectively, “Service”). The Company complies with all applicable laws related to personal information and the Company strives to protect the rights of individual users by adopting Privacy Policy in accordance with relevant laws and regulations. The Company is the data controller of your personal information. If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact our Privacy Officer by email at: [pubg_privacy@pubg.com](mailto:pubg_privacy@pubg.com) or by writing us at 6F, 7F, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea.
+Effective Date: 10th of Oct 2019
 
-#### **1\. Personal Information Collected From Users**
+1\. Introduction  
+2\. Who We Are  
+3\. Information We Collect  
+4\. Cookie and Related Technologies  
+5\. How We Use Your Information  
+6\. Sharing Your Information  
+7\. International Data Transfers  
+8\. Retaining and Deleting Personal Information  
+9\. Our Policy Concerning Children  
+10\. Links and Third Party Services  
+11\. Security of Your Information  
+12\. Other Agreements That Govern Your Use of The Site  
+13\. Your Privacy Rights  
+14\. Amendments  
+15\. Contact Us
 
-As used in this Privacy Policy, “Personal Information” is information that would allow someone to identify or contact you, including, for example, your full name, address, telephone number, or email address. Personal Information does not include aggregated information that, by itself, does not permit the identification of individual persons (like statistics about how many persons visited the Site last month, or how many visitors are male and how many are female).
+  
+**1\. Introduction**
 
-The Company generally collects or receives personal information in three ways.
+PUBG CORPORATION and/or its affiliates (“PUBG”, “we”, or “us”) keep and process information about you (“you” or “user”). We comply with all applicable laws related to personal information and strive to protect the rights of individual users by adopting Privacy Policy in accordance with relevant laws and regulations. This Privacy Policy describes how we collect and use personal information about you during and after your relationship with us.
 
-1) Collecting personal information directly from users
+  
+**2\. Who We Are**
 
-You may provide us with the following information when playing the Game or visiting the company’s website.
+We provide games (“Game(s)”) and related services, including, without limitation, official site (“Site(s)”), customer service and forum service (Collectively, “Service(s)”).
 
-  * ID(Email address), password to create and use PUBG global account.
-  * Email address, name and in-game character name (nickname) to use customer service and/or Forum features.
-  * Email address, name, date of birth, country of residence, and in-game character name (nickname), Steam Account Name, Gender to apply for participation in the event, survey, tournament and other events held by the Company.
-  * Character nickname can be collected by the company when creating a character in
+  
+**3\. Information We Collect**
 
+We collect information about you and the Services you use. Information may also be required to enter into a contract with you or to perform a contract with you (such as to provide Service at your request), and failure to provide any information may result in our inability to provide requested services or products. The information we collect falls into three different categories: 1) Collecting information directly from you; 2) Collecting information automatically; and 3) Information collected from third parties.
 
+1) Collecting information directly from you
 
-2) Collecting personal information automatically from users
+You may provide us with the following information when playing our Games and/or Services. Because we offer a variety of Games and Services, the information you provide us may differ in some cases. For example, these include:
 
-When users visit the website and/or use the Service, the Company may automatically collect IP address from users (The Company will not use IP address as a personal identifier but will generally use to resolve technical problems and to improve quality of the server). Also, the Company may automatically collect MAC address from users only to identify official internet café certified by the Company when using the Service.
+– Email address, password, date of birth to create and use PUBG global account
 
-3) Collecting personal information from the third party.
+– Email address, password, date of birth, display name to use Forum service
 
-The company offers the Game service through STEAM ™ Platform, provided by Valve Corporation. The Company collects the following personal information from Valve Corporation to identify individual users as an encrypted form.
+– Email address, Steam account name, nickname, region, gamertag to use customer service
 
-  * steamID64
+– Email address, name, date of birth, country of residence, nickname, Steam account name, gender to apply for participation in the event, survey, tournament and other events held by us
 
+– Nickname to create a character in-game
 
+2) Collecting information automatically
 
-The company offers PUBG global account service. Upon user’s request, the company will receive following information from outside platforms in order to link user’s PUBG global account with outside platforms’ account.
+We automatically collect certain information when you playing our Games and/or Services. The type of information that we automatically collect may vary, but generally includes:
 
-  * Twitch : Display name, Email address, User name, Twitch ID
-  * Steam : Steam ID, Display Name, Profile Image
-  * Microsoft: Display Name, Xuid
-  * Sony: Account ID, Age, Date of birth, Online ID, Region, Sub Account
-  * Facebook: Name, Profile Image, Email Address, Friends list
+– IP address
 
+– MAC address
 
+– The type of Internet browser or computer operating system
 
-Personal information may also be required to enter into a contract with you or to perform a contract with you (such as to provide Service at your request), and failure to provide any information may result in our inability to provide requested services or products.
+– Domain name of your Internet service provider
 
-#### **2\. Non Personal Information Collected From Users**
+– Your browsing behavior while using our Services
 
-The Company may collect following non-personal information when playing the Game.
+– User statistics(e.g. Number of games played, Kill/Death, headshot ratio, game playtime, etc.)
 
-(Non-personal information means information that cannot be used to identify a specific user.)
+– Information about your computer, device, hardware and operating system
 
-• User statistics collected from the game service. (e.g. Number of games played, Kill/Death, headshot ratio, game playtime, etc.) Users can check these information through built-in feature in the game.
+3) Information collected from third parties
 
-• Information about your computer, device, hardware and operating system.
+When you use our Games and/or Services using a third party platform, such as Steam, Twitch, Xbox Live, PSN or Facebook, we collect certain information from your third party platform’s profile/account as permitted by the terms of the third party platform and your privacy settings thereon. For example, these include:
 
-PUBG will automatically collect certain non-Personal Information about your use of the Site. We might collect, among other things, information concerning the type of Internet browser or computer operating system you are using, the domain name of your Internet service provider, your browsing behavior through the Site, and the web site or advertisement that was linked to or from the Site when you visited. To do this, we may use cookies and other technology (see below). Your visits to the Site, and information provided through these technologies, will be anonymous unless you provide us with Personal Information or have provided such information in the past. This information is used to help improve the Site, analyze trends, and administer the Site.
+– Steam: SteamID64, Steam ID, Display Name, Profile Image
 
-#### **3\. Information Collected From Third Parties**
+– Twitch: Twitch ID, Display name, Email address, User name
 
-Steam Connect; You can connect your Steam Account with Global Account through login service that the official website provides, and we collect Steam ID when Global Account and Steam Account becomes connected. This information is collected by Valve Corporation and is provided to us under the terms of Valve Corporation’s privacy policy
+– Xbox Live: Xbox ID, Display Name
 
-Twitch Connect; You can connect your Twitch Account with Global Account through login service that the official website provides, and we collect Twitch ID when Global Account and Twitch Account becomes connected. This information is collected by Twitch Interactive, Inc. and is provided to us under the terms of Twitch Interactive, Inc.’s privacy policy
+– PSN: PSN Account ID, Date of birth, Online ID, Region, Sub Account
 
-Xbox Connect; You can connect your Xbox Account(Xuid) with Global Account through login service that the official website provides, and we collect Xbox ID when Global Account and Xbox Account becomes connected. This information is collected by Microsoft Corporation and is provided to us under the terms of Microsoft Corporation’s privacy policy.
+– Facebook: Name, Profile Image, Email Address, Friends list
 
-PSN Connect; You can connect your PSN Account with Global Account through login service that the official website provides, and we collect PSN Account ID when Global Account and PSN Account becomes connected. This information is collected by Sony Interactive Entertainment Inc. and is provided to us under the terms of Sony Interactive Entertainment Inc.’s privacy policy.
+  
+**4\. Cookie and Related Technologies**
 
-#### **4\. Cookie And Related Technologies.**
-
-PUBG uses cookies and other technologies to collect demographic information, personalize your experience on the Site and monitor advertisements and other activities. Cookies are small files downloaded to your computer (if your browser is enabled to accept cookies) to track movements within web sites. We may link cookie information to Personal Information. We use cookies and other technology to customize your experience within the Site. Personal Information collected through the use of these technologies will be handled according to this Privacy Policy.
-
-Facebook Connect; You can connect your Facebook account with Global Account through login service that the official website provides, and we collect Facebook account related data when Global Account and Facebook Account becomes connected. This information is collected by Facebook, Inc. and is provided to us under the terms of Facebook, Inc.’s privacy policy.
+We use cookies and other technologies to collect demographic information, personalize your experience on the Site and monitor advertisements and other activities. Cookies are small files downloaded to your computer (if your browser is enabled to accept cookies) to track movements within web sites and to customize your experience within the Site.
 
 Most Internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or “Help” screen to learn more about how to manage cookies. Please note, however, that if you block cookies, some portions of the Site may not function properly.
 
@@ -87,182 +100,111 @@ More specifically, PUBG may use the following advertising functions of Google® 
 
 Sizmek;
 
-Sizmek collects anonymous information from users visiting the website ([https://www.pubg.com](https://www.pubg.com/)). The technologies utilized allow Sizmek to collect this information entirely anonymously and allow us to deliver interest-based advertising. More information about Sizmek’s own privacy policy and how to opt out can be found at <https://www.sizmek.com/cookie-policy/>
+Sizmek collects anonymous information from users visiting the website ([https://www.pubg.com](https://www.pubg.com/)). The technologies utilized allow Sizmek to collect this information entirely anonymously and allow us to deliver interest-based advertising. More information about Sizmek’s own privacy policy and how to opt out can be found at[ https://www.sizmek.com/privacy-policy/](https://www.sizmek.com/privacy-policy/)
 
-#### **5\. How Information Collected Becomes in Use**
+  
+**5\. How We Use Your Information**
 
-The company collects personal information to provide the Service to users and to improve quality of the Service. The Company may share personal information with third parties if sharing personal information is necessary in terms of providing the Service.
+We use the collected information for a variety of purposes, primarily, to provide the Service to users and to improve quality of the Service. These include:
+
+– Solve technical problem and improve quality of the Service
+
+– Identification of individual users to provide the Game service
+
+– Technical protection against usage of unauthorized programs
+
+– Preventing inappropriate gameplay that could harm other users
+
+– Provide customer support by collecting and answering inquiries
+
+– Provide forum service on the website
+
+– Provide information on events & surveys and provide opportunities to participate, to provide advertisement and for other marketing and promotion purposes
+
+– Tracking usage patterns and analyzing trends of users, calculate statistics on service use
+
+– Searching user statistics and provision of leaderboard
 
 In the majority of cases, processing of your personal information will be justified on the basis that:
 
-  * the processing is necessary to perform a contract with you or take steps to enter into a contract at your request: Most of the time, the reason we process your information is to perform the contract that you have with us. For instance, as you go about using our Service, we use your information to maintain your account and your profile and to provide Service and customer support to you.
-  * the processing is in our legitimate interests, which are not overridden by your interests and fundamental rights: We may use your information where we have legitimate interests to do so. One of our legitimate interests are to use website user and visitor data to conduct and develop our Service and business activities with them. We may also analyze users’ behavior on our services to continuously improve our Service, we suggest offers we think might interest you, and we process information for administrative, fraud detection and other legal purposes.
-  * the processing is necessary for us to comply with a relevant legal obligation: For example, we may process your personal information to comply with applicable accounting rules which require keeping accounting records and to make mandatory disclosures to law enforcement.
-  * you have consented to the processing: From time to time, we may ask for your consent to use your information for certain specific reasons. You may withdraw your consent at any time without affecting the lawfulness of processing based on consent before its withdrawal by contacting us at the address provided at the preamble of this Privacy Policy.
+– the processing is necessary to perform a contract with you or take steps to enter into a contract at your request: Most of the time, the reason we process your information is to perform the contract that you have with us. For instance, as you go about using our Service, we use your information to maintain your account and your profile and to provide Service and customer support to you.
 
+– the processing is in our legitimate interests, which are not overridden by your interests and fundamental rights: We may use your information where we have legitimate interests to do so. One of our legitimate interests are to use website user and visitor data to conduct and develop our Service and business activities with them. We may also analyze users’ behavior on our services to continuously improve our Service, we suggest offers we think might interest you, and we process information for administrative, fraud detection and other legal purposes.
 
+– the processing is necessary for us to comply with a relevant legal obligation: For example, we may process your personal information to comply with applicable accounting rules which require keeping accounting records and to make mandatory disclosures to law enforcement.
 
-1) Use of personal information collected in the Game
+– you have consented to the processing: From time to time, we may ask for your consent to use your information for certain specific reasons. You may withdraw your consent at any time without affecting the lawfulness of processing based on consent before its withdrawal by contacting us at the address provided in this Privacy Policy.
 
-The Company may collect personal information in order to provide the service and to improve quality of the service. These include:
+  
+**6\. Sharing Your Information**
 
-  * Provide customer support by collecting and answering inquiries.
-  * Provide forum service on the website
-  * Solve technical problem and improve quality of the service.
-  * Identification of individual users to provide the game service
-  * Technical protection against usage of unauthorized programs.
-  * Provide information on events & surveys and provide opportunities to participate, to provide advertisement and for other marketing and promotion purposes.
-  * Analyze service use records and access frequencies, calculate statistics on service use.
+We give permission to third parties, including service providers which process personal information on behalf of us to provide customer support and to manage community. Examples of these third parties include:
 
+– our business partners (for example, in order for them to provide you with discounts or offers that may interest you)
 
+– customer service providers to provide customer support service
 
-2) Use of non-personal information collected in the Game.
+– third party program restriction providers to block cheating tools and unauthorized programs
 
-The Company may use and collect non-personal information to provide and improve the service and may share non-personal information third parties if necessary. The Company reserves the right to process non-personal information collected from users. These include:
+– cloud computing service providers to provide cloud storage services
 
-  * Tracking usage patterns and analyzing trends of users
-  * Technical protection against unauthorized program usage
-  * Preventing inappropriate gameplay that could harm other users
-  * Technical problem resolution and improved server quality.
-  * Searching user statistics and provision of leaderboard.
-  * Sharing game data with third parties may include statistical information about user’s gameplay, which are provided by the Company through APIs (e.g. duration and number of games played, kill/death, headshot ratio, etc)
+– payment service providers to assist with payment for transactions or providing withdrawing service for sellers
 
+– marketing platforms and providers of analytics services relating to users’ behavior, in order to tailor the Service
 
+– online survey service providers in order to improve the game service
 
-3) Use of non-personal information from the Site
+  
+**7\. International Data Transfers**
 
-When you use the Site, we may retrieve information about your hardware system and how our services are used, including your IP address. We use this information to enable you to use the services offered through the Site over the Internet. We also use this information to better understand the behavior and preferences of our customers, so that we can improve our products and services.
+We operate globally and transfer your data to countries and other regions where you are located. If your personal information is transferred, stored or processed by us, we will take reasonable steps to safeguard the privacy of personal information.
 
-The Personal Information collected from you will be used to operate the Site and to provide the products or services or carry out the transactions you have requested or authorized.
+Additionally, when information transferred from the European Union, we will also take steps to ensure that your information a receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements using the European Commission approved Standard Contractual Clauses, obtain your explicit consent, or by relying on certification schemes such as the EU – US Privacy Shield. You have a right to obtain details of the mechanism under which your information is transferred outside of the EU by contacting [pubg_privacy@pubg.com](mailto:pubg_privacy@pubg.com).
 
-In support of these uses, PUBG may use Personal Information to provide you with more effective service, to improve the Site and any related PUBG products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information. In order to offer you a more consistent experience in your interactions with PUBG, information collected by the Site may be combined with information collected by PUBG from other sources.
+  
+**8\. Retaining and Deleting Personal Information**
 
-We may merge Site-visitation data with demographic information, and we may use this information to provide more relevant content. We may combine Site-visitation data with your Personal Information in order to provide you with personalized content.
+In principle, We will remove your personal information without any delay after the purpose of collecting personal information is achieved. Personal information stored as hard copy will be shredded or incinerated, and personal information stored as soft copy will be removed using a technical measures in a way that cannot be reproduced. However we may retain your personal information even after you have closed your account with us or we have ceased providing Services to you, if retention of your personal information is reasonably necessary to comply with our legal obligations, meet regulatory requirements, resolve disputes, prevent fraud, cheating or abuse, or enforce this Privacy Policy or any other agreement we may have with a user.
 
-PUBG may hire other companies to provide products or services on our behalf, and we may provide such companies with Personal Information to help them perform their duties.
+  
+**9\. Our Policy Concerning Children**
 
-Under the requirements of most applicable data protection laws, PUBG may disclose Personal Information to (a) conform to the edicts of the law or comply with legal process served on PUBG; (b) protect and defend the rights or property of PUBG or its affiliates; or (c) act in urgent circumstances to protect the personal safety of PUBG employees or agents, users of PUBG products or services, or members of the public.
+We do not knowingly collect, use or share any personal information about children (generally considered to be under the age of 13 in the U.S., under the age of 16 in Europe or depending on the country where you reside) without verifiable parental consent or as permitted by law. Some of the features on our Games and Sevices are age-gated so that they are not available for use by children. If you are a parent or guardian and you believe your child has provided us with personal information, you can contact us and request your child’s information to be deleted from our system.
 
-You will be deemed to have consented to the disclosure to, and use by, a subsequent owner or operator of the Site, of any Personal Information contained in our database for such site, if PUBG or one of its companies assigns all of its rights and obligations regarding the use of your Personal Information at the time of a bankruptcy, merger, acquisition, sale of all or substantially all of PUBG’s assets to a subsequent owner or operator, or similar event under the most applicable data protection laws.
+  
+**10\. Links and Third Party Services**
 
-Please do not use your real name or the real name of another person when selecting a username. Please note that your username will be available to the Internet’s general public while you participate in some services, like message boards or forums, so you should exercise discretion when using these services. We are not responsible for protecting such information that you may disclose to third parties through our services.
+If you click on a link to a third party website, including, without limitation, an advertisement, you will leave the Site and go to the site you selected. Because we cannot control the activities of third parties, we do not have responsibility for any use of your personal information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as we do. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to the Site, you should consult that site’s privacy policy before providing any personal Information.
 
-4) Sharing personal information to Third Parties
+  
+**11\. Security of Your Information**
 
-Whilst specific requirements of data protection law vary depending on applicable national laws, the Company may give permission to third parties, including service providers which process personal information on behalf of the Company to provide customer support and to manage community. Examples of these third parties include:
+We follow generally accepted industry standards to protect information submitted to us, both during transmission and after we receive the information. When you enter sensitive information (such as a credit card number) on the Site, we encrypt that information using secure socket layer (SSL) technology. However, no method of transmission over the Internet, or method of electronic storage, is completely secure. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security.
 
-  * other users (for example, when you voluntarily disclose information on the service);
-  * our business partners (for example, in order for them to provide you with discounts or offers that may interest you);
-  * customer service providers to provide customer support service;
-  * External platform service providers to connect global accounts with external platforms;
-  * Third party program restriction providers to block cheating tools and unauthorized programs;
-  * cloud computing service providers to provide cloud storage services;
-  * payment service providers to assist with payment for transactions or providing withdrawing service for sellers; and
-  * marketing platforms and providers of analytics services relating to users’ behavior, in order to tailor the Service.
-  * online survey service providers in order to improve the game service.
+  
+**12\. Other Agreements That Govern Your Use of The Site**
 
+In addition to this Privacy Policy, your rights and obligations concerning the use of the Site are governed by our Terms of Service, any end user license agreement, any other supplemental agreements, and other applicable policies, guidelines, and requirements. When you sign up to use the Site, please review each of the aforementioned agreements carefully, as you must agree to be bound by each of the agreements before you may use the Service.
 
+  
+**13\. Your Privacy Rights**
 
-If the company chooses to allow third party to process personal information, third party vendor will process personal information only to the extent that is necessary to perform the services requested by the company.
+Subject to limitations in applicable law, you are entitled to object to or request the restriction of processing of your personal information, and to request access to, rectification, erasure, and portability of your own personal information. To make a request concerning your rights or if you have any other question, please contact us by sending an email to the address specified in the “Contact Us” section. We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. In certain countries, including in the EU, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal information. The data protection authority you can lodge a complaint with notably may be that of your habitual residence, where you work or where we are established.
 
-The following companies may process some or all personal information collected by the Company.
+If you are a California resident, you may have these additional rights:
 
-  * Company: Metanet MCC Co., Ltd.
-  * Purpose: Provision of customer support
-  * Retention period: After processing user’s inquiry or outsourcing contract is expired or terminated.
+– California residents have the right to receive 1) information identifying any third party company to whom we may have disclosed (within the previous calendar year) his/her personal information for that company’s direct marketing purposes; and 2) a description of the categories of personal information disclosed. If you are a California resident and wish to obtain such information, please send a request email to [pubg_privacy@pubg.com](mailto:pubg_privacy@pubg.com).
 
+– California residents under the age of 18 have the right to request removal of any content or information that they have posted on our Site, such as forum or message board. To make such a request, please send an email to [pubg_privacy@pubg.com](mailto:pubg_privacy@pubg.com). Please be aware that the removal of your information or content may not be complete or comprehensive, and residual copies of such removed information or content may remain on our servers. In addition, we are not obligated to remove any posted content or information that has been copied or reposted by a third party, that has been rendered anonymous, or that we are required to keep by law.
 
-  * Company name: Goodbay Technologies, Inc
-  * Purpose: Provision of customer support
-  * Retention period: After processing user’s inquiry or outsourcing contract is expired or terminated.
+  
+**14\. Amendments**
 
+We may amend, at our discretion, any portion of this Privacy Policy at any time by posting or displaying the amended Privacy Policy on our Site. We will provide notice on our Site or by other appropriate means to you if these changes are material and, where required by applicable law.
 
-  * Company name: Game First International Corporation
-  * Purpose: Provision of customer support
-  * Retention period: After processing user’s inquiry or outsourcing contract is expired or terminated.
+You will be deemed to have accepted such amendments by continuing to use the Service, so please review it frequently. You can see when this policy was last updated by checking the “last updated” date displayed at the top of this policy.
 
+  
+**15\. Contact Us**
 
-  * Company name: KEYWORDS INTERNATIONAL LIMITED
-  * Purpose: Provision of customer support
-  * Retention period: After processing user’s inquiry or outsourcing contract is expired or terminated.
-
-
-  * Company name: E-Guardian Inc.
-  * Purpose: Provision of customer support
-  * Retention period: After processing user’s inquiry or outsourcing contract is expired or terminated.
-
-
-  * Company name: Globee Services Sdn Bhd
-  * Purpose: Provision of customer support
-  * Retention period: After processing user’s inquiry or outsourcing contract is expired or terminated.
-
-
-  * Company: BattlEye Innovations e.K.
-  * Purpose: Detection and restriction of hacking tool and unauthorized program usage.
-  * Retention Period: Outsourcing contract is expired or terminated.
-
-
-  * Company: Wellbia.com
-  * Purpose: Detection and restriction of hacking tool and unauthorized program usage.
-  * Retention Period: Outsourcing contract is expired or terminated.
-
-
-
-Sharing of information sometimes involves cross-border data transfers to countries outside of the EU and other regions with comprehensive data protection laws. We will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by the applicable laws on data protection. If your personal information is transferred outside the EU to the Company’s affiliates or to third party service providers, we will also take steps to ensure that your personal information a receives the same level of protection as if it remained within the EU, including by entering into data transfer agreements using the European Commission approved Standard Contractual Clauses, or by relying on certification schemes such as the EU – US Privacy Shield. You have a right to obtain details of the mechanism under which your personal data is transferred outside of the EU by contacting [pubg_privacy@pubg.com](mailto:pubg_privacy@pubg.com).
-
-#### **6\. Personal Information Retention and Removal**
-
-In principle, the Company will remove your personal information without any delay after the purpose of collecting personal information is achieved. Personal information stored as hard copy will be shredded or incinerated, and personal information stored as soft copy will be removed using a technical measures in a way that cannot be reproduced. However, the following information can be stored.
-
-  * Steam: Game character name (nickname), IP address, steamID64, Steam ID, Display Name, Profile Image: Until Steam membership termination or game refund
-  * Twitch: Display name, Email address, Username, Twitch ID: Until Twitch or global account membership termination
-  * Microsoft: Display Name, Xuid : Until Xbox or global account membership termination
-  * Sony: Account ID, Age, Date of birth, Online ID, Region, Sub Account: Until PSN or global account membership termination
-  * Facebook: Name, Profile Image, Email Address, Friends list : Until Facebook or global account membership termination
-  * Records of customer support or dispute resolution: 3 years
-  * Record of fraudulent user’s duplicate membership: 5 years
-
-
-
-#### **7\. Children Under The Age Of 13.**
-
-Because the Site is not directed to children under the age of 13, we prohibit registration to persons under age 13. If you are under the age of 13, you may not create an account on the Site. We will not knowingly collect, maintain, or disclose any Personal Information from children under the age of 13.
-
-#### **8\. Children Between The Ages Of 13 And 18.**
-
-In order to protect the privacy interests of younger Internet users, PUBG does not allow children under the age of 18 to use our services without the consent of their parents. PUBG complies with the Children’s Online Privacy Protection Act and all other applicable laws and regulations concerning children and the Internet. We do not disclose any Personal Information about children under 18 years of age who have registered on the Site to third parties, or share or disclose Personal Information other than as set forth in this Privacy Policy; provided however, that in the event of a merger, acquisition, bankruptcy, or similar transaction, management of our customer information may be transferred to our successor or assign.
-
-#### **9\. Links And Third Party Services.**
-
-If you click on a link to a third party site, including on an advertisement, you will leave the Site and go to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your Personal Information by such third parties, and we cannot guarantee that they will adhere to the same privacy and security practices as PUBG. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to the Site, you should consult that site’s privacy policy before providing any Personal Information.
-
-#### **10\. Security Of Personal Information.**
-
-PUBG follows generally accepted industry standards to protect Personal Information submitted to us, both during transmission and once we receive it. When you enter sensitive information (such as a credit card number) on the Site, we encrypt that information using secure socket layer (SSL) technology. However, no method of transmission over the Internet, or method of electronic storage, is completely secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
-
-#### **11\. Other Agreements That Govern Your Use Of The Site.**
-
-In addition to this Privacy Policy, your rights and obligations concerning the use of the Site are governed by our Terms of Service, any end user license agreement, any other supplemental agreements, and other applicable policies, guidelines, and requirements. When you sign up to use the Site, please review each such agreement carefully, as you must agree to be bound by each such agreement before you may use the service.
-
-#### **12\. Your Rights.**
-
-Subject to limitations in applicable law, you are entitled to object to or request the restriction of processing of your personal information, and to request access to, rectification, erasure and portability of your own personal information. To make requests, or if you have any other question regarding our privacy practices, please contact our Privacy Officer by email at: [pubg_privacy@pubg.com](mailto:pubg_privacy@pubg.com). We respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws. Please also see the “Your Choices” section of this Privacy Policy for additional choices regarding your information. In certain countries, including in the EU, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal information. The data protection authority you can lodge a complaint with notably may be that of your habitual residence, where you work or where we are established.
-
-#### **13\. Your Choices**
-
-  * You can either choose to remove or to stop process of personal information at any time. If you wish to remove or stop process of your personal information, please contact us in writing or through e-mail.
-  * You may visit the Company’s website without providing any personal information. If you do not agree to provide personal information, the company may not be able to provide you with the game services, customer support, or Forum related services.
-
-
-
-#### **14\. How We Protect Information Collected**
-
-The Company is committed to provide physical, technical and administrative safeguards with the personal information collected to ensure that your personal information is not lost, stolen, exposed, altered or damaged. However, it is difficult to guarantee complete protection of all information. Hence, you should acknowledge that complete protection of personal information cannot be guaranteed if you choose to use our services.
-
-#### **15\. Amendments**
-
-Privacy Policy for Game is available in the Company’s website and we reserve the right to amend this Policy at any time. We encourage you to review this Policy periodically in order to make sure how any personal information you provided will be used. Your continued use of the Services following the changes to these terms will mean you accept future amendments.
-
-We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this policy, we will also revise the “last updated” date at the top of this Privacy Policy, and may attempt to notify you by email, pop-up screen, or by means of a notice somewhere else on the Site. Your continued use of the Site will signify your acceptance of the changes to our Privacy Policy.
-
-Print 
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us by sending an email at pubg_privacy@pubg.com or by writing us at 6, 7, 8F 12, Seocho-daero 38-gil Seocho-gu, Seoul, the Republic of Korea. You can also contact our Data Protection Officer by sending an email at DPO@pubg.com.
