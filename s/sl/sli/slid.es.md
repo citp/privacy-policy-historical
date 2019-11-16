@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the slid.es privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420053107id_/https%3A//slides.com/privacy%3Froot%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slid.es privacy policy that was archived on 2019-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191116222430id_/https%3A//slides.com/privacy%3Froot%3Dtrue) for the most accurate reproduction.*
 
 # Slides
-
-## Privacy Policy
 
 It is Slides, Inc.'s ("Slides," "we", "our" or "us") policy to respect your privacy regarding any information we may collect while operating our websites. 
 
@@ -92,10 +90,6 @@ If you are using our service from outside of the United States, please be aware 
 
 Our services are not directed towards children and you may not use our service if you are under the age of 13. You must also be old enough to consent for the processing of your personal data in your country. In certain countries, we may allow a parent or guardian to consent for you on your behalf. 
 
-### Privacy Shield
-
-Slides is in the process of self-certifying under Privacy Shield. In a future version of this Privacy Policy, a Privacy Shield policy will be incorporated. Learn more about the benefits of Privacy Shield [here](https://www.privacyshield.gov/welcome). 
-
 ### How you may contact us
 
 Slides has a "Data Protection Officer" who is responsible for matters relating to privacy and data protection. You may reach us with any inquiries or concerns with regards to this privacy policy here: 
@@ -110,4 +104,4 @@ Brooklyn, NY 11211
 
 Slides may change its Privacy Policy from time to time, and in Slides’ sole discretion. Slides encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
 
-Effective as of 5-25-2018. View the previous version of this [Privacy Policy](https://web.archive.org/security/archived/privacy-2013). 
+Effective as of 11-11-2019. View the previous version of this [Privacy Policy](https://web.archive.org/security/archived/privacy-2019). 
