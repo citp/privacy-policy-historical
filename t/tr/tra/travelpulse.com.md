@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpulse.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231174241id_/https%3A//www.travelpulse.com/more/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpulse.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117040046id_/https%3A//www.travelpulse.com/more/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TravelPulse
 
@@ -76,6 +76,8 @@ travAlliancemedia occasionally conducts subscriber and/or user surveys to better
 travAlliancemedia operates several websites featuring its travel-related content and services. travAlliancemedia may share personal information collected from users of its websites internally across these websites to better serve its users.
 
 travAlliancemedia has numerous products and services and therefore numerous email and promotion lists. In an effort to allow users to tailor their participation in travAlliancemedia services and promotions, travAlliancemedia provides users the ability to choose specific lists or products of interest and opt-out options are product and use/list specific. All email promotions sent from travAlliancemedia provide an opt-out link at the bottom of the email pursuant to which users can opt-out of specific products and promotions. If you receive one of these emails and wish to unsubscribe please follow the instructions given in each email, or you may contact support@travelpulse.com to unsubscribe from this website’s list in particular.
+
+In the event travAlliancemedia is acquired by or merged with another company, your information will be transferred to the company in connection with the acquisition or merger.
 
 If you have previously agreed to us using your personal information for any of the above purposes, you may change your mind at any time by writing to or emailing us at support@travelpulse.com.
 
