@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compassion.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513131944id_/https%3A//www.compassion.com/privacy-and-conditions-of-use.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassion.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117035059id_/https%3A//www.compassion.com/privacy-and-conditions-of-use.htm) for the most accurate reproduction.*
 
 # Privacy and Conditions of Use - Compassion International
 
