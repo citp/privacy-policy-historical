@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conversationstartersworld.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503102805id_/https%3A//conversationstartersworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conversationstartersworld.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117083738id_/https%3A//conversationstartersworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -110,5 +110,7 @@ The Website does not knowingly collect any personally identifiable information f
 ## CONTACT INFORMATION
 
 At any time, please contact us at cbdaniels@conversationstartersworld.com for questions related to this Privacy Policy.
+
+You can find out more about me and the site on our [about me page](https://conversationstartersworld.com/about/).
 
 Last updated: May 5, 2018.
