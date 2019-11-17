@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dsa.org privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506171842id_/https%3A//www.dsa.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsa.org privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117020204id_/https%3A//www.dsa.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
