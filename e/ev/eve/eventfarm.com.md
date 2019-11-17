@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126161210id_/https%3A//eventfarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfarm.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117092356id_/https%3A//eventfarm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Eventfarm
 
@@ -155,8 +155,8 @@ If we are required by law to obtain your consent to any material changes before 
 
 ### Contact Information
 
-If you have any questions or concerns about our Privacy Policy or the practices of the Service, you can contact us at [legal@eventfarm.com](mailto:legal@eventfarm.com), by phone at (888) 444-8162, or by mail through our Corporate Office located at Event Farm, Inc., 2448 Main Street, Santa Monica, CA 90405.
+If you have any questions or concerns about our Privacy Policy or the practices of the Service, you can contact us at [legal@eventfarm.com](mailto:legal@eventfarm.com), by phone at (678) 567-6132, or by mail through our Corporate Office located at Event Farm, Inc., 2448 Main Street, Santa Monica, CA 90405.
 
 ### Data Protection Officer
 
-Our Data Controller and Data Protection Officer is Todd Cornett, CTO. Inquiries can be directed to him ℅ Event Farm, Inc. at [legal@eventfarm.com](mailto:legal@eventfarm.com), by phone at (888) 444-8162, or by mail through our Corporate Office located at Event Farm, Inc., 2448 Main Street, Santa Monica, CA 90405.
+Our Data Controller and Data Protection Officer is Todd Cornett, CTO. Inquiries can be directed to him ℅ Event Farm, Inc. at [legal@eventfarm.com](mailto:legal@eventfarm.com), by phone at (678) 567-6132, or by mail through our Corporate Office located at Event Farm, Inc., 2448 Main Street, Santa Monica, CA 90405.
