@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commdiginews.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223030253id_/https%3A//www.commdiginews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commdiginews.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117175742id_/https%3A//www.commdiginews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Communities Digital News
 
@@ -51,7 +51,7 @@ Communities Digital News email list collects email addresses and zip codes; This
 
 Email addresses will never be sold, bartered, or provided to any third party for any reason.
 
-We do not collect information from readers / site visitors who email writers or Communities Digital News ([jacquie.kubin@commdiginews.com](https://web.archive.org/web/20190223030253id_/https://www.commdiginews.com/privacy-policy/jacquie.kubin@commdiginews.com))
+We do not collect information from readers / site visitors who email writers or Communities Digital News ([jacquie.kubin@commdiginews.com](https://web.archive.org/web/20191117175742id_/https://www.commdiginews.com/privacy-policy/jacquie.kubin@commdiginews.com))
 
 **_Data Collected in Connection with Emails_**
 
@@ -63,7 +63,7 @@ Because some of this information is linked to individual email addresses, it is 
 
 Advertisers that display Ads on our site (and other advertising services) may use cookies and pixel tags of their own to record your Web browser’s interaction with a given Ad.  This technique allows the Advertiser (and its providers of ad serving and other advertising services) to track how Ads are displayed, and which are clicked on, and to limit the number of times a given Ad is shown to you.  The use of cookies and pixel tags may also enable these Advertisers (and their providers of ad serving and other advertising services) to serve ads to our users based on their perceived interests as gleaned from their visits to this and other Web sites.  For example, DoubleClick, a provider of ad serving and other advertising services, may set cookies in connection with Ads displayed on our Web site through our relationship with Google.  For a detailed description of Google’s interest-based advertising program, or to opt out of receiving interest-based ads from Google,  ** _click here_**.
 
-[Google Ad Sense](http://www.google.com/adsense "Google Ad Sense")
+[Google Ad Sense](https://www.google.com/adsense "Google Ad Sense")
 
 [Taboola](http://%20www.taboola.com/ "Taboola")
 
@@ -81,7 +81,7 @@ In order to improve performance, we augment our click stream data with non-perso
 
 Communities Digital News complies with and supports the Children’s Online Privacy Protection Act (COPPA)
 
-Communities Digital News utilizes [Disqus](http://www.disqus.com/ "disqus.com") to manage comments.  Disqus is governed by their company user and privacy policies.
+Communities Digital News utilizes [Disqus](https://www.disqus.com/ "disqus.com") to manage comments.  Disqus is governed by their company user and privacy policies.
 
 Communities Digital News will endeavor to adhere and follows generally accepted industry standards for acceptable content and to protect against unauthorized access to, destruction or disclosure of data.  Any data that may be stored on our servers is treated as confidential and is not made generally available to the public or any third party.
 
