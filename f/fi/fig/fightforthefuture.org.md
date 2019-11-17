@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightforthefuture.org privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612044716id_/https%3A//www.fightforthefuture.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightforthefuture.org privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117163900id_/https%3A//www.fightforthefuture.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
