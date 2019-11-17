@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531023322id_/https%3A//www.billhighway.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117034419id_/https%3A//www.billhighway.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: At Billhighway, your privacy is our top priority
 
