@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402032133id_/https%3A//www.kingspan.com/group/website-privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingspan.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117063111id_/https%3A//www.kingspan.com/group/website-privacy-notice) for the most accurate reproduction.*
 
 # Privacy Policy | Kingspan Group | Kingspan | Group
 
