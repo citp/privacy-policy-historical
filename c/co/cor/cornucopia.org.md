@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cornucopia.org privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402012200id_/https%3A//www.cornucopia.org/cornucopias-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cornucopia.org privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117010152id_/https%3A//www.cornucopia.org/cornucopias-privacy-policy) for the most accurate reproduction.*
 
 # Cornucopia’s Privacy Policy - Cornucopia Institute
 
@@ -55,9 +55,9 @@ The Cornucopia Institute knows that good stewardship is important! In keeping wi
 Please contact us to view or update your information, to change communication preferences, for help unsubscribing to group emails, or for any other privacy related matter.
 
 The Cornucopia Institute  
-P.O. Box 126  
-Cornucopia, WI 54827  
-Phone: 608-625-2000  
-Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afccdac3dbc6d9cedbcaefccc0ddc1ccdac0dfc6ce81c0ddc8)
+P.O. Box 826  
+Viroqua, WI 54665  
+Phone: 608-637-8278  
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4023352c34293621342500232f322e23352f3029216e2f3227)
 
 In the event that this Privacy Policy changes, Cornucopia will post updates on this page.
