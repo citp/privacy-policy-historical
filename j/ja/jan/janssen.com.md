@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413091415id_/https%3A//www.janssen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117013219id_/https%3A//www.janssen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Janssen
 
