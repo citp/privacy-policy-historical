@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dc-unlocker.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120070351id_/https%3A//www.dc-unlocker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dc-unlocker.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117032201id_/https%3A//www.dc-unlocker.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy | DC-unlocker.com
 
