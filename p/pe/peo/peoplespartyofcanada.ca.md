@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peoplespartyofcanada.ca privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508150727id_/https%3A//www.peoplespartyofcanada.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplespartyofcanada.ca privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118000826id_/https%3A//www.peoplespartyofcanada.ca/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - People's Party of Canada
 
@@ -24,7 +24,7 @@ The security of your personal information is important to us. We use security me
 
 **Sharing and Usage**
 
-We do not share, sell, or rent individual personal information with anyone outside of the Party, without your permission or unless so ordered by a court of law. Information submitted is only available to PPC staff who manages this information for purposes of communicating with you on matters pertaining to PPC activities. The PPC staff receives training on the use of data and is not allowed to share this information. If you have received unwanted, unsolicited email sent via this system, please forward a copy of that email with your comments at [info@peoplespartyofcanada.ca](mailto:info@peoplespartyofcanada.ca).
+We do not share, sell, or rent individual personal information with anyone outside of the Party, without your permission or unless so ordered by a court of law. Information submitted is only available to PPC staff and EDA executives who manages this information for purposes of communicating with you on matters pertaining to PPC activities. These people received a series of guidelines on the use of data and are not allowed to share this information. If you have received unwanted, unsolicited email sent via this system, please forward a copy of that email with your comments at [info@peoplespartyofcanada.ca](mailto:info@peoplespartyofcanada.ca).
 
  **Visiting our website**
 
