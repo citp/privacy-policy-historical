@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the tayyar.org privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322165624id_/https%3A//www.tayyar.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tayyar.org privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117194926id_/https%3A//www.tayyar.org/Privacy) for the most accurate reproduction.*
 
 # tayyar.org - Privacy policy
 
-**We have a few fundamental principles:  
+**We have a few fundamental principles :  
 **  
 \- We don’t ask you for personal information unless we truly need it.  
 \- We don’t share your personal information with anyone except to comply with the law, develop our products and services, promote our website or protect our rights.  
 \- We don’t store personal information on our servers unless required for the on-going operation of one of our services.
 
-**Website Visitors**
+**Website/App Visitors**
 
-Like most website operators, We collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our website. From time to time.Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our website. 
+Like most website/app operators, We collect non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally identifying information is to better understand how visitors use our website. From time to time.Automattic also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users and for users leaving comments on our website. 
 
 **Gathering of Personally-Identifying Information**
 
-Certain website visitors choose to interact with our website in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. 
+Certain website/app visitors choose to interact with our website in ways that require us to gather personally-identifying information. The amount and type of information that we gather depends on the nature of the interaction. 
 
 **Protection of Certain Personally-Identifying Information**
 
@@ -22,10 +22,22 @@ We disclose personally-identifying information only to our employees, contractor
 
 If you are a registered user and have supplied your email address, We may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with Our company or services. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. We take all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
 
+**INTEREST BASED ADVERTISING**
+
+On our website/app we and our affiliates may obtain information about your activities to provide you with advertising about products and services tailored to your individual interests. We and our affiliates may also obtain information for this purpose from third party websites and apps. 
+
+We engage third-party affiliates to help us target our messaging to users through interest-based means. Through these affiliates, we can track your online activity through automated means. Our affiliates use this information to optimize your user experience, to show you advertisements on our app or on third-party websites and apps that may be tailored to your individual interests.
+
+ To learn more about our affiliate and how to opt out please click [here.](https://tesseradigital.com/privacy_policy.php)<<https://tesseradigital.com/privacy_policy.php>>
+
+ Please note that the collection, use or storage of such data is governed both by this privacy policy as well as that of such party that collects and stores the data.
+
 **Cookies**
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. We use cookies to help us identify and track visitors, their usage of our website, and their website access preferences. Our visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our websites, with the drawback that certain features of our websites may not function properly without the aid of cookies. 
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. We use cookies to help us identify and track visitors, their usage of our website, and their website access preferences. Our visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using our websites, with the drawback that certain features of our websites may not function properly without the aid of cookies.
 
 **Privacy Policy Changes**
 
-Although most changes are likely to be minor, We may change our Privacy Policy from time to time, and in our sole discretion. We encourages visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+Although most changes are likely to be minor, We may change our Privacy Policy from time to time, and in our sole discretion. We encourages visitors to frequently check this page for any changes to our Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+Should you have any queries regarding this Privacy Policy please[ click here](mailto:advertise@tayyar.org)
