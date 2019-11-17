@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalmarijuanainc.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401135655id_/https%3A//www.medicalmarijuanainc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalmarijuanainc.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117232439id_/https%3A//www.medicalmarijuanainc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Medical Marijuana, Inc.
 
