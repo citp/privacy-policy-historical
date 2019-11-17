@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakeup-world.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330134821id_/https%3A//wakeup-world.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeup-world.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117220305id_/https%3A//wakeup-world.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wake Up World
 
@@ -18,7 +18,7 @@ Wake Up World does use cookies to store information about visitors preferences, 
 
   * Google, as a third party vendor, uses cookies to serve ads on Wake Up World.
   * Google’s use of the DART cookie enables it to serve ads to users based on their visit to [sitename] and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –  [http://www.google.com/privacy_ads.html](http://www.google.com/policies/technologies/ads/).
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL –  [http://www.google.com/privacy_ads.html](https://www.google.com/policies/technologies/ads/).
 
 
 
