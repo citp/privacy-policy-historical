@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the innocenceproject.org privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402064841id_/https%3A//www.innocenceproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the innocenceproject.org privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117024324id_/https%3A//www.innocenceproject.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Innocence Project
 
@@ -69,7 +69,7 @@ We may also aggregate or otherwise strip data of all personally identifying char
 
 **Keeping your information safe** :  The Innocence Project cares about the security of your information and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through our website.  However, no security system is impenetrable and we cannot guarantee the security of our systems 100%.  In the event that any information under our control is compromised as a result of a breach of security, the Innocence Project will take reasonable steps to investigate the situation and, where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-**6.            CHILDREN’S PRIVACY**
+**6\. CHILDREN’S PRIVACY**
 
 The Innocence Project does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users.  In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.  If you believe that we might have any information from a child under 13, please contact us at [info@innocenceproject.org](mailto:info@innocenceproject.org?subject=Privacy%20Policy).
 
