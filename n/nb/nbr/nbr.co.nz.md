@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509015245id_/https%3A//www.nbr.co.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117020837id_/https%3A//www.nbr.co.nz/privacy) for the most accurate reproduction.*
 
-# Privacy | The National Business Review
+# Privacy | NBR
 
 By using this site, you agree to the Privacy Policy of NBR. If you do not agree to the Policy, please do not use this site. NBR examines its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please write to us at:
 
