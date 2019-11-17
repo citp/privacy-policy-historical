@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the castlighthealth.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610195527id_/https%3A//www.castlighthealth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castlighthealth.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117101452id_/https%3A//www.castlighthealth.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Castlight Health
+# Privacy Policy - Castlight Health
 
 _Last Updated December 7, 2018_
 
