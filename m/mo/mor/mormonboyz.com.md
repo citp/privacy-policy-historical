@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mormonboyz.com privacy policy that was archived on 2017-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171123184530id_/http%3A//www.mormonboyz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mormonboyz.com privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117075135id_/https%3A//missionaryboys.com/about/privacy-policy/%3Fnats%3DMC4wLjEuMS4wLjAuMC4wLjA) for the most accurate reproduction.*
 
-# Privacy Policy | Mormon Boyz Mormon Boyz
+# Privacy Policy MissionaryBoys.com
 
-Your privacy is important to us here at MormonBoyz. To protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+Your privacy is important to us here at missionaryBoyz. To protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
-This notice applies to all information collected or submitted to MormonBoyz.com (MBz). On some pages, you can purchase a Membership to Mbz, make requests, and register to receive access and materials. The type of personal information collected at these pages are name, age, email address, gender, etc.
+This notice applies to all information collected or submitted to missionaryBoyz.com (MBz). On some pages, you can purchase a Membership to Mbz, make requests, and register to receive access and materials. The type of personal information collected at these pages are name, age, email address, gender, etc.
 
 We use CCBill, who will obtain additional information such as your address and credit card data.
 
@@ -18,7 +18,7 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 You as the Member assure MBz that you have all rights for the submission of your data to the member management and payment processor system employed by MBz. You agree to save harmless MBz from all costs, which result from offenses against it.
 
-Should you have other questions or concerns about these privacy policies, please contact us by following the instructions on the [Contact Me](http://www.mormonboyz.com/contact/) page.
+Should you have other questions or concerns about these privacy policies, please contact us by following the instructions on the [Contact Me](http://www.missionaryboyz.com/contact/) page.
 
-Copyright © 2017 MetaVentures LLC All Rights Reserved. Content licensed to Charged Media LLC. Unauthorized reproduction or distribution of any component of this site, in whole or in part, is a violation of applicable federal copyright laws and international copyright treaties.  
-For billing support, please visit [segpay.com](http://cs.segpay.com/) | [epoch.com](https://epoch.com/) | [zombaio.com](https://www.zombaio.com/), our authorized sales agents. 
+Copyright © 2019 Charged Media All Rights Reserved. Unauthorized reproduction or distribution of any component of this site, in whole or in part, is a violation of applicable federal copyright laws and international copyright treaties.  
+For billing support, please visit [segpay.com](https://cs.segpay.com/) | [epoch.com](https://epoch.com/) | [ccbill.com](https://www.ccbill.com/), our authorized sales agents. 
