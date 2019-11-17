@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allevents.in privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424150729id_/https%3A//allevents.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allevents.in privacy policy that was archived on 2019-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191117102821id_/https%3A//allevents.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
