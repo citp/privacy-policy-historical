@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topikguide.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529223419id_/https%3A//www.topikguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topikguide.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118010907id_/https%3A//www.topikguide.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TOPIK GUIDE
+# Privacy Policy | TOPIK GUIDE - The Complete Guide to TOPIK Test
 
 At [TOPIK GUIDE](https://www.topikguide.com/), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
