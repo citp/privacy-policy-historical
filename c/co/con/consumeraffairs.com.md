@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630034530id_/https%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119003217id_/https%3A//www.consumeraffairs.com/about/privacy_policy) for the most accurate reproduction.*
 
 # ConsumerAffairs - Privacy Policy
 
 **Effective Date: May 30, 2018**
 
- **Last Updated: December 2, 2018**
+ **Last Updated: July 30, 2019**
 
 This Privacy Policy describes how ConsumerAffairs (“we,” “us,” or “our”) collects, uses, and shares information collected through our website www.consumeraffairs.com or when you otherwise interact with us (the “Services”).
 
@@ -133,9 +133,9 @@ You may opt out of receiving promotional emails from ConsumerAffairs by followin
 
 To opt out of receiving text messages from ConsumerAffairs.com at any time, text STOP to the short code from which the text message was sent to the enrolled mobile device or reply to a text from us with the word “STOP.” A confirmation message of your opt out will be sent to your mobile number but no additional messages will be sent to you unless you opt in again.
 
-#### Mobile Push Notifications/Alerts
+#### Push Notifications/Alerts
 
-With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+With your consent, we may send promotional and non-promotional push notifications or alerts to your mobile device or to your desktop via your browser. You can deactivate these messages at any time by changing the notification settings within your browser or on your mobile device.
 
 #### Your California Privacy Rights
 
