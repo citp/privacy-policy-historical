@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the haydenjames.io privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330104757id_/https%3A//haydenjames.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haydenjames.io privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119001008id_/https%3A//haydenjames.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Linux Systems Analyst | Hayden James
+# Privacy Policy - Linux Systems Analyst Blog - haydenjames.io
 
 Please read the following to learn more about the Privacy Policy of this website. By visiting or using haydenjames.io you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Haydenjames.io is committed to protecting the privacy of users. If you do not agree to this Privacy Policy, please do not use this website.
 
