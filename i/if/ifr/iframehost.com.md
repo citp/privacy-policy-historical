@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iframehost.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513021034id_/https%3A//woobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iframehost.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118215614id_/https%3A//woobox.com/privacy) for the most accurate reproduction.*
 
 # Woobox Privacy Policy
 
