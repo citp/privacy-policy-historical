@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330081106id_/https%3A//www.nejmgroup.org/legal/privacy-policy.htm%3Fquery%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nejm.org privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118015402id_/https%3A//www.nejmgroup.org/legal/privacy-policy.htm%3Fquery%3Dfooter) for the most accurate reproduction.*
 
 # NEJM Group
 
-_Last updated: March 2019_
+_Last updated: April 2019_
 
 ### Governing Principles
 
 NEJM Group is a division of the Massachusetts Medical Society (“MMS”). We take privacy issues seriously and are committed to protecting your personal information. Please take a moment to review our privacy policy.
 
-This policy explains how the information we collect when you use an NEJM Group website, mobile or tablet application, or other online service (each a “Service” and collectively “Services”) that links or refers to this policy will be used and shared. This privacy policy does not apply to or govern information furnished to the MMS through any other means.
+This policy explains how the information we collect when you use an NEJM Group website, mobile or tablet application, or other online service (each a “Service” and collectively “Services”) that links or refers to this policy will be used and shared. 
 
 ### WHAT INFORMATION DO WE COLLECT?
 
 #### Information You Provide to Us
 
-We will collect information from you if you register, establish a personal profile to gain access to certain content or services, if you ask to be notified by email about online content, if you participate in surveys we conduct, or otherwise interact with the Services. This requires the input of personal information and preferences that may include, but is not limited to, details such as your name, username and password, address (postal and email), telephone number, professional background and educational information (including your CV if you are a NEJM CareerCenter user), demographic information and other information about your professional board membership and certifications if you are an NEJM Knowledge+ user. If you request paid content or services, including subscriptions, we will also ask for credit card and other billing information. 
+We will collect information from you if you register, establish a personal profile to gain access to certain content or services, if you ask to be notified by email about online content, if you participate in surveys we conduct, or otherwise interact with the Services. This requires the input of personal information and preferences that may include, but is not limited to, details such as your name, username and password, address (postal and email), telephone number, professional background and educational information (including your CV if you are a NEJM CareerCenter user), demographic information, and other information about your professional board membership and certifications if you are an NEJM Knowledge+ user. If you request paid content or services, including subscriptions, we will also ask for credit card and other billing information. 
 
 We also collect information that you provide when you comment on our content, register to participate in events (either in-person or online), and when you submit material to a Service. 
 
-If you choose to register and sign in using a third party social media account, the authentication of your login is handled by the third-party account and the Services may collect your name, profile photograph, email address, and any other information from your third-party account that you agree to share at the time you give permission to link your third-party account with the Services. By doing this, you are authorizing us to collect, store, and use the data they send us. 
+If you choose to register and sign in using a third-party social media account, the authentication of your login is handled by the third-party account and the Services may collect your name, profile photograph, email address, and any other information from your third-party account that you agree to share at the time you give permission to link your third-party account with the Services. By doing this, you are authorizing us to collect, store, and use the data they send us. 
 
 #### Information Collected Automatically
 
@@ -36,7 +36,7 @@ We may also collect other information about you, your device, or your use of the
 
 #### _Cookies_
 
-We use cookies to collect information and help personalize your user experience. We store minimal personally identifying information in cookies and protect this information. Cookies allow us to recognize you when you return to use a Service and help us to personalize your user experience and track usage. We do not store complete records or credit card numbers in cookies. You can find out more about how we use cookies at our [Cookie Information page](https://web.archive.org/web/20190404230918id_/https://www.nejmgroup.org/legal/cookie-information.htm "NEJM Group Cookie Information").
+We use cookies to collect information and help personalize your user experience. We store minimal personally identifying information in cookies and protect this information. Cookies allow us to recognize you when you return to use a Service and help us to personalize your user experience and track usage. We do not store complete records or credit card numbers in cookies. You can find out more about how we use cookies at our [Cookie Information page](https://web.archive.org/web/20191118015402id_/https%3A//www.nejmgroup.org/legal/cookie-information.htm "NEJM Group Cookie Information").
 
 We also may use cookies and other tracking technology to facilitate the delivery of relevant ads to you through the Services. 
 
@@ -50,7 +50,7 @@ We may also use clear gifs, which are tiny graphics with unique identifiers that
 
 ### HOW IS THIS INFORMATION USED?
 
-Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services and, where applicable, report points and credits to credentialing organizations. This includes, for example, processing your subscription, sending you content and updates (including by email) and enabling you to participate in the features provided by the Services. Through such features, we are able to bring you information and content tailored to your individual interests and needs. We also may contact you periodically with information, surveys, and offers relating to the Services, unless you have indicated you do not wish to receive such further information. You may unsubscribe from our email services at any time. For additional information on how to unsubscribe from our email services, please refer to the [How to Make Changes to Your Information section](https://web.archive.org/web/20190404230918id_/https://www.nejmgroup.org/legal/privacy-policy.htm#how-to-make-changes-to-your-information "NEJM Group Privacy Policy -- How to Make Changes to Your Information") of this Privacy Policy.
+Information that you provide to us will be used to process, fulfill, and deliver your requests for content and services and, where applicable, report points and credits to credentialing organizations. This includes, for example, processing your subscription, sending you content and updates (including by email), and enabling you to participate in the features provided by the Services. Through such features, we are able to bring you information and content tailored to your individual interests and needs. We also may contact you periodically with information, surveys, and offers relating to the Services, unless you have indicated you do not wish to receive such further information. You may unsubscribe from our email services at any time. For additional information on how to unsubscribe from our email services, please refer to the [How to Make Changes to Your Information section](https://web.archive.org/web/20191118015402id_/https%3A//www.nejmgroup.org/legal/privacy-policy.htm#how-to-make-changes-to-your-information "NEJM Group Privacy Policy -- How to Make Changes to Your Information") of this Privacy Policy.
 
 Information collected automatically is used to monitor users’ interests and usage patterns in order to help us enhance and improve our service offerings. 
 
@@ -70,15 +70,15 @@ For NEJM CareerCenter users, CVs and cover letters uploaded to our site are not 
 
 #### Advertisers
 
-We contract with third-party advertisers and their agents to post banner and other advertisement through the Services. These advertisements may link to websites not under our control. These third-party advertisers may use cookie technology or similar means to measure the effectiveness of their ads or may otherwise collect personally identifying information from you when you leave our site or digital applications. We are not responsible or liable for any content, advertising, products or other materials offered from such advertisers and their agents. Transactions that occur between you and the third-party advertisers are strictly between you and the third-party and are not our responsibility. You should review the privacy policy of any third-party advertiser and its agent, as their policies may differ from ours.
+We contract with third-party advertisers and their agents to post banner and other advertisement through the Services. These advertisements may link to websites not under our control. These third-party advertisers may use cookie technology or similar means to measure the effectiveness of their ads or may otherwise collect personally identifying information from you when you leave the Services. We are not responsible or liable for any content, advertising, products, or other materials offered from such advertisers and their agents. Transactions that occur between you and the third-party advertisers are strictly between you and the third party and are not our responsibility. You should review the privacy policy of any third-party advertiser and its agent, as their policies may differ from ours.
 
-#### Advertisement Servers
+#### Advertisement Servers and Third-Party Tracking
 
-We use third-party ad servers to serve advertising through our Services. The ad servers we use do not collect any personally identifiable information regarding users who view or interact with the advertisements they serve. Our ad servers only collect non-personally identifiable ad delivery and reporting data. 
+Some of the advertisements included on the Services are delivered or served by third parties that may collect anonymous information. These third parties may place or recognize cookies, pixel tags, web beacons, or other technology to track anonymous information, in part, to measure and analyze the efficacy of the advertising they place at the Services. These third parties also may have the ability to link the information they collect when you use the Services, such as the identifier for the device you are using, with other information they collect elsewhere on the Internet to gain additional insights into their target audience. 
 
 ### WHAT SECURITY MEASURES ARE USED?
 
-We endeavor to keep your personal information confidential and protected against unauthorized access, misuse or alteration with commercially reasonable physical, technical, and administrative measures. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of electronic data nor can we guarantee that the information you supply will not be intercepted.
+We endeavor to keep your personal information confidential and protected against unauthorized access, misuse, or alteration with commercially reasonable physical, technical, and administrative measures. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of electronic data nor can we guarantee that the information you supply will not be intercepted.
 
 ### HOW TO MAKE CHANGES TO YOUR INFORMATION
 
@@ -148,7 +148,7 @@ Email: [stefan.freytag@svdfj.de](mailto:stefan.freytag@svdfj.de)
 
 **4\. Additional Information about Processing of Personal Data**
 
-MMS will process your personal data only as it is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract (Art. 6 (1) (b) GDPR), on the basis of your express and voluntary consent (Art. 6 (1) (a) GDPR), in order to comply with a legal obligation to which MMS is subject (Art. 6 (1) (c) GDPR); see e.g. the “Compliance with Legal Process” section of our general privacy policy) or as otherwise permitted by applicable law. 
+MMS will process your personal data only as it is necessary for the performance of a contract to which you are a party or in order to take steps at your request prior to entering into a contract (Art. 6 (1) (b) GDPR), on the basis of your express and voluntary consent (Art. 6 (1) (a) GDPR), in order to comply with a legal obligation to which MMS is subject (Art. 6 (1) (c) GDPR); (see e.g., the “Compliance with Legal Process” section of our general privacy policy) or as otherwise permitted by applicable law. 
 
 4.1 Processing for or Prior to Entering into a Contract 
 
@@ -166,7 +166,7 @@ In some cases, we have to process data to comply with a legal obligation to whic
 
 4.4 Aggregated Anonymous or Pseudonymous Use of Data 
 
-In order to maintain or improve the quality or a Service or to delivery targeted online advertisements we are using data without personally identifying you, but in an aggregated, statistical, anonymous or pseudonymous format. Please see the general privacy policy above and our cookie policy for more detailed information. 
+In order to maintain or improve the quality or a Service or to delivery targeted online advertisements we are using data without personally identifying you, but in an aggregated, statistical, anonymous, or pseudonymous format. Please see the general privacy policy above and our cookie policy for more detailed information. 
 
 4.5 Duration of Processing of Personal Data 
 
@@ -174,7 +174,7 @@ Where MMS is processing and using your personal data as permitted by law (includ
 
 4.6 Where will my personal data be processed? 
 
-MMS is a U.S. based, internationally operating organization. Consequently, whenever MMS is using or otherwise processing your personal data for the purposes set out in its privacy policies, your data may be collected from, processed, or transferred to a country outside of the EU or European Economic Area (“EEA”). 
+MMS is a U.S.-based, internationally operating organization. Consequently, whenever MMS is using or otherwise processing your personal data for the purposes set out in its privacy policies, your data may be collected from, processed, or transferred to a country outside of the EU or European Economic Area (“EEA”). 
 
 4.7 No Decisions Based Solely on Automated Processing (Art. 22 GDPR) 
 
@@ -182,7 +182,7 @@ Our processing of your personal data does not involve decisions based solely on 
 
 **5\. Data Subject’s Rights under GDPR**
 
-5.1 Data Access, Correction and Deletion Right 
+5.1 Data Access, Correction, and Deletion Right 
 
 You can request from MMS at any time information about which personal data MMS processes about you and the correction or deletion of such personal data. 
 
@@ -190,7 +190,7 @@ Please note that MMS can delete your personal data only if there is no legal or 
 
 If MMS uses your personal data based on your consent or to perform a contract with you, you may further request from MMS a copy of the personal data that you have provided to MMS. In this case, please contact MMS’s Data Protection Officer and specify the information or processing activities to which your request relates, the format in which you would like this information, and whether the personal data is to be sent to you or another recipient. Please also provide reasonable information and evidence that permits MMS that the request originates from you as the data subject entitled to receive such personal information and that no one else is abusively trying to access your personal data by requesting a copy of it from MMS. 
 
-Furthermore, you can request from MMS that MMS restricts your personal data from any further processing in any of the following events: (i) you state that the personal data MMS has about you is incorrect, (but only for as long as MMS requires to check the accuracy of the relevant personal data), (ii) there is no legal basis for MMS processing your personal data and you demand that MMS restricts your personal data from further processing, (iii) MMS no longer requires your personal data, but you claim that you require MMS to retain such data in order to claim or exercise legal rights or to defend against third party claims or (iv) in case you object to the processing of your personal data by MMS (based on MMS’s legitimate interest as further set out in Art. 6 (1) (f) GDPR) for as long as it is required to review as to whether MMS has a prevailing interest or legal obligation in processing your personal data. 
+Furthermore, you can request from MMS that MMS restricts your personal data from any further processing in any of the following events: (i) you state that the personal data MMS has about you is incorrect, (but only for as long as MMS requires to check the accuracy of the relevant personal data), (ii) there is no legal basis for MMS processing your personal data and you demand that MMS restricts your personal data from further processing, (iii) MMS no longer requires your personal data, but you claim that you require MMS to retain such data in order to claim or exercise legal rights or to defend against third-party claims or (iv) in case you object to the processing of your personal data by MMS (based on MMS’s legitimate interest as further set out in Art. 6 (1) (f) GDPR) for as long as it is required to review as to whether MMS has a prevailing interest or legal obligation in processing your personal data. 
 
 5.2 Right to Lodge a Complaint 
 
