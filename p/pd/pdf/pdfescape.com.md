@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412074147id_/https%3A//www.pdfescape.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfescape.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118205937id_/https%3A//www.pdfescape.com/privacy) for the most accurate reproduction.*
 
 # PDFescape Privacy Policy
 
-Effective October 23 2017
+Effective July 30 2019
 
 ## Red Software Websites
 
@@ -27,13 +27,13 @@ We take your privacy seriously. Please read the following information to learn m
 
 We invite you to contact us if you have questions about this privacy policy. 
 
-You may contact us using the information provided at <http://www.redsoftware.com/contact/>. 
+You may contact us using the information provided [on our website](https://web.archive.org/contact/). 
 
 ## Dispute Resolution
 
 We are committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. 
 
-Concerns will be responded to promptly by our [customer service representatives](http://www.redsoftware.com/support/). 
+Concerns will be responded to promptly by our [customer service representatives](https://web.archive.org/support/). 
 
 ## Information Collection
 
@@ -71,15 +71,26 @@ How long is this information retained?
 
   * Account Information and Customer Data may be retained by us for as long as we need it to provide you services, or as required by law. 
   * Cookies are stored by your browser and can be cleared using your browser's preferences at any time. 
-  * Usage is typically archived for a minimum of 1 year to help improve and secure our Red Software Websites. 
+  * Usage is typically archived for a minimum of 1 year to help improve and secure Red Software Websites. 
+
+
+
+### Cookie Policy
+
+Typically, cookies are stored by your browser when visiting Red Software Websites. Most browsers can be configured to disable cookies, but you may not be able to access all features and portions of Red Software Websites. Cookies are used for various reasons on Red Software Websites: 
+
+  * _Security_ – These cookies allow us to keep you signed in, securely identify your browser session, and help prevent attacks. 
+  * _Preferences_ – These cookies help us to remember your preferences (e.g. preferred language) for use on Red Software Websites. 
+  * _Analytics_ – These cookies allow us to understand how you engage with Red Software Websites. You can [install this tool from Google to opt-out](https://tools.google.com/dlpage/gaoptout) of these cookies. 
+  * _Advertising_ – These cookies help us to serve you engaging and relevant advertising. You can [opt-out of these cookies](http://optout.aboutads.info/). 
 
 
 
 ### Google Adwords, AdSense, Analytics, and reCAPTCHA
 
-Google AdWords is a program run by Google that delivers advertisements promoting Red Software Websites and other websites across the Internet. Google AdSense is a program run by Google that delivers advertisements displayed on Red Software Websites. Google Analytics is a web analysis service provided by Google that is in use on Red Software Websites. Google reCAPTCHA is a website protection service provided by Google that is in use on Red Software Websites. Google may utilize the data collected to track and examine the use of Red Software Websites, to prepare reports on its activities, and to share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Google may collect cookie and usage data. Google may share this information with other parties. Google's privacy policy can be found at <http://www.google.com/intl/en/policies/privacy/>. 
+Google AdWords is a program run by Google that delivers advertisements promoting Red Software Websites and other websites across the Internet. Google AdSense is a program run by Google that delivers advertisements displayed on Red Software Websites. Google Analytics is a web analysis service provided by Google that is in use on Red Software Websites. Google reCAPTCHA is a website protection service provided by Google that is in use on Red Software Websites. Google may utilize the data collected to track and examine the use of Red Software Websites, to prepare reports on its activities, and to share them with other Google services. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Google may collect cookie and usage data. Google may share this information with other parties. Google's privacy policy can be found at <https://policies.google.com/privacy>. 
 
-Red Software Websites may implement some Google Analytics Advertising Features, including Remarketing with Google Analytics. Remarketing (using things like cookies) helps third party vendors like Google to advertise and promote our products and services based on your past visits to Red Software Websites. You can opt out of the Google's use of cookies by visiting [Google's Ad Settings](http://www.google.com/settings/ads). 
+Red Software Websites may implement some Google Analytics Advertising Features, including Remarketing with Google Analytics. Remarketing (using things like cookies) helps third party vendors like Google to advertise and promote our products and services based on your past visits to Red Software Websites. You can opt out of the Google's use of cookies by visiting [Google's Ad Settings](https://adssettings.google.com/). 
 
 ## Do Not Track
 
@@ -89,8 +100,13 @@ Red Software Websites do not currently respond to a Do Not Track ("DNT") or simi
 
 We reserve the right to make changes to this policy from time to time. 
 
-Changes to our privacy policy will be accessible at <http://www.redsoftware.com/privacy/>
+Changes to our privacy policy will be accessible at <https://www.pdfescape.com/privacy/>
 
 ## Terms of Use
 
-All information collected by a Red Software Website is subject to our [Terms of Use](http://www.redsoftware.com/terms/). If there is a conflict between this Privacy Policy and the Terms of Use, the Terms of Use shall control. 
+All information collected by a Red Software Website is subject to our [Terms of Use](https://web.archive.org/terms/). If there is a conflict between this Privacy Policy and the Terms of Use, the Terms of Use shall control. 
+
+This website uses cookies to keep you signed in, deliver advertisements, improve user experience, and more. By using this website, you are agreeing to our [Terms of Use](https://web.archive.org/terms/) and [Privacy Policy](https://web.archive.org/privacy/) (updated July 30 2019).  
+[Learn More](https://web.archive.org/privacy/#cookies)
+
+Got it!
