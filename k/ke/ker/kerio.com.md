@@ -1,69 +1,157 @@
-> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2017-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171127070905id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerio.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118150944id_/https%3A//www.gfi.com/legal/history/global-privacy-policy) for the most accurate reproduction.*
 
-# Kerio Privacy Policy | Kerio Technologies
+# Global privacy policy | GFI Software
 
-At Kerio Technologies Inc. (“Kerio”), we know that you care about how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Please read the following to understand what Information we collect, how we use that Information, to whom we may disclose that Information, and how we safeguard that Information. Because the Internet is global, the Information about you that we collect or that you submit may be transferred to, processed in, and stored in countries (including the United States) other than the one in which you reside. By using our various Websites and our Products and Services, you explicitly consent to such use of your Information and agree to the terms of this Privacy Policy.
+## **Privacy Policy Statement**
 
-Kerio reserves the right to change or update this Privacy Policy as our business evolves. Please review this Privacy Policy periodically. Any updated version of this Privacy Policy will be effective as of the date specified in such update. Please note that the individual terms and conditions of usage of particular Products and Services may be more restrictive than those contained herein. Finally, be advised that this Privacy Policy includes Kerio’s European Union and Swiss Safe Harbor Privacy statements.
+GFI USA, Inc. and its affiliated companies and subsidiaries (the “Company,” “we,” or “us”) respect your privacy. This Privacy Policy Statement (“Privacy Policy”) describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. By accessing our website, or purchasing our products or services you agree to this Privacy Policy in addition to any other agreements we might have with you. In the event that such agreements contain terms that conflict with this Privacy Policy, the terms of those agreements will prevail. This Privacy Policy does not govern the practices of entities that our Company does not own or control, or entities that do not own or control our company or people that our Company does not employ or manage. 
 
-## What Information We Collect
+This Privacy Policy includes the Company’s Privacy Policy Statement and the Privacy Shield Statement. 
 
-As a visitor of our Website, you can engage in many activities without providing any Personal Information. However, we do automatically receive certain types of information when you interact with our webpages (e.g., IP address, browser type, software and operating system used, device type, carrier). Kerio also uses cookies, which are small text files that a web site can send to your browser to be stored automatically on your computer. You may set your browser to reject or disable cookies, however be advised that you may be prevented access to certain parts of our Website if you do so. Kerio may also use clear GIFs, which are one pixel graphic image files on our Website that may collect the time the GIF was viewed or the type of browser that requested the image file.
+## **Company’s Privacy Policy Statement**
 
-If you register as a customer, download free evaluation software, upgrades, order e-mail newsletters or engage in other activities, Kerio may ask you to register by filling out an online form, where you will be asked to provide information that personally identifies you and/or your company name (e.g., address, email address, phone number, title/position, demographics, etc.). When you purchase one of our Products or Services direct from Kerio, you may also be asked for your credit card or other financial/payment information. We also “collect” on your behalf what you upload or input while using the Services, such as information, data or files, although we do not use anything uploaded. We also collect information from surveys, contests and sweepstakes.
+  1. **Our Collection of your Personal Information**
 
-In addition to personal information, we collect aggregated data, which we define as anonymized (non-personalized) information about a group or category of services or users from which individual user identities have been removed. For example, we may collect information regarding type of company, size and number of users, usage characteristics, and other information regarding usage profiles. Such information may be used for internal business purposes or provided to partners or other associated third parties without restriction. However, no personal information is included in aggregated data. We simply collect aggregated data to help us understand our users’ needs and to improve our Products and Services by considering new features and functionality or otherwise tailoring our Products and Services. We may share aggregated data about our users with third parties for similar purposes. We may also use such information even if and after you stop using our Products or Services.
+The information we collect may include your personal information, such as your name, contact information, IP addresses, product and service selections and other things that identify you. We collect personal information from you at several different points, including but not limited to the following: 
 
-## How We Use the Information We Collect
+    * when we correspond with you as a customer or prospective customer;
+    * when you visit our website;
+    * when you register as an end-user of our services and an account is created for you;
+    * when you contact us for help;
+    * when you attend our customer conferences or webinars; and
+    * when the site sends us error reports or application analytics data.
+  2. **Our Use of your Personal Information**
 
-In general, we use your personal information to process your requests and transactions, to provide you with the Products and Services you request, to alert you to upgrades and updates, and to share with you special offers and updated information we think will be of interest to you. We also use aggregated data to make the Website easier to use, to improve site performance and content, and to monitor web traffic and usage. Credit card numbers are only used for payment processing and are not retained for marketing purposes.
+Our Company may use information that we collect about you to: 
 
-## Safe Harbor Compliance
+    * deliver the products and services that you have requested;
+    * manage your customer relationship and provide you with customer support;
+    * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+    * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, or other third parties;
+    * develop and display content and advertising tailored to your interests on our site and other websites;
+    * verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes;
+    * enforce our terms and conditions;
+    * manage our business;
+    * perform functions as otherwise described to you at the time of collection; and
+    * sell or transfer personal information to third parties for any legally permissible purpose in our sole discretion.
+  3. **Our Disclosure of your Personal Information to Third Parties**
 
-Kerio may store and process personal information in the United States and other countries. We adhere to the U.S. Department of Commerce’s Safe Harbor privacy principles regarding the collection, use, and retention of personal information from the European Union, and the U.S. Department of Commerce’s U.S. Swiss Safe Harbor privacy principles regarding the collection, use, and retention of personal information from Switzerland. Our Safe Harbor certifications can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>. If you have any questions regarding this statement or our compliance program, please contact us using the contact information provided at the end of this document.
+We may share your personal information with third parties only in the ways that are described in this Privacy Policy: 
 
-## Links
+    * we may provide your information to our agents, vendors or service providers who perform functions on our behalf;
+    * third party contractors may have access to our databases. Usually these contractors sign a standard confidentiality agreement;
+    * we may share your data with any parent company, subsidiaries, joint ventures, other entities under a common control or third party acquirers. We expect these other entities will honor this Privacy Policy;
+    * we may allow a potential acquirer or merger partner to review our databases, although we would restrict their use and disclosure of this data during the diligence phase;
+    * as required by law enforcement, government officials, or other third parties pursuant to a subpoena, court order, or other legal process or requirement applicable to our Company; or when we believe, in our sole discretion, that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our agreements or Company policies; and
+    * other third parties with your consent or direction to do so.
 
-This Website contains links to other web sites at which personal information may be collected. In such instances, unless otherwise expressly specified, the privacy policy applicable to that other web site will govern the collection and use of your information. Kerio is not responsible for the privacy practices of such other web sites and urges you to review such web sites’ privacy practices prior to submitting any personal information.
+Please note that these third parties may be in other countries where the laws on processing personal information may be less stringent than in your country. 
 
-## Disclosure of Your Personal Information
+  4. **Our Security Measures to Protect your Personal Information**
 
-Kerio will not sell your personal information to anyone. We may share your information to a local partner (distributor or reseller) in order to facilitate your purchase and use of our Products or Services, or to agents who perform limited functions on our behalf, such as delivering packages and processing payments. We use a variety of third party providers to assist us in hosting, infrastructure, billing, sales marketing and other functions. While these providers may have access to your personal information, they are contractually restricted from any usage thereof. These third parties are contractually restricted in their use of such information. We may also share aggregated information with our partners and advertisers; our infrastructure provider may also have access to this data.
+Our Company uses industry-standard technologies when transferring and receiving data exchanged between our Company and other companies to help ensure its security. This site has security measures in place to help protect information under our control from the risk of accidental or unlawful destruction or accidental loss, alteration or unauthorized disclosure or access. However, “perfect security” does not exist on the Internet. Also, if this website contains links to other sites, our Company is not responsible for the security practices or the content of such sites. 
 
-Kerio’s Products and Services include collaboration features that by their nature support sharing with users you choose. Those users can see your name, email address, photo and information from your Profile page, and any files you choose to share; and they can post comments and email you. Collaborators you invite as editors can also edit your shared files, upload documents and photos to your shared files, share those documents outside of Kerio, and give other users rights to view your shared files.
+  5. **Our Use of Cookies, Web Beacons, Web Analytics Services, and Links**
 
-Kerio provides you with opportunities to connect with third party applications or services. If you choose to use any such third party applications or services, we may facilitate sharing of your information including your username and documents you choose to use with those applications and services and such third parties may contact you directly as necessary. Your use of such applications and services is not governed by Kerio’s Terms of Use or Privacy Policy. Kerio does not control the applications or services of those third parties or how they use your information and documents. Be sure to review the terms and the privacy policies of those third parties before using their applications or services.
+    * **Cookies**. Many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personal information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. We also may use cookies to offer you products, programs, or services. You have many choices with regards to the management of cookies on your computer. All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies, please consult the privacy features in your browser.
+    * **Web Beacons.** Our Company and third parties may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These “web beacons” may be used to deliver cookies that conform to our Company’s cookie requirements.
+    * **Web Analytics Services.** We use Google Analytics, a service for the marketing analysis of the site provided by Google, Inc. Google Analytics uses cookies to allow us to see how you use our site so we can improve your experience. Google’s ability to use and share information collected by Google Analytics about your visits to the site is restricted by the Google Analytics Terms of Use available at <http://www.google.com/analytics/terms/us.html> and the Google Privacy Policy available at <http://www.google.com/policies/privacy/>. You can prevent Google Analytics from recognizing you on return visits to the site by disabling cookies in your browser. If you prefer to not have data reported by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on available at <https://tools.google.com/dlpage/gaoptout>.
+    * **Links**. We may create links to other web sites. We will make a reasonable effort to link only to sites that meet similar standards for maintaining each individual’s right to privacy. However, many other sites that are not associated with or authorized by our Company may have links leading to our site. Our Company cannot control these links and we are not responsible for any content appearing on these sites. Since this website does not control the privacy policies of third parties, you are subject to the privacy practices of that third party. We encourage you to ask questions before you disclose any personal information to others.
+    * **Other**. Our Company websites may use third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements and web usage. This Privacy Policy does not cover any use of information that such third parties may have collected from you or the methods used by the third parties to collect that information.
+  6. **Our Retention of your Personal Information**
 
-Notwithstanding anything in this Privacy Policy to the contrary, Kerio reserves the right, unless limited by applicable law, to share any information we have collected about you or that you have submitted: (1) in order to comply with a law or legal request or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property; (3) if we believe it is necessary to investigate, prevent, or take action regarding situations that involve significant abuse of our Websites or our Products and Services (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to our affiliated companies (in which case we will require such entities to honor this Privacy Policy); (5) if we are acquired by or merged with another entity; and (6) to enforce our agreements, terms of use and policies.
+We will retain any personal information only for as long as is necessary to fulfill the business purpose it was collected. We will also retain and use your personal information for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-## Public Areas
+  7. **International Transfers of your Personal Information**
 
-Your use of areas of our Websites or within our Products and Services that are intended for interaction with other users (e.g., product forums, message boards, and other online forums) may allow you to post personal information. By choosing to use these areas, you understand and agree that anyone may access, use, and disclose any personal information that you post to those areas.
+Information collected from you may be stored and processed in the United States or any other country in which our Company or agents or contractors maintain facilities, and by accessing our sites and using our services, you consent to any such transfer of information outside of your country. European Union or Swiss individuals may refer to the Privacy Shield Statement below with regard to the transfer of their personal data. 
 
-## Security
+  8. **Your Access to and Updating of your Personal Information**
 
-Kerio takes reasonable steps to protect information we collect from you to prevent loss, misuse and unauthorized access, disclosure, alteration, and destruction. In addition, highly confidential Personal Information such as credit card number and password that we request from you on our Websites are protected with encryption, such as Secured Socket Layer (SSL) protocol, during transmission over the Internet.
+Reasonable access to your personal information may be provided at no cost upon request made to our Company at the contact information provided below. If access cannot be provided within that time frame, our Company will provide the requesting party a date when the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied. 
 
-The servers on which information is stored are kept in a controlled environment with limited access. While we take reasonable efforts to guard Personal Information we knowingly collect directly from you, no security system is impenetrable. In addition, we cannot guarantee that any passively-collected personal information you choose to include in documents you store on our systems are maintained at adequate levels of protection to meet specific needs or obligations you may have relating to that information.
+  9. **Children’s Privacy**
 
-Your account information and access to our Services is accessible only through the use of an individual user ID and password. To protect the confidentiality of Personal Information, you must keep your password confidential and not disclose it to any other person. Please advise us immediately if you believe your password has been misused. In addition, always logout and close your browser when you finish your session. Please note that we will never ask you to disclose your password in an unsolicited phone call or email.
+Because of the nature of our business, our services are not designed to appeal to minors. We do not knowingly attempt to solicit or receive any information from anyone under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us immediately. 
 
-When you provide us with a credit card number or other financial information, Kerio will take commercially reasonable steps to protect this information through a secure connection, however, no data transmission over the Internet can be guaranteed to be 100% secure.
+  10. **Your California Privacy Rights**
 
-## Our Policy Toward Children
+Our Company does not currently respond to browser “Do Not Track” (DNT) signals or other mechanisms. Third parties may collect personal information about your online activities over time and across sites when you visit the Site or use the Service. 
 
-Our Products and Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [privacy@kerio.com](mailto:privacy@kerio.com). If we become aware that a child under 13 has provided us with Personal Information, we will take steps to delete such information from our files.
+If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding our disclosure of personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please contact us by sending an e-mail to [privacy@gfisoftware.com](mailto:privacy@skyvera.com "Opens in a new window"). 
 
-## Opt-Out
+Our site, products, and services are not intended to appeal to minors. However, if you are a California resident under the age of 18, and a registered user of our Site or Service, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an e-mail with a detailed description of the specific content or information to [privacy@gfisoftware.com](mailto:privacy@skyvera.com "Opens in a new window"). 
 
-Kerio may send you communications or data regarding our Websites and Products and Services, including but not limited to (i) notices about your usage thereof, including any violations of use, (ii) updates, and (iii) promotional information and materials regarding our Products and Services. You may opt-out of receiving promotional emails from Kerio by following the opt-out instructions provided in those emails or by emailing [privacy@kerio.com](mailto:privacy@kerio.com). Even if you Opt-Out, we reserve the right to send you administrative messages relating to our Website (e.g., about changes to this Privacy Policy or our Terms of Use), to contact you regarding orders you have placed (e.g., order confirmations and shipment tracking information), and with respect to such orders, to share your information with our agents as discussed above.
+Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested. 
 
-## Enforcement
+Under California law, California residents who have an established business relationship with us may opt-out of our disclosing personal information about them to third parties for their marketing purposes. 
 
-If you have any questions about this Privacy Policy, please contact our General Counsel (Legal Department) at [privacy@kerio.com](mailto:privacy@kerio.com). If your inquiry has not been satisfactorily addressed, you should then contact our dispute resolution provider JAMS ([http://www.JAMSadr.com](http://www.jamsadr.com/)). JAMS provides arbitration and mediation services.
+  11. **Changes to our Privacy Policy**
 
-## Contact Us
+Our Company may amend this Privacy Policy at any time by posting a new version. It is your responsibility to review this Privacy Policy periodically as your continued use of this website represents your agreement with the then-current Privacy Policy. 
 
-If you need to contact a Kerio Technologies Inc. representative in the U.S. for any reason, you can reach us by phone at: 1-408-496-4500, or by fax at: 1-408-496-6902. Our postal address is: Kerio Technologies, Inc., 111 North Market Street, 6th Floor, San Jose, CA 95113, USA. Our local representatives can be found on our Website at [http://www.kerio.com/company/locations](http://www.kerio.com/company).
+  12. **Contacting Us**
 
-_This Privacy Policy was last updated December 15, 2012._
+If you have any questions about this Privacy Policy, the practices or concerns of this site, please contact our Privacy Officer at: [privacy@gfisoftware.com](mailto:privacy@skyvera.com "Opens in a new window"). 
+
+
+
+
+## **Privacy Shield Statement**
+
+GFI USA, Inc., Kerio Technologies Inc., and Exinda Inc. (collectively the “GFI Corporate Group”) comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. 
+
+The GFI Corporate Group has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>. This Privacy Statement outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information. 
+
+**A) Definitions**
+
+“Personal Data” means information that (1)is transferred from the EU/EEA or Switzerland to the United States; (2) is recorded in any form; (3) is about, or pertains to a specific individual; and (4) can be linked to that individual. 
+
+“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health. 
+
+**B) Principles**
+
+The GFI Corporate Group may receive Personal Data from its own personnel as well as from its affiliates and other parties located in the EU/EEA. Such information may contain, but is not limited to name (fist and last name), position, address, email address, phone number, login credentials, human resources data and transaction information and may be about customers, clients of customers, business partners, acquisition targets, potential buyers consultants, employees, and candidates for employment and includes information recorded on various media as well as electronic data. 
+
+Other than its own human resources data, the GFI Corporate Group generally does not collect Personal Data directly from individuals. The GFI Corporate Group, however, acting as a data processor may receive Personal Data via its customers. The GFI Corporate Group executes data processing agreements with such customers which set out the parties’ obligations and responsibilities to comply with the Principles. The GFI Corporate Group will cooperate with its customers to enable them to comply with the Principles, to the extent a Principle is applicable to the GFI Corporate Group. 
+
+Whenever the GFI Corporate Group collects Personal Data directly from individuals, the GFI Corporate Group complies with the Principles: 
+
+  1. **Notice**. We shall inform an individual of the purpose for which we collect and use their Personal Data and the types of third parties to which the GFI Corporate Group discloses or may disclose that Personal Data. The GFI Corporate Group shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Data. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Data to the GFI Corporate Group, or as soon as practicable thereafter, and in any event before the GFI Corporate Group uses or discloses the Personal Data for a purpose other than for which it was originally collected. The GFI Corporate Group may be required to disclose Personal Data in response to lawful request by public authorities, including to meet national security or law enforcement requirements. 
+
+  2. **Choice**. Individuals have the opportunity to choose (opt out) whether their Personal Data is (1) to be disclosed to a non-Agent third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual by contacting our Data Protection Officer via email at [privacy@GFIsoftware.com](mailto:privacy@GFIsoftware.com "Opens in a new window"). For Sensitive Personal Information, The GFI Corporate Group will give individuals the opportunity to affirmatively or explicitly (opt in) consent to the disclosure of the information to a non-Agent third party or for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. The GFI Corporate Group shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information. Agents, technology vendors and/or contractors of the GFI Corporate Group or affiliated companies may have access to an individual’s Personal Data on a need to know basis for the purpose of performing services on behalf of the GFI Corporate Group or providing or enabling elements of the services. All such agents, technology vendors and contractors who have access to such information are contractually required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for the GFI Corporate Group or as otherwise required by law. 
+
+  3. **Accountability for Onward Transfer.** Prior to disclosing Personal Data to a third party, we shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. The GFI Corporate Group shall ensure that any third party to which Personal Data may be disclosed subscribes to the Principles or is subject to laws providing the same level of privacy protection as is required by the Principles and agrees in writing to provide an adequate level of privacy protection. The GFI Corporate Group may be held responsible in cases of onward transfers to third parties. 
+
+  4. **Data Security.** We shall take reasonable steps to protect the Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. The GFI Corporate Group has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the Personal Data from loss, misuse, unauthorized access or disclosure, alteration or destruction. However, the GFI Corporate Group cannot guarantee the security of Personal Data on or transmitted via the Internet. 
+
+  5. **Data Integrity and Purpose Limitation.** We shall only process Personal Data in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, the GFI Corporate Group shall take reasonable steps to ensure that Personal Data is accurate, complete, current and reliable for its intended use. 
+
+  6. **Access and Recourse.** We acknowledge the individual’s right to access their Personal Data. We shall allow an individual access to their Personal Data and allow the individual the opportunity to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. Individuals may contact our Data Protection Officer via email to request access. In cases where the GFI Corporate Group is a Data Processor, individuals must contract the Data Controller. 
+
+  7. **Enforcement and Liability.** The Federal Trade Commission has jurisdiction over the GFI Corporate Group’s compliance with the Privacy Shield. In compliance with the EU-US Privacy Shield Principles, the GFI Corporate Group commits to resolve complaints about privacy and our collection or use of Personal Data. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact us at: 
+
+GFI Corporate Group  
+Data Protection Officer  
+401 Congress Avenue, Suite 2650  
+Austin Texas 78701 USA  
+E-mail: [privacy@gfisoftware.com](mailto:privacy@skyvera.com "Opens in a new window")
+
+    * **Human Resources Data**. If your complaint is not satisfactorily addressed by the GFI Corporate Group, and your inquiry or complaint involves human resource data, you may have your complaint considered by an independent recourse mechanism: for EU/EEA Data Subjects, a panel established by the EU data protection authorities (“DPA Panel”), and for Swiss Data Subjects, the Swiss Federal Data Protection and Information Commissioner (“FDPIC”). To do so, you should contact the state or national data protection or labor authority in the jurisdiction where you work. The GFI Corporate Group agrees to cooperate with the relevant national DPAs and to comply with the decisions of the DPA Panel and the FDPIC. The services of EU DPAs are provided at no cost to you. 
+
+    * **Non-Human Resources Data**. If you do not receive timely acknowledgment of your complaint by the GFI Corporate Group, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/ "Opens in a new window") for more information and to file a complaint. GFI CORPORATE GROUP has committed to refer unresolved privacy complaints under the Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. 
+
+Please note that if your complaint is not resolved through any of the above channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
+
+
+
+
+**C) Amendments**
+
+This Privacy Statement may be amended from time to time consistent with the requirements of the Shield Frameworks. We will post any revised policy on this website. 
+
+**D) Information Subject to Other Policies**
+
+We are committed to following the Principles for all Personal Data within the scope of the Privacy Shield Frameworks. However, certain information is subject to policies of the GFI Corporate Group that may differ in some respects from the general policies set forth in this Privacy Statement. We are committed to following the Principles for all Personal Data within the scope of the Privacy Shield Frameworks. However, certain information is subject to policies of the GFI Corporate Group that may differ in some respects from the general policies set forth in this Privacy Statement. 
+
+Last Updated: April 2, 2018. 
