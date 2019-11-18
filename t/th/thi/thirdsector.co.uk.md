@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirdsector.co.uk privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612060252id_/http%3A//www.haymarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdsector.co.uk privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118144103id_/http%3A//www.haymarket.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Notice - Haymarket
 
@@ -131,51 +131,57 @@ We will use your personal data for the purposes of fulfilling a product or servi
 
 We use essential and functional cookies to ensure our websites function properly. To learn more please see our Cookie Notice.
 
+### Live events
+
+Some of our brands will organise live events aimed at delivering the latest information, insight and opinions from a wide range of industry sectors.
+
+We will use the personal details you provide us when you register to attend an event so we know who’s attending and to allow access. If you are making a group booking or booking on someone’s behalf, please ensure you have their permission to share their name and contact details with us.
+
+Photographs and video footage may be taken at our events and used in post-event publicity or future promotional material. If you don’t want to be captured in any photos or video footage, please let the photographer know on the day of the event. You can also [email us](mailto:live.eventsteam@haymarket.com?subject=Conference%20Event%20Privacy%20Query) if you believe you have been included in a photograph or video footage and object to it being used for post-event publicity or future promotional material.
+
+For some of our events, you may be asked for your badge to be scanned by our seminar hosts, sponsors and exhibitors. By doing so, you are agreeing for the basic contact details you provided us during your registration to attend this event, to be shared with them. They will use this information to contact you in future for their direct marketing purposes. Further privacy notices will be displayed on the day of the event to remind you of this activity. If you do not wish for your details to be shared in this way, then please feel free to object to your badge from being scanned.
+
+We will sometimes provide a formal meal where delegates are seated and receive table service. You are given the opportunity to inform us of any dietary requirements during the registration process. We only use this information for the purpose of your attendance at the event. To ensure we’re able to meet these requirements, we have to share this information with venues so you receive your dietary choice.
+
+For some our events, the content is spread out over a few days and some delegates are provided with accommodation at venues hosting the event. To ensure a seamless professional service, we share personal details with venues to ensure rooms are booked under their name, and to enable easy check-in.
+
+You may voluntarily inform us of specific accessibility requirements that help us ensure the service we provide you is specific to your needs. We only use this information for the purpose of your attendance at the event, and share it with venues hosting the event to help meet these requirements (e.g. table plans, specific accommodation).
+
+We will also share the delegate list with the venue for fire regulation and safety purposes.
+
+Please find below further information about how your personal details will be used when you register to attend one of our conferences, awards or forum events.
+
 #### Conference events
 
-Please find below information about how your personal data will be used when you register to attend one of our conferences.
+These events are a chance for delegates and other visitors to meet, learn and discuss the latest topics and trends with other attendees and industry service suppliers.
 
-If you are making a group booking please ensure you have permission from others to share their name and contact details with us.
-
-We will share your details (name, job title and company name ONLY) with events sponsors, to ensure that any content and activity on the day is tailored specifically to the audience attending. If you would prefer us not to do this please [email us](mailto:live.eventsteam@haymarket.com). We will share the delegate list with the venue for fire regulation purposes.
-
-Exhibitors at stands or seminar hosts/sponsors may ask to scan your badge at the event to gain your consent to contact you in future for their direct marketing purposes. If you would prefer your contact details are not shared, you can choose not to have your visitor pass scanned at any stand or seminar.
-
-Please note that photographs and video footage may be taken at our events and used in post-event publicity. If you have any objection to this please [email us](mailto:live.eventsteam@haymarket.com?subject=Conference%20Event%20Privacy%20Query)
+We will share your details (name, job title and company name ONLY) with events sponsors and speakers, to help them prepare for networking opportunities and to ensure that any content and activity on the day is tailored specifically to the audience attending. If you would prefer us not to do this please [email us](mailto:live.eventsteam@haymarket.com).
 
 #### Award events
 
-Please find below information about how your personal data may be used when you register to attend one of our Awards.
+These events are a chance to celebrate the achievements of both our clients and customers, which will involve the disclosure of some personal information.
 
-If you are making a group booking please ensure you have permission from others to share their name and contact details with us.
-
-We will share your details (full name & company name ONLY) with the Award sponsors and with other attendees via an Award brochure, an attendee list, table plan and/or screen presentation. Please [email us](mailto:live.eventsteam@haymarket.com?subject=Awards%20Event%20Privacy%20Query) if you would prefer your name not to appear.
-
-We will also share the attendee list with the venue for fire regulation purposes.
-
-Please note that photographs and video footage may be taken at this event for use in post-event publicity. If you have any objection to this please [email us](mailto:live.eventsteam@haymarket.com).
+Your details (name, job title and company name) will be shared with other attendees, including award sponsors, within an award brochure, event guide, table plan and screen presentation. Please [email us](mailto:live.eventsteam@haymarket.com?subject=Awards%20Event%20Privacy%20Query) if you would prefer your name not to appear.
 
 #### Forum events
 
-Please find below information about how your personal data may be used when you register to attend one of our Business Forums.
-
-These events are specifically designed to invite delegates to meet and network with specific service suppliers. We believe it is in everyone’s interests for business contact details to be shared between delegates and suppliers. You will always be informed of this. We will also need to share basic details to facilitate your travel and accommodation.
-
-Please note that photographs and video footage may be taken at this event for use in post-event publicity.
+These events are specifically designed to invite delegates to tailored supplier meetings and to network with like-minded people. We believe it is in everyone’s interests for business contact details to be shared between delegates and suppliers. We will inform you about who the service suppliers are during the registration stage and when organising tailored supplier meetings.
 
 If you have any queries or concerns please [email us](mailto:live.eventsteam@haymarket.com).
 
-#### Sponsored content
+### Sponsored content
 
-Our Haymarket Business Media brands often provide sponsored content, such as webinars, expert reports, whitepapers, surveys or events.
+Our Haymarket Business Media brands often provide sponsored content, such as webinars, expert reports, whitepapers, surveys or events. Before being able to access any content, we ask that you create an free online account first. We collect basic work contact details and other information about your company and job role.
 
-We will share the details you provide to access this specific content with the named sponsor. However, this is always your choice and you will be provided with a clear opportunity to indicate if you would prefer us not to share this information.
+When accessing specific content that has been sponsored by another organisation, we will also ask you to complete a short form requesting your permission to share your details with the sponsor. We will share basic work contact details and some of the other information you provided when you created your account, or collected subsequently when accessing the specific content. We will always provide a link to the sponsor’s full privacy notice so you are fully aware of how they will process your personal data.
 
-#### Job seeking service
+Sharing your details with the content sponsor is always your choice and you will always be provided with a clear opportunity to indicate if you would prefer us not to share this information.
 
-Please find below information about how we use your personal data when you use our job seeking services. These services allow you to receive job alerts, upload your CV and share your details with recruiters.
+### Job seeking service
 
-If you apply for a job, your details will be shared with the recruiter promoting the specific role. At your request we will share your data with Top CV and/or allow recruiters to access your CV.
+Some of our Haymarket Business Media brands provide job seeking services that allow you to apply for jobs, receive job alerts and other job related emails, upload your CV, and share your details with recruiters via our searchable CV database. Your CV will only be included in our CV database with your permission. We ask for your permission when you upload your CV while applying for a specific job or creating an online account. You can subsequently choose to be removed from our CV database at anytime by changing your permission settings in your account area, or by [emailing us](mailto:onlinesupport@haymarket.com) directly.
+
+If you apply for a job, your details will be shared with the recruiter promoting the specific role. At your request we will share your CV with Top CV so they contact you about receiving a free CV review.
 
 ### Marketing communications
 
@@ -213,7 +219,7 @@ If you wish to stop ALL marketing communications from Haymarket Media Group plea
 
 
 If you wish to contact us directly about marketing communications you are receiving, please use one of the contact details below:  
- **Write to us** : Data Protection Officer, Haymarket Media Group, Bridge House, 69 London Road, Twickenham TW1 3SP  
+**Write to us** : Data Protection Officer, Haymarket Media Group, Bridge House, 69 London Road, Twickenham TW1 3SP  
 **Call us** : 020 8267 5000 (and ask for the Data Protection Officer)  
 **Email our Data Protection Officer** : [data.protection@haymarket.com](mailto:data.protection@haymarket.com)
 
@@ -429,7 +435,7 @@ We use Skimlinks to help us attribute traffic.
 
 **Dax**  
 We use Dax to customise the Radio advertising provided.  
- 
+
 
 #### External web services
 
