@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweden.se privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418220349id_/https%3A//si.se/app/uploads/2018/06/si-integritetspolicy-slutversion-eng.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweden.se privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118214140id_/https%3A//si.se/app/uploads/2018/06/si-integritetspolicy-slutversion-eng.pdf) for the most accurate reproduction.*
 
 # Privacy policy
 
