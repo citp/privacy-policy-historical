@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factorio.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622004135id_/https%3A//www.factorio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factorio.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118060100id_/https%3A//www.factorio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Factorio
 
@@ -55,7 +55,7 @@ Registered Seat: 3 Gower Street, London, WC1E 6HA
 
   * When you download Factorio or make use of any automatic update of the game, we process the time and the type of download and your username for the purposes of monitoring the demand for the game and also for the purposes of tackling the cases of illegal downloading.
 
-  * In connection with emailing we intend to process only your email address. In case you are not a Factorio player or a registered user, you will be required to give consent to the processing of your address in order to receive the newsletter. You can always unsubscribe easily by clicking the appropriate link included in each e-mail or by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * In connection with emailing we intend to process only your email address. In case you are not a Factorio player or a registered user, you will be required to give consent to the processing of your address in order to receive the newsletter. You can always unsubscribe easily by clicking the appropriate link included in each e-mail or by sending an e-mail to support@factorio.com. 
 
   * If you contact us with a question or a request, we can process your e-mail address and other personal data you decide to provide us with. Please be careful about your privacy and do not include unnecessary sensitive information. 
 
@@ -140,7 +140,7 @@ Registered Seat: 3 Gower Street, London, WC1E 6HA
   
 
 
-  * We will do the utmost to assist you with exercising your rights, to answer your questions, meet your request and solve all complaints. If you need our assistance, please send us an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and specify how we can help you or what can we do for you. Please always contact us from the e-mail address you normally use when using our services so we can make sure that your personal data are not disclosed to any unauthorised persons. 
+  * We will do the utmost to assist you with exercising your rights, to answer your questions, meet your request and solve all complaints. If you need our assistance, please send us an email to support@factorio.com and specify how we can help you or what can we do for you. Please always contact us from the e-mail address you normally use when using our services so we can make sure that your personal data are not disclosed to any unauthorised persons. 
 
   * If you are not satisfied with the way we have dealt with your request, you have the right to file a complaint with the Information Commissioners Office on telephone number 03031231113 or via email available at https://ico.org.uk/global/contact-us/email/ or at the Information Commissioner's Office based at Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England.
 
@@ -168,7 +168,7 @@ Registered Seat: 3 Gower Street, London, WC1E 6HA
 
     * We will be sending our newsletter in reasonable intervals to make you curious rather than annoyed.
 
-  * Your demands and questions concerning our mailing activities are always welcomed at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5f2c2a2f2f302d2b1f393e3c2b302d3630713c3032). Do not hesitate to contact us if you need anything. 
+  * Your demands and questions concerning our mailing activities are always welcomed at [support@factorio.com](mailto:support@factorio.com). Do not hesitate to contact us if you need anything. 
 
 
 
@@ -193,7 +193,7 @@ Registered Seat: 3 Gower Street, London, WC1E 6HA
 
 **IF YOU HAVE ANY QUESTIONS...**
 
-  * If you require any more information or details regarding the privacy policy please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+  * If you require any more information or details regarding the privacy policy please contact us at support@factorio.com.
 
 
 
