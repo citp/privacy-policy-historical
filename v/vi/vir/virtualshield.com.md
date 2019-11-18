@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualshield.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401231159id_/https%3A//virtualshield.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualshield.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118215435id_/https%3A//virtualshield.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VirtualShield
 
@@ -30,7 +30,7 @@ This Log Data may include information such as your computer’s Internet Protoco
 
 When you access the Service by or through a mobile device, this Log Data may include information such as the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use and other statistics.
 
-In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information. Feel free to opt out of Google Analytics by [using their plugin](http://tools.google.com/dlpage/gaoptout).
+In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this type of information in order to increase our Service’s functionality. These third party service providers have their own privacy policies addressing how they use such information. Feel free to opt out of Google Analytics by [using their plugin](https://tools.google.com/dlpage/gaoptout).
 
 ### Cookies
 
