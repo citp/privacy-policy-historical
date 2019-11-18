@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 90daykorean.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417114935id_/https%3A//www.90daykorean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 90daykorean.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118010749id_/https%3A//www.90daykorean.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 90 Day Korean®
+# Privacy Policy for 90 Day Korean Online Language Learning
 
 ** ** **Privacy Policy             **
 
@@ -12,11 +12,11 @@ We take your privacy seriously and we have drafted this policy to let you know w
 
 In general, we only use your personal information for the delivery of our services and to send you information about our services. We never sell or giveaway your personal information.
 
-**1\. Staying Anonymous**
+ **1\. Staying Anonymous**
 
 You can browse our online services anonymously. However, if you request information or sign up for/purchase a subscription or free lesson, you will need to identify yourself and at that point we will start collecting your personal information. If you do not give personal information to us, it will affect our ability to provide you with requested information or to deliver our products or services.
 
-**2\. Collecting personal information**
+ **2\. Collecting personal information**
 
 At all times we aim to only collect the minimum information we need for the services we are providing. For example, if you sign up to a free lesson, we will collect and use your email address. As you would expect, the more involved you are with us, the more information about you we will collect.
 
@@ -34,7 +34,7 @@ We may process the following categories of personal information about you:
 
 
 
-**3\. Collecting information from third parties**
+ **3\. Collecting information from third parties**
 
 As discussed above, we collect personal information about you when you give it to us and when it is collected by our website however we may also collect personal information that is given to us or available to us by a third party (for example, information that you have made available on a public platform like a discussion site).
 
@@ -42,19 +42,19 @@ We may receive data from third parties such as analytics providers and advertisi
 
 This information forms part of the personal information described in this policy. We will not intentionally collect personal information that is unintentionally disclosed.
 
-**4\. Collecting sensitive information**
+ **4\. Collecting sensitive information**
 
 We do not intend to collect sensitive information about you and request you never disclose information about your health, racial or ethnic origin, political opinions, religious beliefs or sexual orientation on our website or any blog or social media account associated with our website or business. If you do post this information on any of our platforms (for instance you might accidently tell someone in a discussion that you ethnicity is Korean), we will not intentionally store this information on our file however it may be stored on the platform you posted it on and we have no control over such storage.
 
-**5\. Children’s privacy**
+ **5\. Children’s privacy**
 
 Our services are not designed to be used by minors under the age of 18 and we do not intend to collect information about such minors. If you have a child who you would like to use our services, you will need to set up an account in your own name and then supervise their access to your account. We will make reasonable endeavours to delete any details of users under the age of 18 years where a parent or guardian has notified us that any such details have been obtained. By providing us with your data, you warrant to us you are over the age of 18.
 
-**6\. Reviews**
+ **6\. Reviews**
 
 If you provide us with a review or testimonial, you give us your consent to use your name, likeness, web address, product you are reviewing and the date of service delivery to be displayed on our website or in our other marketing material, together with the content of the testimonial that you provide. If you provide your review or testimonial by YouTube clip, you also give your consent for us to use this. We may store and/or use your review for as long as the information is relevant to our business. We process this information based on your consent which you may withdraw.
 
-**7\. Marketing Communications**
+ **7\. Marketing Communications**
 
 Our lawful ground of processing your personal data to send you marketing communications is either your consent or our legitimate interests (namely to grow our business). Sometimes we may recommend sharing your information with a third party for their marketing purposes. Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
 
@@ -62,13 +62,13 @@ You can ask us or third parties to stop sending you marketing messages at any ti
 
 If you opt out of receiving marketing communications, this opt-out does not apply to personal data provided for other transactions such as purchases.
 
-**8\. Social Networking Services and links to other websites**
+ **8\. Social Networking Services and links to other websites**
 
 You can connect with us via our social media pages for example on Facebook, YouTube and Twitter in accordance with our Rules of Conduct for Social Media. We may also provide links to other websites or use social networking services to communicate with the public about our work.
 
 When you communicate with us using these services we may collect your personal information. The social networking service will also handle your personal information for its own purposes and have their own privacy policies. You should become familiar with the privacy policies of any service you use.
 
-**9\. How we use Cookies and other identifiers**
+ **9\. How we use Cookies and other identifiers**
 
 We use a range of tools provided by third parties including our website host, third party service providers and search engine browsers to collect or view access and traffic information for statistical, reporting and maintenance purposes. Third party providers have their own privacy policies. We also may also use tracking pixels, cookies and session tools to improve your experience when accessing our online services.
 
@@ -85,7 +85,7 @@ The kind of information that can be collected includes:
 
 We use the information to help to track your use of our online services to improve your user experience and the quality of our services.
 
-**10\. Use and disclosure of personal information**
+ **10\. Use and disclosure of personal information**
 
 In summary, as a legitimate business interest, the personal information we collect about you is used:
 
@@ -120,7 +120,7 @@ We may also disclose your information to:
 
 
 
-**11\. Security and overseas recipients**
+ **11\. Security and overseas recipients**
 
 We are committed to ensuring that your information is secure to industry standards however no system can be 100% secure and, provided we have acted in accordance with this policy, we are not responsible for loss you may suffer should your personal information be unlawfully accessed.
 
@@ -132,7 +132,7 @@ We have procedures in place to deal with any suspected personal data breach and 
 
 All hard copy records we keep are stored in Korea.
 
-**12\. Opt-out/ unsubscribe**
+ **12\. Opt-out/ unsubscribe**
 
 We will provide you with the opportunity to opt-in to receive information about our products or services. You can change your preferences at any time using the unsubscribe options in the emails you receive.
 
@@ -140,7 +140,7 @@ If you would like to delete your account with us you may do so by contacting us 
 
 If you continue to receive communications you have unsubscribed from, please contact us via email at support@90daykorean.com and we will remedy the problem.
 
-**13\. Data retention**
+ **13\. Data retention**
 
 We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
 
@@ -150,15 +150,15 @@ For tax purposes the law requires us to keep basic information about our custome
 
 In some circumstances we may anonymise your personal data for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
 
-**14\. Third Party Links**
+ **14\. Third Party Links**
 
 Our website(s) may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-**15\. Updates**
+ **15\. Updates**
 
 We regularly review and may update our privacy policy from time to time. The updated provisions will apply from the date they are posted on our website, so we recommend that you re-visit this privacy policy when you use our online services.
 
-**16\. Accessing and correcting your personal information – Your legal rights**
+ **16\. Accessing and correcting your personal information – Your legal rights**
 
 Under data protection laws you have rights (depending on your country of origin) in relation to your personal data that include the right to request access, correction, erasure, restriction, transfer, to object to processing, to portability of data and (where the lawful ground of processing is consent) to withdraw consent.
 
