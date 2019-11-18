@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharewareonsale.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413104819id_/https%3A//sharewareonsale.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharewareonsale.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118173430id_/https%3A//sharewareonsale.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | SharewareOnSale
 
