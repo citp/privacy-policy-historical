@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the failmid.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223122639id_/https%3A//sharewareonsale.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the failmid.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118173430id_/https%3A//sharewareonsale.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | SharewareOnSale
 
