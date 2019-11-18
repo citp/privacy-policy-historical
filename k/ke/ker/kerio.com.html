@@ -1,539 +1,1084 @@
-<!--The following is the downloaded HTML source of the kerio.com privacy policy that was archived on 2017-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20171127070905id_/http%3A//www.kerio.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kerio.com privacy policy that was archived on 2019-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191118150944id_/https%3A//www.gfi.com/legal/history/global-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="
-not-ie" lang="en" dir="ltr"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-1044.min.js"></script><script async="" src="http://www.kerio.com/sites/default/files/googleanalytics/analytics.js?ozshiu"></script><script>console.log( 'Debug Objects: ' );</script><script>console.log( 'Referred: ' );</script>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQUEVFNbGwEIXFVVAQQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){g.push(t),h&&(b?b.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,y="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(y,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===y||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
-<link rel="shortcut icon" href="http://www.kerio.com/favicon.ico" type="image/vnd.microsoft.icon">
+<!DOCTYPE html><html lang="en" class=" "><!--<![endif]--><head><style type="text/css">.swal-icon--error{border-color:#f27474;-webkit-animation:animateErrorIcon .5s;animation:animateErrorIcon .5s}.swal-icon--error__x-mark{position:relative;display:block;-webkit-animation:animateXMark .5s;animation:animateXMark .5s}.swal-icon--error__line{position:absolute;height:5px;width:47px;background-color:#f27474;display:block;top:37px;border-radius:2px}.swal-icon--error__line--left{-webkit-transform:rotate(45deg);transform:rotate(45deg);left:17px}.swal-icon--error__line--right{-webkit-transform:rotate(-45deg);transform:rotate(-45deg);right:16px}@-webkit-keyframes animateErrorIcon{0%{-webkit-transform:rotateX(100deg);transform:rotateX(100deg);opacity:0}to{-webkit-transform:rotateX(0deg);transform:rotateX(0deg);opacity:1}}@keyframes animateErrorIcon{0%{-webkit-transform:rotateX(100deg);transform:rotateX(100deg);opacity:0}to{-webkit-transform:rotateX(0deg);transform:rotateX(0deg);opacity:1}}@-webkit-keyframes animateXMark{0%{-webkit-transform:scale(.4);transform:scale(.4);margin-top:26px;opacity:0}50%{-webkit-transform:scale(.4);transform:scale(.4);margin-top:26px;opacity:0}80%{-webkit-transform:scale(1.15);transform:scale(1.15);margin-top:-6px}to{-webkit-transform:scale(1);transform:scale(1);margin-top:0;opacity:1}}@keyframes animateXMark{0%{-webkit-transform:scale(.4);transform:scale(.4);margin-top:26px;opacity:0}50%{-webkit-transform:scale(.4);transform:scale(.4);margin-top:26px;opacity:0}80%{-webkit-transform:scale(1.15);transform:scale(1.15);margin-top:-6px}to{-webkit-transform:scale(1);transform:scale(1);margin-top:0;opacity:1}}.swal-icon--warning{border-color:#f8bb86;-webkit-animation:pulseWarning .75s infinite alternate;animation:pulseWarning .75s infinite alternate}.swal-icon--warning__body{width:5px;height:47px;top:10px;border-radius:2px;margin-left:-2px}.swal-icon--warning__body,.swal-icon--warning__dot{position:absolute;left:50%;background-color:#f8bb86}.swal-icon--warning__dot{width:7px;height:7px;border-radius:50%;margin-left:-4px;bottom:-11px}@-webkit-keyframes pulseWarning{0%{border-color:#f8d486}to{border-color:#f8bb86}}@keyframes pulseWarning{0%{border-color:#f8d486}to{border-color:#f8bb86}}.swal-icon--success{border-color:#a5dc86}.swal-icon--success:after,.swal-icon--success:before{content:"";border-radius:50%;position:absolute;width:60px;height:120px;background:#fff;-webkit-transform:rotate(45deg);transform:rotate(45deg)}.swal-icon--success:before{border-radius:120px 0 0 120px;top:-7px;left:-33px;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:60px 60px;transform-origin:60px 60px}.swal-icon--success:after{border-radius:0 120px 120px 0;top:-11px;left:30px;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-transform-origin:0 60px;transform-origin:0 60px;-webkit-animation:rotatePlaceholder 4.25s ease-in;animation:rotatePlaceholder 4.25s ease-in}.swal-icon--success__ring{width:80px;height:80px;border:4px solid hsla(98,55%,69%,.2);border-radius:50%;box-sizing:content-box;position:absolute;left:-4px;top:-4px;z-index:2}.swal-icon--success__hide-corners{width:5px;height:90px;background-color:#fff;padding:1px;position:absolute;left:28px;top:8px;z-index:1;-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}.swal-icon--success__line{height:5px;background-color:#a5dc86;display:block;border-radius:2px;position:absolute;z-index:2}.swal-icon--success__line--tip{width:25px;left:14px;top:46px;-webkit-transform:rotate(45deg);transform:rotate(45deg);-webkit-animation:animateSuccessTip .75s;animation:animateSuccessTip .75s}.swal-icon--success__line--long{width:47px;right:8px;top:38px;-webkit-transform:rotate(-45deg);transform:rotate(-45deg);-webkit-animation:animateSuccessLong .75s;animation:animateSuccessLong .75s}@-webkit-keyframes rotatePlaceholder{0%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}5%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}12%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}to{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}}@keyframes rotatePlaceholder{0%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}5%{-webkit-transform:rotate(-45deg);transform:rotate(-45deg)}12%{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}to{-webkit-transform:rotate(-405deg);transform:rotate(-405deg)}}@-webkit-keyframes animateSuccessTip{0%{width:0;left:1px;top:19px}54%{width:0;left:1px;top:19px}70%{width:50px;left:-8px;top:37px}84%{width:17px;left:21px;top:48px}to{width:25px;left:14px;top:45px}}@keyframes animateSuccessTip{0%{width:0;left:1px;top:19px}54%{width:0;left:1px;top:19px}70%{width:50px;left:-8px;top:37px}84%{width:17px;left:21px;top:48px}to{width:25px;left:14px;top:45px}}@-webkit-keyframes animateSuccessLong{0%{width:0;right:46px;top:54px}65%{width:0;right:46px;top:54px}84%{width:55px;right:0;top:35px}to{width:47px;right:8px;top:38px}}@keyframes animateSuccessLong{0%{width:0;right:46px;top:54px}65%{width:0;right:46px;top:54px}84%{width:55px;right:0;top:35px}to{width:47px;right:8px;top:38px}}.swal-icon--info{border-color:#c9dae1}.swal-icon--info:before{width:5px;height:29px;bottom:17px;border-radius:2px;margin-left:-2px}.swal-icon--info:after,.swal-icon--info:before{content:"";position:absolute;left:50%;background-color:#c9dae1}.swal-icon--info:after{width:7px;height:7px;border-radius:50%;margin-left:-3px;top:19px}.swal-icon{width:80px;height:80px;border-width:4px;border-style:solid;border-radius:50%;padding:0;position:relative;box-sizing:content-box;margin:20px auto}.swal-icon:first-child{margin-top:32px}.swal-icon--custom{width:auto;height:auto;max-width:100%;border:none;border-radius:0}.swal-icon img{max-width:100%;max-height:100%}.swal-title{color:rgba(0,0,0,.65);font-weight:600;text-transform:none;position:relative;display:block;padding:13px 16px;font-size:27px;line-height:normal;text-align:center;margin-bottom:0}.swal-title:first-child{margin-top:26px}.swal-title:not(:first-child){padding-bottom:0}.swal-title:not(:last-child){margin-bottom:13px}.swal-text{font-size:16px;position:relative;float:none;line-height:normal;vertical-align:top;text-align:left;display:inline-block;margin:0;padding:0 10px;font-weight:400;color:rgba(0,0,0,.64);max-width:calc(100% - 20px);overflow-wrap:break-word;box-sizing:border-box}.swal-text:first-child{margin-top:45px}.swal-text:last-child{margin-bottom:45px}.swal-footer{text-align:right;padding-top:13px;margin-top:13px;padding:13px 16px;border-radius:inherit;border-top-left-radius:0;border-top-right-radius:0}.swal-button-container{margin:5px;display:inline-block;position:relative}.swal-button{background-color:#7cd1f9;color:#fff;border:none;box-shadow:none;border-radius:5px;font-weight:600;font-size:14px;padding:10px 24px;margin:0;cursor:pointer}.swal-button[not:disabled]:hover{background-color:#78cbf2}.swal-button:active{background-color:#70bce0}.swal-button:focus{outline:none;box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(43,114,165,.29)}.swal-button[disabled]{opacity:.5;cursor:default}.swal-button::-moz-focus-inner{border:0}.swal-button--cancel{color:#555;background-color:#efefef}.swal-button--cancel[not:disabled]:hover{background-color:#e8e8e8}.swal-button--cancel:active{background-color:#d7d7d7}.swal-button--cancel:focus{box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(116,136,150,.29)}.swal-button--danger{background-color:#e64942}.swal-button--danger[not:disabled]:hover{background-color:#df4740}.swal-button--danger:active{background-color:#cf423b}.swal-button--danger:focus{box-shadow:0 0 0 1px #fff,0 0 0 3px rgba(165,43,43,.29)}.swal-content{padding:0 20px;margin-top:20px;font-size:medium}.swal-content:last-child{margin-bottom:20px}.swal-content__input,.swal-content__textarea{-webkit-appearance:none;background-color:#fff;border:none;font-size:14px;display:block;box-sizing:border-box;width:100%;border:1px solid rgba(0,0,0,.14);padding:10px 13px;border-radius:2px;transition:border-color .2s}.swal-content__input:focus,.swal-content__textarea:focus{outline:none;border-color:#6db8ff}.swal-content__textarea{resize:vertical}.swal-button--loading{color:transparent}.swal-button--loading~.swal-button__loader{opacity:1}.swal-button__loader{position:absolute;height:auto;width:43px;z-index:2;left:50%;top:50%;-webkit-transform:translateX(-50%) translateY(-50%);transform:translateX(-50%) translateY(-50%);text-align:center;pointer-events:none;opacity:0}.swal-button__loader div{display:inline-block;float:none;vertical-align:baseline;width:9px;height:9px;padding:0;border:none;margin:2px;opacity:.4;border-radius:7px;background-color:hsla(0,0%,100%,.9);transition:background .2s;-webkit-animation:swal-loading-anim 1s infinite;animation:swal-loading-anim 1s infinite}.swal-button__loader div:nth-child(3n+2){-webkit-animation-delay:.15s;animation-delay:.15s}.swal-button__loader div:nth-child(3n+3){-webkit-animation-delay:.3s;animation-delay:.3s}@-webkit-keyframes swal-loading-anim{0%{opacity:.4}20%{opacity:.4}50%{opacity:1}to{opacity:.4}}@keyframes swal-loading-anim{0%{opacity:.4}20%{opacity:.4}50%{opacity:1}to{opacity:.4}}.swal-overlay{position:fixed;top:0;bottom:0;left:0;right:0;text-align:center;font-size:0;overflow-y:auto;background-color:rgba(0,0,0,.4);z-index:10000;pointer-events:none;opacity:0;transition:opacity .3s}.swal-overlay:before{content:" ";display:inline-block;vertical-align:middle;height:100%}.swal-overlay--show-modal{opacity:1;pointer-events:auto}.swal-overlay--show-modal .swal-modal{opacity:1;pointer-events:auto;box-sizing:border-box;-webkit-animation:showSweetAlert .3s;animation:showSweetAlert .3s;will-change:transform}.swal-modal{width:478px;opacity:0;pointer-events:none;background-color:#fff;text-align:center;border-radius:5px;position:static;margin:20px auto;display:inline-block;vertical-align:middle;-webkit-transform:scale(1);transform:scale(1);-webkit-transform-origin:50% 50%;transform-origin:50% 50%;z-index:10001;transition:opacity .2s,-webkit-transform .3s;transition:transform .3s,opacity .2s;transition:transform .3s,opacity .2s,-webkit-transform .3s}@media (max-width:500px){.swal-modal{width:calc(100% - 20px)}}@-webkit-keyframes showSweetAlert{0%{-webkit-transform:scale(1);transform:scale(1)}1%{-webkit-transform:scale(.5);transform:scale(.5)}45%{-webkit-transform:scale(1.05);transform:scale(1.05)}80%{-webkit-transform:scale(.95);transform:scale(.95)}to{-webkit-transform:scale(1);transform:scale(1)}}@keyframes showSweetAlert{0%{-webkit-transform:scale(1);transform:scale(1)}1%{-webkit-transform:scale(.5);transform:scale(.5)}45%{-webkit-transform:scale(1.05);transform:scale(1.05)}80%{-webkit-transform:scale(.95);transform:scale(.95)}to{-webkit-transform:scale(1);transform:scale(1)}}</style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=0">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<!-- Google Tag Manager -->
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KKJF3B"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KKJF3B');</script>
+<!-- End Google Tag Manager --><title>Global privacy policy | GFI Software</title>
+    <meta name="keywords" content="global privacy policy, legal, gfi">
+    <meta name="description" content="GFI respects your privacy. We are committed to protecting it by complying with our global privacy policy. Check out this article to learn more.">
 
-	      <script type="text/javascript">
-	      var objBlackAndWhite  = {
-					hoverEffect: true, // default true
-					// set the path to BnWWorker.js for a superfast implementation
-					webworkerPath: '',
-					// for the images with a fluid width and height 
-					responsive: true,
-					invertHoverEffect: false,
-					speed: {//this property could also be just speed: value for both fadeIn and fadeOut
-						fadeIn: 400, // 400ms for fadeIn animations
-						fadeOut: 800 // 800ms for fadeOut animations
-					}
-		    };
-		  </script>  
-	    <!--[if lt IE 9]><script src="/sites/all/themes/goodnex_sub/js/mini_html5_min.js" />
-</script><![endif]--><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<style type="text/css">.navigation > div > ul ul li:hover > a, .navigation > div > ul ul li.current-menu-item > a, .navigation > div > ul ul li.current-menu-parent > a, .navigation > div > ul ul li.current-menu-ancestor > a, .navigation > div > ul ul li.current_page_item > a, .navigation > div > ul ul li.current_page_parent > a, .navigation > div > ul ul li.current_page_ancestor > a, .simple-pricing-table.type-1 .featured .cost, .simple-pricing-table.type-2 .title, .widget_popular_posts a:hover h6, .portfolio-filter li a:hover, #sidebar .widget li a:hover, .portfolio-filter .active,  .entry-meta span:before, .entry-title h2 a:hover, #sidebar .jta-tweet-a, .entry-meta a:hover, .author-entry h5, #footer a:hover, .quote-author, .tooltip {color: #002167 !important;}</style> <style type="text/css">.navigation > div > ul > li:hover > a, .navigation > div > ul > li.current-menu-item > a, .navigation > div > ul > li.current-menu-parent > a, .navigation > div > ul > li.current-menu-ancestor > a, .navigation > div > ul > li.current_page_item > a, .navigation > div > ul > li.current_page_parent > a, .navigation > div > ul > li.current_page_ancestor > a, .scribble .projects-carousel li:hover > a:after, .simple-pricing-table.type-2 .featured .price, .scribble article:hover .project-meta:after, .simple-pricing-table .featured .button, .jta-tweet-list-controls span:hover, .simple-pricing-table.type-1 .title, .gallery-slider-nav:hover a:hover, .color-1.scribble .team-entry:hover:after, .scribble .tabs-nav .active:after, .post-slider-nav:hover a:hover, .flex-direction-nav a:hover, .portfolio-controls a:hover, .acc-trigger.active:before, .detail-box .transform, .ajax-nav li:hover > a, .jcarousel-prev:hover, .jcarousel-next:hover, .wp-pagenavi .current, .button.default:hover, .flexslider .caption, .ajax-nav .current a, ul.type-1 li:before, .quotes-nav a:hover, #back-top:hover, .dropcap.color, i.small-arrows, .curtain, .highlight, .button.default:hover	{background-color: #002167 !important; }</style> <style type="text/css">.portfolio-items article:hover .project-meta, .projects-carousel li:hover > a, .ajax-nav li:hover:before, .ajax-nav .current:before, .tabs-nav .active, .team-entry:hover{border-color: #002167 }</style> <style type="text/css">::-moz-selection {background-color: #002167 }</style> <style type="text/css">::selection {background-color: #002167 }</style> <title>Kerio Privacy Policy | Kerio Technologies</title>
-<link type="text/css" rel="stylesheet" href="http://www.kerio.com/sites/default/files/advagg_css/css__BJ6Ou6QsBRtnFTmxaakamOIS8n4QswDP2XnnZ1sxtaM__NBuvkP6eInGIkb1aJvUHx5PX79XApuxBDkk_77W5tYk__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.kerio.com/sites/default/files/advagg_css/css__tgv3ajHQ5KyZdTlittzj1tLMT3Win9nKApJi-hku06s__2-986tgudpBtuzd0RhTSqwbcdPm0a4H9mT82CcQk_r0__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.css" media="screen">
-<style type="text/css" media="print">
-<!--/*--><![CDATA[/*><!--*/
-#sb-container{position:relative;}#sb-overlay{display:none;}#sb-wrapper{position:relative;top:0;left:0;}#sb-loading{display:none;}
+    <link rel="canonical" href="/legal/history/global-privacy-policy">
 
-/*]]>*/-->
-</style>
-<link type="text/css" rel="stylesheet" href="http://www.kerio.com/sites/default/files/advagg_css/css__5vezWmBVo7IYE66fBqB1SrObrI6cj7KAr7DyY6F-SAA__FsuiVMgBa-QhrDeuDwrE2rgnb8WsH1sH924hplhUYQ4__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.css" media="all">
-<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,800,700,600,300&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic" media="all">
-<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://www.kerio.com/sites/default/files/advagg_css/css__sdxZKeqm-PT5bCFycUShO_y_VjsflCJbgqcAc4rCI1Y__bO-vAkHukBsjHNgSnjCADOGkPrjNH7a_xIfYdihf14s__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.css" media="all">
+
+
+
+
+    
+<meta name="VIcurrentDateTime" content="637096865849951336">
+<script type="text/javascript" src="/layouts/system/VisitorIdentification.js"></script>
+
+
+<link href="/bundles/libraries?v=sqApOz1JUXb2z0eVYgD20c7tTY57R0lWFAYeLdLO1TU1" rel="stylesheet">
+<link href="/bundles/features?v=yXadENEX7tFgtJP3W1DehAnMYDny3z_5Q1_hsnK1bCQ1" rel="stylesheet">
+        <link href="/Assets/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+    <link rel="preload" href="/assets/slick/fonts/slick.woff" as="font" crossorigin="anonymous">
+        <script type="text/javascript" src="//use.typekit.net/ngn6sqf.js"></script>
+        <script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
 </head>
-
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-259 node-type-kerio-basic-page i18n-en wide normal  custom ">
-
-  <div class="region region-header-acq">
-    <div id="block-block-55" class="block block-block">
+<body class="grey-background  header-static border-navigation ">
+    <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KKJF3B"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager -->
+    
 
     
-  <div class="content">
-    <div id="new-notification" style="background-color: #002067;padding: 25px;color: #FFFFFF;font-size: 1.5em;text-align:center;">
-  <div>
-    <a style="color:#FFF;text-decoration:none;" href="http://www.gfi.com/welcome-kerio" target="_blank"><i class="fa fa-info-circle" style="padding-right: 10px;color:#FFFFFF;"></i>Kerio Technologies has been acquired by GFI Software - Read more</a>
-  </div>
-</div>  </div>
-</div>
-  </div>
-
-
-  <!-- Kerio Widgets -->
-    <div class="region region-sticky-nav">
-    <div id="block-block-42" class="block block-block">
-
-    
-  <div class="content">
-    <div id="node-503" class="node node-reusable-content clearfix" about="http://www.kerio.com/content/keriocom-sticky-nav-widget" typeof="sioc:Item foaf:Document">
-
-  
-        <h2><a href="http://www.kerio.com/content/keriocom-sticky-nav-widget"></a></h2>
-    <span property="dc:title" content="Kerio.com Sticky Nav Widget" class="rdf-meta element-hidden"></span>
-  
-  <div class="content">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div id="stickerMain">
-<div id="cssmenu">
-<ul><li><a href="http://www.kerio.com/"><span><img src="/sites/default/files/nav-thumb-cloud_2.jpg" width="139" height="28" alt="Kerio Cloud"></span></a>
-      <ul><li><a href="http://demo.kerio.com/cloud" target="_blank"><span class="smc-try">Try it Now</span></a></li>
-         <li><a href="http://www.kerio.com/products/kerio-cloud/email-messaging-pricing"><span class="smc-price">Pricing</span></a></li>
-         <li><a href="http://www.kerio.com/node/343/?o=cloud"><span class="smc-buy">How To Buy</span></a></li>
-         <!--<li><a href='http://demo.kerio.com/connect/client/' target="_blank"><span class="smc-demo">Demo</span></a></li>-->
-      </ul></li>
-   <li><a href="http://www.kerio.com/"><span><img src="/sites/default/files/nav-thumb-connect_0.jpg" width="139" height="28" alt="Kerio Connect"></span></a>
-      <ul><li><a href="http://www.kerio.com/node/1505#connect"><span class="smc-try">Try it Now</span></a></li>
-         <li><a href="http://www.kerio.com/products/kerio-connect/pricing"><span class="smc-price">Pricing</span></a></li>
-         <li><a href="http://www.kerio.com/node/1510"><span class="smc-buy">How To Buy</span></a></li>
-         <li><a href="http://demo.kerio.com/connect/client/" target="_blank"><span class="smc-demo">Demo</span></a></li>
-      </ul></li>
-   <li><a href="http://www.kerio.com/"><span><img src="/sites/default/files/nav-thumb-control_0.jpg" width="135" height="28" alt="Kerio Control"></span></a>
-      <ul><li><a href="http://www.kerio.com/node/1505#control"><span class="smc-try">Try it Now</span></a></li>
-         <li><a href="http://www.kerio.com/products/kerio-control/pricing"><span class="smc-price">Pricing</span></a></li>
-         <li><a href="http://www.kerio.com/node/1510"><span class="smc-buy">How To Buy</span></a></li>
-         <li><a href="http://demo.kerio.com/control/admin/" target="_blank"><span class="smc-demo">Demo</span></a></li>
-      </ul></li>
-   <li><a href="http://www.kerio.com/"><span><img src="/sites/default/files/nav-thumb-operator_0_0.jpg" width="150" height="28" alt="Kerio Operator"></span></a>
-      <ul><li><a href="http://www.kerio.com/node/1505#operator"><span class="smc-try">Try it Now</span></a></li>
-         <li><a href="http://www.kerio.com/products/kerio-operator/pricing"><span class="smc-price">Pricing</span></a></li>
-         <li><a href="http://www.kerio.com/node/1510"><span class="smc-buy">How To Buy</span></a></li>
-         <li><a href="http://demo.kerio.com/operator/client" target="_blank"><span class="smc-demo">Demo</span></a></li>
-      </ul></li>
-</ul></div>
-</div></div></div></div>  </div>
-
-  
-  
-</div>
-  </div>
-</div>
-  </div>
-
-<div id="wrapper">
-  <header id="header">
+    <header>
+        
+<nav class="navbar main-menu navbar-primary navbar-default ">
     <div class="container">
+        <div class="navbar-header">
+            <div class="navbar-brand logo">
+                    <span class="bars"><i class="fa fa-bars"></i></span>
+                <a href="/">
+                    <img src="https://cdnimg.gfi.com/-/media/images/gfi/company/logos/gfi-software_rgb.ashx?v=1&amp;d=20190520T141557Z&amp;la=en&amp;hash=095A985B23630805E743D27E270ADAACCB5078CE" class="nav__logo-image" alt="Logo">
+                </a>
+                    <span class="search-icon"><i class="fa fa-search"></i></span>
+            </div>
+        </div>
+            <div id="navbar" class="navbar-collapse left-content">
+                <ul class="nav first-level navbar-nav navbar-right">
+                        <li>
+                                        <a href="/products-and-solutions/all-products" class="">Products <span class="fa fa-chevron-down"></span></a>
 
-      <!-- 
-      Kerio Header Links 
-      <div class="khlinks">
-      </div>
-      --> 
-      <div class="seven columns">
+                                        <ul class="second-level">
+                    <li class="width-33 second-container  ">
+            <a href="/products-and-solutions/network-solutions" class="title">Network</a>
 
-	      		        <div class="region region-header-left">
-    <div id="block-block-15" class="block block-block">
-
-    
-  <div class="content">
-    <a href="http://www.kerio.com/"><img src="/sites/default/files/kerio-logo-homepage.jpg" width="143" height="24" alt="Kerio"></a>  </div>
-</div>
-  </div>
-		    	    
-	      		    
-		    		      <div id="name-and-slogan" class="hidden">
-		
-		        		          <h1 id="site-name" class="hidden">
-		            <a href="http://www.kerio.com/" title="Home" rel="home"><span>Kerio Technologies</span></a>
-		          </h1>
-		        		
-		        		
-		      </div> <!-- /#name-and-slogan -->
-		    		    
-      </div>
-      
-      <div class="nine columns sidesocial">
-          <div class="region region-header-right">
-    <div id="block-block-53" class="block block-block">
-
-    
-  <div class="content">
-    <div class="cloud-login-button"><a href="https://kerio.cloud/login.php">CLOUD LOGIN</a></div>  </div>
-</div>
-<div id="block-lang-dropdown-language" class="block block-lang-dropdown">
-
-    
-  <div class="content">
-    <form class="lang_dropdown_form language" id="lang_dropdown_form_language" action="/privacy-policy" method="post" accept-charset="UTF-8"><div><div class="form-item form-type-select form-item-lang-dropdown-select">
- <select style="width:100px" class="lang-dropdown-select-element form-select" id="lang-dropdown-select-language" name="lang_dropdown_select"><option value="cs">Čeština</option><option value="en" selected="selected">English</option><option value="fr">Français</option><option value="de">Deutsch</option><option value="pl">Polski</option><option value="ru">Русский</option><option value="es">Español</option><option value="sv">Svenska</option><option value="th">ภาษาไทย</option><option value="tr">Türkçe</option><option value="uk">Українська</option></select>
-</div>
-<input type="hidden" name="cs" value="http://www.kerio.cz/">
-<input type="hidden" name="en" value="http://www.kerio.com/privacy-policy">
-<input type="hidden" name="fr" value="http://www.kerio.fr/">
-<input type="hidden" name="de" value="http://www.kerio.de/">
-<input type="hidden" name="pl" value="http://www.kerio.pl/">
-<input type="hidden" name="ru" value="http://www.kerio.ru/privacy-policy">
-<input type="hidden" name="es" value="http://www.kerio.es/">
-<input type="hidden" name="sv" value="http://www.kerio.se/">
-<input type="hidden" name="th" value="http://www.kerio.co.th/">
-<input type="hidden" name="tr" value="http://www.kerio.com.tr/">
-<input type="hidden" name="uk" value="http://www.kerio.ua/">
-<noscript><div>
-<input type="submit" id="edit-submit" name="op" value="Go" class="button default form-submit" />
-</div></noscript><input type="hidden" name="form_build_id" value="form-KW-mSQ6pFsKUTK4sPZbGCXnWgHmyFWRA3MVY9dR-WAw">
-<input type="hidden" name="form_id" value="lang_dropdown_form">
-</div></form>  </div>
-</div>
-  </div>
-  <div class="widget widget_contacts">
-
-    <ul class="social-icons homepage">
-              <li>
-          <div class="search-wrapper">
-              
-<form class="search-form" onsubmit="if(this.search_block_form.value=='Search'){ return false; }" action="/privacy-policy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." class="custom-search-box form-text" placeholder="Search" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}" type="text" id="edit-search-block-form--2" name="search_block_form" value="Search" size="40" maxlength="128">
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><button type="submit" class="submit-search"><input type="submit" id="edit-submit--2" name="op" value="" class="button default form-submit"></button></div><input type="hidden" name="form_build_id" value="form-HsYpB3g8olfGsHYa0lPVSr2RGnfa8DBxpBkSUIblcfI">
-<input type="hidden" name="form_id" value="search_block_form">
-</div>
-</div></form>          </div><!--/ .search-wrapper-->
+            <ul>
+        <li>
+            <a href="/products-and-solutions/network-security-solutions/exinda-network-orchestrator" class="full-link ">
+                <span class="name-link"><span><strong>Exinda Network Orchestrator</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link">Quality of experience for critical applications</span>
+            </a>
         </li>
-            <li><a href="https://www.facebook.com/keriotech" target="_blank" class="smc-fb"></a></li>
-      <li><a href="http://www.linkedin.com/company/kerio-technologies" target="_blank" class="smc-li"></a></li>
-      <li><a href="http://www.twitter.com/keriotech" target="_blank" class="smc-tw"></a></li>
-    </ul><!--/ .social-icons -->	
-  </div>
+        <li>
+            <a href="/products-and-solutions/network-security-solutions/exinda-sd-wan" class="full-link ">
+                <span class="name-link"><span><strong>Exinda SD-WAN</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link">Multi-element WAN, traffic management and prioritization</span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-33 second-container  ">
+            <a href="/products-and-solutions/network-security-solutions" class="title">Network Security</a>
 
-     </div>  
-     
-     <div class="clear"></div>
-     
-     <div class="sixteen columns">
-				<div class="menu-container clearfix">
-					<nav id="navigation" class="navigation">
-					  <div class="menu">
-					      
-<ul><li><a href="http://www.kerio.com/products">Products</a><ul><li><a href="http://www.kerio.com/products">Overview</a></li>
-<li><a href="http://www.kerio.com/products/kerio-cloud">Kerio Cloud</a></li>
-<li><a href="http://www.kerio.com/products/kerio-connect">Kerio Connect</a></li>
-<li><a href="http://www.kerio.com/products/kerio-control">Kerio Control</a></li>
-<li><a href="http://www.kerio.com/products/kerio-operator">Kerio Operator</a></li>
-<li><a href="http://www.kerio.com/third-party-tools">Third-Party Tools</a></li>
-</ul></li>
-<li><a href="http://www.kerio.com/try-now">Try Now</a></li>
-<li><a href="http://www.kerio.com/how-to-buy">How To Buy</a></li>
-<li><a href="http://www.kerio.com/support">Support</a><ul><li><a href="http://www.kerio.com/support">Overview</a></li>
-<li><a href="http://www.gfi.com/support" target="_blank">Technical Support</a></li>
-<li><a href="http://www.kerio.com/support/kerio-connect">Kerio Connect</a></li>
-<li><a href="http://www.kerio.com/support/kerio-control">Kerio Control</a></li>
-<li><a href="http://www.kerio.com/support/kerio-operator">Kerio Operator</a></li>
-<li><a href="http://kb.kerio.com" target="_blank">Knowledge Base</a></li>
-<li><a href="https://secure.kerio.com/reg/?lang=en" target="_blank">Register License</a></li>
-</ul></li>
-<li><a href="http://www.kerio.com/learn-community">Learn &amp; Community</a><ul><li><a href="http://www.kerio.com/learn-community">Overview</a></li>
-<li><a href="https://samepage.io/app/#!/72f3728084841d1a9db65c44335a41d27bfa96c2/page-464288939231239162">Training</a></li>
-<li><a href="http://www.kerio.com/learn-community/developer-zone">Developer Zone</a></li>
-<li><a href="http://forums.kerio.com/" target="_blank">Forums</a></li>
-<li><a href="http://www.kerio.com/blog">Blog</a></li>
-<li><a href="http://www.kerio.com/learn-community/kerio-connect-resources">Kerio Connect Resources</a></li>
-<li><a href="http://www.kerio.com/learn-community/kerio-control-resources">Kerio Control Resources</a></li>
-<li><a href="http://www.kerio.com/learn-community/kerio-operator-resources">Kerio Operator Resources</a></li>
-</ul></li>
-<li><a href="https://www.gfi.com/partners" target="_blank">Partners</a><ul><li><a href="http://www.kerio.com/how-to-buy">Find a Partner</a></li>
-<li><a href="https://www.gfi.com/partners" target="_blank">Partner Program</a></li>
-<li><a href="https://www.gfi.com/partners/partner-program-intro" target="_blank">Become a Partner</a></li>
-<li><a href="http://partners.gfi.com/">Login</a></li>
-</ul></li>
-<li><a href="http://www.kerio.com/blog">Blog</a></li>
-<li><a href="http://www.kerio.com/company">Company</a><ul><li><a href="http://www.kerio.com/company" title="">Overview</a></li>
-<li><a href="http://www.kerio.com/company/media-center">Media Center</a></li>
-<li><a href="http://www.kerio.com/company/careers-old">Careers</a></li>
-<li><a href="http://www.kerio.com/blog">Blog</a></li>
-<li><a href="http://www.kerio.com/contact">Contact Us</a></li>
-</ul></li>
-</ul>					  </div>  
-					</nav>
-									        <!--	
-                                           	<div class="search-wrapper">
-						  						</div> --><!--/ .search-wrapper--> 
-									</div>
-     </div>
-     
-    </div>  				
-	</header>
-          <!-- KBP Banner -->     
-                            <div class="kbanner kerio" style="margin-bottom:60px;">
-                    <div class="container">
+            <ul>
+        <li>
+            <a href="/products-and-solutions/network-security-solutions/gfi-languard" class="full-link ">
+                <span class="name-link"><span><strong>GFI LanGuard</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link">Patch management, auditing and security scanning</span>
+            </a>
+        </li>
+        <li>
+            <a href="/products-and-solutions/network-security-solutions/gfi-mailessentials" class="full-link ">
+                <span class="name-link"><span><strong>GFI MailEssentials</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link">Anti-spam and email security for mail servers</span>
+            </a>
+        </li>
+        <li>
+            <a href="/products-and-solutions/network-security-solutions/kerio-control" class="full-link ">
+                <span class="name-link"><span><strong>Kerio Control</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link">All-in-one next-generation firewall and UTM</span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-33 second-container  ">
+            <a href="/products-and-solutions/email-and-messaging-solutions" class="title">Network Communications</a>
 
-                                              <h1>Privacy Policy</h1>
-                      
-                    </div>
-                  </div> 
+            <ul>
+        <li>
+            <a href="/products-and-solutions/network-security-solutions/gfi-archiver" class="full-link ">
+                <span class="name-link"><span><strong>GFI Archiver</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link">Archive emails, files, folders and calendar entries</span>
+            </a>
+        </li>
+        <li>
+            <a href="/products-and-solutions/email-and-messaging-solutions/gfi-faxmaker" class="full-link ">
+                <span class="name-link"><span><strong>GFI FaxMaker</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link">Secure, compliant and automated fax solution</span>
+            </a>
+        </li>
+        <li>
+            <a href="/products-and-solutions/email-and-messaging-solutions/gfi-faxmaker-online" class="full-link ">
+                <span class="name-link"><span><strong>GFI FaxMaker Online</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link">Internet-based faxing service</span>
+            </a>
+        </li>
+        <li>
+            <a href="/products-and-solutions/email-and-messaging-solutions/kerio-connect" class="full-link ">
+                <span class="name-link"><span><strong>Kerio Connect</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link">Email, calendars, contacts, tasks, chat and more</span>
+            </a>
+        </li>
+            </ul>
+            </li>
 
-                <!--/ KBP Banner -->
 
-        
- 
-        <section id="content">
-	  <div class="container" style="margin-bottom:25px;">
-	    
-	    	    
-	    	    
-	    		  
-		  	   
-	    		  
-			  			  
-	     		      	      	
-			    <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
 
-    
-  <div class="content">
-    <div id="node-259" class="node node-kerio-basic-page clearfix" about="http://www.kerio.com/privacy-policy" typeof="sioc:Item foaf:Document">
+<li class="width-100 third-level">
+    <ul>
+                <li>
+                    <a href="/downloads" style="background-color: #fc6621; border: 1px solid #fc6621; color: white" class="btn">Downloads</a>
+                </li>
+                <li>
+                    <a href="/gfi-unlimited" style="background-color: #0079c1; border: 1px solid #0079c1; color: white" class="btn">Learn about GFI Unlimited</a>
+                </li>
+    </ul>
+</li>            </ul>
 
-  
-      <span property="dc:title" content="Kerio Privacy Policy" class="rdf-meta element-hidden"></span>
-  
-  <div class="content">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>At Kerio Technologies Inc. (“Kerio”), we know that you care about how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. Please read the following to understand what Information we collect, how we use that Information, to whom we may disclose that Information, and how we safeguard that Information. Because the Internet is global, the Information about you that we collect or that you submit may be transferred to, processed in, and stored in countries (including the United States) other than the one in which you reside. By using our various Websites and our Products and Services, you explicitly consent to such use of your Information and agree to the terms of this Privacy Policy.</p>
+                        </li>
+                        <li>
+                                        <a href="/company/about-us" class="">Company <span class="fa fa-chevron-down"></span></a>
 
-<p>Kerio reserves the right to change or update this Privacy Policy as our business evolves. Please review this Privacy Policy periodically. Any updated version of this Privacy Policy will be effective as of the date specified in such update. Please note that the individual terms and conditions of usage of particular Products and Services may be more restrictive than those contained herein. Finally, be advised that this Privacy Policy includes Kerio’s European Union and Swiss Safe Harbor Privacy statements.</p>
+                                        <ul class="second-level">
+                    <li class="width-33 second-container  ">
+            <a class="title">About us</a>
 
-<h2>What Information We Collect</h2>
+            <ul>
+        <li>
+            <a href="/company/about-us" class="full-link ">
+                <span class="name-link"><span><strong>About us</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/company/awards" class="full-link ">
+                <span class="name-link"><span><strong>Awards</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/company/careers" class="full-link ">
+                <span class="name-link"><span><strong>Careers</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/company/leadership" class="full-link ">
+                <span class="name-link"><span><strong>Management Team</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/company/customers" class="full-link ">
+                <span class="name-link"><span><strong>Our Customers</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/brand-pillars" class="full-link ">
+                <span class="name-link"><span><strong>Brand Pillars</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-33 second-container  ">
+            <a class="title">News and Events</a>
 
-<p>As a visitor of our Website, you can engage in many activities without providing any Personal Information. However, we do automatically receive certain types of information when you interact with our webpages (e.g., IP address, browser type, software and operating system used, device type, carrier). Kerio also uses cookies, which are small text files that a web site can send to your browser to be stored automatically on your computer. You may set your browser to reject or disable cookies, however be advised that you may be prevented access to certain parts of our Website if you do so. Kerio may also use clear GIFs, which are one pixel graphic image files on our Website that may collect the time the GIF was viewed or the type of browser that requested the image file.</p>
+            <ul>
+        <li>
+            <a href="/company/press" class="full-link ">
+                <span class="name-link"><span><strong>Press Center</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/company/webcasts-and-events" class="full-link ">
+                <span class="name-link"><span><strong>Webcasts and events</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="https://techtalk.gfi.com" class="full-link ">
+                <span class="name-link"><span><strong>Our Blog</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-33 second-container  ">
+            <a class="title">Topics</a>
 
-<p>If you register as a customer, download free evaluation software, upgrades, order e-mail newsletters or engage in other activities, Kerio may ask you to register by filling out an online form, where you will be asked to provide information that personally identifies you and/or your company name (e.g., address, email address, phone number, title/position, demographics, etc.).  When you purchase one of our Products or Services direct from Kerio, you may also be asked for your credit card or other financial/payment information.  We also “collect” on your behalf what you upload or input while using the Services, such as information, data or files, although we do not use anything uploaded. We also collect information from surveys, contests and sweepstakes.</p>
+            <ul>
+        <li>
+            <a href="/patch-management" class="full-link ">
+                <span class="name-link"><span><strong>Patch Management</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
 
-<p>In addition to personal information, we collect aggregated data, which we define as anonymized (non-personalized) information about a group or category of services or users from which individual user identities have been removed. For example, we may collect information regarding type of company, size and number of users, usage characteristics, and other information regarding usage profiles. Such information may be used for internal business purposes or provided to partners or other associated third parties without restriction.  However, no personal information is included in aggregated data. We simply collect aggregated data to help us understand our users’ needs and to improve our Products and Services by considering new features and functionality or otherwise tailoring our Products and Services. We may share aggregated data about our users with third parties for similar purposes. We may also use such information even if and after you stop using our Products or Services.</p>
 
-<h2>How We Use the Information We Collect</h2>
 
-<p>In general, we use your personal information to process your requests and transactions, to provide you with the Products and Services you request, to alert you to upgrades and updates, and to share with you special offers and updated information we think will be of interest to you. We also use aggregated data to make the Website easier to use, to improve site performance and content, and to monitor web traffic and usage. Credit card numbers are only used for payment processing and are not retained for marketing purposes.</p>
+            </ul>
 
-<h2>Safe Harbor Compliance</h2>
+                        </li>
+                        <li>
+                                        <a href="/partners" class="">Partners <span class="fa fa-chevron-down"></span></a>
 
-<p>Kerio may store and process personal information in the United States and other countries. We adhere to the U.S. Department of Commerce’s Safe Harbor privacy principles regarding the collection, use, and retention of personal information from the European Union, and the U.S. Department of Commerce’s U.S. Swiss Safe Harbor privacy principles regarding the collection, use, and retention of personal information from Switzerland. Our Safe Harbor certifications can be found at <a href="http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list" target="_blank">http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list</a>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <a href="http://export.gov/safeharbor/" target="_blank">http://export.gov/safeharbor/</a>.  If you have any questions regarding this statement or our compliance program, please contact us using the contact information provided at the end of this document.</p>
+                                        <ul class="second-level">
+                    <li class="width-33 second-container  ">
+            <a class="title">Partner Program</a>
 
-<h2>Links</h2>
+            <ul>
+        <li>
+            <a href="/partners/partner-program-intro" class="full-link ">
+                <span class="name-link"><span><strong>GFI Partner Program</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/partners/become-a-gfi-partner" class="full-link ">
+                <span class="name-link"><span><strong>Become a Partner</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-33 second-container  ">
+            <a class="title">Partner Links</a>
 
-<p>This Website contains links to other web sites at which personal information may be collected. In such instances, unless otherwise expressly specified, the privacy policy applicable to that other web site will govern the collection and use of your information. Kerio is not responsible for the privacy practices of such other web sites and urges you to review such web sites’ privacy practices prior to submitting any personal information.</p>
+            <ul>
+        <li>
+            <a href="/partners/find-a-partner" class="full-link ">
+                <span class="name-link"><span><strong>Find a Reseller </strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/partners/find-a-distributor" class="full-link ">
+                <span class="name-link"><span><strong>Find a Distributor</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/pages/beta-selection-page" class="full-link ">
+                <span class="name-link"><span><strong>GFI BETA Products</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/partners/gfi-oem-partners" class="full-link ">
+                <span class="name-link"><span><strong>GFI OEM Partners</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/partners/gfi-technology-partners" class="full-link ">
+                <span class="name-link"><span><strong>GFITechnology Partners</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-33 second-container has-image ">
+            <a class="title"></a>
 
-<h2>Disclosure of Your Personal Information</h2>
+            <ul>
+        <li>
+            <a href="https://partners.gfi.com/" class="full-link image-link">
+                <img src="https://cdnimg.gfi.com/-/media/images/gfi/icons/large/case_grey-1.ashx?h=54&amp;w=69&amp;v=1&amp;d=20181205T163646Z&amp;la=en&amp;hash=D15A44230F8F26FCF5576FB2816F72D2DBF6ED68" alt="">
+                <span>Partner Portal</span>
+            </a>
+        </li>
+        <li>
+            <a href="/partners/partner-program-intro" class="full-link image-link">
+                <img src="https://cdnimg.gfi.com/-/media/images/gfi/icons/large/megaphone_grey-1.ashx?h=54&amp;w=70&amp;v=1&amp;d=20181205T163601Z&amp;la=en&amp;hash=50B14CD1DEB6BF8C82924697CE5E6F8D263804D7" alt="">
+                <span>Partner Program</span>
+            </a>
+        </li>
+            </ul>
+            </li>
 
-<p>Kerio will not sell your personal information to anyone. We may share your information to a local partner (distributor or reseller) in order to facilitate your purchase and use of our Products or Services, or to agents who perform limited functions on our behalf, such as delivering packages and processing payments. We use a variety of third party providers to assist us in hosting, infrastructure, billing, sales marketing and other functions. While these providers may have access to your personal information, they are contractually restricted from any usage thereof. These third parties are contractually restricted in their use of such information. We may also share aggregated information with our partners and advertisers; our infrastructure provider may also have access to this data.</p>
 
-<p>Kerio’s Products and Services include collaboration features that by their nature support sharing with users you choose. Those users can see your name, email address, photo and information from your Profile page, and any files you choose to share; and they can post comments and email you. Collaborators you invite as editors can also edit your shared files, upload documents and photos to your shared files, share those documents outside of Kerio, and give other users rights to view your shared files.</p>
- 
-<p>Kerio provides you with opportunities to connect with third party applications or services. If you choose to use any such third party applications or services, we may facilitate sharing of your information including your username and documents you choose to use with those applications and services and such third parties may contact you directly as necessary. Your use of such applications and services is not governed by Kerio’s Terms of Use or Privacy Policy. Kerio does not control the applications or services of those third parties or how they use your information and documents. Be sure to review the terms and the privacy policies of those third parties before using their applications or services.</p>
 
-<p>Notwithstanding anything in this Privacy Policy to the contrary, Kerio reserves the right, unless limited by applicable law, to share any information we have collected about you or that you have submitted: (1) in order to comply with a law or legal request or to establish, protect, or exercise our legal rights or defend against legal claims; (2) if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, fraud, or situations involving potential threats to the safety of any person or property; (3) if we believe it is necessary to investigate, prevent, or take action regarding situations that involve significant abuse of our Websites or our Products and Services (such as voluminous spamming, denial of service attacks, or attempts to compromise the security of information); (4) to our affiliated companies (in which case we will require such entities to honor this Privacy Policy);  (5) if we are acquired by or merged with another entity; and (6) to enforce our agreements, terms of use and policies.</p>
+            </ul>
 
-<h2>Public Areas</h2>
+                        </li>
+                        <li>
+                                        <a href="/support" class="">Support <span class="fa fa-chevron-down"></span></a>
 
-<p>Your use of areas of our Websites or within our Products and Services that are intended for interaction with other users (e.g., product forums, message boards, and other online forums) may allow you to post personal information. By choosing to use these areas, you understand and agree that anyone may access, use, and disclose any personal information that you post to those areas.</p>
+                                        <ul class="second-level">
+                    <li class="width-50 second-container  ">
+            <a class="title">By Product</a>
 
-<h2>Security</h2>
+            <ul>
+        <li>
+            <a href="/support/products/gfi-archiver" class="full-link col-md-6">
+                <span class="name-link"><span><strong>GFI Archiver</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/gfi-endpointsecurity" class="full-link col-md-6">
+                <span class="name-link"><span><strong>GFI EndPointSecurity</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/gfi-eventsmanager" class="full-link col-md-6">
+                <span class="name-link"><span><strong>GFI EventsManager</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/gfi-faxmaker" class="full-link col-md-6">
+                <span class="name-link"><span><strong>GFI Faxmaker</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/gfi-faxmaker-online" class="full-link col-md-6">
+                <span class="name-link"><span><strong>GFI FaxMaker Online</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/gfi-languard" class="full-link col-md-6">
+                <span class="name-link"><span><strong>GFI LanGuard</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/gfi-mailessentials" class="full-link col-md-6">
+                <span class="name-link"><span><strong>GFI MailEssentials</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/gfi-webmonitor" class="full-link col-md-6">
+                <span class="name-link"><span><strong>GFI WebMonitor</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/kerio-connect" class="full-link col-md-6">
+                <span class="name-link"><span><strong>Kerio Connect</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/kerio-control" class="full-link col-md-6">
+                <span class="name-link"><span><strong>Kerio Control</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/kerio-operator" class="full-link col-md-6">
+                <span class="name-link"><span><strong>Kerio Operator</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="/support/products/exinda-network-orchestrator" class="full-link col-md-6">
+                <span class="name-link"><span><strong>Exinda Network Orchestrator </strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-50 second-container  ">
+            <a class="title">Other Areas</a>
 
-<p>Kerio takes reasonable steps to protect information we collect from you to prevent loss, misuse and unauthorized access, disclosure, alteration, and destruction. In addition, highly confidential Personal Information such as credit card number and password that we request from you on our Websites are protected with encryption, such as Secured Socket Layer (SSL) protocol, during transmission over the Internet.</p>
+            <ul>
+        <li>
+            <a href="https://support.gfi.com" class="full-link ">
+                <span class="name-link"><span><strong>Documentation</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="https://upgrades.gfi.com" class="full-link ">
+                <span class="name-link"><span><strong>Upgrade Center</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="https://support.gfi.com" class="full-link ">
+                <span class="name-link"><span><strong>Knowledge Base</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="https://forums.gfi.com" class="full-link ">
+                <span class="name-link"><span><strong>Community Blog</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
 
-<p>The servers on which information is stored are kept in a controlled environment with limited access. While we take reasonable efforts to guard Personal Information we knowingly collect directly from you, no security system is impenetrable. In addition, we cannot guarantee that any passively-collected personal information you choose to include in documents you store on our systems are maintained at adequate levels of protection to meet specific needs or obligations you may have relating to that information.</p>
 
-<p>Your account information and access to our Services is accessible only through the use of an individual user ID and password. To protect the confidentiality of Personal Information, you must keep your password confidential and not disclose it to any other person. Please advise us immediately if you believe your password has been misused. In addition, always logout and close your browser when you finish your session. Please note that we will never ask you to disclose your password in an unsolicited phone call or email.</p>
 
-<p>When you provide us with a credit card number or other financial information, Kerio will take commercially reasonable steps to protect this information through a secure connection, however, no data transmission over the Internet can be guaranteed to be 100% secure.</p>
+<li class="width-100 third-level">
+    <ul>
+                <li>
+                    <a href="https://support.gfi.com" style="background-color: #fc6621; border: 1px solid #fc6621; color: white" class="btn">Contact Support</a>
+                </li>
+                <li>
+                    <a href="https://feedback.gfi.com" style="background-color: #b0bed0; border: 1px solid #b0bed0; color: white" class="btn">Feedback</a>
+                </li>
+    </ul>
+</li>            </ul>
 
-<h2>Our Policy Toward Children</h2>
+                        </li>
+                        <li>
+                                        <a class="btn-cta free-trial-button " href="/downloads" style="background-color:">FREE TRIALS</a>
 
-<p>Our Products and Services are not directed to persons under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at <a href="mailto:privacy@kerio.com">privacy@kerio.com</a>. If we become aware that a child under 13 has provided us with Personal Information, we will take steps to delete such information from our files.</p>
+                            
+                        </li>
+                        <li>
+                                        <a class="btn-cta login-button has-children" href="#" style="background-color:">Login</a>
 
-<h2>Opt-Out</h2>
+                                        <ul class="second-level">
+                    <li class="width-25 second-container  ">
+            <a class="title">Products</a>
 
-<p>Kerio may send you communications or data regarding our Websites and Products and Services, including but not limited to (i) notices about your usage thereof, including any violations of use, (ii) updates, and (iii) promotional information and materials regarding our Products and Services. You may opt-out of receiving promotional emails from Kerio by following the opt-out instructions provided in those emails or by emailing <a href="mailto:privacy@kerio.com">privacy@kerio.com</a>. Even if you Opt-Out, we reserve the right to send you administrative messages relating to our Website (e.g., about changes to this Privacy Policy or our Terms of Use), to contact you regarding orders you have placed (e.g., order confirmations and shipment tracking information), and with respect to such orders, to share your information with our agents as discussed above.</p>
+            <ul>
+        <li>
+            <a href="https://www.faxmakeronline.com/account/logon" class="full-link ">
+                <span class="name-link"><span><strong>GFI FaxMaker Online</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="https://kerio.cloud/login.php" class="full-link ">
+                <span class="name-link"><span><strong>Kerio Cloud</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="https://secure.kerio.com/reg/?lang=en" class="full-link ">
+                <span class="name-link"><span><strong>Kerio Product Registration</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-25 second-container  ">
+            <a class="title">Support</a>
 
-<h2>Enforcement</h2>
+            <ul>
+        <li>
+            <a href="https://support.gfi.com/hc/en-us/signin" class="full-link ">
+                <span class="name-link"><span><strong>GFI Support</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="https://upgrade.gfi.com" class="full-link ">
+                <span class="name-link"><span><strong>Product Downloads &amp; Upgrades</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-25 second-container  ">
+            <a class="title">Shops</a>
 
-<p>If you have any questions about this Privacy Policy, please contact our General Counsel (Legal Department) at <a href="mailto:privacy@kerio.com">privacy@kerio.com</a>. If your inquiry has not been satisfactorily addressed, you should then contact our dispute resolution provider JAMS (<a href="http://www.JAMSadr.com" target="_&quot;blank&quot;">http://www.JAMSadr.com</a>). JAMS provides arbitration and mediation services.</p>
+            <ul>
+        <li>
+            <a href="https://secure.kerio.com/order/login.php" class="full-link ">
+                <span class="name-link"><span><strong>Kerio Shop</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
+    <li class="width-25 second-container  ">
+            <a class="title">Tools</a>
 
-<h2>Contact Us</h2>
+            <ul>
+        <li>
+            <a href="https://accounts.gfi.com/signin" class="full-link ">
+                <span class="name-link"><span><strong>Accounts Portal</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="https://partners.gfi.com/" class="full-link ">
+                <span class="name-link"><span><strong>Partner Portal</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+        <li>
+            <a href="https://my.kerio.com/login" class="full-link ">
+                <span class="name-link"><span><strong>My Kerio</strong> <i class="fa fa-angle-right"></i></span></span>
+                <span class="description-link"></span>
+            </a>
+        </li>
+            </ul>
+            </li>
 
-<p>If you need to contact a Kerio Technologies Inc. representative in the U.S. for any reason, you can reach us by phone at: 1-408-496-4500, or by fax at: 1-408-496-6902. Our postal address is: Kerio Technologies, Inc., 111 North Market Street, 6th Floor, San Jose, CA 95113, USA. Our local representatives can be found on our Website at <a href="http://www.kerio.com/company">http://www.kerio.com/company/locations</a>.</p>
 
-<p><i>This Privacy Policy was last updated December 15, 2012.</i></p></div></div></div>  </div>
 
-  
-  
-</div>
-  </div>
-</div>
-  </div>
-			  
-					  
-		  		    
+            </ul>
+
+                        </li>
+                </ul>
+            </div>
     </div>
-    
-    <div id="after-content" class="container">
-          </div>
-    
-  </section> 
-
-  
-    <div class="region region-after-content-no-wrap">
-    <div id="block-block-31" class="block block-block">
-
-    
-  <div class="content">
-    <div id="node-463" class="node node-reusable-content node-promoted clearfix" about="http://www.kerio.com/content/care-learn-more" typeof="sioc:Item foaf:Document">
-
-  
-        <h2><a href="http://www.kerio.com/content/care-learn-more"></a></h2>
-    <span property="dc:title" content="Care To Learn More" class="rdf-meta element-hidden"></span>
-  
-  <div class="content">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="container"> 
-  <h1>Care to learn more?</h1>
-  <a href="http://www.kerio.com/products" class="kIB"><div class="button pill btnOn btnLM">OUR PRODUCTS</div></a>
-  <a href="http://www.kerio.com/company" class="kIB"><div class="button pill btnOn btnLM">ABOUT KERIO</div></a>
-  <a href="http://www.kerio.com/partners" class="kIB"><div class="button pill btnOn btnLM">BECOME A PARTNER</div></a>
-</div></div></div></div>  </div>
-
-  
-  
+</nav>
+<div id="mob-search-area">
+    <div class="search form-group">
+            <input id="searchTerm" type="text" class="form-control search_box_mobile" name="query" placeholder="Search" value="" autocomplete="off">
+            <span class="glyphicon glyphicon-search"></span>
+    </div>
 </div>
-  </div>
-</div>
-  </div>
 
-  <footer id="footer">
+
+
+<nav class="secondary-navigation">
     <div class="container">
-		  
-	    <div class="four columns">
-	      			    			  	    </div>
-	    
-	    <div class="four columns">
-	      			    			  	    </div>
-	    
-	    <div class="four columns">
-	      			    			  	    </div>
-	    
-	    <div class="four columns">
-	      			    			  	    </div>
+        <ul>
+                    <li class="">
+                        <a href="https://techtalk.gfi.com">Blog</a>
+                    </li>
+                    <li class="">
+                        <a href="/contact-us">Contact Us</a>
+                    </li>
+        </ul>
+    </div>
+</nav>
+    </header>
+    
+    <div class="container breadcrumb-wrapper-container">
+    <div class="row">
+            <div id="breadcrumb-wrapper">
+                <ol class="breadcrumb">
+                            <li class="">
+                                <a href="/legal">Legal</a> &gt;
+                            </li>
+                            <li class="">
+                                <a href="/legal/history">History</a> &gt;
+                            </li>
+                            <li class="active">
+                                Global Privacy Policy
+                            </li>
+                </ol>
+            </div>
+    </div>
+</div>
 
-      <div class="clear"></div>
-      
-      <div class="sixteen columns">
-        <div class="adjective clearfix">
-		   		    
-				  				      <div class="region region-footer-bottom">
-    <div id="block-block-27" class="block block-block">
+<div class="container content-placeholder product-container">
+    
+<div class="row">
+    <section class="heading-bar">
+        <h1>
+            Global privacy policy
+        </h1>
+    </section>
+</div>
+<div id="row" class="RichTextContent">
+    <style>
+	.content-placeholder ol { list-style-type:decimal; margin-bottom:20px; }
+	.content-placeholder ul { list-style-type:disc; margin-bottom:20px; }
+	.content-placeholder li { margin-top:10px; margin-bottom:10px; margin-left:35px; }
+	.content-placeholder .disc-ul>li { list-style-type:disc; }
+	.content-placeholder .lower-roman-ul>li { list-style-type: lower-roman; }
+</style>
+<h2><strong>Privacy Policy Statement</strong></h2>
+<p>
+	GFI USA, Inc. and its affiliated companies and subsidiaries (the “Company,” “we,” or “us”) respect your privacy. This Privacy Policy Statement (“Privacy Policy”) describes the ways we collect information from and about you, and what we do with the information, so that you may decide whether or not to provide information to us. By accessing our website, or purchasing our products or services you agree to this Privacy Policy in addition to any other agreements we might have with you. In the event that such agreements contain terms that conflict with this Privacy Policy, the terms of those agreements will prevail. This Privacy Policy does not govern the practices of entities that our Company does not own or control, or entities that do not own or control our company or people that our Company does not employ or manage.
+</p>
+<p>
+	This Privacy Policy includes the Company’s Privacy Policy Statement and the Privacy Shield Statement.
+</p>
+<h2><strong>Company’s Privacy Policy Statement</strong></h2>
+<ol>
+	<li>
+	<p>
+		<strong>Our Collection of your Personal Information</strong>
+	</p>
+	<p>
+		The information we collect may include your personal information, such as your name, contact information, IP addresses, product and service selections and other things that identify you. We collect personal information from you at several different points, including but not limited to the following:
+	</p>
+	<ul>
+		<li>when we correspond with you as a customer or prospective customer;</li>
+		<li>when you visit our website;</li>
+		<li>when you register as an end-user of our services and an account is created for you;</li>
+		<li>when you contact us for help;</li>
+		<li>when you attend our customer conferences or webinars; and</li>
+		<li>when the site sends us error reports or application analytics data.</li>
+	</ul>
+	</li>
+	<li>
+	<p>
+		<strong>Our Use of your Personal Information</strong>
+	</p>
+	<p>
+		Our Company may use information that we collect about you to:
+	</p>
+	<ul>
+		<li>deliver the products and services that you have requested;</li>
+		<li>manage your customer relationship and provide you with customer support;</li>
+		<li>perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;</li>
+		<li>communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, or other third parties;</li>
+		<li>develop and display content and advertising tailored to your interests on our site and other websites;</li>
+		<li>verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes;</li>
+		<li>enforce our terms and conditions;</li>
+		<li>manage our business;</li>
+		<li>perform functions as otherwise described to you at the time of collection; and</li>
+		<li>sell or transfer personal information to third parties for any legally permissible purpose in our sole discretion.</li>
+	</ul>
+	</li>
+	<li>
+	<p>
+		<strong>Our Disclosure of your Personal Information to Third Parties</strong>
+	</p>
+	<p>
+		We may share your personal information with third parties only in the ways that are described in this Privacy Policy:
+	</p>
+	<ul>
+		<li>we may provide your information to our agents, vendors or service providers who perform functions on our behalf;</li>
+		<li>third party contractors may have access to our databases. Usually these contractors sign a standard confidentiality agreement;</li>
+		<li>we may share your data with any parent company, subsidiaries, joint ventures, other entities under a common control or third party acquirers. We expect these other entities will honor this Privacy Policy;</li>
+		<li>we may allow a potential acquirer or merger partner to review our databases, although we would restrict their use and disclosure of this data during the diligence phase;</li>
+		<li>as required by law enforcement, government officials, or other third parties pursuant to a subpoena, court order, or other legal process or requirement applicable to our Company; or when we believe, in our sole discretion, that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate violations of our agreements or Company policies; and</li>
+		<li>other third parties with your consent or direction to do so.</li>
+	</ul>
+	<p>
+		Please note that these third parties may be in other countries where the laws on processing personal information may be less stringent than in your country.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Our Security Measures to Protect your Personal Information</strong>
+	</p>
+	<p>
+		Our Company uses industry-standard technologies when transferring and receiving data exchanged between our Company and other companies to help ensure its security. This site has security measures in place to help protect information under our control from the risk of accidental or unlawful destruction or accidental loss, alteration or unauthorized disclosure or access. However, “perfect security” does not exist on the Internet. Also, if this website contains links to other sites, our Company is not responsible for the security practices or the content of such sites.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Our Use of Cookies, Web Beacons, Web Analytics Services, and Links</strong>
+	</p>
+	<ul>
+		<li><strong>Cookies</strong>. Many of our web pages use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personal information, this information may be linked to the data stored in the cookie. We use cookies to understand site usage and to improve the content and offerings on our sites. We also may use cookies to offer you products, programs, or services. You have many choices with regards to the management of cookies on your computer. All major browsers allow you to block or delete cookies from your system. To learn more about your ability to manage cookies, please consult the privacy features in your browser.</li>
+		<li><strong>Web Beacons.</strong> Our Company and third parties may also use small pieces of code called “web beacons” or “clear gifs” to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These “web beacons” may be used to deliver cookies that conform to our Company’s cookie requirements.</li>
+		<li><strong>Web Analytics Services.</strong> We use Google Analytics, a service for the marketing analysis of the site provided by Google, Inc. Google Analytics uses cookies to allow us to see how you use our site so we can improve your experience. Google’s ability to use and share information collected by Google Analytics about your visits to the site is restricted by the Google Analytics Terms of Use available at <a href="http://www.google.com/analytics/terms/us.html" target="_blank" title="Opens in a new window">http://www.google.com/analytics/terms/us.html</a> and the Google Privacy Policy available at <a href="http://www.google.com/policies/privacy/" target="_blank" title="Opens in a new window">http://www.google.com/policies/privacy/</a>. You can prevent Google Analytics from recognizing you on return visits to the site by disabling cookies in your browser. If you prefer to not have data reported by Google Analytics, you can install the Google Analytics Opt-out Browser Add-on available at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" title="Opens in a new window">https://tools.google.com/dlpage/gaoptout</a>.</li>
+		<li><strong>Links</strong>. We may create links to other web sites. We will make a reasonable effort to link only to sites that meet similar standards for maintaining each individual’s right to privacy. However, many other sites that are not associated with or authorized by our Company may have links leading to our site. Our Company cannot control these links and we are not responsible for any content appearing on these sites. Since this website does not control the privacy policies of third parties, you are subject to the privacy practices of that third party. We encourage you to ask questions before you disclose any personal information to others.</li>
+		<li><strong>Other</strong>. Our Company websites may use third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements and web usage. This Privacy Policy does not cover any use of information that such third parties may have collected from you or the methods used by the third parties to collect that information.</li>
+	</ul>
+	</li>
+	<li>
+	<p>
+		<strong>Our Retention of your Personal Information</strong>
+	</p>
+	<p>
+		We will retain any personal information only for as long as is necessary to fulfill the business purpose it was collected. We will also retain and use your personal information for as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>International Transfers of your Personal Information</strong>
+	</p>
+	<p>
+		Information collected from you may be stored and processed in the United States or any other country in which our Company or agents or contractors maintain facilities, and by accessing our sites and using our services, you consent to any such transfer of information outside of your country. European Union or Swiss individuals may refer to the Privacy Shield Statement below with regard to the transfer of their personal data.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Your Access to and Updating of your Personal Information</strong>
+	</p>
+	<p>
+		Reasonable access to your personal information may be provided at no cost upon request made to our Company at the contact information provided below. If access cannot be provided within that time frame, our Company will provide the requesting party a date when the information will be provided. If for some reason access is denied, we will provide an explanation as to why access has been denied.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Children’s Privacy</strong>
+	</p>
+	<p>
+		Because of the nature of our business, our services are not designed to appeal to minors. We do not knowingly attempt to solicit or receive any information from anyone under the age of 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us immediately.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Your California Privacy Rights</strong>
+	</p>
+	<p>
+		Our Company does not currently respond to browser “Do Not Track” (DNT) signals or other mechanisms. Third parties may collect personal information about your online activities over time and across sites when you visit the Site or use the Service.
+	</p>
+	<p>
+		If you are a California resident, California Civil Code Section 1798.83 permits you to request certain information regarding our disclosure of personal information to third parties for the third parties’ direct marketing purposes. To make such a request, please contact us by sending an e-mail to <a href="mailto:privacy@skyvera.com" target="_blank" title="Opens in a new window">privacy@gfisoftware.com</a>.
+	</p>
+	<p>
+		Our site, products, and services are not intended to appeal to minors. However, if you are a California resident under the age of 18, and a registered user of our Site or Service, California Business and Professions Code Section 22581 permits you to request and obtain removal of content or information you have publicly posted. To make such a request, please send an e-mail with a detailed description of the specific content or information to <a href="mailto:privacy@skyvera.com" target="_blank" title="Opens in a new window">privacy@gfisoftware.com</a>.
+	</p>
+	<p>
+		Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you have posted and that there may be circumstances in which the law does not require or allow removal even if requested.
+	</p>
+	<p>
+		Under California law, California residents who have an established business relationship with us may opt-out of our disclosing personal information about them to third parties for their marketing purposes.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Changes to our Privacy Policy</strong>
+	</p>
+	<p>
+		Our Company may amend this Privacy Policy at any time by posting a new version. It is your responsibility to review this Privacy Policy periodically as your continued use of this website represents your agreement with the then-current Privacy Policy.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Contacting Us</strong>
+	</p>
+	<p>
+		If you have any questions about this Privacy Policy, the practices or concerns of this site, please contact our Privacy Officer at: <a href="mailto:privacy@skyvera.com" target="_blank" title="Opens in a new window">privacy@gfisoftware.com</a>.
+	</p>
+	</li>
+</ol>
+<h2><strong>Privacy Shield Statement</strong></h2>
+<p>
+	GFI USA, Inc., Kerio Technologies Inc., and Exinda Inc. (collectively the “GFI Corporate Group”) comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
+</p>
+<p>
+	The GFI Corporate Group has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <a href="https://www.privacyshield.gov/" target="_blank" title="Opens in a new window">https://www.privacyshield.gov/</a>. This Privacy Statement outlines our general policy and practices for implementing the Principles, including the types of information we gather, how we use it and the notice and choice affected individuals have regarding our use of and their ability to correct that information.
+</p>
+<p>
+	<strong>A) Definitions</strong>
+</p>
+<p>
+	“Personal Data” means information that (1)is transferred from the EU/EEA or Switzerland to the United States; (2) is recorded in any form; (3) is about, or pertains to a specific individual; and (4) can be linked to that individual.
+</p>
+<p>
+	“Sensitive Personal Information” means personal information that reveals race, ethnic origin, sexual orientation, political opinions, religious or philosophical beliefs, trade union membership or that concerns an individual’s health.
+</p>
+<p>
+	<strong>B) Principles</strong>
+</p>
+<p>
+	The GFI Corporate Group may receive Personal Data from its own personnel as well as from its affiliates and other parties located in the EU/EEA. Such information may contain, but is not limited to name (fist and last name), position, address, email address, phone number, login credentials, human resources data and transaction information and may be about customers, clients of customers, business partners, acquisition targets, potential buyers consultants, employees, and candidates for employment and includes information recorded on various media as well as electronic data.
+</p>
+<p>
+	Other than its own human resources data, the GFI Corporate Group generally does not collect Personal Data directly from individuals. The GFI Corporate Group, however, acting as a data processor may receive Personal Data via its customers. The GFI Corporate Group executes data processing agreements with such customers which set out the parties’ obligations and responsibilities to comply with the Principles. The GFI Corporate Group will cooperate with its customers to enable them to comply with the Principles, to the extent a Principle is applicable to the GFI Corporate Group.
+</p>
+<p>
+	Whenever the GFI Corporate Group collects Personal Data directly from individuals, the GFI Corporate Group complies with the Principles:
+</p>
+<ol>
+	<li>
+	<p>
+		<strong>Notice</strong>. We shall inform an individual of the purpose for which we collect and use their Personal Data and the types of third parties to which the GFI Corporate Group discloses or may disclose that Personal Data. The GFI Corporate Group shall provide the individual with the choice and means for limiting the use and disclosure of their Personal Data. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal Data to the GFI Corporate Group, or as soon as practicable thereafter, and in any event before the GFI Corporate Group uses or discloses the Personal Data for a purpose other than for which it was originally collected. The GFI Corporate Group may be required to disclose Personal Data in response to lawful request by public authorities, including to meet national security or law enforcement requirements.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Choice</strong>. Individuals have the opportunity to choose (opt out) whether their Personal Data is (1) to be disclosed to a non-Agent third party or (2) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual by contacting our Data Protection Officer via email at <a href="mailto:privacy@GFIsoftware.com" target="_blank" title="Opens in a new window">privacy@GFIsoftware.com</a>. For Sensitive Personal Information, The GFI Corporate Group will give individuals the opportunity to affirmatively or explicitly (opt in) consent to the disclosure of the information to a non-Agent third party or for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual. The GFI Corporate Group shall treat Sensitive Personal Information received from an individual the same as the individual would treat and identify it as Sensitive Personal Information. Agents, technology vendors and/or contractors of the GFI Corporate Group or affiliated companies may have access to an individual’s Personal Data on a need to know basis for the purpose of performing services on behalf of the GFI Corporate Group or providing or enabling elements of the services. All such agents, technology vendors and contractors who have access to such information are contractually required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for the GFI Corporate Group or as otherwise required by law.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Accountability for Onward Transfer.</strong> Prior to disclosing Personal Data to a third party, we shall notify the individual of such disclosure and allow the individual the choice (opt out) of such disclosure. The GFI Corporate Group shall ensure that any third party to which Personal Data may be disclosed subscribes to the Principles or is subject to laws providing the same level of privacy protection as is required by the Principles and agrees in writing to provide an adequate level of privacy protection. The GFI Corporate Group may be held responsible in cases of onward transfers to third parties.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Data Security.</strong> We shall take reasonable steps to protect the Personal Data from loss, misuse and unauthorized access, disclosure, alteration and destruction. The GFI Corporate Group has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the Personal Data from loss, misuse, unauthorized access or disclosure, alteration or destruction. However, the GFI Corporate Group cannot guarantee the security of Personal Data on or transmitted via the Internet.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Data Integrity and Purpose Limitation.</strong> We shall only process Personal Data in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, the GFI Corporate Group shall take reasonable steps to ensure that Personal Data is accurate, complete, current and reliable for its intended use.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Access and Recourse.</strong> We acknowledge the individual’s right to access their Personal Data. We shall allow an individual access to their Personal Data and allow the individual the opportunity to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated. Individuals may contact our Data Protection Officer via email to request access. In cases where the GFI Corporate Group is a Data Processor, individuals must contract the Data Controller.
+	</p>
+	</li>
+	<li>
+	<p>
+		<strong>Enforcement and Liability.</strong> The Federal Trade Commission has jurisdiction over the GFI Corporate Group’s compliance with the Privacy Shield. In compliance with the EU-US Privacy Shield Principles, the GFI Corporate Group commits to resolve complaints about privacy and our collection or use of Personal Data. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact us at:
+	</p>
+	<p>
+		GFI Corporate Group<br>
+		Data Protection Officer<br>
+		401 Congress Avenue, Suite 2650<br>
+		Austin Texas 78701 USA<br>
+		E-mail: <a href="mailto:privacy@skyvera.com" target="_blank" title="Opens in a new window">privacy@gfisoftware.com</a>
+	</p>
+	<ul>
+		<li>
+		<p>
+			<strong>Human Resources Data</strong>. If your complaint is not satisfactorily addressed by the GFI Corporate Group, and your inquiry or complaint involves human resource data, you may have your complaint considered by an independent recourse mechanism: for EU/EEA Data Subjects, a panel established by the EU data protection authorities (“DPA Panel”), and for Swiss Data Subjects, the Swiss Federal Data Protection and Information Commissioner (“FDPIC”). To do so, you should contact the state or national data protection or labor authority in the jurisdiction where you work. The GFI Corporate Group agrees to cooperate with the relevant national DPAs and to comply with the decisions of the DPA Panel and the FDPIC. The services of EU DPAs are provided at no cost to you.
+		</p>
+		</li>
+		<li>
+		<p>
+			<strong>Non-Human Resources Data</strong>. If you do not receive timely acknowledgment of your complaint by the GFI Corporate Group, or if your complaint is not satisfactorily addressed, please visit <a href="http://www.bbb.org/EU-privacy-shield/for-eu-consumers/" target="_blank" title="Opens in a new window">www.bbb.org/EU-privacy-shield/for-eu-consumers/</a> for more information and to file a complaint. GFI CORPORATE GROUP has committed to refer unresolved privacy complaints under the Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus.
+		</p>
+		<p>
+			Please note that if your complaint is not resolved through any of the above channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+		</p>
+		</li>
+	</ul>
+	</li>
+</ol>
+<p>
+	<strong>C) Amendments</strong>
+</p>
+<p>
+	This Privacy Statement may be amended from time to time consistent with the requirements of the Shield Frameworks. We will post any revised policy on this website.
+</p>
+<p>
+	<strong>D) Information Subject to Other Policies</strong>
+</p>
+<p>
+	We are committed to following the Principles for all Personal Data within the scope of the Privacy Shield Frameworks. However, certain information is subject to policies of the GFI Corporate Group that may differ in some respects from the general policies set forth in this Privacy Statement. We are committed to following the Principles for all Personal Data within the scope of the Privacy Shield Frameworks. However, certain information is subject to policies of the GFI Corporate Group that may differ in some respects from the general policies set forth in this Privacy Statement.
+</p>
+<p>
+	Last Updated: April 2, 2018.
+</p>
+</div>
 
     
-  <div class="content">
-    <div id="node-457" class="node node-reusable-content node-promoted clearfix" about="http://www.kerio.com/content/footer-links" typeof="sioc:Item foaf:Document">
-
-  
-        <h2><a href="http://www.kerio.com/content/footer-links"></a></h2>
-    <span property="dc:title" content="Footer Links" class="rdf-meta element-hidden"></span>
-  
-  <div class="content">
-    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="container">
-<div class="one-third column row slinks">
-  <div>
-    <h5><a href="http://www.kerio.com/products">Products</a></h5>
-    <p>
-      <a href="http://www.kerio.com/products/kerio-cloud">Kerio Cloud</a><br><a href="http://www.kerio.com/node/1497">Kerio Connect</a><br><a href="http://www.kerio.com/node/1498">Kerio Control</a><br><a href="http://www.kerio.com/node/1499">Kerio Operator</a><br></p>
-    <br><h5><a href="http://www.kerio.com/node/1505">Try Now</a></h5>
-  </div>
-  <div>  
-    <h5><a href="http://www.kerio.com/node/1534">Support</a></h5>
-    <p>
-      <a href="http://www.kerio.com/support/technical-support">Technical Support</a><br><a href="http://www.kerio.com/support/kerio-connect">Kerio Connect</a><br><a href="http://www.kerio.com/support/kerio-control">Kerio Control</a><br><a href="http://www.kerio.com/support/kerio-operator">Kerio Operator</a><br><a href="http://kb.kerio.com" target="_blank">Knowledge Base</a><br><a href="http://www.kerio.com/support/technical-support#bug">Report a Bug</a><br><a href="http://status.kerio.com" target="_blank">Status</a>
-    </p>
-  </div>
-</div><!--/ .columns -->
-<div class="one-third column row slinks">
-  <div>
-    <h5><a href="http://www.kerio.com/learn-community">Learn/Community</a></h5>
-    <p>
-      <a href="http://www.kerio.com/blog">Kerio Blog</a><br><a href="http://www.kerio.com/learn-community/developer-zone">Developer Zone</a><br><a href="http://forums.kerio.com/" target="_blank">Forums</a><br></p>
-  </div>
-  <div>  
-    <h5><a href="https://www.gfi.com/partners">Partners</a></h5>
-    <p>
-      <a href="https://www.gfi.com/partners/partner-program-intro">Partner Program</a><br><a href="https://www.gfi.com/app/newpartner" target="_blank">Become a Partner</a><br><a href="http://www.kerio.com/node/1510">Partner Locator</a><br><a href="http://partners.gfi.com/" target="_blank">Partner Portal Login</a>
-      <a href="https://secure.kerio.com/order/login.php" target="_blank">Partner Online Store</a>
-    </p>
-  </div>
-</div><!--/ .columns -->
-<div class="one-third column row slinks">
-  <div>
-    <h5><a href="http://www.kerio.com/node/1511">Company</a></h5>
-    <p>
-      <a href="http://www.kerio.com/node/1511">About Us</a><br><a href="http://www.kerio.com/company/media-center">Media Center</a><br><a href="https://www.gfi.com/company/careers/careers">Careers</a><br><a href="http://www.kerio.com/node/1494">Contact Us</a><br><a href="mailto:webmaster@kerio.com">Webmaster</a><br></p>
-  </div>
-  <div>  
-    <h5>Legal</h5> 
-   <p>
-      <a href="http://www.kerio.com/terms-of-use">Terms of Use</a><br><a href="http://www.kerio.com/privacy-policy">Privacy Policy</a><br><a href="http://www.kerio.com/trademark-guidelines">Trademark Guidelines</a><br><a href="http://www.kerio.com/license-agreement">EULA</a><br><a href="http://www.kerio.com/cloud-terms-service">Cloud Terms of Service</a><br><a href="http://www.kerio.com/cloud-sla">Cloud SLA</a><br></p>
-  </div>
-</div><!--/ .columns -->
-
-<div class="clear"></div>
-
-<div class="container flinks row">
-  <div class="widget widget_contacts">
-    <ul class="social-icons homepage"><li><a href="https://www.facebook.com/keriotech" target="_blank" class="smc-fb"></a></li>
-      <li><a href="http://www.linkedin.com/company/kerio-technologies" target="_blank" class="smc-li"></a></li>
-      <li><a href="http://www.twitter.com/keriotech" target="_blank" class="smc-tw"></a></li>
-    </ul><!--/ .social-icons --></div>
-  <div class="kCP"><p>Copyright © 2017. Kerio Technologies Inc. All rights reserved.</p></div>
 </div>
+    
+    <div class="banner-wrapper" id="cookie" style="display:none">
+    <div id="cookie-banner" class="cookie-banner full bottom show">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="row">
+                        <div class="col-sm-10 col-xs-12">
+
+                            <div class="cookie-content">
+                                By continuing to browse this site, you give consent for cookies to be used. For more details please read our <a href="/legal/history/global-privacy-policy">Cookie Policy</a>
+                            </div>
+                        </div>
+                        <div class="col-sm-2 col-xs-12">
+                            <a class="button cta-cookie" href="#">Accept</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    <footer>
+    <div class="container">
+        <div class="row margin-top-20">
+            
+    <div class="col-xs-12 col-md-3 logo-text-wrapper">
+        <img alt="GFI Software" class=" lazyload" data-src="https://cdnimg.gfi.com/-/media/images/gfi/company/logos/gfi-software_wht.ashx?v=1&amp;d=20190909t113600z&amp;la=en">
+        <p class="footer-Text">
+            Expanding software library of easy, cost effective &amp; trusted solutions that delivers immediate business value.
+        </p>
+    </div>
+
+<div class="col-xs-12 col-md-9">
+    <ul class="footer-menu main">
+            <li class="link-column">
+                    <a href="/products-and-solutions/all-products">Products and solutions</a>
+                                    <ul>
+                            <li>
+                                <a href="/products-and-solutions/email-and-messaging-solutions">Email and messaging solutions</a>
+                            </li>
+                            <li>
+                                <a href="/products-and-solutions/network-security-solutions">Network security solutions</a>
+                            </li>
+                            <li>
+                                <a href="/products-and-solutions/all-products">All products</a>
+                            </li>
+                            <li>
+                                <a href="/downloads">Downloads</a>
+                            </li>
+                    </ul>
+            </li>
+            <li class="link-column">
+                    <a href="/partners">Partners</a>
+                                    <ul>
+                            <li>
+                                <a href="/partners/partner-program-intro">Partner Program</a>
+                            </li>
+                            <li>
+                                <a href="/partners/become-a-gfi-partner">Become a GFI Partner</a>
+                            </li>
+                            <li>
+                                <a href="/partners/find-a-partner">Find a GFI Partner</a>
+                            </li>
+                            <li>
+                                <a href="https://www.partners.gfi.com">GFI Partner Portal</a>
+                            </li>
+                            <li>
+                                <a href="/partners/gfi-technology-partners">GFI Technology Partners</a>
+                            </li>
+                            <li>
+                                <a href="/partners/gfi-oem-partners">GFI OEM Partners</a>
+                            </li>
+                    </ul>
+            </li>
+            <li class="link-column">
+                    <a href="/company">Company</a>
+                                    <ul>
+                            <li>
+                                <a href="/company/careers">Careers</a>
+                            </li>
+                            <li>
+                                <a href="/company/press">Press center</a>
+                            </li>
+                            <li>
+                                <a href="/company/about-us">About us</a>
+                            </li>
+                            <li>
+                                <a href="/company/awards">Awards</a>
+                            </li>
+                            <li>
+                                <a href="/company/customers">Customers</a>
+                            </li>
+                            <li>
+                                <a href="/company/leadership">Leadership</a>
+                            </li>
+                            <li>
+                                <a href="/contact-us">Contact</a>
+                            </li>
+                    </ul>
+            </li>
+            <li class="link-column">
+                    <a href="https://support.gfi.com">Support</a>
+                                    <ul>
+                            <li>
+                                <a href="/support">All products</a>
+                            </li>
+                            <li>
+                                <a href="https://forums.gfi.com/">GFI Forum</a>
+                            </li>
+                            <li>
+                                <a href="/support/support-policies">Support policies</a>
+                            </li>
+                            <li>
+                                <a href="https://support.gfi.com">Contact support</a>
+                            </li>
+                    </ul>
+            </li>
+            <li class="link-column">
+                    <a href="/partners/find-a-partner">Store</a>
+                                    <ul>
+                            <li>
+                                <a href="/partners/find-a-partner">All products</a>
+                            </li>
+                            <li>
+                                <a href="/ordering">How to order</a>
+                            </li>
+                            <li>
+                                <a href="/pages/why-buy-gfi">Why buy GFI?</a>
+                            </li>
+                    </ul>
+            </li>
+    </ul>
 </div>
 
-<div class="clear"></div></div></div></div>  </div>
 
-  
-  
-</div>
-  </div>
-</div>
-  </div>
-				  		  
-		    </div>
-      </div>
-	  </div>  
-	</footer>
-	
-</div>
-
-<script type="text/javascript" src="http://www.kerio.com/sites/default/files/advagg_js/js__vTBu7KPEWJFi91F8y-hg7R4zOrayXdXsXvd1UEASa88__JHNFkVFWQhUdQq5iN6_PvhzamJa_2g4f-n9sLXKjFWw__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","http://www.kerio.com/sites/default/files/googleanalytics/analytics.js?ozshiu","ga");ga("create", "UA-296446-5", "auto");ga("require", "linkid", "linkid.js");ga("require", "displayfeatures");ga("send", "pageview");
-//--><!]]>
-</script>
-<script type="text/javascript" src="http://www.kerio.com/sites/default/files/advagg_js/js__khWQnONsJWmPaj-h5tsm-A9OVbcVCjayRKRy6SLa_Ao__t79giE1sUX1P27GdNUqF_bUiuxvNzyXjNBsjGNI_gg4__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.js"></script>
-<script type="text/javascript" src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js"></script>
-<script type="text/javascript" src="http://www.kerio.com/sites/default/files/advagg_js/js__CbjnDCCED_PbvqFiEbP7TV3sntNECVtfUTbhYbYYyko__16xEllDI8EZC_0Pq8vx152KUQpYyOjK4ZQF3OOTwDWs__XP7jPJv0Ei6Bf-Zt06sM4XJQS7B02RHLM3IlxrJfUhc.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-
-          Shadowbox.path = "/sites/all/libraries/shadowbox-3.0.3/";
+        </div>
         
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"goodnex_sub","theme_token":"WIiSiK3LUjCYfnrditgAJANh8zS4ZlAP6QfOPR8qrmA","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/tipsy\/stylesheets\/tipsy.css":1,"sites\/all\/libraries\/shadowbox-3.0.3\/shadowbox.css":1,"0":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/all\/modules\/custom_search\/custom_search.css":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/meanmenu.min.css":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.css":1,"\/\/fonts.googleapis.com\/css?family=Open+Sans:300italic,400italic,400,800,700,600,300\u0026subset=latin,cyrillic-ext,latin-ext,cyrillic":1,"\/\/netdna.bootstrapcdn.com\/font-awesome\/4.0.3\/css\/font-awesome.css":1,"sites\/all\/themes\/goodnex\/css\/mini_style.css":1,"sites\/all\/themes\/goodnex\/css\/mini_drupal.css":1,"sites\/all\/themes\/goodnex\/css\/mini_skeleton.css":1,"sites\/all\/themes\/goodnex\/css\/mini_layout.css":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.css":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/css\/flexslider.css":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/jquery.mediaelementplayer.css":1,"sites\/all\/themes\/goodnex_sub\/css\/mini_responsive-tables.css":1,"sites\/all\/themes\/goodnex_sub\/css\/mini_kerioCore.css":1,"sites\/all\/themes\/goodnex_sub\/css\/mini_jcarousel.css":1},"js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/tipsy\/javascripts\/jquery.tipsy.js":1,"sites\/all\/modules\/tipsy\/javascripts\/tipsy.js":1,"sites\/all\/libraries\/shadowbox-3.0.3\/shadowbox.js":1,"sites\/all\/modules\/shadowbox\/shadowbox_auto.js":1,"sites\/all\/modules\/environment_indicator\/tinycon.min.js":1,"sites\/all\/modules\/environment_indicator\/environment_indicator.js":1,"sites\/all\/modules\/environment_indicator\/color.js":1,"sites\/all\/modules\/custom_search\/js\/custom_search.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/jquery.meanmenu.min.js":1,"sites\/all\/modules\/responsive_menus\/styles\/meanMenu\/responsive_menus_mean_menu.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/lang_dropdown\/lang_dropdown.js":1,"\/\/js.maxmind.com\/js\/apis\/geoip2\/v2.1\/geoip2.js":1,"sites\/all\/themes\/goodnex\/js\/mini_jquery.modernizr.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.easing.1.3.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.cycle.all.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.blackandwhite.min.js":1,"sites\/all\/themes\/goodnex\/js\/mediaelement\/mediaelement-and-player.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jcarousel.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.jflickrfeed.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.touchswipe.min.js":1,"sites\/all\/themes\/goodnex\/js\/jquery.isotope.min.js":1,"sites\/all\/themes\/goodnex\/js\/mini_mobile-map.js":1,"sites\/all\/themes\/goodnex\/js\/fancybox\/jquery.fancybox-1.3.4.pack.js":1,"sites\/all\/themes\/goodnex\/js\/flexslider\/js\/jquery.flexslider-min.js":1,"sites\/all\/themes\/goodnex\/js\/mini_config.js":1,"sites\/all\/themes\/goodnex\/js\/mini_custom.js":1,"sites\/all\/themes\/goodnex\/js\/mini_goodnex.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_smartresize.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_responsive-tables.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_customize-twitter-1.1.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_jquery.tinycarousel.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_jquery.sticky.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_munchkin.js":1,"sites\/all\/themes\/goodnex_sub\/js\/cookie.js":1,"sites\/all\/themes\/goodnex_sub\/js\/mini_kerioCore.js":1}},"kgeoip":{"key":"US"},"shadowbox":{"animate":1,"animateFade":1,"animSequence":"sync","auto_enable_all_images":0,"auto_gallery":0,"autoplayMovies":true,"continuous":0,"counterLimit":"10","counterType":"default","displayCounter":1,"displayNav":1,"enableKeys":0,"fadeDuration":"0.5","handleOversize":"resize","handleUnsupported":"link","initialHeight":10,"initialWidth":10,"language":"en","modal":false,"overlayColor":"#000","overlayOpacity":"0.5","resizeDuration":"0.25","showMovieControls":1,"slideshowDelay":"5","viewportPadding":20,"useSizzle":0},"custom_search":{"form_target":"_self","solr":0},"tipsy":{"custom_selectors":[{"selector":".tipsy","options":{"fade":1,"gravity":"w","trigger":"hover","delayIn":"0","delayOut":"0","opacity":"0.8","offset":"0","html":1,"tooltip_content":{"source":"attribute","selector":"data-tipsy"}}}]},"responsive_menus":[{"selectors":"#navigation","trigger_txt":"\u003Cspan \/\u003E\u003Cspan \/\u003E\u003Cspan \/\u003E","close_txt":"X","close_size":"15px","position":"right","media_size":"767","show_children":"1","expand_children":"1","expand_txt":"+","contract_txt":"-","remove_attrs":"1","responsive_menus_style":"mean_menu"}],"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip","trackCrossDomains":["www.kerio.com","www.kerio.ru","www.kerio.cz","www.kerio.de","www.kerio.fr","www.kerio.se","www.kerio.com.tr","www.kerio.pl"]},"urlIsAjaxTrusted":{"\/privacy-policy":true}});
-//--><!]]>
-</script>
 
-<div style="position: absolute; top: -250px; left: -250px;"><a rel="nofollow" href="http://pacura.ru/evident.php?idata=69">ariwillnotletyoupass</a></div>
-<!-- Google Code for Remarketing Tag MCC -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 945113159;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/945113159/?value=0&amp;guid=ON&amp;script=0"/>
+<div class="row secondaryFooter">
+
+        <div class="col-md-3 col-xs-12">
+
+            <div class="language-select-wrapper">
+                <div class="selected-language">
+                    <ul class="language-dropdown">
+                            <li class="lang-en"><a href="http://www.gfi.com">English</a></li>
+                            <li class="lang-de"><a href="http://www.gfisoftware.de">Deutsch</a></li>
+                            <li class="lang-es"><a href="http://www.gfihispana.com">Español</a></li>
+                            <li class="lang-fr"><a href="http://www.gfsfrance.com">Français</a></li>
+                            <li class="lang-it"><a href="http://www.gfi-italia.com">Italiano</a></li>
+                            <li class="lang-ne"><a href="http://www.gfi.nl">Nederlands</a></li>
+                    </ul>
+                    English
+                    <i class="fa fa-chevron-up"></i> <i class="fa fa-chevron-down"></i>
+                </div>
+            </div>
+        </div>
+
+
+    <div class="col-md-9 col-xs-12">
+        <ul class="footer-menu social">
+                <li>
+                    <a title="facebook" href="http://www.facebook.com/gfisoftware">
+                        <i class="fa fa-facebook"></i>
+                    </a>
+                </li>
+                <li>
+                    <a title="Linkedin" href="http://www.linkedin.com/company/gfi-software">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                </li>
+                <li>
+                    <a title="Twitter" href="http://twitter.com/gfisoftware">
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </li>
+                <li>
+                    <a title="Youtube" href="https://www.youtube.com/user/gfisoftware">
+                        <i class="fa fa-youtube"></i>
+                    </a>
+                </li>
+        </ul>
+        <ul class="footer-menu secondary">
+                <li>
+                    <a href="/contact-us">Contact us</a>
+                </li>
+                <li>
+                    <a href="/sitemap">Sitemap</a>
+                </li>
+                <li>
+                    <a href="/legal">Legal</a>
+                </li>
+                <li>
+                    <a href="/legal/copyright-infringement">Copyright</a>
+                </li>
+                <li>
+                    <a href="/legal/privacy-policy-statement">Privacy and cookies</a>
+                </li>
+            <li style="margin-right:20px">
+                <a href="../">© 2019 GFI Software</a>
+            </li>
+        </ul>
+
+    </div>
 </div>
-</noscript>
+    </div>
+</footer>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3704ad241a","applicationID":"2884765","transactionName":"NFcDZkFZWhZSVBUIDg0dIFFHUVsLHFkOBQQ8QgBVVmdCDFZA","queueTime":0,"applicationTime":403,"atts":"GBAAEAlDSRg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+    
+    <!-- This site is converting visitors into subscribers and customers with OptinMonster - https://optinmonster.com -->
+<script type="text/javascript" src="https://a.opmnstr.com/app/js/api.min.js" data-account="1856" data-user="26951" async=""></script>
+<!-- / https://optinmonster.com -->
 
-</body></html>
+
+<script src="/bundles/script/libraries?v=fF0G28KfJ-xemP-N0ks5OOnH6qoXO_BpJ1zn2uXufko1"></script>
+<script src="/bundles/script/features?v=cuSdId083mYdOAE-hCy2H8RqkO5cNqgdJrqLvRf4Jig1"></script>
+    <script src="/Scripts/lazysizes.min.js"></script>
+
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>
