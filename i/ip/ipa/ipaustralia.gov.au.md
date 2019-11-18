@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512220105id_/https%3A//www.ipaustralia.gov.au/about-us/agency-overview/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaustralia.gov.au privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118230232id_/https%3A//www.ipaustralia.gov.au/about-us/agency-overview/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | IP Australia
 
@@ -24,7 +24,7 @@ We comply with the  _[Privacy Act 1988](http://www.comlaw.gov.au/Details/C2013C
 
 The Privacy Act contains 13 Australian Privacy Principles (APPs) which provide the rules for how agencies must handle your personal information, including how you can request access to, and correction of, that information.
 
-Detailed information on the Privacy Act and APPs can be found on the website of the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/privacy/about-privacy) (OAIC).
+Detailed information on the Privacy Act and APPs can be found on the website of the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/privacy/) (OAIC).
 
 ## Personal information handling
 
@@ -65,7 +65,7 @@ Our [website usage and information policy](https://web.archive.org/about-us/agen
 
 ## Privacy Impact Assessments
 
-The [Privacy (Australian Government Agencies – Governance) APP Code 2017 (Cth)](https://www.oaic.gov.au/privacy-law/privacy-registers/privacy-codes/privacy-australian-government-agencies-governance-app-code-2017) (APP Code) requires that all Australian Government agencies, including IP Australia, conduct a Privacy Impact Assessment (PIA) for each high privacy risk project.
+The [Privacy (Australian Government Agencies – Governance) APP Code 2017 (Cth)](https://www.oaic.gov.au/privacy/privacy-registers/privacy-codes-register/australian-government-agencies-privacy-code/) (APP Code) requires that all Australian Government agencies, including IP Australia, conduct a Privacy Impact Assessment (PIA) for each high privacy risk project.
 
 The table below lists the PIAs completed by IP Australia since the APP Code came into effect on 1 July 2018.
 
@@ -81,4 +81,6 @@ Privacy Impact Assessment for TM-Link – Release 1
 
 | 
 
-July 2018
+July 2018  
+  
+Privacy Impact Assessment for Customer Satisfaction Survey  | May 2019
