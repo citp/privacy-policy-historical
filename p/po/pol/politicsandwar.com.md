@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the politicsandwar.com privacy policy that was archived on 2018-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180904021405id_/https%3A//politicsandwar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicsandwar.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118180722id_/https%3A//politicsandwar.com/privacy) for the most accurate reproduction.*
 
 # Politics & War - Rule your own country!
 
 Privacy Policy
 
-### Red Road Entertainment LLC Privacy Policy
+### Politics and War Privacy Policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from https://politicsandwar.com (the "Game"), related sub-domains such as http://test.politicsandwar.com (also the "Game"), as well as the official Politics and War Google Play Store applications for Android devices also (the "Game"). 
 
