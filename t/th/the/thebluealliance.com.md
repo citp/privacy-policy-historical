@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebluealliance.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628195121id_/https%3A//www.thebluealliance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebluealliance.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118051750id_/https%3A//www.thebluealliance.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Blue Alliance
 
