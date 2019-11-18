@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the worthpoint.com privacy policy that was archived on 2019-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190608054413id_/https%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worthpoint.com privacy policy that was archived on 2019-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191118080913id_/https%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    
+  
 <script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script>
-    var userType = "";
-    var userLevel = "";
+    var userType = undefined;
+    var userLevel = undefined;
     var countryCode = "US";
     function setGoogleAnalyticsUserLevel(result) {
         var roles = result.roles;
@@ -46,18 +46,17 @@
         userType = (!userLevel ? 'Anonymous' :
                 result.isTrial === true ? 'Trial' : 'Member'
         );
-        dataLayer = [{
+        var dataLayer = window.dataLayer = window.dataLayer || [];
+        dataLayer.push({
             'UserType': userType,
             'UserLevel': userLevel,
             'CountryCode': countryCode
-        }];
+        });
         var usrLayer = dataLayer[0];
-        if (usrLayer.UserType === "") {
-            delete usrLayer.UserType;
-        }
-        if (usrLayer.UserLevel === "") {
-            delete usrLayer.UserLevel;
-        }
+        var email = result.email;
+        email
+            ? dataLayer.push({ 'event': 'start_pw', 'pw_user_email': email })
+            : dataLayer.push({ 'event': 'start_pw' });
         <!-- Google Tag Manager -->
         (function (w, d, s, l, i) {
             w[l] = w[l] || [];
@@ -90,29 +89,32 @@
   <![endif]-->
 
   
-<!-- All in One SEO Pack 3.0.3 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<!-- All in One SEO Pack 3.3.2 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
 <meta name="description" content="WorthPoint Corporation Privacy Policy This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable">
 
+<script type="application/ld+json" class="aioseop-schema">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.worthpoint.com/#organization","url":"https://www.worthpoint.com/","name":"WorthPoint","sameAs":[]},{"@type":"WebSite","@id":"https://www.worthpoint.com/#website","url":"https://www.worthpoint.com/","name":"WorthPoint","publisher":{"@id":"https://www.worthpoint.com/#organization"}},{"@type":"WebPage","@id":"https://www.worthpoint.com/worthpoint-privacy-policy#webpage","url":"https://www.worthpoint.com/worthpoint-privacy-policy","inLanguage":"en-US","name":"Privacy Policy","isPartOf":{"@id":"https://www.worthpoint.com/#website"},"datePublished":"2014-11-06T10:49:04+00:00","dateModified":"2019-04-08T07:54:45+00:00"}]}</script>
 <link rel="canonical" href="https://www.worthpoint.com/worthpoint-privacy-policy">
 <!-- All in One SEO Pack -->
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="WorthPoint » Feed" href="https://www.worthpoint.com/feed">
 <link rel="alternate" type="application/rss+xml" title="WorthPoint » Comments Feed" href="https://www.worthpoint.com/comments/feed">
-<link rel="stylesheet" id="yarppWidgetCss-css" href="https://s14171.pcdn.co/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.9.10" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="https://s14171.pcdn.co/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.3" type="text/css" media="all">
-<link rel="stylesheet" id="responsive-lightbox-fancybox-css" href="https://s14171.pcdn.co/wp-content/plugins/responsive-lightbox/assets/fancybox/jquery.fancybox.min.css?ver=2.1.0" type="text/css" media="all">
-<link rel="stylesheet" id="chester_style-css" href="https://s14171.pcdn.co/wp-content/themes/chester/style.css?ver=4.9.10" type="text/css" media="all">
-<link rel="stylesheet" id="style-css" href="https://s14171.pcdn.co/wp-content/themes/chester/assets/css/main.css?ver=1557825646" type="text/css" media="screen">
+<link rel="stylesheet" id="yarppWidgetCss-css" href="https://s14171.pcdn.co/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://s14171.pcdn.co/wp-includes/css/dist/block-library/style.min.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="app-banners-styles-css" href="https://s14171.pcdn.co/wp-content/plugins/appbanners/lib/smartbanner/jquery.smartbanner.min.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://s14171.pcdn.co/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.5" type="text/css" media="all">
+<link rel="stylesheet" id="chester_style-css" href="https://s14171.pcdn.co/wp-content/themes/chester/style.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="style-css" href="https://s14171.pcdn.co/wp-content/themes/chester/assets/css/main.css?ver=1570695553" type="text/css" media="screen">
 <link rel="stylesheet" id="jqueryUI-css" href="https://s14171.pcdn.co/wp-content/themes/chester/assets/css/jquery-ui.min.css?ver=1551784491" type="text/css" media="screen">
 <link rel="stylesheet" id="slick-css" href="https://s14171.pcdn.co/wp-content/themes/chester/assets/css/slick.css?ver=1471966019" type="text/css" media="screen">
-<link rel="stylesheet" id="blue-css" href="https://s14171.pcdn.co/wp-content/themes/chester/assets/css/skins/blue/blue.css?ver=4.9.10" type="text/css" media="screen">
-<link rel="stylesheet" id="mytheme-opensans-css" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;ver=4.9.10" type="text/css" media="all">
-<link rel="stylesheet" id="addthis_all_pages-css" href="https://s14171.pcdn.co/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=4.9.10" type="text/css" media="all">
-<link rel="stylesheet" id="style.owl.carousel-css" href="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/css/owl.carousel.css?ver=4.9.10" type="text/css" media="all">
-<link rel="stylesheet" id="style.owl.carousel.theme-css" href="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/css/owl.theme.css?ver=4.9.10" type="text/css" media="all">
-<link rel="stylesheet" id="style.owl.carousel.transitions-css" href="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/css/owl.transitions.css?ver=4.9.10" type="text/css" media="all">
-<link rel="stylesheet" id="style.owl.carousel.styles-css" href="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/css/styles.css?ver=4.9.10" type="text/css" media="all">
+<link rel="stylesheet" id="blue-css" href="https://s14171.pcdn.co/wp-content/themes/chester/assets/css/skins/blue/blue.css?ver=5.1.3" type="text/css" media="screen">
+<link rel="stylesheet" id="mytheme-opensans-css" href="https://fonts.googleapis.com/css?family=Open+Sans&amp;ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="select2-css" href="https://s14171.pcdn.co/wp-content/themes/chester/assets/css/select2.min.css?ver=1562753546" type="text/css" media="screen">
+<link rel="stylesheet" id="addthis_all_pages-css" href="https://s14171.pcdn.co/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="style.owl.carousel-css" href="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/css/owl.carousel.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="style.owl.carousel.theme-css" href="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/css/owl.theme.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="style.owl.carousel.transitions-css" href="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/css/owl.transitions.css?ver=5.1.3" type="text/css" media="all">
+<link rel="stylesheet" id="style.owl.carousel.styles-css" href="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/css/styles.css?ver=5.1.3" type="text/css" media="all">
 <script type="text/javascript" src="https://s14171.pcdn.co/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://s14171.pcdn.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/mailchimp//js/scrollTo.js?ver=1.5.7"></script>
@@ -123,35 +125,50 @@ var mailchimpSF = {"ajax_url":"https:\/\/www.worthpoint.com\/"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/mailchimp//js/mailchimp.js?ver=1.5.7"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/responsive-lightbox/assets/fancybox/jquery.fancybox.min.js?ver=2.1.0"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=4.9.10"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var rlArgs = {"script":"fancybox","selector":"lightbox","customEvents":"","activeGalleries":"1","modal":"0","showOverlay":"1","showCloseButton":"1","enableEscapeButton":"1","hideOnOverlayClick":"1","hideOnContentClick":"0","cyclic":"0","showNavArrows":"1","autoScale":"1","scrolling":"yes","centerOnScroll":"1","opacity":"1","overlayOpacity":"70","overlayColor":"#666","titleShow":"0","titlePosition":"outside","transitions":"fade","easings":"swing","speeds":"300","changeSpeed":"300","changeFade":"100","padding":"5","margin":"5","videoWidth":"1080","videoHeight":"720","woocommerce_gallery":"0","ajaxurl":"https:\/\/www.worthpoint.com\/wp-admin\/admin-ajax.php","nonce":"383d26c219"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.1.0"></script>
 <script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/bootstrap/bootstrap.min.js?ver=1551784491"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/jquery.blockUI.min.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/scrollingcarousel.min.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/jqBootstrapValidation.min.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/jquery-ui.min.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/slick.min.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/parallax.min.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/js.cookie.min.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/is.min.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/ads.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/constant-contact-api/lib/form-designer/js/cc-widget.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/js/owl.carousel.js?ver=4.9.10"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/js/script.js?ver=4.9.10"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/jquery.blockUI.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/scrollingcarousel.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/jqBootstrapValidation.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/jquery-ui.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/slick.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/parallax.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/modernizr-custom.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/js.cookie.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/is.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/ads.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/themes/chester/assets/js/select2.full.min.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/constant-contact-api/lib/form-designer/js/cc-widget.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/js/owl.carousel.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/owl-carousel/js/script.js?ver=5.1.3"></script>
 <link rel="https://api.w.org/" href="https://www.worthpoint.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.worthpoint.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s14171.pcdn.co/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.10">
+<meta name="generator" content="WordPress 5.1.3">
 <link rel="shortlink" href="https://www.worthpoint.com/?p=64">
 <link rel="alternate" type="application/json+oembed" href="https://www.worthpoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.worthpoint.com%2Fworthpoint-privacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="https://www.worthpoint.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.worthpoint.com%2Fworthpoint-privacy-policy&amp;format=xml">
-<link rel="Shortcut Icon" type="image/x-icon" href="https://www.worthpoint.com/wp-content/uploads/2018/08/wp-coin-2018.ico"><script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.3"; } if (window.wp_blog_version === undefined) { window.wp_blog_version = "4.9.10"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ui_atversion":300}; } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.3","plugin_mode":"AddThis","anonymous_profile_id":"wp-25dcbb0d589e28f23ba616155ad707a8","page_info":{"template":"pages","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+<meta name="google-play-app" content="app-id=com.worthpoint.priceguide">
+<meta name="author" content="WorthPoint Corporation">
+
+        <!-- Standard -->
+        <link rel="icon" type="image/png" sizes="32x32" href="//d2xf21zwr1ylfa.cloudfront.net/static/images/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="//d2xf21zwr1ylfa.cloudfront.net/static/images/favicon/favicon-16x16.png">
+        
+        <!-- iOS -->
+        <link rel="apple-touch-icon" sizes="180x180" href="//d2xf21zwr1ylfa.cloudfront.net/static/images/favicon/apple-touch-icon.png">
+        
+        <!-- macOS Safari -->
+        <link rel="mask-icon" href="//d2xf21zwr1ylfa.cloudfront.net/static/images/favicon/safari-pinned-tab.svg" color="#e4a024">
+        
+        <!-- Android -->
+        <link rel="shortcut icon" href="//d2xf21zwr1ylfa.cloudfront.net/static/images/favicon/favicon.ico">
+        <meta name="theme-color" content="#ffffff">
+        <link rel="manifest" href="//d2xf21zwr1ylfa.cloudfront.net/static/images/favicon/site.webmanifest">
+        
+        <!-- Windows Metro -->
+        <meta name="msapplication-TileColor" content="#e4a024">
+        <meta name="msapplication-config" content="//d2xf21zwr1ylfa.cloudfront.net/static/images/favicon/browserconfig.xml">
+    <script data-cfasync="false" type="text/javascript">if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.6"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"ui_atversion":300}; } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.6","plugin_mode":"AddThis","anonymous_profile_id":"wp-25dcbb0d589e28f23ba616155ad707a8","page_info":{"template":"pages","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
                     (function() {
                       var first_load_interval_id = setInterval(function () {
                         if (typeof window.addthis !== 'undefined') {
@@ -183,7 +200,7 @@ var rlArgs = {"script":"fancybox","selector":"lightbox","customEvents":"","activ
   </script>
 
   <!-- network tags -->
-      
+    
 <!-- DFP GPT tags -->
 <script type="text/javascript">
     var googletag = googletag || {};
@@ -218,7 +235,7 @@ var rlArgs = {"script":"fancybox","selector":"lightbox","customEvents":"","activ
     });
 </script>
 <!-- [END] DFP GPT tags -->
-    <!-- end network tags -->
+  <!-- end network tags -->
 </head>
 
 <body class="page-template-default page page-id-64" style="background: #ffffff;">
@@ -234,902 +251,1172 @@ var rlArgs = {"script":"fancybox","selector":"lightbox","customEvents":"","activ
 
 <!--GDPR Banner-->
 <script>
-  jQuery(document).ready(function($) {
-
-    var seenBanner = Cookies.get('seenGDPR')
-    if(!seenBanner) {
-      $('.bannerContainer').addClass('visible')
-    }
-    $('.banner__close').on('click', function() {
-      $('.bannerContainer').addClass('hidden')
-      Cookies.set('seenGDPR', true,  { expires : 365 })
-    })
-
-  });
+    (function ($) {
+        $(window).bind('load ready', function () {
+            var seenBanner = Cookies.get('seenGDPR');
+            var countryCode = Cookies.get('countryCode') ? Cookies.get('countryCode') : '';
+            if (!seenBanner && countryCode !== "US") {
+                $('.bannerContainer').addClass('visible')
+            } else {
+                $('.bannerContainer').addClass('hidden');
+            }
+            $('.banner__close').on('click', function () {
+                $('.bannerContainer').addClass('hidden');
+                Cookies.set('seenGDPR', true, {expires: 365})
+            })
+        });
+    })(jQuery);
 </script>
 
 <div class="bannerContainer">
-  <div>
-    <a href="/worthpoint-privacy-policy" target="_blank" class="banner__gdpr" title="gdpr">
-      By continuing to use the site, you are consenting to the use of cookies as explained in our <span class="banner__learnMore">Privacy Policy</span> to improve your experience.
-    </a>
+    <div>
+        <a href="/worthpoint-privacy-policy" target="_blank" class="banner__gdpr" title="gdpr">
+            By continuing to use the site, you are consenting to the use of cookies as explained in our <span class="banner__learnMore">Privacy Policy</span> to improve your experience.
+        </a>
 
-    <span class="banner__close">
+        <span class="banner__close">
       <i class="fa fa-close"></i>
     </span>
-  </div>
+    </div>
+</div>
+
+<style>
+    .bannerContainer {
+        font-family: "Noto Serif", serif;
+        font-weight: 400;
+        background: #000000;
+        color: #FFFFFF;
+    }
+
+    .bannerContainer a {
+        color: #FFFFFF;
+    }
+
+    .bannerContainer a:hover .banner__learnMore {
+        color: #E4A024 !important;
+    }
+
+    .bannerContainer .fa-remove:before,
+    .bannerContainer .fa-close:before,
+    .bannerContainer .fa-times:before {
+        content: "\f00d";
+    }
+</style>
+
+<!-- Header -->
+<div class="header-container">
+    <header class="header-wrapper">
+        <div class="container">
+            <div class="logo-wrapper col-xs-7 col-md-4 col-lg-2">
+                <a href="/" title="Back to Home">
+                    <img class="desktop" src="/wp-content/themes/chester/assets/img/WP-logo-2019_wo_celebrate.svg" alt="WorthPoint Logo">
+                    <img class="mobile" src="/wp-content/themes/chester/assets/img/WP-logo-2019-mobile.svg" alt="WorthPoint Logo">
+                </a>
+            </div>
+
+            <div class="search-wrapper">
+                <div class="top-search2">
+                    <div class="searchBar">
+    <div class="filter-caret hide-filter" id="filter-caret"></div>
+
+    
+    <form action="https://www.worthpoint.com/inventory/search" method="get" id="searchForm" onsubmit="return submitSearchForm(event)">
+        <div class="top-search-select-form">
+            <div class="input-container">
+                <i class="fal fa-search searchInputIcon"></i>
+                <input class="text-input search-input" placeholder="Search for Articles" name="query" value="" id="query" type="text">
+                <select name="category" id="search-selecthead-results" class="apply-select2">
+                    <option value="">
+                        in All Categories</option>
+                    <option value="advertising">Advertising</option>
+                    <option value="alcohol-smoking">Alcohol &amp; Smoking</option>
+                    <option value="antiquities">Antiquities</option>
+                    <option value="books-paper-magazines">Books, Paper &amp; Magazines</option>
+                    <option value="ceramics">Ceramics</option>
+                    <option value="coins-currency">Coins &amp; Currency</option>
+                    <option value="entertainment">Entertainment</option>
+                    <option value="ethnic-folk-native-american-art">Ethnic, Folk &amp; Native American Art</option>
+                    <option value="fine-art">Fine Art</option>
+                    <option value="firearms-and-accessories">Firearms and Accessories</option>
+                    <option value="fraternal-political-organizations">Fraternal, Political, Organizations</option>
+                    <option value="furniture-furnishings">Furniture &amp; Furnishings</option>
+                    <option value="glass">Glass</option>
+                    <option value="jewelry">Jewelry</option>
+                    <option value="metals">Metals</option>
+                    <option value="militaria-weapons">Militaria &amp; Weapons</option>
+                    <option value="natural-history">Natural History</option>
+                    <option value="sports">Sports</option>
+                    <option value="stamps">Stamps</option>
+                    <option value="textiles-clothing-accessories">Textiles, Clothing &amp; Accessories</option>
+                    <option value="tools">Tools</option>
+                    <option value="toys-dolls-games-puzzles">Toys, Dolls, Games &amp; Puzzles</option>
+                    <option value="transportation-and-vehicles">Transportation and Vehicles</option>
+                </select>
+                <button id="searchBtn" class="wpButton yellowBtn" type="submit" form="searchForm">
+                    <i class="fas fa-search searchIcon"></i>
+                    <span class="btnText">Search</span>
+                </button>
+                <span id="width_tmp" style="display: none; font-size: 11px"></span>
+            </div>
+        </div>
+    </form>
 </div>
 
 
-<div id="layout" class="">
+<script type="text/javascript">
 
-  <!-- Header-->
-  <header>
-    <!-- Head-->
-    <div class="site-header">
-      <div class="container-fluid">
-        <div class="row">
-          <!-- Logo-->
-          <div class="header-logo">
-            <div class="mobile-nav">
-              <nav class="navbar top-navbar" id="left-nav">
-    <div class="nav-inner-wrapper">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-menu" id="navbarMenuButton">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-        </div>
-        <div class="collapse navbar-collapse top-navbar fixed-main-menu" id="header-menu">
-          <button type="button" class="close-right-menu"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+    (function () {
+        var categoryParam = '';
+        if (categoryParam) {
+            var selectOptions = jQuery("#search-selecthead-results option[value=" + categoryParam + "]");
+            if (selectOptions) {
+                jQuery(selectOptions).attr('selected', 'selected');
+            }
+        }
+        var uagent = navigator.userAgent.toLowerCase();
+        var queryInput = jQuery('input[name="query"]');
+        if (uagent.search("iphone") > -1 || uagent.search("android") > -1) {
+            jQuery(queryInput).blur();
+        }
+        jQuery(queryInput).val(jQuery(queryInput).val());
 
-          <div class="login-tools">
-              <div class="logged-in-template">
-                  <form action="/logout/index" method="post">
-                      <input type="hidden" name="parentUrl" value="/worthpoint-privacy-policy">
-                      <a href="/app/accountSettings" class="login-links" title="My Account">My Account</a>
-                      <a href="/app/myWorthPoint" class="login-links" title="My WorthPoint">My WorthPoint</a>
-                      <button type="submit" class="login-links">Sign Out</button>
-                  </form>
-              </div>
-              <div class="notLogged-in-template">
-                  <form action="/auth/login" method="post">
-                      <a role="button" class="login-links open-login-modal" title="Sign In">Sign In</a>
-                  </form>
-                  <a href="/product/index" class="btn primary-button-inverse" title="Start Free Trial">Start Free Trial</a>
-              </div>
-          </div>
+    })();
 
-          <ul id="menu-main-menu-original-new" class="nav navbar-nav"><li id="menu-item-2522792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522792 dropdown"><a title="Value It" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Value It <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-2522795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522795"><a title="Worthopedia™ Price Guide" href="/worthopedia">Worthopedia™ Price Guide</a></li>
-</ul>
-</li>
-<li id="menu-item-2522793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522793 dropdown"><a title="Research It" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Research It <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-2522796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522796"><a title="Marks and Patterns" href="/marks">Marks and Patterns</a></li>
-	<li id="menu-item-2522797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522797"><a title="WorthPoint Library" href="/library">WorthPoint Library</a></li>
-</ul>
-</li>
-<li id="menu-item-2522794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522794 dropdown"><a title="Membership Benefits" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Membership Benefits <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-2530921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2530921"><a title="WorthPoint Vault" href="/app/vault">WorthPoint Vault</a></li>
-	<li id="menu-item-2530471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2530471"><a title="Reseller Program" href="https://www.worthpoint.com/reseller-application">Reseller Program</a></li>
-	<li id="menu-item-2525894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2525894"><a title="Affinity Partners" href="http://www.worthpoint.com/partners">Affinity Partners</a></li>
-	<li id="menu-item-2522798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522798"><a title="Classifieds" href="/classifieds">Classifieds</a></li>
-	<li id="menu-item-2527193" class="upload-marks-link-menu hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-2527193"><a title="Upload your own Mark" href="/userMarks/create">Upload your own Mark</a></li>
-</ul>
-</li>
-<li id="menu-item-2522789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522789 dropdown"><a title="News &amp; Resources" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">News &amp; Resources <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-2526299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2526299"><a title="Articles" href="/?s=">Articles</a></li>
-	<li id="menu-item-2525696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2525696"><a title="News" href="https://www.worthpoint.com/articles/category/news">News</a></li>
-	<li id="menu-item-2522791" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2522791"><a title="Videos &amp; Podcast" href="https://www.worthpoint.com/articles/category/video">Videos &amp; Podcast</a></li>
-	<li id="menu-item-2527291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2527291"><a title="WorthPoint Insider" href="https://www.worthpoint.com/newsletter-landing-page">WorthPoint Insider</a></li>
-	<li id="menu-item-2530978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2530978"><a title="Treasure Hunt" href="https://www.worthpoint.com/treasurehunt">Treasure Hunt</a></li>
-	<li id="menu-item-2525259" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2525259"><a title="Site Updates" href="/siteUpdates">Site Updates</a></li>
-</ul>
-</li>
-<li id="menu-item-2526520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2526520"><a title="FAQ" href="https://worthpoint.desk.com/">FAQ</a></li>
-<li id="menu-item-2525856" class="admin-link hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-2525856"><a title="Admin" href="/oms/index">Admin</a></li>
-</ul>        </div>
-    </div>
-</nav>
+    jQuery(document).click(function (event) {
+        var target = jQuery(event.target);
+        if (!target.closest('.search-wrapper').length && !target.closest('.ui-autocomplete').length) {
+            jQuery('.search-wrapper').removeClass('active')
+        }
+    });
 
-<div class="menu-black-overlay"></div>
+    //Sync search inputs value for mobile and web
+    jQuery('input[name="query"]').on('change input paste', function (event) {
+        var value = jQuery(this).val();
+        var searchInputs = jQuery('input[name="query"]');
+        searchInputs.each(function() {
+            jQuery(this).attr('value', value)
+        })
+    });
 
+    // Sync/set search category value for mobile and web
+    jQuery('select[name="category"]').on('change', function () {
+        var value = jQuery(this).val();
+        var searchCategory = jQuery('select[name="category"]');
+        searchCategory.each(function() {
+            jQuery(this).attr('value', value)
+        });
+    });
+
+</script>
+                </div>
             </div>
-
-            <a class="brand wp-logo" style="color: #00bc96; font-style: normal; font-family: Rokkitt; font-size: 1px;" href="https://www.worthpoint.com" title="Back to Home">
-                              <img src="https://www.worthpoint.com/assets/img/WP-logo-white.png" alt="Logo">
-                          </a>
-          </div>
-          <!-- End Logo-->
-
-          <!--Search bar-->
-          <div class="top-search-bar-container">
-    <div class="row top-search">
-      <div class="filter-caret hide-filter" id="filter-caret"></div>
-
-    
-                			    <form action="https://www.worthpoint.com/inventory/search" method="get" id="searchForm">
-                			        <div class="top-search-select-form">
-                                        <input class="form-control text-input" placeholder="Search for Articles" name="query" value="" id="query" type="text">
-
-                			            <select name="category" class="form-control" id="search-selecthead-results">
-                							<option value="">All Categories</option>
-                							<option value="advertising">Advertising</option>
-                							<option value="alcohol-smoking">Alcohol &amp; Smoking</option>
-                							<option value="antiquities">Antiquities</option>
-                							<option value="books-paper-magazines">Books, Paper &amp; Magazines</option>
-                							<option value="ceramics">Ceramics</option>
-                							<option value="coins-currency">Coins &amp; Currency</option>
-                							<option value="entertainment">Entertainment</option>
-                							<option value="ethnic-folk-native-american-art">Ethnic, Folk &amp; Native American Art</option>
-                							<option value="fine-art">Fine Art</option>
-                							<option value="firearms-and-accessories">Firearms and Accessories</option>
-                							<option value="fraternal-political-organizations">Fraternal, Political, Organizations</option>
-                							<option value="furniture-furnishings">Furniture &amp; Furnishings</option>
-                							<option value="glass">Glass</option>
-                							<option value="jewelry">Jewelry</option>
-                							<option value="metals">Metals</option>
-                							<option value="militaria-weapons">Militaria &amp; Weapons</option>
-                							<option value="natural-history">Natural History</option>
-                							<option value="sports">Sports</option>
-                							<option value="stamps">Stamps</option>
-                							<option value="textiles-clothing-accessories">Textiles, Clothing &amp; Accessories</option>
-                							<option value="tools">Tools</option>
-                							<option value="toys-dolls-games-puzzles">Toys, Dolls, Games &amp; Puzzles</option>
-                							<option value="transportation-and-vehicles">Transportation and Vehicles</option>
-                						</select>
-                                        <span id="width_tmp" style="display: none; font-size: 11px"></span>
-
-                                        <div class="clear-keyword hide"></div>
-                			        </div>
-                			        <div class="top-search-select-form top-search-text-input">
-                			            <button class="btn primary-button search-submit top-search-right-submit" onclick="return canSubmit();">
-                                    <span class="text">Search</span>
-                                  </button>
-                			        </div>
-                			    </form>
-                			</div>
-                        </div>
-
-                        <script type="text/javascript">
-
-                            function canSubmit() {
-                                var selectedCategory = jQuery('#search-selecthead-results').val();
-                                var queryText = jQuery('#query').val();
-
-                                if (typeof checkPageBeforeSubmit == 'function') {
-                                    checkPageBeforeSubmit();
-                                }
-                                else {
-                                    if(queryText === "") {
-                                        if(selectedCategory === "") {
-                                            window.location.href = '/inventory/search';
-                                        } else {
-                                            window.location.href = '/worthopedia/category/' + selectedCategory;
-                                        }
-                                        return false;
-                                    }
-                                }
-                            }
-
-                            (function(){
-                                var categoryParam ='';
-                                if (categoryParam) {
-                                    var selectOptions = jQuery("#search-selecthead-results option[value=" + categoryParam + "]");
-                                    if(selectOptions){
-                                        jQuery(selectOptions).attr('selected','selected');
-                                    }
-                                }
-                              var uagent = navigator.userAgent.toLowerCase();
-                              var queryInput = jQuery('input[name="query"]');
-                              if (uagent.search("iphone") > -1 || uagent.search("android") > -1 ) {
-                                jQuery(queryInput).blur();
-                              } else {
-                                jQuery(queryInput).focus();
-                              }
-                              jQuery(queryInput).val(jQuery(queryInput).val());
-
-                            })();
-
-                            jQuery(document).ready(function() {
-                              var queryInput = jQuery('input[name="query"]');
-                              var category = jQuery('select[name="category"]');
-                              var carouselBanner = jQuery('.carouselBanner')
-                              if(carouselBanner) {
-                                var activeSlide = jQuery(carouselBanner).find('.slick-active');
-                                jQuery(activeSlide).find(queryInput).focus();
-
-                                jQuery(queryInput).on('change focusout', function() {
-                                  jQuery('.carouselBanner').find(queryInput).val(jQuery(this).val());
-                                  if(jQuery('.ui-autocomplete.ui-widget:visible').length) {
-                                    jQuery(".text-input").autocomplete("close")
-                                  }
-
-                                })
-                                jQuery(category).on('change', function() {
-                                  jQuery('.carouselBanner').find(category).val(jQuery(this).val())
-                                })
-                              }
-                            });
-
-                            jQuery(window).bind("load", function() {
-                              jQuery('input[name="query"]').get(0).focus();
-                            })
-
-                        </script>
-          <!--End Search bar-->
-
-          <div class="top-login-modal-container">
-            <div class="top-tools">
-              <!-- logged out -->
+            <div class="loggin-buttons">
+                <!-- logged out -->
 <div class="notLogged-in-template">
-    <div class="sign-in">
-        <form action="/auth/login" method="post" class="navbar-form">
-            <a href="#sign-in-modal" role="button" data-toggle="modal" class="btn-header btn-signin" title="Sign In">Sign In</a>
-        </form>
-    </div>
-    <div class="start-free-trial">
-        <div>
-            <a href="/product/index" class="btn primary-button-inverse" title="Start Free Trial">Start Free Trial</a>
-        </div>
-    </div>
+    <a href="/app/login/auth?parentUrl=/worthpoint-privacy-policy" class="wpButton secondaryBtn" rel="nofollow" id="wpSignInBtn">
+        Sign in
+    </a>
+
+    <a href="/product/index" title="Try for free" class="wpButton primaryBtn" id="wpTryForFreeBtn">
+        Try for free
+    </a>
+</div>
+<!-- //logged out -->
+                <!-- logged in -->
+<div class="logged-in-template siteHeader">
+
+    <div class="account-menu">
+        <button class="wpButton secondaryBtn dropdown-toggle-not myWP my-wp-btn" id="wpMyWorthPointBtn">
+            My Worthpoint <i class="far fa-angle-up"></i> <i class="far fa-angle-down"></i>
+        </button>
+        <ul class="dropdown-menu">
+
+    <!-- logged out -->
+<div class="notLogged-in-template">
+    <a href="/app/login/auth?parentUrl=/worthpoint-privacy-policy" class="wpButton secondaryBtn" rel="nofollow" id="wpSignInBtn">
+        Sign in
+    </a>
+
+    <a href="/product/index" title="Try for free" class="wpButton primaryBtn" id="wpTryForFreeBtn">
+        Try for free
+    </a>
 </div>
 <!-- //logged out -->
 
-              <!-- logged in -->
-<div class="logged-in-template siteHeader">
+    <div class="logged-in-template">
+        <div class="dropdown-title">
+            Welcome back, <br>
+            <span class="displayName"></span>
+        </div>
 
-  <div class="account-settings navbar-form myAccount">
-    <a href="/app/accountSettings" class="btn-header btn-account spinner-trigger-class">
-      <span>
-          Hi, <b class="displayName"></b> <i class="fa fa-caret-down"></i>
-      </span>
-    </a>
-    <div class="submenu-account-settings">
-      <ul>
-        <li>
-          <a href="/app/accountSettings" class="spinner-trigger-class">My Account</a>
-        </li>
-        <li>
-          <form action="/logout/index" method="post">
-            <input type="hidden" name="parentUrl" value="/worthpoint-privacy-policy">
-            <div class="sign-out">
-              <button type="submit" class="btn-header btn-signout">Sign Out</button>
-            </div>
-          </form>
-        </li>
-      </ul>
+        <div class="dropdown-subtitle">
+            Personal Profile
+        </div>
+
+        <ul class="section-options">
+            <li class="myAccount-link" id="wpMyAccountBtn">
+                <a href="/app/accountSettings">
+                    <i class="far fa-user"></i> My Account
+                </a>
+            </li>
+            <li class="admin-link admin-link-in-dropdown hidden" id="wpAdminAccountBtn">
+                <a href="/oms">
+                    <i class="far fa-user-shield"></i> Admin Account
+                </a>
+            </li>
+        </ul>
+
+        <div class="dropdown-subtitle">
+            My Worthpoint
+        </div>
+
+        <ul class="section-options">
+            <li id="wpListItemsBtn">
+                <a href="/app/myWorthPoint/listedItems">
+                    <i class="far fa-list-ul"></i> Listed Items
+                </a>
+            </li>
+            <li id="wpSaveSearchesBtn">
+                <a href="/app/myWorthPoint/savedSearches">
+                    <i class="far fa-bookmark"></i> Saved Searches
+                </a>
+            </li>
+
+            <li class="upload-marks-link-menu hidden" id="wpUploadMarksBtn">
+                <a href="/app/myWorthPoint/manageMarks">
+                    <i class="far fa-stamp"></i> Uploaded Marks
+                </a>
+            </li>
+
+            <li id="wpMyVaultBtn">
+                <a href="/app/myWorthPoint/vault">
+                    <i class="far fa-archive"></i> My Vault
+                </a>
+            </li>
+
+            <li id="wpMyFavoriteItemsBtn">
+                <a href="/app/myWorthPoint/favoriteInventory">
+                    <i class="far fa-heart"></i> My Favorite Items
+                </a>
+            </li>
+
+            <li id="wpMyFavoriteMarksBtn">
+                <a href="/app/myWorthPoint/favoriteMarks">
+                <i class="far fa-club"></i> My Favorite Marks
+                </a>
+            </li>
+
+            <li id="wpMyFavoriteBooksBtn">
+                <a href="/app/myWorthPoint/favoriteBooks">
+                <i class="fal fa-books"></i> My Favorite Books
+                </a>
+            </li>
+
+            <li class="signOutBtn" id="wpSignOutBtn">
+                <a href="/logout/index">
+                    <i class="far fa-sign-out"></i> Sign Out
+                </a>
+            </li>
+        </ul>
     </div>
-  </div>
-
-  <div class="account-settings navbar-form">
-    <a href="/app/myWorthPoint" class="btn-header btn-account spinner-trigger-class">My WorthPoint</a>
-    <div class="submenu-account-settings">
-      <ul>
-        <li><a href="/app/myWorthPoint/listedItems" class="spinner-trigger-class" title="Listed Items">Listed Items</a></li>
-        <li><a href="/app/myWorthPoint/savedSearches" class="spinner-trigger-class" title="Saved Searches">Saved Searches</a></li>
-        <li class="upload-marks-link hidden"><a href="/app/myWorthPoint/manageMarks" class="spinner-trigger-class" title="Uploaded Marks">Uploaded Marks</a></li>
-        <li><a href="/app/myWorthPoint/vault" class="spinner-trigger-class" title="My Vault">My Vault</a></li>
-        <li><a href="/app/myWorthPoint/favoriteInventory" class="spinner-trigger-class" title="My Favorite Items">My Favorite Items</a></li>
-        <li><a href="/app/myWorthPoint/favoriteMarks" class="spinner-trigger-class" title="My Favorite Marks">My Favorite Marks</a></li>
-        <li><a href="/app/myWorthPoint/favoriteBooks" class="spinner-trigger-class" title="My Favorite Books">My Favorite Books</a></li>
-      </ul>
+</ul>
     </div>
-  </div>
-
 </div>
 <!-- //logged in -->
+<script>
+    jQuery(document).ready(function() {
+        jQuery('.my-wp-btn').off().on('click', function () {
+            jQuery('.my-wp-btn').toggleClass('active')
+        })
+
+    jQuery(window).click(function() {
+        jQuery('.my-wp-btn').removeClass('active')
+
+    });
+
+    jQuery('.account-menu').click(function(event){
+        event.stopPropagation();
+    });
+    });
+</script>
             </div>
-          </div>
 
+            <div class="mobile-options col-xs-5 col-md-8">
+                <div class="search-trigger visible-xs-inline-block visible-sm-inline-block">
+                    <i class="far fa-search"></i>
+                    <div class="top-search2">
+                        <div class="searchBar">
+    <div class="filter-caret hide-filter" id="filter-caret"></div>
 
+    
+    <form action="https://www.worthpoint.com/inventory/search" method="get" id="searchForm" onsubmit="return submitSearchForm(event)">
+        <div class="top-search-select-form">
+            <div class="input-container">
+                <i class="fal fa-search searchInputIcon"></i>
+                <input class="text-input search-input" placeholder="Search for Articles" name="query" value="" id="query" type="text">
+                <select name="category" id="search-selecthead-results" class="apply-select2">
+                    <option value="">
+                        in All Categories</option>
+                    <option value="advertising">Advertising</option>
+                    <option value="alcohol-smoking">Alcohol &amp; Smoking</option>
+                    <option value="antiquities">Antiquities</option>
+                    <option value="books-paper-magazines">Books, Paper &amp; Magazines</option>
+                    <option value="ceramics">Ceramics</option>
+                    <option value="coins-currency">Coins &amp; Currency</option>
+                    <option value="entertainment">Entertainment</option>
+                    <option value="ethnic-folk-native-american-art">Ethnic, Folk &amp; Native American Art</option>
+                    <option value="fine-art">Fine Art</option>
+                    <option value="firearms-and-accessories">Firearms and Accessories</option>
+                    <option value="fraternal-political-organizations">Fraternal, Political, Organizations</option>
+                    <option value="furniture-furnishings">Furniture &amp; Furnishings</option>
+                    <option value="glass">Glass</option>
+                    <option value="jewelry">Jewelry</option>
+                    <option value="metals">Metals</option>
+                    <option value="militaria-weapons">Militaria &amp; Weapons</option>
+                    <option value="natural-history">Natural History</option>
+                    <option value="sports">Sports</option>
+                    <option value="stamps">Stamps</option>
+                    <option value="textiles-clothing-accessories">Textiles, Clothing &amp; Accessories</option>
+                    <option value="tools">Tools</option>
+                    <option value="toys-dolls-games-puzzles">Toys, Dolls, Games &amp; Puzzles</option>
+                    <option value="transportation-and-vehicles">Transportation and Vehicles</option>
+                </select>
+                <button id="searchBtn" class="wpButton yellowBtn" type="submit" form="searchForm">
+                    <i class="fas fa-search searchIcon"></i>
+                    <span class="btnText">Search</span>
+                </button>
+                <span id="width_tmp" style="display: none; font-size: 11px"></span>
+            </div>
         </div>
-
-      </div>
-      <!-- End contact_top-->
-    </div>
-    <!-- End Head-->
-
-    <div class="desktop-nav">
-      <nav class="navbar top-navbar" id="left-nav">
-    <div class="nav-inner-wrapper">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-menu" id="navbarMenuButton">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-        </div>
-        <div class="collapse navbar-collapse top-navbar fixed-main-menu" id="header-menu">
-          <button type="button" class="close-right-menu"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-
-          <div class="login-tools">
-              <div class="logged-in-template">
-                  <form action="/logout/index" method="post">
-                      <input type="hidden" name="parentUrl" value="/worthpoint-privacy-policy">
-                      <a href="/app/accountSettings" class="login-links" title="My Account">My Account</a>
-                      <a href="/app/myWorthPoint" class="login-links" title="My WorthPoint">My WorthPoint</a>
-                      <button type="submit" class="login-links">Sign Out</button>
-                  </form>
-              </div>
-              <div class="notLogged-in-template">
-                  <form action="/auth/login" method="post">
-                      <a role="button" class="login-links open-login-modal" title="Sign In">Sign In</a>
-                  </form>
-                  <a href="/product/index" class="btn primary-button-inverse" title="Start Free Trial">Start Free Trial</a>
-              </div>
-          </div>
-
-          <ul id="menu-main-menu-original-new-1" class="nav navbar-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522792 dropdown"><a title="Value It" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Value It <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522795"><a title="Worthopedia™ Price Guide" href="/worthopedia">Worthopedia™ Price Guide</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522793 dropdown"><a title="Research It" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Research It <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522796"><a title="Marks and Patterns" href="/marks">Marks and Patterns</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522797"><a title="WorthPoint Library" href="/library">WorthPoint Library</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522794 dropdown"><a title="Membership Benefits" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">Membership Benefits <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2530921"><a title="WorthPoint Vault" href="/app/vault">WorthPoint Vault</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2530471"><a title="Reseller Program" href="https://www.worthpoint.com/reseller-application">Reseller Program</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2525894"><a title="Affinity Partners" href="http://www.worthpoint.com/partners">Affinity Partners</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522798"><a title="Classifieds" href="/classifieds">Classifieds</a></li>
-	<li class="upload-marks-link-menu hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-2527193"><a title="Upload your own Mark" href="/userMarks/create">Upload your own Mark</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522789 dropdown"><a title="News &amp; Resources" href="#" data-toggle="dropdown" class="dropdown-toggle" aria-haspopup="true">News &amp; Resources <span class="caret"></span></a>
-<ul role="menu" class=" dropdown-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2526299"><a title="Articles" href="/?s=">Articles</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2525696"><a title="News" href="https://www.worthpoint.com/articles/category/news">News</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2522791"><a title="Videos &amp; Podcast" href="https://www.worthpoint.com/articles/category/video">Videos &amp; Podcast</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2527291"><a title="WorthPoint Insider" href="https://www.worthpoint.com/newsletter-landing-page">WorthPoint Insider</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2530978"><a title="Treasure Hunt" href="https://www.worthpoint.com/treasurehunt">Treasure Hunt</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2525259"><a title="Site Updates" href="/siteUpdates">Site Updates</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2526520"><a title="FAQ" href="https://worthpoint.desk.com/">FAQ</a></li>
-<li class="admin-link hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-2525856"><a title="Admin" href="/oms/index">Admin</a></li>
-</ul>        </div>
-    </div>
-</nav>
-
-<div class="menu-black-overlay"></div>
-
-    </div>
-    <!-- Nav-->
-
-    <!--</header>-->
-
-    <!-- Modal -->
-
-<div id="sign-in-modal" class="modal fade">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">
-          <span aria-hidden="true">×</span>
-          <span class="sr-only">Close</span>
-        </button>
-        <b>Sign In</b>
-      </div>
-      <iframe id="ajaxLoginFormIframe" src="https://www.worthpoint.com/login/ajaxLoginForm?parentUrl=/worthpoint-privacy-policy"></iframe>
-    </div>
-  </div>
+    </form>
 </div>
 
-    <script type="text/javascript">
 
-  function getDisplayName() {
-    jQuery.ajax({
-      url: '/accountSetting/getDisplayName',
-      success: function (data) {
-        if (data.success) {
-          jQuery('.siteHeader .displayName').text(data.displayName)
-        } else {
-          jQuery('.siteHeader .displayName').text('user')
-        }
-      }
-    })
-  }
+<script type="text/javascript">
 
-  function clearKeywordPositioning(pos) {
-    jQuery(".clear-keyword").css("right", pos + "px");
-  }
-
-  function placeSelect() {
-    var setDocumentWidth = 0;
-    if (jQuery(".homepage-search-bar").length == 1) {
-      setDocumentWidth = 1200;
-    }
-    else {
-      setDocumentWidth = 767;
-    }
-    if (window.innerWidth > setDocumentWidth) {
-      var searchHeaderOptions = jQuery('#search-selecthead-results option');
-      var maxWidth = 0;
-      for (var i = 0; i < searchHeaderOptions.length; i++) {
-        jQuery("#width_tmp").html(jQuery(searchHeaderOptions[i]).text());
-
-        if (jQuery("#width_tmp").width() > maxWidth) {
-          maxWidth = jQuery("#width_tmp").width();
-        }
-      }
-
-      jQuery('#search-selecthead-results').width(maxWidth + 30); //width for select bar
-      clearKeywordPositioning(maxWidth + 76);
-
-      if (searchHeaderOptions.length != 0) {
-        jQuery('#query').css('padding-right', maxWidth + 68); //padding-wight for input
-      }
-      else {
-        jQuery('#query').css('padding-right', 12);
-      }
-      jQuery('.clear-keyword').css('display', '');
-    }
-    else {
-      if (jQuery("#search-selecthead-results").css("display") == "none") {
-        jQuery('#query').css('padding-right', "105px");
-      }
-      else {
-        jQuery('#query').css('padding-right', jQuery("#search-selecthead-results").innerWidth() + 12);
-      }
-      clearKeywordPositioning(60);
-      jQuery(".clear-keyword").css("display", "block");
-    }
-    jQuery(".clear-keyword").removeClass("hide");
-  }
-
-  //prevent IE11 from caching ajax requests
-  jQuery.ajaxSetup({
-    cache: false
-  });
-
-  jQuery(document).ready(function () {
-    placeSelect();
-    checkifIeEdge();
-    navbarEvent();
-    callAutocompleteForSearch();
-
-    jQuery('#query').change(function () {
-      var value = jQuery(this).val();
-      jQuery('input[name="query"]').val(value)
-    });
-
-    //focus cursor on email input field
-    jQuery(document).on('shown.bs.modal', '#sign-in-modal', function () {
-      focusCursorOnEmailInput();
-    });
-  });
-
-  jQuery(window).bind("load", function () {
-    placeSelect();
-  })
-
-  jQuery(document).on('ready load', function() {
-    getDisplayName();
-  });
-
-  jQuery(window).resize(function () {
-    checkifIeEdge();
-
-    placeSelect();
-  });
-
-  jQuery(".clear-keyword").on("click", function () {
-    jQuery('#query').val("");
-  });
-
-  jQuery("#query").on("input", function () {
-    if (jQuery(this).val() == "") {
-      jQuery(".clear-keyword").addClass("hide");
-    }
-    else {
-      jQuery(".clear-keyword").removeClass("hide");
-    }
-  })
-
-  function focusCursorOnEmailInput() {
-    var iframe = jQuery("#ajaxLoginFormIframe")[0];
-    var innerDoc = iframe.contentDocument || iframe.contentWindow.document;
-    innerDoc.getElementById("username1").focus();
-  }
-
-  function callAutocompleteForSearch() {
-    var timeMarker = 0;
-    jQuery(".text-input").autocomplete({
-      source: function (request, response) {
-        if(timeMarker < new Date().getTime()) {
-          jQuery.ajax({
-            url: "https://www.worthpoint.com/inventorySuggester/index",
-            type: 'GET',
-            data: {term: request.term, searchType: 'INVENTORY'},
-            dataType: 'json',
-            xhrFields: {
-              withCredentials: true
-            },
-            success: function(data) {
-              if(data[0] && data[0].substring(0, 4) == "fail") {
-                timeMarker = (new Date().getTime() + data[0].split(' ')[1] * 1000)
-              } else {
-                response(data);
-                timeMarker = 0;
-              }
-            },
-            error: function(jqXHR, textStatus, errorThrown) {
-              console.log(textStatus, errorThrown);
+    (function () {
+        var categoryParam = '';
+        if (categoryParam) {
+            var selectOptions = jQuery("#search-selecthead-results option[value=" + categoryParam + "]");
+            if (selectOptions) {
+                jQuery(selectOptions).attr('selected', 'selected');
             }
-          });
         }
-      },
-      appendTo: '.top-search-select-form',
-      minLength: 3,
-      delay: 300,
-      select: function(event, ui) {
-        if(canSubmit() === true) {
-          jQuery(".text-input").val(ui.item.value);
-          jQuery("#searchForm").submit();
+        var uagent = navigator.userAgent.toLowerCase();
+        var queryInput = jQuery('input[name="query"]');
+        if (uagent.search("iphone") > -1 || uagent.search("android") > -1) {
+            jQuery(queryInput).blur();
         }
-      }
-    });
-  }
+        jQuery(queryInput).val(jQuery(queryInput).val());
 
+    })();
 
-  function checkifIeEdge() {
-    try {
-      if (is.edge() || is.ie(10) || is.ie(11)) {
-        jQuery(".clear-keyword").addClass("hidden");
-      }
-    } catch (err) {
-      console.info(err)
-    }
-  }
-
-  function addPostMessageListener(f) {
-    var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
-    var eventer = window[eventMethod];
-    var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
-    eventer(messageEvent, f, false);
-  }
-
-  addPostMessageListener(function (e) {
-    if (e.origin == "https://www.worthpoint.com") {
-      if (e.data && e.data.id && e.data.height) {
-        jQuery("#" + e.data.id).css("height", e.data.height);
-      }
-    }
-  });
-
-
-  var userLoggedIn;
-  jQuery(document).ready(function () {
-
-    checkUserLoggedIn();
-
-    jQuery('.spinner-trigger-class').click(function (event) {
-      if (event.button == 0 && !event.ctrlKey) {
-        startForegroundSpinner();
-      }
+    jQuery(document).click(function (event) {
+        var target = jQuery(event.target);
+        if (!target.closest('.search-wrapper').length && !target.closest('.ui-autocomplete').length) {
+            jQuery('.search-wrapper').removeClass('active')
+        }
     });
 
-    function startForegroundSpinner() {
-      jQuery.blockUI({
-        message: '<i class="fa fa-spinner fa-spin"></i>',
-        css: {
-          border: 'none',
-          backgroundColor: 'transparent',
-          fontSize: '60px',
-          color: 'white',
-          zIndex: 2000
-        }
-      });
-    }
-  });
+    //Sync search inputs value for mobile and web
+    jQuery('input[name="query"]').on('change input paste', function (event) {
+        var value = jQuery(this).val();
+        var searchInputs = jQuery('input[name="query"]');
+        searchInputs.each(function() {
+            jQuery(this).attr('value', value)
+        })
+    });
 
-  var redoAjaxForJSessionCookie = 0;
-  function checkUserLoggedIn() {
-    var url = '';
-        url = 'https://www.worthpoint.com/user/isLoggedInWithAdminCheck';
+    // Sync/set search category value for mobile and web
+    jQuery('select[name="category"]').on('change', function () {
+        var value = jQuery(this).val();
+        var searchCategory = jQuery('select[name="category"]');
+        searchCategory.each(function() {
+            jQuery(this).attr('value', value)
+        });
+    });
+
+</script>
+                    </div>
+                </div>
+
+                <div class="account-trigger visible-xs-inline-block visible-sm-inline-block">
+                    <i class="far fa-user"></i>
+                    <ul class="dropdown-menu">
+
+    <!-- logged out -->
+<div class="notLogged-in-template">
+    <a href="/app/login/auth?parentUrl=/worthpoint-privacy-policy" class="wpButton secondaryBtn" rel="nofollow" id="wpSignInBtn">
+        Sign in
+    </a>
+
+    <a href="/product/index" title="Try for free" class="wpButton primaryBtn" id="wpTryForFreeBtn">
+        Try for free
+    </a>
+</div>
+<!-- //logged out -->
+
+    <div class="logged-in-template">
+        <div class="dropdown-title">
+            Welcome back, <br>
+            <span class="displayName"></span>
+        </div>
+
+        <div class="dropdown-subtitle">
+            Personal Profile
+        </div>
+
+        <ul class="section-options">
+            <li class="myAccount-link" id="wpMyAccountBtn">
+                <a href="/app/accountSettings">
+                    <i class="far fa-user"></i> My Account
+                </a>
+            </li>
+            <li class="admin-link admin-link-in-dropdown hidden" id="wpAdminAccountBtn">
+                <a href="/oms">
+                    <i class="far fa-user-shield"></i> Admin Account
+                </a>
+            </li>
+        </ul>
+
+        <div class="dropdown-subtitle">
+            My Worthpoint
+        </div>
+
+        <ul class="section-options">
+            <li id="wpListItemsBtn">
+                <a href="/app/myWorthPoint/listedItems">
+                    <i class="far fa-list-ul"></i> Listed Items
+                </a>
+            </li>
+            <li id="wpSaveSearchesBtn">
+                <a href="/app/myWorthPoint/savedSearches">
+                    <i class="far fa-bookmark"></i> Saved Searches
+                </a>
+            </li>
+
+            <li class="upload-marks-link-menu hidden" id="wpUploadMarksBtn">
+                <a href="/app/myWorthPoint/manageMarks">
+                    <i class="far fa-stamp"></i> Uploaded Marks
+                </a>
+            </li>
+
+            <li id="wpMyVaultBtn">
+                <a href="/app/myWorthPoint/vault">
+                    <i class="far fa-archive"></i> My Vault
+                </a>
+            </li>
+
+            <li id="wpMyFavoriteItemsBtn">
+                <a href="/app/myWorthPoint/favoriteInventory">
+                    <i class="far fa-heart"></i> My Favorite Items
+                </a>
+            </li>
+
+            <li id="wpMyFavoriteMarksBtn">
+                <a href="/app/myWorthPoint/favoriteMarks">
+                <i class="far fa-club"></i> My Favorite Marks
+                </a>
+            </li>
+
+            <li id="wpMyFavoriteBooksBtn">
+                <a href="/app/myWorthPoint/favoriteBooks">
+                <i class="fal fa-books"></i> My Favorite Books
+                </a>
+            </li>
+
+            <li class="signOutBtn" id="wpSignOutBtn">
+                <a href="/logout/index">
+                    <i class="far fa-sign-out"></i> Sign Out
+                </a>
+            </li>
+        </ul>
+    </div>
+</ul>
+                </div>
+
+                <div class="nav-trigger visible-xs-inline-block visible-sm-inline-block">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#header-menu" id="navbarMenuButton">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <i class="fal fa-times" aria-hidden="true"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="nav-search-container">
+        <ul id="menu-main-menu-original-new" class="nav navbar-nav nav-menu"><li id="menu-item-2522795" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522795"><a title="Price Guide" href="/worthopedia" class="disabled">Price Guide</a></li>
+<li id="menu-item-2522796" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522796"><a title="M.A.P.S." href="/marks" class="disabled">M.A.P.S.</a></li>
+<li id="menu-item-2522797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522797"><a title="Library" href="/library" class="disabled">Library</a></li>
+<li id="menu-item-2530921" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2530921 dropdown"><a title="Vault" href="#" data-toggle="dropdown" class="disabled" aria-haspopup="true">Vault <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-2533172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533172"><a title="Add a Vault Item" href="/app/myWorthPoint/vault/addVaultItem" class="disabled"><span class="glyphicon Add a Vault Item"></span>&nbsp;Add a Vault Item</a></li>
+	<li id="menu-item-2533173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533173"><a title="My Vault Items" href="/app/myWorthPoint/vault/vaultItemList" class="disabled"><span class="glyphicon My Vault Items"></span>&nbsp;My Vault Items</a></li>
+	<li id="menu-item-2533174" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533174"><a title="Tag Manager" href="/app/myWorthPoint/vault/tagManager" class="disabled"><span class="glyphicon Tag Manager"></span>&nbsp;Tag Manager</a></li>
+	<li id="menu-item-2533175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533175"><a title="Shared Collections" href="/app/myWorthPoint/vault/sharedCollections" class="disabled"><span class="glyphicon Shared Collections"></span>&nbsp;Shared Collections</a></li>
+</ul>
+</li>
+<li id="menu-item-2522794" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522794 dropdown"><a title="Benefits" href="#" data-toggle="dropdown" class="disabled" aria-haspopup="true">Benefits <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-2530471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2530471"><a title="Reseller Program" href="https://www.worthpoint.com/reseller-application" class="disabled">Reseller Program</a></li>
+	<li id="menu-item-2525894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2525894"><a title="Affinity Partners" href="http://www.worthpoint.com/partners" class="disabled">Affinity Partners</a></li>
+	<li id="menu-item-2527193" class="upload-marks-link-menu hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-2527193"><a title="Upload your own Mark" href="/userMarks/create" class="disabled">Upload your own Mark</a></li>
+</ul>
+</li>
+<li id="menu-item-2522789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522789 dropdown"><a title="Blog" href="#" data-toggle="dropdown" class="disabled" aria-haspopup="true">Blog <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li id="menu-item-2526299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2526299"><a title="Articles" href="/?s=" class="disabled">Articles</a></li>
+	<li id="menu-item-2525696" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2525696"><a title="News" href="https://www.worthpoint.com/articles/category/news" class="disabled">News</a></li>
+	<li id="menu-item-2522791" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2522791"><a title="Videos &amp; Podcast" href="https://www.worthpoint.com/articles/category/video" class="disabled">Videos &amp; Podcast</a></li>
+	<li id="menu-item-2527291" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2527291"><a title="WorthPoint Insider" href="https://www.worthpoint.com/newsletter-landing-page" class="disabled">WorthPoint Insider</a></li>
+	<li id="menu-item-2530978" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2530978"><a title="Treasure Hunt" href="https://www.worthpoint.com/treasurehunt" class="disabled">Treasure Hunt</a></li>
+</ul>
+</li>
+<li id="menu-item-2525856" class="admin-link hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-2525856"><a title="Admin" href="/oms/index" class="disabled">Admin</a></li>
+</ul>
+    </div>
+</div>
+
+<div class="mobile-navigation">
+    <ul id="menu-main-menu-original-new-1" class="nav navbar-nav nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522795"><a title="Price Guide" href="/worthopedia" class="disabled">Price Guide</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522796"><a title="M.A.P.S." href="/marks" class="disabled">M.A.P.S.</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2522797"><a title="Library" href="/library" class="disabled">Library</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2530921 dropdown"><a title="Vault" href="#" data-toggle="dropdown" class="disabled" aria-haspopup="true">Vault <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533172"><a title="Add a Vault Item" href="/app/myWorthPoint/vault/addVaultItem" class="disabled"><span class="glyphicon Add a Vault Item"></span>&nbsp;Add a Vault Item</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533173"><a title="My Vault Items" href="/app/myWorthPoint/vault/vaultItemList" class="disabled"><span class="glyphicon My Vault Items"></span>&nbsp;My Vault Items</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533174"><a title="Tag Manager" href="/app/myWorthPoint/vault/tagManager" class="disabled"><span class="glyphicon Tag Manager"></span>&nbsp;Tag Manager</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533175"><a title="Shared Collections" href="/app/myWorthPoint/vault/sharedCollections" class="disabled"><span class="glyphicon Shared Collections"></span>&nbsp;Shared Collections</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522794 dropdown"><a title="Benefits" href="#" data-toggle="dropdown" class="disabled" aria-haspopup="true">Benefits <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2530471"><a title="Reseller Program" href="https://www.worthpoint.com/reseller-application" class="disabled">Reseller Program</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2525894"><a title="Affinity Partners" href="http://www.worthpoint.com/partners" class="disabled">Affinity Partners</a></li>
+	<li class="upload-marks-link-menu hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-2527193"><a title="Upload your own Mark" href="/userMarks/create" class="disabled">Upload your own Mark</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2522789 dropdown"><a title="Blog" href="#" data-toggle="dropdown" class="disabled" aria-haspopup="true">Blog <span class="caret"></span></a>
+<ul role="menu" class=" dropdown-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2526299"><a title="Articles" href="/?s=" class="disabled">Articles</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2525696"><a title="News" href="https://www.worthpoint.com/articles/category/news" class="disabled">News</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2522791"><a title="Videos &amp; Podcast" href="https://www.worthpoint.com/articles/category/video" class="disabled">Videos &amp; Podcast</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2527291"><a title="WorthPoint Insider" href="https://www.worthpoint.com/newsletter-landing-page" class="disabled">WorthPoint Insider</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2530978"><a title="Treasure Hunt" href="https://www.worthpoint.com/treasurehunt" class="disabled">Treasure Hunt</a></li>
+</ul>
+</li>
+<li class="admin-link hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-2525856"><a title="Admin" href="/oms/index" class="disabled">Admin</a></li>
+</ul>
+    <div class="social-icons-wrapper">
+    <a target="_blank" href="https://www.facebook.com/WorthPoint" class="wpIconButton fab fa-facebook-f"></a>
+    <a target="_blank" href="https://twitter.com/WorthPoint" class="wpIconButton fab fa-twitter"></a>
+    <a target="_blank" href="https://www.pinterest.com/WorthPointCorp/" class="wpIconButton fab fa-pinterest-p"></a>
+    <a target="_blank" href="https://www.youtube.com/user/WorthPoint" class="wpIconButton fab fa-youtube"></a>
+    <a target="_blank" href="https://www.linkedin.com/company/worthpoint" class="wpIconButton fab fa-linkedin-in"></a>
+</div>
+</div>
+
+<script type="text/javascript">
+
+    function getDisplayName() {
         jQuery.ajax({
-      url: url,
-      //cache:false,
-      xhrFields: {
-        withCredentials: true
-      },
-      type: 'GET',
-      dataType: "json",
-      headers: {'X-Requested-With': 'XMLHttpRequest'},
-      crossDomain: true,
-      success: function (result) {
-        rightHeader(result);
-        if (typeof checkUserCurrency == 'function') {
-          checkUserCurrency(result);
-        }
-        if (typeof checkUserSuspended == 'function') {
-          checkUserSuspended(result);
-        }
-        if (typeof revealPartnerLink == 'function') {
-          revealPartnerLink(result);
-        }
-        if (typeof hasAccessToImageSearch == 'function') {
-          hasAccessToImageSearch(result);
-        }
-        if (typeof startFreeTrialForLoggedInUsers == 'function') {
-          startFreeTrialForLoggedInUsers(result);
-        }
-        if (typeof setGoogleAnalyticsUserLevel == 'function') {
-          setGoogleAnalyticsUserLevel(result);
-        }
-      },
-      error: function (error) {
-        if (redoAjaxForJSessionCookie == 0) {
-          redoAjaxForJSessionCookie++;
-          checkUserLoggedIn();
-        }
-        else {
-          console.log(error);
-        }
-      }
-    });
-  }
-
-  function rightHeader(result) {
-    if (result.loggedIn) {
-      jQuery(".logged-in-template").css("display", "block");
-      if (typeof showCommentSection == 'function') {
-        showCommentSection();
-      }
-      if (result.isAdmin) {
-        jQuery(".admin-link").removeClass("hidden");
-      }
-
-      if (result.hasMarkRole && !result.suspended) {
-        jQuery(".upload-marks-link").removeClass("hidden");
-        jQuery(".upload-marks-link-menu").removeClass("hidden");
-      }
-    }
-    else {
-      jQuery(".notLogged-in-template").css("display", "block");
-      jQuery(".show-message-not-logged-in-user").css("display", "block");
-    }
-  }
-
-  jQuery(".account-settings").hover(function () {
-    jQuery('.navbar-nav .dropdown').removeClass('open');
-  });
-
-
-  var showUpArrowInsteadOfHeader;
-  function getShowUpArrowInsteadOfHeader() {
-    return is.ios() || is.android() || is.windowsPhone() || is.windowsTablet() || isWindowWidthUnder(480);
-  }
-
-  jQuery(document).ready(function () {
-    showUpArrowInsteadOfHeader = getShowUpArrowInsteadOfHeader();
-
-    if (showUpArrowInsteadOfHeader) {
-      jQuery("body").css("padding-top", "0px");
-      jQuery("body").css("top", "initial");
-      jQuery(".site-header").css("position", "relative");
-      jQuery(".site-header").css("top", "initial");
+            url: '/accountSetting/getDisplayName',
+            success: function (data) {
+                if (data.success) {
+                    jQuery('.dropdown-menu .displayName').text(data.displayName);
+                } else {
+                    jQuery('.dropdown-menu .displayName').text('user');
+                }
+            }
+        })
     }
 
-    jQuery('.button-go-up').click(function () {
-      jQuery('body,html').animate({
-        scrollTop: 0
-      }, 800);
-      return false;
-    });
-
-  });
-
-  var didScroll;
-  var lastScrollTop = 0;
-  var delta = 5;
-  var navbarHeight = jQuery('.site-header').outerHeight();
-
-
-  jQuery(window).scroll(function () {
-    didScroll = true;
-  });
-
-  setInterval(function () {
-    if (didScroll) {
-      hasScrolled();
-      didScroll = false;
+    function clearKeywordPositioning(pos) {
+        jQuery(".clear-keyword").css("right", pos + "px");
     }
-  }, 250);
 
-  function hideHeaderOnStopScrolling() {
-    jQuery(document).on('scroll', function () {
-      var scrollTop = jQuery(this).scrollTop();
-      var searchIsOnFocus = jQuery("#searchBarForm #query-text").is(":focus");
-      clearTimeout(jQuery.data(this, "scrollCheck"));
-      jQuery.data(this, "scrollCheck", setTimeout(function () {
-        hideHeader();
-        if (scrollTop === 0 || searchIsOnFocus) {
-          showHeader();
+    function placeSelect() {
+        var setDocumentWidth = 0;
+        if (jQuery(".homepage-search-bar").length == 1) {
+            setDocumentWidth = 1200;
+        } else {
+            setDocumentWidth = 767;
         }
-      }, 3000));
-    });
-  }
+        if (window.innerWidth > setDocumentWidth) {
+            var searchHeaderOptions = jQuery('#search-selecthead-results option');
+            var maxWidth = 0;
+            for (var i = 0; i < searchHeaderOptions.length; i++) {
+                jQuery("#width_tmp").html(jQuery(searchHeaderOptions[i]).text());
 
-  function hideUpButtonOnStopScrolling() {
-    jQuery(document).on('scroll', function () {
-      var scrollTop = jQuery(this).scrollTop();
-      clearTimeout(jQuery.data(this, "scrollCheck"));
-      if (scrollTop !== 0) {
-        jQuery.data(this, "scrollCheck", setTimeout(function () {
-          hideGoUpButton();
-        }, 4000));
-      } else {
-        jQuery.data(this, "scrollCheck", setTimeout(function () {
-          hideGoUpButton();
-        }, 250));
-      }
-    });
-  }
+                if (jQuery("#width_tmp").width() > maxWidth) {
+                    maxWidth = jQuery("#width_tmp").width();
+                }
+            }
 
-  function hasScrolled() {
-    var st = jQuery(this).scrollTop();
+            jQuery('#search-selecthead-results').width(maxWidth + 30); //width for select bar
+            clearKeywordPositioning(maxWidth + 76);
 
-    // Make sure they scroll more than delta
-    if (Math.abs(lastScrollTop - st) <= delta)
-      return;
-
-    if (!showUpArrowInsteadOfHeader) {
-      if (st > lastScrollTop && st > navbarHeight) {
-        // Scroll Down
-        hideHeader();
-        hideGoUpButton();
-
-        if (typeof showIndicateInterestBar == 'function') {
-          showIndicateInterestBar();
+            if (searchHeaderOptions.length != 0) {
+                jQuery('#query').css('padding-right', maxWidth + 68); //padding-wight for input
+            } else {
+                jQuery('#query').css('padding-right', 12);
+            }
+            jQuery('.clear-keyword').css('display', '');
+        } else {
+            if (jQuery("#search-selecthead-results").css("display") == "none") {
+                jQuery('#query').css('padding-right', "105px");
+            } else {
+                jQuery('#query').css('padding-right', jQuery("#search-selecthead-results").innerWidth() + 12);
+            }
+            clearKeywordPositioning(60);
+            jQuery(".clear-keyword").css("display", "block");
         }
-      } else {
-        // Scroll Up
-        if (st + jQuery(window).height() < jQuery(document).height()) {
-          showHeader();
-          hideHeaderOnStopScrolling();
-        }
-      }
-    } else {
-      if (st > lastScrollTop) {
-        // Scroll Down
-        if (st > navbarHeight) {
-          hideHeader();
-        }
-        if (typeof showIndicateInterestBar == 'function') {
-          showIndicateInterestBar();
-        }
-        showGoUpButton();
-        hideUpButtonOnStopScrolling();
-
-      } else if (st > lastScrollTop && st > navbarHeight) {
-        showGoUpButton();
-      } else {
-        // Scroll Up
-        if (st + jQuery(window).height() < jQuery(document).height()) {
-          showGoUpButton();
-          hideUpButtonOnStopScrolling();
-        }
-      }
+        jQuery(".clear-keyword").removeClass("hide");
     }
-    lastScrollTop = st;
 
-    if (st <= 400) {
-      if (typeof hideIndicateInterestBar == 'function') {
-        hideIndicateInterestBar();
-      }
-    }
-  }
-
-  function navbarEvent() {
-    jQuery("#navbarMenuButton").on("click", function () {
-      jQuery(".fixed-main-menu").toggleClass("fixed-main-menu-open");
-      jQuery(".menu-black-overlay").toggle();
-      jQuery('body').toggleClass('noScroll');
-    });
-
-    jQuery(".close-right-menu, .menu-black-overlay").on("click", function () {
-      jQuery("#navbarMenuButton").click();
-    });
-
-    jQuery(".open-login-modal").on("click", function () {
-      jQuery("#navbarMenuButton").click();
-
-      jQuery("#sign-in-modal").modal();
+    //prevent IE11 from caching ajax requests
+    jQuery.ajaxSetup({
+        cache: false
     });
 
     jQuery(document).ready(function () {
-      jQuery('.dropdown-toggle').dropdown();
+        placeSelect();
+        checkifIeEdge();
+        navbarEvent();
+        callAutocompleteForSearch();
+        showHeaderNavMenu();
+
+        jQuery('#query').change(function () {
+            var value = jQuery(this).val();
+            jQuery('input[name="query"]').val(value)
+        });
+
+        //focus cursor on email input field
+        jQuery(document).on('shown.bs.modal', '#sign-in-modal', function () {
+            focusCursorOnEmailInput();
+        });
+
+        jQuery( window ).resize(function() {
+            if(window.innerWidth < 1200){
+                jQuery( ".nav-menu .menu-item a" ).removeClass('disabled');
+            }else{
+                jQuery( ".nav-menu .menu-item a" ).addClass('disabled');
+            }
+        });
+
+        jQuery(window).trigger('resize');
+
+        jQuery('.account-trigger').on('click', function() {
+           jQuery(this).toggleClass('active');
+        });
     });
-  }
 
-  function hideHeader() {
-    jQuery('.site-header').addClass('site-header-up');
-  }
-  function showHeader() {
-    jQuery('.site-header').removeClass('site-header-up');
-  }
-  function hideGoUpButton() {
-    jQuery('.button-go-up').fadeOut();
-  }
-  function showGoUpButton() {
-    jQuery('.button-go-up').fadeIn();
-  }
+    jQuery(window).bind("load", function () {
+        placeSelect();
+    })
+
+    jQuery(document).on('ready load', function () {
+        getDisplayName();
+        toggleHeaderPosition(jQuery(document).scrollTop());
+    });
+
+    jQuery(window).resize(function () {
+        checkifIeEdge();
+
+        placeSelect();
+    });
+
+    jQuery(".clear-keyword").on("click", function () {
+        jQuery('#query').val("");
+    });
+
+    jQuery("#query").on("input", function () {
+        if (jQuery(this).val() == "") {
+            jQuery(".clear-keyword").addClass("hide");
+        } else {
+            jQuery(".clear-keyword").removeClass("hide");
+        }
+    });
 
 
-  jQuery(window).resize(function () {
-    showUpArrowInsteadOfHeader = getShowUpArrowInsteadOfHeader();
-    if (showUpArrowInsteadOfHeader) {
-      jQuery("body").css("padding-top", "0px");
-      jQuery("body").css("top", "initial");
-      jQuery(".site-header").css("position", "relative");
-      jQuery(".site-header").css("top", "initial");
-    } else {
-      jQuery('body').css({"padding-top": "", "top": ""});
-      jQuery(".site-header").css({"position": "", "top": ""});
-    }
-  });
 
-  function isWindowWidthUnder(value) {
-    if (window.innerWidth <= value) return true;
-
-    return false;
-  }
-
-  document.addEventListener('touchstart', handleTouchStart, false);
-  document.addEventListener('touchmove', handleTouchMove, false);
-
-  var xDown = null;
-  var yDown = null;
-
-  function handleTouchStart(evt) {
-    xDown = evt.touches[0].clientX;
-    yDown = evt.touches[0].clientY;
-  }
-
-  function handleTouchMove(evt) {
-    if (!xDown || !yDown) {
-      return;
+    function focusCursorOnEmailInput() {
+        var iframe = jQuery("#ajaxLoginFormIframe")[0];
+        var innerDoc = iframe.contentDocument || iframe.contentWindow.document;
+        innerDoc.getElementById("username1").focus();
     }
 
-    var xUp = evt.touches[0].clientX;
-    var yUp = evt.touches[0].clientY;
+    function callAutocompleteForSearch() {
+        var timeMarker = 0;
+        jQuery(".text-input").autocomplete({
+            source: function (request, response) {
+                if (timeMarker < new Date().getTime()) {
+                    jQuery.ajax({
+                        url: "https://www.worthpoint.com/inventorySuggester/index",
+                        type: 'GET',
+                        data: {term: request.term, searchType: 'INVENTORY'},
+                        dataType: 'json',
+                        xhrFields: {
+                            withCredentials: true
+                        },
+                        success: function (data) {
+                            if (data[0] && data[0].substring(0, 4) == "fail") {
+                                timeMarker = (new Date().getTime() + data[0].split(' ')[1] * 1000)
+                            } else {
+                                response(data);
+                                timeMarker = 0;
+                            }
+                        },
+                        error: function (jqXHR, textStatus, errorThrown) {
+                            console.log(textStatus, errorThrown);
+                        }
+                    });
+                }
+            },
+            minLength: 3,
+            delay: 300,
+            select: function (event, ui) {
+                var queryInput = jQuery('input[name="query"]');
+                var searchForm = jQuery('#searchForm');
 
-    var xDiff = xDown - xUp;
-    var yDiff = yDown - yUp;
-
-    if (Math.abs(xDiff) > Math.abs(yDiff)) {/*most significant*/
-      if (xDiff > 0) {
-        jQuery(".fixed-main-menu").removeClass("fixed-main-menu-open");
-        jQuery(".menu-black-overlay").css('display', 'none');
-        jQuery('body').removeClass('noScroll');
-      }
+                jQuery(".text-input").val(ui.item.value);
+                queryInput.focus();
+                jQuery(window).width() < 1200 && searchForm.submit()
+            }
+        });
     }
-  }
+
+
+    function checkifIeEdge() {
+        try {
+            if (is.edge() || is.ie(10) || is.ie(11)) {
+                jQuery(".clear-keyword").addClass("hidden");
+            }
+        } catch (err) {
+            console.info(err)
+        }
+    }
+
+    function addPostMessageListener(f) {
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent, f, false);
+    }
+
+    addPostMessageListener(function (e) {
+        if (e.origin == "https://www.worthpoint.com") {
+            if (e.data && e.data.id && e.data.height) {
+                jQuery("#" + e.data.id).css("height", e.data.height);
+            }
+        }
+    });
+
+
+    var userLoggedIn;
+    jQuery(document).ready(function () {
+
+        checkUserLoggedIn();
+
+        jQuery('.spinner-trigger-class').click(function (event) {
+            if (event.button == 0 && !event.ctrlKey) {
+                startForegroundSpinner();
+            }
+        });
+
+        function startForegroundSpinner() {
+            jQuery.blockUI({
+                message: '<i class="fa fa-spinner fa-spin"></i>',
+                css: {
+                    border: 'none',
+                    backgroundColor: 'transparent',
+                    fontSize: '60px',
+                    color: 'white',
+                    zIndex: 2000
+                }
+            });
+        }
+    });
+
+    var redoAjaxForJSessionCookie = 0;
+
+    function checkUserLoggedIn() {
+        var url = '';
+                url = '/user/isLoggedInWithAdminCheck';
+                jQuery.ajax({
+            url: url,
+            xhrFields: {
+                withCredentials: true
+            },
+            type: 'GET',
+            dataType: "json",
+            success: function (result) {
+                rightHeader(result);
+                if (typeof checkUserCurrency == 'function') {
+                    checkUserCurrency(result);
+                }
+                if (typeof checkUserSuspended == 'function') {
+                    checkUserSuspended(result);
+                }
+                if (typeof revealPartnerLink == 'function') {
+                    revealPartnerLink(result);
+                }
+                if (typeof hasAccessToImageSearch == 'function') {
+                    hasAccessToImageSearch(result);
+                }
+                if (typeof startFreeTrialForLoggedInUsers == 'function') {
+                    startFreeTrialForLoggedInUsers(result);
+                }
+                if (typeof setGoogleAnalyticsUserLevel == 'function') {
+                    setGoogleAnalyticsUserLevel(result);
+                }
+            },
+            error: function (error) {
+                if (redoAjaxForJSessionCookie == 0) {
+                    redoAjaxForJSessionCookie++;
+                    checkUserLoggedIn();
+                } else {
+                    console.log(error);
+                }
+            }
+        });
+    }
+
+    function rightHeader(result) {
+        if (result.loggedIn) {
+            jQuery(".logged-in-template").css("display", "block");
+            if (typeof showCommentSection == 'function') {
+                showCommentSection();
+            }
+            if (result.isAdmin) {
+                jQuery(".admin-link-in-dropdown").removeClass("hidden");
+            }
+
+            if (result.hasMarkRole && !result.suspended) {
+                jQuery(".upload-marks-link").removeClass("hidden");
+                jQuery(".upload-marks-link-menu").removeClass("hidden");
+            }
+            jQuery('.header-container').addClass('logged-in');
+            jQuery(".loginUserBannerBtn").removeClass("hidden");
+
+        } else {
+            jQuery(".notLogged-in-template").css("display", "block");
+            jQuery(".show-message-not-logged-in-user").css("display", "block");
+            jQuery('.header-container').removeClass('logged-in');
+            jQuery(".tryForFreeBannerBtn").removeClass("hidden");
+        }
+    }
+
+    jQuery(".account-settings").hover(function () {
+        jQuery('.navbar-nav .dropdown').removeClass('open');
+    });
+
+
+    var showUpArrowInsteadOfHeader;
+
+    function getShowUpArrowInsteadOfHeader() {
+        return is.ios() || is.android() || is.windowsPhone() || is.windowsTablet() || isWindowWidthUnder(480);
+    }
+
+    jQuery(document).ready(function () {
+        showUpArrowInsteadOfHeader = getShowUpArrowInsteadOfHeader();
+
+        if (showUpArrowInsteadOfHeader) {
+            jQuery("body").css("padding-top", "0px");
+            jQuery("body").css("top", "initial");
+        }
+
+        jQuery('.button-go-up').click(function () {
+            jQuery('body,html').animate({
+                scrollTop: 0
+            }, 800);
+            return false;
+        });
+
+    });
+
+    var didScroll;
+    var lastScrollTop = 0;
+    var delta = 5;
+    var navbarHeight = jQuery('.nav-menu').outerHeight();
+    var uagent = navigator.userAgent.toLowerCase();
+    var isMobile = uagent.search("iphone") > -1 || uagent.search("android") > -1;
+
+
+    jQuery(window).scroll(function () {
+        didScroll = true;
+    });
+
+    setInterval(function () {
+        if (didScroll) {
+            hasScrolled();
+            didScroll = false;
+        }
+    }, 250);
+
+    function hideHeaderOnStopScrolling() {
+        jQuery(document).on('scroll', function () {
+            var scrollTop = jQuery(this).scrollTop();
+            var searchIsOnFocus = jQuery("#searchBarForm #query-text").is(":focus");
+            clearTimeout(jQuery.data(this, "scrollCheck"));
+            jQuery.data(this, "scrollCheck", setTimeout(function () {
+                hideHeaderNavMenu();
+                if (scrollTop === 0 || searchIsOnFocus) {
+                    showHeaderNavMenu();
+                }
+            }, 3000));
+        });
+    }
+
+    function hideUpButtonOnStopScrolling() {
+        jQuery(document).on('scroll', function () {
+            var scrollTop = jQuery(this).scrollTop();
+            clearTimeout(jQuery.data(this, "scrollCheck"));
+            if (scrollTop !== 0) {
+                jQuery.data(this, "scrollCheck", setTimeout(function () {
+                    hideGoUpButton();
+                }, 4000));
+            } else {
+                jQuery.data(this, "scrollCheck", setTimeout(function () {
+                    hideGoUpButton();
+                }, 250));
+            }
+        });
+    }
+
+    //toggle homepage header position type for app banner on mobile
+    function toggleHeaderPosition(st) {
+        var banner = jQuery('#smartbanner');
+        var bannerHeight = banner.outerHeight() ? banner.outerHeight() : 75;
+        if(banner.length > 0) {
+            if (isMobile && st <= bannerHeight) {
+                jQuery('.homePageHeader .header-wrapper').css('position', 'sticky');
+                jQuery('.home #layout').css('padding-top', '0')
+            } else {
+                jQuery('.homePageHeader .header-wrapper').css('position', 'fixed');
+                jQuery('.home #layout').css('padding-top', 'auto')
+            }
+        }
+    }
+
+    function hasScrolled() {
+        var st = jQuery(this).scrollTop();
+
+        toggleHeaderPosition(st);
+
+        // Make sure they scroll more than delta
+        if (Math.abs(lastScrollTop - st) <= delta)
+            return;
+
+        if (!showUpArrowInsteadOfHeader) {
+            if (st > lastScrollTop && st > navbarHeight) {
+                // Scroll Down
+                hideHeaderNavMenu();
+                hideGoUpButton();
+
+                if (typeof showIndicateInterestBar == 'function') {
+                    showIndicateInterestBar();
+                }
+            } else {
+                // Scroll Up
+                if (st + jQuery(window).height() < jQuery(document).height()) {
+                    showHeaderNavMenu();
+                    hideHeaderOnStopScrolling();
+                }
+            }
+        } else {
+            if (st > lastScrollTop) {
+                // Scroll Down
+                if (typeof showIndicateInterestBar == 'function') {
+                    showIndicateInterestBar();
+                }
+                hideHeaderNavMenu();
+                showGoUpButton();
+                hideUpButtonOnStopScrolling();
+
+            } else if (st > lastScrollTop && st > navbarHeight) {
+                showGoUpButton();
+            } else {
+                // Scroll Up
+                if (st + jQuery(window).height() < jQuery(document).height()) {
+                    showHeaderNavMenu();
+                    showGoUpButton();
+                    hideUpButtonOnStopScrolling();
+                }
+            }
+        }
+        lastScrollTop = st;
+
+        if (st <= 400) {
+            if (typeof hideIndicateInterestBar == 'function') {
+                hideIndicateInterestBar();
+            }
+        }
+    }
+
+    function navbarEvent() {
+        jQuery("#navbarMenuButton").on("click", function () {
+            // jQuery(".fixed-main-menu").toggleClass("fixed-main-menu-open");
+            // jQuery(".menu-black-overlay").toggle();
+            jQuery('body').toggleClass('noScroll');
+            jQuery('.mobile-navigation').toggleClass('active');
+            jQuery('.nav-trigger').toggleClass('active')
+        });
+
+        jQuery(".close-right-menu, .menu-black-overlay").on("click", function () {
+            jQuery("#navbarMenuButton").click();
+        });
+
+        jQuery(".open-login-modal").on("click", function () {
+            jQuery("#navbarMenuButton").click();
+
+            jQuery("#sign-in-modal").modal();
+        });
+
+        jQuery(document).ready(function () {
+            jQuery('.dropdown-toggle').dropdown();
+        });
+    }
+
+    function hideHeaderNavMenu() {
+        jQuery('.nav-menu').removeClass('active');
+        jQuery('.header-wrapper').addClass('hiddenNav');
+    }
+
+    function showHeaderNavMenu() {
+        jQuery('.nav-menu').addClass('active');
+        jQuery('.header-wrapper').removeClass('hiddenNav');
+    }
+
+    function hideGoUpButton() {
+        jQuery('.button-go-up').fadeOut();
+    }
+
+    function showGoUpButton() {
+        jQuery('.button-go-up').fadeIn();
+    }
+
+
+    jQuery(window).resize(function () {
+        showUpArrowInsteadOfHeader = getShowUpArrowInsteadOfHeader();
+        if (showUpArrowInsteadOfHeader) {
+            jQuery("body").css("padding-top", "0px");
+            jQuery("body").css("top", "initial");
+        } else {
+            jQuery('body').css({"padding-top": "", "top": ""});
+        }
+    });
+
+    function isWindowWidthUnder(value) {
+        if (window.innerWidth <= value) return true;
+
+        return false;
+    }
+
+    document.addEventListener('touchstart', handleTouchStart, false);
+    document.addEventListener('touchmove', handleTouchMove, false);
+
+    var xDown = null;
+    var yDown = null;
+
+    function handleTouchStart(evt) {
+        xDown = evt.touches[0].clientX;
+        yDown = evt.touches[0].clientY;
+    }
+
+    function handleTouchMove(evt) {
+        if (!xDown || !yDown) {
+            return;
+        }
+
+        var xUp = evt.touches[0].clientX;
+        var yUp = evt.touches[0].clientY;
+
+        var xDiff = xDown - xUp;
+        var yDiff = yDown - yUp;
+
+        if (Math.abs(xDiff) > Math.abs(yDiff)) {/*most significant*/
+            if (xDiff > 0) {
+                jQuery(".fixed-main-menu").removeClass("fixed-main-menu-open");
+                jQuery(".menu-black-overlay").css('display', 'none');
+                jQuery('body').removeClass('noScroll');
+            }
+        }
+    }
+
+    jQuery('.search-trigger > i').click(function () {
+        jQuery(".search-trigger").toggleClass("active");
+        jQuery(".search-input").focus();
+    })
+
+    jQuery(window).on('tap click',function(e) {
+        if (jQuery(e.target).closest('.search-trigger').length) {
+            return;
+        }
+        jQuery(".search-trigger").removeClass("active");
+        jQuery(".search-trigger .search-input").blur();
+    });
+
+    jQuery('.top-search-select-form, .search-trigger').click(function(event){
+        event.stopPropagation();
+    });
+
+    jQuery('.account-trigger').unbind('click').bind('click', function () {
+        jQuery('.account-trigger').toggleClass('active');
+        e.preventDefault();
+    })
+
+
+    jQuery('.account-trigger .dropdown-menu').click(function(event){
+        event.stopPropagation();
+    });
+
+    if(window.innerWidth >= 1200) {
+        jQuery('.top-search2').off('focusin').on('focusin', function (event) {
+            jQuery('.search-wrapper').addClass('active');
+            var input = jQuery('.top-search-select-form input.search-input');
+            var originalValue = input.val();
+            input.val('');
+            input.val(originalValue);
+        })
+    }
+
+    function submitSearchForm(e) {
+        var queryText = jQuery(e.target).closest('#searchForm').find('input[name="query"]');
+        if (queryText.val() === "") {
+            return false;
+        }
+        if (typeof checkPageBeforeSubmit == 'function') {
+            checkPageBeforeSubmit(e);
+        }
+    }
+
+    function isArticlesSearch(e) {
+        var searchForm = jQuery(e.target).closest('#searchForm');
+        var queryText = jQuery(e.target).closest('#searchForm').find('input[name="query"]');
+        queryText.attr("name", "s");
+        searchForm.attr("action", "/");
+    }
 
 </script>
 
 <div class="button-go-up">
-  <i class="fa fa-angle-up"></i>
+    <i class="fa fa-angle-up"></i>
 </div>
 
-			                 <div class="section_title">
-                    <div class="info_title">
-                        <div class="container">
 
-                            <!-- TEST. TIMI WAS HERE -->
+
+<div id="layout" class="">
+
+
+
+
+
+
+            <div class="section_title">
+            <div class="container">
+                <!-- TEST. TIMI WAS HERE -->
 <div class="alert alert-danger suspended-container hidden" role="alert">
     Your WorthPoint Account is Suspended: Please update your billing information in <a href="/app/accountSettings/billing" title="Billing Information">My WorthPoint</a> to reactivate your account!
 </div>
@@ -1141,28 +1428,28 @@ var rlArgs = {"script":"fancybox","selector":"lightbox","customEvents":"","activ
         }
     }
 </script>
-
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <h1>Privacy Policy</h1>
-                                </div>
-                                <div class="span7">
-                                    <!--<p></p>-->
-                                </div>
-                            </div>
-                        </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1 class="wpTitle">Privacy Policy</h1>
                     </div>
-                    <div class="container">
-                        <div class="span3 offset9">
-                            <img src="" alt="">
-                        </div>
+                    <div class="span7">
+                        <!--<p></p>-->
                     </div>
                 </div>
-                     </header>
-<section class="section_area">
-                <div class="container">
-                    <div class="page-text-wrapper">
-                        <div class="page-text"><div class="at-above-post-page addthis_tool" data-url="https://www.worthpoint.com/worthpoint-privacy-policy"></div><p style="text-align: left;"><strong>WorthPoint Corporation Privacy Policy</strong></p>
+            </div>
+            <div class="container">
+                <div class="span3 offset9">
+                    <img src="" alt="Privacy Policy">
+                </div>
+            </div>
+        </div>
+            
+
+                <section class="section_area">
+            <div class="container">
+                <div class="page-text-wrapper">
+                    <div class="page-text">
+                        <div class="at-above-post-page addthis_tool" data-url="https://www.worthpoint.com/worthpoint-privacy-policy"></div><p style="text-align: left;"><strong>WorthPoint Corporation Privacy Policy</strong></p>
 <p style="text-align: left;">This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.&nbsp;This privacy policy applies to all of WorthPoint’s businesses, including, but not limited to our websites located at&nbsp;<a href="https://www.worthpoint.com">www.worthpoint.com</a> and <a href="https://www.priceminer.com">www.priceminer.com</a>, as well as the WorthPoint mobile apps.</p>
 <p><strong>What personal information do we collect from the people that visit our sites or apps?</strong></p>
 <p>When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.</p>
@@ -1226,133 +1513,137 @@ Our Privacy Policy link includes the word ‘Privacy’ and can easily be found 
  <a href="mailto:support@worthpoint.com">support@worthpoint.com</a><br>
  <a href="tel:877-481-5750">877-481-5750</a></p>
 <p>Last Edited on 2019-02-12</p>
-<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post-page addthis_tool" data-url="https://www.worthpoint.com/worthpoint-privacy-policy"></div><!-- AddThis Share Buttons generic via filter on the_content --></div>
+<!-- AddThis Advanced Settings above via filter on the_content --><!-- AddThis Advanced Settings below via filter on the_content --><!-- AddThis Advanced Settings generic via filter on the_content --><!-- AddThis Share Buttons above via filter on the_content --><!-- AddThis Share Buttons below via filter on the_content --><div class="at-below-post-page addthis_tool" data-url="https://www.worthpoint.com/worthpoint-privacy-policy"></div><!-- AddThis Share Buttons generic via filter on the_content -->                    </div>
                 </div>
-            </div></section>
+        </div></section>
+    
+    
+    <div class="container banner-bottom">
+        <div class="row">
+            <div class="col-md-12">
 
-  <div class="container banner-bottom">
-    <div class="row">
-      <div class="col-md-12">
+                <!-- template for the bottom banner -->
+                <!-- worthpoint_btf_leaderboard -->
+                <div id="div-gpt-ad-1347568023544-2" class="banner-container-long desktop">
+                    <script type="text/javascript" id="askjdka">
+                        googletag.cmd.push(function() {
+                            googletag.display('div-gpt-ad-1347568023544-2');
+                        });
+                    </script>
+                </div>
+                <!-- /2427636/wp_mobile_320_50 -->
+                <div id="div-gpt-ad-1509467501237-0" class="banner-container-long mobile">
+                    <script>
+                        googletag.cmd.push(function () {
+                            googletag.display('div-gpt-ad-1509467501237-0');
+                        });
+                    </script>
+                </div>
 
-        <!-- template for the bottom banner -->
-        <!-- worthpoint_btf_leaderboard -->
-                        <div id="div-gpt-ad-1347568023544-2" class="banner-container-long desktop">
-                  <script type="text/javascript" id="askjdka">
-                      googletag.cmd.push(function() {
-                          googletag.display('div-gpt-ad-1347568023544-2');
-                      });
-                  </script>
-              </div>
-              <!-- /2427636/wp_mobile_320_50 -->
-              <div id="div-gpt-ad-1509467501237-0" class="banner-container-long mobile">
-                  <script>
-                      googletag.cmd.push(function () {
-                          googletag.display('div-gpt-ad-1509467501237-0');
-                      });
-                  </script>
-              </div>
-          
-
-        <div class="internal-banner bottom-long">
-          <a href="/product/index">
-            <img src="">
-          </a>
+                <div class="internal-banner bottom-long">
+                    <a href="/product/index">
+                        <img src="">
+                    </a>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
 
 
 <script async="" id="dsq-count-scr" src="//worthpoint.disqus.com/count.js"></script>
 
-<!--<script type="text/javascript">-->
-<!---->
-<!--    jQuery(document).ready(function() {-->
-<!---->
-<!--        checkCookie();-->
-<!---->
-<!--        jQuery('#go-to-reserve-shares .close').click(function () {-->
-<!---->
-<!--            setCookie("reserve-shares-message", "showed", 1);-->
-<!---->
-<!--            jQuery('#go-to-reserve-shares').css("bottom", "-55px");-->
-<!--            jQuery('#show-reserve-shares').css("bottom", "0px");-->
-<!---->
-<!--            jQuery(".bottom-footer").css("margin-bottom", "0");-->
-<!--        });-->
-<!---->
-<!---->
-<!--        jQuery('#show-reserve-shares').click(function () {-->
-<!--            jQuery('#go-to-reserve-shares').css("bottom", "0px");-->
-<!--            jQuery('#show-reserve-shares').css("bottom", "-25px");-->
-<!---->
-<!--            jQuery(".bottom-footer").css("margin-bottom", "55px");-->
-<!--        });-->
-<!--    });-->
-<!---->
-<!--    function setCookie(cname, cvalue, days) {-->
-<!--        Cookies.set(cname, cvalue, { expires: days, path: '/' });-->
-<!--    }-->
-<!---->
-<!---->
-<!--    function checkCookie() {-->
-<!--        var reserveShares = Cookies.get("reserve-shares-message");-->
-<!--        if (typeof reserveShares != "undefined") {-->
-<!--            jQuery('#go-to-reserve-shares').css("bottom", "-55px");-->
-<!--            jQuery('#show-reserve-shares').css("bottom", "0px");-->
-<!---->
-<!--        } else {-->
-<!--            jQuery('#go-to-reserve-shares').css("bottom", "0px");-->
-<!---->
-<!--            jQuery(".bottom-footer").css("margin-bottom", "55px");-->
-<!--        }-->
-<!--    }-->
-<!--</script>-->
+<footer class="footer-wrapper container-fluid">
 
-<footer class="container-fluid bottom-footer">
-  <div class="row">
-    <div class="col-md-12 social-icons">
-      <a target="_blank" href="http://www.pinterest.com/WorthPointCorp/" class="fa fa-pinterest" title="Pinterest"></a>
-      <a target="_blank" href="https://www.linkedin.com/groups?home=&amp;gid=1078207&amp;trk=anet_ug_hm" class="fa fa-linkedin" title="LinkedIn"></a>
-      <a target="_blank" href="https://www.youtube.com/user/WorthPoint" class="fa fa-youtube" title="Youtube"></a>
-      <a target="_blank" href="https://www.facebook.com/WorthPoint" class="fa fa-facebook" title="Facebook"></a>
-      <a target="_blank" href="https://twitter.com/WorthPoint" class="fa fa-twitter" title="Twitter"></a>
+    <div class="social-icons-wrapper">
+    <a target="_blank" href="https://www.facebook.com/WorthPoint" class="wpIconButton fab fa-facebook-f"></a>
+    <a target="_blank" href="https://twitter.com/WorthPoint" class="wpIconButton fab fa-twitter"></a>
+    <a target="_blank" href="https://www.pinterest.com/WorthPointCorp/" class="wpIconButton fab fa-pinterest-p"></a>
+    <a target="_blank" href="https://www.youtube.com/user/WorthPoint" class="wpIconButton fab fa-youtube"></a>
+    <a target="_blank" href="https://www.linkedin.com/company/worthpoint" class="wpIconButton fab fa-linkedin-in"></a>
+</div>
+
+    <div class="partners-wrapper">
+    <h6>Data Partners</h6>
+    <div class="partners-images">
+        <div class="logo-container">
+            <img src="/wp-content/themes/chester/assets/img/partners-logo/ebay.png" alt="ebay">
+        </div>
+
+        <div class="logo-container">
+            <img src="/wp-content/themes/chester/assets/img/partners-logo/cowan.png" alt="cowan">
+        </div>
+
+        <div class="logo-container">
+            <img src="/wp-content/themes/chester/assets/img/partners-logo/leslie.png" alt="leslie">
+        </div>
+
+
+        <div class="logo-container black">
+            <img src="/wp-content/themes/chester/assets/img/partners-logo/pook.png" alt="pook">
+        </div>
+
+        <div class="logo-container">
+            <img src="/wp-content/themes/chester/assets/img/partners-logo/heritage.png" alt="heritage">
+        </div>
+
+        <div class="logo-container">
+            <img src="/wp-content/themes/chester/assets/img/partners-logo/rago.png" alt="rago">
+        </div>
+
+        <div class="logo-container">
+            <img src="/wp-content/themes/chester/assets/img/partners-logo/edens.png" alt="edens">
+        </div>
+
+        <div class="logo-container">
+            <img src="/wp-content/themes/chester/assets/img/partners-logo/ripley.png" alt="ripley">
+        </div>
     </div>
-  </div>
+    <div class="view-all">
+        <a class="wpTextLink" href="/data-partners">VIEW ALL DATA PARTNERS</a>
+    </div>
+</div>
 
-  <div class="row">
-    <div class="col-md-12">
-      <div class="menu-fotter-menu-container"><ul id="menu" class="footer-menu"><li id="menu-item-2521459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2521459"><a href="https://www.worthpoint.com/about">About Us</a></li>
-<li id="menu-item-2525099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2525099"><a href="https://www.worthpoint.com/advertise-with-us">Advertising</a></li>
-<li id="menu-item-2521505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2521505"><a href="https://www.worthpoint.com/about-contact">Contact Us</a></li>
-<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="https://www.worthpoint.com/careers">Careers</a></li>
-<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-64 current_page_item menu-item-69"><a href="https://www.worthpoint.com/worthpoint-privacy-policy">Privacy Policy</a></li>
-<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a href="https://www.worthpoint.com/terms-use">Terms of Use</a></li>
+    <div class="copyright-area">
+        <div class="menu-fotter-menu-container"><ul id="menu" class="footer-menu"><li id="menu-item-2521459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2521459"><a title="About Us" href="https://www.worthpoint.com/about">About Us</a></li>
+<li id="menu-item-2521505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2521505"><a title="Contact Us" href="https://www.worthpoint.com/about-contact">Contact Us</a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a title="Careers" href="https://www.worthpoint.com/careers">Careers</a></li>
+<li id="menu-item-2525099" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2525099"><a title="Advertising" href="https://www.worthpoint.com/advertise-with-us">Advertising</a></li>
+<li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68"><a title="Terms of Use" href="https://www.worthpoint.com/terms-use">Terms of Use</a></li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-64 current_page_item menu-item-69"><a title="Privacy Policy" href="https://www.worthpoint.com/worthpoint-privacy-policy" aria-current="page">Privacy Policy</a></li>
+<li id="menu-item-2533176" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2533176"><a title="FAQ" href="https://worthpoint.desk.com/">FAQ</a></li>
 </ul></div>
-      <div class="copyright-info">
-        © 2019 - WorthPoint Corporation | 5 Concourse Parkway NE, Suite 2850. Atlanta, Georgia 30328 | 877.481.5750
-      </div>
+        <div class="copyright-wrapper">
+            <div class="copyright-info">
+                © 2019 - WorthPoint Corporation | 5 Concourse Parkway NE, Suite 2850. Atlanta,
+                Georgia 30328 | 877.481.5750
+            </div>
+        </div>
     </div>
-  </div>
+
 </footer>
 
 
-
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/appbanners/lib/smartbanner/jquery.smartbanner.min.js?ver=5.1.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var appBannersConfig = {"title":"WorthPoint Price Guide","author":"WorthPoint Corporation","price":"GET","appStoreLanguage":"US","inAppStore":"On the App Store","inGooglePlay":"In Google Play","inAmazonAppStore":"In the Amazon Appstore","inWindowsStore":"In the Windows Store","GooglePlayParams":null,"icon":"","iconGloss":"","url":"","button":"View","scale":"auto","speedIn":"300","speedOut":"400","daysHidden":"30","daysReminder":"30","force":null,"hideOnInstall":"1","layer":"","iOSUniversalApp":"1","appendToSelector":"#homepage","printViewPort":"","pushSelector":"html"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/appbanners/js/config.min.js?ver=5.1.3"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var wpcf7 = {"apiSettings":{"root":"https:\/\/www.worthpoint.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.3"></script>
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.5"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var ajax_tptn_tracker = {"ajax_url":"https:\/\/www.worthpoint.com\/wp-admin\/admin-ajax.php","top_ten_id":"64","top_ten_blog_id":"1","activate_counter":"11","top_ten_debug":"0","tptn_rnd":"278106629"};
+var ajax_tptn_tracker = {"ajax_url":"https:\/\/www.worthpoint.com\/wp-admin\/admin-ajax.php","top_ten_id":"64","top_ten_blog_id":"1","activate_counter":"11","top_ten_debug":"0","tptn_rnd":"827786136"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/top-10/includes/js/top-10-tracker.min.js?ver=1.0"></script>
 <script type="text/javascript" src="https://s14171.pcdn.co/wp-content/plugins/constant-contact-api/lib/form-designer/js/jquery.placeholder.min.js"></script>
-<script type="text/javascript" src="https://s14171.pcdn.co/wp-includes/js/wp-embed.min.js?ver=4.9.10"></script>
-
+<script type="text/javascript" src="https://s14171.pcdn.co/wp-includes/js/wp-embed.min.js?ver=5.1.3"></script>
 
 
 </div>
@@ -1360,51 +1651,100 @@ var ajax_tptn_tracker = {"ajax_url":"https:\/\/www.worthpoint.com\/wp-admin\/adm
 
 <!-- Quantcast Tag, part 2 -->
 <script type="text/javascript">
-  _qevents.push(
-    { qacct:"p-bbcrPgywai_SM"}
-
-  );
+    _qevents.push(
+        {qacct: "p-bbcrPgywai_SM"}
+    );
 </script>
 <noscript>
-  <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-bbcrPgywai_SM.gif" height="1" width="1" alt="Quantcast"/></div>
+    <div style="display: none;"><img src="//pixel.quantserve.com/pixel/p-bbcrPgywai_SM.gif" height="1" width="1"
+                                     alt="Quantcast"/></div>
 </noscript>
 
 <script type="text/javascript">
-  //idendify the page by searching for body's classes
-  var stickyFooterExceptions=['page-template-template-news-and-articles', 'page-template-template-homepage-v2', 'page-template-template-homepage-v3', 'page-template-fundamerica-landing'];
+    //idendify the page by searching for body's classes
+    var stickyFooterExceptions = ['page-template-template-news-and-articles', 'page-template-template-homepage-v2', 'page-template-template-homepage-v3', 'page-template-fundamerica-landing'];
 
-  function applyStickyFooter() {
-    for (var i in stickyFooterExceptions) {
-      if (jQuery('body').hasClass(stickyFooterExceptions[i])) {
-        return false;
-      }
+    function applyStickyFooter() {
+        for (var i in stickyFooterExceptions) {
+            if (jQuery('body').hasClass(stickyFooterExceptions[i])) {
+                return false;
+            }
+        }
+        return true;
     }
-    return true;
-  }
 
-  function makeFooterStickAtBottom () {
-    setTimeout(positionFooter, 64);
-  }
+    function makeFooterStickAtBottom() {
+        setTimeout(positionFooter, 64);
+    }
 
-  function positionFooter(){
-    //alert('resize');
-    if (!applyStickyFooter()){
-      return;
+    function positionFooter() {
+        //alert('resize');
+        if (!applyStickyFooter()) {
+            return;
+        }
+        var docHeight = jQuery(window).height();
+        var footerHeight = jQuery('footer').height();
+        var footerTop = jQuery('footer').position().top + footerHeight;
+        if (footerTop < docHeight) {
+            jQuery('footer').css('margin-top', 0 + (docHeight - footerTop) + 'px');
+        } else {
+            jQuery('footer').css('margin-top', '30px');
+            jQuery('.page-template-welcome-landing-page-php footer').css('margin-top', '0px');
+        }
     }
-    var docHeight = jQuery(window).height();
-    var footerHeight = jQuery('footer').height();
-    var footerTop = jQuery('footer').position().top + footerHeight;
-    if (footerTop < docHeight) {
-      jQuery('footer').css('margin-top', 0 + (docHeight - footerTop) + 'px');
-    }
-    else {
-      jQuery('footer').css('margin-top', '30px');
-      jQuery('.page-template-welcome-landing-page-php footer').css('margin-top', '0px');
-    }
-  }
 
-  jQuery(document).ready(makeFooterStickAtBottom);
-  jQuery(window).resize(makeFooterStickAtBottom);
+    function removeCustomPlaceHolder(input) {
+        var hasClassPlaceHolder = jQuery(input).hasClass("placeholder");
+        if (hasClassPlaceHolder) {
+            if (jQuery(input).val() === jQuery(input).attr("placeholder")) {
+                jQuery(input).val("");
+                jQuery(input).removeClass("placeholder");
+            }
+        }
+    }
+
+    function addInputPlaceholder() {
+        var inputField = jQuery("input[placeholder]");
+        if (Modernizr.input.placeholder) {
+            return;
+        }
+
+        inputField.focus(function() {
+            removeCustomPlaceHolder(jQuery(this))
+        });
+
+        inputField.keypress(function() {
+            removeCustomPlaceHolder(jQuery(this))
+        });
+
+        inputField.blur(function() {
+            if (jQuery(this).val() !== "") {
+                return;
+            }
+            jQuery(this).addClass("placeholder");
+            jQuery(this).val(jQuery(this).attr("placeholder"));
+        });
+
+        inputField.each(function() {
+            if (jQuery(this).val() !== "" && jQuery(this).val() !== jQuery(this).attr("placeholder")) {
+                return;
+            }
+            jQuery(this).val(jQuery(this).attr("placeholder")).addClass("placeholder");
+        });
+
+        jQuery("form").submit(function() {
+            jQuery(this).find(".placeholder").each(function() {
+                jQuery(this).removeClass("placeholder");
+                jQuery(this).val("");
+            });
+        });
+    }
+
+    jQuery(document).ready(function() {
+        makeFooterStickAtBottom();
+        addInputPlaceholder()
+    });
+    jQuery(window).resize(makeFooterStickAtBottom);
 
 </script>
 
@@ -1519,62 +1859,132 @@ var ajax_tptn_tracker = {"ajax_url":"https:\/\/www.worthpoint.com\/wp-admin\/adm
 
 
 <script type="text/javascript">
-  jQuery(document).ready(function () {
-    jQuery('object[width="1px"][height="1px"]').css("opacity", 0);
-    updateItemsCount();
-  });
+    jQuery(document).ready(function () {
+        jQuery('object[width="1px"][height="1px"]').css("opacity", 0);
+        updateItemsCount();
+    });
 
-  function updateItemsCount() {
-    if(jQuery('.itemsCount').length > 0) {
-      var lazyround = function (num) {
-        var parts = num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",").split(",");
-        return parts.length > 1 ? (roundDown(Math.round(parseInt(parts.join(""), 10) / Math.pow(1000, parts.length-1))) + " " + ["thousand", "million", "billion"][parts.length-2]) : parts[0];
-      };
+    function updateItemsCount() {
+        if (jQuery('.itemsCount').length > 0) {
+            var lazyround = function (num) {
+                var parts = num ? num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",").split(",") : ["0"];
+                return parts.length > 1 ? (roundDown(Math.round(parseInt(parts.join(""), 10) / Math.pow(1000, parts.length - 1))) + " " + ["thousand", "million", "billion"][parts.length - 2]) : parts[0];
+            };
 
-      var url = '/wp-content/uploads/worthopedia_stats.json';
-      jQuery.ajax({
-        type: 'GET',
-        dataType: "json",
-        url: url,
-        success: function(response) {
-          var formattedItemsCount = lazyround(response.count);
-          jQuery('.itemsCount').text(formattedItemsCount);
+            var url = '/wp-content/uploads/worthopedia_stats.json';
+            jQuery.ajax({
+                type: 'GET',
+                dataType: "json",
+                url: url,
+                success: function (response) {
+                    var formattedItemsCount = lazyround(response.count);
+                    jQuery('.itemsCount').text(formattedItemsCount);
+                }
+            });
         }
-      });
     }
-  }
 
-  function roundDown(num) {
-    var str = num.toString();
-    if(str.length > 1) {
-      return str.replace(/.$/, function (s) {
-        return s >= 0 && s < 6 ? 0 : 5;
-      });
-    } else {
-      return num
+    function roundDown(num) {
+        var str = num.toString();
+        if (str.length > 1) {
+            return str.replace(/.$/, function (s) {
+                return s >= 0 && s < 6 ? 0 : 5;
+            });
+        } else {
+            return num
+        }
     }
-  }
 </script>
 
+<script>
+    (function ($) {
+        $(document).ready(function () {
+            // CHANGE CLASSES ON INPUT.SUBMIT IN NEWSLETTER FORM
+            var mcSignUpSubmit = $('#mc_signup_submit');
+            if (mcSignUpSubmit.length) {
+                mcSignUpSubmit
+                    .removeClass('button')
+                    .addClass('wpButton')
+                    .addClass('primaryBtn');
+            }
+
+            // CHANGE CLASSES ON A.BUTTON IN Contact Us PAGE - LEFT AREA
+            var pageContactButton = $('.page-template-page-contact a.btn.primary-button');
+            if (pageContactButton.length) {
+                pageContactButton
+                    .removeClass('btn')
+                    .removeClass('primary-button')
+                    .addClass('specialButton')
+                    .addClass('wpButton')
+                    .addClass('secondaryBtn');
+            }
+
+            // CHANGE CLASSES ON GRAVITY FORM SUBMIT BUTTONS
+            var gFormSubmitButton11 = $('#gform_submit_button_11');
+            if (gFormSubmitButton11.length) {
+                gFormSubmitButton11
+                    .removeClass('gform_button')
+                    .removeClass('button')
+                    .addClass('wpButton')
+                    .addClass('primaryBtn');
+            }
+            var gFormSubmitButton6 = $('#gform_submit_button_6');
+            if (gFormSubmitButton6.length) {
+                gFormSubmitButton6
+                    .removeClass('gform_button')
+                    .removeClass('button')
+                    .addClass('wpButton')
+                    .addClass('primaryBtn');
+            }
+            var gFormSubmitButton5 = $('#gform_submit_button_5');
+            if (gFormSubmitButton5.length) {
+                gFormSubmitButton5
+                    .removeClass('gform_button')
+                    .removeClass('button')
+                    .addClass('wpButton')
+                    .addClass('primaryBtn');
+            }
+
+            // ADDING PLACE-HOLDER ON INPUTS FROM NEWSLETTER MAIL-CHIMP PLUGIN FORM
+            var newsletterEmailInput = $("#mc_mv_EMAIL"),
+                newsletterLNameInput = $("#mc_mv_LNAME"),
+                newsletterFNameInput = $("#mc_mv_FNAME");
+            if (newsletterEmailInput.length) {
+                newsletterEmailInput.attr("placeholder", "Your Email");
+                newsletterEmailInput.prop('required', true);
+            }
+            if (newsletterLNameInput.length) {
+                newsletterLNameInput.attr("placeholder", "Your Name");
+                newsletterLNameInput.prop('required', true);
+            }
+            if (newsletterFNameInput.length) {
+                newsletterFNameInput.attr("placeholder", "Your Name");
+                newsletterFNameInput.prop('required', true);
+            }
+        });
+    })(jQuery);
+</script>
+<script>
+    jQuery(document).ready(function() {
+        jQuery('.apply-select2').select2({
+            minimumResultsForSearch: Infinity
+        });
+    });
+</script>
 
 
 
 <script type="text/javascript">
     //resize box after screen size
     //17px scroll bar in chrome + 15px right padding = 32
-    if (jQuery( window ).width() <= 548) {
-        var boxWidth = jQuery( window ).width();
+    if (jQuery(window).width() <= 548) {
+        var boxWidth = jQuery(window).width();
         boxWidth = boxWidth - 32;
-        jQuery('.header-black-background').css( "width", boxWidth );
+        jQuery('.header-black-background').css("width", boxWidth);
     }
-    function checkPageBeforeSubmit() {
-        jQuery("#query").attr("name", "s" );
-        jQuery("#searchForm").attr("action", "/" );
+
+    function checkPageBeforeSubmit(e) {
+        isArticlesSearch(e);
     }
 </script>
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
-
-
-Served from: www.worthpoint.com @ 2019-06-08 01:44:13 by W3 Total Cache
---></body></html>
+</body></html>
