@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wageworks.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627222843id_/https%3A//www.wageworks.com/media/567494/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wageworks.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118233649id_/https%3A//www.wageworks.com/media/567494/privacy-policy.pdf) for the most accurate reproduction.*
 
 # 
 
