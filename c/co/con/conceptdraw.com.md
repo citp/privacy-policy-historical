@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629214545id_/https%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118055103id_/https%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
 
 # Privacy | ConceptDraw
 
 ## CS Odessa Personal Privacy Policy
 
-Last updated: May 4, 2018
+Last updated: October 8, 2019
 
 This Privacy Policy outlines how we collect, store and use data collected from our website [www.conceptdraw.com](https://www.conceptdraw.com/). This policy demonstrates CS Odessa commitment to your privacy and the protection of your personal information. Information obtained from website visitors and customers of our products and services will only be used for the purposes outlined in this policy. Except as specified in this Privacy Policy, at no time will we sell, rent, or otherwise provide your personal information or survey data to a non-agent third party.
 
@@ -56,7 +56,7 @@ Information gathered during installation may be used by CS Odessa to authenticat
 
 ### Product Purchases
 
-Information needed to properly fill your order will be gathered and stored when you order products on our web site. To process your order, we use the service of SWREG, Inc. processing services. You can review their Privacy Statement by following the link:[ www.swreg.org](https://www.swreg.org/privacy.htm)
+Information needed to properly fill your order will be gathered and stored when you order products on our web site. To process your order, we use the processing service of Digital River, Inc. You can look through the Digital River’s Privacy Statement [here.](https://www.mycommerce.com/privacy-policy)
 
 We also reserve the right to share this data within our group of partners and local resellers. Otherwise, we do not share this information with anyone.
 
