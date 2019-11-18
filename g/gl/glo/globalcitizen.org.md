@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcitizen.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620054041id_/https%3A//www.globalcitizen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcitizen.org privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118231227id_/https%3A//www.globalcitizen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
