@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630082956id_/https%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-dorado.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119002657id_/https%3A//web-dorado.com/web-dorado-privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy | Web-Dorado
 
@@ -253,7 +253,7 @@ To this end:
 
 
 
-You can reach us at [[email protected]](https://web-dorado.com/cdn-cgi/l/email-protection#cebdbbbebea1bcba8eb9abace3aaa1bcafaaa1e0ada1a3) for requests related to our above commitments. We may ask to confirm your requests by sending an email to your email account registered with Us.
+You can reach us at [[email protected]](https://web-dorado.com/cdn-cgi/l/email-protection#f685838686998482b6819394db929984979299d895999b) for requests related to our above commitments. We may ask to confirm your requests by sending an email to your email account registered with Us.
 
 ### What Data Breach Procedures We Have In Place
 
@@ -261,7 +261,7 @@ We take commercially reasonable measures to secure and protect your information 
 
 ### California Online Privacy Protection Act
 
-CalOPPA requires commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates online services collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - [See more](http://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=8.&title=&part=&chapter=22.&article=)
+CalOPPA requires commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require any person or company in the United States (and conceivably the world) that operates online services collecting Personally Identifiable Information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals or companies with whom it is being shared. - [See more](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?lawCode=BPC&division=8.&title=&part=&chapter=22.&article=)
 
 #### According to CalOPPA, we agree to the following:
 
@@ -295,7 +295,7 @@ We reserve the right to update or change our Privacy Policy at any time and it i
 
 ### CONTACT US
 
-If you have any questions about this Privacy Policy, please [contact us.](https://web-dorado.com/cdn-cgi/l/email-protection#73000603031c0107330416115e171c0112171c5d101c1e)
+If you have any questions about this Privacy Policy, please [contact us.](https://web-dorado.com/cdn-cgi/l/email-protection#0d7e787d7d627f794d7a686f2069627f6c6962236e6260)
 
   
 
