@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626193340id_/https%3A//spie.org/x2739.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spie.org privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119005820id_/https%3A//www.spie.org/x2739.xml) for the most accurate reproduction.*
 
 # Privacy Policy - SPIE - The international society for optics and photonics
 
-[](http://www.spie.org/privacy-policy?pf=true)[](mailto:?subject=SPIE.org%20:%20SPIE%20Homepage%20:%20SPIE%20Privacy%20Policy&body=http://www.spie.org/privacy-policy)
+[](https://spie.org/privacy-policy?pf=true)[](mailto:?subject=SPIE.org%20:%20SPIE%20Homepage%20:%20SPIE%20Privacy%20Policy&body=https://spie.org/privacy-policy)
 
 v2.0.1  |  Last updated March 2018
 
