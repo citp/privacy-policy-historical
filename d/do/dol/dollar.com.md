@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502211452id_/https%3A//www.dollar.com/AboutUs/Global_Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollar.com privacy policy that was archived on 2019-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191118112143id_/https%3A//www.dollar.com/AboutUs/Global_Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Global Privacy Policy - Dollar
 
@@ -384,7 +384,7 @@ In addition, under certain conditions, more fully described on the Privacy Shiel
 
   11. **CONTACT US**
 
-Please contact Us by emailing [privacy@hertz.com](mailto:privacy@hertz.com), or for EU residents - [euprivacy@hertz.com](https://web.archive.org/web/20190502211452id_/https%3A//www.dollar.com/AboutUs/euprivacy@hertz.com) or writing to the address below if you have any questions, wish to exercise your rights of access, or seek other assistance as described above. 
+Please contact Us by emailing [privacy@hertz.com](mailto:privacy@hertz.com), or for EU residents - [euprivacy@hertz.com](https://web.archive.org/web/20191118112143id_/https%3A//www.dollar.com/AboutUs/euprivacy@hertz.com) or writing to the address below if you have any questions, wish to exercise your rights of access, or seek other assistance as described above. 
 
 The Hertz Corporation
 
