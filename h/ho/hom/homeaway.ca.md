@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeaway.ca privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617222214id_/https%3A//www.homeaway.ca/info/about-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeaway.ca privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119085013id_/https%3A//www.homeaway.ca/info/about-us/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HomeAway Canada
 
