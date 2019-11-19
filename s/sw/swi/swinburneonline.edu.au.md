@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swinburneonline.edu.au privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616230754id_/https%3A//www.swinburne.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swinburneonline.edu.au privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119200626id_/https%3A//www.swinburne.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy statement | Swinburne University | Melbourne
 
