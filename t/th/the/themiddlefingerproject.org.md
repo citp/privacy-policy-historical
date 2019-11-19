@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themiddlefingerproject.org privacy policy that was archived on 2019-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190205065959id_/https%3A//www.themiddlefingerproject.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themiddlefingerproject.org privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119192633id_/https%3A//www.themiddlefingerproject.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Middle Finger Project
+# Privacy Policy
 
 **(Note: Talking about privacy mostly makes us want to put up**  
 **our right hands and insist please, dahling, no pictures.)**
@@ -33,7 +33,7 @@ Cookies. We may send cookies to your computer in order to uniquely identify your
 
 ### How Your Information is Used
 
-The information you provide is used to process transactions, personalize your experience, improve customer service, send periodic emails, and improve the service we provide. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. In those cases, we will share your information with trusted third parties, such as our online course software, in order to provide the service. These trusted third parties agree to keep this information confidential. Your personal information will never be shared with unrelated third parties. We do not store your credit card information. As a function of historical record keeping, we keep contact form emails and records of purchase transactions indefinitely. If you leave a comment, the comment and its metadata are retained indefinitely. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+The information you provide is used to process transactions, personalize your experience, improve customer service, send periodic emails, and improve the service we provide. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. In those cases, we will share your information with trusted third parties, such as our [online course](https://www.themiddlefingerproject.org/online-course-quiz "DCA Quiz") software, in order to provide the service. These trusted third parties agree to keep this information confidential. Your personal information will never be shared with unrelated third parties. We do not store your credit card information. As a function of historical record keeping, we keep contact form emails and records of purchase transactions indefinitely. If you leave a comment, the comment and its metadata are retained indefinitely. If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 ### Third Party Links
 
