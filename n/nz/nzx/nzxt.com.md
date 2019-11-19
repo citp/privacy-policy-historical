@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzxt.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614104521id_/http%3A//www.nzxt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzxt.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119051920id_/https%3A//www.nzxt.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NZXT
 
@@ -419,6 +419,6 @@ The websites may include links to third-party websites, plug-ins and application
 
 12\. **Changes**
 
-12.1 We may periodically update this Policy.  We’ll notify you about significant changes to it.  You should periodically check [https://www.nzxt.com/privacy-policy](https://web.archive.org/web/20190614104521id_/privacy-policy) or this privacy page for updates.   
+12.1 We may periodically update this Policy.  We’ll notify you about significant changes to it.  You should periodically check [https://www.nzxt.com/privacy-policy](https://web.archive.org/web/20191119051920id_/privacy-policy) or this privacy page for updates.   
 
 12.2 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us by updating your profile account information or contacting us via the contact details at the top of this Privacy Policy.
