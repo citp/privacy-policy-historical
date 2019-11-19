@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resourcepack.net privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531071742id_/https%3A//resourcepack.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcepack.net privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119184603id_/https%3A//resourcepack.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Minecraft Resource Packs
 
@@ -14,7 +14,7 @@ We do not use cookies to store information, such as your personal preferences wh
 
 **Analytics Providers**
 
-We may use third-party Web analytics, such as Google Analytics. These service providers use a variety of tracking technologies such as cookies to analyze how users use the resourcepack.net. For more information on how Google Analytics uses data from our websites and how you can control the information sent to Google, [click here](http://www.google.com/policies/privacy/partners/). To learn about opting out of Google Analytics, please [click here](http://tools.google.com/dlpage/gaoptout)[.](https://mixpanel.com/optout) Because these opt outs are cookie-based, please note that if you get a new computer or device, install or start using a new browser, or erase or alter your browser’s cookie file, you may need to opt out again.
+We may use third-party Web analytics, such as Google Analytics. These service providers use a variety of tracking technologies such as cookies to analyze how users use the resourcepack.net. For more information on how Google Analytics uses data from our websites and how you can control the information sent to Google, [click here](https://www.google.com/policies/privacy/partners/). To learn about opting out of Google Analytics, please [click here](https://tools.google.com/dlpage/gaoptout)[.](https://mixpanel.com/optout) Because these opt outs are cookie-based, please note that if you get a new computer or device, install or start using a new browser, or erase or alter your browser’s cookie file, you may need to opt out again.
 
 **Ad Networks**
 
@@ -22,7 +22,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 We use the following ad networks:
 
-  * Google Adsense ([Privacy Policy](http://www.google.com/privacy.html))
+  * Google Adsense ([Privacy Policy](https://www.google.com/privacy.html))
 
 
 
@@ -46,4 +46,4 @@ We will not sell, distribute or lease your personal information to third parties
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-<http://resourcepack.net/contact-us/>
+[http://resourcepack.net/contact-us/](https://resourcepack.net/contact-us/)
