@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxitsoftware.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610131325id_/https%3A//www.foxitsoftware.com/company/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxitsoftware.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119105011id_/https%3A//www.foxitsoftware.com/company/privacy-policy.php) for the most accurate reproduction.*
 
 # Foxit Company Privacy Policy | Foxit Software
 
@@ -44,7 +44,7 @@ Germany
 
 Email: dataprotectionEU@foxitsoftware.com
 
-Tel.: +49 30 39 40 50-50
+Tel.: +49 30 39 40 50-0
 
 Fax: +49 30 39 40 50-99
 
@@ -179,9 +179,8 @@ j. Salesforce.com
 Foxit uses customer relationship management software from Salesforce.com (Salesforce.com, Inc., The Landmark at One Market, Suite 300, San Francisco, CA 94105, USA). The service allows us to record contact information of customers and potential customers. A limited number of authorized employees have access to the database as necessary to search for business information about customers and potential new customers. Your data is hosted by Salesforce in the United States. In the event that personal data has been transferred to the USA, Salesforce is subjected to the [EU-US Privacy Shield](https://www.privacyshield.gov/).  
 For more information about Salesforce.com, visit <https://www.salesforce.com/company/privacy/>.
 
-k. Drift.com, Inc.  
-This website also uses automated chat software from Drift.com, Inc. (222 Berkeley Street, 6th FL, Boston, MA, 02216) to collect information from you to help you get information about Foxit products or setup a sales meeting with a Foxit representation. Drift.com collects information that your browser sends whenever you visit our website. This data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Services that you visit, the time and date of your visit, the time spent on those pages and other statistics. In the event that personal data is transferred to the USA, Drift.com is subjected to the [EU-US Privacy Shield](https://www.privacyshield.gov/).  
-For further information regarding Drift.com, visit <https://www.drift.com/privacy-policy/>.
+k. Zendesk, Inc.  
+This website also uses chat software from Zendesk, Inc. (1019 Market St, San Francisco, CA 94103) to collect information from you to help you get information about Foxit products. Zendesk collects information that your browser sends whenever you visit our website. This data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Services that you visit, the time and date of your visit, the time spent on those pages and other statistics. For further information regarding Zendesk, visit their privacy policy <https://www.zendesk.com/company/customers-partners/privacy-policy/> and/or their EU data protection policy <https://www.zendesk.com/company/customers-partners/eu-data-protection/>.
 
 #### 7. Social media plug-ins
 
