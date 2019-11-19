@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the snip.ly privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520202122id_/http%3A//snip.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snip.ly privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119164949id_/http%3A//snip.ly/privacy) for the most accurate reproduction.*
 
 # Sniply: Social Media Conversion | Terms of Service
 
 Sniply provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, protection, and disclosure of Personal Information received from your use of this website, located at [https://snip.ly](https://snip.ly/) (“ **Site** ”), as well as all related websites including our subdomains, applications, browser extensions, and other services provided by us (collectively, together with the Site, our “Service”), and in connection with our customer, vendor, and partner relationships. This Privacy Policy also tells you about your rights and choices with respect to your Personal Information, and how you can reach us to update your contact information or get answers to questions you may have about our privacy practices. 
 
-Registration with, use of, and access to the Service is subject to this Privacy Policy and our Terms of Use located at [https://snip.ly/terms/](https://web.archive.org/terms/). All terms not defined in this Privacy Policy will have the meanings set forth in the Sniply Terms of Service. 
+Registration with, use of, and access to the Service is subject to this Privacy Policy and our Terms of Use located at [https://snip.ly/terms/](https://web.archive.org/terms). All terms not defined in this Privacy Policy will have the meanings set forth in the Sniply Terms of Service. 
 
 For the purpose of this Privacy Policy, “Personal Information” means any information relating to an identified or identifiable individual. We obtain Personal Information relating to you from various sources described below. 
 
@@ -97,7 +97,7 @@ We will make any legally-required disclosures of any breach of the security, con
 
 We also take measures to delete your Personal Information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it, unless we are required by law to keep this information for a longer period. When determining the retention period, we take into account various criteria, such as the type of products and services requested by or provided to you, the nature and length of our relationship with you, possible re-enrollment with our products or services, the impact on the services we provide to you if we delete some information from or about you, mandatory retention periods provided by law and the statute of limitations. 
 
-If you decide at any time that you no longer wish to receive such marketing communications from us, please follow the unsubscribe instructions provided in any of the communications. You may also opt out from receiving commercial email from us by sending your request to us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#9eeafbfff3deedf0f7eeb0f2e7). Please be aware that, even after you opt out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service. 
+If you decide at any time that you no longer wish to receive such marketing communications from us, please follow the unsubscribe instructions provided in any of the communications. You may also opt out from receiving commercial email from us by sending your request to us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f28697939fb2819c9b82dc9e8b). Please be aware that, even after you opt out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding the Service. 
 
 In certain jurisdictions you have the right to request access and receive information about the Personal Information we maintain about you, to update and correct inaccuracies in your Personal Information, to restrict or object to the processing of your Personal Information, to have the information blocked, anonymized or deleted, as appropriate, or to exercise your right to data portability to transfer your Personal Information to another company. Those rights may be limited in some circumstances by local law requirements. In addition to the above-mentioned rights, you also have the right to lodge a complaint with a competent supervisory authority subject to applicable law. 
 
@@ -107,16 +107,16 @@ To update your preferences, ask us to remove your information from our mailing l
 
 Sniply is based in Canada. Personal Information that we collect may be transferred to, and stored at, any of our affiliates, partners or service providers which may be inside or outside the European Economic Area (“EEA”) and Switzerland, including the United States. By submitting your personal data, you agree to such transfers. Your Personal Information may be transferred to countries that do not have the same data protection laws as the country in which you initially provided the information. When we transfer or disclose your Personal Information to other countries, we will protect that information as described in this Privacy Policy. 
 
-The Site is not directed to persons under 16. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#641001050924170a0d144a081d). We do not knowingly collect Personal Information from children under 16. If we become aware that a child under 16 has provided us with Personal Information, we will delete such information from our files. 
+The Site is not directed to persons under 16. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e591808488a5968b8c95cb899c). We do not knowingly collect Personal Information from children under 16. If we become aware that a child under 16 has provided us with Personal Information, we will delete such information from our files. 
 
 This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any modifications to our Privacy Policy by posting the new Privacy Policy on our Site and indicating the date of the latest revision. You are advised to consult this Privacy Policy regularly for any changes. 
 
 In the event that the modifications materially alter your rights or obligations hereunder, we will make reasonable efforts to notify you of the change. For example, we may send a message to your email address or generate a pop-up or similar notification when you access the Service for the first time after such material changes are made. Your continued use of the Service after the revised Privacy Policy has become effective indicates that you have read, understood and agreed to the current version of this Privacy Policy. 
 
-Sniply Projects Inc. is the entity responsible for the processing of your Personal Information. If you have any questions or comments regarding this Privacy Policy, or if you would like to exercise your rights to your Personal Information, you may contact us by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by writing to us at: 
+SaaS.group, LLC. is the entity responsible for the processing of your Personal Information. If you have any questions or comments regarding this Privacy Policy, or if you would like to exercise your rights to your Personal Information, you may contact us by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by writing to us at: 
 
-Sniply Projects Inc   
-1050 West Pender Street #2220   
-Vancouver, BC, Canada 
+SaaS.group, LLC   
+304 S. Jones Blvd. #1205   
+Las Vegas, NV 89107 
 
-**This document was last updated on May 22, 2018.**
+**This document was last updated on September 4, 2019.**
