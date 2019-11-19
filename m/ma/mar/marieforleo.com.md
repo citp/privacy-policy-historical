@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410120710id_/https%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marieforleo.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119184542id_/https%3A//www.marieforleo.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Marie Forleo
 
@@ -6,7 +6,7 @@
 
 Last Updated 6 February 2019
 
-We at Marie Forleo International, Inc. (“Marie Forleo International,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared.  This Privacy Policy applies to our information collection and use practices in connection with: (i) our websites, including, without limitation, marieforleo.com, programs.marieforleo.com, marieforleobschool.com, thecopycure.com, starttherightbusiness.com, and makeeverymanwantyou.com (the “Websites”); and (ii) the information you provide to us offline, including, without limitation, via phone and email. 
+We at Marie Forleo International, Inc. (“Marie Forleo International,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared.  This Privacy Policy applies to our information collection and use practices in connection with: (i) our websites, including, without limitation, marieforleo.com, programs.marieforleo.com, marieforleobschool.com, thecopycure.com, everythingisfigureoutable.com, starttherightbusiness.com, and makeeverymanwantyou.com (the “Websites”); and (ii) the information you provide to us offline, including, without limitation, via phone and email. 
 
 #### **Description of Users and Acceptance of Terms**
 
