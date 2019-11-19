@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614000130id_/https%3A//www.ons.gov.uk/help/cookiesandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120001106id_/https%3A//www.ons.gov.uk/help/cookiesandprivacy) for the most accurate reproduction.*
 
 # Cookies and privacy - Office for National Statistics
 
@@ -75,4 +75,4 @@ If you send us a private or direct message via social media, the message will be
 
 ## Contacting the website
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](mailto:info@ons.gsi.gov.uk).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](mailto:info@ons.gov.uk).
