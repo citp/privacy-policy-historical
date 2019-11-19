@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enchantedlearning.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407174739id_/https%3A//www.enchantedlearning.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enchantedlearning.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119025854id_/https%3A//enchantedlearning.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - Enchanted Learning
 
