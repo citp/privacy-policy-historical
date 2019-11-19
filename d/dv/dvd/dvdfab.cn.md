@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdfab.cn privacy policy that was archived on 2018-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181204095446id_/https%3A//www.dvdfab.cn/privacy.htm%3FtrackID%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdfab.cn privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119010609id_/https%3A//www.dvdfab.cn/privacy.htm%3FtrackID%3Dfooter) for the most accurate reproduction.*
 
 # DVDFAB PRIVACY POLICY
 
