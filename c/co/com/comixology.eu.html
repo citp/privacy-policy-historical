@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comixology.eu privacy policy that was archived on 2019-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190403072211id_/https%3A//www.comixology.eu/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comixology.eu privacy policy that was archived on 2019-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191119072140id_/https%3A//www.comixology.eu/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -13,7 +13,7 @@
 <meta name="abstract" content="Privacy Policy by comiXology. Read over 16,000 comics and over 700 free comics available from publishers such as Marvel, DC, Image, BOOM, IDW, Top Shelf, and Oni Press on your iPhone, iPad, Kindle Fire, Android, Windows, browser and more.">
 <meta property="og:url" name="url" content="https://www.comixology.eu/privacy">
 <meta property="og:description" name="description" content="Privacy Policy by comiXology. Read over 16,000 comics and over 700 free comics available from publishers such as Marvel, DC, Image, BOOM, IDW, Top Shelf, and Oni Press on your iPhone, iPad, Kindle Fire, Android, Windows, browser and more.">
-<meta name="LAST-MODIFIED" content="Wed, 03 Apr 2019 07:22:12 GMT">
+<meta name="LAST-MODIFIED" content="Tue, 19 Nov 2019 07:21:40 GMT">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@comixology">
@@ -105,7 +105,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-32H2');</script>
 <!-- End Google Tag Manager --></head>
-<body class="desktop contentLang_en" data-csrf="bf237c239e5b67e5054a8ac92de7f14649cb764b" data-analytics-endpoint="site/privacy" data-instant-checkout-enabled="false" lang="EN-US" link="blue" vlink="#954F72">
+<body class="desktop contentLang_en" data-csrf="c2add3d1ae0c56cb0ba01d0d8e9ea273d180eb03" data-analytics-endpoint="site/privacy" data-instant-checkout-enabled="false" lang="EN-US" link="blue" vlink="#954F72">
 <div id="globalBlockerWindow"></div>
 
 <div id="page_content_container">
@@ -806,7 +806,7 @@ notice <a href="/legal/apps/comics/web/EU_default/privacy_policy_2014.html">here
 								<span class="newsletter_text">Stay informed to receive updates on sales and new releases.</span>
 <br>
 <form class="StayInformedForm" id="embedded-subscribe-form" action="/subscribe-to-newsletter" method="post">
-<input type="hidden" value="bf237c239e5b67e5054a8ac92de7f14649cb764b" name="CMX_CSRF_TOKEN"><div style="display:none"><input type="hidden" value="1" name="yform_embedded-subscribe-form" id="yform_embedded-subscribe-form"></div>
+<input type="hidden" value="c2add3d1ae0c56cb0ba01d0d8e9ea273d180eb03" name="CMX_CSRF_TOKEN"><div style="display:none"><input type="hidden" value="1" name="yform_embedded-subscribe-form" id="yform_embedded-subscribe-form"></div>
 <div class="row field_email">
 <label for="subscribeEmail" class="required">Email Address</label>
 <input placeholder="Email Address" maxlength="100" class="subscribe-email" id="subscribeEmail" data-subscribe-error-email="Please enter a valid email address." data-subscribe-error-unknown="Problem encountered, please try again later." data-subscribe-success="Subscribed Successfully" name="StayInformedForm[email]" type="email">
@@ -827,18 +827,13 @@ notice <a href="/legal/apps/comics/web/EU_default/privacy_policy_2014.html">here
 	<!-- Facebook -->
 	<a class="social-icon social-icon-facebook" href="https://www.facebook.com/comixology" target="_blank"></a>
 
-	<!-- Google Plus -->
-	<a class="social-icon social-icon-googleplus" href="https://plus.google.com/117990690167886139578" target="_blank"></a>
-
 	<!-- Tumblr -->
 	<a class="social-icon social-icon-tumblr" href="http://comixology.tumblr.com/" target="_blank"></a>
 
-	<!-- RSS -->
-	<a class="social-icon social-icon-rss" href="http://feeds.feedburner.com/ComixologyDigitalComics" target="_blank"></a>
-
 	<!-- Podcast -->
 	<a class="social-icon social-icon-podcast" href="http://comixology.tumblr.com/tagged/podcast" target="_blank"></a>
-</aside>							</div>
+</aside>
+							</div>
 												</div><!-- // #footer_navigation -->
 				</div><!-- // #footer_navigation_canvas -->
 			</div><!-- // #footer_navigation_frame -->
@@ -1108,7 +1103,8 @@ notice <a href="/legal/apps/comics/web/EU_default/privacy_policy_2014.html">here
             {{#if fullPrice}}
                 <h6 class="item-full-price">{{fullPrice}}</h6>
             {{/if}}
-            <h5 class="item-price" itemprop="price">{{price}}</h5>
+            <h5 class="item-price">{{price}}</h5>
+            <h5 class="hidden" itemprop="price">{{rawLocalPrice}}</h5>
         </div>
     {{/unless}}
     {{#if badgesData}}
@@ -1123,7 +1119,8 @@ notice <a href="/legal/apps/comics/web/EU_default/privacy_policy_2014.html">here
     {{#unless restricted}}
         <div class="pricing-info" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
             <meta itemprop="priceCurrency" content="{{ currencyFormat }}"/>
-                <h5 class="item-price cu-alc" itemprop="price">{{price}}</h5>
+                <h5 class="item-price cu-alc">{{price}}</h5>
+                <h5 class="hidden" itemprop="price">{{rawLocalPrice}}</h5>
                 {{#if fullPrice}}
                     <h6 class="item-full-price cu-alc">{{fullPrice}}</h6>
                 {{/if}}
@@ -1143,7 +1140,8 @@ notice <a href="/legal/apps/comics/web/EU_default/privacy_policy_2014.html">here
     {{#unless restricted}}
         <div class="pricing-info" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
             <meta itemprop="priceCurrency" content="{{ currencyFormat }}"/>
-                <h5 class="item-price cu-alc" itemprop="price">{{price}}</h5>
+                <h5 class="item-price cu-alc">{{price}}</h5>
+                <h5 class="hidden" itemprop="price">{{rawLocalPrice}}</h5>
                 {{#if fullPrice}}
                     <h6 class="item-full-price cu-alc">{{fullPrice}}</h6>
                 {{/if}}
@@ -1165,7 +1163,8 @@ notice <a href="/legal/apps/comics/web/EU_default/privacy_policy_2014.html">here
 	{{#unless restricted}}
 		<div class="pricing-info" itemprop="offers" itemscope itemtype="http://schema.org/Offer">
 			<meta itemprop="priceCurrency" content="{{ currencyFormat }}"/>
-				<h5 class="item-price cu-alc" itemprop="price">{{price}}</h5>
+				<h5 class="item-price cu-alc">{{price}}</h5>
+				<h5 class="hidden" itemprop="price">{{rawLocalPrice}}</h5>
 				{{#if fullPrice}}
 					<h6 class="item-full-price cu-alc">{{fullPrice}}</h6>
 				{{/if}}
