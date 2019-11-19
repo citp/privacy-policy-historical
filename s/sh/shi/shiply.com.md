@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiply.com privacy policy that was archived on 2019-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190128031559id_/https%3A//www.shiply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiply.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119114429id_/https%3A//www.shiply.com/privacy) for the most accurate reproduction.*
 
 # Shiply > Privacy Policy
 
