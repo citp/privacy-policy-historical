@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichehacks.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603035348id_/https%3A//nichehacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichehacks.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119063919id_/https%3A//nichehacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NicheHacks
 
@@ -17,12 +17,6 @@ NicheHacks.com is the data controller and we are responsible for your personal d
 Contact Details
 
 **If you have any concerns or questions then simply email us here with your request:[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)**
-
-Postal address:
-
-83 Ducie Street  
-Manchester Greater Manchester Manchester, M1 2JQ  
-UNITED KINGDOM
 
 It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
