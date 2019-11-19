@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clashofclans.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629073515id_/http%3A//supercell.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashofclans.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119205826id_/http%3A//supercell.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy × Supercell
 
@@ -141,7 +141,7 @@ We may also disclose your data based on your consent, to comply with the law or 
 
 #### Advertising and Social Media partners.
 
-The Service includes features from our partners, such as social media interaction tools and in-game advertising. A list of these partners is available at supercell.com/en/partner-opt-out. These partners may access your data and operate under their own privacy policies. We encourage you to check their privacy policies to learn more about their data processing practices. 
+The Service includes features from our partners, such as social media interaction tools and in-game advertising. A list of these partners is available at [supercell.com/en/partner-opt-out](https://supercell.com/en/partner-opt-out). These partners may access your data and operate under their own privacy policies. We encourage you to check their privacy policies to learn more about their data processing practices. 
 
 ### International data transfers
 
@@ -155,7 +155,7 @@ You may opt-out of receiving promotional communications, such as marketing email
 
 #### Opt-out of targeted advertising.
 
-You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device and selecting "limit ad tracking" (Apple iOS) or "opt-out of interest based ads" (Android). For more information, see also: [http://www.supercell.com/partner-opt-out](http://supercell.com/en/partner-opt-out/).
+You can opt-out of interest-based advertising on mobile applications by checking the privacy settings of your Android or iOS device and selecting "limit ad tracking" (Apple iOS) or "opt-out of interest based ads" (Android). For more information, see also: [supercell.com/en/partner-opt-out](https://supercell.com/en/partner-opt-out).
 
 For personalized in-game offers opt-out, you can use the options provided in the game settings.
 
