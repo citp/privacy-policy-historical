@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liftopia.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327185317id_/https%3A//www.liftopia.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftopia.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119072538id_/https%3A//www.liftopia.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Liftopia
 
@@ -240,6 +240,6 @@ E-mail: [info@liftopia.com](mailto:info@liftopia.com)
 Phone (toll-free): (800) 349-0870  
 Mailing Address:  
 Liftopia, Inc.  
-1061 Market Street  
-Floor 4  
-San Francisco, CA 94103 
+350 Sansome Street  
+Suite 925  
+San Francisco, CA 94104 
