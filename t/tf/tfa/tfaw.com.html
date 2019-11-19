@@ -1,832 +1,1668 @@
-<!--The following is the downloaded HTML source of the tfaw.com privacy policy that was archived on 2019-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190518130435id_/https%3A//www.tfaw.com/Help/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tfaw.com privacy policy that was archived on 2019-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191119052742id_/https%3A//www.tfaw.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
-<meta charset="utf-8">
-<script src="https://js-agent.newrelic.com/nr-1123.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NM8WCWQ"></script><script>var dataLayer=window.dataLayer||[];</script>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NM8WCWQ');</script>
-<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1123.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-<link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/themes/smoothness/jquery-ui.css">
-<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.0/jquery-ui.min.js"></script>
+<!DOCTYPE html><html lang="en"><head>
+        
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1130.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"9e2a608cd7",applicationID:"185492939"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+<meta name="keywords" content="tfaw, things from another world, best comics online">
+<meta name="robots" content="INDEX,FOLLOW">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="format-detection" content="telephone=no">
-<script type="text/javascript" src="//www.tfaw.com/static/minified/js/yui.min.js?2017-01-27-02-02-00"></script>
-<script type="text/javascript" src="//www.tfaw.com/static/minified/js/jquery-tools.min.js?2017-01-27-02-02-00"></script>
-<script type="text/javascript" src="//www.tfaw.com/static/minified/js/tfaw.min.js?2017-01-27-02-02-00"></script>
-<link rel="stylesheet" href="//www.tfaw.com/static/minified/css/jquery.min.css?2017-01-27-02-02-00">
-<link rel="stylesheet" href="//www.tfaw.com/static/minified/css/tfaw.min.css?2017-01-27-02-02-00">
-<link rel="stylesheet" href="//www.tfaw.com/static/minified/css/yui.min.css?2017-01-27-02-02-00">
-<link rel="stylesheet" href="//www.tfaw.com/static/vendor/css/font-awesome.min.css"><link rel="stylesheet" href="//www.tfaw.com/static/css/etc/10-res.css">
-</head><body id="doc_body" bgcolor="#FFFFFF" link="#000000" vlink="#000000" alink="#CC0000"><div id="cookie_warning_dropdown" class="active">
-This website uses cookies so you can place orders and we can provide the most secure and effective website possible. By using tfaw.com you accept our use of cookies. <a href="https://www.tfaw.com/Help/Privacy-Policy">Learn more</a> or <a id="cookie_dismiss">Continue.</a>
-</div>
-<script>jQuery(function(){if(readCookie('cookie_dismiss')){jQuery('#cookie_warning_dropdown').slideUp();}});jQuery('#cookie_dismiss').click(function(){jQuery('#cookie_warning_dropdown').slideUp();var date=new Date();date.setTime(date.getTime()+(10*365*24*60*60*1000));var expires=date.toUTCString();document.cookie='cookie_dismiss=true; path=/; expires='+expires+';';});function readCookie(cookieName){var nameEquals=cookieName+"=";var cookieArray=document.cookie.split(';');for(var ii=0;ii<cookieArray.length;++ii){var cookie=cookieArray[ii];while(cookie.charAt(0)==' '){cookie=cookie.substring(1,cookie.length);}if(cookie.indexOf(nameEquals)==0){return cookie.substring(nameEquals.length,cookie.length);}}return null;}</script>
-<style>.hidden{visibility:hidden;padding:0;height:0}#cookie_dismiss{cursor:pointer}#cookie_warning_dropdown{box-sizing:border-box;width:100%;position:relative;padding:10px;line-height:3vh;height:0;overflow:hidden;font-size:2vh;text-align:center;background-color:#6b99fd;color:#000}@media screen and (min-width:747px),screen and (max-height:415px){#cookie_warning_dropdown{padding:0 10px 0 10px;line-height:30px;font-size:12px}}#cookie_warning_dropdown.active{height:16vh}@media screen and (min-width:1169px){#cookie_warning_dropdown.active{height:30px}}@media screen and (min-width:747px) and (max-width:1168px){#cookie_warning_dropdown.active{height:60px}}@media screen and (min-width:673px) and (max-width:746px){#cookie_warning_dropdown.active{height:11vh}}@media screen and (min-width:520px) and (max-width:672px){#cookie_warning_dropdown.active{height:14vh}}@media screen and (max-aspect-ratio:9/18) and (max-height:815px){#cookie_warning_dropdown.active{height:17vh}}@media screen and (max-width:800px) and (max-height:415px){#cookie_warning_dropdown.active{height:60px}}@media screen and (min-height:1080px) and (max-aspect-ratio:2/3){#cookie_warning_dropdown.active{height:60px;line-height:24px;font-size:12px}}@media screen and (max-width:605px) and (min-height:1080px) and (max-aspect-ratio:2/3){#cookie_warning_dropdown.active{height:auto;line-height:24px;font-size:12px}}</style>
-<base href="https://www.tfaw.com/Help/Privacy-Policy/">
-<title>TFAW.com: Home &gt; Help &gt; Privacy Policy</title>
-<link rel="alternate" type="application/rss+xml" title="TFAW New Releases" href="/rss/new_releases.php">
-<link rel="alternate" type="application/rss+xml" title="TFAW Deal of the Day" href="/rss/deal_of_the_day_rss.php">
-<link rel="alternate" type="application/rss+xml" title="TFAW Blog" href="/blog/feed/">
-<style type="text/css">body{background-image:url(//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/bg_light_grey_fade4.gif)}</style>
-<meta name="ROBOTS" content="NOODP">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<link rel="apple-touch-icon" sizes="57x57" href="/xapple-touch-icon-57x57.png.pagespeed.ic.jHmabKer70.png">
-<link rel="apple-touch-icon" sizes="60x60" href="/xapple-touch-icon-60x60.png.pagespeed.ic.oSP-Ru_0Lt.png">
-<link rel="apple-touch-icon" sizes="72x72" href="/xapple-touch-icon-72x72.png.pagespeed.ic.opQO8Vo6Ku.png">
-<link rel="apple-touch-icon" sizes="76x76" href="/xapple-touch-icon-76x76.png.pagespeed.ic.HnUdS2VS4L.png">
-<link rel="apple-touch-icon" sizes="114x114" href="/xapple-touch-icon-114x114.png.pagespeed.ic.AeLyzLlVb4.png">
-<link rel="apple-touch-icon" sizes="120x120" href="/xapple-touch-icon-120x120.png.pagespeed.ic.R_fD75lVt6.png">
-<link rel="apple-touch-icon" sizes="144x144" href="/xapple-touch-icon-144x144.png.pagespeed.ic.P4c8yjSElZ.png">
-<link rel="apple-touch-icon" sizes="152x152" href="/xapple-touch-icon-152x152.png.pagespeed.ic.vu6GX1hpXB.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/xapple-touch-icon-180x180.png.pagespeed.ic.HBAvKTmgf7.png">
-<link rel="icon" type="image/png" href="/xfavicon-32x32.png.pagespeed.ic.TduNT8vA1-.png" sizes="32x32">
-<link rel="icon" type="image/png" href="/xfavicon-194x194.png.pagespeed.ic.ohqLOnzU4p.png" sizes="194x194">
-<link rel="icon" type="image/png" href="/xfavicon-96x96.png.pagespeed.ic.8UUBgP8XWv.png" sizes="96x96">
-<link rel="icon" type="image/png" href="/xandroid-chrome-192x192.png.pagespeed.ic.BKuT8pjq4X.png" sizes="192x192">
-<link rel="icon" type="image/png" href="/xfavicon-16x16.png.pagespeed.ic.M5p_j69dEA.png" sizes="16x16">
-<link rel="manifest" href="/manifest.json">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="apple-mobile-web-app-title" content="TFAW">
-<meta name="application-name" content="TFAW">
-<meta name="msapplication-TileColor" content="#b91d47">
-<meta name="msapplication-TileImage" content="/mstile-144x144.png">
-<meta name="theme-color" content="#ffffff">
-<script type="text/javascript">function utmx_section(){};function utmx(){}</script>
-<!--[if IE]>
-    <style type="text/css">
-        legend {
-            position: absolute;
-            top: -.7em;
-            left: .7em;
-            background-color: transparent;
-        }
-    </style>
-    <![endif]-->
-<script language="JavaScript" type="text/javascript">var send_clicked=0;var Color=new Array();Color[1]="666666";Color[2]="777777";Color[3]="999999";Color[4]="AAAA66";Color[5]="999966";Color[6]="777777";Color[7]="666666";function waittofade(){if(document.getElementById('fade')){setTimeout("fadeIn(7)",1000);}}function fadeIn(where){if(where>=1){document.getElementById('fade').style.backgroundColor="#"+Color[where];if(where>1){where-=1;setTimeout("fadeIn("+where+")",150);}else{where-=1;setTimeout("fadeIn("+where+")",150);document.getElementById('fade').style.backgroundColor="transparent";}}}</script>
-<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','//connect.facebook.net/en_US/fbevents.js');fbq('init','983952651699381');fbq('track',"PageView");</script>
-<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=983952651699381&ev=PageView&noscript=1"/>
-</noscript>
-<script type="text/javascript">var tlJsHost="https://secure.comodo.com/";document.write(unescape("%3Cscript src='"+tlJsHost+"trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://secure.comodo.com/trustlogo/javascript/trustlogo.js" type="text/javascript"></script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4df002d76102bdb2"></script>
+<title>Privacy Policy</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/mage/calendar.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/css/styles.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/Amasty_Base/vendor/slick/amslick.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/Meetanshi_CookieNotice/css/cookienotice.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/Amasty_ShopbyBase/css/swiper.min.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/Amasty_Xsearch/css/source/mkcss/am-xsearch.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/Amasty_Blog/css/source/mkcss/amblog.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/Amasty_ShopbyBase/css/source/mkcss/am-shopby-base.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/Amasty_Shopby/css/source/mkcss/am-shopby.css">
+<link rel="stylesheet" type="text/css" media="print" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/css/print.css">
 
 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NM8WCWQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<link rel="stylesheet" media="(max-width: 864px)" href="//www.tfaw.com/static/vendor/css/A.bootstrap.min.css,q2017-01-27-02-02-00.pagespeed.cf.dMX1TSPDwZ.css">
-<script src="//www.tfaw.com/static/vendor/js/tether.min.js,q2017-01-27-02-02-00+bootstrap.min.js,q2017-01-27-02-02-00.pagespeed.jc.kiiU11PKja.js"></script><script>eval(mod_pagespeed_BJ_NsFKv4U);</script>
-<script>eval(mod_pagespeed_Yv3ALonw5a);</script>
-<style>#mobile-container{display:none}@media (max-width:864px){.hide-me-too-mobile{display:none}#mobile-container{display:block}}</style>
-<div class="hide-me-mobile provide-support-livechat">
-<div id="ci42S5" style="z-index:100;position:absolute"></div>
-<div id="sc42S5" style="position:fixed;margin-left:0;margin-top:570px;z-index:999;"></div>
-<div id="sd42S5" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/tfaw/safe-standard.js?ps_h=42S5&amp;ps_t=1580362620591&amp;account_id=none&amp;discount_code=&amp;online-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_on_dark.gif&amp;offline-image= %2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_off_dark.gif"></script></div>
-<script type="text/javascript">var se42S5=document.createElement("script");se42S5.type="text/javascript";var se42S5s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/tfaw/safe-standard.js?ps_h=42S5&ps_t="+new Date().getTime()+"&account_id=none&discount_code=&online-image=%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_on_dark.gif&offline-image= %2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_off_dark.gif";setTimeout("se42S5.src=se42S5s;document.getElementById('sd42S5').appendChild(se42S5)",1)</script>
-<noscript>
-<div style="position:fixed;margin-left:0;margin-top:570px;z-index:999;"><a href="http://messenger.providesupport.com/messenger/tfaw.html" target="_blank"><img src="%2F%2Fd2lzb5v10mb0lj.cloudfront.net%2Ftfaw2007%2Fnav/livechat_on_dark.gif" border="0"></a></div>
-</noscript>
-</div>
-<div class="hide-me-desktop">
-<div class="homebrew-nav">
-<div class="skinny">
-<a class="f-l" href="/">
-<img class="hide-me-supersmall" src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo.png" border="0" alt="TFAW.com" width="250" height="65">
-<img class="planet-icon show-me-supersmall" src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo_iconsm.png" border="0" alt="TFAW.com">
-</a>
-<a class="f-r nav" id="btn-res-nav" href="javascript:;">
-<i class="fa fa-bars" aria-hidden="true"></i>
-</a>
-<a class="f-r nav" id="btn-res-cart" href="/Cart">
-<i class="fa fa-shopping-cart" aria-hidden="true"></i>
-<div id="res-cart-count" style="display: none;" class="count">0</div>
-</a>
-<a class="f-r nav" id="btn-res-search" href="javascript:;">
-<i class="fa fa-search" aria-hidden="true"></i>
-</a>
-</div>
-<div style="display:none;" class="skinny res-nav-items">
-<div class="group">
-<div class="navbox">
-<a href="/Comics">Comics</a>
-</div>
-<div class="navbox">
-<a href="/Graphic-Novels">Graphic Novels</a>
-</div>
-</div>
-<div class="group">
-<div class="navbox">
-<a href="/Statues">Statues</a>
-</div>
-<div class="navbox">
-<a href="/Toys">Toys</a>
-</div>
-</div>
-<div class="group">
-<div class="navbox">
-<a href="/Companies">Companies</a>
-</div>
-<div class="navbox">
-<a href="/Themes">Themes</a>
-</div>
-</div>
-<div class="group">
-<div class="navbox">
-<a href="/More-Products">More Products</a>
-</div>
-<div class="navbox">
-<a href="/DOD?qt=ia_nav_dod_resp"><i class="fa fa-tag" aria-hidden="true"></i> Deal of the Day</a>
-</div>
-</div>
-<div class="group">
-<div class="navbox flatter">
-<a href="/Coming-Next-Week?qt=ia_nav_cnw_resp">Coming Next Week</a>
-</div>
-<div class="navbox flatter">
-<a href="/Arriving-This-Week?qt=ia_nav_atw_resp">Arriving this Week</a>
-</div>
-</div>
-<div class="group">
-<div class="navbox flatter">
-<a href="/New-Last-Week?qt=ia_nav_nlw_resp">New Last Week</a>
-</div>
-<div class="navbox flatter">
-<a href="/Promos/Nick-and-Dent?qt=ia_nav_nd_resp">Nick &amp; Dent</a>
-</div>
-</div>
-<div class="group">
-<div class="navbox flatter">
-<a href="//blog.tfaw.com">Blog</a>
-</div>
-<div class="navbox flatter">
-<a href="/Comics/Pre-Orders">Pre-Order Comics</a>
-</div>
-</div>
-<div class="group">
-<div class="navbox flatter full-width">
-<a href="/Your-Account/LogIn"><i class="fa fa-power-off" aria-hidden="true"></i> Log In</a>
-</div>
-</div>
-</div>
-</div>
-<div>
-</div>
-</div>
-<script type="text/html" id="search-overlay-template">
-    <div class="hide-me-desktop" id="search-overlay">
-        <div class="search-form-wrapper">
-            <form class="search-form" action="/Search" onsubmit="return didFormSumbit();" role="search" method="GET">
-                <input id="res_myInput" name="quick_sstring" placeholder="Searching for..."
-                       class="sitewide-search-input search-text quicksearch" size="25" maxlength="60" autocomplete="off"
-                       data-com.agilebits.onepassword.user-edited="yes">
-                <button type="submit">Go</button>
-                <a href="/PowerSearch">Adv. Search</a>
-            </form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="canonical" href="https://www.tfaw.com/privacy-policy">
+<link rel="icon" type="image/x-icon" href="https://www.tfaw.com/media/favicon/default/Planet_2019_48x48.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://www.tfaw.com/media/favicon/default/Planet_2019_48x48.png">
+<link href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:600,800,900|Didact+Gothic&amp;display=swap" rel="stylesheet">
+<!--cf61d6365f8f654cb1134faa84665575-->        
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@TFAW">
+<meta name="twitter:creator" content="@TFAW">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:url" content="https://www.tfaw.com/privacy-policy">
+<meta name="twitter:image" content="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/images/logo.svg">
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://www.tfaw.com/privacy-policy">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:image" content="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/images/logo.svg">
+<meta property="og:site_name" content="Things From Another World">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"><link rel="stylesheet" type="text/css" media="all" href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
+<!-- Magic Scroll Magento 2 module version v1.5.47 [v1.6.79:v2.0.40] -->
+
+<link type="text/css" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/MagicToolbox_MagicScroll/css/magicscroll.css" rel="stylesheet" media="screen">
+<link type="text/css" href="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/MagicToolbox_MagicScroll/css/magicscroll.module.css" rel="stylesheet" media="screen">
+
+
+    </head>
+    <body data-container="body" data-mage-init="{&quot;loaderAjax&quot;: {}, &quot;loader&quot;: { &quot;icon&quot;: &quot;https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/images/loader-2.gif&quot;}}" class="cms-privacy-policy cms-page-view page-layout-2columns-left">
+                    <!-- GOOGLE TAG MANAGER -->
+            <noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NM8WCWQ" height="0" width="0"
+                        style="display:none;visibility:hidden"></iframe>
+            </noscript>
+            
+            <!-- END GOOGLE TAG MANAGER -->
+        
+
+    
+
+
+    <noscript>
+        <div class="message global noscript">
+            <div class="content">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong>
+                    <span>For the best experience on our site, be sure to turn on Javascript in your browser.</span>
+                </p>
+            </div>
         </div>
-        <a href="javascript:;" class="search-close"><i class="fa fa-times-circle-o"></i></a>
-    </div>
-    <div class="hide-me-desktop" id="dark-overlay"></div>
-</script> <div class="hide-me-mobile" id="header-container" style=" z-index: 750; width:835px; margin:0 auto; margin-top:15px; margin-bottom:10px;">
-<div style="position:relative;margin-bottom:5px; margin-right:10px;">
-<span style="">
-<a href="/"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/tfawlogo.png" border="0" alt="TFAW.com" width="250" height="65"></a>
-</span>
-<table id="livechat-table" style="position: absolute; top:0px; right:0px;" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td valign="top" align="center">
-<div><strong>Get the latest news.</strong></div>
-<a href="#" id="gr_subscribe" style="text-decoration: none;"><span class="gr-subscribe-button">Subscribe</span></a>
-<script src="https://www.email.darkhorse.com/view_webform_v2.js?u=YeIwb&amp;webforms_id=UfH6">
-            {
-              "name": "Newsletter Subscribe",
-              "selector": {
-                "clickToShow": "#gr_subscribe"
-              }
-            }
-          </script>
-<script type="application/javascript">document.getElementById('gr_subscribe').onclick=clearGRCookie;window.onload=clearGRCookie;function clearGRCookie(){document.cookie.split(/; */).forEach(function(c){if(c.match(new RegExp(/grwf2_sent_\d*/))){document.cookie=c+'; expires=Thu, 01 Jan 1970 00:00:01 GMT';}});}</script>
-</td>
-<td valign="top">
-<div class="trust-seal-container">
-<div class="trust-seal phone-trust-seal">
-<span class="phone-number">800-862-0052</span>
-<span class="hours">M-F 9am-5pm PST</span>
-</div>
-</div>
-</td>
-<td valign="top">
-<table border="0" cellpadding="0" cellspacing="0" id="cart-table">
-<tbody><tr>
-<td align="center"><span id="cart-status">
-Your cart is empty </span></td>
-</tr>
-<tr>
-<td>
-<a href="/Cart/">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_checkout.png" width="120" height="24" border="0" alt="">
-</a>
-</td>
-</tr>
-<tr>
-<td><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="1" height="1" border="0" alt="">
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<div class="hide-me-mobile" style="position:absolute; right:0px; top: 50px;">
-<span class="login-status">No matter what you're into, we've got just the thing for your collection!</span> </div>
-</div>
-<div id="nav" style="border:1px solid #6f7d8f; position: relative; z-index: 11; border-radius: 15px;">
-<div style="height:34px; padding:0;">
-<table id="nav-menu-table" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td class="rollovertd"><a href="/Graphic-Novels" class="menuitem">Graphic Novels</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
-<tbody>
-<tr>
-<td class="inner-submenu">
-<table cellpadding="0" cellspacing="0">
-<tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Graphic Novels</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Art-Books/">Art Books</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Best-Sellers/">Best Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/First-Looks/">First Looks</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Hardcovers/">Hardcovers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Nick-And-Dent/">Nick And Dent</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Recommended/">Recommended</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Graphic-Novels/Top-20-Hottest/">Top 20 Hottest</a></td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td><td class="rollovertd"><a href="/Comics" class="menuitem">Comics</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
-<tbody>
-<tr>
-<td class="inner-submenu">
-<table cellpadding="0" cellspacing="0">
-<tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Comics</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Back-Issues/">Back Issues</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Best-Sellers/">Best-Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/First-Looks/">First Looks</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Kids/">Kids</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Indy/">Indy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/DC-Rebirth/">DC Rebirth</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Secret-Empire/">Secret Empire</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Supplies/">Supplies</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Dark-Nights-Metal/">Dark Nights Metal</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Marvel-Legacy/">Marvel Legacy</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Comics</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Search/_results_prod_type_search=Comics">See all 6155 Comics</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-This-Week/">New This Week</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Variants/">Variants</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/">New Comic Books</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Marvel-Comics">&nbsp;New Marvel Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-DC-Comics">&nbsp;New DC Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Image-Comics">&nbsp;New Image Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-IDW-Comics">&nbsp;New IDW Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Dark-Horse-Comics">&nbsp;New Dark Horse Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Comic-Books/New-Boom-Studios-Comics">&nbsp;New Boom Studios Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/New-Story-Arcs/">New Story Arcs</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Annuals/">Annuals</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Civil-War-II/">Civil War II</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Comics/Inhumans-Vs-X-Men/">Inhumans Vs X-Men</a></td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td><td class="rollovertd"><a href="/Statues" class="menuitem">Statues</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
-<tbody>
-<tr>
-<td class="inner-submenu">
-<table cellpadding="0" cellspacing="0">
-<tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Statues</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Statues/In-Stock-Statues/">In-Stock Statues</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Statues</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Search/_results_prod_type_search=Statues">See all 329 Statues</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td><td class="rollovertd"><a href="/Toys" class="menuitem">Toys</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
-<tbody>
-<tr>
-<td class="inner-submenu">
-<table cellpadding="0" cellspacing="0">
-<tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Toys</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Pre-Orders/">Pre Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/New-Releases/">New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Best-Sellers/">Best Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/In-Stock-Toys/">In-Stock Toys</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Genres/">Genres</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Recommended/">Recommended</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Toys/Top-20-Hottest/">Top 20 Hottest</a></td></tr><tr class="submenu-item-heading"><td><span class="submenuheader">Explore Toys</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Search/_results_prod_type_search=Toys">See all 1103 Toys</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td><td class="rollovertd"><a href="/More-Products" class="menuitem">More Products</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
-<tbody>
-<tr>
-<td class="inner-submenu">
-<table cellpadding="0" cellspacing="0">
-<tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">More Products</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Apparel/">Apparel</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Books/">Books</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Cards/">Cards</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Collectibles/">Collectibles</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Games/">Games</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Best-Sellers/">Best Sellers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Grab-Bags/">Grab Bags</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Journals/">Journals</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Lunch-Boxes/">Lunch Boxes</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Merchandise/">Merchandise</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Models/">Models</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Ship-Replicas/">Ship Replicas</a></td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td><td class="rollovertd"><a href="/Themes" class="menuitem">Themes</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
-<tbody>
-<tr>
-<td class="inner-submenu">
-<table cellpadding="0" cellspacing="0">
-<tbody>
-<tr class="submenu-item-heading"><td><span class="submenuheader">Themes</span></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Adventure-Time/">Adventure Time</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Aliens/">Aliens</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Batgirl/">Batgirl</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Batman/">Batman</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Berserk/">Berserk</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Buffy-the-Vampire-Slayer/">Buffy the Vampire Slayer</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Captain-Marvel/">Captain Marvel</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Cyborg/">Cyborg</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Deadpool/">Deadpool</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Doctor-Strange/">Doctor Strange</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Game-of-Thrones/">Game of Thrones</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Guardians-of-the-Galaxy/">Guardians of the Galaxy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Hellboy/">Hellboy</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Hulk/">Hulk</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Iron-Man/">Iron Man</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Manga/">Manga</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Power-Rangers/">Power Rangers</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Predator/">Predator</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Serenity/">Serenity</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Spider-Man/">Spider-Man</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Star-Trek/">Star Trek</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Star-Wars/">Star Wars</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Superman/">Superman</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Supergirl/">Supergirl</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Thor/">Thor</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Videogame/">Videogame</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Walking-Dead/">Walking Dead</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Wolverine/">Wolverine</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/Wonder-Woman/">Wonder Woman</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Themes/X-Men/">X-Men</a></td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td><td class="rollovertd"><a href="/Companies" class="menuitem">Companies</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
-<tbody>
-<tr>
-<td class="inner-submenu">
-<table cellpadding="0" cellspacing="0">
-<tbody>
-<tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Archie-Comics">Archie Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Boom!-Studios">Boom! Studios</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Dark-Horse">Dark Horse</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/DC-Comics">DC Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Dynamic-Forces">Dynamic Forces</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Dynamite-Entertainment">Dynamite</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Fantagraphics">Fantagraphics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/IDW-Publishing">IDW Publishing</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Image-Comics">Image Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Kotobukiya">Kotobukiya</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Marvel-Comics">Marvel Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Oni-Press">Oni Press</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Titan-Comics">Titan Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Top-Shelf-Productions">Top Shelf</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Valiant-Entertainment-LLC">Valiant</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Vertigo">Vertigo</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies/Zenescope-Entertainment">Zenescope</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Companies">All Companies...</a></td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td><td class="rollovertd"><a href="https://blog.tfaw.com" class="menuitem">Blog</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
-<tbody>
-<tr>
-<td class="inner-submenu">
-<table cellpadding="0" cellspacing="0">
-<tbody>
-<tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/general-news/">General News</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/graphic-content/">Graphic Content</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/interviews/">Interviews</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/new-products/">New Products</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/product-reviews/">Product Reviews</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/special-sales/">Special Sales</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/category/upcoming-products/">Upcoming Products</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="https://blog.tfaw.com/">Blog Index...</a></td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td><td class="rollovertd"><a href="/Promos" class="menuitem">Quicklinks</a><table class="submenu" cellpadding="0" cellspacing="0" style="display: none;">
-<tbody>
-<tr>
-<td class="inner-submenu">
-<table cellpadding="0" cellspacing="0">
-<tbody>
-<tr class="submenu-item-url"><td><a rel="nofollow" href="/Arriving-This-Week">Arriving This Week</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/New-Last-Week">New Last Week</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/New-Releases">All New Releases</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Recently-Restocked">Recently Restocked</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Coming-Next-Week">Coming Next Week</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Pre-Orders">All Pre-Orders</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Promos/Nick-and-Dent">50% Off Nick &amp; Dents</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/DOD">Deal of the Day</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/More-Products/Grab-Bags">50¢ Grab Bags</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Promos/1-Dollar-Comics-Sale">$1 Back Issue Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Promos/2-Dollar-Comics-Sale">$2 Back Issue Comics</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Promos">Other Promotions</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Subscriptions">Subscriptions</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/Contests">Contests</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/offer/comments">Testimonials</a></td></tr><tr class="submenu-item-spacer"><td><br></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/newsletters">Newsletter Signup</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/help/watchdog">Watchdog Alerts</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/help/wish-lists">Wish Lists</a></td></tr><tr class="submenu-item-url"><td><a rel="nofollow" href="/home/gift-certificates">Gift Certificates</a></td></tr></tbody>
-</table>
-</td>
-</tr>
-</tbody>
-</table>
-</td> </tr>
-</tbody></table>
-</div>
-<div style="padding: 10px 0 0 0;height:40px; border-top: 1px solid #6f7d8f; background-color:#d4dcde;
-                border-bottom-right-radius: 15px; border-bottom-left-radius: 15px;">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td>
-<form action="/Search" onsubmit="return didFormSumbit();">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="10"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" height="10" width="10" border="0" alt=""></td>
-<td valign="middle">
-<div style="position: relative; padding: 0px; margin: 0px; z-index: 0;">
-<input type="hidden" name="_results_use_stopwords" value="true">
-<input id="myInput" name="quick_sstring" placeholder="Searching for.." class="sitewide-search-input quicksearch" size="25" maxlength="60">
-<div id="Auto-complete-container"></div>
-</div>
-</td>
-<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="28" border="0" alt=""></td>
-<td valign="middle">
-<select name="_results_sstype_search" class="quicksearch sitewide-filter">
-<option value="">All fields</option>
-<option value="titles">Titles</option>
-<option value="people">People</option>
-<option value="brands">Companies</option>
-<option value="">------</option>
-<option value="graphic-novels">Graphic Novels</option>
-<option value="comics">Comics</option>
-<option value="statues">Statues</option>
-<option value="toys">Toys</option>
-<option value="movies">Movies</option>
-<option value="new-releases">New Releases</option>
-<option value="pre-orders">Pre-Orders</option>
-</select>
-</td>
-<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-<td valign="middle"><input type="submit" value="Search" class="smallsubmit sitewide-smallsubmit"></td>
-<td width="15"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td>
-<td><a href="/PowerSearch" class="subnav">POWER SEARCH</a></td>
-</tr>
-</tbody></table>
-</form>
-</td>
-<td valign="middle" align="right">
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-<td valign="middle"><a href="/Help" class="subnav">HELP</a></td>
-<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-<td valign="middle"><span class="subnav-middot">·</span></td>
-<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-<td valign="middle"><a href="https://www.tfaw.com/Your-Account" class="subnav">YOUR&nbsp;ACCOUNT</a></td>
-<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-<td valign="middle"><span class="subnav-middot">·</span></td>
-<td width="5"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt=""></td>
-<td valign="middle"><a href="https://www.tfaw.com/Your-Account/Login" id="mysubnav-login" onmouseover="$D.setStyle(this, 'backgroundColor','#c23015');$D.setStyle(this, 'color','white');" onmouseout="$D.setStyle(this, 'backgroundColor','white');$D.setStyle(this, 'color','#4c5d6d');">LOGIN</a></td> <td width="15"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-<div class="hide-me-mobile" align="center" style="padding-top:7px;padding-bottom:0px;vertical-align:bottom;">
-<a href="/DOD?qt=ia_nav_dod">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_deal.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-</a>
-<a href="/New-Last-Week?qt=ia_nav_nlw">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_new.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-</a>
-<a href="/Arriving-This-Week?qt=ia_nav_atw">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_arriving.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-</a>
-<a href="/Coming-Next-Week?qt=ia_nav_cnw">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_coming.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-</a>
-<a class="nd-replacement-button" id="nd-replacement-button-things" data-qt-string="nav_Button_Things" href="/Sale?qt=nav_Button_Things">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/button_things.png" style="border:hidden;padding-top:2px;padding-bottom:2px;" height="24" width="163" border="0">
-</a>
-</div>
-</div>
-<table class="hide-me-too-mobile" border="0" cellpadding="0" cellspacing="0" width="865" align="center">
-<tbody><tr>
-<td width="15">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
-</td>
-<td valign="top">
-<div class="sidenav">
-</div> 
-<noscript>
-<div style="position:relative; width:170; border:1px solid #2F3E5F; padding:5px; margin:0 auto; margin-top:0px; margin-bottom:15px;">
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="top">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/common/warning.png" width="26" height="24" border="0" alt="WARNING" align="left" hspace="5" vspace="3">
-<span style="font-size:11px;">
-To get the most out of your TFAW.com experience, please enable Javascript in your browser.
-</span>
-</td>
-</tr>
-</table>
-</div>
-</noscript>
-<div class="sidebarheader"><a href="/Offer/Comments?qt=ia_ccbanhdr" class="sidebarheader">CUSTOMERS SAY</a></div>
-<div style="margin-top:5px; padding-bottom:15px;" align="center">
-<a href="/Offer/Comments?qt=ia_ccban"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/CustCom1_170.gif" width="170" height="105" border="0" alt="Customer Testimonials"></a>
-</div>
-<div class="divider" style="margin-top:0px; padding-bottom:10px;">
-</div>
-<div class="sidebarheader" style="padding-bottom:10px;">GREAT TFAW DEALS</div>
-<div style="margin-top:0px; padding-bottom:15px;">
-<a rel="nofollow" href="/exclusivethings"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/13_05_apparel_170x170.jpg" width="170" height="170" border="0" alt="Dark Horse Apparel"></a>
-</div>
-<div style="margin-top:0px; padding-bottom:15px;">
-<a rel="nofollow" href="/Search/_results_available_search=nobackorder/_results_limit_search=30/_results_order_search=title/_results_ordercombo_search=date_desc/_results_sstring_search=black%2Bhammer"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/18_11-Black_hammer_170x170.jpg" width="170" height="170" border="0" alt="Black Hammer"></a>
-</div>
-<div style="margin-top:0px; padding-bottom:15px;">
-<a rel="nofollow" href="/sale/"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/Jan17_Sale-1.jpg" width="170" height="54" border="0" alt="Comic Books for Sale"></a>
-</div>
-<div style="margin-top:0px; padding-bottom:15px;">
-<a rel="nofollow" href="/Newsletter"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/Newsletter_170x170-1.jpg" width="170" height="170" border="0" alt="Newsletter"></a>
-</div>
-<div style="margin-top:0px; padding-bottom:15px;">
-<a rel="nofollow" href="/dod"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/deal_of_the_day-1.jpg" width="170" height="54" border="0" alt="Deal of the Day"></a>
-</div>
-<br><br>
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="170" height="5" border="0" alt="">
-</td>
-<td width="20">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="20" height="20" border="0" alt="">
-</td>
-<td width="100%" valign="top">
-<b><a href="/" class="greylink">Home</a> <span class="greyarrow">&gt;</span> <a href="/Help" class="greylink">Help</a> <span class="greyarrow">&gt;</span> <span class="bluebold">Privacy Policy</span></b>
-<div style="height:10px;"></div>
-<table border="0" class="hide-me-too-mobile" cellpadding="0" cellspacing="0" width="100%"><tbody><tr>
-<td colspan="3"><span class="sectionheader"><h2>Privacy Policy</h2></span></td>
-</tr>
-<tr>
-<td colspan="3"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0"></td>
-</tr><tr><td valign="top"><span class="bodytext"><p>
-Please keep in mind that if you're using this site, you are agreeing to the Privacy Policy of Things From Another World, Inc. (TFAW.com).
-</p>
-<p>
-This Privacy Notice describes the types of personal information we collect about our customers on our Website, in our stores, and through interest-based online advertising. The Privacy Notice also describes how we may use that information, how we protect that information, how we share that information, your choices and options regarding the information, and how you can contact us regarding our privacy practices.
-</p>
-<p>
-<b>INFORMATION WE COLLECT</b>
-</p>
-<p>
-We may collect certain personal information from you in connection with your activities at TFAW.com, such as when you shop on our website or in our stores. This information may include:
-</p>
-<ul>
-<li>Payment card or other financial account information;</li>
-<li>contact and billing information (including name, e-mail address, postal address, and phone number);</li>
-<li>date of birth;</li>
-<li>geolocation data; and</li>
-<li>other personal information you provide to us on our Website, in our stores, or when you interact with us in other ways, both online and offline.</li>
-</ul>
-<p>
-Additionally, we or companies acting on our behalf may collect certain computer and browser information through automated technologies such as cookies and web beacons when you visit our Website. A "cookie" is a file that a website sends to a visitor's computer or other Internet-connected device to identify the browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.
-</p>
-<p>
-The information collected using these tools may include your IP address, browser characteristics, operating system, the address of the web page that referred you to our Website, dates and times of Website visits, the language your system uses, and the country and time zone in which your device is located. These automated technologies also permit the collection of "clickstream data," which may include a log of content you access while browsing a website.
-</p>
-<p>
-Companies acting on our behalf may combine the information collected from your visit to our Website with other information they have collected previously. Your web browser may tell you how to be notified when you receive certain types of cookies and how to restrict, reject or disable certain cookies.
-</p>
-<b>INTEREST-BASED ONLINE ADVERTISING AND GOOGLE ANALYTICS</b>
-<p>
-This section of our Privacy Notice provides details about interest-based online advertising (also called "targeted advertising", "remarketing", or "behavioral advertising"), Google Analytics, and your choices with respect to this type of advertising.
-</p>
-<p>
-We use Google Analytics' 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
-</p>
-<p>
-You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising <a target="_new" href="https://optout.aboutads.info/?c=2#!/">here</a> and edit or opt-out your Google Display Network ads preferences at <a target="_new" href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a>. Because those opt-out and preference control pages are specific to the individual browser used to visit it, and because those pages are not operated by TFAW.com, we are unable to perform the opt-outs on your behalf.
-</p>
-<p>
-<b>HOW WE USE THE PERSONAL INFORMATION WE COLLECT</b>
-</p><p>
-When we collect information from you, we may use it for a number of purposes, including to:
-</p>
-<ul>
-<li>Process, manage, complete and account for transactions, including purchases and refunds;</li>
-<li>Provide our products and services to you and fulfill your gift card orders;</li>
-<li>Identify your product and service preferences;</li>
-<li>Improve merchandise selections and customer service;</li>
-<li>Invite you to participate in customer research;</li>
-<li>Notify you about new products, services, features, promotions, events and special offerings relating to TFAW.com we think you will find valuable;</li>
-<li>Provide customer support and respond to your requests, comments and inquiries;</li>
-<li>Create and manage online accounts you establish;</li>
-<li>Administer your participation in promotions, contests and sweepstakes;</li>
-<li>Verify your identity in certain instances (such as when you return merchandise or request a refund);</li>
-<li>Protect against, identify and help prevent fraud, unauthorized activity, claims and other liabilities and minimize credit risk;</li>
-<li>Comply with and enforce applicable legal requirements, industry standards, our policies, and our Terms of Use; and performing market research, and administering our Website.</li>
-</ul>
-<p>
-We also may use the information in other ways for which we provide specific notice at the time of collection.
-</p>
-<p>
-In addition, we use information collected online through automated means for purposes such as customizing our users' visits to TFAW.com, delivering content tailored to our users' interests and the manner in which our users browse our Website, measuring and managing the advertising effectiveness of our online and offline advertisements and events, and managing our business. We also use this information to help diagnose technical and service problems, administer our Website, identify users of our Website, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our websites, how users navigate through our websites, and how we may tailor our websites to better meet the needs of our users. In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also supplement the information we collect with other public demographic information.
-</p>
-<p>
-<b>LINKS/CO-BRANDED SITES</b>
-</p><p>
-TFAW.com has established relationships with advertisers and reputable business partners that allow visitors to our Site to link directly to sites operated by these partners. Some of these sites may be "co-branded" with a TFAW.com logo; however, they are not operated or maintained by TFAW.com. These sites may collect personal information from you. This Privacy Policy will apply to any personal information we obtain in this manner from our partners.
-</p>
-<p>
-TFAW.com chooses its advertisers and business partners carefully. However, TFAW.com is not responsible for the content or practices of Web sites operated by third parties that are linked to our Site. These links are meant for the user's convenience only. Links to third-party sites do not constitute sponsorship, endorsement, or approval by TFAW.com of the content, policies, or practices of such third-party sites. We are not responsible for any information these sites may obtain and do not oversee their policies or practices in collecting personal information. Therefore, once you have left this Site via such a link, you should check the applicable privacy policy of the third-party site.
-</p>
-<p>
-This Site may also be linked to Web sites operated by companies affiliated with TFAW.com. TFAW.com may share information collected by our affiliated companies, however this Privacy Policy will apply to any personal information we receive in this manner. Visitors to our affiliated company's sites should still refer to their separate privacy policies and practices when providing any personally identifiable information.
-</p>
-<b>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION </b>
-<p>
-Visitors may review, change, or delete personal information from our records at any time. If you would like to review, change, or delete your personal information, please contact us at "privacy1 at tfaw dot com" or write us at Things From Another World, Attn: Privacy Info, 10956 SE Main St, Milwaukie, OR 97222. If you have requested the deletion of your information, we will immediately delete your information from our database and refrain from collecting any other personally identifiable information. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information for purposes of identifying purchases made through our Website. This residual information will not be given to any other third-party or used for any commercial purpose.
-</p>
-<b>SECURITY AND INTEGRITY OF PERSONAL INFORMATION</b>
-<p>
-TFAW.com has established and maintains reasonable procedures to protect the confidentiality, security, and integrity of personal information collected by this Site, in compliance with PCI DSS requirements.
-</p>
-<b>COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION FROM CHILDREN UNDER 13</b>
-<p>
-We do not seek nor will we knowingly collect personal information from anyone under the age of 13.
-</p>
-<p></p>
-<p></p>
-<p>
-<b>Privacy Policy Changes</b>
-</p><p>
-TFAW.com reviews its privacy policy periodically, and it may be subject to change.
-</p>
-<p></p>
-<p>
-</p><p>
-Last Updated March 14th, 2018
-</p>
-</span></td></tr><tr><td colspan="3"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt=""></td></tr></tbody></table> </td>
-<td width="15">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
-</td>
-</tr>
-</tbody></table>
-<div id="mobile-container" class="container-fluid">
-<div class="row">
-<div class="col-12 text-center">
-<script>jQuery(document).ready(function($){$('.dismiss-message-trigger').on('click',function(){var msg_id=jQuery(this).attr('data-message-id');$.ajax({url:'/ajax.php',data:{dismiss_message:msg_id},method:'GET'});});});</script>
-</div>
-</div>
-<div class="mt-1 row">
-<div class="col-12 col-md-8 offset-md-2">
-<div class="blurb-mod-header">Privacy Policy</div>
-<div class="blurb-mod-text">
-<p>
-Please keep in mind that if you're using this site, you are agreeing to the Privacy Policy of Things From Another World, Inc. (TFAW.com).
-</p>
-<p>
-This Privacy Notice describes the types of personal information we collect about our customers on our Website, in our stores, and through interest-based online advertising. The Privacy Notice also describes how we may use that information, how we protect that information, how we share that information, your choices and options regarding the information, and how you can contact us regarding our privacy practices.
-</p>
-<p>
-<b>INFORMATION WE COLLECT</b>
-</p>
-<p>
-We may collect certain personal information from you in connection with your activities at TFAW.com, such as when you shop on our website or in our stores. This information may include:
-</p>
-<ul>
-<li>Payment card or other financial account information;</li>
-<li>contact and billing information (including name, e-mail address, postal address, and phone number);</li>
-<li>date of birth;</li>
-<li>geolocation data; and</li>
-<li>other personal information you provide to us on our Website, in our stores, or when you interact with us in other ways, both online and offline.</li>
-</ul>
-<p>
-Additionally, we or companies acting on our behalf may collect certain computer and browser information through automated technologies such as cookies and web beacons when you visit our Website. A "cookie" is a file that a website sends to a visitor's computer or other Internet-connected device to identify the browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.
-</p>
-<p>
-The information collected using these tools may include your IP address, browser characteristics, operating system, the address of the web page that referred you to our Website, dates and times of Website visits, the language your system uses, and the country and time zone in which your device is located. These automated technologies also permit the collection of "clickstream data," which may include a log of content you access while browsing a website.
-</p>
-<p>
-Companies acting on our behalf may combine the information collected from your visit to our Website with other information they have collected previously. Your web browser may tell you how to be notified when you receive certain types of cookies and how to restrict, reject or disable certain cookies.
-</p>
-<b>INTEREST-BASED ONLINE ADVERTISING AND GOOGLE ANALYTICS</b>
-<p>
-This section of our Privacy Notice provides details about interest-based online advertising (also called "targeted advertising", "remarketing", or "behavioral advertising"), Google Analytics, and your choices with respect to this type of advertising.
-</p>
-<p>
-We use Google Analytics' 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
-</p>
-<p>
-You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising <a target="_new" href="https://optout.aboutads.info/?c=2#!/">here</a> and edit or opt-out your Google Display Network ads preferences at <a target="_new" href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a>. Because those opt-out and preference control pages are specific to the individual browser used to visit it, and because those pages are not operated by TFAW.com, we are unable to perform the opt-outs on your behalf.
-</p>
-<p>
-<b>HOW WE USE THE PERSONAL INFORMATION WE COLLECT</b>
-</p><p>
-When we collect information from you, we may use it for a number of purposes, including to:
-</p>
-<ul>
-<li>Process, manage, complete and account for transactions, including purchases and refunds;</li>
-<li>Provide our products and services to you and fulfill your gift card orders;</li>
-<li>Identify your product and service preferences;</li>
-<li>Improve merchandise selections and customer service;</li>
-<li>Invite you to participate in customer research;</li>
-<li>Notify you about new products, services, features, promotions, events and special offerings relating to TFAW.com we think you will find valuable;</li>
-<li>Provide customer support and respond to your requests, comments and inquiries;</li>
-<li>Create and manage online accounts you establish;</li>
-<li>Administer your participation in promotions, contests and sweepstakes;</li>
-<li>Verify your identity in certain instances (such as when you return merchandise or request a refund);</li>
-<li>Protect against, identify and help prevent fraud, unauthorized activity, claims and other liabilities and minimize credit risk;</li>
-<li>Comply with and enforce applicable legal requirements, industry standards, our policies, and our Terms of Use; and performing market research, and administering our Website.</li>
-</ul>
-<p>
-We also may use the information in other ways for which we provide specific notice at the time of collection.
-</p>
-<p>
-In addition, we use information collected online through automated means for purposes such as customizing our users' visits to TFAW.com, delivering content tailored to our users' interests and the manner in which our users browse our Website, measuring and managing the advertising effectiveness of our online and offline advertisements and events, and managing our business. We also use this information to help diagnose technical and service problems, administer our Website, identify users of our Website, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our websites, how users navigate through our websites, and how we may tailor our websites to better meet the needs of our users. In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also supplement the information we collect with other public demographic information.
-</p>
-<p>
-<b>LINKS/CO-BRANDED SITES</b>
-</p><p>
-TFAW.com has established relationships with advertisers and reputable business partners that allow visitors to our Site to link directly to sites operated by these partners. Some of these sites may be "co-branded" with a TFAW.com logo; however, they are not operated or maintained by TFAW.com. These sites may collect personal information from you. This Privacy Policy will apply to any personal information we obtain in this manner from our partners.
-</p>
-<p>
-TFAW.com chooses its advertisers and business partners carefully. However, TFAW.com is not responsible for the content or practices of Web sites operated by third parties that are linked to our Site. These links are meant for the user's convenience only. Links to third-party sites do not constitute sponsorship, endorsement, or approval by TFAW.com of the content, policies, or practices of such third-party sites. We are not responsible for any information these sites may obtain and do not oversee their policies or practices in collecting personal information. Therefore, once you have left this Site via such a link, you should check the applicable privacy policy of the third-party site.
-</p>
-<p>
-This Site may also be linked to Web sites operated by companies affiliated with TFAW.com. TFAW.com may share information collected by our affiliated companies, however this Privacy Policy will apply to any personal information we receive in this manner. Visitors to our affiliated company's sites should still refer to their separate privacy policies and practices when providing any personally identifiable information.
-</p>
-<b>REVIEWING AND MAKING CHANGES TO PERSONALLY IDENTIFIABLE INFORMATION </b>
-<p>
-Visitors may review, change, or delete personal information from our records at any time. If you would like to review, change, or delete your personal information, please contact us at "privacy1 at tfaw dot com" or write us at Things From Another World, Attn: Privacy Info, 10956 SE Main St, Milwaukie, OR 97222. If you have requested the deletion of your information, we will immediately delete your information from our database and refrain from collecting any other personally identifiable information. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information for purposes of identifying purchases made through our Website. This residual information will not be given to any other third-party or used for any commercial purpose.
-</p>
-<b>SECURITY AND INTEGRITY OF PERSONAL INFORMATION</b>
-<p>
-TFAW.com has established and maintains reasonable procedures to protect the confidentiality, security, and integrity of personal information collected by this Site, in compliance with PCI DSS requirements.
-</p>
-<b>COLLECTION AND USE OF PERSONALLY IDENTIFIABLE INFORMATION FROM CHILDREN UNDER 13</b>
-<p>
-We do not seek nor will we knowingly collect personal information from anyone under the age of 13.
-</p>
-<p></p>
-<p></p>
-<p>
-<b>Privacy Policy Changes</b>
-</p><p>
-TFAW.com reviews its privacy policy periodically, and it may be subject to change.
-</p>
-<p></p>
-<p>
-</p><p>
-Last Updated March 14th, 2018
-</p>
-</div> </div>
-</div>
-</div>
-<script>jQuery(document).ready(function(){jQuery('.close').on('click',function(){jQuery(this).parent().hide(500);});});</script>
-<table class="hide-me-mobile" id="footer_table" cellpadding="0" cellspacing="0" border="0" align="center" width="865">
-<tbody><tr>
-<td width="15">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
-</td>
-<td>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td>
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="10" height="10" border="0" alt="">
-</td>
-</tr>
-<tr>
-<td>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td align="left">
-<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--18105.html" target="bizrate.com"><img src="https://medals.bizrate.com/medals/dynamic/18105_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a>
-</td>
-<td align="center" valign="bottom">
-<b>What do you think about our site? We welcome your <a href="/Help/Contact-Form?messageabout=feedback">feedback</a>!</b><br><br>
-<a class="boldlink" href="/Help">Help</a>&nbsp;|&nbsp;
-<a class="boldlink" href="/Help/About-Us">About Us</a>&nbsp;|&nbsp;
-<a class="boldlink" href="/Help/Contact-Form">Contact Us</a>&nbsp;|&nbsp;
-<a class="boldlink" href="https://messenger.providesupport.com/messenger/tfaw.html">Live Support Chat</a>&nbsp;|&nbsp;
-<a class="boldlink" href="/Newsletters">Newsletter Signup</a>&nbsp;<br>
-<a class="boldlink" href="/Store-locations">Store Locations</a>&nbsp;|&nbsp;
-<a class="boldlink" href="/Help/Affiliate-Information">Affiliate Program</a>&nbsp;|&nbsp;
-<a class="boldlink" href="/Jobs">Jobs</a>&nbsp;|&nbsp;
-<a class="boldlink" href="/Help/Privacy-Policy">Privacy Policy</a>&nbsp;|&nbsp;
-<a class="boldlink" href="/Site-Map">Site Map</a><span class="toggle-desktop-force-container">&nbsp;|&nbsp;
-<a class="boldlink toggle-desktop-force" data-mode="enable" href="#">Use Desktop Site</a></span>
-</td>
-<td align="right">
-<a target="_blank" href="https://www.comodo.com/">
-<img src="https://d2lzb5v10mb0lj.cloudfront.net/tfaw2007/common/comodo_secure_seal_113x59_transp.png">
-</a>
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr class="toggle-desktop-force-container">
-<td class="center-text" style="padding: 0.5em 0; font-size: 150%;">
-<a class="boldlink toggle-desktop-force" data-mode="enable" href="#">Use Desktop Site</a>
-</td>
-</tr>
-<tr>
-<td>
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="10" height="10" border="0" alt="">
-</td>
-</tr>
-<tr>
-<td bgcolor="#bdc8d0"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="10" height="1" border="0" alt=""></td>
-</tr>
-<tr>
-<td>
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="5" height="5" border="0" alt="">
-</td>
-</tr>
-<tr>
-<td align="left" valign="top" width="100%">
-<span class="indiciatext">Legal Notice: Entire contents trademarked (® or TM) and copyrighted (©) 1986-2019 by Things From Another World, Inc. and respective copyright and trademark holders. All rights reserved.
-Page rendered at 2019-05-18 06:04:35 in 0.148 seconds.
-</span><br><br>
-</td>
-</tr>
-</tbody></table>
-</td>
-<td width="15">
-<img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw/common/00.gif" width="15" height="15" border="0" alt="">
-</td>
-</tr>
-</tbody></table>
-<div id="footer-mobile-container" class="container-fluid">
-<div class="footer-banners-container">
-<a class="footer-banners-link" rel="nofollow" href="/Search/_results_invstatus_search=preorder/_results_limit_search=30/_results_order_search=title/_results_ordercombo_search=date_asc/_results_prod_type_search=Comics/_results_sstring_search=detective%2Bcomics%2B1000"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/19_01-DetectiveComics1000_170x170.jpg" alt="Detective Comics 1000"></a>
-<a class="footer-banners-link" rel="nofollow" href="/Search/_results_limit_search=30/_results_order_search=title/_results_ordercombo_search=date_desc/_results_sstring_search=hellboy/"><img src="//d2lzb5v10mb0lj.cloudfront.net/tfaw2007/nav/170/18_01-Hellboy_170x170-1.jpg" alt="Hellboy"></a>
-</div>
-<div class="mt-1 row">
-<div class="col-12">
-<p>
-What do you think about our site? We welcome your <a href="/Help/Contact-Form?messageabout=feedback">feedback</a>!
-</p>
-<div>
-<a class="boldlink footer-mobile-container-nav-link" href="/Help">Help</a>
-<a class="boldlink footer-mobile-container-nav-link" href="/Help/About-Us">About Us</a>
-<a class="boldlink footer-mobile-container-nav-link" href="/Help/Contact-Form">Contact Us</a>
-<a class="boldlink footer-mobile-container-nav-link" href="https://messenger.providesupport.com/messenger/tfaw.html">Live Support Chat</a>
-<a class="boldlink footer-mobile-container-nav-link" href="/Newsletters">Newsletter Signup</a>
-<a class="boldlink footer-mobile-container-nav-link" href="/Store-locations">Store Locations</a>
-<a class="boldlink footer-mobile-container-nav-link" href="/Help/Affiliate-Information">Affiliate Program</a>
-<a class="boldlink footer-mobile-container-nav-link" href="/Jobs">Jobs</a>
-<a class="boldlink footer-mobile-container-nav-link" href="/Help/Privacy-Policy">Privacy Policy</a>
-<a class="boldlink footer-mobile-container-nav-link" href="/Site-Map">Site Map</a>
-</div>
-<div class="py-2">
-<a class="boldlink footer-mobile-container-nav-link toggle-desktop-force" data-mode="enable" href="#">Use Desktop Site</a>
-</div>
-<div class="footer-row">
-<div class="footer-inline-element">
-<a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--18105.html" target="bizrate.com"><img src="https://medals.bizrate.com/medals/dynamic/18105_medal.gif" alt="BizRate Customer Certified (GOLD) Site" width="125" height="73" align="top" border="0" target="_blank"></a>
-</div>
-<div class="footer-inline-element">
-<a target="_blank" href="https://www.comodo.com/">
-<img src="https://d2lzb5v10mb0lj.cloudfront.net/tfaw2007/common/comodo_secure_seal_113x59_transp.png">
-</a>
-</div>
-</div>
-<div class="footer-row">
-<span class="indiciatext">
-Legal Notice: Entire contents trademarked (® or TM) and copyrighted (©) 1986-2019 by Things From Another World, Inc. and respective copyright and trademark holders. All rights reserved.
-</span>
-</div>
-</div>
-</div>
-</div>
-<script type="text/javascript">jQuery(document).ready(function(){jQuery('a.first-look-trigger').click(function(){jQuery('#first-look-link-container a:first').trigger('click');return false;});jQuery('a[data-lightbox-url]').each(function(){jQuery(this).attr('href',this.getAttribute('data-lightbox-url'));});function mobile_width_helper(){var _width=400;if(jQuery(document).width()<350){_width=250;}return _width;}jQuery('a.image-fancybox').fancybox({type:'image',titlePosition:'inside',autoScale:true,autoDimensions:false,width:mobile_width_helper(),padding:0,margin:0,onStart:function(obj,index){var elem=obj[index];var fullsize_link=elem.getAttribute('data-fullsize');if(fullsize_link){$(this).title='<div class="first-look-title">'+$(this).title+' <span class="view-fullsize"><a href="'+fullsize_link+'">View Fullsize</a></span></div>';}}});jQuery('.message-close-button').on('click',function(){var msg_id=jQuery(this).attr('data-message-id');jQuery('#message-'+msg_id).hide();jQuery.ajax({url:'/ajax.php',data:{dismiss_message:msg_id},method:'GET'});});});</script>
-<script src="//www.google-analytics.com/cx/api.js?experiment=3YitZer7QuqqbqS6wdhGWw"></script>
-<script>jQuery(document).ready(function(){});</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"6d9017bcfb","applicationID":"2752681","transactionName":"b1ZRbUpQVxUCUEZfDVYccExLRVYLTAJRG1NKbEdJVB9JDhM=","queueTime":0,"applicationTime":150,"atts":"QxFSGwJKRBs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+    </noscript>
 
+
+<div class="getresponse-tracking-code-section" data-bind="scope: 'getresponse_tracking_code_section'">
+    <div id="customer-email-address" data-bind="attr: { 'customer-email': getResponseTrackingCode().customerEmail}"></div>
+</div>
+
+
+
+<div class="page-wrapper"><header class="page-header"><div class="panel wrapper">
+<div class="social-links">
+    <p>Follow us on:</p>
+    <ul class="social-links--list">
+        <li>
+            <a aria-label="Facebook" target="_blank" rel="noopener" class="icon icon-facebook" href="https://www.facebook.com/thingsfromanotherworld"></a>
+        </li>
+        <li>
+            <a aria-label="Twitter" target="_blank" rel="noopener" class="icon icon-twitter" href="https://twitter.com/TFAW"></a>
+        </li>
+        <li>
+            <a aria-label="Instagram" target="_blank" rel="noopener" class="icon icon-instagram" href="https://www.instagram.com/tfaw/"></a>
+        </li>
+    </ul>
+</div>
+<div class="panel header"><a class="action skip contentarea" href="#contentarea"><span>Skip to Content</span></a>
+<ul class="header links">
+    <li class="link">
+        <a href="https://www.tfaw.com/about-us/">About us</a>
+    </li>
+    <li class="link">
+        <a href="https://www.tfaw.com/contact/">Contact us</a>
+    </li>
+    <li class="link">
+        <a href="https://www.tfaw.com/help/">Help</a>
+    </li>
+</ul>
+</div></div><div class="header-wrapper"><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
+<a class="logo" href="https://www.tfaw.com/" title="Things From Another World">
+    <img src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/images/logo.png" title="Things From Another World" alt="Things From Another World" width="303" height="80">
+</a>
+<div class="block block-search">
+    <div class="block block-title"><strong>Search</strong></div>
+    <div class="block block-content">
+        <form class="form minisearch" id="search_mini_form" action="https://www.tfaw.com/catalogsearch/result/" method="get">
+            <div class="field search">
+                <label class="label" for="search" data-role="minisearch-label">
+                    <span>Search</span>
+                </label>
+                <div class="control">
+                    <input id="search" data-mage-init="{&quot;quickSearch&quot;:{
+                                &quot;formSelector&quot;:&quot;#search_mini_form&quot;,
+                                &quot;url&quot;:&quot;https://www.tfaw.com/search/ajax/suggest/&quot;,
+                                &quot;destinationSelector&quot;:&quot;#search_autocomplete&quot;}
+                           }" type="text" name="q" value="" placeholder="Search..." class="input-text" maxlength="256" role="combobox" aria-expanded="false" aria-haspopup="false" aria-autocomplete="both" autocomplete="off">
+                    <div id="search_autocomplete" class="search-autocomplete"></div>
+                    
+    <div id="amasty-xsearch-preload" class="amasty-xsearch-preload" data-amsearch-js="preload">
+            <div class="amsearch-item-container">
+        <div class="amasty-xsearch-block-header">
+            Popular Searches        </div>
+
+                    <div class="amsearch-item" data-search-block-type="popular_searches">
+                <a href="https://www.tfaw.com/catalogsearch/result/?q=transformers" title="transformers" class="item-name">
+                    transformers                </a>
+                                    <span class="amasty-xsearch-num-results">(13)</span>
+                                                                                </div>
+                    <div class="amsearch-item" data-search-block-type="popular_searches">
+                <a href="https://www.tfaw.com/catalogsearch/result/?q=mike+mignola" title="mike mignola" class="item-name">
+                    mike mignola                </a>
+                                    <span class="amasty-xsearch-num-results">(132)</span>
+                                                                                </div>
+                    <div class="amsearch-item" data-search-block-type="popular_searches">
+                <a href="https://www.tfaw.com/catalogsearch/result/?q=star+wars" title="star wars" class="item-name">
+                    star wars                </a>
+                                    <span class="amasty-xsearch-num-results">(4)</span>
+                                                                                </div>
+                    <div class="amsearch-item" data-search-block-type="popular_searches">
+                <a href="https://www.tfaw.com/catalogsearch/result/?q=Spawn+302" title="Spawn 302" class="item-name">
+                    Spawn 302                </a>
+                                    <span class="amasty-xsearch-num-results">(6)</span>
+                                                                                </div>
+            </div>
+    <div class="amsearch-item-container">
+        <div class="amasty-xsearch-block-header">
+            Recent Searches        </div>
+
+                    <div class="amsearch-item" data-search-block-type="recent_searches">
+                <a href="https://www.tfaw.com/catalogsearch/result/?q=star+wars" title="star wars" class="item-name">
+                    star wars                </a>
+                                    <span class="amasty-xsearch-num-results">(4)</span>
+                                                                                </div>
+                    <div class="amsearch-item" data-search-block-type="recent_searches">
+                <a href="https://www.tfaw.com/catalogsearch/result/?q=" title="" class="item-name">
+                                    </a>
+                                    <span class="amasty-xsearch-num-results">(3)</span>
+                                                                                </div>
+                    <div class="amsearch-item" data-search-block-type="recent_searches">
+                <a href="https://www.tfaw.com/catalogsearch/result/?q=leviathan" title="leviathan" class="item-name">
+                    leviathan                </a>
+                                    <span class="amasty-xsearch-num-results">(11)</span>
+                                                                                </div>
+                    <div class="amsearch-item" data-search-block-type="recent_searches">
+                <a href="https://www.tfaw.com/catalogsearch/result/?q=watchmen" title="watchmen" class="item-name">
+                    watchmen                </a>
+                                    <span class="amasty-xsearch-num-results">(16)</span>
+                                                                                </div>
+            </div>
+    </div>
+                </div>
+            </div>
+            <div class="actions">
+                                <div id="mini-search-button-sr-label" class="sr-only">Search</div>
+                <button aria-labelledby="mini-search-button-sr-label" type="submit" title="Search" style="display:none;" class="action search">
+                    <span>Search</span>
+                </button>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="content--background">&nbsp;</div><div class="header-cart-wrapper"><ul class="header links"><ul class="header links">
+    <li class="customer-link" data-label="or">
+        <div id="customer-account-links-sr-label" class="sr-only">Customer Account</div>
+        <a aria-labelledby="customer-account-links-sr-label" title="Customer Account" class="customer-trigger" href="https://www.tfaw.com/customer/account/login/">
+            <span>Login/Register</span>
+        </a>
+    </li>
+</ul>
+<div class="customer-wrapper" data-block="customer">
+            <div class="block-customer" style="display: none" data-mage-init="{&quot;dropdownDialog&quot;:{
+                &quot;appendTo&quot;:&quot;.customer-wrapper&quot;,
+                &quot;triggerTarget&quot;:&quot;.customer-trigger&quot;,
+                &quot;timeout&quot;: &quot;2000&quot;,
+                &quot;closeOnMouseLeave&quot;: false,
+                &quot;closeOnEscape&quot;: true,
+                &quot;triggerClass&quot;:&quot;active&quot;,
+                &quot;parentClass&quot;:&quot;active&quot;,
+                &quot;buttons&quot;:[]}}">
+            <div>
+                <li><a href="https://www.tfaw.com/customer/account/">My Account</a></li><li class="link wishlist" data-bind="scope: 'wishlist'">
+    <a href="https://www.tfaw.com/wishlist/">My Wish List        <!-- ko if: wishlist().counter -->
+        <span data-bind="text: wishlist().counter" class="counter qty"></span>
+        <!-- /ko -->
+    </a>
+</li>
+
+<li class="authorization-link" data-label="or">
+    <a href="https://www.tfaw.com/customer/account/login/referer/aHR0cHM6Ly93d3cudGZhdy5jb20vcHJpdmFjeS1wb2xpY3k%2C/">
+        Sign In    </a>
+</li>
+            </div>
+        </div>
+    </div>
+
+
+</ul>
+<div data-block="minicart" class="minicart-wrapper">
+    <a class="action showcart" href="https://www.tfaw.com/checkout/cart/" data-bind="scope: 'minicart_content'">
+        <span class="text">My Cart</span>
+        <span class="counter qty" data-bind="blockLoader: isLoading">
+            <!-- Start rewrite -->
+            <span class="counter-label">
+                <!-- ko if: getCartParam('summary_count') === 1 -->
+                    <!-- ko text: 'item (' + getCartParam('summary_count') + ')' --><!-- /ko -->
+                <!-- /ko -->
+                <!-- ko if: getCartParam('summary_count') > 1 || getCartParam('summary_count') === 0-->
+                    <!-- ko text: 'items (' + getCartParam('summary_count') + ')' --><!-- /ko -->
+                <!-- /ko -->
+            </span>
+            <!-- End rewrite -->
+        </span>
+    </a>
+            <div class="block block-minicart" data-role="dropdownDialog" data-mage-init="{&quot;dropdownDialog&quot;:{
+                &quot;appendTo&quot;:&quot;[data-block=minicart]&quot;,
+                &quot;triggerTarget&quot;:&quot;.showcart&quot;,
+                &quot;timeout&quot;: &quot;2000&quot;,
+                &quot;closeOnMouseLeave&quot;: false,
+                &quot;closeOnEscape&quot;: true,
+                &quot;triggerClass&quot;:&quot;active&quot;,
+                &quot;parentClass&quot;:&quot;active&quot;,
+                &quot;buttons&quot;:[]}}">
+            <div id="minicart-content-wrapper" data-bind="scope: 'minicart_content'">
+                <!-- ko template: getTemplate() --><!-- /ko -->
+            </div>
+                    </div>
+        
+    
+</div>
+
+
+</div></div></div></header>    <div class="sections nav-sections">
+                <div class="section-items nav-sections-items" data-mage-init="{&quot;tabs&quot;:{&quot;active&quot;: 0, &quot;openedState&quot;:&quot;active&quot;}}">
+                                            <div class="section-item-title nav-sections-item-title" data-role="collapsible">
+                    <a class="nav-sections-item-switch" data-toggle="switch" href="#store.menu">Menu</a>
+                </div>
+                <div class="section-item-content nav-sections-item-content" id="store.menu" data-role="content">        <nav class="navigation">
+        <ul class="navigation__list" data-action="navigation" data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:true, &quot;expanded&quot;:true, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;,&quot;within&quot;:&quot;body&quot;}}}">
+                                            <li class="navigation__item navigation__item--parent parent level-top level0">
+                    <a href="https://www.tfaw.com/graphic-novels.html" class="navigation__link level-top" data-menu="menu-14352">
+    Graphic Novels</a>
+                            <ul class="navigation__inner-list navigation__inner-list--level1 submenu" data-menu="menu-14352">
+                                                            <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/graphic-novels/new-releases.html" class="navigation__inner-link" data-menu="menu-14355">
+    New Releases</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/graphic-novels/best-sellers.html" class="navigation__inner-link" data-menu="menu-14358">
+    Best Sellers</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/graphic-novels/pre-orders.html" class="navigation__inner-link" data-menu="menu-14361">
+    Pre-Orders</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/graphic-novels/essential-graphic-novels.html" class="navigation__inner-link" data-menu="menu-14364">
+    Essential</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/graphic-novels/genre.html" class="navigation__inner-link" data-menu="menu-14367">
+    Genre</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14367">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/genre/superhero.html" class="navigation__inner-link" data-menu="menu-14370">
+    Superhero</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/genre/manga.html" class="navigation__inner-link" data-menu="menu-14373">
+    Manga</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/genre/sci-fi.html" class="navigation__inner-link" data-menu="menu-14376">
+    Sci-Fi</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/genre/horror.html" class="navigation__inner-link" data-menu="menu-14379">
+    Horror</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/genre/fantasy.html" class="navigation__inner-link" data-menu="menu-14382">
+    Fantasy</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/genre/children-s.html" class="navigation__inner-link" data-menu="menu-14385">
+    Children's</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/genre/comedy.html" class="navigation__inner-link" data-menu="menu-14388">
+    Comedy</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/genre/non-fiction.html" class="navigation__inner-link" data-menu="menu-14391">
+    Non-Fiction</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/genre/other.html" class="navigation__inner-link" data-menu="menu-14394">
+    Other</a>
+                            </li>
+            </ul>
+            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/graphic-novels/publisher.html" class="navigation__inner-link" data-menu="menu-14397">
+    Publisher</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14397">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/archie.html" class="navigation__inner-link" data-menu="menu-14400">
+    Archie</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/boom-studios.html" class="navigation__inner-link" data-menu="menu-14403">
+    Boom! Studios</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/dark-horse.html" class="navigation__inner-link" data-menu="menu-14406">
+    Dark Horse</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/dc-comics.html" class="navigation__inner-link" data-menu="menu-14409">
+    DC Comics</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/dynamite.html" class="navigation__inner-link" data-menu="menu-14412">
+    Dynamite</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/idw-publishing.html" class="navigation__inner-link" data-menu="menu-14415">
+    IDW Publishing</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/image.html" class="navigation__inner-link" data-menu="menu-14418">
+    Image</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/marvel.html" class="navigation__inner-link" data-menu="menu-14421">
+    Marvel</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/oni-press.html" class="navigation__inner-link" data-menu="menu-14424">
+    Oni Press</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/titan-comics.html" class="navigation__inner-link" data-menu="menu-14427">
+    Titan Comics</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/valiant.html" class="navigation__inner-link" data-menu="menu-14430">
+    Valiant</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/viz-media.html" class="navigation__inner-link" data-menu="menu-14433">
+    Viz Media</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/graphic-novels/publisher/other.html" class="navigation__inner-link" data-menu="menu-14436">
+    OTHER</a>
+                            </li>
+            </ul>
+            </li>
+            </ul>
+                </li>
+                                            <li class="navigation__item navigation__item--parent parent level-top level0">
+                    <a href="https://www.tfaw.com/comics.html" class="navigation__link level-top" data-menu="menu-14439">
+    Comics</a>
+                            <ul class="navigation__inner-list navigation__inner-list--level1 submenu" data-menu="menu-14439">
+                                                            <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/comics/new-releases.html" class="navigation__inner-link" data-menu="menu-14442">
+    New Releases</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/comics/best-sellers.html" class="navigation__inner-link" data-menu="menu-14445">
+    Best Sellers</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/comics/pre-orders.html" class="navigation__inner-link" data-menu="menu-14448">
+    Pre-Orders</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/comics/variants.html" class="navigation__inner-link" data-menu="menu-14451">
+    Variants</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/comics/number-1s.html" class="navigation__inner-link" data-menu="menu-14454">
+    Number 1s</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/comics/genre.html" class="navigation__inner-link" data-menu="menu-14457">
+    Genre</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14457">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/genre/superhero.html" class="navigation__inner-link" data-menu="menu-14460">
+    Superhero</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/genre/sci-fi.html" class="navigation__inner-link" data-menu="menu-14463">
+    Sci-Fi</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/genre/horror.html" class="navigation__inner-link" data-menu="menu-14466">
+    Horror</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/genre/fantasy.html" class="navigation__inner-link" data-menu="menu-14469">
+    Fantasy</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/genre/children-s.html" class="navigation__inner-link" data-menu="menu-14472">
+    Children's</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/genre/non-fiction.html" class="navigation__inner-link" data-menu="menu-14475">
+    Non-Fiction</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/genre/comedy.html" class="navigation__inner-link" data-menu="menu-14478">
+    Comedy</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/genre/other.html" class="navigation__inner-link" data-menu="menu-14481">
+    Other</a>
+                            </li>
+            </ul>
+            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/comics/publisher.html" class="navigation__inner-link" data-menu="menu-14484">
+    Publisher</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14484">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/archie.html" class="navigation__inner-link" data-menu="menu-14487">
+    Archie</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/boom-studios.html" class="navigation__inner-link" data-menu="menu-14490">
+    Boom! Studios</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/dark-horse.html" class="navigation__inner-link" data-menu="menu-14493">
+    Dark Horse</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/dc-comics.html" class="navigation__inner-link" data-menu="menu-14496">
+    DC Comics</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/dynamite.html" class="navigation__inner-link" data-menu="menu-14499">
+    Dynamite</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/idw-publishing.html" class="navigation__inner-link" data-menu="menu-14502">
+    IDW Publishing</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/image.html" class="navigation__inner-link" data-menu="menu-14505">
+    Image</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/marvel.html" class="navigation__inner-link" data-menu="menu-14508">
+    Marvel</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/oni-press.html" class="navigation__inner-link" data-menu="menu-14511">
+    Oni Press</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/titan-comics.html" class="navigation__inner-link" data-menu="menu-14514">
+    Titan Comics</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/valiant.html" class="navigation__inner-link" data-menu="menu-14517">
+    Valiant</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/comics/publisher/other.html" class="navigation__inner-link" data-menu="menu-14520">
+    Other</a>
+                            </li>
+            </ul>
+            </li>
+            </ul>
+                </li>
+                                            <li class="navigation__item navigation__item--parent parent level-top level0">
+                    <a href="https://www.tfaw.com/statues.html" class="navigation__link level-top" data-menu="menu-14523">
+    Statues</a>
+                            <ul class="navigation__inner-list navigation__inner-list--level1 submenu" data-menu="menu-14523">
+                                                            <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/statues/new-releases.html" class="navigation__inner-link" data-menu="menu-14526">
+    New Releases</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/statues/best-sellers.html" class="navigation__inner-link" data-menu="menu-14529">
+    Best Sellers</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/statues/pre-orders.html" class="navigation__inner-link" data-menu="menu-14532">
+    Pre-Orders</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/statues/in-stock.html" class="navigation__inner-link" data-menu="menu-14535">
+    In-Stock</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/statues/brands.html" class="navigation__inner-link" data-menu="menu-14538">
+    Brands</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14538">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/statues/brands/banpresto.html" class="navigation__inner-link" data-menu="menu-14541">
+    Banpresto</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/statues/brands/beast-kingdom.html" class="navigation__inner-link" data-menu="menu-14544">
+    Beast Kingdom</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/statues/brands/dark-horse.html" class="navigation__inner-link" data-menu="menu-14547">
+    Dark Horse</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/statues/brands/dc-collectibles.html" class="navigation__inner-link" data-menu="menu-14550">
+    DC Collectibles</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/statues/brands/diamond-select.html" class="navigation__inner-link" data-menu="menu-14553">
+    Diamond Select</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/statues/brands/kotobukiya.html" class="navigation__inner-link" data-menu="menu-14556">
+    Kotobukiya</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/statues/brands/sideshow.html" class="navigation__inner-link" data-menu="menu-14559">
+    Sideshow</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/statues/brands/tamashii-nations.html" class="navigation__inner-link" data-menu="menu-14562">
+    Tamashii Nations</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/statues/brands/other.html" class="navigation__inner-link" data-menu="menu-14565">
+    Other</a>
+                            </li>
+            </ul>
+            </li>
+            </ul>
+                </li>
+                                            <li class="navigation__item navigation__item--parent parent level-top level0">
+                    <a href="https://www.tfaw.com/toys.html" class="navigation__link level-top" data-menu="menu-14568">
+    Toys</a>
+                            <ul class="navigation__inner-list navigation__inner-list--level1 submenu" data-menu="menu-14568">
+                                                            <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/toys/new-releases.html" class="navigation__inner-link" data-menu="menu-14571">
+    New Releases</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/toys/best-sellers.html" class="navigation__inner-link" data-menu="menu-14574">
+    Best Sellers</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/toys/pre-orders.html" class="navigation__inner-link" data-menu="menu-14577">
+    Pre-Orders</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/toys/in-stock.html" class="navigation__inner-link" data-menu="menu-14580">
+    In Stock</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/toys/brands.html" class="navigation__inner-link" data-menu="menu-14583">
+    Brands</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14583">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/toys/brands/diamond-select.html" class="navigation__inner-link" data-menu="menu-14586">
+    Diamond Select</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/toys/brands/figma.html" class="navigation__inner-link" data-menu="menu-14589">
+    Figma</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/toys/brands/funko.html" class="navigation__inner-link" data-menu="menu-14592">
+    Funko</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/toys/brands/hot-toys.html" class="navigation__inner-link" data-menu="menu-14595">
+    Hot Toys</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/toys/brands/neca.html" class="navigation__inner-link" data-menu="menu-14598">
+    NECA</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/toys/brands/nendoroid.html" class="navigation__inner-link" data-menu="menu-14601">
+    Nendoroid</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/toys/brands/mezco.html" class="navigation__inner-link" data-menu="menu-14604">
+    One:12 Collective</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/toys/brands/sh-figuarts.html" class="navigation__inner-link" data-menu="menu-14607">
+    SH Figuarts</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/toys/brands/other.html" class="navigation__inner-link" data-menu="menu-14610">
+    OTHER</a>
+                            </li>
+            </ul>
+            </li>
+            </ul>
+                </li>
+                                            <li class="navigation__item navigation__item--parent parent level-top level0">
+                    <a href="https://www.tfaw.com/more-products.html" class="navigation__link level-top" data-menu="menu-14613">
+    More products</a>
+                            <ul class="navigation__inner-list navigation__inner-list--level1 submenu" data-menu="menu-14613">
+                                                            <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/more-products/apparel.html" class="navigation__inner-link" data-menu="menu-14616">
+    Apparel</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14616">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/apparel/shirts.html" class="navigation__inner-link" data-menu="menu-14619">
+    Shirts</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/apparel/hats.html" class="navigation__inner-link" data-menu="menu-14622">
+    Hats</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/apparel/pins.html" class="navigation__inner-link" data-menu="menu-14625">
+    Pins</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/apparel/other.html" class="navigation__inner-link" data-menu="menu-14628">
+    OTHER</a>
+                            </li>
+            </ul>
+            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/more-products/games.html" class="navigation__inner-link" data-menu="menu-14631">
+    Games</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14631">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/games/board-games.html" class="navigation__inner-link" data-menu="menu-14634">
+    Board Games</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/games/cards.html" class="navigation__inner-link" data-menu="menu-14637">
+    Card Games</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/games/other.html" class="navigation__inner-link" data-menu="menu-14640">
+    OTHER</a>
+                            </li>
+            </ul>
+            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/more-products/books.html" class="navigation__inner-link" data-menu="menu-14643">
+    Books</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14643">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/books/fiction.html" class="navigation__inner-link" data-menu="menu-14646">
+    Art Books</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/books/children-s.html" class="navigation__inner-link" data-menu="menu-14649">
+    Children's</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/books/journals.html" class="navigation__inner-link" data-menu="menu-14652">
+    Journals</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/books/other.html" class="navigation__inner-link" data-menu="menu-14655">
+    Other</a>
+                            </li>
+            </ul>
+            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/more-products/dining.html" class="navigation__inner-link" data-menu="menu-14658">
+    Dining</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14658">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/dining/dishware.html" class="navigation__inner-link" data-menu="menu-14661">
+    Dishware</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/dining/drinkware.html" class="navigation__inner-link" data-menu="menu-14664">
+    Drinkware</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/dining/lunchboxes.html" class="navigation__inner-link" data-menu="menu-14667">
+    Lunchboxes</a>
+                            </li>
+            </ul>
+            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1 navigation__inner-item--parent">
+                <a href="https://www.tfaw.com/more-products/models.html" class="navigation__inner-link" data-menu="menu-14670">
+    Models</a>
+                        <ul class="navigation__inner-list navigation__inner-list--level2 submenu" data-menu="menu-14670">
+                                                            <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/models/gundam.html" class="navigation__inner-link" data-menu="menu-14673">
+    Gundam</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/models/star-wars.html" class="navigation__inner-link" data-menu="menu-14676">
+    Star Wars</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level2">
+                <a href="https://www.tfaw.com/more-products/models/other.html" class="navigation__inner-link" data-menu="menu-14679">
+    OTHER</a>
+                            </li>
+            </ul>
+            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/more-products/supplies.html" class="navigation__inner-link" data-menu="menu-14682">
+    Supplies</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/more-products/merchandise.html" class="navigation__inner-link" data-menu="menu-14685">
+    Merchandise</a>
+                            </li>
+            </ul>
+                </li>
+                                            <li class="navigation__item navigation__item--parent parent level-top level0">
+                    <a href="https://www.tfaw.com/interests.html" class="navigation__link level-top" data-menu="menu-14688">
+    Interests</a>
+                            <ul class="navigation__inner-list navigation__inner-list--level1 submenu" data-menu="menu-14688">
+                                                            <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/aliens.html" class="navigation__inner-link" data-menu="menu-14691">
+    Aliens</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/avengers.html" class="navigation__inner-link" data-menu="menu-14694">
+    Avengers</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/batman.html" class="navigation__inner-link" data-menu="menu-14697">
+    Batman</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/berserk.html" class="navigation__inner-link" data-menu="menu-14700">
+    Berserk</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/black-hammer.html" class="navigation__inner-link" data-menu="menu-14703">
+    Black Hammer</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/black-panther.html" class="navigation__inner-link" data-menu="menu-14706">
+    Black Panther</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/captain-america.html" class="navigation__inner-link" data-menu="menu-14709">
+    Captain America</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/captain-marvel.html" class="navigation__inner-link" data-menu="menu-14712">
+    Captain Marvel</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/doctor-who.html" class="navigation__inner-link" data-menu="menu-14715">
+    Doctor Who</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/fantastic-four.html" class="navigation__inner-link" data-menu="menu-14718">
+    Fantastic Four</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/game-of-thrones.html" class="navigation__inner-link" data-menu="menu-14721">
+    Game of Thrones</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/hellboy.html" class="navigation__inner-link" data-menu="menu-14724">
+    Hellboy</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/hulk.html" class="navigation__inner-link" data-menu="menu-14727">
+    Hulk</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/joker.html" class="navigation__inner-link" data-menu="menu-14730">
+    Joker</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/justice-league.html" class="navigation__inner-link" data-menu="menu-14733">
+    Justice League</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/pokemon.html" class="navigation__inner-link" data-menu="menu-14736">
+    Pokemon</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/spider-man.html" class="navigation__inner-link" data-menu="menu-14739">
+    Spider-Man</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/superman.html" class="navigation__inner-link" data-menu="menu-14742">
+    Superman</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/thor.html" class="navigation__inner-link" data-menu="menu-14745">
+    Thor</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/umbrella-academy.html" class="navigation__inner-link" data-menu="menu-14748">
+    Umbrella Academy</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/venom.html" class="navigation__inner-link" data-menu="menu-14751">
+    Venom</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/wolverine.html" class="navigation__inner-link" data-menu="menu-14754">
+    Wolverine</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/wonder-woman.html" class="navigation__inner-link" data-menu="menu-14757">
+    Wonder Woman</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/interests/x-men.html" class="navigation__inner-link" data-menu="menu-14760">
+    X-Men</a>
+                            </li>
+            </ul>
+                </li>
+                                            <li class="navigation__item navigation__item--parent parent level-top level0">
+                    <a href="https://www.tfaw.com/tfaw-whats-new.html" class="navigation__link level-top" data-menu="menu-14763">
+    What's New</a>
+                            <ul class="navigation__inner-list navigation__inner-list--level1 submenu" data-menu="menu-14763">
+                                                            <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/tfaw-whats-new/new-this-week.html" class="navigation__inner-link" data-menu="menu-14766">
+    New This Week</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/tfaw-whats-new/new-last-week.html" class="navigation__inner-link" data-menu="menu-14769">
+    New Last Week</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/tfaw-whats-new/coming-next-week.html" class="navigation__inner-link" data-menu="menu-14772">
+    Coming Next Week</a>
+                            </li>
+                                <li class="navigation__inner-item navigation__inner-item--level1">
+                <a href="https://www.tfaw.com/tfaw-whats-new/this-month-s-catalog.html" class="navigation__inner-link" data-menu="menu-14775">
+    Current Catalog</a>
+                            </li>
+            </ul>
+                </li>
+                    </ul>
+        <div class="navigation__mobile-bg"></div>
+    </nav>
+</div>
+                                            <div class="section-item-title nav-sections-item-title" data-role="collapsible">
+                    <a class="nav-sections-item-switch" data-toggle="switch" href="#store-links-mobile">Account</a>
+                </div>
+                <div class="section-item-content nav-sections-item-content" id="store-links-mobile" data-role="content">    <ul class="nav items">
+        <li class="nav item">
+            <a href="https://www.tfaw.com/customer/account/login/">Login</a>
+        </li>
+        <li class="nav item">
+            <a href="https://www.tfaw.com/customer/account/create/">Register</a>
+        </li>
+    </ul>
+</div>
+                                    </div>
+    </div>
+<div class="cms-header">
+    <div class="image-overlay"><img src="https://www.tfaw.com/media//cms/hero\TFAW_aboutus_imagehero.png" alt="Page:Privacy Policy"></div>
+    <div class="cms-header-content">
+        <h1 class="cms-header-title">Privacy Policy</h1>
+        <p class="cms-header-subtitle">Sint quo necessitatibus, quia rutrum! Augue</p>
+    </div>
+</div>
+<div class="breadcrumbs">
+    <ul class="items">
+                    <li class="item home">
+                            <a href="https://www.tfaw.com/" title="Go to Home Page">Home</a>
+                        </li>
+                    <li class="item cms_page">
+                            <strong>Privacy Policy</strong>
+                        </li>
+            </ul>
+</div>
+<main id="maincontent" class="page-main"><a id="contentarea" tabindex="-1"></a>
+<div class="page messages"><div data-placeholder="messages"></div>
+<div data-bind="scope: 'messages'">
+    <!-- ko if: cookieMessages && cookieMessages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: cookieMessages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+    <!-- ko if: messages().messages && messages().messages.length > 0 -->
+    <div role="alert" data-bind="foreach: { data: messages().messages, as: 'message' }" class="messages">
+        <div data-bind="attr: {
+            class: 'message-' + message.type + ' ' + message.type + ' message',
+            'data-ui-id': 'message-' + message.type
+        }">
+            <div data-bind="html: message.text"></div>
+        </div>
+    </div>
+    <!-- /ko -->
+</div>
+
+</div><div class="columns"><div class="column main"><input name="form_key" type="hidden" value="UTWuAUmpwk3qDPNf"><div id="authenticationPopup" data-bind="scope:'authenticationPopup'" style="display: none;">
+    
+    <!-- ko template: getTemplate() --><!-- /ko -->
+    
+</div>
+
+
+
+
+
+<style>
+    .grwf2-wrapper {
+        text-align:center;
+        margin:auto;
+    }
+</style>
+<div data-mage-init="{&quot;feedReport&quot;:[]}"></div><div class="privacy-policy cms-content">
+<h2 class="cms-content-title">Privacy Policy</h2>
+<p>Please keep in mind that if you're using this site, you are agreeing to the Privacy Policy of Things From Another World, Inc. (TFAW.com).&nbsp;</p>
+<p>This Privacy Notice describes the types of personal information we collect about our customers on our Website, in our stores, and through interest-based online advertising. The Privacy Notice also describes how we may use that information, how we protect that information, how we share that information, your choices and options regarding the information, and how you can contact us regarding our privacy practices.</p>
+<h2 id="privacy-policy-title-1">Information we Collect</h2>
+<p>We may collect certain personal information from you in connection with your activities at TFAW.com, such as when you shop on our website or in our stores. This information may include:</p>
+<p>Payment card or other financial account information;<br>contact and billing information (including name, e-mail address, postal address, and phone number);<br>date of birth;<br>geolocation data; and<br>other personal information you provide to us on our Website, in our stores, or when you interact with us in other ways, both online and offline.<br>Additionally, we or companies acting on our behalf may collect certain computer and browser information through automated technologies such as cookies and web beacons when you visit our Website. A "cookie" is a file that a website sends to a visitor's computer or other Internet-connected device to identify the browser or to store information or settings in the browser. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, links web pages to web servers and their cookies and may be used to transmit information collected through cookies back to a web server.</p>
+<p>The information collected using these tools may include your IP address, browser characteristics, operating system, the address of the web page that referred you to our Website, dates and times of Website visits, the language your system uses, and the country and time zone in which your device is located. These automated technologies also permit the collection of "clickstream data," which may include a log of content you access while browsing a website.</p>
+<p>Companies acting on our behalf may combine the information collected from your visit to our Website with other information they have collected previously. Your web browser may tell you how to be notified when you receive certain types of cookies and how to restrict, reject or disable certain cookies.</p>
+<h2 id="privacy-policy-title-2">Interest-Based online Advertising and Google Analytics</h2>
+<p>This section of our Privacy Notice provides details about interest-based online advertising (also called "targeted advertising", "remarketing", or "behavioral advertising"), Google Analytics, and your choices with respect to this type of advertising.</p>
+<p>We use Google Analytics' 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.</p>
+<p>You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by visiting the consumer opt-out page for the Self-Regulatory Principles for Online Behavioral Advertising here and edit or opt-out your Google Display Network ads preferences at https://adssettings.google.com/authenticated. Because those opt-out and preference control pages are specific to the individual browser used to visit it, and because those pages are not operated by TFAW.com, we are unable to perform the opt-outs on your behalf.</p>
+<h2 id="privacy-policy-title-3">How we Use the Personal Information we Collect</h2>
+<p>When we collect information from you, we may use it for a number of purposes, including to:</p>
+<ul>
+<li class="top-spacing">Process, manage, complete and account for transactions, including purchases and refunds;</li>
+<li>Provide our products and services to you and fulfill your gift card orders;</li>
+<li>Identify your product and service preferences;</li>
+<li>Improve merchandise selections and customer service;</li>
+<li>Invite you to participate in customer research;</li>
+<li>Notify you about new products, services, features, promotions, events and special offerings relating to TFAW.com we think you will find</li>
+valuable;
+<li>Provide customer support and respond to your requests, comments and inquiries;</li>
+<li>Create and manage online accounts you establish;</li>
+<li>Administer your participation in promotions, contests and sweepstakes;</li>
+<li>Verify your identity in certain instances (such as when you return merchandise or request a refund);</li>
+<li>Protect against, identify and help prevent fraud, unauthorized activity, claims and other liabilities and minimize credit risk;</li>
+<li>Comply with and enforce applicable legal requirements, industry standards, our policies, and our Terms of Use; and performing market</li>
+research, and administering our Website.
+<li>We also may use the information in other ways for which we provide specific notice at the time of collection.</li>
+</ul>
+<p>We also may use the information in other ways for which we provide specific notice at the time of collection.</p>
+<p class="top-spacing">In addition, we use information collected online through automated means for purposes such as customizing our users' visits to TFAW.com, delivering content tailored to our users' interests and the manner in which our users browse our Website, measuring and managing the advertising effectiveness of our online and offline advertisements and events, and managing our business. We also use this information to help diagnose technical and service problems, administer our Website, identify users of our Website, and gather demographic information about our users. We use clickstream data to determine how much time users spend on web pages of our websites, how users navigate through our websites, and how we may tailor our websites to better meet the needs of our users. In order for us to maintain the accuracy of your personal information and improve our communication with you, we may also supplement the information we collect with other public demographic information.</p>
+<h2 id="privacy-policy-title-4">Links/Co-Branded Sites</h2>
+<p>TFAW.com has established relationships with advertisers and reputable business partners that allow visitors to our Site to link directly to sites operated by these partners. Some of these sites may be "co-branded" with a TFAW.com logo; however, they are not operated or maintained by TFAW.com. These sites may collect personal information from you. This Privacy Policy will apply to any personal information we obtain in this manner from our partners.</p>
+<p>TFAW.com chooses its advertisers and business partners carefully. However, TFAW.com is not responsible for the content or practices of Web sites operated by third parties that are linked to our Site. These links are meant for the user's convenience only. Links to third-party sites do not constitute sponsorship, endorsement, or approval by TFAW.com of the content, policies, or practices of such third-party sites. We are not responsible for any information these sites may obtain and do not oversee their policies or practices in collecting personal information. Therefore, once you have left this Site via such a link, you should check the applicable privacy policy of the third-party site.</p>
+<p>This Site may also be linked to Web sites operated by companies affiliated with TFAW.com. TFAW.com may share information collected by our affiliated companies, however this Privacy Policy will apply to any personal information we receive in this manner. Visitors to our affiliated company's sites should still refer to their separate privacy policies and practices when providing any personally identifiable information.</p>
+<h2 id="privacy-policy-title-6">Reviewing and Making Changes to Personally Identifiable Information</h2>
+<p>Visitors may review, change, or delete personal information from our records at any time. If you would like to review, change, or delete your personal information, please contact us at "privacy1 at tfaw dot com" or write us at Things From Another World, Attn: Privacy Info, 10956 SE Main St, Milwaukie, OR 97222. If you have requested the deletion of your information, we will immediately delete your information from our database and refrain from collecting any other personally identifiable information. However, there may be residual information that will remain within our databases that may or may not contain personally identifiable information for purposes of identifying purchases made through our Website. This residual information will not be given to any other third-party or used for any commercial purpose.</p>
+<h2 id="privacy-policy-title-7">Security and Integrity of Personal Information</h2>
+<p>TFAW.com has established and maintains reasonable procedures to protect the confidentiality, security, and integrity of personal information collected by this Site, in compliance with PCI DSS requirements.</p>
+<h2 id="privacy-policy-title-8">Collection and use os Personally Identifiable Information from Children Under 13</h2>
+<p>We do not seek nor will we knowingly collect personal information from anyone under the age of 13.</p>
+<h2 id="privacy-policy-title-9">Privacy Policy Changes</h2>
+<p>TFAW.com reviews its privacy policy periodically, and it may be subject to change.</p>
+<p>Last Updated March 14th, 2018</p>
+</div></div><div class="sidebar sidebar-main"><style>
+    .grwf2-wrapper {
+        text-align:center;
+        margin:auto;
+    }
+</style>
+<div class="block block-collapsible-nav">
+<div class="title block-collapsible-nav-title" data-mage-init="{&quot;toggleAdvanced&quot;: {&quot;toggleContainers&quot;: &quot;#block-collapsible-nav&quot;, &quot;selectorsToggleClass&quot;: &quot;active&quot;}}"></div>
+<div id="block-collapsible-nav" class="content block-collapsible-nav-content">
+<ul class="nav-items cms-left-menu" data-mage-init="{&quot;cmsMenu&quot;:{}}">
+<li class="nav item"><a href="https://www.tfaw.com/privacy-policy">Privacy Policy</a></li>
+<li class="nav item"><a href="https://www.tfaw.com/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li class="nav item"><a href="https://www.tfaw.com/affiliate-program">Affiliate Program</a></li>
+<li class="nav item"><a href="https://www.tfaw.com/help/gifts-and-gifting#gift-certificates">Gift Certificates</a></li>
+<li class="nav item"><a href="https://www.tfaw.com/contact">Contact Us</a></li>
+<li class="nav item"><a href="https://www.tfaw.com/help">Help</a></li>
+</ul>
+</div>
+</div></div><div class="sidebar sidebar-additional"><style>
+    .grwf2-wrapper {
+        text-align:center;
+        margin:auto;
+    }
+</style>
+</div></div></main><div class="page-bottom"><div class="content"><style>
+    .grwf2-wrapper {
+        text-align:center;
+        margin:auto;
+    }
+</style>
+</div></div><footer class="page-footer"><div class="footer-logo">
+    <a href="/">
+        <img src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/images/footer/logo.png" alt="Things From Another World">
+    </a>
+    
+<div class="social-links">
+    <p>Follow us on:</p>
+    <ul class="social-links--list">
+        <li>
+            <a aria-label="Facebook" target="_blank" rel="noopener" class="icon icon-facebook" href="https://www.facebook.com/thingsfromanotherworld"></a>
+        </li>
+        <li>
+            <a aria-label="Twitter" target="_blank" rel="noopener" class="icon icon-twitter" href="https://twitter.com/TFAW"></a>
+        </li>
+        <li>
+            <a aria-label="Instagram" target="_blank" rel="noopener" class="icon icon-instagram" href="https://www.instagram.com/tfaw/"></a>
+        </li>
+    </ul>
+</div>
+</div>
+<div class="footer content"><div class="footer-inner"><nav class="footer-menu footer-item icons" data-action="navigation">
+    <ul>
+        <li class="footer-menu__item">
+	   <i class="icon icon-phone icon--circle"></i>
+            <a href="tel:800-862-0052">(800) 862-0052</a>
+        </li>
+        <li class="footer-menu__item">
+	   <i class="icon icon-envelope icon--circle"></i>	
+            <a href="mailto:service@tfaw.com">service@tfaw.com</a>
+        </li>
+        <li class="footer-menu__item">
+	   <i class="icon icon-marker icon--circle"></i>
+            <p>Things From Another World, LLC<br>10956 SE Main St.<br>Milwaukie, OR 97222</p>
+        </li>
+    </ul>
+</nav><nav class="footer-menu footer-item help" data-action="navigation">
+<h3 class="footer-menu-title"><a style="color: #ffffff;" href="https://www.tfaw.com/help/">Help</a></h3>
+<a class="footer-menu-link" href="https://www.tfaw.com/help/">Help</a>
+<ul>
+<li class="footer-menu__item"><a href="https://www.tfaw.com/store-locator/">Store Locator</a></li>
+<li class="footer-menu__item"><a href="https://www.tfaw.com/privacy-policy/">Privacy Policy</a></li>
+<li class="footer-menu__item"><a href="https://www.tfaw.com/about-us/">About</a></li>
+<li class="footer-menu__item"><a href="https://www.tfaw.com/contact/">Contact Us</a></li>
+</ul>
+</nav><nav class="footer-menu footer-item other-links" data-action="navigation">
+<h3 class="footer-menu-title"><a style="color: #ffffff;" href="https://www.tfaw.com/help/">Other Links</a></h3>
+<a class="footer-menu-link" href="https://www.tfaw.com/help/">Other links</a>
+<ul>
+<li class="footer-menu__item"><a href="https://www.tfaw.com/affiliate-program/">Affiliate Program</a></li>
+<li class="footer-menu__item">    <a id="gr_subscribe_link" href="#" data-mage-init="{&quot;TFAW_Newsletter/js/clear-gr-cookie&quot;: {}}">Newsletter</a>
+        
+</li>
+<li class="footer-menu__item"><a href="https://www.tfaw.com/careers/">Careers</a></li>
+<li class="footer-menu__item"><a href="https://www.tfaw.com/terms-and-conditions/">Terms &amp; Conditions</a></li>
+</ul>
+</nav></div></div><style>
+    .grwf2-wrapper {
+        text-align:center;
+        margin:auto;
+    }
+</style>
+<small class="copyright">
+    <span>©2019 by Things From Another World</span>
+</small>
+</footer>
+
+
+
+        <div id="m-cookienotice" class="v-bar v-bottom" style="box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.47);display:none;text-align:left;
+             background-color:#3C596C;color:#FFFFFF;
+         border:0px;;">
+        <div class="m-message title" style="font-weight:bold;width:93%;font-size:14px;color:#FFFFFF;font-family:Open+Sans">
+            <span class="titlecookie" style="border-bottom: 2px solid #CA382E;">
+            Cookie Notice                </span>
+        </div>
+        <div id="message-custom-css" class="m-message custom-css" style="width:93%;font-size:14px;font-family:'Open Sans'">
+            This website uses cookies so you can place orders and we can provide the most secure and effective website possible. By using tfaw.com you accept our use of cookies.        </div>
+        <div id="action-custom-css" class="m-actions custom-css">
+            <a href="javascript:cookieNoticeAccept();" class="m-button m-accept" style="background-color:#CA382E;color:#FFFFFF">
+                Accept            </a>
+            <a href="javascript:cookieClose();" class="m-button m-decline" style="background-color:#CA382E;color:#FFFFFF">
+                Close            </a>
+            <a href="/privacy-policy" target="_blank" class="m-button" style="background-color:#137AC6;color:#FFFFFF">
+                Privacy Policy            </a>
+        </div>
+    </div>
+    <div id="v-badge" class="v-badge" onclick="showDiv()" style="display:none">Cookie Settings</div>
+    
+
+</div>    <script>
+    var BASE_URL = 'https://www.tfaw.com/';
+    var require = {
+        "baseUrl": "https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US"
+    };
+</script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/requirejs/require.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle0.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle1.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle2.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle3.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle4.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle5.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle6.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle7.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle8.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/js/bundle/bundle9.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/mage/requirejs/static.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/mage/requirejs/mixins.js"></script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/requirejs-config.js"></script>
+<script type="text/javascript" src="https://js.stripe.com/v3/"></script>
+<script type="text/javascript">
+    var shareasaleMagentoSSCID=shareasaleMagentoGetParameterByName("sscid");
+    var shareasaleMagentoSSAID=shareasaleMagentoGetParameterByName("SSAID");
+    var shareasaleMagnetoData = shareasaleMagentoSSAID + '|' + shareasaleMagentoSSCID;
+    function shareasaleMagentoSetCookie(e,a,t,o,n) {
+        if(e&&a) {
+            var r,s=o?";path="+o:"",i=n?";domain="+n:"",g="";t&& ((r=new Date).setTime(r.getTime()+t),g="; expires="+r.toUTCString()),document.cookie=e+"="+a+g+s+i
+        }
+    }
+
+    function shareasaleMagentoGetParameterByName(e,a) {
+        a||(a=window.location.href), e=e.replace(/[\[\]]/g ,"\\$&");
+        var t=new RegExp("[?&]"+e+"(=([^&#]*)|&|#|$)").exec(a);
+        return t?t[2]?decodeURIComponent(t[2].replace(/\+/g,"")):"":null
+    }
+
+    shareasaleMagentoSSCID&&shareasaleMagentoSetCookie("shareasaleMagentoData",shareasaleMagnetoData,94670778e4,"/");
+</script>
+<script type="text/javascript">window["mgctlbx$Pltm"] = "Magento 2";</script>
+<script type="text/javascript" src="https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/MagicToolbox_MagicScroll/js/magicscroll.js"></script>
+<script type="text/javascript">
+	MagicScrollOptions = {
+		'width':'auto',
+		'height':'auto',
+		'orientation':'horizontal',
+		'mode':'scroll',
+		'items':'3',
+		'speed':600,
+		'autoplay':0,
+		'loop':'infinite',
+		'step':'auto',
+		'arrows':'inside',
+		'pagination':false,
+		'easing':'cubic-bezier(.8, 0, .5, 1)',
+		'scrollOnWheel':'auto',
+		'lazy-load':false
+	}
+</script>
+<script type="text/x-magento-init">
+            {
+                "*": {
+                    "Magento_GoogleTagManager/js/google-tag-manager": {
+                        "isCookieRestrictionModeEnabled": 0,
+                        "currentWebsite": 1,
+                        "cookieName": "user_allowed_save_cookie",
+                        "gtmAccountId": "GTM-NM8WCWQ",
+                        "storeCurrencyCode": "USD",
+                        "ordersData": []                    }
+                }
+            }
+            </script>
+<script>
+    try {
+        if (!window.localStorage || !window.sessionStorage) {
+            throw new Error();
+        }
+
+        localStorage.setItem('storage_test', 1);
+        localStorage.removeItem('storage_test');
+    } catch(e) {
+        (function () {
+            var Storage = function (type) {
+                var data;
+
+                function createCookie(name, value, days) {
+                    var date, expires;
+
+                    if (days) {
+                        date = new Date();
+                        date.setTime(date.getTime()+(days * 24 * 60 * 60 * 1000));
+                        expires = '; expires=' + date.toGMTString();
+                    } else {
+                        expires = '';
+                    }
+                    document.cookie = name + '=' + value+expires+'; path=/';
+                }
+
+                function readCookie(name) {
+                    var nameEQ = name + '=',
+                        ca = document.cookie.split(';'),
+                        i = 0,
+                        c;
+
+                    for (i=0; i < ca.length; i++) {
+                        c = ca[i];
+
+                        while (c.charAt(0) === ' ') {
+                            c = c.substring(1,c.length);
+                        }
+
+                        if (c.indexOf(nameEQ) === 0) {
+                            return c.substring(nameEQ.length, c.length);
+                        }
+                    }
+
+                    return null;
+                }
+
+                function setData(data) {
+                    data = encodeURIComponent(JSON.stringify(data));
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', data, 365);
+                }
+
+                function clearData() {
+                    createCookie(type === 'session' ? getSessionName() : 'localStorage', '', 365);
+                }
+
+                function getData() {
+                    var data = type === 'session' ? readCookie(getSessionName()) : readCookie('localStorage');
+
+                    return data ? JSON.parse(decodeURIComponent(data)) : {};
+                }
+
+                function getSessionName() {
+                    if (!window.name) {
+                        window.name = new Date().getTime();
+                    }
+
+                    return 'sessionStorage' + window.name;
+                }
+
+                data = getData();
+
+                return {
+                    length: 0,
+                    clear: function () {
+                        data = {};
+                        this.length = 0;
+                        clearData();
+                    },
+
+                    getItem: function (key) {
+                        return data[key] === undefined ? null : data[key];
+                    },
+
+                    key: function (i) {
+                        var ctr = 0,
+                            k;
+
+                        for (k in data) {
+                            if (ctr.toString() === i.toString()) {
+                                return k;
+                            } else {
+                                ctr++
+                            }
+                        }
+
+                        return null;
+                    },
+
+                    removeItem: function (key) {
+                        delete data[key];
+                        this.length--;
+                        setData(data);
+                    },
+
+                    setItem: function (key, value) {
+                        data[key] = value.toString();
+                        this.length++;
+                        setData(data);
+                    }
+                };
+            };
+
+            window.localStorage.__proto__ = window.localStorage = new Storage('local');
+            window.sessionStorage.__proto__ = window.sessionStorage = new Storage('session');
+        })();
+    }
+</script>
+<script>
+        require.config({
+            deps: [
+                'jquery',
+                'mage/translate',
+                'jquery/jquery-storageapi'
+            ],
+            callback: function ($) {
+                'use strict';
+
+                var dependencies = [],
+                    versionObj;
+
+                $.initNamespaceStorage('mage-translation-storage');
+                $.initNamespaceStorage('mage-translation-file-version');
+                versionObj = $.localStorage.get('mage-translation-file-version');
+
+                
+                if (versionObj.version !== '31091e1ddea7778a17da443735c79b0ea85a19fa') {
+                    dependencies.push(
+                        'text!js-translation.json'
+                    );
+
+                }
+
+                require.config({
+                    deps: dependencies,
+                    callback: function (string) {
+                        if (typeof string === 'string') {
+                            $.mage.translate.add(JSON.parse(string));
+                            $.localStorage.set('mage-translation-storage', string);
+                            $.localStorage.set(
+                                'mage-translation-file-version',
+                                {
+                                    version: '31091e1ddea7778a17da443735c79b0ea85a19fa'
+                                }
+                            );
+                        } else {
+                            $.mage.translate.add($.localStorage.get('mage-translation-storage'));
+                        }
+                    }
+                });
+            }
+        });
+    </script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "mage/cookies": {
+                "expires": null,
+                "path": "/",
+                "domain": ".www.tfaw.com",
+                "secure": false,
+                "lifetime": "608400"
+            }
+        }
+    }
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_GoogleTagManager/js/google-tag-manager-cart": {
+                "blockNames": ["category.products.list","product.info.upsell","catalog.product.related","checkout.cart.crosssell","search_result_list"],
+                "cookieAddToCart": "add_to_cart",
+                "cookieRemoveFromCart": "remove_from_cart"
+            }
+        }
+    }
+</script>
+<script>
+    require([
+        'jquery',
+        'mage/cookies',
+    ], function ($) {
+
+        $('body').on('DOMSubtreeModified', '#customer-email-address', function () {
+
+            var customerEmail = document.getElementById('customer-email-address').getAttribute('customer-email');
+            var trackingCodeSnippet = document.getElementById('getresponse-tracking-code-snippet');
+            var gaIsValuable = $.cookie('gaIsValuable');
+
+            if (customerEmail !== null
+                && trackingCodeSnippet !== null
+                && gaIsValuable !== '1'
+            ) {
+                gaSetUserId(customerEmail);
+            }
+        });
+    });
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "getresponse_tracking_code_section": {
+                        "component": "GetResponse_GetResponseIntegration/js/getresponse_tracking_code_section"
+                    }
+                }
+            }
+        }
+    }
+</script>
+<script>
+  require(['mixins'], function() {
+    require([
+              'jquery',
+        'mage/translate',
+        'Amasty_Xsearch/js/autocomplete',
+        'Amasty_Xsearch/js/searchClick'
+    ], function ($, $translate, autoComplete, searchClick) {
+        'use strict';
+
+        $.extend(autoComplete, {
+            createLoupeIcon: function () {
+                var loupeIcon = $('<button/>', {
+                    class: 'amsearch-loupe',
+                    title: $translate('Search'),
+                    type: 'submit',
+                    'data-amsearch-js': 'loupe'
+                }).appendTo(this.searchForm.find('.control'));
+
+                $('<span class="sr-only">Search</span>', {
+                    class:"sr-only"
+                }).appendTo(loupeIcon);
+            }
+        });
+                autoComplete.init(
+            'https://www.tfaw.com/amasty_xsearch/autocomplete/index/',
+            {
+                width: '900',
+                minChars: '3'
+            },
+            'aHR0cHM6Ly93d3cudGZhdy5jb20vcHJpdmFjeS1wb2xpY3k,');
+        searchClick.init('https://www.tfaw.com/amasty_xsearch/product/click/');
+    })
+ });
+</script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                    "wishlist": {
+                        "component": "Magento_Wishlist/js/view/wishlist"
+                    }
+                }
+            }
+        }
+    }
+
+</script>
+<script type="text/x-magento-init">
+{
+    "*": {
+        "Magento_Ui/js/core/app": {
+            "components": {
+                "customer": {
+                    "component": "Magento_Customer/js/view/customer"
+                }
+            }
+        }
+    }
+}
+</script>
+<script>
+        window.checkout = {"shoppingCartUrl":"https:\/\/www.tfaw.com\/checkout\/cart\/","checkoutUrl":"https:\/\/www.tfaw.com\/checkout\/","updateItemQtyUrl":"https:\/\/www.tfaw.com\/checkout\/sidebar\/updateItemQty\/","removeItemUrl":"https:\/\/www.tfaw.com\/checkout\/sidebar\/removeItem\/","imageTemplate":"Magento_Catalog\/product\/image_with_borders","baseUrl":"https:\/\/www.tfaw.com\/","minicartMaxItemsVisible":5,"websiteId":"1","maxItemsToDisplay":10,"customerLoginUrl":"https:\/\/www.tfaw.com\/customer\/account\/login\/referer\/aHR0cHM6Ly93d3cudGZhdy5jb20vcHJpdmFjeS1wb2xpY3k%2C\/","isRedirectRequired":false,"autocomplete":"off","captcha":{"user_login":{"isCaseSensitive":false,"imageHeight":50,"imageSrc":"","refreshUrl":"https:\/\/www.tfaw.com\/captcha\/refresh\/","isRequired":false}}};
+    </script>
+<script type="text/x-magento-init">
+    {
+        "[data-block='minicart']": {
+            "Magento_Ui/js/core/app": {"components":{"minicart_content":{"children":{"subtotal.container":{"children":{"subtotal":{"children":{"subtotal.totals":{"config":{"display_cart_subtotal_incl_tax":0,"display_cart_subtotal_excl_tax":1,"template":"Magento_Tax\/checkout\/minicart\/subtotal\/totals"},"component":"Magento_Tax\/js\/view\/checkout\/minicart\/subtotal\/totals","children":{"subtotal.totals.msrp":{"component":"Magento_Msrp\/js\/view\/checkout\/minicart\/subtotal\/totals","config":{"displayArea":"minicart-subtotal-hidden","template":"Magento_Msrp\/checkout\/minicart\/subtotal\/totals"}}}}},"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/subtotal"}}},"component":"uiComponent","config":{"displayArea":"subtotalContainer"}},"item.renderer":{"component":"uiComponent","config":{"displayArea":"defaultRenderer","template":"Magento_Checkout\/minicart\/item\/default"},"children":{"item.image":{"component":"Magento_Catalog\/js\/view\/image","config":{"template":"Magento_Catalog\/product\/image","displayArea":"itemImage"}},"checkout.cart.item.price.sidebar":{"component":"uiComponent","config":{"template":"Magento_Checkout\/minicart\/item\/price","displayArea":"priceSidebar"}}}},"extra_info":{"component":"uiComponent","config":{"displayArea":"extraInfo"},"children":{"stripinstantcheckout":{"component":"Stripeofficial_InstantCheckout\/js\/button-in-minicart"}}},"promotion":{"component":"uiComponent","config":{"displayArea":"promotion"}}},"config":{"itemRenderer":{"default":"defaultRenderer","simple":"defaultRenderer","virtual":"defaultRenderer"},"template":"Magento_Checkout\/minicart\/content"},"component":"Magento_Checkout\/js\/view\/minicart"}},"types":[]}        },
+        "*": {
+            "Magento_Ui/js/block-loader": "https://www.tfaw.com/static/version1573826703/frontend/TFAW/default/en_US/images/loader-1.gif"
+        }
+    }
+    </script>
+<script type="text/x-magento-init">
+    {
+        "*": {
+            "Magento_Ui/js/core/app": {
+                "components": {
+                        "messages": {
+                            "component": "Magento_Theme/js/view/messages"
+                        }
+                    }
+                }
+            }
+    }
+</script>
+<script>
+        window.authenticationPopup = {"autocomplete":"off","customerRegisterUrl":"https:\/\/www.tfaw.com\/customer\/account\/create\/","customerForgotPasswordUrl":"https:\/\/www.tfaw.com\/customer\/account\/forgotpassword\/","baseUrl":"https:\/\/www.tfaw.com\/"};
+    </script>
+<script type="text/x-magento-init">
+        {
+            "#authenticationPopup": {
+                "Magento_Ui/js/core/app": {"components":{"authenticationPopup":{"component":"Magento_Customer\/js\/view\/authentication-popup","children":{"messages":{"component":"Magento_Ui\/js\/view\/messages","displayArea":"messages"},"captcha":{"component":"Magento_Captcha\/js\/view\/checkout\/loginCaptcha","displayArea":"additional-login-form-fields","formId":"user_login","configSource":"checkout"}}}}}            },
+            "*": {
+                "Magento_Ui/js/block-loader": "https\u003A\u002F\u002Fwww.tfaw.com\u002Fstatic\u002Fversion1573826703\u002Ffrontend\u002FTFAW\u002Fdefault\u002Fen_US\u002Fimages\u002Floader\u002D1.gif"
+            }
+        }
+    </script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/section-config":{"sections":{"stores\/store\/switch":"*","directory\/currency\/switch":"*","*":["messages"],"customer\/account\/logout":["recently_viewed_product","recently_compared_product","getresponse-tracking-code"],"customer\/account\/loginpost":["getresponse-tracking-code"],"customer\/account\/createpost":["getresponse-tracking-code"],"customer\/account\/editpost":"*","customer\/ajax\/login":["checkout-data","cart","getresponse-tracking-code"],"catalog\/product_compare\/add":["compare-products"],"catalog\/product_compare\/remove":["compare-products"],"catalog\/product_compare\/clear":["compare-products"],"sales\/guest\/reorder":["cart"],"sales\/order\/reorder":["cart"],"checkout\/cart\/add":["cart"],"checkout\/cart\/delete":["cart"],"checkout\/cart\/updatepost":["cart"],"checkout\/cart\/updateitemoptions":["cart"],"checkout\/cart\/couponpost":["cart"],"checkout\/cart\/estimatepost":["cart"],"checkout\/cart\/estimateupdatepost":["cart"],"checkout\/onepage\/saveorder":["cart","checkout-data","last-ordered-items"],"checkout\/sidebar\/removeitem":["cart"],"checkout\/sidebar\/updateitemqty":["cart"],"rest\/*\/v1\/carts\/*\/payment-information":["cart","checkout-data","last-ordered-items","instant-purchase"],"rest\/*\/v1\/guest-carts\/*\/payment-information":["cart"],"rest\/*\/v1\/guest-carts\/*\/selected-payment-method":["cart","checkout-data"],"rest\/*\/v1\/carts\/*\/selected-payment-method":["cart","checkout-data","instant-purchase"],"wishlist\/index\/add":["wishlist"],"wishlist\/index\/remove":["wishlist"],"wishlist\/index\/updateitemoptions":["wishlist"],"wishlist\/index\/update":["wishlist"],"wishlist\/index\/cart":["wishlist","cart"],"wishlist\/index\/fromcart":["wishlist","cart"],"wishlist\/index\/allcart":["wishlist","cart"],"wishlist\/shared\/allcart":["wishlist","cart"],"wishlist\/shared\/cart":["cart"],"giftregistry\/index\/cart":["cart"],"giftregistry\/view\/addtocart":["cart"],"review\/product\/post":["review"],"customer\/address\/*":["instant-purchase"],"customer\/account\/*":["instant-purchase"],"vault\/cards\/deleteaction":["instant-purchase"],"wishlist\/index\/copyitem":["wishlist"],"wishlist\/index\/copyitems":["wishlist"],"wishlist\/index\/deletewishlist":["wishlist","multiplewishlist"],"wishlist\/index\/createwishlist":["multiplewishlist"],"wishlist\/index\/moveitem":["wishlist"],"wishlist\/index\/moveitems":["wishlist"],"wishlist\/search\/addtocart":["cart","wishlist"],"multishipping\/checkout\/overviewpost":["cart"],"paypal\/express\/placeorder":["cart","checkout-data"],"paypal\/payflowexpress\/placeorder":["cart","checkout-data"],"persistent\/index\/unsetcookie":["persistent"],"customer_order\/cart\/updatefaileditemoptions":["cart"],"checkout\/cart\/updatefaileditemoptions":["cart"],"customer_order\/cart\/advancedadd":["cart"],"checkout\/cart\/advancedadd":["cart"],"checkout\/cart\/removeallfailed":["cart"],"customer_order\/cart\/addfaileditems":["cart"],"checkout\/cart\/addfaileditems":["cart"],"customer_order\/sku\/uploadfile":["cart"]},"clientSideSections":["checkout-data","cart-data"],"baseUrls":["https:\/\/www.tfaw.com\/","http:\/\/www.tfaw.com\/"]}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/customer-data":{"sectionLoadUrl":"https:\/\/www.tfaw.com\/customer\/section\/load\/","expirableSectionLifetime":60,"expirableSectionNames":["cart","persistent"],"cookieLifeTime":"608400","updateSessionUrl":"https:\/\/www.tfaw.com\/customer\/account\/updateSession\/"}}}</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Customer\/js\/invalidation-processor":{"invalidationRules":{"website-rule":{"Magento_Customer\/js\/invalidation-rules\/website-rule":{"scopeConfig":{"websiteId":1}}}}}}}</script>
+<script type="text/x-magento-init">
+    {
+        "body": {
+            "pageCache": {"url":"https:\/\/www.tfaw.com\/page_cache\/block\/render\/page_id\/4\/","handles":["default","cms_page_view","cms_page_view_id_privacy-policy"],"originalRequest":{"route":"cms","controller":"page","action":"view","uri":"\/privacy-policy"},"versionCookieName":"private_content_version"}        }
+    }
+</script>
+<script type="text/x-magento-init">
+{"*":{"Magento_Banner\/js\/model\/banner":{"sectionLoadUrl":"https:\/\/www.tfaw.com\/banner\/ajax\/load\/","cacheTtl":30000}}}</script>
+<script type="text/javascript" src="https://www.email.tfaw.com/view_webform_v2.js?u=YeIwb&amp;webforms_id=UfHP">
+        {
+            "name": "Newsletter Subscribe",
+            "selector": {
+                "clickToShow": "#gr_subscribe_link"
+            }
+        }
+        </script>
+<script type="text/x-magento-init">
+        {
+            "*": {
+                "Magento_Ui/js/core/app": {
+                    "components": {
+                        "storage-manager": {
+                            "component": "Magento_Catalog/js/storage-manager",
+                            "appendTo": "",
+                            "storagesConfiguration" :
+                                         {"recently_viewed_product":{"requestConfig":{"syncUrl":"https:\/\/www.tfaw.com\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":"1"},"recently_compared_product":{"requestConfig":{"syncUrl":"https:\/\/www.tfaw.com\/catalog\/product\/frontend_action_synchronize\/"},"lifetime":"1000","allowToSendRequest":"1"},"product_data_storage":{"updateRequestConfig":{"url":"https:\/\/www.tfaw.com\/rest\/default\/V1\/products-render-info"},"allowToSendRequest":"1"}}                        }
+                    }
+                }
+            }
+        }
+</script>
+<script>
+	require(['jquery', 'lazyLoad', 'lazyLoadPlugins'], function($) {
+		var mgzLazyload = function() {
+			$('.lazy').lazy({
+				delay: 1000,
+				threshold: 1000,
+				effect: "show",
+				effectTime: 0,
+				afterLoad: function(element) {
+					$(element).removeClass('lazy-loading').addClass('lazy-loaded');
+				}
+			});
+		}
+		mgzLazyload();
+		$(document).on('ajaxComplete', function (event, xhr, settings) {
+			mgzLazyload();
+		});
+		jQuery(document).ready(function($) {
+			$('.owl-carousel').on('changed.owl.carousel', function(event) {
+		    	mgzLazyload();
+			});
+		});
+	});
+</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","url":"https:\/\/www.tfaw.com\/","logo":"https:\/\/www.tfaw.com\/static\/version1573826703\/frontend\/TFAW\/default\/en_US\/images\/logo.svg","name":"Things From Another World","telephone":"503-652-0052","email":"service@tfaw.com","address":{"@type":"PostalAddress","addressCountry":"United States","addressLocality":"Milwaukie","postalCode":"97222","streetAddress":"10956 SE Main St","addressRegion":"OR"}}</script>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.tfaw.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.tfaw.com\/privacy-policy","name":"Privacy Policy"}}]}</script>
+<script>
+    (function() {
+        var origOpen = XMLHttpRequest.prototype.open;
+        XMLHttpRequest.prototype.open = function() {
+            this.addEventListener('load', function() {
+                if(this.responseText.indexOf('pc_fraud_prevention' + '_error_redirect') !== -1){
+                    window.location.replace('https://www.tfaw.com/fraudprevention/error/redirect/')
+                }
+            });
+            origOpen.apply(this, arguments);
+        };
+    })();
+</script>
+<script type="text/javascript">
+        var behaviour = 365;
+        var onScroll ='0';
+        var expire ='3650';
+        if (expire === 0 || expire === '0') {
+            expire = 1;
+        } else {
+            expire =3650;
+        }
+
+        if (onScroll === 1 || onScroll === '1') {
+            window.onscroll = function () {
+                if (!jQuery.cookie('cookienotice') || jQuery.cookie('cookienotice') === '0') {
+                    custom();
+                }
+            };
+        }
+
+        function custom() {
+            if (document.getElementById('m-cookienotice').style.display = 'block') {
+                if (behaviour) {
+                    var d = new Date();
+                    d.setTime(d.getTime() + (behaviour + expire * 24 * 60 * 60 * 1000));
+                    var expires = "expires=" + d.toUTCString();
+
+                }
+                if (document.body.scrollTop > 150 || document.documentElement.scrollTop > 150) {
+                    document.cookie = "cookienotice" + "=" + "true" + ";" + expires + ";path=/";
+                    document.getElementById('m-cookienotice').style.display = 'none';
+                }
+            }
+        }
+
+        function showDiv() {
+            document.getElementById('m-cookienotice').style.display = "block";
+            document.getElementById('v-badge').style.display = 'none';
+                    }
+
+        function cookieClose() {
+            if (behaviour) {
+                var d = new Date();
+                d.setTime(d.getTime() + (behaviour + expire * 24 * 60 * 60 * 1000));
+                var expires = "expires=" + d.toUTCString();
+            }
+            document.cookie = "cookienotice" + "=" + "0" + ";" + expires + ";path=/";
+            document.getElementById('v-badge').style.display = 'block';
+            document.getElementById('m-cookienotice').style.display = 'none';
+        }
+
+        function cookieNoticeAccept() {
+            if (behaviour) {
+                var d = new Date();
+                d.setTime(d.getTime() + (behaviour + expire * 24 * 60 * 60 * 1000));
+                var expires = "expires=" + d.toUTCString();
+            }
+            document.cookie = "cookienotice" + "=" + "true" + ";" + expires + ";path=/";
+            document.getElementById('m-cookienotice').style.display = 'none';
+        }
+
+        require([
+            'jquery',
+            'mage/cookies'
+        ], function ($) {
+            if ($.cookie('cookienotice') === '0' || $.cookie('cookienotice') === 0){
+                document.getElementById('v-badge').style.display = 'block';
+            }
+            if (!$.cookie('cookienotice')){
+                document.getElementById('m-cookienotice').style.display = 'block';
+            }
+        });
+
+                    </script>
+<script type="text/javascript">
+    window.StripeInstantCheckout = {"cartId":null,"basePriceFormat":{"pattern":"$%s","precision":2,"requiredPrecision":2,"decimalSymbol":".","groupSymbol":",","groupLength":3,"integerRequired":false},"is_guest":true,"enable":false}</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9e2a608cd7","applicationID":"185492939,185493074","transactionName":"ZwZbNhZUDEVYVRIMDl5MeAEQXA1YFlULFk5AAl4HS0MLU04=","queueTime":0,"applicationTime":800,"atts":"S0FMQF5OHxobV0RfGk0e","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
