@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moteefe.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403034212id_/https%3A//www.moteefe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moteefe.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119091939id_/https%3A//www.moteefe.com/privacy) for the most accurate reproduction.*
 
 # Moteefe
 
@@ -110,13 +110,13 @@ We will only use your personal data when the law allows us to. Most commonly, we
 
 Contact us to find out more about the types of lawful basis that we will rely on to process your personal data. 
 
-Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by [contacting us](https://moteefe.com/faq#/request). 
+Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending third party direct marketing communications to you via email or text message. You have the right to withdraw consent to marketing at any time by [contacting us](https://moteefe.com/faq#/request?order=true). 
 
 ###  Purposes for which we will use your personal data 
 
 We have set out below, in a table format, a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate. 
 
-Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](https://moteefe.com/faq#/request) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](https://moteefe.com/faq#/request?order=true) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below. 
 
 Purpose/Activity | Type of data | Lawful basis for processing including basis of legitimate interest  
 ---|---|---  
@@ -244,7 +244,7 @@ We will get your express opt-in consent before we share your personal data with 
 
 ###  Opting out 
 
-You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by [contacting us](https://moteefe.com/faq#/request) at any time. 
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you or by [contacting us](https://moteefe.com/faq#/request?order=true) at any time. 
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of a product/service purchase, warranty registration, product/service experience or other transactions. 
 
@@ -254,7 +254,7 @@ You can set your browser to refuse all or some browser cookies, or to alert you 
 
 ###  Change of purpose 
 
-We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](https://moteefe.com/faq#/request). 
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](https://moteefe.com/faq#/request?order=true). 
 
 If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so. 
 
@@ -289,7 +289,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 
 
-Please [contact us](https://moteefe.com/faq#/request) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. 
+Please [contact us](https://moteefe.com/faq#/request?order=true) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA. 
 
 ##  7\. Data security 
 
@@ -325,7 +325,7 @@ Under certain circumstances, you have rights under data protection laws in relat
 
 
 
-If you wish to exercise any of the rights set out above, please [contact us](https://moteefe.com/faq#/request). 
+If you wish to exercise any of the rights set out above, please [contact us](https://moteefe.com/faq#/request?order=true). 
 
 ###  No fee usually required 
 
@@ -343,7 +343,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 ###  LAWFUL BASIS 
 
-**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](https://moteefe.com/faq#/request). 
+**Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](https://moteefe.com/faq#/request?order=true). 
 
 **Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract. 
 
@@ -405,7 +405,7 @@ You can opt out of Google's use of cookies by visiting the Ads Preferences Manag
 
 Users of the Platform have the right to: 
 
-  * (a) ask us for a copy of the information supplied by you that we hold by making request [here](https://moteefe.com/faq#/request). We are entitled to charge you a standard fee of £10 for this service; and 
+  * (a) ask us for a copy of the information supplied by you that we hold by making request [here](https://moteefe.com/faq#/request?order=true). We are entitled to charge you a standard fee of £10 for this service; and 
   * (b) ask us to stop using your personal data or contacting you in the future, for marketing purposes. 
 
 
@@ -424,4 +424,4 @@ We keep our Privacy Policy under regular review and reserve the right to revise 
 
 We intend to meet the highest standards when collecting and using your personal information. In any case you suspect that our collection or use of information is unfair, misleading or inappropriate we encourage you to bring it to our attention. We are happy to provide any additional information or explanation needed. 
 
-Please [contact us](https://moteefe.com/faq#/request) if you have any issues, comments or questions about the above. 
+Please [contact us](https://moteefe.com/faq#/request?order=true) if you have any issues, comments or questions about the above. 
