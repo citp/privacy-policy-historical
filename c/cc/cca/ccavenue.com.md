@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617041245id_/https%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccavenue.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119020137id_/https%3A//www.ccavenue.com/privacy.jsp) for the most accurate reproduction.*
 
 # CCAvenue®: Privacy Policy - India's Top Payment Gateway
 
@@ -71,8 +71,6 @@ We currently share your personal data, where necessary, with the following recip
   * you and, where you request, any third party you ask us to share it with.
   * Acquiring Banks, CCAvenue Merchants and Facility providers.
   * governmental, legal, regulatory, or similar authorities, on request or where required, including for the purposes of reporting any actual or suspected breach of applicable law or regulation;
-  * direct marketing service providers;
-  * data analytics service providers
   * third party service providers used for the delivery of some aspects of the Services (e.g. SMS delivery, email delivery, web notifications, app notifications and phone number lookup);
 
 
