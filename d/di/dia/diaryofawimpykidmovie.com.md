@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diaryofawimpykidmovie.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603060623id_/https%3A//wimpykid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaryofawimpykidmovie.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119100525id_/https%3A//wimpykid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wimpy Kid
 
