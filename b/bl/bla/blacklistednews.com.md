@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacklistednews.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520022749id_/https%3A//www.blacklistednews.com/article/70611/blacklisted-news-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacklistednews.com privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119121026id_/https%3A//www.blacklistednews.com/article/70611/blacklisted-news-privacy.html) for the most accurate reproduction.*
 
 # Blacklisted News Privacy policy
 
