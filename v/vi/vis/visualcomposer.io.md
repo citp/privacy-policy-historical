@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualcomposer.io privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613044816id_/https%3A//visualcomposer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualcomposer.io privacy policy that was archived on 2019-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191119190157id_/https%3A//visualcomposer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 If you are a resident of the EEA, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) related to your Personal Data. All services provided and related to visualcomposer.io are GDPR compliant as follows:
 
-  * [visualcomposer.io](https://visualcomposer.com/gdpr/)
+  * [visualcomposer.com](https://web.archive.org/web/20191119190157id_/https://visualcomposer.com/gdpr/)
   * [Account service](https://account.visualcomposer.io/gdpr)
   * [Support service](https://support.visualcomposer.io/gdpr)
 
@@ -69,4 +69,4 @@ This privacy policy was last modified on 05/24/2018.
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://visualcomposer.com  
-hello@visualcomposer.io
+hello@visualcomposer.com
