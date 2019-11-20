@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapingcheap.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411152401id_/https%3A//vapingcheap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapingcheap.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120134141id_/https%3A//vapingcheap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Vaping Cheap
 
@@ -185,7 +185,7 @@ We use Google Analytics to measure traffic on our website. Google has their own 
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet.
 
-DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 #### Use of Facebook Pixel
 
