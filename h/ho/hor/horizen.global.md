@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizen.global privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405004551id_/https%3A//www.horizen.global/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizen.global privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120012050id_/https%3A//www.horizen.global/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
