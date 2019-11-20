@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiberdownload.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421232004id_/https%3A//www.filecroco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiberdownload.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120142426id_/https%3A//www.filecroco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Filecroco
 
