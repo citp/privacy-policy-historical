@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isu.org privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615123652id_/https%3A//isu.org/quick-links-sep/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isu.org privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120223431id_/https%3A//www.isu.org/quick-links-sep/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - International Skating Union
 
