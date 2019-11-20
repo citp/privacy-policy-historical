@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hasbrotoyshop.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614055805id_/https%3A//hasbropulse.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hasbrotoyshop.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120044356id_/https%3A//hasbropulse.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Hasbro Pulse
 
-(Last Updated: 2/14/2019)
+(Last Updated: 10/9/2019)
 
 WELCOME!
 
@@ -21,10 +21,11 @@ TABLE OF CONTENTS
   3. What information is collected from me?
   4. How does Hasbro use my information?
   5. With whom does Hasbro share my information?
-  6. What are my information choices?
-  7. Security
-  8. Your California Privacy Rights
-  9. Contact Us
+  6. Analytics and Advertising
+  7. What are my information choices?
+  8. Security
+  9. Your California Privacy Rights
+  10. Contact Us
 
 
 
@@ -45,7 +46,7 @@ Attn: Hasbro Pulse Services Administrator
 Pawtucket, RI 02861   
 (800) 255-5516
 
-For product-related questions and requests, please contact [Hasbro Consumer Care](https://consumercare.hasbro.com/) . Please note that any personal information provided by you via our customer support website is subject to the privacy policy and terms of use of that website. Please read those documents before providing any personal information to us via our customer support website.
+For product-related questions and requests, please contact [Hasbro Consumer Care](https://consumercare.hasbro.com/). Please note that any personal information provided by you via our customer support website is subject to the privacy policy and terms of use of that website. Please read those documents before providing any personal information to us via our customer support website.
 
 For any other issue related to the use of the Services, please contact Hasbro Pulse Customer Service by submitting a question or support request via the Site, calling us at 1-866-278-4264 (Monday through Friday: 8AM to 8PM EST/EDT, Saturday: 10AM to 6:30PM EST/EDT), or emailing us at [CustomerService@HasbroPulse.com](mailto:CustomerService@HasbroPulse.com). We will be happy to take your request.
 
@@ -87,7 +88,7 @@ Depending on the activity, the types of personal information that you provide ma
 
 
 
-Other information you may also provide through your use of the Services includes your product preferences, searches, and browsing activity. Standing alone, this information cannot be used to identify or directly contact you. However, this information may become personally identifiable when we combine it with your personal information.
+Other information you may also provide through your use of the Services includes your product preferences, searches, and browsing activity. 
 
 In some cases, we also collect information you provide about others, such as when you refer someone to the Services (including promotions) or when you purchase and ship products to someone. We will use this information to fulfill your requests and will not send communications to your contacts unrelated to your requests, unless they separately consent to receive communications from us.
 
@@ -98,19 +99,19 @@ Please note that this Privacy Policy applies to any information that we collect 
 
 ##### INFORMATION COLLECTED AUTOMATICALLY FROM YOU
 
-When you access or use the Services, we and our service providers may also automatically collect information about your visit. For example, when you visit the Site or otherwise use or interact with the Services, we collect your computer's Internet Protocol (" **IP** ") address, and may also collect other unique identifiers (e.g., ad tags), information about your hardware, operating system version, browser type and language, screen resolution, geographic location (country, state, and city level), the URL of the website you visited before navigating to the Services, and other analytics and statistical data regarding  use of the Services (e.g., downloads, number of users, access times, sessions, page views, frequency of use, retention, clicks, etc.). In addition to the above, if you access the Services via a mobile device, we may also collect your device ID, device make and model, and mobile carrier.
+When you access or use the Services, we and our service providers may also automatically collect information about your visit. For example, when you visit the Site, view our advertisements or emails, or otherwise use or interact with the Services, we collect your computer's Internet Protocol (" **IP** ") address, and may also collect other unique identifiers (e.g., ad tags), information about your hardware, operating system version, browser type and language, screen resolution, geographic location (country, state, and city level), the URL of the website you visited before navigating to the Services, and other analytics and statistical data regarding  use of the Services (e.g., downloads, number of users, access times, sessions, page views, frequency of use, retention, clicks, etc.). In addition to the above, if you access the Services via a mobile device, we may also collect your device ID, device make and model, and mobile carrier.
 
 To collect this information, we and our service providers use various technologies, including the following:
 
-Cookies: Cookies are small data files stored on your computer or mobile device by a website. Among other things, cookies help us and our service providers improve the Services and personalize your experience, see which areas and features of the Services are popular, and count visits. For more information about cookies and how to disable them, please see the “What are my information choices?" section below.
+Cookies: Cookies are small data files stored on your computer or mobile device by a website. Among other things, cookies help us and our service providers to improve the Services, remember your preferences, support security features, see which areas and features of the Services are popular, count visits, understand usage and campaign effectiveness, and provide and personalize content and advertising. For more information about cookies and how to disable them, please see the “What are my information choices?" section below.
 
-Clear GIFs: Clear GIFs, sometimes called "web bugs" or "web beacons," are small electronic images that are placed on a web page or in an email message. We use clear GIFs to monitor user behavior, deliver cookies, collect information, count visits, understand usage and campaign effectiveness, and to tell if a recipient has opened and acted upon an email.
+Clear GIFs: Clear GIFs, sometimes called "web bugs" or "web beacons," are small electronic images that are placed on a web page or in an email message or advertisement.  Clear GIFs may permit us to drop or read cookies, and are often used in combination with cookies to track activity by a particular browser to a particular device. We use clear GIFs to, among other things, collect information, count visits, understand usage and campaign effectiveness, provide and personalize content and advertising, and tell if a recipient has opened and acted upon an email.
 
-Log Files: Log files record website activity on the Services and enable us to gather statistics about our users' browsing habits. These entries help Hasbro determine (among other things) how many and how often users have accessed or used the Services, which pages of the Services they've visited, and other similar data.
+Log Files: Log files record website activity on the Services and enable us to gather statistics about our users' browsing habits. These entries help Hasbro determine, among other things, how many and how often users have accessed or used the Services, which pages of the Services they've visited, and other similar data.
 
 Do Not Track (DNT) Signals: Your browser may allow you to set a Do Not Track (DNT) signal indicating that you do not wish your online activity to be tracked. Currently, our system does not support and cannot act on DNT signal headers that we may receive. However, the choices that we provide you concerning collection and use of your personal information will continue to operate as described in this Privacy Policy.
 
-We may associate the information we collect from these technologies with other information (including personal information) that you provide for the purposes described in this Privacy Policy.
+We may also associate the information we collect from these technologies with other information that you provide for the purposes described in this Privacy Policy.
 
   
 
@@ -119,28 +120,18 @@ We may associate the information we collect from these technologies with other i
 
 We and our service providers may also obtain information from other sources and combine that with information we collect through the Services. For example, if we enable a feature on the Site that permits you to interact with a third-party social networking site, we may have access to certain information from that site, such as your name, account information and friends, in accordance with the authorization procedures determined by such third-party social networking site.
 
-  
-
-
-##### WEBSITE ANALYTICS
-
-We use analytics services and software provided by third parties to help us understand how users access and use the Services. These tools and services use cookies, web beacons and other devices or technologies on the Services to enable them to track traffic data. The data collected typically includes information such as your IP address, your Internet Service Provider, your web browser, the time spent on web pages, and the links clicked and the advertisements viewed on those pages. We use this information to improve the Services and your experience, to see which areas and features of the Services are popular, and for which visitors, and to count visits.
-
-##### THIRD PARTY ADVERTISING
-
-We engage third parties to place ads for our products and services on other websites and online services. These third parties use cookies, web beacons and other devices or technologies to collect information about your visits to websites and mobile applications, including Hasbro's websites and mobile applications. The data collected typically includes information such as your IP address, your web browser, web pages viewed, time spent on pages, links clicked and whether you purchased an advertised product. These third parties use this information to deliver advertising and/or content targeted to your interests. For more information about targeted advertising provided by these third parties, and how to opt-out of having your information used in this way by companies that participate in the Digital Advertising Alliance (" **DAA** ") or the Network Advertising Initiative (" **NAI** "), please visit: [www.aboutads.info/choices](http://www.aboutads.info/choices) or [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). Hasbro is not responsible for the effectiveness of, or compliance with, any third parties' opt-out options or programs or the accuracy of their statements regarding their opt-out options or programs.
-
 Back to top
 
 #### **4\. HOW DOES HASBRO USE MY INFORMATION?**
 
 ##### USE OF INFORMATION
 
-We use personal information and other information collected through or in connection with the Services for the purposes described in this Privacy Policy or as otherwise disclosed to you on or in connection with the Services. For example, we may use your information to:
+We use personal information and other information collected through or in connection with the Services for the purposes described in this Privacy Policy or as otherwise disclosed to you on or in connection with the Services. For example, we may use your information:
 
   * To send you advertising or promotional materials, including information about new products, contests, features and enhancements, special offers and other events of interest from Hasbro and our select partners;
   * To operate and improve the Services, including by linking or combining your information with other information we get from our service providers or third parties, or information related to your interactions with other Hasbro sites or online services;
   * To personalize your experience with the Services, including through Site features such as product search results and product recommendations;
+  * To serve and personalize advertising tailored to your interests;
   * To provide and deliver the products and services you request, process transactions, and to send you related information, including confirmations and invoices;
   * To send you technical notices, updates, security alerts and support and administrative messages;
   * To respond to your comments, questions, and requests and provide customer service;
@@ -183,16 +174,33 @@ The Services (including content and functionality on or features of the Services
 
 To provide relevant information not found on the Services and to allow you to interact with other websites, applications, and/or other online services with which you may have accounts (such as Facebook and other social media sites) or which may be of interest to you, Hasbro may provide links or embed applications on the Services that allow you to login to or otherwise engage with online services not operated or controlled by Hasbro. Your use of these online services is subject to the third parties' privacy policies and terms of use, and we encourage you to read the third parties' privacy policies and terms of use before submitting personal or other information or using their online services.
 
+Back to top
+
+#### **6\. ANALYTICS AND ADVERTISING**
+
+##### WEBSITE ANALYTICS
+
+We use analytics services, such as Google Analytics, and software provided by third parties to help us understand how users access and use the Services. These tools and services use cookies, web beacons and other devices or technologies on the Services to enable them to track traffic data. The data collected typically includes information such as your IP address, your Internet Service Provider, your web browser, the time spent on web pages, and the links clicked and the advertisements viewed on those pages. We use this information to improve the Services and your experience, to see which areas and features of the Services are popular, and for which visitors, and to count visits.
+
   
 
 
-##### MATCHED LIST ADS
+##### INTEREST-BASED ADVERTISING
 
-Third party websites and applications may display ads from Hasbro that are targeted to reach people on those websites or applications who are also identified on one of more of Hasbro's databases. This is done by matching common factors between Hasbro's databases and the databases of these third parties. For instance, we may share your email address with Facebook as part of Facebook's matched list ad services. If we use Facebook's matched list ad services, you should be able to hover over the box in the right corner of the Facebook ad to find out how to opt-out with us from such list. If you opt-out with us from Facebook matched list ad services, we will remove the matching personal information from that Facebook list; however, this will not take effect immediately and if you have multiple emails or other accounts, you may have to opt-out separately for each one. We are not responsible for such third parties' failure to comply with your or our opt-out instructions.
+We work with agencies, ad networks, and other technology services to place ads for our products and services on other websites and online services.  These third parties use cookies, web beacons and other devices or technologies to collect information about your visits to websites and mobile applications, including to the Services. The data is collected through first party cookies and third party cookies and typically includes information such as your IP address, your web browser, web pages viewed, time spent on pages, links clicked and whether you purchased an advertised product. These third parties use this information to track your activities across times and services for purposes of associating the different devices you use, and delivering advertising and/or content targeted to your interests.  
+
+  
+
+
+##### MATCHED ADS
+
+Third party websites and applications may display ads from Hasbro that are targeted to reach people (or people similar to people) on those websites or applications who have visited our Services or are also identified on one of more of Hasbro's databases. This is done by us uploading a customer list to the third party or incorporating a pixel from the third party on our Services, and the third party matching common factors between our data and the data of the third party. For instance, we incorporate the Facebook pixel on our Site and may share your email address with Facebook as part of Facebook Custom Audiences. We may also work with partners to deliver matched ads based on data about you and others in those partners' own databases.
+
+For information about your choices regarding analytics, interest-based advertising, and matched ads, please see the next section.
 
 Back to top
 
-#### **6\. WHAT ARE MY INFORMATION CHOICES?**
+#### **7\. WHAT ARE MY INFORMATION CHOICES?**
 
 ##### REGARDING PERSONAL INFORMATION
 
@@ -208,13 +216,6 @@ If you have posted product-related questions, ratings, or review content that yo
   
 
 
-##### REGARDING COOKIES
-
-Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the Services.
-
-  
-
-
 ##### REGARDING PROMOTIONAL COMMUNICATIONS
 
 We may send you promotional communications if you sign up to receive them through the Services. If you have signed up to receive promotional communications from Hasbro via another Hasbro ecommerce site, you will continue to receive them through Hasbro Pulse, Hasbro’s latest shopping destination for fans.
@@ -223,7 +224,26 @@ You may opt-out of receiving promotional emails or mail from Hasbro by declining
 
 If you opt-out, we may still send you transactional or relationship messages, such as emails about your account, an order you have placed, a crowdfunded product you have backed, or our other ongoing business relations.
 
-#### **7\. SECURITY**
+  
+
+
+##### REGARDING COOKIES
+
+Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of the Services.
+
+##### REGARDING ANALYTICS AND INTEREST-BASED ADVERTISING
+
+Google provides tools to manage the collection and use of certain information by Google Analytics at [tools.google.com/dlpage/gaoptout](https://web.archive.org/web/20191120044356id_/https%3A//hasbropulse.com/pages/tools.google.com/dlpage/gaoptout).
+
+Some of the companies we work with to provide you with targeted advertising participate in the Digital Advertising Alliance ("DAA") or the Network Advertising Initiative ("NAI"). For more information about the targeted advertising provided by these companies, and how to opt out of having your information used in this way by these companies, please visit: [www.aboutads.info/choices](https://web.archive.org/web/20191120044356id_/https%3A//hasbropulse.com/pages/www.aboutads.info/choices) for opt out for DAA participating companies or [www.networkadvertising.org/choices](https://web.archive.org/web/20191120044356id_/https%3A//hasbropulse.com/pages/www.networkadvertising.org/choices) for opt out for NAI participating companies . Opting out only means that the selected participants should no longer deliver certain targeted ads to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks).
+
+To opt out of us using your data for matched ads, please contact us as set forth in the “Contact Us” section below and specify that you wish to opt out of matched ads. We will request that the applicable third party not serve you matched ads based on information we provide to it. Alternatively, you may contact the applicable third party to opt-out.
+
+You may also limit our use of information collected from or about your mobile device for purposes of serving online behavioral advertising to you by going to your device settings and selecting “Limit Ad Tracking” (for iOS devices) or “Opt out of Interest-Based Ads” (for Android devices).
+
+Please note that if you opt out using any of these methods, the opt out will only apply to the specific browser or device from which you opt out. Hasbro is not responsible for the effectiveness of, or compliance with, any opt out options or programs, or the accuracy of any third party statements regarding opt out options or programs.
+
+#### **8\. SECURITY**
 
 Hasbro has established policies in an effort to protect your personal information against loss, misuse and unauthorized access, disclosure, alteration and/or destruction. For example, Hasbro strives to provide only those employees performing a legitimate business function with access to users' personal information. Hasbro also reviews its security procedures periodically to consider appropriate new technology and updated methods.
 
@@ -233,7 +253,7 @@ Despite our efforts, please be aware that no security measure is ever perfect or
 
 Back to top
 
-#### **8\. YOUR CALIFORNIA PRIVACY RIGHTS**
+#### **9\. YOUR CALIFORNIA PRIVACY RIGHTS**
 
 Since 2005, California Civil Code Section 1798.83 permits customers of this website who are California residents to request certain information regarding our disclosure of personal information as defined by the statute to our affiliates and third parties for their own direct marketing purposes. For inquiries regarding our disclosure policy, please call or write us at:
 
@@ -245,7 +265,7 @@ Pawtucket, RI 02861
 
 Back to top
 
-#### **9\. CONTACT US**
+#### **10\. CONTACT US**
 
 If you have questions or concerns regarding this Privacy Policy, please contact us using the following contact information:
 
