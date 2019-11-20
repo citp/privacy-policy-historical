@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firedrop.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207111024id_/https%3A//firedrop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firedrop.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120132325id_/https%3A//firedrop.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Firedrop
 
