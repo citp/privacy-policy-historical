@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameranger.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530113027id_/https%3A//www.gameranger.com/about/policy_ads) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameranger.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120130851id_/https%3A//www.gameranger.com/about/policy_ads) for the most accurate reproduction.*
 
 # GameRanger - Advertising Privacy Policy
 
