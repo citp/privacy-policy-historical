@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628224609id_/https%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120174355id_/https%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
 
 # MyShopping.com.au Privacy Policy
 
@@ -45,7 +45,7 @@ If you wish to access and use MyShopping Rewards Program, you must register and 
 
 ## Using personal information
 
-MyShopping is an online environment that allows people to compare merchants, products, stores and prices. All of this information is aggregated and made available in a convenient form. To accomplish this, some users write reviews, articles, opinions or responses about merchants, products, stores and prices and post this information to the site. These postings can then be accessed and read by other MyShopping users. To fulfil this purpose of the site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular contribution. MyShopping does not use or disclose your personal information for a purpose other than that for which it was collected, unless such use or disclosure would be reasonably expected or, if you give us your consent. In the event that you opt in for surveys or complete surveys, your personal information may be collected and used for research, validation, de-duplication or specific project needs by our Affiliate or partners. You also consent to your information being transferred outside Australia by our partners and affiliates. Unless you contact us to indicate otherwise, you consent to your personal information being used to: 
+MyShopping is an online environment that allows people to compare merchants, products, stores and prices. All of this information is aggregated and made available in a convenient form. To accomplish this, some users write reviews, articles, opinions or responses about merchants, products, stores and prices and post this information to the site. These postings can then be accessed and read by other MyShopping users. To fulfil this purpose of the site, we need to display a limited amount of personal information, so that users are able to evaluate the trustworthiness of a particular contribution. MyShopping does not use or disclose your personal information for a purpose other than that for which it was collected, unless such use or disclosure would be reasonably expected or, if you give us your consent. In the event that you opt in for surveys or [complete surveys](https://www.rewardia.com.au/Paid-Surveys-How-it-Works?pk=lp), your personal information may be collected and used for research, validation, de-duplication or specific project needs by our Affiliate or partners. You also consent to your information being transferred outside Australia by our partners and affiliates. Unless you contact us to indicate otherwise, you consent to your personal information being used to: 
 
   * establish a MyShopping Rewards Program user account
   * contact you for any purpose related to your account or your use of the site
@@ -67,7 +67,7 @@ MyShopping is an online environment that allows people to compare merchants, pro
 
 
 
-If you complete online surveys, your information may be transferred to our affiliates and partners who are independent entities. We therefore recommend that you read their user agreement and privacy statement before providing us with any of your details. 
+If you complete [online surveys](https://www.rewardia.com.au/), your information may be transferred to our affiliates and partners who are independent entities. We therefore recommend that you read their user agreement and privacy statement before providing us with any of your details. 
 
 Several advertising networks are responsible for placing some of the advertising on this site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. General information about interest based advertising is available from the industry website www.youronlinechoices.com.au 
 
