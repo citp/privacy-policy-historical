@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dwolla.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630152249id_/https%3A//www.dwolla.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwolla.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120174506id_/https%3A//www.dwolla.com/legal/privacy) for the most accurate reproduction.*
 
-# Dwolla Privacy Policy | Dwolla
+# Dwolla Privacy Policy & Additional Information | Dwolla
 
 Dwolla, Inc. (“Dwolla”) is committed to protecting your privacy and earning your trust. This Privacy Policy discloses our privacy practices for personal information we collect when you use or access our products, services, features, or content through any website, application, or service (“Dwolla Services”), even if you have not opened a Dwolla account or visited our websites [www.dwolla.com](https://www.dwolla.com/ "Dwolla"), [www.dwollalabs.com](https://www.dwollalabs.com/ "Dwolla labs"), or our mobile application (“Dwolla Sites”). We may, in our sole discretion, change this Privacy Policy from time to time by posting a revised version at [www.dwolla.com/legal/privacy](https://www.dwolla.com/legal/privacy "Dwolla Privacy Policy"). If we make any material change, we will notify you by email (as listed in your account profile) or by means of a notice on [www.dwolla.com/legal/privacy](https://www.dwolla.com/legal/privacy "Dwolla privacy policy") prior to the change becoming effective.
 
