@@ -1,523 +1,402 @@
-> *The following text is extracted and transformed from the orient-express.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115212350id_/http%3A//www.orient-express.com/web/orex/security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orient-express.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120121507id_/https%3A//www.accorhotels.com/security-certificate/index.en.shtml) for the most accurate reproduction.*
 
-# Our Collection - Privacy Policy
+# Accor Hotels : GLOBAL HOTEL GUEST PRIVACY POLICY
 
-_Last Updated 11 November 2013_
+## 1\. THE ACCORHOTELS GROUP'S COMMITMENT TO PROTECTING PRIVACY
 
-Orient-Express Hotels Ltd./the Orient Express Group (see definitions below*) respects the privacy of every individual who visits our hotels, trains, cruises or other properties (“Properties”) or websites and protecting the privacy and personal data of our visitors is of the utmost importance to us. This policy establishes how we handle the information that (i) you provide to us when you stay or travel with us (or enquire to stay or travel with us); and (ii) we collect from you when you visit our websites.
+We consider you an important customer. Our first priority is to offer you exceptional stays and experiences throughout the world.
 
-You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information for certain purposes. We will make all practical efforts to respect your wishes (subject to any overriding legal obligations).
+**Your complete satisfaction and confidence in AccorHotels is absolutely essential to us.**
 
-In order to provide multiple access points to the services and products we offer, Orient-Express Hotels Ltd. operates directly, or through its affiliates or service providers, many websites, including:
+That's why, as part of our commitment to meeting your expectations, we have set up (and we had a privacy policy before the much anticipated GDPR - General Data Protection Regulation ;-)) a **customer personal data protection charter**. This charter formalizes our commitments to you and describes how the AccorHotels Group uses your personal data.
 
-www.21club.com, www.alouettebarge.com, www.amaryllisbarge.com, www.belliniclub.com, www.casadesierranevada.com, www.charlestonplace.com, www.copacabanapalace.com.br, www.eagleislandcamp.com, www.easternandorientalexpress.com, www.elencanto.com,www.fleurdelysbarge.com,www.governorsresidence.com,www.grandhoteleurope.com, www.grandhoteleurope.ru, www.grandhoteltimeo.com,www.hiram-bingham.com, www.hirondellebarge.com,www.hotel-du-palais.com, www.hotelcaruso.com,www.hotelcaruso.it, www.hotelcipriani.com,www.hotelcipriani.it,www.hoteldascataratas.com, www.hoteldascataratas.com.br, www.hotellaresidencia.com, www.hotel-laresidencia.com, www.hotellaresidencia.de, www.hotellaresidencia.es, www.hotelsplendido.com, www.hotelvillasantandrea.com,www.jimbaranpuribali.com,www.khwairiverlodge.com, www.lasamanna.com,www.sanctuarylodgehotel.com, www.manoir.com, www.maromahotel.com,www.maromahotel.com.mx, www.mesa18restaurant.com, www.mesa18restaurante.com, www.mesa18restaurante.com.pe, www.miraflorespark.com, www.mira-park.com, www.monasteriohotel.com, www.mountnelson.co.za, www.napasai.com, www.napoleonbarge.com, www.oeh.com, www.orcaella.com, www.orient-express-safaris.co.za, www.orient-express.cn, www.orient-express.co.jp, www.orient-express.ru, www.orient-express.com,www.orient-express.es, www.orient-express.fr, www.orient-expresshotels.com, www.orient-expresshotels.com.br, www.orient-expresshotelsltd.com, www.orient-expresstrains.com, www.palacionazarenas.com, www.palacionazarenas.com.pe, www.perrycabin.com, www.peru-tour.com, www.perurail.com, www.reidspalace.com, www.residencedangkor.com, www.residencephouvao.com, www.riosagrado.com, www.ritz.es, www.ritzmadrid.com,www.roadtomandalay.net, www.romanticgetaways.orient-express.com, www.royalscotsman.com, www.savuteelephantcamp.com, www.signatureboutique.com, www.villasanmichele.com, www.vsoe.com
+Top of page
 
-Any one of these websites may ask for and collect personally identifiable information in order to enhance your experience, provide you with relevant information and provide you with products or services.
+## 2\. SCOPE OF APPLICATION
 
-If you have any specific questions that are not covered in the FAQ section below, please contact:
+In this charter, “AccorHotels Group” means:
 
-Central Marketing
-
-Orient-Express Services Limited   
-1st Floor Shackleton House   
-4 Battle Bridge Lane   
-London   
-SE1 2HP
-
-+44 (0)20 3117 1300   
-email: privacy@orient-express.com
-
-The terms of this privacy policy may be changed by Orient-Express Hotels Ltd. from time to time. Changes will be displayed on www.orient-express.com and also on the various websites listed above. Any changes to this privacy policy will become effective upon posting of the revised policy. Use of the website following such changes constitutes your acceptance of the revised policy then in effect.
-
-*In the context of this Privacy Policy, Orient-Express Hotels Ltd. means Orient-Express Hotels Ltd. (based in Bermuda) (“OEHL”) and each of those companies where OEHL owns from time to time (directly or indirectly) at least 25% of the company and, in each case, (i) any assignees, transferees or replacements of any such companies from time to time and (ii) any properties, trains or cruises managed or operated from time to time by any such entities (collectively, the “Orient-Express Group”). References in this Policy to “we” “us” and “our” shall be construed accordingly.
-
-  * help us create content that is relevant to our visitors;
-  * make improvements to our websites and ensure that content on our websites is presented in the most effective manner for you and computer;
-  * provide you with information, products or services that you request from us or which we feel may interest you (including details of offers and upgrades);
-  * assess and help us understand general trends and patterns relating to our business;
-  * provide for the safety and security of our guests and visitors;
-  * manage general record keeping;
-  * enable us to compile anonymous, aggregated statistics that allow us to understand how users use our websites and to help us improve the structure of our websites;
-  * enable you to make reservations and payments (whether for stays, travel, gift certificates purchases or otherwise);
-  * enable you to make reservations and payments over the telephone (and make repeat reservations without you having to disclose your full details over and over again);
-  * meet any legal and/or regulatory requirements;
-  * provide the products or services you request from us; and
-  * improve our products and services and to ensure our products and services are of interest to you.
+  * Accor SA, the AccorHotels Group parent company, with registered offices at 82 rue Henri Farman, 92130 Issy-les-Moulineaux, France;
+  * Subsidiary or “family” companies of Accor SA involved in the hotel businesses of the AccorHotels Group; and
+  * hotels operated under one of the AccorHotels Group brands throughout the world (Raffles, Sofitel Legend, Fairmont, SO/, Sofitel, onefinestay, Rixos, MGallery, Pullman, Swissôtel, 25hours Hotels, Novotel, Mercure, Mama Shelter, Adagio, JO&JOE, ibis, ibis Styles, ibis budget, Grand Mercure, The Sebel and hotelF1). This list of brands is regularly updated and can be viewed on [accorhotels.com](https://www.accorhotels.com/).
 
 
 
-If you visit an Orient-Express Group website to read or download information, we may collect and store the following information that is automatically recognized, via cookies, where you have accepted them (either via positively clicking an “I accept” box when notified that we intend to place cookies or by continuing to use a website when notified that we intend to place cookies. The method by which we will seek your consent depends on your location). 
+**Good to know!**
 
-• Date and time;   
-• Originating IP address;   
-• Domain name;   
-• Type of browser and operating system used (if provided by the browser);   
-• URL of the referring page (if provided by the browser);   
-• Object requested;   
-• Completion status of the request;   
-• Geographic location;   
-• Language preferences. 
+You probably don't know this, but the hotel you are booked to stay in is probably not owned by Accor SA or one of its family of companies. Most AccorHotels branded hotels are operated under a franchise or management agreement between the hotel’s owner and Accor SA (or one of its subsidiaries across the world).
 
-In addition, at every touch point or interaction with you we may collect personal information where you disclose personal information to us. We will collect and process the personal information you provide to us in connection with the following: 
+This is why, when staying in one of these hotels, your personal data will be dealt with by Accor SA and the hotel, both acting as Data Controllers for their own, separate, purposes. In summary:
 
-• filling in a form on any of our websites;   
-• filling in a physical registration card;   
-• contacting us by telephone or face to face (e.g. in the context of making a reservation);   
-• sending us a letter;   
-• subscribing to receive a service from us (for example, a newsletter);   
-• requesting promotional (or other) information from us;   
-• participating in a survey, competition or prize draw;   
-• contributing content to us (for display on an Orient-Express Group blog, Travellers' Lounge site or similar).   
-We may collect and process the following personal information from you:   
-• your name, gender, home and work contact details, business title, email address, telephone number, date and place of birth, nationality, details of food allergies/dietary requirements, special requests made (for example, relating to a disability), passport and visa information, payment information, travel history and details of joint travellers;   
-• dates of stay/travel and amount of charges for stays/travels with us;   
-• purchase of products or services and products and services received;   
-• reviews and opinions about or brands, products and services (if they are identified or associated with you);   
-• the information we receive about you from any third parties you have booked your arrangements with us through (including but not limited to travel agents and tour operators);   
-• the information we receive about you from other members of the Orient-Express Group at which you have been a guest and information about those stays (which may include arrival/departure dates, goods and services purchased during those stays, food allergies, special requests made and room preferences and details of payments made to us); 
+  * Accor SA will process your data because it manages a central booking engine, which allows Accor SA to collect the data necessary to organise your stay in hotels under an AccorHotels brand and to communicate this data to the concerned hotels. Accor SA also manages a global database of clients who stay in hotels under an AccorHotels brand. With the help of its subsidiary PRO-FID SAS, Accor SA also manages the Le Club AccorHotels loyalty programme;
 
-We may also use closed circuit television and other security measures at our Properties that may capture or record images of guests and visitors in public areas. We may also collect additional personal information in connection with services provided at Properties, such as concierge services, health clubs, spas, activities, child care services and equipment rental (such services either being provided by us or a third party). We may also record meeting and event specifications, the date of the event, number of guests, details of the guest rooms/cabins, and, for corporate events, information on your organization.
 
-We do not generally collect “sensitive information” (e.g. information on racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) unless it is volunteered by you. We may use medical or other sensitive data provided by you exclusively within the Orient Express Group to serve you better and meet your needs. Such sensitive data is only shared with third party service providers (e.g. airlines and other transport providers) who need to know it for the purpose of performing your booking with us. By making such special requests or notifying us of such preferences, you agree to us sharing your data in this way.
+  * Each hotel will process your data to manage its contractual relationship with you (invoicing, payment, booking management etc.), to perform marketing activities and to comply with its legal obligations.
 
-We use cookies to gather information about the visitors to our websites (as they enable us to improve our websites and deliver a better and more personalised service).
 
-We do not associate the information in a website visitor’s cookie with any other personal information about that visitor.
 
-Further general information about cookies and how they work is available at www.allaboutcookies.org
+Accor SA has communicated the principles set out in this charter to all of the AccorHotels branded hotels and their respective owners. We will do our upmost to ensure that all hotels comply with the applicable data protection laws and this charter in relation to the processing of your personal data.
 
-Cookie Name   
-| Function   
+Top of page
+
+## 3\. AccorHotels' TEN PRINCIPLES FOR PROTECTING YOUR PERSONAL DATA
+
+In accordance with applicable regulations, in particular the European General Data Protection Regulation, we have instituted the following ten principles throughout the AccorHotels Group:
+
+  1. **Lawfulness:** We use personal data only if: 
+    * we obtain the **consent** of the person, OR
+    * it is necessary to do so for the **performance** of a contract to which the person is a party, OR
+    * it is necessary for **compliance** with a legal obligation, OR
+    * it is necessary in order to protect the **vital interests** of the person, OR
+    * we have a **legitimate interest** in using personal data and our usage does not adversely affect the persons’ rights
+  2. **Fairness:** We can explain why we need the personal data we collect.
+    * **Purpose limitation and data minimisation:** We only use personal data that we really need. If the result can be achieved with less personal data, then we make sure we use the minimum data required.
+  3. **Transparency:** We inform people about the way we use their personal data
+  4. We facilitate the exercise of the people’s **rights** : access to their personal data, rectification and erasure of their personal data and the right to object to the use of their personal data
+  5. **Storage limitation:** We retain personal data for a limited period
+    * We ensure the security of personal data, i.e. its **integrity and confidentiality**.
+    * If a **third party** uses personal data, we make sure it has the capacity to protect that personal data.
+  6. If personal data is transferred outside Europe, we ensure this **transfer** is covered by specific legal tools.
+  7. If personal data is compromised (lost, stolen, damaged, unavailable…), we notify such breaches to the respective country’s responsible authority and to the person concerned, if the **breach** is likely to cause a high-risk in respect of the rights and freedoms of this person.
+
+
+
+For any questions concerning the ten principles of AccorHotels data protection policies, please contact the Data Privacy department whose details appear in the clause **"Your rights"**.
+
+Top of page
+
+## 4\. WHAT PERSONAL DATA IS COLLECTED?
+
+At various times, we may collect information about you and/or the persons accompanying you, including the following:
+
+  * Contact details (for example, last name, first name, telephone number, email)
+  * Personal information (for example, date of birth, nationality)
+  * Information relating to your children (for example, first name, date of birth, age)
+  * Your credit card number (for transaction and reservation purposes)
+  * Information contained on a form of identification (such as ID card, passport or driver licence)
+  * Your membership number for the AccorHotels loyalty program or another partner program (for example, an airline loyalty programme) and information related to your activities within the context of the loyalty program
+  * Your arrival and departure dates
+  * Your preferences and interests (for example, smoking or non-smoking room, preferred floor, type of bedding, type of newspapers/magazines, sports, cultural interests, food and beverages preferences, etc.)
+  * Your questions/comments, during or following a stay in one of our AccorHotels branded establishments
+  * Technical and location data you generate as a result of using our websites and applications.
+
+
+
+The information collected in relation to persons under 16 years of age is limited to their name, nationality and date of birth, which can only be supplied to us by an adult. We would be grateful if you could ensure that your children do not send us any personal data without your consent (particularly via the Internet). If such data is sent, you can contact the Data Privacy department (see clause **"Your rights"** below) to arrange for this information to be deleted.
+
+In order to meet your requirements or provide you with a specific service (such as dietary requirements), we may have to collect sensitive information, such as information concerning race, ethnicity, political opinions, religious and philosophical beliefs, union membership, or details of health or sexual orientation. In this case, we will only process this data if you provide your express prior consent.
+
+Top of page
+
+## 5.WHEN IS YOUR PERSONAL DATA COLLECTED?
+
+Personal data may be collected on a variety of occasions, including:
+
+  1. Hotel activities: 
+    * Booking a room
+    * Checking-in and paying
+    * Hotel stays and services provided during a stay
+    * Eating/drinking at the hotel bar or restaurant during a stay
+    * Requests, complaints and/or disputes.
+  2. Participation in marketing programs or events: 
+    * Signing up for loyalty programs
+    * Participation in customer surveys (for example, the Guest Satisfaction Survey)
+    * Online games or competitions
+    * Subscription to newsletters, in order to receive offers and promotions via email.
+  3. Transmission of information from third parties: 
+    * Tour operators, travel agencies (online or not), GDS reservation systems and others
+  4. Internet activities: 
+    * Connection to AccorHotels websites (IP address, cookies in accordance with our [Policy about the use of tracers](https://www.accorhotels.com/security-certificate/cookies-policy.en.shtml))
+    * Online forms (online reservation, questionnaires, AccorHotels pages on social networks, social networks login devices such as Facebook login, conversations with chatbot, etc.).
+
+
+
+Top of page
+
+## 6\. WHAT PURPOSES IS YOUR DATA COLLECTED FOR AND HOW LONG DO WE RETAIN IT?
+
+The table below sets out why we process your data, the lawful basis for the processing and the associated retention period:
+
+**Purpose/Activity**
+
+| 
+
+**Lawful basis for processing including basis of legitimate interest**
+
+| 
+
+**Retention period**  
   
----|---  
-ARPT   
-| Ensures that the user stays on the same server throughout their visit, ensuring consistent functionality throughout a visit. This cookie is destroyed at the end of the user’s visit   
+---|---|---  
   
-JSESSIONID   
-| Ensures that the user’s session is maintained and works in conjunction with ARRPT to ensure consistent functionality throughout a visit. This cookie is destroyed at the end of the user’s visit   
+Meeting our obligations to our customers.
+
+| 
+
+Performance of a contract with you.
+
+Necessary to comply with a legal obligation.
+
+Necessary for our legitimate interest in running our business and providing you with requested products and services.
+
+| 
+
+10 years from the booking in accordance with legal obligations.  
   
-sifrFetch   
-| Allows use of flash to improve display of text (if the user's browser supports it). This cookie is destroyed at the end of the user’s visit   
+Managing the reservation of rooms and accommodation requests, in particular the creation and storage of legal documents in compliance with accounting standards.  
   
-user_countrycode   
-lounge_user_countrycode   
-user_lang_pref | These three cookies allow us to keep track of the users' geographic location and language preferences in order to display them relevant targeted and localised content as applicable.   
+Managing your stay at the hotel:
+
+  * Managing access to rooms
+  * Monitoring your use of services (telephone, bar, pay TV etc.)
+
+| 
+
+Performance of a contract with you.
+
+Necessary for our legitimate interest in running our business and providing you with requested products and services.
+
+| 
+
+For the duration of your stay.  
   
-user_campaign   
-user_creative   
-user_placement   
-internal_user_campaign   
-internal_user_creative   
-internal_user_placement | These cookies allow us to identify which of our marketing campaigns or internal promotions a user has been directed from/measure the effectiveness of campaigns/promotions.   
+Managing our relationship with customers before, during and after your stay:
+
+  * Managing the loyalty program
+  * Inputting details into the customer database
+  * Segmentation analysis based on reservation history and customer travel preferences with a view to sending targeted communications, subject to the requirements of the EU ePrivacy directive (2002/58/EC as amended in 2009)
+  * Predicting and anticipating future customer behaviors
+  * Developing statistics, commercial scores and carrying out reporting of the same
+  * Providing context data for our marketing tools. This happens when a customer visits a Group website or makes a reservation
+  * Understanding and managing the preferences of new or repeat customers
+  * Sending customers newsletters, promotions, tourist, hotel or service offers, offers from Accor SA or its commercial partners, or contacting you by telephone subject to the requirements of the EU ePrivacy directive (2002/58/EG as amended in 2009)
+
+| 
+
+Performance of our contract with you and for the management of your membership in the loyalty program.
+
+Necessary for our legitimate interests in promoting our services, performing direct marketing activities (taking into account your commercial relationship with one of the AccorHotels Group’s entities) and improving our services.
+
+| 
+
+3 years from the last date on which you have interacted with us in any way, if you are not a member of the loyalty programme.
+
+6 years from the last date on which you have interacted with us in any way, if you are a member of the loyalty programme.  
   
-user_id   
-lounge_user_id | These cookies allow us to identify the user and customise their experience. They also allow us to pre-populate fields in tables with your data, assisting with form entry.   
+Improving our hotel service by:
+
+  * Personalising your check-in, improving the quality of service and customer experience
+  * Processing your personal data through our customer marketing program in order to carry out marketing operations, promote brands and gain a better understanding of your requirements and wishes
+  * Adapting our products and services to better meet your requirements
+  * Customising the commercial offers and promotional messages we send you
+  * Informing you of special offers and any new services created by Accor SA or one of its subsidiaries or commercial partners.
+
+| 
+
+Performance of contract with you in relation to the management of your membership in the loyalty program.
+
+Necessary for our legitimate interests in promoting our services, performing direct marketing activities (taking into account your commercial relationship with AccorHotels Group) and improving our services.
+
+| 
+
+3 years from the last date on which you have interacted with us in any way, if you are not a member of the loyalty program.
+
+6 years from the last date on which you have interacted with us in any way, if you are a member of the loyalty program.  
   
+Use a trusted third party to cross-check, analyse and combine your collected data at the time of booking or at the time of your stay, in order to determine your interests and develop your customer profile and to allow us to send you personalized offers.
+
+| 
+
+Necessary for our legitimate interests in promoting our services, performing direct marketing activities (taking into account your commercial relationship with one of the AccorHotels Group’s entities)) and improving our services.
+
+| 
+
+3 years from the last date on which you have interacted with us in any way, if you are not a member of the loyalty program.
+
+6 years from the last date on which you have interacted with us in any way, if you are a member of the loyalty program.  
   
-In addition, the following are the third party cookies in use, where you have accepted their use (which are each subject to their own privacy and cookie policies): 
+Improving Accor SA services, in particular:
 
-**Third Party Cookie**  
-|  **Function**  
+  * Carrying out surveys and analyses of questionnaires and customer comments
+  * Managing claims/complaints
+  * Offering you the benefits of our loyalty program.
+
+| 
+
+Performance of contract with you (for the management of your membership in the loyalty program)
+
+Necessary for our legitimate interests in promoting our services, performing direct marketing activities (taking into account your commercial relationship with one of the AccorHotels Group’s entities)) and improving our services.
+
+| 
+
+3 years from the last date on which you have interacted with us in any way, if you are not a member of the loyalty program.
+
+6 years from the last date on which you have interacted with us in any way, if you are a member of the loyalty program.
+
+6 years from the date of closure of your file in case of a claim or a complaint.  
   
----|---  
-Google Analytics   
-| Monitors usage of site (using non-personally identifiable data). Privacy policy available at [www.google.com/intl/en/analytics/privacyoverview.html](http://www.google.com/intl/en/analytics/privacyoverview.html)You can opt-out of Google's use of cookies by visiting the[Ads Preferences Manager](http://www.google.com/settings/ads/onweb), or through the[Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/)  
-Facebook Like Button   
-| Allows users to choose to show our websites on their Facebook site. Privacy policy available at [www.facebook.com/about/privacy/](http://www.facebook.com/about/privacy/)  
+Securing and enhancing your use of Accor SA websites, applications and services by:
+
+  * Improving navigation;
+  * Maintenance and support; and
+  * Implementing security and fraud prevention.
+
+| 
+
+Necessary for our legitimate interests in running our business, provision of administration and IT services and network security to prevent fraud
+
+| 
+
+13 months from the collection of the information.  
   
-Google +1 Button   
-| Allows users to choose to show our websites on their Google + account. Privacy policy available at [www.google.com/intl/en/+/policy/+1button.html](http://www.google.com/intl/en/+/policy/+1button.html)  
-DoubleClick Advertising   
-and Google Adwords | Allows us to monitor (using non-personally identifiable data) the number and type of relevant searches made for it on Google. Privacy policy available at [www.google.com/intl/en/privacy/ads/](http://www.google.com/intl/en/privacy/ads/)  
+Internal management of lists of customers having behaved inappropriately during their stay at the hotel (aggressive and anti-social behaviour, non-compliance with safety regulations, theft, damage and vandalism or payment incidents).
+
+| 
+
+Necessary for our legitimate interests in running our business and to prevent fraud and the abuse of our property and staff.
+
+| 
+
+Up to 122 days from the recording of an event.  
   
-Yahoo Advertising and Campaign Tags   
-| Allows us to monitor (using non-personally identifiable data) the number and type of relevant searches made for it on Yahoo. Privacy policy available at [info.yahoo.com/privacy/us/yahoo/details.html](http://info.yahoo.com/privacy/us/yahoo/details.html)  
+Securing payments by determining the associated level of fraud risk. As part of this analysis, Accor SA and hotels may use the AccorHotels Group risk prevention service provider to refine their analysis.
+
+Depending on the results of the investigations carried out, AccorHotels Group may take security measures, in particular AccorHotels Group may request the use of a different booking channel or for the use of an alternative payment method. These measures will have the effect of suspending the execution of the booking or, if the result of the analysis does not guarantee the safety of the order, of cancelling it. Fraudulent use of a means of payment leading to payment default may result in the entry of data in the AccorHotels Group incident file, which may lead AccorHotels Group to block future payments or carry out additional checks.
+
+| 
+
+Necessary for our legitimate interests in running our business and to prevent fraud.
+
+| 
+
+90 days to our database to allow for analysis and controls and then 2 years in a separated database used for improving the system.
+
+In case of recording in the incident file, 2 years from recording or until regularization of the situation if earlier.  
   
-Yandex   
-| Allows users to search for our websites in the Russian language. Privacy policy available at [company.yandex.ru/legal/en/confidential/](http://company.yandex.ru/legal/en/confidential/)  
+Securing properties and persons and preventing non-payments.
+
+For these reasons, some hotels have a feature that allow them to include in the category of "ineffective" customers, any customer whose behaviour has been inappropriate in the following ways: aggression and rudeness, non-compliance with the hotel contract, failure to observe safety rules, theft, damage and vandalism, or payment issues. The status of “ineffective” may cause the hotel where this listing originated to refuse a customer's reservation when he/she returns to the same hotel.
+
+| 
+
+Necessary for our legitimate interests in running our business, securing properties and persons and preventing non-payments.
+
+| 
+
+122 days from registration.  
   
-Quantcast   
-| Enables the direct-measurement of traffic and audience characteristics, using non-personally identifiable data. Privacy policy available at <http://www.quantcast.com/privacy>  
+Using services to search for persons staying in AccorHotels Group hotels in the event of serious events affecting the hotel in question (natural disasters, terrorist attacks, etc.).
+
+| 
+
+Protection of the vital interests of the guests.
+
+| 
+
+For the duration of the event.  
   
-Google Remarketing Tags   
-| The Orient-Express Group are using 'Remarketing' to advertise online. This means that third-party vendors, including Google, will show ads on sites across the Internet. Google will use cookies to serve ads based on past visits to this website. You can opt-out of Google's use of cookies by visiting the [Ads Preferences Manager](http://www.google.com/settings/ads/onweb), or through the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/choices/).  
-ShareThis   
-| We use ShareThis to provide buttons on all pages to help you share our content. ShareThis also makes use of Scorecard Research tracking which set the UID and UIDR cookies. For more information on how to opt-out of these cookies view [the ShareThis privacy policy](http://sharethis.com/privacy#sthash.HaGyiP2m.dpbs).  
-Scorecard Research Tracking   
-| ShareThis also makes use of Scorecard Research tracking which set the UID and UIDR cookies. [Control your preferences or opt-out of Scorecard Research](http://www.scorecardresearch.com/preferences.aspx).  
-MediaPlex   
-| Enables the direct measurement of traffic and audience characteristics. Privacy policy available at [mediaplex.com/legal/mojo-privacy-statement.](http://www.mediaplex.com/legal/mojo-privacy-statement.)  
+Conforming to any applicable legislation (for example, storing of accounting documents), including:
+
+  * Managing requests to unsubscribe from newsletters, promotions, tourist offers and satisfaction surveys
+  * Managing data subject’s requests regarding their personal data.
+
+| 
+
+Necessary to comply with a legal obligation.
+
+| 
+
+As stipulated in the respective country’s legislation.  
   
-We do not control the use of such third party technology and we are not responsible for any actions or policies of such third parties.
+Top of page
 
-When you access our websites you will receive a clear notice advising you that the website you are visiting intends to use cookies and that:
+## 7\. CONDITIONS OF THIRD-PARTY ACCESS TO YOUR PERSONAL DATA
 
-(i) by continuing to use the website you consent to their use; or
+The AccorHotels Group operates in many countries and we endeavour to provide you with the same services throughout the world. Thus, we have to share your personal data with internal and external recipients subject to the following conditions:
 
-(ii) you must click an “I accept” box in order for cookies to be placed.
+  1. **We share your data with a number of authorised people and departments in the AccorHotels Group in order to offer you the best experience in our hotels. The following teams may have access to your data:**
+    * Hotel staff
+    * Reservation staff using AccorHotels reservation tools
+    * IT departments
+    * Commercial partners and marketing services
+    * Medical services if applicable
+    * Legal services if applicable
+    * Generally, any appropriate person within AccorHotels Group entities for certain specific categories of personal data.
 
-If you prefer not to receive cookies through our websites:
+**In particular, the data related to your stays, preferences, satisfaction and, if the case may be, your loyalty program membership are shared between the hotels operating under the AccorHotels Group brands. This data is used to improve the quality of service and your experience in each of these hotels. In this context, your data is processed jointly by Accor SA and these hotels. In order to pursue this legitimate interest, whilst safeguarding your rights and liberties, a specific joint controllership agreement describes the obligations and responsibilities of Accor SA and these hotels. You may, at any time, object to the sharing of this data between the hotels and Accor SA by contacting the Data Privacy department whose details appear in the clause"Your rights". You can also request a summary of the key points of the joint controllership agreement.**
 
-(iii) you can set your browser to either reject all cookies (see below), to allow only “trusted” websites to set them, or to accept only those cookies from those sites you are currently on; or
+  2. **With service providers and partners:** your personal data may be sent to a third party for the purposes of supplying you with services and improving your stay, for example:
+    * External service providers: IT sub-contractors, international call centres, banks, credit card issuers, external lawyers, dispatchers, printers.
+    * Commercial partners: Accor SA may, unless you specify otherwise to the Data Privacy department, enhance your profile by sharing certain personal information with its preferred commercial partners. In this case, a trusted third party may cross-check, analyse and combine your data. This data processing will allow Accor SA and its privileged contractual partners to determine your interests and customer profile to allow us to send you personalized offers.
+    * Social networking sites: In order to allow you to be identified on the AccorHotels website without the need to fill out a registration form, Accor SA has put in place a social network login system. If you log in using the social network login system, you explicitly authorize Accor SA to access and store the public data on your social network account (e.g. Facebook, LinkedIn, Google, Instagram…), as well as other data stated during use of such social network login system. Accor SA may also communicate your email address to social networks in order to identify whether you are already a user of the concerned social network and in order to post personalized, relevant adverts on your social network account if appropriate.
+  3. **With local authorities:** We may be obliged to send your information to local authorities if this is required by law or as part of an inquiry. We will ensure that any such transfer is carried out in accordance with local regulations.
 
-(iv) you could refuse to click the “I accept” box when you are presented with a cookie notice on our homepage stating that cookies are in use (if you are presented with this option – this depends on your location).
 
-Unless you have adjusted your browser setting so that it will refuse cookies from our websites, our system will issue cookies, as described above, when you log on to any of our websites and continue to use them.
 
-Furthermore, in some locations you must actively click “I accept” when you are presented with a cookie notice on our homepage before cookies will be placed.
+Top of page
 
-We may disclose or share your personal information within the Orient-Express Group and, in the following circumstances, with third parties: 
+## 8\. PROTECTION OF YOUR PERSONAL DATA DURING INTERNATIONAL TRANSFERS
 
-• where we outsource certain functions of our business to third parties such as agents, service providers and/or suppliers who may, for example, assist us in providing a product or service to you, providing marketing services, reservation services, with quality assurance or with the hosting of databases. Such third parties may have access to your personal information;   
-• if we are under a duty to disclose or share your information in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use or to protect (i) the rights or property and/or (ii) the personal safety of (in each case) us, our staff, guests and visitors;   
-• to meet any legal and/or regulatory requirements and/or to respond to governmental enquiries or requests from public authorities;   
-• to permit us to pursue available remedies or limit the damages that we may sustain;   
-• to respond to an emergency;   
-• in the event that we sell (or propose to sell) any Property, business or assets, we may disclose your information to the prospective buyer. 
+For the purposes set out in clause 6 of this charter, we may transfer your personal data to internal or external recipients who may be in countries offering different levels of personal data protection.
 
-We may use your information to contact you about Orient Express Group goods and services that may be of interest to you. For more about marketing, including how you can opt out of your personal information being used for marketing purposes, please see Q8 (Can I see or update the personal information you hold about me?).
+Consequently, in addition to implementation of this charter, AccorHotels employs appropriate measures to ensure secure transfer of your personal data to an AccorHotels entity or to an external recipient located in a country offering a different level of privacy from that in the country where the personal data was collected.
 
-We will not disclose your information to unaffiliated third parties for marketing purposes unless you have consented to us doing so at the time your personal information was collected or you subsequently consent to this.
+Your data may be sent, in particular as part of the reservation process, to AccorHotels hotels located outside of the European Union, in particular in the following countries: South Africa, Algeria, Andorra, Angola, Saudi Arabia, Argentina, Australia, Bahrain, Benin, Brazil, Cambodia, Cameroon, Canada, Chile, China, Colombia, South Korea, Ivory Coast, Cuba, Egypt, United Arab Emirates, Ecuador, United States of America, Fiji, Ghana, Guatemala, Equatorial Guinea, India, Indonesia, Israel, Japan, Jordan, Kuwait, Laos, Lebanon, Madagascar, Malaysia, Morocco, Mauritius, Mexico, Monaco, Myanmar, Nigeria, New Zealand, Oman, Uzbekistan, Panama, Paraguay, Peru, Philippines, Qatar, Democratic Republic of Congo, Dominican Republic, Russia, Senegal, Singapore, Switzerland, Chad, Thailand, Togo, Tunisia, Turkmenistan, Turkey, Ukraine, Uruguay, Vietnam, Yemen, Taiwan, Hong Kong, Macao, Dubai.
 
-Back to top
+Other than those that are required to carry out your reservation, data transfers to countries having different levels of personal data protection, are regulated by standard contractual clauses defined by the European Commission. Data transfers to the United States may also be made to entities that belong to the US-Privacy Shield.
 
-Q.7 Your California Privacy Rights
+Top of page
 
-For California residents only. We may disclose your personal information to our affiliates or other related third parties for their use in marketing to you. Pursuant to California's "Shine the Light Act", California residents are permitted to request information about the manner in which we share certain categories of information with third parties for their marketing use. Please email us at data@orient-express.com to request a copy of our disclosure pursuant to California law. We will provide the required information to your email address in response. Please be aware that not all information sharing is covered by the "Shine the Light" requirements and only information on covered sharing will be included in our response. 
+## 9\. DATA SECURITY
 
-Back to top
+Accor SA takes appropriate technical and organizational measures, in accordance with applicable legal provisions (in particular: Art. 32 GDPR), to protect your personal data against illicit or accidental destruction, alteration or loss misuse and unauthorized access, modification or disclosure. To this end, we have taken technical measures (such as firewalls) and organizational measures (such as a user ID/password system, means of physical protection etc.) to ensure the ongoing confidentiality, integrity, availability and resilience of processing systems and services. In relation to the submission of credit card data when making a reservation, SSL (Secure Socket Layer) encryption technology is used to guarantee a secure transaction. Organizational measures ensure the security of the processing.
 
-Q.8 Can I see or update the personal information you hold about me?
+Top of page
 
-A. You can ask us whether we are keeping personal information about you and you can ask to receive a copy of that personal information.
+## 10\. COOKIES
 
-Before sending you any personal data, we will ask you to provide proof of your identity. If you are not able to provide proof of your identity, we reserve the right to refuse to send you any personal data.
+Accor SA uses cookies or other tracers on its websites. To learn more about the way AccorHotels uses tracers and to configure them, please consult our [Policy about the use of tracers](https://www.accorhotels.com/security-certificate/cookies-policy.en.shtml).
 
-We will respond as quickly as we can to your requests for details of personal information we hold about you.
+Top of page
 
-To contact us with any questions, comments, corrections, requests regarding this Policy or to exercise your right at any time to update, delete or access the information we hold about you, please contact us at:
+## 11\. YOUR RIGHTS
 
-Central Marketing   
-Orient-Express Services Limited   
-1st Floor Shackleton House   
-4 Battle Bridge Lane   
-London   
-SE1 2HP
+You have the right to obtain information about and access your personal data collected by Accor SA, subject to applicable legal provisions. Also you have the right to have your personal data rectified, erased or have the processing of it restricted. Furthermore you have the right to data portability and to issue instructions on how your data is to be treated after your death (hopefully as late as possible!). You can also object to the processing of your personal data, in particular to the sharing of the data related to your stays, preferences and satisfaction between the hotels operating under the AccorHotels Group brands.
 
-+44 (0)20 3117 1300   
-email: privacy@orient-express.com 
+In the event that you wish to exercise any of your above rights, please contact the Data Privacy department for the AccorHotels Group directly by sending an email to [data.privacy@accor.com](mailto:data.privacy@Accor.com) or by writing to the address below:
 
-You have the right to ask the Orient Express Group not to process your personal information for marketing purposes (i) by checking the applicable box(es) on any form we may use to collect information from individuals, or (ii) by clicking the unsubscribe link displayed in any of our marketing e-mails, or (iii) by otherwise requesting that we do not process your personal information for marketing purposes, or (iv) via the Orient-Express Hotels Ltd. on-line e-mail preference centre.
+**_Accor  _**
 
-Please note that if you opt out as described above, we will not be able to remove your personal information from the databases of third parties with whom we have already shared your personal information, with your consent. You should contact such third parties to opt out directly.
+**_Département Protection des Données Personnelles  (Data Privacy Department)_**
 
-Back to top
+_82, rue Henri Farman -_ _ACC 1208_
 
-Q.9 Where do you transfer, process and store information about me?
+_CS 20077_
 
-A. The information that we collect from you may be transferred to and stored in Canada, the USA or another destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our carefully selected agents, service providers or suppliers. Such staff and/or third parties may be engaged in, amongst other things, the fulfillment of your order or in providing a service to you, the processing of your payment details, the provision of support services and/or the provision of marketing services.
+_92445 Issy-les-Moulineaux - FRANCE_
 
-By submitting your information to us, you agree to this transfer, storing and processing. Orient-Express Hotels Ltd. will take all commercially reasonable steps necessary to ensure that your information is treated securely and in accordance with this Policy.
+For the purposes of confidentiality and personal data protection, we will need to check your identity in order to respond to your request. In case of reasonable doubts concerning your identity you may be asked to include a copy of an official piece of identification, such as an ID card or passport, along with your request. A black and white copy of the relevant page of your identity document is sufficient.
 
-Back to top
+All requests will receive a response as swiftly as possible.
 
-Q.10 How long is personal information kept for?
+You may also exercise your rights in respect of your personal data that is stored and processed by a hotel as a data controller. To do this, you must contact the hotel directly. You will find all necessary information to contact a hotel on [www.accorhotels.com](https://www.accorhotels.com/). If you need any assistance, please contact AccorHotels Data Privacy Department by writing to [data.privacy@accor.com](mailto:data.privacy@Accor.com) or to the above postal address.
 
-A. Orient-Express Hotels Ltd. holds information for as long as we believe it will help us to achieve our aims of understanding how we can better serve you. Subject to any legislation which might, from time to time, oblige us to store the information for a certain period of time, we will respect your wishes to correct inaccurate information or delete information. 
+You also have the right to lodge a complaint with a [data protection authority](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). For your information,
 
-Back to top
+You can contact AccorHotels data protection officer by writing to accorhotels.dpo(at)accor.com or to the above postal address.
 
-Q.11 What security arrangements are in place to protect my personal information?
+If you are in Australia or New Zealand and have a complaint about how we collect, hold, use or disclose your personal data, you can also contact [privacy.au@accor.com](mailto:privacy.au@accor.com).
 
-A. We intend to protect the quality and integrity of your personal information. The Orient-Express Group stores personal information in a secure environment protected by a combination of physical and technical measures. We will continue to enhance our security procedures, as new technology becomes available. There is no general public access to a visitor’s personal information.
+Top of page
 
-The personal information you give to us when making a payment on-line to us is encrypted before you conduct your transaction, using appropriate secure technology. However please note that: 
+## 12\. UPDATES
 
-• transmission of information via the internet is not completely secure and although we will endeavour to protect your information, we cannot guarantee the security of the personal information transmitted to one of our websites. Any transmission is, therefore, at your own risk. Once we have received your personal information, we will use procedures and security features to try to prevent unauthorised access.   
-• you are responsible for keeping any password you have to access certain parts of any of our websites confidential and we ask that you not to share a password with anyone. 
+We may modify this charter from time to time. Consequently, we recommend that you consult it regularly, particularly when making a reservation at one of our hotels.
 
-For your own protection, we encourage you not to include sensitive personal information, credit card or similar data in any emails you send to us. We will not contact you by text message or email to ask for sensitive personal information, credit card or similar data. If you receive this type of request, you should not respond to it.
+Top of page
 
-Back to top
+## 13\. QUESTIONS AND CONTACTS
 
-Q.12 Do you have a policy for protecting the privacy of children using your websites? 
+For any questions concerning the AccorHotels Group's personal data protection policy, please contact the Data Privacy department (See clause **"Your rights"** ).
 
-A. We require our customers to be aged 18 years or over. Orient-Express Group websites are not aimed at persons under the age of 18. We do not request any information from persons under the age of 18 and do not knowingly collect or maintain information from those visitors to our websites who we actually know are under the age of 18. 
-
-Back to top
-
-Q.13 Do Orient-Express Hotels Ltd. Websites link to Other Websites?
-
-Our websites may, from time to time, contain links to and from the websites of our partner networks, advertisers, social media sites and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and terms of use and that we do not accept any responsibility or liability for these policies or terms of use. Please check these policies and terms of use before you submit any personal information to these websites. 
-
-Back to top
-
-Q.14 What additional privacy provisions apply to visitors to Hotel Ritz Madrid and its websites?
-
-A. For www.ritzmadrid.com and www.ritz.es, in addition to the Orient-Express Group Privacy Policy, please note that for the purposes of the Spanish Data Protection Act (LO 15/1999 of 13 December), personal information gained from visitors to those websites is provided to:
-
-Hotel Ritz Madrid S.A.   
-Plaza de la Lealtad   
-5-28014 Madrid   
-CIF A28011286   
-e-mail: lopd@ritz.es
-
- **A Informativa ai sensi dell’art. 13. D.Lgs. 196/2003 (Codice Privacy di seguito denominato T.U.)**  
-In relazione ai dati personali di cui si entrerà in possesso con la compilazione del form (iscrizione alla newsletter o richiesta di prenotazioni) presente sul sito www.hotelcipriani.it, Vi informiamo di quanto segue:   
-**1\. Finalità del trattamento dei dati.** Il trattamento è finalizzato unicamente per la prenotazione riguardante una Vs. richiesta, o per il per il ricevimento della nostra newsletter (promozioni, eventi, etc.).   
-**2\. Modalità di trattamento dei dati**. a) Il trattamento è realizzato per mezzo delle operazioni o complesso di operazioni indicate   
-all’art. 4 comma 1 lett. a) T.U.: raccolta, registrazione, organizzazione, conservazione, consultazione, elaborazione, modificazione,   
-selezione, estrazione, raffronto, utilizzo, interconnessione, blocco, comunicazione, cancellazione e distruzione dei dati. b) Le   
-operazioni possono essere svolte con o senza l’ausilio di strumenti elettronici o comunque automatizzati. c) Il trattamento è svolto   
-dal titolare e/o dagli incaricati del trattamento.   
-**3\. Conferimento dei dati.** Il conferimento dei dati personali comuni è obbligatorio, mentre eventuali dati sensibili (a titolo   
-esemplificativo e non esaustivo: stati di salute, convinzioni religiose e opinioni politiche) saranno immediatamente cancellati in   
-mancanza di una dichiarazione scritta di consenso dell’interessato al loro trattamento.   
-**4\. Rifiuto di conferimento dei dati.** L’eventuale rifiuto da parte dell’interessato di conferire dati personali comuni nel caso in cui al punto 3 comporta l’impossibilità di adempiere all’attività di informazione di cui al punto 1.   
-**5\. Comunicazione dei dati.** I dati personali possono venire a conoscenza degli incaricati del trattamento e possono essere   
-comunicati per le finalità di cui al punto 1 a collaboratori esterni e, in genere, a tutti quei soggetti pubblici e privati cui la   
-comunicazione sia necessaria per il corretto adempimento delle finalità indicate nel punto 1.   
-**6\. Diffusione dei dati.** I dati personali non sono soggetti a diffusione.   
-**7\. Trasferimento dei dati all’estero**. I dati personali possono essere trasferiti verso Paesi dell’Unione Europea e verso Paesi terzi   
-rispetto all’Unione Europea nell’ambito delle finalità di cui al punto 1 (se necessario).   
-**8\. Diritti dell’interessato**. L’art. 7 T.U. conferisce all’interessato l’esercizio di specifici diritti, da esercitarsi secondo le modalità di   
-cui all’art. 8 T.U., tra cui quello di ottenere dal titolare la conferma dell’esistenza o meno dei propri dati personali e la loro messa a   
-disposizione in forma intelligibile; l’interessato ha diritto di avere conoscenza dell’origine dei dati, della finalità e delle modalità del   
-trattamento, della logica applicata al trattamento, degli estremi identificativi del titolare e dei soggetti i cui dati possono essere   
-comunicati; l’interessato ha inoltre diritto di ottenere l’aggiornamento, la rettificazione e l’integrazione dei dati, la cancellazione,   
-la trasformazione in forma anonima o il blocco dei dati trattati in violazione della legge; l’interessato ha il diritto di opporsi, per   
-motivi legittimi, al trattamento dei dati ancorché pertinenti allo scopo della raccolta, nonché opporsi al trattamento dei dati ai fini   
-dell’invio di materiale pubblicitario, di vendita diretta, di ricerche di mercato o di comunicazione commerciale.   
-**9\. Titolare del trattamento** Titolare del trattamento, è Hotel Cipriani S.r.l., con sede in Isola Giudecca 10, 30123 Venezia   
-(Ve)   
-**10\. Responsabile del trattamento.** Responsabile del trattamento è il Sig. Giampaolo Ottazzi 
-
-Back to top  
-  
-
-
-Q.16 What additional privacy provisions apply to visitors to Hotel Splendido and Splendido Mare and their websites?
-
- **A Informativa ai sensi dell’art. 13. D.Lgs. 196/2003 (Codice Privacy di seguito denominato T.U.)**  
-In relazione ai dati personali di cui si entrerà in possesso con la compilazione del form (iscrizione alla newsletter o richiesta di prenotazioni) presente sul sito www.hotelsplendido.com, Vi informiamo di quanto segue:   
-**1\. Finalità del trattamento dei dati.** Il trattamento è finalizzato unicamente per la prenotazione riguardante una Vs. richiesta, o per il per il ricevimento della nostra newsletter (promozioni, eventi, etc.).   
-**2\. Modalità di trattamento dei dati**. a) Il trattamento è realizzato per mezzo delle operazioni o complesso di operazioni indicate   
-all’art. 4 comma 1 lett. a) T.U.: raccolta, registrazione, organizzazione, conservazione, consultazione, elaborazione, modificazione,   
-selezione, estrazione, raffronto, utilizzo, interconnessione, blocco, comunicazione, cancellazione e distruzione dei dati. b) Le   
-operazioni possono essere svolte con o senza l’ausilio di strumenti elettronici o comunque automatizzati. c) Il trattamento è svolto   
-dal titolare e/o dagli incaricati del trattamento.   
-**3\. Conferimento dei dati.** Il conferimento dei dati personali comuni è obbligatorio, mentre eventuali dati sensibili (a titolo   
-esemplificativo e non esaustivo: stati di salute, convinzioni religiose e opinioni politiche) saranno immediatamente cancellati in   
-mancanza di una dichiarazione scritta di consenso dell’interessato al loro trattamento.   
-**4\. Rifiuto di conferimento dei dati.** L’eventuale rifiuto da parte dell’interessato di conferire dati personali comuni nel caso in cui al punto 3 comporta l’impossibilità di adempiere all’attività di informazione di cui al punto 1.   
-**5\. Comunicazione dei dati.** I dati personali possono venire a conoscenza degli incaricati del trattamento e possono essere   
-comunicati per le finalità di cui al punto 1 a collaboratori esterni e, in genere, a tutti quei soggetti pubblici e privati cui la   
-comunicazione sia necessaria per il corretto adempimento delle finalità indicate nel punto 1.   
-**6\. Diffusione dei dati.** I dati personali non sono soggetti a diffusione.   
-**7\. Trasferimento dei dati all’estero.** I dati personali possono essere trasferiti verso Paesi dell’Unione Europea e verso Paesi terzi   
-rispetto all’Unione Europea nell’ambito delle finalità di cui al punto 1 (se necessario).   
-**8\. Diritti dell’interessato.** L’art. 7 T.U. conferisce all’interessato l’esercizio di specifici diritti, da esercitarsi secondo le modalità di   
-cui all’art. 8 T.U., tra cui quello di ottenere dal titolare la conferma dell’esistenza o meno dei propri dati personali e la loro messa a   
-disposizione in forma intelligibile; l’interessato ha diritto di avere conoscenza dell’origine dei dati, della finalità e delle modalità del   
-trattamento, della logica applicata al trattamento, degli estremi identificativi del titolare e dei soggetti i cui dati possono essere   
-comunicati; l’interessato ha inoltre diritto di ottenere l’aggiornamento, la rettificazione e l’integrazione dei dati, la cancellazione,   
-la trasformazione in forma anonima o il blocco dei dati trattati in violazione della legge; l’interessato ha il diritto di opporsi, per   
-motivi legittimi, al trattamento dei dati ancorché pertinenti allo scopo della raccolta, nonché opporsi al trattamento dei dati ai fini   
-dell’invio di materiale pubblicitario, di vendita diretta, di ricerche di mercato o di comunicazione commerciale.   
-**9\. Titolare del trattamento** Titolare del trattamento, è Hotel Splendido & Splendido Mare Srl., con sede in Salita Baratta 16, 16034 Portofino (GE)   
-**10\. Responsabile del trattamento**. Responsabile del trattamento è il Sig. Ermes De Megni 
-
-Back to top
-
-Q.17 What additional privacy provisions apply to visitors to Villa San Michele and its website?
-
- **A Informativa ai sensi dell’art. 13. D.Lgs. 196/2003 (Codice Privacy di seguito denominato T.U.)**  
-In relazione ai dati personali di cui si entrerà in possesso con la compilazione del form (iscrizione alla newsletter o richiesta di prenotazioni) presente sul sito www.villasanmichele.com, Vi informiamo di quanto segue:   
-**1\. Finalità del trattamento dei dati.** Il trattamento è finalizzato unicamente per la prenotazione riguardante una Vs. richiesta, o per il per il ricevimento della nostra newsletter (promozioni, eventi, etc.).   
-**2\. Modalità di trattamento dei dati.** a) Il trattamento è realizzato per mezzo delle operazioni o complesso di operazioni indicate   
-all’art. 4 comma 1 lett. a) T.U.: raccolta, registrazione, organizzazione, conservazione, consultazione, elaborazione, modificazione,   
-selezione, estrazione, raffronto, utilizzo, interconnessione, blocco, comunicazione, cancellazione e distruzione dei dati. b) Le   
-operazioni possono essere svolte con o senza l’ausilio di strumenti elettronici o comunque automatizzati. c) Il trattamento è svolto   
-dal titolare e/o dagli incaricati del trattamento.   
-**3\. Conferimento dei dati.** Il conferimento dei dati personali comuni è obbligatorio, mentre eventuali dati sensibili (a titolo   
-esemplificativo e non esaustivo: stati di salute, convinzioni religiose e opinioni politiche) saranno immediatamente cancellati in   
-mancanza di una dichiarazione scritta di consenso dell’interessato al loro trattamento.   
-**4\. Rifiuto di conferimento dei dati.** L’eventuale rifiuto da parte dell’interessato di conferire dati personali comuni nel caso in cui al punto 3 comporta l’impossibilità di adempiere all’attività di informazione di cui al punto 1.   
-**5\. Comunicazione dei dati.** I dati personali possono venire a conoscenza degli incaricati del trattamento e possono essere   
-comunicati per le finalità di cui al punto 1 a collaboratori esterni e, in genere, a tutti quei soggetti pubblici e privati cui la   
-comunicazione sia necessaria per il corretto adempimento delle finalità indicate nel punto 1.   
-**6\. Diffusione dei dati.** I dati personali non sono soggetti a diffusione.   
-**7\. Trasferimento dei dati all’estero.** I dati personali possono essere trasferiti verso Paesi dell’Unione Europea e verso Paesi terzi   
-rispetto all’Unione Europea nell’ambito delle finalità di cui al punto 1 (se necessario).   
-**8\. Diritti dell’interessato.** L’art. 7 T.U. conferisce all’interessato l’esercizio di specifici diritti, da esercitarsi secondo le modalità di   
-cui all’art. 8 T.U., tra cui quello di ottenere dal titolare la conferma dell’esistenza o meno dei propri dati personali e la loro messa a   
-disposizione in forma intelligibile; l’interessato ha diritto di avere conoscenza dell’origine dei dati, della finalità e delle modalità del   
-trattamento, della logica applicata al trattamento, degli estremi identificativi del titolare e dei soggetti i cui dati possono essere   
-comunicati; l’interessato ha inoltre diritto di ottenere l’aggiornamento, la rettificazione e l’integrazione dei dati, la cancellazione,   
-la trasformazione in forma anonima o il blocco dei dati trattati in violazione della legge; l’interessato ha il diritto di opporsi, per   
-motivi legittimi, al trattamento dei dati ancorché pertinenti allo scopo della raccolta, nonché opporsi al trattamento dei dati ai fini   
-dell’invio di materiale pubblicitario, di vendita diretta, di ricerche di mercato o di comunicazione commerciale.   
-**9\. Titolare del trattamento** Titolare del trattamento, è Villa San Michele S.r.l., con sede Via Doccia4, 50014 Fiesole (FI)   
-**10\. Responsabile del trattamento.** Responsabile del trattamento è il Sig. Marco Novella 
-
-Back to top
-
-Q.18 What additional privacy provisions apply to visitors to Hotel Caruso and its website?
-
- **A Informativa ai sensi dell’art. 13. D.Lgs. 196/2003 (Codice Privacy di seguito denominato T.U.)**  
-In relazione ai dati personali di cui si entrerà in possesso con la compilazione del form (iscrizione alla newsletter o richiesta di prenotazioni) presente sul sito www.hotelcaruso.com, Vi informiamo di quanto segue:   
-**1\. Finalità del trattamento dei dati.** Il trattamento è finalizzato unicamente per la prenotazione riguardante una Vs. richiesta, o per il per il ricevimento della nostra newsletter (promozioni, eventi, etc.).   
-**2\. Modalità di trattamento dei dati.** a) Il trattamento è realizzato per mezzo delle operazioni o complesso di operazioni indicate   
-all’art. 4 comma 1 lett. a) T.U.: raccolta, registrazione, organizzazione, conservazione, consultazione, elaborazione, modificazione,   
-selezione, estrazione, raffronto, utilizzo, interconnessione, blocco, comunicazione, cancellazione e distruzione dei dati. b) Le   
-operazioni possono essere svolte con o senza l’ausilio di strumenti elettronici o comunque automatizzati. c) Il trattamento è svolto   
-dal titolare e/o dagli incaricati del trattamento.   
-**3\. Conferimento dei dati.** Il conferimento dei dati personali comuni è obbligatorio, mentre eventuali dati sensibili (a titolo   
-esemplificativo e non esaustivo: stati di salute, convinzioni religiose e opinioni politiche) saranno immediatamente cancellati in   
-mancanza di una dichiarazione scritta di consenso dell’interessato al loro trattamento.   
-**4\. Rifiuto di conferimento dei dati.** L’eventuale rifiuto da parte dell’interessato di conferire dati personali comuni nel caso in cui al punto 3 comporta l’impossibilità di adempiere all’attività di informazione di cui al punto 1.   
-**5\. Comunicazione dei dati.** I dati personali possono venire a conoscenza degli incaricati del trattamento e possono essere   
-comunicati per le finalità di cui al punto 1 a collaboratori esterni e, in genere, a tutti quei soggetti pubblici e privati cui la   
-comunicazione sia necessaria per il corretto adempimento delle finalità indicate nel punto 1.   
-**6\. Diffusione dei dati.** I dati personali non sono soggetti a diffusione.   
-**7\. Trasferimento dei dati all’estero.** I dati personali possono essere trasferiti verso Paesi dell’Unione Europea e verso Paesi terzi   
-rispetto all’Unione Europea nell’ambito delle finalità di cui al punto 1 (se necessario).   
-**8\. Diritti dell’interessato.** L’art. 7 T.U. conferisce all’interessato l’esercizio di specifici diritti, da esercitarsi secondo le modalità di   
-cui all’art. 8 T.U., tra cui quello di ottenere dal titolare la conferma dell’esistenza o meno dei propri dati personali e la loro messa a   
-disposizione in forma intelligibile; l’interessato ha diritto di avere conoscenza dell’origine dei dati, della finalità e delle modalità del   
-trattamento, della logica applicata al trattamento, degli estremi identificativi del titolare e dei soggetti i cui dati possono essere   
-comunicati; l’interessato ha inoltre diritto di ottenere l’aggiornamento, la rettificazione e l’integrazione dei dati, la cancellazione,   
-la trasformazione in forma anonima o il blocco dei dati trattati in violazione della legge; l’interessato ha il diritto di opporsi, per   
-motivi legittimi, al trattamento dei dati ancorché pertinenti allo scopo della raccolta, nonché opporsi al trattamento dei dati ai fini   
-dell’invio di materiale pubblicitario, di vendita diretta, di ricerche di mercato o di comunicazione commerciale.   
-**9\. Titolare del trattamento** Titolare del trattamento, è Hotel Caruso S.r.l., con sede in P.zza San Giovanni del Toro 2, 84010 Ravello (Salerno)   
-**10\. Responsabile del trattamento.** Responsabile del trattamento è il Sig. Franco Girasoli 
-
-Back to top
-
-Q.19 What additional privacy provisions apply to visitors to Grand Hotel Timeo and its website?
-
- **A Informativa ai sensi dell’art. 13. D.Lgs. 196/2003 (Codice Privacy di seguito denominato T.U.)**  
-In relazione ai dati personali di cui si entrerà in possesso con la compilazione del form (iscrizione alla newsletter o richiesta di prenotazioni) presente sul sito www.grandhoteltimeo.com, Vi informiamo di quanto segue:   
-**1\. Finalità del trattamento dei dati.** Il trattamento è finalizzato unicamente per la prenotazione riguardante una Vs. richiesta, o per il per il ricevimento della nostra newsletter (promozioni, eventi, etc.).   
-**2\. Modalità di trattamento dei dati.** a) Il trattamento è realizzato per mezzo delle operazioni o complesso di operazioni indicate   
-all’art. 4 comma 1 lett. a) T.U.: raccolta, registrazione, organizzazione, conservazione, consultazione, elaborazione, modificazione,   
-selezione, estrazione, raffronto, utilizzo, interconnessione, blocco, comunicazione, cancellazione e distruzione dei dati. b) Le   
-operazioni possono essere svolte con o senza l’ausilio di strumenti elettronici o comunque automatizzati. c) Il trattamento è svolto   
-dal titolare e/o dagli incaricati del trattamento.   
-**3\. Conferimento dei dati.** Il conferimento dei dati personali comuni è obbligatorio, mentre eventuali dati sensibili (a titolo   
-esemplificativo e non esaustivo: stati di salute, convinzioni religiose e opinioni politiche) saranno immediatamente cancellati in   
-mancanza di una dichiarazione scritta di consenso dell’interessato al loro trattamento.   
-**4\. Rifiuto di conferimento dei dati.** L’eventuale rifiuto da parte dell’interessato di conferire dati personali comuni nel caso in cui al punto 3 comporta l’impossibilità di adempiere all’attività di informazione di cui al punto 1.   
-**5\. Comunicazione dei dati.** I dati personali possono venire a conoscenza degli incaricati del trattamento e possono essere   
-comunicati per le finalità di cui al punto 1 a collaboratori esterni e, in genere, a tutti quei soggetti pubblici e privati cui la   
-comunicazione sia necessaria per il corretto adempimento delle finalità indicate nel punto 1.   
-**6\. Diffusione dei dati**. I dati personali non sono soggetti a diffusione.   
-**7\. Trasferimento dei dati all’estero.** I dati personali possono essere trasferiti verso Paesi dell’Unione Europea e verso Paesi terzi   
-rispetto all’Unione Europea nell’ambito delle finalità di cui al punto 1 (se necessario).   
-**8\. Diritti dell’interessato.** L’art. 7 T.U. conferisce all’interessato l’esercizio di specifici diritti, da esercitarsi secondo le modalità di   
-cui all’art. 8 T.U., tra cui quello di ottenere dal titolare la conferma dell’esistenza o meno dei propri dati personali e la loro messa a   
-disposizione in forma intelligibile; l’interessato ha diritto di avere conoscenza dell’origine dei dati, della finalità e delle modalità del   
-trattamento, della logica applicata al trattamento, degli estremi identificativi del titolare e dei soggetti i cui dati possono essere   
-comunicati; l’interessato ha inoltre diritto di ottenere l’aggiornamento, la rettificazione e l’integrazione dei dati, la cancellazione,   
-la trasformazione in forma anonima o il blocco dei dati trattati in violazione della legge; l’interessato ha il diritto di opporsi, per   
-motivi legittimi, al trattamento dei dati ancorché pertinenti allo scopo della raccolta, nonché opporsi al trattamento dei dati ai fini   
-dell’invio di materiale pubblicitario, di vendita diretta, di ricerche di mercato o di comunicazione commerciale.   
-**9\. Titolare del trattamento** Titolare del trattamento, è Grand Hotel Timeo / Orient-Express Esercizi Srl., con sede in Via Teatro Greco 59, 98039 Taormina (Messina)   
-**10\. Responsabile del trattamento.** Responsabile del trattamento è il Sig. Luca Finardi 
-
-[Back to top](http://tridion.orient-express.com/WebUI/item.aspx?tcm=16#top)
-
-Q.20 What additional privacy provisions apply to visitors to Villa Sant’ Andrea and its website?
-
- **A. Informativa ai sensi dell’art. 13. D.Lgs. 196/2003 (Codice Privacy di seguito denominato T.U.)**  
-In relazione ai dati personali di cui si entrerà in possesso con la compilazione del form (iscrizione alla newsletter o richiesta di prenotazioni) presente sul sito www.hotelvillasantandrea.com, Vi informiamo di quanto segue:   
-**1\. Finalità del trattamento dei dati**. Il trattamento è finalizzato unicamente per la prenotazione riguardante una Vs. richiesta, o per il per il ricevimento della nostra newsletter (promozioni, eventi, etc.).   
-**2\. Modalità di trattamento dei dati.** a) Il trattamento è realizzato per mezzo delle operazioni o complesso di operazioni indicate   
-all’art. 4 comma 1 lett. a) T.U.: raccolta, registrazione, organizzazione, conservazione, consultazione, elaborazione, modificazione,   
-selezione, estrazione, raffronto, utilizzo, interconnessione, blocco, comunicazione, cancellazione e distruzione dei dati. b) Le   
-operazioni possono essere svolte con o senza l’ausilio di strumenti elettronici o comunque automatizzati. c) Il trattamento è svolto   
-dal titolare e/o dagli incaricati del trattamento.   
-**3\. Conferimento dei dati.** Il conferimento dei dati personali comuni è obbligatorio, mentre eventuali dati sensibili (a titolo   
-esemplificativo e non esaustivo: stati di salute, convinzioni religiose e opinioni politiche) saranno immediatamente cancellati in   
-mancanza di una dichiarazione scritta di consenso dell’interessato al loro trattamento.   
-**4\. Rifiuto di conferimento dei dati.** L’eventuale rifiuto da parte dell’interessato di conferire dati personali comuni nel caso in cui al punto 3 comporta l’impossibilità di adempiere all’attività di informazione di cui al punto 1.   
-**5\. Comunicazione dei dati.** I dati personali possono venire a conoscenza degli incaricati del trattamento e possono essere   
-comunicati per le finalità di cui al punto 1 a collaboratori esterni e, in genere, a tutti quei soggetti pubblici e privati cui la   
-comunicazione sia necessaria per il corretto adempimento delle finalità indicate nel punto 1.   
-**6\. Diffusione dei dati**. I dati personali non sono soggetti a diffusione.   
-**7\. Trasferimento dei dati all’estero.** I dati personali possono essere trasferiti verso Paesi dell’Unione Europea e verso Paesi terzi   
-rispetto all’Unione Europea nell’ambito delle finalità di cui al punto 1 (se necessario).   
-**8\. Diritti dell’interessato.** L’art. 7 T.U. conferisce all’interessato l’esercizio di specifici diritti, da esercitarsi secondo le modalità di   
-cui all’art. 8 T.U., tra cui quello di ottenere dal titolare la conferma dell’esistenza o meno dei propri dati personali e la loro messa a   
-disposizione in forma intelligibile; l’interessato ha diritto di avere conoscenza dell’origine dei dati, della finalità e delle modalità del   
-trattamento, della logica applicata al trattamento, degli estremi identificativi del titolare e dei soggetti i cui dati possono essere   
-comunicati; l’interessato ha inoltre diritto di ottenere l’aggiornamento, la rettificazione e l’integrazione dei dati, la cancellazione,   
-la trasformazione in forma anonima o il blocco dei dati trattati in violazione della legge; l’interessato ha il diritto di opporsi, per   
-motivi legittimi, al trattamento dei dati ancorché pertinenti allo scopo della raccolta, nonché opporsi al trattamento dei dati ai fini   
-dell’invio di materiale pubblicitario, di vendita diretta, di ricerche di mercato o di comunicazione commerciale.   
-**9\. Titolare del trattamento** Titolare del trattamento, è Villa Sant’Andrea / Orient-Express Esercizi Srl., con sede in Via Nazionale 137, 98039 Taormina (Messina)   
-**10\. Responsabile del trattamento.** Responsabile del trattamento è il Sig. Giovanni Nastasi 
-
-Back to top  
-  
-Q.21 What additional privacy provisions apply to visitors to Hotel Maroma Resort & Spa and its website?
-
-This section of the Privacy Policy governs the handling of personal data by Plan Costa Maya S.A. de C.V., operator of Hotel Maroma Resort & Spa, under the terms provided for in the Mexican Federal Law on the Protection of Personal Data in the Possession of Private Companies and Individuals (the Law or the LFPDPPP) and the regulatory and/or administrative provisions resulting from or relating to the Law. 
-
-**I. Information Collected and Mechanisms for Collection**  
-Hotel Maroma Resort & Spa handles personal data, i.e. information that could potentially allow you to be identified, which may be given in different types of documents, whether in printed or data messaging form. The personal data collected and/or handled include: forename and surname; home, work or fiscal address; personal or work email address; personal or work phone number; work information; or other similar data enabling Hotel Maroma Resort & Spa to operate and fulfill its commercial, administrative and/or labor obligations.   
-Personal data is collected by way of: i) use of emails; ii) telephone communication with our authorized personnel; iii) voluntary provision of personal data and information in interviews with authorized personnel at Hotel Maroma Resort & Spa; iv) filling out printed or digital forms, and v) the use of sources open to the public and other sources of information available on the market.   
-**II. Data Handling Objectives**  
-With regards to customer services, the main objectives of personal data handling are:   
-a. To create and update a customer database;   
-b. To confirm the identity of customers and/or their legal representatives;   
-c. To meet all applicable legal requirements;   
-d. To provide information on: conditions, policies and provisions for the hiring and use of services and installations; methods of payment; service and service provision fees;   
-e. To send materials promoting Hotel Maroma Resort & Spa, Orient-Express Hotels Ltd. and their affiliated companies;   
-f. To manage the coming and going of guests;   
-g. To monitor and control physical and logical access to the hotel facilities;   
-h. To manage food and drink services, room service, the hiring of function rooms for events including social events, group meetings, conventions and working sessions;   
-i. To manage security;   
-j. To draw up statistics for internal use indicating what products and services are most appreciated by our customers;   
-k. To manage bank card, credit and cash transactions;   
-l. To send invoices;   
-m. To manage our rewards program;   
-n. To use the various services on the Hotel Maroma Resort & Spa website;   
-o. To manage food and drink services, room service, room cleaning and maintenance and telephone customer care;   
-p. To manage the preparation and delivery of quotes and contracts for the services the hotel offers;   
-q. To manage the confirmation of reservations for hotel room services;   
-r. any other activity similar in nature to those described above.   
-With regards to vendors, the main objectives of personal data handling are:   
-1\. Vendor management: including selection and hiring process, management of hiring or purchase order requests;   
-2\. Receiving and paying invoices and/or professional fees;   
-3\. Preparing a list of vendors for exclusive use of the hotel; and   
-4\. any other activity similar in nature to those described above.   
-With regards to employment matters, the main objectives of personal data handling are:   
-1\. Staff selection and recruitment;   
-2\. Management of staff benefits;   
-3\. Payroll management;   
-4\. Payment of staff remuneration, taxes and contributions;   
-5\. Payment of employer contributions and obligations;   
-6\. Training management;   
-7\. Monitoring and control of physical and logical access to the facilities and digital assets of Hotel Maroma Resort & Spa;   
-8\. Internal monitoring and control of staff and allocated funds;   
-9\. To compile additional data from applicants using third parties; and   
-10\. Any other activity similar in nature to those described above.
-
-  
- **III. Transfer of Data**  
-Hotel Maroma Resort & Spa gives notice that, in order to meet its commercial obligations, including providing services to customers, hiring vendors and complying with its labor obligations, Hotel Maroma Resort & Spa has entered into or will enter into several agreements with vendors in Mexico and abroad to provide a variety of services on the understanding that these vendors are bound to keep all personal data provided confidential and observe the Hotel Maroma Resort & Spa Privacy Notice.   
-**IV. Personal Data Protection Measures**  
-Hotel Maroma Resort & Spa has implemented security, administrative, technical and physical measures against damage, loss, alteration, destruction or use, access or unauthorized handling of data in accordance with the provisions of the LFPDPPP and the administrative regulation resulting therefrom. All digitally stored personal data is kept in secure and confidential data banks.   
-**V. Measures to Exercise ARCO Rights**  
-To exercise ARCO (Access, Rectification, Cancellation or Opposition to data handling) Rights, the owner of this data or the representative thereof must submit a written request to Hotel Maroma Resort & Spa, either in person or by way of the contact options made available; Tel. No.: +52(998)87282, email: acamarillo@maromahotel.com.   
-**VI. Data Protection Department**  
-For any enquiries regarding the protection of your personal data, please contact the Personal Data Protection Department at: hsupervisor@maromahotel.com. If you would like to stop receiving promotional messages from (a) us, please contact us by Phone: +52(998)8728200 or email: acamarillo@maromahotel.com; (b) the Orient-Express Hotels Ltd. group, please e-mail: privacy@orient-express.com.   
-**VII. Changes to the Privacy Notice**  
-Hotel Maroma Resort & Spa may decide to amend or update its privacy notice in order to implement improvements or incorporate new measures provided for in the Law or other legislative provisions, and we therefore suggest that you revise the content hereof on a regular basis. Any amendments and/or updates shall be announced on visible notices on our premises, in brochures or flyers made available therein or via other digital means of communication.   
-VIII. Withdrawal of Consent   
-You are entitled to withdraw your consent with regards to the collection, use and disclosure by Hotel Maroma Resort & Spa of your personal data by making the appropriate request through the procedures implemented by us. If you notify Hotel Maroma Resort & Spa in accordance with this policy that you withdraw your consent, this Hotel shall take the necessary measures to destroy or eliminate the personal data provided to it, with the safeguards provided for in the LFPDPPP. Hotel Maroma Resort & Spa may not destroy tax or accounting information for transactions that may be necessary in order to maintain or comply with applicable legal obligations; however, it shall not use your personal information for any other purposes once your consent has been withdrawn.   
-
-
-Back to top
+Top of page
