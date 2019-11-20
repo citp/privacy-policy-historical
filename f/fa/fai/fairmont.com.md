@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325034914id_/https%3A//www.accorhotels.com/security-certificate/index.en.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairmont.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120121507id_/https%3A//www.accorhotels.com/security-certificate/index.en.shtml) for the most accurate reproduction.*
 
 # Accor Hotels : GLOBAL HOTEL GUEST PRIVACY POLICY
 
@@ -18,7 +18,7 @@ In this charter, “AccorHotels Group” means:
 
   * Accor SA, the AccorHotels Group parent company, with registered offices at 82 rue Henri Farman, 92130 Issy-les-Moulineaux, France;
   * Subsidiary or “family” companies of Accor SA involved in the hotel businesses of the AccorHotels Group; and
-  * hotels operated under one of the AccorHotels Group brands throughout the world (Raffles, Sofitel Legend, Fairmont, SO/, Sofitel, onefinestay, Rixos, MGallery by Sofitel, Pullman, Swissôtel, 25hours Hotels, Novotel, Mercure, Mama Shelter, Adagio, JO&JOE, ibis, ibis Styles, ibis budget, Grand Mercure, The Sebel and hotelF1). This list of brands is regularly updated and can be viewed on [accorhotels.com](https://www.accorhotels.com/).
+  * hotels operated under one of the AccorHotels Group brands throughout the world (Raffles, Sofitel Legend, Fairmont, SO/, Sofitel, onefinestay, Rixos, MGallery, Pullman, Swissôtel, 25hours Hotels, Novotel, Mercure, Mama Shelter, Adagio, JO&JOE, ibis, ibis Styles, ibis budget, Grand Mercure, The Sebel and hotelF1). This list of brands is regularly updated and can be viewed on [accorhotels.com](https://www.accorhotels.com/).
 
 
 
