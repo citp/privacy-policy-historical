@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-funny.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611021103id_/https%3A//short-funny.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-funny.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120115158id_/https%3A//short-funny.com/terms.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ The following link
 leads you to the plug-in: <https://tools.google.com/dlpage/gaoptout?hl=en>   
 Here's more information on Google Inc.'s data usage:   
 <https://support.google.com/analytics/answer/6004245?hl=en>   
-Alternatively, by clicking on this [link](https://web.archive.org/web/20190611021103id_/https%3A//short-funny.com/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D) you prevent Google Analytics from collecting data about you from this website. By clicking on the link above you download an "opt-out cookie". Your browser must allow cookies to be stored. If you delete your cookies, you will need to click on the link each time you visit our website.
+Alternatively, by clicking on this [link](https://web.archive.org/web/20191120115158id_/https%3A//short-funny.com/%E2%80%9Djavascript:gaOptout\(\)%E2%80%9D) you prevent Google Analytics from collecting data about you from this website. By clicking on the link above you download an "opt-out cookie". Your browser must allow cookies to be stored. If you delete your cookies, you will need to click on the link each time you visit our website.
 
 **  
 **Ads provided by Google AdSense:
