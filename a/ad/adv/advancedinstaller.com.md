@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the advancedinstaller.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620083056id_/https%3A//www.advancedinstaller.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedinstaller.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120193718id_/https%3A//www.advancedinstaller.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Advanced Installer - Privacy Policy
+
+Advanced Installer - Privacy Policy
 
 We are aware of and we share the growing concern of Internet users regarding the widespread distribution of their personal information, and we take great measures to protect our customers and visitors privacy. We do not request, collect or store personal information if you browse our website.
 
@@ -12,7 +14,7 @@ We acknowledge and agree that any personal data of yours that we handle will be 
 
 This website may contain links to other sites. Caphyon Ltd. is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20190620083056id_/https%3A//www.advancedinstaller.com/contact.html "Advanced Installer contact information").
+These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20191120193718id_/https%3A//www.advancedinstaller.com/contact.html "Advanced Installer contact information").
 
 ### The information we may collect
 
