@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the gourmetads.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406224259id_/https%3A//www.gourmetads.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gourmetads.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120233233id_/https%3A//www.gourmetads.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gourmet Ads
+
+Skip to content
+
+Privacy Policy[Benjamin Christie](https://www.gourmetads.com/articles/author/healthyads/ "Posts by Benjamin Christie")2019-09-09T14:24:20-04:00
 
 Gourmet Ads Pty Ltd, an Australian company is bound by the Australian Privacy Act 1988 (as amended) and the Australian Privacy Principles (collectively, Privacy Law). This Privacy Policy describes the practices of how Gourmet Ads Pty Limited (“Gourmet Ads”, “Healthy Ads”, “House Ads”, “we” or “us”) collects, receives, uses and protects information in regards to Advertisers, Publishers and Visitors.
 
@@ -70,11 +74,11 @@ The Gourmet Ads’ Advertising Program allows advertisers to purchase ad space o
 
  **a) Opt Out**
 
-The Gourmet Ads’ Advertising Program uses cookies to identify web browsers and to store data for advertising purposes, including interest-based advertising. There are many ways to opt-out of receiving targeted advertising. The primary ad server for the Gourmet Ads’ Advertising Program is Appnexus and you can opt out by visiting; <http://appnexus.com/platform-policy#choices> and Opting Out.
+The Gourmet Ads’ Advertising Program uses cookies to identify web browsers and to store data for advertising purposes, including interest-based advertising. There are many ways to opt-out of receiving targeted advertising. The primary ad server for the Gourmet Ads’ Advertising Program is Appnexus and you can opt out by visiting; <https://www.appnexus.com/platform-privacy-policy#choices>and Opting Out.
 
 Industry trade associations maintain web pages where you can opt out of interest-based advertising by all participating companies:
 
-  * Network Advertising Initiative: [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/)
+  * Network Advertising Initiative: [http://www.networkadvertising.org/choices](https://www.networkadvertising.org/choices/)
   * Digital Advertising Alliance: [http://www.aboutads.info/choices](http://www.aboutads.info/choices/)
   * Europe, [http://www.youronlinechoices.com](http://www.youronlinechoices.com/)
   * Digital Advertising Alliance of Canada <http://youradchoices.ca/choices/>
@@ -127,3 +131,5 @@ Warriewood, NSW, 2102
 Australia
 
  _This Privacy Policy was last updated on the 6th  May 2018_
+
+### Let the Gourmet Ads team walk you through all the options available to ensure that your Food, Supermarket, Beverage or Kitchen campaign has the best possible combination of Premium Guaranteed Inventory, First Party Data and Programmatic elements.
