@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418193321id_/https%3A//www.netcraft.com/about-netcraft/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcraft.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120131113id_/https%3A//www.netcraft.com/about-netcraft/privacy-statement) for the most accurate reproduction.*
 
 # Netcraft | Privacy Statement
 
 **Fair Use:** Please note that use of the Netcraft site is subject to our Fair Use and Copyright policies. For more information, please visit _http://www.netcraft.com/about-netcraft/fair-use-copyright/_ , or email _info@netcraft.com_. 
 
-Netcraft has created this privacy statement covering its web sites in order to demonstrate our commitment to privacy. This Privacy Policy explains the information gathering and dissemination practices for our Web sites in the netcraft.com, netcraft.co.uk, and netcraft.net domains, and for people using the Netcraft Anti-Phishing Extension and how this information is used. If you have any queries or requests concerning your personal information, please contact us at [webmaster@netcraft.com](mailto:webmaster@netcraft.com).
+Netcraft has created this privacy statement covering its web sites in order to demonstrate our commitment to privacy. This Privacy Policy explains the information gathering and dissemination practices for our Web sites in the netcraft.com, netcraft.co.uk, and netcraft.net domains, and for people using the Netcraft Anti-Phishing Extension and how this information is used. If you have any queries or requests concerning your personal information, please contact us at [webmaster@netcraft.com](mailto:webmaster@netcraft.com). 
 
 ### Information Automatically Logged
 
-  * We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address may also be used to display regional  
-advertising banners.
+  * We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address may also be used to display regional advertising banners.
 
 
 
@@ -33,8 +32,7 @@ advertising banners.
 
 ### Enquiry and Order Forms
 
-  * Our site use enquiry and order forms for customers to request details of, and purchase, services. We collect contact information (such as invoice and mail  
-addresses) and financial information (a credit card number). This information is used for contacting customers and for billing.
+  * Our site use enquiry and order forms for customers to request details of, and purchase, services. We collect contact information (such as invoice and mail addresses) and financial information (a credit card number). This information is used for contacting customers and for billing.
 
 
 
@@ -56,6 +54,7 @@ The extension collects the following information:
 
   * A unique identification reference is generated for each Netcraft Anti-Phishing Extension installation. This is sent back to us when the Anti-Phishing Extension attempts to download updated versions of its software and is used for planning and licensing purposes. This is not sent as part of the Anti-Phishing Extension’s normal operation when browsing the web.
   * Web sites (not URLs) visited when browsing the web. These are used to identify URLs that should be blocked within the site being visited and to provide contextual reports and popularity ranking information.
+  * Where a web site loads malicious JavaScript, the URL of the web site is also collected to aid analysis of the attack.
   * Very old versions of the Anti-Phishing Extension also collected MD5 hashes of URLs visited. This has been discontinued in recent versions.
   * The Anti-Phishing Extension does not collect any personal information except that described above. In particular, we do not collect personal information which can identify the browsing habits of individual users.
 
