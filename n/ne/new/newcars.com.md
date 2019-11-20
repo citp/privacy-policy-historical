@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921195959id_/http%3A//www.newcars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcars.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120022858id_/https%3A//www.newcars.com/privacy) for the most accurate reproduction.*
 
 # NewCars.com Privacy Policy
 
