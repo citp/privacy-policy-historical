@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616042515id_/http%3A//www.oracle.com/us/legal/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120150336id_/http%3A//www.oracle.com/us/legal/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy @ Oracle | Oracle
 
