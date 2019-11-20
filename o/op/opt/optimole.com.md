@@ -1,100 +1,85 @@
-> *The following text is extracted and transformed from the optimole.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimole.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120144201id_/https%3A//optimole.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - Optimole
 
-**Go Daddy Respects Your Privacy**
+This site is owned and/or operated by Vertigo Studio S.R.L. and its affiliated companies (collectively, the “Company”), and provides its services to you subject to the following conditions. If you visit or shop at optimole.com, you affirmatively accept the following conditions. Continued use of the site constitutes the affirmative agreement to these terms and conditions. The Company reserves the right to change the terms, conditions, and notices under which its websites and services are offered, including but not limited to the charges associated with the use of the Company’s websites and services. You are responsible for regularly reviewing these terms and conditions and any additional terms and conditions. Your continued use of the Company’s websites and services constitutes your agreement to all such terms, conditions, and notices. Please read them carefully.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+### What personal data we collect and why we collect it
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Even if you upload images with EXIF GPS data we will either be stripped or returned as it is. It is not stored on our servers. We collect information you provide directly to us. For example, we collect information when you create an account, use the Services, submit or access images, provide connection details or credentials for images, or otherwise communicate with us. The types of information we may collect include your name, email address, company name, credit card number (and/or other payment information), S3 credentials, company URLs and any other information you choose to provide. **Information We Collect Automatically**  When You Use the Services. When you access or use the Services, we automatically collect information about you, including: 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+  * **Log Information:**  We log information about your use of the Services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to the Services.
+  * **Device Information:**  We collect information about the computer or mobile device you use to access the Services, including the hardware model, operating system and version, unique device identifiers and mobile network information.
+  * **Information Collected by Cookies and Other Tracking Technologies:**  We and our service providers use various technologies, including cookies and web beacons, to collect information about you when you interact with our Services, including information about your browsing behavior and user experience. Cookies are small data files stored on your hard drive or in device memory that help us to improve the Services and your experience, see which areas and features of the Services are popular and count visits. We may also collect information using web beacons (also known as “tracking pixels”). Web beacons are electronic images that may be used in the Services or emails and help deliver cookies, count visits, understand usage and campaign effectiveness and determine whether an email has been opened and acted upon. We may also collect information about your browsing behavior through real time user session recordings. For more information about cookies, and how to disable them, please see “Your Choices” below.
 
-**Information Collection and Use**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Information We Collect From Other Sources**  We may also receive information about you from other sources, such as publicly available information, and link or combine that with information we collect about you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+If you leave a comment on our site you may opt-in to save your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+### Sharing Information with Affiliates and Other Third Parties
 
-**Security**
+As a rule, Vertigo Studio SRL will not sell, trade or otherwise transfer any personal data about its users to third parties without explicit consent from the users. This does not include: 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * other parties who assist us in operating our website, conducting our business (including lawyers and accountants) or serving our users.
+  * authors whose products we sell.
+  * business partners or prospective business partners, in operations such as sale, acquisition, merger of our assets.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+All those parties agree to keep this information confidential and to their treatment according to the laws and rules on personal data protection. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other similar uses. **Communications and Emails** When we communicate with you about our website, we will use the email address you provided when you registered as a member or user. We may also send you emails with promotional information about our website or offers from us or our affiliates unless you have opted out of receiving such information. You can change your contact preferences at any time through your account or by sending us an email with your request to: legal@vertistudio.com **Legally Required Releases of Information** We may be legally required to disclose your PD if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties, including you and/or other users or members; or (e) necessary to protect the legal rights, personal/real property, or personal safety of our company, users, employees, and affiliates. **Disclosures to Successors** If our business is sold or merges in whole or in part with another business that would become responsible for providing the website to you, we retain the right to transfer your PD to the new business. The new business would retain the right to use your PD according to the terms of this privacy notice as well as to any changes to this privacy notice as instituted by the new business. We also retain the right to transfer your PD if our company files for bankruptcy and some or all of our assets are sold to another individual or business. **Support Discussion** Our website offer the ability for users to communicate with the Support Team through email or other mechanisms.If you choose to open a ticket, you should use care when exposing any PD, as such information is not protected by our privacy notice nor are we liable if you choose to disclose your PD through such postings. **Analytics** We may allow others to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages and links clicked. This information may be used by Imgix and others to, among other things, analyze and track data and deliver content targeted to your interests on the Services and other websites and better understand your online activity.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### Who we share your data with
 
-      iii.      You may call us at: (480) 505-8800
+We may share information about you as follows or as otherwise described in this Privacy Policy:
 
-       iv.      You may fax us at: (480) 505-8844
+  * With vendors, consultants and other service providers who need access to such information to carry out work on our behalf;
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * If we believe your actions are inconsistent with the spirit or language of our user agreements or policies, or to protect the rights, property and safety of Imgix or others;
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
+  * With your consent or at your direction, including if we notify you through the Services that the information you provide will be shared in a particular manner and you provide such information.
 
-**Sending Emails**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
 
-**Compliance with Laws and Law Enforcement**
+### How long we retain your data
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-**Third Party Service Providers**
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+### What rights you have over your data
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+If you have an account on this site or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-**Supplementation of Information**
+We may use information about you for various purposes, including to:
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  * Provide, maintain and improve the Services;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Respond to your comments, questions and requests;
+  * Communicate with you about services, offers, promotions, rewards, and events offered by Imgix and others, and provide news and information we think will be of interest to you;
+  * Monitor and analyze trends, usage and activities in connection with the Services;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service; and
+  * Carry out any other purpose for which the information was collected.
 
-**Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+### How we protect your data
 
-**Tell-A-Friend**
+Your personal information is stored on secured servers and networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+We have built our website using industry-standard security measures and authentication tools to protect the security of your PD. We and the third parties who provide services for us, also maintain technical and physical safeguards to protect your PD. When we collect your credit card information through our website, we will encrypt it before it travels over the Internet using industry-standard technology for conducting secure online transactions. Unfortunately, we cannot guarantee against the loss or misuse of your PD or secure data transmission over the Internet because of its nature. We strongly urge you to protect any password you may have for our website and to not share it with anyone. You should always log out of our website when you finish using it, especially if you are sharing or using a computer in a public place.
 
-**What Happens to my Personal Information if I Opt Out?**
+### International Data Transfers and Storage
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+Personal data (PD) that we collect from you may be stored, processed, and transferred between any of the countries in which we operate, specifically the United States. The European Union has not found the United States to have an adequate level of protection of PD under Article 45 of the GDPR. Our company relies on derogations for specific situations as defined in Article 49 of the GDPR. For European Union customers and users, with your consent, your PD may be transferred outside the European Union to the United States. We will use your PD to provide the goods, services, and/or information you request from us to perform a contract with you or to satisfy a legitimate interest of our company in a manner that does not outweigh your freedoms and rights. Wherever we transfer, process or store your PD, we will take reasonable steps to protect it. We will use the information we collect from you in accordance with our privacy notice. By using our website, services, or products, you agree to the transfers of your PD described within this section.
 
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+If you have any questions about our privacy notice, please contact us using the information of this privacy notice. Data Controller Contact Information Vertigo Studio SRL. 20 Povernei Street, 4th Floor, Flat no. 9 010641 Bucharest, Romania Email: legal@vertistudio.com
