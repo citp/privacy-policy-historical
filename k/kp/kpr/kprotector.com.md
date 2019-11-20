@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kprotector.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207104038id_/https%3A//www.kprotector.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kprotector.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120185722id_/https%3A//www.kprotector.com/privacy-policy) for the most accurate reproduction.*
 
 # Protect and manage your links with kprotector.com
 
