@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndsu.edu privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607183253id_/https%3A//www.ndsu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndsu.edu privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120190002id_/https%3A//www.ndsu.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | NDSU
 
