@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotoquiz.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607084353id_/https%3A//www.gotoquiz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotoquiz.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120111616id_/https%3A//www.gotoquiz.com/privacy.html) for the most accurate reproduction.*
 
 # GoToQuiz.com Privacy Policy
 
