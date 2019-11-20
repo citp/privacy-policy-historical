@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the isrbx.com privacy policy that was archived on 2018-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181220094221id_/https%3A//www.isrbx.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isrbx.com privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120143135id_/https%3A//www.isrbx.net/policy.html) for the most accurate reproduction.*
 
-# IsraBox - Privacy Policy full album download on IsraBox
+# IsraBox - Privacy Policy
 
 ### IsraBox - Privacy Policy
 
