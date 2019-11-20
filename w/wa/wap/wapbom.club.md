@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wapbom.club privacy policy that was archived on 2018-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180530133903id_/http%3A//wapbom.club/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wapbom.club privacy policy that was archived on 2019-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191120144316id_/https%3A//wapbom.io/privacy.php) for the most accurate reproduction.*
 
 # Privacy-policy - wapbom
 
@@ -30,4 +30,4 @@ We reserve the right to modify or amend this Privacy Policy at any time and for 
 
 #### Customer Service
 
-If you need help using the Service or have a question regarding the Terms, this Privacy Policy or the products or services offered by any of our service providers, please contact Customer Service at: By email: cs@wapbom.club 
+If you need help using the Service or have a question regarding the Terms, this Privacy Policy or the products or services offered by any of our service providers, please contact Customer Service at: By email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
