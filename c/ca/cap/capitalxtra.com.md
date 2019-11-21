@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalxtra.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331025310id_/https%3A//www.capitalxtra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalxtra.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121072318id_/http%3A//www.capitalxtra.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Privacy Statement - Capital XTRA
 
