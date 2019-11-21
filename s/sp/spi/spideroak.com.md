@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329021202id_/https%3A//spideroak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121011715id_/https%3A//spideroak.com/privacy-policy) for the most accurate reproduction.*
 
 # SpiderOak Privacy Policy | SpiderOak
 
