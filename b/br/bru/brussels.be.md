@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brussels.be privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616153109id_/http%3A//www.brussels.be/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brussels.be privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121183304id_/https%3A//www.brussels.be/privacy-statement) for the most accurate reproduction.*
 
 # Avis de confidentialité | City of Brussels
 
