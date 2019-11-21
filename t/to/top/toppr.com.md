@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toppr.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414022201id_/https%3A//www.toppr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppr.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121213140id_/https%3A//www.toppr.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Toppr.com
 
@@ -91,7 +91,7 @@ Further, transacting over the internet has inherent risks which can only be avoi
 ### 6\. COOKIES
 
   1. We use data collection devices such as "cookies" on certain pages of our Websites. "Cookies" are small files sited on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a "cookie". Cookies can also help us provide information, which is targeted to your interests. Cookies may be used to identify logged in or registered users.
-  2. Third party vendors including [google.com](http://www.google.com/) (“Google”) may use cookies to serve ads based on your visits to this Website. You may visit the Website of the third party and choose to opt out of the use of cookies for interest-based advertising, if the third party offers such an option. You may choose to opt-out of the DoubleClick cookie that Google and its partners use for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+  2. Third party vendors including [google.com](https://www.google.com/) (“Google”) may use cookies to serve ads based on your visits to this Website. You may visit the Website of the third party and choose to opt out of the use of cookies for interest-based advertising, if the third party offers such an option. You may choose to opt-out of the DoubleClick cookie that Google and its partners use for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
   3. The Website also has enabled the Google Analytics Advertising, which allows Google to collect data about users on our Website, in addition to Google advertising cookies and anonymous identifiers. You may choose to opt out of this by downloading and installing the Google Analytics opt-out add-on here <https://tools.google.com/dlpage/gaoptout/>
 
 
