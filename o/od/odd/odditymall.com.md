@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odditymall.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621190140id_/https%3A//odditymall.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odditymall.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121092007id_/https%3A//odditymall.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Odditymall - Privacy Policy
 
