@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521151801id_/https%3A//www.amstat.org/ASA/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121151811id_/https%3A//www.amstat.org/ASA/Privacy-Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Last Updated on March 22, 2018
+Last Updated July, 2019
 
-The ASA has a strong commitment to privacy, balanced by the recognition that we are a public association. This statement discloses policies and procedures concerning information gathering and dissemination practices for [www.amstat.org](http://www.amstat.org/). 
+The ASA has a strong commitment to privacy, balanced by the recognition that we are a public association. This statement discloses policies and procedures concerning information gathering and dissemination practices for [www.amstat.org](http://www.amstat.org/), other websites controlled by the ASA, and for data collected through email communications with ASA members and customers. 
 
 ## User Information
 
@@ -16,9 +16,19 @@ The information in this statement is summarized into two broad headings: custome
 
 Our site uses an order form for customers to request information, products, and services. We collect customers’ contact information (e.g., name and email address) and financial information (e.g., account or credit card numbers). Financial information is used to bill the customer for products and services. Contact information from the order form is used to send orders, information about our association, and promotional material from some of our partners to our customers . This contact information also is used to get in touch with customers when necessary. Customers may opt out of receiving future mailings; see the choice/opt out section below. 
 
+Additionally, we collect data automatically when we communicate with members and customers by email. We use third-party analytics services to collect behavioral and operational data, which may be recorded and retained in web logs and other ASA systems. Examples of data we collect this way include: 
+
+  * The emails you open and links you click in those emails
+  * The times and dates you open our emails and the duration of such interaction
+  * The email client you used to read our emails
+
+
+
+We use this data to provide customized digital experiences, as well as for market research, marketing, analytics, and system administration purposes. For example, we may use this data to determine whether you’ve previously opened an email, to store your preferences and settings, or to target relevant content to you. 
+
 ### _Member Information_
 
-Members’ contact information is made available through the Member Directory. Members’ contact information is shared with other organizations that promote statistics or professional development of statisticians. Members may opt out of receiving future mailings or being listed in the Member Directory; see the choice/opt out section below. 
+Members’ contact information is made available through the Member Directory. Members’ contact information is sometimes shared with other organizations that promote statistics or professional development of statisticians. Members may opt out of receiving future mailings or being listed in the Member Directory; see the choice/opt out section below. 
 
 ## Security
 
