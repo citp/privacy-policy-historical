@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevequayle.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403142111id_/http%3A//www.stevequayle.com/index.php%3Fs%3D635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevequayle.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121071743id_/https%3A//www.stevequayle.com/index.php%3Fs%3D635) for the most accurate reproduction.*
 
 # Privacy
 
