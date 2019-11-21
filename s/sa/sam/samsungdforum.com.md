@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samsungdforum.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529184748id_/http%3A//developer.samsung.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungdforum.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121100556id_/https%3A//developer.samsung.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SAMSUNG Developers
 
@@ -6,7 +6,7 @@
 
 Effective: Nov 23, 2017
 
-Samsung Electronics Co., Ltd. (“Samsung”, “we”, “us”, “our”) knows how important privacy is to its customers and their employees and partners, and we strive to be clear about how we collect, use, disclose, transfer and store your information. This Privacy Policy provides an overview of our information practices with resp-ect to personal information collected through [ Samsung Developers ] or other services that link or refer to this Privacy Policy (collectively, the "Business Services").
+Samsung Electronics Co., Ltd. (“Samsung”, “we”, “us”, “our”) knows how important privacy is to its customers and their employees and partners, and we strive to be clear about how we collect, use, disclose, transfer and store your information. This Privacy Policy provides an overview of our information practices with respect to personal information collected through [ Samsung Developers ] or other services that link or refer to this Privacy Policy (collectively, the "Business Services").
 
 It is important that you check back often for updates to the Privacy Policy. If we update the Privacy Policy and you use our Business Services after the update, you consent to the new practice(s) identified in the update, although we also may let you know about changes we consider to be material by placing a notice on this website or related online services. You can check the “effective date” posted at the top to see when the Privacy Policy was last updated.
 
