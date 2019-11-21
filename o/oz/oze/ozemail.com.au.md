@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ozemail.com.au privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401230054id_/https%3A//www.iinet.net.au/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozemail.com.au privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121022656id_/https%3A//www.iinet.net.au/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Legal
 
