@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the dartmouth.edu privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521171308id_/https%3A//home.dartmouth.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dartmouth.edu privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121183410id_/https%3A//home.dartmouth.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Dartmouth College
+
+Dartmouth College respects your privacy. Any information you provide on this website in the form of email, feedback forms, survey answers, or personal data will be used only by Dartmouth College in accordance with the terms of this Privacy Policy. The information you provide will never be sold or traded to other colleges, universities, nonproﬁt organizations, or businesses. The following sections describe our information gathering and sharing practices for the Dartmouth College website and its associated sites.
+
+## Privacy
 
 ## INFORMATION YOU PROVIDE
 
@@ -62,11 +66,11 @@ As an American institution of higher education, the processing of almost all per
 
 ### Rights of Data Subjects
 
-Data subjects located in the EU may have certain rights in connection with the processing of personal data under the GDPR. For more information about how data subjects may exercise their rights under the GDPR, or on Dartmouth’s representative in the EU, please contact [GDPR@dartmouth.edu](mailto:GDPR@dartmouth.edu).
+Data subjects located in the EU may have certain rights in connection with the processing of personal data under the GDPR. For more information about how data subjects may exercise their rights under the GDPR, or on Dartmouth’s representative in the EU, please contact GDPR@dartmouth.edu.
 
 EU Residents Under the Age of 16
 
-Dartmouth College does not knowingly collect personal data from EU residents who are under 16. If you are an EU resident under 16, please do not provide any personal data on this website or on or through any of its features. If we learn we have collected or received personal data from an EU resident under the age of 16 without verification of parental consent where required by applicable law, we will delete that information. If you believe that Dartmouth College may have personal data from or about a child under 16 located in the EU, please contact us at [GDPR@dartmouth.edu](mailto:GDPR@dartmouth.edu).
+Dartmouth College does not knowingly collect personal data from EU residents who are under 16. If you are an EU resident under 16, please do not provide any personal data on this website or on or through any of its features. If we learn we have collected or received personal data from an EU resident under the age of 16 without verification of parental consent where required by applicable law, we will delete that information. If you believe that Dartmouth College may have personal data from or about a child under 16 located in the EU, please contact us at GDPR@dartmouth.edu.
 
 ## EXTERNAL LINKS
 
@@ -82,10 +86,10 @@ Dartmouth College
 Hanover, New Hampshire 03755  
 Telephone:  (603) 646­-2444  
 Fax:  (603) 646­-2447  
-[Office.of.General.Counsel@Dartmouth.edu](mailto:Office.of.General.Counsel@Dartmouth.edu)
+Office.of.General.Counsel@Dartmouth.edu
 
 ## CHANGES TO THIS POLICY
 
-We may update or change this Privacy Policy at any time. Your continued use of this site after any such change indicates your acceptance of such changes. The current version in effect will be available on our website at <https://home.dartmouth.edu/privacy>.
+We may update or change this Privacy Policy at any time. Your continued use of this site after any such change indicates your acceptance of such changes. The current version in effect will be available on our website at https://home.dartmouth.edu/privacy.
 
  **Effective Date: May 25, 2018**
