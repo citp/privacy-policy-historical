@@ -1,36 +1,22 @@
-> *The following text is extracted and transformed from the rohkinotickets.de privacy policy that was archived on 2019-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190216001458id_/https%3A//www.trafalgar-releasing.com/privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohkinotickets.de privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121191247id_/https%3A//www.trafalgar-releasing.com/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# Privacy and Cookies Policy
+# Privacy And Cookies Policy
 
-**_PRIVACY AND COOKIES POLICY_**
+### **_FROM WHOM DOES TRL COLLECT DATA:_**
 
-This privacy and cookies policy (the “ **Policy** ” for short) provides information regarding the treatment of information provided to, or collected by, Trafalgar Releasing Limited (“ **TRL** ”) ; and applies to: (i) this website, (ii) any content specific website managed by TRL containing a direct hyperlink to this policy (iii) direct or indirect engagement with TRL in other ways (such as, signing up to our mailing lists, signing up to the mailing list of a third party who is permitted share your data with us, or booking content through TRL).
-
-TRL is a subsidiary of Trafalgar Entertainment Group Limited. Information collected under this policy may be used in the manner described below by Trafalgar Entertainment Group Limited, its subsidiaries, agents, trusted partners and affiliates acting on its behalf (collectively “ **Trafalgar** ”). When used herein, the terms “we”, “us” and “our” refer to Trafalgar. When this Policy refers to the term “personal information” we mean information that identifies a particular individual, such as a full name, street address, telephone number or email address.
-
-**By visiting this website, a content specific website, and/or otherwise providing, or allowing your data to be provided, to TRL you agree that (i) you have read and understood this Policy; and (ii) agree to TRL’s collection and processing of your personal information in accordance with this Policy.**
-
-If you have any questions about the way in which your data is collected, processed or held by TRL, you can contact us via email at [legal@trafalgar-releasing.com](mailto:legal@trafalgar-releasing.com), and we will do our best to provide an answer.
-
-**THIS POLICY WAS LAST UPDATED: 4 JANUARY 2019**
-
-**_FROM WHOM DOES TRL COLLECT DATA:_**
-
-TRL collects information from three groups of people: 
+TRL collects information from three groups of people:
 
   1. **“Individuals”** , who have signed up for our mailing lists, entered one of our competitions, engaged with us on social media, completed a customer survey or otherwise interacted with us (excluding interaction in the course of business between TRL and such individual);
-
-
   2. **“Website Users”** , who visit this page, any content specific website which is owned or controlled by TRL or use our services via a third-party platform; and
-
-
   3. **Business clients and providers (“B2B”),** licensors and rights holders with whom we interact for the purpose of acquiring content for distribution, venues and platforms who have booked (or have expressed interest in booking) our content for exhibition, marketing partners, third parties whom provide us a service and/or any other individual with whom we interact solely in the course of business.
 
 
 
-**_WHAT INFORMATION DOES TRL COLLECT:_**
+* * *
 
-TRL collects two basic types of information _personal information_ (which can be used to identify a specific individual) and _anonymous information_ (which provides analytical information, but cannot be used to identify a specific individual); and may use personal information to create a third type of information _aggregate information_ (i.e. a collection of similar or related data). 
+### **_WHAT INFORMATION DOES TRL COLLECT:_**
+
+TRL collects two basic types of information _personal information_ (which can be used to identify a specific individual) and _anonymous information_ (which provides analytical information, but cannot be used to identify a specific individual); and may use personal information to create a third type of information _aggregate information_ (i.e. a collection of similar or related data).
 
   1. _Individuals:_
 
@@ -40,13 +26,13 @@ TRL collects the information you provide to us when you sign up to one of our ma
 
   * If you sign up for our mailing lists or respond to customer surveys: _name, age, email address, postal/zip code, city/country of residence._
   * If you interact with us on social media (and depending on your own privacy settings): _campaign tag information (e.g. hashtags), name, social network ID, image/profile picture, email address, gender, location, date of birth and/or such other information which you have explicitly made available, either by granting access specifically to TRL or by making such information visible to the general public._
-  * If you enter one of our competitions: _name, age, email address, postal/zip code, city/country of residence, telephone number.*             _
+  * If you enter one of our competitions: _name, age, email address, postal/zip code, city/country of residence, telephone number.*_
 
 
 
-*Please note that we may need to obtain additional information you if you win one of our competitions, the relevant information we need will depend on the prize you have won and may include (but shall not be limited to): your mailing address (if we need to mail you your prize) and/or your passport details (if we need to arrange travel as part of the prize). 
+*Please note that we may need to obtain additional information you if you win one of our competitions, the relevant information we need will depend on the prize you have won and may include (but shall not be limited to): your mailing address (if we need to mail you your prize) and/or your passport details (if we need to arrange travel as part of the prize).
 
-TRL may also receive information about you from third parties either where those third parties are permitted by law to share your data; or in certain circumstances where you have expressly consented to such third party sharing your information with us for specific purposes (e.g. where you have indicated to such third party that you wish to hear more about TRL and its services and/or content) and/or information received pursuant to a contract we may have in respect of a specific piece of content or activity. 
+TRL may also receive information about you from third parties either where those third parties are permitted by law to share your data; or in certain circumstances where you have expressly consented to such third party sharing your information with us for specific purposes (e.g. where you have indicated to such third party that you wish to hear more about TRL and its services and/or content) and/or information received pursuant to a contract we may have in respect of a specific piece of content or activity.
 
 Please be aware that when you provide information to TRL through a third-party site or platform (for example, via social networks or mailing list service providers) the information which you provide may be separately collected by such third-party. **_TRL does not control third-party sites or platforms (e.g. Facebook, Twitter, Instagram, MailChimp, SurveyMonkey, and Powster) and this Policy does not apply to them. Please consult the policy of the relevant third party to find out how they collect and use your information._**
 
@@ -67,7 +53,7 @@ You make certain information available to us when you visit one of our websites 
 
 
 
-Further information on TRL’s use of Cookies can be found below. 
+Further information on TRL’s use of Cookies can be found below.
 
   3. _B2B:_
 
@@ -75,7 +61,9 @@ Further information on TRL’s use of Cookies can be found below. 
 
 TRL also collects personal information provided in the course of business, such as names, e-mail addresses, telephone numbers, job titles, and financial/payment information, as may be necessary to perform the functions required for the specific business relationship in question.
 
-**_HOW TRL USES YOUR INFORMATION:_**
+* * *
+
+### **_HOW TRL USES YOUR INFORMATION:_**
 
 You agree that we may use your information for the following purposes:
 
@@ -116,7 +104,9 @@ and in accordance with local laws, and choices and controls which may be availab
 
 
 
-**_SHARING YOUR INFORMATION WITH OTHER COMPANIES:_** ** **
+* * *
+
+### **_SHARING YOUR INFORMATION WITH OTHER COMPANIES:_**
 
 We will not share your information with any third party, save for the following circumstances:
 
@@ -126,20 +116,26 @@ We will not share your information with any third party, save for the following 
     * to enforce our Terms of Use or rules;
     * to protect Trafalgar and/or a third-party rights holder’s rights or property;
     * to comply with legal process or other cases if we believes in good faith that such disclosure is required by law;
-  * where you have given us consent to share your personal information with another company, such as electing to share your information with content owners or rights holders so that they can send you offers and promotions about their products or services;
+  * sharing with content owners or rights holders so that they can send you offers and promotions about their content, products or services or in connection with the one or more of the uses listed above;
   * where you have directed us to share your information with third-party sites or platforms, including social networks and select third parties with whom TRL works whereby sharing such information is necessary for the purpose of delivering the services that you have requested (e.g. MailChimp, SurveyMonkey, and Powster).
 
 
 
+In certain circumstances the above may involve transferring your data outside of the European Economic Area (“ **EEA** “). Whenever we transfer your data outside of the EEA we will ensure that a similar degree of protection is afforded to it by ensuring that the recipient has, or is located in a jurisdiction which has, been approved by the European Commission as being capable of providing the appropriate level of protection, that the recipient has signed a contract in the format approved by the European Commission, and/or, with your express consent to do so.
+
 **Please note that once your information has been shared with another company, the information received by such company becomes subject to that company’s own privacy practices**.
 
-**_HOW YOUR INFORMATION IS STORED:_**  
+* * *
+
+### **_HOW YOUR INFORMATION IS STORED:_**
 
 We use industry standard technological and operational security measures to protect your information against any unauthorised access to or unlawful use. However, no method of transmission over the internet or method of electronic storage is 100% secure and we cannot guarantee its absolute security.
 
-**_HOW LONG IS YOUR INFORMATION KEPT FOR?_**
+* * *
 
-We will retain information collected pursuant to this Policy for as long as is necessary to provide you with the services that you have requested from us or for as long as otherwise permitted by law.
+### **_HOW LONG IS YOUR INFORMATION KEPT FOR?_**
+
+Save as expressly set out below, we will retain information collected pursuant to this Policy for as long as is necessary to provide you with the services that you have requested from us or for as long as otherwise permitted by law.
 
   1. _Individuals:_
 
@@ -152,22 +148,26 @@ Without prejudice to the above, to ensure that we always have the most up to dat
 
 
 
-These e-mail communications will ask you to expressly re-subscribe and provide your current details. If you do not respond, we will assume that you no longer wish to hear from us and will remove you from the mailing list until such time as you actively re-subscribe. 
+These e-mail communications will ask you to expressly re-subscribe and provide your current details. If you do not respond, we will assume that you no longer wish to hear from us and will remove you from the mailing list until such time as you actively re-subscribe.
 
-**_WHERE YOUR INFORMATION IS STORED:_**
+* * *
+
+### **_WHERE YOUR INFORMATION IS STORED:_**
 
 Our servers are situated in the European Economic Area (predominately the UK and Ireland) and all of the information that we collect about you will be stored on these servers.
 
-Unless permitted by any specific law or regulation, we will not share your information outside of the European Economic Area without your explicit consent.
+Save as expressly set out herein, and/or unless permitted by any specific law or regulation, we will not share your information outside of the European Economic Area without your explicit consent.
 
-**_YOUR RIGHTS, CONTROLS AND CHOICES:_**
+* * *
+
+### **_YOUR RIGHTS, CONTROLS AND CHOICES:_**
 
 We provide you with the ability to exercise certain controls regarding its collection, use and sharing of your information. In accordance with local law, your controls and choices may include:
 
   * You may change your choices for subscriptions, newsletters and alerts;
   * You may choose whether to receive from us offers and promotions regarding our content or services, or content, products or services which we believe may be of interest to you;
   * You may choose whether we share your information with other companies outside of the Trafalgar group so that they can send you offers and promotions about their products and services;
-  * You may choose whether to receive targeted advertising from any ad networks, data exchanges, marketing analytics and other service providers by visiting <http://www.aboutads.info/choices>. 
+  * You may choose whether to receive targeted advertising from any ad networks, data exchanges, marketing analytics and other service providers by visiting <http://www.aboutads.info/choices>.
 
 
 
@@ -183,20 +183,26 @@ In addition, you have certain rights in respect of the information which we hold
 
 You may exercise your controls and choices by following instructions provided in any communications sent to you or by contacting us via email on [legal@trafalgar-releasing.com](mailto:legal@trafalgar-releasing.com). _Please be aware that in order to process your request we may first require you to provide further information in order to verify your identity as the owner of such personal information._
 
-**_CHILDREN’S PRIVACY:_**
+* * *
 
-We consider a child to be anyone under the age of 16. We do not knowingly seek or collect personal information from or about children without the consent of a parent or guardian.
+### **_CHILDREN’S PRIVACY:_**
 
-If TRL becomes aware that personal information that has been submitted to us relates to a child without the consent of a parent or guardian, TRL will use reasonable efforts to:
+We consider a child to be anyone under the age of 13. However, we do not knowingly target or collect personal information from or about individuals under the age of 15, without the consent of a parent or guardian.
+
+**CHILDREN** : You must be over the age of 15 to use this website or register for our mailing lists. **Please do not sign up to any of our mailing lists if you are under the age of 15.**
+
+**PARENTS/GUARDIANS:** Whilst we do not knowingly target or collect personal information from under 15s, we do recommend that parents monitor their child’s online activity and, wherever possible, consider using any available ‘parental control tools’ that help-provide for a child friendly environment online. These tools can prevent children from disclosing their name, address and other personal information without parental consent. **Any parent or guardian with queries regarding our website and/or processing of personal information relating to their child should contact us at[legal@trafalgar-releasing.com](mailto:legal@trafalgar-releasing.com). **
+
+Once TRL becomes aware that personal information that has been submitted to us relates to a child without the consent of a parent or guardian, TRL will use reasonable efforts to:
 
   * Delete that personal information from its files as soon as possible;
   * Ensure, where deletion is not possible, that this personal information is not used further for any purpose, nor disclosed further to any third party.
 
 
 
-Any parent or guardian with queries regarding our processing of personal information relating to their child should contact us at [legal@trafalgar-releasing.com](mailto:legal@trafalgar-releasing.com).
+* * *
 
-**_COOKIES:_**
+### **_COOKIES:_**
 
 Cookies are small pieces of information, often in the form of encrypted text files, that are placed on your device when you visit a website which allow the website owner to monitor your use of their site, simplify your user experience and to bring together information which is collected about you.
 
@@ -204,75 +210,32 @@ You have the ability to choose to have your device warn you each time a cookie i
 
 For information about how to change the way your browser interacts with cookies, please visit the ‘Help’ section of your internet browser or visit [http://allaboutcookies.org](http://allaboutcookies.org/) for further general information regarding the way in which cookies work.
 
-The names of the cookies used by this website, and the purpose for which they are used are as follows: 
+The names of the cookies used by this website, and the purpose for which they are used are as follows:
 
-Cookie
-
-| 
-
-Name
-
-| 
-
-Purpose  
-  
+Cookie | Name | Purpose  
 ---|---|---  
-  
-Google Analytics
-
-| 
+Google Analytics | 
 
 _ga
 
 _gid
 
-| 
-
-These cookies collect information, in an anonymous form, about how visitors use this website; such as the number of visitors to the website, where visitors have come to the site from, and the specific pages which they visited during each session. This information is used to compile reports and improve the site.  
-  
-Google Tag Manager
-
-| 
-
-_dc_gtm_UA-*
-
-| 
+| These cookies collect information, in an anonymous form, about how visitors use this website; such as the number of visitors to the website, where visitors have come to the site from, and the specific pages which they visited during each session. This information is used to compile reports and improve the site.  
+Google Tag Manager | _dc_gtm_UA-* | 
 
 These cookies are used to supplement analytics and ad campaigns via Google DoubleClick.
 
 Note: Google DoubleClick may add cookies of its own which TRL has no control over or access to, for more information on how and the terms on which these cookies may operate, please refer to Google’s own Privacy Policy.  
   
-Banner
-
-| 
+Banner | 
 
 cookiemessagecookie
 
 acceptcookies
 
-| 
-
-These cookies are used to determine whether or not to show the cookie acceptance banner to a user on each visit. This is added on your first visit to this website and used to prevent the banner from showing on each occasion thereafter.  
-  
-Previous Visits
-
-| 
-
-previouslyvistedhomepage
-
-| 
-
-These cookies are used to determine whether or not a user has previously visited the website.  
-  
-Session Identification
-
-| 
-
-ASP.NET_sessionid
-
-| 
-
-These cookies are used to identify each user’s session on TRL’s server, to prevent a user from having to re-approve banners or resubmit information when clicking through from one page to another.  
+| These cookies are used to determine whether or not to show the cookie acceptance banner to a user on each visit. This is added on your first visit to this website and used to prevent the banner from showing on each occasion thereafter.  
+Previous Visits | previouslyvistedhomepage | These cookies are used to determine whether or not a user has previously visited the website.  
+Session Identification | ASP.NET_sessionid | These cookies are used to identify each user’s session on TRL’s server, to prevent a user from having to re-approve banners or resubmit information when clicking through from one page to another.  
   
 Login
 
@@ -290,12 +253,14 @@ These cookies are added when a user signs in to the Download Centre to identify 
 
 These cookies are added when there is a form on the relevant page and used to prevent cross site request forgery.  
   
-This website may also contain content and links to third-party websites that also operate cookies. TRL does not control these third-party websites or cookies and this Policy does not apply to them. Please consult the policy of the relevant third party to find out how they collect and use your information. 
+This website may also contain content and links to third-party websites that also operate cookies. TRL does not control these third-party websites or cookies and this Policy does not apply to them. Please consult the policy of the relevant third party to find out how they collect and use your information.
 
-**CHANGES TO THIS PRIVACY POLICY:**
+### **_CHANGES TO THIS PRIVACY POLICY:_**
 
 TRL reserves the right to make changes to this Policy from time to time and as may be necessary to new technologies, industry practices, regulatory requirements or other purposes.
 
 In the event that any such changes are material, TRL will notify you, and, where required by applicable law, obtain your consent.
 
-For transparency, the date on which changes were last made to this Policy is set forth at the top of this page.
+For transparency, the date on which significant and material changes were last made to this Policy is set forth at the top of this page.
+
+Last Updated Oct. 15, 2019
