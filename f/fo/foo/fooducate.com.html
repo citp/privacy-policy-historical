@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fooducate.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630171951id_/http%3A//www.fooducate.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fooducate.com privacy policy that was archived on 2019-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191121011655id_/http%3A//www.fooducate.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" class=" async-hide"><head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -29,10 +29,10 @@
 
 <!-- styles -->
 <!--<link type="text/css" rel="stylesheet" href="/resources/lib/bootstrap/css/bootstrap.min.css?--><!--">-->
-<link type="text/css" rel="stylesheet" href="/resources/lib/bootstrap/css/bootstrap-fdct-2.css?3.04">
-<!--<link type="text/css" rel="stylesheet" href="/resources/css/jquery.guillotine.css?3.04">-->
+<link type="text/css" rel="stylesheet" href="/resources/lib/bootstrap/css/bootstrap-fdct-2.css?3.14">
+<!--<link type="text/css" rel="stylesheet" href="/resources/css/jquery.guillotine.css?3.14">-->
 
-    <link type="text/css" rel="stylesheet" href="/cache/css/3.04.css">
+    <link type="text/css" rel="stylesheet" href="/cache/css/3.14.css">
 
 <!--[if lte IE 8]>
 <link rel="stylesheet" type="text/css" href="/resources/css/all/all-ie8.css"/>
@@ -58,7 +58,7 @@
 <meta name="msapplication-config" content="/resources/images/app-icons/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 <link rel="icon" href="/resources/images/app-icons/favicon.svg" sizes="any" type="image/svg+xml">
-<link rel="manifest" href="/cache/etc/manifest.3.04.json">
+<link rel="manifest" href="/cache/etc/manifest.3.14.json">
 
     <!-- js library scripts -->
 
@@ -72,7 +72,7 @@
     // Setting js values that already calculated by the server and are used by client side
     var FDCT = {
         serverData: {
-            version: '3.04' /*For client requesting resources in ajax style (such as ui template files)*/,
+            version: '3.14' /*For client requesting resources in ajax style (such as ui template files)*/,
             email: 'support@fooducate.com',
             mediaCdn: 'https://media.fooducate.com/',
             isHomePage: false,
@@ -1085,7 +1085,9 @@ qacct:"p-32ZpecpmHav_Y"
 				{{/if}}
 				<div class="vcenter">
 					<div class="user-nick">${userNick}</div>
-					<div class="date">${FDCT.DateFormatter.formatRelative(time)}</div>
+					{{if showTime}}
+						<div class="date">${FDCT.DateFormatter.formatRelative(time)}</div>
+					{{/if}}
 				</div>
 			</div>
 			<div class="clearfix">
@@ -1168,7 +1170,12 @@ qacct:"p-32ZpecpmHav_Y"
 									{{/if}}
 									<div class="vcenter">
 										<div class="user-nick">${userNick}</div>
-										<div class="date">{{if isUpdated}}Updated: {{/if}}${FDCT.DateFormatter.formatRelative(time)}</div>
+										{{if isUpdated}}
+										<div class="date">Updated: ${FDCT.DateFormatter.formatRelative(lastUpdate)}</div>
+										<div class="date">Published: ${FDCT.DateFormatter.formatRelative(time)}</div>
+										{{else}}
+										<div class="date">${FDCT.DateFormatter.formatRelative(lastUpdate)}</div>
+										{{/if}}
 									</div>
 								</div>
 								<div class="content clearfix">
@@ -1747,9 +1754,9 @@ qacct:"p-32ZpecpmHav_Y"
 						</div>
 					</div>
 
-					<div id="matched-content-region"></div>
-					
                     <div id="ad-panel-mid-region"></div>
+					
+					<div id="matched-content-region"></div>
 
 					<div id="nutrients-region"></div>
 
@@ -2633,7 +2640,7 @@ qacct:"p-32ZpecpmHav_Y"
 	</div>
 </div></script>
 	
-    <script src="/cache/js/3.04.js"></script>
+    <script src="/cache/js/3.14.js"></script>
 	
 	
 <script>
