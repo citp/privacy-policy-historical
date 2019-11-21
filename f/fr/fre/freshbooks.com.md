@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624050458id_/https%3A//www.freshbooks.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbooks.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121011549id_/https%3A//www.freshbooks.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FreshBooks
 
@@ -106,7 +106,7 @@ With your consent we may post your testimonial along with your name. If you want
 
 Our Web site includes Social Media Features, such as the Facebook and Twitter buttons and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@freshbooks.com](mailto:privacy@freshbooks.com).
 
 **Notification of Privacy Statement Changes**
 
