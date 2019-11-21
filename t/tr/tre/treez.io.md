@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the treez.io privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408184620id_/https%3A//www.treez.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treez.io privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121221732id_/https%3A//www.treez.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — TREEZ - Powerful Cannabis POS, Inventory Management and Cultivation Software Platform for Dispensaries and Growers
+# Privacy Policy
 
 **What personal information do we collect from the people that visit our blog, website or app?**
 
