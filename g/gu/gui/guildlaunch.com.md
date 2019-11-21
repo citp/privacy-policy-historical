@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guildlaunch.com privacy policy that was archived on 2017-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170926063749id_/https%3A//www.gamerlaunch.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildlaunch.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121190425id_/http%3A//www.gamerlaunch.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GamerLaunch Guild, Clan & Team Hosting
 
@@ -39,10 +39,37 @@ If you are concerned about the Personally Identifying Information you have provi
 
 If you do not wish to receive marketing or promotional materials from Gamer Launch, please send an email to [support@gamerlaunch.com](mailto:support@gamerlaunch.com) with the words “Remove from Marketing Lists” in the subject line and re-type the email address to be removed in the text of the e-mail for verification purposes.
 
+## General Data Protection Regulation (GDPR)
+
+All EU citizens have additional rights under the GDPR. We take GDPR seriously and will process any GDPR requests without undue delay. Email all GDPR related requests to privacy@gamerlaunch.com. Include necessary information to identify the requested action and data subject as defined by [the GDPR](https://gdpr-info.eu/).
+
+Certain data is required to use our service. We track IP addresses for fraud and abuse prevention. Username, Handle and Email are required for account creation. Under the GDPR our legal basis for this collection is legitimate interest due to requiring of processing this data to provide our services for login, user accounts, etc.
+
+### You can contact us at any time to:
+
+  * Request information that Guild Launch, LLC has about you.
+  * Correct any information that Guild Launch, LLC.
+  * Delete information that Guild Launch, LLC has about you.
+
+
+
+### You have the following rights under the GDPR:
+
+  * Right to be informed
+  * Right of access
+  * Right of rectification
+  * Right to erasure
+  * Right to restrict data processing
+  * Right to data portability
+  * Right to object
+  * Rights of automated decision-making and profiling
+
+
+
 If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with Gamer Launch, please feel free to contact Gamer Launch at the following address:
 
-8010 Roswell Rd,  
-Atlanta, GA 30350
+80 Johnson Ferry Rd NE,  
+Atlanta, GA 30328
 
 Or feel free to contact Gamer Launch at the following e-mail address: [support@gamerlaunch.com](mailto:support@gamerlaunch.com).
 
