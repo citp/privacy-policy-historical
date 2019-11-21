@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the broadbandnow.com privacy policy that was archived on 2017-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170731192503id_/http%3A//broadbandnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandnow.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121081126id_/https%3A//broadbandnow.com/privacy-policy) for the most accurate reproduction.*
 
 # BroadbandNow - Privacy Policy
 
 ### Broadbandnow.com Privacy Policy
 
-Thank you for using BroadbandNow.com. We take your privacy seriously at Microbrand Media LLC (the owner of BroadbandNow.com). This Privacy Policy explains how we collect your information at the BroadbandNow.com website and what happens with your information.
+Thank you for using BroadbandNow.com. We take your privacy seriously at Centerfield BBN, LLC (the owner of BroadbandNow.com). This Privacy Policy explains how we collect your information at the BroadbandNow.com website and what happens with your information.
 
 By using this site, you consent to the terms of this Privacy Policy, so take the time to review the terms so you can make an informed choice about whether you will continue to use this site.
 
-This privacy policy was last changed on 11/8/2016
+This privacy policy was last changed on 01/07/19
 
 ### What Information Do We Collect?
 
@@ -18,11 +18,11 @@ We collect non-identifiable personal information as you use the site through the
 
 ### How Do We Use Your Information?
 
-When you process a request for more information we will pass on your name, business name, address, email, telephone number, and IP address to our Third Party Partners who will send you information and contact you as you requested, per their privacy policies and other agreements with you. We may also contact you directly to survey you about your experience with our partners so we can better serve future customers.
+When you process a request for more information we will contact you directly as you requested and consented to or we will pass on your name, business name, address, email, telephone number, and IP address to our Third Party Partners who will send you information and contact you as you requested, per their privacy policies and other agreements with you. We may also contact you directly to survey you about your experience with our partners so we can better serve future customers.
 
 We use first-party and third-party cookies to compile aggregate data about site traffic and site interaction so we can optimize our website and create a better user experience for you, and for marketing purposes. We may use cookies via Google Analytics Advertising Features and Facebook Advertising for remarketing, impression reporting, and interest reporting. [Click here to opt-out of Google Analytics cookies](https://tools.google.com/dlpage/gaoptout). If you want to block cookies completely, you can disable them in your browser: [Chrome](http://support.google.com/accounts/answer/61416?hl=en), [Firefox](http://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences), [Safari](http://support.apple.com/en-us/HT201265), or [Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/Block-or-allow-cookies).
 
-BroadbandNow.com does not respond to DNT (“Do Not Track”) privacy settings in your website browser. Microbrand Media may use third-party tracking services to provide data in order to optimize the services available on BroadbandNow.com.
+BroadbandNow.com does not respond to DNT (“Do Not Track”) privacy settings in your website browser. Centerfield BBN may use third-party tracking services to provide data in order to optimize the services available on BroadbandNow.com.
 
 ### How Do You Unsubscribe?
 
@@ -45,19 +45,3 @@ We do not collect any information from anyone under 13 years of age. This websit
 ### Questions Regarding This Policy
 
 If there are any questions regarding this privacy policy, please direct them to: legal@broadbandnow.com.
-
-Disclaimer: All trademarks remain the property of their respective owners, and are used by BROADBANDNOW only to describe products and services offered by each respective trademark holder. The use of any third party trademarks on this site in no way indicates any relationship, connection, association, sponsorship, or affiliation between BROADBANDNOW and the holders of said trademarks. BROADBANDNOW is a comparison and research website that does not offer internet, TV, or home phone service.
-
-  * [Technology](https://web.archive.org/technology) ·
-  * [Data](https://web.archive.org/data) ·
-  * [Contact Us](https://web.archive.org/contact) ·
-  * [Privacy Policy](https://web.archive.org/privacy-policy) ·
-  * [Terms of Service](https://web.archive.org/terms-of-service)
-
-
-
-Made with love by Nick Reese and Duane Anderson in Austin, Texas.
-
-© 2014 – 2017 BROADBANDNOW
-
-BroadbandNow is a registered trademark of Microbrand Media LLC
