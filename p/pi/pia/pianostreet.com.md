@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pianostreet.com privacy policy that was archived on 2018-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180601210724id_/https%3A//www.pianostreet.com/PianoStreetPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianostreet.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121185252id_/https%3A//www.pianostreet.com/PianoStreetPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Piano Street
 
 _Stockholm, Sweden - updated 21 August 2011_
 
-For Piano Street (www.pianostreet.com) by Op 111 Productions  
+For Piano Street ([www.pianostreet.com](https://web.archive.org/)) by [Op 111 Productions AB](http://www.op111.com/)  
 
 
 ## Your Personal Information 
