@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftgawker.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417123601id_/https%3A//craftgawker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftgawker.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121140043id_/https%3A//craftgawker.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | craftgawker
 
