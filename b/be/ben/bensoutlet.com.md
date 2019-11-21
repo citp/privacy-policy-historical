@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bensoutlet.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423031943id_/https%3A//www.1sale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bensoutlet.com privacy policy that was archived on 2019-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191121011355id_/https%3A//www.1sale.com/privacy-policy) for the most accurate reproduction.*
 
 # 1Sale: Online Coupon Codes, Daily Deals, Black Friday Deals, Coupons, Promo Codes, Discounts | Privacy Policy
 
