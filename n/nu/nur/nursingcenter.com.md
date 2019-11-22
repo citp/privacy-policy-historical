@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615150214id_/https%3A//www.nursingcenter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingcenter.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122023142id_/https%3A//www.nursingcenter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -205,7 +205,7 @@ The access and correction provisions of this Privacy Policy only apply to Person
 
   * ### Your Privacy Rights Under California Law
 
-Residents of California who have provided Personal Information to us have the right to request from us a list of the third parties with whom we have shared certain Personal Information, as defined under California Civil Code Section 1798.90(e) during the preceding year for third party direct marketing purposes. We will respond to one request per California resident per calendar year, in accordance with California Civil Code Section 1798.83. To submit such request, contact us by mail at 14700 Citicorp Drive Building #3 Hagerstown, MD 21742 or by email at [customersupport@lww.com](mailto:customersupport@lww.com). Please allow 30 days for a response.
+Residents of California who have provided Personal Information to us have the right to request from us a list of the third parties with whom we have shared certain Personal Information, as defined under California Civil Code Section 1798.90(e) during the preceding year for third party direct marketing purposes. We will respond to one request per California resident per calendar year, in accordance with California Civil Code Section 1798.83. To submit such request, contact us by mail at 14700 Citicorp Drive Building #3 Hagerstown, MD 21742 or by email at [healthlrp_privacy@wolterskluwer.com](mailto:healthlrp_privacy@wolterskluwer.com). Please allow 30 days for a response.
 
 
 
@@ -218,7 +218,7 @@ We reserve the right to change this Privacy Policy at any time by posting a new 
 
 If you have any questions, concerns, or suggestions regarding our Privacy Policy, we can be contacted at:
 
-By email to: [customersupport@lww.com](mailto:customersupport@lww.com); or
+By email to: [healthlrp_privacy@wolterskluwer.com](mailto:healthlrp_privacy@wolterskluwer.com); or
 
 By telephone to the applicable number listed here:
 
