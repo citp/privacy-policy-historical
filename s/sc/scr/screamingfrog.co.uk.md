@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screamingfrog.co.uk privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621084503id_/https%3A//www.screamingfrog.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screamingfrog.co.uk privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122201010id_/https%3A//www.screamingfrog.co.uk/privacy) for the most accurate reproduction.*
 
 # Disclaimer | Screaming Frog
 
@@ -26,7 +26,7 @@ We will collect information from you if you:
 
 • register to buy a product; this will include your name, company name, address, email address and VAT number and payment details;  
 • complete online forms, take part in surveys, write posts or comments on any message boards, enter any competitions or prize draws, download or participate in any other interactive areas that appear on our website or which we offer to you from time to time  
-• provide your contact details when you register to use or accessany product or service we provide  
+• provide your contact details when you register to use or access any product or service we provide  
 • use our software or tools; We may check specific information relevant to your use of the software or product contained in your computer against our records to make sure the software or products are being used in accordance with our software licence agreements. This may include your username, licence key, IP address, anonymised machine id, timestamp. We may gather statistical information about the operating system and environment on which our software or product are installed; When we automatically gather data relating to crashes, bugs or issues encountered when using any of our tools or software; When you send software logs or debug reports which may contain details of sites crawled, short extracts of log files analysed and other settings  
 • contact us offline for example by telephone, fax, email or post.
 
@@ -64,6 +64,8 @@ Your data is stored in secure data centres located in the United Kingdom & Unite
 Access to this data is restricted to authorised personnel only.
 
 We will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage. 
+
+Our software applications may, with your consent, access and store your Google user data, however, such data is only available and stored by the user, will only be used for the purposes outlined in this policy and will not be accessible or shared by us.
 
 **7\. Transfers outside Europe**
 
@@ -164,4 +166,4 @@ Descriptions of, or references to products, services or publications within the 
 **EXCLUSION OF LIABILITY**  
 To the maximum extent permitted by law the Company excludes liability for any loss, claim, damages or any special, consequential, exemplary or punitive damages (whether directly or indirectly incurred) of any kind arising out of or in connection with any visitor’s or user’s access to, or use of the Website, or any material thereon, whether based in contract, tort or whether negligent or otherwise, even in the Company has been advised of the possibility of such damage..
 
-Last updated 25 April 2019
+Last updated 7th November 2019
