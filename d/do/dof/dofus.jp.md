@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dofus.jp privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430150147id_/http%3A//www.dofus.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dofus.jp privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122211827id_/http%3A//www.dofus.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ankama - DOFUS, the strategic MMORPG - DOFUS, the strategic MMORPG
 
@@ -256,7 +256,7 @@ Last amended: May 2018
 For any inquiry or complaint relating to our Privacy Policy, you may contact Us in French or in English:
 
   * by postal mail at the following address: ANKAMA – Infos Personnelles, 75 bd d'Armentières, BP 60403, 59057 Roubaix cedex 1, France; or
-  * by email at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ea9a98839c8b8993aa8b84818b878bc4898587)
+  * by email at: [privacy@ankama.com](mailto:privacy@ankama.com)
 
 
 
