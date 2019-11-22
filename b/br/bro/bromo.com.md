@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bromo.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331130802id_/https%3A//www.bromo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bromo.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122073307id_/https%3A//www.bromo.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Last Modified: May 21st, 2018_**
+**_Last Modified: July 9th, 2019_**
 
 ## Introduction
 
@@ -227,13 +227,13 @@ We do not guarantee error-free performance under this privacy policy. We will us
 
 ## Contact Information
 
-If you have any questions about this privacy policy or our information-handling practices, please contact us at [privacy@romo.com](mailto:privacy@romo.com).
+If you have any questions about this privacy policy or our information-handling practices, please contact us at [privacy@bromo.com](mailto:privacy@bromo.com).
 
 You may also contact us at 195-197 Old Nicosia-Limassol Road, Block 1 Dali Industrial Zone, Cyprus 2540, Phone: +357 22662 320, Fax: +357 22343 282.
 
 ## Manage Your Private Data
 
-  * [ Request a Copy of my Data](https://www.managemydata.eu/requestDataCopy?productId=10126)
-  * [Request Deletion of my Data](https://www.managemydata.eu/requestDataDeletion?productId=10126)
+  * [ Request a Copy of my Data](https://www.managemydata.eu/requestDataCopy?productId=10178)
+  * [Request Deletion of my Data](https://www.managemydata.eu/requestDataDeletion?productId=10178)
 
 
