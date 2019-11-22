@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incloak.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511201733id_/https%3A//hidemyna.me/en/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incloak.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122213057id_/https%3A//hidemy.name/en/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -134,7 +134,7 @@ We work with the following payment processors:
 
 ## Analytics
 
-Yandex Metrika (“Web Analytics“) and Google Analytics are used by HideMy.name to evaluate information about our website visitors. Once a page is loaded by your web browser on our website, a little piece of javascript code gets executed within your browser, submitting to the Web Analytics services information about the connecting device, e.g. your browser screen resolution, language, user-agent, referring website, etc. Determined to maximize your anonymity, HideMy.name has decided to allow Web Analytics to collect only a certain portion of the IP address. Web cookies may also be stored by Web Analytics for the purpose of helping them identify repeat users. If you feel concerned about being tracked by Web Analytics’ scripts on HideMy.name or any other site operating it, you can install a browser add-on, such as AdBlock, [gaoptout](https://tools.google.com/dlpage/gaoptout), or Ghostery, which would allow you to opt out of this tracking.
+Yandex Metrika, Google Analytics and similar other web analytics are used by HideMy.name to evaluate information about our website visitors. Once a page is loaded by your web browser on our website, a little piece of javascript code gets executed within your browser, submitting to the Web Analytics services information about the connecting device, e.g. your browser screen resolution, language, user-agent, referring website, etc. Determined to maximize your anonymity, HideMy.name has decided to allow Web Analytics to collect only a certain portion of the IP address. Web cookies may also be stored by Web Analytics for the purpose of helping them identify repeat users. If you feel concerned about being tracked by Web Analytics’ scripts on HideMy.name or any other site operating it, you can install a browser add-on, such as AdBlock, [gaoptout](https://tools.google.com/dlpage/gaoptout), or Ghostery, which would allow you to opt out of this tracking.
 
 ## Data Transfer
 
