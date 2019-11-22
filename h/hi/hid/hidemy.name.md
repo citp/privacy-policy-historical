@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidemy.name privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511201733id_/https%3A//hidemyna.me/en/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidemy.name privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122213057id_/https%3A//hidemy.name/en/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -111,7 +111,7 @@ In particular circumstances, you have the right:
 
 You have the right to portability of the data you give us. For the purposes of managing and transferring your Personal Data, you may request its copy in the form of a commonly used electronic format. Please be advised that we may demand verification of your identity before responding to the above mentioned requests.
 
-You have the right to file a complaint with a legal authority responsible for data protection if you believe that our processing of your personal information violates data protection laws. You may lodge such a complaint in the EU member state of your habitual residence, your workplace or the place of the supposed violation. As long as the legal basis for your personal data processing by us is based on your consent, you can withdraw that consent at any time you wish. This consent withdrawal, however, will not affect the lawfulness of the personal information processing before the consent withdrawal. You may exercise any of your rights in relation to your personal data by notifying us in a written form, ideally via email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You have the right to file a complaint with a legal authority responsible for data protection if you believe that our processing of your personal information violates data protection laws. You may lodge such a complaint in the EU member state of your habitual residence, your workplace or the place of the supposed violation. As long as the legal basis for your personal data processing by us is based on your consent, you can withdraw that consent at any time you wish. This consent withdrawal, however, will not affect the lawfulness of the personal information processing before the consent withdrawal. You may exercise any of your rights in relation to your personal data by notifying us in a written form, ideally via email privacy@hidemy.name
 
 ## Payments
 
@@ -134,7 +134,7 @@ We work with the following payment processors:
 
 ## Analytics
 
-Yandex Metrika (“Web Analytics“) and Google Analytics are used by HideMy.name to evaluate information about our website visitors. Once a page is loaded by your web browser on our website, a little piece of javascript code gets executed within your browser, submitting to the Web Analytics services information about the connecting device, e.g. your browser screen resolution, language, user-agent, referring website, etc. Determined to maximize your anonymity, HideMy.name has decided to allow Web Analytics to collect only a certain portion of the IP address. Web cookies may also be stored by Web Analytics for the purpose of helping them identify repeat users. If you feel concerned about being tracked by Web Analytics’ scripts on HideMy.name or any other site operating it, you can install a browser add-on, such as AdBlock, [gaoptout](https://tools.google.com/dlpage/gaoptout), or Ghostery, which would allow you to opt out of this tracking.
+Yandex Metrika, Google Analytics and similar other web analytics are used by HideMy.name to evaluate information about our website visitors. Once a page is loaded by your web browser on our website, a little piece of javascript code gets executed within your browser, submitting to the Web Analytics services information about the connecting device, e.g. your browser screen resolution, language, user-agent, referring website, etc. Determined to maximize your anonymity, HideMy.name has decided to allow Web Analytics to collect only a certain portion of the IP address. Web cookies may also be stored by Web Analytics for the purpose of helping them identify repeat users. If you feel concerned about being tracked by Web Analytics’ scripts on HideMy.name or any other site operating it, you can install a browser add-on, such as AdBlock, [gaoptout](https://tools.google.com/dlpage/gaoptout), or Ghostery, which would allow you to opt out of this tracking.
 
 ## Data Transfer
 
@@ -192,5 +192,5 @@ You are advised to check this page from time to time to make sure that you are s
 inCloak Network Limited owns and operates HideMy.name websites and the HideMy.name VPN service. We are registered in Belize, and our registered office is at Suite 102, Ground Floor, Blake Building, Corner Eyre & Hutson Streets, Belize City, Belize.
 
 We may be contacted:  
-By email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7505071c0314160c351d1c1110180c5b1b141810)  
+By email [privacy@hidemy.name](mailto:privacy@hidemy.name)  
 By visiting the following page on our website <https://hidemy.name/feedback/>
