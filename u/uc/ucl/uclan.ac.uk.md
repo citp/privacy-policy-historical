@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uclan.ac.uk privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612194422id_/https%3A//www.uclan.ac.uk/corporate_information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uclan.ac.uk privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122160932id_/http%3A//www.uclan.ac.uk/corporate_information/privacy.php) for the most accurate reproduction.*
 
 # Privacy | University of Central Lancashire
 
@@ -29,7 +29,7 @@ When you access our website or officially recognised microsites, we use cookies 
 
 ### **What Are Cookies ?**
 
-A cookie is a small text file that is placed on your computer or device by websites that you visit. Cookies are widely used in order to enhance websites, providing a more tailored and personal experience whilst permitting websites to review and analyse anonymous information about visitors (e.g., time spent on particular pages). Some of these cookies are presented by us, some of the cookies are presented by third-parties such as Google, YouTube, Facebook and Twitter. A cookie does not identify the individual viewing a web page and does not give us access to your computer. Further information about cookies can be found at [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+A cookie is a small text file that is placed on your computer or device by websites that you visit. Cookies are widely used in order to enhance websites, providing a more tailored and personal experience whilst permitting websites to review and analyse anonymous information about visitors (e.g., time spent on particular pages). Some of these cookies are presented by us, some of the cookies are presented by third-parties such as Google, YouTube, Facebook and Twitter. A cookie does not identify the individual viewing a web page and does not give us access to your computer. Further information about cookies can be found at [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
 ### **Managing Cookies**
 
@@ -37,13 +37,13 @@ We would like you to accept the cookies we serve, however we appreciate you may 
 
 Nearly all browsers allow you to update and change your options and cookie settings – which you can find out further information using the links below:
 
-**[Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-1010) **
+**[Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies#ie=ie-1010)**
 
-[****Mozilla Firefox****](http://support.mozilla.org/en-US/kb/Cookies)
+**[Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)**
 
 [**Google Chrome**](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=14666)
 
-[**Safari and iOS**](http://support.apple.com/kb/PH5042)
+[**Safari and iOS**](https://support.apple.com/kb/PH5042)
 
 Please be aware that by disabling some cookies, a number of important web functions and services on our site may not operate effectively - which will affect your experience on our site. You may also block third party cookies used by our advertisers; however you may still receive advertisements, these will just not be tailored to your likes and interests. You can find out more via [Your Online Choices](http://www.youronlinechoices.com/uk/).
 
@@ -340,7 +340,7 @@ From time to time we will facilitate the presentation of surveys on the website.
 
 ### **Limit of this policy**
 
-This privacy policy applies only to websites administered by the University of Central Lancashire which reside on the main UCLan domain ([www.uclan.ac.uk](http://www.uclan.ac.uk/)) and officially recognised UCLan microsites. While this website provides links to other relevant websites, the University cannot be held responsible for the content provided by third-party websites or providers and is not responsible for the privacy policies and protection of your data collected by these websites.
+This privacy policy applies only to websites administered by the University of Central Lancashire which reside on the main UCLan domain ([www.uclan.ac.uk](https://www.uclan.ac.uk/)) and officially recognised UCLan microsites. While this website provides links to other relevant websites, the University cannot be held responsible for the content provided by third-party websites or providers and is not responsible for the privacy policies and protection of your data collected by these websites.
 
 ### **Contact Us - UCLan’s Information Governance Manager**
 
