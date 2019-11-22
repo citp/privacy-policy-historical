@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceoftravel.com privacy policy that was archived on 2018-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181122224401id_/https%3A//www.priceoftravel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceoftravel.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122045810id_/https%3A//www.priceoftravel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Price of Travel
 
@@ -60,4 +60,4 @@ This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.co
 
 The content of this website has been protected by DMCA.
 
-[ ](http://www.dmca.com/Protection/Status.aspx?ID=37073d90-adce-4c24-a7c6-1dc4c33ee5dd "DMCA.com Protection Status")
+[ ](https://www.dmca.com/Protection/Status.aspx?ID=37073d90-adce-4c24-a7c6-1dc4c33ee5dd "DMCA.com Protection Status")
