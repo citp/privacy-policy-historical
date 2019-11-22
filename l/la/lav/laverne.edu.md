@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laverne.edu privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331225754id_/https%3A//laverne.edu/policies/terms-use-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laverne.edu privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122172846id_/https%3A//laverne.edu/policies/terms-use-privacy-policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy | University Policies
 
