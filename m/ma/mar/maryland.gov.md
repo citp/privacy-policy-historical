@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maryland.gov privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410194335id_/http%3A//www.maryland.gov/pages/privacy_security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maryland.gov privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122200238id_/https%3A//www.maryland.gov/pages/privacy_security.aspx) for the most accurate reproduction.*
 
 # Maryland.gov Privacy and Security Policy - Maryland.gov
 
