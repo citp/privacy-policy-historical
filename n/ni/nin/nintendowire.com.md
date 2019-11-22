@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendowire.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522225246id_/https%3A//nintendowire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendowire.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122225645id_/https%3A//nintendowire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Nintendo Wire
 
@@ -15,6 +15,8 @@ Nintendo Wire follows a standard procedure of using log files. These files log v
 ### **Cookies and web beacons**
 
 Like any other website, www.nintendowire.com uses cookies. These cookies are used to store information including visitors’ preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize users’ experiences by customizing our web page content based on visitors’ browser type and/or other information.
+
+Manage Cookie Settings
 
 ### **DoubleClick DART cookie**
 
@@ -47,6 +49,10 @@ Note that www.nintendowire.com has no access to or control over these cookies th
 Nintendo Wire’s privacy policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective privacy policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt out of certain options. You may find a complete list of these privacy policies and their links here: [privacy policy links](http://www.google.com/privacy_ads.html).
 
 You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browser’s respective website.
+
+We use third party advertisements to support our site. Some of these advertisers may be served from our third party advertiser, you can view their [privacy policy](https://www.network-n.com/network-privacy-policy/) and [cookie policy](https://www.network-n.com/network-cookie-policy/) here. You can manage your cookies here 
+
+We use Google Analytics and Comscore to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/). Comscore’s privacy policy is available at [https://www.comscore.com/About-comScore/Privacy-Policy](https://www.comscore.com/About-comScore/Privacy-Policy).
 
 ### Online privacy policy only
 
