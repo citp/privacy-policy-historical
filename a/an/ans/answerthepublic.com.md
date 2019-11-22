@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the answerthepublic.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905160158id_/https%3A//answerthepublic.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the answerthepublic.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122200940id_/https%3A//answerthepublic.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# AnswerThePublic.com: that free visual keyword research & content ideas tool
+# AnswerThePublic: that free visual keyword research & content ideas tool
 
 ### ANSWERTHEPUBLIC PRIVACY POLICY
 
