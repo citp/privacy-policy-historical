@@ -1,12 +1,10 @@
-<!--The following is the downloaded HTML source of the freeprnow.com privacy policy that was archived on 2018-07-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180724160829id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeprnow.com privacy policy that was archived on 2019-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191122013144id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
-            <base href="http://www.freePRnow.com/">
- 
-        
         <link rel="alternate" type="application/rss+xml" title="Latest Press Releases from freePRnow.com" href="http://www.freePRnow.com/rss.xml"> <!-- for blogs et al to know where rss file is -->
         <link rel="image_src" href="/Images/logofprn1.png">   <!-- For Facebook -->
+        <!-- add canonicalization tag -->
 
         <title>Online Free Press Release PR Distribution Submission Service Websites</title> 
         <meta name="description" content="freePRnow – Submit news on free press releases submission websites by our online PR distribution service sites to make your news available to journalists, new sites for maximum exposure."> 
@@ -62,13 +60,13 @@
                 }
                 if (sTotalCost > 0) {
                     document.getElementById('lblTotalCost').innerHTML = 'Total Cost: ' + formatNumber(sTotalCost.toString(), '$') + '&nbsp;&nbsp;';
-                    document.getElementById('ctl00_cphMain_btnFreePR').style.visibility = "hidden";
-                    document.getElementById('ctl00_cphMain_btnPayPal').style.visibility = "visible";
+                    document.getElementById('btnFreePR').style.visibility = "hidden";
+                    document.getElementById('btnPayPal').style.visibility = "visible";
                 }
                 else {
                     document.getElementById('lblTotalCost').innerHTML = '';
-                    document.getElementById('ctl00_cphMain_btnFreePR').style.visibility = "visible";
-                    document.getElementById('ctl00_cphMain_btnPayPal').style.visibility = "hidden";
+                    document.getElementById('btnFreePR').style.visibility = "visible";
+                    document.getElementById('btnPayPal').style.visibility = "hidden";
                 }
                 return true;
             }
@@ -132,9 +130,48 @@
 	            else return eval("document." + objId);
             }
             
+            function insertAtCaret(areaId, text) {
+                var txtarea = document.getElementById('ctl00_cphMain_' + areaId);
+                if (!txtarea) return;
+            
+                var scrollPos = txtarea.scrollTop;
+                var strPos = 0;
+                var br = ((txtarea.selectionStart || txtarea.selectionStart == '0') ? "ff" : (document.selection ? "ie" : false));
+                if (br == "ie") {
+                    txtarea.focus();
+                    var range = document.selection.createRange();
+                    range.moveStart('character', -txtarea.value.length);
+                    strPos = range.text.length;
+                } else if (br == "ff") {
+                    strPos = txtarea.selectionStart;
+                }
+            
+                var front = (txtarea.value).substring(0, strPos);
+                var back = (txtarea.value).substring(strPos, txtarea.value.length);
+                txtarea.value = front + text + back;
+                strPos = strPos + text.length;
+                if (br == "ie") {
+                    txtarea.focus();
+                    var ieRange = document.selection.createRange();
+                    ieRange.moveStart('character', -txtarea.value.length);
+                    ieRange.moveStart('character', strPos);
+                    ieRange.moveEnd('character', 0);
+                    ieRange.select();
+                } else if (br == "ff") {
+                    txtarea.selectionStart = strPos;
+                    txtarea.selectionEnd = strPos;
+                    txtarea.focus();
+                }
+            
+                txtarea.scrollTop = scrollPos;
+            }
+
+
+
             //-->
         </script>
 
+        
         
         <!-- DFP -->
         <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
@@ -150,59 +187,28 @@
             GA_googleFetchAds();
         </script>
         <!-- ENDDFP -->
+        
     </head>
     <body>
         <form name="aspnetForm" method="post" action="./Privacy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjQ5ODA0NjkPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgYCAw8WAh4EVGV4dAVUPHRpdGxlPk9ubGluZSBGcmVlIFByZXNzIFJlbGVhc2UgUFIgRGlzdHJpYnV0aW9uIFN1Ym1pc3Npb24gU2VydmljZSBXZWJzaXRlczwvdGl0bGU+ZAIFDxYCHwEF4gE8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iZnJlZVBSbm93IOKAkyBTdWJtaXQgbmV3cyBvbiBmcmVlIHByZXNzIHJlbGVhc2VzIHN1Ym1pc3Npb24gd2Vic2l0ZXMgYnkgb3VyIG9ubGluZSBQUiBkaXN0cmlidXRpb24gc2VydmljZSBzaXRlcyB0byBtYWtlIHlvdXIgbmV3cyBhdmFpbGFibGUgdG8gam91cm5hbGlzdHMsIG5ldyBzaXRlcyBmb3IgbWF4aW11bSBleHBvc3VyZS4iIC8+ZAIHDxYCHwEFjAI8bWV0YSBuYW1lPSJrZXl3b3JkcyIgY29udGVudD0iRnJlZSBQUiBXZWJzaXRlcywgUHJlc3MgUmVsZWFzZSBTaXRlcywgRnJlZSBQcmVzcyBSZWxlYXNlIFdlYnNpdGVzLCBTdWJtaXQgRnJlZSBQcmVzcyBSZWxlYXNlcywgRnJlZSBQcmVzcyBSZWxlYXNlcywgRnJlZSBQcmVzcyBSZWxlYXNlIFNpdGVzLCBGcmVlIFByZXNzIFJlbGVhc2UgU3VibWlzc2lvbiwgRnJlZSBQcmVzcyBSZWxlYXNlIERpc3RyaWJ1dGlvbiwgRnJlZSBQcmVzcyBSZWxlYXNlIFNlcnZpY2UiIC8+ZGQfYKIF2B3s6EpD9f2EvD6eoiSQdd1Oyn9h5bmB/n5nnQ==">
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-if (!theForm) {
-    theForm = document.aspnetForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MjQ5ODA0NjkPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgZmDxYCHgRUZXh0BVQ8dGl0bGU+T25saW5lIEZyZWUgUHJlc3MgUmVsZWFzZSBQUiBEaXN0cmlidXRpb24gU3VibWlzc2lvbiBTZXJ2aWNlIFdlYnNpdGVzPC90aXRsZT5kAgEPFgIfAQXiATxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJmcmVlUFJub3cg4oCTIFN1Ym1pdCBuZXdzIG9uIGZyZWUgcHJlc3MgcmVsZWFzZXMgc3VibWlzc2lvbiB3ZWJzaXRlcyBieSBvdXIgb25saW5lIFBSIGRpc3RyaWJ1dGlvbiBzZXJ2aWNlIHNpdGVzIHRvIG1ha2UgeW91ciBuZXdzIGF2YWlsYWJsZSB0byBqb3VybmFsaXN0cywgbmV3IHNpdGVzIGZvciBtYXhpbXVtIGV4cG9zdXJlLiIgLz5kAgIPFgIfAQWMAjxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSJGcmVlIFBSIFdlYnNpdGVzLCBQcmVzcyBSZWxlYXNlIFNpdGVzLCBGcmVlIFByZXNzIFJlbGVhc2UgV2Vic2l0ZXMsIFN1Ym1pdCBGcmVlIFByZXNzIFJlbGVhc2VzLCBGcmVlIFByZXNzIFJlbGVhc2VzLCBGcmVlIFByZXNzIFJlbGVhc2UgU2l0ZXMsIEZyZWUgUHJlc3MgUmVsZWFzZSBTdWJtaXNzaW9uLCBGcmVlIFByZXNzIFJlbGVhc2UgRGlzdHJpYnV0aW9uLCBGcmVlIFByZXNzIFJlbGVhc2UgU2VydmljZSIgLz5kZMREWOZwRgew64YiTSEELqBZUPUy">
 
 
-<script src="/WebResource.axd?d=LVzhFME8l5cw9XGiMzLMehWzknTARNuEB8DMsa9KAwsDhQiaDB_f4l9hbWop_w9gI9vdH6QzAAolhcGjgKagOsrhW4fKt9eezlSNWBQ714Q1&amp;t=636426804960000000" type="text/javascript"></script>
-
-
-<script src="/ScriptResource.axd?d=JjF-D7NeEzxJgL7ICTC66gwW1nlI3B6z6M21nPUE_cKXcoyGNtx_8IBV9arV0miW37HAv6Kh5C5Rqehn5tEeW93_rR37OxVOhBA77_YUzVypQ8Y6py4-65wefirywwxH9y4UZ5CpM9qSQEqp3ztexHlt9fRtEWofTuMAzFpqLiUZ2xhd1NaA_CWnc4ztkGwS0&amp;t=72fc8ae3" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=rhdvBltHrREzYIbVnL99HKUSz0iHBHl5vG7L1AoG-rQa_WrIR6NHLYerXNO7PRQADkMCW6TDB6W8DbWXeqvyLksR-0B8ht4jb4Kq3tyFw0AcsW2B1wfPBCHvF27-8-mTziFRRZy80uOqTkqXoj5ESIcwQDW3orRzmBYQw2azdKD2wrQM0&amp;t=ffffffff999c3159" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=h1AVwoWOQe4ymds__rtF8R3huEMB5t3bs-bvbHsl8Hkp_le2HglvmZDUMAL2KvyJJjCtlPnBUBu_gqEnBUGMoPLQ0FhYwKlLsj33L_CieWu8vOmoQHs1iqCZfMsWGdtIJ24wgmN6cFRMXB5oMJWCwUgFqUWhF4PuvU6qJQMXbKB5eX_zpGaYeI3qrD6-tpm00&amp;t=72fc8ae3" type="text/javascript"></script>
-<div>
-
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
-</div>
-            <script type="text/javascript">
-//<![CDATA[
-Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm', [], [], [], 90, 'ctl00');
-//]]>
-</script>
-
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
+            
             <!-- NAVTOP -->
             <table class="NavTop_Table" width="900" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr>
                 <td class="mainHeader" align="left" bgcolor="#D3E6FF" valign="top">
-                    <img id="ctl00_Image1" alt="" border="0" src="http://www.freePRnow.com/Images/NavTop_left.png" style="height:100px;width:10px;border-width:0px;">
-                    <a href="http://www.freePRnow.com" class="logoLink"><img id="ctl00_Image2" title="freePRnow.com" alt="freePRnow.com" border="0" src="http://www.freePRnow.com/Images/logo.png" style="height:100px;width:250px;border-width:0px;"></a>
+                    <img id="ctl00_Image1" alt="" border="0" src="http://www.freePRnow.com/Images/NavTop_left.png" height="100" width="10">
+                    <a href="http://www.freePRnow.com" class="logoLink"><img id="ctl00_Image2" title="freePRnow.com" alt="freePRnow.com" border="0" src="http://www.freePRnow.com/Images/logo.png" height="100" width="250"></a>
                 </td>
                 <td class="mainHeader" align="right" bgcolor="#D3E6FF" valign="top">
                     <a id="ctl00_plans1" href="/plans.aspx">Plans</a>&nbsp;|
@@ -211,20 +217,20 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                     
                 </td>
                 <td class="mainHeader" align="right" bgcolor="#D3E6FF" valign="top">
-                    <img id="ctl00_Image3" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/NavTop_right.png" style="height:100px;width:10px;border-width:0px;">
+                    <img id="ctl00_Image3" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/NavTop_right.png" height="100" width="10">
                 </td>
                 </tr>
 
                 <tr>
                 <td colspan="3">
-                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image4" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Left.png" style="height:32px;width:51px;border-width:0px;"></div>
+                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image4" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Left.png" height="32" width="51"></div>
                     <div class="NavTop_Link1"><a id="ctl00_NavTop_L1" href="/submitPR.aspx"></a></div>
                     <div class="NavTop_Link2"><a id="ctl00_NavTop_L2" href="/directory.aspx"></a></div>
                     <div class="NavTop_Link3"><a id="ctl00_NavTop_L3" href="/SEO.aspx"></a></div>
                     <div class="NavTop_Link4"><a id="ctl00_NavTop_L4" href="/rss.aspx"></a></div>
                     <div class="NavTop_Link5"><a id="ctl00_NavTop_L5" href="/FAQs.aspx"></a></div>
                     <div class="NavTop_Link6"><a id="ctl00_NavTop_L6" href="/Contact.aspx"></a></div>
-                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image5" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Right.png" style="height:32px;width:49px;border-width:0px;"></div>
+                    <div style="border:none; float:left; display:inline;"><img id="ctl00_Image5" alt="" border="0" src="http://www.freePRnow.com/Images/NavBtnGrn_Right.png" height="32" width="49"></div>
                 </td>
                 </tr>
             </tbody></table>
@@ -317,9 +323,9 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'aspnetForm'
                 </tr>
             
                 <tr> 
-                <td height="15"><img id="ctl00_Image6" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BL.gif" style="height:15px;width:15px;border-width:0px;"></td>
+                <td height="15"><img id="ctl00_Image6" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BL.gif" height="15" width="15"></td>
                 <td style="background-image:url(Images/mod_CCCCCC_BM.gif); background-repeat: repeat-x;"></td>
-                <td height="15"><img id="ctl00_Image7" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BR.gif" style="height:15px;width:15px;border-width:0px;"></td>
+                <td height="15"><img id="ctl00_Image7" alt="" align="top" border="0" src="http://www.freePRnow.com/Images/mod_CCCCCC_BR.gif" height="15" width="15"></td>
                 </tr>
             </tbody></table>
             <!-- end MOD WRAPPER -->
