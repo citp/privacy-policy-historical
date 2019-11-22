@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moms.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515103534id_/https%3A//www.moms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moms.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122134757id_/https%3A//www.moms.com/privacy-policy) for the most accurate reproduction.*
 
-# Moms
+# Privacy Policy | Moms
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
