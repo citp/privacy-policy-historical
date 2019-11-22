@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashvillage.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602045910id_/https%3A//biteable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashvillage.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123003959id_/https%3A//biteable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Biteable
 
@@ -175,8 +175,6 @@ In addition to your rights set out above, you may:
 
 
 If you are unhappy with our data practices, you also have a right to lodge a complaint with your local supervisory authority.
-
-## Contact us
 
 Thank you for taking the time to read this. Please don’t hesitate to get in touch if you have any queries about the use of your private information — email us at legal@biteable.com or write to us at:
 
