@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themerkle.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331075356id_/https%3A//themerkle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themerkle.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122231118id_/https%3A//themerkle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Merkle Hash
+# Privacy Policy » The Merkle Hash
 
 #### **Privacy Policy for  themerkle.com**
 
