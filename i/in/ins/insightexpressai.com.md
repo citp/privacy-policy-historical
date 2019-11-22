@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625202243id_/https%3A//www.millwardbrowndigital.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightexpressai.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123005638id_/https%3A//www.millwardbrowndigital.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kantar Millward Brown - Media & Digital Kantar
 
-**[where can i get azithromycin over the counter](http://azithromycin-otc.com/) Last updated: May 18, 2018**
+**Last updated: May 18, 2018**
 
-**[amoxicillin buy now](http://amoxicillin-otc.com/) PRIVACY AND COOKIE POLICY – MILLWARDBROWNBROWNDIGITAL.COM**
+**PRIVACY AND COOKIE POLICY – MILLWARDBROWNBROWNDIGITAL.COM**
 
 Kantar LLC (“We”) are committed to protecting and respecting your privacy.
 
 This policy sets out the basis on which any personal data we collect from you, or that you provide to us on www.millwardbrowndigital.com (“our site”), will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-**[click here](http://bestplacetobuyonlinerx.com/) INFORMATION WE COLLECT FROM YOU**
+**INFORMATION WE COLLECT FROM YOU**
 
 We collect and process the following data on our site:
 
@@ -111,7 +111,7 @@ We are required by law to keep your personal data only for as long as is necessa
 
 **YOUR RIGHTS**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [media@kantarmillwardbrown.com](https://web.archive.org/web/20190625202243id_/https://www.millwardbrowndigital.com/about/privacy/media@kantarmillwardbrown.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [media@kantarmillwardbrown.com](https://web.archive.org/web/20191123005638id_/https://www.millwardbrowndigital.com/about/privacy/media@kantarmillwardbrown.com).
 
 You also have the following rights in relation to your personal data (some of these rights apply only in certain circumstances, and some of them vary according to the legal basis on which we are processing your data – please see above for further details):
 
