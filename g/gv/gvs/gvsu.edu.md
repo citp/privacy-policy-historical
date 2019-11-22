@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gvsu.edu privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622143655id_/https%3A//www.gvsu.edu/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gvsu.edu privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122141757id_/https%3A//www.gvsu.edu/privacystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Grand Valley State University - Grand Valley State University
 
@@ -44,6 +44,7 @@ Data is retained in accordance with University policy and as required under appl
   * If you decline to share your personally-identifiable information with GVSU, we may not be able to provide to you some of the features and functionality found on our site. 
   * To protect your privacy and security, we take reasonable steps to verify your identity before granting you access to portions of our site. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF AUTHENTICATION CREDENTIALS AT ALL TIMES. 
   * While in the European Union (EU) you will be able to exercise your rights as a data subject described in Article 15-22 of the General Data Protection Regulation (GDPR): right of access to your personal data, right to correct that data, right to have the data erased, right to restrict processing, right to data portability, right to object to processing, right to withdraw consent, the right not to be subject to automated decision-making, and the right to lodge a GDPR-related complaint with an EU Supervisory Authority. Please note that the university is subject to federal and state laws, including but not limited to the Family Educational Rights and Privacy Act, that may require that we request, process, retain, and report on certain types of data. These legal obligations may also affect actions we would be permitted to take in response to a request to exercise your GDPR data rights, especially the right to have your data erased. 
+  * Grand Valley State University will honor a student’s request to remove the student’s name, phone, email or other contact student information collected through the admissions, recruiting or lead process. 
 
 
 
