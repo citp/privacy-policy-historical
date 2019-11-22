@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptrvipclub.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617221248id_/http%3A//ptrvipclub.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptrvipclub.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122200142id_/http%3A//ptrvipclub.com/pages/privacy.php) for the most accurate reproduction.*
 
 # ptrvipclub.com
 
