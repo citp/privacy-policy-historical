@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeboyphysicals.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607184153id_/https%3A//blumedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeboyphysicals.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122080218id_/https%3A//blumedia.com/privacy) for the most accurate reproduction.*
 
 # BluMedia.com
 
