@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romanticallyapocalyptic.com privacy policy that was archived on 2018-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180817044519id_/http%3A//romanticallyapocalyptic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romanticallyapocalyptic.com privacy policy that was archived on 2019-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191122225612id_/http%3A//romanticallyapocalyptic.com/privacy-policy) for the most accurate reproduction.*
 
 # - Romantically Apocalyptic
 
