@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tureng.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617012821id_/https%3A//tureng.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tureng.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123150936id_/https%3A//tureng.com/en/privacy) for the most accurate reproduction.*
 
 # Tureng - Privacy Policy
 
