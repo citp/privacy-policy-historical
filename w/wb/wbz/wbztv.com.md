@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbztv.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610155602id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbztv.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123214621id_/http%3A//policies.cbslocal.com/privacy/current.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -165,13 +165,17 @@ back to top
 
 #### California Visitors
 
-For additional information for residents of the State of California, click here.
+Residents of the State of California may request a list of all third parties to which the CBS Local Services has disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and would like such a list, please contact us at <http://policies.cbslocal.com/privacy/generalinfo.html>. If you are a California resident under 18 years of age, and a registered user of any website where this policy is posted, you may request removal of content or information you have publicly posted. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you posted and there may be circumstances in which the law does not require or allow removal, even if requested.
+
+For all requests, you must put the statement "Your California Privacy Rights" in the subject field of your request and include the name of the CBS Local Service with respect to which you are requesting the information. You must also include your full name, street address, city, state, and zip code. We will not accept requests via telephone, postal mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
 back to top
 
-#### CBS Local Privacy Protections for Children
+#### Nevada Visitors
 
-Most CBS Local Services are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13. Some CBS Local Services may ask for your full date of birth to ensure that they are not collecting information from children under 13 or to identify when additional steps may need to be taken when information has been collected from children under 18. In instances where a CBS Local Service has actual knowledge that it collects information from children, or offers a service directed toward children as defined under applicable laws, it will comply with those laws. To read about our privacy policy for children under the age of 13, please see the CBS Local Children’s Privacy Policy.
+Nevada law requires website operators to provide a way for Nevada consumers to opt out of the sale of certain information that the website operator may collect about them. This information is limited to direct identifiers, such as your name, postal address, and email address. When Nevada consumers opt out of the sale of their information, website operators must ensure that the information is not sold to another business that will further license or sell the information to others.
+
+If you are a Nevada resident and you would like to opt out of any possible sale of this information, please email us at privacy@cbs.com. For all requests, you must put the statement “Your Nevada Privacy Rights” in the subject field of your request. You must also include your full name, street address, city, state, and zip code. We will not accept requests via telephone, postal mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly , or that do not have complete information. 
 
 back to top
 
@@ -215,6 +219,12 @@ CBS Local Digital Media
 1700 Broadway, 7th Floor  
 New York, NY 10019  
 ATTN: Privacy Officer 
+
+back to top
+
+#### CBS Local Privacy Protections for Children
+
+Most CBS Local Services are intended for a general audience and do not knowingly collect or store contact information about children under the age of 13. Some CBS Local Services may ask for your full date of birth to ensure that they are not collecting information from children under 13 or to identify when additional steps may need to be taken when information has been collected from children under 18. In instances where a CBS Local Service has actual knowledge that it collects information from children, or offers a service directed toward children as defined under applicable laws, it will comply with those laws. To read about our privacy policy for children under the age of 13, please see the CBS Local Children’s Privacy Policy.
 
 back to top
 
@@ -440,9 +450,9 @@ back to top
 Your video content viewing activities may be collected through your use of the CBS Local Services. By viewing our video content, you are consenting to share your video activities with others, including what videos you have watched on the Services. Sharing this information will allow you to take advantage of social networking and other features on the Services.
 
 **Social Networking Services**  
-CBS Local has partnered with certain third party social networking companies to offer you their services through certain CBS Local Services. For example, you can use third party social networking services such as [Facebook](https://www.facebook.com/about/privacy), [Google+](http://www.google.com/policies/privacy/) or [Twitter](https://twitter.com/privacy?lang=en) to share information about your experience on our Services with your friends and followers on those services. These social networking services may be able to collect information about you, including your activities on a CBS Local Service, and they also may notify your friends, both on CBS Local Services and on their services, that you are a CBS Local user or about your use of the CBS Local Services, in accordance with applicable law and their own privacy policies. 
+CBS Local has partnered with certain third party social networking companies to offer you their services through certain CBS Local Services. For example, you can use third party social networking services such as [Facebook](https://www.facebook.com/about/privacy), [Google+](http://www.google.com/policies/privacy/) or [Twitter](https://twitter.com/privacy?lang=en) to share information about your experience on our Services with your friends and followers on those services. These social networking services may be able to collect information about you, including your activities on a CBS Local Service, and they also may notify your friends, both on CBS Local Services and on their services, that you are a CBS Local user or about your use of the CBS Local Services, in accordance with applicable law and their own privacy policies.
 
-By using your CBS Local Services account with a third party social networking service, you consent to share information about you, including video content that you have watched on CBS Local Services, with your friends and followers on those services. You can limit how third party social networking services share your information by visiting your social networking services’ websites and updating your privacy settings. 
+By using your CBS Local Services account with a third party social networking service, you consent to share information about you, including video content that you have watched on CBS Local Services, with your friends and followers on those services. You can limit how third party social networking services share your information by visiting your social networking services’ websites and updating your privacy settings.
 
 In addition, CBS Local Services may request your permission to a) access and collect information available from your social networking account; and b) post information to your friends on your behalf. When you connect your social networking service with your CBS Local Services account, you authorize CBS Local Services to access certain information about you from your social networking service to provide content and services, including to help us tailor our communications to you and develop rich online content and services across the CBS Local Services. The information CBS Local may access from your social networking services is governed by the privacy policies and settings of those third party services.
 
@@ -456,14 +466,6 @@ back to top
 #### CBS Local FCC Requirements
 
 If you send a written communication (including an email) regarding the programming or operation of a CBS radio or television station, your communication may be placed in the public inspection file of that station or made available via electronic file access at the station. In either case, your communication may be subject to review by members of the general public, as required by Federal Communications Commission ("FCC") regulations. Be advised that we are not responsible for information that may be disclosed if your communication is made available for review by members of the general public in compliance with FCC regulations.
-
-back to top
-
-#### California Visitors
-
-Residents of the State of California may request a list of all third parties to which the CBS Local Services has disclosed certain information during the preceding year for the third parties' direct marketing purposes. If you are a California resident and would like such a list, please contact us at <http://policies.cbslocal.com/privacy/generalinfo.html>. If you are a California resident under 18 years of age, and a registered user of any website where this policy is posted, you may request removal of content or information you have publicly posted. Please be aware that such a request does not ensure complete or comprehensive removal of the content or information you posted and there may be circumstances in which the law does not require or allow removal, even if requested.
-
-For all requests, you must put the statement "Your California Privacy Rights" in the subject field of your request and include the name of the CBS Local Service with respect to which you are requesting the information. You must also include your full name, street address, city, state, and zip code. We will not accept requests via telephone, postal mail, or facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
 back to top
 
@@ -522,13 +524,13 @@ back to top
 
 #### CBS Local Digital Media Privacy Policy FAQ 
 
-We have updated our Privacy Policy to provide visitors of CBS Local Services with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20190610155602id_/http%3A//policies.cbslocal.com/privacy/index.html). Here, you will find answers to some common questions about our new Privacy Policy. To review the current Privacy Policy, click here.
+We have updated our Privacy Policy to provide visitors of CBS Local Services with a single, uniform policy consistent with our core [Privacy Principles](https://web.archive.org/web/20191123214621id_/http%3A//policies.cbslocal.com/privacy/index.html). Here, you will find answers to some common questions about our new Privacy Policy. To review the current Privacy Policy, click here.
 
-Why are you updating your Privacy Policy? As CBS Local expands and the laws protecting individual privacy evolve, we update our Privacy Policy accordingly to ensure that we are adhering to all applicable laws and conform to a consistent set of core [Privacy Principles](https://web.archive.org/web/20190610155602id_/http%3A//policies.cbslocal.com/privacy/index.html) followed by our companies
+Why are you updating your Privacy Policy? As CBS Local expands and the laws protecting individual privacy evolve, we update our Privacy Policy accordingly to ensure that we are adhering to all applicable laws and conform to a consistent set of core [Privacy Principles](https://web.archive.org/web/20191123214621id_/http%3A//policies.cbslocal.com/privacy/index.html) followed by our companies
 
 Have you made any substantively material changes to the Privacy Policy? No, we have not made any substantively material changes to our Privacy Policy.
 
-What are the "core" privacy principles that CBS Local follows? Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following five key principles: transparency, choice, access, security, and accountability. For more information, [click here](https://web.archive.org/web/20190610155602id_/http%3A//policies.cbslocal.com/privacy/index.html).
+What are the "core" privacy principles that CBS Local follows? Trust is a cornerstone of our mission at CBS Local. We are committed to gaining and maintaining your trust by following five key principles: transparency, choice, access, security, and accountability. For more information, [click here](https://web.archive.org/web/20191123214621id_/http%3A//policies.cbslocal.com/privacy/index.html).
 
 Will you share my contact information with third parties? Like other businesses, we share contact information (such as name and email address) with vendors who process credit card transactions, with business partners who co-sponsor CBS Local Services, and when we have consent from our users. For more information, click here.
 
