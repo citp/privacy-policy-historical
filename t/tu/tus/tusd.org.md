@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tusd.org privacy policy that was archived on 2018-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180619022603id_/http%3A//www.tusd.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tusd.org privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123220609id_/https%3A//www.tusd.org/privacy-policy) for the most accurate reproduction.*
 
 # Web Site Privacy Policy | Torrance Unified School District
 
