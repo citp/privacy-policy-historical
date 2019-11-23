@@ -1,6 +1,29 @@
-> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506215647id_/https%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agrilife.org privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123164616id_/https%3A//agrilife.org/required-links/privacy) for the most accurate reproduction.*
 
-# Privacy & Security Policy
+# State Links and Policies
+
+### State Resources
+
+  * [State Link Policy](http://publishingext.dir.texas.gov/portal/internal/resources/DocumentLibrary/State%20Website%20Linking%20and%20Privacy%20Policy.pdf)
+  * [Texas home page](https://texas.gov/)
+  * [Statewide Search](http://www2.tsl.state.tx.us/trail/)
+  * [Texas Homeland Security](http://www.texashomelandsecurity.com/)
+  * [Texas Veterans Portal](https://veterans.portal.texas.gov/)
+
+
+
+### Texas A&M University Links
+
+  * [University homepage](http://www.tamu.edu/)
+  * [Privacy and Security Rules](https://www.tamu.edu/statements/privacy.html)
+  * [Web Accessibility](https://itaccessibility.tamu.edu/)
+  * [System Open Records Policy](http://www.tsl.state.tx.us/agency/customer/pia.html) 
+  * [Public Social Media Notification](https://www.tamus.edu/offices/marcomm/socialmedia/public)
+  * [Veterans Services](http://veterans.tamu.edu/) 
+
+
+
+### Privacy & Security Policy
 
 The web page you have been viewing was developed by the Texas A&M AgriLife unit of the Texas A&M University System. As such, it maintains this site as a public service. The following is the privacy policy for this site:
 
@@ -38,7 +61,3 @@ We use log analysis tools to create summary statistics, which are used for purpo
 ### Information Security
 
 We employ extensive security measures consistent with the Texas Administrative Code (TAC) “Information Security Standards” and Texas A&M University Rules and Standard Administrative Procedures to protect against unauthorized access, disclosure, modification, or destruction of information under our control, as well as the loss, misuse, or alteration of our websites and/or associated electronic information resources. The information resources that support our websites undergo an annual information security risk assessment via the Information Security Awareness Assessment and Compliance (ISAAC) system. The ISAAC system assesses the security posture of information systems and measures compliance with information security standards.
-
-### Social Media
-
-[Public Social Media Notification](http://www.tamus.edu/offices/marcomm/socialmedia/public)
