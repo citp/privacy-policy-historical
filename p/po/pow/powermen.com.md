@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powermen.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825044120id_/http%3A//powermen.com/bonus.php%3Ffc%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powermen.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123045322id_/http%3A//powermen.com/bonus.php%3Ffc%3D6) for the most accurate reproduction.*
 
 # Naked Muscular Men - Muscle Men - Nude Male Bodybuilders
 
