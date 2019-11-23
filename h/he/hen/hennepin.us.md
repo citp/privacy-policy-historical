@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206124434id_/https%3A//www.hennepin.us/your-government/open-government/accessibility-privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hennepin.us privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123134115id_/https%3A//www.hennepin.us/your-government/open-government/accessibility-privacy-security) for the most accurate reproduction.*
 
 # Privacy and security | Hennepin County
 
@@ -14,7 +14,7 @@ The county may amend this policy on occasion, and will prominently display on th
 
 When you browse the website, read pages, or download information, the county will gather and store certain information about your visit automatically. This information does not identify you personally. The following information is automatically collected and stored about your visit:
 
-  * Internet domain you use to access the site (e.g., "xcompany.com,"  "yourschool.edu," etc.) 
+  * Internet domain you use to access the site (e.g., "xcompany.com," "yourschool.edu," etc.) 
   * Your IP address (a number automatically assigned to your computer whenever you surf the web).
   * Type of web browser and operating system you use to access the site
   * Date and time of your visit 
@@ -47,7 +47,7 @@ The county operates a state-of-the art secure web server that creates an additio
 
 The county won’t share bank account information with anyone, except authorized personnel. The county doesn’t sell, transfer, market, disclose or otherwise share bank account information from payment applications with any outside party other than your bank and the county’s bank, except as may be required by law or valid court order.
 
-## Disclaimer 
+## Disclaimer
 
 Hennepin County shall not be liable to any person or entity for any loss or injury arising, directly or indirectly, out of or caused in whole or in part by Hennepin County’s errors, acts, or omissions in procuring, compiling, collecting, interpreting, reporting, communicating, delivering, or assembling the information, data, or records displayed on this website.
 
