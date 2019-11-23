@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thejibe.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328000651id_/https%3A//www.thejibe.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejibe.com privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124003715id_/https%3A//thejibe.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Jibe
+# Privacy Policy | JIBE eCommerce
 
 This Privacy Policy informs you what to expect in relation to personal information about you which is collected on thejibe.com and subdomains of thejibe.com ("our websites"), and how it is handled and processed.
 
