@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webuser.co.uk privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621231759id_/http%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuser.co.uk privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123155249id_/https%3A//www.dennis.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dennis Publishing
 
@@ -238,11 +238,11 @@ Aditus, Marketing Town, Demographix, Kado, Shopify, The Education Company, Qubit
 
 **Advertising Technology Partners:**
 
-Permutive, Quantcast, Sourcepoint, Disqus, Feedbackify, Trustpilot, Skimlinks, Monetizer101, Google, MOAT, Lolagrove, Dealtrak, Taboola, Pubmatic, Amazon, OpenX, Pangea Alliance, AdYouLike Ltd, Pulsepoint, Freewheel SSP, Index Exchange Inc, InSkin, Teads, Xaxis, Digiteka, Sublime, Rhythm one, Just premium, Sovrn, Nano interactive
+Permutive, Quantcast, Sourcepoint, Disqus, Feedbackify, Trustpilot, Skimlinks, Monetizer101, Google, MOAT, Lolagrove, Dealtrak, Autoconvert, Taboola, Pubmatic, Amazon, OpenX, Pangea Alliance, AdYouLike Ltd, Pulsepoint, Freewheel SSP, Index Exchange Inc, InSkin, Teads, Xaxis, Digiteka, Sublime, Rhythm one, Just premium, Sovrn, Nano interactive
 
 **Vehicle Purchase Partners:**
 
-Alphera, Barclays, Blue Motor Finance, Close, Motonovo, Moneyway, DealTrak, TrustPilot, TheCarBuyingGroup, Warranty Wise, Startline, Product Partnerships Limited, Experian,  Local Delivery Companies
+Alphera, Barclays, Blue Motor Finance, Close, Motonovo, Moneyway, DealTrak, Autoconvert, Marsh, CAP HPI, TrustPilot, TheCarBuyingGroup, Warranty Wise, Startline, Product Partnerships Limited, Experian,  Local Delivery Companies
 
 **Audit and verification:**
 
