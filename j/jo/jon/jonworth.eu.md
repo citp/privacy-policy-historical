@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonworth.eu privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529211422id_/https%3A//jonworth.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonworth.eu privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123153725id_/https%3A//jonworth.eu/privacy) for the most accurate reproduction.*
 
 # Privacy & Cookies - Jon Worth Euroblog
 
@@ -10,7 +10,7 @@ Any information you provide will be held securely and in accordance with the Dat
 
 This website is hosted by [EZPZ Hosting](http://www.ezpzhosting.co.uk/), 56 London Road, Lowestoft, Suffolk NR33 7AQ. The server is physically located in the UK.
 
-You have a right to request a copy of your personal details at any time to check the accuracy of the information held. If you want to ask whether I hold any personal data relating to you, please [contact me](http://jonworth.eu/contact/).
+You have a right to request a copy of your personal details at any time to check the accuracy of the information held. If you want to ask whether I hold any personal data relating to you, please [contact me](https://jonworth.eu/contact/).
 
 ### Information I collect from visitors
 
