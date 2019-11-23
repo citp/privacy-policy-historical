@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623000313id_/https%3A//rollingout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollingout.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123064107id_/https%3A//rollingout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rolling Out
 
