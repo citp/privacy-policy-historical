@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanmenstore.com privacy policy that was archived on 2018-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180114083126id_/http%3A//www.titanmenstore.com/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanmenstore.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123034003id_/https%3A//www.titanmenstore.com/help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - TitanMen Official Store
 
@@ -33,7 +33,7 @@ The Website contains sexually-oriented adult material and they are not intended 
 
 When you make a purchase using a credit card, we collect your name and billing address for the card, the card type, number, and expiration date. We collect this information in order to verify your billing address. We also collect information that allows us to ship your purchase and keep you informed of the status of your order. This includes your email address and the name, address, and telephone number of the intended recipient(s). Billing information may also be provided over the phone by calling Us.
 
-If you created an account, you can choose to save your billing information for one or more credit cards in "Your Account". You may change or delete this saved information anytime. Simply go to [Your Account](https://web.archive.org/Account/AccountHomePage), log-in with your username and password and edit whatever personal information you wish.
+If you created an account, you can choose to save your billing information for one or more credit cards in "Your Account". You may change or delete this saved information anytime. Simply go to [Your Account](https://web.archive.org/account), log-in with your username and password and edit whatever personal information you wish.
 
 * * *
 
@@ -68,7 +68,7 @@ Information we collect on The Website may be used to enhance your shopping exper
 
 ## 3\. With Whom we Share your Personal Information
 
-We never sell or rent your email address to unaffiliated companies. We may use your email address to send you messages that describe new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from Us or our affiliates, please click on [Your Account](https://web.archive.org/Account/AccountHomePage) and follow the instructions outlined in the Notification Options section.
+We never sell or rent your email address to unaffiliated companies. We may use your email address to send you messages that describe new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from Us or our affiliates, please click on [Your Account](https://web.archive.org/account) and follow the instructions outlined in the Notification Options section.
 
 We also do not sell other personal customer information to unaffiliated third-parties. We will share personal customer information that we collect only with our affiliates, agents, representatives and trusted service providers for the limited purposes of fulfilling customer orders; offering certain products and services in connection with The Website; offering products or services which we believe you may be interested; communicating to customers; providing customer service; enhancing and improving the customer shopping experience; and providing a personalized shopping experience and completing credit card transactions. We may use or share with our strategic partners and affiliates, aggregated demographic and statistical information. This information is not linked to any personal information that can identify any individual person. We may assign or transfer any or all of your personal information to the relevant third-party in the event of a reorganization, merger, or sale of our assets. 
 
@@ -78,7 +78,7 @@ Aside from the purposes described above, we may also disclose your personal info
 
 ## 4\. Controlling the Use of Your Personal Information
 
-Creating an account lets us provide a better shopping experience for you and allows you to make purchases more conveniently without having to re-enter your payment and shipping information each time you make a purchase on our site. Although you must create an account in order to purchase products, it is not necessary to open an account to visit our site. As an existing customer, you can modify your personal information anytime. Simply go to [Your Account](https://web.archive.org/Account/AccountHomePage) then click "Contact Information" and edit whatever information you wish. To have your personal information deleted, contact our Customer Service Department.
+Creating an account lets us provide a better shopping experience for you and allows you to make purchases more conveniently without having to re-enter your payment and shipping information each time you make a purchase on our site. Although you must create an account in order to purchase products, it is not necessary to open an account to visit our site. As an existing customer, you can modify your personal information anytime. Simply go to [Your Account](https://web.archive.org/account) then click "Contact Information" and edit whatever information you wish. To have your personal information deleted, contact our Customer Service Department.
 
 Do not share your password with anyone. Other than requested on The Website, we will never ask you for your password.
 
@@ -86,7 +86,7 @@ Do not share your password with anyone. Other than requested on The Website, we 
 
 ## 5\. Controlling Marketing Communication you Receive
 
-We may periodically send you email messages describing new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from Us, please click on [Your Account](https://web.archive.org/Account/AccountHomePage) click on "Notification Options" and remove the check in the box next to the "Sales & Specials" notification option. You can also opt-out of receiving these messages by clicking the "Unsubscribe" link in the email message itself.
+We may periodically send you email messages describing new items, sales, specials and other offers that we think will be of interest to you. If you would like to opt-out of receiving these emails from Us, please click on [Your Account](https://web.archive.org/account) click on "Notification Options" and remove the check in the box next to the "Sales & Specials" notification option. You can also opt-out of receiving these messages by clicking the "Unsubscribe" link in the email message itself.
 
 The only email messages you will receive from us when you elect not to receive informational emails will be to confirm any purchases you make on our site, let you know your order has been shipped, respond to your Help Desk inquiries and to answer any other questions you may have about our site. We may also need to send operational emails to inform you of any changes to our site that might affect your personal information, or to announce product recalls.
 
@@ -98,7 +98,7 @@ The security of your personal information is very important to us. In our effort
 
 We have also obtained a digital certificate from DigiCert®, a leading provider of Internet trust services. When you enter a secure portion of our site (which is any page containing any of your personal information), an image of a closed lock or a solid key should appear in the bottom bar of your browser window. If you click on this image, a small pop-up window displaying site-security information will appear. This certificate guarantees that your personal information is being transmitted in secure (encrypted) form to an EmpireStores.Co web server, not to some unknown or unauthorized server.
 
-Ultimately, your personal information is protected by the password that you entered when you created an account (or another password you chose after changing a previous password). Please keep this password confidential. The confidentiality of your password is your responsibility to protect. You may change it anytime by going to [Your Account](https://web.archive.org/Account/AccountHomePage), then click "Change Password" and enter a new password.
+Ultimately, your personal information is protected by the password that you entered when you created an account (or another password you chose after changing a previous password). Please keep this password confidential. The confidentiality of your password is your responsibility to protect. You may change it anytime by going to [Your Account](https://web.archive.org/account), then click "Change Password" and enter a new password.
 
 * * *
 
