@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kisscartoon.xyz privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515225033id_/http%3A//kisscartoon.xyz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kisscartoon.xyz privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123213120id_/https%3A//kisscartoon.xyz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Watch Cartoons Online Free in High Quality Kisscartoon
+# Privacy Policy kisscartoon
 
 Comment:  
 – Don’t link to other cartoon/movies websites/any kind of ads.  
