@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseladder.co.uk privacy policy that was archived on 2018-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180129093550id_/https%3A//www.houseladder.co.uk/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseladder.co.uk privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123011722id_/https%3A//www.houseladder.co.uk/privacy.aspx) for the most accurate reproduction.*
 
 # Houseladder - Privacy Policy
 
@@ -7,33 +7,34 @@
 1.2 This privacy policy explains what information Houseladder collects about you, how we collect the information, and how we use your information. 
 
 **2\. What Information do we collect?**   
-2.1 When you build your advert on Houseladder certain personal information and data will be captured and stored electronically on our database.   
+2.1 When you build your advert or request more information for a advert certain personal information and data will be captured and stored electronically on our database.   
 2.2 You choose what data will be part of the advert and published to both the Houseladder web site and the re-advertising partners web sites for display to the general public.   
 2.3 We may use this information to inform you of news, offers or products which we may feel may be of interest to you. If at any time you would not like to receive this information then you may unsubscribe at any time.   
 2.4 If you want to change any details held by Houseladder at any time simply logon or email Houseladder at [privacy@houseladder.co.uk.](mailto:privacy@houseladder.co.uk)   
-2.5 When you pay by credit / debit card on-line, we do not store your card details. We use Barclaycard Merchant Services to process your payment.   
-2.6 We will not sell or pass your details to any 3rd party companies. 
+2.5 When you pay by credit / debit card on-line, we do not store your card details. We use SagePay and Barclaycard Merchant Services to process your payment. 
 
 **3\. Log Files**   
-Like many other Web sites, Houseladder makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+Houseladder does not makes use of server log files. However we do use Google Analytics to monitor user and site behaviour (see details below). 
 
 **4\. Cookies and Web Beacons**   
-Houseladder does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Houseladder uses a single essential cookie in order to enable users to move around the website and use its features. No personal details are stored in this cookie. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Commission Junction, Clickbank, Amazon, . 
+You can find more information about cookies at [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on Houseladder send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+We also use 3rd party tools that may use cookies and web beacons on our site. The coresponding links give more information with the ability to opt out. 
 
-Houseladder has no access to or control over these cookies that are used by third-party advertisers. 
+Google Analytics - Site usage tracking. No user personal data is recorded and all exact IP addresses are masked. <http://tools.google.com/dlpage/gaoptout>
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Houseladder privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Google Adwords - Pay per click advertising and conversion tracking. <http://www.google.com/policies/privacy/ads/>
+
+Google Adsense - Site banner advertising. Individual tracking with the ability to show personalised ads. <http://www.google.com/policies/privacy/ads/>
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 **5\. Changes to Privacy Policy**   
 5.1 We reserve the right to change this Privacy policy, without prior notice to you. If we change the privacy policy, it will be posted to the web site and become effective at the time of posting. 
 
-**6\. The Data Protection Act 1998**   
-6.1 Houseladder Ltd is registered under the Data Protection Act, registration number Z8095841. 
+**6\. The Data Protection Act 1998 & GDPR 2018**   
+6.1 Houseladder Ltd is registered with the ICO, registration number Z8095841. 
 
-Last Updated: 13th March 2009 
+Last Updated: 25th May 2018 
