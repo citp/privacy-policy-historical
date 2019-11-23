@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the boysfirsttime.com privacy policy that was archived on 2018-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180818073118id_/https%3A//www.realitydudes.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boysfirsttime.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123030922id_/https%3A//www.realitydudes.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Last Modified: May 21st, 2018_**
+**_Last Modified: July 9th, 2019_**
 
 ## Introduction
 
-MG Content RK Limited (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [realitydudes.com](http://realitydudes.com/) (hereinafter “ **Reality Dudes** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
+MG Premium Ltd (hereinafter “ **we** ”, “ **us** ” or “ **our** ”) operates the website [realitydudes.com](http://realitydudes.com/) (hereinafter “ **Reality Dudes** ” or the “ **Website** ”) and is the controller of the information collected or provided via this Website.
 
 Please read this privacy policy carefully, as your access to and use of our Website signifies that you have read, understand and agree to all terms within this privacy policy. If you do not agree with any part of this privacy policy or our terms, please do not access or continue to use our Website or otherwise submit your personal data. We respect your privacy and are committed to protecting your personal data
 
@@ -233,7 +233,7 @@ You may also contact us at 195-197 Old Nicosia-Limassol Road, Block 1 Dali Indus
 
 ## Manage Your Private Data
 
-  * [ Request a Copy of my Data](https://www.managemydata.eu/requestDataCopy?productId=10137)
-  * [Request Deletion of my Data](https://www.managemydata.eu/requestDataDeletion?productId=10137)
+  * [ Request a Copy of my Data](https://www.managemydata.eu/requestDataCopy?productId=10178)
+  * [Request Deletion of my Data](https://www.managemydata.eu/requestDataDeletion?productId=10178)
 
 
