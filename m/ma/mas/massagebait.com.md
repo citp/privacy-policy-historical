@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagebait.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605115834id_/https%3A//massagebait.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagebait.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123042220id_/https%3A//massagebait.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
