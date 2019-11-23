@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nakedsword.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815100400id_/https%3A//nakedsword.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedsword.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123044513id_/https%3A//nakedsword.com/privacy) for the most accurate reproduction.*
 
 # NakedSword.com | Privacy
 
@@ -16,4 +16,4 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-Should you have other questions or concerns about these privacy policies, please call us at U.S. (TOLL FREE) 888.207.4534 - INTERNATIONAL 980.505.8342 or send us an email at [support@adultpaysitesupport.com](mailto:ssupport@adultpaysitesupport.com). 
+Should you have other questions or concerns about these privacy policies, please call us at U.S. (TOLL FREE) 888.207.4534 - INTERNATIONAL 980.505.8324 or send us an email at [support@adultpaysitesupport.com](mailto:ssupport@adultpaysitesupport.com). 
