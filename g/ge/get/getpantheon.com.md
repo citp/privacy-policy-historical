@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpantheon.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527220228id_/https%3A//pantheon.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpantheon.com privacy policy that was archived on 2019-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191123194648id_/https%3A//pantheon.io/privacy) for the most accurate reproduction.*
 
 # Privacy | Pantheon
 
