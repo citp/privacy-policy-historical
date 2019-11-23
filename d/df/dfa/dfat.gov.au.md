@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906210526id_/https%3A//dfat.gov.au/about-us/about-this-website/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124003011id_/http%3A//dfat.gov.au/about-us/about-this-website/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Department of Foreign Affairs and Trade
 
@@ -73,7 +73,7 @@ Information collected for a primary purpose may sometimes be used or disclosed f
 
 ## How we collect personal information
 
-The Department collects personal information only by lawful and fair means. It is our usual practice to collect personal information directly from you or your authorised representative when you deal with us by telephone, letter, email, face-to-face or online. In particular, when you use one of the websites maintained by the Department, including [www.dfat.gov.au](https://web.archive.org/), [www.passports.gov.au](http://www.passports.gov.au/), [www.smartraveller.gov.au](http://www.smartraveller.gov.au/), [www.foreignminister.gov.au](http://www.foreignminister.gov.au/), [www.trademinister.gov.au](http://www.trademinister.gov.au/) and [www.embassy.gov.au](http://www.embassy.gov.au/) and their sub-domains, we may collect the personal information provided to us via online forms on these websites including when you subscribe to a list, register your travel details or purchase a publication. We do not collect your personal information when you only browse our website.
+The Department collects personal information only by lawful and fair means. It is our usual practice to collect personal information directly from you or your authorised representative when you deal with us by telephone, letter, email, face-to-face or online. In particular, when you use one of the websites maintained by the Department, including [dfat.gov.au](https://web.archive.org/), [www.passports.gov.au](http://www.passports.gov.au/), [smartraveller.gov.au](http://smartraveller.gov.au/), [foreignminister.gov.au](http://foreignminister.gov.au/), [trademinister.gov.au](http://trademinister.gov.au/) and [embassy.gov.au](http://embassy.gov.au/) and their sub-domains, we may collect the personal information provided to us via online forms on these websites including when you subscribe to a list, register your travel details or purchase a publication. We do not collect your personal information when you only browse our website.
 
 We may collect personal information from another source including a third party where you consent, where it is unreasonable or impractical to collect the information only from you or where we are required or authorised to do so by law. For example, we collect the name and contact detail of guarantors provided by passport applicants on their passport application forms as it is unreasonable or impractical to collect this information directly from a guarantor. We may collect personal information from third parties or publicly available sources in the course of assessing competitive tender and grant applications.
 
@@ -179,4 +179,8 @@ BARTON ACT 0221
 
 From time to time, we will review and revise this Privacy Policy. We reserve the right to amend this policy at any time and any amendments will be notified by posting an updated version on our website.
 
-Last Updated: 24 July 2017
+## Privacy Impact Assessment Register
+
+[Privacy Impact Assessment (PIA) Register](https://web.archive.org/about-us/corporate/privacy/Pages/privacy-impact-assessment-register.aspx)
+
+Last Updated: 19 September 2018
