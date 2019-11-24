@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the standardbank.co.mw privacy policy that was archived on 2017-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170630212319id_/http%3A//www.standardbank.co.mw/Malawi/About--Us/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardbank.co.mw privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124163833id_/https%3A//www.standardbank.co.mw/Malawi/About--Us/Footer/Privacy-and-security-statement) for the most accurate reproduction.*
 
-# Privacy and security statement | Standard Bank - Malawi
+# Privacy and security statement | Standard Bank
 
 Your right to privacy and security is very important to us. We, Standard Bank Malawi ("the bank"), treat personal information obtained through the use of this website as private and confidential and are committed to providing you with secure access to our online services.  
  
