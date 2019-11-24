@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.world privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630020954id_/https%3A//data.world/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.world privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124180625id_/https%3A//data.world/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | data.world
 
