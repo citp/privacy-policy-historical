@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kahawatungu.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330100241id_/https%3A//www.kahawatungu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kahawatungu.com privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124075509id_/https%3A//www.kahawatungu.com/privacy-policy) for the most accurate reproduction.*
 
 # GDPR Privacy policy - KahawaTungu
 
@@ -9,9 +9,9 @@
 
 The following table shows the information you selected when filling out the privacy tool.
 
-Type of Information| What you collect| Who collects it| For what reason| Who uses it| Stored by| Shared with  
+Type of Information | What you collect | Who collects it | For what reason | Who uses it | Stored by | Shared with  
 ---|---|---|---|---|---|---  
- **Contact Information**| 
+**Contact Information** | 
 
   * Name
 
