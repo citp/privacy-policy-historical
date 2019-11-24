@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagesuite.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618071132id_/https%3A//www.pagesuite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagesuite.com privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124195729id_/https%3A//www.pagesuite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PageSuite
 
