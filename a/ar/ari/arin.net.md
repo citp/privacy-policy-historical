@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324081735id_/https%3A//www.arin.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arin.net privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124165651id_/https%3A//www.arin.net/about/privacy) for the most accurate reproduction.*
 
 # ARIN Privacy Policy - American Registry for Internet Numbers
 
