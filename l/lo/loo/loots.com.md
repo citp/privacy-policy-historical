@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loots.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531184002id_/https%3A//loots.com/en/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loots.com privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124221635id_/https%3A//loots.com/en/legal/privacy) for the most accurate reproduction.*
 
 # loots.com - Legal - Privacy
 
@@ -6,7 +6,7 @@ loots provides a livestream monetization platform via loots.com (The “ _Site_ 
 
 The Service is operated by fishwoodco GmbH, Sophienstrasse 32, 10178 Berlin, Germany, registered at HRB 172582 B District Court Berlin (Charlottenburg), [privacy@loots.com](mailto:privacy@loots.com) (“ _us_ ”, “ _we_ ”, or “ _our_ ”). 
 
-This Privacy Policy sets forth our policy with respect to personally identifiable information or personal data (the “ _Information_ ”) that is controlled by us while operating Service and Site. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://web.archive.org/web/20190531184002id_/https%3A//loots.com/en/legal/terms).
+This Privacy Policy sets forth our policy with respect to personally identifiable information or personal data (the “ _Information_ ”) that is controlled by us while operating Service and Site. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our [Terms and Conditions](https://web.archive.org/web/20191124221635id_/https%3A//loots.com/en/legal/terms).
 
 We are processing Information for carrying out our commercial activities, in particular to pursue our Services, business activities as well as business communication including direct marketing.
 
