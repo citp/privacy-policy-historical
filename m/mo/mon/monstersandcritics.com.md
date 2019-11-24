@@ -1,14 +1,25 @@
-> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331023802id_/https%3A//www.monstersandcritics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstersandcritics.com privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124190809id_/https%3A//www.monstersandcritics.com/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies policy - Monsters and Critics
 
 ## 1\. Introduction
 
-1.1 We are committed to safeguarding the privacy of Monsters and Critics ([https://www.monstersandcritics.com](http://www.monstersandcritics.com/)).
+1.1 We are committed to safeguarding the privacy of Monsters and Critics ([https://www.monstersandcritics.com](https://www.monstersandcritics.com/)).
 
 1.2 This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.
 
 1.3 We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of our website and services, if you are in the EU we will ask you to consent to our use of cookies when you first visit our website.
+
+1.3.1  
+
+
+### Common ID Cookie
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and macOS browsers. Users can opt-out of the Common ID tracking cookie by clicking here.
+
+### Advertising Privacy Settings
+
+When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking here.
 
 1.4 Our website incorporates privacy controls which affect how we will process your personal data. By using the privacy controls, you can specify whether you would like to receive direct marketing communications and limit the publication of your information.
 
@@ -223,7 +234,7 @@ and such processing is carried out by automated means, you have the right to rec
 
 (a) <https://support.google.com/chrome/answer/95647?hl=en> (Chrome);  
 (b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences> (Firefox);  
-(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);  
+(c) [http://www.opera.com/help/tutorials/security/cookies/](https://www.opera.com/help/tutorials/security/cookies/) (Opera);  
 (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);  
 (e) <https://support.apple.com/kb/PH21411> (Safari); and  
 (f) <https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy> (Edge).
@@ -234,9 +245,7 @@ and such processing is carried out by automated means, you have the right to rec
 
 ## 18\. Cookie preferences
 
-18.1 You can manage your preferences relating to the use of cookies on our website by visiting the following link, if you are in the EU:
-
-Change Consent
+18.1 You can also manage your preferences relating to the use of cookies on our website by clicking [here if you are in the UK](https://www.monstersandcritics.com/cookie-policy-uk/) and [here if you are elsewhere in the EU](https://www.monstersandcritics.com/cookie-policy/).
 
 ## 19\. Our details
 
@@ -254,4 +263,4 @@ Change Consent
 
 20.1 Our data protection officer’s contact details are: Julian Cheatle, 1.3, TechCube, 1 Summerhall Place, Edinburgh. EH9 1QE.
 
- _This Privacy and Cookies policy was updated on May 25, 2018.  _
+_This Privacy and Cookies Policy was updated on Nov 15, 2019.  _
