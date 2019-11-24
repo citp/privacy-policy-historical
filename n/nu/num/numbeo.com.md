@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331132118id_/https%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2019-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191124061058id_/https%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,7 +57,7 @@ We use third-party advertising companies to serve ads when you visit our Website
 We use standard Linux and MySQL security features to protect personally identifiable data. 
 
 **Removing personally identifiable information**  
-To remove personally identifiable information associated with your email address, please use [this URL](https://web.archive.org/web/20190331132118id_/https%3A//www.numbeo.com/unsubscribe.jsp). To remove cookies, please check the documentation of your web browser. 
+To remove personally identifiable information associated with your email address, please use [this URL](https://web.archive.org/web/20191124061058id_/https%3A//www.numbeo.com/unsubscribe.jsp). To remove cookies, please check the documentation of your web browser. 
 
 Privacy policy contact information:   
 
