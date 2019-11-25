@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kff.org privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430235012id_/https%3A//www.kff.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kff.org privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125102828id_/https%3A//www.kff.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Henry J. Kaiser Family Foundation
 
