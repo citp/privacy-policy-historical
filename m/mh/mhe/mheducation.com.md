@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mheducation.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413142845id_/https%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mheducation.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125164330id_/https%3A//www.mheducation.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Center
 
@@ -93,7 +93,7 @@ Except as described in this notice, we limit the use, collection, and disclosure
 
 Depending on your location, where legally permissible, MHE uses your PII to provide you with materials that we believe are of interest. This includes information from the platforms on which you choose to communicate with us including email, social media accounts, mobile devices and apps, MHE websites including text/chat functions, and your shopping cart. 
 
-In some locations, such as the European Union, we will only send electronic marketing communications to consumers if you provide your consent, however such communications may still be sent directly to businesses without consent. In all instances, you may choose to change your marketing preferences at any time by completing our [Data Request Form](https://www.mheducation.com/privacy/privacy-request-form), clicking the unsubscribe button in any marketing email you receive from us, or by contacting [McGraw-Hill Education's Local Privacy Official](https://www.mheducation.com/privacy/customer-privacy-contacts.html).
+In some locations, such as the European Union, we will only send electronic marketing communications to consumers if you provide your consent, however such communications may still be sent directly to businesses without consent. In all instances, you may choose to change your marketing preferences at any time by completing our [Global Opt-Out Form](https://www.mheducation.com/privacy/email-opt-out-form.html), clicking the unsubscribe button in any marketing email you receive from us, or by contacting [McGraw-Hill Education's Local Privacy Official](https://www.mheducation.com/privacy/customer-privacy-contacts.html).
 
 McGraw-Hill Education shares your information with third parties to provide you with marketing from us, however we will not share your PII with third parties for them to market to you on their own behalf.
 
