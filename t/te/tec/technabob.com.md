@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520083439id_/https%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125062827id_/https%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - Technabob
 
@@ -211,18 +211,18 @@ If you have any questions about this Privacy Policy, please contact us:
 
 
 
-NERF Zombie Strike Nailbiter
+Sketch Wallets
 
-GoT: Daenerys & Cersei
+Indian or Native American?
 
-Westworld Season 3 (Trailer)
+Black Hole Sun: Cello Cover
 
 Advertisement
 
-2019 Acura RDX Review: Precision, Performance, and a Pleasing Price
+Blast from the Past: Isuzu VehiCROSS
 
-Concepts from Future Past: 1986 Italdesign Machimoto
+Carspotting Japan: “Hot Crack” Suzuki Wagon R Graffiti Car
 
-Only 35 2020 BMW M5 Edition 35 Years Cars will Come Stateside
+Mustang Mach-E Is the Name of Ford’s Electric Crossover
 
 Advertisement
