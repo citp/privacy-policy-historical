@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612063326id_/http%3A//www.environment.gov.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126001137id_/http%3A//www.environment.gov.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Department of the Environment and Energy
 
