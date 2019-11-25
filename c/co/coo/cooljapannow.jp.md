@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooljapannow.jp privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622024654id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooljapannow.jp privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125194345id_/http%3A//www.cdjapan.co.jp/guide/help/privacy_policy/privacy_policy) for the most accurate reproduction.*
 
 # CDJapan : Privacy Policy (Personal Information Protection Policy)
 
