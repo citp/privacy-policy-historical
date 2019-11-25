@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instructables.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611222609id_/http%3A//usa.autodesk.com/adsk/servlet/item%3FsiteID%3D123112%26id%3D21292079) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instructables.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125042915id_/http%3A//usa.autodesk.com/adsk/servlet/item%3FsiteID%3D123112%26id%3D21292079) for the most accurate reproduction.*
 
 # Privacy Statement English
 
