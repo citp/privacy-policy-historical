@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elprocus.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524224414id_/https%3A//www.elprocus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elprocus.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125030431id_/https%3A//www.elprocus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for ElProCus - ElProCus - Electronic Projects for Engineering Students
 
