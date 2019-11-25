@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allbirds.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425232715id_/https%3A//www.allbirds.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbirds.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125182733id_/https%3A//www.allbirds.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Allbirds
+# Privacy Policy
 
 Allbirds, Inc. (“Allbirds”) endeavors to protect your personal privacy. This Privacy Policy addresses Allbirds’s practices regarding information collected from users of the web properties of Allbirds, including but not limited to all main and subdomains of allbirds.com and allbirds.co.nz (collectively, the “Site”). This Privacy Policy does not address or govern any information-gathering, use, or dissemination practices related to information collected from you other than directly through or from the Site, such as from other websites, telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media.
 
