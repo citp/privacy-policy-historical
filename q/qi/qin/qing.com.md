@@ -1,69 +1,157 @@
-> *The following text is extracted and transformed from the qing.com privacy policy that was archived on 2015-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150530092736id_/http%3A//qing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qing.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125091020id_/https%3A//venture.com/privacy) for the most accurate reproduction.*
 
-# qing.com
+# Privacy Policy | Venture
 
-**Last updated November 15, 2010**
+We understand that your privacy and the security of your personal information is extremely important. 
 
-This Privacy Policy discloses the privacy practices of this domain (This Website and other websites where this privacy policy is displayed, collectively, the "Website"). Please read the following to learn what information we collect from customers and consumer visitors to our Website (the “User”) and how we use and share that information. In this Privacy Policy, personal information means information that is about an identifiable person. If you have any questions about our Privacy Policy, please use the contact us functionality on the site.
+At Venture.com ("Venture"), we pride ourselves on providing you, the client, with a range of online services. As part of this process, we ask you to provide us with certain personal information, for example, your name, address, email address, and payment details. 
 
-## 1\. Changes to Privacy Policy
+This is our notice to you that informs you what we do with your personal information, what steps we take to keep it secure, from where and how we collect your information, and your rights (hereafter the "Policy"). 
 
-We may change this Privacy Policy at any time. If we make changes to this Privacy Policy, we will change the "Last Updated" date above. The revised Privacy Policy is effective immediately when posted on the Website. It is the responsibility of each User to review the Website and the Privacy Policy periodically to learn of any revisions to this Privacy Policy.
+This Policy applies if you interact with us through our website, over the phone, online, sign up for an account, or otherwise by using any of our websites through domain names that we own or manage, or interacting with us on social media (hereinafter our "Services"). 
 
-## 2\. Types of Information Collected and Uses of Collected Information
+**Summary of Privacy Policy:**
 
-We collect information about you in various ways when you use our Website. We collect personal information you provide to us, when you request information about our services . If you decide to engage in these activities with us, we may ask you to provide us with certain personal information about yourself, such as your first and last name, email address. Please understand that if you publicly post personal information about yourself, this information may be accessible by other consumers and companies and may appear on other websites or web searches, and, therefore, this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other Users may do with the information you voluntarily post, so please use caution when posting any personal information.
-
-When you visit our Website, some information is also automatically collected, including the Uniform Resource Locator (“URL”) of the website you visited before coming to our Website, the URL of the website you visit after leaving our Website, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and advertisers, may automatically collect this information when you visit our Website through the use of electronic tools like Cookies and Web beacons or Pixel tags.
-
-**_Cookies_**. To facilitate and customize your experience with the Website, we may store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Website, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect non-personal information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. In addition, we may use Third Party Advertising Companies to display advertisements on our Website. As part of their service, they may place separate cookies on your computer. We have no access to or control over these cookies. This Privacy Policy covers the use of cookies by our Website only and does not cover the use of cookies by any advertiser. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Website may not work properly.
-
-**_Other Tracking Devices_**. We may use other industry standard technologies like pixel tags and Web beacons to track your use of our Website pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and Web beacons are tiny graphic images placed on certain pages on our Website, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a non-personally identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Website, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our affiliates and/or marketing partners for the same purposes.
-
-## 3\. Use of Personal Information
-
-We use personal information collected through our Website for purposes described in this Privacy Policy or disclosed to you on our Website or in connection with our services. For example, we may use your information to:
-
-  * analyze, operate and improve our Website;
-  * provide products and services to you;
-  * respond to your comments and questions and provide customer service;
-  * improve our marketing and promotional efforts;
-  * link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service; and
-  * troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Website Terms of Use and this Privacy Policy, comply with applicable law, and cooperate with law enforcement activities.
+  * Venture is a leasing platform for domain names located at #510-1231 Pacific Blvd, Vancouver, BC, V6Z 0E2. 
+  * Your personal information is, where appropriate, shared within the Venture team to help provide you services. 
+  * You have a number of rights over your personal information. How you can exercise these rights is set out in this Policy. 
+  * We display online advertising relating to our products and services on websites across Venture’s website, other websites of domain names managed by Venture and online media channels. 
 
 
 
-## 4\. Disclosure of Personal Information
+For more details on who we are and what we do with your information, please read on: 
 
-We will not disclose your personal information to other parties except as provided below:
+## Who Are We?
 
-  * with your consent; for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;
-  * with third party vendors, consultants and other service providers (collectively, “Third Party Service Providers”) who are working on our behalf and need access to your information to carry out their work for us;
-  * in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company; and
-  * (i) to comply with lawful requests, court orders or other legal process; (ii) to protect the rights and property of this website, our agents, customers, members, and others including to enforce our policies, Terms of Use or other agreements; or (iii) in an emergency to protect the personal safety of our employees, vendors, Users or any other person.
+We are a domain name leasing platform operated by Venture Media Labs and our address is #510-1231 Pacific Blvd, Vancouver, BC, V6Z 0E2. You can contact us by regular mail at the above address, by email at [legal@venture.com](mailto:legal@venture.com) or by telephone at [(778) 328-2866](tel:778-328-2866). 
+
+##  What Sort of Personal Information Do We Collect? 
+
+If you are merely visiting our Site, we collect and store only the following information about you: 
+
+  * The IP address of the terminal from which you access the Internet.
+  * The IP address of the website from which you linked directly to our Site.
+  * The date and time you access our Site.
+  * The browser you used to access our Site.
+  * The operating system you used to access our Site.
 
 
 
-We may disclose information, including in an aggregated form, in ways that do not directly identify you.
+We store the aforementioned information in log files. We use this information to measure the number of visitors to the different sections of our Site, and to help us make our Site more useful to visitors. 
 
-## 5\. Third Party Uses of Non-Personally Identifiable Information
+We will not obtain any other personally identifying information about you when you visit our Site, unless you choose to provide such information to us. 
 
-We may disclose or share non-personally identifiable information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any personally identifiable information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
+###  If you create an account or use our services we will also collect, store and use the following information: 
 
-We use Third Party Advertising Companies to serve ads when you visit our Website. These companies may use non-personally identifiable information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to take steps to opt-out of targeted advertising from any NAI member company, click here: http://www.networkadvertising.org/consumer/opt_out.asp.
+  * Your account login details for our services, including your user name and password. 
+  * Information that you provide to us such as your name, address, telephone number, email address. If applicable, your bank account and credit card details as well as any feedback you give to us, including by phone, email, post, or when you communicate with us via social media. 
+  * Information about the services that we provide to you (including for example, the things we have provided to you, when and where, what you paid, the way you use our products and services, and so on). 
+  * Information regarding your purchase inquires, offers or other communications regarding a domain name purchase or sale. 
+  * When you successfully lease a domain name through Venture, we collect additional information including name servers, administrative contacts, business identification, special registrar requirements, billing address and financial institution details. Bank account information is deleted when your transaction close. 
+  * Information about whether or not you want to receive marketing communications from us. 
+  * Information about any device you have used to access our Services (such as your device’s make and model, browser or IP address) and also how you use our Services. For example, if you use our websites, we try to identify when and how you use those websites. 
+  * Your contact details and details of the emails and other electronic communications you receive from us, including whether that communication has been opened and if you have clicked on any links within that communication. 
 
-We also use third party analytics service providers to track and analyze non-personally identifiable usage and volume statistical information from our Users to among other things help us administer our Website and constantly improve its quality. We may also publish this information for promotional purposes or to describe a representative audience for Advertisers. Please note that this is not personally identifiable information, only general summaries of the activities of our Users. 
 
-## 6\. Updating and Correcting Information
 
-You may request to access or change your personal information by using the contact us functionality on this website. Please indicate your name, address and email address, and what information you would like to access or update when you contact us. We encourage you to promptly update your personal information if it changes. 
+## Cookies and Similar Technologies
 
-## 7\. Choices on Use of Information
+"Cookies" are more than just tasty desserts. We use cookies to help give you the best experience on our websites and to allow us and third parties to tailor ads you see on ours and other websites. Cookies allow the website to function, to collect useful information about visitors and to help to make your user experience better. 
 
-As discussed above, you can always choose not to provide information, although it may be required to engage in certain activities on the Website.
+Cookies fall into four categories: Strictly Necessary, Performance or Analytical, Functionality, and Targeting. 
 
-## 8\. Security of Information
+We also use Google Analytics, a third-party tracking service, which uses cookies to track non-personally identifiable information about our visitors to our Site in the aggregate to capture usage and volume statistics. Some of our business partners (e.g., Google Analytics) use cookies on our Site. 
 
-We take reasonable measures to help protect your personal information in an effort to prevent loss, misuse and unauthorized access, collection, use, disclosure, alteration and destruction. 
+In addition to cookies, we and our partners use similar technologies to analyze trends, administer the website, tracking users' movements around our Site, and to gather demographic information about our user base as a whole. 
 
-* * *
+You can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g. [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies), [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en), [Mozilla Firefox](http://kb.mozillazine.org/Cookies#Firefox), or [Apple Safari](https://support.apple.com/kb/PH5042?locale=en_US)). Please note that by blocking any or all cookies, you may not have access to certain site features and will have to enter your personally identifying information manually more often. If you choose to lease or make an offer on a domain name on our Site, we collect information about these behaviours. 
+
+## Our Legal Basis for Processing Your Personal Information
+
+Whenever we process your personal information we have a "legal basis" for what we do. The different legal bases we rely on are: 
+
+  * **Consent:** If you have told us you are happy for us to process your personal information for a specific purpose. 
+  * **Legitimate Interests:** If the processing is necessary for us to conduct our business, but not where our interests are overridden by your interests or rights. 
+  * **Performance of a Contract:** If we must process your personal information in order to be able to provide you with one of our products or services. 
+  * **Prevention of Fraud:** Where we are required to process your data in order to protect us and our customers from fraud or money laundering. 
+  * **Public Information:** Where we process personal information which you have already made public. 
+  * **Legal Claims:** The processing of your personal information is necessary for the establishment, exercise or defense of legal claims or whenever courts are acting in their judicial capacity. 
+  * **Legal Obligation:** We are required to process your personal information by law. 
+
+
+
+##  When You Submit an Offer or Inquiry Through Our Website or the Venture System 
+
+When you submit an offer or inquiry via our Site or the Venture.com system, we ask you for your name, contact telephone number and email address. 
+
+We use this information to respond to your offer or inquiry, including among other things, providing you with any requested information about the requested domain name and our services. We may also email or call you several times after your inquiry in order to follow up on your interest and ensure that we have answered it to your satisfaction. We will do this based on our legitimate interest in providing accurate information prior to a lease or transaction. 
+
+Your inquiry is processed and logged on a CRM system on a cloud server based in Canada; a country, which the EU says has adequate data protection laws in place to protect your data. 
+
+We do not use the information you provide to make any automated decisions that might affect you. 
+
+## When You Lease a Domain Name through Venture
+
+To fully use our services, you will need to register for an account. During this process, you are required to provide us with your contact information and other personal information such as your name, email address, and billing address. 
+
+When you lease a Domain Name online, we ask you for your name, address, contact telephone number, email address and credit card information or banking information. We also record your IP (Internet Protocol) address, which is the address of your computer on the Internet. 
+
+We will use your information to verify your credit card details to process your order and may provide certain information to a third-party escrow provider to handle the financial transaction. We may use your telephone number to contact you regarding your lease fee. We require this information in order to process your payment, deliver your products or services and fulfil our contract with you. 
+
+When you successfully lease a domain name, we may also collect some additional information including name servers, administrative contacts, business identification, and other information for registrars. 
+
+Your information is stored on our website and on our cloud server, both of which are based within the European Union. Your credit card details are passed to a third-party payment processor which is based in the USA and is certified to the EU-US Privacy Shield (which requires effective safeguards for your information). We do not retain your credit card information. 
+
+We do not use the information you provide to make any automated decisions that might affect you. 
+
+## When You Submit a Review
+
+When you submit a review about us we record your name, your email address and your IP (Internet Protocol) address, which is the address of your computer on the Internet. 
+
+We use this information to provide verified independent views about our services to potential customers. Your name and the content of your review (but not your email address or IP address) may be publicly displayed on our website. We will do this based on our legitimate interest in marketing our services. 
+
+We do not use the information you provide to make any automated decisions that might affect you. 
+
+Your personal data is stored for as long as we are marketing the product or services that the review refers to, after which it is deleted. You may ask us to remove your review at any time. 
+
+## When You Take Part in a Feedback Survey
+
+When you take part in our feedback survey, we record your name, your email address, your organisation name, your job role and your answers to questions we ask about your opinion of, and use of, our products and services. 
+
+We use this information to develop and improve our products and services and our customer relationships. Your name and title and some or all of your comments may be publicly displayed on our website as a testimonial. We will do this based on our legitimate interest in marketing our products and services. 
+
+We do not use the information you provide to make any automated decisions that might affect you. 
+
+Your personal data is stored for three years, or for as long as we are marketing the services that the review refers to, whichever is shorter. You may ask us to remove a testimonial that is based on your feedback from our website at any time. 
+
+## Links to Other Sites
+
+Our Site includes links to other web sites whose privacy practices may differ from those of our Policy. Please note that if you submit personal information to any of those sites, your information is governed by their privacy policies. Be sure to carefully read the privacy policy of any website you visit while online. 
+
+## Your Rights as a Data Subject or Customer
+
+By law, you can ask us what information we hold about you, and you can ask us to correct it if it is inaccurate. If we have asked for your consent to process your personal data, you may withdraw that consent at any time. 
+
+If we are processing your personal data for reasons of consent or to fulfil a contract, you can ask us to give you a copy of the information in a machine-readable format so that you can transfer it to another provider. 
+
+If we are processing your personal data for reasons of consent or legitimate interest, you can request that your data be erased. 
+
+You have the right to ask us to stop using your information for a period of time if you believe we are not doing so lawfully. 
+
+Finally, in some circumstances you can ask us not to reach decisions affecting you using automated processing or profiling. 
+
+Also you may always submit a request regarding your personal data by email, post or telephone, please use the contact information provided below. 
+
+## Your Right to Complain
+
+If you have a complaint about our use of your information, we would prefer you to contact us directly in the first instance so that we can address your complaint. To do so, please email [legal@venture.com](mailto:legal@venture.com) or call us at [(778) 328-2866](tel:778-328-2866). 
+
+## Updates to this Policy
+
+We regularly review and, if appropriate, update this privacy policy from time to time, and as our services and use of personal data evolves. If we want to make use of your personal data in a way that we haven’t previously identified, we will contact you to provide information about this and, if necessary, to ask for your consent. 
+
+We will update the date of this document each time it is changed. 
+
+Effective Date: June 11, 2019
+
+Venture uses Cookies to offer you the best online experience. Continuing without changing Cookie settings assumes you consent to our use of cookies on this device. You can reject cookies by changing your browser settings, but that may impair functionality on our website.  [ Privacy Policy ](https://web.archive.org/privacy)
