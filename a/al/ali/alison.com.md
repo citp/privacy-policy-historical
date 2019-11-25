@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alison.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611162433id_/https%3A//alison.com/about/terms-of-use%3Fprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alison.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125224006id_/https%3A//alison.com/about/terms-of-use%3Fprivacy-policy) for the most accurate reproduction.*
 
 # 1000 Courses, 12M Learners, 1.5M Graduates | Terms of Use | Alison
 
@@ -724,12 +724,9 @@ Alison stores information about visitors to Our Services and Users on servers lo
 
 Personal data collected within Switzerland and the European Economic Area ("EEA") may be transferred to, and stored at, a destination outside of Switzerland and the European Economic Area ("EEA"). The data We hold may also be processed by employees operating outside of Switzerland and the EEA who work for Us or one of our affiliates or for one of Our vendors. Such staff may be engaged in, among other things:
 
-  1. the processing of transactions and Your payment details; 
-
-  
-and
-
+  1. the processing of transactions and Your payment details
   2. the provision of support services.
+  3. the preparation and distribution of orders
 
 
 
