@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622164042id_/https%3A//www.amnesty.org/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnesty.org privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126001446id_/https%3A//www.amnesty.org/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amnesty International
 
@@ -16,7 +16,7 @@ Amnesty International Limited is the registered data controller to which the pol
 
 The type and amount of information we receive and store depends on how you use our websites. You can access most of the pages on our websites without telling us who you are and without revealing any personal information.
 
-Our web servers use cookies and collect anonymous logs during user visits to our websites which provide valuable information for improving them in the future. For more information see the separate [Use of Cookies page](https://web.archive.org/en/about-us/cookie-statement/ "Cookie Statement").
+Our web servers use cookies and collect anonymous logs during user visits to our websites which provide valuable information for improving them in the future. For more information see the separate [Cookies page.](https://www.amnesty.org/en/about-us/cookie-statement/)
 
 In some circumstances your information may be shared with us by third parties, but only where you have specifically consented. Examples include registering for a human rights education course with our external provider, or if you register your interest in joining Amnesty International or one of its campaigns through Facebook, Facebook will share information such as your name and email address with us.
 
