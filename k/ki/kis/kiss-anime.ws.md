@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiss-anime.ws privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330191049id_/https%3A//www.kiss-anime.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiss-anime.ws privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125201249id_/https%3A//www.kiss-anime.ws/privacy) for the most accurate reproduction.*
 
 # Privacy - KissAnime
 
