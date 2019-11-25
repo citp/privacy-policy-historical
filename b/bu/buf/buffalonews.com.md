@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buffalonews.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620162557id_/https%3A//buffalonews.com/corporate/general-help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalonews.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125133840id_/https%3A//buffalonews.com/corporate/general-help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Buffalo News
 
@@ -92,7 +92,7 @@ Finally, you are solely responsible for maintaining the secrecy of your password
 
 ## What if I don't want The Buffalo News to contact me?
 
-You may opt out of any or all contacts from The Buffalo News at any time. All e-mails sent to you from The Buffalo News will allow you to opt out of any further e-mail from us. You may e-mail us at [comments@Buffalonews.com](https://web.archive.org/web/20190620162557id_/https://buffalonews.com/corporate/general-help/privacy-policy/comments@Buffalonews.com) to opt out of our email programs. You may also write or call us at the following address and phone number to notify us regarding use of your information: One News Plaza, P.O. Box 100, Buffalo, NY 14240; (716) 849-4444.
+You may opt out of any or all contacts from The Buffalo News at any time. All e-mails sent to you from The Buffalo News will allow you to opt out of any further e-mail from us. You may e-mail us at [comments@Buffalonews.com](https://web.archive.org/web/20191125133840id_/https://buffalonews.com/corporate/general-help/privacy-policy/comments@Buffalonews.com) to opt out of our email programs. You may also write or call us at the following address and phone number to notify us regarding use of your information: One News Plaza, P.O. Box 100, Buffalo, NY 14240; (716) 849-4444.
 
 ## Security technologies
 
@@ -110,7 +110,7 @@ Submit your request by contacting The Buffalo News via e-mail, postal mail, or t
 
 ## Contacting The Buffalo News
 
-If you have any questions about our privacy policy or the privacy practices of this site, please contact us at [Subscriberservice@buffnews.com](https://web.archive.org/web/20190620162557id_/https://buffalonews.com/corporate/general-help/privacy-policy/Subscriberservice@buffnews.com). You may telephone us at (716) 849-4444. You may write to us at:
+If you have any questions about our privacy policy or the privacy practices of this site, please contact us at [Subscriberservice@buffnews.com](https://web.archive.org/web/20191125133840id_/https://buffalonews.com/corporate/general-help/privacy-policy/Subscriberservice@buffnews.com). You may telephone us at (716) 849-4444. You may write to us at:
 
 **  
 Buffalonews.com**
