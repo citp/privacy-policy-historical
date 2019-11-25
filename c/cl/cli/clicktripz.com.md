@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktripz.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609054922id_/https%3A//www.clicktripz.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktripz.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125211651id_/https%3A//www.clicktripz.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Clicktripz - Conversion solutions for travel.
 
