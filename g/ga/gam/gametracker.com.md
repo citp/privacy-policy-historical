@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametracker.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629090859id_/https%3A//www.gametracker.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametracker.com privacy policy that was archived on 2019-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191125081816id_/https%3A//www.gametracker.com/legal/privacy) for the most accurate reproduction.*
 
 # GameTracker.com : Privacy Policy
 
