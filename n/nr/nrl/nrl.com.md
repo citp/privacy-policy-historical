@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520091155id_/https%3A//www.nrl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrl.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126201558id_/https%3A//www.nrl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NRL
 
