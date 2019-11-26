@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auroramj.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408024411id_/https%3A//www.auroramj.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auroramj.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126233112id_/https%3A//www.auroramj.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Aurora Cannabis
 
