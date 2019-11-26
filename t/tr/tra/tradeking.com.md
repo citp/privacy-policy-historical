@@ -1,76 +1,126 @@
-> *The following text is extracted and transformed from the tradeking.com privacy policy that was archived on 2012-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120606225709id_/http%3A//content.tradeking.com/wiki/display/tkservice/Privacy%2Band%2BSecurity%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeking.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126225410id_/https%3A//www.ally.com/privacy) for the most accurate reproduction.*
 
-# Privacy and Security Statement - Tradeking Customer Service - Tradeking Wiki
+# Our Privacy Policy | Ally
 
-The privacy and security of your personal and account information are important to TradeKing. Our privacy and security standards are intended to protect your personal information. This Statement illustrates how we use and protect your personal information.
+## Online Privacy Notice
 
-**Collection of Information**
+You take online privacy seriously, and so does the Ally Financial Inc group of companies (which includes Ally Financial and Ally Bank, collectively “Ally”). The terms “we,” “our,” and “us” in this Notice refer to Ally and its family of companies.
 
-"Nonpublic personal information" is information about you that we obtain in connection with providing a product or service. This includes such information as your name, address and Social Security number.
+Our Online Privacy Notice (the “Notice”) describes the information we collect from and about you during your visit to our online interfaces (websites and mobile applications) owned or controlled by us (the “Site”). It also describes how we use information about you, with whom we share it and how we protect it. This Notice applies only to those Ally interfaces that link directly to this Notice.
 
-We may collect nonpublic personal information about you from the following sources:  
-• Information that you provide to us, such as on applications or other forms  
-• Information about your transactions with us, our affiliates or others, or  
-• Information from others, such as credit bureaus, consumer-reporting agency, and employers
+It's important to know that our websites may contain links to third party sites not controlled by Ally or covered by this Notice. We recommend that you check the privacy statements of other sites you visit before providing any personal information.
 
-Our site's registration form requires users to give us contact information (like their name and e-mail address). We use customer contact information from the registration form to send the user information about our company. The customer's contact information is also used to contact the customer when necessary. Users may opt-out of receiving future non-essential mailings. We use your IP address to help diagnose problems with our server, and to administer our Web site.
+Once you become a customer of Ally, and once a year while you remain a customer of Ally, we will provide you with an Ally Consumer Privacy Notice that describes our privacy practices and provides you choices in the sharing of your information, as required by law. 
 
-TradeKing provides investment brokerage services by means of its own internal operation and those of its clearing firm and other unaffiliated third party providers such as mutual funds and variable product sponsors. TradeKing acts as an introducing broker to its clearing firm, which in turn processes the transactions and acts as the account custodian. All of the above parties receive and maintain information about you that is related to and necessary for processing investments in your account.
+## Personal Information We Collect
 
-The confidentiality of your nonpublic personal information will continue to be maintained consistent with this privacy notice even if you decide to close your account(s), your account becomes inactive, or when you otherwise cease to do business with us.
+We collect Personally Identifiable Information ("PII") about you from the information you provide to us when you visit our websites. The information we collect will depend on the Site you visit. This information may include, but is not limited to:
 
-**Additional Information**
+  * Name
+  * Address
+  * Social Security number in whole or in part
+  * Phone numbers (including mobile)
+  * Account number
+  * Account number at a bank or other financial institution, type of bank account and the name of bank or other financial institution
+  * Demand Note number
+  * Email address
+  * Email referral information
+  * Date of birth
+  * Current residential information including mortgage or rent payments
+  * Employment information
+  * Income information
+  * Internet Protocol (IP) Address and/or domain
+  * Geo-location of your computer or mobile device
+  * Mobile carrier and/or Internet Service Provider
 
-To better serve you, we sometimes collect additional information from third party sources. For example, to verify a customer's identity, we may use their name and Social Security number to request a screening report.
 
-**Personal Information Changes**
 
-Personal information changes, such as changes of residential address or email address, may be made at anytime by logging into your account. You may also change your personal information by contacting customer service at or by submitting the request in writing to:
+We use personal information collected online for various functions, which may include:
 
-TradeKing  
-PO Box 49050  
-Charlotte, NC 28277-3432
+  * processing your request for services, products or information
+  * improving our customer service and products
+  * servicing your account
+  * facilitating your participation in online activities.
 
-**Sharing of Information**
 
-We believe that your privacy should never be compromised. At the same time, we want to offer you the array of products and services you need to accomplish your goals. We believe we can do both by adhering to the provisions of this policy. We do not sell customer (current or former) information to third parties. Any information shared by us is done so to fulfill our legal and regulatory requirements and to provide you with the products and services you have requested. We require that all third parties with whom we share your information agree to keep it confidential.
 
-We share selected information under certain conditions: (1) we disclose information about you to a variety of third parties to bring you financial services as necessary to fulfill these third party service agreements. We share information as part of normal business operations and as part of normal legal and or regulatory purposes required by our service partners, the Internal Revenue Service, the Securities and Exchange Commission, and other regulatory and government entities; (2) we may share limited information with third parties to assist in the analysis of customer demographics, business analysis and marketing strategies. These third parties must agree to strict confidentiality provisions to assure the protection of your information; (3) we may share opt-out e-mail addresses with third-parties who send communications on our behalf in order that they may eliminate their receipt; (4) we may retain a service to contact opt-in customers on our behalf to perform account closure analysis.
+For example, we may use the information you provide when you complete an online application for a product or service in order to process and evaluate your application. If you request product information, we may use the information you provide to mail you information you request.
 
-Additionally, we may invite you to share your contact information from time-to-time with third party research organizations. Although we don't share information with other third party offer providers, we occasionally send select third party offers we feel would be beneficial to our customers. We may also purchase or receive lists of non-customers but we will not redistribute such lists.
+We may also use the information you provide to contact you regarding your account and to process or collect payments. In addition, we may collect and use information for analytic purposes, market research or for marketing purposes, as allowed by law.
 
-**Information Security**
+## How Personal Information Is Shared
 
-TradeKing has security measures in place to protect the loss, misuse and alteration of the information under our control. The secure site area uses SSL (Secure Socket Layer) technology to provide a secure environment for all transactions. We restrict access to information about you to those employees and authorized agents who need to know that information in order to provide products or services to you. We maintain physical, electronic and procedural safeguards to maintain the confidentiality of your information.
+We may share the personal information we collect about you with third parties, such as companies performing services on our behalf to provide the products or services you have requested.
 
-When you access our account holder areas, you are required to login by providing your Username and your password. To preserve privacy and confidentiality, your login information is transmitted in an encrypted format through a multi-factor authentication process. If you circumvent, with or without the cooperation of TradeKing, the multi-factor authentication/log-in process, including but not limited to bypassing the onscreen password keyboard, you agree that you are liable for any and all subsequent security breaches involving your account(s). Do not share your passwords with anyone and change it frequently. Password changes can be made at anytime by logging into your account.
+As permitted by law, we may also share information collected about you with companies with whom we have formal agreements to offer you financial products and services.
 
-Access to your information is granted only to employees and third-party service providers who need it to perform a specific service. Our service providers are contractually obligated to keep information confidential. You are encouraged to read the privacy statements of our service providers.
+We may share information about you with our affiliates (other companies in the Ally family) and with nonaffiliates for analysis, market research and marketing purposes as allowed by law.
 
-**Opt-out**
+Finally, we may disclose your personal information as otherwise permitted or required by law.
 
-Users who no longer wish to receive marketing offers and promotions from TradeKing may opt-out of receiving these communications by sending an e-mail to unsubscribe@tradeking.com.
+## Information collected via Cookies 
 
-Even if you decide to opt out from receiving offers and promotions from us, you must maintain an e-mail address for us to be able to continue to e-mail you trade and account information and follow US regulations.
+We use a variety of technologies, including cookies, to collect information about your online/mobile activity when you visit our website. Cookies are small text files that a website server stores on your computer or device. They’re typically used to remember your account login preferences, monitor website traffic, provide customer support like live chat and help us better customize our site for your individual preferences.
 
-**Links**
+We may also use Flash® objects (sometimes called "Local Shared Objects") as part of our online authentication to help us recognize your computer when you come back to our site. We do not use Flash objects for any online behavioral advertising purpose.
 
-The TradeKing website contains links to other websites. We are not responsible for the privacy practices of other websites. Please read the privacy statements of every website that collects personal information.
+You can disable cookies by making the appropriate selection from your browser options to inform you when cookies are set or to prevent cookies from being set. However, if you choose to disable or delete cookies, you may limit the functionality we can provide when you visit our site.
 
-**Cookies**
+## Online Behavioral Advertising (OBA) on Third Party Sites
 
-We may use cookies or other technology to gather information about Site usage to help us improve the content, usability and functionality of TradeKing's site, and to remember certain user attributes. This helps us better tailor TradeKing for users and better understand how many new and repeat users visit TradeKing, which features or pages are most popular, and user browsing and usage patterns.
+There are three ways we use OBA on third party websites and mobile apps that are not affiliated with Ally.
 
-Additionally, TradeKing uses cookies or other technology to help us authenticate you, store and recognize your configuration and user attributes, facilitate your navigation and entitlements throughout TradeKing and customize its content so that the information made available is more likely to be of interest to you.
+## Interest‐Based Advertising
 
-You can set your Web browser to prompt you before you accept a cookie, to accept cookies automatically, or to reject all cookies. However, if you choose not to accept cookies from TradeKing, then you may not be able to access and use all or part of this Site or benefit from the information and services which it offers.
+The third parties we contract with may use cookies or other technologies to gather interest-based information to customize the ads you see. This information may be combined and linked with data from other sources. Neither the third parties nor Ally collects any personally identifiable information (PII) through these cookies. We may also use aggregate data to display ads or content that may interest you. 
 
-We also use cookies, and we may employ additional software, to help us track a visitor's progress in order that we can improve our website and your experience.
+Ally has adopted the use of the [AdChoices Icon](http://www.youradchoices.com/) (also known as the Advertising Option Icon) on our interest-based advertising (excluding ads appearing on platforms that do not accept the icon). You can click the AdChoices Icon to learn more and control whether or not you receive this type of advertising from participating companies.
 
-**Notification of Changes**
+## Device-Based Advertising
 
-The effective date of this Privacy Policy is provided below. Any updates or changes to the policy will be posted on this web site. Consumers who are TradeKing customers will be notified of updates and changes in accordance with federal law.
+We also use device information, particularly in mobile advertising, to help deliver our ads and measure ad campaign effectiveness. Ally and the companies we work with won’t collect any personally identifiable information (PII) but may collect your device information when you visit one of our sites or see our ads. Compiling and comparing this information creates a unique ID for individual devices and can be "matched" to the same information on other sites or mobile applications. Some companies we work with are also able to associate related devices into households based on common characteristics, such as IP addresses.
 
-For more information or other questions regarding our Privacy Policy, please e-mail [service@tradeking.com](mailto:service@tradeking.com "Send mail to service@tradeking.com").
+## Device Usage Research
 
-20110516 Privacy and Security Statement V5
+We participate in the Adobe Marketing Cloud Device Co-op. This helps us understand how you use our website and apps across your devices so that we can better tailor promotions to you. [Learn more about how Adobe’s program works and manage your preferences.](https://cross-device-privacy.adobe.com/)
+
+## "Do Not Track" Signals
+
+We do not respond to Web browser "Do Not Track" signals at this time. To prevent Ally or third parties from tracking, you can access your browser settings and disable or delete your cookies.
+
+## Changing or Updating Your Personal Information 
+
+If you have questions about personal information you provided on an Ally website, select the "Contact Us" link – usually found in the navigation menu – or log into your Ally Auto account and select Account Information to edit your personal information or your Ally Bank account and select My Profile to edit your personal information.
+
+## Security Of Your Personal Information 
+
+We restrict access to the personal information obtained from our website to only those employees, agents and contractors who need it to do their jobs. We maintain administrative, technical, and physical safeguards designed to protect your personal information.
+
+Additionally, companies that provide online services on our behalf are required by contract to protect customer information. They are only allowed to use the information they collect for the purpose of providing the services that we have contracted to them.
+
+## Personal Information About Children
+
+We do not knowingly collect or maintain personal information about children under the age of 13 unless the personal information is provided by a parent, legal guardian or authorized adult. Our websites are not intended for children under 13. Visit the Federal Trade Commission website for more information on the [Children’s Online Privacy Protection Act (COPPA).](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online)
+
+## Public Forums Available On Our Sites And Social Media
+
+Public forums are available on our Sites, and they may include text, photographs and videos that are accessible to the general public. Unless we tell you otherwise, any information you disclose in these areas may become public information. 
+
+We also provide experiences through social media sites such as Facebook, Twitter, LinkedIn and YouTube. Any and all information you share on these Social Media sites is visible to any visitor to these sites. Refer to each social media site for their Terms of Use and Privacy Policies.
+
+You should use caution when deciding to disclose personal information in these areas.
+
+## Changes to this Notice
+
+This Notice is effective June 15, 2017. We reserve the right to alter this Notice at our discretion. Any change to this Notice will be posted on our Sites in a timely manner.
+
+
+
+
+## Social Security Number Privacy Protection Policy
+
+The [Ally group of companies ](https://web.archive.org/help/glossary/bank/index.html#term-ally-group-of-companies) ("Ally") collects Social Security numbers as necessary to support state and federal legal requirements, to provide products or services to you and to meet needs within our Human Resources unit. To support these requirements, we restrict the access to Social Security numbers only to employees, agents, service providers, and government entities that require access to Social Security numbers to meet these purposes. We strive to protect Social Security numbers from unlawful disclosure and keep them confidential by maintaining administrative, technical, and physical safeguards that comply with applicable state and federal regulations.
+
+## Mobile Carrier Information for Deposits Customers 
+
+To prevent fraud and to verify your identity, you authorize your wireless operator (AT&T, Sprint, T-Mobile, U.S. Cellular, Verizon, or any other branded wireless operator) to disclose to Ally Bank and our third-party service providers your mobile number, name, address, email, network status, customer type, customer role, billing type, mobile device identifiers (IMSI and IMEI), and other subscriber status and device details, if available. This applies for the duration of your business relationship with us.
