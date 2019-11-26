@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ostechnix.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523191254id_/https%3A//www.ostechnix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ostechnix.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126120909id_/https%3A//www.ostechnix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OSTechNix
 
