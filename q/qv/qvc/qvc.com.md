@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qvc.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405175341id_/https%3A//www.qvc.com/content/information/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qvc.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126171154id_/https%3A//www.qvc.com/content/information/privacy-statement.html) for the most accurate reproduction.*
 
 # The QVC Privacy Statement — Customer Service — QVC.com
 
@@ -70,7 +70,7 @@ Finally, we analyze information we obtain automatically, including from cookies 
 
 In order to receive and process your orders and requests, we may provide your name, address, and other personal information, such as your email address and phone number, to other entities, such as credit card companies and package delivery services (for example, American Express, Visa, UPS, and USPS). Similarly, if you order a product that is shipped directly from another company, or offered by us in conjunction with another company, we'll share personal information about that order with the other company.
 
-We may use third-party agents, consultants, and contractors to perform business functions on our behalf, including customer service, credit review, account servicing, customer research, marketing, provision of IT services, and records maintenance. We give these entities access to our customers' personal information to perform these functions for us. We DO NOT authorize them to use that information for any other purpose.
+We may use third-party agents, consultants, and contractors to perform business functions on our behalf, including customer service, credit review, account servicing, customer research, marketing, provision of IT services, and records maintenance. We give these entities access to our customers' personal information to perform these functions for us. We DO NOT authorize them to use that information for any other purpose. If you are a Nevada resident and would like to make a request under Chapter 603A of the Nevada Revised Statutes, you may email us at [privacy.statement@qvc.com](mailto:privacy.statement@qvc.com). Please include "Nevada" in your email subject line, and include the following information in your email: your name, Nevada resident address, and email address.
 
 Additionally, we share personal information about you when you voluntarily use certain optional services and features we offer. For example, if you're a member of one of our third-party affinity programs, we'll share information concerning your purchases from us with the organization running that program. If you ask us to send a particular product to another person or use our notify-a-friend feature, we'll tell that person we're sending the product or email at your request. If you participate in a contest or sweepstakes or submit an employment application, we may share the information you submit with others assisting us in the administration of that feature. If you use one of our community functions, the content of your posting will be available to all other participants and will be accompanied by your username or chosen nickname.
 
@@ -118,3 +118,5 @@ Occasionally, we participate in rewards programs with other business organizatio
 **_Do we collect personal information from children?_**
 
 Our services are not intended for use by children, and the terms and conditions governing the use of our services require that you must be at least 18 years old to use them. In addition, we do not solicit or collect information from anyone who tells us that he or she is under 13 years of age.
+
+Revised September 25, 2019
