@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the endocrine.org privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603051736id_/https%3A//www.endocrine.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endocrine.org privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126132259id_/https%3A//www.endocrine.org/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Endocrine Society
+# Privacy Policy | Hormone Health Network
 
 ### Privacy Statement
 
@@ -59,7 +59,7 @@ The Endocrine Society records learner's personal information as provided on CME 
 
 ### Correction of Information
 
-If you wish to review the information we have collected from you (e.g., to confirm we have the correct address), please visit the [My Account](https://web.archive.org/membership/my-account) section on our website or contact us at [info@endocrine.org](mailto:info@endocrine.org). We will respond to you promptly and provide you with opportunity to correct any errors.
+If you wish to review the information we have collected from you (e.g., to confirm we have the correct address), please visit the [My Account](https://ams.endocrine.org/eweb/DynamicPage.aspx?webcode=FullIndInfo&Site=ES) section on our website or contact us at [info@endocrine.org](mailto:info@endocrine.org). We will respond to you promptly and provide you with opportunity to correct any errors.
 
 ### Security
 
