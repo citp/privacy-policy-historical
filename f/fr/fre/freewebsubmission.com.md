@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewebsubmission.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513200652id_/https%3A//www.freewebsubmission.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebsubmission.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126022154id_/https%3A//www.freewebsubmission.com/privacy.html) for the most accurate reproduction.*
 
 # Free Web Submission: Free Search Engine Submission and Site Promotion
 
