@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ae911truth.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331093052id_/https%3A//www.ae911truth.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ae911truth.org privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127002907id_/https%3A//www.ae911truth.org/privacy-policy) for the most accurate reproduction.*
 
 # ae911truth.org Privacy Policy
 
