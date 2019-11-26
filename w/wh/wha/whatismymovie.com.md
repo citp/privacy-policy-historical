@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the whatismymovie.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828204918id_/https%3A//valossa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatismymovie.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126153559id_/https%3A//valossa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Valossa AI
+# Privacy Policy - Valossa AI | Live AI | Video AI | Video Recognition
+
+Skip to content
+
+Privacy Policy[valaiadmin](https://valossa.com/author/valaiadmin/ "Posts by valaiadmin")2019-07-25T14:54:02+02:00
 
 Last Updated: June 2018
 
@@ -24,22 +28,22 @@ This Privacy Policy is governed by Finnish law, excluding its choice of law prov
 
 We reserve the right to change this Privacy Policy from time to time. Please check the Privacy Policy regularly for updates.
 
- **1\. What Personal and Technical Data Do We Collect?**
+**1\. What Personal and Technical Data Do We Collect?**
 
 With “personal data” we mean any information that may identify you as an individual.
 
 The personal data we collect can be grouped into the following categories:
 
-  *  **Identification information** such as name and username
-  *  **Contact information** such as e-mail address, telephone number and address
-  *  **Payment information** such as bank details
-  *  **Information of the customership and the contract** such as correspondence, emails and information on you relating to the use and provision of the Services, and/or your customer relationship or other business with us.
-  *  **Technical data** , such as log data including information such as your computer’s Internet Protocol (“IP”) address, URL of the site from which you came, browser type and version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages, the devices used to access the Service, and other traffic data. Please review the full [Cookies Policy](http://valossa.com/cookies-policy/) to learn how we use cookies.
-  *  **Special categories of personal data,** when we use biometric data for the purpose of uniquely identifying a natural person
+  * **Identification information** such as name and username
+  * **Contact information** such as e-mail address, telephone number and address
+  * **Payment information** such as bank details
+  * **Information of the customership and the contract** such as correspondence, emails and information on you relating to the use and provision of the Services, and/or your customer relationship or other business with us.
+  * **Technical data** , such as log data including information such as your computer’s Internet Protocol (“IP”) address, URL of the site from which you came, browser type and version, the pages of our site that you visit, the time and date of your visit, the time spent on those pages, the devices used to access the Service, and other traffic data. Please review the full [Cookies Policy](https://valossa.com/cookies-policy/) to learn how we use cookies.
+  * **Special categories of personal data,** when we use biometric data for the purpose of uniquely identifying a natural person
 
 
 
- **2\. How We May Use Your Personal Data and The Lawful Basis For Doing So?**
+**2\. How We May Use Your Personal Data and The Lawful Basis For Doing So?**
 
 Personal data is used for:
 
@@ -56,24 +60,24 @@ Personal data is used for:
 
 The Lawful Basis for processing personal data:
 
-  *  **Performance of a contract:** processes is needed for enabling you to use our service, customer service during contract period
-  *  **Legitimate interest:** personal data processed in the context of marketing, product- and customer analyses This processing forms the basis for marketing, process-, business- and system- development, including testing. This is to improve our product range and optimize our customer offerings. This may also involve profiling.
-  *  **Consent:** there are situations when we will ask for your consent to process your personal data. Examples of such situations are processing of special categories of data. The consent will contain information on that specific processing activity. If you have given consent to a processing of your personal data you can always withdraw the consent.
+  * **Performance of a contract:** processes is needed for enabling you to use our service, customer service during contract period
+  * **Legitimate interest:** personal data processed in the context of marketing, product- and customer analyses This processing forms the basis for marketing, process-, business- and system- development, including testing. This is to improve our product range and optimize our customer offerings. This may also involve profiling.
+  * **Consent:** there are situations when we will ask for your consent to process your personal data. Examples of such situations are processing of special categories of data. The consent will contain information on that specific processing activity. If you have given consent to a processing of your personal data you can always withdraw the consent.
   * Processing relates to personal data which are manifestly made public by the data subject
 
 
 
- **3\. From Where Do We Receive Data?**
+**3\. From Where Do We Receive Data?**
 
 We collect or receive personal information through, among others, valossa.com, our Valossa AI Portal video analysis dashboard, our software applications, social pages, as well as email and other communication channels. We may also update and supplement personal data with information provided by third parties in order to improve the Services.
 
- **4\. How Do We Share and Transfer Data on You**
+**4\. How Do We Share and Transfer Data on You**
 
 We may share your personal data with others to for the purposes described in this Privacy Policy:
 
- **A) Our affiliates**
+**A) Our affiliates**
 
- **B) To Provide Our Services**
+**B) To Provide Our Services**
 
 When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide our services. For example, we use an outside credit card processing company to bill users for services. This company do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your purchase.
 
@@ -81,11 +85,11 @@ We use personal data to develop our service:
 
 When the training of the face detector has been done in an anonymity-preserving manner, by showing non-identified face images of thousands of persons to the neural network, this data is not possible to revert back to the persons. Instead, the neural network uses the data to construct a model that enables the face detector to decide whether the pattern in the image is a real face or is it, for example, a face-like shape burnt on the surface of a slice of toast.
 
- **5\. Do We Transfer Personal Data Outside EU or EEA?**
+**5\. Do We Transfer Personal Data Outside EU or EEA?**
 
 We may store and process your personal data in any country where we have facilities, employees, and/or service providers. Such countries may include the United States and other countries outside the European Union. Such transfers will be carried out in compliance with applicable regulations such as model contractual clauses or binding corporate rules.
 
- **6\. How Do We Protect the Data and How Long Do We Store Them?**
+**6\. How Do We Protect the Data and How Long Do We Store Them?**
 
 We take precautions to protect your information. When you submit personal data via the Services, your information is protected both online and offline.
 
@@ -95,21 +99,21 @@ While we use encryption to protect personal data transmitted online, we also pro
 
 We store the data as long as it is necessary for the purpose of processing the data. For example, personal data in the customer and marketing register is erased period related to a specific customer relationship or service has elapsed or the data related to marketing activities has been identified as outdated or unresponsive.
 
- **7\. Third Party Activities**
+**7\. Third Party Activities**
 
 This Privacy Policy applies only to personal data processing carried out by Valossa. The Privacy Policy does not address and we are not responsible for, the privacy, data or other practices of any third parties, including our clients, or any other third party operating any site or service that you may encounter in connection to the Services.
 
 Our websites contain links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. If our Services (or a link to our Services) are included on a third party website it does not mean that we have given an endorsement of such site or service.
 
- **8\. Children’s privacy**
+**8\. Children’s privacy**
 
 Valossa understands the special need to provide privacy protections for children. Therefore, our Services are not intended for and Valossa does not knowingly process data on children younger than thirteen (13) years of age. We request that children under thirteen do not provide personal data through any of the Services. If we become aware of unintentionally processing information on children under thirteen, we will take reasonable measures to delete such data as soon as possible.
 
- **9\. Changes to this Privacy Policy**
+**9\. Changes to this Privacy Policy**
 
 From time to time we may change this Privacy Policy. You can tell when changes have been made to the Privacy Policy by referring to the Last Updated legend on top of this page.
 
- **10\. What are Your Rights as a Data Subject?**
+**10\. What are Your Rights as a Data Subject?**
 
   * Request access to your personal data.
   * Request correction of incorrect or incomplete data.
@@ -122,7 +126,7 @@ From time to time we may change this Privacy Policy. You can tell when changes h
 
 Your request to exercise your rights as listed above will be assessed given the circumstances in the individual case. Please note that we may also retain and use your information as necessary to comply with legal obligations, resolve disputes, and enforce our agreements.
 
- **11\. How to use your rights?**
+**11\. How to use your rights?**
 
 Data controller is Valossa. If you have any questions or concerns regarding our privacy policy and how we process your personal data, you can always contact us via email at support@valossa.com or via mail:
 
@@ -134,3 +138,9 @@ FINLAND
 Also, Valossa has appointed a Data Protection Officer that you can contact by [contact form via Valossa Portal](https://portal.valossa.com/portal/contact).
 
 You can also lodge a complaint or contact the local data protection authority. For more information, see for example [http://www.tietosuoja.fi](http://www.tietosuoja.fi/).
+
+We use cookies and other tracking technologies to improve your browsing experience, analyze site traffic and understand where our audience is coming from.  
+By choosing "I Accept", you accept our use of cookies and other tracking technologies in Valossa company website and Valossa Portal.   
+You can review our usage of cookies and manage your cookie choices from Cookies Policy page. We also encourage you to review our [Privacy Policy](https://valossa.com/privacy-policy/) and [Terms and Conditions](https://valossa.com/terms-conditions/).
+
+I Accept[Cookies Policy & Manage Cookies](https://valossa.com/cookies-policy/)
