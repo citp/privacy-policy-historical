@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oukosher.org privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229183420id_/https%3A//oukosher.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oukosher.org privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126052318id_/https%3A//oukosher.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OU Kosher Certification
 
