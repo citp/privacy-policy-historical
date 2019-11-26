@@ -1,79 +1,126 @@
-> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418184520id_/https%3A//www.bmi.com/legal/entry/533244) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmi.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126025702id_/https%3A//www.bmi.com/legal/entry/533244) for the most accurate reproduction.*
 
 # Privacy Policy | BMI.com
 
 ## Privacy Policy
 
+**Effective Date: May 28, 2019**
+
 ## Introduction
 
-Launched in September of 1994, BMI.com is BMI’s hub for electronically communicating with our affiliated songwriters, composers and music publishers, our licensing customers, music and entertainment industry professionals and the public. From a pure informational resource at its inception, bmi.com has truly evolved into a business-to-business interface through which we efficiently and securely exchange critical information with our customers and affiliates. Whether you use bmi.com as an affiliated writer or publisher, a licensing customer, or just a fan of music, BMI remains committed to providing a service that recognizes and protects your privacy.
+Launched in September of 1994, BMI.com is Broadcast Music Inc.’s (“BMI”) hub for electronically communicating with our affiliated songwriters, composers and music publishers, our licensing customers, music and entertainment industry professionals and the public. From a pure informational resource at its inception, BMI.com has evolved into a business-to-business interface through which we efficiently and securely exchange critical information with our customers and affiliates. Whether you use BMI.com as an affiliated writer or publisher, a licensing customer, or just a fan of music, BMI remains committed to providing a service that recognizes and protects your privacy.
+
+This privacy policy (“Policy”) describes our information collection, use, and sharing practices in connection with BMI.com and any other website or service that links to or refers to this Policy (collectively, the “Sites”), including information collected from our affiliated songwriters, composers, and music publishers (collectively, “Affiliates”) both on the Sites and elsewhere.
 
 ## Who We Are
 
-Broadcast Music, Inc. (“BMI”) is a U.S. music performing rights organization. Headquartered in New York at 7 World Trade Center, 250 Greenwich Street, New York, NY 10007, BMI also maintains offices in Atlanta, London, Los Angeles, Nashville, Miami and Puerto Rico. We can be reached by e-mail at [webmaster@bmi.com](mailto:webmaster@bmi.com), or by telephone at (212) 220-3000. As described more thoroughly below, BMI generally owns all of the information collected on bmi.com.
+Broadcast Music, Inc. BMI is a U.S. music performing rights organization. Headquartered in New York at 7 World Trade Center, 250 Greenwich Street, New York, NY 10007, BMI also maintains offices in Atlanta, Austin, London, Los Angeles, Nashville, and Puerto Rico. We can be reached via the contact information in the Questions or Comments section below.
 
-## What We Collect and How We Use It
+## What We Collect
 
-BMI collects different information from different visitors depending on their use of the website. You should be aware that, although certain services offered through the website may require personally identifiable information, that is, identifiable information about an individual such as name, address, telephone number, social security number, credit card number, birth date or place of birth, you’ll always know when we need your personal information to provide the service, and you can always choose not to use the electronic service if you do not want to share your information.
+BMI collects different information from different visitors depending on their use of the Sites:
 
-## Public Services
+**Information you provide directly to us.**   We collect information that is provided directly to us, such as during account registration, when you subscribe to our newsletters, license music, or contact us directly.  This information includes:
 
-For those of you who use bmi.com as an informational/entertainment resource, BMI does not generally collect or track any personally identifiable information. Although we will provide you with the opportunity to register as a user of bmi.com, you will not be required to register in order to access the public services offered on this website. BMI will use the registration information that you choose to provide solely for the purpose of enhancing your experience on our website. We do not presently share personally identifiable information with third parties.
+  * Contact information, such as your name, email address, phone number, and mailing address;
+  * Username and password;
+  * Information that Affiliates may need to provide as part of the process of affiliating with BMI, such as legal name, date of birth and social security number, tax identification, or other unique identifiers;
+  * Information that customers may need to provide in order to obtain a license from BMI, which may include business name and address and payment information such as your payment card number or bank account information;
+  * Information submitted by Affiliates to register their works, manage their account(s), and request and submit documents and other information relating to their affiliation with BMI.  This may include bank account information if an Affiliate chooses to use our direct deposit option for royalty payments and location information to help identify venues when reporting live performances to BMI;
+  * Information submitted by customers pursuant to the terms of their license agreement with BMI, which may include financial or usage data; and
+  * Any other information you choose to provide to us.
 
-BMI does make use of data-tracking software, however, to analyze traffic to the website and identify trends in usage so that we can continue to make sure that bmi.com is the best service that it can be. For example, we may store a piece of data called a “cookie” on your hard drive, or keep track of your IP address, so that we can better understand how the site is used. We use this information solely for developing enhancements/improvements to our service. We will not link cookies to any personally identifiable information and we do not presently share any individualized information with third parties. BMI may link to third party websites and may enter into agreements with third party advertising networks. These third parties may have a privacy policy that differs from ours, so you may want to review their policies prior to giving them any of your information.
 
-BMI does not presently share any of the website usage information that we collect with third parties other than as described in this policy. You should be aware, however, that BMI does use the services of advertising networks to serve up ads on some of our web pages. Advertising Networks frequently use their own “cookies” in their advertising. Once an advertising network has dropped a “cookie” onto your hard drive, the advertising network has the ability to determine whenever your computer views a web page containing the network’s advertising. The advertising network’s “cookie” may allow them to store your IP address in connection with web page usage information, but the network does not collect personally identifiable information about you, such as name, address or other specific information, unless you give it to them.
 
-BMI will occasionally use aggregated traffic information, such as the number of unique visitors to a newly launched section, to promote the success of various pages, services, etc. to third parties or to the public.
+You are not required to register or provide us with personal information in order to use the public portions of our Sites, but you may be required to register or otherwise provide personal information to use certain portions of the Sites, such as Online Services.
 
-BMI will provide visitors with the ability to register to receive electronic newsletters and other materials. These are opt-in services, which means you can choose whether you want to receive the material, and you can always change your mind. BMI will use whatever personally identifiable information you do provide, such as name and e-mail address, solely for purposes of distributing the materials. We may also use aggregated information, such as the number of songwriters who opted-in. We do not presently share personally identifiable information with third parties.
+**Information we collect automatically**. We collect certain information automatically when you use our Sites, such as your Internet protocol (IP) address, device identifiers, browser type, operating system, Internet service provider, pages that you visit before and after using the Sites, the date and time of your visit, information about the links you click, the pages you view, the general manner in which you navigate the Sites, and other standard server log information.
 
-## Business-to-Business Services
+We, and third parties that provide content or functionality on our Sites, may use cookies, pixel tags, local shared objects, and similar technologies to automatically collect this information.  For more information about cookies, pixel tags, local shared objects, and similar technologies, please see the “Cookies” section below.  We may also request location information from your mobile device’s location services to provide certain functionality, such as helping to identify a specific venue when you are using our BMI Live mobile app.
 
-BMI also has several business-to-business applications on the website and will likely continue to develop more in the future. These services often require users to disclose information in connection with the transaction.
+We may combine the information we collect from and about you with information we already have about you.
 
-## BMI’s Digital Licensing Center
+## How We Use Information
 
-BMI’s Digital Licensing Center provides Internet websites with the ability to obtain a BMI Website Music Performance Agreement through the website. Customers will need to enter information about themselves, their business and about their website(s). They may also choose to provide a credit card for payment purposes. All information provided to BMI through the Digital Licensing Center is encrypted while it is transferred over the Internet and is stored on an internal BMI computer which is not accessible to the public. Access to credit card information is further restricted to those BMI employees who are responsible for processing the license. Any such personally identifiable information can be modified at your request by forwarding an e-mail to [digitallicensing@bmi.com](mailto:digitallicensing@bmi.com) or calling the Internet License Department at (212) 220-3000.
+We generally use the information we collect online to:
 
-BMI will use this information to generate the appropriate electronic license. In addition, BMI may use the information for internal development purposes in order to improve the system. We may ask you whether you need to obtain additional licenses from third parties, and if so, whether you would like BMI to facilitate the process by forwarding your name and contacting information to the appropriate third party. We will always disclose the identity of the third party prior to sharing any information. Finally, BMI may use aggregated information about the use of the Digital Licensing Center, such as the number of licenses executed, and the type of customers using the service to promote the success of the service.
+  * Provide the Sites, and fulfill your requests for products, services, and information;
+  * Generate licenses to use music, establish and maintain licensee accounts, and process financial and usage information;
+  * Establish and maintain accounts for affiliates, register musical works, and distribute royalties;
+  * Contact you;
+  * Send you newsletters and promotional materials from us or on behalf of trusted third-party partners;
+  * Analyze the use of the Sites and user data to understand and improve the Sites;
+  * Customize the content you see when you use the Sites;
+  * Prevent potentially prohibited or illegal activities, comply with applicable law, and enforce our Terms and Conditions of Use (and more generally, as noted below, to protect and defend the rights, interests, health, safety, and security of BMI or third parties); and
+  * For any other purposes disclosed to you (for example, at the time we collect your information), or pursuant to your consent.
 
-BMI does not presently share any personally identifiable information provided through the Digital Licensing Center with third parties other than as described above without first obtaining your permission.
 
-## Electronic Music Use Reporting
 
-BMI’s Electronic Music Use Reporting System provides BMI’s radio station customers with the ability to file playlist information through the website. Radio Station customers will need to enter personally identifiable information about themselves, and additional information about their station and about the music they play. All information provided to BMI through the Electronic Music Use Reporting System is stored on an internal BMI computer which is not accessible to the public. Any personally identifiable information can be modified at your request by forwarding an e-mail to [playlists@bmi.com](mailto:playlists@bmi.com) or calling the Logging Department at 615-401-2000.
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-BMI will use this information to distribute royalties to BMI-affiliated writers and publishers. In addition, BMI may use the information for internal market share analysis, for external negotiations, and for other purposes. BMI may also use aggregated information for marketing and promotional purposes.
+  * **Other Music Licensing Organizations, Registries, and the Public.**
+    * If you license your works through BMI, we may share information about you and your works with standards registries and other music licensing organizations around the world in order to help identify you and your works for licensing and administration purposes.  We may also share your information with other music licensing organizations in the U.S.  to facilitate more accurate documentation among the licensing organizations in a specific territory, such as with ASCAP, SESAC, or GMR here in the United States, and with licensees as may be necessary in the licensing and administration of your works.
+    * If you obtain a license from BMI, we may identify you and your company or service as the source of the royalty payments that we remit to our Affiliates and to music licensing organizations outside of the U.S. for your performances of their members’ music.
+    * Information about registered musical works, including song title, writer name(s), and publisher name(s), is posted in our publicly available searchable song title database so that customers or potential customers can determine whether a work is licensed by BMI and/or who they need to contact if they need a synchronization or other type of license.
+  * **Authorized third-party vendors and service providers.** We may share your information with third-party vendors and service-providers that help us with specialized services, including legal advice, billing, payment processing, customer service, email deployment, business analytics, marketing, advertising, performance monitoring, hosting, and data processing.
+  * **Business transfers.** We may share your information in connection with a substantial corporate transaction, such as the sale of a website, a merger, consolidation, asset sale, or in the unlikely event of bankruptcy.
+  * **Legal purposes.** We may disclose information to respond to subpoenas, court orders, legal process, law enforcement requests, legal claims or government inquiries, and to protect and defend the rights, interests, health, safety, and security of BMI, our Affiliates, users, or the public.
+  * **With your consent or at your direction.** We may share information for any other purposes disclosed to you at the time we collect the information or pursuant to your consent or direction.
 
-BMI does not presently share any personally identifiable information provided through the Electronic Music Use Reporting system with third parties without first obtaining your permission.
 
-## Online Works Registration
 
-BMI’s Online Services section provides our affiliated songwriters, composers and music publishers with the ability to register songs electronically. BMI affiliates will need to enter specific information about themselves and about their musical work(s). All information provided to BMI through the Online Services is stored on an internal BMI computer which is not accessible to the public. Any such personally identifiable can be modified at your request as set forth in the instructions provided in Online Services section.
+Some of the content, functionality, and advertising on our Sites may be provided by third parties that are not affiliated with us, including through the use of cookies and similar technologies as described in the “Cookies” section below. For example, if you access third-party services, such as Facebook, Google, or Twitter, through the Sites to share information about your experience on the Sites with others, these third-party services may be able to collect information about you, including information about your activity on our Sites through the use of cookies, web beacons, and other Internet technologies, and this information may be collected over time and combined with information collected across different websites and online services.  Their collection and use of your data will be governed by their own privacy policies.
 
-BMI will use this information to register the musical work, and may share such registration information with other organizations, such as foreign performing rights organizations, as necessary in furtherance of our representation of the musical work. BMI will post some of the information, including song title, writer name(s) and publisher name(s) in the searchable song title database. In addition, BMI may use the information for internal development purposes in order to improve the system. BMI may ask you whether you would like BMI to facilitate the process of registering your work with other third parties. We will always disclose the identity of the third party prior to sharing any information. Finally, BMI may use aggregated information about the use of the Online Services, such as the number of registrations received, to promote the success of the service.
+Some of these companies participate in industry-developed programs designed to provide consumers choices about whether to receive targeted advertising.  Please visit the websites operated by the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!%2F) and [Digital Advertising Alliance](http://www.aboutads.info/) to learn more.
 
-BMI does not presently share any personally identifiable information provided through the Online Services with third parties other than as described above without first obtaining your permission.
+## Your Choices and Rights
 
-BMI’s Online Services section also provides special discount programs on trade magazine subscriptions, computer equipment, and other third-party products and services. The personal information that you enter when you take advantage of any of these programs is provided directly to the third party, and is subject to that third party’s privacy policy. You may wish to review their privacy policy prior to entering any information.
+You may have certain rights as a data subject under local law.  For example, local law may afford you the right to access, update, restrict, oppose, erase, port and/or correct inaccuracies in your personal information under our control, subject to certain exceptions prescribed by law.  To exercise these rights, please contact us using the contact information in the Questions or Comments section below or as may be provided to you on or through any of our Sites.
 
-## Links to Other Websites
+As described in greater detail in the section on “Cookies,” cookies are pieces of information stored by your computer’s web browser. You may be able to refuse or disable cookies by adjusting your web browser settings.  Because each web browser is different, please consult the instructions provided by your web browser (typically in the “help” section).  Please note that you may need to take additional steps to refuse or disable local shared objects and similar technologies.  If you choose to refuse, disable, or delete these technologies, some of the functionality of the Sites may no longer be available to you.
 
-BMI maintains links to other websites, including those of advertisers, BMI publishers, foreign performing rights organization and Internet licensing customers, to help you find additional information in which you may be interested. Please keep in mind that BMI is not responsible for the privacy practices of these other websites.
+If you no longer wish to receive electronic newsletters or other materials from us, you can opt out using the instruction provided in the newsletters or other materials.
+
+California residents are entitled once a year, free of charge, to request and obtain certain information regarding our disclosure, if any, of certain categories of personal information to third parties for their direct marketing purposes in the preceding calendar year. We do not share personal information with third parties for their own direct marketing purposes.
+
+## Links to Other Websites and Third Parties
+
+BMI maintains links to other websites, including those of advertisers, BMI publishers, foreign performing rights organization and Internet licensing customers, to help you find additional information in which you may be interested. Please keep in mind that BMI is not responsible for the privacy practices of these other websites, so you should review their policies prior to giving them your information.
+
+BMI’s Online Services section also provides special discount programs on trade magazine subscriptions, computer equipment, and other third-party products and services. The personal information that you enter when you take advantage of any of these programs is provided directly to the third party and is subject to that third party’s privacy policy. You should review their privacy policies prior to entering any information.
+
+## Cookies
+
+We, as well as certain third parties, including those that provide content and other functionality on our Sites, may use cookies, web beacons, and other similar technologies on our Sites and the information collected from such technologies. By using the Sites, you consent to our use of cookies and similar technologies as described in this Policy.  You may opt out of cookies and similar technologies in accordance with the “Choices” section above, but please understand that certain functionalities on the Site may no longer function for you if you choose to do so.
+
+Cookies are small bits of information that are stored by your computer’s web browser. Pixel tags are very small images or small pieces of data embedded in images, also known as “web beacons” or “clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device. Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.aboutcookies.com](https://www.aboutcookies.com/) or [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+**Do-Not-Track Signals and Similar Mechanisms.** Some web browsers transmit “do-not-track” signals to websites. Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them. We currently do not take action in response to these signals.
+
+## International Transfers; International Data Processing
+
+BMI may collect, transfer, store and process your information outside of your country of residence, including to and from the United States. Please note that other countries’ data protection and other laws may not be as comprehensive as those in your country. In accordance with applicable law, we implement measures to ensure that any transferred personal information remains protected and secure. You may obtain further information about these measures by contacting us using the contact information in the Questions and Comments section below.
+
+To the extent BMI’s activities are subject to international data protection laws that specify limited legal grounds to process your information, BMI relies on the following legal grounds: conclusion or performance of a contract, including our Terms and Conditions of Use; for legitimate interests of BMI or third parties (including the promotion and development of our Sites; preventing potentially prohibited or illegal activities; and enforcing our Terms and Conditions of Use); compliance with legal obligations; where necessary for public interest grounds, or to protect your or others’ vital interests; or on the basis of your consent.
+
+Where applicable, you may withdraw your consent at any time by contacting us using the contact information in the Questions or Comments section below.
+
+## Children
+
+We do not knowingly collect any personal information online from children under 13 or as defined by local law, unless permitted by law. If we learn that a child has provided us with personal information, we will delete it in accordance with applicable law.
 
 ## Changes To Our Policy
 
-In the event that BMI changes this policy, we will immediately update this policy to reflect the changes, and will post the revised policy on the website. If BMI wishes to use any personally identifiable information that we have obtained through a website in any manner inconsistent with the policy posted at the time the information was collected, BMI will notify users by e-mail and provide the ability to opt-out of such use.
+In the event that BMI changes this Policy, we will revise the “Effective Date” above, and will post the revised policy on the website. We recommend that you review the Privacy Policy each time you visit the Sites to stay informed of our privacy practices.
 
-## Required Disclosures
+## Security and Data Retention
 
-In the event that BMI is obligated by law to disclose personally identifiable information, such as by court order, or lawful warrant from a law enforcement agency, BMI will attempt to notify you of the request so that you will have the opportunity to appear and contest the order or warrant.
+BMI takes reasonable steps to protect all of the information we collect. You should understand that no data storage system or transmission of data over the Internet or any other public network can be guaranteed to be 100 percent secure. Only those BMI employees who have a need to access your information will have access to your information. We have informed all employees of our security and privacy practices, and we will update all employees as necessary.
 
-## Additional Security
+We will retain your personal information in accordance with applicable laws.
 
-In addition to the security measures described above, BMI takes additional steps to protect all of the information we collect. Only those BMI employees who have a need to access your information will have access to your information. We have informed all employees of our security and privacy practices, and we will update all employees as necessary. BMI will undertake to notify any individual who has provided personally identifiable information that may be affected by a breach in security.
+In some circumstances we may anonymize your personal data (so that it can no longer be associated with you), particularly for research or statistical purposes, and may aggregate such anonymous data with that of other users of the Services.
 
 ## Questions or Comments
 
-If you have any additional questions or comments with respect to the security of our website, please send an e-mail to [webmaster@bmi.com](mailto:webmaster@bmi.com), or call (212) 220-3000.
+If you have any questions or comments about this Policy or our practices, or would like to exercise your rights under applicable data protection laws, please send an e-mail to [webmaster@bmi.com](mailto:webmaster@bmi.com), or call (212) 220-3000.
