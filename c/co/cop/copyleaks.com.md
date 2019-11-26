@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copyleaks.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326163854id_/https%3A//copyleaks.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyleaks.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127003916id_/https%3A//copyleaks.com/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Copyleaks
 
@@ -37,7 +37,7 @@ We understand that the data you send to Copyleaks is confidential and treat it a
 
 ###  MEDIA, ADVERTISEMENTS AND DIRECT MAILING 
 
-When you provide us with your contact details, you agree that we may contact you and send you mail and advertisements regarding our Services. We may create a profile to serve your better targeted advertisements. We may contact by e-mail, telephone, mobile phone (including SMS messages), social networks and other means. To stop receiving commercial communications, please contact support@copyleaks.com. You may still receive service-related communications. 
+When you provide us with your contact details, you agree that we may contact you and send you mail and advertisements regarding our Services. We may create a profile to serve your better targeted advertisements. We may contact by e-mail, telephone, mobile phone (including SMS messages), social networks and other means. To stop receiving commercial communications, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) You may still receive service-related communications. 
 
 ###  RIGHT TO REVIEW AND CORRECT INFORMATION 
 
@@ -45,7 +45,7 @@ You may review the Personal Information we have about you on our website. If the
 
 ###  RIGHT TO WITHDRAW YOUR CONSENT AND TO HAVE YOUR PERSONAL INFORMATION DELETED 
 
-Applicable law may give you additional rights, such as to withdraw your consent to process your Personal Information; to have it deleted; to object to processing (for example, when the processing is based on the legitimate interest of Copyleaks and you believe that your rights prevail over it). To receive more information or make any request, please contact support@copyleaks.com. We will review your request in accordance with your and our rights (such as the right to keep information for protection from legal claims) and obligations (such as the duty to store information for tax purposes) under the applicable laws, notify you of the results of this review, and act accordingly. We may, however, not be able to continue to serve you. To delete content you submitted, please go to: https://copyleaks.com/Manage/RemoveFromInternalDB 
+Applicable law may give you additional rights, such as to withdraw your consent to process your Personal Information; to have it deleted; to object to processing (for example, when the processing is based on the legitimate interest of Copyleaks and you believe that your rights prevail over it). To receive more information or make any request, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) We will review your request in accordance with your and our rights (such as the right to keep information for protection from legal claims) and obligations (such as the duty to store information for tax purposes) under the applicable laws, notify you of the results of this review, and act accordingly. We may, however, not be able to continue to serve you. To delete content you submitted, please go to: https://copyleaks.com/Manage/RemoveFromInternalDB 
 
 ###  SECURITY 
 
@@ -65,4 +65,4 @@ Our provision of the Service which enables you to access third party services or
 
 ###  CONTACT US 
 
-If you have any questions or comments about this Statement or the practices relating to the Site, or wish to correct, delete, or update any Personal Information we have collected, please contact us at support@copyleaks.com and we will make an effort to reasonably respond to your inquiry, or to update or remove any personal information you have provided us as indicated by you. 
+If you have any questions or comments about this Statement or the practices relating to the Site, or wish to correct, delete, or update any Personal Information we have collected, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will make an effort to reasonably respond to your inquiry, or to update or remove any personal information you have provided us as indicated by you. 
