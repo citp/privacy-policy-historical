@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zecco.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529024144id_/https%3A//www.ally.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zecco.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126225410id_/https%3A//www.ally.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Ally
 
@@ -120,3 +120,7 @@ This Notice is effective June 15, 2017. We reserve the right to alter this Notic
 ## Social Security Number Privacy Protection Policy
 
 The [Ally group of companies ](https://web.archive.org/help/glossary/bank/index.html#term-ally-group-of-companies) ("Ally") collects Social Security numbers as necessary to support state and federal legal requirements, to provide products or services to you and to meet needs within our Human Resources unit. To support these requirements, we restrict the access to Social Security numbers only to employees, agents, service providers, and government entities that require access to Social Security numbers to meet these purposes. We strive to protect Social Security numbers from unlawful disclosure and keep them confidential by maintaining administrative, technical, and physical safeguards that comply with applicable state and federal regulations.
+
+## Mobile Carrier Information for Deposits Customers 
+
+To prevent fraud and to verify your identity, you authorize your wireless operator (AT&T, Sprint, T-Mobile, U.S. Cellular, Verizon, or any other branded wireless operator) to disclose to Ally Bank and our third-party service providers your mobile number, name, address, email, network status, customer type, customer role, billing type, mobile device identifiers (IMSI and IMEI), and other subscriber status and device details, if available. This applies for the duration of your business relationship with us.
