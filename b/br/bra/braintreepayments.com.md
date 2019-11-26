@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braintreepayments.com privacy policy that was archived on 2018-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180812100916id_/https%3A//www.braintreepayments.com/legal/braintree-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braintreepayments.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126105457id_/https%3A//www.braintreepayments.com/legal/braintree-privacy-policy) for the most accurate reproduction.*
 
 # Braintree Privacy Policy | Braintree Payments
 
@@ -45,7 +45,7 @@ We share information with:
 
 ## International Transfers of Your Personal Data
 
-Our operations are supported by a network of computers, cloud-based servers, and other infrastructure and information technology, including, but not limited to, third-party service providers. We and our third-party service providers store and Process your Personal Data in the United States of America and elsewhere in the world. We will protect your information as described in this Privacy Policy if your Personal Data is transferred to other countries. By using our Sites and Services, you consent to your Personal Data being transferred to other countries, including countries that have different data protection rules than your country. Please contact us for more information about this.
+Our operations are supported by a network of computers, cloud-based servers, and other infrastructure and information technology, including, but not limited to, third-party service providers. We and our third-party service providers store and Process your Personal Data in the United States of America and elsewhere in the world. We will protect your information as described in this Privacy Policy if your Personal Data is transferred to other countries/regions. By using our Sites and Services, you consent to your Personal Data being transferred to other countries, including countries/regions that have different data protection rules than your country. Please contact us for more information about this.
 
 ## Your Rights
 
@@ -54,8 +54,6 @@ You may review limited Personal Data after logging in to your Account. If you ne
 ## Cookies
 
 When you visit the Braintree Services, we and certain business partners and vendors may use cookies and other tracking technologies (collectively, “Cookies”) to recognize you and to otherwise customize your online experiences and other content and advertising; measure the effectiveness of promotions; and mitigate risk, prevent potential fraud, and promote trust and safety across the Braintree Services. Certain aspects and features of the Braintree Services are only available through the use of Cookies, so if you choose to disable or decline Cookies, your use of the Braintree Services may be limited or not possible.
-
-Please review our [Statement on Cookies and Tracking Technologies](https://www.paypal.com/us/webapps/mpp/ua/cookie-full?locale.x=en_US) to learn more about how we use Cookies.
 
 ## Security
 
