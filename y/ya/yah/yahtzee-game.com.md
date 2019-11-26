@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yahtzee-game.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629121430id_/https%3A//cardgames.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahtzee-game.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126165810id_/https%3A//cardgames.io/privacy) for the most accurate reproduction.*
 
 # CardGames.io - PRIVACY POLICY
 
@@ -44,7 +44,7 @@ For a better explanation of exactly what Google does with your data, please visi
 
 ### Your privacy settings
 
-You last accepted our cookie policy on 2/19/2020 2:35:12 AM, Country: US, ConsentId: 0. You can change whether or not you allow us to show you personalized ads below. 
+You last accepted our cookie policy on 2/19/2020 2:35:27 AM, Country: US, ConsentId: 0. You can change whether or not you allow us to show you personalized ads below. 
 
 You have not accepted our cookie policy yet. No cookies will be set on your computer until you do this. In the meantime the games may not work normally, as they require cookies to keep scores and other things. Below you can also control whether or not we may show you personalized ads or not. 
 
@@ -56,4 +56,4 @@ If you would like more information about any of the above, please do not hesitat
 
 [Click here to go back to the frontpage](https://web.archive.org/). 
 
-This is version 2115 of CardGames.io.
+This is version 2323 of CardGames.io.
