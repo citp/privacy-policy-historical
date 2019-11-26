@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humansarefree.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630192759id_/http%3A//humansarefree.com/p/messages.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humansarefree.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126180007id_/http%3A//humansarefree.com/p/messages.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Humans Are Free
 
@@ -30,7 +30,9 @@ About Google advertising: What is the DoubleClick DART cookie? The DoubleClick D
 
 **Affiliate advertising**
 
-Our website contains affiliate marketing links, which means we may get paid commission on sales of those products or services we write about. Unless stated otherwise, our editorial content is not influenced by advertisers or affiliate partnerships. This disclosure is provided in accordance with the Federal Trade Commission's 16 CFR § 255.5: [Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf).  
+Our website contains affiliate marketing links, which means we may get paid commission on sales of those products or services we write about. If you take action (i.e. subscribe, make a purchase, etc.) after clicking one of these links, we’ll earn some coffee money, which we promise to drink while creating more content for you to read. 
+
+Unless stated otherwise, our editorial content is not influenced by advertisers or affiliate partnerships. This disclosure is provided in accordance with the Federal Trade Commission's 16 CFR § 255.5: [Guides Concerning the Use of Endorsements and Testimonials in Advertising](http://www.ftc.gov/sites/default/files/attachments/press-releases/ftc-publishes-final-guides-governing-endorsements-testimonials/091005revisedendorsementguides.pdf).  
   
 Medical disclaimer
 
