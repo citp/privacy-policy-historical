@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the solitaire-cardgame.com privacy policy that was archived on 2019-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190629121430id_/https%3A//cardgames.io/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solitaire-cardgame.com privacy policy that was archived on 2019-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191126165810id_/https%3A//cardgames.io/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="privacy normal gdpr-accepted non-gdpr-country"><head>
     <title>CardGames.io - PRIVACY POLICY</title>
@@ -17,12 +17,11 @@
      
     <link rel="icon" href="/frontpage/images/frontpage-touch-icon-192.png" sizes="192x192">
     
-
     <script>
         var adFreeCode = (document.cookie.match(/adfreecode=(\w+)/)||[])[1];
         var category = "PRIVACY POLICY";
         var slug = 'privacy';
-        var siteVersion = '2115';
+        var siteVersion = '2323';
         var showAds = 'none';
         var afgChannelId = '';
         var players = {"bottom":{"name":"You","face":"/shared/images/svg/face-0.svg","faceSad":"/shared/images/svg/face-0-sad.svg","code":"0","defaultName":"You"},"left":{"name":"Mike","face":"/shared/images/svg/face-mike.svg","faceSad":"/shared/images/svg/face-mike-sad.svg","code":"mlpge","defaultName":"Mike"},"top":{"name":"Bill","face":"/shared/images/svg/face-2.svg","faceSad":"/shared/images/svg/face-2-sad.svg","code":"2","defaultName":"Bill"},"right":{"name":"Lisa","face":"/shared/images/svg/face-3.svg","faceSad":"/shared/images/svg/face-3-sad.svg","code":"3","defaultName":"Lisa"}};
@@ -79,7 +78,7 @@
 
         }
     </script>
-    <link rel="stylesheet" href="/privacy/2115/privacy.min.css">
+    <link rel="stylesheet" href="/privacy/2323/privacy.min.css">
 
     <style id="player-faces-style">
         .face-bottom-player {
@@ -146,9 +145,18 @@
 
             //2. Get data and add it to css
             var customPlayers = JSON.parse(localStorage[KEY]);
+
+            if (slug === 'checkers' && document.location.search.match(/tesla/) || navigator.userAgent.match(/Tesla|QtCarBrowser|Model S/)) {
+                customPlayers.top = {
+                    name : 'Elon',
+                    type : 'custom',
+                    code: "bamoe",
+                    face: "https://cardgames.io/lambda/faces/bamoe",
+                    faceSad: "https://cardgames.io/lambda/faces/bamoe/sad"            
+                };
+            } 
             var pdata;
             var css = '';
-
 
             var hideNames = false;
             for (var id in customPlayers) {
@@ -207,12 +215,15 @@
                 height = Math.max(height, MIN_BOARD_HEIGHT);
                 var el = document.createElement('style');
                 el.innerHTML = '#play-page { height:' + height + 'px; }';
+                el.id = 'viewport-height';
                 document.getElementsByTagName('head')[0].appendChild(el);
             }
         })();
     </script>
     
     <link rel="canonical" href="https://cardgames.io/privacy/">
+    
+    
     
     
     
@@ -278,7 +289,7 @@
             });
             
             if (!this.isTurnedOff()) {
-                document.write("<link href='" + HTML_OWN_DOMAIN + "/themes/2115/" + this.current + ".min.css' id='theme-css' rel='stylesheet' type='text/css'>");
+                document.write("<link href='" + HTML_OWN_DOMAIN + "/themes/2323/" + this.current + ".min.css' id='theme-css' rel='stylesheet' type='text/css'>");
                 var html = document.getElementsByTagName('html');
                 if (html && html[0]) {
                     html[0].className += ' ' + this.current;
@@ -331,7 +342,7 @@
         isThanksgiving : function(date) {
             var SUNDAY = 0;
             var THURSDAY = 4;
-            var NOVEMBER = 10; //Javascript's stupid 0-based month count
+            var NOVEMBER = 10; //JavaScript's stupid 0-based month count
             var ONE_DAY = 24*60*60*1000;
             var d = date;
             if (d.getDay() !== SUNDAY && d.getDay() < THURSDAY) {
@@ -371,7 +382,7 @@
             $('#theme-opt-out').show();
 
             $('<link/>').attr({
-                href : HTML_OWN_DOMAIN + '/themes/2115/' + this.current + '.min.css',
+                href : HTML_OWN_DOMAIN + '/themes/2323/' + this.current + '.min.css',
                 rel : 'stylesheet',
                 id : 'theme-css'
             }).appendTo('head');
@@ -466,12 +477,18 @@
                 <label>OTHER GAMES</label>
                 <a href="/backgammon/">Backgammon</a>
                 <a href="/checkers/">Checkers</a>
+                <a href="/chess/">Chess</a>
                 <a href="/mahjong/">Mahjong</a>
                 <a href="/minesweeper/">Minesweeper</a>
-                <a href="/reversi/" class="non-removable">Reversi</a>
+                <a href="/reversi/">Reversi</a>
                 <a href="/sudoku/">Sudoku</a>
                 <a href="/triangles/">Triangles</a>
                 <a href="/yahtzee/">Yahtzee</a>
+            </div>
+            <div class="game-links">
+                <label>OUR OTHER SITES</label>
+                <a href="https://spacebugs.io" target="_blank" id="space-link">SPACEBUGS.IO</a>
+                <a href="https://sudoku.lol" target="_blank" id="sudoku-link">SUDOKU.LOL</a>
             </div>
             <button class="big hide-mobile" id="close-menu">CLOSE GAME MENU</button>
             <a id="customize-menu" class="hide-mobile" href="#customize-menu">Customize...</a>
@@ -527,7 +544,7 @@
                             }
                         </script>
                     </span>
-                    <a href="/reversi/" class="newest-game">Reversi</a>
+                    <a href="/chess/" class="newest-game">CHESS</a>
                     <a href="#more-games" id="more-games-link">More games...</a>
                 </div>
                 
@@ -722,25 +739,26 @@
  
 
 
-            <p id="version-info" class="appmode-hide">This is version 2115 of CardGames.io.</p>
+            <p id="version-info" class="appmode-hide">This is version 2323 of CardGames.io.</p>
             
 
         </div>
         <!-- end row 3 -->
 
 
-        <script type="text/javascript" src="/shared/lib/jquery-1.9.1.min.js"></script>
+        <script type="text/JavaScript" src="/shared/lib/jquery-1.9.1.min.js"></script>
 
         <script>
             //Only load huge polyfill file for crap browsers...
             if (typeof Symbol === 'undefined' || !Array.prototype.find || !Array.prototype.includes) {
                 //Must load this completely before the game code, hence the document.write...
                 document.write('<scr' + 'ipt src="/shared/lib/polyfill.min.js"></scri' + 'pt>');
+                window.polyfilled = true;
             }
         </script>
 
         
-        <script src="/privacy/2115/privacy.min.js"></script>
+        <script src="/privacy/2323/privacy.min.js"></script>
         
     </div>
 
