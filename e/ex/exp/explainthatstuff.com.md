@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515123056id_/https%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explainthatstuff.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126032429id_/https%3A//www.explainthatstuff.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy and cookies policy - Explain that Stuff
 
-_Last updated: May 26, 2018._
+_Last updated: August 3, 2019._
 
-If you've come here to opt in or out of cookies, you can do that straight away by clicking [here](https://web.archive.org/web/20190515123056id_/https%3A//www.explainthatstuff.com/cookie-delete.html). If you're not sure what cookies are or what they do, please read on.
+If you've come here to opt in or out of cookies, you can do that straight away by clicking [here](https://web.archive.org/web/20191126032429id_/https%3A//www.explainthatstuff.com/cookie-delete.html). If you're not sure what cookies are or what they do, please read on.
 
 ## What are cookies?
 
@@ -43,14 +43,9 @@ The cookies of other third-party vendors or other ad networks may also be used t
 
 ### Cookies for social media
 
-Like pages on most other modern websites, most of the pages on our site now include links to social networking and bookmarking sites (specifically, the Facebook Like button and Google +1 button) to help people remember our articles and share them with their friends. Please be aware that, depending on how you are signed into these services, they might be using cookies to track websites or pages you visit. No such information is collected by our own site and none of the information that may be collected by social networking sites is available to us: it passes directly between your computer and the social networking site(s) you belong to. If you have concerns about privacy and social networking bookmarks, please visit the privacy pages of the sites or services you use:
+Like pages on most other modern websites, most of the pages on our site now include links to social networking and bookmarking sites to help people remember our articles and share them with their friends. **Most of the social sharing buttons on our site are simple, ordinary web links that don't track or trace you in any way**. We removed the official Twitter Tweet button in 2017: the "Tweet" buttons on our pages are just ordinary web links to Twitter. Although they look like the official button, they don't use cookies in any way and don't allow Twitter to track your browsing. In 2019, Google switched off support for Google+, so we no longer use Google social buttons or plugins at all.
 
-  * [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/)
-  * [Google Buttons Policy](https://developers.google.com/+/web/buttons-policy)
-
-
-
-As of 2017, we no longer use the "official" Twitter tweet button; the "Tweet" buttons on our pages are just ordinary web links to Twitter. Although they look like the official button, they don't use cookies in any way and don't allow Twitter to track your browsing.
+The only social plugin we're using as of August 2019 is the Facebook "Like" button and we plan to convert those buttons to simple, privacy-friendly "Share" links during 2019 and early 2020. In the meantime, please be aware that, whether you are signed into Facebook or not, it might be using cookies to track websites or pages you visit. No such information is collected by our own site and none of the information that may be collected by Facebook or any other social networking sites is available to us: it passes directly between your computer and the social networking site(s) you belong to. If you have concerns about privacy and social networking bookmarks, please visit the privacy pages of the sites or services you use (in particular, [Facebook's Privacy Policy](https://www.facebook.com/about/privacy/)). 
 
 ## UK Privacy and Electronic Communications (EC Directive) Regulations 2003
 
@@ -66,7 +61,7 @@ As explained above, this site collects and stores no personal information from a
 
 ## We will not keep, sell, or otherwise misuse your email address
 
-We value feedback from our readers **very highly** : we're trying to improve this site all the time and your thoughts and suggestions are invaluable to us. If you send us [feedback](https://web.archive.org/web/20190515123056id_/https%3A//www.explainthatstuff.com/feedback.php) or comments, we keep them and act on them, if that's appropriate. We give you the option of sending feedback anonymously, though (to prevent abuse), your IP address and computer hostname are sent to us at the same time, along with basic details of which browser, operating system, and so on that you're using (that helps us if you've commented about formatting problems, mobile-device usability, or things like that). If you do choose to send us your email address, we may use it to send you a reply. We don't use it for any other purpose, we don't record it anywhere, and we don't retain it. If we send you a reply, we delete that promptly too, so there is no record of your email address anywhere on our web server or email server. When we store your feedback, we delete your name, email address, IP address, and host name; only your comments and suggestions are stored.
+We value feedback from our readers **very highly** : we're trying to improve this site all the time and your thoughts and suggestions are invaluable to us. If you send us [feedback](https://web.archive.org/web/20191126032429id_/https%3A//www.explainthatstuff.com/feedback.php) or comments, we keep them and act on them, if that's appropriate. We give you the option of sending feedback anonymously, though (to prevent abuse), your IP address and computer hostname are sent to us at the same time, along with basic details of which browser, operating system, and so on that you're using (that helps us if you've commented about formatting problems, mobile-device usability, or things like that). If you do choose to send us your email address, we may use it to send you a reply. We don't use it for any other purpose, we don't record it anywhere, and we don't retain it. If we send you a reply, we delete that promptly too, so there is no record of your email address anywhere on our web server or email server. When we store your feedback, we delete your name, email address, IP address, and host name; only your comments and suggestions are stored.
 
 When you email us or submit feedback, we may use Google's reCAPTCHA technology to help check your input and prevent automated spam replies. This use of reCAPTCHA is subject to the [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/) and [Terms of Use](https://www.google.com/intl/en/policies/terms/).
 
@@ -98,4 +93,4 @@ Our pop-up cookie-consent warning script was supplied by [Silktide](https://silk
 
 ## Let us know
 
-We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20190515123056id_/https%3A//www.explainthatstuff.com/cform.php) form.
+We hope this answers any concerns you may have about privacy and reassures you that we take the issue seriously. If you have any further queries, please don't hesitate to contact us using our [email](https://web.archive.org/web/20191126032429id_/https%3A//www.explainthatstuff.com/cform.php) form.
