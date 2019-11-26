@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412165130id_/https%3A//www.hsbc.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126151350id_/https%3A//www.hsbc.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | HSBC Holdings plc
 
 ## Your privacy
 
-Your privacy is important to us. This notice (privacy notice) applies to personal information we collect from you when you use this site. If you’re an HSBC customer, or otherwise have a relationship with us, we may also have provided you with a separate privacy notice setting out how we use your personal information, which will also apply. You can also find that privacy notice by visiting the website for the product or services we provide you (for example, [www.hsbc.co.uk (opens in new window)](http://www.hsbc.co.uk/) in the UK or [www.hsbc.com.hk (opens in new window)](http://www.hsbc.com.hk/) in Hong Kong) or by contacting your customer service team.
+Your privacy is important to us. This notice (privacy notice) applies to personal information we collect from you when you use this site. If you’re an HSBC customer, or otherwise have a relationship with us, we may also have provided you with a separate privacy notice setting out how we use your personal information, which will also apply. You can also find that privacy notice by visiting the website for the product or services we provide you (for example, [www.hsbc.co.uk](http://www.hsbc.co.uk/) in the UK or [www.hsbc.com.hk](http://www.hsbc.com.hk/) in Hong Kong) or by contacting your customer service team.
 
 Some of the links on this website may lead to HSBC or non-HSBC websites with their own privacy notices, which may be different to this notice, and you should read those notices carefully.
 
@@ -97,7 +97,7 @@ You have a number of rights in relation to the information that we hold about yo
 
 
 
-You can exercise your rights by contacting us using the details set out in the ‘More details about your information’ section below. You also have a right to complain to the UK Information Commissioner’s Office by visiting [www.ico.org.uk (opens in new window)](http://www.ico.org.uk/) or to the data protection regulator in the country where you live or work.
+You can exercise your rights by contacting us using the details set out in the ‘More details about your information’ section below. You also have a right to complain to the UK Information Commissioner’s Office by visiting [www.ico.org.uk](http://www.ico.org.uk/) or to the data protection regulator in the country where you live or work.
 
 ## How we keep your information secure
 
