@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625194323id_/https%3A//www.mrskin.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrskin.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126045047id_/https%3A//www.mrskin.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mr. Skin
 
@@ -29,7 +29,7 @@ To view our previous Privacy Policy, [click here](https://web.archive.org/help/p
 
 1\. Introduction
 
-Please read the following policy to understand how your personal information will be treated as you make full use of our Website. When we talk about our Website or our Service, we are referring to this website, any corresponding mobile application and any services provided by us through such website and/or application. When we talk about "we", ''our'' or ''us'' in this policy, we are referring to SK Intertainment, Inc./SK Europe BV, the company that provides the Website and Service. If you have any questions, concerns or complaints related to this Privacy Policy or our processing of your personal information, please email us here: [privacy@skintertainment.com](mailto:privacy@skintertainment.com). This email address is monitored on a regular basis and we aim to respond to your query as soon as possible.
+Please read the following policy to understand how your personal information will be treated as you make full use of our Website. When we talk about our Website or our Service, we are referring to this website, any corresponding mobile application and any services provided by us through such website and/or application. When we talk about "we", ''our'' or ''us'' in this policy, we are referring to SK Intertainment, Inc., the company that provides the Website and Service. If you have any questions, concerns or complaints related to this Privacy Policy or our processing of your personal information, please email us here: [privacy@skintertainment.com](mailto:privacy@skintertainment.com). This email address is monitored on a regular basis and we aim to respond to your query as soon as possible.
 
 The Privacy Policy has three main purposes:
 
@@ -183,7 +183,7 @@ In the event we go through a business transition, such as a merger, acquisition 
 
 12\. California user consumer rights
 
-In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. California Civil Code Section 1798.83 also permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we disclosed their personal data (if any) for direct marketing purposes in the preceding calendar year and the categories of data disclosed to those third parties. To make any sort of access request, please write to the following address: SK Intertainment, Inc./SK Europe BV, Privacy Rights, 1625 North Damen Avenue, 2nd Floor, Chicago, IL, 60647.
+In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov. California Civil Code Section 1798.83 also permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we disclosed their personal data (if any) for direct marketing purposes in the preceding calendar year and the categories of data disclosed to those third parties. To make any sort of access request, please write to the following address: SK Intertainment, Inc., Privacy Rights, 1440 W. Taylor Street, #369, Chicago IL 60607.
 
 13\. Users located outside of the United States
 
@@ -233,4 +233,4 @@ Please note that if you opt out of receiving notices from us, change notices wil
 
 18\. Who we are
 
-For the purposes of the GDPR, SK Intertainment, Inc./SK Europe BV, an corporation with its principal offices located 1625 North Damen Avenue, 2nd Floor, Chicago, IL, 60647 is the Data Controller and is responsible for your personal data. This means that we determine the purposes and ways of the processing of your personal data
+For the purposes of the GDPR, SK Intertainment, Inc., an corporation with its principal offices located 1440 W. Taylor Street, #369, Chicago IL 60607 is the Data Controller and is responsible for your personal data. This means that we determine the purposes and ways of the processing of your personal data
