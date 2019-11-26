@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessday.ng privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613062342id_/https%3A//businessday.ng/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessday.ng privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126143441id_/https%3A//businessday.ng/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Businessday NG
 
