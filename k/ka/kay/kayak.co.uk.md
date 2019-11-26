@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kayak.co.uk privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513071822id_/https%3A//www.kayak.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kayak.co.uk privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126125152id_/https%3A//www.kayak.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - KAYAK
 
@@ -225,7 +225,7 @@ When you use or visit the Services, we collect information about your usage and 
 
 **Cookies and Interest-Based Advertising.** To exercise choices regarding cookies set through our websites or Services, as well as other types of online tracking and online advertising, see our Cookies and Interest-Based Advertising Policy for more details. We currently do not employ technology that recognizes “do-not-track” signals from your browser.
 
-**Application Location.** As explained in more detail in the Information We Collect and Use section above, we collect information about your location if you enable location services through the settings in your mobile device, or with your consent, as may be required by law. You can change the privacy settings of your device at any time to turn off the sharing of this location information with our Services. If you choose to turn off location services, this could affect certain features of our Services. If you have specific questions about the privacy settings of your device, we suggest you contact the manufacturer of your device or your mobile service provider for help.
+**Location information.** If you use our Services, we automatically collect approximate location information about you (such as your city) or, with your consent, precise geographic location data from your mobile device when the app is running and when it is not running, depending on the choices you make when you are asked to consent to our collection of location information. The technologies we use to determine your location may include IP address mapping, cell tower position, Wi-Fi position and GPS signals. We may use and store this information to provide and improve features of our Services, for example, to tailor our Services on a needs-based manner to better facilitate your requests (such as helping you find the hotel closest to you) and to provide you with more relevant content in the cities you visit (such as sending you marketing communications relating to goods or services in your current city, including local accommodations and travel options). KAYAK does not have control over your device settings, but we do recommend enabling location services on your device so you can take advantage of the location-based features and functionality offered. Please see the Your Rights and Choices section below for more information about how to adjust your preferences, including those related to location information.
 
 **Sharing with third parties.** As described above in the How We Share Your Information section, we share your information with third parties for their own purposes or work with those partners to support their own marketing purposes. You can opt out of sharing your information with:
 
@@ -244,7 +244,7 @@ You can opt out of such sharing by changing your [KAYAK account preferences](htt
 
 If you wish to exercise the legal rights you may have under applicable law, please submit your request by using our [feedback](https://web.archive.org/k/feedback/form) form. So that we can better process your request, please provide the email you use to log into your KAYAK account. If you do not have a KAYAK account, please provide the email you used to make requests or to use our Services.
 
-Where applicable, you may also have the right to register a complaint to your local data protection authority. For residents of the EU and UK, contact information for the EU data protection authorities can be found at [ here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). For residents of Australia, if you are not satisfied with the outcome of your complaint after first contacting us, you may wish to contact the Office of the Australian Information Commissioner; for more information, please refer to [ here](http://www.oaic.gov.au/).
+Where applicable, you may also have the right to register a complaint to your local data protection authority. For residents of the EU and UK, contact the [EU data protection authorities](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm). For residents of Australia, if you are not satisfied with the outcome of your complaint after first contacting us, you may wish to contact the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
 
 ###  INTERNATIONAL TRANSFERS OF INFORMATION 
 
@@ -324,7 +324,7 @@ To personalize your experience of our Sites, for example, by showing you offers 
 
 Where required by law, functional cookies will only be used on the Sites where you have given your consent to their use.
 
-You can opt out of our use of Google Analytics by downloading the browser add-on [here](https://tools.google.com/dlpage/gaoptout).  
+[You can opt out of our use of Google Analytics by downloading the browser add-on](https://tools.google.com/dlpage/gaoptout).  
   
 Advertising (e.g., Google DoubleClick, Google Ads, Oath, Bing Ads)  | 
 
@@ -340,7 +340,7 @@ Where required by law, advertising cookies will be used only on the Sites where 
 
 See the section entitled “Your Cookie Choices” below to learn more about how to withdraw your consent to advertising cookies.
 
-You can opt out of our use of Google Analytics by downloading the browser add-on [here](https://tools.google.com/dlpage/gaoptout).  
+[You can opt out of our use of Google Analytics by downloading the browser add-on](https://tools.google.com/dlpage/gaoptout).  
   
 ###  Our Advertising Cookies 
 
