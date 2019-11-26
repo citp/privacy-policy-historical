@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tubitv.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530173221id_/https%3A//tubitv.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubitv.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126165342id_/https%3A//tubitv.com/static/privacy) for the most accurate reproduction.*
 
 # Watch Free TV & Movies Online | Stream Full Length Videos | Tubi
 
-Last Updated: June 5th, 2018
+Last Updated: October 1st, 2019
 
 Tubi, Inc. ("Tubi TV," "Tubi," "we," or "us") provides an online video streaming service offering a selection of television shows, movies, clips, and other content. This Privacy Policy is incorporated by reference in to the Tubi TV Term of Use (the “Terms”) and explains our practices regarding the collection, use and disclosure of information that we receive through the Tubi Services.
 
@@ -131,9 +131,11 @@ We use reasonable physical, technical, and administrative measures to safeguard 
 
 Despite these efforts, please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Tubi Services but we cannot ensure or warrant the security of any information you transmit to us. Please refer to the U.S. Federal Trade Commission's website for information on how to protect yourself from identity theft.
 
-### Does Tubi collect information from children under the age of 13?
+### Tubi and Children; Kids Mode
 
-The Tubi Services are not directed to children under 13. Tubi prohibits registration or subscription by, and will not knowingly collect personally identifiable information from, anyone under 13 years of age. If we learn that we have collected personally identifiable information of a child under 13, we will take steps to delete such information from our files as soon as possible.
+The Tubi Services are not directed to nor intended for children under the age of 13. Tubi does not permit the registration of, nor does Tubi knowingly collect, use, or disclose personal information from anyone under 13 years of age. If we determine upon collection that a user is under this age, we will not use or maintain that personal information without parental or guardian consent. If we are notified that we have collected personal information from a child under the age of 13, we will make reasonable efforts to delete such information from our records.
+
+The Tubi Services offers features that enable parents and families to have more control over the display of family-friendly content based on the MPAA and television content ratings systems ("Kids Mode"). During a Kids Mode session, the Tubi Services collects and uses a device identifier, IP address, and viewing history so that we may maintain and analyze the functioning of the Tubi Services, personalize the content displayed, serve and frequency cap contextual advertising, and to comply with our content licenses. If a user of the Tubi Services desires to delete data collected during a Kids Mode session, please [contact our Support team](https://tubitv.com/static/support) for assistance.
 
 ### Do any special considerations apply to visitors from outside the United States?
 
