@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnewsonline.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617034234id_/https%3A//www.sunnewsonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnewsonline.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126195844id_/https%3A//www.sunnewsonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – The Sun Nigeria
 
