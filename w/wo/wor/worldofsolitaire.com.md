@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofsolitaire.com privacy policy that was archived on 2019-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190311153230id_/https%3A//worldofsolitaire.com/privacy-and-cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofsolitaire.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126165259id_/http%3A//worldofsolitaire.com/privacy-and-cookie-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
