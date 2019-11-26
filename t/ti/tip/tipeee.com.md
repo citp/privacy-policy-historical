@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipeee.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404182235id_/https%3A//en.tipeee.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipeee.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126111350id_/https%3A//en.tipeee.com/privacy) for the most accurate reproduction.*
 
 # Tipeee - Privacy Policy
 
@@ -20,7 +20,7 @@ This "Privacy Policy" describes the terms and conditions under which TIPEEE coll
 
 \- We may be led to update this Privacy Policy. Any relevant update shall be previously made known to you and, when it is necessary, it shall be subject to collection of your prior consent.
 
-\- Our data protection officer can be contacted at [dpo@tipeee.com](mailto:dpo@tipeee.com) or through the postal system: TIPEEE SAS, Protection des données, 20 rue du Sentier, 75002 Paris, FRANCE.
+\- Our data protection officer can be contacted at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5b1a5ba95a1bca5b0b0b0fbb6bab8) or through the postal system: TIPEEE SAS, Protection des données, 20 rue du Sentier, 75002 Paris, FRANCE.
 
 ### What personal data do we collect and process?
 
@@ -156,7 +156,7 @@ Under the terms and conditions set out in the articles 15 and following of the G
 
 You are also entitled to appoint a third party to whom your data may be transferred in the event of death. Therefore, you undertake to inform this third party of your procedure and the fact that identifying data shall be ambiguously provided to us, and to communicate this Privacy Policy to the third party.
 
-Subject to the proof of your identity and the aforementioned elements, you can exercise your rights by writing to us either at [dpo@tipeee.com](mailto:dpo@tipeee.com) or at the following postal address: TIPEEE SAS, 20 rue du Sentier, 75002 Paris, FRANCE.
+Subject to the proof of your identity and the aforementioned elements, you can exercise your rights by writing to us either at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4d293d220d39243d282828632e2220) or at the following postal address: TIPEEE SAS, 20 rue du Sentier, 75002 Paris, FRANCE.
 
 ### How long do we retain your data?
 
@@ -199,4 +199,4 @@ Copy of the identity proof submitted within the exercise of your rights | 1 year
   
 ### Who is the person that you can contact to answer your questions about your data?
 
-We appointed a Data Protection Officer. He is your contact person for any question regarding the data processing by Tipeee. He can be contacted at [dpo@tipeee.com](mailto:dpo@tipeee.com) or at the following postal address: TIPEEE SAS, Protection des données, 20 rue du Sentier, Paris, FRANCE.
+We appointed a Data Protection Officer. He is your contact person for any question regarding the data processing by Tipeee. He can be contacted at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4b2f3b240b3f223b2e2e2e65282426) or at the following postal address: TIPEEE SAS, Protection des données, 20 rue du Sentier, Paris, FRANCE.
