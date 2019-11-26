@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicnpc.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621152112id_/https%3A//www.epicnpc.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicnpc.com privacy policy that was archived on 2019-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191126105952id_/https%3A//www.epicnpc.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | EpicNPC Marketplace
 
@@ -7,7 +7,7 @@
 Register a free account today to become a member! Then start trading, buying or selling with other members using our secure Trade Guardian middleman system.
 
   * [Log in](https://web.archive.org/login/)
-  * [Register](https://web.archive.org/register/)
+  * [Join](https://web.archive.org/join/)
 
 
 
@@ -64,9 +64,9 @@ We have a detailed cookie policy and more information about the cookies that we 
 
 ## Rights
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/misc/contact/) to ask us to complete or correct that information.
+If you live in the EU you have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/misc/contact/). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/misc/contact/) to ask us to complete or correct that information.
 
-You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/misc/contact/) if you would like us to remove your personal data.
+You also have the right to request the erasure of your personal data if you live in the EU. Please [contact us](https://web.archive.org/misc/contact/) if you would like us to remove your personal data.
 
 EpicNPC reserves the right to keep any information and data by it's members on it's website and can deny deletion requests for legal obligations and in the interest to protect the public interested (our community).
 
@@ -79,10 +79,6 @@ Continued use of our site signifies your acceptance of this policy. If you do no
 ## Changes to this policy
 
 We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
-
-  * [ Help ](https://web.archive.org/help/)
-
-
 
   * This site uses cookies to help personalise content, tailor your experience and to keep you logged in if you register.  
 By continuing to use this site, you are consenting to our use of cookies. 
