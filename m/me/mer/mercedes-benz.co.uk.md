@@ -1,87 +1,83 @@
-> *The following text is extracted and transformed from the mercedes-benz.co.uk privacy policy that was archived on 2017-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171218073858id_/https%3A//www.mercedes-benz.co.uk/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy.popup.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercedes-benz.co.uk privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127165445id_/https%3A//www.mercedes-benz.co.uk/passengercars/content-pool/tool-pages/footer-legal-links/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-**Data protection**
+**17\. FINANCE AND LEASING BY MERCEDES-BENZ FINANCIAL SERVICES UK LTD (MBFS)**
 
-Daimler appreciates your interest in its products and your visit to this website. Your privacy is important to us and we want you to feel comfortable visiting our site. The protection of your privacy in the processing of your personal data is an important concern to which we pay special attention in our business processes. Personal data collected during visits to our websites are processed by us according to the legal provisions valid for the countries in which the websites are maintained. Our data protection policy is also based on the data protection policy applicable to Daimler. 
+**Mercedes-Benz Financial Services UK Limited Privacy Notice**
 
-Daimler websites may include links to other websites which are not covered by this privacy statement.
+Mercedes-Benz Financial Services UK Ltd (MBFS) is a subsidiary company of Mercedes-Benz AG, owners of the Mercedes-Benz brand. MBFS works with other subsidiary companies which includes our Retailer partners and Dealer Network in the UK to provide finance, leasing and related services to Mercedes-Benz and smart customers.  
 
-[Daimler Data Protection Policy](http://www.daimler.com/documents/company/other/daimler-dataprotectionpolicy-en.pdf)
 
-**Collection and processing of personal data**
+**How your Personal Information is used**
 
-When you visit our website, our web servers store as standard details of your browser and operating system, the website from which you visit our website, the pages that you visit on our website, the date of your visit, and, for security reasons, e.g. to identify attacks on our website, the IP address assigned to you by your internet service provider; this IP address is stored for seven days. With the exception of the IP address, personal data is only stored if you choose to submit it to us, e.g. during registration, in a survey, in a competition or in order to enable performance of an agreement.
+MBFS takes your privacy seriously. Unless you have agreed otherwise, your personal information will only be used to provide the financial services you have requested from us and to administer your agreement.
 
-**Use and Disclosure of Personal Data and Purpose Specification**
+Your details will be shared with third parties who include our agents, credit reference and fraud agencies, group companies and the Mercedes-Benz Retailer / Dealer supplying the vehicle.
 
-Daimler uses your personal data only to the extent necessary for the purpose of technical administration of the website, for customer management, for product surveys, and for marketing. 
+Details may be transferred out of the European Economic Area and will at all times be held securely and handled with the utmost care. Your details will be stored, but will not be retained longer than necessary. Your personal data is protected by legal rights which are detailed later in this document.
 
-Personal data is transferred to state organisations and authorities only within the scope of mandatory national provisions of law. We have placed our employees, agencies and dealers under a duty of confidentiality.
+MBFS may disclose the data provided by or about you to a third party in connection with our corporate finance purposes, which may include granting such third parties the right to receive amounts you owe us.
 
-**Choice**
+**Your Application for Credit**
 
-We would like to use your data to inform you about our products and services and, if applicable, to ask you about them. Of course, participation in such activities is voluntary. If you do not wish to take part, you can notify us at any time so that we can exclude your data accordingly. You can find further information on the relevant page of the website.
+In order to process your application, we will perform credit and identity checks with one or more Credit Reference Agencies (CRAs). We may also make periodic searches at CRAs to manage your agreement with us.
 
-**Newsletters**
+We will supply your personal information to CRAs and they will provide us with information about you. CRAs will supply public (such as the electoral register) and shared credit information. This will include information relating to both your financial situation and history in addition to information used for the purposes of fraud prevention.
 
-Our website can be used to subscribe to newsletters. The data provided during the newsletter registration will be used only for the purposes of sending out the newsletter, provided you have not consented to other use. You can cancel the subscription at any time by using the unsubscribe option provided in the newsletter.
+We will use this information to:
 
-**Central Daimler access service**
+  * Assess your creditworthiness and determine whether you can afford to take the vehicle
+  * Verify the accuracy of the data you have provided to us
+  * Prevent criminal activity, fraud and money laundering
+  * Manage your account(s)
+  * Trace and recover debts
+  * Ensure any offers provided to you are appropriate to your circumstances.
 
-The central Daimler access service enables you to create a single user account to log in to all websites and applications of the Daimler group and its brands that are offered through this service. Click on the following link to read the terms and conditions of use for the central Daimler AG access service:
 
-[Terms and Conditions of Use for Central Daimler AG access service](https://login.secure.mercedes-benz.com/profile/terms?owda=misc&app-id=VHDEMO)
 
-**Social Plugins**
+We will continue to exchange information about you with CRAs while you have a relationship with us. We will also inform the CRAs about your settled accounts. If you borrow and do not repay in full and on time, CRAs will record the outstanding debt. This information may be supplied to other organisations by CRAs.
 
-Daimler uses so-called social plugins ('buttons') of social networks such as Facebook, Google+ and Twitter.
+When CRAs receive a search from us, they will place a search footprint on your credit file that may be seen by other lenders.
 
-When you visit our websites, these buttons are deactivated by default, i.e. without your intervention they will not send any data to the respective social networks. Before you are able to use these buttons, you must activate them by clicking on them. They then remain active until you deactivate them again or delete your cookies (please refer to 'Cookies').
+If you are making a joint application, or inform us that you have a spouse, partner or financial associate, we will link your records together. Please ensure you discuss this with the relevant parties, and share this information with them, before lodging the credit application. CRAs will also link your records together and these links will remain on your and their files until such time as you or any other individual involved in a joint application successfully files for a disassociation with the CRAs.
 
-[Cookies](https://www.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/cookies.ngrb.html?owda=misc)
+If you are making this application as a partner in a firm or as the director of a limited company, MBFS may also carry out searches with credit reference and/or fraud prevention agencies in respect of other partners and directors. By making this application you warrant that your partners or directors understand that MBFS will be carrying out such searches and using their personal information.
 
-After their activation, a direct link to the server of the respective social network is established. The contents of the button are then transmitted from the social network directly to your browser and incorporated in the website.
+The identities of the CRAs, their role also as fraud prevention agencies, the data they hold, the ways in which they use and share personal information, data retention periods and your data protection rights with the CRAs are explained in more detail in the Credit Reference Agency Information Notices (CRAIN). CRAIN is accessible from each of the three CRAs listed below:
 
-After activation of a button, the social network can retrieve data, independently of whether you interact with the button or not. If you are logged on to a social network, the network can assign your visit to the website to your user account. A social network cannot assign a visit to other Daimler websites unless and until you activate the respective button there as well. 
+**Call Credit**  
+_[www.callcredit.co.uk/crain](http://www.callcredit.co.uk/crain)_
 
-If you are a member of a social network and do not wish it to combine data retrieved from your visit to our websites with your membership data, you must log out from the social network concerned before activating the buttons.
+**Equifax**  
+_[www.equifax.co.uk/crain](http://www.equifax.co.uk/crain)_
 
-We have no influence on the scope of data that is collected by the social networks through their buttons. The data use policies of the social networks provide information on the purpose and extent of the data that they collect, how this data is processed and used, the rights available to you and the settings that you can use to protect your privacy.
+**Experian**  
+_[www.experian.co.uk/crain](http://www.experian.co.uk/crain)_
 
-**Cookies**
+The personal information we have collected from you will also be shared with fraud prevention agencies. It will be used to prevent fraud and money-laundering and to verify your identity. These checks require us to process your personal data. If fraud is detected, you could be refused certain services, finance or employment.
 
-Information on the cookies that we use and their features can be found in 'Cookies'.
+The personal data provided will be used to prevent fraud and money laundering, and to verify your identity. This includes but is not limited to your name, address, date of birth, contact details, financial information, employment details, device identifiers including IP address and vehicle details. We, and fraud prevention agencies may also enable law enforcement agencies to access and use your personal data to detect, investigate and prevent crime.
 
-[Cookies](https://www.mercedes-benz.co.uk/content/unitedkingdom/mpc/mpc_unitedkingdom_website/en/home_mpc/cookies.ngrb.html?owda=misc)
+We process your personal data because we have a legitimate interest in preventing fraud and money laundering, and to verify your identity to protect our business, and to comply with the law. Such processing is also a contractual requirement of our provision of financial services.
 
-**Analysis of usage data**
+Fraud prevention agencies can hold your personal data for different periods of time, and if you are considered to pose a fraud or money laundering risk, your data can be held for up to six years.
 
-We use Adobe products to track the preferences of visitors and to identify popular sections of our websites. In this way, we can adapt the content of our website more specifically to your needs and thereby improve what we offer you. 
+**Automated Decisions**
 
-If you do not wish Daimler to collect and analyse statistical data related to your visit you may object to the future use of your date at any time (opt-out).
+As part of the processing of your personal data, decisions may be made by automated means. This means we may automatically decide that you pose a fraud or money laundering risk if our processing reveals your behaviour to be consistent with that of known fraudsters or money launderers, or is inconsistent with your previous submissions, or you appear to have deliberately hidden your true identity.  
 
-For the technical implementation of your objection it is necessary to install an opt-out cookie on your browser. This cookie will only indicate that you have opted out. Please note that for technical reasons the opt-out cookie will only affect the browser you object from. If you delete the cookies in your browser or use a different end device or browser, you will need to opt out again.
 
-[Click here to install the opt-out cookie](http://www.d1.sc.omtrdc.net/optout.html?omniture=1&popup=1&locale=en_US&second=1&second_has_cookie=0)
+**Consequences of Processing**
 
-**Security**
+If we, or a fraud prevention agency, determine that you pose a fraud or money laundering risk, we may refuse to provide the financial services you have requested, or we may cease to provide existing services to you.
 
-Daimler uses technical and organisational security measures to protect the data supplied by you and managed by us against manipulation, loss, destruction, and access by third parties. Our security measures are continually improved in line with technological developments.
+A record of any fraud or money laundering risk will be retained by fraud prevention agencies, and may result in others refusing to provide services, finance or employment to you. If you have any questions about this, please contact us on the details below.
 
-**Freedom of Information**
+**Transfer of Data**
 
-On request, Daimler or the entity responsible for you will inform you in writing as soon as possible and in accordance with applicable law whether and what personal data relating to you has been stored by us. If you are registered as a user, we also enable you to view the data yourself and, if applicable, to delete or amend it. If incorrect information is stored despite our efforts to ensure that data is accurate and up to date, we will correct it at your request. 
+Whenever fraud prevention agencies transfer your personal data outside of the European Economic Area, they impose contractual obligations on the recipients of that data. This protects your personal data to the standard required in the European Economic Area. They may also require the recipient to subscribe to 'international frameworks' intended to enable secure data sharing.
 
-If you have any questions about the processing of your personal data, you can contact our Group Data Protection Officer, who, along with his team, is available should you have any requests for information, suggestions or complaints.
+**Your Legal Rights**
 
-Group Data Protection Officer
-
-Dr. Joachim Riess  
-Daimler AG  
-HPC 0518  
-70546 Stuttgart, Germany  
-Germany
-
-[Home](https://united-kingdom.prodtmp.publish.oneweb.mercedes-benz.cinteo.de/passengercars.html?owda=misc)
+Your personal data is protected by legal rights which include your rights to object to us processing your personal data, and to request that your personal data is erased or corrected. You may request access to your personal data. To exercise your data protection rights, please contact us using the contact details below. You also have a right to complain to the Information Commissioner's Office which regulates the processing of personal data.Further information is available on the Mercedes-Benz UK website in the Daimler Group (UK) Privacy Policy. You may also contact the Data Protection Officer, Mercedes-Benz Financial Services UK Ltd, Tongwell, Milton Keynes MK15 8BA. Tel: to 0808 208 1701 or email _[mymercedesbenzdata@daimler.com](mailto:mymercedesbenzdata@daimler.com)_
