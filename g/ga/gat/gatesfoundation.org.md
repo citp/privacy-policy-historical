@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401083043id_/https%3A//www.gatesfoundation.org/Privacy-and-Cookies-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127073037id_/https%3A//www.gatesfoundation.org/Privacy-and-Cookies-Notice) for the most accurate reproduction.*
 
 # Privacy & Cookies Notice - Bill & Melinda Gates Foundation
 
