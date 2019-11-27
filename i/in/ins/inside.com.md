@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inside.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518213321id_/https%3A//inside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inside.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127204447id_/https%3A//inside.com/privacy-policy) for the most accurate reproduction.*
 
 # Inside | Real news, curated by real humans
 
