@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmt.edu privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614223439id_/http%3A//nmt.edu/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmt.edu privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127195052id_/http%3A//www.nmt.edu/privacy/index.php) for the most accurate reproduction.*
 
 # NMT Privacy Policy: New Mexico Tech
 
