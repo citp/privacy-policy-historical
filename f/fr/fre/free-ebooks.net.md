@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331145926id_/https%3A//www.free-ebooks.net/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127115238id_/http%3A//www.free-ebooks.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,7 +86,7 @@ This Privacy Notice may be revised periodically and this will be reflected by th
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
 **Date Last Modified:**  
-This Privacy Notice was last modified December 10, 2018.
+This Privacy Notice was last modified May 3, 2019.
 
 **Contact Information:**  
 Please contact the Company with any questions or comments about this Privacy Notice using this [contact form](https://www.stirling-corp.com/contact).
