@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the logojoy.com privacy policy that was archived on 2018-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180225001332id_/https%3A//logojoy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logojoy.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127182819id_/https%3A//looka.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Logojoy
+# Privacy - Looka
 
-This privacy statement describes how Logojoy (“we”, “us”) collects and uses the Personal Information you willingly provide on our Web site: Logojoy.com. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. Personal Information is information about you, that is not otherwise available to the public, that you willingly provide to Logojoy in order to use or pay for our services.
+This privacy statement describes how Looka (“we”, “us”) collects and uses the Personal Information you willingly provide on our Web site: Looka.com. It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. Personal Information is information about you, that is not otherwise available to the public, that you willingly provide to Looka in order to use or pay for our services.
 
-If you have questions or concerns regarding this policy, you should first contact us at info@Logojoy.com.
+If you have questions or concerns regarding this policy, you should first contact us at support@looka.com.
 
  **Collection and Use of Personal Information**
 
@@ -29,7 +29,7 @@ As is true of most Web sites, we automatically gather information about your com
 
  **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at info@Logojoy.com.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at support@looka.com.
 
  **Information Sharing**
 
@@ -39,9 +39,9 @@ We may provide your Personal Information to companies that provide services to h
 
 We may also disclose your Personal Information as required by law such as to comply with a subpoena or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
-If Logojoy is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information, to any other third party with your prior consent to do so.
+If Looka is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information, to any other third party with your prior consent to do so.
 
-To protect against fraud and misuse of our Website and Services, we actively analyze purchases, attempted purchases and use of the Website and Services to help us identify and block individuals suspected of misuse and/or fraudulent activity. We may use that information, in conjunction with our security partners and/or law enforcement to protect Logojoy’s business and systems, your Personal Information and assist those we reasonably believe may have been victimized by such fraudulent use of the Website and Services. We may share data (including, but not limited to, suspect payment information, email addresses, IP addresses, etc.) with our payment processors, and law enforcement, in an effort to reduce fraud. You consent to the provision of this information (including keyword search data) for such investigative purposes.
+To protect against fraud and misuse of our Website and Services, we actively analyze purchases, attempted purchases and use of the Website and Services to help us identify and block individuals suspected of misuse and/or fraudulent activity. We may use that information, in conjunction with our security partners and/or law enforcement to protect Looka’s business and systems, your Personal Information and assist those we reasonably believe may have been victimized by such fraudulent use of the Website and Services. We may share data (including, but not limited to, suspect payment information, email addresses, IP addresses, etc.) with our payment processors, and law enforcement, in an effort to reduce fraud. You consent to the provision of this information (including keyword search data) for such investigative purposes.
 
  **Third Party E-Commerce Solutions Provider**
 
@@ -53,17 +53,17 @@ We may use cookies, for example, to keep track of your preferences and profile i
 
  **Links to Other Web Sites**
 
-Our Site may include links to other Web sites whose privacy practices may differ from those of Logojoy. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policies of any Web site you visit.
+Our Site may include links to other Web sites whose privacy practices may differ from those of Looka. If you submit Personal Information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policies of any Web site you visit.
 
  **Security**
 
-When we collect Personal Information directly from you, we follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at info@Logojoy.com
+When we collect Personal Information directly from you, we follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at support@looka.com
 
 In order to make a purchase from us, you must use our third party credit processing vendor to finalize and pay for your order. Its privacy statement and security practices will also apply to your personal Information. We encourage you to read that privacy statement before providing your information.
 
  **Additional Policy Information**
 
-To review, correct and update your personal information to ensure it is accurate, contact us at info@Logojoy.com.
+To review, correct and update your personal information to ensure it is accurate, contact us at support@looka.com.
 
  **Notification of Privacy Statement Changes**
 
@@ -73,7 +73,8 @@ We may update this privacy statement to reflect changes to our privacy practices
 
 You can contact us about this privacy policy by writing or emailing us at:
 
-Logojoy  
-80 John Street #3004  
-Toronto, ON M5V 3X4  
-Email: info@Logojoy.com
+Looka  
+#400-116 Spadina Ave.  
+Toronto, ON  
+M5V 2K6  
+Email: support@looka.com
