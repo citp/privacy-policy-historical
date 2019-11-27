@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ethnicelebs.com privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609161108id_/http%3A//ethnicelebs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethnicelebs.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127212827id_/https%3A//ethnicelebs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Ethnicity of Celebs | What Nationality Ancestry Race
 
@@ -78,7 +78,7 @@ A cookie is a small textual file, stored by the visitor’s browser on behalf of
 
 **Google Analytics (GA)**  
 We use GA to track interaction, like number of visits, pages viewed, to help understand how the site engages with visitors, and to help maintain and improve the experience. GA is also used in order to show visitors an accurate portrayal of the most popular celebrities on the site.  
-Although GA records data such as an approximate geographical location, device, browser and operating system, none of this information personally identifies you to us. We set a flag – “[anonymizeIp](https://support.google.com/analytics/answer/2763052?hl=en&ref_topic=2919631)” – which requests GA to anonymize all IP addresses. [More Information](http://www.google.co.uk/intl/en/analytics/privacyoverview.html). To opt-out of Google Analytics tracking, visit: <https://tools.google.com/dlpage/gaoptout> to get an add-on, that opts you out.
+Although GA records data such as an approximate geographical location, device, browser and operating system, none of this information personally identifies you to us. We set a flag – “[anonymizeIp](https://support.google.com/analytics/answer/2763052?hl=en&ref_topic=2919631)” – which requests GA to anonymize all IP addresses. [More Information](https://www.google.co.uk/intl/en/analytics/privacyoverview.html). To opt-out of Google Analytics tracking, visit: <https://tools.google.com/dlpage/gaoptout> to get an add-on, that opts you out.
 
 We also use Google Custom Search to help visitors find content on the site. It uses cookies to display ads.
 
@@ -93,13 +93,13 @@ Google lets you manage preferences and whether to receive google ads on the web 
 
 Users may in some cases be able to review and edit the personal information they have provided to us by logging into your account on the Site and editing their account.  Although most changes may occur immediately, information may still be stored in a web browser’s cache.  We take no responsibility for stored information in your cache, or in other devices that may store information, and disclaim all liability of such.  In addition, we may, from time to time, retain residual information about you in our backup and/or database.
 
-You may request a copy of your data stored in the WordPress database (comments etc.) by contacting the [website admin](http://ethnicelebs.com/contact-admin).
+You may request a copy of your data stored in the WordPress database (comments etc.) by contacting the [website admin](https://ethnicelebs.com/contact-admin).
 
 **6.   Cookies**
 
 We use cookies to remember your preferences and track advertisements.  For these reasons, it is necessary that you enable cookies in your browser, and you hereby acknowledge that we have informed you of our use of cookies and that you consent to our use of cookies in relation to your computer system.
 
-We also use Google AdSense on our Site, which uses the DoubleClick cookie.  For information on how to disable the DoubleClick cookie, please visit <http://www.google.ca/policies/technologies/ads/>.
+We also use Google AdSense on our Site, which uses the DoubleClick cookie.  For information on how to disable the DoubleClick cookie, please visit [http://www.google.ca/policies/technologies/ads/](https://www.google.ca/policies/technologies/ads/).
 
 **7.   Third Party Websites**
 
