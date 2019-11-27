@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2019-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190220004701id_/https%3A//www.divx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divx.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127213002id_/https%3A//www.divx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DivX Video Software
 
@@ -10,20 +10,17 @@ This Privacy Policy, together with our Terms of Use located at <http://www.divx.
 
 **Users located in the European Economic Area (EEA) may have different or additional rights under this Privacy Policy; please find EEA specific informationhere **
 
-**1\. User Consent**
-
+1\. User Consent  
 By accepting the terms of this Privacy Policy, either by clicking a box indicating your acceptance or by accepting another document referring to this Privacy Policy, you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
 
-**2\. The data we collect and use**
-
+2\. The data we collect and use  
 “Personal Data” means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, IP address of your computer or Internet Service Provider (ISP), as well as any other nonpublic information about you that is associated with or linked to any of the foregoing data.
 
 “Anonymous Data” means data that is not associated with or linked to your Personal Information; Anonymous Data does not permit the identification of individual persons.
 
 We collect Personal Data and Anonymous Data, as described below.
 
-**(a) Information you provide to us**
-
+**(a) Information you provide to us**  
 We collect the following Personal Data that you provide to us voluntarily:
 
 (i) When you purchase our software products, our vendor collects all information necessary to complete the transaction, including your name, credit card information, billing information and shipping information.
@@ -36,19 +33,23 @@ Our online store and product downloads are managed by cleverbridge AG, located a
 
 Our Support Forums are managed by Zendesk, Inc., located at 1019 Market St., San Francisco, CA 94103. Zendesk, Inc.’s Privacy Policy can be found here: <https://www.zendesk.com/company/customers-partners/privacy-policy/>
 
-(iv) When contacting us via email, such as when providing feedback or in response to an employment opportunity, for product support, or for other information, we will collect your name and e-mail address, as well as any other content included in the e-mail, and any information that you submit to us, such as a resume.
+(iv) When you contact us via email, such as when providing feedback or in response to an employment opportunity, for product support, or for other information, we will collect your name and e-mail address, as well as any other content included in the e-mail, and any information that you submit to us, such as a resume.
 
-(v) When you participate in one of our surveys, we may collect additional profile information.
+(v) When you sign up for our email newsletter, we collect Personal Data from you, such as your email address.
+
+Our email newsletter is managed by The Rocket Science Group LLC d/b/a Mailchimp, located at 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308. The Rocket Science Group LLC’s Privacy Policy can be found here: <https://mailchimp.com/legal/privacy/>
+
+(vi) When you participate in one of our surveys, we may collect additional profile information.
 
 Our surveys are conducted through SurveyMonkey, Inc., located at 1 Curiosity Way, San Mateo, CA 94403. SurveyMonkey, Inc.’s Privacy Policy can be found here: <https://www.surveymonkey.com/mp/legal/privacy-policy>
 
-(vi) If you enter a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
+(vii) When you enter a sweepstake, contest, or similar promotion we may use the information you provide to administer those programs.
 
 **(b)  ** **Data we collect automatically**
 
 (i) Our email newsletter uses single-pixel or transparent image HTML-based emails, which allows us to track how many people open the emails we send out. This information is only collected if you subscribe to our email newsletter.
 
-Our email newsletter is managed by salesforce.com, Inc., located at The Landing @ One Market Street, Suite 300, San Francisco, CA 94105. Salesforce.com, Inc.’s Privacy Policy can be found here: <https://www.salesforce.com/company/privacy/>
+Our email newsletter is managed by The Rocket Science Group LLC d/b/a Mailchimp, located at 675 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308. The Rocket Science Group LLC’s Privacy Policy can be found here: <https://mailchimp.com/legal/privacy>[ ](https://mailchimp.com/legal/privacy)
 
 (ii) When you create an account and purchase protected DivX content using the DivX Player, the DivX Player application will track and log requests to view the protected content in order for us to enforce the usage rights set by the content owner. In order for your copy of the protected content to play using the DivX Player, a unique identifier will be inserted into your copy of the protected content.
 
@@ -143,34 +144,27 @@ We may disclose Personal Data if it believes in good faith that such disclosure 
 
 
 
-**(3) Where information is processed:**
-
+(3) Where information is processed:  
 The Company is based in the United States. Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
 
-**(4)  Keeping your personal information secure**
-
+(4) Keeping your personal information secure  
 The Company is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. We also require you to enter a password to access your account. Please do not disclose your account password to unauthorized people. Despite these measures, you should know that Company cannot fully eliminate security risks associated with Personal Data and mistakes may happen.
 
-**(5)**   **Integrity and Retention of your Personal Data**
-
+(5) Integrity and Retention of your Personal Data  
 We aim to make it easy for you to keep your Personal Data accurate, complete, and up to date. You can update your account information as needed through the account settings menu or by sending an e-mail to us at [divx-support@divx.com](mailto:divx-support@divx.com). We will retain your Personal Data for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
 
-**(6) Your choices regarding your Personal Data**
-
+(6) Your choices regarding your Personal Data  
 We offer you choices regarding the collection, use, and sharing of your Personal Data. We will periodically send you free newsletters and e-mails that directly promote the use of our Site or the purchase of our software products and may contain advertisements for third party companies. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly at [privacy@divx.com](mailto:privacy@divx.com). Should you decide to opt-out of receiving future mailings, we may share your e-mail address with third parties to ensure that you do not receive further communications from third parties. Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Use or Privacy Policy.
 
-**(7)  Changes to your Personal Data**
-
+(7) Changes to your Personal Data  
 You may change any of your Personal Data in your account by editing your profile within your account or by sending an e-mail to us at [divx-support@divx.com](mailto:divx-support@divx.com).  You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by applicable law.
 
-**(8)  Your California Privacy Rights**
-
+(8) Your California Privacy Rights  
 If you are a resident of the State of California, we provide you in this Privacy Policy with information on how to exercise your disclosure choice options such as your right to opt-out (or “unsubscribe”) of our use and sharing of your Personal Data for marketing purposes.
 
 If you wish to request information about how to exercise your third party disclosure choices, please send a request by email to our Privacy Administrator at [privacy@divx.com](mailto:privacy@divx.com)  or by postal mail to DivX, LLC, c/o Privacy Administrator, 4350 La Jolla Village Drive, Suite 950, San Diego, CA 92122. All requests must be labeled “Your California Privacy Rights” in the email subject line or envelope or post card. For all requests, please include your name, street address, city, state, zip code and e-mail address (your street address is optional if you wish to receive a response to your request via e-mail) and indicate your preference on how our response to your request should be sent (e-mail or postal mail). We are unable to accept requests via telephone or by facsimile. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
-**(9) Your EEA Privacy Rights**
-
+(9) Your EEA Privacy Rights  
 If you are a resident of the European Union, you have a number of important rights free of charge under the General Data Protection Regulation In summary, those include rights to:
 
   * Fair processing of information and transparency over how Company uses your personal information
@@ -190,30 +184,22 @@ For further information on each of those rights, including the circumstances in 
 
 If you would like to exercise any of these rights, please contact us using the information below (“Contact Us”).
 
-**(10) Contact us**
-
+(10) Contact us  
 We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at [privacy@divx.com](mailto:privacy@divx.com) or contact us at the following address:
 
-DivX, LLC
-
-Attn: Privacy Rights Administrator
-
-4350 La Jolla Village Drive
-
-Suite 950
-
+DivX, LLC  
+Attn: Privacy Rights Administrator  
+4350 La Jolla Village Drive  
+Suite 950  
 San Diego, CA  92122
 
-**(11)  Links to other websites**
-
+(11) Links to other websites  
 Our provision of a link to any other website or location, is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our Site and go to another site. During this process, another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
 
-**(12)  Privacy of minors**
-
+(12) Privacy of minors  
 We do not intentionally gather Personal Data about visitors under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Data such parent should contact us at [privacy@divx.com](mailto:privacy@divx.com). If we become aware that a child under 13 with Personal Data, we will take reasonable steps to delete such Personal Data from our files.
 
-**(13)  Changes to this Privacy Policy**
-
+(13) Changes to this Privacy Policy  
 This Privacy Policy is subject to occasional revision in accordance with the Terms of Use. We will notify you by means of a notice on this Site and/or via email prior to any changes becoming effective.
 
-This Privacy Policy was last revised on January 31, 2019.
+This Privacy Policy was last revised on February 4, 2019.
