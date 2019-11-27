@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2017-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171024023214id_/https%3A//www.icsc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icsc.org privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127055634id_/https%3A//www.icsc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ICSC: International Council of Shopping Centers
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used. All capitalized terms not defined in this Privacy Policy shall have the meanings assigned to them in the Terms and Conditions for use of the Web Site, located at <http://www.icsc.org/terms-and-conditions>.
-
 ### The Information We Collect
 
-The type of personally identifiable  information that ICSC collects includes:  name,  address, e-mail address, corporate affiliation or other biographical information, photograph, telephone number, fax number, credit card information, and may also include information about your interests in and use of various products, programs, and services.
+The type of personally identifiable information that ICSC collects includes:  name,  address, e-mail address, corporate affiliation or other biographical information, photograph, telephone number, fax number, credit card information, special accommodations (dietary, religious, health/disability) and other personal information provided to us by you when registering for an event or to be considered by us when providing our services, and may also include information about your interests in and use of various products, programs, and services.
 
 The Web Site also allows you to submit information about other people. For example, you might submit a person's mailing and e-mail address to enroll them in an ICSC event, or if you order publications online and want them sent directly to the recipient, you might submit the recipient's name and address. In addition, when ICSC members forward ICSC event invitations to third parties, we may collect certain personally identifiable information from those third parties, such as their email address.
 
-We also may collect certain non-personally identifiable information when you visit the Web Site, such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
+We also may collect certain non-personally identifiable information when you visit the Web Site, such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider
 
 ### How We Use the Information
 
@@ -23,7 +21,7 @@ ICSC may use the information you provide about yourself for the following purpos
   * If you choose to submit User Content for publication, we may publish your name and other information you have provided to us.
   * We sometimes use the non-personally identifiable information that we collect to improve the design and content of our products, programs and services and to enable us to provide a more tailored interface for individual Users.
   * We may disclose any User's personally identifiable information in response to a law enforcement agency's request or legal process, for example, in response to a court order or a subpoena.
-  * On occasion, ICSC may disclose non-financial personally identifiable information of Users who are U.S. residents to companies whose practices are not covered by this privacy notice (e.g., marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. Any User wishing to opt-out of the distribution of their personally identifiable information can email a request to the ICSC at web@icsc.org. Please include in the subject line: “PII Opt-Out.”
+  * On occasion, ICSC may disclose non-financial personally identifiable information of Users who are U.S. residents to companies whose practices are not covered by this privacy notice (e.g., marketers, magazine publishers, retailers, participatory databases, and non-profit organizations) that want to market products or services to you. Any User wishing to opt-out of the distribution of their personally identifiable information can email a request to the ICSC at [web@icsc.org](mailto:web@icsc.org). Please include in the subject line: “PII Opt-Out.” 
 
 
 
@@ -43,11 +41,11 @@ ICSC may use a reputable third party to present or serve the advertisements that
 
 ### Cookies
 
-To enhance your experience with our site, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+To enhance your experience with our site, many of our web pages use "cookies." Cookies are text files containing small amounts of information, which are downloaded to your computer or mobile device by websites that you visit. They can improve your experience of using a website, for example, by remembering your preference settings and tracking your use of a website so that it can be improved to meet your needs. We place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services.
 
-At this time, we do not honor “do-not-track” signals from a web site browser. However, you may refuse or delete cookies. Please refer to your browser Help instructions to learn more about cookies and other technologies and how to manage their use. If you elect to refuse or delete cookies, you will need to repeat this process if you use another computer, or change browsers. If you choose to decline cookies, some of the functionality of a website may be impaired.
+At this time, we do not honor “do-not-track” signals from a web site browser. However, you may refuse or delete cookies. Please refer to your browser Help instructions to learn more about cookies and other technologies and how to manage their use. If you elect to refuse or delete cookies, you will need to repeat this process if you use another computer, or change browsers. If you choose to decline cookies, some of the functionality of a website may be impaired
 
 ### Our Commitment to Security
 
@@ -55,8 +53,10 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 ### Effective Date and Amendments
 
-This Privacy Policy is effective as of November 2016. ICSC reserves the right to amend this Privacy Policy at any time for any reason. Amendments to the policy may be communicated to Users through a notice on the Web Site, via email, or by being posted on the Privacy Policy page. Continued use of the Web Site by a User is express consent to be bound by the terms of this Privacy Policy.
+This Privacy Policy is effective as of May 2018. ICSC reserves the right to amend this Privacy Policy at any time for any reason. Amendments to the policy may be communicated to Users through a notice on the Web Site, via email, or by being posted on the Privacy Policy page. Continued use of the Web Site by a User is express consent to be bound by the terms of this Privacy Policy.
 
 ### How to Contact Us
 
-If you have any questions or concerns about this policy or its implementation you may contact us at [web@icsc.org](mailto:web@icsc.org).
+If you have any questions or concerns about this policy or its implementation you may contact us at [web@icsc.org](mailto:web@icsc.org).
+
+**_May 2018_**
