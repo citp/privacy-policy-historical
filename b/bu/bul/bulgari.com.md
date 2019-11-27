@@ -1,98 +1,61 @@
-> *The following text is extracted and transformed from the bulgari.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322085912id_/http%3A//www.bulgari.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulgari.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127222258id_/https%3A//www.bulgari.com/en-us/privacy-policy/privacy-policy--page__terms.html) for the most accurate reproduction.*
 
-# Bulgari | Privacy Policy | Bulgari
+# Bulgari | Privacy Policy
 
-**Legal disclaimer**
+Last updated: March, 11th 2019
 
-1\. All of the web pages that make up the www.bulgari.com website (hereinafter the "Site") have been made available for the sole purpose of providing information to Users.
+In accordance with the provisions of Italian Legislative Decree 196/2003 (Privacy Code) and EU Regulation 2016/679 
 
-2\. The information and material published on the Site (hereinafter the "Content") is carefully checked so that it is free from as many errors as possible but this does not guarantee a total lack of imprecision or inaccuracy. What's more, this does not guarantee that the Content is complete, correct and updated.
+We have the pleasure and duty of providing information on the processing of personal data in accordance with the Privacy Code and EU Regulation 2016/679. 
 
-3\. Bulgari S.p.A. (hereinafter “Bulgari”) constantly strives to ensure that the information on its Site is correct. However, it does not guarantee that all available information is exact, complete and updated. Bulgari shall not be held responsible for any direct or indirect damage of any nature resulting from use of its Site.
+### 1.Processing purpose 
 
-4\. Access to the Site is optional and the User, by browsing web pages that do not require registration, declares to accept the application of all applicable regulations in force in Italy. The Owner of the Site reserves the right to change, add or remove any or all Content as well as suspend, interrupt or limit access to the Site or its Content at any time and without notice at its incontestable discretion.
+a) The following personal data are collected and processed by Bulgari S.p.A. and by the companies controlled by Bulgari S.p.A. in Italy and throughout the world, as identified hereinbelow (hereinafter referred to as the “Bulgari Group Companies”) when managing contractual relations with customers and to fulfill relevant legal obligations: Name, family name, address, identification. This data may be collected in a retail store or online on our website.
 
-5\. All Content on the site is protected by the copyright regulations currently in force (law no. 633 of 1941). The User shall not have the right to appropriate, reproduce, change, translate, distribute, publish or use in any form, even partially, the Content of the Site for purposes other than fulfilling his/her contractual obligations with the Owner.
+Subject to your prior express consent, personal data mentioned above and additional data described below are collected and processed by Bulgari S.p.A. and Bulgari Group Companies: 
 
-6\. Trademarks and/or any other distinctive mark present on the Site are owned by Bulgari S.p.A. and/or other parties and cannot, in any case and for any reason, be used without written permission from the respective owner.
+b) To carry out statistical and profiling analysis, also via services provided by third parties. Data is processed in compliance with the guarantees and measures set by the Italian Data Protection Authority on April 24, 2013 in response to the request of prior checking submitted by Bulgari. 
 
-7\. Without prejudice to the binding limits of the law, the User recognizes that he/she uses the site at his/her own and exclusive responsibility. Content is provided "as is" and "as available". Any guarantee from the Owner of the Site, explicit and/or implicit, is expressly excluded. The Owner of the Site does not guarantee that the Site will be accessible without interruption.
+c) To provide personalized sales services (by way of example but not limited to: personal shopping services, free assistance services and courtesy services), for the sending of (via mail, email, sms and mms, social networks, instant messaging) information relating to our creations, exclusive sales and events or similar initiatives organized or attended by Bulgari (including potential invitations to such events), and for the sending of questionnaires evaluating levels of satisfaction reached by services offered. 
 
-8\. It is expressly forbidden to display the Site via framing, deep link or mirroring.
+In relation to the purposes set out in points b) and c) above, Bulgari S.p.A. and Bulgari Group Companies may collect and process additional data in addition to those required for the management of contractual relations and to fulfill relevant legal obligations. This includes: 
 
-9\. The documentation, images, characters, graphics, software and all other content on the Site, as well as all code and format script, are the property of Bulgari S.p.A. or third parties and are protected by the corresponding applicable regulations. 
+• Data collected during store visits, including use of the Wi-Fi system, during participation to events or while making purchases online: Birthday, age range, dates of family events, profession, hobbies, purchases, use of particular social networks or social network ID, telephone number, email address, photograph, nationality, sex, the method and date of registration within Customer Relationship Management managed by Bulgari S.p.A (henceforth referred to as “CRM”), language, categories of favorite products, details of products purchased, size, price, discount, statistical spending levels, abandoned shopping carts, ways in which services are used, preferences regarding services offered in stores, response to contact activities, events attended by customers, products chosen for purchase but not actually purchased; and 
 
-10\. Use of the Site by the User is subject to acceptance of the information in this section and in the Privacy Policy.
+• Data collected when browsing or when using applications, including data related to behavior recorded using cookies or similar technology, as described further within the cookie policy available via the website [www.bulgari.com/en-us/cookie-management](https://www.bulgari.com/en-us/cookies/cookies--page__terms.html) , or data contained within the so-called “Wish List”. 
 
-11\. The www.bulgari.com website is the property of Bulgari S.p.A. with registered offices at Via dei Condotti 11, Rome, Italy.
+### 2\. Provision of data 
 
-**Privacy Policy – Information as per Article 13 of legislative decree 196/03**
+The provision of personal data with respect to the purposes outlined in paragraph 1, sub-section a) is obligatory and if it is not provided, Bulgari Group Companies cannot proceed with contractual services requested. For the purposes detailed in paragraph 1 sub-sections b) and c), provision of data is free and optional and the use of such data is subject to your prior informed consent. Denial thereof would not allow Bulgari Group Companies to proceed with the indicated purposes. 
 
-This page describes how the website www.bulgari.com (hereinafter the “Site”) is managed in terms of processing the personal data of its users.
+### 3\. Conditions applicable to consent of minors 
 
-The policy is provided to all those who interact with the Web services accessible via www.bulgari.com including under Article 13 of legislative decree no. 196/2003 (Data Protection Law) and Recommendation no. 2/2001 of the Working Party under Article 29 of Directive 95/46/EC.
+Processing the personal data of minors is lawful provided they are at least 16 years of age. If a minor is younger than 16 years of age, data processing is only lawful if, and where, consent is provided or authorized by the holder of parental responsibility. We do not knowingly collect any data from children under the age of 13. 
 
-This policy concerns all personal data collected and processed by Bulgari S.p.A. (hereinafter “Bulgari”) via the Site, with the exception of:
+### 4\. Processing method
 
-\- Cookies: see the specific, extended policy regarding cookies at the following link: [extended cookies policy](https://web.archive.org/web/20170322085912id_/http%3A//www.bulgari.com/en-us/cookie-management) as per Article 13 of legislative decree 196/03  
-\- Data collected upon Site registration: for more information on the data collected and processed upon Site registration see the specific policy at the following link: (registrationpolicy) as per Article 13 of legislative decree 196/03
+Personal data will be processed with IT-based tools and/or processed manually for the length of time needed to achieve the purpose for which it was collected. In particular, personal data collected for the purposes outlined in paragraph 1, sub-sections b) and c) will be also processed with the usage of automated mechanisms based on procedures and logics that are strictly related to the purposes specified above. 
 
-The policy is valid only for the www.bulgari.com Site and not also for any other sites that may be accessed by the user via links.
+### 5\. Entering of data in the CRM system
 
-By visiting the Site www.bulgari.com, you are implicitly accepting the practices detailed in this Privacy Policy.
+The entering of personal data in the CRM system is optional and occurs only if consent is given to one of the purposes detailed in paragraph 1 sub-sections b) and c) above; it automatically implies that Bulgari employees across the world, tasked with data processing, will be able to view the data, as well as to change and to update it. 
 
-**Data Controller**
+### 6.Scope of communication, transfer abroad and publication of data 
 
-1\. The Data Controller is Bulgari S.p.A. with registered offices at Via dei Condotti 11, Rome, Italy.  
-**Data Supervisor**
+Personal data is processed by personnel who are tasked with, or responsible for, data processing. This applies to: Bulgari S.p.A., parent companies, subsidiary companies, associate companies, companies under the same control, or companies that are part of the same group of companies that Bulgari S.p.A. belongs to, in Italy and/or across the world (a complete list of these can be obtained by writing to [privacy@bulgari.com](mailto:privacy@bulgari.com); in this regard, it is specified that Model Clauses made available by the European Commission regarding the transfer of personal data outside of Europe are used. Additionally, personal data may also be processed by: - companies that carry out shipping/delivery services for catalogs and/or products; - companies that deliver newsletters, marketing material and promotional communications; - companies that carry out customer care services; - companies that carry out analysis and market research; - companies that maintain IT systems. Data collected may also be processed by independent third-party data controllers, for example: - persons, companies, associations or professionals that provide assistance or consultancy services (lawyers, accountants, auditors); - companies that manage credit card payment service and tax free. A complete list of third parties able to process personal details, on behalf of Bulgari or as independent third-party data controllers, may be obtained by writing to [privacy@bulgari.com](mailto:privacy@bulgari.com) . The data will, under no circumstances, be published. 
 
-The Data Supervisor at Bulgari is Maurizio Valentini. A complete list of supervisors is available by request to privacy@bulgari.com.
+### 7\. Data retention period 
 
-**The collection and processing of personal data**  
-**Browsing data**
+Data collected for the purposes outlined in paragraph 1, sub-section a) will be retained by Bulgari S.p.A. and Bulgari Group Companies for the time period necessary for the performance of a contract, with legal and conventional guarantees provided for, or in accordance with obligatory legal terms regarding the retention of data. Data collected for the purposes outlined in paragraph 1, sub-sections b) and c) will be retained until the client revokes consent to process his/her personal data and in any event, with particular reference to data collected for the purposes outlined in paragraph 1, sub-section b), for no longer than ten years (in compliance with the measure issued by the Italian Data Protection Authority on April 24, 2013 in response to the request of prior checking submitted by Bulgari S.p.A.). When said consent is revoked or if earlier the time limit for the retention of data collected for the purposes outlined in paragraph 1, sub-section b) expires, the data will be automatically erased or made permanently anonymous. 
 
-The information systems and software procedures that allow the Site to function acquire personal data during normal use. The sending of this data is implicit in Internet communication protocols. This information is not collected in order to be connected to specific individuals but by its very nature, via processing and association with data held by third parties, could be used to identify users.
+### 8\. Data subjects’ rights
 
-Included in this category are the IP addresses or domain names for the computers used to connect to the Site, the URI (Uniform Resource Identifier) addresses of requested resources, the time of request, the method used to send a request to the server, the size of the file obtained in response, the numerical code indicating the status of the response given by the server (successful, error, etc.) and other parameters relating to the user's operating system and IT environment.  
-This data is collected with the sole purpose of extracting anonymous, statistical information on how the site is used and to ensure it functions correctly. Such data is canceled immediately once it has been processed.
+The following may be requested at any time: Information regarding the existence of personal data processing and its characteristics, correction and deletion of data or limited processing. It is also possible to object to processing and/or to request that data be sent to another controller. Bulgari S.p.A. must respond to requests within deadlines provided for by applicable regulations; it must also correct incorrect data, ensure that incomplete data is completed, and update data that is no longer correct; and finally, when required, it must delete data and limit it and/or stop it from being processed, or ensure that it is, where technically possible, sent to another controller. When exercising rights, as listed above and provided for by law, or in order to obtain any related information and/or report potential misunderstandings and issues, the party concerned is invited to send an email to [privacy@bulgari.com](mailto:privacy@bulgari.com). for prompt replies,or to send a written letter to the Data Protection Officer ('DPO') at Bulgari S.p.A. in Lungotevere Marzio 11, Rome. If the response is not considered satisfactory, the party concerned may contact the Italian Data Protection Authority. Any electronic communication sent shall contain an appropriate section outlining how data processing is objected to and how clients no longer receive material and promotional information. 
 
-The data may also be used to ascertain responsibility in the event of cyber-crime.
+### 9\. Data controllers and processors
 
-**Data provided voluntarily**
+Data controllers are:   
+\- Bulgari S.p.A. – Via dei Condotti 11 – 00186 Rome (RM) and Bulgari Group Companies as identified hereinbelow. Data controllers may be contacted or a complete list of data processors designated by the former may be obtained by writing to [privacy@bulgari.com](mailto:%3Ca%20href=). 
 
-The optional, express or voluntary sending of emails to the addresses provided on this site implies the acquisition of the sender's email address, which is necessary for replying to requests, as well as other personal data in the message. 
+Bulgari S.p.A. (Italy), Bulgari Italia S.p.A. (Italy), Bulgari Asia Pacific Ltd (Hong Kong), Bulgari Australia PTY Ltd (Australia), Bulgari Belgium SA (Belgium), Bulgari Canada Ltd (Canada), Bulgari Commercial de Mexico Ltd (Mexico), Bulgari Commercial Shanghai CO Ltd (People’s Republic of China), Bulgari Corporation of America (U.S.A.), Bulgari Deutschland GmbH (Germany), Bulgari do Brazil Lda (Brasil), Bulgari España SA (Spain), Bulgari France SA (France), Bulgari International Corporation (BIC) NV (the Netherlands), Bulgari Ireland Ltd (Ireland), Bulgari Japan Ltd (Japan), Bulgari Korea Ltd (Korea), Bulgari Malaysia SDN BHD (Malaysia), Bulgari Montecarlo SAM (Principality of Monaco), Bulgari Panama Inc. (Panama), Bulgari Portugal Lda (Portugal), Bulgari Qatar Llc (State of Qatar), Bulgari SA (Switzerland), Bulgari South Asian Operation PTE Ltd (Republic of Singapore), Bulgari St Barth SAS (Saint Barthelemy), Bulgari Taiwan Ltd (Taiwan), Bulgari Turkey Luxury and Trade Llc (Republic of Turkey), Bulgari Thailand Ltd (Thailand), Bulgari UK Ltd (United Kingdom), Gulf Luxury Trading Llc (Dubai), Lux Jewels Bahrain Wll (Kingdom of Bahrain), Lux Jewels Kuwait Wll (State of Kuwait), India Luxco Retail Private Ltd (Republic of India), Bulgari Prague Sro (Czech Republic), Bulgari Russia Llc (Russian Federation).   
 
-Specific summary guidelines will be detailed or made available on the web pages for particular on-demand services. 
-
-**Purpose of data processing**
-
-The personal data provided and/or communicated by users will be collected and processed for technical administration purposes. The personal data of users who request the sending of material or register for newsletters will be collected and processed for the purpose of performing the requested service or task. Such data may be used by Bulgari to carry out its everyday work and, more specifically, for the following purposes:
-
-a) managing the user/client relationship;  
-b) carrying out its own business activity;  
-c) other purposes linked or connected to the company's business such as, by way of example: the improvement of the products and services offered, even if not strictly linked to the services requested by the data subject; market research on client satisfaction, whether directly or via appointed market research agencies, carried out via telephone, questionnaires or, occasionally, personal appointments.
-
-Data will be collected and processed by Bulgari employees and collaborators tasked with and responsible for data processing.  
-Data may be collected and/or processed by trusted companies working on behalf of Bulgari and carrying out the same technical and organizational tasks. These companies are direct collaborators of Bulgari and take on the roll of data processor. The related list is constantly updated and is available upon request via the address given in the "Data Processor" section.
-
-Data will not be communicated to third parties, transferred abroad or publicized.
-
-**Processing method**
-
-Data is processed using automated means for the length of time that is strictly necessary to achieve the purpose for which it was gathered.  
-Specific security measures are followed in order to prevent loss of data, illegal, incorrect or unauthorized use.
-
-**Provision of data**
-
-Besides what has been specified regarding browsing data, the provision of data for other purposes is optional. Failure to provide such data may make it impossible to pursue such purposes. Processing purpose and scope of communication for personal data
-
-**Rights of data subjects**
-
-At any time the data subject may cancel, anonymize, copy, update, correct, integrate or block data processed in violation of the law.  
-To exercise such rights the user may send an email to the address given in the "Data Processor" section. 
-
-*** *** *** 
-
-This privacy policy may be periodically modified. Use of collected information is subject to the privacy policy in force at the time of use.
-
-This document, which is published on www.bulgari.com, constitutes this Site's Privacy Policy and is subject to updating (various versions will be available at the same address).
