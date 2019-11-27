@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myschool.edu.au privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323030726id_/http%3A//www.acara.edu.au/contact-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschool.edu.au privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127221255id_/http%3A//www.acara.edu.au/contact-us/privacy) for the most accurate reproduction.*
 
 # ACARA - Privacy
 
@@ -23,7 +23,7 @@ _**If you are solely interested in the data we collect as part of our testing pr
 
 #### 1\. Scope
 
-Our privacy policy sets out how we comply with our obligations under the [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2012C00903) (Cth) ( **Privacy Act** ). As an Australian Government agency, we are bound by the [Australian Privacy Principles](http://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles) ( **APPs** ) in the Privacy Act, which regulate how agencies may collect, use, disclose and store personal information, and how individuals may access and correct personal information held about them.
+Our privacy policy sets out how we comply with our obligations under the [_Privacy Act 1988_](http://www.comlaw.gov.au/Details/C2012C00903) (Cth) ( **Privacy Act** ). As an Australian Government agency, we are bound by the [Australian Privacy Principles](https://www.oaic.gov.au/privacy/privacy-resources/privacy-fact-sheets/other/privacy-fact-sheet-17-australian-privacy-principles) ( **APPs** ) in the Privacy Act, which regulate how agencies may collect, use, disclose and store personal information, and how individuals may access and correct personal information held about them.
 
 In our privacy policy, 'personal information' has the same meaning as defined by [sub-section 6(1) of the Privacy Act](http://www.comlaw.gov.au/Details/C2013C00482/Html/Text#_Toc359487042) and:
 
@@ -281,7 +281,7 @@ If we do not agree to provide access to your personal information or to amend or
 
 If you wish to make a complaint about how ACARA deals with your personal information, you can complain to us or the Privacy Commissioner. The Privacy Commissioner generally prefers that you raise your complaint with us first. Our Privacy Officer will be able to assist you.
 
-If you are dissatisfied with our response, you can complain to the Privacy Commissioner. The Privacy Commissioner has the power to investigate complaints about possible breaches of the Privacy Act. Contact details for the Privacy Commissioner can be found at ([www.oaic.gov.au/about-us/contact-us](http://www.oaic.gov.au/about-us/contact-us)).
+If you are dissatisfied with our response, you can complain to the Privacy Commissioner. The Privacy Commissioner has the power to investigate complaints about possible breaches of the Privacy Act. Contact details for the Privacy Commissioner can be found at ([www.oaic.gov.au/about-us/contact-us](https://www.oaic.gov.au/about-us/contact-us)).
 
 #### **8\. How to contact us**
 
@@ -290,7 +290,7 @@ You can obtain further information in relation to this privacy policy, or provid
 **Telephone:** 1300 895 563 (or from outside Australia +61 2 8098 3100)  
 **Post:** refer to the address on our website on the ‘[Contact us’](http://www.acara.edu.au/contact-us) page  
 **Facsimile:** 1300 995 468  
-**Email:**[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#127b7c747d5273717360733c7776673c7367)
+**Email:**[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4e272028210e2f2d2f3c2f602b2a3b602f3b)
 
 **Note:** These calls can be made for a local call cost from fixed residential landlines anywhere in Australia, but calls from mobile and pay phones may incur higher charges. If you are concerned about fees for mobile phone usage, please check with your service provider.
 
@@ -306,14 +306,14 @@ This part A of our privacy policy provides you with information regarding how we
 
 ACARA’s public websites are hosted by organisations other than ACARA. Our two (2) service providers are:
 
-  * Education Services Australia Limited ( **ESA** ) – hosts the [Australian Curriculum website](http://www.australiancurriculum.edu.au/). ESA is a national, not-for-profit company owned by all Australian education ministers. For more information, please read[ ESA’s privacy policy](https://web.archive.org/web/20190323030726id_/http%3A//www.acara.edu.au/contact-us/www.esa.edu.au/contact-us/privacy). 
+  * Education Services Australia Limited ( **ESA** ) – hosts the [Australian Curriculum website](http://www.australiancurriculum.edu.au/). ESA is a national, not-for-profit company owned by all Australian education ministers. For more information, please read[ ESA’s privacy policy](https://web.archive.org/web/20191127221255id_/http%3A//www.acara.edu.au/contact-us/www.esa.edu.au/contact-us/privacy). 
   * Microsoft Azure – hosts the [ACARA corporate website](http://www.acara.edu.au/), the [Australian Curriculum resources portal](http://resources.australiancurriculum.edu.au/), the  _[ _My School_ website](http://www.myschool.edu.au/)_, the  _[ _My School_ Principals’ Portal](https://schools.myschool.edu.au/)_, the [National Assessment Program website](http://www.nap.edu.au/) and the [NAP reports](http://www.nap.edu.au/results-and-reports/test-results.html). These hosting services are located within Australia. For more information, please read [Microsoft Azure’s privacy policy](https://www.microsoft.com/en-us/TrustCenter/Privacy/default.aspx).
 
 
 
 Both our service providers are contractually required to ensure the privacy of our online users is protected.
 
-There are several methods that we use to collect visitor behaviours on each of our online platforms. We use Google Analytics on our websites. Information and data collected through Google Analytics is stored by Google on servers in the United States of America, Belgium and Finland. For more information, please read [Google’s privacy policy](https://web.archive.org/web/20190323030726id_/http%3A//www.acara.edu.au/contact-us/www.google.com.au/intl/en/policies/privacy/). You can opt out of the collection of information via Google Analytics by downloading the [Google Analytics Opt-out browser add on](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
+There are several methods that we use to collect visitor behaviours on each of our online platforms. We use Google Analytics on our websites. Information and data collected through Google Analytics is stored by Google on servers in the United States of America, Belgium and Finland. For more information, please read [Google’s privacy policy](https://web.archive.org/web/20191127221255id_/http%3A//www.acara.edu.au/contact-us/www.google.com.au/intl/en/policies/privacy/). You can opt out of the collection of information via Google Analytics by downloading the [Google Analytics Opt-out browser add on](https://tools.google.com/dlpage/gaoptout?hl=en-GB).
 
 When you visit any of our online platforms, our metric tools may collect the following information about your visit for statistical purposes:
 
@@ -356,7 +356,7 @@ We will arrange for the deletion or correction of any personal information that 
 
 #### **6\. Data security**
 
-There are inherent risks in transmitting information across the internet and we do not have the ability to control the security of information collected and stored on third party platforms. In relation to our own servers, we take reasonable steps to manage data stored on our servers to ensure data security. In relation to Google Analytics, please read [Google’s privacy policy](https://web.archive.org/web/20190323030726id_/http%3A//www.acara.edu.au/contact-us/www.google.com.au/intl/en/policies/privacy/).
+There are inherent risks in transmitting information across the internet and we do not have the ability to control the security of information collected and stored on third party platforms. In relation to our own servers, we take reasonable steps to manage data stored on our servers to ensure data security. In relation to Google Analytics, please read [Google’s privacy policy](https://web.archive.org/web/20191127221255id_/http%3A//www.acara.edu.au/contact-us/www.google.com.au/intl/en/policies/privacy/).
 
 ### Part B. Personal information and Australian Curriculum teaching resources
 
@@ -397,9 +397,9 @@ This part of our privacy policy only covers our collection of personal informati
 
 **Online tests**
 
-NAPLAN will soon commence its transition to online testing. The transition is expected to take two (2) years. During the transition period, the NAPLAN tests will be both paper-based and online. More information about the move to NAPLAN Online is available at the [NAP website](https://web.archive.org/web/20190323030726id_/http%3A//www.acara.edu.au/contact-us/www.nap.edu.au/online-assessment).
+NAPLAN will soon commence its transition to online testing. The transition is expected to take two (2) years. During the transition period, the NAPLAN tests will be both paper-based and online. More information about the move to NAPLAN Online is available at the [NAP website](https://web.archive.org/web/20191127221255id_/http%3A//www.acara.edu.au/contact-us/www.nap.edu.au/online-assessment).
 
-Education Services Australia Limited ( **ESA** ) will operate the platform that will deliver NAPLAN Online. ESA is a national, not-for-profit company owned by all Australian education ministers. More information about ESA can be found at the [ESA website](https://web.archive.org/web/20190323030726id_/http%3A//www.acara.edu.au/contact-us/www.esa.edu.au/). The records containing personal information are stored on the platform by ESA on behalf of the relevant state/territory test administration authority. Test administration authorities (and the Queensland Department of Education and Training in respect of Queensland government school data) have responsibility for holding these records. Data stored on the platform are separated into tenancies, which allows the relevant state/territory test administration authority to retain ownership and control of the records stored within their respective tenancies in the platform. ACARA does not access these records.
+Education Services Australia Limited ( **ESA** ) will operate the platform that will deliver NAPLAN Online. ESA is a national, not-for-profit company owned by all Australian education ministers. More information about ESA can be found at the [ESA website](https://web.archive.org/web/20191127221255id_/http%3A//www.acara.edu.au/contact-us/www.esa.edu.au/). The records containing personal information are stored on the platform by ESA on behalf of the relevant state/territory test administration authority. Test administration authorities (and the Queensland Department of Education and Training in respect of Queensland government school data) have responsibility for holding these records. Data stored on the platform are separated into tenancies, which allows the relevant state/territory test administration authority to retain ownership and control of the records stored within their respective tenancies in the platform. ACARA does not access these records.
 
 This part of our privacy policy covers both the paper-based NAPLAN tests for 2017 and the transition to online testing (comprising paper-based and online tests).
 
@@ -495,4 +495,4 @@ We are always very careful in how we use data to report on NAPLAN results. All N
 
 We hold the data referred to in this section of our privacy policy in deidentified form (no names). For general information about data security, see [Overview (heading 5.11) - Data security](http://www.acara.edu.au/contact-us/privacy#511).
 
-This policy makes up a part of ACARA’s Information Publication Scheme   [](http://www.oaic.gov.au/about-us/our-information-publication-scheme/)
+This policy makes up a part of ACARA’s Information Publication Scheme   [](https://www.oaic.gov.au/about-us/our-information-publication-scheme/)
