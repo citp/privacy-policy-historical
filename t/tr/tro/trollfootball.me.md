@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trollfootball.me privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331101722id_/https%3A//www.trollfootball.me/privacy-policy%3Futm_source%3Dtrollfootball.me%26utm_medium%3Dfooter%26utm_name%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trollfootball.me privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127161313id_/https%3A//www.trollfootball.me/privacy-policy%3Futm_source%3Dtrollfootball.me%26utm_medium%3Dfooter%26utm_name%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Troll Football
 
