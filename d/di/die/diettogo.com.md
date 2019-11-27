@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diettogo.com privacy policy that was archived on 2014-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141231133713id_/http%3A//diettogo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diettogo.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127181610id_/https%3A//diettogo.com/privacy) for the most accurate reproduction.*
 
 # Diettogo® Privacy Policy
 
@@ -39,8 +39,9 @@ If you have any questions about this privacy policy, please use the Contact Us p
 
 ##### Changes to This Policy
 
-Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
+Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.  
+ 
 
-[](http://diettogo.com/pricing)
+##### SMS Policy
 
-[](https://web.archive.org/web/20141231133713id_/http%3A//diettogo.com/guarantee)
+By submitting an order or creating an account, you confirm that the information provided is accurate and complete and that you agree to receive email communications, phone calls, and SMS/Text Messages from Diet-to-Go at the numbers provided above, including your wireless numbers if provided. Contact methods may include calls or texts made using automated technology. You understand that your consent is not a condition of purchasing services from the company and that if you wish to order without providing the above consent, you may order by contacting the company directly at 800-743-7546.
