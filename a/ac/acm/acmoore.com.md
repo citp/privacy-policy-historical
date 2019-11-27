@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acmoore.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624020124id_/https%3A//acmoore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmoore.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127031914id_/https%3A//acmoore.com/privacy-policy) for the most accurate reproduction.*
 
 # | A.C. Moore
 
