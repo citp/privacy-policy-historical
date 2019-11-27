@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ocharleys.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613203027id_/http%3A//ocharleys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocharleys.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127235735id_/http%3A//www.ocharleys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Your privacy is important to O'Charley's, LLC. ("O'Charley's"). To protect the p
 
 This section of our Policy describes in detail the type of information that we collect. We collect information from you in various ways when you access or use various services (the “Services”), our websites and/or our mobile applications (collectively, the “Properties”). 
 
-Much of the personal information collected through the Properties is voluntarily submitted by you. For example:
+Much of the personal information collected through the Properties is voluntarily submitted by you. For example: 
 
   * **Account Information.** We may collect personal information from you, such as your first and last name, email address, telephone number, date of birth, zip code, mailing address, and password or other unique identifier, when you create an account for one of our programs, e.g., our O’Club or other loyalty or rewards program ("Account"). 
   * **Location Information.** If you tell us where you are (e.g., by allowing your mobile device to send us your location or by entering your city, state and/or zip code information), we may collect information about your location and use that information to provide you with location-based information, such as the location of our restaurants near you. If you want to deactivate this feature, you can deactivate location services on your mobile device. 
@@ -45,8 +45,8 @@ Generally, we use the information to respond to your requests as submitted throu
   * Identify you as a user in our system;
   * Provide improved administration of our websites and other Properties;
   * Provide the Services, including, for example, to process, deliver and bill you for your menu item or gift card order;
-  * Improve the quality of experience when you interact with our websites, Services or other Properties;
-  * Send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created;
+  * Improve the quality of experience when you interact with our websites, Services or other Properties; 
+  * Send you a welcome e-mail to verify ownership of the e-mail address provided when your Account was created; 
   * Respond to your inquiries related to employment opportunities or other requests;
   * Solicit your feedback; and
   * Send push notifications, text messages, emails, newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes.
@@ -57,7 +57,7 @@ We may create anonymous information records from personal information by excludi
 
 **Who May Receive Information**
 
-We may share the information we collect with our affiliated companies and with third parties that assist us with our Services and other Properties. These companies may assist us in such activities as processing menu orders, conducting sweepstakes and contests, promoting our Services through marketing and advertising, conducting quality assurance testing, providing technical support, running customer loyalty or rewards programs and otherwise improving our third party service providers and other Properties.
+We may share the information we collect with our affiliated companies and with third parties that assist us with our Services and other Properties. These companies may assist us in such activities as processing menu orders, conducting sweepstakes and contests, promoting our Services through marketing and advertising, conducting quality assurance testing, providing technical support, running customer loyalty or rewards programs and otherwise improving our third party service providers and other Properties. 
 
 For example, we use certain services provided by Punchh, Inc. (“Punchh”) to run a customer loyalty program and present special offers on our Properties. As part of these services, certain personal information you provide may be shared with Punchh (including, without limitation, your name, email address, payment information and/or information regarding the purchases you make with us). In connection with such services, Punchh may use this information as permitted by Punchh’s privacy policy (available at: <https://punchh.com/privacy_policy>). 
 
@@ -73,13 +73,13 @@ The security of your personal information is important to us and so we employ re
 
 * ## 5\. SPECIAL NOTICE TO CALIFORNIA CONSUMERS
 
-California residents may request a list of certain third parties, if any, to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. To request this information, please contact us using the ["Contact Us" ](https://www.ocharleys.com/contact-us) link on our websites or at the address listed at the bottom of this Policy.
+California residents may request a list of certain third parties, if any, to which we have disclosed personally identifiable information about you for their own direct marketing purposes. You may make one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for your response. To request this information, please contact us using the ["Contact Us" ](https://web.archive.org/contact-us) link on our websites or at the address listed at the bottom of this Policy.
 
 Currently, we do not honor “do-not-track” requests. However, you may find information on how to opt out of many websites by visiting Network Advertising Initiative (NAI) at [http://www.optout.networkadvertising.org](http://www.optout.networkadvertising.org/).
 
 * ## 7\. CHILDREN’S ONLINE PRIVACY PROTECTION ACT
 
-Our Properties are not intended for children under 13 years of age. Consistent with this and the Children’s Online Privacy Protection Act, we do not intend to, or knowingly, collect, use or disclose personal information from children under 13 years of age. If you are under 13 years of age, do not use or provide any information on the Properties. If it is determined that a child under the age of 13 has provided us with personal information, a parent or guardian of that child should contact us at the email address or phone number listed at the bottom of this Policy to delete this information from our records. We will use reasonable efforts to delete the child’s personal information from our existing files.
+Our Properties are not intended for children under 13 years of age. Consistent with this and the Children’s Online Privacy Protection Act, we do not intend to, or knowingly, collect, use or disclose personal information from children under 13 years of age. If you are under 13 years of age, do not use or provide any information on the Properties. If it is determined that a child under the age of 13 has provided us with personal information, a parent or guardian of that child should contact us at the email address or phone number listed at the bottom of this Policy to delete this information from our records. We will use reasonable efforts to delete the child’s personal information from our existing files. 
 
 * ## 8\. CHANGING YOUR INFORMATION
 
