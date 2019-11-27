@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhermes.co.uk privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611071349id_/https%3A//www.myhermes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhermes.co.uk privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127212155id_/https%3A//www.myhermes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Hermes
 
@@ -14,7 +14,7 @@ For all our services, the data controller — the company that’s responsible f
 
 We have appointed a data protection officer (DPO), Hugo Martin, who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the DPO via [data.protection@hermes-europe.co.uk](mailto:data.protection@hermes-europe.co.uk) or by using the company’s address above.
 
-You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ( [www.ico.org.uk](https://web.archive.org/web/20190611071349id_/https%3A//www.myhermes.co.uk/www.ico.org.uk)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
+You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ( [www.ico.org.uk](https://web.archive.org/web/20191127212155id_/https%3A//www.myhermes.co.uk/www.ico.org.uk)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
@@ -48,7 +48,7 @@ We use your information in a number of different ways — what we do depends on 
 How we use your name and contact details | Why | Lawful Basis for Processing  
 ---|---|---  
 To register you as a new customer | We have to use your name and address to add you to our systems. | Processing is necessary for the performance of a contract  
-Deliver your parcel/package | We have to use your name and address to deliver your parcel/package | Processing is necessary for the performance of a contract  
+Deliver your parcel/package | We have to use your name and address to deliver your parcel/package | Processing is necessary for the performance of a contract and for the purposes of Hermes’ legitimate interests where Hermes relies on historic information to ensure the delivery address is accurate  
 Send you service messages by text and e-mail | We use your text and email contact details to send service messages such as delivery notifications and updates | Processing is necessary for the performance of a contract  
 Parcel recipient satisfaction surveys | To improve the quality of service we provide | Processing is necessary for the purposes of Hermes' legitimate interests  
 Sending you information by email or SMS about our new products and services | To keep you up to date with our latest offerings. We only send this with your permission | You have given consent or for the purposes of Hermes’ legitimate interests  
