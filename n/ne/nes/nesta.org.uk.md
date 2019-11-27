@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nesta.org.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330205508id_/https%3A//www.nesta.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nesta.org.uk privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127020820id_/https%3A//www.nesta.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Nesta
 
