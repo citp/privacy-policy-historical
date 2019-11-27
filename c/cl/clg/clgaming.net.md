@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clgaming.net privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504112327id_/https%3A//www.clg.gg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clgaming.net privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127074811id_/https%3A//www.clg.gg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — CLG
 
