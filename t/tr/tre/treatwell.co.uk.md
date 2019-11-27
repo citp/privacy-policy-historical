@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treatwell.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331200357id_/https%3A//www.treatwell.co.uk/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treatwell.co.uk privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127160031id_/https%3A//www.treatwell.co.uk/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Treatwell
 
@@ -6,7 +6,7 @@
 
 This privacy and cookies policy (" **Privacy Policy** ") details data used on [www.treatwell.com](http://www.treatwell.com/ "http://www.treatwell.com") and [www.treatwell.co.uk](http://www.treatwell.co.uk/ "http://www.treatwell.co.uk") (the " **Websites** "), the _Treatwell Customer_ mobile application software and the _Treatwell Connect_ (salon diary and management tool) application software and website at connect.treatwell.co.uk (“ **Connect** ”), both of which are available for download from iTunes and Google Play (the " **Apps** "), customisable websites powered by Connect hosted at unique subdomain addresses on mytreatwell.co.uk (the “ **Partner Sites** ”), and the web interfaces, also powered by Connect, embedded on Partner Sites and on our salon partners (“ **Partners** ”)’ own websites and social media pages, through which customers can make bookings directly with Partners at widget.treatwell.co.uk (the “ **Widgets** ”) (together, the “ **Platform** ”).
 
-The data controller for your information is Hotspring Ventures Limited (registered address: c/o Calder & Co, 16 Charles II Street, London, SW1Y 4NW) ("Treatwell", "we", "our" or "us"). You can write to us at: Hotspring Ventures Limited, Fairfax House, 15 Fulwood Place, London WC1V 6HU or email us on: [help@treatwell.co.uk](mailto:help@treatwell.co.uk "mailto:help@treatwell.co.uk").
+The data controller for your information is Hotspring Ventures Limited (registered address: Fairfax House, 15 Fulwood Place, London, WC1V 6HU) ("Treatwell", "we", "our" or "us"). You can write to us at: Hotspring Ventures Limited, Fairfax House, 15 Fulwood Place, London WC1V 6HU or email us on: [help@treatwell.co.uk](mailto:help@treatwell.co.uk "mailto:help@treatwell.co.uk").
 
 We are committed to protecting the privacy of our users and customers. This Privacy Policy is intended to inform you how we gather, define, and use information that could identify you, such as your name, email address, address, other contact details or online identifiers, other information that you provide to us when using the Platform (" **Personal Information** ") and also what Cookies we use. Please take a moment to read this Privacy Policy carefully.
 
@@ -71,7 +71,7 @@ We also use your Personal Information for the following purposes:
     * To conduct market research and consumer surveys 
     * To collate and publish reviews of products or services offered by our Partners, and use these for advertising campaigns 
     * To use customer communications for training, record-keeping and quality control purposes. If you telephone our customer experience team, please note that the fact that you have contacted us will be noted and your call may be recorded. You will be told if such a recording is being made and also given the opportunity to opt-out of being recorded if you wish to do so and the means for doing so 
-    * To process applications for a position at Treatwell, whether submitted directly or indirectly, including to examine your suitability for the role, curriculum vitae, and professional skills, to schedule interviews and assessments, to contact referees and, if successful, to offer you a job and establish an employment relationship with you. Information which you provide will be held for a period of 12 months and may be referred to in the event you make future applications to work at Treatwell.  
+    * To process applications for a position at Treatwell, whether submitted directly or indirectly, including to examine your suitability for the role, curriculum vitae, and professional skills, to schedule interviews and assessments, to contact referees and, if successful, to offer you a job and establish an employment relationship with you. Information which you provide will be held for a period of 12 months and may be referred to in the event you make future applications to work at Treatwell, unless you opt to delete this data which you may do so by following the link in the confirmation of application email that we sent you.  
 
 
 
@@ -116,6 +116,10 @@ Wherever we rely on your consent, you will always be able to withdraw that conse
   * If you would like to no longer receive push notifications via the App, you can do so by revoking push notification permission for the Apps in your phone’s operating system settings. 
 
 
+
+We use a third party payment processor, Stripe, to process all payments made by you on our Website & App. Treatwell does not store credit card details and instead relies on Stripe for this. We obtain limited information from Stripe such as the last four digits, the country of issuance and the expiration date. The processing of such data by Stripe is covered by their privacy policy which may be viewed here: [stripe.com/privacy](https://stripe.com/privacy "https://stripe.com/privacy")
+
+Stripe’s services in Europe are provided by a Stripe affiliate, Stripe Payments Europe Limited, an entity located in Ireland. In providing its payment processing services, Stripe Payments Europe Limited transfers personal data to Stripe, Inc. in the US. For further information about the safeguards used when your information is transferred outside the European Economic Area, see the section of Stripe’s privacy policy entitled “International Data Transfers”
 
 **Sharing personal information with third parties**
 
@@ -326,7 +330,7 @@ _**Awin** is one of the affiliate networks we use to provide affiliate marketing
 
     
 
-Using Cookies for this purpose enables us to display adverts on and off the Platform, and to collect information about your browsing habits and usage of the Platform in order to make adverts more relevant and personalised to you and your interests. We may use remarketing technologies to enable third parties to display relevant and personalised ads to you through their networks. They are also used to identify that you have seen a particular advert, limit the number of times you see an advert as well as help measure the effectiveness of an advertising campaign. We use some third party technologies for this purpose, including but not limited to Salesforce Marketing Cloud, Sovendus, Affiliate People, Snowplow, DoubleClick Floodlight, Google Analytics Audiences, Facebook Analytics, Bing, and AppsFlyer. Technologies are also placed by social media sites for advertising and targeting purposes (including Facebook, Pinterest and Snapchat).
+Using Cookies for this purpose enables us to display adverts on and off the Platform, and to collect information about your browsing habits and usage of the Platform in order to make adverts more relevant and personalised to you and your interests. We may use remarketing technologies to enable third parties to display relevant and personalised ads to you through their networks. They are also used to identify that you have seen a particular advert, limit the number of times you see an advert as well as help measure the effectiveness of an advertising campaign. We use some third party technologies for this purpose, including but not limited to Salesforce Marketing Cloud, Affiliate People, Snowplow, DoubleClick Floodlight, Google Analytics Audiences, Facebook Analytics, Bing, and AppsFlyer. Technologies are also placed by social media sites for advertising and targeting purposes (including Facebook, Pinterest and Snapchat).
 
     
 
