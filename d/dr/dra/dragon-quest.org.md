@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dragon-quest.org privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525191129id_/https%3A//dragon-quest.org/wiki/Dragon_Quest_Wiki%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragon-quest.org privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128000532id_/https%3A//dragon-quest.org/wiki/Dragon_Quest_Wiki%3APrivacy_policy) for the most accurate reproduction.*
 
 # Dragon Quest Wiki:Privacy policy - Dragon Quest Wiki
 
