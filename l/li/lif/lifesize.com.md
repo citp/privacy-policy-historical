@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the lifesize.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421102845id_/https%3A//www.lifesize.com/en/company/legal-notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesize.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127032232id_/https%3A//www.lifesize.com/en/company/legal-notices/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**_Last Updated September 19, 2018_**
+**_Last Updated November 7th, 2019_**
 
 ### Welcome to Lifesize!
 
-Lifesize, Inc. (“Lifesize”) is committed to ensuring the privacy and security of personal information that we collect about you. Please take a moment to read the following policy to learn about how we handle your personal information, and contact us at privacy@lifesize.com with any questions or concerns.
+Lifesize, Inc. (“Lifesize”) is committed to ensuring the privacy and security of personal information that we collect about you. Please take a moment to read the following policy to learn about how we handle your personal information and contact us at privacy@lifesize.com with any questions or concerns.
 
-**BEFORE YOU BEGIN**
+**_BEFORE YOU BEGIN_**
 
 This Privacy Policy is organized in multiple sections in order to make it easier to review and understand.
 
@@ -18,25 +18,25 @@ The remaining sections apply to all information collected by Lifesize, whether t
 
 **_If you do not agree with this Privacy Policy, please do not use this Website or the Services._**
 
-**SECTION 1: SCOPE**
+**1\. SCOPE**
 
-This Privacy Policy applies to information collected through www.lifesize.com and other websites maintained by Lifesize (the “Website”), as well as through the use of Lifesize’s products and services, including the Lifesize cloud-based video conferencing and collaboration services accessible through web, mobile and desktop applications, Device Software Subscriptions, support services, professional services, and any applicable software, features or functionalities of such services (collectively, the “Services”).
+This Privacy Policy applies to information collected through www.lifesize.com and other websites maintained by Lifesize (the “Website”), as well as through the use of Lifesize’s products and services, including the Lifesize cloud-based video conferencing and collaboration services accessible through web, mobile and desktop applications, Device Software Subscriptions, support services, professional services, and any applicable software, features or functionalities of such services including free services (collectively, the “Services”).
 
 This Privacy Policy does not apply to your use of unaffiliated websites, services or products, nor does it apply to third parties that Lifesize does not own or control, or individuals that Lifesize does not employ or manage. For example, it does not apply to any third party websites to which Lifesize’s Website may link, or to third party distributors or resellers that support, market or sell Lifesize products and Services. Lifesize encourages you to carefully read the privacy statement of any website you visit.
 
-**SECTION 2: HOW LIFESIZE COLLECTS INFORMATION**
+**2\. HOW LIFESIZE COLLECTS INFORMATION**
 
 Lifesize collects information in a variety of ways, including:  
 
 
-  * Through the Website: Lifesize collects information through the Website as described in Section 3 of this Privacy Policy below.
-  * Through the Services: Lifesize collects information through the Services as described in Section 4 of this Privacy Policy below.
-  * Offline: Lifesize may collect information from you offline, such as when you attend a trade show or Lifesize event, or during a phone call or in-person meeting with a Lifesize sales representative or other employee.
-  * From Other Sources: Lifesize may obtain information about you from other sources, such as public databases, joint marketing partners, social media platforms, distributors, resellers, or other third parties.
+  * _Through the Website:_ Lifesize collects information through the Website as described in Section 3 of this Privacy Policy below.
+  * _Through the Services:_ Lifesize collects information through the Services as described in Section 4 of this Privacy Policy below.
+  * _Offline:_ Lifesize may collect information from you offline, such as when you attend a trade show or Lifesize event, or during a phone call or in-person meeting with a Lifesize sales representative or other employee.
+  * _From Other Sources:_ Lifesize may obtain information about you from other sources, such as public databases, joint marketing partners, social media platforms, distributors, resellers, or other third parties.
 
 
 
-**SECTION 3: PERSONAL INFORMATION COLLECTED THROUGH THE WEBSITE**
+**3\. PERSONAL INFORMATION COLLECTED THROUGH THE WEBSITE**
 
 **Types of Personal Information Collected through the Website**
 
@@ -48,7 +48,7 @@ Lifesize collects personal information that you voluntarily provide when you vis
 
 **Submission of Personal Information**
 
-You may provide personal information through the Website when you access product information and updates, register for a seminar, subscribe to our newsletter, download a report or other materials, register for a free trial or demonstration equipment, place an order for products or Services, access a portal for technical service or support, or sign into a page that requires authorization. In addition, we may ask you from time to time to participate in a survey. You will know which personal information you submit in each case because you will manually enter the information. If you choose not to register and provide information, you can still use most of the Website. Unfortunately, you will not be able to access areas that require registration.
+You may provide personal information through the Website when you access product information and updates, register for a seminar, subscribe to our newsletter, download a report or other materials, register for a free trial or demonstration equipment, place an order for or use products or Services, access a portal for technical service or support, or sign into a page that requires authorization. In addition, we may ask you from time to time to participate in a survey. You will know which personal information you submit in each case because you will manually enter the information. If you choose not to register and provide information, you can still use most of the Website. Unfortunately, you will not be able to access areas that require registration.
 
 **Social Media Features**
 
@@ -66,13 +66,13 @@ If you use this Website to apply for employment with Lifesize, we will use the p
 
 Upon request Lifesize will provide you with information about whether we hold any of your personal information collected through the Website. You may access, correct, or request deletion of your personal information by sending an email request to privacy@lifesize.com. We will respond to your request within a reasonable timeframe.
 
-Lifesize will retain personal information for as long as your Lifesize account is active or as otherwise needed to provide you services. Lifesize may also retain such information as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Lifesize will retain personal information for as long as your Lifesize account is active or as otherwise needed to provide you Services. Lifesize may also retain such information as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**SECTION 4: PERSONAL INFORMATION COLLECTED AND PROCESSED THROUGH THE SERVICES**
+**4\. PERSONAL INFORMATION COLLECTED AND PROCESSED THROUGH THE SERVICES**
 
 **Notice to End Users of the Services**
 
-Lifesize’s Services are intended for use by organizations and businesses. Most of the time, end users are employees of our Customers or other individuals who our Customers have a business or professional relationship with. If you are a registered user or guest user of the Services, your use of such Services is also subject to the Terms of Service between Lifesize and the Customer that has enabled and administered your access to the Services. In addition, your use of the Services may be subject to your organization’s policies (if any), and those policies may be different from this Privacy Policy. A copy of the Terms of Service is accessible at www.lifesize.com or by emailing privacy@lifesize.com. Capitalized terms used but not defined in this Privacy Policy have the meanings provided in the Terms of Services.
+Lifesize’s Services are intended for use by organizations and businesses. Most of the time, end users are employees of our Customers or other individuals who our Customers have a business or professional relationship with. If you are a user of the Services, your use of such Services is also subject to the Terms of Service between Lifesize and the Customer that has enabled and administered your access to the Services. In addition, your use of the Services may be subject to your organization’s policies (if any), and those policies may be different from this Privacy Policy. A copy of the Terms of Service is accessible at www.lifesize.com or by emailing privacy@lifesize.com. Capitalized terms used but not defined in this Privacy Policy have the meanings provided in the Terms of Services.
 
 If you access the Services through an account provided by an organization you are affiliated with, such as your employer or school, such organization may control and administer your Lifesize account, and access and process your personal information and data transmitted through the Services. Please be aware that your Account Administrator has the ability to access and review any recorded video calls, Chat transcripts, and Call Data Records. In addition, if you sign up for the Services using your work email address, your username will be visible to other users who have the same email domain or another domain enabled by your Account Administrator.
 
@@ -90,9 +90,9 @@ We also use your information to display your identity to other users during a vi
 
 Lifesize collects and processes personal information contained in Customer Content, including information related to:
 
-  * Video Calls and Virtual Meeting Rooms (“VMRs”): VMR titles, invitations, participants, VMR link, features used during the call, date, time and duration of the call. We transmit audio and video call content and screen sharing content between call participants during the call but we do not retain or store the content unless Lifesize Record and Share is activated by a participant. 
-  * Chat Transcripts: Chat content, sender and recipients, date, time, and read receipts. 
-  * Status: Status information, for example about whether and when you are logged-in to the Services, which you can choose to share with other users or disable. 
+  * _Video Calls and Virtual Meeting Rooms (“VMRs”):_ VMR titles, invitations, participants, VMR link, features used during the call, date, time and duration of the call. We transmit audio and video call content and screen sharing content between call participants during the call, but we do not retain or store the content unless Lifesize Record and Share is activated by a participant.
+  * _Chat Transcripts:_ Chat content, sender and recipients, date, time, and read receipts.
+  * _Status:_ Status information, for example about whether and when you are logged-in to the Services, which you can choose to share with other users or disable.
 
 
 
@@ -118,11 +118,11 @@ The Services will only make use of these permissions when you choose to enable t
 
 **Access and Data Retention of Personal Information Collected and Processed through the Services**
 
-Lifesize has no direct relationship with individual end users. If you seek access to or wish to correct, amend, update or delete personal information or data maintained in a Lifesize account, or if you wish to disable or delete your Lifesize account entirely, please contact your Account Administrator directly. If the Customer requests Lifesize’s assistance in modifying personal information or data in order to comply with applicable data protection regulations, Lifesize will respond to such request within a reasonable period of time.
+Lifesize has no direct relationship with individual end users who use Services through a Lifesize Customer. If you seek access to or wish to correct, amend, update or delete personal information or data maintained in a Lifesize Customer account, or if you wish to disable or delete your Lifesize account entirely, please contact your Account Administrator directly. If the Customer requests Lifesize’s assistance in modifying personal information or data in order to comply with applicable data protection regulations, Lifesize will respond to such request within a reasonable period of time. If you are using a free service, and you seek access to or wish to correct, amend, update or delete personal information or data maintained, or if you wish to disable or delete your Lifesize account entirely, please contact us using the information below in Section 10.
 
 Lifesize will retain personal information that we collect or process on behalf of a Customer for as long as needed to provide the Services to such Customer in accordance with the Terms of Service. Lifesize may also retain such information as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**SECTION 5: HOW WE USE YOUR PERSONAL INFORMATION**
+**5\. HOW WE USE YOUR PERSONAL INFORMATION**
 
 **Use of Personal Information**
 
@@ -133,8 +133,8 @@ Lifesize only uses your personal information for the purpose for which you provi
 Lifesize does not trade, rent or sell customer or user information to unaffiliated companies. However, because Lifesize is a global company, your personal information may be shared with other third parties around the world who work with or support Lifesize in its provision of products and Services. For example, we may disclose your personal information in connection with the following:
 
   * _Subsidiaries and Affiliates:_ Lifesize may disclose personal information to Lifesize’s subsidiaries and affiliates for the purposes described in this Privacy Policy.
-  * _Third Party Distributors and Resellers:_ Lifesize contracts with distributors, resellers and agents around the world to sell products and Services to Customers, and may disclose personal information to such partners for the purposes described above.
-  * _Shipping Providers:_ Lifesize hires shipping companies to efficiently deliver products to customers, and may provide them with only the personal information necessary for shipping and delivery purposes.
+  * _Third Party Distributors and Resellers:_ Lifesize contracts with distributors, resellers and agents around the world to sell products and Services to Customers and may disclose personal information to such partners for the purposes described above.
+  * _Shipping Providers:_ Lifesize hires shipping companies to efficiently deliver products to customers and may provide them with only the personal information necessary for shipping and delivery purposes.
   * _Service Providers:_ Lifesize may hire third party service providers to perform certain tasks and functions on its behalf. For example, Lifesize may use service providers to distribute email communications to you, provide data analysis, or host a data center. All service providers are subject to strict confidentiality, privacy and security obligations and process your information only on our behalf and subject to our instructions.
   * _Community and Social Media Platforms:_ If you post any information in public areas of the Website, such as community forums, blogs or other areas, it will be available to the public and we may reuse and republish such information at our discretion.
   * _Business Transfers:_ Lifesize may disclose information to another business entity in the event we plan to merge with or be acquired by that business entity; or to any organization involved in a merger, transfer, or sale of our assets or business.
@@ -145,11 +145,11 @@ Lifesize does not trade, rent or sell customer or user information to unaffiliat
 
 Before we disclose your personal information for reasons other than as described above, we will first obtain your consent, for example via e-mail, click-through, or an online opportunity to opt-out. In the event that we disclose your personal information to a third party, we will require such third party to protect and maintain your information in compliance with our policies and in accordance with applicable law. We hold our vendors responsible for complying with the law, and we routinely review their assertions, certifications and registrations relating to privacy and data security. Unless as otherwise provided by applicable law, Lifesize is only liable for third party breaches of this Privacy Policy if we fail in our due diligence.
 
-**SECTION 6: COOKIES**
+**6\. COOKIES**
 
 Lifesize and its third party service providers collect non-personal information about how you use the Website and Services through “cookies” (small text files that can be read by a web server in the domain that put the cookie on your hard drive), internet tags (e.g., web beacons) in the aggregate, and track navigational data. For more details, please read our [Cookie Compliance Management](https://web.archive.org/company/legal-notices/cookie-compliance) page. We also collect information such as the URL of the website you previously visited, the pages you visit within the Website and any transaction details (downloads, requests, etc.). This information is used to understand how you interact with the Website, and to help us optimize our marketing efforts including managing our advertising on other sites providing you ads based on your activities on the Website. If you wish to manage your preference of being served target ads, you may go to this [Consumer Opt-Out](http://optout.networkadvertising.org/?c=1#!/) page by the Network Advertising Initiative and use the tool to opt out of those companies. Please note that whatever your preference, you will continue to receive non-personalized ads. You may also set your browser to notify you when a cookie is set or to refuse or delete cookies altogether, but certain features of the Website might not work in this case.
 
-**SECTION 7: YOUR CONSENT & CHOICES**
+**7\. YOUR CONSENT & CHOICES**
 
 **Your Consent**
 
@@ -159,13 +159,13 @@ By using the Website and/or Services, you consent to Lifesize's use of your pers
 
 If you do not agree with this Privacy Policy or any of its terms, you may choose to not use the Website or Services. In addition, you have the ability to direct us to update or delete/deactivate certain information pertaining to you. You can also contact us to request removal of your personal information from the blog, community forums or other public areas on our Site. Lifesize may not be able to remove some or all of your personal information, in which case we will let you know why. Please contact us using the information in Section 10 below. For your protection, we may only implement requests with respect to the personal information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request.
 
-You may stop the delivery of marketing e-mails by following the unsubscribe instructions contained in the email received or at the [subscription management](https://pages.lifesize.com/PreferenceCenter.html) page on the Website. Lifesize will respond to your request to review the information we have on file for you within a reasonable period of time from receiving such request. We will also provide you the opportunity to opt-out of having your personal information used for certain purposes whenever we ask for this information.
+You may stop the delivery of marketing e-mails by following the unsubscribe instructions contained in the email received or at the subscription management page on the Website. Lifesize will respond to your request to review the information we have on file for you within a reasonable period of time from receiving such request. We will also provide you the opportunity to opt-out of having your personal information used for certain purposes whenever we ask for this information.
 
 **Consent to International Transfers of Data**
 
 Personal information may be stored and processed in the United States or in any other country in which Lifesize or its affiliates, subsidiaries or agents maintain facilities. By using the Website or Services, you consent to the collection, processing, maintenance and transfer of personal information outside of your country, including to the United States and other applicable regions in which the privacy laws may not be as comprehensive as or equivalent to those in the country where you reside.
 
-**SECTION 8: PROTECTION OF INFORMATION**
+**8\. PROTECTION OF INFORMATION**
 
 Lifesize is committed to the protection and security of your personal information. To ensure your personal information remains confidential and secure, every Lifesize employee is required to complete mandatory data security and privacy training. We also implement a variety of industry-standard technical and organizational measures, including SSL encryption, to secure your personal information from unauthorized access, use, loss or disclosure.
 
@@ -183,11 +183,11 @@ Please also be aware that it remains your responsibility to take the following p
 
 If you think that your account or personal information has been compromised, or if you have any questions or concerns about the security of your personal information, please contact us as soon as possible at [privacy@lifesize.com](mailto:privacy@lifesize.com). These policies are managed in accordance with https://www.privacyshield.gov.
 
-**SECTION 9: PRIVACY SHIELD CERTIFICATION**
+**9\. PRIVACY SHIELD CERTIFICATION**
 
 Lifesize complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework, each as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Lifesize has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov.
 
-**SECTION 10: ENFORCEMENT & DISPUTE RESOLUTION**
+**10\. ENFORCEMENT & DISPUTE RESOLUTION**
 
 Lifesize uses a self-assessment approach to assure compliance with this Privacy Policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, implemented and accessible. If you have any questions or concerns about Lifesize’s Privacy Policy or this Site, we encourage you to contact us at the following using the following information:
 
@@ -205,14 +205,18 @@ In compliance with the Privacy Shield Principles, Lifesize commits to resolve co
 
 _If, after first contacting our Privacy Officer and allowing us a reasonable amount of time to address your complaint, you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request. The dispute resolution process will be conducted in English._
 
+For EU and Swiss individuals, Lifesize commits to cooperate with EU Data Protection Authorities and the Swiss Federal Data Protection and Information Commissioner and comply with the advice given by such authorities with regard to unresolved Privacy Shield complaints concerning data transferred from the EU or Switzerland.
+
 Lifesize’s Privacy Policy under Privacy Shield and its implementation is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC). If a dispute cannot be resolved through other procedures, in some circumstances (as described more fully on the Privacy Shield website at https://www.privacyshield.gov/), you may invoke binding arbitration with the Privacy Shield Panel.
 
-**SECTION 11: CHILDREN'S PERSONAL INFORMATION**
+**11\. CHILDREN'S PERSONAL INFORMATION**
 
 Lifesize does not knowingly collect personal information from Website visitors or users of Lifesize’s products or Services who are under the age of 16. If we are made aware that we have such personal information, we will take reasonable steps to delete such information.
 
-**SECTION 12: CHANGES TO THIS STATEMENT**
+**12\. CHANGES TO THIS STATEMENT**
 
 This Privacy Policy is subject to change at any time by Lifesize, and we will notify you of any change by postings on the Website. We encourage you to review the Privacy Policy regularly for any changes and to be informed about how Lifesize is protecting your personal information. Your continued use of the Website and/or Services following the posting of modifications to this Privacy Policy constitutes acceptance of such modifications.
 
-**_Last Updated September 19, 2018_**
+* * *
+
+**_Last Updated November 7th, 2019_**
