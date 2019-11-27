@@ -1,35 +1,31 @@
-> *The following text is extracted and transformed from the millionairematch.com privacy policy that was archived on 2019-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190413010017id_/https%3A//millionairematch.com/privacy_policy_) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millionairematch.com privacy policy that was archived on 2019-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191127171456id_/https%3A//millionairematch.com/privacy_policy_) for the most accurate reproduction.*
 
 # Privacy Policy - MillionaireMatch
 
-### Privacy Policy
+### PRIVACY POLICY
 
-**Last Revised:** December 20, 2018
+**Last Revised:** October 15, 2019
 
-This Privacy Policy: (i) identifies how we use the Personal Data (defined below) you provide us and (ii) informs you of what choices you have with respect to our use of your Personal Data. Please contact us with any questions you have about this Privacy Policy at the e-mail address in the Contacting Us section below.
+This Privacy Policy: (i) identifies how we (SuccessfulMatch.com, 800 West El Camino Real, #180, Mountain View, CA 94040, USA) use the Personal Data (defined below) you provide us and (ii) informs you of what choices you have with respect to our use of your Personal Data. Please contact us with any questions you have about this Privacy Policy at the e-mail address in the Contacting Us section below. Capitalized terms not defined in this Privacy Policy have the meaning stated in the End User License Agreement.
 
   * 1.PERSONAL INFORMATION WE COLLECT
   * 2.HOW WE USE YOUR PERSONAL DATA
   * 3.CATEGORIES AND PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
-  * 4.PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
-  * 5.NON-PERSONAL DATA
-  * 6.WHO WE SHARE YOUR DATA WITH
-  * 7.OUR COMMITMENT TO DATA SECURITY
-  * 8.YOUR CHOICES
-  * 9.INTERNATIONAL TRANSFERS OF INFORMATION
-  * 10.YOUR RIGHTS
-  * 11.ADDITIONAL INFORMATION ABOUT YOUR RIGHTS
-  * 12.E.U. RESIDENTS AND E.U. U.S. PRIVACY SHIELD FRAMEWORK
-  * 13.DISPUTE RESOLUTION (E.U. RESIDENTS)
-  * 14.PRIVACY RIGHTS & DATA PROTECTION OFFICER
-  * 15.INFORMATION SECURITY & CONFIDENTIALITY
-  * 16.DATA RETENTION
-  * 17.NOTICE TO CANADIAN RESIDENTS
-  * 18.CALIFORNIA PRIVACY RIGHTS
-  * 19.OTHER SITES LINKED TO SERVICES
-  * 20.UPDATES
-  * 21.DOWNLOAD A COPY OF OUR PRIVACY POLICY.
-  * 22.CONTACT US
+  * 4.COOKIES
+  * 5.WHO WE SHARE YOUR DATA WITH
+  * 6.OUR COMMITMENT TO DATA SECURITY
+  * 7.YOUR CHOICES
+  * 8.INTERNATIONAL TRANSFERS OF INFORMATION
+  * 9.YOUR RIGHTS
+  * 10.ADDITIONAL INFORMATION ABOUT YOUR RIGHTS
+  * 11.DATA RETENTION
+  * 12.NOTICE TO CERTAIN INTERNATIONAL MEMBERS
+  * 13.CALIFORNIA PRIVACY RIGHTS
+  * 14.OTHER SITES LINKED TO SERVICES
+  * 15.QUESTIONS OR CONCERNS
+  * 16.UPDATES
+  * 17.DOWNLOAD A COPY OF OUR PRIVACY POLICY.
+  * 18.CONTACT US
 
 
 
@@ -37,9 +33,9 @@ This Privacy Policy: (i) identifies how we use the Personal Data (defined below)
 
         1.1  Personal Data. "Personal Data" is information that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. Personal Data is required when you use the register or create an Account; purchase merchandise; request information from us; sign up for e-mails or otherwise communicate with us. We may also connect Personal Data you provide by interacting with us through social media or other forums. 
 
-        1.2  Aggregated Data. We also collect, use and share aggregated data such as statistical or demographic data for any purpose ("Aggregated Data"). Aggregated Data may be derived from your Personal Data but is not considered Personal Data in law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing specific Service features. However, if we combine or connect Aggregated Data with your Personal Data so that it can directly or indirectly identify you, we treat the combined data as Personal Data which will be used in accordance with this Privacy Policy.
+        1.2  Aggregated Data. We also collect, use and share aggregated data such as statistical or demographic data for any purpose ("Aggregated Data"). Aggregated Data may be derived from your Personal Data but is not considered Personal Data by law as this data does not directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific Service feature. However, if we combine or connect Aggregated Data with your Personal Data so that it can directly or indirectly identify you, we treat the combined data as Personal Data which will be used in accordance with this Privacy Policy.
 
-        1.3  Special Categories. We do collect Special Categories of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, information about your health and/or genetic and biometric data).
+        1.3  Special Categories. We collect Special Categories of Personal Data about you (which may include details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, and information about your health).
 
 #### 2\.  HOW WE USE YOUR PERSONAL DATA
 
@@ -47,94 +43,83 @@ This Privacy Policy: (i) identifies how we use the Personal Data (defined below)
 
         (a)  To manage your Account;
 
-        (b)  To provide you with Services;
+        (b)  To provide you with our services, including customer services;
 
-        (c)  To improve customer service;
+        (c)  To maintain our services (including security, troubleshooting, testing, system maintenance, support, reporting, hosting of data, and blocking users);
 
-        (d)  To administer and maintain our Services (including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data);
+        (d)  To improve your match experience on our services, such as mutual match, recommendations, reverse match, etc.;
 
-        (e)  To contact you including sending information and updates relating to Services, questions or requests and/or for the provision of customer services;
+        (e)  To contact you including sending information and updates relating to our services, questions or requests and/or for the provision of customer services;
 
-        (f)  To use data analytics to improve our Services, user relationships and experiences.
-
-        (g)  To address problems with our Service and to protect the security or integrity our business. 
+        (f)  To use data analytics to improve user relationships and experiences.
 
 #### 3\.  CATEGORIES AND PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
 
         3.1  Data Categories
 
-        (i)  Account Data. Account Data includes first name, last name, username, marital status, age, gender and other preferences.
+        (i)  Account Data, including your phone number, username, and password.
 
-        (ii)  Contact Data. Contact Data includes billing address, email address and telephone numbers.
+        (ii)  Contact Data, including billing address, email address and telephone numbers.
 
-        (iii)  Payment Data. Payment Data includes payment card/account details.
+        (iii)  Payment Data, including payment card/account details, account verification data and transaction data.
 
-        (iv)  Technical Data. Technical Data includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our Service.
+        (iv)  Technical Data, including internet protocol (IP) address, your login data, device IDs, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our Service.
 
-        (v)  Profile Data. Profile Data includes your username, password and/or photos used in connection with your Account.
-
-        (vi)  Usage Data. Usage Data includes information about how you use our Service.
+        (v)  Profile Data, including your first name, last name, marital status, age, gender, other information and preferences you decide to add to your profile, including financial data and Special Categories of Personal Data, blog posts, photos used in connection with your Account, and information you provide in relation to specific services you request, such as Certified Millionaires and photograph verification.
 
         3.2  Purpose for use.
 
-        We identify the purpose for which we use your Personal Data as follows:
+        We use your Personal Data for the following purposes:
 
 | PURPOSE | DATA CATEGORY | BASIS FOR PROCESSING   
 ---|---|---  
-Account and Membership  | (a) Account Data  
+Account and membership management | (a) Account Data  
 (b) Contact Data  
-(c) Payment Data  | Required for Service and to provide you with customer service  
-Administration of Services | (a) Account Data  
-(b) Contact Data  |  (a) Performance of providing you with Service  
-(b) Necessary to comply with our legal obligations  
-(c) Necessary for our legitimate interests (to keep our records updated and to study how customers use our Service)   
-To contact you (including sending information and updates relating to our Service. | (a) Account Data  
-(b) Contact Data  
-(c) Usage Data  
-(d)Technical Data  | Necessary for our legitimate business interests (to study how users use our Service, and to develop and improve them)  
-To use data analytics to improve our Services, products/services, marketing, user relationships and experiences | (a) Technical Data (b) Usage Data  | Necessary for our legitimate business interests (to define types of users for our Service and to keep our Service updated)  
+(c) Payment Data  |  (a) Performance of the customer agreement  
+(b) Necessary to comply with our legal obligations (e.g., holding of tax and accounting records)   
+Provision of our matching services on the website and app, including customer services | All data categories |  (a) Performance of the customer agreement  
+(b) Consent for location data (obtained through your device settings)   
+To maintain our services | All data categories | Necessary for our legitimate business interests  
+To improve our services | All data categories | Necessary for our legitimate business interests  
+To contact you (including sending information and updates relating to our services) | (a) Account Data  
+(b) Contact Data  | Necessary for our legitimate business interests  
+To improve user relationships and experiences on the basis of data analytics | (a) Contact Data  
+(b) Technical Data  
+(c) Profile data  | Necessary for our legitimate business interests  
+Consent(cookies)   
+To monitor the use of our services and prevent blocked users from accessing the site or the information of other users. | All data categories | Necessary for our legitimate business interests  
   
-        (i)  Change of Purpose. 
-
         We will only use your Personal Data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose.
 
-        PLEASE NOTE THAT WE MAY PROCESS YOUR PERSONAL DATA WITHOUT YOUR KNOWLEDGE OR CONSENT, IN COMPLIANCE WITH THE ABOVE RULES, WHERE THIS IS REQUIRED OR PERMITTED BY LAW.
+        Please note that we may process your personal data without your knowledge or consent where this is required by law.
 
-#### 4\.  LIMITING OR PROHIBITING USE OF YOUR PERSONAL DATA
+#### 4\.  COOKIES
 
-DEPENDING ON YOUR JURISDICTION YOU MAY PARTIALLY OR WHOLLY OUT-UP OF HAVING YOUR PERSONAL DATA USED BY EMAILING US. PLEASE INCLUDE "OPT-OUT" IN THE SUBJECT LINE OF EACH OPT-OUT NOTIFICATION ALONG WITH A SHORT CONCISE DESCRIPTION SPECIFYING HOW YOU WOULD LIKE TO LIMIT OR RESTRICT THE PROCESSING OF YOUR PERSONAL DATA. PLEASE NOTE THAT RESTRICTING THE PROCESSING OF YOUR PERSONAL DATA WILL LIKELY IMPACT YOUR ABILITY TO ACCESS AND USE ALL FEATURES OF OUR SERVICE. 
+We may use a variety of technologies such as cookies, web beacons, embedded scripts, or other technologies to collect data about visits to and the user of our Service and interactions with our e-mails and online and mobile advertisements, to allow us to keep track of analytics and certain statistical information. Please consult our [Cookie Policy](https://www.millionairematch.com/cookie_policy_) for more information.
 
-#### 5\.  NON-PERSONAL DATA
-
-        5.1  Non-Personal Data. "Non-Personal Data" is data that is not associated with or linked to your Personal Data; and does not, by itself, permit the identification of individual persons. We may use a variety of technologies such as cookies, web beacons, embedded scripts, or other technologies to collect Non-Personal Data about visitors to, and users of, our Service and interactions with our e-mails and online and mobile advertisements, and to allow us to keep track of analytics and certain statistical information. This may include the following:
-
-        (a)  Analytics and Log Files. We may automatically collect certain information from you, including but not limited to your browser type, device type and model, operating system, unique device identifier of any of your computer(s) or device(s) that are used to access our Service, software version, Internet Protocol (IP) address, geo-location, preferred language, and the domain name from which you accessed our Service. PLEASE NOTE THAT YOUR IP ADDRESS MAY BE CONSIDERED PERSONAL DATA DEPENDING ON YOUR JURISDICTION. 
-
-        (b)  Cookies, Web Beacons, And Other Technologies. We use cookies and similar technologies (e.g., web beacons, pixels, ad tags and device identifiers) to recognize you and/or your device(s) on, off and across different services and devices. For detailed information on the cookies we use, the purposes for which we use them, please see below.
-
-                (i) Cookies. We use many different cookies on our site. If you do not know what cookies are, or how to control or delete them, then we recommend you visit aboutcookies.org for detailed guidance. Cookies allow us to identify and authenticate visitors, track aggregate behavior, and enable various Service features. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period, and we use that to identify you should you return to our website and want to find information that you had started even if you are not logged in, or don't have a user account. Persistent cookies may also be used if you click over from one of our affiliate partner websites - we will store a reference number identifying the website that referred you so they can get credit if you make a purchase - they do not receive any information about our clients ever, and the cookie contains no personal information. Session cookies are used to maintain your shopping state as you browse through our Service. We also contract with analytics services, third-party affiliate services, and third-party advertising companies to collect similar information for specific purposes. The use of cookies by our partners is not covered by this Privacy Policy. Though you may disable cookies through your web browser, doing so may prevent you from taking advantage of some of our Service features. To opt out of these collection services, please see the section "Your Choices" below. The use of cookies by our partners is not covered by this Policy. To opt out of the services related to these cookies, please see the section "Your Choices" below.
-
-                (ii)  Web Beacons/Tags. We automatically collect aggregate anonymous information through web beacons. We may also deliver a file to you through the websites (known as a "web beacon") from an advertising network with which we have contracted. Web beacons allow third-parties to provide anonymized, aggregated auditing, research, and reporting for us.
-
-#### 6\.  WHO WE SHARE YOUR DATA WITH
+#### 5\.  WHO WE SHARE YOUR DATA WITH
 
         We share your Personal Data as follows: 
 
         (a)  Service Providers. We may share your information with third-party service providers that provide business, professional, or technical support functions that make products, our Service available to you.
 
-        (b)  Third-Parties. We do not share Personal Data with third-parties for their direct marketing purposes without your permission. 
+        (b)  Third-Parties. We do not share Personal Data with third-parties for their direct marketing purposes without your permission. We may share information about you with your financial service provider in order to verify and make transactions and refunds. Finally, our services consist of making your profile data available to other users of our services in order to find Matches.
 
         (c)  Legal Matters; Safety. We may access and disclose your information to respond to subpoenas, judicial processes, or government requests and investigations, or regarding an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. We may disclose your information to protect the security of our Service including our servers, network systems, and databases. We also may disclose your information as necessary, if we believe that there has been a violation of our Agreement, any other legal document or contract related to our Service, or the rights of any third-party.
 
         (d)  Sale or Transfer of Business or Assets. We may sell or purchase assets during the normal course of our business. If another entity acquires us or any of our assets, the information we have collected about you may be transferred to such entity. In addition, if any bankruptcy or reorganization proceeding is brought by or against us, such information may be considered an asset of ours and may be sold or transferred to third-parties. 
 
-        (e)  Non-Personal Data. We may share Aggregate Data, anonymous, or de-identified Non-Personal Data with third-parties for their marketing or analytics uses.
+        (e)  Marketing Statistics and Analytics. We may share Aggregate Data, anonymous, or de-identified data with third-parties for their marketing or analytics uses.
 
-#### 7\.  OUR COMMITMENT TO DATA SECURITY
+        (f)  Our Affiliates. We may share information of blocked users with affiliated dating websites for testing purposes related to fraud prevention.
+
+#### 6\.  OUR COMMITMENT TO DATA SECURITY
 
         To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. We regularly monitor our systems for possible attacks and vulnerabilities, but we can’t warrant the security of the data you send us even with the safeguards we have put in place.
 
-#### 8\.  YOUR CHOICES
+        We maintain (and requires our subcontractors and service providers to maintain) appropriate organizational and technical measures designed to protect the security and confidentiality of any information we process. However, no organizational or technical measures are 100% secure so you should take care when disclosing information online and act reasonably to protect yourself online.
+
+#### 7\.  YOUR CHOICES
 
         You have the following choices regarding your Personal Data. To protect your privacy and security, we may take reasonable steps to verify your identity before any request for access or alteration of your Personal Data.
 
@@ -146,21 +131,21 @@ DEPENDING ON YOUR JURISDICTION YOU MAY PARTIALLY OR WHOLLY OUT-UP OF HAVING YOUR
 
         (d)  Opting out
 
-        (i)  E-mail. Any subscription to various marketing e-mails can be cancelled by clicking the "unsubscribe" links in the e-mails, changing preferences in the "Your Account" area online, or sending a request to the e-mail address in the Contacting Us section below.. 
+        (i)  E-mail. Any subscription to various marketing e-mails can be cancelled by clicking the "unsubscribe" links in the e-mails, changing preferences in the "Your Account" area online, or sending a request to the e-mail address in the Contacting Us section below.
 
-        (ii)  Analytics. You may learn more about opting-out of analytics by visiting https://mixpanel.com and http://www.flurry.com. 
+        (ii)  Location data. You can disable our collection of location data by changing the settings on your device.
 
-        (iii)  Cookies. You may disable, or delete cookies in your Web browser, but doing so may impact the usability of the website. To block cookies, you can also browse our Service using your browser's anonymous usage setting (called "Incognito" in Chrome, "In Private" for Internet Explorer, "Private Browsing" in Firefox and Safari etc.)
+        (iii)  Cookies. You may disable or delete cookies as explained in our [Cookie Policy](https://www.millionairematch.com/cookie_policy_).
 
-#### 9\.  INTERNATIONAL TRANSFERS OF INFORMATION
+#### 8\.  INTERNATIONAL TRANSFERS OF INFORMATION
 
-        Information collected in the European Economic Area ("EEA") may be transferred, stored and processed by us and our services providers in the United States and other countries whose data protection laws may be different than the laws of your country. Whenever we transfer your Personal Data out of the EEA, we ensure a similar degree of protection is afforded to it by ensuring at least one of the following safeguards is implemented. In particular, we will only transfer your personal data to countries that have been deemed to provide an adequate level of protection for Personal Data by the European Commission. For further details, see European Commission: Adequacy of the protection of personal data in non-EU countries. Where we use providers based in the U.S., we may transfer data to them if they are part of the Privacy Shield which requires them to provide similar protection to Personal Data shared between the Europe and the U.S. For further details, see European Commission: EU-US Privacy Shield on https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/eu-us-privacy-shield_en.
+        For users in the European Economic Area ("EEA"), Personal Data collected in the EEA may be transferred, stored and processed by us and our services providers in the United States and other countries whose data protection laws may be different than the laws of your country. These transfers are required to provide our services and to perform the agreement with you.
 
         Please contact us at the e-mail address in the Contacting Us section below if you want further information on the specific mechanism used by us when transferring your Personal Data out of the EEA.
 
-#### 10\.  YOUR RIGHTS
+#### 9\.  YOUR RIGHTS
 
-        Under certain circumstances, you have the following rights under Data Protection laws. To protect your privacy and security, we may take reasonable steps to verify your identity before any exercise of the following rights according to applicable law.
+        You have the following rights under Data Protection laws. To protect your privacy and security, we may take reasonable steps to verify your identity before any exercise of the following rights according to applicable law.
 
         (a)  Request access to your Personal Data (commonly known as a "data subject access request"). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
 
@@ -176,9 +161,11 @@ DEPENDING ON YOUR JURISDICTION YOU MAY PARTIALLY OR WHOLLY OUT-UP OF HAVING YOUR
 
         (g)  Right to withdraw consent. Withdraw consent at any time where we are relying on consent to process your Personal Data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain features of our Services to you. We will advise you if this is the case at the time you withdraw your consent.
 
+        (h)  Right to data portability. You may request us to transmit certain data we have about you (collected based on your consent or in order to provide you with our service) to another data controller in a structured, commonly used and machine-readable format (so long as this is technically feasible).
+
         If you wish to exercise any of the rights set out above, please contact us at the e-mail address in the Contacting Us section below.
 
-#### 11\.   ADDITIONAL INFORMATION ABOUT YOUR RIGHTS
+#### 10\.   ADDITIONAL INFORMATION ABOUT YOUR RIGHTS
 
          (a)  No fee usually required. You will not have to pay a fee to access your Personal Data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
@@ -186,54 +173,42 @@ DEPENDING ON YOUR JURISDICTION YOU MAY PARTIALLY OR WHOLLY OUT-UP OF HAVING YOUR
 
          (c)  Time limit to respond. We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-#### 12\.   E.U. RESIDENTS AND E.U. U.S. PRIVACY SHIELD FRAMEWORK
-
-         We comply with the E.U. U.S. Privacy Shield Framework and are committed to ensuring that we adhere to the following principals: Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. We are subject to the enforcement of the Federal Trade Commission and shall remain liability for harm caused in connection with our onward transfer of your data. To learn more about the E.U. U.S. Privacy Shield Framework, please visit the U.S. Department of Commerce website located at the following link: https://www.privacyshield.gov/welcome. We are committed to working with you to address questions, concerns or complaints you may have about this Privacy Policy or your Personal Data. For the avoidance of doubt, in the event there is a conflict between the Privacy Policy and the E.U. U.S. Privacy Shield Framework the terms of the E.U. U.S. Privacy Shield Framework shall govern. Please contact us at the e-mail address in the Contacting Us section below. if you have any questions or have an issue that you’d like to resolve.
-
-#### 13\.   DISPUTE RESOLUTION (E.U. RESIDENTS)
-
-         (a)  General. If you reside in E.U. and have any questions or concerns regarding the use or disclosure of Personal Data, you should first contact us for assistance. We will promptly investigate and attempt to resolve all complaints regarding our use of Personal Data. In the event we are unable to mutually resolve a complaint; we will work with you and agree to refer your complaint to an independent dispute resolution mechanism. In the event we are unable to resolve your claim, you should contact our U.S. based third-party dispute resolution provider free of charge at JAMS in SF. In certain instances conditions, described on the Privacy Shield’s website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
-
-         (b)  Questions and concerns. Any questions or concerns regarding the use or disclosure of Personal Data should first be directed us. We will promptly investigate and attempt to resolve all complaints regarding our use of Personal Data. In the event we are unable to mutually resolve a complaint; we will work with you and agree to refer your complaint to an independent dispute resolution mechanism. You may also work with the Data Protection Authority in your country http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm to assist with this process as well.
-
-#### 14\.   PRIVACY RIGHTS & DATA PROTECTION OFFICER
-
-         (a)  General. You may modify the information you have provided to us at any time through your Account. You can also opt-out of receiving marketing communications, deactivate, or delete your Account at any time.
-
-         (b)  Data Protection Officer. We have appointed a Data Protection Officer to ensure continued commitment to privacy and security practices. For further information please contact us at the e-mail address in the Contacting Us section below..
-
-#### 15\.   INFORMATION SECURITY & CONFIDENTIALITY
-
-        We maintain (and requires its subcontractors and service providers to maintain) appropriate organizational and technical measures designed to protect the security and confidentiality of any information we process. However, no organizational or technical measures are 100% secure so you should take care when disclosing information online and act reasonably to protect yourself online.
-
-#### 16\.   DATA RETENTION
-
-        How long will you use my Personal Data for?
+#### 11\.   DATA RETENTION
 
         We will only retain your Personal Data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, audit, reporting and/or corporate compliance requirements.
 
         To determine the appropriate retention period for Personal Data, we consider the amount, nature, and sensitivity of the Personal Data, the potential risk of harm from unauthorized use or disclosure of your Personal Data, the purposes for which we process your Personal Data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-#### 17\.   NOTICE TO CERTAIN INTERNATIONAL MEMBERS
+        Account and Profile data will be retained for six months after you closed your account (in case you want to re-open an account). After six months, it will be deleted. However, if you made payments, your Account data, Contact data and Payment data will be retained for seven years in order to comply with our accounting and tax obligations. Certain associated Profile and Technical Data may also be retained to protect the company against litigation.
+
+        When you close your account, we will disable the display of your photo on pages associated with your account. However, your contributions in blogs, forums or stories will remain on display unless you request us to delete this information.
+
+        Information about violations of the terms of our websites which have led to you being blocked, will be retained for 10 years together with your Account Data, Contact data and certain Technical Data, in order to prevent you from creating a new account.
+
+#### 12\.   NOTICE TO CERTAIN INTERNATIONAL MEMBERS
 
          If you are a citizen of Canada, Brazil or Mexico and have questions about the accuracy of information that we have collected about you, you can have access to that information in order to verify and update it, unless we are permitted or required under applicable laws to refuse your access to such information. You may write or email us the e-mail address in the Contacting Us section below
 
-#### 18\.   CALIFORNIA PRIVACY RIGHTS
+#### 13\.   CALIFORNIA PRIVACY RIGHTS
 
         Section 1798.83 of the California Civil Code entitles residents of California to request a notice detailing the categories of Personal Data that we have shared with third-parties for direct marketing purposes during the preceding calendar year, as well as the identity of those third-parties. To request a copy of your Personal Data maintained by us, please contact us as at the e-mail address in the Contacting Us section below.
 
-#### 19\.   OTHER SITES
+#### 14\.   OTHER SITES LINKED TO SERVICES
 
         Our Service may contain links to other sites that are not operated by us. If you click on a third-party link, you will be directed to that third-party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third-party sites or services.
 
-#### 20\.   UPDATES
+#### 15\.   QUESTIONS OR CONCERNS
+
+        For users in the EEA, any questions or concerns regarding the use or disclosure of Personal Data should first be directed to us via the email address provided in the CONTACT US section below. We will promptly investigate and attempt to resolve all complaints regarding our use of Personal Data. In the event we are unable to mutually resolve a complaint; we will work with you and agree to refer your complaint to an independent dispute resolution mechanism. You may also work with the Data Protection Authority in your country http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm to assist with this process as well.
+
+#### 16\.   UPDATES
 
         This Privacy Policy was last updated on the date identified above and we accordingly reserve the right to change or modify this policy at any time without prior notice, and we may apply any change in the Privacy Policy to information previously collected, as permitted by law. Please review our Privacy Policy before you provide any Personal Data and periodically on an ongoing basis. When we make material changes to this Privacy Policy, we will notify you by posting the updated Privacy Policy on our Service noting the "Last Revised" date at the top of the Privacy Policy. Your continued use of our Service after any changes or revisions to this Privacy Policy become effective shall indicate your agreement with the terms of the then-current Privacy Policy. 
 
-#### 21\.   DOWNLOAD A COPY OF OUR PRIVACY POLICY.
+#### 17\.   DOWNLOAD A COPY OF OUR PRIVACY POLICY.
 
         You can download a PDF version of our Privacy Policy here: https://www.millionairematch.com/privacy_policy_
 
-#### 22\.   CONTACT US
+#### 18\.   CONTACT US
 
         If there are any questions regarding this privacy policy, you may contact us via e-mail at [support@millionairematch.com](mailto:support@millionairematch.com).
