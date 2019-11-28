@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thiscrush.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507182456id_/http%3A//thiscrush.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thiscrush.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128172941id_/http%3A//thiscrush.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Last update: 15/05/2018Notice Version: 1.0
 
-This document governs the privacy notice of our website www.thiscrush.com. Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website. 
+This document governs the privacy notice of our website www.thiscrush.com and/or www.thiscruch.net. Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website. 
 
 Your Rights
 
@@ -171,7 +171,7 @@ We may also use a technology called web beacons to collect general information a
 
 Google Ad and Content Network Privacy Notice
 
-Third-party vendors, including Google, use cookies to serve ads based on a user's past visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [http://www.aboutads.info/choices/](https://www.aboutads.info/choices/) For European users visit [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+Third-party vendors, including Google, use cookies to serve ads based on a user's past visits to our website. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visits to our site and/or other sites on the Internet. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [http://www.aboutads.info/choices/](https://www.aboutads.info/choices/) For European users visit [http://www.youronlinechoices.eu](https://www.youronlinechoices.eu/)
 
 Google Analytics Privacy Notice
 
@@ -268,10 +268,7 @@ Questions About Our Privacy notice
 
 If you have any questions about our privacy notice, please contact us using the information at the top of this privacy notice. 
 
-Data Controller Contact Information  
-Landocs Capital  
-PO Box 2428,  
-Kiryat Ono Israel 55122  
+Algo Media Ltd.  
 support [at] thiscrush.com  
 
 
