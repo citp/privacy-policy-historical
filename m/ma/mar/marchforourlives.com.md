@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marchforourlives.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622224757id_/https%3A//marchforourlives.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marchforourlives.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128071439id_/https%3A//marchforourlives.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - March For Our Lives
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy explains the privacy practices governing information collected through the March For Our Lives, Inc. website (the “ **Site** ”) owned and operated by March For Our Lives, Inc. (“ **MFOL** ,” “ **we** ,” “ **our** ” or “ **us** ”).
 
-Please read this Privacy Policy carefully because when you submit information to or through the Site, you are consenting to the collection, processing and retention of your information as described in this Privacy Policy. Capitalized terms used but not defined herein have the meanings assigned to them in the [Terms of Use](http://marchforourlives.com/terms-of-use/).
+Please read this Privacy Policy carefully because when you submit information to or through the Site, you are consenting to the collection, processing and retention of your information as described in this Privacy Policy. Capitalized terms used but not defined herein have the meanings assigned to them in the [Terms of Use](https://marchforourlives.com/terms-of-use/).
 
 If you do not agree with any part of this Privacy Policy, please do not use the Site.
 
@@ -59,7 +59,7 @@ We may use your Personal Information to send you relevant promotions, personaliz
 
 ##### YOUR PRIVACY CHOICES AND ACCESS
 
-You may opt out of receiving email updates, newsletters or text messages by following the instructions in those emails or text messages, contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#96e6e4ffe0f7f5efd6fbf7e4f5fef0f9e4f9e3e4faffe0f3e5b8f5f9fb). If you opt out, we may still send you other types of emails, such as those about your use of the Site or any donations or transactions.
+You may opt out of receiving email updates, newsletters or text messages by following the instructions in those emails or text messages, contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#6313110a1502001a230e0211000b050c110c16110f0a1506104d000c0e). If you opt out, we may still send you other types of emails, such as those about your use of the Site or any donations or transactions.
 
 If you wish to verify, correct, or update any of your Personal Information collected through the Site, you may contact us at the email or address included in the Contact Us section below. In accordance with our routine record keeping, we may delete certain records that contain Personal Information that you have submitted through the Site. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups or other technology-related reasons.
 
@@ -69,7 +69,7 @@ The Site may contain links to other sites, maintained by third parties. These li
 
 ##### CHILDREN
 
-We do not knowingly collect information from children under 13 years of age. If we learn that a child under the age of 13 has provided us with any Personal Information without first receiving their parent or guardian’s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Site. We will then dispose of such Personal Information in accordance with this Privacy Policy. If you believe we may have any information from or about a child under the age of 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#afdfddc6d9ceccd6efc2ceddccc7c9c0ddc0daddc3c6d9cadc81ccc0c2).
+We do not knowingly collect information from children under 13 years of age. If we learn that a child under the age of 13 has provided us with any Personal Information without first receiving their parent or guardian’s verified consent, we will use that information only to respond directly to that child (or his or her parent or legal guardian) to inform the child that he or she cannot use the Site. We will then dispose of such Personal Information in accordance with this Privacy Policy. If you believe we may have any information from or about a child under the age of 13, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#c3b3b1aab5a2a0ba83aea2b1a0aba5acb1acb6b1afaab5a6b0eda0acae).
 
 ##### ACCESSING OUR SITE GLOBALLY – TRANSFER OF DATA
 
@@ -89,4 +89,4 @@ We may update and post revisions to this Privacy Policy from time to time and wi
 
 ##### CONTACT US
 
-If you have any questions or concerns about this Privacy Policy, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#68181a011e090b112805091a0b000e071a071d1a04011e0d1b460b0705).
+If you have any questions or concerns about this Privacy Policy, please contact us by email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1464667d6275776d54797566777c727b667b6166787d6271673a777b79).
