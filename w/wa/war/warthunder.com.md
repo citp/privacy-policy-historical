@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629093639id_/https%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128202737id_/https%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - War Thunder
 
@@ -8,7 +8,7 @@ This privacy policy explains what kind of information about you Gaijin Network L
 
 PLEASE READ THIS PRIVACY POLICY BEFORE CONTINUING TO USE THE GAME OR THE WEBSITE. BY CONTINUING TO USE THE GAME OR THE WEBSITE YOU WILL BE DEEMED TO HAVE ACCEPTED THIS PRIVACY POLICY.
 
-If, after reviewing this privacy policy, you still have any questions or privacy concerns please contact us at [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#e595978c9384869ca582848c8f8c8bcb8b8091). Please note that for security reasons your requests concerning rectification or erasure of your personal data shall be sent through our support service at: [https://support.gaijin.net](https://support.gaijin.net/).
+If, after reviewing this privacy policy, you still have any questions or privacy concerns please contact us at [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#c1b1b3a8b7a0a2b881a6a0a8aba8afefafa4b5). Please note that for security reasons your requests concerning rectification or erasure of your personal data shall be sent through our support service at: [https://support.gaijin.net](https://support.gaijin.net/).
 
 1\. DATA CONTROLLER
 
@@ -18,7 +18,7 @@ Controller’s name: Gaijin Network Ltd
 
 Address: Kyriakou Matsi, 10 Liliana Building, 2nd Floor Office 203, PC 1082 Nicosia, Cyprus
 
-Email: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#84f4f6edf2e5e7fdc4e3e5edeeedeaaaeae1f0)
+Email: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#9fefedf6e9fefce6dff8fef6f5f6f1b1f1faeb)
 
 Please note that for security reasons your requests concerning rectification or erasure of your personal data shall be sent through our support service at: [https://support.gaijin.net](https://support.gaijin.net/).
 
@@ -180,13 +180,13 @@ We have the right to continue to retain some of your user data even after comply
 
 6.5. The right to object
 
-You have the right to object to the processing of your personal data. Please let us know about your objections at: [[email protected].net](https://warthunder.com/cdn-cgi/l/email-protection#4c3c3e253a2d2f350c2b2d2526252262222938).
+You have the right to object to the processing of your personal data. Please let us know about your objections at: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#c9b9bba0bfa8aab089aea8a0a3a0a7e7a7acbd).
 
 6.6. Other rights
 
-You may have other rights in accordance with applicable legislation in your country (such as, for example, the right to data portability also being guaranteed for European users by the General Data Protection Regulations which became effective on 25 May 2018). To effectuate your other rights, please contact us at: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#ee9e9c87988f8d97ae898f87848780c0808b9a).
+You may have other rights in accordance with applicable legislation in your country (such as, for example, the right to data portability also being guaranteed for European users by the General Data Protection Regulations which became effective on 25 May 2018). To effectuate your other rights, please contact us at: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#f080829986919389b09791999a999ede9e9584).
 
-If you believe that your personal data rights have been violated, please let us know at: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#88f8fae1fee9ebf1c8efe9e1e2e1e6a6e6edfc). You also have the right to file a complaint with your local supervisory authority about any perceived violation of your personal data rights within the country of your location.
+If you believe that your personal data rights have been violated, please let us know at: [[email protected]](https://warthunder.com/cdn-cgi/l/email-protection#1464667d6275776d5473757d7e7d7a3a7a7160). You also have the right to file a complaint with your local supervisory authority about any perceived violation of your personal data rights within the country of your location.
 
 7\. THE PERSONAL DATA OF MINORS
 
