@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmtimes.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424125946id_/https%3A//www.mmtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmtimes.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128183044id_/https%3A//www.mmtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Myanmar Times
 
