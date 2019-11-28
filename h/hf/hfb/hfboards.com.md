@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hfboards.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402072539id_/http%3A//www.mandatory.com/privacy%3Fsite%3Dwww.hockeysfuture.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hfboards.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128142340id_/http%3A//www.mandatory.com/privacy%3Fsite%3Dwww.hockeysfuture.com) for the most accurate reproduction.*
 
 # Privacy Policy - Mandatory
 
@@ -186,6 +186,6 @@ We reserve the right to change this policy at any time. Please check this page p
 If you have questions about this privacy policy, please contact our legal team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection), or send mail to:
 
 Evolve Media, LLC  
-5140 W. Goldleaf Circle, Third Floor  
-Los Angeles, CA 90056  
+11390 West Olympic Blvd Suite 450  
+Los Angeles, CA 90064  
 Attn: General Counsel
