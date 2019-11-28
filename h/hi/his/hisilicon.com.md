@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hisilicon.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611140027id_/http%3A//www.hisilicon.com/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hisilicon.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128020132id_/http%3A//www.hisilicon.com/en/Privacy) for the most accurate reproduction.*
 
 # Privacy | HiSilicon
 
@@ -146,19 +146,21 @@ Legislation in some countries and regions in which HiSilicon provides products o
 
 1\. Requesting modes and channels
 
-Data subjects' requests must be submitted through HiSilicon designated privacy channels. Requests are valid regardless of whether the requester specifies the laws on which the requests are based. Data subjects can send requests to hisupport@huawei.com. 
+Data subjects' requests must be submitted through HiSilicon designated privacy channels. Requests are valid regardless of whether the requester specifies the laws on which the requests are based. Data subjects can send requests to support@hisilicon.com 
 
 2\. Validity of requests
 
 Most laws require that data subjects comply with specific requirements when initiating requests. This Statement requires data subjects to:
 
-(1) Send requests through the HiSilicon dedicated request submission channel (hisupport@huawei.com).
+(1) Send requests through the HiSilicon dedicated request submission channel (support@hisilicon.com).
 
 (2) Provide sufficient information for HiSilicon to verify their identity (to ensure the person who initiates the requests is the corresponding data subject or is authorized by them).
 
 (3) Ensure that their requests are specific and feasible.
 
 Under some circumstances, provided by laws and regulations, HiSilicon does not have to comply with the request in full or at all. 
+
+(4) Consent withdrawal. You can change the authorized personal data collection scope or withdraw your consent without affecting the lawfulness of the processing activities based on the consent granted prior to such withdraw.
 
 B. Deregistering a HiSilicon account
 
@@ -202,6 +204,6 @@ Should this Statement be revised, HiSilicon will release a change notice on vari
 
 ### X. How to Contact Us
 
-If you have any questions, comments, or suggestions about data privacy, please contact us by email at privacy_device_ic@hisilicon.com.
+If you have any questions or concerns about HiSilicon’s Privacy Policy or you would like to contact our European Data Protection representative, please contact us by email at privacy_device_ic@hisilicon.com. If you think that we are not processing your personal data in accordance with this Statement or the applicable data protection laws, you can lodge a complaint with your data protection authority, or the Cyberspace Administration of China）. Our address: [Room 101, 318 Shuxiu Road, Jinze Town, Qingpu District, Shanghai] .
 
 Copyright © 2019 HiSilicon(Shanghai) Technologies CO.,LIMITED. All rights reserved.
