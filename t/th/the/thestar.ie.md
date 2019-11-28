@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestar.ie privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624025656id_/http%3A//thestar.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestar.ie privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128192614id_/http%3A//thestar.ie/privacy) for the most accurate reproduction.*
 
 # Privacy | Irish Daily Star
 
@@ -6,7 +6,7 @@
 
   * INTRODUCTION 
     * This website (the “ **Site** ”) is operated by **[** Independent Star Limited **]** (“ **ISL** ”).
-    * This Privacy Statement together with the [Cookie Policy **,**](http://thestar.ie/?page_id=65) [Terms and Conditions](http://thestar.ie/?page_id=67) of use of the Site for thestar.ie provides guidance and information to users/visitors of our Website regarding the processing of personal data by ISL.
+    * This Privacy Statement together with the [Cookie Policy **,**](http://islltd3kaldev.wpengine.com/?page_id=65) [Terms and Conditions](http://islltd3kaldev.wpengine.com/?page_id=67) of use of the Site for islltd3kaldev.wpengine.com provides guidance and information to users/visitors of our Website regarding the processing of personal data by ISL.
     * The documents referred to in the Privacy Statement and Terms and Conditions sets out the basis on which any personal data we collect from you or that you provide to us (“ **Data** ”) in connection with the Site will be processed by us. Please read this Privacy Statement carefully to understand our treatment and use of Data.
     * The Privacy Statement applies to the operations of this Site operated by ISL, a company registered in the Republic Of Ireland under number 122550 and having its registered office at 27-32 Talbot Street, Dublin (hereinafter “ **ISL** ”, “ **us** “, “ **we** ” or “ **our** “). For the purposes of this agreement “ **ISL** ” shall mean Independent Star Limited plus any Subsidiaries thereof and “Subsidiaries” has the meaning given to it by section 7 of the Companies Act 2014.
     * _ISL_ and its associated companies are fully committed to protecting and respecting your privacy.
