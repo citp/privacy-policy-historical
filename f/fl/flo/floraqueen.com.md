@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2017-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170510192016id_/https%3A//www.floraqueen.com/privacy%23content-column-anchor-7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraqueen.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128111619id_/https%3A//www.floraqueen.com/privacy%23content-column-anchor-7) for the most accurate reproduction.*
 
-# Privacy and Legal - FloraQueen
+# Privacy and Legal
 
 FloraQueen Flowering the World S.L. (FloraQueen) is an organisation registered in the Registro Mercantil de Barcelona, volume 36,886, page 206, sheet B 29047, with the address of Calle Frederic Mompou, 3, 08960, Sant Just Desvern (Barcelona) and tax identification code B-63609051. Info (AT) floraqueen.com   
 We would like to remind you that these are the general terms and conditions relating to our websites, and their services, features, contents and applications. 
@@ -41,7 +41,4 @@ This website may contain hyperlinks to websites controlled by parties other than
 
 By using the FloraQueen’s website you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. If you do not agree with these changes, your sole recourse is to discontinue use of the website. 
 
-Occasionally, FloraQueen may also use the information we collect to notify you about important changes to our website, new services and special offers that you may find of interest. You will be given the opportunity to opt out of receiving these notices by clicking on a response box when you receive such notices or by sending us an email request at info@floraqueen.com. If you have any questions regarding FloraQueen policy please email us at info@floraqueen.com 
-
-We use our own and third-party cookies to offer you a better user experience while utilising our services, according to your browsing habits.   
-If you continue browsing, we consider you have accepted their use. You can find further details in our [Cookie Policy](https://www.floraqueen.com/privacy#content-column-anchor-7).
+Occasionally, FloraQueen may also use the information we collect to notify you about important changes to our website, new services and special offers that you may find of interest. You will be given the opportunity to opt out of receiving these notices by clicking on a response box when you receive such notices or by sending us an email request at info@floraqueen.com. If you have any questions regarding FloraQueen policy please email us at info@floraqueen.com
