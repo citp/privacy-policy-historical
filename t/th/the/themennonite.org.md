@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themennonite.org privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528220358id_/https%3A//themennonite.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themennonite.org privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128232339id_/https%3A//themennonite.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
