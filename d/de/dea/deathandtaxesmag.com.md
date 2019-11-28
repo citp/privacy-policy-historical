@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deathandtaxesmag.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517201026id_/https%3A//www.spin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deathandtaxesmag.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128130015id_/https%3A//www.spin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SPIN
 
