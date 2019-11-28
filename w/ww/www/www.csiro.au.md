@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.csiro.au privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404065251id_/https%3A//www.csiro.au/en/About/Access-to-information/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.csiro.au privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128052159id_/https%3A//www.csiro.au/en/About/Access-to-information/Privacy) for the most accurate reproduction.*
 
 # CSIRO and the Australian Privacy Principles - Privacy Policy - CSIRO
 
@@ -6,11 +6,11 @@ CSIRO is committed to protecting your personal information and complying with th
 
 ## Contact information
 
-Megan Fincher  
+Kate Maloney  
 Privacy Officer
 
 Phone:  
-+61 3 9545 2226
++61 2 6276 6158
 
 This document describes the policies and procedures that we have in place for the management and protection of personal information that CSIRO collects and holds. 
 
