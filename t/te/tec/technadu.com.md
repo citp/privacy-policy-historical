@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the technadu.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408113954id_/https%3A//www.technadu.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technadu.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128072354id_/https%3A//www.technadu.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# TechNadu's Privacy and Cookie Policy - TechNadu
+# TechNadu's Privacy and Cookie Policy | TechNadu
+
+This website uses cookies to ensure you get the best experience on our website. [Learn more](https://www.technadu.com/privacy-and-cookie-policy/)
 
 **Effective date** : 10th of May 2018
 
@@ -84,7 +86,7 @@ We WILL NOT send you any direct marketing communication, including newsletters, 
 **Opt-out from marketing communication.** In case you have provided us with your explicit consent to receive marketing communication, you can opt-out from receiving it at any time by:
 
   * Clicking on the “unsubscribe” link contained in any of our marketing emails sent to you; or
-  * Contacting us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#21424e4f5540425561554442494f4045540f424e4c).
+  * Contacting us directly at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#34575b5a40555740744051575c5a5550411a575b59).
 
 
   7. ### Protection of personal data
@@ -206,7 +208,7 @@ We reserve the right to amend this Privacy Policy from time to time by posting a
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-  * **Email:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b6d5d9d8c2d7d5c2f6c2d3d5ded8d7d2c398d5d9db)
+  * **Email:** [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#99faf6f7edf8faedd9edfcfaf1f7f8fdecb7faf6f4)
   * **Contact form:** <https://www.technadu.com/contact-us>
   * **Mail:** TechNadu, Kongu Nagar, Tiruppur – 7, Tamil Nadu 641607, India
 
