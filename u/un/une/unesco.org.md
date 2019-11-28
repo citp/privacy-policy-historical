@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unesco.org privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621223416id_/https%3A//en.unesco.org/this-site/our-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unesco.org privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128061832id_/https%3A//en.unesco.org/this-site/our-online-privacy-policy) for the most accurate reproduction.*
 
 # Our Online Privacy Policy
 
