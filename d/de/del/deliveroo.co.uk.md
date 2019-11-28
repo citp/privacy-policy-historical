@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliveroo.co.uk privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523083556id_/https%3A//deliveroo.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.co.uk privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128121404id_/https%3A//deliveroo.co.uk/privacy) for the most accurate reproduction.*
 
 # Deliveroo Privacy Policy - Deliveroo
 
@@ -60,7 +60,7 @@ Under data protection law, you may have a number of rights concerning the data w
 
 Any changes to our privacy policy will be posted to the Sites and, where appropriate, we will notify you of the changes for example by email or push notification.
 
-This privacy policy was last updated: 22/05/2018
+This privacy policy was last updated: 23/09/2019
 
 ## 14\. Complaints
 
