@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restorationgames.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127092237id_/https%3A//restorationgames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restorationgames.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128163429id_/https%3A//restorationgames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Restoration Games
 
