@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leakedpie.com privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425003438id_/http%3A//leakedpie.com/tos-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leakedpie.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128134730id_/https%3A//leakedpie.com/tos-and-privacy-policy) for the most accurate reproduction.*
 
 # Terms / Privacy Policy - Leaked Pie
 
@@ -6,7 +6,7 @@
 
 **Last updated: July 12, 2017**
 
-The information contained on http://leakedpie.com website (the “Service”, or “LeakedPie”) is for general information purposes only.
+The information contained on https://leakedpie.com website (the “Service”, or “LeakedPie”) is for general information purposes only.
 
 LeakedPie assumes no responsibility for errors or omissions in the contents on the Service.
 
@@ -20,7 +20,7 @@ LeakedPie does not warrant that the website is free of viruses or other harmful 
 
 ### External links disclaimer
 
-http://leakedpie.com website may contain links to external websites that are not provided or maintained by or in any way affiliated.
+https://leakedpie.com website may contain links to external websites that are not provided or maintained by or in any way affiliated.
 
 Please note that leakedpie.com does not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.
 
