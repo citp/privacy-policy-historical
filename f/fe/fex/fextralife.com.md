@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407133921id_/https%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fextralife.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129005612id_/https%3A//fextralife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fextralife
 
@@ -8,7 +8,7 @@ We are committed to safeguarding the privacy of our website visitors; this polic
 
   * You must be at least 18 years of age to use our website. By using our website and by agreeing to these terms of use, you warrant and represent that you are at least 18 years of age.
   * Our website uses cookies. By using our website and agreeing to these terms of use, you consent to our use of cookies in accordance with the terms of our privacy policy.
-  * Our websites uses advertisements provided by Google and other exchanges. These may use tracking cookies, which you can deny or accept by configuring your browser settings. You can opt out of cookies by clicking [here](http://www.aboutads.info/choices/) or [here](http://www.networkadvertising.org/choices/). EU/EEA users can use [this link](http://www.youronlinechoices.eu/).
+  * Our websites uses advertisements provided by Google and other exchanges. These may use tracking cookies, which you can deny or accept by configuring your browser settings. You can opt out of cookies by clicking [here](http://www.aboutads.info/choices/) or [here](https://www.networkadvertising.org/choices/). EU/EEA users can use [this link](http://www.youronlinechoices.eu/).
   * Our website registration requires a valid email address. **By registering to our website and agreeing to these terms of use, you specifically and actively subscribe to our newsletter and consent to receive emails from us in accordance with the terms of our[privacy policy](https://fextralife.com/privacy-policy/).**
   * By editing Fextralife Wikis or leaving a wiki comment, you specifically and actively agree to our [Wiki Contributor Agreement](https://fextralife.com/wiki-license/) and accept that your IP and edits will be recorded and archived.
   * Information regarding VIP subscriptions and its terms are on the [VIP page](https://fextralife.com/be-a-vip/).
@@ -54,7 +54,7 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google�
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp.
 
-You can also opt out of Google Analytics by [following this link](http://tools.google.com/dlpage/gaoptout).
+You can also opt out of Google Analytics by [following this link](https://tools.google.com/dlpage/gaoptout).
 
 Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third party cookies. For example, in Internet Explorer (version 9) you can refuse all cookies by clicking “Tools”, “Internet options”, “Privacy”, and selecting “Block All Cookies” using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites[, including this one.
 
