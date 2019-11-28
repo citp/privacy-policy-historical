@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computerworlduk.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606021959id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerworlduk.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128235846id_/http%3A//www.idg.co.uk/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # IDG UK : Privacy Policy
 
@@ -173,32 +173,27 @@ If you have any questions, concerns or complaints about IDGC’s personal data p
 
 If you believe you have suffered harm due to a breach of your rights by IDGC under this Privacy Policy, and IDGC has not handled your complaint in a reasonably sufficient manner, _any EU resident_ may also file a complaint with the applicable supervisory authority.
 
-The contact information for IDGC’s Data Protection Officer is:
-
-Mr. Keith Arnot
-
-c/o IDG Communications Ltd.
-
-101 Euston Road
-
-London NW1 2RA
-
-United Kingdom
-
-[GDPR@idgcommunications.com](mailto:GDPR@idgcommunications.com)
-
-IDGC has also designated a Representative _in the EU_ :
+The contact information for IDG’s Data Protection Officer is:
 
 Mr. John McGill
 
-c/o IDG Direct
-
+c/o IDG Direct  
 Millennium House  
 Great Strand Street  
 Dublin 1  
 Ireland
 
-GDPRrepresentative@idgcommunications.com
+[GDPR@idgcommunications.com  
+](mailto:GDPR@idgcommunications.com)
+
+IDGC has also designated a Representative in the EU:
+
+IDG Communications Media AG  
+Lyonel-Feininger-Strasse 26  
+Munich 80807  
+Germany
+
+[GDPRrepresentative@idgcommunications.com](mailto:GDPRrepresentative@idgcommunications.com)
 
 **Feedback**
 
