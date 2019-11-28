@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litreactor.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511075632id_/https%3A//litreactor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litreactor.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128221226id_/https%3A//litreactor.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | LitReactor
 
@@ -40,4 +40,4 @@ We may disclose personal information to third parties we engage to provide servi
 
 ###  Contacting the Web Site: 
 
-If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at webmaster@litreactor.com or contact us LitReactor, LLC, PO Box 291870, Los Angeles, CA 90029. 
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact our Web Site Administrator at webmaster@litreactor.com or contact us LitReactor, LLC, 5404 Whitsett Ave., #175, Valley Village, CA 91607, USA. 
