@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairview.org privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327082337id_/https%3A//www.fairview.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairview.org privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128110932id_/https%3A//www.fairview.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statements
 
@@ -6,11 +6,11 @@
 
 This notice describes how health information about you may be used and disclosed and how you can obtain access to this information.
 
-Please call the Fairview privacy office if you have questions about this notice: **612-672-5647**
-
 [Joint Notice of Privacy Practices](http://www.fvfiles.com/191870kit.pdf) 
 
 [List of entities covered by this notice](https://web.archive.org/~/media/Fairview/PDFs/About/Entities-Subject-to-the-Joint-Notice-of-Privacy-Practices.ashx?la=en)
+
+[Electronic Health Record](https://www.fairview.org/Medical-Records/Electronic-Health-Record)
 
 See also our [Legal Notice Statement](https://web.archive.org/about/legal).
 
