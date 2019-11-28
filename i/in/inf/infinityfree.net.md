@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinityfree.net privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622113549id_/https%3A//infinityfree.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinityfree.net privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129005040id_/https%3A//infinityfree.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - InfinityFree
 
@@ -118,8 +118,6 @@ We use multiple web analytics tools provided by service partners such as Google 
 These tools place persistent cookies in your browser to identify you as a unique user the next time you visit our website. Each cookie cannot be used by anyone other than the service provider (eg: Facebook and Google for Google Analytics). The information collected from the cookie may be transmitted to and stored by these service partners on servers in a country other than the country in which you reside. Though information collected does not include personal data such as name, address, billing information, etc., the information collected is used and shared by these service providers in accordance with their individual privacy policies.
 
 You can control the technologies we use by utilizing settings in your browser or third-party tools, such as Disconnect, Ghostery and others.
-
-InfinityFree.net uses a third party technology called Ezoic. The Ezoic service privacy policy can be found here: <https://g.ezoic.net/privacy/infinityfree.net>
 
 #### Targeted advertisements
 
