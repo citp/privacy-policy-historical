@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the football-italia.net privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601032030id_/https%3A//www.football-italia.net/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-italia.net privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128123257id_/https%3A//www.football-italia.net/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Football Italia
 
