@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piksel.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411234851id_/https%3A//pikselgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piksel.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128180323id_/https%3A//pikselgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Piksel Group
 
