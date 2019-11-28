@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lkrsocialmedia.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825133313id_/https%3A//meetedgar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lkrsocialmedia.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128220147id_/https%3A//meetedgar.com/privacy) for the most accurate reproduction.*
 
 # MeetEdgar Privacy Policy
 
