@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clashmusic.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402212103id_/http%3A//www.clashmusic.com/news/clash-privacy-notice-gdpr-data-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clashmusic.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128085230id_/http%3A//www.clashmusic.com/news/clash-privacy-notice-gdpr-data-policy) for the most accurate reproduction.*
 
 # Clash Privacy Notice & GDPR Data Policy | News | Clash Magazine
 
