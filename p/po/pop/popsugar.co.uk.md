@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the popsugar.co.uk privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617000714id_/https%3A//www.popsugar.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsugar.co.uk privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128210801id_/https%3A//www.popsugar.co.uk/privacy) for the most accurate reproduction.*
 
 # POPSUGAR Privacy Policy (EU) | POPSUGAR UK
 
-**Effective Date: January 17, 2019**
+**Effective Date: October 28, 2019**
 
 **This Privacy Policy (EU) applies to all users of the POPSUGAR Services in the European Union only. Please review this privacy policy carefully before using the POPSUGAR Services. By using any of the POPSUGAR Services in the EU, you consent to the terms of the updated Privacy Policy (EU). Use of POPSUGAR Services by users located outside the European Union is governed by our[Non-EU Privacy Policy](https://www.popsugar.com/privacy).**
 
@@ -10,7 +10,7 @@
 
 ### Key points:
 
-➢ Sugar Inc UK Limited is the data controller of user information processed through your use of our website and related services. For our POPSUGAR [Voices](https://www.popsugar.co.uk/voices) or Influencer platforms, both Sugar Inc UK Limited and POPSUGAR Inc. act as independent data controllers with respect to your user information.
+➢ Sugar Inc UK Limited is the data controller of user information processed through your use of our website and related services. For our POPSUGAR [Voices](https://www.popsugar.co.uk/voices) or Influencer platforms, both Sugar Inc UK Limited and POPSUGAR Inc. act as independent data controllers with respect to your user information. 
 
 ➢ The type of the user information processed by POPSUGAR includes information that you provide when using our site or services, technical information about your device, settings and website use, and information that we receive from third parties, such as other website providers, ad networks and social media companies.
 
@@ -368,9 +368,10 @@ Most user information collected through our Services will also be processed by P
 Contact details of Sugar Inc UK Limited:
 
 Sugar Inc UK Limited  
-2nd Floor Moray House  
-23-31 Great Titchfield Street  
-London W1W 7PA  
+WeWork Soho  
+Sheraton House  
+14-16 Great Chapel Street  
+London W1F 8FL  
 United Kingdom
 
 Contact details of POPSUGAR Inc.:
