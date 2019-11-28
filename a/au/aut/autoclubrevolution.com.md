@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the autoclubrevolution.com privacy policy that was archived on 2017-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171220210225id_/http%3A//autoclubrevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoclubrevolution.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128190533id_/https%3A//autoclubrevolution.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - The Online Racing Game and Car Community
+# Privacy Policy - Auto Club Revolution | #1️⃣ in Gaming, Movies, TV, Sport and Comics
+
+## Privacy Policy And Consent To Use Of Data
 
 ### IMPORTANT: BY SUBMITTING DATA TO US AND/OR USING THE AUTO CLUB REVOLUTION WEB SITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED IN THE FOLLOWING PRIVACY POLICY.
+
+### Privacy Policy
 
 This Privacy Policy describes Eutechnyx’s current policies and practices with regard to Personal Data collected by Eutechnyx manually or through all of Eutechnyx web sites (the “Web Site”). The term “Personal Data” refers to any information which identifies you as an individual such as your name, birth date, e-mail address or mailing address. (as further defined in Data Protection Act 1998).
 
@@ -34,7 +38,7 @@ Each mailing we send to you will contain instructions on how you can opt-out of 
 
 ### Opt-out choice
 
-If you do not wish to receive information from us and want to be removed from our standard mailing list, please e-mail us at [jason.nguyen79@outlook.com](mailto:jason.nguyen79@outlook.com). We will reply by e-mail to confirm that your details have been removed or, if that is not possible, the reasons for not doing so. It may not always be possible for us to completely remove your details from our system as to do so may render us in breach of data protection law and guidelines. Your details will however be suppressed and you will receive no further mailings from us.
+If you do not wish to receive information from us and want to be removed from our standard mailing list, please e-mail us at [info@eutechnyx.com](https://web.archive.org/web/20140210040037/mailto:info@eutechnyx.com). We will reply by e-mail to confirm that your details have been removed or, if that is not possible, the reasons for not doing so. It may not always be possible for us to completely remove your details from our system as to do so may render us in breach of data protection law and guidelines. Your details will however be suppressed and you will receive no further mailings from us.
 
 ### Anonymous data collected through this Web Site
 
@@ -48,7 +52,7 @@ We will never share your personal information with third parties without your co
 
 ### Cookies
 
-In order to collect the anonymous data described in the preceding paragraph, we may use temporary “cookies” that collect your IP address and the date and time you accessed this Web Site. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. You can also set your browser to refuse to accept cookies though most are initially set to accept cookies. If you set your browser to refuse cookies you may not be able to take full advantage of all parts of this Web Site. If you do not set your browser to refuse cookies it is implied that you consent to their use. For more information about cookies and how to disable them please go do [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org").
+In order to collect the anonymous data described in the preceding paragraph, we may use temporary “cookies” that collect your IP address and the date and time you accessed this Web Site. Cookies by themselves cannot be used to discover the identity of the user. A cookie is a small piece of information which is sent to your browser and stored on your computer’s hard drive. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. You can also set your browser to refuse to accept cookies though most are initially set to accept cookies. If you set your browser to refuse cookies you may not be able to take full advantage of all parts of this Web Site. If you do not set your browser to refuse cookies it is implied that you consent to their use. For more information about cookies and how to disable them please go do [www.allaboutcookies.org](https://web.archive.org/web/20140210040037/http://www.allaboutcookies.org/ "www.allaboutcookies.org").
 
 We also use your IP address to help diagnose problems with our server and to administer our Web Site. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information, such as determining how many of our visitors are from outside of the UK.
 
@@ -82,7 +86,7 @@ The employees who have access to Personal Data have been trained to handle such 
 
 Upon receipt of your written request and enough information to permit us to identify your Personal Data, we will disclose to you the Personal Data we hold about you. We will also correct, amend or delete any Personal Data that is inaccurate and notify any third party recipients of the necessary changes.
 
-If you wish to access or correct your Personal Data, please write to our data protection officer Darren Jobling at Eutechnyx or e-mail us at [jason.nguyen79@outlook.com](mailto:jason.nguyen79@outlook.com) We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover our costs. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations imposed on us.
+If you wish to access or correct your Personal Data, please write to our data protection officer Darren Jobling at Eutechnyx or e-mail us at [info@eutechnyx.com](https://web.archive.org/web/20140210040037/mailto:info@eutechnyx.com) We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover our costs. Requests to delete Personal Data are subject to any applicable legal and ethical reporting or document retention obligations imposed on us.
 
 ### Link to other web sites
 
@@ -94,10 +98,14 @@ We may, from time to time, transfer your Personal Data outside the European Econ
 
 Of course, the Internet is made up of a large number of international connections. If you are visiting this Web Site from a country other than the country in which our server is located, the various communications will necessarily result in the transfer of information across international boundaries. By visiting this Web Site and communicating electronically with us, you consent to these transfers.
 
+### Governing Law
+
+This privacy policy forms part of our Web Site Terms of Use ([CLICK HERE TO ACCESS OUR TERMS OF USE](https://web.archive.org/web/20140210040037/http://autoclubrevolution.com:80/terms)) and as such shall be governed by and construed in accordance with the laws of England. You agree to submit any dispute arising out of your use of this Web Site to the exclusive jurisdiction of the courts of England and Wales.
+
 ### Data Protection Register
 
 Eutechnyx Limited has notified the Information Commissioner of its data processing activities. Its registration number is Z6097647.
 
 ### Questions
 
-If you have any questions about this Privacy Policy or concerns about the way we process your Personal Data, please contact us by e-mailing us at [jason.nguyen79@outlook.com](mailto:jason.nguyen79@outlook.com).
+If you have any questions about this Privacy Policy or concerns about the way we process your Personal Data, please contact us by e-mailing us at [info@eutechnyx.com](https://web.archive.org/web/20140210040037/mailto:info@eutechnyx.com).
