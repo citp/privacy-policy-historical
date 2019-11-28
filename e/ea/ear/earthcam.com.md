@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthcam.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521174507id_/https%3A//www.earthcam.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthcam.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128100021id_/https%3A//www.earthcam.com/company/privacy.php) for the most accurate reproduction.*
 
 # EarthCam - Webcam Network
 
