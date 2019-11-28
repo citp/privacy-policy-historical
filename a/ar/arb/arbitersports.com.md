@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arbitersports.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612184146id_/https%3A//www.arbitersports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arbitersports.com privacy policy that was archived on 2019-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191128224750id_/https%3A//www.arbitersports.com/privacy-policy) for the most accurate reproduction.*
 
 # ArbiterSports - Privacy Policy
 
