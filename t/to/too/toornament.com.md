@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toornament.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601222929id_/https%3A//www.toornament.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toornament.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129082419id_/http%3A//toornament.com/en_GB/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Toornament - The eSport platform
+# Privacy Policy | Toornament - The esports technology
 
 Last Modified: May 23, 2018 
 
@@ -40,7 +40,7 @@ When you visit the Website or use some Services, we may install and store cookie
 
 Cookies are often use to improve the visit of the users (for example to temporarily remember your session in order to not ask you to fill this information again each time you visit the Website or go to one page to another). Some other cookies are used to generate statistics or to remember your preferences. 
 
-For more information concerning the cookies, please see: [https://www.toornament.com/cookies](https://web.archive.org/cookies). 
+For more information concerning the cookies, please see: [https://www.toornament.com/en_GB/cookies](https://web.archive.org/en_GB/cookies). 
 
 ## What are the purposes of collecting your Personal Data?
 
