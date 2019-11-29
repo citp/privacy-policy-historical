@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsemi.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617191601id_/https%3A//www.microsemi.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsemi.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129095619id_/https%3A//www.microsemi.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Company
 
