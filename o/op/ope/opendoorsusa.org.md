@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330194759id_/https%3A//www.opendoorsusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendoorsusa.org privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129050541id_/https%3A//www.opendoorsusa.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Open Doors USA
+# Privacy Policy - Open Doors USA - Open Doors USA
 
 Open Doors with Brother Andrew and its subsidiaries and affiliates (collectively, “ODUSA”), respect your concerns about privacy. This Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our collection, use and disclosure of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. The phrase “personal information” refers to information by which you or the device you are using to connect to the Internet can be identified.
 
@@ -71,25 +71,25 @@ We do not sell or otherwise disclose personal information about you, except as d
 
 We offer you certain choices about what information we collect from you, how we use and disclose the information, and how we communicate with you. You may withdraw any consent you previously provided to us or object at any time on legitimate grounds to the processing of your personal information. We will apply your preferences going forward. In some circumstances, withdrawing your consent to ODUSA’s use or disclosure of your personal information will mean that you cannot take advantage of certain ODUSA offerings or site features. **Here are the choices that ODUSA offers:**
 
-> **Marketing Emails**
+ **Marketing Emails**
 
-> You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in the marketing emails or by adjusting your email preferences using the online account you may establish on our sites. To adjust your current settings, please email us at usa@opendoors.org
+You may choose not to receive marketing email communications from us by clicking on the unsubscribe link in the marketing emails or by adjusting your email preferences using the online account you may establish on our sites. To adjust your current settings, please email us at usa@opendoors.org
 
-> **Web Analytics**
+ **Web Analytics**
 
-> You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by clicking [here](https://www.blog.google/technology/safety-security/making-it-easier-control-your-data-directly-google-products/).
+You may opt out of the aggregation and analysis of data collected about you on our sites by our web analytics vendor by clicking [here](https://www.blog.google/technology/safety-security/making-it-easier-control-your-data-directly-google-products/).
 
-> **Advertising Networks**
+ **Advertising Networks**
 
-> You may opt out of the use of us targeting advertisements to you from 3rd party advertising networks (see “Online Advertising” section for more information), you may do so by clicking [here](https://www.blog.google/technology/safety-security/making-it-easier-control-your-data-directly-google-products/).
+You may opt out of the use of us targeting advertisements to you from 3rd party advertising networks (see “Online Advertising” section for more information), you may do so by clicking [here](https://www.blog.google/technology/safety-security/making-it-easier-control-your-data-directly-google-products/).
 
-> **Geo-Location Information**
+ **Geo-Location Information**
 
-> When you use an ODUSA application on your mobile device, you may choose not to share your geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
+When you use an ODUSA application on your mobile device, you may choose not to share your geo-location details with us by adjusting the device’s location services settings. For instructions on changing the relevant settings, please contact your service provider or device manufacturer.
 
-> **Cookies**
+ **Cookies**
 
-> Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of our sites’ features. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics or targeted advertising opt-outs. You may also remove stored cookies via your web browser to remove cookies.
+Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all of our sites’ features. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics or targeted advertising opt-outs. You may also remove stored cookies via your web browser to remove cookies.
 
 #### Your California Privacy Rights
 
@@ -121,7 +121,7 @@ This Privacy Policy may be updated periodically and without prior notice to you 
 
 If you have any questions or comments about this Privacy Policy, or if you would like us to update information we have about you or your preferences, please contact us at [privacy@odusa.org](mailto:privacy@odusa.org)
 
-**You also may write to us at**  
+ **You also may write to us at**  
 Open Doors USA  
 PO Box 27001  
 Santa Ana, CA 92799
