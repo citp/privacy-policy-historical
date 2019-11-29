@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the explorable.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521162249id_/https%3A//explorable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorable.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129083942id_/https%3A//explorable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use Explorable.com, as well as some of the steps we take to safeguard information. We hope this will help you be informed about what personal information you share when using Explorable.com.
 
 We at explorable.com strive to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our online visitors' privacy on our website.
 
@@ -64,7 +62,7 @@ Your use of this site indicates acceptance of our terms and our privacy policy.
 
 ## General Data Protection Regulation (GDPR)
 
-At Explorable.com, accessible from [https://Explorable.com](https://explorable.com/ "https://Explorable.com"), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Explorable.com and how we use it.
+At Explorable.com, accessible from [https://Explorable.com](https://explorable.com/), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Explorable.com and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us through email at [info@explorable.com](mailto:info@explorable.com).
 
@@ -106,7 +104,7 @@ You can learn how to manage cookies on your web browser by following the [Browse
 
 ## Google DoubleClick DART Cookie
 
-Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to [www.website.com](http://www.website.com/ "www.website.com") and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <https://policies.google.com/technologies/ads>
+Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to [www.website.com](http://www.website.com/) and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL – <https://policies.google.com/technologies/ads>
 
 ## Our Advertising Partners
 
