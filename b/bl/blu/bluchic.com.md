@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluchic.com privacy policy that was archived on 2018-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181006222943id_/https%3A//www.bluchic.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluchic.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129144612id_/https%3A//www.bluchic.com/terms) for the most accurate reproduction.*
 
 # Terms & Privacy Policy - Bluchic
 
@@ -161,7 +161,7 @@ However, we may, from time to time, process your data internally. The legal basi
 
 **INTERNATIONAL DATA**
 
-Our website is hosted by servers located in the U.S. Therefore, if you reside in the European Union, some of your data will be transferred internationally to those servers. Transfers will be protected by appropriate safeguards, namely the EU-US Privacy Shield. More information on the Privacy Shield can be found at:​https://www.privacyshield.gov/welcome.
+Our website is hosted by servers located in the U.S. Therefore, if you reside in the European Union, some of your data will be transferred internationally to those servers. Transfers will be protected by appropriate safeguards, namely the EU-US Privacy Shield. More information on the Privacy Shield can be found at:​<https://www.privacyshield.gov/welcome>.
 
 We use website hosting servers/third party processors/subcontractors located in GREAT BRITAIN, UNITED STATES, LITHUANIA has received an Adequacy Determination from the European Commission, meaning that appropriate safeguards are in place to protect data once it is transferred to that country.
 
@@ -236,4 +236,4 @@ These terms, conditions and privacy policy are governed by and construed in acco
 **CONTACT INFORMATION**  
 Email: [hello@bluchic.com](mailto:hello@bluchic.com)
 
-_Last updated: 17th May 2018_
+_Last updated: 25th January 2019_
