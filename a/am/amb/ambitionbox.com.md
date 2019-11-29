@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ambitionbox.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621061236id_/https%3A//www.ambitionbox.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambitionbox.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129135937id_/https%3A//www.ambitionbox.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AmbitionBox (Naukri.com)
 
-[AmbitionBox |](https://web.archive.org/)[Reviews](https://www.ambitionbox.com/reviews "Company reviews by employees")[Salaries](https://www.ambitionbox.com/salaries "Company Salaries")[Interviews](https://www.ambitionbox.com/interviews "Interview Questions")[Salary Calculator](https://www.ambitionbox.com/salaries/take-home-salary-calculator "Salary Calculator")[Practice Tests](https://www.ambitionbox.com/topics/aptitude/questions-and-answers "Aptitude questions & answers")
+[AmbitionBox |](https://web.archive.org/)[Companies](https://web.archive.org/list-of-companies "List of companies in India")[Reviews](https://www.ambitionbox.com/reviews "Company reviews by employees")[Salaries](https://www.ambitionbox.com/salaries "Company Salaries")[Interviews](https://www.ambitionbox.com/interviews "Interview Questions")[Salary Calculator](https://www.ambitionbox.com/salaries/take-home-salary-calculator "Salary Calculator")[Practice Tests](https://www.ambitionbox.com/topics/aptitude/questions-and-answers "Aptitude questions & answers")
 
 This Privacy policy is subject to the Terms of Use of www.AmbitionBox.com (the “Website”). The Website is owned and operated by Info Edge (India) Limited.
 
