@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ftccomplaintassistant.gov privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522221151id_/http%3A//www.ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ftccomplaintassistant.gov privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129164136id_/http%3A//www.ftc.gov/ftc/privacy.shtm) for the most accurate reproduction.*
 
 # Privacy Policy | Federal Trade Commission
 
