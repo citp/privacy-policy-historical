@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jjill.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607141140id_/https%3A//www.jjill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jjill.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129083958id_/https%3A//www.jjill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-February 1, 2019
+October 1, 2019
 
 At J.Jill, we understand your concerns about online security and privacy and appreciate the trust you place in our company. We seek to ensure that your personal and payment information is secure and that your privacy is respected. We hope this policy statement provides you with answers to the questions you may have about our policies. If you have further questions, please contact us by phone at **1.800.343.5700** or email us anytime. 
 
@@ -24,7 +24,7 @@ At J.Jill, we want to provide you with the best possible shopping experience. Wh
 
 Currently, we also gather online information about your purchases and shopping activities to improve the content of our web site, to enhance your online shopping experience, to improve our product selection, and to use in future marketing and promotional activities for our web site, our catalogs and our J.Jill stores.  We may use this information to better understand your shopping preferences and provide you with more relevant offers, information and promotions. 
 
-###  information we share with others 
+###  information we share with others and your right to opt-out
 
 In some instances, we use third party companies to provide services for us, including providing customer and Internet services, taking and fulfilling orders, conducting J.Jill promotions and surveys, assisting in maintaining and managing customer information, and communicating effectively with our customers. These third party companies are given access to the information they need to provide these services, and may use cookies in order to do so.
 
@@ -32,7 +32,7 @@ If you apply for the J.Jill credit card online, you provide the personal informa
 
 We may use third-party service providers to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to more accurately target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected or used in this process.   While www.jjill.com is not configured to recognize a “do not track” signal from you browser, you do have choices regarding behavioral advertising.  If you would like more information about this practice and your choices for opting out, [click here](http://optout.networkadvertising.org/#!/).
 
-From time to time, J.Jill may also share information collected, including our catalog mailing lists, with other reputable third-party organizations whose products or services we feel may be of interest to you. You may opt-out of this sharing if you choose.  If you would like more information about this practice and your choices for opting out, contact us by phone at 1.800.343.5700.
+From time to time, J.Jill may sell or share personal information about its customer with third parties whose products or services we feel may be of interest. If you would like to opt-out of this practice, please email your contact information (name, postal address, phone number and email) to [privacyrequest@jjill.com](mailto:privacyrequest@jjill.com) or contact us by phone at 1.800.343.5700.
 
 On rare occasions, we may disclose specific information upon governmental request, in response to a court order, or when required by law to do so. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes. 
 
@@ -58,25 +58,25 @@ If you do not want to receive our emails, you may submit your request to unsubsc
 
 You may also email us anytime, or contact us by phone at **1.800.343.5700** , or via the mail at the following address: 
 
-J.Jill, Customer Preference Service,   
-P.O. Box 2006, 100 Birch Pond Drive,   
-Tilton, NH 03276-9900. 
+J.Jill, Customer Preference Service   
+100 Birch Pond Drive   
+Tilton, NH 03276 
 
 Please note, however, such requests may take up to 10 business days to process. 
 
 To request that we remove your name from our postal mailing lists or calling lists, please call **1.800.343.5700**. You can also email us anytime, or write to us at: 
 
-J.Jill, Customer Preference Service,   
-P.O. Box 2006, 100 Birch Pond Drive,   
-Tilton, NH 03276-9900. 
+J.Jill, Customer Preference Service   
+100 Birch Pond Drive   
+Tilton, NH 03276 
 
 Please include your name, address and phone number or the mailing label from your catalog so that we can properly identify you. Please note, however, that you may receive additional mailings, but you can expect that to cease in 6-8 weeks. 
 
 If you do not want J.Jill to share information about you with non-affiliated companies for direct marketing purposes, please call **1.800.343.5700**. You can also email us anytime, or write to us at: 
 
-J.Jill, Customer Preference Service,   
-P.O. Box 2006, 100 Birch Pond Drive,   
-Tilton, NH 03276-9900. 
+J.Jill, Customer Preference Service   
+100 Birch Pond Drive   
+Tilton, NH 03276 
 
 Please include your name and mailing address in the message. Please note, however, such requests may take up to 6-8 weeks to process.   
 Please also note that when you order from us, we may still need to contact you with regard to questions or information about your order. 
@@ -93,7 +93,7 @@ If you are having trouble with your browser, please email us anytime, or chat n
 
 ### privacy of young children 
 
-We are concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13 years of age. 
+We are concerned about the privacy of young children. We do not knowingly collect any personal information from a child under 17 years of age. 
 
 ###  policy changes 
 
