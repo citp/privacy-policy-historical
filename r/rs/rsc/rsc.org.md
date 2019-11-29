@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529140911id_/https%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129082439id_/https%3A//www.rsc.org/help-legal/legal/privacy) for the most accurate reproduction.*
 
 # Privacy & cookies
 
@@ -281,7 +281,9 @@ __utmc
 __utmz  
 __utmv   
 __utmx  
-__utmxx
+__utmxx  
+__gads  
+__gid
 
 | 
 
@@ -651,7 +653,7 @@ HE Stem Website Session ID
 
 Used to store a set of randomly generated questions and answers for use in the interactive case studies that we have built  
   
-#### Cookies in use on [Chemistry World](https://www.chemistryworld.com/) and [Education in Chemistry](https://eic.rsc.org/)
+#### Cookies in use on [Chemistry World](https://www.chemistryworld.com/) and [edu.rsc.org](http://edu.rsc.org/)
 
 **Cookie name**|  **Description**  
 ---|---  
@@ -668,11 +670,17 @@ ADFEAuthCookie
 
 Used to authenticate user when they log in to the site  
   
-ADmessage_4
+ADConCtrlCookie
 
 | 
 
-Related to subscription renewal message  
+This cookie is used to support content access for logged in website users. The cookie contains no personally identifiable information. It is created when a user successfully logs into the website  
+  
+ADmessage_[notification identifier]
+
+| 
+
+This cookie is used to support notification to users that their website subscription is due to expire. The cookie identifies where the notification has been presented to a user so that it is not shown again. The cookie contains no personally identifiable information. It is created when the notification is displayed. Note: This cookie has multiple variants where the [notification identifier] in the cookie name represents the individual notification item reference.  
   
 ADmessage_session_4
 
@@ -691,6 +699,12 @@ AnonUserCookie
 | 
 
 Managing session state when not logged in  
+  
+Consent
+
+| 
+
+Some users are required to complete additional data consent questions prior to site usage. This cookie is added to improve the website’s performance, ensuring this check is not made on every page of the site and for every visit. The cookie contains no personally identifiable information. It is created when a user completes the consent form.  
   
 CT_CookiePolicyAccepted
 
@@ -728,12 +742,6 @@ _AntiXsrfToken
 
 Stores session information used to guarantee the origin of JavaScript request  
   
-mssgday
-
-| 
-
-Dropped when the user closes a notification message to prevent it showing again within the session  
-  
 __cfduid
 
 | 
@@ -749,6 +757,10 @@ _bizo_np_stats
 cwvogel
 
 | Anonymously records how many articles have been fully scrolled through within the current web browser in each of the last 28 days  
+  
+IP_Message_Accepted
+
+| Added when a user closes the IP access welcome message  
   
 #### Cookies used by 24/7 media
 
