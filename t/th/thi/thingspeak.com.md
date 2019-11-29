@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thingspeak.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519050503id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingspeak.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129215857id_/http%3A//www.mathworks.com/company/aboutus/policies_statements) for the most accurate reproduction.*
 
 # Policies and Statements - MATLAB & Simulink
 
