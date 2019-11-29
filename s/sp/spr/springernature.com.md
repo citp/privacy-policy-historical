@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the springernature.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529145900id_/https%3A//www.springernature.com/gp/legal/privacy-statement/11033522) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springernature.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129171429id_/https%3A//www.springernature.com/gp/legal/privacy-statement/11033522) for the most accurate reproduction.*
 
 # Privacy policy | Legal information | Springer Nature
 
 This is the privacy policy (“policy”) for the website [https://www.springernature.com](https://www.springernature.com/) which is run and provided by Springer-Verlag GmbH, Heidelberg, Zweigniederlassung der Springer-Verlag GmbH Berlin, Tiergartenstrasse 17, D-69121 Heidelberg, Germany, (we, us and our).   
-We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have.  
-
+We will only use the personal data gathered over this website as set out in this policy. Below you will find information on how we use your personal data, for which purposes your personal data is used, with whom it is shared and what control and information rights you may have.
 
 #### I.    Summary of our processing activities
 
@@ -69,6 +68,8 @@ The information you provide when contacting us (see also section XI) will be pro
     * Information about Springer Nature events and to discuss aspects of these events with you
     * Information on site licence trials and related pricing details
     * Facilitate and communicate with you about your request to recommend a Springer Nature journal to your library
+  * User Research: To undertake research by examining user behavior to inform product and design decisions. For more information please visit - <https://uxresearch.springernature.com/>
+
 
 
 
@@ -87,6 +88,7 @@ VI.    Online Advertising
   
 This website uses the online advertising services to present you with ads that meet your interests. Respective advertisement is labelled with the name of the provider, e.g. “Google-Ad”. Additionally, this service helps us to improve our website and to make your visit more interesting. In order to do so, we collect statistical information about you that will be processed by the provider. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to promote our products and services.
 
+  
  **1\. Cookies, Web-beacons**  
 Providers will be automatically informed about your visit on our website. For such purpose, a web beacon is used to place a cookie on your computer.   
 Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained. Depending on the provider your personal data may be transferred to and processed in third countries, e.g. the United States. For further information about the potential risks of a cross border data transfer please refer to section IX.  
@@ -96,7 +98,8 @@ You can prevent the installation of such a cookie 
 (ii)    by deactivating the provider’s interest-related advertising under the link mentioned in the provider details below,  
 (iii)    or generally blocking cookies under e.g      
 <http://www.google.com/settings/ads/plugin>.   
-Further information about the processing of your personal data in the provider’s course of operation is provided by its privacy policy. Moreover, you will be provided with further information with regard to your rights and settings concerning privacy. You can access the provider’s privacy policy by following the link in the provider details below.
+Further information about the processing of your personal data in the provider’s course of operation is provided by its privacy policy. Moreover, you will be provided with further information with regard to your rights and settings concerning privacy. You can access the provider’s privacy policy by following the link in the provider details below.  
+ 
 
  **2\. Criteo**  
 We use the Criteo-Service to advertise on our site and third party websites to previous visitors of our site. Criteo-Service is operated by Criteo SA, Rue Blanche, 75009, Paris, France (<http://www.criteo.com/>).  
@@ -105,7 +108,7 @@ When you opt-out, a new cookie (Opt-Out-Cookie) is placed in your web browser th
 
  **3\. Google Adwords**
 
-We use Google Adwords to advertise on our site and third party websites to previous visitors of our site. Google Adwords is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”).
+We use Google Adwords to advertise on our site and third party websites to previous visitors of our site. Google Adwords is provided by Google Ireland Ltd., Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland (“Google”).
 
 The advertisements are displayed on the basis of information that is stored in cookies which Google places on your computer. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Google is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Google will not merge this information with your personal data and will not disclose any of your personal data to any third party. You can prevent the storing and using of information in a cookie placed by Google by clicking on the following link <http://www.google.de/ads/preferences> and configuring your preferences there.
 
@@ -121,7 +124,7 @@ You can prevent being tracked by choosing the appropriate preference in the priv
 
  **5\. Adroll**
 
-We use Adroll to advertise on our site and third party websites to previous visitors of our site. Adroll is provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”).
+We use Adroll to advertise on our site and third party websites to previous visitors of our site. Adroll is provided by Google Ireland Ltd., Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland (“Google”).
 
 The advertisements are displayed on the basis of information that is stored in cookies which Adroll places on your computer. The text files include information, on your visit of our website, in particular product views that is read-out in the course of subsequent visits of this or third party websites for specific product recommendations. The cookie includes a random alias. In case you visit our website within a certain period of time and view our products, Adroll is able to recognize you by means of the alias. However, the information cannot be attributed to you personally. We or Adroll will not merge this information with your personal data and will not disclose any of your personal data to any third party.
 
@@ -144,9 +147,9 @@ You can prevent being tracked by choosing the appropriate preference in the priv
 
  **8\. Google AdWords Remarketing and Facebook Custom Audience**
 
-In this Website, we use the remarketing or “Similar audiences” feature of AdWords offered by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, hereinafter referred to as “Google”.
+In this Website, we use the remarketing or “Similar audiences” feature of AdWords offered by Google Ireland Ltd., Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland, hereinafter referred to as “Google”.
 
-Google uses Cookies/tracking technologies, i.e., text files that are stored on your computer and that allow us to analyze your use of our Website. Information generated by Cookies/tracking technology on your use of this Website (including your IP address) will be transferred to a Google server in the U.S. and stored on that server. After that, that last three digits of the IP address will be deleted by Google so that it is no longer possible to clearly match this IP address with personal data.Google has obtained a Privacy Shield Certification and agreed to compliance with the Privacy Shield Treaty between the EU and the U.S. on the collection, use and storage of personal data from EU member states, as published by the U.S. Department of Commerce. Google will use this information to analyze your use of the Website, to create website activity reports for the website operators and to provide additional services in connection with the use of the Website and the Internet. Furthermore, Google may transfer this information to third parties, if it is required to do so in accordance with statutory provisions or if third parties process data on behalf of Google.
+Google uses Cookies/tracking technologies, i.e., text files that are stored on your computer and that allow us to analyze your use of our Website. Information generated by Cookies/tracking technology on your use of this Website (including your IP address) will be transferred to a Google server in the U.S. and stored on that server. After that, that last three digits of the IP address will be deleted by Google so that it is no longer possible to clearly match this IP address with personal data. Google has obtained a Privacy Shield Certification and agreed to compliance with the Privacy Shield Treaty between the EU and the U.S. on the collection, use and storage of personal data from EU member states, as published by the U.S. Department of Commerce. Google will use this information to analyze your use of the Website, to create website activity reports for the website operators and to provide additional services in connection with the use of the Website and the Internet. Furthermore, Google may transfer this information to third parties, if it is required to do so in accordance with statutory provisions or if third parties process data on behalf of Google.
 
 Third party providers, including Google, place advertisements on websites on the Internet. Third party providers, including Google, use stored Cookies/tracking information to place advertisements based on previous visits of a user on this Website.
 
@@ -175,7 +178,9 @@ If you do not wish your data to be collected via Custom Audience, you can deacti
 ####   
 VII.    Analysis
 
-For statistical analyses we use web analytics services to collect information about the use of this site.
+  
+For statistical analyses we use web analytics services to collect information about the use of this site.  
+ 
 
  **1.     General tracking information**  
 The tools collect information such as
@@ -191,10 +196,11 @@ The tools collect information such as
 
 We use the information we get from the providers only to determine the most useful information you are looking for, and to improve and optimise this website. We do not combine the information collected through the use of the tools with personal data.   
 The tools collect only the IP address assigned to you on the date you visit this site, rather than your name or any other identifying information. The provider will use this information in order to evaluate your use of the website, to compile reports on website activities and to provide other services relating to website and internet use to us.  
-The legal basis for this processing is Art. 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to analyse our website’s traffic to improve the user’s experience and to optimise the website in general.
+The legal basis for this processing is Art. 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to analyse our website’s traffic to improve the user’s experience and to optimise the website in general.  
+ 
 
  **2\. Google Analytics / Google Tag Manager**  
-We use Google Analytics, a web analytics service provided by Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). On our behalf Google will use the information generated by a cookie for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet activity in connection with the use of the website.   
+We use Google Analytics, a web analytics service provided by Google Ireland Ltd., Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland (“Google”). On our behalf Google will use the information generated by a cookie for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet activity in connection with the use of the website.   
 We have activated the IP-anonymisation within the Google Analytics service, and your IP address will be truncated within the area of member states of the European Union or other parties to the Agreement on the European Economic Area. Only in exceptional cases the whole IP address will be first transferred to a Google server in the USA and truncated there. The IP-address your browser conveys within the scope of Google Analytics will not be associated with any other data held by Google.  
 You may refuse the use of cookies by selecting the appropriate settings on your browser; however please note that if you do this you may not be able to use the full functionality of this website. In addition to that you may prevent the collection of the information generated by the cookie about your use of the website (including you IP address) and the processing of this data by Google if you download and install the browser plug-in available at the following link: <http://tools.google.com/dlpage/gaoptout>
 
@@ -254,22 +260,42 @@ You can disable Optimizely tracking (and thus prevent the data generated by cook
 
 For more information about privacy policies and Optimizely, please refer to the Optimizely website: <https://www.optimizely.com/privacy/>
 
-**5\. Qualaroo**
+**5\. Optimize**
 
-We use Qualaroo, a web analytics service provided by Qualaroo, 122 East Houston Street, San Antonio, TX 78205, USA (“Qualaroo”). Qualaroo also uses cookies. The information generated by the cookies regarding your use of this website will, as a rule, be transmitted to and stored on a server of Qualaroo in the US. Qualaroo will use this information on our behalf to analyse your use of the website and to compile reports on website activities.
+We use Optimize, a web analytics service provided by Google Ireland Ltd., Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland ("Optimize"). Optimize also uses cookies and tracking pixels. The information generated by the cookies and pixels regarding your use of this website will, as a rule, be transmitted to and stored on a server of Google. Optimize will use this information on our behalf to analyse your use of the website and to compile reports on website activities.
 
 In particular, the following information will be stored:
 
-  * OS, Browser
-  * IP address
-  * geolocation
-  * time stamp
+  * the total number and percentage of users who opened a website variation
+  * the number of clicks on links
+  * your browser type and version
+  * campaign IDs through which the website was reached
+  * geolocation information, if geolocation is activated on your device.
 
 
 
-Qualaroo does however not collect any personally identifiable data. For more information about privacy policies and Qualaroo, please refer to the Qualaroo website: <https://qualaroo.com/privacy-policy/>
+You can disable Optimize tracking (and thus prevent the data generated by cookies and pixel, and relating to your use of the website, from being collected to and processed by Optimize) at any time by de-activating tracking in your browser or de-activating cookies in general (e.g. in <http://www.google.com/settings/ads/plugin>)  
+For more information about privacy policies and Optimize, please refer to the Optimize website: <https://support.google.com/optimize/answer/6230273?hl=en>
 
-**6\. CrazyEgg**
+**6\. Hotjar**
+
+We use Hotjar, a web analytics service provided by Hotjar Ltd, Level 2, St Julians Business Centre, 3 Elia Zammit Street, St Julians STJ 1000, Malta (“Hotjar”). Hotjar uses cookies to collect interaction data. The information generated by the cookies regarding your use of this website will, as a rule, be transmitted to and stored on a server of Hotjar. Hotjar will use this information on our behalf to analyse your use of the website and to compile reports on website activities.
+
+In particular, the following information will be stored: 
+
+  * Anonymized IP address
+  * pages viewed or visited, including the movement pattern of such visits 
+  * amount and position of clicks on links 
+  * browser type and version 
+  * screen size of the device used 
+
+
+
+Hotjar does not store any personal data or track movement on profile pages containing personal data. According to the information provided by Hotjar IP addresses are stored in an anonymized format only. For more information about privacy policies of Hotjar, please refer to the website <https://www.hotjar.com/privacy>.  
+You may object at any time to the collection of the data referred to above, and opt out of any future processing of such data by Hotjar, by using the “Do Not Track” functionality of your browser. For information on how to activate this please refer to: <https://www.hotjar.com/opt-out>   
+If you do not want Hotjar to use data about your behaviour as described above you may also refuse the use of cookies by selecting the appropriate settings on your browser.
+
+ **7\. CrazyEgg**
 
 We use CrazyEgg, a web analytics service provided by Crazy Egg, Inc. 16220 E. Ridgeview Lane La Mirada, CA 90638, USA (“CrazyEgg”). CrazyEgg uses cookies to collect interaction data. The information generated by the cookies regarding your use of this website will, as a rule, be transmitted to and stored on a server of CrazyEgg in the US. CrazyEgg will use this information on our behalf to analyse your use of the website in A/B-tests and to compile heatmaps and reports on website activities.
 
@@ -286,10 +312,9 @@ You may object at any time to the collection of the data referred to above, and 
 
 Please note that the cookie is set for a specific computer and browser. Therefore, if you visit our website using different browsers, you will need to revisit the link above in order to reset your opt-out decision, in order for it to be effective.
 
-For more information about privacy policies of CrazyEgg, please refer to the website <https://www.crazyegg.com/privacy> or contact CrazyEgg’s designated officer [privacy@crazyegg.com](mailto:privacy@crazyegg.com).  
+For more information about privacy policies of CrazyEgg, please refer to the website <https://www.crazyegg.com/privacy> or contact CrazyEgg’s designated officer [privacy@crazyegg.com](mailto:privacy@crazyegg.com).
 
-
- **7\. Marvellous Machine**
+ **8\. Marvellous Machine**
 
 „Marvellous Machine“ is a cookie based targeting technology by Maytrics GmbH, Graf-von- Stauffenberg-Weg 1b, 59379 Selm, Germany. Marvellous Machine registers pseudonymized information about visits and interactions of users with your website for advertising purposes. In no case pseudonymized data is used to identify the user of the website personally. Please visit https://www.marvellousmachine.net/consent/[CAMPAIGNID] to object to cookies set by Marvellous Machine.
 
@@ -313,25 +338,31 @@ The data is enriched with information from the advertiser's product feed. Additi
 
 Please visit <https://www.marvellousmachine.net/status> to get an overview of the tracking information in your client/webbrowser for each campaign.
 
- **8\. Trustpilot**
+ **9\. Trustpilot**
 
 We use Trustpilot, a user feedback and rating service provided by Trustpilot, Inc., 245 5th Avenue, 4th floor, New York, NY 10016, USA (“Trustpilot”). Trustpilot provides a form to enter your feedback about our website and to rate your user experience and product quality. If you use this option, all entries are completely voluntary and the results are published on <https://www.trustpilot.com/> under a selectable pseudonym. Product reviews may be published on our website as well as in Google search results.
 
 For more information about privacy policies of Trustpilot, please refer to the website <https://legal.trustpilot.com/end-user-privacy-terms>.
 
- **9\. Sparkpost**
+ **10\. Sparkpost**
 
-We use Sparkpost to deliver our newsletters, author and other target group service emails and transactional emails. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-mail services. For more information, please see [Sparkpost’s Privacy Policy](https://www.sparkpost.com/policies/privacy/).  
+We use Sparkpost to deliver our newsletters, author and other target group service emails and transactional emails. We gather statistics around email opening and clicks using industry standard technologies to help us monitor and improve our e-mail services. For more information, please see [Sparkpost’s Privacy Policy](https://www.sparkpost.com/policies/privacy/).
 
+ **11\. ip-api**  
+We use ip-api a service provided by ip-api.com. ip-api provides the identification of a device's IP address to determine organisation and geographical location. We use the service to look up company and organisation names and write that information to Google Analytics with the aim to optimize our services for corporate and institutional users.  
+For more information about ip-api’s privacy policies see <https://members.ip-api.com/legal>  
+You may refuse the use of Google Analytics cookies by selecting the appropriate settings on your browser (see VII 2.)
 
 ####   
 VIII.    Third party content and social media plug-ins
 
+  
  **1\. Social media plug-ins**  
 We use the following social media plug-ins: Facebook, Google+, Twitter. This allows you to communicate with such services and like or comment from our website. Social media plug-ins enable a direct communication between your device and the servers of the social media provider, allowing the social media provider to communicate with you and collect information about you browsing our website. This processing is based on Article 6 sec. 1 sent. 1 lit. f GDPR and represents our legitimate interest to improve your website experience and to optimise our services.  
 Transfer of personal data takes places whether you have an account with the provider or not.   
 Please note that we neither have the control of the extent of personal data that is collected by the respective plug-in provider nor do we know the processing’s purpose or the period your personal data will be retained.  
-Further information about the processing of your personal data in the provider’s course of operation is provided via their respective privacy policy. Moreover, you will be provided with further information with regard to your rights and setting concerning privacy.
+Further information about the processing of your personal data in the provider’s course of operation is provided via their respective privacy policy. Moreover, you will be provided with further information with regard to your rights and setting concerning privacy.  
+ 
 
  **a) Facebook Social Plugins**  
 We use so-called social plugins („plugins“) of the social networking site facebook.com provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook"). The plugins can be identified by one of Facebook’s logos (white “f” on blue tile or a “thumps-up”-sign) or by the additional text “Facebook Social Plugin”. The list of Facebook Social Plugins and their appearance can be accessed via: <http://developers.facebook.com/plugins>.  
@@ -343,20 +374,22 @@ The user may also block Facebook’s plugins using add-ons for the user’s brow
 
  **b) Google’s +1-button**
 
-We use the “+1”-button of the social network Google Plus provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States (“Google”). The button is market using the sign “+1” on a white or colored background.      
+We use the “+1”-button of the social network Google Plus provided by Google Ireland Ltd., Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland (“Google”). The button is market using the sign “+1” on a white or colored background.      
 If a user visits one of the websites using such a button, the user’s browser directly connects to Google’s servers. The “+1”-button and its content are loaded directly from Google’s servers and included in the website by the user’s browser. According to Google’s statements, personal data is only collected, if a user that is a Google Plus member and logged in on the network at the time of clicking on the “+1”-button.      
 The reason for and scope of the data acquisition and information about the way in which the data is processed and used by Google, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found in Google’s privacy statement relating to the “+1”-button: <http://www.google.com/intl/de/+/policy/+1button.html>.
 
  **c) Twitter**  
 We use the twitter-button. The button is provided by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. (“Twitter”) The buttons are marked using the text “Twitter” or “Follow” and a stylized blue bird. The button enables the user to share an article or a website of this homepage on Twitter or to follow the provider on Twitter.      
 If a user visits one of the websites using such a button, the user’s browser directly connects to Twitter’s servers. The Twitter-button and its content are loaded directly from Twitter’s servers and included in the website by the user’s browser. According to the provider’s knowledge, Twitter collects the user IP-address and the website’s URL when the button is loaded from Twitter’s servers. However, this data is only used for loading and displaying the Twitter-button.      
-Further information can be found in Twitter’s privacy statement under: <https://twitter.com/privacy>.
+Further information can be found in Twitter’s privacy statement under: <https://twitter.com/privacy>.  
+ 
 
  **d) LinkedIn**  
 Our website uses the „share″ button oft he social network LinkedIn  provided by LinkedIn Corporation, 2029 Stierlin Court, Mountain View, CA 94043, USA ("LinkedIn"). If a user visits one of the websites using such a button, the user’s browser directly connects to the LinkedIn servers. LinkedIn received the information, that you visited our website with your IP-address. If the user is logged in on LinkedIn at the moment he or she clicks the “share” button the user can share content from our website with his/her LinkedIn profile. LinkedIn may then be able to connect the visit on the website to the user’s LinkedIn account.  
 The reason for and scope of the data acquisition and information about the way in which the data is processed and used by LinkedIn, as well as the user’s rights in this respect and settings options for protecting the users privacy can be found under:      
 <https://www.linkedin.com/legal/privacy-policy>  
-Should you have any questions regarding our privacy policy, please contact us via the e-mail address mailto:dataprotection@springer.com.
+Should you have any questions regarding our privacy policy, please contact us via the e-mail address mailto:dataprotection@springer.com.  
+ 
 
  **2\. Links to third party websites**  
 This website may contain links to third party websites. We are not responsible for the content and the data collection on respective third party websites; please check the privacy policy of respective websites for information of respective websites’ data processing activities.
