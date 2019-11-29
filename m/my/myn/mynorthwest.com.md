@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynorthwest.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524055905id_/http%3A//mynorthwest.com/194647/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynorthwest.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129204327id_/https%3A//mynorthwest.com/194647/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
