@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vegansociety.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525044833id_/https%3A//www.vegansociety.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegansociety.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129155457id_/https%3A//www.vegansociety.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy | The Vegan Society
 
-This is the website of The Vegan Society. The Vegan Society is a registered charity, number 279228, and a Company Limited by Guarantee, company number 1468880 in England and Wales, both of which are data controllers of your information under the Data Protection Act 1998. 
+This is the website of The Vegan Society. The Vegan Society is a registered charity, number 279228 (England and Wales) and SC049495 (Scotland), and a Company Limited by Guarantee, company number 1468880 in England and Wales, both of which are data controllers of your information under the Data Protection Act 1998. 
 
 ##  Contact information  
 
@@ -194,7 +194,7 @@ Facebook  |
 
 | 
 
-Facebook cookie(s) are used for Facebook Pixels and allow us to track page views and user behaviour such as purchases on the website. **We do not use custom audiences or upload personal data to Facebook for advertising campaigns** , in this case Facebook acts as the data controller and we do not have access to the specific details being gathered.   
+Facebook cookie(s) are used for Facebook Pixels and allow us to track page views and user behaviour such as purchases on the website.   
   
 All cookies are created on first page load and remain persistent throughout the site visit. 
 
