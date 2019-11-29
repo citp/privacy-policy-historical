@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstateff.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206205610id_/http%3A//allstateff.com/privacy-website-usage-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstateff.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129235327id_/https%3A//allstateff.com/privacy-website-usage-policy) for the most accurate reproduction.*
 
 # Franchise Industry Expert | Franchises For Sale | Franchise Opportunity
 
