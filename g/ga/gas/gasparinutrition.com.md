@@ -1,38 +1,90 @@
-> *The following text is extracted and transformed from the gasparinutrition.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402153540id_/http%3A//www.gasparinutrition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gasparinutrition.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129114919id_/https%3A//gasparinutrition.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy / Privacy Policy / Gaspari Nutrition
+# Privacy Policy | Gaspari Nutrition
 
-Allegro Nutrition and its subsidiary Gaspari Nutrition (“Gaspari”) respect the privacy needs and concerns of our customers. Therefore, the way we handle any personal information that you provide to us, such as name, address, email address, phone number, and/or credit card information (“Personal Information”), is very important to us. To earn your trust, we respect your privacy in handling Personal Information relating to you and your transactions with us, whether through our call center or through www.gasparinutrition.com (the “Website”). This Privacy Policy identifies the Personal Information we gather about you, describes what we do with that information, the safeguards we have in place to protect the information, and explains how you can control our use of your Personal Information. By using the Website, you agree without limitation or qualification to be bound by this Privacy Policy. When you provide Personal Information to our call center and/or Website, you are consenting to the manner in which Gaspari will collect, use, disclose, and otherwise manage your Personal Information, as set forth below.
+**What information do we collect?**
 
-  1. **Who May Use the Website**. The Website is not intended or designed to attract users under the age of 18. We do not collect Personal Information from any person we know to be under the age of 18. If you are under 18, do not send us any Personal Information. The Website is intended for users from the United States and those not governed by privacy policies of other countries. Users from the European Union are advised not to disclose Personal. Information sent to us will be housed on servers located in the state of New Jersey, in the United States. Do not send us information unless you consent to the application of U.S. law and to the use and disclosure of your information consistent with this Privacy Policy.
-  2. **Collection and Use of Personal Information**. We may collect Personal Information that you provide to us when you: 
-    1. Purchase, order, return, exchange, or request certain information about our products and services;
-    2. Contact a call center or customer service desk;
-    3. Visit or register with our Website or participate in other features of our Website, such as the Gaspari Community;
-    4. Enter into a contest or sweepstakes, or respond to one of our surveys; or
-    5. Provide us with comments or suggestions.
-  3. **Shopping on the Website**. When you purchase products or services on our Website using a credit or debit card, we collect your credit or debit card information and keep a history of your purchases. We use this information to process your orders and to better assist you when you visit or call us. We may also ask for your zip code to help us improve our product and service offerings to your area. When you return previously purchased merchandise or request a refund or exchange, you may be asked to give your name, address, phone number and show information that identifies you, such as your driver’s license. We collect this information to help prevent fraud.
-  4. **Call Centers**. When you call one of our call centers about a product, delivery, billing question, or for customer service, you may be asked for Personal Information that identifies you along with additional information we need to help us promptly answer your question, such as your name, address, and/or phone number. We may retain this information to assist you in the future.
-  5. **Website Registration**. Registration is an optional service provided by our Website. You do not have to register to browse on our Website, but you do have to register to purchase products on our Website. When you register, you are asked for your name, address, phone number, e-mail address, username, and password that you select. Your registration information may be used to help make your online shopping quicker and easier, by pre-filling certain parts of your shopping information. When you register you will have the opportunity to sign up for future marketing information from Gaspari.
-  6. **Contests, Questions, or Surveys**. When you ask a question, participate in a survey, or enter a contest or sweepstakes at a Gaspari-sponsored event or through our Website we may collect your name, address, phone number, and e-mail address. We use this information to administer your participation in a contest or sweepstakes. At the time you are entering a contest or sweepstakes, we may ask your permission to send you future marketing information from Gaspari.
-  7. **Other Uses of Personal Information**. Gaspari also uses Personal Information to continually assess and improve the products and services we offer. To serve you better, we may combine the Personal Information that you give us with publicly available information, and information we receive from our marketing partners. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes.
-  8. **Promotional Information and Marketing Materials**. We would like to inform you of products and services, sales, and special offers that might benefit you. When you register online, participate in a survey, or provide us with Personal Information through our call center, at a Gaspari-sponsored event, or in some other manner, you will have the opportunity to sign up for e-mails about our products, services, sales, and special offers. If you would like to stop receiving such promotional information from Gaspari, please see the “Privacy Preferences/Opt-Out” section of this Privacy Policy.
-  9. **Disclosure of Personal Information**. We enter into marketing relationships with advertisers or other companies that provide products or services that we believe may be of interest to Gaspari customers. We will not share your Personal Information with those marketing partners, although we may share non-identifiable aggregate information with these companies. We will not provide Personal Information to any of our affiliated businesses.
-  10. **Access to Personal Information by Companies that Work with or on Behalf of Gaspari**. Service providers who are unaffiliated companies may manage some of our operations, such as our electronic commerce. These companies may share Personal Information with their affiliates and with service providers whom they engage to perform services related to our Website or the operation of our business. Examples of these services include payment processing and authorization, fraud protection and credit risk reduction, product customization, order fulfillment and shipping, marketing and promotional material distribution, Website evaluation, data analysis, and, where applicable, data cleansing. These companies may have access to your Personal Information on a confidential basis only to the extent necessary to perform their functions. In no event will we authorize these companies to use your Personal Information for any reason other than to provide you with those specific services. If your purchases are being shipped to you, your shipping information will be shared with our delivery service providers. Our delivery service providers are asked not to use your Personal Information for any purpose other than making the delivery.
-  11. **Sale of Business**. In the event that Gaspari or some of our assets are sold or transferred or used as security, your Personal Information may be transferred to third parties as part of that transaction.
-  12. **Disclosures of Personal Information in Legal Proceedings**. If Gaspari or any of our service providers is requested by law enforcement officials or judicial authorities to provide Personal Information on individual users, Gaspari or the applicable service provider may, without your consent, provide such information. In matters involving claims of personal or public safety, Gaspari or the applicable service provider may provide your Personal Information to appropriate authorities without your consent or court process. Gaspari or our service providers also will provide your Personal Information in response to a search warrant or other legally valid inquiry or order, or to an investigative body in the case of a breach of an agreement or contravention of law, or in litigation involving Gaspari, the applicable service provider, or otherwise as required by law. We may also disclose Personal Information to assist in debt collection where you owe a debt to us.
-  13. **Access to Personal Information**. You may request access to the Personal Information that we have about you. If you are a registered user with our Website, you can access your profile information at any time by clicking on the “My Account” link at the top of any page on the Website. For further instructions on accessing the Personal Information that Gaspari may have about you, please see the “Contacting Us” section of this Privacy Policy.
-  14. **Privacy Preferences/Opt-Out**. We offer an on-line preference page located within the My Account section on www.gasparinutrition.com where you can register and change your preferences to receive or not receive marketing materials. You may also update what preferences that determine what offers and promotional materials you may receive. You may update these preferences at any time, but you must first register by creating an account before you can update any of your preferences. Please allow sufficient time for your preferences to be processed. You may also change your marketing preferences or remove yourself from our mailing list by clicking on an “unsubscribe” hyperlink contained in promotional emails we send to you, or by contacting us at: Gaspari Nutrition, Inc., 575 Prospect Street, Suite 301, Lakewood, New Jersey 08701, Attn: Privacy Policy, or by e-mailing us at [webmaster@gasparinutrition.com](mailto:webmaster@gasparinutrition.com).
-  15. **Information Sharing Disclosure Requests**. If you are a California resident, you have the right to request one Notice of Information-Sharing Disclosure per year that will identify the third parties with whom Gaspari or any of our affiliates has shared the Personal Information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing to us at: Gaspari Nutrition, Inc., 575 Prospect Street, Suite 301, Lakewood, New Jersey 08701, Attn: Privacy Policy, or by e-mailing us at webmaster@gasparinutrition.com. We will respond to your request for a Notice of Information-Sharing Disclosure within 30 days.
-  16. **Visiting Our Website**. In general, you can visit our Website without telling us who you are or providing us with any information. However, we collect the IP (Internet protocol) addresses of all visitors to our Website and other related information such as page requests, browser type, operating system, and average time spent on our Website. We use this information to monitor and improve our Website.
-  17. **Cookies and Tracer Tags**. Our Website uses a technology called “cookies.” A cookie is a tiny element of data that our Website can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. All pages on our Website where you are prompted to log in or that are customizable require that you accept cookies. If you have registered with our Website, these cookies: (1) may let us know who you are; (2) are necessary to access your account information (stored on our computers) in order to deliver products and personalized services; and (3) will provide us and our service providers with information that we will use to personalize our Website in accordance with your preferences. Cookies are also required to optimize your shopping experience in that they allow you to add multiple items to your shopping basket before checking out. You may set your web browser to notify you when you receive a cookie. However, should you decide not to accept cookies from our Website, you will limit the functionality we can provide when you visit our Website. Our Website may also use a technology called “tracer tags,” which may also be referred to as “Clear GIFs” or “Web Beacons.” This technology allows us to understand which pages you visit on our Website. These tracer tags are used to help us optimize and tailor our Website for you and other future Website visitors.
-  18. **Security of Personal Information**. We maintain administrative, technical, and physical safeguards to protect against unauthorized access, use, modification and disclosure of Personal Information in our custody and control. We also are committed to employing reasonable technology in order to protect the security of our Website. However, even with the best technology, no website is 100% secure. We will take reasonable measures which we believe are appropriate to protect your Personal Information from loss, misuse, alteration or destruction, and, where possible, will ask that any third parties to whom we may transfer such information to take comparable steps to protect that security.
-  19. **Secure Shopping**. When you place orders on our Website, all of your order information, including your card number and delivery address, is transmitted through the Internet using Secure Sockets Layer (“SSL”) and/or Transport Layer Security (“TLS”) technology. SSL and TLS technology cause your browser to encrypt your order information before transmitting it to our secure server. SSL and TLS technology, both industry standards, are designed to prevent someone other than operators of our Website from capturing and viewing your Personal Information. Because any order information you provide to us on our Website will be transmitted using a secure connection, if your web browser cannot support this level of security, you will not be able to order products through our Website. The most recent versions of the most commonly used web browsers, including Microsoft Internet Explorer, Mozilla Firefox, Apple Safari, and Opera, can support a secure connection and can be downloaded for free from the Microsoft, Mozilla, Apple, and Opera websites respectively.
-  20. **Passwords**. To provide you with an increased level of security, online access to your Personal Information is protected with a password you select. We strongly recommend that you do not disclose your password to anyone. Gaspari will never ask you for your password in any unsolicited communication (including unsolicited correspondence such as letters, phone calls or e-mail messages).
-  21. **Our Privacy Policy and Outside Links**. This Privacy Policy applies only to this Website. This Website may include links to the websites of our business partners, vendors and advertisers. These other sites are outside of our control. Please be aware that these websites may collect information about you, and operate according to their own privacy practices, which may differ from those set forth in our Privacy Policy. Remember to consult the privacy policy of any other website you visit, as once you are outside of this Website, any information you submit is no longer within Gaspari’s control.
-  22. **Privacy Policy Modifications**. From time to time we may modify or amend this Privacy Policy in order to comply with new laws or regulations or to reflect future changes in our business practices. Any changes in our policies will be communicated on this page, so please check back from time to time. We also may post a notice on our Website or send an email describing any changes.
-  23. **Contact Us**. If you have any questions about Gaspari’s handling of Personal Information, please contact us at: Gaspari Nutrition, Inc., 575 Prospect Street, Suite 301, Lakewood, New Jersey 08701, Attn: Privacy Policy, or by e-mailing us at [webmaster@gasparinutrition.com](mailto:webmaster@gasparinutrition.com), or by calling us toll-free at 1-888-742-7727.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
+
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+
+**What do we use your information for?**
+
+Any of the information we collect from you may be used in one of the following ways:
+
+  * To personalize your experience  (your information helps us to better respond to your individual needs)
+  * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve your customer service experience (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails – The email address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
 
 
-_Updated: August 13, 2015. Copyright © 2010 Gaspari Nutrition, Inc. All rights reserved._
+**Note:** If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
+
+Our website incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit the Site, you access servers that are kept in a secure physical environment, behind a locked cage and a hardware firewall.
+
+While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We, therefore, have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We, therefore, will not distribute your personal information to outside parties without your consent.
+
+**Children’s Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://gasparinutrition.com/terms-and-conditions](https://gasparinutrition.com/terms-and-conditions)
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+This policy was last modified on March 31st, 2019
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below:
+
+575 Prospect Street
+
+Suite 301
+
+Lakewood, NJ 08701
+
+732-364-3777
+
+customerservice@gasparinutrition.com
