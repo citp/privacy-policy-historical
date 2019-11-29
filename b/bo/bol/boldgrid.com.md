@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the boldgrid.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201174824id_/https%3A//www.boldgrid.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldgrid.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129153836id_/http%3A//boldgrid.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | BoldGrid
 
 ### Privacy Policy
+
+[Terms of Service](https://www.boldgrid.com/terms-of-service/) | [Software Privacy Policy](https://www.boldgrid.com/software-privacy-policy/)
+
+**_Latest Revision:  October 31, 2019_**
 
 #### **PLEASE READ THIS PRIVACY POLICY CAREFULLY**
 
@@ -19,16 +23,20 @@ The Company cares about your privacy. For this reason, the Company collects and 
     * Financial account information
     * IP Address
     * Other data collected that could directly or indirectly identify you
-
 This Policy explains how and what data the Company collects and how the Company uses your personal data. This Policy also describes options the Company provides for you to access, update or otherwise take control of your personal data that the Company processes. If at any time you have questions about the Company practices or any of your rights described below, you may reach the Company Data Protection Team by contacting the Company at [privacy@boldgrid.com](mailto:privacy@boldgrid.com). This inbox is actively monitored and managed so that the Company can deliver an experience that you can confidently trust.
-
   2. ### Changes to the Privacy Policy:
 
-As the Services may change from time to time, this Policy is expected to change as well. The Company reserves the right, in its sole discretion, to amend this Policy at any time, for any reason, which amendment(s) will be effective upon posting to our website. The date of the last revision to this Policy will be indicated by the “Last Updated” date located at the end of this Policy. Your use of the Services after such changes or modifications have been made shall constitute your acceptance of this Policy as last revised. If you do not agree to be bound by this Policy as last revised, do not use (or continue to use) the Services. In addition, the Company may occasionally notify you of changes or modifications to this Policy by e-mail. It is therefore important that you keep your account information accurate. The Company assumes no liability or responsibility for your failure to receive an e-mail notification if such failure results from an inaccurate e-mail address. 
+As the Services may change from time to time, this Policy is expected to change as well. The Company reserves the right, in its sole discretion, to amend this Policy at any time, for any reason, which amendment(s) will be effective upon posting to our website. The date of the last revision to this Policy will be indicated by the “Last Updated” date located at the end of this Policy. Your use of the Services after such changes or modifications have been made shall constitute your acceptance of this Policy as last revised. If you do not agree to be bound by this Policy as last revised, do not use (or continue to use) the Services. In addition, the Company may occasionally notify you of changes or modifications to this Policy by e-mail. It is therefore important that you keep your account information accurate. The Company assumes no liability or responsibility for your failure to receive an e-mail notification if such failure results from an inaccurate e-mail address.
   3. ### Information That the Company Collects:
 
-    1. **Personally Identifiable Information:** The Company may collect information (online, by phone or paper) that identifies you (“Personally Identifiable Information”) when you provide such information on the Company website(s) or social media website(s) or otherwise interact with the Company. The types of Personally Identifiable Information collected may include, but not limited to, Internet Protocol (IP) address, your name, address, phone number, birth date, billing and delivery information, e-mail address, information about you or your business, credit card, or other financial account information. 
+    1. **Personally Identifiable Information:** The Company may collect information (online, by phone or paper) that identifies you (“Personally Identifiable Information”) when you provide such information on the Company website(s) or social media website(s) or otherwise interact with the Company. The types of Personally Identifiable Information collected may include, but not limited to, Internet Protocol (IP) address, your name, address, phone number, birth date, billing and delivery information, e-mail address, information about you or your business, credit card, or other financial account information.
     2. **Non-Personal Data:** As you interact with the Company through our online resources, the Company may also collect information about your browsing history or certain other information that is not considered Personally Identifiable Information through your use of and visits to these resources through a variety of technologies, including, but not limited to, cookies, tags, beacons, Internet Protocol (IP) address, and other tools. “Cookies” are pieces of code or text placed on your computer when you browse a website. Cookies may be placed by the Company or our web analytics third party vendors or partners. “Tags” and web beacons refer to code scripts that are primarily used to track visitor activities by web analytics software. The types of non-personal data collected on the Company website(s) through the use of these, and other tools may include the search terms you used, new or returning user, browser information, computer type, operating system, internet service providers, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, ads viewed, among other non-personal data (collectively, all of the foregoing data is considered “Non-Personal Data”). Additionally, Cookies, Tags and other tools placed by our web analytics third party vendors or partners may collect other information about you and your visits to websites and elsewhere on the Internet including, but not limited to, your industry, company size, among other Non-Personal Data. 
+      * Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. We use cookies to collect information in order to improve our services for you.
+      * You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help feature on most browsers provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.
+      * If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
+    3. **Do Not Track Disclosure**
+      * We support Do Not Track (“DNT”). Do Not Track is a preference you can set in your web browser to inform websites that you do not want to be tracked.
+      * You can enable or disable Do Not Track by visiting the Preferences or Settings page of your web browser.
   4. ### How the Company Uses and Shares Personally Identifiable Information:
 
 The Company strongly believes in both minimizing the data we collect and limiting its use and purpose to only that (1) for which the Company has been given permission, (2) as necessary to deliver the Services, or (3) as the Company might be required or permitted for legal compliance or other lawful purposes. 
@@ -51,70 +59,74 @@ The Company strongly believes in both minimizing the data we collect and limitin
       * Understand and analyze how you use the Services and what products and services are most relevant to you
     2. ### Transfer of personal data abroad.
 
-If you utilize the Services from a country other than the country where the Company servers are located, your communications with the Company may result in transferring your personal data across international borders. Also, when you call the Company, the Company may provide you with support from our locations which may be outside of your country of origin. In these cases, your personal data is handled according to this Policy. 
+If you utilize the Services from a country other than the country where the Company servers are located, your communications with the Company may result in transferring your personal data across international borders. Also, when you call the Company, the Company may provide you with support from our locations which may be outside of your country of origin. In these cases, your personal data is handled according to this Policy.
     3. ### Sharing Your Personally Identifiable Information to Fulfill Service Requests and Perform Business Functions.
 
-When fulfilling service requests initiated by you, we may share your Personally Identifiable Information with certain third parties to fulfill the requests. We may also share such information with service providers that perform business functions for us. In such cases, the Company may share your Personally Identifiable Information. 
+When fulfilling service requests initiated by you, we may share your Personally Identifiable Information with certain third parties to fulfill the requests. We may also share such information with service providers that perform business functions for us. In such cases, the Company may share your Personally Identifiable Information.
     4. ### Sharing Your Personally Identifiable Information with Certain Other Companies.
 
-The Company may share Personally Identifiable Information, except for e-mail addresses, with certain other companies as part of the Company benefits offerings. 
+The Company may share Personally Identifiable Information, except for e-mail addresses, with certain other companies as part of the Company benefits offerings.
     5. ### Sharing Your Personally Identifiable Information When Legally Necessary or to Protect the Company’s Interests.
 
-The Company may disclose your Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the Company, including, but not limited to, compliance with legal, regulatory and law enforcement requests. In such instances, the Company cooperates with government and law enforcement officials and private parties to enforce and comply with the law. the Company will disclose any information about you to government or law enforcement officials or private parties as the Company, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity the Company considers to be illegal or unethical. To the extent the Company is legally permitted to do so, the Company will take reasonable steps to notify you in the event that the Company is required to provide your Personally Identifiable Information to third parties as part of legal process; (b) protect and/or defend the rights or property of the Company; (c) protect the personal safety of the Company personnel or users of the public in appropriate circumstances; or (d) if the Company and/or its assets (or a portion of its assets) are sold, assigned, transferred, or merged or if the Company undergoes some other change including a change to its corporate form as part of a bankruptcy proceeding or otherwise, information may be transferred as part of that transaction or change. 
+The Company may disclose your Personally Identifiable Information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on the Company, including, but not limited to, compliance with legal, regulatory and law enforcement requests. In such instances, the Company cooperates with government and law enforcement officials and private parties to enforce and comply with the law. the Company will disclose any information about you to government or law enforcement officials or private parties as the Company, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (such as subpoena requests), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity the Company considers to be illegal or unethical. To the extent the Company is legally permitted to do so, the Company will take reasonable steps to notify you in the event that the Company is required to provide your Personally Identifiable Information to third parties as part of legal process; (b) protect and/or defend the rights or property of the Company; (c) protect the personal safety of the Company personnel or users of the public in appropriate circumstances; or (d) if the Company and/or its assets (or a portion of its assets) are sold, assigned, transferred, or merged or if the Company undergoes some other change including a change to its corporate form as part of a bankruptcy proceeding or otherwise, information may be transferred as part of that transaction or change.
     6. ### Sharing Your E-mail Address Pursuant to the Company Policy.
 
-We do not sell or rent e-mail addresses to anyone outside of the Company. The Company will also not share e-mail addresses to unrelated third-parties or affiliates. 
+We do not sell or rent e-mail addresses to anyone outside of the Company. The Company will also not share e-mail addresses to unrelated third-parties or affiliates.
   5. ### How to Manage the Sharing of Your Personally Identifiable Information:
 
-To request that your information be deleted, please email [privacy@boldgrid.com](mailto:privacy@boldgrid.com). 
-
-If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements. 
-
+To request that your information be deleted, please email [privacy@boldgrid.com](mailto:privacy@boldgrid.com). If you make a request to delete your personal data and that data is necessary for the products or services you have purchased, the request will be honored only to the extent it is no longer necessary for any Services purchased or required for our legitimate business purposes or legal or contractual record keeping requirements.
   6. ### How the Company May Use and Share Non-Personal Data:
 
-Through the use of various technological tools, the Company may collect Non-Personal Data to improve the usability of the Company website(s) and the Services and for other business reasons. The Company may share the Non-Personal Data collected with third parties or permit third parties to place tools like Cookies, Tags and web beacons, to collect additional Non-Personal Data when you browse the Company websites. The Company does not share Personally Identifiable Information with third parties with whom it shares your Non-Personal Data. Please note that you may be subject to the privacy policies of non-Company companies when you select an advertising link or other link that takes you to sites not operated by the Company. 
-  7. ### California and GDPR Privacy Rights:
+Through the use of various technological tools, the Company may collect Non-Personal Data to improve the usability of the Company website(s) and the Services and for other business reasons. The Company may share the Non-Personal Data collected with third parties or permit third parties to place tools like Cookies, Tags and web beacons, to collect additional Non-Personal Data when you browse the Company websites. The Company does not share Personally Identifiable Information with third parties with whom it shares your Non-Personal Data. Please note that you may be subject to the privacy policies of non-Company companies when you select an advertising link or other link that takes you to sites not operated by the Company.
+  7. ### Remarketing Services:
+
+InMotion Hosting Inc. uses remarketing services to advertise on third party websites to you after you visited our Service. We, and our third party vendors, use cookies to inform, optimize and serve ads based on your past visits to our Service. 
+    1. **Google**
+      * For information on the privacy practices of Google, please visit the [Google Privacy & Terms web page](https://www.google.com/intl/en/policies/privacy/)
+    2. **Facebook**
+      * For information on the privacy practices of Facebook, please visit [Facebook’s Data Policy](https://www.facebook.com/privacy/explanation)
+    3. **Reddit**
+      * For information on the privacy practices of Reddit, please visit [Reddit’s Data Policy](https://www.reddit.com/wiki/privacypolicy)
+    4. **Bing**
+      * For information on the privacy practices of Bing, please visit [Bing’s Data Policy](https://privacy.microsoft.com/en-us/privacystatement)
+    5. **LinkedIn**
+      * For information on the privacy practices of LinkedIn, please visit [LinkedIn’s Data Policy](https://www.linkedin.com/legal/privacy-policy)
+    6. **Twitter**
+      * For information on the privacy practices of Twitter, please visit [Twitter’s Data Policy](https://twitter.com/en/privacy)
+  8. ### California and GDPR Privacy Rights:
 
 In addition to the rights as explained in this Policy, under California’s “Shine the Light” law and/or the European General Data Protection Rules (GDPR), the Company members or non-Company users who provide personal information (as defined in the Shine the Light statute and/or the GDPR) in obtaining products or services for personal, family, or household use are entitled to request and obtain from the Company, once a calendar year, information about the personal information it shared, if any, with other businesses for marketing uses. If applicable, this information would include the categories of personal information and the names and addresses of those businesses with which the Company shared such personal information for the immediately prior calendar year (e.g., requests made in 2018 will receive information about 2017). To obtain this information please send your request to (please include your full name and address, domain name(s)): 
 
-**BOLDGRID  
-Attn: Data Protection Team  
-3629 Sentara Way  
-Virginia Beach, VA 23452 **
+**BOLDGRID Attn: Data Protection Team 3629 Sentara Way Virginia Beach, VA 23452**
 
-  8. ### Canada Anti-Spam Law (CASL) and GDPR:
+  9. ### Canada Anti-Spam Law (CASL) and GDPR:
 
 Non-Company users who have provided the Company a Canadian or European Union mailing address will not receive unauthorized Commercial Electronic Messages (CEMs) as defined under CASL and GDPR unless these individuals have opted-in to receive CEMs. To easily access, view, update, delete or port your personal data (where available), or to update your subscription preferences, please sign into your Account Management Panel. If you are a resident of the European Union Economic Area and believe we maintain your personal data subject to the GDPR, you may direct questions or complaints (however, we still recommend that you contact us first) to our lead supervisory authority, the UK’s Information Commissioner’s Office, as noted below: 
 
-**www.ico.org.uk  
-Information Commissioner’s Office  
-Wycliffe House, Water Lane  
-Wilmslow, Cheshire, SK9 5AF  
-United Kingdom  
-Phone: 0303 123 1113 **
+**www.ico.org.uk Information Commissioner’s Office Wycliffe House, Water Lane Wilmslow, Cheshire, SK9 5AF United Kingdom Phone: 0303 123 1113**
 
-  9. ### Data Retention:
+  10. ### Data Retention:
 
-We may retain your Personally Identifiable Information (as well as your Users-of-Users’ Information) for as long as your account is active, as indicated in this Privacy Policy or as otherwise needed to provide you with our Services. We may continue to retain such Personally Identifiable Information even after you deactivate your account and/or cease to use any particular Services, as reasonably necessary to comply with our legal obligations, to resolve disputes regarding our Users or their Users-of-Users, prevent fraud and abuse, enforce our agreements and/or protect our legitimate interests. We maintain a data retention policy which we apply to information in our care. Where your Personally Identifiable Information is no longer required we will ensure it is securely deleted. 
-  10. ### Age Restrictions:
+We may retain your Personally Identifiable Information (as well as your Users-of-Users’ Information) for as long as your account is active, as indicated in this Privacy Policy or as otherwise needed to provide you with our Services. We may continue to retain such Personally Identifiable Information even after you deactivate your account and/or cease to use any particular Services, as reasonably necessary to comply with our legal obligations, to resolve disputes regarding our Users or their Users-of-Users, prevent fraud and abuse, enforce our agreements and/or protect our legitimate interests. We maintain a data retention policy which we apply to information in our care. Where your Personally Identifiable Information is no longer required we will ensure it is securely deleted.
+  11. ### Age Restrictions:
 
-Our Services are not permitted to children under 18 years of age. No one under age 18 should provide any Personal Information to us through any of our Services. We do not knowingly collect Personal Information from children under 18. Parents and guardians should supervise their children’s activities at all times. If you know of or have reason to believe anyone under the age of 18 has provided the Company with any personal data, please contact us at [privacy@inmotionhosting.com ](mailto:privacy@inmotionhosting.com). 
-  11. ### Information Security:
+Our Services are not permitted to children under 18 years of age. No one under age 18 should provide any Personal Information to us through any of our Services. We do not knowingly collect Personal Information from children under 18. Parents and guardians should supervise their children’s activities at all times. If you know of or have reason to believe anyone under the age of 18 has provided the Company with any personal data, please contact us at [privacy@inmotionhosting.com ](mailto:privacy@inmotionhosting.com).
+  12. ### Information Security:
 
-The Company implements commercially reasonable security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. The Company restricts access to personal information to certain companies who may need to know that information in order to operate, develop, or improve the Services. These individuals or partner organizations are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, the Company cannot guarantee or warrant the security of any information you transmit to the Society, or to or from the Company online products or services. If you have questions about this Policy, please contact us. 
-  12. ### User ID and Password:
+The Company implements commercially reasonable security measures to help protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. The Company restricts access to personal information to certain companies who may need to know that information in order to operate, develop, or improve the Services. These individuals or partner organizations are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, the Company cannot guarantee or warrant the security of any information you transmit to the Society, or to or from the Company online products or services. If you have questions about this Policy, please contact us.
+  13. ### User ID and Password:
 
-Certain areas of the Company website(s) may require the use of a user ID, e-mail address or password, as an additional security measure that helps protect your information. To help you protect your privacy, the Company website(s) has tools to help you log in and log out. 
-  13. ### Linking to Other Internet Sites:
+Certain areas of the Company website(s) may require the use of a user ID, e-mail address or password, as an additional security measure that helps protect your information. To help you protect your privacy, the Company website(s) has tools to help you log in and log out.
+  14. ### Linking to Other Internet Sites:
 
-You should be aware that other Internet sites that are linked from the Company websites or from Company e-mail message may contain privacy provisions that differ from the provisions of this Policy. To ensure your privacy is protected, we recommend that you review the privacy statements of these other linked sites, applications, or other digital platforms. 
-  14. ### How You Can Access and Change Information:
+You should be aware that other Internet sites that are linked from the Company websites or from Company e-mail message may contain privacy provisions that differ from the provisions of this Policy. To ensure your privacy is protected, we recommend that you review the privacy statements of these other linked sites, applications, or other digital platforms.
+  15. ### How You Can Access and Change Information:
 
-If you are a registered user of the Company website(s) or purchaser of the Services, you may review and update/correct your account profile information directly on the Company’s website ([www.boldgrid.com](https://www.boldgrid.com/)) or by contacting us at [privacy@boldgrid.com](mailto:privacy@boldgrid.com). 
-  15. ### Contact Us:
+If you are a registered user of the Company website(s) or purchaser of the Services, you may review and update/correct your account profile information directly on the Company’s website ([www.boldgrid.com](https://www.boldgrid.com/)) or by contacting us at [privacy@boldgrid.com](mailto:privacy@boldgrid.com).
+  16. ### Contact Us:
 
-If you have any questions, concerns or complaints about this Policy, our practices or our Services, you may contact us by mail at Attn: Data Protection Team, 3629 Sentara Way, Virginia Beach, VA 23452, by email at [privacy@boldgrid.com](mailto:privacy@boldgrid.com). We will attempt to resolve any complaints regarding the use of your Personally Identifiable Information in accordance with this Privacy Policy. We will respond to all requests, inquiries or concerns within thirty (30) calendar days. 
+If you have any questions, concerns or complaints about this Policy, our practices or our Services, you may contact us by mail at Attn: Data Protection Team, 3629 Sentara Way, Virginia Beach, VA 23452, by email at [privacy@boldgrid.com](mailto:privacy@boldgrid.com). We will attempt to resolve any complaints regarding the use of your Personally Identifiable Information in accordance with this Privacy Policy. We will respond to all requests, inquiries or concerns within thirty (30) calendar days.
 
 
 
-Revised: May 24, 2018
+Revised: October 31, 2019 
