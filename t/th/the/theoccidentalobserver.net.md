@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoccidentalobserver.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331005429id_/https%3A//www.theoccidentalobserver.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoccidentalobserver.net privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129223715id_/https%3A//www.theoccidentalobserver.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – The Occidental Observer
 
@@ -30,8 +30,6 @@ These websites most likely collect data about you, use cookies, embed additional
 
 A “cookie” is a small text file that is placed in your browser which allows our site to recognize you each time you visit. Cookies themselves do not contain any personal information and are only used to enhance and personalize your experience while browsing our web site.
 
-We use GDPR Pro to record the legal acceptance of our Policies and Terms from EU/Switzerland visitors. We use no uncommon or specialized tracking or logging systems on this site, you may be confident.
-
 This site uses Google Analytics for site-wide statistics. You may opt out of their data storage (we’ve added the top software in order for you to do that), even though there is no recognizable data to us. We have never opted in to their regulated deeper analytics as we only use them to keep the site repaired and know if anyone is really visiting us. They gather IP addresses, browser type/app/operating system, etc., as all sites do which have statistics. We have looked at the data collected that is shown to us in their control panel, and nothing we see there identifies you personally. www.policies.google.com/technologies/cookies/ is where you will find all Analytics privacy information.
 
 This site uses Jetpack by Automattic (WordPress) to handle our post and comment subscriptions so they retain the data you enter there yourself. Please contact us after you unsubscribe if you wish to verify your name/email data has been deleted from subscriptions. If you use an email address that is associated with Automattic’s (WordPress) Gravatar.com site, then it will show in the back end and if you leave a comment. We suggest you don’t use that email if don’t wish your image to show. People forget that. www.Automattic.com’s Privacy Policy will tell you all about what they collect (most of which only PHP programmers know). Visitor comments are checked through an automated spam detection service provided by WordPress/Automattic, Akismet. Data is pooled there to mitigate spam. Akismet collects information about visitors who comment on Sites that use our Akismet anti-spam service. The information we collect depends on how the User sets up Akismet for the Site, but typically includes the commenter’s IP address, user agent, referrer, and Site URL (along with other information directly provided by the commenter such as their name, username, email address, and the comment itself).
@@ -51,6 +49,6 @@ Search-engine how to configure your browser (there are many) for the “privacy�
 Finally, we reserve the right to change our privacy policy at any time (like everyone). We encourage you to check this page occasionally for the most current information. If you have any questions, concerns or suggestions about our privacy policy, please contact support at theoccidentalobserver dot net.
 
 If you continue to use this site, you give consent to this Privacy Policy.  
-<https://www.theoccidentalobserver.net/privacy-preferences/>
+[Terms of Use](https://www.theoccidentalobserver.net/terms-of-use/)
 
 Rev. 2 on 7/11/2018
