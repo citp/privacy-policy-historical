@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wraltechwire.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406011329id_/http%3A//wraltechwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wraltechwire.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129161027id_/https%3A//wraltechwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WRAL TechWire
 
