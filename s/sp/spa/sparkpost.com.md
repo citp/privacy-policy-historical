@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkpost.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529194215id_/https%3A//www.sparkpost.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkpost.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129185731id_/https%3A//www.sparkpost.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SparkPost
 
@@ -232,5 +232,3 @@ If you have any questions about this Privacy Policy or the Services, please cont
 v3.1 May 14, 2019
 
 [Previous version (v3.0 April 2, 2018)](https://www.sparkpost.com/policies/privacy-v3)
-
-SparkPost © 2019 All Rights Reserved 
