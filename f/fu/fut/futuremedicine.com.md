@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futuremedicine.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328170427id_/https%3A//www.futuremedicine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futuremedicine.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129083916id_/https%3A//www.futuremedicine.com/privacy) for the most accurate reproduction.*
 
 # 
 
@@ -32,7 +32,7 @@ Contact details
 
 Our full details are:
 
-Full name of legal entity: Future Science Group (Future Medicine Ltd, Future Science Ltd and Newlands Press Ltd)
+Full name of legal entity: Future Medicine Ltd
 
 Email address: [datamanagement@future-science-group.com](mailto:datamanagement@future-science-group.com)
 
