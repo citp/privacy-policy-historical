@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330210653id_/https%3A//elifesciences.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elifesciences.org privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129134200id_/https%3A//elifesciences.org/privacy) for the most accurate reproduction.*
 
 # Privacy notice | eLife
 
@@ -129,6 +129,10 @@ Additional information generated during the review and publication process inclu
 For promoting our services to you we use email address and affiliation; information about manuscripts submitted, and whether they were accepted; preferences you have expressed about the type of information you wish to receive.
 
 For business analysis and planning purposes we use: author and funder details; decisions taken on manuscript and related processing dates; names of editors and reviewers who handled the manuscript.
+
+Author and manuscript personal information collected at submission stage includes: name, email address, affiliation, institutional role, ORCID iD, contributions and competing interests and funding information.
+
+We also request, for research purposes, the group leader's country of residence, gender and the year in which they became an independent researcher.
 
 ### Who do we share the data with, and why?
 
@@ -290,4 +294,5 @@ Dec 5, 2012 | Added paragraphs on cookies.
 Apr 3, 2012 | Removed section on advertisers.  
 May 23, 2018 | Completely restructured and expanded to comply with new legislation. Sections on author and editor data added.  
 Nov 12, 2018 | Clarified use of author data for research purposes and identifying reviewers.  
-Mar 12, 2019 | Added explanation of use of anonymised data about how users interact with our sites.
+Mar 12, 2019 | Added explanation of use of anonymised data about how users interact with our sites.  
+Jul 24, 2019 | Added reference to information collected and used for research purposes about the group leader with principal responsibility for a submission.
