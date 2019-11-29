@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jav.guru privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623215208id_/https%3A//jav.guru/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jav.guru privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129170541id_/https%3A//jav.guru/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy ⋆ Jav Guru - Japanese porn Tube
+# Privacy Policy ⋆ Jav Guru ⋆ Japanese porn Tube
 
 This document details important information regarding the use and disclosure of user data collected on jav.guru
 
