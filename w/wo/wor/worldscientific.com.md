@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldscientific.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529120911id_/https%3A//www.worldscientific.com/page/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldscientific.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129070722id_/https%3A//www.worldscientific.com/page/help/privacy-policy) for the most accurate reproduction.*
 
 # For Regular Users: FAQ - Privacy Policy
 
