@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theanalysisfactor.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612095956id_/https%3A//www.theanalysisfactor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanalysisfactor.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129073317id_/https%3A//www.theanalysisfactor.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - The Analysis Factor
 
@@ -67,3 +67,7 @@ Information security measures will be reviewed once a year–or earlier if circu
 ## How to Contact Us
 
 We are always happy to hear from our users and customers. If you have any questions, feedback about our policy, or want to exercise any of your rights listed above, please [use our contact form](https://www.theanalysisfactor.com/contact-us/), or email us  at _support@theanalysisfactor.com_.
+
+**Mailing Address:**  
+The Analysis Factor, LLC  
+430 W State St, Suite #204, Ithaca, NY 14850
