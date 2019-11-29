@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331083747id_/https%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129083226id_/https%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | EurekAlert! Science News
 
@@ -122,6 +122,8 @@ When you visit the Site, we or our third-party providers place a text file calle
 
 
 We use a tool called "Google Analytics" to collect some information we listed above about your use of the Site. We use the information we get from Google Analytics to improve the Site. In order to collect this information, Google Analytics may set cookies on your browser or mobile device, or read cookies that are already there. Google Analytics may also receive information about you from apps you have downloaded that partner with Google. We do not combine the information collected through the use of Google Analytics with personal information. Google's ability to use and share information collected by Google Analytics about your visits to the Site with other websites which partner with Google is restricted by the [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/partners/). Please review those for information about how Google uses the information collected through Google Analytics and how you can control the information collected by Google. 
+
+You may change your preferences here.
 
 ####   
 Opting Out of Tracking and Email Communications
