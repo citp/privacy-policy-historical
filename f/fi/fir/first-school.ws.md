@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the first-school.ws privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626083301id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first-school.ws privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129181523id_/http%3A//www.dltk-kids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,9 @@ DLTK's Inc. (" **DLTK** ") is committed to protecting your privacy. We have crea
 
 Google provides our Search Engine results (if you search our site) and our Advertising and our youTube videos. They use cookies (see the next section for what cookies are) on our websites when they provide these services.
 
-For viewers in the EU, we've just turned off cookies-related Advertisements because we're not good enough at technology to figure out how to let you say "yes" or "no" to cookies. We've just defaulted as if everyone in the EU said "no", to be safe.
+For viewers in the EEA (European Economic Area), you will receive a message that allows you to choose between personalized or non-personalized ads. EEA visitors who want to revoke consent can click here for consent revocation.
+
+Any viewers that are using ad blocking software will receive a message asking them to whitelist our site in order to continue. If you would prefer not to whitelist our site and allow ads you can subscribe to Contributor, a service that allows you to pay a nominal amount for each page you visit on our sites instead of allowing advertising. If you are a Contributor user and would like to remove our site from your removal pass please click here.
 
 ### **What the Heck are Cookies!?**
 
