@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scosche.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607154028id_/https%3A//www.scosche.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scosche.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129145556id_/https%3A//www.scosche.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -147,6 +147,14 @@ We note again that, if you choose to no longer receive marketing information fro
 
 We will only retain your Personal Information to fulfill the purposes for which it was collected or as required for legitimate business purposes as described in this Privacy Policy or otherwise as permitted by law.
 
+**Deletion of Personal Information**
+
+You may request to have your Personal Information deleted from our records. You may request the deletion of your records by calling toll-free (800) 363-4490 ext.1 or by emailing us at [ccpacompliance@scosche.com](mailto:ccpacompliance@scosche.com "Email us about Compliance").
+
+**Request for Collected Personal Information**
+
+You may request a report of Personal Information collected by Scosche over a 12-month period. You may request this information by calling toll-free (800) 363-4490 ext.1 or by emailing us at [ccpacompliance@scosche.com](mailto:ccpacompliance@scosche.com "Email us about Compliance").
+
 **Cookies, Web Beacons and Other Web Tools**
 
 We use automatic data collection tools like cookies, embedded web links and widgets (collectively, "web tools"). These web tools collect certain information that your browser or your mobile device sends to Scosche Websites and Scosche Products, such as computer IP address, browser type and service provider. In addition, Scosche may use small pieces of code called web beacons. Web beacons allow a website to transfer or collect information through a graphic image request. This allows Scosche to collect information such as the address of the page you are visiting, the address of the referring page you previously visited, what browser or mobile device you are using, and your display settings. Scosche and its advertising partners use web beacons, for example, to find out if advertising on Scosche websites and other websites that contain Scosche ads is effective, or if certain videos on Scosche websites are being viewed.
@@ -198,7 +206,14 @@ If you participate in or post information to our live chat functionality on any 
 
 **Your Privacy Rights/ California's Shine the Light Law**
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year.
+Under the California Consumer Privacy Act, you have the right to: 
+
+  * Submit a request for a description of the Personal Information we collect about you, and
+  * Submit a request for a description of how we share your Personal Information.
+
+
+
+We will not charge or discriminate against you in connection with any such request. You may submit your request by calling toll-free (800) 363-4490 ext.1 or by emailing us at [ccpacompliance@scosche.com](mailto:ccpacompliance@scosche.com "Email us about Compliance")
 
 **Updates to this Privacy Policy**
 
@@ -206,7 +221,7 @@ We may update this Privacy Policy from time to time, so please review it frequen
 
 **How to Contact Us**
 
-Should you have any privacy-related questions or comments related to this Privacy Policy, please contact us at [customerservice@scosche.com](mailto:customerservice@scosche.com "Email Scosche Customer Service"). 
+Should you have any privacy-related questions or comments related to this Privacy Policy, please contact us at [ccpacompliance@scosche.com](mailto:ccpacompliance@scosche.com "Email us about Compliance")  customerservice@scosche.com. 
 
 If you have complaints or concerns about this Privacy Policy, please contact us at the above email. We treat all complaints about a breach of the privacy laws seriously. Someone from Scosche will investigate your complaint and respond to you within a reasonable time.
 
