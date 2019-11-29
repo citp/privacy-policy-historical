@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarivate.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525061049id_/https%3A//clarivate.com/legal/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarivate.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129064916id_/https%3A//clarivate.com/legal/cookie-policy) for the most accurate reproduction.*
 
-# Cookie policy - Clarivate
+# Cookie Policy - Clarivate Analytics
 
 ### Introduction
 
