@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shopatron.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323200331id_/https%3A//kibocommerce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopatron.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129185740id_/https%3A//kibocommerce.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Kibo Unified Omnichannel Solutions
-
-**US**    |   [CA](https://kibocommerce.com/privacy-ca/)   |   [DE](https://kibocommerce.com/privacy-de/)   |   [FR](https://kibocommerce.com/privacy-fr/)   |   [IT](https://kibocommerce.com/privacy-it/)
+# Privacy Statement - Kibo Software, Inc
 
 Effective Date: April 21, 2018  
 Last Updated: February 14, 2019
@@ -11,7 +9,7 @@ Kibo Software, Inc., and its subsidiaries Baynote, LLC; Shopatron, LLC; FiveRun,
 
 ## U.S.-EU PRIVACY SHIELD
 
-Kibo has certified that it complies with the U.S.-EU Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, retention and transfer of Personal Information from European Union (“EU”) member countries. Kibo has certified that it adheres to the Privacy Shield Privacy Principles (the “Principles”) of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+Kibo has certified that it complies with the U.S.-EU Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, retention and transfer of Personal Information from European Union (“EU”) member countries. Kibo has certified that it adheres to the Privacy Shield Privacy Principles (the “Principles”) of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
 Kibo is subject to the jurisdiction, enforcement, and investigatory authority of the United States Federal Trade Commission. Any questions, comments, or complaints about the data practices (including, without limitation, compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of one of the clients or partners for whom Kibo processes data, should be addressed to that client or partner.
 
@@ -25,7 +23,7 @@ Kibo also complies with European Union (“EU”) regulations regarding the proc
 
 We collect information about your use of the Site.  This information falls into two categories: Personal Data and Non-Personal Data. We want you to be informed about what data is collected, when it is collected, and what we do with the data. Unless otherwise stated, we do not share any of this data with third parties.
 
-## Personal Data
+## PERSONAL DATA
 
 Personal Data is any information relating to an identified or identifiable natural person.  Personal Data is data that makes it possible to identify you by reference to an identifier such as your name, identification number, location data, or other specific data points.   Such information may include your name, address, email, telephone number, fax number, company, Site user name, Site password, billing or credit card information, or other similar information.
 
@@ -73,7 +71,7 @@ The GDPR also provides you with a right to erasure and/or rectification (correct
 
 If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Kibo to its affiliates and/or third parties for their direct marketing purposes.  To make such a request, please complete the form located at https://kibocommerce.com/GDPR. Kibo responds to requests for erasure within 30 days of receiving a completed request form.
 
-## Non-Personal Data
+## NON-PERSONAL DATA
 
 Non-Personal Data (“NPD”): NPD is information that cannot reasonably be used to identify or contact you. Such information may include browser information, domain names, and other anonymous or anonymized statistical data related to use of the Site.
 
@@ -147,22 +145,22 @@ To protect your privacy and security, in relation to any request for data, inclu
 
  **ENFORCEMENT AND DISPUTE RESOLUTION**
 
-Kibo regularly reviews its compliance with this Privacy Statement. Please feel free to direct any questions or concerns regarding this Privacy Statement or Kibo’s treatment of Personal Information by contacting us at [privacy@kibocommerce.com](mailto:privacy@kibocommerce.com). If you believe we have used your PII in violation of this Privacy Statement, you may contact us using the Contact Information below. If after 30 days you still believe your complaint has not been satisfactorily resolved, you may require that the matter be settled by a binding independent recourse mechanism (“IRM”).
+Kibo regularly reviews its compliance with this Privacy Statement. Please feel free to direct any questions or concerns regarding this Privacy Statement or Kibo’s treatment of Personal Information by contacting us at [privacy@kibocommerce.com](mailto:privacy@kibocommerce.com). If you believe we have used your PII in violation of this Privacy Statement, you may contact us using the Contact Information below. If after 30 days you still believe your complaint has not been satisfactorily resolved, you may require that the matter be settled by a binding independent recourse mechanism (“IRM”).
 
-  1. As an IRM for Visitors, clients, partners, and employees outside the EU and Switzerland, we recommend the American Arbitration Association® (“AAA”). In these cases, written notice of arbitration should be delivered to Kibo at the address below. Each party will bear its own costs of arbitration. The AAA provides dispute resolution services using a neutral arbitrator which will provide case resolution under the applicable AAA rules. The arbitrator will have no authority to award punitive damages. For more information on the AAA and the dispute resolution services, please see <http://www.adr.org/drs>.
+  1. As an IRM for Visitors, clients, partners, and employees outside the EU and Switzerland, we recommend the American Arbitration Association® (“AAA”). In these cases, written notice of arbitration should be delivered to Kibo at the address below. Each party will bear its own costs of arbitration. The AAA provides dispute resolution services using a neutral arbitrator which will provide case resolution under the applicable AAA rules. The arbitrator will have no authority to award punitive damages. For more information on the AAA and the dispute resolution services, please see <http://www.adr.org/drs>.
   2. As an IRM for Visitors, clients, and partners inside the EU, Kibo has committed to refer unresolved privacy complaints under the U.S.-EU Privacy Shield Privacy Principles to, the BBB EU Privacy Shield, a non-profit alternative dispute resolution provider located in the Unites States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit bbb.org/EU-privacy-shield/for-eu-consumers for more information and to file a complaint. Finally, as a last resort and in limited situations, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
-  3. As an IRM, Visitors, clients, partners, and employees from Switzerland should contact the Swiss Data Protection Authority for IRM dispute resolution. For Swiss Federal Data Protection Information Commissioner contact information, visit <http://www.edoeb.admin.ch/org/00926/index.html?lang=en>
-  4. As an IRM to Employee data inside the EU, Kibo has committed to cooperating with EU Data Protection Authorities (“DPAs”) with regards to human resource data transferred from the EU in the context of the employment relationship. For information regarding how to contact your states DPA, visit <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>
+  3. As an IRM, Visitors, clients, partners, and employees from Switzerland should contact the Swiss Data Protection Authority for IRM dispute resolution. For Swiss Federal Data Protection Information Commissioner contact information, visit <http://www.edoeb.admin.ch/org/00926/index.html?lang=en>
+  4. As an IRM to Employee data inside the EU, Kibo has committed to cooperating with EU Data Protection Authorities (“DPAs”) with regards to human resource data transferred from the EU in the context of the employment relationship. For information regarding how to contact your states DPA, visit <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>
 
 
 
-**ACCEPTANCE AND DISCLAIMER**
+ **ACCEPTANCE AND DISCLAIMER**
 
 By using the Site or the Kibo eCommerce Services, you signify your acceptance of this Privacy Statement. If you do not agree to this Privacy Statement, you should not use the Site or the Kibo eCommerce Services. Kibo reserves the right to modify or amend this Privacy Statement at any time. Your continued use of the Site or the Kibo Platform Services following the posting of changes will mean that you accept those changes. In the event of a sale, merger or other transfer of all or substantially all of the assets of Kibo, we reserve the right to transfer information to any such third party who acquires all or substantially all of the assets of Kibo by sale, merger, or transfer, or any of its divisions or business units.
 
  **CONTACT INFORMATION**
 
-At any time you may contact Kibo with questions or concerns about this Privacy Statement at [privacy@kibocommerce.com](mailto:privacy@kibocommerce.com). Written responses may also be submitted to:
+At any time you may contact Kibo with questions or concerns about this Privacy Statement at [privacy@kibocommerce.com](mailto:privacy@kibocommerce.com). Written responses may also be submitted to:
 
 Kibo Software, Inc.  
 Attention: Privacy Officer  
