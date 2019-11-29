@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331204809id_/https%3A//www.hrc.org/hrc-story/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrc.org privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129075133id_/https%3A//www.hrc.org/hrc-story/privacy-policy) for the most accurate reproduction.*
 
-# HRC | Human Rights Campaign
+# Privacy Policy | Human Rights Campaign
 
 _Last Updated_ _May 25, 2018_
 
