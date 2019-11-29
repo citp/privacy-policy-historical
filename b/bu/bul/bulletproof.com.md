@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulletproof.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403074804id_/https%3A//www.bulletproof.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletproof.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129060344id_/https%3A//shop.bulletproof.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
