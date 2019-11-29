@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deccanherald.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330101439id_/http%3A//www.deccanherald.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deccanherald.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129011226id_/https%3A//www.deccanherald.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Deccan Herald
 
