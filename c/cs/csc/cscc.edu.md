@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cscc.edu privacy policy that was archived on 2017-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171120140006id_/http%3A//www.cscc.edu/about/privacy-statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cscc.edu privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129043351id_/https%3A//www.cscc.edu/about/privacy-statement.shtml) for the most accurate reproduction.*
 
-# Privacy Statement - Columbus State Community College
+# Privacy Statement | Columbus State Community College
 
 Thank you for visiting the Columbus State Community College Website and reviewing our privacy statement. Columbus State Community College does not collect personal information about visitors to our Website unless you choose to provide that information to us. Columbus State Community College does not sell, exchange or release information gathered from your visit to our web site to parties outside the college without your consent or when the conditions in this statement apply. You may opt out of email marketing communications by clicking the “unsubscribe” link. 
 
-### Information Collected and Stored Automatically
+## Information Collected and Stored Automatically
 
-If you visit our Website, the college automatically gathers and stores[ the following information about your visit so that we can track the use of our Website in order to make improvements. This information is stored and used in the aggregate only, and is not used to contact you personally: 
+If you visit our Website, the college automatically gathers and stores the following information about your visit so that we can track the use of our Website in order to make improvements. This information is stored and used in the aggregate only, and is not used to contact you personally: 
 
   * The IP address from which you access our Website
   * The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account) 
@@ -37,7 +37,7 @@ Columbus State Community College will share information about you to other parti
 
 
 
-Student “directory information” may be released without the student’s written consent. Directory information at Columbus State includes: name, address, email address, , telephone number, program of study, participation in Columbus State activities and sports, weight and height of members of athletic teams, enrollment status or dates of attendance at Columbus State, degrees, certificates and awards received, and the most recent previous educational institution attended. If you do not want your directory information released, you must complete a form requesting it not be released and file the form with [ Records and Registration](https://web.archive.org/services/recordsandregistration/withhold-information.shtml). 
+Student “directory information” may be released without the student’s written consent. Directory information at Columbus State includes: name, address, student.cscc.edu email address, telephone number, program of study, participation in Columbus State activities and sports, weight and height of members of athletic teams, enrollment status or dates of attendance at Columbus State, degrees, certificates and awards received, and the most recent previous educational institution attended. If you do not want your directory information released, you must complete a form requesting it not be released and file the form with [The Office of the Registrar](https://www.cscc.edu/services/registrar/withhold-information.shtml). 
 
 ### Information Security
 
@@ -49,4 +49,4 @@ Within our website there are links to non-Columbus State Websites. When you link
 
 ### Comments
 
-Columbus State Community College is a large organization with many people sharing responsibility for the content of our Website. Please help us respond to your comments and inquiries by sending them to the appropriate Columbus State Department. If you have questions about this Privacy Statement, please contact us via email at [news@cscc.edu](mailto:news@cscc.edu). 
+Columbus State Community College is a large organization with many people sharing responsibility for the content of our Website. Please help us respond to your comments and inquiries by sending them to the appropriate Columbus State Department. If you have questions about this Privacy Statement, please contact us via email at [news@cscc.edu](mailto:news@cscc.edu). 
