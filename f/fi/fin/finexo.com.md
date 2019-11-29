@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finexo.com privacy policy that was archived on 2018-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181201102537id_/https%3A//www.finexo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finexo.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129115916id_/https%3A//www.finexo.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Finexo.com
 
@@ -296,20 +296,10 @@ This may include Personal Data necessary:
 
 **5.B.4.1** For special category of data as well as for research, statistical or marketing purposes we may only collect, use, process and store Personal Data where an explicit consent has been granted.
 
-**5.B.4.1** The table below outlines the Data that may be collected, used, processed and stored on the basis of consent (non-exhaustive list):
+**5.B.4.2** The table below outlines the Data that may be collected, used, processed and stored on the basis of consent (non-exhaustive list):
 
-1\. Telephone number (for marketing or statistical or research purposes whatsoever)  
-  
----  
-  
-2\. Citizenship  
-  
-3.. Marriage certificate  
-  
-4\. Religious beliefs (Islamic Accounts)  
-  
-5\. Waiver Letter (in regards with complaints)  
-  
+1\. Telephone number (for marketing or statistical or research purposes whatsoever)
+
 ## **6.** Your rights 
 
 **6.1** The Company takes all the appropriate measures to make sure that you are fully informed about your rights in regards with all Personal Data we collect, process, use and store.
@@ -488,7 +478,7 @@ Even though you have the right not to be subject to a decision, based solely on 
 
 **11.6** We will not disclose to any third party your Personal Data for its own marketing purposes without your consent.
 
-11.7 Please note that your Personal Data is shared, transferred, collected, processed and stored in the following countries (EEA and non-EEA): Cyprus, Bulgaria, Ireland, your country of residence, and/or Albania, Seychelles or Hong Kong.
+11.7 Please note that your Personal Data is shared, transferred, collected, processed and stored in the following countries (EEA and non-EEA): Cyprus, Bulgaria, Ireland, your country of residence, and/or Albania.
 
 11.8 If you would like a copy of your Personal Data held by the third parties or if you want to receive more details on how your Personal Data is collected, used, processed or stored by the third parties please contact us at [dpo@leadcapitalmarkets.com](mailto:dpo@leadcapitalmarkets.com) or at +357 - 22030446 or at our office address: 128 – 130 Limassol Avenue, 3rd floor, Office 301, Strovolos, CY 2015, Nicosia, Cyprus
 
