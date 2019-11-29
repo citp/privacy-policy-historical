@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corelaboratory.abbott privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411140914id_/http%3A//www.abbott.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corelaboratory.abbott privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129182428id_/http%3A//www.abbott.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Abbott U.S.
 
