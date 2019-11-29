@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanmina.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126030337id_/http%3A//www.sanmina.com/wp-content/uploads/2016/03/sanmina_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanmina.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129094245id_/http%3A//www.sanmina.com/wp-content/uploads/2016/03/sanmina_privacy_policy.pdf) for the most accurate reproduction.*
 
 # SANMINA CORPORATION PRIVACY POLICY
 
