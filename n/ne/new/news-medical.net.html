@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the news-medical.net privacy policy that was archived on 2019-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190520165443id_/https%3A//www.news-medical.net/medical/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news-medical.net privacy policy that was archived on 2019-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191129095259id_/https%3A//www.news-medical.net/medical/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" itemscope="" itemtype="http://schema.org/WebPage"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1"><title>
 	News-Medical - Privacy &amp; Cookie Policy
@@ -21,10 +21,32 @@
         window._azoStartScripts = [];
         window.$ = function(fn) {
             if (typeof fn === 'function') { _azoStartScripts.push(fn); }
-        }
+        };
+
+        
+        (function() {
+            var readCookie = function (name) {
+                var nameEQ = name + "=";
+                var ca = document.cookie.split(';');
+                for (var i = 0; i < ca.length; i++) {
+                    var c = ca[i];
+                    while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+                    if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+                }
+                return null;
+            };
+
+            var cp = readCookie('cookiepolicy');
+            window.g_isTargetingEnabled =
+                (cp && cp.length === 3 && cp[2] === '1') ||
+                (!cp && !!readCookie('cookiebarshown'));
+        })();
     </script>
 
-    <link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16"><link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32"><link rel="icon" href="/favicon-96x96.png" type="image/png" sizes="96x96"><link rel="stylesheet" href="https://use.typekit.net/iio3fgy.css"><link rel="start" title="The Medical News" href="/"><link type="application/rss+xml" rel="alternate" title="The Medical News (RSS)" href="https://www.news-medical.net/syndication.axd?format=rss"><link type="application/atom+xml" rel="alternate" title="The Medical News (ATOM)" href="https://www.news-medical.net/syndication.axd?format=atom"><meta http-equiv="content-type" content="text/html; charset=utf-8"> 
+    <link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16"><link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32"><link rel="icon" href="/favicon-96x96.png" type="image/png" sizes="96x96"><link rel="preload" href="https://use.typekit.net/iio3fgy.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="https://use.typekit.net/iio3fgy.css" /></noscript>
+
+    <link rel="start" title="The Medical News" href="/"><link type="application/rss+xml" rel="alternate" title="The Medical News (RSS)" href="https://www.news-medical.net/syndication.axd?format=rss"><link type="application/atom+xml" rel="alternate" title="The Medical News (ATOM)" href="https://www.news-medical.net/syndication.axd?format=atom"><meta http-equiv="content-type" content="text/html; charset=utf-8"> 
  <script type="text/javascript">
  
 	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
@@ -47,7 +69,7 @@
 <meta name="y_key" content="3022e9ac41851d3d">
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
-<link type="text/css" rel="stylesheet" href="https://d2jx2rerrg6sh3.cloudfront.net/bundles/css/desktop/base?v=frsBz1s90PqNP-PXb3XmLZPKNpDGsusOjJE06Z5Ecuo1">
+<link type="text/css" rel="stylesheet" href="https://d2jx2rerrg6sh3.cloudfront.net/bundles/css/desktop/base?v=b11pJEZNuMqJ9xaci6lGPmynQHrvhpEv7kIfEmkSe0U1">
 
 
     <script type="text/javascript">
@@ -80,10 +102,12 @@
 
 
 <script type="text/javascript" async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
-    <script type="text/javascript">
+<script type="text/javascript">
+    if (!window.g_isTargetingEnabled) {
         (adsbygoogle = window.adsbygoogle || []).requestNonPersonalizedAds = 1;
-    </script>
+    }
+</script>
+
 
 <script type="text/javascript">
     //<![CDATA[
@@ -110,7 +134,124 @@
             g_towerPromoSpotRightPos = ((g_windowWidth - 1100) / 2) - 160 - 20;
         }
     }
+
     //]]>
+</script>
+
+<script type="text/javascript">
+
+    /*! loadCSS. [c]2017 Filament Group, Inc. MIT License */
+    /* This file is meant as a standalone workflow for
+    - testing support for link[rel=preload]
+    - enabling async CSS loading in browsers that do not support rel=preload
+    - applying rel preload css once loaded, whether supported or not.
+    */
+    (function( w ){
+	    "use strict";
+	    // rel=preload support test
+	    if( !w.loadCSS ){
+		    w.loadCSS = function(){};
+	    }
+	    // define on the loadCSS obj
+	    var rp = loadCSS.relpreload = {};
+	    // rel=preload feature support test
+	    // runs once and returns a function for compat purposes
+	    rp.support = (function(){
+		    var ret;
+		    try {
+			    ret = w.document.createElement( "link" ).relList.supports( "preload" );
+		    } catch (e) {
+			    ret = false;
+		    }
+		    return function(){
+			    return ret;
+		    };
+	    })();
+
+	    // if preload isn't supported, get an asynchronous load by using a non-matching media attribute
+	    // then change that media back to its intended value on load
+	    rp.bindMediaToggle = function( link ){
+		    // remember existing media attr for ultimate state, or default to 'all'
+		    var finalMedia = link.media || "all";
+
+		    function enableStylesheet(){
+			    // unbind listeners
+			    if( link.addEventListener ){
+				    link.removeEventListener( "load", enableStylesheet );
+			    } else if( link.attachEvent ){
+				    link.detachEvent( "onload", enableStylesheet );
+			    }
+			    link.setAttribute( "onload", null ); 
+			    link.media = finalMedia;
+		    }
+
+		    // bind load handlers to enable media
+		    if( link.addEventListener ){
+			    link.addEventListener( "load", enableStylesheet );
+		    } else if( link.attachEvent ){
+			    link.attachEvent( "onload", enableStylesheet );
+		    }
+
+		    // Set rel and non-applicable media type to start an async request
+		    // note: timeout allows this to happen async to let rendering continue in IE
+		    setTimeout(function(){
+			    link.rel = "stylesheet";
+			    link.media = "only x";
+		    });
+		    // also enable media after 3 seconds,
+		    // which will catch very old browsers (android 2.x, old firefox) that don't support onload on link
+		    setTimeout( enableStylesheet, 3000 );
+	    };
+
+	    // loop through link elements in DOM
+	    rp.poly = function(){
+		    // double check this to prevent external calls from running
+		    if( rp.support() ){
+			    return;
+		    }
+		    var links = w.document.getElementsByTagName( "link" );
+		    for( var i = 0; i < links.length; i++ ){
+			    var link = links[ i ];
+			    // qualify links to those with rel=preload and as=style attrs
+			    if( link.rel === "preload" && link.getAttribute( "as" ) === "style" && !link.getAttribute( "data-loadcss" ) ){
+				    // prevent rerunning on link
+				    link.setAttribute( "data-loadcss", true );
+				    // bind listeners to toggle media back
+				    rp.bindMediaToggle( link );
+			    }
+		    }
+	    };
+
+	    // if unsupported, run the polyfill
+	    if( !rp.support() ){
+		    // run once at least
+		    rp.poly();
+
+		    // rerun poly on an interval until onload
+		    var run = w.setInterval( rp.poly, 500 );
+		    if( w.addEventListener ){
+			    w.addEventListener( "load", function(){
+				    rp.poly();
+				    w.clearInterval( run );
+			    } );
+		    } else if( w.attachEvent ){
+			    w.attachEvent( "onload", function(){
+				    rp.poly();
+				    w.clearInterval( run );
+			    } );
+		    }
+	    }
+
+
+	    // commonjs
+	    if( typeof exports !== "undefined" ){
+		    exports.loadCSS = loadCSS;
+	    }
+	    else {
+		    w.loadCSS = loadCSS;
+	    }
+    }( typeof global !== "undefined" ? global : this ) );
+
 </script>
 
 
@@ -155,17 +296,17 @@
         
         var g_dfpSlots = [];
 
-        g_dfpSlots.push({ps: [970, 250], szs: [[970, 250], [970, 90], [728, 90]], aduid: '/1005779/News-Medical970x250Top', pbsc: 'VreB', eid: 'div-gpt-top-leaderboard-billboard', sced: true });
+        g_dfpSlots.push({ps: [970, 250], szs: [[970, 250], [970, 90], [728, 90]], aduid: '/1005779/News-Medical970x250Top', pbsc: 'VreB', eid: 'div-gpt-top-leaderboard-billboard', sced: true, refresh: true });
             
             var g_adSquaresSizes = [300, 250];
-            g_dfpSlots.push({ps: [300, 250], szs: g_adSquaresSizes, aduid: '/1005779/NewsMedicalSquares', pbsc: 'maCH', eid: 'div-gpt-mrec', sced: true });
+            g_dfpSlots.push({ps: [300, 250], szs: g_adSquaresSizes, aduid: '/1005779/NewsMedicalSquares', pbsc: 'maCH', eid: 'div-gpt-mrec', sced: true, refresh: true });
         
             if (iScreenWidth == 1) {
-                g_dfpSlots.push({ ps: [160, 600], szs: [[160, 600], [120, 600]], aduid: '/1005779/News-Medical160x600Towers', pbsc: 'suJF', eid: 'div-gpt-right-tower' });
+                g_dfpSlots.push({ ps: [160, 600], szs: [[160, 600], [120, 600]], aduid: '/1005779/News-Medical160x600Towers', pbsc: 'suJF', eid: 'div-gpt-right-tower', refresh: true });
             }
         
             if (iScreenWidth == 2) {
-                g_dfpSlots.push({ ps: [300, 600], szs: [[300, 600], [160, 600]], aduid: '/1005779/News-Medical300x600Tower', pbsc: '77jb', eid: 'div-gpt-right-tower-large' });
+                g_dfpSlots.push({ ps: [300, 600], szs: [[300, 600], [160, 600]], aduid: '/1005779/News-Medical300x600Tower', pbsc: '77jb', eid: 'div-gpt-right-tower-large', refresh: true });
             }
         
             
@@ -179,9 +320,12 @@
         window._renderedAdSlots = [];
 
         var g_dfpTargeting = [
-            { k: "site", v: "nm" },
-        { k: "npa", v: "yes" }
+            { k: "site", v: "nm" }
         ];
+
+        if (!window.g_isTargetingEnabled) {
+            g_dfpTargeting.push({ k: "npa", v: "yes" });
+        }
 
         
         (function() {
@@ -189,14 +333,13 @@
 
                 for (var s = 0; s < g_dfpSlots.length; s++) {
                     var slot = g_dfpSlots[s];
-                    var gslot = null;
                     
                     if (slot.oop) {
-                        gslot = googletag.defineOutOfPageSlot(slot.aduid, slot.eid).addService(googletag.pubads());
+                        slot.slotObj = googletag.defineOutOfPageSlot(slot.aduid, slot.eid).addService(googletag.pubads());
                     } else {
-                        gslot = googletag.defineSlot(slot.aduid, slot.szs, slot.eid).addService(googletag.pubads());
+                        slot.slotObj = googletag.defineSlot(slot.aduid, slot.szs, slot.eid).addService(googletag.pubads());
                         if (slot.sced) {
-                            gslot.setCollapseEmptyDiv(true);
+                            slot.slotObj.setCollapseEmptyDiv(true);
                         }
                     }
                 }
@@ -209,8 +352,10 @@
                 }
 
                 
-                    googletag.pubads().setRequestNonPersonalizedAds(1);
                 
+                if (!window.g_isTargetingEnabled) {
+                    googletag.pubads().setRequestNonPersonalizedAds(1);
+                }
                 
                 googletag.pubads().addEventListener('slotRenderEnded', function(e) { if (typeof Azom === 'undefined') { _renderedAdSlots.push(e); } else { Azom.onAdSlotRendered(e); }});
                 
@@ -247,7 +392,7 @@
             <div class="container main-content-right">
                 <form method="post" action="/medical/privacy" id="aspnetForm">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="3a/9sdtF8gtyv3sxoakmADaRmlWba6LTfr4GiqwzumQu6b2uF/994ibzICg0yfm+NzlMtniZPdluosdX4eCnQ6uNKYZY6mauFWtMbQSRvxr+fsl+75BNVD4ntW7/b5CI2/w339BMyUJfOhUZaFzMnA8Bm3BYOdhoCXKpHs2cElemawJogdQrg7o3UOa1XxWZIzZLRciXT5zi7yV6NDT6cun6cBM=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="o6bPKcuaGvhaUYLpeScoBAd+reY/O38L8iB8WnyznTXfga35D+RsY+dPyhJxWNcmrYoDYRMnBOr7DxilwozhW0O+q5tn8vP6l0/YVwLOEXucMewqJ3psdGKFvOWtcRX67mdRiuVIQN3Qq0agS4RFcleRVNQAulVWkbQEg2SUbZ3Q7hDzAZteTfLy8Rmjy7SktRoWrl9CI0SA+VmBIF0j9P/QyW4=">
 </div>
 
 
@@ -292,8 +437,6 @@ function registerVariables(){BlogEngine.webRoot='/';BlogEngine.i18n.hasRated='Yo
                                                 <!-- populated client side -->
                                             </div>
                                             
-                                            
-
                                             <div class="search-input-group input-group">
 
                                                 <span class="icon-search"></span>
@@ -327,7 +470,6 @@ function registerVariables(){BlogEngine.webRoot='/';BlogEngine.i18n.hasRated='Yo
                                         <li class="hidden-xs"><a class="moremenu">More...</a></li>
                                         <li class="hidden-sm hidden-md hidden-lg"><a href="/medical/newsletters"><span>Newsletters</span></a></li>
                                         <li class="hidden-sm hidden-md hidden-lg"><a href="/Consumer-Products"><span>Health &amp; Personal Care</span></a></li>
-                                        <li class="hidden-sm hidden-md hidden-lg"><a href="/medical/twitter-channels"><span>Twitter Channels</span></a></li>
                                         <li class="hidden-sm hidden-md hidden-lg"><a href="/medical/contact"><span>Contact</span></a></li>
                                         <li class="hidden-sm hidden-md hidden-lg"><a href="/medical/team"><span>Meet the Team</span></a></li>
                                         <li class="hidden-sm hidden-md hidden-lg"><a href="https://www.azonetwork.com/marketing-science/news-medical#medical"><span>Advertise</span></a></li>
@@ -348,7 +490,6 @@ function registerVariables(){BlogEngine.webRoot='/';BlogEngine.i18n.hasRated='Yo
                                         <li class="menu-item-on-wide-device"><a href="/life-sciences/webinars"><span>Webinars</span></a></li>
                                         <li class="hidden-xs"><a class="moremenu">More...</a></li>
                                         <li class="hidden-sm hidden-md hidden-lg"><a href="/life-sciences/contact"><span>Contact</span></a></li>
-                                        <li class="hidden-sm hidden-md hidden-lg"><a href="/life-sciences/twitter-channels"><span>Twitter Channels</span></a></li>
                                         <li class="hidden-sm hidden-md hidden-lg"><a href="/life-sciences/team"><span>Meet the Team</span></a></li>
                                         <li class="hidden-sm hidden-md hidden-lg"><a href="https://www.azonetwork.com/marketing-science/news-medical#lifesciences"><span>Advertise</span></a></li>
                                         <li class="hidden-sm hidden-md hidden-lg"><a href="/medical/search"><span>Search</span></a></li>
@@ -363,7 +504,6 @@ function registerVariables(){BlogEngine.webRoot='/';BlogEngine.i18n.hasRated='Yo
                                         <li class="menu-item-on-wide-device"><a href="/mediknowledge">MediKnowledge</a></li>
                                         <li><a href="/medical/newsletters"><span>Newsletters</span></a></li>
                                         <li><a href="/Consumer-Products"><span>Health &amp; Personal Care</span></a></li>
-                                        <li><a href="/medical/twitter-channels">Twitter Channels</a></li>
                                         <li><a href="/medical/contact">Contact</a></li>
                                         <li><a href="/medical/team">Meet the Team</a></li>
                                         <li><a href="https://www.azonetwork.com/marketing-science/news-medical#medical">Advertise</a></li>
@@ -376,7 +516,6 @@ function registerVariables(){BlogEngine.webRoot='/';BlogEngine.i18n.hasRated='Yo
                                     <ul class="mobile-main mobile-main-life-sciences serif hidden-xs">
                                         <li class="menu-item-on-wide-device"><a href="/life-sciences/webinars"><span>Webinars</span></a></li>
                                         <li><a href="/life-sciences/contact"><span>Contact</span></a></li>
-                                        <li><a href="/life-sciences/twitter-channels"><span>Twitter Channels</span></a></li>
                                         <li><a href="/life-sciences/team">Meet the Team</a></li>
                                         <li><a href="https://www.azonetwork.com/marketing-science/news-medical#lifesciences"><span>Advertise</span></a></li>
                                         <li><a href="/medical/search"><span>Search</span></a></li>
@@ -483,7 +622,7 @@ function registerVariables(){BlogEngine.webRoot='/';BlogEngine.i18n.hasRated='Yo
 
 <p>We use this information to analyse how our Website is accessed and used and which of our suppliers are of most interest to you so that we improve our service and make it relevant to you.</p>
 
-<h3>Cookies</h3>
+<h3 class="anchor-offset-for-fixed-header" id="cookies">Cookies</h3>
 
 <p>In common with many other website operators, we may use standard technology called 'cookies' on this Website. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this Website on each visit.</p>
 
@@ -726,7 +865,7 @@ Australia</p>
 
             
             <p class="page-last-updated-on">
-                Last Updated: Jan 17, 2019
+                Last Updated: Jun 26, 2019
             </p>
 
         </div>
@@ -754,57 +893,59 @@ Australia</p>
 </div>
 </section></div>
 
-        <section class="tab-container col-xs-12">
-            <ul class="nav nav-tabs nav-sidebar-tabs" data-tabs="tabs">
-                <li class="active"><a href="#tabs-1" data-toggle="tabs"><span>Trending<br>Stories</span></a></li>
-                <li><a href="#tabs-2" data-toggle="tabs"><span>Latest<br>Interviews</span></a></li>
-                <li><a href="#tabs-3" data-toggle="tabs"><span>Top Health<br>Articles</span></a></li>
-            </ul>
-            <div class="tab-content">
-                <div id="tabs-1" class="tab-pane active interviews-container col-xs-12">
-                    <div id="widgetzone_CommonTabsTab1V3" class="widgetzone clearfix"><section class="widget mostpopularcontent clearfix common-img-list-outer" id="widget7ad6f03a-884f-4d11-a272-92e79503fdce"><ul class="common-img-list most-popular-content common-img-list-with-thumbs"><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190515/WHO-releases-guidelines-for-preventing-dementia-and-they-dont-include-supplements.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fBy_Diego_Cervo_b93dd7ae2f4248dbbaf5bb2e3db60805-125x110.jpg" alt="WHO releases guidelines for preventing dementia, and they don't include supplements" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190515/WHO-releases-guidelines-for-preventing-dementia-and-they-dont-include-supplements.aspx" class="common-img-list-text">WHO releases guidelines for preventing dementia, and they don't include supplements</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190513/Penis-enlargement-surgery-ineffective-and-potentially-dangerous.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fshutterstock_636204734_0d557339955e41d7aa83ca8e00776daf-125x110.jpg" alt="Penis enlargement surgery ineffective and potentially dangerous" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190513/Penis-enlargement-surgery-ineffective-and-potentially-dangerous.aspx" class="common-img-list-text">Penis enlargement surgery ineffective and potentially dangerous</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190517/New-type-of-insulin-could-prevent-hypoglycemia-in-diabetics.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fDiabetes_patient_shot_by_syringe_with_dose_of_insulin%2c_subcutaneous_abdomen_vaccination_isolated_on_a_white_background-goffkein.pro_6edd5e4c810e4f5f824fafc392e97afb-125x110.jpg" alt="New type of insulin could prevent hypoglycemia in diabetics" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190517/New-type-of-insulin-could-prevent-hypoglycemia-in-diabetics.aspx" class="common-img-list-text">New type of insulin could prevent hypoglycemia in diabetics</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190513/Disease-transmissible-from-dogs-to-humans-shows-up-in-Iowa.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fCanine_brucellosis_f93743763b0542808d0fa650d9fef36f-125x110.jpg" alt="Disease transmissible from dogs to humans shows up in Iowa" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190513/Disease-transmissible-from-dogs-to-humans-shows-up-in-Iowa.aspx" class="common-img-list-text">Disease transmissible from dogs to humans shows up in Iowa</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190515/Physician-training-makes-doctors-DNA-to-age-six-times-faster-than-normal.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2016%2f6%2f3d_rendered_illustration_of_the_human_genome-Sebastian_Kaulitzki_(2)-590_18da4e909d704b5fa71b7dd9ad43e610-125x110.jpg" alt="Physician training makes doctors' DNA to age six times faster than normal" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190515/Physician-training-makes-doctors-DNA-to-age-six-times-faster-than-normal.aspx" class="common-img-list-text">Physician training makes doctors' DNA to age six times faster than normal</a></div></li></ul><div style="clear:both;"></div></section></div>
-                </div><!-- tab 1 -->
-                <div id="tabs-2" class="tab-pane equipment-container col-xs-12">
-                    <div id="widgetzone_CommonTabsTab2V3" class="widgetzone clearfix"><section class="widget latestinterviews clearfix" id="widget0a18bf04-26a0-4353-91bb-048d62a7b2fa"><article class="article-size-3 interview col-xs-12">
+        
+            <section class="tab-container col-xs-12">
+                <ul class="nav nav-tabs nav-sidebar-tabs" data-tabs="tabs">
+                    <li class="active"><a href="#tabs-1" data-toggle="tabs"><span>Trending<br>Stories</span></a></li>
+                    <li><a href="#tabs-2" data-toggle="tabs"><span>Latest<br>Interviews</span></a></li>
+                    <li><a href="#tabs-3" data-toggle="tabs"><span>Top Health<br>Articles</span></a></li>
+                </ul>
+                <div class="tab-content">
+                    <div id="tabs-1" class="tab-pane active interviews-container col-xs-12">
+                        <div id="widgetzone_CommonTabsTab1V3" class="widgetzone clearfix"><section class="widget mostpopularcontent clearfix common-img-list-outer" id="widget7ad6f03a-884f-4d11-a272-92e79503fdce"><ul class="common-img-list most-popular-content common-img-list-with-thumbs"><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191122/FDA-approves-Ohio-State-developed-drug-to-treat-patients-with-CLL-and-SCL.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2017%2f11%2fBlood_smear_under_microscopy_showing_chronic_lymphoblastic_leukemia_(CLL)-Medtech_THAI_STUDIO_LAB_249_5668a625a9ad46978c78f22fdb7af040-125x110.jpg" alt="FDA approves Ohio State-developed drug to treat patients with CLL and SCL" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191122/FDA-approves-Ohio-State-developed-drug-to-treat-patients-with-CLL-and-SCL.aspx" class="common-img-list-text">FDA approves Ohio State-developed drug to treat patients with CLL and SCL</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191125/Inhaled-cannabis-cuts-headache-and-migraine-severity-by-nearly-half.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2018%2f7%2fcannabis_bud__marihuana_plants_-_hanohiki_A1_5a39b32fd2814ad0b60f7a57a6e3142b-125x110.jpg" alt="Inhaled cannabis cuts headache and migraine severity by nearly half" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191125/Inhaled-cannabis-cuts-headache-and-migraine-severity-by-nearly-half.aspx" class="common-img-list-text">Inhaled cannabis cuts headache and migraine severity by nearly half</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191125/Study-finds-lower-rates-of-premature-death-and-cancer-in-Seventh-day-Adventists.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2018%2f8%2fshutterstock_661229134_005910d5766046f3bf89c2d531fcb360-125x110.jpg" alt="Study finds lower rates of premature death and cancer in Seventh-day Adventists" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191125/Study-finds-lower-rates-of-premature-death-and-cancer-in-Seventh-day-Adventists.aspx" class="common-img-list-text">Study finds lower rates of premature death and cancer in Seventh-day Adventists</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191122/Study-shows-how-drinking-patterns-reprogram-circadian-metabolism-in-the-liver.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2018%2f7%2fSet_of_cocktails_at_the_bar._Alcoholic_beverages._-_Goncharov_Artem_M1_fb2af320a795479da557add0c5ebd05d-125x110.jpg" alt="Study shows how drinking patterns reprogram circadian metabolism in the liver" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191122/Study-shows-how-drinking-patterns-reprogram-circadian-metabolism-in-the-liver.aspx" class="common-img-list-text">Study shows how drinking patterns reprogram circadian metabolism in the liver</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191127/Study-advances-understanding-of-mechanisms-involved-in-functional-neurological-disorder.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-125x110.jpg" alt="Study advances understanding of mechanisms involved in functional neurological disorder" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191127/Study-advances-understanding-of-mechanisms-involved-in-functional-neurological-disorder.aspx" class="common-img-list-text">Study advances understanding of mechanisms involved in functional neurological disorder</a></div></li></ul><div style="clear:both;"></div></section></div>
+                    </div><!-- tab 1 -->
+                    <div id="tabs-2" class="tab-pane equipment-container col-xs-12">
+                        <div id="widgetzone_CommonTabsTab2V3" class="widgetzone clearfix"><section class="widget latestinterviews clearfix" id="widget0a18bf04-26a0-4353-91bb-048d62a7b2fa"><article class="article-size-3 interview col-xs-12">
 <div class="article-title col-xs-9 col-md-8">
-<h3><a href="/news/20190510/Examining-the-Long-term-Effects-of-Concussion-in-Sport.aspx">Examining the Long-term Effects of Concussion in Sport</a></h3>
-<p class="hidden-sm">Lauren Pulling</p>
-<p class="visible-sm-block">An interview with The Drake Foundation, discussing the short and long-term effects of concussions obtained during contact sports such as football and rugby.</p>
+<h3><a href="/news/20191120/Applying-a-Proteomics-based-Approach-to-the-Clinic.aspx">Applying a Proteomics-based Approach to the Clinic</a></h3>
+<p class="hidden-sm">Professor Matthias Mann</p>
+<p class="visible-sm-block">Matthias Mann explains why applying proteomics-based technologies such as timsTOF could accelerate the diagnosis and prediction of human disease.</p>
 </div>
 <div class="article-thumb col-xs-3 col-md-4">
-<a href="/news/20190510/Examining-the-Long-term-Effects-of-Concussion-in-Sport.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fwidget-1.jpg" alt="Examining the Long-term Effects of Concussion in Sport" style="height:110px;"></a>
+<a href="/news/20191120/Applying-a-Proteomics-based-Approach-to-the-Clinic.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f9%2fwidget1.jpg" alt="Applying a Proteomics-based Approach to the Clinic" style="height:110px;"></a>
 </div>
 </article>
 
 <article class="article-size-3 interview col-xs-12">
 <div class="article-title col-xs-9 col-md-8">
-<h3><a href="/news/20190507/Without-Antibiotics-I-Cannot-Treat-Examining-Antibiotic-Resistance-Drivers-in-India.aspx">Examining Antibiotic Resistance Drivers in India</a></h3>
-<p class="hidden-sm">Mohit Nair</p>
-<p class="visible-sm-block">Mohit Nair discusses the issue of antibiotic resistance in India and the work that MSF is doing to improve awareness and reduce the misuse of antibiotics.</p>
+<h3><a href="/news/20191119/Proteomics-DIA-Mass-Spectroscopy-in-Neurodegenerative-Disease-Research.aspx">Proteomics &amp; DIA Mass Spectroscopy in Neurodegenerative Disease Research</a></h3>
+<p class="hidden-sm">Nicholas Dupuis</p>
+<p class="visible-sm-block">News-Medical Life Sciences spoke to Nicholas Dupuis from Biognosys at Neuroscience 2019 about proteomics &amp; DIA mass spectroscopy in neurodegenerative disease research.</p>
 </div>
 <div class="article-thumb col-xs-3 col-md-4">
-<a href="/news/20190507/Without-Antibiotics-I-Cannot-Treat-Examining-Antibiotic-Resistance-Drivers-in-India.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fwidget.jpg" alt="Examining Antibiotic Resistance Drivers in India" style="height:110px;"></a>
+<a href="/news/20191119/Proteomics-DIA-Mass-Spectroscopy-in-Neurodegenerative-Disease-Research.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f11%2fwidget-1.jpg" alt="Proteomics &amp; DIA Mass Spectroscopy in Neurodegenerative Disease Research" style="height:110px;"></a>
 </div>
 </article>
 
 <article class="article-size-3 interview col-xs-12">
 <div class="article-title col-xs-9 col-md-8">
-<h3><a href="/news/20190429/You-Are-What-You-Eat-Protecting-The-Health-Of-Consumers-Through-Food-And-Beverage-Analysis.aspx">Protecting The Health Of Consumers Through Food And Beverage Analysis</a></h3>
-<p class="hidden-sm">Brad Harrison &amp; Artem Egorov</p>
-<p class="visible-sm-block">News-Medical speaks to Brad Harrison and Artem Egorov about the analysis of common but potentially lethal compounds in food and beverages.</p>
+<h3><a href="/news/20191119/Lowering-the-Barriers-to-Automated-Microscopy.aspx">Lowering the Barriers to Automated Microscopy</a></h3>
+<p class="hidden-sm">David Goosen</p>
+<p class="visible-sm-block">News-Medical Life Sciences spoke to Zaber Technologies at Neuroscience 2019 to find out how they are lowering the barriers of automated microscopy.</p>
 </div>
 <div class="article-thumb col-xs-3 col-md-4">
-<a href="/news/20190429/You-Are-What-You-Eat-Protecting-The-Health-Of-Consumers-Through-Food-And-Beverage-Analysis.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f4%2fwidget_copy.jpg" alt="Protecting The Health Of Consumers Through Food And Beverage Analysis" style="height:110px;"></a>
+<a href="/news/20191119/Lowering-the-Barriers-to-Automated-Microscopy.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f11%2fwidget-2.jpg" alt="Lowering the Barriers to Automated Microscopy" style="height:110px;"></a>
 </div>
 </article>
 
 </section></div>
-                </div><!-- tab 2 -->
-                <div id="tabs-3" class="tab-pane trending-container col-xs-12">
-                    <div id="widgetzone_CommonTabsTab3V3" class="widgetzone clearfix"><section class="widget mostpopularcontent clearfix common-img-list-outer" id="widget360d1ace-7707-41de-b785-fe14029ab139"><ul class="common-img-list most-popular-content common-img-list-with-thumbs"><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/What-is-Factor-V-Leiden.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fshutterstock_290143517_ec6bec053d39423b827a7a67b249d8cd-125x110.jpg" alt="What is Factor V Leiden?" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/What-is-Factor-V-Leiden.aspx" class="common-img-list-text">What is Factor V Leiden?</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/What-is-Hereditary-Spastic-Paraplegia.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2014%2f7%2fDisability-125x110.jpg" alt="What is Hereditary Spastic Paraplegia?" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/What-is-Hereditary-Spastic-Paraplegia.aspx" class="common-img-list-text">What is Hereditary Spastic Paraplegia?</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/What-is-Inclusion-Body-Myositis.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fshutterstock_1200880750_e0dbda32669441d19737193521d70223-125x110.jpg" alt="What is Inclusion Body Myositis?" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/What-is-Inclusion-Body-Myositis.aspx" class="common-img-list-text">What is Inclusion Body Myositis?</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/Neurophysiotherapy-for-Parkinsons-Disease.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fCapture_95903b1744954786a1b9981b2392399b-125x110.jpg" alt="Neurophysiotherapy for Parkinson's Disease" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/Neurophysiotherapy-for-Parkinsons-Disease.aspx" class="common-img-list-text">Neurophysiotherapy for Parkinson's Disease</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/What-is-Churg-Strauss-Syndrome.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fshutterstock_1141822055_de7bbb74c5d14699a3cb1a5ac0a60653-125x110.jpg" alt="What is Churg-Strauss Syndrome?" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/What-is-Churg-Strauss-Syndrome.aspx" class="common-img-list-text">What is Churg-Strauss Syndrome?</a></div></li></ul><div style="clear:both;"></div></section></div>
-                </div><!-- tab 3 -->
-            </div><!-- tab-content -->
-        </section>
+                    </div><!-- tab 2 -->
+                    <div id="tabs-3" class="tab-pane trending-container col-xs-12">
+                        <div id="widgetzone_CommonTabsTab3V3" class="widgetzone clearfix"><section class="widget mostpopularcontent clearfix common-img-list-outer" id="widget360d1ace-7707-41de-b785-fe14029ab139"><ul class="common-img-list most-popular-content common-img-list-with-thumbs"><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/What-is-Psychedelic-Microdosing.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f11%2fshutterstock_339025514_2b60c5d7c9c5460cb99890a0faa06455-125x110.jpg" alt="What is Psychedelic Microdosing?" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/What-is-Psychedelic-Microdosing.aspx" class="common-img-list-text">What is Psychedelic Microdosing?</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/Estrogen-as-a-Treatment-for-Parkinsone28099s-Disease.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f11%2fshutterstock_746879410_9892a49a09fd44b9b20abe018bbe712b-125x110.jpg" alt="Estrogen as a Treatment for Parkinson’s Disease" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/Estrogen-as-a-Treatment-for-Parkinsone28099s-Disease.aspx" class="common-img-list-text">Estrogen as a Treatment for Parkinson’s Disease</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/Is-a-Plant-Based-Diet-Good-for-Type-2-Diabetes.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f11%2fshutterstock_1383226604_c55e75860b724222b84d359ccb69279a-125x110.jpg" alt="Is a Plant-Based Diet Good for Type 2 Diabetes?" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/Is-a-Plant-Based-Diet-Good-for-Type-2-Diabetes.aspx" class="common-img-list-text">Is a Plant-Based Diet Good for Type 2 Diabetes?</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/Do-Serotonin-and-Antidepressants-Affect-the-Microbiome.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f11%2fshutterstock_1483073591_a2736a177c474a62bf4d84cd68a7250d-125x110.jpg" alt="Do Serotonin and Antidepressants Affect the Microbiome?" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/Do-Serotonin-and-Antidepressants-Affect-the-Microbiome.aspx" class="common-img-list-text">Do Serotonin and Antidepressants Affect the Microbiome?</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/health/Vitamin-D-and-Type-2-Diabetes.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f11%2fshutterstock_1148454926_3b851dcd70e64d0995feb87c50a5eeac-125x110.jpg" alt="Vitamin D and Type 2 Diabetes" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/health/Vitamin-D-and-Type-2-Diabetes.aspx" class="common-img-list-text">Vitamin D and Type 2 Diabetes</a></div></li></ul><div style="clear:both;"></div></section></div>
+                    </div><!-- tab 3 -->
+                </div><!-- tab-content -->
+            </section>
+        
 
         <div id="widgetzone_CommonSidebarBottomV3" class="widgetzone clearfix"><section class="widget literal clearfix" id="widgetcf3e21ae-b1e5-4816-82f4-b39f2abe23b3">
 
@@ -816,18 +957,7 @@ Australia</p>
 //]]>
 </script>
 </div>
-</section><section class="widget recentposts clearfix common-img-list-outer" id="widget68b649b4-9400-4eb9-92fa-00d85cb74cf2"><h2 class="widget-top">Latest News</h2><ul class="common-img-list common-img-list-with-thumbs"><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190520/PDIA1-enzyme-levels-could-help-diagnose-individualse28099-predisposition-to-cardiovascular-disease.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2014%2f9%2fheart_disease_1_12c3ff20f43b43d898bf18f5689e0c7c-125x110.jpg" alt="PDIA1 enzyme levels could help diagnose individuals’ predisposition to cardiovascular disease" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190520/PDIA1-enzyme-levels-could-help-diagnose-individualse28099-predisposition-to-cardiovascular-disease.aspx">PDIA1 enzyme levels could help diagnose individuals’ predisposition to cardiovascular disease</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190520/Archaeological-evidence-shows-anatomically-modern-humans-were-roasting-and-eating-plant-starches.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2014%2f7%2fDigestion-125x110.jpg" alt="Archaeological evidence shows anatomically modern humans were roasting and eating plant starches" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190520/Archaeological-evidence-shows-anatomically-modern-humans-were-roasting-and-eating-plant-starches.aspx">Archaeological evidence shows anatomically modern humans were roasting and eating plant starches</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190520/Sophisticated-molecular-machinery-are-used-by-dangerous-pathogens-to-infect-hosts.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2015%2f3%2fWhooping_Cough_fcbc0db3e3a746d883db90f7af5d7c3e-125x110.jpg" alt="Sophisticated molecular machinery is used by dangerous pathogens to infect hosts" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190520/Sophisticated-molecular-machinery-are-used-by-dangerous-pathogens-to-infect-hosts.aspx">Sophisticated molecular machinery is used by dangerous pathogens to infect hosts</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190520/First-Footage-of-T-Cells-Training-To-Fight-Pathogens-Revealed.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fTCells2_3e998bfbd8284f4db00d2f7ac5dca5e6-125x110.jpg" alt="First Footage of T-Cells Training To Fight Pathogens Revealed" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190520/First-Footage-of-T-Cells-Training-To-Fight-Pathogens-Revealed.aspx">First Footage of T-Cells Training To Fight Pathogens Revealed</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20190520/Circadian-rhythm-influences-immune-responses-across-a-range-of-diseases.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fWoman_on_bed_wake_up_stretching_in_bedroom_with_alarm_clock_at_5.00_a.m._morning._Biological_Clock_healthcare_concept-BlurryMe_4697efb63ea94bd6825d4e15fb45e59a-125x110.jpg" alt="Circadian rhythm influences immune responses across a range of diseases" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20190520/Circadian-rhythm-influences-immune-responses-across-a-range-of-diseases.aspx">Circadian rhythm influences immune responses across a range of diseases</a></div></li></ul><div style="clear:both;"></div></section><section class="widget literal clearfix" id="widgetaf9616c4-d612-4081-8546-321c464fa5f5">
-
-<div style="background-color:#fff;margin-top:15px;margin-bottom:15px;">
-<script type="text/javascript">
-//<![CDATA[
-
-document.write('<fb:like-box href="https://www.facebook.com/NewsMedical" width="300" show_faces="true" stream="false" header="false"></fb:like-box>');
-
-//]]>
-</script><fb:like-box href="https://www.facebook.com/NewsMedical" width="300" show_faces="true" stream="false" header="false"></fb:like-box>
-</div>
-</section></div>
+</section><section class="widget recentposts clearfix common-img-list-outer" id="widget68b649b4-9400-4eb9-92fa-00d85cb74cf2"><h2 class="widget-top">Latest News</h2><ul class="common-img-list common-img-list-with-thumbs"><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191128/Initiatives-led-by-pharmacists-can-contribute-to-the-prevention-of-cardiovascular-disease.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2014%2f9%2fheart_disease_2_aedf66ad1d854d57b30fff4005ae20b8-125x110.jpg" alt="Initiatives led by pharmacists can contribute to the prevention of cardiovascular disease" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191128/Initiatives-led-by-pharmacists-can-contribute-to-the-prevention-of-cardiovascular-disease.aspx">Initiatives led by pharmacists can contribute to the prevention of cardiovascular disease</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191128/Simple-urine-test-at-home-could-revolutionize-diagnosis-of-prostate-cancer.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2016%2f6%2fCancer_cell_attacked_by_lymphocytes-Juan_Gaertner-590_faf73e6bdc1340739a87109231bebac5-125x110.jpg" alt="Simple urine test at home could revolutionize diagnosis of prostate cancer" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191128/Simple-urine-test-at-home-could-revolutionize-diagnosis-of-prostate-cancer.aspx">Simple urine test at home could revolutionize diagnosis of prostate cancer</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191128/ICR-scientists-carry-out-first-comprehensive-assessment-of-chemical-probe-resources.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f5%2fColorful_of_tablets_and_capsules_pill_in_blister_packaging_arranged_with_beautif_-_Fahroni_A2_b77f7bb39b7b46dabdd54871f09ae29d-125x110.jpg" alt="ICR scientists carry out first comprehensive assessment of chemical probe resources" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191128/ICR-scientists-carry-out-first-comprehensive-assessment-of-chemical-probe-resources.aspx">ICR scientists carry out first comprehensive assessment of chemical probe resources</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191128/Stem-cells-do-help-restore-heart-function-e28093-but-in-a-different-way.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f11%2f%40%40Molkentin_Nature_HeartStemCell_64b22b8ff60543d0925ff1ab1d549e14-125x110.jpg" alt="Stem cells do help restore heart function – but in a different way" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191128/Stem-cells-do-help-restore-heart-function-e28093-but-in-a-different-way.aspx">Stem cells do help restore heart function – but in a different way</a></div></li><li><div class="col-xs-4 col-ms-3 col-sm-2 col-md-5 common-img-list-img"><a href="/news/20191128/Leaky-gut-and-space-flight-e28093-the-mechanism-revealed.aspx"><img class="lazy-load-image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://d2jx2rerrg6sh3.cloudfront.net/image.axd?picture=2019%2f11%2f%40%40Declan_McCole_f843c3e9714e48448a22592d5774f3b0-125x110.jpg" alt="Leaky gut and space flight – the mechanism revealed" style="height:110px;"></a></div><div class="col-xs-8 col-ms-9 col-sm-10 col-md-7 common-img-list-text"><a href="/news/20191128/Leaky-gut-and-space-flight-e28093-the-mechanism-revealed.aspx">Leaky gut and space flight – the mechanism revealed</a></div></li></ul><div style="clear:both;"></div></section></div>
 
                         </div>
                     
@@ -890,7 +1020,6 @@ document.write('<fb:like-box href="https://www.facebook.com/NewsMedical" width="
                                             <li><a href="/medical/team">Meet the Team</a></li>
                                             <li><a href="/medical/search">Search</a></li>
                                             <li><a href="/medical/newsletters">Newsletters</a></li>
-                                            <li><a href="/medical/twitter-channels">Twitter Channels</a></li>
                                             <li><a href="/sitemap.axd">Sitemap</a></li>
                                             <li><a href="https://www.azonetwork.com/marketing-science/news-medical#medical">Advertise</a></li>
                                             <li><a href="/medical/contact">Contact</a></li>
@@ -918,17 +1047,12 @@ document.write('<fb:like-box href="https://www.facebook.com/NewsMedical" width="
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="/medical/twitter-channels">
+                                        <a href="https://twitter.com/NewsMedical">
                                             <span aria-hidden="true" class="icon-twitter"></span>
                                             <span class="screen-reader-text">Twitter</span>
                                         </a>
                                     </li>
                                 </ul>
-
-                                <div id="chartbeat-widget">
-                                    
-                                </div>
-
 
                             </div>
 
@@ -964,34 +1088,6 @@ document.write('<fb:like-box href="https://www.facebook.com/NewsMedical" width="
                     </footer>
                 
 
- <!-- Start Chartbeat Tag --> 
- <script type="text/javascript"> 
-     var _sf_async_config={}; 
-     /** CONFIGURATION START **/ 
-     _sf_async_config.uid = 17295; 
-     _sf_async_config.domain = 'news-medical.net'; 
-     _sf_async_config.noCookies = true; 
-     _sf_async_config.sections = 'Change this to your Section name';  //CHANGE THIS 
-     _sf_async_config.authors = 'Change this to your Author name';    //CHANGE THIS 
-     /** CONFIGURATION END **/ 
-     (function(){ 
-       function loadChartbeat() { 
-         window._sf_endpt=(new Date()).getTime(); 
-         var e = document.createElement('script'); 
-         e.setAttribute('language', 'javascript'); 
-         e.setAttribute('type', 'text/javascript'); 
-         e.setAttribute('src', 
-            (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') + 
-            'js/chartbeat.js'); 
-         document.body.appendChild(e); 
-       } 
-       var oldonload = window.onload; 
-       window.onload = (typeof window.onload != 'function') ? 
-          loadChartbeat : function() { oldonload(); loadChartbeat(); }; 
-     })(); 
- </script> 
- <!-- End Chartbeat Tag --> 
- 
 
 </form>
             </div><!-- container -->
@@ -1070,7 +1166,7 @@ document.write('<fb:like-box href="https://www.facebook.com/NewsMedical" width="
     
 
 
-    <script type="text/javascript" src="https://d2jx2rerrg6sh3.cloudfront.net/bundles/js/desktop/base?v=Vx45zSMFE5BeFvLgHl35BbGV1K-NThT4jp_kptrucDE1"></script>
+    <script type="text/javascript" src="https://d2jx2rerrg6sh3.cloudfront.net/bundles/js/desktop/base?v=4-14ZmUIrpGvnNNIQZ6I-tyMzKQjR4WqiOq0wwLVRmk1"></script>
 
     
     
@@ -1134,14 +1230,13 @@ document.write('<fb:like-box href="https://www.facebook.com/NewsMedical" width="
         //<![CDATA[
 
         var RfqData =  { "RfqSideTabCssClass": "requestQuoteGeneric", "Items": [  { "id": "rfq-generic", "elementSelectors": ["a.requestQuoteGeneric"], "itemType": "generic", "itemName": "", "itemId": 0, "formTitle": "Request a Quote or Further Information" }  ] } ;
-        var g_azo_cid = 220;
+        
 
         
         
 
         $(function() {
             Azom.initRfqPage();
-            
             
             
         });
@@ -1161,19 +1256,14 @@ document.write('<fb:like-box href="https://www.facebook.com/NewsMedical" width="
     </script>
 
     
-        <div id="cookie-notice-bar" class="row">
-            <div id="cookie-notice-msg" class="col-lg-7 col-md-7 col-xs-12">
-                <p>By continuing to browse or by clicking "Accept All Cookies," you agree to the storing of first and third-party cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.
-                <a class="find-out-more" href="/privacy#cookies" target="_blank">Find out more</a>.</p>
-            </div>
-            <div class="col-lg-2 col-md-2 col-xs-6 link-container">
-                <a onclick="BlogEngine.displayCookieSettings('Cookie Bar');" id="cookie-settings-link">Cookie Settings</a>
-            </div>
-            <div class="col-lg-3 col-md-3 col-xs-6 cb-container">
-                <button type="button" onclick="return BlogEngine.onAcceptAllCookiesClick();" id="cb-accept-btn"><span class="icon icon-checkmark"></span> Accept All Cookies</button>
-            </div>
-            <div id="cookie-notice-close">
-                <a class="no-transition" onclick="return BlogEngine.closeCookieNotice(true);"><span class="icon icon-cross"></span></a>
+        <div id="cookie-notice-bar">
+            <div id="cookie-prompt">
+                <p>We use cookies to enhance your experience. By continuing to browse this site you agree to our use of cookies.
+                <a class="find-out-more" href="/privacy#cookies" target="_blank">More info</a>.</p>
+                <ul id="cookie-options">
+                    <li><a onclick="return BlogEngine.onAcceptAllCookiesClick();" id="cookie-accept-link"><span class="icon icon-checkmark"></span><span id="cookie-accept-link-text">Accept</span></a></li>
+                    <li><a onclick="BlogEngine.displayCookieSettings('Cookie Bar');" id="cookie-settings-link"><span id="cookie-settings-link-text">Cookie Settings</span></a></li>
+                </ul>
             </div>
         </div>
     
@@ -1186,4 +1276,4 @@ document.write('<fb:like-box href="https://www.facebook.com/NewsMedical" width="
     
 
 
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+</body></html>
