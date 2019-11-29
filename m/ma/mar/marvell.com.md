@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvell.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322235548id_/https%3A//www.marvell.com/legal/privacy-statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvell.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129100548id_/https%3A//www.marvell.com/legal/privacy-statement.jsp) for the most accurate reproduction.*
 
 # Legal - Privacy Statement - Marvell
 
