@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipmyhorse.de privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227231746id_/https%3A//www.clipmyhorse.tv/en_EU/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipmyhorse.de privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129043149id_/https%3A//www.clipmyhorse.tv/en_US/privacy) for the most accurate reproduction.*
 
 # CMH.TV
 
