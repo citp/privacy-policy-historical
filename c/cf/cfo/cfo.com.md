@@ -1,38 +1,121 @@
-> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528234823id_/http%3A//ww2.cfo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129132717id_/https%3A//www.argyleforum.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CFO
+# Privacy Policy - Argyle
 
-CFO Publishing is committed to protecting the privacy of its users. CFO.com is part of CFO Publishing.
+Argyle Executive Forum, LLC and our affiliate brands including The Innovation Enterprise, CFO.com, and Proformative, (collectively “Argyle,” “we,” “our,” or “us”) provide this privacy policy to assist you in understanding how we collect, use, share, and otherwise process personal data that we receive through our digital properties, including data received from our web site [www.argyleforum.com](http://www.argyleforum.com%3Chttp//www.argyleforum.com/), data received from affiliate brand web sites, or data received from third party sources, and to assist you in making informed decisions when using our web site and our products and services.
 
-**Collection and Use of User Details**  
-Personal details of users of CFO.com are collected and processed when users visit our website.
+## What Information Does Argyle Collect?
 
-All personal information is collected with the knowledge of CFO.com users via the website’s order and registration forms.
+You provide us with information about yourself, your firm or company, and your practices when you visit the web site, register for certain services and events, download whitepapers, subscribe to our publications, or register for email newsletters and alerts. This information includes your name, company name, job title, phone number, mailing address, and email address. You may also provide additional comments on how you see Argyle servicing your needs and interests.
 
-User information is collected and retained to fulfill orders and notify users of relevant products, services and promotional activities within CFO.com and its affiliate and selected partner companies to improve our understanding of user needs and product and service development
+If you choose to correspond with us through email, Argyle may retain the content of your email messages together with your email address and our responses.
 
-We adhere to consistently high standards of data protection for all the forms of processing mentioned above. Results of in-house research and analysis is anonymized or aggregated and does not reveal any personal details about individual users.
+We may obtain additional personal and other information about you from third parties, and combine it with the information that we collect from you. These third parties may include publicly available sources such as LinkedIn.
 
-**User Choices**  
-Registration and order forms provide users with a series of choices regarding the products and services provided by CFO Publishing, including but not limited to promotional activities, forms of communication, and third-party processing.
+The web site may utilize a standard technology called “cookies” and web server logs to collect information about how our web site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our web site, and the web sites visited just before and just after our web site. Argyle may also use small pieces of code called “web beacons” or “clear gifs” to determine the same information.
 
-On these forms, you may indicate whether you wish to receive such information from CFO Publishing affiliate and selected partner companies. If you do not wish to receive information from these companies, please mark the appropriate box on the registration form.
+A cookie is a very small text document, which includes an anonymous unique identifier. When you visit a web site, that web site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other web sites.
 
-CFO Publishing (CFO magazine, CFO.com, CFO Conferences, and CFO Research Services) respects the privacy of its customers and does not disclose the contents of its email lists to third parties; however, CFO Publishing allows third parties to mail to these lists via a private email deployer, as long as the registrants have expressly provided CFO their permission to receive third-party offers and information.
+As you login on our web site, the web site uses its cookies to differentiate you from other users so your data is only available to you. In some cases, we also use cookies to prevent you from logging in more than is necessary for security. Cookies, in conjunction with our web server’s log files, allow us to calculate the aggregate number of people visiting our web site and which parts of the web site are most popular. This helps us gather feedback in order to constantly improve our web site and better serve our customers. Cookies do not allow us to gather any personal information about you and we do not generally store any personal information that you provided to us in your cookies.
 
-CFO also rents a portion of its postal mailing address lists to reputable firms.
+## How Does Argyle Use the Information That You Provide to Us?
 
-**Cookies**  
-A cookie is a small file that is placed on a user’s hard drive or linked to a user’s email address when a user visits CFO.com. This file allows the user to move quickly and easily around our website by keeping a record of the user’s previous visits. CFO.com uses cookies for identification purposes.
+Argyle uses your personal data for the following purposes:
 
-**Web Beacons**  
-CFO.com uses web beacons to access our cookies within our websites and in connection with CFO.com products, services, and partners.
+* Administering and expanding our business activities, including to improve the content of our web site, to notify web site visitors about updates, to recognize web site visitors, and for analytics purposes;  
+* Providing customer service by responding to your inquiries or contacting you as you request;  
+* Making available other products and services to our customers and prospective customers as requested, including membership benefits and subscriptions to publications;  
+* Advertising and marketing our products and services, including through mail and telephonic methods;  
+* Processing applications;  
+* Protecting the security of our interests, including our premises, assets, and systems;  
+* Complying with the law; and/or  
+* As otherwise disclosed at the time personal data is collected.
 
-**Security Policy**  
-CFO.com maintains appropriate measures to ensure that users’ personal details are not misused, accidentally destroyed, lost, or altered within the CFO Publishing server environment.
+We engage in general profiling based on the personal data that we have about you, and use automated decision-making and/or profiling to tailor the offers that you receive from us. However, this processing is unlikely to result in legal or other significant effects on you.
 
-**Transfer of Personal Data Overseas**  
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis.
+## How Does Argyle Share Information?
 
-**Policy Updates**  
-This privacy policy may change from time to time. All changes to the policy will be posted to the website and are effective as of posting.
+We share your personal data with the following third parties:
+
+* Affiliate organizations and participants in our alliances, partnerships or other business arrangements with third parties for the purpose of providing you information regarding products and services that we think will be of interest to you;  
+* Partners such as sponsors of the conferences, summits, dinners, virtual events, and any other Argyle events that you register to attend;  
+* Third-party vendors who process data on behalf of Argyle to facilitate our business, including, but not limited to, sending email and processing credit card payments, data appending and updating, data cleansing and processing, event registrations and event applications, market researchers, advertisers, audio visual service providers, printing service providers, lodging providers, training and information technology service providers; and third party data processors we use to create profiles, personas, and models;  
+* With partners and other third parties for use in connection with business activities;  
+* With other third parties for their direct marketing purposes;  
+* As part of a transfer, purchase or sale of assets or business offerings, including transfers made in the course of corporate divestitures, mergers, bankruptcy proceedings, or any dissolution;  
+* Pursuant to a subpoena, court order, governmental inquiry, or other legal process or as otherwise required by law, or to protect our rights or the rights of third parties;  
+* With your consent or as otherwise disclosed at the time of data collection or sharing.
+
+We may share information that has been anonymized or aggregated without limitation.
+
+## Third-Party Links
+
+The web site may provide links to third-party web sites or apps, including our social media pages. We do not control the privacy practices of those web sites or apps, and they are not covered by this privacy policy. You should review the privacy policy of other web sites or apps that you use to learn about their data practices.
+
+## International Visitors
+
+This section applies to those that visit our web site from the European Economic Area or Switzerland.
+
+## Lawful Basis for Processing
+
+On certain occasions, we process your personal data when it is necessary for the performance of a contract to which you are a party, such as to provide services to you. We may also process your personal data to respond to your inquiries concerning our products and services.
+
+On other occasions, we process your personal data where required by law. We may also process your personal data if necessary to protect your interests or the interests of a third party.
+
+Additionally, we process your personal data when necessary to do so for our direct marketing purposes and this interest is not overridden by our data protection rights. Where we process your personal data for these purposes, our legitimate interest is to carry out our activities in furtherance of the well-being of all our employees and members and to provide our event attendees with information regarding products similar to those in which they’ve expressed interest or participated in the past.
+
+If the processing of personal data is necessary and there is no statutory basis for such processing, we will ask you for consent to process your personal data. You have the right to withdraw your consent to processing of personal data at any time.
+
+If you wish to exercise the right to withdraw consent, please contact us. See the “Contact” section below for contact information.
+
+Transfers of Personal Data
+
+Please be aware that the personal data we collect may be transferred to and maintained on servers or databases located outside your state, province, country, or other jurisdiction, where the privacy laws may not be as protective as those in your location. Argyle relies on Standard Contractual Clauses to legitimize these cross-border data transfers.
+
+## Your Rights
+
+You have a right to the following:
+
+* To request access to the personal data we hold about you;  
+* To request that we rectify or erase your personal data;  
+* To request that we restrict or block the processing of your personal data;  
+* Under certain circumstances, to receive personal data about you that we store and transmit to another without hindrance from us, including requesting that we provide your personal data directly to another, i.e., a right to data portability; and  
+* Where we previously obtained your consent, to withdraw consent to processing your personal data.
+
+To exercise these rights, see the “Contact” section below. Please be aware that Argyle may be unable to afford these rights to you under certain circumstances, such as if we are legally prevented from doing so.
+
+Additionally, you have the right to lodge a complaint against us. To do so, contact the supervisory authority in your country of residence.
+
+## Retention
+
+We will process and store your personal data only for the period necessary to achieve the purpose of the storage, or as permitted by law. Argyle stores personal information for up to three (3) years from your last engagement with us. After expiration of that period, the corresponding data is routinely deleted, as long as it is no longer necessary for the fulfillment of a contract or the initiation of a contract or for other lawful purposes.
+
+## Your Choices
+
+Occasionally, we may also use the information we collect to notify you about important changes to our web site, new services and special offers we think you will find valuable. To update your contact information or change your communication preferences, including to stop email, telephonic, or mail communications from us, please send us an email request at [privacy@argyleforum.com](mailto:privacy@argyleforum.com) or contact us through the methods provided in the “Contact” section below.
+
+## Your California Privacy Rights
+
+As described in this privacy policy, we may also make your personal information available to third parties for their direct marketing purposes. Pursuant to California Civil Code § 1798.83, no more than once per calendar year, California residents may request that we send you via mail or email: (1) the categories of personal information disclosed to those third parties; and (2) the names and addresses of those third parties. To request this information, please contact us at [privacy@argyleforum.com](mailto:privacy@argyleforum.com).
+
+## Changes to Our Privacy Policy
+
+If we change our information practices, we will post those changes on [www.argyleforum.com](http://www.argyleforum.com%3Chttp//www.argyleforum.com/). Please visit this page periodically to learn of any updates.
+
+## Contact
+
+If you have any questions, comments, or concerns about this privacy policy, please contact us, in our role as data controller, at:
+
+Argyle Executive Forum L.L.C.  
+50 Broad Street, 1st Floor  
+New York, NY 10004  
+[privacy@argyleforum.com](mailto:privacy@argyleforum.com)  
+(646) 839-0012
+
+For visitors from the European Economic Area or Switzerland, please contact:
+
+The Innovation Enterprise  
+WeWork Building, 131 Finsbury Pavement, 6th floor, Suite 110  
+London, EC2A 1NT  
+[privacy@argyleforum.com](mailto:privacy@argyleforum.com)  
+020 3868 0545
