@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-medical.net privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520165443id_/https%3A//www.news-medical.net/medical/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-medical.net privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129095259id_/https%3A//www.news-medical.net/medical/privacy) for the most accurate reproduction.*
 
 # News-Medical - Privacy & Cookie Policy
 
@@ -50,8 +50,6 @@ We obtain personal data:
 In order to understand how you use this Website and our services, we may collect information such as details of the browser you used, your operating system, the website you visited immediately before visiting our Website and your Internet Protocol addresses (also known as IP addresses). Your IP address is a unique address that computer devices (such as PCs, tablets and smartphones) use to identify themselves and communicate with other devices in the network.
 
 We use this information to analyse how our Website is accessed and used and which of our suppliers are of most interest to you so that we improve our service and make it relevant to you.
-
-### Cookies
 
 In common with many other website operators, we may use standard technology called 'cookies' on this Website. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this Website on each visit.
 
@@ -225,4 +223,4 @@ General information about privacy may be found via:
 
 [http://www.privacy.gov.au](http://www.privacy.gov.au/) and [http://www.oaic.gov.au](http://www.oaic.gov.au/)
 
-Last Updated: Jan 17, 2019 
+Last Updated: Jun 26, 2019 
