@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficcenter.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629205416id_/http%3A//www.trafficcenter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficcenter.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129130203id_/http%3A//trafficcenter.com/privacy.php) for the most accurate reproduction.*
 
 # Traffic Center! Free Traffic Exchange | Free Advertising Free Web Traffic
 
