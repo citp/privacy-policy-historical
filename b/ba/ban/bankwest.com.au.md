@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504012803id_/https%3A//www.bankwest.com.au/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129052355id_/https%3A//www.bankwest.com.au/legal-stuff/bankwest-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal stuff | Bankwest
 
-**Bankwest provides a wide range of banking and financial services. This policy describes how your personal information is handled by us.** Bankwest is a division of the Commonwealth Bank of Australia (CBA) which has subsidiaries (the Group) that provide banking, finance, insurance, funds management, financial planning and advice, superannuation, stockbroking and other services. The Group includes Bankwest, CBA, CommSec, CommInsure, Commonwealth Financial Planning, Financial Wisdom, Count Financial and Colonial First State businesses.
+**Bankwest provides a wide range of banking and financial services. This policy describes how your personal information is handled by us.** Bankwest is a division of the Commonwealth Bank of Australia (CBA) which has subsidiaries (the Group) that provide banking, finance, insurance, funds management, financial planning and advice, superannuation, stockbroking and other services. The Group includes Bankwest, CBA, CommSec, CommInsure, Commonwealth Financial Planning, Financial Wisdom and Colonial First State businesses.
 
 Australian members of our Group are bound by the Privacy Act and the Australian Privacy Principles (APPs). CBA has a separate but consistent privacy policy which can be viewed at [commbank.com.au](http://www.commbank.com.au/).
 
@@ -38,13 +38,14 @@ We collect personal information about you when you contact us, use our products 
 
 The information we collect from you may include:
 
-  * Information about your identity — including your name, address, date of birth, gender and marital status  
+  * Information about your identity – including your name, address, date of birth, gender and marital status  
 
   * Your Tax File Number or tax residency status  
 
-  * Health information — for example for insurance purposes
+  * Health information – for example for insurance purposes
   * Financial and transaction information
-  * When you visit our websites or use our mobile apps — your location information, IP address and any third-party sites you access. Some of this website information we collect using Cookies. For more information please see the [Website Terms of Use](https://web.archive.org/legal-stuff/website-terms-of-use)
+  * When you visit our websites or use our mobile apps – your location information, IP address and any third-party sites you access. Some of this website information we collect using Cookies. For more information please see the [Website Terms of Use](https://web.archive.org/legal-stuff/website-terms-of-use)
+  * When you access our mobile apps using an Android mobile device – any suspected malware detected on your mobile.
   * Other personal information, such as details of your interactions with us.  
  
 
@@ -66,7 +67,7 @@ We collect information about you from others, such as:
 
 
 
-For example, if you apply for credit, we may ask a credit reporting body for your credit report. If you apply for life or income protection insurance, we may you or your doctor for your medical information. We may also collect information about you that is publicly available (for example, in public registers or on social media) or provided by businesses we deal with.
+For example, if you apply for credit, we may ask a credit reporting body for your credit report. If you apply for life or income protection insurance, we may ask you or your doctor for your medical information. We may also collect information about you that is publicly available (for example, in public registers or on social media) or provided by businesses we deal with.
 
 **Sensitive information**
 
@@ -78,10 +79,11 @@ We collect, use and exchange your information so that we can:
 
   * Confirm your identity
   * Assess your applications for a product or service
-  * Price and design our products and services
-  * Design, manage, price and provide our products and services
+  * Design, manage, price and provide our products and services  
+
   * Manage our relationship with you
-  * Manage our risks and help identify and investigate illegal activity
+  * Minimise risks and help identify and investigate fraud and other illegal activities, or the presence of suspected malware on your Android mobile device that might affect your use of our mobile apps  
+
   * Contact you, for example, when we need to tell you something important
   * Improve our services to you and your experience with us
   * Comply with laws, and assist government and law enforcement agencies
@@ -128,7 +130,7 @@ We may also share your information with third parties for the reasons in Section
 
   * Service providers – for example, mortgage insurers, loyalty program partners and our product distributors
   * Businesses who do some of our work for us –  including direct marketing, statement production, debt recovery and IT support
-  * Brokers, agents, advisers and people who act on your behalf – such as your parent (if you are under 16), guardian or a person with Power of Attorney
+  * Brokers, agents, advisers and persons who act on your behalf – such as your parent (if you are under 16), guardian or a person with Power of Attorney
   * Guarantors and other security providers
   * Organisations involved in our funding arrangements – like loan purchasers, investors, advisers, researchers, trustees and rating agencies
   * People who help us process claims – like assessors and investigators
@@ -260,7 +262,7 @@ It’s important that we have your correct details, such as your current home an
 
 Can you correct or update your information?
 
-You can ask us to correct or update any information we have (including credit information). See Section 10 for ways to contact. If we’ve given the information to another party, you can ask us to let them know it’s incorrect. We won’t charge a fee for this.  
+You can ask us to correct or update any information we have (including credit information). See Section 10 for ways to contact us. If we’ve given the information to another party, you can ask us to let them know it’s incorrect. We won’t charge a fee for this.  
 
 
 If the incorrect information was given to us by a credit reporting body, we may need to check with them or the relevant credit provider before we can change it. We’ll try to do this within 30 days. If we can’t, we’ll let you know why it’s taking longer and agree on a new timeframe with you. We’ll also tell you when we’ve corrected the information.
