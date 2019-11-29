@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520203622id_/https%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egnyte.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129195948id_/https%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.*
 
 # Egnyte - Privacy Policy
 
@@ -134,5 +134,4 @@ Last Updated 05/03/2019
 
 ## Egnyte Information
 
-[Egnyte HIPAA Statement](https://egnyte-www-static.egnyte.com/assets/pdfs/privacy-policy/HIPAA-Statement.pdf) [PDF]   
-[HIPAA Business Associate Agreement](https://egnyte-www-static.egnyte.com/assets/pdfs/privacy-policy/egnyte-hipaa-business-associate-agreement.pdf) [PDF] 
+[Egnyte HIPAA Statement](https://egnyte-www-static.egnyte.com/assets/pdfs/privacy-policy/HIPAA-Statement.pdf) [PDF] 
