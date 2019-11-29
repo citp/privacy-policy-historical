@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepcalm-o-matic.co.uk privacy policy that was archived on 2018-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180929024355id_/https%3A//www.keepcalm-o-matic.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepcalm-o-matic.co.uk privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129154350id_/https%3A//keepcalms.com/privacy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy | Keep Calm-o-Matic
 
@@ -16,7 +16,7 @@ When creating a poster you have the choice to keep it 'private'. If you do not c
 
 ## 3\. Liability
 
-We accept no liability for any content created or uploaded via the Keep Calm-o-Matic website. You may find content others have created to be offensive; that is your problem. If you think there is something that is illegal then please [contact us](mailto:help@keepcalm-o-Matic.co.uk) and we will investigate.
+We accept no liability for any content created or uploaded via the Keep Calm-o-Matic website. You may find content others have created to be offensive; that is your problem. If you think there is something that is illegal then please [contact us](mailto:help@keepcalms.com) and we will investigate.
 
 By uploading any content to the Keep Calm-o-Matic website you confirm that you own the rights or have permission to upload such content. You agree not to upload any content that is illegal or infringes on the rights of other people.
 
@@ -26,7 +26,7 @@ Some of the products available to buy on our website are via our e-commerce part
 
 ## 5\. Privacy
 
-Users choosing to sign in to the Keep Calm-o-Matic site grant us permission to store their email address. We will not resell this to any third parties. However, we may email our users from time to time. Users can unsubscribe by [contacting us](mailto:help@keepcalm-o-Matic.co.uk), or by clicking "unsubscribe" on the bottom of our emails.
+Users choosing to sign in to the Keep Calm-o-Matic site grant us permission to store their email address. We will not resell this to any third parties. However, we may email our users from time to time. Users can unsubscribe by [contacting us](mailto:help@keepcalms.com), or by clicking "unsubscribe" on the bottom of our emails.
 
 We use Google Analytics to monitor visitors and traffic to the Keep Calm-o-Matic site. Google may use cookies to capture this information; they will not capture anything personally identifiable. See <http://www.google.com/intl/en/privacy/> for details of Google's privacy policy.
 
@@ -77,6 +77,6 @@ We also follow stringent procedures to ensure we work with all personal data in 
 
 ## 6\. How to contact us
 
-You can always get in touch with us for more information at help@keepcalm-o-matic.co.uk. Our office hours are Monday to Friday, 9 a.m. to 5.30 p.m. GMT and we do our best to respond to every request within 24 business hours. You can find out more about us and what we do on the [company page](https://www.keepcalm-o-matic.co.uk/guide-to-keep-calm/).
+You can always get in touch with us for more information at help@keepcalms.com. Our office hours are Monday to Friday, 9 a.m. to 5.30 p.m. GMT and we do our best to respond to every request within 24 business hours. You can find out more about us and what we do on the [company page](https://keepcalms.com/guide-to-keep-calm/).
 
 Keep Calm Network Ltd, 7th Floor, 11 Old Jewry, London EC2R 8DU, United Kingdom. T: +44 (0)203 422 6659
