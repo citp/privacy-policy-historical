@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329180153id_/http%3A//www.xilinx.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129072613id_/https%3A//www.xilinx.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
