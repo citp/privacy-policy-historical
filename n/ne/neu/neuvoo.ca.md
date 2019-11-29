@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neuvoo.ca privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606182529id_/https%3A//neuvoo.ca/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neuvoo.ca privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129225654id_/https%3A//neuvoo.ca/tos) for the most accurate reproduction.*
 
 # neuvoo. Your job search starts here.
 
@@ -62,7 +62,9 @@ In order for us to better serve our visitors and users (“you”), there are tw
 
 “Long-term Data” refers to any data we collect to offer you a better job seeking and application experience. “Long-term Data” includes the following: 
 
-**_Account Creation._** When you apply for a job through NEUVOO’s platform, we save your first name, last name, email address, cover letter, and last uploaded CV (i.e. most recently uploaded attachment) and associate it with an Account, so you can easily apply for subsequent jobs without having to re-enter your application information every time. 
+**_Account Creation._** When you apply for a job through NEUVOO’s platform, we save your first name, last name, email address, phone number, and last uploaded resume (i.e. most recently uploaded attachment) and associate it with an Account, so you can easily apply for subsequent jobs without having to re-enter your application information every time. 
+
+Should you choose not to upload your resume, you might be asked to give more information on your work experience, education, certifications/licenses and skills, among others. In most cases, providing this information is not required for you to apply, which is why you are free to choose whether to give it or not. If you do, this information will also be associated with your Account, so you can easily apply for subsequent jobs without having to re-enter your application information every time. If you choose not to share this information, you can, in most cases, proceed to applying for the job. However, there are some cases where work experience, education, certifications/licenses and skills, among others, may be required by the employer, in order for them to make hiring decisions. In those specific cases, choosing not to give this information will prevent you from applying for the job. 
 
 We also collect your job search history (jobs viewed, jobs added to favourites, jobs applied for, keywords and location typed in the search bar) to give you better and more personalized results so that you are able to find jobs you are interested in faster and easier. 
 
@@ -74,6 +76,10 @@ Please note that you may manage your alerts or unsubscribe at any given time by 
 
 **_Traffic Quality._** We collect IP addresses and information on the device, operating system, and browser used to access our jobs. This information is stored separately from all other information and is anonymized in a way that it cannot be tied to any other information that can be used to identify you as an individual. This helps us guarantee that our traffic is genuine and acts as proof that real people click on our jobs—not robots. 
 
+**_Salary._** When applying for jobs, you may be asked about your current and desired salary. This information will never get automatically transmitted to employers, unless it is part of the “Short-Term Data” required by employers. Providing this information is not mandatory, but if you choose to do so, our Hiring Specialists will be able to access this data and can use it to help you negotiate your salary with employers interested in your profile. However, you should know that Hiring Specialists usually get in touch with you prior to discussing your profile with the employer. 
+
+The main purpose of asking for Salary information is to better tailor the content we are showing and sending you. You can read more about Content Customization in section 2 (“HOW WE USE INFORMATION”). 
+
 ##  1.2. **Short-term Data**
 
 "Short-Term Data" refers to any information that is requested by an employer in order for a job seeker to successfully apply for the employer's job, aside from the information already mentioned above in the "Long-Term Data" section. 
@@ -84,7 +90,7 @@ When you apply for jobs and submit your application to employers directly throug
 
 ##  1.2.1 **Important Notice**
 
-Once an application is transmitted to an employer, NEUVOO can’t reverse the process or retrieve any data that was already transmitted to the employer’s end. 
+Once an application is transmitted to an employer, NEUVOO cannot reverse the process or retrieve any data that was already transmitted to the employer’s end. 
 
 When you apply to a job using NEUVOO, you understand and agree that your application information is sent to the employer and that once your application is transmitted, the process cannot be undone since a copy of your information will already have reached the employer’s end. 
 
@@ -92,13 +98,17 @@ When you apply to a job using NEUVOO, you understand and agree that your applica
 
 **_Content Customization._** We use the information we collect to provide a personalized, simplified job seeking and application experience, whether it is showing you job listings tailored to your needs, sending you customized email alerts, or offering you a one-stop platform where you can apply to all the jobs you are interested in with your application data being automatically and transparently transmitted to the employers. 
 
+**_More Job Opportunities._** We use your application information to provide you with job opportunities you may have missed or that have not been shared with the rest of our users. Our Hiring Specialists are always looking for outstanding candidates, so, if your profile matches an employer’s requirement, we will reach out to let you know. Please, know that prior to contacting you, our Hiring Specialists may review your application information – including your resume if you chose to attach one – in order for them to determine whether you would be a good fit for the role. 
+
 **_Services Improvement._** We use an anonymized version of your IP address to see how different users interact with our services so that we can better improve them. 
 
 ##  2.1 **How long we keep your information**
 
 “Long-term Data” (see 1.1) is stored in our system for as long as we need it to successfully provide our services—or until you wish to purge it (see 5.3). For example, in the case of Email Alerts, we need to store your email address so that we are able to send you the alerts you have subscribed to. You can access, manage, and purge “Long-term Data” by logging into your NEUVOO account (see 6.1). 
 
-“Short-term Data” (see 1.2) is stored in our system for up to 10 days before being automatically purged. We keep it in case the transmission of your information to the employer has failed and we need to retransmit it to them. You may also purge your “Short-term Data” at any time by logging into your NEUVOO account (see 6.1). 
+“Short-term Data” (see 1.2) is stored in our system as long as employers need access to it.. We keep it in case the transmission of your information to the employer has failed and we need to retransmit it to them. You may also purge your “Short-term Data” at any time by logging into your NEUVOO account (see 6.1). 
+
+Please, know that as long as you have a NEUVOO account, we assume you keep applying for jobs or will do so in the foreseeable future. Therefore, we keep your information available to keep you from re-entering it manually the next time you choose to apply. 
 
 ##  2.2 **How your information is stored**
 
@@ -106,9 +116,11 @@ Information we collect is transferred to, processed, and stored in Canada. The p
 
 We only disclose the information we collect from you as described below:
 
-We may share your anonymized IP address to our partners or clients, but we will never share any other “Long-term Data” or “Short-term Data” to any other third parties. The reason why we share this information with our partners is for traffic quality assurance. This information acts as proof that real people click on their content—not robots.
+We may share your anonymized IP address to our partners or clients, but we never pair it with “Long-term Data” or “Short-term Data”. The reason why we share this information with our partners is for traffic quality assurance. This information acts as proof that real people click on their content—not robots.
 
-We will never sell any of your information to advertisers or third parties. We never use the personal data we collect through NEUVOO for direct marketing purposes.
+When applying for a job, we ask you for your consent before we can share your application information with the employer who posted the job you are applying for. If you proceed to apply to the job, you understand that your application information will be submitted to the employer and that, as detailed in 1.2.1, this process cannot be reversed.
+
+We will never sell any of your information to advertisers or third parties.
 
 ## 4\. **CONSENT**
 
@@ -136,6 +148,8 @@ You have the right to obtain the erasure of your personal data without undue del
 
 NEUVOO has the obligation to erase said data when it is no longer necessary in relation to the purposes for which it was collected or otherwise processed. We will also erase your personal data if you withdraw consent on the processing of your data (see 4.1) or object to its processing (see 5.6). 
 
+In the unlikely event that you are unable to purge your information yourself (i.e. following the steps detailed in 6.1), please [contact us](https://web.archive.org/contact/?lang=en) with detailed information on the data you wish to erase so we can address your issue in a timely manner. 
+
 ## 5.4 **Right to restriction of processing**
 
 You have the right to restrict the processing of your personal data for a period enabling us to verify the accuracy of your data. You may also choose to restrict the processing of your data rather than completely erasing it from our system, in which case you will need to [contact us](https://web.archive.org/contact/?lang=en).
@@ -159,20 +173,6 @@ You have control over the information you choose to give us and may access, edit
 **_Email Alerts._** If you wish to access or edit your alerts, you may do so by clicking on the “Manage job alert settings” in the “Improve alert” section of any email alert. You will then be able to edit or remove individual alerts by clicking on the “Improve alert” button which allows you to change keywords and location or to improve relevancy. 
 
 If you would rather unsubscribe, you may do so by clicking on the “Unsubscribe from Job Alert” link located at the bottom of any email alert. You can then click on the “Delete” button next to the alert you wish to remove. 
-
-Thank you for using our job posting services. The following are the terms of services. By using the service, you agree to the following terms:
-
-  * You are not authorized to generate automated and fraudulent posts.
-  * You are not authorized to advertise anything illegal or engage in any illegal or fraudulent business practice in any state or country where your post is displayed.
-  * You are not allowed to post for a third party nor to use this service to gather resumes for positions that are not currently opened (e.g. bank of resumes).
-  * The information that is used for the service is your own and is correct.
-  * Your post cannot violate or encourage violation of any applicable laws enforced by any state or country where your post is displayed.
-
-
-
-Neuvoo may disable any post that does not follow our terms. We retain the rights to remove or disable any post without prior notice and without giving any specific reason other than the ones stated in our terms.
-
-Neuvoo strives to give job seekers the best experience possible and to help them find a job by only providing content of the utmost quality.Therefore, Neuvoo may disable your account should we deem your content not relevant or if said content does not meet our quality requirements.
 
 NEUVOO offers informational and educational content for Human Resources and Talent Acquisition professionals in the form of eBooks and PDF documents that can be downloaded from several landing pages powered by MailChimp. **These documents are addressed to professionals working in the recruitment and talent acquisition fields and should not be confused with other services and products that target job seekers and their data.**
 
