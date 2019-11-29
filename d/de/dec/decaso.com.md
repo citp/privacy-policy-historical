@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decaso.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531163512id_/https%3A//support.decaso.com/hc/en-us/articles/115007881127-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decaso.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129205237id_/https%3A//support.decaso.com/hc/en-us/articles/115007881127) for the most accurate reproduction.*
 
 # Privacy Policy – DECASO Support Center
 
