@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the subscribestar.adult privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331212120id_/https%3A//subscribestar.adult/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subscribestar.adult privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129094335id_/https%3A//subscribestar.adult/privacy) for the most accurate reproduction.*
 
 # SubscribeStar
+
+Updated: November 1, 2018
 
 * * *
 
@@ -16,13 +18,13 @@ Email marketing (if applicable): With your permission, we may send you emails ab
 
 ### SECTION 2 - CONSENT
 
-### How do you get my consent?
+#### How do you get my consent?
 
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting such information and using it for that specific reason only.
 
 If we ask for your personal information for a different reason, such as marketing, we will either ask directly for your expressed consent, or provide you with the option to decline.
 
-### How do I withdraw my consent?
+#### How do I withdraw my consent?
 
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or mailing us at: Starcling LLC, One America Plaza, 600 W Broadway, #175-564, CA, United States.
 
@@ -103,5 +105,3 @@ If our store is acquired or merged with another company, your information may be
 ### QUESTIONS AND CONTACT INFORMATION
 
 If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or by mail at SubscribeStar.
-
-Effective: September 1, 2017Last updated: November 1, 2018
