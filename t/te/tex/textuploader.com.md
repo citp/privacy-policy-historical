@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textuploader.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624021334id_/https%3A//textuploader.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textuploader.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129193910id_/https%3A//textuploader.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TextUploader.com
 
