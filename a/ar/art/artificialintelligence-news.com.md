@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artificialintelligence-news.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405223601id_/https%3A//www.artificialintelligence-news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artificialintelligence-news.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129075625id_/https%3A//artificialintelligence-news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AI News
 
