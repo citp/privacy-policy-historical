@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306095718id_/https%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.com.au privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129140920id_/https%3A//www.coop.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
