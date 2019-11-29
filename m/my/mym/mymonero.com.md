@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymonero.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615045932id_/https%3A//mymonero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymonero.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129055330id_/https%3A//mymonero.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MyMonero
 
