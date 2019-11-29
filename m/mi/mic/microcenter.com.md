@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522073825id_/https%3A//www.microcenter.com/site/customer-support/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microcenter.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129061509id_/https%3A//www.microcenter.com/site/customer-support/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Micro Center
 
@@ -61,7 +61,7 @@ We may occasionally share your name, mailing address and purchase information on
 
   * ### Unsubscribe Online
 
-It's easy. Just access our [Postal Preference Center](http://email.microcentermedia.com/q/Microcenter/microcenter_SubscriptionCenter_PRINT_Updated_122015) to express your preferences. 
+It's easy. Just access our [Postal Preference Center](https://microcenterinsider.com/pub/sf/ResponseForm?_ri_=X0Gzc2X%3DYQpglLjHJlTQGlRjArpOJarq105fLDdlrvGMb0P8AJYe4nVXMtX%3DYQpglLjHJlTQGj5dbG1mfUo7izbwXNi1fgDnUwRzeb7l4toO&_ei_=EjySNquvCKNYfMgauwP6vqY) to express your preferences. 
   * ### Unsubscribe by Letter
 
 Write to us and let us know what you would like to receive or not receive. You can send your letter to: Communications Department, 4119 Leap Road, Hilliard, Ohio 43026  
