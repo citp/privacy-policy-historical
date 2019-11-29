@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibabacloud.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507080816id_/https%3A//www.alibabacloud.com/help/en/faq-detail/42425.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibabacloud.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129141041id_/https%3A//www.alibabacloud.com/help/en/faq-detail/42425.htm) for the most accurate reproduction.*
 
 # Alibaba Cloud International Website Privacy Policy - Privacy Policy| Alibaba Cloud Documentation Center
 
