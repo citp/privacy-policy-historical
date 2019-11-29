@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singleplatform.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402091609id_/https%3A//www.endurance.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singleplatform.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129163416id_/https%3A//www.endurance.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Endurance International Group
 
@@ -20,4 +20,4 @@ We use cookies, web beacons, tags, and other similar technologies in the course 
 
 If you wish to exercise any of your data subject rights, please email privacy@endurance.com or by completing the online form using the link below.
 
-[make request](https://www.endurance.com/privacy/gdpr-data-subject-rights-request/)
+[make request](https://endurance.clarip.com/dsr/create)
