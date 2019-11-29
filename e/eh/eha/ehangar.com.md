@@ -1,29 +1,65 @@
-> *The following text is extracted and transformed from the ehangar.com privacy policy that was archived on 2005-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050918182857id_/http%3A//www.ehangar.com/modules.php%3Fname%3DDocs%26file%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehangar.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129174602id_/https%3A//www.ehangar.com/privacy-policy) for the most accurate reproduction.*
 
-# eHangar.com Aviation Art Directory & Portal for Enthusiasts, Aviation Artists, Dealers and Publishers
+# eHangar - The Aviation Social Network | Privacy Policy
 
-**eHangar.com** is the sole owner of the information collected from our website. We do not, or will not sell, share, or rent this information to others in ways different from what is disclosed in our privacy statement below.
+**Privacy Policy**  
+The privacy of the visitors to this Website is of utmost importance to us. And we recognize that privacy of your personal information is of equal importance to you. Described on this page is information on what types of personal information we receive and collect when you use and visit this website, and how we safeguard your information. The terms "us" or "we" or "our" refer to the owner of the website. The term "you" or "user" or "visitor" refers to the viewer of the Website.
 
- ** _Cookies_**  
-A cookie is a piece of data stored on the visitor's hard drive containing information about the visitor. Advertisers connected to **eHangar.com** at times require cookies to tract statistics about products and locations, but at no time are these linked to any personal identification. At this time, **eHangar.com** uses cookies only for login convenience.
+ **Third-Party Disclosure**  
+Users may find advertising or other content on this Website that links to the sites and services of our third-party partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.
 
- ** _Log Files_**  
- **eHangar.com** keeps log files on broad fields to analyze trends, track user movements, and gather data for demographic locations. This is not attached in anyway to any visitor's personal identification.
+In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website is subject to that website’s own terms and policies.
 
- ** _Sharing_**  
-At this time, **eHangar.com** does not share any information with advertisers, merchants, or any other third party.
+ **Our Advertising Partners**  
+You may see ads on this Website from third party companies as a source of income to keep this Website operational. Some of these advertising partners may use cookies and web beacons, small files placed on your computer.
 
- ** _Links_**  
-Links to other sites outside of **eHangar.com** do not apply to this privacy statement. We are not responsible for privacy policies of other websites linked to **eHangar.com**. Please read the privacy statement of each website linked to **eHangar.com** for information and data use for visitor's personal identification. Our privacy statement applies solely to **eHangar.com**.
+These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
 
- ** _Contests_**  
-At any particular time, **eHangar.com** will conduct contests for our visitor's. Visitor participation for these contests is voluntary, and in no way requires the visitor to give out personal information when choosing not to enter in the contest. Collected information may include contact information and demographic information, such as name, e-mail, address, state, ect. This information will be used to notify the winners and award prizes.
+ **Disabling Cookies**  
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers (e.g., Internet Explorer, Safari, Chrome, etc.) can be found at the browsers’ respective websites.
 
- ** _Newsletter_**  
-All email address information stored on our database is not shared or sold to any third party what so ever. Subscribers wishing to unsubscribe to our newsletter can do so at anytime.
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in security programs such as McAfee or Norton.
 
- ** _Sending to a Friend_**  
-When a visitor chooses to send News, Articles, Reviews, ect, to a friend, the names and e-mail addresses are **not** logged. **eHangar.com** will send the friend a one-time e-mail inviting them to visit our site. **eHangar.com** will never send another e-mail to the visitor or friend for any purpose.
+Most web browsers will provide information in their help files on how you can keep the browser from accepting new cookies, how you can have your browser notify you when a new cookie is received, and how to disable all cookies. In addition, you can use browser add-ons or extensions to control cookies.
 
- ** _Changes of our Policy_**  
-If and when our policy statement changes, visitors with Memberships in our databases will be notified of the changes, and provided a link to this page to view the changes. If a visitor decides that our policy does not benefit them, they can use the opt-out option at anytime.
+ **Google AdSense**  
+Some of the ads on this Website are served by Google through its AdSense program. Google will set third-party cookies to serve ads from this Website. Read more about the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+Users can opt out of the use of the Google cookie and set other ad preferences by visiting [Google Ads Settings.](http://www.google.com/ads/preferences/)
+
+ **Log Files**  
+Like many websites, this Website makes use of web server log file technology, a standard procedure for hosting companies and a part of a hosting services analytics. These files log information about the visitor’s session: Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+ **Google Analytics**  
+When you visit this Website, we automatically gather and store anonymous information about your visit so that we can track the use of the site in order to make improvements.
+
+This Website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users access the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+
+The following information is stored by Google Analytics when you visit this Website, and used in aggregate reporting only, and is not used to contact you personally:
+
+  * The IP address from which you access this Website
+  * The name of the domain from which you access the Internet (for example, gmail.com, if you are connecting from a Google account)
+  * The type of browser and operating system used to access our Website
+  * The date and time you access our Website
+  * The pages, files, documents and links that you visit
+  * The domain of the website which referred you to this Website (the last website you visited before visiting this one)
+  *  
+
+
+
+You can [read more about how Google uses data when you use our partners' sites](http://www.google.com/policies/privacy/partners/).
+
+ **Account  and Login Requirements**  
+You are free to visit and navigate this website without any login or account. However, you do _have to_ create a login or account to use this website.
+
+ **Emails**  
+Emails sent to this Website may be composed directly by users on their computer or device, or created via the “Contact Us” form on this Website. We only use email addresses to answer the email requests we receive. These email addresses and information contained therein are not added to any databases, nor sold or given to any other parties.
+
+ **Links to other websites**  
+This Website may contain links to other websites of interest. However, once you use such links to leave our site, note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement.
+
+ **Terms of Use**  
+You can read in our Terms of Use (see link at the bottom of this page) about the terms and conditions under which you can access and use this Website.
+
+ **Consent**  
+By using this Website, you hereby consent to our privacy policy and agree to its terms.
