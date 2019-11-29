@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollskill.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405173928id_/https%3A//www.dollskill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollskill.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129230555id_/https%3A//www.dollskill.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dolls Kill
 
