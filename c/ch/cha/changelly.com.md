@@ -1,16 +1,24 @@
-> *The following text is extracted and transformed from the changelly.com privacy policy that was archived on 2018-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181231024435id_/https%3A//changelly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changelly.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129054653id_/https%3A//changelly.com/privacy-policy) for the most accurate reproduction.*
 
-# Changelly
+# Privacy Policy | Changelly.com
 
-Last Updated: December, 2018  
-This Privacy and Data Retention Policy (the Policy) explains the way in which Fintechvision Ltd. (hereinafter referred to as “Changelly”) collects, uses, shares, and protects Personal Information of Users (“you”) obtained through the changelly.com website (“Website”) and its exchange tools integrated into third-party services (Widget, API). The terms “we,” “us,” and “our” refer to “Changelly”.  
-“Personal Information” is an information that identifies or can be used to identify, contact, or locate the person to whom such information pertains.  
-At changelly.com, we are fully committed to respecting privacy and to protecting any information that our clients provide. Your privacy and security are both our highest priorities and we make every effort to ensure that all the information provided by you is protected.  
+Last Updated: January, 2019
+
+This Privacy and Data Retention Policy (the Policy) explains the way in which Fintechvision Ltd. (hereinafter referred to as “Changelly”) and Sum & Substance Ltd. (hereinafter referred to “Sum & Substance”) collect, use, share, and protect Personal Information of Users (“you”) obtained through the changelly.com (“Website“), any related applications (including without limitation the mobile one) and its exchange tools integrated into third-party services (“Services”). The terms “we,” “us,” and “our” refer to “Changelly” and “Sum & Substance”.
+
+“Personal Information” is an information that identifies or can be used to identify, contact, or locate the person to whom such information pertains.
+
+At Changelly and Sum & Substance, we are fully committed to respecting privacy and to protecting any information that our clients provide. Your privacy and security are both our highest priorities and we make every effort to ensure that all the information provided by you is protected.
+
 We follow and comply with best practices and regulation in the sphere of privacy including but not limited to General Data Protection Regulation (GDPR).
 
 ## 1\. Who We Are
 
-  1. The Personal Information on the Website is collected, controlled and processed by the Fintechvision Ltd., a legal entity with registration address in 1801-03, 18/F., East Town No.41 Lockhart Road, Wan Chai, Hong Kong, contact e-mail: [legal@changelly.com](mailto:legal@changelly.com).
+  1. The Personal Information is collected, controlled and processed by the following entities:
+
+    1. Fintechvision Ltd. 1801-03, 18/F., East Town No.41 Lockhart Road, Wan Chai, Hong Kong, contact e-mail: [legal@changelly.com.](mailto:legal@changelly.com)
+
+    2. Sum & Substance Ltd. Office 7 Westwood Business Centre, Continental Approach, Westwood, Kent, United Kingdom, contact e-mail: [info@sumsub.com.](mailto:info@sumsub.com)
 
 
 
@@ -92,7 +100,7 @@ We follow and comply with best practices and regulation in the sphere of privacy
 
 ## 7\. Security Measures
 
-  1. Changelly aims to protect your information as much as we aim to protect our own information and network. We will not permit any third parties to contact you directly on an unsolicited basis in relation to their own products or services. We do not sell, trade, or rent your personal identification information to others. You should never disclose your account password to unauthorized parties.
+  1. Changelly and Sum & Substance aim to protect your information as much as we aim to protect our own information and network. We will not permit any third parties to contact you directly on an unsolicited basis in relation to their own products or services. We do not sell, trade, or rent your personal identification information to others. You should never disclose your account password to unauthorized parties.
 
   2. We use certain security measures to help keep your personal information safe, but we cannot guarantee that these measures will stop any users try to get around the privacy or security settings on the Website and Services platform through unforeseen and/or illegal activity. That is why we make no warranty, express, implied or otherwise, that we will prevent such access.
 
@@ -117,7 +125,7 @@ We follow and comply with best practices and regulation in the sphere of privacy
 
   2. In case you want to exercise your rights, please contact us.
 
-  3. There are exceptions to these rights, however. For example, access to Personal Information may be denied in some circumstances if making the information available would reveal Personal Information about another person or if we are legally prevented from disclosing such information. In addition, where some of the data is necessary to maintain Changelly or where that is a legal requirement, we may retain such data for the period it is needed or required even if you withdraw your consent or cancel your account. Such information will not be considered as subject to erasure.
+  3. There are exceptions to these rights, however. For example, access to Personal Information may be denied in some circumstances if making the information available would reveal Personal Information about another person or if we are legally prevented from disclosing such information. In addition, where some of the data is necessary to maintain our Website and Services or where that is a legal requirement, we may retain such data for the period it is needed or required even if you withdraw your consent or cancel your account. Such information will not be considered as subject to erasure.
 
 
 
