@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the olympusamerica.com privacy policy that was archived on 2019-03-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190306121238id_/https%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the olympusamerica.com privacy policy that was archived on 2019-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191129203711id_/https%3A//www.olympusamerica.com/oai_privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title>Privacy Policy</title>
@@ -32,18 +32,16 @@
 	<script type="text/javascript">DD_belatedPNG.fix('div, img, a, .cameranew');</script>
 	<![endif]-->
 
-    <!--<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>-->
+    <!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>-->
     <script type="text/javascript" src="/js/jquery/jquery-1.3.2.min.js"></script>
   	<script type="text/javascript" src="/js/jquery/jquery.corners.min.js"></script>
   	<script type="text/javascript" src="/js/jquery/hoverIntent.min.js"></script>
   	<script type="text/javascript" src="/js/jquery/superfish.min.js"></script>
-  	<script type="text/javascript" src="/cpg_section/js/easySlider1.5.js"></script>
-  	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=olympus"></script>
+  	<script type="text/javascript" src="/cpg_section/js/easySlider1.5.js"></script> 
   	<script type="text/javascript" src="/corporate/js/fancybox/jquery.fancybox-1.3.4.js"></script>
    	<script type="text/javascript" src="/js/jquery/jquery.cycle.min.js"></script>
   	<script type="text/javascript" src="/js/swfobject.js"></script>
   	<script type="text/javascript" src="/js/jquery/jquery.oca.searchsuggest-1.1.js"></script>
-  	<script type="text/javascript" src="/corporate/js/header.js"></script>
   	<script type="text/javascript">
         /*<![CDATA[*/
 
@@ -59,6 +57,39 @@
 					$("#left-hang").css('display', 'none');
 					$("#right-hang").css('display', 'none');
 				}
+        		
+        //hover begin		
+        var mobile = (/iphone|ipad|ipod|android|blackberry|mini|windows\sce|palm/i.test(navigator.userAgent.toLowerCase()));
+        jQuery.fn.fadeSliderToggle = function(settings) {
+            settings = jQuery.extend({
+        		speed   : 'fast',
+        		easing  : 'swing'
+        	}, settings);
+        
+        	caller = this;
+         	if (jQuery(caller).css('display') == 'none') {
+         		jQuery(caller).animate({
+         			opacity: 1,
+         			height: 'toggle'
+         		}, settings.speed, settings.easing);
+        	} else {
+        		jQuery(caller).animate({
+         			opacity: 0,
+         			height: 'toggle'
+         		}, settings.speed, settings.easing);
+        	}
+        };
+        function isBlank(e) {
+            if (e.value=="" || e.value=="SEARCH") {
+                return false;
+            } else {return true;}        
+        }
+        jQuery(function() { 
+            jQuery('.countrychooser li.globe').hoverIntent({over:function(){jQuery('.countrydropdown').fadeSliderToggle({speed:100});},timeout:750,out:function(){jQuery('.countrydropdown').fadeSliderToggle({speed:100});}});
+        });
+        //hover end				
+				
+				
 			});
 
         /*]]>*/
@@ -66,7 +97,7 @@
 
 	
 
-<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.olympusamerica.com/rss/rss.aspx?channel=48">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="https://www.olympusamerica.com/rss/rss.aspx?channel=48">
 
 <style>
 .sf-menu li.erptransition a {
@@ -106,8 +137,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div class="searchbox">
 				<div class="searchbox-content">
 					<form id="olympus-search" method="get" action="/corporate/corp_searchresults.asp" onsubmit="return isBlank(this.q);">
-					    <input autocomplete="off" type="text" size="15" name="q" id="q" value="SEARCH" onfocus="if(this.value=='SEARCH')this.value='';" onblur="if(this.value=='')this.value='SEARCH';" class="searchInput">
-						<input type="submit" value="" class="searchBtn">
+					    <input autocomplete="off" type="text" size="15" name="q" id="q" value="SEARCH" aria-label="Search" onfocus="if(this.value=='SEARCH')this.value='';" onblur="if(this.value=='')this.value='SEARCH';" class="searchInput">
+              <input type="submit" value="" class="searchBtn" aria-label="Submit">
 					</form>
 				</div>
 			</div>
@@ -116,10 +147,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<ul class="sf-menu">
 				<li><a href="#" onclick="return false;">Businesses</a>
 		            <ul>
-                    	<li><a href="http://medical.olympusamerica.com/" target="_blank">Medical and Surgical</a></li>
-                    	<li><a href="http://www.olympus-lifescience.com/en/" target="_blank">Life Science Solutions</a></li>
-                    	<li><a href="http://www.olympus-ims.com/" target="_blank">Industrial Solutions</a></li>
-                    	<li><a href="http://www.getolympus.com/us/en/" target="_blank">Cameras and Audio</a></li>
+                    	<li><a href="http://medical.olympusamerica.com/">Medical and Surgical</a></li>
+                    	<li><a href="http://www.olympus-lifescience.com/en/">Life Science Solutions</a></li>
+                    	<li><a href="http://www.olympus-ims.com/">Industrial Solutions</a></li>
+                    	<li><a href="http://www.getolympus.com/us/en/">Cameras and Audio</a></li>
 		            </ul>
 	            </li>
 				<li><a href="/corporate/index.asp">About</a>
@@ -130,7 +161,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			            <li><a href="/corporate/corp_brochure.asp">Corporate Brochure</a></li>
 			            <!--<li><a href="/corporate/culture_values.asp">Culture and Values</a></li>-->
 			            <li><a href="/corporate/ethics_corporate_compliance.asp">Ethics and Corporate Compliance</a></li>
-			            <li><a href="/corporate/settlements.asp">US Government Settlements</a></li>
 			            <li><a href="/corporate/globalinfo.asp">Global Info</a></li>
 			            <!--<li><a href="/corporate/speaker_request_form.asp">Request A Speaker</a></li>-->
 		            </ul>
@@ -147,7 +177,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	            <li><a href="/corporate/social_responsibility/community_involvement.asp">Social Responsibility</a>
 		            <ul>
 						<li><a href="/corporate/social_responsibility/community_involvement.asp">Community Involvement</a></li>
-			            <li><a href="https://www.colonoscopytoday.com/" target="_blank">Colon Cancer Awareness</a></li>
+			            <li><a href="https://www.colonoscopytoday.com/">Colon Cancer Awareness</a></li>
 			            <li><a href="/corporate/social_responsibility/diversity-inclusion.asp">Diversity &amp; Inclusion</a></li>
 						<li><a href="/corporate/social_responsibility/diversity-inclusion_supplier_program.asp">Supplier Diversity</a></li>
 			            <li><a href="/corporate/social_responsibility/environment.asp">Environment</a></li>
@@ -170,7 +200,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			            <li><a href="/corporate/corp_eqopp.asp">Equal Opportunity</a></li>
 		            </ul>
 	            </li>
-	            <li><a href="http://www.olympus-global.com/en/ir/" target="_blank">Investors</a></li>
+	            <li><a href="http://www.olympus-global.com/en/ir/">Investors</a></li>
 	            <li><a href="/corporate/corp_contactus.asp">Contact Us</a>
 					<ul>
 						<li><a href="/corporate/corp_contactus.asp">Contact Us</a></li>
@@ -320,7 +350,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<div id="footer-content">
 	
 		<div id="sponsorship">
-			<a href="http://www.olympusamerica.com/corporate/ethics_corporate_compliance.asp" target="_blank"><img src="/corporate/images/chips/compliancechip.png" alt="Do you have a complaince concern?"></a>
+			<a href="http://www.olympusamerica.com/corporate/ethics_corporate_compliance.asp"><img src="/corporate/images/chips/compliancechip.png" alt="Do you have a complaince concern?"></a>
 		</div>
 
 		<div id="links">
@@ -330,7 +360,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<li><a href="/corporate/corp_businessoverview.asp">Business Overview</a></li>
 				<li><a href="/corporate/corp_brochure.asp">Corporate Brochure</a></li>
 				<li><a href="/corporate/social_responsibility/ethics_corporate_compliance.asp">Ethics and Corporate Compliance</a></li>
-				<li><a href="/corporate/settlements.asp">US Government Settlements</a></li>
 				<li><a href="/corporate/globalinfo.asp">Global Information</a></li>
 				<li><br></li>
 
@@ -378,7 +407,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<ul id="copyright">
 		<li>© 2019 Olympus Corporation of the Americas</li>
 		<li>|</li>
-		<li>March 6, 2019</li>
+		<li>November 29, 2019</li>
 		<li>|</li>
 		<li><a href="/oai_privacypolicy.asp">Privacy Statement</a></li>
 		<li>|</li>
