@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623115835id_/https%3A//www.nobelprize.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobelprize.org privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129085810id_/https%3A//www.nobelprize.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NobelPrize.org
 
@@ -51,7 +51,7 @@ As a general rule, we and our suppliers and partners process your personal infor
 
 ## Web sites
 
-Nobel Group Interests manages several web sites, such as [nobelprize.org](http://nobelprize.org/) and [nobelcenter.se](http://nobelcenter.se/). This policy applies to all sites so operated.
+Nobel Group Interests manages several web sites, such as [nobelprize.org](http://nobelprize.org/) and [nobelprizemuseum.se](https://nobelprizemuseum.se/). This policy applies to all sites so operated.
 
 ### Information we collect
 
