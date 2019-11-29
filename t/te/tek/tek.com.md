@@ -1,129 +1,176 @@
-> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030146id_/http%3A//www.tek.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tek.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129082940id_/https%3A//www.tek.com/privacy-page) for the most accurate reproduction.*
 
-# Tektronix Privacy Statement | Tektronix
+# Tektronix Privacy Policy | Tektronix
 
-Tektronix, Inc. has created this Privacy Statement in order to demonstrate our company's commitment to privacy. Your right to privacy and data security is a primary concern.
+At Tektronix, we offer measurement solutions that enable your breakthrough innovations. Our shared success depends on a solid understanding of your needs. One way we pursue this understanding is by collecting information about you when you use our products or otherwise interact with us. When you share your information with us, you entrust us with your privacy, and that is a responsibility we take seriously.
 
-When you visit any Tektronix, Inc. Web site, we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet sites.
+This Privacy Policy explains how we collect, use, disclose, transfer and otherwise process information about you. (In this document, “we”—along with “our” and “us”—refers collectively to Tektronix, Inc. and its subsidiaries and affiliated companies, acting as a data controller for the purposes of applicable data collection law.) The policy applies to information collected about you when you use our software, devices, websites, and mobile applications, and other online products and services we provide (collectively, the “Products”), or when you otherwise interact with us.
 
-  * Information Gathering and Usage
-  * Cookies and Web Beacons
-  * Managing Your Information
-  * Syndication Information
-  * Security
-  * Contact Tektronix
-  * Notification of Change
+The information we collect falls into two broad categories:
+
+  * **Personal information** includes personal identifiers, such as your name, your email address, your credit card number, or the serial number of the Tektronix product you are using. All information that is actively linked to one or more personal identifiers is also considered personal information.
+  * **Anonymized information** refers to any information that is not actively linked to one or more personal identifiers. This information is often most useful to us in the aggregate, allowing us to monitor market acceptance of new product features, for example.
 
 
 
-#### Information Gathering and Usage
+Using anonymized information where possible is one manner in which we protect your privacy. The remainder of this document addresses our policy when we collect, use, disclose, transfer or otherwise process your personal information.
 
-Tektronix gathers information about you from data that you provide through such things as optional or mandatory registration, online surveys, and contests. The types of personal information collected can include name, mailing address, phone number, email address, transaction and credit card information. We may also ask you to provide us with demographic information such as your job function, industry, application, contact preferences or experience with our products. Tektronix may enhance or merge your information collected on our site with other operational data as well as data from third parties for purposes of marketing products or services to you. Such information enables us to better tailor our content to your needs.
+**Where we need your consent to collect, use, disclose, transfer or otherwise process your personal information (as described in this Privacy Policy), you provide such consent by accessing and using the Products. If you do not consent to such processing, then do not further access or use the Products.**
 
-The information you provide will be used to support your professional relationship with Tektronix and our products. Among other things, we want to help you quickly find information on Tektronix, Inc. Web sites and alert you to information on our products, services and programs. We also use this information to help you complete a transaction and in some cases to contact you for market research.
+**Privacy laws vary from country to country. Sometimes the law requires express consent to collect certain personal information, such as your location; or to use personal information for a certain purpose, such as direct marketing. Where we need express consent to a particular form of processing, we obtain such consent in the manner described in this Privacy Policy or a country-specific appendix to it, or as otherwise required by law.**
 
-##### Links to Other Sites
+We may change this Privacy Policy from time to time. If we make changes, we notify you by revising the “Last Updated” date at the top of the policy and, in some cases, we may provide you with additional notice (such as by adding a statement to our homepage or by emailing you a notification). We encourage you to review this Privacy Policy whenever you access the Products to stay informed about our information handling practices and the ways you can help protect your privacy. After we have notified you of changes to this Privacy Policy, your continued use of the Products constitutes your consent to those changes.
 
-This Web site contains links to other sites that are not owned or controlled by Tektronix. Links to other sites will open in a new browser window. Please be aware that Tektronix is not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
+**Collection of Information**
 
-##### Message Boards/Forums
+**Information You Provide to Us**
 
-This Web site may make forums and message boards available to you. Please remember that any information that is disclosed in these areas becomes public information. You should exercise caution when deciding to disclose your personal information.
+We collect information about you that you provide to us. For example, we collect such information when you:
 
-##### Electronic Newsletters
-
-Tektronix offers various free electronic newsletters. Users can sign up by clicking on the "Get customized email updates" button on the homepage. We don't spam, never sell or rent email addresses, and there's an easy unsubscribe in every email you'll receive. Alternately users may remove themselves from mailing lists by sending an email to [privacy@tektronix.com](mailto:privacy@tektronix.com).
-
-##### Contests
-
-Tektronix offers contests in which we request certain personal information. At a minimum, the required information includes name and email address. In some cases, the entrant must answer mandatory survey questions about a range of technical interests and personal data. The information gathered in the entry form is used to verify the entrant's identity and eligibility, to contact winners or prize recipients, and to market and sell our products. Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event.
-
-##### Forward to a Friend Feature
-
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. Your email address will appear as the sender of the email and we will automatically send your friend a one-time email inviting him or her to visit the site. Both your email address and the recipient's email address will not be used for any other purpose except to facilitate the sending of this one-time email to your friend. Tektronix stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
-
-##### Log Files
-
-Like most standard Web site servers, we use log files to automatically log information such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. We log this information to analyze trends, administer the site, track user movement in the aggregate, and gather broad demographic information for aggregate use. For areas of our site that require registration, we log the user's email address and specific information concerning the user's activity on the site. This information may be tied to the user's other personal information and, if so, it is used to support the user's professional relationship with Tektronix and our products.
-
-##### Mouseflow
-
-We may periodically use the mouseflow web analytics service on the site to help us research site issues and to help us improve our visitors' experience on the site.  When enabled, Mouseflow records mouse clicks, mouse movements, scrolling activity as well as any text you type on the pages on which it is enabled.  For mouseflow's privacy policy, [visit: http://mouseflow.com/privacy](http://mouseflow.com/privacy).
-
-##### Cookies and Web Beacons
-
-Cookies are used to enhance your experience on our sites by allowing us to tailor our content based on your interests. A cookie can contain information, such as a user ID or preferences, which the site uses to personalize content and track the pages you've visited. We don't track your personal identifiable information through cookies, unless you choose to provide this information to us by, for example, registering or logging on to our site. In the case of registering or logging on, we track information necessary to be able to follow up through contacting you.
-
-Most browsers are initially set to accept cookies, but you may be able to change the settings to refuse cookies or to be alerted when cookies are being sent. Although rejection of cookies will not interfere with your ability to interact with most of our site, you will need to accept cookies if you choose to enter areas of our site that require registration or log on.
-
-Some of our business partners and software vendors use cookies on our site (e.g., for site analytics). While Tektronix strives to protect the private information of our site users and thoroughly reviews the security and privacy practices of our site partners, we have no access to or control over these cookies. As such, this privacy statement covers the use of cookies by [www.tektronix.com](http://www.tektronix.com/ "www.tektronix.com") only and does not cover the use of cookies by any business partners or software vendors.
-
-We also collect information through the use of Web beacons. Web beacons are tiny invisible graphics placed in some of our HTML-based emails to let us know what percentage of emails are opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.
-
-##### Information Sharing
-
-Tektronix will not share, sell or rent your personal information for promotional purposes and will not disclose your personal information to outside organizations unless they are affiliated with Tektronix. Distributors, rental partners, affiliates, contractors, or other business partners of Tektronix who have access to your personal information use the information in connection with your customer relationship with Tektronix and our products. Contractors use the information to fulfill Tektronix' requirements for such things as processing credit card purchases, shipping goods to customers, and providing information to potential customers.
-
-##### Legal Requirements
-
-Tektronix may be required to disclose personal information in response to a court order or other legal requirement.
-
-#### Managing Your Information
-
-##### Information Correction and Updating
-
-Tektronix offers you the ability to correct or change the information collected during registration. You may change this information by returning to that site or emailing [ privacy@tektronix.com](mailto:privacy@tektronix.com). You may unsubscribe to any of our electronic newsletters by following the instructions provided in each electronic newsletter or emailing [ privacy@tektronix.com](mailto:privacy@tektronix.com). You may also update your profile and communication preferences using the myTek Profile capability on the site.
-
-##### Deleting/Deactivation Policy
-
-Tektronix does not offer you a means by which to completely delete personal information, but you can deactivate your identity within our database. To deactivate an identity, email [privacy@tektronix.com](mailto:privacy@tektronix.com).
-
-#### Syndication information
-
-Please read the following before contacting us if you wish to use any print or online content. In many cases it's not necessary to contact us for permission. If you still have questions, contact us at [privacy@tektronix.com](mailto:privacy@tektronix.com).
-
-##### Academic use
-
-Whenever academic organizations use Tektronix content online for academic purposes, please provide a link to the sourced material on tek.com. No permission is required if academic organizations reproduce our content free of charge to viewers, provided Tektronix is clearly credited as the source. We will charge for reprinting our articles in textbooks and examination papers. Contact Tektronix Privacy at [privacy@tektronix.com](mailto:privacy@tektronix.com) with details.
-
-##### Students
-
-Students may quote short extracts of our content for their school/college coursework, as long as Tektronix is clearly credited and/or a link is provided in any electronic documents.
-
-##### Web reuse/Linking
-
-If you wish to use our content on your website or blog you may reproduce up to 200 words as long as a link back to the original content on [tek.com](http://www.tek.com/) is provided. No permission is required to do this. You may not breach our copyright by publishing any of our content in its entirety, either in print or online without permission.
-
-##### Graphics/Photos/Illustrations
-
-We are able to syndicate our in-house graphics/diagrams for reuse. If you would like to syndicate a graphic/diagram in print or online please contact Tektronix at [privacy@tektronix.com](mailto:privacy@tektronix.com). Please supply details of the graphic/diagram, the name of the article it relates to, if in print the date of the issue it appeared in, or if online a link to the graphic/diagram as well as a link to the article.
-
-#### Security
-
-Tektronix operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by you. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission using secure socket layer (SSL) technology. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, we will strive commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can email us at [privacy@tektronix.com](mailto:privacy@tektronix.com).
-
-##### Children's Privacy Protection
-
-Tektronix' Web sites do not target and are not intended for children under the age of 13. Tektronix' Web sites will not knowingly collect personal data from children, and will delete such data upon discovery.
-
-##### Sale of Business
-
-Tektronix may transfer personal information to a third party that acquires a business from Tektronix where the information is provided as an important asset of that acquired business. You will be notified of the transfer in accordance with our Notification of Change procedure outlined at the end of this policy.
-
-#### Contact Tektronix
-
-For Privacy Policy questions, email [privacy@tektronix.com](mailto:privacy@tektronix.com) or via postal mail at:
-
-Tektronix.com Privacy  
-Tektronix, Inc.  
-P.O. Box 500, M-S 50-237  
-14200 S. W. Karl Braun Drive  
-Beaverton, Oregon 97077  
+  * access or use our Products;
+  * create an online/mobile application account and/or profile;
+  * request or purchase Products;
+  * send us devices for service;
+  * fill out a form;
+  * provide us with your business card or other contact information;
+  * participate in a contest or promotion;
+  * complete a survey;
+  * sign up to receive one of our newsletters;
+  * communicate with us via third party social media sites;
+  * request customer support; or
+  * otherwise communicate with us.
 
 
 
-#### Changes in this Privacy Statement
+The types of information we may collect include, but are not limited to:
 
-This statement was last updated December 14th, 2012. If we decide to change our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+  * your name;
+  * your email address;
+  * your password;
+  * your postal address;
+  * your phone number;
+  * your company name and contact details;
+  * your job function;
+  * your job title;
+  * your industry sector;
+  * the names and contact information of individuals you work with;
+  * work-related records and reports;
+  * device and tool information related to your account (e.g., serial number and purchase date);
+  * payment information;
+  * service activation codes;
+  * photographs;
+  * videos;
+  * diagrams;
+  * notes; and
+  * any other information you choose to provide.
 
-Back to top
+
+
+**Information We Collect Automatically When You Use the Products**
+
+When you access or use our Products, we may automatically collect information, such as:
+
+  * **Web Session Information:** We may collect information about your use of our websites, including your Internet Protocol (“IP”) address, the type of browser you use, access times, pages viewed, number of clicks, and the page you visited before navigating to our websites.
+  * **Device Information:** We may collect information about the computer or mobile device you use to access our Products—or information about the Tektronix devices you use—including the hardware model, MAC address, operating system name and version and unique device identifiers .
+  * **Network Information:** We may collect information about your network, such as information about devices, nodes, configurations, connection speeds and network performance.
+  * **Location Information:** We may collect information about the location of your mobile device or Tektronix device each time you access or use one of our mobile applications or devices, if you have permitted us. For more details, please see “Your Choices” below.
+  * **Usage Information:** We may collect information about your use of our Products, such as how often you use the Products, the duration and quality of use, the types of use (e.g. data creation, storage, access, deletion), calibration data, project configuration data and operator data.
+  * **Information Collected by Cookies and Other Tracking Technologies:** We use cookies and other web-based tracking technologies (such as web beacons) to enhance your experience by allowing us to tailor our content based on your interests and distinguish you from other users of our websites. A cookie is a small text file that we store on your device. It contains information, such as a user ID or preferences, that we can use to personalize content, track the pages you've visited or save your password so you do not have to re-enter it each time you visit. We use the following types of cookies: 
+    * **Strictly necessary cookies.** These cookies are necessary to make our websites function as intended. They include, for example, cookies that enable you to use a shopping cart.
+    * **Analytical/performance cookies.** These cookies enable us to recognize repeat visitors, count the number of total visitors and see how visitors navigate our websites. This helps us to improve the way our websites work, for example, by ensuring that users can find what they are looking for easily.
+    * **Functionality cookies.** These cookies enable us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region). We may also use them to recognize you when you return to our websites.
+    * **Third-party cookies.** We may allow third parties to place cookies on your device for advertising and analytics purposes. For more information about these cookies, please see “Advertising and Analytics Services Provided by Others” below.
+
+
+
+If required by law, we ask you for your consent to our use of cookies when you first visit our websites. We recognize your consent when you continue to navigate on our websites despite a clear and visible notice on our websites that we use cookies. If you consent, we place a cookie on your device. If you change your mind, simply delete the cookies on your device (please see: www.allaboutcookies.org/manage-cookies). You may also be able to adjust your browser settings to receive a message every time a website installs a cookie on your device or to prevent their installation altogether. Although rejecting cookies does not interfere with your ability to interact with most of our websites, you must accept cookies if you choose to enter areas of our websites that require registration or login. Certain other functions (such as remembering your choice of language) might be unavailable to you if you reject cookies altogether.
+
+**Information We Collect from Other Sources**
+
+We may also obtain information about you from other sources (for example, people you work with) and combine that with information about you we collect directly from you.
+
+**Use of Information**
+
+Where permitted by applicable law, we may use information about you for various purposes, including to:
+
+  * provide, maintain and improve our Products;
+  * provide and deliver the products and services you request, process transactions and payment card data and send you related information, including confirmations and invoices;
+  * resolve technical issues related to the Products, and send you technical notices, updates, security alerts and support and administrative messages;
+  * respond to your comments, questions and requests, and provide customer service;
+  * communicate with you about products, services, offers, free trials, surveys, contests, promotions, rewards and events offered by us and others, and provide news and information we think is of interest to you, including via email and other electronic means, with your consent or where otherwise permitted by applicable law (please see “Your Choices” below);
+  * monitor and analyze trends, usage and activities connected to our Products and the products and services of third parties, with your consent or where otherwise permitted by applicable law;
+  * personalize and improve the Products, and provide advertisements, content or features that match user profiles or interests, with your consent or where otherwise permitted by applicable law;
+  * process and deliver contest entries and rewards;
+  * link or combine with information we get from others to help understand your needs and provide you with better service, with your consent or where otherwise permitted by applicable law; and
+  * carry out any other purpose that is compatible with the purpose for which the information was collected.
+
+
+
+We store the file containing your personal information at our offices or on our servers, or on the servers of our service providers, which may be located in the U.S. or other countries which may not have a level of data protection law equivalent to that of your country. In such cases, your personal information may become subject to the laws of such foreign jurisdictions, including those that may grant access to your personal information to the authorities of such foreign jurisdictions. By accessing or using the Products or otherwise providing personal information to us, you consent to the processing and transfer of such personal information in and to the U.S. and other countries in the manner and for the purposes described in this Privacy Policy.
+
+**Sharing of Information**
+
+We may share information about you as follows or as otherwise described in this Privacy Policy:
+
+  * with our parent company, Fortive Corporation or any successor parent, and our affiliates and subsidiaries for the purposes outlined in this Privacy Policy;
+  * with distributors, resellers, channel partners and others connected to the sale and marketing of products and services offered by Tektronix or on behalf of Tektronix, with your prior permission or where otherwise permitted by applicable law (please see “Your Privacy Rights” below for more information about your choices with respect to this type of sharing);
+  * with other users at your direction or through functionality available in the Products;
+  * with vendors, consultants, and other service providers who need access to such information to carry out work on our behalf;
+  * with third parties who need access to such information to perform a service that you requested;
+  * in response to a request for information if we believe disclosure is in accordance with any applicable law, regulation or legal process, or as otherwise required by any applicable law, rule or regulation;
+  * if we believe you are acting inconsistently with the spirit or language of our user agreements or policies; or to protect our rights, property and safety and the rights, property and safety of others;
+  * where necessary in connection with, or during negotiations of (including due diligence), any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company, subject to our taking such further steps as applicable law may require; and
+  * with your consent or at your direction, such as where you decide to share information through an external API.
+
+
+
+**Social Sharing Features**
+
+The Products may offer social sharing features and other integrated tools (such as the Facebook “Like” button), which let you share actions you take on our Products with other media, and vice versa. Using these features shares information with your friends or the public, depending on your settings with the entity that provides the feature. For more information about the purpose and scope of data collection and processing related to social sharing features, please visit the privacy policies of the entities that provide these features. We accept no responsibility for the privacy practices of these entities.
+
+**Advertising and Analytics Services Provided by Others**
+
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. Consistent with your permission, these entities may use cookies, web beacons and other technologies to collect information about your use of the Products and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. We at Tektronix and our partners may use this information to, among other things:
+
+  * analyze and track data;
+  * determine the popularity of certain content;
+  * deliver advertising and content, targeted to your interests, on our Products and on other websites; and
+  * better understand your online activity.
+
+
+
+For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit Google's Ads Settings and the Digital Advertising Alliance’s opt-out mechanism.
+
+**Security**
+
+We take commercially reasonable measures to help protect personal information from accidental loss, theft, misuse, alteration, unauthorized access or disclosure, and unlawful or accidental destruction.
+
+**Your Choices**
+
+**Information Sharing With Third Parties**
+
+As described above, we may share personal information with third parties for marketing purposes related to our products and services, with your prior permission or where otherwise permitted by applicable law. To opt out of having your information shared in this way, please contact us at [privacy@tektronix.com](mailto:privacy@tektronix.com).
+
+**Account Information**
+
+You may access, update, correct or delete your account information at any time in accordance with applicable law. You may do this by logging into your online account or emailing us at [privacy@tektronix.com](mailto:privacy@tektronix.com). Please note that we may charge a small fee for complying with such requests where permitted by applicable law.
+
+If you wish to deactivate or delete your account, please email us at [privacy@tektronix.com](mailto:privacy@tektronix.com), but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your account information for a reasonable period of time.
+
+**Location Information**
+
+If any of our mobile applications collects location information, we will ask you to consent to the application's collection of this information. If you initially consent, you can subsequently stop the collection at any time by changing the location service setting preferences on your mobile device. If you do so, our mobile applications, or certain features thereof, will no longer function. You may also stop our collection of location information by following the standard uninstall process to remove all of our mobile applications from your device.
+
+We may also collect location information when you use certain Tektronix devices. The owner of the account associated with such devices can control the collection and use of this information through his or her account settings. If the account owner deactivates the collection of location information, certain features of our devices may no longer function.
+
+**Promotional Communications**
+
+You may opt out of receiving promotional emails from us by following the instructions in those emails or by emailing us at [privacy@tektronix.com](mailto:privacy@tektronix.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+
+**Push Notifications/Alerts**
+
+With your consent, we may send push notifications or alerts to your mobile device for updates and communications related to the Products. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+
+**Contact Us**
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [privacy@tektronix.com](mailto:privacy@tektronix.com).
