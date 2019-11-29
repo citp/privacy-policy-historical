@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallup.net privacy policy that was archived on 2019-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190308014848id_/https%3A//wallup.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallup.net privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129030423id_/https%3A//wallup.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HD Wallpapers - Desktop Background Images
 
