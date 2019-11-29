@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the printweek.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321230455id_/https%3A//privacypolicy.markallengroup.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printweek.com privacy policy that was archived on 2019-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191129173142id_/https%3A//privacypolicy.markallengroup.com) for the most accurate reproduction.*
 
 # Mark Allen Group Privacy Policy
 
-**Version 1.2 (11** **-Apr-18** **)**
+**Version 1.3 (15** **-Jul-19** **)**
 
-Effective as of April 11, 2018. This Privacy Policy was last updated on April 25, 2018.
+Effective as of April 11, 2018. This Privacy Policy was last updated on July 15, 2019.
 
 Contents
 
