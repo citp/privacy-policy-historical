@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cathe.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223104414id_/https%3A//shop.cathe.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cathe.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130162134id_/https%3A//shop.cathe.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
