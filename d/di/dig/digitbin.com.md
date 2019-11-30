@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitbin.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430135124id_/https%3A//www.digitbin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitbin.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130234900id_/https%3A//www.digitbin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – DigitBin
 
@@ -66,4 +66,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Know about [Privacy Policy](https://policies.google.com/technologies/partner-sites) from Google
 
-_Last Modified: 13 Sept 2018._
+ _Last Modified: 13 Sept 2018._
