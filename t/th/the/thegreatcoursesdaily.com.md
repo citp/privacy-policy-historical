@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreatcoursesdaily.com privacy policy that was archived on 2019-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190501030644id_/https%3A//www.thegreatcoursesdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreatcoursesdaily.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130164228id_/https%3A//www.thegreatcoursesdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Great Courses Daily
 
