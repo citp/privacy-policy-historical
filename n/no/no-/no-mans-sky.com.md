@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no-mans-sky.com privacy policy that was archived on 2019-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190309125140id_/https%3A//www.nomanssky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no-mans-sky.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130154940id_/https%3A//www.nomanssky.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - No Man's Sky
 
