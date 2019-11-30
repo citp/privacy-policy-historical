@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelscent.com privacy policy that was archived on 2017-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170801193415id_/http%3A//www.jewelscent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelscent.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130160341id_/https%3A//www.jewelscent.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JewelScent
 
@@ -18,7 +18,7 @@ Users of our Website are required to be at least 18 years old, and any user unde
 
 Upon engaging Company website or services the Company automatically receives and records information on our server logs from your browser including your IP address, the type of browser being used, cookie information, the page you requested, duration of activity on our site and any items you may purchase. This information may be used to customize the content you see on our Website or to communicate with you about special offers. These statistics do not identify you personally, but provide us information regarding the type of user who is accessing our Website and certain browsing activities of that user. We may make extensive use of this data at an aggregated level in order to understand how our Company website is being used.
 
-Please note that we have the ability to retain any data that you provide on our website(s), even if you do not complete your [registration/transaction] by clicking [submit/next]. Such contact details and data may be used to contact you to inquire why you did not complete your [registration or transaction. For more information, full details of our privacy policy can be found here [Policy](http://www.jewelscent.com/privacy)
+Please note that we have the ability to retain any data that you provide on our website(s), even if you do not complete your [registration/transaction] by clicking [submit/next]. Such contact details and data may be used to contact you to inquire why you did not complete your [registration or transaction. For more information, full details of our privacy policy can be found here [Policy](https://www.jewelscent.com/privacy)
 
 #### Cookies
 
