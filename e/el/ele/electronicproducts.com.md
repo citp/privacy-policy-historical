@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604092913id_/http%3A//www.aspencore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronicproducts.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130034904id_/http%3A//www.aspencore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASPENCORE
 
