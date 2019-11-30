@@ -1,85 +1,124 @@
-> *The following text is extracted and transformed from the saturdaydownsouth.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211004917id_/http%3A//www.saturdaydownsouth.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saturdaydownsouth.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130112433id_/https%3A//www.saturdaydownsouth.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Saturday Down South
 
-We take your privacy very seriously at Saturday Down South. Here is the breakdown of all the legal stuff so you know exactly what the deal is when it comes to information collected while on the site.
+**Last modified:** July 1, 2019
 
-This Privacy Notice discloses the privacy practices of our website, mobile site or app (the “Site”). Specifically, it outlines the types of information that is gathered while you are using the Site, and the ways in which the information is used and/or shared. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (in person, on the phone, or through the mail).
+ ** _Introduction:_**
 
-By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://www.saturdaydownsouth.com/terms-of-service). Because the internet is always evolving, we may need to alter the Privacy Notice, in which case we will update this page. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Accessing the site for the sole purpose of reviewing this Notice, and any further changes to it,does not constitute your acceptance unless you access any other portion of the site.
+Saturday Football, Inc. (“Saturday Down South” or “we”) respects your privacy and is committed to protecting it through our compliance with this Privacy Policy (this “Policy”). This Policy describes the types of information we may collect about you or that you may provide to us when you visit our website www.saturdaydownsouth.com (the “Website”) and our practices for collecting, using, protecting and disclosing that information.
 
-**Your California Privacy Rights**
+This Policy applies to information we collect on or through the Website. It does not apply to information collected by Saturday Down South offline or through any other means, including information collected on any other website operated by Saturday Down South, its affiliates or any third party. It also does not apply to information collected by any third party (including our affiliates) through any means, including information collected through any application or content that may link to or be accessible from or on the Website.
 
-California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing using the address on our [Contact Page.](https://web.archive.org/web/20170211004917id_/http://www.saturdaydownsouth.com/information/privacy-policy/www.saturdaydownsouth.com/information/contact)
+Please read this Policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using the Website, you agree to be legally bound by this Policy and, thus, expressly consent to our collection, use, protection and disclosure of your information as described in this Policy. If you do not agree with our policies and practices, do not use the Website. This Policy may change from time to time. Your continued use of the Website after we make changes to this Policy is deemed to be an acceptance of those changes, so please check this Policy periodically for updates.
 
-**How Information is Collected**
+ ** _Collection of Your Information – Information We Collect & How We Collect It:_**
 
-**Information You Provide.**  We may collect and store information that you voluntarily give to us while on our Site. This information could be used to contact or identify you(name, email, postal address). Some examples of this type of information include information that you electronically submit: registering with the site, contact us for questions, enter a contest, participate in surveys, information posted on blogs, comments on the site, or social media areas. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.
+We collect several types of information from and about users of the Website, including the following:
 
-**Location Information.**  We may collect location information (e.g., city and state and/or zip code) that you provide. Certain devices and browsers contain unique identifiers that can be used to identify the geographical location of the device. When you use such a device or browser to access our Site, your device and/or browser may automatically collect and/or transmit your location information. We also may collect GPS information from the device if the device transmits it. Additionally, if you download our app, we may collect your location information in order to deliver our app services. If you choose to enable certain features in our apps that require your geographic location, then we will collect and store that information.
+  * Information by which you may be personally identified, such as your name and email address and any other information by which you may be contacted online or offline (collectively, “personal information”);
+  * Information you provide us when you register for an account (such as your display name, bio, and team preferences) and information you post under that account; and
+  * Information about your Internet connection, the equipment you use to access the Website and usage details.
 
-**Other Information Automatically Collected to Improve the Site and Deliver Targeted Advertising.  **Information can also be collected through some automatic technologies, such as browser and flash cookies, pixels and web beacons about your use of our Site, including device identifying information such as IP addresses, MAC address or other device-specific alphanumerical ID numbers, the make and model of your device, the wireless provider associated with your device, whether you downloaded the app, the source of the download of the App, when the App is launched, how many times a page on the Site is visited, if certain features are interacted with by the user, and your device or computer’s connection to the Internet. If you choose to connect to our Site through a social network such as Facebook, we may automatically collect your profile information. These things allow us, to gauge the delivery of our web pages to you and to measure traffic on the Site, and to improve upon our overall site experience. 
 
-The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.
 
-We also may use “cookies” and other similar technologies on the Site. Cookies are small files that are placed on your hard drive for record-keeping purposes and to enhance your experience with the Site. Cookies prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. They also show how and when visitors use the Site, allowing us to deliver better advertisements, identify how many unique users visit us, and track user trends and patterns. This Site also may use web beacons (single-pixel graphic files also known as “transparent GIFs”) to access cookies and to count users who visit the Site or open HTML-formatted email messages.
+We collect this information (i) directly from you when you provide it to us and (ii) automatically as you navigate through the Website. Information collected automatically may include usage details, IP addresses, and other information collected through third-party analytics service providers, such as Google Analytics, Facebook, or other providers.
 
-**How We Use Information Collected**
+ **Information Provided by You:**
 
-We use the information we collect from you while you are using the Site in a variety of ways, including, for example, for the purpose for which the information was submitted, to process your registration request, to provide services and further requested communications, to send you email updates, customize features and advertising on the Site, content delivery, to measure Site traffic, user interests and traffic patterns, and to further improve upon the Site and the services and features offered.
+The information we collect on or through the Website from you may include the following:
 
-Location information provided by you, or collected automatically, can be used in order to provide you with content, services and advertising that is relevant to your geographic area.
+  * Information that you provide by filling out forms or registering for an account on the Website. This includes information provided at the time of requesting further services or information. We may also ask you for information when you report a problem with the Website;
+  * Information you post under your account. Please be aware that information you provide in your bio and information you post to the comments of this Website will be associated with your account’s display name and will be available to the public.  Any personal information you make available in your bio or in the information you post under your account is made at your own risk;
+  * Records and copies of your correspondence (including email addresses), if you contact us; and
+  * Your search queries on the Website.
 
-We may combine information we collect from you while you are using our Site with information that we collect from other sources to customize features, content and advertising that appear on our Site.
 
-We may also use information collected for purposes pertaining to the Site, such as: contacting you for customer service, support issues, inform you of changes or additions to the Site, to send administrative notices, or any other communication we believe could be of interest to users. 
 
-**Your Choices.** We may request information from you on the Site. You may always choose to decline to offer up any information, however, if you do not provide us with certain information, you may not be able to access some or all of the features offered through the Site. 
+You may also provide information to be published, displayed or posted on public areas of the Website or transmitted to other users of the Website (collectively, “User Content”). Your User Content are posted on the Website and transmitted to others at your own risk. We cannot control the actions of other users of the Website with whom you may choose to share your User Content.
 
-If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. Disabling cookies or turning off other functionality may prevent you from participating in some areas or features of the Site. For more information on opting out of information collecting you may visit the Digital Advertising Alliance’s website at [www.aboutads.info](http://www.aboutads.info/).
+ **Information Collected Through Automatic Data Collection Technologies:**
 
-**How Information is Shared**
+As you navigate through and interact with the Website, we may use automatic data collection technology to collect certain information about your equipment and browsing actions and patterns. This technology is third-party analytics technology, such as that offered by Google Analytics, Facebook, or other analytics service providers. The information we collect automatically includes the following:
 
-**Sharing with Affiliates, Partners and Third Party Service Providers.** We may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.
+  * Details of your visits to the Website, including traffic data, location data and the resources that you access and use on the Website, and
+  * Information about your computer and internet connection, including your IP address, operating system type and browser type.
 
-If you do not wish certain information to be shared for these purposes, send a letter to the Site Contact listed on our [Contact Page](http://saturdaydownsouth.com/information/contact).
 
-We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner’s use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.
 
-**Sharing Information with Third Parties for Advertising and Other Promotional Purposes.** We may use third-party service providers to target and serve some of the advertisements you see on the Site. We may share technical or aggregate information, such as type of pages viewed and categories of interest, from our Site with these service providers and advertisers for their use in displaying ads on our Site. These third party providers and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as unique device identifier, IP address, MAC address, browser type, pages visited, and location information) from users of the Site that is generated automatically as a user views or interacts with an ad. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements on this Site, and on other websites.
+We may also use this technology to collect information about your online activities over time and across third-party websites or other online services (“behavioral tracking”). Currently, the automatic data collection technology used on the Website does not respond to “Do Not Track” settings and similar mechanisms.
 
-If you do not interact with an ad in a positive manner, data collected in connection with the ad does not include your personal information (name, address, email, or telephone) but it may include technical information (device unique identifier, IP address, MAC address and location information of your computer or device). The use and collection of information by third-party advertising service providers is governed by the relevant third party’s privacy policy and is not covered by our Privacy Notice
+The information we collect automatically may include personal information or we may maintain it or associate it with personal information we collect in other ways. It helps us to improve the Website and to deliver a better service, including by enabling us to store information about your team preferences to deliver a more individualized Website experience, estimate our audience size and usage patterns and speed up your searches.
 
-**Sharing with Third Parties for Other Purposes.** Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our Terms of Service; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+ ** _Use of Your Information:_**
 
-Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
+We use information that we collect about you or that you provide to us, including any personal information, for the following:
 
-**Data Collected in Connection with Ad Serving and Targeting**  
-We operate in compliance with the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising, www.aboutads.info.
+  * To provide, enhance, improve and develop the Website and its content and services, including improving the Website’s layout;
+  * To provide you with information or services that you request from us. For example, when you provide us your email address, we will add you to our newsletter subscription list, which you may unsubscribe from at any time by following the unsubscribe instructions in the email;
+  * To fulfill any other purpose for which you provide such information;
+  * To carry out our obligations and enforce our rights arising from any agreements entered into between you and us, including this Policy and any applicable terms of use;
+  * To resolve disputes and troubleshoot problems, including fighting malware;
+  * To prevent potentially unsafe, prohibited or illegal activities;
+  * In any other way we may describe when you provide such information; and
+  * For any other purpose with your consent.
 
-For the purpose of collecting information about Site users and site activity we may collect information using cookies, web beacons and similar technologies, and/or a third-party ad serving software. We may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
 
-We also may use third-party service providers, to target and serve some of the advertisements you see on the pages of our Site. We may share technical or aggregate information about your interaction with our Site, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect similar information from our Site. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. The information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.
 
-Unless you affirmatively provide information, the data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include device identifying information such as the IP address, MAC address, cookie or other device-specific unique alphanumerical ID of your computer.
+We may use your information to contact you about our own and third parties’ goods and services that may be of interest to you.  If you do not want us to use your information in this way, please contact us at privacy@saturdaydownsouth.com.  We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences.  Even though we do not disclose your personal information for these purposes, if you click on or otherwise interact with an advertisement, the advertiser may assume you meet its target criteria.
 
-The use and collection of information by third-party advertising service providers are governed by the relevant third party’s Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, go to [www.aboutads.info](https://web.archive.org/web/20170211004917id_/http://www.saturdaydownsouth.com/information/privacy-policy/www.aboutads.info). You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting <http://www.google.com/intl/en/policies/privacy>. Additionally, many of our advertising service providers are members of the Network Advertising Initiative (“NAI”). You can obtain more information about these advertising service providers’ information collection practices, and opt out of such practices by following instructions on the NAI’s website at <http://www.networkadvertising.org/managing/opt_out.asp>. If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](https://web.archive.org/web/20170211004917id_/http://www.saturdaydownsouth.com/information/privacy-policy/www.aboutads.info)
+ ** _Disclosure of Your Information:_**
 
-**Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas**
+We may disclose personal information that we collect or that you provide to us as follows:
 
-Posting voluntarily makes your personal information or other private information available for viewing by third parties online – for example on blogs, discussion forums, or other community posting or social networking areas of our Site – that information can be seen, collected and used by others besides us. We are not responsible for any unauthorized third-party use of such information.
+  * To our affiliates;
+  * To contractors, service providers, consultants, agents and other third parties which we use to support our business and provide the Website and its content and services. For example, we will transmit your email address to our third-party service provider for purposes of sending our newsletters to you via email;
+  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Saturday Down South’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceedings, in which personal information held by Saturday Down South about the Website’s users is among the assets transferred;
+  * To fulfill the purpose for which you provide such information;
+  * For any other purpose disclosed by us when you provide the information; and
+  * For any purpose with your consent.
 
-**Children’s Privacy Statement**
 
-This site is not intended for children under the age of 13. We do not knowingly collect any Personal Information from a child under 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records.
 
-**Security**
+Notwithstanding any other provisions of this Policy, we also reserve the right to access, preserve and disclose any information, including personal information, as we believe is necessary, in our sole and absolute discretion, for the following:
 
-All information gathered on our Site is stored within databases only accessible to administrators and services providers. However, we cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+  * To respond to legal requirements, including to comply with any court order, law or legal process and to respond to any government or regulatory request;
+  * To enforce or apply our policies and agreements, including any applicable terms of use and this Policy;
+  * To detect, prevent or otherwise address fraud, security, trust and safety or technical issues; or
+  * To protect the rights, property or safety of Saturday Down South, the Website’s users, any third parties or the public in general.
 
-**Links to Other Sites**
 
-Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.
 
-**Questions**  
-Contact us at support@saturdaydownsouth.com and we’ll be happy to answer any further questions you may have regarding our privacy policy. 
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction.
+
+ ** _Third-Party Use of Cookies and Tracking Technologies_**
+
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers.  These third parties may use cookies alone or in combination with web beacons or other tracking technologies to collect information about you when you use our Website.  The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services.  They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.  We do not control these third parties’ tracking technologies or how they may be used.  If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
+
+ ** _Third Parties:_**
+
+This Policy addresses only our collection, use, protection and disclosure of information collected by us on or through the Website and that you provide to us on or through the Website. It does not apply to the practices of third parties that we do not own, control, employ or manage, including any third-party websites, applications, services or businesses. If you disclose your information to others, different rules may apply to their use or disclosure of the information you disclose to them. You acknowledge that if you provide information to third parties, that information will be subject to the privacy policies of those third parties, which may differ from this Policy. We are not responsible for the content or privacy policies of third parties, and we encourage you to ask questions before disclosing your information to others.
+
+ ** _Children under the Age of 13:_**
+
+The Website is not intended for children under 13 years of age, and we do not knowingly collect personal information from children under age 13. If you are under 13 years of age, do not provide any information on the Website or on or through any of its features, register on the Website or provide any information about yourself to us, including your name, address, telephone number or email address. If we learn that we have collected or received personal information from a child under age 13 without verification of parental consent, we will delete that information.
+
+We encourage parents and guardians to supervise their children’s online activities and consider using parental control tools available from online services and software manufacturers. These tools can prevent children from disclosing their names, addresses and other personal information online without parental consent.
+
+ ** _Accessing and Correcting Your Information_**
+
+You can review and change your account information by logging into the Website and visiting your account profile page.  You can also send us an email at privacy@saturdaydownsouth.com to request the deletion of your account or a post.  We cannot delete your personal information except by also deleting your user account.  We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.  If we delete any posts from the Website, copies may remain viewable in cached and archived pages, or may have been copied or stored by other Website users.
+
+ ** _Data Security:_**
+
+We have implemented measures designed to secure your personal information from accidental loss and unauthorized access, use, alteration and disclosure. Unfortunately, however, the transmission of information via the Internet is not completely secure, and third parties may unlawfully intercept or access transmissions or private communications. Although we work very hard to protect your privacy, we cannot guarantee the security of your information or that your information or private communications will always remain private. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of user information at any time. Any transmission of information is at your own risk. We are not responsible for the circumvention of any security measures implemented on the Website.
+
+Where you have chosen a password for access to certain parts of our Website, you are responsible for keeping this password confidential.  We ask you not to share your password with anyone.  We urge you to be careful about sharing or disclosing personal information in your bio and Website posts and comments.
+
+ ** _Changes to the Privacy Policy:_**
+
+We may amend this Policy at any time by posting the amended Policy on this page. The date this Policy was last revised is identified at the top of this Policy. All amended terms automatically take effect after they are initially posted on this page, unless a change in any applicable law requires immediate amendment. Use of information we collect or that you provide to us is subject to the Policy in effect at the time such information is collected or provided. You are responsible for periodically visiting the Website and this Policy to check for any changes.
+
+ ** _Questions & Concerns:_**
+
+If you have any questions or concerns regarding this Policy or our privacy practices, please contact us at: privacy@saturdaydownsouth.com.
