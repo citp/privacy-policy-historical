@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fanpix.net privacy policy that was archived on 2019-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190422181639id_/https%3A//members.famousfix.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fanpix.net privacy policy that was archived on 2019-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191130013423id_/https%3A//members.famousfix.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="platform-desktop" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <title>Privacy Policy</title>
@@ -16,11 +16,11 @@
 <meta property="og:site_name" content="FamousFix.com">
 <meta property="fb:app_id" content="136043229790810">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link rel="stylesheet" href="https://pts2.famousfix.com/static/css/?v=265&amp;f=$s/css/ff.global.css,ff.table.css,ff.list.css,ff.header.css,ff.footer.css,ff.masonry.css,colorbox/colorbox.css,ff/ff.sub.global.css,ff/ff.sub.header.css,/static/icons/css/ff-icon-set.css,/css,ff.comment.css">
+<link rel="stylesheet" href="https://pts2.famousfix.com/static/css/?v=301&amp;f=$s/css/ff.global.css,ff.table.css,ff.list.css,ff.header.css,ff.footer.css,ff.masonry.css,colorbox/colorbox.css,ff/ff.sub.global.css,ff/ff.sub.header.css,/static/icons/css/ff-icon-set.css,/css,ff.comment.css">
 <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">if (window.self != window.top){top.location.replace(window.location.pathname);}</script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
-<script type="text/javascript" src="https://pts2.famousfix.com/static/js/?v=265&amp;f=$s/js/ff.global.js,ff.all.js,ff.all_new.js,ff.trx3.js"></script>
+<script type="text/javascript" src="https://pts2.famousfix.com/static/js/?v=301&amp;f=$s/js/ff.global.js,ff.all.js,ff.all_old.js,ff.all_new.js,ff.all_ac.js,ff.trx3.js"></script>
 <script type="text/javascript">
 var currentUser = new User('0');
 </script><!--Ad1_ok1_m0_o_v-->
@@ -45,10 +45,10 @@ googletag.pubads().enableSingleRequest();
 googletag.pubads().collapseEmptyDivs();
 googletag.enableServices();
 });
-</script>
+</script><script data-ad-client="ca-pub-4356445222935173" async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body id="lin">
-<!--80A19-->
+<!--250A20-->
 
 <div style="height:38px; position:fixed; top:0px; left:0px; width:100%; z-index:2;">
 	<div style="width:970px; margin:auto; background:#BDBDBD; height:38px;"></div>
@@ -395,7 +395,7 @@ Desktop | <a onclick="document.mswitch.device2.value='m'; document.mswitch.submi
 			<div class="font11 posl" style="width:50%;">								
 				This website is part of the <a href="https://www.famousfix.com">FamousFix</a> entertainment community.
 				By continuing past this page, and by your continued use of this site, you agree to be bound by and abide by the <a rel="nofollow" href="https://members.famousfix.com/terms">Terms of Use</a>.
-				Loaded in 0.11 secs.
+				Loaded in 0.01 secs.
 			</div>		
 			<div class="font11 posr">				
 				<a rel="nofollow" href="https://members.famousfix.com/terms">Terms of Use</a> &nbsp;|&nbsp; 
@@ -416,15 +416,15 @@ Desktop | <a onclick="document.mswitch.device2.value='m'; document.mswitch.submi
 	$(document).ready(function() {
 	
 		
-			//voting
-			//$(".voting_wrapper .voting_btn").click(function (e) {
+			$(".acVal").on("focus", function(){
+				ac_fnc(this);
+			});
+		
 			$(document).on("click",".voting_wrapper .voting_btn",function(e) {			
 				var clicked_button = $(this).children().attr('class');	
 				var unique_id   = $(this).parent().attr("id"); 
 				var tblid   = $(this).parent().attr("tid"); 
 				var list_id   = $(this).parent().attr("lid"); 
-				//var list_id   = $("#list_id").val(); 			
-				//var tblid   = $("#tblid").val(); 
 				if(clicked_button==='down_button')
 				{
 					post_data = {'TBL':tblid, 'PID':unique_id, 'PID2':list_id, 'vote':-1};
@@ -450,17 +450,12 @@ Desktop | <a onclick="document.mswitch.device2.value='m'; document.mswitch.submi
 			var lesstext = "&laquo; view less";
 			$('.more').each(function() {
 				var content = $(this).html();
-		 
 				if(content.length > showChar) {
-		 
 					var c = content.substr(0, showChar);
 					var h = content.substr(showChar, content.length - showChar);
-		 
 					var html = c + '<span class="moreellipses">' + ellipsestext+ '</span><span class="morecontent"><span>' + h + '</span>&nbsp;<a href="" class="morelink">' + moretext + '</a></span>';
-		 
 					$(this).html(html);
 				}
-		 
 			});
 		 
 			$(".morelink").click(function(){
@@ -478,12 +473,9 @@ Desktop | <a onclick="document.mswitch.device2.value='m'; document.mswitch.submi
 			
 			//view more2, e.g. list topics
 			$('.vmore2').click(function() {
-			
 				var moretext = "show more";
 				var lesstext = "show less";
-		
-				$(this).next('div').slideToggle();
-									
+				$(this).next('div').slideToggle();					
 				if($(this).hasClass("vless")) {
 					$(this).removeClass("vless");
 					$(this).html(moretext);
@@ -491,19 +483,15 @@ Desktop | <a onclick="document.mswitch.device2.value='m'; document.mswitch.submi
 					$(this).addClass("vless");
 					$(this).html(lesstext);
 				}
-			
 			});			
 		
 		
 			
 		//view more, e.g. quick links
 		$('.vmore').click(function() {			
-		
 			var moretext = "Show more &#8659;";
 			var lesstext = "Show less &#8657;";
-	
-			$(this).prev('div').slideToggle();
-								
+			$(this).prev('div').slideToggle();					
 			if($(this).hasClass("vless")) {
 				$(this).removeClass("vless");
 				$(this).html(moretext);
@@ -511,13 +499,10 @@ Desktop | <a onclick="document.mswitch.device2.value='m'; document.mswitch.submi
 				$(this).addClass("vless");
 				$(this).html(lesstext);
 			}
-		
 		});		
 
-		monkeyPatchAutocomplete();		
-		
-		$("#livetxt").autocomplete(
-			{
+		//render using monkeyPatchAutocomplete
+		$("#livetxt").autocomplete({
 			source:ajaxDomain+'/include/process/process_live_search_json.asp'+'?TBL='+$("#sTBL").val()+'&TBT='+$("#sTBT").val(),
 			minLength:1,
 			//autoFocus: true,
@@ -527,8 +512,15 @@ Desktop | <a onclick="document.mswitch.device2.value='m'; document.mswitch.submi
 				$("#liveform").submit();			
 				return false;
 			}
-							
-		});	
+		}).data("ui-autocomplete")._renderItem = function (ul, item) {
+			var re = new RegExp("^" + this.term, "i") ;
+		    var t = item.label.replace(re,"<span style='font-weight:normal;'>" + this.term + "</span>");
+		    return $( "<li style='font-weight:bold;'></li>" )
+				.data( "item.autocomplete", item )
+			    .data( "item.autocomplete", item )						  
+			    .append( "<a>" + t + "</a>" )
+			    .appendTo( ul );																				
+		}; 
 						
 		$('body').on('click', 'li.cli',
 			function(e) {
