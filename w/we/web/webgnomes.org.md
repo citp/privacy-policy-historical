@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webgnomes.org privacy policy that was archived on 2017-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170916182451id_/http%3A//www.webgnomes.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgnomes.org privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130221700id_/https%3A//www.webgnomes.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Web Gnomes
 
