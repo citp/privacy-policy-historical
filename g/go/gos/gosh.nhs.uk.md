@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gosh.nhs.uk privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530172856id_/https%3A//www.gosh.nhs.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gosh.nhs.uk privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130025943id_/https%3A//www.gosh.nhs.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Great Ormond Street Hospital
 
@@ -278,7 +278,7 @@ Email: [Your.Data@gosh.nhs.uk](mailto:Your.Data@gosh.nhs.uk)
 You can also find details of our registration with the Information Commissioner online here:  
 [www.ico.org.uk/esdwebpages/search](http://www.ico.org.uk/esdwebpages/search)
 
-Our ICO registration number is Z5566239.
+Our ICO registration number is Z6776821.
 
 ### 
 
