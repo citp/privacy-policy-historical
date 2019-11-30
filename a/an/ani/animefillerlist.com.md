@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animefillerlist.com privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511232323id_/https%3A//www.animefillerlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animefillerlist.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130213721id_/https%3A//www.animefillerlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Ultimate Anime Filler Guide
 
