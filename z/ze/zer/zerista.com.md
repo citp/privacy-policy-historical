@@ -1,14 +1,22 @@
-> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521232616id_/https%3A//www.simpleviewinc.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerista.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130041248id_/https%3A//www.simpleviewinc.com/privacy-notice) for the most accurate reproduction.*
 
 # Simpleview | Privacy Notice
 
-_Last updated: 2/22/2019_
+_Last updated: 11/01/2019_
 
 To review historical copies of our privacy policy, contact [privacy@simpleviewinc.com](mailto:privacy@simpleviewinc.com).
 
-Simpleview complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom or Switzerland to the United States in reliance on Privacy Shield. Simpleview has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+Simpleview complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and Switzerland to the United States in reliance on Privacy Shield. Simpleview has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
 
-This Privacy Policy explains the types of personal information we collect through our website, [www.simpleviewinc.com](http://www.simpleviewinc.com/), how we use it, what we do _not_ do with it, how you can view your information and update it, and how we keep it safe.
+This Privacy Policy explains the types of personal information we collect through our website, [www.simpleviewinc.com](https://barberstock-simpleview.simpleviewcms.com/), how we use it, what we do not do with it, how you can view your information and update it, and how we keep it safe. As a global organization, information about you may be shared globally throughout Simpleviews worldwide organization. See the list of [Simpleview Companies](https://www.simpleviewinc.com/privacy-notice/entities/) and locations.
+
+#####   
+Americas
+
+Simpleview LLC  
+VisitApps LLC  
+Barberstock Systems ULC  
+Simpleview Jackrabbit LLC
 
 #####   
 **Contact Information**
@@ -28,7 +36,8 @@ User Data/Data Collection: Automated Decision Making and Profiling
 
 Use of Information  
 Links to Other Websites/Third Party Disclosure  
-Data Collection For Clients and Partners
+Data Collection For Clients and Partners  
+California Privacy (CCPA)
 
 #####   
 **How Do We Protect Your Information**
@@ -44,6 +53,8 @@ Tucson, AZ 85704
 +1 520.575.1151
 
 For questions about privacy and data collection through [www.simpleviewinc.com](http://www.simpleviewinc.com/), contact [privacy@simpleviewinc.com](mailto:privacy@simpleviewinc.com).
+
+Simpleview employees are authorized to access personal information only to the extent necessary to serve the applicable purpose(s) and to perform their job functions.
 
 **User Data/Data Collection: Personal Identification Information**
 
@@ -92,7 +103,17 @@ Simpleview will retain personal data we process until the visitor/user notifies 
 
 Simpleview supports the development and operation of [partner services/products](https://www.simpleviewinc.com/our-world/partners/) that interact with client user information. We request that our partners meet industry standards for security data storage and maintenance equivalent to those that we uphold or higher in regards to any data collected by our partners or by Simpleview in conjunction with these partner services/products. Where applicable, we enter into binding agreements ensuring all parties meet minimum data security standards.
 
-We acknowledge that we may face liability in cases where there is an onward transfer of your personal information from us to a third party. We hold those third parties with whom we do business to the same rigorous security standards that we impose on ourselves.
+We acknowledge that we may face liability in cases where there is an onward transfer of your personal information from us to a third party. We hold those third parties with whom we do business to the same rigorous security standards that we impose on ourselves
+
+**California Privacy (CCPA)**
+
+If you are a California resident, California Civil Code permits you to request information regarding the disclosure of your personal information by Simpleview, or its subsidiaries to a third party for the third party’s direct marketing purposes. To make such a request, please send an email to [privacy@simpleviewinc.com](mailto:privacy@simpleviewinc.com) or write to us:
+
+**Simpleview**  
+8950 N. Oracle Road  
+Tucson, AZ 85704  
++1 520.575.1151  
+ 
 
 **Data Security**
 
@@ -112,7 +133,7 @@ We are subject to the investigatory and enforcement powers of the U.S. Federal T
 
 **Changes to This Privacy Policy**
 
-We reserve the right to change and update our privacy policy. Any changes to our policy will be prominently posted on this site. Last updated: 3/6/2018
+We reserve the right to change and update our privacy policy. Any changes to our policy will be prominently posted on this site. Last updated: 6/24/2019
 
 **Report Concerns**
 
