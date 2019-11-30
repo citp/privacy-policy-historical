@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mcleaks.net privacy policy that was archived on 2019-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190603202923id_/https%3A//mcleaks.net/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mcleaks.net privacy policy that was archived on 2019-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191130215503id_/https%3A//mcleaks.net/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
@@ -143,7 +143,7 @@
 <div class="modal-header">
 <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
 <h4 id="modal_title" class="modal-title"></h4>
- </div>
+</div>
 <div class="modal-body">
 <form id="modal_form" action="" method="POST">
 <input id="modal_posttype" type="hidden" name="posttype" value="">
@@ -190,11 +190,12 @@ MCLeaks is free, but we require all users to disable their adblocker.<br>
 
         window.onload = function () {
         if( window.canRunAds === undefined ) {
-        	console.log('AdBlock detected.');
         	$('#antiAdBlock').modal({
-        	backdrop: 'static',
-        	keyboard: false
-        })
+	        	backdrop: 'static',
+	        	keyboard: false
+	        });
+
+	        $('#antiAdBlock').css('background-color', 'rgba(0,0,0,0.5)');
         }
         }
 
