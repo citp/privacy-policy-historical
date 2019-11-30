@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the promo.com privacy policy that was archived on 2019-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190330200440id_/https%3A//promo.com/privacy-policy%3Futm_content%3Dheader) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the promo.com privacy policy that was archived on 2019-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191130053845id_/https%3A//promo.com/privacy-policy%3Futm_content%3Dfooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" class=""><!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>--><!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.12.0/jquery-ui.min.js"></script>--><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# slidely: http://ogp.me/ns/fb/slidely#">
 
-    <script type="text/javascript" async="" src="https://widget.intercom.io/widget/van22wlo"></script><script async="" src="//cdn.taboola.com/libtrc/unip/1169464/tfa.js" id="tb_tfa_script"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script>
+    <script type="text/javascript" async="" src="https://widget.intercom.io/widget/van22wlo"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script src="https://snippet.growsumo.com/growsumo.min.js" type="text/javascript" async=""></script><script>
 
         var localStorageCookiePolicyAccepted = false;
         try {
@@ -41,6 +41,98 @@
 <script type="text/javascript" src="https://js.stripe.com/v2/"></script>
 <script src="https://checkout.stripe.com/checkout.js"></script>
 <!-- end stripe tags -->
+
+<!-- Start VWO Integration with Mixpanel Code -->
+<script type="text/javascript">
+    var dataSendingTimer,
+        tryPushingDataTimer,
+        _vis_data = {};
+    window.VWO = window.VWO || [];
+
+    window.VWO.push(['onVariationApplied', function (data) {
+        if(!data) {
+            return;
+        }
+        var expId = data[1],
+            variationId = data[2];
+        if (typeof(_vwo_exp[expId].comb_n[variationId]) != 'undefined' && ['VISUAL_AB', 'VISUAL', 'SPLIT_URL', 'SURVEY'].indexOf(_vwo_exp[expId].type) > -1) {
+            _vis_data['VWO-Test-ID-' + expId] = _vwo_exp[expId].comb_n[variationId];
+            clearTimeout(dataSendingTimer);
+            (function tryPushingData() {
+                clearTimeout(tryPushingDataTimer);
+                if (!window.mixpanel || !window.mixpanel.track) {
+                    tryPushingDataTimer = setTimeout(function () {
+                        tryPushingData();
+                    }, 5);
+                    return;
+                }
+                dataSendingTimer = setTimeout(function () {
+                    window.mixpanel.register(_vis_data);
+                    window.mixpanel.track("VWO", _vis_data);
+                    _vis_data = {};
+                }, 100);
+            })();
+        }
+    }]);
+
+</script>
+<!-- End VWO Integration with Mixpanel Code -->
+
+<!-- Start VWO Asynchronous Code -->
+<script type="text/javascript">
+var _vwo_code=(function(){
+var account_id=387450,
+settings_tolerance=2000,
+library_tolerance=2500,
+use_existing_jquery=false,
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=387450&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20191130053845id_%2Fhttps%253A%2F%2Fpromo.com%2Fprivacy-policy%253Futm_content%253Dfooter&amp;r=0.7502150586892689" type="text/javascript"></script>
+<!-- End VWO Asynchronous Code -->
+
+<!-- Start fixel code -->
+<script src="https://script.fixel.ai/script/Fixel.min.js"></script>
+<script async="" defer="">
+    runFixel('FXL-111-1475',{"ga":true,"fb":true,"display":"promo"});
+</script>
+<script async="" defer="">
+document.addEventListener('fxl_event', function(event) {
+    if (window.mixpanel) {
+            mixpanel.track(
+            "Fixel", {
+                "grade": event.class,
+                "display": event.codeName
+            }
+        );
+    }
+})
+</script>
+<!-- End fixel code -->
+
+<!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<!--<script>-->
+<!--!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');-->
+<!---->
+<!--if (!window.isReportingDisabledByGdpr) {-->
+<!--    qp('init', '71526c1d74dd441dbf238b3c6d45b58e');-->
+<!--    qp('track', 'ViewContent');-->
+<!--}-->
+<!--</script>-->
+<!--<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/71526c1d74dd441dbf238b3c6d45b58e/pixel?tag=ViewContent&noscript=1"/></noscript>-->
+<!-- End of Quora Pixel Code -->
+    <!-- Hotjar Tracking Code for https://promo.com -->
+    <script>
+        (function(h,o,t,j,a,r){
+            h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+            h._hjSettings={hjid:1367711,hjsv:6};
+            a=o.getElementsByTagName('head')[0];
+            r=o.createElement('script');r.async=1;
+            r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script><script async="" src="https://static.hotjar.com/c/hotjar-1367711.js?sv=6"></script>
+
     <script>
 
         window.noSupportRedirection = true;
@@ -81,28 +173,32 @@
             }
         }
 
+
     </script>
 
+    <script type="text/javascript">(function() {var gs = document.createElement('script');gs.src = 'https://snippet.growsumo.com/growsumo.min.js';gs.type = 'text/javascript';gs.async = 'true';gs.onload = gs.onreadystatechange = function() {var rs = this.readyState;if (rs && rs != 'complete' && rs != 'loaded') return;try {growsumo._initialize('pk_esbKqgLPsPyYJCz0Nm1zHmjs7A01ilt1');if (typeof(growsumoInit) === 'function') {growsumoInit();}} catch (e) {}};var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(gs, s);})();</script>
+
+
     		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta property="twitter:app:name:iphone" content="Slidely Show for Mobile">
-<meta property="twitter:app:id:iphone" content="785325022">
-<meta property="twitter:app:name:ipad" content="Slidely Show for Mobile">
-<meta property="twitter:app:id:ipad" content="785325022">
-<meta property="twitter:app:name:googleplay" content="Slidely Video Greetings">
-<meta property="twitter:app:id:googleplay" content="com.slidely.ezslidelyshowExp">
-<meta property="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=com.slidely.ezslidelyshowExp&amp;utm_campaign=slidely-site&amp;utm_source=slidely-site">
-<meta property="al:ios:url" content="slidely://">
-<meta property="al:ios:app_store_id" content="785325022">
-<meta property="al:ios:app_name" content="Slidely Show for Mobile">
-<meta property="al:android:url" content="slidely://">
-<meta property="al:android:app_name" content="Slidely Video Greetings">
-<meta property="al:android:package" content="com.slidely.ezslidelyshowExp">
-<meta property="og:updated_time" content="1553976280">
+<meta property="twitter:app:name:iphone" content="Promo: Marketing Video Maker">
+<meta property="twitter:app:id:iphone" content="1304321154">
+<meta property="twitter:app:name:ipad" content="Promo: Marketing Video Maker">
+<meta property="twitter:app:id:ipad" content="1304321154">
+<meta property="twitter:app:name:googleplay" content="Promo: Marketing Video Maker">
+<meta property="twitter:app:id:googleplay" content="com.promo.mobile">
+<meta property="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=com.promo.mobile">
+<meta property="al:ios:url" content="app.promo://home">
+<meta property="al:ios:app_store_id" content="1304321154">
+<meta property="al:ios:app_name" content="Promo: Marketing Video Maker">
+<meta property="al:android:url" content="app.promo://home">
+<meta property="al:android:app_name" content="Promo: Marketing Video Maker">
+<meta property="al:android:package" content="com.promo.mobile">
+<meta property="og:updated_time" content="1575092325">
 <meta property="og:url" content="https://promo.com/privacy-policy">
 <meta property="og:title" content="Privacy Policy | Promo.com | Visual Content Creation Platform">
 <meta property="og:description" content="Promo gives you quality video clips, licensed music and a built-in text editor so you can create stunning video content easily.">
 <meta property="og:type" content="object">
-<meta property="og:image" content="https://ak04-promo-cdn.slidely.com/images/promoVideos/og-promo-com-v2.jpg/1553696711">
+<meta property="og:image" content="https://ak01-promo-cdn.slidely.com/images/promoVideos/og-promo-com-v2.jpg/1574848683">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:site_name" content="Promo">
@@ -110,7 +206,7 @@
 <meta property="twitter:site" content="@Slidely">
 <meta property="twitter:title" content="Privacy Policy | Promo.com | Visual Content Creation Platform - https://promo.com">
 <meta property="twitter:description" content="Promo gives you quality video clips, licensed music and a built-in text editor so you can create stunning video content easily.">
-<meta property="twitter:image:src" content="https://ak04-promo-cdn.slidely.com/images/promoVideos/og-promo-com-v2.jpg/1553696711">
+<meta property="twitter:image:src" content="https://ak01-promo-cdn.slidely.com/images/promoVideos/og-promo-com-v2.jpg/1574848683">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta property="fb:app_id" content="255083304564274">
@@ -123,16 +219,17 @@
 <link href="/favicons/favicon152x152.png" rel="icon" type="image/png" sizes="152x152">
 <link href="/favicons/favicon167x167.png" rel="icon" type="image/png" sizes="167x167">
 <link href="/favicons/favicon180x180.png" rel="apple-touch-icon" type="image/png" sizes="180x180">
+<link href="/manifest.json" rel="manifest">
 <link href="https://promo.com/privacy-policy" rel="canonical">
 <link href="https://promo.com/privacy-policy" hreflang="x-default" rel="alternate">
-<link href="https://ak03-promo-cdn.slidely.com/1553696711/scss/applications/promoVideos/terms.scss" media="screen" rel="stylesheet" type="text/css">
-<link href="https://ak01-promo-cdn.slidely.com/1553696711/scss/applications/promoVideos/pricing.scss" media="screen" rel="stylesheet" type="text/css">
-<link href="https://ak03-promo-cdn.slidely.com/1553696711/scss/applications/promoVideos/recaptcha-popup.scss" media="screen" rel="stylesheet" type="text/css">
+<link href="https://ak03-promo-cdn.slidely.com/1574848683/scss/applications/promoVideos/terms.scss" media="screen" rel="stylesheet" type="text/css">
+<link href="https://ak01-promo-cdn.slidely.com/1574848683/scss/applications/promoVideos/pricing.scss" media="screen" rel="stylesheet" type="text/css">
+<link href="https://ak02-promo-cdn.slidely.com/1574848683/scss/applications/promoVideos/recaptcha-popup.scss" media="screen" rel="stylesheet" type="text/css">
 		
 		<script type="text/javascript">
     //<![CDATA[
     
-var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"system":["backbone","handlebars","jquery-ui"],"backbone":["underscore","jquery"],"tweenmax":{"exports":"TweenMax"},"google-ima3":{"exports":"google.ima"}},"config":{"ez\/language":{"EMPTY":"EMPTY"},"thankYouV2":false,"apps\/promoVideos\/dashboard":{"isPublishPageMode":false},"apps\/promoVideos\/pricing":{"pricingWidgetMode":"default","overChargePopupMode":"new_style_annual","flatTogglePricingMode":"no","isTransparentPricingEnabled":true,"checkoutCta":"Purchase Now","isNewPricingPageDesignV3":true,"isNewPlansV3":true,"faqsList":[{"title":"What payment services do you support?","text":"We accept all major credit cards."},{"title":"Is this a secure site for purchases?","text":"Absolutely! We work with <a href=\"https:\/\/stripe.com\/\" target=\"_blank\">Stripe<\/a> which guarantees your safety and security. All site communication and data transfer are secured and encrypted."},{"title":"Can I upgrade my plan?","text":"Yes, you can. You can upgrade your plan at any time. If you have pending unused videos they will be calculated into your new subscription plan."},{"title":"How does the billing cycle work?","text":"When you subscribe to any of our monthly plans, you will be billed monthly and your plan renews each month based on your initial subscription date. This is considered your monthly billing cycle. Our Annual Plans have one-year billing cycles and are billed as one payment per year."},{"title":"Can I downgrade my plan?","text":"You can downgrade your monthly subscription plan at any time from within the Billing section of the website. The downgrade will take effect during the next billing cycle and all unused video credits will rollover to your downgraded plan. All annual downgrades will take effect on the following one-year billing cycle."},{"title":"Can I cancel my subscription?","text":"Monthly subscriptions are billed month to month. No contract. No obligation. You can cancel your monthly subscription at any time. Annual purchases come with an awesome discount and run on a one-year billing cycle with cancellation available for the following year. That said, we hope you'll fall in love with Promo and never want to leave (-:"},{"title":"Can I update my card details?","text":"Yes. Go to the billing section of your account and update your payment information."},{"title":"I want only one video, do I have to sign up for a plan?","text":"We hear you. Unfortunately, we don't offer single video options because we know that to truly make an impact on your business you need to be consistent with your video marketing efforts and we want to see you succeed."}],"isLightBg":true,"isHolidaySaleBtnEnabled":true,"holidayOfferPageUrl":"\/promo-special","isSpecialOfferBtnEnabled":false,"isShowTrustpilot":false,"twoMonthTest":false},"system":{"typeKit":"","language":"en","locale":"en_US","cdnHost":"ak01-promo-cdn.slidely.com","revision":1553696711,"connected":false,"analytics":{"google":{"accountId":"UA-17257037-18","pageName":false},"mixpanel":{"accountId":"e7d2894fb113ce2e99d62bcfd0f0a3f0"}},"session":{"connected":false,"error":{"message":"user not logged in","code":"loginError"}},"facebook":{"applicationId":"255083304564274","applicationNamespace":"slidely","defaultPermissions":"email,user_photos","tagApiPixelId":"712371922135655","channelUrl":"https:\/\/promo.com\/fc.php"},"isOnboardScriptEnabled":false,"featureFlags":{},"userPreferences":{},"adroll":{"adrollAdvId":"6FTQJCG37NG4XKDBFGHYSS","adrollPixId":"QZZSSZCSSJC3LGMSLLGVXZ"},"upgradeErrorUrl":"https:\/\/promo.com\/error\/type\/upgrade","earlyAccessFlag":false},"system\/reports":{"defaults":{"userStatus":"visitor","pagePlatform":"desktop","pageType":"policy","isPromoCom":true,"lang":"en","source":null,"campaign":null,"clickedOn":"header","utm_medium":null,"utm_term":null,"utm_creative":null,"fb_conversion_pixel":null,"asset":null,"tid":0},"reportUrl":"\/reports\/%s\/%s","log":true,"callbackTimeout":1000,"mixpanelProxyEnabled":false,"gaReportingDisableKeys":["ga-disable-UA-17257037-18","ga-disable-AW-854643498","ga-disable-AW-854658101"]},"system\/session":{"ajaxUrl":"\/data\/user\/session"},"system\/external\/facebook":{"cookieId":"ezFb"},"system\/external\/tuneaffiliate":{"conversionExternalId":null,"conversionOfferId":null,"affiliateInfo":null},"socialproof":{"isSocialNotificationEnabled":false}},"paths":{"apps":"applications","comp":"components","libs":"libraries","ez":"libraries\/ez","system":"libraries\/system","text":"libraries\/text","promoTpl":"\/templates\/applications\/promoVideos","jquery":["\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.0.0\/jquery.min","libraries\/jquery"],"jquery-ui":["\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.0\/jquery-ui.min"],"backbone":"libraries\/backbone","underscore":"libraries\/underscore","handlebars":"libraries\/handlebars","hammerjs":"libraries\/jquery\/hammer","tweenmax":"libraries\/greensock\/TweenMax.min","snapsvg":"libraries\/snap.svg","webfont":"libraries\/webfont","google-ima3":"\/\/s0.2mdn.net\/instream\/html5\/ima3"},"baseUrl":"https:\/\/ak01-promo-cdn.slidely.com\/1553696711\/scripts-minified","waitSeconds":60};
+var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"system":["backbone","handlebars","jquery-ui"],"backbone":["underscore","jquery"],"tweenmax":{"exports":"TweenMax"},"google-ima3":{"exports":"google.ima"}},"config":{"ez\/language":{"EMPTY":"EMPTY"},"thankYouV2":false,"apps\/promoVideos\/dashboard":{"isPublishPageMode":false},"apps\/promoVideos\/pricing":{"pricingWidgetMode":"default","overChargePopupMode":"new_style_annual","flatTogglePricingMode":"no","isTransparentPricingEnabled":true,"checkoutCta":"Purchase Now","isNewPricingPageDesignV3":true,"isNewPlansV3":true,"faqsList":[{"title":"What payment services do you support?","text":"We accept all major credit cards."},{"title":"Is this a secure site for purchases?","text":"Absolutely! We work with <a href=\"https:\/\/stripe.com\/\" target=\"_blank\">Stripe<\/a> which guarantees your safety and security. All site communication and data transfer are secured and encrypted."},{"title":"Can I upgrade my plan?","text":"Yes, you can. You can upgrade your plan at any time. If you have pending unused videos they will be calculated into your new subscription plan."},{"title":"How does the billing cycle work?","text":"When you subscribe to any of our monthly plans, you will be billed monthly and your plan renews each month based on your initial subscription date. This is considered your monthly billing cycle. Our Annual Plans have one-year billing cycles and are billed as one payment per year."},{"title":"Can I downgrade my plan?","text":"You can downgrade your monthly subscription plan at any time from within the Billing section of the website. The downgrade will take effect during the next billing cycle and all unused video credits will rollover to your downgraded plan. All annual downgrades will take effect on the following one-year billing cycle."},{"title":"Can I cancel my subscription?","text":"Monthly subscriptions are billed month to month. No contract. No obligation. You can cancel your monthly subscription at any time.<br\/><br\/>Annual Plans come with an awesome discount and run on a one-year billing cycle with cancellation available for the following year.<br\/><br\/>We hope you'll fall in love with Promo.com and never want to leave (-:"},{"title":"Can I update my card details?","text":"Yes. Go to the billing section of your account and update your payment information."},{"title":"I want only one video, do I have to sign up for a plan?","text":"We hear you. Unfortunately, we don't offer single video options because we know that to truly make an impact on your business you need to be consistent with your video marketing efforts and we want to see you succeed."}],"isLightBg":true,"isHolidaySaleBtnEnabled":true,"holidayOfferPageUrl":"\/holiday-offer","isSpecialOfferBtnEnabled":false,"isShowTrustpilot":false,"pricingTest120":true},"system":{"typeKit":"","language":"en","locale":"en_US","cdnHost":"ak01-promo-cdn.slidely.com","isReferralPopupEnabled":true,"revision":1574848683,"connected":false,"analytics":{"google":{"accountId":"UA-17257037-18","pageName":false},"mixpanel":{"accountId":"e7d2894fb113ce2e99d62bcfd0f0a3f0"}},"session":{"connected":false,"error":{"message":"user not logged in","code":"loginError"},"sessionId":"8klf7268aikiq46nhcgmf41ep0"},"facebook":{"applicationId":"255083304564274","applicationNamespace":"slidely","defaultPermissions":"email,user_photos","tagApiPixelId":"712371922135655","channelUrl":"https:\/\/promo.com\/fc.php"},"isOnboardScriptEnabled":false,"featureFlags":{},"userPreferences":{},"adroll":{"adrollAdvId":"6FTQJCG37NG4XKDBFGHYSS","adrollPixId":"QZZSSZCSSJC3LGMSLLGVXZ"},"upgradeErrorUrl":"https:\/\/promo.com\/error\/type\/upgrade","earlyAccessFlag":false},"system\/reports":{"defaults":{"userStatus":"visitor","pagePlatform":"desktop","pageType":"policy","isPromoCom":true,"lang":"en","source":"organicdirect","campaign":null,"camp_id":null,"clickedOn":"footer","utm_medium":null,"utm_term":null,"term_id":null,"utm_creative":null,"creative_id":null,"extension_id":null,"fb_conversion_pixel":null,"asset":null,"kw":null,"tid":0},"reportUrl":"\/reports\/%s\/%s","log":true,"callbackTimeout":1000,"mixpanelProxyEnabled":false,"gaReportingDisableKeys":["ga-disable-UA-17257037-18","ga-disable-AW-854643498","ga-disable-AW-854658101"]},"system\/session":{"ajaxUrl":"\/data\/user\/session"},"system\/external\/facebook":{"cookieId":"ezFb"},"system\/external\/tuneaffiliate":{"conversionExternalId":null,"conversionOfferId":null,"affiliateInfo":null},"socialproof":{"isSocialNotificationEnabled":false},"baseUrl":"https:\/\/promo.com","apps\/promoVideos\/share":{"showShareOptionsControlGroup":false,"showShareOptionsV1":true,"showShareOptionsV2":false,"isShareOptions":true,"isMobile":false,"facebookAppId":"255083304564274","shareDialogTitle":"Share a Link","isFreePlanControllGroup":false,"isFreePlanTest1Group":false,"isFreePlanTest2Group":false,"isFreePlanTest3Group":false}},"paths":{"apps":"applications","comp":"components","libs":"libraries","ez":"libraries\/ez","system":"libraries\/system","text":"libraries\/text","promoTpl":"\/templates\/applications\/promoVideos","jquery":["\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/2.0.0\/jquery.min","libraries\/jquery"],"jquery-ui":["\/\/ajax.googleapis.com\/ajax\/libs\/jqueryui\/1.12.0\/jquery-ui.min"],"backbone":"libraries\/backbone","underscore":"libraries\/underscore","handlebars":"libraries\/handlebars","hammerjs":"libraries\/jquery\/hammer","tweenmax":"libraries\/greensock\/TweenMax.min","snapsvg":"libraries\/snap.svg","google-ima3":"\/\/s0.2mdn.net\/instream\/html5\/ima3"},"baseUrl":"https:\/\/ak01-promo-cdn.slidely.com\/1574848683\/scripts-minified","waitSeconds":60};
     //]]>
 </script>
 </head>
@@ -169,7 +266,7 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
         
         if (typeof JSON === 'object') {
             var ezSession = getCookie('ezSession');
-            ns.ezSession = ezSession ? JSON.parse(ezSession) : ({"connected":false,"error":{"message":"user not logged in","code":"loginError"}} || {});
+            ns.ezSession = ezSession ? JSON.parse(ezSession) : ({"connected":false,"error":{"message":"user not logged in","code":"loginError"},"sessionId":"8klf7268aikiq46nhcgmf41ep0"} || {});
         }
     })(window);
     (function(){
@@ -196,62 +293,65 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
 </script>
 
 
-<script src="https://promo.com/sdk.js?ver=1553696711"></script>
+<script src="https://promo.com/sdk.js?ver=1574848683"></script>
 <header class=" header show">
     <aside class="logo">
         <div alt="promo logo" class="promo-logo special-white-logo"></div>
     </aside>
-    <div class="links links--left">
-        <span class="links__item links__item--dropdown   ">
+    <div class="links links--left ">
+        <span class="links__item links__item--what-you-can-do links__item--dropdown ">
             <span class="links__item--dropdown__btn">What you can do</span>
             <div class="links__item--dropdown__area">
                  <div class="container">
                      <div class="container__item">
                          <div class="title">Create</div>
                          <ul class="panel">
-                             <li><a href="/for/facebook-ads?utm_content=header" target="_blank">Facebook Ads</a></li>
-                             <li><a href="/for/instagram-posts?utm_content=header" target="_blank">Instagram Posts</a></li>
+                             <li><a href="/templates/promo-videos?utm_content=header" target="_blank">Promo Videos</a></li>
+                             <li><a href="/templates/facebook-ads?utm_content=header" target="_blank">Facebook Ads</a></li>
+                             <li><a href="/templates/instagram-ads?utm_content=header" target="_blank">Instagram Ads</a></li>
                              <!-- <li><a href="/for/instagram-stories?utm_content=header" target="_blank">Instagram Stories</a></li> -->
-                             <!-- <li><a href="/for/youtube-ads?utm_content=header" target="_blank">YouTube Ads</a></li> -->
-                             <li><a href="/for/linkedin-ads?utm_content=header" target="_blank">LinkedIn Ads</a></li>
+                             <li><a href="/templates/youtube-ads?utm_content=header" target="_blank">YouTube Ads</a></li>
+                             <li><a href="/templates/linkedin?utm_content=header" target="_blank">LinkedIn Ads</a></li>
                          </ul>
                      </div>
                     <div class="container__item">
                          <div class="title">Industry</div>
                          <ul class="panel">
-                             <li><a href="/for/businesses" target="_blank">Businesses</a></li>
-                             <li><a href="/for/real-estate" target="_blank">Real Estate</a></li>
-                             <li><a href="/for/marketing" target="_blank">Marketing</a></li>
-                             <li><a href="/for/travel" target="_blank">Travel</a></li>
-                             <li><a href="/for/ecommerce" target="_blank">E-commerce</a></li>
-                             <li><a href="/for/gaming" target="_blank">Gaming</a></li>
+                             <li><a href="/templates/business?utm_content=header" target="_blank">Businesses</a></li>
+                             <li><a href="/templates/real-estate?utm_content=header" target="_blank">Real Estate</a></li>
+                             <li><a href="/templates/marketing-videos?utm_content=header" target="_blank">Marketing</a></li>
+                             <li><a href="/templates/travel?utm_content=header" target="_blank">Travel</a></li>
+                             <li><a href="/templates/ecommerce-online-stores?utm_content=header" target="_blank">E-commerce</a></li>
+                             <li><a href="/templates/recruiting-hr?utm_content=header" target="_blank">Recruiting &amp; HR</a></li>
                          </ul>
                      </div>
                      <div class="container__item">
                          <div class="title">Special Dates</div>
                          <ul class="panel">
-                             <li><a href="/for/spring" target="_blank">Spring</a></li>
-                             <li><a href="/for/st-patricks-day" target="_blank">St. Patrick’s Day</a></li>
-                             <li><a href="/for/valentines-day" target="_blank">Valentine’s Day</a></li>
-                             <li><a href="/for/game-day" target="_blank">Game Day</a></li>
-                             <!-- <li><a href="/for/lunar-new-year" target="_blank">Lunar New Year</a></li> -->
-                             <!-- <li><a href="/for/award-season" target="_blank">Award Season</a></li> -->
+                             <li><a href="/templates/black-friday-cyber-monday?utm_content=header" target="_blank">Black Friday &amp; Cyber Monday</a></li>
+                             <li><a href="/templates/thanksgiving?utm_content=header" target="_blank">Thanksgiving</a></li>
+                             <li><a href="/templates/christmas?utm_content=header" target="_blank">Christmas</a></li>
+                             <li><a href="/templates/new-years?utm_content=header" target="_blank">New Years Eve</a></li>
+                             <li><a href="/templates/holidays?utm_content=header" target="_blank">Holidays</a></li>
                          </ul>
                      </div>
                      <div class="container__item">
                          <div class="title">Tools</div>
                          <ul class="panel">
-                             <li><a href="/create">Video Maker</a></li>
+                             <li><a href="/create?utm_content=header">Video Maker</a></li>
                              <!-- <li><a href="/tools/collage-maker?utm_content=header" target="_blank">Collage Maker</a></li> -->
                              <li><a href="/tools/image-resizer/?utm_content=header" target="_blank">Image Resizer</a></li>
-                             <li><a href="https://promo.com/tools/calendar/march?utm_content=header" data-link-location="header" target="_blank" class="calendar">Calendar</a></li>
-                             <li><a href="/tools/facebook-video-covers/?utm_content=header" target="_blank">Facebook Covers</a></li>
+                             <li><a href="https://promo.com/tools/calendar/november?utm_content=header" data-link-location="header" target="_blank" class="calendar">Calendar</a></li>
+                             <li><a href="/tools/facebook-video-covers/?utm_content=header" target="_blank">Facebook Video Covers</a></li>
                          </ul>
                      </div>
                 </div>
             </div>
         </span>
         <span class="links__item">
+            <a href="/templates?utm_content=header" class="templates ">Templates</a>
+        </span>
+        <span class="links__item links__about-wrap">
             <a href="/about?utm_content=header" class="about ">About</a>
         </span>
         <span class="links__item">
@@ -261,10 +361,10 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
             <a href="/faq?utm_content=header" class="support">FAQ</a>
         </span>
         <span class="links__item">
-            <a target="_blank" class="calendar" data-link-location="header" href="https://promo.com/tools/calendar/march?utm_content=header">Calendar</a>
+            <a target="_blank" class="calendar" data-link-location="header" href="https://promo.com/tools/calendar/november?utm_content=header">Calendar</a>
         </span>
         <span class="links__item">
-            <a class="blog" data-link-location="header" href="https://promo.com/blog?utm_content=header" target="_blank">Blog</a>
+            <a class="blog" data-link-location="header" href="https://promo.com/blog/?utm_content=header" target="_blank">Blog</a>
         </span>
     </div>
     <div class="links links--right">
@@ -278,8 +378,13 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
                 <a href="https://promo.com/create?utm_content=header">New Project</a>
             </span>
                         <span class="links__item" href="javascript:;" id="switch_to_annual_button"></span>
-            <span class="links__item">
-                <a href="/dashboard?utm_content=header" class="remove-small-screen projects">My Projects</a>
+
+            <span class="links__item has-shortcuts links__item--dropdown">
+                <a href="/dashboard?utm_content=header_my-videos" class="links__item--dropdown__btn remove-small-screen projects">My Videos</a>
+                <div class="links__shortcuts">
+                    <a class="links__shortcuts-item" data-nav="drafts" href="/dashboard?utm_content=header_drafts#drafts">Drafts</a>
+                    <a class="links__shortcuts-item" data-nav="published" href="/dashboard?utm_content=header_published#published">Published</a>
+                                   </div>
             </span>
 
             <span class="user links__item">
@@ -299,7 +404,8 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
                         <div class="billing" onclick="window.location='/billing?utm_content=header'">Billing</div>
                         <div id="account-menu"></div>
                         <div class="profile-logout" onclick="slidelySdk.logout( logout );">Sign out</div>
-                    </div>
+                                                            <div id="profile-wrapper__invite">Invite Friends</div>
+                                                </div>
                 </div>
             </span>
         </span>
@@ -323,6 +429,9 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
                         <div class="sidebar__link open-secondary" data-open="secondary-1">What Can I Do</div>
                     </li>
                     <li>
+                        <a href="/templates?utm_content=header" class="sidebar__link">Templates</a>
+                    </li>
+                    <li>
                         <div class="sidebar__link open-secondary" data-open="secondary-2">Company</div>
                     </li>
                     <li>
@@ -342,43 +451,43 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
                     <li class="sidebar__item">
                         <div class="sidebar__link title accordion__item">Create</div>
                         <ul class="panel">
-                            <li><a href="/for/facebook-ads?utm_content=header" target="_blank">Facebook Ads</a></li>
-                            <li><a href="/for/instagram-posts?utm_content=header" target="_blank">Instagram Posts</a></li>
+                            <li><a href="/templates/promo-videos?utm_content=header" target="_blank">Promo Videos</a></li>
+                            <li><a href="/templates/facebook-ads?utm_content=header" target="_blank">Facebook Ads</a></li>
+                            <li><a href="/templates/instagram-ads?utm_content=header" target="_blank">Instagram Ads</a></li>
                             <!-- <li><a href="/for/instagram-stories?utm_content=header" target="_blank">Instagram Stories</a></li> -->
-                            <!-- <li><a href="/for/youtube-ads?utm_content=header" target="_blank">YouTube Ads</a></li> -->
-                            <li><a href="/for/linkedin-ads?utm_content=header" target="_blank">LinkedIn Ads</a></li>
+                            <li><a href="/templates/youtube-ads?utm_content=header" target="_blank">YouTube Ads</a></li>
+                            <li><a href="/templates/linkedin?utm_content=header" target="_blank">LinkedIn Ads</a></li>
                         </ul>
                     </li>
                     <li class="sidebar__item">
                         <div class="sidebar__link title accordion__item">Industry</div>
                         <ul class="panel">
-                            <li><a href="/for/businesses" target="_blank">Businesses</a></li>
-                            <li><a href="/for/real-estate" target="_blank">Real Estate</a></li>
-                            <li><a href="/for/marketing" target="_blank">Marketing</a></li>
-                            <li><a href="/for/travel" target="_blank">Travel</a></li>
-                            <li><a href="/for/ecommerce" target="_blank">E-commerce</a></li>
-                            <li><a href="/for/gaming" target="_blank">Gaming</a></li>
+                            <li><a href="/templates/business?utm_content=header" target="_blank">Businesses</a></li>
+                            <li><a href="/templates/real-estate?utm_content=header" target="_blank">Real Estate</a></li>
+                            <li><a href="/templates/marketing-videos?utm_content=header" target="_blank">Marketing</a></li>
+                            <li><a href="/templates/travel?utm_content=header" target="_blank">Travel</a></li>
+                            <li><a href="/templates/ecommerce-online-stores?utm_content=header" target="_blank">E-commerce</a></li>
+                            <li><a href="/templates/recruiting-hr?utm_content=header" target="_blank">Recruiting &amp; HR</a></li>
                         </ul>
                     </li>
                     <li class="sidebar__item">
                         <div class="sidebar__link title accordion__item">Special Dates</div>
                         <ul class="panel">
-                            <li><a href="/for/spring" target="_blank">Spring</a></li>
-                            <li><a href="/for/st-patricks-day" target="_blank">St. Patrick’s Day</a></li>
-                            <li><a href="/for/valentines-day" target="_blank">Valentine’s Day</a></li>
-                            <li><a href="/for/game-day" target="_blank">Game Day</a></li>
-                            <!-- <li><a href="/for/lunar-new-year" target="_blank">Lunar New Year</a></li> -->
-                            <!-- <li><a href="/for/award-season" target="_blank">Award Season</a></li> -->
+                            <li><a href="/templates/black-friday-cyber-monday?utm_content=header" target="_blank">Black Friday &amp; Cyber Monday</a></li>
+                            <li><a href="/templates/thanksgiving?utm_content=header" target="_blank">Thanksgiving</a></li>
+                            <li><a href="/templates/christmas?utm_content=header" target="_blank">Christmas</a></li>
+                            <li><a href="/templates/new-years?utm_content=header" target="_blank">New Years Eve</a></li>
+                            <li><a href="/templates/holidays?utm_content=header" target="_blank">Holidays</a></li>
                         </ul>
                     </li>
                     <li class="sidebar__item">
                         <div class="sidebar__link title accordion__item">Tools</div>
                         <ul class="panel">
-                            <li><a href="/create">Video Maker</a></li>
+                            <li><a href="/create?utm_content=header">Video Maker</a></li>
                             <!-- <li><a href="/tools/collage-maker?utm_content=header" target="_blank">Collage Maker</a></li> -->
                             <li><a href="/tools/image-resizer/?utm_content=header" target="_blank">Image Resizer</a></li>
-                            <li><a href="https://promo.com/tools/calendar/march?utm_content=header" class="calendar" data-link-location="header" target="_blank">Calendar</a></li>
-                            <li><a href="/tools/facebook-video-covers/?utm_content=header" target="_blank">Facebook Covers</a></li>
+                            <li><a href="https://promo.com/tools/calendar/november?utm_content=header" class="calendar" data-link-location="header" target="_blank">Calendar</a></li>
+                            <li><a href="/tools/facebook-video-covers/?utm_content=header" target="_blank">Facebook Video Covers</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -394,13 +503,12 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
                     <li class="sidebar__item">
                         <a class="sidebar__link" href="https://promo.com/careers??utm_content=header" target="_blank">Careers</a>
                     </li>
-                    <li class="sidebar__item"><a class="sidebar__link" href="https://promo.com/blog?utm_content=header" data-linkname="blog" target="_blank">Blog</a></li>
+                    <li class="sidebar__item"><a class="sidebar__link" href="https://promo.com/blog/?utm_content=header" data-linkname="blog" target="_blank">Blog</a></li>
                     <li class="sidebar__item"><a class="sidebar__link external-link" data-linkname="facebook" href="https://www.facebook.com/promodotcom" target="_blank">Facebook</a></li>
                     <li class="sidebar__item"><a class="sidebar__link external-link" data-linkname="instagram" href="https://www.instagram.com/promodotcom" target="_blank">Instagram</a></li>
                     <li class="sidebar__item"><a class="sidebar__link external-link" data-linkname="linkedin" href="https://www.linkedin.com/company/promodotcom" target="_blank">Linkedin</a></li>
                     <li class="sidebar__item"><a class="sidebar__link external-link" data-linkname="twitter" href="https://twitter.com/Promodotcom" target="_blank">Twitter</a></li>
                     <li class="sidebar__item"><a class="sidebar__link external-link" data-linkname="youtube" href="https://www.youtube.com/channel/UC0d_7BlGBgDcf62o766FkPQ/featured" target="_blank">YouTube</a></li>
-                    <li class="sidebar__item"><a class="sidebar__link external-link" data-linkname="vimeo" href="https://vimeo.com/promobyslidely" target="_blank">Vimeo</a></li>
                     <li class="sidebar__item">
                         <a class="sidebar__link" href="https://promo.com/terms-of-service?utm_content=header">Terms of Service</a>
                     </li>
@@ -420,8 +528,8 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
                     <li class="sidebar__item"><a class="sidebar__link" href="/create?utm_content=header">Video Maker</a></li>
                     <!-- <li class="sidebar__item"><a class="sidebar__link" href="/tools/collage-maker?utm_content=header" target="_blank">--><!--</a></li>-->
                     <li class="sidebar__item"><a class="sidebar__link" href="/tools/image-resizer/?utm_content=header" target="_blank">Image Resizer</a></li>
-                    <li class="sidebar__item"><a class="sidebar__link calendar" href="https://promo.com/tools/calendar/march?utm_content=header" data-link-location="header" target="_blank">Calendar</a></li>
-                    <li class="sidebar__item"><a class="sidebar__link" href="/tools/facebook-video-covers/?utm_content=header" target="_blank">Facebook Covers</a></li>
+                    <li class="sidebar__item"><a class="sidebar__link calendar" href="https://promo.com/tools/calendar/november?utm_content=header" data-link-location="header" target="_blank">Calendar</a></li>
+                    <li class="sidebar__item"><a class="sidebar__link" href="/tools/facebook-video-covers/?utm_content=header" target="_blank">Facebook Video Covers</a></li>
                     <li class="sidebar__item"><a class="sidebar__link" href="/pricing?utm_content=header">Pricing</a></li>
                 </ul>
             </div>
@@ -432,7 +540,6 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
                 <ul>
                     <li class="sidebar__item"><a class="sidebar__link" href="/faq?utm_content=header">FAQ</a></li>
                     <li class="sidebar__item"><a class="sidebar__link" href="http://support.promo.com">Knowledge Base</a></li>
-                    <li class="sidebar__item"><a class="sidebar__link" href="/blog/small-business-tips?utm_content=header" target="_blank">SMB Tips</a></li>
                     <li class="sidebar__item"><a class="sidebar__link" href="mailto:support@promo.com">Contact Us</a></li>
                 </ul>
             </div>
@@ -445,8 +552,10 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
                 </ul>
             </div>
         </nav>
-
-
+    </div>
+    <div class="out-of-projects-links">
+        <a class="back-btn desktop" href="/create?utm_content=outOfProjectPage">Back to my account</a>
+        <a class="back-btn mobile" href="/?force-hp=1&amp;utm_content=outOfProjectPage">Back</a>
     </div>
 
 </header>
@@ -455,6 +564,7 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
 <div id="get-more-downloads-popup"></div>
 <div class="pricing-popup-wrap"></div>
 <div id="top-bar-notification"></div>
+<div class="popup-manager-container"></div>
 <script>
     function backToClassicEditor() {
         var xhr = new XMLHttpRequest();
@@ -616,7 +726,7 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
 
             // if this is right after registration and this is not the create or the pricing page - redirect to create
             if ((headerGetCookie('ez_prm_ugr') == '1') &&
-                (!window.location.pathname.match(/^\/pricing|create|promo\-special|\/tools\/collage-maker/g))
+                (!window.location.pathname.match(/^\/pricing|create|lite|shoppingil|fmp||WSI|wsi|holiday\-offer|promo\-special|\/tools\/collage-maker/g))
             ) {
 
                 window.location.href = '/create';
@@ -707,7 +817,7 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
 
             triggerLogin();
         } else {
-            if (~window.location.href.indexOf("/edit") || ~window.location.href.indexOf("/dashboard") || ~window.location.href.indexOf("/settings") || ~window.location.href.indexOf("/billing")) {
+            if (~window.location.href.indexOf("/edit") || ~window.location.href.indexOf("/settings") || ~window.location.href.indexOf("/billing")) {
                 window.location = "/";
             }
             logoutElem.className = logoutElem.className.replace(/ ?show ?/g, "");
@@ -905,55 +1015,74 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
         <div class="footer__item__container">
             <div class="footer__item accordion__item">Product</div>
             <ul class="panel">
-                <li><a href="/create?utm_content=footer">Video Maker</a></li>
+                <li><a href="/for/online-video-maker?utm_content=footer" target="_blank">Online Video Maker</a></li>
                 <!-- <li><a href="/tools/collage-maker?utm_content=footer" target="_blank">Collage Maker</a></li> -->
-                <li><a href="/tools/image-resizer?utm_content=footer" target="_blank">Image Resizer</a></li>
-                <li><a class="calendar" href="https://promo.com/tools/calendar/march?utm_content=footer" data-link-location="footer" target="_blank">Calendar</a></li><a class="calendar" href="https://promo.com/tools/calendar/march?utm_content=footer" data-link-location="footer" target="_blank">
-                </a><li><a class="calendar" href="https://promo.com/tools/calendar/march?utm_content=footer" data-link-location="footer" target="_blank"></a><a href="/tools/facebook-video-covers?utm_content=footer" target="_blank">Facebook Covers</a></li>
-                <li><a href="/pricing?utm_content=footer">Pricing</a></li>
+                <li><a href="/for/video-ad-maker?utm_content=footer" target="_blank">Video Ad Maker</a></li>
+                <li><a class="calendar" href="https://promo.com/tools/calendar/november?utm_content=footer" data-link-location="footer" target="_blank">Social Media Calendar</a></li><a class="calendar" href="https://promo.com/tools/calendar/november?utm_content=footer" data-link-location="footer" target="_blank">
+                </a><li><a class="calendar" href="https://promo.com/tools/calendar/november?utm_content=footer" data-link-location="footer" target="_blank"></a><a href="/tools/image-resizer/?utm_content=footer" target="_blank">Image Resizer</a></li>
+                <li><a href="/tools/facebook-video-covers?utm_content=footer" target="_blank">Facebook Video Covers</a></li>
+                <li><a href="/tools/video-production-cost-estimator?utm_content=footer" target="_blank">Video Production Cost Estimator</a></li>
+                <li><a href="/tools/facebook-ad-budget-calculator?utm_content=footer" target="_blank">Facebook Ad Budget Calculator</a></li>
+                <li><a href="/tools/facebook-ads-troubleshooter?utm_content=footer" target="_blank">Facebook Ads Troubleshooter</a></li>
+                <li><a href="/tools/youtube-money-calculator?utm_content=footer" target="_blank">YouTube Money Calculator</a></li>
+
             </ul>
         </div>
         <div class="footer__item__container">
-            <div class="footer__item accordion__item">Industry</div>
+            <div class="footer__item accordion__item">Use</div>
             <ul class="panel">
-                <li><a href="/for/small-businesses?utm_content=footer" target="_blank">Small Businesses</a></li>
-                <li><a href="/for/real-estate?utm_content=footer" target="_blank">Real Estate</a></li>
-                <li><a href="/for/marketing?utm_content=footer" target="_blank">Marketing</a></li>
-                <li><a href="/for/travel?utm_content=footer" target="_blank">Travel</a></li>
-                <li><a href="/for/ecommerce?utm_content=footer" target="_blank">E-commerce</a></li>
-                <li><a href="/for/gaming?utm_content=footer" target="_blank">Gaming</a></li>
+                <li><a href="/for/promo-videos?utm_content=footer" target="_blank">Promo Video Maker</a></li>
+                <li><a href="/for/facebook/videos?utm_content=footer" target="_blank">Facebook Video Maker</a></li>
+                <li><a href="/for/facebook/ads?utm_content=footer" target="_blank">Facebook Video Ad Creator</a></li>
+                <li><a href="/for/instagram/videos?utm_content=footer" target="_blank">Instagram Video Maker</a></li>
+                <li><a href="/for/instagram/ads?utm_content=footer" target="_blank">Instagram Video Ad Maker</a></li>
+                <li><a href="/for/youtube/videos?utm_content=footer" target="_blank">YouTube Video Maker</a></li>
+                <li><a href="/for/youtube/ads?utm_content=footer" target="_blank">YouTube Ad Maker</a></li>
+                <li><a href="/for/youtube/intros?utm_content=footer" target="_blank">YouTube Intro Maker</a></li>
+                <li><a href="/for/youtube/outros?utm_content=footer" target="_blank">YouTube Outro Maker</a></li>
+                <li><a href="/for/commercials?utm_content=footer" target="_blank">Commercial Maker</a></li>
+                <li><a href="/for/social-media-videos?utm_content=footer" target="_blank">Social Media Video Maker</a></li>
+                <li><a href="/for/ecommerce?utm_content=footer" target="_blank">eCommerce Ads</a></li>
+                <li><a href="/for/facebook/story-ads?utm_content=footer" target="_blank">Facebook Story Ads</a></li>
+                <li><a href="/for/instagram/story-ads?utm_content=footer" target="_blank">Instagram Story Ads</a></li>
+                <li><a href="/for/linkedin/ads?utm_content=footer" target="_blank">LinkedIn Video Ads</a></li>
+                <li><a href="/for/twitter/ads?utm_content=footer" target="_blank">Twitter Video Ads</a></li>
+                <li><a href="/for/amazon/ads?utm_content=footer" target="_blank">Amazon Video Ads</a></li>
             </ul>
         </div>
 
         <div class="footer__item__container">
             <div class="footer__item accordion__item">Company</div>
             <ul class="panel">
+                <li><a href="/pricing?utm_content=footer">Pricing</a></li>
                 <li><a href="/about?utm_content=footer">About</a></li>
-                <li><a href="https://promo.com/careers?utm_content=footer" target="_blank">Careers</a></li>
-                <li><a href="https://promo.com/terms-of-service?utm_content=header">Terms of Service</a></li>
-                <li><a href="https://promo.com/privacy-policy?utm_content=header">Privacy Policy</a></li>
-                <li><a href="https://promo.com/cookies-policy?utm_content=header">Cookies Policy</a></li>
+                <li><a href="https://promo.com/careers/?utm_content=footer" target="_blank">Careers</a></li>
+                <li><a href="/news/?utm_content=footer">News &amp; Media</a></li>
+                <li><a href="https://promo.com/terms-of-service?utm_content=footer">Terms of Service</a></li>
+                <li><a href="https://promo.com/privacy-policy?utm_content=footer">Privacy Policy</a></li>
+                <li><a href="https://promo.com/cookies-policy?utm_content=footer">Cookies Policy</a></li>
+                <li><a href="https://apps.apple.com/us/app/promo-marketing-video-maker/id1304321154" target="_blank">iOS App</a></li>
             </ul>
         </div>
+
         <div class="footer__item__container">
             <div class="footer__item accordion__item">Support</div>
             <ul class="panel">
                 <li><a href="/faq?utm_content=footer">FAQ</a></li>
                 <li><a href="http://support.promo.com/">Knowledge Base</a></li>
-                <li><a href="https://promo.com/blog/small-business-tips/?utm_content=footer" target="_blank">SMB Tips</a></li>
                 <li><a href="mailto:support@promo.com">Contact Us</a></li>
+                <li><a href="https://promo.com/blog/?utm_content=footer" data-linkname="blog" data-where="footer" target="_blank">Blog</a></li>
             </ul>
         </div>
+
         <div class="footer__item__container last-container">
             <div class="footer__item accordion__item">Follow</div>
             <ul class="panel">
-                <li><a href="https://promo.com/blog?utm_content=footer" data-linkname="blog" data-where="footer" target="_blank">Blog</a></li>
                 <li><a class="external-link" data-linkname="facebook" data-where="footer" href="https://www.facebook.com/promodotcom" target="_blank">Facebook</a></li>
                 <li><a class="external-link" data-linkname="instagram" data-where="footer" href="https://www.instagram.com/promodotcom" target="_blank">Instagram</a></li>
+                <li><a class="external-link" data-linkname="youtube" data-where="footer" href="https://www.youtube.com/channel/UC0d_7BlGBgDcf62o766FkPQ/featured" target="_blank">YouTube</a></li>
                 <li><a class="external-link" data-linkname="linkedin" data-where="footer" href="https://www.linkedin.com/company/promodotcom" target="_blank">LinkedIn</a></li>
                 <li><a class="external-link" data-linkname="twitter" data-where="footer" href="https://twitter.com/Promodotcom" target="_blank">Twitter</a></li>
-                <li><a class="external-link" data-linkname="youtube" data-where="footer" href="https://www.youtube.com/channel/UC0d_7BlGBgDcf62o766FkPQ/featured" target="_blank">YouTube</a></li>
-                <li><a class="external-link" data-linkname="vimeo" data-where="footer" href="https://vimeo.com/promobyslidely" target="_blank">Vimeo</a></li>
             </ul>
         </div>
 
@@ -967,7 +1096,7 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
             Promo.com is the #1 video creation platform for businesses and agencies. We help our users create loads of visual content and unlimited videos to promote anything they want effectively.
         </p>
         <div class="fmp-badges">
-            <a class="fmp-badge-fb external-link" data-linkname="facebook partner" data-where="footer" target="_blank" href="https://www.facebook.com/business/solutions-explorer/creative_platform/506062503095739?utm_content=footer">
+            <a class="fmp-badge-fb external-link" data-linkname="facebook partner" data-where="footer" target="_blank" href="https://www.facebook.com/business/partner-directory/details?id=506062503095739&amp;utm_content=footer">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
 <svg width="151px" height="63px" viewBox="0 0 151 63" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
@@ -1007,7 +1136,7 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
     </g>
 </svg>
             </a>
-            <a class="fmp-badge-instagram external-link" data-linkname="instagram partner" data-where="footer" target="_blank" href="https://www.instagram.com/promodotcom/?utm_content=footer">
+            <a class="fmp-badge-instagram external-link" data-linkname="instagram partner" data-where="footer" target="_blank" href="https://www.facebook.com/business/partner-directory/details?id=506062503095739&amp;?utm_content=footer">
                 <!--?xml version="1.0" encoding="UTF-8"?-->
 <svg width="46px" height="61px" viewBox="0 0 46 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
@@ -1045,9 +1174,11 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
     <div id="pricing-popup-root" class="pricing-v3"></div>
     <div id="overcharge-root"></div>
     <div id="published-root"></div>
+    <div id="download-confirmation-root"></div>
+    <div id="loader-root"></div>
+    <div id="what-is-promo-root"></div>
 </div>
 <div id="fb-root"></div>
-
 
 
 <script id="triggered-ad-leave-intent-try-template" type="text/x-handlebars-template">
@@ -1236,32 +1367,28 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
     </div>
 </script>
 
-<script type="text/javascript" src="https://ak02-promo-cdn.slidely.com/1553696711/dist/babelPolyfill.bundle.js"></script>
-<script type="text/javascript" src="https://ak01-promo-cdn.slidely.com/1553696711/dist/vendors-seo-chunk.js"></script>
-<script type="text/javascript" src="https://ak03-promo-cdn.slidely.com/1553696711/dist/promo-common-seo-chunk.js"></script>
-<script type="text/javascript" src="https://ak04-promo-cdn.slidely.com/1553696711/dist/layout.seo.bundle.js"></script>
+<script type="text/javascript" src="https://ak03-promo-cdn.slidely.com/1574848683/dist/babelPolyfill.bundle.js"></script>
+<script type="text/javascript" src="https://ak02-promo-cdn.slidely.com/1574848683/dist/vendors-seo-chunk.js"></script>
+<script type="text/javascript" src="https://ak02-promo-cdn.slidely.com/1574848683/dist/promo-common-seo-chunk.js"></script>
+<script type="text/javascript" src="https://ak03-promo-cdn.slidely.com/1574848683/dist/layout.seo.bundle.js"></script>
 
 
 
 <!-- linked in pixel -->
 <script type="text/javascript">
-    _linkedin_data_partner_id = "102514";
+    _linkedin_partner_id = "650500";
+    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
 </script>
-
 <script type="text/javascript">
-    if (!window.isReportingDisabledByGdpr) {
-        (function () {
-            var s = document.getElementsByTagName("script")[0];
-            var b = document.createElement("script");
-            b.type = "text/javascript";
-            b.async = true;
-            b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
-            s.parentNode.insertBefore(b, s);
-        })();
-    }
+    (function(){var s = document.getElementsByTagName("script")[0];
+    var b = document.createElement("script");
+    b.type = "text/javascript";b.async = true;
+    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+    s.parentNode.insertBefore(b, s);})();
 </script>
     <noscript>
-        <img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=102514&fmt=gif" />
+        <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=650500&fmt=gif" />
     </noscript>
 <!-- end linked in pixel -->
 <!-- bing pixel -->
@@ -1281,9 +1408,6 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
 
     if (!window.isReportingDisabledByGdpr) {
         // Insert Twitter Pixel ID and Standard Event data below
-        twq('init', 'nvpxr');
-        twq('track', 'PageView');
-
         // new account:
         twq('init', 'o17cu');
         twq('track', 'PageView');
@@ -1292,24 +1416,24 @@ var require = {"deps":["ez","system"],"shim":{"ez":["backbone","handlebars"],"sy
 </script>
 <!-- End Twitter universal website tag code -->
 <!-- Taboola Pixel Code -->
-<script type="text/javascript">
-    window._tfa = window._tfa || [];
-    if (!window.isReportingDisabledByGdpr) {
-        window._tfa.push({notify: 'event', name: 'page_view', id: 1169464});
-    }
-    !function (t, f, a, x) {
-        if (!document.getElementById(x)) {
-            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);
-        }
-    }(document.createElement('script'),
-        document.getElementsByTagName('script')[0],
-        '//cdn.taboola.com/libtrc/unip/1169464/tfa.js',
-        'tb_tfa_script');
-</script>
-    <noscript>
-        <img src='//trc.taboola.com/1169464/log/3/unip?en=page_view'
-             width='0' height='0' style='display:none'/>
-    </noscript>
+<!--<script type='text/javascript'>-->
+<!--    window._tfa = window._tfa || [];-->
+<!--    if (!window.isReportingDisabledByGdpr) {-->
+<!--        window._tfa.push({notify: 'event', name: 'page_view', id: 1169464});-->
+<!--    }-->
+<!--    !function (t, f, a, x) {-->
+<!--        if (!document.getElementById(x)) {-->
+<!--            t.async = 1;t.src = a;t.id=x;f.parentNode.insertBefore(t, f);-->
+<!--        }-->
+<!--    }(document.createElement('script'),-->
+<!--        document.getElementsByTagName('script')[0],-->
+<!--        '//cdn.taboola.com/libtrc/unip/1169464/tfa.js',-->
+<!--        'tb_tfa_script');-->
+<!--</script>-->
+<!--    <noscript>-->
+<!--        <img src='//trc.taboola.com/1169464/log/3/unip?en=page_view'-->
+<!--             width='0' height='0' style='display:none'/>-->
+<!--    </noscript>-->
 <!-- End of Taboola Pixel Code -->
 
 
