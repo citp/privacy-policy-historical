@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loblaw.ca privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619073509id_/http%3A//www.loblaw.ca/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loblaw.ca privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130051621id_/http%3A//www.loblaw.ca/en/privacy.html) for the most accurate reproduction.*
 
 # Loblaw Companies Limited - Loblaw Privacy Policy
 
