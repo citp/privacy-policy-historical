@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islington.gov.uk privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601090457id_/https%3A//www.islington.gov.uk/about-the-council/information-governance/data-protection/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islington.gov.uk privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130221725id_/https%3A//www.islington.gov.uk/about-the-council/information-governance/data-protection/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | Islington Council
 
@@ -10,15 +10,17 @@ Further information relating to specific departments can be found by clicking on
 
   * [Adults](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/adult-social-care-privacy-notice)
   * [Chief Executive](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/chief-executives-department-privacy-notice)
-  * [Children’s](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/children-employment-and-skills-privacy-notice)
+  * [Children’s](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/peoples-directorate-privacy-notice)
   * [Environment and Regeneration](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/environment-and-regeneration-department-privacy-notice)
   * [Finance and Resources](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/financial-operations-and-customer-services-privacy-notice)
-  * [Housing](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/housing-department-privacy-notice)
+  * [Housing](https://www.islington.gov.uk/about-the-council/information-governance/data-protection/privacy-notice/housing-department-privacy-notice "Housing department privacy notice")
   * [National Fraud Initiative (NFI)](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/national-fraud-initiative)
   * [Public health](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/privacy-and-fair-processing-notice-for-public-health-services)
   * [Registrars](https://web.archive.org/birth-death-marriage-and-citizenship)
   * [Strategy and Change](https://web.archive.org/about-the-council/information-governance/data-protection/privacy-notice/strategy-and-change-department-privacy-notice)
   * [Sign Language Interpreting Service](https://www.islington.gov.uk/about-the-council/information-governance/data-protection/privacy-notice/sign-language-interpreting-service-privacy-notice)
+  * [Troubled Families Evaluation](https://www.islington.gov.uk/about-the-council/information-governance/data-protection/privacy-notice/troubled-families-privacy-notice)
+  * [Youth offending service](https://www.islington.gov.uk/about-the-council/information-governance/data-protection/privacy-notice/islington-youth-offending-service-privacy-notice "Youth offending service")
 
 
 
