@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanuk.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417052325id_/https%3A//www.sanuk.com/on/demandware.store/Sites-SANUK-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanuk.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130165613id_/https%3A//www.sanuk.com/on/demandware.store/Sites-SANUK-US-Site/default/BrandTermManagement-PrivacyPolicy) for the most accurate reproduction.*
 
 # Sanuk® Official Site | Privacy Policy
 
@@ -7,9 +7,9 @@
 
 
 
-Effective Date: May 2018
+Effective Date: November 2019
 
-We are part of the Deckers Outdoor Corporation family, which includes the following brands: ugg®, koolaburra ® By ugg®, Teva® (including Ahnu by Teva®), Sanuk®, and Hoka one one® (for purposes of this policy, all of our entities and brands are referred to as "Deckers"). 
+We are part of the Deckers Outdoor Corporation family, which includes the following brands: ugg®, koolaburra ® By ugg®, Teva®, Sanuk®, Hoka one one® and Deckers Lab® (for purposes of this policy, all of our entities and brands are referred to as "Deckers"). 
 
 Deckers values your privacy. In this Privacy Policy ("Policy"), we describe how we collect, use, and disclose information that we obtain about visitors to this website, as well as our other websites (collectively, the "Site") and the services available through our Site (collectively, the "Services"). Some features and functionalities (e.g. the ability to make purchases) are not available on all of our websites; please contact us if you have any questions.
 
@@ -21,6 +21,7 @@ By visiting the Site, or using any of our Services, you agree that your personal
   * What about Children on our Sites?
   * How Do We Use Your Information?
   * Do We Share the Information We Collect About You?
+  * California Residents.
   * How Do We Use Cookies and Other Tracking Mechanisms?
   * How Do We Use Third Party Analytics?
   * What About Third Party Advertisers?
@@ -31,8 +32,8 @@ By visiting the Site, or using any of our Services, you agree that your personal
   * What Choices Do I Have Regarding Use of My Personal Information?
   * Will You Transfer My Information Outside of My Home Country?
   * Special Note for EU Users.
-  * How Do I Get in Touch with You?
   * How Long Does Deckers Retain my Information
+  * How Do I Get in Touch with You?
   * What Happens if the Privacy Policy Changes?
 
 
@@ -71,7 +72,7 @@ We use the information, including personal information, alone or in combination 
 Based on your voluntary consent:
 
   * To tailor the content and information that we may send or display to you, to offer location customization, and personalized help and instructions, and to otherwise personalize your experiences while using the Site or our Services.
-  * Where permitted, for marketing and promotional purposes. For example, in accordance with applicable law and with your consent, we will use your email address to send you news and newsletters, special offers, and promotions, and to contact you about products or information (offered by us or in conjunction with third parties) we think may interest you. We also may use your information to assist us in advertising our Services on third party platforms, including websites and through social media. You have the right to withdraw your consent at any time as noted below 
+  * Where permitted, for marketing and promotional purposes. For example, in accordance with applicable law and with your consent, we will use your email address to send you news and newsletters, special offers, and promotions, and to contact you about products or information (offered by us or in conjunction with third parties) we think may interest you. We also may use your information to assist us in advertising our Services on third party platforms, including websites and through social media. You have the right to withdraw your consent at any time as noted below
   * Where permitted, for traditional mail marketing. From time to time, we may use your information for traditional mail marketing purposes. If you do not want to receive mail from us, please log-into your account and change your preferences. If you opt-out of direct mail, we will continue to use your mailing address for transactional and information purposes such as regarding your account, your purchases and your inquiries.
 
 
@@ -98,16 +99,81 @@ We may share the information that we collect about you, with third parties world
 We also may share your information in the following situations:
 
   * Business Transfers. If we are acquired by or merged with another company, if substantially all of our assets are transferred to another company, or as part of a bankruptcy proceeding, we may transfer the information we have collected from you to the other company. You will have the opportunity to opt out of any such transfer if, in our discretion, it will result in the handling of your information in a way that differs materially from this Privacy Policy.
-  * To Protect Us and Others. We release account and other information about you when we believe release is appropriate to comply with the law, a judicial proceeding, court order, or other legal process, such as in response to a subpoena; to enforce or apply our Terms of Use, this Policy, and other agreements; to protect our rights, safety, or property, our users, and others; as evidence in litigation in which we are involved; when appropriate to investigate, prevent, or take action regarding illegal activities, suspected fraud, or situations involving potential threats to the safety of any person. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
   * Aggregate and De-Identified Information. We may share aggregate or de-identified information about users with third parties for marketing, advertising, research or similar purposes.
 
 
 
+Deckers Brands does not sell customer data to third parties.
+
 back to top
+
+## California Residents - Your Privacy Rights
+
+If you are a California resident, the California Consumer Privacy Act ( “CCPA”) gives you additional rights about the collection, processing and sale of your personal information, which are explained below. 
+
+Personal Information Collected
+
+We only collect the following categories of personal information:
+
+  * Identifiers;
+  * Characteristics of protected classifications under California and federal law (i.e. gender);
+  * Geolocation data;
+  * Internet/electronic activity;
+  * Commercial information (i.e. products purchased or viewed on our Site); and
+  * Inferences drawn from the categories described above in order to create a profile about you to reflect your preferences, characteristics, behavior and attitudes.
+
+
+
+The specific pieces of personal information that we collect are set out in the “What Information Do We Collect About You?” Section above. We will not collect additional categories of personal information or use personal information collected for additional purposes without providing you with notice. 
+
+Purposes for Use of your Information
+
+In order to learn about how we use your personal information, see the “ How Do We Use Your Information?” Section above.
+
+Personal Information Disclosed for Business Purposes
+
+We disclose the following categories of personal information for business purposes, for example, with our service providers as discussed above:
+
+  * Identifiers;
+  * Characteristics of protected classifications under California and federal law (i.e. gender);
+  * Geolocation data;
+  * Internet/electronic activity;
+  * Commercial information (i.e. products purchased or viewed on our Site); and
+  * Inferences drawn from the categories described above in order to create a profile about you to reflect your preferences, characteristics, behavior and attitudes.
+
+
+
+For more information, see the “Does Deckers Share the Information It Collects About You?” Section above.
+
+Your Rights
+
+Additionally, you have the following rights under the CCPA. Instructions on how to exercise each right are listed below. You may only exercise each right up to two times in any twelve (12) month period. To exercise more than one right or to submit more than one email address, please submit each request individually. If you submit multiple requests, we cannot guarantee the order in which your requests will be processed: 
+
+  * Right to Know: You have the right to know what categories of personal information we collected in the preceding twelve (12) months, including the categories of sources from which the personal information was collected, the specific pieces of personal information we have collected about you, and the business or commercial purposes for which such personal information was collected and shared. You also have the right to know the categories of personal information which were disclosed for business purposes, and the categories of third parties with whom we shared your personal information in the preceding twelve (12) months. 
+    * To exercise your right to know, you may call 866-998-7826 or email us at [privacy-compliance@deckers.com](mailto:privacy-compliance@deckers.com) and follow these instructions: 
+      * Include “Right to Know Under CCPA” in the subject of the email and
+      * Please include sufficient personal information for us to locate your records and to verify the identity affiliated with your account. At a minimum, you must provide the full name and email address affiliated with your account. We may request additional information to complete the verification process if we are unable to verify your identity initially. Our ability to locate your personal information is limited by the accuracy and the completeness of the information that you provide. 
+  * Right to Access: You have the right to receive the personal information that you gave us. The information that we will provide to you will be masked, meaning that portions of it will be omitted so that it can’t be used fraudulently. For example, your telephone number may display as (123)-XXX-XX567. In order to exercise your right to access, you may call 866-998-7826 or email us at [privacy@deckers.com](mailto:privacy@deckers.com) and follow these instructions: 
+    * Write to us from the email address that is affiliated with your account and include “Right to Access Personal Information Under CCPA” in the subject of the email or written request; and
+    * Please include sufficient personal information for us to locate your records and to verify the identity affiliated with your account. At a minimum, you must provide the full name and email address affiliated with your account. We may request additional information to complete the verification process if we are unable to verify your identity initially. Our ability to locate your personal information is limited by the accuracy and the completeness of the information that you provide. For example, if you use multiple email addresses and you include only one in your request, we may only locate the information associated with the email address that you included in the request. 
+  * Deletion: You can request to have your personal information deleted from our systems and we will ask our service providers to do the same. 
+    * Consequences of Deletion: Please note that if we delete your personal information, many of our Services will not work the same. For example, you will no longer be able to make an unreceipted return, you will lose your loyalty account and points, and you will not have an account (because any prior login information and saved transaction data will be deleted) and so your shopping cart items and save addresses and other information will no longer be available. If you make multiple requests under this section, we recommend sending your deletion request last, as we will not be able to fulfill your other requests once we have deleted your information. 
+    * Exceptions: We may not be able to fulfill your request if we (or our service providers) are required to retain your personal information for one or more of the following reasons: 
+      * Transactional: to complete a transaction for which the personal information was collected, provide a good or service requested by you, or perform a contract we have with you;
+      * Security: to detect data security incidents;
+      * Error Correction: to debug or repair any errors;
+      * Legal: to protect against fraud or illegal activity or to comply with applicable law or a legal obligation, or exercise rights under the law, such as the right to free speech; or
+      * Internal Use: to use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information (i.e. to improve our services).
+    * In order to exercise your right to deletion, call us at 866-998-7826 or email us at [privacy@deckers.com](mailto:privacy@deckers.com) using the email address affiliated with your account and follow these instructions: 
+      * In the subject of you request, please write “Right to Deletion Under CCPA”;
+      * Please include sufficient personal information for us to locate your records and to verify the identity affiliated with your account. At a minimum, you must provide the full name and email address affiliated with your account. We may request additional information to complete the verification process if we are unable to verify your identity initially. Our ability to locate your personal information is limited by the accuracy and the completeness of the information that you provide. For example, if you use multiple email addresses and you include only one in your request, we may only delete the email address that you included in the request. 
+  * Non-Discrimination: We will not discriminate against you for exercising any of your rights under CCPA and we will not deny you good or services, charge you a different price, or provide you with a lesser quality of goods or services if you exercise any of your rights. 
+
+
 
 ## How Do We use Cookies and Other Tracking Mechanisms?
 
-We use cookies and other tracking mechanisms to track information about your use of our Site or Services. Doing so enables us to analyze use of and improve our Site and Services, to enhance your online shopping experience and to offer a more personalized level of service. We may combine this information with other personal information we collect from you. Please click [here](https://web.archive.org/cookies) for additional information about the specific cookies and other tracking tools that we use on our European Union facing websites.   
+We use cookies and other tracking mechanisms to track information about your use of our Site or Services. Doing so enables us to analyze use of and improve our Site and Services, to enhance your online shopping experience and to offer a more personalized level of service. We may combine this information with other personal information we collect from you. Please click [here](https://www.sanuk.com/cookies) for additional information about the specific cookies and other tracking tools that we use on our European Union facing websites.   
 
 
 back to top
@@ -190,6 +256,7 @@ hoka one one | France | serviceclients@hokaoneone.eu
 hoka one one | E.U. | customerservices@hokaoneone.eu  
 hoka one one | japan | customer_service_jp@deckers.com  
 hoka one one | china | hoka.china@deckers.com  
+Deckers Lab | U.S. | support@deckersxlab.com  
   
 As permitted by applicable law, we may retain changed or deleted information for archival purposes. For EU residents, also see the "Special Note for EU Users—Your Rights and Choices" Section below for additional information.
 
@@ -207,7 +274,7 @@ We will collect, use, and process certain information, including name, email add
 
 back to top
 
-## Special Note for EU Users
+## Special Note for EU Users - Your Rights and Choices
 
 The data controller for our EU websites is:
 
