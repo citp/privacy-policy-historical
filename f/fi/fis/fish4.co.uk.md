@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512162614id_/http%3A//www.fish4.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fish4.co.uk privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130154558id_/https%3A//www.fish4.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
-**Last updated: 24/05/18**
+**Last updated: 26/09/19**
 
 This notice outlines the data we collect on the Fish4jobs website and the Fish4jobs app, how we use it, who it is shared with and why, and how long it is kept.
 
@@ -27,7 +27,9 @@ We also collect IP address data; this is a unique number assigned to each indivi
 
 We collect job application data (the roles you’ve browsed and applied for), your marketing preferences, and job alert emails created.
 
-We collect statistical data about all our site visitors, but this data is not personally identifiable, it is aggregated data about how all site visitors interact with our website.
+We collect statistical, aggregated data about all our site visitors to help monitor site performance.
+
+We track the user journey of logged-in site visitors in order to better understand the lifecycle of our audience, and how the features and functions of the site are used in order to improve our services. Data will be retained until you remove your account with us, or request its deletion, at which point that data will be anonymised. 
 
 **Cookies**
 
@@ -70,6 +72,7 @@ We use data for the following purposes:
   * To communicate with you about your job search, update you on the latest vacancies, and send any other necessary information relating to usage of our site (e.g. changes to our privacy policy).
   * To personalise your job search experience on the Fish4jobs website through on-site job recommendations, site banners and through our emails.
   * To send you marketing communications in line with your marketing preference data, including newsletters and job alerts by email.
+  * To understand and improve the user journey on our website. 
 
 
 
@@ -82,6 +85,8 @@ We work with various service providers to ensure that you receive the best possi
 **Google Analytics**
 
 Fish4jobs uses Google Analytics and Lead Feeder tagging to collect data on website activity. If you would like to opt-out of Google Analytics monitoring your behaviour on our sites please use this link (<https://tools.google.com/dlpage/gaoptout/>)
+
+Google Analytics data will be retained until you remove your account with us, or request its deletion, at which point that data will be anonymised.   
 
 **Top CV**
 
@@ -131,7 +136,7 @@ We won’t keep your data for longer than outlined in this privacy policy.
 
 **What you should consider before sharing any personal data with us**
 
-Please do not share any personal data that could be considered sensitive, whether in your personal statement, your CV, or job application cover letter. This includes data such as health, date of birth, passport number, bank details and photographs. Whilst we endeavour to ensure the security of all data we hold, it is your responsibility to provide only data which is appropriate to your job search.
+Please do not share any personal data that could be considered sensitive, whether in your personal statement, your CV, or job application cover letter. This includes data such as health, date of birth, passport number, bank details and photographs. Whilst we endeavour to ensure the security of all data we hold, it is your responsibility to provide only data which is appropriate to your job search. ** ** If you upload data which is considered sensitive, you accept that you do so at your own risk, and that by uploading it you consent to us processing it until you have deleted it.
 
 **Your right to access data we hold about you (Subject Access Request (SAR) / Right to be forgotten)**
 
