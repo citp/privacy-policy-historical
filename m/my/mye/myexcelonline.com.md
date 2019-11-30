@@ -1,103 +1,253 @@
-> *The following text is extracted and transformed from the myexcelonline.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606121229id_/http%3A//myexcelonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myexcelonline.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130090733id_/https%3A//www.myexcelonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - myExcelonline.com, Excel video courses online
+# Privacy Policy | Free Microsoft Excel Tutorials
 
-**Last Updated:** February 2017
+## **Privacy Policy**
 
-My Excel Online SLU
+**Last Updated:** 12th of May 2018 
 
-Calle Errotamendia 12, Vitoria-Gasteiz, Alava, 01010, SPAIN
+We at MY EXCEL ONLINE SLU take the privacy of all visitors to our websites very seriously.  This privacy policy informs you how MY EXCEL ONLINE SLU handles privacy matters and processes your personal data.
 
-### Introduction
+This Privacy Policy covers all MY EXCEL ONLINE SLU websites, products and services and the data that is shared by a visitor with us whether directly via www.myexcelonline.com or via email.  This policy provides an explanation as to what happens to any personal data that you share with us, or that we collect from you either directly via these websites or via email. By using the Sites, you agree to the terms and conditions of this Privacy Statement.
 
-My Excel Online SLU regards customer privacy as an important part of our relationship with our customers. The following privacy policy applies to all My Excel Online SLU users, and conforms to Internet privacy standards.
+MY EXCEL ONLINE SLU is the data controller collecting Information from the sites. We can be contacted at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or Calle Errotamendia 12, Vitoria Gasteiz, Alava 01010, SPAIN
 
-If you have questions or concerns regarding this statement, you should first [contact us](http://myexcelonline.com/contact-support-excel-course-online.php)
+## **Information we collect**
 
-My Excel Online SLU only contacts individuals who specifically requested that we do so or in the event that they have signed up to receive our email communications or have purchased one of our products.
+  
+While using our site, we may ask you to provide us with certain personal data that can be used to contact or identify you (“Personal Data”). Personal Data may include, but is not limited to:
 
-### Collection of Information
+  * Email address
+  * First name and last name
+  * Job title, profession
 
-My Excel Online SLU collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address and credit card information when purchasing our products. All of this information is provided to us by you.
 
-All correspondence may also be collected and stored, particularly in regard to sales, support and accounts, including email.
 
-### Use of Collection Information
+  
+**Information Collected Automatically**
 
-This information is used for internal marketing purposes only. My Excel Online SLU does not sell, exchange, or release your personal information (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes and never will be.
+Like many websites, we and our third-party service providers, such as advertising and analytics providers, use cookies, web beacons and other data technologies to receive and store certain types of information when you interact with us through your computer or mobile device.  Using these technologies helps us recognize you, customize your experience and make relevant marketing messages.  Here are some of the types of information we collect:
 
-Any details collected from My Excel Online SLU customers are required in order to provide you with our products and/or services, and a high level of customer service.
+  * Log & Device data. When you visit our site, we may automatically record information (“log data”), including information that your browser sends whenever you visit our site. This log data may include your web address you came from or are going to, your device model, operating system, browser type, unique device identifier, IP address, mobile network carrier, and time zone or location. 
+  * Our third party service providers may provide us information that tells us how are marketing ads, often placed on third party sites, performed and who clicked on them. This information does not identify any specific individual and is generally non-identifying.  If we were to associate it with you we would treat it as personal data.
 
-All of the newsletters that are sent to you by My Excel Online SLU include an unsubscribe link in them at the bottom of the email. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link. You can also [contact us](http://myexcelonline.com/contact-support-excel-course-online.php) to change your information at any time.
 
-### What are cookies and how do we use them?
 
-**Cookies:** Like many other commercial sites, our Site utilizes standard technologies called "cookies" and clear GIFs to collect information about how our Site is used. A cookie is a small data text file, which a website stores on your computer's hard drive (if your web browser permits) that can later be retrieved to identify you to us. Cookies were designed to help a website recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot be read by a website other than the one that set the cookie. A cookie cannot pass on a computer virus or capture any of the Personally Identifiable information.
+## **Use of cookies and data technologies**
 
-### Storage of Collected Information
+Our sites use “cookies” (a small text file sent by your computer each time you visit our site) or similar data technologies to record log data. Many browsers default to accepting cookies.  You may be able to change this setting in your browser and you can also clear your cookies.  If you do, you may lose some functionality of our site.  Check your browser’s help function to learn more about your cookie setting options.
 
-The security of your personal information is very important to us. When you login to our site you can do so using HTTPS (SSL) encryption on the login page.
+[Click here for our Cookie Policy](https://www.myexcelonline.com/cookie-policy/)
 
-This site does not store any credit card details. Payment processing is carried out by our payment partners, [Paypal](https://www.paypal.com/au/webapps/mpp/merchant-solution) and [Stripe](https://stripe.com/ca).
+We may use the following types of cookies:
 
-If you enter your credit card details to purchase one of our products, you will be entering that information directly to either Paypal or Stripe.
+  * **Analytics:**  These cookies monitor performance of our website counting page views, number of unique visitors and other statistics.  Please see section below describing our use of Analytics cookies
+  * **Strictly Necessary (Essential):**  These cookies help you have easy navigation through our website.  We remember your data so it’s not necessary to confirm consent for cookie use on subsequent site visits.   
+  * **Functionality:**  These are text files that track how our website interacts with you, our users.  These cookies for example can help open a chat window in a browsing session.
+  * **Social Media:**   We use social media cookies to allow for sharing features, commenting, or to use a central log-in
+  * **Advertising** : Please see below for your choices on cookies in the use of advertising.  To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from us if your computer supports such capabilities.  You can opt out of receiving emails from us.  Please see the Your Choices section below.  We might also use a pixel tag which is a small graphic file that allows us and third parties to monitor the use of the site and provide us with information based on your interaction with the site or with our ads across third party sites. These tags may collect the IP address from the device which you loaded the page, the browser type, or other statistical information.  Sometimes this information may include Personal Data. Pixel tags are also used by our third parties to collect information when you visit our site, the links and other actions you take on our site, and we may use this information in combination with cookies to display targeted advertisements.
+  * **Other data technologies** may be used that collect comparable information for security and fraud detection purposes.
 
-Both Paypal and Stripe are PCI DSS compliant which means they have been certified as having the necessary systems to handle and store your sensitive financial information as securely as possible.
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
 
-If you have any questions about security on our Website, please [contact us](http://myexcelonline.com/contact-support-excel-course-online.php)
+If you have any questions about cookies you can go to [www.youronlinechoices.com/uk](http://www.youronlinechoices.com/uk) or to generally find out more about cookies, visit [allaboutcookies.org](http://www.allaboutcookies.org/).
 
-### Access to Collected Information
+## **Use of personal data** ** **
 
-If you would like to update the information on our database you can logon and update your profile in the [Members Area](http://myexcelonline.thinkific.com/users/sign_in), or [contact us](http://myexcelonline.com/contact-support-excel-course-online.php) and we can do it for you.
+We may use your Personal Data as described below. 
 
-### Orders
+**Business Purposes and to Deliver the Products/Services** :
 
-If you purchase a product or service from us, we may request certain personally identifiable information from you. You may be required to provide contact information (such as name and Email address) and financial information (such as credit card number, expiration date and CSV number).
+  * To analyze our product and services, as well as the sites, and to perform audits, security and fraud monitoring and prevention. 
+  * To develop new services, enhance, improve or modify our existing service, identify usage trends, determine the effectiveness of our marketing efforts, and to operate our business.
+  * To provide you with information, products or services that you request from us
+  * For any other purpose with your consent
+  * To fulfill other purposes for which you provide your personal data
 
-We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-### Third Parties
+  * To provide you customer support.
 
-My Excel Online SLU may at its discretion use other third parties to provide essential services on our site or for our business processes. We may share your details as necessary for the third party to provide that service.
 
-These third parties are prohibited from using your personally identifiable information for any other purpose.
+  * To manage our contractual relationship with you and/or because we have a legitimate interest to do so.  If you do not provide the data that we request, or prohibit us from collecting such data, we may not be able to provide the requested Services.  
 
-My Excel Online SLU does not share any information with third parties for any unknown or unrelated uses.
 
-### Legal
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Website.
 
-### Links
+**Marketing and Communications** :
 
-Links on the My Excel Online SLU site to external entities are not covered within this policy. The terms and conditions set out in this privacy statement only cover the domain name of myexcelonline.com
+  * To provide you with information requested from us relating to our products or services and to provide information on other products which we feel may be of interest to you if you have consented to receive such information, which are legitimate business interests.
+  * To notify you about any changes to our sites, such as improvements or service/product changes, that may affect our service.
+  * If you are an existing customer, we may contact you with information about services similar to those already purchased.
+  * If you are a new customer, we will only contact you when you have provided consent and only by those means you provided consent for.
+  * If you do not want us to use your data for ourselves, you will have the opportunity to withhold your consent to this when you provide your details to us on the form on which we collect your data.
+  * We will use Personal Data to communicate with you with your consent, to manage our contractual relationship with you and/or because we have a legitimate interest to do so.
 
-### Changes to Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by Email, or by means of a notice on our homepage.
 
-### My Excel Online SLU Security Policy
+## **Sharing and Disclosure**
 
-My Excel Online SLU uses Paypal and Stripe for its online credit card transactions. Paypal and Stripe processes online credit card transactions for millions of individuals, providing a safe and secure means of collecting payments via the Internet.
+We do not share your personal information with others except as indicated within this policy or when we inform you and give you an opportunity to opt out of having your personal information shared.
 
-• Payments are fully automated with an immediate response.
+We share your information in the following ways.
 
-• Your complete credit card number cannot be viewed by My Excel Online SLU or any outside party.
+**With third party service providers, agents, or contractors:  **
 
-• All transactions are performed using SSL encryption.
+We use other companies, agents or contractors (“Service Providers”) to perform services on our behalf or to assist us with providing services to you. For example, we may engage Service Providers to process credit card transactions or other payment methods. 
 
-### Delivery Policy
+We may engage Service Providers to provide services such as marketing, advertising, communications, infrastructure and IT services, to provide customer service, to collect debts, and to analyze and enhance data (including data about users’ interactions with our service). These Service Providers may have access to your personal or other information in order to provide these functions.
 
-After ordering online, you will receive an email confirmation containing your order details (if you have provided your email address). We will normally confirm receipt of your order within a few minutes of ordering.
+In addition, some of the information we request may be collected by third party providers on our behalf. We do not authorize them to use or disclose your personal information except in connection with providing their services.  
 
-If you wish to query a purchase please [contact us](http://myexcelonline.com/contact-support-excel-course-online.php)
 
-### 30 Day Money Back Guarantee/Refund Policy
+**Analytics:**
 
-At MyExcelOnline.com we want you to know that your purchase is 100% risk free.  If for any reason you decide you want a refund, simply [contact us](http://myexcelonline.com/contact-support-excel-course-online.php) within 30 days of signing up and we will promptly refund 100% of your money, guaranteed.
+Specifically, for analytics providers, we use Google Analytics. Google Analytics which is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
 
-### Cancellation Policy
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity. For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)  Google also recommends installing the Google Analytics Opt-out Browser Add-on – https://tools.google.com/dlpage/gaoptout – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-You can cancel your membership at any time, by [contacting us](http://myexcelonline.com/contact-support-excel-course-online.php) and requesting this.
+**Advertising:**
+
+We may use third-party Service Providers to show advertisements, which may include targeted advertisements on a third-party site after you have visited our website.  We and the third-party service providers use cookies to inform, optimize, measure performance serve ads based on your previous visits to our site.  Any tracking that a third party performs is subject to their own privacy notice.
+
+Please note at this time, we do not recognize automated browser signals regarding tracking mechanisms, which may include “do not track” instructions.
+
+We work with Google AdSense & DoubleClick Cookie Google, as a third-party vendor, uses cookies to serve ads on our site. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet. You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
+
+  * **Google AdWords/Analytics**
+
+
+
+Google AdWords remarketing service is provided by Google Inc.
+
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads
+
+For more information on the privacy practices of Google, please
+
+visit the Google Privacy & Terms web page at [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/)
+
+  * **Facebook** : You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950
+
+
+
+To opt-out from Facebook’s interest-based ads follow these instructions from Facebook: <https://www.facebook.com/help/568137493302217>
+
+To see more about Facebook’s participation in the Digital Advertising Alliance please visit the Choices section of this notice. 
+
+For more information on the privacy practices of Facebook, please visit Facebook’s Data Policy: <https://www.facebook.com/privacy/explanation>
+
+We may participate in Facebook.com’s Custom Audience or LinkedIn’s Audience program which enables us to display personalized ads to persons on our email list when they visit Facebook or LinkedIn respectively. We provide Personal Information such as your email address to the social media provider to enable it to determine if you are a registered account holder. **You may opt-out of participation in this program by contacting us as noted below** **.**   You may also opt out of receiving these ads from the social media network directly.
+
+**Payment Providers:**
+
+We may provide paid products and/or services within the site. When we do, we use third-party services for payment processing (e.g. payment processors).   **We will not store or collect your payment card details.** That information is provided directly to our third-party payment processors whose use of your personal information is governed by their own privacy notice. The payment processors we work with adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and PayPal. PCI-DSS requirements help ensure the secure handling of payment information.
+
+The payment processors we work with are:
+
+  * Stripe Inc – Privacy Policy: <https://stripe.com/us/privacy>
+  * PayPal – Privacy Policy: <https://www.paypal.com/us/webapps/mpp/ua/privacy-full>
+
+
+
+**To comply with legal process or to protect  ** **MY EXCEL ONLINE SLU:**
+
+If we believe that disclosure is reasonably necessary to comply with a law, regulation, legal or governmental request; to enforce applicable terms of use, including investigation of potential violations thereof; to protect the safety, rights, or property of the public, any person, or MY EXCEL ONLINE SLU as required by law; or to detect, prevent, or otherwise address, security or technical issues or illegal or suspected illegal activities (including fraud).  
+
+
+**Business Transfers:**
+
+e may engage in a merger, acquisition, bankruptcy, dissolution, reorganization, or similar transaction or proceeding that involves the transfer of the information described in this Policy.  In such transitions, customer information is typically one of the business assets that is transferred or acquired by a third party. In the unlikely event that we or substantially all of our assets are acquired or enter a court proceeding, you acknowledge that such transfers may occur and that your personal information can continue to be used as set forth in this privacy policy.
+
+## **Storing your personal data/Transfer of Data**
+
+This site is operated in the European Union, Spain.  If you are located in another jurisdiction, please know that your information will be transferred to, stored, and processed in the United States. By using this site and providing us with information, you consent to this transfer, processing and storage of your information in the United States.  It is important to note that the privacy laws in the United States may not be as comprehensive as those in other countries such as the European Union.  Our service providers use appropriate safeguards to transfer your personal data to the United States.
+
+  * We may transfer data that we collect from you to locations outside of headquarters for processing and storing. In addition, it may be processed by staff operating outside the office area who work for us or for one of our suppliers. For example, such staff may be engaged in the processing and concluding of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all reasonable steps to make sure that your data is treated securely and in agreement with this privacy policy.
+  * Data that is provided to us is stored on our secure servers. Details relating to any transactions entered into via our site will be encrypted to ensure its safety.
+  * The transmission of information via the internet is not completely secure and therefore we cannot guarantee the security of data sent to us electronically and the transmission of such data is entirely at your own risk. Where we have given you (or where you have chosen) a password so that you can access certain areas of our site, you are responsible for keeping this password confidential.
+
+
+
+## **Third party links**
+
+We may have links on our site to other sites that we do not operate.  If you click on a third-party link, you will be taken directly to that site which is governed by its own privacy notice.  We strongly encourage you to read that privacy notice.  We do not control that site and assume no responsibility for the content, policies or its practices.
+
+## **Individual Rights – Actions you can take**
+
+Under the European Union’s General Data Protection Regulation and other countries’ privacy laws, you may have certain rights with respect to the processing of your personal data such as:
+
+**Choosing not to provide your personal data**
+
+**Accessing, or obtaining a copy of, your personal data**
+
+**Checking and editing your data in your user account**
+
+**Unsubscribing from direct marketing**
+
+**Checking and editing your personal data**
+
+**Blocking and deleting the cookies**
+
+**Permitting or refusing processing of your location data**
+
+**Erasure, or restriction of our processing, of your data**
+
+**Objecting to the processing of your personal data**
+
+**Withdrawing your consent**
+
+**Porting your data to another controller**
+
+**Lodging a claim with the supervisory authority**
+
+We hope to ensure that the personal data we possess are always accurate and therefore we encourage you to update your information in your own account in case any changes have occurred. We have listed below the rights that you may be able to exercise in respect of the processing of your personal data, subject to applicable law. We take every reasonable step to ensure that the personal data that we process are limited to the personal data that are reasonably required in connection with the purposes set out in this Privacy Policy.
+
+Please note that upon exercising any of the rights listed below, you may be requested to provide additional information for identification purposes. Such additional information shall not be used for any other purpose and will be removed after successful identification.
+
+To initiate any of these actions please contact us at ** **[ [email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7a090f0a0a15080e3a17031f02191f1615141613141f54191517)
+
+**Providing your data:  **You may choose not to provide your personal data to us. It should be noted that some features of our websites, applications and other services may not be fully available to you if you choose not to provide us with your personal data (e.g., we may not be able to process your orders without the necessary details).
+
+**Right of access** : You may have the right to request access to, or copies of, your personal data, together with information regarding the nature, processing and disclosure of those data.
+
+**Unsubscribing:** We include an unsubscribe link in all electronic marketing messages we send to you. You may withdraw your consent to direct marketing at any time. If you do so, we will promptly update our databases, and will not send you further direct marketing, but we may continue to contact you to the extent necessary for the purposes of any products or services you have requested.
+
+**Checking and editing your personal data:  **Should you have an online user account, you may edit and complete your personal data directly yourself. If you do not have an online user account, you may contact us **,** who will upon your request as soon as possible rectify, remove or complete the information which is incorrect, unnecessary, lacking or outdated.
+
+**Blocking and deleting cookies:** You may block the cookies using your browser settings. Please note that blocking the cookies may affect the usability of our websites. You may also delete the cookies from your browser via its settings, in which case the information collected by the previous cookie will not affect the account created based on the information collected after such deletion.
+
+**Advertising**.  You can opt out of online targeted advertising by opting out within the advertisement itself or by visiting Digital Advertising Alliance, http://www.aboutads.info/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/.  You can also opt out of the Digital Advertising Alliance using your mobile device settings.
+
+**Allowing use of location data:  **You may give your consent to the use of location data in the options of the device or the application. You may also withdraw such consent at any time from the options menu in your account, or by contacting us.
+
+**Erasure, or restriction of our processing, of your data:  **Should you believe that we process your data which is not accurate; the processing is illegal; we are not processing your data in accordance with the processing purpose or you want to oppose the processing, you may contact us to request the erasure, or restrictions on the processing, of your data. Please note that we will investigate your request reasonably promptly, before deciding what action to take.
+
+**Right to object:  **You may have the right to object, on legitimate grounds, to the processing of your personal data.
+
+**Withdrawing your consent.  **You may at any time decide to withdraw your consent to the processing of your personal data. If your consent is withdrawn, it does not prevent us from processing your personal data based on other legal bases, such as fulfilling your orders and storing your order data as required by applicable law. However, it should be noted that your account(s) on our web store(s) will be removed, and advantages granted to you via your account will be reset. Please note that withdrawal of consent does not affect the lawfulness of any processing performed prior to the date on which we receive notice of such withdrawal.
+
+**Right to data portability:** You may have the right to have your personal data transferred to another controller, in a structured, commonly used and machine-readable format, to the extent applicable.
+
+**Right to Lodge a Complaint:  **For European Union residents, if you feel that our processing of your personal data infringes on data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection.  You may do so in the EU member state where you habitually reside, your place of work or the location of the alleged infringement.  If you are located outside of the European Union, you may have rights under privacy laws in the jurisdiction where you live.
+
+## **Security**
+
+We use reasonable administrative, logical, physical and managerial measures to safeguard your personal information against loss, theft and unauthorized access, use and modification. Unfortunately, no measures can be guaranteed to provide 100% security. Accordingly, we cannot guarantee the security of your information.
+
+## **Sensitive Data**
+
+We request that you do not send us any sensitive data such as social security or national identification numbers, information related to racial or ethnic origin, political opinions, religious beliefs, health data, biometrics or genetic, criminal background or trade union membership information. If you do send us this information, then you are consenting to its processing in accordance with this privacy notice.  To avoid processing of sensitive data, do not submit it.
+
+## **Our policy on children’s information**
+
+Our site is not directed to children under 16. If you learn that your minor child has provided us with personal information without your consent, please contact us.
+
+## **Contacting us**
+
+We welcome any queries, comments or requests you may have regarding this policy please do not hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#dfacaaafafb0adab9fb2a6baa7bcbab3b0b1b3b6b1baf1bcb0b2).
+
+  
+If you would prefer to write to us then our contact address is: Calle Errotamendia 12, Vitoria-Gasteiz, Alava 01010, Spain
+
+For any inquiries about our privacy practices in the European Union, contact John Michaloudis at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4635333636293432062b3f233e25232a29282a2f28236825292b)
+
+[](https://www.pinterest.com/pin/create/button/)
