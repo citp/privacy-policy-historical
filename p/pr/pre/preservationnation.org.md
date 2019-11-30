@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412201653id_/https%3A//savingplaces.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservationnation.org privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130113249id_/https%3A//savingplaces.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Trust for Historic Preservation
 
-_Revised as of September 7, 2018_
+_Revised as of November 15, 2019._
 
 Scope of the Privacy Policy
 
@@ -20,7 +20,7 @@ Changes in the Privacy Policy
 
 ### SCOPE OF THE PRIVACY POLICY
 
-This Privacy Policy applies to the websites (collectively, the “Websites”) that are owned and operated by the National Trust for Historic Preservation in the United States, its subsidiaries, affiliates and historic sites that are owned and operated by the National Trust, including, but not limited to, the National Trust Community Investment Corporation (“NTCIC”); National Trust Tours, LLC; National Trust Insurance Services, LLC; National Main Street Center, Inc.; and the following historic sites: Chesterwood, Farnsworth House, Frank Lloyd Wright’s Pope Leighey House, Gaylord Building, Lyndhurst, Philip Johnson Glass House, Shadows-on-the-Teche, Woodlawn, and the Woodrow Wilson House (collectively, the “National Trust”). This Privacy Policy states the National Trust's policy with regard to the personal identifiable information you provide. 
+This Privacy Policy applies to the websites (collectively, the “Websites”) that are owned and operated by the National Trust for Historic Preservation in the United States, its subsidiaries, affiliates and historic sites that are owned and operated by the National Trust, including, but not limited to, the National Trust Community Investment Corporation (“NTCIC”); National Trust Tours, LLC; National Trust Insurance Services, LLC; National Main Street Center, Inc.; and the following historic sites: Chesterwood, Farnsworth House, Frank Lloyd Wright’s Pope Leighey House, Lyndhurst, Philip Johnson Glass House, Shadows-on-the-Teche, Woodlawn, and the Woodrow Wilson House (collectively, the “National Trust”). This Privacy Policy states the National Trust's policy with regard to the personal identifiable information you provide. 
 
 The National Trust is committed to honoring the privacy preferences of members of the public that visit our Websites. Our intention through these Websites is to supply information that will help people learn about, experience and work to save historic places, and build better communities. In the course of providing these online services, information may be exchanged between the National Trust, servers, online users and their browsers. In order to access certain materials or services on the Websites, you may be asked to provide your name, address, phone number and/or other information. It is your decision to provide this information. We will only use this information in accordance with this Privacy Policy. Please be advised that you may opt-out of receiving certain information from the National Trust as provided herein. If you do not agree to this Privacy Policy, please do not use the Websites. 
 
@@ -79,8 +79,8 @@ We provide many links to third party websites existing outside of the National T
 The National Trust has a number of subsidiaries, affiliates and historic sites that offer a wide range of products and services. We may share your personal identifiable information with the National Trust’s subsidiaries, affiliates and historic sites to inform you of the various product and service offerings in which you might be interested unless you opt-out of receiving such information. Most of the subsidiaries, affiliates and historic sites owned and operated by the National Trust are subject to the same opt-out rights that apply to use of personally identifiable information by the National Trust. The National Trust’s list of subsidiaries, affiliates, and historic sites includes the following: 
 
   * National Trust Historic Sites 
-    * Stewardship Historic Sites (owned and operated by the National Trust) include: Chesterwood, Cooper Molera Adobe, Farnsworth House, Frank Lloyd Wright’s Pope Leighey House, Gaylord Building, Lyndhurst, Philip Johnson Glass House, Shadows-on-the-Teche, Woodlawn, and Woodrow Wilson House
-    * Co-Stewardship Historic Sites (operated and/or owned by other non-profit organizations) include: Acoma Sky City, African Meeting House, African Meeting House and Abiel Smith School, Belle Grove, Brucemore, Cliveden, Decatur House, Drayton, Hall, Filoli, Hotel de Paris Museum, James Madison’s Montpelier, Kykuit, Lower East Side Tenement Museum, Oatlands, President Lincoln’s Cottage (leased by National Trust), Touro Synagogue, and Villa Finale.
+    * Stewardship Historic Sites (owned and operated by the National Trust) include: Chesterwood, Cooper Molera Adobe, Farnsworth House, Frank Lloyd Wright’s Pope Leighey House, Lyndhurst, Philip Johnson Glass House, Shadows-on-the-Teche, Woodlawn, and Woodrow Wilson House
+    * Co-Stewardship Historic Sites (operated and/or owned by other non-profit organizations) include: Acoma Sky City, African Meeting House, African Meeting House and Abiel Smith School, Belle Grove, Brucemore, Cliveden, Decatur House, Drayton Hall, Filoli, Gaylord Building, Hotel de Paris Museum, James Madison’s Montpelier, Kykuit, Lower East Side Tenement Museum, Oatlands, President Lincoln’s Cottage (leased by National Trust), Touro Synagogue, and Villa Finale.
   * National Trust Community Investment Corporation (“NTCIC”) 
   * National Trust Insurance Services, LLC 
   * National Trust Tours, LLC
