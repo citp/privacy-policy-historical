@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503210801id_/https%3A//www.rcseng.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130171020id_/https%3A//www.rcseng.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Royal College of Surgeons
 
