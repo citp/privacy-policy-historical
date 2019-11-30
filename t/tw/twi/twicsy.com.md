@@ -1,66 +1,71 @@
-> *The following text is extracted and transformed from the twicsy.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429012155id_/https%3A//twicsy.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twicsy.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130170829id_/https%3A//twicsy.com/privacy-policy) for the most accurate reproduction.*
 
-# Twicsy Privacy Policy | Twicsy - Twitter Picture Discovery
+# Privacy Policy | Twicsy
 
-**What information do we collect from visitors to Twicsy.com?**
+June 15, 2019June 17, 2019
 
-We collect information from you when you Sign in with your Twitter account. We collect your email if you sign up for the newsletter and give us your email. 
+## Who we are
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: twitter details. You may, however, visit our site anonymously.
+Our website address is https://twicsy.com.
 
-**What do we use your information for?**
+## What personal data we collect and why we collect it
 
-Any of the information we collect from you may be used in one of the following ways: 
+### Comments
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-; To administer a contest, promotion, survey or other site feature
+### Media
 
- **How do we protect your information?**
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+### Contact forms
 
-**Do we use cookies?**
+### Cookies
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
- **Do we disclose any information to outside parties?**
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
 
- **Childrens Online Privacy Protection Act Compliance**
+### Embedded content from other websites
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
-**Terms and Conditions**
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://twicsy.com/s/tos.html>
+### Analytics
 
-**Your Consent**
+## Who we share your data with
 
-By using our site, you consent to our [privacy policy](http://www.freeprivacypolicy.com/). 
+## How long we retain your data
 
-**Changes to our Privacy Policy**
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
 
-**Opting Out of Twicsy**
+## What rights you have over your data
 
-If you would like your content removed from Twicsy please use this [removal form](https://web.archive.org/remove). 
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-**Contacting Us**
+## Where we send your data
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+Visitor comments may be checked through an automated spam detection service.
 
-Searchles Inc.  
-1220 L St NW Suite 100-259  
-Washington, DC 20005  
-USA  
-[twicsy@searchles.com](mailto:twicsy@searchles.com)   
+## Your contact information
 
+## Additional information
+
+### How we protect your data
+
+### What data breach procedures we have in place
+
+### What third parties we receive data from
+
+### What automated decision making and/or profiling we do with user data
+
+### Industry regulatory disclosure requirements
