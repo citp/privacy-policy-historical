@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the woio.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606063735id_/http%3A//www.cleveland19.com/2018/09/05/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woio.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130015514id_/https%3A//www.cleveland19.com/privacy-policy) for the most accurate reproduction.*
 
-# Gray Television, Inc. PRIVACY POLICY
+# Privacy Policy
 
 _**Introduction**_ We at Gray Television, Inc. (“GTI”), along with our television stations (“Stations”), respect your privacy. We have adopted this Privacy Policy to explain what information about you we collect, how we use it, and how we share it. We provide a link to this Privacy Policy wherever it applies, such as on our Station web sites, our mobile apps, our social networking presence on Facebook and other platforms, and other online services that we provide and control (“Services”). By using our Services, you accept our practices as described in this Privacy Policy.
 
