@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyware.com privacy policy that was archived on 2019-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190115222727id_/https%3A//www.propertyware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyware.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130015028id_/https%3A//www.propertyware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Propertyware Property Management Software
 
