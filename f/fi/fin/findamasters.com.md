@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findamasters.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415210859id_/https%3A//www.findamasters.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findamasters.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130144402id_/https%3A//www.findamasters.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - Find A Masters
 
@@ -262,9 +262,34 @@ We do not sell transfer or otherwise transfer to third parties except under the 
 
 When you contact a university outside of the EU/EEA then your enquiry data will be passed to them. Data protection rules outside of the EU/EEA vary, however we will inform these third-parties that data received from us should be treated in line with EU GDPR regulations.
 
+* * *
+
+## Data Subject Rights
+
+The GDPR provides the following rights for individuals: 
+
+  1. The right to be informed 
+  2. The right of access 
+  3. The right to rectification 
+  4. The right to erasure 
+  5. The right to restrict processing 
+  6. The right to data portability 
+  7. The right to object 
+  8. Rights in relation to automated decision making and profiling
+
+
+
+For more detailed information on these rights visit <https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>
+
+If you would like to exercise any of these rights in relation to the FindAUniversity's use of your data, please contact: [info@findauniversity.com](mailto:info@findauniversity.com) or in writing to FindAUniversity Ltd, 77 Sidney Street, Sheffield, S1 4RG, UK. Alternatively, you can phone us during UK office hours on +44 (0)114 268 4940.
+
+You also have the right to complain to the Information Commissioner who is the regulator for data protection in the UK: <https://ico.org.uk/global/contact-us/> or use their Helpline on 0303 123 1113.
+
+* * *
+
 Thank you for using our web sites.
 
-This policy was last updated on 22nd Oct 2018
+This policy was last updated on 1st Aug 2019
 
   
 
