@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522211048id_/https%3A//newscorp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130194110id_/https%3A//newscorp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | News Corp
 
 **Privacy Notice**  
-Effective Date: January 17, 2019
+Effective Date: July 11, 2019
 
 We at News Corporation (herein, “News Corp” or the “Company”) respect your concerns about privacy.  This Privacy Notice (“Notice”) applies to personal information obtained by the Company of visitors to the [www.newscorp.com](http://www.newscorp.com/) site (the “Site”).  When you visit the Site, you are visiting News Corp’s corporate website.  Affiliates of News Corp operate a large number of websites, mobile applications and other services associated with News Corp’s various businesses, brands and products.  Each of these properties and services you may choose to visit has privacy notices that differ from this Notice due to the nature of those properties and services. This Notice does not apply to the websites, mobile applications and other services operated by News Corp affiliates.  A list of News Corp affiliates is [here](https://newscorp.com/about/our-businesses/).  By using the Site, you agree to the terms and conditions of this Privacy Notice.
 
@@ -115,7 +115,7 @@ This Privacy Notice may be updated periodically and without prior notice to you 
 
 If you have any questions or comments about this Privacy Notice or the manner in which we or our service providers treat your personal information, would like to exercise your choices, or would like us to update information we have about you or your preferences, please contact us as follows:
 
-Email: [privacypolicy@newscorp.com](mailto:privacypolicy@newscorp.com)
+Email: [nc-privacypolicy@newscorp.com](mailto:nc-privacypolicy@newscorp.com)
 
 You also may write to:
 
