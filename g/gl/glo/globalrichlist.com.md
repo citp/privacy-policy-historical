@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalrichlist.com privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206143552id_/http%3A//www.careinternational.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalrichlist.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130151027id_/http%3A//www.careinternational.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CARE
 
@@ -87,25 +87,22 @@ Your consent will be valid for at least three years, unless you tell us otherwis
 
 We use external organisations to collect and/or process your personal information on our behalf. By agreeing to this Privacy Policy you are giving us a general written authorisation to do so in relation to the third parties listed below:
 
-  * Tokenhelp – process donations which are returned by post
-  * Amethyst – print supplier
-  * Brightsource – print and design supplier
-  * Postcom – postage supplier
-  * Mailchimp – email supplier
-  * LegacyLink – legacy administration
-  * Purity Fundraising – telemarketing
-  * Return Fundraising - telemarketing
-  * More Onion – digital agency who design, build and send email communications on behalf of CARE International
+  * Care2 – online campaigning platform
   * Cymba – SMS marketing agency
-  * Capacity Marketing – supplier of the Free Wills service
-  * Virgin Money Giving – sponsorship website
-  * Just giving - sponsorship website
-  * care2 – campaigning platform
-  * Bluefrog – Lendwithcare website management
   * Engaging Networks - online fundraising platform
-  * Google - website analytics
   * Facebook - advertising
+  * Forward Action - digital design agency
+  * Google - website analytics and advertising
+  * JustGiving - sponsorship website
+  * LegacyLink – legacy administration
+  * Liaison Print Management – print supplier
+  * Mailchimp – email supplier
   * Peek content - research and content gathering
+  * Postcom – postage supplier
+  * Purity Fundraising – telemarketing
+  * Telebank – process donations which are returned by post
+  * Virgin Money Giving – sponsorship website
+  * Trinity Marketing - face to face fundraising supplier
 
 
 
@@ -115,11 +112,9 @@ In the process of working with Mailchimp your data may be transferred outside th
 
 #### How long we keep your information for
 
-We will hold your personal information on our systems for as long as is necessary for the relevant activity, for example we will keep a record of any donations you have made for up to six years.
+We will hold your personal information on our systems for as long as is necessary for the relevant activity. 
 
 If you tell us you do not consent to receive our marketing, we will keep a record of your contact details to enable us to remove you from any contact lists now and in the future.
-
-If you have a direct debit with us and you cancel we will delete your bank details after two years, unless of course you choose to re-start your gift.
 
 Legacy income is vital to funding CARE International’s work. We may keep personal information you provide to us for as long as is needed both to administer legacy gifts and to communicate effectively with the families of people leaving us legacies. This also enables us to identify and analyse the source of legacy income we receive.
 
@@ -144,6 +139,6 @@ If you are not happy with the way we have processed your data you can make a com
 
 #### Changes to this Privacy Policy
 
-This policy will be reviewed at least annually. The next review is planned for January 2019. If we make significant changes we will publish them clearly on our website or contact you directly with more information.
+This policy will be reviewed at least annually. The next review is planned for August 2020. If we make significant changes we will publish them clearly on our website or contact you directly with more information.
 
- _Updated May 2018_
+ _Updated October 2019_
