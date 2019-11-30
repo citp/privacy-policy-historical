@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617095922id_/https%3A//www.birst.com/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130194247id_/https%3A//www.birst.com/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
 ## Personal Data Infor Collects
 
-Infor collects data from you through our interactions with you and through our products. The data we collect depends on the context of your interactions with Infor and the choices you make, including your privacy settings and the products and features you use. You provide some data to us directly, we collect data about your interactions with and use of our products, and we obtain data about you from third parties. 
+Infor collects data from you through our interactions with you and through our products. The data we collect depends on the context of your interactions with Infor and the choices you make, including your privacy settings and the products and features you use. You provide some data to us directly (e.g., contact information, job information), we collect data about your interactions with and use of our products (e.g., cookies or other electronic trackers, customer relationship management information), and we obtain data about you from third parties (e.g., information from an Infor partner or information about your attendance at an event sponsored by Infor). 
 
 When you interact with us, we collect information sent to us by your device. The information we collect may include data about the pages you access, your computer IP address, device ID or unique identifier, device type, geolocation information, computer and connection information, and mobile network information.
 
@@ -18,7 +18,7 @@ For job applicants using Infor’s Talent Science software to apply to an Infor 
 
 At our customer’s or your request, we may disclose your personal data to third parties for employment screening, background checks, credential verification services, or other similar services related to verifying the accuracy of the information you have provided. If you do not want your personal data, (including test results or background checks) used as described here, you should not provide us with your personal data. Not providing the personal data will preclude you from proceeding with your Talent Science application.
 
-For job applicants applying directly to Infor, we use the personal data you have provided to make employment decisions, as well as for our other legitimate business purposes, such as workforce analysis, gaining a greater understanding of our applicants, attracting talented individuals, and providing you with information about job vacancies at Infor. We also use your data to comply with our legal obligations, such as applicable immigration or employment laws. privacy or security practices of our customers, partners, or vendors, which may differ from Infor’s privacy policy
+For job applicants applying directly to Infor, we use the personal data you have provided to make employment decisions, as well as for our other legitimate business purposes, such as workforce analysis, gaining a greater understanding of our applicants, attracting talented individuals, and providing you with information about job vacancies at Infor. We also use your data to comply with our legal obligations, such as applicable immigration or employment laws. 
 
 ## How Infor Uses Personal Data  
 
@@ -32,12 +32,12 @@ Infor uses the data we collect about you to provide you with rewarding, interact
 
 
 
-We also use the data for our business purposes, including analyzing our performance, meeting our legal obligations, and developing our workforce. To achieve these purposes, we sometimes combine data we collect from different contexts to give you a better experience, to make informed business decisions, and for other legitimate reasons.
+We also use the data for our business purposes, including analyzing our performance, meeting our legal obligations, and developing our workforce. To achieve these purposes, we sometimes combine data we collect from different contexts to give you a better experience, to make informed business decisions, and for other legitimate reasons. For example, we may combine information we have about your current engagement with our products with information relating to your other interactions with Infor, including your attendance at Infor sponsored events. We may also combine data in other contexts.
 
 ## Reasons We Share Personal Data  
 
 
-We share your personal data (when you have approved such sharing) to complete transactions, or to provide a product you have requested. We also share data with Infor affiliates and subsidiaries, with vendors working for us, when required by law or legal process, to protect lives, to maintain the security of our products, and to protect the rights and property of Infor and its customers.
+We share your personal data with Infor affiliates and subsidiaries, vendors, partners, and service providers (when you have approved such sharing) to complete transactions, or to provide a product you have requested. We also share data with Infor affiliates and subsidiaries, with vendors working for us, when required by law or legal process, to protect lives, to maintain the security of our products, to provide support services and to protect the rights and property of Infor and its customers. For example, we may share information with our partners to complete a business transaction with you or to provide support during your use of our products and services.
 
 ## How to Access and Control Your Personal Data  
 
@@ -51,16 +51,20 @@ You may control the use of your data for advertising from Infor by visiting our 
 
 Infor is a global organization with its headquarters in the United States. We may share your personal information among Infor, our affiliates, our service providers, and other third parties that may be outside the country in which you reside. We have put in place appropriate safeguards to handle the transfers of data to ensure that your personal information is handled as described in this policy. 
 
-Infor complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom and/or Switzerland to the United States in reliance on Privacy Shield. Infor (US) has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). The Federal Trade Commission has jurisdiction over Infor’s compliance with Privacy Shield.
+Infor complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (Privacy Shield) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom and/or Switzerland to the United States in reliance on Privacy Shield. Infor (US) has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/list>. The Federal Trade Commission has jurisdiction over Infor’s compliance with Privacy Shield. In certain situations, Infor may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data security concern that we have not addressed satisfactorily, please contact our third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. Under certain conditions, an individual may invoke binding arbitration for complaints regarding Privacy Shield compliance not resolved by any of the other Privacy Shield mechanisms: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>. Infor has responsibility for the processing of personal information it receives under the Privacy Shield and subsequently transfers to a third party acting as an agent on its behalf. Infor shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless Infor proves that it is not responsible for the event giving rise to the damage. 
+
+Infor’s privacy practices, described in this Privacy Policy, comply with the APEC Cross Border Privacy Rules System. The APEC CBPR system provides a framework for organizations to ensure protection of personal information transferred among participating APEC economies. More information about the APEC framework can be found [here.](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/)
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=d8476177-bca1-4cca-9a33-fb62a1cb7341)   [](https://privacy.truste.com/privacy-seal/validation?rid=3bf0aa99-e54e-4a16-aa14-f631c3f34c46)
 
 ## Cookies  
 
 
-Cookies are small text files placed on your device to store data. We use cookies and similar technologies for storing your preferences and settings, enabling you to sign in, providing advertising, combating fraud, and fulfilling other legitimate business purposes. Sometimes, we also use web beacons to gather usage and performance data. Our websites may include web beacons, cookies, or similar technologies from third party providers.
+Cookies are small text files placed on your device to store data. We use cookies and similar technologies for storing your preferences and settings, enabling you to sign in, providing advertising, combating fraud, and fulfilling other legitimate business purposes. Sometimes, we also use web beacons to gather usage and performance data. Our websites may include web beacons, cookies, or similar technologies from third party providers. Those third party providers may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising you may do so through the “Cookie Settings” button below.
 
-You have options to control the data collected by cookies, web beacons, and similar technologies. For example, you may use settings in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies. At this time, Infor does not respond to Do Not Track (DNT) signals.
+You have options to control the data collected by cookies, web beacons, and similar technologies. For example, you may use settings in your internet browser to limit how the websites you visit are able to use cookies and to withdraw your consent by clearing or blocking cookies. At this time, Infor does not respond to Do Not Track (DNT) signals. Please click the link below to manage your cookie settings.
 
 ## Products Provided by Your Organization  
 
@@ -79,7 +83,21 @@ Generally, we will keep your personal data for the duration of our relationship 
 
 The security of your personal data is important to us. We use appropriate technical and organizational measures to protect the security of your data.
 
+## Personal Data Processed by Infor on Behalf of Its Customers  
+
+
+Through our software platform, we provide products and services to our customers that enable them to engage with end users. When our customers collect information from their end users through our products and services, this Privacy Policy does not apply to that collection of information. This is because our customers, as the data controllers, are directing the collection of that information, and Infor has no direct relationship with our customers’ end users. Infor does not control our customers’ collection or use of the end users’ information.
+
+To learn how an Infor customer uses the information it collects through Infor’s products, please see that customer’s privacy policy. If you are an end user who seeks access, or who seeks to correct, amend, or delete inaccurate data, or if you are an end user of one of our customers and would no longer like to be contacted by that customer, please contact them directly.
+
+In connection with the products and services we provide, we may transfer personal information to companies that help us provide our products and services. Transfers to these third parties are governed by our agreements with our customers.
+
 ## Updates to Our Privacy Policy  
 
 
 From time to time, we may modify or update this policy. You can see at the top of the policy when it was last updated. If we substantially modify this policy, we will notify you of the changes by posting them on our website. Any changes to our policy are effective as of the date we post such changes, unless we inform you otherwise. If we modify our policy in a way that would have a substantial impact on the nature of processing or your privacy rights, we would provide sufficient advance notice to provide you with an opportunity to exercise your rights.
+
+## U.S. Privacy Shield Certified Infor Entities  
+
+
+Infor (US), Inc., Infinium Software, Inc., Infor Public Sector, Inc., and Seneca Acquisition Subsidiary, Inc. participate in Privacy Shield and adhere to the Privacy Shield Principles. While these Infor entities are the only Infor affiliates formally registered for Privacy Shield, all Infor entities worldwide agree to comply with the Privacy Shield Principles.
