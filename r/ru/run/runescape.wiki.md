@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the runescape.wiki privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403193009id_/https%3A//weirdgloop.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runescape.wiki privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130185151id_/https%3A//weirdgloop.org/privacy) for the most accurate reproduction.*
 
-# Privacy - Weird Gloop
+# Privacy | Weird Gloop
 
 [ ](https://weirdgloop.org/ "Weird Gloop")
 
