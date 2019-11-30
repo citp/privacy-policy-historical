@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the calmclinic.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013231152id_/https%3A//www.calmclinic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calmclinic.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201004410id_/https%3A//www.calmclinic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Calm Clinic
 
 This Privacy Policy provides general information regarding how the personal data of users is collected on the website www.calmclinic.com (hereinafter referred to as Calmclinic, we). More detailed information may be provided at the request of the user (data subject).
 
@@ -29,6 +29,43 @@ We also collect anonymized website usage data such as click data, pages visited 
 We inform you that to use our web site and to receive certain services provided by us you can choose to remain an anonymous user and not provide any personally identifiable data like name, email, etc. In this case, we do not collect your personal data in any form.
 
 In order to provide you with some services, you must provide us with more information about yourself, such as email, name, surname, country, also you have to create an account. We note that your personal data is being inputted by you, so you are solely responsible for the accuracy of this data.
+
+Calm Clinic collects personal information reasonably necessary to carry out our business, to assess and manage our members' needs, and provide our services to you. We may also collect information to fulfill administrative functions associated with these services, for example, billing, entering into contracts with you and/or third parties and managing member relationships.
+
+The purposes for which Calm Clinic usually collects and uses personal information depends on the nature of your interaction with us, but may include:
+
+  * third party suppliers and contractors who assist us to operate our business;
+  * our affiliated and related companies;
+  * to improve the relevance of marketing messages we may send you (which you can opt out of as explained below);
+  * to bring to your attention (in person or by post, email or telephone) information about additional services offered by us and/or our [global affiliates], which may be of interest to you, unless you indicate at any time that you do not wish us to do so; and if instructed to do so by you or where you give us your consent to the use and/or processing involved;
+  * to share information with relevant third parties in the context of a sale or potential sale of a relevant part of our business, subject always to confidentiality obligations;
+  * to prevent or detect abuse of our services or any of our rights (and attempts to do so), and to enforce or apply our Privacy Policy and/or any other agreement (such as your membership agreement with us) and to protect our (or others') property or rights;
+  * to check your instructions to us, to analyze, assess and improve our services to members, as well as for training and quality purposes, we may monitor, record and analyze any communications between you and us, including phone calls;
+  * to fulfill our obligations under any reporting agreement entered into with any tax authority or revenue service(s) from time to time;
+  * to comply with any requirement of any applicable statute, regulation, rule and/or good practice;
+  * to follow up with you after you request information to see if we can provide any further assistance (for example if you inquire about a membership package);
+  * to confirm your identity and carry out background checks, including as part of our checks in relation to your application to become a subscriber member;
+  * for our reasonable commercial purposes (including quality control and administration and assisting us to develop new and improved products and services);
+  * responding to inquiries and complaints; recruitment processes; and informing you of our activities, events, facilities, and services;
+  * researching, developing and expanding our facilities and services;
+  * managing, planning, advertising and administering programs, events, competitions, and performances;
+  * responding to requests for information and other general inquiries;
+  * to record statistical data for marketing analysis from members;
+  * to obtain opinions or comments about products and/or services from members;
+  * to provide information about products, services and/or special offers to members;
+  * to fulfill obligations under a membership agreement and/or any other contract you may have with us;
+  * any additional personal information you provide to us or authorize us to collect, as part of your interaction or membership with Calm Clinic;
+  * any additional information relating to you that you provide to us directly through our websites or by other means such as over the phone, via email or in person; information you provide to us via voluntary members feedback or engagement surveys;
+  * your login details and passwords which you use to access your account with us as well as your online interactions with us;
+  * details of the products and services (such as membership options) you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your inquiries;
+
+
+
+In addition, some of your personal information may be used for other business purposes. Examples of the types of uses are set out below:
+
+Calm Clinic generally collects personal information directly from you. We may collect and update your personal information over the phone, by email, over the internet or social media, or in person. We may also collect personal information about you from other sources, for example:
+
+Calm Clinic also collects and uses personal information for market research purposes and to innovate our delivery of products and services. We have a legitimate interest in using your information in the ways listed above. In some cases, it will be lawful for us to collect and use your personal information, for example where it is necessary as part of our, or a third party’s, statutory or public functions or because the law permits or requires us to.
 
 ## Can you disagree with the processing of your personal data?
 
@@ -82,6 +119,26 @@ You may choose, whether you want to accept cookies. The user gives his consent t
 
 You can cancel the use of cookies by changing the browser's data and settings (deleting cookies, selecting anonymous browsing, etc.). In some cases, disabling or deleting cookies can slow down the speed of browsing the web, limit the functionality of certain web pages, or block access to the website.
 
+## The types of cookies we use
+
+Specifically, we use the following cookies:
+
+**Strictly necessary cookies:** are required for the operation of our website, such as cookies that enable you to log into secure areas of our website (for example, our membership portal).
+
+**Analytical/performance cookies:** allow us to count the number of users and see how users move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+
+**Targeting cookies:** these cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information, subject to your choices and preferences, to make our website and any advertising displayed on it more relevant to your interests.
+
+**Third party/sharing cookies:** are cookies that are set by a domain other than the one being visited by you. If you visit our website and a separate company sets a cookie through that website this is a third party cookie. To try to bring you offers and advertisements that are of interest to you, we have relationships with third-party companies including [Google, Adobe Analytics, Facebook, LinkedIn] (Third Party Providers) that allow them to place cookies on our websites.
+
+These Third Party Providers may:
+
+  * use Third Party Cookies, web beacons, and other storage technologies to collect or receive information from our Websites and elsewhere on the internet;
+  * compare de-identified information from us with information collected elsewhere on the internet; and
+  * use that information to provide measurement services and target ads to you.
+
+
+
 ## How do I know about any changes made to this Privacy Policy?
 
 As we expand our activities and services, we may need to update this Privacy Policy. For this reason, we recommend that you periodically visit our website, where you will always find the latest version of this Privacy Policy.
@@ -93,5 +150,3 @@ If we make any essential changes to this Privacy Policy, we will inform you in a
 You have the right to contact us in order to submit inquiries, cancel your consent, submit requests for your rights as a data subject, and complaint about the processing of personal data.
 
 You can contact us by sending a message on the website.
-
-Author: [Micah Abraham, BSc Psychology](https://web.archive.org/about#micah-abraham-bsc-psychology), last updated May 24, 2018.
