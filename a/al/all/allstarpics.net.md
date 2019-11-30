@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstarpics.net privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422181639id_/https%3A//members.famousfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstarpics.net privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130013423id_/https%3A//members.famousfix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
