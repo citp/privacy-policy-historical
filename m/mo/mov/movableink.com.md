@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616051246id_/https%3A//movableink.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130234029id_/https%3A//movableink.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Movable Ink
 
 ## Movable Ink Privacy Policy
 
-Effective Date: November 1, 2018
+Effective Date: November 21, 2019
 
 This is the Privacy Policy for Movable, Inc. (“Movable Ink”) and its affiliates. It covers our handling of two categories of information:
 
@@ -111,7 +111,7 @@ We will hold your information for as long as necessary to fulfill the purposes s
 
 You may be able to review and update certain user information in our Business Data by logging in to the relevant portions of the Movable Ink website. You can unsubscribe from Movable Ink’s own marketing emails by clicking the "unsubscribe" link they contain. Controls related to third-party cookies and other automated data collection are described in the section below. 
 
-Residents of the European Economic Area, Switzerland and certain other and many other jurisdictions have certain legal rights (including, in certain cases, under the EU-U.S. Privacy Shield Frameworks) to obtain confirmation of whether we hold personal data about them as part of our Business Data, to access any such personal data we hold about them, and to obtain its correction, update, amendment, or deletion in appropriate circumstances. In limited cases, they have the right to receive information we hold about them in portable form and to have it transmitted to a third party.
+Residents of the European Economic Area, Switzerland and certain other and many other jurisdictions have certain legal rights (including, in certain cases, under the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks) to obtain confirmation of whether we hold personal data about them as part of our Business Data, to access any such personal data we hold about them, and to obtain its correction, update, amendment, or deletion in appropriate circumstances. In limited cases, they have the right to receive information we hold about them in portable form and to have it transmitted to a third party.
 
 They also have rights to object to our handling of their personal data, to restrict its processing, and to withdraw any consent they have provided.
 
@@ -143,9 +143,9 @@ Please visit your mobile device manufacturer's website (or the website for its o
 
     4. **International Data Transfers**
 
-We are based in the United States, and recipients of the data disclosures described in this Privacy Policy are located in the United States and elsewhere in the world, including where privacy laws may not provide as much protection as the country in which you are located. Movable Ink complies with legal requirements for cross-border data protection, including through the use of European Commission-approved Standard Contractual Clauses and contract language required by the EU-U.S. Privacy Shield Framework (“Privacy Shield”), which is described below. 
+We are based in the United States, and recipients of the data disclosures described in this Privacy Policy are located in the United States and elsewhere in the world, including where privacy laws may not provide as much protection as the country in which you are located. Movable Ink complies with legal requirements for cross-border data protection, including through the use of European Commission-approved Standard Contractual Clauses and contract language required by the EU-U.S. and Swiss-U.S. Privacy Shield Framework (“Privacy Shield”), which is described below. 
 
-As a business subject to the investigatory and enforcement authority of the United States Federal Trade Commission, Movable Ink has certified that its U.S. operations adhere to the Privacy Shield with respect to the personal data that Movable Ink receives in reliance on the Privacy Shield. Our Privacy Shield certification is available at <https://www.privacyshield.gov/list>. To learn more about the Privacy Shield program, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+As a business subject to the investigatory and enforcement authority of the United States Federal Trade Commission, Movable Ink has certified that its U.S. operations adhere to the Privacy Shield with respect to the personal data that Movable Ink receives in reliance on the Privacy Shield. This includes the relevant personal data that we receive in the U.S. from the U.K., regardless of when or how Brexit happens. Our Privacy Shield certification is available at <https://www.privacyshield.gov/list>. To learn more about the Privacy Shield program, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 When Movable Ink receives personal data under the Privacy Shield and then transfers it to a third-party service provider acting as an agent on Movable Ink’s behalf, Movable Ink may have certain responsibility under the Privacy Shield if both (a) the agent processes the information in a manner inconsistent with the Privacy Shield and (b) Movable Ink is responsible for the event giving rise to the damage.
 
