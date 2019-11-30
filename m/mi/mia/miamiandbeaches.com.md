@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503093849id_/https%3A//www.miamiandbeaches.com/about-gmcvb/privacy-policy-and-user-generated-content-terms-an) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiandbeaches.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130060056id_/https%3A//www.miamiandbeaches.com/about-gmcvb/privacy-policy-and-user-generated-content-terms-an) for the most accurate reproduction.*
 
 # Privacy Policy and UGC Terms
 
