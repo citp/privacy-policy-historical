@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharkrobot.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331092216id_/https%3A//sharkrobot.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharkrobot.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130055424id_/http%3A//sharkrobot.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Shark Robot
 
