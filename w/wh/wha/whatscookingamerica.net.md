@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatscookingamerica.net privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623070015id_/https%3A//whatscookingamerica.net/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatscookingamerica.net privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130134453id_/https%3A//whatscookingamerica.net/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Whats Cooking America
 
@@ -40,11 +40,29 @@ Web Site Analytics Cookies
 
 Google analytics data is stored indefinitely so that we can track the traffic of our web site.
 
+#### **Visiting our Website from outside the US**
+
+For visitors outside of the US, please be aware that your information may stored on servers in the US where our websites servers are located and operated. We take steps to assure protection of your privacy but please be aware that your laws may differ than those of the United States. By using our Website, you agree to having your information stored in our US based servers and third parties as stated in this Privacy Policy.
+
+#### **California Privacy Rights**
+
+California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
+
+If you are under 18 years of age, reside in California, and have provided your personal information with the Site, you have the right to request removal of unwanted data that you publicly post on the Site. To request removal of such data, please contact us using the contact information provided below, and include sufficient detail about the public post(s) and a statement that you reside in California. We will make sure the data is not publicly displayed on the Site, but please be aware that the data may not be completely or comprehensively removed from our systems, nor can we guarantee any cached or archived version of the site will remove such data.
+
+#### **Children’s Online Privacy Protection Act Compliance:**
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not knowingly collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. We care about protecting children’s privacy. We won’t knowingly allow anyone under 13 to provide personally identifying information. Children who are under 13 should not provide any information about themselves on the internet (including names, email addresses, and phone numbers).
+
 #### **Third Party Advertising:**
 
 We also use third party advertisements on What’s Cooking America to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes in order to: help manage ad campaigns, understand user interests and trends and deliver personalized content and advertising to you while you are on the Site or on other sites. PLEASE NOTE THAT WE ARE NOT RESPONSIBLE OR LIABLE FOR THE ACTS AND/OR OMISSIONS OF THIRD PARTY VENDORS.
 
-##### **Our Advertising Partners**
+#### **Affiliate Program Participation**
+
+The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
+
+##### **Our  Affiliate Advertising Partners**
 
 **Sortable:**
 
@@ -59,6 +77,10 @@ We also use third party advertisements on What’s Cooking America to support ou
 **LockerDome:**
 
 [Privacy Policy](https://lockerdome.com/privacy)
+
+#### **Amazon Associates Program Disclosure**
+
+What’s Cooking America, Chehalem Publishing, LLC,  is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com. As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales. If affiliate links are used in a post, it will be disclosed and can be identified by the use of green text.
 
 #### **Social Media:**
 
@@ -80,7 +102,7 @@ Google+/Youtube
 
 The important thing to remember about the use of cookies is; while some cookies are used to track your use of our website, they cannot be used to identify you personally or tell us who you are.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in security programs. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in security programs. Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting the [ads preference manager](https://www.google.com/ads/preferences/). (Alternatively, you can direct users to opt out of a third-party vendor’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).)
 
 **To Learn more about cookies and how to adjust your browser settings: Visit  **[ **www.aboutcookies.org**](http://www.aboutcookies.org/)  **or www.youronlinechoices.eu**
 
@@ -96,6 +118,22 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 **Updates and Changes:  **We reserve the right, at any time, to add to, change, update, or modify this privacy policy, simply by posting such change, update, or modification on What’s Cooking America and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. It is your responsibility to review this privacy policy from time to time to ensure that you continue to agree with all of its terms.
 
+#### **Trademark and Copyright Notices:**
+
+You are welcome to like us on Facebook, Twitter, Pinterest Pin or Google+ share pages of this web site. You may also forward our emails to friends.
+
+Unless otherwise noted, all content is developed by us and copyright 2019 What’s Cooking America doing business under our parent company as Chehalem Publishing, LLC.
+
+**Using our photos:**
+
+Please credit any photo you use with two links,  **one back to the direct recipe post**  and  **one back to whatscookingamerica.com.  **All photos taken by _What’s Cooking America  _are rights protected.  Failure to link back and credit our site as their source constitutes a copyright violation. Unless otherwise noted, all content and photography is © 2019 What’s Cooking America (doing business under our parent company of Chehalem Publishing, LLC)
+
+For inquiries regarding the use, reproduction or purchase of photography seen here, please contact [Nancy](mailto:%20nhartman@whatscookingamerica.net).
+
+#### **Disclosures and Disclaimers:**
+
+All posts will be made by What’s Cooking America or guest columnist and all opinions contained in any page or post are mine or our columnists unless explicitly stated otherwise.  All information is intended for your general knowledge only and is not a substitute for medical advice or treatment for specific medical conditions. You should seek prompt medical care for any specific health issues. In addition, What’s Cooking America does not accept any responsibility for injury sustained as a result of following the advice or tips offered throughout this blog.  Please consult a medical professional for any specific nutrition, diet advice.
+
 #### **How to Contact Us:**
 
 Write to us at:
@@ -104,6 +142,6 @@ What’s Cooking America
 
 6755 SW Mt. Bachelor Dr., Powell Butte, OR. 97753
 
-**Email:** nhartman@whatscookingamerica.net
+**Email:  **nhartman@whatscookingamerica.net
 
-This policy was last updated on May 16, 2018
+This policy was last updated on October 29, 2019.
