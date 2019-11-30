@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubsmag.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230142259id_/https%3A//scrubsmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubsmag.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201004106id_/https%3A//scrubsmag.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy - Scrubs | The Leading Lifestyle Nursing Magazine Featuring Inspirational and Informational Nursing Articles
 
