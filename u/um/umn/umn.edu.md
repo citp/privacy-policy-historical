@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626140008id_/https%3A//twin-cities.umn.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130165032id_/http%3A//twin-cities.umn.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | University of Minnesota Twin Cities
 
