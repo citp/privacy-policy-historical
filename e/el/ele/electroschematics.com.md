@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the electroschematics.com privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527084211id_/https%3A//www.electroschematics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electroschematics.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130034904id_/http%3A//www.aspencore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASPENCORE
 
