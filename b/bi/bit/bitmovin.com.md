@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitmovin.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324170417id_/https%3A//bitmovin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitmovin.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130162428id_/https%3A//bitmovin.com/privacy) for the most accurate reproduction.*
 
 # Bitmovin Privacy Policy - Bitmovin
 
@@ -142,7 +142,7 @@ We may amend this Policy from time to time, so please be sure to check back peri
 
 ## Contact Us
 
-If you have any questions about our privacy practices or this Policy, please contact us at [privacy@bitmovin.com](mailto:office@bitmovin.com) or by mail at Bitmovin, Inc., Attn: Stefan Lederer, 301 Howard Street, Suite 1800, San Francisco, CA 94105, USA.
+If you have any questions about our privacy practices or this Policy, please contact us at [privacy@bitmovin.com](mailto:office@bitmovin.com) or by mail at Bitmovin, Inc., Attn: Stefan Lederer, 41 Drumm Street, San Francisco, CA 94111, USA.
 
 Our Data Protection Officer, Christopher Mueller, can be contacted at
 
