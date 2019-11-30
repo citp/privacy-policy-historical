@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flockmail.com privacy policy that was archived on 2019-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190201125738id_/https%3A//support.flock.com/hc/en-us/articles/115004312874-Flock-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flockmail.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130112844id_/https%3A//support.flock.com/hc/en-us/articles/115004312874-Flock-Privacy-Policy) for the most accurate reproduction.*
 
 # Flock Privacy Policy – Flock
 
@@ -30,11 +30,11 @@ For the purposes of this Policy, the key terms are defined as follows:
   10. ‘Binding corporate rules’ means Personal Data protection policies which are adhered to by a controller or processor established on the territory of a Member State for transfers or a set of transfers of Personal Data to a controller or processor in one or more third countries within a group of undertakings, or group of enterprises engaged in a joint economic activity;
   11. ‘Sensitive data’ refers to the various categories of Personal Data identified by data privacy laws as requiring special treatment, including in some circumstances the need to obtain explicit consent from User. These categories include racial or ethnic origin, political opinions, religious, philosophical or other similar beliefs, membership of a trade union, physical or mental health, biometric or genetic data, sexual life or orientation, or criminal convictions and offences (including information about suspected criminal activities).
   12. ‘Supervisory authority’ means an independent public authority which is established by a Member State pursuant to Article 51;
-  13. ‘Supervisory authority concerned’ means a supervisory authority which is concerned by the processing of Personal Data because:
+  13. ‘Supervisory authority concerned’ means a supervisory authority which is concerned by the processing of Personal Data because: 
     1. the controller or processor is established on the territory of the Member State of that supervisory authority;
     2. Administrators/Users residing in the Member State of that supervisory authority are substantially affected or likely to be substantially affected by the processing; or
     3. a complaint has been lodged with that supervisory authority;
-  14. ‘Cross-border processing’ means either:
+  14. ‘Cross-border processing’ means either: 
     1. Processing of Personal Data which takes place in the context of the activities of establishments in more than one Member State of a controller or processor in the Union where the controller or processor is established in more than one Member State; or
     2. Processing of Personal Data which takes place in the context of the activities of a single establishment of a controller or processor in the Union but which substantially affects or is likely to substantially affect Users in more than one Member State.
     3. ‘Relevant and reasoned objection’ means an objection to a draft decision as to whether there is an infringement of this Regulation, or whether envisaged action in relation to the controller or processor complies with this Regulation, which clearly demonstrates the significance of the risks posed by the draft decision as regards the fundamental rights and freedoms of Users and, where applicable, the free flow of Personal Data within the Union;
