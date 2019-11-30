@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the positivepsychologyprogram.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417090221id_/https%3A//positivepsychologyprogram.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the positivepsychologyprogram.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130220615id_/https%3A//positivepsychology.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -
+# Privacy Policy - PositivePsychology.com
 
-Last edited on 11th June 2017
+Last edited on March 27th 2019
 
-In this Privacy and Cookie Policy, you will find information about the manner in which we use your personal data (“personal information”) and information about the cookies we place when you visit our website www.positivepsychologyprogram.com.
+In this Privacy and Cookie Policy, you will find information about the manner in which we use your personal data (“personal information”) and information about the cookies we place when you visit our website www.positivepsychology.com.
 
 ### **How do we use your personal information?**
 
@@ -47,7 +47,7 @@ We make use of service providers, such as the hosting provider of our website, a
 
 If you have purchased a product, we store your personal information as long as you have an account with us. The reason for this being that we will have to notify you when a product is updated. When you close your account, your personal information will be removed, save for information we are required to store pursuant to tax laws in the Netherlands, such as information relating to your purchase and transactions and our financial obligations during a period of seven years.
 
-The information you contribute to the community as well as your user name and profile information will be shown to other users as long as we offer the community services and as long as the information is relevant for the community.
+The information you contribute to the community, as well as your user name and profile information, will be shown to other users as long as we offer the community services and as long as the information is relevant for the community.
 
 For the cookie storage periods, see below, with regard to cookies.
 
@@ -85,14 +85,6 @@ Placed by: Google, Inc.
 Purposes: used for remarketing so that we can show you relevant advertisements when you visit other websites, based on your visit of our website.  
 Privacy Policy: https://www.google.com/policies/privacy/  
 Retention Period: 180 days  
-Do we ask your consent: yes, for this type of cookie we require your consent.  
-____________  
-Name cookie: Wistia  
-Type of cookie: tracking cookie  
-Placed by: Wistia, Inc.  
-Purposes: used for embedding video’s and tracking user behavior on websites, in order to show personalized advertisements.  
-Privacy Policy: https://wistia.com/privacy  
-Retention Period: 180 days  
 Do we ask your consent: yes, for this type of cookie we require your consent.
 
 ### **Can I turn the cookies off?**
@@ -109,7 +101,7 @@ Pursuant to EU privacy laws, you have – at least – the following rights:
   * under certain conditions to have the processing of your personal information restricted;
   * under certain conditions to object to the processing of your personal information;
   * when we use your personal information for direct marketing purposes, you can object to this unconditionally;
-  * (per 25 May 2018) the right to receive your personal information in a structured, commonly used and machine readable format, where it concerns personal information you have provided to us and the processing is based on your consent or required for the performance of a contract and is carried out by automated means; in that case you may also ask us to transfer your personal data to another processor, where technically feasible;
+  * (per 25 May 2018) the right to receive your personal information in a structured, commonly used and machine-readable format, where it concerns personal information you have provided to us and the processing is based on your consent or required for the performance of a contract and is carried out by automated means; in that case you may also ask us to transfer your personal data to another processor, where technically feasible;
   * you have the right to lodge a complaint with the supervisory authority.
 
 
@@ -122,4 +114,4 @@ Positive Psychology Program B.V.
 Gandhiplein 16  
 Maastricht, Limburg 6229HN  
 The Netherlands  
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+info@positivepsychology.com
