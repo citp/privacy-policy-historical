@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426010357id_/https%3A//www.postscapes.com/tou-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postscapes.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130200519id_/https%3A//www.postscapes.com/tou-privacy) for the most accurate reproduction.*
 
 # Site Terms of Use and Privacy Statement | Postscapes
 
