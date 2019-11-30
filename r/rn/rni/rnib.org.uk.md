@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627104027id_/https%3A//www.rnib.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnib.org.uk privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130092828id_/https%3A//www.rnib.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - RNIB - See differently
 
@@ -6,7 +6,7 @@
 
 This policy is written in accordance with current data protection legislation and the Privacy and Electronic Communications Regulation (PECR). If you have any questions about it, please contact our Data Protection Compliance Officer using the following details:
 
-  *  **Email:**  [dataprotectionofficer@rnib.org.uk](mailto:dataprotectionofficer@rnib.org.uk)
+  *  **Email:**  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7713160316070518031214031e18191811111e1412053705191e155918051059021c)
 
   *  **Address:**  Data Protection Officer, Royal National Institute of Blind People, 105 Judd Street, London WC1H 9NE
 
@@ -84,7 +84,7 @@ The databases that we keep our supporter information on are held securely within
 
 You can ask us at any time to provide you with a copy of the information we hold about you, including where and how we obtained it, why we are keeping it and what we are using it for. This is called a “subject access request” and you can make one by contacting the Data Protection Officer using the following details:
 
-  *  **Email:**  [dataprotectionofficer@rnib.org.uk](mailto:dataprotectionofficer@rnib.org.uk)
+  *  **Email:**  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4d0d5c0d5c4c6dbc0d1d7c0dddbdadbd2d2ddd7d1c6f4c6daddd69adbc6d39ac1df)
 
   *  **Address:**  Data Protection Officer, Royal National Institute of Blind People, 105 Judd Street, London WC1H 9NE
 
@@ -101,7 +101,7 @@ We may need to ask you to provide copies of identity documents to make sure that
 
 Please keep your information up to date by letting us know of any changes:
 
-  *  **Email:**  [helpline@rnib.org.uk](mailto:helpline@rnib.org.uk)
+  *  **Email:**  [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8b0bdb4a8b4b1b6bd98aab6b1baf6b7aabff6adb3)
 
   *  **Phone:**  0303 123 9999
 
@@ -112,7 +112,7 @@ Please keep your information up to date by letting us know of any changes:
 
 ### If you no longer want to hear from us
 
-If you decide you no longer want to hear about our news, products, services, campaigning, volunteering, or fundraising activities, you can ask us to stop contacting you by emailing [helpline@rnib.org.uk](mailto:helpline@rnib.org.uk), calling 0303 123 9999 or writing to us at Royal National Institute of Blind People, 105 Judd Street, London WC1H 9NE. You can also unsubscribe from RNIB enewsletters at any time. Just click on the "Unsubscribe" link in any of the email newsletters you receive. It appears on every enewsletter we send out and is located right at the bottom. If you are receiving care or support services from us or you use our online shop, we may still need to get in touch for administrative reasons about the services or products we provide to you.
+If you decide you no longer want to hear about our news, products, services, campaigning, volunteering, or fundraising activities, you can ask us to stop contacting you by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#39515c55495550575c794b57505b17564b5e174c52), calling 0303 123 9999 or writing to us at Royal National Institute of Blind People, 105 Judd Street, London WC1H 9NE. You can also unsubscribe from RNIB enewsletters at any time. Just click on the "Unsubscribe" link in any of the email newsletters you receive. It appears on every enewsletter we send out and is located right at the bottom. If you are receiving care or support services from us or you use our online shop, we may still need to get in touch for administrative reasons about the services or products we provide to you. If you don't want us to contact you anymore by SMS you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1472617a7066757d677d7a7354667a7d763a7b66733a617f), call us on 0303 123 9999  (Monday to Friday, 9am to 5pm) or write to Fundraising, RNIB, 105 Judd Street, London, WC1H 9NE.
 
 We may not be able to completely delete all of your information from our systems, as there are some records we must keep for legal and regulatory requirements. These include Gift Aid records, sales records, case files from our care and support services, “do not call” lists and complaint files. If you would like to know more about how and why we keep your information, you can ask us for more details by contacting the Data Protection Officer using the addresses provided above.
 
