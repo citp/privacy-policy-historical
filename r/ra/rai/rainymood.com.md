@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainymood.com privacy policy that was archived on 2019-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190312001022id_/http%3A//www.rainymood.com/privacy-app.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainymood.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130115328id_/https%3A//www.rainymood.com/privacy-app.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -215,7 +215,7 @@ We may use third-party Service Providers to show advertisements to you to help s
 
 Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
 
-You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <http://www.google.com/ads/preferences/>
+You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/](https://www.google.com/ads/preferences/)
 
 
 
@@ -228,7 +228,7 @@ Plain Theory, Inc. uses remarketing services to advertise on third party website
 
 Google AdWords remarketing service is provided by Google Inc.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: <http://www.google.com/settings/ads>
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](https://www.google.com/settings/ads)
 
 Google also recommends installing the Google Analytics Opt-out Browser Add-on - <https://tools.google.com/dlpage/gaoptout> \- for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
