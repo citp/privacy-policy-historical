@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingoapp.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625031743id_/https%3A//www.kingoapp.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingoapp.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130141051id_/https%3A//www.kingoapp.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Kingo Android Root
 
@@ -11,7 +11,7 @@ Kingo Team is committed to ensuring that your privacy is protected. Should we as
  **We may collect the following information:**
 
   * where you came from and where you click on the site
-  * IP address, browser configuration, and other [Google Analytics](http://www.google.com/intl/en/analytics/privacyoverview.html) tracking data
+  * IP address, browser configuration, and other [Google Analytics](https://www.google.com/intl/en/analytics/privacyoverview.html) tracking data
 
 
 
