@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levygorvy.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628212651id_/https%3A//www.levygorvy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levygorvy.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130010336id_/https%3A//www.levygorvy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Lévy Gorvy
 
@@ -59,9 +59,9 @@ We do not directly track any user information. Any user activity is tracked thro
 • page response times and any download errors;  
 • other technical information relating to end user device, such as IP address or browser plug-in.
 
-You can always choose to enable or disable cookies in your internet browser. By default, most internet browsers accept cookies but this can be changed. For further details, please consult the help menu in your internet browser. For further information about cookies, please see: [www.allaboutcookies.org](http://www.allaboutcookies.org/), and how to adjust your browser settings here: [www.allaboutcookies.org/managecookies](http://www.allaboutcookies.org/manage-cookies/).
+You can always choose to enable or disable cookies in your internet browser. By default, most internet browsers accept cookies but this can be changed. For further details, please consult the help menu in your internet browser. For further information about cookies, please see: [www.allaboutcookies.org](https://www.allaboutcookies.org/), and how to adjust your browser settings here: [www.allaboutcookies.org/managecookies](https://www.allaboutcookies.org/manage-cookies/).
 
-If you would like to opt-out of Google Analytics monitoring your behaviour on our Website please use this link: [tools.google.com/dlpage/gaoptout/](http://www.tools.google.com/dlpage/gaoptout/).
+If you would like to opt-out of Google Analytics monitoring your behaviour on our Website please use this link: [tools.google.com/dlpage/gaoptout/](https://www.tools.google.com/dlpage/gaoptout/).
 
  **Information about you collected from Third Parties  **
 
