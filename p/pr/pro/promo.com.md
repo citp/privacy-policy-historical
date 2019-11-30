@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330200440id_/https%3A//promo.com/privacy-policy%3Futm_content%3Dheader) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promo.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130053845id_/https%3A//promo.com/privacy-policy%3Futm_content%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Promo.com | Visual Content Creation Platform
 
