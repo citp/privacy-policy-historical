@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oasys-software.com privacy policy that was archived on 2018-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180203013044id_/http%3A//www.oasys-software.com/customer-service/terms-and-conditions.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasys-software.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130201443id_/https%3A//www.oasys-software.com/privacy-policy) for the most accurate reproduction.*
 
-# Oasys Software - Terms & Conditions
-
-* * *
+# Privacy Policy - Oasys
 
 We may change this privacy notice from time to time by updating this page.
 
@@ -15,19 +13,19 @@ When you use this website, we may collect the following information:
 
 
 
-We do this by using cookies, which are small files that help us track how our visitors use the website and enable us to understand where we can improve your experience. If you would like to find out which cookies we use and the information they track see our [Cookies Policy](http://www.oasys-software.com/customer-service/cookies-privacy.html).
+We do this by using cookies, which are small files that help us track how our visitors use the website and enable us to understand where we can improve your experience. If you would like to find out which cookies we use and the information they track see our [Cookies Policy](http://www.oasys-software.com/customer-service/cookies-privacy.html).
 
 Once you submit or register information through our website we will know who you are and your activities on this website and information about you and/or your company may be recorded on our systems. For example, we may ask for personal information when you download our software including:
 
-  * your name 
-  * company name 
+  * your name
+  * company name
   * email address
-  * postal address 
-  * telephone number 
+  * postal address
+  * telephone number
   * country where you are based
   * Social media ID
-  * your comments/questions 
-  * services/markets you are interested in 
+  * your comments/questions
+  * services/markets you are interested in
 
 
 
@@ -37,15 +35,15 @@ We may also collect personal information from telephone calls and/or other corre
 
 The information we capture is used for various purposes. The main purpose is to provide you with our services (whether available via the website or offline). We also use the information for:
 
-  * website development 
-  * understanding how our visitors interact on the website 
-  * understanding what our clients are interested in 
-  * understanding what potential clients are interested in 
-  * dealing with enquiries/concerns 
-  * marketing our services and people to you 
+  * website development
+  * understanding how our visitors interact on the website
+  * understanding what our clients are interested in
+  * understanding what potential clients are interested in
+  * dealing with enquiries/concerns
+  * marketing our services and people to you
   * market research
-  * service development 
-  * internal record keeping 
+  * service development
+  * internal record keeping
 
 
 
@@ -65,35 +63,29 @@ In some circumstances, we may have to disclose your personal information by law,
 
 ## How to get copies of or amend the information we have collected
 
-You may request details of the personal information that we hold about you under data protection laws. If you would like a copy of the information held about you please write to us at [oasys@arup.com](mailto:oasys@arup.com) or at: Data Protection Officer, 13 Fitzroy Street, London, UK, W1T 4BQ. Please note that we may charge a small £10 administration fee for information requests.
+You may request details of the personal information that we hold about you under data protection laws. If you would like a copy of the information held about you please write to us at [oasys@arup.com](mailto:oasys@arup.com) or at: Data Protection Officer, 13 Fitzroy Street, London, UK, W1T 4BQ. Please note that we may charge a small £10 administration fee for information requests.
 
 If you think any information we have about you is incorrect or incomplete, please email us as soon as possible. We will correct or update any information as soon as we can.
 
-[ top ]
-
-* * *
+[ [top](https://web.archive.org/terms-conditions/) ]
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect, including locked cabinets, electronic password protection and pass card access to buildings.
 
-If at any point you suspect or receive a suspicious communication from someone suggesting they work for Oasys or a website claiming to be affiliated with Oasys, please forward the communication to us or report the incident by email to [oasys@arup.com](mailto:oasys@arup.com) or in writing to Oasys, 13 Fitzroy Street, London, UK, W1T 4BQ as soon as possible.
+If at any point you suspect or receive a suspicious communication from someone suggesting they work for Oasys or a website claiming to be affiliated with Oasys, please forward the communication to us or report the incident by email to [oasys@arup.com](mailto:oasys@arup.com) or in writing to Oasys, 13 Fitzroy Street, London, UK, W1T 4BQ as soon as possible.
 
-[ top ]
-
-* * *
+[ [top](https://web.archive.org/terms-conditions/) ]
 
 The contents of this web site are protected by copyright and other intellectual property rights under international conventions. No copying of any words, images, graphic representations or other information contained in this web site is permitted without the prior written permission of the webmaster for this site.
 
 Oasys accepts no responsibility for the content of any external site that links to or from this site.
 
-[ top ]
-
-* * *
+[ [top](https://web.archive.org/terms-conditions/) ]
 
 ## Terms and Conditions of Purchase
 
-The full conditions of purchase and maintenance for all Oasys software are set out in the [Oasys Software Licence and Support Agreement](http://www.oasys-software.com/media/Terms&Conditions.pdf). All prices are subject to TAX at the current rate.
+The full conditions of purchase and maintenance for all Oasys software are set out in the [Oasys Software Licence and Support Agreement](https://web.archive.org/wp-content/uploads/2019/10/Oasys-Software-Licence-and-Support-Agreement-Oct-2019.pdf). All prices are subject to TAX at the current rate.
 
-Prices and specifications are subject to change without notice - please ask for a written quotation.
+Prices and specifications are subject to change without notice – please ask for a written quotation.
 
 Although every care has been taken to ensure the accuracy of all information contained herein, the contents do not form or constitute a representation, warranty, or part of any contract.
 
@@ -103,9 +95,9 @@ Oasys keeps copies of all superseded versions of its terms and conditions.
 
 ## Maintenance & Support Services
 
-Twelve months support and maintenance is included with most products. Thereafter maintenance is typically 20% of the current sales price.
+Support and maintenance is included with all subscription licences for their full duration.
 
-An annual maintenance service is available for most programs after the first year.
+Annual maintenance contracts are available for software under a perpetual licence, prices are based on a percentage of the most recent list price.
 
 This service includes:
 
@@ -114,5 +106,3 @@ This service includes:
   * personalised output header for many products
 
 
-
-[ top ]
