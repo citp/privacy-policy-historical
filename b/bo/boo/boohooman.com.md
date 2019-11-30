@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boohooman.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507102756id_/https%3A//www.boohooman.com/page/privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohooman.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130162507id_/https%3A//www.boohooman.com/page/privacy-notice.html) for the most accurate reproduction.*
 
-# Boohoo MAN UK
+# Privacy Notice - boohooMAN
 
 Here at boohoo.com UK Ltd (‘boohooMAN’) we are committed to protecting and respecting the privacy of your personal data. This privacy notice explains how your data is collected, used, transferred and disclosed by boohooMAN. It applies to data collected when you use our websites, iOS and android applications, when you interact with us through social media, email, or phone, or when you participate in our competitions or events. It covers:
 
@@ -192,7 +192,7 @@ We may disclose and share your personal data with the parties set out below:
 
 
     * third party service providers that we engage to provide IT systems and software, and to host our website; 
-    * third party payment processing services (including Worldpay, Paypal, and in certain regions, Klarna and Afterpay (please see our T&C’s [https://www.afterpay.com/terms-of-service ](https://www.afterpay.com/terms-of-service) for more information) to process your payment to us. boohooMAN does not store your payment information. Your payment details are provided to the payment processing service you have selected, who are compliant with necessary regulations. These third party payment providers process your data as a data controller;
+    * third party payment processing services (including Worldpay, Adyen, Paypal, and in certain regions, Klarna and Clearpay (please see our [T&C’s](http://www.boohooman.com/page/terms-and-conditions.html) for more information) to process your payment to us. boohooMAN does not store your payment information. Your payment details are provided to the payment processing service you have selected, who are compliant with necessary regulations. These third party payment providers process your data as a data controller;
     * third party service providers that we engage to deliver goods you have ordered;
     * third party service providers that we engage to send emails and postal mail on our behalf including in relation to incomplete orders or abandoned baskets, or marketing communications, to provide data cleansing services and to provide marketing and advertising services;
     * analytics and search engine providers that assist us in the improvement and optimisation of our website;
@@ -200,7 +200,7 @@ We may disclose and share your personal data with the parties set out below:
 
 
   * to any third party to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
-  * to protect our customers and website from fraud and theft;
+  * to protect our customers, boohoo group companies and website from fraud and theft, we may share personal data that is required to make identity checks and personal data that we obtain from making identity checks (including data relating to your age, name and location), together with account information, with other boohoo group companies and with third party organisations (including law enforcement agencies), involved in fraud prevention and detection and credit risk reduction. Please note that the other boohoo group companies and these third parties may retain a record of the information that we provide to them for this purpose;
     * we may share your personal data with Ravelin and/or Risk Guardian and/or other fraud prevention and analysis service providers, in order to carry out fraud prevention checks on our behalf. If personal data is provided to Ravelin, Ravelin will also use this personal data to improve its service and machine learning to improve its automated processing. A copy of Ravelin's privacy notice can be found at: [ https://www.ravelin.com/privacy-policy-new ](https://www.ravelin.com/privacy-policy-new) which explains how Ravelin will use your personal data for these purposes; and
     * we may further share personal data that is required to make identity checks and personal data that we obtain from making identity checks (including data relating to your age, name and location), together with account information, with organisations (including law enforcement agencies), involved in fraud prevention and detection and credit risk reduction. Please note that these third parties may retain a record of the information that we provide to them for this purpose;
   * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or
@@ -277,7 +277,7 @@ We welcome feedback and are happy to answer any questions you may have about you
 
 Please send any questions, comments or requests for more information to our nominated representative and Data Protection Officer is Keri Devine, who can be contacted at [DPO@boohoo.com](mailto:DPO@boohoo.com).
 
-This Privacy Notice was last updated on 28th November 2018 (Version 1.5 boohooMAN)
+This Privacy Notice was last updated on 20th September 2019 (Version 1.6 boohooMAN)
 
 Boohoo.com UK Limited,
 
