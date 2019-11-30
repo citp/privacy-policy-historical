@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilglitz.in privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410002444id_/https%3A//tamilglitz.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilglitz.in privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130150923id_/https%3A//tamilglitz.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TamilGlitz
 
@@ -14,7 +14,7 @@ Felix also collects potentially personally-identifying information like Internet
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Felix’s websites choose to interact with Felix in ways that require Felix to gather personally-identifying information. The amount and type of information that Felix gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [TamilGlitz.in](http://tamilglitz.in/) to provide a username and email address. Those who engage in transactions with Felix are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Felix collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Felix. Felix does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Felix’s websites choose to interact with Felix in ways that require Felix to gather personally-identifying information. The amount and type of information that Felix gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [TamilGlitz.in](https://tamilglitz.in/) to provide a username and email address. Those who engage in transactions with Felix are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Felix collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with Felix. Felix does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
