@@ -1,37 +1,43 @@
-> *The following text is extracted and transformed from the ukip.org privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624045219id_/http%3A//www.ukip.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukip.org privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130190055id_/https%3A//www.ukip.org/ukip-page.php%3Fid%3D03) for the most accurate reproduction.*
 
-# Privacy Policy - UKIP
+# 
 
-The UK Independence Party knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by us when you use our online services, how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources.
+The UK Independence Party (UKIP) collects, processes and retains data for use in political campaigning and associated activities. UKIP also retains and processes data that is necessary for the administration of its own internal governance and membership systems. UKIP takes its responsibilities in relation to data protection very seriously, and we are committed to placing the rights of individuals at the centre of how we collect, hold and process personal information.
 
-### Information We Collect
+As a UK registered political party, the UKIP has an important role in engaging with voters as part of the democratic process. Data protection law recognises that it is in the public interest for political parties to collect and process personal information, including about political opinions in order to fulfil this important role.
 
-User-Provided Information: You provide us information about yourself, such as your name and e-mail address, if you register on http://ukip.org (including by “following,” “liking,” linking your account to http://ukip.org, etc., on a third party website or network). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. We may also retain any messages you send through http://ukip.org. You may provide us information in user content you post to http://ukip.org.
+We collect data in a number of circumstances, such as when:
 
-### Third Party Services
+  * You complete a form on this website, or if you fill out a form delivered by a UKIP representative.
+  * You have a conversation on the doorstep or over the phone with a UKIP representative.
+  * You interact with us online, including on social media channels such as Facebook or Twitter
+  * You join the party as a member, affiliated or registered supporter, donate or sign up to volunteer for us.
 
-The UK Independence Party uses the NationBuilder platform to organise our community of members, supporters and prospects. You can read more about that company and its features and polices at [NationBuilder.com](http://nationbuilder.com/). When you visit http://ukip.org, NationBuilder may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and lets NationBuilder help you log in faster and enhance your navigation through our website. A cookie does not collect personal information about you. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of http://ukip.org may not function properly if the ability to accept cookies is disabled. You can read more about how the NationBuilder service interacts with and protects your information at [nationbuilder.com/privacy](http://nationbuilder.com/privacy) and [nationbuilder.com/confidentiality](http://nationbuilder.com/confidentiality).
 
-The UK Independence Party uses Google Analytics to help understand use of http://ukip.org. This service collects the information sent by your browser as part of a web page request, including cookies and your IP address, and their use of it is governed by their Privacy Policy.
 
-### How We Use Your Information
+UKIP also collects and analyses a range of other information about you and the area in which you live, including the electoral register, publicly available data such as census information and election results, estimates and segmentation of personal information, information about whether our efforts to contact you in person or over the telephone have been successful, and survey data which you may have directly provided to us or a third party.
 
-We use the personal information you submit to operate, maintain, and provide to you the features and functionality of http://ukip.org.
+We analyse and use the data we collect in a variety of ways, and also combine them (sometimes referred to as “profiling”), in order to:
 
-By providing http://ukip.org your email address (including by “following,” “liking,” linking your account to http://ukip.org, etc., on a third party website or network), you consent to our using the email address to send you http://ukip.org related notices, including any notices required by law, in lieu of communication by postal mail. You also agree that we may send you notifications of activity on http://ukip.org to the email address you give us, in accordance with any applicable privacy settings. We may use your email address to send you other messages, such as newsletters, changes to features of http://ukip.org, or other information. If you do not want to receive such email messages, you may opt out using the unsubscribe button at the bottom of any email.
+  * contact you to canvass your political support and ascertain your voting intentions
+  * manage the internal governance of the party and our membership database
+  * communicate with you about our policies, campaigns, events and opportunities to get involved with the party and understand what issues are most likely to be relevant to each elector and each area,
+  * decide to whom we should send our campaign materials and messages,
+  * choose which messages and content we put on the materials we send to you or show you on social media; to ensure that donations you make to us are lawful, and to allow us to estimate which way you might vote in elections and referendums, and how likely you are to vote at all,
+  * help us understand in which areas, at which times of day, and with which people we should focus our campaigning efforts and inform the development of our policy position for future elections and referendums at every level.
 
-Following termination or deactivation of your http://ukip.org account, http://ukip.org may retain your profile information and user content for a reasonable time for archival purposes. Furthermore, http://ukip.org may retain and continue to use indefinitely all information (including user content) contained in your communications to other users or posted to public or semi-public areas of http://ukip.org after termination or deactivation of your account.
 
-http://ukip.org reserves the right, but has no obligation, to monitor the user content you post on http://ukip.org. We reserve the right to remove any such information or material for any reason or no reason, including without limitation if in our sole opinion such information or material violates, or may violate, any applicable law or to protect or defend our rights or property or those of any third party. http://ukip.org also reserves the right to remove information upon the request of any third party.
 
-Any information you provide, including your email address, will not be passed onto any third party (other than firms working on our behalf), except where you have signed a petition or similar, where the petition will be presented to a third party.
+We have a statutory right to some of this information as a registered political party in Britain by virtue of regulations made under the Representation of the People Acts, the Political Parties Elections and Referendums Act, and connected legislation. The data we hold to which we do not have a statutory entitlement is either data which is made available for use in a way that permits its use by political parties (for example census data, national land registry data, local election results, or data released through a Parliamentary Question or Freedom of Information [FOI] request where the data released in response to that question or request is not restricted from such reuse.
 
-### Queries
+When you join UKIP or sign up as a supporter, we will collect, hold and process personal information in order to service the contract that you enter into with the party in such circumstances.
 
-[You can read UKIP's Data Protection Policy here.](https://d3n8a8pro7vhmx.cloudfront.net/ukipdev/pages/286/attachments/original/1449501668/UKIP_Data_Protection_Policy.pdf?1449501668 "UKIP Data Protection Policy")
+On some occasions, such as when you sign up to receive emails from us or agree to volunteer for the party, we will collect, hold and process personal information on the basis of your explicit consent. You can withdraw this consent at any time.
 
-If you have any queries about our privacy policy you may contact us:
+In all cases, we will be clear and transparent about how we use your personal information, only use it for the purposes for which it has been obtained and ensure that appropriate safeguards are in place to maintain its security.
 
-UKIP, Lexdrum House, King Charles Business Park, Newton Abbot, Devon TQ12 6UT
+You have a number of rights in relation to your personal information. Further detail is available in the GDPR section of this policy.
 
-Or you can email mail@ukip.org
+We collect data about the activity of visitors to many of our websites. This data is not used to identify you personally, but it gives us aggregate level information on user activity that helps us improve the functionality and experience of the website. The data that is collected may include the date and time you visit the website, information on your location inferred from your IP address, and the content you view. Click here to find out more about Google Analytics and how it collects and processes data. If you want to opt-out of Google Analytics and prevent your website visit data from being used by us, then you can click below to install the Google Analytics opt-out. 
+
+[Google Analytics Opt-Out](https://tools.google.com/dlpage/gaoptout)
