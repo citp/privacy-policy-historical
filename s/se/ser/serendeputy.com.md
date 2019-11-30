@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serendeputy.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324015145id_/https%3A//serendeputy.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serendeputy.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130190038id_/https%3A//serendeputy.com/about/privacy) for the most accurate reproduction.*
 
 # Serendeputy Privacy Policy | Serendeputy: Newsfeed Engine for the open web
 
@@ -12,10 +12,9 @@ When you visit the Site, we automatically collect certain information about your
 
 We collect Device Information using the following technologies:
 
-  * “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. These are what prevent you from having to sign in every time you come to the site. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
-  * “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+**“Cookies”** are data files that are placed on your device or computer and often include an anonymous unique identifier. These are what prevent you from having to sign in every time you come to the site. For more information about cookies, and how to disable cookies, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-
+**“Log files”** track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
 **Google Analytics**. We use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here: [ https://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/). You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>. 
 
