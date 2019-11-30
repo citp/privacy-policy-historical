@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airliners.net privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614013039id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dairliners.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airliners.net privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130221246id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dairliners.net) for the most accurate reproduction.*
 
 # 
 
