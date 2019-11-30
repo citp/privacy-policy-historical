@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the miramarairshow.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618221602id_/http%3A//www.mccsmiramar.com/privacy-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miramarairshow.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130204841id_/http%3A//www.mccsmiramar.com/privacy-security-notice) for the most accurate reproduction.*
 
 # Privacy & Security Notice – Marine Corps Community Services | MCAS Miramar
+
+Skip to content
+
+Marine Corps Community Services | MCAS Miramar
+
+[ ](http://www.mccsmiramar.com/)
 
 Privacy & Security Notice[John](http://www.mccsmiramar.com/author/john-evangelista/ "Posts by John")2018-05-15T10:11:33-07:00
 
@@ -18,3 +24,5 @@ Privacy & Security Notice[John](http://www.mccsmiramar.com/author/john-evangelis
 
 
 If you have any questions or comments about the information presented here, please contact us at (858) 577-6365.
+
+#### WordPress Download Manager
