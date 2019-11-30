@@ -1,31 +1,118 @@
-> *The following text is extracted and transformed from the ifbappliances.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025195330id_/http%3A//www.ifbappliances.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifbappliances.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130171207id_/https%3A//www.ifbappliances.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Personal Information
+We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and customer information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
-IFB respects your privacy on the Internet. Whenever and wherever possible, IFB will treat the information about you received on the Internet with utmost care and confidentiality. IFB uses information provided by you to measure the use of our site and to improve its content. We may use this information to respond to your requests, or to contact you to advise of new products, services or promotions via post, e-mail or phone,. If you place an order for a product, request a service or submit content to this site, we may need to contact you for additional information. We will not sell, share, or rent this information to others in ways not specified or disclosed in this statement. The personal information we collect is used only to respond to your enquiry, process an order or allow you to access specific account information. At times, cookies may be used to provide you with certain information. A cookie is a tiny element of data that a Website can send to your browser. It may then be stored on your hard drive so we can recognise you when you return. You may set your browser to notify you when you receive a cookie.
+Note: 
 
-#### IFB's Privacy Policy for The Internet
+Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
-IFB is and attempts to be sensitive to your privacy on the Internet. Whenever possible, IFB will attempt to treat the information about you we receive on the Internet with care deemed reasonable under the circumstances. IFB uses information provided by you (if any) to measure the use of our site and to improve the content of our site. The personal information we may collect is used only by us to respond to your inquiry, process an order or allow you to access specific account information. Occasionally, we may make the e-mail addresses, of those who provide information, available to other IFB companies which have equal or better privacy policy than we do. At times cookies may be used to provide you with certain information. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may set your browser to notify you when you receive a cookie.
+By visiting this Website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree please do not use or access our Website.
 
-#### Surveys and Competitions
+By mere use of the Website, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the Terms of Use.
 
-From time to time, our site may request information from users via surveys or competitions. Participation in these surveys or competitions is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and address) and demographic information (such as gender, age). Contact information will be used to notify the winners and to award prizes. Survey information will be used for purposes of monitoring or improving the functionality and user satisfaction of this site. We do not share aggregated demographic information with our partners or advertisers.
+### 1\. Collection of Personally Identifiable Information and other Information
 
-#### Partnerships
+When you use our Website, we collect and store your personal information which is provided by you from time to time. Our primary goal in doing so is to provide you a safe, efficient, smooth and customized experience. This allows us to provide services and features that most likely meet your needs, and to customize our Website to make your experience safer and easier. More importantly, while doing so we collect personal information from you that we consider necessary for achieving this purpose.
 
-Occasionally we may work with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that will be necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services like offers, mailers etc.
+In general, you can browse the Website without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature on the Website. We may automatically track certain information about you based upon your behaviour on our Website. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve our users. This information is compiled and analysed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our Website or not), which URL you next go to (whether this URL is on our Website or not), your computer browser information, and your IP address.
 
-#### Changes
+We use data collection devices such as "cookies" on certain pages of the Website to help analyse our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available using a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Website and you may be required to re-enter your password more frequently during a session.
 
-We may change this Privacy Policy, or change, modify or withdraw access to this site, or the content of these pages at any time with or without notice.
+Additionally, you may encounter "cookies" or other similar devices on certain pages of the Website that are placed by third parties. We do not control the use of cookies by third parties.
 
-#### External Links
+If you choose to buy on the Website, we collect information about your buying behaviour.
 
-IFB's Website may contain links to other sites, whilst we try to link only to sites that share our high standards and our respect for privacy, we cannot be responsible for the content or the privacy practices employed by other sites.
+If you transact with us, we collect some additional information, such as a billing address, a credit / debit card number and a credit / debit card expiration date and/ or other payment instrument details and tracking information from cheques or money orders.
 
-#### How to contact IFB about this privacy policy?
+If you choose to post messages on our message boards, chat rooms or other message areas or leave feedback, we will collect that information you provide to us. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law.
 
-It is important to us at IFB to hear what visitors have to say about our services, and our policies. If site visitors have any questions, concerns, or complaints about this Privacy Policy, or want to let us know what they think about IFBappliances.com or IFB Products, they can use the "Contact us" form.
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Website, we may collect such information into a file specific to you.
+
+We collect personally identifiable information (email address, name, phone number, credit card / debit card / other payment instrument details, etc.) from you when you set up a free account with us. While you can browse some sections of our Website without being a registered member, certain activities (such as placing an order) do require registration. We do use your contact information to send you offers based on your previous orders and your interests.
+
+  
+
+
+### 2\. Use of Demographic / Profile Data / Your Information
+
+We use personal information to provide the services you request. To the extent we use your personal information to market to you, we will provide you the ability to opt-out of such uses. We use your personal information to resolve disputes; troubleshoot problems; help promote a safe service; collect money; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our terms and conditions; and as otherwise described to you at the time of collection.
+
+With your consent, we will have access to your SMS, contacts in your directory, call history, location and device information and we may also collect and store your PAN and Aadhaar data to check your eligibility for certain products/services including but not limited to providing credit) being offered by us, our affiliates or our lending partners. In the event that consent to such data is withdrawn in the future, we will stop collection of such data but continue to store the data (save for Aadhaar data) and use it for internal purposes to further improve our services.
+
+In our efforts to continually improve our product and service offerings, we collect and analyse demographic and profile data about our users' activity on our Website.
+
+We identify and use your IP address to help diagnose problems with our server, and to administer our Website. Your IP address is also used to help identify you and to gather broad demographic information.
+
+We will occasionally ask you to complete optional online surveys. These surveys may ask you for contact information and demographic information (like zip code, age, or income level). We use this data to tailor your experience at our Website, providing you with content that we think you might be interested in and to display content according to your preferences.
+
+  
+
+
+#### Cookies
+
+A "cookie" is a small piece of information stored by a web server on a web browser so it can be later read back from that browser. Cookies are useful for enabling the browser to remember information specific to a given user. We place both permanent and temporary cookies in your computer's hard drive. The cookies do not contain any of your personally identifiable information.
+
+  
+
+
+### 3\. Sharing of personal information
+
+We may share personal information with our other corporate entities and affiliates. These entities and affiliates may market to you as a result of such sharing unless you explicitly opt-out.
+
+We may disclose personal information to third parties. This disclosure may be required for us to provide you access to our Services, to comply with our legal obligations, to enforce our User Agreement, to facilitate our marketing and advertising activities, or to prevent, detect, mitigate, and investigate fraudulent or illegal activities related to our Services. We do not disclose your personal information to third parties for their marketing and advertising purposes without your explicit consent.
+
+We may disclose personal information if required to do so by law or in the good faith belief that such disclosure is reasonably necessary to respond to subpoenas, court orders, or other legal process. We may disclose personal information to law enforcement offices, third party rights owners, or others in the good faith belief that such disclosure is reasonably necessary to: enforce our Terms or Privacy Policy; respond to claims that an advertisement, posting or other content violates the rights of a third party; or protect the rights, property or personal safety of our users or the general public.
+
+We and our affiliates will share / sell some or all of your personal information with another business entity should we (or our assets) plan to merge with, or be acquired by that business entity, or re-organization, amalgamation, restructuring of business. Should such a transaction occur that other business entity (or the new combined entity) will be required to follow this privacy policy with respect to your personal information.
+
+  
+
+
+### 4\. Links to Other Sites
+
+Our Website links to other websites that may collect personally identifiable information about you. Ifbappliances.com is not responsible for the privacy practices or the content of those linked websites.
+
+  
+
+
+### 5\. Security Precautions
+
+Our Website has stringent security measures in place to protect the loss, misuse, and alteration of the information under our control. Whenever you change or access your account information, we offer the use of a secure server. Once your information is in our possession we adhere to strict security guidelines, protecting it against unauthorized access.
+
+  
+
+
+### 6\. Choice/Opt-Out
+
+We provide all users with the opportunity to opt-out of receiving non-essential (promotional, marketing-related) communications from us on behalf of our partners, and from us in general, after setting up an account.
+
+If you want to remove your contact information from all ifbappliances.com lists and newsletters, please visit unsubscribe
+
+  
+
+
+### 7\. Advertisements on Ifbappliances.com
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+  
+
+
+### 8\. Your Consent
+
+By using the Website and/ or by providing your information, you consent to the collection and use of the information you disclose on the Website in accordance with this Privacy Policy, including but not limited to Your consent for sharing your information as per this privacy policy. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+  
+
+
+### 9\. Grievance Officer
+
+In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
+
+Name:Head Consumer Care Cell
+
+Phone:+91 832 3044800/801
+
+Email:customerservice@ifbglobal.com
