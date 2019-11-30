@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the andymark.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526214544id_/https%3A//www.andymark.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andymark.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130014611id_/https%3A//www.andymark.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Resources - AndyMark Inc.
+# Privacy Policy - Resources - AndyMark Inc
 
 ### What information do we collect?
 
