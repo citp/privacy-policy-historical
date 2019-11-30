@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323065012id_/https%3A//www.teaching.com.au/page/mta-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teaching.com.au privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130211017id_/https%3A//www.teaching.com.au/page/mta-privacy) for the most accurate reproduction.*
 
 # Modern Teaching Aids Privacy Policy
 
@@ -126,7 +126,7 @@ We keep personal information only for as long as is reasonably necessary for the
 
 Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser (if you allow that) that enables the sites or service providers systems to recognise your browser and capture and remember certain information. Our websites use cookies to anonymously distinguish you from other users of our services and to provide increased functionality when you are using our services. This helps us to provide you with a better experience when you browse our websites and also allows us to improve our websites and our services. Unless you have adjusted your browser settings (where possible) to refuse cookies, our systems will issue cookies as soon you visit our websites or access other services. If you have switched off cookies then some of the functionality of our services may not be available to you. The cookies that we use on our websites only collect anonymous information to optimise our services, and do not collect personal information.
 
-To find out more about cookies including how to disable/enable and delete them at the following website [www.aboutcookies.org](https://web.archive.org/web/20190323065012id_/https%3A//www.teaching.com.au/page/www.aboutcookies.org). If you use your browser settings to block all cookies you may not be able to access all or parts of our sites, or you may experience reduced functionality when accessing certain services.
+To find out more about cookies including how to disable/enable and delete them at the following website [www.aboutcookies.org](https://web.archive.org/web/20191130211017id_/https%3A//www.teaching.com.au/page/www.aboutcookies.org). If you use your browser settings to block all cookies you may not be able to access all or parts of our sites, or you may experience reduced functionality when accessing certain services.
 
 You have a right to access your personal information which we hold about you. If you make a request to access your personal information, we will ask you to verify your identity and specify the information you require.
 
