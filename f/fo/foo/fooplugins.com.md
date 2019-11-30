@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fooplugins.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414015339id_/https%3A//fooplugins.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooplugins.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130172432id_/https%3A//fooplugins.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FooPlugins
+# FooPlugins Privacy Policy - FooPlugins
 
-This Privacy Policy governs the manner in which FooPlugins LLC. collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://fooplugins.com website (“Site”). This privacy policy applies to the Site and all products and services offered by FooPlugins LLC.
+This Privacy Policy governs the manner in which FooPlugins collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://fooplugins.com website (“Site”). This privacy policy applies to the Site and all products and services offered by FooPlugins.
 
 ## Personal identification information
 
@@ -22,7 +22,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 ## How we use collected information
 
-FooPlugins LLC. collects and uses Users personal information for the following purposes:
+FooPlugins collects and uses Users personal information for the following purposes:
 
   *  _To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
@@ -35,9 +35,7 @@ We may use the information Users provide about themselves when placing an order 
   *  _To administer a content, promotion, survey or other Site feature_  
 To send Users information they agreed to receive about topics we think will be of interest to them.
   *  _To send periodic emails_
-
-The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
-
+  * The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
@@ -57,20 +55,18 @@ Users may find advertising or other content on our Site that link to the sites a
 
 ## Changes to this privacy policy
 
-FooPlugins LLC. has the discretion to update this privacy policy at any time. When we do, revise the updated date at the bottom of this page,send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+FooPlugins has the discretion to update this privacy policy at any time. When we do, revise the updated date at the bottom of this page,send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ## Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy and [terms of service](https://fooplugins.com/terms-and-conditions/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and our [terms and conditions](https://fooplugins.com/terms-and-conditions/). If you do not agree to this policy, please do not use our site. Your continued use of the site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://fooplugins.com/contact-us/).
 
-FooPlugins LLC.
+OR you can write to us:
 
-> [Better Image and Video Galleries in WordPress](https://fooplugins.com/)
-
-  
-4411 Bee Ridge Road #617 Sarasota, FL 34233  
+FooPlugins  
+4 Neville Rd, Gillitts, South Africa, 3610  
 info@fooplugins.com
