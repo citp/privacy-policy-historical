@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdccd.edu privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508184323id_/http%3A//www.sdccd.edu/about/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdccd.edu privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130233911id_/http%3A//sdccd.edu/about/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | San Diego Community College District
 
