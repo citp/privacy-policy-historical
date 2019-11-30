@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admiralmarkets.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508135749id_/https%3A//admiralmarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admiralmarkets.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201001315id_/https%3A//admiralmarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Admiral Markets
 
