@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520080005id_/http%3A//www.sbcc.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130165907id_/http%3A//www.sbcc.edu/privacy.php) for the most accurate reproduction.*
 
-# SBCC: Privacy - Santa Barbara City College
+# Privacy - Santa Barbara City College
 
 #### PLEASE READ THE FOLLOWING CAREFULLY. THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE. 
 
@@ -14,6 +14,4 @@
 
 #### SPECIAL NOTICE TO PARENTS AND CHILDREN
 
-All information submitted on this site must comply with the Children's Online Privacy Protection Act (COPPA), effective April 21, 2000. Detailed information about this Act can be found at <http://business.ftc.gov/privacy-and-security/children%27s-privacy>
-
-721 Cliff Drive Santa Barbara, CA 93109-2394    Main Campus Phone: 805.965.0581    © 2018 Santa Barbara City College
+All information submitted on this site must comply with the Children's Online Privacy Protection Act (COPPA), effective April 21, 2000. Detailed information about this Act can be found at [business.ftc.gov/privacy-and-security/children%27s-privacy](http://business.ftc.gov/privacy-and-security/children%27s-privacy "Children's Online Privacy Protection Act")
