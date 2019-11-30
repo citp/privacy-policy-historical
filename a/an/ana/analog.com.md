@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406162949id_/https%3A//www.analog.com/en/about-adi/landing-pages/001/privacy_security_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analog.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130150811id_/https%3A//www.analog.com/en/about-adi/landing-pages/001/privacy_security_statement.html%23cookies) for the most accurate reproduction.*
 
 # Privacy & Security Statement | Analog Devices
+
+__ You have accepted cookies. You have declined cookies.
 
 * * *
 
