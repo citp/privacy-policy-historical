@@ -1,630 +1,431 @@
-<!--The following is the downloaded HTML source of the kuow.org privacy policy that was archived on 2018-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180628113349id_/http%3A//kuow.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kuow.org privacy policy that was archived on 2019-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191130064714id_/https%3A//www.kuow.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="no-js"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1071.min.js"></script><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aak9.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P3XMMX"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
-<meta property="og:description" content="We respect the privacy rights of all visitors to our website. The following information details KUOW&amp;#039;s collection, protection and use of data we">
-<meta property="og:url" content="http://kuow.org/privacy">
-<meta property="og:type" content="article">
-<meta property="og:image" content="http://mediad.publicbroadcasting.net/spacer.gif">
-<meta property="twitter:card" content="summary">
-<link rel="shortcut icon" href="http://mediad.publicbroadcasting.net/p/kuow/files/201702/KUOW.ico" type="image/vnd.microsoft.icon">
-<meta content="Privacy Policy " about="/privacy" property="dc:title">
-<meta property="twitter:site" content="@kuow">
-<meta property="og:title" content="Privacy Policy ">
-<meta name="description" content="We respect the privacy rights of all visitors to our website. The following information details KUOW&amp;#039;s collection, protection and use of data we">
-<link rel="canonical" href="/privacy">
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
-<meta name="Generator" content="Drupal 7 (http://drupal.org)">
-<link rel="shortlink" href="/node/446">
-<meta name="has_audio" content="0">
-<meta name="nid" content="446">
-<meta name="category" content="none">
-<meta name="programs" content="none">
-<link href="http://mediad.publicbroadcasting.net/spacer.gif" rel="image_src">
-<!--
-Start of DoubleClick Floodlight Tag: Please do not remove
-Activity name of this tag: pageviews-KUOW
-URL of the webpage where the tag is expected to be placed: http://kuow.org/
-This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-Creation Date: 09/29/2016
--->
-<script type="text/javascript">
-var axel = Math.random() + "";
-var a = axel * 10000000000000;
-document.write('<iframe src="https://6102558.fls.doubleclick.net/activityi;src=6102558;type=count0;cat=pagev0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script></head><body class="html not-front not-logged-in page-node page-node- page-node-446 node-type-page"><iframe src="https://6102558.fls.doubleclick.net/activityi;src=6102558;type=count0;cat=pagev0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=9664987846797.203?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-<noscript>
-<iframe src="https://6102558.fls.doubleclick.net/activityi;src=6102558;type=count0;cat=pagev0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-</noscript>
-<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
-<!--
-Start of DoubleClick Floodlight Tag: Please do not remove
-Activity name of this tag: sitevisits-KUOW
-URL of the webpage where the tag is expected to be placed: http://kuow.org/
-This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
-Creation Date: 09/29/2016
--->
-<script type="text/javascript">
-var axel = Math.random() + "";
-var a = axel * 10000000000000;
-document.write('<iframe src="https://6102558.fls.doubleclick.net/activityi;src=6102558;type=count0;cat=sitev0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
-</script><iframe src="https://6102558.fls.doubleclick.net/activityi;src=6102558;type=count0;cat=sitev0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=7811582911916.508?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-<noscript>
-<iframe src="https://6102558.fls.doubleclick.net/activityi;src=6102558;type=count0;cat=sitev0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1;num=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
-</noscript>
-<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
-<!-- Google Tag Manager --> 
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
-})(window,document,'script','dataLayer','GTM-P3XMMX');</script> 
-<!-- End Google Tag Manager -->
-    <title>Privacy Policy  | KUOW News and Information</title>
-    <link type="text/css" rel="stylesheet" href="http://kuow.org/sites/kuow.org/files/css/css_zXr1pRkjUmFHX10b6Pv5_DqzyewvdLNQ8QgccGQIRQQ.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://kuow.org/sites/kuow.org/files/css/css_ZFlaYqkiQzTmlBPX4mQeT33IFQX3nR-zpGlyqFhtTNM.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://kuow.org/sites/kuow.org/files/css/css_ORgdWMaHtIe0Qt4dEtAemOdPbL8nFrdoUfM_xdCWsaE.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://kuow.org/sites/kuow.org/files/css/css_lcoq-9lW96qMJS-fbtoeWGODR5PjkFgjfy8zqmboJqY.css" media="all">
-<style type="text/css" media="all">
-<!--/*--><![CDATA[/*><!--*/
-.header-region-outer{background-color:#FFFFFF;}.branding .tagline{color:#635F5E;}.branding .listen-live-toggle > a,.branding .header-utility > a,.branding .header-utility > a.trigger-nav{color:#FFFFFF;}@media screen and (min-width:641px){.branding .trigger-nav{background:#777777;}}@media screen and (max-width:640px){.branding .header-utility > a.trigger-nav,.active-menu .branding .header-utility > a.trigger-nav{color:#777777;}}#listen-live .listen-live-toggle{background-color:#009da5;}#listen-live .listen-live-btn{background-color:transparent;color:#FFFFFF;}@media screen and (min-width:640px){#listen-live .listen-live-btn{background-color:#009da5;}}.branding .give{background:#e45d50;}
+<!DOCTYPE html><html><head>
+    <title>KUOW - Privacy Policy</title>
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="GwOgmTStGE7QnIoVLTGqBkX/sPVvytV5rMIMPubvt75DOSG1OtjqM17FABI6pZUQO8xEiv0y6BmOui3p5lVOUQ==">
 
-/*]]>*/-->
-</style>
-<link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Lato:300,700,700italic,900,italic,regular&amp;subset=latin" media="all">
-<link type="text/css" rel="stylesheet" href="http://kuow.org/sites/kuow.org/files/css/css_SWo6tZlpCPjnhbZDAS4xgnCAofi51J7pbtu4SD2fIug.css" media="all">
-    <script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/kuow/files/js/js_xSpMA4ArVcBKOZ43sPqNRk0gxQZdDVifw27pIUCzWU0.js"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/kuow/files/js/js_P9u0bgloveAIlc2kutVCUB_xMaRV3YHWhSVHD3IN5tM.js"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/kuow/files/js/js_f_6-OzlFXjayKlsU5sJKLwjz7LFQvdIZDm-Mt6jKwyM.js"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/kuow/files/js/js__4npt0PuTlrK-GkTl821OR8Eb7aiGB9GvsSeu1tr7U4.js"></script>
-<script type="text/javascript" src="//www.googletagservices.com/tag/js/gpt.js"></script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/kuow/files/js/js_xCe3_riQwHHsRAY7lgHd514Z8PT1KvbCEbkKqupnPI8.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src="//stream.publicbroadcasting.net/analytics/aak9.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-//--><!]]>
-</script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"responso","theme_token":"f94RHI7uoVvqLpc99rAZ7267x2xuoLnvF_vzXVhphMs","js":{"0":1,"http:\/\/mediad.publicbroadcasting.net\/p\/kuow\/files\/js_injector\/js_injector_1.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.topbar.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"sites\/all\/modules\/custom\/responsive_ads\/js\/main.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/modernizr.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/media.match.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/matchMedia.addListener.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/enquire.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/fastclick.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.mediaqueries.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.scripts.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.responsiveimages.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.js":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_listenlive.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/modules\/custom\/responsive_footer\/responsive-footer.admin.css":1,"0":1,"http:\/\/fonts.googleapis.com\/css?family=Lato:300,700,700italic,900,italic,regular\u0026subset=latin":1,"sites\/all\/themes\/responso\/css\/icon-fonts.css":1,"sites\/all\/themes\/responso\/css\/screen.css":1}},"chartbeat":{"uid":33583,"domain":"kuow.org"},"googleCSE":{"cx":"010251366440257945544:sdo8ngmuwts","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"responsive_ads":{"networkCode":"9911740","prefix":"kuow","adUnitTypes":{"leaderboard":{"note":"Only shows above 1024; shows 970x90 or 728x90.","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[1024,200],"slotSize":[[970,90],[970,50],[728,90]]}]},"medium":{"note":"Won't be served on screens smaller than 640x480.","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[640,200],"slotSize":[300,250]}]},"tablet":{"note":"Won't be served on screens smaller than 640x480 or larger than 1024x768","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[640,200],"slotSize":[728,90]},{"viewportSize":[1024,200],"slotSize":[]}]},"mobile":{"note":"Won't be served on screens larger than 640x480.","sizes":[{"viewportSize":[0,0],"slotSize":[320,50]},{"viewportSize":[640,200],"slotSize":[]}]}},"adUnits":[{"name":"leaderboard_1","type":"leaderboard","width":728,"height":90},{"name":"player_display","type":"leaderboard","width":728,"height":90},{"name":"medium_1","type":"medium","width":300,"height":250},{"name":"medium_2","type":"medium","width":300,"height":250},{"name":"medium_3","type":"medium","width":300,"height":250},{"name":"tablet_1","type":"tablet","width":728,"height":90},{"name":"mobile_1","type":"mobile","width":320,"height":50}],"placements":{"leaderboard_1":"main#content","medium_1":".node .post-body .field-name-body","medium_2":".node .post-body p:nth-of-type(3)","medium_3":".node .post-body p:nth-of-type(3)","tablet_1":"main#content","mobile_1":"#block-pi-responsive-ads-mobile-1 .content"},"persistentPlacements":[],"targeting":{"id":"446","type":"page","tags":[],"category":"","programs":[]}},"tms_meta":{"has_audio":"0","programs":"none","category":"none","nid":446},"streamCount":3,"streams":[{"stream_mp3":"http:\/\/radiobookmark.com\/listener-interactive\/webplayer\/#\/fullscreen\/station\/2YfA5Lv3HhzSR28","popup":"1","width":"1020","height":"380","display":"1","weight":"0","streamName":"kuow","description":"KUOW","ucs":"5182a70fe1c89ec2617cc30a"},{"stream_mp3":"http:\/\/radiobookmark.com\/listener-interactive\/webplayer\/#\/fullscreen\/station\/2YfA5Lv3HhzSR27","popup":"1","width":"1020","height":"380","weight":"1"},{"stream_mp3":"http:\/\/radiobookmark.com\/listener-interactive\/webplayer\/#\/fullscreen\/station\/2YfA5Lv3HhzSR29","popup":"1","width":"1020","height":"380","weight":"2"},{"stream_mp3":"http:\/\/radiobookmark.com\/listener-interactive\/webplayer\/#\/fullscreen\/station\/2YfA5Lv3HhzSR28","popup":"1","width":"1020","height":"380","display":"1","weight":"0","streamName":"kuow","description":"KUOW","ucs":"5182a70fe1c89ec2617cc30a"},{"stream_mp3":"http:\/\/radiobookmark.com\/listener-interactive\/webplayer\/#\/fullscreen\/station\/2YfA5Lv3HhzSR27","popup":"1","width":"1020","height":"380","weight":"1"},{"stream_mp3":"http:\/\/radiobookmark.com\/listener-interactive\/webplayer\/#\/fullscreen\/station\/2YfA5Lv3HhzSR29","popup":"1","width":"1020","height":"380","weight":"2"}],"responsive_utilities":{"body_classes":"html not-front not-logged-in no-sidebars page-node page-node- page-node-446 node-type-page","custom_vars":{"nid":{"name":"nid","slot":8,"scope_id":3},"pop":{"name":"pop","slot":9,"scope_id":3},"author":{"name":"author","slot":11,"scope_id":3},"keywords":{"name":"tags","slot":12,"scope_id":3},"org_id":{"name":"org_id","slot":13,"scope_id":3},"brand":{"name":"CP_Station","slot":14,"scope_id":2},"has_audio":{"name":"Has_Inline_Audio","slot":15,"scope_id":3},"programs":{"name":"Program","slot":16,"scope_id":3},"category":{"name":"Category","slot":10,"scope_id":3},"datePublished":{"name":"PublishedDate","slot":17,"scope_id":3},"wordCount":{"name":"WordCount","slot":18,"scope_id":3},"story_id":{"name":"API_Story_Id","slot":19,"scope_id":3},"pmp_guid":{"name":"pmp_guid","slot":20,"scope_id":3}},"pagetype_vars":[{"page_type":"Content\/About","regex_pattern":"\/about(-us)?\/?$","pattern_name":"Core Publisher About Page"},{"page_type":"Events","regex_pattern":"\/events(\/|$)","pattern_name":"Core Publisher Events Page"},{"page_type":"People","regex_pattern":"\/people(\/|$)","pattern_name":"Core Publisher People Page"},{"page_type":"Playlist","regex_pattern":"\/search_playlists\/?$","pattern_name":"Core Publisher Playlist Page"},{"page_type":"Program","regex_pattern":"\/programs(\/|$)","pattern_name":"Core Publisher Program Page"},{"page_type":"Schedule","regex_pattern":"\/schedule(\/|$)","pattern_name":"Core Publisher Schedule Page"},{"page_type":"Search","regex_pattern":"\/search\/google\/?","pattern_name":"Core Publisher Search GSA Page"},{"page_type":"Story","regex_pattern":"\/post\/|\/webclip\/","pattern_name":"Core Publisher Story Page"},{"page_type":"Streaming","regex_pattern":"\/listen(-live)?\/?(#|$)","pattern_name":"Core Publisher Listen Live Page"}],"media_queries":{"mobile":"all and (max-width: 40em)","tablet":"screen and (min-width: 40.063em) and (max-width: 64em)","desktop":"screen and (min-width: 64.063em)"}}});
-//--><!]]>
-</script>
-    <meta name="viewport" content="width=device-width">
-  
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="turbolinks-cache-control" content="no-cache">
+    <link rel="apple-touch-icon" href="icon.png">
 
-  
-    <header role="banner" class="header">
-  <div class="skiptocontent"><a href="#main-content">skip to main content</a></div>
-    <div class="region region-header">
-    <div id="block-baby-bear-baby-bear-header" class="block block-baby-bear">
+        <meta property="og:title" content="Privacy Policy">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:url" content="https://www.kuow.org/privacy-policy">
+    <meta property="og:type" content="website">
 
-    
-  <div class="content">
-    
-<div class="header-region-outer">
-  <section class="header-region-inner row">
-    <div class="branding large-12 columns">
-      <div class="brand-inner-wrapper">
-        <a href="/" rel="home" class="logo" title="KUOW News and Information Home"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/kuow/files/201702/KUOW-Logo-HORIZ-COLOR_1.png" alt="KUOW News and Information logo" title="KUOW News and Information Home"></a>         <div class="tagline">
-          Sound stories. Sound voices.        </div>
-      </div>
-      <div class="header-utility">
-        <a class="trigger-nav" href="#">
-          <span class="icon-list"></span>
-          <span class="menu-text">Site Menu</span>
-        </a>
-        <a class="give" href="http://donate.kuow.org/">
-  DONATE</a>
-      </div>
+
+    <link rel="stylesheet" media="all" href="/assets/application-5878e8259b542551e008b78562869a57e155c38648e38d1ca8441de5127815e8.css">
+    <link rel="stylesheet" media="screen" href="/packs/application-da31158949173f168e8362ed6097607e.css">
+    <script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-THDGKGX&amp;gtm_auth=_Q9voBcxAF3vI2TTx3WxXg&amp;gtm_preview=env-2&amp;gtm_cookies_win=x"></script><script src="/packs/application-7789235f1bca480c74c1.js"></script>
+
+    <meta property="fb:pages" content="6758258138">
+    <meta name="apple-itunes-app" content="app-id=450248556">
+    <link rel="manifest" href="/manifest.json">
+
+    	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=_Q9voBcxAF3vI2TTx3WxXg&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-THDGKGX');</script>
+	<!-- End Google Tag Manager -->
+
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script type="text/javascript">
+      window.API_ROOT = 'https://core-prod.kuow.io';
+      window.ADS_ENDPOINT = 'https://cmod684.live.streamtheworld.com/ondemand';
+      window.APP_ENV = 'production';
+    </script>
+  </head>
+
+  <body class="">
+    <!--[if lte IE 11]>
+      <div class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</div>
+    <![endif]-->
+    	<!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THDGKGX&gtm_auth=_Q9voBcxAF3vI2TTx3WxXg&gtm_preview=env-2&gtm_cookies_win=x"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+    <script type="text/javascript" src="https://playerservices.live.streamtheworld.com/api/idsync.js?stationId=215093&amp;gdpr=1"></script>
+
+    <div id="global-announcement"><!-- replaced by react --></div>
+
+    <header id="site-header"><!-- replaced by react --></header>
+
+    <main id="pg-main" class="">
+        <script class="dfp_targeting" data-key="id" data-value="4538"></script>
+
+      
+<div class="clip">
+  <div class="pg-main open content_pg">
+    <div class="pg-hero">
     </div>
-  </section>
-</div>
-  </div>
-</div>
-  </div>
-</header>
-    <div class="nav-wrapper mobile">
-      <nav>
-        <div class="top-bar contain-to-grid" data-topbar="">
-          <ul class="title-area">
-            <li class="toggle-topbar menu-icon">
-              <a href="#">Menu</a>
-            </li>
-          </ul>
-          <section class="top-bar-section">
-            <div class="table-queue" id="table-queue-fleximenu">
-  <ul class="menu dropdown">
-<li class="dd has-dropdown not-click">
-<a href="/category/news">News</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/topic/seattles-showdown-over-head-tax">Head Tax</a>
-</li>
-<li class="left">
-<a href="/term/region-boom">Region of Boom</a>
-</li>
-<li class="left">
-<a href="/term/race-and-equity">Race &amp; Equity</a>
-</li>
-<li class="left">
-<a href="/topic/along-mother-road">Highway 99</a>
-</li>
-<li class="left">
-<a href="/cityofdreams">City of Dreams</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="https://www.instagram.com/kuow/?hl=en">Instagram</a>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/podcast">Podcasts</a>
-<ul class="dropdown">
-<li class="left">
-<a href="http://kuow.org/programs/battle-tactics-your-sexist-workplace">Battle Tactics For Your Sexist Workplace</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/programs">Programs</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/programs/record">The Record</a>
-</li>
-<li class="left">
-<a href="/programs/week-review">Week In Review</a>
-</li>
-<li class="left">
-<a href="/radioactive">RadioActive Youth Media</a>
-</li>
-<li class="left">
-<a href="/programs/speakers-forum">Speakers Forum</a>
-</li>
-<li class="left">
-<a href="/topic/podcasts">Podcasts</a>
-</li>
-<li class="left">
-<a href="/programs/all-things-considered">All Things Considered</a>
-</li>
-<li class="left">
-<a href="/programs/morning-edition">Morning Edition</a>
-</li>
-<li class="left">
-<a href="/programs">All Programs </a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/schedule/week/kuow">Schedule</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/schedule/week/kuow">Radio Schedule</a>
-</li>
-<li class="left">
-<a href="http://www2.kuow.org/schedules/KUOW.pdf">KUOW Print Schedule</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/contact-us">Contact</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/contact-us">Contact Us</a>
-</li>
-<li class="left">
-<a href="/post/contact-us-securely">Contact Us (secure site)</a>
-</li>
-<li class="left">
-<a href="/about-kuow">About KUOW</a>
-</li>
-<li class="left">
-<a href="/about-kuow-board">Board Of Directors</a>
-</li>
-<li class="left">
-<a href="/topic/community-engagement-kuow">Engage</a>
-</li>
-<li class="left">
-<a href="/community-calendar">Events</a>
-</li>
-<li class="left">
-<a href="/job-opportunities">Jobs</a>
-</li>
-<li class="left">
-<a href="/nonprofit-partnerships">Nonprofit Partnerships</a>
-</li>
-<li class="left">
-<a href="/press">Press</a>
-</li>
-<li class="left">
-<a href="https://medium.com/@kuow/how-whistleblowers-can-contact-kuow-3ed089e21d30">SecureDrop</a>
-</li>
-<li class="left">
-<a href="/speakers">Speakers Bureau</a>
-</li>
-<li class="left">
-<a href="/people/capacity/staff">Staff</a>
-</li>
-<li class="left">
-<a href="/volunteer">Volunteer</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/membership">Support</a>
-<ul class="dropdown">
-<li class="left">
-<a href="https://donate.kuow.org">Pledge Now</a>
-</li>
-<li class="left">
-<a href="/futurevision">KUOW's Vision for the Future</a>
-</li>
-<li class="left">
-<a href="/annual-support">Membership</a>
-</li>
-<li class="left">
-<a href="/car">Donate Your Car</a>
-</li>
-<li class="left">
-<a href="http://kuow.giftlegacy.com">Leave a Legacy</a>
-</li>
-<li class="left">
-<a href="/business-support">Business Support</a>
-</li>
-<li class="left">
-<a href="/broadcasters-circle">Broadcasters Circle</a>
-</li>
-<li class="left">
-<a href="/gift-securities">Gift of Securities</a>
-</li>
-<li class="left">
-<a href="/post/how-you-can-help-protect-public-media-funding">Protect Public Media</a>
-</li>
-<li class="left">
-<a href="http://thankyou.kuow.org ">Annual Report</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/listen">Ways To Listen</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/listen">Streaming</a>
-</li>
-<li class="left">
-<a href="/topic/podcasts">Podcasts</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/search">Search</a>
-</li>
-</ul>
-</div>
-          </section>
+
+    <div class="pg-main-narrow pg_content">
+      <div class="narrow-wrapper">
+        <div class="body-content">
+          <h1>Privacy Policy</h1>
         </div>
-      </nav>
-    </div>
-        <div id="page-wrapper">
-            <div id="page-document" role="document" class="page">
-  <div class="nav-wrapper">
-    <nav>
-      <div class="top-bar contain-to-grid" data-topbar="">
-        <ul class="title-area">
-          <li class="toggle-topbar menu-icon">
-            <a href="#">Menu</a>
-          </li>
-        </ul>
-        <section class="top-bar-section">
-          <div class="table-queue" id="table-queue-fleximenu">
-  <ul class="menu dropdown">
-<li class="dd has-dropdown not-click">
-<a href="/category/news">News</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/topic/seattles-showdown-over-head-tax">Head Tax</a>
-</li>
-<li class="left">
-<a href="/term/region-boom">Region of Boom</a>
-</li>
-<li class="left">
-<a href="/term/race-and-equity">Race &amp; Equity</a>
-</li>
-<li class="left">
-<a href="/topic/along-mother-road">Highway 99</a>
-</li>
-<li class="left">
-<a href="/cityofdreams">City of Dreams</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="https://www.instagram.com/kuow/?hl=en">Instagram</a>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/podcast">Podcasts</a>
-<ul class="dropdown">
-<li class="left">
-<a href="http://kuow.org/programs/battle-tactics-your-sexist-workplace">Battle Tactics For Your Sexist Workplace</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/programs">Programs</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/programs/record">The Record</a>
-</li>
-<li class="left">
-<a href="/programs/week-review">Week In Review</a>
-</li>
-<li class="left">
-<a href="/radioactive">RadioActive Youth Media</a>
-</li>
-<li class="left">
-<a href="/programs/speakers-forum">Speakers Forum</a>
-</li>
-<li class="left">
-<a href="/topic/podcasts">Podcasts</a>
-</li>
-<li class="left">
-<a href="/programs/all-things-considered">All Things Considered</a>
-</li>
-<li class="left">
-<a href="/programs/morning-edition">Morning Edition</a>
-</li>
-<li class="left">
-<a href="/programs">All Programs </a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/schedule/week/kuow">Schedule</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/schedule/week/kuow">Radio Schedule</a>
-</li>
-<li class="left">
-<a href="http://www2.kuow.org/schedules/KUOW.pdf">KUOW Print Schedule</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/contact-us">Contact</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/contact-us">Contact Us</a>
-</li>
-<li class="left">
-<a href="/post/contact-us-securely">Contact Us (secure site)</a>
-</li>
-<li class="left">
-<a href="/about-kuow">About KUOW</a>
-</li>
-<li class="left">
-<a href="/about-kuow-board">Board Of Directors</a>
-</li>
-<li class="left">
-<a href="/topic/community-engagement-kuow">Engage</a>
-</li>
-<li class="left">
-<a href="/community-calendar">Events</a>
-</li>
-<li class="left">
-<a href="/job-opportunities">Jobs</a>
-</li>
-<li class="left">
-<a href="/nonprofit-partnerships">Nonprofit Partnerships</a>
-</li>
-<li class="left">
-<a href="/press">Press</a>
-</li>
-<li class="left">
-<a href="https://medium.com/@kuow/how-whistleblowers-can-contact-kuow-3ed089e21d30">SecureDrop</a>
-</li>
-<li class="left">
-<a href="/speakers">Speakers Bureau</a>
-</li>
-<li class="left">
-<a href="/people/capacity/staff">Staff</a>
-</li>
-<li class="left">
-<a href="/volunteer">Volunteer</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/membership">Support</a>
-<ul class="dropdown">
-<li class="left">
-<a href="https://donate.kuow.org">Pledge Now</a>
-</li>
-<li class="left">
-<a href="/futurevision">KUOW's Vision for the Future</a>
-</li>
-<li class="left">
-<a href="/annual-support">Membership</a>
-</li>
-<li class="left">
-<a href="/car">Donate Your Car</a>
-</li>
-<li class="left">
-<a href="http://kuow.giftlegacy.com">Leave a Legacy</a>
-</li>
-<li class="left">
-<a href="/business-support">Business Support</a>
-</li>
-<li class="left">
-<a href="/broadcasters-circle">Broadcasters Circle</a>
-</li>
-<li class="left">
-<a href="/gift-securities">Gift of Securities</a>
-</li>
-<li class="left">
-<a href="/post/how-you-can-help-protect-public-media-funding">Protect Public Media</a>
-</li>
-<li class="left">
-<a href="http://thankyou.kuow.org ">Annual Report</a>
-</li>
-</ul>
-</li>
-<li class="dd has-dropdown not-click">
-<a href="/listen">Ways To Listen</a>
-<ul class="dropdown">
-<li class="left">
-<a href="/listen">Streaming</a>
-</li>
-<li class="left">
-<a href="/topic/podcasts">Podcasts</a>
-</li>
-</ul>
-</li>
-<li>
-<a href="/search">Search</a>
-</li>
-</ul>
-</div>
-        </section>
+        
+
+    <div class="body-content">
+    <p>We respect the privacy rights of all visitors to our website. The following information is a summary of KUOW's collection, protection and use of data we receive from visitors to our website. We have a <a href="/kuow-donor-privacy-policy" target="_blank">donor privacy policy</a> for visitors who make a gift to KUOW. You may read more on our <a href="https://www.washington.edu/online/privacy/" target="_blank">privacy policy on the University of Washington website. </a></p><p><em>Are you tracking my visit?</em></p><p>You browse KUOW's website anonymously. KUOW tracks overall traffic patterns and links clicked on our communications using Google Analytics, which relies on cookies. We use this information to gauge public interest and to help us serve you better.</p><p><em>How will information submitted to KUOW's site be used?</em></p><p>Your email and member information will never be rented, traded or sold to a third party. KUOW will remove your name from our mailing and/or email list at any time, at your request. To serve you better, we may contact you in the future to inform you about KUOW program information, opportunities for supporting public radio or to request your participation in a KUOW survey. Email updates and promotional activities may require your name for database recognition purposes.</p><p><em>How secure is information submitted on KUOW's site?</em></p><p>KUOW.org is secure. All information sent to this site is encrypted and protected against disclosure to third parties. The information you provide (your name, address, email, etc.) is stored in a secure location and protected by security procedures.</p><p>If you have any questions, contact Jenna Montgomery, Director, Digital Media, 206.221.2749 // <a href="mailto:jennam@kuow.org" target="_blank">jennam@kuow.org</a>.</p>
+  </div>
+
+
+
       </div>
+    </div>
+  </div>
+</div>
+
+    </main>
+
+    <script type="text/javascript" id="c8117574">
+  var googletag = googletag || {};
+  var adMapping = adMapping || {};
+  googletag.cmd = googletag.cmd || [];
+
+  googletag.cmd.push(function() {
+    googletag.pubads().set('adsense_background_color', 'FFFFFF');
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().enableAsyncRendering();
+
+    googletag.pubads().addEventListener('slotRenderEnded', function(event) {
+      if (!event.isEmpty) {
+        var element = document.getElementById(event.slot.getSlotElementId());
+        var parent = element.parentElement;
+        parent.setAttribute('style', 'display: block;');
+      }
+    });
+
+    adMapping['full_width_bar'] = googletag.sizeMapping().
+      addSize([1142, 0], [[970, 90], [880, 90], [728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([980, 0], [[880, 90], [728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([855, 0], [[728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([530, 0], [[468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([360, 0], [[320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([0, 0], [[300, 250], [250, 250], [200, 200]]).
+      build();
+
+    adMapping['full_width_bar_desktop'] = googletag.sizeMapping().
+      addSize([1545, 0], [[970, 90], [880, 90], [728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([1285, 0], [[970, 90], [880, 90], [728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([1142, 0], [[970, 90], [880, 90], [728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([980, 0], [[880, 90], [728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([855, 0], [[728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([751, 0], [[728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([530, 0], []).
+      addSize([360, 0], []).
+      addSize([0, 0], []).
+      build();
+
+    adMapping['full_width_bar_mobile'] = googletag.sizeMapping().
+      addSize([1142, 0], []).
+      addSize([980, 0], []).
+      addSize([855, 0], []).
+      addSize([751, 0], []).
+      addSize([530, 0], [[468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([360, 0], [[320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([0, 0], [[300, 250], [250, 250], [200, 200]]).
+      build();
+
+    adMapping['content_width_bar'] = googletag.sizeMapping().
+      addSize([1545, 0], [[880, 90], [728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([1285, 0], [[728, 90], [468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([830, 0], [[468, 60], [320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([360, 0], [[320, 50], [300, 250], [250, 250], [200, 200]]).
+      addSize([0, 0], [[300, 250], [250, 250], [200, 200]]).
+      build();
+
+    adMapping['sidebar'] = googletag.sizeMapping().
+      addSize([1300, 0], [[300, 250], [250, 250], [200, 200], [120, 600], [160, 600]]).
+      addSize([1101, 0], [[250, 250], [200, 200], [120, 600], [160, 600]]).
+      addSize([942, 0], [[200, 200], [120, 600], [160, 600]]).
+      addSize([751, 0], [[120, 600], [160, 600]]).
+      addSize([342, 0], [[300, 250], [250, 250], [200, 200]]).
+      addSize([0, 0], [[250, 250], [200, 200]]).
+      build();
+
+    adMapping['home_sidebar'] = googletag.sizeMapping().
+      addSize([1500, 0], [[300, 250], [250, 250], [200, 200]]).
+      addSize([1275, 0], [[250, 250], [200, 200]]).
+      addSize([1101, 0], [[200, 200]]).
+      addSize([992, 0], [[250, 250], [200, 200]]).
+      addSize([826, 0], [[300, 250], [250, 250], [200, 200]]).
+      addSize([751, 0], [[250, 250], [200, 200]]).
+      addSize([342, 0], [[300, 250], [250, 250], [200, 200]]).
+      addSize([0, 0], [[250, 250], [200, 200]]).
+      build();
+
+    adMapping['grid'] = googletag.sizeMapping().
+      addSize([0, 0], [[250, 250], [200, 200]]).
+      build();
+  });
+
+  var targeting = [];
+  var slots = {};
+
+  function refreshTargeting() {
+    targeting = [];
+    var targetElements = document.querySelectorAll('.dfp_targeting');
+
+    for (var i=0; i<targetElements.length; i++) {
+      var el = targetElements[i];
+
+      targeting.push({
+        key: el.getAttribute('data-key'),
+        value: el.getAttribute('data-value').split('|')
+      })
+    }
+  }
+
+  function debounce(func, wait, immediate) {
+    var timeout;
+    return function() {
+      var context = this, args = arguments;
+      var later = function() {
+        timeout = null;
+        if (!immediate) func.apply(context, args);
+      };
+      var callNow = immediate && !timeout;
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+      if (callNow) func.apply(context, args);
+    };
+  };
+
+  function evaluateAds() {
+    var tags = document.querySelectorAll('.DFP_ad-wrapper');
+
+    for (var i=0; i<tags.length; i++) {
+      var tag = tags[i];
+      var cachedSlot = slots[tag.id];
+
+      if (cachedSlot) {
+        refreshAdSlot(cachedSlot);
+      } else {
+        defineAdSlot(tag);
+      }
+    }
+  }
+
+  function defineAdSlot(tag) {
+    var publisher = '/9911740/';
+    var unit = publisher + tag.getAttribute('data-unit');
+    var size = tag.getAttribute('data-size');
+    var context = tag.getAttribute('data-context') || 'sidebar';
+    size = size.split(' ').map(function(v) { return v.split('x').map(function(w) { return parseInt(w); }); });
+
+    if (context == 'outofpage') {
+      googletag.cmd.push(function() {
+        var slot = googletag.defineOutOfPageSlot(unit, tag.id)
+          .addService(googletag.pubads())
+
+        assignTargetingToSlot(slot);
+        googletag.enableServices();
+        googletag.display(tag.id);
+        slots[tag.id] = slot;
+      });
+    } else {
+      googletag.cmd.push(function() {
+        var slot = googletag.defineSlot(unit, size, tag.id)
+          .defineSizeMapping(adMapping[context])
+          .addService(googletag.pubads())
+          .setCollapseEmptyDiv(true);
+
+        assignTargetingToSlot(slot);
+        googletag.enableServices();
+        googletag.display(tag.id);
+        slots[tag.id] = slot;
+      });
+    }
+  }
+
+  function refreshAdSlot(slot) {
+    googletag.cmd.push(function() {
+      assignTargetingToSlot(slot);
+      googletag.pubads().refresh([slot]);
+    });
+  }
+
+  function clearAds() {
+    googletag.cmd.push(function() {
+      googletag.pubads().clear();
+    });
+  }
+
+  function assignTargetingToSlot(slot) {
+    slot.clearTargeting();
+
+    for (var i=0; i<targeting.length; i++) {
+      var target = targeting[i];
+      slot.setTargeting(target.key, target.value);
+    }
+  }
+
+  var refreshAdsOnResize = debounce(function() {
+    evaluateAds();
+  }, 1000);
+
+  window.addEventListener('resize', refreshAdsOnResize);
+
+</script>
+
+
+    <footer id="site-footer" class="">
+      <section id="site-footer-ctas">
+  <div class="bound">
+
+    <section class="cta_newsletter">
+      <h4>Connect With Us</h4>
+      <p>Stay connected with everything KUOW by signing up for our free newsletter.</p>
+      <div data-react-class="NewsletterForm" data-react-props="{&quot;prompt&quot;:&quot;Send&quot;,&quot;inverted&quot;:false,&quot;subscription_list&quot;:&quot;1206086002&quot;}"></div>
+
+    </section>
+
+    <section class="cta_curious">
+      <h4>What are you curious about?</h4>
+      <p>Help guide our reporting by submitting a topic, question, or one of your stories to our team.</p>
+      <ul>
+        <li>When is Seattle going to get an earthquake warning system?</li>
+        <li>Are Seattle drivers really so terrible?</li>
+        <li>Where are we getting all the construction workers from?</li>
+      </ul>
+      <!-- TODO: Make this open up the Ask KUOW Modal -->
+      <a onclick="reactBridge.showScript({size: 'small', src: 'https://modules.wearehearken.com/kuow/embed/638.js'})">Share your idea or story</a>
+    </section>
+
+    <section class="cta_events">
+      <div class="title">
+        <h4>Upcoming Events</h4>
+        <a href="/events" class="view_all">View All</a>
+      </div>
+      <ul>
+          <li>
+  <a href="https://www.eventbrite.com/e/year-in-review-live-seattle-tickets-64624056292" target="_blank">
+    <time class="date"><i>Dec</i><b>12</b></time>
+    <span class="info">
+      <time class="time"> 7:00 pm</time>
+      <!-- TODO: Implement a way to truncate this text at 3 lines. Most likely clamp.js -->
+      <h5 class="name">Year in Review Live: Seattle</h5>
+    </span>
+  </a>
+</li>
+
+          <li>
+  <a href="https://www1.ticketmaster.com/event/0F00572CAE318AEF?brand=neptuneseattle" target="_blank">
+    <time class="date"><i>Dec</i><b>14</b></time>
+    <span class="info">
+      <time class="time"> 8:00 pm</time>
+      <!-- TODO: Implement a way to truncate this text at 3 lines. Most likely clamp.js -->
+      <h5 class="name">Live Wire!</h5>
+    </span>
+  </a>
+</li>
+
+      </ul>
+    </section>
+
+    <section class="cta_download">
+      <span class="img">
+        <img width="140" alt="KUOW App on iPhone" src="/assets/content/Download_Mockup-dfb235359bed19315c096de87057fd186446da81e0e8c3e9f925d9511584627f.png">
+      </span>
+      <span class="info">
+        <h4>Listen to the stories you care about in our mobile app</h4>
+          <a href="https://itunes.apple.com/us/app/kuow-news-and-information/id450248556?mt=8" class="btn-app_store" target="_blank">
+    <span class="logo"><img alt="Apple App Store Download Icon" src="/assets/icons/Misc/Apple-0baedfa3c11837fc3dc4fe1da8a42f8be4453761f2e04af5c0770f4009613b7b.svg"></span>
+    <span class="txt">
+      <i>Download from</i>
+      <b>App Store</b>
+    </span>
+  </a>
+
+
+          <a href="https://play.google.com/store/apps/details?id=com.skyblue.pra.kuow&amp;hl=en_US" class="btn-play_store" target="_blank">
+    <span class="logo"><img alt="Google Play Icon" src="/assets/icons/Misc/Google_Play-0ef8e21e79ea1b02328c1888eb871e5b4a6975d0c1467a0603fe9d8a05d66945.svg"></span>
+    <span class="txt">
+      <i>Get it on</i>
+      <b>Play Store</b>
+    </span>
+  </a>
+
+      </span>
+    </section>
+  </div>
+</section>
+
+      <section id="site-footer-nav">
+  <div class="bound">
+    <section class="about_kuow">
+      <span class="logos">
+        <img width="158" class="kuow" alt="KUOW Logo" src="/assets/content/KUOW-outlined-e43025810fc1c0dca8127305d3339cf29c4bdf265f057e9db3740248b9cf2b07.svg">
+        <img width="88" class="npr" alt="NPR Logo" src="/assets/content/NPR-inverted-9157e4b3789a2165dd5e0d60487624160c77819f9fa4802627d3ad480b162f1c.svg">
+      </span>
+      <p>KUOW is the Puget Sound region’s #1 radio station for news. Our independent, nonprofit newsroom produces award-winning stories, podcasts and events.</p>
+      <ul class="links">
+        <li><a href="/about">About</a></li>
+        <li><a href="/staff">Staff</a></li>
+        <li><a href="/events">Events</a></li>
+      </ul>
+      <ul class="social_links">
+        <li><a href="https://www.facebook.com/kuowpublicradio/" target="_blank" class="btn-social-fb">KUOW on Facebook</a></li>
+        <li><a href="https://www.instagram.com/kuow/" target="_blank" class="btn-social-in">KUOW on Instagram</a></li>
+        <li><a href="https://twitter.com/KUOW" target="_blank" class="btn-social-tw">KUOW on Twitter</a></li>
+      </ul>
+    </section>
+
+    <nav class="nav_inside">
+      <h5><a href="/about">Inside KUOW</a></h5>
+      <ul>
+        <li><a onclick="reactBridge.showContact('contact')">Contact Us / Feedback</a></li>
+        <li><a onclick="reactBridge.showContact('secure_drop')">Secure Drop</a></li>
+        <li><a href="/careers">Careers</a></li>
+        <li><a href="https://annualreport.kuow.org" target="_blank">Annual Report</a></li>
+        <li><a href="/press">Press</a></li>
+        <li><a href="https://kuow-prod.imgix.net/store/8b7f3e4f6f904c6fa54819daa9ac4138.pdf" target="_blank" name="schedule">Schedule (PDF)</a></li>
+      </ul>
+    </nav>
+
+    <nav class="nav_support">
+      <h5><a href="/support">Support</a></h5>
+      <ul>
+        <li><a href="/donate">Donate / Become a Member</a></li>
+        <li><a href="/future">Wills and Estate Planning</a></li>
+        <li><a href="/donate-your-car">Donate Your Car</a></li>
+        <li><a href="/gift-securities">Gift of Securities</a></li>
+        <li><a href="/business">Business Sponsorship</a></li>
+        <li><a href="/volunteer">Volunteer</a></li>
+      </ul>
     </nav>
   </div>
 
-  <div id="player" class="player">
-    <div id="listen-live" class="listen-live">
-   <div class="listen-live-toggle"><a class="listen-live-btn" href="#"><span class="icon-arrow"></span>Listen Live </a></div>
-  <ul id="on-air-items" class="no-bullet">
-        		<li class="listen-live-streams">
-      <a target="_blank" id="now-on-0" href="http://radiobookmark.com/listener-interactive/webplayer/#/fullscreen/station/2YfA5Lv3HhzSR28" class="xpopup">
-        <div class="stream_name">KUOW</div>
-        <div class="program-text"></div>
-      </a>
-    </li>
-
-    </ul>
-</div>
-  </div>
-
-  
-      <section class="pre-content">
-      <div>
-          <div class="region region-pre-content">
-    <div id="block-pi-responsive-ads-mobile-1" class="block block-pi-responsive-ads">
-
-    
-  <div class="content">
-      </div>
-</div>
-  </div>
-      </div>
-    </section>
-  
-  
-  
-  <div class="row">
-    <main id="content" role="main" class="main-content small-12 columns">
-      <article class="story">
-        <a id="main-content"></a>
-                            <h1 id="page-title" class="title page-title">Privacy Policy </h1>
-                  
-                                    
-        
-        
-        
-        
-        
-        
-                    <div class="region region-content">
-    <div id="block-system-main" class="block block-system">
-
-    
-  <div class="content">
-    <div id="node-446" class="node node-page node-promoted full row" about="/privacy" typeof="sioc:Item foaf:Document">
-  <div class="large-12 columns">
-            
-  </div>
-
-  <div class="content">
-    <div class="medium-9 columns">
-      <div class="post-body">
-      <div class="field field-name-field-image-gallery field-type-image field-label-hidden"><div class="field-items"></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>We respect the privacy rights of all visitors to our website. The following information details KUOW's collection, protection and use of data we receive from visitors to our website.</p> <p><em>Are you tracking my visit?</em></p> <p>You browse KUOW's website anonymously. KUOW tracks overall traffic patterns and links clicked on our communications using Google Analytics and Web cookies. We use this information to gauge public interest and to help us serve you better.</p> <p><em>How will information submitted to KUOW's site be used?</em></p> <p>Your email and member information will never be rented, traded or sold to a third party. KUOW will remove your name from our mailing and/or email list at any time, at your request. To serve you better, we may contact you in the future to inform you about KUOW program information, opportunities for supporting public radio or to request your participation in a KUOW survey. Email updates and promotional activities may require your name for database recognition purposes.</p> <p><em>How secure is information submitted on KUOW's site?</em></p> <p>KUOW.org is a VeriSign Secure Site. All information sent to this site is encrypted and protected against disclosure to third parties. The information you provide (your name, address, email, etc.) is stored in a secure location and protected by security procedures.</p> <p><em>Contact KUOW</em></p> <p>Thank you for your interest in KUOW and for visiting our website. For more information about our privacy policies, please email webstaff@kuow.org.</p> </div></div></div>      </div>
+  <div class="site-footer-subnav">
+    <div class="bound">
+      <div class="copywrite">© 2019 KUOW News and Information <span class="version">v1.20.0</span></div>
+      <ul>
+        <li><a href="/tags/corrections">Corrections</a></li>
+        <li><a href="/privacy-policy">Privacy Policy</a></li>
+        <li><a href="/terms-of-use">Terms of Use</a></li>
+        <li><a href="/reports" target="_blank">FCC Public File</a></li>
+      </ul>
     </div>
-
   </div>
+</section>
 
+    </footer>
+
+    <div data-react-class="ModalContainer" data-react-props="{}"></div>
+
+    <div id="react-bridge" data-trigger=""><!-- replaced by react --></div>
+    <div id="mobile-player" data-trigger=""><!-- replaced by react --></div>
+    <div id="global-player" data-trigger=""><!-- replaced by react --></div>
+    <div id="global-mini-player"><!-- replaced by react --></div>
+    <div class="DFP_ad-wrapper" id="24395aecddea" data-context="outofpage" data-unit="oop_pop_up" data-size="200x200 300x250">
+      </div>
   
-</div>
-  </div>
-</div>
-  </div>
-              </article>
-    </main>
-  </div>
-
-  
-  <div class="bottom-ads">
-    <div class="bottom-ads-inner"></div>
-  </div>
-</div>
-
-<footer class="footer" role="contentinfo">
-  <div class="row">
-    <div class="footer-affiliate-container small-centered columns">
-                  <div class="region region-footer">
-    <div id="block-pi-table-queue-partnerfooter" class="block block-pi-table-queue">
-
-    
-  <div class="content">
-    <div class="table-queue" id="table-queue-partnerfooter">
-  <p class="partnerslabel">
-  </p>
-<div class="item-list"><ul class="partner-logos"><li class="first"><a href="https://www.facebook.com/kuowpublicradio/" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/kuow/files/styles/partner_footer_logo/public/201512/fb.png" alt="Follow KUOW on Facebook" title="Follow KUOW on Facebook"></a></li>
-<li><a href="https://twitter.com/KUOW" target="_blank"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/kuow/files/styles/partner_footer_logo/public/201512/TwitterLogo_white_0.png" alt="Follow KUOW on Twitter" title="Follow KUOW on Twitter"></a></li>
-<li><a href="https://www.instagram.com/kuow/?hl=en" target="_self"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/kuow/files/styles/partner_footer_logo/public/201512/instagram-2048.png" alt="Follow KUOW on Instagram" title="Follow KUOW on Instagram"></a></li>
-<li class="last"><a href="https://www.youtube.com/user/KUOW949" target="_self"><img typeof="foaf:Image" src="http://mediad.publicbroadcasting.net/p/kuow/files/styles/partner_footer_logo/public/201512/YouTube-logo-light.png" alt="Find KUOW on YouTube" title="Find KUOW on YouTube"></a></li>
-</ul></div></div>
-  </div>
-</div>
-<div id="block-pi-table-queue-auxiliarylinksfooter" class="block block-pi-table-queue">
-
-    
-  <div class="content">
-    <div class="table-queue" id="table-queue-auxiliarylinksfooter">
-  <div class="item-list"><ul class="auxiliary-links"><li class="first"><span>© 2018 KUOW News and Information</span></li>
-<li><a href="http://kuow.org/terms-use" target="_self">Terms of Use</a></li>
-<li><a href="http://kuow.org/privacy" target="_self">Privacy Statement</a></li>
-<li><a href="http://www2.kuow.org/reports/eeo-statement20170930.pdf" target="_self">FCC EEO</a></li>
-<li class="last"><a href="http://kuow.org/term/correction" target="_self">Corrections</a></li>
-</ul></div></div>
-  </div>
-</div>
-  </div>
-          </div>
-  </div>
-</footer>
-      <script type="text/javascript">
-  var _sf_async_config=Drupal.settings.chartbeat;
-  (function(){
-    function loadChartbeat() {
-      window._sf_endpt=(new Date()).getTime();
-      var e = document.createElement('script');
-      e.setAttribute('language', 'javascript');
-      e.setAttribute('type', 'text/javascript');
-      e.setAttribute('src',
-         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-         "static.chartbeat.com/js/chartbeat.js");
-      document.body.appendChild(e);
-    }
-    var oldonload = window.onload;
-    window.onload = (typeof window.onload != 'function') ?
-       loadChartbeat : function() { oldonload(); loadChartbeat(); };
-  })();
-</script><script type="text/javascript">
-<!--//--><![CDATA[//><!--
- (function ($) { $(document).foundation({ topbar: { custom_back_text: true, back_text: 'back', mobile_show_parent_link: true } }); }(jQuery));
-//--><!]]>
-</script>
-<script type="text/javascript" src="http://mediad.publicbroadcasting.net/p/kuow/files/js_injector/js_injector_1.js?p8ek4z"></script>
-    </div>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZIgUWDAlbHwxWUwQ+RgIBBzoQXFUV","queueTime":0,"applicationTime":480,"atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
