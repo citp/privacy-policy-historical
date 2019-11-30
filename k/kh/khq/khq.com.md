@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khq.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401103351id_/https%3A//www.khq.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khq.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130061010id_/https%3A//www.khq.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | khq.com
 
