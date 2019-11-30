@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxpin.com privacy policy that was archived on 2018-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181017013312id_/https%3A//www.uxpin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxpin.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201004714id_/https%3A//www.uxpin.com/privacy%23cookie-policy) for the most accurate reproduction.*
 
 # UXPin Privacy Policy
 
@@ -11,26 +11,31 @@ You’re just six steps away from getting familiar with this Privacy Policy whic
   3. the ways and purposes we use your data for and grounds for data processing,
   4. situations when the information may be disclosed,
   5. your rights, data security, changes to the policy & other matters,
-  6. cookie policy.
+  6. recourse and arbitration,
+  7. cookie policy.
 
 
 
 ## Overview
 
-We want you explain you the basic Privacy Policy principles as simply as possible and according to binding data protection laws please find the vital information first:
+We would like to explain you the basic Privacy Policy principles as simply as possible and according to binding data protection laws. In our view, to meet the expectations of the Client, all the necessary information shall be presented at the beginning of a policy and in a plain manner. Therefore, prior to any further inquiries, below you shall please find all the vital information:
 
   * UXPin is the controller of all the personal data you provide when you use the UXPin software-as-a-service (the “Service”) website located at [https://www.uxpin.com](https://web.archive.org/) (the “Site”), UXPin means UXPin Inc., a Delaware corporation with a business address at 1134 W El Camino Real, Mountain View, CA 94040, United States, you may contact us at hello@uxpin.com;
   * whenever you sign up to any functionalities of the Site, in particular to the trial period, newletter, download e-books, enrol a webinar or e-course etc. we may collect in particular your e-mail address and other given data such as: first name, last name, job position, company name, phone number or other submitted data; you provide all of your personal data voluntarily but we may point some of them to be obligatory to supply you at least with basic functions of the Service or other functionalities accessible via the Site; UXPin minimizes the scope of gathered data so we don’t collect data we believe to be unnecessary to achieve purposes they are collected for;
   * we may also use the collected data for marketing purposes of **our product** and to let you know on the UX design conferences due to our legitimate interests and/or upon your consent which may be withdrawn any time; **we won’t send you any other third party marketing messages; you may unsubscribe any time or explicitly object to be addressed any marketing communication by[contacting us](mailto:hello@uxpin.com)**;
   * we encourage you to test and subscribe to the UXPin Service; if you do so, please mind that we may need to process further personal data (such as evidential numbers (tax identity number, registration number in relevant court, administrative or commercial registers – in case of corporate entities), billing address and credit card information) – we will use them to supply our services and to process payments i.e. to perform the contract in accordance with the [Terms of Service](https://web.archive.org/tos);
-  * your data may be disclosed to the trusted third-party recipients who supply UXPin with auxiliary payment processing or marketing services, etc. ([listed here](https://www.uxpin.com/community/tutorials/third-party-tools-and-services-used-by-uxpin/)), and to our subsidiary – UXPin Sp. z o.o. a Polish (EU) company with business address at Aleja Grunwaldzka 186, 80-266 Gdańsk, Poland, TAX ID NO: PL5862274376, KRS: 0000400136;
-  * in order to secure high standards of data protection we won’t transfer your personal data to any third-party entities other than the ones located in United States and listed within the Privacy Shield Framework or those located in European Union and which are subject to GDPR – EU Regulation 2016/679 of 27 April 2016 or other entities securing adequate data protection standards, unless you expressly consent or demand to do so;
+  * your data may be disclosed to the trusted third-party recipients who supply UXPin with auxiliary payment processing or marketing services, etc. ([listed here](https://web.archive.org/third-party-tools)), and to our subsidiary – UXPin Sp. z o.o. a Polish (EU) company with business address at Aleja Grunwaldzka 186, 80-266 Gdańsk, Poland, TAX ID NO: PL5862274376, KRS: 0000400136;
+  * in order to secure high standards of data protection we won’t transfer your personal data to any third-party entities other than the ones located in United States and listed within the Privacy Shield Framework Principles or those located in European Union and which are subject to GDPR – EU Regulation 2016/679 of 27 April 2016 or other entities securing adequate data protection standards, unless you expressly consent or demand to do so;
   * we will store your personal information only for the necessary period required due to the purpose of their processing, depending on the circumstances, i.e. for instance until full settlement of payments for your subscription or until you decide to unsubscribe from our mailing lists;
   * UXPin provides that you may access, rectify or erase your personal data, restrict the processing and object to processing of your data at any time – particularly upon login to your profile or by [contacting us](mailto:hello@uxpin.com); please note that this may involve cancelling subscription of our newsletter, revoking access to our educational materials, or may be subject to cancelling your paid subscription of Service, full settlement of payments or be limited by respective laws; UXPin also enables you to have the copy of your data downloaded in a machine-readable format. To get the copy of your data, email us at hello@uxpin.com; you can find more comprehensive list of your rights and ways to exercise them in sec. 5 of this Privacy Policy;
   * we may use cookies and collect other metadata – depending on the settings of your web browser and according to our Cookie Policy; such data may be used to personalize the content of the Site, for marketing purposes, for statistics and to learn where did you discover UXPin, which sites have you visited prior to our Site, how you use the Site and the Services so that we can develop and improve our products more efficiently; this data will never be shared with any third-parties other than trusted third-parties as describe in this document, used solely for the purposes the information were collected for;
-  * we may practice profiling to assess if you have already subscribed to our Service and target you relevant advertisements of UXPin products or the Services features but we don’t make material decisions upon the profiling results;
+  * we may practice profiling to assess if you have already subscribed to our Service and target you with relevant advertisements of UXPin products or the Services features but we don’t make material decisions upon the profiling results;
   * shall you have any privacy related complaints or suggestions, you may contact us at hello@uxpin.com; it’s best to contact UXPin as the first step; you also have the right to lodge a complaint with a supervisory authority relevant for your country (for EU individuals see this [link](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm));
-  * please be informed that UXPin and its controlled subsidiaries do comply with the EU-U.S. and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union or Switzerland to the United States, as stipulated in the “UXPin Privacy Shield Framework Policy”, accessible via Site at [https://www.uxpin.com/privacy-shield](https://web.archive.org/privacy-shield).
+  * please be informed that UXPin and its controlled subsidiaries do comply with the EU-U.S. and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from Individual Customers in the European Union member states or Switzerland to the United States, as stipulated in the “UXPin Privacy Shield Framework Policy”, accessible via Site at [https://www.uxpin.com/privacy-shield](https://web.archive.org/privacy-shield).
+  * UXPin has certified that it adheres to the Privacy Shield Privacy Principles of Notice, Choice, Accountability for onward transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability. Shall there be any conflict between the policies in this privacy policy and the Privacy Shield Privacy Principles, the Privacy Shield Privacy Principles shall prevail.
+  * To learn more about the Privacy Shield program, and to view our certification page, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+  * You can also verify yourself our participation in the Privacy Shield program and validity of our entry by searching us on the Privacy Shield List that you can find here: <https://www.privacyshield.gov/list>.
+  * The Federal Trade Commission (FTC) has jurisdiction over UXPin’s compliance with the Privacy Shield and the UXPin shall be subjected to the investigatory and enforcement powers of the FTC.
 
 
 
@@ -44,7 +49,7 @@ When You use the UXPin Site and Service we may collect various information neces
 
 When registering for an account on UXPin, we will collect the following information: **(i)** your e-mail address and **(ii)** a unique password. We may also collect information regarding your name and surname or company name, your team size, your role in a team, and telephone number. You submit all the data voluntarily but some of them may be obligatory to use certain functionalities of the Site.
 
-When paying to use the Site, we may collect further information from you including: evidential numbers (tax identity number, registration number in relevant court, administrative or commercial registers – in case of corporate entities), billing address and credit card information. If you submit payment information, we do not store credit card numbers you may use to make payments on the Site. Payment information is passed on to, and may be stored by, our third-party payment processors ([listed here](https://www.uxpin.com/community/tutorials/third-party-tools-and-services-used-by-uxpin/)).
+When paying to use the Site, we may collect further information from you including: evidential numbers (tax identity number, registration number in relevant court, administrative or commercial registers – in case of corporate entities), billing address and credit card information. If you submit payment information, we do not store credit card numbers you may use to make payments on the Site. Payment information is passed on to, and may be stored by, our third-party payment processors ([listed here](https://web.archive.org/third-party-tools)).
 
 It is your responsibility to give us current, complete, truthful and accurate information, and to keep such information up to date. UXPin will not be responsible for any problems or liability related to inaccurate or incomplete personal information, whether due to your failure to update such personal information or otherwise.
 
@@ -73,7 +78,7 @@ We need the data you submit to supply you with the UXPin Service and fully enabl
 
   2. ### Account Maintenance.
 
-We may use the collected information for the purposes for which you provided the information including, for example, to create and maintain a Site account for you or to respond to a question that you e-mail to us. We also use the collected information as necessary to help us better understand your ways of using the UXPin products and behaviour so that we may make decisions about how we manage your account, offer discounts and provide the features and functionality of the Site to you.
+We may use the collected information for the purposes for which you provided the information including, for example, to create and maintain a Site account for you or to respond to a question that you e-mail to us. The collected information may also be used, whenever necessary, to help us better understand your ways of using the UXPin products and behaviour so that we may make decisions about how we manage your account, offer discounts and provide the features and functionality of the Site to you.
 
   3. ### Updates and Troubleshooting.
 
@@ -81,19 +86,19 @@ We may also use the collected information to contact you regarding updates or mo
 
   4. ### Personalized Content and Enhancing UXPin Product.
 
-We may use the collected information to personalize the content that you and others see based on personal characteristics or preferences and to allow you to participate in interactive features of our Service, when you choose to do so. We may also analyze collected information relating to your use of the Site in order to help us improve the Site and develop and improve other products and services, i.e. to help market and provide new products and services that interest you.
+Based on personal characteristics or preferences, we may use the collected information to personalize the content that you and others see in order to allow you to participate in interactive features of our Service at your personal convenience. We may also analyze collected information relating to your use of the Site in order to help us improve the Site and develop and improve UXPin's other products and services, i.e. to help market and provide new products and services that you might find interesting.
 
   5. ### Promotional Offers and Other Design Related Communication.
 
-We may use the collected information to provide you with promotional materials, personalize advertisements and offers or information that we feel may interest you such as design news, conferences, webinars, etc. or other projects that UXPin is engaged in.
+We may use the collected information to provide you with promotional materials, personalize advertisements and offers or information that we feel may be of interest to you, especially but not limited to design news, conferences, webinars, etc. or other projects that UXPin is engaged in.
 
-However, we will give you the ability to opt out of receiving such e-mails in accordance with applicable law. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at hello@uxpin.com and include sufficient information for us to identify your account, including your name, e-mail address and the specifics of your request, or you can use the “unsubscribe” or “change your email preferences” link at the bottom of an e-mail message. However, after you unsubscribe to cease receiving e-mails, depending on the chosen setting or continuation of your subscription to the Service, we may still contact you via e-mail for administrative or informational purposes, including messages regarding the administration of your account (if you have one). We never provide your personally identifiable information to third parties for their own marketing purposes without your consent, which shall be voluntary – the absence of such consent shall in no way limit your ability to use the Service.
+However, we will give you the ability to opt out of receiving such e-mails in accordance with applicable law. If you no longer wish to receive e-mail or other mail from us, please notify us by e-mail at hello@uxpin.com and include sufficient information for us to identify your account, including your name, e-mail address and the specifics of your request, or you can use the “unsubscribe” or “change your email preferences” link at the bottom of an e-mail message. However, after you unsubscribe to cease receiving e-mails, depending on the chosen setting or continuation of your subscription to the Service, we may still contact you via e-mail for administrative or informational purposes, including messages regarding the administration of your account (if you have one). We never provide your personally identifiable information to third parties for their own marketing purposes without your consent, which shall be voluntary – the absence of such consent shall in no way limit your ability to use the Service.
 
   6. ### Third-Party Web Analytics.
 
 UXPin may use third-party analytics providers and products to obtain, compile and analyze Information about how users are using and interacting with UXPin and/or the Services and about devices used. These analytics providers may use a variety of established or new tracking technologies or tools (including, without limitation, cookies, pixels, web beacons, HTTP cache, local shared objects and persistent identifiers) to recognize your computer or device and/or to collect or compile this information. We may use these information to improve your experience of using the UXPin Service and to improve the overall quality of our Service, as well for our own marketing purposes and practices such as to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you. We may also use this data to make suggestions and recommendations to you about UXPin services of features of Service or Site that may interest you as well as for other purposes described in sec. 3.1.-3.5. above. UXPin has no control over the technologies, tools or practices of the third parties that providing analytics products and services to UXPin.
 
-Third-party web analytics service providers we engage, may use cookies in order to provide analytics services for the Site to us. You can find them [listed here](https://www.uxpin.com/community/tutorials/third-party-tools-and-services-used-by-uxpin/).
+Third-party web analytics service providers we engage, may use cookies in order to provide analytics services for the Site to us. You can find them [listed here](https://web.archive.org/third-party-tools).
 
   7. ### Legal grounds for data processing
 
@@ -125,7 +130,7 @@ As you can see we are really into transparency of data processing here at UXPin.
     5. Customer Support and general services providers - we use customer support platforms in connection with your submitted information to help you troubleshoot problems relating to UXPin, facilitate our communication via diverse means and other suppliers of general services like accountants, consultants, etc.
     6. Hosting and cloud computing services providers.
 
-The actual list of Third-Party Service Providers and their Privacy Policies is available [here](https://www.uxpin.com/community/tutorials/third-party-tools-and-services-used-by-uxpin/).
+The actual list of Third-Party Service Providers and their Privacy Policies is available [here](https://web.archive.org/third-party-tools).
 
   2. ### Business Arrangements.
 
@@ -140,6 +145,8 @@ We may also disclose the information enforce or apply the Terms of Service and/o
   4. ### Affiliates. Reorganization.
 
 We may disclose this information to our affiliates for use as described in this Policy nevertheless such affiliates never determine the purposes and means of the processing of personal data but may solely supply auxiliary services to UXPin Inc. In the event of a merger, sale of capital stock or assets, reorganization, consolidation or similar transaction involving UXPin, the information we possess, including personally identifiable information, shall be transferred as a corporate asset to the acquiring entity, provided that such entity will continue to handle such information in accordance with this Policy.
+
+In any case, UXPin maintains contracts with the aforementioned affiliates and service providers, restricting their access, use and disclosure of personal data in compliance with our Privacy Shield obligations. UXPin may be liable if such parties fail to meet those obligations and we are responsible for the event giving rise to the damage.
 
 
 
@@ -203,6 +210,24 @@ If you have any questions about this Policy, please contact us at hello@uxpin.co
 
 
 
+## Recourse and arbitration
+
+In compliance with the EU-U.S. Privacy Shield, we strive to investigate and resolve any and all complaints about the privacy and the collection or use of customer information outlined in this Policy. We maintain security incident management policies and procedures. We shall notify Customer and appropriate data protection agencies, in accordance with applicable data protection laws of any breach relating to Personal Data of which we become aware and which may require a notification to be made.
+
+If you have questions about our participation in the Privacy Shield or have a complaint, please contact our Privacy Team at [privacy@uxpin.com](mailto:privacy@uxpin.com).
+
+UXPin will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information by reference to the principles contained in this Policy.
+
+If you do not receive timely acknowledgment of your complaint, that is in 45 days, or if your complaint is not satisfactorily addressed, any unresolved privacy complaint can be referred to an independent recourse mechanism.
+
+UXPin has committed to cooperate with the EU Data Protection Authorities (DPAs) and the Swiss Data Protection and Information Commissioner (FDPIC) as the Independent Recourse Mechanism (IRMs). UXPin will cooperate with the DPAs in the investigation and resolution of complaints brought under the Privacy Shield.
+
+UXPin shall comply with any advice given by the DPAs where the DPAs take the view that the organization needs to take specific action to comply with the Privacy Shield Principles, including remedial or compensatory measures for the benefit of individuals affected by any non-compliance with the Principles, and will provide the DPAs with written confirmation that such action has been taken.
+
+UXPIN has agreed to participate in the dispute resolution procedures of the panel established by the EU data protection authorities to resolve disputes pursuant to the Principles. A resident of the European Union (EU) whose inquiry has not been satisfactorily addressed may contact either the EU DPAs panel at ec-dppanel-secr@ec.europa.eu or individual EU DPAs using the information provided at <https://edpb.europa.eu/about-edpb/board/members_en>
+
+Under certain conditions, and consistent with our IRM cooperation, you may also invoke a binding arbitration pursuant to the Privacy Shield’s Recourse, Enforcement and Liability Principle and Annex I of the Privacy Shield. For additional information relating to your right to invoke binding arbitration, please view the information available at the following link: <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
+
 ## Cookie Policy
 
   1. ### What Are Cookies.
@@ -235,7 +260,7 @@ In order to provide you with a great experience on the Site we provide the funct
 
 In some special cases we also use cookies provided by trusted third parties. The following section details which third party cookies you might encounter through the Site.
 
-The Site uses third-party analytics services for helping us to understand how you use the Site and ways that we can improve your experience. The actual list of Third-Party Service Providers and their privacy policies is available [here](https://www.uxpin.com/community/tutorials/third-party-tools-and-services-used-by-uxpin/). These third-party cookies may track things such as how long you spend on the Site and the pages that you visit so we can continue to produce engaging content and we can better understand how we can improve the Site for you. From time to time we test new features and make subtle changes to the way that the Site is delivered. When we are still testing new features these cookies may be used to ensure that you receive a consistent experience whilst on the Site whilst ensuring we understand which optimisations our users appreciate the most.
+The Site uses third-party analytics services for helping us to understand how you use the Site and ways that we can improve your experience. The actual list of Third-Party Service Providers and their privacy policies is available [here](https://web.archive.org/third-party-tools). These third-party cookies may track things such as how long you spend on the Site and the pages that you visit so we can continue to produce engaging content and we can better understand how we can improve the Site for you. From time to time we test new features and make subtle changes to the way that the Site is delivered. When we are still testing new features these cookies may be used to ensure that you receive a consistent experience whilst on the Site whilst ensuring we understand which optimisations our users appreciate the most.
 
 As we sell products it's important for us to understand statistics about how many of the visitors to our Site actually make a purchase and as such this is the kind of data that these cookies will track. This is important to you as it means that we can accurately make business predictions that allow us to monitor our advertising and product costs to ensure the best possible price.
 
