@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoneky.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525093526id_/http%3A//phoneky.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoneky.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130175443id_/http%3A//phoneky.com/my/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # PHONEKY -
 
@@ -93,4 +93,4 @@ PHONEKY reserves the right, at its sole discretion, to modify or replace this Pr
 
 Changes to this Privacy Policy will be posted on this page. If we make a material change to our privacy practices, we will provide notice on the site or by other means as appropriate.
 
-**Last Updated:** November 01, 2018 
+**Last Updated:** November 01, 2019 
