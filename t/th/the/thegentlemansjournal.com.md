@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegentlemansjournal.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331011608id_/https%3A//www.thegentlemansjournal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegentlemansjournal.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130192311id_/https%3A//www.thegentlemansjournal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Gentleman's Journal | The latest in style and grooming, food and drink, business, lifestyle, culture, sports, restaurants, nightlife, travel and power.
 
