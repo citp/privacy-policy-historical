@@ -1,114 +1,128 @@
-> *The following text is extracted and transformed from the parishesonline.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530224039id_/http%3A//www.4lpi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parishesonline.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130200958id_/http%3A//www.4lpi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LPi
 
-LPi recognizes the importance of maintaining the privacy of your personal and sensitive information. The features and functionality of this website do require us to collect such information and we have a responsibility to protect this information for as long as it is in our possession. The vision of LPi is to create lifetime customer relationships. At LPi, we understand that relationships are based on trust and respect; and we promise to treat you and your information in a respectful and ethical manner.
+_Last updated: June 30, 2019_
 
-To support these obligations, LPi has established a set of data privacy principles. We respect your privacy by:
+LPi (“we,” “our,” or “us”) understands the importance of your privacy and we take our responsibility to protect your information seriously. This Privacy Policy (the “Policy”) describes the types of information that we collect from you, how we use and share that information, and certain choices you may have regarding your information. This Policy applies to information we collect from you through your use of our online applications, Brand identities, and services (the “Services”). It also applies to information we collect from you through our website(s), direct communications and inquiries, certain member or business lists you may provide to us at our request or create in use of our Services, or otherwise. The vision of LPi is to create lifetime customer relationships. At LPi, we understand that relationships are based on trust and respect; and we promise to treat you and your information in a respectful and ethical manner.
 
-  * Offering privacy notices that explain how and why we handle personal information.
-  * Respecting your choices about our collection, use, and sharing of information, where appropriate.
-  * Collecting, using, and retaining only personal information that is relevant and useful to our business interactions.
-  * Using reasonable efforts to keep personal information accurate and up to date.
-  * Using safeguards to protect personal information.
-  * Limiting access to, and disclosure of, personal information.
-  * Retaining only the personal information that is needed to fill our legal and business obligations.
-  * Offering you the ability to view and update your personal information where appropriate.
-  * Providing you with an opportunity to ask questions and register complaints about privacy.
+Please read this Policy carefully before using our website or Services. By using our website and Services, you agree to the terms of this Policy and our collection, use, and disclosure of information as described below. If you do not agree with the practices described in this Policy, you may choose not to use the website or our Services. Your use of our Services is also subject to any applicable Terms of Service or other agreements.
 
+Please note that we provide many of our services to organizations, such as non-profits, churches, dioceses, schools, colleges, universities, camps, faith-based institutions, senior centers, and other youth enrichment and community organizations (collectively, “Organizations”). Our Services may contain links to these third-party Organizations’ websites. These Organizations have their own privacy practices relating to your information. We cannot take responsibility for the content of their websites or their data-handling practices. This Policy does not apply to the practices of these third-party Organizations, nor do we control them.
 
+### Personal Information We May Collect About You
 
-LPi cares about the privacy of our customers and website visitors. This notice contains information about how we handle your personal information. We collect and process your personal information for the following purposes where necessary:
+“Personal information” is any information that identifies you or can be used to contact you. You may provide, and we may collect, various types of personal information through our website and Services, which can be grouped as follows:
 
-  * To maintain our contractual or business relationship with you.
-  * For employment-related services where applicable.
-  * To tell you about the products and services we offer.
-  * To contact and correspond with you.
-  * For the management and defense of legal claims and actions, compliance with court orders and other legal obligations, and regulatory requirements, and as otherwise permitted by law.
+  *  **Contact, profile, and registration information** — We may collect certain information from you when you use, register for, or set up a profile through one of our Services, including your name, email address, address, telephone number, username, and user ID.
+  *  **Organizational Information** — Through your use of our Services, we may collect certain types of information relating to the Organization with which you are affiliated, such as the Organization’s name, type, and contact information, and your position at the Organization.
+  *  **Service Use Information** — After you register to use or set up an account for one of our Services, you may be able to provide additional personal information through the Service, as well as information regarding any Organization with which you are affiliated. For example, some of our Services allow you to provide information about performances and other events in which you are participating. In certain circumstances, such information may also be provided by third parties, such as other individuals at the Organization, parents, teachers, or administrators who have accounts with our Services.
+  *  **Payment Information** — Some of LPi’s Services will allow you to make payments for events, donations, and other items. In doing so, we collect details regarding the payment transaction, which can include the amount of the transaction, payment card information, and purchaser’s name and address. To ensure this information is secure, LPi uses advanced technologies and follows stringent security guidelines. Specifically, LPi complies with the Payment Card Industry (PCI) Data Security Standards.
+  *  **Inquiry information** — If you contact us through our website, email, or otherwise, we may collect information about you, your inquiries, and any communications with us. Likewise, if you post comments on blogs available on our websites, we may collect and store those comments. We may request you participate in surveys from time to time, and will store the responses to such surveys.
+  *  **Communications via Services** — Some of our Services may permit you to communicate with other users, including through messages or notes. We may, at our discretion, monitor the communications that take place on our Services to protect our Users and monitor the effectiveness of our Service. You acknowledge that you do not have an expectation of privacy with respect to such communications via our Services and consent to such monitoring.
+  *  **Member Information** — Through your use of our Services, we may request of you and/or you may create lists containing certain types of information relating to member or business affiliates of the Organization (the “Lists”). You agree to allow LPi use of the Lists for the benefit of the Organization in certain engagement and/or solicitation campaigns. LPi may cross-reference the List with other public domain or privately licensed data for its business purposes.
 
 
 
-LPi collects, processes, and discloses sensitive personal information only if required to comply with legal obligations, or if there is a compelling business reason to do so, or with your consent. If you would like more information about LPi’s privacy practices, please [contact us](https://web.archive.org/contact-us/).
+### Other Information We Collect from You
 
- **Automatically Collected Information**
+Like most websites, we use technologies (discussed below) that may automatically collect information about you regarding your use of our website and Services. We may combine this information with other personal information we collect from you.
 
-Like many other websites, this website automatically collects certain non-identifiable information regarding website users, such as the Internet Protocol (IP) address of your computer, the IP address of your Internet Service Provider, the date and time you access the website, the Internet address of the website from which you linked directly to the website, the operating system you are using, the sections of the website you visit, the website pages accessed and information viewed, and the materials you post to, or download from the website. This non-identifiable information is used for websites and system administration purposes and to improve the website. Your non-identifiable information may be disclosed to others and permanently archived for future use.
+ **IP Address or Device Identifier.** When you visit our website, we collect your Internet Protocol (“IP”) address, which identifies the computer or service provider that you use to access our website or your mobile device identifier. We may use these identifiers to collect information about the length of time spent on our website or the specific areas visited. Likewise, when you access our Services using a mobile device, we may collect a unique identification number associated with your device, details regarding the device type, and, depending on your device settings, geographical location information relating to the device.
 
- **Cookies**
+ **Cookies.** Cookies are small text files with alphanumeric characters that we transfer to your computer’s hard drive through your web browser for record-keeping purposes. Cookies permit us to automatically recognize you when you return to our website, let you log in faster, and enhance your navigation of our websites. They also allow us to track and collect information about your interactions with our website, including how frequently you use the Service, the pages you view, the links you click, and your usage over time. For more information about cookies, including how to refuse cookies, visit [www.allaboutcookies.org.](https://www.allaboutcookies.org/) Note: if cookies are disabled, you may not be able to enjoy certain features of our websites or Services.
 
-This website uses “cookies,” a technology that installs information on a website user’s computer to permit the website to recognize future visits using that computer. Cookies enhance the convenience and use of the website. For example, the information provided through cookies is used to recognize you as a previous user of the website, to track your activity at the website in order to respond to your needs, to offer personalized Web page content and information for your use, to automatically populate online forms with your personal information for your convenience, and to otherwise facilitate your website experience.
+### How We Use Your Information
 
-Advertisements displayed on the website may also contain cookies or other technologies. Those advertisements may be provided by third-party advertising companies, and LPi does not have any control over, or any responsibility or liability for, the cookies or other technologies used in the advertisements or for use and disclosure of information collected through advertisement cookies. You may choose to decline cookies if your browser permits, but doing so may affect your use of this website and your ability to access or use certain website features.
+In addition to the uses discussed above, we use the information we collect about you, including your personal information, to:
 
- **Data You Provide**
-
-When you use this site, you may do things like complete your personal profile, send messages, create content, collaborate about content, and post comments. We collect this information so that we can provide you these services and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily return to your favorite church.
-
-You post content on the website at your own risk. Although we allow you to set preferences and permissions that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We are not responsible for circumvention of any preferences or permissions or security measures contained on the website. You understand and acknowledge that, even after removal, copies of Individual Content may remain viewable in cached and archived pages or if other individuals have copied or stored your Individual Content.
-
-Profile information is used by LPi primarily to be presented back to and edited by you when you access the service and to be presented to other registered users permitted to view that information by your preferences and permissions.
-
-LPi may send you service-related announcements from time to time on the services LPi offers its customers. Generally, you may opt out of such e-mails from the preferences and permissions page, though LPi reserves the right to send you notice about your account even if you opt out of all voluntary e-mail notifications.
-
- **Links**
-
-LPi may contain links to other websites. We are of course not responsible for the privacy practices of other websites. We encourage our individuals to be aware when they leave our site to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Notice applies solely to information collected on LPi’s websites.
-
- **Third-Party Business Partners and Advertising**
-
-Advertisements or information from our business sponsors who support your communities and churches may appear on our website and are sometimes delivered (or “served”) directly to individuals by third-party advertisers. They automatically receive your IP address when this happens. These third-party advertisers may also download cookies to your computer or use other technologies such as JavaScript and “web beacons” (also known as “1×1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. LPi does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on LPi unless you choose to share it with them.
-
-This privacy notice covers the use of cookies by LPi and does not cover the use of cookies or other tracking technologies by any of its advertisers.
-
-From time to time, LPi may send you advertisements from our business sponsors. You may opt out of such e-mails from the Preferences and Permissions Page. ****
-
-**Our Use and Disclosure of Information**
-
- **Internal Uses**
-
-We collect, store, and process your personal information on servers located in the United States. We use the information we collect about you in order 1) to provide our services and process your transactions, 2) to provide customer service, 3) to improve our products and services.
-
-We give access to individually identifiable information about our users only to those employees who require it to fulfill customer service requests.
-
-LPi may use non-personal information to create aggregate tracking information reports regarding website user demographics and the use of this website, and then provide those reports to others. None of the tracking information in the reports is connected to the identities or other personal information of individual users.
-
- **Disclosure to Other LPi Customers Using WeShare**
-
-If you are a registered WeShare user, your name, e-mail address, address, phone number and some credit card or bank account information are displayed to non-profit benefactors you choose to donate to. If you are a non-profit benefactor account holder, we will also display to other WeShare customers the account profile information such as website, email address, phone number and address that you provide us. However, your credit card number, bank account or routing number and other financial information will NEVER be revealed to anyone whom you have sent money to or received money through your WeShare account, except with your express written permission or if we are required to do so pursuant to a subpoena or other legal process.
-
-We work with third party non-profit benefactor to enable them to accept donations from you, including direct credit card or bank account information. Non-profit benefactors who use this service will share personally identifiable information you provide to them with WeShare in order to validate the information, or confirm the existence or status of your WeShare account. You permit LPi to share information with the merchant on the validity of the personally identifiable information you provided to the non-profit benefactor and on the existence or status of your WeShare account.
-
- **Disclosure to Third Parties Other Than LPi Customers using WeShare**
-
-LPi will not sell or rent any of your personally identifiable information to third parties. LPi will not share any of your personally identifiable information with third parties except in the limited circumstances described below or with your express permission (and with other LPi customers as described above). These third parties are limited by law or by contract from using the information for secondary purposes beyond the purposes for which the information is shared.
-
-  1. We share information with companies that help us process the transactions you request and protect our customers’ transactions from fraud. Additionally, if you go into a negative balance and owe us money, we may share information with processing companies including collection agencies.
-  2. We disclose information that we in good faith believe is appropriate to cooperate in investigations of fraud or other illegal activity or to conduct investigations of violations of our User Agreement. For example, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity’s contact information (but not bank account or credit card information) to victims who request it.
-  3. We disclose information in response to a subpoena, warrant, court order, levy, attachment, order of a court-appointed receiver, or other comparable legal process, including subpoenas from private parties in a civil action.
-  4. We disclose information to your agent or legal representative (such as the holder of a power of attorney that you grant or a guardian appointed for you).
-  5. We share aggregated statistical data with our business partners or for public relations. For example, we may disclose that a specific percentage of our users live in California. However, this aggregated information is not tied to personally identifiable information.
-  6. As with any other business, it is possible that LPi in the future could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by LPi, including customer account information, but would continue to be bound by this Privacy Policy unless and until it is amended as described above.
+  * operate, maintain, and provide you and the Organization with whom you are affiliated with the Services for which you have registered;
+  * present the content of our website and Service platforms to you;
+  * optimize your experience as a user of our website or Services;
+  * respond to inquiries from you or your Organization regarding our Services;
+  * send you Service-related emails and messages (e.g., account verification, payment confirmations, changes or updates regarding features of the Service, and technical or security notices) and provide customer support and manage our relationship with you or your Organization;
+  * permit other users of the Service of the Organization with which you are affiliated to contact you;
+  * perform research and analysis about your use of, or interest in, our Services;
+  * process any payment transactions submitted through our Services; and
+  * perform other functions as otherwise described to you at the time of collection.
 
 
 
- **Our Contacts with LPi Customers using WeShare**
+For more information about your options relating to your personal information and your communication preferences, see “Your Choices regarding Your Information” below.
 
-We communicate with users on a regular basis via e-mail to provide requested services, and we also communicate by phone to resolve customer complaints or investigate suspicious transactions. We use your e-mail address to confirm your opening of a WeShare account, to send you notice of donations that you send or receive through WeShare, to send information about important changes to our products and services, and to send notices and other disclosures required by law. Generally, users cannot opt out of some of these communications, but they will be primarily informational in nature rather than promotional.
+### Disclosure to LPi Customers
 
-We also use your e-mail address to send you other types of communications that you can control, including the non-profit benefactor newsletter. You can choose whether to receive some, all, or none of these communications when you complete the registration process, or at any time thereafter, by logging in to your account on the WeShare website and changing your preferences in the Email Addresses page of the Personal Info tab.
+If you are a registered user, your name, e-mail address, address, phone number and minimal credit card or bank account information are displayed to the Organizations you choose to make a payment to. If you are an Organization account holder, we will display your account profile information such as website, email address, phone number and address that you provide us. However, your credit card number, bank account or routing number and other financial information will NEVER be revealed to anyone whom you have sent money to or received money through your account, or if we are required to do so pursuant to a subpoena or other legal process.
 
-In connection with independent audits of our financial statements and operations, the auditors may seek to contact a sample of our customers to confirm that our records are accurate. However, these auditors cannot use personally identifiable information for any secondary purposes.
+We work with our third-party customer Organizations to enable them to accept payments from you. Organizations who use our service will share personally identifiable information you provide to them with LPi in order to validate the information or confirm the existence or status of your LPi account. You also permit LPi to share your information with the Organization of which you are affiliated with or making a payment to.
 
- **OTHER MATTERS**
+### Disclosure of Your Information to Third Parties Other than LPi Customers
 
- **Security** —LPi works to keep our servers, applications, and databases secure and free from unauthorized access and use by using physical, administrative, and technological measures to protect the information we maintain. Unfortunately, no one can guarantee 100% security. If you have particular security concerns about certain personal information, please do not transmit that information over the Internet.
+When the information we collect about you is aggregated, anonymized, or otherwise does not identify you, we may use that information for any purpose or share it with third parties, to the extent permitted by applicable law.
 
- **Other websites** —This website may contain links to other websites or Internet resources. When you click on one of those links, you are contacting another website or Internet resource that may collect information about you voluntarily or through cookies or other technologies. LPi has no responsibility, liability for, or control over those other websites or Internet resources or their collection, use, and disclosure of your personal information. You should review the privacy policies of those other websites and Internet resources to understand how they collect and use information.
+In addition, we may share your information with the following entities:
 
- **Privacy Notice Changes** —LPi may change, supplement, or amend this notice as it relates to your future use of this website from time to time, for any reason. This notice was last updated on 28 December 2008.
+  * Service providers and third-party vendors that we use to support our business, including companies that perform work necessary for us to provide products and services to you or your Organization, or that assist us in improving our business operations and the products and services we provide.
+  * Third parties with whom you interact on the Services. For example, when you make information available to an Organization through one of our Services, your information will necessarily be shared with the Organization as part of the Service and may be shared with any third parties with whom the Organization also shares information. Each Organization controls the use and disclosure of the personal information it receives from users and, as stated above, this Policy does not apply to those practices, which are governed by the Organization’s privacy policy.
+  * Organizations that you select or to which you donate money using our Services. We share some of your information with those Organizations in order to allow them to communicate with you.
+  * With respect to an Organization of which we have explicitly allowed sharing of your information, buyers or other successors in the event of a merger, acquisition, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of our assets, whether as a going concern, or as a part of bankruptcy, liquidation, or similar proceeding, where the information is among the assets being transferred.
+  * Other parties for any purpose we disclose at the time you provide the information.
 
- **CHILDREN UNDER THE AGE OF 14**
 
-LPi does not knowingly collect or solicit personal information from anyone under the age of 14 or knowingly allow such persons to register. If you are under 14, please do not attempt to register on this site or send any information about yourself to us, including your name, address, telephone number, or e-mail address. No one under age 14 may provide any personal information to LPi or on this site. In the event that we learn that we have collected personal information from a child under age 14 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 14, please [contact us](https://web.archive.org/contact-us/).
 
-Any improper collection or misuse of information provided on our website is a violation of our [Terms & Conditions](https://web.archive.org/terms-and-conditions/) and should be reported to us through our [Contact Form](https://web.archive.org/contact-us/).
+We reserve the right to disclose your information as necessary to enforce our Terms of Service or comply with a subpoena or investigative demand, court order, request for cooperation from law enforcement or other governmental agency, to exercise our legal rights, to defend against legal claims, or as otherwise required by law.
+
+### Our Communications with LPi Customers
+
+We communicate with users on a regular basis via e-mail to provide requested services, and we also communicate by phone to resolve customer complaints or investigate suspicious transactions. We use your e-mail address to confirm your opening of an LPi account, to send you notice of payment that you send or receive through our Services, to send information about important changes to our products and services, and to send notices and other disclosures required by law. Generally, users cannot opt out of some of these communications, but they will be primarily informational in nature rather than promotional.
+
+We also use your e-mail address to send you other types of communications that you can control. You may choose whether to receive some, all or none of these communications when you complete the registration process, or at any time thereafter, by logging in to your account and changing your preferences or by clicking the “unsubscribe link” in the email you received. You can also change your choices at any time through the same procedure. In connection with independent audits of our financial statements and operations, the auditors may seek to contact a sample of our customers to confirm that our records are accurate. However, these auditors cannot use personally identifiable information for any secondary purposes.
+
+Further, Organizations and users of our Services can review, correct, and delete personal information that they have provided by accessing and updating that information through the Services. While Organizations should be handling correction and deletion requests for their users directly, they may contact LPi directly to do so. If you have questions about reviewing or modifying your account information, you can contact us directly [through email](mailto:compliance@4lpi.com). You can also choose not to provide us with certain information requested through our website, but that may result in being unable to use certain features of our Services. This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
+
+### Protection and Storage of Your Information
+
+We understand the importance of safeguarding your information and take appropriate administrative, technical, and physical measures to protect your personal information from loss, theft, and unauthorized use, disclosure, or modification. Please be aware, however, that no security measures or data transmission over the Internet is 100% secure. While we strive to protect your personal information, we cannot ensure or warranty the security of any information you transmit to us and you do so at your own risk.
+
+Please note that we may store and process your information in the United States. The United States may have laws regarding data collection and use that are different from, or less stringent than, the laws in your home country or state.
+
+### Non-U.S. Visitors
+
+LPi is located in the United States. Our websites, and its Services, are intended for use by Individuals and Organizations located in the United States. We do not seek personal information about individuals outside the United States. Accordingly, our collection of personal information and other data through our website and subsequent use and disclosure of that data is subject only to the laws of the United States, as applicable.
+
+### Privacy for Underage Users
+
+LPi does not knowingly collect or solicit information from children under the age of 13 or knowingly allow such persons to register as users for its Services. While LPi may receive certain information for children under 13 that a parent or Organization provides through our Services, the Services are not directed at children under that age. In registering for Services, Organizations, parents, and other users are required to certify that they will not permit or request that children under 13 submit information to the Service directly without adult supervision.
+
+Please note that, in order to use some of our Services, the user may need access to an ID number issued by the Organization offering the Service. Certain Services may include options that allow you to enter an email address or phone number that is shared with teachers, administrators, or other individuals affiliated with the Organization. By entering that information, you are authorizing them to contact you or your student.
+
+### California Residents’ Rights and Do-Not-Track Disclosure
+
+If you are a resident of California, you have the right to request information from us regarding the way we share certain categories of personal information with third parties for their direct marketing purposes. If applicable, California law gives you the right to send us a request at the email address designated below to receive the following information: (1) the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year; and (2) the names and addresses of the third parties that received that information.
+
+Please note that LPi does not honor “Do Not Track” signals as we do not use web beacons and such signals will not impact the operation of our Services.
+
+### Changes to this Privacy Policy
+
+Please note that we may change this Policy from time to time. We will post change here and update the “Last Updated” date at the top of this document. Continued use of this website after any changes is deemed to be acceptance of those changes. We encourage you to check the Policy periodically for updates.
+
+### How to Contact Us
+
+If you have any questions about this Policy or our information-handling practices, please contact us at:
+
+LPi  
+Attn: Compliance  
+2875 S James Dr.  
+New Berlin, WI 53151
+
+[https://www.4lpi.com/contact-us/](https://web.archive.org/contact-us/)
+
+Any improper collection or misuse of information provided on our website and Services is a violation of our [Terms & Conditions](https://web.archive.org/terms-and-conditions/) and should be reported.
+
+### Testimonials
+
+Hear what people are saying about LPi. Our dedicated staff service over 100,000 advertisers and 6500 non-profit customers with their weekly, monthly, and yearly communications and with our member and data management software solutions.
+
+[About LPi](https://web.archive.org/about/) | [Blog](https://web.archive.org/blog/) | [Careers](https://web.archive.org/careers/) | [Contact Us](https://web.archive.org/contact/)
+
+© 2019 LPi. All rights reserved. [Terms & Conditions](https://web.archive.org/terms-and-conditions).
