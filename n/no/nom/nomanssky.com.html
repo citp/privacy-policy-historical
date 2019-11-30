@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the nomanssky.com privacy policy that was archived on 2019-03-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190309125140id_/https%3A//www.nomanssky.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nomanssky.com privacy policy that was archived on 2019-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191130154940id_/https%3A//www.nomanssky.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-GB" prefix="og: http://ogp.me/ns#" class="no-js"><head>
-		<!-- Global site tag - Google Analytics -->
-		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-50514970-6"></script>
 		<script>
 			function eraseCookieFromAllPaths(name) {
 				var pathBits = location.pathname.split('/'); var pathCurrent = ' path=';
@@ -30,10 +28,10 @@
   				if (match) return match[2];
 			}
 			if(isAcceptedCookie() == 'yes') {
-				window.dataLayer = window.dataLayer || [];
-				function gtag(){dataLayer.push(arguments);}
-				gtag('js', new Date());
-				gtag('config', 'UA-50514970-6');
+				window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+				ga('create', 'UA-50514970-6', 'auto');
+				ga('require', 'maxScrollTracker');
+				ga('send', 'pageview');
 
 				// versaTag
 				var versaTag = {};
@@ -61,17 +59,19 @@
 				if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
 				n.queue=[];t=b.createElement(e);t.async=!0;
 				t.src=v;s=b.getElementsByTagName(e)[0];
-				s.parentNode.insertBefore(t,s)}(window,document,'script',
+				s.parentNode.insertBefore(t,s)}(window, document,'script',
 				'https://connect.facebook.net/en_US/fbevents.js');
-				fbq('init', '1793619630729481'); 
+				fbq('init', '545734312855827');
 				fbq('track', 'PageView');
+
 			} else {
 				deleteAllCookies();
 			}
 			
-			function gtagTracker(event, value) {
+			function gtagTracker(event, category, action = '', label = '') {
 				if(isAcceptedCookie() == 'yes') {
-					gtag(event, value);
+					ga('send', event, category, action, label);
+					fbq('track', 'InitiateCheckout', { content_name: category, content_category: label });
 				}
 			}
 
@@ -82,9 +82,8 @@
 			use_existing_jquery=false,
 			/* DO NOT EDIT BELOW THIS LINE */
 			f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-			</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=369023&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190309125140id_%2Fhttps%3A%2F%2Fwww.nomanssky.com%2Fprivacy-policy%2F&amp;r=0.8975961325721775" type="text/javascript"></script>
-		<!-- Global site tag - Google Analytics -->
-
+			</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=369023&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20191130154940id_%2Fhttps%3A%2F%2Fwww.nomanssky.com%2Fprivacy-policy%2F&amp;r=0.2046891932370003" type="text/javascript"></script>
+		
 		<meta charset="UTF-8">
 		
 
@@ -102,6 +101,8 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="">
 
+		<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+		<script src="https://nmswp.azureedge.net/app/themes/nomanssky/dist/scripts/autotrack.js"></script>
         <script src="https://nmswp.azureedge.net/app/themes/nomanssky/dist/scripts/main.js"></script>
 
 		<script id="ebOneTagUrlId" src="https://secure-ds.serving-sys.com/SemiCachedScripts/ebOneTag.js"></script>
@@ -126,7 +127,7 @@
 
 <link rel="stylesheet" id="cookie-law-info-css" href="https://nmswp.azureedge.net/app/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.6.10" media="all">
 <link rel="stylesheet" id="cookie-law-info-gdpr-css" href="https://nmswp.azureedge.net/app/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.6.10" media="all">
-<link rel="stylesheet" id="nomanssky-css" href="https://nmswp.azureedge.net/app/themes/nomanssky/dist/styles/main.css?ver=1548168436" media="all">
+<link rel="stylesheet" id="nomanssky-css" href="https://nmswp.azureedge.net/app/themes/nomanssky/dist/styles/main.css?ver=1575020116" media="all">
 <link rel="stylesheet" id="newsletter-css" href="https://nmswp.azureedge.net/app/plugins/newsletter/style.css?ver=5.7.4" media="all">
 <script type="text/javascript">
 /* <![CDATA[ */
@@ -142,7 +143,7 @@ var log_object = {"ajax_url":"https:\/\/www.nomanssky.com\/wp\/wp-admin\/admin-a
 	<body class="page-template-default page page-id-5712 privacy-policy">
 
 		<noscript><iframe src="https://bs.serving-sys.com/BurstingPipe?cn=ot&onetagid=9273&ns=1&activityValues=$$Session=[Session]$$&retargetingValues=$$$$&dynamicRetargetingValues=$$$$&acp=$$$$&" style="display:none;width:0px;height:0px"></iframe></noscript>
-		<noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=1793619630729481&ev=PageView&noscript=1"/></noscript>
+		<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=545734312855827&ev=PageView&noscript=1"/></noscript>
 		<!-- Google Tag Manager (noscript) -->
 		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFC7KTS"
 			height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -166,7 +167,7 @@ var log_object = {"ajax_url":"https:\/\/www.nomanssky.com\/wp\/wp-admin\/admin-a
 					<!-- umbrella nav -->
 					<button class="umbrella-nav__button js-umbrella-button"></button>
 					<div class="umbrella-nav js-umbrella-nav">
-						<a class="umbrella-nav__item" onclick="javascript:gtagTracker('event', 'From nav went to Galactic Atlas website')" href="https://galacticatlas.nomanssky.com/">
+						<a class="umbrella-nav__item" href="https://galacticatlas.nomanssky.com/">
 							<img src="https://nmswp.azureedge.net/app/themes/nomanssky/dist/images/umbrella-atlas-thumb-100x61.jpg">
 							<div class="umbrella-nav__meta">
 								<h4>Galactic Atlas</h4>
@@ -180,7 +181,8 @@ var log_object = {"ajax_url":"https:\/\/www.nomanssky.com\/wp\/wp-admin\/admin-a
 					<nav class="nav" role="navigation">
 						<input name="menuToggle" id="menuToggle" type="checkbox">
 						<label for="menuToggle" class="toggler">Menu</label>
-						<ul class="menu menu-header"><li id="menu-item-1591" class="cta cta--primary-ghost padding--none menu-item menu-item-type-custom menu-item-object-custom menu-item-1591 menu__item"><a href="/buy-now/">Buy Now</a></li>
+						<ul class="menu menu-header"><li id="menu-item-6582" class="cta cta--primary-ghost padding--none menu-item menu-item-type-custom menu-item-object-custom menu-item-6582 menu__item"><a href="/synthesis-update/">Latest Patch Notes</a></li>
+<li id="menu-item-1591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1591 menu__item"><a href="/buy-now/">Buy</a></li>
 <li id="menu-item-1661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1661 menu__item"><a href="https://www.nomanssky.com/release-log/">Release log</a></li>
 <li id="menu-item-5760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5760 menu__item"><a href="https://www.nomanssky.com/news/">News</a></li>
 <li id="menu-item-1581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1581 menu__item"><a href="https://hellogames.zendesk.com/">Help Centre</a></li>
@@ -386,6 +388,7 @@ We will use reasonable efforts to the extent required by law to supply, correct 
 <li id="menu-item-1601" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1601 menu__item"><a href="https://www.nomanssky.com/about/">About</a></li>
 <li id="menu-item-1611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1611 menu__item"><a href="https://www.nomanssky.com/news/">News</a></li>
 <li id="menu-item-5722" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-5712 current_page_item menu-item-5722 menu__item"><a href="https://www.nomanssky.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-6474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6474 menu__item"><a href="https://www.nomanssky.com/end-user-licence-agreement/">End user licence agreement</a></li>
 </ul>				</nav>
 				<!-- /nav -->
 
@@ -405,7 +408,7 @@ We will use reasonable efforts to the extent required by law to supply, correct 
 <div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
 <script type="text/javascript">
   //<![CDATA[
-  cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"#042833","border":"#444","border_on":false,"button_1_button_colour":"#095971","button_1_button_hover":"#07475a","button_1_link_colour":"#fff","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"#e0e0e0","button_2_button_hover":"#b3b3b3","button_2_link_colour":"#e0e0e0","button_2_as_button":false,"button_3_button_colour":"#095971","button_3_button_hover":"#07475a","button_3_link_colour":"#fff","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#fff","button_4_as_button":"fffffff","font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":true,"reject_close_reload":"fffffff","showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#ffffff","show_once_yn":false,"show_once":"10000","logging_on":false,"as_popup":"fffffff","popup_overlay":"fffffff","bar_heading_text":""}';
+  cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"#042833","border":"#444","border_on":false,"button_1_button_colour":"#095971","button_1_button_hover":"#07475a","button_1_link_colour":"#fff","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"#e0e0e0","button_2_button_hover":"#b3b3b3","button_2_link_colour":"#e0e0e0","button_2_as_button":false,"button_3_button_colour":"#095971","button_3_button_hover":"#07475a","button_3_link_colour":"#fff","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#fff","button_4_as_button":"fffffff","font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":false,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":true,"reject_close_reload":false,"showagain_tab":false,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#ffffff","show_once_yn":false,"show_once":"10000","logging_on":false,"as_popup":false,"popup_overlay":true,"bar_heading_text":""}';
   //]]>
 </script><script type="text/javascript">
 /* <![CDATA[ */
@@ -420,10 +423,10 @@ var newsletter = {"messages":{"email_error":"The email is not correct","name_err
 <!--
 Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
 
-Object Caching 35/72 objects using redis
+Object Caching 36/87 objects using redis
 Page Caching using redis 
 Content Delivery Network via nmswp.azureedge.net
-Database Caching 3/9 queries in 0.052 seconds using redis
+Database Caching using redis
 
-Served from: www.nomanssky.com @ 2019-03-09 12:51:41 by W3 Total Cache
+Served from: www.nomanssky.com @ 2019-11-30 15:49:42 by W3 Total Cache
 --></body></html>
