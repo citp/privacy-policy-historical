@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pngfacts.com privacy policy that was archived on 2018-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180131014101id_/http%3A//www.pngfacts.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pngfacts.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130161045id_/https%3A//www.pngfacts.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - PNG Facts
 
