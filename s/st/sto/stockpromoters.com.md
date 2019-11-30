@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622141312id_/https%3A//emerginggrowth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockpromoters.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130135841id_/https%3A//emerginggrowth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - EmergingGrowth.com
 
