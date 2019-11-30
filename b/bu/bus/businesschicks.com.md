@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesschicks.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420103110id_/https%3A//businesschicks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesschicks.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130220528id_/https%3A//businesschicks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Business Chicks
 
@@ -74,7 +74,7 @@ We collect certain information from you using cookies such as:
 
 **Your option not to provide your Personal Information  
 **  
-Providing us with your Personal Information is optional but may be required for us to be able to provide you with the services we offer. We require your consent to process your Personal Information for marketing purposes and to maintain your membership account with us and by providing your consent, you are consenting to our storage, use and disclosure of that information as outlined in this Privacy Policy. You don’t have to provide your consent, and can withdraw it at any time. However, if you do not provide us with consent to maintain a membership account, your account and access to the associated services will be suspended or terminated. There are no consequences of withdrawing your consent to process your Personal Information for marketing purposes and you can do so by emailing us at info@businesschicks.com.au.
+Providing us with your Personal Information is optional but may be required for us to be able to provide you with the services we offer. We require your consent to process your Personal Information for marketing purposes including Facebook custom audiences and to maintain your membership account with us and by providing your consent, you are consenting to our storage, use and disclosure of that information as outlined in this Privacy Policy. You don’t have to provide your consent, and can withdraw it at any time. However, if you do not provide us with consent to maintain a membership account, your account and access to the associated services will be suspended or terminated. There are no consequences of withdrawing your consent to process your Personal Information for marketing purposes and you can do so by emailing us at info@businesschicks.com.au.
 
 **Anonymity  
 **  
