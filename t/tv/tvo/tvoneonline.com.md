@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419071212id_/https%3A//tvone.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130214044id_/https%3A//tvone.tv/privacy) for the most accurate reproduction.*
 
 # Privacy
 
