@@ -1,158 +1,406 @@
-> *The following text is extracted and transformed from the beautyboutique.ca privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605094650id_/http%3A//corporate.shoppersdrugmart.ca/en-ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautyboutique.ca privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130051621id_/https%3A//www.loblaw.ca/en/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# Loblaw Companies Limited - Loblaw Privacy Policy
 
-**Privacy Code**
+**Effective Date:** March 13, 2019
 
-It is Shoppers Drug Mart’s policy not to give, rent or sell any information that personally identifies an individual to any organization or entity without the individual’s consent.
+**At Loblaw Companies Limited, we respect your privacy and take great care in protecting yourpersonal information. As a leading Canadian retailer, with operations spanning across the retail, health and financial industries, we have millions of customers interacting with us each week – in our stores and through our websites and mobile applications. Through these interactions, our customers entrust us with their personal information.**
 
-**1\. Accountability**
+**Canadians rely on us to safeguard this information and ensure its responsible collection and use. To do so, we have committed to the following principles:**
 
-The individuals who are accountable for Shoppers’ compliance with the privacy principles are:
+  1. **We will be transparent about how we handle your personal information and our privacy practices**
+  2. **We will use your personal information to benefit you and enhance your customer experience**
+  3. **We will protect your personal information and handle it responsibly**
 
-Chief Privacy Officer - Executive Vice President, Legal Affairs, General Counsel & Secretary
 
-Privacy Officer - Legal Council
 
-Privacy Officer - Director, Consumer Affairs & Corporate Affairs
+**We also want to be transparent about how you can help manage your privacy and information, so you can make informed decisions.**
 
-In each store the person responsible for that store’s compliance is:
+**Below is the full Loblaw Privacy Policy for more information.**
 
-Associate/Licensee of that store
+## Table of Contents
 
-**2\. Identifying Purposes**
+  1. Scope And Application
+  2. What Type Of Personal Information Do We Collect And How? 
+  3. How Do We Use Personal Information?
+  4. How Do We Share Personal Information?
+  5. How Do We Manage Consent?
+  6. How Do I Change My Privacy Choices?
+  7. How Do We Protect And Store Personal Information?
+  8. How Do I Request Access To My Personal Information?
+  9. How Do I Know If There Are Changes To The Privacy Policy?
+  10. Who Do I Contact With Privacy Questions?
 
-Whenever Shoppers collects personal information about an individual, we will explain how we intend to use it. We will limit the information we collect to what we need for identified purposes and we will only use it for those purposes. We will obtain the individual’s consent if we wish to use the information for another purpose.
 
-**3\. Consent**
 
-We will seek and confirm an individual’s consent to use his/her personal information at the time of collection of that information. We will endeavour to employ clear, understandable language when we obtain the individual’s consent. Consent may be expressed in writing or implied and in some cases, the individual may provide it verbally, in writing, electronically or through an authorized representative. We will imply consent where it is obvious from the information provided that we will be using that information for that purpose: for example, if an individual when presenting a prescription provides the pharmacy with the information of a health plan insurer, we may provide personal information to the health plan insurer in order to process the claim.
+[Loblaw Privacy Policy Summary (PDF)](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Loblaw-Privacy-Policy-Summary_Final_Feb5-2019-EN.pdf)
 
-The choice to provide us with personal information is always the individual’s. Upon request, we will explain the individual’s options of refusing or withholding consent of the collection, use or release of his/her personal information, and we will record and respect the individual’s written choices. However, an individual’s decision to withhold particular details may limit the services we are able to offer. 
+[Full Loblaw Privacy Policy (PDF)](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Full-Loblaw-Privacy-Policy_EN_Final_2019-02-13.pdf)
 
-**4\. Limiting Collection**
+## 1\. Scope & Application
 
-Our collection of personal information shall be limited to that which is necessary for the purposes identified. We will not collect any personal information beyond that which is necessary.
+This policy relates to the customer personal information collected by Loblaw Companies Limited and certain of its subsidiaries in Canada, as well as their websites, mobile applications and banners. Throughout this policy, we collectively refer to these companies as “Loblaw”, “we”, “us” or “our”. For more information see Which Companies are Included Under this Privacy Policy?
 
-**5\. Limiting Use, Disclosure & Retention**
+In this policy, we describe what personal information we collect; how we use, share and manage it; how you can access, update and/or correct your personal information; the privacy choices available to you; and the specific privacy notices relating to certain programs and services that provide you with more information.
 
-We will only use personal information for the purposes that were defined when it was collected. We will seek the individual’s consent before using the personal information for purposes beyond the scope of the original consent. Under no circumstances do we sell consumer lists or other personal information to third parties. From time to time, in the process of fulfilling our obligations and/or conducting our business, we provide the information to service providers to allow them to provide specific services to us. All service providers must undertake that they will keep all personal information confidential, only use it for the limited purposes of providing their services to us and return or destroy all personal information once they have provided the services.
+Please also refer to any privacy statements available at our locations, websites or mobile applications available to you at the time your personal information is collected. 
 
-We will retain the individual’s information only for the time that it is required for the purposes we described or as required by law. Once an individual’s personal information is no longer required, it will be destroyed or made anonymous.
+### A. Which Companies Are Included In This Privacy Policy?
 
-**6\. Accuracy**
+This policy applies to Loblaw Companies Limited and certain subsidiaries in Canada, as well as their websites, mobile applications and banners, as follows:
 
-We will make reasonable efforts to keep an individual’s information accurate and up-to-date.
+  * Loblaws Inc.;
+  * President’s Choice Services Inc.;
+  * President’s Choice Bank (PC Bank);
+  * PC Financial Insurance Broker Inc.;
+  * PC Financial Insurance Agency Inc.;
+  * Shoppers Drug Mart Inc.;
+  * Medical Cannabis by Shoppers Drug Mart Inc.;
+  * Shoppers Home Health Care (Canada) Inc.;
+  * Pharmaprix Inc.; and
+  * Certain other current and future subsidiaries of Loblaw.
 
-**7\. Safeguards – Protecting Personal Information**
 
-We protect all personal information by security safeguards appropriate to the sensitivity of the information. Our computer security specialists have built security into all our computer systems. Access to personal information is limited to only those employees requiring access in the performance of their duties, to any person granted access by the individual through the consent process and to those otherwise authorized by law. We give service providers only the information necessary to perform their services and we require that they do not store, analyze or use that information for any purposes other than to carry out those services.
 
-**8\. Openness**
+This policy does not apply to the following companies within the Loblaw group of companies, which have their own privacy policies available on their websites:
 
-If an individual has any additional questions or concerns about privacy, we invite them to contact one of the Privacy Officers who will try to address his/her concerns.
+  * [T&T Supermarket Inc.](https://www.tnt-supermarket.com/on/privacy-policy/);
+  * [Shoppers Drug Mart Specialty Health Network Inc.;](https://corporate.shoppersdrugmart.ca/en-ca/privacy-policy.aspx)
+  * [QHR Technologies Inc.](https://qhrtechnologies.com/privacy-policy/);
+  * [Sanis Health Inc.](http://sanis.com/en-us/privacy-policy.aspx); and
+  * [MediSystem Technologies Inc. & Subsidiaries](http://www.medisystempharmacy.com/privacy.html).
 
-**9\. Providing Individual Access**
 
-We will give an individual access to the information we retain about that individual within a reasonable timeframe, upon written request, satisfactory identification and proof of entitlement. If the individual finds any errors in the information retained by us, we urge the individual to contact us as soon as possible and we will make the appropriate corrections immediately, based on receipt of satisfactory evidence.
 
-If for some reason the request cannot be completed, we will advise the individual in writing of the reason for refusal. The individual may challenge our decision.
+Please visit the 'About Us' section on the [Loblaw.ca](https://www.loblaw.ca/en/about-us.html) webpage to learn more about our group of companies and banners.
 
-**10\. Challenging Compliance**
+### B. What Does This Privacy Policy Include?
 
-If an individual has been denied access by the Associate/Licensee of the store then the individual may, in writing, challenge the decision made by the Associate/Licensee to one of the Privacy Officers. An individual may challenge a decision made by one of the Privacy Officers to the Chief Privacy Officer.
+This policy describes how we handle your personal information, specifically, what we collect, and how we collect, use, share, protect and store it. We also explain your Privacy Choices and how you can exercise those choices.
 
-Shoppers Drug Mart invites anyone to contact us with any questions or concerns that they may have regarding the privacy of their personal information given to us or this Privacy Code. We will investigate and respond to the individual’s concerns about any aspect of the handling of his/her personal information. In most cases, an issue can be resolved simply by telling us about it and discussing it. If the issue is at store level, please contact the Associate/Licensee of the business. If after contacting the Associate/Licensee individuals feel that their concerns have not been addressed satisfactorily, they may contact one of the Privacy Officers. If the issue is still not resolved satisfactorily, the individual may contact the Chief Privacy Officer.
+This policy applies to you when you visit one of our websites, sign up to be a part of any of our programs, promotions, contests or events, apply for or purchase our products, or receive our services.
 
-Shoppers Drug Mart agrees to respect and observe the provisions set forth in the Personal Information Protection and Electronic Documents Act and other relevant legislation.
+The term “policy” also includes each of these specific privacy notices:
 
-Any changes to this Privacy Code and our information handling practices will be reflected in this privacy code in a timely manner. We may add, modify or remove portions of this code when we feel it is appropriate to do so.
+  * A [Loyalty Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Loyalty-Privacy-Notice_Final_Feb5-2019-EN.pdf), specific to the _PC Optimum_ program;
+  * A [Health Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Health-Privacy-Notice_Final_Feb5-2019-EN.pdf), specific to our healthcare services;
+  * An [Interest-Based Advertising and Media Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Interest-Based-Advertising-and-Media-Notice_Final_Feb5-2019-EN.pdf), specific to our tailored advertising;
+  * A [President’s Choice Financial Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/PCF-Privacy-Notice_Final_Feb5-2019-EN.pdf), specific to the financial services provided by President’s Choice Bank; and
+  * An [Insurance Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/PC-Insurance-Privacy-Notice_Final_Feb5-2019-EN.pdf), specific to the insurance services provided by PC® Insurance.
 
-All references in this document to “Shoppers” or “Shoppers Drug Mart” refer to Shoppers Drug Mart Inc. and Pharmaprix and the businesses owned and operated by the licensees of the stores operated under the Shoppers Drug Mart or Pharmaprix trade marks. All references to “us”, “we”, or “our” refer to Shoppers Drug Mart Inc. and/or its licensees as the context requires.
 
-**WEB PRIVACY**
 
-This Privacy Policy outlines the information Shoppers Drug Mart will collect on this web site and how it will use that information. It will also tell you who to contact about the personal information which is collected and what to do if you do not want your personal information collected. 
+Please note that specific privacy notices and/or additional terms and conditions may apply to how we are collecting and managing your information when you engage with some of our programs, products, services, promotions, contests and/or events. Those specific privacy notices and/or terms and conditions will apply together with this policy.
 
-This web site is owned and operated by Shoppers Drug Mart Inc.
+_For example:_
 
-Each Shoppers Drug Mart store is owned and operated under license from Shoppers Drug Mart Inc. by a licensee who is known as an "Associate".
+_You are required to accept terms and conditions when you register for our PC Optimum loyalty program. Those terms and conditions apply together with this policy._
 
-Shoppers Drug Mart agrees to respect and observe the provisions set forth in Personal Information Protection and Electronic Documents Act (the "Act") and any other relevant legislation. To the extent there is additional protection afforded to you pursuant to the Act, and same is not set forth herein, Shoppers Drug Mart agrees to take such measures to give full effect to such additional protection.
+## 2\. What Type of Personal Information Do We Collect and How?
 
-All references in this web site to "Shoppers Drug Mart" refer to Shoppers Drug Mart Inc. and/or its licensed Associates as the context requires. All references to "us", "we" or "our" refer to Shoppers Drug Mart Inc. and/or its licensed Associates as the context requires.
+We limit the collection of personal information to what is reasonably required to fulfill the purposes for which it was collected. We collect personal information, as defined below, in a variety of ways, including: directly from you, from third parties, through in-store technologies, and when you are interacting with us online or through our mobile applications. 
 
-Shoppers Drug Mart will post any changes to this Privacy Policy on this page so that you can always be aware of the type of information collected, its use and how you can contact us. 
+### A. How We Define Personal Information
 
-**Privacy**
+**“Personal information”** is any information that identifies you or could be reasonably associated with you. The personal information we collect may include contact information such as your name, email address, home address, and phone numbers, as well as information about the specific products and services that you purchase in our retail stores or from us online, information provided to us in connection with our programs, products and/or services and/or information collected automatically when you interact with us online or visit our retail stores.
 
-Shoppers Drug Mart respects the privacy of each individual with which it comes into contact, either as a customer in any Shoppers Drug Mart store or as a visitor to this web site. Shoppers Drug Mart will not give, rent or sell any customer information or any information about any visitor to this web site to any organization or individual.
+Personal information that we collect may include:
 
-**Personal Information Collected**
+  * **Personal transactional information,** when you make purchases using a _PC Financial_ payment product such as account transactions and the merchants (name, type and location) that you made purchases from. This type of information is also generated by the use of your loyalty and e-commerce accounts and may include information about your purchases
+  * **Personal financial information,** through the use of your _PC Financial_ payment product accounts, such as information about your account balances, account numbers, payment history, credit limits and credit scores
+  * **Personal health information,** through the use of any of our healthcare services provided by pharmacists, dietitians, opticians, nurses, nurse practitioners, respiratory therapists and other healthcare providers which includes any information that identifies or can identify you and relates to the state of your health or the treatment you are receiving. More specifically, personal health information means both diagnostic, treatment and care information, and/or registration information with our healthcare services.
 
-Shoppers Drug Mart will not collect any personally identifiable information about you, such as your name, address, telephone number or e-mail address, unless you provide it to us.
 
-If you do not want your personal information collected, do not provide it to us. If you have already submitted the information and would like us to remove it from our records, or if you would like to know what information is held in our records, see the Contact section below.
 
-**Use of Personal Information  **
+### B. How We Collect Personal Information
 
-Shoppers Drug Mart may use the personal information collected in the following ways:
+We collect personal information in the following ways:
 
-To process and store the information provided so that we are able to better understand your needs and how we can improve our products and services; 
+**Directly From You**
 
-To contact you; 
+You may provide personal information to us in our stores, by mail, by email, over the telephone, through our websites or mobile applications or in any other direct manner.
 
-To provide you with special offers and services; and 
+_For example:_
 
-To provide you with health-related information or services that we believe would be of interest to you. 
+_When you voluntarily share information about yourself with us, we will collect that information in order to provide you with our programs, products or services, respond to your inquiry, or for any other purpose disclosed to you at that time._
 
-**E-mail**
+**From Other Sources**
 
-Unless you have indicated that you do not wish to receive e-mail, if you have provided us with your e-mail address, from time to time Shoppers Drug Mart may send you e-mail with information and/or special offers that we believe would be of interest to you. If you do not wish to receive e-mail you can notify Shoppers Drug Mart at any time of your preference.
+Occasionally, we may receive personal information from other sources. In these cases, we receive your personal information from these other sources with your consent or if the law requires or permits us to do so (e.g., to meet our anti-money laundering compliance obligations).
 
-Shoppers Drug Mart may use a reputable third party to deliver e-mail. Such third party is under a contractual requirement to keep all personal information confidential and to only use any personal information for the sole purpose of sending you e-mail on behalf of Shoppers Drug Mart and to return any personal information once their services are completed.
+_For example:_
 
-**Text Messages**
+_If you apply for a PC Financial payment product, upon obtaining your consent, we may collect information from credit bureaus in order to process your application and determine whether you qualify for a specific product._
 
-Unless you have indicated that you do not wish to receive text messages, if you have provided us with your mobile telephone number, from time to time Shoppers Drug Mart may send to your mobile telephone information and/or special offers that we believe would be of interest to you. If you do not wish to receive text messages you can notify Shoppers Drug Mart at any time of your preference.
+**From Used Technologies at Our Locations**
 
-Shoppers Drug Mart may use a reputable third party to broadcast the text messages. Such third party is under a contractual obligation to keep all personal information confidential and to only use any personal information for the sole purpose of sending you text messages on behalf of Shoppers Drug Mart and to return to Shoppers Drug Mart any personal information once their services are completed.
+We may collect personal information through various types of technologies used in our stores (e.g., grocery, pharmacy). These can include our point-of-sale systems, video surveillance or other similar types of technologies (including, for example, anonymous video analytics which allows us to track the number of individuals in our stores and consider certain demographic information about our customer base on an anonymous basis) which we may use from time to time.
 
-**HealthWATCH Easy Refills™**
+_For example:_
 
-All personal information provided as result of a prescription refill request is necessary to properly identify the prescription and the patient. Once a prescription refill request is received by a pharmacy, for the patient's health and safety and for the pharmacist to properly fulfill his/her professional responsibilities, it may be necessary for the pharmacy to contact the patient's physician (or the prescribing professional) to discuss the refill request, the patient's medication history and medical conditions. In the course of such discussions the patient's personal health information may be disclosed. The receipt of a refill request shall be deemed consent to such disclosure and use of the patient's personal information.   
-If the patient has health plan coverage for his/her prescriptions or a claims adjudicator is used, information about the prescription will be transmitted to such health plan and they may have access to the patient's personal health information in order to properly process the benefits. The patient's consent to this disclosure of personal health information to such health plan is deemed by the request for payment or reimbursement for the prescription to such health plan and/or the provision to the pharmacy of the details of the patient's health plan information.
+  * _We use video surveillance in areas surrounding our stores, pharmacies, kiosks, pavilions, bank machines, parking lots and other locations: for security purposes, to protect against theft, to prevent damage to our properties, and to prevent fraud._
+  * _We may also use anonymous video analytics to help manage our stores, understand our customer base and improve customer experience._
 
-**Shoppers Photo**
 
-Shoppers Photo Members of the Shoppers Drug Mart online photo site – shoppersphoto.ca (“Photo Site”) - have the ability to upload their images to order prints and other photographic items from the Photo Site.
 
-If a visitor to the Photo Site has registered on the Photo Site, their personal information will be automatically transferred to Fujifilm Canada Inc. Fujifilm Canada Inc. operates the Photo Site on behalf of Shoppers Drug Mart.
+**Through Our Websites and Mobile Applications**
 
-**Shoppers Optimum®**
+We may collect certain types of information electronically when you interact with our websites, email, mobile applications, social media accounts, online advertising, or through the use of our or a third party’s technologies, which include cookies, web beacons, single pixel gifs and other technologies such as Data Management Platforms (DMPs). This information helps us understand what actions you take on our websites and mobile applications and allows our websites and mobile applications to work correctly.
 
-All personal information provided to or populated in this web site with respect to your membership in the Shoppers Optimum Program® is subject to the privacy provisions set out in the Terms and Conditions of the Shoppers Optimum Program.
+We may combine this information with other information collected in-store or online such as your online and in-store transaction history. We do this to support our customer understanding using website and mobile analytics and to provide you with more tailored advertising and marketing campaigns. This includes serving interest-based advertising to you, subject to your right to withdraw consent, as detailed in our [Interest-Based Advertising and Media Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Interest-Based-Advertising-and-Media-Notice_Final_Feb5-2019-EN.pdf).
 
-**Automatically Collected Information**
+_For example:_
 
-Shoppers Drug Mart may automatically collect non-identifiable information such as, but not limited to, the Internet browser you are using, the type of computer operating system you are using and the domain name from which you are linked to this web site.
+  * _We use your location or language preference to auto-select features when you visit our websites and mobile applications._
+  * _We use your online and/or in-store purchase history to provide you with interest-based advertisements on products that you purchase frequently._
+  * _We collect, combine and categorize your personal information on an aggregated basis to identify online and offline purchasing patterns to help us analyze our businesses to better serve customers._
 
-**"Cookies"  **
 
-We will be using a feature on your Internet browser called "cookies", which are files that your Internet browser puts on your hard drive.
 
-We will use cookies to help us provide you with a better experience when you visit this web site. It will let us know that you are a prior visitor and it will help us retrieve information that you may have previously provided to us.
+The technologies we use include:
 
-Your Internet browser should allow you to erase cookies from your hard drive, block all cookies or receive a warning before a cookie is stored.
+  * **Cookies,** which are small text files that are saved on your computer when you visit a website so that information can be saved between visits, such as your login credentials or language preferences. For example, cookies allow you to log in quickly when you visit our sites.
+  * **Web beacons,** and **single pixel gifs,** which are small image files that have information about you, such as your IP address, that can be downloaded when you visit a website or open an email. This allows us to understand your online behaviour, monitor our email delivery, and provide you with interest-based advertising. These tools also allow our third-party tracking tools to gather information, such as your IP address, and provide this back to us in an anonymized, aggregate form (i.e. in a manner that prevents us from identifying you personally). Aggregate information refers to personal information compiled and expressed in a summary form where no personal identifiers are included.
+  * **Other technologies,** such as DMP services and analytics engines, which pull usage data from multiple sources and help manage and collect this data to use for personalization, interest-based advertising, customizing content and other methods to gain insights into our customers’ needs and preferences.
 
-**Your Consent  **
 
-Your use of this web site constitutes your consent to the collection by Shoppers Drug Mart of your information as described in this Privacy Policy.
 
-**Contact**
+We may use Google Analytics, a web analysis service of Google Inc. ("Google"). Google Analytics uses cookies to analyze your use of our websites, to create reports about visitor activities for us and to provide further services associated with the use of the websites and the Internet. Although this information is collected through your Google ad settings, it is not provided to us in a personally-identifiable format.
 
-If you wish to know what information we have in our files about you, ask a question about the information in your file or request a change to the information in your file, please [click here](http://www1.shoppersdrugmart.ca/en/Contact-Us.aspx) or write to :   
-Shoppers Drug Mart  
-243 Consumers Rd.  
-Toronto, Ontario  
-M2J 4W8
+You may delete or disable certain of these technologies at any time via your browser. However, if you do so, you may not be able to use some of the features on our websites or mobile applications. To learn more about the privacy choices available to you, please visit How Do I Change My Privacy Choices?
+
+## 3\. How Do We Use Personal Information?
+
+We use your personal information to provide you with our programs, products and services, to manage our business operations, to communicate offers and information we think might interest you, to generally enhance your customer experience with us, and as permitted or required by law. 
+
+We use your personal information for the following purposes:
+
+### A. Providing Programs, Products and Services
+
+We use your personal information in order to provide you with our programs, products and services, which include:
+
+  * Providing you with a quote for a program, product or service;
+  * Verifying your identity;
+  * Determining your eligibility for a program, product or service;
+  * Processing your applications;
+  * Creating, administering, and maintaining your accounts (such as for loyalty or warranty programs);
+  * Processing your transactions and returns, online or in store;
+  * Fulfilling your product and service requests, inquiries, and purchases;
+  * Providing you with healthcare services such as pharmacy, dietitian and optician services. For more information see our [Health Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Health-Privacy-Notice_Final_Feb5-2019-EN.pdf); and
+  * Providing you with financial services such as credit card, bank account or insurance services. For more information see our [President’s Choice Financial Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/PCF-Privacy-Notice_Final_Feb5-2019-EN.pdf) and [Insurance Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/PC-Insurance-Privacy-Notice_Final_Feb5-2019-EN.pdf).
+
+
+
+### B. Managing our Businesses
+
+We use your personal information for many business reasons, which include:
+
+  * Deploying and managing our information technology applications and systems, including managing our websites;
+  * Managing and facilitating the use of our websites and mobile applications, which may include using cookies and other similar technology;
+  * Enabling your participation in contests, promotions, surveys, chats, seminars or workshops;
+  * Maintaining the security of the public and our customers, employees and property (e.g., through video surveillance);
+  * Protecting parties from errors and fraud;
+  * Monitoring and investigating incidents and managing claims;
+  * Maintaining our programs, products and services, including our loyalty programs and our health and financial services. For more information see our [Loyalty Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Loyalty-Privacy-Notice_Final_Feb5-2019-EN.pdf), [Health Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Health-Privacy-Notice_Final_Feb5-2019-EN.pdf), [President’s Choice Financial Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/PCF-Privacy-Notice_Final_Feb5-2019-EN.pdf) and [Insurance Privacy Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/PC-Insurance-Privacy-Notice_Final_Feb5-2019-EN.pdf); and
+  * Meeting our legal and regulatory obligations.
+
+
+
+### C. Communicating With You
+
+We use your personal information to communicate with you in a variety of ways:
+
+  * Providing you with information and updates about our programs, products, services, promotions, contests and events;
+  * Responding to your inquiries;
+  * Taking or verifying instructions from you;
+  * If we have your consent, informing you in a variety of ways (e.g., email, telephone, SMS, direct mail) about programs, products, services, special offers, promotions, contests or events that may be of interest to you;
+  * Delivering interest-based advertisements relating to our products and services or third party products and services that may be of interest to you. For more information see our [Interest-Based Advertising and Media Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Interest-Based-Advertising-and-Media-Notice_Final_Feb5-2019-EN.pdf); and
+  * Subject to your right to withdraw consent, providing you with offers or services based on the approximate location provided by your mobile device (also called “location-based advertising”)
+
+
+
+If you no longer wish to receive commercial electronic messages, please let us know by following the unsubscribe directions provided in every commercial electronic message. For more information see How Do I Change My Privacy Choices?
+
+### D. Conducting Market Research
+
+We may use your personal information in order to conduct market research by tracking and analyzing current or previously collected information to improve or to develop new products, services, programs, promotions, contests or events, and to better understand our customer base. When doing so, we generally will use your information in an aggregated format or with direct personal identifiers removed.
+
+The information we use for market research may include:
+
+  * Purchase history (e.g. the number and amount of transactions by type, location/store of purchase, product code information, brand, quantity purchased, date, time, payment method used, promotional offers used in connection with the transaction, etc.);
+  * Website or mobile application activities (e.g. offers viewed, opt-out preferences, email bounce backs, click-throughs, content on social media, and IP addresses);
+  * Account activity, balances and payment history;
+  * Use of mobile devices interacting with our websites or mobile applications (e.g. use of features, and duration, frequency, type and location of calls and text messages); and
+  * The methods used to apply for or to access or use our programs, products, services, promotions, contests or events.
+
+
+
+### E. Conducting Data Analytics
+
+We may use your personal information in order to conduct data analytics for business purposes, such as:
+
+  * Managing and developing our business and operations;
+  * Improving our programs, products, and services (e.g. improving our websites and mobile applications);
+  * Understanding customer needs and preferences and customizing how we tailor and market products and services to our customers based on their interests; and
+  * Measuring the effectiveness of our marketing.
+
+
+
+When doing so, we generally will use your information in an aggregated format or with direct personal identifiers removed.
+
+## 4\. How Do We Share Personal Information?
+
+We may share your personal information within our group of companies or with our service providers (companies operating on our behalf) and other third parties (companies with which we provide programs, products or services) for the purposes described in this policy and in accordance with applicable law. We do not sell your personal information to any organization or person; the only exception to this would be if we sell or transfer any part of our business.
+
+Additionally, if you use a program, product or service that involves another person (e.g. a bank account that is jointly owned, or where you have a guarantor for a loan or if you add household members to your loyalty or financial account), we may share your personal information with that person as necessary and in connection with that program, product or service. The information shared with or available to these other persons will be identified at the time of application or registration for that program, product or service. 
+
+We will not share your personal information outside of our group of companies, except as indicated below.
+
+### A. Service Providers
+
+In the course of providing our programs, products, services, promotions, contests and events we may share personal information with our service providers. These service providers help us operate our business, technology systems and applications, internal procedures, infrastructure and advertising and marketing. They provide services to us such as data hosting, contest administration, email deployment, call centre, marketing, sales and processing or analysis of personal information. We require these service providers to limit their access to and/or use of personal information to what is required to provide their services and to comply with our privacy requirements.
+
+_For example:_
+
+_Personal information collected from contest participants may be shared with our contest administrator to contact selected participants._
+
+### B. Third Parties
+
+In the course of providing certain of our programs, products and services, we may do so through arrangements with third parties. As a result, your personal information may be collected, used and shared by us and the applicable third party. These third parties may have their own privacy policies and terms and conditions, which will govern their use of your personal information. You will be informed upon signing up for the relevant program, product or service of the third party arrangement so that you can review the relevant privacy policies that apply.
+
+_For example:_
+
+  * _The PC mobile pre-paid service, which is offered through Loblaws Inc., is provided by a carrier that is identified in connection with that service._
+  * _The PC insurance service, which is offered through PC Financial Insurance Broker Inc., is provided by a select number of insurance companies that are identified in connection with that service._
+  * _The PC Express home delivery service, which is offered through Loblaws Inc., is provided by a third party delivery company that is identified in connection with that service._
+
+
+
+### C. Sale or Transfer of Business or Other Transaction
+
+We may decide to sell or transfer all or part of our business to a related company or to a third party, to merge with another entity, to insure or securitize our assets, or to engage in another form of corporate or financing transaction (including the proceedings of insolvency or bankruptcy), corporate reorganization, share sale, or other change in corporate control. If your personal information is required in connection with any such transactions, we will comply with the legal requirements for the disclosure of personal information.
+
+### D. Other Permitted Reasons
+
+Canadian law permits or requires the use, sharing, or disclosure of personal information without consent in specific circumstances (e.g., when investigating and preventing suspected or actual illegal activities, including fraud, or to assist government and law enforcement agencies). These circumstances include situations when permitted or required by law or when necessary to protect our group of companies, our employees, our customers, or others. If this happens, we will not share more personal information than is reasonably required to fulfill that particular purpose.
+
+### E. With Your Consent
+
+Other than the purposes listed above, we may, with your implied or express consent, share or disclose your personal information outside of our group of companies, in accordance with applicable law.
+
+## 5\. How Do We Manage Consent?
+
+By subscribing to our programs, products and services and/or submitting information to us in connection with using our programs, products and services, you are providing your consent to the collection, use and disclosure of personal information as set out in this policy. In some cases, your consent may be “implied” i.e. your permission is assumed based on your action or inaction at the point of collection, use or sharing of your personal information. 
+
+We will obtain consent when we want to use personal information for a new purpose or for a purpose other than those stated at the time of collection in this policy or in the terms and conditions of a specific program, product, service, contest, promotion or event you signed up for, participated in or purchased.
+
+Your consent can be withdrawn at any time, except in limited circumstances, including legal or regulatory requirements or as a result of your contractual obligations with us. For information on how to manage your privacy preferences, please see How Do I Change My Privacy Choices?
+
+_For example:_
+
+_To obtain credit products, you are required to provide consent on your application to the ongoing collection, use and sharing of your personal information to allow us to obtain and to update credit reports and other credit history information about you from time to time with credit bureau agencies and other entities that support the credit reporting system. Your consent for these purposes cannot be withdrawn during the time you have credit with us and for a reasonable period afterwards._
+
+If you choose not to provide us with certain personal information or if you withdraw your consent, where such withdrawal is available, we may not be able to offer you the programs, products, services, contests, promotions, events or information that you requested or that could be offered to you.
+
+## 6\. How Do I Change My Privacy Choices?
+
+We want you to clearly understand your choices and make informed decisions about your privacy options. There are several options available for you to manage your privacy preferences, including, for example: managing your preferences within your account(s), contacting us directly, changing your browser settings on your device, and/or, where available, using third party unsubscribe functionality. 
+
+### A. Within Your Account(s)
+
+If you have an account with us (e.g., _PC Optimum_ account), you can update your preferences where customer preference options are available through the relevant program, product or service.
+
+### B. When You Register Or By Contacting Us Directly
+
+You may opt-in to:
+
+  * Receiving email or SMS marketing communications at the time that you register for our programs, products or services, enter our contests or promotions or any time thereafter through your online account(s)
+
+
+
+You may opt-out of:
+
+  * Receiving email or SMS marketing communications from the sender, by clicking “unsubscribe” within any marketing email you receive, texting “STOP” within any SMS marketing you receive, through your online account (if you have created one);
+  * Receiving surveys by following the unsubscribe instructions provided in the email; and
+  * Receiving interest-based advertisements from us and our client advertisers as detailed in our [Interest-Based Advertising and Media Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Interest-Based-Advertising-and-Media-Notice_Final_Feb5-2019-EN.pdf).
+
+
+
+Please note the following regarding withdrawal of consent or changes in your privacy preferences:
+
+  * Even if you have opted out of receiving marketing communications from us, we may still contact you for transactional purposes, in compliance with applicable laws (e.g., for customer service, product information, service or reminder notices, or recalls). We may also need to contact you with questions or information regarding your order, such as order status, shipment, or refunds; and
+  * It may take some time for all of our records to reflect changes in your preferences (e.g., if you request that you not receive personalized marketing communications from Loblaw, your preference may not be captured for a promotion already in progress).
+
+
+
+### C. Changing Your Browser Settings on Your Device
+
+We use technologies to enhance your customer experience and present offers to you, including interest-based advertisements (see our [Interest-Based Advertising and Media Notice](https://web.archive.org/content/dam/lclcorp/pdfs/Privacy/Interest-Based-Advertising-and-Media-Notice_Final_Feb5-2019-EN.pdf)). For example, technologies such as cookies allow us to recognize when you use or return to our websites, providing you with a more seamless experience. You may delete or disable certain of these technologies at any time via your browser. However, if you do so, you may not be able to use some of the features of our websites.
+
+Please refer to your browser instructions or help screen to learn more about how to block, delete and manage cookies on your computer or mobile device. You can also use the quick links below, based on the browser type that you are using: [Internet Explorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies), [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop&hl=en), [Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences) and [Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac).
+
+### D. Using Third Party Unsubscribe Functionality
+
+We may use third parties (e.g., web companies or social media platforms) that use certain technologies to analyze your browsing behaviour as you visit our websites. You can manage your privacy preferences with respect to certain third parties, such as Google, by using the unsubscribe functionality within their platforms. Please note that disabling, blocking or deleting some of these technologies, such as cookies, may cause you to lose the functionality of certain features on our websites and mobile applications.
+
+For example, Google Analytics uses cookies to analyze your browsing behaviour on our websites. This information is not provided to us in a personally identifiable format and is collected through your ad settings on your device or browser. If you would like to opt out of Google’s ad settings, please go to https://www.google.com/settings/ads or use the Google opt out browser add-on located at <https://tools.google.com/dlpage/gaoptout>.
+
+We also may embed links to other websites, including social media websites, on our websites. For more information about social media plug-in protocols, such as “Like” buttons on Twitter, Facebook or Instagram and their impact on your privacy rights, please visit the appropriate social media help centre (e.g., Facebook’s Help Center at <https://www.facebook.com/help/>).
+
+## 7\. How Do We Protect and Store Personal Information?
+
+We take the security of your personal information very seriously and are committed to protecting your privacy by using a combination of administrative, physical, and technical safeguards. These measures include multi-factor authentication, masking, encryption, logging and monitoring, described below. We store your personal information for as long as it is necessary to provide you with our programs, products, and services and for a reasonable time thereafter, or as permitted or required by law. 
+
+### A. How We Protect Personal Information
+
+To protect your personal information, we maintain administrative, technical, and physical safeguards in our stores, pavilions, kiosks, offices, digital properties, and information storage facilities. By having these safeguards, we aim to avoid the loss, misuse, unauthorized access, disclosure, or modification of your personal information that we hold. These safeguards also apply when we dispose of or destroy your personal information.
+
+For example, where appropriate, we use the following safeguards:
+
+  * **Multi-Factor Authentication,** which is a method of confirming your identity by using more than one way to authenticate you, such as asking for your password and a code that is sent to your email address or phone number;
+  * **Masking,** which is the process of obscuring your information so that the structure remains the same but the content is no longer identifiable;
+  * **Anonymization,** which is the process of altering your data so that it can no longer be used to identify you personally;
+  * **Encryption,** which is the process of obscuring your information in order to make it unreadable without the use of a code or a key; and
+  * **Logging and monitoring,** which is the process of tracking, recording and monitoring activity related to the access and/or use of your accounts or personal information.
+
+
+
+### B. Where We Keep Personal Information
+
+We use all reasonable safeguards, including contractual requirements with our service providers, to protect your personal information wherever it is used or stored. In general, we store, access and use personal information in Canada. Some of our service providers may access, process or store your personal information outside of your province, territory or Canada in the course of providing their services to us. When we engage a service provider that operates outside of Canada, personal information may be stored, processed, accessed or used in another country. In that case, the personal information is subject to the law of the jurisdiction in which it is used or stored, including any law permitting or requiring disclosure of the information to the government, government agencies, courts and law enforcement in that jurisdiction. The countries where our service providers are currently located include the United States, the Netherlands, India, El Salvador and the Philippines.
+
+### C. How Long We Keep Personal Information
+
+We will store your personal information for as long as necessary to fulfill the purposes for which it was collected, except where otherwise required or permitted by law (e.g., healthcare providers must retain patient records in accordance with their statutory retention obligations). Once no longer required, your personal information will be securely destroyed or anonymized (so the information no longer identifies you).
+
+Please note that if your personal information is collected by a third party, it will be retained in accordance with the privacy policies and records retention requirements of that third party.
+
+## 8\. How Do I Request Access to My Personal Information?
+
+Under Canadian privacy law, you have the right to access the personal information we hold about you, subject to any legal restrictions. Upon request, we will provide you with access to your personal information within a reasonable timeframe, in compliance with applicable laws.
+
+It is your responsibility to provide accurate, correct and complete information. If you notice any errors in your personal information or need to update it, please let us know through the steps outlined below. 
+
+Some of the personal information we hold about you is accessible to you through your online account(s). You can access and update or correct your personal information by logging into your account(s) and making updates to your profile information and your preferences.
+
+For personal information that is not available through your online account(s), you can request access by contacting the applicable Privacy Office, through email or postal address (for contact information, see Who Do I Contact with Privacy Questions?).
+
+To access your personal health information, please contact your healthcare provider directly. Similarly, to access your personal information collected by a third party, please contact that third party directly.
+
+If you are unsatisfied with our response to your access and/or correction request, or how we handle your personal information, please contact the appropriate Privacy Office. For contact information, see Who Do I Contact with Privacy Questions?. If the Privacy Office is unable to address your concern to your satisfaction, you may bring the matter to the attention of the appropriate Privacy Commissioner. Some of our activities are subject to the jurisdiction of the [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/); other activities are subject to the jurisdiction of the Privacy Commissioner of your province or territory of residence.
+
+## 9\. How Do I Know If There Are Changes To The Privacy Policy?
+
+We may make changes to this policy from time to time. Any changes we make will become effective when we post a modified version of the policy on this webpage. If we make any significant changes to the policy, we will post a notice on our websites. By continuing to participate in our programs, and/or use our services or purchase our products after the modified version of the policy has been posted, you are accepting the changes to the policy, subject to any additional requirements which may apply. If you do not agree to the changes in our policy, it is your responsibility to stop participating in our programs, and/or using our services or purchasing our products. It is your obligation to ensure that you read, understand and agree to the latest version of the policy. The “Effective Date” at the top of the policy indicates when it was last updated.
+
+## 10\. Who Do I Contact With Privacy Questions?
+
+If you have any questions about how we handle your personal information, please contact the appropriate Privacy Office noted below. If you have a program, product, service, or are participating in a promotion, contest or event that is offered by us with a third party, the third party may hold your personal information. If you have any questions or concerns, we will direct you to the appropriate party so that you may make enquiries as to that party’s privacy policies and practices.
+
+For questions related to our financial services:
+
+**PC Financial Privacy Office:**
+
+For all other privacy related questions:
+
+**Loblaw Privacy Office:**
