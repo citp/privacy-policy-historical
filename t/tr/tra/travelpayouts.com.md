@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpayouts.com privacy policy that was archived on 2018-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180831160544id_/https%3A//support.travelpayouts.com/hc/en-us/articles/360004121052) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpayouts.com privacy policy that was archived on 2019-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191130205334id_/https%3A//support.travelpayouts.com/hc/en-us/articles/360004121052) for the most accurate reproduction.*
 
 # Privacy Policy – Travelpayouts affiliate network
 
