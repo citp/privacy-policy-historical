@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornhubapparel.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426064255id_/https%3A//www.pornhubapparel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhubapparel.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201222241id_/https%3A//www.pornhubapparel.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Pornhub Apparel
 
