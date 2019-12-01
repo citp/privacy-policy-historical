@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myblogu.com privacy policy that was archived on 2018-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181211090549id_/http%3A//myblogu.com/blog/myblogu-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogu.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201143423id_/http%3A//myblogu.com/blog/myblogu-privacy-policy) for the most accurate reproduction.*
 
 # MyBlogU Privacy Policy | MyBlogU
 
