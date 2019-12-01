@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bandicam.com privacy policy that was archived on 2019-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190206202714id_/https%3A//www.bandicam.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bandicam.com privacy policy that was archived on 2019-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191201061731id_/http%3A//www.bandicam.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta charset="utf-8">
@@ -53,7 +53,7 @@
 	
 	function onLoaded_Adsense() 
 	{
-	        $('.adsbygoogle').each(function() {
+        $('.adsbygoogle').each(function() {
 			(adsbygoogle = window.adsbygoogle || []).push({});
 		});
 	}
@@ -77,11 +77,12 @@
 	{
 		$(window).on('load', function()
 		{
-    		/* Load adsbygoogle.js */
-    		if($('.adsbygoogle').length)
+
+  			/* Load adsbygoogle.js */
+		  	if($('.adsbygoogle').length)
     		{
 				loadScript("//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js", onLoaded_Adsense);
-			}
+			}  
 			/* Load social.js */
 			if($("fb\\:like").length || $(".fb-like").length || $("fb\\:comments").length || $("g\\:plusone").length)
 			{
@@ -142,6 +143,13 @@
 				    $(".exp2").show();
 				    $(".exp1").hide();
 				}
+			});
+			
+			/* mobile menu close */
+			$('#buy-link').click(function(e) {
+				if($(window).width() < 991) {
+					$('#navbar-btn').trigger(('click'));    
+				} 
 			});
 			
         });
@@ -219,10 +227,14 @@
                     <li id="Topmenu-bandicam"><a href="/" title="Bandicam Screen Recorder">Bandicam Screen Recorder</a></li>
 <li id="Topmenu-bandicut"><a href="/bandicut-video-cutter/" title="Bandicut Video Cutter">Bandicut Video Cutter</a></li>
 <li class="divider">|</li>
-<li id="Topmenu-sdk"><a href="/company/sdk/" title="SDK">SDK</a></li>
-<li id="Topmenu-forum"><a href="//forum.bandicam.com/" title="Forum">Forum</a></li>
-<li id="Topmenu-contact"><a href="/company/" title="About Us">About Us</a></li>
-<li id="text-banner"><a href="//www.bandicam.com/buy/package/">SAVE UP TO <b>29% OFF</b></a></li>                </ul>			
+    <li id="Topmenu-sdk"><a href="/company/sdk/" title="SDK">SDK</a></li>
+    <li id="Topmenu-forum"><a href="//forum.bandicam.com/" title="Forum">Forum</a></li>
+    <li id="Topmenu-contact"><a href="/company/" title="About Us">About Us</a></li>
+
+    <!-- text banner -->
+    <li id="text-banner"><a href="/buy/package/">SAVE UP TO <b>29% OFF</b></a></li>
+
+                </ul>			
             </div>
         </div>
     </nav>
@@ -317,18 +329,14 @@ We offer you the ability to post information and exchange ideas. All users shoul
 		<address><div>Copyright © 2008-2019 <a href="/company/" title="Click to learn about Bandicam's developer">Bandicam Company</a>.</div> <div>All rights reserved.</div></address>
 		
 		<div id="SNS-Channels">
-			<a href="https://www.facebook.com/bandicam" id="fb" target="_blank" title="Become a fan"></a><a href="https://twitter.com/bandicam" id="tw" target="_blank" title="Follow us"></a><a href="https://google.com/+bandicam" id="gl" target="_blank" title="Follow us"></a>
+			<a href="https://www.facebook.com/bandicam" id="fb" target="_blank" title="Become a fan"></a>
+            <a href="https://twitter.com/bandicam" id="tw" target="_blank" title="Follow us"></a>
+            <a href="https://www.youtube.com/channel/UCllP7Y3L1faor-26eqrLS7Q" id="gl" target="_blank" title="Watch Tutorials"></a>
 		</div>
 			
 	</div>
 </div>
 <!-- Footer -->
-
-<!-- jQuery (부트스트랩의 자바스크립트 플러그인을 위해 필요합니다) -->
-<!--script type="text/javascript" src="/js/jquery-3.3.1.slim.min.js"></script-->
-<!--script type="text/javascript" src="/js/bootstrap-3.3.2.min.js"></script-->
-
-
 
 
 </body></html>
