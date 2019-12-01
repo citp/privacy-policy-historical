@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandicam.com privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206202714id_/https%3A//www.bandicam.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandicam.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201061731id_/http%3A//www.bandicam.com/company/privacy) for the most accurate reproduction.*
 
 # Bandicam Company Privacy Policy
 
