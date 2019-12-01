@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the mainepublic.org privacy policy that was archived on 2019-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190502193503id_/http%3A//mainepublic.org/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mainepublic.org privacy policy that was archived on 2019-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191201231049id_/http%3A//mainepublic.org/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aacw.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script type="text/javascript" async="" src="//stream.publicbroadcasting.net/analytics/aacw.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYHV1dVGwIBVFlVBQU=",licenseKey:"15ba4da3e8",applicationID:"1108724"};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(20),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(21),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(9),t(8),"addEventListener"in window&&t(5),c.xhrWrappable&&t(10),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(9),s=t(8),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(7),"addEventListener"in window&&t(5);var x=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof x&&(this.bstStart=y.now())}),o.on(w,function(t,n){var e=t[0];e instanceof x&&i("bst",[e,n,this.bstStart,y.now()])}),a.on(m,function(t,n,e){this.bstStart=y.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+p,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){function r(t,n,e){var r=t[n];"function"==typeof r&&(t[n]=function(){var t=i(arguments),n={};o.emit(e+"before-start",[t],n);var a;n[m]&&n[m].dt&&(a=n[m].dt);var s=r.apply(this,t);return o.emit(e+"start",[t,a],s),s.then(function(t){return o.emit(e+"end",[null,t],s),t},function(t){throw o.emit(e+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(21),a=t(20);n.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,l=s.Response,p=s.fetch,h="prototype",m="nr@context";d&&l&&p&&(a(u,function(t,n){r(d[h],n,f),r(l[h],n,f)}),r(s,"fetch",c),o.on(c+"end",function(t,n){var e=this;if(n){var r=n.headers.get("content-length");null!==r&&(e.rxSize=r),o.emit(c+"done",[null,n],e)}else o.emit(c+"done",[t],e)}))},{}],7:[function(t,n,e){var r=t("ee").get("history"),o=t("wrap-function")(r);n.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],8:[function(t,n,e){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],9:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],10:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):w?w(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];n.exports=u;var x=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,x),x.prototype=p.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!w&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],11:[function(t,n,e){function r(){var t=window.NREUM;if(!t.loader_config)return null;var n=(t.loader_config.accountID||"").toString()||null,e=(t.loader_config.agentID||"").toString()||null,r=(t.loader_config.trustKey||"").toString()||null;if(!n||!e)return null;var a=i.generateCatId(),s=i.generateCatId(),c=Date.now(),f=o(a,s,c,n,e,r);return{header:f,guid:a,traceId:s,timestamp:c}}function o(t,n,e,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:n,ti:e}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}var i=t(18);n.exports={generateTracePayload:r,generateTraceHeader:o}},{}],12:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(l[r],this.listener,!1);n.aborted||(e.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==n.status&&(n.status=0):a(this,t),e.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[n,e,this.startTime]))}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return w(r)}function i(t,n){var e=f(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}function a(t,n){t.params.status=n.status;var e=o(n,t.lastSize);if(e&&(t.metrics.rxSize=e),t.sameOrigin){var r=n.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(13),u=t(11).generateTracePayload,d=t("ee"),l=["load","error","abort","timeout"],p=l.length,h=t("id"),m=t(16),w=t(15),v=window.XMLHttpRequest;s.features.xhr=!0,t(10),t(6),d.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,n.loadCaptureCalled=!1,t.addEventListener("load",function(e){a(n,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var e=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(e=!!NREUM.init.distributed_tracing.enabled),e&&this.sameOrigin){var r=u();r&&r.header&&(n.setRequestHeader("newrelic",r.header),this.dt=r)}}),d.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=w(r);i&&(e.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{d.emit("internal-error",[e])}catch(r){}}};for(var a=0;a<p;a++)n.addEventListener(l[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),d.on("xhr-load-added",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,n){var e=""+h(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],n)}),d.on("removeEventListener-end",function(t,n){n instanceof v&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],n)}),d.on("fn-start",function(t,n,e){n instanceof v&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,n){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,n],n)}),d.on("fetch-before-start",function(t){var n,e=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url&&(n=t[0].url),n&&(this.sameOrigin=f(n).sameOrigin);var r=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=!!NREUM.init.distributed_tracing.enabled),r&&this.sameOrigin){var o=u();if(!o||!o.header)return;var i=o.header;if("string"==typeof t[0]){var a={};for(var s in e)a[s]=e[s];a.headers=new Headers(e.headers||{}),a.headers.set("newrelic",i),this.dt=o,t.length>1?t[1]=a:t.push(a)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",i),this.dt=o)}})}},{}],13:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],14:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(20),s=t(21),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],15:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],16:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],17:[function(t,n,e){function r(t,n){var e=t.getEntries();e.forEach(function(t){"first-paint"===t.name?a("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&a("timing",["fcp",Math.floor(t.startTime)])})}function o(t){if(t instanceof c&&!u){var n,e=Math.round(t.timeStamp);n=e>1e12?Date.now()-e:s.now()-e,u=!0,a("timing",["fi",e,{type:t.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var i,a=t("handle"),s=t("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){i=new PerformanceObserver(r);try{i.observe({entryTypes:["paint"]})}catch(f){}}if("addEventListener"in document){var u=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(t){document.addEventListener(t,o,!1)})}}},{}],18:[function(t,n,e){function r(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(n=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return n?15&n[e++]:16*Math.random()|0}var n=null,e=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(n=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}n.exports={generateUuid:r,generateCatId:o}},{}],19:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],20:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],21:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],22:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([x,e,r,a]),a}}function p(t,n){g[t]=m(t).concat(n)}function h(t,n){var e=g[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return g[t]||[]}function w(t){return d[t]=d[t]||o(e)}function v(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var g={},y={},x={on:p,addEventListener:p,removeEventListener:h,emit:e,get:w,listeners:m,context:n,buffer:v,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(20),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=b.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(20),u=t("ee"),d=t(19),l=window,p=l.document,h="addEventListener",m="attachEvent",w=l.XMLHttpRequest,v=w&&w.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:w,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},x=w&&v&&v[h]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(14),t(17),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(22)},{}],"wrap-function":[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(21),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}]},{},["loader",2,12,4,3]);</script>
 <meta property="og:description" content="Maine Public is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement">
 <meta property="og:url" content="https://www.mainepublic.org/privacy-statement">
 <meta property="og:type" content="article">
-<meta property="og:image" content="http://mediad.publicbroadcasting.net/spacer.gif">
+<meta property="og:image" content="https://mediad.publicbroadcasting.net/spacer.gif">
 <meta property="twitter:card" content="summary">
 <link rel="shortcut icon" href="//www.mainepublic.org/sites/mpbn/files/201609/favicon.ico" type="image/vnd.microsoft.icon">
 <meta content="Privacy Statement" about="/privacy-statement" property="dc:title">
 <meta property="twitter:site" content="@MPBNnews">
 <meta property="og:title" content="Privacy Statement">
-<link href="http://mediad.publicbroadcasting.net/spacer.gif" rel="image_src">
+<link href="https://mediad.publicbroadcasting.net/spacer.gif" rel="image_src">
 <link rel="shortlink" href="/node/1672">
 <link rel="canonical" href="/privacy-statement">
 <meta name="Generator" content="Drupal 7 (http://drupal.org)">
@@ -28,7 +28,7 @@
 <link type="text/css" rel="stylesheet" href="https://www.mainepublic.org/sites/mainepublic.org/files/css/css_vfIvSyfTMiODiXTZe9UHVNLpaNYnkIu2YCkJ8FdbEo4.css" media="all">
 <style type="text/css" media="all">
 <!--/*--><![CDATA[/*><!--*/
-.header-region-outer{background-color:#FFFFFF;}.branding .tagline{color:#686868;}.branding .listen-live-toggle > a,.branding .header-utility > a,.branding .header-utility > a.trigger-nav{color:#EEEEEE;}@media screen and (min-width:641px){.branding .trigger-nav{background:#474747;}}@media screen and (max-width:640px){.branding .header-utility > a.trigger-nav,.active-menu .branding .header-utility > a.trigger-nav{color:#777777;}}#listen-live .listen-live-toggle{background-color:#00A4DF;}#listen-live .listen-live-btn{background-color:transparent;color:#EEEEEE;}@media screen and (min-width:640px){#listen-live .listen-live-btn{background-color:#00A4DF;}}.branding .give{background:#d8292f;}
+.header-region-outer{background-color:#FFFFFF;}@media screen and (min-width:1024px){.header-region-outer{background-image:url(//www.mainepublic.org/sites/mpbn/files/201909/Maine_Public_Header_1_0.jpg);background-position:center bottom;background-size:cover;background-repeat:no-repeat;}}.branding .tagline{color:#686868;}.branding .listen-live-toggle > a,.branding .header-utility > a,.branding .header-utility > a.trigger-nav{color:#EEEEEE;}@media screen and (min-width:641px){.branding .trigger-nav{background:#474747;}}@media screen and (max-width:640px){.branding .header-utility > a.trigger-nav,.active-menu .branding .header-utility > a.trigger-nav{color:#777777;}}#listen-live .listen-live-toggle{background-color:#00A4DF;}#listen-live .listen-live-btn{background-color:transparent;color:#EEEEEE;}@media screen and (min-width:640px){#listen-live .listen-live-btn{background-color:#00A4DF;}}.branding .give{background:#d8292f;}
 
 /*]]>*/-->
 </style>
@@ -49,7 +49,7 @@
 <script type="text/javascript" src="//www.mainepublic.org/sites/mpbn/files/js/js_zwQf8LjEQR2ImNyxy9GV8u3ipGUtKBZ4mXvLgF_295Q.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"responso","theme_token":"iys74Bq71FttmswZQPl7MxfATUVKvkTybrsh3L2CYRk","js":{"http:\/\/widgets.listenlive.co\/1.0\/tdwidgets.min.js":1,"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.topbar.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"sites\/all\/modules\/custom\/responsive_ads\/js\/main.js":1,"sites\/all\/modules\/custom\/triton_player\/js\/td-player\/td-player.js":1,"sites\/all\/modules\/custom\/triton_player\/js\/td-player\/composer2.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.js":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/js\/npr-image-gallery.js":1,"sites\/all\/modules\/custom\/npr_river\/assets\/npr-river.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_schedule_selector.js":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_live_event\/js\/iframe.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/modernizr.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/media.match.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/matchMedia.addListener.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/enquire.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/fastclick.js":1,"1":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.mediaqueries.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.scripts.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.responsiveimages.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.timepicker.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/bootstrap-datepicker.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.datepair.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/validation\/jquery.mask.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/validation\/jquery.validate.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/typeahead\/typeahead.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.helpers.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.filters.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.event.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.tag.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.location.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.organization.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.recurrence.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.category.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.image.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.sponsor.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.validation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.overrides.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"sites\/all\/modules\/custom\/responsive_footer\/responsive-footer.admin.css":1,"0":1,"\/\/fonts.googleapis.com\/css?family=Lato:300,700,700italic,900,italic,regular\u0026subset=latin":1,"sites\/all\/modules\/custom\/triton_player\/css\/td-player.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.css":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/typeahead\/typeahead.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.timepicker.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/bootstrap-datepicker3.standalone.min.css":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/responso\/css\/icon-fonts.css":1,"sites\/all\/themes\/responso\/css\/screen.css":1}},"googleCSE":{"cx":"010251366440257945544:tas7yop6b8e","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"responsive_ads":{"networkCode":"101967251","prefix":"mpbn","adUnitTypes":{"leaderboard":{"note":"Only shows above 1024; shows 970x90 or 728x90.","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[1024,200],"slotSize":[[970,90],[970,50],[728,90]]}]},"medium":{"note":"Won't be served on screens smaller than 640x480.","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[640,200],"slotSize":[300,250]}]},"tablet":{"note":"Won't be served on screens smaller than 640x480 or larger than 1024x768","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[640,200],"slotSize":[728,90]},{"viewportSize":[1024,200],"slotSize":[]}]},"mobile":{"note":"Won't be served on screens larger than 640x480.","sizes":[{"viewportSize":[0,0],"slotSize":[320,50]},{"viewportSize":[640,200],"slotSize":[]}]}},"adUnits":[{"name":"leaderboard_1","type":"leaderboard","width":728,"height":90},{"name":"player_display","type":"leaderboard","width":728,"height":90},{"name":"medium_1","type":"medium","width":300,"height":250},{"name":"medium_2","type":"medium","width":300,"height":250},{"name":"medium_3","type":"medium","width":300,"height":250},{"name":"tablet_1","type":"tablet","width":728,"height":90},{"name":"mobile_1","type":"mobile","width":320,"height":50}],"placements":{"leaderboard_1":"main#content","medium_1":".node .post-body .field-name-body","medium_2":".node .post-body .field-name-body","medium_3":".node .post-body .field-name-body","tablet_1":"main#content","mobile_1":"#block-pi-responsive-ads-mobile-1 .content"},"persistentPlacements":[],"targeting":{"id":"1672","type":"page","tags":[],"category":"","programs":[]}},"tms_meta":{"has_audio":"0","programs":"none","category":"none","nid":1672},"responsive_utilities":{"body_classes":"html not-front not-logged-in no-sidebars page-node page-node- page-node-1672 node-type-page fixed-header","custom_vars":{"nid":{"name":"nid","slot":8,"scope_id":3},"pop":{"name":"pop","slot":9,"scope_id":3},"author":{"name":"author","slot":11,"scope_id":3},"keywords":{"name":"tags","slot":12,"scope_id":3},"org_id":{"name":"org_id","slot":13,"scope_id":3},"brand":{"name":"CP_Station","slot":14,"scope_id":2},"has_audio":{"name":"Has_Inline_Audio","slot":15,"scope_id":3},"programs":{"name":"Program","slot":16,"scope_id":3},"category":{"name":"Category","slot":10,"scope_id":3},"datePublished":{"name":"PublishedDate","slot":17,"scope_id":3},"wordCount":{"name":"WordCount","slot":18,"scope_id":3},"story_id":{"name":"API_Story_Id","slot":19,"scope_id":3},"pmp_guid":{"name":"pmp_guid","slot":20,"scope_id":3}},"pagetype_vars":[{"page_type":"Content\/About","regex_pattern":"\/about(-us)?\/?$","pattern_name":"Core Publisher About Page"},{"page_type":"Events","regex_pattern":"\/events(\/|$)","pattern_name":"Core Publisher Events Page"},{"page_type":"People","regex_pattern":"\/people(\/|$)","pattern_name":"Core Publisher People Page"},{"page_type":"Playlist","regex_pattern":"\/search_playlists\/?$","pattern_name":"Core Publisher Playlist Page"},{"page_type":"Program","regex_pattern":"\/programs(\/|$)","pattern_name":"Core Publisher Program Page"},{"page_type":"Schedule","regex_pattern":"\/schedule(\/|$)","pattern_name":"Core Publisher Schedule Page"},{"page_type":"Search","regex_pattern":"\/search\/google\/?","pattern_name":"Core Publisher Search GSA Page"},{"page_type":"Story","regex_pattern":"\/post\/|\/webclip\/","pattern_name":"Core Publisher Story Page"},{"page_type":"Streaming","regex_pattern":"\/listen(-live)?\/?(#|$)","pattern_name":"Core Publisher Listen Live Page"}],"media_queries":{"mobile":"all and (max-width: 40em)","tablet":"screen and (min-width: 40.063em) and (max-width: 64em)","desktop":"screen and (min-width: 64.063em)"}},"pi_ajax_links_api":{"selector":"#page-document","trigger":"a.ajax-link,#page-wrapper a,a.logo,a.mobile-teaser-link,.dropdown a","negative_triggers":".dropdown .back a,.mobile .not-click \u003e a,#toolbar a,a.lightbox,.jp-interface a,.header .not-click \u003e a,.page-admin a,.page-block-factory a,a.give,.social-share a,#change-station,#rss-tablequeue a,a[href^=\"mailto:\"],.popup,a[href^=\"#\"],a:not([href]),ul.tabs\u003eli\u003ea,ul.contextual-links a,#table-queue-fleximenu a[target=\"_blank\"],.delete-button,a[href*='files'],a[href^='http:']","scripts_included":0,"html5":1,"vpager":1}});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"responso","theme_token":"zfIkkIAlWY-nD5BmeBQO8v64vl28fRTCzBFZ2ikML7c","js":{"http:\/\/widgets.listenlive.co\/1.0\/tdwidgets.min.js":1,"0":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/magnific-popup\/jquery.magnific-popup.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/foundation\/foundation.topbar.js":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.js":1,"sites\/all\/modules\/custom\/pi_media_types\/pi_audio\/js\/pi-audio.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/pi-hull.js":1,"sites\/all\/modules\/custom\/pi_hull\/js\/jquery.innerfade.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/jquery.jplayer.min.js":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/js\/main.js":1,"\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"sites\/all\/modules\/custom\/responsive_ads\/js\/main.js":1,"sites\/all\/modules\/custom\/triton_player\/js\/td-player\/td-player.js":1,"sites\/all\/modules\/custom\/triton_player\/js\/td-player\/composer2.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.js":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.js":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/js\/npr-image-gallery.js":1,"sites\/all\/modules\/custom\/npr_river\/assets\/npr-river.js":1,"sites\/all\/modules\/custom\/pi_guide\/js\/pi_guide_schedule_selector.js":1,"sites\/all\/modules\/custom\/pi_assets\/plugins\/images\/js\/popup.js":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_live_event\/js\/iframe.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/modernizr.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/media.match.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/matchMedia.addListener.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/enquire.min.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/vendor\/fastclick.js":1,"1":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.mediaqueries.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.scripts.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.responsiveimages.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.timepicker.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/bootstrap-datepicker.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.datepair.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/validation\/jquery.mask.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/validation\/jquery.validate.min.js":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/typeahead\/typeahead.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.helpers.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.filters.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.event.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.tag.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.location.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.organization.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.recurrence.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.category.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.image.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.sponsor.js":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.validation.js":1,"sites\/all\/modules\/custom\/responsive_utilities\/js\/responsive-utilities.overrides.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"sites\/all\/libraries\/magnific-popup\/magnific-popup.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_cse\/google_cse.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pi_hull\/pi_outrigger\/css\/pi_outrigger.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/custom\/pi_guide\/css\/pi_guide.css":1,"sites\/all\/modules\/custom\/pi_hull\/jplayer\/css\/jplayer.npr.css":1,"sites\/all\/modules\/custom\/pi_npr_story\/css\/pi_npr_story.css":1,"sites\/all\/modules\/custom\/pi_views\/pi_reports_views\/css\/pi_reports.css":1,"sites\/all\/modules\/custom\/pi_menus\/css\/flexiMenu.css":1,"sites\/all\/modules\/custom\/responsive_footer\/responsive-footer.admin.css":1,"0":1,"\/\/fonts.googleapis.com\/css?family=Lato:300,700,700italic,900,italic,regular\u0026subset=latin":1,"sites\/all\/modules\/custom\/triton_player\/css\/td-player.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/pi_ajax_links_api.css":1,"sites\/all\/modules\/custom\/pi_ajax_links_api\/nprogress\/nprogress.css":1,"sites\/all\/modules\/custom\/pi_content_types\/pi_program\/treatments\/program-promo\/program-promo.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/typeahead\/typeahead.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/jquery.timepicker.css":1,"sites\/all\/modules\/custom\/community_calendar\/lib\/datetimepicker\/bootstrap-datepicker3.standalone.min.css":1,"sites\/all\/modules\/custom\/community_calendar\/assets\/community-calendar.css":1,"sites\/all\/modules\/custom\/npr_entities\/npr_fields\/npr_image_gallery\/css\/npr-image-gallery.css":1,"sites\/all\/themes\/responso\/css\/icon-fonts.css":1,"sites\/all\/themes\/responso\/css\/screen.css":1}},"googleCSE":{"cx":"010251366440257945544:tas7yop6b8e","language":"","resultsWidth":600,"domain":"www.google.com","showWaterMark":true},"responsive_ads":{"networkCode":"101967251","prefix":"mpbn","adUnitTypes":{"leaderboard":{"note":"Only shows above 1024; shows 970x90 or 728x90.","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[1024,200],"slotSize":[[970,90],[970,50],[728,90]]}]},"medium":{"note":"Won't be served on screens smaller than 640x480.","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[640,200],"slotSize":[300,250]}]},"tablet":{"note":"Won't be served on screens smaller than 640x480 or larger than 1024x768","sizes":[{"viewportSize":[0,0],"slotSize":[]},{"viewportSize":[640,200],"slotSize":[728,90]},{"viewportSize":[1024,200],"slotSize":[]}]},"mobile":{"note":"Won't be served on screens larger than 640x480.","sizes":[{"viewportSize":[0,0],"slotSize":[320,50]},{"viewportSize":[640,200],"slotSize":[]}]}},"adUnits":[{"name":"leaderboard_1","type":"leaderboard","width":728,"height":90},{"name":"player_display","type":"leaderboard","width":728,"height":90},{"name":"medium_1","type":"medium","width":300,"height":250},{"name":"medium_2","type":"medium","width":300,"height":250},{"name":"medium_3","type":"medium","width":300,"height":250},{"name":"tablet_1","type":"tablet","width":728,"height":90},{"name":"mobile_1","type":"mobile","width":320,"height":50}],"placements":{"leaderboard_1":"main#content","medium_1":".node .post-body .field-name-body","medium_2":".node .post-body .field-name-body","medium_3":".node .post-body .field-name-body","tablet_1":"main#content","mobile_1":"#block-pi-responsive-ads-mobile-1 .content"},"persistentPlacements":[],"targeting":{"id":"1672","type":"page","tags":[],"category":"","programs":[]}},"tms_meta":{"has_audio":"0","programs":"none","category":"none","nid":1672},"responsive_utilities":{"body_classes":"html not-front not-logged-in no-sidebars page-node page-node- page-node-1672 node-type-page fixed-header","custom_vars":{"nid":{"name":"nid","slot":8,"scope_id":3},"pop":{"name":"pop","slot":9,"scope_id":3},"author":{"name":"author","slot":11,"scope_id":3},"keywords":{"name":"tags","slot":12,"scope_id":3},"org_id":{"name":"org_id","slot":13,"scope_id":3},"brand":{"name":"CP_Station","slot":14,"scope_id":2},"has_audio":{"name":"Has_Inline_Audio","slot":15,"scope_id":3},"programs":{"name":"Program","slot":16,"scope_id":3},"category":{"name":"Category","slot":10,"scope_id":3},"datePublished":{"name":"PublishedDate","slot":17,"scope_id":3},"wordCount":{"name":"WordCount","slot":18,"scope_id":3},"story_id":{"name":"API_Story_Id","slot":19,"scope_id":3},"pmp_guid":{"name":"pmp_guid","slot":20,"scope_id":3}},"pagetype_vars":[{"page_type":"Content\/About","regex_pattern":"\/about(-us)?\/?$","pattern_name":"Core Publisher About Page"},{"page_type":"Events","regex_pattern":"\/events(\/|$)","pattern_name":"Core Publisher Events Page"},{"page_type":"People","regex_pattern":"\/people(\/|$)","pattern_name":"Core Publisher People Page"},{"page_type":"Playlist","regex_pattern":"\/search_playlists\/?$","pattern_name":"Core Publisher Playlist Page"},{"page_type":"Program","regex_pattern":"\/programs(\/|$)","pattern_name":"Core Publisher Program Page"},{"page_type":"Schedule","regex_pattern":"\/schedule(\/|$)","pattern_name":"Core Publisher Schedule Page"},{"page_type":"Search","regex_pattern":"\/search\/google\/?","pattern_name":"Core Publisher Search GSA Page"},{"page_type":"Story","regex_pattern":"\/post\/|\/webclip\/","pattern_name":"Core Publisher Story Page"},{"page_type":"Streaming","regex_pattern":"\/listen(-live)?\/?(#|$)","pattern_name":"Core Publisher Listen Live Page"}],"media_queries":{"mobile":"all and (max-width: 40em)","tablet":"screen and (min-width: 40.063em) and (max-width: 64em)","desktop":"screen and (min-width: 64.063em)"}},"pi_ajax_links_api":{"selector":"#page-document","trigger":"a.ajax-link,#page-wrapper a,a.logo,a.mobile-teaser-link,.dropdown a","negative_triggers":".dropdown .back a,.mobile .not-click \u003e a,#toolbar a,a.lightbox,.jp-interface a,.header .not-click \u003e a,.page-admin a,.page-block-factory a,a.give,.social-share a,#change-station,#rss-tablequeue a,a[href^=\"mailto:\"],.popup,a[href^=\"#\"],a:not([href]),ul.tabs\u003eli\u003ea,ul.contextual-links a,#table-queue-fleximenu a[target=\"_blank\"],.delete-button,a[href*='files'],a[href^='http:']","scripts_included":0,"html5":1,"vpager":1}});
 //--><!]]>
 </script>
     <meta name="viewport" content="width=device-width">
@@ -104,10 +104,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/news">News</a>
 <ul class="dropdown">
 <li class="left">
-<a href="/programs/category/9443">Special Series</a>
+<a href="/post/maine-public-deep-dive">Deep Dive</a>
 </li>
 <li class="left">
 <a href="/programs/finding-way">Finding A Way</a>
+</li>
+<li class="left">
+<a href="/post/tell-me-more-tour">Tell Me More Tour</a>
 </li>
 <li class="left">
 <a href="/programs/maines-political-pulse">Maine's Political Pulse Podcast</a>
@@ -117,6 +120,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </li>
 <li class="left">
 <a href="/category/politics">Politics</a>
+</li>
+<li class="left">
+<a href="/term/maine-bicentennial">Maine's Bicentennial</a>
 </li>
 <li class="left">
 <a href="/category/business">Business and Economy</a>
@@ -163,6 +169,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/programs/maine-calling">Maine Calling</a>
 </li>
 <li class="left">
+<a href="/node/34025">Music That Moves ME</a>
+</li>
+<li class="left">
 <a href="/programs/all-things-considered-nora-flaherty">All Things Considered w/Nora Flaherty </a>
 </li>
 <li class="left">
@@ -181,6 +190,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/programs/tune">In Tune 24/7 Music Stream</a>
 </li>
 <li class="left">
+<a href="/post/maine-public-classical-holiday-stream">Maine Public Classical Holiday Stream</a>
+</li>
+<li class="left">
 <a href="/programs/speaking-maine">Speaking in Maine</a>
 </li>
 <li class="left">
@@ -190,16 +202,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/programs/poems-here">Poems From Here</a>
 </li>
 <li class="left">
+<a href="/programs/2-pm-public-affairs-programs">2:00 PM Public Affairs</a>
+</li>
+<li class="left">
+<a href="/programs/sunday-evening-700-pm-special-programs">Sunday Evening 7 pm Special Programs</a>
+</li>
+<li class="left">
 <a href="/programs/soundbites">SoundBites</a>
 </li>
 <li class="left">
 <a href="/programs">Radio Programs A-Z</a>
-</li>
-<li class="left">
-<a href="/programs/2-pm-public-affairs-programs">2:00 PM Public Affairs</a>
-</li>
-<li class="left">
-<a href="/node/34025">Music That Moves ME</a>
 </li>
 </ul>
 </li>
@@ -210,16 +222,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/maine-public-television-schedule">Maine Public Television Schedule</a>
 </li>
 <li class="left">
-<a href="/programs/high-school-quiz-show-maine">High School Quiz Show: Maine</a>
-</li>
-<li class="left">
 <a href="/post/watch-maine-public-hdtv-antenna">Guide To Watching Maine Public TV Over-the-air</a>
 </li>
 <li class="left">
 <a href="https://video.mainepublic.org" target="_blank">Watch Video On-Demand Programs</a>
 </li>
 <li class="left">
-<a href="/post/maine-public-passport">What is Maine Public Passport</a>
+<a href="/post/maine-public-passport-0">What is Maine Public Passport</a>
 </li>
 <li class="left">
 <a href="/where-watch-maine-public-television">Where to Watch Maine Public Television</a>
@@ -232,6 +241,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </li>
 <li class="left">
 <a href="https://video.mainepublic.org/show/assignment-maine/">Assignment: Maine</a>
+</li>
+<li class="left">
+<a href="/programs/high-school-quiz-show-maine">High School Quiz Show: Maine</a>
 </li>
 <li class="left">
 <a href="/programs/maine-public-community-films">Community Films</a>
@@ -251,7 +263,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/schedule/classical">Maine Public Classical Schedule</a>
 </li>
 <li class="left">
-<a href="/programs/morning-classical-music-robin-rilette-0">Morning Classical Music with Robin Rilette</a>
+<a href="/programs/morning-classical-music-robin-rilette-0">Classical Music with Robin Rilette</a>
 </li>
 <li class="left">
 <a href="/topic/cultural-conversations">Cultural Conversations</a>
@@ -280,7 +292,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/term/raise-your-voice">Raise Your Voice</a>
 </li>
 <li class="left">
-<a href="https://mpbn.pbslearningmedia.org/">Maine Public-PBS Learning Media</a>
+<a href="https://mainepublic.pbslearningmedia.org/">Maine Public-PBS Learning Media</a>
 </li>
 <li class="left">
 <a href="/programs/high-school-quiz-show-maine">High School Quiz Show</a>
@@ -300,34 +312,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/community-calendar">Community Calendar</a>
 </li>
 <li class="left">
-<a href="/post/tell-me-more-tour">Tell Me More Tour</a>
+<a href="/post/friends-kotzschmar-organ">Friends of the Kotzschmar Organ: Christmas with Kennerley</a>
 </li>
 <li class="left">
-<a href="/post/portland-symphony-orchestra-presents-dvoraks-new-world">Portland Symphony Orchestra Presents Dvorak's 'New World'</a>
+<a href="/post/2020-camden-conference">2020 CAMDEN CONFERENCE</a>
 </li>
 <li class="left">
-<a href="/post/bangor-symphony-orchestra-presents-masterworks-vi-viennese-masters">Bangor Symphony Orchestra Presents Masterworks VI: Viennese Masters</a>
+<a href="/post/portland-ovations-presents-boston-camerata-free-america">Portland Ovations Presents Boston Camerata: Free America</a>
 </li>
 <li class="left">
-<a href="/topic/maine-public-travel">Maine Public Travel: Sicily</a>
-</li>
-<li class="left">
-<a href="/post/chasing-moon-screenings">Chasing The Moon Screenings</a>
-</li>
-<li class="left">
-<a href="/post/all-cars-considered-spring-campaign-powered-lee">All Cars Considered Powered By Lee</a>
-</li>
-<li class="left">
-<a href="/post/3rd-annual-create-it-maine-recipe-contest">3rd Annual Create It Maine Recipe Contest</a>
-</li>
-<li class="left">
-<a href="/post/2019-annual-thresholds-conference">2019 Annual Thresholds Conference</a>
-</li>
-<li class="left">
-<a href="/post/attic-project">In The Attic Project</a>
-</li>
-<li class="left">
-<a href="/maine-spring-live">Maine Spring Live</a>
+<a href="/post/bangor-symphony-orchestra-nutcracker">Bangor Symphony Orchestra: The Nutcracker</a>
 </li>
 </ul>
 </li>
@@ -353,7 +347,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="http://plannedgiving.mainepublic.org/.">Planned Giving</a>
 </li>
 <li class="left">
-<a href="/topic/maine-public-travel">Maine Public Travel: Sicily</a>
+<a href="https://smile.amazon.com/ch/22-3171529" target="_blank">Support Us with Amazon Smile</a>
+</li>
+<li class="left">
+<a href="/topic/maine-public-travel">Maine Public Travel</a>
 </li>
 <li class="left">
 <a href="https://mainepublic.securecardonation.net" target="_blank">Maine Public Vehicle Donation Program</a>
@@ -362,7 +359,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/post/maine-public-fleet-donation-program">Maine Public’s Fleet Donation Program</a>
 </li>
 <li class="left">
-<a href="/post/maine-public-passport">Passport</a>
+<a href="/post/maine-public-passport-0">Passport</a>
 </li>
 <li class="left">
 <a href="/topic/benefits-membership-mpbn">Benefits of Membership</a>
@@ -380,9 +377,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/post/double-your-gift-company-matching">Double Your Gift: Company Matching</a>
 </li>
 <li class="left">
-<a href="/post/charting-bold-future-campaign">Charting a Bold Future Campaign</a>
-</li>
-<li class="left">
 <a href="/post/giving-tuesday">Giving Tuesday</a>
 </li>
 </ul>
@@ -398,6 +392,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </li>
 <li class="left">
 <a href="/topic/careers-maine-public">Careers</a>
+</li>
+<li class="left">
+<a href="/2019-awards">2019 Awards</a>
 </li>
 <li class="left">
 <a href="https://strategicplan.mainepublic.org/" target="_blank">Strategic Plan 2019-2023</a>
@@ -419,6 +416,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </li>
 <li class="left">
 <a href="/jim-dowe-internship-fund">Jim Dowe Public Media Internship</a>
+</li>
+<li class="left">
+<a href="/post/tell-me-more-tour">Tell Me More Tour</a>
 </li>
 <li class="left">
 <a href="/topic/maine-public-finances">Maine Public Finances</a>
@@ -545,6 +545,23 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
     </div>
   </a>
 </li>
+                      <li>
+  <a href="" class="triton-stream-selector-link" data-stream-name="Maine Public Classical Holiday Music Stream" data-stream-key="MAINE_PUBLIC_CLASSICAL_HOLIDAY" data-stream-ucs="">
+    <div class="stream-indicator">
+      <div class="triton-stream-inactive" title="not-playing"></div>
+      <div class="triton-stream-active" title="playing">
+        <span class="stream-activebar"></span>
+        <span class="stream-activebar"></span>
+        <span class="stream-activebar"></span>
+      </div>
+    </div>
+    <div class="stream-selector-stream-summary">
+      <div class="stream-selector-stream-name">
+        Maine Public Classical Holiday Music Stream      </div>
+      <div class="stream-selector-program-name"></div>
+    </div>
+  </a>
+</li>
                   </ul>
       </div>
     </div>
@@ -579,10 +596,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/news">News</a>
 <ul class="dropdown">
 <li class="left">
-<a href="/programs/category/9443">Special Series</a>
+<a href="/post/maine-public-deep-dive">Deep Dive</a>
 </li>
 <li class="left">
 <a href="/programs/finding-way">Finding A Way</a>
+</li>
+<li class="left">
+<a href="/post/tell-me-more-tour">Tell Me More Tour</a>
 </li>
 <li class="left">
 <a href="/programs/maines-political-pulse">Maine's Political Pulse Podcast</a>
@@ -592,6 +612,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </li>
 <li class="left">
 <a href="/category/politics">Politics</a>
+</li>
+<li class="left">
+<a href="/term/maine-bicentennial">Maine's Bicentennial</a>
 </li>
 <li class="left">
 <a href="/category/business">Business and Economy</a>
@@ -638,6 +661,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/programs/maine-calling">Maine Calling</a>
 </li>
 <li class="left">
+<a href="/node/34025">Music That Moves ME</a>
+</li>
+<li class="left">
 <a href="/programs/all-things-considered-nora-flaherty">All Things Considered w/Nora Flaherty </a>
 </li>
 <li class="left">
@@ -656,6 +682,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/programs/tune">In Tune 24/7 Music Stream</a>
 </li>
 <li class="left">
+<a href="/post/maine-public-classical-holiday-stream">Maine Public Classical Holiday Stream</a>
+</li>
+<li class="left">
 <a href="/programs/speaking-maine">Speaking in Maine</a>
 </li>
 <li class="left">
@@ -665,16 +694,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/programs/poems-here">Poems From Here</a>
 </li>
 <li class="left">
+<a href="/programs/2-pm-public-affairs-programs">2:00 PM Public Affairs</a>
+</li>
+<li class="left">
+<a href="/programs/sunday-evening-700-pm-special-programs">Sunday Evening 7 pm Special Programs</a>
+</li>
+<li class="left">
 <a href="/programs/soundbites">SoundBites</a>
 </li>
 <li class="left">
 <a href="/programs">Radio Programs A-Z</a>
-</li>
-<li class="left">
-<a href="/programs/2-pm-public-affairs-programs">2:00 PM Public Affairs</a>
-</li>
-<li class="left">
-<a href="/node/34025">Music That Moves ME</a>
 </li>
 </ul>
 </li>
@@ -685,16 +714,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/maine-public-television-schedule">Maine Public Television Schedule</a>
 </li>
 <li class="left">
-<a href="/programs/high-school-quiz-show-maine">High School Quiz Show: Maine</a>
-</li>
-<li class="left">
 <a href="/post/watch-maine-public-hdtv-antenna">Guide To Watching Maine Public TV Over-the-air</a>
 </li>
 <li class="left">
 <a href="https://video.mainepublic.org" target="_blank">Watch Video On-Demand Programs</a>
 </li>
 <li class="left">
-<a href="/post/maine-public-passport">What is Maine Public Passport</a>
+<a href="/post/maine-public-passport-0">What is Maine Public Passport</a>
 </li>
 <li class="left">
 <a href="/where-watch-maine-public-television">Where to Watch Maine Public Television</a>
@@ -707,6 +733,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </li>
 <li class="left">
 <a href="https://video.mainepublic.org/show/assignment-maine/">Assignment: Maine</a>
+</li>
+<li class="left">
+<a href="/programs/high-school-quiz-show-maine">High School Quiz Show: Maine</a>
 </li>
 <li class="left">
 <a href="/programs/maine-public-community-films">Community Films</a>
@@ -726,7 +755,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/schedule/classical">Maine Public Classical Schedule</a>
 </li>
 <li class="left">
-<a href="/programs/morning-classical-music-robin-rilette-0">Morning Classical Music with Robin Rilette</a>
+<a href="/programs/morning-classical-music-robin-rilette-0">Classical Music with Robin Rilette</a>
 </li>
 <li class="left">
 <a href="/topic/cultural-conversations">Cultural Conversations</a>
@@ -755,7 +784,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/term/raise-your-voice">Raise Your Voice</a>
 </li>
 <li class="left">
-<a href="https://mpbn.pbslearningmedia.org/">Maine Public-PBS Learning Media</a>
+<a href="https://mainepublic.pbslearningmedia.org/">Maine Public-PBS Learning Media</a>
 </li>
 <li class="left">
 <a href="/programs/high-school-quiz-show-maine">High School Quiz Show</a>
@@ -775,34 +804,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/community-calendar">Community Calendar</a>
 </li>
 <li class="left">
-<a href="/post/tell-me-more-tour">Tell Me More Tour</a>
+<a href="/post/friends-kotzschmar-organ">Friends of the Kotzschmar Organ: Christmas with Kennerley</a>
 </li>
 <li class="left">
-<a href="/post/portland-symphony-orchestra-presents-dvoraks-new-world">Portland Symphony Orchestra Presents Dvorak's 'New World'</a>
+<a href="/post/2020-camden-conference">2020 CAMDEN CONFERENCE</a>
 </li>
 <li class="left">
-<a href="/post/bangor-symphony-orchestra-presents-masterworks-vi-viennese-masters">Bangor Symphony Orchestra Presents Masterworks VI: Viennese Masters</a>
+<a href="/post/portland-ovations-presents-boston-camerata-free-america">Portland Ovations Presents Boston Camerata: Free America</a>
 </li>
 <li class="left">
-<a href="/topic/maine-public-travel">Maine Public Travel: Sicily</a>
-</li>
-<li class="left">
-<a href="/post/chasing-moon-screenings">Chasing The Moon Screenings</a>
-</li>
-<li class="left">
-<a href="/post/all-cars-considered-spring-campaign-powered-lee">All Cars Considered Powered By Lee</a>
-</li>
-<li class="left">
-<a href="/post/3rd-annual-create-it-maine-recipe-contest">3rd Annual Create It Maine Recipe Contest</a>
-</li>
-<li class="left">
-<a href="/post/2019-annual-thresholds-conference">2019 Annual Thresholds Conference</a>
-</li>
-<li class="left">
-<a href="/post/attic-project">In The Attic Project</a>
-</li>
-<li class="left">
-<a href="/maine-spring-live">Maine Spring Live</a>
+<a href="/post/bangor-symphony-orchestra-nutcracker">Bangor Symphony Orchestra: The Nutcracker</a>
 </li>
 </ul>
 </li>
@@ -828,7 +839,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="http://plannedgiving.mainepublic.org/.">Planned Giving</a>
 </li>
 <li class="left">
-<a href="/topic/maine-public-travel">Maine Public Travel: Sicily</a>
+<a href="https://smile.amazon.com/ch/22-3171529" target="_blank">Support Us with Amazon Smile</a>
+</li>
+<li class="left">
+<a href="/topic/maine-public-travel">Maine Public Travel</a>
 </li>
 <li class="left">
 <a href="https://mainepublic.securecardonation.net" target="_blank">Maine Public Vehicle Donation Program</a>
@@ -837,7 +851,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/post/maine-public-fleet-donation-program">Maine Public’s Fleet Donation Program</a>
 </li>
 <li class="left">
-<a href="/post/maine-public-passport">Passport</a>
+<a href="/post/maine-public-passport-0">Passport</a>
 </li>
 <li class="left">
 <a href="/topic/benefits-membership-mpbn">Benefits of Membership</a>
@@ -855,9 +869,6 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <a href="/post/double-your-gift-company-matching">Double Your Gift: Company Matching</a>
 </li>
 <li class="left">
-<a href="/post/charting-bold-future-campaign">Charting a Bold Future Campaign</a>
-</li>
-<li class="left">
 <a href="/post/giving-tuesday">Giving Tuesday</a>
 </li>
 </ul>
@@ -873,6 +884,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </li>
 <li class="left">
 <a href="/topic/careers-maine-public">Careers</a>
+</li>
+<li class="left">
+<a href="/2019-awards">2019 Awards</a>
 </li>
 <li class="left">
 <a href="https://strategicplan.mainepublic.org/" target="_blank">Strategic Plan 2019-2023</a>
@@ -894,6 +908,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 </li>
 <li class="left">
 <a href="/jim-dowe-internship-fund">Jim Dowe Public Media Internship</a>
+</li>
+<li class="left">
+<a href="/post/tell-me-more-tour">Tell Me More Tour</a>
 </li>
 <li class="left">
 <a href="/topic/maine-public-finances">Maine Public Finances</a>
@@ -1011,7 +1028,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li><a href="https://twitter.com/MainePublic" target="_blank"><img typeof="foaf:Image" src="//www.mainepublic.org/sites/mpbn/files/styles/partner_footer_logo/public/201704/twitter-logo-60px.png" alt="Twitter logo" title="Twitter logo"></a></li>
 <li><a href="https://www.instagram.com/mainepublic" target="_blank"><img typeof="foaf:Image" src="//www.mainepublic.org/sites/mpbn/files/styles/partner_footer_logo/public/201812/instagram_logo.png" alt="Instagram logo" title="Instagram logo"></a></li>
 <li><a href="https://www.linkedin.com/company/maine-public-broadcasting-network/" target="_blank"><img typeof="foaf:Image" src="//www.mainepublic.org/sites/mpbn/files/styles/partner_footer_logo/public/201904/In-White-34px-R.png" alt="Linked In logo" title="Linked In logo"></a></li>
-<li><a href="http://pbs.org/" target="_blank"><img typeof="foaf:Image" src="//www.mainepublic.org/sites/mpbn/files/styles/partner_footer_logo/public/201704/online_horz_white__.png" alt="PBS logo" title="PBS logo"></a></li>
+<li><a href="http://pbs.org/" target="_blank"><img typeof="foaf:Image" src="//www.mainepublic.org/sites/mpbn/files/styles/partner_footer_logo/public/201911/PBS_online_horz_white__NEW.png" alt="PBS logo" title="PBS logo"></a></li>
 <li><a href="http://npr.org/" target="_blank"><img typeof="foaf:Image" src="//www.mainepublic.org/sites/mpbn/files/styles/partner_footer_logo/public/201704/npr-logo.png" alt="NPR logo" title="NPR logo"></a></li>
 <li class="last"><a href="http://www.bbc.com/news" target="_blank"><img typeof="foaf:Image" src="//www.mainepublic.org/sites/mpbn/files/styles/partner_footer_logo/public/201805/bbc-logo.png" alt="BBC logo" title="BBC logo"></a></li>
 </ul></div></div>
@@ -1025,9 +1042,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div class="item-list"><ul class="auxiliary-links"><li class="first"><span>© 2019 Maine Public</span></li>
 <li><a href="http://mainepublic.org/support-0" target="_self">Support</a></li>
 <li><a href="http://mainepublic.org/contact-us" target="_self">Contact Us</a></li>
-<li><a href="http://mainepublic.org/maine-public-broadcasting-network-website-terms-use" target="_self">Terms of Use</a></li>
 <li><a href="http://mainepublic.org/privacy-statement" target="_self">Privacy Statement</a></li>
 <li><a href="http://mainepublic.org/topic/careers-mpbn" target="_self">Careers</a></li>
+<li><a href="https://smile.amazon.com/ch/22-3171529" target="_self">Support Us with Amazon Smile</a></li>
 <li class="last"><a href="https://us.e-activist.com/page/6844/subscribe/1?ea.tracking.id=footer" target="_blank">Sign Up</a></li>
 </ul></div></div>
   </div>
@@ -1036,13 +1053,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
           </div>
   </div>
 </footer>
-      <script type="text/javascript" src="//widgets.listenlive.co/1.0/tdwidgets.min.js?pqfzlu"></script>
+      <script type="text/javascript" src="//widgets.listenlive.co/1.0/tdwidgets.min.js?q1k3rq"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
  (function ($) { $(document).foundation({ topbar: { custom_back_text: true, back_text: 'back', mobile_show_parent_link: true } }); }(jQuery));
 //--><!]]>
 </script>
     </div>
-  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZIgUWDAlbHwxWUwQ+RgIBBzoQXFUV","queueTime":0,"applicationTime":355,"atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"15ba4da3e8","applicationID":"1108724","transactionName":"NlMBMhAECEZRAU1eDg8ZIgUWDAlbHwxWUwQ+RgIBBzoQXFUV","queueTime":0,"applicationTime":456,"atts":"GhQCRFgeG0g=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
