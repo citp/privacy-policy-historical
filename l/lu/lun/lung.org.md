@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lung.org privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424203803id_/https%3A//www.lung.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lung.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201142556id_/https%3A//www.lung.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | American Lung Association
 
@@ -60,3 +60,6 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 
 **COPPA (Children Online Privacy Protection Act):**  
 We do not knowingly request or collect information from any person under 13 years of age without parental consent. If you believe that your child has submitted personal information without your consent and you would like this info restricted or removed, please contact [webmaster@lung.org](mailto:webmaster@lung.org?Subject=Privacy%20Policy%20%20Questions).
+
+**Online Behavioral Advertising (OBA) Compliance**  
+We may also participate in interest-based advertising using similar technology. This means that you may see advertising on our website tailored to how you browse or shop, or you may see advertising for the Lung Association on other websites based on your browsing behavior across websites. Some websites where we may advertise belong to ad networks that use your web browsing history to choose which ads to display on their network websites; these ads include advertising for the Lung Association, but no personal information about you is shared with those third party ad networks. Other websites where you see our ads, such as Facebook, may use interest preferences that you have chosen on those sites, as well as registration and other information about you, to choose which ads to display to you. Some internet browsers, websites such as Facebook and mobile devices offer opt-outs for interest-based advertising. Please refer to the website that you are visiting, your browser and/or your device settings for additional information.
