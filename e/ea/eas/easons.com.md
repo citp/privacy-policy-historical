@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the easons.com privacy policy that was archived on 2019-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190222110426id_/https%3A//www.easons.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easons.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201142613id_/https%3A//www.easons.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_local_shipping_ Spend over €10 for free home delivery   _place_ 2 Hour Click & Collect Service Now Available
+USE PROMO CODE:  **BLACK  **FOR 30% OFF! (T&Cs Apply. Online only) | FREE DELIVERY WITH ORDERS OVER €10
 
 ## WHO ARE WE?
 
