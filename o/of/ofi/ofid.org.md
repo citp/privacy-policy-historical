@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofid.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418203902id_/http%3A//www.ofid.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofid.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201085603id_/https%3A//www.ofid.org/Privacy) for the most accurate reproduction.*
 
 # OFID
 
@@ -44,4 +44,4 @@ The OPEC Fund for International Development (OFID) will occasionally update this
 
 Contact Information
 
-The OPEC Fund for International Development (OFID) welcomes your comments regarding this Statement of Privacy. If you believe that The OPEC Fund for International Development (OFID) has not adhered to this Statement, please contact The OPEC Fund for International Development (OFID) at [r.elouardi@ofid.org](mailto:r.elouardi@ofid.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+The OPEC Fund for International Development (OFID) welcomes your comments regarding this Statement of Privacy. If you believe that The OPEC Fund for International Development (OFID) has not adhered to this Statement, please contact The OPEC Fund for International Development (OFID) at [multimedia@ofid.org](mailto:multimedia@ofid.org). We will use commercially reasonable efforts to promptly determine and remedy the problem.
