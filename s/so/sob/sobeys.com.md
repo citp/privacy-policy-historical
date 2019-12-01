@@ -1,175 +1,249 @@
-> *The following text is extracted and transformed from the sobeys.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528220021id_/https%3A//www.sobeys.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sobeys.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201135718id_/https%3A//www.sobeys.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Sobeys Privacy Commitment - Sobeys Inc.
 
-Sobeys Inc. and its direct and indirect subsidiaries, parents and affiliates (collectively, “Sobeys”) respect the privacy of each customer and prospective customer (“Customer”). The term “Customer” also includes persons who have enrolled, or are applying for enrolment, in any rewards or similar program of which Sobeys is a sponsor or participant, including without limitation Club Sobeys and the AIR MILES® Reward Program (each of which is referred to as a “Program”). Sobeys is committed to protecting all personal information collected from Customers.
+Sobeys Capital Incorporated and its direct and indirect subsidiaries (wholly or partially owned), parents, and affiliates, including each of their owned, operated or affiliated banners, brands or divisions (collectively, “Sobeys”, “we”, “us” and “our”) respect the privacy of each customer and prospective customer (“Customer” or “you”). The term “Customer” also includes persons who visit our websites, use our mobile apps, subscribe to our e-mail communications, enter into one of our contests, correspond or communicate with us, have enrolled, or are applying for enrolment, in any rewards or similar program of which Sobeys is a sponsor or participant, including without limitation the AIR MILES® Reward Program (each of which is referred to as a “Program”). Sobeys is committed to protecting all personal information collected from Customers. 
 
-This Sobeys Privacy Commitment (the “Privacy Commitment”) complies with all applicable federal and provincial privacy legislation, including the Personal Information Protection and Electronic Documents Act (Canada).
+This Sobeys Privacy Commitment (the “Privacy Commitment”) is intended to assist Customers in understanding the purposes for collection by Sobeys of personal information and how personal information is used, protected, stored and disclosed by Sobeys and its employees, agents, partners participating in joint marketing and promotional programs, Program(s) or other arrangements from time to time (“Partners”), and any other authorized third party who may receive Customers’ personal information to assist us in serving our Customers.
 
-This Privacy Commitment is intended to assist Customers in understanding the purpose for collection by Sobeys of personal information and how personal information is used, protected, stored and disclosed by Sobeys and its employees, agents, partners participating in Program(s) from time to time (“Partners”), and any other authorized third party who may receive Customers’ personal information.
+This Privacy Commitment contains important information on our commitment to the protection of your Personal Information, including:
 
-### **Responsibility**
+• What we mean by “Personal Information”
 
-Sobeys is responsible for all personal information in its custody or under its control. Personal information is any information about an identifiable individual, including but not limited to a Customer’s name, home address, email address, telephone number, date of birth and purchasing information (in this Privacy Commitment referred to as “Personal Information”).
+• The purposes for which we collect and use your Personal Information, and when we collect it 
 
-Sobeys is accountable to Customers for the Personal Information it entrusts to its consultants, employees, agents, Partners, and authorized third parties, including but not limited to advertising agencies, marketing agents, data processing and storage companies or organizations which provide administrative and support services to Sobeys. Such persons to whom Personal Information is entrusted by Sobeys are sometimes referred to in this Privacy Commitment as “Authorized Disclosees”.
+• The Internet technologies we may use to collect and process your Personal Information 
 
-Sobeys has established policies and procedures to ensure that the obligations set out in this Privacy Commitment are complied with by Authorized Disclosees.
+• The way we may engage in Interest-Based Advertising
 
-Sobeys has established appropriate technological, physical and contractual security measures to help protect Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification with security safeguards appropriate to the sensitivity of the Personal Information.
+• With whom we may share your Personal Information, and the location in which your Personal Information may be stored
 
-A Privacy Officer has been appointed by Sobeys to receive, investigate and respond to complaints, and to facilitate the implementation of this Privacy Commitment. Any concerns or inquiries may be directed to the Privacy Officer at the contact address which appears at the end of this Privacy Commitment.
+• The manner and location in which we may retain your Personal Information
 
-### **Purpose**
+• The ways that we protect your Personal Information
 
-Sobeys collects, uses and discloses Personal Information for the following purposes (the “Purposes”):
+• How to access, correct or update your Personal Information
 
-1\. To operate its businesses and to administer the Programs, including without limitation:
+• How to contact us about privacy issues
 
-(a) to communicate with Customers regarding orders, purchases or any concerns or queries the Customer may have;
+This Privacy Commitment also includes a separate section respecting the collection, use and disclosure of personal information in our pharmacy operations
 
-(b) to communicate with Customers regarding any changes to this Privacy Commitment or to Programs and their operation;
+By doing business with us, visiting our websites, using our mobile apps, subscribing to our e-mail communications, entering one of our contests, enrolling or applying for enrollment in a participating Program or otherwise corresponding or communicating with us, you agree to Sobeys collecting, using and disclosing your personal information in accordance with this Privacy Commitment.
 
-(c) to ensure Customers are appropriately awarded points or their equivalent in accordance with the rules of the applicable Program and receive reward redemptions in accordance with applicable Program Rules and that rewards records are appropriately maintained;
+This Privacy Commitment complies with all applicable federal and provincial privacy legislation.
 
-(d) to process information regarding Customer orders, purchases and the collection and redemption of points and rewards;
+### **Personal Information**
 
-(e) to provide services, rewards, products and benefits to Customers and to enable them to participate in contests;
+Personal information is any information about an identifiable individual, including any information that, alone or in combination with other information, could be used to identify an individual. Personal Information includes, but is not limited to a Customer’s name, home address, email address, telephone number, date of birth and purchasing information, (in this Privacy Commitment referred to as “Personal Information”).
 
-(f) to understand and analyze the interests, needs and preferences of Customers;
+Personal information does not include aggregated information, or any personal information that has been de-identified through the removal of potentially identifying details, such that the data may not be identified with a particular individual.
 
-(g) to develop, enhance, market and/or provide products and services for Customers, customers and potential customers;
+### **Purposes**
 
-(h) to verify Customers’ identity, when required or desirable for transactional purposes, so as to reduce fraud or errors in transaction processing;
+Sobeys generally collects, uses and discloses Personal Information to operate our businesses and to administer our Programs, including for the following purposes (the “Purposes”):
 
-(i) to comply with applicable legislation and regulatory requirements; and
+a) to communicate with Customers regarding orders, purchases or any concerns or queries the Customer may have;
 
-(j) for investigation and law enforcement purposes.
+b) to communicate with Customers regarding any changes to this Privacy Commitment or to Programs and their operation;
 
-2\. To communicate with Customers regarding promotions, contests, offers, incentives, rewards, surveys, questionnaires and other pertinent matters such as but not limited to products and services under the Programs or available through Partners that may be of interest to the Customers.
+c) with consent, or as permitted by law, to communicate with Customers regarding promotions, contests, offers, incentives, rewards, surveys, questionnaires and other pertinent matters such as but not limited to products and services under the Programs or available through Partners that may be of interest to the Customers;
 
-Sobeys also collects Personal Information from (A) individuals when they apply for employment through a Sobeys website, in person at a store, or otherwise, and uses this Personal Information for the purpose of processing and responding to such application, and (B) prospective and current franchisees and affiliated merchants and their principals, and uses this Personal Information for the purpose of processing and responding to franchise and affiliated merchant applications and in ongoing dealings with such parties. In this Privacy Commitment, references to “Customers” also apply to the individuals referred to in this paragraph with any changes necessary in the circumstances.
+d) to ensure Customers are appropriately awarded points or their equivalent in accordance with the rules of the applicable Program and receive reward redemptions in accordance with applicable Program Rules and that rewards records are appropriately maintained;
 
-Partners may collect Personal Information on behalf of Sobeys for the purposes identified in this Privacy Commitment.
+e) to process information regarding Customer orders, purchases and the collection and redemption of points and rewards;
 
-Sobeys does not collect Personal Information from Customers other than for the purposes identified in this Privacy Commitment, except where required or permitted by law.
+f) to provide services, rewards, products and benefits to Customers and to enable them to participate in contests;
 
-Sobeys collects Personal Information from Customers in several ways, including but not limited to, at the time of enrolment in a Program, when a purchase, return or Program redemption is made by a Customer, through Partners, through online use of a Sobeys or Program website, through Customer interaction with customer services offered by Sobeys and/or Program(s), through surveys or questionnaires conducted by or on behalf of Sobeys or a Partner and through contests entered by a Customer.
+g) to understand and analyze the interests, needs and preferences of Customers;
 
-Personal Information collected regarding the preferences, needs and interests of Customers may be used to determine which Customers may be most interested in products or services offered by Sobeys or its Partners.
+h) to develop, enhance, market, recommend and/or provide products and services to meet the needs and interests of Customers and potential customers;
 
-Personal information may be utilized to communicate with Customers regarding promotions, contests, offers, incentives, rewards, surveys, questionnaires and other pertinent matters such as products and services, as referenced in section 2 of the Purposes, above. Customers may not wish to receive such communications. This preference may be communicated to Sobeys at the time of enrolment, or any time afterward by contacting Sobeys through the “contact us” or equivalent link available on the relevant website, or as indicated at the place of enrolment. Such revocation will not affect the Customer’s privileges or ability to participate in a Program, nor will it prevent the provision of periodic statements as to the Customers’ point or similar balances in a Program.
+i) for marketing and analytics purposes, including to display targeted advertising as set out in the Interest-Based Advertising section below;
 
-### **Consent**
+j) to verify Customers’ identity, when required or desirable for transactional purposes, so as to reduce fraud or errors in transaction processing;
 
-Sobeys will not collect, use or disclose Personal Information about a Customer without the consent of the Customer, except where required or permitted by law, and only by legal and reasonable means.
+k) to comply with applicable legislation and regulatory requirements; and
 
-Consent may be obtained at the time of enrolment in a Program, through survey and questionnaire forms, through a website or verbally during a conversation with a Customer.
+l) for investigation and law enforcement purposes.
 
-Consent may be either express or implied. Consent will be implied, for example, when a Customer participates in a Program by collecting and redeeming points. In certain circumstances express consent may be required. In these circumstances Sobeys will seek express consent which may be given verbally, in writing or through electronic correspondence.
+Sobeys does not collect Personal Information from Customers other than for the purposes identified in this Privacy Commitment, unless further consent is obtained, or where otherwise required or permitted by law.
 
-Sobeys will communicate with Customers regarding any changes to this Privacy Commitment. Such communication may be in the form of written or electronic correspondence, published on a Sobeys website, or by any other reasonable means of communication.
+Sobeys collects Personal Information from Customers in several ways, including but not limited to, at the time of enrolment in a Program, when subscribing for e-mail communications, when visiting one of our stores, when a purchase, return, inquiry or Program redemption is made by a Customer both in-store and online, through Partners, through online use of any of our websites or Program website, through use of one of our mobile apps, through Customer interaction with customer services offered by Sobeys and/or Program(s), through surveys or questionnaires or other research conducted by or on behalf of Sobeys or a Partner and through contests entered by a Customer.
 
-From time to time Sobeys may identify new purposes for the use or disclosure of Personal Information. Any new purpose will be communicated to Customers by way of a Sobeys or Program website or other appropriate manner, and consent (which where appropriate may be implied by continued Program participation by a Customer) will be obtained from Customers prior to any such use or disclosure, unless such use or disclosure is required or permitted by law.
+We also collect Personal Information from: 
 
-### **Limitation**
+(a) individuals when they apply for employment through a Sobeys website, in person at a store, or otherwise. We use this Personal Information solely for the purpose of processing and responding to such applications; and 
 
-Sobeys will only retain Personal Information to the extent necessary for the purposes identified in this Privacy Commitment.
+(b) prospective and current franchisees and affiliated merchants, and their principals. We use this Personal Information for the purpose of processing and responding to franchise and affiliated merchant applications and in ongoing dealings with such parties, and as may be otherwise set out in communications and agreements with such persons. 
 
-A Customer may indicate to Sobeys at any time that the Customer wishes to cancel membership in a Program. Following cancellation of a membership, Sobeys may retain Personal Information pertaining to that Customer in respect of that Program for a reasonable period for legal, administrative or compliance purposes.
+In this Privacy Commitment, references to “Customers” also apply to the individuals referred to in paragraphs (a) and (b) above with any changes necessary in the circumstances.
 
-### **Disclosure**
+### **Sharing**
 
-Personal Information of a Customer will not be disclosed to Partners for purposes other than the administration of the applicable Program unless a Customer provides consent to such disclosures. Where applicable, this consent may be communicated to Sobeys at or following the time of enrolment, and may be changed at any time afterward, by contacting Sobeys through the “contact us” or equivalent link available on the relevant website or at the place or enrolment. Revocation of such consent will not affect the Customer’s privileges or ability to participate in the relevant Program, nor will it prevent the provision of periodic statements as to the Customers’ point or similar balances.
+From time to time, we may share your Personal Information with third party service providers that we have engaged to perform services on our behalf, based on our instructions, such as advertising agencies, marketing agents, data processing and storage companies or organizations which provide administrative and support services to Sobeys. We will limit our disclosure of your Personal Information to such third parties to that which is reasonably necessary for the purpose or service for which the third-party service provider is engaged. We will use contractual and other means to provide a comparable level of protection while the information is being processed by such third parties, including limiting such providers to using your Personal Information solely to provide Sobeys with the specific service for which those providers were engaged, and for no other purpose. You can obtain more information about our policies and practices with respect to the use of Personal Information by third party service providers by contacting us at the addresses provided under “Contact Us” 
 
-Personal Information may also be disclosed to Authorized Disclosees. Any party to which Sobeys discloses Personal Information must sign a confidentiality agreement or other legal contract which requires any such party to only use the information disclosed to them for the purposes as explicitly set out in the agreement.
+From time to time we may disclose to third parties aggregated or de-identified data, which does not contain Personal Information or other information regarding identifiable individuals. 
 
-From time to time Sobeys may disclose aggregated data to third parties. Aggregated data disclosed by Sobeys do not contain Personal Information or other information regarding identifiable individuals. Sobeys does not share, give, rent or sell Personal Information to any third parties other than Personal Information shared between Sobeys and Authorized Disclosees or as otherwise provided in this Privacy Commitment. In certain circumstances, Sobeys may be required by law to disclose Personal Information.
+Sobeys may share or transfer your Personal Information where reasonably required in the context of a sale, merger, reorganization or amalgamation of all or part of our business or the insurance of securitization of our assets. In any such case, the recipient parties will be contractually required to keep the information confidential and use it only for the purposes of the transaction, or proposed transaction, in question. In the event a business transaction is completed, assignees or successors of our business or assets may use and disclose your Personal Information, as obtained from Sobeys only for the purposes set out this Privacy Commitment, unless your further consent is obtained. 
 
-Sobeys may be involved in the sale, transfer or reorganization of some or all of its businesses at some time in the future. As part of that sale, transfer or reorganization, Sobeys may disclose Personal Information to the acquiring organization, but will require the acquiring organization to agree to protect the privacy of Personal Information in a manner that is consistent with this Privacy Commitment.
+Sobeys may also share your Personal Information with third parties as required or permitted by law, such as:
 
-### **Accuracy**
+• to government bodies and law enforcement agencies, pursuant to warrant, order or statutory requirement;
 
-Sobeys will take reasonable measures to ensure Personal Information collected is accurate and complete. Sobeys will update its records regarding Customers based on the information communicated directly or indirectly to Sobeys by Customers or Partners. In order to ensure Sobeys’ records are as complete and accurate as possible, Customers are responsible for informing Sobeys of any relevant changes to Personal Information, such as a change of name, a change of address, or a change in any other pertinent information. Customers may request rectification of inaccurate or incomplete records where it is demonstrated that the records maintained by Sobeys are deficient. When a request has been made to rectify any inaccuracies or discrepancies, Sobeys will promptly correct, add or delete its records in order to correct any deficiency and will provide confirmation of the correction to the Customer. Where a Customer is not satisfied with the response provided to an application for access or rectification, the Customer may file a complaint with the Sobeys Privacy Officer.
+• in connection with any legal proceedings or prospective legal proceedings involving Sobeys;
 
-### **Access**
+• to otherwise establish, exercise or defend our legal rights (including providing information to third parties for the purposes of fraud prevention and reducing credit risk), as permitted by law
 
-Upon request, Customers are entitled to examine their Personal Information collected and held by Sobeys and to be informed of the use and disclosure of Personal Information, except as prohibited by law. Where Sobeys is unable to provide access to all the Personal Information it holds about a Customer, the reasons for denying access will be communicated to the Customer. The primary records containing Customers’ Personal Information are maintained in Stellarton, Nova Scotia, the Greater Toronto Area, Ontario and at data processing and storage locations of Authorized Disclosees in the United States. Sobeys will take precautionary measures in an effort to prevent fraudulent or unauthorized requests for access. Where Sobeys receives a request from a Customer to examine Personal Information collected and retained, Sobeys will respond to the request within 30 business days.
+Sobeys does not otherwise share, give, rent or sell your Personal Information to any third parties, unless your additional consent to do so is obtained.
 
-### **Transparency**
+Sobeys will take reasonable measures to ensure that the Personal Information we collect is accurate and complete. We will update our records regarding Customers based on the information communicated directly or indirectly to us by Customers or Partners. In order to ensure that our records are as complete and accurate as possible, you are responsible for informing Sobeys of any relevant changes to your Personal Information, such as a change of name or a change of address or other contact details. 
 
-Sobeys will ensure that its Privacy Commitment, policies, rules, practices and procedures concerning the management of Personal Information are readily accessible to Customers. Copies of this Privacy Commitment may be obtained at any time by request directed to the Sobeys Privacy Officer. This Privacy Commitment is also available on the Program website or may be emailed to a Customer upon request.
+Our websites may contain links to other websites. We are not responsible for the privacy practices or the content of sites (other than our own sites) to which we provide links. You should check the privacy policies of these other websites before choosing to provide any Personal Information to such third-party sites.
 
-### **Provisions relating to Pharmacy Operations**
+### **Cookies and Tracking Technologies**
 
-The following provisions of the Sobeys Privacy Commitment apply specifically to the pharmacy operations of Sobeys (“Pharmacy Operations”) which include Lawtons and all in-store pharmacies. In the event of an inconsistency between the provisions below and those above, the provisions below prevail as regards Pharmacy Operations.
+When you visit one of our websites or use one of our apps, we may use certain automated tools to provide you with a more personalized browsing experience, better understand your needs, provide you with content that is most relevant to you and monitor trends respecting the usage of our site and apps.
 
-### **Your Personal Health Information:**
+In general, you can visit one of our websites without telling us who you are or submitting any personal information. However, through log files and other technologies, we collect the IP (Internet protocol) addresses of all visitors to our websites and other related information such as page requests, browser type, operating system and average time spent on our websites. We collect similar information respecting the usage of our apps. We use this information to help us understand user activity on our websites, to provide you with content appropriate for your region, and to monitor and improve our websites. 
 
-This Privacy Commitment applies to your personal health information, which we collect in the course of providing pharmacy services to you, including your name, street and email addresses, telephone number, birth date, gender, medical conditions, medication history and physician name.
+_Cookies_ : Our websites use a technology called “cookies”. A cookie is a small text file stored on your device that identifies your browser/device/IP address – but not you as an individual – to our computers each time you visit one of our websites. More information about cookies can be found at [www.en.wikipedia.org/wiki/HTTP_cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
 
-We obtain most of our information directly from you, as needed in order to provide you with the services you request. For example, we ask about any drug allergies you have in order to fill your prescriptions while avoiding the potential for harmful reactions.
+We use cookies on the pages on our websites where you are prompted to log in or that are customizable. If you have registered with our websites, these cookies (1) may let us know who you are, (2) may be necessary to access your account information (stored on our computers) in order to provide personalized services, and (3) will provide us and our service providers with information that we will use to personalize our websites in accordance with your preferences and interests. You may set your Web browser to notify you when you receive a cookie or to not accept certain cookies (these controls are typically found in the privacy settings for your browser). You do not need to enable cookies to visit our websites; however, if you decide not to accept cookies when visiting one of our websites, you may not be able to take advantage of all of the features of that site.
 
-Here is why we need some of the other information we may ask you to provide –
+_Tracer Tags & Web Beacons_: Our websites may also use a technology called “tracer tags” or “Web Beacons”. A [web beacon](https://en.wikipedia.org/wiki/Web_beacon) is a small transparent graphic image that allows us to record simple user actions related to our websites and to email communications received from us, to help us determine the usage and effectiveness of our site and communications. These “images” are automatically loaded to your browser/device when you visit the website or open an html format email message from us, thereby letting us know if a certain page was visited or an email message was opened. This technology allows us to understand which pages you visit on our websites. These tracer tags are used to help us optimize and tailor our websites for you and future visitors.
 
-Birth Date and Gender – Your date of birth and gender help us to identify you, serving as a “double check” along with your name and address so that your patient records are accurate and complete. A person’s age can affect the right dose of medication (especially in children and the elderly.)
+_Analytics_ : We may use a third party such as Google Analytics to help us gather and analyze information about the areas visited on the websites (such as the pages most read, time spent, search terms and other engagement data) in order to evaluate and improve the user experience and the convenience of the websites. For more information or to opt-out, see [“How Google uses data when you use our partners’ sites or apps”](https://policies.google.com/technologies/partner-sites) and [“Google Analytics and Privacy”](https://support.google.com/analytics/answer/6004245). 
 
-Medical Conditions – This helps us to make sure that any medications you receive are safe and appropriate for you. It also helps us to provide you with information and advice that is helpful, appropriate, and necessary for your health and safety.
+### **Interest-Based Advertising**
 
-Address and Telephone Number – To contact you if needed to answer your questions, or to provide information about your medication (for example, if a drug that you have been prescribed is recalled or withdrawn).
+#### **General**
 
-Why we collect your personal health information:
+We work with third-parties such as ad networks and other advertising companies that use their own tracking technologies (including cookies and pixel tags) on our websites and apps and other websites and apps in order to provide you with tailored advertisements on our behalf on third party websites across the Internet. These companies may collect information about your activity across your different devices on our websites and apps and third-party websites and apps (such as web pages you visit and your interaction with our advertising and other communications) and use this information to make predictions about your preferences, develop personalized content and deliver ads that are more relevant to you on third party websites and apps. This information may also be used to evaluate our online advertising campaigns. 
 
-We collect your personal health information in order to provide you with quality care and to meet legal and professional requirements, including maintaining a record of medications dispensed and services provided.
+To opt-out of receiving online behavioural advertising from third party advertising companies who collect data on our websites, please click on the AdChoices icon located in the righthand corner of any of our websites
 
-Use and disclosure of your personal health information:
+For more information about interest-based advertising on your desktop or mobile browser and to understand your options, including how you can opt-out of receiving behavioural ads from third-party advertising companies participating in the DAAC, please visit the Digital Advertising Alliance of Canada [website](http://youradchoices.ca/choices). To learn more about interest-based advertising in mobile apps and to opt out of this type of advertising by third-party advertising companies that participate in the DAAC’s AppChoices tool, please download the version of AppChoices for your device. [Ad Choices opt out tool](https://youradchoices.ca/appchoices/).
 
-We will not collect, use or disclose your information without your consent unless required or permitted by law (please see below). In some cases, your consent will be requested in writing; at other times, you may indicate your consent to us verbally or by some action on your part. When your consent is required, we will provide you with information about the purposes for which the information is being collected and used, and circumstances in which it will be disclosed. We do not sell or rent your personal health information to third parties.
+Please note that even if you opt-out of interest-based advertising by a third party, these tracking technologies may still collect data for other purposes, including to produce aggregated website analytics, and you may still see ads from us; however, the ads will not be targeted based on behavioural information about you, and may therefore be less relevant to you and your interests.
 
-We will only share your personal health information with others as needed to provide you with services or products, for example to send a claim on your behalf to your drug plan for payment of a prescription. We may where appropriate in our professional judgment contact you, a person authorized by you, or the prescriber of your medication or other healthcare professional to discuss and/or verify the medication/prescription, instructions and relevant options. We may also contact you or a person authorized by you to provide or offer services associated with your prescriptions or health care, alternatives to prescribed medication (such as generics) and other relevant health services, and to make or verify payment and/or pickup or delivery arrangements.
+To successfully opt-out, you must have cookies enabled in your web browser. Please see your browser’s instructions for information on cookies and how to enable them. Your opt-out only applies to a particular web browser you have used, so you must opt-out of each web browser on each device that you use. Once you opt out, if you delete your browser’s saved cookies, you may need to opt-out again. 
 
-We will not share, sell or in any other way provide your personal health information to third parties not associated with the provision of our services.
+#### **Social Media Advertising**
 
-### **Disclosure when required by law:**
+We may also use services provided by third-party platforms (such as social networking platforms, search engines and other third-party websites) to serve demographically-targeted advertisements on such platforms to users of those platforms, based on user data collected by the operators of those platforms. Generally, your receipt of advertising on such platforms is governed by the privacy policy, terms of use, and preference options provided by the provider of the platform in question.
 
-In some instances, legislation or regulations require that we disclose your personal health information to government agencies for the purpose of safer health care – for instance, where there is a provincial “Drug Information System” that hosts a complete medication history for each person in the province. Likewise, we are required in some provinces to disclose information to agencies that monitor the use of certain drugs (narcotic and controlled drugs). We must also provide your personal health information in response to a court order, search warrant or other legally valid inquiry or order. We may also disclose information for investigation or law enforcement purposes, for example, to protect against fraud or other criminal activity.
+From time to time, we may also engage third-party platforms to serve users of those platforms with more individually-targeted advertising, which is based both on the platform’s user data and your interactions with Sobeys outside of the platform. To do this, we provide to the platform provider a “hashed version” of your email address or other potentially connecting information, which could be matched to your profile with that platform. Hashing is a mathematical operation that applies an equation to information so as to produce an encrypted value that cannot be reversed to reveal the original data. Both Sobeys and the platform run the same one-way hash function on the same data element, for an example, an email address. As a result, when Sobeys provides the platform with the hashed email addresses of a selected group of Customers, the platform is able to match the hashed value against the corresponding hashed value for users of the platform, allowing the platform to target Sobeys customers that are users of that platform with relevant advertising, based on demographic and other factors selected by Sobeys. Sobeys provides only the hashed value and no other information about you to the platform. Further information about this process may be provided by the social media platforms that you use (see, for example, the “ads” icon in Facebook’s user Privacy Settings and Tools), and you may exercise the preferences provided by those social media platforms with respect to your viewing of advertising on those platforms. To opt-out of the use by Sobeys of the Personal Information we hold about you for such purposes, please see Your Options
 
-### **Withdrawal of your consent:**
+### **Retention**
 
-You may withdraw your consent to our collection and use of your personal health information by giving us written notification of your withdrawal at any time. However, withdrawing your consent may affect the products or services we are able to provide or make available to you. For example, if you withdraw your consent for us to collect or use the personal health information we require in order to fill your prescription safely and in accordance with legal and professional standards, we will be unable to provide that service to you.
+Sobeys will only retain Personal Information to the extent necessary for the purposes identified in this Privacy Commitment, or to which you might otherwise consent, after which your Personal Information will be securely destroyed or irreversibly erased or de-identified. Personal Information may be stored “in the cloud” or otherwise outside of Canada, where it may be subject to the legal regime of the jurisdiction in which it is stored.
 
-### **Access to your information:**
+As noted below, under Your Choices, you may cancel your membership in a Program or otherwise request deletion of your Personal Information. Note that, in some cases, Sobeys may retain some of your Personal Information for a reasonable period of time for legal, administrative or compliance purposes.
 
-You can access the personal heath information we retain about you. Upon receipt of your written request, we will provide you with a copy of your personal health information. We will make every reasonable effort to keep your information accurate and up-to-date. If you find any errors in our information about you, please let us know. Please help us by keeping us informed of any changes such as a change of address or telephone number. Having accurate information about you allows us to give you the best possible care and service.
+### **Security**
 
-### **Protecting your personal health information:**
+Sobeys has established appropriate technological, physical and contractual security measures designed to help protect Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use or modification with security safeguards appropriate to the sensitivity of the Personal Information.
 
-We protect your personal health information with appropriate safeguards and security measures. We institute appropriate security standards to help protect our systems against unauthorized access and use.
+### **Your Options**
 
-When we hire other organizations to provide support services, we require that they adhere to our privacy policies.
+Sobeys provides you with a number of options through which you may exercise certain preferences with respect to our use of your Personal Information, obtain access to the Personal Information that we hold about you, or request revisions to or deletion of that information.
 
-The length of time we retain your personal health information varies depending on the product or service, the nature of the information, and legal requirements. This period may extend beyond the end of your relationship with us, but only for as long as is necessary to respond to any issue that may arise or to meet any legal requirements.
+#### **Opting Out**
 
-When your personal health information is no longer needed for the purposes explained to you, we have procedures to destroy, delete or erase it, or convert it to an anonymous form so that it can no longer be connected to you.
+You may generally withdraw your consent to our use or disclosure of your Personal Information at any time, subject to legal and contractual restrictions; however, without such consent, we may be unable to provide you with certain services or benefits. For example, if you withdraw your consent for the use of your Personal Information for the purposes of earning points or other benefits under a Program, we will no longer be able to participate in that Program. 
 
-### **Additional Information regarding Use of Our Pharmacy Websites:**
+#### **a. Direct Marketing**
 
-We operate various websites in association with our pharmacy businesses (collectively, “Sites”). In general, you can visit our Sites without revealing any personal information. At times, though, we may need personal information about you in order to process a request for information, or to provide a correct response, such as your name, e-mail address and postal code or demographic information (for example, your date of birth). You may choose whether or not to provide such data to us. Please be aware, however, that if you choose not to provide the personal information, you may not be able to use some of the features on the site. If you choose to provide us with personal information, we will use this information in strict adherence with the terms of this Privacy Commitment. If you ask us not to use this information as a basis for further contact with you, we will respect your request.
+From time to time, with your consent or as otherwise permitted by law, we may use Personal Information to communicate with Customers regarding promotions, contests, offers, incentives, rewards, surveys, questionnaires and other pertinent matters such as products and services, as described under Purposes, above. 
 
-Our Sites may contain links to other websites. We are not responsible for the privacy practices or the content of sites (other than our own sites) to which we provide links. You should check the privacy policies of these other websites before choosing to provide any personal information.
+If you would prefer not to receive such communications from us, you may opt-out at any time by contacting Sobeys at the addresses provided under “Contact Us”. If you receive promotional email messages from us, you may also unsubscribe from such messages by using the unsubscribe mechanism found in all such messages. Opting out from the receipt of direct marketing material will not affect your privileges or ability to participate in a Program, nor will it prevent the provision of periodic statements to you with respect to any point or similar balances in a Program.
 
-### **Questions or concerns:**
+#### **b. Interest-Based Advertising**
 
-If you have questions or concerns about our Privacy Commitment as it relates to pharmacy matters, you can ask your pharmacist or contact our company’s Privacy Officer at the address provided below.
+As described above, under Interest-Based Advertising, you may opt-out of receiving online behavioural advertising from third party advertising companies who collect data on our websites by clicking on the AdChoices icon located in the top righthand corner of any of our websites. You may also opt-out of Interest-Based Advertising more generally by clicking on the AdChoices icon on any ads that you see.
 
-Complaints Regarding Non-Compliance
+Please note that even if you opt-out of interest-based advertising by a third party, these tracking technologies may still collect data for other purposes including analytics and you will still see ads on many of the Internet sites that you visit; however, these ads will not be targeted based on your perceived interests and tastes, and may therefore be less relevant to you.
 
-Sobeys has appointed a Privacy Officer to address any questions, concerns or complaints regarding compliance with this Privacy Commitment by any party.
+As also described above, you may opt-out of having Sobeys using the Personal Information it holds about you to target ads to you when you are on social media platforms.
 
-The Sobeys Privacy Officer may be contacted as follows:
+#### **Access and Correction**
 
-Sobeys Privacy Officer – 115 King Street, Stellarton, Nova Scotia B0K 1S0
+Upon request, Customers may examine the Personal Information about them that Sobeys holds, except as provided by law. Where Sobeys is unable to provide access to all the Personal Information it holds about you, it will provide the reasons why it is unable to do so. Where Sobeys receives a request from a Customer to examine Personal Information collected and retained, Sobeys will respond to the request within 30 business days.
 
-Email: [privacy@sobeys.com ](mailto:privacy@sobeys.com)
+You may request access to your Personal Information by making a request, in writing, to Sobeys Privacy Officer, at the addresses provided under Contact Us. Note that, in an effort to prevent fraudulent or unauthorized requests for access, we may request identification for authentication purposes.
 
-Sobeys will investigate all formal complaints and will respond within 30 business days after receipt of written complaint. If the complaint is reasonable, Sobeys will take suitable measures to address the complaint.
+You may also make a subsequent request to the Sobeys Privacy Officer to correct any Personal Information that you feel is inaccurate or incomplete. You may also request the deletion of your Personal Information, subject to legal and contractual restrictions; however, please note that deletion of some information may impact our ability to provide you with certain services.
+
+### **Changes and Updates**
+
+Sobeys may revise this Privacy Commitment from time to time as our business evolves, in response to legal developments, as new technologies become available, or as we introduce new features, products or services.
+
+When we make changes to this Privacy Commitment we will revise the “last updated” date at the top of the Commitment. You should check back here periodically to find out if any changes have been made. If we make substantial changes we will, as appropriate, prominently post these changes to our website or notify registered Customers directly. 
+
+If you disagree with any change to the Privacy Commitment, you may close your account and refrain from using our services, or in some cases, by opting out. Continuing to use our services, including our websites, after we post or communicate a change signifies that you consent to the revised terms of the Privacy Commitment.
+
+On occasion, we may also identify new purposes for the collection or use of Personal Information, such as in connection with a new promotion or Program. We will describe such uses in separate notices or other communications.
+
+Should you have any questions about this Privacy Commitment, or the manner in which Sobeys collects, uses, shares and protects your Personal Information, you may write to our Privacy Officer at the postal or email addresses provided below 
+
+### **Contact Us**
+
+If you would like to opt-out of any uses of your Personal Information, obtain access, request correction or deletion, make a complaint, or generally have any questions or concerns about our Privacy Commitment, you may contact the Sobeys Privacy Officer at the address provided below. For questions with respect to our Privacy Commitment as it relates to pharmacy operations, you may also ask your pharmacist. 
+
+Sobeys Privacy Officer  
+4980 Tahoe Blvd.   
+Mississauga, Ontario   
+L4W 0C7  
+Email: [privacy@sobeys.com](mailto:privacy@sobeys.com)
+
+Sobeys will consider all complaints, and will respond within 30 business days after receipt of written complaint. If the complaint is well-founded, Sobeys will take suitable measures to address the complaint.
+
+Copies of this Privacy Commitment may be obtained at any time by request directed to the Sobeys Privacy Officer. This Privacy Commitment is also available on Program websites.
+
+### **Provisions Relating to Pharmacy Operations**
+
+In addition to the disclosures, safeguards and options set out above, the following provisions of the Sobeys Privacy Commitment apply specifically to the pharmacy operations of Sobeys which include Lawtons and all in-store pharmacies (“Pharmacy Operations”). In the event of an inconsistency between the provisions below and those above, the provisions below prevail with respect to Pharmacy Operations. 
+
+Health care providers such as pharmacists are subject to the personal health information privacy law that applies in the province in which they operate, and our Pharmacy Operations may also be subject to private sector privacy laws applicable in the province in which they operate. 
+
+### **Your Personal Health Information**
+
+This Privacy Commitment applies to your personal health information, which we collect in the course of providing pharmacy services to you. Personal health information is a subset of Personal Information that relates specifically to the mental or physical health of an individual, the provision of health care to an individual or any payments or eligibility for health care or health care coverage with respect to an individual. It also includes information that is generally collected in the course of providing health care services to an individual (“Personal Health Information”).
+
+We obtain most Personal Health Information directly from you, as needed in order to provide you with the services you request. For example, we ask about any drug allergies you have in order to fill your prescriptions, while avoiding the potential for harmful reactions. We may also collect Personal Health Information about you that may be provided by your physician, hospital, clinic, or other health care provider, or by your local health authority or network.
+
+Examples of the type of Personal Health Information that we may typically collect in the course of our Pharmacy Operations, include your name, street and email addresses, telephone number, birth date, gender, medical conditions, medication history and physician name.
+
+We may also ask you to provide the following information:
+
+• Birth Date and Gender – Your date of birth and gender help us to identify you, serving as a “double check” (along with your name and address) to help ensure that your patient records are accurate and complete. A person’s age can also affect the recommended dosage of medication that they should receive (especially in children and the elderly)
+
+• Medical Conditions – Knowing the medical conditions that may affect you helps us ensure that any medications you receive are safe and appropriate for you. It also helps us to provide you with information and advice that is helpful, appropriate, and necessary for your health and safety.
+
+• Address and Telephone Number – We collected contact details to communicate with you, as required, to answer your questions, or to provide information about your medication (for example, if a drug that you have been prescribed is recalled or withdrawn).
+
+### **Purposes**
+
+We generally collect your Personal Health Information in order to provide you with quality care and to meet legal and professional requirements, including maintaining a record of medications dispensed and services provided.
+
+We will not collect, use or disclose your information without your consent unless required or permitted by law (please see below). In some cases, your consent will be requested in writing; at other times, you may indicate your consent to us verbally or by some action on your part. When your consent is required, we will provide you with information about the purposes for which the information is being collected and used, and circumstances in which it will be disclosed. 
+
+We will only share your Personal Health Information with others as reasonably necessary to provide you with services or products, for example to send a claim on your behalf to your drug plan for payment of a prescription. Where appropriate, in the professional judgment of your pharmacist, we may contact you, a person authorized by you, or the prescriber of your medication or other healthcare professional to discuss and/or verify the medication/prescription, instructions and relevant options. We may also contact you or a person authorized by you to provide or offer services associated with your prescriptions or health care, alternatives to prescribed medication (such as generics) and other relevant health services, and to make or verify payment and/or pickup or delivery arrangements. Personal Health Information shared with such parties must be used solely for the purposes of providing you with pharmacy services, or with health care more generally, and is shared only to the extent required to perform the services in question.
+
+We will not otherwise share, sell or in any other way provide your Personal Health Information to third parties, for any purpose whatsoever, without your further consent.
+
+Note that we do not engage in Interest-Based Advertising with respect to our Pharmacy Operations or your use of our Pharmacy Websites. While you may still see some ads displayed on our websites, or see ads for Sobeys, Lawtons and our Pharmacy Operations on other websites and platforms that you may visit, these ads will be placed based on the nature of the website in question and assumptions about likely visitors, not based on any usage of pharmacy services or actions taken by you on our Pharmacy Websites. 
+
+### **Disclosure When Required by Law**
+
+As noted above under Sharing, in some cases, we may be required to provide Personal Information, including Personal Health Information, to law enforcement agencies, government departments or courts where required by law.
+
+In some instances, legislation or regulations require that we disclose your Personal Health Information to government agencies for the purpose of safer health care – for instance, where there is a provincial “Drug Information System” that hosts a complete medication history for each person in the province. Likewise, we are required in some provinces to disclose information to agencies that monitor the use of certain drugs (narcotic and controlled drugs). 
+
+### **Access to Your Information**
+
+You can access the personal health information we retain about you. Upon receipt of your written request, we will provide you with a copy of your Personal Health Information. We will make every reasonable effort to keep your information accurate and up-to-date. If you find any errors in our information about you, please let us know. Please help us by keeping us informed of any changes such as a change of address or telephone number. Having accurate information about you allows us to give you the best possible care and service.
+
+### **Additional Information regarding Use of Our Pharmacy Websites**
+
+We operate various websites in association with our pharmacy businesses (collectively, “Pharmacy Websites”). In general, you can visit our Pharmacy Websites without revealing any personal information. At times, though, we may need personal information about you in order to process a request for information, or to provide a correct response. In such cases, we may require contact information such as your name, e-mail address and postal code or other information about you, such as your date of birth). You may choose whether or not to provide such data to us. Please be aware, however, that if you choose not to provide the personal information, you may not be able to use some of the features on the website. If you choose to provide us with personal information, we will use this information in strict adherence with the terms of this Privacy Commitment. If you ask us not to use this information as a basis for further contact with you, we will respect your request.
