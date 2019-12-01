@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revahealth.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915150447id_/https%3A//www.whatclinic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revahealth.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201032111id_/https%3A//www.whatclinic.com/privacy-policy) for the most accurate reproduction.*
 
 # WhatClinic - Privacy Policy
 
