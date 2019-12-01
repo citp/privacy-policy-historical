@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newschannel10.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622130420id_/http%3A//www.newschannel10.com/2018/09/12/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschannel10.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201125404id_/https%3A//www.newschannel10.com/privacy-policy) for the most accurate reproduction.*
 
-# Gray Television, Inc. PRIVACY POLICY
+# Privacy Policy
 
 _**Introduction**_ We at Gray Television, Inc. (“GTI”), along with our television stations (“Stations”), respect your privacy. We have adopted this Privacy Policy to explain what information about you we collect, how we use it, and how we share it. We provide a link to this Privacy Policy wherever it applies, such as on our Station web sites, our mobile apps, our social networking presence on Facebook and other platforms, and other online services that we provide and control (“Services”). By using our Services, you accept our practices as described in this Privacy Policy.
 
