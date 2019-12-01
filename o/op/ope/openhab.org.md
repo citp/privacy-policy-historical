@@ -1,177 +1,186 @@
-> *The following text is extracted and transformed from the openhab.org privacy policy that was archived on 2012-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121230181918id_/http%3A//www.google.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openhab.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201235405id_/https%3A//www.openhab.org/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy – Policies & Principles – Google
+# Privacy Policy | openHAB
 
-Last modified: July 27, 2012 ([view archived versions](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/archive/)) 
+## # An overview of data protection
 
-There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you more relevant search results and ads, to help you connect with people or to make sharing with others quicker and easier. As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
+### # General
 
-Our Privacy Policy explains: 
+The following gives a simple overview of what happens to your personal information when you visit our website. Personal information is any data with which you could be personally identified. Detailed information on the subject of data protection can be found in our privacy policy found below.
 
-  * What information we collect and why we collect it. 
-  * How we use that information. 
-  * The choices we offer, including how to access and update information.
+### # Data collection on our website
 
+#### # Who is responsible for the data collection on this website?
 
+The data collected on this website are processed by the website operator. The operator's contact details can be found in the website's required [legal notice](https://web.archive.org/imprint.html).
 
-We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [contact us](https://web.archive.org/support/websearch/bin/answer.py?answer=151265&hl=en). 
+#### # How do we collect your data?
 
-### Information we collect
+Some data are collected when you provide it to us. This could, for example, be data you enter on a contact form.
 
-We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which ads you’ll find most useful or the people who matter most to you online. 
+Other data are collected automatically by our IT systems when you visit the website. These data are primarily technical data such as the browser and operating system you are using or when you accessed the page. These data are collected automatically as soon as you enter our website.
 
-We collect information in two ways: 
+#### # What do we use your data for?
 
-  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or credit card. If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
+Part of the data is collected to ensure the proper functioning of the website. Other data can be used to analyze how visitors use the site.
 
-  * **Information we get from your use of our services.** We may collect information about the services that you use and how you use them, like when you visit a website that uses our advertising services or you view and interact with our ads and content. This information includes: 
+#### # What rights do you have regarding your data?
 
-    * **Device information**
+You always have the right to request information about your stored data, its origin, its recipients, and the purpose of its collection at no charge. You also have the right to request that it be corrected, blocked, or deleted. You can contact us at any time using the address given in the legal notice if you have further questions about the issue of privacy and data protection. You may also, of course, file a complaint with the competent regulatory authorities.
 
-We may collect device-specific information (such as your hardware model, operating system version, unique device identifiers, and mobile network information including phone number). Google may associate your device identifiers or phone number with your Google Account. 
+#### # Analytics and third-party tools
 
-    * **Log information**
+When visiting our website, statistical analyses may be made of your surfing behavior. This happens primarily using cookies and analytics. The analysis of your surfing behavior is usually anonymous, i.e. we will not be able to identify you from this data. You can object to this analysis or prevent it by not using certain tools. Detailed information can be found in the following privacy policy.
 
-When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
+You can object to this analysis. We will inform you below about how to exercise your options in this regard.
 
-      * details of how you used our service, such as your search queries. 
-      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
-      * [Internet protocol address](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-ip). 
-      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
-      * cookies that may uniquely identify your browser or your Google Account.
-    * **Location information**
+## # General information and mandatory information
 
-When you use a location-enabled Google service, we may collect and process information about your actual location, like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
+### # Data protection
 
-    * **Unique application numbers**
+The operators of this website take the protection of your personal data very seriously. We treat your personal data as confidential and in accordance with the statutory data protection regulations and this privacy policy.
 
-Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
+If you use this website, various pieces of personal data will be collected. Personal information is any data with which you could be personally identified. This privacy policy explains what information we collect and what we use it for. It also explains how and for what purpose this happens.
 
-    * **Local storage**
+Please note that data transmitted via the internet (e.g. via email communication) may be subject to security breaches. Complete protection of your data from third-party access is not possible.
 
-We may collect and store information (including personal information) locally on your device using mechanisms such as browser web storage (including HTML 5) and application data caches. 
+### # Notice concerning the party responsible for this website
 
-    * **Cookies and anonymous identifiers**
+The party responsible for processing data on this website is:
 
-We use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as advertising services or Google features that may appear on other sites.
+openHAB Foundation e.V.  
+Kollwitzweg 10  
+64372 Ober-Ramstadt
 
+ 
 
+[+49 (6154) 603-9765](tel:+4961546039765)
 
+ 
 
-### How we use information we collect
+[info@openhabfoundation.org](mailto:info@openhabfoundation.org)
 
-We use the information we collect from all of our services to provide, maintain, protect and improve them, to develop new ones, and to protect Google and our users. We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
+The responsible party is the natural or legal person who alone or jointly with others decides on the purposes and means of processing personal data (names, email addresses, etc.).
 
-We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
+### # Revocation of your consent to the processing of your data
 
-When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
+Many data processing operations are only possible with your express consent. You may revoke your consent at any time with future effect. An informal email making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
-We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-pixel), to improve your user experience and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with sensitive categories, such as those based on race, religion, sexual orientation or health. 
+If there has been a breach of data protection legislation, the person affected may file a complaint with the competent regulatory authorities. The competent regulatory authority for matters related to data protection legislation is the data protection officer of the German state in which our company is headquartered. A list of data protection officers and their contact details can be found at the following link: <https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html>[ ](https://www.bfdi.bund.de/DE/Infothek/Anschriften_Links/anschriften_links-node.html).
 
-We may combine personal information from one service with information, including personal information, from other Google services – for example to make it easier to share things with people you know. We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
+### # SSL or TLS encryption
 
-We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
+This site uses SSL or TLS encryption for security reasons and for the protection of the transmission of confidential content, such as the inquiries you send to us as the site operator. You can recognize an encrypted connection in your browser's address line when it changes from "http://" to "https://" and the lock icon is displayed in your browser's address bar.
 
-Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
+If SSL or TLS encryption is activated, the data you transfer to us cannot be read by third parties.
 
-### Transparency and choice
+### # Information, blocking, deletion
 
-People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
+As permitted by law, you have the right to be provided at any time with information free of charge about any of your personal data that is stored as well as its origin, the recipient and the purpose for which it has been processed. You also have the right to have this data corrected, blocked or deleted. You can contact us at any time using the address given in our legal notice if you have further questions on the topic of personal data.
 
-  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
-  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your ads preferences, such as which categories might interest you, using the Ads Preferences Manager. You can also opt out of certain Google advertising services here. 
-  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=97706) to see and adjust how your Google Profile appears to particular individuals. 
-  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with. 
-  * [Take information](http://www.dataliberation.org/) out of many of our services.
+## # Data collection on our website
 
+### # Cookies
 
+Some of our web pages use cookies. Cookies do not harm your computer and do not contain any viruses. Cookies help make our website more user-friendly, efficient, and secure. Cookies are small text files that are stored on your computer and saved by your browser.
 
-You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences. 
+Most of the cookies we use are so-called "session cookies." They are automatically deleted after your visit. Other cookies remain in your device's memory until you delete them. These cookies make it possible to recognize your browser when you next visit the site.
 
-### Information you share
+You can configure your browser to inform you about the use of cookies so that you can decide on a case-by-case basis whether to accept or reject a cookie. Alternatively, your browser can be configured to automatically accept cookies under certain conditions or to always reject them, or to automatically delete cookies when closing your browser. Disabling cookies may limit the functionality of this website.
 
-Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on sharing and removing your content. 
+Cookies which are necessary to allow electronic communications or to provide certain functions you wish to use are stored pursuant to Art. 6 paragraph 1, letter f of GDPR. The website operator has a legitimate interest in the storage of cookies to ensure an optimized service provided free of technical errors. If other cookies (such as those used to analyze your surfing behavior) are also stored, they will be treated separately in this privacy policy.
 
-### Accessing and updating your personal information
+### # Server log files
 
-Whenever you use our services, we aim to provide you with access to your personal information. If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
+The website provider automatically collects and stores information that your browser automatically transmits to us in "server log files". These are:
 
-We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes). 
+  * Browser type and browser version
+  * Operating system used
+  * Referrer URL
+  * Host name of the accessing computer
+  * Time of the server request
+  * IP address
 
-Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
 
-### Information we share
 
-We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances apply: 
+These data will not be combined with data from other sources. The basis for data processing is Art. 6 (1) (f) GDPR, which allows the processing of data to fulfill a contract or for measures preliminary to a contract.
 
-  * **With your consent**
+### # Registration on this website
 
-We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-sensitive-info). 
+You can register on our website in order to access additional functions offered here. The input data will only be used for the purpose of using the respective site or service for which you have registered. The mandatory information requested during registration must be provided in full. Otherwise, we will reject your registration.
 
-  * **With domain administrators**
+To inform you about important changes such as those within the scope of our site or technical changes, we will use the email address specified during registration.
 
-If your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+We will process the data provided during registration only based on your consent per Art. 6 (1)(a) GDPR. You may revoke your consent at any time with future effect. An informal email to [forum@openhabfoundation.org](mailto:forum@openhabfoundation.org) making this request is sufficient. The data processed before we receive your request may still be legally processed.
 
-    * view statistics regarding your account, like statistics regarding applications you install. 
-    * change your account password. 
-    * suspend or terminate your account access. 
-    * access or retain information stored as part of your account. 
-    * receive your account information in order to satisfy applicable law, regulation, legal process or enforceable governmental request. 
-    * restrict your ability to delete or edit information or privacy settings.
+We will continue to store the data collected during registration for as long as you remain registered on our website. Statutory retention periods remain unaffected.
 
-Please refer to your domain administrator’s privacy policy for more information. 
+## # Analytics and advertising
 
-  * **For external processing**
+### # Google Analytics
 
-We provide personal information to our affiliates or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+This website uses Google Analytics, a web analytics service. It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
 
-  * **For legal reasons**
+Google Analytics uses so-called "cookies". These are text files that are stored on your computer and that allow an analysis of the use of the website by you. The information generated by the cookie about your use of this website is usually transmitted to a Google server in the USA and stored there.
 
-We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+Google Analytics cookies are stored based on Art. 6 (1) (f) GDPR. The website operator has a legitimate interest in analyzing user behavior to optimize both its website and its advertising.
 
-    * meet any applicable law, regulation, legal process or enforceable governmental request. 
-    * enforce applicable Terms of Service, including investigation of potential violations. 
-    * detect, prevent, or otherwise address fraud, security or technical issues. 
-    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+### # IP anonymization
 
+We have activated the IP anonymization feature on this website. Your IP address will be shortened by Google within the European Union or other parties to the Agreement on the European Economic Area prior to transmission to the United States. Only in exceptional cases is the full IP address sent to a Google server in the US and shortened there. Google will use this information on behalf of the operator of this website to evaluate your use of the website, to compile reports on website activity, and to provide other services regarding website activity and Internet usage for the website operator. The IP address transmitted by your browser as part of Google Analytics will not be merged with any other data held by Google.
 
+### # Browser plugin
 
-We may share aggregated, [non-personally identifiable information](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly to show trends about the general use of our services. 
+You can prevent these cookies being stored by selecting the appropriate settings in your browser. However, we wish to point out that doing so may mean you will not be able to enjoy the full functionality of this website. You can also prevent the data generated by cookies about your use of the website (incl. your IP address) from being passed to Google, and the processing of these data by Google, by downloading and installing the browser plugin available at the following link: <https://tools.google.com/dlpage/gaoptout?hl=en>[ ](https://tools.google.com/dlpage/gaoptout?hl=en).
 
-If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+#### # Objecting to the collection of data
 
-### Information security
+You can also prevent the collection of your data by Google Analytics by clicking on the following link. An opt-out cookie will be set to prevent your data from being collected on future visits to this site: Disable Google Analytics.
 
-We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+For more information about how Google Analytics handles user data, see Google's privacy policy: <https://support.google.com/analytics/answer/6004245?hl=en>[ ](https://support.google.com/analytics/answer/6004245?hl=en).
 
-  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en). 
-  * We offer you [two step verification](http://support.google.com/accounts/bin/static.py?hl=en&page=guide.cs&guide=1056283&topic=1056284) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
-  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
-  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+### # Outsourced data processing
 
+We have entered into an agreement with Google for the outsourcing of our data processing and fully implement the strict requirements of the German data protection authorities when using Google Analytics.
 
+### # Algolia
 
-### Application
+The search function on our website uses the Algolia search technology services. It is operated by Algolia SAS, 55 Rue d'Amsterdam, 75008 Paris, France.
 
-Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+If you use the search function, it is necessary to transmit your IP address to an Algolia server in Europe or the USA. For more information about how Algolia handles user data, see Algolia's privacy policy: <https://www.algolia.com/policies/privacy>[ ](https://www.algolia.com/policies/privacy).
 
-Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+### # YouTube
 
-### Enforcement
+Our website uses plugins from YouTube, which is operated by Google. The operator of the pages is YouTube LLC, 901 Cherry Ave., San Bruno, CA 94066, USA.
 
-We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20121230142737id_/http://www.google.com/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+If you visit one of our pages featuring a YouTube plugin, a connection to the YouTube servers is established. Here the YouTube server is informed about which of our pages you have visited.
 
-### Changes
+If you're logged in to your YouTube account, YouTube allows you to associate your browsing behavior directly with your personal profile. You can prevent this by logging out of your YouTube account.
 
-Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+YouTube is used to help make our website appealing. This constitutes a justified interest pursuant to Art. 6 (1) (f) GDPR.
 
-### Specific product practices
+Further information about handling user data, can be found in the data protection declaration of YouTube under <https://www.google.de/intl/de/policies/privacy>[ ](https://www.google.de/intl/de/policies/privacy).
 
-The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+### # Google Maps
 
-  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
-  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
-  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
-  * [Fiber](https://fiber.google.com/legal/privacy.html)
+This site uses the Google Maps map service via an API. It is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.
 
+To use Google Maps, it is necessary to save your IP address. This information is generally transmitted to a Google server in the USA and stored there. The provider of this site has no influence on this data transfer.
 
+The use of Google Maps is in the interest of making our website appealing and to facilitate the location of places specified by us on the website. This constitutes a justified interest pursuant to Art. 6 (1) (f) GDPR.
+
+Further information about handling user data, can be found in the data protection declaration of Google at <https://www.google.de/intl/de/policies/privacy/>[ ](https://www.google.de/intl/de/policies/privacy/).
+
+### # Twitter
+
+Functions of the Twitter service have been integrated into our website and app. These features are offered by Twitter Inc., 1355 Market Street, Suite 900, San Francisco, CA 94103, USA. When you use Twitter and the “Retweet” function, the websites you visit are connected to your Twitter account and made known to other users. In doing so, data will also be transferred to Twitter. We would like to point out that, as the provider of these pages, we have no knowledge of the content of the data transmitted or how it will be used by Twitter. For more information on Twitter's privacy policy, please go to <https://twitter.com/privacy>[ ](https://twitter.com/privacy).
+
+Your privacy preferences with Twitter can be modified in your account settings at <https://twitter.com/account/settings>[ ](https://twitter.com/account/settings).
+
+## # Payment service providers
+
+### # PayPal
+
+Our website accepts donations via PayPal. The provider of this service is PayPal (Europe) S.à.r.l & Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg.
+
+If you select donation via PayPal, the payment data you provide will be supplied to PayPal based on Art. 6 (1) (a) (Consent) and Art. 6 (1) (b) GDPR (Processing for contract purposes). You have the option to revoke your consent at any time with future effect. It does not affect the processing of data previously collected.
