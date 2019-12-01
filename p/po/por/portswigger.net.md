@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the portswigger.net privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430180528id_/https%3A//portswigger.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portswigger.net privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201192934id_/https%3A//portswigger.net/privacy) for the most accurate reproduction.*
 
-# Privacy notice
+# Privacy notice - PortSwigger
 
 This privacy notice will inform you as to how we look after your personal data when you visit portswigger.net or its subdomains (regardless of where you visit them from) and tell you about your privacy rights and how the law protects you.
 
