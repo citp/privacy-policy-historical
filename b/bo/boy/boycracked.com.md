@@ -1,53 +1,133 @@
-> *The following text is extracted and transformed from the boycracked.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825220228id_/http%3A//boycracked.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boycracked.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201142620id_/https%3A//boycracked.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy – BOYCRACKED
+# Privacy Policy | BOYCRACKED
 
-## **Boycracked Privacy Policy**
+Effective date: October 19, 2018
 
-**What information do we collect?**
+Boycracked (“us”, “we”, or “our”) operates the https://Boycracked.com/ website (the “Service”).
 
-We collect information from you when you post a comment.When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-**What do we use your information for?**
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from https://Boycracked.com/
 
-Any of the information we collect from you may be used in one of the following ways:
-    
-    
-    To administer a contest, promotion, survey or other site feature
-    
+## Information Collection And Use
 
-**How do we protect your information?**
+We collect several different types of information for various purposes to provide and improve our Service to you.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+### Types of Data Collected
 
-**Do we use cookies?**
+**Personal Data**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain informationWe use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“Personal Data”). Personally identifiable information may include, but is not limited to:
 
-**Do we disclose any information to outside parties?**
+  * Email address
+  * First name and last name
+  * Cookies and Usage Data
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Third party advertising**
 
-We use third-party advertising companies to serve advertisements and collect non-personally identifiable information when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on our website, other sites and other forms of media about goods and services that may be of interest to you. If you would like more information about the practices of some of these third party advertising companies and learn which of these companies allow you to opt-out of this type of information collection, please click here.
+**Usage Data**
 
-**Third party links**
+We may also collect information how the Service is accessed and used (“Usage Data”). This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+**Tracking & Cookies Data**
 
-**Children’s Online Privacy Protection Act Compliance**
+We use cookies and similar tracking technologies to track the activity on our Service and hold certain information.
 
-We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Cookies are files with small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Tracking technologies also used are beacons, tags, and scripts to collect and track information and to improve and analyze our Service.
 
-**Your Consent**
+You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
 
-By using our site, you consent to our website’s privacy policy.
+**Examples of Cookies we use:**
 
-**Changes to our Privacy Policy**
+  * **Session Cookies**. We use Session Cookies to operate our Service.
+  * **Preference Cookies**. We use Preference Cookies to remember your preferences and various settings.
+  * **Security Cookies**. We use Security Cookies for security purposes.
 
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.This policy was last modified on 12/15/2011
 
-**Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using form below.
+## Use of Data
+
+Boycracked uses the collected data for various purposes:
+
+1\. To provide and maintain the Service  
+2\. To notify you about changes to our Service  
+3\. To allow you to participate in interactive features of our Service when you choose to do so  
+4\. To provide customer care and support  
+5\. To provide analysis or valuable information so that we can improve the Service  
+6\. To monitor the usage of the Service  
+7\. To detect, prevent and address technical issues
+
+## Transfer Of Data
+
+Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
+
+If you are located outside Spain and choose to provide information to us, please note that we transfer the data, including Personal Data, to Spain and process it there.
+
+Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+
+Boycracked will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.
+
+## Disclosure Of Data
+
+### Legal Requirements
+
+Boycracked may disclose your Personal Data in the good faith belief that such action is necessary to:
+
+  1. To comply with a legal obligation
+  2. To protect and defend the rights or property of Boycracked
+  3. To prevent or investigate possible wrongdoing in connection with the Service
+  4. To protect the personal safety of users of the Service or the public
+  5. To protect against legal liability
+
+
+
+## Security Of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
+
+## Service Providers
+
+We may employ third party companies and individuals to facilitate our Service (“Service Providers”), to provide the Service on our behalf, to perform Service-related services or to assist us in analyzing how our Service is used.
+
+These third parties have access to your Personal Data only to perform these tasks on our behalf and are obligated not to disclose or use it for any other purpose.
+
+## General Data Protection Regulation (GDPR) 
+
+“Because we do not collect or determine the use of any Personal Data contained in the Client Data and because it does not determine the purposes for which such Personal Data is collected, the means of collecting such Personal Data, or the uses of such Personal Data, We are not acting in the capacity of data controller in terms of the European Union’s General Data Protection Regulation (Regulation (EU) 2016
+
+### Analytics
+
+We may use third-party Service Providers to monitor and analyze the use of our Service.
+
+**Google Analytics**
+
+Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
+
+You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.
+
+For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: https://policies.google.com/privacy?hl=en
+
+## Links To Other Sites
+
+Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
+
+We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+## Children’s Privacy
+
+Our Service does not address anyone under the age of 18 (“Children”).
+
+We do not knowingly collect personally identifiable information from anyone under the age of 18. If you are a parent or guardian and you are aware that your Children has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from children without verification of parental consent, we take steps to remove that information from our servers.
+
+## Changes To This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the “effective date” at the top of this Privacy Policy.
+
+You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy, please contact us using the [Contact Form”](https://web.archive.org/contact-us/).
