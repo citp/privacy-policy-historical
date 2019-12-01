@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409133007id_/https%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalpropertyguide.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201024552id_/https%3A//www.globalpropertyguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Global Property Guide
 
@@ -10,7 +10,7 @@ At the Global Property Guide (GPG) we collect different types of information abo
 
   1. To help us to monitor and improve the services we offer.
   2. To sell advertising space on the site. This helps us to keep the site free for people who visit it.
-  3. If we have permission from the user, or where otherwise allowed by law, to market services to them. This includes two sites that we do not operate but whose products are marketed through our site: the property listing site [search.globalpropertyguide.com](https://web.archive.org/web/20190409133007id_/https%3A//www.globalpropertyguide.com/search.globalpropertyguide.com) and the residential mortgage site [www.SimonConn.com](https://web.archive.org/web/20190409133007id_/https%3A//www.globalpropertyguide.com/www.SimonConn.com)
+  3. If we have permission from the user, or where otherwise allowed by law, to market services to them. This includes two sites that we do not operate but whose products are marketed through our site: the property listing site [search.globalpropertyguide.com](https://www.globalpropertyguide.com/search.globalpropertyguide.com) and the residential mortgage site [www.SimonConn.com](https://www.globalpropertyguide.com/www.SimonConn.com)
 
 
 
@@ -74,7 +74,7 @@ As a user of our site you have the following rights:
 
 Under the General Data Protection Regulation the 'data controller' is an important function. For the global Property Guide and services provided through us, the Data Controller is The Global Property Guide, 4636 Arellano Street, Palanan, Makati City, Philippines.
 
-If you would like access to or a copy of the personal information we hold about you, to request a correction, or have any questions about how we may use it or to make a complaint, please contact the data controller at the address shown above. Or, email office@globalpropertyguide.com. Complaints will be responded to within 30 days at the latest.
+If you would like access to or a copy of the personal information we hold about you, to request a correction, or have any questions about how we may use it or to make a complaint, please contact the data controller at the address shown above. Or, email [[email protected]](https://www.globalpropertyguide.com/cdn-cgi/l/email-protection) Complaints will be responded to within 30 days at the latest.
 
 If you are not satisfied with the way your complaint was handled, you may be able to refer your complaint to your local data protection regulator.
 
