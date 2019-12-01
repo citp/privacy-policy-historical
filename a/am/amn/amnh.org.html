@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the amnh.org privacy policy that was archived on 2019-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190418183826id_/https%3A//www.amnh.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amnh.org privacy policy that was archived on 2019-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191201102839id_/https%3A//www.amnh.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" class="no-je main-html js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US" class="no-je main-html async-hide"><head>
     
-
-<script type="text/javascript" async="" src="https://cdn.yoochoose.net/yc.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NXGG9T"></script><script src="https://cdn-pci.optimizely.com/js/5768981649.js"></script>
-<script>
+<style>.async-hide { opacity: 0 !important} </style>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NXGG9T"></script><script>
     //js-cookie
     !function(e){var n=!1;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var o=window.Cookies,t=window.Cookies=e();t.noConflict=function(){return window.Cookies=o,t}}}(function(){function g(){for(var e=0,n={};e<arguments.length;e++){var o=arguments[e];for(var t in o)n[t]=o[t]}return n}return function e(l){function C(e,n,o){var t;if("undefined"!=typeof document){if(1<arguments.length){if("number"==typeof(o=g({path:"/"},C.defaults,o)).expires){var r=new Date;r.setMilliseconds(r.getMilliseconds()+864e5*o.expires),o.expires=r}o.expires=o.expires?o.expires.toUTCString():"";try{t=JSON.stringify(n),/^[\{\[]/.test(t)&&(n=t)}catch(e){}n=l.write?l.write(n,e):encodeURIComponent(String(n)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),e=(e=(e=encodeURIComponent(String(e))).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent)).replace(/[\(\)]/g,escape);var i="";for(var c in o)o[c]&&(i+="; "+c,!0!==o[c]&&(i+="="+o[c]));return document.cookie=e+"="+n+i}e||(t={});for(var a=document.cookie?document.cookie.split("; "):[],s=/(%[0-9A-Z]{2})+/g,f=0;f<a.length;f++){var p=a[f].split("="),d=p.slice(1).join("=");this.json||'"'!==d.charAt(0)||(d=d.slice(1,-1));try{var u=p[0].replace(s,decodeURIComponent);if(d=l.read?l.read(d,u):l(d,u)||d.replace(s,decodeURIComponent),this.json)try{d=JSON.parse(d)}catch(e){}if(e===u){t=d;break}e||(t[u]=d)}catch(e){}}return t}}return(C.set=C).get=function(e){return C.call(C,e)},C.getJSON=function(){return C.apply({json:!0},[].slice.call(arguments))},C.defaults={},C.remove=function(e,n){C(e,"",g(n,{expires:-1}))},C.withConverter=e,C}(function(){})});
     //custom datalayer
@@ -19,7 +18,7 @@
     if (Cookies.get('is_logged_in'))
     {
         var userID=Cookies.get('ConstID');
-        dataLayerObj = {'event':'loginStatus','userId':userID,'userRecognized':'logged in'};
+        dataLayerObj = {'event':'pageLoad','userId':userID,'userRecognized':'logged in','contentCategory':''};
         // if amnh_GAObj exists, copy amnh_GAObj properties to dataLayerObj
         if ( amnh_GAObj )
         {
@@ -32,7 +31,7 @@
     }
     else
     {
-        dataLayerObj = {'event':'loginStatus','userId':'unknown','userRecognized':'anonymous'};
+        dataLayerObj = {'event':'pageLoad','userId':'unknown','userRecognized':'anonymous','contentCategory':''};
         // if amnh_GAObj exists, copy amnh_GAObj properties to dataLayerObj
         if ( amnh_GAObj )
         {
@@ -47,18 +46,23 @@
     if (Cookies.get('is_new_login')){var userID=Cookies.get('ConstID');window.dataLayer.push({'event':'login','event':'interactionEvent','userId':userID,'userRecognized':'logged in','eventCategory':'personalization','eventAction':'login'});Cookies.remove('is_new_login',{path:'/'})}if (Cookies.get('is_new_registration')){var userID=Cookies.get('ConstID');window.dataLayer.push({'event':'login','event':'interactionEvent','userId':userID,'userRecognized':'logged in','eventCategory':'personalization','eventAction':'create profile'});Cookies.remove('is_new_registration',{path:'/'})}
     //gtm
     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer',"GTM-NXGG9T");
+    (function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',4000,
+        {'GTM-N4FG2F9':true});
 </script>
 
 <meta charset="UTF-8">
 <title>Privacy Policy | American Museum of Natural History</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta name="description" content="Online Privacy Policy    The American Museum of Natural History, located at 200 Central Park West, New York, New York 10024 (also herein referred to as “the Museum”) is committed to protect...">
+<meta name="description" content="Read the online privacy policy of the American Museum of Natural History.">
 
 <meta property="og:title" content="Privacy Policy | American Museum of Natural History">
 <meta property="og:image" content="https://www.amnh.org/extension/amnh/design/amnh_redesign/images/global/default_social_image.jpg">
 <meta property="og:site_name" content="American Museum of Natural History">    <meta property="og:type" content="Article"><meta property="og:url" content="https://www.amnh.org/privacy-policy">
-<meta property="og:description" content="Online Privacy Policy    The American Museum of Natural History, located at 200 Central Park West, New York, New York 10024 (also herein referred to as “the Museum”) is committed to protect...">
+<meta property="og:description" content="Read the online privacy policy of the American Museum of Natural History.">
 <meta property="fb:admins" content="100000082488363"><meta property="fb:app_id" content="1409773259334320">
 
 
@@ -66,7 +70,7 @@
 
 
 <meta name="twitter:title" content="Privacy Policy | American Museum of Natural History">
-<meta name="twitter:description" content="Online Privacy Policy    The American Museum of Natural History, located at 200 Central Park West, New York, New York 10024 (also herein referred to as “the Museum”) is committed to protect...">
+<meta name="twitter:description" content="Read the online privacy policy of the American Museum of Natural History.">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://www.amnh.org/extension/amnh/design/amnh_redesign/images/global/default_social_image.jpg">
 
@@ -84,7 +88,7 @@
 <link rel="preload" href="/extension/amnh/design/amnh_redesign/fonts/sofiapro/sofiapro-light-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="/extension/amnh/design/amnh_redesign/fonts/sofiapro/sofiapro-semibold-webfont.woff2" as="font" type="font/woff2" crossorigin="anonymous">
 <link rel="preload" href="/extension/amnh/design/amnh_redesign/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
-<!-- Project CSS --><link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/488794743153594d558c30db374f6f69_1555609982_all.css">
+<!-- Project CSS --><link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/488794743153594d558c30db374f6f69_1571335650_all.css">
 
 
 <script>
@@ -140,42 +144,46 @@
 
                     
 <!-- Header section start -->
-<header class="amnh-header w-100" style="">
-    <div class="container amnh-header__wrapper d-flex align-items-center align-items-m-end justify-content-between flex-row flex-wrap" style="">
+<header class="amnh-header w-100">
+    <div class="container amnh-header__wrapper d-flex align-items-center align-items-m-end justify-content-between flex-row flex-wrap">
         <div class="amnh-header-logo position-relative">
             
                         <a href="/" aria-label="Navigate to Homepage" class="amnh-header-logo__logo d-flex align-items-center justify-content-between flex-row">
                             <span class="logo-icon"></span>
-                <span class="logo-text" style="visibility: inherit; opacity: 1; transform: matrix(1, 0, 0, 1, 0, 0);"></span>
+                <span class="logo-text"></span>
             </a>
                     </div>
         <div class="amnh-header-content">
             <div class="amnh-header-info d-flex align-items-center justify-content-end flex-row flex-wrap">
                 <span class="amnh-header-info__visit d-none d-m-block">
-                                                                                                                        Open today from 10 am - 5:45 pm.
+                                                                                                                                                                                    Open today from 10 am - 5:45 pm.
                                             
                 </span>
-                <a href="/join-support/membership" class="amnh-header-info__cta amnh-button amnh-button--small amnh-button--primary amnh-button--no-shrink" title="Become a Member">
-                    <span class="title" style="opacity: 0.8556; transform: translate3d(-1.444px, 0px, 0px);">
+                <a href="/join-support/membership" class="amnh-header-info__cta amnh-button amnh-button--pre-anim-hidden amnh-button--small amnh-button--primary amnh-button--no-shrink" title="Become a Member">
+                    <span class="title">
                         Become a Member
                     </span>
-                    <span class="icon" style="opacity: 0.2256; visibility: inherit; transform: translate3d(-7.744px, 0px, 0px);">»</span>
-                    <span class="background" style="height: auto; width: auto;"></span>
+                    <span class="icon">»</span>
+                    <span class="background"></span>
                 </a>
                 
-                <a href="https://ticketing.amnh.org/#/tickets" class="amnh-header-info__cta amnh-button amnh-button--small amnh-button--primary amnh-button--no-shrink" title="Buy Tickets">
-                    <span class="title" style="opacity: 0.8556; transform: translate3d(-1.444px, 0px, 0px);">
+                <a href="https://ticketing.amnh.org/#/tickets" class="amnh-header-info__cta amnh-button amnh-button--pre-anim-hidden amnh-button--small amnh-button--primary amnh-button--no-shrink" title="Buy Tickets">
+                    <span class="title">
                         Buy Tickets
                     </span>
-                    <span class="icon" style="opacity: 0.2256; visibility: inherit; transform: translate3d(-7.744px, 0px, 0px);">»</span>
-                    <span class="background" style="height: auto; width: auto;"></span>
+                    <span class="icon">»</span>
+                    <span class="background"></span>
                 </a>
                 <div tabindex="0" class="amnh-header-info__account p-0h position-relative d-none d-m-block amnh-tooltip-link" aria-haspopup="true" aria-expanded="false" aria-label="Open Account Links">
                     <span class="amnh-icon icon-account">
                         <span class="image"></span>
                     </span>
-                    <span class="amnh-tooltip pt-1h amnh-tooltip--down amnh-tooltip--light amnh-tooltip--right d-block position-absolute" style="transform: matrix(1, 0, 0, 1, 0, 10);">
-                            
+                    <span class="amnh-tooltip pt-1h amnh-tooltip--down amnh-tooltip--light amnh-tooltip--right d-block position-absolute">
+                            <span class="amnh-tooltip__wrapper d-inline-block align-items-center justify-content-between flex-row flex-wrap is-logged-in">
+                                <a href="/apiuser/profile">My Profile</a>
+                                <span class="separator"></span>
+                                <a href="/apiuser/logout">Log out</a>
+                            </span>
                             <span class="amnh-tooltip__wrapper d-inline-block align-items-center justify-content-between flex-row flex-wrap is-not-logged-in">
                                 <a href="/apiuser/login">Log In</a>
                                 <span class="separator"></span>
@@ -235,6 +243,14 @@
                                                                         
                                                                         <ul class="submenu-item__list">
                                                                                                                                             
+                                                                    <li><a href="/plan-your-visit">Overview</a></li>
+                                                                                                                            
+                                                                
+                                                                                                                                                                                                    
+                                                                
+                                                                
+                                                                    
+                                                                    
                                                                     <li><a href="/plan-your-visit/accessibility">Accessibility</a></li>
                                                                                                                             
                                                                 
@@ -347,7 +363,7 @@
                                             
                                             
                                                 
-                            <span class="image-wrapper lazyloading" data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/plan-your-visit/plan-your-visit/3917385-5-eng-US/plan-your-visit_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/plan-your-visit/plan-your-visit/3917385-5-eng-US/plan-your-visit_square_325.jpg 325w"><picture style="display: none;"><source data-srcset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/plan-your-visit/plan-your-visit/3917385-5-eng-US/plan-your-visit_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/plan-your-visit/plan-your-visit/3917385-5-eng-US/plan-your-visit_square_325.jpg 325w" sizes="349px" srcset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/plan-your-visit/plan-your-visit/3917385-5-eng-US/plan-your-visit_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/plan-your-visit/plan-your-visit/3917385-5-eng-US/plan-your-visit_square_325.jpg 325w"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" sizes="349px"></picture></span>                                                                                            <span class="border-overlay-container"><span class="border-overlay" style="background-color: rgba(0, 0, 0, 0); transform: translate3d(0px, 0px, 0px) scale(1.04, 1.04);"></span></span></span>
+                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/plan-your-visit/plan-your-visit/3917385-5-eng-US/plan-your-visit_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/plan-your-visit/plan-your-visit/3917385-5-eng-US/plan-your-visit_square_325.jpg 325w" data-sizes="auto"></span>                                                                                            </span>
 
                                                                                                                                     <span class="submenu-featured-item__date d-block">Directions, ticket info, and visitor tips.</span>
                                                                 
@@ -408,7 +424,7 @@
                                                                         
                                                                         <ul class="submenu-item__list">
                                                                                                                                             
-                                                                    <li><a href="/exhibitions/the-butterfly-conservatory">The Butterfly Conservatory</a></li>
+                                                                    <li><a href="/exhibitions/addressing-the-theodore-roosevelt-statue">Addressing the Statue</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -416,7 +432,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/exhibitions/inside-you">Inside You</a></li>
+                                                                    <li><a href="/exhibitions/butterflies">The Butterfly Conservatory</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -425,14 +441,6 @@
                                                                     
                                                                     
                                                                     <li><a href="/exhibitions/t-rex-the-ultimate-predator">T. rex: The Ultimate Predator</a></li>
-                                                                                                                            
-                                                                
-                                                                                                                                                                                                    
-                                                                
-                                                                
-                                                                    
-                                                                    
-                                                                    <li><a href="/exhibitions/unseen-oceans">Unseen Oceans</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -459,7 +467,7 @@
                                                                         
                                                                         <ul class="submenu-item__list">
                                                                                                                                             
-                                                                    <li><a href="/exhibitions/3d-and-2d-films/backyard-wilderness">Backyard Wilderness</a></li>
+                                                                    <li><a href="/exhibitions/3d-and-2d-films/oceans-our-blue-planet">Oceans: Our Blue Planet</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -473,7 +481,7 @@
                                                                                                                                             
                                                                     
                                                                     <span class="submenu-item__title d-block">
-                                                                        <a href="/exhibitions/space-show">Space Show</a>
+                                                                        <a href="/exhibitions/permanent/hayden-planetarium">Hayden Planetarium Space Show</a>
                                                                     </span>
 
                                                                                                                             
@@ -486,7 +494,7 @@
                                                                         
                                                                         <ul class="submenu-item__list">
                                                                                                                                             
-                                                                    <li><a href="/exhibitions/space-show/dark-universe">Dark Universe</a></li>
+                                                                    <li><a href="/exhibitions/permanent/hayden-planetarium/dark-universe">Dark Universe</a></li>
                                                                                                                                                                                     
                                                         
                                                         
@@ -512,7 +520,7 @@
                                                                     
                                                                     
                                                                     <span class="submenu-item__title d-block">
-                                                                        <a href="/plan-your-visit/self-guided-tours/highlights-tour">Museum Highlights</a>
+                                                                        <a href="/plan-your-visit/self-guided-tours/highlights">Museum Highlights</a>
                                                                     </span>
 
                                                                                                                             
@@ -525,6 +533,14 @@
                                                                         
                                                                         <ul class="submenu-item__list">
                                                                                                                                             
+                                                                    <li><a href="/exhibitions/origami-holiday-tree">Origami Holiday Tree</a></li>
+                                                                                                                            
+                                                                
+                                                                                                                                                                                                    
+                                                                
+                                                                
+                                                                    
+                                                                    
                                                                     <li><a href="/exhibitions/permanent/north-american-mammals/alaska-brown-bear">Alaska Brown Bear</a></li>
                                                                                                                             
                                                                 
@@ -620,7 +636,7 @@
                                                     
                                                                                                                                                                             
                                                         <div class="submenu-item px-1h">
-                                                            <a href="/exhibitions/unseen-oceans" class="submenu-featured-item d-block">
+                                                            <a href="/exhibitions/t-rex-the-ultimate-predator" class="submenu-featured-item d-block">
                                                                 <span class="submenu-featured-item__image position-relative d-inline-block mb-1h">
                                                                     
 
@@ -645,11 +661,11 @@
                                             
                                             
                                                 
-                            <span class="image-wrapper lazyloading" data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/exhibitions/unseen-oceans/3482989-2-eng-US/unseen-oceans_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/exhibitions/unseen-oceans/3482989-2-eng-US/unseen-oceans_square_325.jpg 325w"><picture style="display: none;"><source data-srcset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/exhibitions/unseen-oceans/3482989-2-eng-US/unseen-oceans_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/exhibitions/unseen-oceans/3482989-2-eng-US/unseen-oceans_square_325.jpg 325w" sizes="169px" srcset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/exhibitions/unseen-oceans/3482989-2-eng-US/unseen-oceans_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/exhibitions/unseen-oceans/3482989-2-eng-US/unseen-oceans_square_325.jpg 325w"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" sizes="169px"></picture></span>                                                                                            <span class="border-overlay-container"><span class="border-overlay" style="background-color: rgba(0, 0, 0, 0); transform: translate3d(0px, 0px, 0px) scale(1.04, 1.04);"></span></span></span>
+                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/exhibitions/t.-rex-the-ultimate-predator/3482989-6-eng-US/t.-rex-the-ultimate-predator_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/exhibitions/t.-rex-the-ultimate-predator/3482989-6-eng-US/t.-rex-the-ultimate-predator_square_325.jpg 325w" data-sizes="auto"></span>                                                                                            </span>
 
                                                                                                                                     <span class="submenu-featured-item__date d-block">Now open</span>
                                                                 
-                                                                <span class="submenu-featured-item__title d-block mt-0h">Unseen Oceans</span>
+                                                                <span class="submenu-featured-item__title d-block mt-0h">T. rex: The Ultimate Predator</span>
                                                             </a>
                                                         </div>
 
@@ -801,7 +817,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/learn-teach/educators/urban-advantage">Urban Advantage</a></li>
+                                                                    <li><a href="/learn-teach/urban-advantage">Urban Advantage</a></li>
                                                                                                                                                                                     
                                                         
                                                         
@@ -840,7 +856,7 @@
                                             
                                             
                                                 
-                            <span class="image-wrapper lazyloading" data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/learn-teach/children-families/3553954-8-eng-US/children-families_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/learn-teach/children-families/3553954-8-eng-US/children-families_square_325.jpg 325w"><picture style="display: none;"><source data-srcset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/learn-teach/children-families/3553954-8-eng-US/children-families_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/learn-teach/children-families/3553954-8-eng-US/children-families_square_325.jpg 325w" sizes="132px" srcset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/learn-teach/children-families/3553954-8-eng-US/children-families_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/learn-teach/children-families/3553954-8-eng-US/children-families_square_325.jpg 325w"><img alt="" class="lazyautosizes lazyloaded" data-sizes="auto" sizes="132px"></picture></span>                                                                                            <span class="border-overlay-container"><span class="border-overlay" style="background-color: rgba(0, 0, 0, 0); transform: translate3d(0px, 0px, 0px) scale(1.04, 1.04);"></span></span></span>
+                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/learn-teach/children-families/3553954-8-eng-US/children-families_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/learn-teach/children-families/3553954-8-eng-US/children-families_square_325.jpg 325w" data-sizes="auto"></span>                                                                                            </span>
 
                                                                 
                                                                 <span class="submenu-featured-item__title d-block mt-0h">Children &amp; Families</span>
@@ -928,7 +944,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/explore/origami-at-the-museum">Origami at the Museum</a></li>
+                                                                    <li><a href="/explore/origami">Origami at the Museum</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -983,7 +999,7 @@
                                             
                                             
                                                 
-                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/explore/shelf-life/3555251-5-eng-US/shelf-life_square_650.png 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/explore/shelf-life/3555251-5-eng-US/shelf-life_square_325.png 325w" data-sizes="auto"></span>                                                                                            <span class="border-overlay-container"><span class="border-overlay" style="background-color: rgba(0, 0, 0, 0); transform: translate3d(0px, 0px, 0px) scale(1.04, 1.04);"></span></span></span>
+                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/explore/shelf-life/3555251-5-eng-US/shelf-life_square_650.png 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/explore/shelf-life/3555251-5-eng-US/shelf-life_square_325.png 325w" data-sizes="auto"></span>                                                                                            </span>
 
                                                                                                                                     <span class="submenu-featured-item__date d-block">Our award-winning video series</span>
                                                                 
@@ -1021,7 +1037,7 @@
                                             
                                             
                                                 
-                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/explore/climate-change/3555256-2-eng-US/climate-change_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/explore/climate-change/3555256-2-eng-US/climate-change_square_325.jpg 325w" data-sizes="auto"></span>                                                                                            <span class="border-overlay-container"><span class="border-overlay" style="background-color: rgba(0, 0, 0, 0); transform: translate3d(0px, 0px, 0px) scale(1.04, 1.04);"></span></span></span>
+                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/explore/climate-change/3555256-2-eng-US/climate-change_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/explore/climate-change/3555256-2-eng-US/climate-change_square_325.jpg 325w" data-sizes="auto"></span>                                                                                            </span>
 
                                                                                                                                     <span class="submenu-featured-item__date d-block">Science Topics</span>
                                                                 
@@ -1043,7 +1059,7 @@
                             
                                 
                                 <div class="nav-item nav-item--has-submenu">
-                                    <a href="/our-research" class="nav-item__link d-inline-block px-0h">
+                                    <a href="/research" class="nav-item__link d-inline-block px-0h">
                                         <span class="nav-item__title d-block">Our Research</span>
                                     </a>
                                     <div class="nav-item__submenu position-absolute bg-white">
@@ -1069,7 +1085,7 @@
                                                                     
                                                                     
                                                                     <span class="submenu-item__title d-block">
-                                                                        <a href="/our-research/anthropology">Anthropology</a>
+                                                                        <a href="/research/anthropology">Anthropology</a>
                                                                     </span>
 
                                                                                                                             
@@ -1081,7 +1097,7 @@
                                                                     
                                                                     
                                                                     <span class="submenu-item__title d-block">
-                                                                        <a href="/our-research/invertebrate-zoology">Invertebrate Zoology</a>
+                                                                        <a href="/research/invertebrate-zoology">Invertebrate Zoology</a>
                                                                     </span>
 
                                                                                                                             
@@ -1093,7 +1109,7 @@
                                                                     
                                                                     
                                                                     <span class="submenu-item__title d-block">
-                                                                        <a href="/our-research/paleontology">Paleontology</a>
+                                                                        <a href="/research/paleontology">Paleontology</a>
                                                                     </span>
 
                                                                                                                             
@@ -1105,7 +1121,7 @@
                                                                     
                                                                     
                                                                     <span class="submenu-item__title d-block">
-                                                                        <a href="/our-research/physical-sciences">Physical Sciences</a>
+                                                                        <a href="/research/physical-sciences">Physical Sciences</a>
                                                                     </span>
 
                                                                                                                             
@@ -1118,7 +1134,7 @@
                                                                         
                                                                         <ul class="submenu-item__list">
                                                                                                                                             
-                                                                    <li><a href="/our-research/physical-sciences/astrophysics">Astrophysics</a></li>
+                                                                    <li><a href="/research/physical-sciences/astrophysics">Astrophysics</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1126,7 +1142,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/physical-sciences/earth-and-planetary-sciences">Earth and Planetary Sciences</a></li>
+                                                                    <li><a href="/research/physical-sciences/earth-and-planetary-sciences">Earth and Planetary Sciences</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1140,7 +1156,7 @@
                                                                                                                                             
                                                                     
                                                                     <span class="submenu-item__title d-block">
-                                                                        <a href="/our-research/vertebrate-zoology">Vertebrate Zoology</a>
+                                                                        <a href="/research/vertebrate-zoology">Vertebrate Zoology</a>
                                                                     </span>
 
                                                                                                                             
@@ -1153,7 +1169,7 @@
                                                                         
                                                                         <ul class="submenu-item__list">
                                                                                                                                             
-                                                                    <li><a href="/our-research/vertebrate-zoology/herpetology">Herpetology</a></li>
+                                                                    <li><a href="/research/vertebrate-zoology/herpetology">Herpetology</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1161,7 +1177,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/vertebrate-zoology/ichthyology">Ichthyology</a></li>
+                                                                    <li><a href="/research/vertebrate-zoology/ichthyology">Ichthyology</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1169,7 +1185,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/vertebrate-zoology/mammalogy">Mammalogy</a></li>
+                                                                    <li><a href="/research/vertebrate-zoology/mammalogy">Mammalogy</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1177,7 +1193,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/vertebrate-zoology/ornithology">Ornithology</a></li>
+                                                                    <li><a href="/research/vertebrate-zoology/ornithology">Ornithology</a></li>
                                                                                                                                                                                     
                                                         
                                                         
@@ -1204,7 +1220,7 @@
                                                                         
                                                                         <ul class="submenu-item__list">
                                                                                                                                             
-                                                                    <li><a href="/our-research/richard-gilder-graduate-school">Richard Gilder Graduate School</a></li>
+                                                                    <li><a href="/research/richard-gilder-graduate-school">Richard Gilder Graduate School</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1212,7 +1228,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/hayden-planetarium">Hayden Planetarium</a></li>
+                                                                    <li><a href="/research/hayden-planetarium">Hayden Planetarium</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1220,7 +1236,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/center-for-biodiversity-conservation">Center for Biodiversity and Conservation</a></li>
+                                                                    <li><a href="/research/center-for-biodiversity-conservation">Center for Biodiversity and Conservation</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1228,7 +1244,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/sackler-institute-for-comparative-genomics">Sackler Institute for Comparative Genomics</a></li>
+                                                                    <li><a href="/research/sicg">Sackler Institute for Comparative Genomics</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1236,7 +1252,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/southwestern-research-station">Southwestern Research Station</a></li>
+                                                                    <li><a href="/research/southwestern-research-station">Southwestern Research Station</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1244,7 +1260,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/research-library">Research Library</a></li>
+                                                                    <li><a href="/research/research-library">Research Library</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1252,7 +1268,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/darwin-manuscripts-project">Darwin Manuscripts Project</a></li>
+                                                                    <li><a href="/research/darwin-manuscripts">Darwin Manuscripts Project</a></li>
                                                                                                                                                                                     
                                                         
                                                         
@@ -1279,7 +1295,7 @@
                                                                         
                                                                         <ul class="submenu-item__list">
                                                                                                                                             
-                                                                    <li><a href="/our-research/microscopy-and-imaging-facility">Microscopy and Imaging Facility</a></li>
+                                                                    <li><a href="/research/microscopy-and-imaging-facility">Microscopy and Imaging Facility</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1287,7 +1303,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/natural-science-collections-conservation">Natural Science Collections Conservation</a></li>
+                                                                    <li><a href="/research/natural-science-collections-conservation">Natural Science Collections Conservation</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1295,7 +1311,7 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/computational-sciences">Computational Sciences</a></li>
+                                                                    <li><a href="/research/computational-sciences">Computational Sciences</a></li>
                                                                                                                             
                                                                 
                                                                                                                                                                                                     
@@ -1303,15 +1319,15 @@
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/staff-directory">Staff Directory</a></li>
+                                                                    <li><a href="/research/staff-directory">Staff Directory</a></li>
                                                                                                                             
                                                                 
-                                                                
+                                                                                                                                                                                                    
                                                                 
                                                                 
                                                                     
                                                                     
-                                                                    <li><a href="/our-research/staff-directory">Scientific Publications</a></li>
+                                                                    <li><a href="/research/scientific-publications">Scientific Publications</a></li>
                                                                                                                                                                                     
                                                         
                                                         
@@ -1461,7 +1477,7 @@
                                             
                                             
                                                 
-                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/join-support/become-a-member/3906066-6-eng-US/become-a-member_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/join-support/become-a-member/3906066-6-eng-US/become-a-member_square_325.jpg 325w" data-sizes="auto"></span>                                                                                            <span class="border-overlay-container"><span class="border-overlay" style="background-color: rgba(0, 0, 0, 0); transform: translate3d(0px, 0px, 0px) scale(1.04, 1.04);"></span></span></span>
+                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/join-support/become-a-member/3906066-6-eng-US/become-a-member_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/join-support/become-a-member/3906066-6-eng-US/become-a-member_square_325.jpg 325w" data-sizes="auto"></span>                                                                                            </span>
 
                                                                                                                                     <span class="submenu-featured-item__date d-block">Get the most out of the Museum</span>
                                                                 
@@ -1500,7 +1516,7 @@
                                             
                                             
                                                 
-                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/join-support/donate/3906071-3-eng-US/donate_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/join-support/donate/3906071-3-eng-US/donate_square_325.jpg 325w" data-sizes="auto"></span>                                                                                            <span class="border-overlay-container"><span class="border-overlay" style="background-color: rgba(0, 0, 0, 0); transform: translate3d(0px, 0px, 0px) scale(1.04, 1.04);"></span></span></span>
+                            <span class="image-wrapper lazyload " data-bgset="/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/join-support/donate/3906071-3-eng-US/donate_square_650.jpg 650w,/var/ezflow_site/storage/images/amnh2/site-settings/redesign-main-menu/join-support/donate/3906071-3-eng-US/donate_square_325.jpg 325w" data-sizes="auto"></span>                                                                                            </span>
 
                                                                                                                                     <span class="submenu-featured-item__date d-block">Help us explore, innovate, &amp; empower</span>
                                                                 
@@ -1544,9 +1560,9 @@
                 <span class="line"></span>
             </span>
         </button>
-        <div class="amnh-header-hours w-100 align-items-center justify-content-between flex-row flex-wrap" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, -30);">
+        <div class="amnh-header-hours w-100 align-items-center justify-content-between flex-row flex-wrap">
             <span class="amnh-header-hours__content">
-                                                                                                Open today from 10 am - 5:45 pm.
+                                                                                                                                                            Open today from 10 am - 5:45 pm.
                                             
             </span>
         </div>
@@ -1557,7 +1573,7 @@
     <!-- Mobile Navigation Menu (right side) start -->
     <div class="amnh-mobile-nav position-fixed">
         <div class="amnh-mobile-nav__wrapper position-relative w-100 h-100">
-            <div class="amnh-mobile-nav__content" style="height: 1564px;">
+            <div class="amnh-mobile-nav__content">
                 <ul class="amnh-mobile-nav__menu">
 
                     
@@ -1575,7 +1591,7 @@
                                 
                                 <li class="mobile-nav-item mobile-nav-item--has-submenu d-block">
                                     <a href="/plan-your-visit" class="mobile-nav-item__link d-block py-0h" aria-label="Show Plan Your Visit Submenu">Plan Your Visit</a>
-                                    <span class="mobile-nav-item__submenu" style="background: none; transform: translate(100%, 0%) matrix(1, 0, 0, 1, 0, 0); height: 1564px;">
+                                    <span class="mobile-nav-item__submenu">
                                         <span class="mobile-submenu-close d-inline-block px-3 py-2">
                                             <button aria-label="Close Plan Your Visit Submenu" class="amnh-icon icon-carat-left">
                                                 <span class="image"></span>
@@ -1603,6 +1619,14 @@
                                                                             
                                                                             <ul class="mobile-submenu__list">
                                                                                                                                                     
+                                                                        
+                                                                        <li><a href="/plan-your-visit">Overview</a></li>
+                                                                                                                                                                                                        
+                                                                                                                                                                                                                
+                                                                    
+                                                                    
+                                                                        
+                                                                        
                                                                         
                                                                         <li><a href="/plan-your-visit/accessibility">Accessibility</a></li>
                                                                                                                                                                                                         
@@ -1701,7 +1725,7 @@
                                 
                                 <li class="mobile-nav-item mobile-nav-item--has-submenu d-block">
                                     <a href="/exhibitions" class="mobile-nav-item__link d-block py-0h" aria-label="Show Exhibitions Submenu">Exhibitions</a>
-                                    <span class="mobile-nav-item__submenu" style="background: none; transform: translate(100%, 0%) matrix(1, 0, 0, 1, 0, 0); height: 1564px;">
+                                    <span class="mobile-nav-item__submenu">
                                         <span class="mobile-submenu-close d-inline-block px-3 py-2">
                                             <button aria-label="Close Exhibitions Submenu" class="amnh-icon icon-carat-left">
                                                 <span class="image"></span>
@@ -1739,7 +1763,7 @@
                                                                             <ul class="mobile-submenu__list">
                                                                                                                                                     
                                                                         
-                                                                        <li><a href="/exhibitions/the-butterfly-conservatory">The Butterfly Conservatory</a></li>
+                                                                        <li><a href="/exhibitions/addressing-the-theodore-roosevelt-statue">Addressing the Statue</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -1747,7 +1771,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/exhibitions/inside-you">Inside You</a></li>
+                                                                        <li><a href="/exhibitions/butterflies">The Butterfly Conservatory</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -1756,14 +1780,6 @@
                                                                         
                                                                         
                                                                         <li><a href="/exhibitions/t-rex-the-ultimate-predator">T. rex: The Ultimate Predator</a></li>
-                                                                                                                                                                                                        
-                                                                                                                                                                                                                
-                                                                    
-                                                                    
-                                                                        
-                                                                        
-                                                                        
-                                                                        <li><a href="/exhibitions/unseen-oceans">Unseen Oceans</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -1786,7 +1802,7 @@
                                                                             <ul class="mobile-submenu__list">
                                                                                                                                                     
                                                                         
-                                                                        <li><a href="/exhibitions/3d-and-2d-films/backyard-wilderness">Backyard Wilderness</a></li>
+                                                                        <li><a href="/exhibitions/3d-and-2d-films/oceans-our-blue-planet">Oceans: Our Blue Planet</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -1797,7 +1813,7 @@
                                                                             </ul>
                                                                                                                                                     
                                                                         
-                                                                        <a href="/exhibitions/space-show" class="mobile-submenu__title d-block mb-1">Space Show</a>
+                                                                        <a href="/exhibitions/permanent/hayden-planetarium" class="mobile-submenu__title d-block mb-1">Hayden Planetarium Space Show</a>
 
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
@@ -1809,7 +1825,7 @@
                                                                             <ul class="mobile-submenu__list">
                                                                                                                                                     
                                                                         
-                                                                        <li><a href="/exhibitions/space-show/dark-universe">Dark Universe</a></li>
+                                                                        <li><a href="/exhibitions/permanent/hayden-planetarium/dark-universe">Dark Universe</a></li>
                                                                                                                                                                                                 
                                                             
                                                             
@@ -1833,7 +1849,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <a href="/plan-your-visit/self-guided-tours/highlights-tour" class="mobile-submenu__title d-block mb-1">Museum Highlights</a>
+                                                                        <a href="/plan-your-visit/self-guided-tours/highlights" class="mobile-submenu__title d-block mb-1">Museum Highlights</a>
 
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
@@ -1844,6 +1860,14 @@
                                                                             
                                                                             <ul class="mobile-submenu__list">
                                                                                                                                                     
+                                                                        
+                                                                        <li><a href="/exhibitions/origami-holiday-tree">Origami Holiday Tree</a></li>
+                                                                                                                                                                                                        
+                                                                                                                                                                                                                
+                                                                    
+                                                                    
+                                                                        
+                                                                        
                                                                         
                                                                         <li><a href="/exhibitions/permanent/north-american-mammals/alaska-brown-bear">Alaska Brown Bear</a></li>
                                                                                                                                                                                                         
@@ -1943,7 +1967,7 @@
                                 
                                 <li class="mobile-nav-item mobile-nav-item--has-submenu d-block">
                                     <a href="/learn-teach" class="mobile-nav-item__link d-block py-0h" aria-label="Show Learn &amp; Teach Submenu">Learn &amp; Teach</a>
-                                    <span class="mobile-nav-item__submenu" style="background: none; transform: translate(100%, 0%) matrix(1, 0, 0, 1, 0, 0); height: 1564px;">
+                                    <span class="mobile-nav-item__submenu">
                                         <span class="mobile-submenu-close d-inline-block px-3 py-2">
                                             <button aria-label="Close Learn &amp; Teach Submenu" class="amnh-icon icon-carat-left">
                                                 <span class="image"></span>
@@ -2079,7 +2103,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/learn-teach/educators/urban-advantage">Urban Advantage</a></li>
+                                                                        <li><a href="/learn-teach/urban-advantage">Urban Advantage</a></li>
                                                                                                                                                                                                 
                                                             
                                                             
@@ -2103,7 +2127,7 @@
                                 
                                 <li class="mobile-nav-item mobile-nav-item--has-submenu d-block">
                                     <a href="/explore" class="mobile-nav-item__link d-block py-0h" aria-label="Show Explore Submenu">Explore</a>
-                                    <span class="mobile-nav-item__submenu" style="background: none; transform: translate(100%, 0%) matrix(1, 0, 0, 1, 0, 0); height: 1564px;">
+                                    <span class="mobile-nav-item__submenu">
                                         <span class="mobile-submenu-close d-inline-block px-3 py-2">
                                             <button aria-label="Close Explore Submenu" class="amnh-icon icon-carat-left">
                                                 <span class="image"></span>
@@ -2172,7 +2196,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/explore/origami-at-the-museum">Origami at the Museum</a></li>
+                                                                        <li><a href="/explore/origami">Origami at the Museum</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2213,14 +2237,14 @@
                             
                                 
                                 <li class="mobile-nav-item mobile-nav-item--has-submenu d-block">
-                                    <a href="/our-research" class="mobile-nav-item__link d-block py-0h" aria-label="Show Our Research Submenu">Our Research</a>
-                                    <span class="mobile-nav-item__submenu" style="background: none; transform: translate(100%, 0%) matrix(1, 0, 0, 1, 0, 0); height: 1564px;">
+                                    <a href="/research" class="mobile-nav-item__link d-block py-0h" aria-label="Show Our Research Submenu">Our Research</a>
+                                    <span class="mobile-nav-item__submenu">
                                         <span class="mobile-submenu-close d-inline-block px-3 py-2">
                                             <button aria-label="Close Our Research Submenu" class="amnh-icon icon-carat-left">
                                                 <span class="image"></span>
                                             </button>
                                         </span>
-                                        <span class="mobile-submenu-title px-3 d-block"><a href="/our-research">Our Research</a></span>
+                                        <span class="mobile-submenu-title px-3 d-block"><a href="/research">Our Research</a></span>
                                         <span class="mobile-submenu">
 
                                             
@@ -2240,7 +2264,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <a href="/our-research/anthropology" class="mobile-submenu__title d-block mb-1">Anthropology</a>
+                                                                        <a href="/research/anthropology" class="mobile-submenu__title d-block mb-1">Anthropology</a>
 
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
@@ -2249,7 +2273,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <a href="/our-research/invertebrate-zoology" class="mobile-submenu__title d-block mb-1">Invertebrate Zoology</a>
+                                                                        <a href="/research/invertebrate-zoology" class="mobile-submenu__title d-block mb-1">Invertebrate Zoology</a>
 
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
@@ -2258,7 +2282,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <a href="/our-research/paleontology" class="mobile-submenu__title d-block mb-1">Paleontology</a>
+                                                                        <a href="/research/paleontology" class="mobile-submenu__title d-block mb-1">Paleontology</a>
 
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
@@ -2267,7 +2291,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <a href="/our-research/physical-sciences" class="mobile-submenu__title d-block mb-1">Physical Sciences</a>
+                                                                        <a href="/research/physical-sciences" class="mobile-submenu__title d-block mb-1">Physical Sciences</a>
 
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
@@ -2279,7 +2303,7 @@
                                                                             <ul class="mobile-submenu__list">
                                                                                                                                                     
                                                                         
-                                                                        <li><a href="/our-research/physical-sciences/astrophysics">Astrophysics</a></li>
+                                                                        <li><a href="/research/physical-sciences/astrophysics">Astrophysics</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2287,7 +2311,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/physical-sciences/earth-and-planetary-sciences">Earth and Planetary Sciences</a></li>
+                                                                        <li><a href="/research/physical-sciences/earth-and-planetary-sciences">Earth and Planetary Sciences</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2298,7 +2322,7 @@
                                                                             </ul>
                                                                                                                                                     
                                                                         
-                                                                        <a href="/our-research/vertebrate-zoology" class="mobile-submenu__title d-block mb-1">Vertebrate Zoology</a>
+                                                                        <a href="/research/vertebrate-zoology" class="mobile-submenu__title d-block mb-1">Vertebrate Zoology</a>
 
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
@@ -2310,7 +2334,7 @@
                                                                             <ul class="mobile-submenu__list">
                                                                                                                                                     
                                                                         
-                                                                        <li><a href="/our-research/vertebrate-zoology/herpetology">Herpetology</a></li>
+                                                                        <li><a href="/research/vertebrate-zoology/herpetology">Herpetology</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2318,7 +2342,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/vertebrate-zoology/ichthyology">Ichthyology</a></li>
+                                                                        <li><a href="/research/vertebrate-zoology/ichthyology">Ichthyology</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2326,7 +2350,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/vertebrate-zoology/mammalogy">Mammalogy</a></li>
+                                                                        <li><a href="/research/vertebrate-zoology/mammalogy">Mammalogy</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2334,7 +2358,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/vertebrate-zoology/ornithology">Ornithology</a></li>
+                                                                        <li><a href="/research/vertebrate-zoology/ornithology">Ornithology</a></li>
                                                                                                                                                                                                 
                                                             
                                                             
@@ -2361,7 +2385,7 @@
                                                                             <ul class="mobile-submenu__list">
                                                                                                                                                     
                                                                         
-                                                                        <li><a href="/our-research/richard-gilder-graduate-school">Richard Gilder Graduate School</a></li>
+                                                                        <li><a href="/research/richard-gilder-graduate-school">Richard Gilder Graduate School</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2369,7 +2393,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/hayden-planetarium">Hayden Planetarium</a></li>
+                                                                        <li><a href="/research/hayden-planetarium">Hayden Planetarium</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2377,7 +2401,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/center-for-biodiversity-conservation">Center for Biodiversity and Conservation</a></li>
+                                                                        <li><a href="/research/center-for-biodiversity-conservation">Center for Biodiversity and Conservation</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2385,7 +2409,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/sackler-institute-for-comparative-genomics">Sackler Institute for Comparative Genomics</a></li>
+                                                                        <li><a href="/research/sicg">Sackler Institute for Comparative Genomics</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2393,7 +2417,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/southwestern-research-station">Southwestern Research Station</a></li>
+                                                                        <li><a href="/research/southwestern-research-station">Southwestern Research Station</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2401,7 +2425,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/research-library">Research Library</a></li>
+                                                                        <li><a href="/research/research-library">Research Library</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2409,7 +2433,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/darwin-manuscripts-project">Darwin Manuscripts Project</a></li>
+                                                                        <li><a href="/research/darwin-manuscripts">Darwin Manuscripts Project</a></li>
                                                                                                                                                                                                 
                                                             
                                                             
@@ -2436,7 +2460,7 @@
                                                                             <ul class="mobile-submenu__list">
                                                                                                                                                     
                                                                         
-                                                                        <li><a href="/our-research/microscopy-and-imaging-facility">Microscopy and Imaging Facility</a></li>
+                                                                        <li><a href="/research/microscopy-and-imaging-facility">Microscopy and Imaging Facility</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2444,7 +2468,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/natural-science-collections-conservation">Natural Science Collections Conservation</a></li>
+                                                                        <li><a href="/research/natural-science-collections-conservation">Natural Science Collections Conservation</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2452,7 +2476,7 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/computational-sciences">Computational Sciences</a></li>
+                                                                        <li><a href="/research/computational-sciences">Computational Sciences</a></li>
                                                                                                                                                                                                         
                                                                                                                                                                                                                 
                                                                     
@@ -2460,15 +2484,15 @@
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/staff-directory">Staff Directory</a></li>
+                                                                        <li><a href="/research/staff-directory">Staff Directory</a></li>
                                                                                                                                                                                                         
-                                                                    
+                                                                                                                                                                                                                
                                                                     
                                                                     
                                                                         
                                                                         
                                                                         
-                                                                        <li><a href="/our-research/staff-directory">Scientific Publications</a></li>
+                                                                        <li><a href="/research/scientific-publications">Scientific Publications</a></li>
                                                                                                                                                                                                 
                                                             
                                                             
@@ -2501,7 +2525,7 @@
                                 
                                 <li class="mobile-nav-item mobile-nav-item--has-submenu d-block">
                                     <a href="/join-support" class="mobile-nav-item__link d-block py-0h" aria-label="Show Join &amp; Support Submenu">Join &amp; Support</a>
-                                    <span class="mobile-nav-item__submenu" style="background: none; transform: translate(100%, 0%) matrix(1, 0, 0, 1, 0, 0); height: 1564px;">
+                                    <span class="mobile-nav-item__submenu">
                                         <span class="mobile-submenu-close d-inline-block px-3 py-2">
                                             <button aria-label="Close Join &amp; Support Submenu" class="amnh-icon icon-carat-left">
                                                 <span class="image"></span>
@@ -2618,33 +2642,37 @@
                         <a href="/apiuser/register" class="mobile-nav-item__link d-block py-0h">Register</a>
                     </li>
 
-                    
-                    
+                    <li class="mobile-nav-item is-logged-in">
+                        <a href="/apiuser/profile" class="mobile-nav-item__link d-block py-0h">My Profile</a>
+                    </li>
+                    <li class="mobile-nav-item is-logged-in">
+                        <a href="/apiuser/logout" class="mobile-nav-item__link d-block py-0h">Log out</a>
+                    </li>
                 </ul>
                 <div class="amnh-mobile-nav__cta px-3 mt-3">
                     <a href="https://ticketing.amnh.org/#/tickets" class="amnh-button amnh-button--primary d-block w-100">
-                        <span class="title" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 0);">
+                        <span class="title">
                             Buy Tickets
                         </span>
-                        <span class="icon" style="opacity: 1; visibility: hidden; transform: matrix(1, 0, 0, 1, 0, 0);">»</span>
-                        <span class="background" style="height: 0px; width: 3px;"></span>
+                        <span class="icon">»</span>
+                        <span class="background"></span>
                     </a>
                 </div>
                 
                 <div class="amnh-mobile-nav__cta px-3 mt-3 mb-2">
                     <a href="/join-support/membership" class="amnh-button amnh-button--primary d-block w-100">
-                        <span class="title" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 0);">
+                        <span class="title">
                             Become a Member
                         </span>
-                        <span class="icon" style="opacity: 1; visibility: hidden; transform: matrix(1, 0, 0, 1, 0, 0);">»</span>
-                        <span class="background" style="height: 0px; width: 3px;"></span>
+                        <span class="icon">»</span>
+                        <span class="background"></span>
                     </a>
                 </div>
             </div>
         </div>
     </div>
     <!-- Mobile Navigation Menu (right side) end -->                    
-        <!-- cached on 04/18/2019 02:10 pm -->
+        <!-- cached on 11/25/2019 10:09 am -->
     <!-- Left Side Menu (nav tree) start -->
     <div class="amnh-tree-nav position-fixed">
         <div class="amnh-tree-nav__wrapper position-relative w-100 h-100">
@@ -2761,7 +2789,7 @@
         </span>
     </span>
     <span class="title" tabindex="-1" aria-hidden="true">Share</span>
-    <span class="amnh-tooltip amnh-tooltip--down amnh-tooltip--icons d-block position-absolute" aria-label="Share options" style="transform: matrix(1, 0, 0, 1, 0, 10);">
+    <span class="amnh-tooltip amnh-tooltip--down amnh-tooltip--icons d-block position-absolute" aria-label="Share options">
         <span class="amnh-tooltip__wrapper d-inline-block align-items-center justify-content-between flex-row flex-wrap">
             <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.amnh.org%2Fprivacy-policy" data-social-share-network="fb" title="Share this page on Facebook" target="_blank" rel="noreferrer"><span class="fab fa-facebook-f"></span></a>
             <a href="https://twitter.com/intent/tweet?text=Privacy%20Policy&amp;url=https%3A%2F%2Fwww.amnh.org%2Fprivacy-policy" data-social-share-network="tw" title="Share this page on Twitter" target="_blank" rel="noreferrer"><span class="fab fa-twitter"></span></a>
@@ -2836,7 +2864,7 @@
     <p>Please contact us with any questions about this policy at:</p><p>Website</p><p>
 American Museum of Natural History<br>
 200 Central Park West<br>
-New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_self">webmaster@amnh.org</a></p><p>This policy was last updated November 30, 2018.</p>                </div>
+New York, New York 10024-5102<br><a href="mailto:webmaster@amnh.org" target="_self">webmaster@amnh.org</a></p><p>This policy was last updated November 30, 2018.</p>                </div>
             </div>
         </div>
     </div>
@@ -2848,85 +2876,10 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
     
     <div id="user-interests-1543"></div>
 
-        
-        
-        
             
         
-        <script id="recommendations-template-content" type="text/x-handlebars-template">
-            <!-- More from the Museum section start -->
-            <div class="amnh-two-up-ctas row mx-auto vertical-padding-regular">
-                <div class="amnh-two-up-ctas__header container large-padding col-12 px-0 mb-3 mb-xs-4 text-center">
-                    <p class="amnh-two-up-ctas__title d-inline-block h3">
-                        More From the Museum
-                    </p>
-                </div>
-                {{#each this}}
-                    {{#if attr.uri}}
-                        <div class="col-12 col-xs-6 px-0 amnh-two-up-ctas__content">
-                            <a href="{{attr.uri}}" onclick="return eZ.RecommendationRestClient.ping('{{clickRecommended}}')" class="amnh-two-up-cta d-flex d-m-block align-items-stretch justify-content-between flex-row flex-wrap position-relative" title="{{attr.title}}">
-                                <span class="amnh-two-up-cta__image d-block" style="background-image:url(/amnh/ezreco_image/{{itemId}}/wideexact_800)"></span>
-                                <span class="amnh-two-up-cta__content text-center px-3 d-flex align-items-center justify-content-center flex-column flex-wrap">
-                                    <span class="amnh-two-up-cta__title d-block text-center">
-                                        {{attr.title}}
-                                    </span>
-                                </span>
-                                <span class="border-overlay-container">
-                                    <span class="border-overlay"></span>
-                                </span>
-                            </a>
-                        </div>
-                    {{/if}}
-                {{/each}}
-            </div>
-            <!-- More from the Museum section end -->
-        </script>
-        <div id="recommendations-target-content" class="ezreco-content">
-            <!-- Don't display anything while recommendations are being loaded -->
-        </div>
-        <script>
-            function offerRecommendations(ycId) {
-                var mandatorId = '1143';
-                var contentClassId = '52';
-                
-                var outputTypeId = 72;
-                var categoryPath = '/1/2/61/1543/';
-                var contextItem = '1629';
-                                                                                            var scenario = 'article';
-                
-                var recommendationTemplateRenderer = new eZ.RecommendationTemplateRenderer({
-                    templateId: 'content',
-                    feedbackUrl: 'https://event.yoochoose.net/api/'+mandatorId+'/rendered/'+ycId+'/'+contentClassId+'/'
-                    }),
-                    recommendationRestClient = new eZ.RecommendationRestClient({
-                        scenario: scenario,
-                        limit: '2',
-                        endpointUrl: 'https://reco.yoochoose.net/api/'+mandatorId+'/'+ycId+'/',
-                        // this will be removed in 1.0.0-alfa4
-                        feedbackUrl: 'https://event.yoochoose.net/api/'+mandatorId+'/rendered/'+ycId+'/',
-                        language: 'eng-US',
-                        contentType: contentClassId,
-                        outputTypeId: outputTypeId,
-                        categoryPath: categoryPath,
-                        contextItems: contextItem,
-                        fields: ['uri', 'title', 'image'],
-                        errorMessageCaption: '',
-                        notSupportedMessageCaption: 'Cannot display recommendations, this browser is not supported'
-                    });
-
-                recommendationTemplateRenderer.displayMessage('');
-                // Pass in an empty function as the second parameter so we simply don't do anything on error
-                recommendationRestClient.fetchRecommendations(
-                        recommendationTemplateRenderer.displayRecommendations.bind(recommendationTemplateRenderer),
-                        function() { }
-                        );
-
-            };
-        </script>
-        
-            
-
-
+        <div id="more-from-the-museum"></div>
+    
 </div>
 <script>
 
@@ -2934,6 +2887,7 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
     CMSSpace.ready( function ()
     {
         var loggedIn = document.cookie.indexOf('is_logged_in') !== -1;
+        var moreFromWrapper = $( '#more-from-the-museum' );
 
         if( loggedIn )
         {
@@ -2946,6 +2900,27 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
                 if( html_data != '')
                 {
                     $( '#user-interests-1543' ).html( html_data );
+                }
+            });
+        }
+        if ( moreFromWrapper.length )
+        {
+            $.ajax({
+                url: "/amnh/more_from_museum",
+                type:'GET',
+                cache: true,
+                data: {
+                    node_id: 1543
+                }
+            }).done( function( data ){
+                if( data != '')
+                {
+                    $( '#more-from-the-museum' ).html( data );
+                    var $twoUpCta = $('.amnh-two-up-cta');
+                    if ($twoUpCta.length) 
+                    {
+                        $twoUpCta.each(handleTwoUpCtaAnimation);
+                    }
                 }
             });
         }
@@ -2970,9 +2945,9 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
             <div class="amnh-footer__connect container regular-padding d-block d-xs-flex align-items-start align-items-m-center justify-content-between justify-content-m-start flex-row-reverse flex-m-row flex-wrap">
                 <div class="amnh-footer__newsletter d-flex align-items-center justify-content-center justify-content-m-between flex-row flex-wrap">
                     <span class="newsletter-title mr-3">Subscribe to our newsletter.</span>
-                    <a title="Subscribe to our newsletter." href="/newsletters/subscribe?n=100&amp;a=2&amp;aid=2093203870&amp;EMAILSOURCE=Web" id="globalFooter" class="amnh-button amnh-button--large">
-                        <span class="title" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, 0);">Sign Up</span>
-                        <span class="background" style="height: 0px; width: 3px;"></span>
+                    <a title="Subscribe to our newsletter." href="/newsletters/subscribe?n=100&amp;a=2&amp;aid=2093203870&amp;EMAILSOURCE=Web" id="globalFooter" class="amnh-button amnh-button--pre-anim-hidden amnh-button--large">
+                        <span class="title">Sign Up</span>
+                        <span class="background"></span>
                     </a>
                 </div>
                 <div class="amnh-footer__social">
@@ -2988,7 +2963,7 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
                         <a href="https://itunes.apple.com/app/apple-store/id381227123?pt=293150&amp;ct=amnh.org%2Ffooter&amp;mt=8" title="Download App on the Apple Store" class="download-item d-inline-block mt-1 mr-2 mr-s-3">
                             <img data-src="/extension/amnh/design/amnh_redesign/images/placeholders/badge_app-store.svg" alt="Apple Store Logo" class="lazyload">
                         </a>
-                        <a href="https://play.google.com/store/apps/details?id=org.amnh.explorer" title="Download App on the Google Play Store" class="download-item d-inline-block">
+                        <a href="https://play.google.com/store/apps/details?id=org.amnh.explorer&amp;referrer=utm_source%3Dfooter%26utm_medium%3Damnh.org" title="Download App on the Google Play Store" class="download-item d-inline-block">
                             <picture>
                                 <source data-srcset="/extension/amnh/design/amnh_redesign/images/placeholders/badge_google-play@2x.png, /extension/amnh/design/amnh_redesign/images/placeholders/badge_google-play@3x.png 2x">
                                 <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazyload" alt="Google Play Logo">
@@ -3008,8 +2983,8 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
                     <div class="amnh-footer__contact">
                         <p class="mb-2">
                             American Museum of Natural History<br>
-                            Central Park West at 79th Street<br>
-                            New York, NY 10024-5192<br>
+                            200 Central Park West<br>
+                            New York, NY 10024-5102<br>
                             Phone: 212-769-5100
                         </p>
                         <p class="mb-2">
@@ -3075,15 +3050,15 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
             <div class="amnh-footer__copyright">
                 <ul>
                     <li class="d-inline-block mr-1h"><a href="/privacy-policy" class="d-inline-block"><small>Privacy Policy</small></a></li>
-                    <li class="d-inline-block mr-1h"><a href="/about-the-museum/copyright" class="d-inline-block"><small>Copyright Information</small></a></li>
-                    <li class="d-inline-block mr-1h"><a href="/about-the-museum/notice-of-non-discrimination-and-harassment" class="d-inline-block"><small>Non-Discrimination Notice</small></a></li>
+                    <li class="d-inline-block mr-1h"><a href="/about/copyright" class="d-inline-block"><small>Copyright Information</small></a></li>
+                    <li class="d-inline-block mr-1h"><a href="/about/notice-of-non-discrimination-and-harassment" class="d-inline-block"><small>Non-Discrimination Notice</small></a></li>
                 </ul>
             </div>
         </div>
     </footer>
     <!-- Footer section end -->    <div class="amnh-search position-fixed">
 	<div class="amnh-search__wrapper position-relative w-100 h-100">
-		<button type="button" aria-label="Close Modal (Press escape to close)" class="amnh-search__close position-absolute p-0h" style="opacity: 0; transform: matrix(1, 0, 0, 1, 0, -10);">
+		<button type="button" aria-label="Close Modal (Press escape to close)" class="amnh-search__close position-absolute p-0h">
 			<span class="amnh-icon-close">
 				<span class="left">
 					<span class="line"></span>
@@ -3094,7 +3069,7 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
 			</span>
 			<span class="hidden-text">Close</span>
 		</button>
-		<div class="container amnh-search__container bg-white position-relative" aria-label="Search Input Container (Press escape to close)" style="transform: translate(0%, -100%) matrix(1, 0, 0, 1, 0, 0);">
+		<div class="container amnh-search__container bg-white position-relative" aria-label="Search Input Container (Press escape to close)">
 			<form action="/content/search" method="get" class="amnh-search-form pb-0h position-relative w-100 d-flex align-items-end justify-content-between flex-row flex-wrap">
 				<label class="hidden-text" for="search-input">What are you looking for?</label>
 				<div class="amnh-search-form__input mr-2">
@@ -3106,7 +3081,7 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
 						<span class="image"></span>
 					</span>
 				</button>
-				<span class="input-line d-block bg-black" style="width: 0px;"></span>
+				<span class="input-line d-block bg-black"></span>
 				<span class="input-width-calculator position-absolute"></span>
 			</form>
 		</div>
@@ -3123,34 +3098,11 @@ New York, New York 10024-5192<br><a href="mailto:webmaster@amnh.org" target="_se
     }</script>
 
 
-<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/f8a54c6ef6e0f1fd391ff3d7a4983e0f_1544737008.js" charset="utf-8"></script>
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/f8a54c6ef6e0f1fd391ff3d7a4983e0f_1573155676.js" charset="utf-8"></script>
 
 
-<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/7a5ea5818ec06e1a24e64e950e5ad9f9_1538070219.js" charset="utf-8"></script>
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/9af46f9f47db0b8904a1ec5b70d015f2_1566497330.js" charset="utf-8"></script>
 
-    
-                                                            
-                                            <script type="text/javascript">
-                        var trackEvent = ['_trackEvent', '52', 'click', '1629'];
-                        // Try to use the constituent ID as the YooChoose user id
-                        var ycId = document.cookie.match(/ConstID=(\d+)/);
-                        // If a ConstID is not available, try to use the id assigned by YooChoose
-                        if (ycId === null) {                            ycId = document.cookie.match(/YCID=(\w{8}(-\w{4}){3}-\w{12})/);
-                            }                        // If there is an id, use it to identify the visitor, otherwise allow yoochoose to use a cookie
-                        if (ycId !== null) {                                trackEvent.push(ycId[1]); // Value of yoochoose or constituent id cookie
-                                if (typeof offerRecommendations != "undefined") {                                    offerRecommendations(ycId[1]);
-                                }                            }                        var _ycq = _ycq || [];
-                        _ycq.push(['_setAccount', '1143']);
-                        _ycq.push(trackEvent);
-                        (function () {                                var yc = document.createElement('script');
-                                yc.type = 'text/javascript';
-                                yc.async = true;
-                                yc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.yoochoose.net/yc.js';
-                                var ycs = document.getElementsByTagName('script')[0];
-                                ycs.parentNode.insertBefore(yc, ycs);
-                                })();
-                        </script>
-                                                            
 
 
 </body></html>
