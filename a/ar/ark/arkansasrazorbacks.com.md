@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansasrazorbacks.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601152748id_/https%3A//arkansasrazorbacks.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansasrazorbacks.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201150125id_/https%3A//arkansasrazorbacks.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arkansas Razorbacks
 
