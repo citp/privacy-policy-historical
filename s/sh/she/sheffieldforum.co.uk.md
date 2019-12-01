@@ -1,30 +1,29 @@
-> *The following text is extracted and transformed from the sheffieldforum.co.uk privacy policy that was archived on 2018-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181010082353id_/https%3A//www.sheffieldforum.co.uk/misc.php%3Fdo%3Dpage%26template%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheffieldforum.co.uk privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201233320id_/https%3A//www.sheffieldforum.co.uk/privacy) for the most accurate reproduction.*
 
-# Sheffield Forum - Privacy Policy
+# Privacy Policy - Sheffield Forum
 
-**Privacy Policy**
+**Privacy Policy**  
+ 
 
 This is the privacy notice of X-Line Ltd. T/A SheffieldForum.co.uk. We respect your privacy and are determined to protect your personal data. The purpose of this privacy notice is to inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from). We’ll also tell you about your privacy rights and how the data protection law protects you.
 
 This privacy notice is provided in a layered format so you can click through to the specific areas set out below.
 
-  1. WHO WE ARE AND IMPORTANT INFORMATION
-  2. THE PERSONAL DATA WE COLLECT ABOUT YOU
-  3. HOW WE COLLECT YOUR PERSONAL DATA
-  4. HOW WE USE YOUR PERSONAL DATA
-  5. WHO WE SHARE YOUR PERSONAL DATA WITH
-  6. INTERNATIONAL TRANSFERS
-  7. DATA SECURITY
-  8. DATA RETENTION
-  9. YOUR LEGAL RIGHTS
-  10. CHANGES TO THIS NOTICE AND YOUR DUTY TO INFORM US OF CHANGES
-  11. QUERIES, REQUESTS OR CONCERNS
+  1. _[WHO WE ARE AND IMPORTANT INFORMATION](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part1)_
+  2. _[THE PERSONAL DATA WE COLLECT ABOUT YOU](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part2)_
+  3. _[HOW WE COLLECT YOUR PERSONAL DATA](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part3)_
+  4. _[HOW WE USE YOUR PERSONAL DATA](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part4)_
+  5. _[WHO WE SHARE YOUR PERSONAL DATA WITH](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part5)_
+  6. _[INTERNATIONAL TRANSFERS](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part6)_
+  7. _[DATA SECURITY](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part7)_
+  8. _[DATA RETENTION](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part8)_
+  9. _[YOUR LEGAL RIGHTS](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part9)_
+  10. _[CHANGES TO THIS NOTICE AND YOUR DUTY TO INFORM US OF CHANGES](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part10)_
+  11. _[QUERIES, REQUESTS OR CONCERNS](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Privacy#part11)_
 
 
 
-* * *
-
-**_1\. WHO WE ARE AND IMPORTANT INFORMATION _**
+**_1\. WHO WE ARE AND IMPORTANT  INFORMATION _**
 
 **_What is the purpose of this privacy notice?_**
 
@@ -36,7 +35,7 @@ You must read this privacy notice together with any other privacy notice we may 
 
 **_Data controller(s)_**
 
-X-Line Ltd. T/A SheffieldForum.co.uk is the controller and responsible this website and for your personal data (collectively referred to as X-Line Ltd., "we", "us" or "our" in this privacy notice.) For all data matters contact our Data Protection Officer on [office@sheffieldforum.co.uk](mailto:office@sheffieldforum.co.uk).
+X-Line Ltd. T/A SheffieldForum.co.uk is the controller and responsible this website and for your personal data (collectively referred to as X-Line Ltd., "we", "us" or "our" in this privacy notice.) For all data matters contact our Data Protection Officer on  _[office@sheffieldforum.co.uk](mailto:office@sheffieldforum.co.uk)_.
 
 **_Third-party links outside of our control_**
 
@@ -46,17 +45,17 @@ When you leave our website, we encourage you to read the privacy notice of every
 
 **2\. THE PERSONAL DATA WE COLLECT ABOUT YOU**
 
-Personal data, or personal information, means any information about an individual from which that person can be identified. You can find out more about personal data from the [Information Commissioners Office](https://ico.org.uk/global/contact-us/).
+Personal data, or personal information, means any information about an individual from which that person can be identified. You can find out more about personal data from the  _[Information Commissioners Office](https://ico.org.uk/global/contact-us/)_.
 
 We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:
 
-  * **Identity Data** includes title, first name, last name, username, date of birth, gender.
-  * **Contact Data** includes billing address, delivery address, email address, telephone number, social media username(s).
-  * **Profile Data** includes your username, purchases or orders made by you, your forum signature, your interests, preferences and feedback.
-  * **Technical Data** includes IP addresses, details of your web browser, your location, type of device and operating system and/or software.
-  * **Transaction Data** includes details about payments to and from you, details of products and services you may have purchased from us.
-  * **Usage Data** includes information about how you use our website, products and services.
-  * **Marketing and Communications Data** includes your preferences in receiving marketing from us and our third parties/your communication preferences.
+  * **Identity Data**  includes title, first name, last name, username, date of birth, gender.
+  * **Contact Data**  includes billing address, delivery address, email address, telephone number, social media username(s).
+  * **Profile Data**  includes your username, purchases or orders made by you, your forum signature, your interests, preferences and feedback.
+  * **Technical Data**  includes IP addresses, details of your web browser, your location, type of device and operating system and/or software.
+  * **Transaction Data**  includes details about payments to and from you, details of products and services you may have purchased from us.
+  * **Usage Data**  includes information about how you use our website, products and services.
+  * **Marketing and Communications Data**  includes your preferences in receiving marketing from us and our third parties/your communication preferences.
 
 
 
@@ -72,19 +71,19 @@ Where we need to collect your personal data by law, or under the terms of a cont
 
 We use different methods to collect data from and about you including through:
 
-  * **Directly.** You may give us you data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you: 
+  * **Directly.**  You may give us you data by filling in forms or by corresponding with us by post, phone, email or otherwise. This includes personal data you provide when you:
     * Create an account on our website;
     * Fill in optional information within your forum profile;
     * Subscribe to forum or newsletter notifications;
     * Request marketing to be sent to you;
     * Give us a feedback or send us a query;
     * Choose to register or login to the forum using your social media account.
-  * **Automated technologies or interactions.** As you interact with our website, we may automatically collect **Technical Data** and **Usage Data** about your equipment, browsing actions and patterns. We collect this personal data by using cookies and other similar technologies. Please see our [cookie policy](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Cookie_Policy) for further details.
-  * **Third parties or publicly available sources.** We may receive personal data about you from various third parties and public sources as set out below: 
-    * **Technical Data, Usage Data** from analytics companies such as Google.
-    * **Technical Data** from advertising partners such as Google Adsense, Criteo, Vibrant Media.
-    * **Identity Data** and **Contact Data** when you optionally choose to login or register on the forum using your social media account.
-    * **Transaction Data, Technical Data** from technical, payment and delivery partners.
+  * **Automated technologies or interactions.**  As you interact with our website, we may automatically collect  **Technical Data**  and  **Usage Data  **about your equipment, browsing actions and patterns. We collect this personal data by using cookies and other similar technologies. Please see our cookie policy (found below) for further details.
+  * **Third parties or publicly available sources.**  We may receive personal data about you from various third parties and public sources as set out below:
+    * **Technical Data, Usage Data**  from analytics companies such as Google.
+    * **Technical Data**  from advertising partners such as Google Adsense, Criteo, Vibrant Media.
+    * **Identity Data**  and  **Contact Data**  when you optionally choose to login or register on the forum using your social media account.
+    * **Transaction Data, Technical Data**  from technical, payment and delivery partners.
 
 
 
@@ -92,13 +91,13 @@ We use different methods to collect data from and about you including through:
 
 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
-  * **Performance of Contract** this means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
+  * **Performance of Contract  **this means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
 
 
-  * **Legitimate Interest** this means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting our data protection officer at [office@sheffieldforum.co.uk](mailto:office@sheffieldforum.co.uk).
+  * **Legitimate Interest**  this means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by contacting our data protection officer at  _[office@sheffieldforum.co.uk](mailto:office@sheffieldforum.co.uk)_.
 
 
-  * **Comply with a legal or regulatory obligation** this means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
+  * **Comply with a legal or regulatory obligation**  this means processing your personal data where it is necessary for compliance with a legal or regulatory obligation that we are subject to.
 
 
 
@@ -107,8 +106,6 @@ We will only use your personal data when the law allows us to. Most commonly, we
 We have set out below, in a table format, a description of all the ways we plan to use your personal data, with the legal bases we rely on to do so.
 
 Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please contact our Data Protection Officer if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
-
-| 
 
 **Purpose/Activity**
 
@@ -256,7 +253,7 @@ You can ask us or third parties to stop sending you marketing messages at any ti
 
 **_Cookies_**
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [cookie policy](https://www.sheffieldforum.co.uk/misc.php?do=page&template=Cookie_Policy).
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our cookie policy (found below).
 
 **_Change of purpose_**
 
@@ -271,7 +268,7 @@ Please note that we may process your personal data without your knowledge or con
 We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
 
   * Internal Third Parties - Other companies within the X-Line Ltd. group of companies (within the EU) acting as joint controllers or processors to carry out analysis, planning, decision making and provide IT and system administration services.
-  * External Third Parties 
+  * External Third Parties
     * Service providers acting as processors based within the EEA and the USA who provide data analytics, email, hosting, IT and system administration services.
     * Distribution, fulfilment and delivery service providers and partners within the EEA.
     * Professional advisers acting as processors or joint controllers including lawyers, bankers, auditors and insurers based within the EEA who provide consultancy, banking, legal, insurance and accounting services.
@@ -294,7 +291,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 
 
-Please [contact us](https://www.sheffieldforum.co.uk/support/) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+Please  _[contact us](https://www.sheffieldforum.co.uk/contact/)_  if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
 **7\. DATA SECURITY**
 
@@ -308,7 +305,7 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by using the details on our [contact us page.](https://www.sheffieldforum.co.uk/support/)
+Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by using the details on our  _[contact us page.](https://www.sheffieldforum.co.uk/contact/)_
 
 In some circumstances you can ask us to delete your data: see 9. Your legal rights below for further information.
 
@@ -328,7 +325,7 @@ Unless subject to an exemption under the data protection laws, you have the foll
 
 
 
-If you wish to exercise any of the rights set out above, please contact our Data Protection Officer using the details found on our [Contact Us page.](https://www.sheffieldforum.co.uk/support/)
+If you wish to exercise any of the rights set out above, please contact our Data Protection Officer using the details found on our  _[Contact Us page.](https://www.sheffieldforum.co.uk/contact/)_
 
 **_No fee required – with some exceptions_**
 
@@ -350,11 +347,111 @@ Please keep us informed if your personal data changes during your relationship w
 
 **11\. QUERIES, REQUESTS OR CONCERNS**
 
-To exercise all relevant rights, queries or complaints in relation to this policy or any other data protection matter between you and us, please in the first instance contact our Data Protection Officer using the details found on our [Contact Us page.](https://www.sheffieldforum.co.uk/support/)
+To exercise all relevant rights, queries or complaints in relation to this policy or any other data protection matter between you and us, please in the first instance contact our Data Protection Officer using the details found on our  _[Contact Us page.](https://www.sheffieldforum.co.uk/contact/)_
 
-If this does not resolve your complaint to your satisfaction, you have the right to lodge a complaint with the [Information Commissioners Office](https://ico.org.uk/global/contact-us/) on 03031231113 or via email <https://ico.org.uk/global/contact-us/email/> or at the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.  
+If this does not resolve your complaint to your satisfaction, you have the right to lodge a complaint with the  _[Information Commissioners Office](https://ico.org.uk/global/contact-us/)_  on 03031231113 or via email  _[https://ico.org.uk/global/contact-us/email/](https://ico.org.uk/global/contact-us/email/)_  or at the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, England, UK.
+
+_**Cookie Policy**_
+
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
+
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer if you agree. Cookies contain information that is transferred to your computer's hard drive.
+
+We use the following cookies:
+
+  * **Strictly necessary cookies.**  These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website, use a shopping cart or make use of e-billing services.
+  * **Analytical/performance cookies.**  They allow us to recognise and count the number of visitors and to see how visitors move around our website when they are using it. This helps us to improve the way our website works, for example, by ensuring that users are finding what they are looking for easily.
+  * **Functionality cookies.**  These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
+  * **Targeting cookies.**  These cookies record your visit to our website, the pages you have visited and the links you have followed. We will use this information to make our website and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
+
+
+
+Cookie List (Compiled at 25/05/2018)
+
+**Cookie**
+
+| 
+
+**Name**
+
+| 
+
+**Purpose**  
   
-All times are GMT +1. The time now is 09:23.
+---|---|---  
+  
+Google Analytics
 
-POSTS ON THIS FORUM ARE NOT ACTIVELY MONITORED  
-Click "Report Post" under any post which may breach our terms of use.
+| 
+
+__utma
+
+__utmb
+
+__utmc
+
+__utmt
+
+__utmz
+
+| 
+
+Used to collect traffic and usage information about how visitors use our site. The cookies collect information in an anonymous form.  
+  
+Cookie Consent
+
+| 
+
+cookieconsent_status
+
+| 
+
+Used to determine whether you've chosen to accept the cookie policy message.  
+  
+vBulletin
+
+| 
+
+bblastactivity
+
+bblastvisit
+
+bbsessionhash
+
+bbcpsession
+
+bbforum_view
+
+bbuserid
+
+bbpassword
+
+| 
+
+Used by the forum software to track when you last visited the site, when you last posted and whether you are currently logged in or not, your user ID and what forum or content you are currently viewing.  
+  
+Google Ads/DoubleClick
+
+| 
+
+Examples:
+
+DSID
+
+IDE
+
+d
+
+mc
+
+_[View more >](https://policies.google.com/technologies/types)_
+
+| 
+
+Cookies used by Google to make advertising more engaging to users and more valuable to publishers and advertisers. You can choose to opt out of Ad Personalization on  _[this page](https://www.google.com/settings/ads)_.  
+  
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+You block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site.
+
+You can opt-out of Google Analytics tracking by using their tool found at:  _[https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)_. To find out more about cookies, including how to see what cookies have been set, you can visit  _[www.aboutcookies.org](http://www.aboutcookies.org/)_  or  _[www.allaboutcookies.org](http://www.allaboutcookies.org/)_.
