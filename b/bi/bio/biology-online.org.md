@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biology-online.org privacy policy that was archived on 2018-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181119050740id_/https%3A//www.biology-online.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biology-online.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201222347id_/https%3A//biology-online.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Biology Blog & Dictionary Online
 
@@ -8,7 +8,7 @@ _This Privacy Policy was last updated on 25th May 2018_
 
 This website (the “Website”) is operated and owned by Hagshama Keebali Investments Two General Partnership (“HKITGP”, “we”, “us” or “our”). HKITGP is committed to protecting and respecting your privacy.
 
-This Privacy Policy together with the [Terms of Service](https://web.archive.org/terms-of-service) apply to your use of this Website and any of the services accessible through this Website (the “Services”). 
+This Privacy Policy together with the [Terms of Service](https://web.archive.org/terms-of-service) apply to your use of this Website and any of the services accessible through this Website (the “Services”).
 
 This Privacy Policy outlines the method and framework on which any personal data we collect from you, or that you provide to us, will be processed and used by us.
 
