@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamline.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627172136id_/https%3A//www.fasthosts.co.uk/terms/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamline.net privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201095250id_/https%3A//www.fasthosts.co.uk/terms/policies/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Fasthosts
 
@@ -10,25 +10,23 @@ For clarity, Fasthosts may be both data controller and data processor for your p
 
 We must advise that this policy is subject to change, so please check our website on a regular basis for any further changes.
 
-[General Data Protection Regulation (GDPR)](http://www.eugdpr.org/)
-
 This Privacy Notice sets out your rights under the new laws.
 
 ### Who are we?
 
-Fasthosts is a provider of cloud and hosting services, based in Gloucester. Fasthosts have a registered office at Discovery House, 154 Southgate Street, Gloucester, GL1 2EX and company number 03656438.
+Fasthosts offer a range of services including domain names, shared web hosting, business-class email, dedicated servers, cloud servers, secure online storage and online backup. Fasthosts have a registered office at Discovery House, 154 Southgate Street, Gloucester, GL1 2EX and company number 03656438.
+
+### How the law protects you
+
+Data protection laws state that we are only able to process personal data if we have valid reasons to do so. Our basis for processing your personal data includes, but is not limited to, your consent, performance of a contract, to enable billing and remittance, and to contact you for customer service purposes.
 
 ### How do we collect personal data from you?
 
-We receive information about you from you when you use our website, complete forms on our website, if you contact us by phone, email, live-chat or otherwise in respect of any of our products and services or during the purchasing of any such product. Additionally we also collect information from you when you sign up, enter a competition, promotion or survey or when you inform us of any other matter.
+We receive information about you from you when you use our website, complete forms on our website, if you contact us by phone, email, live-chat or otherwise in respect of any of our products and services or during the purchasing of any such product. Additionally, we also collect information from you when you sign up, enter a competition, promotion or survey or when you inform us of any other matter.
 
 If you provide us with personal data about a third party (for example when registering a domain on their behalf), you warrant that you have obtained the express consent from the third party for the disclosure and use of their personal data.
 
 Your personal data may be automatically collected when you use our services, including but not limited to, your IP address, device-specific information, server logs, device event information, location information and unique application numbers.
-
-### How the law protects you
-
-Data protection laws state that we are only able to process personal data if we have valid reasons to do so. The basis for processing your personal data includes, but is not limited to, your consent, performance of a contract, to enable billing and remittance, and to contact you for customer service purposes.
 
 ### What type of data do we collect from you?
 
@@ -38,11 +36,13 @@ Please be aware that any video, image, or other content posted, uploaded or othe
 
 We merely process such data on your behalf, subject to our Terms and Conditions and you are responsible for any applicable legal requirements in respect of your content.
 
+We also collect information that is provided to Fasthosts by potential employee candidates, where information is sent to Fasthosts by their CV. 
+
 ### Personal data managed by you
 
 As our customer, you use our services to host, transmit or process data on our hosting platforms, which may include personal data of your customers.
 
-For the avoidance of doubt, under these circumstances, you who stipulate the process for collecting your customer’s data. Most importantly, we do not have knowledge of or view, share or collect this specific data.
+For the avoidance of doubt, under these circumstances, you stipulate the process for collecting your customer’s data. Most importantly, we do not have knowledge of or view, share or collect this specific data.
 
 In accordance with this Privacy Notice, you are responsible for managing the security of your customers’ data which they upload onto our platforms and ensuring secure access to such data.
 
@@ -74,7 +74,7 @@ We use information about you in the following ways:
 
 We will keep your personal data for the duration of the period you are a customer of Fasthosts. We shall retain your data only for as long as necessary in accordance with applicable laws.
 
-On the closure of your account, we may keep your data for up to 7 years after you have cancelled your services with us. We may not be able to delete your data before this time due to our legal and/or accountancy obligations. We assure you that your personal data shall only be used for these purposes stated herein.
+On the closure of your account, we may keep your data for up to 7 years after you have cancelled your services with us. We may not be able to delete your data before this time due to our legal and/or accountancy obligations or as reasonably necessary to prevent fraud, abuse, enforce our terms and to protect our legitimate interests. We assure you that your personal data shall only be used for these purposes stated herein.
 
 ### Who has access to your personal data?
 
@@ -94,7 +94,7 @@ We process your data for administration, billing, support and the provision of s
 
 #### Email hosting
 
-We process your data for administration, billing, support and the provision of services. Additionally, to provide customer domain and connection details and use email addresses to provide the service.
+We process your data for administration, billing, support and the provision of services. Additionally, to provide customer domain and connection details and use email addresses to provide the service
 
 Office 365 user data shared with Microsoft in the EEA.
 
@@ -107,6 +107,14 @@ We process your data for administration, billing, support and the provision of s
 #### Traffic Driver
 
 We process your data for administration, billing, support and the provision of services. Additionally, to provide user (customer) and connection details for the service. User data to service provider outside the EEA.
+
+#### Listing Coach
+
+We process your data for administration, billing, support and the provision of services. Additionally, to provide user (customer) and connection details for the service. User data to service provider within the EEA.
+
+#### Cloud Backup 
+
+We process your data for administration, billing, support and the provision of services. Your data is sent to third party suppliers both within and outside of the EEA. Your user data is shared with Acronis in the EEA.
 
 #### Third Parties
 
@@ -142,6 +150,10 @@ You must maintain the accuracy of your information and ensure all your details, 
 
 You have the right to access the information we hold about you. Please email your requests to [privacy@fasthosts.com](mailto:privacy@fasthosts.com) so that we can obtain this information for you.
 
+Before Fasthosts disclose your personal data, we may ask you to provide additional information so that Fasthosts can confirm your identity and for your security.
+
+We reserve the right to charge a fee if your request is excessive or unfounded.
+
 ### Links to other sites
 
 Fasthosts may provide links to third party sites. Since we do not control those websites, we encourage you to review the privacy policies of these third party sites. Any information that is supplied on these sites will not be within our control and we cannot be responsible for the privacy policies and practices of these.
@@ -150,7 +162,7 @@ Fasthosts may provide links to third party sites. Since we do not control those 
 
 We follow accepted ISO standards to store and protect the personal data we collect, including the use of encryption if appropriate.
 
-All information you provide to us is stored on our secured servers within the EEA. From time to time, your information may be transferred to and stored in a country outside the EEA in relation to provision of the services. The laws in these countries may not provide you with the same protection as in the EEA; however, any third party referred to above outside of the EEA has agreed to abide by European levels of data protection in respect of the transfer, processing and storage of any personal data. By providing your data to us, you agree to this transfer and storage. However, we will ensure that reasonable steps are taken to protect your data in accordance with this privacy notice.
+l information you provide to us is stored on our secured servers within the EEA. From time to time, your information may be transferred to and stored in a country outside the EEA in relation to provision of the services. The laws in these countries may not provide you with the same protection as in the EEA; however, any third party referred to above outside of the EEA has agreed to abide by European levels of data protection in respect of the transfer, processing and storage of any personal data. By providing your data to us, you agree to this transfer and storage. However, we will ensure that reasonable steps are taken to protect your data in accordance with this privacy notice.
 
 As the transmission of information via the internet is not completely secure, we cannot guarantee the security of your data transmitted to our site and any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -174,5 +186,3 @@ Wilmslow
 Cheshire   
 SK9 5AF   
 Tel: 0303 123 1113
-
-In order to provide you with the best online experience this website uses cookies. By using our website, you agree to our use of cookies. [Find out more](https://web.archive.org/companyinfo/cookie-law) X Close
