@@ -1,24 +1,22 @@
-> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227054626id_/https%3A//scholarshipamerica.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201151715id_/https%3A//scholarshipamerica.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Scholarship America
-
-Scholarship America recognizes the importance of data security and privacy. We are dedicated to protecting your privacy and handling any personal information you provide with care and respect. This Privacy Policy is designed to assist you in understanding how we, as the data controller, collect, use, and share personal information you provide to us through the Scholarship America websites (Sites).
+# Review Our Privacy Policy | Scholarship America
 
 By accessing the Site and using its services, you confirm that you have read and consent to the information practices described in the policy.
 
 ### **This Privacy Policy Covers:**
 
-  * What information do we collect and how is it used?
-  * Student Application Data
-  * Donor Data
-  * General Data
-  * How does Scholarship America SECURE my personal information?
-  * Links to Other Sites
-  * Business Transitions
-  * Privacy Protection for Children under Age 13
-  * Will this Privacy Policy CHANGE?
-  * Discontinue Contact and Data Removal Policy
-  * How to Contact Us?
+  * [What information do we collect and how is it used?](https://scholarshipamerica.org/privacy/#_What_information_do)
+  * [Student Application Data](https://scholarshipamerica.org/privacy/#_Student_Application_Data)
+  * [Donor Data](https://scholarshipamerica.org/privacy/#_Donor_Data)
+  * [General Data](https://scholarshipamerica.org/privacy/#_General_Data)
+  * [How does Scholarship America SECURE my personal information?](https://scholarshipamerica.org/privacy/#_How_does_Scholarship)
+  * [Links to Other Sites](https://scholarshipamerica.org/privacy/#_Links_to_Other)
+  * [Business Transitions](https://scholarshipamerica.org/privacy/#_Business_Transitions)
+  * [Privacy Protection for Children under Age 13](https://scholarshipamerica.org/privacy/#_Privacy_Protection_for)
+  * [Will this Privacy Policy CHANGE?](https://scholarshipamerica.org/privacy/#_Will_this_Privacy)
+  * [Discontinue Contact and Data Removal Policy](https://scholarshipamerica.org/privacy/#_Discontinue_Contact_and)
+  * [How to Contact Us?](https://scholarshipamerica.org/privacy/#_How_to_Contact)
 
 
 
@@ -70,7 +68,7 @@ In cases where donations are processed through a third-party service provider, d
 
 When visiting the Scholarship America websites, visitors have the option to enter data for the purpose of requesting information, downloading content or asking questions. This data is used only for the purpose of communicating with you and will not be shared or sold to anyone outside our organization. Scholarship America may use third parties to provide certain services on our behalf (“Service Providers”). Personal information will only be shared as necessary for Service Providers to conduct their services. Service Providers are prohibited from using the data we provide to them for any other purpose.
 
-Scholarship America reserves the right to disclose personal information as required by law.  Non-personally identifiable information may be shared as aggregate demographic information to program sponsors or may be used by Scholarship America in pursuit of its philanthropic goals.
+Scholarship America reserves the right to disclose personal information as required by law.  Non-personally identifiable information may be shared as aggregate demographic information to program sponsors or may be used by Scholarship America in pursuit of its philanthropic goals.
 
 We also use personal information collected through our Sites:
 
@@ -91,7 +89,7 @@ Scholarship America relies on the following legal grounds for the collection, pr
   * Consent, as permitted by applicable law
   * Compliance with legal obligations
   * User support
-  * Legitimate interest of Scholarship America where the legitimate interest may be: 
+  * Legitimate interest of Scholarship America where the legitimate interest may be:
     * customer relationship management and other forms of marketing
     * physical security, IT and network security
     * Site management and enhancement
@@ -101,26 +99,38 @@ Scholarship America relies on the following legal grounds for the collection, pr
 We use certain web technologies including cookies, web beacons, clear gifs, and pixels (collectively, “cookies and other technologies”) to assist us in providing better service. These cookies and other technologies do not identify you personally and are not connected to any data you provide on the Site. They provide technical and behavioral information such as the IP address, device type, browser type, and device identifier used to visit the website, the date and time of your visit, the pages you view, the websites you visited before and after visiting that Site, and (where permitted by your device) location data. Our services and sites currently do not recognize “do not track” signals that may be sent by certain browsers. [Please click here for more information about our Cookie Policy](https://scholarshipamerica.org/cookie-policy/). Cookies are not used on Scholarsapply.org, our student application Site.  
 
 
+## How does Scholarship America SECURE my personal information?
+
 We use commercially reasonable physical, technological, and administrative safeguards designed to protect your personal data from unauthorized use, access, or disclosure. Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private or sensitive information to us by email. Some of the information you may enter on our Sites may be transmitted securely via Secure Sockets Layer (SSL), 128 bit encryption services, which are enabled by a reputable SSL certificate provider (e.g., Thawte or Verisign). Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. No method of transmission over the Internet or electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 In the event that your data has been accessed by an unauthorized individual, you will be notified as required by law.  
 
 
+## Links to Other Sites
+
 This Privacy Policy applies to data collected on Sites administered by Scholarship America only. The Sites may contain links to other sites that are not owned or controlled by Scholarship America. Be aware when you leave our Sites and read the privacy statements pertaining to other sites you may link to.  
 
+
+## Business Transitions
 
 If Scholarship America becomes involved in a merger, acquisition, or any form of sale, it is likely personal information will be among the assets transferred.  
 
 
+## Privacy Protection for Children under Age 13
+
 Scholarship America does not collect personal information directly from children who are under 13 years old. However, a child of this age may occasionally be eligible for certain programs or services administered through our Sites, in which case, a parent or legal guardian of such child must provide the child’s personal information to Scholarship America. The parent or legal guardian must also provide his or her own contact information (e.g., email address, mailing address and phone numbers). All communications pertaining to the program or service will be sent directly to such parent or legal guardian. The personal information (identifiable or not) of such parent or legal guardian collected is subject to this Privacy Policy.
 
-For more information on online privacy protection for children under 13, please visit <http://www.coppa.org/coppa.htm>.
+For more information on online privacy protection for children under 13, please visit [http://www.coppa.org/coppa.htm](http://www.coppa.org/coppa.htm).
 
-If you are a minor under the age of 18, a registered user of this Site, and a resident of the State of California, you may remove, or request the removal of, content or information you have posted on this Site by contacting us as provided below.  Certain exceptions may apply.  Such removal, however, does not ensure complete or comprehensive removal of your content or information.  
+If you are a minor under the age of 18, a registered user of this Site, and a resident of the State of California, you may remove, or request the removal of, content or information you have posted on this Site by contacting us as provided below.  Certain exceptions may apply. Such removal, however, does not ensure complete or comprehensive removal of your content or information.  
 
+
+## Will this Privacy Policy CHANGE?
 
 Because our websites and business units will continue to implement new technologies and improve the services and features we provide, this policy is subject to change at any time. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats we deem acceptable, so you will always know what information we collect online, how we use it and what choices you have. Your continued use of the Site after such modifications will constitute your acknowledgement of, and agreement to be bound by, the revised Privacy Policy.  
 
+
+## Discontinue Contact and Data Removal Policy
 
 It is the policy of Scholarship America to discontinue contacting any person upon that person’s written request.
 
@@ -129,16 +139,24 @@ Data will only be stored as long as needed to fulfill legitimate business purpos
 If you are located outside the United States and choose to provide information to us, please note that we transfer the data, including Personal Data, to the United States and process it there. If you wish to have us discontinue processing or storing your data, you may contact our data protection officer, Stephanie Stoffel. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.  
 
 
+## How to Contact Us
+
 Scholarship America wants your information and preferences to be accurate and complete. To update or change your information, you can send your updated information to:
 
-Scholarship America  
-One Scholarship Way  
-Saint Peter, MN  56082  
-[data@scholarshipamerica.org](mailto:data@scholarshipamerica.org)
+Scholarship America
+
+One Scholarship Way
+
+Saint Peter, MN  56082
+
+data@scholarshipamerica.org
 
 To communicate with our Data Privacy Officer, please address any questions, concerns or comments to:
 
-Stephanie Stoffel, DPO  
-One Scholarship Way  
-Saint Peter, MN  56082  
-[data@scholarshipamerica.org](mailto:data@scholarshipamerica.org)
+Stephanie Stoffel, DPO
+
+One Scholarship Way
+
+Saint Peter, MN  56082
+
+data@scholarshipamerica.org
