@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tailorstore.com privacy policy that was archived on 2019-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190125010145id_/https%3A//www.tailorstore.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tailorstore.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201153632id_/https%3A//www.tailorstore.com/privacy) for the most accurate reproduction.*
 
 # Tailor Store | Tailor Store®
 
-## Privacy policy at Tailor Store
+## Privacy policy
 
 ### Collection, processing and usage of your data
 
@@ -36,7 +36,7 @@ Facebook can use this information for purposes of advertising, market research a
 
 If you do not want Facebook to connect the collected data about our website to your Facebook account, you must log out from Facebook before you visit our site.
 
-For further information about the purpose and scope of data collection and the further processing and use of data by Facebook, and your rights and ways to protect your privacy, please see the privacy notices of Facebook. 
+For further information about the purpose and scope of data collection and the further processing and use of data by Facebook, and your rights and ways to protect your privacy, please see the privacy notices of Facebook.
 
 ### Right of inquiry
 
@@ -56,4 +56,4 @@ Tailor Store Sweden AB
 Garnisonsgatan 48  
 254 66 Helsingborg  
 Sweden  
-Fax: 0046 424242 088
+Fax: 0046 424242 088 
