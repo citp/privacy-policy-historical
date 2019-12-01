@@ -1,97 +1,94 @@
-> *The following text is extracted and transformed from the skyandtelescope.com privacy policy that was archived on 2018-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180626191022id_/http%3A//www.fwmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyandtelescope.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201165902id_/https%3A//www.skyandtelescope.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy | F+W
+# Privacy Statement - Sky & Telescope
 
-Privacy Policy
+At SkyandTelescope.com (the "Site"), we respect your personal privacy. We strongly believe that preserving your online privacy is our responsibility. You do not have to register to use this Site, and the information we gather from you is primarily used to process your shopping orders, provide you with customized data, and communicate with you about products or services we offer. Personal data may be collected when you send us e-mail, subscribe to magazines or fee-based content, purchase products at Shop at Sky, our online store, or request information. Sky & Telescope generally does not share your personal information with third parties except in special circumstances, such as, when we believe that law requires such disclosure, or other circumstances, which are described more fully below. Please also read our [Terms & Conditions](https://www.skyandtelescope.com/terms-of-use-agreement/).
 
-[Click here to view our Terms of Use Policy, Updated December 15, 2017](http://www.fwcommunity.com/termsofuse)
+**Information Provided by You**
 
-SUMMARY  
-This web site is owned by F+W Media, Inc. (“F+W”). At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
+**Purchase of Product or Subscription:** Visitors are asked to provide certain personal information when they purchase products at Shop at Sky or subscribe to _Sky & Telescope_ magazine or fee-based site content, including: name, shipping and billing address, telephone number, e-mail address, shipping preferences, billing information (including credit-card numbers), product subscriber status, and product selection. We also gather information on the person who will receive any gift you send (e.g., that person's name and address), and we will retain a record of your purchase.
 
-GENERAL CONTACT INFORMATION  
-Our postal address is:  
-F+W Media, Inc.  
-10151 Carver Road Suite #200  
-Blue Ash, OH 45242  
-513.531.2690
+**Observing Location:** When you participate in our interactive Almanac, Sky Chart program, and other observing tools, we may collect your zip or postal code, city, state or province, and country.
 
-To ensure that your communications are properly routed, we ask that you identify the F+W products or services (web site, magazine, book club, etc.) relevant to your inquiry when contacting us. If you would like to receive a response, please be sure to include sufficient information to enable us to contact you (such as an email or postal address).
+**Subscription to E-mail Newsletter:** When you subscribe to _Sky & Telescope_'s e-mail newsletter we collect your e-mail address.
 
-INFORMATION WE COLLECT  
-Information about your computer hardware and software  
-For each visitor to our web site, our web server automatically recognizes your IP address. The address allows our server to deliver the information you request from us, such as an article or a form for posting to a discussion board. We also collect visitors’ IP addresses in their domain-name form, allowing us to understand for instance how many visitors access our site through various service providers. We collect this information on an individual basis and in aggregate, or combined, form.
+**Customer Service:** When you submit a question to customer service, we collect your e-mail address to respond, and may collect additional information to help us answer your questions.
 
-We also collect both user-specific and aggregate information on what pages visitors access or visit. We use the information to improve the content of our web pages and to customize the content and layout of our pages.
+**Fee-Based Services:** When you use our fee-based site content we require you to select and save a username and password.
 
-We use cookies to store visitors’ preferences, record session information such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, ensure that visitors are not repeatedly sent the same banner ads, and to customize Web page content based on visitors’ browser type or other information that the visitor sends. We use both session cookies and persistent cookies.
+**Other Information:** When you enter an optional contest or respond to a survey or special offer, we may collect additional personal information such as your opinion about products, services, or our Site.
 
-Email address, postal address, telephone number
+**Automatic Information**
 
-If at any time you provide us with your email address to place an order or access a service, we collect that information. Areas in which we may collect your email address include but are not limited to discussion boards; chat areas; product or service transactions; emails you send us; and interactive forms. If you provide us with your email address, you may receive periodic promotional emails from us and carefully selected partners with information regarding special offers or new products or services. You may also receive informational emails from us related to any user accounts you have set up with us, as well as administrative notices regarding the operation of the web site.  
-If you supply us with your postal address online, you may receive periodic mailings from us and carefully selected partners with information on new products and services.
+We collect certain types of information automatically whenever you visit our Site. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; searches you entered.
 
-Visitors who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. We do not rent telephone contact information to third parties.
+Third parties including parties who supply advertising posted on this website, sell advertising for this website, and conduct surveys, and each of their contractors, may collect certain information about you, such as your IP address and information you choose to supply in response to the advertising you view on this site. These third parties may use cookies, scripts, or other technologies to access this information. These third parties may also conduct voluntary user surveys and, if you choose to respond, they will receive additional information you provide, such as behavioral or demographic information. The information collected by third parties will be aggregated and used for advertising and marketing purposes.
 
-Finally, we keep any information volunteered by the consumer, such as survey information and/or site registrations, both in aggregate and personally identifiable ways.
+**Cookies**
 
-HOW WE MAY SHARE YOUR INFORMATION  
-We may share the information we collect on the web site with our trusted partners, including but not limited to affiliates, marketing partners, and fulfillment or customer service agents. Our partners may use this information to contact you for marketing purposes.
+A cookie is a small file that is placed on the user's hard drive during a SkyandTelescope.com visit. This file allows the user to move quickly and easily around the Site. It is used to identify returning users and to identify fee-based content subscribers. This means that if you subscribe to fee-based content on this Site, you will not have to login each time you visit. We also use a cookie to track a user's sessions. We use this information to find out what Site features are most popular. We also use cookies and the information we collect to show you relevant content and advertising.
 
-California Privacy Rights  
-Pursuant to California Civil Code Section 1798.83, F+W customers who are California residents can request certain information about the sharing of their own personal information with third parties for direct marketing purposes during the past year. California residents can request this disclosure by sending a request to F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+You can delete cookies from your hard drive at any time. Bear in mind, though, that if you delete these cookies, any settings such as your stored username and password or address will have to be reentered when you return to the Site.
 
-OPT OUT PROCEDURES  
-If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at privacy@fwpubs.com. To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing lists you wish to be removed. If you wish to be removed from all F+W emailing lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
+Further information on the use of cookies can be found at <http://www.cookiecentral.com/> and in your browser's Help documentation.  
+  
+**How We Use Your Information**
 
-Note that, although you can opt not to receive promotional emails, F+W retains the right to send registered users of its web sites informational email messages about the user’s account or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).
+We may use your information in a number of ways, including the following:
 
-If you do not wish to receive mail or telephone calls from us, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from our mailing list, or your telephone number to remove you from our call list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing or call lists you wish to be removed. If you wish to be removed from all F+W contact lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
+  * To fulfill orders, and communicate with you about them.
+  * To enable access to fee-based content areas of the Site.
+  * To customize the Site to your location or other characteristics.
+  * To send e-mail newsletters.
+  * To conduct statistical analysis and in-house research to improve the services on the Site.
+  * To track and target advertising.
+  * For marketing and promotional purposes. For example, we may send e-mail promotions to our customers that we think may interest them.
+  * To respond to queries, and alert you to important announcements about the Site's Terms & Conditions and Privacy Statement.
+  * To help us keep our Site compatible with the browsers and operating systems used by most of our visitors.
 
-If you do not wish for us to share your information with our trusted partners, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from a mailing list, or your email to remove you from an email list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used. Please allow a reasonable time for us to process your request.
 
-AD SERVERS  
-To bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-Burst Media: http://www.burstmedia.com/isl/index.asp?page=privacy  
-Google Inc. http://www.google.com/intl/en/privacy.html
+**Who We Share Your Information With**
 
-ANALYTICS  
-To determine how many users visit our site and to better understand the areas of greatest interest to our visitors, we have relationships with other companies that compile this information for us. As a result of your visit to our site, web analytics companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+SkyandTelescope.com does not share your personal information with non-affiliated third parties, except if it is required to do so by law or if Sky, in good faith, believes that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of the Site; or (4) protect the personal safety or property of our users or the public (for example, should you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
 
-Google Inc. http://www.google.com/intl/en/privacy.html  
-Omniture, Inc. http://www.omniture.com/privacy/product
+Sky may provide aggregate non-identifying statistical information about our customers, sales, Web site traffic patterns, and related Web-site information to our advertisers and other reputable third parties. However, these statistics do not include any personally identifying information.
 
-THIRD PARTY ADVERTISING TECHNOLOGIES  
-We use analytics tools and other third party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services.
+**Data Security**
 
-REMARKETING  
-F+W Media, Inc. (“F+W”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
+To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information collected on our site, we have put in place appropriate physical, electronic, and managerial procedures.
 
-The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
+SkyandTelescope.com uses Secure Socket Layer (SSL) technology, which encrypts all credit-card and billing information. This information is encrypted on your computer, travels through the Internet as jumbled code, and is decoded on our secure server. Your personal information cannot be read in transit. This ensures that no one outside of our professional billing staff will have access to this information.
 
-Google has additional information available about their [Remarketing Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465?rd=3) and [Policies ](http://support.google.com/adwords/answer/2549116?hl=en&from=178363&rd=1)
+**Children**
 
-OPT-OUT
+Protecting the privacy of children is important to us. The content on SkyandTelescope.com is appropriate for any age. We will not knowingly collect any personal information from children under 13. If we become aware that a child under the age of 13 has provided personally identifying information, we will promptly remove such information from our files. Although SkyandTelescope.com offers for sale astronomy books and products for children at Shop at Sky, our online store, only adults 18 and over may purchase these products.  
+  
+**Access to and Correction of Personal Information**
 
-You may opt out of the DoubleClick cookie by visiting the Google [advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+It is important to Sky that we have your correct and up-to-date contact information so that you don't miss out on further correspondence or experience problems with the delivery of products. To review, edit, or delete your personal information or your e-mail requirements simply click on the "My Profile" tab at the top of any page on the Site. Upon request, Sky will remove you and your personal information from our database lists, or correct personal information that you state is erroneous. Send correction or cancellation requests to [customerservice@SkyandTelescope.com](mailto:customerservice@SkyandTelescope.com).
 
-DOUBLECLICK’S REMARKETING PIXELS  
-You may opt out of DoubleClick’s remarketing pixels, by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout)  or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+**Opt Out**
 
-INFORMATION ACCESS  
-Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
+If you prefer not to receive communications from us either by e-mail, post mail, or by telephone, please let us know by calling us at 800-253-0245 (U.S.A., Canada) or +1 855-638-5388 (elsewhere), or sending an e-mail to [customerservice@SkyandTelescope.com](mailto:customerservice@SkyandTelescope.com).
 
-You can access this information by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+**Notification of Changes**
 
-Upon request we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+These guidelines are subject to change. Any such changes will be prominently posted on this page so users are aware of what information we collect and how we use it. If we decide to change our policy with respect to the use of personal information, we will post the changes on this page and notify those users who have provided us with their e-mail addresses electronically.
 
-SECURITY  
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site, and we employ security features generally accepted in the industry to protect the security of transactions made on our site. Transactions are protected via Secure Sockets Layer (SSL) technology. We require customers to identify themselves via a unique username and password to access their personal information.
+**Linked Web Sites**
 
-CHANGES TO THIS POLICY  
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site. We will also provide you with the ability to opt out of these new uses.
+SkyandTelescope.com provides links to many other Web sites that are not under our control. Linked Web sites are provided solely for the information and convenience of our visitors. SkyandTelescope.com is not responsible for the content or the information provided on linked Web sites or purchases made through them. Linked Web sites may contain privacy policies that differ from those of SkyandTelescope.com or no privacy policy at all. We urge you to read the applicable privacy policy whenever interacting with a linked Web site.
 
-If you believe that this site is not following its stated information policy, you may contact us at the above address, the DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, or state or local chapters of the Better Business Bureau.
+**Questions Regarding Our Privacy Policy**
 
-The effective date of this Policy is March 12, 2008.
+If you have any questions regarding this privacy policy or the practices described herein, you may contact:
+
+Customer Service  
+SkyandTelescope.com  
+90 Sherman St.  
+Cambridge, MA 02140 U.S.A.
+
+Telephone: +1 855-638-5388
+
+E-mail: [customerservice@SkyandTelescope.com](mailto:customerservice@SkyandTelescope.com)
