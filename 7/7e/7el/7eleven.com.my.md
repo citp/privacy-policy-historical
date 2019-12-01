@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7eleven.com.my privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623033104id_/http%3A//www.7eleven.com.my/privacy-policy%3Fpage%3Denglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7eleven.com.my privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201155208id_/http%3A//www.7eleven.com.my/privacy-policy%3Fpage%3Denglish) for the most accurate reproduction.*
 
 # 7-Eleven Malaysia | Always There For You
 
@@ -32,7 +32,7 @@ Contact information such as name, date of Birth, gender, race, NRIC documents, K
 
 How do we collect your personal information?
 
-We collect your personal information when you apply for a job by filling out our job application forms or in case of our customers/suppliers, when you fill one of the survey form/feedback form as a customer or when you register as one of our approved suppliers. For staff hired, we do collect additional information in form of family details and other information in the course of your employment with 7-Eleven Malaysia. 
+We collect your personal information when you apply for a job by filling out our job application forms or in case of our customers/suppliers, when you fill in one of the survey forms/feedback forms/contest forms as a customer or when you register as one of our approved suppliers. For staff hired, we do collect additional information in form of family details and other information in the course of your employment with 7-Eleven Malaysia. 
 
 Use of information we collect
 
