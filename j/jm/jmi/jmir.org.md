@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jmir.org privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330155647id_/https%3A//jmir.zendesk.com/hc/en-us/articles/360004220332) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jmir.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201134820id_/https%3A//jmir.zendesk.com/hc/en-us/articles/360004220332) for the most accurate reproduction.*
 
 # Privacy Policy – JMIR Publications
 
