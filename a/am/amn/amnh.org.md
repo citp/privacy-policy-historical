@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amnh.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418183826id_/https%3A//www.amnh.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amnh.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201102839id_/https%3A//www.amnh.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Museum of Natural History
 
@@ -114,7 +114,7 @@ Website
 
 American Museum of Natural History  
 200 Central Park West  
-New York, New York 10024-5192  
+New York, New York 10024-5102  
 [webmaster@amnh.org](mailto:webmaster@amnh.org)
 
 This policy was last updated November 30, 2018.
