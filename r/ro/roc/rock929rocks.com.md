@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rock929rocks.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601173642id_/http%3A//bbgi.com/wp-content/uploads/2017/04/Beasley-Privacy-Policy-As-Of-April-19-2017.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rock929rocks.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201171624id_/http%3A//bbgi.com/wp-content/uploads/2017/04/Beasley-Privacy-Policy-As-Of-April-19-2017.pdf) for the most accurate reproduction.*
 
 # 
 
