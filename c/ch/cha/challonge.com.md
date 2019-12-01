@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the challonge.com privacy policy that was archived on 2018-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181001165851id_/https%3A//challonge.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the challonge.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201113328id_/https%3A//challonge.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Challonge
 
-SplitmediaLabs Limited ("SplitmediaLabs," "we," "our" or "us") are the developers and publishers of xsplit.com, player.me, challonge.com and the XSplit Broadcaster, XSplit Gamecaster and Player.me Desktop applications. 
+Bettercast Limited ("Bettercast," "we," "our" or "us") are the developers and publishers of challonge.com. 
 
-This Privacy Policy describes how SplitmediaLabs Limited and its affiliates collect, use, and share information in connection with your use of our websites, services, and applications (collectively, the "Services"). 
+This Privacy Policy describes how Bettercast Limited and its affiliates collect, use, and share information in connection with your use of our websites, services, and applications (collectively, the "Services"). 
 
 We may collect and receive information about users of our Services ("users," "you," or "your") from various sources, including information you provide when you register for the Services and through your use of the Services. 
 
-We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or SplitmediaLabs' data collection, use, and disclosure practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+We recommend that you read this Privacy Policy in full to ensure you are fully informed. If you have any questions about this Privacy Policy or Bettercast's data collection, use, and disclosure practices, please contact us at privacy@challonge.com. 
 
 #### Information we may collect from you and how we use it
 
@@ -73,7 +73,7 @@ We may share "Aggregate Information" with third parties, Aggregate Information m
 
 #### Data retention and deletion
 
-We retain your personally identifiable information only as long as you wish to maintain a user account for the Services. You may delete your account for the Services at any time through the user settings of the Services, or by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) When you delete your account for the Services, we will anonymize or delete all your personally identifiable information unless otherwise required by law. 
+We retain your personally identifiable information only as long as you wish to maintain a user account for the Services. You may delete your account for the Services at any time through the user settings of the Services, or by contacting us at privacy@challonge.com. When you delete your account for the Services, we will anonymize or delete all your personally identifiable information unless otherwise required by law. 
 
 #### Data access and correction
 
@@ -83,7 +83,7 @@ Also, you can ask us to stop sending you marketing messages at any time by follo
 
 #### International Data Transfer (For EU users)
 
-The information that we collect from you may be transferred to, and stored at servers outside of the European Economic Area ("EEA"). It may also be processed by staff of SplitmediaLabs or our subsidiaries, operating outside the EEA. By accepting this Privacy Policy, you agree to this transfer, storing or processing in countries outside of the EEA where we operate. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
+The information that we collect from you may be transferred to, and stored at servers outside of the European Economic Area ("EEA"). It may also be processed by staff of Bettercast or our subsidiaries, operating outside the EEA. By accepting this Privacy Policy, you agree to this transfer, storing or processing in countries outside of the EEA where we operate. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
 #### Security
 
@@ -95,11 +95,11 @@ You must be at least 13 years old to use our Services or such minimum required a
 
 If we learn that personally identifiable information of persons less than 13-years-of-age or less than the age required in their country, has been collected on or through the Services, we will take the appropriate steps to delete this information and delete the child’s account for the Services. 
 
-If you have knowledge of use of the Services by a child under 13 or under the age required for using the Services in your country, then please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) to have that child’s account terminated and information deleted. 
+If you have knowledge of use of the Services by a child under 13 or under the age required for using the Services in your country, then please contact us at privacy@challonge.com to have that child’s account terminated and information deleted. 
 
 #### In the Event of Merger or Sale
 
-In the event that SplitmediaLabs or assets related to the Services are acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users as part of that merger, acquisition, sale, or other change of control. 
+In the event that Bettercast or assets related to the Services are acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users as part of that merger, acquisition, sale, or other change of control. 
 
 #### Changes to policy
 
@@ -107,6 +107,6 @@ This Privacy Policy may be modified from time to time, so please review it frequ
 
 #### Contact us
 
-You may contact our Data Protection Officer at any time by sending an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+You may contact our Data Protection Officer at any time by sending an email to privacy@challonge.com 
 
 This privacy policy is valid and in effect from May 25, 2018. Click [here](https://web.archive.org/privacy_policy_before_2018-05-25) to see the old Privacy Policy, which this Privacy Policy replaces. 
