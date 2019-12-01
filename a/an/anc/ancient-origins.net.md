@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancient-origins.net privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627211534id_/https%3A//www.ancient-origins.net/privacy-policy-002939) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancient-origins.net privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201120532id_/https%3A//www.ancient-origins.net/privacy-policy-002939) for the most accurate reproduction.*
 
 # Privacy Policy | Ancient Origins
 
