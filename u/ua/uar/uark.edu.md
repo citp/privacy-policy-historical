@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uark.edu privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601145620id_/https%3A//www.uark.edu/privacy-policy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uark.edu privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201145021id_/https%3A//www.uark.edu/privacy-policy/index.php) for the most accurate reproduction.*
 
 # Website Privacy Policy | University of Arkansas
 
@@ -127,9 +127,9 @@ The university adheres to all applicable federal and state laws, as well as gene
 
 ## University Policies
 
-  * [University of Arkansas Policies and Procedures](https://vcfa.uark.edu/policies/fayetteville/)
-  * [University of Arkansas Board of Trustee Policies](http://www.uasys.edu/leadership/board-of-trustees/board-policies/)
-  * [IT Services Computing Policies](https://its.uark.edu/policies/index.php)
+  * [University of Arkansas Policies and Procedures](https://vcfa.uark.edu/fayetteville-policies-procedures/)
+  * [University of Arkansas Board of Trustee Policies](https://www.uasys.edu/leadership/board-of-trustees/board-policies/)
+  * [IT Services Computing Policies](https://its.uark.edu/about/policies/index.php)
 
 
 
