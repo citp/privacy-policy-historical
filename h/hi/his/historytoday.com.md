@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630054626id_/https%3A//www.historytoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historytoday.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201222449id_/https%3A//www.historytoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | History Today
 
