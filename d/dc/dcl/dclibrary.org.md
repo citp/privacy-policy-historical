@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dclibrary.org privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410232207id_/https%3A//www.dclibrary.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dclibrary.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201133943id_/https%3A//www.dclibrary.org/privacy) for the most accurate reproduction.*
 
 # Privacy and Security | District of Columbia Public Library
 
