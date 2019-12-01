@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626182052id_/https%3A//www.earthday.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201204233id_/https%3A//www.earthday.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth Day Network
 
 Earth Day Network respects your right to privacy. Earth Day Network will only collect Personal Information (defined below) that you voluntarily provide to us and will only disclose it or use it for purposes as disclosed in this Privacy Policy or as disclosed by us at the time information is requested from you.
 
-You understand that Earth Day Network will collect and store the data provided in order to communicate with you about our programs and campaigns and that the data will be hosted by Salsa Labs for these purposes. You understand that Earth Day Network is based in the United States and that the European Commission does not consider United States laws to provide an adequate level of data protection. You understand that your consent is the lawful basis for transfer of my personal data to the United States and that you can withdraw your consent at any time. You also understand that the transfer of your personal data to the United States in the absence of adequate protection and without safeguards deemed appropriate by the European Commission may pose certain risks, including that United States law may not provide for data processing principles, data subject rights, or enforcement of those rights analogous to those in the European Union.
+You understand that Earth Day Network will collect and store the data provided in order to communicate with you about our programs and campaigns and that the data will be hosted by Salsa Labs & NationBuilder for these purposes. You understand that Earth Day Network is based in the United States and that the European Commission does not consider United States laws to provide an adequate level of data protection. You understand that your consent is the lawful basis for transfer of your personal data to the United States and that you can withdraw your consent at any time. You also understand that the transfer of your personal data to the United States in the absence of adequate protection and without safeguards deemed appropriate by the European Commission may pose certain risks, including that United States law may not provide for data processing principles, data subject rights, or enforcement of those rights analogous to those in the European Union.
 
 **Personal Information**
 
@@ -56,7 +56,7 @@ If you or your organization wishes to be removed as an endorser of any Earth Day
 
 
 
-To register your event, you must complete the information and forms at <https://www.earthday.org/earth-day-2018-event-registration-organizations/>. By registering, you agree that we may publish this information on our website and in any events calendar, but will not publish names of individual contacts without the express permission of the individual involved.
+To register your event, you must complete the information and forms at (TBD). By registering, you agree that we may publish this information on our website and in any events calendar, but will not publish names of individual contacts without the express permission of the individual involved.
 
 If you wish to have your event removed from our website, please email info@earthday.org
 
