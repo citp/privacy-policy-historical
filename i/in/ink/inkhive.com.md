@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inkhive.com privacy policy that was archived on 2018-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180905202716id_/https%3A//inkhive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkhive.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201153708id_/https%3A//inkhive.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - InkHive.com
 
-This Privacy Policy governs the manner in which InkHive collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://inkhive.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by InkHive.
+This Privacy Policy governs the manner in which InkHive collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://inkhive.com/](https://inkhive.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by InkHive.
 
 **Personal identification information**
 
@@ -53,12 +53,12 @@ InkHive has the discretion to update this privacy policy at any time. When we do
 
 **Your acceptance of these terms**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://inkhive.com/license/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](https://inkhive.com/license/). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[InkHive](http://inkhive.com/) Designs Pvt Lt  
+[InkHive](https://inkhive.com/) Designs Pvt Lt  
 #214, 2nd Floor, SCO 156-160, Sector 8C, Madhya Marg, Chandigarh, India  
 [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
