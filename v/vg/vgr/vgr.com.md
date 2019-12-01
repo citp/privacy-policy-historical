@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgr.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330142310id_/https%3A//www.vgr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgr.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201190636id_/https%3A//www.vgr.com/privacy-policy) for the most accurate reproduction.*
 
 # View Our Privacy Policy
 
