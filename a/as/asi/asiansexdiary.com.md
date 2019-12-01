@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asiansexdiary.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525000908id_/https%3A//asiansexdiary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asiansexdiary.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201135440id_/https%3A//asiansexdiary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Asian Sex Diary ™
 
@@ -154,4 +154,4 @@ We use Google Analytics to measure traffic on our website. Google has their own 
 We reserve the right to make change to this Privacy Policy.  
 Last modification was made 25 May 2018.
 
-###  Please identify yourself via e-mail 
+[gdpr_privacy_tools]
