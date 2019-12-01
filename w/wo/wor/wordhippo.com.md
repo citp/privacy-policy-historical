@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordhippo.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326152540id_/https%3A//www.wordhippo.com/what-is/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordhippo.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201153459id_/https%3A//www.wordhippo.com/what-is/info/privacy.html) for the most accurate reproduction.*
 
 # WordHippo
 
