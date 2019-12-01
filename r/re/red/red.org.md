@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the red.org privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601141510id_/https%3A//www.red.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201103422id_/https%3A//www.red.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — (RED)
 
@@ -23,7 +23,7 @@ We are committed to protecting the privacy and security of key stakeholders, bus
 
 While ONE operates multiple corporate entities, those entities share offices, staff, and a common mission.  As such, data received and processed by us may be shared across the corporate entities and geographies described above.
 
-(RED)  is located in the United States and maintains its primary website servers there. As such, any information you provide or have provided will be transferred from your country of residence to (RED)’s servers in the US.
+(RED) is located in the United States and maintains its primary website servers there. As such, any information you provide or have provided will be transferred from your country of residence to (RED)’s servers in the US.
 
 ## Privacy Policy
 
