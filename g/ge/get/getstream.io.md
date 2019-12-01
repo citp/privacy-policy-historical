@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getstream.io privacy policy that was archived on 2018-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181206121155id_/https%3A//getstream.io/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getstream.io privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201143846id_/https%3A//getstream.io/legal/privacy) for the most accurate reproduction.*
 
 # Privacy | API for building activity streams and news feeds
 
@@ -12,7 +12,7 @@ When you visit the Websites, web servers collect information about your visit (k
 
 ### Personally Identifiable Information
 
-Personally identifiable information (“PII”) is information that can be used to identify an individual user, for example, a person’s name, home address, email address or phone number. We also, through third party services, collect billing information such as credit card number. We receive and store any PII users enter on our Websites, send to us in an email or voluntarily provide to us in any other way. We may also collect PII that is necessary to fulfill Stream.io’s legitimate interests, which will be described to you at the time of collection. We will use this information for the purposes of which it was collected.
+Personally identifiable information (“PII”) is information that can be used to identify an individual user, for example, a person’s name, home address, email address or phone number. We also, through third party services, collect billing information such as credit card number. We receive and store any PII users enter on our Websites, send to us in an email or voluntarily provide to us in any other way. We may also collect PII that is necessary to fulfill Stream.io’s legitimate interests, which will be described to you at the time of collection. WE will use this information for the purposes of which it was collected.
 
 ### PII Collected for Website Registration
 
@@ -59,7 +59,7 @@ When you send e-mail or other communications to Stream.io, we may retain those c
 
 ### Choice/Opt-Out
 
-You may choose to stop receiving marketing emails or other informational emails from us by following the unsubscribe instructions included in these emails or you can contact us at [support@getstream.io](mailto:support@getstream.io). If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your account with us (if you have one) and our business dealings with you.
+You may choose to stop receiving marketing emails or other informational emails from us by following the unsubscribe instructions included in these emails or you can contact us at [legal@getstream.io](mailto:legal@getstream.io). If you opt out, we may still send you non-marketing emails. Non-marketing emails include emails about your account with us (if you have one) and our business dealings with you.
 
 ### Information Sharing
 
@@ -92,25 +92,39 @@ We may update this privacy policy to reflect changes to our information practice
 
 As a registered user of the Websites, you can modify or delete some of the PII you have included in your profile by logging in and accessing your account. You cannot, however, change your username once you have registered. Upon your request, Stream.io will use commercially reasonable efforts to delete your account and the PII in your profile; however, it may be impossible to remove your account without some residual information being retained by Stream.io. We will respond to your request to access within 30 days. We may withhold information where the search for that information would require disproportionate effort or have a disproportionate effect to, for example, the cost of providing the information, the time it would take to retrieve the data, or how difficult it may be to obtain the information requested. To exercise your rights under these provisions, please contact us at the “Contact” details below. When we receive your requests, we may ask you to verify your identity before we can act on your request.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@getstream.io](mailto:support@getstream.io). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [legal@getstream.io](mailto:legal@getstream.io). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Notice to Residents of the European Economic Area
 
 In accordance with applicable data protection laws, you may have the right to request: access to, rectification, and erasure of your PII; restriction of processing of PII; objecting to certain processing of PII; and the right to data portability. Where any processing of PII is solely dependent upon your consent, you have the right to withdraw such consent at any time. Where you believe that we have not processed your PII in accordance with applicable data protection laws, you may lodge a complaint with the respective supervisory authority or data protection regulator. The provision of PII by you will be for contractual, marketing, or analytical purposes as referred to in this Privacy Policy. If we do not have access to such PII from you, then we will not be able to undertake certain Services for you.
 
-### International Operations
+### Cross-Border Transfer of PII
 
-Stream.io is based in the United States of America. If you are from a country outside of the United States of America with laws governing data collection, use, and disclosure that may differ from U.S. law and you provide PII to us, please note that any PII that you provide to us may be transferred to the United States of America. By providing your PII, you hereby specifically and expressly consent to such transfer and processing and the collection, use, and disclosure set forth herein or in any terms and conditions related to the use of and access to the Website or Services.
+Stream.io is based in the United States of America. If you are from a country outside of the United States of America with laws governing data collection, use, and disclosure that may differ from U.S. law and you provide PII to us, please note that any PII that you provide to us may be transferred to the United States of America. By providing your PII, where applicable law permits, you hereby specifically and expressly consent to such transfer and processing and the collection, use, and disclosure set forth herein or in any terms and conditions related to the use of and access to the Website or Services.
+
+Stream.io safeguards and enables the global transfer of PII in a number of ways. The following describes some of the protections that are taken with regard to data originating from certain countries:
+
+  * _EU-U.S. Privacy Shield:_  Stream.io adheres to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Framework concerning the transfer of PII from the European Union and Switzerland to the United States. Accordingly, we follow the EU-U.S. Privacy Shield Principles published by the U.S. Department of Commerce (“Privacy Shield Principles”) with respect to all such data. Stream.io complies with the Privacy Shield Principles for all onward transfers of PII from the EU and Switzerland, including the onward transfer liability provisions. We specify in contracts with service providers that handle the PII collected by Stream.io that the information "may only be processed for limited and specified purposes consistent with" the purposes laid out in this Privacy Policy. Those third parties agree to provide the same level of protection as the Privacy Shield Principles. In certain situations, if a third party that receives PII from us takes an action that is contrary to the principles of the Privacy Shield Principles, we will be liable for those actions unless we can prove that we are not responsible for causing such liability. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. Compliance with the Privacy Shield Principles may be limited, however, in certain cases to the extent necessary to meet national security, public interest, or law enforcement requirements. All Stream.io personnel with access to PII are obligated to familiarize themselves and comply with provisions of this Privacy Policy. To learn more about the EU-U.S. and Swiss-U.S. Privacy Shield Framework, and to view the our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). A violation of our commitment to EU-U.S. and Swiss-U.S. Privacy Shield Framework may be investigated by the Federal Trade Commission. With respect to PII received or transferred pursuant to the EU-U.S. and Swiss-U.S. Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+
+
+
+### Dispute Resolution
+
+In compliance with the Privacy Shield Principles, Stream.io commits to resolve complaints about your privacy and our collection or use of your PII.  EU individuals with questions or concerns about our use of PII or our Privacy Policy should submit a written request to us using the information in the “Contacts” section below.
+
+If your question or concern is not satisfied through this process we are further committed to refer unresolved Privacy Shield complaints to JAMS, an independent dispute resolution provider located in the United States.  Information about how to file a complaint with JAMS related to our Privacy Shield program can be found at <https://www.jamsadr.com/eu-us-privacy-shield>. The services of JAMS are provided at no cost to you.  Under certain circumstances, EU individuals may seek redress from the Privacy Shield Panel, a binding arbitration mechanism.
+
+Stream.io commits to cooperate with EU data protection authorities (DPAs) and comply with the advice given by such authorities with regard to human resources data transferred from the EU in the context of the employment relationship. We have further committed to cooperate with the panel established by the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from Switzerland in the context of the employment relationship.
 
 ### Blogs
 
 Our Website may offer publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-To request removal of your PII from our blog or community forum, contact us at [support@getstream.io](mailto:support@getstream.io). In some cases, we may not be able to remove your PII, in which case we will let you know if we are unable to do so and why.
+To request removal of your PII from our blog or community forum, contact us at[ legal@getstream.io](mailto:legal@getstream.io). In some cases, we may not be able to remove your PII, in which case we will let you know if we are unable to do so and why.
 
 ### Testimonials
 
-We may display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@getstream.io](mailto:support@getstream.io).
+We may display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [legal@getstream.io](mailto:legal@getstream.io).
 
 ### Links to Other Websites
 
@@ -134,6 +148,6 @@ Stream.io will retain personal data we process on behalf of our Customers for as
 
 ### Contacts
 
-If you have any comments, concerns or questions about this Privacy Policy, send us an email at [support@getstream.io](mailto:support@getstream.io)
+If you have any comments, concerns or questions about this Privacy Policy, send us an email at [legal@getstream.io](mailto:legal@getstream.io).
 
-Last Updated on May 31, 2018
+Last Updated on May 15, 2019
