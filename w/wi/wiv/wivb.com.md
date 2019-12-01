@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wivb.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629130323id_/https%3A//www.wivb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wivb.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201160927id_/https%3A//www.wivb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | News 4 Buffalo
 
