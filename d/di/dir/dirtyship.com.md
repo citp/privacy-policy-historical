@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dirtyship.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623013906id_/http%3A//dirtyship.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtyship.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201091055id_/http%3A//dirtyship.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – DirtyShip.com
+# Privacy Policy
 
-This Privacy Policy governs the manner in which DirtyShip.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://dirtyship.com/> website (“Site”).
+This Privacy Policy governs the manner in which DirtyShip.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the <https://dirtyship.com/> website (“Site”).
 
 ### Personal identification information
 
