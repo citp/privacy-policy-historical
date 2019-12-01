@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the giganews.com privacy policy that was archived on 2018-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20181203084227id_/https%3A//www.giganews.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giganews.com privacy policy that was archived on 2019-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191201084335id_/https%3A//www.giganews.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en" style="" class=" js flexbox rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent boxsizing mediaqueries lastchild pointerevents cssresize placeholder formvalidation"><head>
   <title>Privacy Policy - Giganews</title>
@@ -28,11 +28,12 @@
   <!--[if lt IE 9]>
   <link rel="stylesheet" href="/styles/ie/gn.css" title="Giganews" type="text/css" />
   <![endif]-->
+  <link href="https://fonts.googleapis.com/css?family=Oleo+Script" rel="stylesheet">
   <link rel="stylesheet" href="/styles/gn-responsive.css" type="text/css">
   <script src="//bat.bing.com/bat.js" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NHL6BZ5"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/modernizr.custom.min.js"></script>
   <script type="text/javascript" src="https://use.typekit.com/lav7mbm.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script type="text/javascript" src="/js/cookie.js"></script>
   <script type="text/javascript" src="/js/util.js"></script>
   <script type="text/javascript" src="/js/form_disabler.js"></script>
@@ -110,7 +111,7 @@
   // ]]></script>
 </head>
 
-<body class="layout-en">
+<body class="s-layout layout-en">
 <!--UdmComment-->
 
 <!-- LOGIN CLICK DROPDOWN -->
@@ -194,13 +195,33 @@
       e.preventDefault();
 
       $('#gnNav').toggleClass( 'hide-on-med' );
+
+      //
+      //  RFE: add logic to handle 'add_transparent_header' CSS side-effects
+      //    
+      //    - addClass for each page with 'add_transparent_header'.
+      //
+      var urlpath = window.location.pathname;
+
+      console.log( urlpath );
+
+      if ( urlpath === "/" ){
+        $('#gnHeader').toggleClass('u-transparent-header--home');
+      }
+      if ( urlpath === "/usenet-special/" ) {
+        $('#gnHeader').toggleClass('u-transparent-header--usenet-special');
+      }
+      if ( urlpath === "/usenet-reactivation-special/" ) {
+        $('#gnHeader').toggleClass('u-transparent-header--usenet-reactivation-special');
+      }
+
     });
   });
 </script>
 <!--END OF RESPONSIVE NAV-->
 
 <!-- HEADER -->
-<div id="gnHeader" class="">
+  <div id="gnHeader" class="">
   <div class="container clearfix">
     <a id="gnLogo" title="Giganews" href="/">
       <img class="hide-on-med" src="/images/giganews_logo.png" alt="Usenet Newsgroups by Giganews">
@@ -284,7 +305,7 @@
 </div>
 
 <!-- END OF HEADER -->
-<div id="mainBody">
+  <div id="mainBody">
 
 
 
@@ -399,7 +420,7 @@ for (var i in pages_for_no_chat) {
 }
 
 if ( is_page_for_chat ) {
-  $.getScript('/js/snapengage.js');
+  $.getScript('/js/chat-widget.js');
 }
 
 });
@@ -500,8 +521,8 @@ if ( is_page_for_chat ) {
   <h3>What People are Saying</h3>
   <blockquote class="testimonial">
     <p>
-    I love the price, the simplicity and the damn cool Mimo. And the VPN! Oh my gosh, the VPN is the deal breaker!
-    <cite>Zhiva - Bærum, Norway</cite>
+    I love the security features! You're awesome :-)
+    <cite>Dominik - Berlin, Germany</cite>
     </p>
   </blockquote>
   <span id="triangle"></span>
@@ -631,7 +652,7 @@ if ( is_page_for_chat ) {
       </div>
     </div>
     <p class="gnCopyright">
-      Giganews® and the Giganews logo are registered trademarks of Giganews, Inc. ©2018 Giganews, Inc.<br> United States
+      Giganews® and the Giganews logo are registered trademarks of Giganews, Inc. ©2019 Giganews, Inc.<br> United States
     </p>
   </div>
 </div>
