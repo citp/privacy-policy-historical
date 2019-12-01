@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qbp.com privacy policy that was archived on 2019-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190402042652id_/https%3A//qbp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbp.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201161818id_/https%3A//www.qbp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Quality Bicycle Products
 
