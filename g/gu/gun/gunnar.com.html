@@ -1,0 +1,567 @@
+<!--The following is the downloaded HTML source of the gunnar.com privacy policy that was archived on 2019-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191201171456id_/https%3A//gunnar.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PVB4L5C"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"5f3836bdd7",applicationID:"328857986"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
+
+ <noscript> <iframe src="//nojscontainer.pepperjam.com/3577912814.html" width="1" height="1" frameborder="0"></iframe> </noscript> <script> (function(){ var a=document.createElement("script"); a.type="text/javascript", a.async=!0, a.src="//container.pepperjam.com/3577912814.js"; var b=document.getElementsByTagName("head")[0]; if(b) b.appendChild(a,b); else { var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b) } })(); </script><script type="text/javascript" async="" src="//container.pepperjam.com/3577912814.js"></script> 
+<link type="text/css" media="all" href="//gunnar.com/wp-content/cache/autoptimize/css/autoptimize_da5a3d61738a577b00f431a21aae740a.css" rel="stylesheet"><title>Privacy Policy - GUNNAR</title>
+<style type="text/css">
+		</style>
+<style type="text/css" data-type="vc_custom-css">h5 {
+margin-block-start: .67em;
+    margin-block-end: .67em;
+}</style><style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1543819234439{padding-top: 2% !important;padding-bottom: 2% !important;background-image: url(https://gunnar.com/wp-content/uploads/2018/10/gunnar-sun-30day.jpg?id=200088) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}</style>
+
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+	var gtm4wp_use_sku_instead        = 0;
+	var gtm4wp_id_prefix              = 'woocommerce_gpf_';
+	var gtm4wp_remarketing            = 1;
+	var gtm4wp_eec                    = 1;
+	var gtm4wp_classicec              = false;
+	var gtm4wp_currency               = 'USD';
+	var gtm4wp_product_per_impression = 12;
+//]]>
+</script>
+
+
+<meta name="description" content="Learn more about GUNNAR Optiks privacy policy here.">
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://gunnar.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - GUNNAR">
+<meta property="og:description" content="Learn more about GUNNAR Optiks privacy policy here.">
+<meta property="og:url" content="https://gunnar.com/privacy-policy/">
+<meta property="og:site_name" content="GUNNAR Computer Eyewear">
+<meta property="article:publisher" content="https://www.facebook.com/GUNNAROptiks/">
+<meta property="fb:app_id" content="1530878590">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Learn more about GUNNAR Optiks privacy policy here.">
+<meta name="twitter:title" content="Privacy Policy - GUNNAR">
+<meta name="twitter:site" content="@GUNNAROptiks">
+<meta name="twitter:creator" content="@GUNNAROptiks">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://gunnar.com/#organization","name":"GUNNAR Optiks","url":"https://gunnar.com/","sameAs":["https://www.facebook.com/GUNNAROptiks/","https://www.instagram.com/gunnaroptiks/","https://www.linkedin.com/company/gunnar-optiks","https://www.youtube.com/user/gunnaroptiks","https://www.pinterest.com/gunnaroptiks/","https://twitter.com/GUNNAROptiks"],"logo":{"@type":"ImageObject","@id":"https://gunnar.com/#logo","url":"https://gunnar.com/wp-content/uploads/2015/05/gunnar-logo.png","width":300,"height":63,"caption":"GUNNAR Optiks"},"image":{"@id":"https://gunnar.com/#logo"}},{"@type":"WebSite","@id":"https://gunnar.com/#website","url":"https://gunnar.com/","name":"GUNNAR Computer Eyewear","publisher":{"@id":"https://gunnar.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://gunnar.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://gunnar.com/privacy-policy/#webpage","url":"https://gunnar.com/privacy-policy/","inLanguage":"en-US","name":"Privacy Policy - GUNNAR","isPartOf":{"@id":"https://gunnar.com/#website"},"datePublished":"2018-03-23T02:04:30+00:00","dateModified":"2018-12-02T22:40:35+00:00","description":"Learn more about GUNNAR Optiks privacy policy here."}]}</script>
+
+<script type="text/javascript">console.log('PixelYourSite PRO version 7.3.7');</script>
+<link rel="dns-prefetch" href="//widget.trustpilot.com">
+<link rel="dns-prefetch" href="//static.fittingbox.com">
+<link rel="dns-prefetch" href="//chimpstatic.com">
+<link rel="dns-prefetch" href="//a.opmnstr.com">
+<link rel="dns-prefetch" href="//js.braintreegateway.com">
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="GUNNAR Computer Eyewear » Feed" href="https://gunnar.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="GUNNAR Computer Eyewear » Comments Feed" href="https://gunnar.com/comments/feed/">
+
+<script data-cfasync="false" data-pagespeed-no-defer="" type="text/javascript">//<![CDATA[
+var google_tag_params = {"pagePostType":"page","pagePostType2":"single-page","browserName":"Archive.org","browserVersion":"","browserEngineName":"","browserEngineVersion":"","osName":"","osVersion":"","deviceType":"bot","deviceManufacturer":"","deviceModel":"","customerTotalOrders":0,"customerTotalOrderValue":"0.00","customerFirstName":"","customerLastName":"","customerBillingFirstName":"","customerBillingLastName":"","customerBillingCompany":"","customerBillingAddress1":"","customerBillingAddress2":"","customerBillingCity":"","customerBillingPostcode":"","customerBillingCountry":"","customerBillingEmail":"","customerBillingPhone":"","customerShippingFirstName":"","customerShippingLastName":"","customerShippingCompany":"","customerShippingAddress1":"","customerShippingAddress2":"","customerShippingCity":"","customerShippingPostcode":"","customerShippingCountry":"","ecomm_pagetype":"other"};
+	var dataLayer_content = {"visitorEmail":"","pagePostType":"page","pagePostType2":"single-page","browserName":"Archive.org","browserVersion":"","browserEngineName":"","browserEngineVersion":"","osName":"","osVersion":"","deviceType":"bot","deviceManufacturer":"","deviceModel":"","customerTotalOrders":0,"customerTotalOrderValue":"0.00","customerFirstName":"","customerLastName":"","customerBillingFirstName":"","customerBillingLastName":"","customerBillingCompany":"","customerBillingAddress1":"","customerBillingAddress2":"","customerBillingCity":"","customerBillingPostcode":"","customerBillingCountry":"","customerBillingEmail":"","customerBillingPhone":"","customerShippingFirstName":"","customerShippingLastName":"","customerShippingCompany":"","customerShippingAddress1":"","customerShippingAddress2":"","customerShippingCity":"","customerShippingPostcode":"","customerShippingCountry":"","ecomm_pagetype":"other","google_tag_params":window.google_tag_params};
+	dataLayer.push( dataLayer_content );//]]>
+</script>
+<script data-cfasync="false">//<![CDATA[
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.'+'js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PVB4L5C');//]]>
+</script>
+
+<meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Privacy Policy"><meta name="twitter:url" content="https://gunnar.com/privacy-policy/">
+<link rel="stylesheet" id="jquery-style-css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://gunnar.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css' type='text/css' media='screen' />
+<![endif]-->
+<link rel="stylesheet" id="gunnars-google-fonts-css" href="https://fonts.googleapis.com/css?family=Montserrat%3A300%2C400%2C700%2C900%7COpen+Sans%3A400%2C700&amp;display=fallback" type="text/css" media="all">
+<style id="gunnars-style-inline-css" type="text/css">
+@font-face {
+			font-family: "star";
+			src: url("https://gunnar.com/wp-content/plugins/woocommerce/assets/fonts/star.eot");
+			src: url("https://gunnar.com/wp-content/plugins/woocommerce/assets/fonts/star.eot?#iefix") format("embedded-opentype"),
+				url("https://gunnar.com/wp-content/plugins/woocommerce/assets/fonts/star.woff") format("woff"),
+				url("https://gunnar.com/wp-content/plugins/woocommerce/assets/fonts/star.ttf") format("truetype"),
+				url("https://gunnar.com/wp-content/plugins/woocommerce/assets/fonts/star.svg#star") format("svg");
+			font-weight: normal;
+			font-style: normal;
+		}
+</style>
+<script type="text/javascript" src="https://gunnar.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var trustpilot_settings = {"key":"rDQZqos9TZ3Lxcuk","TrustpilotScriptUrl":"https:\/\/invitejs.trustpilot.com\/tp.min.js","IntegrationAppUrl":"\/\/ecommscript-integrationapp.trustpilot.com","PreviewScriptUrl":"\/\/ecommplugins-scripts.trustpilot.com\/v2.1\/js\/preview.js","PreviewCssUrl":"\/\/ecommplugins-scripts.trustpilot.com\/v2.1\/css\/preview.css","PreviewWPCssUrl":"\/\/ecommplugins-scripts.trustpilot.com\/v2.1\/css\/preview_wp.css","WidgetScriptUrl":"\/\/widget.trustpilot.com\/bootstrap\/v5\/tp.widget.bootstrap.min.js"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_sa_opt = {"i18_prompt_cancel":"Are you sure you want to cancel this order?","i18_prompt_change":"Are you sure you want to change the status of this order?"};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/gunnar.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type="text/javascript" data-cfasync="false" id="omapi-script" async="async" src="https://a.opmnstr.com/app/js/api.min.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pysOptions = {"staticEvents":{"facebook":{"PageView":[{"params":[],"delay":0,"ids":[]}],"GeneralEvent":[{"params":{"post_type":"page","post_id":"185271","content_name":"Privacy Policy"},"delay":0,"ids":[]}]},"google_ads":{"page_view":[{"params":{"items":[{"id":"185271","google_business_vertical":"custom"}]},"delay":0,"ids":[]}],"GeneralEvent":[{"params":{"post_type":"page","post_id":"185271","content_name":"Privacy Policy"},"delay":0,"ids":[]}]}},"dynamicEventsParams":[],"dynamicEventsTriggers":[],"facebook":{"pixelIds":["455129931328034"],"advancedMatching":[],"removeMetadata":false,"contentParams":{"post_type":"page","post_id":185271,"content_name":"Privacy Policy"},"clickEventEnabled":true,"watchVideoEnabled":true,"adSenseEventEnabled":true,"commentEventEnabled":true,"formEventEnabled":true,"downloadEnabled":true,"wooVariableAsSimple":false},"google_ads":{"conversion_ids":[""],"clickEventEnabled":true,"watchVideoEnabled":true,"commentEventEnabled":true,"formEventEnabled":true,"downloadEnabled":true},"debug":"","siteUrl":"https:\/\/gunnar.com","ajaxUrl":"https:\/\/gunnar.com\/wp-admin\/admin-ajax.php","commonEventParams":{"domain":"gunnar.com","user_roles":"guest","plugin":"PixelYourSite"},"clickEventEnabled":"1","adSenseEventEnabled":"1","watchVideoEnabled":"1","commentEventEnabled":"1","formEventEnabled":"1","downloadEventEnabled":"1","downloadExtensions":["","doc","exe","js","pdf","ppt","tgz","zip","xls"],"trackUTMs":"1","trackTrafficSource":"1","postType":"page","gdpr":{"ajax_enabled":false,"all_disabled_by_api":false,"facebook_disabled_by_api":false,"analytics_disabled_by_api":false,"google_ads_disabled_by_api":false,"pinterest_disabled_by_api":false,"bing_disabled_by_api":false,"facebook_prior_consent_enabled":true,"analytics_prior_consent_enabled":true,"google_ads_prior_consent_enabled":true,"pinterest_prior_consent_enabled":true,"bing_prior_consent_enabled":true,"cookiebot_integration_enabled":false,"cookiebot_facebook_consent_category":"marketing","cookiebot_analytics_consent_category":"statistics","cookiebot_google_ads_consent_category":"marketing","cookiebot_pinterest_consent_category":"marketing","cookiebot_bing_consent_category":"marketing","ginger_integration_enabled":false,"cookie_notice_integration_enabled":false,"cookie_law_info_integration_enabled":false},"woo":{"enabled":true,"addToCartOnButtonEnabled":false,"addToCartOnButtonValueEnabled":false,"addToCartOnButtonValueOption":"price","singleProductId":null,"removeFromCartEnabled":true,"affiliateEnabled":true,"payPalEnabled":true,"removeFromCartSelector":"form.woocommerce-cart-form .remove","checkoutProgressEnabled":false,"affiliateEventName":"Lead","paypalEventName":"AddPaymentInfo"},"edd":{"enabled":false,"addToCartOnButtonEnabled":true,"addToCartOnButtonValueEnabled":false,"addToCartOnButtonValueOption":"price","removeFromCartEnabled":true}};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wbcr_clearfy_async_links = {"wbcr_clearfy-font-awesome":"https:\/\/gunnar.com\/wp-content\/plugins\/woo-product-social-sharing\/public\/css\/fa\/css\/font-awesome.min.css"};
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://gunnar.com/wp-json/">
+<meta name="generator" content="WordPress 5.2.4">
+<meta name="generator" content="WooCommerce 3.8.0">
+<link rel="preload" crossorigin="anonymous" href="/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888" as="font">
+
+<script type="text/javascript">
+	window.__lc = window.__lc || {};
+	window.__lc.license = 5376851;
+	window.__lc.visitor = {
+		name: '',
+		email: ''
+	};
+	(function() {
+		var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+		lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+	})();
+</script>
+<noscript>
+<a href="https://www.livechatinc.com/chat-with/5376851/">Chat with us</a>,
+powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener" target="_blank">LiveChat</a>
+</noscript><meta name="referrer" content="always"> <link rel="apple-touch-icon" sizes="180x180" href="https://gunnar.com/wp-content/themes/gunnars/assets/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://gunnar.com/wp-content/themes/gunnars/assets/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://gunnar.com/wp-content/themes/gunnars/assets/favicons/favicon-16x16.png">
+<link rel="manifest" href="https://gunnar.com/wp-content/themes/gunnars/assets/favicons/site.webmanifest">
+<link rel="mask-icon" href="https://gunnar.com/wp-content/themes/gunnars/assets/favicons/safari-pinned-tab.svg" color="#cf3339">
+<link rel="shortcut icon" href="https://gunnar.com/wp-content/themes/gunnars/assets/favicons/favicon.ico">
+<meta name="apple-mobile-web-app-title" content="Gunnar">
+<meta name="application-name" content="Gunnar">
+<meta name="msapplication-TileColor" content="#b91d47">
+<meta name="msapplication-config" content="https://gunnar.com/wp-content/themes/gunnars/assets/favicons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<meta name="google-site-verification" content="rhXs8aNWBz1TLwD8o82oCHUwbb4YFgoUvDNJun4H-jo">
+<meta name="generator" content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script type="text/javascript">function setREVStartSize(e){									
+						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
+							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
+					};</script>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="page-template-default page page-id-185271 theme-gunnars woocommerce-js no-sidebar woocommerce-active wpb-js-composer js-comp-ver-6.0.5 vc_responsive">
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PVB4L5C"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<div id="page" class="site">
+<header id="masthead" class="site-header">
+<div class="header-content-wrapper">
+<div class="mobile-layout">
+<button type="button" class="mobile-menu-toggle">
+<div class="hamburger-box">
+<div class="hamburger-inner"></div>
+</div>
+</button>
+<div class="site-branding">
+<a href="https://gunnar.com"><style type="text/css" rel="stylesheet">.gunnar-icon-logo { display: inline-block; }</style><div class="gunnar-icon-logo    "><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 474.54 31.85" class="logo"><defs><style>.affffaa1-59e5-43db-bde7-9e746bca0131{fill:red;}</style></defs><title>Gunnar</title><g id="bf288138-dc28-4cee-887a-0b00013fc227" data-name="Layer 2"><g id="b73a5c0e-38ed-4277-a265-e318c962bc0a" data-name="Layer 1"><path class="affffaa1-59e5-43db-bde7-9e746bca0131" d="M40.7,10.83H31.37c-.1-2.25-1.38-3.4-3.87-3.44H21.68c-1,0-2.25,0-3.71,0l-3,0a6.75,6.75,0,0,0-3.69.76,4.13,4.13,0,0,0-1.58,3.33c-.09,1.09-.14,2.77-.14,5.08q0,4.3.71,5.66,1.1,2.1,5.44,2.26c.4,0,2.86,0,7.36,0,2.6,0,4.18,0,4.77-.09a4.6,4.6,0,0,0,2.78-1,3.77,3.77,0,0,0,.83-2.76c0-.2,0-.51,0-.94h-12V13.88H40.7v4.34a40.16,40.16,0,0,1-.49,7.55q-1.2,5.76-8.75,6c-1.12,0-5.11.05-11.93.05-4.45,0-7.68-.08-9.66-.23Q2.76,31,1,25.94q-1-2.73-1-9.62C0,11.21.38,7.66,1.14,5.69A7.79,7.79,0,0,1,6.89.9Q10.33,0,21.09,0c5.58,0,9.34.1,11.32.32q6.62.6,7.85,5.51a21.61,21.61,0,0,1,.44,5"></path><path class="affffaa1-59e5-43db-bde7-9e746bca0131" d="M85.64.27h9.53V16.48a1.71,1.71,0,0,0,0,.36,23.86,23.86,0,0,0,.21,3.87c.36,2,1.77,3.09,4.21,3.4a43.87,43.87,0,0,0,5.08.21c3.42,0,5.81-.07,7.19-.17q3.23-.25,4-2.44a14.55,14.55,0,0,0,.46-4.41V.27h9.53V16.64a40.91,40.91,0,0,1-.53,8q-1.07,4.58-6.19,6.25a25.39,25.39,0,0,1-6.85.92c1.26,0-1-.05-6.93-.05-4.83,0-8.2-.1-10.11-.27-5.11-.5-8.11-2.76-9-6.81a38.17,38.17,0,0,1-.55-7.64Z"></path><polygon class="affffaa1-59e5-43db-bde7-9e746bca0131" points="171.28 31.53 171.28 0.27 186.44 0.27 205.42 24.06 205.15 0.27 214.18 0.27 214.18 31.53 198.87 31.53 180.17 7.98 180.44 31.53 171.28 31.53"></polygon><polygon class="affffaa1-59e5-43db-bde7-9e746bca0131" points="259.83 31.53 259.83 0.27 275 0.27 293.99 24.06 293.7 0.27 302.74 0.27 302.74 31.53 287.44 31.53 268.72 7.98 269 31.53 259.83 31.53"></polygon><path class="affffaa1-59e5-43db-bde7-9e746bca0131" d="M362.94,19.43h13.44L369.58,7Zm-17.21,12.1L363.33.26h12.76l17.12,31.27H382.82l-3.13-5.6H359.46l-3,5.6Z"></path><path class="affffaa1-59e5-43db-bde7-9e746bca0131" d="M444.58,16h14.88a12.25,12.25,0,0,0,3.89-.39c1.07-.44,1.61-1.48,1.61-3.13,0-2-.37-3.24-1.08-3.79s-2-.7-4.07-.7H444.58ZM435.1,31.53V.26h27a29.87,29.87,0,0,1,6.71.53,6.64,6.64,0,0,1,4.91,4,16.07,16.07,0,0,1,.82,5.63q0,5.64-2.65,7.52-1.42,1-6.06,1.68l1.56.09a10.19,10.19,0,0,1,4.46.87q2.26,1.41,2.27,6v4.94h-9.63V27.64q0-3.53-2.51-3.9a21,21,0,0,0-2.74-.12H444.58v7.91Z"></path></g></g></svg>
+</div></a>
+</div>
+<a href="https://gunnar.com/cart/" title="Cart" class="cart-link">
+<style type="text/css" rel="stylesheet">.gunnar-icon-cart { display: inline-block; }</style><div class="gunnar-icon-cart    ">
+
+
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 23.8 23.8" style="enable-background:new 0 0 23.8 23.8;" xml:space="preserve">
+<title>Cart</title>
+<g>
+<circle cx="9.3" cy="20.6" r="1.9"></circle>
+<circle cx="17.7" cy="20.6" r="1.9"></circle>
+<path d="M20,6.1H7.4H7H6L5.5,2.5c0-0.4-0.3-0.8-0.8-0.8v0l-3.1,0c0,0,0,0,0,0C1.2,1.7,0.8,2,0.8,2.5c0,0.4,0.3,0.8,0.8,0.8H4
+		l1.9,12.3c0,1.3,1,2.3,2.3,2.3h10.7c1.3,0,2.3-1,2.3-2.3l1.2-7.1C22.3,7.2,21.3,6.1,20,6.1z M19.6,15.5c0,0.4-0.3,0.8-0.8,0.8H8.2
+		c-0.4,0-0.8-0.3-0.8-0.8L6.3,8.4C6.3,8,6.6,7.7,7,7.7h0.4H20c0.4,0,0.8,0.3,0.8,0.8L19.6,15.5z"></path>
+</g>
+</svg>
+</div> </a>
+</div>
+<nav id="site-navigation" class="main-navigation desktop-navigation">
+<div class="menu-mainnav-container"><ul id="primary-menu" class="menu"><li id="menu-item-189318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-189318"><a href="#">Shop</a>
+<ul class="sub-menu">
+<li id="menu-item-203108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-203108"><a href="#">Glasses</a>
+<ul class="sub-menu">
+<li id="menu-item-203004" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-203004"><a href="https://gunnar.com/product-category/gaming-eyewear/">Gaming</a></li>
+<li id="menu-item-203003" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-203003"><a href="https://gunnar.com/product-category/computer-eyewear/">Computer</a></li>
+<li id="menu-item-203007" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-203007"><a href="https://gunnar.com/product-category/sunglasses/">Sunglasses</a></li>
+<li id="menu-item-206072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206072"><a href="https://gunnar.com/shop">Shop All</a></li>
+</ul>
+</li>
+<li id="menu-item-205173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-205173"><a href="#">Corrective Lenses</a>
+<ul class="sub-menu">
+<li id="menu-item-203005" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-203005"><a href="https://gunnar.com/product-category/reading-glasses/">Reading Glasses</a></li>
+<li id="menu-item-203006" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-has-children menu-item-203006"><a href="https://gunnar.com/product-category/prescription/">Prescription Rx</a>
+<ul class="sub-menu">
+<li id="menu-item-203012" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-203012"><a href="https://gunnar.com/product-category/prescription/rx-gaming/">Gaming</a></li>
+<li id="menu-item-203011" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-203011"><a href="https://gunnar.com/product-category/prescription/rx-computer/">Computer</a></li>
+<li id="menu-item-203013" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-203013"><a href="https://gunnar.com/product-category/prescription/rx-sunglasses/">Sunglasses</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-205199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-205199"><a href="#">Gear</a>
+<ul class="sub-menu">
+<li id="menu-item-203187" class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-203187"><a href="https://gunnar.com/product-category/gear/accessories/">Accessories</a></li>
+<li id="menu-item-206071" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206071"><a href="https://gunnar.com/product-category/gear/apparel/">Apparel</a></li>
+<li id="menu-item-206073" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-206073"><a href="https://gunnar.com/product-category/giftcards">Gift Cards</a></li>
+</ul>
+</li>
+<li id="menu-item-282807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-282807"><a href="#">Special Offers</a>
+<ul class="sub-menu">
+<li id="menu-item-282808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282808"><a href="https://gunnar.com/product-category/holiday-bundles/">Holiday Bundles</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-203109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-203109"><a href="#">Technology</a>
+<ul class="sub-menu">
+<li id="menu-item-201945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201945"><a href="https://gunnar.com/technology/">Lens</a></li>
+<li id="menu-item-201944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201944"><a href="https://gunnar.com/prescription/">Prescription</a></li>
+</ul>
+</li>
+<li id="menu-item-203009" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-203009"><a href="#">About Gunnar</a>
+<ul class="sub-menu">
+<li id="menu-item-206140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-206140"><a href="#">About</a>
+<ul class="sub-menu">
+<li id="menu-item-203010" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203010"><a href="https://gunnar.com/about/">About</a></li>
+<li id="menu-item-83518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83518"><a href="https://gunnar.com/about/blog/">Blog</a></li>
+<li id="menu-item-205344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205344"><a href="https://gunnar.com/press-info/">Press Info</a></li>
+<li id="menu-item-83519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83519"><a href="https://gunnar.com/about/ambassadors/">Ambassadors</a></li>
+<li id="menu-item-202059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-202059"><a href="https://gunnar.com/contact/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-206141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-206141"><a href="#">Where to Buy</a>
+<ul class="sub-menu">
+<li id="menu-item-83529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83529"><a href="https://gunnar.com/us-retailers/">US Retailers</a></li>
+<li id="menu-item-107288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107288"><a href="https://gunnar.com/international-retailers/">International Retailers</a></li>
+<li id="menu-item-83528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83528"><a href="https://gunnar.com/international/">International Distributors</a></li>
+<li id="menu-item-124225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124225"><a href="https://gunnar.com/b2b/">B2B Direct Sales</a></li>
+</ul>
+</li>
+<li id="menu-item-29936" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-29936"><a href="#">Partners</a>
+<ul class="sub-menu">
+<li id="menu-item-220023" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220023"><a href="https://gunnar.com/partners/razer/">Razer</a></li>
+<li id="menu-item-220024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-220024"><a href="https://gunnar.com/partners/ubisoft/">Ubisoft</a></li>
+<li id="menu-item-275225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275225"><a href="https://gunnar.com/partners/game-grumps/">Game Grumps</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></div> <div class="icon-links">
+<form action="/shop/" method="get" autocomplete="off" id="search-form" class="invisible">
+<input id="nav-input" class="nav-search-input" type="text" name="s" value="" placeholder="SEARCH" autocomplete="off">
+<input type="submit" style="display: none;">
+</form>
+<span class="close-search" id="close-search">×</span>
+<a href="#" id="search-link" title="Search" class="search-link">
+<style type="text/css" rel="stylesheet">.gunnar-icon-search { display: inline-block; }</style><div class="gunnar-icon-search    ">
+
+
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 23.8 23.8" style="enable-background:new 0 0 23.8 23.8;" xml:space="preserve">
+<title>Search</title>
+<path d="M21.6,22.7c-0.2,0-0.4-0.1-0.6-0.2l-5.7-5.7c-1.5,1.3-3.5,2-5.5,2c-2.3,0-4.5-0.9-6.1-2.5c-1.6-1.6-2.5-3.8-2.5-6.1
+	c0-2.3,0.9-4.5,2.5-6.1c1.6-1.6,3.8-2.5,6.1-2.5c2.3,0,4.5,0.9,6.1,2.5c3.1,3.1,3.4,8.2,0.5,11.6l5.7,5.7c0.3,0.3,0.3,0.8,0,1.1
+	C22,22.6,21.8,22.7,21.6,22.7z M9.9,3.1c-1.9,0-3.6,0.7-5,2.1c-2.7,2.7-2.7,7.2,0,9.9c1.3,1.3,3.1,2.1,5,2.1s3.6-0.7,5-2.1
+	c2.7-2.7,2.7-7.2,0-9.9C13.5,3.9,11.7,3.1,9.9,3.1z"></path>
+</svg>
+</div> </a>
+<a href="https://gunnar.com/my-account/" title="My Account" class="account-link" id="account-link">
+<style type="text/css" rel="stylesheet">.gunnar-icon-user { display: inline-block; }</style><div class="gunnar-icon-user    ">
+
+
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<title>My Account</title>
+<path d="M20,22.5c-0.5,0-0.8-0.3-0.8-0.8v-4c0-1.8-1.4-3.2-3.2-3.2H8c-1.8,0-3.2,1.4-3.2,3.2v4c0,0.5-0.3,0.8-0.8,0.8
+	s-0.8-0.3-0.8-0.8v-4c0-2.7,2.1-4.8,4.8-4.8h8c2.7,0,4.8,2.1,4.8,4.8v4C20.8,22.2,20.5,22.5,20,22.5z"></path>
+<path d="M12,11.5c-2.7,0-4.8-2.1-4.8-4.8S9.3,1.9,12,1.9s4.8,2.1,4.8,4.8S14.7,11.5,12,11.5z M12,3.5c-1.8,0-3.2,1.4-3.2,3.2
+	s1.4,3.2,3.2,3.2c1.8,0,3.2-1.4,3.2-3.2S13.8,3.5,12,3.5z"></path>
+</svg>
+</div> </a>
+<a href="https://gunnar.com/cart/" title="Cart" class="cart-link" id="cart-link">
+<style type="text/css" rel="stylesheet">.gunnar-icon-cart { display: inline-block; }</style><div class="gunnar-icon-cart    ">
+
+
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 23.8 23.8" style="enable-background:new 0 0 23.8 23.8;" xml:space="preserve">
+<title>Cart</title>
+<g>
+<circle cx="9.3" cy="20.6" r="1.9"></circle>
+<circle cx="17.7" cy="20.6" r="1.9"></circle>
+<path d="M20,6.1H7.4H7H6L5.5,2.5c0-0.4-0.3-0.8-0.8-0.8v0l-3.1,0c0,0,0,0,0,0C1.2,1.7,0.8,2,0.8,2.5c0,0.4,0.3,0.8,0.8,0.8H4
+		l1.9,12.3c0,1.3,1,2.3,2.3,2.3h10.7c1.3,0,2.3-1,2.3-2.3l1.2-7.1C22.3,7.2,21.3,6.1,20,6.1z M19.6,15.5c0,0.4-0.3,0.8-0.8,0.8H8.2
+		c-0.4,0-0.8-0.3-0.8-0.8L6.3,8.4C6.3,8,6.6,7.7,7,7.7h0.4H20c0.4,0,0.8,0.3,0.8,0.8L19.6,15.5z"></path>
+</g>
+</svg>
+</div> </a>
+</div>
+</nav>
+<nav id="mobile-navigation" class="main-navigation mobile-navigation">
+<div class="mobile-search-bar">
+<div class="mobile-search-box">
+<form action="/shop/" method="get" autocomplete="off">
+<input class="mobile-search-input" type="text" name="s" value="" placeholder="SEARCH" autocomplete="off">
+<input type="submit" style="display: none;">
+</form>
+<span class="mobile-close-search">×</span>
+</div>
+<hr>
+</div>
+<div class="menu-options-container">
+<div class="gunnar-search-results"></div>
+<div class="menu-mobile-menu-container"><ul id="mobile-menu" class="menu"><li id="menu-item-205693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205693"><a href="https://gunnar.com/gaming-glasses/">Gaming Glasses</a></li>
+<li id="menu-item-205692" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205692"><a href="https://gunnar.com/computer-glasses/">Computer Glasses</a></li>
+<li id="menu-item-205690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205690"><a href="https://gunnar.com/reading-glasses/">Reading Glasses</a></li>
+<li id="menu-item-229632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229632"><a href="https://gunnar.com/prescription-glasses/">Prescription Glasses</a></li>
+<li id="menu-item-205691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205691"><a href="https://gunnar.com/sunglasses/">Sunglasses</a></li>
+<li id="menu-item-282809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-282809"><a href="https://gunnar.com/product-category/holiday-bundles/">Holiday Bundles</a></li>
+<li id="menu-item-201942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201942"><a href="https://gunnar.com/technology/">Technology</a></li>
+<li id="menu-item-201943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201943"><a href="https://gunnar.com/contact/">Contact</a></li>
+<li id="menu-item-203000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-203000"><a href="https://gunnar.com/my-account/">My Account</a></li>
+</ul></div> </div>
+</nav>
+<div class="drop-down-search-box" id="drop-search">
+<div class="gunnar-search-results">
+</div>
+</div>
+</div>
+</header>
+<div id="content" class="site-content">
+<div id="primary" class="content-area">
+<main id="main" class="site-main">
+<article id="post-185271" class="post-185271 page type-page status-publish hentry">
+<div class="entry-content">
+<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1543819234439 vc_row-has-fill"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><h3 style="color: #ffffff;line-height: 45px;text-align: center" class="vc_custom_heading">PRIVACY POLICY</h3></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p>This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.</p>
+<h5>What personal information do we collect from the people that visit our blog, website or app?</h5>
+<p>When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.</p>
+<h5>When do we collect information?</h5>
+<p>We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.</p>
+<h5>How do we use your information?</h5>
+<p>We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:</p>
+<ul>
+<li>To personalize user’s experience and to allow us to deliver the type of content and product offerings in which you are most interested.</li>
+<li>To allow us to better service you in responding to your customer service requests.</li>
+<li>To administer a contest, promotion, survey or other site feature.</li>
+<li>To quickly process your transactions.</li>
+<li>To send periodic emails regarding your order or other products and services.</li>
+</ul>
+<h5>How do we protect visitor information?</h5>
+<p>Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.<br>
+We use regular Malware Scanning.<br>
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.<br>
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.<br>
+For your convenience we may store your credit card information longer than 30 days in order to expedite future orders, and to automate the billing process.</p>
+<h5>Do we use ‘cookies’?</h5>
+<p>Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
+<h5>We use cookies to:</h5>
+<ul>
+<li>Help remember and process the items in the shopping cart.</li>
+<li>Understand and save user’s preferences for future visits.</li>
+<li>Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.</li>
+</ul>
+<p>You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.<br>
+If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.<br>
+However, you can still place orders .</p>
+<h5>Third Party Disclosure</h5>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.</p>
+<h5>Third party links</h5>
+<p>We do not include or offer third party products or services on our website.</p>
+<h5>Google</h5>
+<p>Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users.&nbsp;<a href="https://web.archive.org/web/20160505210723/https://support.google.com/adwordspolicy/answer/1316548?hl=en" target="_blank" rel="noopener">https://support.google.com/adwordspolicy/answer/1316548?hl=en</a><br>
+We use Google AdSense Advertising on our website.<br>
+Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p>
+<h5>We have implemented the following:</h5>
+<ul>
+<li>Remarketing with Google AdSense</li>
+<li>Google Display Network Impression Reporting</li>
+<li>Demographics and Interests Reporting</li>
+</ul>
+<p>We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.<br>
+<strong>Opting out:</strong><br>
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on.</p>
+<h5>California Online Privacy Protection Act</h5>
+<p>CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf<br>
+<strong>According to CalOPPA we agree to the following:</strong><br>
+Users can visit our site anonymously<br>
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.<br>
+Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.<br>
+Users will be notified of any privacy policy changes:</p>
+<ul>
+<li>On our Privacy Policy Page</li>
+</ul>
+<p>Users are able to change their personal information:</p>
+<ul>
+<li>By logging in to their account</li>
+</ul>
+<h5>How does our site handle do not track signals?</h5>
+<p>We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.</p>
+<h5>Does our site allow third party behavioral tracking?</h5>
+<p>It’s also important to note that we allow third party behavioral tracking</p>
+<h5>COPPA (Children Online Privacy Protection Act)</h5>
+<p>When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.<br>
+We do not specifically market to children under 13.</p>
+<h5>Fair Information Practices</h5>
+<p>The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.</p>
+<h5>In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:</h5>
+<p>We will notify the users via email</p>
+<ul>
+<li>Within 7 business days</li>
+</ul>
+<p>We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.</p>
+<h5>CAN SPAM Act</h5>
+<p>The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.</p>
+<h5>We collect your email address in order to:</h5>
+<p><strong>To be in accordance with CANSPAM we agree to the following:</strong><br>
+<strong>If at any time you would like to unsubscribe from receiving future emails, you can email us at</strong><br>
+and we will promptly remove you from&nbsp;<strong>ALL</strong>&nbsp;correspondence.</p>
+<h5>Contacting Us</h5>
+<p>If there are any questions regarding this privacy policy you may contact us using the information below.<br>
+gunnar.com<br>
+2236 Rutherford Road<br>
+Carlsbad, Ca 92008<br>
+USA<br>
+<a title="pr@gunnars.com" href="mailto:pr@gunnars.com" target="_blank" rel="noopener">pr@gunnars.com</a></p>
+</div>
+</div>
+</div></div></div></div>
+</div>
+</article>
+</main>
+</div>
+</div>
+<footer id="colophon" class="site-footer">
+<div class="inner-footer">
+<section class="columns">
+<div class="column-1"><section id="text-14" class="widget widget_text"> <div class="textwidget"><div style="text-align: center;">
+<style type="text/css" rel="stylesheet">.gunnar-icon-logo { display: inline-block; }.mobilew250 { width: 250px; height: auto; }@media only screen and (min-width: 768px) { .tabletw225 { width: 225px; height: auto; } }@media only screen and (min-width: 1025px) { .desktopw250 { width: 250px; height: auto; } }</style><div class="gunnar-icon-logo mobilew250 tabletw225 desktopw250   "><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 474.54 31.85" class="logo"><defs><style>.affffaa1-59e5-43db-bde7-9e746bca0131{fill:red;}</style></defs><title>Gunnar</title><g id="bf288138-dc28-4cee-887a-0b00013fc227" data-name="Layer 2"><g id="b73a5c0e-38ed-4277-a265-e318c962bc0a" data-name="Layer 1"><path class="affffaa1-59e5-43db-bde7-9e746bca0131" d="M40.7,10.83H31.37c-.1-2.25-1.38-3.4-3.87-3.44H21.68c-1,0-2.25,0-3.71,0l-3,0a6.75,6.75,0,0,0-3.69.76,4.13,4.13,0,0,0-1.58,3.33c-.09,1.09-.14,2.77-.14,5.08q0,4.3.71,5.66,1.1,2.1,5.44,2.26c.4,0,2.86,0,7.36,0,2.6,0,4.18,0,4.77-.09a4.6,4.6,0,0,0,2.78-1,3.77,3.77,0,0,0,.83-2.76c0-.2,0-.51,0-.94h-12V13.88H40.7v4.34a40.16,40.16,0,0,1-.49,7.55q-1.2,5.76-8.75,6c-1.12,0-5.11.05-11.93.05-4.45,0-7.68-.08-9.66-.23Q2.76,31,1,25.94q-1-2.73-1-9.62C0,11.21.38,7.66,1.14,5.69A7.79,7.79,0,0,1,6.89.9Q10.33,0,21.09,0c5.58,0,9.34.1,11.32.32q6.62.6,7.85,5.51a21.61,21.61,0,0,1,.44,5"></path><path class="affffaa1-59e5-43db-bde7-9e746bca0131" d="M85.64.27h9.53V16.48a1.71,1.71,0,0,0,0,.36,23.86,23.86,0,0,0,.21,3.87c.36,2,1.77,3.09,4.21,3.4a43.87,43.87,0,0,0,5.08.21c3.42,0,5.81-.07,7.19-.17q3.23-.25,4-2.44a14.55,14.55,0,0,0,.46-4.41V.27h9.53V16.64a40.91,40.91,0,0,1-.53,8q-1.07,4.58-6.19,6.25a25.39,25.39,0,0,1-6.85.92c1.26,0-1-.05-6.93-.05-4.83,0-8.2-.1-10.11-.27-5.11-.5-8.11-2.76-9-6.81a38.17,38.17,0,0,1-.55-7.64Z"></path><polygon class="affffaa1-59e5-43db-bde7-9e746bca0131" points="171.28 31.53 171.28 0.27 186.44 0.27 205.42 24.06 205.15 0.27 214.18 0.27 214.18 31.53 198.87 31.53 180.17 7.98 180.44 31.53 171.28 31.53"></polygon><polygon class="affffaa1-59e5-43db-bde7-9e746bca0131" points="259.83 31.53 259.83 0.27 275 0.27 293.99 24.06 293.7 0.27 302.74 0.27 302.74 31.53 287.44 31.53 268.72 7.98 269 31.53 259.83 31.53"></polygon><path class="affffaa1-59e5-43db-bde7-9e746bca0131" d="M362.94,19.43h13.44L369.58,7Zm-17.21,12.1L363.33.26h12.76l17.12,31.27H382.82l-3.13-5.6H359.46l-3,5.6Z"></path><path class="affffaa1-59e5-43db-bde7-9e746bca0131" d="M444.58,16h14.88a12.25,12.25,0,0,0,3.89-.39c1.07-.44,1.61-1.48,1.61-3.13,0-2-.37-3.24-1.08-3.79s-2-.7-4.07-.7H444.58ZM435.1,31.53V.26h27a29.87,29.87,0,0,1,6.71.53,6.64,6.64,0,0,1,4.91,4,16.07,16.07,0,0,1,.82,5.63q0,5.64-2.65,7.52-1.42,1-6.06,1.68l1.56.09a10.19,10.19,0,0,1,4.46.87q2.26,1.41,2.27,6v4.94h-9.63V27.64q0-3.53-2.51-3.9a21,21,0,0,0-2.74-.12H444.58v7.91Z"></path></g></g></svg>
+</div>
+<p><a href="https://www.twitter.com/GUNNAROptiks" target="_blank" rel="noopener noreferrer"><style type="text/css" rel="stylesheet">.gunnar-icon-twitter { display: inline-block; }.mobilew20 { width: 20px; height: auto; }@media only screen and (min-width: 768px) { .tabletw20 { width: 20px; height: auto; } }@media only screen and (min-width: 1025px) { .desktopw25 { width: 25px; height: auto; } }.svgfillfff path { fill: #fff; }.svgpadding3 { padding: 3px; }</style></a></p><div class="gunnar-icon-twitter mobilew20 tabletw20 desktopw25 svgfillfff  svgpadding3"><a href="https://www.twitter.com/GUNNAROptiks" target="_blank" rel="noopener noreferrer"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Twitter icon</title><path d="M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z"></path></svg></a></div> <a href="https://www.facebook.com/GUNNAROptiks" target="_blank" rel="noopener noreferrer"><style type="text/css" rel="stylesheet">.gunnar-icon-facebook { display: inline-block; }.mobilew25 { width: 25px; height: auto; }@media only screen and (min-width: 768px) { .tabletw20 { width: 20px; height: auto; } }@media only screen and (min-width: 1025px) { .desktopw25 { width: 25px; height: auto; } }.svgfillfff path { fill: #fff; }.svgpadding3 { padding: 3px; }</style><div class="gunnar-icon-facebook mobilew25 tabletw20 desktopw25 svgfillfff  svgpadding3"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Facebook icon</title><path d="M22.676 0H1.324C.593 0 0 .593 0 1.324v21.352C0 23.408.593 24 1.324 24h11.494v-9.294H9.689v-3.621h3.129V8.41c0-3.099 1.894-4.785 4.659-4.785 1.325 0 2.464.097 2.796.141v3.24h-1.921c-1.5 0-1.792.721-1.792 1.771v2.311h3.584l-.465 3.63H16.56V24h6.115c.733 0 1.325-.592 1.325-1.324V1.324C24 .593 23.408 0 22.676 0"></path></svg></div></a> <a href="https://www.instagram.com/gunnaroptiks" target="_blank" rel="noopener noreferrer"><style type="text/css" rel="stylesheet">.gunnar-icon-instagram { display: inline-block; }.mobilew20 { width: 20px; height: auto; }@media only screen and (min-width: 768px) { .tabletw20 { width: 20px; height: auto; } }@media only screen and (min-width: 1025px) { .desktopw25 { width: 25px; height: auto; } }.svgfillfff path { fill: #fff; }.svgpadding3 { padding: 3px; }</style><div class="gunnar-icon-instagram mobilew20 tabletw20 desktopw25 svgfillfff  svgpadding3"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Instagram icon</title><path d="M12 0C8.74 0 8.333.015 7.053.072 5.775.132 4.905.333 4.14.63c-.789.306-1.459.717-2.126 1.384S.935 3.35.63 4.14C.333 4.905.131 5.775.072 7.053.012 8.333 0 8.74 0 12s.015 3.667.072 4.947c.06 1.277.261 2.148.558 2.913.306.788.717 1.459 1.384 2.126.667.666 1.336 1.079 2.126 1.384.766.296 1.636.499 2.913.558C8.333 23.988 8.74 24 12 24s3.667-.015 4.947-.072c1.277-.06 2.148-.262 2.913-.558.788-.306 1.459-.718 2.126-1.384.666-.667 1.079-1.335 1.384-2.126.296-.765.499-1.636.558-2.913.06-1.28.072-1.687.072-4.947s-.015-3.667-.072-4.947c-.06-1.277-.262-2.149-.558-2.913-.306-.789-.718-1.459-1.384-2.126C21.319 1.347 20.651.935 19.86.63c-.765-.297-1.636-.499-2.913-.558C15.667.012 15.26 0 12 0zm0 2.16c3.203 0 3.585.016 4.85.071 1.17.055 1.805.249 2.227.415.562.217.96.477 1.382.896.419.42.679.819.896 1.381.164.422.36 1.057.413 2.227.057 1.266.07 1.646.07 4.85s-.015 3.585-.074 4.85c-.061 1.17-.256 1.805-.421 2.227-.224.562-.479.96-.899 1.382-.419.419-.824.679-1.38.896-.42.164-1.065.36-2.235.413-1.274.057-1.649.07-4.859.07-3.211 0-3.586-.015-4.859-.074-1.171-.061-1.816-.256-2.236-.421-.569-.224-.96-.479-1.379-.899-.421-.419-.69-.824-.9-1.38-.165-.42-.359-1.065-.42-2.235-.045-1.26-.061-1.649-.061-4.844 0-3.196.016-3.586.061-4.861.061-1.17.255-1.814.42-2.234.21-.57.479-.96.9-1.381.419-.419.81-.689 1.379-.898.42-.166 1.051-.361 2.221-.421 1.275-.045 1.65-.06 4.859-.06l.045.03zm0 3.678c-3.405 0-6.162 2.76-6.162 6.162 0 3.405 2.76 6.162 6.162 6.162 3.405 0 6.162-2.76 6.162-6.162 0-3.405-2.76-6.162-6.162-6.162zM12 16c-2.21 0-4-1.79-4-4s1.79-4 4-4 4 1.79 4 4-1.79 4-4 4zm7.846-10.405c0 .795-.646 1.44-1.44 1.44-.795 0-1.44-.646-1.44-1.44 0-.794.646-1.439 1.44-1.439.793-.001 1.44.645 1.44 1.439z"></path></svg></div></a> <a href="https://www.youtube.com/user/GunnarOptiks" target="_blank" rel="noopener noreferrer"><style type="text/css" rel="stylesheet">.gunnar-icon-youtube { display: inline-block; }.mobilew20 { width: 20px; height: auto; }@media only screen and (min-width: 768px) { .tabletw20 { width: 20px; height: auto; } }@media only screen and (min-width: 1025px) { .desktopw25 { width: 25px; height: auto; } }.svgfillfff path { fill: #fff; }.svgpadding3 { padding: 3px; }</style><div class="gunnar-icon-youtube mobilew20 tabletw20 desktopw25 svgfillfff  svgpadding3"><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><title>YouTube icon</title><path class="a" d="M23.495 6.205a3.007 3.007 0 0 0-2.088-2.088c-1.87-.501-9.396-.501-9.396-.501s-7.507-.01-9.396.501A3.007 3.007 0 0 0 .527 6.205a31.247 31.247 0 0 0-.522 5.805 31.247 31.247 0 0 0 .522 5.783 3.007 3.007 0 0 0 2.088 2.088c1.868.502 9.396.502 9.396.502s7.506 0 9.396-.502a3.007 3.007 0 0 0 2.088-2.088 31.247 31.247 0 0 0 .5-5.783 31.247 31.247 0 0 0-.5-5.805zM9.609 15.601V8.408l6.264 3.602z"></path></svg></div></a> <a href="https://www.pinterest.com/gunnaroptiks/" target="_blank" rel="noopener noreferrer"><style type="text/css" rel="stylesheet">.gunnar-icon-pinterest { display: inline-block; }.mobilew20 { width: 20px; height: auto; }@media only screen and (min-width: 768px) { .tabletw20 { width: 20px; height: auto; } }@media only screen and (min-width: 1025px) { .desktopw25 { width: 25px; height: auto; } }.svgfillfff path { fill: #fff; }.svgpadding3 { padding: 3px; }</style><div class="gunnar-icon-pinterest mobilew20 tabletw20 desktopw25 svgfillfff  svgpadding3"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Pinterest icon</title><path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.889 2.741.099.12.112.225.085.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.354-.629-2.758-1.379l-.749 2.848c-.269 1.045-1.004 2.352-1.498 3.146 1.123.345 2.306.535 3.55.535 6.607 0 11.985-5.365 11.985-11.987C23.97 5.39 18.592.026 11.985.026L12.017 0z"></path></svg></div></a> <a href="https://www.linkedin.com/company/gunnar-optiks" target="_blank" rel="noopener noreferrer"><style type="text/css" rel="stylesheet">.gunnar-icon-linkedin { display: inline-block; }.mobilew20 { width: 20px; height: auto; }@media only screen and (min-width: 768px) { .tabletw20 { width: 20px; height: auto; } }@media only screen and (min-width: 1025px) { .desktopw25 { width: 25px; height: auto; } }.svgfillfff path { fill: #fff; }.svgpadding3 { padding: 3px; }</style><div class="gunnar-icon-linkedin mobilew20 tabletw20 desktopw25 svgfillfff  svgpadding3"><svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn icon</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"></path></svg></div></a><p></p>
+</div>
+</div>
+</section></div><div class="column-2"><section id="text-19" class="widget widget_text"> <div class="textwidget"><p><strong>Email sign up</strong></p>
+</div>
+</section><section id="gform_widget-2" class="widget gform_widget">
+<div class="gf_browser_unknown gform_wrapper newsletter-footer_wrapper" id="gform_wrapper_25"><form method="post" enctype="multipart/form-data" id="gform_25" class="newsletter-footer" action="/privacy-policy/">
+<div class="gform_body"><ul id="gform_fields_25" class="gform_fields top_label form_sublabel_below description_below"><li id="field_25_2" class="gfield gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible"><label class="gfield_label" for="input_25_2">Name<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_text"><input name="input_2" id="input_25_2" type="text" value="" class="large" tabindex="1" placeholder="Name" aria-required="true" aria-invalid="false"></div></li><li id="field_25_1" class="gfield gfield_contains_required field_sublabel_below field_description_below hidden_label gfield_visibility_visible"><label class="gfield_label" for="input_25_1">Email<span class="gfield_required">*</span></label><div class="ginput_container ginput_container_email">
+<input name="input_1" id="input_25_1" type="text" value="" class="large" tabindex="2" placeholder="Email" aria-required="true" aria-invalid="false">
+</div></li>
+</ul></div>
+<div class="gform_footer top_label"> <input type="submit" id="gform_submit_button_25" class="gform_button button" value="SIGN UP" tabindex="3" onclick="if(window[&quot;gf_submitting_25&quot;]){return false;}  window[&quot;gf_submitting_25&quot;]=true;  " onkeypress="if( event.keyCode == 13 ){ if(window[&quot;gf_submitting_25&quot;]){return false;} window[&quot;gf_submitting_25&quot;]=true;  jQuery(&quot;#gform_25&quot;).trigger(&quot;submit&quot;,[true]); }">
+<input type="hidden" class="gform_hidden" name="is_submit_25" value="1">
+<input type="hidden" class="gform_hidden" name="gform_submit" value="25">
+<input type="hidden" class="gform_hidden" name="gform_unique_id" value="">
+<input type="hidden" class="gform_hidden" name="state_25" value="WyJbXSIsIjliM2Q1MWViOTdhZGIwZGQ0MWZjNmMyYjhiMWVjYTdjIl0=">
+<input type="hidden" class="gform_hidden" name="gform_target_page_number_25" id="gform_target_page_number_25" value="0">
+<input type="hidden" class="gform_hidden" name="gform_source_page_number_25" id="gform_source_page_number_25" value="1">
+<input type="hidden" name="gform_field_values" value="">
+</div>
+</form>
+</div><script type="text/javascript"> jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 25) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type="text/javascript"> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [25, 1]) } ); </script></section></div> <div class="column-3-4">
+<section id="nav_menu-5" class="widget widget_nav_menu"><div class="widget-title">Support</div><div class="menu-footer-pages-container"><ul id="menu-footer-pages" class="menu"><li id="menu-item-201974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-201974"><a href="https://gunnar.com/contact/">Contact</a></li>
+<li id="menu-item-205088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205088"><a href="https://gunnar.com/warranty/">Warranty</a></li>
+<li id="menu-item-205090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205090"><a href="https://gunnar.com/faqs/">FAQs</a></li>
+<li id="menu-item-205092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205092"><a href="https://gunnar.com/returns/">Returns and Exchanges</a></li>
+<li id="menu-item-205089" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205089"><a href="https://gunnar.com/product-registration/">Product Registration</a></li>
+<li id="menu-item-205091" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-205091"><a href="https://gunnar.com/track-my-order/">Track My Order</a></li>
+</ul></div></section><section id="text-15" class="widget widget_text"> <div class="textwidget"><p style="color:#fff"><strong>Can’t find an answer?</strong><br>
+M-F 7:30am to 5:00pm PST.</p>
+<p><a href="tel:888-486-6270">888-486-6270</a><br>
+<a href="mailto:support@gunnars.com">support@gunnars.com</a></p>
+<p><a href="https://gunnar.com/us-retailers/">Where To Buy</a><br>
+<a href="https://gunnar.com/us-retailers/">US Retailers</a><br>
+<a href="https://gunnar.com/international-retailers/">International Retailers</a></p>
+</div>
+</section> </div>
+</section>
+<section class="copyright">
+<section id="text-16" class="widget widget_text"> <div class="textwidget"><p><span style="font-size: 12px; color: #c4c4c4;">© GUNNAR Optiks. The World Leader in Computer Eyewear and Blue Light Lens Technology. <a href="https://gunnar.com/privacy-policy/">PRIVACY POLICY</a> | <a href="https://gunnar.com/terms-conditions/">TERMS &amp; CONDITIONS</a> | <a href="https://gunnar.com/press-info">PRESS</a></span></p>
+</div>
+</section> </section>
+</div>
+</footer>
+</div>
+<script type="text/javascript" src="https://a.opmnstr.com/app/js/api.min.js" data-campaign="vdbacxgu9edwkoftpe74" data-user="68975" data-env="production"></script><script type="text/javascript" src="https://a.opmnstr.com/app/js/api.min.js" data-campaign="pvchoeydrrtssvkbk2wg" data-user="68975" data-env="production"></script><script type="text/javascript" src="https://a.opmnstr.com/app/js/api.min.js" data-campaign="p9tydhmwp14fqqntypip" data-user="68975" data-env="production"></script><script type="text/javascript" src="https://a.opmnstr.com/app/js/api.min.js" data-campaign="z9ddynudhbibfwfisged" data-user="68975" data-env="production"></script><noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=455129931328034&ev=PageView&noscript=1" alt="facebook_pixel"></noscript>
+<noscript><img height="1" width="1" style="display: none;" src="https://www.facebook.com/tr?id=455129931328034&ev=GeneralEvent&noscript=1&cd[post_type]=page&cd[post_id]=185271&cd[content_name]=Privacy+Policy" alt="facebook_pixel"></noscript>
+<script type="text/javascript">
+		var c = document.body.className;
+		c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+		document.body.className = c;
+	</script>
+<script type="text/javascript">var vdbacxgu9edwkoftpe74_shortcode = true;var pvchoeydrrtssvkbk2wg_shortcode = true;var p9tydhmwp14fqqntypip_shortcode = true;var z9ddynudhbibfwfisged_shortcode = true;</script>
+<script type="text/javascript">
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type="text/javascript" src="//static.fittingbox.com/api/v1/fitmix.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wc_swatches_params = {"ajax_url":"https:\/\/gunnar.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mailchimp_public_data = {"site_url":"https:\/\/gunnar.com","ajax_url":"https:\/\/gunnar.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://chimpstatic.com/mcjs-connected/js/users/3da2d8d0cd4a68c1daea625b0/a3c138345858ad2e2b1f0755e.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var sv_wc_payment_gateway_payment_form_params = {"card_number_missing":"Card number is missing","card_number_invalid":"Card number is invalid","card_number_digits_invalid":"Card number is invalid (only digits allowed)","card_number_length_invalid":"Card number is invalid (wrong length)","cvv_missing":"Card security code is missing","cvv_digits_invalid":"Card security code is invalid (only digits are allowed)","cvv_length_invalid":"Card security code is invalid (must be 3 or 4 digits)","card_exp_date_invalid":"Card expiration date is invalid","check_number_digits_invalid":"Check Number is invalid (only digits are allowed)","check_number_missing":"Check Number is missing","drivers_license_state_missing":"Drivers license state is missing","drivers_license_number_missing":"Drivers license number is missing","drivers_license_number_invalid":"Drivers license number is invalid","account_number_missing":"Account Number is missing","account_number_invalid":"Account Number is invalid (only digits are allowed)","account_number_length_invalid":"Account number is invalid (must be between 5 and 17 digits)","routing_number_missing":"Routing Number is missing","routing_number_digits_invalid":"Routing Number is invalid (only digits are allowed)","routing_number_length_invalid":"Routing number is invalid (must be 9 digits)"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://gunnar.com/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/lib/skyverge/woocommerce/payment-gateway/assets/js/frontend/sv-wc-payment-gateway-payment-form.min.js"></script>
+<script type="text/javascript" src="https://gunnar.com/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/lib/skyverge/woocommerce/payment-gateway/assets/js/frontend/sv-wc-payment-gateway-apple-pay.min.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.48.0/js/client.min.js"></script>
+<script type="text/javascript" src="https://js.braintreegateway.com/web/3.48.0/js/apple-pay.min.js"></script>
+<script type="text/javascript" src="https://gunnar.com/wp-content/plugins/woocommerce-gateway-paypal-powered-by-braintree/assets/js/frontend/wc-braintree-apple-pay.min.js"></script>
+<script type="text/javascript">
+                    jQuery(function() {
+                                                
+                        jQuery(".tooltips img").closest(".tooltips").css("display", "inline-block");
+                    
+                        new jQuery.Zebra_Tooltips(jQuery('.tooltips').not('.custom_m_bubble'), {
+                            'background_color':     '#000000',
+                            'color':				'#ffffff',
+                            'max_width':  250,
+                            'opacity':    .95, 
+                            'position':    'center'
+                        });
+                        
+                                            
+                    });
+                </script>
+<script type="text/javascript">var omapi_localized = { ajax: 'https://gunnar.com/wp-admin/admin-ajax.php?optin-monster-ajax-route=1', nonce: '6f96ffc5b5', slugs: {"vdbacxgu9edwkoftpe74":{"slug":"vdbacxgu9edwkoftpe74","mailpoet":false},"pvchoeydrrtssvkbk2wg":{"slug":"pvchoeydrrtssvkbk2wg","mailpoet":false},"p9tydhmwp14fqqntypip":{"slug":"p9tydhmwp14fqqntypip","mailpoet":false},"z9ddynudhbibfwfisged":{"slug":"z9ddynudhbibfwfisged","mailpoet":false}} };</script>
+<script type="text/javascript">var omapi_data = {"wc_cart":{"subtotal":0,"subtotal_tax":0,"shipping_total":0,"shipping_tax":0,"shipping_taxes":[],"discount_total":0,"discount_tax":0,"cart_contents_total":0,"cart_contents_tax":0,"cart_contents_taxes":[],"fee_total":0,"fee_tax":0,"fee_taxes":[],"total":0,"total_tax":0,"cart_items":[],"currency":{"code":"USD","symbol":"&#36;","name":"United States (US) dollar"}},"object_id":185271,"object_key":"page","object_type":"post","term_ids":[]};</script>
+<script type="text/javascript" defer="" src="//gunnar.com/wp-content/cache/autoptimize/js/autoptimize_ece4be03cb82eaf3aca8e7065a9f58bb.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5f3836bdd7","applicationID":"328857986","transactionName":"bgEDMhRQDEdTVUMKDFdLIAUSWA1aHUZWBAY=","queueTime":0,"applicationTime":406,"atts":"QkYARFxKH0k=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
