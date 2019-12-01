@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621025635id_/https%3A//applian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applian.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201015025id_/https%3A//applian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,11 +23,11 @@ The ordering of Applian Technologies is processed by third party companies which
 
 
 **Paypal**  
-[http://www.paypal.com](http://www.paypal.com/)  
+[https://www.paypal.com](https://www.paypal.com/)  
 
 
-**RegNow**  
-[http://regnow.com](http://regnow.com/)  
+**Stripe**  
+[https://stripe.com](https://stripe.com/)  
 
 
 All credit card information is requested and transmitted securely by these third party companies. We never store any credit card information in our databases. 
@@ -68,10 +68,11 @@ This website takes every precaution to protect our customers’ information. Whe
 ### Questions
 
 If you have questions about our usage of your personal information, please contact us.   
-Applian Technologies Inc.  
-20 Vineyard Avenue  
-San Anselmo, CA  94960   
-Attn:  Customer Service
+Applian LLC  
+8540 Dayton Ave.  
+Fort Myers, FL 33907  
+Attn: Customer Service  
+
 
   * **[General Inquiries](http://support.applian.com/support/tickets/new)**
   * **[Technical Support](https://web.archive.org/support/?data-filter=.products) **
