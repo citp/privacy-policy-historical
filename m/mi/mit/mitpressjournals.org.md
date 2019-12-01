@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitpressjournals.org privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530225731id_/https%3A//www.mitpressjournals.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitpressjournals.org privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201180227id_/https%3A//www.mitpressjournals.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | MIT Press Journals
 
