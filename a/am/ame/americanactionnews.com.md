@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanactionnews.com privacy policy that was archived on 2019-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190422232421id_/https%3A//americanactionnews.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanactionnews.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201150433id_/https%3A//americanactionnews.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Action News
 
@@ -6,7 +6,7 @@
 
   This Privacy Policy is applicable to the American Action News website or any of its subsidiaries and/or affiliates under its control (collectively “we”, “us” or “our”). As used herein, the term “Site” refers to the [www.americanactionnews.com](http://www.americanactionnews.com/) worldwide web location, and mobile-optimized versions of the same to which this Privacy Policy is linked, along with any subpages or other websites or online accounts owned or operated by us.
 
-  Your use of our website(s) is governed by the terms and conditions outlined in this Privacy Policy and our [Terms of Use](http://americanactionnews.com/about/terms-of-use). This Privacy Policy will tell you what information we collect when you visit our website(s), how we use that information, and what choices you have about how it is used. We urge you to read our entire Privacy Policy.  Use of our website(s) constitutes acceptance of all terms contained herein. If you do not accept any of the terms contained herein, you must cease use of this website immediately.
+  Your use of our website(s) is governed by the terms and conditions outlined in this Privacy Policy and our [Terms of Use](https://americanactionnews.com/about/terms-of-use). This Privacy Policy will tell you what information we collect when you visit our website(s), how we use that information, and what choices you have about how it is used. We urge you to read our entire Privacy Policy.  Use of our website(s) constitutes acceptance of all terms contained herein. If you do not accept any of the terms contained herein, you must cease use of this website immediately.
 
   **Collection of Personally Identifiable Information**
 
@@ -101,6 +101,6 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
   **Legal Notice and Terms and Conditions**
 
-  Please also read the [Terms of ](http://americanactionnews.com/about/terms-of-use)[Use](http://americanactionnews.com/about/terms-of-use) to understand the additional terms and conditions that apply to your use of our website(s).
+  Please also read the [Terms of ](https://americanactionnews.com/about/terms-of-use)[Use](https://americanactionnews.com/about/terms-of-use) to understand the additional terms and conditions that apply to your use of our website(s).
 
     Policy last updated May 2018 
