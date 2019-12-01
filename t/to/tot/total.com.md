@@ -1,72 +1,82 @@
-> *The following text is extracted and transformed from the total.com privacy policy that was archived on 2017-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170616204241id_/http%3A//www.total.com/en/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the total.com privacy policy that was archived on 2019-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191201221320id_/https%3A//www.total.com/en/privacy) for the most accurate reproduction.*
 
-# Cookie Policy | total.com
+# Privacy | total.com
 
-## Personal Data Protection Policy
+Welcome to the website [https://www.total.com](https://www.total.com/) (the “website”). By connecting to or browsing the website, you agree that you have read, understood and accepted, without limitation or reservation, the personal data and cookies management policy (the “policy”) and our terms and conditions of use. Please note that other terms and conditions and personal data protection policies apply to other Total Group websites, and we recommend that you read them carefully.
 
-Welcome to the website [http://www.total.com](http://www.total.com/) (the “Website"). By connecting to the Website, you acknowledge that you have read, understood and accepted this Personal Data Protection Policy (herein after referred to as the “Policy”) without limitation or reservation along with [our General Terms and Conditions of Use](http://www.total.com/en/cookie-policy). Please note that other general terms and conditions and personal data protection policies apply to other websites of the Total group. It is recommended that you read them carefully.
+The policy aims to inform you of the rights and freedoms that you can exercise in respect of our use of your personal data and describes the measures that we take to protect these data.
 
-This Policy is intended to inform you of the rights and freedoms that you can exercise with regard to our use of your personal data. It also describes the measures implemented to protect them.
+Total S.A is the “data controller” with responsibility for processing the personal data used to manage the website. These processing operations are carried out in accordance with the applicable law.
 
-Total S.A (referred to herein as the “Data Controller”) is responsible for processing personal data concerning the management of the Website. Said processing is implemented in accordance with applicable laws.
+**1.  PURPOSE OF PROCESSING, LEGAL BASIS, THE PERIOD OF STORAGE AND TYPES OF DATA COLLECTED**
 
-### 1\. Purpose of processing and types of data collected
+When you visit the website, you may need to provide us with a number of items of personal data, such as your first name and surname, in order to use the services available.
 
-When visiting the Website, you may provide with personal data such as your surname and first name in order to benefit from the services offered. 
+The data controller processes your personal data for the purposes of providing the services and for its legitimate interest.
 
-We can in particular collect some of your personal data for external communication purposes, such as answering your requests for information and better understanding your expectations. In our online forms, compulsory fields are marked with an asterisk. If you do not answer the compulsory questions, we will not be able to provide you with the requested service.
+In particular, we may collect some items of your personal data for the purposes of external communication in order to answer your requests for information.
 
-Your personal data are not subsequently processed in any manner that is incompatible with the purpose described above or in the collection forms. They are only stored for the requisite amount of time needed to fulfill these purposes.
+In our online forms, the mandatory fields are marked with an asterisk. If you do not provide answers to the mandatory questions, we will not be able to provide you with the service(s) requested.
 
-### 2\. Data recipients
+Your personal data will not be processed subsequently in a way that is incompatible with the purposes described above or below the collection forms. Your data are kept for no longer than necessary for processing.
 
-Your personal data may be disclosed only to our specific departments tasked with processing or subsidiaries directly or indirectly owned or to specific partners, independent distributors or sub-contractors for analysis and survey purposes. 
+**2.  RECIPIENTS OF DATA**
 
-Furthermore, if you submit a comment intended to be posted online, we may publish some of your personal data on the Website. Given the characteristics of the Internet, i.e., free capture of broadcast information and the difficulty, or even the impossibility, of monitoring usage by third parties, we inform you that you can stop such distribution by contacting us, as indicated in article 5 below.
+Your personal data may be communicated to one or more of the data controller's departments or to Total Group companies and one or more partners, independent distributors or subcontractors for the purposes of analysis and surveys.
 
-The Data Controller transfers personal data in accordance with applicable laws.
+If you leave a comment intended to be posted online, we may be required to publish some of your personal data on the website. Given the characteristics of the internet, namely the unrestricted capture of published data and the fact that it is difficult, or even impossible, to control how third parties can use these data, we hereby inform you that you can object to this publication by contacting us as explained in article 5 below.
 
-### 3\. Security and confidentiality of your data 
+Any transfer of data to a country outside the European Economic Area shall be carried out in accordance with the applicable regulations and in such a way as to protect your data appropriately. 
 
-We implement the appropriate measures to ensure the security and confidentiality of your personal data and in particular to prevent them from being altered, damaged or accessed by unauthorized third parties.
+For the purposes of the services provided on this website, your data may be transferred to recipients located outside the European Union.
 
-### 4\. Management of cookies 
+For this reason, the Total Group has adopted “Binding Corporate Rules” (BCR) governing intra-Group transfers of personal data originating in the European Economic Area. 
 
- **4.1 Principles**
+For data transfers not covered by the BCR, to countries outside the European Economic Area, other guarantees are provided. 
 
-When you visit the Website, a “cookie” may be installed in your computer. A cookie is a file that records information concerning your browsing of the Website from that computer (e.g., visited pages, date and time of browsing, viewed links) and will facilitate your visits by making it easier and faster for you to identify yourself to access your target pages. 
+You can request a copy by contacting us as explained in article 5 below.
 
-You can delete cookies installed on your computer at any time and prevent new cookies being saved and receive notification before installation of a new cookie by configuring your browser software. Please refer to the help section of your browser software for more information on how to activate and deactivate these functions and refer to the browser’s “types of cookies, cookies, statistics, settings”. 
+**3.  DATA SECURITY AND CONFIDENTIALITY**
 
- **Please note that you may not benefit from some of the services if you uninstall a cookie or prevent cookies from being installed on your machine.  **
+The data controller takes appropriate steps to preserve the security and confidentiality of your personal data, including to prevent them from being distorted, damaged or disclosed to unauthorised third parties.
 
- **  4.2 Types of cookies, cookies and statistics and settings**
+**4\. COOKIE  MANAGEMENT**
 
-Cookies installed on your server when you surf on the Website are cookies which exclusively aim at enabling or facilitating communication through electronic mean or which are strictly necessary for the provision of services you require (Languages cookies, identify cookies…) or statistics cookies or other cookies under the following conditions.
+**4.1 Principle**
 
-When cookies require your prior consent to the installation, you are asked through the link “More information” in the banner displayed on the front page, given that the pursuit of the navigation on the website means your acceptation.
+A cookie is a file which enables a website to save information relating to your computer’s browsing of the website (e.g. number of visits, number of pages viewed, etc.), to make your visits to the website smoother.
 
- **4.2.1 Which cookies are installed?**
+You can at any time delete the cookies stored on your computer, object to the storage of new cookies and receive a notification before new cookies are stored by changing your browser settings using the instructions below (“Types of cookies, cookies and statistics, and settings”). 
 
- **• Data Controller cookies**
+**Please note that if you remove a cookie or object to the storage of cookies on your device, you may not be able to use some of the website's services.  **
 
-Cookie| Description| How to optout ?| Persistence  
+**4.2 Types of cookies, cookies and statistics and settings**
+
+The cookies that may be stored on your server when you browse the website are cookies which are intended solely to enable or facilitate electronic communication or which are strictly necessary to provide the service you are requesting (language cookies, login cookies, etc.), or statistics cookies or other cookies in accordance with the conditions below.
+
+When cookies require **your agreement before they can be saved** , we ask you for this agreement via the “find out more” link displayed on the first page of the website that you land on, in **which it is made clear that by continuing to browse the website you accept these cookies.  **
+
+**4.2.1 Which cookies are stored?**
+
+**• Data Controller cookies**
+
+Cookie | Description | How to optout ? | Persistence  
 ---|---|---|---  
-Site (has_js)| Contains information about the browser session and allows visitors to log into the website| See article 4.2.2| Removed when the browser is closed  
-Site (cookie_agreed)| Remembers a visitor's choice regarding cookies| See article 4.2.2| 13 months   
+Site (has_js) | Contains information about the browser session and allows visitors to log into the website | See article 4.2.2 | Removed when the browser is closed  
+Site (cookie_agreed) | Remembers a visitor's choice regarding cookies | See article 4.2.2 | 13 months   
   
- **• Third parties cookies**
+**• Third parties cookies**
 
-Cookie editor| Description| How to optout ?| Persistence  
+Cookie editor | Description | How to optout ? | Persistence  
 ---|---|---|---  
-Score Card Research Beacon| Allows Share this to see how many visitors come to the site| 
+Score Card Research Beacon | Allows Share this to see how many visitors come to the site | 
 
 <http://www.sharethis.com/privacy>
 
  click on the “Opt Out” button for advertising cookies or see article 4.2.2
 
 | 2 years  
-ShareThis| Allows sharing on Miscellaneous Social platforms| 
+ShareThis | Allows sharing on Miscellaneous Social platforms | 
 
 <http://www.sharethis.com/privacy>
 
@@ -88,10 +98,10 @@ STPC (24hours)
   
 METRIXLAB
 
-| Allows  and records the opening of the satisfaction form about the site| please contact [privacy@MetrixLab.com](mailto:privacy@MetrixLab.com) or see article 4.2.2| 7 months  
-FASTFONT| Allows to improve the display of contents| See article 4.2.2| Removed when the browser is closed  
-TWITTER| Records ID’s for sharing on twitter| Through your profile, go to your Security Settings page and uncheck the box under the promoted content section or see article 4.2.2| 18 months  
-FACEBOOK| Records ID’s for sharing on facebook| 
+| Allows and records the opening of the satisfaction form about the site | Please contact [privacy@MetrixLab.com](mailto:privacy@MetrixLab.com) or see article 4.2.2 | 7 months  
+FASTFONT | Allows to improve the display of contents | See article 4.2.2 | Removed when the browser is closed  
+TWITTER | Records ID’s for sharing on twitter | Through your profile, go to your Security Settings page and uncheck the box under the promoted content section or see article 4.2.2 | 18 months  
+FACEBOOK | Records ID’s for sharing on facebook | 
 
  
 
@@ -101,9 +111,9 @@ scroll down to the "Choice" heading, click the last "click here" link in the par
 
 | 2 years   
   
- **• Statistics cookies**
+**• Statistics cookies**
 
-Cookie editor| Description| How to optout ?| Persistence  
+Cookie editor | Description | How to optout ? | Persistence  
 ---|---|---|---  
   
 AT INTERNET
@@ -116,45 +126,36 @@ tmst
 
 Allows to see how many visitors come to the site and how often
 
-| <http://www.xiti.com/en/optout.aspx> or see article 4.2.2| 7 months  
+| <http://www.xiti.com/en/optout.aspx> or see article 4.2.2 | 7 months  
   
-Statistics Cookies enable to measure the number of visits, the number of pages views, in addition to the activity of visitors on the website including their return rate. In that case, a statistical tool creates a cookie with a unique identifier, which will Xiti – AT INTERNET be stored for a maximum of 24 months.
+Statistics cookies are used to measure the number of visits, the number of pages viewed, users’ activity on the website and how often they return. The statistics tool used generates a cookie with a unique identifier, which is stored for no longer than. Your IP address is also collected in order to determine the town/city from which you are accessing the website. This is immediately anonymised after use so that you cannot be identified as a natural person. The statistical data on website visits are collected by the providers AT Internet and Google Analytics and subsequently transferred to the data controller in an aggregated and anonymised form in a web interface to which it alone has access. The data collected are not transferred to third parties or used for other purposes. You can block those cookies by using the “opt out” proceeding above <http://www.xiti.com/en/optout.aspx> and <https://support.google.com/analytics/answer/181881?hl=en>.
 
-Your IP address is also connected in order to determine the city from where you are connected. It is immediately rendered anonymous after your navigation on the website, which prevents your identification as a physical person. The statistic data concerning the site traffic are first collected by the service provider AT Internet and then returned to the data controller through an aggregated and anonymous way with a web interface to which only him can access.
+**4.2.2.  How do you delete cookies, receive notification of their storage or change your browser settings?**
 
-Such data will not be transferred to third parties nor used for another purpose. At any time, you can block those cookies by using the “opt out” proceeding above <http://www.xiti.com/en/optout.aspx> .
+**•  How do you delete cookies already stored on your computer?**
 
- **4.2.2. How can you delete, set up your browsing to refuse or be informed about the installation of new cookies?  **
-
- **• How can you delete cookies file already installed on your computer? **
-
-  * Go on your  workstation
-  * Select in  C:\ the “Windows file”
-  * Open the “temporary internet Files” file
-  * Select all the files (CTL A) 
-  * Choose the option “delete”
+  * On your workstation;
+  * On the C:\ drive select the Windows folder;
+  * Open the “temporary internet Files” folder;
+  * Select all the files (CTRL A); 
+  * Choose the “delete” option; 
 
 
 
- **• How can you set up your browsing to refuse or be informed about the installation of new cookies? **
+**•  How do you change browser settings to reject or be informed of the storage of cookies?**
 
-  * Surfing with Internet Explorer 5 (Microsoft): choose “Tools”, “internet Options”, “Security”, “Customise the level”, in the rolling menu, click on, “authorize cookies on your computer”, choose “ask for”, to be informed or deactivate so as to refuse all the cookies
-  * Surfing with Internet Explorer 6, 7 or 8 (Microsoft): Click on “Tools”, “Internet Options”, “Confidentiality”, then the level you want to apply.
-  * Surfing with Firefox: Click on “Tools”, “Options”. In “Privacy” uncheck “Accept cookies”. 
-  * Surfing with Google Chrome: Click on “Customise and Control Google Chrome”, click on “Settings”. In “Confidentiality”, click “Content Settings”, and  tick “Block cookies and data from third parties websites.
+  * In the Internet Explorer 5 (Microsoft) browser: Select “Tools”, and then “Internet Options”. Click on the “Security” tab, then “Custom level” and scroll down to the “cookies” section. Next to “Allow cookies that are stored on your computer” select “Ask” to be notified or “Disable” to decline all cookies; 
+  * In the Internet Explorer 6, 7 or 8 (Microsoft) browser: Select “Tools”, “Internet Options”, “Privacy”, then the level you wish to apply; 
+  * In the Firefox browser: Click on “Tools” and select “Options”. In the “Privacy and security” tab, untick the box “Accept cookies from websites”; 
+  * In the Chrome (Google) browser: Click “Customize and control Google Chrome” and select “Settings”. Under “Privacy and security”, click on “Content settings” and enable “Block third-party cookies".
 
 
 
-### 5\. Your rights 
+**5\. YOUR RIGHTS / CONTACT**
 
-You have a right to access, query, modify, rectify or delete your personal data. You can obtain disclosure of your personal data. You can also object to the processing and circulation of your personal data. The Company reserves the right to reject any request it deems inappropriate. In accordance with applicable law in force, you have a right of formal consent to sales canvassing via e-mail, fax or automatic caller.
+In accordance with current regulations, you have the right to access, correct, delete and object to the use of your personal data. You also have a right to prior consent to marketing and to object to it under the applicable regulations. You can ask for your personal data to be sent to you and you have the right to give instructions for the use of your personal data after your death.  You can also ask for restriction of the data and/or make a claim to the CNIL (the French data protection agency). Please use the contact form (<https://www.total.com/en/formulaire-de-contact>) to make your request or send it to the following address
 
-If you wish to exercise these rights or obtain other information, please send your request by e-mail Total S. A  or by post to the following address: 
-
-TOTAL S.A.
-
-Legal Department
-
-2 Place Jean Millier - La Défense 6
-
-92400 COURBEVOIE, France 
+TOTAL S.A.  
+Communication Department  
+2 Place Jean Millier - La Défense 6  
+92400 COURBEVOIE, France
