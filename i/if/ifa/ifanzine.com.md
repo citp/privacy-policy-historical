@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifanzine.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531044646id_/https%3A//ifanzine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifanzine.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202202041id_/https%3A//ifanzine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - iFanzine.com
 
