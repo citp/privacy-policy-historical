@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the subsplash.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521060141id_/http%3A//www.subsplash.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subsplash.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202231020id_/https%3A//www.subsplash.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy — Subsplash.com | Engage your audience like never before.
+# Subsplash Customer Privacy Policy | Subsplash
 
 [Haga clic aquí para el español/Click here for Spanish.](https://web.archive.org/privacy-spanish)
 
 [Cliquez ici pour le français/Click here for French](https://web.archive.org/privacy-french)
 
-Last updated March 04, 2019. Version 3.7
+Last updated September 12, 2019 - Version 3.8
 
 This privacy policy describes the collection, use, protection, disclosure, correction and deletion of your personal information by Subsplash.  Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information.  Your privacy is a priority at Subsplash, and we go to great lengths to protect it.
 
@@ -70,7 +70,9 @@ At times we may be required by law or litigation to disclose your personal infor
 
 ### Subsplash Giving
 
-Subsplash Giving is web-enabled functionality that can be used with a web browser and on mobile devices.  It was developed by Subsplash to enable donors to donate money to third-party organizations. If you choose to use the Subsplash Giving functionality to donate money, Subsplash and the payment processor will collect personal information from you, including your name, contact information, the donation amounts, and the payment processor receives certain payment information (e.g. credit card number, billing address, security code) and will use that information to process payments and provide you records of the transactions.  Donor information will be shared with the Gift Recipient.
+Subsplash Giving is web-enabled functionality that can be used with a web browser and on mobile devices.  It was developed by Subsplash to enable donors to donate money to third-party organizations. If you choose to use the Subsplash Giving functionality to donate money, Subsplash and the payment processor will collect personal information from you, including your name, contact information, the donation amounts, and the payment processor receives certain payment information (e.g. credit card number, billing address, security code) and will use that information to process payments and provide you records of the transactions. Donor information will be shared with the Gift Recipient.
+
+When you send a text message to Subsplash or Subsplash Wallet for purposes of utilizing text-to-give functionality, you will be disclosing your cell phone number to Subsplash, Inc., and you thereby consent to receiving a hyperlink to the Subsplash Wallet donation portal via text message. In order to stop receiving texts from Subsplash or Subsplash Wallet, respond to the text message by typing, “STOP.”
 
 ### Cookies and other technologies
 
