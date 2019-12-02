@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609143728id_/https%3A//www.lawteacher.net/company-information/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202073222id_/https%3A//www.lawteacher.net/company-information/privacy-policy.php) for the most accurate reproduction.*
 
 # LawTeacher - Privacy Policy
 
