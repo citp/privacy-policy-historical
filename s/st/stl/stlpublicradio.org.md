@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stlpublicradio.org privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203011450id_/http%3A//www.stlpublicradio.org/support/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlpublicradio.org privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202113057id_/https%3A//www.stlpublicradio.org/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | St. Louis Public Radio
 
 St. Louis Public Radio recognizes that visitors to our site may be concerned about the information they share with us and how we treat that information. St. Louis Public Radio is committed to protecting the privacy and security of users of our site. This statement describes our privacy policy. By visiting stlpublicradio.org, you signify your agreement to the terms and conditions of St. Louis Public Radio’s Privacy Policy.
 
@@ -23,7 +23,7 @@ Use of Information
 [membership@stlpublicradio.org](mailto:membership@stlpublicradio.org)  
 (314) 516-7474  
 St. Louis Public Radio, 3651 Olive St., St. Louis, MO 63121.
-  * Please see our [Member List Policy](https://web.archive.org/web/20181203011450id_/http%3A//www.stlpublicradio.org/support/memberlist.php) for more information.
+  * Please see our [Member List Policy](https://web.archive.org/web/20191202113057id_/https://www.stlpublicradio.org/info/privacy-policy/memberlist.php) for more information.
 
 
 
