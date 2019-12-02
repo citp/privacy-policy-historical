@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bigml.com privacy policy that was archived on 2017-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171006105217id_/https%3A//bigml.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigml.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202221545id_/https%3A//bigml.com/privacy) for the most accurate reproduction.*
 
-# Terms of Service | BigML.com
+# Privacy Policy | BigML.com
 
 Welcome to BigML!
 
 PLEASE READ THIS POLICY CAREFULLY BEFORE USING THE SERVICES OFFERED BY BIGML INC (“BIGML”)
 
-Last updated: January 17th, 2012
+Last updated: Nov 27th, 2018
 
 Your privacy is important to BigML. We have developed a Privacy Policy that covers the information BigML collects and stores, how BigML uses personal information, how BigML shares, transfers or discloses, your information. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions. 
 
@@ -14,7 +14,7 @@ This Privacy Policy (the “BigML Privacy Policy”) governs the BigML web site 
 
 This Privacy Policy describes our policies and procedures regarding the collection, use and disclosure of personally identifiable information made available by users of the BigML Services. 
 
-The use of the BigML Services is governed by the Terms of Service ("Terms of Services") available at [https://bigml.com/tos](https://web.archive.org/tos). 
+The use of the BigML Services is governed by the Terms of Service ("Terms of Services") available at [https://bigml.com/tos/](https://web.archive.org/tos/). 
 
 ## A. The Information BigML Collects and Stores
 
@@ -22,15 +22,17 @@ We may collect and store the following information when running the BigML Servic
 
   1. **Information You Provide**
     * When you register an account, BigML collects some personally identifiable information, including but not limited to: name, email address, username, password, country, and any and all other information that you share with us. We receive and store any information you enter through the Service or give us in any other way.
-    * You may review, update, correct or delete the Personal Information provided in your registration at [https://bigml.com/account](https://web.archive.org/account).
+    * You have the option to provide additional information in the form of a survey on your intended use of BigML and experience with Machine Learning. The use of this information is outlined in section B. Use and Disclosure of the Information BigML Collects.
+    * You may review, update, correct or delete the Personal Information provided in your registration at [https://bigml.com/account/profile](https://web.archive.org/account/profile).
   2. **Cookies**
     * Cookies are necessary to use BigML.com.
     * A cookie is an alphanumeric identifier in the form of a text file that is inserted and stored by your Web browser on your computer’s hard drive.
     * BigML.com uses cookies to record current session information, but does not use permanent cookies. You are required to re-login to your BigML account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
-    * BigML.com uses three types of cookies: 
+    * BigML.com uses three types of cookies, none of them can be used to collect your personal data, they only save your last status at BigML to improve your experience next time you visit the platform: 
       1. A session cookie that BigML.com uses to enable sessions. Every time you log in we send to your browser a cookie with a special identifier that your browser sends back to us with subsequent requests so that you do not need to provide your login and password with each request.
       2. A cross site request forgery protection cookie that needs to be sent back to BigML.com each time that you fill out one of our forms. This cookie helps us avoid malicious servers sending us request on your behalf.
       3. Cookies that help BigML.com to keep the state for the selections that you make in the BigML.com interface. For example, the order of elements in a listing, the length of a listing, etc.
+    * In addition, BigML uses cookies to understand how you use our service and to improve your experience. You can allow these cookies or refuse them the first time you land in BigML. If you take no action or refuse the use of these cookies, they will not be used by BigML.
     * If you do not enable your browser to accept BigML cookies, you may not be able to use BigML.com.
     * BigML does not use cookies for the purpose of sharing your identity with third party services.
   3. **Log Data**
@@ -38,7 +40,7 @@ We may collect and store the following information when running the BigML Servic
 The BigML Services contain functions for collecting and tracking non-personally identifiable information about you including your IP address, domain name, pages that were viewed, where you were referred from, and technical information such as locale preferences, browser type and operating system from Your Equipment as defined in the BigML Terms of Service.
 
   4. **Payment Data**
-    * We never have access to your full card number or CVC and therefore cannot store it. Our debit and credit card processing is handed off to Stripe, Inc (“Stripe”). Stripe has been certified to [PCI Service Provider Level 1](https://stripe.com/help/security), the most stringent level of certification available. 
+    * We never have access to your full card number or CVC and therefore cannot store it. Our debit and credit card processing is handed off to Stripe, Inc (“Stripe”). Stripe has been certified to [PCI Service Provider Level 1](https://stripe.com/docs/security), the most stringent level of certification available. 
     * However, if you decide to store your payment information for further use, then BigML stores the type, the last 4 digits and the expiration date of your card. In this way, you can save more than one payment method and can decide which one to use in the future. If you use this feature, Stripe, Inc will save your full payment information for your future purchases with BigML.
   5. **Sources, datasets, models and predictions**
     * We collect and store the sources that you input, post, transmit, stream, or upload to the BigML Services (“Data”). If you create a new BigML source that has been previously created by you, we never associate all or a portion of the previous source with your newly created source and always store a duplicate. We assign a unique identifier to every source that you create. Per our Terms of Use, you cannot download your sources from BigML. You only have access to a small portion of it that we store separately so that you can preview the content and make sure that we are parsing your source in the right way.
@@ -67,13 +69,13 @@ The BigML Services may include a bulletin board, blog or chat room ("Interactive
 
   10. **Service Providers, Business Partners and Others.**
     * BigML uses five trusted third party companies to help us provide you with a better service. 
-      1. BigML uses **Amazon Web Services LLC** (“Amazon”) as hosting partner to provide the necessary hardware, software, networking, storage, and related technology required to run the BigML Services. All the Information You Provide, Data, and Log Data is stored by Amazon. You can find more information about Amazon's security at the Amazon Web Service’s website <http://aws.amazon.com/security/>
+      1. BigML uses **Amazon Web Services LLC** (“Amazon”) as hosting partner to provide the necessary hardware, software, networking, storage, and related technology required to run the BigML Services. All the Information You Provide, Data, and Log Data is stored by Amazon. You can find more information about Amazon's security at the Amazon Web Service’s website <https://aws.amazon.com/security/>.
       2. BigML uses **Google, Inc** to process our own email and to collect our website analytics. 
         * Every time that you send us an email or we communicate directly with you your email address is stored and processed by Google. 
         * Every time that you access BigML.com, we use Google to collect and store technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on BigML.com.
-      3. BigML uses The Rocket Science Group, LLC d/b/a **MailChimp** to distribute out newsletters and promotional emails. You can find more information about Mailchimp’s security at the Mailchimp’s website.
+      3. BigML uses The Rocket Science Group, LLC d/b/a **MailChimp** to distribute out newsletters and promotional emails. You can find more information about Mailchimp’s security at the Mailchimp’s website <https://mailchimp.com/legal/privacy/>.
       4. BigML hands off debit and credit card processing to **Stripe, Inc.** Stripe has been certified to PCI Service Provider Level 1, the most stringent level of certification available. You can find more information about Stripe’s security at the Stripe’ website.
-      5. BigML uses Automattic Inc ( **Wordpress.com** )to host its blog. Wordpress.com collects access logs to our blog.
+      5. BigML uses Automattic Inc ( **Wordpress.com** ) to host its blog. Wordpress.com collects access logs to our blog.
     * These third parties may have access to your information only for purposes of performing the tasks mentioned above on our behalf and under obligations similar to those in this Privacy Policy.
 
 
@@ -87,19 +89,19 @@ BigML will use and disclose all the Information it collects only as follows:
     * BigML will use the Personal Information that You Provide: 
       1. to deliver to you any administrative notices, alerts and communications relevant to your use of the BigML Services; 
       2. to communicate with you concerning your account for an informational, as opposed to promotional, purpose.
-      3. to send you promotional materials that you elect ("opt-in") to receive.
-      4. to display your Personal Information in your account page and elsewhere on the BigML Services;
-      5. to promote use, including continued use, of the BigML Services. You have the ability to opt-out of receiving our promotional emails and to terminate newsletter subscriptions by following the instructions in the emails. Opting out in this manner will not end transmission of service-related emails, such as email alerts;
-      6. to bill and collect sums owed to us. Uses for this purpose include sending you emails, invoices, receipts and notices of delinquency, to alert you if we need a different credit card number, and to otherwise try to collect money owed;
-      7. to send you system alert messages to let you know about temporary or permanent changes to our Services including planned outages, new features offered, version updates, point releases, major releases, abuse warnings, changes to our Privacy Policy and possibly other documents and agreements.
-      8. to help enforce compliance with our Terms of Use and applicable law.
+      3. to display your Personal Information in your account page and elsewhere on the BigML Services;
+      4. to promote use, including continued use, of the BigML Services. You have the ability to opt-out of receiving our promotional emails and to terminate newsletter subscriptions by following the instructions in the emails, or directly from the "Privacy settings" section of your account page. Opting out in this manner will not end transmission of service-related emails, such as email alerts. You can manually opt-out from: 
+        1. being sent updates on new product features, events, and interesting news.
+        2. being sent personalized tutorials, use cases, and other helpful content to succeed in your Machine Learning journey.
+        3. being contacted by BigML to discuss how to best approach your Machine Learning project, schedule product demos, and be invited to BigML events.
+      5. to bill and collect sums owed to us. Uses for this purpose include sending you emails, invoices, receipts and notices of delinquency, to alert you if we need a different credit card number, and to otherwise try to collect money owed;
+      6. to send you system alert messages to let you know about temporary or permanent changes to our Services including planned outages, new features offered, version updates, point releases, major releases, abuse warnings, changes to our Privacy Policy and possibly other documents and agreements.
+      7. to help enforce compliance with our Terms of Use and applicable law.
   2. **Log Data**
     * The log data that we collect is used to improve the performance, quality and user experience of the BigML Services, and is not shared with or sold to other organizations for commercial purposes. 
-    * Part of BigML’s log data is collected by Google Analytics.
+    * Part of BigML’s log data is collected by Google Analytics to understand usage behavior in aggregate so as to inform further product design improvements.
   3. **Data**
-
-BigML will in no way access your Data or any result coming out of processing that Data (datasets, models, and predictions) unless that you request so. 
-
+    * BigML will in no way access your Data or any result coming out of processing that Data (datasets, models, and predictions) unless that you request so.
   4. **Payment Data**
     * We keep your payment information (type, 4 digits and expiration date of your card) confidential and only use it in connection with the BigML Services. We do not disclose or distribute any data to a third party or use any such data for marketing purposes. 
     * Once you decide to delete a payment method or delete your account we request Stripe to delete all your information and BigML also deletes it out of our systems.
