@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510062429id_/https%3A//www.clips4sale.com/clips/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clips4sale.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202131617id_/https%3A//www.clips4sale.com/clips/page/privacypolicy) for the most accurate reproduction.*
 
 # Amateur Porn | Fetish Porn Videos - Clips4Sale.com
 
-[](https://web.archive.org/)
+[ ](https://www.clips4sale.com/)  
+
+ 
 
 ## Privacy Policy
 
-Intermark Management, Inc. (the “Company”) respects your privacy and is committed to protecting it through this privacy policy (the “policy”). This policy describes the types of information the Company may collect from you or that you may provide when you visit any of the websites listed above (“Website”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information.
+     
+
+Tropical Sun Ltd (hereinafter “we”, “us”, “our”, or the “Company”) respects your privacy and is committed to protecting it through this privacy policy (the “policy”). This policy describes the types of information the Company may collect from you or that you may provide when you visit any of the websites listed above (collectively referred to as the “Website”) and the Company’s practices for collecting, using, keeping, protecting, and disclosing that information.
 
 This policy applies to information the Company collects:
 
@@ -24,13 +28,15 @@ It does not apply to information collected by:
 
 • any third-party (including the Company’s affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from (or on) the Website.
 
-Please read this policy carefully to understand the Company’s policies and practices regarding your information and how the Company will treat it. If you do not agree with the Company’s policies and practices, your choice is not to use the Website. **By accessing or using the Website, you agree to this policy and consent to the Company’s collection, use, disclosure, retention, and protection of your personal information as described in this policy.** The Company may change this policy on one or more occasions. The Company will consider your continued use of the Website after the Company makes changes as your acceptance of the changes, so please check this policy frequently for updates.
+Please read this policy carefully to understand the Company’s policies and practices regarding your information and how the Company will treat it. If you do not agree with the Company’s policies and practices, your choice is not to use the Website. **By accessing or using the Website, you agree to this policy and consent to the Company’s collection, use, disclosure, retention, and protection of your personal information as described in this policy.**
+
+The Company may change this policy on one or more occasions. The Company will consider your continued use of the Website after the Company makes changes as your acceptance of the changes, so please check this policy frequently for updates. 
 
 1\. Are minors welcome?
 
 The Website is not intended for persons under 18-years old. You will only access the Website or register if (1) you are at least 18-years old and (2) have reached the age of majority where you live. The Company prohibits all persons who do not meet the age requirements from accessing the Website. Minors must not access the Website or use its services.
 
-The Company does not knowingly collect any information about children, minors, or anyone under the age of majority. Nor does the Company knowingly market to children, minors, or anyone under 18-years old. If you are under 18-years old, you must not submit information to the Company and must leave the Website. If the Company becomes aware that a child, minor, or anyone under 18-years old has registered with the Website and provided the Company with personal information, the Company will take steps to cancel that account. If the Company cancels your account because you are under 18-years old, the Company may keep your email and IP address to ensure that you do not elude the rules by creating a new account.
+The Company does not knowingly collect any information about children, minors, or anyone under the age of majority. Nor does the Company knowingly market to children, minors, or anyone under 18-years old. If you are under 18-years old, you must not submit information to the Company and must leave the Website. If the Company becomes aware that a child, minor, or anyone under 18-years old has registered with the Website and provided the Company with personal information, the Company will take steps to cancel that account. If the Company cancels your account because you are under 18-years old, the Company may keep your email and IP address to ensure that you do not elude the rules by creating a new account. If you become aware that your child has provided us with personal information, please send the Company an email at: [support@clips4sale.com](mailto:support@clips4sale.com).
 
 2\. What types of information does the Company collect about you and how is it collected?
 
@@ -76,11 +82,11 @@ As you navigate through and interact with the Website, the Company may use autom
 
 • In Android operating systems, by opening the “Google Settings app” from your app drawer, tapping “Ads”, and selecting “Opt-out of Interest-based ads” (http://developer.android.com/google/play-services/id.html). Please note that this will block your phone from receiving tailored ad recommendations across your device.
 
-• In iOS operating systems, by clicking on Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to ‘ON’ (https://support.apple.com/enus/HT202074). Please note that this will block your phone from receiving tailored ad recommendations across your device.
+• In iOS operating systems, by clicking on Settings -> General -> About -> Advertising and toggling Limit Ad Tracking to ‘ON’ (https://support.apple.com/en-us/HT202074). Please note that this will block your phone from receiving tailored ad recommendations across your device.
 
 • Information about your computer and Internet connection, including your IP address, operating system, and browser type.
 
-• Information about your mobile device and Internet connection, including the device’s unique device identifier, IP address, operating system, browser type, mobile network information, and the device’s telephone number. This information may also include details about your mobile carrier, your precise geographic location information, and other information described in this policy. If you do not want your location known, you can turn off location services on your mobile device by going to: 1) settings, 2) location services, 3) off [for iOS devices]; and, 1) profile, 2) privacy, 3) on [for Android devices.]
+Information about your mobile device and Internet connection, including the device’s unique device identifier, IP address, operating system, browser type, mobile network information, and the device’s telephone number. This information may also include details about your mobile carrier, your precise geographic location information, and other information described in this policy. If you do not want your location known, you can turn off location services on your mobile device by going to: 1) settings, 2) location services, 3) off [for iOS devices]; and, 1) profile, 2) privacy, 3) on [for Android devices.]
 
 The information the Company collects automatically is statistical data and does not include personal information, but the Company may keep it or associate it with personal information the Company collects in other ways or receive from third parties. It helps the Company to improve the Website and to deliver a better and more personalized service, including by allowing the Company to:
 
@@ -104,13 +110,13 @@ The Company does not collect personal information automatically, but it may tie 
 
 Third-party Use of Cookies and Other Tracking Technologies
 
-Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
+Some content or applications, including advertisements, on the Website are served by third parties, including advertisers, ad networks and servers, content providers, and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use the Website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest-based (behavioral) advertising or other targeted content.
 
 The Company does not control third-party tracking technologies or how third parties’ use them. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly.
 
 Social Networks and Third-Party Plug-ins
 
-The Website may include plugins from social networks and other third parties. An example of a plugin is the Facebook® “Like” button. Where legally permitted, these plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the webpage you are visiting on the Website. Loading, using, or clicking the plugins may also place, read, and transmit cookies. These cookies may contain a unique identifier the social network or third-party assigns you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin.
+The Website may include plugins from social networks and other third parties. An example of a plugin is the Facebook® “Like” button. Where legally permitted, these plugins may communicate with and send information to the party that provided the plugin, even if you do not click on the plugin. This information may include your IP address, information about your browser and device, and the address of the webpage you are visiting on the Website. Loading, using, or clicking the plugins may also place, read, and transmit cookies. These cookies may contain a unique identifier the social network or third-party assigns you. The loading, functionality, and your use of the plugins are governed by the privacy policy and terms of the party that provided the plugin.
 
 3\. How does the Company use your information?
 
@@ -140,7 +146,7 @@ The Company may use information that it collects about you or that you provide t
 
 • For any other purpose with your consent.
 
-The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please send the Company an email: [support@clips4sale.com](mailto:support@clips4sale.com). For more information, see What choices do you have about how the Company uses and disclose your information.
+The Company may also use your information to contact you about the Company’s own and third parties’ goods and services that may be of interest to you. If you do not want the Company to use your information in this way, please send the Company an email: _[support@clips4sale.com](mailto:support@clips4sale.com)_. For more information, see What choices do you have about how the Company uses and disclose your information.
 
 The Company may use the information it has collected from you to allow the Company to display advertisements to its advertisers’ target audiences. Even though the Company does not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
 
@@ -182,7 +188,7 @@ The Company strives to provide you with choices about the personal information y
 
 • Promotional Offers from the Company. If you do not want to have your email address used by the Company to promote its own or third parties’ products or services, you can opt out by sending the Company an email: [support@clips4sale.com](mailto:support@clips4sale.com). If the Company has sent you a promotional email, you may send the Company a return email asking to be omitted from future email distributions or click on the “unsubscribe” link at the bottom of the email. This opt out does not apply to information provided to the Company as a result of a service purchase or other transactions.
 
-• Targeted Advertising. If you do not want the Company to use information that it collects or that you provide to it to deliver advertisements according to its advertisers’ targetaudience preferences, you can opt out by changing your email settings in your account. You can also always send the Company an email: [support@clips4sale.com](mailto:support@clips4sale.com). For this opt out to function, you must have your browser set to accept browser cookies.
+• Targeted Advertising. If you do not want the Company to use information that it collects or that you provide to it to deliver advertisements according to its advertisers’ target audience preferences, you can opt out by changing your email settings in your account. You can also always send the Company an email: [support@clips4sale.com](mailto:support@clips4sale.com). For this opt out to function, you must have your browser set to accept browser cookies.
 
 The Company does not control third parties’ collection or use of your information to serve interest-based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way.
 
@@ -208,7 +214,7 @@ The Website may be subject to Canadian law, specifically, the Personal Informati
 
 9\. Do Not Track Policy
 
-Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. The Company is committed to providing you with meaningful choices about the information it collects and that is why the Company provides you the ability to opt out. However, the Company does not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information, visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
+Do Not Track (“DNT”) is a privacy preference that you can set in your browser. DNT is a way for you to inform websites and services that you do not want certain information about your webpage visits collected over time and across websites or online services. The Company is committed to providing you with meaningful choices about the information it collects and that is why the Company provides you the ability to opt out. However, the Company does not recognize or respond to any DNT signals as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT. For more information, visit [www.allaboutdnt.com](http://www.allaboutdnt.com/).
 
 10\. Your California Privacy Rights
 
@@ -232,7 +238,9 @@ By submitting a copyright infringement notice or other communication (including 
 
 14\. Changes to Privacy Policy
 
-The Company will post any changes it makes to this policy on this page. If the Company makes material changes to how it treats your personal information, the Company will notify you by email to the email address identified in your account or through a notice on the Website homepage. This policy identifies when the Company last updated it at the top of the page. You are responsible for making sure the Company has an up-to-date active and deliverable email address for you, and for frequently visiting the Website and this policy to check for any changes.
+The Company will post any changes it makes to this policy on this page. Although we may attempt to notify you when major changes are made to this policy, you are expected to periodically review the most up-to-date version found on this page, so you are aware of any changes, as they are binding on you.
+
+If changes are made to this policy, the date of change will be indicated next to the “last modified” inscription at the top of this page. You agree that you will periodically review this policy and refresh the page when doing so. You agree to note the date of the last revision to this policy to make sure you’ve reviewed the latest applicable and effective version. If the “last modified” date is unchanged from the last time you’ve reviewed this policy, it means it remains unchanged. If the “last modified” date has changed, then there have been changes, and you agree to review this latest version of the policy. By continuing to use the Website after an amended version of this policy is in effect and posted on this page, you consent to such amendment and agree to its terms and conditions.
 
 15\. GDPR Privacy Policy
 
@@ -242,4 +250,4 @@ Our GDPR Privacy Policy can be found here: <https://www.clips4sale.com/clips/pag
 
 To ask questions or comment about this policy and the Company’s privacy practices, contact the Company at [customerservice@clips4sale.com](mailto:customerservice@clips4sale.com).
 
-This document prepared by Walters Law Group. All rights reserved. © (2018)
+This document prepared by: Walters Law Group, www.FirstAmendment.com. All Rights Reserved. © (2019)
