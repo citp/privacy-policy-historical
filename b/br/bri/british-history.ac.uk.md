@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627081306id_/https%3A//www.british-history.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-history.ac.uk privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202062922id_/https%3A//www.british-history.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | British History Online
 
