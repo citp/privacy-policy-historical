@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysoftwarekeys.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610021709id_/https%3A//mysoftwarekeys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysoftwarekeys.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202134710id_/https%3A//mysoftwarekeys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Mysoftwarekeys Windows 10 Product keys
 
