@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datalounge.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330003810id_/https%3A//www.datalounge.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datalounge.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202223321id_/https%3A//www.datalounge.com/terms) for the most accurate reproduction.*
 
-# /web/20190330003810id_/https%3A//www.datalounge.com/terms
+# /web/20191202223321id_/https%3A//www.datalounge.com/terms
 
 This statement covers the site datalounge.com ("The DataLounge" and/or the "Site") which is proved by Mediapolis inc. ("Mediapolis" and/or "we") and any associated content such as email, text messages, and possible subliminal suggestions. Please read this statement carefully before proceeding to access The DataLounge. Your use of The DataLounge indicates your agreement to abide by these terms below. Yes it does. Don't argue. Thank you. 
 
