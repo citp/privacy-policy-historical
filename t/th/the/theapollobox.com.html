@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theapollobox.com privacy policy that was archived on 2019-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190327092215id_/https%3A//www.theapollobox.com/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theapollobox.com privacy policy that was archived on 2019-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191202185221id_/https%3A//theapollobox.com/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head><style>
 	/* rules for navigation menu */
@@ -38,7 +38,26 @@
 		width: 16px;
 		height: 16px;
 	}
-
+	.sub1 > li > a {
+		background-color: #f8f8f8;
+	}
+	.sub2 > li > a {
+		background-color: #FCF9F7;
+	}
+	.sub3 > li > a {
+		background-color: rgb(246, 243, 241);
+	}
+	.arrow-triangle{
+		position:absolute;
+		top: 15px;
+		right: 5px;
+		width:0; 
+		height:0; 
+		border:5px solid; 
+		border-color:#31313f transparent transparent transparent;
+		background:transparent !important;
+		transform: rotate(-90deg);
+	}
 	@media (max-width: 768px) {
 	.my_links-group__link .icon {
 			margin-right: 0px;
@@ -66,7 +85,7 @@
 		z-index: 100;
 	}
 
-	ul#navmenu, ul.sub1, ul.sub2 {
+	ul#navmenu, ul.sub1, ul.sub2,ul.sub3{
 		list-style-type: none;
 		font-size: 9pt;
 	}
@@ -88,7 +107,6 @@
 		width: 160px;
 		height: 40px;
 		line-height: 40px;
-		background-color: #FFF;
 		outline: none !important;
 	}
 
@@ -96,13 +114,20 @@
 		border: 0;
 		border-radius:0;
 	}
-		
+	ul#navmenu a{
+		position: relative;
+	}
 	ul#navmenu .sub1 a {
 		text-align: center;
 		outline: none;
+		position: relative;
 	}
 		
 	ul#navmenu .sub2 a {
+		margin-left: 3px;
+		outline: none;
+	}
+	ul#navmenu .sub3 a {
 		margin-left: 3px;
 		outline: none;
 	}
@@ -110,15 +135,30 @@
 	ul#navmenu li:hover > a,
 	ul#navmenu li:focus > a
 	{
-		background-color: #f9f9f9;
-	}
+		background-color: #eceef1;
 		
-	ul#navmenu li:hover a:hover,
-	 {
+	}
+	ul#navmenu a::before {
+		content: '';
+		width: 100%;
+		height: 3px;
+		background-color: #1cb4d1;
+		position: absolute;
+		bottom: -1px;
+		left: 0px;
+		opacity: 0;
+	}
+	ul#navmenu li:hover a:hover
+	{
 		color: #000;
 		background-color: #eceef1;
 	}
-		
+	ul#navmenu a:hover::before {
+  	opacity: 1;
+	}
+	ul#navmenu a:focus::before {
+  	opacity: 1;
+	}	
 	ul#navmenu ul.sub1 {
 		display: none;
 		position: absolute;
@@ -131,22 +171,46 @@
 		display: none;
 		position: absolute;
 		top: 0px;
-		left: 126px;
+		left: 120px;
+	}
+	ul#navmenu ul.sub3 {
+		display: none;
+		position: absolute;
+		top: 0px;
+		left: 122px;
 	}
 		
-	ul#navmenu li:hover .sub1,
+	ul#navmenu li:hover .sub1
 	{
 		display: block !important;
 	}
 		
-	ul#navmenu .sub1>li:hover .sub2, 
+	ul#navmenu .sub1>li:hover .sub2
+	{
+		display: block !important;
+	}
+	ul#navmenu .sub3>li:hover .sub3
 	{
 		display: block !important;
 	}
 
 	@media (max-width: 1350px) {
+		.arrow-triangle{
+			position:absolute;
+			top: 15px;
+			left: 5px;
+			width:0; 
+			height:0; 
+			border:5px solid; 
+			border-color:#31313f transparent transparent transparent;
+			background:transparent !important;
+			transform: rotate(90deg);
+		}
 		ul#navmenu .sub2 a {
-			margin-left: -336px;
+			margin-left: -324px;
+		}	
+		ul#navmenu .sub3 a {
+			margin-left: -650px;
 		}	
 
 		/* ul#navmenu li:hover .sub1,
@@ -159,15 +223,18 @@
 			display: block !important;
 		} */
 	}
-	ul#navmenu li:hover .sub1,
-		{
-			display: block !important;
-		}
-		
-		ul#navmenu .sub1 li:hover .sub2,
-		{
-			display: block !important;
-		}
+	ul#navmenu li:hover .sub1
+	{
+		display: block !important;
+	}
+	ul#navmenu .sub1 li:hover .sub2
+	{
+		display: block !important;
+	}
+	ul#navmenu .sub2 li:hover .sub3
+	{
+		display: block !important;
+	}
 	.show-menu{
 		display: block !important;
 	}
@@ -190,17 +257,6 @@
 		right: -20px;
 	}
 	*/
-
-	
-
-	.nav-sub-btn{
-		position: fixed;
-		/* display:none; */
-		z-index: 100000;
-		width: 100%;
-		background: #fff;
-	}
-	
 
 </style>
 
@@ -258,11 +314,18 @@
 	<link rel="stylesheet" href="/css/style/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" /> -->
 
 	
-	<link rel="stylesheet" href="https://rs.apolloboxassets.com/hosted/dist/main10.min.css">
+	<link rel="stylesheet" href="https://rs.apolloboxassets.com/hosted/dist/main19.min.css">
 	
-
-	<!--google analytics-->
 	<script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+		// 
+		var checkIsDev =	(function (isDev){
+			return function(){
+				return isDev;
+			}
+		})()
+	</script>
+	<!--google analytics-->
+	<script>
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -406,7 +469,7 @@
 				<input class="form-control" type="search" name="search_query" id="product-query-input-desktop" placeholder="Search" aria-label="Search">
 				<button class="search__close focus-outline" name="close search bar" aria-label="close search bar">
 					<svg role="img" class="icon icon-close">
-						<use xlink:href="/icons/	icons.svg#icon-close"></use>
+						<use xlink:href="/icons/icons.svg#icon-close"></use>
 					</svg>
 				</button>
 			</form>
@@ -497,14 +560,6 @@
 	<!-- / HEADER -->
 
 	<!-- MENU -->
-	<div class="menu__list nav-sub-btn" style="display:none">
-			<a href="/subscriptionbox" class="nav-surprise" role="button">
-				Surprise Box
-			</a>
-			<a href="/jewelryBox" style="width:100%" class="nav-jewelry" role="button">
-				Jewelry Box
-			</a>
-	</div>
 	
 	<div class="menu">
 		<div class="container">
@@ -525,26 +580,21 @@
 					</a>
 				</div>
 				<div class="dropdown">
-					<a href="/category/94vuocVx8Y/spring-collection" role="button">
-						Spring
-					</a>
-				</div>
-				<div class="dropdown">
 					<a href="/category/VxaI0oqCYN/winter-collection" role="button">
 						Winter
 					</a>
 				</div>
 				<div class="dropdown">
-					<a href="/category/ivEtDFtHHN/group-sale" role="button">
-						Group Sale
+					<a href="/category/pesXqTZl8I/space-collection" role="button">
+						Space Collection
 					</a>
 				</div>
 				
-				<div class="nav-surprise-parent">
-							<a href="javascript:void(0)" role="button">
-									Surprise Box
-							</a>
-				</div>
+					<div class="dropdown">
+						<a href="/jewelryBox" role="button">
+							Jewelry Box
+						</a>
+					</div>
 				
 				<div class="dropdown">
 					<a href="/giftGuide" role="button">
@@ -553,7 +603,7 @@
 				</div>
 				<div class="dropdown">
 					<a href="/storeList" role="button">
-						All Shops
+						Top Shops
 					</a>
 				</div>
 
@@ -588,6 +638,7 @@
 					</div>
 				</div> -->
 			</nav>
+			<div class="test"></div>
 
 			<div class="links-group">
 				<ul id="navmenu" role="menubar">
@@ -606,30 +657,81 @@
 							
 							
 
-							<li><a role="menuitemradio" href="#" aria-haspopup="true">
-									Gadgets</a>
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Gadgets
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
 								<ul class="sub2">
-									<li><a role="menuitemradio" href="/category/8l7ZNCNNBV/gadgets">All
+									<li>
+										<a role="menuitemradio" href="/category/8l7ZNCNNBV/gadgets">All
 											in
-											Gadgets</a></li>
+											Gadgets
+										</a>
+									</li>
+
 									
-									<li><a role="menuitemradio" href="/category/UVNtNrGUyD/hi-tech">
-											Hi Tech</a></li>
 									
-									<li><a role="menuitemradio" href="/category/9u49AdfAVS/speakers">
-											Speakers</a></li>
 									
-									<li><a role="menuitemradio" href="/category/CNPsz3IKxP/wearables">
-											Wearables</a></li>
+									<li>
+										
+											<a role="menuitemradio" href="/category/UVNtNrGUyD/hi-tech">
+													Hi Tech
+											</a>
+										
+									</li>
 									
-									<li><a role="menuitemradio" href="/category/F8liZb21em/phone-accessories">
-											Phone Accessories</a></li>
 									
-									<li><a role="menuitemradio" href="/category/GPvHafufRM/earphones--headsets">
-											Earphones &amp; Headsets</a></li>
 									
-									<li><a role="menuitemradio" href="/category/Ng0v39bsYf/power-banks">
-											Power Banks</a></li>
+									<li>
+										
+											<a role="menuitemradio" href="/category/9u49AdfAVS/speakers">
+													Speakers
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/CNPsz3IKxP/wearables">
+													Wearables
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/F8liZb21em/phone-accessories">
+													Phone Accessories
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/GPvHafufRM/earphones--headsets">
+													Earphones &amp; Headsets
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/Ng0v39bsYf/power-banks">
+													Power Banks
+											</a>
+										
+									</li>
 									
 								</ul>
 							</li>
@@ -638,21 +740,174 @@
 							
 							
 
-							<li><a role="menuitemradio" href="#" aria-haspopup="true">
-									Fashion &amp; Beauty</a>
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Fashion &amp; Beauty
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
 								<ul class="sub2">
-									<li><a role="menuitemradio" href="/category/VcGvheAJlk/fashion--beauty">All
+									<li>
+										<a role="menuitemradio" href="/category/VcGvheAJlk/fashion--beauty">All
 											in
-											Fashion &amp; Beauty</a></li>
+											Fashion &amp; Beauty
+										</a>
+									</li>
+
 									
-									<li><a role="menuitemradio" href="/category/iSugaFS6d8/jewelry--accessories">
-											Jewelry &amp; Accessories</a></li>
 									
-									<li><a role="menuitemradio" href="/category/SbwuN2f4qp/beauty--health">
-											Beauty &amp; Health</a></li>
 									
-									<li><a role="menuitemradio" href="/category/e58QHPSq4m/bags--wallets">
-											Bags &amp; Wallets</a></li>
+									<li>
+										
+											<a role="menuitemradio" href="#" aria-haspopup="true">
+												Jewelry &amp; Accessories
+												<div class="arrow-triangle"></div>
+											</a>
+											<ul class="sub3" role="menu" aria-haspopup="true">
+													<li>
+															<a role="menuitemradio" href="/category/iSugaFS6d8/jewelry--accessories">
+																All in Jewelry &amp; Accessories
+															</a>
+													</li>	
+													
+													<li>
+														<a role="menuitemradio" href="/category/cGQUqQDFsA/rings">
+															Rings
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/DV6AOia0LM/bracelets">
+															Bracelets
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/JK5yznftLb/necklaces">
+															Necklaces
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/FclPuYp5Rv/hair-accessories">
+															Hair Accessories
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/ockFvamGk5/jewelry-for-men">
+															Jewelry For Men
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/0XF4mEBdBC/earrings">
+															Earrings
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/P0b7mgO4Ai/sunglasses">
+															Sunglasses
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/gyg73XavNP/jewelry-storage">
+															Jewelry Storage
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/kBVvIE6NbI/watches">
+															Watches
+														</a>
+													</li>
+													
+											</ul>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="#" aria-haspopup="true">
+												Beauty &amp; Health
+												<div class="arrow-triangle"></div>
+											</a>
+											<ul class="sub3" role="menu" aria-haspopup="true">
+													<li>
+															<a role="menuitemradio" href="/category/SbwuN2f4qp/beauty--health">
+																All in Beauty &amp; Health
+															</a>
+													</li>	
+													
+													<li>
+														<a role="menuitemradio" href="/category/jRkhoHE7u7/makeup">
+															Make-Up
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/Qlkt58wHWs/skin-care">
+															Skin Care
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/DluyskdCJq/bathbody">
+															Bath&amp;Body
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/BOj5wG2F29/tools--brushes">
+															Tools &amp; Brushes
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/CRLZMB8NqP/nails">
+															Nails
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/8ac10raEDO/fragrance">
+															Fragrance
+														</a>
+													</li>
+													
+											</ul>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="#" aria-haspopup="true">
+												Bags &amp; Wallets
+												<div class="arrow-triangle"></div>
+											</a>
+											<ul class="sub3" role="menu" aria-haspopup="true">
+													<li>
+															<a role="menuitemradio" href="/category/e58QHPSq4m/bags--wallets">
+																All in Bags &amp; Wallets
+															</a>
+													</li>	
+													
+													<li>
+														<a role="menuitemradio" href="/category/9GozFgiMn1/luggage-covers">
+															Luggage Covers
+														</a>
+													</li>
+													
+											</ul>
+										
+									</li>
 									
 								</ul>
 							</li>
@@ -660,16 +915,22 @@
 							
 							
 							
-							
-							
-							
 
-							<li><a role="menuitemradio" href="#" aria-haspopup="true">
-									Outdoor</a>
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Mermaid Collection
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
 								<ul class="sub2">
-									<li><a role="menuitemradio" href="/category/uP83qDr3ZS/outdoor">All
+									<li>
+										<a role="menuitemradio" href="/category/b2rNSp72jP/mermaid-collection">All
 											in
-											Outdoor</a></li>
+											Mermaid Collection
+										</a>
+									</li>
+
 									
 								</ul>
 							</li>
@@ -678,33 +939,21 @@
 							
 							
 
-							<li><a role="menuitemradio" href="#" aria-haspopup="true">
-									Home Decor</a>
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Outdoor
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
 								<ul class="sub2">
-									<li><a role="menuitemradio" href="/category/T1QvG8vUfH/home-decor">All
+									<li>
+										<a role="menuitemradio" href="/category/uP83qDr3ZS/outdoor">All
 											in
-											Home Decor</a></li>
-									
-									<li><a role="menuitemradio" href="/category/0ovFd6dKs8/clocks">
-											Clocks</a></li>
-									
-									<li><a role="menuitemradio" href="/category/2F9oHAFsIm/wall-decor">
-											Wall Decor</a></li>
-									
-									<li><a role="menuitemradio" href="/category/b4OX0QTh4R/cards--gift-wraps">
-											Cards &amp; Gift Wraps</a></li>
-									
-									<li><a role="menuitemradio" href="/category/IN3Tx3hxFq/sculptures--ornaments">
-											Sculptures &amp; Ornaments</a></li>
-									
-									<li><a role="menuitemradio" href="/category/LSIQYaIVim/terrariums--gardens">
-											Terrariums &amp; Gardens</a></li>
-									
-									<li><a role="menuitemradio" href="/category/PmOZKo8aps/planters--vases">
-											Planters &amp; Vases</a></li>
-									
-									<li><a role="menuitemradio" href="/category/dkg3dZZNSp/candles">
-											Candles</a></li>
+											Outdoor
+										</a>
+									</li>
+
 									
 								</ul>
 							</li>
@@ -713,36 +962,96 @@
 							
 							
 
-							<li><a role="menuitemradio" href="#" aria-haspopup="true">
-									Household</a>
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Home Decor
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
 								<ul class="sub2">
-									<li><a role="menuitemradio" href="/category/jdl7JNaCJ4/household">All
+									<li>
+										<a role="menuitemradio" href="/category/T1QvG8vUfH/home-decor">All
 											in
-											Household</a></li>
+											Home Decor
+										</a>
+									</li>
+
 									
-									<li><a role="menuitemradio" href="/category/d9RL8I8OJw/blankets-pillows--rugs">
-											Blankets Pillows &amp; Rugs</a></li>
 									
-									<li><a role="menuitemradio" href="/category/2Lhk2I4T2n/lamps--lighting">
-											Lamps &amp; Lighting</a></li>
 									
-									<li><a role="menuitemradio" href="/category/kG3z9kP8Dg/furniture">
-											Furniture</a></li>
+									<li>
+										
+											<a role="menuitemradio" href="/category/0ovFd6dKs8/clocks">
+													Clocks
+											</a>
+										
+									</li>
 									
-									<li><a role="menuitemradio" href="/category/AEr8UKL4VC/drinkware">
-											Drinkware</a></li>
 									
-									<li><a role="menuitemradio" href="/category/QUDafxyZs4/kitchen">
-											Kitchen</a></li>
 									
-									<li><a role="menuitemradio" href="/category/iGw42If3qj/bath--spa">
-											Bath &amp; Spa</a></li>
+									<li>
+										
+											<a role="menuitemradio" href="#" aria-haspopup="true">
+												Wall Decor
+												<div class="arrow-triangle"></div>
+											</a>
+											<ul class="sub3" role="menu" aria-haspopup="true">
+													<li>
+															<a role="menuitemradio" href="/category/2F9oHAFsIm/wall-decor">
+																All in Wall Decor
+															</a>
+													</li>	
+													
+													<li>
+														<a role="menuitemradio" href="/category/ZK75SBpqQQ/art-prints">
+															Art Prints
+														</a>
+													</li>
+													
+											</ul>
+										
+									</li>
 									
-									<li><a role="menuitemradio" href="/category/DOPGXqEPBf/storage--organizers">
-											Storage &amp; Organizers</a></li>
 									
-									<li><a role="menuitemradio" href="/category/BDCftyyVM8/pet-accessories">
-											Pet Accessories</a></li>
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/IN3Tx3hxFq/sculptures--ornaments">
+													Sculptures &amp; Ornaments
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/LSIQYaIVim/terrariums--gardens">
+													Terrariums &amp; Gardens
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/PmOZKo8aps/planters--vases">
+													Planters &amp; Vases
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/dkg3dZZNSp/candles">
+													Candles
+											</a>
+										
+									</li>
 									
 								</ul>
 							</li>
@@ -751,12 +1060,179 @@
 							
 							
 
-							<li><a role="menuitemradio" href="#" aria-haspopup="true">
-									Apparel &amp; Shoes</a>
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Household
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
 								<ul class="sub2">
-									<li><a role="menuitemradio" href="/category/PHrmYMIjEP/apparel--shoes">All
+									<li>
+										<a role="menuitemradio" href="/category/jdl7JNaCJ4/household">All
 											in
-											Apparel &amp; Shoes</a></li>
+											Household
+										</a>
+									</li>
+
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/d9RL8I8OJw/blankets-pillows--rugs">
+													Blankets Pillows &amp; Rugs
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/kG3z9kP8Dg/furniture">
+													Furniture
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/2Lhk2I4T2n/lamps--lighting">
+													Lamps &amp; Lighting
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="#" aria-haspopup="true">
+												Drinkware
+												<div class="arrow-triangle"></div>
+											</a>
+											<ul class="sub3" role="menu" aria-haspopup="true">
+													<li>
+															<a role="menuitemradio" href="/category/AEr8UKL4VC/drinkware">
+																All in Drinkware
+															</a>
+													</li>	
+													
+													<li>
+														<a role="menuitemradio" href="/category/m2xLc2IEO1/glassware">
+															Glassware
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/hrLkq9tkMx/mugs--cups">
+															Mugs &amp; Cups
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/GPb0FgYuk0/kits">
+															Kits
+														</a>
+													</li>
+													
+											</ul>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="#" aria-haspopup="true">
+												Kitchen
+												<div class="arrow-triangle"></div>
+											</a>
+											<ul class="sub3" role="menu" aria-haspopup="true">
+													<li>
+															<a role="menuitemradio" href="/category/QUDafxyZs4/kitchen">
+																All in Kitchen
+															</a>
+													</li>	
+													
+													<li>
+														<a role="menuitemradio" href="/category/RxDS6gtPDW/tablecloth--towels">
+															Tablecloth &amp; Towels
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/Fe6OaqiJqI/plates">
+															Plates
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/PHUWmtq3hC/bowls">
+															Bowls
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/9LHyEmsIE7/utensils--tools">
+															Utensils &amp; Tools
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/Rt7hI4FaNF/coasters--placemats">
+															Coasters &amp; Placemats
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/INz0DCFnmR/bento-boxes">
+															Bento Boxes
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/me97Vv5fmI/lunch-boxes--bags">
+															Lunch Boxes &amp; Bags
+														</a>
+													</li>
+													
+											</ul>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/iGw42If3qj/bath--spa">
+													Bath &amp; Spa
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/DOPGXqEPBf/storage--organizers">
+													Storage &amp; Organizers
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/BDCftyyVM8/pet-accessories">
+													Pet Accessories
+											</a>
+										
+									</li>
 									
 								</ul>
 							</li>
@@ -765,12 +1241,61 @@
 							
 							
 
-							<li><a role="menuitemradio" href="#" aria-haspopup="true">
-									Toys</a>
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Apparel &amp; Shoes
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
 								<ul class="sub2">
-									<li><a role="menuitemradio" href="/category/3YUu4stYDD/toys">All
+									<li>
+										<a role="menuitemradio" href="/category/PHrmYMIjEP/apparel--shoes">All
 											in
-											Toys</a></li>
+											Apparel &amp; Shoes
+										</a>
+									</li>
+
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/WZ8A9NlfAt/womens-dresses">
+													Women's Dresses
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/7U3znRbCet/womens-tops">
+													Women's Tops
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/VSAtSl2JDU/mens-tops">
+													Men's Tops
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/2B87ft4sBY/footwear">
+													Footwear
+											</a>
+										
+									</li>
 									
 								</ul>
 							</li>
@@ -779,12 +1304,21 @@
 							
 							
 
-							<li><a role="menuitemradio" href="#" aria-haspopup="true">
-									Food</a>
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Toys
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
 								<ul class="sub2">
-									<li><a role="menuitemradio" href="/category/h5iavgZSae/food">All
+									<li>
+										<a role="menuitemradio" href="/category/3YUu4stYDD/toys">All
 											in
-											Food</a></li>
+											Toys
+										</a>
+									</li>
+
 									
 								</ul>
 							</li>
@@ -793,12 +1327,198 @@
 							
 							
 
-							<li><a role="menuitemradio" href="#" aria-haspopup="true">
-									Office</a>
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Food
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
 								<ul class="sub2">
-									<li><a role="menuitemradio" href="/category/g9u1IJATNL/office">All
+									<li>
+										<a role="menuitemradio" href="/category/h5iavgZSae/food">All
 											in
-											Office</a></li>
+											Food
+										</a>
+									</li>
+
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/YSteKCeLoC/coffee--tea">
+													Coffee &amp; Tea
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/5f0FbrMG12/salts--seasonings">
+													Salts &amp; Seasonings
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/rlyLYBSJQM/condiments">
+													Condiments
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/am2owa3hQD/sweets--snacks">
+													Sweets &amp; Snacks
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/Qvu1LbXCzV/diy-kits">
+													DIY Kits
+											</a>
+										
+									</li>
+									
+								</ul>
+							</li>
+							
+							
+							
+							
+
+							<li>
+								<a role="menuitemradio" href="#" aria-haspopup="true">
+									Office
+									
+										<div class="arrow-triangle"></div>
+									
+								</a>
+								<ul class="sub2">
+									<li>
+										<a role="menuitemradio" href="/category/g9u1IJATNL/office">All
+											in
+											Office
+										</a>
+									</li>
+
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/b4OX0QTh4R/cards--gift-wraps">
+													Cards &amp; Gift Wraps
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="#" aria-haspopup="true">
+												Pens &amp; Pencils
+												<div class="arrow-triangle"></div>
+											</a>
+											<ul class="sub3" role="menu" aria-haspopup="true">
+													<li>
+															<a role="menuitemradio" href="/category/qzuDA9QPdt/pens--pencils">
+																All in Pens &amp; Pencils
+															</a>
+													</li>	
+													
+													<li>
+														<a role="menuitemradio" href="/category/eis1hLADFU/dip-pen-set">
+															Dip Pen Set
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/6yXYJz5MGp/pens">
+															Pens
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/sDh3DILGBi/pencil-case">
+															Pencil Case
+														</a>
+													</li>
+													
+											</ul>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/42RU3ZAEfm/desk-organizers">
+													Desk Organizers
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="/category/jEHaCWhcP1/gadgets--tools">
+													Gadgets &amp; Tools
+											</a>
+										
+									</li>
+									
+									
+									
+									<li>
+										
+											<a role="menuitemradio" href="#" aria-haspopup="true">
+												Journals &amp; Stationery
+												<div class="arrow-triangle"></div>
+											</a>
+											<ul class="sub3" role="menu" aria-haspopup="true">
+													<li>
+															<a role="menuitemradio" href="/category/zuDZFsDuTU/journals--stationery">
+																All in Journals &amp; Stationery
+															</a>
+													</li>	
+													
+													<li>
+														<a role="menuitemradio" href="/category/9poOaLZwVw/stamps--dies">
+															Stamps &amp; Dies
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/OJhvsJUjDs/notebooks--journals">
+															Notebooks &amp; Journals
+														</a>
+													</li>
+													
+													<li>
+														<a role="menuitemradio" href="/category/rToq8lyVYL/memo-pads">
+															Memo Pads
+														</a>
+													</li>
+													
+											</ul>
+										
+									</li>
 									
 								</ul>
 							</li>
@@ -820,17 +1540,16 @@
 						<ul class="sub1" id="icon-shop-collection" role="menu" aria-haspopup="true">
 							<li><a href="/category/XpwzP59wA4/best-sellers">Best Sellers</a></li>
 							<li><a href="/category/biJ0XDMWcd/new-arrivals">New Arrivals</a></li>
+							<li><a href="/pickForYou">Pick for You</a></li>
 							<li><a href="/category/Z0VeSseXyi/holiday-sale">Sale</a></li>
-							<li><a href="/category/ivEtDFtHHN/group-sale">Group Sale</a></li>
+							<li><a href="/category/pesXqTZl8I/space-collection">Space Collection</a></li>
 							<li><a href="/category/VxaI0oqCYN/winter-collection">Winter Collection</a></li>
-							<li><a href="/category/94vuocVx8Y/spring-collection">Spring Collection</a></li>
 							<li><a href="/category/yCws9zxZ5E/customized-gifts">Customized Gifts</a></li>
 							
-							<li><a href="/subscriptionbox">Surprise Box</a></li>
 							<li><a href="/jewelryBox">Jewelry Surprise Box</a></li>
 							
 							<li><a href="/event/ultimate-giveaway">Holiday Giveaway</a></li>
-							<li><a href="#">Gifts for Loved Ones</a>
+							<li><a href="#">Gifts for Loved Ones<div class="arrow-triangle"></div></a>
 								<ul class="sub2" role="menu" aria-haspopup="true">
 									<li><a href="/category/dC4aXpN1Su/for-kids">For Kids</a></li>
 									<li><a href="/category/RLA8FIhi9Z/for-moms">For Mom</a></li>
@@ -840,7 +1559,7 @@
 									<li><a href="/category/hjuN1BQTCs/for-grandparents">For Grandparents</a></li>
 								</ul>
 							</li>
-							<li><a tabindex="0" href="#">Gifts by interests</a>
+							<li><a tabindex="0" href="#">Gifts by interests<div class="arrow-triangle"></div></a>
 								<ul role="menu" class="sub2" aria-haspopup="true">
 									<li><a href="/category/NSoxfiKxa8/Cute-Gifts">Cute Gifts</a></li>
 									<li><a href="/category/s7uz5yUImd/Geek">Geek Gifts</a></li>
@@ -851,7 +1570,7 @@
 									<li><a href="/category/EfvWSKFbaI/gemstone">Gemstones &amp; Crystals</a></li>
 								</ul>
 							</li>
-							<li><a tabindex="0" href="#">Gifts by Prices</a>
+							<li><a tabindex="0" href="#">Gifts by Prices<div class="arrow-triangle"></div></a>
 								<ul role="menu" class="sub2" aria-haspopup="true">
 									<li><a href="/category/oDjf861NU2/gifts-under-15">Gifts under $15</a></li>
 									<li><a href="/category/ooridrnTnC/gifts-15-25">Gifts $15-$25</a></li>
@@ -860,39 +1579,14 @@
 									<li><a href="/category/pWUL9FRYX9/gifts-100">Gifts $100+</a></li>
 								</ul>
 							</li>
-							<li><a tabindex="0" href="/storeList">All Shops</a></li>
+							<li><a tabindex="0" href="/storeList">Top Shops</a></li>
 						</ul>
 					</li>
 				</ul>
 			</div>
 		</div>
 	</div>
-	<script>
-		$(function(){
-			$('.nav-surprise-parent').on('mouseenter',function(){
-				var top = $(this).offset().top
-				var left = $(this).offset().left
-				var height = $(this).height()
-				var width = $(this).width()
-				$('.nav-sub-btn').show();
-				$('.nav-sub-btn').height(height*2);
-				$('.nav-sub-btn').width(width);
-				$('.nav-sub-btn').css({
-					top:top+height,
-					left:left
-				})
-			})
-			$('.nav-surprise-parent').on('mouseleave',function(){
-				$('.nav-sub-btn').hide()
-			})
-			$('.nav-sub-btn').on('mouseenter',function(){
-				$('.nav-sub-btn').show();
-			})
-			$('.nav-sub-btn').on('mouseleave',function(){
-				$('.nav-sub-btn').hide();
-			})
-		})
-	</script>
+
 	<!-- / MENU -->
 	<!-- SIDENAV -->
 <div class="sidenav">
@@ -957,19 +1651,19 @@
                 <span>New Arrivals</span>
             </a>
         </li>
+        <li class="sidenav__list" id="sidebar-pickforyou">
+            <a tabindex="-1" class="collapsed sidenav__drop" href="/pickForYou" aria-expanded="false">
+                <span>Pick for You</span>
+            </a>
+        </li>
         <li class="sidenav__list" id="sidebar-sale">
             <a tabindex="-1" class="collapsed sidenav__drop" href="/category/Z0VeSseXyi/holiday-sale" aria-expanded="false">
                 <span>On Sale</span>
             </a>
         </li>
-        <li class="sidenav__list" id="sidebar-winter-collection">
+        <li class="sidenav__list" id="sidebar-summer-collection">
             <a tabindex="-1" class="collapsed sidenav__drop" href="/category/VxaI0oqCYN/winter-collection" aria-expanded="false">
                 <span>Winter Collection</span>
-            </a>
-        </li>
-        <li class="sidenav__list" id="sidebar-spring-collection">
-            <a tabindex="-1" class="collapsed sidenav__drop" href="/category/94vuocVx8Y/spring-collection" aria-expanded="false">
-                <span>Spring Collection</span>
             </a>
         </li>
         <li class="sidenav__list" id="sidebar-group-sale">
@@ -1018,17 +1712,35 @@
                     <ul id="sidenavFeatured0" class="sidenav__submenu collapse" aria-label="side navigator categories 0" data-parent="#sidenav-categories-0">
                         <li><a tabindex="-1" href="/category/8l7ZNCNNBV/gadgets"><span>All in Gadgets</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/UVNtNrGUyD/hi-tech"><span>Hi Tech</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/9u49AdfAVS/speakers"><span>Speakers</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/CNPsz3IKxP/wearables"><span>Wearables</span></a></li>
+                            <li><a tabindex="-1" href="/category/UVNtNrGUyD/hi-tech"><span>Hi Tech</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/F8liZb21em/phone-accessories"><span>Phone Accessories</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/GPvHafufRM/earphones--headsets"><span>Earphones &amp; Headsets</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/Ng0v39bsYf/power-banks"><span>Power Banks</span></a></li>
+                        
+                            <li><a tabindex="-1" href="/category/9u49AdfAVS/speakers"><span>Speakers</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/CNPsz3IKxP/wearables"><span>Wearables</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/F8liZb21em/phone-accessories"><span>Phone Accessories</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/GPvHafufRM/earphones--headsets"><span>Earphones &amp; Headsets</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/Ng0v39bsYf/power-banks"><span>Power Banks</span></a></li>
+                        
                         
                     </ul>
                 </li>
@@ -1046,11 +1758,73 @@
                     <ul id="sidenavFeatured1" class="sidenav__submenu collapse" aria-label="side navigator categories 1" data-parent="#sidenav-categories-1">
                         <li><a tabindex="-1" href="/category/VcGvheAJlk/fashion--beauty"><span>All in Fashion &amp; Beauty</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/iSugaFS6d8/jewelry--accessories"><span>Jewelry &amp; Accessories</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/SbwuN2f4qp/beauty--health"><span>Beauty &amp; Health</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/e58QHPSq4m/bags--wallets"><span>Bags &amp; Wallets</span></a></li>
+                            <a class="collapsed sidenav__drop " tabindex="-1" data-toggle="collapse" style="padding:12px 24px;color:#31313f;border-bottom: 1px solid #fff" data-target="#subSidenavFeatured1" aria-expanded="false">
+                                <span> Jewelry &amp; Accessories</span>
+                                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                            </a>
+                            <ul id="subSidenavFeatured1" class="sidenav__submenu collapse" aria-label="side navigator categories 1" data-parent="#sidenavFeatured1">
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/iSugaFS6d8/jewelry--accessories"><span>All in Jewelry &amp; Accessories</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/cGQUqQDFsA/rings"><span>Rings</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/DV6AOia0LM/bracelets"><span>Bracelets</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/JK5yznftLb/necklaces"><span>Necklaces</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/FclPuYp5Rv/hair-accessories"><span>Hair Accessories</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/ockFvamGk5/jewelry-for-men"><span>Jewelry For Men</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/0XF4mEBdBC/earrings"><span>Earrings</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/P0b7mgO4Ai/sunglasses"><span>Sunglasses</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/gyg73XavNP/jewelry-storage"><span>Jewelry Storage</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/kBVvIE6NbI/watches"><span>Watches</span></a></li>
+                                
+                            </ul>
+                        
+                        
+                        
+                        
+                            <a class="collapsed sidenav__drop " tabindex="-1" data-toggle="collapse" style="padding:12px 24px;color:#31313f;border-bottom: 1px solid #fff" data-target="#subSidenavFeatured1" aria-expanded="false">
+                                <span> Beauty &amp; Health</span>
+                                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                            </a>
+                            <ul id="subSidenavFeatured1" class="sidenav__submenu collapse" aria-label="side navigator categories 1" data-parent="#sidenavFeatured1">
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/SbwuN2f4qp/beauty--health"><span>All in Beauty &amp; Health</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/jRkhoHE7u7/makeup"><span>Make-Up</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/Qlkt58wHWs/skin-care"><span>Skin Care</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/DluyskdCJq/bathbody"><span>Bath&amp;Body</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/BOj5wG2F29/tools--brushes"><span>Tools &amp; Brushes</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/CRLZMB8NqP/nails"><span>Nails</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/8ac10raEDO/fragrance"><span>Fragrance</span></a></li>
+                                
+                            </ul>
+                        
+                        
+                        
+                        
+                            <a class="collapsed sidenav__drop " tabindex="-1" data-toggle="collapse" style="padding:12px 24px;color:#31313f;border-bottom: 1px solid #fff" data-target="#subSidenavFeatured1" aria-expanded="false">
+                                <span> Bags &amp; Wallets</span>
+                                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                            </a>
+                            <ul id="subSidenavFeatured1" class="sidenav__submenu collapse" aria-label="side navigator categories 1" data-parent="#sidenavFeatured1">
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/e58QHPSq4m/bags--wallets"><span>All in Bags &amp; Wallets</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/9GozFgiMn1/luggage-covers"><span>Luggage Covers</span></a></li>
+                                
+                            </ul>
+                        
                         
                     </ul>
                 </li>
@@ -1058,6 +1832,19 @@
         
     
         
+        
+            <ul id="sidenav-categories-2" class="sidenav__menu">
+                <li class="sidenav__list">
+                    <a class="collapsed sidenav__drop" tabindex="-1" data-toggle="collapse" data-target="#sidenavFeatured2" aria-expanded="false">
+                        <span> Mermaid Collection</span>
+                        <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                    </a>
+                    <ul id="sidenavFeatured2" class="sidenav__submenu collapse" aria-label="side navigator categories 2" data-parent="#sidenav-categories-2">
+                        <li><a tabindex="-1" href="/category/b2rNSp72jP/mermaid-collection"><span>All in Mermaid Collection</span></a></li>
+                        
+                    </ul>
+                </li>
+            </ul>
         
     
         
@@ -1087,19 +1874,44 @@
                     <ul id="sidenavFeatured4" class="sidenav__submenu collapse" aria-label="side navigator categories 4" data-parent="#sidenav-categories-4">
                         <li><a tabindex="-1" href="/category/T1QvG8vUfH/home-decor"><span>All in Home Decor</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/0ovFd6dKs8/clocks"><span>Clocks</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/2F9oHAFsIm/wall-decor"><span>Wall Decor</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/b4OX0QTh4R/cards--gift-wraps"><span>Cards &amp; Gift Wraps</span></a></li>
+                            <li><a tabindex="-1" href="/category/0ovFd6dKs8/clocks"><span>Clocks</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/IN3Tx3hxFq/sculptures--ornaments"><span>Sculptures &amp; Ornaments</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/LSIQYaIVim/terrariums--gardens"><span>Terrariums &amp; Gardens</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/PmOZKo8aps/planters--vases"><span>Planters &amp; Vases</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/dkg3dZZNSp/candles"><span>Candles</span></a></li>
+                            <a class="collapsed sidenav__drop " tabindex="-1" data-toggle="collapse" style="padding:12px 24px;color:#31313f;border-bottom: 1px solid #fff" data-target="#subSidenavFeatured4" aria-expanded="false">
+                                <span> Wall Decor</span>
+                                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                            </a>
+                            <ul id="subSidenavFeatured4" class="sidenav__submenu collapse" aria-label="side navigator categories 4" data-parent="#sidenavFeatured4">
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/2F9oHAFsIm/wall-decor"><span>All in Wall Decor</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/ZK75SBpqQQ/art-prints"><span>Art Prints</span></a></li>
+                                
+                            </ul>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/IN3Tx3hxFq/sculptures--ornaments"><span>Sculptures &amp; Ornaments</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/LSIQYaIVim/terrariums--gardens"><span>Terrariums &amp; Gardens</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/PmOZKo8aps/planters--vases"><span>Planters &amp; Vases</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/dkg3dZZNSp/candles"><span>Candles</span></a></li>
+                        
                         
                     </ul>
                 </li>
@@ -1117,21 +1929,79 @@
                     <ul id="sidenavFeatured5" class="sidenav__submenu collapse" aria-label="side navigator categories 5" data-parent="#sidenav-categories-5">
                         <li><a tabindex="-1" href="/category/jdl7JNaCJ4/household"><span>All in Household</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/d9RL8I8OJw/blankets-pillows--rugs"><span>Blankets Pillows &amp; Rugs</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/2Lhk2I4T2n/lamps--lighting"><span>Lamps &amp; Lighting</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/kG3z9kP8Dg/furniture"><span>Furniture</span></a></li>
+                            <li><a tabindex="-1" href="/category/d9RL8I8OJw/blankets-pillows--rugs"><span>Blankets Pillows &amp; Rugs</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/AEr8UKL4VC/drinkware"><span>Drinkware</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/QUDafxyZs4/kitchen"><span>Kitchen</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/iGw42If3qj/bath--spa"><span>Bath &amp; Spa</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/DOPGXqEPBf/storage--organizers"><span>Storage &amp; Organizers</span></a></li>
+                            <li><a tabindex="-1" href="/category/kG3z9kP8Dg/furniture"><span>Furniture</span></a></li>
                         
-                        <li><a tabindex="-1" href="/category/BDCftyyVM8/pet-accessories"><span>Pet Accessories</span></a></li>
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/2Lhk2I4T2n/lamps--lighting"><span>Lamps &amp; Lighting</span></a></li>
+                        
+                        
+                        
+                        
+                            <a class="collapsed sidenav__drop " tabindex="-1" data-toggle="collapse" style="padding:12px 24px;color:#31313f;border-bottom: 1px solid #fff" data-target="#subSidenavFeatured5" aria-expanded="false">
+                                <span> Drinkware</span>
+                                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                            </a>
+                            <ul id="subSidenavFeatured5" class="sidenav__submenu collapse" aria-label="side navigator categories 5" data-parent="#sidenavFeatured5">
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/AEr8UKL4VC/drinkware"><span>All in Drinkware</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/m2xLc2IEO1/glassware"><span>Glassware</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/hrLkq9tkMx/mugs--cups"><span>Mugs &amp; Cups</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/GPb0FgYuk0/kits"><span>Kits</span></a></li>
+                                
+                            </ul>
+                        
+                        
+                        
+                        
+                            <a class="collapsed sidenav__drop " tabindex="-1" data-toggle="collapse" style="padding:12px 24px;color:#31313f;border-bottom: 1px solid #fff" data-target="#subSidenavFeatured5" aria-expanded="false">
+                                <span> Kitchen</span>
+                                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                            </a>
+                            <ul id="subSidenavFeatured5" class="sidenav__submenu collapse" aria-label="side navigator categories 5" data-parent="#sidenavFeatured5">
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/QUDafxyZs4/kitchen"><span>All in Kitchen</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/RxDS6gtPDW/tablecloth--towels"><span>Tablecloth &amp; Towels</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/Fe6OaqiJqI/plates"><span>Plates</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/PHUWmtq3hC/bowls"><span>Bowls</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/9LHyEmsIE7/utensils--tools"><span>Utensils &amp; Tools</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/Rt7hI4FaNF/coasters--placemats"><span>Coasters &amp; Placemats</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/INz0DCFnmR/bento-boxes"><span>Bento Boxes</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/me97Vv5fmI/lunch-boxes--bags"><span>Lunch Boxes &amp; Bags</span></a></li>
+                                
+                            </ul>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/iGw42If3qj/bath--spa"><span>Bath &amp; Spa</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/DOPGXqEPBf/storage--organizers"><span>Storage &amp; Organizers</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/BDCftyyVM8/pet-accessories"><span>Pet Accessories</span></a></li>
+                        
                         
                     </ul>
                 </li>
@@ -1148,6 +2018,26 @@
                     </a>
                     <ul id="sidenavFeatured6" class="sidenav__submenu collapse" aria-label="side navigator categories 6" data-parent="#sidenav-categories-6">
                         <li><a tabindex="-1" href="/category/PHrmYMIjEP/apparel--shoes"><span>All in Apparel &amp; Shoes</span></a></li>
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/WZ8A9NlfAt/womens-dresses"><span>Women's Dresses</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/7U3znRbCet/womens-tops"><span>Women's Tops</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/VSAtSl2JDU/mens-tops"><span>Men's Tops</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/2B87ft4sBY/footwear"><span>Footwear</span></a></li>
+                        
                         
                     </ul>
                 </li>
@@ -1181,6 +2071,31 @@
                     <ul id="sidenavFeatured8" class="sidenav__submenu collapse" aria-label="side navigator categories 8" data-parent="#sidenav-categories-8">
                         <li><a tabindex="-1" href="/category/h5iavgZSae/food"><span>All in Food</span></a></li>
                         
+                        
+                        
+                            <li><a tabindex="-1" href="/category/YSteKCeLoC/coffee--tea"><span>Coffee &amp; Tea</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/5f0FbrMG12/salts--seasonings"><span>Salts &amp; Seasonings</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/rlyLYBSJQM/condiments"><span>Condiments</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/am2owa3hQD/sweets--snacks"><span>Sweets &amp; Snacks</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/Qvu1LbXCzV/diy-kits"><span>DIY Kits</span></a></li>
+                        
+                        
                     </ul>
                 </li>
             </ul>
@@ -1196,6 +2111,57 @@
                     </a>
                     <ul id="sidenavFeatured9" class="sidenav__submenu collapse" aria-label="side navigator categories 9" data-parent="#sidenav-categories-9">
                         <li><a tabindex="-1" href="/category/g9u1IJATNL/office"><span>All in Office</span></a></li>
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/b4OX0QTh4R/cards--gift-wraps"><span>Cards &amp; Gift Wraps</span></a></li>
+                        
+                        
+                        
+                        
+                            <a class="collapsed sidenav__drop " tabindex="-1" data-toggle="collapse" style="padding:12px 24px;color:#31313f;border-bottom: 1px solid #fff" data-target="#subSidenavFeatured9" aria-expanded="false">
+                                <span> Pens &amp; Pencils</span>
+                                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                            </a>
+                            <ul id="subSidenavFeatured9" class="sidenav__submenu collapse" aria-label="side navigator categories 9" data-parent="#sidenavFeatured9">
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/qzuDA9QPdt/pens--pencils"><span>All in Pens &amp; Pencils</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/eis1hLADFU/dip-pen-set"><span>Dip Pen Set</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/6yXYJz5MGp/pens"><span>Pens</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/sDh3DILGBi/pencil-case"><span>Pencil Case</span></a></li>
+                                
+                            </ul>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/42RU3ZAEfm/desk-organizers"><span>Desk Organizers</span></a></li>
+                        
+                        
+                        
+                        
+                            <li><a tabindex="-1" href="/category/jEHaCWhcP1/gadgets--tools"><span>Gadgets &amp; Tools</span></a></li>
+                        
+                        
+                        
+                        
+                            <a class="collapsed sidenav__drop " tabindex="-1" data-toggle="collapse" style="padding:12px 24px;color:#31313f;border-bottom: 1px solid #fff" data-target="#subSidenavFeatured9" aria-expanded="false">
+                                <span> Journals &amp; Stationery</span>
+                                <svg role="img" class="icon icon-angle-down"><use xlink:href="/icons/icons.svg#icon-angle-down"></use></svg>
+                            </a>
+                            <ul id="subSidenavFeatured9" class="sidenav__submenu collapse" aria-label="side navigator categories 9" data-parent="#sidenavFeatured9">
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/zuDZFsDuTU/journals--stationery"><span>All in Journals &amp; Stationery</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/9poOaLZwVw/stamps--dies"><span>Stamps &amp; Dies</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/OJhvsJUjDs/notebooks--journals"><span>Notebooks &amp; Journals</span></a></li>
+                                
+                                <li><a tabindex="-1" style="padding:12px 24px;color:#31313f;" href="/category/rToq8lyVYL/memo-pads"><span>Memo Pads</span></a></li>
+                                
+                            </ul>
+                        
                         
                     </ul>
                 </li>
@@ -1666,11 +2632,6 @@
 								</a>
 							</li>
 							<li>
-								<a href="/submit-product">
-									<span>Submit Your Product</span>
-								</a>
-							</li>
-							<li>
 								<a href="/affiliate">
 									<span>Affiliate Program</span>
 								</a>
@@ -1805,35 +2766,14 @@
 <script src="https://www.google.com/recaptcha/api.js"></script>
 
 
-<script src="https://rs.apolloboxassets.com/hosted/dist/main10.min.js"></script>
+<script src="https://rs.apolloboxassets.com/hosted/dist/main19.min.js"></script>
 
 
-<!-- define stripe key if in the dev env -->
+<!-- overwrite stripe key  -->
+<script>
+	var stripePublicKey ='pk_live_nvUYDg56S8KuhL6aWM9YDJ8O';
+</script>
 
-
-
-
-
-<!-- 
-	<script type="text/javascript" src="/js/lib/modernizr.js"></script>
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script type="text/javascript" src="/js/lib/bootbox.min.js"></script>
-	<script type="text/javascript" src="/js/lib/jquery.fancybox.pack.js?v=2.1.5"></script>
-	<script type="text/javascript"  src="/js/lib/jquery.custom-file-input.js"></script>
-	<script src="/js/lib/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-	<script type="text/javascript" src="/js/lib/bootstrap-new.min.js"></script>
-	<script src="/js/lib/svg4everybody.min.js"></script> -->
-	<!-- Plugins -->
-	<!-- <script src="/js/lib/slick.min.js"></script>
-	<script src="/js/lib/select2.min.js"></script>
-	<script src="/js/lib/init_new.js"></script>
-	<script src="/js/lib/lazysizes.min.js"></script>
-	<script src="/js/lib/ls.unveilhooks.min.js"></script> 
-	<script async defer src="//assets.pinterest.com/js/pinit.js"></script>
-	<script type="text/javascript" src="/js/lib/waterfall-light.js"></script>
-	<script type="text/javascript" src="/js/lib/imagesloaded.pkgd.min.js"></script>
-	<script type="text/javascript" src="/js/lib/custom3.js"></script> 
--->
 
 
 
@@ -1846,44 +2786,36 @@
 	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window, 
 	document,'script','https://connect.facebook.net/en_US/fbevents.js');
 
-  fbq('init', '763333207082582');
+	fbq('init', '1502781959864060');
   fbq('track', 'PageView');
 </script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=763333207082582&ev=PageView&noscript=1"
-/></noscript>
+<noscript>
+<img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1502781959864060&ev=PageView&noscript=1"
+/>
+</noscript>
 <!-- END Facebook Pixel Code -->
 
-
-	<!-- google adwords remarkting tag -->
-	<script type="text/javascript">
-	/* <![CDATA[ */
-	var google_conversion_id = 974567356;
-	var google_custom_params = window.google_tag_params;
-	var google_remarketing_only = true;
-	$('#switchToRegisterForm').on('blur',function(e){
-		$('.close').trigger('focus');
-	})
-	$('#lastEleOfSignupModel').on('blur',function(e){
-		$('.close').trigger('focus');
-	})
-
-	/* ]]> */
+<!-- Global site tag (gtag.js) - Google Ads: 974567356 -->
+	<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-974567356"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'AW-974567356');
 	</script>
-	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-	</script>
-	<noscript>
-	<div style="display:inline;">
-	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/974567356/?value=0&amp;guid=ON&amp;script=0"/>
-	</div>
-	</noscript>
+<!-- END Global site tag (gtag.js) -->
+
 
 	<!-- upsellit -->
 	<script type="text/javascript"> var usi_installed = 0; function USI_installCode() { if (usi_installed == 0) { usi_installed = 1; var USI_headID = document.getElementsByTagName("head")[0]; var USI_installID = document.createElement('script'); USI_installID.type = 'text/javascript'; USI_installID.src = '//www.upsellit.com/active/apollobox.jsp'; USI_headID.appendChild(USI_installID); } } if (window.addEventListener){ window.addEventListener('load', USI_installCode, true); } else if (window.attachEvent) { window.attachEvent('onload', USI_installCode); } else { USI_installCode(); } setTimeout("USI_installCode()", 10000); </script>
 	<!-- end upsellit-->
-
 	
+	<!-- awin -->
 	
+		<script src="https://www.dwin1.com/17142.js" type="text/javascript" defer="defer"></script>
+	
+	<!-- end awin -->
 	<!-- functions about get country flag  -->
 	<script>
 			var getRemoteCountryFlag = function(){
@@ -1902,6 +2834,21 @@
 			}, 2000);
 		})
 	</script>
+	<script>
+		$('#switchToRegisterForm').on('blur',function(e){
+			$('.close').trigger('focus');
+		})
+		$('#lastEleOfSignupModel').on('blur',function(e){
+			$('.close').trigger('focus');
+		})
+
+		document.addEventListener('lazybeforeunveil', function(e){
+			var bg = e.target.getAttribute('data-bg');
+			if(bg){
+				e.target.style.backgroundImage = 'url(' + bg + ')';
+			}
+		});
+		</script>
 	
 
 
@@ -1931,9 +2878,6 @@
 		ga('send', 'pageview');
 	</script>
 
-<script>
-  console.log('locals.countryFlag is US');
-</script>
 <script>
   // caculate color's contrast ratio on white(#fff).
   function caculateLuminanceRatio(r,g,b){
