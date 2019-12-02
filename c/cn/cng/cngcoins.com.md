@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cngcoins.com privacy policy that was archived on 2018-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181124130035id_/https%3A//www.cngcoins.com/Privacy%2BPolicy%2Band%2BCompliance.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cngcoins.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202110408id_/https%3A//www.cngcoins.com/Privacy%2BPolicy%2Band%2BCompliance.aspx) for the most accurate reproduction.*
 
 # CNG: Privacy Policy and Compliance
 
