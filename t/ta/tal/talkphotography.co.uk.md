@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2017-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170708205549id_/https%3A//www.talkphotography.co.uk/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202135516id_/https%3A//www.talkphotography.co.uk/help/privacy) for the most accurate reproduction.*
 
 # * Privacy Policy | Talk Photography
 
@@ -78,5 +78,3 @@ This is at absolutely no extra cost or inconvenience to you, and is almost compl
 
 As an advertisement provider, Google uses cookies to serve adverts on this site. The use of DART cookies by Google enables them to serve relevant adverts to you based on your previous visits to this and other websites.   
 You may opt out of the DART cookies by visiting the Google Privacy Center at the following url [www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html). Tracking of users through the DART cookies are subject to Google's own privacy policies.
-
-[ ](https://www.talkphotography.co.uk/)
