@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118105041id_/https%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202063632id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [ ](http://www.privacypolice.org/findacode.htm "PrivacyPolice.org Privacy Registration")
+
+  
+
 
 #### Your Privacy
 
@@ -37,7 +40,10 @@ By using our Web site, you consent to the collection and use of this information
 FindACode.com also provides links to external sites. The privacy policies of these linked sites are the responsibility of the linked site and FindACode.com has no control or influence over their policies other than the voluntary adherence to our suggested privacy policies. Please check the policies of each site you visit for specific information. FindACode.com cannot be held liable for damage or misdoings of other sites or third-party advertisements, linked or otherwise.
 
 As of: April 17, 2015  
-Displayed: January 18, 2017
+Displayed: December 1, 2019
+
+  
+
 
 #### Questions and Feedback
 
@@ -45,12 +51,14 @@ If you have any questions or feedback related to our Privacy Policy, please emai
 
 Thank you for visiting FindACode.com!
 
-## Our contact information:
+  
 
-> Find A Code, LLC  
+
+### Contact
+
+> innoviHealth Systems, Inc.  
 >  62 East 300 North  
 >  Spanish Fork, UT 84660  
 >  Phone: 801-770-4203 (9-5 Mountain)  
->  Fax: 801-770-4428  
 >  Email: [info@findacode.com](mailto:info@findacode.com)   
 > 
