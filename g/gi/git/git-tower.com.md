@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the git-tower.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420193030id_/https%3A//www.git-tower.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the git-tower.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202192308id_/https%3A//www.git-tower.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Tower - Privacy Policy
 
@@ -54,7 +54,7 @@ The party responsible for processing data on this website is:
 >  Lenaustraße 14  
 >  70193 Stuttgart  
 >  Germany
-> 
+
 > Telephone: 0049(0)70000780079  
 >  Email: info@fournova.com
 
