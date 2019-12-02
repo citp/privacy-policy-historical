@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602221744id_/https%3A//www.extremerestraints.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremerestraints.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202195843id_/https%3A//www.extremerestraints.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Information Usage and Customer Account Preferences
 
 At XR. LLC, we respect the privacy of all visitors who access and use our corporate Web site. The information we collect on this site is used to understand how we can enhance our site and improve your experience. This policy describes the limited circumstances in which we collect personal information, why we collect it and how we use it. Our policy also describes the choices you can make about how we collect and use your information
 
