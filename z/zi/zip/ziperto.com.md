@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ziperto.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405031306id_/https%3A//www.ziperto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ziperto.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202164722id_/https%3A//www.ziperto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ziperto
 
@@ -207,6 +207,8 @@ If you have opted out of behavioural advertising and then decide that you’d pr
  **How we secure your data**
 
 We do our best to keep your Personal Data safe. We use anonymizing and pseudonymizing where suitable. We monitor our systems for possible vulnerabilities and attacks. We do not use vulnerability scanning and/or scanning to PCI standards.
+
+ **We do not sell your personal information  **
 
 We have what we believe are appropriate security controls in place to protect personal data. We do not, however, have any control over what happens between your device and the boundary of our information infrastructure. You should be aware of the many information security risks that exist and take appropriate steps to safeguard your own information. We accept no liability in respect of breaches that occur beyond our sphere of control.
 
