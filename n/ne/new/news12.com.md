@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news12.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622183401id_/http%3A//www.news12.com/story/35212633/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news12.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202064259id_/http%3A//www.news12.com/story/35212633/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
