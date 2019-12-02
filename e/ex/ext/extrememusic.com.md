@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extrememusic.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520152708id_/https%3A//extrememusic-public.s3.amazonaws.com/DOCUMENTS/PDFS/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extrememusic.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202062724id_/https%3A//extrememusic-public.s3.amazonaws.com/DOCUMENTS/PDFS/privacy_policy.pdf) for the most accurate reproduction.*
 
 # 
 
