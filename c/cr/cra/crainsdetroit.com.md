@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crainsdetroit.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331053722id_/http%3A//www.crainsdetroit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crainsdetroit.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202224354id_/https%3A//www.crainsdetroit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Crain's Detroit Business
 
@@ -6,7 +6,7 @@
 
 _Effective starting: May 25, 2018_
 
-**_  Crain's Detroit Business and the associated newsletters, news alerts, data centers, research reports, and other features are products_of Crain Communications Inc. Our postal address is 1155 Gratiot Avenue Detroit, MI 48207-2997.  We can be reached by e-mail at [](mailto:) or by telephone at (877) 824-9374. **
+**_  Crain's Detroit Business and the associated newsletters, news alerts, data centers, research reports, and other features are __products  _of Crain Communications Inc. Our postal address is 1155 Gratiot Avenue Detroit, MI 48207-2997.  We can be reached by e-mail at [](mailto:) or by telephone at (877) 824-9374. **
 
 **What this Privacy Policy covers**
 
@@ -245,7 +245,7 @@ General Counsel
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
 Detroit, MI  48207  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#304042594651534958555c4070534251595e1e535f5d)
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#8ffffde6f9eeecf6e7eae3ffcfecfdeee6e1a1ece0e2)
 
 313-446-6000
 
@@ -255,4 +255,4 @@ Crain Communications Limited
 c/o Crain Communications Inc  
 1155 Gratiot Avenue  
 Detroit, MI  48207  
-E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1464667d6275776d7c717864547766757d7a3a777b79)
+E-Mail: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a8d8dac1dec9cbd1c0cdc4d8e8cbdac9c1c686cbc7c5)
