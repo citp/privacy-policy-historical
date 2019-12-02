@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619054708id_/https%3A//www.wktv.com/content/news/-This-Web-Sites-Privacy-Policy-450584293.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wktv.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202112042id_/https%3A//www.wktv.com/content/news/-This-Web-Sites-Privacy-Policy-450584293.html) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy
 
