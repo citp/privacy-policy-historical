@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the time.ly privacy policy that was archived on 2019-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190219092327id_/https%3A//time.ly/tos/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the time.ly privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202121151id_/https%3A//time.ly/tos/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Timely
+# Privacy Policy - Timely
 
-Timely is committed to protecting and respecting your privacy.
+#### Timely is committed to protecting and respecting your privacy.
 
 MODIFICATION DATE: May 24, 2018.
 
@@ -113,17 +113,17 @@ Timely may link to other websites or services. Other websites may also contain l
 
 ## 8\. How to contact us
 
-We prefer to communicate with you by email, as this ensures that you are put in contact with the right person and in accordance with any regulatory time frames. Our email is [info@time.ly](mailto:info@time.ly).
+We prefer to communicate with you by email, as this ensures that you are put in contact with the right person and in accordance with any regulatory time frames. Our email is info@time.ly.
 
 You have the right to access information held about you. Your right of access can be exercised in accordance with this Policy. Any access request may be subject to a fee of US$20 to meet our costs in providing you with details of the information we hold about you.
 
 If you wish to contact Timely to deliver any legal notice, you can do so as follows:
 
 TIMELY NETWORK INC.  
-1965 West 4th Ave, Suite 202,  
-Vancouver BC V6J 1M8  
+224 West Esplanade  
+North Vancouver B.C. V7M 1A4  
 Canada  
-Email: [legal@time.ly](mailto:legal@time.ly)  
+Email: legal@time.ly  
 Attn: General Counsel
 
 All notices, demands, or consents required or permitted under these Terms shall be in writing and shall be deemed delivered when sent: (a) personally; (b) by mutually recognized overnight carrier, including, but not limited to, D.H.L., Federal Express, Airborne, UPS Overnight and Priority Mail; (c) by certified or registered mail to the other party; or (d) by email to the other party.
