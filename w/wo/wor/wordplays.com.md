@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordplays.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502070644id_/https%3A//www.wordplays.com/administration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordplays.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202160135id_/https%3A//www.wordplays.com/administration/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wordplays.com
 
@@ -12,4 +12,4 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 
 #### Information Contributed by Third Parties
 
-Any information or material, including any puzzles or clues, provided through feedback forms, email or other submissions to [www.wordplays.com](http://www.wordplays.com/) are non-confidential and must not violate the intellectual property rights of third parties, and shall become the sole property of [www.wordplays.com](http://www.wordplays.com/). [www.wordplays.com](http://www.wordplays.com/) shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use of these materials for any purpose, commercial or otherwise, without acknowledgement or compensation to others. 
+Any information or material, including any puzzles or clues, provided through feedback forms, email or other submissions to [www.wordplays.com](https://www.wordplays.com/) are non-confidential and must not violate the intellectual property rights of third parties, and shall become the sole property of [www.wordplays.com](https://www.wordplays.com/). [www.wordplays.com](https://www.wordplays.com/) shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use of these materials for any purpose, commercial or otherwise, without acknowledgement or compensation to others. 
