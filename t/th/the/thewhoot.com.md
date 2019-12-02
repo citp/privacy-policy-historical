@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhoot.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630073315id_/https%3A//thewhoot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhoot.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202124654id_/https%3A//thewhoot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The WHOot
 
@@ -36,6 +36,8 @@ Providing us with your personal information is absolutely optional, and whenever
 We may from time to time run competitions or offer additional benefits to you and we may ask you to provide us with your personal details for these purposes. Providing us with this information is absolutely optional to you. However, if you do not provide your personal information to us we may not be able to contact you or give you access to the additional benefits.
 
 You may opt out of these additional communications at any time and can do so by emailing us.
+
+Ad personalisation has been disabled for residents of California in order to comply with the California Consumer Privacy Act (CCPA).
 
  **Use and disclosure of your personal information**
 
