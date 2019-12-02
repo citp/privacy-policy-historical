@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picfair.com privacy policy that was archived on 2019-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190420103941id_/https%3A//www.picfair.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picfair.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202012158id_/https%3A//www.picfair.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Picfair
 
@@ -30,8 +30,7 @@ Here's the services we use when you browse Picfair (this also applies to logged-
   * Google Firebase \- we use this to count the "pic views" on images, so we can let our photographers know which of their images are the most popular. It's a very fancy way of counting from one to a billion. 
   * Google Analytics \- this is "web analytics" stuff above - anonymous for users that are not signed in but identifiable for those who are signed in. 
   * Social Media analytics (Facebook and LinkedIn) 
-  * Hotjar \- Page heatmaps and feedback collection 
-  * Mixpanel \- Same as Google Analytics.
+  * Hotjar \- Page heatmaps and feedback collection
 
 
 
@@ -61,7 +60,7 @@ When you upload images to Picfair, we ask you to add a title, caption, tags and 
 
 ### Changing & requesting your information
 
-Your profile information is always accessible and editable in the "Dashboard' section of your account. Information relating to orders, assignments, cashouts, and deliveries are stored on our databases to ensure that we can reference any such orders, assignments, cashouts or deliveries should a problem arise. 
+Your profile information is always accessible and editable in the "Dashboard' section of your account. Information relating to orders, cashouts, and deliveries are stored on our databases to ensure that we can reference any such orders, cashouts or deliveries should a problem arise. 
 
 As with everything relating to your privacy on Picfair, you can request to view any information we have stored by emailing [datarequest@picfair.com](mailto:datarequest@picfair.com). 
 
@@ -72,7 +71,6 @@ Information gathered as described in **b.** and **c.** above are stored as follo
   * Your profile information, contact information, delivery information, billing information and payout request information are stored in our core database on Heroku. 
   * Your images, including all of their metadata, are stored on Cloudinary, with a backup copy on AWS
   * Your contact information is stored by Sendgrid and Mailchimp, so that we can get in contact with you 
-  * Your company information is stored on our sales database, Hubspot
 
 
 
