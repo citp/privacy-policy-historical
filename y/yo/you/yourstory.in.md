@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourstory.in privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330162247id_/https%3A//support.yourstory.com/article/11-privacy-policy-latest) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourstory.in privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202160243id_/https%3A//support.yourstory.com/article/11-privacy-policy-latest) for the most accurate reproduction.*
 
 # Privacy Policy (Latest) - YourStory Media Pvt. Ltd.
 
