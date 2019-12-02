@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soylent.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630063247id_/https%3A//soylent.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soylent.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203002502id_/https%3A//soylent.com/pages/privacy) for the most accurate reproduction.*
 
 # Soylent Nutrition, Inc. Privacy Policy
 
