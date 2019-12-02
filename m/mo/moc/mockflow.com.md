@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mockflow.com privacy policy that was archived on 2019-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190303083629id_/https%3A//mockflow.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mockflow.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203001208id_/https%3A//mockflow.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MockFlow
 
