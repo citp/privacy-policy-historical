@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobgurus.com.ng privacy policy that was archived on 2018-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180610224719id_/http%3A//www.jobgurus.com.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobgurus.com.ng privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202070252id_/https%3A//www.jobgurus.com.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jobgurus
 
