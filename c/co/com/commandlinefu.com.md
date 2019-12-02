@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commandlinefu.com privacy policy that was archived on 2018-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181208081119id_/https%3A//www.commandlinefu.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commandlinefu.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203000911id_/https%3A//www.commandlinefu.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@
     
     Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance's opt-out portal at:  http://optout.aboutads.info/.
     
-    A list of potential third parties is here
+    A list of potential third parties is [here](https://www.commandlinefu.com/site/privacy#adnetworks)
     
     DO NOT TRACK
     Please note that we do not alter our Site's data collection and use practices when we see a Do Not Track signal from your browser.
