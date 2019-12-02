@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630130559id_/https%3A//www.smartrecruiters.com/legal/general-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202192216id_/https%3A//www.smartrecruiters.com/legal/general-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartRecruiters
 
