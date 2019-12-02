@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turtlediary.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112231224id_/https%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlediary.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202081356id_/https%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Turtle Diary
 
