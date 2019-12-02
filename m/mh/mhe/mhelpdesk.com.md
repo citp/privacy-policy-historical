@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhelpdesk.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408162117id_/https%3A//www.mhelpdesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhelpdesk.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202211107id_/https%3A//www.mhelpdesk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - mHelpDesk
 
@@ -63,14 +63,52 @@ This privacy policy is intended to apply only to the use of our website and serv
 
 As stated above, mHelpDesk will not share personal information with third parties without your knowledge and consent. mHelpDesk will, however, comply with a valid and binding governmental demand, such as a court order, subpoena, or search warrant as required. Additionally, if we become aware that a mHelpDesk user is using, or has used, our service to commit a crime, or if there is an emergency that poses a safety threat to you or to another person, we will notify and cooperate fully with the appropriate authorities.
 
-15\. UPDATES AND CHANGES.
+15\. NEVADA RESIDENTS 
+
+Under Nevada law, Nevada residents may opt out of the sale of certain “covered information” collected by operators of websites or online services.   We currently do not sell covered information, as “sale” is defined by such law, and we don’t have plans to sell this information.  However, if you would like to be notified if we decide in the future to sell personal information covered by the Act, please go to [NevadaPrivacy@mhelpdesk.com](mailto:NevadaPrivacy@mhelpdesk.com) to provide your name and email address.  You are responsible for updating any change in your email address by the same method and we are not obligated to cross-reference other emails you may have otherwise provided us for other purposes.  We will maintain this information and contact you if our plans change. At that time we will create a process for verifying your identity and providing an opportunity to verified consumers to complete their opt-out. Please become familiar with our data practices as set forth in this privacy policy.  We may share your data as explained in this privacy policy, such as to enhance your experiences and our services, and those activities will be unaffected by a Nevada do not sell request.  You may also have other choices regarding our data practices as set forth elsewhere in this privacy policy. 
+
+16\. UPDATES AND CHANGES.
 
 We may make changes to this Privacy Policy from time to time, as our service becomes more sophisticated and includes more features, but we will let you know each time we do, by posting a detailed notice on the login page or by other reasonable methods of providing notice.
 
-16\. ADDITIONAL INFORMATION ABOUT OUR PRIVACY POLICY.
+17\. ADDITIONAL INFORMATION ABOUT OUR PRIVACY POLICY.
 
-For additional information or questions regarding this Privacy Policy or the practices of our Site, please contact mHelpDesk.com’s Security Administrator by e-mailing such questions to happy@mHelpDesk.com or by regular mail addressed to mHelpDesk.com, Inc Attn: Security Administrator, 3040 Williams Drive, Suite 550, Fairfax, VA 22031.
+For additional information or questions regarding this Privacy Policy or the practices of our Site, please contact mHelpDesk.com’s Security Administrator by e-mailing such questions to admin@mHelpDesk.com or by regular mail addressed to mHelpDesk.com, Inc Attn: Security Administrator, 3040 Williams Drive, Suite 550, Fairfax, VA 22031.  
+Last updated: October 1, 2019
 
-Last updated: February 7, 2017
+© mHelpDesk, Inc 2019
 
-© mHelpDesk, Inc 2017
+##### Field Service Automation
+
+  * [Job Order Management](https://www.mhelpdesk.com/features/work-order-management-software/)
+  * [Field Management Software](https://www.mhelpdesk.com/)
+  * [Electronic Repair Shop Software](https://www.mhelpdesk.com/service-and-repair-shop-software/)
+  * [Security System Management Software](https://www.mhelpdesk.com/security-system-installer-software/)
+  * [Plumbing Buisness Software](https://www.mhelpdesk.com/plumbing-business-software/)
+  * [Business Solutions for Pest Control](https://www.mhelpdesk.com/pest-control-service-software/)
+
+
+
+##### Service Solutions
+
+  * [Estimates Management Software](https://www.mhelpdesk.com/features-2017/estimates-and-quotes/)
+  * [Job Tracking In Quickbooks](https://www.mhelpdesk.com/job-tracker/)
+  * [HVAC Troubleshooting App](https://www.mhelpdesk.com/hvac-apps/)
+  * [Take Payments](https://www.mhelpdesk.com/features/mhelpdesk-payments/)
+  * [Invoices Field Service Automation](https://www.mhelpdesk.com/features-2017/invoices/)
+  * [Mobile Estimates Management Software](https://www.mhelpdesk.com/features-2017/mobile-estimates/)
+
+
+
+##### Workflow Management Solutions
+
+  * [Cleaning Service Management Software](https://www.mhelpdesk.com/maid-service-software/)
+  * [Appliance Repair Software](https://www.mhelpdesk.com/appliance-repair-software/)
+  * [Computer Repair Shop Software Freeware](https://www.mhelpdesk.com/computer-services-software/)
+  * [Electrical Contractor Billing Software](https://www.mhelpdesk.com/electrician-software/)
+  * [Lawn Care Software](https://www.mhelpdesk.com/lawn-care-software/)
+  * [Cleaning Software](https://www.mhelpdesk.com/carpet-cleaning-software/)
+  * [Painting Contractor](https://www.mhelpdesk.com/painting-software/)
+  * [Landscaping App Free](https://www.mhelpdesk.com/landscaping-software/)
+
+
