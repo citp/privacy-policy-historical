@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camelotforum.com privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516200840id_/http%3A//projectcamelotportal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camelotforum.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202090821id_/http%3A//projectcamelotportal.com/privacy) for the most accurate reproduction.*
 
 # PRIVACY | PROJECT CAMELOT PORTAL
 
