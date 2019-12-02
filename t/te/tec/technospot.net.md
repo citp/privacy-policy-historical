@@ -1,35 +1,95 @@
-> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2015-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150418034133id_/http%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technospot.net privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202195104id_/https%3A//www.technospot.net/blogs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Technospot.Net value our readers and visitors privacy. However for maintaining statics and keeping away spammers we do need to collect and preserve small piece of information of people who visit our site.
-
-### Privacy Policy:
-
-  * We use analytical tool such as Google Analytics, 103bees to understand where our customers and visitors are coming from. In this we collect information such as IP Addresses and Operating system used. However these data are not shared with a third party and strictly kept for increasing the performance of website.
-  * The site is hosted at wiredtree.com ( hosting company) but no data is shared with them either.
-  * The site uses a blogging software called as WordPress which stores a small amount of information in users computer when he or she comments. This is of very small size and no way is a malware or script which hacks a computer for information.
-  * You are free to read and utilize the resource available here but now allowed to copy the content. Read more on our Copyright Policy.
-  * We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/policies/privacy/ads/).
-  * In addition to the above point, we also request you to visit [](http://www.networkadvertising.org/managing/opt_out.asp)the [NAI universal user opt-out](http://www.networkadvertising.org/managing/opt_out.asp) which allows you to choose advertisers from whom you want to opt out. This will set a cookie in you browser. However if you clear your cookies make sure you visit this again to opt-out.
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/technospot.net).  
 
 
+## Welcome to Technospot.Net Privacy Policy Page.
 
-## Comment Policy:
+## Who we are
 
-“Commenting a weblog or any site is one of the major responsibility on the side of reader as its same as telling something about a person or something in public….It Leaves A Major Impact. ”
+Our website address is https://www.technospot.net/blogs/
 
-Comments are means of telling somebody what he or she did but at the same time misusage can be high.Its like how you say it.If you find a problem you can say its wrong with proper reasons but nobody should or have a right to make the person feel miserable.
+## What personal data we collect and why we collect it
 
-Blogger community is growing faster than anything on internet.Professional Blogging has become a signature of many persons as well companies.They have created a respect for each other,Dont dis-respect it.
+### Comments
 
-We are open to all kinds of comment a reader want to make till he is not dis-respecting a post or page.This blog or anyblog is trying to teach community to learn from each other so suggest tell but be nice.However i would like to tell my readers what i think:
+When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-  * I love comments on this blog – Feel Free to say.It does not matter to me whether you know about the post or not but u might have your own point of view.Your welcome always…and we can learn from my mistakes too.
-  * No Spams Please – Please don’t spam.We delete them so the post looks much cleaner.
-  * Spawner – You are welcome to put signatures on the comment like if you find similar articles or a better one do leave it…
-  * Signatures – We don’t mind having links on the comment but make sure its relevant to your post and help other readers to learn more.Please don’t use it for advertising your blogs.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
+### Media
 
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-“My advice to those commenting on blogs (not just mine) is that in a sense you are visiting someone else’s home when you leave a comment. Comments have the ability to build up our tear down your reputation. They are a permanent record of who you are and what you stand for – so take care – be gracious – make sure they add value (not only to the blog you are visiting but also to your own online profile). “
+### Contact forms
+
+We use the Jetpack Contact Form which sends email to the administrator of the website and also stores the data on the server. We occasionally delete those data.
+
+### Cookies
+
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+
+If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
+
+When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
+
+If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.
+
+### Embedded content from other websites
+
+Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
+
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracing your interaction with the embedded content if you have an account and are logged in to that website.
+
+### Analytics
+
+We use Google Analytics and WordPress Stats to track our website statistics.
+
+## Who we share your data with
+
+We do not share your data directly with anyone. However, Google AdSense, Google Analytics. Disqus Commenting, Gravatar.com, MAXCDN, may collect your data anonymously.
+
+We also use Ezoic for managing advertisements. You can read their complete [Privacy Policy here.](https://g.ezoic.net/privacy/wpxbox.com)
+
+## How long we retain your data
+
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+
+For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.
+
+## What rights you have over your data
+
+If you have an account on this site or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+
+## Where we send your data
+
+Visitor comments may be checked through an automated spam detection service.
+
+## Your contact information
+
+While the best way to connect with us is using the [contact page](https://www.wpxbox.com/contact/), but if you have something very important here are the details.
+
+ **Email Address:** [[email protected]](https://www.technospot.net/cdn-cgi/l/email-protection)
+
+ **Our Location:** 23B N.S.Road 2nd Floor Room No 217 Kolkata 700001, India
+
+ **Phone No:** 9674321169
+
+## Additional information
+
+### How we protect your data & What data breach procedures we have in place
+
+Visitor comments may be checked through an automated spam detection service. We use Disqus Commenting. We also have Akismet for spam detection.
+
+We protect customer data by entirely using SSL/HTTPS throughout all our sites. This encrypts our user communications with the servers so personal identifiable information is never captured by third parties without authorization.
+
+### What third parties we receive data from
+
+We do not receive any specific data, but Google Analytics and Jetpack Stats give demographics data of our visitors. It helps us to understand if we are working correctly, and able to deliver the right content.
+
+### What automated decision making and/or profiling we do with user data
+
+We do not do any kind of profiling. However, if the user wants, his data related to comments can be exported and given to him.
