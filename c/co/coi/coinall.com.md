@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coinall.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330191023id_/https%3A//support.coinall.com/hc/en-us/articles/360007777791) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinall.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202114802id_/https%3A//coinall.zendesk.com/hc/en-us/articles/360007777791) for the most accurate reproduction.*
 
 # Privacy Policy and Statement – CoinAll Help Center
 
