@@ -1,17 +1,32 @@
-<!--The following is the downloaded HTML source of the sermonaudio.com privacy policy that was archived on 2019-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190620061350id_/https%3A//www.sermonaudio.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sermonaudio.com privacy policy that was archived on 2019-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191202044934id_/https%3A//www.sermonaudio.com/privacypolicy) for the most accurate reproduction.-->
 
 <html><head><title>
-SermonAudio.com - Privacy Policy
+SermonAudio - Privacy Policy
 </title>
 
 <meta name="apple-itunes-app" content="app-id=377226886">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+
+<script>
+	function favtoggle_button( me, favtype, favurl ) {
+		var fav = $(me).hasClass('favorite-on');
+		if ( !fav ) {
+			$(me).addClass('favorite-on');
+			window.open ('https://www.sermonaudio.com/addfavorites.asp?favtype=' + favtype + '&keyID=' + favurl, 'favorites', 'width=500,height=300,left=0,top=0,scrollbars=no'); 
+		} else {
+			$(me).removeClass('favorite-on');
+			window.open ('https://www.sermonaudio.com/delfavorites.asp?favtype=' + favtype + '&keyID=' + favurl, 'favorites', 'width=500,height=300,left=0,top=0,scrollbars=no'); 
+		}
+	}
+</script>
 
 <meta name="google-site-verification" content="UTwlKE377Gw1R_Nfx8g1PeXGYyMULrHpUsWHY1whe24">
 
 
 
-<link href="/include/css_global.css?166" rel="stylesheet" type="text/css">
+<link href="/include/css_global.css?170" rel="stylesheet" type="text/css">
 <link rel="SHORTCUT ICON" type="image/ico" href="https://www.sermonaudio.com/images/favicon3.ico">
 
 <link rel="apple-touch-icon" sizes="57x57" href="https://www.sermonaudio.com/images/favicons2/apple-touch-icon-57x57.png">
@@ -33,7 +48,7 @@ SermonAudio.com - Privacy Policy
 <link title="SermonAudio.com" rel="search" type="application/opensearchdescription+xml" href="http://www.sermonaudio.com/provider.xml">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="free audio sermons online, sermons, sermon, mp3 sermons, bible study, religious studies, church, podcasts, podcast, podcasting, live webcasts, video sermons, preaching, bible, online bible, seminaries, christian schools, church, churches, hymns, hymnal, online hymnal, christian, mp3">
-<meta name="Description" content="The largest and most trusted library of over 1,701,000 free audio sermons from conservative Christian churches and ministries worldwide.">
+<meta name="Description" content="The largest and most trusted library of over 1,806,000 free audio sermons from conservative Christian churches and ministries worldwide.">
 
 <meta name="viewport" content="width=device-width">
 
