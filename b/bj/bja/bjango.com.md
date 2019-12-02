@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bjango.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620030517id_/https%3A//bjango.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bjango.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202143731id_/https%3A//bjango.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -135,4 +135,4 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 ### Contact us
 
-If you have any questions about this Privacy Policy, please contact us by visiting [bjango.com/contact/](https://web.archive.org/web/20190620030517id_/https://bjango.com/privacy/bjango.com/contact/).
+If you have any questions about this Privacy Policy, please contact us by visiting [bjango.com/contact/](https://web.archive.org/web/20191202143731id_/https://bjango.com/privacy/bjango.com/contact/).
