@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishpathe.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607170601id_/https%3A//www.britishpathe.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishpathe.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202232322id_/https%3A//www.britishpathe.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – British Pathé and the Reuters historical collection
 
