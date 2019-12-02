@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyday-carry.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129053747id_/https%3A//everydaycarry.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyday-carry.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202172950id_/https%3A//everydaycarry.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Everyday Carry
 
