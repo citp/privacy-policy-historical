@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425051947id_/https%3A//www.namesecure.com/privacyPolicy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203003638id_/https%3A//www.namesecure.com/privacyPolicy.page) for the most accurate reproduction.*
 
 # Purchase a Domain from NameSecure - Get Online Privacy
 
