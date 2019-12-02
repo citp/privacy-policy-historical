@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freeappsforme.com privacy policy that was archived on 2019-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190116065733id_/https%3A//freeappsforme.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeappsforme.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202200302id_/https%3A//freeappsforme.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Free apps for android, IOS, Windows and Mac
+# Privacy policy | Free apps for Android and iOS
 
 **What information do we collect?**
 
