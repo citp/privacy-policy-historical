@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the turtlediary.com privacy policy that was archived on 2019-01-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190112231224id_/https%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the turtlediary.com privacy policy that was archived on 2019-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191202081356id_/https%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"72dc560715",applicationID:"110900805"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
         <meta http-equiv="content-language" content="en-us">
         <meta name="viewport" content="width=device-width,maximum-scale=1.0">
         <title>Privacy Policy - Turtle Diary</title>
@@ -12,18 +12,16 @@
                     <link rel="canonical" href="https://www.turtlediary.com/privacy-policy.html">
                         
         <link rel="shortcut icon" href="https://cdn.turtlediary.com/images/favicon.gif" type="image/x-icon">
-	    <link rel="stylesheet" href="/min/A.,qg=tdcss16,av=,qver=68.33.pagespeed.cf.FfayJB0VEu.css" media="screen">	
-	    <script>var modulePath="static/PrivacyPolicy";var isPaidMember="";</script>
-		
-        <script>var modulePath="static/PrivacyPolicy";var gameMode="";var isPaidMember="";var userContentBlock="1";var base_url="https://www.turtlediary.com/";var configProtocol="https://";var configProtocol_no_https="http://";</script>
-        <script src="/js/new/mobile-detect.js?v=68.33"></script>
-		<script src="/js/new/ipadpuffinredirect.js?v=68.33"></script>	
+	    <link rel="stylesheet" href="/min/A.,qg=tdcss16,av=,qver=71.05.pagespeed.cf.CdcQhG7so_.css" media="screen">
+        <script type="text/javascript" src="https://www.turtlediary.com/js/new/cookie.js?ver=71.05"></script>
+        <script>var userDetails=[];userDetails['userId']="";userDetails['mStatus']="";var cookie_login=ReadCookie('acc_login');if((cookie_login)&&cookie_login!==''){userDetails=JSON.parse(cookie_login);}var cookie_app=getJSCookie('AppToken');var modulePath="static/PrivacyPolicy";var isPaidMember=false;if(userDetails['mStatus']=='member'){isPaidMember=true;}var memberDetails=[];var cookie_member=ReadCookie('login');if((cookie_member)&&cookie_member!==''){memberDetails=JSON.parse(cookie_member);}</script>
+        <script>var gameMode="";var userContentBlock="";var base_url="https://www.turtlediary.com/";var configProtocol="https://";var configProtocol_no_https="http://";</script>
+        <script src="/js/new/mobile-detect.js?v=71.05"></script>
+		<!--<script src="/js/new/ipadpuffinredirect.js?v="></script>-->	
         <script>(function(){var gads=document.createElement('script');gads.async=true;gads.type='text/javascript';var useSSL='https:'==document.location.protocol;gads.src=(useSSL?'https:':'http:')+'//www.googletagservices.com/tag/js/gpt.js';var node=document.getElementsByTagName('script')[0];node.parentNode.insertBefore(gads,node);})();</script>
-<script async="" src="/js/new/prebid/prebid.js?v=68.33"></script>
-<script>var sizes=[[728,90],[300,250],[160,600]];var PREBID_TIMEOUT=1000;var adUnits=[{code:'div-gpt-ad-1521066641354-5',mediaTypes:{banner:{sizes:[728,90]}},bids:[{bidder:'districtm',params:{placementId:'13248205'}},{bidder:'districtmDMX',params:{id:'210256'}},{bidder:'conversant',params:{site_id:'118667',position:1,secure:1}},{bidder:'sonobi',params:{ad_unit:"/5358318/TurtleDiary_Play_728x90_ATF"}},{bidder:'oftmedia',params:{placementId:'13417402'}},]},{code:'div-gpt-ad-1521066641354-6',mediaTypes:{banner:{sizes:[160,600]}},bids:[{bidder:'districtm',params:{placementId:'13248204'}},{bidder:'districtmDMX',params:{id:'210255'}},{bidder:'conversant',params:{site_id:'118667',position:1,secure:1}},{bidder:'sonobi',params:{ad_unit:"/5358318/TurtleDiary_Play_160x600_ATF"}},{bidder:'oftmedia',params:{placementId:'13417403'}},]},{code:'div-gpt-ad-1521066641354-7',mediaTypes:{banner:{sizes:[300,250]}},bids:[{bidder:'districtm',params:{placementId:'13248207'}},{bidder:'districtmDMX',params:{id:'210257'}},{bidder:'conversant',params:{site_id:'118667',position:1,secure:1}},{bidder:'sonobi',params:{ad_unit:"/5358318/TurtleDiary_Play_300x250_ATF_A"}},{bidder:'oftmedia',params:{placementId:'13417396'}},]},{code:'div-gpt-ad-1521066641354-8',mediaTypes:{banner:{sizes:[300,250]}},bids:[{bidder:'districtm',params:{placementId:'13248208'}},{bidder:'districtmDMX',params:{id:'210258'}},{bidder:'conversant',params:{site_id:'118667',position:1,secure:1}},{bidder:'sonobi',params:{ad_unit:"/5358318/TurtleDiary_Play_300x250_ATF_B"}},{bidder:'oftmedia',params:{placementId:'13417397'}},]},{code:'div-gpt-ad-1521066641354-9',mediaTypes:{banner:{sizes:[300,250]}},bids:[{bidder:'districtm',params:{placementId:'13986041'}},{bidder:'districtmDMX',params:{id:'249188'}},{bidder:'conversant',params:{site_id:'118667',position:1,secure:1}},{bidder:'sonobi',params:{ad_unit:"/5358318/TurtleDiary_Play_300x250_ATF_C"}},{bidder:'oftmedia',params:{placementId:'13988977'}},]},];var googletag=googletag||{};googletag.cmd=googletag.cmd||[];googletag.cmd.push(function(){googletag.pubads().disableInitialLoad();});var pbjs=pbjs||{};pbjs.que=pbjs.que||[];pbjs.que.push(function(){pbjs.setConfig({priceGranularity:"auto",syncsPerBidder:0,});pbjs.addAdUnits(adUnits);pbjs.aliasBidder('appnexus','districtm');pbjs.requestBids({bidsBackHandler:initAdserver});});function initAdserver(){if(pbjs.initAdserverSet)return;pbjs.initAdserverSet=true;googletag.cmd.push(function(){pbjs.que.push(function(){pbjs.setTargetingForGPTAsync();googletag.pubads().refresh();});});}setTimeout(function(){initAdserver();},PREBID_TIMEOUT);</script>
-<script>function refreshSlot(slot1,slot2,slot4,slot5){pbjs.que.push(function(){pbjs.requestBids({timeout:PREBID_TIMEOUT,bidsBackHandler:function(){pbjs.setTargetingForGPTAsync();googletag.pubads().refresh([slot1,slot2,slot4,slot5]);}});});}</script>
+<script async="" src="/js/new/prebid/prebid.js?v=71.05"></script>
+<script>if(userDetails['mStatus']!='member'&&(cookie_app==''||cookie_app==undefined)){var sizes=[[728,90]];var sizes1=[[300,250]];var sizes2=[[300,250],[300,600],[160,600],];var sizes3=[[160,600]];var PREBID_TIMEOUT=1500;var FAILSAFE_TIMEOUT=3000;var adUnits=[{code:'div-gpt-ad-1521066641354-5',mediaTypes:{banner:{sizes:[728,90]}},bids:[{bidder:'districtm',params:{placementId:'13248205'}},{bidder:'districtmDMX',params:{id:'210256'}},]},{code:'div-gpt-ad-1521066641354-6',mediaTypes:{banner:{sizes:[160,600]}},bids:[{bidder:'districtm',params:{placementId:'13248204'}},{bidder:'districtmDMX',params:{id:'210255'}},]},{code:'div-gpt-ad-1521066641354-7',mediaTypes:{banner:{sizes:[300,250]}},bids:[{bidder:'districtm',params:{placementId:'13248207'}},{bidder:'districtmDMX',params:{id:'210257'}},]},{code:'div-gpt-ad-1521066641354-8',mediaTypes:{banner:{sizes:[[300,250],[300,600],[160,600]]}},bids:[{bidder:'districtm',params:{placementId:'13833656'}},{bidder:'districtmDMX',params:{dmxid:'239980'}},]},];var googletag=googletag||{};googletag.cmd=googletag.cmd||[];googletag.cmd.push(function(){googletag.pubads().disableInitialLoad();});var pbjs=pbjs||{};pbjs.que=pbjs.que||[];pbjs.que.push(function(){pbjs.setConfig({priceGranularity:"auto",syncsPerBidder:0,});pbjs.addAdUnits(adUnits);pbjs.aliasBidder('appnexus','districtm');pbjs.requestBids({bidsBackHandler:initAdserver});});function initAdserver(){if(pbjs.initAdserverSet)return;pbjs.initAdserverSet=true;googletag.cmd.push(function(){pbjs.que.push(function(){pbjs.setTargetingForGPTAsync();googletag.pubads().refresh();});});}setTimeout(function(){initAdserver();},PREBID_TIMEOUT);function refreshSlot(slot1,slot2,slot4){pbjs.que.push(function(){pbjs.requestBids({timeout:PREBID_TIMEOUT,bidsBackHandler:function(){pbjs.setTargetingForGPTAsync();googletag.pubads().refresh([slot1,slot2,slot4]);}});});}googletag.cmd.push(function(){var slot1=googletag.defineSlot('/5358318/TurtleDiary_Play_728x90_ATF',sizes,'div-gpt-ad-1521066641354-5').addService(googletag.pubads());var slot2=googletag.defineSlot('/5358318/TurtleDiary_Play_160x600_ATF',sizes3,'div-gpt-ad-1521066641354-6').addService(googletag.pubads());var slot3=googletag.defineSlot('/5358318/TurtleDiary_Play_300x250_ATF_A',sizes1,'div-gpt-ad-1521066641354-7').addService(googletag.pubads());var slot4=googletag.defineSlot('/5358318/TurtleDiary_Play_Tower_ATF',sizes2,'div-gpt-ad-1521066641354-8').addService(googletag.pubads());googletag.pubads().enableSingleRequest();googletag.enableServices();setInterval(function(){refreshSlot(slot1,slot2,slot4);reloadAdsIfRequire();},45000);});}</script>		
 
-<script>googletag.cmd.push(function(){var slot1=googletag.defineSlot('/5358318/TurtleDiary_Play_728x90_ATF',[728,90],'div-gpt-ad-1521066641354-5').addService(googletag.pubads());var slot2=googletag.defineSlot('/5358318/TurtleDiary_Play_160x600_ATF',[160,600],'div-gpt-ad-1521066641354-6').addService(googletag.pubads());var mapping2=googletag.sizeMapping().addSize([0,0],[]).addSize([1280,200],[160,600]).build();slot2.defineSizeMapping(mapping2);var slot3=googletag.defineSlot('/5358318/TurtleDiary_Play_300x250_ATF_A',[300,250],'div-gpt-ad-1521066641354-7').addService(googletag.pubads());var mapping3=googletag.sizeMapping().addSize([0,0],[]).addSize([1000,200],[300,250]).build();slot3.defineSizeMapping(mapping3);var slot4=googletag.defineSlot('/5358318/TurtleDiary_Play_300x250_ATF_B',[300,250],'div-gpt-ad-1521066641354-8').addService(googletag.pubads());var mapping4=googletag.sizeMapping().addSize([0,0],[]).addSize([1000,200],[300,250]).build();slot4.defineSizeMapping(mapping4);var slot5=googletag.defineSlot('/5358318/TurtleDiary_Play_300x250_ATF_C',[300,250],'div-gpt-ad-1521066641354-9').addService(googletag.pubads());var mapping5=googletag.sizeMapping().addSize([0,0],[]).addSize([1000,200],[300,250]).build();slot5.defineSizeMapping(mapping5);googletag.pubads().enableSingleRequest();googletag.enableServices();setInterval(function(){refreshSlot(slot1,slot2,slot4,slot5);reloadAdsIfRequire();},60000);});</script>
 <script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-31320576-1','auto');ga('send','pageview');</script>
 
 
@@ -32,15 +30,14 @@
 
      <script>function searchDis(){$('#header .searchBlock').toggleClass('active');$('.navbar-collapse').removeClass('in');}</script>
 
-
-
-
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-0516794783272595",enable_page_level_ads:true});</script>
+
+<script>if(userDetails['mStatus']!='member'){(adsbygoogle=window.adsbygoogle||[]).push({google_ad_client:"ca-pub-0516794783272595",enable_page_level_ads:true});}</script>
  
+
     </head> 
     
-      <body class="noclass o4lftFilter  freeMember ">  
+      <body class="noclass o4lftFilter freeMember adsFrmTop2Bottom_activities">  
       <div class="use4width"></div>
         <div class="g2t go2top "></div>
         <div id="fb-root"></div>
@@ -50,60 +47,17 @@
 <div class="bootstrap-iso" id="tdHeaderMN">
 <div class="HedTop">
 <div class="container-fuild">
-    <header id="header" class="clearfix">
-      
-                  <div class="logo pull-left">
-        <a href="/">
-          <img src="https://cdn.turtlediary.com/homepage/logo_new.png" alt="Turtlediary logo" class="img-responsive">
-        </a>
-      </div>
+        <!--<div align="center" class="highlight-share"><a href="/share-wishlist.html"><strong>Click here</strong></a> for a chance to get free school supplies as a teacher</div>-->
+    <div align="center" class="highlight-share custWidth" style=""><a href="/share-wishlist.html"><strong>Click here</strong></a> for a chance to get free school supplies as a teacher</div>
+        <!-- <header id="header" class="clearfix">
         
-      
-      <div class="pull-right topRTNav">   
-  
-        <ul class="registration">
-                    <li>
-            <a href="https://www.turtlediary.com/membership.html" id="labelAccountBtn" class="userAccount">
-            	<i class="fa fa-user-plus icon"></i>
-                <span class="title">Free Account</span>
-                <span class="subTitle">More Access</span>
-            </a>
-          </li>
-                               <li>
-            <a href="javascript:void(0);" title="Unlimited - Ad Free" onclick="location.href='https://www.turtlediary.com/go-ad-free.html';" class="premiumMember">
-              <i class="fa fa-usd icon"></i>
-              <span class="title">Try Premium</span>
-              <span class="subTitle">Unlimited - Ad Free</span>
-            </a>
-          </li>
-                    <li>
-            <a href="javascript:void(0);" class="mobSearchicon" onclick="searchDis();">
-              <i class="fa fa-search icon"></i> Search
-            </a>
-          </li>
-                                         
-                       
-        </ul>
-        
-                 
-        
-       
-                 <p class="loginBlock">
-          <span>Already a member?</span> <a href="https://www.turtlediary.com/login.html"><i class="fa fa-user icon"></i> <strong>Login</strong></a>
-          </p>
-            
-        
-      </div>
-      <div class="searchBlock">
-        <i class="fa fa-close" onclick="searchDis();"></i>
-       <!-- <form class="form-group" role="search">-->
-        <form class="form-group" action="https://www.turtlediary.com/search-results.html" name="search_form" role="search">
-          <input class="form-control" placeholder="Search for games, stories, worksheets, etc." name="q" id="search" autocomplete="off" type="text">
+      /search-results.html" name="search_form" role="search" >
+          <input class="form-control" placeholder="Search for games, stories, worksheets, etc."  name="q" id="search" autocomplete="off"  type="text">
           <a href="javascript:void(0)" id="searchd_noac" onclick="search_form.submit()" class="btn btn-search">Search</a>
-          <!--<button class="btn btn-search" type="submit">Search</button>-->
+          <!--<button class="btn btn-search" type="submit">Search</button>-- >
         </form>
       </div>
-    </header>
+    </header> -->
   </div>
 
 <!-- header end -->
@@ -121,29 +75,35 @@
       </div>
       <div id="navbar" class="navbar-collapse collapse">
       	<div class="navbarClps_nsd">
-            <div class="fResLogo"><a href="/"><img src="https://cdn.turtlediary.com/homepage/td-logo-3.png" alt="Turtlediary logo" class="img-responsive"></a></div>
+            <div class="fResLogo"><a href="/">
+                <picture>
+                    <source type="image/webp" srcset="https://cdn.turtlediary.com/homepage/td-logo-3.webp">
+                    <source type="image/png" srcset="https://cdn.turtlediary.com/homepage/td-logo-3.png">
+                    <img src="https://cdn.turtlediary.com/homepage/td-logo-3.png" alt="Turtlediary logo" class="img-responsive">
+                </picture>
+            </a></div>
             <ul class="nav navbar-nav">
               <li id="ddm-games" class="dropdown dropDownFull "><!-- onclick="tgleHMnu_game()"-->
                 <a href="javascript:void(0);" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-gamepad"></i>Games <span class="caret"></span></a> 
                 <div class="dropdown-menu">
                                   <ul>
-                       <li><a href="https://www.turtlediary.com/games/preschool.html">Preschool</a></li> <li><a href="https://www.turtlediary.com/games/kindergarten.html">Kindergarten</a></li> <li><a href="https://www.turtlediary.com/games/first-grade.html">First Grade</a></li>                  </ul>
+                       <li><a href="/games/preschool.html">Preschool</a></li> <li><a href="/games/kindergarten.html">Kindergarten</a></li> <li><a href="/games/first-grade.html">First Grade</a></li>                  </ul>
                   <ul>
-                       <li><a href="https://www.turtlediary.com/games/second-grade.html">Second Grade</a></li> <li><a href="https://www.turtlediary.com/games/third-grade.html">Third Grade</a></li> <li><a href="https://www.turtlediary.com/games/fourth-grade.html">Fourth Grade</a></li>                  </ul>
+                       <li><a href="/games/second-grade.html">Second Grade</a></li> <li><a href="/games/third-grade.html">Third Grade</a></li> <li><a href="/games/fourth-grade.html">Fourth Grade</a></li>                  </ul>
                   <ul>
-                       <li><a href="https://www.turtlediary.com/games/fifth-grade.html">Fifth Grade</a></li>                      <li><a href="https://www.turtlediary.com/games.html">All Games</a></li>
+                       <li><a href="/games/fifth-grade.html">Fifth Grade</a></li>                      <li><a href="/games.html">All Games</a></li>
                       
                                      
                   </ul>
                   <ul class="tools-mm toolsSec">
-                    <li><a href="https://www.turtlediary.com/games/math.html">Math Games</a></li>
-                    <li><a href="https://www.turtlediary.com/games/language-arts.html">Language Games</a></li>
-                    <li><a href="https://www.turtlediary.com/games/science.html">Science Games</a></li>                 
+                    <li><a href="/games/math.html">Math Games</a></li>
+                    <li><a href="/games/language-arts.html">Language Games</a></li>
+                    <li><a href="/games/science.html">Science Games</a></li>                 
                   </ul>
                   <ul class="">
                        <li><a href="/multiplayer-games.html">Multiplayer Games</a></li>
                       <li><a href="/games/typing-games.html">Typing Games</a></li>
-                      <li><a href="https://www.turtlediary.com/games/online-games.html">Fun and More</a></li>
+                      <li><a href="/games/online-games.html">Fun and More</a></li>
                      
                   </ul>
                     
@@ -153,17 +113,17 @@
                 <a href="javascript:void(0);" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-film"></i>Videos <span class="caret"></span></a>
                 <div class="dropdown-menu">
                                        <ul>
-                  <li><a href="https://www.turtlediary.com/videos/preschool.html">Preschool</a></li><li><a href="https://www.turtlediary.com/videos/kindergarten.html">Kindergarten</a></li><li><a href="https://www.turtlediary.com/videos/first-grade.html">First Grade</a></li>                     
+                  <li><a href="/videos/preschool.html">Preschool</a></li><li><a href="/videos/kindergarten.html">Kindergarten</a></li><li><a href="/videos/first-grade.html">First Grade</a></li>                     
                   </ul>
                   <ul>
-                   <li><a href="https://www.turtlediary.com/videos/second-grade.html">Second Grade</a></li><li><a href="https://www.turtlediary.com/videos/third-grade.html">Third Grade</a></li><li><a href="https://www.turtlediary.com/videos/fourth-grade.html">Fourth Grade</a></li>                  </ul>
+                   <li><a href="/videos/second-grade.html">Second Grade</a></li><li><a href="/videos/third-grade.html">Third Grade</a></li><li><a href="/videos/fourth-grade.html">Fourth Grade</a></li>                  </ul>
                   <ul>
-                    <li><a href="https://www.turtlediary.com/videos/fifth-grade.html">Fifth Grade</a></li>                   <li><a href="https://www.turtlediary.com/videos.html">All Videos</a></li>
+                    <li><a href="/videos/fifth-grade.html">Fifth Grade</a></li>                   <li><a href="/videos.html">All Videos</a></li>
                   </ul>
                   <ul class="tools-mm toolsSec"> 
-                     <li> <a href="https://www.turtlediary.com/common-core/videos.html">Common Core</a></li>
-                     <li> <a href="https://www.turtlediary.com/letter-sounds.html">Phonics</a></li>
-                     <li> <a href="https://www.turtlediary.com/toddler.html">Toddlers</a></li>
+                     <li> <a href="/common-core/videos.html">Common Core</a></li>
+                     <li> <a href="/letter-sounds.html">Phonics</a></li>
+                     <li> <a href="/toddler.html">Toddlers</a></li>
                      
                   </ul>
                 </div>
@@ -171,54 +131,69 @@
               <li id="ddm-quizes" class="dropdown">
                 <a href="javascript:void(0);" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-clock-o"></i>Quizzes <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="https://www.turtlediary.com/quizzes.html">Quizzes</a></li>
+                  <li><a href="/quizzes.html">Quizzes</a></li>
                   <li><a href="/assessment-tests.html">Assessment Tests</a></li>
                 </ul>
-                              </li>
+                
+              </li>
               <li id="ddm-printable" class="dropdown"><!-- onclick="tgleHMnu_printable()"-->
                <a href="javascript:void(0);" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-print"></i>Printables <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="https://www.turtlediary.com/worksheets.html">Worksheets</a></li>
-                  <li><a href="https://www.turtlediary.com/coloring-sheets.html">Coloring Sheets</a></li>
-                  <li><a href="https://www.turtlediary.com/lessons.html">Lessons</a></li> 
-                  <li><a href="https://www.turtlediary.com/worksheet-generator.html">Worksheet Generator</a></li>
+                  <li><a href="/worksheets.html">Worksheets</a></li>
+                  <li><a href="/coloring-sheets.html">Coloring Sheets</a></li>
+                  <li><a href="/lessons.html">Lessons</a></li> 
+                  <li><a href="/worksheet-generator.html">Worksheet Generator</a></li>
                 </ul>
               </li>
               <li id="ddm-tTool" class="dropdown">
                <a href="javascript:void(0);" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-wrench"></i>Teaching Tools <span class="caret"></span></a>
                 <ul class="dropdown-menu">
-                  <li><a href="https://www.turtlediary.com/worksheet-generator.html">Worksheet Generator</a></li>
+                  <li><a href="/worksheet-generator.html">Worksheet Generator</a></li>
                   <li><a href="/assessment-tests.html">Assessment Tests</a></li>
-                  <li><a href="https://www.turtlediary.com/common-core.html">Common Core</a></li>
-                  <li><a href="/assignments.html" title="Assignments">Assignments</a></li>
+                  <li><a href="/common-core.html">Common Core</a></li>
+                  <li>
+                      <span id="assignLogged" style="display:none;"><a href="https://account.turtlediary.com/assignments/list-assignment" title="Assignments">Assignments</a></span>
+                      <span id="assignNonLogged" style="display:none;"><a href="/assignments.html" title="Assignments">Assignments</a></span>
+                      <!--<a href="" title="Assignments">Assignments</a></li>-->
+                  </li>
                 </ul>
               </li>
               <li id="ddm-more" class="dropdown dropDownFull"><!-- onclick="tgleHMnu_more()"-->
                 <a href="javascript:void(0);" class="dropdown-toggle" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-plus-square-o"></i>More <span class="caret"></span></a>
                 <div class="dropdown-menu">
                   <ul>
-                    <li><a href="https://www.turtlediary.com/kids-arts-and-crafts.html">Arts &amp; Crafts</a></li>
-                    <li><a href="https://www.turtlediary.com/biographies.html">Biographies</a></li>
-                    <li><a href="https://www.turtlediary.com/kids-science-experiments.html">Science Experiments</a></li>
+                    <li><a href="/kids-arts-and-crafts.html">Arts &amp; Crafts</a></li>
+                    <li><a href="/biographies.html">Biographies</a></li>
+                    <li><a href="/kids-science-experiments.html">Science Experiments</a></li>
                   </ul>
                   <ul>
-                    <li><a href="https://www.turtlediary.com/sports.html">Sports</a></li>
-                    <li><a href="https://www.turtlediary.com/kids-stories.html">Stories</a></li>
-                    <li><a href="https://www.turtlediary.com/toddler.html">Toddler Videos</a></li>
+                    <li><a href="/sports.html">Sports</a></li>
+                    <li><a href="/kids-stories.html">Stories</a></li>
+                    <li><a href="/toddler.html">Toddler Videos</a></li>
                                       </ul>
                   <ul>
                     <li><a href="/assessment-tests.html">Assessment Tests</a></li>
-                                       <li> <a href="https://www.turtlediary.com/common-core.html">Common Core</a></li>
-                   <li><a href="/typing-tutorials.html" title="Typing Lessons">Typing Lessons</a></li> 
+                                       <li> <a href="/common-core.html">Common Core</a></li>
+                   <li><a href="/typing-tutorials.html" title="Typing Lessons" id="typHref">Typing Lessons</a></li> 
                     
                   </ul>
                   <ul class="tools-mm toolsSec">
-                    <li><a href="https://account.turtlediary.com/dashboard" title="My Account">My Account</a></li>
+                    <li>
+                        <!--<a href="" title="My Account">My Account</a>-->
+                        <span id="actChild" style="display:none;"><a href="/account.html" title="My Account">My Account</a></span>
+                        <span id="actNonChild" style="display:none;"><a href="https://account.turtlediary.com/dashboard" title="My Account">My Account</a></span>
+                    </li>
                     <li><a href="https://account.turtlediary.com/report-game-history" title="Reports">Reports</a></li>
-                    <li><a href="/assignments.html" title="Assignments">Assignments</a></li>
+                    <li>
+                        <span id="assignLogged" style="display:none;"><a href="https://account.turtlediary.com/assignments/list-assignment" title="Assignments">Assignments</a></span>
+                        <span id="assignNonLogged" style="display:none;"><a href="/assignments.html" title="Assignments">Assignments</a></span>
+                    </li>
                                       </ul>
                   
                   <ul class="toolsSec">
+                      <li> 
+                          <a href="/blogs.html" title="Blogs" target="_blank">Blogs</a>
+                      </li>
                       <li> <a href="http://www.eagertots.com/" target="_blank">EagerTot App <i class="fa fa-tablet subsTab"></i></a></li>
                       
                       <li><a href="https://app.turtlediary.com/" title="TurtleDiary" target="_blank">TurtleDiary App <i class="fa fa-tablet subsTab"></i></a></li> 
@@ -229,15 +204,16 @@
             </ul>
             <div class="fResRBtns">
             	<div class="fResRBtns_in clearfix">
-                	                	<div class="e_fResRBtn e_fResRBtn_cac"><a href="https://www.turtlediary.com/membership.html"><span class="e_fResRBtn_ico"><i class="fa fa-user-plus" aria-hidden="true"></i></span><span class="e_fResRBtn_txt">Sign Up Free !</span></a></div>
-                    
-                    <div class="e_fResRBtn e_fResRBtn_lgn"><a href="https://www.turtlediary.com/login.html"><span class="e_fResRBtn_ico"><i class="fa fa-sign-in" aria-hidden="true"></i></span><span class="e_fResRBtn_txt">Log In</span></a></div>
-                                    </div>
+                    <div class="e_fResRBtn e_fResRBtn_cac" id="e_fResRBtn_cac" style="display:none;"><a href="https://www.turtlediary.com/membership.html"><span class="e_fResRBtn_ico"><i class="fa fa-user-plus" aria-hidden="true"></i></span><span class="e_fResRBtn_txt">Sign Up Free !</span></a></div>
+                    <div class="e_fResRBtn e_fResRBtn_lgn" id="e_fResRBtn_lgn" style="display:none;"><a href="https://www.turtlediary.com/login.html"><span class="e_fResRBtn_ico"><i class="fa fa-sign-in" aria-hidden="true"></i></span><span class="e_fResRBtn_txt">Log In</span></a></div>
+                    <div class="e_fResRBtn e_fResRBtn_ugd" id="e_fResRBtn_ugd" style="display:none;"><a href="javascript:void(0);" onclick="location.href='https://www.turtlediary.com/go-ad-free.html';" title="Unlimited - Ad Free"><span class="e_fResRBtn_ico"><i class="fa fa-arrow-circle-up" aria-hidden="true"></i></span><span class="e_fResRBtn_txt">Go Ad-Free</span></a></div>
+                    <div class="e_fResRBtn e_fResRBtn_lgt" id="e_fResRBtn_lgt" style="display:none;"><a href="https://members.turtlediary.com/logout.html"><span class="e_fResRBtn_ico"><i class="fa fa-sign-out" aria-hidden="true"></i></span><span class="e_fResRBtn_txt">Logout</span></a></div>
+                </div>
             </div>
             <div class="fResSearch">
             	<div class="fResSrch_in clearfix">
                 
-                	<form class="form-group" action="https://www.turtlediary.com/search-results.html" name="search_form2" role="search">
+                	<form class="form-group" action="/search-results.html" name="search_form2" role="search">
                 	<div class="fResSrch_sBox"><div class="close_fRsSrchSBx"><i class="fa fa-times" aria-hidden="true"></i></div><input placeholder="Search for games, stories, worksheets, etc." name="q" id="search" autocomplete="off" type="text"></div>
                     <div class="fResSrch_sMag"><div class="mClickT" id="searchd_noac" onclick="search_form2.submit()"></div><i class="fa fa-search" aria-hidden="true"></i></div>
                 	</form>
@@ -253,16 +229,8 @@
 <!-- menu end -->
 
 
-
-
 <script type="text/javascript">!function(s){"use strict";function e(s){return new RegExp("(^|\\s+)"+s+"(\\s+|$)")}function n(s,e){var n=t(s,e)?c:a;n(s,e)}var t,a,c;"classList"in document.documentElement?(t=function(s,e){return s.classList.contains(e)},a=function(s,e){s.classList.add(e)},c=function(s,e){s.classList.remove(e)}):(t=function(s,n){return e(n).test(s.className)},a=function(s,e){t(s,e)||(s.className=s.className+" "+e)},c=function(s,n){s.className=s.className.replace(e(n)," ")});var o={hasClass:t,addClass:a,removeClass:c,toggleClass:n,has:t,add:a,remove:c,toggle:n};"function"==typeof define&&define.amd?define(o):"object"==typeof exports?module.exports=o:s.classie=o}(window);var menu=document.querySelector('#ddm-games'),button=document.querySelector('#ddm-games'),dropdown=document.querySelector('#ddm-games.dropdown');button.onclick=function(){classie.toggle(menu,'open');};document.addEventListener('click',function(event){if(event.target!==dropdown&&!dropdown.contains(event.target)){classie.removeClass(menu,"open");}});var menu2=document.querySelector('#ddm-videos'),button2=document.querySelector('#ddm-videos'),dropdown2=document.querySelector('#ddm-videos.dropdown');button2.onclick=function(){classie.toggle(menu2,'open');};document.addEventListener('click',function(event){if(event.target!==dropdown2&&!dropdown2.contains(event.target)){classie.removeClass(menu2,"open");}});var menu3=document.querySelector('#ddm-printable'),button3=document.querySelector('#ddm-printable'),dropdown3=document.querySelector('#ddm-printable.dropdown');button3.onclick=function(){classie.toggle(menu3,'open');};document.addEventListener('click',function(event){if(event.target!==dropdown3&&!dropdown3.contains(event.target)){classie.removeClass(menu3,"open");}});var menu4=document.querySelector('#ddm-more'),button4=document.querySelector('#ddm-more'),dropdown4=document.querySelector('#ddm-more.dropdown');button4.onclick=function(){classie.toggle(menu4,'open');};document.addEventListener('click',function(event){if(event.target!==dropdown4&&!dropdown4.contains(event.target)){classie.removeClass(menu4,"open");}});var menu5=document.querySelector('#ddm-quizes'),button5=document.querySelector('#ddm-quizes'),dropdown5=document.querySelector('#ddm-quizes.dropdown');button5.onclick=function(){classie.toggle(menu5,'open');};document.addEventListener('click',function(event){if(event.target!==dropdown5&&!dropdown5.contains(event.target)){classie.removeClass(menu5,"open");}});var menu6=document.querySelector('#ddm-tTool'),button6=document.querySelector('#ddm-tTool'),dropdown6=document.querySelector('#ddm-tTool.dropdown');button6.onclick=function(){classie.toggle(menu6,'open');};document.addEventListener('click',function(event){if(event.target!==dropdown6&&!dropdown6.contains(event.target)){classie.removeClass(menu6,"open");}});</script>
-<style>
-@media only screen and (min-width: 768px){
-.bootstrap-iso #navbar .dropdown-menu > li > a:hover{
-    background: #fff;
-}
-</style>
-<script type="text/javascript" src="/js/new/checkadblock.js?v=68.33"></script>
+<style>@media only screen and (min-width:768px){.bootstrap-iso #navbar .dropdown-menu>li>a:hover{background:#fff}}</style>
 <div class="middle"><div class="container"><div class="middle-in"><!--<div class="navi-1 breadcrumbVMain">
     <div id="breadcrumbSub-1" class="floatLT breadcrumbSub-1"><a href="/" class="brdcrmb-home"><b class="pic"></b></a></div><div id="breadcrumbSub-2" class="floatLT breadcrumbSub-2 brdHt"><a href="/" class="brdcrmb-home" title="Turtle Diary">HOME</a> <span class='ngts'> &gt; </span><span> PRIVACY POLICY </span></div>
 </div>-->
@@ -387,38 +355,63 @@
     <div class="container clearfix">
       <ul class="footerNav footerLeftNav">
       	<li><strong>Content:</strong></li>
-        <li><a href="https://www.turtlediary.com/games.html">Games</a></li>
-        <li><a href="https://www.turtlediary.com/videos.html">Videos</a></li>
-        <li><a href="https://www.turtlediary.com/quizzes.html">Quizzes</a></li>
-        <li> <a href="https://www.turtlediary.com/worksheets.html">Worksheets</a></li>
-        <li><a href="https://www.turtlediary.com/lessons.html">Lessons</a></li>
-        <li><a href="https://www.turtlediary.com/contest.html">Contests</a></li>
+        <li><a href="/games.html">Games</a></li>
+        <li><a href="/videos.html">Videos</a></li>
+        <li><a href="/quizzes.html">Quizzes</a></li>
+        <li> <a href="/worksheets.html">Worksheets</a></li>
+        <li><a href="/lessons.html">Lessons</a></li>
+        <li><a href="/contest.html">Contests</a></li>
         <li><a href="/assessment-tests.html">Assessment Tests</a></li>
         <li> <a href="http://www.eagertots.com/" target="_blank">EagerTot App <i class="fa fa-tablet subsTab"></i></a></li>
         <li> <a href="https://app.turtlediary.com/" target="_blank">TurtleDiary App <i class="fa fa-tablet subsTab"></i></a></li>
-              </ul>
+      </ul>
       
        
 
 
 <ul class="footerNav footerRttNav">
 <li><strong>Company Resources:</strong></li>
-<li><a href="https://www.turtlediary.com/go-ad-free.html" title="">Why Go Premium?</a></li>
+<li><a href="/go-ad-free.html" title="">Why Go Premium?</a></li>
 <li><a href="https://www.turtlediary.com/contact-us.html" title="">Contact Us</a></li>
-<li><a href="javascript:void(0);" onclick="centeredPopup('https://www.turtlediary.com/feedback.html','myWindow1','680','700','yes');return false" title="">Give Feedback</a></li>
+<li><a href="javascript:void(0);" onclick="centeredPopup('/feedback.html','myWindow1','680','700','yes');return false" title="">Give Feedback</a></li>
 <li><a href="mailto:support@turtlediary.com" title="">Advertise With Us</a></li>
-<li><a href="https://www.turtlediary.com/faq.html" title="">FAQs</a></li>
-<li><a href="https://www.turtlediary.com/terms-and-conditions.html" title="">Terms &amp; Conditions</a></li>
-<li><a href="https://www.turtlediary.com/privacy-policy.html" title="">Privacy Policy</a></li>
-<li><a href="https://www.turtlediary.com/sitemap.html" title="Sitemap">Sitemap</a></li>
-<li><a href="https://www.turtlediary.com/go-ad-free.html" title="" class="tryPremium"><strong>Try Premium</strong><br>Unlimited &amp; Ad Free</a></li>
+<li><a href="/faq.html" title="">FAQs</a></li>
+<li><a href="/terms-and-conditions.html" title="">Terms &amp; Conditions</a></li>
+<li><a href="/privacy-policy.html" title="">Privacy Policy</a></li>
+<li><a href="/sitemap.html" title="Sitemap">Sitemap</a></li>
+<li><span id="footerPrem" style="display:none;"><a href="/go-ad-free.html" title="" class="tryPremium"><strong>Try Premium</strong><br>Unlimited &amp; Ad Free</a></span></li>
 </ul>  
+  
       
-      <div class="footerMidCol"><a href="https://www.turtlediary.com"> <img src="https://cdn.turtlediary.com/homepage/td-logo.png" alt="Turtlediary Logo" class="img-responsive center-block"> </a>
+      <div class="footerMidCol"><a href="/"> 
+              <picture>
+                <source type="image/webp" srcset="https://cdn.turtlediary.com/homepage/td-logo.webp">
+                <source type="image/png" srcset="https://cdn.turtlediary.com/homepage/td-logo.png">
+                <img src="https://cdn.turtlediary.com/homepage/td-logo.png" alt="Turtlediary Logo" class="img-responsive center-block"> 
+              </picture>
+          </a>
         <ul class="award">
-          <li><a href="http://www.elementaryeducationdegree.com/leading-sites/" target="_blank"> <img src="https://cdn.turtlediary.com/homepage/xleading-educators.jpg" class="img-responsive" alt="Leading site for Elementary educators badge"> </a></li>
-          <li><a target="_blank" href="http://gws.ala.org/node/8243"><img src="https://cdn.turtlediary.com/homepage/gw-kids.png" class="img-responsive" alt="A Great Website for Kids badge"></a></li>
-          <li><a target="_blank" href="https://www.homeschool.com/articles/curriculum-awards-2014/"><img src="https://cdn.turtlediary.com/homepage/home-school-img.png" class="img-responsive" alt="Homeschool.com badge"></a></li>
+          <li><a href="http://www.elementaryeducationdegree.com/leading-sites/" target="_blank"> 
+                  <picture>
+                        <source type="image/webp" srcset="https://cdn.turtlediary.com/homepage/xleading-educators.webp">
+                        <source type="image/jpg" srcset="https://cdn.turtlediary.com/homepage/xleading-educators.jpg">
+                        <img src="https://cdn.turtlediary.com/homepage/xleading-educators.jpg" class="img-responsive" alt="Leading site for Elementary educators badge"> 
+                  </picture>
+              </a></li>
+          <li><a target="_blank" href="http://gws.ala.org/node/8243">
+                  <picture>
+                        <source type="image/webp" srcset="https://cdn.turtlediary.com/homepage/gw-kids.webp">
+                        <source type="image/png" srcset="https://cdn.turtlediary.com/homepage/gw-kids.png">
+                        <img src="https://cdn.turtlediary.com/homepage/gw-kids.png" class="img-responsive" alt="A Great Website for Kids badge">
+                  </picture>
+              </a></li>
+          <li><a target="_blank" href="https://www.homeschool.com/articles/curriculum-awards-2014/">
+                  <picture>
+                        <source type="image/webp" srcset="https://cdn.turtlediary.com/homepage/home-school-img.webp">
+                        <source type="image/png" srcset="https://cdn.turtlediary.com/homepage/home-school-img.png">
+                        <img src="https://cdn.turtlediary.com/homepage/home-school-img.png" class="img-responsive" alt="Homeschool.com badge">
+                  </picture>
+              </a></li>
         </ul>
         <ul class="socialNav" itemscope="" itemtype="https://schema.org/Organization">
         	<link itemprop="url" href="https://www.turtlediary.com"> 
@@ -428,7 +421,6 @@
           <li><a itemprop="sameAs" href="https://plus.google.com/102111106521012734665" target="_blank" title=""><i class="fa fa-google-plus"></i></a></li>
           <li><a itemprop="sameAs" href="https://www.youtube.com/turtlediarydotcom" target="_blank" title=""><i class="fa fa-youtube"></i></a></li>
         </ul>
-		<div class="mwBtmTxt"><a href="mailto:support@mindwagon.com">Development Partner Mindwagon Software Consulting</a></div>
       </div>
 	  
     </div>
@@ -438,25 +430,26 @@
   </div> 
   <div class="forBtmPos"></div>
   <!-- bottom end -->
+  <script></script>
+  <script>var body=document.body;function forFreeAndBasic(){body.classList.add("freeMember");body.classList.add("adsFrmTop2Bottom_cmn");document.getElementById('footerPrem').style.display='block';var ads=document.getElementsByClassName('adsHolder');var i;for(i=0;i<ads.length;i++){ads[i].style.visibility='visible';}var ads=document.getElementsByClassName('adsHolder2');var i;for(i=0;i<ads.length;i++){ads[i].style.visibility='visible';}}setTimeout(function(){console.log("-- chk --"+userDetails['username']);console.log("-- chk m --"+memberDetails['mStatus']);var thisUserDetails=ReadCookie('login');if((thisUserDetails!=='')&&(typeof(JSON.parse(thisUserDetails))==='object')){thisUserDetails=JSON.parse(thisUserDetails);}else{var urlparts=location.hostname.split('.');var subdomain=urlparts.shift();if(subdomain=='members'){window.location.href="https://www.turtlediary.com/login.html";}thisUserDetails="";}if(thisUserDetails==""){document.getElementById('e_fResRBtn_cac').style.display='block';document.getElementById('e_fResRBtn_lgn').style.display='block';document.getElementById('e_fResRBtn_ugd').style.display='none';document.getElementById('e_fResRBtn_lgt').style.display='none';document.getElementById('assignLogged').style.display='none';document.getElementById('assignNonLogged').style.display='block';forFreeAndBasic();}else if(thisUserDetails['mStatus']=='basic'){body.classList.add("userLoggedIn");document.getElementById('e_fResRBtn_cac').style.display='none';document.getElementById('e_fResRBtn_lgn').style.display='none';document.getElementById('e_fResRBtn_ugd').style.display='block';document.getElementById('e_fResRBtn_lgt').style.display='block';document.getElementById('assignLogged').style.display='block';document.getElementById('assignNonLogged').style.display='none';if(document.getElementById("typHref")){document.getElementById("typHref").href="/typing-tutorials.html?"+btoa(userDetails['userId']+Date.now());}forFreeAndBasic();}else{body.classList.add("userLoggedIn");document.getElementById('e_fResRBtn_cac').style.display='none';document.getElementById('e_fResRBtn_lgn').style.display='none';document.getElementById('e_fResRBtn_ugd').style.display='none';document.getElementById('e_fResRBtn_lgt').style.display='block';document.getElementById('assignLogged').style.display='block';document.getElementById('assignNonLogged').style.display='none';if(document.getElementById("typHref")){document.getElementById("typHref").href="/typing-tutorials.html?"+btoa(userDetails['userId']+Date.now());}var ads=document.getElementsByClassName('adsHolder');var i;for(i=0;i<ads.length;i++){ads[i].style.visibility='hidden';ads[i].style.display='none';}var ads=document.getElementsByClassName('adsHolder2');var i;for(i=0;i<ads.length;i++){ads[i].style.visibility='hidden';ads[i].style.display='none';}}if(memberDetails['userType']=='student'||memberDetails['userType']=='child'){document.getElementById('actChild').style.display='block';document.getElementById('actNonChild').style.display='none';}else{document.getElementById('actChild').style.display='none';document.getElementById('actNonChild').style.display='block';}if(cookie_app==''||cookie_app==undefined){document.getElementById('tdHeaderMN').style.display='block';document.getElementById('tdFooterMN').style.display='block';}else{document.getElementById('tdHeaderMN').style.display='none';document.getElementById('tdFooterMN').style.display='none';}},1000);</script>    
+<script type="text/javascript" src="/min/,qg=tdjs,av=71.05.pagespeed.jm.FGOt0JE-ip.js"></script>
+ <script type="text/javascript">var gameFramework='';var currentUrl='https://www.turtlediary.com/privacy-policy.html';var worksheetPng='https://cdn.turtlediary.com/worksheets/question/christmas-identify-the-pattern.png';var QueryString=function(){var query_string={};var query=window.location.search.substring(1);var vars=query.split("&");for(var i=0;i<vars.length;i++){var pair=vars[i].split("=");if(typeof query_string[pair[0]]==="undefined"){query_string[pair[0]]=pair[1];}else if(typeof query_string[pair[0]]==="string"){var arr=[query_string[pair[0]],pair[1]];query_string[pair[0]]=arr;}else{query_string[pair[0]].push(pair[1]);}}return query_string;}();var activity={userId:'',activityId:'',activityName:''};var loadAfterJQuery=new Array();var rd=QueryString.rd;if(ReadCookie('login').length!=0){userInfo=JSON.parse(ReadCookie('login'));if(userInfo.remember=="yes"){redirectMember();}}else if(ReadCookie('acc_login').length!=0){redirectMember();}function redirectMember(){var currentDomain="https://"+location.hostname;if(currentDomain=="https://www.turtlediary.com"){if(rd=='2'){document.cookie='login=; path=/; domain=.turtlediary.com; expires=Thu, 01 Jan 1970 00:00:01 GMT;';document.cookie='login=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';}else{document.location.href="https://members.turtlediary.com/privacy-policy.html";}}}</script>
 
-<script type="text/javascript" src="/min/,qg=tdjs,av=68.33.pagespeed.jm.FGOt0JE-ip.js"></script>
- <script type="text/javascript">var currentUrl='https://www.turtlediary.com/privacy-policy.html';var worksheetPng='https://cdn.turtlediary.com/worksheets/question/christmas-identify-the-pattern.png';var QueryString=function(){var query_string={};var query=window.location.search.substring(1);var vars=query.split("&");for(var i=0;i<vars.length;i++){var pair=vars[i].split("=");if(typeof query_string[pair[0]]==="undefined"){query_string[pair[0]]=pair[1];}else if(typeof query_string[pair[0]]==="string"){var arr=[query_string[pair[0]],pair[1]];query_string[pair[0]]=arr;}else{query_string[pair[0]].push(pair[1]);}}return query_string;}();var activity={userId:'',activityId:'',activityName:''};var loadAfterJQuery=new Array();var rd=QueryString.rd;if(ReadCookie('login').length!=0){userInfo=JSON.parse(ReadCookie('login'));if(userInfo.remember=="yes"){redirectMember();}}else if(ReadCookie('acc_login').length!=0){redirectMember();}function redirectMember(){var currentDomain="https://"+location.hostname;if(currentDomain=="https://www.turtlediary.com"){if(rd=='2'){document.cookie='login=; path=/; domain=.turtlediary.com; expires=Thu, 01 Jan 1970 00:00:01 GMT;';document.cookie='login=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';}else{document.location.href="https://members.turtlediary.com/privacy-policy.html";}}}</script>
-
-<script type="text/javascript" src="/min/,qg=jqueryjs,av=68.33.pagespeed.jm.iDyG3vc4gw.js"></script> 
-<script src="/min/,qg==footertdjs1,av==68.33+,qg==footertdjs2,av==68.33+,qg==footertdjs3,av==68.33.pagespeed.jc.6ud5nVbuvt.js"></script><script>eval(mod_pagespeed_jkhJh_FT7n);</script> 
-<script>eval(mod_pagespeed_xImvdPEM2I);</script>
-<script>eval(mod_pagespeed_ZMqwjGzc_O);</script> 
+<script type="text/javascript" src="/min/,qg=jqueryjs,av=71.05.pagespeed.jm.iDyG3vc4gw.js"></script> 
+<script src="/min/,qg==footertdjs2,av==71.05+,qg==footertdjs1,av==71.05+,qg==footertdjs3,av==71.05.pagespeed.jc.Q0F9XzMFog.js"></script><script>eval(mod_pagespeed_IHuaRANDVy);</script>
+<script>eval(mod_pagespeed_UbZdn9e$nY);</script> 
+<script>eval(mod_pagespeed_CtcXWPC9aa);</script> 
   
 
 
 
 
 <input id="aId" name="aId" value="" type="hidden">
-<script type="text/javascript">if($('#breadcrumbInvoke').length){$('#breadcrumbInvoke').html($('#breadcrumbPrimary').html());$('#breadcrumbPrimary').remove();}else{$('#breadcrumbPrimary').show();}function loadAfterJQueryFunc(url){if(typeof $!=='undefined'){for(x in loadAfterJQuery){var element=document.createElement("script");element.src=loadAfterJQuery[x];document.body.appendChild(element);}clearInterval(getJQueryJsInterval);}}var getJQueryJsInterval=setInterval(loadAfterJQueryFunc,500);var currentModulePath="static/PrivacyPolicy";if((currentModulePath=='wsGenerator/MathTopic')||(currentModulePath=='wsGenerator/MatchingList')||(currentModulePath=='wsGenerator/MatchingListImage')||(currentModulePath=='wsGenerator/CrossWord')||(currentModulePath=='wsGenerator/WordScramble')||(currentModulePath=='wsGenerator/WordSearch')){var userNameApp="Guest";var currentUrl="https://www.turtlediary.com"+'/ws/'+userNameApp+'/currentws.pdf?'+"888557";}else{if($(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn").length>0){var currentUrl=$(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn:not(.hide)").find("img").attr("src").replace('.png','.pdf');}}function currentPdfUrl(){var currentModulePath="static/PrivacyPolicy";if((currentModulePath=='wsGenerator/MathTopic')||(currentModulePath=='wsGenerator/MatchingList')||(currentModulePath=='wsGenerator/MatchingListImage')||(currentModulePath=='wsGenerator/CrossWord')||(currentModulePath=='wsGenerator/WordScramble')||(currentModulePath=='wsGenerator/WordSearch')){var currentUrl="https://www.turtlediary.com"+'/ws/'+userNameApp+'/currentws.pdf?'+"789741"}else{if($(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn").length>0){var currentUrl=$(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn:not(.hide)").find("img").attr("src").replace('.png','.pdf');}}return currentUrl;}</script>
+<script type="text/javascript">if($('#breadcrumbInvoke').length){$('#breadcrumbInvoke').html($('#breadcrumbPrimary').html());$('#breadcrumbPrimary').remove();}else{$('#breadcrumbPrimary').show();}function loadAfterJQueryFunc(url){if(typeof $!=='undefined'){for(x in loadAfterJQuery){var element=document.createElement("script");element.src=loadAfterJQuery[x];document.body.appendChild(element);}clearInterval(getJQueryJsInterval);}}var getJQueryJsInterval=setInterval(loadAfterJQueryFunc,500);var currentModulePath="static/PrivacyPolicy";if((currentModulePath=='wsGenerator/MathTopic')||(currentModulePath=='wsGenerator/MatchingList')||(currentModulePath=='wsGenerator/MatchingListImage')||(currentModulePath=='wsGenerator/CrossWord')||(currentModulePath=='wsGenerator/WordScramble')||(currentModulePath=='wsGenerator/WordSearch')){var userNameApp='Guest';if(userDetails['userId']!=''){userNameApp=atob(userDetails['username']);}var currentUrl="https://www.turtlediary.com"+'/ws/'+userNameApp+'/currentws.pdf?'+"403498";}else{if($(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn").length>0){if($(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn:not(.hide)").find("embed").attr("src")){var currentUrl=$(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn:not(.hide)").find("embed").attr("src");}else{var currentUrl=$(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn:not(.hide)").find("img").attr("src").replace('.png','.pdf');}}}function currentPdfUrl(){var currentModulePath="static/PrivacyPolicy";if((currentModulePath=='wsGenerator/MathTopic')||(currentModulePath=='wsGenerator/MatchingList')||(currentModulePath=='wsGenerator/MatchingListImage')||(currentModulePath=='wsGenerator/CrossWord')||(currentModulePath=='wsGenerator/WordScramble')||(currentModulePath=='wsGenerator/WordSearch')){var currentUrl="https://www.turtlediary.com"+'/ws/'+userNameApp+'/currentws.pdf?'+"171613"}else{if($(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn").length>0){if($(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn:not(.hide)").find("embed").attr("src")){var currentUrl=$(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn:not(.hide)").find("embed").attr("src");}else{var currentUrl=$(".wrkshtPlyRgt_pic .wrkshtPicDv_cmn:not(.hide)").find("img").attr("src").replace('.png','.pdf');}}}return currentUrl;}</script>
 
         
-        		<script type="text/javascript" src="/min/,qg=bootstrapjs,av=68.33.pagespeed.jm.KF2cAiimnY.js"></script>
-         
-    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"72dc560715","applicationID":"110900805","transactionName":"NAMHZBYADxICAUBQWw1JMEINTggPBwdMF0QLFg==","queueTime":0,"applicationTime":51,"atts":"GEQEEl4aHBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+        		<script type="text/javascript" src="/min/,qg=bootstrapjs,av=71.05.pagespeed.jm.KF2cAiimnY.js"></script>
+        <script type="text/javascript">var body=document.body;if(userDetails['userId']==''||userDetails['mStatus']!='member'){body.classList.add("adsFrmTop2Bottom_activities");}</script>  
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"72dc560715","applicationID":"110900805","transactionName":"NAMHZBYADxICAUBQWw1JMEINTggPBwdMF0QLFg==","queueTime":0,"applicationTime":40,"atts":"GEQEEl4aHBw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
