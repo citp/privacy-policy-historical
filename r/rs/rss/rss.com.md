@@ -1,25 +1,25 @@
-> *The following text is extracted and transformed from the rss.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921095115id_/https%3A//rss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rss.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202224421id_/https%3A//rss.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RSS.com
 
-This Privacy Policy was last modified on September 12, 2013.
+This Privacy Policy was last modified on March 28, 2019.
 
-RSS America, LLC (“us”, “we”, or “our”) operates https://rss.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+RSS America, LLC (“us”, “we”, “Our Company”, or “our”) operates https://rss.com (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://rss.com.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at <https://rss.com/terms-of-service/>
 
 **Information Collection And Use**  
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
 
-**Log Data**  
+ **Log Data**  
 Like many site operators, we collect information that your browser sends whenever you visit our Site (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type, browser version, the pages of our Site that you visit, the time and date of your visit, the time spent on those pages and other statistics.
 
-**Cookies**  
+ **Cookies**  
 Cookies are files with small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and stored on your computer’s hard drive.
 
 Like many sites, we use “cookies” to collect information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Site.
 
-**DoubleClick Cookie**  
+ **DoubleClick Cookie**  
 Google, as a third party vendor, may use cookies to serve ads on our Site. Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Site or other sites on the Internet.
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](http://www.google.com/ads/preferences/) page.
@@ -28,28 +28,53 @@ RSS America, LLC uses Remarketing with Google Analytics to advertise on third pa
 
 You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](http://www.google.com/settings/ads) page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-**Communications**  
+ **Communications**  
 We may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe instructions provided in any email we send.
 
-**Compliance With Laws**  
+ **Compliance With Laws**  
 RSS America, LLC will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Site.
 
-**Business Transaction**  
+ **Business Transaction**  
 If RSS America, LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
-**Security**  
+ **Security**  
 The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-**Links To Other Sites**  
+ **Links To Other Sites**  
 Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 RSS America, LLC has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
-**Children’s Privacy**  
+ **Children’s Privacy**  
 Our Site does not address anyone under the age of 13 (“Children”). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and are aware that your Children has provided us with Personal Information, please contact us. If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
 
-**Changes To This Privacy Policy**  
+ **Changes To This Privacy Policy**  
 RSS America, LLC may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
-**Contact Us**  
-If you have any questions about this Privacy Policy, please contact us.
+ **How Do We Store Your Data?**  
+Our Company securely stores your data at Digital Ocean in New York.  
+All details available in [https://www.digitalocean.com/legal/data-security/](https://www.digitalocean.com/legal/data-security/)
+
+Our Company will keep your Podcast Data for 30 days after your podcast subscription has been cancelled.
+
+Once this time period has expired, we will automatically delete your podcast data using our cron software.
+
+ **What Are Your Data Protection Rights?**  
+Our Company would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+
+The right to access – You have the right to request Our Company for copies of your personal data.
+
+The right to rectification – You have the right to request that Our Company correct any information you believe is inaccurate. You also have the right to request Our Company to complete the information you believe is incomplete.
+
+The right to erasure – You have the right to request that Our Company erase your personal data.
+
+The right to restrict processing – You have the right to request that Our Company restrict the processing of your personal data.
+
+The right to object to processing – You have the right to object to Our Company’s processing of your personal data.
+
+The right to data portability – You have the right to request that Our Company transfer the data that we have collected to another organization, or directly to you.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: support@podcastsupport.freshdesk.com
+
+ **Contact Us**  
+If you have any questions about this Privacy Policy, please contact us at our email: support@podcastsupport.freshdesk.com
