@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenconnect.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605005332id_/https%3A//www.connectwise.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenconnect.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202104811id_/https%3A//www.connectwise.com/Privacy-Policy) for the most accurate reproduction.*
 
 # ConnectWise Privacy Policy
 
@@ -6,7 +6,7 @@ Introduction
 
 LAST UPDATED: April 5, 2018
 
-This is the Privacy Notice of ConnectWise, Inc. as well as our global subsidiaries, (“ConnectWise”), whose corporate headquarters is located at 4110 George Road, Suite 200, Tampa, Florida 33634. 
+This is the Privacy Notice of ConnectWise, LLC. as well as our global subsidiaries, (“ConnectWise”), whose corporate headquarters is located at 4110 George Road, Suite 200, Tampa, Florida 33634. 
 
 1\. IMPORTANT NOTICE
 
