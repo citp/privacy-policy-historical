@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sermonaudio.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620061350id_/https%3A//www.sermonaudio.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonaudio.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202044934id_/https%3A//www.sermonaudio.com/privacypolicy) for the most accurate reproduction.*
 
-# SermonAudio.com - Privacy Policy
+# SermonAudio - Privacy Policy
 
 Your data stays private with us. That's our promise!
 
