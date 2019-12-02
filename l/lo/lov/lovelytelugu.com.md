@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelytelugu.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229062308id_/http%3A//www.lovelytelugu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelytelugu.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202104424id_/http%3A//www.lovelytelugu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lovely Telugu
 
