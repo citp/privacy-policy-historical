@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptowork.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505183723id_/https%3A//zety.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptowork.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202134316id_/https%3A//zety.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -216,7 +216,7 @@ b) California Business & Professions Code Section 22575 (b) provides that Califo
 
 10\. Notice to Residents of the European Union
 
-Provider complies with the General Data Protection Regulation (“GDPR"). As such, Provider affords to all European data subjects their respective data privacy rights to the extent they are applicable including: (i) right to rectify inaccurate data; (ii) right to erasure (deletion of your Personal Information); (iii) right to restrict processing of your Personal Information; (iv) right of data portability; and (v) right to object. You can exercise any of these rights by contacting us at **[contact@zety.com](mailto:contact@zety.com)** or through the **[Contact section](https://zety.com/contact)**. In order to safeguard your Personal Information from unauthorized access, we can ask that you provide sufficient information to identify yourself prior to providing access to your Personal Information.
+Provider complies with the General Data Protection Regulation (“GDPR"). As such, Provider affords to all European data subjects their respective data privacy rights to the extent they are applicable including: (i) right to rectify inaccurate data; (ii) right to erasure (deletion of your Personal Information); (iii) right to restrict processing of your Personal Information; (iv) right of data portability; and (v) right to object. You can exercise any of these rights by contacting us at **[gdpr@zety.com](mailto:gdpr@zety.com)** or through the **[Contact section](https://zety.com/contact)**. In order to safeguard your Personal Information from unauthorized access, we can ask that you provide sufficient information to identify yourself prior to providing access to your Personal Information.
 
 In certain situations, and subject to applicable law, Provider will not be able or obliged to comply with part or all of your individual requests. Please note that we have the right to refuse and/or charge a monetary fee for requests which are manifestly unfounded or excessive, for example due to their repetitive character. If you have unresolved concerns, you have the right to complain to an EU Supervisory Authority.
 
