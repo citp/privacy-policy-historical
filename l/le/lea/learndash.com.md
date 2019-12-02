@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learndash.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407094130id_/https%3A//www.learndash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learndash.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202025412id_/https%3A//www.learndash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LearnDash
 
@@ -40,9 +40,19 @@ A User’s email address is added to a marketing email list when requesting a fr
 
 A User’s name and email address are recorded on this site when leaving a comment on a blog post. We do not use the information submitted for marketing purposes unless consent is explicitly given.
 
-### Analytics
+### Analytics & Tracking
 
-We use Clicky for website visitor analytics. We do not log any Personal Data of site visitors; IP addresses are anonymized, “Do Not Track” headers and global [opt out cookies](https://clicky.com/optout) are honored, and [custom data tracking](https://clicky.com/help/custom) is disabled.
+We use Clicky for website visitor analytics. We do not log any Personal Data of site visitors; IP addresses are anonymized, “Do Not Track” headers and global [opt out cookies](https://clicky.com/optout) are honored, and [custom data tracking](https://clicky.com/help/custom) is disabled.
+
+We use ActiveCampaign site tracking to personalize experiences for any User who has purchased a product from us or who has willingly subscribed to an email list. The following information is stored in ActiveCampaign when a purchase of one of our products is made or a User subscribes to an email list:
+
+  * Name
+  * Email Address
+  * Location
+  * Visitor history
+  * Interest tags
+
+
 
 ### Cookies
 
@@ -72,8 +82,8 @@ We share information with third parties who help us provide our service, includi
   * **Zoho Subscriptions:** We facilitate the checkout process using Zoho Subscriptions. When checking out, some user data will be passed to Zoho Subscriptions, including name, email address, billing information, and purchase total. Please see the Zoho Subscriptions Privacy Policy for more information.
   * **Stripe:** We accept payments through Stripe. When processing payments, some user data will be passed to Stripe, including information required to process or support the payment, such as the purchase total and billing information. Please see the Stripe Privacy Policy for more details.
   * **PayPal:** We accept payments through PayPal. When processing payments, some user data will be passed to PayPal, including information required to process or support the payment, such as the purchase total and billing information. Please see the PayPal Privacy Policy for more details.
-  * **ActiveCampaign:** We email customers using ActiveCampaign. When processing payments, a User’s name and email address will be added to ActiveCampaign to be used when we send email announcements about product updates and relevant company news/promotions. Users will also be added to our marketing email lists if they explicitly give consent while filling out a contact form, or when entering an email address in exchange for a free report. Please see ActiveCampaign Privacy Policy for more details.
-  * **MailMunch:** We capture email addresses for free report downloads using MailMunch. No emails are sent from this platform but are instead passed to ActiveCampaign (see above). Please see MailMunch Privacy Policy for more details.
+  * **ActiveCampaign:** We email customers and prospective customers using ActiveCampaign. When processing payments, a User’s name and email address will be added to ActiveCampaign to be used when we send email announcements about product updates and relevant company news/promotions. Users will also be added to our marketing email lists if they explicitly give consent while filling out a contact form, or when entering an email address in exchange for a free report. Please see ActiveCampaign Privacy Policy for more details.
+  * **Ahoy:** We capture email addresses for free report downloads using the Ahoy WordPress plugin. No emails are sent from this platform but are instead passed to ActiveCampaign (see above). Please see Ahoy Privacy Policy for more details.
   * **MailChimp:**  The newsletter opt-in option on the contact form transmits the User’s email address to MailChimp. No emails are sent from this platform but are instead passed to ActiveCampaign (see above). Please see MailChimp Privacy Policy for more details.
   * **Zapier:**  Passing of email addresses from MailChimp to ActiveCampaign is performed by Zapier. Please see Zapier Privacy Policy for more details.
   * **HelpScout:** Contact form inquiries are sent to our ticketing system, HelpScout, and includes a User’s name and email address. We do not use the information submitted for marketing purposes unless consent is explicitly given.
@@ -161,4 +171,4 @@ Ann Arbor, MI 48103
 734-274-2373  
 contact[at]learndash.com
 
-This document was last updated on May 29, 2018
+This document was last updated on September 27, 2019
