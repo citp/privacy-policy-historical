@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415233513id_/https%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202153259id_/https%3A//www.skyscape.com/index/privacy.aspx) for the most accurate reproduction.*
 
 # Skyscape Privacy Policy
 
@@ -73,7 +73,7 @@ Questions about our privacy policy or request regarding our privacy policy can b
 
 **Skyscape Medpresso, Inc.**  
 Attn: Customer Service  
-200 Donald J. Lynch Blvd, Suite 383  
+11 Apex Drive, Suite 300A  
 Marlborough, MA 01752  
 USA.  
 Phone: 508-299-3000 
