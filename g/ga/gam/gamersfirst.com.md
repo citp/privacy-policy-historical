@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509070956id_/https%3A//www.gamersfirst.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamersfirst.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202151542id_/https%3A//www.gamersfirst.com/privacy) for the most accurate reproduction.*
 
 # GamersFirst: Privacy and Data Policy
 
