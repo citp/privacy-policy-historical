@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scylladb.com privacy policy that was archived on 2019-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190510165834id_/https%3A//www.scylladb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scylladb.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202094746id_/https%3A//www.scylladb.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ScyllaDB
 
@@ -8,7 +8,7 @@ Recently Updated: August 2018
 
 ScyllaDB Ltd. and its subsidiaries (collectively, “ **ScyllaDB** ” or “ **Us** ”) are committed to your right to privacy.
 
-This Privacy Notice (“ **Privacy Notice** ”) governs the processing and transfer of Personal Data collected in connection with our websites, available at: [www.ScyllaDB.com](https://www.scylladb.com/), [www.osv.io](http://www.osv.io/), [www.cloudius-systems.com](http://www.cloudius-systems.com/) and [www.seastar.io](http://www.seastar.io/) (collectively, “ **Websites** ”) to each person (“ **User** ” or “ **You** ”) accessing or using the Websites and or services provided on the Website or otherwise provided by us (“ **Services** ”).
+This Privacy Notice (“ **Privacy Notice** ”) governs the processing and transfer of Personal Data collected in connection with our websites, available at: [www.ScyllaDB.com](https://www.scylladb.com/), [cloud.scylladb.com](https://cloud.scylladb.com/), [university.scylladb.com](https://university.scylladb.com/) ,[www.osv.io](http://www.osv.io/), [www.cloudius-systems.com](http://www.cloudius-systems.com/) and [www.seastar.io](http://www.seastar.io/) (collectively, “ **Websites** ”) to each person (“ **User** ” or “ **You** ”) accessing or using the Websites and or services provided on the Website or otherwise provided by us (“ **Services** ”).
 
 If you choose to interact with the Websites, register or use the Services, or otherwise provide data to us, you explicitly agree to the use of such data in accordance with this Privacy Notice. You may not use the Websites or Services or submit any data through them if you do not agree to any of the terms hereunder. This Privacy Notice shall not be construed in any manner to derogate from our Terms of Use or any other agreement or understanding between ScyllaDB and you.
 
