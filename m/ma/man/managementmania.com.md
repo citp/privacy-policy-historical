@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managementmania.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426044956id_/https%3A//managementmania.com/en/mm-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementmania.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202174113id_/https%3A//managementmania.com/en/mm-privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - ManagementMania.com
 
