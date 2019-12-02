@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the palemoon.org privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502211246id_/https%3A//www.palemoon.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palemoon.org privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202113304id_/https%3A//www.palemoon.org/privacy.shtml) for the most accurate reproduction.*
 
 # Pale Moon - Privacy Policy
 
-  
-  
-  
-  
 As part of normal operation, the Pale Moon browser connects to several services run by us and (in limited capacity) third parties. These connections include:  
 
 
@@ -19,7 +15,7 @@ As part of normal operation, the Pale Moon browser connects to several services 
 This service will only receive your IP address and generic browser data through a normal http request. No local network or location data will be sent to this provider. You have the option to disable this feature and you are in control which websites are allowed to request this information or trigger a geolocation lookup.
   * Secure certificate verification: when you visit a secure website (i.e. "HTTPS"), Pale Moon will validate the website's certificate. This may involve communicating with a third-party status provider (e.g. OCSP) specified by the certificate. Pale Moon sends information identifying the site's certificate to this third-party. 
   * Search and search suggestions (provided by your chosen search provider): When you perform a web search from the address bar or search bar, your query and standard web browser information will be sent to the search provider to service your request.   
-Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your search engines (such as DuckDuckGo, Yahoo, etc.) and not by Pale Moon. If you enable this feature, and your chosen search engine supports suggestions, Pale Moon may send the terms you type in the address bar or search bar to your chosen search engine provider to retrieve suggestions.  
+Search suggestions is a feature to help you to find out common phrases that other people have searched for. These search suggestions are offered by your search engines (such as DuckDuckGo, Yahoo, etc.) and not by Pale Moon. If you enable this feature, and your chosen search engine supports suggestions, Pale Moon may send the terms you type in the address bar or search bar to your chosen search engine provider as you type them, to retrieve suggestions prior to you confirming your search.  
 How this data is handled is governed by the applicable Privacy Policy of your chosen search engine provider.
   * Optional: Pale Moon Sync (Pale Moon operated)  
 If you choose to use the Pale Moon Sync service, your usage will be governed by [that particular service's policies](http://www.palemoon.org/sync/).
@@ -33,7 +29,7 @@ You can turn off the above update and verification features, but that may leave 
   
 Pale Moon related sites and services are operated under the following privacy policy:
 
-Last updated: 2017-03-09.  
+Last updated: 2019-11-25.  
 
 
   
@@ -42,14 +38,15 @@ Your personal privacy is important to us. This is why we adhere to common sense 
 ### How We Collect Data
 
 We collect data about your visit and use of our sites and services in industry-standard ways. Normal operational data is collected in site access logs, and your session data for parts of our sites where you log in (e.g. the forum) will be collected and stored in the relevant databases.  
+We do not collect any data outside of our controlled services, and we do not track you in any way.  
 
 
 ### What Data We Collect
 
-As part of your visit, we will collect your IP address, user agent, and any referrers sent by your browser. We also log the nature of your visit and which parts of the sites and/or services you have accessed.  
-In addition, for account-relative actions (that require you to set up an account and log in, e.g. the forum), we collect personal information like your name, a password and e-mail address. Only those items of personal information necessary to operate the accounts or provide services will be required. Any other volunteered information is at your own discretion.  
+As part of your visit, we will collect your IP address, user agent, and any referrers sent by your browser in access logs. We also log the nature of your visit and which parts of the sites and/or services you have accessed.  
+In addition, for account-relative actions (that require you to set up an account and log in, e.g. the forum), we collect personal information like your chosen (user)name, a password and e-mail address. Only those items of personal information necessary to operate the accounts or provide services will be required. Any other volunteered information is at your own discretion.  
 We do not collect telemetry on your browser use or extension use.  
-Occasionally, we may collect data on specific update requests over a short period of time to measure the approximate size of our user base.  
+Occasionally, we may collect data on specific software update requests over a short period of time to measure the approximate size of our user base. This data will be stored temporarily only for the purpose of this measurement.  
 
 
 ### Data Protection
@@ -69,14 +66,17 @@ We protect your data by:
 
 ### Data Retention
 
-In principle we store data only for as long as is reasonably necessary/commonly practiced to operate our sites and services.  
-Site access logs are cycled regularly, at which point particuarly old entries will be discarded. This retention never exceeds 1 year.  
-Forum accounts are pruned occasionally to prevent unnecessary storage of personal information in our database (based on last-logged-in data).  
+In principle we store data only for as long as is reasonably necessary/commonly practiced to operate our sites and services.
 
+Site access logs are cycled regularly, at which point old entries will be discarded. This site access log retention is in principle 10 days or less. This period of time balances privacy concerns with the need to ensure that log processing systems have time to operate, that operators have time to monitor and fix technical, security and performance problems, that any abuse reports can be supplied with relevant data to authorities, and that data aggregation systems (i.e.: administration graphs of server load and usage, needed to adjust resources based on our usership) have time to operate. These logs will not be used for any other purposes, nor will they be archived or stored in any way past their retention period.
+
+Forum accounts are pruned occasionally to prevent unnecessary storage of personal information in our database (based on last-logged-in data). Forum accounts will be purged in manually-initiated pre-announced purges by forum staff.
+
+Pale Moon Sync accounts are automatically purged if unused, in regular (weekly) maintenance windows, using the retention period as outlined in the Pale Moon Sync terms.
 
 ### Data disclosure to third parties
 
-Data about your visits is not transmitted to any third parties. Any backup and inspection of such data will be restricted to transfer over encrypted connections to prevent eavesdropping.
+Data about your visits is not transmitted to any third parties. Any backup and inspection of such data will be restricted to transfer over encrypted connections to prevent eavesdropping, and copies will be deleted as soon as their purpose has been fulfilled.
 
 In principle, we never disclose visitor data to third parties, including our partners. An exception to this non-disclosure principle is if your visit or behavior is either suspect of abuse or criminal activity (i.e.: if you perform misconduct, we may report you to the relevant authorities), or if such disclosure is mandated by a court order that is valid in the country where either the domain owner or the hosting server resides (i.e.: we will not obstruct justice, but will not volunteer this information unless legally required to do so).  
 We may also disclose this information in order to establish, exercise or defend our legal rights (including providing information to third parties to prevent fraud).
@@ -86,7 +86,7 @@ We may also disclose this information in order to establish, exercise or defend 
 
 By using our sites and services, you indicate, as a user, that you trust our integrity and handling of your data. If you cannot, for any reason, place this kind of trust in us, then you should refrain from using our sites and services.
 
-Additionally, although we will do our best to provide full transparency and privacy of your personal information, we cannot 100% guarantee your data's safety due to the distributed nature of our sites and global distribution of assets, and reliance of our sites and services on third party providers. We cannot be held liable for any losses , monetary or otherwise, resulting from your visits, the use of our sites and services, or the personal information collected on/by them.
+Additionally, although we will do our best to provide full transparency of our operations and privacy of your personal information, we cannot 100% guarantee your data's safety due to the distributed nature of our sites and global distribution of assets, and reliance of our sites and services on third party providers. We cannot be held liable for any losses, monetary or otherwise, resulting from your visits, the use of (or inability to use) our sites and services, or the personal information collected on/by them as part of their operation.
 
 ### Amendments
 
@@ -106,6 +106,4 @@ You may instruct us to provide you with any personal information we hold about y
 
 
 You may also request for us to remove any personal information linked to your visits, insofar this personal information is easily accessible (e.g. a forum account). You must provide us with sufficient information to verify the validity of your request. We will follow up on your request for such within a reasonable amount of time.  
-  
-  
 
