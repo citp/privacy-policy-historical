@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtaa.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504065059id_/https%3A//www.torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtaa.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202092630id_/https%3A//www.torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pearson Airport
 
