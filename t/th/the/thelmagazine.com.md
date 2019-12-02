@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelmagazine.com privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412044727id_/http%3A//www.thelmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelmagazine.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202101443id_/http%3A//thelmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The L Magazine
 
