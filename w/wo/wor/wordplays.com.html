@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wordplays.com privacy policy that was archived on 2019-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190502070644id_/https%3A//www.wordplays.com/administration/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wordplays.com privacy policy that was archived on 2019-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191202160135id_/https%3A//www.wordplays.com/administration/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head>
 <title>Privacy Policy | Wordplays.com</title>
@@ -9,10 +9,10 @@
 <meta property="og:url" content="//help/privacy">
 <meta property="og:image" content="//cdn.wordplays.com/images/wordplays-icon-75.png">
 <meta property="fb:admins" content="wordplayscom">
-<meta property="og:description" content="We are required by our advertisers to provide a privacy statement. Read the privacy statement to learn about online behavioral advertising.">
+<meta property="og:description" content="Read the privacy statement to learn about online behavioral advertising. Those requiring privacy consent can change privacy settings here">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="application-name" content="Privacy Policy">
-<meta name="description" content="We are required by our advertisers to provide a privacy statement. Read the privacy statement to learn about online behavioral advertising.">
+<meta name="description" content="Read the privacy statement to learn about online behavioral advertising. Those requiring privacy consent can change privacy settings here">
 <meta name="keywords" content="Crossword Solver,Scrabble Word Finder,Boggle,Text Twist,Sudoku">
 <meta id="langcode" http-equiv="content-language" content="en">
 
@@ -33,10 +33,76 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
 <meta name="viewport" id="viewport" content="user-scalable=yes,width=device-width">
 
-<link rel="stylesheet" type="text/css" href="//cdn.wordplays.com/css/wordplays.min.css">
+<link rel="stylesheet" type="text/css" href="//cdn.wordplays.com/css/wordplays-b.min.css">
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.wordplays.com/js/wordplays-c.min.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.wordplays.com/js/wordplays-b.min.js"></script>
+
+
+
+<!-- Sovrn CMP Stub -->
+<script>
+(function (window, document) {
+    if (!window.__cmp) {
+        window.__cmp = (function () {
+            var listen = window.attachEvent || window.addEventListener;
+            listen('message', function (event) {
+                window.__cmp.receiveMessage(event);
+            }, false);
+
+            function addLocatorFrame() {
+                if (!window.frames['__cmpLocator']) {
+                    if (document.body) {
+                        var frame = document.createElement('iframe');
+                        frame.style.display = 'none';
+                        frame.name = '__cmpLocator';
+                        document.body.appendChild(frame);
+                    } else {
+                        setTimeout(addLocatorFrame, 5);
+                    }
+                }
+            }
+
+            addLocatorFrame();
+
+            var commandQueue = [];
+            var cmp = function (command, parameter, callback) {
+                if (command === 'ping') {
+                    if (callback) {
+                        callback({
+                            gdprAppliesGlobally: !!(window.__cmp && window.__cmp.config && window.__cmp.config.storeConsentGlobally),
+                            cmpLoaded: false
+                        });
+                    }
+                } else {
+                    commandQueue.push({
+                        command: command,
+                        parameter: parameter,
+                        callback: callback
+                    });
+                }
+            };
+            cmp.commandQueue = commandQueue;
+            cmp.receiveMessage = function (event) {
+                var data = event && event.data && event.data.__cmpCall;
+                if (data) {
+                    commandQueue.push({
+                        callId: data.callId,
+                        command: data.command,
+                        parameter: data.parameter,
+                        event: event
+                    });
+                }
+            };
+            cmp.config = {};
+            return cmp;
+        }());
+    }
+})(window, document);
+</script>
+
+
+
 
 
 <script type="text/javascript">
@@ -50,6 +116,7 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+
 <!-- <script>(function(a,b,c,d,e){e=a.createElement(b);a=a.getElementsByTagName(b)[0];e.async=1;e.src=c;a.parentNode.insertBefore(e,a)})(document,'script','//gammamaximum.com/5b71546edff5f51873b299b383aae1ea61dbdae762dec1c6cf9f2be7b829777b9b8c0946c79f7f57b9377be689295622d80059b458ceacb0163ccc95a1c9');</script> -->
 
 </head>
@@ -58,11 +125,13 @@
 <div id="container">
 
  <header class="narrow-header">
-    <a title="Crossword Solver, Scrabble Cheat, Scrabble Word Finder, Scrabble Help" class="logo" id="wplogo-small" href="/">Crossword Solver, Scrabble Word Finder, Scrabble Cheat</a>
     <nav id="mobile-nav">
-	<a id="mobile-menu" title="Menu" rel="nofollow" href="/site-map/"></a>
-      <a id="mobile-sign-in" rel="nofollow" title="Sign In" href="/wordgames/signin.pl"></a>
-      <div id="mobile-search" title="Search Wordplays" onclick="document.getElementById('mobile-site-search').style.display='block';"></div>
+      <table><tbody><tr>
+      <td><a href="#" id="mobile-menu" title="Menu" rel="nofollow" onclick="show_mobile_menu(0)"></a></td>
+      <td><a title="Crossword Solver, Scrabble Cheat, Scrabble Word Finder, Scrabble Help" id="wplogo-small" href="/">Crossword Solver, Scrabble Word Finder, Scrabble Cheat</a></td>
+      <td><a id="mobile-sign-in" rel="nofollow" title="Sign In" href="/wordgames/signin.pl"></a></td>
+      </tr></tbody></table>
+      <!-- <div id=mobile-search title="Search Wordplays" onClick="document.getElementById('mobile-site-search').style.display='block';"></div> -->
     </nav>
     <div id="mobile-site-search" style="display:none">
       <form method="get" action="/index.php" role="search">
@@ -70,7 +139,79 @@
       <input tabindex="-3" type="text" name="s" class="site-search" placeholder="Search wordplays">
       </form>
     </div>
+
+    <div id="mm" style="display:none">
+      <a class="sign-in" rel="nofollow" title="Sign In" href="/wordgames/signin.pl">Sign in or create an account</a>
+      <div class="menu-spacer"></div>
+      <ul class="sidebar-nav" id="mobile-sidebar-menu">
+	<li>
+	  <a title="Crosswords" class="menu-arrow" href="#">Crosswords</a>
+	  <ul>
+	    <a title="Crossword Solver" href="/crossword-solver">Crossword Solver</a>
+	    <a title="Crossword Clues" href="/crossword-clues">Crossword Clues</a>
+	    <a title="Crossword Puzzle Answers" href="/crossword-answers">Crossword Puzzle Answers</a>
+	    <a title="Crossword Helper" href="/crossword-helper">Crossword Helper</a>
+	    <a title="Crossword Anagrams" href="/crossword-anagrams">Crossword Anagrams</a>
+	    <a title="Crossword Puzzle Maker" href="/crossword-puzzle-maker">Crossword Puzzle Maker</a>
+	    <a title="Crossword Challenge" href="/crossword-challenge">Crossword Challenge</a>
+	  </ul>
+	</li>
+	<li>
+	  <a title="Scrabble" class="menu-arrow" href="#">Scrabble<sup>©</sup></a>
+	  <ul>
+	    <a title="Scrabble Word Finder" href="/scrabble-word-finder">Scrabble Word Finder</a>
+	    <a title="Scrabble Cheat" href="/scrabble-cheat">Scrabble Cheat</a>
+	    <a title="Scrabble Helper" href="/scrabble-help">Scrabble Helper</a>
+	    <a title="Scrabble Dictionary" href="/scrabble-dictionary">Scrabble Dictionary</a>
+	    <a title="Scrabble Word Checker" href="/scrabble_word_checker">Scrabble Word Checker</a>
+	  </ul>
+	</li>
+	<li>
+	  <a title="Words with Friends" class="menu-arrow" href="#">Words with Friends<sup>©</sup></a>
+	  <ul>
+	    <a title="Words with Friends Word Finder" href="/scrabble-word-finder">Words with Friends Word Finder</a>
+	    <a title="Words with Friends Cheat" href="/scrabble-cheat">Words with Friends Cheat</a>
+	    <a title="Words with Friends Helper" href="/scrabble-help">Words with Friends Helper</a>
+	    <a title="Words with Friends Dictionary" href="/scrabble-dictionary">Words with Friends Dictionary</a>
+	    <a title="Words with Friends Word Checker" href="/scrabble_word_checker">Words with Friends Word Checker</a>
+	  </ul>
+	</li>
+	<li>
+	  <a title="Word Games" class="menu-arrow" href="#">Word Games &amp; Tools</a>
+          <ul>
+          <a title="Word Sudoku" href="/wordgames/sudoku/">Word Sudoku</a>
+          <a title="Text Twist" href="/wordgames/text-twist">Text Twist</a>
+          <a title="Words in a Word Game" href="/help/words-in-a-word-game/">Words in a Word Game</a>
+          <a title="Polygon Word Game" href="/help/polygon/">Polygon Word Game</a>
+          <a title="Daily Cryptogram" href="/daily-cryptogram">Daily Cryptogram</a>
+          <a title="Pig Latin Translator" href="/pig-latin">Pig Latin Translator</a>
+          <a title="Crossword Challenge" href="/crossword-puzzles/crossword-challenge">Crossword Challenge</a>
+          <a title="Word Morph Game" href="/help/word-morph-game/">Word Morph Game</a>
+          </ul>
+        </li>
+        <li>
+	  <a title="Boggle" class="menu-arrow" href="#">Boggle</a>
+	  <ul>
+            <a title="4x4 Boggle" href="/boggle">4x4 Boggle</a>
+            <a title="5x5 Boggle" href="/boggle?pzltype=V">5x5 Boggle</a>
+            <a title="Wild Card Boggle" href="/boggle?pzltype=W">Wild Card Boggle</a>
+            <a title="Quick Boggle" href="/boggle?pzltype=Q">Quick Boggle</a>
+            <a title="Boggle Solver" href="/boggle-solver">Boggle Solver</a>
+            <a title="Boggle" href="/help/boggle/">Boggle Help</a>
+	  </ul>
+	</li>
+	<li>
+	  <a class="menu-link" title="Dictionary" href="/definition">Dictionary</a>
+	  <a class="menu-link" title="Feedback" href="/wordgames/feedback.pl">Send Feedback</a>
+	  <a class="menu-link" title="Site Map" href="/site-map">Site Map</a>
+	</li>
+      </ul>
+      <div class="menu-spacer"></div>
+    </div>
+
  </header>
+
+<!-- <a class="menu-link" title="Turn off advertising" href="/admin/subscribe.pl">Turn Off Ads</a> -->
 
   <header class="wide-header">
     <div class="header-wrap">
@@ -92,7 +233,7 @@
 	</form>
 
 	
-	  <a id="old_post_icon" title="Read Posts" onclick="return post_read('60180915e7199e2737d1d497f2f16caa', '')"><div></div></a>
+	  <a id="old_post_icon" title="Read Posts" onclick="return post_read('046f9940dccb208cddd8c38f1ddf1cf7', '')"><div></div></a>
         
 
         <a id="signin" rel="nofollow" title="Sign In" href="/wordgames/signin.pl">sign in</a>
@@ -168,7 +309,9 @@
 
 
 
-<div id="app"><div id="app-pad"><table class="help">
+<div id="app">
+
+<div id="app-pad"><table class="help">
 <tbody><tr><td>
 <h1>Privacy</h1>
 
@@ -197,9 +340,9 @@ We allow third-party companies to serve ads and/or collect certain anonymous inf
 </p><h4>Information Contributed by Third Parties</h4>
 <p>
 Any information or material, including any puzzles or clues,
-provided through feedback forms, email or other submissions to <a href="http://www.wordplays.com">www.wordplays.com</a> are
+provided through feedback forms, email or other submissions to <a href="https://www.wordplays.com">www.wordplays.com</a> are
 non-confidential and must not violate the intellectual property rights
-of third parties, and shall become the sole property of <a href="http://www.wordplays.com">www.wordplays.com</a>. <a href="http://www.wordplays.com">www.wordplays.com</a> shall own exclusive rights, including all intellectual property rights, and
+of third parties, and shall become the sole property of <a href="https://www.wordplays.com">www.wordplays.com</a>. <a href="https://www.wordplays.com">www.wordplays.com</a> shall own exclusive rights, including all intellectual property rights, and
 shall be entitled to the unrestricted use of these materials for any
 purpose, commercial or otherwise, without acknowledgement or compensation to others.
 
@@ -207,6 +350,9 @@ purpose, commercial or otherwise, without acknowledgement or compensation to oth
 
 </td></tr>
 </tbody></table>
+
+<a href="javascript:window.__cmp('showConsentTool')">Privacy Settings</a>
+
 </div></div> <!-- #app -->
 
 
@@ -236,11 +382,11 @@ purpose, commercial or otherwise, without acknowledgement or compensation to oth
 
  <ul class="footer-links ">
  <li>Word Games</li>
-   <li><a title="word polygon puzzle" href="/wordgames/polygon-word-game">word polygon puzzle</a></li>
-  <li><a title="free sudoku" href="/wordgames/sudoku">free sudoku</a></li>
-  <li><a title="free worduko" href="/wordgames/sudoku">free worduko</a></li>
-  <li><a title="play online boggle" href="/help/boggle/">play online boggle</a></li>
-  <li><a title="sudoku games" href="/help/word-sudoku-online/">sudoku games</a></li>
+   <li><a title="tips for sudoku" href="/help/sudoku-tips/">tips for sudoku</a></li>
+  <li><a title="text twist two" href="/text-twist">text twist two</a></li>
+  <li><a title="text twist two game" href="/text-twist">text twist two game</a></li>
+  <li><a title="add letters to words" href="/word-morph-game">add letters to words</a></li>
+  <li><a title="boggle helper" href="/help/boggle/">boggle helper</a></li>
  </ul>
 
  <ul class="footer-links ">
@@ -254,11 +400,11 @@ purpose, commercial or otherwise, without acknowledgement or compensation to oth
 
  <ul class="footer-links ">
  <li>Crossword Puzzles</li>
-   <li><a title="free crossword puzzle solver" href="/crossword-solver">free crossword puzzle solver</a></li>
-  <li><a title="crossword puzzle answers" href="/crossword-helper">crossword puzzle answers</a></li>
-  <li><a title="crossword puzzle help" href="/crossword-helper">crossword puzzle help</a></li>
-  <li><a title="crosswords help" href="/crossword-helper">crosswords help</a></li>
-  <li><a title="across and down" href="/crossword-solver">across and down</a></li>
+   <li><a title="about crossword clue" href="/crossword-clues">about crossword clue</a></li>
+  <li><a title="cross word helper" href="/crossword-helper">cross word helper</a></li>
+  <li><a title="crosswords solver" href="/crossword-solver">crosswords solver</a></li>
+  <li><a title="answer crossword clue" href="/crossword-clues">answer crossword clue</a></li>
+  <li><a title="crossword helper help" href="/help/crossword-solver-help/">crossword helper help</a></li>
  </ul>
 
 </div>
@@ -312,6 +458,8 @@ purpose, commercial or otherwise, without acknowledgement or compensation to oth
    <div id="definition-title"></div>
  </div> 
  <div id="definition"></div>
+
+
 </div>
 
 
@@ -319,4 +467,6 @@ purpose, commercial or otherwise, without acknowledgement or compensation to oth
 
 
 
-</body></html>
+
+
+<iframe name="__cmpLocator" style="display: none;"></iframe></body></html>
