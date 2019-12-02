@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theapollobox.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327092215id_/https%3A//www.theapollobox.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theapollobox.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202185221id_/https%3A//theapollobox.com/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | the Apollo Box - ApolloBox
 
