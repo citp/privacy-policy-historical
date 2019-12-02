@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514112735id_/https%3A//www.hastingsdirect.com/legal/privacy-notice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hastingsdirect.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202140248id_/https%3A//www.hastingsdirect.com/legal/privacy-notice.shtml) for the most accurate reproduction.*
 
 # Privacy Notice | Hastings Direct
 
@@ -267,7 +267,7 @@ Where you tell us your driving licence number (DLN), you're giving permission fo
 
 Your DLN won't be used for any other reason or be made available to anyone else. Only the motor insurance industry can use this information. If you apply for a Quote with us and decide not to take out the insurance, the data returned from DVLA database will be made anonymous or deleted within 30 days after it was received.
 
-Under our User Agreement with the Motor Insurance Bureau, individual customer representatives don't have access to the data returned by a DLN search and won't be able to discuss issues relating to your DLN with you. In these instances, we suggest checking the information associated with your DLN is correct at [www.gov.uk/view-driving-licence](https://www.gov.uk/view-driving-licence/)
+Under our User Agreement with the Motor Insurance Bureau, individual customer representatives don't have access to the data returned by a DLN search and won't be able to discuss issues relating to your DLN with you. In these instances, we suggest checking the information associated with your DLN is correct at [www.gov.uk/view-driving-licence](https://www.gov.uk/view-driving-licence)
 
 For more details about MyLicence visit [www.mylicence.org.uk](http://www.mylicence.org.uk/)
 
