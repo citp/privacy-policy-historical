@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dyson.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625040856id_/http%3A//privacy.dyson.com/en/homepage.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyson.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202131914id_/http%3A//privacy.dyson.com/en/homepage.aspx) for the most accurate reproduction.*
 
 # Homepage
 
