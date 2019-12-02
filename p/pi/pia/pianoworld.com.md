@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2019-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190320061626id_/https%3A//pianoworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianoworld.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202081319id_/https%3A//pianoworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Piano World
+
+## [Privacy](https://pianoworld.com/privacy/)
 
 PianoWorld.com, PianoSupplies.com, and ProRecord.info adhere to the same privacy policy.  
 Any reference to Piano World below applies to all three Web sites.
