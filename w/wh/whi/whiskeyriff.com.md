@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiskeyriff.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504143122id_/https%3A//www.whiskeyriff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiskeyriff.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202114217id_/https%3A//www.whiskeyriff.com/privacy) for the most accurate reproduction.*
 
 # Terms And Conditions | Whiskey Riff
 
@@ -32,7 +32,7 @@ Most browsers allow you to refuse to accept cookies and to delete cookies. The m
 
 (b) <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>(Firefox);
 
-(c) <http://www.opera.com/help/tutorials/security/cookies/> (Opera);
+(c) <https://www.opera.com/help/tutorials/security/cookies/> (Opera);
 
 (d) <https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies> (Internet Explorer);
 
@@ -48,7 +48,7 @@ Advertising Privacy Statement
 
 This Site is affiliated with AdThrive, LLC (“AdThrive”) for the purposes of placing advertising on the Site. AdThrive uses standard and widely-available tools for the placement and serving of ads, including those provided by Google, Inc. and its affiliates. We publish interest-based advertisements on the Site; that is, ads that are tailored to reflect your interests. To help understand your interests, AdThrive, Google and our other advertising partners will track your behaviour on our website and on other websites across the Internet using cookies.
 
-By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [http://optout.networkadvertising.org](http://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
+By using this Site, you consent to the use of such cookies and the sharing of data captured by such cookies with AdThrive, Google, and our other third party partners.You can view, delete or add interest categories associated with your browser by visiting: [https://adssettings.google.com](https://adssettings.google.com/). You can also opt out of the network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: [https://optout.networkadvertising.org](https://optout.networkadvertising.org/).  However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained.
 
 For European Economic Area Residents
 
