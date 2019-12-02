@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the turo.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507091717id_/https%3A//turo.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turo.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202120404id_/https%3A//turo.com/en-us/policies/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ### Privacy policy
 
-Last revised: October 9, 2018
+Last revised: June 13, 2019
 
 We collect three categories of information - information you give us; information automatically collected from your use of the Services; and information from third party sources.
 
@@ -38,7 +38,7 @@ Log data. We automatically collect log information when you use the Platform, ev
 
 Trip information. We collect information related to your transactions on the Platform, including the date and time, amounts charged and other related trip details.
 
-In-vehicle Turo Go devices. If a vehicle has a Turo Go device installed, the information we collect depends on the make, model and year of the vehicle but may include, GPS location, car battery voltage, fuel level, odometer reading, malfunction indicator lamp (e.g., a check engine light), door state (e.g., locked/unlocked), engine state (e.g., stopped/running) and VIN.
+Remote vehicle access. If a vehicle is enrolled in a Turo Go program or has a Turo Go device installed, the information we collect depends on the make, model and year of the vehicle but may include, GPS location, car battery voltage, fuel level, odometer reading, malfunction indicator lamp (e.g., a check engine light), door state (e.g., locked/unlocked), engine state (e.g., stopped/running) and VIN.
 
 Cookies and similar technology. When you access our Platform, we (including companies we work with) may place small data files on your computer or other device. These data files may be cookies, clear gifs, pixel tags, e-tags, “Flash cookies”, or other local storage provided by your browser or associated applications (collectively “Cookies”). For more detailed information on our use of these technologies, please see our policy on [Cookies, Web Beacons, and Similar Technologies.](https://support.turo.com/hc/articles/213251437) At this time, we do not respond to browser ‘Do-Not-Track’ signals.
 
@@ -79,15 +79,15 @@ We use, store and process your information to provide and improve our Services a
   * resolve disputes, collect fees, and troubleshoot problems
   * detect, prevent, and/or remediate fraud, abuse, security incidents or other potentially harmful, prohibited or illegal activities
   * determine your likelihood of getting into an accident or of making an insurance claim, such by checking your auto insurance score
+  * using information from your device to identify unsafe driving behavior, including speeding or harsh braking and acceleration, and to raise awareness regarding such behaviors
   * detect, prevent or remediate violations of and enforce our Terms and Policies
   * manage and protect our information technology infrastructure
   * conducting investigations and risk assessments
   * conduct checks against databases and information sources (such as but not limited to public government databases)
-  * comply with our legal obligations, resolve any disputes that we may have with any of our users, and enforce our agreements
 
 
 
-In this regard, we may do any or all of the foregoing with or without further notifying you where permitted by applicable law;
+In this regard, we may do any or all of the foregoing with or without further notifying you as permitted by applicable law;
 
   
 
@@ -100,7 +100,7 @@ In this regard, we may do any or all of the foregoing with or without further no
 
 
 
-We retain your information as long as it is reasonably necessary and relevant for our operations.
+We retain your information as long as it is reasonably necessary and relevant for our operations, legal obligations or other purposes.
 
 ###### With consent
 
@@ -139,9 +139,9 @@ Turo may compile aggregate information about the use of the Services. In other w
   
 
 
-###### Corporate family
+###### Responding to Legal Requests, Preventing Harm, and Protecting our Rights
 
-We may disclose your information to other members of the Turo corporate family or to third parties, who may or may not be in the EEA, including our insurance and claims providers, as we believe to be necessary or appropriate: under applicable law, including laws outside your country of residence to provide insurance and claims services; to comply with legal process; to respond to requests from public and government authorities including public and government authorities outside your country of residence; to enforce our [Terms of Service](https://web.archive.org/policies/terms) and related Policies; to protect our operations or those of any of our affiliates or users; to protect our rights, privacy, safety, or property, and/or that of our affiliates, you, or others; and to allow us to pursue available remedies or limit the damages that we or our users may sustain.
+We may disclose your information to courts, law enforcement, governmental or tax authorities, or authorized third parties. We will make such disclosure to the extent we are required or permitted to do so by applicable law or if such disclosure is reasonably necessary to comply with our legal obligations or legal process and to respond to claims asserted against us. We may also disclose your information in response to valid legal requests relating to criminal investigations or alleged or suspected illegal activity or any other activity that may expose Turo, you, or any other user to legal liability or to protect the rights, property, or personal safety of Turo, our employees, our users, or members of the public.
 
 ###### Communication preferences
 
@@ -161,7 +161,7 @@ You can review, correct, update, and edit certain information that has been prev
 
 If you wish to close your account and request deletion of your personal information, please send an email to [accountclosure@turo.com](mailto:accountclosure@turo.com).
 
-Please note that we may be unable to delete information to comply with applicable laws, detect or prevent fraud, collect any fees owed, resolve disputes, assist with or process claims, troubleshoot problems, assist with any investigation, comply with audits and investigation, to enforce our [Terms of Service](https://web.archive.org/policies/terms) and Policies and take other actions reasonably necessary, permitted, or required by applicable law. There may also be residual information that will remain within our databases and other records, which will not be removed.
+Please note that we may be unable to delete information to comply with applicable laws, detect or prevent fraud, collect any fees owed, resolve disputes, assist with or process claims, troubleshoot problems, assist with any investigation, comply with audits and investigation, to enforce our [Terms of Service](https://web.archive.org/en-us/policies/terms) and Policies and take other actions reasonably necessary, permitted, or required by applicable law. There may also be residual information that will remain within our databases and other records, which will not be removed.
 
   
 
