@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmedialink.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526161326id_/https%3A//allmedialink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmedialink.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202222119id_/https%3A//allmedialink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,8 +16,8 @@ Though we have deep effort and keen interest to preserve our user privacy, but s
 
 The information may be retained and used by [allmedialink.com](https://www.allmedialink.com/) for a reasonable period, reflecting our need to answer queries or resolve problems, to provide improved and new services further or any data retention requirements of the law. But we can assure that we will never sell, rent or give your personal data to any third party except where the law permits or unless you specifically agree.
 
- **Disclaimer** : Some graphics, plenty of media logos & images of our website are not our property at all, these are not under our copyrights, some of them have been taken from different sources, such as the third party or respective websites, Wikipedia, Google etc. If any graphics, logo or images is offensive or under your Copyrights then please [E-mail](https://allmedialink.com/contact-us/) us to get it removed as soon as possible, we normally do it within 48 hours!
+**Disclaimer** : Some graphics, plenty of media logos & images of our website are not our property at all, these are not under our copyrights, some of them have been taken from different sources, such as the third party or respective websites, Wikipedia, Google etc. If any graphics, logo or images is offensive or under your Copyrights then please [E-mail](https://allmedialink.com/contact-us/) us to get it removed as soon as possible, we normally do it within 48 hours!
 
- **DMCA** : The Digital Millennium Copyright Act of 1998 is called DMCA for short. It forms the legal framework for rights management in digital works, such as copyrights. “DMCA protected” is redundant, since any copyrighted work is already protected by the DMCA, at least in the United States.
+**DMCA** : The Digital Millennium Copyright Act of 1998 is called DMCA for short. It forms the legal framework for rights management in digital works, such as copyrights. “DMCA protected” is redundant, since any copyrighted work is already protected by the DMCA, at least in the United States.
 
 Our site contains plenty of links and embeds to newspaper websites, TV & radio channels from 3rd party sites which are freely available on the Internet. But we are not affiliated in any way with the broadcasted channels nor responsible for their content. All content is Copyrights of their respective owners.
