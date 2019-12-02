@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the halleonard.com privacy policy that was archived on 2018-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180914163827id_/https%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halleonard.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202091637id_/https%3A//www.halleonard.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# Hal Leonard Online - Privacy Policy
-
-## Privacy Policy
+# Privacy Policy | Hal Leonard Online
 
 Hal Leonard LLC is committed to protecting and respecting your privacy. 
 
@@ -144,16 +142,15 @@ We use the following cookies:
 
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
-| Cookie | Name | Purpose | More Information  
+Cookie | Name | Purpose | More Information  
 ---|---|---|---  
 HLUID461 | Hal Leonard Online | This cookie is essential for our site to recognize you when you return to our site. |   
 HLOSearch | Hal Leonard Online | This cookie enables us to store information about your search preferences. |   
-mouseOverOption | Hal Leonard Online | This cookie enables us to store information about your search preferences. |   
+Spellcheck-MSEdgeClientID | Hal Leonard Online | This cookie enables us to check the spelling on your searches. |   
+JustForYou | Hal Leonard Online | This cookie enables us to store your homepage personalizations. |   
 _gat | Google Analytics | This cookie enables us to estimate our audience size and usage pattern. | [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html)  
 _ga | Google Analytics | This cookie enables us to estimate our audience size and usage pattern. | [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html)  
 _gid | Google Analytics | This cookie enables us to estimate our audience size and usage pattern. | [Google Analytics Terms of Service](https://www.google.com/analytics/terms/us.html)  
-__atuvc | AddThis | This cookie enables us to estimate our audience size and usage pattern. | [AddThis Privacy Policy](http://www.addthis.com/privacy/privacy-policy/)  
-__atuvs | AddThis | This cookie enables us to estimate our audience size and usage pattern. | [AddThis Privacy Policy](http://www.addthis.com/privacy/privacy-policy/)  
 __zlcmid | ZenDesk | This cookie enables us to estimate our audience size and usage pattern. | [ZenDesk Privacy Policy](https://www.zendesk.com/company/customers-partners/privacy-policy/)  
   
 Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
@@ -162,4 +159,4 @@ You block cookies by activating the setting on your browser that allows you to r
 
 Except for essential cookies, all cookies will expire after 30 days.
 
-Last updated: June 20th, 2018
+Last updated: January 14th, 2019
