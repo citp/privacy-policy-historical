@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadboy.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612213824id_/https%3A//uploadboy.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadboy.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202212337id_/https%3A//uploadboy.com/en/privacy.html) for the most accurate reproduction.*
 
 # UploadBoy.com
 
