@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crypto-bridge.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331224215id_/https%3A//crypto-bridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crypto-bridge.org privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202063652id_/https%3A//crypto-bridge.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - CryptoBridge
+# cryptobridge.github.io | Gateway to Decentralized Trading
 
 Liquidblocks ApS ("the Company" or "we") is the operator of the websites https://crypto-bridge.org/ and https://wallet.crypto-bridge.org/ (the "Websites"). The Company collects and processes personal data of individuals (the "User" or "you") using the Websites and the services offered through these Websites. The protection and confidentiality of your personal data is of particular importance to us. We treat your personal data confidentially and in accordance with the applicable data protection laws, in particular with the EU General Data Protection Regulation (the "GDPR").
 
@@ -143,7 +143,7 @@ Some data will also be included in the processing made by BitShares. We have no 
 
 ## VII. Know Your Customer
 
-On our Websites, we offer users the opportunity to register by providing personal data in an know your customer process through the third-party software provider Fractal Blockchain GmbH ("Fractal") as a white-label solution. The process is carried out for US residents due to requirements pertaining from U. S. anti-money laundering regulations. For other residents, the process is presently voluntary, unless we find it necessary to obtain this information from you for security and verification purposes in the course of providing our services to you.
+On our Websites, we ask users to register by providing personal data in a know your customer process through the third-party software provider Fractal Blockchain GmbH ("Fractal") as a white-label solution. The process is carried out according to the relevant European Union law, notably Directives 2018/843/EU and 2015/849/EU and as well as Directives 2009/138/EC and 2013/36/EU, and relevant Danish anti-money laundering and counter terrorist financing legislation. We obtain this information from you for security and verification purposes to provide our services to you.
 
 Fractal, on our behalf stores and processes the technical information of your device which you use for orders and communication - cell phone, tablet, notebook, personal computer, etc. (e.g. IP address) and login information (e-mail address, password).
 
@@ -151,11 +151,11 @@ Fractal is located in Germany, stores this data in secured servers in the EU and
 
 For more information, you can reach out to their person responsible for data protection at privacy@fractal.id, for support in the KYC journey support@fractal.id.
 
-The legal basis for such processing is Art. 6 (1)(c) GDPR for US residents. For other residents, the legal basis is either voluntary consent in Art. 6(1)(a) GDPR or necessary for our performance of contract Art. 6(1)(b) GDPR. The participation in the know your customer process and the data processing necessary is essential to carry out pre-contractual measures and to conclude and execute the contract.
+The legal basis for such processing is Art. 6 (1)(c) GDPR and necessary for our performance of contract according to Art. 6(1)(b) GDPR. The participation in the know your customer process and the data processing necessary is essential to carry out pre-contractual measures and to conclude and execute the contract.
 
-We clarify that the provisioning of personal data is partly required by law (e.g. tax regulations) or can also result from contractual provisions (e.g. information on the contractual partner). Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by Fractal. The data subject may be obliged to provide us with personal data when concluding a contract with us. The non-provisioning of the personal data would lead to non-conclusion of contract and subsequently exclude the user from the use of services offered by the Company.
+We clarify that the provisioning of personal data is partly required by law (e.g. tax regulations, relevant EU and Danish anti-money laundering and counter terrorist financing legislation) or can also result from contractual provisions (e.g. information on the contractual partner). Sometimes it may be necessary to conclude a contract that the data subject provides us with personal data, which must subsequently be processed by Fractal. The data subject may be obliged to provide us with personal data when concluding a contract with us. The non-provisioning of the personal data would lead to non-conclusion of contract and subsequently exclude the user from the use of services offered by the Company.
 
-The data is entered into the know your customer input mask, transmitted to Fractal and stored with Fractal. The following data is processed during such process:
+The data is entered into the know your customer input mask, transmitted to Fractal and stored with Fractal. The following data is processed during such process for natural persons:
 
   * first name, last name;
   * CPR number (for Danish individuals) / ID or passport number;
@@ -166,6 +166,13 @@ The data is entered into the know your customer input mask, transmitted to Fract
   * email address;
   * customer as a politically exposed person (PEP);
   * origin of funds.
+
+
+
+In case the user is a legal entity, the following data is processed during such process:
+
+  * company registration documentation;
+  * information on the ultimate beneficial owner, i.e. the natural person ultimately benefiting from the legal entity’s business activity (see information required for natural persons above).
 
 
 
