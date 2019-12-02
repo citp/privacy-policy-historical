@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the figpin.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103032039id_/https%3A//figpin.com/pages/privacy-and-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figpin.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202185808id_/https%3A//figpin.com/pages/privacy-and-terms) for the most accurate reproduction.*
 
 # Privacy and Terms – FiGPiN
 
