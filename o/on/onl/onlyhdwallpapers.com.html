@@ -1,13 +1,20 @@
-<!--The following is the downloaded HTML source of the onlyhdwallpapers.com privacy policy that was archived on 2019-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190603235402id_/https%3A//onlyhdwallpapers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlyhdwallpapers.com privacy policy that was archived on 2019-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191202192043id_/https%3A//onlyhdwallpapers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <title>Privacy</title>
     <link rel="canonical" href="https://onlyhdwallpapers.com/privacy">
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="keywords" content="Privacy">
-<meta name="description" content="Privacy"><script>
+<meta name="description" content="Privacy">
+<meta name="viewport" content="width=device-width; initial-scale=1;"><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-144499021-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-144499021-1');
+</script>
+<script>
     function serverFetch(route, query, position, docElement, successCall, failCall) {
         if (window.XMLHttpRequest) {
             var interfaceOfHttp = new XMLHttpRequest();
@@ -47,6 +54,8 @@
                 temp2.lastElementChild.className = 'bw1 bcw bss';
                 temp2.lastElementChild.src = '/' + data_spath + '/' + formatURL(items[value]['title']) + '-' + items[value]['id'] + '.jpg';
                 temp2.lastElementChild.title = items[value]['title'];
+                temp2.lastElementChild.width = 240;
+                temp2.lastElementChild.height = 135;
                 temp3 = document.createElement('div');
                 temp3.className = "dib m6";
                 temp3.appendChild(temp2);
@@ -79,10 +88,11 @@
     }
 
     window.onscroll = function () {
-        if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+    if ((window.innerHeight + window.scrollY) >= document.body.scrollHeight) {
             infinityStart();
         }
     };
+    
     //history.pushState(null, null, location.href);
     //window.onpopstate = function () {
     //    history.go(1);
@@ -117,7 +127,8 @@
     </div>
     <meta itemprop="url" content="https://onlyhdwallpapers.com">
     <form itemprop="potentialAction" itemscope="" itemtype="https://schema.org/SearchAction" class="w btw0 blw0 brw0 bbw1 bcb bss fr" action="/search" style="background:#343434;" method="post">
-        <input itemprop="query-input" class="m4 pt4 pr12 pb4 pl12" style="min-width:200px;" type="text" name="search" value="" placeholder="search">
+        <label for="search"></label>
+	<input itemprop="query-input" class="m4 pt4 pr12 pb4 pl12" style="min-width:200px;" type="text" name="search" value="" placeholder="search">
         <meta itemprop="target" content="https://onlyhdwallpapers.com/api_json/search/{search}/0">
         <button class="m4" type="submit" name="module_search" value="0">search</button>
     </form>
@@ -216,7 +227,7 @@
 
     </div>
 </div>
-<script>
+<!--script>
     document.write("<img src='//counter.yadro.ru/hit?t44.6;r" +
         escape(document.referrer) + ((typeof (screen) == "undefined") ? "" :
             ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
@@ -224,6 +235,6 @@
         ";h" + escape(document.title.substring(0, 150)) + ";" + Math.random() +
         "' alt='' " +
         "border='0' width='0' height='0'><\/a>")
-</script><img src="//counter.yadro.ru/hit?t44.6;r;s800*600*24;uhttps%3A//web.archive.org/web/20190603235402id_/https%253A//onlyhdwallpapers.com/privacy;hPrivacy;0.6378057646639734" alt="" border="0" width="0" height="0">
+</script-->
 
 </body></html>
