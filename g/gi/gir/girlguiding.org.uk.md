@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414142525id_/https%3A//www.girlguiding.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlguiding.org.uk privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202132252id_/https%3A//www.girlguiding.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy notice | Girlguiding
 
@@ -215,7 +215,7 @@ Girlguiding
 London  
 SW1W 0PT
 
-Email: [dataprotection@girlguiding.org.uk](mailto:dataprotection@girlguiding.org.uk)
+Email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7612170217060419021315021f191836111f041a11031f121f18115819041158031d)
 
 We will be happy to help and discuss your concerns.
 
