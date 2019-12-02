@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the techsviewer.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416090447id_/https%3A//techsviewer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsviewer.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202185020id_/https%3A//techsviewer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://techsviewer.com/ "Techsviewer") Offering Simple Solutions for Tech Problems
 
 This Privacy Policy governs the manner in which The Techsviewer collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.techsviewer.com website (“Site”). This privacy policy applies to the Site and all products and services offered by The Techsviewer .
 
@@ -38,7 +40,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/),  You can read Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](https://www.google.com/ads/preferences/),  You can read Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 **Third Party Advertising**
 
@@ -46,7 +48,7 @@ Some of the ads may be served by Google. Google’s use of the DART cookie enabl
 
 **Google Analytics (Google)**
 
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. Personal Data collected: Cookie and Usage data. Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – Opt Out
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Website, to prepare reports on its activities and share them with other Google services. Google may use the Data collected to contextualize and personalize the ads of its own advertising network. Personal Data collected: Cookie and Usage data. Place of processing : USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – Opt Out
 
 **Your acceptance of these terms**
 
