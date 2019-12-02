@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellobar.com privacy policy that was archived on 2018-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180908035508id_/https%3A//www.hellobar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellobar.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202191905id_/https%3A//www.hellobar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hello Bar
 
@@ -106,4 +106,4 @@ If you have any questions, comments, or concerns or wish to update, delete or ch
 
 #### **Effective Date of this Privacy Policy**
 
-This document is in effect as of April 25th, 2018.
+This document was last updated October 23, 2018.
