@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebgames.com.au privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423220353id_/https%3A//ebgames.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebgames.com.au privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202045233id_/https%3A//www.ebgames.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EB Games Australia
 
