@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thequiz.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407222624id_/https%3A//www.thequiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thequiz.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202114128id_/https%3A//www.thequiz.com/privacy-policy) for the most accurate reproduction.*
 
-# TheQuiz
+# Privacy Policy | TheQuiz
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site. The following discloses the information gathering and dissemination practices for this Web site. 
 
