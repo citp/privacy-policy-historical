@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mychannel957.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502195402id_/https%3A//mix957gr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychannel957.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202073816id_/https%3A//mix957gr.com/privacy) for the most accurate reproduction.*
 
 # Mix 95.7FM – Today's Variety – Grand Rapids Pop Radio
 
