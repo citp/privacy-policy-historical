@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jancisrobinson.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305224128id_/https%3A//www.jancisrobinson.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jancisrobinson.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202145401id_/https%3A//www.jancisrobinson.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy | JancisRobinson.com
+# Privacy and cookie policy | JancisRobinson.com
 
 **PRIVACY AND COOKIE POLICY**
 
@@ -8,8 +8,8 @@ JancisRobinson.com Limited **(“JancisRobinson.com” / “we” / “our” / 
 
 If you wish to contact us regarding this Privacy and Cookie Policy, you can contact us:
 
-  * by emailing _[editorial@jancisrobinson.com](mailto:editorial@jancisrobinson.com)_ ;
-  * by notifying us at our postal address of JancisRobinson.com Limited, 64 New Cavendish Street, London, W1G 8TB, United Kingdom; or 
+  * by emailing [editorial@jancisrobinson.com](mailto:editorial@jancisrobinson.com);
+  * by notifying us at our postal address of JancisRobinson.com Limited, 64 New Cavendish Street, London, W1G 8TB, United Kingdom; or
   * by contacting us using the Site’s Contact Us page found [here](https://www.jancisrobinson.com/contact).
 
 
@@ -34,21 +34,21 @@ We may collect and process the following data about you:
 
 
   * when you use the Site;
-  * when you contact us or send us an enquiry using the Contact Us form on the Site; 
-  * when you create an event on the calendar pages of the Site; 
-  * when you report a problem or issue with the Site; 
-  * when you register to become a Member in accordance with our Membership Terms; 
-  * when you input details on the forum pages of the Site; and 
-  * when you provide us with a testimonial about our products and/or services. 
+  * when you contact us or send us an enquiry using the Contact Us form on the Site;
+  * when you create an event on the calendar pages of the Site;
+  * when you report a problem or issue with the Site;
+  * when you register to become a Member in accordance with our Membership Terms;
+  * when you input details on the forum pages of the Site; and
+  * when you provide us with a testimonial about our products and/or services.
 
 
 
 
 **Data we collect about you.** When you visit the Site we will automatically collect the following data about you:
 
-  * details of your usage of the Site (including [the date,] [time,] [location or] [duration] of the usage). 
-  * certain technical information, for example, the type of device (and its unique device identifier) you use to access the Site, the Internet protocol (IP) address used to connect your device to the Internet, your login information (if you are a Member), browser type and version, time zone setting, browser plug-in types and versions, operating system, mobile network information and platform. 
-  * information about your visit to the Site including the full Uniform Resource Locators (URL), clickstream to, through and from the Site (including date and time), pages you viewed, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. 
+  * details of your usage of the Site (including [the date,] [time,] [location or] [duration] of the usage).
+  * certain technical information, for example, the type of device (and its unique device identifier) you use to access the Site, the Internet protocol (IP) address used to connect your device to the Internet, your login information (if you are a Member), browser type and version, time zone setting, browser plug-in types and versions, operating system, mobile network information and platform.
+  * information about your visit to the Site including the full Uniform Resource Locators (URL), clickstream to, through and from the Site (including date and time), pages you viewed, page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
 
 
 
@@ -74,27 +74,13 @@ For the same reason, we may obtain information about your general internet usage
 
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
-**Cookie name** |  **Purpose**  
+**Cookie name** | **Purpose**  
 ---|---  
-User_id  |  This cookie is essential for the Site to operate. It allows us to synchronise your login status between the forum section of the Site and the other sections of the Site.   
-session  |  This cookie is essential for the Site to operate. It allows us to remember your details during your current visit to the Site.   
-authautologin  |  This cookie is a functionality cookie which automatically logs users in if their “session” cookie has expired. This allows you to navigate away from the Site and then return to the Site in the same browsing session.   
-bblastactivity  |  This cookie is a functionality cookie which records the time at which you were last active on the forum section of the Site. This is used to update your public profile on the forum.   
-bblastvisit  |  This cookie is a functionality cookie which records the time of your last visit to the Site. This allows us to bring updates which you may have missed to your attention.   
-bbpassword  |  This cookie is a functionality cookie which remembers your password in order to automatically log you into the forum sections of our Site if you have already logged into your account.   
-bbsessionhash  |  This cookie is a functionality cookie which remembers your password in order to automatically log you into the forum sections of our Site if you have already logged into your account.   
-bbuserid  |  This cookie is a functionality cookie which remembers your user ID in order to automatically log you into the forum sections of our Site if you have already logged into your account.   
-defLang  |  This cookie is a functionality cookie which remembers which your language preferences.  
-  
-smallFonts  |  This cookie is a functionality cookie which remembers your font size preferences.  
-  
-ppid1  
-ppid2  
-|  This cookie is a functionality cookie affects which home banners are shown to logged-out users when they visit the homepage.  
-  
-__stripe_mid | This cookie is a functionality cookie which helps you to change your credit card details.  
-  
-Google Analytics  |  This is an analytical / performance cookie. The Site uses Google Analytics to help analyse how users use the Site, collecting standard internet log information and visitor behaviour information in an **anonymised** form from which no user is identifiable. This information is transmitted to Google and processed to compile statistical reports on activity on the Site. These reports allow us to optimise our user experience. Google provide a browser add-on for users who wish to prevent their data from being used by Google Analytics. [Click here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google, and [click here](https://tools.google.com/dlpage/gaoptout/) if you wish to opt out from the operation of Google Analytics.   
+session | This cookie is essential for the Site to operate. It allows us to remember your details during your current visit to the Site.  
+cookie-agreed | This cookie allows us to know that you agreed to let us use cookies on the Site.  
+_forum-session | This cookie allows us to remember your details during your current visit to the forum section of the Site.  
+_t | This cookie allows the Site to share your login data with the forum, allowing you access to that part of the Site.  
+Google Analytics | This are an analytical / performance cookies. The Site uses Google Analytics to help analyse how users use the Site, collecting standard internet log information and visitor behaviour information in an **anonymised** form from which no user is identifiable. This information is transmitted to Google and processed to compile statistical reports on activity on the Site. These reports allow us to optimise our user experience. Google provide a browser add-on for users who wish to prevent their data from being used by Google Analytics. [Click here](http://www.google.co.uk/intl/en/analytics/privacyoverview.html) for an overview of privacy at Google, and [click here](https://tools.google.com/dlpage/gaoptout/) if you wish to opt out from the operation of Google Analytics.  
   
 If you have signed up to marketing emails from us, please note that MailChimp (our marketing automation platform) also uses cookies in our newsletters. Please see MailChimp’s Privacy Policy at <https://mailchimp.com/legal/privacy/> for more information.
 
@@ -110,7 +96,7 @@ You may block cookies by activating settings on your browser which allow you to 
 
 Most cookies we use are known as session cookies. These cookies will expire whenever you close your browser or shut down your computer. Other cookies used for specific purpose will expire when that purpose is no longer required.
 
-You can find out more about blocking cookies in specific browsers at _[http://aboutcookies.org](http://aboutcookies.org/)_.
+You can find out more about blocking cookies in specific browsers at [http://aboutcookies.org](http://aboutcookies.org/).
 
 **WHERE WE STORE YOUR PERSONAL INFORMATION**
 
@@ -130,28 +116,28 @@ We have set out below a description of all the ways we plan to use your personal
 
 Note that we may process your personal data on more than one legal basis depending on the specific purpose for which we are using your data. Please contact us if you need details about the specific legal basis we are relying on to process your personal data where more than one basis has been set out in the table below.
 
-**Purpose of processing** |  **Type of personal data** |  **Legal basis for processing**  
+**Purpose of processing** | **Type of personal data** | **Legal basis for processing**  
 ---|---|---  
-To ensure that the content on the Site is presented in the most effective manner for you and your device  |  Information that you provide by filling in forms on the Site or otherwise by contacting us using the Contact Us form provided on the Site, and details of your visits to the Site including, but not limited to, traffic data, location data, and the date, time and duration of your usage of the Site  |  (a) Necessary for our legitimate interests (to define types of customers for our services, to keep the Site updated and relevant, to develop our business, to inform our marketing strategy, for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise); and   
-(b) Necessary to comply with a legal obligation   
-For our internal operations, including data analytics, testing, research, statistical purposes and troubleshooting  |  Details of your usage (including the date, time, location and duration of your usage) and technical information as mentioned above  |  Necessary for our legitimate interests (to define types of customers for our products and services, to keep the Site updated and relevant, to develop our business and to inform our marketing strategy)   
-To deal with any enquiries, correspondence, concerns or complaints you have raised via the Site  |  Information that you provide by filling in forms on the Site or otherwise by contacting us using the Contact Us form provided on the Site and copies of your correspondence with us.   
-This information may include your name, address, date of birth, email address and any other information you provide to us when contacting us  |  (a) Performance of a contract with you   
-(b) Necessary to comply with a legal obligation   
-(c) Necessary for our legitimate interests (to address our customers’ concerns and queries)   
-To process your request to subscribe as a member to the Site  |  Information that you provide by filling in forms on the Site or otherwise by contacting us using the Contact Us form provided on the Site and copies of your correspondence with us.   
-This information may include your name, address, date of birth, email address and any other information you provide to us when contacting us  |  Performance of a contract   
-To enable us to display your uploaded wine-related event to the calendar pages on the Site  |  Your name, email address, details of the event and any other information you may provide whilst completing the event details form  |  Legitimate interest – to allow us to maintain the calendar on the Site   
-To enable us to upload your posts and comments to the members’ forum on the Site  |  Your name and any other information you may provide as part of your post to the forum  |  Legitimate interest – to allow us to maintain the forum on the Site   
-To provide you with information regarding our products or services that you request from us or which we feel may interest you where you have consented to be contacted for such purposes  |  Information that you provide by filling in forms on the Site or otherwise by contacting us using the Contact Us form provided on the Site and copies of your correspondence with us.   
-This information may include your name, address, date of birth, email address and any other information you provide to us when contacting us  |  Consent   
-To use your reviews and comments as testimonials on the Site  |  Your name and any other information contained in your reviews and comments  |  Consent   
+To ensure that the content on the Site is presented in the most effective manner for you and your device | Information that you provide by filling in forms on the Site or otherwise by contacting us using the Contact Us form provided on the Site, and details of your visits to the Site including, but not limited to, traffic data, location data, and the date, time and duration of your usage of the Site | (a) Necessary for our legitimate interests (to define types of customers for our services, to keep the Site updated and relevant, to develop our business, to inform our marketing strategy, for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise); and  
+(b) Necessary to comply with a legal obligation  
+For our internal operations, including data analytics, testing, research, statistical purposes and troubleshooting | Details of your usage (including the date, time, location and duration of your usage) and technical information as mentioned above | Necessary for our legitimate interests (to define types of customers for our products and services, to keep the Site updated and relevant, to develop our business and to inform our marketing strategy)  
+To deal with any enquiries, correspondence, concerns or complaints you have raised via the Site | Information that you provide by filling in forms on the Site or otherwise by contacting us using the Contact Us form provided on the Site and copies of your correspondence with us.  
+This information may include your name, address, date of birth, email address and any other information you provide to us when contacting us | (a) Performance of a contract with you  
+(b) Necessary to comply with a legal obligation  
+(c) Necessary for our legitimate interests (to address our customers’ concerns and queries)  
+To process your request to subscribe as a member to the Site | Information that you provide by filling in forms on the Site or otherwise by contacting us using the Contact Us form provided on the Site and copies of your correspondence with us.  
+This information may include your name, address, date of birth, email address and any other information you provide to us when contacting us | Performance of a contract  
+To enable us to display your uploaded wine-related event to the calendar pages on the Site | Your name, email address, details of the event and any other information you may provide whilst completing the event details form | Legitimate interest – to allow us to maintain the calendar on the Site  
+To enable us to upload your posts and comments to the members’ forum on the Site | Your name and any other information you may provide as part of your post to the forum | Legitimate interest – to allow us to maintain the forum on the Site  
+To provide you with information regarding our products or services that you request from us or which we feel may interest you where you have consented to be contacted for such purposes | Information that you provide by filling in forms on the Site or otherwise by contacting us using the Contact Us form provided on the Site and copies of your correspondence with us.  
+This information may include your name, address, date of birth, email address and any other information you provide to us when contacting us | Consent  
+To use your reviews and comments as testimonials on the Site | Your name and any other information contained in your reviews and comments | Consent  
 To process payments for membership subscriptions 
 
-(Please see above in relation to credit and debit card details) 
+(Please see above in relation to credit and debit card details)
 
-|  Your name and bank, credit card or debit card details  |  Performance of a contract   
-To process your entries to promotions, competitions and prize draws  |  Your title, name, email address, details of your entry to the promotion/competition/prize draw and any other information you may provide during the entrance procedure  |  Performance of a contract   
+| Your name and bank, credit card or debit card details | Performance of a contract  
+To process your entries to promotions, competitions and prize draws | Your title, name, email address, details of your entry to the promotion/competition/prize draw and any other information you may provide during the entrance procedure | Performance of a contract  
   
 Where we have a legal basis to use your personal data without consent (as we have described above), this Privacy and Cookie Policy fulfils our duty to process personal data fairly and lawfully and in a manner that you would expect given the nature of our relationship with you, by giving you appropriate notice and explanation of the way in which your personal data will be used.
 
@@ -159,8 +145,8 @@ Where consent is required for our use of your personal data, by ticking the appr
 
 You can always change your mind about our processing of your personal data. If you change your mind you can update your account settings within the Site, or contact us:
 
-  * by emailing _[editorial@jancisrobinson.com](mailto:editorial@jancisrobinson.com)_ ;
-  * by notifying us at our postal address of JancisRobinson.com Limited, 64 New Cavendish Street, London, W1G 8TB, United Kingdom; or 
+  * by emailing [editorial@jancisrobinson.com](mailto:editorial@jancisrobinson.com);
+  * by notifying us at our postal address of JancisRobinson.com Limited, 64 New Cavendish Street, London, W1G 8TB, United Kingdom; or
   * by contacting us using the Site’s Contact Us page found [here](https://www.jancisrobinson.com/contact).
 
 
@@ -173,7 +159,7 @@ Except as provided below, we do not sell, trade or rent your personal informatio
 
 As mentioned above, we would like to send you information by email about products, services and opportunities which may be of interest to you.
 
-We will **_not_** provide your personal data to other businesses so they can use your personal data for marketing purposes. 
+We will **not** provide your personal data to other businesses so they can use your personal data for marketing purposes.
 
 We will only send you marketing messages if you would like us to. We may ask whether you would like us to send you marketing emails when you sign up to our weekly newsletter, when you sign up to the Site as a paid Member for the first time, or when you contact us via the Site. You will have the opportunity to clearly set out whether you wish to receive marketing emails from us by ticking the relevant box.
 
@@ -183,12 +169,12 @@ You can also manage your preferences by changing your account settings within th
 
 We may disclose your personal information to the following third parties:
 
-  * those who help us run the Site, solely for the purposes of running the Site and performing the transactions concluded through the Site. These third parties include (but are not limited to) Pulsant (who host our servers) and Stripe (our payment processing service provider); 
+  * those who help us run the Site, solely for the purposes of running the Site and performing the transactions concluded through the Site. These third parties include (but are not limited to) AWS (who host our servers) and Stripe (our payment processing service provider);
   * analytics and search engine providers that assist us in the improvement and optimisation of the Site; 
-  * any prospective buyer of or investor in our business in the event that we sell our business or assets or receive investment into our business; 
-  * any person to whom we sell or transfer all or substantially all of our assets, in which case personal data held by us about our customers will be one of the transferred assets; 
-  * any person to whom we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Website Use, Membership Terms or any other terms or agreements; and 
-  * government or other law enforcement agencies, in connection with the investigation of unlawful activities or for other legal reasons (this may include your location information). 
+  * any prospective buyer of or investor in our business in the event that we sell our business or assets or receive investment into our business;
+  * any person to whom we sell or transfer all or substantially all of our assets, in which case personal data held by us about our customers will be one of the transferred assets;
+  * any person to whom we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Terms of Website Use, Membership Terms or any other terms or agreements; and
+  * government or other law enforcement agencies, in connection with the investigation of unlawful activities or for other legal reasons (this may include your location information).
 
 
 
@@ -214,13 +200,13 @@ You have the following rights with regard to your personal data:
 
 **Complaints.** If for any reason you are not happy with the way that we have handled your personal data, please contact us. If you are still not happy, you have the right to make a complaint to the Information Commissioner’s Office.
 
-Please note that the rights mentioned above do not extend to **_non-personal data_**.
+Please note that the rights mentioned above do not extend to **non-personal data**.
 
 If you would like to exercise any of the rights mentioned above, please contact us:
 
-  * by emailing _[editorial@jancisrobinson.com](mailto:editorial@jancisrobinson.com)_ ;
-  * by notifying us at our postal address of JancisRobinson.com Limited, 64 New Cavendish Street, London, W1G 8TB, United Kingdom; or 
-  * by contacting us using the Site’s Contact Us page found [here](https://www.jancisrobinson.com/contact).
+  * by emailing [editorial@jancisrobinson.com](mailto:editorial@jancisrobinson.com);
+  * by notifying us at our postal address of JancisRobinson.com Limited, 64 New Cavendish Street, London, W1G 8TB, United Kingdom; or
+  * by contacting us using the Site’s Contact us page found [here](https://www.jancisrobinson.com/contact).
 
 
 
@@ -238,8 +224,8 @@ Any changes we may make to this Privacy and Cookie Policy in the future will be 
 
 If you have any concerns about material which appears on the Site, or any questions, comments or requests regarding our Terms of Use, Membership Terms or this Privacy and Cookie Policy, please contact us:
 
-  * by emailing _[editorial@jancisrobinson.com](mailto:editorial@jancisrobinson.com)_ ;
-  * by notifying us at our postal address of JancisRobinson.com Limited, 64 New Cavendish Street, London, W1G 8TB, United Kingdom; or 
+  * by emailing [editorial@jancisrobinson.com](mailto:editorial@jancisrobinson.com);
+  * by notifying us at our postal address of JancisRobinson.com Limited, 64 New Cavendish Street, London, W1G 8TB, United Kingdom; or
   * by contacting us using the Site’s Contact Us page found [here](https://www.jancisrobinson.com/contact).
 
 
