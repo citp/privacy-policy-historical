@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austinisd.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620142019id_/https%3A//www.austinisd.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austinisd.org privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202180312id_/https%3A//www.austinisd.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Austin ISD
 
