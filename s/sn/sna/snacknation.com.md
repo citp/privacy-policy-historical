@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snacknation.com privacy policy that was archived on 2019-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190314093722id_/https%3A//www.snacknation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snacknation.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202072756id_/https%3A//www.snacknation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SnackNation
 
@@ -6,7 +6,7 @@ As a reminder, SnackNation does not request personal information via e-mail or 
 
 **OUR PRIVACY COMMITMENT TO OUR CUSTOMERS**
 
-Effective Date: 8/7/18
+Effective Date: 5/15/19
 
 Awesome Office, Inc. (“SnackNation”, “we”, “our”, or “us”) provides this Privacy Policy to inform you (“you” or “your”) how we gather and use, and the circumstances under which we may disclose, information we collect from our users and members through our website with a homepage available at www.snacknation.com (the “Site”) and other related software, interactive features, and/or services operated by us that post a link to this Privacy Policy (collectively, the “Service”). This Privacy Policy does not apply to our information collection activities outside of the Service (unless otherwise stated below or at the time of collection).
 
@@ -75,6 +75,11 @@ Except as described in this Privacy Policy, we will not share your Personal Info
 **_With Our Service Providers_**
 
 We may engage third parties to perform services on our behalf, such as hosting and storage services, software maintenance services, email notifications, database management, analytics, fulfilment services, and other services. These third parties may have access to your Personal Information to perform certain tasks on our behalf but they are not authorized by us to otherwise use or disclose your Personal Information.
+
+We and our third-party service providers, including analytics providers and third-party content providers or advertising partners, may automatically collect certain information whenever you access and use the Services (“Usage Information”).
+
+We may share your Personal Information or your non-personally identifying information with ad  
+networks for online behavioral advertising purposes.
 
 **_With Our Brand Partners_**
 
