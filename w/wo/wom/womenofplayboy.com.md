@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenofplayboy.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620023237id_/http%3A//www.pbplussupport.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenofplayboy.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202235002id_/http%3A//www.pbplussupport.com/privacy.php) for the most accurate reproduction.*
 
 # PB-ONLINE1 - Privacy Policy
 
