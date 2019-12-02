@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bjango.com privacy policy that was archived on 2019-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190620030517id_/https%3A//bjango.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bjango.com privacy policy that was archived on 2019-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191202143731id_/https%3A//bjango.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-us"><head>
 	<title>Privacy policy</title>
@@ -37,18 +37,15 @@
 		function togglemenu()
 		{
 			var e = document.getElementById('menu');
-			var a = document.getElementById('header-more');
-			if(e.style.webkitTransform == 'scaleY(1)')
-			{
+			var x = document.getElementById('header-more');
+			if(e.style.webkitTransform == 'scaleY(1)') {
 				e.style.opacity = '0';
 				e.style.webkitTransform = 'scaleY(0)';
-				a.style.webkitTransform = 'rotate(0deg)';
-			}
-			else
-			{
+				x.className = "header-more";
+			} else {
 				e.style.opacity = '1';
 				e.style.webkitTransform = 'scaleY(1)';
-				a.style.webkitTransform = 'rotate(180deg)';
+				x.className = "header-more-x";
 			}
 		}
 	</script>
@@ -62,15 +59,15 @@
 		<li id="header-home"><a href="/">Home</a></li>
 		<li id="header-help"><a href="/help/">Help</a></li>
 		<li id="header-contact"><a href="/contact/">Contact</a></li>
-		<li id="header-more" onclick="togglemenu()"></li>
+		<li id="header-more" class="header-more" onclick="togglemenu()"></li>
 	</ul>
 </header>
 <div id="menu">
 	<ul>
-		<li><a href="/apps/">Apps</a></li>
-		<li><a href="/articles/">Articles</a></li>
-		<li><a href="/help/">Help</a></li>
-		<li><a href="/contact/">Contact</a></li>
+		<a href="/apps/"><li>Apps</li></a>
+		<a href="/articles/"><li>Articles</li></a>
+		<a href="/help/"><li>Help</li></a>
+		<a href="/contact/"><li>Contact</li></a>
 	</ul>
 </div>
 <section>
@@ -218,8 +215,6 @@
 
 </section>
 
-<div id="footergap"></div>
-
 <footer>
 	<ul>
 		<li id="twitter"><a href="https://twitter.com/bjango">Bjango on Twitter</a></li>
@@ -229,7 +224,8 @@
 		<li id="rss"><a href="/follow/">RSS Feeds</a></li>
 	</ul>
 	<p>
-		©<script type="text/javascript">document.write(new Date().getFullYear())</script>2020<noscript>2019</noscript> Bjango Pty Ltd. All&nbsp;rights&nbsp;reserved. ABN&nbsp;48&nbsp;609&nbsp;312&nbsp;772. <a href="/privacy/">Privacy&nbsp;policy</a>.</p>
+		©<script type="text/javascript">document.write(new Date().getFullYear())</script>2020<noscript>2019</noscript> Bjango Pty Ltd. All&nbsp;rights&nbsp;reserved. ABN&nbsp;48609312772. <a href="/privacy/">Privacy&nbsp;policy</a>.
+	</p>
 </footer>
 
 
