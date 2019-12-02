@@ -1,9 +1,23 @@
-> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601052408id_/http%3A//squishycash.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squishycash.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202171656id_/http%3A//www.squishycash.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Squishy Cash - privacy_policy
 
+You do not have any stats because you have either not logged in or have not registered yet.
+
+[](https://web.archive.org/members/register.php)
+
+or
+
+[](https://web.archive.org/members/login.php)
+
+[](https://web.archive.org/members/withdraw.php)
+
+[](https://web.archive.org/members/points/index.php)
+
+| 
+
   
-[](https://www.squishycash.com/banner/bannerClick.php?bid=54)  
+[](https://www.squishycash.com/banner/bannerClick.php?bid=63)  
 
 
 Privacy Policy
@@ -25,3 +39,68 @@ We will not sell, disclose or lease our member's personal information to any oth
 
 Changes to this Policy  
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, members will be informed of all changes via a message to their squishycash.com inbox.
+
+| 
+
+[](https://web.archive.org/forumpaymentproofs)
+
+[](https://web.archive.org/HowitWorks)
+
+[](https://web.archive.org/members/ticket.php)
+
+You must be logged in to post messages.
+
+-08/31 Earn $5, Win $2 and the Earn 25 Chips, Win 25 Chips Promotion for Saturday!
+
+  
+
+
+-08/30 The Survey Promotion for Friday!
+
+  
+
+
+-08/29 Win 10 Chips for Every Approved Offer on Thursday!
+
+  
+
+
+-08/28 50% Chips Earnings Bonus Promotion for Wednesday!
+
+  
+
+
+-08/27 The 1-Day Offers Completion Contest for Tuesday!
+
+  
+
+
+-08/26 Do 3 Surveys, Win $0.50 on Monday!
+
+  
+
+
+-08/25 Earn a Buck, Win a Buck on Sunday!
+
+  
+
+
+-08/24 The 1-Day Cash Earnings Contest for Saturday!
+
+  
+
+
+-08/23 The 1-Day Offers Completion Contest for Friday!
+
+  
+
+
+-08/22 Earn $5, Win $2 on Thursday!
+
+  
+
+
+  
+  
+  
+---|---|---
