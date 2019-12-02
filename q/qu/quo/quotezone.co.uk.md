@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626024938id_/https%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotezone.co.uk privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202191233id_/https%3A//www.quotezone.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Quotezone.co.uk
 
 ### About this Privacy Policy
 
-Quotezone is a trading name of Seopa Limited which is registered in Northern Ireland with company number NI046322 and has its registered office at Blackstaff Studios, Floor 2, 8-10 Amelia Street, Belfast, BT2 7GS. We respect the privacy of visitors to our website. Seopa Limited is registered as a data controller with the Information Commissioners Office; its registration number is Z8733752. When we refer to we, us, Quotezone , or Seopa we are referring to this company.
+Quotezone is a trading name of Seopa Limited which is registered in Northern Ireland with company number NI046322 and has its registered office at 5th Floor Link Building, Adelaide Exchange, 24-26 Adelaide Street, Belfast, BT2 8GD. We respect the privacy of visitors to our website. Seopa Limited is registered as a data controller with the Information Commissioners Office; its registration number is Z8733752. When we refer to we, us, Quotezone , or Seopa we are referring to this company.
 
 This policy applies to all users of our website and/or our comparison services.
 
@@ -91,7 +91,7 @@ Depending on the contact preferences you select, we may communicate with you by 
 
 As part of our service, we may also contact you by email and/or SMS around the anniversary of when you completed your quote in order to remind you to carry out a new quote for the forthcoming year. We believe that this is an important part of the service to help ensure you do not forget to renew your insurance.
 
-If you don’t want to receive communications from us you can let us know at any time by unsubscribing via our [opt out centre](https://web.archive.org/opt-out-centre.htm) or through our [contact us](https://web.archive.org/contact-quotezone.htm) page. You can use this unsubscribe option at any time. Also, if you initially decided to receive updates from us but then changed your mind you can always use the unsubscribe link in our e-mail communications.
+If you don’t want to receive communications from us you can let us know at any time by unsubscribing via our [opt out centre](https://web.archive.org/opt-out-centre.htm) or through our [contact us](https://web.archive.org/contact-quotezone.htm) page. You can use this unsubscribe option at any time. Also, if you initially decided to receive updates from us but then changed your mind you can always use the unsubscribe link in our e-mail communications. You can also opt out of SMS contact (in addition to the above mentioned opt out options) by following the instructions on the SMS you receive – please note that you may be charged at your standard network rate for opting out in this way.
 
 ### 5 The legal basis for processing your personal information
 
@@ -243,11 +243,11 @@ If you wish to exercise any of your rights set out in this Privacy Policy, make 
 
 The Data Protection Officer   
 Seopa Ltd   
-Blackstaff Studios   
-Floor 2   
-8-10 Amelia Street   
+5th Floor Link Building   
+Adelaide Exchange   
+24-26 Adelaide Street   
 Belfast   
-BT2 7GS 
+BT2 8GD 
 
 We reserve the right, where applicable, to request confirmation of your identity before taking action.
 
