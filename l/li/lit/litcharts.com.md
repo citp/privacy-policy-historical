@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606024425id_/https%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litcharts.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202224741id_/https%3A//www.litcharts.com/privacy) for the most accurate reproduction.*
 
 # LitCharts | Privacy Policy
 
