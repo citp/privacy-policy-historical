@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502051735id_/https%3A//www.starnow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202110205id_/https%3A//www.starnow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | StarNow
+# Privacy Policy - StarNow
 
 This privacy policy applies to all personal information collected, stored, used and transmitted by StarNow (owned and operated by StarNow Limited). StarNow’s contact information is provided at the end of this privacy policy.
 
@@ -87,7 +87,7 @@ StarNow may also use third party providers to provide certain services to you in
 A list of the categories of third party service providers StarNow uses to provide services to you in connection with your membership on StarNow is provided below:
 
   * web hosting services (such as Rackspace and Microsoft Azure)
-  * direct marketing services (such as Mailchimp and Returnpath)
+  * direct marketing services (such as Mailchimp, SendGrid and Returnpath)
   * marketing and remarketing services (such as Google Adwords and Facebook)
   * analytics and reporting services (such as Google Analytics)
   * site security and monitoring services (such as Raygun)
@@ -96,6 +96,7 @@ A list of the categories of third party service providers StarNow uses to provid
   * social Media services (such as Instagram, Facebook, Twitter)
   * collaboration and documentation services (such as Slack, Evernote, Google Docs)
   * UK advertiser and marketing services (such as Casting Days)
+  * Customer Relationship Management services (Pipedrive)
 
 
 
