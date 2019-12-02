@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the groove.co privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606154110id_/http%3A//www.groove.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groove.co privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202103000id_/https%3A//www.groove.co/privacy-policy) for the most accurate reproduction.*
 
-# Groove - Privacy
+# Groove
 
-**Last Updated: May 15th, 2017**
+**Last Updated: June 6th, 2017**
 
 We at Groove know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
 
@@ -82,10 +82,12 @@ In compliance with the US-EU and Swiss-US Privacy Shield Principles, Groove Labs
 
 Legal Department   
 Groove Labs, Inc.   
-453 N. Rengstorff Ave Unit #22   
-Mountain View, CA 94403   
+660 4th Street #684   
+San Francisco, CA 94107   
 email: support@grooveapp.com 
 
 Groove Labs Inc. has further committed to refer unresolved privacy complaints under the EU-US and Swiss-US Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/EU-privacyshield/for-eu-consumers> for more information and to file a complaint. 
+
+As a last resort and under limited circumstances, individuals with unresolved complaints may invoke a binding arbitration option before a Privacy Shield Panel.
 
 Groove is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
