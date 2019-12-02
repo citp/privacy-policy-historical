@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the masala.com privacy policy that was archived on 2019-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190610202851id_/https%3A//www.itp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masala.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202185721id_/https%3A//www.itp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ITP Media Group
+# Privacy policy | ITP Media Group
 
 ## 1\. OUR APPROACH
 
@@ -26,13 +26,11 @@ We may collect and store the following information:
 
 3.1  ** _Information you give us._**
 
-**[INFORMATION COLLECTED TO BE CONFIRMED / REVIEWED BY THE ITP TECHNICAL TEAM.]** ** __**
-
-[We may require you to register to use our Site. When you do, we’ll ask for [personal information](https://www.google.co.uk/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, age, contact details, sports and lifestyle choices or [credit card](https://www.google.co.uk/intl/en/policies/privacy/example/credit-card.html) details to store with your account.
+We may require you to register to use our Site. When you do, we’ll ask for [personal information](https://www.google.co.uk/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, age, contact details, sports and lifestyle choices or [credit card](https://www.google.co.uk/intl/en/policies/privacy/example/credit-card.html) details to store with your account.
 
 If you sign up to receive breaking industry news from us, we’ll ask for your name, surname, company name and email address.
 
-From time to time we may invite users to provide information via surveys or competitions. We may collect information such as your name, contact details, post code or job title. Our Site may also have features where users can submit information to us.]
+From time to time we may invite users to provide information via surveys or competitions. We may collect information such as your name, contact details, post code or job title. Our Site may also have features where users can submit information to us.
 
 3.2  ** _Information we get from your use of our Site._**
 
@@ -94,7 +92,7 @@ We are committed to ensuring that your Personal Data is secure. In order to prev
 
 ## 7\. INTERNATIONAL TRANSFER OF PERSONAL DATA
 
-We may transfer your Personal Data to a third party in countries outside the country in which it was originally collected for further processing in accordance with the purposes set out in paragraph 4 above. In particular, your Personal Data may be transferred throughout the ITP Media Group and to our outsourced service providers located abroad. In these circumstances we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate technical, organisation, contractual or other lawful means.  
+We may transfer your Personal Data to a third party in countries outside the country in which it was originally collected for further processing in accordance with the purposes set out in paragraph above. In particular, your Personal Data may be transferred throughout the ITP Media Group and to our outsourced service providers located abroad. In these circumstances we will, as required by applicable law, ensure that your privacy rights are adequately protected by appropriate technical, organisation, contractual or other lawful means.  
 
 ## 8\. cookies
 
