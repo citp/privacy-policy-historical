@@ -1,143 +1,158 @@
-> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320221931id_/https%3A//www.renweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202151741id_/https%3A//factsmgt.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - RenWeb
+# Privacy Policy - FACTS Management
 
-### To Our Valued Clients:
+**Effective Date: September 1, 2019**
 
-The privacy of your information is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your information confidential. We hope that by taking a few minutes to read our Privacy Policy, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure. We appreciate your placing your trust in Wilcomp Software LP (“Wilcomp”, “Wilcomp Software”, “We”, “Our”, “Us”), the provider of RenWeb School Management Software ™ and RenWeb Donor Connect ™. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Wilcomp Software.
+Please note that Nelnet Business Solutions, Inc. (“Nelnet”, “we”, “our”, or “us”) offers Services related to education, including tuition management, payment administration and processing, financial needs assessment, school management, online application, and online enrollment. To provide these Services, we must store and maintain information about educational institutions (or other entities) we serve, along with personal information regarding administrators, staff members, parents, and students. Access to the data will be restricted to authorized associates and will be used only for the purpose of providing Services to you or the Institution.
 
-## Privacy Statement
+## Online Privacy Policy
 
-Wilcomp complies with all United States state and federal law. For customers who reside outside of the United States, Wilcomp complies with the standards set by the relevant European Union Directives. Wilcomp provides a business service to our customers. Wilcomp will only use the information you provide for the purposes intended and as detailed in the Privacy Statement unless we have obtained your consent to use it for other purposes.
+Nelnet or one of its affiliates operates this mobile device application or this Website. This Privacy Policy (“Policy”) is designed to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of products and services (individually and collectively, the “Services”) through the Website, as well as from users of Nelnet’s mobile device application(s). This Policy applies to users who are located in the U.S. when visiting the Website. For customers who reside outside of the United States, we comply with applicable standards set by the relevant European Union privacy directives. This Policy does not apply to information you provide to any third party service provider(s) related to or whose services are incorporated into the Website; information you provide to third parties shall be controlled by their respective privacy policies.  
+We are committed to providing you a useful and enjoyable online experience. This Policy explains our collection and use practices regarding consumer information, including how and what we share with our related companies and with unrelated entities. Protecting your privacy is important to Nelnet and our employees. We want you to understand what information we collect and how we use it.  
+This Policy is subject to change from time to time, so be sure to check back occasionally to ensure you have read the most current version. It is effective as of the date listed above and applies to our Services that link to this policy. Even if you read and/or agreed to a prior privacy statement, you need to review this updated version. We reserve the right at any time, and in our sole discretion, to change or modify this Policy. If any such changes or modifications are made, we will update the “Effective Date” appearing at the top of this web page. Such changes or modifications shall be effective immediately upon posting to the Website, and supersede any prior versions of this Policy.  
+This Policy governs the privacy policies of this Website or the Nelnet mobile device application(s) only.
 
-Wilcomp respects the privacy of every school and person that entrusts their information with us or who visits our website and uses our services. This Privacy Statement outlines the information that will be collected and how we will use that information.
+## Information we collect
 
-We have developed our privacy policy from industry guidelines and standards, and local, national, and international laws and requirements. All privacy practices and methods described herein only apply insofar as permitted by applicable standards, laws and requirements. The fundamental principles of our privacy policy are:
+### Why We Collect Information
 
-  1. Data will be processed fairly and lawfully.
-  2. Data is collected for specified and legitimate purposes and not further processed in a way that is incompatible with those purposes.
-  3. The data collected will be maintained in a secure manner based on industry standards and best practices for the security and the protection of data.
-  4. Data will not be shared with any third party without the consent of the owner of the data unless required in support of the school, or to complete a transaction on behalf of the owner of the data such as a payment transaction, or is required by law, warrant, subpoena or similar legal process.
+We collect information so we can identify you as our customer, to establish, manage and protect your accounts, to complete your transactions, to create and offer you products and services you might be interested in, to personalize and improve upon your experience with us and to comply with various legal and regulatory requirements.
 
+### Non-Identifying Information
 
+We may collect information from your visit or as part of the registration and administration of your account, in order to personalize and improve upon your experience with us, such as, without limitation, age and individual preferences (“Non-Identifying Information”).
 
-### Information Management and Usage Policies
+### Cookies
 
-#### Personal Information Collected —
+The Services may place “Cookies” on a visitor’s device. Cookies are small text files. Our Cookies save anonymized data about individual visitors, allowing our Services to recognize information about a visitor and help deliver personalized content and other services and functions. Cookies make your Internet experience quicker and more convenient. The Services use both session cookies, which terminate when a user closes his or her browser, and persistent cookies, which remain on the user’s device until they expire or are manually deleted. The Services also contain coding from our business and technology partners which generates third party cookies. Third party cookies allow our business and technology partners to store non-Identifying Information they can access when you visit this or other websites. Accepting a cookie from a web or device browser does not give us access to any Personally Identifiable Information.  
+Most website and mobile device browsers allow you to control cookies, including whether or not to accept them and provide the ability to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are using our Services.
 
-Given that our services include student information management and fundraising support, it is necessary that we store and maintain confidential information about the schools we serve, along with personal information regarding the administrators, staff members, parents and students associated with these schools.  _Wilcomp will not market our products or services to parents or students using this information, nor will we directly contact parents or students without the school’s prior consent._
+### Device and Connection Information
 
-#### _— School Administration_
+When you use our Services, we will identify the Internet Protocol (IP) address of your computer or handheld device. The IP address does not identify you personally, but it lets us identify the device you are using. We store IP addresses in case we need to track a connection for security purposes. We may also collect other device-specific information about the device you are using, including what type of device it is and hardware model, what operating system you are using, device settings, unique device identifies, geo-location data, and crash data. Whether we collect some or all of this information often depends on what type of device you are using and its settings. Check the policies of your device manufacturer or software provider to learn more about what information your device makes available to us.
 
-We will respond to requests for Contacts and Sales Demonstration made via our website [www.renweb.com](https://web.archive.org/) using personal information received from you at the time of the request. To request information about our products and services, we may ask you to provide certain information including but not limited to your name, address, telephone number, email address, school name, school address, total enrollment, grade levels, and referral information.  _No information will be collected unless you provide it to us voluntarily. Wilcomp will not share this information with anyone outside of our company, subject to the limitations described above._
+### Web Beacons (1×1 Pixels or GIFS)
 
-Wilcomp may use school information to contact appropriate representatives at the school. For example, we may send marketing or promotional materials including emails or other information to school administrators; we may respond to your comments, questions or requests for information; or we may contact you as necessary to provide general customer support. You may update your contact information or opt out of receiving marketing or promotional materials by contacting our Customer Support center by phone at +1 866 800 6593 , or via email request sent to [privacy@renweb.com](mailto:privacy@renweb.com).
+Our Services may contain coding known as Web Beacons that use 1×1 pixel images to capture and transmit the online activity of users on our Services. These Web Beacons typically transmit information about form completions and other activities in order to measure advertising effectiveness or store analytics information. In addition, we may use Web Beacons in HTML-based emails. This allows us to evaluate the effectiveness of our email communications and our marketing campaigns by showing how many emails recipients have opened.
 
-When a school becomes a customer of Wilcomp, the school administration will be required to submit information regarding your business, its staff members and clients (parents, guardians, students and other associated parties). This information will be managed on your behalf within Wilcomp product databases by means of our software interfaces, the information itself remains the property of the client school as the owner of the data. You may request the complete removal of your information from our systems at any time; such removal will be completed within 30 days of our receipt of your written request.
+### Log Files
 
-#### _— Staff Members_
+Like most websites, our servers utilize log files. Log files store information including internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks. Log files are used to analyze trends, administer the Website, track Users’ movement in the aggregate, and gather broad demographic information for aggregate use. We use log file information at times to help identify you as you browse and to gather broad technical and demographic information on who uses our website.
 
-Wilcomp client schools will generally collect personal information regarding their staff members, including but not limited to tax identification, professional and academic credentials, and contact information. Staff members who wish to review or update their personal information may do so by contacting the school administrator responsible for maintaining such data using Wilcomp software interfaces. In addition, confidential information generated in the course of business, such as student evaluations and electronic communications, are acknowledged to be the intellectual property of the Wilcomp client school.  _Wilcomp will not share personal information pertaining to school administrators or staff members with anyone outside of our company, subject to the limitations described above._
+### Google Analytics Feature
 
-#### _— Parents / Families_
+We may use Google Analytics to collect information about the use of the Website. Google Analytics collects information such as how often users visit the Website, what pages they visit when they do so, and what other sites they used prior to coming to the Website. We use the information we get from Google Analytics only to improve the Website. Google Analytics collects only the IP address assigned to you on the date you visit the Website, rather than your name or other identifying information. We do not combine the information collected through the use of Google Analytics with Personally Identifiable Information. Although Google Analytics plants a permanent cookie on your web browser to identify you as a unique user the next time you visit this site, the cookie cannot be used by anyone but Google. Google’s ability to use and share information collected by Google Analytics about your visits to this site is restricted by the [Google Analytics Terms of Use ](http://www.google.com/analytics/terms/us.html)and the [Google Privacy Policy](http://www.google.com/privacypolicy.html). You can prevent Google Analytics from recognizing you on return visits to this Website by [disabling the Google Analytics](https://tools.google.com/dlpage/gaoptout/) cookie on your browser. You can also view and change the [currently available opt-outs](https://support.google.com/ads/answer/2662922?hl=en) for Google Ads.
 
-Wilcomp client schools will generally collect personal information regarding the parents, guardians, family members and other parties associated with their students (e.g. physicians, emergency contact neighbors, etc.) This information may include, but not be limited to, employement, insurance, medical, religious, financial and contact information. Family members who wish to review or update their personal information may do so by contacting the school administrator responsible for maintaining such data using Wilcomp software interfaces. In addition, the school administration has the option to make available certain Wilcomp software interfaces which allow family members online access to review and update selected personal information.  _Wilcomp will not directly share personal information pertaining to parents, guardians or other parties associated with the family with anyone outside of our company, subject to the limitations described above._
+### Other Analytics Tools
 
-School administrators have the option of making limited portions of their clients’ personal information available in various public venues, such as printed or online student or family directories. Requests for removal from such publications should be made to the school administration.
+In addition to or in lieu of Google Analytics, we may use other similar web analytics tools to collect information about our Website. Regardless of the tool selected, we use this information only to improve the Website. Any analytics tools we use collect only the IP address assigned to you on the date you visit the Website, not your name or other identifying information. We do not combine the information collected by analytics tools with Personally Identifiable Information. We only use analytics tools that are GDPR-compliant and that meet our auditing and privacy standards.
 
-#### _— Students_
+### Google Drive
 
-School administrators, staff members and responsible family members will generally use Wilcomp software interfaces to collect personal information regarding students, including but not limited to medical, insurance, financial, behavioral, academic, religious, demographic and contact information. Responsible family members who wish to review or update the personal information regarding their student(s) may do so by contacting the school administrator responsible for maintaining such data using Wilcomp software interfaces. In addition, the school administration has the option to make available certain Wilcomp software interfaces which allow responsible family members online access to review and update selected personal information regarding their student(s).
+If you choose to link your Google Drive account to a Nelnet product for easy access to your files, Nelnet will use Google’s OAuth protocols to establish that connection. Nelnet will not use this information in any manner inconsistent with this policy or for any purpose other than allowing you access to your Google Drive. Nelnet will not read, edit, delete, or copy files or information without your permission or as instructed by you. You may disconnect Nelnet’s site or application at any time by removing access through your Google account.
 
-Wilcomp Software LP collects information under the direction of its Clients, and has no direct relationship with the individuals whose personal data it processes. Wilcomp Software LP works with its Clients to help them provide notice to their customers concerning, the purpose for which personal information is collected.
+### Do Not Track Signals
 
-We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. [If you are a Client and would like to update your account please contact us [here](mailto:%20support@renweb.com).]
+Do Not Track is a feature in your web browser, which enables you to opt-out of the third party tracking of your online activities over time and across third party websites. We do not track users across third party websites to provide targeted advertising, and therefore, do not process or comply with any web browser’s “do not track” signal or other similar mechanism that indicates a request to disable online tracking of individual users who visit this Website or use our Services. Third parties cannot collect any Personally Identifiable Information from this Website unless you provide it to them directly.
 
-Wilcomp respects all applicable national and international children’s privacy regulations. Wilcomp complies with the Family Educational Rights and Privacy Act (FERPA) (20 USC §1232g, 34 CFR Part 99) which is a federal U.S. law that protects the privacy of student education records.  _Wilcomp does not collect personal information directly from children, and any information we retain pertaining to students will not be shared with anyone outside of our company, subject to the limitations described above._
+### Personally Identifying Information
 
-It is the responsibility of our client schools to utilize our services (e.g. the collection of information from students by means of customer-designed web forms) in a manner that complies with FERPA and similar regulations unique to the jurisdiction within which our client schools operate.
+We may collect Nonpublic Personal Information about you from the following sources:
 
-### Access to Customer Information:
+  * Information from this Website or paper forms
+  * Information about your transactions with us or others
+  * Information we receive from third parties, such as your academic institution
 
-Upon request Wilcomp Software LP will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or by contacting us at [privacy@renweb.com](mailto:%20privacy@renweb.com). We will respond to your request within a reasonable timeframe. Wilcomp Software LP has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, who seeks to correct, amend, delete inaccurate data or withdraw consent to further contact should direct his/her query to Wilcomp Software LP’s Client (the data controller). If the Client requests Wilcomp Software LP to remove the data, we will respond to their request within 30 days.
 
-We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Wilcomp Software LP will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-The primary goal of Wilcomp in collecting personal information from our customers is to assist our customers in managing the information they provide utilizing our products and services. We have always safeguarded the confidentiality of information provided to us by our clients and are bound by our professional standards to continue to maintain this vital aspect of our professional relationship. The following individuals may have access to some or all of your information:
+“Nonpublic Personal Information” is nonpublic, personally identifiable financial information about you that we obtain in connection with providing a financial product or service to you. For example, Nonpublic Personal Information includes information regarding your account balance, payment history, and overdraft history, if applicable.
 
-  1. **Employees of the company** : Employees who need such information to conclude a transaction or provide technical support for which the customer has engaged Wilcomp
-  2. **Service Providers** : As with any business, other service firms may need access to certain information at very specific times and for very specific reasons. An example might be consultants that must have access to certain client records in order to increase the efficiency of our computer processing systems. We have and will always insist that any such information that needs to be disclosed for any business purpose be considered confidential and not used for any purpose other than the specific business need. That well-understood business policy of confidentiality will be reinforced as needed by contractual agreements with any service provider having access to your data.
+We may collect Personally Identifiable Information about you as well, including:
 
+  * Your first and last name
+  * Your home address
+  * Your home or work telephone number
+  * Your birth date
+  * Your email address
 
 
-Wilcomp will share the information necessary to deliver products and services that you specifically request to receive but we will limit this information to only what is necessary and required to complete a transaction. In certain situations, Wilcomp Software LP may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Wilcomp also reserves the right to disclose your personally identifiable information in order to respond to duly authorized information requests of governmental authorities, where required by law, when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, warrant, subpoenas or similar legal process. If Wilcomp is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.  _Wilcomp will not share, trade or sell the personal information of our visitors or customers for use by any business without your consent.  If you do not want us to share your personal information with these companies, [contact us here](https://web.archive.org/support) _.__
 
-Wilcomp Software LP may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
+“Personally Identifiable Information” is individually identifiable information about an individual consumer collected by us and maintained in an accessible form.
 
-### Consumer Services and Contact Information:
+## How We Use Your Information
 
-If you provide our consumer service representatives with feedback on your experiences with our products/services or otherwise submit questions to our consumer service representatives or webmasters, you will be asked to supply personal information for our record keeping and follow-up.  _This information will not be disclosed without your permission unless required to do so by law. The consumer testimonials posted on our web site may contain personally identifiable information, but such testimonials will not appear without a consumer’s prior consent._
+### Uses of Information
 
-In addition, consumer testimonials and any personally identifiable information they might contain will be withdrawn from our web site within 30 days of our receipt of a consumer’s written request for its removal. If you wish to update or delete your testimonial, you can contact us at privacy@renweb.com.
+Certain Non-Identifying Information would be considered a part of your Personally Identifiable Information if it were combined with other identifiers (for example, combining your zip code with your street address) in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information (for example, your viewing preferences). We may combine your Personally Identifiable Information with Non-Identifying Information and aggregate it with information collected from other Users to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Website and Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions.
 
-### Aggregate and Statistical Data:
+If you supply us with your e-mail address, we may let you know by e-mail about other products and services and product enhancements that may be of interest to you. You will have the opportunity to tell us you do not want to receive future messages with each message you receive. If you e-mail a question or comment to us, we will use your e-mail address to reply to you and we will temporarily store your e-mail address, your message, and our reply for quality assurance or to satisfy applicable laws and regulations. When we collect your e-mail address this way, we will not use it for marketing our products and services unless you have given us permission.
 
-Wilcomp may collect and store web log information (such as your web browser, operating system, pages visited, etc.) to help us design our website, to identify popular features, and for other managerial purposes. However, web logs may also be used if necessary to help identify any person attempting to break into or damage our website, or use our websites to commit any illegal act. We may share web log information with law enforcement agencies if we believe that we have evidence of a violation of computer security or related laws.
+If you wish to change any of your personal information, you may change it by logging into your account; by contacting Customer Service, either through email, mail, or telephone; or by contacting your Educational Institution.
 
-We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union, click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+### What We Share
 
-## Our Commitment to Data Security
+We may employ third party companies and individuals to facilitate our Services, to provide the Services on our behalf, to perform Website-related Services (e.g., without limitation, maintenance services, database management, web analytics and improvement of the Website’s features) to assist us in analyzing how our Website and Services are used, or to perform other services (e.g., without limitation, sending postal mail and email, providing marketing assistance, and providing customer service). These third parties have access to your Nonpublic Personal Information, Nonpublic Personal Information, and/or Personally Identifiable Information only to perform these tasks on our behalf; provided, however, that if you are redirected to a site or application maintained by a third party, the privacy policy of such site or application will control the use of any information you provide.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we manage on behalf of our customers and the information we collect and manage. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to information. We use secure connections to protect sensitive information during its transmission.No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@renweb.com](mailto:privacy@renweb.com).
+We may share your information with companies that are affiliated with us, such as our direct or indirect subsidiaries or parent or sister companies. As we continue to develop our business, we may buy or sell companies, subsidiaries, or business units. Your Personally Identifiable Information may be included as an asset in connection with mergers, acquisitions, reorganizations, or sales of assets including in the event of bankruptcy.
 
-## Tracking Technologies
+Sometimes the law or other circumstances also require that we disclose Nonpublic Personal Information and/or Personally Identifiable Information about you to nonaffiliated third parties. Some examples are: when you ask or permit us to do so; in response to subpoenas or court orders; when we suspect fraud or criminal activity; to protect our property and rights or those of a third party; to protect the safety of the public or any person; or to prevent or stop activity we may consider to be, or to pose a risk of being, illegal, unethical, or legally actionable activity.
 
-We, Wilcomp Software, LP and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level.
+VERMONT RESIDENTS: We will not disclose nonpublic personal financial information about you other than as permitted by law unless you authorize us to make that disclosure. Your authorization must be in writing or, if you agree, in electronic form. If you wish to authorize us to disclose your nonpublic personal financial information to nonaffiliated third parties, you may notify us at the address found under the “How to Contact Us” section below.
 
-## Widgets
+If you become an inactive User, we will continue to adhere to the privacy policies and practices described in this Policy.
 
-This site uses the “Share This” widget where personal information is collected in the form of the invite-a-friend feature. This feature is used to send a one time invite to the third party email address you entered through the widget. The personal information entered on this widget is subject to the privacy policy of the “Share This” widget.  _Renweb.com shares no responsibility in regards to the personal information entered through the widget._
+### Our Security Procedures
 
-## Public Forums
+We are committed to providing you a useful and enjoyable online experience. We implement reasonable and appropriate physical, procedural, and electronic safeguards to protect your information.
 
-Our Web site offers publicly accessible blogs or community forums.  You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.  To request removal of your personal information from our blog or community forum, contact us at [privacy@renweb.com](mailto:privacy@renweb.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. ** **
+To access information and send e-mail via the Website, you will need a browser that supports the use of Transport Layer Security protocols. This encryption technology helps ensure the authenticity of your online sessions and secures data being transmitted over the public Internet.
 
-## Links to Other Sites
+We take careful steps to safeguard customer information. We restrict access to your personal and account information to those employees who need to know that information to provide Services to you, and we regularly train our employees on privacy, information security, and their obligation to protect your information. We maintain reasonable and appropriate physical, electronic, and procedural safeguards to guard your Nonpublic Personal Information and Personally Identifiable Information and we regularly test those safeguards to maintain the appropriate levels of protection.
 
-Please note that if you link to a third-party site from Renweb.com, this privacy policy does not apply to that site. Even though you may have started your visit at Renweb.com, your transactions are completed with a separate organization and not with us. We don’t share your personally identifiable information with them, but information you choose to share with them will fall under their privacy policies, which we encourage you to review. We carefully select other organizations in an effort to give you the value and excellent customer service you expect from us.
+You can help safeguard your Nonpublic Personal Information and Personally Identifiable Information by taking a few simple precautions. Protect your account numbers, passwords, and customer access numbers. Never disclose confidential information to unknown callers. You should always use a secure browser and current virus detection software, and never open email from unknown sources.
 
-## Social Media (Features) and Widgets
+### Children’s Privacy
 
-Our Web site includes Social Media Features, such as the Facebook Like button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+The Website is not directed to children under 13. We do not knowingly collect, maintain, or use personally identifiable information from children under age 13. If a parent or guardian becomes aware that his or her child has provided us Personally Identifiable Information without their consent, he or she should contact us using the information in the “How to Contact Us” section, below. If we confirm collected such information, we will take all reasonable measures to delete that information from our system as soon as possible. For users of our learning management system and related products, we may collect and store certain information as required to provide learning management tools to schools, teachers, and students who use such tools.
 
-## Notification of Changes to this Privacy Policy
+### Links to Other Websites and Services
 
-The most current version of our Privacy Policy will always be posted on our website at www.renweb.com. The date of the last change will always be posted on the bottom of the Privacy Policy page. If we decide to change our privacy policy, we will post those changes to this web page, our home web page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+We are not responsible for the collection and use of information by companies or individuals unaffiliated with us whose websites may contain links to the Website, including vendors where you may shop. Please remember that when you use a link to go from our Website to another website, our Policy does not apply to third party websites or services. Your browsing and interaction on any third party website or service are subject to that third party’s own rules and policies. Please note that when you shop with a vendor who is linked to the Website, even though you may have started your visit with us, and even though our pages may still appear, your transactions are completed with a separate organization, not with us. In addition, you agree that we are not responsible and we do not have control over any third parties that you authorize to access your user content. If you are using a third party website or service, and you allow such a third party access to your user content, you do so at your own risk. This Policy does not apply to information we collect by other means (including offline) or from other sources other than through the Website and applications.
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you by email, by broadcast through our software interfaces, or by means of a notice on our home page prior to the change becoming effective.
+## How to Contact Us
 
-Wilcomp Software LP  
-820 SW Wilshire Blvd  
-Burleson, TX USA 76028
+If you have any questions about this Policy, please contact us by email or regular mail at the following address:
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=667271a8-c084-4a73-a3be-66ca84204234)
+Nelnet Business Solutions, Inc.  
+121 South 13th Street, Suite 301  
+Lincoln, NE 68508
 
-## U.S.-Swiss Safe Harbor Framework
+Email: [NBScomplianceteam@nelnet.net](mailto:NBScomplianceteam@nelnet.net)
 
-Wilcomp complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Wilcomp has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Wilcomp’s certification, please visit [http://export.gov/safeharbor.](http://export.gov/safeharbor) Upon request and within 30 days, Wilcomp will grant individuals reasonable access to personal information that it holds about them. In addition, Wilcomp will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Please contact your organization’s local Wilcomp administrator to change your personal information gathered on the Site, or contact our Customer Service center.
+ **Effective Date:   May 25, 2018**
 
-## EU-U.S. Privacy Shield
+## PRIVACY NOTICE FOR EUROPEAN UNION RESIDENTS:
 
-Wilcomp Software LP participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Wilcomp Software LP is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+Striving to provide superior customer service, Nelnet Business Solutions, Inc. (“Nelnet”, “we”, “our”, or “us”) places great emphasis on its customers and their privacy rights. In doing so, Nelnet will comply with European Union Privacy Directives, most notably the EU General Data Protection Regulation. By providing our services, we may from time to time collect, store, use or process your personal data for legitimate business purposes, such as improving our products and services. Nelnet’s processing of your data is necessary for compliance with its contractual and legal obligations. Personal data means any identifier information, such as your name, social security number, identification number, location data, or other online identifiers and factors.
 
-Wilcomp Software LP is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and Wilcomp Software LP is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Wilcomp Software LP complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Although your data is generally stored within the United States, an international data transfer may occur if third party, cloud-based storage companies that Nelnet employs use servers located outside the United States.  Nelnet uses appropriate technical and organizational security measures including encryption of personal data and follows various industry standards and best practices to protect your personal data. Additionally, Nelnet requires its vendors and processors to abide by the European Union General Data Protection Regulation and to apply adequate security and technical safeguards. We will not transfer your data to or store your data in countries that have not been awarded an adequacy decision by the European Commission.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Wilcomp Software LP is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Wilcomp Software LP may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+For general processing purposes, Nelnet will store your personal data for a period of seven years. However, Nelnet may retain such information for shorter or longer periods where legally required to do so based on industry rules, contractual requirements, or other legal obligations.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.  
+You have the right to withdraw consent for processing at any time. Further, you have the right to request access to and rectification, restriction or erasure of your personal data. Nelnet will afford you these rights, but it may not be able to do so where the processing is based on its contractual obligations, based on other legitimate interests, or carried out in the public interest.  Along with these rights, if you believe that your data has been mishandled in violation of a privacy directive, you have the right to lodge a complaint with the relevant supervisory authority. If you have questions or concerns about our data processing practices, please address such inquiries to our Data Protection Officer.
 
-Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/welcome), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+## Contact Details for Privacy and Data-related Inquiries
 
-For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted online OnBoarding software customer or partner for whom Wilcomp processes data should be addressed to that customer or partner.
+### Data Controller:
 
-This version of the Privacy Policy was last updated on 26-January-2017 and replaces all previous versions of our policy.
+Contact Your Educational Institution or Merchant
+
+### Data Processor:
+
+Nelnet, Inc.  
+Shawn Traudt  
+Chief Compliance Officer  
+[Shawn.Traudt@nelnet.net  
+](mailto:Shawn.Traudt@nelnet.net)  
+402-323-4979
