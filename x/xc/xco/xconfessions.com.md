@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xconfessions.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407131118id_/https%3A//xconfessions.com/legal%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xconfessions.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202101610id_/https%3A//xconfessions.com/legal%23privacy) for the most accurate reproduction.*
 
 # Legal - XConfessions – XConfessions
 
