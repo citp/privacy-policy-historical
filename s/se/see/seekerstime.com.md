@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekerstime.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430170159id_/https%3A//www.seekerstime.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekerstime.com privacy policy that was archived on 2019-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191202140821id_/https%3A//www.seekerstime.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Seekers Time
 
