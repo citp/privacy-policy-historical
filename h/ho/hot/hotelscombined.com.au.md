@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelscombined.com.au privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305230550id_/https%3A//www.hotelscombined.com.au/AboutUs/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.com.au privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203045111id_/https%3A//www.hotelscombined.com.au/AboutUs/Privacy) for the most accurate reproduction.*
 
 # HotelsCombined.com.au Privacy Statement
 
@@ -180,7 +180,7 @@ For data review or erasure requests – [click here](https://web.archive.org/Abo
 
 If your matter is complex, our Data Protection Officer is committed to addressing any concerns you may have such as our handling, use, disclosure or management of your personal information.
 
-You can contact our Data Protection Officer using by email or post using the details below.
+You can contact our Data Protection Officer electronically or by post using the details below.
 
 We will take reasonable endeavours to investigate your concern, remedy any issues resulting from our failure to comply with our privacy obligations, and we will notify you of the outcome as quickly as possible.
 
@@ -190,4 +190,4 @@ We will take reasonable endeavours to investigate your concern, remedy any issue
 
 In this policy 'we', 'us' and 'our' refers to any website, or application (including mobile) that is owned or operated by Hotels Combined Pty Ltd (ABN 61 122 130 554), a company incorporated in Australia, acting as either Agent, or Principal, or under Authority on behalf of another party, as the case may be.
 
-**This policy was last updated on 17th May 2018**
+**This policy was last updated on 25th October 2019**
