@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the quickphotoedit.com privacy policy that was archived on 2019-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190617200616id_/http%3A//eula.mindspark.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the quickphotoedit.com privacy policy that was archived on 2019-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191203022252id_/http%3A//eula.mindspark.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head style="display: none;">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" style="display: none;">
@@ -21,28 +21,6 @@
 		a[name]:hover{
 			background: none;
 			color: inherit;
-		}
-
-		.infoTable {
-			margin-top:20px;
-		}
-
-		.infoTableContents {
-			display: table;
-			width: 100%;
-			table-layout: fixed;
-		}
-
-		.infoTableContents > div {
-			display: table-cell;
-			border: 1px solid #000;
-			padding: 4px 6px;
-			margin-bottom: 0;
-			vertical-align: middle;
-		}
-
-		.infoTableHeader {
-			background-color: #d3d3d3;
 		}
 	</style>
 
@@ -174,33 +152,6 @@
 
 				<div class="para bold">G. HOW LONG WE KEEP YOUR INFORMATION</div>
 				<div class="para">We only keep your personal information as long as it is necessary for the purposes set out in this Privacy Policy including for legitimate business purposes and as permitted by applicable law. We will only use your information to the extent necessary to comply with our legal obligations, resolve any legal issues, enforce our agreements, and as otherwise described in this policy.</div>
-				<div class="infoTable">
-					<div class="infoTableContents infoTableHeader">
-						<div>
-							<div><strong>Data Collected:</strong></div>
-							<div>All Data collected, including but not limited to:</div>
-						</div>
-						<div><strong>Retention Period</strong></div>
-						<div><strong>Primary Basis for Retention Period</strong></div>
-					</div>
-				</div>
-				<div class="infoTable">
-					<div class="infoTableContents">
-						<div><strong>PI: Personal Information</strong></div>
-						<div>Two (2) years period following user inactivity</div>
-						<div>Security, legal requirements and to facilitate seamless  user re-engagement</div>
-					</div>
-					<div class="infoTableContents">
-						<div><strong>PII: Personal Identifiable Information</strong></div>
-						<div>Data is kept for the life of the customer relationship plus a period of two (2) years</div>
-						<div>Security, legal requirements and to facilitate seamless  user re-engagement</div>
-					</div>
-					<div class="infoTableContents">
-						<div><strong>Application (Meta) Data</strong></div>
-						<div>Once IP Address has been deleted these data points are no longer Personal Information as they cannot be linked back to a user</div>
-						<div>No longer personally identifiable after a period of two (2) years</div>
-					</div>
-				</div>
 
 				<div class="para bold">H. WHERE WE STORE YOUR INFORMATION</div>
 				<div class="para">Information we collect, or permit third parties to collect may be transferred to, stored and processed outside your country of residence in any country or territory where one or more of our affiliated group companies, third party service providers or advertising companies or advertising networks are located or maintain facilities, including but not limited to the United States and Ireland.</div>
@@ -306,61 +257,80 @@
 		<!-- end <%footer%> -->
 	</div>
 	<script type="text/javascript" style="display: none;">
-		var urlParams = new URLSearchParams(window.location.search);
-		var langParam = urlParams.get('lang');
+		var queryParams = window.location.search.substr(1).split('&');
+
+		var urlParams = {};
+		for(var param = 0; param < queryParams.length; param++) {
+			var chunks = queryParams[param].split('=');
+			var key = chunks[0];
+			var value = chunks[1];
+			urlParams[key] = value;
+		}
+
+		var langParam = urlParams['lang'];
 		var lang = langParam || 'en';
 
 		var translateTextData = {
-			'da': 'Vi er i gang med at oversætte vores politikker til adskillige sprog, men i mellemtiden, hvis du har brug for en kopi af dette dokument på Dansk, eller hvis du har spørgsmål, kan du kontakte os via e-mail til ',
-			'de': 'Wir sind im Moment dabei, unsere Richtlinien in mehrere Sprachen zu übersetzen. Sollten Sie in der Zwischenzeit eine Kopie dieses Dokuments in Deutscher Sprache benötigen oder Fragen haben, kontaktieren Sie uns bitte per E-Mail an ',
-			'es': 'Actualmente estamos traduciendo nuestras políticas a varios idiomas. Si mientras tanto necesita una copia de este documento en Espanol o desea hacer alguna pregunta, por favor póngase en contacto con nosotros enviándonos un correo electrónico a ',
-			'fi': 'Olemme tällä hetkellä kääntämässä käytäntöjämme eri kielille. Jos kuitenkin tarvitset sillä välin tämän asiakirjan Suomenkielistä versiota tai jos sinulla on jotain kysyttävää, voit ottaa meihin yhteyttä osoitteella ',
-			'fr': 'Nous sommes actuellement en train de traduire nos politiques en plusieurs langues. Entre-temps, si vous avez besoin d’une copie de ce document en Français ou si vous avez des questions, veuillez nous contacter par e-mail à l’adresse : ',
-			'it': 'Stiamo traducendo le nostre politiche in varie lingue ma, nel frattempo, se avete bisogno di una copia di questo documento in Italiano o avete domande, potete contattarci inviando un’e-mail all’indirizzo: ',
-			'nl': 'We bevinden ons in het proces voor het vertalen van ons beleid in verschillende talen, maar als u in de tussentijd een kopie van dit document wilt in het Nederlands of als u nog vragen hebt, neem dan contact met ons op via ',
-			'no': 'Vi er i ferd med å oversette våre retningslinjer til flere språk, men hvis du i mellomtiden trenger en kopi av dette dokumentet på Norsk eller du har noen spørsmål, vennligst kontakt oss ved å sende en epost til ',
-			'pt': 'Estamos no processo de traduzir as nossas políticas para vários idiomas, mas, se precisar de uma cópia deste documento em Português ou tiver alguma dúvida, entre em contacto connosco enviando um e-mail para ',
-			'sv': 'Vi håller på att översätta våra policyer till flera språk men under tiden kan du kontakta oss via e-post på Privacy@iacapps.com om du skulle behöva en kopia av detta dokument på Svenska eller om du har några frågor ',
-		}
+			da: 'Vi er i gang med at oversætte vores politikker til adskillige sprog, men i mellemtiden, hvis du har brug for en kopi af dette dokument på Dansk, eller hvis du har spørgsmål, kan du kontakte os via e-mail til ',
+			de: 'Wir sind im Moment dabei, unsere Richtlinien in mehrere Sprachen zu übersetzen. Sollten Sie in der Zwischenzeit eine Kopie dieses Dokuments in Deutscher Sprache benötigen oder Fragen haben, kontaktieren Sie uns bitte per E-Mail an ',
+			es: 'Actualmente estamos traduciendo nuestras políticas a varios idiomas. Si mientras tanto necesita una copia de este documento en Espanol o desea hacer alguna pregunta, por favor póngase en contacto con nosotros enviándonos un correo electrónico a ',
+			fi: 'Olemme tällä hetkellä kääntämässä käytäntöjämme eri kielille. Jos kuitenkin tarvitset sillä välin tämän asiakirjan Suomenkielistä versiota tai jos sinulla on jotain kysyttävää, voit ottaa meihin yhteyttä osoitteella ',
+			fr: 'Nous sommes actuellement en train de traduire nos politiques en plusieurs langues. Entre-temps, si vous avez besoin d’une copie de ce document en Français ou si vous avez des questions, veuillez nous contacter par e-mail à l’adresse : ',
+			it: 'Stiamo traducendo le nostre politiche in varie lingue ma, nel frattempo, se avete bisogno di una copia di questo documento in Italiano o avete domande, potete contattarci inviando un’e-mail all’indirizzo: ',
+			nl: 'We bevinden ons in het proces voor het vertalen van ons beleid in verschillende talen, maar als u in de tussentijd een kopie van dit document wilt in het Nederlands of als u nog vragen hebt, neem dan contact met ons op via ',
+			no: 'Vi er i ferd med å oversette våre retningslinjer til flere språk, men hvis du i mellomtiden trenger en kopi av dette dokumentet på Norsk eller du har noen spørsmål, vennligst kontakt oss ved å sende en epost til ',
+			pt: 'Estamos no processo de traduzir as nossas políticas para vários idiomas, mas, se precisar de uma cópia deste documento em Português ou tiver alguma dúvida, entre em contacto connosco enviando um e-mail para ',
+			sv: 'Vi håller på att översätta våra policyer till flera språk men under tiden kan du kontakta oss via e-post på Privacy@iacapps.com om du skulle behöva en kopia av detta dokument på Svenska eller om du har några frågor '
+		};
 
 		var translateHeaderData = {
-				'da': 'OVERSÆTTELSER',
-				'de': 'ÜBERSETZUNGEN',
-				'es': 'TRADUCCIONES',
-				'fi': 'KÄÄNNÖKSET',
-				'fr': 'TRADUCTIONS',
-				'it': 'TRADUZIONI',
-				'nl': 'VERTALINGEN',
-				'no': 'OVERSETTELSE',
-				'pt': 'TRADUÇÕES',
-				'sv': 'ÖVERSÄTTNINGAR',
-			};
+			da: 'OVERSÆTTELSER',
+			de: 'ÜBERSETZUNGEN',
+			es: 'TRADUCCIONES',
+			fi: 'KÄÄNNÖKSET',
+			fr: 'TRADUCTIONS',
+			it: 'TRADUZIONI',
+			nl: 'VERTALINGEN',
+			no: 'OVERSETTELSE',
+			pt: 'TRADUÇÕES',
+			sv: 'ÖVERSÄTTNINGAR'
+		};
 
 		if(translateTextData[lang]) {
-			var translatedHeaderElement = document.querySelector('#translatedHeader');
-			var translatedTextElement = document.querySelector('#translatedText');
+			var translatedHeaderElement = document.getElementById('translatedHeader');
+			var translatedTextElement = document.getElementById('translatedText');
 			translatedHeaderElement.innerHTML = translateHeaderData[lang];
 			translatedTextElement.innerHTML = translateTextData[lang] + '<a href="mailto:Privacy@iacapps.com">Privacy@iacapps.com</a>';
 		}
 
-		var linkTagList = document.querySelectorAll('a');
+		var linkTagList = document.getElementsByTagName('a');
 
-		linkTagList.forEach((linkElement) => {
-			var link = linkElement.href && new URL(linkElement.href);
+		for (var linkElement = 0; linkElement < linkTagList.length; linkElement++) {
+			var link = linkTagList[linkElement];
+			var linkQueryParams = link.search.substr(1).split('&');
+
+			var linkParams = {};
+			for(var param = 0; param < linkQueryParams.length; param++) {
+				var chunks = linkQueryParams[param].split('=');
+				var key = chunks[0];
+				var value = chunks[1];
+				linkParams[key] = value;
+			}
+
 			if (
-				link
-				&& link.host === 'eula.mindspark.com'
-				&& link.pathname.match(/\/(eula|privacypolicy|cookies|tos)\//)
-				&& !Array.from(link.searchParams.keys()).includes('lang')
+					link
+					&& link.hostname === 'eula.mindspark.com'
+					&& link.pathname.match(/(eula|privacypolicy|cookies|tos)\//)
+					&& !(linkParams.hasOwnProperty('lang'))
 			) {
-					Array.from(urlParams.entries()).forEach((entry) => {
-						if(entry[0] === 'lang') {
-							link.searchParams.append(entry[0], entry[1]);
-							linkElement.href = link.href;
-						}
-					});
+				for (var key in urlParams) {
+					if(urlParams.hasOwnProperty(key) && key === 'lang') {
+						var updatedLink = link.href.concat((link.href.indexOf('?') > -1) ? '&' : '?' +key+'='+urlParams[key]);
+						link.href = updatedLink;
+					}
 				}
-		});
+			}
+		}
 
 	</script>
 
