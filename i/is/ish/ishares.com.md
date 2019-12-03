@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322142513id_/https%3A//www.blackrock.com/corporate/compliance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203110754id_/https%3A//www.ishares.com/us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | BlackRock
+# Privacy Policy
 
 Last revised: May 11 2018
 
 This Privacy Policy is designed to help you understand what information we gather about you, what we use that information for, and with whom we share that information. It also sets out your rights in relation to your information and whom you may contact for more information or queries. Click on the links below to take you to the more detailed sections of this Privacy Policy:
 
-  * To whom this privacy statement applies and what it covers 
+  * To whom this privacy statement applies and what it covers 
   * About other areas of blackrock.com and ishares.com
-  * What information we collect 
-  * How we use information about you 
-  * The legal grounds we rely on for processing personal information 
-  * To whom we disclose your information 
-  * Protection of your personal information 
-  * How long we keep your information for 
-  * Your rights and how to contact us 
+  * What information we collect 
+  * How we use information about you 
+  * The legal grounds we rely on for processing personal information 
+  * To whom we disclose your information 
+  * Protection of your personal information 
+  * How long we keep your information for 
+  * Your rights and how to contact us 
   * Changes to this privacy statement.
 
 
 
 **To whom this privacy policy applies and what it covers**
 
-This privacy policy applies to each member of BlackRock’s group of companies (the “ **BlackRock Group** ”) and the entities we own or control (“ **BlackRock** ” or “ **we** ”, “ **us** ” or “ **our** ”). For more details on each of us (including our names, registered office addresses and contact details), please click [here](https://www.blackrock.com/corporate/global-directory "Contact us").  
+This privacy policy applies to each member of BlackRock’s group of companies (the “ **BlackRock Group** ”) and the entities we own or control (“ **BlackRock** ” or “ **we** ”, “ **us** ” or “ **our** ”). For more details on each of us (including our names, registered office addresses and contact details), please click [here](https://www.blackrock.com/corporate/global-directory "Contact us").
 
-BlackRock recognizes the importance of protecting your personal and financial information and is committed to doing this. This Privacy Policy sets out how we collect, handle, store and protect information about you when:
+BlackRock recognizes the importance of protecting your personal and financial information and is committed to doing this. This Privacy Policy sets out how we collect, handle, store and protect information about you when:
 
   * we provide products or services to you or our client;
   * you visit or use our Website; and/or
@@ -31,7 +31,7 @@ BlackRock recognizes the importance of protecting your personal and financial in
 
 
 
-When we refer to “ **our Website** ” or “ **this Website** ” in this Privacy Policy, we mean the specific webpages of blackrock.com or ishares.com, and to specific webpages with a URL that begin with or contain blackrock.com/… or ishares.com/… .
+When we refer to “ **our Website** ” or “ **this Website** ” in this Privacy Policy, we mean the specific webpages of blackrock.com or ishares.com, and to specific webpages with a URL that begin with or contain blackrock.com/… or ishares.com/… .
 
 BlackRock.com and iShares.com are comprised of various global, country or regional websites, each of which is provided by BlackRock.
 
@@ -70,11 +70,11 @@ In many cases, we also use your personal information to conduct due diligence ch
 Because we provide a wide range of products and services to our clients, the way in which we use personal information in relation to our products and services varies. For example, we use personal information about you when:
 
   * you use our risk management platform, Aladdin
-  * we provide you or your employer with an insurance product or service
-  * you or your employer engage us to provide investment management or similar services 
+  * we provide you or your employer with an insurance product or service
+  * you or your employer engage us to provide investment management or similar services
   * you privately invest in a fund product managed by a member of the BlackRock Group
   * you engage a member of the BlackRock Group to provide investment management services
-  * you provide us with your personal information via email or a web form.
+  * you provide us with your personal information via email or a web form.
 
 
 
@@ -82,10 +82,10 @@ Because we provide a wide range of products and services to our clients, the way
 
 We generally use your personal information collected via this Website:
 
-  * to manage and improve any services provided via our Website 
-  * to manage and improve our Website (including by drawing up statistics on the usage of our Website)
-  * to tailor content of our Website to provide you with a more personalized experience and draw your attention to information about products and services that may be of interest to you
-  * to manage and respond to any request that you submit through our Website
+  * to manage and improve any services provided via our Website
+  * to manage and improve our Website (including by drawing up statistics on the usage of our Website)
+  * to tailor content of our Website to provide you with a more personalised experience and draw your attention to information about products and services that may be of interest to you
+  * to manage and respond to any request that you submit through our Website
   * to help us learn more about you, the products and services that you or your employer receive from BlackRock, and other products and services that you or your employer might be interested in receiving
   * to correspond with you in relation to services you use on our Website or information you provide via our Website. This correspondence is usually with you, other members of the BlackRock Group, our service providers, or public or judicial authorities with the necessary authorisation.
 
@@ -113,26 +113,26 @@ We generally also use your personal information collected via this Website for t
 
 We are required by law to set out in this Privacy Policy the legal grounds on which we rely in order to process your personal information.
 
-We generally use your personal information for the purposes outlined above because: (a) it is necessary for our legitimate interests and does not unduly affect your interests or fundamental rights and freedoms (see below); (b) it is necessary for legal and/or regulatory obligations or requests that we are subject to, such as keeping records for tax purposes or providing information to a public body or law enforcement agency; (c) it is necessary to perform contractual obligations that we owe towards you or our client, or to take pre-contractual steps at the request of you or our client; (d) it is necessary for the performance of a task carried out in the public interest (such as assisting with diversity in the workplace where you make contact through our Website in relation to job opportunities at BlackRock); or (e) in some cases, we have obtained your prior consent.
+We generally use your personal information for the purposes outlined above because: (a) it is necessary for our legitimate interests and does not unduly affect your interests or fundamental rights and freedoms (see below); (b) it is necessary for legal and/or regulatory obligations or requests that we are subject to, such as keeping records for tax purposes or providing information to a public body or law enforcement agency; (c) it is necessary to perform contractual obligations that we owe towards you or our client, or to take pre-contractual steps at the request of you or our client; (d) it is necessary for the performance of a task carried out in the public interest (such as assisting with diversity in the workplace where you make contact through our Website in relation to job opportunities at BlackRock); or (e) in some cases, we have obtained your prior consent.
 
-Examples of the ‘legitimate interests’ referenced above are: (i) to benefit from cost-effective services (for example, we may opt to use certain IT platforms offered by our service providers); (ii) to assess and verify any job application that you submit through the Website; (iii) to prevent fraud or criminal activity, misuses of our products and services, as well as the security of our IT systems, architecture and networks; (iv) to exercise our rights under Articles 16 and 17 of the Charter of Fundamental Rights of the European Union, including our freedom to conduct a business and right to property; and (v) to meet our corporate and social responsibility objectives.
+Examples of the ‘legitimate interests’ referenced above are: (i) to benefit from cost-effective services (for example, we may opt to use certain IT platforms offered by our service providers); (ii) to assess and verify any job application that you submit through the Website; (iii) to prevent fraud or criminal activity, misuses of our products and services, as well as the security of our IT systems, architecture and networks; (iv) to exercise our rights under Articles 16 and 17 of the Charter of Fundamental Rights of the European Union, including our freedom to conduct a business and right to property; and (v) to meet our corporate and social responsibility objectives.
 
 To the extent that we process any sensitive personal information relating to you for any of the purposes outlined above, we will do so because either: (1) you have given us your explicit consent to process that information; (2) the processing is necessary for reasons of substantial public interest on the basis of applicable law (for example where we are required by law or regulatory requirements to process that information in order to ensure we meet our ‘know your client’ and ‘anti money laundering’ obligations); (3) the processing is necessary to carry out our obligations under employment, social security or social protection law; or (4) the processing is necessary for the establishment, exercise or defense of legal claims. The legal grounds for processing sensitive personal information outlined above at (1) to (4) appear at Articles 9(2)(a), 9(2)(g), 9(2)(b) and 9(2)(f) of the EU’s General Data Protection Regulation respectively.
 
 Where we are legally required to obtain your explicit consent to provide you with certain marketing materials, we will only provide you with such marketing materials where we have obtained such consent from you.
 
 If you do not want to continue receiving any marketing materials from us, you can click on the unsubscribe function in the communication or e-mail  
-[groupprivacy@blackrock.com](mailto:groupprivacy@blackrock.com) at any time.
+[groupprivacy@blackrock.com](mailto:groupprivacy@blackrock.com) at any time.
 
 **To whom we disclose your information**
 
 In connection with one or more of the purposes outlined in the “ **How we use information about you** ” section above, we generally disclose details about you to: other members of the BlackRock Group; professional advisors and third parties that provide services to us and/or other members of the BlackRock Group (such as IT systems providers, platform providers, financial advisors, consultants (including lawyers and accountants), providers of HR and recruitment services and other goods and services providers (such as providers of marketing services where we are permitted to disclose your personal information to them); intermediaries, brokers, and other individuals and entities that partner with us; competent authorities (including any national and/or international regulatory or enforcement body or court or other form of tribunal, where we (or any other member of the BlackRock Group) are required to do so by applicable law or regulation at their request); a potential buyer, transferee, merger partner or seller and their advisers in connection with an actual or potential transfer or merger of part or all of BlackRock’s business or assets, or any associated rights or interests, or to acquire a business or enter into a merger with it; credit reference agencies or other organizations that help us detect criminal activity and incidence of fraud; and any central or local government department and other statutory or public bodies.
 
-If you are an individual in the European Union, please note that some of the recipients of your personal information referenced above will be based in countries outside of the European Union whose laws may not provide the same level of data protection. Those countries typically include: the United States, Canada, Singapore, and India. In such cases, BlackRock will ensure that there are adequate safeguards in place to protect your personal information that comply with our legal obligations. To ensure this level of protection for your personal information, BlackRock typically uses a data transfer agreement with the recipient based on standard contractual clauses approved by the European Commission. A copy of these clauses is available here: <https://ec.europa.eu/info/law/law-topic/data-protection_en>. Further details of the transfers of your personal information outside of the European Union and the adequate safeguards used by BlackRock in respect of such transfers (including copies of relevant agreements) are available from us by contacting [groupprivacy@blackrock.com](mailto:groupprivacy@blackrock.com). You can also use this e-mail address to request further information about the entities that comprise the BlackRock Group and the countries in which they operate.
+If you are an individual in the European Union, please note that some of the recipients of your personal information referenced above will be based in countries outside of the European Union whose laws may not provide the same level of data protection. Those countries typically include: the United States, Canada, Singapore, and India. In such cases, BlackRock will ensure that there are adequate safeguards in place to protect your personal information that comply with our legal obligations. To ensure this level of protection for your personal information, BlackRock typically uses a data transfer agreement with the recipient based on standard contractual clauses approved by the European Commission. A copy of these clauses is available here: <http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm>. Further details of the transfers of your personal information outside of the European Union and the adequate safeguards used by BlackRock in respect of such transfers (including copies of relevant agreements) are available from us by contacting [groupprivacy@blackrock.com](mailto:groupprivacy@blackrock.com). You can also use this e-mail address to request further information about the entities that comprise the BlackRock Group and the countries in which they operate.
 
 **How long we keep your personal information**
 
-We will hold your personal information on BlackRock’s systems for as long as is necessary to fulfill the purpose for which it was collected or to comply with legal, regulatory or internal policy requirements.
+We will hold your personal information on BlackRock’s systems for as long as is necessary to fulfil the purpose for which it was collected or to comply with legal, regulatory or internal policy requirements.
 
 **Protection of your personal information**
 
@@ -153,7 +153,7 @@ We use a range of physical, electronic and managerial measures to ensure that we
 
 
 
-Although we use appropriate security measures once we have received your personal information, the transmission of data over the internet (including by e-mail) is never completely secure. We endeavor to protect personal information, but we cannot guarantee the security of data transmitted to us or by us.
+Although we use appropriate security measures once we have received your personal information, the transmission of data over the internet (including by e-mail) is never completely secure. We endeavour to protect personal information, but we cannot guarantee the security of data transmitted to us or by us.
 
 **Your rights and how to contact us**
 
@@ -167,10 +167,10 @@ You have various rights in relation to your personal information. In particular,
 
 
 
-To exercise any of your rights, or if you have any other questions about our use of your personal information, please e-mail [groupprivacy@blackrock.com](mailto:groupprivacy@blackrock.com) or write to BlackRock’s Global Privacy and Data Protection Officer at 12 Throgmorton Avenue, London, EC2N 2DL, United Kingdom. You may also use these contact details if you wish to make a complaint to us relating to your privacy.
+To exercise any of your rights, or if you have any other questions about our use of your personal information, please e-mail [groupprivacy@blackrock.com](mailto:groupprivacy@blackrock.com) or write to BlackRock’s Global Privacy and Data Protection Officer at 12 Throgmorton Avenue, London, EC2N 2DL, United Kingdom. You may also use these contact details if you wish to make a complaint to us relating to your privacy.
 
-If you are unhappy with the way we handled your personal information or any privacy query or request that you have raised with us, you also have a right to complain to a data protection regulator in the place where you live or work, or in the place where you think an issue in relation to your data has arisen. A list of national data protection regulators can be found here:   
-<https://ec.europa.eu/info/policies/justice-and-fundamental-rights_en>.
+If you are unhappy with the way we handled your personal information or any privacy query or request that you have raised with us, you also have a right to complain to a data protection regulator in the place where you live or work, or in the place where you think an issue in relation to your data has arisen. A list of national data protection regulators can be found here:   
+<http://ec.europa.eu/justice/dataprotection/bodies/authorities/index_en.htm>.
 
 **Changes to this privacy statement**
 
@@ -184,22 +184,22 @@ Any future changes or additions to the processing of your personal data as descr
 
 Cookies are small text files that are stored in your computer’s memory and hard drive, in your mobile device or tablet when you visit certain web pages. They are used to enable websites to function or to provide information to the owners of a website, or other third parties which receive data obtained from that website.
 
-When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience.
+When you visit any web site, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalised web experience.
 
 **Why do we use cookies?**
 
-Cookies help us to provide customized services and information. We use cookies on our Website to tell us, in general terms, how and when pages on our Website are visited, what our users’ technology preferences are – such as what type of video player they use – and whether our Website is functioning properly. Depending on their purpose, some cookies will only operate for the length of a single browsing session, whilst others have a longer life span to ensure that they fulfill their longer-term purposes (as explained in more detail below). Please note that, however long the cookies’ active life may be, you can delete cookies (and therefore stop any further data collection by them) as further described below.
+Cookies help us to provide customised services and information. We use cookies on our Website to tell us, in general terms, how and when pages on our Website are visited, what our users’ technology preferences are – such as what type of video player they use – and whether our Website is functioning properly. Depending on their purpose, some cookies will only operate for the length of a single browsing session, whilst others have a longer life span to ensure that they fulfil their longer-term purposes (as explained in more detail below). Please note that, however long the cookies’ active life may be, you can delete cookies (and therefore stop any further data collection by them) as further described below.
 
-If you are using one of our password-protected sites, then the Website may use cookies or other technology to help us authenticate you, store and recognize your configuration and user attributes, facilitate your navigation of the website and customise its content so that the information made available is likely to be of more interest to you.
+If you are using one of our password-protected sites, then the Website may use cookies or other technology to help us authenticate you, store and recognise your configuration and user attributes, facilitate your navigation of the website and customise its content so that the information made available is likely to be of more interest to you.
 
 In broad terms, we use cookies on our Website for the following purposes:
 
-  * **Analytical purposes** : Analytical cookies allow us to recognize, measure and track visitors to our Website and compile a record of this usage information. This helps us to improve and develop the way our Website works, for example, by determining whether site visitors can find information easily, or by identifying the aspects of websites that are of the most interest to them.
+  * **Analytical purposes** : Analytical cookies allow us to recognise, measure and track visitors to our Website and compile a record of this usage information. This helps us to improve and develop the way our Website works, for example, by determining whether site visitors can find information easily, or by identifying the aspects of websites that are of the most interest to them.
   * **Usage preferences** : Some of the cookies on our Website are activated when visitors to our sites make a choice about their usage of the site. Our Website then ‘remembers’ the settings preferences of the user concerned. This allows us to tailor aspects of our sites to the individual user.
   * **Terms and conditions** : We use cookies on our Website in order to record when a site visitor has seen a policy, such as this one, or provided consent, such as consent to the terms and conditions on our Website. This helps to improve the user’s experience of the site – for example, it aids in avoiding a situation where a user is asked repeatedly to consent to the same terms. We also track whether a user has seen other similar documents (such as an online survey) before – again, to ensure that a user’s experience of our Website is a smooth one.
   * **Session management** : The software that runs our Website uses cookies for technical purposes needed by the internal workings of our servers. For instance, we use cookies to distribute requests among multiple servers, to authenticate users, and to determine what features of the site they can access, verify the origin of requests, keep track of information about a user’s session and determine which options or pages to display in order for the site to function.
   * **Functional purposes** : Functional purpose cookies store information that is needed by our applications to process and operate. For example, where transactions or requests within an application involve multiple workflow stages, cookies are used to store the information from each stage temporarily, in order to facilitate completion of the overall transaction or request.
-  * **Advertising** : Advertising cookies allow us (or third parties) to monitor the behavior of users of our Website. This information is used to ensure that products and services highlighted to those individuals are targeted in a focused and relevant manner – e.g. through advertisements on BlackRock websites or through advertisements on third party websites (e.g., Bloomberg, Agefi.com, Handlesblatt.de, etc) which are based on your experience with our Website; or to monitor the effectiveness of those digital marketing campaigns. We also monitor whether the adverts displayed on our Website are of interest to users and retain this information to ensure that adverts seen by users of our Website over a period of time are appropriate.
+  * **Advertising** : Advertising cookies allow us (or third parties) to monitor the behaviour of users of our Website. This information is used to ensure that products and services highlighted to those individuals are targeted in a focused and relevant manner – e.g. through advertisements on BlackRock websites or through advertisements on third party websites (e.g., Bloomberg, Agefi.com, Handlesblatt.de, etc) which are based on your experience with our Website; or to monitor the effectiveness of those digital marketing campaigns. We also monitor whether the adverts displayed on our Website are of interest to users and retain this information to ensure that adverts seen by users of our Website over a period of time are appropriate.
 
 
 
@@ -207,13 +207,13 @@ In broad terms, we use cookies on our Website for the following purposes:
 
 **Your cookie preferences**
 
-Cookies are necessary in order for you to be able to make full use of BlackRock’s Website. In addition, cookies help us provide you with personalized features on our Website. If you chose to disable cookies, some of BlackRock’s Website’s functionality might be impaired.
+Cookies are necessary in order for you to be able to make full use of BlackRock’s Website. In addition, cookies help us provide you with personalised features on our Website. If you chose to disable cookies, some of BlackRock’s Website’s functionality might be impaired.
 
 **Local Flash Storage**
 
 On certain pages of our Website, we include content designed for display using Adobe Flash Player, such as animations, videos and tools. Local flash storage (often referred to as “Flash cookies”) can be used to help improve your experience as a user. Flash storage is retained on your device in much the same way as standard cookies, but is managed directly by your Flash software.
 
-If you wish to disable or delete information stored locally in Flash, please see the documentation for your Flash software, located at [www.adobe.com](http://www.adobe.com/ "Visit Adobe."). Please note that, if you disable Flash cookies, some site functionality may not work.
+If you wish to disable or delete information stored locally in Flash, please see the documentation for your Flash software, located at [www.adobe.com](http://www.adobe.com/ "Visit Adobe."). Please note that, if you disable Flash cookies, some site functionality may not work.
 
 **Third party cookies**
 
@@ -223,8 +223,8 @@ When you visit our Website, you may receive cookies that are set by third partie
 
 If you wish to remove cookies set by our Website from your browser in the future, you may delete them. The instructions for removing cookies from your computer or mobile device depend on the operating system and web browser you use. Please note, however, that withdrawing your agreement to the use of cookies on our sites will impair the functionality of the sites.
 
- The site [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Visit all about Cookies.") includes instructions for managing cookies on many commonly used browses, or you may consult the vendor documentation for your specific software.
+The site [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Visit all about Cookies.") includes instructions for managing cookies on many commonly used browses, or you may consult the vendor documentation for your specific software.
 
 **Further information about cookies**
 
-If you would like to find out more about cookies in general and how to manage them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Visit all about Cookies.").
+If you would like to find out more about cookies in general and how to manage them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "Visit all about Cookies.").
