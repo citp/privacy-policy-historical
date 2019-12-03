@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401150156id_/https%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203183914id_/https%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Vivid Seats
 
