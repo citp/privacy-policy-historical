@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reservecalifornia.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506061009id_/http%3A//www.parks.ca.gov/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reservecalifornia.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203170211id_/http%3A//www.parks.ca.gov/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,4 +54,4 @@ The Department of Parks and Recreation will not distribute or sell any electroni
 
 The Department of Parks and Recreation Privacy Officer is responsible for the overall implementation and enforcement of this privacy policy.
 
-Questions, comments or complaints regarding this privacy policy or requests for personal information access, correction, or deletion should be addressed to: [privacy@resources.ca.gov](mailto:privacy@resources.ca.gov)
+Questions, comments or complaints regarding this privacy policy or requests for personal information access, correction, or deletion should be addressed to: [privacy@parks.ca.gov](mailto:privacy@parks.ca.gov)
