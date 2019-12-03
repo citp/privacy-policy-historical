@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycarmex.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324010013id_/https%3A//www.mycarmex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycarmex.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203072440id_/https%3A//www.mycarmex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Carmex
 
