@@ -1,74 +1,295 @@
-> *The following text is extracted and transformed from the cloudcraft.co privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610105645id_/https%3A//cloudcraft.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudcraft.co privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203163155id_/https%3A//cloudcraft.co/privacy) for the most accurate reproduction.*
 
-# Cloudcraft - Privacy Policy
+# Privacy Policy - Cloudcraft
 
-### **Your privacy is critically important to us. At Cloudcraft we have a few fundamental principles:**
+We aim for transparency about how we collect, use, and share information. This policy is intended to help you understand:
 
-  * We don’t ask you for personal information unless we truly need it. (We can’t stand services that ask you for personal details for no apparent reason.) 
-  * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights. 
-  * We don’t store personal information on our servers unless required for the on-going operation of one of our services. 
-  * In our products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted. 
+We welcome your comments or questions regarding this Privacy Policy. Please e-mail us at [privacy@cloudcraft.co](mailto:privacy@cloudcraft.co)
+
+Cloudcraft collects some Personal Data from its Users.
+
+## Owner and Data Controller
+
+Cloudcraft Inc   
+228 Park Ave S #53541   
+New York, NY 10003   
+USA
+
+**Owner contact email:** privacy@cloudcraft.co
+
+## Types of Data collected
+
+Among the types of Personal Data that Cloudcraft collects, by itself or through third parties, there are: Cookies, Usage Data, email address, first name, last name and company name. 
+
+Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
+Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Cloudcraft.  
+Unless specified otherwise, all Data requested by Cloudcraft is mandatory and failure to provide this Data may make it impossible for Cloudcraft to provide its services. In cases where Cloudcraft specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.  
+Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.  
+Any use of Cookies – or of other tracking tools – by Cloudcraft or by the owners of third-party services used by Cloudcraft serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy, if available.
+
+Users are responsible for any third-party Personal Data obtained, published or shared through Cloudcraft and confirm that they have the third party's consent to provide the Data to the Owner.
+
+## Mode and place of processing the Data
+
+### Methods of processing
+
+The Owner takes appropriate security measures to prevent unauthorized access, disclosure, modification, or unauthorized destruction of the Data.  
+The Data processing is carried out using computers and/or IT enabled tools, following organizational procedures and modes strictly related to the purposes indicated. In addition to the Owner, in some cases, the Data may be accessible to certain types of persons in charge, involved with the operation of Cloudcraft (administration, sales, marketing, legal, system administration) or external parties (such as third-party technical service providers, mail carriers, hosting providers, IT companies, communications agencies) appointed, if necessary, as Data Processors by the Owner. The updated list of these parties may be requested from the Owner at any time.
+
+### Legal basis of processing
+
+The Owner may process Personal Data relating to Users if one of the following applies:
+
+  * Users have given their consent for one or more specific purposes. Note: Under some legislations the Owner may be allowed to process Personal Data until the User objects to such processing (“opt-out”), without having to rely on consent or any other of the following legal bases. This, however, does not apply, whenever the processing of Personal Data is subject to European data protection law;
+  * provision of Data is necessary for the performance of an agreement with the User and/or for any pre-contractual obligations thereof;
+  * processing is necessary for compliance with a legal obligation to which the Owner is subject;
+  * processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in the Owner;
+  * processing is necessary for the purposes of the legitimate interests pursued by the Owner or by a third party.
 
 
 
-Cloudcraft provides a service for software developers, architects and technical designers to create cloud software architectures and systems. We have prepared this Privacy Policy to describe to you our practices regarding the use of data that we collect from our website at cloudcraft.co (“Website”) and through our Services. For purpose of this Privacy Policy “Personal Data” means data that allows someone to identify or contact you, such as your name, phone number and/or e-mail address. 
+In any case, the Owner will gladly help to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Data is a statutory or contractual requirement, or a requirement necessary to enter into a contract. 
 
-## User Consent
+### Place
 
-By submitting or making available data through our Website or Services as described below, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your data in accordance with this Privacy Policy. Your data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of data may be less stringent than the laws in your country.
+The Data is processed at the Owner's operating offices and in any other places where the parties involved in the processing are located.
 
-## Information Provided by Visitors
+Depending on the User's location, data transfers may involve transferring the User's Data to a country other than their own. To find out more about the place of processing of such transferred Data, Users can check the section containing details about the processing of Personal Data.
 
-If you visit our Website, we may collect Personal Data from you, such as first and last name, organization name, e-mail address and password if you decide to register to receive information or schedule a demo. If you provide us feedback or contact us via e-mail (e.g., in response to an employment opportunity posted on our website), we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply, and any information that you submit to us, such as a resume. 
+Users are also entitled to learn about the legal basis of Data transfers to a country outside the European Union or to any international organization governed by public international law or set up by two or more countries, such as the UN, and about the security measures taken by the Owner to safeguard their Data.
 
-## Information that We may Collect via Technological Means:
+If any such transfer takes place, Users can find out more by checking the relevant sections of this document or inquire with the Owner using the information provided in the contact section.
 
-Our servers (which may be hosted by a third-party service provider) may collect data from you, such as browser type, operating system, IP address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time stamp for your visit. Like most Internet services, we automatically gather this data and store it in log files each time you visit our website or access your account on our network. 
+### Retention time
 
-We may also use “cookies”, i.e., small pieces of information that a website sends to your computer’s hard drive while you are viewing a web site. We link the information we store in cookies to the personally identifiable information you submit while on our site. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our website. Persistent cookies can be removed by following Internet browser help file directions. If you choose to disable cookies, some areas of our website may not work properly. The use of cookies by our partners, affiliates or service providers is not covered by our privacy statement. We do not have access or control over these cookies. These third parties may use session ID cookies to improve the quality of experience when you interact with our products. We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. Our Site is not designed to respond to “do not track” signals received from browsers.
+Personal Data shall be processed and stored for as long as required by the purpose they have been collected for.
 
-## Information that we may collect from our Customers:
+Therefore:
 
-If you decide to purchase the Services and become a Cloudcraft customer (“Customer”), we may collect additional information from you. 
+  * Personal Data collected for purposes related to the performance of a contract between the Owner and the User shall be retained until such contract has been fully performed.
+  * Personal Data collected for the purposes of the Owner’s legitimate interests shall be retained as long as needed to fulfill such purposes. Users may find specific information regarding the legitimate interests pursued by the Owner within the relevant sections of this document or by contacting the Owner.
 
-First, we – or our third-party credit card or payment processor on our behalf – will collect Personal Data including your credit card number or account information. 
 
-Second, you’ll be required to set your profile, tell us how to contact your organization when faults are detected by the organization’s monitoring tools, and create accounts for the on-call engineers on your team. You’ll be able to set up your preferred contact methods (e.g., phone, email) and you will be required to provide the applicable contact information (“Contact Information”). 
 
-We use the Personal Data for two basic purposes: provide and improve the Website and the Services.
+The Owner may be allowed to retain Personal Data for a longer period whenever the User has given consent to such processing, as long as such consent is not withdrawn. Furthermore, the Owner may be obliged to retain Personal Data for a longer period whenever required to do so for the performance of a legal obligation or upon order of an authority.
 
-We may also use Personal Data to facilitate the creation of and secure your account on our network; identify you as a user in our system; provide improved administration of our Website and Services; improve the quality of experience when you interact with our Website and Services; detect and address anomalies, respond to your inquiries related to employment opportunities or other requests; send promotional communications; provide you with hardcopy or electronic newsletters, or surveys; send upgrades and special offers related to our Services and related services and for other marketing purposes of Cloudcraft, should you request to receive such communications from us; make telephone calls to you, from time to time, as a part of secondary fraud protection or to solicit your feedback.
+Once the retention period expires, Personal Data shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after expiration of the retention period.
 
-We may also analyze request and usage patterns so that we may enhance the content of the Website and Services or improve their respective functionalities, or for other business purposes.
+## The purposes of processing
 
-We may share your data with third parties to provide technical support or to provide specific services, such as hosting and payment processing.
+The Data concerning the User is collected to allow the Owner to provide its Services, as well as for the following purposes: Analytics, Hosting and backend infrastructure, Handling payments, Managing support and contact requests, Infrastructure monitoring, Contacting the User and Registration and authentication. 
 
-Regardless of any choices you make regarding your Personal Data (as described below), Cloudcraft may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Cloudcraft; or (b) protect or defend the rights or property of Cloudcraft or users of the Services or related services.
+Users can find further detailed information about such purposes of processing and about the specific Personal Data used for each purpose in the respective sections of this document.
 
-We may also share any information collected under this Privacy Policy with any of our affiliates, or in connection with any merger, sale of assets, financing, acquisition, or in any other situation where used information may be disclosed or transferred as one of our business assets.
+## Detailed information on the processing of Personal Data
 
-Except as otherwise stated in this policy, we do not sell, trade, share, or rent the Personal Data collected from our services to third parties other than as outlined in this policy. You expressly consent to the sharing of your Personal Data as described in this Privacy Policy.
+Personal Data is collected for the following purposes and using the following services:
 
-We offer you choices regarding the collection, use, and sharing of your Personal Data.
+### Analytics
 
-## Opt-Out
+The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
 
-We may periodically send you free newsletters and e-mails that directly promote the use of our site or the purchase of our Services or services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” (either through your account or by following the unsubscribe instructions provided in the e-mail you receive). Despite your indicated e-mail preferences, we may send you notices of any updates to our Terms of Service or Privacy Policy or other communications that are necessary to administer your account (e.g., for billing purposes).
+#### Google Analytics (Google Inc.)
 
-## Ability to Edit or Delete Personal Information
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of Cloudcraft, to prepare reports on its activities and share them with other Google services.  
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
 
-You may edit any of your Personal Data in your account, including Contact Information (and/or notification rules), by editing your profile. You may also request that we delete your account information by sending an email to support@cloudcraft.co, but please note that we may be required (by law or otherwise) to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). We will use reasonable efforts respond to requests to access Personal Data within 30 days. When we delete or edit account information, it will no longer be available to you, but may remain in our archives. We will otherwise retain your information for as long as your account is active or as needed to provide you services as well as is necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+Personal Data collected: Cookies and Usage Data. 
 
-Cloudcraft processes Contact Information under the direction of the applicable Customer (data controller) and has no direct relationship with the individuals (e.g., IT Personnel) whose personal data it processes. Any individual who seeks access, or who seeks to edit or delete inaccurate Contact Information should direct his or her query to the applicable Customer. It is the Customer’s responsibility to edit or delete (or have edited or deleted) such Contact Information as set forth above.
+Place of processing: United States – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en). Privacy Shield participant. 
 
-Cloudcraft is committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. When you enter sensitive information on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL). We also require you to enter a password to access your account information. Please do not disclose your account password to unauthorized people. Despite these measures, you should know that Cloudcraft cannot fully eliminate security risks associated with Personal Data and mistakes and security breaches may happen. If you have any questions about security on our Web site, you can contact us at the information below.
+### Contacting the User
 
-## Links to Third Party Sites
+#### Mailing list or newsletter (Cloudcraft)
 
-Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave our site and go to another site. During this process, a third party may collect data, including Personal Data, from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on a link to a third party. We encourage you to carefully read the privacy statement of any Web site you visit.
+By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning Cloudcraft. Your email address might also be added to this list as a result of signing up to Cloudcraft or after making a purchase.
 
-We do not intentionally gather Personal Data about visitors who are under the age of 13.
+Personal Data collected: email address, first name and last name. 
 
-Cloudcraft welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at privacy@cloudcraft.co
+### Handling payments
 
-This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Data, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our website. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you of the changes, thirty (30) calendar days following our posting of notice of the changes on our site, or the date that you accept the changes (e.g., by clicking an “I Accept” button or similar means). These changes will be effective immediately for new users of our website, Services or related services. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+Payment processing services enable Cloudcraft to process payments by credit card, bank transfer or other means. To ensure greater security, Cloudcraft shares only the information necessary to execute the transaction with the financial intermediaries handling the transaction.  
+Some of these services may also enable the sending of timed messages to the User, such as emails containing invoices or notifications concerning the payment.
+
+#### Stripe (Stripe Inc)
+
+Stripe is a payment service provided by Stripe Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](https://stripe.com/terms/US). Privacy Shield participant. 
+
+### Hosting and backend infrastructure
+
+This type of service has the purpose of hosting Data and files that enable Cloudcraft to run and be distributed as well as to provide a ready-made infrastructure to run specific features or parts of Cloudcraft. Some of these services work through geographically distributed servers, making it difficult to determine the actual location where the Personal Data are stored.
+
+#### Amazon Web Services (AWS) (Amazon Web Services, Inc.)
+
+Amazon Web Services is a hosting and backend service provided by Amazon.com Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](https://aws.amazon.com/privacy/). Privacy Shield participant. 
+
+### Infrastructure monitoring
+
+This type of service allows Cloudcraft to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.  
+Which Personal Data are processed depends on the characteristics and mode of implementation of these services, whose function is to filter the activities of Cloudcraft.
+
+#### Rollbar (Rollbar, Inc.)
+
+Rollbar is a monitoring service provided by Rollbar, Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](https://rollbar.com/privacy/). 
+
+### Managing support and contact requests
+
+This type of service allows Cloudcraft to manage support and contact requests received via email or by other means, such as the contact form.  
+The Personal Data processed depend on the information provided by the User in the messages and the means used for communication (e.g. email address).
+
+#### Help Scout (Brightwurks Inc.)
+
+Help Scout is a support and contact request management service provided by Brightwurks Inc.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](https://www.helpscout.net/privacy-policy/). 
+
+### Registration and authentication
+
+By registering or authenticating, Users allow Cloudcraft to identify them and give them access to dedicated services.  
+Depending on what is described below, third parties may provide registration and authentication services. In this case, Cloudcraft will be able to access some Data, stored by these third-party services, for registration or identification purposes.
+
+#### Direct registration (Cloudcraft)
+
+The User registers by filling out the registration form and providing the Personal Data directly to Cloudcraft.
+
+Personal Data collected: company name, email address, first name and last name. 
+
+#### Google OAuth (Google Inc.)
+
+Google OAuth is a registration and authentication service provided by Google Inc. and is connected to the Google network.
+
+Personal Data collected: various types of Data as specified in the privacy policy of the service. 
+
+Place of processing: United States – [Privacy Policy](https://www.google.com/policies/privacy/). Privacy Shield participant. 
+
+## Further information about Personal Data
+
+### Selling goods and services online
+
+The Personal Data collected are used to provide the User with services or to sell goods, including payment and possible delivery.  
+The Personal Data collected to complete the payment may include the credit card, the bank account used for the transfer, or any other means of payment envisaged. The kind of Data collected by Cloudcraft depends on the payment system used.
+
+## The rights of Users
+
+Users may exercise certain rights regarding their Data processed by the Owner.
+
+In particular, Users have the right to do the following:
+
+  * **Withdraw their consent at any time.** Users have the right to withdraw consent where they have previously given their consent to the processing of their Personal Data.
+  * **Object to processing of their Data.** Users have the right to object to the processing of their Data if the processing is carried out on a legal basis other than consent. Further details are provided in the dedicated section below.
+  * **Access their Data.** Users have the right to learn if Data is being processed by the Owner, obtain disclosure regarding certain aspects of the processing and obtain a copy of the Data undergoing processing.
+  * **Verify and seek rectification.** Users have the right to verify the accuracy of their Data and ask for it to be updated or corrected.
+  * **Restrict the processing of their Data.** Users have the right, under certain circumstances, to restrict the processing of their Data. In this case, the Owner will not process their Data for any purpose other than storing it. 
+  * **Have their Personal Data deleted or otherwise removed.** Users have the right, under certain circumstances, to obtain the erasure of their Data from the Owner.
+  * **Receive their Data and have it transferred to another controller.** Users have the right to receive their Data in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that the Data is processed by automated means and that the processing is based on the User's consent, on a contract which the User is part of or on pre-contractual obligations thereof.
+  * **Lodge a complaint.** Users have the right to bring a claim before their competent data protection authority.
+
+
+
+### Details about the right to object to processing
+
+Where Personal Data is processed for a public interest, in the exercise of an official authority vested in the Owner or for the purposes of the legitimate interests pursued by the Owner, Users may object to such processing by providing a ground related to their particular situation to justify the objection.
+
+Users must know that, however, should their Personal Data be processed for direct marketing purposes, they can object to that processing at any time without providing any justification. To learn, whether the Owner is processing Personal Data for direct marketing purposes, Users may refer to the relevant sections of this document. 
+
+### How to exercise these rights
+
+Any requests to exercise User rights can be directed to the Owner through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by the Owner as early as possible and always within one month.
+
+## Cookie Policy
+
+Cloudcraft uses Cookies. To learn more and for a detailed cookie notice, the User may consult the [Cookie Policy](https://www.iubenda.com/private/privacy-policy/1220384/cookie-policy "Cookie Policy").
+
+## Additional information about Data collection and processing
+
+### Legal action
+
+The User's Personal Data may be used for legal purposes by the Owner in Court or in the stages leading to possible legal action arising from improper use of Cloudcraft or the related Services.  
+The User declares to be aware that the Owner may be required to reveal personal data upon request of public authorities. 
+
+### Additional information about User's Personal Data
+
+In addition to the information contained in this privacy policy, Cloudcraft may provide the User with additional and contextual information concerning particular Services or the collection and processing of Personal Data upon request. 
+
+### System logs and maintenance
+
+For operation and maintenance purposes, Cloudcraft and any third-party services may collect files that record interaction with Cloudcraft (System logs) use other Personal Data (such as the IP Address) for this purpose. 
+
+### Information not contained in this policy
+
+More details concerning the collection or processing of Personal Data may be requested from the Owner at any time. Please see the contact information at the beginning of this document. 
+
+### How “Do Not Track” requests are handled
+
+Cloudcraft does not support “Do Not Track” requests.  
+To determine whether any of the third-party services it uses honor the “Do Not Track” requests, please read their privacy policies. 
+
+### Changes to this privacy policy
+
+The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within Cloudcraft and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. 
+
+Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required. 
+
+###  Definitions and legal references 
+
+#### Personal Data (or Data)
+
+Any information that directly, indirectly, or in connection with other information — including a personal identification number — allows for the identification or identifiability of a natural person.
+
+#### Usage Data
+
+Information collected automatically through Cloudcraft (or third-party services employed in Cloudcraft), which can include: the IP addresses or domain names of the computers utilized by the Users who use Cloudcraft, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.
+
+#### User
+
+The individual using Cloudcraft who, unless otherwise specified, coincides with the Data Subject.
+
+#### Data Subject
+
+The natural person to whom the Personal Data refers.
+
+#### Data Processor (or Data Supervisor)
+
+The natural or legal person, public authority, agency or other body which processes Personal Data on behalf of the Controller, as described in this privacy policy.
+
+#### Data Controller (or Owner)
+
+The natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of Personal Data, including the security measures concerning the operation and use of Cloudcraft. The Data Controller, unless otherwise specified, is the Owner of Cloudcraft.
+
+####  Cloudcraft (or this Application) 
+
+The means by which the Personal Data of the User is collected and processed.
+
+#### Service
+
+The service provided by Cloudcraft as described in the relative terms (if available) and on this site/application.
+
+#### European Union (or EU) 
+
+Unless otherwise specified, all references made within this document to the European Union include all current member states to the European Union and the European Economic Area. 
+
+#### Cookies
+
+Small sets of data stored in the User's device.
+
+#### Legal information
+
+This privacy statement has been prepared based on provisions of multiple legislations, including Art. 13/14 of Regulation (EU) 2016/679 (General Data Protection Regulation).
+
+This privacy policy relates solely to Cloudcraft, if not stated otherwise within this document.
+
+Latest update: May 24, 2018 
