@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fromvalskitchen.com privacy policy that was archived on 2018-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180527153315id_/http%3A//www.fromvalskitchen.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromvalskitchen.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203185108id_/https%3A//www.fromvalskitchen.com/privacy) for the most accurate reproduction.*
 
-# Privacy - From Val's Kitchen
+# Privacy ~ From Val's Kitchen
 
 This privacy policy sets out how uses and protects any information that you give while using www.fromvalskitchen.com.
 
@@ -12,9 +12,11 @@ What we collect
 
 We may collect the following information:
 
-contact information including email address  
-demographic information such as zip code, preferences and interests  
-other information relevant to customer surveys and/or offers
+  * contact information including email address
+  * demographic information such as zip code, preferences and interests
+  * other information relevant to customer surveys and/or offers
+
+
 
 What we do with the information we gather
 
@@ -40,7 +42,7 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Advertising
 
-Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website, one of which is http://www.gourmetads.com. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
 
 Links to other websites
 
@@ -54,9 +56,5 @@ whenever you are asked to fill in a form on the website, look for the box that y
 if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-Opt Out
-
-For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
