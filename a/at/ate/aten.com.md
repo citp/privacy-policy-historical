@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aten.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322122712id_/https%3A//www.aten.com/global/en/legal/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aten.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203054555id_/https%3A//www.aten.com/us/en/legal/policies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ATEN U.S.A.
 
 ## On May 25, 2018, the most important and significant piece of European Data Protection Regulation (GDPR) replaces the 1995 Data Protection Directive. We know that preparing for this regulatory change is a priority for many of our customers and it's equally an important priority for us. We have updated our privacy policy which will take effect immediately for new users and existing users immediately.
 
