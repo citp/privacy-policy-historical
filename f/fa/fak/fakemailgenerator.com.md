@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakemailgenerator.com privacy policy that was archived on 2018-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180612210019id_/http%3A//www.fakemailgenerator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakemailgenerator.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203141927id_/http%3A//www.fakemailgenerator.com/privacy-policy) for the most accurate reproduction.*
 
 # Fake Mail Generator - Privacy Policy
 
@@ -18,7 +18,7 @@ We use cookies to store information about visitors' preferences, record user-spe
 
   * Google, as a third party vendor, uses cookies to serve ads on this website.
   * Google's use of the DART cookie enables it to serve ads to our users based on their visits to this website and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: <http://www.google.com/privacy_ads.html>
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL: [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
 
 
