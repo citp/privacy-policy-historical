@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331224822id_/https%3A//www.incrediblecharts.com/legal/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203014041id_/https%3A//www.incrediblecharts.com/legal/privacy_policy.php) for the most accurate reproduction.*
 
 # Incredible Charts: Privacy Policy
 
@@ -80,9 +80,4 @@ If you have any questions regarding privacy, please [contact us](https://web.arc
 
 We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. This policy was last updated on November 12th 2014.
 
-| 
-
-Perfect Your Market Timing  
-Learn how to manage your market risk.  
-  
----|---
+[](http://www.incrediblecharts.com/free-charting_software/free_download.php)
