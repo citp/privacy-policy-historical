@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arma3.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429161045id_/https%3A//www.bistudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arma3.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203164043id_/https%3A//www.bistudio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bohemia Interactive
 
@@ -57,7 +57,7 @@ We advise you to read our privacy policy below for more specific insights into w
 
 2.2. We process Your personal data for purposes of carrying out Our obligations arising out of contract concluded with You. Without processing Your personal data such contracts cannot be concluded and We cannot carry out the obligations arising thereof. 
 
-  1. If You buy Our products via Bohemia Store You conclude with Us a purchase agreement based on which We are obliged to provide You with the products You purchased. For purposes of delivery of purchased products We have to process Your personal data. 
+  1. If You buy Our products via Bohemia Store You conclude with Us a purchase agreement based on which We are obliged to provide You with the products You purchased. We are also obliged to process the payments for the products You purchased and therefore, have to cooperate with the provider of the Payment Gateway. For purposes of delivery of purchased products and processing of Your payments for such products We have to process Your personal data. 
   2. We process Your personal data You filled during Your registration to Bohemia Account for purposes of providing You with Our Services. You also need to be registered and acquire Bohemia Account to be able to use some of Our Services. Without Your registration We would not be able to identify You and thus provide You with Our Services. 
   3. We also process Your personal data We acquire during Your use of Our Services such as User forums, Bohemia Store, Our community Wiki, Ylands Workshop API, Arma 3 Units/Groups API and feedback tracker for purposes of providing proper functionality of such Services. 
   4. We also process Your personal data when You apply for approval for server monetization. We process Your personal data for purposes of keeping records of granted approvals and for purposes of supervising whether the conditions of Our approvals are followed. 
@@ -90,7 +90,7 @@ We advise you to read our privacy policy below for more specific insights into w
 
 4.2. Personal data collected by Us with regard to Your purchases via Bohemia Store may be transferred to third parties based on the legal obligations We may have. We may disclose some of Your personal data to Tax authorities, criminal law authorities and in certain extent also to judicial authorities. 
 
-4.3. Some of Your personal data regarding Your purchases in Bohemia Store may be shared with Our partners which provide for Us accounting or similar services and which operate Bohemia Store for Us. We may also share necessary subset of Your personal data We collect during Your use of Our Services with Our affiliates in order to operate and improve Our Services. All these partners or affiliates concluded a non-disclosure agreement with Our Company and are also obliged to behave in compliance with Our policies regulating the use of Your personal data. 
+4.3. Some of Your personal data regarding Your purchases in Bohemia Store may be shared with Our partners which provide for Us accounting or similar services, which operate Bohemia Store for Us and which operate the Payment Gateway for processing of Your payments for Your purchases in Bohemia Store. We may also share necessary subset of Your personal data We collect during Your use of Our Services with Our affiliates in order to operate and improve Our Services. All these partners or affiliates concluded a non-disclosure agreement with Our Company and are also obliged to behave in compliance with Our policies regulating the use of Your personal data. 
 
 4.4. Your email address We use for emailing may be shared with providers of such emailing services providing that Your email address cannot be used for any other purpose than the purpose of informing You about Our products and Services. Your personal data we collect in accordance with Sec. 2.3. f) of this Policy may be uploaded on third parties´ servers belonging to providers of analytical functionalities We use for processing of Your data providing that Your personal data cannot be used for any other purpose than the purpose of improving Our games and Your game experience. For enabling users from the whole world to play Our games we have to use third party servers to provide proper functioning of Our games. Data regarding Your playing of Our games may be uploaded to these servers. With providers of servers We use within providing of Our Services to You We have concluded the agreements based on which Your personal data are secured in compliance with GDPR. 
 
@@ -323,6 +323,13 @@ registered office: Nad Pomnikem 467/9, Prague 5, Postcode: 152 00, Czech Republi
 
 |  Purposes of operating Bohemia Store.  
 Purposes of providing accounting and related services.   
+**Global Payments Europe, s.r.o.** ,  
+ID No.: 270 88 936,  
+Registered office: V Olšinách 626/80, Strašnice, 100 00 Prague 10, Czech Republic  | 
+
+  * Email address 
+
+|  Purposes of processing of the payments in Bohemia Store through the Payment Gateway.   
 **The Rocket Science Group LLC** ,  
 Registered office: 75 Ponce de Leon Ave NE, Suite 5000, Atlanta, GA 30308, United States of America  | 
 
