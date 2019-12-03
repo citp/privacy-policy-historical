@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redrightvideos.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331011020id_/https%3A//redrightvideos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redrightvideos.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203160228id_/https%3A//redrightvideos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Red Right Videos
 
@@ -20,7 +20,7 @@ If you send us e-mail, your e-mail address will usually be displayed at the top 
 
 Red Right Videos may use cookies to record your log file and, if you’ve registered to comment, to remember your Red Right Videos login and password for you. We may also grant permission to our advertisers to use cookies in their ads. Cookies are small text files placed automatically on your hard drive by your web browser when you visit certain websites in order to make those sites easier to use. You can configure your browser to disable cookies and/or to alert you when new ones are being sent, but please note that some features of our site might not work properly if you do so.
 
- **Cookies & 3rd Party Advertisements**
+**Cookies & 3rd Party Advertisements**
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
