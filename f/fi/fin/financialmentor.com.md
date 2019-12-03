@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401050614id_/https%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203081907id_/https%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy For Financial Mentor
 
@@ -12,7 +12,7 @@ FinancialMentor.com, a CreateCorp Business Solutions Incorporated web site, crea
 
 ### Located in the EU?
 
-Here’s exactly what you need to know regarding your privacy when using this website:
+Here's exactly what you need to know regarding your privacy when using this website:
 
 **The Personal Data We Collect From You:**
 
@@ -36,7 +36,7 @@ We collect the information above for the following purposes:
   3. **Transaction** : To process a purchase you make with us.
   4. **Free Book Chapters** : To send you the requested chapter of one of my books.
   5. **Calculator Results** : To send you results of the calculator you used.
-  6. **Lessons** : To send you lessons that you’re interested in.
+  6. **Lessons** : To send you lessons that you're interested in.
 
 
 
@@ -84,14 +84,14 @@ FinancialMentor.com provides users the opportunity to correct, update, or opt-ou
 
 In other words, you have the explicit right to control your personal data. Specifically, these are your rights:
 
-  * The right to be informed: You’re being informed by reading this policy.
+  * The right to be informed: You're being informed by reading this policy.
   * The right of access: We will provide you with the data we have on you.
   * The right to rectification: You may request that we fix incorrect data about you.
   * The right to erasure: You may also request that we erase certain data about you.
   * The right to restrict processing: You can ask us to restrict certain types of processing of your personal information.
   * The right to data portability: You may ask us to provide your personal data for export.
   * The right to object: You can object to how we use your data.
-  * Rights in relation to automated decision making and profiling: We don’t profile you, but keep in mind you have this right with other websites that might.
+  * Rights in relation to automated decision making and profiling: We don't profile you, but keep in mind you have this right with other websites that might.
 
 
 
@@ -99,7 +99,7 @@ To exercise any of these rights, please contact me at todd (at) financialmentor 
 
 **Your Right to Withdraw** **Consent**
 
-Although we mentioned this above, we want to emphasize that you have the right to withdraw any consent that you’ve previously given with regard to the collection or processing of your personal data.
+Although we mentioned this above, we want to emphasize that you have the right to withdraw any consent that you've previously given with regard to the collection or processing of your personal data.
 
 You can use the “unsubscribe” link contained at the footer of each email from us to withdraw consent and stop the mailings. Alternatively, you can contact me with your request, either by emailing me separately (todd [at] financialmentor [dot] com) or by replying directly to the email you received.
 
@@ -109,7 +109,7 @@ No. We are located in the United States, and your data is collected and held her
 
 **Privacy Concerns, Contacting Us, Complaints, Etc.**
 
-You can contact me at todd (at) financialmentor (dot) com with any questions or requests you have about these policies or your personal data. If, after contacting me, you feel a privacy issue hasn’t been resolved, you have the right to file a complaint with a Supervisory Authority such as the [Data Protection Commissioner of Ireland](https://www.dataprotection.ie/docs/Making-a-Complaint-to-the-Data-Protection-Commissioner/18.htm).
+You can contact me at todd (at) financialmentor (dot) com with any questions or requests you have about these policies or your personal data. If, after contacting me, you feel a privacy issue hasn't been resolved, you have the right to file a complaint with a Supervisory Authority such as the [Data Protection Commissioner of Ireland](https://www.dataprotection.ie/docs/Making-a-Complaint-to-the-Data-Protection-Commissioner/18.htm).
 
 **Data Controller**
 
@@ -131,7 +131,7 @@ Pursuant to the California Online Privacy Protection Act, we hereby disclose tha
 
 **California Eraser Law** :
 
-If you’re an individual under 18 and have provided personal information or content to us in some manner, you have the right to request deletion of that information pursuant to the “California Eraser Law.” Contact me to make such a request at todd (at) financialmentor (dot) com.
+If you're an individual under 18 and have provided personal information or content to us in some manner, you have the right to request deletion of that information pursuant to the “California Eraser Law.” Contact me to make such a request at todd (at) financialmentor (dot) com.
 
 ### For Visitors Regardless of Location **:**
 
