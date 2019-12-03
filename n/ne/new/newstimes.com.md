@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2018-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181005162139id_/https%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newstimes.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203030230id_/https%3A//www.newstimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsTimes
 
-**Last Updated: May 24, 2018**
+**Last Updated: Feb 18, 2019**
 
 ## Privacy Notice – Highlights
 
@@ -62,7 +62,8 @@ Read more here.
   * We use a variety of security technologies and procedures to help protect information from unauthorized access, use or disclosure.
   * The Digital Services are operated from the United States. Information may be processed and stored in the United States or other countries.
   * The Digital Services are not intended for use by children under the age of 13.
-  * This Privacy Notice is part of the [Terms of Use](https://web.archive.org/web/20181005162139id_/https://www.newstimes.com/tos), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.
+  * This Privacy Notice is part of the [Terms of Use](https://web.archive.org/web/20191203030230id_/https://www.newstimes.com/tos), which govern your use of the Digital Services and any disputes related to your use of the Digital Services (including our use of your information) will be resolved per the dispute resolution provision in the Terms of Use.
+  * If you are accessing the Digital Services from the European Economic Area, additional provisions may be relevant for you. These are included at the end of this Privacy Notice.
 
 
 
@@ -72,7 +73,7 @@ Read more here.
 
 If you have questions about our Privacy Notice you can contact us by email at [privacy@hearst.com](mailto:privacy@hearst.com).
 
-**Last Updated: May 24, 2018**
+**Last Updated: February 18th, 2019**
 
 ## PRIVACY NOTICE
 
@@ -90,6 +91,7 @@ If you have questions about our Privacy Notice you can contact us by email at [p
   12. Dispute Resolution/Terms of Use 
   13. Changes to This Privacy Notice
   14. Contact Us
+  15. Additional Information for European Visitors
 
 
 
@@ -293,7 +295,7 @@ This Privacy Notice does not apply to web pages hosting our careers or job oppor
 
 ### L. DISPUTE RESOLUTION/TERMS OF USE
 
-Any dispute concerning the Digital Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Use](https://web.archive.org/web/20181005162139id_/https://www.newstimes.com/tos), which govern your use of the Digital Services. Please take a few minutes to read the Terms of Use before using the Digital Services.
+Any dispute concerning the Digital Services (including our use of your personal information) will be resolved per the dispute resolution provision in the [Terms of Use](https://web.archive.org/web/20191203030230id_/https://www.newstimes.com/tos), which govern your use of the Digital Services. Please take a few minutes to read the Terms of Use before using the Digital Services.
 
 ### M. CHANGES TO THIS PRIVACY NOTICE
 
@@ -302,3 +304,57 @@ We may update this Privacy Notice from time to time to reflect changes in our pr
 ### N. CONTACT US
 
 If you have any questions about this Privacy Notice, please contact us by email at [privacy@hearst.com](mailto:privacy@hearst.com).
+
+### O. ADDITIONAL INFORMATION FOR EUROPEAN VISITORS
+
+In order to address our legal obligations in Europe (including the UK), Hearst provides the following additional information for Europe-based visitors to Hearst's U.S. Digital Services.
+
+**Who is Responsible for Your Information?**
+
+If you use or interact with a Hearst U.S. Digital Service then the data controller will be the entity listed at the top of this Privacy Notice. The contact details for this entity are provided in the “Contact Us” section above. Legal Bases for Using Your Information
+
+We process personal information for different purposes (as described in the “How We Use Information We Obtain” section, above) on the following legal bases:
+
+  1. To perform our contractual obligations to you. We and our service providers process your information to perform our contractual obligations to you when we use your information to provide you with the Digital Services and related content, products or services and to communicate with you. For example, when you purchase a subscription from us, we process your payment and contact information as necessary to confirm the subscription and we process your contact information and other details to provide you with support services you request. We also send you informational communications on this basis, including to confirm a subscription or to notify you of a change to a Digital Service. Failure to provide requested information could prevent or delay the fulfilment of our contractual obligations.
+  2. To pursue our legitimate interests. We process your information to meet our legitimate interests when we use your information to provide you with the Digital Services and related content, products or services, to communicate with you and for our advertising and marketing purposes. For example, our legitimate interests include making improvements to, customizing and understanding how you interact with the Digital Services and related content, products or services, and sending you communications about products and services we think may be of interest to you. To accomplish our legitimate interests, we may share your information with our affiliates and subsidiaries, service providers and business partners (including for our advertising and marketing purposes) and in the context of a corporate transaction. We maintain safeguards to protect the information we process to pursue our legitimate interests.
+  3. To comply with our legal obligations. We process and share your information as necessary to comply with our legal obligations when we use your information to protect our rights or the rights of others and when we share your information with other parties where required by law or as necessary to protect our rights. For example, we are required to collect certain information from you when processing your subscription payment for tax or financial reporting reasons.
+  4. With your consent. We obtain your consent to process your information when we are required to do so by law. If consent is the legal basis on which we process your personal information, you can withdraw your consent at any time by contacting us using the information provided in the “Contact Us” section above.
+
+
+
+**Your Rights Over Your Information**
+
+In certain circumstances, you have a right to access or object to the use of personal information held about you (including in relation to direct marketing). You can also ask us to rectify, update, erase, restrict or to share your information in a usable format with another company. Such requests are subject to applicable law.
+
+We encourage you to contact us to update or correct your information if it changes or if the personal information we hold about you is inaccurate.
+
+If you would like to discuss or exercise such rights, please contact us at [datarequestsnewspapers@hearst.com](mailto:datarequestsnewspapers@hearst.com). We will contact you if we need additional information from you in order to honor your requests.
+
+**Storing Your Information**
+
+We will keep your personal information for as long as we have a relationship with you. Once our relationship with you has come to an end, we will retain your personal information for a period of time that enables us to:
+
+  1. Maintain business records for analysis, understanding market trends and/or audit purposes and to improve the Digital Services.
+  2. Comply with record retention requirements under applicable laws or other relevant legal or regulatory requirements.
+  3. Defend, establish, exercise or bring any existing or potential legal claims.
+  4. Carry out fraud detection and prevention.
+  5. Deal with any complaints regarding the Digital Services, our products and services.
+
+We will delete your personal information when it is no longer required for these purposes. If there is any information that we are unable, for technical reasons, to delete from our systems, we will put in place appropriate measures to prevent any further processing or use of the data.
+
+**International Data Transfers**
+
+Information collected through the Digital Services will be processed in and subject to the laws of the United States, which may not provide the same level of protection for your personal information as your home country. If we transfer personal data from the European Economic Area and Switzerland we put in place safeguards. In particular, such safeguards include European Commission-approved standard contractual clauses. For more information on these safeguards, please contact us at the details provided in the “ **Contact Us** ” section above.
+
+**Changes to the Privacy Notice**
+
+Where changes to this Privacy Notice have a fundamental impact on the nature of the processing or otherwise have a substantial impact on you, we will give you advanced notice so that you have the opportunity to exercise your rights (e.g. to object to the processing).
+
+**Privacy Officer and Complaints**
+
+Our Privacy Officer can be contacted at [privacy@hearst.com](mailto:privacy@hearst.com).
+
+We are committed to working with you to obtain a fair resolution in the event you have a complaint or concern about privacy. If, however, you believe that we have not been able to assist with your complaint or concern, you have the right to make a complaint to a data protection authority.
+
+
+
