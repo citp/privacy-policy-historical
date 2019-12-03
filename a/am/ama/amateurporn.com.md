@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the amateurporn.com privacy policy that was archived on 2019-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190421144541id_/https%3A//www.amateurporn.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurporn.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203094553id_/https%3A//apclips.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | AmateurPorn.com
+# Privacy Policy | APClips.com
 
 ## Privacy Policy
 
-**AmateurPorn.com Privacy Policy  **
+**APClips.com Privacy Policy  **
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -78,13 +78,7 @@ Users will be notified of any privacy policy changes: 
 We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
  **Does our site allow third party behavioral tracking?**  
-It's also important to note that we do not allow third party behavioral tracking 
-
- **COPPA (Children Online Privacy Protection Act)**
-
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
-
-We do not specifically market to children under 13.
+It's also important to note that we do not allow third party behavioral tracking
 
  **Fair Information Practices**
 
@@ -121,7 +115,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-AmateurPorn.com 
+APClips.com 
 
 8581 Santa Monica Blvd
 
