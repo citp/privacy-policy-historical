@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329165159id_/https%3A//www.woodcraft.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodcraft.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203181742id_/https%3A//www.woodcraft.com/pages/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Woodcraft
 
