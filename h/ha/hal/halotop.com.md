@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the halotop.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629024204id_/https%3A//halotop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halotop.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203111159id_/https%3A//halotop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — HALO TOP®
+# Privacy Policy | HALO TOP®
 
-**PRIVACY POLICY**
+## **PRIVACY POLICY**
 
 Eden Creamery LLC, d/b/a Halo Top Creamery, its direct and indirect subsidiaries, parents and affiliates (collectively, “ **Halo Top** ”, “ **us** ” or “ **we** ”) are concerned about online privacy issues and want you to be familiar with how we collect, use and disclose any personal information that individually identifies you (e.g. your name, address, phone number, e-mail address). As used in this privacy policy (the “ **Privacy Policy** ”), personal information means any information about an identifiable individual. This Privacy Policy explains our online information practices and the choices you, as a visitor to any web page, web site application or platform offered through any social media website operated or provided by Halo Top related to its United States operations (collectively, “ **Halo Top Websites** ” and each is a “ **Halo Top Website** ”) can make about the collection and use of your personal information. We will only collect, use and disclose your personal information in accordance with this Privacy Policy.
 
@@ -10,14 +10,11 @@ Eden Creamery LLC, d/b/a Halo Top Creamery, its direct and indirect subsidiaries
 
 We may collect personal information from you when you voluntarily provide it to us through a number of features available on or through a Halo Top Website. For example, we may ask you to provide personal information if you:
 
-  * ask to receive online information from us, such as e-mail newsletters or e-mail updates;
+ask to receive online information from us, such as e-mail newsletters or e-mail updates;
 
-  * participate in a review, survey, a consumer research panel, or similar type of activity; and/or
+participate in a review, survey, a consumer research panel, or similar type of activity; and/or
 
-  * otherwise participate in features of a Halo Top Website that ask for personal information.
-
-
-
+otherwise participate in features of a Halo Top Website that ask for personal information.
 
 In addition, if you otherwise request any information, service or other offering from us, you may be required to provide your contact or other information in order for us to process your request.
 
@@ -53,15 +50,15 @@ If you use social and/or other interactive features that may be available on a H
 
  **SHOPIFY**
 
-Our Merchandise and Pint Shop is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our merchandise and pints to you.   
+Our Merchandise and Pint Shop is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our merchandise and pints to you.  
 Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
 Payment  
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted. 
+If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
-All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.   
-PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.   
-For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement [here](https://www.shopify.com/legal/privacy).
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.  
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
+For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
 
  **CHILDREN’S PRIVACY**
 
