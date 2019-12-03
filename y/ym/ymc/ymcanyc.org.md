@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603145829id_/https%3A//ymcanyc.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymcanyc.org privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203144721id_/https%3A//ymcanyc.org/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NEW YORK CITY'S YMCA
+# Privacy Policy | YMCA OF GREATER NEW YORK
 
 You do not have to provide personal information to use our Website.  However, particular services provided through the Website require that you furnish personal information.  We collect such personal information only when you provide it to us, for example, in registering for camps and conferences; pledging support through the Web Pledge; becoming a YMCA member; updating information in the Alumni Network; registering for a YMCA Guest Room; and purchasing items from our Internet store or catalogs; and when taking part in promotional opportunities or registering for general information on programs and services.  You may be asked to provide your contact information (such as your name, postal address, telephone numbers and/or email address), financial information (such as credit card numbers) and demographic information (such as your Zip code, age, or income level) in connection with your use of such services.
 
