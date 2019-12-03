@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the se.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630035803id_/https%3A//www.schneider-electric.com/ww/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the se.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203155916id_/https%3A//www.schneider-electric.com/ww/en/about-us/legal/data-privacy.jsp) for the most accurate reproduction.*
 
 # Data Privacy Statement | Schneider Electric
 
@@ -38,7 +38,7 @@ Schneider Electric has also established this Privacy Statement as an external pu
 
 Schneider Electric is a global company, with legal entities, business processes, management organizations, and a system infrastructure that crosses borders. This Privacy Statement applies to all Schneider Electric data processing activities run by our wholly owned subsidiaries, including product and service offerings and digital content (e.g. websites, applications, tutorials, e-training, newsletters, advertising, communication). It may, however, be supplemented by a more specific privacy notice/statement/policy (“statement”) or even superseded by another statement specific to a particular Schneider Electric program, product, service, content or entity. It is important that you read the statements made available to you for your full information. 
 
-The data controllers of the data processing activities are the Schneider Electric subsidiaries who have determined the data processing means and purposes. They may vary on a case by case basis. In many instances, Schneider Electric's Head Office, Schneider Electric Industries SAS, 35 rue Joseph Monier 92500 Rueil Malmaison- France, is the data controller of global data processing activities, including the **[www.schneider-electric.com website](https://www.schneider-electric.com/ww/en/ "Go to corporate website")**. 
+The data controllers of the data processing activities are the Schneider Electric subsidiaries who have determined the data processing means and purposes. They may vary on a case by case basis. In many instances, Schneider Electric's Head Office, Schneider Electric Industries SAS, 35 rue Joseph Monier 92500 Rueil Malmaison- France, is the data controller of global data processing activities, including the **[www.schneider-electric.com website](https://www.se.com/ww/en/ "Go to corporate website")**. 
 
 This Privacy Statement binds all Schneider Electric wholly owned subsidiaries and their employees. 
 
