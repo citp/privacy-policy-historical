@@ -1,166 +1,211 @@
-> *The following text is extracted and transformed from the totalrecipesearch.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512141755id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalrecipesearch.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203022252id_/https%3A//eula.mindspark.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy Summary
+# Privacy Policy
 
-### YOUR PRIVACY RIGHTS: PRIVACY POLICY FOR THE FUNWEBPRODUCTS™ SUITE OF WEBSITES AND RELATED SERVICES
+Last Updated: **June 12, 2019**
 
-**Last Updated: October 20, 2010**
+  
 
-Mindspark Interactive Network, Inc. (MINDSPARK), respects the privacy of users of our FunWebProducts suite of websites and services, and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. These privacy policies (the "Privacy Policy") are intended to describe for you, as an individual who is a user of the Webfetti.com, SmileyCentral.com, SmileyCreator.com, CursorMania.com, Kazulah.com, PopularScreensavers.com and/or MyFunCards.com website(s) or related social network application(s) or service(s) (each, an "FWP Product" and collectively, the "FWP Products") the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
-**PLEASE NOTE: Zwinky.com and related applications and services are governed by a separate privacy policy available[here](http://info.zwinky.com/zwinkyinfo/privacy.jhtml). IWON.com and related applications and services are governed by a separate privacy policy available [here](http://www.iwon.com/home/modules/pages/support/privacypolicy.jhtml).** Other MINDSPARK websites, services and applications that are not a part of the FWP Products are governed by independent terms of services and privacy policies.
+* * *
 
-We encourage you to read this Privacy Policy carefully when using any of our FWP Products or transacting business with us. By using any of our FWP Products, you are accepting the practices described in this Privacy Policy. Mindspark Interactive Network, Inc. is a part of the IAC family of businesses ([www.iac.com](http://www.iac.com/)), which includes Ask.com, iWon.com, Girlsense.com, Life123.com, Citysearch, Vimeo.com, Evite, Match.com, ServiceMagic, Gifts.com, Pronto, Shoebuy, College Humor, and many others. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+SUMMARY
 
-### INFORMATION WE COLLECT ABOUT YOU
+At Ask Apps, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes the practices concerning the information collected by the Ask Apps family of companies consisting of Ask Applications, Inc. (f/k/a Mindspark Interactive Network, Inc. and APN, LLC) and IAC Search and Media Europe Limited ("Ask Apps", "we", "us" and "our") through the use of the (i) websites and applications (the "Ask Apps Products") and (ii) our "Search Applications" made available by means of a search box on a Ask Apps Product or website from which you can access our search services.
 
-_In General_
+Collectively, we refer to the Ask Apps Products and these Search Applications in this Privacy Policy as the "Ask Apps Services".
 
-. We may collect personal information that can identify you, such as your name and email address, and other information that does not identify you. When you provide personal information through any of the FWP Products, the information may be sent to servers located in the United States and other countries around the world.
+Ask Apps respects the privacy of users of the Ask Apps Services, and has developed this privacy policy (the "Privacy Policy") to demonstrate our commitment to protecting your privacy. This Privacy Policy is intended to describe for you the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully. If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us. Unless indicated otherwise Ask Apps Services are subject to our [Terms of Service](https://eula.mindspark.com/tos/), this Privacy Policy, and for downloadable software (where applicable) the [End User License Agreement](https://eula.mindspark.com/eula/). Certain Ask Apps Services may be subject to different privacy policies and/or terms of service as indicated on the sites from where those services are available and/ or accessed.
 
-  * **Information you provide.** We may collect and store any personal information you enter on or via the FWP Products or provide to us in some other manner, including personal information that may be contained in any video, comment or other submission you upload or post to any FWP Product. This includes identifying information, such as your name, address, e-mail address, and telephone number and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date or other financial information). We also may request information about your interests and activities, your gender and age, and other demographic information. 
-  * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, social networks, contractors and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information. 
-    * Note about Social Networks. If you choose to login to an FWP Product via a social networking site, you are granting Mindspark permission to access and use general information about you, as provided by the social network, for purposes of establishing a unique FWP Product account for you. For example, if you use Facebook Connect® to login to a Webfetti application, per Facebook policies, Facebook may provide Mindspark access to your and your friends' names, profile pictures, gender, user IDs, connections, and any content shared using the "Everyone" privacy setting. Facebook may also make information about the location of your computer or access device and your age available to applications and websites in order to help them implement appropriate security measures and control the distribution of age-appropriate content. We strongly recommend that you review the policies of any social networks you use to make sure you are comfortable with the ways in which they use information you share with them.
-  * **Information about others.** We may also collect and store personal information about other people that you provide to us. If you use any FWP Product to send others (friends, relatives, colleagues, etc.) a product such as a gift, information that may interest them or messages (such as invitations) through our system, we may store your personal information, and the personal information of each such recipient. If you use any FWP Product to store other people's contact information or event info (such as birthdays, anniversaries, etc.), we will store such information until you delete it. Similarly, if you use any FWP Product to upload, share and/or distribute content (including videos, comments or other submissions), and such content contains personal information about others, such information may be stored in order to allow for such uploading, sharing and/or distribution.
+We have recently updated our policies and we are in the process of translating it into several languages. If you do not have an appropriate language option and you have any questions please contact us via the methods described below.
 
-**PLEASE NOTE:**
+A. WHO WE ARE
 
- _When sending a MyFunCards ecard_ you will be given the option to have the recipient's email address included in your address book and, if such option is selected, their address will be stored until you delete the entry from your address book. Whether you select the option to store the recipient's email address or not, the recipient's information is stored for the time necessary to process and/or deliver the ecard, and may also be stored for a limited amount of time in your "sent cards" history. _When using the MyFunCards calendar functionality as a MyFunCards registered user_ , you will be able to (i) include reminders of your friends', family members' and colleagues' birthdays, anniversaries or other events; or (ii) send a request to friends, family members or colleagues to add birthday or other event information to your account's calendar. If you decide to utilize this functionality or if your friends, family members or colleagues fulfill your request, the relevant information will be stored until you delete the entry from your calendar.
+If you reside in the EEA then the company that is responsible for your personal information is our Irish affiliate IAC Search and Media Europe Limited ("SAM EU").
 
-When using the MyFunCards calendar functionality as a recipient of a request from a MyFunCards user, you will be able to add your birthday or other event information to the MyFunCards user's calendar. If you fulfill the request, the relevant information will be stored until the MyFunCards user deletes the event information from their calendar and/or your contact information from their address book.
+If you reside outside of the EEA then the company that is responsible for your personal information is Ask Apps.
 
- _When using our "tell-a-friend" referral functionality_ , the recipient′s information is not stored for longer than necessary to process and deliver the tell-a-friend notification. _When using Smiley Creator to post Smileys_ to your social networking page(s), the social networking page access information is not stored longer than necessary to process and deliver the Smiley, as requested by the user. 
+Both Ask Apps and SAM EU are member of the IAC family of companies. We are committed to providing you with the best service as well as respecting your privacy - if anything in this Privacy Policy is not clear then please contact us via the methods described below.
 
+B. WHAT WE DO
 
+We provide you with a range of services, including websites, browser extensions and search applications. All of these are designed to help you manage your browsing experience in a more customizable fashion. We provide further detail below about the Ask Apps Services.
 
-_Use of cookies and other technologies to collect information_
+SEARCH APPLICATIONS
 
-. We use various technologies to collect information from your computer and about your activities on or via the websites comprising the FWP Products.
+The Search Applications provide features to facilitate Internet search services while using the Ask Apps Products. This search functionality may be implemented through browser settings and extensions. These set your browser homepage, start page, new tab page and/or default search setting(s), depending on which Ask Apps Product you are using and what options you select. We may provide you a way to decline or opt-out of the setting(s) change by unchecking the appropriate checkbox during the download and installation process for the relevant Ask Apps Product that provides access to the Search Applications.
 
-  * **Information collected automatically.** We automatically collect information from your browser when you visit any FWP Product website. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
-  * **Cookies.** When you visit any FWP Product website, we may assign your computer one or more cookies, to facilitate access to our site(s) and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site(s), such as the web pages you visit, the links you click, and the searches you conduct on our site(s). Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on or via certain FWP Products.
-  * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of the FWP Products websites. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
-  * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements or place ad tags or beacons on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Unless expressly stated otherwise, our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+EXTENSIONS
 
+The Ask Apps Products are browser extensions, applications and/or websites that we offer to you. The extensions can be downloaded onto your browser and offer a range of functions, including allowing you to manage and convert your documents, managing your calendar and providing you access to other functionality across the internet. Some of these Ask Apps Products, such as Chrome new tab products, may be available through the online store operated by the browser developer (e.g., the Chrome web store) and the user disclosures and options may vary based on the stores' requirements.
 
+For certain Ask Apps Products, he search features (and other features such as maps, local radio and document management), may be customized by you on your device. In addition, you may be able to disable or remove the default search features by removing or disabling the applicable extension you downloaded or changing your default search within your browser. This will depend on your browser and its relevant features. Click here to go to [our support page](https://support.myway.com/hc/en-us).
 
-### HOW WE USE THE INFORMATION WE COLLECT
+In some Ask Apps Products the Search Applications are provided by Ask, one of our sister companies within the IAC group of companies. This is provided under the Ask brand in which case the relevant Ask Privacy Policy applies. For more information on this please see their privacy policy [here.](https://uk.ask.com/privacy)
 
-_In General_
+C. HOW WE COLLECT INFORMATION
 
-. We may use information that we collect about you to:
+We may collect information from you in a variety of different ways. This is information that may identify you, and anonymous information, such as the number of your page views, link clicks, and login times. Your information may be kept in an identifiable format, or in an aggregate format which means that you cannot reasonably be identified from it. We provide further detail on the type of info we collect, and how we collect it, below: 
 
-  * deliver the products and services that you have requested;
-  * manage your account and provide you with customer support;
-  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
-  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our sister IAC companies or other third parties;
-  * develop and display content and advertising tailored to your interests on our site and other sites;
-  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-  * enforce our terms and conditions;
-  * manage our business and
-  * perform functions as otherwise described to you at the time of collection.
+  1. Information You Provide To Us. We may collect and store any information you provide when using the Ask Apps Services or that you provide in some other manner. This information may include information such as:
+    * Your name, email address, telephone number, username and password. 
+    * Information provided when you log-in to the Ask Apps Services via Facebook or any other social media site (you should review the privacy policy of Facebook or any other social media site through which you choose to log into certain Ask Apps Services)
+    * We also collect and store information and other content you post to the Ask Apps Services, where such features are made available (e.g., MyScrapBook which allows you to centrally save items such as photos).
+    * Further, in order to permit us to protect the quality of our products and services, we may to the extent permitted by applicable law access your account and records on a case by case basis to investigate complaints or other allegations.
+  2. Automatically Captured Information. We automatically collect information from your computer and/or device when you use the Ask Apps Services. This allows us to assess how you have used the Ask Apps Services, the device you have used them on and helps us to analyze how we can optimize the Ask Apps Services for you in the future. This information may include:
+    * Information about your hardware and software such as your IP address, your browser type and language and other browser-related information and a time-stamp
+    * Information about how you use the Search Applications such as the keyword query, search query text, search results clicked, pages viewed and search history.
+    * The content of any of our undeleted cookies, including a unique identifier (see section D "Cookies" below), software installed upon and/or devices connected to your computer and/or device, and the referring website address.
+  3. Other Technologies. We may use standard Internet technology, such as web beacons, cookies and other similar technologies, to track your use of the Ask Apps Services (see our [cookies policy](https://eula.mindspark.com/cookies/)). Web beacons are small pieces of data that are embedded in images on the pages of sites. The information we obtain in this manner enables us to customize the services we offer as part of the Ask Apps Services for our users.
+  4. Third-Parties And Behavioral Advertising.
 
+Third Parties:We may receive information from third-parties, including our authorized service providers, IAC affiliates, advertising companies, and ad networks. These third parties may display ads via the Ask Apps Services. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with these advertisements. (To learn more about cookies generally, please go to our [Cookies policy](https://eula.mindspark.com/cookies/).)We may also use this information to better understand you and your interests. This will allow us to improve and customize the Ask Apps Services.
 
+Please note, some of these third-party advertising companies may be members of the Network Advertising Initiative, or the Digital Advertising Alliance, each of which offers a single location to opt out of ad targeting from member companies.
 
-_Financial information_
+Behavioral Advertising. We work with various companies (such as advertisers, ad networks and data management platforms) to tailor online ads that you see elsewhere on the internet, including through behavioral advertising designed to target users' interests and deliver more relevant advertising.
 
-. We may use financial information or payment method to process payment for any purchases, subscriptions or sales made on any FWP Product website, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business. Please review "YOUR CHOICES ABOUT COLLECTION AND USE OF YOUR INFORMATION" below.
+To provide such ads, these third parties may collect and/or we may disclose to these third parties a unique ID that may be associated with your device's platform or a device/internet browser combination
 
-### WITH WHOM WE SHARE YOUR INFORMATION
+We or these third parties may collect the following information (and similar information):
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our FWP Product websites or while using our services.
+    * Demographic data collected on Ask Apps Services (e.g., age, zip or postal code, gender) and geographic location derived from your IP address on your visits to the Ask Apps Services and non-affiliated websites and applications;
+    * Data about your use of or visits to the Ask Apps Services and non-affiliated websites and applications;
+    * Data on your interaction with the advertisement displayed on third party websites and applications; and
+    * Interest and usage data (such as the pages you view and links you click on) acquired from other companies.
+    * We may disclose any or all of the collected information to third parties.
 
- _Personal information_
+We or these third parties may use the collected information to provide advertisements of interest to you on certain Ask Apps Services and non-affiliated websites and applications and for other purposes described in this privacy policy (such as to improve or customize our products). We have given you the option to opt-in or out of receiving ads tailored on the Ask Apps Services, and you can manage this settings in your Privacy Centre. If you tell us not to send you these types of ads by opting out, you may still see ads, but they will not be specifically tailored to you based on your activity on the Ask Apps Services.
 
-. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
+Our Privacy Centre gives you the option to opt out of receiving personalized ads on the Ask Apps Services, but if you want to learn more about online behavioral advertising and how to opt out in general then please go to [www.aboutads.info/choices](https://www.aboutads.info/choices), [www.networkadvertising.org](https://www.networkadvertising.org/) and/or [www.youronlinechoices.com](https://www.youronlinechoices.com/). If applicable, you may also choose to not participate in Microsoft personalized advertising services by following the instructions here: <https://choice.microsoft.com/en-US>. Please note, if you do not allow us to collect information from you it may result in you being unable to use certain features of the Ask Apps Services including purchase products or services and participate in a contest, promotion, survey, or sweepstakes. Please see our [Cookies policy](https://eula.mindspark.com/cookies/) for further information about our use of these technologies and how you can opt out of cookies
 
-  * **Authorized service providers:** We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, delivering packages, providing customer service and marketing assistance, performing business and sales analysis, supporting our website functionality, providing email or electronic message delivery, and supporting contests, sweepstakes, surveys and other features offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
-  * **Business partners:** When you make purchases, reservations or engage in promotions offered through FWP Product website or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant′s offer or program, you authorize us to provide your email address and other information to that merchant.
-  * **Other IAC businesses.** We are part of the IAC family of businesses (go to [www.iac.com](http://www.iac.com/) for a listing of these businesses). We may share information we collect, including personal information, with the IAC companies. Sharing information with our IAC companies enables us to provide you with information about a variety of products and services that might interest you.
-  * **Other Situations.** We also may disclose your information: 
-    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
-    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
-    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+  5. Mobile:Please note that you cannot opt-out of ads on mobile apps via the site listed above. However, your mobile devices may offer settings that enable users to limit how mobile device ad tracking occurs, using unique device identifiers such as the Apple IDFA and Google Android Advertising ID. Some information about those settings may be reviewed for Apple [here](http://support.apple.com/kb/HT4228) and for Android [here](https://support.google.com/ads/answer/2662922?hl=en). 
+  6. Do not track signals. Ask Apps Services systems are not configured to respond to Web browser "do not track" signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer's online activities over time and across third-party Web sites or online services.
 
 
 
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+To process your information as described above, we rely on the following legal bases:
 
-_Aggregated and non-personal information_
+  * Provide you with the Ask Apps Services: Most of the time, the reason we process your information is to perform the contract that you have with us. For instance, as you go about using our service, we use your information to provide you with a more customized and personal experience.
+  * Legitimate interests: We may use your information where we have legitimate interests to do so. For instance, we analyze users behavior on our services to continuously improve our offerings, ensure it is bug free, and we process information for administrative, fraud detection and other legal purposes.
+  * Consent: From time to time, we may ask for your consent to use your information for certain specific reasons. You may withdraw your consent at any time by either contacting us at the address provided at the end of this Privacy Policy or in certain instances in the options in your Privacy Centre.
 
-. We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and our IAC sister companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our FWP Product websites and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
 
-### NOTICE REGARDING USER-GENERATED-CONTENT
 
-**We do not screen, filter or monitor user submissions to the FWP Product websites, nor do we scrape or glean personal information from any such submissions; however, to the extent that any video, comment or other user submission contains personal information (whether name, likeness, address, telephone number or otherwise, and whether such information pertains to the submitter or someone else), such personal information may be viewed by other users of the website.** See "USER SUBMISSIONS", below.
+D. COOKIES
 
-### THIRD-PARTY WEBSITES
+We use cookies and similar technologies (such as local stored objects) to collect and store information when you interact with the Ask Apps Services, view our emails or view our ads. We, and certain third parties we work with e.g. ad networks and data management platforms, may also use these technologies to better target ads to you based on your online browsing activities. Please see our [Cookies Policy](https://eula.mindspark.com/cookies/index.html) for further information about our use of these technologies, and please see the above Section titled "Third-Parties And Behavioral Advertising" to learn more about how we use information to (and work with others that use information to) provide behavioral targeted advertising.
 
-There are a number of places on or via the FWP Products where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement, social network link, or a search result on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
+E. HOW WE USE THE INFORMATION WE COLLECT
 
-### HOW YOU CAN ACCESS YOUR INFORMATION
+We may use information that we collect about you to: 
 
-If you have registered for any FWP Product and have an online account with us, you have the ability to review and update your personal information online by logging into your account via the relevant FWP Product′s log-in page. You can also review and update your personal information by contacting us. More information about how to contact us is provided below. If you have an online account with us, you also may choose to close your account at any time by contacting customer support at: [customerservice[at]help.smileycentral.com](mailto:customerservice@help.smileycentral.com). After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our website or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties′ policies.
+  * Deliver the Ask Apps Services to you;
+  * Respond to your queries with the best possible answers and search results;
+  * Provide you with customer support;
+  * Perform research and analysis about your use of, or interest in, the Ask Apps Services, or products, services or content offered by others;
+  * Communicate with you by e-mail, postal mail, display media and/or mobile devices about products or services that may be of interest to you either from us, our IAC affiliates or other third parties;
+  * Enable us and our search and advertising partners to develop and display content and advertising tailored to your interests, when you use the Ask Apps Services, other websites and services, or mobile applications;
+  * Verify your eligibility and deliver prizes in connection with contests and sweepstakes;
+  * Enforce our terms and conditions;
+  * Manage our business and protect the quality of the Ask Apps Services, which includes maintenance of the Ask Apps Services systems;
+  * Investigate complaints, abuse or other allegations; and
+  * Perform functions as otherwise described to you at the time of collection.
 
-### UNIFIED REGISTRATION
 
-As a service to our users, we may consolidate registration data for one or more of the FWP Products, and/or for one or more of the FWP Products and certain other specified websites, services or applications offered by MINDSPARK or its affiliated companies, so that users are only required to provide registration information once, and would then be able to use the same unique ID and password to access all such websites, services or applications. Accordingly, if you close your online account related to one of the FWP Products, such closure may affect your ability to sign in to or otherwise use another FWP Product.
 
-### YOUR CHOICES ABOUT COLLECTION AND USE OF YOUR INFORMATION
+F. WITH WHOM WE SHARE YOUR INFORMATION
 
-  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of one or more FWP Product because such information may be required in order for you to register as a member; access certain assets or areas; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our FWP Product websites.
-  * When you register on a FWP Product website, you may be given a choice as to whether you want to receive email messages and/or newsletters about product updates, improvements, special offers, or containing special distributions of content by us. At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by clicking on the following link and entering the email address associated with your account: [click here](http://www.mailunsubscribe.com/optout.jsp?pid=FWP001). You also will be given the opportunity, in any commercial email that we send to you, to opt out of receiving such messages in the future for the FWP Product for which the commercial e-mail was sent. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.
+We share your information with others as indicated below: 
 
-Please note that, changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner or an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party. 
+  1. Authorized service providers: We may share your information with our authorized service providers that perform certain services on our behalf. In certain instances, these service providers may collect information directly from you on our behalf. These services may include: 
+    * providing customer service, technical and operational support, and email services, including registration and account services;
+    * marketing assistance, performing business and sales analysis, billing and payment processing (if we ever accept payments from our users),
+    * supporting our Ask Apps Services functionality, and supporting contests, sweepstakes, surveys and other features offered through our Ask Apps Services, as well as when we have notified you, or you have requested, that we do so.
+These service providers may have access to information, which is needed to perform their functions and provide you with the Ask Apps Services. 
+  2. Advertisers and Ad Networks: As described above advertisers and ad networks, and other third parties may collect information themselves from the Ask Apps Services (or we may provide them with the information described above) for purposes of delivering relevant ads. This assists us in in advertising our services and also providing you with relevant ads based on your browsing interests.
+  3. Business partners: When you engage in promotions offered through the Ask Apps Services, we may share information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
+  4. Search Partners. If you have accessed the Ask Apps Services through an Ask Apps Product or third party application installed on your computer or mobile device, then our search partners that developed or distributed the search application may collect information about you including the queries you submit via our Ask Apps Services, the search application or your browser, as well as the search results and ads you click on and the address of the web pages you previously listed.
+  5. Share with a friend/product specific features. We share information with your friends where you use the "share with the friend functionality" on some of our Ask Apps Services (for example you can use MyFunCards to send a customized e-card to your friends).
+  6. _Group Companies_ : We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC/InterActive Corp for security, internal reporting and regulatory compliance. We may also share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC/InterActive Corp for business intelligence to improve user experience. 
+  7. Other Situations. We may disclose your information (i) in good faith compliance with a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency, (ii) in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; (iii) to protect and defend the rights, property or safety of our company, our users, our employees, or others; (iv) to comply with applicable law or cooperate with law enforcement; (v) to enforce our Ask Apps Services terms and conditions or other agreements or policies; and (vi) in connection with a substantial corporate transaction, such as the sale of our business or the Ask Apps Services (or a majority of the assets of either), a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy. In addition, we may share aggregated information we collect, under any of the above circumstances, with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis.
 
-  * You may tell us not to share your personal information with third parties or the IAC family of companies for direct marketing purposes by clicking on the following link and entering the email address associated with your account: [click here](http://www.mailunsubscribe.com/optout.jsp?pid=FWP001).
 
 
+G. HOW LONG WE KEEP YOUR INFORMATION
 
-### HOW WE PROTECT YOUR PERSONAL INFORMATION
+We only keep your personal information as long as it is necessary for the purposes set out in this Privacy Policy including for legitimate business purposes and as permitted by applicable law. We will only use your information to the extent necessary to comply with our legal obligations, resolve any legal issues, enforce our agreements, and as otherwise described in this policy.
 
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.  
-We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission′s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft. 
+H. WHERE WE STORE YOUR INFORMATION
 
-### USER SUBMISSIONS
+Information we collect, or permit third parties to collect may be transferred to, stored and processed outside your country of residence in any country or territory where one or more of our affiliated group companies, third party service providers or advertising companies or advertising networks are located or maintain facilities, including but not limited to the United States and Ireland.
 
-We may provide areas on the FWP Product websites where you can post information about yourself and others and communicate with others; upload content (e.g. pictures, videos, audio files, etc.); and post comments or reviews of content found on the Website. Such postings are governed by the FunWebProducts EULA (available by clicking [here](http://helpint.mywebsearch.com/intlinfo/eula/eula.jhtml)) or any terms and conditions of use, terms of service or similarly identified terms made available at the relevant FWP Product′s website. In addition, such postings may appear on other websites or when searches are executed on the subject of your posting. Also, whenever you voluntarily disclose personal information on publicly-viewable web pages, that information will be publicly available and can be collected and used by others. For example, if you post your email address, you may receive unsolicited messages. We cannot control who reads your posting or what other users may do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information. Once you have posted information, you may not be able to edit or delete such information.
+When your information is moved from your home country to another country, we ensure that such a transfer is done legally. For users based in the EEA, we may rely on the Model Clauses a standard document created by the European Commission to facilitate data transfers while ensuring that safeguards are put in place for personal information. We do not participate in the EU-US Privacy Shield but we may rely on it to transfer personal information to some of our service providers based in the USA, provided they are certified to receive such personal information pursuant to the Privacy Shield. By using the Ask Apps Services you consent to the transfer of your personal information as described in this Privacy Policy.
 
-### CHILDREN′S PRIVACY
+I. THIRD-PARTY WEBSITES
 
-Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
+There may be places in the Ask Apps Services where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy policy of all third-party websites you visit.
 
-### VISITING OUR WEBSITES FROM OUTSIDE THE UNITED STATES
+J. YOUR RIGHTS
 
-This Privacy Policy is intended to cover collection of information on or via the FWP Products from residents of the United States. If you are using any FWP Product from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+Depending on your location you may have some or all of the following rights in relation to how we use your information: 
 
-### NO RIGHTS OF THIRD PARTIES
+  1. Access ‑ you may request access to your information and receive copies of it;
+  2. Correction to have inaccurate/incomplete information corrected and updated;
+  3. Object to, or Limit or Restrict, Use of your Information: You can ask us to stop using all or some of your information or to limit our use of it.
+  4. Deletion - in certain circumstances, you can request a right to be forgotten (this is a right to have your information deleted or our use of your information restricted, including for example, a right to not have a user's name appear in a search result). We will honor such requests unless we have to retain this information to comply with a legal obligation by European or Member State law or unless we have an overriding interest to retain it
+  5. Portability- in certain circumstances, exercise the right to data portability (this is a right to obtain a transferable version of your information to transfer to another provider)
+  6. Consent Management - Where we rely on consent to process your information, you may withdraw consent at any time and you do not have to provide a reason for your withdrawal to withdraw consent at any time where processing is based on consent.
 
-This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
 
-### CHANGES TO THIS PRIVACY POLICY
 
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "Last Updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an email to the email address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on the FWP Products websites. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+If you wish to exercise any of these rights, or wish to object to our use of your information, please write to us at the address listed below and we will consider your request in accordance with applicable laws. 
 
-### HOW TO CONTACT US
+Keep in mind, we may reject requests for certain reasons, including if the request is unlawful or if it may infringe on the rights and freedoms of another person.
 
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by email or postal mail as follows:
+K. HOW WE PROTECT YOUR INFORMATION
 
-Mindspark Interactive Network, Inc.  
-One North Lexington, 9th Floor  
-White Plains, NY, 10601  
-ATTN: Privacy Officer/Legal Dept.  
-[privacy[at]mindspark.com](mailto:privacy@mindspark.com)  
-END OF DOCUMENT.  
-© 2009 Mindspark Interactive Network, Inc. All rights reserved. 
+The security and confidentiality of you information is very important to us, thus we take certain security measures (including physical, electronic and procedural measures) to help safeguard your information from unauthorized access and disclosure. Please know that, despite our best efforts, no security measures are perfect or impenetrable.
 
-### GLOSSARY:
+You are solely responsible for maintaining the confidentiality of any password you may use to access the Ask Apps Services. You agree not to transfer your user name or password, or lend or otherwise transfer your use of or access to the Ask Apps Services, to any third party. You are fully responsible for all activity that occurs in connection with your user name or password. You agree to immediately notify us of any unauthorized use of your user name or password or any other breach of security related to your account or the Ask Apps Services, and to ensure that you log off/exit from your account (if applicable) at the end of each session. We are not liable for any loss or damage arising from your failure to comply with any of the foregoing obligations.
 
-A cookie is a small text file that is stored on a user′s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.  
-Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. When you sign in to your account on our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.  
-You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.  
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party′s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).  
+L. DATA PROTECTION OFFICER
 
+For our EEA users, our Data Protection Officer is responsible for ensuring your rights are respected and to review and oversee how we collect and use your personal information. They can be reached by contacting [Privacy@iacapps.com](mailto:Privacy@iacapps.com)
 
-Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user′s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.  
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional [or other] e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website. 
+M. CHILDREN'S PRIVACY
+
+Our Ask Apps Services are intended for general audiences over the age of 13 years old (or over the age of 16 if you are resident in the EEA). We do not knowingly collect information from children under the age of 13 years old, or 16 in the EEA. If you are not over 13 years old (or 16 years old in the EEA) then **_DO NOT DOWNLOAD OR USE THE ASK APPS SERVICES_**
+
+N. NO RIGHTS OF THIRD PARTIES
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any information relating to users of the Ask Apps Services.
+
+O. CHANGES TO THIS PRIVACY POLICY
+
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the Last Updated date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your information, we will notify you by posting notice of the changes on or through the applicable Ask Apps Services, or notifying you of these changes in another way reasonably calculated to provide notice. We recommend that you check this page, the help menu within an Ask Apps Product, or this url [http://support.myway.com/](https://support.myway.com/hc/en-us), from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+
+We may acquire or develop new Ask Apps Products and/or Ask Apps Services from time to time that require additional privacy disclosure. In such case, we will add these additional provisions in a product specific annex or section that will only apply to such new Ask Apps Product or Ask Apps Service and will not vary the terms of this Privacy Policy in relation to your use of existing Ask Apps Products and Ask Apps Services (and, as such, we will not be required to notify you of such additional terms unless you also use the new Ask Apps Products or Ask Apps Services).
+
+P. YOUR CALIFORNIA PRIVACY RIGHTS
+
+Under the California Shine The Light law, California residents may opt-out of the disclosure of information to third parties for direct marketing purposes (as those concepts are defined in that law) However, we do not currently engage in the type of sharing covered by that law.
+
+Q. HOW TO CONTACT US
+
+If you have any questions about this Privacy Policy and you are based outside the EEA then please contact: 
+
+EEA users should use the below contact details:
+
+IAC Search and Media Europe Ltd.  
+10 Earlsfort Terrace  
+Dublin 2  
+Ireland  
+[Privacy@iacapps.com](mailto:Privacy@iacapps.com)
+
+You also have the right to complain to the Irish Data Protection Commission or another supervisory authority. You can contact the Office of the Data Protection Commissioner at:  
+Telephone: +353 (0)761 104 800 or Lo Call Number 1890 252 231
+
+END OF DOCUMENT.
+
+©2020 Ask Applications, Inc.® All rights reserved.
