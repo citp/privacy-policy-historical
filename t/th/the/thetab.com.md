@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetab.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601084256id_/http%3A//thetab.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetab.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203164603id_/https%3A//thetab.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Tab
 
@@ -10,13 +10,13 @@ This Privacy and Cookie Policy explains how we collect, use, share, disclose or 
 
 ## **About Us**
 
-Tab Media and its subsidiary companies listed below (together “Tab Media”, “we” or “us”) will collect, use, share and disclose or otherwise process your personal information in line with this Policy. The relevant data controller for your data will depend on which product or service you have interacted with or to which title you have subscribed as set out below. The Tab for the websites and other online properties relating to the student news network The Tab Tab Jobs for The Tab’s job email  Babe.net or Babe for the website and social channels relating to babe.net
+Tab Media and its subsidiary companies listed below (together “Tab Media”, “we” or “us”) will collect, use, share and disclose or otherwise process your personal information in line with this Policy. The relevant data controller for your data will depend on which product or service you have interacted with or to which title you have subscribed as set out below. The Tab for the websites and other online properties relating to the student news network The Tab Tab Jobs for The Tab’s job email Babe.net or Babe for the website and social channels relating to babe.net
 
 ## **Collection of information**
 
 ### **Registration, forums, apps and your dealings with us**
 
-We collect information about you when you provide it to us; for example, when you fill out our online forms, apply to write for us, enter a competition, respond to our promotions, subscribe to a paid product, register for an email newsletter or participate in a reader forum (which could be on any medium). 
+We collect information about you when you provide it to us; for example, when you fill out our online forms, apply to write for us, enter a competition, respond to our promotions, subscribe to a paid product, register for an email newsletter or participate in a reader forum (which could be on any medium).
 
 ### **Information from devices**
 
@@ -54,9 +54,11 @@ All organisations need a legal reason to use your personal information. If they 
 
 There are some activities where we process personal information with your consent. For example, if you sign up to our email newsletter email. If we want to send you separate marketing messages by email, we would ask your permission first and you could opt-out at any time. However, if you opt-out or withdraw consent, we may not be able to provide the product or service you have requested.
 
-### **To enter into and fulfil a contract**
+Job Alerts: Users can subscribe to receive daily job alert emails but can unsubscribe at any time.
 
-We also process your personal information in order to fulfil a contract we have with you. For example, we would use your information to provide you with access to your digital subscription or other products you have signed up for or to provide a prize to which you are entitled.
+### **To enter into and fulfill a contract**
+
+We also process your personal information in order to fulfill a contract we have with you. For example, we would use your information to provide you with access to your digital subscription or other products you have signed up for or to provide a prize to which you are entitled.
 
 ### **For a legitimate interest**
 
@@ -80,7 +82,7 @@ There may be situations where we need to use your information to comply with leg
 ---|---  
 To provide products and services, improve your experience and manage our relationship with you | Consent, Fulfil a Contract, Legitimate Interest, Legal Obligation  
 To personalise content and offers | Consent, Fulfil a Contract, Legitimate Interest  
-To send you direct marketing | Consent, Legitimate Interest  
+To send you direct marketing and job alert emails | Consent, Legitimate Interest  
 To send you product-related and similar product and services communications | Fulfil a Contract, Legitimate Interest  
 To conduct market research and perform analytics | Consent, Legitimate Interest  
 To match data and gain audience insights | Consent, Legitimate Interest  
@@ -92,7 +94,7 @@ To ensure our services are used appropriately | Legitimate Interest, Legal Oblig
 As part of the sale of our business | Consent, Legitimate Interest, Legal Obligation  
 To take payments, check your identity and conduct credit checks | Consent, Performance of a Contract, Legitimate Interest, Legal Obligation  
 To share between group companies for analysis, audience insights, business efficiencies, content personalisation and to deliver relevant advertising | Legitimate Interest  
-To ensure that our products and services conform to agreed industry standard standards | Legitimate Interest  
+To ensure that our products and services conform to agreed industry standard standard  | Legitimate Interest  
   
 ## **How We Use Personal Information**
 
@@ -104,7 +106,7 @@ We will use your information to provide you with products and services you have 
 
 We sometimes make assumptions about your interests based on the way you interact with our products and services and the information we hold about you. For example:
 
-  * For babe subscribers: If we notice that you regularly read one section of the babe website first, then move on to Comments, we may promote articles in those sections or other related content so you get the most out of the product. 
+  * For babe subscribers: If we notice that you regularly read one section of the babe website first, then move on to Comments, we may promote articles in those sections or other related content so you get the most out of the product.
 
 
 
@@ -124,7 +126,7 @@ We will send you information, exclusive offers and promotions about similar prod
 
 ### **To send you product-related communications**
 
-As part of the products and services you have with us, you are entitled to receive newsletters, bulletins, and other “in-life” communications that relate to those products and services, including triggered emails, such as updates you make.  You will be told about the types of communications you will receive when you sign up and you will be able to unsubscribe at any time. However, if you do, you may not get the most out of the products and services you have signed up to.
+As part of the products and services you have with us, you are entitled to receive newsletters, bulletins, and other “in-life” communications that relate to those products and services, including triggered emails, such as updates you make. You will be told about the types of communications you will receive when you sign up and you will be able to unsubscribe at any time. However, if you do, you may not get the most out of the products and services you have signed up to.
 
 ### **Service messages**
 
@@ -136,7 +138,7 @@ We may use your information to conduct market research to improve the services w
 
 ### **To match data and gain audience insights**
 
-Where we have your permission or a legitimate interest, we may compare our customer database with our commercial customers’ and partners’ customer databases. This process allows us to see if a partner’s adverts would reach its existing customers that use our products and services, or we could reach our customers through their products or services. It also helps us to understand if those customers are likely to find promotions from those partners relevant. Where a customer is found to be on both databases, we may use the marketing permissions we hold to send that customer direct marketing. We do this through the use of a trusted third party processor to identify matching customers. We may also provide our commercial customers and partners with information about the effectiveness and reach of advertising campaigns that they have planned or carried out. This information will not identify you directly without your consent. For example, we may tell advertisers how many customers their adverts can reach based on criteria they select (such as “21-year-old men who like football and live in London”) or how many times an advert was viewed. If you would prefer not to have your information used for database matching or audience insights, please email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Where we have your permission or a legitimate interest, we may compare our customer database with our commercial customers’ and partners’ customer databases. This process allows us to see if a partner’s adverts would reach its existing customers that use our products and services, or we could reach our customers through their products or services. It also helps us to understand if those customers are likely to find promotions from those partners relevant. Where a customer is found to be on both databases, we may use the marketing permissions we hold to send that customer direct marketing. We do this through the use of a trusted third party processor to identify matching customers. We may also provide our commercial customers and partners with information about the effectiveness and reach of advertising campaigns that they have planned or carried out. This information will not identify you directly without your consent. For example, we may tell advertisers how many customers their adverts can reach based on criteria they select (such as “21-year-old men who like football and live in London”) or how many times an advert was viewed. If you would prefer not to have your information used for database matching or audience insights, please email editor@thetab.com
 
 ### **To detect ad blockers**
 
@@ -178,7 +180,7 @@ Our services may be linked to websites and apps operated by third party companie
 
 ### **Sharing between Tab Media companies**
 
-Your information will be shared between the Tab Media companies listed in the About Us section above for use in accordance with this Policy. 
+Your information will be shared between the Tab Media companies listed in the About Us section above for use in accordance with this Policy.
 
 ### **Sharing with Commercial Partners**
 
@@ -190,13 +192,13 @@ We may pass your information to our processors – companies that we use to prov
 
 ### **Data transfers**
 
-When you complete our registration forms or use our services, we may transfer your information to our group companies and processors outside the EEA to countries that may not have data protection rules that provide the same level of protection. However, we only transfer your information where there are appropriate measures and controls in place. If you would like to receive a copy of the applicable data transfer safeguards used when your information is transferred outside the EEA to non-adequate countries, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+When you complete our registration forms or use our services, we may transfer your information to our group companies and processors outside the EEA to countries that may not have data protection rules that provide the same level of protection. However, we only transfer your information where there are appropriate measures and controls in place. If you would like to receive a copy of the applicable data transfer safeguards used when your information is transferred outside the EEA to non-adequate countries, please contact us at editor@thetab.com
 
 ## **Access & Control of Your Information**
 
 ### **Updating your information**
 
-Please ensure you update your personal information or tell us if it changes or is inaccurate. You can update your details, for example your email address, in your account settings or an equivalent section if you are a subscriber. You may also email our team at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+Please ensure you update your personal information or tell us if it changes or is inaccurate. You can update your details, for example your email address, in your account settings or an equivalent section if you are a subscriber. You may also email our team at editor@thetab.com
 
 ### **Preference centre: controlling direct marketing**
 
@@ -204,15 +206,15 @@ You can change your mind about receiving direct marketing or other communication
 
 ### **Withdrawing consent for processing**
 
-Where we may rely on your consent to process personal information, you have the right to withdraw that consent at any time. Often, this can be managed through account settings – such as your consent for us to send you communications. Otherwise, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) with details of your request. In some instances we may still have an alternative legal basis to continue to process that personal information and we will inform you of that. If you do withdraw consent we may not be able to provide the product or service you have requested.
+Where we may rely on your consent to process personal information, you have the right to withdraw that consent at any time. Often, this can be managed through account settings – such as your consent for us to send you communications. Otherwise, please contact us at editor@thetab.com with details of your request. In some instances we may still have an alternative legal basis to continue to process that personal information and we will inform you of that. If you do withdraw consent we may not be able to provide the product or service you have requested.
 
 ### **Other rights**
 
-You may request a copy of your personal information from Tab Medi, as well as the right to not be profiled. You can also ask us to correct any inaccuracies in your personal information. In some circumstances you may be able to ask us to transfer information you have provided to us to another organisation. Similarly, you may be able to transfer your information from another organisation to us, but you should check with us first if this is possible. You may also have the right to object, erase, or restrict our processing of your information – for example, where we process personal data because this is in our legitimate interests, you may object to this. We will need to carefully consider your request, as there may be circumstances which require us, or allow us, to continue processing your data. To exercise any of these rights, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) These rights may be restricted by law, for example we may not be able to provide a copy of your data where the data we hold is also the data of a third party and it is not reasonable to disclose this information.
+You may request a copy of your personal information from Tab Medi, as well as the right to not be profiled. You can also ask us to correct any inaccuracies in your personal information. In some circumstances you may be able to ask us to transfer information you have provided to us to another organisation. Similarly, you may be able to transfer your information from another organisation to us, but you should check with us first if this is possible. You may also have the right to object, erase, or restrict our processing of your information – for example, where we process personal data because this is in our legitimate interests, you may object to this. We will need to carefully consider your request, as there may be circumstances which require us, or allow us, to continue processing your data. To exercise any of these rights, please contact us at editor@thetab.com These rights may be restricted by law, for example we may not be able to provide a copy of your data where the data we hold is also the data of a third party and it is not reasonable to disclose this information.
 
 ### **Complaining to the Regulator**
 
-If you have a comment, concern or suggestion, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) If you have a complaint and we cannot resolve the matter, you have the right to complain to the Information Commissioner’s Office in the UK https://ico.org.uk/ or the Data Protection Commissioner in the Republic of Ireland https://www.dataprotection.ie/docs/Home/4.htm. Alternatively you may contact the data protection regulator responsible for your country or region.
+If you have a comment, concern or suggestion, please contact us at editor@thetab.com. If you have a complaint and we cannot resolve the matter, you have the right to complain to the Information Commissioner’s Office in the UK <https://ico.org.uk/> or the Data Protection Commissioner in the Republic of Ireland https://www.dataprotection.ie/docs/Home/4.htm. Alternatively you may contact the data protection regulator responsible for your country or region.
 
 ## **Retention of Personal Information**
 
@@ -240,7 +242,7 @@ These are vital for the running of our services on our websites and apps. Withou
 
 ### **Analytics cookies and similar technologies**
 
-These collect information about your use of our websites and apps, and enable us to improve the way they work. For example, analytics cookies show us which are the most frequently visited pages on The Tab or babe websites allowing us to provide the most popular news articles further up the page. They help us record how you interact with our websites, such as how you navigate around pages and from page to page, identifying improvements we can make to the customer journey. They also help identify any difficulties you have accessing our services, so we can fix any problems. Additionally, these cookies allow us to see overall patterns of usage at an aggregated level. We may place cookies and similar technologies on behalf of comScore who help us measure the size and quality of our audiences across platforms. You can learn more and control how comScore use your information here [http://www.scorecardresearch.com/preferences.aspx.](https://www.scorecardresearch.com/preferences.aspx)
+These collect information about your use of our websites and apps, and enable us to improve the way they work. For example, analytics cookies show us which are the most frequently visited pages on The Tab or babe websites allowing us to provide the most popular news articles further up the page. They help us record how you interact with our websites, such as how you navigate around pages and from page to page, identifying improvements we can make to the customer journey. They also help identify any difficulties you have accessing our services, so we can fix any problems. Additionally, these cookies allow us to see overall patterns of usage at an aggregated level. We may place cookies and similar technologies on behalf of comScore who help us measure the size and quality of our audiences across platforms. You can learn more and control how comScore use your information here [http://www.scorecardresearch.com/preferences.aspx.](http://www.scorecardresearch.com/preferences.aspx)
 
 ### **Functional/preference cookies and similar technologies**
 
@@ -248,87 +250,15 @@ These cookies collect information about your choices and preferences, and allow 
 
 ### **Tracking, advertising cookies and similar technologies**
 
-We use these types of technologies to provide advertisements that we think may be more relevant to your interests. This can be done by delivering online adverts based on your previous web browsing activity, known as “online behavioural advertising” (OBA). Cookies are placed on your browser which will remember the websites you have visited. Adverts based on what you have been looking at are then displayed to you when you visit websites which use the same advertising networks. For example, you may be doing online research to buy a bicycle, and read several articles about bikes on various websites. As you browse those sites a cookie from an advertising network would be placed in your browser. It would remember that you had visited several websites related to cycling. Then, when you visited another website in the same advertising network, the website could show you an advert related to cycling. We may also use cookies and similar technologies to provide you with adverts based on your location, offers you click on, and other similar interactions with our websites and apps. To help us deliver relevant advertising using cookies, we use Google Double Click. You can find out more about Google Double Click [here.](https://www.google.com/intl/bg/doubleclick) We participate in an advertising platform offered by The Publisher Desk. To learn more about The Publisher Desk, please visit https://www.publisherdesk.com/
+We use these types of technologies to provide advertisements that we think may be more relevant to your interests. This can be done by delivering online adverts based on your previous web browsing activity, known as “online behavioural advertising” (OBA). Cookies are placed on your browser which will remember the websites you have visited. Adverts based on what you have been looking at are then displayed to you when you visit websites which use the same advertising networks. For example, you may be doing online research to buy a bicycle, and read several articles about bikes on various websites. As you browse those sites a cookie from an advertising network would be placed in your browser. It would remember that you had visited several websites related to cycling. Then, when you visited another website in the same advertising network, the website could show you an advert related to cycling. We may also use cookies and similar technologies to provide you with adverts based on your location, offers you click on, and other similar interactions with our websites and apps. To help us deliver relevant advertising using cookies, we use Google Double Click. You can find out more about Google Double Click [here.](http://www.google.com/intl/bg/doubleclick) We participate in an advertising platform offered by The Publisher Desk. To learn more about The Publisher Desk, please visit [Your Online Choices](https://www.publisherdesk.com/%3C/p%3E%3Ch3%3E%3Cb%3EWeb%E2%80%9D%20rel=%E2%80%9Dnoopener%20noreferrer%E2%80%9D%3Ehttps://www.publisherdesk.com/%E2%80%A6%3C/a%3E%20beacons%20and%20tracking%20pixels%3C/p%3E%3Cp%3EThese%20are%20bits%20of%20data%20that%20count%20the%20number%20of%20users%20who%20access%20a%20website%20or%20webpage%20and%20can%20also%20allow%20us%20to%20see%20if%20a%20cookie%20has%20been%20activated.%20Web%20beacons%20used%20on%20web%20pages%20or%20in%20emails%20allow%20us%20to%20see%20how%20successful%20an%20article%20has%20been,%20or%20whether%20an%20email%20message%20was%20successfully%20delivered%20and%20read%20in%20a%20marketing%20campaign.%20Web%20beacons%20are%20also%20used%20to%20verify%20any%20clicks%20through%20to%20links%20or%20advertisements%20contained%20in%20emails.%20We%20may%20use%20this%20information%20to%20help%20us%20identify%20which%20emails%20are%20more%20interesting%20to%20you%20and%20to%20inform%20advertisers%20how%20many%20customers%20have%20clicked%20on%20their%20adverts%20\(the%20information%20shared%20with%20advertisers%20is%20aggregated%20and%20does%20not%20identify%20you%20individually\).%3C/p%3E%3Ch3%3E%3Cstrong%3EFlash%20cookies%3C/strong%3E%3C/h3%3E%3Cp%3EWe%20may,%20in%20certain%20situations,%20use%20Adobe%20Flash%20Player%20to%20deliver%20special%20content,%20such%20as%20video%20clips%20or%20animation.%20To%20improve%20your%20user%20experience,%20Local%20Shared%20Objects%20\(commonly%20known%20as%20Flash%20cookies\)%20are%20used%20to%20provide%20functions%20such%20as%20remembering%20your%20settings%20and%20preferences.%20Flash%20cookies%20are%20stored%20on%20your%20device,%20but%20they%20are%20managed%20through%20an%20interface%20different%20from%20the%20one%20provided%20by%20your%20web%20browser.%3C/p%3E%3Ch3%3E%3Cstrong%3ETracking%20URLs%3C/strong%3E%3C/h3%3E%3Cp%3ETracking%20URLs%20are%20a%20special%20web%20link%20that%20allows%20us%20to%20measure%20when%20a%20link%20is%20clicked%20on.%20They%20are%20used%20to%20help%20us%20measure%20the%20effectiveness%20of%20campaigns%20and%20advertising%20and%20the%20popularity%20of%20articles%20that%20are%20read.%3C/p%3E%3Ch3%3E%3Cstrong%3EDevice%20fingerprinting%3C/strong%3E%3C/h3%3E%3Cp%3EWe%20may%20collect%20and%20analyse%20a%20device%E2%80%99s%20browser%20information%20to%20help%20identify%20that%20device,%20present%20content%20correctly,%20conduct%20analytics%20and%20help%20prevent%20and%20detect%20fraud.%3C/p%3E%3Ch3%3E%3Cstrong%3EIf%20you%20access%20our%20services%20from%20a%20mobile%20device%3C/strong%3E%3C/h3%3E%3Cp%3EWe%20may%20collect%20a%20unique%20device%20identifier%20assigned%20to%20that%20device,%20geo-location%20data,%20and%20other%20transactional%20information%20for%20that%20device.%20We%20may%20also%20use%20the%20unique%20identifier%20to%20validate%20free%20trials,%20for%20example.%3C/p%3E%3Ch2%3E%3Cstrong%3EHow%20We%20Use%20Cookies%20and%20Similar%20Technologies%3C/strong%3E%3C/h2%3E%3Cp%3EAs%20well%20as%20the%20uses%20already%20identified%20above,%20we%20use%20cookies%20and%20similar%20technologies%20to:%3C/p%3E%3Ch3%3E%3Cstrong%3EProtect%20our%20networks%3C/strong%3E%3C/h3%3E%3Cp%3ECookies%20and%20similar%20technologies%20help%20us%20identify%20and%20prevent%20threats%20to%20our%20sites.%20They%20are%20necessary%20to%20protect%20your%20information%20and%20our%20business%20from%20outside%20threats.%3C/p%3E%3Ch3%3E%3Cstrong%3EAllow%20you%20to%20access%20our%20services%3C/strong%3E%3C/h3%3E%3Cp%3ECookies%20and%20similar%20technologies%20permit%20your%20connection%20to%20our%20websites:%20our%20servers%20receive%20and%20record%20information%20about%20your%20computer,%20device,%20and%20browser,%20including%20potentially%20your%20IP%20address,%20browser%20type,%20other%20software%20or%20hardware%20information,%20and%20your%20geographic%20location.%3C/p%3E%3Ch3%3E%3Cstrong%3EAssess%20usage%20of%20services%3C/strong%3E%3C/h3%3E%3Cp%3EWe%20use%20information%20about%20your%20usage%20of%20our%20services,%20websites%20and%20apps,%20such%20as%20pages%20you%20have%20visited,%20content%20you%20have%20viewed,%20search%20queries%20you%20have%20run,%20and%20advertisements%20you%20have%20seen%20or%20interacted%20with%20to%20assess%20how%20our%20services%20are%20used.%3C/p%3E%3Ch3%3E%3Cstrong%3EProvide%20eCommerce%20functionality%3C/strong%3E%3C/h3%3E%3Cp%3ECookies%20and%20similar%20technologies%20help%20us%20provide%20functionality%20that%20you%20need%20to%20navigate%20our%20sites,%20select%20products%20and%20services%20and%20purchase%20them.%3C/p%3E%3Ch3%3E%3Cstrong%3EProvide%20relevant%20content%3C/strong%3E%3C/h3%3E%3Cp%3EThe%20content%20on%20our%20websites%20and%20in%20our%20communications%20with%20you%20may%20be%20adjusted%20depending%20on%20what%20we%20know%20about%20the%20content,%20products%20and%20services%20that%20you%20like.%20This%20means%20we%20can%20highlight%20content%20and%20articles%20that%20we%20believe%20will%20be%20of%20interest%20to%20you.%20We%20provide%20personalisation%20by%20using%20cookies,%20IP%20addresses,%20web%20beacons,%20URL%20tracking%20and%20mobile%20app%20settings.%3C/p%3E%3Ch3%3E%3Cstrong%3ESell%20third%20party%20advertising%3C/strong%3E%3C/h3%3E%3Cp%3EWe%20sell%20space%20on%20our%20websites%20and%20apps%20to%20advertisers.%20The%20adverts%20they%20display%20on%20our%20websites%20will%20often%20contain%20cookies.%20Our%20advertisers%20may%20use%20cookies%20or%20similar%20technologies%20to%20provide%20you%20with%20advertisements%20that%20they%20believe%20are%20relevant.%20They%20may%20use%20browsing%20data%20obtained%20to%20restrict%20the%20number%20of%20times%20you%20see%20particular%20adverts%20\(frequency%20capping\).%20You%20may%20also%20see%20adverts%20from%20these%20advertisers%20on%20other%20websites%20you%20visit.%20Third%20parties%20that%20support%20our%20services%20by%20serving%20advertisements%20or%20providing%20other%20services,%20such%20as%20allowing%20you%20to%20share%20content%20or%20tracking%20aggregate%20service%20usage,%20may%20also%20use%20cookies%20and%20other%20technologies%20to%20collect%20information%20relevant%20to%20the%20provision%20of%20those%20services.%20We%20do%20not%20control%20third%20party%20cookies%20or%20other%20technologies.%20Their%20use%20is%20governed%20by%20the%20privacy%20policies%20of%20third%20parties%20using%20such%20technologies.%20You%20should%20make%20sure%20you%20are%20aware%20of%20how%20third%20parties%20will%20use%20cookies%20by%20checking%20the%20third%20party%E2%80%99s%20cookie%20policy.%20To%20learn%20more%20about%20controlling%20cookies%20and%20similar%20technologies,%20please%20see%20the%20section%20below%20on%20Managing%20Cookies.%3C/p%3E%3Ch3%3E%3Cstrong%3EMobile%20applications%3C/strong%3E%3C/h3%3E%3Cp%3EBy%20downloading%20our%20apps,%20we%20will%20require%20access%20to%20the%20following%20services%20on%20your%20device:%20unique%20identifier%20\(UDID\),%20MAC%20address%20or%20other%20applicable%20device%20identifier%20and%20location.%20Other%20services%20may%20also%20be%20required%20in%20order%20for%20the%20apps%20to%20function.%20We%20may%20use%20this%20information%20to%20validate%20free%20trials.%20Our%20apps%20may%20also%20provide%20push%20notifications%20to%20your%20device.%20You%20may%20control%20these%20through%20using%20the%20tools%20on%20your%20device,%20such%20as%20turning%20off%20push%20notification%20and%20location%20services.%3C/p%3E%3Ch2%3E%3Cstrong%3EManaging%20Cookies%3C/strong%3E%3C/h2%3E%3Cp%3EBelow%20you%20will%20find%20useful%20information%20about%20how%20to%20manage%20the%20use%20of%20cookies%20on%20our%20sites.%20If%20you%20have%20any%20questions,%20please%20contact%20editor@thetab.com.%3C/p%3E%3Ch3%3E%3Cstrong%3EOur%20partners%3C/strong%3E%3C/h3%3E%3Cp%3EWhen%20you%20visit%20our%20websites,%20our%20partners%20will%20set%20cookies%20and%20similar%20technologies%20on%20your%20browser%20in%20order%20to%20help%20us%20make%20the%20sites%20work,%20analyse%20site%20usage,%20deliver%20adverts%20and%20personalise%20your%20experience.%20Where%20these%20partners%20are%20acting%20on%20our%20behalf,%20they%20are%20called%20data%20processors%20and%20must%20only%20act%20on%20our%20instructions.%20We%20will%20have%20a%20contract%20with%20them%20and%20they%20must%20protect%20your%20information%20properly.%20They%E2%80%99ll%20use%20your%20information%20in%20accordance%20with%20this%20Cookie%20Policy%20and%20you%E2%80%99ll%20be%20able%20to%20opt-out.%20Where%20other%20partners%20are%20placing%20cookies%20and%20similar%20technologies%20for%20their%20own%20purposes,%20they%20are%20called%20data%20controllers%20and%20will%20use%20your%20information%20for%20their%20own%20purposes.%20When%20you%20visit%20our%20sites%20you%E2%80%99ll%20see%20notices%20about%20the%20use%20of%20cookies%20by%20us%20and%20our%20partners.%20You%E2%80%99ll%20be%20able%20to%20learn%20more%20about%20the%20specific%20cookies%20in%20use%20and%20how%20to%20control%20them.%20By%20using%20our%20sites,%20you%20understand%20that%20cookies%20and%20similar%20technologies%20are%20used%20and%20acknowledge%20that%20by%20continuing%20to%20use%20the%20site,%20you%20consent%20to%20their%20placement.%20In%20the%20future%20we%20plan%20to%20release%20improved%20controls%20to%20allow%20you%20to%20choose%20which%20partners%20can%20collect%20and%20use%20your%20information.%20Most%20modern%20browsers%20are%20set%20to%20accept%20cookies%20by%20default,%20but%20you%20can%20change%20your%20settings%20to%20notify%20you%20when%20a%20cookie%20is%20being%20set%20or%20updated,%20or%20to%20block%20cookies%20altogether.%20Please%20consult%20the%20%E2%80%9CHelp%E2%80%9D%20section%20of%20your%20browser.%3C/p%3E%3Ch3%3E%3Cstrong%3EControlling%20OBA%20cookies%3C/strong%3E%3C/h3%3E%3Cp%3EIn%20addition%20to%20being%20able%20to%20control%20cookies%20by%20changing%20the%20settings%20in%20your%20browser%20on%20your%20computer,%20or%20in%20your%20mobile%20device%E2%80%99s%20settings,%20you%20can%20also%20control%20which%20companies%20can%20set%20cookies%20and%20similar%20technologies%20on%20your%20devices,%20by%20visiting%20the%20following%20links%20\(you%E2%80%99ll%20need%20to%20turn%20any%20cookie%20or%20ad%20blockers%20off%20for%20the%20control%20pages%20to%20show%20which%20companies%20you%20can%20opt-out%20of\):%3C/p%3E%3Cul%3E%3Cli%3EInternet%20Advertising%20Bureau%20\(IAB\)%20%3Ca%20href=) website provides more information about controlling cookies. It also provides an easy way to opt-out of behavioural advertising from each (or all) of the networks represented by the European Interactive Digital Advertising Alliance [Network Advertising Initiative (NAI)](http://www.youronlinechoices.com/uk/your-ad-choices.%3C/li%3E%3Cli%3EThe%20%3Ca%20href=) control” class=”redactor-autoparser-object”>http://www.youronlinechoices.c… page allows you to control behavioural advertising from each of the ad networks represented by the NAI. 
 
-### **Web beacons and tracking pixels**
-
-These are bits of data that count the number of users who access a website or webpage and can also allow us to see if a cookie has been activated. Web beacons used on web pages or in emails allow us to see how successful an article has been, or whether an email message was successfully delivered and read in a marketing campaign. Web beacons are also used to verify any clicks through to links or advertisements contained in emails. We may use this information to help us identify which emails are more interesting to you and to inform advertisers how many customers have clicked on their adverts (the information shared with advertisers is aggregated and does not identify you individually).
-
-### **Flash cookies**
-
-We may, in certain situations, use Adobe Flash Player to deliver special content, such as video clips or animation. To improve your user experience, Local Shared Objects (commonly known as Flash cookies) are used to provide functions such as remembering your settings and preferences. Flash cookies are stored on your device, but they are managed through an interface different from the one provided by your web browser.
-
-### **Tracking URLs**
-
-Tracking URLs are a special web link that allows us to measure when a link is clicked on. They are used to help us measure the effectiveness of campaigns and advertising and the popularity of articles that are read.
-
-### **Device fingerprinting**
-
-We may collect and analyse a device’s browser information to help identify that device, present content correctly, conduct analytics and help prevent and detect fraud.
-
-### **If you access our services from a mobile device**
-
-We may collect a unique device identifier assigned to that device, geo-location data, and other transactional information for that device. We may also use the unique identifier to validate free trials, for example.
-
-## **How We Use Cookies and Similar Technologies**
-
-As well as the uses already identified above, we use cookies and similar technologies to:
-
-### **Protect our networks**
-
-Cookies and similar technologies help us identify and prevent threats to our sites. They are necessary to protect your information and our business from outside threats.
-
-### **Allow you to access our services**
-
-Cookies and similar technologies permit your connection to our websites: our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, other software or hardware information, and your geographic location.
-
-### **Assess usage of services**
-
-We use information about your usage of our services, websites and apps, such as pages you have visited, content you have viewed, search queries you have run, and advertisements you have seen or interacted with to assess how our services are used.
-
-### **Provide eCommerce functionality**
-
-Cookies and similar technologies help us provide functionality that you need to navigate our sites, select products and services and purchase them.
-
-### **Provide relevant content**
-
-The content on our websites and in our communications with you may be adjusted depending on what we know about the content, products and services that you like. This means we can highlight content and articles that we believe will be of interest to you. We provide personalisation by using cookies, IP addresses, web beacons, URL tracking and mobile app settings.
-
-### **Sell third party advertising**
-
-We sell space on our websites and apps to advertisers. The adverts they display on our websites will often contain cookies. Our advertisers may use cookies or similar technologies to provide you with advertisements that they believe are relevant. They may use browsing data obtained to restrict the number of times you see particular adverts (frequency capping). You may also see adverts from these advertisers on other websites you visit. Third parties that support our services by serving advertisements or providing other services, such as allowing you to share content or tracking aggregate service usage, may also use cookies and other technologies to collect information relevant to the provision of those services. We do not control third party cookies or other technologies. Their use is governed by the privacy policies of third parties using such technologies. You should make sure you are aware of how third parties will use cookies by checking the third party’s cookie policy. To learn more about controlling cookies and similar technologies, please see the section below on Managing Cookies.
-
-### **Mobile applications**
-
-By downloading our apps, we will require access to the following services on your device: unique identifier (UDID), MAC address or other applicable device identifier and location. Other services may also be required in order for the apps to function. We may use this information to validate free trials. Our apps may also provide push notifications to your device. You may control these through using the tools on your device, such as turning off push notification and location services.
-
-## **Managing Cookies**
-
-Below you will find useful information about how to manage the use of cookies on our sites. If you have any questions, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-### **Our partners**
-
-When you visit our websites, our partners will set cookies and similar technologies on your browser in order to help us make the sites work, analyse site usage, deliver adverts and personalise your experience. Where these partners are acting on our behalf, they are called data processors and must only act on our instructions. We will have a contract with them and they must protect your information properly. They’ll use your information in accordance with this Cookie Policy and you’ll be able to opt-out. Where other partners are placing cookies and similar technologies for their own purposes, they are called data controllers and will use your information for their own purposes. When you visit our sites you’ll see notices about the use of cookies by us and our partners. You’ll be able to learn more about the specific cookies in use and how to control them. By using our sites, you understand that cookies and similar technologies are used and acknowledge that by continuing to use the site, you consent to their placement. In the future we plan to release improved controls to allow you to choose which partners can collect and use your information. Most modern browsers are set to accept cookies by default, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the “Help” section of your browser.
-
-### **Controlling OBA cookies**
-
-In addition to being able to control cookies by changing the settings in your browser on your computer, or in your mobile device’s settings, you can also control which companies can set cookies and similar technologies on your devices, by visiting the following links (you’ll need to turn any cookie or ad blockers off for the control pages to show which companies you can opt-out of):
-
-  * Internet Advertising Bureau (IAB) [Your Online Choices](http://www.youronlinechoices.com/) website provides more information about controlling cookies. It also provides an easy way to opt-out of behavioural advertising from each (or all) of the networks represented by the European Interactive Digital Advertising Alliance http://www.youronlinechoices.com/uk/your-ad-choices.
-  * The [Network Advertising Initiative (NAI)](https://www.networkadvertising.org/managing/opt_out.asp) control page allows you to control behavioural advertising from each of the ad networks represented by the NAI.
-  * The [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) self-regulatory program for online behavioural advertising control page allows you to control behavioural advertising from the ad networks it represents.
-
-
+* The [Digital Advertising Alliance’s](http://www.aboutads.info/choices/) self-regulatory program for online behavioural advertising control page allows you to control behavioural advertising from the ad networks it represents.
 
 Importantly, these ad networks set cookies to remember that you have chosen to opt-out. If you clear your cache the opt-outs will not be applied and you would need to opt-out again.
 
 ### **Controlling Flash cookies**
 
-You can manage the use of Flash technologies with the Flash management tools available at Adobe’s website, at http://www.adobe.com/devnet/flashplayer/articles/privacy.html.
-
-### **Controlling web beacons**
-
-You can prevent web beacons from tracking your activity, although you won’t be able to decline receiving them in emails. For information about managing your cookie options, please visit http://www.allaboutcookies.org/. Please note that by blocking any or all cookies, you may not have access to certain features, content, or personalisation available on our websites or apps. **California Online Privacy Protection Act** CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf According to CalOPPA we agree to the following:
+You can manage the use of Flash technologies with the Flash management tools available at Adobe’s website, at [http://www.allaboutcookies.org…](http://www.adobe.com/devnet/flashplayer/articles/privacy.html.%3C/p%3E%3Ch3%3E%3Cb%3EControlling%E2%80%9D%20rel=%E2%80%9Dnoopener%20noreferrer%E2%80%9D%3Ehttp://www.adobe.com/devnet/fl%E2%80%A6%3C/a%3E%20web%20beacons%3C/p%3E%3Cp%3EYou%20can%20prevent%20web%20beacons%20from%20tracking%20your%20activity,%20although%20you%20won%E2%80%99t%20be%20able%20to%20decline%20receiving%20them%20in%20emails.%20For%20information%20about%20managing%20your%20cookie%20options,%20please%20visit%20%3Ca%20href=) note that by blocking any or all cookies, you may not have access to certain features, content, or personalisation available on our websites or apps. **California Online Privacy Protection Act** CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: [http://consumercal.org/califor…](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf%20According) to CalOPPA we agree to the following:
 
   * Users can visit our site anonymously
   * Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
@@ -340,7 +270,7 @@ You can prevent web beacons from tracking your activity, although you won’t be
 
 **COPPA (Children Online Privacy Protection Act)** When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online. We do not specifically market to children under 13. **Fair Information Practices** The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur: We will notify the users via in site notification within 7 business days We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors. **CAN SPAM Act** The CAN-SPAM Act is a US law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. To be in accordance with CANSPAM we agree to the following:
 
-  * If at any time you would like to unsubscribe from receiving future emails, you can email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from ALL correspondence.
+  * If at any time you would like to unsubscribe from receiving future emails, you can email us at editor@thetab.com and we will promptly remove you from ALL correspondence.
 
 
 
@@ -351,3 +281,6 @@ From time to time, we make changes to our Privacy Policy and Cookie Policy. This
 ## **Contact Us**
 
 In addition to any general data protection enquiries you may have, you can use these details to contact our Data Protection Officer.
+
+**By email:** | editor@thetab.com  
+---|---
