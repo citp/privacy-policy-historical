@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oecd.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624172905id_/https%3A//www.oecd.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oecd.org privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203220756id_/http%3A//www.oecd.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OECD
 
@@ -17,7 +17,7 @@ Information Collection**
 If you visit OECD websites to read or download information, the OECD collects and stores only the following information that is automatically recognised: the date and time, the originating IP address, the domain name, the type of browser and operating system used (if provided by the browser), the URL of the referring page (if provided by the browser), the object requested and the completion status of the request.
 
   
-More information is collected and logged for advanced features, such as placing an order on OECD web servers for online payments, downloading from the online library ([OECD iLibrary](http://www.oecd-ilibrary.org/)), subscribing to an OECD newsletter ([OECDdirect](https://web.archive.org/about/publishing/oecddirect.htm)) or using the personalisation features (MyOECD).
+More information is collected and logged for advanced features, such as placing an order on OECD web servers for online payments, downloading from the online library ([OECD iLibrary](http://www.oecd-ilibrary.org/)), subscribing to an OECD newsletter (OECDdirect) or using the personalisation features (MyOECD).
 
 #### **Use of Collected Informatio** n
 
