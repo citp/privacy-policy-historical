@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketcountry.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630231729id_/https%3A//www.cricketcountry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketcountry.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203111030id_/https%3A//www.cricketcountry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cricket Country
 
