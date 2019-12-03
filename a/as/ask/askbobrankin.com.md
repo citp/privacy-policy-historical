@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askbobrankin.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629034242id_/https%3A//askbobrankin.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askbobrankin.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203022546id_/https%3A//askbobrankin.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Subscribe to AskBobRankin Updates
 
