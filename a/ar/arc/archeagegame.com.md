@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archeagegame.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417172954id_/https%3A//www.trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archeagegame.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203182514id_/https%3A//www.trionworlds.com/en/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | gamigo US Inc. – Best free to play MMORPGs and Shooter
 
