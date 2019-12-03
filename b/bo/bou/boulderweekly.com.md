@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boulderweekly.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604044406id_/https%3A//www.boulderweekly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boulderweekly.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203080706id_/https%3A//www.boulderweekly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Boulder Weekly
 
