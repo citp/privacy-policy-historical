@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mplstudios.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219221231id_/https%3A//www.mplstudios.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mplstudios.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203112247id_/https%3A//www.mplstudios.com/privacy.htm) for the most accurate reproduction.*
 
 # MPL Studios
 
