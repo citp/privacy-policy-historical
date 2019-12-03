@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bitfinex.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529072307id_/https%3A//www.bitfinex.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitfinex.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203153702id_/https%3A//www.bitfinex.com/legal/privacy) for the most accurate reproduction.*
 
 # Bitfinex - Bitfinex Privacy Policy
 
-_Last updated 10 May 2019_
+_Last updated 20 June 2019_
 
-Thank you for visiting https://www.bitfinex.com/ (" **Site** "). The Site is owned and operated by iFinex Inc. and its affiliates, BFXWW Inc. and BFXNA Inc. (together " **Bitfinex** ", " **we** ", " **our** ", or " **us** " means iFinex Inc., BFXWW Inc., BFXNA Inc., and Unus Sed Leo Limited).
+Thank you for visiting https://www.bitfinex.com/ (" **Site** "). The Site is owned and operated by iFinex Inc. and its affiliates, BFXWW Inc. and BFXNA Inc. (together " **Bitfinex** ", " **we** ", " **our** ", or " **us** " means iFinex Inc., BFXWW Inc., BFXNA Inc., Unus Sed Leo Limited and iFinex Financial Technologies Limited).
 
 This Privacy policy (" **Privacy Policy** ") together with our Terms of Service (which can be found at https://www.bitfinex.com/legal/terms) (" **Terms of Service** ") sets out the basis on which any Personal Information we collect from you (" **you** ", " **your** ", or " **customer"** ), or that you provide to us, will be processed by us. By " **Personal Information** ", we mean any information which, either alone or in combination with other data, enables you to be directly or indirectly identified, for example your name, email address, username, contact details or any unique identifier such as an IP address, device ID or other online identifier.
 
@@ -12,22 +12,25 @@ Please read the following carefully to understand what data we collect, how that
 
 If you are accessing the Site from the US, the data controllers of your Personal Information are:
 
-  * iFinex Inc., a company which is registered in the BVI under company number 1 774 852 and using EU point of contact Chaucer Group Limited whose registered office is at 10 Lower Thames, London, EC3R 6EN;
-  * BFXNA Inc., a company which is registered in the BVI under company number 1 900848 030 and using EU point of contact Chaucer Group Limited whose registered office is at 10 Lower Thames, London, EC3R 6EN;
+  * iFinex Inc., a company which is registered in the BVI under company number 1 774 852 and using EU point of contact ORWL Avocats whose registered office is at 57, rue Réaumur, 75002, Paris, France;
+  * BFXNA Inc., a company which is registered in the BVI under company number 1 900848 030 and using EU point of contact ORWL Avocats whose registered office is at 57, rue Réaumur, 75002, Paris, France;
 
 
 
 If you purchase a LEO token on the Site or if a LEO token is repurchased on the Site, the data controller of your data is:
 
-  * Unus Sed Leo Limited, a company which is registered in the BVI under company number 2102097 and using EU point of contact Chaucer Group Limited whose registered office is at 10 Lower Thames, London, EC3R 6EN.
+  * Unus Sed Leo Limited, a company which is registered in the BVI under company number 2102097 and using EU point of contact ORWL Avocats whose registered office is at 57, rue Réaumur, 75002, Paris, France.
 
 
 
 If you are accessing the Site from outside the US, the data controllers of your data are:
 
-  * iFinex Inc., a company which is registered in the BVI under company number 1 774 852 and using EU point of contact Chaucer Group Limited whose registered office is at 10 Lower Thames, London, EC3R 6EN; and
-  * BFXWW Inc., a company which is registered in the BVI under company number 1 871 900 and using EU point of contact Chaucer Group Limited whose registered office is at 10 Lower Thames, London, EC3R 6EN.
+  * iFinex Inc., a company which is registered in the BVI under company number 1 774 852 and using EU point of contact ORWL Avocats whose registered office is at 57, rue Réaumur, 75002, Paris, France; and
+  * BFXWW Inc., a company which is registered in the BVI under company number 1 871 900 and using EU point of contact ORWL Avocats whose registered office is at 57, rue Réaumur, 75002, Paris, France.
 
+
+
+If you are accessing the Derivative Site, in addition to the above mentioned data controllers, your data will also be controlled by iFinex Financial Technologies Limited. 
 
   1. 1. **What information do we collect?**
     1. 1.1. **Information you give us.** This is information about you that you give us by:  
@@ -48,7 +51,8 @@ Similar to other websites, our Sites utilize browser cookies (small text files s
   
 **Special categories of data.**
 
-We do not collect any special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data).   
+We do not collect any special categories of Personal Information about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data). 
+
 **Information we may collect from third party sources**
 
 We may receive information about you from other sources, including third parties that help us update, expand, and analyze our records; prevent or detect fraud; process payments; or analyze your use of our Services. Our Services may also include integrated content or links to content provided by third parties (such as live chat, social media content, plug-ins and applications). Additional third parties may include our affiliated entities. 
@@ -128,7 +132,7 @@ We may also aggregate personal and other data captured by us so that the data is
 
     2. 5.2.We will also disclose your Personal Information to third parties: 
       * If Bitfinex or substantially all of its assets are acquired by a third party, in which case Personal Information held by it about its customers will be one of the transferred assets.
-      * If we are under a duty to disclose or share your Personal Information in order to comply with any legal obligation, or in order to enforce or apply our Terms of Service and other agreements; or to protect the rights, property, or safety of us, our clients, or others. Bitfinex reserves the right to share current and historical bids, asks, and market prices; opening and closing range prices; high–low prices; trade prices; estimated and actual trade volumes; settlement prices; and other aggregate data and information related to the digital tokens traded on the Site, including LEO tokens.
+      * If we are under a duty to disclose or share your Personal Information in order to comply with any legal obligation, or in order to enforce or apply our Terms of Service and other agreements; or to protect the rights, property, or safety of us, our clients, or others. Bitfinex reserves the right to share current and historical bids, asks, and market prices; opening and closing range prices; high–low prices; trade prices; estimated and actual trade volumes; settlement prices; and other aggregate data and information related to the digital tokens or Derivatives Products traded on the Site, including LEO tokens.
   
 
   6. 6. **Transfers.**
@@ -151,7 +155,7 @@ _EEA customers only_
 
 _All Customers_
 
-    1. 7.1.You may access and verify your Personal Information held by Bitfinex by submitting a written request to: Bitfinex c/o Chaucer Group, 10 Lower Thames St, London EC3R 6EN, United Kingdom.
+    1. 7.1.You may access and verify your Personal Information held by Bitfinex by submitting a written request to: Bitfinex c/o ORWL Avocats, 57, rue Réaumur, 75002, Paris, France.
   
 
     2. 7.2. If you no longer wish to receive marketing communications from us, you can also let us know via through the methods stated below. The electronic marketing communications we send to you also contain opt-out mechanisms that allow you to opt-out from receiving those communications, update your contact information or change your preferences at any time. We will honor your choice and refrain from sending you such announcements. You may also opt back in to receive those communications at any time. 
