@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605183452id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com.au privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203215931id_/https%3A//about.realestate.com.au/privacy) for the most accurate reproduction.*
 
 # About - realestate.com.au - Privacy Policy
 
@@ -198,6 +198,8 @@ We may combine our cookies, information collected through the cookies and web be
 
 If you do not want information collected through the use of cookies, web beacons or measurement software and tools, you may be able to delete or reject Cookies or some of the measurement software features through your browser or the settings section of your mobile or tablet device. Disabling these features may cause some of the functions on the Websites and REA Group Website, or products and services not to work properly.
 
+To learn more about how we use Cookies and similar technologies, and how you can manage your preferences, visit our [Cookie Policy](https://about.realestate.com.au/cookies/).
+
 **APPLICATIONS, WIDGETS OR LINKS TO OTHER WEBSITES**
 
 We provide links to websites outside of the Websites and REA Group Website, as well as to third party websites. We also allow some third parties to display widgets and applications on our Websites that allow you to interact and share content including social media buttons such as Facebook share and like, Twitter, Pinterest and Google+. These linked sites, applications and widgets are not under our control, and we cannot accept responsibility for the conduct of companies linked to the Websites and REA Group Website, or their collection of information through these third party applications or widgets. Before disclosing your personal information on any other website, or using these applications or widgets we advise you to examine the terms and conditions of using that website and the relevant third party’s data collection practices and controls in their privacy policy. 
@@ -304,4 +306,4 @@ If you are not satisfied with our handling of your complaint, you can refer your
 
 COSL offers consumers an accessible, independent and fair dispute resolution service. You can contact COSL at 1800 555 727, online at cosl.com.au or write to them at Credit Ombudsman Service Ltd, PO Box A252, South Sydney, NSW 1235.
 
-**Last update  19 November 2018**
+**Last update  1 July 2019**
