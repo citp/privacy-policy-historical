@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the knittingdaily.com privacy policy that was archived on 2018-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180926220646id_/http%3A//www.fwcommunity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knittingdaily.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203024036id_/https%3A//www.peakmediaproperties.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | F+W
+# Privacy Policy - Golden Peak Media
 
-Privacy Policy
-
-[Click here to view our Terms of Use Policy, Updated December 15, 2017](http://www.fwcommunity.com/termsofuse)
+[Click here to view our Terms of Use Policy, Updated December 15, 2017](http://golden%20peakmediaproperties.com/terms)
 
 SUMMARY  
-This web site is owned by F+W Media, Inc. (“F+W”). At F+W, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
+This web site is owned by Golden Peak Media, Inc. (“Golden Peak”). At Golden Peak, our goal is to offer products and services that will allow our customers to lead fuller, richer lives. The same holds for how we communicate with you and how we handle your personal data. It’s important to us that you understand what information we collect, how we protect it, and how we use it — and to provide clear instructions if you choose to request changes in how we communicate with you.
 
 GENERAL CONTACT INFORMATION  
 Our postal address is:  
-F+W Media, Inc.  
-10151 Carver Road Suite #200  
+Golden Peak Media, Inc.  
+9912 Carver Road, Suite 100  
 Blue Ash, OH 45242  
 513.531.2690
 
-To ensure that your communications are properly routed, we ask that you identify the F+W products or services (web site, magazine, book club, etc.) relevant to your inquiry when contacting us. If you would like to receive a response, please be sure to include sufficient information to enable us to contact you (such as an email or postal address).
+To ensure that your communications are properly routed, we ask that you identify the Golden Peak products or services (web site, magazine, book club, etc.) relevant to your inquiry when contacting us. If you would like to receive a response, please be sure to include sufficient information to enable us to contact you (such as an email or postal address).
 
 INFORMATION WE COLLECT  
 Information about your computer hardware and software  
@@ -39,16 +37,16 @@ HOW WE MAY SHARE YOUR INFORMATION
 We may share the information we collect on the web site with our trusted partners, including but not limited to affiliates, marketing partners, and fulfillment or customer service agents. Our partners may use this information to contact you for marketing purposes.
 
 California Privacy Rights  
-Pursuant to California Civil Code Section 1798.83, F+W customers who are California residents can request certain information about the sharing of their own personal information with third parties for direct marketing purposes during the past year. California residents can request this disclosure by sending a request to F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+Pursuant to California Civil Code Section 1798.83, Golden Peak customers who are California residents can request certain information about the sharing of their own personal information with third parties for direct marketing purposes during the past year. California residents can request this disclosure by sending a request to Golden Peak Media, Inc., Attention: Privacy, 9912 Carver Road, Suite 100, Blue Ash, OH 45242 or by email to privacy@goldenpeakmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the Golden Peak products or services (website, magazine, book club, etc.) you have used.
 
 OPT OUT PROCEDURES  
-If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at privacy@fwpubs.com. To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing lists you wish to be removed. If you wish to be removed from all F+W emailing lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
+If you do not wish to receive promotional emails from us, please let us know by using the opt-out response device that can be found at the bottom of every email we deliver or by emailing us at privacy@goldenpeakmedia.com. To help us process your request, please include sufficient information for us to identify you in our records (your email address will suffice) and identify the Golden Peak products or services (web site, magazine, book club, etc.) you have used and from whose mailing lists you wish to be removed. If you wish to be removed from all Golden Peak emailing lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
 
-Note that, although you can opt not to receive promotional emails, F+W retains the right to send registered users of its web sites informational email messages about the user’s account or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).
+Note that, although you can opt not to receive promotional emails, Golden Peak retains the right to send registered users of its web sites informational email messages about the user’s account or administrative notices regarding the site, as permitted under the CAN-SPAM Act (15 U.S.C. §7701 et seq.).
 
-If you do not wish to receive mail or telephone calls from us, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from our mailing list, or your telephone number to remove you from our call list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used and from whose mailing or call lists you wish to be removed. If you wish to be removed from all F+W contact lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
+If you do not wish to receive mail or telephone calls from us, please let us know by sending your request to: Golden Peak Media, Inc., Attention: List Manager, 9912 Carver Road, Suite 100, Blue Ash, OH 45242 or by email to privacy@goldenpeakmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from our mailing list, or your telephone number to remove you from our call list) and identify the Golden Peak products or services (web site, magazine, book club, etc.) you have used and from whose mailing or call lists you wish to be removed. If you wish to be removed from all Golden Peak contact lists, please indicate so in your request. Please allow a reasonable time for us to process your request.
 
-If you do not wish for us to share your information with our trusted partners, please let us know by sending your request to: F+W Media, Inc., Attention: List Manager, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to listdept@fwmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from a mailing list, or your email to remove you from an email list) and identify the F+W products or services (web site, magazine, book club, etc.) you have used. Please allow a reasonable time for us to process your request.
+If you do not wish for us to share your information with our trusted partners, please let us know by sending your request to: Golden Peak Media, Inc., Attention: List Manager, 9912 Carver Road, Suite 100, Blue Ash, OH 45242 or by email to privacy@goldenpeakmedia.com. To help us process your request, please include sufficient information to allow us to identify you in our records (at a minimum, we will need your postal address to remove you from a mailing list, or your email to remove you from an email list) and identify the Golden Peak products or services (web site, magazine, book club, etc.) you have used. Please allow a reasonable time for us to process your request.
 
 AD SERVERS  
 To bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
@@ -66,25 +64,25 @@ THIRD PARTY ADVERTISING TECHNOLOGIES
 We use analytics tools and other third-party technologies, such as Google Analytics and DoubleClick Cookies, to collect non-personal information in the form of various usage and user metrics when you use our online Sites and/or Services.
 
 REMARKETING  
-F+W Media, Inc. (“F+W”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
+Golden Peak Media, Inc. (“Golden Peak”) also uses 3rd party vendor re-marketing tracking cookies, including the Google Adwords tracking cookie. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN). As always we respect your privacy and are not collecting any identifiable information through the use of Google’s or any other 3rd party remarketing system.
 
 The third-party vendors, including Google, whose services we use – will place cookies on web browsers in order to serve ads based on past visits to our website. – Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website. This allows us to make special offers and continue to market our services to those who have shown interest in our service.
 
-Google has additional information available about their [Remarketing Privacy Guidelines](http://support.google.com/adwordspolicy/answer/143465?rd=3) and [Policies ](http://support.google.com/adwords/answer/2549116?hl=en&from=178363&rd=1)
+Google has additional information available about their Remarketing Privacy Guidelines and Policies
 
 OPT-OUT
 
-You may opt out of the DoubleClick cookie by visiting the Google [advertising opt-out page](http://www.google.com/policies/technologies/ads/) or you may opt out of Google Analytics by visiting the [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+You may opt out of the DoubleClick cookie by visiting the Google advertising opt-out page or you may opt out of Google Analytics by visiting the Google Analytics opt-out page.
 
 DOUBLECLICK’S REMARKETING PIXELS  
-You may opt out of DoubleClick’s remarketing pixels, by visiting the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout)  or the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
+You may opt out of DoubleClick’s remarketing pixels, by visiting the DoubleClick opt-out page  or the Network Advertising Initiative opt-out page.
 
 INFORMATION ACCESS  
 Upon request we provide site visitors with access to their own transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, and contact information (e.g., name, address, phone number) that we maintain about them.
 
-You can access this information by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+You can access this information by sending your request to: Golden Peak Media, Inc., Attention: Privacy, 9912 Carver Road, Suite 100, Blue Ash, OH 45242 or by email to privacy@goldenpeakmedia.com. To help us process your request, please provide sufficient information to allow us to identify you in our records, and identify the Golden Peak products or services (website, magazine, book club, etc.) you have used.
 
-Upon request, we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: F+W Media, Inc., Attention: Privacy, 10151 Carver Road, Suite # 200, Blue Ash, OH 45242 or by email to privacy@fwmedia.com. To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the F+W products or services (website, magazine, book club, etc.) you have used.
+Upon request, we offer visitors the ability to have inaccuracies corrected in all information we maintain about them. You can have this information corrected by sending your request to: Golden Peak Media, Inc., Attention: Privacy, 9912 Carver Road, Suite 100, Blue Ash, OH 45242 or by email to privacy@goldenpeakmedia.com. To help us process your request, please provide include sufficient information to allow us to identify you in our records, and identify the Golden Peak products or services (website, magazine, book club, etc.) you have used.
 
 SECURITY  
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site, and we employ security features generally accepted in the industry to protect the security of transactions made on our site. Transactions are protected via Secure Sockets Layer (SSL) technology. We require customers to identify themselves via a unique username and password to access their personal information.
@@ -94,4 +92,6 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 If you believe that this site is not following its stated information policy, you may contact us at the above address, the DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, or state or local chapters of the Better Business Bureau.
 
-The effective date of this Policy is March 12, 2008.
+The effective date of this Policy is July 31, 2019.
+
+Golden Peak Media is working on updating this policy so check back from time to time for changes.
