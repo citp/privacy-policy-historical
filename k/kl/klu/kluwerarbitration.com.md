@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409205329id_/https%3A//lrus.wolterskluwer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kluwerarbitration.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203094536id_/https%3A//lrus.wolterskluwer.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Wolters Kluwer Legal & Regulatory
 
