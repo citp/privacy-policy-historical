@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the matalan.co.uk privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004014328id_/https%3A//www.matalan.co.uk/customer-services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matalan.co.uk privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203181447id_/https%3A//www.matalan.co.uk/customer-services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cookie Info, Personal Data Usage & More – Matalan
 
 We are committed to protecting and respecting your privacy.
 
-This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.matalan.co.uk](https://www.matalan.co.uk/) and/or [www.matalancard.co.uk](https://www.matalancard.co.uk/) and/or downloading our app you are accepting and consenting to the practices described in this policy.
+This policy sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting [www.matalan.co.uk](https://web.archive.org/) and/or [www.matalancard.co.uk](https://www.matalancard.co.uk/) and/or downloading our app you are accepting and consenting to the practices described in this policy.
 
 For simplicity, throughout this notice “we” and “us” mean Matalan Retail limited (Company number 02103564) of Perimeter Road, Knowsley Industrial Park, Knowsley, Liverpool L33 7SZ, UK.  Under the relevant Data Protection Laws (including the EU General Data Protection Regulation), we are the data controller of the data you give to us.
 
@@ -30,7 +30,7 @@ We collect and process the following data about you:
 
   * When you use our car parks and shops which usually have CCTV systems operated for the security of both customers and us. These systems may record your image during your visit.
   * Some of our car parks also have automatic number plate recognition system which may record your car number plate to assist in managing the car park.
-  * Details of your interactions with us through our contact centres, in store, online or by using one of our apps.
+  * Details of your interactions with us through our contact centres, in store, online or by using one of our apps. 
 
 
 
@@ -40,7 +40,7 @@ We collect personal data from you by the following means:
 
   * Information you give us. You may give us information about you by: entering into transactions, opening an account on our site www.matalan.co.uk (our site), filling in forms or providing information in store, or by corresponding with us by phone, e-mail or otherwise. This includes information you provide when:
     * You purchase goods in store or online;
-    * Register an online account on [www.matalan.co.uk](https://www.matalan.co.uk/) and/or [www.matalancard.co.uk](https://www.matalancard.co.uk/);
+    * Register an online account on [www.matalan.co.uk](https://web.archive.org/) and/or [www.matalancard.co.uk](https://www.matalancard.co.uk/);
     * Download the Matalan App;
     * Register to our reward card loyalty scheme;
     * Search for a product;
@@ -56,7 +56,7 @@ The information you give us may include your name, address, e-mail address and p
   * With regard to each of your visits to our website we may automatically collect the following information:
     * Technical information, including the Internet protocol (IP) address used to connect your computer to the Internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform;
     * Information about your visit, including the full Uniform Resource Locators (URL) clickstream to, through and from our site (including date and time); products you viewed or searched for; page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page and any phone number used to call our customer service number.
-  * Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://www.matalan.co.uk/corporate/cookies).
+  * Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://web.archive.org/corporate/cookies).
   * We are also working closely with third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers and search information providers) and may receive information about you from them.
   * Your image may be recorded on CCTV when you visit one of our stores or car parks.
   * Your car number plate may be recorded at some of our car parks to manage parking restrictions.
@@ -85,7 +85,7 @@ We may need your personal data to comply with our contractual obligations. For e
 
 **3.3 Legal Compliance**
 
-If required by law, we may need to collect and process your data.  For example, we may need to process personal data to comply with our legal obligations to share data with law enforcement or to comply with an order from the court.
+If required by law, we may need to collect and process your data.  For example, we may need to process personal data to comply with our legal obligations to share data with law enforcement or to comply with an order from the court. 
 
 **3.4 Legitimate Interest**
 
@@ -181,12 +181,13 @@ We may share your personal information with any member of our group, which means
     * SecureTrading Limited
     * PayPal (Europe) Sarl et Cie, SCA
     * Mobilize Systems Limited
+    * Voucher Express (part of Hemingways)
   * We also use delivery couriers to deliver home delivery orders and click and collect orders. Currently we use the following delivery couriers: 
     * Hermes Parcelnet Ltd
     * DPD UK Ltd
   * We also work with: 
     * Direct marketing companies who help us manage our electronic communications with you;
-    * Google/Facebook to show you products that might interest you while you’re browsing the internet. This is based on either your marketing consent or your acceptance of cookies on our websites. See our [Cookie policy](https://www.matalan.co.uk/corporate/cookies) for details.
+    * Google/Facebook to show you products that might interest you while you’re browsing the internet. This is based on either your marketing consent or your acceptance of cookies on our websites. See our [Cookie policy](https://web.archive.org/corporate/cookies) for details.
     * Data insight companies to ensure your details are up to date and accurate.  
     * Analytical agencies that provide services that will improve the products and services we offer you.
   * We work closely with the third parties with which we share your data to ensure the that the third parties: 
@@ -262,16 +263,20 @@ If you do not consider that your data has been handled correctly by us or you ar
 
 Further details regarding making a complaint to the Information Commissioner’s Office can be found at <https://ico.org.uk/concerns/> (please note that we are not responsible for the content of external websites).
 
-**9\. Third party websites**
+**9\. Use of our services by Children**
+
+Our website is not intended for the use of children under the age of sixteen. We ask that children do not provide personal information through our website. If we become aware that we have collected the information of a child, we will delete that information from our records.
+
+**10\. Third party websites**
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**10\. Changes to this policy**
+**11\. Changes to this policy**
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. Please check back frequently to see any updates or changes to our privacy policy.
 
-**11\. Contact**
+**12\. Contact**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Customer Services at [cs@matalanonline.co.uk](mailto:cs@matalanonline.co.uk) or by calling us on 0333 0044444.
 
-This notice was last updated on 22/05/2018
+This notice was last updated on 30/10/2019
