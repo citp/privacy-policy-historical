@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slidescarnival.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531044933id_/https%3A//www.slidescarnival.com/copyright-and-legal-information%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slidescarnival.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203095250id_/https%3A//www.slidescarnival.com/copyright-and-legal-information%23privacy) for the most accurate reproduction.*
 
 # Terms of use - Slides Carnival
 
