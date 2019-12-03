@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidos.in privacy policy that was archived on 2019-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190110193052id_/https%3A//thegeek.life/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidos.in privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203023121id_/https%3A//thegeek.life/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Geek Life
 
