@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hakshop.myshopify.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521015548id_/https%3A//shop.hak5.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hakshop.myshopify.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203150723id_/https%3A//shop.hak5.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Hak5
 
