@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkinghumanity.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606034353id_/http%3A//www.thinkinghumanity.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkinghumanity.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203135826id_/https%3A//www.thinkinghumanity.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy/Cookies
 
@@ -15,13 +15,14 @@ www.thinkinghumanity.com uses cookies to store information about visitors' prefe
 **DoubleClick DART Cookie**  
 → Google, as a third party vendor, uses cookies to serve ads on www.thinkinghumanity.com.  
 → Google's use of the DART cookie enables it to serve ads to our site's visitors based upon their visit to www.thinkinghumanity.com and other sites on the Internet.   
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
 
 
   * Google
+  * Media.Net
   * RevContent
   * Amazon
 
@@ -49,5 +50,5 @@ This privacy policy applies only to our online activities and is valid for visit
 By using our website, you hereby consent to our privacy policy and agree to its terms. 
 
 **Update**  
-This Privacy Policy was last updated on: Monday, July 27th, 2015. [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")  
+This Privacy Policy was last updated on: Monday, July 27th, 2015.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
