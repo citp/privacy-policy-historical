@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608204218id_/http%3A//www.r2games.com/public/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the r2games.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203022947id_/http%3A//www.r2games.com/public/privacy-policy.html) for the most accurate reproduction.*
 
 # R2Games-home
 
@@ -158,6 +158,6 @@ R2Games reserves the right to change the terms of the Privacy Policy at any time
 
  **If you have any questions or concerns about the Privacy Policy as stated above, you can contact us via the methods below:** ****
 
- **REALITY SQUARED GAME CO., LIMITED** ****
+ **F5 GAME COMPANY LIMITED** ****
 
- **E-mail** **:** **support@r2games.com**
+ **E-mail** **:** **support@r2games.com.hk**
