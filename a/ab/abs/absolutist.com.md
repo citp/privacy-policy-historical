@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509143357id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203111241id_/http%3A//absolutist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We respects your privacy. Under no circumstances will the information you provide to us be disclosed to any third party. We do not sell, rent, or loan any identifiable information regarding our customers to any third party. Any information you give us is held with the utmost care and security, and will not be used in ways to which you have not explicitely consented.
+We respects your privacy. Under no circumstances will the information you provide to us be disclosed to any third party. We do not sell, rent, or loan any identifiable information regarding our customers to any third party. Any information you give us is held with the utmost care and security, and will not be used in ways to which you have not explicitly consented.
 
 **Use of Information**
 
@@ -46,4 +46,4 @@ We have security measures in place to protect the loss, misuse and alteration of
 
 **More Information**
 
-If you have any questions about this privacy statement, please contact our web-site support team: [support at absolutist.com](https://web.archive.org/web/20190509143357id_/http://absolutist.com/contacts/)
+If you have any questions about this privacy statement, please contact our web-site support team: [support at absolutist.com](https://web.archive.org/web/20191203111241id_/https://absolutist.com/contacts/)
