@@ -1,84 +1,246 @@
-> *The following text is extracted and transformed from the duels.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305074505id_/http%3A//www.duels.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duels.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203204413id_/https%3A//www.markmonitor.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Duels
+# Privacy Policy - MarkMonitor
 
-Sign In
+#### Privacy Statement
 
-"All Roads Lead To Phyrra"
+**Effective May 25, 2018**
 
-Register
+We recognize that users of our Web Site and those whose information may be processed in connection with our brand protection products and domain name registration services have a right to understand how we treat their information. This Privacy Statement, which may be updated from time to time, has been developed to provide that information.
 
-[](https://web.archive.org/users/register/)
+It gives details of how MarkMonitor **(“MarkMonitor,” “we”, “us” or “our”)** processes personal data about you, as well as information about [your rights](https://web.archive.org/web/20191203204413id_/https%3A//www.markmonitor.com/legal/your-rights) and about how you can [contact us](https://web.archive.org/web/20191203204413id_/https%3A//www.markmonitor.com/legal/contact) if you have questions about how we handle your information.
 
-Duels is a Player vs. Player (PVP) Strategy Game:
+#### SCOPE OF THIS PRIVACY STATEMENT
 
-  * Create a unique avatar.
-  * Advance your duelist by battling others.
-  * Collect and trade thousands of items.
-  * **FREE** to play!
-  * No download required.
+This Privacy Statement explains how we treat the personal data we collect when you use our Web Site located at www.markmonitor.com and our MarkMonitor Mobile App (together the “Web Site”) or our products and services. It also provides information about how we treat the personal data processed in connection with our products and services.
+
+It also includes specific information on WHOIS domain name registration data.
+
+Sometimes we may need to give you additional notices about specific interactions with us. Where we do so, we will make it clear that these additional notices apply.
+
+#### WHO IS MARKMONITOR?
+
+MarkMonitor provides solutions for the discovery, establishment and protection of intellectual property rights. It is made up of a number of different legal entities, which together form the MarkMonitor group.
+
+MarkMonitor Inc. is an accredited registrar for the WHOIS domain name database and is the data controller of personal data submitted in connection with domain name registrations. Its representative in the European Economic Area is Clarivate Analytics UK Ltd, Friars House, 160 Blackfriars Road, London, England, SE1 8EZ.To find out which legal entity makes decisions about the way other personal data is treated, please contact data.privacy@clarivate.com
+
+#### WHAT SOURCES DO WE COLLECT INFORMATION FROM?
+
+When you visit our Web Site or use our products and services, we collect information about you. Typically, we collect or obtain your personal data because you provide it to us, or we observe or infer that information about you from the way you interact with us.
+
+_In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Website’s content or our products or services._
+
+We use WHOIS domain name registration information and publicly available information to provide our products and services.
+
+We collect personal data **from you** :
+
+  * **when you interact with us,** e.g., when you contact us, purchase or use our services, and request content. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
+  * **when you use our Web Site,** e.g. when you fill in online forms, we collect the information that you include in those forms.
+  * **through cookies and similar technologies included on our Services** , e.g. when you access the Website, we collect device and usage information as described in more detail here.
 
 
 
-Privacy Policy
+We also collect personal data about you from third parties such as:
 
-At Challenge Online Games, Inc. (“Challenge”) we share your concerns about privacy while using our website, www.duels.com (the "Site” or “Duels”). Accordingly we want you to understand what types of information we are collecting and what may happen to that information.  This Privacy Policy details how we safeguard the privacy of our on-line users and does not apply to information that may be collected by us off-line. This Privacy Policy is incorporated into and is subject to the Duels Terms of Use. Your use of Duels and any personal information you provide through Duels remains subject to the terms of this Privacy Policy and our Terms of Use.
-
-WHAT YOU WILL FIND IN THIS PRIVACY POLICY
-
-  * How we collect information about you
-  * How we use or share information about you
-  * How we safeguard information about you 
-  * Other matters related to the information we collect about you
+  * **the organisation(s) or person(s) who have arranged your access to our products and services** (e.g. your employer may provide us with contact information so that we can set up your login)
+  * WHOIS registrars in order to enable us to carry out brand protection activities. For example, if a website registered in your name contains potentially infringing material, we look up your contact details so that we can ask you to remove that material [Hyperlink to “How Do We Treat WHOIS Domain Name Registration Information?”]
+  * **clients** who instruct us in connection with our brand enforcement services
+  * **from internet searches.** Where intellectual property infringement may be taking place, we collect personal data relating to web locations (such as IP addresses, social media content, and domain names)
+  * **other public or paid-for sources** in connection with brand protection investigations.
 
 
 
-COLLECTION OF INFORMATION
+#### WHAT TYPES OF PERSONAL DATA DO WE COLLECT? 
 
-Information is collected from our users at several different points during your use of Duels.  In general, information is collected in connection with the purchase of goods or services though our on-line stores, surveys, newsletters, user registrations for products, services, warranties, contests or for on-line game participation, message boards, and complaints or third party communications we may receive regarding our users.
+How you interact with us, and the different products and services you access or use or are identified in connection with, determines what personal data we collect about you. We generally process non-sensitive personal data. However, in the course of our brand protection activities, we may identify conduct that is a criminal offense in some jurisdictions. You can learn more about this in this section.
 
-Registration. To use some resources available through Duels, a user must complete our registration process. During registration, a user is required to provide certain categories of information, which may include a name, address, e-mail address, and a password.
+The personal data we collect consists of the following:
 
-Optional Information. At various other points during your use of Duels, you may be asked to provide information about yourself. For example, you may wish to participate in a survey or a contest. Participation in surveys or contests or the use of other services which require the input of additional information is completely voluntary on your part, and you have the choice about whether to disclose the information necessary to use these features of our site.  Users purchasing products or services through our on-line stores will be required to provide additional information such as a valid credit card number, expiration date, and shipping and billing addresses.
+  * **Name and contact details,** e.g., name, e-mail address, postal address, telephone number
+  * **Login Credentials,** e.g., security and credentialing information required to access our services
+  * **User inputted content,** e.g. content you provide to us when you use our products and services (e.g. if you use notes areas of our products to record your findings or contact our customer service team)
+  * **Device information,** e.g., information about your computer or other device, such as IP address, location or provider
+  * **Usage information,** e.g., information about your use of our Web Site, such as date and time of visits, the pages viewed, time spent at our Web Site
+  * **Billing information,** e.g. credit card number and payment details
+  * **Purchase history,** e.g. purchases you have made, when your subscriptions expire or renew
 
-Passive Collection of Information. In addition to the information which you actively provide to us by methods such as completing the registration form, we collect information about how you interact with Duels. We collect passive information for purposes such as testing and improving a user's experience with Duels and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. The types of passive information collected by this site include, without limitation, your IP address, which type of browser you are using, where you go within Duels and your behavior within Duels. 
 
-Cookies. When you visit the Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. We use both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Site may not function properly if the ability to accept cookies is disabled.
 
-Collection of Information from Children. Challenge abides by federal law and the guidelines set up by the Federal Trade Commission regarding youth privacy (Children's Online Privacy Protection Act). As such, we will not knowingly collect any personal information from or allow the registration of young people under the age of 13.
+In the course of identifying IP infringements or fraudulent activity and in pursuing related enforcement action, we also record data relating to **alleged or actual criminal offenses**.
 
-USE / SHARING OF INFORMATION 
+#### HOW DO WE TREAT WHOIS DOMAIN NAME REGISTRATION INFORMATION?
 
-We may use your information in order to deliver products and services to you and to customize Duels to your interests and enhance your overall experience with Duels. We try to recognize you using various methods, including having you log in with your user name and your password. Once we recognize you advertisements and other content may be customized for you so that you can see what interests you the most. In addition, as described above, we utilize passive information to learn more about how you interact with Duels. This passive information may be combined with your other information for purposes such as testing and improving your experience at our site and the compilation of broad aggregate demographic data and related usage information for internal purposes and for disclosure to third parties such as advertisers and content partners. This aggregate passive information does not contain any personal information which can identify any individual user. 
+WHOIS is a list of all registered domains, which is maintained by registrars in accordance with the procedures set out by the Internet Corporation for Assigned Names and Numbers (ICANN).
 
-We may use your contact information periodically in order to send you e-mail regarding updates to Duels and to alert you or remind you of happenings related to Duels. The frequency of these messages will vary depending upon various factors.
+If you register a domain your personal data is shared with registries and selected organisations for important lawful purposes, such as brand protection, facilitating cyber security, combatting fraud and SPAM, and confirming domain name ownership and availability.
 
-We will not knowingly sell, share, rent or otherwise transfer your information other than in accordance with the terms set forth in this Privacy Policy. We do not share any information that can be tied to you without your permission. If you give your permission to allow third parties to contact you, personal information about you (such as your contact information and other information collected during your visit to Duels) may be shared with data aggregators, marketers (possibly in the form of list rental), and other organizations. Regardless of your decision regarding the sharing of your personal information, we may share broad aggregate demographic data and related usage information with our business partners. This aggregate information does not contain any personal information which can identify any individual user. 
+If you register a domain with MarkMonitor Inc. (as data controller) or any other ICANN-accredited registrar, you are required to provide your name and contact details ( **“Registrant Information”** ). This personal data is shared with registries and with third parties who have a reasonable need to view it (e.g. brand protection, cyber security, fraud prevention). We process requests for non-public registration data according to our published [process](https://www.markmonitor.com/legal/privacy-policy/whois-request).
 
-From time to time, we may decide that it is more efficient to use third parties to perform specific services, such as sending communications to our users. If we use a third party to provide specific services (such as sending communications to our users on our behalf), then information (such as contact information) may be shared with that party to the extent necessary for the third party to provide these services. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services requested by us. The third party services covered by this paragraph do not include links to third party sites found on our site, which are governed by a more specific provision below.
+**How WHOIS information is used**
 
-While we strive to protect the personal information of our users, we will release personal information if required by law or in the good-faith belief that such action is necessary or appropriate. 
+MarkMonitor relies on legitimate interests to process Registrant Information. We process Registrant Information for the following purposes:
 
-Our sites may also have message boards or chat areas, where users can exchange ideas and communicate with one another. When posting to a message board or chat area, please be aware that the information is being made publicly available on-line and any user does so at his or her own risk.
+  * **Registrar Administration:** we administer and maintain a register of domain names managed by MarkMonitor
+  * **Brand Protection:** to prevent, detect and investigate fraud and intellectual property infringements on behalf of our clients
+  * **Update the Public WHOIS Database:** to support cyber-security and IP infringement activities (amongst other things), members of the public who search to see who owns your domain will be able to see your organisation, state/province and country.
+  * **Update WHOIS registries:** we disclose Registrant Information to a Registry and an Escrow Agent in accordance with the terms of our Registrar Accreditation Agreement with ICANN. The personal data they hold may be searched by third parties who have demonstrated to the registrars that they have a need to see it (e.g. to support cyber security and IP infringement activities). We may search Registrant Information collected by other registrars for brand protection purposes.
+  * **Contact:** we may use Registrant Information to contact you if there is a query relating to your domain name
 
-SECURITY 
 
-We have security measures in place to help protect against the loss, misuse and/or unauthorized alteration of the information under our control. You are the only user authorized to update your profile, unless you provide your password information to another party.
 
-We utilize both online and offline security methods, including firewalls, passwords and restricted physical access to the places where your information is stored to help protect personally identifiable information. Our staff is trained to comply with our security procedures, and our security procedures are regularly reviewed and revised, if necessary, by our privacy team.
+MarkMonitor has carried out legitimate interests assessments to confirm that the public interest in processing Registrant Data as described above is not outweighed by the rights and freedoms of registrants. For further information, please contact data.privacy@clarivate.com.
 
-If you have any questions about security issues at our site, please use our contact form. and we will try to answer your questions. 
+**Your Consent to Additional Disclosure**
 
-OTHER PROVISIONS
+You may wish us to make your name and contact details public on WHOIS registries, to make it easier for others to contact you in relation to your domain name. You will need to provide your explicit consent (strictly optional) in order for us to do this. Contact data.privacy@clarivate.com for further information.
 
-Duels is hosted in the United States and is intended for and directed to users in the United States. If you are a user accessing Duels from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of Duels, which is governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
+**Access and Correction of WHOIS Information**
 
-Your use of Duels indicates an acceptance of the terms of the Privacy Policy. We reserve the right to update or amend this Privacy Policy at any time.
+You may access and correct WHOIS information in accordance with data protection laws by contacting data.privacy@clarivate.com. You should also be aware of your other rights in relation to personal data.
 
-In the event that we sell, assign or transfer some or all of our business to a successor or acquirer, we may sell, assign or transfer all of your information, regardless of your opt status, to such successor or acquirer. 
+**Other Information**
 
-Duels may contain links to other third party sites, applications or content. Please be aware that we do not exercise control over the information, applications, products, services or policies of third parties accessible through Duels. We encourage our users to be aware when they leave Duels and to read the privacy policies of each and every third party that may be providing sites, applications or content linked to Duels.  This Privacy Policy applies solely to the information collected by us on-line through Duels. 
+We transfer your information internationally and retain it as further described in this Privacy Statement.
 
-The State of California enacted the Shine the Light law (CA Civil Code Sec 198.83) that permits users who are California residents to request certain information regarding the disclosure of personal information during the past year for marketing purposes. To make such a request, you can contact us at [[privacy@duels.com](mailto:privacy@duels.com)].
+#### HOW DO WE USE PERSONAL DATA?
 
-Your privacy is important to us. If you have questions about any of the provisions described above, please contact us at [[privacy@duels.com](mailto:privacy@duels.com)].
+This section sets out the purposes for which we use personal data and the legal grounds for processing that personal data.
+
+We use your personal data to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or for other purposes that are in our legitimate interests, as well for compliance purposes. Further information is set out below.
+
+We are required by law in Europe to explain in this Privacy Statement the legal grounds on which we rely to process your personal data. We process personal data about you when:
+
+  * **it is necessary for our or a third parties’ legitimate interests:** details of those legitimate interests are set out below and, specifically for WHOIS domain name registrant information, also here.
+  * **where you give us your consent:** we collect consent in only limited circumstances, e.g. for marketing or, if you choose it, for the publication of your name and contact details on the WHOIS database as part of your domain name registration. If we do ask for your consent, we will make it clear that we are asking for consent and collect it separately.
+  * **it is necessary to comply with a legal or regulatory obligation** (e.g., to respond to a court order or a regulator)
+
+
+
+Where we process data relating to actual or alleged criminal offenses, we do so because the processing is authorised by law providing for appropriate safeguards for the rights and freedoms of data subjects.
+
+For further information on the legal grounds that we rely on in relation to any particular processing of your personal data, please contact data.privacy@clarivate.com.
+
+#### WHAT ARE OUR LEGITIMATE INTERESTS IN USING INFORMATION?
+
+Our legitimate interests in processing personal data are mainly customer and product administration, provision and improvement of our services, domain name registration, protection of legal rights, and marketing. More detailed information about these legitimate interests is set out below for all information and, specifically for WHOIS data, in the WHOIS section above.
+
+  * **Customer and Product Administration:** to create your account, provide you with the information, content, products or services that you have requested, provide user and technical support, enforce our terms of business, invoice, administer our relationship with you generally and communicate with you about your account and subscription
+  * **Domain registration and transfers:** to register or transfer domain names, on behalf of our clients, including as described here
+  * **Brand Protection and Fraud Prevention:** to prevent, detect and investigate fraud and intellectual property infringements on behalf of our clients
+  * **Product Development:** to deliver personalized functionality in our services, such as your saved searches. We also analyze product usage information to understand which content and tools are most useful for users.
+  * **Web Site Analysis and Personalisation:** We use information collected on our Web Site in aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site and to analyse the programs and services that we offer.
+  * **Marketing:** to send you marketing communications about events, white papers, and information about our services which may interest you. Your choices in relation to marketing are explained here.
+  * **Security and Crime Prevention:** to prevent fraud or criminal activity, misuses of our Web Site as well as the security of our IT systems, architecture and networks
+  * **Legal Rights:** to exercise our rights, and to defend ourselves from claims and to comply with laws and regulations that apply to our group or third parties with whom we work
+
+
+
+We balance our and third parties’ legitimate interests against your interests, fundamental rights and freedoms when processing personal data on the basis of legitimate interests. For more information about the balancing exercises we have carried out, please contact us data.privacy@clarivate.com.
+
+#### MARKETING
+
+We may send you marketing communications about white papers and events. We may also contact you about our programs, products, features or services that may interest you. If you do not wish to receive marketing information from us, you can email marketing@markmonitor.com with “unsubscribe” in the subject line; or follow the “unsubscribe” link provided in the e-mail that you receive.
+
+You have the right to opt out of receiving direct marketing.
+
+Our e-mail marketing communications include an unsubscribe link which allows you to opt out of receiving any future marketing e-mails. You may also opt out of e-mail marketing by contacting us at marketing@markmonitor.com with “unsubscribe” in the subject line.
+
+Please note that even after you opt out of receiving e-mail marketing communications, we may still send you service communications relating to your account and subscriptions. We may still contact you regarding your use of our Web Site.
+
+We share personal data with our employees, third party service providers, partners and in accordance with law. Our third-party service providers are contractually required to protect personal data in a manner that is consistent with this Privacy Statement.  
+We share your information for the purposes set out in this Statement, with the following categories of recipients:  
+• the account administrator, in the case of corporate or shared subscriptions.  
+• service providers who process personal data on our behalf, such as cloud computing providers and web analytics services.  
+• registry operators and data escrow agents where you purchase, transfer, or cancel a domain name  
+• professional advisors such as legal counsel and information security professionals where reasonably required to protect our rights, users, systems and our Web Site  
+• government agencies, law enforcement, courts and other public authorities where we have a duty to or are permitted to disclose your personal data by law  
+• prospective buyers, sellers, advisers or partners in relation to any sale, merger, acquisition, restructure, joint venture, assignment, transfer or similar corporate event, in which case we may disclose your personal data to and your data may be a transferred asset in a business sale  
+We may also provide access to your personal data when legally required to do so, to cooperate with police investigations or other legal or enforcement proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.
+
+#### DATA SECURITY
+
+We take reasonable steps to maintain the security of the personal data that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
+
+#### INTERNATIONAL TRANSFER OF INFORMATION
+
+MarkMonitor is a global business and your personal data may be transferred to and processed in countries with different privacy and data protection laws, including the United States. Where we transfer personal data internationally we ensure that appropriate safeguards in accordance with data protection laws are in place, which include standard contractual clauses or cross-border privacy frameworks like EU-U.S. Privacy Shield. More information about these safeguards (including copies, where relevant) can be obtained by contacting us at data.privacy@clarivate.com  
+This Web Site is operated in the United States and information collected by this Web Site is processed in the United States.  
+We are a global business and may disclose or transfer your personal data within MarkMonitor or to third parties in areas outside of your home country, including to countries that have not been declared adequate for the purposes of data protection by the European Commission (e.g. the United States).  
+If we transfer your personal data internationally, we implement appropriate safeguarding measures (typically contracts) in accordance with applicable law to protect your personal data.  
+If you would like copies of any relevant safeguarding measures, please contact us at data.privacy@clarivate.com.
+
+#### HOW LONG DO WE KEEP PERSONAL DATA FOR?
+
+We store your personal data throughout your relationship with us and retain it only for as long as necessary to fulfil the purposes for which it was collected. In some cases, we may retain your personal data to satisfy legal or regulatory obligations.
+
+MarkMonitor retains personal data in accordance with its retention policy. The period for which we retain your information varies depending on your relationship with us and the purposes for which it was collected. Our retention policy set out how we determine the appropriate length of time to retain different types of information.
+
+We consider the following criteria when determining our retention periods:
+
+  * the length of time necessary to fulfil the purposes we collected it for
+  * the date on which services you or the account administrator terminated the services or subscription
+  * whether our duties and obligations require us to retain information for a certain period
+  * any relevant period of limitation within which claims must be made
+  * any periods set down by law or recommended by regulators, or associations (including ICANN)
+  * the existence of any relevant claims or proceedings
+
+
+
+#### COOKIES
+
+Like many other Web Sites, this Web Site uses cookies, web server logs and third party services like Google Analytics to deliver you a better experience and to understand how our Web Site is used.
+
+**Cookies/ Web server logs:** Similar to other commercial Web Sites, our Web Site utilizes standard technology called “cookies” and Web server logs to collect information about how our Web Site is used. Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web Site. Cookies are small pieces of data that are stored by a user’s Web browser on the user’s hard drive. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web Site, and the Web sites visited just before and just after our Web Site. This information is analysed on an aggregate basis.
+
+You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser’s provider/manufacturer if you have any questions regarding disabling cookies.
+
+**Third Party Services:** We may use services hosted by third parties, such as Google Analytics, to assist in providing our services and to help us understand how our Web Site is used. These services may collect information sent by a browser as part of a web page request, including IP addresses or cookies. These third-party services collect information in the aggregate to provide information helpful to us such as Web Site trends, without identifying individual visitors to us. Please see “Cookies” in the section above for information on how you can control the use of cookies on your computer.
+
+#### LINKS
+
+This Web Site contains links to third party sites. Please be aware that MarkMonitor is not responsible for the privacy practices of any third-party sites. Therefore, we encourage our users to read the privacy statement of each and every Web Site that collects personal data.
+
+#### CHILDREN
+
+Protecting children’s privacy is important to us. For that reason, we do not collect or maintain information from those we actually know are under the age of 16, nor is our Web Site nor our products and services targeted to attract anyone under 16. We request that all visitors to our Web Site who are under 16 not disclose or provide any personal data. If we discover that a child under 16 has provided us with personal data, we will delete that child’s personal data from our records.
+
+#### YOUR RIGHTS
+
+You may have rights under European and other laws to have access to the information we hold about you, and to request that we correct, erase or restrict our use of your information. In some cases, you may also have the rights to object to or withdraw your consent to our use of your information, and to request a transfer of information you have provided to us. Further information on how to exercise your rights is set out below.
+
+We will respect the rights afforded to you under applicable data protection laws. You have the following rights under European laws and may have similar rights under the laws of other countries. The following rights are not absolute and do not apply in all cases.
+
+  * **Right of subject access:** The right to request, in writing, a copy of your personal data and details about the processing of that information.
+  * **Right to rectification:** The right to have inaccuracies in your personal data corrected or removed
+  * **Right to erasure (‘right to be forgotten’):** The right to your personal data erased
+  * **Right to restriction of processing:** The right to limit the use of your personal data to specific purposes
+  * **Right to opt out of marketing:** You may opt out of marketing communications via the unsubscribe links in our communications with you or by contacting us at marketing@markmonitor.com with “unsubscribe” in the subject line.
+  * **Right to object:** Where our processing is necessary for our or a third party’s legitimate interests or for the performance of a task carried out in the public interest, you have the right to object our processing of your personal data
+  * **Right to data portability:** The right to request that we transfer personal data you have provided to us to you or a third party in machine-readable format
+  * **Right to withdraw consent:** The right to withdraw your consent to our use of your personal data. Your withdrawal of consent, however, does not affect the lawfulness of any prior use of your personal data.
+
+
+
+When responding to your request, we may ask you to verify your identity or provide information to help us better understand your request. We will provide you with explanation, where we are unable to comply with your request in whole or in part.
+
+In order to exercise your rights please contact us at privacy.inquiries@markmonitor.com.
+
+#### HOW TO CONTACT US
+
+Please contact us at data.privacy@clarivate.com or at Privacy Inquiries, MarkMonitor, Friars House, 160, Blackfriars Rd, London SE1 8EZ, United Kingdom if you have any questions or complaints about this Privacy Statement or in relation to our processing of personal data.
+
+[If you wish to contact our Data Protection Officer, please email: data.privacy@clarivate.com with “FAO MM DPO” in the subject line or write to: FAO Data Protection Officer, MarkMonitor, Friars House, 160, Blackfriars Rd, London SE1 8EZ.]
+
+In the European Economic Area, you have the right to complain to a privacy supervisory authority. The relevant supervisory authority is the one in the country or territory where:
+
+  * you are resident,
+  * you work, or
+  * the alleged infringement took place.
+
+
+
+The National Data Protection Authorities in the European Economic Area are listed here: <http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm>.
+
+#### UPDATES TO THIS STATEMENT
+
+This Statement may be updated from time to time. Any material future changes or additions to the processing of personal data as described in this Statement affecting you will be communicated to you through an appropriate channel. Generally, we will also place a prominent notice on our Web Site or contact to inform you of the material changes in the updated Statement.
