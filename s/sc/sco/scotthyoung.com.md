@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotthyoung.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513165126id_/https%3A//www.scotthyoung.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotthyoung.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203150207id_/https%3A//www.scotthyoung.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scott H Young
 
@@ -87,13 +87,16 @@ You may withdraw your consent at any time, subject to legal or contractual restr
 
 We may disclose your personal information to a third party provider under contract with us for the purpose of provision of payment processing service.  In such circumstances, the information is provided to the payment processors whose use of your personal information is governed by their privacy policy.  You hereby consent to us disclosing your personal information to the following payment processors that we work with:
 
-  * Infusionsoft.  You can view their privacy policy at [https://www.infusionsoft.com/legal/privacy-policy](https://www.infusionsoft.com/legal/privacy-policy)
-  * PayPal.  You can view their privacy policy at [https://www.paypal.com/ca/webapps/mpp/ua/privacy-full](https://www.paypal.com/ca/webapps/mpp/ua/privacy-full);
-  * Bambora.  You can view their privacy policy at [https://www.bambora.com/en/ca/privacy-policy/](https://www.bambora.com/en/ca/privacy-policy/). 
-  * Stripe.  You can view their privacy policy at [https://stripe.com/us/privacy](https://stripe.com/us/privacy). 
-  * Zapier.  You can view their privacy policy at [https://zapier.com/privacy/](https://zapier.com/privacy/). 
-  * WP Simple Pay.  You can view their privacy policy at [https://wpsimplepay.com/privacy/](https://wpsimplepay.com/privacy/). 
-  * Authorize.net.  You can view their privacy policy at [https://www.authorize.net/about-us/privacy/](https://www.authorize.net/about-us/privacy/). 
+  * ConvertKit.  You can view their privacy policy at <https://convertkit.com/privacy/>
+  * PayPal.  You can view their privacy policy at <https://www.paypal.com/ca/webapps/mpp/ua/privacy-full>;
+  * Deadline Funnel.  You can view their privacy policy at  
+<https://deadlinefunnel.com/tos>.
+  * Stripe.  You can view their privacy policy at <https://stripe.com/us/privacy>.
+  * Authorize.net.  You can view their privacy policy at <https://www.authorize.net/about-us/privacy/>.
+  * OptinMonster. You can view their privacy policy at [https://optinmonster.com/privacy/ ](https://optinmonster.com/privacy/)
+  * LifterLMS. You can view their privacy policy at <https://lifterlms.com/privacy-policy/>
+  * Zendesk. You can view their privacy policy at <https://www.zendesk.com/company/customers-partners/privacy-policy/>
+  * AffiliateWP. You can view their privacy policy at <https://affiliatewp.com/privacy-policy/>
 
 
 
