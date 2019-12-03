@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the emailmeform.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617225235id_/https%3A//www.emailmeform.com/v-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailmeform.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203033124id_/https%3A//www.emailmeform.com/v-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - EmailMeForm
 
 ## 1\. Introduction
 
-This Privacy Policy applies to all the products, services, websites and apps offered by EmailMeForm LLC, except where otherwise noted. We refer to those products, services, websites and apps collectively as the "Services" in this policy. 
+This Privacy Policy applies to all the products, services, websites and apps offered by EmailMeForm LLC, except where otherwise noted. We refer to those products, services, websites and apps collectively as the "Services" in this policy.
 
 References to "data" in this Privacy Policy will refer to whatever data you collect using our services, whether it be form or survey responses, or data inserted on a site hosted by us. Reference to personal information or just information, means information about you personally that we collect or for which we act as data processor.
 
@@ -97,7 +97,7 @@ You have consented to us using certain types of cookies on our websites. In part
 
   * ##### Page tags and web beacons.
 
-We collect information from page tags and web beacons to allow us to determine the success of our advertising campaigns and content.
+We collect information from page tags and web beacons to allow us todetermine the success of our advertising campaigns and content.
 
 We use this data to personalize online marketing campaigns to be relevant to you and your use of our services. For more information please read our Cookies Policy.
 
@@ -243,7 +243,7 @@ We collect information about the web pages you have visited and your activity on
 
   * ##### Device data.
 
-We use device data both to troubleshoot problems with our service and to make improvements to it. We also infer your geographic location based on your IP address. 
+We use device data both to troubleshoot problems with our service and to make improvements to it. We also infer your geographic location based on your IP address.
 
 _Examples_  
 We collect device and browser information from you to troubleshoot website functionality issues and to fix bugs.
@@ -308,7 +308,7 @@ We enter into confidentiality and data processing terms with partners to ensure 
 
 ## 6\. Cookie Policy
 
-EmailMeForm Ltd. is the company that manages the website [www.emailmeform.com](https://www.emailmeform.com/) and all its properties. Our websites use cookies to improve browsing experience and provide personalized content to our visitors and users. 
+EmailMeForm Ltd. is the company that manages the website [www.emailmeform.com](https://www.emailmeform.com/) and all its properties. Our websites use cookies to improve browsing experience and provide personalized content to our visitors and users.
 
 We may also share the anonymous and non-personally identifiable cookie information we collect with the third-party tools we use to improve our service, market our product, and analyze the performance of our website and its properties. By using our website you accept our use of cookies.
 
@@ -355,7 +355,7 @@ We use four types of cookies, which we describe in this section.
 
 
 
-All of the cookies used by EmailMeForm are safe for your computer and they only store information that is used by the browser. 
+All of the cookies used by EmailMeForm are safe for your computer and they only store information that is used by the browser.
 
   * They cannot access your computer or harm it in any way. 
   * Many of our cookies are necessary for the proper functioning of our website.
@@ -399,11 +399,11 @@ Our services are not intended for and may not be used by minors. "Minors" are in
 
 **9.1** Any Service provided by EmailMeForm is purely voluntary. You are not required to provide any personal information to us unless you choose to access features of the Service that require such information. If you do not agree with the terms of this policy or EmailMeForm’s Terms of Use related to the Service, then please do not provide us with personal information, exit the websites immediately, and refrain from using the Service.
 
-**9.2** Accordingly, by creating an EmailMeForm Account (as defined in the Terms of Use), or by otherwise accessing, visiting or using the Service, you expressly consent to our collection, use, disclosure and retention of your information as described in this Privacy Policy and in the EmailMeForm’s Terms of Use. 
+**9.2** Accordingly, by creating an EmailMeForm Account (as defined in the Terms of Use), or by otherwise accessing, visiting or using the Service, you expressly consent to our collection, use, disclosure and retention of your information as described in this Privacy Policy and in the EmailMeForm’s Terms of Use.
 
 ## 10\. Changes to the Privacy Policy
 
-We may amend this Privacy Policy from time to time. You may be required to accept the amended Privacy Policy upon logging in to your EmailMeForm Account in order to keep using the Service. Alternatively, we may post any material changes to this Privacy Policy on the Site with a notice advising of the changes in advance of the effective date of the changes. We may also notify you of material changes to this Privacy Policy, before the effective date of the changes, by sending an email or in another manner reasonably designed to notify you. If you do not agree to the new Privacy Policy, you may terminate using the Service within the applicable thirty (30) day period and you will not be bound by the new terms. Otherwise, the new terms will take effect after thirty (30) days. 
+We may amend this Privacy Policy from time to time. You may be required to accept the amended Privacy Policy upon logging in to your EmailMeForm Account in order to keep using the Service. Alternatively, we may post any material changes to this Privacy Policy on the Site with a notice advising of the changes in advance of the effective date of the changes. We may also notify you of material changes to this Privacy Policy, before the effective date of the changes, by sending an email or in another manner reasonably designed to notify you. If you do not agree to the new Privacy Policy, you may terminate using the Service within the applicable thirty (30) day period and you will not be bound by the new terms. Otherwise, the new terms will take effect after thirty (30) days.
 
 ## 11\. Rights to Access, Rectification or Erasure, Restriction and Objection of Processing
 
@@ -415,7 +415,7 @@ EmailMeForm complies with the GDPR framework as set forth by the EU regarding th
 
 Your data is not disclosed to any third party except (i) for providing the services you requested and for which EmailMeForm collaborates with third parties, (ii) when we have your permission, (iii) when it is required by a competent authority in the exercise of its duties (for example in order to investigate, prevent or take action regarding illegal activities) or (iv) as otherwise required by law.
 
-We do not use your data other than as described in this Privacy Policy and the Terms of Use. 
+We do not use your data other than as described in this Privacy Policy and the Terms of Use.
 
 ## 13\. Canceling Your Account and Modifying Personal Information
 
@@ -427,7 +427,7 @@ We do not use your data other than as described in this Privacy Policy and the T
 
 ## 14\. Data Retention
 
-**14.1** We retain information for active EmailMeForm Accounts as long as it is necessary and relevant for our operations. In addition, we may retain information from closed accounts to comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce the Terms of Service and take other actions permitted by law. 
+**14.1** We retain information for active EmailMeForm Accounts as long as it is necessary and relevant for our operations. In addition, we may retain information from closed accounts to comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigation, enforce the Terms of Service and take other actions permitted by law.
 
 **14.2** The information we retain about you will be handled in accordance with this Privacy Policy during the maximum terms permitted by law, and will exclusively be used for the purposes described in section 14.1 above.
 
@@ -435,9 +435,23 @@ We do not use your data other than as described in this Privacy Policy and the T
 
 **14.4** EmailMeForm is committed to maintaining your privacy and security. We respect the privacy of all of our account holders and the data collected from the forms. Although EmailMeForm may own the data storage, databases and the service, you retain all rights to your data. We will also not utilize your data in our databases to compete with you, market to your clients, advertise to, or contact them for any reason. The only exception to our strict adherence to your privacy is if it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service, or as otherwise required by law.
 
-## 15\. Terms of Service
+## 15\. EU-U.S. Privacy Shield
 
-Your use of the EmailMeForm services is governed by our [Terms and Conditions](https://www.emailmeform.com/v-terms.html), which contains disclaimers, limitations of liability and a choice of California law and jurisdiction. 
+**15.1** EmailMeForm is located in the United States and accordingly, data (to include Respondent data) will be transferred to the United States.
+
+EmailMeForm participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. EmailMeForm is committed to subjecting all personal information and data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. https://www.privacyshield.gov/.
+
+EmailMeForm also complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+When EmailMeForm receives personal information under the Privacy Shield and then transfers it to a third-party service provider acting as agent on EmailMeForm’s behalf, EmailMeForm has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) EmailMeForm is responsible for the event giving rise to the damage. With respect to personal data received or transferred pursuant to the Privacy Shield Framework, EmailMeForm is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain situations, EmailMeForm may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+Please contact EmailMeForm below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at https://gdpr-rep.eu/q/14023091.
+
+Under certain conditions, more fully described on the Privacy Shield website https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+## 16\. Terms of Service
+
+Your use of the EmailMeForm services is governed by our [Terms and Conditions](https://www.emailmeform.com/v-terms.html), which contains disclaimers, limitations of liability and a choice of California law and jurisdiction.
 
 ## Contact Us
 
