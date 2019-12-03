@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chordu.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503043509id_/https%3A//chordu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chordu.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204001646id_/https%3A//chordu.com/privacy-policy) for the most accurate reproduction.*
 
 # ChordU Privacy Policy
 
@@ -181,7 +181,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
  **  
 If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
+app.chordu@gmail.com and we will promptly remove you from **ALL** correspondence.
 
  **Contacting Us**
 
@@ -189,5 +189,7 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+app.chordu@gmail.com
 
 Last Edited on 10th DEC, 2017
