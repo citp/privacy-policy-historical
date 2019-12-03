@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the useit.com privacy policy that was archived on 2019-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190622005040id_/http%3A//www.nngroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the useit.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203054133id_/https%3A//www.nngroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Nielsen Norman Group: UX Research, Training, and Consulting
 
-Updated May 24, 2018
+Updated October 22, 2019
 
 We respect your privacy. When you give us your personal information, we use it only to fulfill the transaction or service you have requested.
 
@@ -24,15 +24,16 @@ The aim of this policy is to tell you how we will use any personal information w
 
 You do not have to give us any personal information in order to use most of this website.
 
-However, if you wish to subscribe to our newsletter, attend the UX Conference, attend or purchase an Online Seminar, purchase a Research Report, or request further information, we may collect the following personal information from you: name, address, phone number, email address, employment details, and employer details.
+However, if you wish to subscribe to our newsletter, attend the UX Conference, attend or purchase an Online Seminar, purchase a Research Report, or request further information, we may collect the following personal information from you: name, address, phone number, email address, employment details, and employer details. If you choose to participate in commenting on this website, we will collect a display name and portrait. 
 
 We will also keep a record of any financial transaction you make with us but we do not directly collect, process or store your debit or credit card information. Online payments made through this website are processed securely by third party payment providers.
 
-We use different processors for different types of transactions and to manage support for different services. For more information about how your data will be handled please find your transaction type in the list below and refer to the respective provider's privacy policy:
+We use different processors for different types of transactions and to manage support for different services. For more information about how your data will be handled please refer to the respective service provider's privacy policy:
 
   * Research Report Purchases: FastSpring  <https://fastspring.com/privacy/>
-  * Online Seminars: LogMeIn, <https://www.logmeininc.com/legal/overview>
-  * UX Conference Payments: Spreedly, <https://www.spreedly.com/privacy> and Stripe, <https://stripe.com/us/privacy>
+  * Online Seminars: Crowdcast,  <https://www.crowdcast.io/privacy-policy>
+  * UX Conference Payments: Stripe, <https://stripe.com/us/privacy>
+  * Comments: Graphcomment, <https://graphcomment.com/en/conditions.html#5> and Uploadcare, <https://uploadcare.com/about/privacy_policy_20190725/>
 
 
 
@@ -50,7 +51,8 @@ The personal information we collect allows us to:
   * gather management information to form statistical and trend analysis;
   * communicate with you;
   * investigate any complaints about this website;
-  * personalize your experience of this website; and
+  * personalize your experience of this website;
+  * display any comments you contribute to pages on this website, along with your display name and portrait; and
   * contact you about our products and services which we think might be of interest to you (where we have the appropriate permissions to do so; please see Paragraph 5 for more information).
 
 
@@ -58,7 +60,8 @@ The personal information we collect allows us to:
 We may employ the services of third party service providers to help us in certain areas, such as website hosting, event management, and email delivery. In some cases the third party may receive your information. However, at all times, we will control and be responsible for the use of your information. We use the following services to deliver information and products:
 
   * **Email Newsletter Delivery** : Mailchimp, <https://mailchimp.com/legal/privacy/>
-  * **Online Seminar Registration and Delivery** : LogMeIn, <https://www.logmeininc.com/legal/overview>
+  * **Online Seminar Registration and Delivery** : Crowdcast,  <https://www.crowdcast.io/privacy-policy> 
+  * **Comments:** Graphcomment, <https://graphcomment.com/en/conditions.html#5> and Uploadcare, <https://uploadcare.com/about/privacy_policy_20190725/>
   * **UX Conference Registration Management** : Teamdesk, <https://www.teamdesk.net/privacy>
     * UX Conference Event Managers 
       * Australia: ID Events Australia, <https://www.ideventsaustralia.com/>
