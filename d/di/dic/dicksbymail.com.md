@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dicksbymail.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601142329id_/https%3A//dicksbymail.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dicksbymail.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203161946id_/https%3A//dicksbymail.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Dicks By Mail - Anonymously mail a bag of dicks
 
