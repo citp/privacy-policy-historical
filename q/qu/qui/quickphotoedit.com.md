@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickphotoedit.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617200616id_/http%3A//eula.mindspark.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickphotoedit.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203022252id_/http%3A//eula.mindspark.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -135,24 +135,6 @@ These service providers may have access to information, which is needed to perfo
 G. HOW LONG WE KEEP YOUR INFORMATION
 
 We only keep your personal information as long as it is necessary for the purposes set out in this Privacy Policy including for legitimate business purposes and as permitted by applicable law. We will only use your information to the extent necessary to comply with our legal obligations, resolve any legal issues, enforce our agreements, and as otherwise described in this policy.
-
-**PI: Personal Information**
-
-Two (2) years period following user inactivity
-
-Security, legal requirements and to facilitate seamless user re-engagement
-
-**PII: Personal Identifiable Information**
-
-Data is kept for the life of the customer relationship plus a period of two (2) years
-
-Security, legal requirements and to facilitate seamless user re-engagement
-
-**Application (Meta) Data**
-
-Once IP Address has been deleted these data points are no longer Personal Information as they cannot be linked back to a user
-
-No longer personally identifiable after a period of two (2) years
 
 H. WHERE WE STORE YOUR INFORMATION
 
