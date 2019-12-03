@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiseoldsayings.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620023336id_/http%3A//www.wiseoldsayings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiseoldsayings.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203223452id_/http%3A//www.wiseoldsayings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Wise Old Sayings
 
@@ -26,7 +26,7 @@ Pursuant to Section 1798.83 of the California Civil Code, if you are a Californi
  **Withdrawal of Consent**  
 You may withdraw your consent to the collection of Personal Information at any time by sending an email to us. Upon receiving notice that you have revoked your consent, we will stop using your Personal Information within a reasonable time, which will vary depending on what information we have collected and for what purpose. Please note that we will send you an email confirmation upon receipt of your request. Therefore, if you do not receive a confirmation email, please contact us again with your request. If you do choose to withdraw such consent, your access to the Website may be diminished, or your ability to choose some of the options on the Website may be limited.
 
-Contact email: [[email protected]](http://www.wiseoldsayings.com/cdn-cgi/l/email-protection#483f2d2a25293b3c2d3a083f213b2d27242c3b293121262f3b662b2725)
+Contact email: [[email protected]](http://www.wiseoldsayings.com/cdn-cgi/l/email-protection#166173747b776562736456617f6573797a7265776f7f7871653875797b)
 
  **Sharing Information**  
 We will not sell, rent or disclose to outside parties the information we collect and save except that we may share the collected information with other parties as follows:
@@ -59,7 +59,7 @@ Payment details you provide will be encrypted using secure sockets layer (SSL) t
 This Privacy Policy is incorporated into and forms part of the Terms of Service, which outlines the terms and conditions you agree to when accessing and using the Website, and which can be found here: [http://www.WiseOldSayings.com/terms/](http://www.wiseoldsayings.com/terms/)
 
  **Children’s Privacy**  
-Protecting the privacy of young children is especially important. Our Website is not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If we learn that personally identifiable information has been collected on the Website from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Website, then you may alert us at [[email protected]](http://www.wiseoldsayings.com/cdn-cgi/l/email-protection#2b5c4e49464a585f4e596b5c42584e44474f584a5242454c5805484446) and request that we delete that child’s personally identifiable information from our systems.
+Protecting the privacy of young children is especially important. Our Website is not directed to children under the age of 13, and we do not knowingly collect personal information from children under the age of 13 without obtaining parental consent. If you are under 13 years of age, then please do not use or access the Website at any time or in any manner. If we learn that personally identifiable information has been collected on the Website from persons under 13 years of age and without verifiable parental consent, then we will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under 13 years of age has obtained an account on the Website, then you may alert us at [[email protected]](http://www.wiseoldsayings.com/cdn-cgi/l/email-protection#5d2a383f303c2e29382f1d2a342e383231392e3c2434333a2e733e3230) and request that we delete that child’s personally identifiable information from our systems.
 
  **Cookies and Similar Technologies**  
 When you interact with the Website, we try to make that experience simple and meaningful. When you use our Website, our web server sends a cookie to your computer or mobile device (as the case may be). Cookies are small pieces of information which are issued to your computer or mobile device (as the case may be) when you visit a website or access or use a mobile application and which store and sometimes track information about your use of a website or application (as the case may be). A number of cookies we use last only for the duration of your web session or Website session and expire when you close your browser or exit the Website. Other cookies are used to remember you when you return to the Website and will last for longer.
@@ -95,7 +95,7 @@ WiseOldSayings is subject to the investigative and enforcement authority of the 
 WiseOldSayings will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy. Any employee that WiseOldSayings determines is in violation of this policy may be subject to disciplinary action.
 
  **Our Contact Information**  
-Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at [[email protected]](http://www.wiseoldsayings.com/cdn-cgi/l/email-protection#ef988a8d828e9c9b8a9daf98869c8a80838b9c8e968681889cc18c8082)
+Please contact us with any questions or comments about this Policy, your personal information, our use and disclosure practices, or your consent choices by email at [[email protected]](http://www.wiseoldsayings.com/cdn-cgi/l/email-protection#215644434c405255445361564852444e4d45524058484f46520f424e4c)
 
 WiseOldSayings  
 548 Market St #76678  
