@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the els.edu privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515153836id_/https%3A//www.els.edu/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the els.edu privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203060912id_/https%3A//www.els.edu/en/privacypolicy) for the most accurate reproduction.*
 
 # ELS Educational Services Privacy Policy - ELS
 
