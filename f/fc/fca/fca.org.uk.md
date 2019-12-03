@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530153757id_/https%3A//www.fca.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fca.org.uk privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203154015id_/https%3A//www.fca.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy notice | FCA
 
@@ -73,13 +73,13 @@ If you are interested in learning more about your privacy rights, you can find m
 
 This privacy notice covers all the main ways that we use the various types of personal data we may hold about you, to make sure that we are as transparent as possible and to avoid using your information in a way that would surprise you.
 
-If you feel that we have missed anything that you would like to know, or you have any particular questions about our privacy policy, you can [email us](https://web.archive.org/cdn-cgi/l/email-protection#a8ccc9dcc9d8dac7dccdcbdcc1c7c685c1c6ccc1dec1ccddc9c4dbdac1cfc0dcdbdacdd9ddcddbdcdbe8cecbc986c7dacf86ddc3) or write to: Information Disclosure Team, Financial Conduct Authority, 12 Endeavour Square, London, E20 1JN. Alternatively, if you would like to speak to someone you can call our switchboard on 020 7066 1000 and ask for the Information Disclosure Team.
+If you feel that we have missed anything that you would like to know, or you have any particular questions about our privacy policy, you can [email us](https://web.archive.org/cdn-cgi/l/email-protection#e28683968392908d968781968b8d8ccf8b8c868b948b8697838e91908b858a96919087939787919691a2848183cc8d9085cc9789) or write to: Information Disclosure Team, Financial Conduct Authority, 12 Endeavour Square, London, E20 1JN. Alternatively, if you would like to speak to someone you can call our switchboard on 020 7066 1000 and ask for the Information Disclosure Team.
 
 ## Our Data Protection Officer
 
 As a public authority we are required to appoint a Data Protection Officer (DPO) who oversees our internal data protection compliance, informs and advises us on our data protection obligations, advises us on our data protection impact assessment process and acts as our contact point with the Information Commissioner. 
 
-Please [email our team](https://web.archive.org/cdn-cgi/l/email-protection#bfdbdecbdecfcdd0cbdadccbd6d0d192d6d1dbd6c9d6dbcaded3cccdd6d8d7cbcccddacecadacccbccffd9dcde91d0cdd891cad4) if you would like to contact our DPO.
+Please [email our team](https://web.archive.org/cdn-cgi/l/email-protection#f793968396878598839294839e9899da9e99939e819e9382969b84859e909f83848592868292848384b7919496d9988590d9829c) if you would like to contact our DPO.
 
 ## Glossary of terms used in this privacy notice
 
