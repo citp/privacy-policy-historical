@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squirt.org privacy policy that was archived on 2019-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190202143101id_/https%3A//www.squirt.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squirt.org privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203184431id_/https%3A//www.squirt.org/about/privacy) for the most accurate reproduction.*
 
 # Read Squirt’s ‘Privacy Statement’ for any privacy concerns
 
