@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the distillvideo.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614231448id_/https%3A//distillvideo.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the distillvideo.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203141849id_/https%3A//distillvideo.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Best video downloader, download any video from any site using url
+# Privacy Policy - Best online video downloader, download any video from any site using url
 
 ## Privacy Policy
 
