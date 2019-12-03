@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vincerocollective.com privacy policy that was archived on 2019-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190524180756id_/https%3A//vincerowatches.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vincerocollective.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203155221id_/https%3A//vincerowatches.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Vincero Watches
 
@@ -67,6 +67,7 @@ Information Collected by Our Servers. To make our Site and Services more useful 
     * Unique identifiers, including non-global mobile device identification numbers;
     * Information about your device such as your device type, screen size, browser type, language and other settings, memory capacity, plug-ins, Internet domain, TCP configuration parameters, operating system, carrier code, time zone and the names, versions and package IDs of software installed on your device; and
     * Information collected through cookies, pixel tags and other tracking technologies (see additional descriptions of these terms below).
+    * We may also collect your email address via cookies and pixels on the Website through the use of trusted third party partners.  These partners may also combine your email information with other information they have access to such as mailing address so that we may serve relevant marketing offers to you via email and direct mail.   If you do not want us to collect information about you, please contact [support@vincerowatches.com](mailto:support@vincerowatches.com) to opt out.
 
 
 
@@ -89,7 +90,7 @@ Information Collected by Our Servers. To make our Site and Services more useful 
 
 **Information Collected From Third Party Companies**
 
-We may receive Personal and/or Anonymous Data about you from certain third parties, such as demographic information from Facebook tools. We may add this information to the information we have already collected from you via our Site in order to improve the Services we provide.
+We may receive Personal and/or Anonymous Data about you from certain third parties, such as demographic information from Facebook tools. We may add this information to the information we have already collected from you via our Site in order to improve the Services we provide. 
 
 **6.) HOW DO WE USE YOUR PERSONAL INFORMATION?**
 
@@ -130,6 +131,9 @@ Our online retail store is hosted by Shopify. You acknowledge and agree that you
 
 We may also share your Personal Data with other third party service providers to: provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to Vincero. 
 
+We may also collect your email address via cookies and pixels on the Website through the use of trusted third party partners. These partners may also combine your email information with other information they have access to such as mailing address so that we may serve relevant marketing offers to you via email and direct mail. If you do not want us to collect information about you, please contact  
+support@vincerowatches.com to opt out.
+
 **Affiliates**
 
 We may share some or all of your Personal Data with our parent company, subsidiaries, joint venturers, or other companies under common control with Vincero ("Affiliates"), in which case we will require our Affiliates to honor this Privacy Policy.
@@ -144,7 +148,7 @@ Our Services enable you to post content to SNSs. If you choose to do this, we wi
 
 **Other Disclosures**
 
-Regardless of any choices you make regarding your Personal Data (as described below), Vincero may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Vincero; (c) to protect or defend the rights or property of Vincero or users of the Site or Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use.
+Regardless of any choices you make regarding your Personal Data (as described below), Vincero may disclose Personal Data if it believes in good faith that such disclosure is necessary (a) in connection with any legal investigation; (b) to comply with relevant laws or to respond to subpoenas or warrants served on Vincero; (c) to protect or defend the rights or property of Vincero or users of the Site or Services; and/or (d) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use. We may also share your Personal Data with other third party service providers to: provide you with the Services that we offer you through our Site; “to provide your with other products or services that may be of interest to you”; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to Vincero. Please contact us at [support@vincerowatches.com](mailto:support@vincerowatches.com) to opt out.
 
 **8.) THIRD PARTY PAYMENT PROCESSING.**
 
