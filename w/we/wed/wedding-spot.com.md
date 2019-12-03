@@ -1,211 +1,105 @@
-> *The following text is extracted and transformed from the wedding-spot.com privacy policy that was archived on 2018-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180924133502id_/https%3A//www.wedding-spot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedding-spot.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203232715id_/https%3A//www.wedding-spot.com/privacy) for the most accurate reproduction.*
 
 # Wedding Spot Privacy Policy
 
 Privacy Policy
 
-Last updated July 10, 2013
+Last updated August 13, 2019
 
   
 
 
-#### Introduction
+#### Our Policy
 
-Wedding Spot, Inc. ( **"Wedding Spot"** , **"Company"** or **"We"** ) respects your privacy and is committed to protecting it through our compliance with this policy.
+Welcome to the web site (the " **Site** ") of Cvent, Inc. **** (" **Wedding Spot** ", "we", "us" and/or "our"). This Site is operated by Wedding Spot and has been created to provide information about our company and our services for searching, pricing and comparing wedding venues and related vendors, ** __** mobile applications and related services (together with the Site, the " **Services** ") to our Service visitors ("you", "your"). This Privacy Policy sets forth Wedding Spot's policy with respect to information including personally identifiable data (" **Personal Data** ") and other information that is collected from visitors to the Site and Services. 
 
-This policy describes the types of information we may collect from you or that you may provide when you visit the website [www.wedding-spot.com](https://www.wedding-spot.com/) (our **"Site"** ) and our practices for collecting, using, maintaining, protecting and disclosing that information.
+#### Information We Collect
 
-This policy applies to information we collect:
+When you interact with us through the Services, we may collect Personal Data and other information from you, as further described below: 
 
-  * On this Site.
-  * In e-mail, text and other electronic messages between you and this Site.
-  * Through mobile and desktop applications you download from this Site, which provide dedicated non-browser-based interaction between you and this Site.
+**Personal Data That You Provide Through the Services:** We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever Wedding Spot collects Personal Data we make an effort to provide a link to this Privacy Policy. You also may provide information to be published or displayed on public areas of the Site, or transmitted to other users of the Site or third parties (collectively, "User Contributions"). Your User Contributions are posted on and transmitted to others at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Site with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. 
 
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Wedding Spot and the authorized third parties referred to herein located in the United States.**
 
+**Other Information:**
 
-It does not apply to information collected by:
+**_Non-Identifiable Data:_** When you interact with Wedding Spot through the Services, we receive and store certain personally non-identifiable information, including but not limited to, your wedding options and preferences, your geographic interests, and your costs and budgets. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Wedding Spot may store such information itself or such information may be included in databases owned and maintained by Wedding Spot affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors' Internet service providers. We may also disclose non-identifiable data to third parties for advertising purposes. It is important to note that no Personal Data is available or used in this process. 
 
-  * Us offline or through any other means, including on any other website operated by the Company or any third party; or
-  * Any third party, including through any application or content (including advertising) that may link to or be accessible from or on the Site.
+In operating the Services, we may use a technology called "cookies." A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Our cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Service features. 
 
+**_Aggregated Personal Data:_** In an ongoing effort to better understand and serve the users of the Services, Wedding Spot often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and Wedding Spot may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. Wedding Spot may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes. 
 
+**_Web Beacons_**. Pages of our Site and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags and single-pixel gifs) that permit Wedding Spot, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, your choice is not to use our Site. By accessing or using this Site, you agree to this Privacy Policy. This policy may change from time to time. Your continued use of this Site after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
+**_Location Information_** : Our Service may collect and use your location information (for example, by using the GPS on your mobile device) to provide certain functionality of our Service. We may also use your location information in an aggregate way, as described above in the "Aggregated Personal Data" section. 
 
-  
+**Third Party Tracking** : We may allow third party service providers to use cookies or similar technologies to collect information about your browsing activities over time and across different websites following your use of the Services. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users' behavior on this and other websites to serve them interested-based (behavioral) advertising. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. ** __**
 
+**_Google Analytics_** : We may allow third party service providers to use cookies or similar technologies to collect information about your browsing activities over time and across different websites following your use of the Services. For example, we use Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies to help us analyze how users use the Site and enhance your experience when you use the Service. For more information on how Google uses this data, go to [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). 
 
-#### Children Under the Age of 18
+#### Our Use of Your Personal Data and Other Information:
 
-Our Site is not intended for persons under 18 years of age. No one under age 18 may provide any information to or on the Site. We do not knowingly collect personal information from persons under 18. If you are under 18, do not use or provide any information on this Site or on or through any of its features, use any of the interactive or public comment features of this Site or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any username you may use. If we learn we have collected or received personal information from a child under 18 or from any persons under 18 years of age without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at [info@wedding-spot.com](mailto:info@wedding-spot.com). 
+Wedding Spot uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by email, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. Wedding Spot and its subsidiaries and affiliates (the "Related Companies") may also use your Personal Data and other personally non-identifiable information collected through the Services to help us improve the content and functionality of the Services, to better understand our users and to improve the Services. Wedding Spot and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each marketing communication we send you will contain instructions permitting you to "opt-out" of receiving future marketing communications. In addition, if at any time you wish not to receive any future marketing communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below. 
 
-  
+If Wedding Spot intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
 
+#### Our Disclosure of Your Personal Data and Other Information:
 
-#### Information We Collect About You and How We Collect It
+Wedding Spot is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
 
-We collect several types of information from and about users of our Site, including information:
+**Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
 
-  * By which you may be personally identified, such as name, postal address, e-mail address or telephone number ("personal information");
-  * That is about you but individually does not identify you, including but not limited to, your wedding options and preferences, your geographic interests, your costs and budgets; and/or
-  * About your Internet connection, the equipment you use to access our Site and usage details.
+**Related Companies:** We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy. 
 
+**Agents, Consultants and Related Third Parties:** Wedding Spot, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another entity to perform a function of this nature, we only provide them with the information that they need to perform their specific function. 
 
+**Legal Requirements:** Wedding Spot may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of Wedding Spot, (iii) act in urgent circumstances to protect the personal safety of users of the Services or the public, or (iv) protect against legal liability. 
 
-We collect this information:
+#### Your Choices:
 
-  * Directly from you when you provide it to us.
-  * Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses, and information collected through cookies, web beacons and other tracking technologies.
-  * From third parties, for example, our wedding venues and related vendors.
+You can visit the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Services. 
 
-  
+#### Exclusions
 
+This Privacy Policy does not apply to any Personal Data collected by Wedding Spot other than Personal Data collected through the Services. This Privacy Policy shall not apply to any unsolicited information you provide to Wedding Spot through the Services or through any other means. This includes, but is not limited to, information posted to any public areas of the Services, such as forums, any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, "Unsolicited Information"). All Unsolicited Information shall be deemed to be non-confidential and Wedding Spot shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution. 
 
-#### Information You Provide to Us
+#### Children:
 
-The information we collect on or through our Site may include:
+Wedding Spot does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Services. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on the Services without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Wedding Spot through the Services, please contact us, and we will endeavor to delete that information from our databases. 
 
-  * Information that you provide by filling in forms on our Site. This includes information provided at the time of registering to use our Site, posting content and materials, or requesting further services. We may also ask you for information when you provide reviews of venues and vendors and when you report a problem with our Site.
-  * Records and copies of your correspondence (including e-mail addresses), if you contact us.
-  * Your responses to surveys that we might ask you to complete for research purposes.
-  * Your selections for options and preferences on our Site.
-  * Your pricing information and any budgets and/or similar information that you may store in your Account Page.
-  * Your search queries on the Site.
+#### Links to Other Web Sites:
 
+This Privacy Policy applies only to the Services. The Services may contain links to other web sites not operated or controlled by Wedding Spot (the "Third Party Sites"). The policies and procedures we described here do not apply to the Third Party Sites. The links from the Services do not imply that Wedding Spot endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies. 
 
+#### Integrating Social Networking Services
 
-You also may provide information to be published or displayed (hereinafter, **"posted"** ) on public areas of the Site, or transmitted to other users of the Site or third parties (collectively, **"User Contributions"** ). Your User Contributions are posted on and transmitted to others at your own risk. Please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Site with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons.
+: 
 
-  
+One of the special features of the Service is that it allows you to enable or log in to the Services via various social networking services like Facebook or Twitter ("Social Networking Service(s)"). By directly integrating these services, we make your online experiences richer and more personalized. To take advantage of this feature, we will ask you to log into or grant us permission via the relevant Social Networking Service. When you add a Social Networking Services account to the Service or log into the Service using your Social Networking Services account, we will collect relevant information necessary to enable the Service to access that Social Networking Service and your data contained within that Social Networking Service. As part of such integration, the Social Networking Service will provide us with access to certain information that you have provided to the Social Networking Service, and we will use, store and disclose such information in accordance with this Privacy Policy. However, please remember that the manner in which Social Networking Services use, store and disclose your information is governed by the policies of such third parties, and Wedding Spot shall have no liability or responsibility for the privacy practices or other actions of any Social Networking Services that may be enabled within the Service. 
 
+You may also have the option of posting your Services activities to Social Networking Services when you access content through the Services (for example, you may post to Facebook that you performed an activity on the Service); you acknowledge that if you choose to use this feature, your friends, followers and subscribers on any Social Networking Services you have enabled will be able to view such activity. 
 
-#### Usage Details, IP Addresses, Cookies and Other Technologies 
+#### Security:
 
-As you navigate through and interact with our Site, we may automatically collect certain information about your equipment, browsing actions and patterns, including:
+Wedding Spot takes reasonable steps to protect the Personal Data provided via the Services from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or email transmission is ever fully secure or error free. In particular, email sent to or from the Services may not be secure. Therefore, you should take special care in deciding what information you send to us via email. Please keep this in mind when disclosing any Personal Data to Wedding Spot via the Internet. 
 
-  * Details of your visits to our Site, including traffic data, location data, usage data, logs, and other communication data and the resources that you access and use on the Site.
-  * Information about your computer and Internet connection, including your IP address, operating system and browser type.
+#### Other Terms and Conditions:
 
+Your access to and use of the Services is subject to the Terms of Service at [www.wedding-spot.com/terms-of-service/](https://web.archive.org/terms-of-service/). 
 
+#### Changes to Wedding Spot's Privacy Policy:
 
-The information we collect automatically is statistical data, and does not identify any individual. It helps us to improve our Site and to deliver a better and more personalized service by enabling us to:
+The Services and our business may change from time to time. As a result, at times it may be necessary for Wedding Spot to make changes to this Privacy Policy. Wedding Spot reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Services after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy. 
 
-  * Estimate our audience size and usage patterns.
-  * Store information about your preferences, allowing us to customize our Site according to your individual interests.
-  * Speed up your searches.
-  * Recognize you when you return to our Site.
+#### Access to Information; Contacting Wedding Spot:
 
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. 
 
+Please also feel free to contact us if you have any questions about Wedding Spot's Privacy Policy or the information practices of the Services. 
 
-The technologies we use for this automatic data collection may include:
+You may contact us as follows:
 
-  * **Cookies (or browser cookies)**. A cookie is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Site. 
-  * **Web Beacons**. Pages of our the Site and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
-
-  
-
-
-#### Third-party Advertiser Use of Cookies and Other Tracking Technologies
-
-Some advertisements on the Site are served by third-party advertisers, ad networks and ad servers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users' behavior on this and other websites to serve them interested-based (behavioral) advertising. We do not control these third parties' tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. For information about how you can opt out of receiving targeted advertising from many providers.
-
-For information about how you can opt out of receiving targeted advertising from many providers, see Choices About How We Use and Disclose Your Information.
-
-  
-
-
-#### How We Use Your Information
-
-We use information that we collect about you or that you provide to us, including any personal information:
-
-  * To present our Site and its contents to you.
-  * To provide you with information, products or services that you request from us.
-  * To fulfill any other purpose for which you provide it.
-  * To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-  * To notify you about changes to our Site or any products or services we offer or provide though it.
-  * To allow you to participate in interactive features on our Site.
-  * To connect you to Third Parties.
-  * In any other way we may describe when you provide the information.
-  * For any other purpose with your consent.
-
-
-
-We may also use your information to contact you about our own and third-parties' goods and services that may be of interest to you.
-
-We may use the information we have collected from you to enable us to display advertisements to our advertisers' target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria.
-
-  
-
-
-#### Disclosure of Your Information
-
-We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. 
-
-We may disclose personal information that we collect or you provide as described in this privacy policy:
-
-  * To our subsidiaries and affiliates.
-  * To contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them.
-  * To a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Wedding Spot's assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Wedding Spot about our Site users is among the assets transferred.
-  * To third parties to market their products or services to you if you have not opted out of these disclosures. We contractually require these third parties to keep personal information confidential and use it only for the purposes for which we disclose it to them.
-  * To fulfill the purpose for which you provide it. 
-  * For any other purpose disclosed by us when you provide the information.
-  * With your consent.
-
-
-
-We may also disclose your personal information:
-
-  * To comply with any court order, law or legal process, including to respond to any government or regulatory request.
-  * To enforce or apply our [Terms of Use](https://web.archive.org/terms-of-use/) and other agreements that may be applicable.
-  * If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Wedding Spot, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-
-  
-
-
-#### Choices About How We Use and Disclose Your Information
-
-We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: 
-
-  * **Tracking Technologies and Advertising**. You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, please note that some parts of this site may then be inaccessible or not function properly.
-  * **Promotional Offers from the Company**. If you do not wish to have your e-mail address/contact information used by the Company to promote our own or third parties' products or services, you can opt-out by sending us an e-mail stating your request to info@wedding-spot.com. This opt out does not apply to information provided to the Company as a result of a product purchase, warranty registration, product service experience or other transactions.
-
-  
-
-
-#### Accessing and Correcting Your Information
-
-You can review and change your personal information by logging into the Site and visiting your account profile page. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
-
-If you delete your User Contributions from the Site, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Site users. Proper access and use of information provided on the Site, including User Contributions, is governed by our [Terms of Use](https://web.archive.org/terms-of-use/). 
-
-  
-
-
-#### Your California Privacy Rights
-
-California Civil Code Section § 1798.83 permits users of our Site that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [info@wedding-spot.com](mailto:info@wedding-spot.com).
-
-  
-
-
-#### Data Security
-
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any personal information will be encrypted using SSL technology.
-
-The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Site like message boards. The information you share in public areas may be viewed by any user of the Site.
-
-Unfortunately, the transmission of information via the Internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Site. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. 
-
-  
-
-
-#### Changes to Our Privacy Policy
-
-It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Site home page. If we make material changes to how we treat our users' personal information, we will notify you by e-mail to the primary e-mail address specified in your account. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Site and this privacy policy to check for any changes.
-
-  
-
-
-#### Contact Information
-
-To ask questions or comment about this privacy policy and our privacy practices, contact us at: [info@wedding-spot.com](mailto:info@wedding-spot.com).
+Cvent Representative  
+1765 Greensboro Station Place, 7th Floor  
+Tysons Corner, Virginia 22102  
+**privacy@cvent.com**
