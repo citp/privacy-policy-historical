@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrevue.co privacy policy that was archived on 2019-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190206030428id_/https%3A//www.getrevue.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevue.co privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203190013id_/https%3A//www.getrevue.co/privacy) for the most accurate reproduction.*
 
 # Revue - An editorial newsletter tool for writers and publishers.
 
