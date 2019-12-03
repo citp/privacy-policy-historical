@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pendrivelinux.com privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514215631id_/https%3A//www.pendrivelinux.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendrivelinux.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203152625id_/https%3A//www.pendrivelinux.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy and Cookies | USB Pen Drive Linux
+# Privacy Policy and Cookies | Pen Drive Linux
 
 The following is subject to change at any time.
 
