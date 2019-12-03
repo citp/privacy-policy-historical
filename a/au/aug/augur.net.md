@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the augur.net privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409005603id_/https%3A//www.augur.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augur.net privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203154959id_/https%3A//www.augur.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Augur Prediction Markets
 
