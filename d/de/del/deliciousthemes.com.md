@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliciousthemes.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417091718id_/https%3A//deliciousthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousthemes.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203145341id_/https%3A//deliciousthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DeliciousThemes
 
