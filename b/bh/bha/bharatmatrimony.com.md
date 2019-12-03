@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503063253id_/https%3A//www.bharatmatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPBHARAT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatmatrimony.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203070202id_/https%3A//www.bharatmatrimony.com/privacy-policy.php%3Fgaact%3DHP%26gasrc%3DFTRPPBHARAT) for the most accurate reproduction.*
 
 # www.bharatmatrimony.com
 
