@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620225718id_/https%3A//www.whatuni.com/wu-cont/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatuni.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203110958id_/https%3A//www.whatuni.com/wu-cont/privacy.htm) for the most accurate reproduction.*
 
 # Whatuni privacy notice
 
 ## Privacy Notice
 
-Last update 9th April 2019
+Last update 31st October 2019
 
 This privacy notice has been compiled to help you understand why we ask you for your personal information when you use one of our websites and how we will store and use this information.
 
@@ -145,15 +145,27 @@ None of our processing activities are purely automated. There are instances wher
 
 If you have provided us with your personal data with consent or under the contact obligations, you have the right to request the data you have provided to us in a machine-readable format should you decide to move to another data controller.
 
+##  Email newsletters
+
+As industry experts, it is our primary objective to help you with your educational journey. If you subscribe to University Newsletters via our website, we will send you news and updates of courses, open days, events and scholarships from universities and partners that match your interests. You will receive these newsletters based on your course, institution or location search history. We will not share your personal data with these institutions. You can withdraw your consent at any point by logging in to our website and going to your profile page. For more details please contact us via the contact details provided in this Notice.
+
+## Market Research, Surveys and Competitions
+
+To be in a position to offer you beneficial services and products, or to advise our partners on your educational preferences, we often run surveys and market research campaigns which you can choose to take part in.
+
+The data collection, use and storage vary depending on the focus of the research. Before supplying any personal information and for more details on the research we are conducting, please read the privacy note included on each survey or survey invitation you receive from us. We currently run surveys using a 3rd party platform called Typeform.
+
+For market research, we may engage a specialist company to conduct the research on our behalf and they may have access to your personal data. We will take all steps necessary to protect your personal data throughout the research period and either randomise it or delete it when it is no longer required. 
+
 ## Sharing your data with partners
 
-We work with range of learning providers that advertise courses on our platforms and have agreements and procedures in place to ensure your personal data is protected through the service you receive from us.
+We work with a range of learning providers that either advertise courses on our platforms or offer services relevant to your educational research journey. 
 
 Your personal data will only be shared with learning providers you have chosen to engage with via our websites. For example, when you make an enquiry or a prospectus request to an institution, your details relating to that enquiry will be provided to the institution so that they may answer your enquiry directly.
 
 We also provide anonymised site usage data to providers to enable them to monitor enrolment from users who use our websites.
 
-We have data sharing agreements in place with these learning providers to make sure they apply security operational and technical measures when processing your personal information.
+If you take part in one of our market research campaigns or surveys, we will never share your personal data with our partners, we only share aggregated data that cannot identify you individually. Our data handling procedures ensure your personal data is protected through the service you receive from us. Furthermore, we have data sharing agreements in place with our partners to make sure they apply security operational and technical measures when processing your personal information. 
 
 ## Links to other websites
 
@@ -179,21 +191,37 @@ If you feel the Privacy Manager has not dealt with your enquiry promptly or corr
 
 ## Site Specific Privacy Notice
 
-The following section provides information on the collection and processing of personal data specific to the Whatuni website.
+The following section provides information on the collection and processing of personal data specific to the Whatuni application, accessed via the app or via the website.
 
 This site is available at [https://www.whatuni.com.](https://www.whatuni.com/)
 
 The site is intended for use by users aged 13 years and over. Users under this age are not allowed to create an account on the website. If you are under 16 years of age and want to register with Whatuni services, you must obtain consent from a parent or guardian. You may also discuss this privacy policy with them.
 
+Your Whatuni user account can also be used to log into the Whatuni mobile app which you can download for free. Please note if you enable location services on your phone for the app, we can provide you with a list of universities located closest to you. We will not store your location.
+
+## Video Content
+
+There are three instances where the Whatuni film production team may record video footage:
+
+  * Student Events organized by Whatuni - these videos are used to stream live events and promote future events;
+  * Review videos - these videos are produced to give an independent view of a student's experience of a specific university or college;
+  * Promotional videos commissioned by our clients - these videos are used to show certain aspects of the facilities the university has to offer.
+
+
+
+All filming production is processed on the bases of consent, the production team will request completion of a consent form and will supply written information on our fair processing policy before filming any footage of you.
+
 ## What personal data do we collect?
 
-The following items of personal data are collected as part of the registration process:
+**Data collected directly**
+
+The following items of personal data are collected as part of the online registration process:
 
   *   First name
   *   Last name
   *   Email
   *   Postcode (optional)
-  *   Postal Address Information
+  *   Postal Address Information (optional)
   *   School/College (optional)
   *   Expected or received grades (optional)
   *   Nationality (optional)
@@ -201,43 +229,110 @@ The following items of personal data are collected as part of the registration p
 
 
 
-If you use or connect to the Whatuni website through a 3rd party platform, you allow us to access and / or collect certain information from that 3rd party platform profile. Our application allows you to connect via Facebook, where we will collect your avatar and friends list, and Google +
+If you are using the Whatuni Go product to apply for a place during clearing and adjustment, you will be asked to supply the following additional information 
 
-Your Whatuni user account can also be used to log into the Whatuni mobile app which you can download for free.
+  *   Middle name
+  *   Date of Birth
+  *   Telephone number
+  *   Relevant previous qualification
+  *   UCAS ID
+  *   Details about any previous offers received
+
+
+
+If you supply a university review (either with one of our ambassadors in person, or by completing the review on our website) you will be asked to supply the following information:
+
+  *   First Name
+  *   University Name
+  *   University Email address
+  *   Course
+  *   Level of study
+  *   Study mode
+  *   Year of study
+  *   Type of student
+  *   Nationality
+  *   Accommodation type including Hall name (if applicable)
+
+
+
+If we record a video review, we will ask you to supply the following information
+
+  *   Full Name
+  *   University name
+  *   Date
+  *   Your video images
+
+
+
+**Data collected indirectly**
+
+If you use the "click to call" function to contact an institution by telephone during the clearing and adjustment period, your telephone number will be recorded within our call logging systems. The telephone number you used to call the institution will not be associated with your user profile and will be used only for statistical purposes.
+
+If you use or connect to the Whatuni website through a 3rd party platform, you allow us to access and /or collect certain information from that 3rd party platform profile. Our application currently allows you to connect via Facebook, where we will collect your avatar and friends list.
 
 ## How we process your data
 
-While using the Whatuni applications, you can carry out the following interactions where we process your personal data:
+While using the Whatuni application, you can carry out the following interactions where we process your personal data:
 
   *   Creating a user account
   *   Adding a university review
   *   Requesting a prospectus or making an enquiry to a university
   *   Booking a place at an open day
   *   Contacting the Whatuni team
+  *   Apply for a University course during the clearing and adjustment period
+  *   Accept an offer in principle from a University during the clearing and adjustment period
 
 
 
 ## Consent options
 
-As part of the registration process you have the choice to opt-in to the following:
+As part of the registration process, when visiting Whatuni or an event organised or attended by our team, you have the choice to opt-in to the following:
 
   *   Newsletters from Whatuni
-  *   University updates from third-party partners
-  *   Market research, surveys and Competitions
-  *   When using Facebook to login to Whatuni you have the option to share your activity on Whatuni with others at your school and with your Facebook friends.
+  *   University updates on behalf of third-party partners
+  *   Market research, surveys and competitions
+  *   When using Facebook to log in to Whatuni you have the option to share your activity on Whatuni with others at your school and with your Facebook friends.
+  *   Video reviews and promotional videos
+  *   To receive specific survey registration invites from us (more details will be given when the option is available)
 
 
 
-## Contacting institutions by telephone
-
-At certain times, we offer the ability for you to contact institutions directly by telephone, using a dedicated 0333 number provided by our telecommunications partner, Telecoms World. The telephone number you are calling from and the duration of the call are recorded with Telecoms World. Anonymised data on the number and duration of calls may be shared with the relevant institution in order to measure the effectiveness of their campaigns. Your actual telephone number will not be shared or used for any other purposes beyond statistical analysis.
-
-## Market Research, Surveys and Competitions
-
-We run surveys using a 3rd party platform called Typeform. The data collection, use and storage vary depending on the focus of the research. Please read the privacy notice on each survey for more details.
-
-For market research, we may engage a specialist company to conduct the research on our behalf and they may have access to your personal data. We will take all steps necessary to protect your personal data throughout the research period and either randomize it or delete it when it is no longer required. Please read the privacy notice on each market research for more details.
+Consent can be withdrawn at any point by contacting the Whatuni Privacy manager or by updating your user profile online or clicking on the unsubscribe link available in every email you receive from us.
 
 ## Data sharing
 
-Your contact details are shared with education institutions where you have made an enquiry or prospectus request to that institution.
+Your contact details are shared with education institutions for which you have made an enquiry, requested a prospectus or made an online application during the clearing and adjustment period.
+
+Any review you have supplied will be posted on IDP Connect websites (whatuni.com; thecompleteuniversityguide.co.uk; postgraduatesearch.com and hotcoursesabroad.com and local versions for a full list please visit idp-connect.com/brands) and on associated social media channels (Facebook, Twitter, Instagram).
+
+If you have given consent, your video will be shared with the university you have reviewed.
+
+## Whatuni Go
+
+Whatuni Go allows you to search for Universities and eligible courses during the clearing and adjustment period, supplying the best matched courses based on the grades you have attained. You can shortlist courses, make an online application and receive an instant offer in principle.
+
+IDP Connect will only use your personal data to help you with your online application. All applications will be stored for 6 months after which time we will anonymise it and use it for analytics and statistical purpose only. All personal data you enter during this process will be shared with the University you apply to. They will handle your data in line with their privacy notice, please make sure you read this information before submitting your application. Uncompleted applications will not be stored on our database.
+
+## Destinations Tool
+
+The destinations tool is a portal available on the Whatuni website, at [www.whatuni.com/destinations](https://web.archive.org/destinations). Its target audience is school staff and careers advisors.
+
+Users have to be above 16 years of age to register. The following information is collected as part of the user registration process:
+
+  *   User title
+  *   First name
+  *   Last name
+  *   Email
+  *   School Name
+  *   Job Title
+
+
+
+The following consent options are available 
+
+  *   Opt-in to receive news and info on Whatuni's in-school offerings 
+  *   Opt-in to receive news and info from the Alltogether group (if downloading their resources) 
+
+
+
+In the event that you opt-in to be contacted by the Alltogether group, and also download their resources, data from the destinations tool may be shared with the Alltogether group.
