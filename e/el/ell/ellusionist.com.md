@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418091005id_/https%3A//www.ellusionist.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellusionist.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203164943id_/https%3A//www.ellusionist.com/privacy-security) for the most accurate reproduction.*
 
-# Privacy and Security | Ellusionist
+# Privacy and Security | Ellusionist online Magic Store
 
 This website uses cookies to ensure proper functionality of the shopping cart and checkout progress. By continuing to browse the site you are agreeing to the use of cookies.   
 You may change your preference at any time by clicking accept or decline as shown below. 
