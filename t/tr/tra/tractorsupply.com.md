@@ -1,24 +1,25 @@
-> *The following text is extracted and transformed from the tractorsupply.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004092813id_/https%3A//www.tractorsupply.com/policies-information_customer-solutions_tsc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractorsupply.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203132349id_/https%3A//www.tractorsupply.com/policies-information_customer-solutions_tsc-privacy-policy) for the most accurate reproduction.*
 
 # Tractor Supply Co. Privacy Policy
 
   1. Our Customer Pledge
-  2. Collection and Use of Personal Information
-  3. Sharing Information With Third Parties
-  4. Information You Submit Publicly
-  5. Interest-Based Advertising
-  6. Third Party Links and Data
-  7. Transfer of Information to the United States
-  8. What Should Parents Know About Children
-  9. Security
-  10. How Long Is My Personal Information Retained
-  11. Updating Your Information and Choices
-  12. Changes to the Privacy Policy
-  13. Access to Personal Information
-  14. California Privacy Rights
-  15. Security Questions or Comments
-  16. How to Contact Tractor Supply
-  17. Changes to the Privacy and Security Statement
+  2. Use of Cookies
+  3. Collection and Use of Personal Information
+  4. Sharing Information With Third Parties
+  5. Information You Submit Publicly
+  6. Interest-Based Advertising
+  7. Third Party Links and Data
+  8. Transfer of Information to the United States
+  9. What Should Parents Know About Children
+  10. Security
+  11. How Long Is My Personal Information Retained
+  12. Updating Your Information and Choices
+  13. Changes to the Privacy Policy
+  14. Access to Personal Information
+  15. California Privacy Rights
+  16. Security Questions or Comments
+  17. How to Contact Tractor Supply
+  18. Changes to the Privacy and Security Statement
 
 
 
@@ -34,7 +35,7 @@ This Privacy Policy also describes the choices you can make about how we use you
 
 Tractor Supply does engage third party service providers ("Service Providers") with whom your information may be shared. Service Providers have their own security policies and Tractor Supply is not responsible for their conduct. Unless explicitly stated otherwise, any current, updated and new products and services shall be subject to this Privacy Policy.  By using the services provided at the Stores or the Customer Call Centers or by using the Site, you agree to all of the terms and conditions of this Privacy Policy and you consent to the collection, use and disclosure of your personal information as described in this Privacy Policy.
 
-Tractor Supply cares about online privacy. If you have any questions concerning this Privacy Policy, please email us at [customersolutions@tractorsupply.com](mailto:customersolutions@tractorsupply.com)
+Tractor Supply cares about online privacy. If you have any questions concerning this Privacy Policy, please contact us at <https://www.tractorsupply.com/tsc/customer-solutions>
 
 **1\. Our Customer Pledge**
 
@@ -214,9 +215,11 @@ We use third party analytics and social media providers to collect information a
 
 The third party analytics companies (like Google and IBM) who collect information on our Site and other online products and/or sites may combine the information collected with other information they have independently collected from other websites and/or other online or mobile products relating to your activities across their network of websites. Many of these companies collect and use information under their own privacy policies.
 
-In addition to our use of technologies as described herein, we may permit certain third party companies, including online ad networks, to help us tailor advertising that we think may be of interest to you based on your use of our Services and to otherwise collect and use data about your use of our Services. These networks track your online activities over time and across third party websites and online services by collecting information through automated means, including through the use of the technologies described in the “Information We Collect When You Use the Site” Section above, and they use this information to show you advertisements that are tailored to your individual interests.  This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network. This process also helps us track the effectiveness of our marketing efforts.
+In addition to our use of technologies as described herein, we may permit certain third party companies, including online ad networks such as Google and Conversant, to help us tailor advertising that we think may be of interest to you based on your use of our Services and to otherwise collect and use data about your use of our Services. These networks track your online activities over time and across third party websites and online services by collecting information through automated means, including through the use of the technologies described in the “Information We Collect When You Use the Site” Section above, and they use this information to show you advertisements that are tailored to your individual interests.  This collection and ad targeting takes place both on our Site and on third-party websites that participate in the ad network. This process also helps us track the effectiveness of our marketing efforts.
 
 **Opting out of analytics:**   You may opt out of Google Analytics by visiting the Google Analytics opt-out page <https://tools.google.com/dlpage/gaoptout>.  Google has additional information available about their Remarketing Privacy Guidelines, and Restrictions.  You may learn more at www.google.com/policies/privacy/partners/. 
+
+**Opting out of Conversant:** You may opt out of Conversant by [clicking here](http://dtmc.tractorsupply.com/adinfo/choice/prod/?type=fpc&cid=62737&cname=Tractor%20Supply&cmagic=175826&clogo=62737.png&loc=us&lang=en-us).
 
 You may view a list of other third party service providers who collect information, and/or opt-out of such collection of information about you, by visiting <http://www.networkadvertising.org/choices/> or <http://www.aboutads.info/choices/>. 
 
