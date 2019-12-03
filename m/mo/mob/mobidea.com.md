@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobidea.com privacy policy that was archived on 2019-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190124233618id_/https%3A//www.mobidea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobidea.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203134359id_/https%3A//www.mobidea.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mobidea
 
@@ -10,13 +10,13 @@ This Privacy Notice serves to explain to you how we process your personal data a
 
 ## Details of the Mobidea
 
-**Mobidea** refers to **Mobidea Limited.** Our main headquarters is located at Victory House 205, Archbishop Makarios Avenue 3030 Limassol, Cyprus. Mobidea is part of the OLAmobile Group and is controlled by OLAMOBILE S.à.r.l., which has its headquarters in Luxembourg, at L-2453 Luxembourg, 2-4 rue Eugène Ruppert.
+**Mobidea** refers to **Mobidea Technologies Limited.** Our main headquarters is located at Victory House 205, Archbishop Makarios Avenue 3030 Limassol, Cyprus.
 
 Mobidea provides online advertising services, which support publishers in monetizing their online advertising space, as described in the Terms and Conditions of the Publisher Program, and advertisers in marketing their products and services. 
 
 With regards to the personal data covered by this Privacy Notice, Mobidea is the data controller.
 
-We have a Data Protection Officer, who can be contacted here: **legal@olamobile.com.**
+We have a Data Protection Officer, who can be contacted here: **legal@mobidea.com.**
 
 ## When do we collect personal data?
 
@@ -92,7 +92,7 @@ You have the following rights with respect to your personal data held by Mobidea
 
 
 
-Any question or request related to your rights should be sent to legal@olamobile.com.
+Any question or request related to your rights should be sent to legal@mobidea.com.
 
 In case you are not satisfied with the way your personal data is treated, you have the right to file a complaint with a supervisory authority. If you are in the EEA, you can find more information about your local supervisory authority **[here](https://edps.europa.eu/data-protection_en)**.
 
