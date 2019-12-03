@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the ninjakiwi.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512224849id_/http%3A//ninjakiwi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ninjakiwi.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203152853id_/http%3A//ninjakiwi.com/privacy_policy) for the most accurate reproduction.*
 
 # Ninja Kiwi
 
-Last Updated: August 15, 2018
+Last Updated: September 16, 2019
 
-Ninja Kiwi is committed to making our games both fun and safe to use, and we are committed to best practices regarding the collection and use (truly as we see it, the lack of use) of both anonymous and personally identifiable information (PII). In general, our approach is to only collect anonymous data wherever possible and use as little PII as is necessary to provide the best games and services, and then only to use PII to make those games and services better, mainly through having an email address for communications with our support team. We do not gather or use anonymous data or any personal information to broker to third parties for commercial purposes; we only want to make our games better, and we only work with best in class advertising companies with similar policies. We ask players whether they are under 16 if in the European Union and under 13 in all other territories, and if players are under those respective ages, we do not collect or store on our servers any PII, including IP address. Still wanting to make sure we provide best-in-class customer service, those players are given a non-personal unique code if they need to contact customer support.
+Ninja Kiwi is committed to making our games both fun and safe to use, and we are committed to international best practices regarding the collection and minimal use of both anonymous and personally identifiable information (PII), in ways that are fully compliant with international standards such as GDPR, COPPA, and the California Consumer Privacy Act. In general, our approach is to only collect anonymous data wherever possible and use as little PII as is necessary to provide the best games and services, and then only to use PII to make those games and services better, mainly through having an email address for communications with our support team. We do not gather or use anonymous data or any personal information to broker to third parties for commercial purposes; we only want to make our games better, and we only work with best in class advertising companies with similar policies. We ask players whether they are under 16 if in the European Union and under 13 in all other territories, and if players are under those respective ages, we do not collect or store on our servers any PII, including IP address. Still wanting to make sure we provide best-in-class customer service, those players are given a non-personal unique code if they need to contact customer support.
 
 This privacy policy applies to the Ninja Kiwi website located at [http://ninjakiwi.com](http://ninjakiwi.com/), the related game and game editor sites, to Ninja Kiwi-published web and Facebook games, to Ninja Kiwi Xbox, Playstation, and Steam games, and to our mobile games published on Google Play Store, Apple App Store, Amazon App Store, and other popular app stores.
 
 This privacy policy may change to reflect changes in business practice, legislation, or market reality, such as the Global Data Protection Regulation in Europe. Any changes will be posted here, and significant changes will either be broadcast on the Ninja Kiwi blog and social channels ([https://www.facebook.com/ninjakiwigames/](https://www.facebook.com/ninjakiwigames/) and[ https://twitter.com/ninjakiwigames](https://twitter.com/ninjakiwigames)). We continue to monitor the high standards set by the state of California and by the EU, and we endeavor to update our policies to remain reflective of those highest standards.
 
 When you and/or your children or wards use Ninja Kiwi games and services, you agree to be bound by our Terms of Service ([https://ninjakiwi.com/terms](https://ninjakiwi.com/terms)) and the terms of this Privacy Policy. You and/or your children or wards should not use any Ninja Kiwi games or services unless you accept both this Privacy Policy and our Terms of Service.
+
+### Red Reign
+
+Our Red Reign game operates under a specific privacy policy that can be found here:  
+[https://ninjakiwi.com/privacy_policy_red_reign](https://ninjakiwi.com/privacy_policy_red_reign)
 
 ### Types of Information
 
@@ -64,7 +69,10 @@ We respect the privacy of parents, guardians, and their children, and we are com
 
 ### In-App Purchasing
 
-Many of our games provide additional content for a direct fee - usually buying an item or an amount of in-game currency to make gameplay faster or more fun. Parents and guardians should be aware that they can set up their mobile devices to disallow one touch purchases and enforce password entry before any real-money purchase. Parents and guardians are responsible for maintaining password security for these systems and in general should not share passwords with their children. The following links describe how to make sure purchase verification is in place: [https://support.google.com/googleplay/answer/1626831?hl=en-GB](https://support.google.com/googleplay/answer/1626831?hl=en-GB) [http://support.apple.com/kb/ht4009](http://support.apple.com/kb/ht4009) [http://www.amazon.com/gp/help/customer/display.html?nodeId=201112050](http://www.amazon.com/gp/help/customer/display.html?nodeId=201112050)
+Many of our games provide additional content for a direct fee - usually buying an item or an amount of in-game currency to make gameplay faster or more fun. Parents and guardians should be aware that they can set up their mobile devices to disallow one touch purchases and enforce password entry before any real-money purchase. Parents and guardians are responsible for maintaining password security for these systems and in general should not share passwords with their children. The following links describe how to make sure purchase verification is in place:   
+[https://support.google.com/googleplay/answer/1626831?hl=en-GB](https://support.google.com/googleplay/answer/1626831?hl=en-GB)   
+[http://support.apple.com/kb/ht4009](http://support.apple.com/kb/ht4009)   
+[http://www.amazon.com/gp/help/customer/display.html?nodeId=201112050](http://www.amazon.com/gp/help/customer/display.html?nodeId=201112050)
 
 ### Security
 
