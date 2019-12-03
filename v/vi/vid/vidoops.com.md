@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidoops.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331105758id_/https%3A//vidoops.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidoops.com privacy policy that was archived on 2019-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191203210133id_/https%3A//vidoops.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Vidmoon - Awesome Global Video Search Engine
 
