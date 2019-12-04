@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uksssc.in privacy policy that was archived on 2017-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170622005125id_/http%3A//sssc.uk.gov.in/pages/display/26-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uksssc.in privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204135916id_/http%3A//sssc.uk.gov.in/pages/display/26-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Uttarakhand Subordinate Service Selection Commission , Government of Uttarakhand, India
 
