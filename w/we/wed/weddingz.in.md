@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingz.in privacy policy that was archived on 2017-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170803172146id_/http%3A//www.weddingz.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingz.in privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204201835id_/https%3A//weddingz.in/privacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -26,6 +26,20 @@ exclusive DEALS
 We invite you to subscribe and receive super deals from weddingZ.
 
 ### This photo has been added to: 
+
+Why not plan the entire event with India's Largest Wedding Company?   
+Few more clicks & we will give you the perfect event plan!
+
+for top Recommended Venues
+
+There is some error. Please change email ID and try again. 
+
+Looks like you haven't entered some details as required or password is incorrect try again. 
+
+An Email was been sent on your Email ID. Please click the set password link to activate your account. 
+
+Why not plan the entire event with India's Largest Wedding Company?   
+Few more clicks & we will give you the perfect event plan!
 
 Why not plan the entire event with India's Largest Wedding Company?   
 Few more clicks & we will give you the perfect event plan!
