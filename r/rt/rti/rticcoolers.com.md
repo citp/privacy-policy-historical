@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the rticcoolers.com privacy policy that was archived on 2017-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171221105229id_/https%3A//www.rticcoolers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rticcoolers.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204192243id_/https%3A//www.rticcoolers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RTIC Coolers
 
-
+## Privacy Policy
+    
+    
         Shop With Confidence! Protecting Your Personal Information Privacy Policy
         Last updated: August 8, 2015.
     
