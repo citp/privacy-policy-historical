@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamekidgame.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619110203id_/https%3A//www.gamekidgame.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamekidgame.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204195525id_/https%3A//www.gamekidgame.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
