@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biogen.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322071008id_/https%3A//www.biogen.com/en_us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biogen.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204133914id_/https%3A//www.biogen.com/en_us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
