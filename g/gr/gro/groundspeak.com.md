@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groundspeak.com privacy policy that was archived on 2018-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181213131515id_/https%3A//www.geocaching.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundspeak.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204150236id_/https%3A//www.geocaching.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
