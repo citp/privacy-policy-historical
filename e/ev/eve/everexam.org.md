@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everexam.org privacy policy that was archived on 2018-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181212073030id_/http%3A//everexam.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everexam.org privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204134059id_/http%3A//everexam.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Ever-Exam Online Education Platform
+# Best Online Classes | EverExam
 
 **General**
 
@@ -16,21 +16,21 @@ Through the registration process you may provide us with your name, email addres
 
 **User Of Information Obtained by EverExam**
 
-We may use your contact information to send you notifications regarding new services offered by EverExam and its partners that we think you may find valuable. EverExam may also send you service-related announcements from time to time through the general operation of the Service. Generally, you may opt out of such emails, although EverExam reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+We may use your contact information to send you notifications regarding new services offered by  **EverExam**  and its partners that we think you may find valuable.  **Ever Exam** may also send you service-related announcements from time to time through the general operation of the Service. Generally, you may opt out of such emails, although Ever Exam reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
 
-Profile information is used by EverExam primarily to be presented back to and edited by you when you access the Service and to be presented to other users. In some cases, other users may be able to supplement your profile, including by submitting comments.
+Profile information is used by  **EverExam**  primarily to be presented back to and edited by you when you access the Service and to be presented to other users. In some cases, other users may be able to supplement your profile, including by submitting comments.
 
-EverExam may use aggregate or anonymous data collected through the Service, including Activity Data, for any purpose. This data may be used by EverExam and shared with third parties in any manner.
+**EverExam**  may use aggregate or anonymous data collected through the Service, including Activity Data, for any purpose. This data may be used by Ever Exam and shared with third parties in any manner.
 
 **Sharing Your Personally-Identifiable Information with Third Parties**
 
-EverExam shares your personally-identifiable information only in limited circumstances where EverExam believes such sharing is reasonably necessary to offer the Service, legally required or, permitted by you.
+**EverExam**  shares your personally-identifiable information only in limited circumstances where  **Ever Exam**  believes such sharing is reasonably necessary to offer the Service, legally required or, permitted by you.
 
 For example:
 
-We may provide personally-identifiable information to service providers who help us bring you the Service, such as hosting the Service at a co-location facility or sending email updates. In connection with these operations, our service providers may have access to personally-identifiable information for use for a limited time. Where we utilize service providers for the processing of any of personally-identifiable information, we implement reasonable contractual protections limiting the use of that personally-identifiable information to the provision of services to EverExam.
+We may provide personally-identifiable information to service providers who help us bring you the Service, such as hosting the Service at a co-location facility or sending email updates. In connection with these operations, our service providers may have access to personally-identifiable information for use for a limited time. Where we utilize service providers for the processing of any of personally-identifiable information, we implement reasonable contractual protections limiting the use of that personally-identifiable information to the provision of services to EverExam
 
-Notwithstanding anything else in this policy, we may work with partners who use mobile SDKs, including the  Messaging SDK, to passively collect information (collectively, “SDK Information”), which generally helps us deliver personalized notifications. This data may also be used to identify you in a unique manner across other devices or browsers for the purposes of customizing ads or content. Depending on the permissions granted to this application, this information may include personally identifiable information (PII) including your e-mail address. This information may also include precise location (i.e. GPS-level data) or WiFi information, apps you have installed and enabled, and your mobile identifier (e.g., Android Advertising ID).
+Notwithstanding anything else in this policy, we may work with partners who use mobile SDKs, including the  Messaging SDK, to passively collect information (collectively, “SDK Information”), which generally helps us deliver personalized notifications. This data may also be used to identify you in a unique manner across other devices or browsers for the purposes of customizing ads or content. Depending on the permissions granted to this application, this information may include personally identifiable information (PII) including your e-mail address. This information may also include precise location (i.e. GPS-level data) or WiFi information, apps you have installed and enabled, and your mobile identifier (e.g., Android Advertising ID). 
 
  **Consumer Control & Opt-Out Options**
 
@@ -39,10 +39,10 @@ Notwithstanding anything else in this policy, we may work with partners who use 
 
 
 
-We may be required to disclose personally-identifiable information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we may share account or other personally-identifiable information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Service or using the EverExam name, or to prevent imminent harm. This may include sharing personally-identifiable information with other companies, lawyers, agents or government agencies.
+We may be required to disclose personally-identifiable information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. Additionally, we may share account or other personally-identifiable information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Service or using the  **EverExam**  name, or to prevent imminent harm. This may include sharing personally-identifiable information with other companies, lawyers, agents or government agencies.
 
-If the ownership of all or substantially all of the EverExam business, or individual business units or assets owned by EverExam that are related to the Service, were to change, your personally-identifiable information may be transferred to the new owner. In any such transfer of information, your personally-identifiable information would remain subject to this section.
+If the ownership of all or substantially all of the  **EverExam**  business, or individual business units or assets owned by  **EverExam**  that are related to the Service, were to change, your personally-identifiable information may be transferred to the new owner. In any such transfer of information, your personally-identifiable information would remain subject to this section.
 
 **Links**
 
-The Service may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware when they leave the Service to read the privacy statements of other websites that collect personally identifiable information. This Privacy Policy applies solely to information collected by EverExam via the Service.
+The Service may contain links to other websites. We are not responsible for the privacy practices of other websites. We encourage users to be aware when they leave the Service to read the privacy statements of other websites that collect personally identifiable information. This Privacy Policy applies solely to information collected by  **EverExam**  via the Service.
