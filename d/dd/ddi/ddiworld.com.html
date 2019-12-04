@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ddiworld.com privacy policy that was archived on 2019-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190415045023id_/https%3A//www.ddiworld.com/privacy/en-us) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ddiworld.com privacy policy that was archived on 2019-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191205005703id_/https%3A//www.ddiworld.com/privacy/en-us) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="head" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#"><title>
 	Development Dimensions International's Privacy Policy | DDI
@@ -21,7 +21,7 @@
 
 <!-- Web Font Scripts -->
 <!-- Font.com -->
-<script src="https://script.crazyegg.com/pages/scripts/0041/0870.js?439590" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5SP29F"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TV7LSJ"></script><script type="text/javascript" src="//fast.fonts.net/jsapi/6919609f-f0e9-4374-a77c-5a1bb7f73e8e.js"></script>
+<script src="https://script.crazyegg.com/pages/scripts/0041/0870.js?439596" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TV7LSJ"></script><script type="text/javascript" async="" src="https://js.driftt.com/include/1582548000000/2i6b36kb68hs.js"></script><script type="text/javascript" src="//fast.fonts.net/jsapi/6919609f-f0e9-4374-a77c-5a1bb7f73e8e.js"></script>
 <link href="//fast.fonts.net/cssapi/cfe7e9b7-4a5e-45af-958c-cc348ba82901.css" type="text/css" rel="stylesheet" media="all">
 <!-- Cloud.typography -->
 <!--
@@ -55,7 +55,82 @@
 <!-- End Favicon --> 
 <link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="shortcut icon">
 <link href="/App_Themes/Default/Images/favicon.ico" type="image/x-icon" rel="icon">
-<link href="/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/Global/Skin.css" type="text/css" rel="stylesheet"><link href="/CMSWebparts/DDIWebParts/ddilanguageselectiondropdown_files/langselector.css" type="text/css" rel="stylesheet"><meta name="msvalidate.01" content="12A4B5B70B390AAD192AEEED51F86E0A">
+<link href="/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/Global/Skin.css" type="text/css" rel="stylesheet"><link href="/CMSWebparts/DDIWebParts/ddilanguageselectiondropdown_files/langselector.css" type="text/css" rel="stylesheet"><!-- Start of Async Drift Code -->
+<script>
+"use strict";
+
+!function() {
+  var t = window.driftt = window.drift = window.driftt || [];
+  if (!t.init) {
+    if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+    t.invoked = !0, t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+    t.factory = function(e) {
+      return function() {
+        var n = Array.prototype.slice.call(arguments);
+        return n.unshift(e), t.push(n), t;
+      };
+    }, t.methods.forEach(function(e) {
+      t[e] = t.factory(e);
+    }), t.load = function(t) {
+      var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+      o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+      var i = document.getElementsByTagName("script")[0];
+      i.parentNode.insertBefore(o, i);
+    };
+  }
+}();
+drift.SNIPPET_VERSION = '0.3.1';
+drift.load('2i6b36kb68hs');
+</script>
+<!-- End of Async Drift Code -->
+
+<!-- place this script tag after the Drift embed tag -->
+<script>
+  (function() {
+    /* Add this class to any elements you want to use to open Drift.
+     *
+     * Examples:
+     * - <a class="drift-open-chat">Questions? We're here to help!</a>
+     * - <button class="drift-open-chat">Chat now!</button>
+     *
+     * You can have any additional classes on those elements that you
+     * would ilke.
+     */
+    var DRIFT_CHAT_SELECTOR = '.drift-open-chat'
+    /* http://youmightnotneedjquery.com/#ready */
+    function ready(fn) {
+      if (document.readyState != 'loading') {
+        fn();
+      } else if (document.addEventListener) {
+        document.addEventListener('DOMContentLoaded', fn);
+      } else {
+        document.attachEvent('onreadystatechange', function() {
+          if (document.readyState != 'loading')
+            fn();
+        });
+      }
+    }
+    /* http://youmightnotneedjquery.com/#each */
+    function forEachElement(selector, fn) {
+      var elements = document.querySelectorAll(selector);
+      for (var i = 0; i < elements.length; i++)
+        fn(elements[i], i);
+    }
+    function openSidebar(driftApi, event) {
+      event.preventDefault();
+      driftApi.sidebar.open();
+      return false;
+    }
+    ready(function() {
+      drift.on('ready', function(api) {
+        var handleClick = openSidebar.bind(this, api)
+        forEachElement(DRIFT_CHAT_SELECTOR, function(el) {
+          el.addEventListener('click', handleClick);
+        });
+      });
+    });
+  })();
+</script><meta name="msvalidate.01" content="12A4B5B70B390AAD192AEEED51F86E0A">
 <meta name="msvalidate.01" content="CF2C9BA488F5C3365A28718B481BA710">
 <link rel="canonical" href="https://www.ddiworld.com/privacy/en-us">
 
@@ -139,29 +214,7 @@ $(function() {
     margin-bottom: 0.5rem;
     padding-left: 0.15rem;
   }
-</style><script type="text/javascript">
-var windowChatObjectReference = null; // global variable
-
-function openSNChatPopup() {
-  if(windowChatObjectReference == null || windowChatObjectReference.closed)
-  /* if the pointer to the window object in memory does not exist
-     or if such pointer exists but the window was closed */
-  {
-    windowChatObjectReference = window.open("https://ddi.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?v=1&sysparm_id=e4032845dbaceb409dbffb661d96192d&sysparm_preview=true&sysparm_domain_restore=false&sysparm_stack=no",
-   "SNConnectChatWindow", "scrollbars=yes,resizable=yes,status=no,location=no,toolbar=no,menubar=no,width=500,height=500,left=1000,top=500");
-    /* then create it. The new window will be created and
-       will be brought on top of any other window. */
-  }
-  else
-  {
-    windowChatObjectReference.focus();
-    /* else the window reference must exist and the window
-       is not closed; therefore, we can bring it back on top of any other
-       window with the focus() method. There would be no need to re-create
-       the window or to reload the referenced resource. */
-  };
-}
-</script>
+</style>
 <script type="text/javascript">
     var _elqQ = _elqQ || [];
     _elqQ.push(['elqSetSiteId', '2034846136']);
@@ -184,7 +237,7 @@ function openSNChatPopup() {
     
     <form method="post" action="/privacy/en-us" onsubmit="javascript:return WebForm_OnSubmit();" id="form">
 <div class="aspNetHidden">
-<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="cWO1CjcnFfs6GaBpfQiEH6oIa58GsDKyWpiYC9gz/JakyVtQ73e3yN4A4rdhWyovPU348UqUXETLAil1BkxeveQhlWMjRMla7uy1OVJZIuY=">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="hz0dHtVhDfvm/BpunXv+61+WRxeOvOzkLdachhQgWDwAxjm95g4t205Jp3jHloF+/j/Cn1hL0Vn907MYWK7uNSiPUDUPLumP3ByYRAy5sKY=">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 
@@ -207,7 +260,7 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZJJTWz7UCDzLOcUaOdxr1RblowzwRUFJmONoBetuqXenPYDxY2l7VWnjk4QSFxH70A2&amp;t=636765319264470882" type="text/javascript"></script>
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZI_is_-V0-ubTz0ebzGlN3opgX6YXo6mtI7C2Qmi0Qn2Nvc696iLTF4hR_miE4N72A2&amp;t=636934741199995647" type="text/javascript"></script>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
 <script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
@@ -218,9 +271,9 @@ function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { win
 function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
 //]]>
 </script>
-<script src="/ScriptResource.axd?d=1HpV3OVB0CaEXoaafcqmhvG9kHYcyWWgqDUkJeppRcSHuB-hMLH7zmQpzPaJCOdFe3zpugr2pyA5i_cARTyGjNXVfhnePr4Du8E9uoWl6L0RKGq9Cp9XGBz-5bCVyrsQv9Ykeo7TZRTupM6CUU-A0w2&amp;t=29665526" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yNbHFOs8ngWhUDaLE-5wewv4tg5ML55zfFRhx4ny3655BFWzeoUe-IAXuDjbHwRghaj9G5YFWx7YFWBzIqZvcpOQbJiRxSzT2FfD3aZZVynbj2oYiItNjZHP_yOYSX6hX7-De7XaVyaKiMPchTfhUPI1&amp;t=ffffffff999c3159" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadC-RNqDpm4gu3cEAiOUBi33WUzcPEzh_B52U4yuckbY8Efl0B2JPLTLP6FM5oAtT-LP4groqYs51cxo70rVeQWDHRYgb0Uda1WW2BlgGpJjZfwX5tBP4iSnD9rilUODAcmMq5rKpsY7rY63yhjuRBD41&amp;t=ffffffff999c3159" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=1HpV3OVB0CaEXoaafcqmhiiYW4vxv7ljDIXaT6TCZvchLUOmCMb8KS9EpwSbqyGQ64KZ2vun6Q5YiNLuLrATB2m88IFOvPHFox7s9ixPAE_1M3na8avLHNfpP91XCaz7JhNcFPW6KyuCTi-9XeMTpg2&amp;t=4e518d44" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yLJPlycZmIaLYv1wj6TGeJQJhiXryvM7RsdzTb6ZGaEu6wQhkGNTSUDgkv7XBGjaKQZwL8vq_ICo2R0VygF1o8RjWB_maImhlKonI8Nn4X34TQJRSXKTQkuuXIYSFMWW6kcUnVuLrGyzyWkrQvFmbi81&amp;t=ffffffffa580202a" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Jw6tUGWnA15YEa3ai3FadCmdydcKfV72S15Ypmv3a9XTCf90JeqUsxy4oedyot3Me6cObhnkEmIsv1S0S-YFXWPMZaMzYFCBd2OXbVUeLxdwENltTrW58cHAIS4M9Bj_xjm9QMo0l-3InkjVfxeRrgUEDs909jpYxjZQ6ynByM01&amp;t=ffffffffa580202a" type="text/javascript"></script>
 <script type="text/javascript">
 	//<![CDATA[
 
@@ -268,14 +321,6 @@ new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-TV7LSJ');</script>
-<!-- End Google Tag Manager --><!-- Google Tag Manager -->
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5SP29F"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-5SP29F');</script>
 <!-- End Google Tag Manager --><div class="cookie-law-container-footer clearfix">
   
 <div class="CookieConsent">
@@ -289,11 +334,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </span>
 </div>
 
-</div><div class="masterpage-sn-connect-chat-container clearfix">
-  <a href="https://ddi.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=e4032845dbaceb409dbffb661d96192d&amp;sysparm_preview=true&amp;sysparm_domain_restore=false&amp;sysparm_stack=no" target="SNConnectChatWindow" onclick="openSNChatPopup(); return false;">
-  <div class="sn-connect-chat-icon"><div class="sn-connect-chat-icon-text">Chat</div><i class="fal fa-comment"></i></div>
-  <div class="sn-connect-chat-copy">Get your questions answered or leave us a message.</div>
-</a>
 </div>
 
 <div class="container newbrand-masterpage-container">
@@ -353,10 +393,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
     </div>
   </div>
-</li><li class="menuitem-promo2"><a href="/products/level?lang=en-us">Products</a>
+</li><li class="menuitem-promo2"><a href="/products?lang=en-us">Products</a>
   <div class="menuitem-container clearfix">
     <ul>
-      <li><a href="/products/level?lang=en-us">Product Listing</a></li>
+      <li><a href="/products?lang=en-us">Products and Solutions Listing</a></li>
       <li><a href="/products/licensing?lang=en-us">Licensing DDI’s Content and Services</a></li>
       <li><a href="/executive-services?lang=en-us">Executive Services</a></li>
       <li><a href="/healthcare?lang=en-us">Healthcare Practice</a></li>
@@ -364,7 +404,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <li><a href="/womeninleadership?lang=en-us">Women in Leadership Practice</a></li>
       <li><a href="/serviceready?lang=en-us">Service Ready Support Portal</a></li>
     </ul>
-    <div class="menu-promo menu-promo2"><a href="/products/pinpoint"><img alt="DDI’s Pinpoint Platform" src="/DDI/media/images/nav-promo/PinPoint_Nav-Promo_340.jpg"></a>
+    <div class="menu-promo menu-promo2"><a href="/products/virtual-reality/diversity-inclusion-experience"><img alt="Experience Virtual Reality" src="/DDI/media/images/nav-promo/VR-D-I_Nav-Promo_Final.jpg"></a>
 
 
 
@@ -376,9 +416,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <li><a href="/resources?lang=en-us">Leadership Resources</a></li>
       <li><a href="/book-store-ddi-press?lang=en-us">Book Store</a></li>
       <li><a href="/go?lang=en-us">GO Publications</a></li>
-      <li><a href="/blog?lang=en-us">DDI's Blog</a></li>
+      <li><a href="/blog?lang=en-us">Leader Pulse Blog</a></li>
     </ul>
-    <div class="menu-promo menu-promo3"><a href="/go/archive/go-magazine-2018-issue-1?lang=en-us"><img alt="GO Magazine 2018 Issue 1" src="/DDI/media/images/nav-promo/Go-Magazine_InNav-Promo-12-2018.jpg"></a>
+    <div class="menu-promo menu-promo3"><a href="/podcasts/480"><img alt="480 Podcast" src="/DDI/media/images/nav-promo/480-Podcast_In-Nav-Promo_C.jpg"></a>
 
 
 
@@ -388,6 +428,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div class="menuitem-container clearfix">
     <ul>
       <li><a href="/about-ddi?lang=en-us">About DDI</a></li>
+      <li><a href="/480?lang=en-us">Our Approach: Leadership 480</a></li>
       <li><a href="/about-ddi/corporate-responsibility?lang=en-us">Corporate Responsibility</a></li>
       <li><a href="/about-ddi/ddi-history-founders?lang=en-us">DDI Founders &amp; History</a></li>
       <li><a href="/about-ddi/facts-about-ddi?lang=en-us">Facts About DDI</a></li>
@@ -408,7 +449,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <li><a href="/events-workshops/workshops?lang=en-us">Client Certifications and Workshops</a></li>
       <li><a href="/events-workshops/recorded-webinars?lang=en-us">Recorded Webinars</a></li>
     </ul>
-    <div class="menu-promo menu-promo5"><a href="https://scorecard.ddiworld.com/"><img alt="Leadership Practices Scorecard" src="&#10;/DDI/media/images/scorecardImages/Leadership-Scorecard_nav-bar-promo.png "></a>
+    <div class="menu-promo menu-promo5"><a href="/genxreport"><img alt="The Hidden Potential of Generation X " src="/DDI/media/images/nav-promo/GenX-Nav-Promo_340px.jpg"></a>
 
 
 
@@ -433,7 +474,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </li>
   </ul>
 </div>
-
 <script type="text/javascript">
   function MM_goToURL() { //v3.0
     var i, args=MM_goToURL.arguments; document.MM_returnValue = false;
@@ -461,9 +501,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <li><a href="/expertise/succession-management?lang=en-us"><span>Succession Management</span></a></li>
       </ul>
       <div style="font-family: 'Century Gothic W01', Arial, Helvetica, sans-serif;" class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-accordion-ui-accordion-faqs-container-panel-0-header-1" aria-controls="ui-accordion-ui-accordion-faqs-container-panel-0-panel-1" aria-selected="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>
-        <a class="data-cke-saved-href=&quot;#&quot;" href="#" onclick="MM_goToURL('parent','/products/level?lang=en-us');MM_showHideLayers('navcontainer','','hide','faqs-container','','hide');return document.MM_returnValue">Products&nbsp;&nbsp;&nbsp;&nbsp;</a></div>
+        <a class="data-cke-saved-href=&quot;#&quot;" href="#" onclick="MM_goToURL('parent','/products?lang=en-us');MM_showHideLayers('navcontainer','','hide','faqs-container','','hide');return document.MM_returnValue">Products&nbsp;&nbsp;&nbsp;&nbsp;</a></div>
       <ul class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-accordion-ui-accordion-faqs-container-panel-0-panel-1" aria-labelledby="ui-accordion-ui-accordion-faqs-container-panel-0-header-1" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
-        <li><a href="/products/level?lang=en-us">Product Listing</a></li>
+        <li><a href="/products?lang=en-us">Products and Solutions Listing</a></li>
         <li><a href="/products/licensing?lang=en-us">Licensing DDI’s Content and Services</a></li>
         <li><a href="/healthcare?lang=en-us">Healthcare Practice</a></li>
         <li><a href="/manufacturing-practice?lang=en-us">Manufacturing Practice</a></li>
@@ -476,12 +516,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <li><a href="/resources?lang=en-us"><span>Leadership Resources</span></a></li>
         <li><a href="/book-store-ddi-press?lang=en-us"><span>Book Store</span></a></li>
         <li><a href="/go?lang=en-us"><span>GO Publications</span></a></li>
-        <li><a href="/blog?lang=en-us"><span>DDI's Blog</span></a></li>
+        <li><a href="/blog?lang=en-us"><span>Leader Pulse Blog</span></a></li>
       </ul>
       <div style="font-family: 'Century Gothic W01', Arial, Helvetica, sans-serif;" class="ui-accordion-header ui-helper-reset ui-state-default ui-corner-all ui-accordion-icons" role="tab" id="ui-accordion-ui-accordion-faqs-container-panel-0-header-3" aria-controls="ui-accordion-ui-accordion-faqs-container-panel-0-panel-3" aria-selected="false" tabindex="-1"><span class="ui-accordion-header-icon ui-icon ui-icon-triangle-1-e"></span>
         <a class="data-cke-saved-href=&quot;#&quot;" href="#" onclick="MM_goToURL('parent','/about-ddi?lang=en-us');MM_showHideLayers('navcontainer','','hide','faqs-container','','hide');return document.MM_returnValue">About DDI&nbsp;&nbsp;</a></div>
       <ul class="ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" id="ui-accordion-ui-accordion-faqs-container-panel-0-panel-3" aria-labelledby="ui-accordion-ui-accordion-faqs-container-panel-0-header-3" role="tabpanel" aria-expanded="false" aria-hidden="true" style="display: none;">
         <li><a href="/about-ddi?lang=en-us"><span>About DDI</span></a></li>
+        <li><a href="/480?lang=en-us">Our Approach: Leadership 480</a></li>
         <li><a href="/about-ddi/corporate-responsibility?lang=en-us"><span>Corporate Responsibility</span></a></li>
         <li><a href="/about-ddi/ddi-history-founders?lang=en-us"><span>DDI Founders &amp; History</span></a></li>
         <li><a href="/about-ddi/facts-about-ddi?lang=en-us"><span>Facts About DDI</span></a></li>
@@ -642,67 +683,69 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <!-- Content -->
       <div class="zoneContent zCt col-md-9 zone70percent">
         <section>
-          <p class="remove-margin-top">This Privacy Policy is effective as of October 30, 2018.<br>
-<a data-doctype="Privacy Policy" href="/DDI/media/privacy/ddi-comprehensive-privacy-policy-standard-en.pdf" target="_blank" title="Development Dimensions International's Privacy Policy">(Click here to download a PDF version of this policy.)</a></p>
+          <p class="remove-margin-top">This Privacy Policy is effective as of February 23, 2019.<br>
+<a href="https://www.ddiworld.com/DDI/media/privacy/ddi-comprehensive-privacy-policy-standard-en.pdf">(Click here to download a PDF version of this policy.)</a></p>
 
-<p>Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support leadership solutions including, leadership development, talent strategy, and assessment solutions to the global worldwide market. This Privacy Policy applies to the collection and use of information of the websites and platforms on sites where this policy is linked.</p>
+<p>Development Dimensions International (DDI) designed and manages the site you are viewing. DDI provides a range of Internet-based tools to support leadership solutions including, leadership development, talent strategy, and assessment solutions to the global worldwide market. This Privacy Policy applies to the collection and use of information of the websites and platforms on sites where this policy is linked (“Sites”).</p>
 
-<p>If you have questions or complaints regarding our Privacy Policy or practices, please contact our Data Protection Officer at <a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>. The use of information collected through our Sites shall be limited to the purpose for which it was gathered, i.e., providing a service for which a Client has engaged DDI, providing information to prospective Clients, gathering information for research purposes, or gathering information on applicants for career opportunities at DDI.</p>
+<p>If you have questions or complaints regarding our Privacy Policy or practices, please contact our Data Protection Officer at&nbsp;<a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>. The use of information collected through our Sites shall be limited to the purpose for which it was gathered, i.e., providing a service for which a Client has engaged DDI, providing information to prospective Clients, gathering information for research purposes, or gathering information on applicants for career opportunities at DDI.</p>
 
-<p>DDI is responsible for the processing of personal data which includes names, company names, email addresses, job titles, addresses, phone numbers, and IP addresses, it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on DDI’s behalf. DDI’s third-party hosting provider houses servers in the United States and therefore all data will be transferred to the U.S. DDI is certified under EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. DDI has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <a href="https://www.privacyshield.gov/" target="_blank">https://www.privacyshield.gov/</a>.</p>
+<p>DDI is responsible for the processing of personal data which includes names, company names, email addresses, job titles, addresses, phone numbers, and IP addresses, it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on DDI’s behalf. DDI is certified under EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. DDI has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit&nbsp;<a href="https://www.privacyshield.gov/">https://www.privacyshield.gov/</a>.</p>
 
-<p>In addition, as of May 2018, DDI will be compliant with the General Data Protection Regulations (GDPR) and the associated requirements and parameters regarding personal data as prescribed within the GDPR mandate.</p>
+<p>All data, regardless of the country of origin is transferred to, processed and stored in the United States. Data may also be accessed or used globally where authorized Client or DDI associates providing services to the Client are located.</p>
+
+<p>In addition, DDI is compliant with the General Data Protection Regulations (GDPR) and the associated requirements and parameters regarding personal data as prescribed within the GDPR mandate.</p>
 
 <p>Notwithstanding the above, with respect to personal data received or transferred pursuant to the EU-U.S. and Swiss-U.S. Privacy Shield Framework, DDI is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, DDI may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Though we make industry standard and reasonable efforts to preserve user privacy, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the Sites, to protect your rights, protect your safety or the safety of others and investigate fraud. We do not share personal information with third parties except as part of the provision of services or as otherwise noted in this Policy.</p>
 
-<p>Under certain conditions, more fully described on the <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" target="_blank">Privacy Shield website</a>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+<p>Under certain conditions, more fully described on the&nbsp;<a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint">Privacy Shield website</a>, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
 
 <p>This Privacy Policy addresses the following privacy issues:</p>
 
-<h3>For All Sites</h3>
+<p>For All Sites</p>
 
-<p><a href="#toc01">Information Collection</a><br>
-<a href="#toc02">Information Use</a><br>
-<a href="#toc03">Service Announcements</a><br>
-<a href="#toc04">Customer Service</a><br>
-<a href="#toc06">Third Party Intermediaries and Service Providers</a><br>
-<a href="#toc07">Business Transitions</a><br>
-<a href="#toc08">Choice/Opt-out</a><br>
-<a href="#toc09">Links</a><br>
-<a href="#toc10">Social Media Features</a><br>
-<a href="#toc11">Security</a><br>
-<a href="#toc12">Acceptable Use</a><br>
-<a href="#toc13">Correcting/Updating/Deleting/Deactivating PII</a><br>
-<a href="#toc14">Data Retention</a><br>
-<a href="#toc19">Transfer or Assignment</a><br>
-<a href="#toc15">Changes to the Privacy Policy</a><br>
-<a href="#toc16">Protection of Children's Information</a><br>
-<a href="#toc17">Complaints Resolution</a><br>
-<a href="#toc18">Contact Information</a></p>
+<p><a href="https://www.ddiworld.com/privacy/en-us#toc01">Information Collection</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc02">Information Use</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc03">Service Announcements</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc04">Customer Service</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc06">Third Party Intermediaries and Service Providers</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc07">Business Transitions</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc08">Choice/Opt-out</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc09">Links</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc10">Social Media Features</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc11">Security</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc12">Acceptable Use</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc13">Correcting/Updating/Deleting/Deactivating PII</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc14">Data Retention</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc19">Transfer or Assignment</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc15">Changes to the Privacy Policy</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc16">Protection of Children's Information</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc17">Complaints Resolution</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc18">Contact Information</a></p>
 
-<h3>For DDI's Internet Sites</h3>
+<p>For DDI's Internet Sites</p>
 
-<p><a href="#toc20">Discussion Forums</a><br>
-<a href="#toc21">Email A Colleague</a><br>
-<a href="#toc22">Submit Your Resume for Careers Opportunities</a><br>
-<a href="#toc23">Profiles</a><br>
-<a href="#toc24">Widgets</a><br>
-<a href="#toc25">Blogs, Chat Rooms, Message Boards, and Public Forums</a><br>
-<a href="#toc26">Customer Testimonials</a><br>
-<a href="#toc27">Information Use</a><br>
-<a href="#toc28">Online Customer Service Chat Cookies</a><br>
-<a href="#toc29">Search Engine Cookies</a><br>
-<a href="#toc30">Tracking Technologies</a><br>
-<a href="#toc31">Local Storage – HTML 5/Flash Cookies</a><br>
-<a href="#toc32">Advertising</a><br>
-<a href="#toc33">Log Files</a><br>
-<a href="#toc34">Newsletter Subscriptions</a><br>
-<a href="#toc35">Online Customer Service Chat</a><br>
-<a href="#toc36">Online Surveys</a></p>
+<p><a href="https://www.ddiworld.com/privacy/en-us#toc20">Discussion Forums</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc21">Email A Colleague</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc22">Submit Your Resume for Careers Opportunities</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc23">Profiles</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc24">Widgets</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc25">Blogs, Chat Rooms, Message Boards, and Public Forums</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc26">Customer Testimonials</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc27">Information Use</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc28">Online Customer Service Chat Cookies</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc29">Search Engine Cookies</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc30">Tracking Technologies</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc31">Local Storage – HTML 5/Flash Cookies</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc32">Advertising</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc33">Log Files</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc34">Newsletter Subscriptions</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc35">Online Customer Service Chat</a><br>
+<a href="https://www.ddiworld.com/privacy/en-us#toc36">Online Surveys</a></p>
 
 <p>This Privacy Policy covers only information that is collected through the Sites and does not cover information that may be collected through software downloaded from the Sites or third-party sites that may be accessed through links provided on Sites.</p>
 
-<h3><a name="toc01">Information Collection</a></h3>
+<p><a name="toc01"></a>Information Collection</p>
 
 <p>DDI, our clients, prospective clients, research data subject, or job applicants are the owners of the information collected on the Sites. DDI collects information from our users at several different points on the Sites. Third-party providers of aggregate traffic analytic services and marketing automation platforms are also used by DDI for marketing and process improvement purposes including the collection of IP Addresses for analyzing web traffic and debugging user processes.</p>
 
@@ -710,11 +753,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>To use full functionality offered by the Sites, a user may be required to provide certain Personal Identifying Information (PII). PII information may be shared and used by DDI and the client (for which the applicable site is hosted) as well as any other third-party vendors secured by the client to facilitate candidate or employee assessment or selection processes.</p>
 
-<p>For sites where you have a user account, you are solely responsible for maintaining the confidentiality of your user name and password. If you believe that confidentiality has been compromised, contact <a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>.</p>
+<p>For sites where you have a user account, you are solely responsible for maintaining the confidentiality of your user name and password. If you believe that confidentiality has been compromised, contact&nbsp;<a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>.</p>
 
 <p>Information collected is never sold to third parties nor shared without prior consent except as otherwise noted in this Policy.</p>
 
-<h3><a name="toc02">Information Use</a></h3>
+<p><a name="toc02"></a>Information Use</p>
 
 <p>DDI will not use individual records or other data in a manner that identifies individuals or client organizations as the source of the data, except for the purposes for which they are collected.</p>
 
@@ -722,43 +765,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>Summaries of aggregated data may also be used to create normative profiles (or “benchmarks”) for assessments. Normative profiles will not identify individuals or client organizations; however, the source data may link back to some or all of the client organizations that are contained within the data set for the purpose of defining the characteristics of the norm sample (such as platform, industry, etc.). Organization names will not be cited without consent and unless 5 or more organizations contribute to the aggregated profile. At no time will normative profiles allow an individual's or contributing organization's data to be identified as such.</p>
 
-<h3><a name="toc03">Service Announcements</a></h3>
+<p><a name="toc03"></a>Service Announcements</p>
 
 <p>On rare occasions it is necessary to send out a service related announcement. For instance, if access is temporarily suspended to one or more of our Sites for maintenance, an email notification may be generated and sent to end users. Generally speaking, users may not opt-out of these notifications; these communications are informational in relation to the service being rendered and not promotional in nature.</p>
 
-<h3><a name="toc04">Customer Service</a></h3>
+<p><a name="toc04"></a>Customer Service</p>
 
 <p>We communicate with users on a regular basis to provide requested services and regarding issues about their account we reply via email or phone, in accordance with the user's wishes.</p>
 
-<h3><a name="toc06">Third Party Intermediaries and Service Providers</a></h3>
+<p><a name="toc06"></a>Third Party Intermediaries and Service Providers</p>
 
-<p>To provide certain services, DDI may supplement the personal information you submitted to us with information from third-party sources, such as background checks. We partner with other third parties to provide specific services or functionality to our Sites (e.g., live chat). We share only the information required for the third party to provide these services. The third parties are not allowed to use personally identifiable information except for the purpose of providing these services. We do not share, sell, rent, or trade PII with third parties for their promotional purposes.</p>
+<p>To provide certain services, DDI may supplement the personal information you submitted to us with information from third-party sources, such as company and industry profiles. We partner with other third parties to provide specific services or functionality to our Sites (e.g., live chat). We share only the information required for the third party to provide these services. The third parties are not allowed to use personally identifiable information except for the purpose of providing these services. We do not share, sell, rent, or trade PII with third parties for their promotional purposes.</p>
 
-<h3><a name="toc07">Business Transitions</a></h3>
-
-<p>In the event a company goes through a business transition, such as a merger, acquisition, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Data collected via some Sites, however, belong to our client organizations and would not be considered an asset to be transferred without prior consent.</p>
-
-<h3><a name="toc08">Choice/Opt-out</a></h3>
+<p><a name="toc08"></a>Choice/Opt-out</p>
 
 <p>Users who provide information requested by the Sites, or who continue to use the Sites after having an opportunity to review this Privacy Policy, thereby consent to the terms of this Privacy Policy and to DDI's use of the information it collects as described in this Privacy Policy. Those who do not agree to this Privacy Policy may not use the Services. Users also have the right to revoke prior consent at which time access to Sites and usage of Services would cease.</p>
 
-<h3><a name="toc09">Links</a></h3>
+<p><a name="toc09"></a>Links</p>
 
 <p>Sites can contain links to external sites. Please be aware that DDI is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our Sites and to read the privacy policies of every Web Site that collects personally identifiable information.</p>
 
-<h3><a name="toc10">Social Media Features</a></h3>
+<p><a name="toc11"></a>Security</p>
 
-<p>Our Web site includes Social Media Features, such as Facebook, Twitter, and LinkedIn buttons. These sites collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
+<p>The DDI Sites take industry standard and reasonable precaution to protect our users' information during transmission and upon receipt. When users submit PII via the Sites, their information is protected both online and offline. When you enter sensitive information on our Sites, we encrypt that information using secure socket layer technology (SSL). Additionally, all data is encrypted on disk via hardware encryption.</p>
 
-<h3><a name="toc11">Security</a></h3>
+<p>The servers that store personally identifiable information are in a secure environment in a secure Tier 4 data center. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Those employees are required to respect the confidentiality of our visitor's personal data.</p>
 
-<p>The DDI Sites take industry standard and reasonable precaution to protect our users' information during transmission and upon receipt. When users submit PII via the Sites, their information is protected both online and offline. When you enter sensitive information on our Sites, we encrypt that information using secure socket layer technology (SSL).</p>
-
-<p>No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
-
-<p>The servers that store personally identifiable information are in a secure environment in a locked facility. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Those employees are required to respect the confidentiality of our visitor's personal data.</p>
-
-<h3><a name="toc12">Acceptable Use</a></h3>
+<p><a name="toc12"></a>Acceptable Use</p>
 
 <p>This section applies to the software systems and all related electronic or printed help and documentation accessed via the Sites.</p>
 
@@ -768,33 +801,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p>Except as expressly authorized herein, users shall not: (i) copy the Software in whole or in part; (ii) reverse compile, reverse assemble, or access with intent to "hack" all or any portion of the Software; (iii) distribute, market, rent, lease, provide access to, or transfer the Software to third parties; or (iv) modify the Software except as otherwise provided. No license, right, or interest in any DDI trademark, trade name, or service mark is granted hereunder.</p>
 
-<p isrender="true">For additional information, please read DDI's <a href="/privacy/terms-and-conditions">Terms and Conditions of Use Agreement</a></p>
+<p>For additional information, please read DDI's&nbsp;<a href="https://www.ddiworld.com/privacy/terms-and-conditions">Terms and Conditions of Use Agreement</a></p>
 
-<h3><a name="toc13">Correcting/Updating/Deleting/Deactivating PII</a></h3>
+<p><a name="toc13"></a>Correcting/Updating/Deleting/Deactivating PII</p>
 
-<p>If a user's personally identifiable information changes, or if a user no longer desires our service, we provide a way to access, correct, update or delete/deactivate users' personally identifiable information. For assistance in these matters, please <a href="https://www.ddiworld.com/gdpr/data-request-form-individual">click here</a> for more information.</p>
+<p>If a user's personally identifiable information changes, or if a user no longer desires our service, we provide a way for Client Administrators to access, correct, update or delete/deactivate users' personally identifiable information. DDI cannot fulfill data rights requests for our Client’s users as the Clients are Controllers for that data. As a Processor of Client data DDI can only act upon direct instructions from the data Controller (our Clients). Individual users wishing to exercise their individual data rights requests will be directed to the Client organization.</p>
 
-<h3><a name="toc14">Data Retention</a></h3>
+<p><a name="toc14"></a>Data Retention</p>
 
-<p>We will retain your information for as long as your account is active or as needed to provide you services including statistical normalization, for a maximum of 5 years post user inactivity. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>. We will retain and use your information in anonymized format for research purposes and as necessary, to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p>We will retain your information for as long as your account is active or as needed to provide you services including statistical normalization, for a maximum of 5 years post user inactivity. We will retain and use your information in anonymized format for research purposes and as necessary, to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
 
-<h3><a name="toc19">Transfer or Assignment</a></h3>
+<p><a name="toc19"></a>Transfer or Assignment</p>
 
-<p>Transfer or Assignment in Connection with Business Transfers or Bankruptcy. In the event of a merger, acquisition, reorganization, bankruptcy or other sale of all or a portion of our assets, any user information owned or controlled by us may be one of the assets transferred to third parties. We reserve the right, as part of this type of transaction, to transfer or assign your personal information and other information we have collected from users of the Services to third parties. Other than to the extent ordered by a bankruptcy or other court, or as otherwise agreed to by you, the use and disclosure of all transferred user information will be subject to this Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity.</p>
+<p>Transfer or Assignment in Connection with Business Transfers or Bankruptcy. In the event of a merger, acquisition, reorganization, bankruptcy or other sale of all or a portion of our assets, any user information owned or controlled by us may be one of the assets transferred to third parties. We reserve the right, as part of this type of transaction, to transfer or assign your personal information and other information we have collected from users of the Services to third parties. Data collected via some Sites, however, belong to our client organizations and would not be considered an asset to be transferred without prior consent. Other than to the extent ordered by a bankruptcy or other court, or as otherwise agreed to by you, the use and disclosure of all transferred user information will be subject to this Policy. However, any information you submit or that is collected after this type of transfer may be subject to a new privacy policy adopted by the successor entity.</p>
 
-<h3><a name="toc15">Changes to the Privacy Policy</a></h3>
+<p><a name="toc15"></a>Changes to the Privacy Policy</p>
 
 <p>We will occasionally update this Privacy Policy. Upon update, we will post changes on the Sites and other places deemed appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we share or disclose it.</p>
 
 <p>If we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on the Sites for 30 days or emailing users prior to the change becoming effective.</p>
 
-<h3><a name="toc16">Protection of Children's Information</a></h3>
+<p><a name="toc16"></a>Protection of Children's Information</p>
 
 <p>The Sites do not publish content or collect data that is targeted at children.</p>
 
-<h3><a name="toc17">Complaints Resolution</a></h3>
+<p><a name="toc17"></a>Complaints Resolution</p>
 
-<p>In compliance with the Privacy Shield Principles, DDI commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact DDI at: <a dataprotectionofficer="" href="mailto:">DataProtectionOfficer@ddiworld.com</a>, by phone at +1-412-376-5803, or by postal mail sent to:</p>
+<p>In compliance with the Privacy Shield Principles, DDI commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact DDI at:&nbsp;<a href="mailto:">DataProtectionOfficer@ddiworld.com</a>, by phone at +1-412-376-5803, or by postal mail sent to:</p>
 
 <p>Attn: DDI Data Protection Officer<br>
 Development Dimensions International<br>
@@ -803,11 +836,11 @@ Bridgeville, PA 15017</p>
 
 <p>For complaints from EU and Swiss data subjects that cannot be resolved with DDI directly, DDI has chosen to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC), respectively, and comply with information and advice the DPAs and the FDPIC may provide in relation to such unresolved complaints (as further described in the Privacy Shield Principles). Please contact us to be directed to the relevant DPA or FDPIC contacts.</p>
 
-<p>If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at <a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction">https://www.privacyshield.gov/article?id=ANNEX-I-introduction.</a></p>
+<p>If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at&nbsp;<a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction">https://www.privacyshield.gov/article?id=ANNEX-I-introduction.</a></p>
 
-<h3><a name="toc18">Contact Information</a></h3>
+<p><a name="toc18"></a>Contact Information</p>
 
-<p>For questions or concerns regarding this Policy, please contact <a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>.</p>
+<p>For questions or concerns regarding this Policy, please contact&nbsp;<a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>.</p>
 
 <p>Attn: DDI Data Protection Officer<br>
 Development Dimensions International<br>
@@ -815,57 +848,61 @@ Development Dimensions International<br>
 Bridgeville, PA 15017<br>
 +1-412-376-5803</p>
 
-<p><span style="color: red;"><strong>THE REMAINDER OF THIS PRIVACY POLICY APPLIES TO DDI’s CORPORATE INTERNET WEB SITES USING THE TOP-LEVEL DOMAINS OF DDIWORLD.COM AND DDI.COM (HEREINAFTER “INTERNET SITES”). YOU CAN ELECT TO STOP READING AT THIS POINT IF YOU ARE NOT ON ONE OF DDI's INTERNET SITES.</strong></span></p>
+<p><strong>THE REMAINDER OF THIS PRIVACY POLICY APPLIES TO DDI’s CORPORATE INTERNET WEB SITES USING THE TOP-LEVEL DOMAINS OF DDIWORLD.COM AND DDI.COM (HEREINAFTER “INTERNET SITES”). YOU CAN ELECT TO STOP READING AT THIS POINT IF YOU ARE NOT ON ONE OF DDI's INTERNET SITES.</strong></p>
 
-<h3><a name="toc20">Discussion Forums</a></h3>
+<p><a name="toc20"></a>Discussion Forums</p>
 
 <p>This section constitutes a binding legal agreement governing the use of DDI Discussion Forums. By using these message boards, you are consenting to be bound by the terms of this agreement. If you do not agree to any of the terms of this agreement, do not make use of these message boards. This agreement governs use of, and participation in, all services incorporated within DDI Discussion Forums. We retain the right to amend this agreement and your continued use of DDI Discussion Forums constitutes your acceptance of such amendments. If you find changes in these terms unacceptable, you should discontinue your use of DDI Discussion Forums.</p>
 
-<h3><a name="toc21">Email a Colleague</a></h3>
+<p><a name="toc21"></a>Email a Colleague</p>
 
-<p>If you use our referral service to tell a colleague about our Sites, we will request your colleague’s name and email address. We will automatically send your colleague a one-time email inviting him or her to visit the site. DDI stores this information for the sole purpose of sending the one- time email and tracking the success of our referral program.</p>
+<p>If you use our referral service to tell a colleague about our Sites, we will request your colleague’s name and email address. We will automatically send your colleague a one-time email inviting him or her to visit the site. DDI stores this information for the sole purpose of sending the one-time email and tracking the success of our referral program.</p>
 
-<p>Your colleague can contact us at <a href="mailto:webmaster@ddiworld.com">webmaster@ddiworld.com</a> to request that we remove this information from our database.</p>
+<p>Your colleague can contact us at&nbsp;<a href="mailto:webmaster@ddiworld.com">webmaster@ddiworld.com</a>&nbsp;to request that we remove this information from our database.</p>
 
-<h3><a name="toc22">Submit Your Resume for Careers Opportunities</a></h3>
+<p><a name="toc22"></a>Submit Your Resume for Careers Opportunities</p>
 
 <p>If you use our online resume submission service to apply for or be considered for a Career Opportunity with DDI, we require you to supply your contact information (including latest address, phone, and email information).</p>
 
 <p>We will automatically send you a one-time email confirming your resume submission. DDI stores this information for the sole purpose of sending the one-time email and tracking your resume submission.</p>
 
-<p>You can contact us at <a href="mailto:resumes@ddiworld.com">resumes@ddiworld.com</a> to request that we remove this information from our database.</p>
+<p>You can contact us at&nbsp;<a href="mailto:resumes@ddiworld.com">resumes@ddiworld.com</a>&nbsp;to request that we remove this information from our database.</p>
 
-<h3><a name="toc23">Profiles</a></h3>
+<p><a name="toc23"></a>Profiles</p>
 
 <p>Information provided by users of the Sites is stored in a user profile. Subsequently collected information related to that user profile that we collect through cookies, log files, and/or third parties is tied to the profile to improve the content of the site for the user. This profile is used to tailor a user’s visit to the Sites and to direct pertinent content to them.</p>
 
-<p>We purchase third-party marketing data and add it to our existing user database to better target our advertising and provide pertinent information we think our users would find of interest. We use this information to enhance or overlay the profile of individual users. This aggregate marketing data is therefore tied to the users' personally identifiable information.</p>
+<p>We purchase third-party marketing data and add it to our existing user database to better target our advertising and provide pertinent information we think our users would find of interest. We use this information to enhance or overlay the profile of individual users. This aggregate marketing data is therefore tied to the users' profile.</p>
 
-<h3><a name="toc24">Widgets</a></h3>
+<p><a name="toc24"></a>Widgets</p>
 
 <p>Widgets support functions that require that you disclose certain personally identifiable information given the user's choice of participation. This information is collected in different ways such as: forms, surveys, contests, forums, subscribing or unsubscribing to mailings and correcting or updating personally identifiable information and are only used for the purpose in which they were collected.</p>
 
-<h3><a name="toc25">Blogs, Chat Rooms, Message Boards, and Public Forums</a></h3>
+<p><a name="toc25"></a>Blogs, Chat Rooms, Message Boards, and Public Forums</p>
 
 <p>By posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. Please keep in mind that whenever you voluntarily disclose personal information online - for example on blogs, message boards, through email, or in chat areas - that information can be collected and used by others.</p>
 
-<p>We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a> In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p>We are not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at&nbsp;<a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>&nbsp;In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
 
-<h3><a name="toc26">Customer Testimonials</a></h3>
+<p>Social Media Features</p>
 
-<p>We post customer testimonials on our web site, which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to have your personal information removed from this section of our site, please contact us at <a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>.</p>
+<p>Our Web site includes Social Media Features, such as Facebook, Twitter, and LinkedIn buttons. These sites collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p>
 
-<h3><a name="toc27">Information Use</a></h3>
+<p><a name="toc26"></a>Customer Testimonials</p>
+
+<p>We post customer testimonials on our web site, which may contain personal information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you wish to have your personal information removed from this section of our site, please contact us at&nbsp;<a href="mailto:DataProtectionOfficer@ddiworld.com">DataProtectionOfficer@ddiworld.com</a>.</p>
+
+<p><a name="toc27"></a>Information Use</p>
 
 <p>Site visitors provide personal information on a voluntary basis through visible means of data entry or collection. Any personal information becomes available to DDI only when voluntarily submitted by you. Once DDI receives such information, it is sent to the office at DDI that is equipped to respond to your request or comment. We do not rent, sell, or exchange information about you to third parties, except as otherwise noted in this Privacy Policy.</p>
 
 <p>DDI may also use such information to provide notice of events and new products and services. DDI uses the collected information to improve the content of our Web Site, to enhance existing products and services, and to communicate with you more effectively. However, despite all best efforts, Internet and email communications are never 100% confidential, and it is possible that information transmitted to us may be read or obtained by other parties. We do not release or share any of your information for any purpose other than its intended use.</p>
 
-<h3><a name="toc28">Online Customer Service Chat Cookies</a></h3>
+<p><a name="toc28"></a>Online Customer Service Chat Cookies</p>
 
 <p>Our third-party online customer service chat service provider uses cookies to link profile information (submitted by individuals to DDI) with the chat sessions managed by DDI's client representatives (operators). By setting a cookie, users do not have to enter their profile information more than once, thereby saving time while on the chat session. Other statistical information about how our Web sites are used is collected to assist the user with their customer service experience.</p>
 
-<h3><a name="toc29">Search Engine Cookies</a></h3>
+<p><a name="toc29"></a>Search Engine Cookies</p>
 
 <p>Our third-party business service provider uses cookies to link visits to our site with click-through from pay-per-click sponsored ads, placed by DDI on external search engine sites. They work by placing a cookie on a user's computer when he/she clicks on one of our pay-per-click sponsored ads. Then, if the user reaches one of DDI's designated conversion pages, the cookie is connected to our web page. When a match is made, the third-party business service provider records a successful conversion for DDI.</p>
 
@@ -873,37 +910,37 @@ Bridgeville, PA 15017<br>
 
 <p>This Privacy Policy covers the use of cookies by the Sites and does not cover the use of cookies by any third parties.</p>
 
-<h3><a name="toc30">Tracking Technologies</a></h3>
+<p><a name="toc30"></a>Tracking Technologies</p>
 
 <p>Technologies such as cookies or similar technologies are used by DDI and our marketing partners on some of our sites. These technologies are used in analyzing trends, storing user name and password so that you do not have to enter it each time you visit the site, administering the site, tracking users’ movements around the site and gathering demographic information about our user base. We may receive reports based on the use of these technologies from these companies in an individual and/or aggregated format.</p>
 
-<h3><a name="toc31">Local Storage – HTML 5/Flash Cookies</a></h3>
+<p><a name="toc31"></a>Local Storage – HTML 5/Flash Cookies</p>
 
 <p>Third parties with whom we partner to provide certain features on our site, or to display advertising based upon your web browsing activity, use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML 5 LSOs.</p>
 
-<h3><a name="toc32">Advertising</a></h3>
+<p><a name="toc32"></a>Advertising</p>
 
-<p>We engage a third-party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our third-party partner may use technologies such as cookies to gather information about your activities on this site and other sites to provide you advertising based upon your browsing activities and interests. If you do not want to have this information used for serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com" target="_blank">here</a> (or if located in the European Union click <a href="http://youronlinechoices.eu/" target="_blank">here</a>). Please note this does not opt you out of being served all ads; you will continue to receive generic ads.</p>
+<p>We engage a third-party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our third-party partner may use technologies such as cookies to gather information about your activities on this site and other sites to provide you advertising based upon your browsing activities and interests. If you do not want to have this information used for serving you interest-based ads, you may opt-out by clicking&nbsp;<a href="http://preferences-mgr.truste.com/">here</a>&nbsp;(or if located in the European Union click&nbsp;<a href="http://youronlinechoices.eu/">here</a>). Please note this does not opt you out of being served all ads; you will continue to receive generic ads.</p>
 
-<h3><a name="toc33">Log Files</a></h3>
+<p><a name="toc33"></a>Log Files</p>
 
 <p>Like most standard Web Sites, we use log files to collect statistical information about how our Sites are used. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring / exit pages, platform type, date/time stamp, and number of clicks.</p>
 
 <p>The information we collect is used to analyze trends, administer the Sites, track aggregate user movement, and gather broad demographic information for aggregate use. We may choose to track the above log file information against individual user profiles when the user voluntarily sets a uniquely identifiable cookie by logging on with a user name and password to the Sites.</p>
 
-<h3><a name="toc34">Newsletter Subscriptions</a></h3>
+<p><a name="toc34"></a>Newsletter Subscriptions</p>
 
 <p>DDI’s third party newsletter publishing service provider for managing email newsletter subscriptions collects and stores visitor information in a secure and private manner on behalf of DDI. This information includes, but is not limited to, email address lists, articles, survey answers, letters, and usage statistics.</p>
 
 <p>This information is owned by DDI and is not accessible to any other third parties. If you no longer wish to receive our newsletter, you may opt-out by following the opt-out instructions which are included in each communication.</p>
 
-<h3><a name="toc35">Online Customer Service Chat</a></h3>
+<p><a name="toc35"></a>Online Customer Service Chat</p>
 
 <p>DDI's third party online customer service chat service provider collects and stores user information in a secure and private manner on behalf of DDI to manage online chat sessions.</p>
 
-<p>If using this function, users will be asked to enter their names in whatever format or detail they prefer. During the chat, users engage in a live question and answer session with a DDI operator. Our third-party online customer service chat ASP service provider maintains dialogue transcripts of these chats. After the chat, users may be asked to fill out an exit survey to obtain valuable feedback about DDI service. Filling out the exit survey is voluntary. The surveys may ask for contact information and for demographic information. Data is also collected through aggregated tracking information from cookies. Our third-party online customer service chat service provider uses the information they collect to improve the service they provide to DDI. No information is shared with other third parties.</p>
+<p>If using this function, users will be asked to enter their names in whatever format or detail they prefer. During the chat, users engage in a live question and answer session with a DDI operator. Our third-party online customer service chat service provider maintains dialogue transcripts of these chats. After the chat, users may be asked to fill out an exit survey to obtain valuable feedback about DDI service. Filling out the exit survey is voluntary. The surveys may ask for contact information and for demographic information. Data is also collected through aggregated tracking information from cookies. Our third-party online customer service chat service provider uses the information they collect to improve the service they provide to DDI. No information is shared with other third parties.</p>
 
-<h3><a name="toc36">Online Surveys</a></h3>
+<p><a name="toc36"></a>Online Surveys</p>
 
 <p>DDI's third-party online survey provider collects and stores user information in a secure and private manner on behalf of DDI to manage online surveys. This provider allows DDI to create surveys and questionnaires for distribution to potential survey respondents.</p>
 
@@ -988,7 +1025,7 @@ Bridgeville, PA 15017<br>
   
   <!-- Bottom zone -->
   <div class="zoneBottom zBm col-md-12">
-    <div class="zonebottom-contact-form clearfix">
+    <div id="zbContact" class="zonebottom-contact-form clearfix">
   <div class="div-h4-alt">Talk to an Expert: en-us</div>
   
 <div class="linkedin-autofill-contactzonebottom clearfix">
@@ -1092,11 +1129,11 @@ Bridgeville, PA 15017<br>
 </div>
 
 <div class="zonebottom-form-split-c">
-<div class="profile-label"><label id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_country_lb" title="GUID mapping to CRM" class="EditingFormLabel" for="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_country_ddlCountries">Country</label>&nbsp;<span class="profile-error">*</span></div>
+<div class="profile-label"><label id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_country_lb" title="GUID mapping to CRM" class="EditingFormLabel" for="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_country_ddlCountries">Country/Region</label>&nbsp;<span class="profile-error">*</span></div>
 
 <div class="profile-input"><div id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_ncpcountry" class="EditingFormControlNestedControl editing-form-control-nested-control">
 				<div class="country gdpr-country"><select name="p$lt$zoneBottom$formCntZb$plcUp$viewBiz$country$ddlCountries" id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_country_ddlCountries">
-					<option value="0"> - select a country - </option>
+					<option value="0">- select a country/region -</option>
 					<option value="1">Afghanistan</option>
 					<option value="2">Albania</option>
 					<option value="3">Algeria</option>
@@ -1403,7 +1440,7 @@ Bridgeville, PA 15017<br>
 
 
 <div class="profile-input gdpr-profile-input gdpr-profile-input-consent"><div id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_ncpconsentddimarketing" class="EditingFormControlNestedControl editing-form-control-nested-control">
-				<div class="js-validation-consent" style="display: none;"><span class="checkbox"><input id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_consentDDIMarketing_chkConsent" type="checkbox" name="p$lt$zoneBottom$formCntZb$plcUp$viewBiz$consentDDIMarketing$chkConsent" style="display: none;"><label for="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_consentDDIMarketing_chkConsent"><p>I consent to DDI collecting and processing my personal data in the provision of services to me and for the purposes of marketing and research. I am aware of my rights and the ways in which my data will be used as referenced in <a href="/privacy/en-us">DDI’s Data Privacy Policy</a>.  I am aware I have the right to revoke this consent at any time.</p>
+				<div class="js-validation-consent" style="display: none;"><span class="checkbox"><input id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_consentDDIMarketing_chkConsent" type="checkbox" name="p$lt$zoneBottom$formCntZb$plcUp$viewBiz$consentDDIMarketing$chkConsent" style="display: none;"><label for="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_consentDDIMarketing_chkConsent"><p>I consent to DDI emailing me, collecting my personal data, and processing that information in the provision of services and for the purposes of marketing and research. I am aware of my rights and the ways in which my data will be used as referenced in <a href="/privacy/en-us">DDI’s Data Privacy Policy</a>. I am aware I have the right to revoke this consent at any time.</p>
 </label></span>
 
 <input type="hidden" name="p$lt$zoneBottom$formCntZb$plcUp$viewBiz$consentDDIMarketing$hdnValueHolder" id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_consentDDIMarketing_hdnValueHolder"></div>
@@ -1413,7 +1450,7 @@ Bridgeville, PA 15017<br>
 
 <div class="profile-input gdpr-profile-input gdpr-profile-input-checkbox"><div id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_ncpconsentddimarketingcheckbox" class="EditingFormControlNestedControl editing-form-control-nested-control">
 				<span id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_consentDDIMarketingCheckbox_list" class="checkbox js-validation-checkbox checkbox-list-vertical"><input id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_consentDDIMarketingCheckbox_list_0" type="checkbox" name="p$lt$zoneBottom$formCntZb$plcUp$viewBiz$consentDDIMarketingCheckbox$list$0" value="Agree to Consent - Marketing" style="display: none;"></span>
-			</div> <span class="checkbox-consent-text" style="display: none;"><p>I consent to DDI collecting and processing my personal data in the provision of services to me and for the purposes of marketing and research. I am aware of my rights and the ways in which my data will be used as referenced in <a href="https://ddiworld.com/privacy/en-us">DDI’s Data Privacy Policy</a>. I am aware I have the right to revoke this consent at any time.</p></span></div>
+			</div> <span class="checkbox-consent-text" style="display: none;"><p>I consent to DDI emailing me, collecting my personal data, and processing that information in the provision of services and for the purposes of marketing and research. I am aware of my rights and the ways in which my data will be used as referenced in <a href="https://www.ddiworld.com/privacy/en-us">DDI’s Data Privacy Policy</a>. I am aware I have the right to revoke this consent at any time.</p></span></div>
 
 <div class="profile-valid gdpr-profile-valid gdpr-profile-valid-checkbox"></div>
 
@@ -1422,7 +1459,7 @@ Bridgeville, PA 15017<br>
 			</div></div>
 
 <div class="profile-label gdpr-profile-notice gdpr-profile-revoke" style="display: none;">
-<p>To revoke your consent, please submit a <a href="https://ddiworld.com/gdpr/data-request-form-individual">data request form</a>.</p>
+<p>To revoke your consent, please submit a <a href="https://www.ddiworld.com/gdpr/data-request-form-individual">data request form</a>.</p>
 </div>
 	
 
@@ -1439,7 +1476,7 @@ Bridgeville, PA 15017<br>
 <div class="profile-input captcha-input"><div id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_ncpcaptcha" class="EditingFormControlNestedControl editing-form-control-nested-control">
 				
 <div>
-    <span id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_Captcha_lblSecurityCode">Please enter the number <strong>from</strong> this image</span>
+    <span id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_Captcha_lblSecurityCode">Please enter the number this image</span>
 </div>
 <table class="CaptchaTable">
     <tbody><tr>
@@ -1447,7 +1484,7 @@ Bridgeville, PA 15017<br>
             <input name="p$lt$zoneBottom$formCntZb$plcUp$viewBiz$Captcha$txtSecurityCode" type="text" id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_Captcha_txtSecurityCode" class="CaptchaTextBox form-control">
         </td>
         <td>
-            &nbsp;<img id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_Captcha_imgSecurityCode" src="/CMSPages/Dialogs/CaptchaImage.aspx?hash=9bedc629-9c18-4787-a0a3-67cc6db36fa1&amp;captcha=p_lt_zoneBottom_formCntZb_plcUp_viewBiz_Captcha&amp;width=80&amp;height=20" alt="Security code">
+            &nbsp;<img id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_Captcha_imgSecurityCode" src="/CMSPages/Dialogs/CaptchaImage.aspx?hash=f091f47b-179c-42a2-a223-16a33d746dbb&amp;captcha=p_lt_zoneBottom_formCntZb_plcUp_viewBiz_Captcha&amp;width=80&amp;height=20" alt="Security code">
         </td>
         
     </tr>
@@ -1457,7 +1494,7 @@ Bridgeville, PA 15017<br>
 
 <div class="profile-valid captcha-valid"></div>
 
-<div class="profile-emailprivacy"><a href="https://ddiworld.com/privacy/en-us">DDI's Privacy Policy</a></div>
+<div class="profile-emailprivacy"><a href="https://www.ddiworld.com/privacy/en-us">DDI's Privacy Policy</a></div>
 </div>
 <input type="submit" name="p$lt$zoneBottom$formCntZb$plcUp$viewBiz$btnOK" value="Submit" id="p_lt_zoneBottom_formCntZb_plcUp_viewBiz_btnOK" class="FormButton btn btn-primary">
 		</div>
@@ -1483,7 +1520,9 @@ Bridgeville, PA 15017<br>
           <div class="zoneFooterPadding clearfix">
             <div class="zonefooter-contact clearfix">
   <div class="zonebottom-contact-chat clearfix">
-  <div id="sn-connect-chat-masterpage" class="sn-connect-chat-footer clearfix"><a href="https://ddi.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=e4032845dbaceb409dbffb661d96192d&amp;sysparm_preview=true&amp;sysparm_domain_restore=false&amp;sysparm_stack=no" target="SNConnectChatWindow" onclick="openSNChatPopup(); return false;"><img alt="Live Chat" src="/DDI/media/chat/chat-button-general-newbrand_footer.png"></a></div>
+  
+<div class="sn-connect-chat-footer clearfix"><a class="drift-open-chat" href=""><img alt="Live Chat" src="/DDI/media/chat/chat-button-general-newbrand_footer.png"></a></div>
+
 </div><div class="zonebottom-contact-call clearfix">
   <div class="zonebottom-support clearfix">
   <div class="contact-icon"><a href="mailto:info@ddiworld.com?subject=DDIWorld%20Contact%20Form&amp;body=Please%20provide:%0aName%0aBusiness%20Phone%0aCompany%0aCountry%0aZip%20or%20Postal%20Code%0aand%20your%20topic%20of%20interest"><img alt="Call or Email" src="/DDI/media/site-images/icons/call.svg"></a></div>
@@ -1512,7 +1551,7 @@ Bridgeville, PA 15017<br>
 </div><div class="ftmobilenav clearfix">
   <div class="ftnav-left clearfix">
     <div class="div-h4-alt">Follow Us</div>
-    <div class="ftnavsocial clearfix"> <span><a href="https://www.linkedin.com/company/ddiworld/"> <span class="social linked_in"></span></a></span> <span><a href="https://www.ddiworld.com/twitter?lang=en-us"> <span class="social twitter"></span></a></span> <span><a href="https://www.ddiworld.com/facebook?lang=en-us"> <span class="social facebook"></span></a></span> <span><a href="https://www.ddiworld.com/blog?lang=en-us"> <span class="social blogger"></span></a></span> <span><a href="https://www.ddiworld.com/youtube?lang=en-us"> <span class="social youtube"> </span></a></span> </div>
+    <div class="ftnavsocial clearfix"> <span><a href="https://www.linkedin.com/company/ddiworld/"> <span class="social linked_in"></span></a></span> <span><a href="https://www.ddiworld.com/twitter?lang=en-us"> <span class="social twitter"></span></a></span> <span><a href="https://www.ddiworld.com/facebook?lang=en-us"> <span class="social facebook"></span></a></span> <span><a href="https://www.ddiworld.com/youtube?lang=en-us"> <span class="social youtube"> </span></a></span> </div>
     <div class="ftnavcta clearfix">
       <div class="nav-mobftctawrap clearfix">
         <div class="text-nav-mobftcta"> <a href="/subscribe?lang=en-us"> <span>Subscribe</span></a></div>
@@ -1633,7 +1672,7 @@ p_lt_zoneBottom_formCntZb_plcUp_viewBiz_emailAddress_revEmailValid.evaluationfun
 
 <script type="text/javascript">
 	//<![CDATA[
-WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/privacy/en-us","DocumentCultureCode":"en-US","UrlReferrer":"https://ddiworld.com/"}')
+WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/privacy/en-us","DocumentCultureCode":"en-US","UrlReferrer":"https://www.ddiworld.com/podcasts/480/generation-frustration-part2"}')
 //]]>
 </script>
 <script type="text/javascript">
@@ -1665,7 +1704,7 @@ document.getElementById('p_lt_zoneBottom_formCntZb_plcUp_viewBiz_emailAddress_re
 }
 //]]>
 </script>
-  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
   <script type="text/javascript"> 
       //<![CDATA[
       if (window.WebForm_InitCallback) { 
