@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzznigeria.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321141107id_/https%3A//buzznigeria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzznigeria.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205005707id_/https%3A//buzznigeria.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuzzNigeria - Famous People, Celebrity Bios, Updates and Trendy News
 
@@ -39,7 +39,7 @@ When you add any Content to this website: (a) you agree to grant to us a royalty
 
 You agree to indemnify and hold us harmless, our subsidiaries, affiliates, related parties, officers, directors, employees, agents, independent contractors, advertisers, partners, and co-branders from any claim or demand, including reasonable attorney’s fees, that may be made by any third party, that is due to or arising out of your conduct or connection with this web site or service, your provision of Content, your violation of this Terms of Use or any other violation of the rights of another person or party.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by filling out our contact form when you [click on this link](http://buzznigeria.com/contact/) or write us at:
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by filling out our contact form when you [click on this link](https://buzznigeria.com/contact/) or write us at:
 
 Alexander Moore Partners Ltd
 
