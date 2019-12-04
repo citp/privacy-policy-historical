@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626082947id_/https%3A//www.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205002600id_/https%3A//www.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,6 +52,9 @@ We use cookies in order to allow you to login to our service, improve the functi
 
 For example, UniversalClass may use cookies for any of the following reasons:
 
+  * Essential cookies. These cookies are essential for our website to function. These cookies secure your credentials when you log in to our service. They also help protect your account against unauthorized access and helps to fight abuse and fraud. 
+  * Statistics and Measurement cookies. These cookies allow us to count visitors, visits, pages viewed, etc. They help us improve how our website functions.
+  * Tracking/targeting cookies. These cookies record your visits, links followed, and pages viewed. We use this information to make the site relevant to your interests. 
   * Security. We use cookies to secure your credentials when you log in to our service. These cookies help protect your account against unauthorized access and helps to fight abuse and fraud.
   * Customization. We use cookies to customize your experience of our service by remembering your preferences on how our service looks and behaves to fit your individual preferences.
   * Maintain State. We use session cookies to maintain your current state (in order to determine if you are currently logged in) and be able to show you purchases made, courses you are currently taking or have completed, and provide account-specific information.
@@ -194,6 +197,8 @@ You may set your browser to disable cookies from a website. You will need to rev
 By using any of our services, you consent to the use of cookies, web beacons and any other data collection tools we may use as described in our [Privacy Policy](https://www.universalclass.com/myinterests/privacypolicy.htm). 
 
 **Your Cookie Opt-Out Choices**
+
+To opt-out of Google Analytics or Google Advertising, please contact Google directly: [Google Opt-Out](https://policies.google.com/technologies/managing).
 
 If you'd like to delete cookies or instruct your web browser to delete or refuse cookies, please visit the help section of your web browser. Please note that disabling cookies will remove your ability to take any courses and will cause the website to not function correctly. 
 
