@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beckershospitalreview.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330212010id_/https%3A//www.beckershospitalreview.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckershospitalreview.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204170614id_/https%3A//www.beckershospitalreview.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
