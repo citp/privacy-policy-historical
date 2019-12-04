@@ -1,9 +1,32 @@
-> *The following text is extracted and transformed from the squirrly.co privacy policy that was archived on 2018-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181113043637id_/http%3A//www.squirrly.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squirrly.co privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204092112id_/https%3A//www.squirrly.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - Squirrly
+# Privacy Policy - Squirrly
 
-## 1\. Collection Of Information  
-Summary: We collect information about you when you:
+UPDATED: 21st of May 2018.
+
+Our Privacy Policy explains how Squirrly (also referred to as: Squirrly Limited, or Squirrly Company) collects, uses, and discloses information about you.
+
+The terms “Squirrly,” “we,” “us,” and “our” include Squirrly Limited and our affiliates. We use the terms “member,” “you,” and “your”, “user”, “subscriber”, “customer”, “client” to mean any person using our Sites or Services, including any organization or person using the Sites or Services on an organization’s behalf. This Privacy Policy applies to the processing of information about members and other individuals that we collect when you use our “Sites” or “Services”, under the definitions provided[ in the Squirrly Terms of Use, or the “TOU” of Squirrly.](https://www.squirrly.co/terms-of-use)
+
+The term: “Platform” is also used within this Privacy Policy and it is used to describe any Site or Service offered by Squirrly.
+
+This Privacy Policy covers:
+
+1\. Collection Of Information
+
+2\. Use Of Information
+
+3\. Sharing Of Information
+
+4\. Additional Details
+
+5\. Your Choices
+
+6\. Data Rights
+
+7\. Contact Us
+
+## 1\. Collection Of Information Summary: We collect information about you when you:
 
   * Create an account;  
 – Use the Platform;  
@@ -55,8 +78,6 @@ Member Content. We may receive information about you when you or another member 
 Information From Other Third-Party Sources. In order to provide you with more tailored recommendations, we may obtain information about you from publicly and commercially available sources and other third parties as permitted by law.
 
 For more information about the data that we obtain from these providers, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
-
-## 2\. Use Of Information
 
 Summary: We use information about you to:
 
@@ -133,8 +154,6 @@ to an affiliate or successor entity as part of a corporate transaction.
 
 We may also share de-identified or aggregated information.
 
-3.1 Through Our Platform
-
 We share some of the information that we collect by displaying it on our Platform according to your member profile and account settings.
 
 Some information, such as user name, is always public. Some information, such as interests, is public by default, but can be hidden on our Platform.
@@ -159,11 +178,7 @@ Such features let you share information with your friends or the public, dependi
 
 If Squirrly is involved in a merger, acquisition, financing, reorganization, bankruptcy, or sale of our assets, information about you may be shared, sold, or transferred as part of that transaction. We may also share information about you with current or future corporate parents, subsidiaries, or affiliates.
 
-## 3.6 Other Situations
-
 We may de-identify or aggregate information about you and share it freely, so that you can no longer be identified. We may also share information about you with your consent or at your direction or where we are legally entitled to do so.
-
-## 4\. Additional Details
 
 Summary:  
 With your permission, we may allow others to use technologies that collect information about you to provide analytic services, and to serve ads for Squirrly Services and Sites. You may be able to disable the collection or use of this information.
@@ -182,8 +197,6 @@ With your permission, we may allow others to use cookies, web beacons, device id
 
 Squirrly is based in the United Kingdom. Information about you will be transferred to, and processed in, the U.S., United Kingdom, Germany and countries other than the country in which you are resident. These countries may have data protection laws that are different to the laws of your country and, in some cases, may not be as protective. We have taken appropriate safeguards to require that your information will remain protected in accordance with this Privacy Policy.
 
-## 4.3 Security
-
 We employ technical and organizational measures designed to appropriately protect your information that is under our control and that we process on your behalf from unauthorized access collection, use, disclosure, copying, modification or disposal, both during transmission and once we receive it. We store all information that you provide to us on secure servers.
 
 We train employees regarding our data privacy policies and procedures, and permit authorized employees to access information on a need to know basis, as required for their role.
@@ -191,8 +204,6 @@ We train employees regarding our data privacy policies and procedures, and permi
 We use firewalls designed to protect against intruders and test for network vulnerabilities. However, no method of transmission over the internet or method of electronic storage is completely secure.
 
 Where you have a password, which enables you to use our services, you are responsible for keeping this password complex, secure, and confidential. If you would like to update or change your password, you may select the “Forgot your password?” link on the login page. You will be sent an email that allows you to reset your password.
-
-## 4.4 Data Retention
 
 We may temporarily block your account if you have not logged in for six months or more. You may contact us if you wish to reactivate your account. This may be different from Service to Service.
 
@@ -206,8 +217,6 @@ To detect and prevent abuse of our Platform, illegal activities and breaches of 
 To comply with applicable legal, tax or accounting requirements.  
 When we have no ongoing legitimate business need to process your information, we will either delete or anonymize it.
 
-## 4.5 Policy Scope
-
 This Privacy Policy does not apply to information that you provide to third parties, such as other members, including group organizers and network administrators, and others with whom you may share information about you. Our Platform may direct you to a third-party service, such as social media services, or a portion of our Platform may be controlled by a third party (typically through the use of a frame or pop-up window separate from other content on our Platform). Disclosure of information to these third parties is subject to the relevant third party’s privacy policy. We are not responsible for the third-party privacy policy or content, even if we link to those services from our Platform or if we share information with these third parties.
 
 Squirrly is a data controller. Members are directly responsible for complying with all requirements of applicable EU privacy laws in connection with the information that they obtain and process for the purposes of managing their contacts, or organizing groups, or administering networks, or accounts.
@@ -215,8 +224,6 @@ Squirrly is a data controller. Members are directly responsible for complying wi
 ## 4.6 Revisions To This Policy
 
 We may modify this Privacy Policy from time to time. When we do, we will provide notice to you by publishing the most current version and revising the date at the top of this page. If we make any material change to this policy, we will provide additional notice to you, such as by sending you an email or displaying a prominent notice on our Platform.
-
-## 5\. Your Choices
 
 Summary:
 
@@ -231,8 +238,6 @@ You may update or correct your account information by editing your account setti
 ## 5.2 Your Choices: Promotional Communications
 
 You can control messages that you receive from Squirrly, other members, and third parties by selecting the unsubscribe link in the message that you receive, or by adjusting the communication preferences in your account settings. We will also send you a link to these settings when you first sign up and in subsequent messages. If you opt out, we may still send you non-promotional messages, such as those about your account or our ongoing business relations.
-
-## 6\. Data Rights
 
 Summary:
 
@@ -274,10 +279,12 @@ Deleting your account on any single Service of Squirrly is free and you can do i
 
 For full deletion of all your data across all Services and the Platform, you’ll need to look at 6.1. above.
 
-## 7\. Contact Us
-
 Summary:  
 If you have any questions, you can contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)  
 Under European data protection law, the controller of your information is Squirrly Limited, the United Kingdom Company, VAT registered and with company number: 08198658
 
 If you have any questions or complaints about this Privacy Policy or how we use your information, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
+
+We deliver insanely great marketing software to 6,455 B2B customers in over 90 countries.
+
+© Copyright 2012 – 2019 Squirrly Limited – United Kingdom.
