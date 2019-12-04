@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502132841id_/https%3A//www.culturekings.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culturekings.com.au privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204095342id_/https%3A//www.culturekings.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Culture Kings
 
