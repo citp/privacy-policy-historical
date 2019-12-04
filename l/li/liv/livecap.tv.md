@@ -1,81 +1,83 @@
-> *The following text is extracted and transformed from the livecap.tv privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615075913id_/http%3A//news.livecap.tv/post/140325703626/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecap.tv privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204080306id_/https%3A//www.topcsgobettingsites.com/privacy-policy) for the most accurate reproduction.*
 
-# — Privacy Policy
+# Privacy Policy - TopCSGOBettingSites.com
 
-Effect on [ Jan, 1st ], 2016
+At topcsgobettingsites.com we value your privacy as much as you do and we have created this Privacy Policy that ensures your peace of mind. Privacy Policy together with the Terms and Conditions sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting our site you are accepting and consenting to the practices described in this Privacy Policy.
 
-Welcome to the web site [www.livecap.tv](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.livecap.tv&t=NmFiNjU5NzZkMmIzNmNhYmJmMGQ0YWZiOWYyMjE0ZDg1MDAyNzMyMyxkV3FPTEQ2TA%3D%3D) , and any other web sites, applications, or services that link to this Privacy Policy (collectively, the “LiveCap Service”), which sites, applications or services are operated or produced by LiveCap Interactive, Inc. (“LiveCap” or “We”). LiveCap values the privacy of the users, subscribers, publishers, members, and others who visit and use the LiveCap Service (collectively or individually, “You” or “Users”) and wants you to be familiar with how we collect, use and disclose information from and about you.
+## What Information We Collect?
 
-By agreeing to this Privacy Policy in your LiveCap account setup, or by using the LiveCap Service, you expressly consent to the information handling practices described in this notice.
+We collect different types of information from our Users: 
 
-This Privacy Policy applies to LiveCap’s collection and use of your personal information (i.e., information that identifies a specific person, such as full name, address, phone number, or email address). It also describes generally LiveCap’s practices for handling non-personal information (for example, interests, demographics and services usage).
+  * Information which you provide us voluntarily when you respond to communications from us or communicate with us via email such as first and last name, email address, gender.
+  * We collect specific types of connection details and information with regard to your device, software or hardware that may identify you, such as: device’s unique identifiers (IMEI, MAC address), browser fingerprinting, IP address and geo-location data.
 
-The Information LiveCap Collects
 
-User-provided Information : You may provide to LiveCap what is generally called “personal information” in the USA and elsewhere or “personal data” in the European Union (such as your name, email address, postal mailing address, home/mobile telephone number, credit card number and billing information) if you register for a LiveCap Service, or upload, purchase, view or download certain content or products from the LiveCap Service, enter contests or sweepstakes, or otherwise use the features and functionality of the LiveCap Service.
 
-“Cookies” Information: Cookies are pieces of text that may be provided to your computer through your web browser when you access a website. Your browser stores cookies in a manner associated with each website you visit. We use cookies to enable our servers to recognize your web browser and tell us how and when you visit the Site and otherwise use the Services through the Internet.
+## How Is It Collected?
 
-Our cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed aspects of the Services and may associate that information with your Account if you have one.
+We collect information about you when you fill in a contact form or email us directly. We also can get non-Personal Information from Your device using various standard technologies, such as cookies, digital identifiers, log files or other similar technologies.
 
-Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services.
+## Why Is It Being Collected?
 
-This Privacy Policy covers our use of cookies only and does not cover the use of cookies by third parties. We do not control when or how third parties place cookies on your computer. For example, third party websites to which a link points may set cookies on your computer.
+We use information held about you to improve the quality and design of the Site, to email you about other services and information we think may be of interest to you. We may use cookies and log files information to personalize and customize your experience on our site and track your use to generate statistics.
 
-“Automatically Collected” Information: When you access the LiveCap Service or open one of our HTML emails, we may automatically record certain information from your system by using cookies and other types of tracking technologies. This “automatically collected” information may include Internet Protocol address (“ IP Address ”), a unique user ID, device type, device identifiers, browser types and language, referring and exit pages, platform type, version of software installed, system type, the content and pages that you access on the LiveCap Service, the number of clicks, the amount of time spent on pages, the dates and times that you visit the LiveCap Service, and other similar information. Depending on the law of your country of residence, your IP address may legally be considered personal information.
+## How will it be used?
 
-Information from Other Sources: We may obtain information, including personal information, from third parties and sources other than the LiveCap Service, such as advertisers or social media networks for which you have approved our access to information (e.g., information from your Facebook account provided by the Facebook APIs). When you access the LiveCap Service through social media networks or when you connect a LiveCap Service to social media networks, you are authorizing LiveCap to collect, store and use such information and content in accordance with this Privacy Policy. We may also obtain information from third parties such as social entertainment platforms regarding your use of such services, including about your use of the content you choose to broadcast through the LiveCap Service. If we combine or associate information from other sources with personal information that we collect through the LiveCap Service, we will treat the combined information as personal information in accordance with this Privacy Policy.
+We use your Personal Information for the purposes listed below:
 
-The Way LiveCap Uses Information
+  * To communicate with your and to process any of your requests to exercise your User Rights;
+  * To set up, manage and update your account;
+  * To perform research, technical diagnostics, analytics or statistical purposes;
+  * To detect and prevent fraudulent and illegal activity;
 
-LiveCap uses the information that you provide or that we collect from or about you: to operate, maintain, enhance, and provide all of the features and services found on the LiveCap Service; to improve your experience with the LiveCap Service by delivering content which we hope you will find relevant and interesting, including advertising and marketing messages; to allow you to comment on content, and participate in online games, contests or rewards programs; and as necessary to comply as a service provider with the Digital Millennium Copyright Act or other similar legal obligations around the world.
 
-We will use your mobile phone number or email address for administrative communications such as notifying you of major LiveCap Service updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the LiveCap Service.
 
-LiveCap may periodically send promotional materials or notifications to you related to the LiveCap Service. If you want to stop receiving promotional materials, you can go to [http://www.LiveCap.tv/settings](http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.LiveCap.tv%2Fsettings&t=YThjNTE3ODA4MjYwNjlhMTY3MmJjYmQ0ZjBmMTMyOTNjNDhlMDhiNixkV3FPTEQ2TA%3D%3D) once you have logged in to the LiveCap Service or (for email) follow the unsubscribe instructions at the bottom of each email. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+## Who Will It Be Shared With?
 
-LiveCap uses the information that we collect to understand the usage trends and preferences of our Users, to improve the way the LiveCap Service works and looks, and to create new features and functionality.
+We may appoint certain third parties including but not limited to analytics companies, advertising agencies, risk and fraud agencies or customer service agencies to process your personal data on our behalf. These third parties will only process your personal data in accordance with our instructions and we will ensure that adequate measures are in place to ensure that your personal data is processed only in accordance with this Privacy Policy and kept secure at all times.
 
-LiveCap may use “Automatically Collected” information and “Cookies” information to maintain and improve the LiveCap Service, including to do the following things: (a) automatically update the LiveCap application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the LiveCap Service; © provide customized third-party advertisements, content and information; (d) monitor the effectiveness of third-party marketing campaigns; (e) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (f) track your entries, submissions, and status in any promotions or other activities.
+We may also share your information with third parties in the following situations:
 
-When LiveCap Discloses Information
+  * If we think doing so is necessary to protect the rights, property, security, safety of us or our users.
+  * Investigation and prevent fraudulent or illegal activity.
 
-LiveCap does not share your personal information with other organizations for their own marketing or promotional uses without your prior express consent. Please be aware, however, that any personal information that you voluntarily choose to display on any publicly available portion of the LiveCap Service - such as when you publish content, comments or profile information - becomes publicly available and may be collected and used by others.
 
-If you connect to a third party service (such as Facebook or Twitter) through an icon or link on the LiveCap Service or otherwise link your LiveCap account with a third party service, we may share the contents of your post and associated information (such as your user name, the fact that your connection originated from the LiveCap Service, and other relevant usage and diagnostic information) with such third party. With your one-time consent, we may also send information about the content you watch and your activities on the LiveCap Service to such third parties. Once such information is shared, the use of your information will be subject to that service’s privacy policy and this Privacy Policy will not apply.
 
-LiveCap may disclose Automatically Collected and other aggregate non-personal information with interested third parties to assist such parties in understanding the usage and demographic patterns for certain programs, content, services, advertisements, promotions, or other functionality of LiveCap.
+## Cookies
 
-LiveCap may make both personal and non-personal information available to subsidiaries and affiliated companies that are under common ownership or control within the LiveCap family.
+A 'cookie' is a small text file that is downloaded onto your Access Device when you visit a website and that enables the website to obtain certain information from your browser, such as your preferences. Cookies allow us to maximize your experience using the Website by increasing its functionality and allowing the Website to remember information and selections as you move from page to page and from a visit to visit, depending on the cookie. A cookie does not harm Your Access Device nor does it contain any viruses or other malware and also used to help ensure that the advertisements you see online are relevant to you and your interests.
 
-We may disclose both personal and non-personal information to service providers working on our behalf to: provide web site hosting, maintenance, and security services; fulfil orders; conduct data analysis and create reports; offer certain functionality; and assist LiveCap in improving the LiveCap Service and creating new services features. We require that these parties process such information in compliance with this Privacy Policy, we authorize them to use the information only for the purposes for which it is provided to them, and we require these parties to use reasonable confidentiality measures.
+Topcsgobettingsites.com uses cookies solely for the purpose of customizing pages during future visits in order to improve the user experience as well as our website content.
 
-LiveCap may disclose User information if we believe in good faith that such disclosure is necessary to comply with US state and federal laws (such as U.S. Copyright law) or other applicable laws around the world (for example, in the country of your residence); or respond to a court order, judicial or other government subpoena, or warrant in the manner legally required by the requesting entity.
+## Protection of Minors
 
-LiveCap also reserves the right to disclose User information that we believe, in good faith and after making reasonable enquiries, is appropriate or necessary to take precautions against liability to LiveCap; protect LiveCap from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations to protect the security or integrity of the LiveCap Service; or to protect the rights, property, or personal safety of LiveCap, our Users, or others. We will notify you of these disclosures if we reasonably think we can do so legally and without harming the purpose of the disclosure.
+Topcsgobettingsites.com is an online gambling information portal and as such none of its marketing content, products, services or promotions are appropriate for, or targeted at, children and visitors under the age of 18 years (or equivalent minimum age in the relevant jurisdiction).
 
-You may, of course, decline to share your personal information with LiveCap, in which case LiveCap will not be able to provide to you some of the features and functionality found on the LiveCap Service. If you would like to access, review, correct, update, suppress, or otherwise limit our use of your personal information you have previously provided directly to us, you may contact us as outlined in the last section of this Privacy Policy titled “LiveCap Contact Information ”; or using the mechanism provided below. In your request, please include your email address, name, address, and telephone number and specify clearly what information you would like to access, change, update, or suppress. We will try to comply with your request as soon as reasonably practicable and any information you give us will be protected by this Privacy Policy.
+The Site bears no responsibility for the actions taken by children or visitors under the age of 18 based on the content found on Topcsgobettingsites.com, or any of its sub-domains and pages.
 
-You may update, correct, or delete certain of your user information and preferences by visiting the Settings Page once you have logged in to the LiveCap Service. You may also request to update, correct, delete the personal information you have provided to us by contacting us at privacy@LiveCap.tv.
+## What Are Your Rights?
 
-To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+You have a number of rights under data protection law in relation to the way we process your personal data. These are set out below:
 
-Advertisers and Analytics Providers
+  * A right to access personal data held by us about you.
+  * Request further clarification as to our use of your personal information.
+  * A right to require us to rectify any inaccurate personal data held by us about you.
+  * A right to require us to erase personal data held by us about you.
 
-We may use third-party Web analytics services on our site, such as Google Analytics. These service providers use a variety of tracking technologies such as cookies to analyze how users use the LiveCap Service. The information collected will be disclosed to or collected directly by these service providers, who use the information to evaluate your use of the LiveCap Service. Because these opt outs are cookie-based, please note that if you get a new computer or device, install a new browser, or erase or alter your browser’s cookie file, you may need to opt out again.
 
-LiveCap may allow advertisers, third-party advertising networks and third-party advertising serving companies to serve advertisements directly to you within the LiveCap Service. By serving these advertisements directly to you, these companies can set their own cookies on your computer and trigger their own Web beacons and other tracking technologies to measure the effectiveness of their advertisements, and to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in personalizing the advertising content delivered to you. LiveCap does not provide your personal information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks LiveCap to show an advertisement to a certain audience (for example, males age 15 to 18) or audience segment (for example, males age 15 to 18 who have participated in certain promotions) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience that they were trying to reach.
 
-This Privacy Policy does not apply to, and we cannot control the tracking technologies and activities of, those other advertisers, third-party advertising networks, or third-party advertising servers. You should consult the respective privacy policies of these advertisers, third-party advertising networks, or third-party advertising servers.
+## Third Party Services
 
-Our Commitment to Data Security
+While using Topcsgobettingsites.com you may encounter links to third party websites, services or applications. Please keep in mind that this Privacy Policy does not apply to any third party websites, services or applications, even if they are accessible, downloadable, or otherwise distributed through the this site.
 
-LiveCap uses commercially reasonable physical, managerial, and technical measures designed to protect the integrity and security of your personal information. However, no security precautions or systems can be completely secure. We cannot therefore ensure or warrant the security of any information you transmit to LiveCap, and you do so at your own risk. We cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+Please be advised that such third party websites, services or applications are independent of topcsgobettingsites.com. We assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such third party websites. Carefully read the privacy policies and the terms of use of such third party websites and/or services, as their terms, not ours, will apply to any of your interactions with such third parties.
 
-In the Event of Merger or Sale
+You should always review their privacy practices carefully before providing Personal Information to such third parties.
 
-In the event that LiveCap or some or all assets related to the LiveCap Service are acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.
+## Changes to Our Privacy Policy
 
-Changes and Updates to this Privacy Policy
+We may occasionally update this Privacy Policy. When we do, we will notify you in advance of any changes.  Please also ensure that you frequently check this Privacy Policy for any updates.
 
-LiveCap reserves the right to change, modify, add, or remove portions of this Privacy Policy at any time (for example to reflect updates to the LiveCap Service or to reflect changes in the law).LiveCap encourages You to frequently check this page for any changes to its Privacy Policy. Your continued use of the LiveCap Service after the posting of changes constitutes your binding acceptance of such changes.
+## Contact Us
+
+If you have any general questions, comments and requests about Topcsgobettingsites.com or the information that we collect about you and how we use it, please contact us [here](https://web.archive.org/contact-us/). 
