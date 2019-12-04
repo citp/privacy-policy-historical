@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reputationauthority.org privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004134358id_/http%3A//www.watchguard.com/wgrd-about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputationauthority.org privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204160458id_/http%3A//www.watchguard.com/wgrd-about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WatchGuard Technologies
 
-**Last Updated: 25 May, 2018**
+**Last Updated: 2 October, 2019**
 
 This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by WatchGuard Technologies, Inc. and its subsidiaries and affiliated companies throughout the world ("WatchGuard" or "we"). This Policy applies to the websites of WatchGuard, including [www.watchguard.com](http://www.watchguard.com/) and its other websites throughout the world. This Policy also applies to WatchGuard's suite of products and services, including its Firebox network security appliances; network security services that run on those appliances or in the cloud; WatchGuard Cloud and Wi-Fi Cloud services; WatchGuard Dimension management service; our partner portal and related services; and other products and services (collectively, "Services"). However, this Policy does not apply to websites, products, or services that display or link to different privacy statements or that are operated by companies other than WatchGuard, or to business activities or practices of third parties, including our channel partners. This Policy also does not apply to information processed in the operation of Services but to which we do not have access; this is generally true, for example, as to network traffic processed by a Firebox appliance running in a customer's network.
 
@@ -81,7 +81,7 @@ We also may be required to disclose an individual’s personal information in re
 
 WatchGuard has responsibility for the processing of personal information it receives and subsequently transfers to a third party. WatchGuard remains potentially liable under the Privacy Shield Principles if its agent processes such personal data in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
-In compliance with the EU-US and Swiss-US Privacy Shield Principles, WatchGuard commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact WatchGuard at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7e0e0c17081f1d073e091f0a1d16190b1f0c1a501d1113)
+In compliance with the EU-US and Swiss-US Privacy Shield Principles, WatchGuard commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss individuals with inquiries or complaints regarding this privacy policy should first contact WatchGuard at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0b7b79627d6a68724b7c6a7f68636c7e6a796f25686466)
 
 WatchGuard has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers](http://www.bbb.org/EU-privacy-shield/for-eu-consumers) for more information and to file a complaint. A binding arbitration option will also be made available to you in order to address residual complaints not resolved by any other means.
 
@@ -101,7 +101,7 @@ We retain your personal information for as long as necessary to provide services
 
 If you wish to ask for access, correction, or deletion of any of your personal information held by us or a change in the way we use your information (for which we reserve the right to charge you a fee, where permitted by applicable law), please contact [WatchGuard Support](https://www.watchguard.com/wgrd-support/contact-support) However, we may decline requests that are unreasonable, prohibited by law, or are not required to be honored by applicable law.
 
-You can opt out of receiving promotional emails from WatchGuard by following the instructions in those emails. You can also manage your email contact preferences at our [Subscription Center](https://secure.watchguard.com/subscription-center.html) If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You can also send requests about changes to your information or your contact preferences, including requests to opt-out of sharing your personal information with third parties, by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d8b5b9aab3bdacb1b6bfb7a8bdaab9acb1b7b6ab98afb9acbbb0bfadb9aabcf6bbb7b5).
+You can opt out of receiving promotional emails from WatchGuard by following the instructions in those emails. You can also manage your email contact preferences at our [Subscription Center](https://secure.watchguard.com/subscription-center.html) If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. You can also send requests about changes to your information or your contact preferences, including requests to opt-out of sharing your personal information with third parties, by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f59894879e90819c9b929a85908794819c9a9b86b5829481969d9280948791db969a98).
 
 Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to remove cookies from within your browser, or set your browser to block all cookies, all third-party cookies, or particular cookies. If you choose to remove or block cookies, this can disable or otherwise affect certain features or services of our websites.
 
@@ -118,9 +118,13 @@ We adhere to applicable data protection laws in the European Economic Area, whic
 
 
 
-As applicable under French law, you can also send us specific instructions regarding the use of your personal information after your death, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#0272706b7463617b42756376616a65776370662c616d6f).
+As applicable under French law, you can also send us specific instructions regarding the use of your personal information after your death, by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a7d7d5ced1c6c4dee7d0c6d3c4cfc0d2c6d5c389c4c8ca).
 
 You can read our GDPR Statement [here](https://www.watchguard.com/wgrd-about/gdpr-statement).
+
+### NEVADA RESIDENTS
+
+Nevada law allows Nevada residents to opt out of the sale of certain types of personal information. We do not currently sell personal information as defined in the Nevada law. However, if you are a Nevada resident, you can submit a verified request to opt out of sales and we will record your instructions and incorporate them in the future if our policy changes. Opt-out requests should be sent to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1e6e6c77687f7d675e697f6a7d76796b7f6c7a307d7173).
 
 ### CHANGES TO THIS POLICY
 
@@ -128,4 +132,4 @@ WatchGuard may change this Policy from time to time. If we make any changes to t
 
 ### QUESTIONS
 
-If you have any questions about this Policy, or if you wish to lodge a complaint about our privacy practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7707051e0116140e37001603141f10021605135914181a).
+If you have any questions about this Policy, or if you wish to lodge a complaint about our privacy practices, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82f2f0ebf4e3e1fbc2f5e3f6e1eae5f7e3f0e6ace1edef).
