@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warcraftlogs.com privacy policy that was archived on 2019-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190305151555id_/https%3A//www.warcraftlogs.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warcraftlogs.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204113236id_/https%3A//www.warcraftlogs.com/help/privacy) for the most accurate reproduction.*
 
 # Warcraft Logs - Combat Analysis for Warcraft
 
@@ -80,7 +80,7 @@ You can close your account by email. We will remove certain information from vie
 
 #### 6\. CHILDREN
 
-The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](mailto:logs@warcraftlogs.com). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
+The Service is intended for general audiences and is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us [here](mailto:support@warcraftlogs.com). If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the child's account.
 
 #### 7\. SECURITY
 
