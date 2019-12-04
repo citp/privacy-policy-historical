@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dexport.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620150723id_/https%3A//help.3dexport.com/item/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dexport.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204185925id_/https%3A//help.3dexport.com/item/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – 3DExport Help Center
 
@@ -7,7 +7,7 @@
 Most Helpful Article
 
   * Created [September 29, 2014](https://help.3dexport.com/item/privacy-policy/)
-  * Category [Site Guide](https://help.3dexport.com/article-categories/site-guide/), [Legal Terms](https://help.3dexport.com/article-categories/legal-terms/)
+  * Category [Legal Terms](https://help.3dexport.com/article-categories/legal-terms/), [Site Guide](https://help.3dexport.com/article-categories/site-guide/)
 
 
 
@@ -181,6 +181,6 @@ Thank you!
 
 ### Rate This Article
 
-(251 out of 432 people found this article helpful) 
+(273 out of 481 people found this article helpful) 
 
 ### Related Articles
