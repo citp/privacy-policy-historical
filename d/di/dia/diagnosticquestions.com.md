@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diagnosticquestions.com privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504000217id_/https%3A//diagnosticquestions.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diagnosticquestions.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204090421id_/https%3A//diagnosticquestions.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Diagnostic Questions
 
