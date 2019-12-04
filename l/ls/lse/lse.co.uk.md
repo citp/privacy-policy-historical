@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626004706id_/http%3A//www.lse.co.uk/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lse.co.uk privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204141311id_/https%3A//www.lse.co.uk/privacy-statement.html) for the most accurate reproduction.*
 
-# London South East - Data Protection and Privacy Statement
+# London South East | The UK's favourite investor portal.
 
 This is our website privacy statement. Please read it carefully as you should only submit information through this site if you agree that we may use it in accordance with this privacy statement.
 
 We collect certain information about you when you visit our website. We recognise the importance of both keeping that information secure and letting you know what we intend to do with that information. We may amend our privacy statement to reflect changes to our business, website or to data protection legislation. We therefore ask that you revisit this privacy statement on a regular basis to ensure you are familiar with its terms. This privacy statement only applies to our website; if you follow a link out of our site or leave our site in some other way, this privacy statement will no longer apply.
 
-## Who we are
+#### Who we are
 
 We are London South East Limited, a company registered in England & Wales under company number 06258308 whose registered office is at 32 Clarence Street, Southend on Sea, Essex, SS1 1BD. We are registered under the Data Protection Act 1998 with registration number Z9954798.
 
-## The information we collect
+#### The information we collect
 
 We collect information from when you use our site in the form of traffic data. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and aggregate information. This is statistical data about browsing actions and patterns to enable us to improve the website and does not identify any individual.
 
-## Online forms
+#### Online forms
 
 We collect information you give us when completing the 'Contact' section. Where we would like more information to help us improve our services, over and above the basic required information, it will be clear that your response is voluntary and you are free not to provide us with more information if you would prefer not to do so.
 
-## Cookies
+#### Cookies
 
 Cookies are small text files which are often stored on your computer's hard drive by websites you visit to enable the site to remember who you are. These cookies store your unique ID but do not contain any information that personally identifies you, such as a name or address. We use cookies when you log onto our site to stop you having to re-type information and they remain on your computer until you delete them.
 
 Without cookies you cannot login to London South East. We use cookies to enhance the functionality of the website by storing your preferences/settings, as well as using cookies to help us to improve the performance of our website and to provide you with a better user experience. We may also use this information for marketing and displaying information about other products and services that we feel may be to your interest through advertising networks such as but not limited to the Google Ad network, Facebook, and Twitter.
 
-Most browsers are automatically set to accept cookies and you should be able to restrict or disable them if you wish by adjusting the settings on your browser. This will however alter your use of the areas of our website that use cookies, such as the login areas. We do not use 'spyware', that is web bugs or hidden identifiers or other similar devices to gain access to information or to trace your activities. For more information about cookies and instructions on how to adjust your browser settings or restrict or disable cookies, see the IAB website at [www.allaboutcookies.org](http://www.allaboutcookies.org/). Contact us or view our dedicated Cookie page on the site for specific information on the cookies we use.
+Most browsers are automatically set to accept cookies and you should be able to restrict or disable them if you wish by adjusting the settings on your browser. This will however alter your use of the areas of our website that use cookies, such as the login areas. We do not use 'spyware', that is web bugs or hidden identifiers or other similar devices to gain access to information or to trace your activities. For more information about cookies and instructions on how to adjust your browser settings or restrict or disable cookies, see the IAB website at www.allaboutcookies.org. Contact us or view our dedicated Cookie page on the site for specific information on the cookies we use.
 
-## Analytics
+#### Analytics
 
 This website uses Google Analytics, a web analytics service provided by Google, Inc. (Google). Google Analytics uses cookies, which are texted files placed on your computer, to help the website analyse how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data by Google in the manner and the purposes set out above.
 
@@ -34,40 +34,45 @@ Certain pages of our website are monitored for the purpose of reporting web traf
 
 Should you object to the use of cookies, web beacons and/ or other such monitoring technology on our website most internet browsers can be reconfigured to alert you to their use/allow you to reject their use. If you wish to block such technology, please refer to the help function of you internet browser. Please note that you may not be able to use certain facilities and services on this website if you choose to do this.
 
-## What we do with your information
+#### What we do with your information
 
-**How we use it**  
+**How we use it**
+
 We use your information to provide you with that which you have requested. We may, from time to time, use your details to send you information about other products and services that may be to your interest.
 
 You may ask us to remove you from our mailing lists at any time by writing to us at our registered office. We will also offer you the option of correcting your details and of being removed from our mailing list when we send you alerts or other information.
 
-**When we share it**  
+**When we share it**
+
 We disclose your information to third parties in certain circumstances but we will not sell, rent or trade personal information. We may share your information with other organisations that buy our company or assets, or another organisation from which we acquire a company or business and in the course of any preceding negotiations from which we may or may not lead to sell. We may share your information with our funders or potential funders such as our bank and with professional advisers who have a reasonable need to see such information.
 
 We may share your information with any group of companies of ours as defined under the Companies Act 2006 so that they can provide any products and services to you where you have personally requested them or where we feel such information is necessary to keep you informed of any products or services that they believe will be of interest to you. We may provide anonymous aggregated data to reputable third parties on a commercial basis.
 
 We may give third party providers who supply services to us, or who process information on our behalf, incidental access to your information but will always take steps to ensure their security measures are adequate to protect your information. We will disclose your information to enforcement authorities if asked to do so, or to a third party in the context of actual or threatened legal proceedings or if otherwise required to do so by law.
 
-**Personal Data Requested**  
+**Personal Data Requested**
+
 To contribute to the content on this website (either forum posts or website articles/links) all we require is that when registering you confirm you are 16 or over, you choose a unique username, a personal password and you enter your valid email address so you can collect your account activation code by email. You should not use any personally identifiable information (such as your real name) as your username.
 
 If you use the forums, you should be aware that any personally identifiable information you submit there can be read, collected or used by other visitors to these forums. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-**How we keep it secure**  
+**How we keep it secure**
+
 Only authorised personnel and contractors have access to your information. We will keep your information secure by taking appropriate technical and organisational measures against unauthorised or unlawful processing and against its accidental loss, destruction or damage.
 
-**Transfer outside Europe**  
+**Transfer outside Europe**
+
 Data protection legislation is harmonised throughout the European Economic Area (EEA) which comprises the EU member states, Norway, Iceland and Liechtenstein. Countries outside the EEA do not generally have the same level of protection for personal information as those within the EEA.
 
 If you are from outside the EEA, we will transfer your information to your home country or territory for the purposes set out in "How we use it" above. If you provide us with your information, we will assume you have agreed to this transfer. If you are from the EEA, we will not transfer any personal information we collect to outside the EEA.
 
-## Finding out more
+#### Finding out more
 
-If you have any questions about our privacy statement or the information we hold about you, please contact our Data Protection Compliance Officer. You have a legal right to see a copy of the information we hold about you on payment of a fee, which is currently ï¿½10.
+If you have any questions about our privacy statement or the information we hold about you, please contact our Data Protection Compliance Officer. You have a legal right to see a copy of the information we hold about you on payment of a fee, which is currently £10.
 
 Further information about data protection issues can be found at the Information Commissioners Office.
 
-## Exclusion and Limitation of London South East's Liability - Important
+#### Exclusion and Limitation of London South East's Liability - Important
 
 London South East does not make any warranty or representation as to the accuracy or fitness for purpose of any material on this website or the reliability of any information contained herein.
 
@@ -77,7 +82,7 @@ Information on this website will be updated from time to time and may at times b
 
 This website contains materials submitted and created by third parties. London South East excludes all liability for any legality arising from an error, omission or inaccuracy in any such material and London South East takes no such responsibility for such material.
 
-## Law and Jurisdiction
+#### Law and Jurisdiction
 
 Use of this website and these terms shall be subject only to the laws of England and Wales and you agree to submit to exclusive jurisdiction of the courts of England and Wales which shall exclusively govern the interpretation, application and effect of all of the above commissions, exclusions, licences and conditions of use.
 
