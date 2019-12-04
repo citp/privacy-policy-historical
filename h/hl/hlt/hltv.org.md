@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hltv.org privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630204423id_/https%3A//www.hltv.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hltv.org privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205000318id_/http%3A//hltv.org/privacy) for the most accurate reproduction.*
 
 # HLTV.org - The home of competitive Counter-Strike
 
