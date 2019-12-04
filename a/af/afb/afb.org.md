@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afb.org privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521160456id_/http%3A//www.afb.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afb.org privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204153257id_/https%3A//www.afb.org/privacy-policy) for the most accurate reproduction.*
 
 # AFB.org Privacy Policy | American Foundation for the Blind
 
@@ -39,7 +39,7 @@ From time-to-time our site requests information via surveys or contests. Partici
 
 Information is maintained as long as it is active (e.g. communications are being received, login credentials are in use) and for no more than a period of seven years after it is deemed inactive, or as required by laws or contractual obligations. When information is deleted or disposed of, it is done in a secure manner.
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via email at [info@afb.org](mailto:info@afb.org) or write to us at Customer Service, 1401 South Clark Street, Suite 730, Arlington, VA 22202:
+You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via [our Contact form](https://www.afb.org/contact) or write to us at Customer Service, 1401 South Clark Street, Suite 730, Arlington, VA 22202:
 
   * See what information we have about you, if any;
   * Change/correct any information we have about you;
@@ -51,6 +51,18 @@ You may opt out of any future contacts from us at any time. You can do the follo
 ## Cookies
 
 We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. If users reject AFB’s cookie, they may still use our site.
+
+## Remarketing
+
+With your permission, we may use marketing services provided by Google, Facebook, and other third parties that allow us to deliver advertising to users after they leave our website that they will see elsewhere on the web. This is a common practice called “remarketing.” Users will not see more ads than they otherwise would see as a result of remarketing; rather, the ads they see are more likely to be ads for American Foundation for the Blind (AFB). These third-party marketing services providers use cookies as part of the remarketing service. This cookie does not in any way identify you or give access to your computer or mobile device.
+
+If you do not wish to see personalized ads, you can opt out in several ways:
+
+  * Opt out of Google’s use of cookies by visiting Google’s Ads Settings, [https://www.google.com/ads/preferences/](https://web.archive.org/web/20191204153257id_/https%3A//www.afb.org/www.google.com/ads/preferences)
+  * Opt out of Facebook’s Conversion Tracking Pixel by visiting [https://www.facebook.com/ads/website_custom_audiences/](https://web.archive.org/web/20191204153257id_/https%3A//www.afb.org/www.facebook.com/ads/website_custom_audiences)
+  * Opt out of a third-party vendor’s use of cookies by visiting the Network Advertising Initiative opt-out page, [https://www.networkadvertising.org/](https://web.archive.org/web/20191204153257id_/https%3A//www.afb.org/www.networkadvertising.org)
+
+
 
 ## Security
 
@@ -66,4 +78,4 @@ This website contains links to other sites. Please be aware that we are not resp
 
 While AFB encourages and promotes the implementation of websites that are fully accessible to individuals who are blind, visually impaired, or who have other disabilities and we provide many links to other sites of possible interest to our website visitors, we are not responsible for the content or accessibility of any other sites and links to other sites are not intended to imply endorsement of them by AFB.
 
-If you have any questions about this privacy policy, or feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (212) 502-7600, via email at [info@afb.org](mailto:info@afb.org), or write to us at Customer Service, 1401 South Clark Street, Suite 730, Arlington, VA 22202.
+If you have any questions about this privacy policy, or feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at (212) 502-7600, via [our Contact form](https://www.afb.org/contact), or write to us at Customer Service, 1401 South Clark Street, Suite 730, Arlington, VA 22202.
