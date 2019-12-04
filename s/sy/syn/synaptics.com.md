@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synaptics.com privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528230617id_/https%3A//www.synaptics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synaptics.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205001208id_/https%3A//www.synaptics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Synaptics
 
