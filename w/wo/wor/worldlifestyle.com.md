@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the worldlifestyle.com privacy policy that was archived on 2018-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180829053732id_/https%3A//www.worldlifestyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlifestyle.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204215021id_/https%3A//www.worldlifestyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | World Lifestyle
+
+### Uncategorized | November 17, 2014
 
 **Last updated: March 23rd, 2013**
 
@@ -19,8 +21,6 @@ In addition to this Privacy Policy, our Services are also governed by our Terms 
 We might receive or collect several types of information about you, such as the information described below.
 
 Information You Provide
-
-* * *
 
 When using our Services, you may be required to provide us with information, including your first and last name, telephone number, mailing address and e-mail address.
 
@@ -44,8 +44,6 @@ We may collect, receive and store information regarding your general use of our 
 
 Device Information
 
-* * *
-
 When you access or use our Services through your computer, mobile phone or other device, we may collect information regarding and related to your device, such as hardware models and IDs, device type, operating system version, the request type, the content of your request and basic usage information about your use of our Services, such as date and time. In addition, we may collect information regarding application-level events, such as crashes, and associate that temporarily with your account to provide customer service. We may also collect and store information locally on your device using mechanisms such as browser web storage and application data caches.
 
 Location Information
@@ -61,8 +59,6 @@ Cookies and Anonymous Identifiers
 We and third parties may use various technologies to collect and store information when you use our Services, including sending cookies, pixel tags or other anonymous identifiers to your device. "Cookies" are pieces of data stored on our computer, mobile phone or other device. A "pixel tag" is a type of technology placed within a website or email for the purpose of tracking activity, which is often used in combination with cookies. Other "anonymous identifiers" are random strings of characters used for the same purposes as cookies, such as with mobile devices where cookie technology is not available. These technologies help us know that you are logged on, provide you with features based on your preferences, understand when you are interacting with our Services, and compile other information regarding use of our Services.
 
 The information collected through these technologies, standing alone, cannot be used to determine your identity. Such information may, however, be combined in a way that makes it become personally identifiable information (i.e., information that can identify you). If this happens, we will treat the combined information as personally identifiable information.
-
-* * *
 
 Please note that, in most cases, you can remove or block cookies (such as by using the settings in your browser), but doing so may affect your ability to use our Services.
 
@@ -80,8 +76,6 @@ In addition, we cannot ensure that Your Information will only be disclosed as de
 
 Business Transfers
 
-* * *
-
 We specifically and expressly reserve the right to disclose, lease, sell, assign or transfer Your Information collected through our Services, and any of our databases, together with any personally identifiable information contained in such databases, to third parties in connection with a Business Transfer. A "Business Transfer" means a sale, acquisition, merger, consolidation, reorganization, bankruptcy or other corporate change involving us and/or our affiliates, even if the Business Transfer is only being contemplated and regardless of whether the Business Transfer relates to a part or a whole of our business. Nothing in this Privacy Policy is intended to interfere with our ability to transfer all or part of our business, equity, and/or assets (including our Services) to an affiliate or independent third party at any time, for any lawful purpose, without notice or compensation to you.
 
 **Children's Information**
@@ -98,11 +92,9 @@ You are responsible for any content, including personal information, that you co
 
 **Social Media Widgets**
 
-* * *
-
 Our Services may include social media features, such as the Facebook Like button or interactive mini-programs that run on our Services. These features may collect your IP address, which page you are visiting, and may set a cookie to enable the feature to function properly. Your interactions with these features are governed by the privacy policy of the third party providing it.
 
-Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.worldlifestyle.com, to prepare reports on its activities and share them with other Google services.  
+Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of worldlifestyle.com, to prepare reports on its activities and share them with other Google services.  
 Google may use the data collected to contextualize and personalize the ads of its own advertising network.
 
 **Choices About How We Use and Disclose Your Information**
@@ -121,8 +113,6 @@ You may be presented with an opportunity to receive information and/or marketing
 
 Our Services, as well as the email messages sent with respect to our Services, may contain links or access to websites operated by third parties that are beyond our control. Links or access to third parties from our Services are not an endorsement by us of such third parties, or their websites, applications, products, services, or practices. We are not responsible for the privacy policy, terms and conditions, practices or the content of such third parties. These third-parties may send their own cookies to you and independently collect data. If you visit or access a third-party website, application or other property that is linked or accessed from our Services, we encourage you to read any privacy statements and terms and conditions of that third party before providing any personally identifiable information. If you have a question about the terms and conditions, privacy policy, practices or contents of a third party, please contact the third party directly.
 
-* * *
-
 **Operation of our Services in the United States**
 
 Our Services are operated in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Services or providing us with Your Information, you consent to this transfer.
@@ -133,12 +123,10 @@ We reserve the right to update, amend and/or change this Privacy Policy at any t
 
 **Contacting Us**
 
-If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at any of the following: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ff939a989e93bf88908d939b9396999a8c8b86939ad19c9092).
+If you have questions or concerns about our privacy practices or wish to make a request regarding Your Information, please contact us at any of the following: [legal@worldlifestyle.com](mailto:legal@worldlifestyle.com).
 
 **SPECIAL NOTIFICATION FOR CALIFORNIA RESIDENTS – YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cca0a9abada08cbba3bea0a8a0a5aaa9bfb8b5a0a9e2afa3a1)
-
-* * *
+Individuals who are residents of California and have provided their personally identifiable information to us may request information regarding our disclosures, if any, of their personally identifiable information to third parties for direct marketing purposes. Such requests must be submitted to us at: [legal@worldlifestyle.com](mailto:legal@worldlifestyle.com)
 
 California privacy rights requests must include the reference "Request for California Privacy Information" on the subject line and in the body of the message and must include the email address or mailing address, as applicable, for us to send our response. This request may be made no more than once per calendar year. We reserve the right not to respond to requests submitted other than to the address specified above.
