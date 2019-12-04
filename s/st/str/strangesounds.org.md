@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the strangesounds.org privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529104003id_/http%3A//strangesounds.org/strange-sounds-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strangesounds.org privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204133925id_/https%3A//strangesounds.org/strange-sounds-privacy-policy) for the most accurate reproduction.*
 
 # Strange Sounds' Privacy Policy - Strange Sounds
 
 ## Privacy Policy
 
-Your privacy is important to us. It is Strange Sounds’ policy to respect your privacy regarding any information we may collect from you across our website, <http://strangesounds.org/>, and other sites we own and operate.
+Your privacy is important to us. It is Strange Sounds’ policy to respect your privacy regarding any information we may collect from you across our website, [http://strangesounds.org/](https://strangesounds.org/), and other sites we own and operate.
 
 ### 1\. Information we collect
 
