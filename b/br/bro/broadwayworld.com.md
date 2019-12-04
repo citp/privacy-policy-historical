@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331071929id_/https%3A//www.broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadwayworld.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204070707id_/https%3A//www.broadwayworld.com/privacy.cfm) for the most accurate reproduction.*
 
 # BroadwayWorld Privacy Policy
 
@@ -36,6 +36,8 @@ To Provide and Manage the Services You Request. This includes, for example, proc
 To Contact You. We may periodically contact you with offers and information about the Services and our affiliates, including in connection with your accounts, online surveys, legal notices, news stories, new features that you are entitled to access, and other important information. You may opt out of receiving commercial email messages from us by following the instructions contained in those email messages. 
 
 To Deliver Targeted Advertising. We may use your information to facilitate the delivery of targeted ads, promotions, and offers to you, on behalf of ourselves and advertisers, on and off the Services. Please see Online Tracking and Advertising for further information about our and third parties' use of cookies, web beacons, mobile ad identifiers, and other tracking technologies to provide you relevant ads, as well as information about how to disable cookies and make other choices related to targeted advertising. 
+
+Notwithstanding any other provision, we partner with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you or your business. Our partners use this information to recognize you across different channels and platforms, including but not limited to, computers, mobile devices, and Smart TVs, over time for advertising, analytics, attribution, and reporting purposes. Your data may be transferred outside of the country from which it was originally collected. 
 
 To Better Understand Our Readers and Users. The Services conduct research on our users' demographics, interests and behavior based on the information we collect. We do this to better understand and serve our users, and to improve our products and services.
 
