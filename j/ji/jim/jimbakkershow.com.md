@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimbakkershow.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523214221id_/https%3A//jimbakkershow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimbakkershow.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204200831id_/https%3A//www.jimbakkershow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Jim Bakker Show
 
