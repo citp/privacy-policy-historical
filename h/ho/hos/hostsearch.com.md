@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2019-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190317125026id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204130728id_/https%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.*
 
 # Policy - HostSearch.com
 
@@ -6,12 +6,12 @@
 This website, all images, and content contained within is owned and operated by: 
 
 Clicksee Network Co., Ltd.   
-GPF Witthayu Towers, Unit 903, 9th Floor, Tower A  
-93/1 Witthayu Road, Pathumwan,  
-Bangkok 10330   
-Thailand
+5th Floor Promphan 3 Building  
+3 Soi Ladprao 3 Ladprao Road,  
+Chomphon, Chatuchak,  
+Bangkok Thailand 10900
 
-We can be reached via [a contact form](https://web.archive.org/web/20190317125026id_/http%3A//www.hostsearch.com/contact_inquiry.asp), or you can reach us by telephone at: +66-2-651 5577 , Fax: +66-2-651 5814 
+We can be reached via [a contact form](https://web.archive.org/web/20191204130728id_/https%3A//www.hostsearch.com/contact_inquiry.asp), or you can reach us by telephone at: +66-2-105-4693 , Fax: +66-2-105-4694
 
 **Privacy Policy for Users of HostSearch.com**   
 At HostSearch.com we are committed to protecting our users' right to privacy, and do not collect domain names or email addresses of our users for distribution or sale to advertisers. We adhere to a strict anti-spam policy, and at no time disclose user information to our advertisers.
@@ -23,8 +23,8 @@ HostSearch.com contains hyperlinks to other web sites, and this privacy policy a
 We place a high importance on ensuring that transactions are secure. For this reason we take security precautions to protect against loss, misuse or alteration of your personal information. As you may be aware, no data transmission over the Internet can be entirely secure. As a result, while we will always use reasonable endeavors to protect the personal information you provide to us, we cannot guarantee the security of your information and the use of our facilities (e.g. email) is at your own risk. 
 
 **Termination**   
-If either HostSearch.com or you wish to terminate the agreement between us this can be done by sending an email (by us to your e-mail address and by you to us via [a contact form](https://web.archive.org/web/20190317125026id_/http%3A//www.hostsearch.com/contact_inquiry.asp) or by post (by us to your usual address and by you to our registered office as given above). Notices will be deemed to have been served one hour after transmission by email and 3 working days after dispatch by post. You are responsible for notifying HostSearch.com of any change to your email address and, when provided, your postal address. Any breach of these terms shall entitle HostSearch.com to immediately terminate the service to you without notice. Neither party is obliged to provide to the other any reason for their decision to terminate the agreement. 
+If either HostSearch.com or you wish to terminate the agreement between us this can be done by sending an email (by us to your e-mail address and by you to us via [a contact form](https://web.archive.org/web/20191204130728id_/https%3A//www.hostsearch.com/contact_inquiry.asp) or by post (by us to your usual address and by you to our registered office as given above). Notices will be deemed to have been served one hour after transmission by email and 3 working days after dispatch by post. You are responsible for notifying HostSearch.com of any change to your email address and, when provided, your postal address. Any breach of these terms shall entitle HostSearch.com to immediately terminate the service to you without notice. Neither party is obliged to provide to the other any reason for their decision to terminate the agreement. 
 
 ##### Search HostSearch.com
 
-[](http://www.hostsearch.com/adtop/go/redirect.asp?D=3/17/2019&File=10513&timestamp=21366541&LinkId=)
+[](https://www.hostsearch.com/adtop/go/redirect.asp?D=12/4/2019&File=10513&timestamp=36204123&LinkId=)
