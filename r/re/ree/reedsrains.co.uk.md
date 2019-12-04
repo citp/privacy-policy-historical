@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401032103id_/https%3A//www.reedsrains.co.uk/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedsrains.co.uk privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204014336id_/https%3A//www.reedsrains.co.uk/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Reeds Rains
 
@@ -19,7 +19,7 @@ Your information may also be collected and used by:
 
 We franchise our brand to independent estate agents across the UK who are independently owned and operated by parties that have entered into a franchise agreement with us. Each of Our Estate Agents have their own privacy notices which they will provide to you if you do business with them. We will share your information with Our Estate Agents as explained in this Privacy Notice. They may also share your information with each other as explained in their own privacy notices. Click here for a full list of Our Estate Agents.
 
-Our Network is authorised and regulated by the Financial Conduct Authority (FCA). Our Network is responsible for the quality of the advice that we provide to you in relation to your mortgage, protection and/or insurance products, where those products are regulated by the FCA. In the course of doing so, Our Network will process your information in accordance with Our Network's terms of business and privacy policy which you can access at <http://www.primis.co.uk/privacy-policy-and-tcs>.
+Our Network is authorised and regulated by the Financial Conduct Authority (FCA). Our Network is responsible for the quality of the advice that we provide to you in relation to your mortgage, protection and/or insurance products, where those products are regulated by the FCA. In the course of doing so, Our Network will process your information in accordance with Our Network's terms of business and privacy policy which you can access at [https://www.primis.co.uk/index.php/terms-and-conditions](https://protect-eu.mimecast.com/s/gBKUCK8nxiqqYA6u3W_pw?domain=primis.co.uk).
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it, including:
 
@@ -47,7 +47,7 @@ By accessing, browsing or otherwise using Our Site you confirm that you have rea
 
 We reserve the right to change the contents of Our Site, including this Privacy Notice at any time, by posting such changes on Our Site.  It is your responsibility to familiarise yourself with the Privacy Notice regularly to ensure that you are aware of any changes.  Your continued use of Our Site following the posting of any such changes will constitute your acceptance of the revised Privacy Notice.
 
-This Privacy Notice was last updated on 1 March 2019. Please contact us using the details below should you require any clarification regarding how we may have processed your data prior to this date.
+This Privacy Notice was last updated on 10 July 2019\. Please contact us using the details below should you require any clarification regarding how we may have processed your data prior to this date.
 
 ### What information is being collected if you are a prospective or existing customer?
 
@@ -56,7 +56,7 @@ We may collect personal information from you in connection with your use of Our 
   * your name, email address, telephone number and property address when you register for a My Reeds Rains account or use an online form to arrange a viewing, register for property alerts, request a valuation or lettings consultation, book a mortgage appointment or submit an enquiry;
   * details included on any enquiry form you submit in relation to property insurance, life, critical illness or income protection, conveyancing or mortgages;
   * cookie data which relates to your use of Our Site;
-  * data sent from your browser to our server which may include:
+  * data sent from your browser to our server which may include: 
     * the time, date and duration of your visit to Our Site;
     * the site from which you have come (the referral URL);
     * the pages visited on Our Site; and
@@ -102,7 +102,7 @@ Your information will be used by us and Our Estate Agents in connection with th
 
 #### Providing You with Services:
 
-  * To provide you with the estate agency services which you have asked us to provide, including but not limited to:
+  * To provide you with the estate agency services which you have asked us to provide, including but not limited to: 
     * helping you to sell your property, or to find a property to purchase;
     * valuing your property; and
     * letting services; 
@@ -173,10 +173,10 @@ Your information will be used by us and Our Estate Agents in connection with th
 
 Wherever we collect or use your personal information, we will make sure we do this for a valid legal reason. This will be for at least one of the following purposes:
 
-  *  _because it is necessary to fulfil the terms of our contract with you_ \- if you have entered into a contract with us for example to sell a property or provide advisory services for a financial product;
-  *  _because it is necessary to support the legitimate interests of our business in operating Our Site and providing  estate agency services in relation to Our Estate Agents_ _  efficiently to meet your needs_ __ -  in all such cases, we will look after your information at all times in a way that is proportionate and respects your privacy rights and you have a right to object to processing as explained in the section on _Your Rights_ below;
-  *  _to meet responsibilities we have to our regulators, tax officials, law enforcement, or otherwise meet our legal responsibilities_
-  *  _where we have obtained a clear consent from you_ \- we will always make it clear when we need your consent and how you can change your permissions at any time thereafter.
+  * _because it is necessary to fulfil the terms of our contract with you_ \- if you have entered into a contract with us for example to sell a property or provide advisory services for a financial product;
+  * _because it is necessary to support the legitimate interests of our business in operating Our Site and providing  estate agency services in relation to Our Estate Agents_ _  efficiently to meet your needs_ __ -  in all such cases, we will look after your information at all times in a way that is proportionate and respects your privacy rights and you have a right to object to processing as explained in the section on _Your Rights_ below;
+  * _to meet responsibilities we have to our regulators, tax officials, law enforcement, or otherwise meet our legal responsibilities_
+  * _where we have obtained a clear consent from you_ \- we will always make it clear when we need your consent and how you can change your permissions at any time thereafter.
 
 
 
@@ -208,7 +208,7 @@ The majority of the personal information which we collect will have been volunta
   * Our Estate Agents;
   * third parties including credit reference agencies, law enforcement/regulatory bodies, companies providing commercially available databases, social networks (such as Facebook), introducer companies who have referred you to us for the delivery of services, your employer, your solicitor, trustees or your attorney;
   * online property portals such as Rightmove and Zoopla; and
-  * other publically available sources such as the electoral roll and HM Land Registry.
+  * other publicly available sources such as the electoral roll and HM Land Registry.
 
 
 
@@ -235,13 +235,13 @@ We may also disclose your information to the third parties listed below for the 
   * debt collection companies to assist us in collecting any monies which you owe to us where payment is overdue;
   * our professional advisers, for the purpose of assisting us to better manage, support or develop our business and comply with our legal and regulatory obligations;
   * third parties as necessary in the event of a claim or dispute relating to the use of our services;
-  * if we are providing you with letting services we may share your personal information with:
+  * if we are providing you with letting services we may share your personal information with: 
     * the landlord, tenant or their guarantor to comply with our legal obligations, including our obligation to keep the landlord fully informed where we manage a property on their behalf and to allow you to contact each other directly in circumstances where the landlord is managing the property;
-    * Spark Energy Supply Limited, prior to the commencement date of an agreed tenancy and/or where a tenancy end date has been agreed, where the landlord of a property instructs us to arrange for  a property’s  gas  and/or  electricity  supply  to  be  provided  by  Spark  Energy. In these circumstances the landlord and tenant’s contact details will be shared with Spark Energy for billing purposes and to assist in the management of gas and /or electricity supply to the Property at the beginning of a tenancy and during untenanted periods. This does not prevent the supplier of gas and/or electricity being changed by the landlord or the tenant at any time during a tenancy; The tenants’ details will also be shared with Spark Energy Limited for the purposes of notifying council tax, water and energy suppliers at the property and for the purposes of setting up accounts with them. Spark Energy Limited are instructed to conduct these services on our behalf;
+    * Spark Energy Limited, prior to the commencement date of an agreed tenancy and/or where a tenancy end date has been agreed, where the landlord of a property instructs us to arrange for  a property’s  gas  and/or  electricity  supply  to  be  provided  by  Spark Energy. In these circumstances the landlord and tenant’s contact details will be shared with Spark Energy for billing purposes and to assist in the management of gas and /or electricity supply to the Property at the beginning of a tenancy and during untenanted periods. This does not prevent the supplier of gas and/or electricity being changed by the landlord or the tenant at any time during a tenancy; The tenants’ details will also be shared with Spark Energy Limited for the purposes of notifying council tax, water and energy suppliers at the property and for the purposes of setting up accounts with them. Spark Energy Limited are instructed to conduct these services on our behalf;
     * Tenancy Deposit Solutions Limited trading as my|deposits and/or HFIS plc trading as Hamilton Fraser Insurance for the purpose of providing a tenancy deposit protection scheme;
     * ARLA Propertymark a professional body responsible for raising professional standards amongst letting agents, where information relating to you is requested by them in order to protect your interests; and
     * The Property Ombudsman scheme where they are providing an alternative dispute resolution service in connection with the letting services which we are providing.
-  * if we are providing you with mortgage, protection or insurance advice, to progress your enquiry or application we may share your personal information with:
+  * if we are providing you with mortgage, protection or insurance advice, to progress your enquiry or application we may share your personal information with: 
     * Our Network;
     * product providers; and
     * third parties who we believe will be able to assist us with your enquiry or application, or who are able to support your needs as identified, such third parties will include but may not be limited to, product specialists (including those within Our Network and other appointed representatives of Our Network).
@@ -377,11 +377,11 @@ We ask that you please attempt to resolve any issues with us first, although you
 
 If you have questions or comments about our Privacy Notice or if you wish to exercise your right to access, correction or erasure mentioned above, please contact our Data Protection Officer by:
 
- **Email:** [dataprotection@lslps.co.uk](mailto:dataprotection@lslps.co.uk);
+**Email:** [dataprotection@lslps.co.uk](mailto:dataprotection@lslps.co.uk);
 
- **Post:** Data Protection Officer, Newcastle House, Albany Court, Newcastle Business Park, NE4 7YB; or
+**Post:** Data Protection Officer, Newcastle House, Albany Court, Newcastle Business Park, NE4 7YB; or
 
- **Telephone:** [0191 233 4600](tel:0191 233 4600 "0191 233 4600")
+**Telephone:** [0191 233 4600](tel:0191 233 4600 "0191 233 4600")
 
 ### Complaints
 
