@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601010233id_/https%3A//www.format.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4ormat.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204095324id_/https%3A//www.format.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Format
 
