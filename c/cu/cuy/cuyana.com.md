@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuyana.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203143858id_/https%3A//www.cuyana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuyana.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204200209id_/https%3A//www.cuyana.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Cuyana
 
