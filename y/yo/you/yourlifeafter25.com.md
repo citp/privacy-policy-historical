@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627184331id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlifeafter25.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204225633id_/http%3A//yourlifeafter25.com/privacy-policy) for the most accurate reproduction.*
 
 # Your Life After 25: Privacy Policy
 
