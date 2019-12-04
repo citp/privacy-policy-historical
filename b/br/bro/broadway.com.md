@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630220217id_/https%3A//www.broadway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204011123id_/https%3A//www.broadway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Broadway.com
 
