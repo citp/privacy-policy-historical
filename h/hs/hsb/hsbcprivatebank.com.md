@@ -1,121 +1,94 @@
-> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2018-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180418103117id_/http%3A//www.hsbcprivatebank.com/en/utilities/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204234935id_/https%3A//www.hsbcprivatebank.com/en/utilities/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Notice | HSBC Private Banking
 
-This privacy statement sets out the privacy policy of www.hsbcprivatebank.com.
+## Your privacy
 
-www.hsbcprivatebank.com provides a portal, or gateway, to the financial services offered by members of the HSBC Group. The Site is owned by HSBC Private Bank (UK) Limited. HSBC Private Bank (UK) Limited (‘we’, ‘us’ and ‘our’) is a public limited company registered in England and Wales under Company Register Number 499482 and with its registered office at 8 Canada Square, London, E14 5HQ, UK.
+Your privacy is important to us.  This notice (Privacy Notice) applies to personal information we collect from you when you use this site.  If you’re an HSBC customer, or otherwise have a relationship with us, we may also have provided you with a separate privacy notice setting out how we use your personal information, which will also apply.  You can also find that privacy notice by visiting the website for the product or services we provide you (for example, [www.hsbc.co.uk](http://www.hsbc.co.uk/)) or by contacting your customer service team.
 
-We are committed to protecting and respecting your privacy. This policy (together with the Terms and Conditions and any other documents referred to in it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+Some of the links on this website may lead to HSBC or non-HSBC websites with their own privacy notices, which may be different to this notice, and you should read those notices carefully.
 
-For the purpose of the Data Protection Act 1998 **(‘Act’)** , the data controller is HSBC Private Bank (UK) Limited of 8 Canada Square, London, E14 5HQ, UK.
+For the purposes of this Privacy Notice, the data controller is HSBC Private Bank (UK) Limited with its address at 8 Canada Square, London E14 5HQ, UK. We’ve also set out contact details towards the end of this notice.
 
-## 1\. Privacy
+## Information we may collect from you
 
-We know that you are concerned with how we deal with your personal information. This privacy statement sets out our current policies and demonstrates our commitment to your privacy. Our privacy policy may change at any time in the future. You agree to revisit this page regularly and your continued access to or use of the Site will mean that you agree to the changes.
+We may collect and process the following information about you:
 
-The HSBC Group provides financial products and services through its affiliated companies and branches located across the world. Privacy and personal data protection principles vary from one country to another. When you access or link to a Local Site, please read the privacy statement issued by the Local Site to determine the policies that apply to information or data maintained by the Local Site.
-
-## 2\. Information we may collect from you
-
-We may collect and process the following data about you:
-
-  * Information that you provide by filling in forms on our Site
-  * Up-to-date data about yourself, if you register your personal details for the Alert Service
-  * Details of your visits to our Site (including, but not limited to, traffic data, location data, weblogs and other communication data, and the resources that you access)
+  * Information that you provide to us, such as when you fill out a contact or web forms,
+  * Information that we obtain or learn, such as information about the browser or device you use to access this site, how you use this site and the pages you visit, traffic and location data.
 
 
 
-We may also ask you for information when you report a problem with the Site. If you contact us, we may keep a record of that correspondence. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+We may also ask you for information if you experience problems when using this site. We may also ask you to complete surveys for research purposes, although you don’t have to respond to these.
 
-## 3\. IP addresses
+If we have an existing relationship with you, and we are able to identify you from information obtained or provided by your use of the site, we may associate those sets of information, for example to enable us to respond to a query you have submitted.
+
+## How we use your information
+
+We’ll only use your information where we have your consent or we have another lawful reason for using it. Unless we say otherwise below, we’ll use your personal information on the basis that it’s within our legitimate interests in operating and maintaining the site, and providing you with site functionality and related services. We use information provided or obtained via this site to:
+
+  * respond to your queries (for example, if you’ve asked a question or submitted a complaint via the site)
+  * provide you with information, products or services you have requested or which we feel may interest you, unless you tell us otherwise
+  * carry out our obligations from any contracts entered into between you and us
+  * allow you to participate in any interactive features of the site
+  * notify you about changes to the site
+  * ensure site content is presented in the most effective manner for the device you’re accessing it from
+  * undertake data analytics to learn more about how you and others interact with this site and with our advertising
+  * detect and prevent misuse or abuse of this site or our services
+
+
+
+We also use information to meet our compliance obligations, to comply with other laws and regulations and to share with regulators and other authorities that HSBC Group companies are subject to. This may include using it to help detect or prevent crime (including terrorism financing, money laundering and other financial crimes). We’ll only do this on the basis that it’s needed to comply with a legal obligation, it’s in our legitimate interests and that of others or to prevent or detect unlawful acts.
+
+## Who we’ll share your information with
+
+We may share your information in order to provide you with products or services you’ve requested (for example, if they’re not provided by the HSBC entity operating this site), if we have a legitimate interest in doing so (eg. to manage risk, verify your identity, to combat fraud, abuse of our site or services), or where you’ve agreed to us doing so.
+
+We may share your information with others including other HSBC group companies and any of our service providers, anyone else whose products and services you’ve requested, anyone who we’re under an obligation to disclose information to or where it’s in the public interest, for example to prevent or detect fraud, abuse of our site or services).
+
+## IP addresses
 
 We may collect information about your computer (or mobile device), including where available your IP address, operating system and browser type, for system administration or for our own commercial purposes. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
 
-## 4\. Cookies
+## Cookies
 
-Our Site uses cookies to distinguish you from other users of our Site. This helps us to provide you with a good experience when you browse our Site and also allows us to improve our Site. For detailed information on the cookies we use and the purposes for which we use them see our Cookie Policy.
+We use cookies and similar technologies to distinguish you from other users of this site, to improve your experience when accessing this site, and to improve the site. Detailed information on the cookies we use and the purposes for which we use them are set out in our [Cookie Policy](https://web.archive.org/en/utilities/cookie-policy).
 
-## 5\. Where we store your personal data
+## How long we’ll keep your information
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area **(‘EEA’)**. The data may also be processed by staff operating outside of the EEA who work for us, HSBC Group or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your data, you agree to this transfer, storing and/or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+We keep your information in line with our data retention policy. For example, we’ll normally keep correspondence for a period of six months. This enables us to comply with legal and regulatory requirements or use it where we need to for our legitimate purposes such as dealing with any enquiries. 
 
-We maintain strict security standards and procedures with a view to preventing unauthorised access to your data by anyone, including our staff. We use leading technologies such as (but not limited to) data encryption, firewalls and server authentication to protect the security of your data. All HSBC Group members, all our staff and third parties whenever we hire them to provide support services, are required to observe our privacy standards and to allow us to audit them for compliance.
+We may need to retain your information for a longer period where we need the information to comply with regulatory or legal requirements or where we may need it for our legitimate purposes, eg. to help us respond to queries or complaints, fighting fraud and financial crime, responding to requests from regulators, etc. If we don’t need to retain information for this period of time, we may destroy, delete or anonymise it more promptly.
 
-## 6\. Use made of the information
+## Transferring your information overseas
 
-We use information held about you in the following ways:
+Your information may be transferred to and stored in locations outside the European Economic Area (EEA), including countries that may not have the same level of protection for personal information. When we do this, we’ll ensure it has an appropriate level of protection and that the transfer is lawful.
 
-  * To ensure that content from our Site is presented in the most effective manner for you and for your computer (or mobile device)
-  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes
-  * To carry out our obligations arising from any contracts entered into between you and us
-  * To allow you to participate in any interactive features of our Site, when you choose to do so
-  * To notify you about changes to our Site
+You can obtain more details of the protection given to your information when it’s transferred outside the EEA by contacting us using the details in the ‘More details about your information’ section below.
 
+## Your rights
 
+You have a number of rights in relation to the information that we hold about you. These rights include:
 
-We may also use your data to provide you with information about goods and services of the HSBC Group which may be of interest to you and either we or any HSBC Group member may contact you about these by post, telephone, email or text message.
-
-## 7\. Disclosure of your information
-
-We will not share your personal information with entities outside of the HSBC Group.
-
-We may disclose your personal information to third parties in the following situations:
-
-  * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets
-  * If HSBC Private Bank (UK) Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Site Terms and Conditions and other agreements or to protect the rights, property, or safety of the HSBC Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction
+  * the right to access information we hold about you and to obtain information about how we process it;
+  * in some circumstances, the right to withdraw your consent to our processing of your information, which you can do at any time. We may continue to process your information if we have another legitimate reason for doing so; 
+  * in some circumstances, the right to receive certain information you have provided to us in an electronic format and / or request that we transmit it to a third party;
+  * the right to request that we rectify your information if it’s inaccurate or incomplete;
+  * in some circumstances, the right to request that we erase your information. We may continue to retain your information if we’re entitled or required to retain it;
+  * the right to object to, and to request that we restrict, our processing of your information in some circumstances. Again, there may be situations where you object to, or ask us to restrict, our processing of your information but we’re entitled to continue processing your information and / or to refuse that request.
 
 
 
-## 8\. Your rights
+You can exercise your rights by contacting us using the details set out in the ‘More details about your information’ section below. You also have a right to complain to the UK Information Commissioner’s Office by visiting [www.ico.org.uk](http://www.ico.org.uk/), or to the data protection regulator in the country where you live or work.
 
-You have the right to ask us not to process your personal data for marketing purposes.
+## How we keep your information secure 
 
-We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us.
+We use a range of measures to keep your information safe and secure which may include encryption and other forms of security. We require our staff and any third parties who carry out any work on our behalf to comply with appropriate compliance standards including obligations to protect any information and applying appropriate measures for the use and transfer of information. 
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates **(‘Third Party Sites’)**. If you follow a link to any of these Third Party Sites, please note that these Third Party Sites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these Third Party Sites.
+## More details about your information
 
-## 9\. Social media
+If you’d like further information on anything we’ve said in this Privacy Notice, or to contact our Data Protection Officer, contact us at P.O. Box 6201, Coventry CV3 9HW addressed ‘for the attention of the DPO’.
 
-We work with trusted third parties, including social network sites like Facebook, and with application developers who specialise in social media so we can connect to your social networks. Other social networks we use include Twitter and Youtube. All of these companies operate Third Party Sites. We provide access to our Site by third parties and business partners so we can generate interest in our products and services among members of your social networks and to allow you to share product and service interests with friends in your network.
+This Privacy Notice may be updated from time to time, and you’ll always be able to find the most recent version on this site.
 
-We cannot control how your data is collected, stored, used or shared by these Third Party Sites or to whom it is disclosed. Please be sure to review the privacy policies and privacy settings on your social networking sites to make sure you understand the information they are sharing. If you do not want a Third Party Site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt-out of sharing such information. HSBC Private Bank (UK) Limited is not responsible for how these Third Party Sites may use information collected from or about you.
-
-## 10\. Access to information
-
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
-
-## 11\. Changes to our Privacy Policy
-
-Any changes we may make to our Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
-
-## 12\. Contact
-
-Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed via the [Contact us](https://www.hsbcprivatebank.com/about-us/contact-us "Contact Us") form. 
-
-We know that you are concerned with how your personal and financial information is dealt with. This privacy statement sets out our current policies and demonstrates our commitment to your financial privacy. We may change the content or services found on our Site at any time without notice, and consequently our privacy policy may change at any time in the future. 
-
-HSBC Private Bank provides financial products and services through its affiliated companies and branches located worldwide. Privacy and personal data protection principles vary from one country to another. When you access or link to any other website, please read the privacy and data protection statements or agreements issued by such other website to determine the policies that apply to information or data maintained by that website.
-
-In these provisions:
-
-‘Content’ means all pages, screens, information and materials included in or accessible through this Site (including any content available on any email or SMS services)
-
-‘you’, ‘your’ and ‘yours’ means you, the person(s) accessing this Site and the party on whose behalf you are doing so
-
-‘we’, ‘us’ and ‘our’ means HSBC Private Bank (UK) Limited
-
-‘HSBC Group’ means HSBC Holdings plc, its subsidiaries and associated companies from time to time
-
-### Data protection
-
-Please note that pursuant to any applicable data protection laws in each jurisdiction (including, without limitation, the European Data Protection Directive 1995 (the ‘Directive’) and any national laws implementing the Directive), we are obliged to inform you that any personal information (for the purposes of the Directive this shall mean ‘Personal Data’ as that term is defined in the Directive) (hereinafter ‘Personal Data’) may be disclosed, processed and transferred by us and other members of the HSBC Group on a worldwide basis for the purposes of providing services to the customers whom you represent and/or for servicing our relationship with them or you.
-
-We will not disclose or transfer Personal Data to third parties for the purposes of marketing. However, Personal Data may be disclosed or transferred to agents or third parties authorised to act on our behalf or other members of the HSBC Group or to third parties for the purposes of providing the designated services.
-
-If you are in the European Economic Area (‘EEA’), please note that we may also in connection with the above purposes transfer your Personal Data to the entities authorised above in countries outside of the EEA, which may not provide the same level of protection for Personal Data as within the EEA. However, all Personal Data wherever it is held in the HSBC Group will be afforded a high level of protection against any unauthorised or accidental disclosure, access or deletion.
-
-### Cookies
-
-Please read our Cookie Policy to find out more about how HSBC and our trusted partners use cookies, which is relevant to your online security: we use cookies to make our website more secure and easier to use.
+Last updated: May 2018
