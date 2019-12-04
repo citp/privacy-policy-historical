@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leadershipconnect.io privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507054340id_/https%3A//www.leadershipconnect.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadershipconnect.io privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204022703id_/https%3A//www.leadershipconnect.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Leadership Connect
 
@@ -32,10 +32,10 @@ Please be aware that:
 
 
 
-If you do not wish to receive our marketing materials (besides subscription renewal notices) and/or any offers from qualified third parties, please unsubscribe from the email or [contact us](https://www.leadershipconnect.io/company/contact-us/).
+If you do not wish to receive our marketing materials (besides subscription renewal notices), please unsubscribe from the email.
 
 ### Third Parties
 
-From time-to-time, Leadership Connect may engage third parties, such as Google Analytics and Google Adwords, to analyze usage and volume statistical information from users who visit Leadership Connect’s website as well as track conversions of the ads we run on Google. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after Leadership Connect receives it.
+From time-to-time, Leadership Connect may engage third parties, such as Google Analytics, to analyze usage and volume statistical information from users who visit Leadership Connect’s website as well as track conversions of the ads we run on Google. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after Leadership Connect receives it.
 
 This privacy policy may be amended from time to time. Any such changes will be posted on our website. Please check back periodically for updates.
