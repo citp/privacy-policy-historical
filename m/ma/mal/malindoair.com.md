@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malindoair.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331034154id_/https%3A//www.malindoair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malindoair.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205003207id_/https%3A//www.malindoair.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,7 +55,7 @@ As described in more detail below, you can change your browser settings to refus
 
  **Notification of Changes** Malindo Air may change, amend and/or vary this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
- **Contact Us** For any queries, concerns or complaints in relation to our handling of your Personal Data or Malindo's Personal Data Protection policies, please contact us at [privacy@com.malindoair.com](mailto:privacy@com.malindoair.com)
+ **Contact Us** For any queries, concerns or complaints in relation to our handling of your Personal Data or Malindo's Personal Data Protection policies, please contact us at [customer_care@malindoair.com](mailto:customer_care@malindoair.com)
 
 **You can only book Maximum 7 Passengers(excluding infant) per Booking** , If you want to Book More than 7 Passengers, Please click the below button
 
