@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the npci.org.in privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629174001id_/https%3A//www.npci.org.in/privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npci.org.in privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204232200id_/https%3A//www.npci.org.in/privacy-and-security-policy) for the most accurate reproduction.*
 
-# PRIVACY AND SECURITY POLICY | NPCI
+# PRIVACY AND SECURITY POLICY | NPCI - National Payments Corporation of India - Official Website
 
 Use of this web site signifies your acknowledgement and consent to this Privacy Policy. Please read this Privacy Policy carefully before using this web site. By using our website you signify your consent/agreement to the terms and conditions of this Policy.
 
