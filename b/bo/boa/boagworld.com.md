@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boagworld.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630113751id_/https%3A//boagworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boagworld.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204135852id_/https%3A//boagworld.com/privacy) for the most accurate reproduction.*
 
 # Your Privacy on Boagworld, Explained in Plain English
 
@@ -21,7 +21,7 @@ But all of that information is anonymous and I cannot (to my knowledge) access d
 
 My analytics package does not give me access to any personal information.
 
-I also very occasionally use a session recorder such as [FullStory](https://fullstory.com/boag/) on specific pages when I am stuck on a particular usability problem. That lets me watch anonymous videos of users interacting with my site allowing me to see where things are going wrong. That said, I know these feel kind of creepy, so I remove them as soon as I have fixed any problem.
+I also occasionally use a session recorder such as [FullStory](https://fullstory.com/boag/) on specific pages when I am stuck on a particular usability problem. That lets me watch anonymous videos of users interacting with my site allowing me to see where things are going wrong. That said, I know these feel kind of creepy, so I remove them as soon as I have fixed any problem.
 
 I collect some information on those who listen to [my podcast](https://boagworld.com/show/), which is held by my podcast hosting company [Simplecast](https://boagworld.com/show/). But that is even less than I get from Google Analytics.
 
@@ -31,11 +31,20 @@ I love it when people share my content, and so I do keep an eye on that using to
 
 ### What I Know About Subscribers
 
-If somebody decides to signup to my newsletter, I store their email address and first name with [MailChimp](https://mailchimp.com/). They are the same company who send out my newsletter and have an excellent reputation.
+If somebody decides to signup to my newsletter, I store their:
 
-MailChimp is one of the most trusted names in email marketing. They hold all data securely and take your privacy very seriously.
+  * email address,
+  * first name,
+  * last name,
+  * the type of work they do (if they choose to share that),
 
-MailChimp will tell me if a subscriber has opened an email or clicked a link. I rarely look at individuals. My primary concern is whether the content I am producing is of interest. That said, that data is available to me.
+
+
+with a tool called [Convertkit](https://mailchimp.com/). They are the same company I use for all my sign up forms and have an excellent reputation.
+
+Convertkit is a well-established company that has a good track record in keeping data safe.
+
+Convertkit will tell me if a subscriber has opened an email or clicked a link. I rarely look at individuals. My primary concern is whether the content I am producing is of interest. That said, that data is available to me.
 
 ### What I Know About Buyers
 
@@ -72,7 +81,7 @@ If any of the above concerns you, [let me know](mailto:paul@boagworld.com). I wi
   * If you are a newsletter subscriber, you can unsubscribe at the bottom of each email I send.
   * If you have purchased a product, I can delete your information after purchase if you so wish.
   * If you have emailed me, just let me know, and I can remove any information I am holding on you.
-  * If you don’t like Google Analytics tracking you on this site, then I can recommend many other websites you could use instead (although I cannot guarantee they don’t run Google Analytics).
+  * If you don’t like Momently tracking you on this site, then I can recommend many other websites you could use instead (although they probably run Google Analytics, which is in my opinion even more intrusive).
 
 
 
