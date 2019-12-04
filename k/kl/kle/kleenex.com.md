@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kleenex.com privacy policy that was archived on 2019-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190104153242id_/https%3A//www.kleenex.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kleenex.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204203543id_/https%3A//www.kleenex.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Kleenex® Brand Tissues
+# Privacy Policy | Kleenex®
 
 ## Privacy Policy
 
-Effective Date: January 2015
+Effective Date: September 2019
 
 **Kimberly-Clark Privacy Policy**
 
@@ -30,13 +30,13 @@ _Mobile Applications._ You may also choose to download mobile applications offer
 
 **What We Do with Your Information**
 
-When you voluntarily sign up on this Site, we add your name, email address and street address to our mailing list. If you do not wish to receive these mailings, you may request to be removed from our mailing list by visiting this page, or by calling 1-888-525-8373. Additionally, if you decide that you do not want to receive commercial emails from us, you can “opt-out” from receiving such emails by clicking on the “unsubscribe” link provided at the bottom of every commercial email. Please note that if you choose to opt-out, we will still send you email relating to specific products or services that you purchase or sign up for, or email that we believe is pertinent to any communication that you have sent to us. If you decide at a later time that you would like to receive commercial emails from us, you can re-add yourself to our communication list. Our Site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).
+When you voluntarily sign up on this Site, we add your name, email address and street address to our mailing list. If you do not wish to receive these mailings, you may request to be removed from our mailing list by visiting this [page](https://web.archive.org/en-us/SSOLS/Unsubscribe), or by calling 1-888-525-8373. Additionally, if you decide that you do not want to receive commercial emails from us, you can “opt-out” from receiving such emails by clicking on the “unsubscribe” link provided at the bottom of every commercial email. Please note that if you choose to opt-out, we will still send you email relating to specific products or services that you purchase or sign up for, or email that we believe is pertinent to any communication that you have sent to us. If you decide at a later time that you would like to receive commercial emails from us, you can re-add yourself to our communication list. Our Site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to send your entry electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (i.e., to contact you if you're a winner).
 
 **How We Share Information**
 
 We may share information about you with third parties in certain circumstances including in the following situations:
 
-Sharing Your Information With Partner Companies. We may ask your permission to share your information with carefully selected outside companies when we believe their products or services may interest you. You may "opt out" of partner offers and programs at any time by updating your User Profile, Contacting Us or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence.
+Sharing Your Information With Partner Companies. We may ask your permission to share your information with carefully selected outside companies when we believe their products or services may interest you. You may "opt out" of partner offers and programs at any time by updating your [User Profile](https://web.archive.org/en-us/SSOLS/MyProfile), [Contacting Us](https://web.archive.org/en-us/contact-us) or calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). Our partners are prohibited from using your contact information for purposes other than presenting relevant offers and programs, and they are required to maintain your contact information in confidence.
 
 Sharing Your Information with Service Providers. We may share information with companies or individuals that provide us with services. These services may include, among other things, helping us to provide services that you request, to create or maintain our databases, to research and analyze the people who request products, services, or information from us, to prepare and distribute communications, or to respond to inquiries.
 
@@ -58,13 +58,17 @@ We provide you with the ability to exercise certain controls and choices regardi
 
 Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based upon whether such a signal is broadcast.
 
+**Unsubscribe, Correct, Update, or Delete your account**
+
+[_Click here_](https://web.archive.org/en-us/SSOLS/MyProfile) to unsubscribe, correct, or update your account. You can also contact our Consumer Services group at 800-553-3639 to unsubscribe, correct, update, or delete your account.
+
 **Security Measures**
 
 Kimberly-Clark takes reasonable and appropriate measures to secure your personal information once we receive it, and to help prevent it from being disclosed to individuals who are not described in this policy. While we follow reasonable procedures to try to protect the information in our possession, no security system is perfect, and we cannot guarantee, and you should not expect, that your information will remain secure in all circumstances.
 
 **How We Communicate With You**
 
-If you have any questions about our Privacy Policy, you can contact us via Contact Us or phone us by calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). For postal mail, please write to us at:
+If you have any questions about our Privacy Policy, you can contact us via [Contacting Us](https://web.archive.org/en-us/contact-us) or phone us by calling 1-800-665-9773 (on weekdays during 8 AM to 4 PM Central Standard Time). For postal mail, please write to us at:
 
 Kimberly-Clark Corporation
 
