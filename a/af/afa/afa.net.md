@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517023233id_/https%3A//www.afa.net/resources/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afa.net privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204231745id_/https%3A//www.afa.net/resources/privacy-policy) for the most accurate reproduction.*
 
 # AFA.net - Privacy Policy
 
