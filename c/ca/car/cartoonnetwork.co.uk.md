@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartoonnetwork.co.uk privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531222455id_/https%3A//www.cartoonnetwork.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartoonnetwork.co.uk privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204090150id_/https%3A//www.cartoonnetwork.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cartoon Network
 
@@ -125,15 +125,13 @@ These rights may be limited, for example if fulfilling your request would reveal
 
 You can withdraw your consent in respect of any processing of personal data which is based upon a consent which you have previously provided. You can also opt out of receiving email newsletters and other marketing communications by following the opt-out instructions provided to you in those emails.
 
-To exercise any of these rights, you can get in touch with our Privacy Office using the details set out below in Section 9. Please include your registration information, where we offer registration, such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes.
+To exercise any of these rights, you can get in touch with our Privacy Office as set out below in Section 9. Please include your registration information, where we offer registration, such as first name, last name and e-mail address in the request. We may ask you to provide additional information for identity verification purposes.
 
 You also have a right to complain to a supervisory authority for data protection in the country where you live, where you work, or where you consider that a breach of data protection has occurred, although we hope that we can assist with any queries or concerns you may have about our use of your Information.
 
 **9\. HOW TO CONTACT US**
 
-The primary point of contact for all issues arising from this Privacy Policy, including requests to exercise data subject rights, is our privacy office.  The privacy office can be contacted in the following ways:
-
-[EMEA.privacy@turner.com](mailto:EMEA.privacy@turner.com)
+The primary point of contact for all issues arising from this Privacy Policy, including requests to exercise data subject rights, is our privacy office. The privacy office can be contacted by using our [request form](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/9651e1f6-c35b-4377-be7f-5a0c93f0ecb8/08080b76-dea5-446f-a057-669520a233ce.html) or by writing to:
 
 Privacy Office  
 Turner Broadcasting System Europe Limited  
