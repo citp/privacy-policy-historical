@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405032117id_/https%3A//www.dnamagazine.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnamagazine.com.au privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204033116id_/https%3A//www.dnamagazine.com.au/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – DNA Magazine Australia
+# DNA Privacy + Cookie Policy – DNA Magazine Australia
 
 This Privacy Policy sets out our commitment to protecting the privacy of personal information provided to us, or otherwise collected by us, offline or online, including through this website and the DNA app ( **Site** ).
 
