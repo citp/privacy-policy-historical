@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internshala.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525103721id_/https%3A//internshala.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internshala.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204184655id_/https%3A//internshala.com/privacy) for the most accurate reproduction.*
 
 # Internshala | Privacy Policy
 
@@ -16,7 +16,17 @@ We respect your privacy and strive to provide a safe, secure user experience. Th
 
 **Personal information provided by you:** In some areas of our Services, we request you to provide or submit personal information including your name, address, e-mail address, telephone number, contact information, billing information, education details, work place details, and any other information from which your identity is discernible. Internshala also collects or may collect demographic information that is not unique to you such as your ZIP code, age, preferences and gender. Example of such a situation could include, but is not limited to when you sign up to use our service, post a resume or enter a contest or survey. 
 
-**Information collected when you use third party services:** We may indirectly collect information about you when you use certain third party services on our Services; such information will be subject to, and treated in accordance with, the policies and practices described in this Statement and can be used by Internshala as it deems fit. We may collect, process and store your information associated with your Google account if you choose to sign in using Google. When you sign in to your account with your Google account information, you consent to our collection, storage, and use of the information that you make available to us through your Google account in accordance with this Privacy Policy. This could include your name, email address and phone number associated with your Google account. 
+**Information collected when you use third party services:**
+
+For a better experience, and in order to provide our service, we may require you to provide us, either directly or indirectly, with certain personally identifiable information, including but not limited to user name. The information that we request will be retained by us and used as described in this privacy policy.   
+Internshala uses third party services that may collect information used to identify you. Links to privacy policies of third party service providers used by us are 
+
+  * [Google Sign In and YouTube](https://www.google.com/policies/privacy/)
+  * [Facebook](https://www.facebook.com/policy.php)
+
+
+
+We may collect, process and store your information associated with your Google account if you choose to sign in using Google. When you sign in to your account with your Google account information, you consent to our collection, storage, and use of the information that you make available to us through your Google account in accordance with this Privacy Policy. This could include your name, email address and phone number associated with your Google account. If you are registering as an employer and choose to authenticate your company using social media, then with your explicit consent to our data collection, we will collect your channel/page name and count of followers/subscribers as available to us through your Google (including YouTube) or Facebook or Instagram account. This data will be collected, processed and stored in accordance with this Privacy Policy. 
 
 **Information about your contacts:** When you choose to share content on Internshala with friends using the Google+ share feature and sign in using your Google account, we may collect, process and store information of the contacts (email addresses of contacts) associated with your Google account. Also, when you share content with your friends through SMS share option on Internshala, we may collect, process and store information of the contacts (phone numbers) to whom you choose to send the SMS. 
 
