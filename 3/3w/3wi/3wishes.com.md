@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3wishes.com privacy policy that was archived on 2018-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181214065515id_/https%3A//www.3wishes.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3wishes.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204214906id_/https%3A//www.3wishes.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security Website Policy | 3WISHES.COM
 
