@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mbtionline.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410111454id_/https%3A//www.themyersbriggs.com/en-US/Support/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtionline.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204220932id_/https%3A//www.themyersbriggs.com/en-US/Support/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Myers-Briggs Company
 
-_Effective Date: October, 2018  
+_Effective Date: August 1, 2019  
 _  
 This website is owned and operated by The Myers-Briggs Company(the "Company", " **we** ", or " **us** "), a California benefit corporation.  We work diligently to protect the privacy, confidentiality, and security of the Personal Information (defined below) that we receive.  This Privacy Policy describes the principles and practices that apply to the Personal Information that we collect from individuals online or offline (“ **you** ”), such as individuals who browse through our Sites (defined below), register on the Site, use the services provided on the Sites, interact with the Sites, communicate with us through telephone, email, text, or other communications means, participate in our interviews, surveys, or promotions, read or receive our newsletters, or apply for employment with us. 
 
@@ -123,6 +123,8 @@ From time to time, we may disclose Personal Information to someone other than th
 **Service providers** —We may engage certain third parties to perform functions and provide services to us, including, without limitation, customer relationship management, contract management, order fulfillment, mass mailing, hosting and maintenance, database storage and management, business analytics, and direct marketing campaigns. As of the effective date of this Privacy Policy, the current list of service providers to whom we disclose Personal Information is as follows: 
 
   * Arkadin, Inc. (for telecommunications services); 
+  * BlackTab Solutions (for customer relationship management services);
+  * ClearSky Data, Inc. (for data storage);
   * FedEx Corporation (for shipping services); 
   * Marketo, Inc. (for marketing communications); 
   * Microsoft Corporation (for platform infrastructure services); 
@@ -131,8 +133,10 @@ From time to time, we may disclose Personal Information to someone other than th
   * PayPal, Inc. (for payment processing services); 
   * Salesforce.com Inc. (for customer relationship management); 
   * SendGrid, Inc. (for email delivery services); 
-  * United Parcel Service (for shipping services); and 
-  * Virtunet, LLC (for backup and recovery services). 
+  * Square, Inc. (for payment processing services);
+  * United Parcel Service (for shipping services); 
+  * Virtunet, LLC (for backup and recovery services); and 
+  * Zendesk, Inc. (for customer support services). 
 
 
 
@@ -239,6 +243,8 @@ The Company has further committed to refer unresolved Privacy Shield complaints 
 
 The Company commits to cooperating with E.U. data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the E.U. and Switzerland in the context of the employment relationship. 
 
+The Company is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
+
 Under certain conditions, EU Citizens may invoke binding arbitration by a Privacy Shield panel, as outlined in Annex I of the Privacy Shield Framework. More information is available at [www.privacyshield.gov](http://www.privacyshield.gov/).
 
 ##  Complaints and Disputes
@@ -275,4 +281,4 @@ By mail: The Myers-Briggs Company
                 Sunnyvale, CA 94086  
                 United States of America
 
-For purposes of the General Data Protection Regulation (“GDPR”), TMBCthe Company’s EU Representative is The Myers-Briggs Company Holdings (Europe) Limited, a subsidiary of The Myers-Briggs Company, and a company registered in England and Wales. Liam O’Connor is the designated point of contact for our EU Representative. Please contact The Myers-Briggs Company Holdings (Europe) Limited at Elsfield Hall, 15-17 Elsfield Way, Oxford OX2 8EP or [dleurep@themyersbriggs.com](mailto:dleurep@themyersbriggs.com). 
+For purposes of the General Data Protection Regulation (“ **GDPR** ”), the Company’s EU Representative is The Myers-Briggs Company Holdings (Europe) Limited, a subsidiary of The Myers-Briggs Company, and a company registered in England and Wales. Liam O’Connor is the designated point of contact for our EU Representative. Please contact The Myers-Briggs Company Holdings (Europe) Limited at Elsfield Hall, 15-17 Elsfield Way, Oxford OX2 8EP or [dleurep@themyersbriggs.com](mailto:dleurep@themyersbriggs.com). 
