@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the validnumber.com privacy policy that was archived on 2019-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190122044327id_/https%3A//validnumber.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the validnumber.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204053023id_/https%3A//validnumber.com/doc/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Valid Number
 
