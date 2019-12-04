@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boloji.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323041132id_/https%3A//www.boloji.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boloji.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204112813id_/https%3A//www.boloji.com/privacy-policy) for the most accurate reproduction.*
 
 # Boloji.com - A Study in Diversity - News, Views, Analysis, Literature, Poetry, Features - Express Yourself
 
