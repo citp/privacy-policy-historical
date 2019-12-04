@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxfoundation.org privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620173212id_/https%3A//taxfoundation.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxfoundation.org privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204223556id_/https%3A//taxfoundation.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Usage Policy | Tax Foundation
 
