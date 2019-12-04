@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2018-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181203031735id_/https%3A//www.paisabazaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204235646id_/https%3A//www.paisabazaar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Paisabazaar.com
 
@@ -82,7 +82,7 @@ Paisabazaar.com reserves the right to change this policy from time to time, at i
 #### Grievance Officer 
 
 In case you have any grievances with respect to in accordance with applicable law on Information Technology and rules made there under, the name and contact details of the Grievance Officer are provided below:   
-Mr. Jagmal Singh 
+Mr. Mukesh Sharma 
 
 #### PaisaBazaar.com 
 
