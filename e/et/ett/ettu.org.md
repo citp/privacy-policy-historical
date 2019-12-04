@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ettu.org privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503204334id_/https%3A//www.ettu.org/en/about-ettu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ettu.org privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204163555id_/https%3A//www.ettu.org/en/about-ettu/privacy-policy) for the most accurate reproduction.*
 
 # ETTU.org - Privacy Policy
 
 **ETTU PRIVACY POLICY**
 
-This page summarises the privacy policy and practices of the European Table Tennis Union hereunder referred as ETTU. The ETTU Privacy Policy has been established to comply with the General Data Protection Regulation (GDPR) (EU) 2016/679. The policy is subject for updates and amendments.
+This page summarises the privacy policy and practices of the European Table Tennis Union hereunder referred as ETTU.The ETTU Privacy Policy has been established to comply with the General Data Protection Regulation (GDPR) (EU) 2016/679. The policy is subject for updates and amendments.
 
 **What kind of information is collected?**
 
@@ -37,18 +37,21 @@ The Google Analytics' features that the ETTU has implemented are based on Displa
 
 The ETTU will not facilitate the merging of personally-identifiable information with non-personally identifiable information previously collected from Display Advertising features that is based on the DoubleClick cookie unless we have obtained a visitor's prior consent to that data merger.
 
-Visitors can also make use of the Google Analytics opt-out browser add-on, which can be found here:  **<https://tools.google.com/dlpage/gaoptout/>**
+Visitors can also make use of the Google Analytics opt-out browser add-on, which can be found here: [ **https://tools.google.com/dlpage/gaoptout/**](https://tools.google.com/dlpage/gaoptout/)
 
 **Disclosure of third party services**
 
-The ETTU works withthird party servicesfor the capturing, storage, review and analysing of data. Thesethird party services are bound by their own privacy policies. The ETTU is not responsible for the privacy practices of these service providers. Thesethird party services providers with whom the ETTU works and whom may, but not necessarily, be able to access personal information or web data pertaining to the ETTU website are:
+The ETTU works withthird party services for the capturing, storage, review and analysing of data. Thesethird party services are bound by their own privacy policies. The ETTU is not responsible for the privacy practices of these service providers. Thesethird party services providers with whom the ETTU works and whom may, but not necessarily, be able to access personal information or web data pertaining to the ETTU website are:
 
   * TTM Online entries([https://www.ttm.co.at/onlineentries/users/login](https://www.ttm.co.at/onlineentries/users/login))
-  * Google Analytics ([http://www.google.com/policies/privacy/](http://www.google.com/policies/privacy/)&[http://www.google.com/analytics/terms/us.html](http://www.google.com/analytics/terms/us.html)).
+  * Google Analytics ([http://www.google.com/policies/privacy/](http://www.google.com/policies/privacy/)&[http://www.google.com/analytics/terms/us.html](http://www.google.com/analytics/terms/us.html))
+
+
+  * Sportradar AG (Feldlistrasse 2, CH-9000 St. Gallen, Switzerland, VAT identification number CHE-113.910.142 MWST) (<https://www.sportradar.com/about-us/privacy/>)
 
 
 
-  **Links to other sites**
+**Links to other sites**
 
 Visitors should be aware that the ETTU website contain links to websites not operated by the ETTU. If you visit these websites, you will leave our site. When you visit these other sites, the ETTU privacy policy will not apply, although you may be subject to the privacy policy of that new site, if one exists. The ETTU is not responsible for the privacy practices or content of external websites.
 
@@ -62,7 +65,9 @@ This part refers to the ETTU member Associations including their delegations for
 
 The same privacy policy as above applies to the members. Members’ information such as their legal seat, Presidents’ and other names including contact details are displayed on the ETTU website as provided by the members.
 
-The members, while entering their delegations for ETTU events either via the ETTU online entry system or via email registration confirm with their entry to be in possession of the explicit consent of each person of their entered delegation agreeing with the ETTU privacy policy. When an entered person being aged under 16 years, the member shall be in possession of the same explicit consent from that person’s parent(s) or legal tutor(s).
+**Further data as provided by the members to ETTU may also be stored, used and published.**
+
+The members, while entering their delegations for ETTU events either via the ETTU online entry system or via email registration confirm with their entry to be in possession of the explicit consent of each person of their entered delegation agreeing with the ETTU privacy policy. When an entered person being aged under 16 years, the member shall be in possession of the same explicit consent from that person’s parent(s) or legal tutor(s).
 
 The ETTU will use the entered data for result management and display and overall event management. The entered data will be kept by ETTU as long as ETTU needs it to safeguard the continuation of its events.
 
@@ -70,7 +75,7 @@ Results of competitions, news stories, players’, clubs’ and team Rankings, n
 
 At ETTU competitions and events, pictures may be taken by photographers of the players and any person present at the competition. These photographs remain the property of the photographer and the ETTU. The ETTU has the right to use these pictures wherever it may need.
 
-At ETTU competitions and events, matches, interviews etcmay be filmed for television and internet streaming. These recordings remain the property of the ETTU.
+At ETTU competitions and events, matches, interviews etc may be filmed for television and internet streaming. These recordings remain the property of the ETTU.
 
 The ETTU has the right to display these recordings on its website and other (web)sites and TV channels, to sell them directly or via a third party.
 
@@ -88,6 +93,6 @@ L-1520 Luxembourg
 
 Luxembourg
 
-Email: [privacy@ettu.org](mailto:privacy@ettu.org) 
+Email: [privacy@ettu.org](mailto:privacy@ettu.org)
 
 Telephone: +352 223030
