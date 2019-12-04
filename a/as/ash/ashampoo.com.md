@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2018-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181218030700id_/https%3A//www.ashampoo.com/uk/gbp/ppy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204154903id_/https%3A//www.ashampoo.com/en/usd/ppy) for the most accurate reproduction.*
 
 # Ashampoo® - Company - Privacy Policy
 
@@ -62,7 +62,7 @@ Back to top
 
 This website uses cookies in several places. These cookies are used to make our services more user-friendly, more effective and more secure. Cookies are small text files that your browser saves on your computer. Most of the cookies we use are so-called “Session Cookies”. These will be automatically deleted after your visit. Cookies cannot do damage to your computer and do not contain viruses. Cookies can also be saved for a longer period of time, e.g. for a website to recognize your user profile without the need to log in. You can customize how cookies are handled in your browser settings. 
 
-  * On some websites we use Google Ads. Google as a third party provider uses additional cookies to place ads on these websites
+  * On some websites we use Google Ads. Google as a third party provider uses additional cookies to place ads on these websites.
   * The use of so-called DART cookies enables Google’s ad placement according to user visits on our websites and websites in the Ashampoo company group.
   * Go to [ Privacy Policy for Google Ads and the Google content network ](http://www.google.com/privacy_ads.html) to deactivate the use of so-called DART cookies. [ Click here ](http://www.google.com/privacy_ads.html)
 
@@ -73,22 +73,35 @@ Back to top
 
 ## Advertising
 
-On some websites we make use of third party providers to place ads when you visit our website. These companies possibly use information (these don’t include your name, your address, e-mail address or phone number) on your visit of this and other websites in order to place ads on products and services that might interest you. If you would like to learn more about these techniques and would like to know what possibilities you have to prevent these companies from using that information, go. [Click here](http://www.google.com/privacy_ads.html)
+On some websites we make use of third party providers to place ads when you visit our website. These companies possibly use information (these don’t include your name, your address, e-mail address or phone number) on your visit of this and other websites in order to place ads on products and services that might interest you. If you would like to learn more about these techniques and would like to know what possibilities you have to prevent these companies from using that information, go [Click here](http://www.google.com/privacy_ads.html)
+
+**Webgains partner program**  
+This website participates in the partner program offered by Webgains (ad pepper media GmbH, FrankenStraße 150C, FrankenCampus, 90461 Nurnberg, Germany) in the form of text links, image links, ad banners or input masks. Information on website usage metrics, location of purchasers and clicks is stored as cookies and transfered to Webgains with the goal of optimizing our marketing activities. You can disable or limit the storing of cookies for certain websites in your browser. Please note that this can result in certain features of this website becoming less usable or unusable. Further details on data processing through Webgains are availble as part of privacy policy statement of the company at: http://www.webgains.com/public/de/datenschutzerklaerung/
 
 **Criteo**  
 This web site uses technology by Criteo GmbH to anonymously monitor and collect information about the surfing behavior of page visitors for marketing purposes. This data is stored on your computer as cookie files. Criteo employs an algorithm to analyze your surfing behavior and provide suitable product recommendations in the form of personalized ad banners on other web sites (called publishers). This data cannot be used to personally identify page visitors. It is only used to improve our product offerings. We will never share this information with third parties.
 
 You will find more detailed information on the technology provided by Criteo and a way to disable it in their privacy policy at: <http://www.criteo.com/privacy/>. 
 
+**CJ Affiliate (former Commission Junction)**  
+We use affiliate networks operated by CJ (https://www.cj.com). Whenever you are referred to our website by an advertisement on a website that is part of these affiliate networks (affiliate), the fact that you are coming from that website will be recorded. For this purpose, the respective company will set a cookie. If you make a purchase on our website or revisit our website within a certain period of time, the respective companies will be able to recognize you and attribute any purchases you make to the affiliate. A random pseudonym will be used so that this information cannot be linked to you personally. We will not combine this information with your personal data nor forward any personal data on you to third parties. You can prevent being tracked by choosing the appropriate preference in the privacy options of your browser or disable cookies or delete the cookie.
+
 **AWIN**  
 AWIN Inc, DBA in California As Awin Global Affiliate Network of 8 Market Place, Suite 600, Baltimore, MD21202 uses cookies for advertising purposes. As part of its tracking services, AWIN stores cookies to document transactions (e.g., leads and sales) on devices of users who visit or use its customers' websites or other online offerings (e.g., to register for a product test or download or to place an order in an online shop). These cookies serve only the purpose of correctly attributing the success of an advertising medium and the corresponding accounting within its network. AWIN does not collect, process or use personal data. A cookie only contains information about when a device clicked on a particular advertising medium. The AWIN tracking cookies contain an individual sequence of digits which cannot, however, personally identify the individual user and with which the affiliate program of an advertiser, the publisher, the time of the user's action (click or view) are documented. AWIN also collects information about the device from which a transaction is performed, e.g., the operating system and the requesting browser.
 
 If you do not want cookies to be stored in your browser, you can make that choice by setting your browser accordingly. You can deactivate the storage of cookies in your browser under Extras/Internet Options, limit them to specific websites or set your browser to notify you when a cookie is sent. Please note, however, that in this case you will have to expect a limited depiction of online offers and limited user guidance. You can also delete cookies at any time. In this case, the information stored therein will be removed from your device.
 
-If you would like more information about AWIN's data handling, you can find it here: <https://www.awin.com/gb/legal>
+If you would like more information about AWIN's data handling, you can find it here: <https://www.awin.com/us/legal>
+
+**Marvellous Machine**  
+This website uses the retargeting tool "Marvellous Machine" of Maytrics GmbH, Graf-von-Stauffenberg-Weg 1b, 59379 Selm, Germany. Further information about this third party provider can be found at https://www.marvellousmachine.net/, the data protection declaration can be found under the link https://marvellousmachine.net/content/datenschutz 
+
+Marvellous Machine collects pseudonymous information about user visits and interactions with your Web site for promotional purposes. Under no circumstances will the pseudonymised data be used to personally identify the user of the website. Cookies are used in this context, whereby data is collected and stored for retargeting purposes. Retargeting technology is used to collect anonymous information about the surfing behavior of website visitors for advertising purposes and to store it in "cookie" text files on your computer. The legal basis for this processing is in accordance with Art. 6 Para. 1 S. 1 lit. f) DSGVO on the basis of our legitimate interest in the display of personalised advertising and market research.
+
+You can object to the use of the targeting tool on our website at any time. Please click on the following link: https://maytrics.marvellousmachine.net/cnst.php?cid=1826&cnst=0&js=0
 
 **Microsoft Bing Ad's Universal Event Tracking**  
-We use Microsoft Bing Ad's Universal Event Tracking for advertising and marketing. You can find more information about Microsoft's privacy policies at <https://advertise.bingads.microsoft.com/en-gb/privacy-policy>.
+We use Microsoft Bing Ad's Universal Event Tracking for advertising and marketing. You can find more information about Microsoft's privacy policies at <https://advertise.bingads.microsoft.com/en-us/privacy-policy>.
 
 **Mixpanel Inc.**  
 Ashampoo Price Radar uses technology by Mixpanel Inc. ("Mixpanel") to perform statistical evaluations that enable us to optimize product functions and make them more attractive.
@@ -100,6 +113,15 @@ You will find a way to disable the Mixpanel technology in their privacy policy a
 
 You will find more detailed information on the technology provided by Mixpanel at:  
 <https://mixpanel.com/privacy>
+
+**Push notifications**  
+You can opt in to receive our push notifications. To send our push notifications, we use the delivery service "CleverPush", which is provided by CleverPush GmbH, Nagelsweg 22, 20097 Hamburg ("CleverPush"). By that you will receive regular messages about product news, latest features and updates, blog posts and offers and relevant information about Ashampoo.   
+To opt in, you must confirm your browser's request to receive notifications. This process is documented and stored by CleverPush. This includes saving the opt in time and your browser ID or device ID. The collection of this data is required so that we can understand the processes in case of misuse and therefore serves our legal protection.   
+To show you the push notifications, CleverPush collects and processes your browser ID on our behalf and your device ID in the case of mobile access.   
+By subscribing to our push notifications, you agree to their receipt. Legal basis for the processing of your data after registration for our push notifications is in the presence of your consent Art. 6 para. 1 lit. a GDPR. CleverPush also statistically evaluates our push notifications. CleverPush can detect if and when our push notifications were displayed and clicked by you.   
+Your consent to the storage and use of your personal information to receive our push notifications and the statistical survey described above may be revoked at any time with future effect. To revoke consent, you can change the setting to receive push notifications in your browser. If you use our push notifications on a desktop PC with the operating system "Windows", you can also unsubscribe our push notifications by right-clicking on the respective push notification in the settings that appear there.   
+Your data will be deleted as soon as they are no longer necessary to achieve the purpose of their survey. Your data will be stored as long as the subscription to our push notifications is active.   
+Under the following link, the process of unsubscribing will be explained in detail: <https://cleverpush.com/faq>
 
 Back to top    
 
@@ -113,12 +135,12 @@ Some of the software we deliver leads to an entry into several distribution list
 Back to top    
 
 
-## eCommerce 
+## eCommerce
 
 In order to process an order we need your address data, your date of birth, e-mail, telephone number (if applicable), the total purchase price, purchase order date and information about the handling of payments. 
 
   * To secure your information in transmission we use Secure Sockets Layer software (SSL) where needed. This software encrypts the information you submit. 
-  * Of course this is also true for credit card payments. The credit card information is only stored temporarily and deleted after being handed on to the respective payment provider. 
+  * Of course this is also true for credit card payments. The credit card information is only stored temporarily and deleted after being handed on to the respective payment provider 
   * It is important for you to take precautions against unauthorized access to your password and your computer. If you share your computer with others, you should remember to always log off after each session. 
 
 
