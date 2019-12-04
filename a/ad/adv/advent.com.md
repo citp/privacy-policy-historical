@@ -1,34 +1,129 @@
-> *The following text is extracted and transformed from the advent.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509092058id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advent.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204130112id_/https%3A//www.advent.com/privacy) for the most accurate reproduction.*
 
-# Email Publication and Website Privacy Policy
+# SS&C Advent Privacy Policy
 
-**This Email Publication and Website Privacy Policy applies exclusively to:** (i) Advent Software, Inc.'s website located at <http://www.advent.com/>; and (ii) Advent Software, Inc.'s email publications. Advent Software, Inc. adheres to the highest standards of ethical practices in all of its operations and is dedicated to protecting the privacy of all visitors to our website and those participants in our email marketing campaigns in accordance with the following terms and conditions.
+**1\. SS &C and data privacy**
 
-**Gathering and Use of Information:** Advent Software, Inc. collects information voluntarily provided from our clients and potential clients (hereinafter referred to as "you" and "your") through our website, email marketing campaigns, and any other points of personal data gathering. However, we do not require our users to submit personal information to obtain general access to our website. Information that is collected is used to improve our services to you and to better serve your software needs by providing Advent Software, Inc. with valuable information about your interest in our products and services. In addition, the information collected helps us evaluate what types of information might be of interest to you.
+SS&C Technologies Holdings Inc. and its affiliated companies ("SS&C") is committed to protecting personal data and respecting your privacy.
 
-While we do share personally identifiable information with our affiliates and business partners, Advent Software, Inc. does not currently provide personal information to any other third party. Should our policy on the use of personal information change, we will post an updated policy on our website.
+This privacy statement describes how we collect, use, share, protect, and otherwise process any personal information about you. This statement applies to personal information that you provide to us:
 
-**Email Publications:** We may occasionally send you information, news and materials regarding Advent Software, Inc., and its products and services that might be of interest to you. Email publications may include basic technology commonly referred to as a "beacon". The email beacon has two functions. First, it determines whether an email recipient has opened that email, which helps Advent Software, Inc. maximize relevancy of subject lines and content as well as determine readership levels. Second, the beacon determines whether an email recipient is capable of receiving an HTML-based email. This helps us optimize email content and improve the overall communication experience.
+  * as a visitor to our websites or as a user of our client portals;
+  * when you send us personal information directly as a customer of one of our clients;
+  * as a visitor to our premises;
+  * and as a contact at one of our customers or their customers, potential customers, suppliers or other business partners.
 
-If you prefer not to receive email information from us in the future, you can request to be removed from our e-mail lists at any time by 'unsubscribing' in accordance with the instructions on our emails to you.
 
-**Collection of Personal Information in Forms:** Certain pages of Advent Software, Inc.'s corporate website contain forms that allow you to request information about our services and solutions. In completing a form, you may be required to provide contact information, such as your name, phone number and email address. Please note that any information you submit implies consent for use of the information, and Advent Software, Inc. may use the information from these forms to respond to your request and send you the information you need.
 
-**Terms of Use:** Click [here](https://web.archive.org/about/terms_of_use) for Advent Software, Inc.'s Terms of Use regarding the <http://www.advent.com/> website.
+To the extent that any information you provide to us is healthcare information, such information is subject to a separate policy. If you have any questions about our collection, use, disclosure, protection, or processing of any healthcare information that you have provided to us, please do not hesitate to [Contact us](https://www.ssctech.com/about-us/privacy#ContactUS).
 
-**Internet users:** Advent records and stores information provided by users when browsing our website. Advent Software, Inc. uses cookie technology to assist in making decisions about changes to our website on an ongoing basis. Cookies help us determine, without collecting personal information, which information on our websites appeals to our consumers by tracking which of our Web pages are visited and what features are most often used. You may refuse cookies by turning off that feature on your Web browser, but we do not recommend doing so.  Advent also uses technology, such as web beacons, to track the navigation paths used by visitors to our website and transmits that information to third-party service providers who assist Advent in improving the relevance of the information that we display to our visitors when they seek additional detail about a product or service.  This technology does not collect non-public personal information.  You are under no obligation to have your browsing paths tracked and may opt out by using a different method to obtain the information you are looking for: contacting your sales representative, relationship manager, or our direct response group.
+ **2\. What information do we collect from you?  
+** We may collect and process the following information (personal data) about you:
 
-**Links:** Advent Software, Inc.'s Web site may contain "links" to other Web sites. We recommend that you check the specific privacy policy of any site before providing any personal information.
+**Information that you give us:  
+**
 
-**Changes to this Website Privacy Policy:** Any changes to Advent Software, Inc.'s website privacy policy will be posted in this section.
+  * This includes information about you that you give to us by filling in forms on our website (or other forms that we ask you to complete), giving us a business card (or similar), or corresponding with us by telephone, post, email or other means.
+  * It may include, for example, your name, address, email address, work telephone number, mobile telephone number, information about your business relationship with us, information about you necessary to complete anti-money laundering checks; and information about your professional role, background and interests.
 
-**Safe Harbor Compliance (data transfers from the European Union and Switzerland to the United States of America):**  Advent Software complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Advent Software has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Advent Software’s certification, please visit <http://www.export.gov/safeharbor/>
 
-The U.S. Department of Commerce and the European Commission have agreed to a data protection framework called the “U.S.-EU Safe Harbor Framework” that consists of a set of privacy principle documents and related FAQs. The U.S. Department of Commerce and the Federal Data Protection and Information Commissioner of Switzerland have agreed to a similar data protection framework called the “U.S.-Swiss Safe Harbor Framework”. The Safe Harbor Frameworks describe how organizations that receive personal data from the European Union and Switzerland should provide information about purpose of collection (Notice), participation (Choice), Onward Transfer, Security, Data Integrity, Access, and Enforcement. A discussion of these data handling issues can be found at the Commerce Department’s Safe Harbor website at [http://export.gov/safeharbor](http://export.gov/safeharbor/) and the Safe Harbor Privacy Principles and FAQs of the U.S.-EU Safe Harbor Framework and the U.S. Swiss Safe Harbor Framework are currently are available in full at <http://export.gov/safeharbor/eg_main_018237.asp>
+  * **Information that our website and other systems collect about you:  
+**
+    * If you visit our website it will automatically collect certain information about you and your visit, including the Internet protocol (IP) address used to connect your device to the Internet and other information such as your browser type and version. We may also collect information about the pages on our site that you visit. Our website may also download "cookies" to your device – this is described in our separate [cookie statement](https://www.ssctech.com/about-us/privacy/cookie-policy). If you email, telephone, write, or exchange other electronic communications with our employees and other staff members, our information technology systems will record details of those conversations and exchanges, sometimes including their content.
+    * Some of our premises have closed circuit TV systems which may record you if you visit our premises, for security and safety purposes.
+  * **Other information: We may also collect some information from other sources. For example:  
+**
+    * If we have a business relationship with the organisation that you represent, your colleagues or other business contacts may give us information about you, such as your contact details or details of your role in the organisation that you represent.
+    * We sometimes collect information from other third parties, which can include third party data providers, or from publicly available sources for anti-money-laundering, background checking and similar purposes, to protect our business and to comply with our legal and regulatory obligations.¨
 
-Communications relating to Advent Software’s Safe Harbor data privacy program, and inquiries concerning the recourse mechanism for unresolved Safe Harbor complaints, can be sent to the company’s Safe Harbor compliance administrator or to the company’s legal department..
 
-**Corporate Privacy Policy:** Copies of Advent’s corporate Privacy Policy are available upon request:  please contact the Safe Harbor compliance administrator.
 
-**Contacts:**   Safe Harbor compliance administrator:  Richard Pugh  (415) 645-1025 [rpugh@advent.com](mailto:rpugh@advent.com)   
-Advent Software legal department: [legal@advent.com](mailto:legal@advent.com)
+**3\. How will we use your information?  
+**  
+We may use your information for the following purposes:
+
+  * to personalize and customize your experience with us; conduct research and analysis; and fulfil orders and requests for products, services, or information from you or the organization that you represent;
+  * to send you marketing communications regarding our products and services;
+  * for ordinary business purposes, including to operate and administer the products and services that we provide to you and any agreements that we may have with you;
+  * to operate, administer and improve our website and premises and other aspects of the way in which we conduct our operations;
+  * to protect our business from fraud, money-laundering, breach of confidence, theft of proprietary materials and other financial or business crimes; and
+  * to comply with our legal and regulatory obligations, and to bring and defend legal claims where the information is pertinent (including to allow us to pursue available remedies or limit the damages that we may sustain).
+
+
+
+We may from time to time be required to review information about you held in our systems – including the contents of and other information related to your email and other communications with us – for compliance and business-protection purposes as described above.
+
+This may include reviews for the purposes of disclosure of information relevant to litigation and/or reviews of records relevant to internal or external regulatory or criminal investigations.
+
+To the extent permitted by applicable law, these reviews will be conducted in a reasonable and proportionate way, and approved at an appropriate level of management. They may ultimately involve disclosure of your information to governmental agencies and litigation counterparties as set out below.
+
+Your emails and other communications may also be accessed occasionally by persons other than the member of staff with whom they are exchanged for ordinary business management purposes (for example, where necessary when a staff member is out of the office or has left our organisation).
+
+We will only process your personal information as necessary to pursue the purposes described above, and then only where we have concluded that our processing does not prejudice you or your privacy in a way that would override our legitimate interest in pursuing those purposes.
+
+In exceptional circumstances, we may also be required by law to disclose or otherwise process your personal information.
+
+We will tell you, when we ask you to provide information about yourself, if:
+
+  * provision of the requested information is necessary for compliance with a legal obligation, or
+  * it is purely voluntary and there will be no implications if you decline to provide the information.
+
+
+
+If you are uncertain as to SS&C's need for information that we request from you, please contact the SS&C representative asking for the information, or [Contact us](https://www.ssctech.com/about-us/privacy#ContactUS), with your query.
+
+ **4\. Disclosure and international transfer of your information  
+**  
+We may disclose personal information about you, where reasonably necessary and appropriate for the various legitimate purposes set out above:
+
+  * to the other legal entities within SS&C;
+  * if we receive the personal information from you as a representative of one of our business partners or clients, to your colleagues within the organisation that you represent;
+  * to third party service providers who host our website or other information technology systems or otherwise hold or process your information on our behalf, under strict conditions of confidentiality and security;
+  * business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you;
+  * in connection with a proposed or actual sale, merger, transfer, or exchange of all or a portion of a business or operating unit; in accordance with our legal obligations, including to competent regulatory, prosecuting and other governmental agencies, or litigation counterparties, in any country or territory or where we are otherwise required by law to disclose.
+
+
+
+These disclosures may involve transferring your personal information overseas. If you are dealing with us within the European Economic Area (or the UK, after it has left the European Economic Area), you should be aware that this may include transfers to countries outside the European Economic Area / UK, which do not have similarly strict data privacy laws and which may therefore afford a lower standard of personal data protection. In those cases, where we transfer personal data to other legal entities within SS&C  or our service providers, we will ensure that our arrangements with them are governed by data transfer agreements, designed to ensure that your personal information is protected, on terms approved for this purpose by the European Commission.
+
+ **5\. How we keep your personal information safe?  
+**  
+We are committed to protecting your personal information submitted to us. We maintain an information security program including internal policies addressing the acceptable use and access to confidential business information and personal information which may be contained SS&C’s information systems. We maintain physical, electronic and procedural safeguards reasonably designed to guard personal information from loss, misuse or unauthorized access, disclosure, alteration or destruction of the information that has been provided to us through our on-line services. Please [contact us](https://www.ssctech.com/about-us/privacy#ContactUS) for more information on our Information Security Policies.
+
+ **6\. How long do we keep your personal information?  
+**  
+We will retain your data in accordance with our Personal Data Retention Policy, which provide for a period of at least 7 years or longer as required by applicable law or our internal data protection policies. Please [contact us](https://www.ssctech.com/about-us/privacy#ContactUS) for more information on our internal Personal Data Retention Policy.
+
+We will delete the information that we hold about you when we no longer need it.
+
+Note that we may retain some limited information about you even when we know that you have left the organisation that you represent, so that we can maintain a continuous relationship with you if and when we are in contact with you again, representing a different organisation.
+
+ **7\. What are your rights?  
+**  
+ **Rights of access, correction, restriction and deletion  
+**  
+You have a right of access to the personal information that we hold about you under European data protection legislation, and to some related information.  You can also require any inaccurate personal information to be corrected or deleted as well as that any further data processing is restricted.
+
+ **Right to object  
+**  
+You can object to our use of your personal information for direct marketing purposes at any time and you have the right to object to our processing of some or all of your personal information (and require them to be deleted) in some other circumstances.
+
+If you wish to exercise any of these rights, please contact us as set out below.
+
+ **Your California Privacy Rights  
+**  
+We do not share your personal information with third parties for their direct marketing practices.
+
+ **Complaints  
+**  
+You can also lodge a complaint about our processing of your personal information with the body regulating data protection in your country.
+
+ **8\. Contact us  
+**  
+We welcome questions, comments and requests regarding this Privacy statement and our processing of personal information. Please send them to 1 St. Martin’s Le Grand, London, EC1A 4AS or email us at [gdpr_dpo@sscinc.com](mailto:gdpr_dpo@sscinc.com).
+
+ **9\. Changes to this policy  
+**  
+Any changes we make to this privacy statement in the future will be posted to our website and also available if you [contact us](https://www.ssctech.com/about-us/privacy#ContactUS). Please check back frequently to see any changes.
+
+ **Last updated: July 2018**
