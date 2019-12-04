@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genyoutube.net privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512135641id_/https%3A//www.genyoutube.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genyoutube.net privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204165026id_/https%3A//www.genyoutube.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GenYoutube
 
@@ -29,11 +29,3 @@ If we decide to change our privacy policy, we will post those changes on this pa
 #### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us by using [this contact form](https://www.genyoutube.net/contact.html).
-
-GenYoutube is a fast Youtube video downloader service. Now download videos in all formats from Youtube using GenYoutube video downloader. Using GenYoutube you can download any type of videos from the Youtube. 
-
-Using it you can search the videos also and can play them too before downloading. You can even search the episodes and movies and download them. Search results can the sorted on the basis of relevance, view count, title, rating and publish date. 
-
-Now you can download songs, movies, episodes, trailers, clips or any Youtube video without visitng the Youtube site with hassle free controls and beautiful responsive UI. Currently It supports 55 formats of video downloads. 
-
-GenYoutube provides Youtube video downloads in mp4, webm, m4a, 3gp and 3D formats which ranges from mobile friendly to HDTV resolution. It can download Vevo videos, age-restricted videos, region protected videos. It also supports new formats which recently Youtube rolled out. GenYoutube is based on super fast script which can handle a number of downloads simultaneously. So you will never any downloading speed issue. So enjoy downloading videos from Youtube using GenYoutube and showcase, watch and listen to the ocean of never ending digital video download stream. 
