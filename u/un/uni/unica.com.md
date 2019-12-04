@@ -1,105 +1,168 @@
-> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418090641id_/http%3A//www.ibm.com/privacy/us/en/%3Flnk%3Dflg-priv-usen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unica.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204071144id_/https%3A//www.hcltech.com/privacy-statement) for the most accurate reproduction.*
 
-# IBM Privacy Statement - United States
+# Privacy Statement | HCL Technologies
 
-## This Privacy Statement is effective as of May 2018.
+**Effective date:** November 15th 2019
 
-At IBM we recognize the importance of protecting your personal information and are committed to processing it responsibly and in compliance with applicable data protection laws in all countries in which IBM operates.
+#### **Who are we?**
 
-This Privacy Statement describes IBM's general privacy practices that apply to personal information we collect, use and share about consumers and other individuals within our clients, business partners, supplier and other organizations with which IBM has or contemplates a business relationship.
+We are HCL Technologies Pvt Ltd. ("HCL", "we" or "us"). Corporate Towers, HCL Technology Hub, Plot No 3A, Sector 126, Noida - 201303. UP (India).
 
-This Privacy Statement is supplemented by the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/), which provides more information in the online context, including recruitment. We may provide additional or more specific information on the collection or use of personal information on websites or related to a specific product or service.
+We at HCL are committed to safeguarding your privacy. This Privacy Policy describes how we may collect, use, share, and keep personal information about you. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. Please make sure you read this Privacy Policy carefully.
 
-## Why and how we collect and use your personal information
+* * *
 
-We may collect your personal information as an individual for various purposes, such as the following:
+#### **What does this Privacy Policy cover?**
 
-  * **Access and use of websites or other online services**   
-When entering one of our websites, or using an online service, we will record information necessary to provide you with access, for the operation of the website and for us to comply with security and legal requirements in relation to operating our site, such as passwords, IP address and browser settings. We also collect information about your activities during your visit in order to personalize your website experience, such as recording your preferences and settings, and to collect statistics to help us improve and further develop our websites, products and services.
-  * **Responding to your request for information, order, or support**   
-When you contact us (online or offline) in connection with a request for information, to order a product or service, to provide you with support, or to participate in a forum or other social computing tool, we collect information necessary to fulfill your request, to grant you access to the product or service, to provide you with support and to be able to contact you. For instance, we collect your name and contact information, details about your request and your agreement with us and the fulfillment, delivery and invoicing of your order and we may include client satisfaction survey information. We retain such information for administrative purposes, defending our rights, and in connection with our relationship with you. 
+This Privacy Policy applies to our public-facing HCL branded websites and other online services and will be available by a link on all sites and services which it covers.
 
-When you provide your name and contact information to register in connection with such a request, the registration may serve to identify you when you visit our websites. For ordering of most services and products we require you to have registered an IBMid. Registration may also allow you to customize and control your privacy settings.
+Other HCL websites, apps, or online services may collect and use personal information about you in a different way and so publish a different HCL Privacy Policy. We encourage you to take a moment to look at the applicable Privacy Policy, available by a link at the bottom of the homepage or as you download an app.
 
-  * **Your use of IBM Cloud services**   
-We collect information about your use of IBM Cloud services to enable product features to operate, improve your user experience, tailor our interactions with you, inform our clients on the overall use of the services, provide support and improve and develop our products and services. For details regarding the technologies we employ, the personal information we collect, as well as how to control or block tracking or to delete cookies, please refer to the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
-  * **Contacting employees of our clients, prospects, partners and suppliers**   
-In our relationship with clients or prospects, partners and suppliers, they also provide us with business contact information (such as name, business contact details, position or title of their employees, contractors, advisors and authorized users) for purposes such as contract management, fulfillment, delivery of products and services, provision of support, invoicing and management of the services or the relationship.
-  * **Visitor information**   
-We register individuals visiting our sites and locations (name, identification and business contact information) and use camera supervision for reasons of security and safety of persons and belongings, as well as for regulatory purposes.
-  * **Marketing**   
-Most information we collect about you comes from our direct interactions with you. When you register for an event we may collect information (online or offline) in relation to the event organization, and during an event, such as participation in sessions and survey results. We combine the personal information we collect to develop aggregate analysis and business intelligence for conducting our business and for marketing purposes. You can choose to receive information by email, telephone or postal mail about our products and services, or sign-up for subscriptions. When visiting our websites or using our services we may provide you with personalized information. You can always opt-out from receiving personalized communication by sending an e-mail to [NETSUPP@us.ibm.com](mailto:NETSUPP@us.ibm.com). More information can be found in the [IBM Online Privacy Statement](https://web.archive.org/privacy/details/us/en/).
+* * *
 
+#### **What is in this Privacy Policy?**
 
-
-Where we reference that we use your personal information in connection with a request, order, transaction or agreement (or preparing for the same), or to provide you with services that you requested (such as a website), we do this because it is necessary for the performance of an agreement with you.
-
-Where we reference that we use your personal information in relation to marketing, improvement or development of our products or services, for reasons of safety and security, or regulatory requirements other than in connection with your agreement or request, we do this on the basis of our or a third party’s legitimate interests, or with your consent. When we collect and use your personal information subject to the EU Privacy Legislation this may have consequences for Your Rights.
-
-## Sharing of Personal Information
-
-As a global organization offering a wide range of products and services, with business processes, management structures and technical systems that cross borders, IBM has implemented global policies, along with standards and procedures, for consistent protection of personal information. As a global company, we may share information about you with our subsidiaries world-wide and transfer it to countries in the world where we do business in accordance with this Privacy Statement.
-
-Between IBM controlled subsidiaries we only grant access to personal information on a need-to-know basis, necessary for the purposes for which such access is granted. In some cases, IBM uses suppliers located in various countries to collect, use, analyze, and otherwise process personal information on its behalf.
-
-Where appropriate, IBM may also share your personal information with selected partners to help us provide you, or the company you work for, products or services, or to fulfill your requests, or with your consent. When selecting our suppliers and partners, we take into account their data handling processes.
-
-If IBM decides to sell, buy, merge or otherwise reorganize businesses in some countries, such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or the receipt of such information from sellers. It is IBM's practice to require appropriate protection for personal information in these types of transactions.
-
-Please be aware that in certain circumstances, personal information may be subject to disclosure to government agencies pursuant to judicial proceeding, court order, or legal process. We may also share your personal information to protect the rights or property of IBM, our business partners, suppliers or clients, and others when we have reasonable grounds to believe that such rights or property have been or could be affected.
-
-## International Transfers
-
-The international footprint of IBM involves a large number of transfers of personal information between different subsidiaries, as well as to third parties located in the countries where we do business. Some countries have implemented transfer restrictions for personal information, in connection with which IBM takes various measures, including:
-
-  * Where required, IBM implements Standard Contractual Clauses approved by the EU Commission, or similar contractual clauses in other jurisdictions. This includes transfers to suppliers or other third parties. You can request a copy of the EU Standard Contractual Clauses [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
-  * IBM certified to the [APEC Cross Border Privacy Rules](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://www.cbprs.org).
-  * IBM certified to the EU-U.S. and Swiss-U.S. Privacy Shield Frameworks. More information can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=https://www.privacyshield.gov).
+  * What personal information do we collect?
+  * Do we use cookies or similar tracking technologies?
+  * How do we use your personal information?
+  * How do we share your personal information?
+  * How long do we keep your personal information?
+  * What rights do you have in relation to your personal information?
+  * How do we safeguard your personal information?
+  * How will we update this Policy?
+  * Other important information.
+  * How can you contact us about this Policy?
 
 
 
-Back to top
+* * *
 
-## Information Security and Accuracy
+#### **What personal information do we collect?**
 
-We intend to protect your personal information and to maintain its accuracy. IBM implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information such as credit card information when we transmit such information over the Internet. We also require that our suppliers protect such information from unauthorized access, use and disclosure.
+For the purposes of this Privacy Policy, references to ‘personal information’ mean any information relating to an identified or identifiable individual. Examples of personal information may include, your name, your contact details or your location.
 
-## Retention Period
+We collect information that you supply to us when you choose to contact us for more information or when you register for one of our websites or online services. You may supply the information directly to us or indirectly by using your credentials from third parties such as LinkedIn or Facebook. This information typically includes your name, professional credentials, email address and other contact data. We may append information from other sources, such as Google Analytics, to supplement what you give us. We do, on occasion, obtain or license contact information from third parties for limited marketing purposes, such as maintaining an accurate marketing database.
 
-We will not retain personal information longer than necessary to fulfill the purposes for which it is processed, including the security of our processing complying with legal and regulatory obligations (e.g. audit, accounting and statutory retention terms), handling disputes, and for the establishment, exercise or defense of legal claims in the countries where we do business.
+We gather date, time and certain additional information about a user's browser and system or device configuration and capabilities, navigation history, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), and IP address for all visitors to our web sites. We may use this information for our internal security audit log, for trend analysis and system administration and to gather broad information about our audiences. When you submit information through a form on one of our websites, we capture and store your IP address and email address. We use this information for website personalization purposes.
 
-Because the circumstances may vary depending on the context and the services, the information provided in [Online Privacy Statement](https://web.archive.org/privacy/details/us/en/) or provided in a specific notice may provide more detailed information on applicable retention terms.
+* * *
 
-## How to contact us
+#### **Do we use cookies or similar technologies?**
 
-If you have a question related to this Privacy Statement, please contact us by using [this form](http://www.ibm.com/scripts/contact/contact/us/en/privacy/). Your message will be forwarded to the appropriate member of IBM's Data Privacy Team, such as Data Protection Officers or members of their teams.
+We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. Please see our [Cookies Policy](http://www.hcl.com/cookie-policy) for more details on how we use cookies and how to control cookies or their use for targeted advertising or marketing.
 
-For the purposes of the EU General Data Protection Regulation (GDPR), the controller of your personal information is International Business Machines Corporation (IBM Corp.), 1 New Orchard Road, Armonk, New York, United States, unless indicated otherwise. Where IBM Corp. or a subsidiary it controls (not established in the European Economic Area (EEA)) is required to appoint a legal representative in the EEA, the representative for all such cases is IBM United Kingdom Limited, PO Box 41, North Harbour, Portsmouth, Hampshire, United Kingdom PO6 3AU.
+* * *
 
-IBM Corp. is not the controller in situations such as:
+#### **How do we use your personal information?**
 
-  * Personal information processed in connection with a contractual relationship, or with entering into a contractual relationship with a specific IBM subsidiary. In this case the controller of personal information is the IBM contracting company, which is the legal entity with which you or your employer have, or will have, the contract.
-  * Personal information collected on the physical site or location of an IBM subsidiary. In this case that subsidiary is the controller of the personal information.
+We may use personal information we collect to:
 
-
-
-## Your Rights
-
-You can request to access, update or correct your personal information. You also have the right to object to direct marketing. You can access the request process [here](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
-
-You may have additional rights pursuant to your local law applicable to the processing. For example, if the processing of your personal information is subject to the EU General Data Protection Regulation ("GDPR"), and your personal information is processed based on legitimate interests, you have the right to object to the processing on grounds relating to your specific situation. Under GDPR you may also have the right to request to have your personal information deleted or restricted and ask for portability of your personal information.
-
-## Right to Lodge a Complaint
-
-In the event you consider our processing of your personal information not to be compliant with the applicable data protection laws, you can lodge a complaint:
-
-  * Directly with IBM by using [this form](https://www.ibm.com/scripts/contact/contact/us/en/privacy/).
-  * With the competent data protection authority. The name and contact details of the Data Protection Authorities in the European Union can be found [here](https://web.archive.org/www.ibm.com/links/?us=fr&en=fr&prompt=1&url=http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm).
+  * provide and administer our services;
+  * understand our audience and improve how our websites work;
+  * contact you and answer your questions;
+  * market and advertise our products and services to you;
+  * allow you to publish comments and participate in professional web-based forums;
+  * keep our systems, users, employees and services safe; and
+  * provide you with the information or support you requested.
 
 
 
-## Changes to our Privacy Statements
+* * *
 
-From time to time we may update this Privacy Statement, as well as any other specific privacy statement. When making changes to this Privacy Statement, we will add a new date at the top of this Privacy Statement.
+We may disclose personal information about you to third parties such as to other members of the HCL group of companies and to vendors that work on our behalf. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-Back to top
+  * Fulfilling orders and delivering packages
+  * Payment processing
+  * Providing customer service
+  * Sending marketing communications
+  * Fulfilling subscription services
+  * Conducting research and analysis
+  * Providing cloud computing infrastructure
+
+
+
+* * *
+
+#### **Legal Disclaimer**
+
+In certain situations, HCL may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security requirements as well as instances requiring co-operation with law enforcement agencies where mandated by law.
+
+As further required by Law (including mergers, acquisitions, divestitures, or asset sales, but only if the acquiring organization agrees to this Policy’s protections ), we may also disclose your personal information as required by law, such as to comply with a subpoena or other legal process, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
+
+* * *
+
+#### **How long do we keep your personal information?**
+
+We keep your personal information for so long as is necessary in light of the purpose for which it was originally collected or lawfully further processed. The criteria we use to determine the period of time for which your personal information may be kept include:
+
+  * the nature and type of personal information that you provide to us;
+  * the purpose for which you provide your personal information to us; and necessary business and operational requirements to continue to supply you with the services or functionality you have requested.
+
+
+
+We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal obligations, resolve disputes and enforce our agreements.
+
+* * *
+
+#### **Where do we keep your personal information?**
+
+We collect, store, and process information on servers around the world and may access that information globally. If you are located in the European Union, please note that your personal data may be transferred out of, or stored outside, the European Economic Area. The privacy protections in these jurisdictions may not be equivalent to those in Europe. We will take steps to ensure that your personal data continues to be protected through adequate safeguards, copies of which are available from us on request at the email address below.
+
+* * *
+
+#### **What rights do you have in relation to your personal information?**
+
+European law gives individuals a number of rights in relation to their personal information. Upon request we will provide you with information about whether we hold any of your personal information. These include the right to access, and in some circumstances to amend, delete, or restrict the continued processing of, personal information. Please note that deleting your information or restricting the continued processing of your information may limit our ability to continue to provide our websites, applications, and online services to you.
+
+You have a choice about:
+
+  * **Whether to receive email marketing messages from us.** You may opt out of our email marketing lists by following the opt-out directions at the bottom of our promotional emails. Please note that we have a number of brands and products and allow you to opt out selectively. To remove a specific email address from all HCL email marketing, send a request to [unsubscribe@hcl.com](mailto:unsubscribe@hcl.com)
+  * **Whether to share information about yourself and your use of our sites with third parties including social media sites.**
+    * If you join one of our online communities, such as [www.straighttalk.hcl.com](https://straighttalk.hcltech.com/), your comments as well as certain information about you may be visible to other members of the community. Please take a moment to understand how each forum works and what choices you have.
+    * If you use credentials from a third party, like Facebook, to register, then that third party will also record the fact that you have registered for our sites and may use that information consistent with its own privacy statements and practices. If you use Share, Like or similar social media buttons, those actions may be posted elsewhere (such as on the relevant social media sites).
+  * **Whether to allow certain uses of cookies and other data collection technologies.** Please see our [Cookies Policy.](https://www.hcltech.com/cookie-disclosure)
+  * **We partner with a third party to either display advertising on our website or to manage our advertising on other sites.** Our third-party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here <http://preferences-mgr.truste.com/> Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+
+
+
+You may access, correct, or request deletion of your personal information by logging into your account, or by contacting us at [privacy@hcl.com](mailto:privacy@hcl.com) if you have any questions about your rights. We will respond to your request within a reasonable timeframe. You may also contact your local Data Protection Authority.
+
+* * *
+
+#### **How do we safeguard your personal information?**
+
+We use a range of security measures to protect your personal information. Please be aware, however, that HCL cannot guarantee that third parties will safeguard your personal information in a similar manner. Unencrypted information - including information sent via E-mail - may also be able to be read by third parties. As a user of our services, you are responsible for protecting the information you provide, including user name and passwords, from misuse, by encryption or other means. If you have any questions about the security of your personal information, you can contact us at [privacy@hcl.com](mailto:privacy@hcl.com).
+
+* * *
+
+#### **How will we update this Policy?**
+
+We are constantly working to develop new services. We may also change our practices over time as our business and technology evolve, and this may involve changes to the ways in which we collect, process and use your information. As a result, we may amend this Privacy Policy from time to time.
+
+If we materially change our Privacy Policy, we will take steps to inform you of the change. We may do this through email, SMS, notices on our websites or other means (or a combination of these means). If you continue to use our websites, applications, and online services after the date any revised Privacy Policy comes into effect, you will be deemed to have read and agreed to the revised Privacy Policy.
+
+The “Effective Date” at the top of this Privacy Policy shows when it was last updated.
+
+* * *
+
+#### **Other important information.**
+
+Our sites contain links to other websites not owned by HCL. We do not control the content or privacy practices of those sites.
+
+Our websites and offerings are directed to people in their business or professional capacities. They are not intended for children under 13 years of age. We do not knowingly solicit information online from, or market online to, children under 13 years of age.
+
+We process personal information on the basis of your consent. You have the right to withdraw consent at any time, but this will not affect any prior processing of your personal information.
+
+* * *
+
+#### **How can you contact us about this Policy?**
+
+For questions regarding this Privacy Policy, practices of the website, or any other privacy issue, please send an email to our Data Protection Officer at [privacy@hcl.com](mailto:privacy@hcl.com) or contact us at the address below:
+
+If you are located in Americas: Global Privacy Office, HCL America Inc., 623 5th Avenue, 19th Floor, New York, NY 10022; or If you are located within the European Union, Middle East and Africa: HCL (Ireland) Information system Limited, 43-46 Marlborough Street, Dublin D01N279, Ireland
+
+If you are located in APAC: Global Privacy Office, HCL Technologies Limited, Plot No 3A, Sector 126, Noida – 201303, Uttar Pradesh, India
+
+Additionally, the contact information for the Grievance Officer for India is: Bharath Ram V, Global Privacy Office. Contact: [grievance-india@hcl.com](mailto:grievance-india@hcl.com)
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
