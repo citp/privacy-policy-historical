@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zaxbys.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328030053id_/https%3A//www.zaxbys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zaxbys.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204185802id_/https%3A//www.zaxbys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zaxby's
+
+Thank you for visiting us at ([www.zaxbys.com](https://web.archive.org/) OR [zaxbysfranchising.com](http://www.zaxbysfranchising.com/) OR Zaxby’s mobile applications) (the “Online Services”). At Zaxby's Franchising LLC and its third-party service providers (“Zaxby's”, “we”, “us”, “our”), we care about the privacy of users of the Online Services, and the purpose of this Online Privacy Policy (this “Policy”) is to help users of the Online Services understand: (1) what types of personal information we may collect from users of the Online Services, (2) the purposes for which we use such information, (3) our disclosure policies, and (4) your rights regarding any personal information we collect. If you have any questions regarding the Online Services or this Policy, please feel free to contact us at your convenience.
 
 _Last Revised: Feb 02 2018_
 
@@ -44,6 +46,12 @@ F) Information provided by you in conjunction with an online sweepstakes entry, 
 G) Other Personal Information you may provide to us (including photographs).
 
 Also, when you visit our Online Services, we may collect certain information via automated means. For example, our systems may collect information about your activity on the Online Services (i.e., pages you visit, address of a referring website (if any), geographic locations, identifiers for your mobile device, and Internet Protocol (IP) address) for a number of purposes.
+
+This website uses Mouseflow: a website analytics tool that provides session replay, heatmaps, funnels, form analytics, feedback campaigns, and similar features/functionality. Mouseflow may record your clicks, mouse movements, scrolling, form fills (keystrokes) in non-excluded fields, pages visited and content, time on site, browser, operating system, device type (desktop/tablet/phone), screen resolution, visitor type (first time/returning), referrer, anonymized IP address, location (city/country), language, and similar meta data. Mouseflow does not collect any information on pages where it is not installed, nor does it track or collect information outside your web browser. If you'd like to opt-out, you can do so at <https://mouseflow.com/opt-out>. If you'd like to obtain a copy of your data, make a correction, or have it erased, please contact us first or, as a secondary option, contact Mouseflow at privacy@mouseflow.com.
+
+For more information, see Mouseflow’s Privacy Policy at <http://mouseflow.com/privacy/>.
+
+For more information on Mouseflow and GDPR, visit <https://mouseflow.com/gdpr/>.
 
 ## 3. How We Collect Information.
 
