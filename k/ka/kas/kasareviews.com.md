@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kasareviews.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126155718id_/http%3A//www.kasareviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kasareviews.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204084556id_/https%3A//www.kasareviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WordPress Tips, Tricks and Reviews
+# Privacy Policy | Kasa Reviews
 
-This Privacy Policy governs the manner in which KasaReviews collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.kasareviews.com website (“Site”). This privacy policy applies to the Site and all products and services offered by [KasaReviews](http://www.kasareviews.com/).
+This Privacy Policy governs the manner in which KasaReviews collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.kasareviews.com website (“Site”). This privacy policy applies to the Site and all products and services offered by [KasaReviews](https://www.kasareviews.com/).
 
  _ **Personal identification information**_
 
@@ -60,9 +60,9 @@ This information allows ad networks to deliver targeted advertisements that they
 
  _ **Google Adsense**_
 
-Some of the ads may be served by Google. Google\’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google\’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html)
 
-_**Changes to this privacy policy**_
+ _ **Changes to this privacy policy**_
 
 KasaReviews has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
@@ -72,6 +72,4 @@ By using this Site, you signify your acceptance of this policy and terms of ser
 
  _ **Contacting us**_
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://www.kasareviews.com/contact/ "Contact Form").
-
-KASAPO LTD 27 Old Gloucester Street, London, WC1N 3AX
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://www.kasareviews.com/contact/ "Contact Form").
