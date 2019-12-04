@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onradpad.com privacy policy that was archived on 2018-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181109145812id_/https%3A//www.onradpad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onradpad.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204054017id_/https%3A//www.onradpad.com/privacy) for the most accurate reproduction.*
 
 # RadPad Privacy Policy
 
@@ -84,7 +84,7 @@ RadPad may sell, transfer or otherwise share some or all of its assets, includin
 
 ### Changing or Deleting Your Information
 
-All Members may review, update, correct or delete the Personal Information in their registration profile by contacting us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#d5b3b0b0b1b7b4b6be95babba7b4b1a5b4b1fbb6bab8) or editing the relevant part of their profile. If you would like us to cancel your RadPad Account, please contact us and we will attempt to accommodate your request if we do not have any legal obligation or a legitimate business reason to retain the information contained in your RadPad Account. 
+All Members may review, update, correct or delete the Personal Information in their registration profile by contacting us at [feedback@onradpad.com](mailto:feedback@onradpad.com) or editing the relevant part of their profile. If you would like us to cancel your RadPad Account, please contact us and we will attempt to accommodate your request if we do not have any legal obligation or a legitimate business reason to retain the information contained in your RadPad Account. 
 
 ### Security
 
@@ -108,4 +108,4 @@ The Site and Application are not directed to individuals under 18. We do not kno
 
 ## Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#83e5e6e6e7e1e2e0e8c3ecedf1e2e7f3e2e7ade0ecee). 
+If you have any questions about this Privacy Policy, please contact us at [feedback@onradpad.com](mailto:feedback@onradpad.com). 
