@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotshame.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520181517id_/https%3A//hotshame.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotshame.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204184744id_/https%3A//hotshame.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
