@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2018-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180825123328id_/https%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykoreankitchen.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204234522id_/https%3A//mykoreankitchen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - My Korean Kitchen
 
@@ -6,16 +6,16 @@
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what information we may collect and how it may be used. This statement only applies to My Korean Kitchen.
 
-**_WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?_**
+ ** _WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?_**
 
-  * **Information You Voluntarily Submit to My Korean Kitchen:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to My Korean Kitchen by leaving a comment, subscribing to a newsletter, or submitting a contact form.
-  * **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
-  * **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access My Korean Kitchen. For example, when you use My Korean Kitchen, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed My Korean Kitchen. We may also collect information about actions you take when using My Korean Kitchen, such as links clicked.
-  * **Cookies:** We may log information using cookies, which are small data files stored on your browser by My Korean Kitchen. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on My Korean Kitchen.
+  *  **Information You Voluntarily Submit to My Korean Kitchen:** We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to My Korean Kitchen by leaving a comment, subscribing to a newsletter, or submitting a contact form.
+  *  **Information We Collect from Others:** We may receive information about you from other sources. For example, if you use a third-party software through the site, they may transfer information to us for fulfillment.
+  *  **Automatically-Collected Information:** We automatically collect certain information about you and the device with which you access My Korean Kitchen. For example, when you use My Korean Kitchen, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed My Korean Kitchen. We may also collect information about actions you take when using My Korean Kitchen, such as links clicked.
+  *  **Cookies:** We may log information using cookies, which are small data files stored on your browser by My Korean Kitchen. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on My Korean Kitchen.
 
 
 
-**_HOW YOUR INFORMATION MAY BE USED_**
+ ** _HOW YOUR INFORMATION MAY BE USED_**
 
 We may use the information collected in the following ways:
 
@@ -30,7 +30,7 @@ We may use the information collected in the following ways:
 
 
 
-**_THIRD-PARTY USE OF PERSONAL INFORMATION_**
+ ** _THIRD-PARTY USE OF PERSONAL INFORMATION_**
 
 We may share your information with third parties when you explicitly authorize us to share your information.
 
@@ -46,15 +46,15 @@ At this time, your personal information is not shared with any other third-party
 
 Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through My Korean Kitchen to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-**_ANONYMOUS DATA_**
+ ** _ANONYMOUS DATA_**
 
 From time to time, we may use anonymous data, which does not identify you alone, and is combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-**_PUBLICLY VISIBLE INFORMATION_**
+ ** _PUBLICLY VISIBLE INFORMATION_**
 
 If you create a user profile on My Korean Kitchen or leave a comment, certain information may be publicly visible. This includes the name you entered (required but does not have to be your real name) and the website you entered (optional). Your email address will be stored but will not be publicly visible.
 
-**_COMMENTS_**
+ ** _COMMENTS_**
 
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
@@ -62,56 +62,56 @@ An anonymized string created from your email address (also called a hash) may be
 
 If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-**_COOKIES_**
+ ** _COOKIES_**
 
 My Korean Kitchen uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize My Korean Kitchen content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
 Users may, at any time, prevent the setting of cookies, by My Korean Kitchen, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of My Korean Kitchen may be entirely usable.
 
-**_ADVERTISING_**
+ ** _ADVERTISING_**
 
-**Display Ads  
+ **Display Ads  
 **We use third-party advertising companies to serve advertisements when you visit My Korean Kitchen, which may use cookies. No personally identifiable information is shared with My Korean Kitchen’s ad providers.
 
-**Retargeting Ads  
+ **Retargeting Ads  
 **From time to time, My Korean Kitchen may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market My Korean Kitchen. These companies use cookies to serve ads based on someone’s past visits to My Korean Kitchen.
 
-**Sponsored Content Tracking Pixels  
+ **Sponsored Content Tracking Pixels  
 **My Korean Kitchen may engage in sponsored campaigns with various influencer networks, brands, and agencies. All sponsored content is duly disclosed in accordance with the FTC’s requirements. From time to time, these sponsored campaigns utilize tracking pixels (aka web beacons), which may contain cookies to collect data regarding usage and audience. This information is collected by the sponsoring company to track the results of the campaign. No personally identifiable information collected by My Korean Kitchen is used in conjunction with these tracking pixels.
 
-**Affiliate Program Participation  
+ **Affiliate Program Participation  
 **My Korean Kitchen may engage in affiliate marketing, which is done by embedding tracking links into My Korean Kitchen. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
 My Korean Kitchen is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, My Korean Kitchen will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-**Newsletters**  
+ **Newsletters**  
 On My Korean Kitchen, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows My Korean Kitchen to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
-**_RIGHTS RELATED TO YOUR PERSONAL INFORMATION_**
+ ** _RIGHTS RELATED TO YOUR PERSONAL INFORMATION_**
 
-**Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us via our [Contact Page](https://mykoreankitchen.com/contact/) to be removed from our mailing list.
+ **Opt-out** – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us via our [Contact Page](https://mykoreankitchen.com/contact/) to be removed from our mailing list.
 
-**Access** – You may access the personal information we have about you by submitting a request on our [Contact Page](https://mykoreankitchen.com/contact/).
+ **Access** – You may access the personal information we have about you by submitting a request on our [Contact Page](https://mykoreankitchen.com/contact/).
 
-**Amend** – You may contact us via our [Contact Page](https://mykoreankitchen.com/contact/) to amend or update your personal information.
+ **Amend** – You may contact us via our [Contact Page](https://mykoreankitchen.com/contact/) to amend or update your personal information.
 
-**Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request on our [Contact Page](https://mykoreankitchen.com/contact/).
+ **Forget** – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request on our [Contact Page](https://mykoreankitchen.com/contact/).
 
 Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
-**_SENSITIVE PERSONAL INFORMATION_**
+ ** _SENSITIVE PERSONAL INFORMATION_**
 
 At no time should you submit sensitive personal information to My Korean Kitchen. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
 
-**_CHILDREN’S INFORMATION_**
+ ** _CHILDREN’S INFORMATION_**
 
 My Korean Kitchen does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that My Korean Kitchen has personally identifiable information of a child under the age of 16 in its database, please contact us immediately via our [Contact Page](https://mykoreankitchen.com/contact/) and we will use our best efforts to promptly remove such information from our records.
 
-**_Terms and Conditions_**
+ ** _Terms and Conditions_**
 
 Please also visit our [Terms and Conditions](https://mykoreankitchen.com/terms-and-conditions/) section establishing the use, disclaimers, and limitations of liability governing the use of My Korean Kitchen.
 
-**_CONTACT INFORMATION_**
+ ** _CONTACT INFORMATION_**
 
 At any time, please contact us via our [Contact Page](https://mykoreankitchen.com/contact/) for questions related to this Privacy Policy.
 
