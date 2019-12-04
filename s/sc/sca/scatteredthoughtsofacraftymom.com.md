@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scatteredthoughtsofacraftymom.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331145611id_/https%3A//www.scatteredthoughtsofacraftymom.com/2012/06/how-to.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scatteredthoughtsofacraftymom.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204084607id_/https%3A//www.scatteredthoughtsofacraftymom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scattered Thoughts of a Crafty Mom by Jamie Sanders
 
@@ -6,13 +6,11 @@
 
 PRIVACY POLICY
 
-Scattered Thoughts of a Crafty Mom at https://www.scatteredthoughtsofacraftymom.com / (“Website”) is governed by the following privacy policy (“Privacy Policy”).
+Scattered Thoughts of a Crafty Mom at https://scatteredthoughtsofacraftymom.com / (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
 We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
 WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
-
-MY LATEST VIDEOS
 
 Information You Voluntarily Submit to the Website: We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
