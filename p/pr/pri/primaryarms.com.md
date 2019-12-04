@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primaryarms.com privacy policy that was archived on 2019-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190107194846id_/https%3A//www.primaryarms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primaryarms.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204013917id_/https%3A//www.primaryarms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
