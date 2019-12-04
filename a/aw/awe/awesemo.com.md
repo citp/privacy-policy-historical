@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awesemo.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408184959id_/https%3A//www.awesemo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesemo.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204201013id_/https%3A//www.awesemo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Awesemo.com
 
