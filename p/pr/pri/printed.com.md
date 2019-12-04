@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2019-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190227132248id_/https%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204140235id_/https%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of printed.com
 
