@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloody-disgusting.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615094147id_/https%3A//bloody-disgusting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloody-disgusting.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204091300id_/https%3A//bloody-disgusting.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
