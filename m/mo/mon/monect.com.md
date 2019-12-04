@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monect.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518035844id_/http%3A//www.monect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monect.com privacy policy that was archived on 2019-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191204160605id_/https%3A//monect.com/privacy-policy) for the most accurate reproduction.*
 
 # Monect -
 
