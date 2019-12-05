@@ -1,43 +1,12 @@
-> *The following text is extracted and transformed from the barkshop.com privacy policy that was archived on 2018-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181027142528id_/https%3A//barkshop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barkshop.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205200424id_/https%3A//barkshop.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – BarkShop
 
-Due to limited stock, we had to modify your order. 
+###  **Bark &Co **  
+ **Privacy Policy**
 
-######  {{message}} 
-
-Looks like we ran out of something 
-
-######  {{message}} 
-
-{{ item.name }} {{ item.attributes_string }}
-
-{{(lineItem.sale_price == 0) ? 'FREE' : (lineItem.sale_price | currency:"$")}} 
-
-{{(lineItem.sale_price | currency:"$")}} {{(lineItem.list_price | currency:"$")}}
-
-__Delivery every {{lineItem.auto_shipment_frequency}} weeks
-
-__ My order is a gift
-
-Gift message (optional) {{185 - gift.messageLength}} characters
-
- Generate a message for me! 
-
-* * *
-
-Add {{35-cart.quote.subtotal | currency}} more for free shipping You might also like
-
-{{ item.name }} {{item.attributes_string}} {{ item.price | currency:"$" }} {{ item.promotional_price | currency:" $" }} {{ item.price | currency:"$" }}
-
-ADD
-
-Your cart is empty.
-
-### Bark&Co   
-Privacy Policy
-
-We respect the privacy of our users. This Privacy Policy (“Policy”) describes our privacy practices concerning information collected in connection with the BARK family of websites, including without limitation BarkBox (located at [www.barkbox.com](http://www.barkbox.com/)), BarkPost (including the BarkShop) (located at [www.barkpost.com](http://www.barkpost.com/)), BarkBuddy ([www.barkbuddy.com](http://www.barkbuddy.com/)), and BarkGive ([www.barkgive.com](http://www.barkgive.com/)) (the “Sites”). This Policy also describes our privacy practices with respect to any downloadable applications that BARK makes available, including without limitation BarkBuddy, BarkPost and BarkCam (the “Apps” and, together with the Sites, the “Platforms”).
+  
+We respect the privacy of our users. This Privacy Policy (“Policy”) describes our privacy practices concerning information collected in connection with the BARK family of websites, including without limitation BarkBox (located at [www.barkbox.com](http://www.barkbox.com/)), BarkPost (including the BarkShop) (located at [www.barkpost.com](http://www.barkpost.com/)), BarkBuddy ([www.barkbuddy.com](http://www.barkbuddy.com/)), and BarkGive ([www.barkgive.com](http://www.barkgive.com/)) (the “Sites”). This Policy also describes our privacy practices with respect to any downloadable applications that BARK makes available, including without limitation BarkBuddy, BarkPost and BarkCam (the “Apps” and, together with the Sites, the “Platforms”).
 
 This Policy is intended to explain the conditions under which BARK collects, uses, and discloses personal and other information in connection with the Platforms, and your rights in relation to that information. By visiting our Sites, downloading or using our Apps, and/or using the features made available to you through the Platforms, you are agreeing to the terms of this Policy.
 
@@ -47,29 +16,29 @@ The personal and other information that we collect about you is controlled by Ba
 
 BARK collects both “personal information” and “non-personal information” about Platform users. For purposes of this Policy, “non-personal information” is information that BARK cannot directly associate with a specific person without the aid of additional information. By contrast, “personal information,” is information such as a name or email address that BARK can directly associate with a specific person or entity without additional information. When we combine non-personal information with personal information, we treat all of the combined information as personal information.
 
-**_Personal information._** You can visit the Sites and download many of the Apps without submitting any personal information. However, in order to subscribe to our services or use many features of our Platforms, you will be required to provide personal information. For example:
+**_Personal information._**  You can visit the Sites and download many of the Apps without submitting any personal information. However, in order to subscribe to our services or use many features of our Platforms, you will be required to provide personal information. For example:
 
-_Registration._ In order to use some features of the Platforms, you must first subscribe to the applicable BARK service. During registration, you are required to provide certain personal information (such as name, email address, shipping address, and credit card number and expiration date) in accordance with our terms of use.
+_Registration._  In order to use some features of the Platforms, you must first subscribe to the applicable BARK service. During registration, you are required to provide certain personal information (such as name, email address, shipping address, and credit card number and expiration date) in accordance with our terms of use.
 
-_Facebook._ Certain applications, including BarkBuddy, may require you to log in through your Facebook account. If you link your Facebook account to a BARK service, this allows us to obtain information from those accounts (such as your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are.
+_Facebook._  Certain applications, including BarkBuddy, may require you to log in through your Facebook account. If you link your Facebook account to a BARK service, this allows us to obtain information from those accounts (such as your friends or contacts). The information we obtain from those services often depends on your settings or their privacy policies, so be sure to check what those are.
 
-_Orders._ If you purchase a product or service from us, including through the BarkShop, we request certain personal information from you on our order form. You must provide personal contact information (such as name, email address, and shipping address) and financial information (such as a credit card number and expiration date).
+_Orders._  If you purchase a product or service from us, including through the BarkShop, we request certain personal information from you on our order form. You must provide personal contact information (such as name, email address, and shipping address) and financial information (such as a credit card number and expiration date).
 
-_Posted Content._ Certain of our Platforms enable users to submit additional information that may be made accessible to other users or the general public. To post content, you may be required to first register by providing information such as an email address, display name, and password. Registrants also may choose to voluntarily provide additional information, including an avatar image, a biography, and/or information about their location. And, of course, registrants may disclose personal and other information through their posted content.
+_Posted Content._  Certain of our Platforms enable users to submit additional information that may be made accessible to other users or the general public. To post content, you may be required to first register by providing information such as an email address, display name, and password. Registrants also may choose to voluntarily provide additional information, including an avatar image, a biography, and/or information about their location. And, of course, registrants may disclose personal and other information through their posted content.
 
-_Feedback._ Our online contact form also contains a “message” field through which you may submit additional personal information.
+_Feedback._  Our online contact form also contains a “message” field through which you may submit additional personal information.
 
 We may combine personal information collected through the Platforms with other information that we or third parties collect about you in other contexts—such as our communications with you via email or phone, or your customer service records. We will treat such combined information as personal information and protect it in accordance with this Policy.
 
-**_Surveys, Contests, and Promotions._** From time to time, BARK may ask Platform users to participate in surveys, contests, or promotions. Such surveys, contests, and promotions may be used to collect both personal and non-personal information. Participation is completely voluntary, and you therefore have a choice whether or not to disclose your information.
+**_Surveys, Contests, and Promotions._**  From time to time, BARK may ask Platform users to participate in surveys, contests, or promotions. Such surveys, contests, and promotions may be used to collect both personal and non-personal information. Participation is completely voluntary, and you therefore have a choice whether or not to disclose your information.
 
-**_Log data._** When you use the Platforms, we automatically receive and record certain information from your computer (or other device) and your browser. This may include such data as your IP address and domain name, the pages you visit or the features you use on the Platforms, the date and time of your visit, the files that you download, the URLs from the websites you visit before and after navigating to the Platforms, your software and hardware attributes (including device IDs), your general geographic location (e.g., your city, state, or metropolitan region), and certain cookie information (see below). To obtain such information, we may use web logs or applications that recognize your computer or device and gather information about its online activity.
+**_Log data._**  When you use the Platforms, we automatically receive and record certain information from your computer (or other device) and your browser. This may include such data as your IP address and domain name, the pages you visit or the features you use on the Platforms, the date and time of your visit, the files that you download, the URLs from the websites you visit before and after navigating to the Platforms, your software and hardware attributes (including device IDs), your general geographic location (e.g., your city, state, or metropolitan region), and certain cookie information (see below). To obtain such information, we may use web logs or applications that recognize your computer or device and gather information about its online activity.
 
-**_Cookies._** We also use cookies in conjunction with the Platforms. Cookies are small files that are stored on your computer or other device by your web browser. A cookie allows the Platforms to recognize whether you have visited before and may store user preferences and other information. For example, cookies can be used to collect information about your use of the Platforms during your current session and over time (including the pages you view and the files you download), the operating system and browser type of your computer or other device, your Internet service provider, your domain name and IP address, your general geographic location, the website that you visited before navigating to the Platforms, and the link you used to leave the Platforms. If you are concerned about having cookies on your computer or device, you can set your browser to refuse all cookies or to indicate when a cookie is being set, allowing you to decide whether to accept it. You can also delete cookies from your computer or device. However, if you choose to block or delete cookies, certain features of the Platforms may not operate correctly.
+**_Cookies._**  We also use cookies in conjunction with the Platforms. Cookies are small files that are stored on your computer or other device by your web browser. A cookie allows the Platforms to recognize whether you have visited before and may store user preferences and other information. For example, cookies can be used to collect information about your use of the Platforms during your current session and over time (including the pages you view and the files you download), the operating system and browser type of your computer or other device, your Internet service provider, your domain name and IP address, your general geographic location, the website that you visited before navigating to the Platforms, and the link you used to leave the Platforms. If you are concerned about having cookies on your computer or device, you can set your browser to refuse all cookies or to indicate when a cookie is being set, allowing you to decide whether to accept it. You can also delete cookies from your computer or device. However, if you choose to block or delete cookies, certain features of the Platforms may not operate correctly.
 
-**_Web beacons._** We also may use an application known as a “web beacon” (also known as a “clear gif” or “web bug”). A web beacon is an electronic file that usually consists of a single-pixel image. It can be embedded in a web page or in an email to transmit information, which could include personal information. For example, it allows an email sender to determine whether a user has opened a particular email.
+**_Web beacons._**  We also may use an application known as a “web beacon” (also known as a “clear gif” or “web bug”). A web beacon is an electronic file that usually consists of a single-pixel image. It can be embedded in a web page or in an email to transmit information, which could include personal information. For example, it allows an email sender to determine whether a user has opened a particular email.
 
-**_Third-party online tracking and behavioral advertising._** We also may partner with certain third parties to collect, analyze, and use some of the personal and non-personal information described in this section. For example, we may allow third parties to set cookies or use web beacons on the Platforms or in email communications from BARK. This information may be used for a variety of purposes, including online behavioral advertising, as discussed below (see the section entitled “How we share personal and non-personal information with third parties”).
+**_Third-party online tracking and behavioral advertising._**  We also may partner with certain third parties to collect, analyze, and use some of the personal and non-personal information described in this section. For example, we may allow third parties to set cookies or use web beacons on the Platforms or in email communications from BARK. This information may be used for a variety of purposes, including online behavioral advertising, as discussed below (see the section entitled “How we share personal and non-personal information with third parties”).
 
 ###### How we use the personal and non-personal information that we collect
 
@@ -87,23 +56,23 @@ If you choose to use our referral service to tell a friend about our products or
 
 We share your personal information and non-personal information with other parties for a variety of purposes, as described below.
 
-**_Analytics and online behavioral advertising._** We partner with certain third parties to collect the non-personal information discussed above and to engage in analysis, auditing, research, and reporting. These third parties may use web logs or web beacons, and they may set and access cookies on your computer or other device. In particular, as of the effective date of this Policy, certain of the Sites and Apps use such third party services as Google Analytics, Chartbeat, SimpleReach, Facebook retargeting, and Perfect Audience to help collect and analyze certain information for the purposes discussed above.
+**_Analytics and online behavioral advertising._**  We partner with certain third parties to collect the non-personal information discussed above and to engage in analysis, auditing, research, and reporting. These third parties may use web logs or web beacons, and they may set and access cookies on your computer or other device. In particular, as of the effective date of this Policy, certain of the Sites and Apps use such third party services as Google Analytics, Chartbeat, SimpleReach, Facebook retargeting, and Perfect Audience to help collect and analyze certain information for the purposes discussed above.
 
-The Platforms also enable third-party tracking mechanisms to collect your non-personal information for use in online behavioral advertising. For example, third parties may use the fact that you visited the Platforms to target online ads for BARK services to you on non-BARK websites or services. In addition, our third-party advertising networks might use information about your use of the Platforms to help target non-BARK advertisements based on your online behavior in general. For information about behavioral advertising practices, including privacy and confidentiality, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/understanding-online-advertising) or the [Digital Advertising Alliance website](http://www.aboutads.info/).
+The Platforms also enable third-party tracking mechanisms to collect your non-personal information for use in online behavioral advertising. For example, third parties may use the fact that you visited the Platforms to target online ads for BARK services to you on non-BARK websites or services. In addition, our third-party advertising networks might use information about your use of the Platforms to help target non-BARK advertisements based on your online behavior in general. For information about behavioral advertising practices, including privacy and confidentiality, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/understanding-online-advertising) or the [Digital Advertising Alliance website](http://www.aboutads.info/).
 
-The use of online tracking mechanisms by third parties is subject to those third parties’ own privacy policies, and not this Policy. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies. Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by [opting out here](http://www.networkadvertising.org/choices/), or of companies participating in the Digital Advertising Alliance program by [opting out here](http://www.aboutads.info/choices). Although our Platforms currently do not respond to “do not track” browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed above.
+The use of online tracking mechanisms by third parties is subject to those third parties’ own privacy policies, and not this Policy. If you prefer to prevent third parties from setting and accessing cookies on your computer, you may set your browser to block cookies. Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by [opting out here](http://www.networkadvertising.org/choices/), or of companies participating in the Digital Advertising Alliance program by [opting out here](http://www.aboutads.info/choices). Although our Platforms currently do not respond to “do not track” browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed above.
 
-**_Third-party service providers and business partners._** BARK also uses other third-party service providers to help us manage and improve the Platforms and other BARK services. These service providers may collect and/or use your personal or non-personal information to assist us in achieving the purposes discussed above in the section entitled “How we use the personal and non-personal information that we collect.” For example, we use third parties to help us target and implement our email communications and direct mailings, to verify your identity and address for shipping purposes, to ship our products, and to process your credit card information. We also use third-party platforms to help us manage our relationships with the people and companies that use our services.
+**_Third-party service providers and business partners._**  BARK also uses other third-party service providers to help us manage and improve the Platforms and other BARK services. These service providers may collect and/or use your personal or non-personal information to assist us in achieving the purposes discussed above in the section entitled “How we use the personal and non-personal information that we collect.” For example, we use third parties to help us target and implement our email communications and direct mailings, to verify your identity and address for shipping purposes, to ship our products, and to process your credit card information. We also use third-party platforms to help us manage our relationships with the people and companies that use our services.
 
 We also may share your personal or non-personal information with other third parties when necessary to fulfill your requests for services; to complete a transaction that you initiate; to meet the terms of any agreement that you have with us or our partners; or to manage our business.
 
-**_Your direct sharing of information on the Platforms._** Certain features of our Platforms make it possible for you to share comments or feedback publicly with all other users of the Platforms. Any information that you submit through such features will be available to the public at large and potentially accessible through third-party search engines. Such information can be read, collected, and/or used by others, and it could be used to send you unsolicited messages if you disclose personal information. Accordingly, please take care when using these features of the Platforms.
+**_Your direct sharing of information on the Platforms._**  Certain features of our Platforms make it possible for you to share comments or feedback publicly with all other users of the Platforms. Any information that you submit through such features will be available to the public at large and potentially accessible through third-party search engines. Such information can be read, collected, and/or used by others, and it could be used to send you unsolicited messages if you disclose personal information. Accordingly, please take care when using these features of the Platforms.
 
-**_Your direct sharing of personal information through third-party websites and services._** The Platforms may enable you to share directly personal information with websites or online services operated by third parties. For example, the Platforms contain links to third-party websites that incorporate comment and social media features. The Platforms may also contain a Facebook “like” button, a Twitter “follow” button, or similar features. If you choose to use these features, you may disclose your personal information not just to those third-party websites and services, but also to their users and the public more generally. Because these third-party websites and services are not operated by BARK, we are not responsible for the content or practices of those websites or services. The collection, use, and disclosure of your personal and non-personal information will be subject to the privacy policies of the third party websites or services, and not this Policy.
+**_Your direct sharing of personal information through third-party websites and services._**  The Platforms may enable you to share directly personal information with websites or online services operated by third parties. For example, the Platforms contain links to third-party websites that incorporate comment and social media features. The Platforms may also contain a Facebook “like” button, a Twitter “follow” button, or similar features. If you choose to use these features, you may disclose your personal information not just to those third-party websites and services, but also to their users and the public more generally. Because these third-party websites and services are not operated by BARK, we are not responsible for the content or practices of those websites or services. The collection, use, and disclosure of your personal and non-personal information will be subject to the privacy policies of the third party websites or services, and not this Policy.
 
-**_Third-party plugins._** The Platforms integrate certain third-party plug-ins (such as a Facebook “like” button). Even if you do not click on these plug-ins, they may collect information about you, such as your IP address and the pages that you view. They also may set and/or access a cookie. These plugins are governed by the privacy policy of the company providing them.
+**_Third-party plugins._**  The Platforms integrate certain third-party plug-ins (such as a Facebook “like” button). Even if you do not click on these plug-ins, they may collect information about you, such as your IP address and the pages that you view. They also may set and/or access a cookie. These plugins are governed by the privacy policy of the company providing them.
 
-**_Legal purposes._** We also may use or share your personal or non-personal information with third parties when we believe, in our sole discretion, that doing so is necessary:
+**_Legal purposes._**  We also may use or share your personal or non-personal information with third parties when we believe, in our sole discretion, that doing so is necessary:
 
   * to comply with applicable law or a court order, subpoena, or other legal process;
   * to investigate, prevent, or take action regarding illegal activities, suspected fraud, violations of our terms and conditions, or situations involving threats to our property or the property or physical safety of any person or third party;
@@ -112,7 +81,7 @@ We also may share your personal or non-personal information with other third par
 
 
 
-**_Aggregated information._** From time to time, BARK may also share de-identified and aggregated information about Platform users, such as by publishing a report on trends in the usage of the Platforms.
+**_Aggregated information._**  From time to time, BARK may also share de-identified and aggregated information about Platform users, such as by publishing a report on trends in the usage of the Platforms.
 
 ###### Security
 
@@ -120,9 +89,9 @@ BARK uses commercially reasonable physical, electronic, and procedural safeguard
 
 ###### Reviewing and updating your information
 
-If you want to learn more about the personal information that BARK has about you, or you would like to update or change that information, or deactivate your account, please contact us by email at [support@barkbox.com](mailto:support@barkbox.com).
+If you want to learn more about the personal information that BARK has about you, or you would like to update or change that information, or deactivate your account, please contact us by email at [support@barkbox.com](mailto:support@barkbox.com).
 
-Note that deactivating your account does not cause your account information to be deleted from our servers. You can request such deletion by emailing our Customer Support team at [support@barkbox.com](mailto:support@barkbox.com).
+Note that deactivating your account does not cause your account information to be deleted from our servers. You can request such deletion by emailing our Customer Support team at [support@barkbox.com](mailto:support@barkbox.com).
 
 ###### Information for Platform users from outside the United States
 
@@ -140,9 +109,9 @@ We reserve the right to amend this policy at any time. We will post all changes 
 
 If you have any questions or comments regarding our Policy, please contact us at:
 
-221 Canal Street, Floor   
+221 Canal Street, Floor   
 New York, New York 10013   
 Phone: 855-520-BARK   
-E-mail: [support@barkbox.com](mailto:support@barkbox.com).
+E-mail: [support@barkbox.com](mailto:support@barkbox.com).
 
 Effective date: September 30, 2014.
