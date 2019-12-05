@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmstro.com privacy policy that was archived on 2019-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190126002308id_/https%3A//filmstro.com/page/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmstro.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205065905id_/https%3A//filmstro.com/page/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Filmstro
 
