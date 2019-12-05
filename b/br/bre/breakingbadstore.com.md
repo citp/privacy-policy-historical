@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingbadstore.com privacy policy that was archived on 2018-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181223231211id_/https%3A//www.breakingbadstore.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingbadstore.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205235613id_/https%3A//www.breakingbadstore.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Breaking Bad Store
 
