@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewn.co.za privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628153651id_/http%3A//primediabroadcasting.co.za/page/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewn.co.za privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205055346id_/http%3A//primediabroadcasting.co.za/page/privacy-notice) for the most accurate reproduction.*
 
 # Primedia Broadcasting — Privacy Notice
 
