@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hookedonhouses.net privacy policy that was archived on 2019-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190504231313id_/https%3A//hookedonhouses.net/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hookedonhouses.net privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205054519id_/https%3A//hookedonhouses.net/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Disclosure - Hooked on Houses
 
@@ -35,3 +35,5 @@ By using this Site, you consent to the use of such cookies and the sharing of da
 #### For European Economic Area Residents
 
 If you reside in a country in the European Economic Area (EEA), then under the GDPR and applicable data protection laws you have the rights, among other things, to access your personal data, have us erase it, and/or restrict its further processing. If you wish to access or delete your personal data (if any) maintained by us or AdThrive related to advertising on the Site, you can contact AdThrive at info@adthrive.com. If you wish to see a list of the advertising partners we work with or change which of those partners track your behavior using cookies, click the ad preferences icon. (Available in the EU.)
+
+(Visited 385 times, 1 visits today)
