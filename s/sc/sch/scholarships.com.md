@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525222908id_/https%3A//www.scholarships.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205212956id_/https%3A//www.scholarships.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Scholarships.com
+
+[](https://web.archive.org/scc.aspx?pid=1305)
 
 _Effective Date: 06/06/2017_
 
