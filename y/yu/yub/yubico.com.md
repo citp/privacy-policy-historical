@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yubico.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617080725id_/https%3A//www.yubico.com/support/terms-conditions/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yubico.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205124923id_/https%3A//www.yubico.com/support/terms-conditions/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | Yubico
+# Privacy notice | Yubico
 
-This Privacy Notice has been adopted by Yubico AB and applies to our and/or other companies in the Yubico group (together “ **Yubico** “) processing of personal data relating to you as a (i) visitor of our websites or social media profiles/pages, (ii) customer buying our products online or such a potential customer, and to (iii) registered user of our services and products.
+This privacy notice has been adopted by Yubico AB and applies to our and/or other companies in the Yubico group (together “ **Yubico** “) processing of personal data relating to you as a (i) visitor of our websites or social media profiles/pages, (ii) customer buying our products online or such a potential customer, and to (iii) registered user of our services and products.
 
   1. **Introduction**
     1. Your privacy is important to us and we strive for a high level of protection in all processing of personal data. Within the EU/EEA, the General Data Protection Regulation (GDPR) applies from 25 May 2018.
