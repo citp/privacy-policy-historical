@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 14news.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521222901id_/http%3A//www.14news.com/2018/08/29/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 14news.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205104215id_/https%3A//www.14news.com/privacy-policy) for the most accurate reproduction.*
 
-# Gray Television, Inc. PRIVACY POLICY
+# Privacy Policy
 
 _**Introduction**_ We at Gray Television, Inc. (“GTI”), along with our television stations (“Stations”), respect your privacy. We have adopted this Privacy Policy to explain what information about you we collect, how we use it, and how we share it. We provide a link to this Privacy Policy wherever it applies, such as on our Station web sites, our mobile apps, our social networking presence on Facebook and other platforms, and other online services that we provide and control (“Services”). By using our Services, you accept our practices as described in this Privacy Policy.
 
