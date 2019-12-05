@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the home-speech-home.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411104355id_/https%3A//www.home-speech-home.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the home-speech-home.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205013411id_/https%3A//www.home-speech-home.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | HomeSpeechHome
 
@@ -162,9 +162,7 @@ If there are any questions regarding this privacy policy [you may contact us](ht
 
 Florida, U.S.A.
 
-This policy was last modified in Jun 2018.
-
-The search box on this web site ("Search Box") is powered by Google Inc. ("Google"). You acknowledge and agree that Google's privacy policy (located at <http://www.google.com/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.  
+The search box on this web site ("Search Box") is powered by Google Inc. ("Google"). You acknowledge and agree that Google's privacy policy (located at [https://www.google.com/privacy.html](http://www.google.com/privacy.html)) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.  
 
 
 * * *
