@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403224215id_/https%3A//group.sciencemuseum.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemuseum.org.uk privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205145147id_/https%3A//group.sciencemuseum.org.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Science Museum Group
+# Privacy Policy | Science Museum Group
 
 ## Introduction
 
@@ -22,12 +22,12 @@ We collect your personal information in a number of ways which are describe
   2. When you book tickets either online or in person at one of our museums
   3. When you enter into a competition operated by us or one of our partners
   4. When you log on to use the free Wi-Fi at our museums
-  5. When you visit our websites, including if you sign up to one of our email updates, complete forms, shop online at our online shop, apply for a job with us, create an online account with us or post a comment on a blog. If you have cookies enabled on your web browser, in such circumstances, we may use cookies to collect information about your visit as you move through our website. For more information about this please see [section 10](https://group.sciencemuseum.org.uk/privacy-policy/#cookies) below on Cookies
+  5. When you visit our websites, including if you sign up to one of our email updates, complete forms, shop online at our online shop, apply for a job with us, create an online account with us or post a comment on a blog. If you have cookies enabled on your web browser, in such circumstances, we may use cookies to collect information about your visit as you move through our website. For more information about this please see [section 10](https://www.sciencemuseumgroup.org.uk/privacy-policy/#cookies) below on Cookies
   6. When you make a donation
   7. When you respond to a survey we provide to you
   8. When you interact with us on social media (for example by ‘liking’ our pages on Facebook) depending on your privacy settings on such platforms
   9. When you complete online forms, such as for general contact; educational bookings or group visits. These details are emailed to relevant staff within SMG to provide appropriate services
-  10. We also may collect information about you from third parties (as detailed further below in [section 3](https://group.sciencemuseum.org.uk/privacy-policy/#three))
+  10. We also may collect information about you from third parties (as detailed further below in [section 3](https://www.sciencemuseumgroup.org.uk/privacy-policy/#three))
   11. If you otherwise contact us by telephone, email or post
 
 
@@ -70,13 +70,13 @@ Where relevant we may also collect:
 
   * Your MAC address to provide a seamless Wi-Fi service whilst in our museums
   * Any particular access or dietary requirements you may have to help us improve your visit
-  * We may collect additional information where we believe you may be interested in supporting our museums (this is described in [section 3](https://group.sciencemuseum.org.uk/privacy-policy/#three) below under the heading “When we wish to better understand you and your potential interest in supporting our museums”)
+  * We may collect additional information where we believe you may be interested in supporting our museums (this is described in [section 3](https://www.sciencemuseumgroup.org.uk/privacy-policy/#three) below under the heading “When we wish to better understand you and your potential interest in supporting our museums”)
 
 
 
-When you visit any of our websites (including games and apps we provide – as we host them on web servers) we may use cookies and other similar technologies (including Google Analytics) as well as collect other information from you which is described in [section 10](https://group.sciencemuseum.org.uk/privacy-policy/#cookies) below.
+When you visit any of our websites (including games and apps we provide – as we host them on web servers) we may use cookies and other similar technologies (including Google Analytics) as well as collect other information from you which is described in [section 10](https://www.sciencemuseumgroup.org.uk/privacy-policy/#cookies) below.
 
-We may also obtain information available from other external sources about you and combine it with information we hold about you. This will only be done if this information is publicly available (for example on Companies House or the land registry) or if you have given permission to a third party to share this information. This is described in [section 3](https://group.sciencemuseum.org.uk/privacy-policy/#three) below under the heading “When we wish to better understand you and your potential interest in supporting our museums”.
+We may also obtain information available from other external sources about you and combine it with information we hold about you. This will only be done if this information is publicly available (for example on Companies House or the land registry) or if you have given permission to a third party to share this information. This is described in [section 3](https://www.sciencemuseumgroup.org.uk/privacy-policy/#three) below under the heading “When we wish to better understand you and your potential interest in supporting our museums”.
 
 ## 3\. Why we collect your personal information and how we use it
 
@@ -126,7 +126,7 @@ In appropriate circumstances we shall use your information to fulfil our legal o
   * for our financial records, including for Gift Aid purposes
   * such other obligations as are imposed on us from time to time
   * deleting or updating the information we hold about you if we learn such information is inaccurate.
-  * complying with your data rights (as further described below in [section 5](https://group.sciencemuseum.org.uk/privacy-policy/#five))
+  * complying with your data rights (as further described below in [section 5](https://www.sciencemuseumgroup.org.uk/privacy-policy/#five))
   * Health and Safety implications if appropriate, for example reporting first aid incidents
 
 
@@ -151,7 +151,7 @@ We shall use your information where it is in our legitimate interest to do so, t
 
 For a small number of individuals, we want to better understand their engagement with the Science Museum Group and their potential interest in supporting us further. Before contacting these individuals about supporting our museums, we may seek publicly available information to help us understand the background of people who may choose to support us and to ensure we make requests for support to those who may be able and willing to give.
 
-In such circumstances we may collect the following information (in addition to that detailed in [section 2](https://group.sciencemuseum.org.uk/privacy-policy/#two) above): the individual’s previous interactions with our museums, job title(s), details of offices held, place of business, business networks, publicly available information in relation to the individual’s career, educational history, hobbies and interests, residence locations, languages spoken, donations to other organisations, wealth and assets, family (excluding information about children unless provided by that individual). We may also use publicly sourced images to help identify individuals who attend our events.
+In such circumstances we may collect the following information (in addition to that detailed in [section 2](https://www.sciencemuseumgroup.org.uk/privacy-policy/#two) above): the individual’s previous interactions with our museums, job title(s), details of offices held, place of business, business networks, publicly available information in relation to the individual’s career, educational history, hobbies and interests, residence locations, languages spoken, donations to other organisations, wealth and assets, family (excluding information about children unless provided by that individual). We may also use publicly sourced images to help identify individuals who attend our events.
 
 We use a variety of sources to obtain such information including newspaper websites, the official websites of other companies and charities, housing market websites, and the organisations in the list below:
 
@@ -189,7 +189,7 @@ We shall share your data with third parties who are performing services on our b
 We may share your personal information with the following organisations:
 
   * service providers working on our behalf. For example this may include payment processing, database services, website hosting services, providers or online and/or cloud services, printing and mailing organisations, marketing agencies and email delivery services
-  * third party data services and analytics platforms who assist us with segmenting and understanding our audiences (as described above in [section 3](https://group.sciencemuseum.org.uk/privacy-policy/#three) above)
+  * third party data services and analytics platforms who assist us with segmenting and understanding our audiences (as described above in [section 3](https://www.sciencemuseumgroup.org.uk/privacy-policy/#three) above)
 
 
 
@@ -285,7 +285,7 @@ This section describes how we use cookies and similar technologies when you visi
 
 The Science Museum Group operates a number of websites including (but not limited to) the following:
 
-  * [Science Museum Group](https://group.sciencemuseum.org.uk/)
+  * [Science Museum Group](https://www.sciencemuseumgroup.org.uk/)
   * [Science Museum](https://www.sciencemuseum.org.uk/)
   * [Science Museum Shop](https://www.sciencemuseumshop.co.uk/)
   * [Hire the Science Museum](https://www.hirethesciencemuseum.com/)
@@ -295,7 +295,7 @@ The Science Museum Group operates a number of websites including (but not limite
   * [Locomotion](https://www.locomotion.org.uk/)
   * [Locomotion Models](http://www.locomotionmodels.com/)
   * [The Flying Scotsman](http://www.flyingscotsman.org.uk/)
-  * [National Railway Museum blog](https://blog.nrm.org.uk/)
+  * [National Railway Museum blog](https://blog.railwaymuseum.org.uk/)
   * [National Science and Media Museum](https://www.scienceandmediamuseum.org.uk/)
   * [Science and Industry Museum](https://www.scienceandindustrymuseum.org.uk/)
   * [Manchester Science Festival](https://www.manchestersciencefestival.com/)
