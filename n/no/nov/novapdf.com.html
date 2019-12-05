@@ -1,42 +1,66 @@
-<!--The following is the downloaded HTML source of the novapdf.com privacy policy that was archived on 2019-04-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190404172331id_/https%3A//www.novapdf.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the novapdf.com privacy policy that was archived on 2019-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191205125008id_/https%3A//www.novapdf.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Privacy Policy</title>
+	<title>Privacy policy - novaPDF</title>
+
 	<!-- Meta -->
 	<meta name="description" content="This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have">
-<meta name="keywords" content="privacy policy, privacy, cookie policy, GDPR ">
+<meta name="keywords" content="privacy policy, privacy, cookie policy, GDPR,Softland">
 <link rel="canonical" href="https://www.novapdf.com/privacy-policy.html">
 
 	<!-- CSS/JS -->
 
-<!--<link type="text/css" href="//www.novapdf.com/modules/mod-ui-fonts/fonts/icons/fontawesome/fontawesome.css?181d5mm" rel="stylesheet" media="none" onload="if(media!='all'){media='all';}">-->
-<link type="text/css" href="//cdn.novapdf.com/modules/mod-ui-fonts/fonts/icons/fontawesome/fontawesome.css?181d5mm" rel="stylesheet" media="none" onload="if(media!='all'){media='all';}">
-<!-- # PARTIAL INCLUDES: Prod # -->
-<link rel="stylesheet" type="text/css" href="//www.novapdf.com/etc/templates/novapdf/npdf.css?181d5mm">
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T85KHB"></script><script type="text/javascript" src="//www.novapdf.com/etc/templates/novapdf/npdf.js?181d5mm"></script>
+<!--<link type="text/css" href="//www.novapdf.com/modules/mod-ui-fonts/fonts/icons/fontawesome/fontawesome.css?1kzepej" rel="stylesheet" media="none" onload="if(media!='all'){media='all';}">-->
+<link type="text/css" href="//cdn.novapdf.com/modules/mod-ui-fonts/fonts/icons/fontawesome/fontawesome.css?1kzepej" rel="stylesheet" media="none" onload="if(media!='all'){media='all';}">
+    <!-- # PARTIAL INCLUDES: Prod # -->
+    <link rel="stylesheet" type="text/css" href="//www.novapdf.com/etc/templates/novapdf/npdf.css?1kzepej">
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T85KHB"></script><script type="text/javascript" src="//www.novapdf.com/etc/templates/novapdf/npdf.js?1kzepej"></script>
+
 
 
 
 
 <script>
 var renderSoftlandPrices = function() {
-	$('.softland-price').number(true, 2);
+	var price = 0;
+	$('.softland-price').each(function(){
+		price = 1 * $(this).text();
+		price = price.toFixed(2);
+		$(this).text(price);
+	});
 }
+var vatMightTxt = 'Prices are in United States Dollars ($). VAT\/Sales Tax might be added!';
+var vatIncludedTxt = 'Prices are in United States Dollars ($) and include VAT\/Sales Tax.';
+function ErrorLoadImg(elem) {
+    var pr = $(elem).parent().find('source');
+    if(pr.length > 0) {
+	pr.remove();
+    }
+}
+//--Lazy Load
+var lazyLoad = new LazyLoad({
+    elements_selector: ".lazy",
+    callback_error: ErrorLoadImg
+});
 $(function() {
-	setTimeout(function(){ jQuery('img.unveil').unveil(); }, 250);
+	$('.price-hint').attr('title', vatMightTxt);
+	$('.buy-vat-text').text('* ' + vatMightTxt);
+	//--Lazy Load
+	lazyLoad.update();
 	renderSoftlandPrices();
 });
 </script>
 <!-- #END# PARTIAL INCLUDES # -->
 <!-- JS-SETTINGS -->
 <script type="text/javascript">
-	SmartJS_BrowserUtils_CookieDomain = 'novapdf.com';
-	SmartJS_BrowserUtils_NotifyLoadError = false;
-	if(Test_Browser_Compliance.checkIsMobileDevice()) { SmartJS_BrowserUtils_Use_iFModalBox_Active = 0; } else { SmartJS_BrowserUtils_Use_iFModalBox_Active = 1; SmartJS_BrowserUtils.Control_ModalCascading(); }
-	// use defaults (un-protected modal) for index area
+	SmartJS_BrowserUtils.param_CookieDomain = 'novapdf.com';
+	SmartJS_BrowserUtils.param_NotifyLoadError = false;
+	if(Test_Browser_Compliance.checkIsMobileDevice()) { SmartJS_BrowserUtils.param_Use_iFModalBox_Active = 0; } else { SmartJS_BrowserUtils.param_Use_iFModalBox_Active = 1; SmartJS_BrowserUtils.Control_ModalCascading(); }
+		// use defaults (un-protected modal) for index area
+	
 	var smartAppLanguage = 'en';
 	var smartAppSrvProto = 'https:\/\/';
 	var smartAppSrvURI = '\/privacy-policy.html';
@@ -54,8 +78,110 @@ $(function() {
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T85KHB');</script>
 <!-- Social Api: Facebook -->
-<script src="//www.novapdf.com/etc/templates/novapdf/js/social-api-func.js?181d5mm" async=""></script>
-<script src="//www.novapdf.com/modules/mod-weblogin/views/js/login-utils.js?181d5mm" async=""></script>
+<script src="//www.novapdf.com/etc/templates/novapdf/js/social-api-func.js?1kzepej" async=""></script>
+<script src="//www.novapdf.com/modules/mod-weblogin/views/js/login-utils.js?1kzepej" async=""></script>
+<script>
+				var serviceJs = new Array;
+				var defaultVendor = 'fastspring';
+				var preFill = '0';
+				var resellerStatus = '';
+			</script>
+
+			<script src="//www.novapdf.com/modules/mod-frontend-cart/views/js/fastspringPopupScript.js?1kzepej"></script>
+		
+			<script>
+				var fastspringError = false;
+				function errorcallback(){
+					fastspringError = true;
+				}
+				var storefront = "softlandro.onfastspring.com/popup-novapdf";
+			</script>
+
+			<script id="fsc-api" src="https://d1f8f9xcsvx3ha.cloudfront.net/sbl/0.8.0/fastspring-builder.min.js" type="text/javascript" data-storefront="softlandro.onfastspring.com/popup-novapdf" data-data-callback="fastspringDataCallback" data-access-key="OPANTQRCS6MZ299ZDRVKRQ" onerror="errorcallback()">
+
+				var fastspringVat = 0;
+				var fastSpringProduct = 'novapdf-product';
+				var fastSpringEmail = '';
+				var fastSpringCompanyName = '';
+				var fastSpringVatId = '';
+				var fastSpringFirstName = '';
+				var fastSpringLastName = '';
+				var fastSpringAddress1 = '';
+				var fastSpringAddress2 = '';
+				var fastSpringCity = '';
+				var fastSpringPostalCode = '';
+				var fastSpringCountry = '';
+				var fastSpringPhone = '';
+			</script>
+			
+			<script>
+			function fastspringCalcPrice(){
+				var flag = 0;
+				var cookieSlVendor = SmartJS_BrowserUtils.getCookie('cookieSlVendor');
+				if(cookieSlVendor != '' && cookieSlVendor != 'fastspring' && smartCrrPage == 'cart'){
+					//
+				}else{
+					if(typeof fastspringVat !== 'undefined') {
+						if((fastspringVat > 0 && defaultVendor == 'fastspring') || resellerStatus != 'approved'){
+							var price = 0;
+							var newPrice = 0;
+							var sku = '';
+							var vat = 0;
+							$('.softland-price').each(function(){
+								if(!$(this).hasClass('calculated')){
+									price = 1 * $(this).text();
+									if(typeof fastspringVat === 'undefined')  {
+										fastspringVat = 0;
+									} // FIX IF NOT DEFINED !
+									newPrice = price * (1 + fastspringVat / 100);
+									newPrice = newPrice.toFixed(2);
+									$(this).text(newPrice);
+									$(this).addClass('calculated');
+									if(price != newPrice){
+										flag = 1;
+									}
+								}
+							});
+						}
+					}
+					if($('.softland-price').length > 0){
+						if(flag == 1){
+							$('.buy-vat-text').text('*' + vatIncludedTxt);
+							$('.price-hint').attr('title', vatIncludedTxt);
+						}else{
+							$('.buy-vat-text').text('*' + vatMightTxt);
+							$('.price-hint').attr('title', vatMightTxt);
+						}
+					}else{
+						$('.buy-vat-text').text('');
+						$('.price-hint').attr('title', '');
+					}
+				}
+			}
+			</script>
+		
+			<script>
+				var CookieVatTaxRateFastspring = SmartJS_BrowserUtils.getCookie('vatTaxRateFastspring');
+				if(Number(CookieVatTaxRateFastspring) > 0) {
+					if(defaultVendor == 'fastspring'){
+						fastspringVat = CookieVatTaxRateFastspring;
+					}else{
+						if(smartCrrPage != 'cart'){
+							fastspringVat = CookieVatTaxRateFastspring;
+						}else{
+							fastspringVat = 0;
+						}
+					}
+					$(function(){
+						if(smartCrrPage != 'cart'){
+							fastspringCalcPrice();
+						}
+					});
+				} else {
+					fastspringVat = 0;
+				}
+			</script>
+			
 
 	
 	
@@ -84,12 +210,49 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	    <!-- Logo
 	    ============================================= -->
 	    <div id="logo">
-		<a href="//www.novapdf.com"><img src="https://cdn.novapdf.com/images/logo.svg" alt="novaPDF Logo"></a>
+		<a class="badge-a" href="//www.novapdf.com/download.html" title="NEW VERSION: 10.5"><span class="badge badge-pill badge-danger" id="badge-logo">NEW VERSION: 10.5</span></a>
+		<a href="//www.novapdf.com">
+		    <picture class="aligncenter" style="">
+			<!--<source type="image/webp" data-srcset="https://cdn.novapdf.com/images/logo.webp" data-sizes="100vw">-->
+			<img class="lazy" data-src="https://cdn.novapdf.com/images/logo.svg" alt="novaPDF Logo">
+		    </picture>
+		</a>
 	    </div><!-- #logo end -->
 	    <!-- Primary Navigation
 	    ============================================= -->
 	    <nav id="primary-menu" class="style-3">
+		<!-- Top Search
+		============================================= -->
+		<div id="top-search">
+		    <a style="cursor:pointer;" id="top-search-trigger" title="Search our website"><span class="d-none">Search our website</span><i class="fa fa-search fa-lg"></i></a>
+		    <form action="//www.novapdf.com/search.html" method="get">
+			<input type="text" name="term" class="form-control" value="" placeholder="Type &amp; Hit Enter To Search.">
+			<button class="button button-xsmall button-blue button-border button-rounded" id="button-search-top-header" type="submit"><i class="fa fa-search"></i> Search</button>
+		    </form>
+		</div><!-- #top-search end -->
 
+
+		<!-- User Account
+		============================================= -->
+		<div id="top-account">
+		    <a href="//www.novapdf.com/myaccount.login.html" id="top-account-trigger" title="Your account"><i class="fa fa-user fa-lg"></i><span class="d-none">Your account</span></a>
+		</div><!-- #top-search end -->
+
+
+		<!-- Top Cart
+		============================================= -->
+		<div id="top-cart">
+		    <a style="cursor:pointer;" id="top-cart-trigger" title="Your cart"><i class="fa fa-shopping-cart fa-lg"></i><span class="top-cart-item-cnt">0</span></a>
+		    <div class="top-cart-content">
+			<div class="top-cart-title">
+			    <h4>Shopping Cart</h4>
+			</div>
+			<div class="content">
+			    <div class="top-cart-items"><i class="fa fa-refresh fa-2x"></i></div>
+			</div>
+		    </div>
+		</div>
+		<div class="header-div d-none d-md-inline-block" style="float:right;margin: 38px 25px 40px 5px;"> | </div>
 		<ul>
 		   
 		    <li class="sf-with-ul"><a style="cursor:pointer;"><div>Products</div></a>
@@ -147,14 +310,15 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					<li><a href="//www.novapdf.com/partner-programs.html"><div>Partner Programs</div></a></li>
 					<li><a href="//www.novapdf.com/compare-programs.html"><div>Compare Programs</div></a></li>
 					<!--							<li ><a style="cursor:pointer;"><div>Affiliates</div></a></li>-->
-					<li><a href="//www.novapdf.com/resellers.html"><div>Reseller Signup</div></a></li>
+					<li><a href="//www.novapdf.com/resellers-signup.html"><div>Reseller Signup</div></a></li>
+					<li><a href="//www.novapdf.com/resellers.html"><div>Resellers</div></a></li>
 					<div class="dropdown-divider"></div>
 					<li><a href="//www.novapdf.com/myaccount.licenses.html?type=reseller"><div>Partner Account</div></a></li>
 				</ul>
 		    </li>
 		    <li class="sf-with-ul"><a style="cursor:pointer;"><div>About Us</div></a>
 				<ul>
-					<li><a href="//www.novapdf.com/about-us.html"><div>About Softland</div></a></li>
+					<li><a href="//www.novapdf.com/about-us.html"><div>About</div></a></li>
 					<li><a href="//www.novapdf.com/contact-us.html"><div>Contact Us</div></a></li>
 					<div class="dropdown-divider"></div>
 					<li><a href="//www.novapdf.com/newsletter.html"><div>Newsletter</div></a></li>
@@ -163,38 +327,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				</ul>
 		    </li>
 		</ul>
-
-		<!-- Top Search
-		============================================= -->
-		<div id="top-search">
-		    <a style="cursor:pointer;" id="top-search-trigger" title="Search our website"><span class="d-none">Search our website</span><i class="fa fa-search fa-lg"></i></a>
-		    <form action="//www.novapdf.com/search.html" method="get">
-			<input type="text" name="term" class="form-control" value="" placeholder="Type &amp; Hit Enter To Search ...">
-		    </form>
-		</div><!-- #top-search end -->
-
-
-		<!-- User Account
-		============================================= -->
-		<div id="top-account">
-		    <a href="//www.novapdf.com/myaccount.login.html" id="top-account-trigger" title="Your account"><i class="fa fa-user fa-lg"></i><span class="d-none">Your account</span></a>
-		</div><!-- #top-search end -->
-
-
-<!-- Top Cart
-		============================================= -->
-		<div id="top-cart">
-		    <a style="cursor:pointer;" id="top-cart-trigger" title="Your cart"><i class="fa fa-shopping-cart fa-lg"></i><span class="top-cart-item-cnt">0</span></a>
-		    <div class="top-cart-content">
-			<div class="top-cart-title">
-			    <h4>Shopping Cart</h4>
-			</div>
-			<div class="content">
-			    <div class="top-cart-items"><i class="fa fa-refresh fa-2x"></i></div>
-			</div>
-		    </div>
-		</div>
-		<script src="//www.novapdf.com/modules/mod-frontend-cart/views/js/top-cart.js" async=""></script>
+		<script src="//www.novapdf.com/modules/mod-frontend-cart/views/js/top-cart.js?1kzepej" async=""></script>
 		<!-- #top-cart end -->
 	    </nav><!-- #primary-menu end -->
 
@@ -204,16 +337,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 </header><!-- #header end -->
 <div id="user-submenu"></div>
+<div class="clear"></div>
 	<div class="maincontent">
 	    <!-- Breadcrumb
 	    ============================================= -->
 	    <script>
 		var breadcrumb_crrpage = 'legal-notices';
 	    </script>
-	        <section id="page-title" style="padding:30px 0 !important;margin-top: -40px;">
+	    	    <section id="page-title" style="padding:30px 0 !important;margin-top: -40px;">
 
 	<div class="container clearfix">
-		<h1 style="text-transform:none;">Privacy Policy</h1>
+		<h1 style="text-transform:none;">Privacy policy</h1>
 		<ol class="d-none d-md-flex breadcrumb"></ol>
 	</div>
 
@@ -270,27 +404,27 @@ $(function() {
 
 <p>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>Effective date: May 22, 2018</p>
 <p>Softland SRL ("us", "we", or "our") operates the novaPDF website (the "Website") and novaPDF application (the "App").</p>
 <p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.</p>
 <p>We use your data to provide and improve the website/app. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Use.</p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 
 <h3>Specific notices regarding the software available on this website</h3>
 <p>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>The materials on Softland SRL's ("Softland") World Wide Web Servers ("Site") are provided as a service to its customers and may be used for informational purposes only. Copies may be downloaded subject to the provisions below. By downloading any materials from this site, you agree to these terms. If you do not agree to these terms, please do not use the site or download any materials from it. Nothing contained herein shall be construed as conferring any license or right under any Softland copyright.</p>
 <p>DOCUMENTS PUBLISHED BY SOFTLAND ON THEIR SITES ARE PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. SOFTLAND SHALL NOT UNDER ANY CIRCUMSTANCES BE LIABLE TO ANY PERSON FOR ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES, INCLUDING, WITHOUT LIMITATION, DAMAGES RESULTING FROM USE OF OR RELIANCE ON THE INFORMATION PRESENTED, LOSS OF PROFIT, REVENUES OR COSTS OF REPLACEMENT GOODS, EVEN IF INFORMED IN ADVANCE OF THE POSSIBILITY OF DAMAGES.</p>
 <p>Every effort has been made to ensure the accuracy of the information presented. However, Softland assumes no responsibility for the accuracy of the information. The information presented on the site is subject to change without notice. Softland may make improvements and/or changes in the products and/or the programs described on the site at any time without notice. Mention of third party products or services is for information purposes only and constitutes neither an endorsement nor a recommendation.</p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 
@@ -323,12 +457,12 @@ $(function() {
 	<strong>Contacting us</strong>
  <br>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>When you contact us using the contact form via the Website or emailing us directly, any personally identifiable information you send to us is only used to identify you as a client and help with your support issue. We use Google Apps to manage email correspondence. We also archive all the emails. We do not share your email correspondence details with other third party providers. We do not use your email address collected via the online form to send you promotional emails.</p>
 <p>When you contact us via the telephone, any personally identifiable information you send to us is only used to identify you as a client and help with your support issue. No information is recorded or archived. We do not share your phone number with other third party providers. We do not use your phone number to contact you with promotions.</p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 <p>
@@ -339,19 +473,27 @@ $(function() {
 <p>
 	<strong>Newsletter</strong>
  <br>
-	When you subscribe to our mailing list you provide us a valid email address. This is stored on our hosting company's servers. We use your email address to notify you occasionally of newly released versions or other updates. You can unsubscribe at any time from our mailing database to stop receiving these notifications.
-</p>
+	
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
+</p><div id="markdown">
+<p>When you subscribe to our mailing list you provide us a valid email address. This is stored on our hosting company's servers. We use your email address to notify you occasionally of newly released versions or other updates. You can unsubscribe at any time from our mailing database to stop receiving these notifications.</p>
+<p>During activation you have an option to provide (optionally) your email address as well. If you enter your email address on the activation form, you will be automatically subscribed to our newsletter as well. This is done in order to notify you occasionally of newly released versions or other updates.</p>
+<p>You can unsubscribe at any time from our mailing database to stop receiving these notifications from the <b>About Us -&gt; Newsletter -&gt; Unsubscribe</b> page here: <a href="https://www.novapdf.com/newsletter.html?action=unsubscribe"></a><a href="https://www.novapdf.com/newsletter.html?action=unsubscribe">https://www.novapdf.com/newsletter.html?action=unsubscribe</a></p>
+</div>
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
+
+<p></p>
 <p>
 	<strong>App usage statistics</strong>
  <br>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>In order to help development and improve our App's features, the installer has a setting for collection of usage data. This function collects anonymous App usage data and sends it to Google Analytics. The data is used in development to get reliable statistics on which features are used (or not used). This data is anonymous and does not personally identify you. You can opt out of sending anonymous usage statistics during the setup or later from the App options.</p>
 <p>During the installation process, anonymous statistics are sent and stored on Softland's servers. These stats help us discover setup errors and improve the installation user experience. This data is anonymous and does not personally identify you.</p>
 <p>For bug tracking purposes, you can send us crash/exception logs that help us improve the app. These logs have an optional setting to include your email address, which we only use to get back to you when we fix the bug.</p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 <p>
@@ -374,57 +516,57 @@ These third parties have access to your Personal Data only to perform these serv
 	<strong>Facebook Comments and social buttons (Facebook)</strong>
  <br>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>Facebook Comments/Social button is a service provided by Facebook Inc. that allows users to share comments/like some pages of our Website and share them on the Facebook Platform. Place of Data Processing for the collected data is USA. For details regarding Facebook's policy on data processing via Facebook comments/social button see <a href="https://www.facebook.com/privacy/explanation.php">www.facebook.com/privacy/explanation.php</a></p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 <p>
 	<strong>Google +1 Button (Google)</strong>
  <br>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>Google +1 is a service managed by Google Inc., which allows users to publicly share information and to receive personalized content from Google and its partners. The information the user provides to Google through our Website is used according to Google Privacy Policy. Place of Data Processing for the collected data is USA. For details regarding Google's policy on data processing via Google +1 Buttons see <a href="http://www.google.com/intl/en/+/policy/+1button.html">www.google.com/intl/en/+/policy/+1button.html</a></p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 <p>
 	<strong>Twitter social buttons (Twitter)</strong>
  <br>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>This is a service supplied by Twitter that allows users to push a button on our Website ("Twitter Button") and share liking of our Website on Twitter.com without having to exit the page. Place of Data Processing for the collected data is USA. For details regarding Twitter's policy on data processing via the Twitter Button see <a href="https://twitter.com/privacy">twitter.com/privacy</a>.</p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 <p>
 	<strong>Google Adsense (Google)</strong>
  <br>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>The advertising services provided by third parties may allow the Website to use user's data for commercial communication purposes displayed in the form of banners and other advertisements on the Website based on Users' interests.<br>
 Google Adsense is an advertising platform that indexes all or part of the data of the Website. Google may also record through "DoubleClick" cookies the visiting user's behavior while interacting with the Website. These cookies are used by Google and third parties to show different advertisements on the basis of user's previous behavior. The Users may decide to disable all the DoubleClick cookies by visiting this optout URL: <a href="https://www.google.com/settings/ads/onweb/optout?hl=en">www.google.com/settings/ads/onweb/optout?hl=en</a><br>
 The place of Data Processing for the collected data is USA. For details regarding Google's policy on data processing via Google Adsense see: <a href="https://google.com/privacy/ads/">google.com/privacy/ads/</a></p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 <p>
 	<strong>Google Analytics (Google)</strong>
  <br>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>Google Analytics is a web analysis service provided by Google, Inc. ("Google"), which uses "cookies" to collect Users' Personal Data which are forwarded to, and deposited on, Google's servers in the United States. Google uses the Data collected to track and examine the Website's usage, prepare reports on the Website's activities for the website managers and supply other optional services. Google may use the collected Data to carry out behavioral targeting of the Website's Users. Google does not associate the user's IP address with any other information in Google's possession. Any refusal to utilize the cookies, by selecting the appropriate setup on your browser, may prevent the use of some functions of this Website. The place of Data Processing for the collected data is USA. For details regarding Google's policy on data processing via Google Analytics see: <a href="https://www.google.com/intl/en/analytics/privacyoverview.html">www.google.com/intl/en/analytics/privacyoverview.html</a></p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 <p>
@@ -436,23 +578,23 @@ The place of Data Processing for the collected data is USA. For details regardin
 	<strong>Amazon SES (Amazon)</strong>
  <br>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>Softland uses an email management service, provided by Amazon, to allow us to manage and monitor lists of the email addresses of our Website and App users and communicate with them via email.<br>
 Amazon SES is a mailing list provider created and operated by Amazon Inc. It makes possible to manage databases of contacts for sending emails. The service allows collecting information relating to the date and time when emails were opened by the User and the numbers of clicks by the User. The Place of Data Processing for collected information is USA. For details regarding Amazon's policy on data processing via Amazon SES see: <a href="https://aws.amazon.com/privacy/"></a><a href="https://aws.amazon.com/privacy/">https://aws.amazon.com/privacy/</a></p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 <p>
 	<strong>ReliableSite</strong>
  <br>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>This is our hosting provider and we use their servers to make our Website available to you. Place of Data Processing for the collected data is USA. For details regarding ReliableSite's policy on data processing via their servers see <a href="https://www.reliablesite.net/policies/privacy.aspx"></a><a href="https://www.reliablesite.net/policies/privacy.aspx">https://www.reliablesite.net/policies/privacy.aspx</a></p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 
@@ -476,13 +618,13 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 <h3>Transfer of Data</h3>
 <p>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>Your information, including Personal Data, may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.</p>
 <p>Personal information collected by Softland through its sites, apps and services may also be stored and processed by third-party partners to be able to provide you our products/services (i.e. payment processors). By using our web site or a Softland product/service you agree that your personal information may be transferred to any country in which Softland or its affiliates, subsidiaries or distribution partners maintain facilities.</p>
 <p>Softland will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy and no transfer of your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of your data and other personal information.</p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 
@@ -494,7 +636,7 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 <h3>Disclosure of Data</h3>
 <p>
 	
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041208 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 </p><div id="markdown">
 <p>Softland may disclose your Personal Data in the good faith belief that such action is necessary:</p>
 <ul>
@@ -505,7 +647,7 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 <li>To protect against legal liability</li>
 </ul>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 <p></p>
 
@@ -553,13 +695,14 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 <li class="li-padding"><a href="/download/pdf/license-novaPDF-SDK.pdf" target="_blank">novaPDF SDK End-User License Agreement</a></li>
 </ul>
 			<br>
-			<button class="button button-border button-rounded button-green" id="agree-policy">I AGREE</button>
+			<button class="button button-border button-rounded button-green" id="agree-policy">I Agree</button>
 		</div>
-		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 mb-4">
-	<div>
+		<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 mb-4 center tcenter">
+	
+<div>
     <div class="divider divider-rounded divider-center divider-margin-sm"><i class="fa fa-at"></i></div>
     <div class="widget clearfix nomargin">
-	<h4>Our Emails</h4>
+	<h4>Our emails</h4>
     </div>
     <span><b>Sales:</b> <a href="mailto:sales@novapdf.com">sales@novapdf.com</a></span><br>
     <span><b>Support:</b> <a href="mailto:support@novapdf.com">support@novapdf.com</a></span><br>
@@ -577,7 +720,7 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 <div>
     <div class="divider divider-rounded divider-center divider-margin-sm"><i class="fa fa-map-marker"></i></div>
     <div class="widget clearfix nomargin">
-	<h4>Our Address</h4>
+	<h4>Our address</h4>
     </div>
     <span><b>Softland</b></span><br>
     <span>str. Traian Grozavescu no. 2/1</span><br>
@@ -620,7 +763,8 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 	smartPageIsTranslatable = false;
 </script>
 		</div>
-	    </section><!-- #content end -->
+		<div class="container row mb-2" style="margin-left:auto;margin-right:auto;"><span style="font-size:.8rem" class="buy-vat buy-vat-text"></span></div>
+		</section><!-- #content end -->
 	</div>
 	<!-- Special Offer
 	============================================= -->
@@ -639,15 +783,18 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 				<div class="widget clearfix">
 					<div class="row">
 						<div class="col-lg-4 col-md-4 col-xs-12 col-sm-12">
-							<img id="logo-footer-img" src="https://cdn.novapdf.com/images/softland-logo.png" alt="Softland" class="aligncenter" style="margin-top: 8px; padding-right: 18px; border-right: 1px solid #4A4A4A;">
+							<picture id="logo-footer-img" class="aligncenter" style="">
+							    <source type="image/webp" data-srcset="https://cdn.novapdf.com/images/softland-logo.webp" data-sizes="100vw">
+							    <img class="lazy" data-src="https://cdn.novapdf.com/images/softland-logo.svg" alt="Softland" style="margin-top:5px;border-right: 1px solid #4A4A4A; padding-right: 18px;">
+							</picture>
 						</div>
 						<div class="col-lg-8 col-md-8 col-xs-12 col-sm-12" style="color:#FFFFFF;">
 							
-<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201904041158 )  -->
+<!--  HTML/Markdown # ( B:1 M:0 L:1 E:1 T:201912051250 )  -->
 <div id="markdown">
-<p><a href="https://www.softlandro.com/">Softland</a> develops software that matters since 1999. Our flagship products are: <a href="https://www.backup4all.com/">Backup4all</a> (backup software) and novaPDF (PDF creation tool).</p>
+<p>We develop software that matters since 1999. These are our products: <a href="https://www.backup4all.com/">Backup4all</a>/<a href="https://www.fbackup.com/">FBackup</a> (backup apps) - novaPDF/<a href="https://www.dopdf.com/">doPDF</a> (PDF creators) - <a href="https://www.soft112.com/">Soft112</a>/<a href="https://www.apps112.com/">Apps112</a> (download portals).</p>
 </div>
-<!--  # HTML/Markdown # v.1.5.4-r.20190301@smart #  -->
+<!--  # HTML/Markdown # v.1.5.4-r.20191127@smart #  -->
 
 						</div>
 					</div>
@@ -661,7 +808,7 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 								<li><a href="//www.novapdf.com/about-us.html">About Us</a></li>
 								<li><a href="//www.novapdf.com/contact-us.html">Contact Us</a></li>
 								<li><a href="//www.novapdf.com/partner-programs.html">Partners</a></li>
-								<li><a href="//www.novapdf.com/supported-languages.html">Languages</a></li>
+								<li><a href="//www.novapdf.com/supported-languages.html">Languages </a></li>
 							</ul>
 						</div>
 
@@ -678,19 +825,19 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 						<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 bottommargin-sm widget_links">
 							<ul>
         <li>
+	<a href="//www.novapdf.com/using-a-pdf-reader-to-view-files-created-by-novapdf-kb.html">Using a PDF reader to view files created by n ...</a><br>
+    </li>
+        <li>
+	<a href="//www.novapdf.com/how-to-configure-the-novapdf-email-tab-kb.html">How to configure the novaPDF Email tab</a><br>
+    </li>
+        <li>
 	<a href="//www.novapdf.com/convert-lit-to-pdf-kb.html">Convert LIT to PDF</a><br>
     </li>
         <li>
-	<a href="//www.novapdf.com/convert-a-web-page-to-pdf-kb.html">Convert a web page to PDF</a><br>
+	<a href="//www.novapdf.com/how-to-set-novapdf-as-a-default-printer-kb.html">How to set novaPDF as a default printer</a><br>
     </li>
         <li>
-	<a href="//www.novapdf.com/novapdf-sdk-are-printer-options-related-to-each-other-do-i-need-to-set-any-option-before-i-can-set-the-save-folder-and-save-folder-options-kb.html">[novaPDF SDK] - Are printer options related t ...</a><br>
-    </li>
-        <li>
-	<a href="//www.novapdf.com/error-a-program-is-trying-to-access-email-addresses-you-have-stored-in-outlook-do-you-want-to-allow-this-kb.html">Error: "A program is trying to access email a ...</a><br>
-    </li>
-        <li>
-	<a href="//www.novapdf.com/publish-presentations-created-by-staroffice-impress-to-pdf-kb.html">Publish presentations created by StarOffice I ...</a><br>
+	<a href="//www.novapdf.com/save-as-pdf-from-coreldraw-kb.html">Save as PDF from CorelDRAW</a><br>
     </li>
     
 </ul>
@@ -734,7 +881,7 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 				</div>
 				<div class="widget clearfix mb-3 mt-1" style="">
 					<div class="widget subscribe-widget clearfix" style="">
-						<h5>Subscribe to our newsletter to get important news, offers and inside scoops:</h5>
+						<h5>Subscribe to our newsletter to get notified when we release a new version.</h5>
 						<div class="widget-subscribe-form-result"></div>
 						<form id="widget-subscribe-form" action="#" method="post" class="nobottommargin" novalidate="novalidate">
 							<div class="input-group divcenter">
@@ -743,13 +890,13 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 								</div>
 								<input id="widget-subscribe-form-email" name="frm[email]" class="form-control required email" placeholder="Enter your Email" type="email">
 								<div class="input-group-append">
-									<button class="btn btn-success" type="button" onclick="window.location = '\/\/www.novapdf.com\/newsletter.html?email='+$('#widget-subscribe-form-email').val();"><i class="fa fa-paper-plane"></i> &nbsp; Subscribe</button>
+									<button class="btn btn-success" type="button" onclick="$(this).html($(this).html().replace('fa fa-paper-plane', 'fa fa-spinner fa-pulse'));$(this).attr('disabled', 'disabled'); setTimeout(function() { window.location = '\/\/www.novapdf.com\/newsletter.html?email='+$('#widget-subscribe-form-email').val(); },400);"><i class="fa fa-paper-plane"></i> &nbsp; Subscribe</button>
 								</div>
 <!--								<div class="clear"></div>
 								<br>
 								<br>
 								<div class="mt-2">
-									<input class="required" name="frm[accept]" placeholder="Privacy policy" type="checkbox" style="display:inline-block;"> <h5 style="display:inline-block;" required>I have read and accept the&nbsp; <a target="privacy-policy" data-smart="open,popup" href="//www.novapdf.com/privacy-policy.html?mode=modal" style="text-decoration:underline!important;">Privacy Policy</a></h5>
+									<input class="required" name="frm[accept]" placeholder="Privacy policy" type="checkbox" style="display:inline-block;"> <h5 style="display:inline-block;" required>I have read and accept the&nbsp; <a target="privacy-policy" data-smart="open,popup" href="//www.novapdf.com/privacy-policy.html?mode=modal" style="text-decoration:underline!important;">Privacy policy</a></h5>
 								</div>-->
 							</div>
 						</form>
@@ -769,9 +916,14 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 
 			<div class="col_two_third mb-xs-0 mb-sm-0">
 				<div class="copyrights-menu clearfix nobottommargin notopmargin" style="font-size:0.875rem;">
-					Copyright © Softland 2003-2019. All rights reserved.
+					Copyright © Softland 2005-2019. All rights reserved.
 					<div class="copyright-links">
-					    <a href="//www.novapdf.com/support-policy.html">Support Policy </a> / <a href="//www.novapdf.com/terms-of-use.html">Terms Of Use </a> / <a href="//www.novapdf.com/privacy-policy.html">Privacy Policy </a>
+					    <a href="//www.novapdf.com/support-policy.html">Support Policy </a> /
+						<a href="//www.novapdf.com/terms-of-use.html">Terms Of Use </a> /
+						<a href="//www.novapdf.com/privacy-policy.html">Privacy Policy </a> /
+						<a href="//www.novapdf.com/sitemap.html">Sitemap </a> /
+						<a href="//www.novapdf.com/forum-sitemap.html">Forum </a> /
+						<a href="//www.novapdf.com/blog-sitemap.html">Blog </a>
 					</div>
 				</div>
 
@@ -809,7 +961,7 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 			<div class="col-12 tleft">
 				<h5 class="mt-1">
 					<div class="list-inline-item mt-3" style="vertical-align:middle;font-size:0.77rem;">We use cookies to offer you a personalized browsing experience and we collect personal data so that you can use our products.</div>
-					<button type="button" id="hid-gdpr" class="fright list-inline-item button button-blue" style="vertical-align:middle;">I AGREE</button>
+					<button type="button" id="hid-gdpr" class="fright list-inline-item button button-blue" style="vertical-align:middle;">I accept</button>
 					<a href="//www.novapdf.com/privacy-policy.html" class="ml-md-2 ml-lg-2 ml-xl-2 list-inline-item button button-border button-rounded button-light fright" title="Permanently hide this notification" style="vertical-align:middle;" target="_blank">Read more</a>
 				</h5>
 			</div>
@@ -844,7 +996,7 @@ Amazon SES is a mailing list provider created and operated by Amazon Inc. It mak
 if(typeof(cartOrigin) == 'undefined'){ // script used only on www, not in blog or in forum
 	$(function() {
 		SmartJS_BrowserUtils.Load_Div_Content_By_Ajax('user-submenu', null, 'myaccount.user-menu.json', 'GET', 'json');
-		var promoTopHtml = '\u003Cdiv id=\u0022promo-top-header\u0022 class=\u0022promo promo-blue promo-full promo-uppercase nopadding nomargin\u0022 style=\u0022padding:0 !important;\u0022\u003E\n\t\u003Cdiv class=\u0022container clearfix m-xs-0 p-xs-0 m-sm-0 p-sm-0 m-md-0 p-sm-0 mx-lg-auto px-lg-auto mx-xl-auto px-xl-auto\u0022 style=\u0022\u0022\u003E\n\t\t\u003Cdiv class=\u0022row\u0022\u003E\n\t\t\t\u003Cdiv class=\u0022col-xs-0 col-sm-0 col-lg-1 col-md-0 col-xl-1\u0022\u003E\n\t\t\t\t\u003Cimg class=\u0022unveil\u0022 data-src=\u0022https:\/\/cdn.novapdf.com\/images\/promo\/pack\/promo-save.png\u0022 class=\u0022d-none d-sm-block list-inline-item\u0022 alt=\u0022Special Promotion\u0022\u003E\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cdiv style=\u0022text-align:center;\u0022 class=\u0022col-xs-12 col-sm-12 col-lg-8 col-md-12 col-xl-9\u0022\u003E\n\t\t\t\t\u003Ca href=\u0022https:\/\/www.novapdf.com\/cart.add-promotion.html?promo_id=NPFP01\u0022\u003E\u003Ch4\u003ELIMITED TIME PROMO: Save $40 with novaPDF PRO Family Pack - Pay 2 Licenses \u0026amp; Get 3\u003C\/h4\u003E\u003C\/a\u003E\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cdiv class=\u0022promo-top-buttons col-xs-12 col-sm-12 col-lg-3 col-md-12 col-xl-2 mb-xs-2 mb-sm-2 mb-md-0 mb-lg-0 mb-xl-0\u0022\u003E\n\t\t\t\t\u003Ca class=\u0022list-inline-item fright\u0022 id=\u0022hid-promo\u0022 title=\u0022Hide this\u0022\u003E\u00d7\u003C\/a\u003E\n\t\t\t\t\u003Ca href=\u0022https:\/\/www.novapdf.com\/cart.add-promotion.html?promo_id=NPFP01\u0022 class=\u0022fleft list-inline-item button button-small button-border button-rounded button-light\u0022\u003EBuy Now \u0026gt;\u0026gt;\u003C\/a\u003E\n\t\t\t\u003C\/div\u003E\n\t\t\u003C\/div\u003E\n\t\u003C\/div\u003E\n\n\u003C\/div\u003E\n\u003Cscript\u003E\n$(\u0027div#promo-top-header.promo\u0027).hide();\n$(function() {\n\tvar nameOfCookie = \u0027site_promobox_lang_\u0027 + smartAppLanguage;\n\tif(SmartJS_BrowserUtils.getCookie(nameOfCookie) \u003E= 1) {\n\t\t$(\u0027div#promo-top-header.promo\u0027).hide();\n\t} else {\n\t\t$(\u0027div#promo-top-header.promo\u0027).show();\n\t}\n\t$(\u0027#hid-promo\u0027).on(\u0027click\u0027, function() {\n\t\tSmartJS_BrowserUtils.setCookie(nameOfCookie, 1, 7, \u0027\/\u0027);\n\t\t$(\u0027div#promo-top-header.promo\u0027).hide();\n\t});\n\tif($(\u0027body\u0027).hasClass(\u0027device-xs\u0027) || $(\u0027body\u0027).hasClass(\u0027device-sm\u0027) || $(\u0027body\u0027).hasClass(\u0027device-md\u0027)) {\n\t\t$(\u0027#promo-top-header img\u0027).hide();\n\t\t$(\u0027#promo-top-header\u0027).css(\u0027max-width\u0027, \u0027100%\u0027);\n      \t$(\u0027#promo-top-header div.container\u0027).css(\u0027max-width\u0027, \u0027100%\u0027);\n\t}\n});\n\u003C\/script\u003E';
+		var promoTopHtml = '\u003Cdiv id=\u0022promo-top-header\u0022 class=\u0022promo promo-blue promo-full promo-uppercase nopadding nomargin\u0022 style=\u0022padding: 10px 0px 0px !important;\u0022\u003E\n\t\u003Cdiv class=\u0022container clearfix m-xs-0 p-xs-0 m-sm-0 p-sm-0 m-md-0 p-sm-0 mx-lg-auto px-lg-auto mx-xl-auto px-xl-auto\u0022 style=\u0022\u0022\u003E\n\t\t\u003Cdiv class=\u0022row\u0022\u003E\n\t\t\t\u003Cdiv class=\u0022col-xs-0 col-sm-0 col-lg-1 col-md-0 col-xl-1\u0022\u003E\n\t\t\t\t\u003Cpicture\u003E\n          \u003Csource type=\u0022image\/webp\u0022 data-srcset=\u0022https:\/\/cdn.novapdf.com\/images\/promo\/pack\/promo-save.webp\u0022\u003E\n\t\t\t\t\t\u003Cimg class=\u0022lazy\u0022 data-src=\u0022https:\/\/cdn.novapdf.com\/images\/promo\/pack\/promo-save.png\u0022 class=\u0022d-none d-sm-block list-inline-item\u0022 alt=\u0022Special Promotion\u0022\u003E\n\t\t\t\t\u003C\/picture\u003E\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cdiv style=\u0022text-align:center;\u0022 class=\u0022col-xs-12 col-sm-12 col-lg-8 col-md-12 col-xl-9\u0022\u003E\n\t\t\t\t\u003Ca href=\u0022https:\/\/www.novapdf.com\/frontend-cart.buy-license.html?v=plimus5\u0026s=NPFP01\u0022\n                   \u003E\u003Ch4\u003ELimited time promo: Save $40 with novaPDF PRO Family Pack - Pay 2 Licenses \u0026amp; Get 3\u003C\/h4\u003E\u003C\/a\u003E\n              \u003C!--class=\u0022buy-now-NPFP01\u0022\n                   data-url=\u0022frontend-cart.buy-license.html?s=NPFP01\u0026v=fastspring\u0022\n\t\t\t\t\tonclick=\u0022processBuyNowButton(\u0027NPFP01\u0027); return false;\u0022--\u003E\n\t\t\t\u003C\/div\u003E\n\t\t\t\u003Cdiv class=\u0022promo-top-buttons col-xs-12 col-sm-12 col-lg-3 col-md-12 col-xl-2 mb-xs-2 mb-sm-2 mb-md-0 mb-lg-0 mb-xl-0\u0022\u003E\n\t\t\t\t\u003Ca class=\u0022list-inline-item fright\u0022 id=\u0022hid-promo\u0022 title=\u0022Hide this\u0022\u003E\u00d7\u003C\/a\u003E\n\n                  \u003Ca href=\u0022https:\/\/www.novapdf.com\/frontend-cart.buy-license.html?v=plimus5\u0026s=NPFP01\u0022\n                   class=\u0022button button-small button-border button-rounded button-light\u0022 style=\u0022text-overflow: ellipsis;overflow: hidden;max-width:140px;\u0022\u003E\u003Ci class=\u0022fa fa-dollar\u0022\u003E\u003C\/i\u003E Buy now\u003C\/a\u003E\n\n              \u003C!--data-url=\u0022frontend-cart.buy-license.html?s=BPFP0b\u0026v=fastspring\u0022\n\t\t\t\t\tonclick=\u0022processBuyNowButton(\u0027BPFP0b\u0027); return false;\u0022\n\t\t\t\tclass!!!! buy-now-BPFP0b\n\t\t\t\t--\u003E\n\n              \u003Ca href=\u0022http:\/\/www.novapdf.baa\/cart.add-promotion.html?promo_id=NPFP01\u0022 data-code=\u0022NPFP01\u0022 data-target=\u0022add-promotion\u0022 class=\u0022add-to-cart text-button\u0022 style=\u0022color:white;text-align:center;\u0022\u003E\u003Ci class=\u0022fa fa-shopping-cart\u0022\u003E\u003C\/i\u003E Add to cart\u003C\/a\u003E\n\t\t\t\u003C\/div\u003E\n\t\t\u003C\/div\u003E\n\t\u003C\/div\u003E\n\n\u003C\/div\u003E\n\u003Cscript\u003E\n$(\u0027div#promo-top-header.promo\u0027).hide();\n$(function() {\n\tvar nameOfCookie = \u0027site_promobox_lang_\u0027 + smartAppLanguage;\n\tif(SmartJS_BrowserUtils.getCookie(nameOfCookie) \u003E= 1) {\n\t\t$(\u0027div#promo-top-header.promo\u0027).hide();\n\t} else {\n\t\t$(\u0027div#promo-top-header.promo\u0027).show();\n\t}\n\t$(\u0027#hid-promo\u0027).on(\u0027click\u0027, function() {\n\t\tSmartJS_BrowserUtils.setCookie(nameOfCookie, 1, 7, \u0027\/\u0027);\n\t\t$(\u0027div#promo-top-header.promo\u0027).hide();\n\t});\n\tif($(\u0027body\u0027).hasClass(\u0027device-xs\u0027) || $(\u0027body\u0027).hasClass(\u0027device-sm\u0027) || $(\u0027body\u0027).hasClass(\u0027device-md\u0027)) {\n\t\t$(\u0027#promo-top-header img\u0027).hide();\n\t\t$(\u0027#promo-top-header\u0027).css(\u0027max-width\u0027, \u0027100%\u0027);\n      \t$(\u0027#promo-top-header div.container\u0027).css(\u0027max-width\u0027, \u0027100%\u0027);\n\t}\n  lazyLoad.update();\n});\n\u003C\/script\u003E';
 		$('#promo-box-top').replaceWith(promoTopHtml);
 		$('#option-select > ul > li > a').on('click hover', function() {
 			$(this).removeClass('ulHidden');
@@ -884,13 +1036,13 @@ if(typeof(cartOrigin) == 'undefined'){ // script used only on www, not in blog o
 <div id="gotoTop" class="fa fa-arrow-up" data-mobile="true"></div>
 
 <!-- Fonts -->
-<!-- <link type="text/css" href="//www.novapdf.com/modules/mod-ui-fonts/fonts/roboto.css?181d5mm" rel="stylesheet" media="none" onload="if(media!='all'){media='all';}">
-<link type="text/css" href="//www.novapdf.com/modules/mod-ui-fonts/fonts/raleway.css?181d5mm" rel="stylesheet" media="none" onload="if(media!='all'){media='all';}">
+<!-- <link type="text/css" href="//www.novapdf.com/modules/mod-ui-fonts/fonts/roboto.css?1kzepej" rel="stylesheet" media="none" onload="if(media!='all'){media='all';}">
+<link type="text/css" href="//www.novapdf.com/modules/mod-ui-fonts/fonts/raleway.css?1kzepej" rel="stylesheet" media="none" onload="if(media!='all'){media='all';}">
 -->
 <link href="https://fonts.googleapis.com/css?family=Raleway:400,400i,700,700i|Roboto:400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet" media="none" onload="if(media!='all'){media='all';}">
-<script src="//www.novapdf.com/modules/mod-frontend-promotion/views/js/promo-ctx.js?181d5mm" async=""></script>
+<!--<script src="//www.novapdf.com/modules/mod-frontend-promotion/views/js/promo-ctx.js?1kzepej" async></script>-->
     
 
-<!-- Smart.Framework PHP/Javascript :: v.3.7.8-r.2019.04.01 @ http://demo.unix-world.org/smart-framework/ -->
-<!-- WebPage Server-Side Metrics [I]:     Total Execution Time = 0.0348241329193 seconds      |      Memory Peak Usage = 1.49 MB      -->
+<!-- Smart.Framework PHP/Javascript :: v.5.2.7-r.2019.11.27 @ http://demo.unix-world.org/smart-framework/ -->
+<!-- WebPage Server-Side Metrics [I]:     Total Execution Time = 0.0363059043884 seconds      |      Memory Peak Usage = 1.57 MB      -->
 </body></html>
