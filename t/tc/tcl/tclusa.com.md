@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tclusa.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607185249id_/https%3A//www.tclusa.com/footer/about-us/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tclusa.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205065348id_/https%3A//www.tclusa.com/footer/about-us/terms-privacy) for the most accurate reproduction.*
 
 # Terms/Privacy | TCL
 
