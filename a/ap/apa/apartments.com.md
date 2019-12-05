@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2019-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190207194840id_/https%3A//www.apartments.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205191536id_/https%3A//www.apartments.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Our Privacy Statement | Apartments.com
 
