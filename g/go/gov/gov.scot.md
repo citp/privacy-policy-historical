@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gov.scot privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404200700id_/https%3A//www.gov.scot/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gov.scot privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205142415id_/https%3A//www.gov.scot/privacy) for the most accurate reproduction.*
 
 # Privacy - gov.scot
 
