@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hopkinsmedicine.org privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627101446id_/https%3A//it.johnshopkins.edu/policies/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hopkinsmedicine.org privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205220645id_/https%3A//it.johnshopkins.edu/policies/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
