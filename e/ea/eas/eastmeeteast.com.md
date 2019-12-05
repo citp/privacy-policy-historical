@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eastmeeteast.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222000100id_/http%3A//www.eastmeeteast.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastmeeteast.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205095614id_/https%3A//www.eastmeeteast.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EastMeetEast
 
 Effective as of 6/12/14
 
-Last Updated 6/12/14
+Last Updated 4/17/19
 
 EastMeetEast, Inc., (" **EastMeetEast** ", " **we** ", " **us** " or " **our** ") is committed to protecting the privacy of our users online. Accordingly we have developed this Privacy Policy (" **Policy** ") to inform you of our policies and procedures regarding the collection, use and disclosure of data we receive from users of www.EastMeetEast.com (the " **Site** "). Our primary goals in collecting information are to provide and improve our Site, services, features and content, to administer your use of the Site (together, the " **Service** ") and to enable users to enjoy and easily navigate the Site.
 
@@ -15,6 +15,8 @@ As used in this policy, the terms "using" and "processing" information include u
 The Service may contain links to other web sites. We are not responsible for the privacy policies and/or practices on other web sites. These other web sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. When linking to another web site, you should read the privacy policy stated on that web site. This Policy only governs information collected on the Service.
 
 Capitalized terms used herein but not otherwise defined herein have the meanings given to them in the TOS.
+
+When you create a profile on EastMeetEast, your personal information may be visible to other applications we own, such as Ricestream.
 
 ## Changes to the Privacy Policy
 
