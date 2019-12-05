@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drbrighten.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328044155id_/https%3A//drbrighten.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drbrighten.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205202154id_/https%3A//drbrighten.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dr. Jolene Brighten
 
