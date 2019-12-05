@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohitink.com privacy policy that was archived on 2018-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180903013518id_/https%3A//rohitink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohitink.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205104637id_/https%3A//rohitink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Rohitink.com
 
