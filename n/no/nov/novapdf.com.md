@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the novapdf.com privacy policy that was archived on 2019-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190404172331id_/https%3A//www.novapdf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novapdf.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205125008id_/https%3A//www.novapdf.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy - novaPDF
 
 ### Privacy Policy
 
@@ -51,7 +51,13 @@ When you contact us via the telephone, any personally identifiable information y
 We have a user forum powered by phpBB (an open source forum software). When you register to become a member of the forum or login and start posting we collect the information you submit to us to allow you access to the forum: a uniquely identifiable user name, your personal password and email address. Any other information is optional and you can decide what information will be displayed publicly. We do not use your email address collected via the forum to send you promotional emails. 
 
 **Newsletter**   
-When you subscribe to our mailing list you provide us a valid email address. This is stored on our hosting company's servers. We use your email address to notify you occasionally of newly released versions or other updates. You can unsubscribe at any time from our mailing database to stop receiving these notifications. 
+
+
+When you subscribe to our mailing list you provide us a valid email address. This is stored on our hosting company's servers. We use your email address to notify you occasionally of newly released versions or other updates. You can unsubscribe at any time from our mailing database to stop receiving these notifications.
+
+During activation you have an option to provide (optionally) your email address as well. If you enter your email address on the activation form, you will be automatically subscribed to our newsletter as well. This is done in order to notify you occasionally of newly released versions or other updates.
+
+You can unsubscribe at any time from our mailing database to stop receiving these notifications from the **About Us - > Newsletter -> Unsubscribe** page here: [](https://www.novapdf.com/newsletter.html?action=unsubscribe)<https://www.novapdf.com/newsletter.html?action=unsubscribe>
 
 **App usage statistics**   
 
