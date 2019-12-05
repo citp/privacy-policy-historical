@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403054726id_/https%3A//www.eatrightpro.org/about-us/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatright.org privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205204152id_/https%3A//www.eatrightpro.org/about-us/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -102,9 +102,7 @@ To operate, maintain, and provide to you the features and functionality of the s
   
 To provide statistics about the usage levels of the Websites and other related information to reputable third parties, but these statistics will not include information which will allow you to be identified.  
   
-                                                             
-
-### HOW DO WE SHARE YOUR INFORMATION? 
+### HOW DO WE SHARE YOUR INFORMATION?
 
 **Disclosure of Your PII or personal data to Third-Parties**  
 Except as provided below, we do not share your information with non-affiliated third parties without your permission. 
