@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the hillreporter.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330162006id_/https%3A//hillreporter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillreporter.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205163852id_/https%3A//hillreporter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - | HillReporter.com
 
-Last modified: May 17, 2018
+Last modified: May 06, 2019
 
 #### Introduction
 
-Hill Reporter (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
+HillReporter.com (“Company” or “We”) respect your privacy and are committed to protecting it through our compliance with this policy.
 
 This policy describes the types of information we may collect from you or that you may provide when you visit the website you linked from or and our practices for collecting, using, maintaining, protecting and disclosing that information.
 
 _**This policy applies to information we collect:**_  
 • On this Website.  
 • In e­mail, text and other electronic messages between you and this Website.  
-• When you interact with our advertising and applications on third­party websites and services, if those applications or advertising include links to this policy.  
+• When you interact with our advertising and applications on third­-party websites and services, if those applications or advertising include links to this policy.  
 • When you post comments on our Website through social websites, such as, but not limited to, Facebook.
 
 _**It does not apply to information collected by:**_  
@@ -67,7 +67,7 @@ We do not collect personal Information automatically, but we may tie this inform
 
 #### Third­-Party Use of Cookies and Other Tracking Technologies
 
-Some content or applications, including advertisements, on the Website are served by third­parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services . They may use this information to provide you with interest­based (behavioral) advertising or other targeted content.
+Some content or applications, including advertisements, on the website are served by third­parties, including advertisers, ad networks and servers, content providers and application providers. These third parties may use cookies alone or in conjunction with web beacons or other tracking technologies to collect information about you when you use our website. The information they collect may be associated with your personal information or they may collect information, including personal information, about your online activities over time and across different websites and other online services. They may use this information to provide you with interest­based (behavioral) advertising or other targeted content.
 
 We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement or other targeted content, you should contact the responsible provider directly. For information about how you can opt out of receiving targeted advertising from many providers, see How We Use and Disclose Your Information.
 
@@ -87,7 +87,7 @@ We only disclose or share your non-public personal information with third partie
 
 • To complete a merger or sale of assets. If we sell all or part of our business or make a sale or transfer of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your information to the party or parties involved in the transaction as part of that transaction.
 
-We do not control third parties’ collection or use of your information to serve interest­based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website http://www.networkadvertising.org/choices/. You may go to the Digital Advertising Alliance site to set advertising preferences for participating companies here: http://www.aboutads.info/choices/. If you are outside of the United States, you may set advertising choices for participating companies here: http://youronlinechoices.eu/.
+We do not control third parties’ collection or use of your information to serve interest­based advertising. However, these third parties may provide you with ways to choose not to have your information collected or used in this way. You can opt out of receiving targeted ads from members of the Network Advertising Initiative (“NAI”) on the NAI’s website <http://www.networkadvertising.org/choices/>. You may go to the Digital Advertising Alliance site to set advertising preferences for participating companies here: <http://www.aboutads.info/choices/>. If you are outside of the United States, you may set advertising choices for participating companies here: <http://youronlinechoices.eu/>.
 
 #### Location of Collected Data
 
@@ -108,4 +108,4 @@ It is our policy to post any changes we make to our privacy policy on this page.
 #### Contact Information
 
 To ask questions or comment about this privacy policy and our privacy practices, contact us at:  
-contact@hillreporter.com
+[contact@hillreporter.com](mailto:contact@hillreporter.com)
