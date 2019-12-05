@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2019-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190129191630id_/https%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipingrock.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205072103id_/https%3A//www.pipingrock.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Piping Rock Health Products
 
