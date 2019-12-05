@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreshare.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323140941id_/https%3A//www.dreshare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreshare.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205011735id_/https%3A//www.dreshare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,4 +47,4 @@ By using our site, you consent to our privacy policy.
 
 **Contacting Us**
 
-If you have any question to this privacy policy then feel free to contact us at this email address: **dreshare5@gmail.com  **
+If you have any question to this privacy policy then feel free to contact us at this email address: **[contact@dreshare.com](mailto:contact@dreshare.com) **
