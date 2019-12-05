@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djtechtools.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331022457id_/https%3A//djtechtools.com/about/dj-techtools-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djtechtools.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205223832id_/https%3A//djtechtools.com/about/dj-techtools-privacy-policy) for the most accurate reproduction.*
 
 # DJ TechTools Privacy Policy - DJ TechTools
 
