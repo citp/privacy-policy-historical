@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aerogarden.com privacy policy that was archived on 2018-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180703064807id_/https%3A//www.aerogarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerogarden.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205140539id_/https%3A//www.aerogarden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,4 +48,4 @@ AeroGrow responds in a timely manner to your questions, concerns, and complaints
 
 Our company and our trusted third parties may collect and share anonymous versions of user information. We may use that information to link to and issue an anonymous cookie containing demographic or intent-based data for online behavioral advertising. Such cookies do not contain personally identifiable information. If you would like to opt out of online behavioral advertising, click on one of the links below. (<http://www.aboutads.info/choices> or <http://networkadvertising.org/choices>) 
 
-*PIPEDA: the following principles to govern the collection, use and disclosure of personal information: accountability, identifying the purposes for the collection of personal information, obtaining consent, limiting collection, limiting use, disclosure and retention, ensuring accuracy, providing adequate security, making information management policies readily available, providing individuals with access to information about themselves, and giving individuals a right to challenge an organization's compliance with these principles. 
+*PIPEDA: the following principles to govern the collection, use and disclosure of personal information: accountability, identifying the purposes for the collection of personal information, obtaining consent, limiting collection, limiting use, disclosure and retention, ensuring accuracy, providing adequate security, making information management policies readily available, providing individuals with access to information about themselves, and giving individuals a right to challenge an organization's compliance with these principles.
