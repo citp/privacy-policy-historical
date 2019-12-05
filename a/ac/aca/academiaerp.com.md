@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the academiaerp.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410005804id_/https%3A//www.academiaerp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academiaerp.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205182930id_/https%3A//www.academiaerp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Academia ERP
+# Privacy Policy: Education ERP | Academia ERP
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retrospectively.
 
@@ -36,4 +36,4 @@ You agree and undertake not to reverse engineer, modify, copy, distribute, trans
 
 #### For any further queries, please contact us:
 
-Serosoft Solutions Pvt Ltd, 5th Floor, Milinda’s Manor 2 RNT Marg, Indore – 1 [info@academiaerp.com](mailto:info@academiaerp.com) +91-731-4010735
+Serosoft Solutions Pvt Ltd, 5th Floor, Milinda’s Manor 2 RNT Marg, Indore – 1 [info@academiaerp.com](mailto:info@academiaerp.com) [+91-731-4010735](tel:+917314010735)
