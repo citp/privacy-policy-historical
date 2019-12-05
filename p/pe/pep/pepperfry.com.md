@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2019-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190424173326id_/https%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepperfry.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205064241id_/https%3A//www.pepperfry.com/privacy-policy.html%3Ftype%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -83,12 +83,12 @@ This page is published and shall be construed in accordance with the provisions 
 
 Further, as per Rule 3(4) of the IT Rules, the Grievance Officer shall acknowledge or respond to Your communication of violation of Rule 3, by any other person, within 36 (thirty six) hours, and the complaints shall be redressed within 1 (one) month from the date of receipt of the complaint.
 
-Accordingly, the Grievance Officer for the purpose of Your personal sensitive information as governed by the Privacy Policy is:
+In accordance with Information Technology Act, 2000 and rules made there under, the name and the contact details of the Grievance Officer are provided :
 
-Name:       **Ms. Bhavika Dave**
+**Ms. Bhavika Dave**  
+801-802, 8th Floor, Tower B, 247 Business Park,  
+LBS Marg, Vikroli (West) Mumbai- 400083.  
+Phone No – 022- 61590000  
+Email id - cs@pepperfry.com 
 
-In the event You have any complaints or concerns with respect to the website or our services, please contact:
-
-Name:        **Mr. Rounak Siriah**
-
-To register your grievance, [click here](https://web.archive.org/write-to-us.html?grvs=1)
+However, for any product or services related complaint or query, please contact **Mr. Rounak Siriah** , (Customer Care). To register your complaint or query , [click here](https://web.archive.org/write-to-us.html?grvs=1)
