@@ -1,93 +1,111 @@
-> *The following text is extracted and transformed from the adecco.com privacy policy that was archived on 2018-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181013051731id_/https%3A//www.adecco.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adecco.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206005252id_/http%3A//www.adecco.com/privacy-policy) for the most accurate reproduction.*
 
 # Adecco Staffing | Privacy Policy
 
-Latest Update: September 2018
+Latest Update: September 2019
 
 Adecco Group AG, Bellerivestrasse 30, 8008 Zürich, Switzerland (“Adecco”, “we” or “us”) is committed to protecting and respecting your privacy.
 
-This Policy (together with other documents referred to herein) describes what personal information we collect from you and how we process your personal information./
+This Policy (together with other documents referred to herein) describes what personal information we collect from you and how we process your personal information.
 
-### Personal information we may collect from you
+There is an index below, so you can go straight to the bits you want if you prefer.
 
-  * We will collect any information you provide to us when you use our contact forms (for example “Application form”) like name, phone number, email address, country and your resume or CV. The provision of your personal information via our contact forms is not a statutory or contractual requirement; however, please note that fields marked with an asterisk (*) are mandatory fields, because we need this information to comply with or respond to your request. 
-  * Other information or personal information you share with us when completing our contact forms or attaching documents is in your sole discretion. 
-  * In some cases, we will also collect ‘sensitive personal information’ (This is information that gets special protection under our privacy laws. It is information about your race or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, genetic or biometric details, sex life and details of any criminal convictions or similar you may be subject to) where we are permitted to do so by law (so in some countries we will ask you about your background for equal opportunities monitoring). Where you choose to give us so called ‘sensitive personal information’, by giving us that information, you agree that we may use it in the way set out in this Privacy Information Statement. 
-  * If you contact us, we will keep a record of that correspondence. 
+## Index
+
+  * Personal data we collect from you
+  * How we use your information
+  * Marketing communications
+  * Sharing with third parties
+  * IP addresses and cookies
+  * Where your personal data is stored and processed.
+  * Do we transfer your data outside of Switzerland?
+  * Data Security
+  * Your rights. How you can access, correct and delete your data
+  * Changes to this Policy
+  * Contact
+
+
+
+### Personal data we collect from you
+
   * We will collect personal information on your visits to the Website including, but not limited to, traffic data, location data, weblogs, content from surveys and contact forms and other communication data and the resources that you access. Our collection of this personal information will make your visit to the Website easier in the future as we will be able to suggest Content that is relevant to you based on the location you access the Website from.
+  * We will collect any information you provide to us when you use our contact forms (for example “Contact”, “Send us a Message”, “Get financial updates”, or “Contact us about working together”). The provision of your personal information via our contact forms is not a statutory or contractual requirement, however, please note that fields marked with an asterisk (*) are mandatory fields; we need this information to comply with or respond to your request. Other information or personal information you share with us when completing our contact forms is in your sole discretion. If you contact us, we will keep a record of that correspondence.
   * We use your personal information to send you direct marketing via e-mail when you opt-in for this purpose in the relevant contact form. You may opt-out of receiving future marketing communications at any time.
-  * We may also store cookies as set out in more detail in our [Cookie Policy](https://web.archive.org/cookie-policy).
+  * When you use our online services, we also store cookies as set out in more detail in our [COOKIE POLICY](https://web.archive.org/cookie-policy).
 
 
 
-### How we use your information
+### How we use your personal information
 
-  1. To provide you with the services you expect us to, like participating in the Davis Cup work experience according to terms and conditions stated in the site;
-  2. To find you suitable jobs/assignments to apply for, helping you with training, or facilitating the process of applying for jobs/assignments. This includes sending your CV to prospective employers for their consideration and keeping you informed of future work opportunities by email, telephone, mail and/or other communication methods; 
-  3. to respond to your request or questions when you contact us.
-  4. to send to you other information – such as Adecco upcoming events or newsletters – that may be of interest to you.
-  5. to further develop, test and improve our website, or other existing or new systems/processes to better serve you; this mainly takes place in the context of new IT systems and processes, so that information about you may be used in the testing of those new IT systems and processes where dummy data cannot fully replicate the operation of that new IT system; 
-  6. to perform studies and statistical and analytical research, for example to compare the effectiveness of our placement of candidates between different business sectors and geographies and seek to identify factors that might influence any differences we identify; 
-  7. to transfer data to third parties (see below); 
-  8. where necessary, to comply with any legal obligation; and
-  9. we may also process your information to: 
-    * promote the security and protection of people, premises, systems and assets;
-    * monitor compliance with internal policies and procedures;
-    * administer communications and other systems used by the Adecco Group (including internal contact databases); 
-    * investigate or respond to incidents and complaints;
-    * in the case of photos or videos of training sessions, to report internally that the training sessions have taken place and their content (for example in internal updates) and also to market similar sessions internally and externally to third parties;
-    * comply with obligations and rights and cooperate with investigations carried out by the police, government or regulators; and
-    * participate in any potential or actual purchase or sale, or joint venture, of all or part of a business or company, that any member of the Adecco Group wishes to participate in.
+Your personal information will be collected and handled by us for the following purposes:
+
+  * To best tailor Content and resources according to your preferences.
+  * To respond to your request or questions when you contact us.
+  * To send you information – such as Adecco upcoming events or newsletters – that may be of interest to you.
+  * To help us create, publish, and improve the Content that is most relevant to you.
+  * To ensure that the Content provided through the Website is presented in the most effective manner for you and for your device.
+  * To allow you to participate in interactive features of our Website, when you choose to do so.
+  * To further develop and improve the Website and systems to better serve you.
 
 
 
-Our use of your information as described above is permitted by applicable data protection law because it is: 
+Our use of your information as described above is permitted by applicable data protection law because it is:
 
-  * necessary for our legitimate interests in pursuing the purposes set out above, and such interests in each case not being overridden by your privacy interests; 
-  * in some cases, necessary to meet our legal or regulatory responsibilities, such as disclosures to authorities, regulators or government bodies; or 
-  * in some cases, necessary for the performance of a task carried out in the public interest and, when we use special categories of personal information, necessary for establishing. exercising or defending legal claims or where the processing relates to personal information manifestly in the public domain;
-  * in limited circumstances, processed with your consent which we obtain from you from time to time, such as when you opt-in to receive marketing communications and news via email.
+  * Necessary for our legitimate interests in pursuing the purposes set out above, and such interests in each case not being overridden by your privacy interests; or
+  * In some cases, necessary to meet our legal or regulatory responsibilities, such as disclosures to authorities, regulators or government bodies; or
+  * In some cases, necessary for the performance of a task carried out in the public interest and, when we use special categories of personal information, necessary for establishing. exercising or defending legal claims or where the processing relates to personal information manifestly in the public domain; or
+  * In limited circumstances, processed with your consent which we obtain from you from time to time, such as when you opt-in to receive marketing communications and news via email. See further information about B2B Communications in “Marketing communications” section below.
 
 
 
-We will keep your information for the longer of the period required in order to meet our legal or regulatory responsibilities. The retention periods of your personal information depend on the respective purpose the data are processed for and the respective tool such personal information are processed in. It is not possible to outline the various retention periods in a reasonably intelligible format under this Policy. The criteria used to determine the applicable retention period are that we will retain the personal information set out in this policy for as long as (i) necessary for the respective purpose, (ii) necessary to carry out our business relationship with you, (iii) you have consented to, and/or (iv) required by applicable statutory retention laws.
+We do not make any solely automated decisions including those based on profiling, that have a legal or similarly significant effect on you. 
 
-### Do you have to give us the personal information we ask for?
+We will keep your information for the longer of the period required in order to meet our legal or regulatory responsibilities. Typically, this is for 2 years.
 
-You are not obliged to provide your personal information to us, but it is more or less impossible for us to work with you and provide our services if you do not.
+### Marketing communications.
 
-### Do we process information about you without any human intervention at all?
+We will only send marketing communications to you, as an individual, if you have consented to us doing so.
 
-Yes we do at times. Adecco may use automated systems/processes and automated decision-making (like profiling) to provide you, and our clients, with the services you request from us. For example, when our clients are looking for candidates for jobs, we may conduct a search of our lists of candidates using automated criteria which takes into account your availability, skillset, pay rate and in some circumstances previous feedback we have received from clients to compile a shortlist which ranks which candidates are most likely to fulfil the client’s requirement. This means that sometimes your position in the rank may be higher than others, depending on how these factors match the clients needs.
+To receive marketing or promotional communications, you can opt-in by checking the relevant box located on the form on which we collect your data.
+
+B2B Communications. If you represent our prospect, partner or customer, either prior to entering into an agreement with Adecco or during a business relationship between Adecco and the legal entity which you represent, we may process your basic contact details (e.g. your name, surname, job position, company name, e-mail, and phone number) so far as necessary to carry out our joint business relationship. In that case, the processing of your personal data is based on our legitimate interest in maintaining and developing our business relationship and customer base, promoting our products, services, and customer loyalty programs. Generally, you cannot opt out of these sorts of communications which are not marketing-related but merely required for the relevant business relationship.
+
+You may easily opt out of receiving any further marketing communications at any time. Simply click the ‘unsubscribe’ or ‘opt-out’ function at the bottom of the email. In addition, you can also exercise your opt-out right at any time by contacting us at [press.office@adecco.com](https://web.archive.org/web/20191206005252id_/http%3A//www.adecco.com/press.office@adecco.com) and providing the following information: your name, your email address, a contact telephone number, the marketing communications you would like to opt out of receiving. the marketing communications you would like to opt out of receiving. 
 
 ### Sharing with third parties
 
 To facilitate our efficient use of your information, and to provide you with the content and/or resources, we disclose your information to third parties. However, this disclosure will only occur in the following circumstances:
 
-To suppliers, contractors and agents. From time to time we may engage or employ other companies and individuals to perform functions on our behalf. We may, for example, engage a supplier to carry out administrative and operational work in support of our relationship with you. The supplier(s) will be subject to contractual and other legal obligations to preserve the confidentiality of your data and to respect your privacy, and will only have access to the data they need to perform their functions; the relevant suppliers are typically IT suppliers (who host or support our IT systems, including information about you), premises management companies (who look after physical security at our buildings, and therefore may need to know about you to allow access to our buildings) and back office finance and accounting management providers (who might need to handle details of candidates in order to process accounts payable and receivable). We may also engage suppliers who provide IT technology services and solutions, which might include video interview and skills assessment tools;
-
-Such recipients will only have access to your personal information as required by them to perform their functions, and are not permitted to use such personal information for any other purposes. These recipients will be subject to contractual confidentiality obligations.
-
-  * To members of the Adecco group of companies in other countries. These may be located in- or outside Switzerland or the European Union; different members of the group fulfil different functions and as result your information may be shared with them for different reasons:
-  * information is shared with members of the Adecco group that provide IT functions for the Adecco companies world-wide; those IT functions are located among others in Czech Republic, France, India, The Netherlands, UK, USA 
-  * information is also shared with Adecco affiliates world-wide where you have expressed an interest in opportunities in that market, or members of the Adecco Group identify that you may have particular skills required or helpful in that market. A list of the countries in which we operate is available in our corporate website at https://www.adeccogroup.com/worldwide-locations/ 
-  * To our clients/prospective employers: we will share your data with clients of ours who are offering jobs/assignments you may be interested in, or who are interested in your profile. They owe contractual and other confidentiality obligations in relation to your data to us, and to you;
-  * We will share your data with government, police, regulators or law enforcement agencies if, at our sole discretion, we consider that we are legally obliged or authorised to do so or it would be prudent to do so; and
-  * As part of due diligence relating to (or implementation of) a merger, acquisition or other business transaction we may need to disclose your data to the prospective seller or buyer and their advisers. 
+  * **To suppliers, contractors and agents:** from time to time we engage or employ other companies and individuals to perform functions on our behalf. This category of third-parties includes: 
+    * HCL (hosting and maintenance services) located at Interxion Amsterdam data center (Netherlands)
+Such recipients will only have access to your personal information as required by them to perform their functions and are not permitted to use such personal information for any other purposes. These recipients will be subject to contractual confidentiality obligations. 
+  * **To other entities belonging to the Adecco Group** (i.e. any companies directly or indirectly controlled by Adecco). A list of Adecco Group companies is included here [www.adeccogroup.com/worldwide-locations](https://www.adeccogroup.com/worldwide-locations/) including their suppliers, contractors and agents, which may be involved in the provision of the Website or the content, so that we can better serve you or, simply, to give response to your requests (e.g. when you use contact us forms). 
+  * **To government or law enforcement authorities** if we determine in our sole discretion that we are under a legal obligation to do so.
 
 
 
 ### IP addresses and cookies
 
-We collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration. This is statistical data about our users’ browsing actions and patterns, and does not identify you or any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on your device. 
+We collect information about your computer, including (where available) your IP address, operating system and browser type, for system administration. This is statistical data about our users’ browsing actions and patterns and does not identify you or any individual.
 
-Cookies help us to improve the Website and to deliver a better and more personalised content. For more information about our use of cookies on the Website, please refer to our [Cookie Policy](https://web.archive.org/cookie-policy/).
+For the same reason, we obtain information about your general internet usage by using a cookie file which is stored on your device. Cookies help us to improve the Website and to deliver a better and more personalised content. For more information about our use of cookies on the Website, please refer to our [Cookie Policy](https://web.archive.org/cookie-policy).
 
 If your computer is shared with other people, we advise that you do not select the ‘remember my details’ option when that option is offered by the Website.
 
+### Where your personal data is stored and processed.
+
+As explained in the “Sharing with third parties” paragraph above, we share your personal information with the following:
+
+  * Third party suppliers, contractors or agents: where we use a third party supplier, contractor or agent, your personal information remains under our control and we have controls in place to ensure your personal information is adequately protected.
+  * Other companies in the Adecco Group: we have entered into a groupwide arrangement to ensure your personal information continues to be subject to an adequate level of protection.
+
+
+
+We endeavour to take all steps reasonably necessary to ensure that your personal information is treated securely and in accordance with this Policy.
+
 ### Do we transfer your data outside of Switzerland?
 
-Your personal information can be transferred and processed in one or more other countries outside of Switzerland. We shall only transfer your data outside Switzerland to countries which provide adequate level of data protection as defined by Swiss data protection law, or where the Adecco Group has put in place appropriate safeguards to seek to preserve the privacy of your information. Those countries include Austria, Belgium, Czech Republic, Demark, Finland, France, Germany, Ireland, Italy, The Netherlands, Norway, Portugal, Spain, Sweden, United Kingdom. 
+Your personal information can be transferred and processed in one or more other countries outside of Switzerland. We shall only transfer your data outside Switzerland to countries which provide adequate level of data protection as defined by Swiss data protection law, or where the Adecco Group has put in place appropriate safeguards to seek to preserve the privacy of your information. Those countries include the United States and United Kingdom.
 
 ### Data Security
 
@@ -97,26 +115,27 @@ Although we will do our best to protect your personal information, you should be
 
 Under applicable data protection laws, you have the following rights:
 
-  * Right to access and obtain a copy of your personal information: You are entitled to request confirmation whether we process any of your personal information. Where this is the case, you may have access to your personal information and to certain information about how it is processed. In some cases you can ask us to provide you with an electronic copy of your information.
-  * Right to correct your personal information: If you can demonstrate that personal information we hold about you is not correct, you can ask that this information is updated or otherwise corrected. 
-  * Right to be forgotten/have data deleted: In certain circumstances you have the right to have your personal data deleted. You may make such a request at any time and Adecco will evaluate if your request should be granted, however this right is subject to any legal rights or obligations we may have to retain data. For situations where in accordance with the law, we determine that your request to have your personal information deleted must be granted, Adecco will do so without undue delay. 
+  * **Right to access and obtain a copy of your personal information:** You are entitled to request confirmation whether we process any of your personal information. Where this is the case, you may have access to your personal information and to certain information about how it is processed. In some cases, you can ask us to provide you with an electronic copy of your information. In some limited circumstances, you also have the right to request portability of your personal information.
+  * **Right to correct your personal information:** If you can demonstrate that the personal information we hold about you is not correct, you can ask that this information is updated or otherwise corrected.
+  * **Right to be forgotten/have data deleted:** In certain circumstances you have the right to have your personal data deleted. You may make such a request at any time and Adecco will evaluate if your request should be granted, however this right is subject to any legal rights or obligations we may have to retain data. For situations where in accordance with the law, we determine that your request to have your personal information deleted must be granted, Adecco will do so without undue delay.
+  * **Right to restrict or object to the processing of your data:** In certain circumstances you have the right to obtain restriction of the processing of your personal information, or to object on certain processing thereof on grounds relating to your particular situation.
 
 
 
-To exercise your rights, you can contact us at the following address: [press.office@adecco.com](mailto:press.office@adecco.com.).
+To exercise your rights, you can contact us at the following address: [press.office@adecco.com](mailto:press.office@adecco.com).
 
-To the extent our processing of your personal information is based on your consent, you also have the right to withdraw your consent at any time. Withdrawal of your consent will not affect the lawfulness of any processing based on your consent before the receipt of such withdrawal. 
+To the extent our processing of your personal information is based on your consent, you also have the right to withdraw your consent at any time. Withdrawal of your consent will not affect the lawfulness of any processing based on your consent before the receipt of such withdrawal.
 
-You can also lodge a complaint about our processing of your personal information with your local data protection authority. 
-
-### Marketing communications.
-
-We will only send marketing communications to you via email where you have consented that we may do so. We will usually offer you a check box on the forms we use to collect your personal information where, if you agree to receive marketing communications, you have to click the box. Where we send marketing communications to you via email, you may opt out of receiving any further marketing communications by clicking the ‘unsubscribe’ or ‘opt-out’ function in the email. In addition, you can also exercise your opt-out right at any time by contacting us at [press.office@adecco.com](mailto:press.office@adecco.com.) and providing the following information: your name, your email address, a contact telephone number, the marketing communications you would like to opt out of receiving. 
+You can also lodge a complaint about our processing of your personal information with the data protection authority of the Member State of your habitual residence, of your place of work, or of an alleged infringement of your rights).
 
 ### Changes to this Policy
 
-The terms of this Policy may change from time to time. We shall publish any material changes to this Policy through appropriate notices either on this website or contacting you using other communication channels. 
+The terms of this Policy may change from time to time. We shall publish any material changes to this Policy through appropriate notices either on this website or contacting you using other communication channels.
 
 ### Contact
 
-Questions, comments and requests regarding this Policy are welcomed and should be addressed to Adecco Group AG, Bellerivestrasse 30, 8008 Zürich, Switzerland, email address: [press.office@adecco.com](mailto:press.office@adecco.com.)
+Questions, comments and requests regarding this Policy are welcomed and should be addressed to Adecco Group AG, Bellerivestrasse 30, 8008 Zürich, Switzerland, email address: [press.office@adecco.com](mailto:press.office@adecco.com).
+
+You can request a copy of mechanisms relating to a specific transfer of your personal information by contacting [press.office@adecco.com](mailto:press.office@adecco.com)
+
+You can also contact our Data Protection Officer at the following address: [adecco.globalprivacy@adecco.com](mailto:adecco.globalprivacy@adecco.com).
