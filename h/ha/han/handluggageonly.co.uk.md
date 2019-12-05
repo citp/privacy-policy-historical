@@ -1,105 +1,106 @@
-> *The following text is extracted and transformed from the handluggageonly.co.uk privacy policy that was archived on 2017-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170730050321id_/https%3A//handluggageonly.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handluggageonly.co.uk privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205120648id_/https%3A//handluggageonly.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hand Luggage Only - Travel, Food & Home Blog
 
-This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+Hand Luggage Only found at <https://handluggageonly.co.uk/> (“Website”) is governed by the following privacy policy (“Privacy Policy”).
 
-**What personal information do we collect from the people that visit our blog, website or app?**
+We respect your privacy and are committed to protecting it. The purpose of this Privacy Policy is to inform you what personally identifiable information we may collect and how it may be used. This statement only applies to this Website.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address Clicks or other details to help you with your experience.
+WHAT INFORMATION DO WE COLLECT AND HOW IS IT USED?
 
-**When do we collect information?**
+Information You Voluntarily Submit to the Website: We may collect personal information from you such as your name or email address. For example, you may voluntarily submit information to the Website by leaving a comment, subscribing to a newsletter, or submitting a contact form. In addition, you are able to create a user profile, which allows you to create a username and password. We will store the username, but your password will not be visible in our records.
 
-We collect information from you when you subscribe to a newsletter or enter information on our site.
+Information We Collect from Others: We may receive information about you from other sources.  You may link your Facebook, Instagram, and/or Google accounts to your user profile.  If you choose to link your Facebook, Instagram, and/or Google accounts to your user profile, we will receive your name, email address and profile picture associated with that account.  The Website utilizes the Facebook commenting system, so if you choose to comment on a Website post, your profile picture will appear.
 
-**How do we use your information?**
+Automatically-Collected Information: We automatically collect certain information about you and the device with which you access the Website. For example, when you use the Website, we will log your IP address, operating system type, browser type, referring website, pages you viewed, and the dates/times when you accessed the Website. We may also collect information about actions you take when using the Website, such as links clicked.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+Cookies: We may log information using cookies, which are small data files stored on your browser by the Website. We may use both session cookies, which expire when you close your browser, and persistent cookies, which stay on your browser until deleted, to provide you with a more personalized experience on the Website.
 
-**•** To allow us to better service you in responding to your customer service requests.
+HOW YOUR INFORMATION MAY BE USED
 
-**How do we protect visitor information?**
+We may use the information collected in the following ways:
 
-We do not use vulnerability scanning and/or scanning to PCI standards.
+  * To operate and maintain the Website;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account; 
+  * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
+  * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
+  * To respond to your comments or inquiries;
+  * To provide you with user support;
+  * To track and measure advertising on the Website;
+  * To protect, investigate, and deter against unauthorized or illegal activity.
 
-We do not use an SSL certificate
 
-**•** We only provide articles and information, and we never ask for personal or private information
 
-**Do we use ‘cookies’?**
+THIRD-PARTY USE OF PERSONAL INFORMATION
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+We may share your information with third parties when you explicitly authorize us to share your information.
 
-**We use cookies to:**
+Additionally, the Website may use third-party service providers to service various aspects of the Website. Each third-party service provider’s use of your personal information is dictated by their respective privacy policies.
 
-**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+The Website currently uses the following third-party service providers:
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser’s Help menu to learn the correct way to modify your cookies.
+Google Analytics – this service tracks Website usage and provides information such as referring websites and user actions on the Website. Google Analytics may capture your IP address, but no other personal information is captured by Google Analytics.
 
-If you disable cookies off, some features will be disabled It won’t affect the users experience that make your site experience more efficient and some of our services will not function properly.
+Mail Chimp – this service is used for delivery of email updates and newsletters. We store your name and email address for purposes of delivering such communications.  Please refer to Mail Chimp’s privacy policy for further information.
 
-However, you can still place orders .
+At this time, your personal information is not shared with any other third-party applications. This list may be amended from time to time in the Website’s sole discretion.
 
-**Third Party Disclosure**
+Except when required by law, we will not sell, distribute, or reveal your email addresses or other personal information without your consent; however, we may disclose or transfer personal information collected through the Website to third parties who acquire all or a portion of our business, which may be the result of a merger, consolidation, or purchase of all or a portion of our assets, or in connection with any bankruptcy or reorganization proceeding brought by or against us.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+ANONYMOUS DATA
 
-**Third party links**
+From time to time, we may use anonymous data, which does not identify you alone, or when combined with data from other parties. This type of anonymous data may be provided to other parties for marketing, advertising, or other uses. Examples of this anonymous data may include analytics or information collected from cookies.
 
-We do not include or offer third party products or services on our website.
+PUBLICLY VISIBLE INFORMATION
 
-**Google**
+If you create a user profile on the Website or leave a comment, certain information may be publicly visible.  To create a user profile, you must choose a username and password and input your email address for profile confirmation.  Your email address will never be available publicly.  At your option, you may also add an avatar, a profile description, and a link to your website.
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+You may also choose to link your Facebook, Instagram, and Google Account.
 
-We have not enabled Google AdSense on our site but we may do so in the future.
+Users may see your username, avatar, profile description and website information.
 
-**California Online Privacy Protection Act**
+COOKIES
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/
+The Website uses cookies to store visitors’ preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Website content based on visitors’ browser type or other information that the visitor sends. Cookies may also be used by third-party services, such as Google Analytics, as described herein.
 
-**According to CalOPPA we agree to the following:**
+Users may, at any time, prevent the setting of cookies, by the Website, by using a corresponding setting of your internet browser and may thus permanently deny the setting of cookies. Furthermore, already set cookies may be deleted at any time via an Internet browser or other software programs. This is possible in all popular Internet browsers. However, if users deactivate the setting of cookies in your Internet browser, not all functions of our Website may be entirely usable.
 
-Users can visit our site anonymously
+ADVERTISING
 
-Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+Display Ads – We may use third-party advertising companies to serve content and advertisements when you visit the Website, which may use cookies, as noted above.
 
-Our Privacy Policy link includes the word ‘Privacy’, and can be easily be found on the page specified above.
+Retargeting Ads – From time to time, the Website may engage in remarketing efforts with third-party companies, such as Google, Facebook, or Instagram, in order to market the Website. These companies use cookies to serve ads based on someone’s past visits to the Website.
 
-Users will be notified of any privacy policy changes:
+Affiliate Program Participation – The Website may engage in affiliate marketing, which is done by embedding tracking links into the Website. If you click on a link for an affiliate partnership, a cookie will be placed on your browser to track any sales for purposes of commissions.
 
-**•** On our Privacy Policy Page
+Hand Luggage Only is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and links to Amazon.com.  As part of this Amazon Associates program, the Website will post customized links, provided by Amazon, to track the referrals to their website. This program utilizes cookies to track visits for the purposes of assigning commission on these sales.
 
-Users are able to change their personal information:
+Newsletters
 
-**•** By logging in to their account
+On the Website, you may subscribe to our newsletter, which may be used for advertising purposes. All newsletters sent may contain tracking pixels. The pixel is embedded in emails and allows an analysis of the success of online marketing campaigns. Because of these tracking pixels, we may see if and when you open an email and which links within the email you click. Also, this allows the Website to adapt the content of future newsletters to the interests of the user. This behavior will not be passed on to third parties.
 
-**How does our site handle do not track signals?**
+RIGHTS RELATED TO YOUR PERSONAL INFORMATION
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+Opt-out – You may opt-out of future email communications by following the unsubscribe links in our emails. You may also notify us at info@handluggageonly.co.uk to be removed from our mailing list.
 
-**Does our site allow third party behavioral tracking?**
+Access – You may access the personal information we have about you by submitting a request to info@handluggageonly.co.uk.
 
-It’s also important to note that we allow third party behavioral tracking
+Amend – You may contact us at info@handluggageonly.co.uk to amend or update your personal information.
 
-**COPPA (Children Online Privacy Protection Act)**
+Forget – In certain situations, you may request that we erase or forget your personal data. To do so, please submit a request to info@handluggageonly.co.uk.
 
-When it comes to the collection of personal information from children under 13, the Children’s Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation’s consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children’s privacy and safety online.
+Please note that we may need to retain certain information for recordkeeping purposes or to complete transactions, or when required by law.
 
-We do not specifically market to children under 13.
+SENSITIVE PERSONAL INFORMATION
 
-**Fair Information Practices**
+At no time should you submit sensitive personal information to the Website. This includes your social security number, information regarding race or ethnic origin, political opinions, religious beliefs, health information, criminal background, or trade union memberships. If you elect to submit such information to us, it will be subject to this Privacy Policy.
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+CHILDREN’S INFORMATION
 
-**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at info@handluggageonly.co.uk and we will use our best efforts to promptly remove such information from our records.
 
-We will notify the users via email
+CONTACT INFORMATION
 
-**•** Within 7 business days
+At any time, please contact us at info@handluggageonly.co.uk  for questions related to this Privacy Policy. 
 
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Last Edited on 2014-09-26
+Last updated: May 4, 2018.
