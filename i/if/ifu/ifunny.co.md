@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ifunny.co privacy policy that was archived on 2019-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190516183056id_/https%3A//ifunny.co/app/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifunny.co privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206004627id_/https%3A//ifunny.co/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - iFunny :)
 
-Last Updated: 01-17-2019
+Last Updated: 09-04-2019
 
 We believe that you should always know what kind of data we collect from you, how we collect it, and how you can have control over your data. We strive to be transparent in our data collection efforts and to provide you with the data that you need to make decisions about our collection of data from you. This is the purpose of our privacy policy.
 
 There are certain things that you should be aware of when using our website and mobile applications. First, the iFunny website and mobile applications are publicly accessible and searchable to users and visitors around the world. This means that anything that you post to the iFunny website and mobile applications may be viewable by third parties. Second, since anything that you post to the iFunny website or mobile applications are tied to your user account, your postings may not be anonymous. If you prefer to protect your privacy while using the iFunny website and mobile applications, we recommend that you use the service under a pseudonym.
 
-When you use the iFunny website and mobile applications, even if you are just browsing, we may collect some basic data from you such as the type of mobile device that you are using and your IP address. If you choose to create a user account, you can choose to share additional data with us, which is outlined below. We also provide you with the ability to limit the data that we collect from you and how we use it.
+When you use the iFunny website and mobile applications, even if you are just browsing, we may collect some basic data from you such as the type of mobile device that you are using, your geographical location, and your IP address. If you choose to create a user account, you can choose to share additional data with us, which is outlined below. We also provide you with the ability to limit the data that we collect from you and how we use it.
 
 We also use your interactions with the iFunny website and mobile applications to show you more relevant content. We may use your posts, comments, likes, and shares to determine what kind of content you are interested in and to provide you with more of it.
 
@@ -28,9 +28,9 @@ We may collect data from you when you voluntarily share it with us. This may inc
 
 We may also collect data from you automatically when you use the iFunny website or mobile applications. This may include the following data:
 
-  * Location Data. We may collect data about your location by collecting and processing your IP address and device settings. We may use this data to tailor our services to your geographic location or to provide you with content that is relevant to your geographic location.
+  * Location Data. We may collect data about your location by collecting and processing your IP address and device settings. We may use this data to provide location-based services, tailor our services to your geographic location, or to provide you with content that is relevant to your geographic location.
   * Technical Data. We may collect technical data about your use of the iFunny website or mobile applications, such as your IP address, your device IDs, your phone number, pages visited, referring web page, your mobile phone model, mobile charrier, search terms, cookie data, your operating system, your geolocation, and your time zone. We may use this data to analyze your use of the iFunny website or mobile applications, to administer and secure our services, to determine how iFunny should allocate resources to its website or mobile applications, and to understand the technical load on iFunny’s servers.
-  * Marketing Data. As a free service, we rely on advertisements to generate revenue to fund the iFunny website and mobile applications. We may collect your IP address, your device IDs, your phone numbers, pages visited, referring web page, mobile phone model, search terms, cookie data, Google Advertising IDs, and Apple Advertising IDs. We may use your data to provide advertisements to you, to measure the effectiveness of advertisements, and to help make those advertisements more relevant to your preferences.
+  * Marketing Data. As a free service, we rely on advertisements to generate revenue to fund the iFunny website and mobile applications. We may collect your IP address, your device IDs, your geographical location, your phone numbers, pages visited, referring web page, mobile phone model, search terms, cookie data, Google Advertising IDs, and Apple Advertising IDs. We may use your data to provide advertisements to you, to determine the relevance of advertisements, to measure the effectiveness of advertisements, and to help make those advertisements more relevant to your preferences.
 
 
 
@@ -50,11 +50,11 @@ We only share your personal data in limited circumstances.
 
 We may share or disclose your personal data with your consent or at your direction.
 
-We may also share your data with certain third parties to aid us in operating the iFunny website or mobile applications. For example, we may share your personal data with third parties, such as analytics providers, to utilize their software tools and measure the effectiveness of our advertisements. We may also share personal data, such as device IDs, with third party advertisers to help them determine whether they should serve an ad to you. The data that we share with these third parties does not include your email address, name, phone number, or username.
+We may also share your data with certain third parties to aid us in operating the iFunny website or mobile applications. For example, we may share your personal data with third parties, such as analytics providers, to utilize their software tools and measure the effectiveness of our advertisements. We may also share personal data, such as device IDs, with third party advertisers to help them determine whether they should serve an ad to you. The data that we share with these third parties does not include your email address, name, phone number, or username, but it may include your geographical location.
 
 We may also share your personal data with our accountants, auditors, insurers, or attorneys where doing so is necessary to protect the interests of iFunny or to comply with any law or regulation.
 
-We may also share your personal data with government or law enforcement agencies when we are required to report our data processing activities, upon receipt of an exigent circumstances request, upon receipt of a duly authorized subpoena or court order, or where doing so is necessary to protect our employees, contractors, or property.
+We may also share your personal data with government or law enforcement agencies when we are required to report our data processing activities, upon receipt of an exigent circumstances request, upon receipt of a duly authorized subpoena or court order, or where doing so is necessary to protect our users, our employees, our contractors, third parties, or property.
 
 Finally, we may share your personal data to a third party if we sell, transfer, or merge any part of our business or assets. In the event that we share your personal data in the sale, transfer, or merger of any part of our business or assets, this Privacy Policy will continue to apply to your personal data when transferred to the new entity.
 
@@ -84,7 +84,7 @@ Our services may include links to third party websites and applications. By clic
 
 ## Responding to Do Not Track Signals
 
-You can generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the [NAI website](http://optout.networkadvertising.org/) and DAA website. Our websites are not currently set up to respond to browser do-not-track signals, but you can configure your browser settings to reject all cookies or prompt you before a cookie is set.
+You can generally opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out pages on the NAI website and DAA website. Our websites are not currently set up to respond to browser do-not-track signals, but you can configure your browser settings to reject all cookies or prompt you before a cookie is set.
 
 ## California Privacy Rights
 
