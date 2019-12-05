@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eternallysunny.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612154432id_/https%3A//eternallysunny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eternallysunny.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205070106id_/https%3A//eternallysunny.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Eternally Sunny
 
 Your privacy is very important to us at Eternally Sunny, and so we have a few fundamental principles that we follow in order to protect it: 
 
