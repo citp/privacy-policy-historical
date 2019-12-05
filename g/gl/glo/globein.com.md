@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globein.com privacy policy that was archived on 2019-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190306004913id_/https%3A//globein.com/globein-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globein.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205011802id_/https%3A//globein.com/globein-privacy-policy) for the most accurate reproduction.*
 
 # GlobeIn Privacy Policy | GlobeIn
 
