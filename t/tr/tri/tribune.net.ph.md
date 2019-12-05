@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tribune.net.ph privacy policy that was archived on 2019-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190111205825id_/https%3A//tribune.net.ph/index.php/privacy-policy-3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tribune.net.ph privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205045241id_/https%3A//tribune.net.ph/index.php/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Tribune
 
 Effective date: September 09, 2018
 
-CONCEPT & INFORMATION GROUP INC (“us”, “we”, or “our”) operates the http://tribune.net.ph/ website (the “Service”).
+CONCEPT & INFORMATION GROUP INC (“us”, “we”, or “our”) operates the _Daily Tribune_ website (<https://tribune.net.ph/>).
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for CONCEPT & INFORMATION GROUP INC is managed through [Free Privacy Policy](https://www.freeprivacypolicy.com/free-privacy-policy-generator.php).
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from http://tribune.net.ph/
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from <https://tribune.net.ph/>
 
 ## Information Collection And Use
 
@@ -118,6 +118,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: centraldesk@tribune.net.ph
+  * By email: [centraldesk@tribune.net.ph](mailto:centraldesk@tribune.net.ph)
 
 
