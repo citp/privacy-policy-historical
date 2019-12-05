@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiteonricecouple.com privacy policy that was archived on 2018-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181004122047id_/https%3A//whiteonricecouple.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiteonricecouple.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206004459id_/https%3A//whiteonricecouple.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | White On Rice Couple
 
