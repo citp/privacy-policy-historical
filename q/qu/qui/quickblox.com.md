@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quickblox.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428082411id_/https%3A//quickblox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickblox.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205202334id_/https%3A//quickblox.com/privacy) for the most accurate reproduction.*
 
-# Our Privacy Policy | QuickBlox
+# Privacy Policy - QuickBlox
 
 This privacy policy explains how [QuickBlox](https://web.archive.org/) (“we”) processes your personal data and deliver our web services. Please read it carefully, as it specifies which rights you have and how you can exercise your rights.
 
-## Our web service
+## **Our web service**
 
 We operate a web service that provides support for mobile phone applications. Our service may store information about mobile devices that it communicates with via our API’s or mobile applications.
 
