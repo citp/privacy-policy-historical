@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graniteschools.org privacy policy that was archived on 2017-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170923021548id_/http%3A//www.graniteschools.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graniteschools.org privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205131819id_/http%3A//www.graniteschools.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
