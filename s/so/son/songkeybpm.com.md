@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the songkeybpm.com privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323172816id_/https%3A//tunebat.com/Document/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songkeybpm.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205210630id_/https%3A//tunebat.com/Document/Privacy) for the most accurate reproduction.*
 
 # Tunebat Privacy Policy / Terms of Service
 
