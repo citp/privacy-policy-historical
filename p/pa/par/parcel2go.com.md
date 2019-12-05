@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616095036id_/https%3A//www.parcel2go.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcel2go.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205062004id_/https%3A//www.parcel2go.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Parcel2Go
 
@@ -54,6 +54,8 @@ When you visit our website, we may collect the following information:
   * Where orders originate from advertising sources, we record the source of each order. This is purely to allow us to assess the effectiveness of these adverts and is not used for customer profiling of any kind.
 
 
+
+If you choose to pay for your goods with a credit or debit card, we will store an encrypted reference to your card known as a ‘token’. This helps us to keep your data secure by enabling further payments to be processed without us storing your sensitive card details. This allows you to use your card in the future without re-adding your details, and we may use this to charge your card for any surcharges charged to Parcel2go by the courier. The reasons for these charges include, but are not limited to, a customer under-declaring the weight or size of their parcel, or for any packaging that a courier states is unsuitable” (in accordance with our terms and conditions).
 
 Our website is not intended for children and we do not knowingly collect data relating to children.
 
@@ -304,13 +306,31 @@ x
 
 x  
   
+For the provision and operation of referral marketing programmes
+
+|  |  | 
+
+x  
+  
+Determining the effectiveness of promotional campaigns or advertising
+
+|  |  | 
+
+x  
+  
+Enhancing your Direct Marketing and Promotional Activity Experience
+
+|  |  | 
+
+x  
+  
 **Change of purpose**
 
 We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal information for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
 Please note that we may process your personal information without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-**Who do we share your personal information with?**
+### Who do we share your personal information with?
 
 **Sharing your information within our company and group**
 
@@ -318,13 +338,14 @@ We share the information that you provide to us with our staff so that we can pr
 
 We may share the information that you provide to us with other companies within the group and other websites that we operate.
 
-Sharing your information with third parties
+**Sharing your information with third parties**
 
 We may share your data with selected third parties. For example, we may share your information with:
 
   * Internet hosting providers to host the website, related infrastructure, services and applications
   * Couriers to provide courier services
   * Contact management systems to send emails, instant messages, social media messages and SMS messages
+  * Service providers who support us in the operation of our refer-a-friend programme
 
 
 
@@ -484,7 +505,7 @@ Once registered on our website you can allow us to electronically access your ma
 
 Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our privacy policy.
 
-This version was last updated on 04/05/2018 and historic versions can be obtained by contacting us.
+This version was last updated on 28/11/2019 and historic versions can be obtained by contacting us.
 
 ### Complaints
 
