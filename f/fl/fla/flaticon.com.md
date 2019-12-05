@@ -1,27 +1,25 @@
-> *The following text is extracted and transformed from the flaticon.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330082324id_/https%3A//www.flaticon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flaticon.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205223644id_/https%3A//www.freepikcompany.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - Flaticon
-
-[ _ _ ](https://www.flaticon.com/ "Flaticon - The largest database of free icons")
+# Freepik Company
 
 ###### July 2018
 
-FREEPIK COMPANY, S. L. is the owner and, therefore, responsible for the projects indicated below, including any of their subdomains or sections (hereinafter, “Website” as corresponds):
+FREEPIK COMPANY, S. L. is the owner and, therefore, responsible for the projects indicated below, including any of their subdomains or sections (hereinafter, "Website" as corresponds):
 
   * [www.freepik.com](https://www.freepik.com/) and [www.freepik.es](https://www.freepik.es/)
   * [www.flaticon.com](https://www.flaticon.com/) and [www.flaticon.es](https://www.flaticon.es/)
-  * [www.tutpad.com](https://www.tutpad.com/) and [www.tutpad.es](https://www.tutpad.es/)
+  * [www.slidesgo.com](https://www.slidesgo.com/)
   * [https://www.piktab.com](https://www.piktab.com/)
 
 
 
 This legal text applies to the information we collect from you when you visit our Website, as in the following cases: user registration, using any of our services, collaboration, subscription to our newsletters or personal information provided when filling in online forms.
 
-The present Privacy Policy regulates the processing of personal data belonging to the Website’s users (hereinafter, “User” or “Users”, as applicable) performed by Freepik Company, S.L. (hereinafter, “Freepik Company”), collected through the use of the services offered on the Website (hereinafter, “Services”).
+The present Privacy Policy regulates the processing of personal data belonging to the Website’s users (hereinafter, "User" or "Users", as applicable) performed by Freepik Company, S.L. (hereinafter, "Freepik Company"), collected through the use of the services offered on the Website (hereinafter, "Services").
 
 By using and accessing our Website, the User acknowledges that they have read this Privacy Policy and that they fully agree with it. The latest update of this Privacy Policy is indicated at the top of this text and it will become effective immediately upon being posted. Freepik Company, thus, recommends reviewing this Privacy Policy from time to time.
 
-Some of the Services offered on the Website may be subject to specific privacy policies that will supplement this general Privacy Policy or, in case they differ from the terms of this Privacy Policy, they will substitute the present Privacy Policy. These additional privacy policies must be accepted by the User before initiating the corresponding Service. Additionally, the access and use of the Website and the accompanying Services are governed by the [Terms of Use](https://www.flaticon.com/terms-of-use "Terms of Use") of the Website.
+Some of the Services offered on the Website may be subject to specific privacy policies that will supplement this general Privacy Policy or, in case they differ from the terms of this Privacy Policy, they will substitute the present Privacy Policy. These additional privacy policies must be accepted by the User before initiating the corresponding Service. Additionally, the access and use of the Website and the accompanying Services are governed by the [Terms of Use](https://web.archive.org/legal "Terms of Use") of the Website.
 
 ###### PERSONAL DATA PROCESSING
 
@@ -31,16 +29,16 @@ The following sections address the collection and processing of Users’ persona
 
 FREEPIK COMPANY, S.L, as data controller, is responsible for the processing of Users’ personal information on the Website: FREEPIK COMPANY, S.L.
 
-C/ Molina Lario, 13, 5º,  
+C/ Molina Larios, 13, 5º,  
 29015, Málaga (Spain)  
 Tax ID No. B93183366  
-Email: [info@flaticon.com](mailto:info@flaticon.com) or [support@flaticon.com](mailto:support@flaticon.com).
+Email: [info@freepik.com](mailto:info@freepik.com) or [support@freepik.com](mailto:support@freepik.com). 
 
 #### 2\. Data Protection Officer
 
 Espacio Legal Asesores Jurídicos y Financieros, S. L. 
 
-Email: [rpd@flaticon.com](mailto:rpd@flaticon.com)
+Email: [rpd@freepik.com](mailto:rpd@freepik.com)
 
 #### 3\. Data We Collect
 
@@ -73,15 +71,15 @@ Freepik Company collects data through different interactions, which include:
 
 Generally, Users navigate our Website anonymously without revealing any personal data to Freepik Company.
 
-When a User visits and uses our Website, it stores and collects information automatically using technologies or automatic tools. In general, this collected information is related to technical information about the device, browsing activity and usage patterns. We collect this data through the use of cookies and similar technologies. If you want to learn more about it, you can consult here our [Cookies Policy](https://www.flaticon.com/cookies-policy).
+When a User visits and uses our Website, it stores and collects information automatically using technologies or automatic tools. In general, this collected information is related to technical information about the device, browsing activity and usage patterns. We collect this data through the use of cookies and similar technologies. If you want to learn more about it, you can consult here our [Cookies Policy](https://web.archive.org/cookie).
 
-Moreover, we also store information about the number of downloads and searches run by the User. This information is collected in order to control the number of downloads by the User in compliance with the [Terms of Use](https://www.flaticon.com/terms-of-use "Terms of Use") of this Website and to detect fraudulent and illegitimate usages of the Website, if any. In addition, we use personal information to perform analyses that help us to improve the quality of our Website, offer new products and ensure our Users’ satisfaction.
+Moreover, we also store information about the number of downloads and searches run by the User. This information is collected in order to control the number of downloads by the User in compliance with the [Terms of Use](https://web.archive.org/legal "Terms of Use") of this Website and to detect fraudulent and illegitimate usages of the Website, if any. In addition, we use personal information to perform analyses that help us to improve the quality of our Website, offer new products and ensure our Users’ satisfaction.
 
 ###### 2\. User registration, subscription to Premium services or subscription to newsletters:
 
 **User Registration:**
 
-When a User registers on our Website or subscribes to our informative newsletter, Freepik Company stores data to develop the Website, provide the service (free or premium) and offer certain features and options related to the service itself. We also use this data to send information, offers, promotional communications and news about the Services offered by Freepik Company, sponsors or third-parties, which provide services and products within the creative sector through newsletters or any other communication method (including e-mail and phone number). The User can choose not to receive this information at any moment through the user account or by sending an email to [rpd@flaticon.com](mailto:rpd@flaticon.com).
+When a User registers on our Website or subscribes to our informative newsletter, Freepik Company stores data to develop the Website, provide the service (free or premium) and offer certain features and options related to the service itself. We also use this data to send information, offers, promotional communications and news about the Services offered by Freepik Company, sponsors or third-parties, which provide services and products within the creative sector through newsletters or any other communication method (including e-mail and phone number). The User can choose not to receive this information at any moment through the user account or by sending an email to [rpd@freepik.com](mailto:rpd@freepik.com).
 
 When a User purchases any of the Premium services, they will be asked to provide additional data such as first name, last name, number of ID card (identity data) and payment and billing data (financial data), so that we can process and perform the services requested by the User.
 
@@ -89,21 +87,21 @@ Payment and billing data, which depend on the payment method selected by the Use
 
 ###### 3\. Requests for information about products, services or publications, and requests for Website’s support services:
 
-**“Contact” and “Support” Forms:**
+**"Contact" and "Support" Forms:**
 
-Any information received by Freepik Company will be stored in a file of Freepik Company and will be used merely to respond to inquiries, suggestions or complaints sent by the Website’s Users. This information include data collected from Contact forms, from the section ‘Can we help you?’, from satisfaction surveys as well as other information received via these two email addresses: [info@flaticon.com](mailto:info@flaticon.com) or [support@flaticon.com](mailto:support@flaticon.com).
+Any information received by Freepik Company will be stored in a file of Freepik Company and will be used merely to respond to inquiries, suggestions or complaints sent by the Website’s Users. This information include data collected from Contact forms, from the section ‘Can we help you?’, from satisfaction surveys as well as other information received via these two email addresses: [info@freepik.com](mailto:info@freepik.com) or [support@freepik.com](mailto:support@freepik.com).
 
 ###### 4.Information provided through job and collaboration offers:
 
-**“Jobs” and “Join Us” Forms:**
+**"Jobs" and "Join Us" Forms:**
 
-Any information provided to Freepik Company through the ‘Jobs” and “Join Us” forms available on the Website, will be stored in a file belonging to Freepik Company and it will be only used to manage internal recruitment processes.
+Any information provided to Freepik Company through the ‘Jobs" and "Join Us" forms available on the Website, will be stored in a file belonging to Freepik Company and it will be only used to manage internal recruitment processes.
 
 Furthermore, if the individual enters our internal recruitment process further to their application being accepted, we will request and collect all the necessary information as it is established by the Spanish labor and tax legislation.
 
-**“We’re Hiring” Form:**
+**"We’re Hiring" Form:**
 
-Any information provided to Freepik Company requesting for collaboration with any of their projects (Freepik, Flaticon, Tutpad or Piktab), will be stored in a file belonging to Freppik Company and it will be only used to manage recruitment processes of external collaborators.
+Any information provided to Freepik Company requesting for collaboration with any of their projects (Freepik, Flaticon, slidesgo or Piktab), will be stored in a file belonging to Freppik Company and it will be only used to manage recruitment processes of external collaborators.
 
 Furthermore, if the individual enters our internal recruitment process further to their application being accepted, we will request and collect all the necessary information as it is established by the Spanish labor and tax legislation.
 
@@ -214,11 +212,11 @@ We store personal information for as long as is needed to fulfill the purposes o
 
 Freepik Company does not transfer nor share collected personal data with third parties external to the company. The information provided will only be used for identifying the User and managing the account on the Website.
 
-Our Website includes plugins which allow the User to carry out actions on social networks of third parties such as Facebook, Twitter or Pinterest, like, for instance, sending a publication or showing support to the Website. These plugins are indicated with the corresponding social network logotype. If these plugins are accepted, the content will be transferred to the corresponding social network. The User can find information regarding plugins and how they process personal data in the privacy statements of these social networks. If the User does not want their data to be collected by these social networks, they must not accept plugins and must sign out of their account before navigating the Website.
+Our Website includes plugins which allow the User to carry out actions on social networks of third parties such as Facebook, Twitter, Pinterest or Google , like, for instance, sending a publication or showing support to the Website. These plugins are indicated with the corresponding social network logotype. If these plugins are accepted, the content will be transferred to the corresponding social network. The User can find information regarding plugins and how they process personal data in the privacy statements of these social networks. If the User does not want their data to be collected by these social networks, they must not accept plugins and must sign out of their account before navigating the Website.
 
 In addition, the Website may include extensions of Google apps, like Google Docs. Please notice that Freepik Company does not collect personal data when using Google apps within the Website nor share it with third parties.
 
-We may disclose personal information of our Users to third parties only in cases when it is strictly necessary for Freepik Company to perform their functions and to comply with the [Terms of Use](https://www.flaticon.com/terms-of-use "Terms of Use"). We may also share personal information with other third parties to ensure compliance with applicable laws, including:
+We may disclose personal information of our Users to third parties only in cases when it is strictly necessary for Freepik Company to perform their functions and to comply with the [Terms of Use](https://web.archive.org/legal "Terms of Use"). We may also share personal information with other third parties to ensure compliance with applicable laws, including:
 
   * Service providers, to manage systems and information technology.
   * Payment platforms, banks and companies involved in the transaction process, to ensure the fulfillment of the necessary transactions.
@@ -233,7 +231,7 @@ Freepik Company, in compliance with User privacy and data protection of Users, w
 
 Freepik guarantees the exercise of rights established in the General Data Protection Regulation 2016/679 (hereinafter, GDPR), that will start to be applicable on 25th of May, 2018.
 
-The User can exercise the rights described below in the following ways: logging in the User account by clicking on this [link](https://www.flaticon.com/profile/login), through the [support form](https://support.flaticon.com/hc/en-us/categories/200466151-General-questions) available on the Website or by emailing us at [rpd@flaticon.com](mailto:rpd@flaticon.com).
+The User can exercise the rights described below in the following ways: logging in the User account by clicking on this [link](https://www.freepik.com/profile/login), through the [support form](https://support.freepik.com/hc/en-us) available on the Website or by emailing us at [rpd@freepik.com](mailto:rpd@freepik.com).
 
 Please note that Freepik Company may require the User to verify their identity before taking action on the request for the exercise of rights.
 
@@ -241,14 +239,14 @@ The User has the following rights:
 
   1. **Right to Access:** The User has the right to obtain from Freepik Company confirmation about whether or not personal data concerning them are being processed and, if that is the case, receive information about it.
   2. **Right to Rectification:** The User has the right to request us to correct personal data where it is inaccurate or incorrect. When requesting for rectification, the User must indicate the data to be rectified and provide the correct information. In addition, where necessary, the request must be sent together with supplementary documentation that accounts for the incomplete or inaccurate data.
-  3. **Right to Erasure:** The User has the right to request the erasure of personal data concerning their personal account. Therefore, individuals can close their User Account at any moment in an easy and straightforward way by clicking on the following [link](https://www.flaticon.com/profile/me) (Edit Profile -> Close Account).  
+  3. **Right to Erasure:** The User has the right to request the erasure of personal data concerning their personal account. Therefore, individuals can close their User Account at any moment in an easy and straightforward way by clicking on the following [link](https://www.freepik.com/profile/me) (Edit Profile -> Close Account).  
 When requesting for terminating the account and, therefore, erasing all personal information, the User must note the following: 
     * Freepik Company may keep and use personal information where it is necessary in compliance with the legal obligations enforced by fiscal obligations and connected to judicial information and auditing.
     * If the User sends an erasure request, the personal data will be erased from the safety back-up systems at Freepik when the next back-up is done.
   4. **Right to Object:** The User has the right to object to the processing of their personal data by Freepik Company at any time. In some cases, we may continue processing personal information because of legitimate grounds or for the exercise or defense of possible legal claims.  
 Please note that when the User requests for terminating with data processing for marketing purposes, the request can be submitted in the following ways: 
-    * By clicking on the “unsubscribe” link that the User can find in our emails.
-    * By accessing the User Account, clicking on this [link](https://www.flaticon.com/profile/me). (Go to Edit Profile, and deactivate “Notifications”, then click on “Save changes”).
+    * By clicking on the "unsubscribe" link that the User can find in our emails.
+    * By accessing the User Account, clicking on this [link](https://www.freepik.com/profile/me). (Go to Edit Profile, and deactivate "Notifications", then click on "Save changes").
   5. **Right to Restrict Processing:** The User has the right to request the restriction of personal data where they have particular reason for wanting the restrictions.  
 This right entitles the User to request the restriction of personal data in the following circumstances: 
     * The accuracy of the personal data is contested by the User, while Freepik Company verifies the accuracy of the personal data.
@@ -259,7 +257,7 @@ Furthermore, the User has the right to request us to retain their personal data 
     * The processing is unlawful and the User opposes the erasure of the personal data and requests the restriction of their use instead
     * Freepik Company no longer needs the personal data for the purposes of the processing, but they are required by the User for the establishment, exercise or defense of legal claims.
   6. **Right to Data Portability:** The User has the right to request us a copy of the personal information provided to Freepik Company in a structured form and of common and legible use. The user is also entitled to request that this information be sent to another service provider (where technically possible).
-  7. **Right to Withdraw Consent:** In the cases in which the User has authorized their data processing, the User has the right to withdraw their consent at any time. The withdrawal of consent can be made effective by changing the settings in their [User Account](https://www.flaticon.com/profile/me), through the [support form](https://support.flaticon.com/hc/en-us/categories/200466151-General-questions) available on the Website or by emailing us to [rpd@flaticon.com](mailto:rpd@flaticon.com), indicating specifically the consent they wish to revoke. Please note that revocation of consent does not affect the lawfulness of processing based on consent before its withdrawal. 
+  7. **Right to Withdraw Consent:** In the cases in which the User has authorized their data processing, the User has the right to withdraw their consent at any time. The withdrawal of consent can be made effective by changing the settings in their [User Account](https://www.freepik.com/profile/me), through the [support form](https://support.freepik.com/hc/en-us) available on the Website or by emailing us to [rpd@freepik.com](mailto:rpd@freepik.com), indicating specifically the consent they wish to revoke. Please note that revocation of consent does not affect the lawfulness of processing based on consent before its withdrawal. 
 
 
 
@@ -283,65 +281,4 @@ In any case, and concerning international data transfers, Freepik Company commit
 
 #### 11\. Complaint Submission
 
-If you, the User, do not agree with the way Freepik Company processes your personal data, you can contact us by sending an email to [rpd@flaticon.com](mailto:rpd@flaticon.com) or by contacting directly to the **Spanish Data Protection Agency** (Agencia Española de Protección de Datos, AEPD, in Spanish) here [www.aepd.es](http://www.aepd.es/).
-
-### Download options
-
-Collection: ****
-
-Pack: ****
-
-###### Hey! Remember you have to credit the author
-
-Copy the following link into the website you'll use this resource on. If you want to know more, read the [**Attribution Guide**](https://support.flaticon.com/hc/en-us/articles/207248209-How-I-must-insert-the-attribution-).
-
-  * ## Introducing collections
-
-Collections are the core of our web app. Do you want to know how to use them? Press next to watch the guide.
-
-**1** of 9 
-  * ## Collections list
-
-This is a list of your collections. You can change their names and they are sorted by use. Click on one of them to start using it.
-
-**2** of 9 
-  * ## Create a collection
-
-Click on this button to create a collection.
-
-**3** of 9 
-  * ## Change name
-
-Click here to change the name of the collection 
-
-**4** of 9 
-  * ## Active collection
-
-This is your active collection. One collection can have up to 256 icons if you are a registered user or 50 if you are not registered.
-
-**5** of 9 
-  * ## Color
-
-Add color to all the icons in your collection.
-
-**6** of 9 
-  * ## Edit mode
-
-Enter the edit mode by clicking the pencil icon to edit the name and color of each icon separately.
-
-**7** of 9 
-  * ## Delete
-
-Have you finished with this collection? Delete it and create a new one here.
-
-**8** of 9 
-  * ## Enjoy!
-
-And that is all, if you have any question you can contact our support team [here](https://support.flaticon.com/hc/en-us/categories/200466151-General-questions).
-
-  
-Thank you for using Flaticon, we hope you enjoy our service
-
-**9** of 9 
-
-
+If you, the User, do not agree with the way Freepik Company processes your personal data, you can contact us by sending an email to [rpd@freepik.com](mailto:rpd@freepik.com) or by contacting directly to the **Spanish Data Protection Agency** (Agencia Española de Protección de Datos, AEPD, in Spanish) here [www.aepd.es](http://www.aepd.es/). 
