@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energizer.com privacy policy that was archived on 2018-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181219222757id_/http%3A//www.energizerholdings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energizer.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205201906id_/http%3A//www.energizerholdings.com/privacy-policy) for the most accurate reproduction.*
 
 # Energizer Holdings Website Privacy Policy
 
