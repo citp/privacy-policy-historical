@@ -1,30 +1,47 @@
-> *The following text is extracted and transformed from the profitaccumulator.co.uk privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526055749id_/https%3A//www.profitaccumulator.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitaccumulator.co.uk privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205015615id_/https%3A//www.profitaccumulator.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Profit Accumulator
 
+Profit Accumulator LTD (the "Company", "we", or "us") is committed to protecting and respecting your privacy.
+
+This policy (together with our website terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+
+If you are a visitor located in the European Economic Area ("EEA"), Profit Accumulator LTD is the data controller of your personal information. Our Data Protection Officer can be contacted at support@profitaccumulator.co.uk.
+
+We periodically update this Privacy Policy. We will post any privacy policy changes on this page.
+
 **Information We Collect**
 
-We collect the information you provide when you use our Services, including when you sign up for an account or an affiliate account. This may include your name, email address, IP address and Paypal payment ID.
+  * **Information you give us**. This is information that you give us by filling in forms on our site, www.profitaccumulator.co.uk, ("our site") or by corresponding with us by phone, email or otherwise. It includes information that you provide when you register to use our site, subscribe to our service, participate in discussion boards, enter a competition, promotion or survey, and when you contact us via email, live chat, or phone. The information may include your name, address, email address, phone number, financial and credit card information, personal description, any images you upload to the forum.
 
-We also collect information about how you use our services, such as how frequently you visit and where you access from, including the type of device used to access.
 
-We do not store credit card or any other financial details. Payments are handled securely by PayPal, a payment processing company.
+  * **Information we collect about you.** With regard to each of your visits to our site, we will automatically collect the following information: Technical information, including the internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platform; Information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our site (including date and time), pages you viewed, elements you clicked on, forms you submitted, page response times, download errors, length of visits to certain pages, scrolling and mouse-overs, methods used to browse away from the page, and any phone number used to call our customer service number.
 
-If you link your Betfair or Smarkets accounts with our integration tool, this is the data that we store:
 
-  * Details of bets that have flagged error messages;
-  * Time of bet;
-  * Amount bet;
-  * Details of teams and matches;
-  * Exchange username linked to that bet.
+  * **Information we receive from other sources.  **This is information that we receive about you if you use any of the other websites that we operate or the other services that we provide. In this case, we will have informed you when we collected that data if we intend to share such data internally and combine it with data collected on our site. We will also have told you for what purpose we will share and combine your data. We will also have told you for what purpose we will share and combine your data. We work closely with selected third parties (including, for example, business partners, sub-contractors in technical, payment and delivery services, advertising networks, analytics providers, search information providers, credit reference agencies, customer relationship management services) and will notify you when we receive information about you from them and the purposes for which we intend to use that information.
+
+
+  * **Bet placement information.  **If you link any of your betting accounts to our software, we store data including bets placed, time of bet, amount of bet, odds of bet, details of teams and matches, betting username linked to the bet.
 
 
 
-All your personal data is stored on secure servers.
+This list is not exhaustive and, in specific instances, we may need to collect additional data for the purposes set out in this policy.
+
+**Information About Children**
+
+The Websites are not intended for or targeted at children under 18, and we do not knowingly or intentionally collect information about children under 18. If you believe that we have collected information about a child under 18, please contact us at support@profitaccumulator.co.uk, so that we may delete the information.
 
 **How Do We Use And Share This Information?**
 
-We use your information to send you marketing communications (from us, relating to the service we provide) or to communicate with you about our Services directly. We also collect data on how you use our website, so that we may create improvements to our Services. We use the information to promote safety and security and by investigating suspicious activities or violations of our terms of service.
+  * To carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us;
+  * To provide you with information about other goods and services that we offer that are similar to those that you have already purchased or enquired about;
+  * To provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (email or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you;
+  * To improve your browsing experience by personalising the website and to improve the service;
+  * To provide statistical information about our users to other companies -- but this information will not be used to identify any individual user;
+  * To send information to you regarding changes to our Customer Terms of Service, Privacy Policy (including the Cookie Policy), or other legal agreements;
+  * To improve safety and security by investigating suspicious activities or violation of our terms of service;
+
+
 
 We use Google Analytics to monitor traffic information related to our website. You can find out how Google uses that information here: <http://www.google.com/policies/privacy/partners/>.
 
@@ -40,14 +57,21 @@ If you post on the Platinum forums, we may quote, screenshot or otherwise refer 
 
 ## Cookies
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. By continuing to browse our site, you are agreeing to our use of cookies.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer, provided you accept them. Cookies contain information that is transferred to your computer’s hard drive.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+We use the following cookies:
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+  * Strictly necessary cookies: These are required for the operation of our site. They include cookies that enable you to log into secure areas of our site, use the shopping cart, or make use of e-billing services.
+  * Analytical/performance cookies: These allow us to track the number of visitors to our site. This helps us to improve the way our site works, for example by ensuring that users are finding what they are looking for easily.
+  * Functionality cookies: These are used to recognise you when you return to our site, enabling us to personalise our content for you, greet you by name and remember your preferences.
+  * Targeting cookies: These cookies record your visit to our site, the pages you have visited and the links you have followed. We will use this information to make our site and the advertising displayed on it more relevant to your interests. We may also share this information with third parties for this purpose.
 
-We take your privacy very seriously and comply with the recent UK and EU law on handling cookies and provide (you) the user with means to remove such cookies or prevent your computer from accepting them in the future.
 
-**_Updated: 28th May 2018_**
+
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies), you may not be able to access all or parts of our site.
+
+**_Updated: 25th October 2019_**
