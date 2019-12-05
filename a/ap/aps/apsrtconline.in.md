@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apsrtconline.in privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511051817id_/https%3A//apsrtconline.in/oprs-web/home/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apsrtconline.in privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205114112id_/https%3A//www.apsrtconline.in/oprs-web/home/privacy.do) for the most accurate reproduction.*
 
 # APSRTC Official Website for Online Bus Ticket Booking - APSRTConline.in
 
