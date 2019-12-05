@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pioneers.io privacy policy that was archived on 2018-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181105000410id_/https%3A//pioneers.io/terms-of-service%23dataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneers.io privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205144623id_/https%3A//pioneers.io/terms-of-service%23dataprotection) for the most accurate reproduction.*
 
 # Pioneers.io
 
-Last modified: 05 June 2018
+Last modified: 29 Oct 2019
 
-### Welcome to Pioneers!
+### Welcome to Pioneers.io!
 
-Thank you for using our products and services (“Services”). The Services are provided by JFDI GmbH, a limited liability company, FN375833x, ATU67137779, located at Eschenbachgasse 11/12,1010 Vienna, Austria (hereinafter “JFDI” or “we”).
+Thank you for using our products and services (“Services”). The Services are provided by startup300 AG, a limited liability company, FN 375689i, ATU67014688, located at Peter-Behrens-Platz 10, 4020 Linz, Austria.
 
 By using our Services, you are agreeing to these terms. Please read them carefully. 
 
@@ -14,15 +14,15 @@ By using our Services, you are agreeing to these terms. Please read them careful
 
 “You” and “your” refer to you, as a user of our Services. A “user” is someone who interacts with, accesses, posts, edits, browses, or in any way uses our Services. 
 
-“We,” “us,” and “our” refer to JFDI.
+“We,” “us,” and “our” refer to Pioneers.io.
 
-“User Content” means any personal information submitted in creating a JFDI Account, as well as any information submitted or transmitted to, through, or in connection with our Services, including, but not limited to, research, product plans, business plans, products, services, customers, markets, software, documentation, inventions, processes, designs, drawings, hardware configuration information, business methods, marketing or finances information and/or strategies, digital or photographic images, videos, graphics, text, or audio files.
+“User Content” means any personal information submitted in creating a Pioneers.io Account, as well as any information submitted or transmitted to, through, or in connection with our Services, including, but not limited to, research, product plans, business plans, products, services, customers, markets, software, documentation, inventions, processes, designs, drawings, hardware configuration information, business methods, marketing or finances information and/or strategies, digital or photographic images, videos, graphics, text, or audio files.
 
-“JFDI Content” means Content that we create and make available in connection with our Services. 
+“Pioneers.io Content” means Content that we create and make available in connection with our Services. 
 
-“Third Party Content” means Content that originates from parties other than JFDI or its users, which is made available in connection with our Services.
+“Third Party Content” means Content that originates from parties other than Pioneers.io or its users, which is made available in connection with our Services.
 
-“Site Content” means all of the Content that is made available in connection with our Services, including Your Content, User Content, Third Party Content, and JFDI Content.
+“Site Content” means all of the Content that is made available in connection with our Services, including Your Content, User Content, Third Party Content, and Pioneers.io Content.
 
 ### Description of Services
 
@@ -48,7 +48,7 @@ If you use the Services, you agree to comply with the Terms of Service.
 
 ### Using our Services
 
-You may register as user of the JFDI platform (Piobay). You guarantee that all of the data supplied during registration is accurate.
+You may register as user of the Pioneers.io platform (Piobay). You guarantee that all of the data supplied during registration is accurate.
 
 You may transmit information and content including, but not limited to, files, images, videos, documents, opinions and other material (“Content”) in relation to your use of the Services. 
 
@@ -92,7 +92,7 @@ Using our Services does not give you ownership of any intellectual property righ
 
 These terms do not grant you the right to use any branding or logos used in our Services. Do not remove, obscure or alter any legal notices displayed in or along with our Services.
 
-Our Services display some content that is not JFDI’s. This content is the sole responsibility of the entity that makes it available. We may review content to determine whether it is illegal or violates our policies, and we may remove or refuse to display content that we reasonably believe violates our policies or the law. But that does not necessarily mean that we review content, so please do not assume that we do.
+Our Services display some content that is not Pioneers.io’s. This content is the sole responsibility of the entity that makes it available. We may review content to determine whether it is illegal or violates our policies, and we may remove or refuse to display content that we reasonably believe violates our policies or the law. But that does not necessarily mean that we review content, so please do not assume that we do.
 
 ### Modifying and Terminating our Services
 
@@ -100,13 +100,13 @@ We are constantly changing and improving our Services. We may add or remove func
 
 You can stop using our Services at any time, although we would be sorry to see you go. 
 
-JFDI may also stop providing Services to you or add or create new limits to our Services at any time, without providing any indication of reason(s).
+Pioneers.io may also stop providing Services to you or add or create new limits to our Services at any time, without providing any indication of reason(s).
 
 ### Your Content in our Services
 
-You hereby grant us a worldwide, non-exclusive, royalty-free license and the right to sublicense during your use of the Services and as required for a reasonable time afterwards as set out in these Terms so that we can reproduce, adapt, publish, transmit, process and distribute your Content in any media and distribution method used by JFDI. 
+You hereby grant us a worldwide, non-exclusive, royalty-free license and the right to sublicense during your use of the Services and as required for a reasonable time afterwards as set out in these Terms so that we can reproduce, adapt, publish, transmit, process and distribute your Content in any media and distribution method used by Pioneers.io. 
 
-When you upload, submit, store, send or receive content to or through our Services, you give JFDI (and those we work with) a worldwide licence to use, host, store, reproduce, modify, create derivative works (such as those resulting from translations, adaptations or other changes that we make so that your content works better with our Services), communicate, publish, publicly perform, publicly display and distribute such content. The rights that you grant in this licence are for the limited purpose of operating, promoting and improving our Services, and to develop new ones. 
+When you upload, submit, store, send or receive content to or through our Services, you give Pioneers.io (and those we work with) a worldwide licence to use, host, store, reproduce, modify, create derivative works (such as those resulting from translations, adaptations or other changes that we make so that your content works better with our Services), communicate, publish, publicly perform, publicly display and distribute such content. The rights that you grant in this licence are for the limited purpose of operating, promoting and improving our Services, and to develop new ones. 
 
 The Services are regularly updated and improved and you agree that the ways in which others interact with your Content will change in accordance with such updates and improvements. You agree that the license you give us to your Content allows us to make your Content available to other organisations and individuals, providing that such use is subject to our Privacy Policies. The license for your Content does not require compensation to you from us.
 
@@ -116,9 +116,9 @@ You agree that any and all Content that you give, provide, upload or make availa
 
 ### Idea and Feedback Submissions
 
-We welcome all suggestions to improve our Services, ideas, proposals, feedback or other material submitted to us, but we consider them to be helpful advice, freely given. To ensure against any misunderstandings, we want to emphasize that we do not compensate for any ideas, proposals or suggestions provided by you or any users to JFDI. 
+We welcome all suggestions to improve our Services, ideas, proposals, feedback or other material submitted to us, but we consider them to be helpful advice, freely given. To ensure against any misunderstandings, we want to emphasize that we do not compensate for any ideas, proposals or suggestions provided by you or any users to Pioneers.io. 
 
-JFDI shall not be liable for the disclosure, use or exploitation of such information.
+Pioneers.io shall not be liable for the disclosure, use or exploitation of such information.
 
 ### Communications
 
@@ -128,19 +128,19 @@ You can control most of the communications from us to you through the Service. I
 
 There are links to many third-party sites and resources on the Platform that are provided by third-parties, which are provided for your information. The presence of any link on the Platform does not mean that we have approved or reviewed them in any way and we make no representation, endorsement or recommendation of such links or their providers. We allow links in the Service to other websites that do not belong to us. The Policies apply only to the Service and not to any other websites, apps - really anything outside of the Service. Each third-party website may have policies different from our Policies and you should read and comply with these policies. We are not responsible for the terms, privacy practices or content of any of these third-parties or any harm you may encounter as a result of misuse of your data.
 
-### Events organized by JFDI
+### Events organized by Pioneers.io
 
-JFDI organizez events and meetings for professionals like, but not limited to: Pioneers annual flagship event, industry-focussed chapter events, consultancy offline programs, meetings, competitions, hackathons, trainings and seminars, masterclasses, Pioneers Ventures offline programs, Pioneers Asia, Pioneers Challenge and others.
+Pioneers.io organizez events and meetings for professionals like, but not limited to: Pioneers annual flagship event, industry-focussed chapter events, consultancy offline programs, meetings, competitions, hackathons, trainings and seminars, masterclasses, Pioneers Ventures offline programs, Pioneers Asia, Pioneers Challenge and others.
 
-Registration for JFDI events and ticket sales are carried out through Eventbrite Inc., 651 Brannan Street, Suite 110, San Francisco CA 94107 (www.eventbrite.com, hereinafter “Eventbrite”). The terms and conditions to be applied for the user are the Eventbrite General Business Terms and Conditions, available at https://www.eventbrite.com/tos/.
+Registration for Pioneers.io events and ticket sales are carried out through Eventbrite Inc., 651 Brannan Street, Suite 110, San Francisco CA 94107 (www.eventbrite.com, hereinafter “Eventbrite”). The terms and conditions to be applied for the user are the Eventbrite General Business Terms and Conditions, available at https://www.eventbrite.com/tos/.
 
 You should note that that there is no right of withdrawal as defined in §5f Z. 7 of the Austrian Consumer Protection Act since the provision of services within the scope of recreational activities (§5c, para.4 Z 2,Austrian Consumer Protection Act), which also includes events, is excluded from the right of withdrawal.
 
-Registration for an event does not become binding for JFDI until the full purchase price of the ticket(s) has been paid. In the case of default, the participant is obliged to provide compensation for default interest and all other procedural and non-procedural costs of recovering the debt incurred.
+Registration for an event does not become binding for Pioneers.io until the full purchase price of the ticket(s) has been paid. In the case of default, the participant is obliged to provide compensation for default interest and all other procedural and non-procedural costs of recovering the debt incurred.
 
 In the case of either the event date or location (event venue) being changed, in general tickets remain valid.
 
-In the case of rescheduling an event, the cardholder’s ticket may be returned by a deadline to be determined by JFDI, preferably immediately after the announcement of the new event date. After the deadline has expired, any claims for reimbursement will expire.
+In the case of rescheduling an event, the cardholder’s ticket may be returned by a deadline to be determined by Pioneers.io, preferably immediately after the announcement of the new event date. After the deadline has expired, any claims for reimbursement will expire.
 
 A refund without returning the original ticket is not possible. On returning the ticket, the customer should specify his bank account details and will then receive a refund of the price paid. If the ticket is not returned within the time limit, no refund is possible. Additional claims (e.g. postage, travel expenses, etc.) are excluded.
 
@@ -154,21 +154,21 @@ Discounted tickets are only valid in combination and/or in conjunction with an a
 
 For the events, participants’ data can be stored on smart cards (NFC cards).
 
-JFDI reserves the right to exclude persons from their events. Any payments made by a person who is then excluded will be refunded by JFDI.
+Pioneers.io reserves the right to exclude persons from their events. Any payments made by a person who is then excluded will be refunded by Pioneers.io.
 
-JFDI is not responsible for personal items that are lost or damaged during events.
+Pioneers.io is not responsible for personal items that are lost or damaged during events.
 
-Each participant must make provision for their own insurance. There is no coverage either through the organizer and/or JFDI.
+Each participant must make provision for their own insurance. There is no coverage either through the organizer and/or Pioneers.io.
 
-Except for personal injury, JFDI is not liable for minor cases of negligence.
+Except for personal injury, Pioneers.io is not liable for minor cases of negligence.
 
-### Moving and Still Images Recordings during JFDI events
+### Moving and Still Images Recordings during Pioneers.io events
 
-Within the framework of JFDI events, audio, picture and video recordings of you, any of the individual participants, and the event will be created free of charge. You agree that these recordings and images / photographs, and the unlimited spatio-temporal use can be used free of charge for media reports, advertising purposes on various channels (online, print, TV, radio, outdoor) and in various formats (eg. posters, print ads, online campaigns, moving images, brochures), calendars, commercial products and manuals (eg. future reports, white paper illustrations), and on JFDI websites and third party channels (e.g. TV, Radio, print, outdoor, online such as websites, social media with eg. rights of use for YouTube, Vimeo, Facebook, etc.) and these rights of use may be given to third parties by JFDI, both free of charge and also against payment.
+Within the framework of Pioneers.io events, audio, picture and video recordings of you, any of the individual participants, and the event will be created free of charge. You agree that these recordings and images / photographs, and the unlimited spatio-temporal use can be used free of charge for media reports, advertising purposes on various channels (online, print, TV, radio, outdoor) and in various formats (eg. posters, print ads, online campaigns, moving images, brochures), calendars, commercial products and manuals (eg. future reports, white paper illustrations), and on Pioneers.io websites and third party channels (e.g. TV, Radio, print, outdoor, online such as websites, social media with eg. rights of use for YouTube, Vimeo, Facebook, etc.) and these rights of use may be given to third parties by Pioneers.io, both free of charge and also against payment.
 
 ### Data Protection and Privacy Policy
 
-JFDI Privacy Policy explain how we collect, process, store and use your personal data and protect your privacy when you use our Services and interact with us, such as:
+Pioneers.io Privacy Policy explain how we collect, process, store and use your personal data and protect your privacy when you use our Services and interact with us, such as:
 
 \- how we collect information about you;
 
@@ -184,7 +184,7 @@ JFDI Privacy Policy explain how we collect, process, store and use your personal
 
 \- additional information we think might be useful to you.
 
-By using our Services, you agree that JFDI can use such data in accordance with our Privacy Policy.
+By using our Services, you agree that Pioneers.io can use such data in accordance with our Privacy Policy.
 
 You have choices about the use of personally identifiable information which we hold about you. You can access, update and request the removal of the information we hold about you. If you don’t agree with the Policies, please do not access or use the Services, or interact with us. 
 
@@ -360,25 +360,25 @@ We are committed to deliver our Services and contents to you with the highest pr
 
 In addition, we may stop (permanently or temporarily) providing the Services (or any features within the Services) to you or to users generally and may not be able to provide you with prior notice.
 
-Other than as expressly set out in these terms or additional terms, neither JFDI nor its suppliers or distributors makes any specific promises about the Services. For example, we do not make any commitments about the content within the Services, the specific functions of the Services or their reliability, availability or ability to meet your needs. We provide the Services on an “as is” and “as available” basis. 
+Other than as expressly set out in these terms or additional terms, neither Pioneers.io nor its suppliers or distributors makes any specific promises about the Services. For example, we do not make any commitments about the content within the Services, the specific functions of the Services or their reliability, availability or ability to meet your needs. We provide the Services on an “as is” and “as available” basis. 
 
 ### Liability for our Services
 
-When permitted by law, JFDI and JFDI’s suppliers and distributors will not be responsible for lost profits, revenues or data, production, anticipated savings, business, contracts, commercial opportunities, goodwill, or indirect, special, consequential, exemplary or punitive damages.
+When permitted by law, Pioneers.io and Pioneers.io’s suppliers and distributors will not be responsible for lost profits, revenues or data, production, anticipated savings, business, contracts, commercial opportunities, goodwill, or indirect, special, consequential, exemplary or punitive damages.
 
 No advice or information, whether oral or written, obtained from the Services provided by us, will create any warranty not expressly made herein. Your use or reliance on any Content or other information, material, views or opinions in, or in relation to, the Services is at your own risk. You should exercise good judgement and caution as many individuals and entities add their information to the Service and we do not represent, warrant or guarantee in any way whatsoever that anything in the Service is reliable, accurate, correct, accurate or truthful. Content on the websites is the sole responsibility of those that submit it and can be harmful, incorrect, inappropriate or offensive.
 
-In all cases, JFDI and its suppliers and distributors will not be liable for any loss or damage that is not reasonably foreseeable.
+In all cases, Pioneers.io and its suppliers and distributors will not be liable for any loss or damage that is not reasonably foreseeable.
 
 ### Business uses of our Services
 
-Technically, JFDI cannot determine with certainty whether a logged-on user of the Pioneers website de facto represents the person/company that the user/the company purports to be. JFDI therefore shall not assume any liability whatsoever for the actual identity of a user. Each and every user is solely responsible for personally verifying the authenticity of other users.
+Technically, Pioneers.io cannot determine with certainty whether a logged-on user of the Pioneers website de facto represents the person/company that the user/the company purports to be. Pioneers.io therefore shall not assume any liability whatsoever for the actual identity of a user. Each and every user is solely responsible for personally verifying the authenticity of other users.
 
-If you are using our Services on behalf of a business, that business accepts these terms. It will hold harmless and indemnify JFDI and its affiliates, officers, agents and employees from any claim, action or proceedings arising from or related to the use of the Services or violation of these terms, including any liability or expense arising from claims, losses, damages, judgements, litigation costs and legal fees.
+If you are using our Services on behalf of a business, that business accepts these terms. It will hold harmless and indemnify Pioneers.io and its affiliates, officers, agents and employees from any claim, action or proceedings arising from or related to the use of the Services or violation of these terms, including any liability or expense arising from claims, losses, damages, judgements, litigation costs and legal fees.
 
 ### Customer support
 
-JFDI is available by email at support@pioneers.io to address any issues you may have regarding your use of the Services. Most concerns can be quickly resolved in this manner.
+Pioneers.io is available by email at support@pioneers.io to address any issues you may have regarding your use of the Services. Most concerns can be quickly resolved in this manner.
 
 ### Changes to Terms of Service
 
@@ -386,4 +386,4 @@ We may update these Terms from time to time. You understand and agree that your 
 
 ### Miscellaneous
 
-Court of Jurisdiction is the relevant court in 1010 Vienna. Contractual relationships with JFDI are subject exclusively to Austrian law, excluding the CISG (United Nations Convention on Contracts for the International Sale of Goods). Contract language is exclusively German.
+Court of Jurisdiction is the relevant court in 1010 Vienna. Contractual relationships with Pioneers.io are subject exclusively to Austrian law, excluding the CISG (United Nations Convention on Contracts for the International Sale of Goods). Contract language is exclusively German.
