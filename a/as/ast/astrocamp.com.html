@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the astrocamp.com privacy policy that was archived on 2019-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190630050303id_/http%3A//astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astrocamp.com privacy policy that was archived on 2019-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191205110515id_/http%3A//www.astrocamp.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta charset="utf-8">
@@ -20,18 +20,11 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script type="text/javascript" src="/dist/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/dist/js/ac-global.js"></script>
-<script type="text/javascript" src="/assets/js/ie-emulation-modes-warning.js"></script>
-<script type="text/javascript" src="/assets/js/ie10-viewport-bug-workaround.js"></script>
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-<!--[if lt IE 9]>
-      <script type="text/javascript" src="/assets/js/ie8-responsive-file-warning.js"></script>
-      <script type="text/javascript" src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script type="text/javascript" src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
- <![endif]-->
+<script type="text/javascript" src="/script/appdownload-popup.js"></script>
 
-<script src="https://www.gstatic.com/firebasejs/4.9.1/firebase.js"></script>
+<script defer="" src="https://www.gstatic.com/firebasejs/4.9.1/firebase.js"></script>
 <script>        var getAppLang = "AC";</script>
-<script type="text/javascript" src="/dist/js/subscribe.min.js"></script>
+<script defer="" type="text/javascript" src="/dist/js/subscribe.min.js"></script>
 
 
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-970040261"></script>
@@ -46,35 +39,51 @@
 <body>
 <div class="container">
 
-<script type="text/javascript" src="/script/appdownload-popup.js"></script>
 
-<div class="modal fade in" id="appDownload" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-header">
-<a href="#" class="close pull-left ui-margin-r" data-dismiss="modal" aria-hidden="true" style="font-size: 36px; margin-top: -8px;" onclick="appDownloadPopup('cancel-app-popup', 'download-app');">×</a>
-<h4 class="modal-title">
-<b>AstroSage Kundli Android App</b></h4>
-</div>
-<div class="modal-body">
-<h4 align="center">
-Free Kundli Software &amp; More</h4>
-<div align="center" class="ui-margin-t">
-<a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source%3Dastrocamppopup%26utm_medium%3Dpopup%26utm_campaign%3Dmobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');" class="btn btn-danger btn-lg">Download FREE<br>
-<h6>
-In less than a Minute</h6>
-</a>
-</div>
-<div align="center">
-<a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source%3Dastrocamppopup%26utm_medium%3Dpopup%26utm_campaign%3Dmobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');">
-<img src="/images/app-download.jpg" class="img-responsive"></a></div>
-</div>
-</div>
+<script type="text/javascript">
+    window.onload = function () {       
+        if ('' == 'true') {
+            showHidediv(document.getElementById('ddlCountry'));
+        }
+    }
+</script>
 
-</div>
+<script type="text/javascript">
+    <!--
 
-</div>
+        function roll(img_name, img_src) {
+            document[img_name].src = img_src;
+        }
 
+        function newLocation() {
+            window.location = "//translate.google.com/translate?client=tmpg&hl=hi&u=" + location.href + "&langpair=en|hi";
+        }
+
+//-->
+  </script>
+<script language="JavaScript">
+    <!--
+        function resizeIframeWidth(frame) {
+            E = getElementById(frame);
+            // Set width of iframe according to its content
+            if (e.Document && e.Document.body.scrollWidth) //ie5+ syntax
+                e.width = e.contentWindow.document.body.scrollWidth;
+            else if (e.contentDocument && e.contentDocument.body.scrollWidth) //ns6+ & opera syntax
+                e.width = e.contentDocument.body.scrollWidth + 35;
+            else (e.contentDocument && e.contentDocument.body.offsetWidth) //standards compliant syntax – ie8
+            e.width = e.contentDocument.body.offsetWidth + 35;
+        }
+        //-->
+        $(document).ready(function () {
+            $("[data-toggle=popover]").popover({
+                html: true,
+                content: function () {
+                    return $('#popover-content').html();
+                }
+            });
+        });
+
+    </script>
 <script type="text/javascript">
     if (isMobileJS.Android()) {
         $(function () {
@@ -120,133 +129,51 @@ In less than a Minute</h6>
 <a href="javascript:void(0);" class="app-ticker-close" onclick="appDownloadTicker('cancel-app-ticker', 'download-app');"><i class="fa fa-close"></i></a> AstroSage Kundli App
 <a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source%3Dastrocampticker%26utm_medium%3Dticker%26utm_campaign%3Dmobileapp" rel="nofollow" onclick="appDownloadTicker('download-app-ticker', 'download-app');" class="btn btn-danger pull-right">Download Now</a>
 </div>
-
-<script type="text/javascript">
-    $(document).ready(function () {
-        setTimeout(function () {
-        if (isMobileJS.Android()) {
-            if (!getCookiesAppPopup()) {
-                $('#appDownload').modal('toggle');
-            }
-        }
-    }, 30000);
-    });
-
-
-
-
-    window.onload = function () {
-        //        if (isMobileJS.Android()) {
-        //            if (!getCookiesAppPopup()) {
-        //                if (document.getElementById('appDownload').style.display == 'none') {
-        //                    document.getElementById('overlayshow').style.display = "block";
-        //                    document.getElementById('appDownload').style.display = "block";
-        //                    setonclickfunctionapp();
-        //                }
-        //            }
-        //        }
-
-        if ('' == 'true') {
-            showHidediv(document.getElementById('ddlCountry'));
-        }
-    }
-</script>
-
-
-<script type="text/javascript">
-    <!--
-
-        function roll(img_name, img_src) {
-            document[img_name].src = img_src;
-        }
-
-        function newLocation() {
-            window.location = "//translate.google.com/translate?client=tmpg&hl=hi&u=" + location.href + "&langpair=en|hi";
-        }
-
-//-->
-  </script>
-<script language="JavaScript">
-    <!--
-        function resizeIframeWidth(frame) {
-            E = getElementById(frame);
-            // Set width of iframe according to its content
-            if (e.Document && e.Document.body.scrollWidth) //ie5+ syntax
-                e.width = e.contentWindow.document.body.scrollWidth;
-            else if (e.contentDocument && e.contentDocument.body.scrollWidth) //ns6+ & opera syntax
-                e.width = e.contentDocument.body.scrollWidth + 35;
-            else (e.contentDocument && e.contentDocument.body.offsetWidth) //standards compliant syntax – ie8
-            e.width = e.contentDocument.body.offsetWidth + 35;
-        }
-        //-->
-        $(document).ready(function () {
-            $("[data-toggle=popover]").popover({
-                html: true,
-                content: function () {
-                    return $('#popover-content').html();
-                }
-            });
-        });
-
-    </script>
-<div class="row desktop contact-row"><ul class="topnav-alt pull-left">
-<li><a href="/" title="AstroCAMP.com" class="topmenu">Home</a></li>
-<li><a href="/contactus.asp" title="Contact AstroCAMP.com" class="topmenu">Contact Us</a></li>
-<li><a href="mailto:customercare@astrocamp.com" class="popup topmenu" title="Contact AstroCAMP.com Customer Care" style="text-decoration: none">Customer Care <span class="Mobnum"><font style="font-size: 13px;">
-customercare@astrocamp.com<br>
-+91 95606 70006
-(9AM to 6PM IST)</font></span></a> </li>
+<div class="row desktop border-b"><div class="topbar-custom1">
+<ul class="topnav navbar-nav">
+<li><a href="/horoscope-2020.html" class="topmenu"><b>Horoscope 2020</b></a></li>
+<li><a href="/rashifal-2020.html" class="topmenu"><b>राशिफल 2020</b></a></li>
+<li><a href="/rahukaal.asp" class="topmenu"><b>Today's Rahu Kaal</b></a></li>
+<li><a href="/calendar-2020.html" class="topmenu"><b>Calendar 2020</b></a></li>
+<li><a href="/hindi/rashifal" class="topmenu"><b>Rashifal</b></a></li>
+<li><a href="http://go.astrosage.com/decmagazine" class="topmenu"><b>E-Magazine</b></a></li>
 </ul>
-<div class="topnav-social navbar-nav pull-left">
-<a href="//www.youtube.com/AstroSageIndia" target="_blank" data-toggle="tooltip-b" title="Subscribe us on YouTube"><i class="fa fa-youtube-square text-youtube"></i>
-</a><a href="//www.twitter.com/punitastrologer" target="_blank" data-toggle="tooltip-b" title="Follow us on Twitter"><i class="fa fa-twitter-square text-twitter"></i>
-</a><a href="//www.facebook.com/astrology.horoscope" target="_blank" data-toggle="tooltip-b" title="Like us on Facebook"><i class="fa fa-facebook-square text-fb"></i></a>
-</div>
-<form action="//www.google.com/cse" id="cse-search-box" class="form-inline pull-left">
-<div class="form-group">
-<label class="sr-only" for="exampleInputAmount">
-Search</label>
-<input type="hidden" name="cx" value="partner-pub-7494543079410386:4090402924">
-<input type="hidden" name="ie" value="UTF-8">
-<input type="text" class="form-control" name="q" size="40">
-</div>
-<input type="submit" name="sa" value="Search" class="btn btn-danger">
-</form>
-<script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-<div class="pull-right sp-cart">
-<a href="cart.asp" class="btn btn-danger">
+<ul class="topnav navbar-nav hv-nav pull-right">
+<li><a href="/hindi" class="topmenu" title="Hindi"><b>हिंदी</b></a></li>
+<li><a href="/tamil" class="topmenu" title="Tamil"><b>தமிழ்</b></a></li>
+<li><a href="/telugu" class="topmenu" title="Telugu"><b>తెలుగు</b></a></li>
+<li><a href="/kannada" class="topmenu" title="Kannada"><b>ಕನ್ನಡ</b></a></li>
+<li><a href="/gujarati" class="topmenu" title="Gujarati"><b>ગુજરાતી</b></a></li>
+<li><a href="/marathi" class="topmenu" title="Marathi"><b>मराठी</b></a></li>
+<li><a href="/bengali" class="topmenu" title="Bengali"><b>বাংলা</b></a></li>
+<li><a href="/malayalam" class="topmenu" title="Malayalam"><b>മലയാളം</b></a></li>
+<li>
+<a href="cart.asp" class="btn btn-danger btn-sm btn-hv">
 <i class="fa fa-shopping-cart" aria-hidden="true"></i>
 Cart: 0
 </a>
-</div>
-</div>
-<div class="row desktop border-b"><div class="topbar-custom">
-<ul class="topnav navbar-nav">
-<li><a href="/hindi/rashifal" class="topmenu"><b>Rashifal</b></a></li>
-<li><a href="/horoscope-2019.html" class="topmenu"><b>Horoscope 2019</b></a></li>
-<li><a href="/rashifal-2019.html" class="topmenu"><b>राशिफल 2019</b></a></li>
-<li><a href="/stock-market-2019-predictions.html" class="topmenu"><b>Stock Market Predictions</b></a></li>
-
+</li>
 </ul>
-</div></div>
+</div>
+</div>
 <div class="row"><div class="header-panel desktop">
 <div class="col-xs-3">
 <a href="//www.astrocamp.com" class="navbar-brand"><img src="/images/logo.png" alt="AstroCAMP.com" width="250"></a>
 </div>
 <div class="col-xs-9">
 <div class="show-grid navsign">
-<div class="col-xs-1 text-center"><a href="/aries-horoscope-2019.html"><img src="/images/signs/aries.png" width="50"><div>Aries</div></a></div>
-<div class="col-xs-1 text-center"><a href="/taurus-horoscope-2019.html"><img src="/images/signs/taurus.png" width="50"><div>Taurus</div></a></div>
-<div class="col-xs-1 text-center"><a href="/gemini-horoscope-2019.html"><img src="/images/signs/gemini.png" width="50"><div>Gemini</div></a></div>
-<div class="col-xs-1 text-center"><a href="/cancer-horoscope-2019.html"><img src="/images/signs/cancer.png" width="50"><div>Cancer</div></a></div>
-<div class="col-xs-1 text-center"><a href="/leo-horoscope-2019.html"><img src="/images/signs/leo.png" width="50"><div>Leo</div></a></div>
-<div class="col-xs-1 text-center"><a href="/virgo-horoscope-2019.html"><img src="/images/signs/virgo.png" width="50"><div>Virgo</div></a></div>
-<div class="col-xs-1 text-center"><a href="/libra-horoscope-2019.html"><img src="/images/signs/libra.png" width="50"><div>Libra</div></a></div>
-<div class="col-xs-1 text-center"><a href="/scorpio-horoscope-2019.html"><img src="/images/signs/scorpio.png" width="50"><div>Scorpio</div></a></div>
-<div class="col-xs-1 text-center"><a href="/sagittarius-horoscope-2019.html"><img src="/images/signs/sagittarius.png" width="50"><div>Sagittarius</div></a></div>
-<div class="col-xs-1 text-center"><a href="/capricorn-horoscope-2019.html"><img src="/images/signs/capricorn.png" width="50"><div>Capricorn</div></a></div>
-<div class="col-xs-1 text-center"><a href="/aquarius-horoscope-2019.html"><img src="/images/signs/aquarius.png" width="50"><div>Aquarius</div></a></div>
-<div class="col-xs-1 text-center"><a href="/pisces-horoscope-2019.html"><img src="/images/signs/pisces.png" width="50"><div>Pisces</div></a></div>
+<div class="col-xs-1 text-center"><a href="/aries-horoscope-2020.html"><img src="/images/signs/aries.png" width="50"><div>Aries</div></a></div>
+<div class="col-xs-1 text-center"><a href="/taurus-horoscope-2020.html"><img src="/images/signs/taurus.png" width="50"><div>Taurus</div></a></div>
+<div class="col-xs-1 text-center"><a href="/gemini-horoscope-2020.html"><img src="/images/signs/gemini.png" width="50"><div>Gemini</div></a></div>
+<div class="col-xs-1 text-center"><a href="/cancer-horoscope-2020.html"><img src="/images/signs/cancer.png" width="50"><div>Cancer</div></a></div>
+<div class="col-xs-1 text-center"><a href="/leo-horoscope-2020.html"><img src="/images/signs/leo.png" width="50"><div>Leo</div></a></div>
+<div class="col-xs-1 text-center"><a href="/virgo-horoscope-2020.html"><img src="/images/signs/virgo.png" width="50"><div>Virgo</div></a></div>
+<div class="col-xs-1 text-center"><a href="/libra-horoscope-2020.html"><img src="/images/signs/libra.png" width="50"><div>Libra</div></a></div>
+<div class="col-xs-1 text-center"><a href="/scorpio-horoscope-2020.html"><img src="/images/signs/scorpio.png" width="50"><div>Scorpio</div></a></div>
+<div class="col-xs-1 text-center"><a href="/sagittarius-horoscope-2020.html"><img src="/images/signs/sagittarius.png" width="50"><div>Sagittarius</div></a></div>
+<div class="col-xs-1 text-center"><a href="/capricorn-horoscope-2020.html"><img src="/images/signs/capricorn.png" width="50"><div>Capricorn</div></a></div>
+<div class="col-xs-1 text-center"><a href="/aquarius-horoscope-2020.html"><img src="/images/signs/aquarius.png" width="50"><div>Aquarius</div></a></div>
+<div class="col-xs-1 text-center"><a href="/pisces-horoscope-2020.html"><img src="/images/signs/pisces.png" width="50"><div>Pisces</div></a></div>
 </div>
 </div>
 </div>
@@ -262,9 +189,45 @@ Cart: 0
 </button>
 </div>
 
-<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<div class="collapse navbar-collapse nav-colp" id="bs-example-navbar-collapse-1">
 <ul class="nav navbar-nav">
-<li><a href="/" title="AstroCAMP.com Home">Home</a></li>
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="//www.astrocamp.com/horoscope-2020.html">Horoscope 2020 </a></li>
+<li role="separator" class="divider"></li>
+<li><a href="//www.astrocamp.com/rashifal-2020.html">राशिफल 2020 </a></li>
+<li role="separator" class="divider"></li>
+<li><a href="//www.astrocamp.com/calendar-2020.html">Calendar 2020 </a></li>
+<li role="separator" class="divider"></li>
+<li><a href="//www.astrocamp.com/kundli/">Kundli</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="//www.astrocamp.com/HoroscopeCompatibility.asp">Horoscope Compatibility</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="//www.astrocamp.com/hindi/rashifal/">Rashifal</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="//www.astrocamp.com/rahukaal.asp">Today's Rahu Kaal </a></li>
+</ul>
+</li>
+<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">2020 <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="/horoscope-2020.html">Horoscope 2020 </a></li>
+<li role="separator" class="divider"></li>
+<li><a href="/rashifal-2020.html">राशिफल 2020 </a></li>
+<li role="separator" class="divider"></li>
+<li><a href="/chinese-horoscope-2020.html">Chinese Horoscope 2020</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="/grahan-2020.html">Grahan 2020 </a></li>
+<li role="separator" class="divider"></li>
+<li><a href="/numerology-2020-horoscope.html">Numerology 2020</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="/calendar-2020.html">Calendar 2020</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="/vivah-muhurat-2020.html">विवाह मुहूर्त 2020</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="/love-horoscope-2020.html">Love Horoscope 2020</a></li>
+</ul>
+</li>
 <li><a href="/allservices.asp" title="AstroCAMP.com Horoscope and Astrology Services">Services</a></li>
 <li class="dropdown">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Horoscopes <span class="caret"></span></a>
@@ -277,21 +240,7 @@ Cart: 0
 <li role="separator" class="divider"></li>
 <li><a href="/horoscope/monthly-horoscope.asp">Monthly Horoscopes</a></li>
 <li role="separator" class="divider"></li>
-<li><a href="/chinese-horoscope-2019.html">Chinese Horoscope 2019</a></li>
-<li role="separator" class="divider"></li>
-<li><a href="/horoscope-2019.html">Horoscope 2019 </a></li>
-<li role="separator" class="divider"></li>
-<li><a href="/rashifal-2019.html">राशिफल 2019 </a></li>
-<li role="separator" class="divider"></li>
-<li><a href="/grahan-2019-calendar.html">Grahan 2019 </a></li>
-<li role="separator" class="divider"></li>
-<li><a href="/rahu-gochar-2019.html">राहु गोचर 2019</a></li>
-<li role="separator" class="divider"></li>
-<li><a href="/guru-gochar-2019.html">गुरु गोचर 2019</a></li>
-<li role="separator" class="divider"></li>
-<li><a href="/ketu-gochar-2019.html">केतु गोचर 2019</a></li>
-<li role="separator" class="divider"></li>
-<li><a href="/shani-gochar-2019.html">शनि गोचर 2019</a></li>
+<li><a href="/horoscope-2020.html">Yearly Horoscopes</a></li>
 </ul>
 </li>
 <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Softwares <span class="caret"></span></a>
@@ -341,6 +290,8 @@ Cart: 0
 <li role="separator" class="divider"></li>
 <li><a href="/sunrise.asp" title="Get Free Sunrise &amp; Sunset Calculator">Sunrise &amp; Sunset</a></li>
 <li role="separator" class="divider"></li>
+<li><a href="/moonrise-today.asp" title="Get Free Moonrise &amp; Moonset Calculator">Moonrise &amp; Moonset</a></li>
+<li role="separator" class="divider"></li>
 <li><a href="/todaypanchang.asp" title="Get Free Today Panchang">Today Panchang</a></li>
 <li role="separator" class="divider"></li>
 <li><a href="/ZodiacSigns.asp" title="Get Free Zodiac Signs Horoscopes">Zodiac Signs</a></li>
@@ -369,6 +320,10 @@ Cart: 0
 <li><a href="/numerology-calculator.asp" title="Numerology Calculator">Numerology Calculator</a></li>
 <li role="separator" class="divider"></li>
 <li><a href="/nakshatra-finder-birth-star-calculator.asp" title="Nakshatra Finder">Nakshatra Finder</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="/kundli/kundali.asp">Online Kundali Software</a></li>
+<li role="separator" class="divider"></li>
+<li><a href="/lalkitab.html" title="Get Lal Kitab">Lal Kitab</a></li>
 </ul>
 </li>
 <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Magazine <span class="caret"></span></a>
@@ -392,23 +347,16 @@ Cart: 0
 <li><a href="//www.astrocamp.com/content.asp?contenttype=News" title="Astrology News, Events and Latest Happenings">Astrology News</a></li>
 </ul>
 </li>
-<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Resources <span class="caret"></span></a>
-<ul class="dropdown-menu">
-<li><a href="/kundli/kundali.asp">Online Kundali Software</a></li>
-<li role="separator" class="divider"></li>
-<li><a href="/lalkitab.html" title="Get Lal Kitab">Lal Kitab</a></li>
-</ul>
-</li>
 <li><a href="/products.asp" title="AstroCAMP Products Shop">Astro Shop</a></li>
 <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Festivals <span class="caret"></span></a>
 <ul class="dropdown-menu">
-<li><a href="/grahan-2019-calendar.html">Grahan 2019</a></li>
+<li><a href="/diwali-2020.html"> Diwali 2020 </a></li>
 <li role="separator" class="divider"></li>
-<li><a href="/lunar-eclipse-2019.html">Lunar Eclipse 2019</a></li>
+<li><a href="/navratri-2020.html"> Navratri 2020 </a></li>
 <li role="separator" class="divider"></li>
-<li><a href="/calendar-2019.html">Calendar 2019</a></li>
+<li><a href="/lohri-2020.html"> Lohri 2020 </a></li>
 <li role="separator" class="divider"></li>
-<li><a href="/chinese-calendar-2019.html">Chinese Calendar 2019</a></li>
+<li><a href="/bihu-2020.html"> Bihu 2020 </a></li>
 </ul>
 </li>
 </ul>
@@ -418,7 +366,7 @@ Cart: 0
 <div class="service-panel desktop">
 <h4 class="mobile">Paid Services</h4>
 <div class="show-grid navservice">
-<div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="List of all Horoscope and Astrology Services" href="https://www.astrocamp.com/allservices.asp?Cat_Id=1"><img src="/images/2019-reports.png" width="38" height="36" alt="Get 2019 reports"><div>2019 Reports</div></a></div>
+<div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="List of all Horoscope and Astrology Services" href="https://www.astrocamp.com/allservices.asp?Cat_Id=1"><img src="/images/2019-reports.png" width="38" height="36" alt="Get 2019 reports"><div>2020 Reports</div></a></div>
 <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Get consultation over phone" href="https://www.astrocamp.com/allservices.asp?Cat_Id=4"><img src="/images/img_ph_service.jpg" width="40" height="40" alt="Ask a astrologer on phone"><div>Phone Consultation</div></a></div>
 <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Career Horoscope Services and Reports" href="https://www.astrocamp.com/service.asp?service_id=81"><img src="/images/icon_education.gif" width="67" height="35" alt="Know all about your career"><div>Career</div></a></div>
 <div class="col-xs-3 col-sm-2 col-md-1 text-center"><a title="Finance Horoscope Services and Reports." href="https://www.astrocamp.com/service.asp?service_id=82"><img src="/images/icon_finance.gif" width="34" height="40" alt="Get your finance report"><div>Finance</div></a></div>
@@ -441,10 +389,11 @@ Cart: 0
 </script>
 <div class="item  margin-t ">
 <ul id="content-slider" class="content-slider uls">
+<li><a href="//www.astrocamp.com/service.asp?service_id=148&amp;prtnr_id=BKBNH" onclick="getEvents('service', 'brihat-horoscope-banner');"><img src="/images/promotion/web-bk1-en.jpg" class="img-responsive" alt="Brihat Horoscope"></a></li>
 <li><a href="//www.astrocamp.com/service.asp?service_id=114&amp;prtnr_id=BHBAN" title="AstroSage Big Horoscope" onclick="getEvents('service', 'big-horoscope-banner');"><img src="/images/promotion/web-bh-en.jpg" class="img-responsive" alt="AstroSage Big Horoscope"></a></li>
-<li><a href="//www.astrocamp.com/service.asp?service_id=141&amp;prtnr_id=YBBAN" title="Trikal Samhita" onclick="getEvents('service', 'year-book');"><img src="/images/promotion/web-year-book-en.jpg" class="img-responsive" alt="year Book"></a></li>
+<li><a href="//www.astrocamp.com/service.asp?service_id=93&amp;prtnr_id=ASKBN" title="Ask A Question" onclick="getEvents('service', 'ask-a-question');"><img src="/images/promotion/web-ask-a-question-en.jpg" class="img-responsive" alt="Ask A Question"></a></li>
 <li><a href="//www.astrocamp.com/service.asp?service_id=120&amp;prtnr_id=RYBAN" title="Raj Yoga Report" onclick="getEvents('service', 'raj-yoga-report');"><img src="/images/promotion/raj-yoga-en.jpg" class="img-responsive" alt="Raj Yoga Report"></a></li>
-<li><a href="//www.astrocamp.com/offer/paypal-offer.asp?prtnr_id=PYBAN" title="Paypal Banner" onclick="getEvents('service', 'paypal-banner');"><img src="/images/promotion/paypal-en.jpg" class="img-responsive" alt="Paypal Banner"></a></li>
+<li><a href="https://www.cogniastro.com/?prtnr_id=CABAN" onclick="getEvents('service', 'career-counseling');"><img src="/images/promotion/ca-report-en.jpg" class="img-responsive" alt="Career Counseling"></a></li>
 </ul>
 </div></div>
 <div class="row main-container padding-t">
@@ -466,7 +415,7 @@ any forecasts made using those details as much possible under legal regulatory a
 security environment.</li>
 <li>AstroCAMP further guarantees that no direct or indirect use will be made by AstroCAMP
 about any information that is revealed in the prediction for a member, except for
-the explicit purpose of communicating the horoscope charts and predictions back
+ the explicit purpose of communicating the horoscope charts and predictions back
 to the member. </li>
 <li>We allow members to access their users profiles and change information, as they
 deem necessary. </li>
@@ -589,7 +538,9 @@ query@astrocamp.com</a></p>
     }
 
 </script>
-<div id="fb-root"></div>
+<div class="margin-b">
+<a href="/offer/big-horoscope.asp?prtnr_id=BHBSM" onclick="getEvents('service', 'big-horo-banner');"><img src="/ads/ad-big-horoscope-right.jpg" alt="Big Horoscope 2017" class="card-shadow"></a>
+</div>
 <div class="panel panel-default panel-warning">
 <div class="panel-heading">
 <img src="/images/hdg_login.gif" width="78" height="20"></div>
@@ -620,20 +571,30 @@ New User? <a href="/register.asp" class="text-danger"><b>Sign Up</b></a></div>
 </div>
 </div>
 </div>
-
 <div class="margin-b">
-<a href="/offer/big-horoscope.asp?prtnr_id=BHBSM" onclick="getEvents('service', 'big-horo-banner');"><img src="/ads/ad-big-horoscope-right.jpg" alt="Big Horoscope 2017" class="card-shadow"></a>
+<form action="//www.google.com/cse" id="cse-search-box" class="form-inline">
+<div class="form-group">
+<label class="sr-only" for="exampleInputAmount">
+Search</label>
+<input type="hidden" name="cx" value="partner-pub-7494543079410386:4090402924">
+<input type="hidden" name="ie" value="UTF-8">
+<input type="text" class="form-control" name="q" size="40">
+</div>
+<input type="submit" name="sa" value="Search" class="btn btn-danger">
+</form>
+<script type="text/javascript" src="//www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 </div>
 <div class="panel panel-default panel-warning">
 <div class="panel-heading">
 <b><a href="//www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow" target="_blank">AstroSage TV</a></b></div>
-<iframe width="100%" height="auto" src="//www.youtube.com/embed/videoseries?list=UUHBM-lmpDCFzu8hpo8HjW-A" frameborder="0" allowfullscreen=""></iframe>
+<a href="https://www.youtube.com/user/AstroSageIndia?sub_confirmation=1" rel="nofollow">
+<img src="/images/astrosage-tv.jpg" style="width:100%;" alt="Watch AstroSage TV"></a>
 </div>
 <div class="panel panel-default">
 
 <ul class="nav nav-tabs ui-custom-tabs">
 <li class="active"><a href="#eng" data-toggle="tab">Articles</a></li>
-<li><a href="#fest" data-toggle="tab" class="no-border-r">2019</a></li>
+<li><a href="#fest" data-toggle="tab" class="no-border-r">2020</a></li>
 </ul>
 <div class="tab-content">
 <div class="tab-pane fade in active" id="eng">
@@ -652,46 +613,59 @@ New User? <a href="/register.asp" class="text-danger"><b>Sign Up</b></a></div>
 <div class="ui-scroll ul-li">
 <div style="height:500px; overflow-y:scroll;">
 <ul>
-<li><a href="/horoscope-2019.html">Horoscope 2019</a></li>
-<li><a href="/rashifal-2019.html" title="राशिफल 2019">राशिफल 2019</a></li>
-<li><a href="/chinese-horoscope-2019.html">Chinese Horoscope 2019</a></li>
-<li><a href="/finance-horoscope-2019.html">Finance Horoscope 2019</a></li>
-<li><a href="/education-horoscope-2019.html">Education Horoscope 2019</a></li>
-<li><a href="/career-horoscope-2019.html">Career Horoscope 2019</a></li>
-<li><a href="/love-horoscope-2019.html">Love Horoscope 2019</a></li>
-<li><a href="/numerology-predictions-2019.html">Numerology 2019</a></li>
-<li><a href="/ank-jyotish-2019.html">अंक ज्योतिष 2019</a></li>
-<li><a href="/happy-new-year-2019.html">New Year Wishes 2019</a></li>
-<li><a href="/calendar-2019.html"> Calendar 2019 </a></li>
-<li><a href="/printable-calendar-2019.html"> Printable Calendar 2019 </a></li>
-<li><a href="/indian-calendar-2019.html" title="Indian Festivals 2019">Indian Festivals 2019</a></li>
-<li><a href="/public-holidays-2019.html"> Public Holidays 2019 </a></li>
-<li><a href="/moon-phases-2019.html" title="Moon Phases 2019">Moon Phases 2019 </a></li>
-<li><a href="/purnima-2019-dates.html" title="Purnima 2019">Purnima 2019 Dates </a></li>
-<li><a href="/amavasya-2019-dates.html" title="Amavasya 2019">Amavasya 2019 Dates </a></li>
+<li><a href="/horoscope-2020.html">Horoscope 2020</a></li>
+<li><a href="/rashifal-2020.html" title="राशिफल 2020">राशिफल 2020</a></li>
+<li><a href="/chinese-horoscope-2020.html">Chinese Horoscope 2020</a></li>
+<li><a href="/finance-horoscope-2020.html">Finance Horoscope 2020</a></li>
+<li><a href="/education-horoscope-2020.html">Education Horoscope 2020</a></li>
+<li><a href="/career-horoscope-2020.html">Career Horoscope 2020</a></li>
+<li><a href="/love-horoscope-2020.html">Love Horoscope 2020</a></li>
+<li><a href="/numerology-2020-horoscope.html">Numerology 2020</a></li>
+<li><a href="/ank-jyotish-2020.html">अंक ज्योतिष 2020</a></li>
+<li><a href="/muhurat-2020.html">मुहूर्त 2020</a></li>
+<li><a href="/muhurat-2020-english.html">Muhurat 2020</a></li>
+<li><a href="/rashi-bhavishya-2020-marathi.html"> राशि भविष्य 2020 </a></li>
+<li><a href="/rashi-bhavishya-2020-gujarati.html"> રાશિ ભવિષ્ય 2020 </a></li>
+<li><a href="/rasi-palan-2020.html"> ராசி பலன் 2020 </a></li>
+<li><a href="/bengali-rashifal-2020.html"> রাশিফল ২০২০ </a></li>
+<li><a href="/rashi-bhavishya-2020-kannada.html"> ರಾಶಿ ಭವಿಷ್ಯ 2020 </a></li>
+<li><a href="/rashi-phalam-2020.html"> രാശി ഫലം 2020 </a></li>
+<li><a href="/rasi-phalalu-2020.html"> రాసి ఫలాలు 2020 </a></li>
+<li><a href="/new-year-2020-wishes-quotes.html">New Year Wishes 2020</a></li>
+<li><a href="/calendar-2020.html"> Calendar 2020 </a></li>
+<li><a href="/printable-calendar-2020.html"> Printable Calendar 2020 </a></li>
+<li><a href="/indian-calendar-2020.html" title="Indian Festivals 2019">Indian Festivals 2020</a></li>
+<li><a href="/public-holidays-2020.html"> Public Holidays 2020 </a></li>
 <li><a href="/bhrigoo-ai-powered-app-for-astrology.html"> Bhrigoo App </a></li>
-<li><a href="/eclipse-2019.html">Eclipse 2019</a></li>
-<li><a href="/grahan-2019-calendar.html">ग्रहण 2019</a></li>
-<li><a href="/muhurat-2019.html"> Muhurat 2019 </a></li>
-<li><a href="/shubh-muhurat-2019.html"> शुभ मुहूर्त 2019 </a></li>
-<li><a href="/rahu-transit-2019.html"> Rahu Transit 2019 </a></li>
-<li><a href="/ketu-transit-2019.html"> Ketu Transit 2019 </a></li>
-<li><a href="/saturn-transit-2019.html"> Saturn Transit 2019 </a></li>
-<li><a href="/jupiter-transit-2019.html"> Jupiter Transit 2019 </a></li>
-<li><a href="/rahu-transit-2019.html"> राहु गोचर 2019 </a></li>
-<li><a href="/ketu-transit-2019.html"> केतु गोचर 2019 </a></li>
- <li><a href="/shani-transit-2019.html"> शनि गोचर 2019 </a></li>
-<li><a href="/guru-gochar-2019.html"> गुरु गोचर 2019 </a></li>
-<li><a href="/lohri-2019.html"> Lohri 2019 </a></li>
-<li><a href="/bihu-2019.html"> Bihu 2019 </a></li>
-<li><a href="/makar-sankranti-2019.html"> Makar Sankranti 2019 </a></li>
-<li><a href="/planets-retrograde-2019-dates.html"> Planets Retrograde in 2019 </a></li>
-<li><a href="/mercury-retrograde-2019-dates.html"> Mercury Retrograde 2019 Dates </a></li>
-<li><a href="/indian-general-elections-2019.html"> India General Elections 2019 Predictions </a></li>
-<li><a href="/sports-events-2019.html"> Sports Events 2019 </a></li>
-<li><a href="/icc-world-cup-2019-schedule.html"> ICC World Cup 2019 Match Schedule </a></li>
-<li><a href="/ipl-2019-schedule.html"> IPL 2019 Schedule </a></li>
-</ul></div>
+<li><a href="/eclipse-2020.html">Eclipse 2020</a></li>
+<li><a href="/grahan-2020.html">ग्रहण 2020</a></li>
+<li><a href="/rahu-gochar-2020.html"> राहु गोचर 2020 </a></li>
+<li><a href="/ketu-gochar-2020.html"> केतु गोचर 2020 </a></li>
+<li><a href="/shani-gochar-2020.html"> शनि गोचर 2020 </a></li>
+<li><a href="/guru-gochar-2020.html"> गुरु गोचर 2020 </a></li>
+<li><a href="/lohri-2020.html"> Lohri 2020 </a></li>
+<li><a href="/bihu-2020.html"> Bihu 2020 </a></li>
+<li><a href="/diwali-2020.html"> Diwali 2020 </a></li>
+<li><a href="/navratri-2020.html"> Navratri 2020 </a></li>
+<li><a href="/makar-sankranti-2020.html"> Makar Sankranti 2020 </a></li>
+<li><a href="/vivah-muhurat-2020.html">विवाह मुहूर्त 2020</a></li>
+<li><a href="/griha-pravesh-muhurat-2020.html">गृह प्रवेश मुहूर्त 2020</a></li>
+<li><a href="/mundan-muhurat-2020.html">मुंडन मुहूर्त 2020</a></li>
+<li><a href="/karnavedha-muhurat-2020.html">कर्णवेध मुहूर्त 2020</a></li>
+<li><a href="/namkaran-muhurat-2020.html">नामकरण मुहूर्त 2020</a></li>
+<li><a href="/vidyarambh-muhurat-2020.html">विद्यारंभ मुहूर्त 2020</a></li>
+<li><a href="/annaprashan-muhurat-2020.html">अन्नप्राशन मुहूर्त 2020</a></li>
+<li><a href="/upanayana-muhurat-2020.html">जनेऊ मुहूर्त 2020</a></li>
+<li><a href="/hindu-marriage-dates-2020.html">Hindu Marriage Dates 2020</a></li>
+<li><a href="/house-warming-muhurat-2020.html">House Warming Ceremony 2020</a></li>
+<li><a href="/mundan-ceremony-muhurat-2020.html">Mundan Ceremony 2020</a></li>
+<li><a href="/karnavedha-muhurat-2020-english.html">Karnavedha Muhurat 2020</a></li>
+<li><a href="/naming-ceremony-namkaran-sanskar-2020.html">Naming Ceremony 2020</a></li>
+<li><a href="/vidyarambham-muhurat-2020.html">Vidyarambham Muhurat 2020</a></li>
+<li><a href="/annaprashan-muhurat-2020-english.html">Annaprashan Muhurat 2020</a></li>
+<li><a href="/upanayana-muhurat-2020-english.html">Upanayana Muhurat 2020</a></li>
+</ul>
+</div>
 </div>
 </div>
 </div>
@@ -1001,7 +975,7 @@ Select your Sign
 <div class="ac-ui-w2-ah">
 <form method="post" action="/kundli/personalized-horoscope.asp" onsubmit="return Validation1(this)">
 <fieldset>
-<legend>Free Personalized Horoscope 2019</legend>
+<legend>Free Personalized Horoscope 2020</legend>
 <label for="name">
 Name</label>
 <input name="astroname" id="astroname" type="text">
@@ -1082,6 +1056,7 @@ DOB</label>
 30</option>
 <option value="31">
 31</option>
+
 </select>
 <select size="1" name="astromonth" class="Sbox">
 <option selected="selected">MM</option>
@@ -1332,7 +1307,7 @@ DOB</label>
 1936
 </option>
 <option value="1935">
-1935
+ 1935
 </option>
 <option value="1934">
 1934
@@ -1357,7 +1332,7 @@ DOB</label>
 </option>
 <option value="1927">
 1927
- </option>
+</option>
 <option value="1926">
 1926
 </option>
@@ -1518,7 +1493,7 @@ DOB</label>
 <span>
 <input type="radio" id="radioWidgetService11" value="88" name="radioWidgetServices" checked="checked">
 <label for="radioWidgetService11">
-<span></span>2019 Personalized Horoscope - $16</label>
+<span></span>2020 Personalized Horoscope - $16</label>
 </span>
 <div class="ac-ui-w3-clear">
 </div>
@@ -1560,8 +1535,8 @@ DOB</label>
 </div>
 </div>
 <div class="panel">
-<a href="/offer/paypal-offer.asp?prtnr_id=PYRBN">
-<img src="/ads/paypal-right-en.jpg" width="100%" alt="Paypal Payment">
+<a title="Visit the CogniAstro.com" href="https://cogniastro.com/?prtnr_id=CABAN" onclick="getEvents('service', 'right-cogni-ad');">
+<img src="/images/promotion/cogni-ad-en.jpg" class="ui-padding-t ui-padding-b img-responsive" alt="Visit the CogniAstro.com">
 </a>
 </div>
 </div>
@@ -1588,21 +1563,22 @@ DOB</label>
 </div>
 </form>
 <div class="text-center padding-b">
-<a href="/horoscope-2019.html" class="topmenu">Horoscope 2019</a> :
-<a href="/aries-horoscope-2019.html" class="topmenu">Aries Horoscope 2019</a><span class="topmenudivider"> | </span>
-<a href="/taurus-horoscope-2019.html" class="topmenu">Taurus Horoscope 2019</a><span class="topmenudivider"> | </span>
-<a href="/gemini-horoscope-2019.html" class="topmenu">Gemini Horoscope 2019</a><span class="topmenudivider"> | </span>
-<a href="/cancer-horoscope-2019.html" class="topmenu">Cancer Horoscope 2019</a><span class="topmenudivider"> | </span>
-<a href="/leo-horoscope-2019.html" class="topmenu">Leo Horoscope 2019</a><span class="topmenudivider"> | </span>
-<a href="/virgo-horoscope-2019.html" class="topmenu">Virgo Horoscope 2019</a><span class="topmenudivider"> |</span>
-<a href="/libra-horoscope-2019.html" class="topmenu">Libra Horoscope 2019</a><span class="topmenudivider"> | </span>
-<a href="/scorpio-horoscope-2019.html" class="topmenu">Scorpio Horoscope 2019</a><span class="topmenudivider"> | </span>
-<a href="/sagittarius-horoscope-2019.html" class="topmenu">Sagittarius Horoscope 2019</a><span class="topmenudivider">| </span>
-<a href="/capricorn-horoscope-2019.html" class="topmenu">Capricorn Horoscope 2019</a><span class="topmenudivider"> |</span>
-<a href="/aquarius-horoscope-2019.html" class="topmenu">Aquarius Horoscope 2019</a><span class="topmenudivider"> | </span>
-<a href="/pisces-horoscope-2019.html" class="topmenu">Pisces Horoscope 2019</a>
+<a href="/horoscope-2020.html" class="topmenu">Horoscope 2020</a> :
+<a href="/aries-horoscope-2020.html" class="topmenu">Aries Horoscope 2020</a><span class="topmenudivider"> | </span>
+<a href="/taurus-horoscope-2020.html" class="topmenu">Taurus Horoscope 2020</a><span class="topmenudivider"> | </span>
+<a href="/gemini-horoscope-2020.html" class="topmenu">Gemini Horoscope 2020</a><span class="topmenudivider"> | </span>
+<a href="/cancer-horoscope-2020.html" class="topmenu">Cancer Horoscope 2020</a><span class="topmenudivider"> | </span>
+<a href="/leo-horoscope-2020.html" class="topmenu">Leo Horoscope 2020</a><span class="topmenudivider"> | </span>
+<a href="/virgo-horoscope-2020.html" class="topmenu">Virgo Horoscope 2020</a><span class="topmenudivider"> |</span>
+<a href="/libra-horoscope-2020.html" class="topmenu">Libra Horoscope 2020</a><span class="topmenudivider"> | </span>
+<a href="/scorpio-horoscope-2020.html" class="topmenu">Scorpio Horoscope 2020</a><span class="topmenudivider"> | </span>
+<a href="/sagittarius-horoscope-2020.html" class="topmenu">Sagittarius Horoscope 2020</a><span class="topmenudivider">| </span>
+<a href="/capricorn-horoscope-2020.html" class="topmenu">Capricorn Horoscope 2020</a><span class="topmenudivider"> |</span>
+<a href="/aquarius-horoscope-2020.html" class="topmenu">Aquarius Horoscope 2020</a><span class="topmenudivider"> | </span>
+<a href="/pisces-horoscope-2020.html" class="topmenu">Pisces Horoscope 2020</a>
 </div>
 <div class="text-center padding-b">
+<a href="https://cogniastro.com/" class="footerfont" title="Career Counselling">Career Counselling</a> <span class="footerfontdivider">|</span>
 <a href="/affiliate/" class="footerfont">Partner Program </a> <span class="footerfontdivider">|</span>
 <a href="/services.asp" class="footerfont">Astrology Services/ Reports</a> <span class="footerfontdivider">|</span>
 <a href="/astrology-software.asp" class="footerfont">Astrology Software</a> <span class="footerfontdivider">|</span>
@@ -1614,11 +1590,65 @@ DOB</label>
 <a href="/PrivacyPolicy.asp" class="footerfont">Privacy Policy</a> <span class="footerfontdivider">|</span>
 <a href="/returnpolicy.asp" class="footerfont">Return Policy</a> <span class="footerfontdivider">|</span>
 <a href="/terms.asp" class="footerfont">Terms of Use</a>
-<br>
+</div>
+<div class="text-center padding-b">
+<a href="/" title="AstroCAMP.com" class="topmenu">Home</a> |
+<a href="/contactus.asp" title="Contact AstroCAMP.com" class="topmenu">Contact Us</a> |
+<a href="mailto:customercare@astrocamp.com" class="ccpopup topmenu" title="Contact AstroCAMP.com Customer Care" style="text-decoration: none">Customer Care <span class="cc">
+<font style="font-size: 13px;">
+customercare@astrocamp.com<br>
++91 95606 70006
+(9AM to 6PM IST)</font></span></a>
+</div>
+<div class="text-center padding-b">
+<div class="topnav-social">
+<a href="//www.youtube.com/AstroSageIndia" target="_blank" data-toggle="tooltip-b" title="Subscribe us on YouTube"><i class="fa fa-youtube-square text-youtube"></i>
+</a><a href="//www.twitter.com/punitastrologer" target="_blank" data-toggle="tooltip-b" title="Follow us on Twitter"><i class="fa fa-twitter-square text-twitter"></i>
+</a><a href="//www.facebook.com/astrology.horoscope" target="_blank" data-toggle="tooltip-b" title="Like us on Facebook"><i class="fa fa-facebook-square text-fb"></i></a>
+</div>
+</div>
+<div class="text-center padding-b">
 <span class="copyright">© Copyright 2019 AstroCAMP.com All Rights Reserved</span>
 </div>
 
+
+<div class="modal fade in" id="appDownload" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<a href="#" class="close pull-left ui-margin-r" data-dismiss="modal" aria-hidden="true" style="font-size: 36px; margin-top: -8px;" onclick="appDownloadPopup('cancel-app-popup', 'download-app');">×</a>
+<h4 class="modal-title">
+<b>AstroSage Kundli Android App</b></h4>
+</div>
+<div class="modal-body">
+<h4 align="center">
+Free Kundli Software &amp; More</h4>
+<div align="center" class="ui-margin-t">
+<a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source%3Dastrocamppopup%26utm_medium%3Dpopup%26utm_campaign%3Dmobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');" class="btn btn-danger btn-lg">Download FREE<br>
+<h6>
+In less than a Minute</h6>
+</a>
+</div>
+<div align="center">
+<a href="https://play.google.com/store/apps/details?id=com.ojassoft.astrosage&amp;referrer=utm_source%3Dastrocamppopup%26utm_medium%3Dpopup%26utm_campaign%3Dmobileapp" rel="nofollow" onclick="appDownloadPopup('download-app-popup', 'download-app');">
+<img src="/images/app-download.jpg" class="img-responsive"></a></div>
+</div>
+</div>
+
+</div>
+
+</div>
+
 <script language="JavaScript" type="text/javascript">
+    $(document).ready(function () {
+        setTimeout(function () {
+            if (isMobileJS.Android()) {
+                if (!getCookiesAppPopup()) {
+                    $('#appDownload').modal('toggle');
+                }
+            }
+        }, 30000);
+    });
     //You should create the validator only after the definition of the asp form
     var frmvalidator = new Validator("frmemail");
 
