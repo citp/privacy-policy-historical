@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cpothemes.com privacy policy that was archived on 2019-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190108211953id_/https%3A//cpothemes.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpothemes.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205060713id_/https%3A//cpothemes.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - CPOThemes
 
-CPOThemes belongs to **SC** **Sigma Labs SRL** , here collectively called the “Company”. The Company respects your privacy rights and recognizes the importance of protecting the Personal Information (as defined below) provided by you to us. This Privacy Policy describes how the Company collects, stores, and uses the Personal Information you provide to us through the Company’s websites and through telephone or e-mail communications you may have with us. This Privacy Policy also describes the choices available to you regarding the Company’s use of the Personal Information you provide to us, and the actions you can take to access this information and request the correction or deletion of such personal information.
+CPOThemes belongs to **SC** **Sigma Labs SRL** , here collectively called the “Company”. The Company respects your privacy rights and recognizes the importance of protecting the Personal Information (as defined below) provided by you to us. This Privacy Policy describes how the Company collects, stores, and uses the Personal Information you provide to us through the Company’s websites and through live chat or e-mail communications you may have with us. This Privacy Policy also describes the choices available to you regarding the Company’s use of the Personal Information you provide to us, and the actions you can take to access this information and request the correction or deletion of such personal information.
 
 ### **Consent**
 
@@ -127,11 +127,11 @@ Help Scout promises to securely store the personal data needed for running their
 
 By default, WordPress does not include a contact form. We are using NinjaForms as our contact form plugin.Through our contact form we collect your name and email address. This data is stored indefinitely for customer support purposes and users have the right to ask us to delete their private data, even if this could mean the termination of the service we provide them due to technical reasons. We do not use the information submitted through here for marketing purposes.
 
-#### **FastSpring – fastspring.com**
+#### **Braintree – Braintreepayments.com.com**
 
-FastSpring is our payment processor which offers a subscription billing system for our digital products. We don’t keep any Credit Card data.
+Braintree is our payment processor which offers a subscription billing system for our digital products. We don’t keep any Credit Card data.
 
-FastSpring is fully compliant with GDPR as you can see [here](https://info.fastspring.com/gdpr).  
+Braintree is fully compliant with GDPR as you can see [here](https://www.braintreepayments.com/ro/legal/braintree-privacy-policy).  
 As we mentioned above, we keep the payment details as we are obligated by the fiscal law.
 
 #### **Akismet – akismet.com  
@@ -157,7 +157,7 @@ Additionally we may also collect the following information:
 
 #### **WordPress – wordpress.org**
 
-WordPress.org is the foundation that manages the WordPress content management system, WordPress themes, WordPress plugins. WordPress is used by many of our users to develop and run websites. Our WordPress plugin is a piece of software that connects the sites built with WordPress to our servers, where we optimize the images of our users.
+WordPress.org is the foundation that manages the WordPress content management system, WordPress themes, WordPress plugins. WordPress is used by many of our users to develop and run websites.
 
 WordPress aggregates data about the active plugin installs and about the total number of downloads. WordPress.org is developing a tool to help plugin creators (like us) to comply with the GDPR law. This tool is not ready as we speak. We will implement it as soon as it becomes available to the general public.
 
@@ -228,7 +228,7 @@ We also collect information for research purposes and to provide anonymous repor
 
 #### **Customer Service**
 
-We will communicate with you in response to your inquiries, to provide the products and services you request, and to manage your account. We will communicate with you by e-mail, live chat or telephone.
+We will communicate with you in response to your inquiries, to provide the products and services you request, and to manage your account. We will communicate with you by e-mail or live chat .
 
 #### **Preferences**
 
