@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601010146id_/https%3A//www.slb.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slb.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205184338id_/https%3A//www.slb.com/who-we-are/privacy) for the most accurate reproduction.*
 
-# Schlumberger General Privacy Statement | Schlumberger
+# Schlumberger General Privacy Statement | SLB
 
 Last updated: 22 May 2019
 
@@ -107,7 +107,7 @@ We do not knowingly collect sensitive Personal Information (such as, social secu
 We and our service providers may collect Other Information in a variety of ways, including: 
 
   * **Through your browser or device** : Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Mac), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the services (such as the app) you are using. We use this information to ensure that the services function properly. 
-  * **Use of cookies** : We may use "cookies" in connection with operation of its websites. Cookies are small pieces of information that are stored on your computer by the Schlumberger Website server. Our use of cookies and similar technologies is described in our Cookie Policy, available here https://www.slb.com/about/cookies.aspx.
+  * **Use of cookies** : We may use "cookies" in connection with operation of its websites. Cookies are small pieces of information that are stored on your computer by the Schlumberger Website server. 
 
 
 
@@ -127,7 +127,7 @@ Schlumberger reserves the right to change, modify, or update this Privacy Statem
 
 ### Your rights
 
-Schlumberger wants to maintain only accurate information about users of the site. If you would like to request access to Personal Information that you have previously provided to us you may contact us by using this form <https://www.slb.com/forms/contact/contact_inquiry.aspx>. We will respond to your request consistent with applicable law.
+Schlumberger wants to maintain only accurate information about users of the site. If you would like to request access to Personal Information that you have previously provided to us you may contact us by using this form <https://connect.slb.com/connect-with-us>. We will respond to your request consistent with applicable law.
 
 In your request, please make clear what Personal Information to which you would like access and your purpose for making the request. For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. 
 
@@ -155,7 +155,7 @@ In addition, we are not responsible for the information collection, use, disclos
 
 ### Contact information
 
-If you have any questions about this Privacy Statement, please contact us using this form <https://www.slb.com/forms/contact/contact_inquiry.aspx>, where you can also find the contact details of Schlumberger Limited and our EU contact details.
+If you have any questions about this Privacy Statement, please contact us using this form <https://connect.slb.com/connect-with-us>, where you can also find the contact details of Schlumberger Limited and our EU contact details.
 
 Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
 
@@ -163,6 +163,6 @@ Because email communications are not always secure, please do not include credit
 
 You may also:
 
-  * \- lodge a complaint with a supervisory authority competent for your country or region or where an alleged infringement of applicable data protection law occurs. A list of data protection authorities is available at <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>. 
+  * lodge a complaint with a supervisory authority competent for your country or region or where an alleged infringement of applicable data protection law occurs. A list of data protection authorities is available at <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080>. 
 
 
