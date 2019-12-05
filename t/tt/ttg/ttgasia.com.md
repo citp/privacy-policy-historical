@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttgasia.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531223831id_/https%3A//www.ttgasia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttgasia.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205065849id_/https%3A//www.ttgasia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TTG Asia
 
