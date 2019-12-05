@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2019-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190429013124id_/https%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sammydress.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205010216id_/https%3A//www.sammydress.com/m-article-id-27.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Sammydress.com
 
@@ -62,8 +62,6 @@ If you prefer, you can choose to have your computer warn you each time a cookie 
 
 We do not sell, trade, or otherwise transfer to outside parties your personal information. This does not include trusted third parties who assist us in operating our website, conducting our business, executing payments, delivering purchased products or services, sending you information or updates or otherwise servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
 
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
 #### How long do we retain your information?
 
 We will retain your personal information for as long as it is necessary to fulfil the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by tax, accounting or other applicable laws. 
@@ -82,4 +80,10 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 #### Contact Us
 
-If you would like to exercise one of your rights as set out above, or if you have a question or a complaint about this policy, the way your personal information is processed, please contact us via e-mail: [support@sammydress.com](mailto:support@sammydress.com).
+If you would like to exercise one of your rights as set out above, or if you have a question or a complaint about this policy, the way your personal information is processed, please contact us via e-mail: [support@sammydress.com](mailto:support@sammydress.com). 
+
+GDPR representative in EU  
+Dr. Antje Johst  
+Kurfürstendamm 67 | 10707 Berlin / Germany  
+Phone + 49 (0)30 - 88 921 304  
+E-Mail [eurep@antjejohst.com](mailto:eurep@antjejohst.com)
