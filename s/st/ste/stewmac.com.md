@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stewmac.com privacy policy that was archived on 2018-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180520015403id_/http%3A//www.stewmac.com/PrivacyAndSecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stewmac.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205030334id_/http%3A//www.stewmac.com/PrivacyAndSecurity.html) for the most accurate reproduction.*
 
 # Privacy & Security | stewmac.com
 
@@ -10,8 +10,8 @@ Our privacy policy is simple: we do not share customer address or contact inform
 
 However, being a modern website, we do collect information from you in several different ways while you browse and shop. Like most eCommerce websites, our site employs cookies and web beacons to speed your navigation of the website, recognize you and your access privileges, and track your website usage.
 
-  * **Cookies** are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the website. Cookies do not and cannot infiltrate your hard drive or access a User's confidential information; our cookies are not "spyware."
-  * **Web beacons** assist in delivering cookies and help us determine whether a web page on the website has been viewed and, if so, how many times. For example, any electronic image on the website, such as a product image, can function as a web beacon.
+  * **Cookies** are small pieces of information that are stored as text files by your Internet browser on your computer's hard drive. Most Internet browsers are initially set to accept cookies. You can set your browser to refuse cookies from websites or to remove cookies from your hard drive, but if you do, you will not be able to access or use portions of the website. Cookies do not and cannot infiltrate your hard drive or access a User's confidential information; our cookies are not "spyware." 
+  * **Web beacons** assist in delivering cookies and help us determine whether a web page on the website has been viewed and, if so, how many times. For example, any electronic image on the website, such as a product image, can function as a web beacon. 
 
 
 
