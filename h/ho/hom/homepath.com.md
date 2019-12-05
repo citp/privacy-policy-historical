@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2017-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170925003923id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepath.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205093745id_/http%3A//www.fanniemae.com/portal/privacy-statement.html) for the most accurate reproduction.*
 
 # Online Privacy Notice | Fannie Mae
 
@@ -9,6 +9,7 @@ Fannie Mae respects your concerns about privacy and values its relationship with
   * **KnowYourOptions.com**
   * **HomePath.com**
   * **TheHomeStory.com**
+  * **LowDownPaymentOption.com**
 
 
 
@@ -81,6 +82,9 @@ We maintain administrative, technical and physical safeguards designed to protec
 **Links to Other Web Sites, Features, and Embedded Content**  
 For your convenience and information, our Sites may provide links to other Web sites or online services, including social media sites, or present content or features from other Web sites or other third parties. These Web sites may operate independently from Fannie Mae. The Web sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked Web site or pages containing content hosted by other Web sites. To the extent such Web sites are not owned or controlled by Fannie Mae, we are not responsible for the Web site's content, any use of the Web site, or the privacy practices of the Web site. 
 
+**Website Visitors and Investors from Outside of the U.S.**  
+The privacy laws of other countries outside of the U.S. may provide rights for natural persons who are considered data subjects under such laws. The European Union’s General Data Protection Regulation (GDPR) is an example of such a law. This Privacy Notice provides such data subjects with information about the data we collect and how that data is processed. In accordance with your rights as a data subject, you may request information about how we collect, use, share, store and retain your personal information. Among other rights as a data subject, you may obtain rectification of errors in the record of your personal data, or you may request a copy or erasure of your personal data. These rights are subject to our right to process your personal data based on your consent, as necessary for the performance of a contract to which you are party, a legal obligation to which Fannie Mae is subject, or Fannie Mae’s legitimate interests. If you have any questions, please contact Fannie Mae’s Privacy Office at [Privacy_WorkingGroup@fanniemae.com](https://web.archive.org/portal/jsp/contact-us-form.html?emailID=ten) or at the address listed below.
+
 **Updates to Our Online Privacy Notice**  
 This Online Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our Sites to notify you of any significant changes to this Online Privacy Notice, indicate when it was most recently updated and its effective date. Unless otherwise stated, changes in our personal information practices are immediately applicable to you upon publication of the revised Online Privacy Notice. Information collected from Fannie Mae-controlled Web sites not listed above but posting this Online Privacy Notice, is, by default, subject to this Online Privacy Notice. 
 
@@ -89,11 +93,9 @@ If you have any questions or comments about this Online Privacy Notice, please:
 
 Write to:  
 Fannie Mae  
-3900 Wisconsin Ave., NW  
-Washington, DC 20016 
+1100 15th Street, NW  
+Washington, DC 20005 
 
 E-mail:  
 [Privacy_WorkingGroup@fanniemae.com](http://www.fanniemae.com/portal/jsp/contact-us-form.html?emailID=ten)   
-Effective date: August 15, 2017
-
-\- See more at: http://fanniemae.com/portal/privacy-statement.html#sthash.nf620hI6.dpuf
+Effective date: March 29, 2019
