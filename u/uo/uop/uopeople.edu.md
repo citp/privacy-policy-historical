@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uopeople.edu privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526110108id_/https%3A//3w1fdw3g237j15p5421zov1f-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Website-Privacy-Policy-Updated-5.21.2018.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uopeople.edu privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205072334id_/https%3A//3w1fdw3g237j15p5421zov1f-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/Website-Privacy-Policy-Updated-5.21.2018.pdf) for the most accurate reproduction.*
 
 # 
 
