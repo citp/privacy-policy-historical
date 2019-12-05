@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517014249id_/https%3A//www.hollandamerica.com/en_US/legal-privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandamerica.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205230948id_/https%3A//www.hollandamerica.com/en_US/legal-privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Holland America
 
@@ -32,7 +32,7 @@ Your Comments are Appreciated 
 
 We may collect personal information about you, for example, when you register at our website, request a brochure or video, an itinerary, deck plan or ebrochure, sign up to receive promotional materials, fill out a survey, or email or access our cruise booking application. We may also collect the information you submit through our "Chat" functions or our "Contact Us" pages. Confirmed guests checking in online will be asked to provide certain personal information. We also collect information when you purchase a product or service from the Sites.
 
-Holland America Line uses information you provide and other information we collect for our business purposes including, without limitation, to provide better service to our customers, to comply with our legal obligations, to operate and grow our business, to improve and customize the content you see, to provide the products, services or membership benefits you request, and to contact you about special promotions and new products. If you are a resident of the European Union, your rights under the General Data Protection Regulation are subject to the privacy notice applicable to residents of the European Union. [Click here](https://www.hollandamerica.com/en_US/legal-privacy/privacy-notice-eu-gdpr-en.html "EU GDPR Privacy Notice").
+Holland America Line uses information you provide and other information we collect for our business purposes including, without limitation, to provide better service to our customers, to comply with our legal obligations, to operate and grow our business, to improve and customize the content you see, to provide the products, services or membership benefits you request, and to contact you about special promotions and new products. If you are a resident of the European Union, your rights under the General Data Protection Regulation are subject to the [privacy notice applicable to residents of the European Union](https://www.hollandamerica.com/en_US/legal-privacy/privacy-notice-eu-gdpr-en.html "EU GDPR Privacy Notice").
 
 **Site Use Information**
 
@@ -43,7 +43,7 @@ Our web servers may collect the domain names of visitors to our site. This infor
 
 We automatically collect certain type of usage information when you visit the Sites, receive Holland America Line’s emails, or otherwise engage with us. For example, we use cookies, log file information, clear gifs or beacons, device recognition technologies and other similar tracking technology to better understand our Site usage information and to improve our Site and our user experience. We may use these technologies to collect the type of device you use to access our Sites, your device identifier, IP address or mobile operating system. If you use our website, we may collect information about the browser you are using. We might look at what site you came from, or what site you visit when you leave us. If you use our mobile application, we might look at how often you use the app and where you downloaded it. We may collect this information over time and across different websites, apps and devices. Third parties may also collect your personal information this way when you use the Sites. Some methods we use to collect this usage information is explained below.
 
-To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to read our Do Not Track policy, please [click here](https://www.hollandamerica.com/en_US/legal-privacy/about-our-ads.html "About Our Ads").  
+To learn how to manage how we – and our vendors – use cookies and other tracking tools, and to [read our Do Not Track policy](https://www.hollandamerica.com/en_US/legal-privacy/about-our-ads.html "About Our Ads").  
 
 
 _Cookies_ help personalize your online experience, such as recognizing your name when you revisit, your language and country, as well as to assist us in marketing and advertising. A cookie is a small text file containing a string of alphanumeric characters placed on your devices that uniquely identify your browser and let us help you log in faster and enhance your navigation through the Site. Cookies cannot be used to run programs or deliver viruses to your computer. Some cookies are deleted once you leave our website ("session cookies"), while other cookies remain after you leave our website ("persistent cookies") so that you are recognized when you return to the website.
@@ -101,7 +101,7 @@ From time to time we may offer promotions, contests, or sweepstakes (collectivel
 
 **Child Privacy**
 
-Our sites are meant for adults. Because of the nature of our business, our products and services are not designed to appeal to minors and we do not knowingly collect information on children under 13 without parental consent. If you believe we have collected information from a person under 13 and would like the information removed, please contact us at privacyHAL@HollandAmerica.com. Parents, you can learn more about how to protect children's privacy on-line [here](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online "FTC website on protecting child's privacy").  
+Our sites are meant for adults. Because of the nature of our business, our products and services are not designed to appeal to minors and we do not knowingly collect information on children under 13 without parental consent. If you believe we have collected information from a person under 13 and would like the information removed, please contact us at [privacyHAL@HollandAmerica.com](mailto:privacyHAL@HollandAmerica.com "email to Privacy at Holland America"). Parents, you can [learn more about how to protect children's privacy on-line here](https://www.consumer.ftc.gov/articles/0031-protecting-your-childs-privacy-online "FTC website on protecting child's privacy").  
 
 
 **Access to Your Information**
@@ -132,7 +132,7 @@ We will share Profile Information and other personal information with unaffiliat
 
   * You may limit our affiliates, our sister cruise lines in the Carnival Corporation (Carnival Cruise Lines, Costa, Seabourn, Cunard, Aida, P&O Cruises (UK and Australia) and Princess Cruises), from marketing their products or services to you based on personal information Holland America Line provides them. This information includes your name, your address, and your history of cruising.
   * Your choice to limit marketing offers will apply for 5 years from when you tell us your choice. Once that period expires, you will receive a renewal notice which will allow you to limit marketing offers for another 5 years.
-  * If you have already made a choice to limit marketing offers from us, you do not need to act again until you receive the renewal notice. To limit affiliate marketing offers, contact us toll free at 877-982-4259.
+  * If you have already made a choice to limit marketing offers from us, you do not need to act again until you receive the renewal notice. To limit affiliate marketing offers, contact us toll free at 877-932-4259.
 
 
 
@@ -143,7 +143,7 @@ The Transportation Security Administration (TSA) requires you to provide your fu
 
 **Your California Privacy Rights**
 
-Holland America Line Cruises may disclose your personal information to our affiliates or other third parties for their use in marketing to you unless you tell us not to. In order to opt out of such sharing or for further information, please contact us at privacyHAL@HollandAmerica.com or call 1–877-932-4259.  
+Holland America Line Cruises may disclose your personal information to our affiliates or other third parties for their use in marketing to you unless you tell us not to. In order to opt out of such sharing or for further information, please contact us at [privacyHAL@HollandAmerica.com](mailto:privacyHAL@HollandAmerica.com "email to Privacy at Holland America") or call 1–877-932-4259.  
 
 
 **Security Procedures to Protect Information**
