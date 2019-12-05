@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pike13.com privacy policy that was archived on 2019-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190213003022id_/https%3A//www.pike13.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pike13.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205023226id_/https%3A//www.pike13.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pike13
 
