@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505193414id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ico.org.uk privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205104655id_/https%3A//ico.org.uk/global/privacy-notice) for the most accurate reproduction.*
 
 # ICO Privacy notice | ICO
 
@@ -16,12 +16,12 @@ _Depending on your organisation’s network policies, you may be unable to view 
 
 We’ll tell you:
 
-  * why we are able to process your information
-  * what purpose we are processing it for
-  * whether you have to provide it to us
-  * how long we store it for
-  * whether there are other recipients of your personal information
-  *  whether we intend to transfer it to another country, and
+  * why we are able to process your information;
+  * what purpose we are processing it for;
+  * whether you have to provide it to us;
+  * how long we store it for;
+  * whether there are other recipients of your personal information;
+  * whether we intend to transfer it to another country; and
   * whether we do automated decision-making or profiling.
 
 
