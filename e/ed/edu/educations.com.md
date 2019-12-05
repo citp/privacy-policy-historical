@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educations.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322134508id_/https%3A//www.educations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educations.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205021757id_/https%3A//www.educations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
