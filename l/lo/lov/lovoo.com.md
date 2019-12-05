@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovoo.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627213032id_/https%3A//www.lovoo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovoo.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205112239id_/https%3A//www.lovoo.com/legal/privacy) for the most accurate reproduction.*
 
 # Legal Information LOVOO
 
@@ -65,7 +65,6 @@ This privacy statement breaks down into the following sections:
         10.2 Information, correction, deletion, transfer
     11. Changes to this privacy statement
     12. Privacy contact person and data protection officer
-    
 
   1. How is my data collected, processed and used when I download the LOVOO app?
 
@@ -403,6 +402,8 @@ Visit <https://www.google.de/intl/de/policies/privacy/> to read Google's / YouTu
 **Pinterest**
 
 Visit <https://about.pinterest.com/de/privacy-policy> to read Pinterest's privacy policy (operated by Pinterest Inc., 808 Brannan Street, San Francisco, CA 94103, USA).
+
+### 5.4 Embedded Like/Share buttons and social plug-ins
 
 You will also find that social plug-ins of Facebook (operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA) and Twitter (operated by Twitter Inc., 795 Folsom Street, Suite 600, San Francisco, CA 94107, USA) are embedded in the LOVOO domain but disabled at first.
 
