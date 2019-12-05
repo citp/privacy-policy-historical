@@ -1,1859 +1,1306 @@
-<!--The following is the downloaded HTML source of the newstalk.com privacy policy that was archived on 2018-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180528131413id_/http%3A//www.newstalk.com/Privacy-Policy-) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newstalk.com privacy policy that was archived on 2019-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191205072100id_/https%3A//www.newstalk.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-<title>Newstalk Privacy Policy | Newstalk</title>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="apple-itunes-app" content="app-id=372643826, affiliate-data=myAffiliateData, app-argument=myURL">
-<meta property="fb:pages" content="70425092906">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<meta name="google-site-verification" content="iyft8XrMUQx6-nKBrzd96ZXoVrlgyrXW3SOm9YjEpHQ">
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="csrf-token" content="">
+<link rel="canonical" href="https://www.newstalk.com/privacy-policy">
+<meta name="robots" content="index, follow">
+<title>Privacy Policy | Newstalk</title>
+<meta name="description" content="NEWSTALK PRIVACY POLICYPrivacy policyThis is the privacy policy of Newstalk and their legal suc...">
+<link href="/css/app.css?id=43e2cadc1d26dbff2704" rel="stylesheet">
+<link rel="apple-touch-icon" href="https://www.newstalk.com/i/apple-touch-icon.png?v=6">
+<link rel="icon" sizes="192x192" href="https://www.newstalk.com/i/android-icon-192x192.png?v=6">
+<link rel="shortcut icon" href="https://www.newstalk.com/favicon.ico?v=11">
+<meta name="author" content="Luke Hanrahan">
+<meta property="dfp" content="27435881">
+<meta property="publication" content="NT">
+<meta property="now-playing-base" content="https://s3-eu-west-1.amazonaws.com/storage.publisherplus.ie/media.radiocms.net/now-playing/">
+<meta name="theme-color" content="#ffffff">
+<meta property="fb:app_id" content="329929024447985">
+<meta property="fb:pages" content="">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="https://quantcast.mgr.consensu.org/cmp.js" async="" type="text/javascript"></script><script>
+var consentManager = {
+    publisherCookieName: 'pubconsent',
+    vendorCookieName: 'vendorconsent',
+    googleCookieName: 'googleconsent',
+    received: {
+        google: false,
+        publisher: false,
+        vendor: false
+    },
+    ready: false,
 
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-M79D528"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-		
-		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-		
-		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-		
-		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-		
-		})(window,document,'script','dataLayer','GTM-M79D528');</script>
+    setCookie: function(name, value, expiry_days) {
+        var d = new Date();
+        d.setTime(d.getTime() + (expiry_days*24*60*60*1000));
+        var expires = "expires="+ d.toUTCString();
+        document.cookie = name + "=" + JSON.stringify(value) + ";" + expires + ";path=/";
+    },
 
-<meta name="description" content="">
-<meta name="keywords" content="Footer Pages">
-<meta name="news_keywords" content="Footer Pages"><link rel="canonical" href="https://www.newstalk.com/Privacy-Policy-">
-<meta property="og:title" content="Newstalk Privacy Policy">
-<meta property="og:description" content="">
-<meta property="og:image" content="http://www.newstalk.com/assets/graphics/nt_holder_656x500.jpg">
-<meta property="og:image:width" content="656">
-<meta property="og:image:height" content="500">
-<meta property="og:site_name" content="newstalk.com">
-<meta property="og:url" content="https://www.newstalk.com/Privacy-Policy-">
+    getCookie: function(name) {
+        var name = name + "=";
+        var decodedCookie = decodeURIComponent(document.cookie);
+        var ca = decodedCookie.split(';');
+        for(var i = 0; i <ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') {
+                c = c.substring(1);
+            }
+            if (c.indexOf(name) == 0) {
+                return c.substring(name.length, c.length);
+            }
+        }
+        return "";
+    },
+
+    /**
+     * Is a given feature allowed to run, based on user consent settings?
+     *
+     * @param  name
+     *
+     * @return  Boolean
+     */
+    isAllowed: function(name) {
+        var pubConsent = this.getPublisherConsents();
+
+        if (name == 'dfp') {
+            var googleConsent = this.getGoogleConsents();
+            var consented = (pubConsent.standardPurposeConsents[1] && pubConsent.standardPurposeConsents[3]);
+            return (!isNaN(consented) && consented && googleConsent);
+        }
+        // If there are other 3rd party data services, their names can be mapped to consents here to
+        // toggle on/off data sharing.
+
+        return false;
+    },
+
+    setConsents: function(type, obj) {
+        if (type == 'publisher') {
+            this.setCookie(this.publisherCookieName, obj, 30);
+            this.trackPublisherConsentLevel();
+            this.received.publisher = true;
+        } else if (type == 'vendor') {
+            this.setCookie(this.vendorCookieName, obj, 30);
+            this.trackVendorConsentLevel();
+            this.received.vendor = true;
+        } else if (type == 'google') {
+            this.setCookie(this.googleCookieName, obj, 30);
+            this.received.google = true;
+        }
+        this.ready = true;
+    },
+
+
+    isReady: function () {
+        return (this.received.google && this.received.vendor && this.received.publisher);
+    },
+
+    trackPublisherConsentLevel: function () {
+        consents = this.getPublisherConsents();
+        var total = (consents.standardPurposeConsents[1]
+            && consents.standardPurposeConsents[3]
+            && consents.standardPurposeConsents[5]);
+        if (isNaN(total)) {
+            total = false;
+        }
+
+        var partial = (consents.standardPurposeConsents[1]
+            || consents.standardPurposeConsents[3]
+            || consents.standardPurposeConsents[5]);
+
+        ga(
+            'send',
+            'event',
+            'Consent [Publisher]',
+            total ? 'Total' : (partial ? 'Partial' : 'None'),
+            '1',
+            {'nonInteraction': 1}
+        );
+        return total;
+    },
+
+    trackVendorConsentLevel: function () {
+        consents = this.getVendorConsents();
+        var total = (consents.purposeConsents[1]
+            && consents.purposeConsents[2]
+            && consents.purposeConsents[3]
+            && consents.purposeConsents[4]
+            && consents.purposeConsents[5]);
+        if (isNaN(total)) {
+            total = false;
+        }
+
+        var partial = (consents.purposeConsents[1]
+            && consents.purposeConsents[2]
+            && consents.purposeConsents[3]
+            && consents.purposeConsents[4]
+            && consents.purposeConsents[5]);
+
+        ga(
+            'send',
+            'event',
+            'Consent [Vendor]',
+            total ? 'Total' : (partial ? 'Partial' : 'None'),
+            '1',
+            {'nonInteraction': 1}
+        );
+        return total;
+    },
+
+    getPublisherConsents: function() {
+        var cookie = this.getCookie(this.publisherCookieName);
+        if (!cookie.length) {
+            return {standardPurposeConsents:{}};
+        }
+        return JSON.parse(cookie);
+    },
+
+    getGoogleConsents: function() {
+        var cookie = this.getCookie(this.googleCookieName);
+        if (!cookie.length) {
+            return 0;
+        }
+        return cookie;
+    },
+
+    getVendorConsents: function() {
+        var cookie = this.getCookie(this.vendorCookieName);
+        if (!cookie.length) {
+            return {purposeConsents:{}};
+        }
+        return JSON.parse(cookie);
+    },
+
+    /**
+     * Are we serving non-personalised ads?
+     * DFP syntax requires true for non-personalised, but we have isAllowed above.
+     * Littering the code with setNonPersonalised(!gdpr.isAllowed('dfp')) feels like
+     * an accident waiting to happen, so add a convenience wrapper here.
+     *
+     * @return  int
+     */
+    isServingNonPersonalisedAds: function() {
+        // Needs to be int, not boolean for dfp
+        if (this.isAllowed('dfp')) {
+            return 0;
+        }
+
+        return 1;
+    },
+};
+</script>
+
+<script type="text/javascript" async="true">
+    var elem = document.createElement('script');
+    elem.src = 'https://quantcast.mgr.consensu.org/cmp.js';
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    (function() {
+        var gdprAppliesGlobally = true;
+        function addFrame() {
+            if (!window.frames['__cmpLocator']) {
+                if (document.body) {
+                    var body = document.body,
+                        iframe = document.createElement('iframe');
+                    iframe.style = 'display:none';
+                    iframe.name = '__cmpLocator';
+                    body.appendChild(iframe);
+                } else {
+                    // In the case where this stub is located in the head,
+                    // this allows us to inject the iframe more quickly than
+                    // relying on DOMContentLoaded or other events.
+                    setTimeout(addFrame, 5);
+                }
+            }
+        }
+        addFrame();
+        function cmpMsgHandler(event) {
+            var msgIsString = typeof event.data === "string";
+            var json;
+            if(msgIsString) {
+                json = event.data.indexOf("__cmpCall") != -1 ? JSON.parse(event.data) : {};
+            } else {
+                json = event.data;
+            }
+            if (json.__cmpCall) {
+                var i = json.__cmpCall;
+                window.__cmp(i.command, i.parameter, function(retValue, success) {
+                    var returnMsg = {"__cmpReturn": {
+                            "returnValue": retValue,
+                            "success": success,
+                            "callId": i.callId
+                        }};
+                    event.source.postMessage(msgIsString ?
+                        JSON.stringify(returnMsg) : returnMsg, '*');
+                });
+            }
+        }
+        window.__cmp = function (c) {
+            var b = arguments;
+            if (!b.length) {
+                return __cmp.a;
+            }
+            else if (b[0] === 'ping') {
+                b[2]({"gdprAppliesGlobally": gdprAppliesGlobally,
+                    "cmpLoaded": false}, true);
+            } else if (c == '__cmp')
+                return false;
+            else {
+                if (typeof __cmp.a === 'undefined') {
+                    __cmp.a = [];
+                }
+                __cmp.a.push([].slice.apply(b));
+            }
+        }
+        window.__cmp.gdprAppliesGlobally = gdprAppliesGlobally;
+        window.__cmp.msgHandler = cmpMsgHandler;
+        if (window.addEventListener) {
+            window.addEventListener('message', cmpMsgHandler, false);
+        }
+        else {
+            window.attachEvent('onmessage', cmpMsgHandler);
+        }
+        window.__cmp('setConsentUiCallback', function() {
+            window.__cmp('getPublisherConsents', [], function(c,s) {consentManager.setConsents('publisher', c)});
+            window.__cmp('getVendorConsents', [], function(c,s) {consentManager.setConsents('vendor', c)});
+        });
+    })();
+
+    window.__cmp('getGooglePersonalization', function(consent, isSuccess) {
+        if (isSuccess) {
+            // Value was set ok (consent either given or not)
+            consentManager.setConsents('google', consent.googlePersonalizationData.consentValue);
+        } else {
+            // Something went wrong setting cookie - treat like no consent
+            consentManager.setConsents('google', 0);
+        }
+
+        // GTag may not be ready yet - poll until ready
+        var dfpCheck = setInterval(function(){
+            if (typeof googletag !== 'undefined' && googletag.pubads) {
+                googletag.pubads().setRequestNonPersonalizedAds(consentManager.isServingNonPersonalisedAds());
+                googletag.pubads().refresh();
+                window.scrollTo(window.scrollX, window.scrollY + 1);
+                clearInterval(dfpCheck);
+            }
+        }, 250);
+    });
+
+    window.__cmp('init', {
+        'Language': 'en',
+        'Display Persistent Consent Link': false,
+        'Initial Screen Accept Button Text': 'I agree',
+        'Purpose Screen Body Text': 'You can set your consent preferences and determine how you want your data to be used based on the purposes below. You may set your preferences for us independently from those of third-party partners. Each purpose has a description so that you know how we and partners use your data.',
+        'Vendor Screen Body Text': 'You can set consent preferences for each individual third-party company below. Expand each company list item to see what purposes they use data for to help make your choices. In some cases, companies may disclose that they use your data without asking for your consent, based on their legitimate interests. You can click on their privacy policies for more information and to opt out.',
+        'Vendor Screen Accept All Button Text': 'Accept all',
+        'Vendor Screen Reject All Button Text': 'Reject all',
+        'Initial Screen Body Text': 'We and our partners use technology such as cookies on our site to personalise content and ads, provide social media features, and analyse our traffic. Click below to consent to the use of this technology across the web. You can change your mind and change your consent choices at anytime by returning to this site.',
+        'Initial Screen Body Text Option': 1,
+        'Publisher Name': 'Newstalk',
+        'Publisher Logo': 'https://www.newstalk.com/images/logo.svg',
+        'Display UI': 'always',
+        'Publisher Purpose IDs': [1,3,4],
+        'Initial Screen Purpose Link Text': 'Manage settings'
+    });
+</script>
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Privacy Policy",
+        "url": "https://www.newstalk.com/privacy-policy",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https://www.newstalk.com/privacy-policy"
+        },
+        "dateCreated": "2019-02-01T17:02:11+00:00",
+        "datePublished": "2019-02-01T17:02:11+00:00",
+        "dateModified": "2019-02-05T13:55:18+00:00",
+                            "articleSection": "Uncategorized",
+                            "keywords": "Uncategorized",
+                                    "publisher" : {
+            "@type" : "Organization",
+            "name" : "Newstalk",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://www.newstalk.com/images/logo.png?v=2",
+                "width": 200,
+                "height": 60
+            }
+        }
+    }
+</script> <meta property="og:title" content="Privacy Policy | Newstalk">
+<meta property="og:description" content="NEWSTALK PRIVACY POLICYPrivacy policyThis is the privacy policy of Newstalk and their legal suc...">
 <meta property="og:type" content="article">
-<meta property="og:locale" content="en_GB">
+<meta property="og:url" content="https://www.newstalk.com/privacy-policy">
+<meta property="og:site_name" content="Newstalk">
+<meta property="og:image" content="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiMmUxYmM3NmJhM2U5ZjM5YmI4NzIyODMyYTdkZjhkYTFiMzJiNWY2YiJ9/default-no-image.png">
+<meta property="og:image:width" content="647">
+<meta property="og:image:height" content="340">
+<meta property="og:image:type" content="image/jpeg">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@newstalkfm">
-<meta name="twitter:title" content="Newstalk Privacy Policy">
-<meta name="twitter:description" content="">
-<meta name="twitter:image" content="http://www.newstalk.com/assets/graphics/nt_holder_656x500.jpg">
-<script type="application/ld+json">
-		{
-				"@context":"http:\/\/schema.org",
-				"@id":"#Publisher",
-				"@type":"Organization",
-				"name":"NEWSTALK",
-				"legalName":"NEWSTALK LTD",
-				"url":"http:\/\/www.newstalk.com",
-				"description":"Newstalk 106 - 108fm: Ireland's National Independent Talk Radio Broadcaster",
-				"logo":{
-					"@type":"ImageObject",
-					"url":"http://www.newstalk.com/content/001/images/000077/104261_105_stations_1_211x66.jpg",
-					"width":{
-						"@type":"Intangible",
-						"name":211
-					}
-					,"height":{
-						"@type":"Intangible",
-						"name":66
-					}
-				},				
-				"address":{
-					"@type":"PostalAddress",
-					"streetAddress":"Newstalk HQ, Marconi House, Digges Lane",
-					"addressLocality":"Dublin 2",
-					"addressRegion":"Dublin",					
-					"addressCountry":"Ireland"
-				}
-				,"contactPoint":{
-					"@type":"ContactPoint",
-					"contactType":"customer support",
-					"telephone":"(+353) 1 644 5100",
-					"email":"info@newstalk.com"
-				},
-				"sameAs":["https://www.facebook.com/newstalkfm","https://twitter.com/newstalkfm","https://en.wikipedia.org/wiki/Newstalk","https://www.youtube.com/Newstalk106108fm"]
-			}
-		</script>
-<script type="application/ld+json">
-					{
-					  "@context": "http://schema.org",
-					  "@type": "NewsArticle",
-					  "mainEntityOfPage": {
-						  "@type": "WebPage",
-						  "@id": "https://www.newstalk.com/Privacy-Policy-"
-					  },
-					  			"articleBody":"
-Privacy policy
-This is the privacy policy of Newstalk and their legal successors.&nbsp;
-This policy explains our approach to digital information collection, storage and use in connection with all our digital content. We are committed to protecting your privacy. Newstalk will ensure that it keeps all personal data you provide to us in accordance with our obligations under the Data Protection Acts 1988 to 2018 and General Data Protection Regulation (GDPR) (EU 2016/679).&nbsp;
-We may update this policy from time to time, so please review it regularly. If you have any questions about this policy or the information which we hold, please contact us at: PrivacyOfficer@CommunicorpMedia.com or write to us at Newstalk , Marconi House, Digges Lane, Dublin 2.
-This policy applies to Newstalk&rsquo;s digital services only and not to other websites, APPs, social media sites linked to or from Newstalk digital services.
-1.About Newstalk
-Newstalk is a commercial radio station broadcasting on FM in Ireland.&nbsp; The station is licenced by the Broadcasting Authority of Ireland.&nbsp; Newstalk provide a number of digital services for example Websites,&nbsp; Apps,&nbsp; Alexa Skills, Newsletters etc.&nbsp; Newstalk will collect, use, store or otherwise process personal data in line with the Policy below.&nbsp;
-2.The information we collect
-Newstalk will never collect any unnecessary personal data from you and will&nbsp; not process your information in any way, other than as specified in this notice.&nbsp;&nbsp;
-The personal data that Newstalk collects varies depending on the online activity you have consented for,&nbsp; below lists the information Newstalk may collect when you register for&nbsp; a newsletter, take a survey, enter a competition or if you make&nbsp; direct contact with the station:&nbsp;
-&bull;Name
-&bull;Email
-&bull;Contact Phone Number&nbsp; (where required for a competition entry or where you contact the station via SMS or Whatsapp)&nbsp;
-&bull;Home Address (where required for a competition entry or to reply to direct contact)
-&bull;Confirmation that you&rsquo;re over 18 (where required for a competition entry)&nbsp;
-&bull;IP Address (To allow us geo-fence audio streams, this data is not used beyond this purpose)
-&bull;Information contained in a curriculum vitae&nbsp; (where sent directly to the station)&nbsp;
-&nbsp;
-&nbsp;Newstalk collects your personal date when you;
-&bull;subscribe (opt-in) to a newsletter,&nbsp;
-&bull;enter a competition&nbsp;&nbsp;
-&bull;participate in an online survey
-&bull;contact the station directly
-Lawful Basis for Processing&nbsp;
-We process your personal data based on the following lawful basis.&nbsp;
-&bull;Station Newsletter Subscriptions are based on Consent.
-&bull;Direct Marketing emails are based on either Consent or Legitimate interest, where we use legitimate interest we will have completed an legitimate interest assessment where we conduct a balance test between our legitimate interests and your privacy rights.
-Automatic Data Collection&nbsp;
-Newstalk use cookies and capture IP addresses as part of the essential operation of our sites and media streams, this data is used to geo-fence our content and media streams so we can adhere to our licencing agreement regarding the broadcasting of licenced material.&nbsp; We also use cookies to maintain preferences you have selected, manage load balancing and DDOS mitigation these cookies are used only for this purpose and do not track you beyond our digital assets.&nbsp;
-Marketing/Advertising Cookies&nbsp;
-With your consent we use marketing cookies to better target advertising and make it more relevant to you and your interests, we also use these cookies to frequency cap the number of times you will see an individual ad.&nbsp; Advertising cookies collect information regarding your use of both our website and other websites you may visit. This information allows advertising networks to target their audience.&nbsp;
-Where consent is not provided you will still receive ads but they will not be targeted.&nbsp;
-You can find more about Advertising cookies here https://policies.google.com/technologies/partner-sites
-You can also have control over what third party cookies are used on your device by using tools like
-&nbsp;http://www.youronlinechoices.com/ie/your-ad-choices
-Or&nbsp;
-http://optout.networkadvertising.org/
-Further details of the cookies we use can be found in our Cookie Policy.
-Site Analytics&nbsp;
-&nbsp;Newstalk uses Google Analytics to monitor the usage of its digital assets which is an essential part of the running of any website.&nbsp; It provides the information we require to manage our server capacity and the popularity of our content. This information is anonymous. Please see : https://www.google.com/analytics/learn/privacy.html for more details .
-Social Media&nbsp;
-You should be aware that you may be making available personally identifiable information about yourself when you submit material to our social media pages or to other interactive elements of our digital services.&nbsp;
-3.How we use the personal data we collect:
-&nbsp;
-Newstalk takes your privacy very seriously and will never disclose, share or sell your data without your consent; unless required to do so by law. We only retain your data for as long as is necessary and for the purpose(s) specified in this notice. Where you have consented to us providing you with promotional offers and marketing, you are free to withdraw this consent at any time.&nbsp;&nbsp;
-We do not employ automated decision making methods to any of your personal data under our control.
-The purposes and reasons for processing your personal data are detailed below: -
-&bull;We collect your data to administer a service which you have subscribed to and given consent for your personal data to be processed, this includes Station Newsletter and/or promotional material.&nbsp;&nbsp;
-&bull;We collect your data as part of a competition entry to allow us contact you regarding the competition, this data is processed based on consent.
-&bull;We collect personal data to administer your personalised preferences such as news content or preferred music and services.&nbsp;
-&bull;We collect your personal data that you provide us with when you contact us directly to respond to your specific inquiry or to administer the relevant site activity where we have a legitimate interest.
-&bull;We automatically capture your IP addresses to geo-fence our content.
-&bull;Comply with legal regulatory requirements and legitimate business purposes.
-&nbsp;
-Marketing uses&nbsp;
-How we use marketing information?
-&bull;To help us to monitor, analyse and improve Newstalk . This information helps us to understand which Newstalk&nbsp; content, products and services are most interesting, enjoyable and useful to our users, and if they are shared via social networks. The information also helps us to identify when errors occur within the digital products and services within Newstalk and test different versions of a page or feature to see which one works best. All of which helps us improve our digital products and services for our users.
-&bull;We can create a more tailored experience by looking at the information we have about you. For example, we will do this by making programme recommendations or telling you about relevant Newstalk events in your area.
-&bull;To inform the way we commission future content at Newstalk. We will use aggregated and anonymous user data to help our commissioning teams understand what type of content our users like.
-&bull;To sell advertising on Newstalk.
-&bull;We will send you information about the digital products and services within Newstalk or other marketing activities, but only where you have signed up to receive these from us. Similarly, sometimes, third party partners will want to send you information about products and services, but will only do so if you have agreed to receive them by ticking an opt-in box associated separately with a competition partner.
-&bull;We will email you occasionally about the digital products and services within Newstalk&nbsp; that you have signed up for (for example, to provide you with password reminders or to contact you about content you have submitted to us via our digital products and services) so that we are able to deliver these services to you. We may also invite you to participate in surveys from time to time to help us understand what you think about our programmes, products and services, and in turn make them better.
-&nbsp;
-4.Your Rights
-You have the right to access any personal information that Newstalk processes about you and to request information about: -
-&bull;What personal data we hold about you
-&bull;The purposes of the processing
-&bull;The categories of personal data concerned
-&bull;The recipients to whom the personal data has/will be disclosed
-&bull;How long we intend to store your personal data for
-&bull;If we did not collect the data directly from you, information about the source
-&nbsp;
-If you wish to make a Subject Access Request please contact PrivacyOfficer@CommunicorpMedia.com&nbsp;
-You have the right of rectification &ndash; you have a right to correct data that we hold about you that is inaccurate or incomplete.
-You have the right to be forgotten &ndash; in certain circumstances you can ask for the data we hold about you to be erased from our records.
-You have the right to restriction of processing &ndash; where certain conditions apply to have a right to restrict the processing.
-You have the right of portability &ndash; you have the right to have the data we hold about you transferred to another organisation.
-You have the right to object &ndash; you have the right to object to certain types of processing such as direct marketing. (eg Newsletter Opt-out)&nbsp;
-You have the right to object to automated processing, including profiling&nbsp;
-If we receive a request from you to exercise any of the above rights, we may ask you to verify your identity before acting on the request; this is to ensure that your data is protected and kept secure.
-5.Information collected for journalistic purposes
-Under Article 85 of the GDPR (EU 2016/679)&nbsp; material acquired and used for journalistic purposes is exempt from certain Articles of&nbsp; GDPR,&nbsp; these include Chapter II (principles) other than Article 5(1)(f), Chapter III (rights of&nbsp; the data subject) Chapter IV (controller and processor obligations), Chapter V (transfer of data),&nbsp; Chapter V1, Chapter VII and Chapter IX.&nbsp;
-Please note that the requirement to process personal data in a manner that ensures appropriate security remains when processing for journalistic purposes.&nbsp;
-&nbsp;
-6.Sharing and Disclosing Your Personal Information
-We do not share or disclose any of your personal information without your consent, other than for the purposes specified in this policy or where there is a legal requirement. Newstalk uses third-parties to provide services regarding subscriptions, surveys, competitions and events; however, all processors acting on our behalf only process your data in accordance with instructions from us and comply fully with this privacy notice and are subject to the GDPR (EU 2016/679).
-Newstalk reserves the right to allow its data processor Communicorp Group Limited to perform statistical analyses of user behavior and characteristics, in order to measure interest in and use of the various sections of its sites so as to improve design and navigation and to gather marketing information. Only aggregated data from these analyses, not individual data, will be used for this purpose.
-Communicorp Group Limited commits to keeping your personal information confidential save that we:
-&bull;use a range of data sub processing companies to help manage your information. However, we require these companies to comply strictly with our instructions and they are not allowed to use your information for their own business purposes (unless you have explicitly agreed to this). We also require these companies to have appropriate physical and technological security measures to protect your personal information.
-&bull;may share your information with third parties where you have specifically agreed to this. We will not, however, sell your data to any third party.
-&nbsp;
-7.Our commitment to security
-Newstalk takes your privacy seriously, we employ appropriate technical and organisational security measures to prevent unauthorised access, alteration, disclosure or destruction of your information.
-We use the following industry standard methods to protect your data:
-&bull;SSL (HTTPS) Across all websites&nbsp;
-&bull;Encryption&nbsp;
-&bull;Enterprise firewalls
-Unfortunately, the sending of information via the internet is not completely secure. Although we will do our utmost to protect your information, we cannot guarantee the security of your data sent to our digital services within Newstalk ; any sending of information is therefore at your own risk.
-8.Transfer Outside the EEA&nbsp;
-Newstalk utilise services (or parts of them) that may be hosted/stored outside the EEA which means that we may transfer any information which is submitted by you through one of our digital services to outside the European Economic Area (\"EEA\") for the below purposes: -
-&nbsp;
-&bull;Newsletter Subscription
-Data Processor is MailChimp, more info here https://mailchimp.com/legal/privacy/
-MailChimp have a proven track record in providing email marketing services across the globe. They have are Trusted Certified and are Certified with the EU-US Privacy Shield Framework.&nbsp;
-&nbsp;
-&bull;Competition Forms and Surveys
-Data Processor is Wufoo.com, more information here https://secure.wufoo.com/privacy/
-Wufoo are Certified with the EU-US Privacy Shield Framework.&nbsp;
-&nbsp;
-&bull;Events Registration Forms
-Data Processor is Eventbrite,&nbsp; more information https://www.eventbrite.ie/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_IE
-Eventbrite are Certified with the EU-US Privacy Shield Framework.
-&nbsp;
-Streaming Services&nbsp;
-Data Processor is Triton Digital, for more information https://www.tritondigital.com/eu-privacy-policy
-&nbsp;
-&nbsp;
-Therefore, when you sign up to our newsletter or enter a competition or register to attend a station event or participate in a station survey, the personal information you submit may be stored on servers which are hosted outside the EEA. Where this is the case, we will ensure that those providers use an appropriate level of protection for your information and agree to abide by GDPR (EU 2016/679) by way of standard contractual clauses.
-&nbsp;
-9.How Long We Keep Your Data
-Newstalk only ever retains personal information for as long as is necessary to provide a service you have consented to or to adhere to certain warranties or proof of delivery for competition winners.&nbsp;&nbsp;
-Where you have subscribed to a Newsletter we will retain your data until you unsubscribe or the Newsletter is canceled. We include unsubscribe links on all newsletter emails.&nbsp;&nbsp;
-Where you have registered for an event we&rsquo;ll retain your personal data for 13 months after the event as a record of attendance.
-Where you enter a station competition we&rsquo;ll retain your data for 12 months after the successful competition of the prize or event in the case of tickets.&nbsp; &nbsp;
-We have retention policies in place to meet these obligations.&nbsp;
-10.Complaints
-In the event that you wish to make a complaint about how your personal data is being processed by Newstalk, or how your complaint has been handled, you have the right to lodge a complaint directly with the Data Protection Commissioner and Newstalk.
-&nbsp;
-The details for each of these contacts are:&nbsp;
-Data Protection Commissioner&nbsp;
-Canal House
-Station Road
-Portarlington&nbsp;
-R32 AP23&nbsp;
-Co. Laois
-Phone: 1890 252 231&nbsp;
-Fax: +353 57 868 4757&nbsp;
-&nbsp;
-&nbsp;
-Newstalk
-Privacy Officer
-Marconi House&nbsp;
-Digges Lane&nbsp;
-Dublin 2
-Co Dublin&nbsp;
-D02TD60
-Phone: +353 1 8049000
-&nbsp;
-&nbsp;
-Policy Version 3.1.4&nbsp; Updated 24/05/2018
-&nbsp;
-&nbsp;
-",
-					  			"wordCount":2564,
-					  			"url": "https://www.newstalk.com/Privacy-Policy-",
-					  			"headline": "Newstalk Privacy Policy",
-					  "image": {
-						  "@type": "ImageObject",
-						  "url": "http://www.newstalk.com/assets/graphics/nt_holder_656x500.jpg",
-						  "height": 500,
-						  "width": 656
-					  },
-					  "datePublished": "-0001-11-30",
-						  "dateModified": "2018-05-24T21:52:14+01:00",
-					  "author": {
-						  "@type": "Person",
-						  "name": "newstalk.com"
-					  },
-					  "publisher": {
-						  "@type": "Organization",
-						  "name": "Newstalk",
-						  "logo": {
-							  "@type": "ImageObject",
-							  "url": "http://www.newstalk.com/assets/graphics/104261_105_stations_1_211x66.jpg",
-							  "height": "66",		
-							  "width": "211"
-					  	  }
-					  },
-					  "description": ""
-					}
-					</script>
-<link rel="amphtml" href="https://www.newstalk.com/AMP/Privacy-Policy-">
-
-<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-<link rel="stylesheet" href="/assets/includes/css/font-awesome.min.css">
-<link rel="stylesheet" href="/assets/includes/css/bootstrap.css">
-<link rel="stylesheet" href="/assets/includes/css/bootstrap-slider.css">
-<link rel="stylesheet" href="/assets/includes/css/jquery.bxslider.css">
-<link rel="stylesheet" href="/assets/includes/css/animate.min.css">
-<link rel="stylesheet" href="/assets/includes/css/player.css?v=1527513253">
-<link rel="stylesheet" href="/assets/includes/css/global_new.css?v=1527513253">
-<link rel="stylesheet" href="/assets/includes/css/flex.css?v=1527513253">
-<link rel="stylesheet" href="/assets/includes/css/nav.css?v=1527513253">
-<link rel="stylesheet" href="/assets/includes/css/responsive.css?v=1527513253">
-<link rel="stylesheet" href="/assets/includes/css/spinner.css">
-<link rel="stylesheet" href="/assets/includes/css/bootstrap-datetimepicker.css?v=1527513253"> 
-<link class="rs-file" rel="stylesheet" href="/assets/royalslider/royalslider.css">
-<link class="rs-file" rel="stylesheet" href="/assets/royalslider/skins/default/rs-default.css">
-<script>google.load('visualization', '1', {packages: ['corechart', 'bar']});</script>
-
-<link rel="stylesheet" href="/assets/includes/css/bootstrap-select.min.css">
-
-<link href="/euro2016_assets/assets/includes/css/flag-icon.css" rel="stylesheet">
-<link href="/euro2016_assets/assets/includes/css/euro2016.css?v=1527513253" rel="stylesheet">
-
-
-<link rel="stylesheet" href="/euro2016_assets/assets/includes/opta/opta_theme.css?v=1527513253">
-
-
-<!--[if lt IE 9]>
-		    <script src="/assets/includes/js/html5shiv.js"></script>
-		    <script src="/assets/includes/js/respond.min.js"></script>
-		<![endif]-->
-<!--[if lt IE 9]> <html class="ie"> <![endif]-->
-<!--[if gte IE 9]>  <style type="text/css"> .gradient { filter: none; }</style><![endif]-->
-
-<script>window.videoSteam = 'httpss://5adf91b774caf.streamlock.net/CGL/_definst_/mp4:CGV_NT3/playlist.m3u8';</script>
-<style type="text/css">
-   			/* .bxslider{display:none;} */
-    	</style>
-<script type="text/javascript">
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-  (function() {
-    var gads = document.createElement('script');
-    gads.async = true;
-    gads.type = 'text/javascript';
-    var useSSL = 'https:' == document.location.protocol;
-    gads.src = (useSSL ? 'https:' : 'http:') +
-      '//www.googletagservices.com/tag/js/gpt.js';
-    var node = document.getElementsByTagName('script')[0];
-    node.parentNode.insertBefore(gads, node);
-  })();
-</script>
-<script type="text/javascript">
-  
-    var gptAdSlots = []; // This declares the responsive GPT slots array of ad units
-  
-    googletag.cmd.push(function() {
-	  
-        // Var 'mapping[ maps the ad sizes to browser sizes. The first parameter to addSize is a viewport size, while the second is a list of allowed ad sizes. 
-	  
-  	  var mapping = googletag.sizeMapping(). // This is for the header area / landscape or 'NT_Head' ad unit
-  	  addSize([0, 0], []). 
-  	  addSize([320, 0], [[320, 100], [320, 50]]). // Mobile, allow a 320x100 or 320x50 only
-  	  addSize([750, 0], [728, 90]). // Landscape tablet, allow a LB
-  	  addSize([1025, 0], [[970, 250], [970,90], [728,90]]).build(); // Desktop, allow a Billboard / Masthead, Super LB or LB
-	  
-  	  var mapping1 = googletag.sizeMapping(). // This is for the primary side bar position, or NT_Side_1 ad unit
-   	  addSize([0, 0], []). // Shows nothing until viewport reaches 990px wide (i.e. desktop only)
-   	  addSize([1025, 0], [[160, 600], [300, 250], [300, 600]]).build(); // Allows these sizes on Desktop + tablets
-	  
-  	  var mapping2 = googletag.sizeMapping(). // This is for the sticky 2nd MPU, or NT_Side_2 ad unit
-   	  addSize([0, 0], []). // Shows nothing until viewport reaches 990px wide (i.e. desktop only)
-  	  addSize([1025, 0], [300,250]).build(); // Allows this size everywhere
-	  
-  	  var mapping3 = googletag.sizeMapping(). // This is for the mid editorial MPU or Newstalk_InternalMobileSite ad unit
-        addSize([0, 0], []).
-        addSize([320, 0], [300, 250]). // From 320 to 750px wide, allow an MPU
-        addSize([750, 0], []).build(); // Suppress ad on desktop and landscape tablet
-	      
-  	 // Define the GPT slots
-  	  gptAdSlots[0] = googletag.defineSlot('/27435881/NT_Head', [320, 50], 'div-gpt-ad-1438957814023-0'). // the div-gpt names can be your own, but ensure they mirror ad units in body
-  	       defineSizeMapping(mapping). // Implements the mapping.
-  	       addService(googletag.pubads()); 	
-	   
-  	  gptAdSlots[1] = googletag.defineSlot('/27435881/NT_Side_1', [300, 250], 'div-gpt-ad-1438957814023-1'). //Default ad unit size 300x250 to serve that fits any browser size if none of the other sizes match browser
-  	       defineSizeMapping(mapping1).
-  	       addService(googletag.pubads());
-		   
-  	  gptAdSlots[2] = googletag.defineSlot('/27435881/NT_Side_2', [300, 250], 'div-gpt-ad-1438957814023-2'). // This is the sticky MPU
-  	       defineSizeMapping(mapping2).
-  	       addService(googletag.pubads());   
-	
-  	  gptAdSlots[3] = googletag.defineSlot('/27435881/Newstalk_InternalMobileSite', [300, 250], 'div-gpt-ad-1438957814023-3').
-  	       defineSizeMapping(mapping3).
-  	       addService(googletag.pubads());	
-  	       
-  	  
-  	  gptAdSlots[4] = googletag.defineOutOfPageSlot('/27435881/NT_Out-of-Page', 'div-gpt-ad-1439820873258-0').addService(googletag.pubads());
-
-  	  
-  	  gptAdSlots[5] = googletag.defineSlot('/27435881/Newstalk_Mobile_MPU', [300, 250], 'div-gpt-ad-mobile-list-mpu-2').
-  	       defineSizeMapping(mapping3).
-  	       addService(googletag.pubads());
-googletag.pubads().setRequestNonPersonalizedAds(1);
-googletag.pubads().enableSingleRequest(); // Calls all of the ads on a page at once in the header of your content. Needed for roadblocks.
-    googletag.pubads().collapseEmptyDivs(); // Collapses all ad units on page when no ad in queue / available to render
-    googletag.pubads().setTargeting('ntsection', ['FooterPages']); // This is page level custom targeting. All ad units on page inherit these.
-				googletag.pubads().setTargeting('articleID', ['111721']);
-		
-googletag.enableServices(); // Start ad fetching
-});
-</script>
+<meta name="twitter:url" content="https://www.newstalk.com/privacy-policy">
+<meta name="twitter:title" content="Privacy Policy | Newstalk">
+<meta name="twitter:description" content="NEWSTALK PRIVACY POLICYPrivacy policyThis is the privacy policy of Newstalk and their legal suc...">
+<meta name="twitter:image" content="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiMmUxYmM3NmJhM2U5ZjM5YmI4NzIyODMyYTdkZjhkYTFiMzJiNWY2YiJ9/default-no-image.png">
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    var googletag = googletag || {};
+    var refsource = '';
+    var _isArticle = true;
 
-  ga('create', 'UA-2014879-5', 'auto');
-        ga('set', 'displayFeaturesTask', null);
-        ga('set', 'anonymizeIp', true);
-  ga('set', 'dimension3', 'No');			
-			window.gaCategory = 'Footer Pages';ga('set', 'contentGroup1', 'Footer Pages'); ga('set', 'dimension1', 'Footer Pages');window.gaParent_category = 'Footer Pages';ga('set', 'contentGroup2', 'Footer Pages'); ga('set', 'dimension2', 'Footer Pages');ga('set', 'dimension4', 'newstalk.com');ga('send', 'pageview', '/Privacy-Policy-');</script>
-<script src="/assets/includes/js/jquery_1.11.1_jquery.min.js"></script>
-<script type="text/javascript" src="/assets/jwplayer_7_12/jwplayer.js"></script>
-<script type="text/javascript">jwplayer.key="FlEYatfb2kfnN5eD+ugMUutc2p4QdHRGQ9xFug==";</script>
-<script src="/assets/includes/js/jquery.cookie.js"></script>
-<script src="/assets/login_module/js/login.js"></script>
-<script class="rs-file" src="/assets/royalslider/jquery.royalslider.min.js"></script>
+    
+    if (document.referrer.match(/^https?:\/\/([^\/]+\.)?t\.co(\/|$)/i)) {
+        refsource = 'twitter';
+    } else if (document.referrer.match(/^((https?)|(android-app?)):\/\/([^\/]+\.)?facebook\.com(\/|$)/i)) {
+        refsource = 'facebook';
+    }
 
-<link rel="stylesheet" href="/ge2016/assets/includes/leaflet/leaflet.css">
-<script src="/ge2016/assets/includes/js/bootstrap-select.min.js"></script>
-<script src="/ge2016/assets/includes/leaflet/leaflet.js"></script>
-<script src="/ge2016/assets/includes/js/map_4.1.js?v=1527513253"></script>
+    var dfp_targets = new Object();
+    var dfp_mappings = new Object();
+    var dfp_placements = new Object();
+    var dfp_sequence = new Object();
 
-<script src="/assets/includes/js/moment.js"></script>
-<script src="/assets/includes/js/bootstrap-datetimepicker.js"></script>
-<script>window.hide_player = false;</script>
-<style>
-		#ad_overlay{
-			position: fixed;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-			background: rgb(0, 0, 0);
-			background: rgba(0, 0, 0, 0.8);
-			padding-top: 111px;
-			*background:transparent;
-			*filter:progid:DXImageTransform.Microsoft.gradient(startColorStr=#BF000000,endColorStr=#BF000000);
-		    *-ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr=#BF000000,endColorstr=#BF000000)";
-		}
-		
-		
-		#ad_overlay_player_holder{
-			margin: 0 auto;
-			width: 640px;
-		}
-		
-		#ad_overlay_player, #pre_roll_companion, #ad_overlay_player_wrapper{
-			float: left;
-		}
-		
-		<!-- google survey code --> 
-		article .corps iframe:not(#t402-prompt-iframe) {
-		    position: relative;
-		    width: 630px;
-		    height: 400px !important
-		}
-		
-	
-	
-	  body #article_player{
-	  	width: 100% !important;
-		float: left !important;
-		padding: 10px !important;
-	    margin: 0px 10px 10px 0px !important;
-	  }
-	  
-	  @media (max-width: 414px) {
-	  	 body #article_player{
-	  		width: 95% !important;
-	  	}
-	  }
+    if (refsource) {
+        dfp_targets.socref = refsource;
+    }
 
-input{
-   -webkit-user-select: auto;
-}
+    googletag.cmd = googletag.cmd || [];
 
-		</style>
-<script src="https://www.google.com/recaptcha/api.js"></script>
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script>
-	  var googletag = googletag || {};
-	  googletag.cmd = googletag.cmd || [];
-	</script>
-<script>
-	  googletag.cmd.push(function() {
-	    googletag.defineSlot('/27435881/NT_Spon_1x1', [1, 1], 'div-gpt-ad-1516187127390-0').addService(googletag.pubads());
-	    googletag.pubads().enableSingleRequest();
-	    googletag.enableServices();
-	  });
-	</script>
+    (function () {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'http:') +
+            '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+
+    googletag.cmd.push(function () {
+        dfp_mappings.mapHeader = googletag.sizeMapping()
+            .addSize([320, 250], [[320, 100], [320, 50]])
+            .addSize([728, 90], [728, 90])
+            .addSize([1048, 600], [[728, 90], [970, 250], [970, 90]])
+            .build();
+
+        dfp_mappings.mapSectionLeaderboard = googletag.sizeMapping()
+            .addSize([728, 90], [728, 90])
+            .addSize([1048, 600], [[728, 90], [970, 250], [970, 90]])
+            .build();
+
+        dfp_mappings.mapSidebarMpu = googletag.sizeMapping()
+            .addSize([300, 250], [300, 250])
+            .build();
+
+        dfp_mappings.mapInArticleMobile = googletag.sizeMapping()
+            .addSize([300, 250], [300, 250])
+            .build();
+
+        dfp_mappings.mapSpon1x1 = googletag.sizeMapping()
+            .addSize([1, 1], [1, 1])
+            .build();
+
+        var dfpId = document.head.querySelector("[property=dfp]").content;
+        var dfpPublication = document.head.querySelector("[property=publication]").content;
+
+        dfp_placements.spon1x1 = googletag.defineSlot(dfpId+'/'+dfpPublication+'_Spon_1x1', [1, 1], 'div-gpt-spon-1x1')
+            .defineSizeMapping(dfp_mappings.mapSpon1x1)
+            .addService(googletag.pubads());
+
+        dfp_placements.oop = googletag.defineOutOfPageSlot('/' + dfpId + '/' + dfpPublication + '_Out-of-page', 'div-gpt-oop')
+            .addService(googletag.pubads());
+
+                                                        dfp_targets['ntsection'] = 'Privacy Policy';
+                                                                dfp_targets['articleID'] = '483077';
+                                    
+        for (var key in dfp_targets) {
+            if (dfp_targets.hasOwnProperty(key)) {
+                googletag.pubads().setTargeting(key, dfp_targets[key]);
+            }
+        }
+
+        googletag.pubads().disableInitialLoad();
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+        googletag.enableServices();
+    });
+</script> <meta name="powered-by" content="PublisherPlus (http://www.publisherplus.ie/)">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="x-rim-auto-match" content="none">
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-2014879-5', 'auto', 't0');ga('set', 'anonymizeIp', true);ga('send', 'pageview');</script>
 </head>
-<body data-page-num="1" class="list_view">
-
-<div id="div-gpt-ad-1516187127390-0" style="height:1px; width:1px;">
-<script>
-		googletag.cmd.push(function() { googletag.display('div-gpt-ad-1516187127390-0'); });
-	</script>
+<body>
+<div id="app">
+<div class="header-top d-none d-md-block bg-white fixed-top">
+<div class="container h-100">
+<div class="row h-100">
+<div class="col col-md-4 my-auto align-self-center">
+<div class="pb-3">
+<a class="navbar-brand p-0" href="/">
+<img src="/images/logo.svg" alt="Newstalk">
+</a> </div>
 </div>
-<script type="text/javascript" src="https://playerservices.live.streamtheworld.com/api/idsync.js?stationId=104623"></script>
-
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M79D528"
-
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-<script>window.block_addthis = true;</script>
-
-
-<div id="div-gpt-ad-1439820873258-0">
-<script type="text/javascript">
-				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1439820873258-0'); });
-				</script>
-</div>
-
-<section id="player_top_bar" class="navbar-fixed-top">
-<div class="row">
-<div class="col-lg-16 col-md-16 col-sm-16 col-xs-16 player">
-<div class="black_bg">
-<div class="row">
-<div class="col-lg-1 col-md-1 hidden-sm hidden-xs player_image_wrapper">
-<div id="player_image_holder">
-<img alt="Moncrieff" id="player_image" src="/content/001/images/000122/156878_152_pages_01_8_672x251.jpg" title="Moncrieff">
-</div>
-</div>
-<div class="col-lg-11 col-md-11 col-sm-10 col-xs-10 player_text">
-<span id="player_type" class="player_label red">On Air: </span><span id="display_time" class="hidden-sm hidden-xs"> 2-4pm weekdays</span>
-<h5><span id="player_title">Moncrieff</span>
-<span id="archive_info"></span>
-<span id="player_subtitle" class="text-muted hidden-sm hidden-xs">Join Sean Moncrieff for a lively mix of phone-ins, insightful text messages and stories from around the world and down your street. Every weekday from 2pm - 4pm.
-</span>
-<span class="end"></span>
-</h5>
-</div>
-<div class="col-lg-4 col-md-4 col-sm-6 col-xs-6 player_btn">
-<div class="btn-group btn-group-justified" role="group">
-<a href="" id="volumeButton" class="btn volume_btn dropdown-toggle" data-toggle="dropdown">
-<i class="fa fa-volume-up"></i>
+<div class="d-flex col-auto align-items-end pl-lg-5">
+<a class="presenters-image" href="https://www.newstalk.com/shows/newstalk-breakfast-234855">
+<img srcset="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIwNzA4XFxcL0JyZWFrZmFzdC1OZXctNjEyeDYxMnB4LVVQREFURUQucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjoxNDAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImI0NjQ1ZTViYTdmZTZiZjM4MTY1NmM4NjZmZGU0YmZjZTJjNmU1MWMifQ==/breakfast-new-612x612px-updated.png,
+                                https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIwNzA4XFxcL0JyZWFrZmFzdC1OZXctNjEyeDYxMnB4LVVQREFURUQucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjoyODAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImFkMGIyNjhhMGUyYzk4YmViOGI4ZTVlMTQwMDljODk0ZDJmMTNmN2QifQ==/breakfast-new-612x612px-updated.png 2x" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIwNzA4XFxcL0JyZWFrZmFzdC1OZXctNjEyeDYxMnB4LVVQREFURUQucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjoyODAsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImFkMGIyNjhhMGUyYzk4YmViOGI4ZTVlMTQwMDljODk0ZDJmMTNmN2QifQ==/breakfast-new-612x612px-updated.png" class="now-playing-image" alt="Newstalk Breakfast" title="Newstalk Breakfast">
 </a>
-<a id="playIcon" class="btn play_btn" href="">
-<i class="fa fa-play "></i>
-</a>
-<a class="btn pause_btn" id="pauseIcon" href="">
-<i class="fa fa-pause "></i>
-</a>
-<a class="btn stop_btn" id="stopIcon" href="">
-<i class="fa fa-stop "></i>
-</a>
-<div class="btn-group" role="group">
-<a class="btn plus_btn dropdown-toggle" data-toggle="dropdown" aria-expanded="false" href="">
-<i class="fa fa-th-list "></i>
-</a>
-<ul class="dropdown-menu" role="menu">
-<li><a id="player_info_link" href="#" data-toggle="modal" data-target="#myModalDescription">Show Info</a></li>
-<li id="embed_code_link" style="display:none;"><a id="share_link_player_menu" href="#" data-showid="" class="share_podcast_link" data-meidatype="On Air" data-media_id="" data-sharetitle="Moncrieff" data-shareurl="http://www.newstalk.com/Privacy-Policy-">Share</a></li>
-<li><a href="#" data-toggle="modal" data-target="#myModalQueue">My Queue<span class="badge" id="my_queue_count"></span></a></li>
-<li id="listen_live_link"><a href="#">Listen Live</a></li>
-<li data-itemid="" data-locid="tv" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="#">Newstalk TV</a></li>
-<li data-itemid="" data-locid="podcasts" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/podcasts/">Podcasts</a></li>
-<li data-itemid="" data-locid="listenback" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/listen_back/">Listen Back</a></li>
-</ul>
 </div>
-<ul class="dropdown-menu volume" role="menu">
-<li>
-<input id="volume_slider" data-slider-id="volume_slider" type="text" data-slider-min="0" data-slider-max="100" data-slider-step="1" data-slider-value="60">
+<div class="col-auto d-flex flex-column justify-content-center">
+<div class="pb-4">
+<div>
+<p class="categories mb-2 d-inline-block text-uppercase text-red">Live</p>
+</div>
+<a class="lads" href="https://www.newstalk.com/shows/newstalk-breakfast-234855">
+<h3 class="title mb-2">Newstalk Breakfast</h3>
+<p class="date-stamp my-0 mt-1">07:00-09:00</p>
+</a>
+</div>
+</div>
+<div class="col-auto my-0 align-self-center ml-auto">
+<div class="d-flex justify-content-end pb-3">
+<div class="align-self-end">
+<div class="mb-ld-2">
+<button class="btn btn-link p-0 d-block listen1 open-player-btn border-0" data-player="" data-title="Newstalk Breakfast" data-description="Newstalk Breakfast&nbsp;from 6-9AM&nbsp;every weekday morning is&nbsp;a fast-paced daily news and current aff..." data-duration="07:00-09:00" data-image-src="https://s3-eu-west-1.amazonaws.com/storage.publisherplus.ie/media.radiocms.net/uploads/2018/12/12120708/Breakfast-New-612x612px-UPDATED.png" data-share="{ &quot;fb&quot;: &quot;https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855&quot;, &quot;tw&quot;: &quot;https://twitter.com/intent/tweet?via=newstalkfm&amp;text=NEWSTALK+BREAKFAST&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb&quot;, &quot;wa&quot;: &quot;whatsapp://send?text=NEWSTALK%20BREAKFAST%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb&quot; }" data-type="livestream" data-brand="newstalk" data-livestream-url="https://stream.audioxi.com/NT" data-show-url="https://www.newstalk.com/shows/newstalk-breakfast-234855">
+<img src="/images/btn-listen.svg" alt="Newstalk">
+</button> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> <nav class="navbar navbar-expand-md navbar-light p-0 fixed-top">
+<div class="mobile-bar w-100 d-block d-md-none">
+<div class="container d-flex align-items-center h-100">
+<button class="navbar-toggler align-self-center px-0 collapsed" type="button" data-toggle="collapse" data-target="#navbarMain" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+<span class="icon-bar top-bar"></span>
+<span class="icon-bar middle-bar"></span>
+<span class="icon-bar bottom-bar"></span>
+<span class="sr-only">Toggle navigation</span>
+</button>
+<div class="align-self-center pl-3 mb-1">
+<a class="navbar-brand p-0" href="/">
+<img src="/images/logo.svg" alt="Newstalk">
+</a> </div>
+<div class="align-self-center ml-auto">
+<button class="btn btn-link p-0 d-block listen1 open-player-btn border-0" data-player="" data-title="Newstalk Breakfast" data-description="Newstalk Breakfast&nbsp;from 6-9AM&nbsp;every weekday morning is&nbsp;a fast-paced daily news and current aff..." data-duration="07:00-09:00" data-image-src="https://s3-eu-west-1.amazonaws.com/storage.publisherplus.ie/media.radiocms.net/uploads/2018/12/12120708/Breakfast-New-612x612px-UPDATED.png" data-share="{ &quot;fb&quot;: &quot;https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855&quot;, &quot;tw&quot;: &quot;https://twitter.com/intent/tweet?via=newstalkfm&amp;text=NEWSTALK+BREAKFAST&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb&quot;, &quot;wa&quot;: &quot;whatsapp://send?text=NEWSTALK%20BREAKFAST%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb&quot; }" data-type="livestream" data-brand="newstalk" data-livestream-url="https://stream.audioxi.com/NT" data-show-url="https://www.newstalk.com/shows/newstalk-breakfast-234855">
+<img src="/images/btn-listen-mobile.svg" alt="Newstalk">
+</button> </div>
+</div>
+</div>
+<div class="container">
+<div class="collapse navbar-collapse px-3 px-md-0 position-relative" id="navbarMain">
+<div class="nav-item d-md-none">
+<form class="mt-4 mb-4 search-bar d-flex" action="https://www.newstalk.com/search" method="POST">
+<input type="text" name="search" class="form-control text-left" placeholder="Search" aria-label="Search" aria-describedby="search-addon">
+<div class="input-group-append">
+<button class="btn btn-divnk btn-sm border-0 p-0" type="submit">
+<i class="icon-search-red"></i>
+</button>
+</div>
+</form>
+</div>
+<ul class="navbar-nav ml-auto text-center w-100 justify-content-between mt-2 mt-md-0 ml-md-0 d-md-flex align-items-center pb-3 pb-md-0">
+<li class="nav-item d-none logo-scroll align-self-center">
+<a class="navbar-brand p-0 mr-auto" href="/">
+<img src="/images/logo-scroll.svg" alt="Newstalk">
+</a>
+</li>
+<li class="nav-item text-left text-md-center w-100 w-md-auto h-100 mr-0 ">
+<a class="d-md-flex align-items-center d-inline-block d-md-block nav-link menu-nav" href="https://www.newstalk.com/podcasts" title="podcasts">
+podcasts
+</a>
+<hr class="d-md-none">
+</li>
+<li class="nav-item text-left text-md-center w-100 w-md-auto h-100 mr-0 ">
+<a class="d-md-flex align-items-center d-inline-block d-md-block nav-link menu-nav" href="https://www.newstalk.com/videos" title="videos">
+videos
+</a>
+<hr class="d-md-none">
+</li>
+<li class="nav-item text-left text-md-center w-100 w-md-auto h-100 mr-0 ">
+<a class="d-md-flex align-items-center d-inline-block d-md-block nav-link menu-nav" href="https://www.newstalk.com/shows" title="shows">
+shows
+</a>
+<hr class="d-md-none">
+</li>
+<li class="nav-item text-left text-md-center w-100 w-md-auto h-100 mr-0 ">
+<a class="d-md-flex align-items-center d-inline-block d-md-block nav-link menu-nav" href="https://www.newstalk.com/news" title="news">
+news
+</a>
+<hr class="d-md-none">
+</li>
+<li class="nav-item text-left text-md-center w-100 w-md-auto h-100 mr-0 ">
+<a class="d-md-flex align-items-center d-inline-block d-md-block nav-link menu-nav" href="https://www.newstalk.com/sport" title="sport">
+sport
+</a>
+<hr class="d-md-none">
+</li>
+<li class="nav-item text-left text-md-center w-100 w-md-auto h-100 mr-0 ">
+<a class="d-md-flex align-items-center d-inline-block d-md-block nav-link menu-nav" href="https://www.newstalk.com/business" title="business">
+business
+</a>
+</li>
+ <li class="nav-item h-100 d-none d-md-block ml-lg-5">
+<form class="mt-3 mt-lg-0 mb-3 mb-lg-0 search-bar d-flex" action="https://www.newstalk.com/search" method="POST">
+<input type="text" name="search" class="form-control text-left" placeholder="Search" aria-label="Search" aria-describedby="search-addon">
+<div class="input-group-append">
+<button class="btn btn-link btn-sm border-0 p-0" type="submit">
+<i class="icon-search-red"></i>
+</button>
+</div>
+</form>
 </li>
 </ul>
 </div>
 </div>
+</nav>
+<div class="container bg-white">
+<div class="pt-3 d-flex justify-content-center">
+<div class="lazy-ad text-center" id="div-gpt-header-980850470" data-slot="NT_Head" data-mapping="mapHeader"></div> </div>
 </div>
-<div id="player_collapse" class="player_collapse">
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-lg-16 col-md-16 col-sm-16 col-xs-16">
-<div class="progress ">
-<div id="progress_bar" data-starttime="1527512400" data-endtime="1527519600" data-duration="7200" class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 12%;">
-<span class="sr-only">60% Complete</span>
-</div>
-</div>
-</div>
+<main class="container" id="main-wrapper">
+<section class="content-wrapper pt-3" id="article">
+<div id="article-content">
+<h1 style="font-weight: 100;">NEWSTALK PRIVACY POLICY</h1>
+<p>Privacy policy</p>
+<p>This is the privacy policy of Newstalk and their legal successors.</p>
+<p>This policy explains our approach to digital information collection, storage and use in connection with all our digital content. We are committed to protecting your privacy. Newstalk will ensure that it keeps all personal data you provide to us in accordance with our obligations under the Data Protection Acts 1988 to 2018 and General Data Protection Regulation (GDPR) (EU 2016/679).</p>
+<p>We may update this policy from time to time, so please review it regularly. If you have any questions about this policy or the information which we hold, please contact us at: PrivacyOfficer@CommunicorpMedia.com or write to us at Newstalk , Marconi House, Digges Lane, Dublin 2.</p>
+<p>This policy applies to Newstalk’s digital services only and not to other websites, APPs, social media sites linked to or from Newstalk digital services.</p>
+<p>1.About Newstalk</p>
+<p>Newstalk is a commercial radio station broadcasting on FM in Ireland.&nbsp; The station is licenced by the Broadcasting Authority of Ireland.&nbsp; Newstalk provide a number of digital services for example Websites,&nbsp; Apps,&nbsp; Alexa Skills, Newsletters etc.&nbsp; Newstalk will collect, use, store or otherwise process personal data in line with the Policy below.</p>
+<p>2.The information we collect</p>
+<p>Newstalk will never collect any unnecessary personal data from you and will&nbsp; not process your information in any way, other than as specified in this notice.</p>
+<p>The personal data that Newstalk collects varies depending on the online activity you have consented for,&nbsp; below lists the information Newstalk may collect when you register for&nbsp; a newsletter, take a survey, enter a competition or if you make&nbsp; direct contact with the station:</p>
+<ul>
+<li>Name</li>
+<li>Email</li>
+<li>Contact Phone Number&nbsp; (where required for a competition entry or where you contact the station via SMS or Whatsapp)</li>
+<li>Home Address (where required for a competition entry or to reply to direct contact)</li>
+<li>Confirmation that you’re over 18 (where required for a competition entry)</li>
+<li>IP Address (To allow us geo-fence audio streams, this data is not used beyond this purpose)</li>
+<li>Information contained in a curriculum vitae&nbsp; (where sent directly to the station)</li>
+</ul>
+<p>&nbsp;</p>
+<p>Newstalk collects your personal date when you;</p>
+<ul>
+<li>subscribe (opt-in) to a newsletter,</li>
+<li>enter a competition</li>
+<li>participate in an online survey</li>
+<li>contact the station directly</li>
+</ul>
+<p>Lawful Basis for Processing</p>
+<p>We process your personal data based on the following lawful basis.</p>
+<ul>
+<li>Station Newsletter Subscriptions are based on Consent.</li>
+<li>Direct Marketing emails are based on either Consent or Legitimate interest, where we use legitimate interest we will have completed an legitimate interest assessment where we conduct a balance test between our legitimate interests and your privacy rights.</li>
+</ul>
+<p>Automatic Data Collection</p>
+<p>Newstalk use cookies and capture IP addresses as part of the essential operation of our sites and media streams, this data is used to geo-fence our content and media streams so we can adhere to our licencing agreement regarding the broadcasting of licenced material.&nbsp; We also use cookies to maintain preferences you have selected, manage load balancing and DDOS mitigation these cookies are used only for this purpose and do not track you beyond our digital assets.</p>
+<p>Marketing/Advertising Cookies</p>
+<p>With your consent we use marketing cookies to better target advertising and make it more relevant to you and your interests, we also use these cookies to frequency cap the number of times you will see an individual ad.&nbsp; Advertising cookies collect information regarding your use of both our website and other websites you may visit. This information allows advertising networks to target their audience.</p>
+<p>Where consent is not provided you will still receive ads but they will not be targeted.</p>
+<p>You can find more about Advertising cookies here https://policies.google.com/technologies/partner-sites</p>
+<p>You can also have control over what third party cookies are used on your device by using tools like</p>
+<p>http://www.youronlinechoices.com/ie/your-ad-choices</p>
+<p>Or</p>
+<p>http://optout.networkadvertising.org/</p>
+<p>Further details of the cookies we use can be found in our Cookie Policy.</p>
+<p>Site Analytics</p>
+<p>Newstalk uses Google Analytics to monitor the usage of its digital assets which is an essential part of the running of any website.&nbsp; It provides the information we require to manage our server capacity and the popularity of our content. This information is anonymous. Please see : https://www.google.com/analytics/learn/privacy.html for more details .</p>
+<p>Social Media</p>
+<p>You should be aware that you may be making available personally identifiable information about yourself when you submit material to our social media pages or to other interactive elements of our digital services.</p>
+<p>3.How we use the personal data we collect:</p>
+<p>&nbsp;</p>
+<p>Newstalk takes your privacy very seriously and will never disclose, share or sell your data without your consent; unless required to do so by law. We only retain your data for as long as is necessary and for the purpose(s) specified in this notice. Where you have consented to us providing you with promotional offers and marketing, you are free to withdraw this consent at any time.</p>
+<p>We do not employ automated decision making methods to any of your personal data under our control.</p>
+<p>The purposes and reasons for processing your personal data are detailed below: -</p>
+<ul>
+<li>We collect your data to administer a service which you have subscribed to and given consent for your personal data to be processed, this includes Station Newsletter and/or promotional material.</li>
+<li>We collect your data as part of a competition entry to allow us contact you regarding the competition, this data is processed based on consent.</li>
+<li>We collect personal data to administer your personalised preferences such as news content or preferred music and services.</li>
+<li>We collect your personal data that you provide us with when you contact us directly to respond to your specific inquiry or to administer the relevant site activity where we have a legitimate interest.</li>
+<li>We automatically capture your IP addresses to geo-fence our content.</li>
+<li>Comply with legal regulatory requirements and legitimate business purposes.</li>
+</ul>
+<p>&nbsp;</p>
+<p>Marketing uses</p>
+<p>How we use marketing information?</p>
+<ul>
+<li>To help us to monitor, analyse and improve Newstalk . This information helps us to understand which Newstalk&nbsp; content, products and services are most interesting, enjoyable and useful to our users, and if they are shared via social networks. The information also helps us to identify when errors occur within the digital products and services within Newstalk and test different versions of a page or feature to see which one works best. All of which helps us improve our digital products and services for our users.</li>
+<li>We can create a more tailored experience by looking at the information we have about you. For example, we will do this by making programme recommendations or telling you about relevant Newstalk events in your area.</li>
+<li>To inform the way we commission future content at Newstalk. We will use aggregated and anonymous user data to help our commissioning teams understand what type of content our users like.</li>
+<li>To sell advertising on Newstalk.</li>
+<li>We will send you information about the digital products and services within Newstalk or other marketing activities, but only where you have signed up to receive these from us. Similarly, sometimes, third party partners will want to send you information about products and services, but will only do so if you have agreed to receive them by ticking an opt-in box associated separately with a competition partner.</li>
+<li>We will email you occasionally about the digital products and services within Newstalk&nbsp; that you have signed up for (for example, to provide you with password reminders or to contact you about content you have submitted to us via our digital products and services) so that we are able to deliver these services to you. We may also invite you to participate in surveys from time to time to help us understand what you think about our programmes, products and services, and in turn make them better.</li>
+</ul>
+<p>&nbsp;</p>
+<p>4.Your Rights</p>
+<p>You have the right to access any personal information that Newstalk processes about you and to request information about: -</p>
+<ul>
+<li>What personal data we hold about you</li>
+<li>The purposes of the processing</li>
+<li>The categories of personal data concerned</li>
+<li>The recipients to whom the personal data has/will be disclosed</li>
+<li>How long we intend to store your personal data for</li>
+<li>If we did not collect the data directly from you, information about the source</li>
+</ul>
+<p>&nbsp;</p>
+<p>If you wish to make a Subject Access Request please contact PrivacyOfficer@CommunicorpMedia.com</p>
+<p>You have the right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.</p>
+<p>You have the right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records.</p>
+<p>You have the right to restriction of processing – where certain conditions apply to have a right to restrict the processing.</p>
+<p>You have the right of portability – you have the right to have the data we hold about you transferred to another organisation.</p>
+<p>You have the right to object – you have the right to object to certain types of processing such as direct marketing. (eg Newsletter Opt-out)</p>
+<p>You have the right to object to automated processing, including profiling</p>
+<p>If we receive a request from you to exercise any of the above rights, we may ask you to verify your identity before acting on the request; this is to ensure that your data is protected and kept secure.</p>
+<p>5.Information collected for journalistic purposes</p>
+<p>Under Article 85 of the GDPR (EU 2016/679)&nbsp; material acquired and used for journalistic purposes is exempt from certain Articles of&nbsp; GDPR,&nbsp; these include Chapter II (principles) other than Article 5(1)(f), Chapter III (rights of&nbsp; the data subject) Chapter IV (controller and processor obligations), Chapter V (transfer of data),&nbsp; Chapter V1, Chapter VII and Chapter IX.</p>
+<p>Please note that the requirement to process personal data in a manner that ensures appropriate security remains when processing for journalistic purposes.</p>
+<p>&nbsp;</p>
+<p>6.Sharing and Disclosing Your Personal Information</p>
+<p>We do not share or disclose any of your personal information without your consent, other than for the purposes specified in this policy or where there is a legal requirement. Newstalk uses third-parties to provide services regarding subscriptions, surveys, competitions and events; however, all processors acting on our behalf only process your data in accordance with instructions from us and comply fully with this privacy notice and are subject to the GDPR (EU 2016/679).</p>
+<p>Newstalk reserves the right to allow its data processor Communicorp Group Limited to perform statistical analyses of user behavior and characteristics, in order to measure interest in and use of the various sections of its sites so as to improve design and navigation and to gather marketing information. Only aggregated data from these analyses, not individual data, will be used for this purpose.</p>
+<p>Communicorp Group Limited commits to keeping your personal information confidential save that we:</p>
+<ul>
+<li>use a range of data sub processing companies to help manage your information. However, we require these companies to comply strictly with our instructions and they are not allowed to use your information for their own business purposes (unless you have explicitly agreed to this). We also require these companies to have appropriate physical and technological security measures to protect your personal information.</li>
+<li>may share your information with third parties where you have specifically agreed to this. We will not, however, sell your data to any third party.</li>
+</ul>
+<p>&nbsp;</p>
+<p>7.Our commitment to security</p>
+<p>Newstalk takes your privacy seriously, we employ appropriate technical and organisational security measures to prevent unauthorised access, alteration, disclosure or destruction of your information.</p>
+<p>We use the following industry standard methods to protect your data:</p>
+<ul>
+<li>SSL (HTTPS) Across all websites</li>
+<li>Encryption</li>
+<li>Enterprise firewalls</li>
+</ul>
+<p>Unfortunately, the sending of information via the internet is not completely secure. Although we will do our utmost to protect your information, we cannot guarantee the security of your data sent to our digital services within Newstalk ; any sending of information is therefore at your own risk.</p>
+<p>8.Transfer Outside the EEA</p>
+<p>Newstalk utilise services (or parts of them) that may be hosted/stored outside the EEA which means that we may transfer any information which is submitted by you through one of our digital services to outside the European Economic Area ("EEA") for the below purposes: -</p>
+<p>&nbsp;</p>
+<ul>
+<li>Newsletter Subscription</li>
+</ul>
+<p>Data Processor is MailChimp, more info here https://mailchimp.com/legal/privacy/</p>
+<p>MailChimp have a proven track record in providing email marketing services across the globe. They have are Trusted Certified and are Certified with the EU-US Privacy Shield Framework.</p>
+<p>&nbsp;</p>
+<ul>
+<li>Competition Forms and Surveys</li>
+</ul>
+<p>Data Processor is Wufoo.com, more information here https://secure.wufoo.com/privacy/</p>
+<p>Wufoo are Certified with the EU-US Privacy Shield Framework.</p>
+<p>&nbsp;</p>
+<ul>
+<li>Events Registration Forms</li>
+</ul>
+<p>Data Processor is Eventbrite,&nbsp; more information https://www.eventbrite.ie/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_IE</p>
+<p>Eventbrite are Certified with the EU-US Privacy Shield Framework.</p>
+<p>&nbsp;</p>
+<p>Streaming Services</p>
+<p>Data Processor is Triton Digital, for more information https://www.tritondigital.com/eu-privacy-policy</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Therefore, when you sign up to our newsletter or enter a competition or register to attend a station event or participate in a station survey, the personal information you submit may be stored on servers which are hosted outside the EEA. Where this is the case, we will ensure that those providers use an appropriate level of protection for your information and agree to abide by GDPR (EU 2016/679) by way of standard contractual clauses.</p>
+<p>&nbsp;</p>
+<p>9.How Long We Keep Your Data</p>
+<p>Newstalk only ever retains personal information for as long as is necessary to provide a service you have consented to or to adhere to certain warranties or proof of delivery for competition winners.</p>
+<p>Where you have subscribed to a Newsletter we will retain your data until you unsubscribe or the Newsletter is canceled. We include unsubscribe links on all newsletter emails.</p>
+<p>Where you have registered for an event we’ll retain your personal data for 13 months after the event as a record of attendance.</p>
+<p>Where you enter a station competition we’ll retain your data for 12 months after the successful competition of the prize or event in the case of tickets.</p>
+<p>We have retention policies in place to meet these obligations.</p>
+<p>10.Complaints</p>
+<p>In the event that you wish to make a complaint about how your personal data is being processed by Newstalk, or how your complaint has been handled, you have the right to lodge a complaint directly with the Data Protection Commissioner and Newstalk.</p>
+<p>&nbsp;</p>
+<p>The details for each of these contacts are:</p>
+<p>Data Protection Commissioner</p>
+<p>Canal House</p>
+<p>Station Road</p>
+<p>Portarlington</p>
+<p>R32 AP23</p>
+<p>Co. Laois</p>
+<p>Phone: 1890 252 231</p>
+<p>Fax: +353 57 868 4757</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Newstalk</p>
+<p>Privacy Officer</p>
+<p>Marconi House</p>
+<p>Digges Lane</p>
+<p>Dublin 2</p>
+<p>Co Dublin</p>
+<p>D02TD60</p>
+<p>Phone: +353 1 8049000</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </div>
 </section>
-<div id="player"></div>
-
-<div id="header_holder">
-
-<div class="container top_container">
-<div class="row">
-<nav class="navbar navbar-default navbar-static-top">
-<div class="container">
-<div class="navbar-header">
-<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-<i class="fa fa-bars fa-2x black"></i>
+<script>
+                                                                        dfp_targets['ntsection'] = 'Privacy Policy';
+                                                                                                dfp_targets['articleID'] = '483077';
+                                                            </script>
+</main>
+<footer>
+<div class="footer-bottom">
+<div class="container text-center">
+<a class="navbar-brand" href="/">
+<img class="img-fluid" src="/images/logo-footer.svg" alt="Newstalk">
+</a>
+<div class="navigation-secondary">
+<nav>
+<ul class="nav d-flex justify-content-center">
+<li class="nav-item">
+<a class="nav-link cta-text-links" href="https://www.newstalk.com/contact" title="contact">contact</a>
+</li>
+<li class="nav-item">
+<a class="nav-link cta-text-links" href="https://www.newstalk.com/events" title="events">events</a>
+</li>
+<li class="nav-item">
+<a class="nav-link cta-text-links" href="https://www.newstalk.com/advertising" title="advertising">advertising</a>
+</li>
+<li class="nav-item">
+<a class="nav-link cta-text-links" href="https://www.newstalk.com/competitions" title="competitions">competitions</a>
+</li>
+<li class="nav-item">
+<a class="nav-link cta-text-links" href="https://www.newstalk.com/site-terms" title="site terms">site terms</a>
+</li>
+<li class="nav-item">
+<a class="nav-link cta-text-links" href="https://www.newstalk.com/privacy-policy" title="Privacy Policy">Privacy Policy</a>
+</li>
+<li class="nav-item">
+<a class="nav-link cta-text-links" href="javascript:void(0)" title="Privacy" onclick="window.__cmp(&quot;displayConsentUi&quot;,2,!0)">Privacy</a>
+</li>
+</ul>
+</nav> </div>
+<div class="d-flex justify-content-center social-btns">
+<a href="https://www.facebook.com/newstalkfm" rel="external"><i class="icon-facebook"></i></a>
+<a href="https://twitter.com/newstalkfm" rel="external"><i class="icon-twitter"></i></a>
+<a href="https://www.youtube.com/channel/UCyQkMUy1w7X7pZEqq2j-1CQ" rel="external"><i class="icon-youtube"></i></a>
+<a href="https://www.instagram.com/newstalkfm/?hl=en" rel="external"><i class="icon-insta"></i></a>
+</div>
+<p class="date-stamp text-white download-app">Download the Newstalk App</p>
+<div class="d-flex justify-content-center app-icons">
+<a href="https://itunes.apple.com/us/app/newstalk-106-108-fm/id372643826?mt=8"><i class="icon-apple"></i></a>
+<a href="https://play.google.com/store/apps/details?id=com.thisisaim.newstalk&amp;hl=en"><i class="icon-googlep"></i></a>
+</div>
+<p class="copyright">© Copyright 2019 - News 106 Ltd. Reg #309181 Marconi House, Digges Lane, Dublin 2</p>
+<div class="d-flex justify-content-center">
+<p class="developed-by mb-0 text-lowercase text-white"><span class="text-capitalize">Developed</span> by <a class="text-capitalize text-white" href="https://www.square1.io/">Square1</a></p>
+</div>
+</div>
+</div></footer> <div class="fixed-bottom live-player d-flex align-items-center" id="live-player">
+<div class="w-auto h-100">
+<button class="btn btn-link p-0 align-self-center h-100 border-0" data-action="play" data-playing="false">
+<i class="icon-play-white align-middle"></i>
+<i class="icon-pause-white align-middle"></i>
 </button>
-<a data-itemid="" data-locid="47" data-current_page="" data-catid="" data-search_query="" class="ajaxer navbar-brand" href="/" title="Breaking Irish News - Newstalk 106-108 fm">
-<span class="logo_svg"></span>
-<img src="/content/001/images/000077/104261_105_stations_1_211x66.jpg" alt="Breaking Irish News - Newstalk 106-108 fm">
-</a>
-<div class="top_social">
-<a data-itemid="" data-locid="tv" data-current_page="" data-catid="" data-search_query="" class="ajaxer watch" target="_BLANK" href="/player">
-<span class="fa-stack fa-lg">
-<i class="fa fa-circle fa-stack-2x"></i>
-<i class="fa fa-video-camera fa-stack-1x fa-inverse"></i>
-</span>
-<span class="iconText">Watch</span>
-</a>
-<a id="header_listen_link" class="listen" target="_BLANK" href="/player">
-<span class="fa-stack fa-lg">
-<i class="fa fa-circle fa-stack-2x"></i>
-<i class="fa fa-headphones fa-stack-1x fa-inverse"></i>
-</span>
-<span class="iconText">Listen</span>
-</a>
-<a class="otb" target="_BLANK" href="http://www.offtheball.com">
-<span class="fa-stack fa-lg">
-<i class="fa fa-futbol-o fa-stack-1x fa-inverse"></i>
-</span>
-<span class="iconText">Off The Ball</span>
-</a>
-<a class="fb" target="_BLANK" href="https://www.facebook.com/newstalkfm">
-<span class="fa-stack fa-lg">
-<i class="fa fa-circle fa-stack-2x"></i>
-<i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
-</span>
-</a>
-<a class="tw" target="_BLANK" href="https://twitter.com/newstalkfm">
-<span class="fa-stack fa-lg">
-<i class="fa fa-circle fa-stack-2x"></i>
-<i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-</span>
-</a>
-<a class="yt" target="_BLANK" href="https://www.youtube.com/Newstalk106108fm">
-<span class="fa-stack fa-lg">
-<i class="fa fa-circle fa-stack-2x"></i>
-<i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
-</span>
-</a>
+</div>
+<div class="w-100 d-flex flex-column flex-md-row justify-content-start justify-content-md-center align-items-center overflow-hidden">
+<div class="w-100 w-md-25">
+<div class="d-livestream">
+<div class="d-flex flex-column align-items-start categories overflow-hidden truncated-gradient">
+<p class="text-left text-nowrap mb-1 mb-md-0"><span class="text-white " data-livestream-pre-title="">Live:</span> <span data-livestream-title="" class="">Title</span></p>
+<p class="mb-0 mt-0 d-none d-md-block text-nowrap"><span data-livestream-description="" class="text-red ">Now playing</span></p>
 </div>
 </div>
-<div id="navbar" class="collapse navbar-collapse">
-<div class="nav_order">
-<div class="nav_order_1">
-<ul class="nav navbar-nav"><li data-itemid="" data-locid="47" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/">latest</a></li><li data-itemid="" data-locid="47.2185" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/video">Video</a></li>
-<li data-itemid="" data-locid="47.301" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/news">News</a></li>
-<li data-itemid="" data-locid="47.2438" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/referendum">Referendum</a></li>
-<li data-itemid="" data-locid="47.301.343" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/business">Business &amp; Tech</a></li>
-<li><a target="_BLANK" href="http://www.offtheball.com">Sport</a></li>
-<li data-itemid="" data-locid="47.305" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/shows">Shows</a></li>
-<li data-itemid="" data-locid="47.1152" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/competitions">Competitions</a></li>
-<li data-itemid="" data-locid="47.2140" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/events">Events</a></li>
-<li data-itemid="" data-locid="47.305.1079" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/TedRadioHour"><img alt="Ted" src="/assets/graphics/global/shows/TED_logo.png"></a></li><li data-itemid="" data-locid="jobs" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/jobs">Jobs</a></li>
-</ul>
-</div>
-<div class="nav_order_2">
-<div class="row">
-<div id="search_area" class="col-lg-12 col-lg-offset-2 col-md-16 col-sm-16 col-xs-16">
-<form action="/reader/" method="post" id="search" class="">
-<div class="input-group">
-<input type="text" id="search_query_input" name="search_query" class="form-control" placeholder="Search for...">
-<span id="form_search_button" class="input-group-addon"><i class="fa fa-search"></i></span>
-</div>
-</form>
-</div>
-<div class="col-lg-2 hidden-md hidden-sm hidden-xs search_btn_area">
-<a type="button" class="btn black search_btn "><i class="fa fa-search fa-1x"></i></a>
-<a type="button" class="btn black close_btn "><i class="fa fa-close fa-1x"></i></a>
+<div class="d-podcast">
+<div class="d-flex align-items-start categories overflow-hidden truncated-gradient">
+<p class="text-left text-nowrap overflow-hidden truncated-gradient m-0 categories  align-middle" data-podcast-title=""></p>
 </div>
 </div>
 </div>
-
+<div class="w-100 w-md-50">
+<div class="pl-md-3 pr-3">
+<div class="bars-container w-100">
+<div class="d-livestream">
+<div class="bars d-flex justify-content-start justify-content-md-center">
+<div class="bar"></div>
+</div> </div>
+<div class="d-podcast">
+<div id="waveform" class="w-100"></div>
 </div>
 </div>
 </div>
-</nav>
+</div>
+<div class="w-25 d-none d-md-block">
+<div class="player-controls position-relative d-podcast">
+<div class="d-flex justify-content-end align-items-center h-100">
+<div class="date-stamp track-time text-gray-light2 pr-3 text-nowrap">
+<span class="track-current-time text-white">00:00:00</span> <span class="text-white">/</span> <span class="track-duration text-white">00:00:00</span>
 </div>
 </div>
 </div>
+</div>
+</div>
+<div class="w-auto h-100">
+<button class="btn btn-link h-100 border-0" data-action="expand">
+<i class="icon-arrow-down-white align-middle"></i>
+</button>
+</div>
+</div>
+<div class="fixed-bottom added-to-queue text-center">
+<span class="badge badge-pill badge-info m-0 letter-spacing-normal px-3 py-2">Added to queue</span>
+</div>
+<div class="fixed-bottom removed-from-queue text-center">
+<span class="badge badge-pill badge-warning m-0 letter-spacing-normal px-3 py-2">Removed from queue</span>
+</div><div class="fixed-bottom live-player-expanion w-100 h-100 d-flex" data-show="false">
+<div class="h-100 h-md-75 d-flex mx-auto mt-md-auto w-100">
 <div class="container">
-<div id="leaderboard_holder">
-
-<div id="div-gpt-ad-1438957814023-0">
-<script type="text/javascript">
-										googletag.cmd.push(function() { googletag.display('div-gpt-ad-1438957814023-0'); });
-										</script>
-</div>
-</div>
-<div id="hpto_holder">
-</div>
-<div id="content_holder">
-<div class="row order_content"><div class="col-lg-16 col-md-16 col-sm-16 col-xs-16 standalone_content article_right_content">
-<div class="page_title">
-<h1>Newstalk Privacy Policy</h1>
-</div><div class="p402_premium"><div style="mso-element: para-border-div; border: none; border-bottom: solid #5B9BD5 1.0pt; mso-border-bottom-themecolor: accent1; padding: 0cm 0cm 4.0pt 0cm;">
-<p class="MsoTitle">Privacy policy</p>
-<p class="MsoTitle">This is the privacy policy of Newstalk and their legal successors.&nbsp;</p>
-<p class="MsoTitle">This policy explains our approach to digital information collection, storage and use in connection with all our digital content. We are committed to protecting your privacy. Newstalk will ensure that it keeps all personal data you provide to us in accordance with our obligations under the Data Protection Acts 1988 to 2018 and General Data Protection Regulation (GDPR) (EU 2016/679).&nbsp;</p>
-<p class="MsoTitle">We may update this policy from time to time, so please review it regularly. If you have any questions about this policy or the information which we hold, please contact us at: PrivacyOfficer@CommunicorpMedia.com or write to us at Newstalk , Marconi House, Digges Lane, Dublin 2.</p>
-<p class="MsoTitle">This policy applies to Newstalk’s digital services only and not to other websites, APPs, social media sites linked to or from Newstalk digital services.</p>
-<p class="MsoTitle">1.About Newstalk</p>
-<p class="MsoTitle">Newstalk is a commercial radio station broadcasting on FM in Ireland.&nbsp; The station is licenced by the Broadcasting Authority of Ireland.&nbsp; Newstalk provide a number of digital services for example Websites,&nbsp; Apps,&nbsp; Alexa Skills, Newsletters etc.&nbsp; Newstalk will collect, use, store or otherwise process personal data in line with the Policy below.&nbsp;</p>
-<p class="MsoTitle">2.The information we collect</p>
-<p class="MsoTitle">Newstalk will never collect any unnecessary personal data from you and will&nbsp; not process your information in any way, other than as specified in this notice.&nbsp;&nbsp;</p>
-<p class="MsoTitle">The personal data that Newstalk collects varies depending on the online activity you have consented for,&nbsp; below lists the information Newstalk may collect when you register for&nbsp; a newsletter, take a survey, enter a competition or if you make&nbsp; direct contact with the station:&nbsp;</p>
-<p class="MsoTitle">•Name</p>
-<p class="MsoTitle">•Email</p>
-<p class="MsoTitle">•Contact Phone Number&nbsp; (where required for a competition entry or where you contact the station via SMS or Whatsapp)&nbsp;</p>
-<p class="MsoTitle">•Home Address (where required for a competition entry or to reply to direct contact)</p>
-<p class="MsoTitle">•Confirmation that you’re over 18 (where required for a competition entry)&nbsp;</p>
-<p class="MsoTitle">•IP Address (To allow us geo-fence audio streams, this data is not used beyond this purpose)</p>
-<p class="MsoTitle">•Information contained in a curriculum vitae&nbsp; (where sent directly to the station)&nbsp;</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">&nbsp;Newstalk collects your personal date when you;</p>
-<p class="MsoTitle">•subscribe (opt-in) to a newsletter,&nbsp;</p>
-<p class="MsoTitle">•enter a competition&nbsp;&nbsp;</p>
-<p class="MsoTitle">•participate in an online survey</p>
-<p class="MsoTitle">•contact the station directly</p>
-<p class="MsoTitle">Lawful Basis for Processing&nbsp;</p>
-<p class="MsoTitle">We process your personal data based on the following lawful basis.&nbsp;</p>
-<p class="MsoTitle">•Station Newsletter Subscriptions are based on Consent.</p>
-<p class="MsoTitle">•Direct Marketing emails are based on either Consent or Legitimate interest, where we use legitimate interest we will have completed an legitimate interest assessment where we conduct a balance test between our legitimate interests and your privacy rights.</p>
-<p class="MsoTitle">Automatic Data Collection&nbsp;</p>
-<p class="MsoTitle">Newstalk use cookies and capture IP addresses as part of the essential operation of our sites and media streams, this data is used to geo-fence our content and media streams so we can adhere to our licencing agreement regarding the broadcasting of licenced material.&nbsp; We also use cookies to maintain preferences you have selected, manage load balancing and DDOS mitigation these cookies are used only for this purpose and do not track you beyond our digital assets.&nbsp;</p>
-<p class="MsoTitle">Marketing/Advertising Cookies&nbsp;</p>
-<p class="MsoTitle">With your consent we use marketing cookies to better target advertising and make it more relevant to you and your interests, we also use these cookies to frequency cap the number of times you will see an individual ad.&nbsp; Advertising cookies collect information regarding your use of both our website and other websites you may visit. This information allows advertising networks to target their audience.&nbsp;</p>
-<p class="MsoTitle">Where consent is not provided you will still receive ads but they will not be targeted.&nbsp;</p>
-<p class="MsoTitle">You can find more about Advertising cookies here https://policies.google.com/technologies/partner-sites</p>
-<p class="MsoTitle">You can also have control over what third party cookies are used on your device by using tools like</p>
-<p class="MsoTitle">&nbsp;http://www.youronlinechoices.com/ie/your-ad-choices</p>
-<p class="MsoTitle">Or&nbsp;</p>
-<p class="MsoTitle">http://optout.networkadvertising.org/</p>
-<p class="MsoTitle">Further details of the cookies we use can be found in our Cookie Policy.</p>
-<p class="MsoTitle">Site Analytics&nbsp;</p>
-<p class="MsoTitle">&nbsp;Newstalk uses Google Analytics to monitor the usage of its digital assets which is an essential part of the running of any website.&nbsp; It provides the information we require to manage our server capacity and the popularity of our content. This information is anonymous. Please see : https://www.google.com/analytics/learn/privacy.html for more details .</p>
-<p class="MsoTitle">Social Media&nbsp;</p>
-<p class="MsoTitle">You should be aware that you may be making available personally identifiable information about yourself when you submit material to our social media pages or to other interactive elements of our digital services.&nbsp;</p>
-<p class="MsoTitle">3.How we use the personal data we collect:</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">Newstalk takes your privacy very seriously and will never disclose, share or sell your data without your consent; unless required to do so by law. We only retain your data for as long as is necessary and for the purpose(s) specified in this notice. Where you have consented to us providing you with promotional offers and marketing, you are free to withdraw this consent at any time.&nbsp;&nbsp;</p>
-<p class="MsoTitle">We do not employ automated decision making methods to any of your personal data under our control.</p>
-<p class="MsoTitle">The purposes and reasons for processing your personal data are detailed below: -</p>
-<p class="MsoTitle">•We collect your data to administer a service which you have subscribed to and given consent for your personal data to be processed, this includes Station Newsletter and/or promotional material.&nbsp;&nbsp;</p>
-<p class="MsoTitle">•We collect your data as part of a competition entry to allow us contact you regarding the competition, this data is processed based on consent.</p>
-<p class="MsoTitle">•We collect personal data to administer your personalised preferences such as news content or preferred music and services.&nbsp;</p>
-<p class="MsoTitle">•We collect your personal data that you provide us with when you contact us directly to respond to your specific inquiry or to administer the relevant site activity where we have a legitimate interest.</p>
-<p class="MsoTitle">•We automatically capture your IP addresses to geo-fence our content.</p>
-<p class="MsoTitle">•Comply with legal regulatory requirements and legitimate business purposes.</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">Marketing uses&nbsp;</p>
-<p class="MsoTitle">How we use marketing information?</p>
-<p class="MsoTitle">•To help us to monitor, analyse and improve Newstalk . This information helps us to understand which Newstalk&nbsp; content, products and services are most interesting, enjoyable and useful to our users, and if they are shared via social networks. The information also helps us to identify when errors occur within the digital products and services within Newstalk and test different versions of a page or feature to see which one works best. All of which helps us improve our digital products and services for our users.</p>
-<p class="MsoTitle">•We can create a more tailored experience by looking at the information we have about you. For example, we will do this by making programme recommendations or telling you about relevant Newstalk events in your area.</p>
-<p class="MsoTitle">•To inform the way we commission future content at Newstalk. We will use aggregated and anonymous user data to help our commissioning teams understand what type of content our users like.</p>
-<p class="MsoTitle">•To sell advertising on Newstalk.</p>
-<p class="MsoTitle">•We will send you information about the digital products and services within Newstalk or other marketing activities, but only where you have signed up to receive these from us. Similarly, sometimes, third party partners will want to send you information about products and services, but will only do so if you have agreed to receive them by ticking an opt-in box associated separately with a competition partner.</p>
-<p class="MsoTitle">•We will email you occasionally about the digital products and services within Newstalk&nbsp; that you have signed up for (for example, to provide you with password reminders or to contact you about content you have submitted to us via our digital products and services) so that we are able to deliver these services to you. We may also invite you to participate in surveys from time to time to help us understand what you think about our programmes, products and services, and in turn make them better.</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">4.Your Rights</p>
-<p class="MsoTitle">You have the right to access any personal information that Newstalk processes about you and to request information about: -</p>
-<p class="MsoTitle">•What personal data we hold about you</p>
-<p class="MsoTitle">•The purposes of the processing</p>
-<p class="MsoTitle">•The categories of personal data concerned</p>
-<p class="MsoTitle">•The recipients to whom the personal data has/will be disclosed</p>
-<p class="MsoTitle">•How long we intend to store your personal data for</p>
-<p class="MsoTitle">•If we did not collect the data directly from you, information about the source</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">If you wish to make a Subject Access Request please contact PrivacyOfficer@CommunicorpMedia.com&nbsp;</p>
-<p class="MsoTitle">You have the right of rectification – you have a right to correct data that we hold about you that is inaccurate or incomplete.</p>
-<p class="MsoTitle">You have the right to be forgotten – in certain circumstances you can ask for the data we hold about you to be erased from our records.</p>
-<p class="MsoTitle">You have the right to restriction of processing – where certain conditions apply to have a right to restrict the processing.</p>
-<p class="MsoTitle">You have the right of portability – you have the right to have the data we hold about you transferred to another organisation.</p>
-<p class="MsoTitle">You have the right to object – you have the right to object to certain types of processing such as direct marketing. (eg Newsletter Opt-out)&nbsp;</p>
-<p class="MsoTitle">You have the right to object to automated processing, including profiling&nbsp;</p>
-<p class="MsoTitle">If we receive a request from you to exercise any of the above rights, we may ask you to verify your identity before acting on the request; this is to ensure that your data is protected and kept secure.</p>
-<p class="MsoTitle">5.Information collected for journalistic purposes</p>
-<p class="MsoTitle">Under Article 85 of the GDPR (EU 2016/679)&nbsp; material acquired and used for journalistic purposes is exempt from certain Articles of&nbsp; GDPR,&nbsp; these include Chapter II (principles) other than Article 5(1)(f), Chapter III (rights of&nbsp; the data subject) Chapter IV (controller and processor obligations), Chapter V (transfer of data),&nbsp; Chapter V1, Chapter VII and Chapter IX.&nbsp;</p>
-<p class="MsoTitle">Please note that the requirement to process personal data in a manner that ensures appropriate security remains when processing for journalistic purposes.&nbsp;</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">6.Sharing and Disclosing Your Personal Information</p>
-<p class="MsoTitle">We do not share or disclose any of your personal information without your consent, other than for the purposes specified in this policy or where there is a legal requirement. Newstalk uses third-parties to provide services regarding subscriptions, surveys, competitions and events; however, all processors acting on our behalf only process your data in accordance with instructions from us and comply fully with this privacy notice and are subject to the GDPR (EU 2016/679).</p>
-<p class="MsoTitle">Newstalk reserves the right to allow its data processor Communicorp Group Limited to perform statistical analyses of user behavior and characteristics, in order to measure interest in and use of the various sections of its sites so as to improve design and navigation and to gather marketing information. Only aggregated data from these analyses, not individual data, will be used for this purpose.</p>
-<p class="MsoTitle">Communicorp Group Limited commits to keeping your personal information confidential save that we:</p>
-<p class="MsoTitle">•use a range of data sub processing companies to help manage your information. However, we require these companies to comply strictly with our instructions and they are not allowed to use your information for their own business purposes (unless you have explicitly agreed to this). We also require these companies to have appropriate physical and technological security measures to protect your personal information.</p>
-<p class="MsoTitle">•may share your information with third parties where you have specifically agreed to this. We will not, however, sell your data to any third party.</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">7.Our commitment to security</p>
-<p class="MsoTitle">Newstalk takes your privacy seriously, we employ appropriate technical and organisational security measures to prevent unauthorised access, alteration, disclosure or destruction of your information.</p>
-<p class="MsoTitle">We use the following industry standard methods to protect your data:</p>
-<p class="MsoTitle">•SSL (HTTPS) Across all websites&nbsp;</p>
-<p class="MsoTitle">•Encryption&nbsp;</p>
-<p class="MsoTitle">•Enterprise firewalls</p>
-<p class="MsoTitle">Unfortunately, the sending of information via the internet is not completely secure. Although we will do our utmost to protect your information, we cannot guarantee the security of your data sent to our digital services within Newstalk ; any sending of information is therefore at your own risk.</p>
-<p class="MsoTitle">8.Transfer Outside the EEA&nbsp;</p>
-<p class="MsoTitle">Newstalk utilise services (or parts of them) that may be hosted/stored outside the EEA which means that we may transfer any information which is submitted by you through one of our digital services to outside the European Economic Area ("EEA") for the below purposes: -</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">•Newsletter Subscription</p>
-<p class="MsoTitle">Data Processor is MailChimp, more info here https://mailchimp.com/legal/privacy/</p>
-<p class="MsoTitle">MailChimp have a proven track record in providing email marketing services across the globe. They have are Trusted Certified and are Certified with the EU-US Privacy Shield Framework.&nbsp;</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">•Competition Forms and Surveys</p>
-<p class="MsoTitle">Data Processor is Wufoo.com, more information here https://secure.wufoo.com/privacy/</p>
-<p class="MsoTitle">Wufoo are Certified with the EU-US Privacy Shield Framework.&nbsp;</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">•Events Registration Forms</p>
-<p class="MsoTitle">Data Processor is Eventbrite,&nbsp; more information https://www.eventbrite.ie/support/articles/en_US/Troubleshooting/eventbrite-privacy-policy?lg=en_IE</p>
-<p class="MsoTitle">Eventbrite are Certified with the EU-US Privacy Shield Framework.</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">Streaming Services&nbsp;</p>
-<p class="MsoTitle">Data Processor is Triton Digital, for more information https://www.tritondigital.com/eu-privacy-policy</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">Therefore, when you sign up to our newsletter or enter a competition or register to attend a station event or participate in a station survey, the personal information you submit may be stored on servers which are hosted outside the EEA. Where this is the case, we will ensure that those providers use an appropriate level of protection for your information and agree to abide by GDPR (EU 2016/679) by way of standard contractual clauses.</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">9.How Long We Keep Your Data</p>
-<p class="MsoTitle">Newstalk only ever retains personal information for as long as is necessary to provide a service you have consented to or to adhere to certain warranties or proof of delivery for competition winners.&nbsp;&nbsp;</p>
-<p class="MsoTitle">Where you have subscribed to a Newsletter we will retain your data until you unsubscribe or the Newsletter is canceled. We include unsubscribe links on all newsletter emails.&nbsp;&nbsp;</p>
-<p class="MsoTitle">Where you have registered for an event we’ll retain your personal data for 13 months after the event as a record of attendance.</p>
-<p class="MsoTitle">Where you enter a station competition we’ll retain your data for 12 months after the successful competition of the prize or event in the case of tickets.&nbsp; &nbsp;</p>
-<p class="MsoTitle">We have retention policies in place to meet these obligations.&nbsp;</p>
-<p class="MsoTitle">10.Complaints</p>
-<p class="MsoTitle">In the event that you wish to make a complaint about how your personal data is being processed by Newstalk, or how your complaint has been handled, you have the right to lodge a complaint directly with the Data Protection Commissioner and Newstalk.</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">The details for each of these contacts are:&nbsp;</p>
-<p class="MsoTitle">Data Protection Commissioner&nbsp;</p>
-<p class="MsoTitle">Canal House</p>
-<p class="MsoTitle">Station Road</p>
-<p class="MsoTitle">Portarlington&nbsp;</p>
-<p class="MsoTitle">R32 AP23&nbsp;</p>
-<p class="MsoTitle">Co. Laois</p>
-<p class="MsoTitle">Phone: 1890 252 231&nbsp;</p>
-<p class="MsoTitle">Fax: +353 57 868 4757&nbsp;</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">Newstalk</p>
-<p class="MsoTitle">Privacy Officer</p>
-<p class="MsoTitle">Marconi House&nbsp;</p>
-<p class="MsoTitle">Digges Lane&nbsp;</p>
-<p class="MsoTitle">Dublin 2</p>
-<p class="MsoTitle">Co Dublin&nbsp;</p>
-<p class="MsoTitle">D02TD60</p>
-<p class="MsoTitle">Phone: +353 1 8049000</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">&nbsp;</p>
-<p class="MsoTitle">Policy Version 3.1.4&nbsp; Updated 24/05/2018</p>
-<div>&nbsp;</div>
-<p class="MsoTitle">&nbsp;</p>
-</div></div></div></div> </div>
-</div>
-<script type="text/javascript">
-	try { _402_Show(); } catch(e) {}
-</script>
-
-<div id="footer">
-<div class="container">
-<div class="row">
-<div class="col-lg-16 col-md-16 col-sm-16 col-xs-16 footer_links">
-<ul class="nav navbar-nav">
-<li data-itemid="42686" data-locid="47.1153" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/Terms-of-Use">site terms</a></li>
-<li><a href="/Privacy-Policy-">privacy</a></li>
-<li><a target="_BLANK" href="//www.communicorpmedia.com/contact/">advertise with us</a></li>
-<li data-itemid="" data-locid="INTERNWITHNEWSTALK" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/INTERN-WITH-NEWSTALK">INTERN WITH NEWSTALK</a></li>
-<li data-itemid="" data-locid="contact" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/contact">contact</a></li>
-<li data-itemid="" data-locid="47.1152" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/competitions">competitions</a></li>
-
-<li data-itemid="15082" data-locid="47.301.346" data-current_page="" data-catid="" data-search_query="" class="ajaxer"><a href="/apps">apps</a></li>
-<li><a target="_BLANK" href="https://www.appliancesdelivered.ie/">appliancesdelivered.ie</a></li>
+<div class="bg-white align-self-end h-100 mx-md-auto">
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+<li class="nav-item w-50">
+<a class="nav-link text-center menu-nav active" id="now-playing-tab" data-toggle="tab" href="#now-playing" role="tab" aria-controls="now-playing" aria-selected="true">Now playing</a>
+</li>
+<li class="nav-item w-50">
+<a class="nav-link text-center menu-nav" id="schedule-tab" data-toggle="tab" href="#schedule" role="tab" aria-controls="schedule" aria-selected="false">Schedule</a>
+</li>
 </ul>
+<div class="tab-content px-3 px-md-0" id="livePlayerExpanded">
+<div class="tab-pane fade show active" id="now-playing" role="tabpanel" aria-labelledby="now-playing-tab">
+<div class="px-md-5 py-3 m-auto">
+<div class="px-md-2">
+<div class="on_air">
+<p class="d-inline-block m-0 mb-2 categories on_air_label">On Air</p>
+<div class="d-flex flex-column flex-md-row align-items-center">
+<div class="w-auto pb-3 pb-md-0 pr-md-3">
+<img src="" class="img-fluid" alt="" title="">
 </div>
-<div class="col-lg-16 col-md-16 col-sm-16 col-xs-16 footer_copy">
-<p>© Copyright 2015 - Newstalk Ltd. Reg #309181 Marconi House, Digges Lane, Dublin 2</p>
-</div>
-</div>
-</div>
-</div>
-
-
-<div class="modal fade" id="myModalDescription" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-keyboard="false">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-header">
-<div class="modal_header_content">
-<h4 class="modal-title player_modal_title" id="myModalLabel">Moncrieff</h4>
-<a class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a>
-</div>
-</div>
-<div class="modal-body">
-<div class="focuspoint focus_height_3" data-focus-x="0" data-focus-y="-0.3" data-image-w="672" data-image-h="251">
-<a class="" href=""><img alt="Moncrieff" id="player_modal_image" src="/content/001/images/000122/156878_152_pages_01_8_672x251.jpg"></a>
-</div>
-<div class="modal_body_content">
-<p>
-<br>
-<span id="player_modal_subtitle">Join Sean Moncrieff for a lively mix of phone-ins, insightful text messages and stories from around the world and down your street. Every weekday from 2pm - 4pm.</span><span id="player_modal_phone"></span>
- <span id="player_modal_text">
-</span>
-<br><br>
-<span id="audi_show_info"></span><span id="player_modal_email"></span>
-<a id="player_show_page_link" href="/moncrieff">Show page</a>
+<div class="w-auto">
+<p class="h1 text-black mb-2" data-title=""></p>
+<p class="m-0 text-black date-stamp duration" data-duration="">
 </p>
-</div>
-</div>
-<div class="modal-footer">
-<div class="modal_footer_content">
-<a href="" class="btn btn-default" data-dismiss="modal">Close</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="modal fade" id="modal_embed" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-keyboard="false">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-header">
-<div class="modal_header_content">
-<h4 class="modal-title" id="myModalLabel">Share</h4>
-<a class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a>
-</div>
-</div>
-<div class="modal-body">
-<div class="modal_body_content">
-<h4 class="modal-title modal-title-inner">Embed Code</h4>
-<textarea class="" id="embedCode" type="text" value="" onclick="this.select()"></textarea>
-<h4 class="modal-title modal-title-inner-lower">Social</h4>
-<div id="modal_addthis_holder">
-<div id="modal_add_this_box" class="addthis_sharing_toolbox" data-url="" data-title=""></div>
-</div>
-</div>
-</div>
-<div class="modal-footer">
-<div class="modal_footer_content">
-<a href="" class="btn btn-default" data-dismiss="modal">Close</a>
+<div class="d-none d-md-block" data-share="">
+<div>
+<div class="d-flex mt-3">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="" target="_blank" data-fb="">
+<i class="icon-facebook align-middle"></i>
+</a>
+<a class="pl-3 align-self-center" href="" target="_blank" data-tw="">
+<i class="icon-twitter align-middle"></i>
+</a>
+<a class="pl-3 align-self-center d-md-none" href="" target="_blank" data-wa="">
+<i class="icon-whatsapp align-middle"></i>
+</a>
 </div>
 </div>
 </div>
 </div>
 </div>
-
-
-<div class="modal fade" id="myModalQueue" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-keyboard="false">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-header">
-<div class="modal_header_content">
-<h4 class="modal-title" id="myModalLabel">My Queue</h4>
-<a class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a>
+<div class="mt-3 d-block d-md-none" data-share="">
+<div class="d-flex flex-column align-items-center mb-2">
+<p class="mb-2 date-stamp text-black text-uppercase align-self-center">Share</p>
+<div>
+<a class="pl-3 align-self-center" href="" target="_blank" data-fb="">
+<i class="icon-facebook align-middle"></i>
+</a>
+<a class="pl-3 align-self-center" href="" target="_blank" data-tw="">
+<i class="icon-twitter align-middle"></i>
+</a>
+<a class="pl-3 align-self-center d-md-none" href="" target="_blank" data-wa="">
+<i class="icon-whatsapp align-middle"></i>
+</a>
 </div>
 </div>
-<div class="modal-body">
-<div class="modal_body_content">
-<div class="row">
-<div id="que_content" class="col-lg-16 col-md-16 col-sm-16 col-xs-16 queue">
+<hr>
+</div>
+</div>
+<p class="mt-3 mb-0 text-black categories font-weight-bold letter-spacing-1 up-next">Up next</p>
+<div class="playlist text-black mb-md-3">
+<div class="row no-gutters d-none d-md-flex align-items-center rhead pt-4 pb-1">
+<div class="col-12">
+ <div class="row no-gutters align-items-center">
+<div class="col-md-5 date-stamp text-black">
+Episode title
+</div>
+<div class="col-md-4 date-stamp text-black px-3">
+Show
+</div>
+<div class="col-md-3 date-stamp text-black">
+Duration
 </div>
 </div>
 </div>
 </div>
-<div class="modal-footer">
-<div class="modal_footer_content">
-<a href="" id="playQue" class="btn btn-default" data-dismiss="modal">Play Queue</a><a href="" class="btn btn-default" data-dismiss="modal">Close</a>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-
-<div class="modal fade" id="myModalMC" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-keyboard="false">
-<div class="modal-dialog">
-<div class="modal-content" style="color: #000;">
-<div class="modal-body">
-<div class="modal_body_content">
-
-<div id="mc_embed_signup">
-<form action="//newstalk.us9.list-manage.com/subscribe/post?u=0fa577237ae607ae6a71153ed&amp;id=93ba0be4e5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
-<div id="mc_embed_signup_scroll">
-<h2>Subscribe to our mailing list</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
-<div class="mc-field-group">
-<label for="mce-EMAIL">Email Address <span class="asterisk">*</span>
-</label>
-<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-</div>
-<div class="mc-field-group">
-<label for="mce-FNAME">First Name </label>
-<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-</div>
-<div class="mc-field-group">
-<label for="mce-LNAME">Last Name </label>
-<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
-<div class="mc-field-group input-group">
-<strong>Morning Digest </strong>
- <ul><li><input type="radio" value="Yes" name="MMERGE3" id="mce-MMERGE3-0"><label for="mce-MMERGE3-0">Yes</label></li>
-<li><input type="radio" value="No" name="MMERGE3" id="mce-MMERGE3-1"><label for="mce-MMERGE3-1">No</label></li>
-</ul>
-</div>
-<div class="mc-field-group input-group">
-<strong>Daily Digest </strong>
-<ul><li><input type="radio" value="Yes" name="MMERGE4" id="mce-MMERGE4-0"><label for="mce-MMERGE4-0">Yes</label></li>
-<li><input type="radio" value="No" name="MMERGE4" id="mce-MMERGE4-1"><label for="mce-MMERGE4-1">No</label></li>
-</ul>
-</div>
-<div id="mce-responses" class="clear">
-<div class="response" id="mce-error-response" style="display:none"></div>
-<div class="response" id="mce-success-response" style="display:none"></div>
-</div> 
-<div style="position: absolute; left: -5000px;"><input type="text" name="b_0fa577237ae607ae6a71153ed_93ba0be4e5" tabindex="-1" value=""></div>
-<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-</div>
-</form>
-</div>
-<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='radio';fnames[4]='MMERGE4';ftypes[4]='radio';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-
+<div class="playlist-empty text-center mt-4">
+<p class="text-black">You currently have no podcasts in your queue.</p>
+<a class="btn btn-secondary" href="/podcasts">Go to podcasts</a>
 </div>
 </div>
 </div>
 </div>
 </div>
-
-
-<div class="modal fade" id="galleryModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-<div class="modal-dialog">
-<div class="modal-content">
-<div class="modal-header">
-<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
-<h4 class="modal-title" id="myModalLabel">Loading...</h4>
+<div class="tab-pane fade" id="schedule" role="tabpanel" aria-labelledby="schedule-tab">
+<div class="px-md-5 py-3 m-auto">
+<div class="px-md-5">
+<div class="px-lg-5">
+<div class="px-lg-3">
+<p class="d-inline-block m-0 mb-3 categories text-white on_air_label">On Air</p>
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/newstalk-breakfast.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIwNzA4XFxcL0JyZWFrZmFzdC1OZXctNjEyeDYxMnB4LVVQREFURUQucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiMTI1MzliNmQ5ZjAyNDAxYjFjN2I1Mjc4NGM2M2UxZDYxZDQ3YjgzOCJ9/newstalk-breakfast.png" alt="Newstalk Breakfast" title="Newstalk Breakfast">
 </div>
-<div class="modal-body">
-<ul class="bxslider" id="galleryslider">
-</ul>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">Newstalk Breakfast</p>
+<p class="m-0 text-black date-stamp">07:00-09:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=NEWSTALK+BREAKFAST&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=NEWSTALK%20BREAKFAST%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=NEWSTALK+BREAKFAST&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> <p class="m-0 mt-4 mb-3 text-black categories font-weight-light">Up next</p>
+<div class="up-next-list">
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/the-pat-kenny-show.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIwOTEwXFxcL1BhdC1LZW5ueS02MTJ4NjEycHgtTGFyZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiMGVjZWY3ODAzNmYzZmQ4OTk2N2Y2NTM1YWI1MTRjODhkNDRkNzRmMCJ9/the-pat-kenny-show.png" alt="THE PAT KENNY SHOW" title="THE PAT KENNY SHOW">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">THE PAT KENNY SHOW</p>
+<p class="m-0 text-black date-stamp">09:00-12:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fpat-kenny-show-234857" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=THE+PAT+KENNY+SHOW&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fpat-kenny-show-234857%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=THE%20PAT%20KENNY%20SHOW%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fpat-kenny-show-234857%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fpat-kenny-show-234857" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=THE+PAT+KENNY+SHOW&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fpat-kenny-show-234857%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/lunchtime-live.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIxMTMxXFxcL0x1bmNodGltZS1MaXZlLTYxMng2MTJweC1MYXJnZS5wbmdcIixcIndpZHRoXCI6XCJcIixcImhlaWdodFwiOjU3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cubmV3c3RhbGsuY29tXFxcL2ltYWdlc1xcXC9kZWZhdWx0X25vX2ltYWdlLnBuZ1wifSIsImhhc2giOiJiNjhjNzE3YWIzN2VhOTZjOGMyMmQ0ODkzYmNmYzk4OTZlNDgwMzQwIn0=/lunchtime-live.png" alt="LUNCHTIME LIVE" title="LUNCHTIME LIVE">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">LUNCHTIME LIVE</p>
+<p class="m-0 text-black date-stamp">12:00-14:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Flunchtime-live-234859" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=LUNCHTIME+LIVE&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Flunchtime-live-234859%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=LUNCHTIME%20LIVE%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Flunchtime-live-234859%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Flunchtime-live-234859" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=LUNCHTIME+LIVE&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Flunchtime-live-234859%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/moncrieff.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIxMzM0XFxcL01vbmNyaWVmZi02MTJ4NjEycHgtTGFyZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiYzRiZTQ1NjlkNWZhM2JjYzQyZTZhNmUyOWJkYTgyMGZmZjM1Mjc4MCJ9/moncrieff.png" alt="MONCRIEFF" title="MONCRIEFF">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">MONCRIEFF</p>
+<p class="m-0 text-black date-stamp">14:00-16:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fmoncrieff-234861" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=MONCRIEFF&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fmoncrieff-234861%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=MONCRIEFF%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fmoncrieff-234861%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fmoncrieff-234861" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=MONCRIEFF&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fmoncrieff-234861%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/the-hard-shoulder.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIxNTQ1XFxcL0l2YW4tWWF0ZXMtNjEyeDYxMnB4LUxhcmdlLnBuZ1wiLFwid2lkdGhcIjpcIlwiLFwiaGVpZ2h0XCI6NTcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImQ5Y2YwNWM2YWU5NTAxNDliNDAxNGE1NmY0Zjc0MTZiZjU3ZmViODAifQ==/the-hard-shoulder.png" alt="THE HARD SHOULDER" title="THE HARD SHOULDER">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">THE HARD SHOULDER</p>
+<p class="m-0 text-black date-stamp">16:00-19:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fthe-hard-shoulder-234864" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=THE+HARD+SHOULDER&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fthe-hard-shoulder-234864%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=THE%20HARD%20SHOULDER%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fthe-hard-shoulder-234864%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fthe-hard-shoulder-234864" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=THE+HARD+SHOULDER&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fthe-hard-shoulder-234864%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/off-the-ball.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIxOTExXFxcL09UQi1Hcm91cC02MTJ4NjEycHgtVVBEQVRFRC5wbmdcIixcIndpZHRoXCI6XCJcIixcImhlaWdodFwiOjU3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cubmV3c3RhbGsuY29tXFxcL2ltYWdlc1xcXC9kZWZhdWx0X25vX2ltYWdlLnBuZ1wifSIsImhhc2giOiI4NjkwNTA3ZjM0NDgyYmEzOWZhYjkzMjExYjZkZjFiNGUwNGZjMTM5In0=/off-the-ball.png" alt="OFF THE BALL" title="OFF THE BALL">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">OFF THE BALL</p>
+<p class="m-0 text-black date-stamp">19:00-22:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Foff-the-ball-234866" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=OFF+THE+BALL&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Foff-the-ball-234866%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=OFF%20THE%20BALL%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Foff-the-ball-234866%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Foff-the-ball-234866" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=OFF+THE+BALL&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Foff-the-ball-234866%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/the-tom-dunne-show.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIyMjE1XFxcL1RvbS1EdW5uZS02MTJ4NjEycHgtTGFyZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiNTQ0NmVmYjkzMGY0YTVlNmM3OTQ1MzRjZGMyOTg0MGZlMWY3NTBhOSJ9/the-tom-dunne-show.png" alt="THE TOM DUNNE SHOW" title="THE TOM DUNNE SHOW">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">THE TOM DUNNE SHOW</p>
+<p class="m-0 text-black date-stamp">22:00-00:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Ftom-dunne-show-234868" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=THE+TOM+DUNNE+SHOW&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Ftom-dunne-show-234868%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=THE%20TOM%20DUNNE%20SHOW%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Ftom-dunne-show-234868%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Ftom-dunne-show-234868" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=THE+TOM+DUNNE+SHOW&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Ftom-dunne-show-234868%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/best-of-newstalk.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIyNjExXFxcL0Jlc3Qtb2YtTlQtNjEyeDYxMnB4LUxhcmdlLnBuZ1wiLFwid2lkdGhcIjpcIlwiLFwiaGVpZ2h0XCI6NTcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCJ9IiwiaGFzaCI6ImU1MDdjMjhhZjIwYzJjODViZGM5NGNlY2ZlNTdhMGEwNTBjOGFhZTcifQ==/best-of-newstalk.png" alt="BEST OF NEWSTALK" title="BEST OF NEWSTALK">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">BEST OF NEWSTALK</p>
+<p class="m-0 text-black date-stamp">00:00-06:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbest-of-newstalk-234880" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=BEST+OF+NEWSTALK&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbest-of-newstalk-234880%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=BEST%20OF%20NEWSTALK%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbest-of-newstalk-234880%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbest-of-newstalk-234880" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=BEST+OF+NEWSTALK&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbest-of-newstalk-234880%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/breakfast-briefing.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIyODUwXFxcL0FuZHJlYS02MTJ4NjEycHgtTGFyZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiNjJlYTZkN2M4NjM3Yzc4OGY5OTY1OGJkYmE1Y2E3NjliMDExNWY3MiJ9/breakfast-briefing.png" alt="BREAKFAST BRIEFING" title="BREAKFAST BRIEFING">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">BREAKFAST BRIEFING</p>
+<p class="m-0 text-black date-stamp">06:00-06:30</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-briefing-234884" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=BREAKFAST+BRIEFING&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-briefing-234884%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=BREAKFAST%20BRIEFING%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-briefing-234884%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-briefing-234884" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=BREAKFAST+BRIEFING&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-briefing-234884%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/breakfast-business.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIzMDMyXFxcL1ZpbmNlbnQtV2FsbC02MTJ4NjEycHgtTGFyZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiYmMxZjgxNDg0M2VlOWZhNjhkMWM3ZDFkMWUyYWUxZDU5MDRiYzYzZSJ9/breakfast-business.png" alt="BREAKFAST BUSINESS" title="BREAKFAST BUSINESS">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">BREAKFAST BUSINESS</p>
+<p class="m-0 text-black date-stamp">06:30-07:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-business-234887" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=BREAKFAST+BUSINESS&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-business-234887%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=BREAKFAST%20BUSINESS%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-business-234887%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-business-234887" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=BREAKFAST+BUSINESS&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fbreakfast-business-234887%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
+<div class="mb-3 pb-3">
+<div class="d-flex">
+<div class="schedule_thumb">
+<img class="lazyload" src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5uZXdzdGFsay5jb21cXFwvaW1hZ2VzXFxcL2RlZmF1bHRfbm9faW1hZ2UucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiODE4ZWIwYTM1YmY0YzY2Njg3NWI3YjkyNjk1ZGNhNzMyYmQ3YjkzZCJ9/newstalk-breakfast.png" data-src="https://img.resized.co/newstalk/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3MzLWV1LXdlc3QtMS5hbWF6b25hd3MuY29tXFxcL3N0b3JhZ2UucHVibGlzaGVycGx1cy5pZVxcXC9tZWRpYS5yYWRpb2Ntcy5uZXRcXFwvdXBsb2Fkc1xcXC8yMDE4XFxcLzEyXFxcLzEyMTIwNzA4XFxcL0JyZWFrZmFzdC1OZXctNjEyeDYxMnB4LVVQREFURUQucG5nXCIsXCJ3aWR0aFwiOlwiXCIsXCJoZWlnaHRcIjo1NyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3Lm5ld3N0YWxrLmNvbVxcXC9pbWFnZXNcXFwvZGVmYXVsdF9ub19pbWFnZS5wbmdcIn0iLCJoYXNoIjoiMTI1MzliNmQ5ZjAyNDAxYjFjN2I1Mjc4NGM2M2UxZDYxZDQ3YjgzOCJ9/newstalk-breakfast.png" alt="NEWSTALK BREAKFAST" title="NEWSTALK BREAKFAST">
+</div>
+<div class="align-self-center">
+<p class="text-black mb-1 font-weight-bold title">NEWSTALK BREAKFAST</p>
+<p class="m-0 text-black date-stamp">07:00-09:00</p>
+</div>
+<div class="pl-3 ml-auto align-self-center">
+<div class="d-block d-md-none">
+<button class="btn btn-link" data-facebook-link="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855" data-twitter-link="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=NEWSTALK+BREAKFAST&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-whatsapp-link="whatsapp://send?text=NEWSTALK%20BREAKFAST%20-%20https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dwhatsapp%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-action="socials-toggler">
+<i class="icon-share-dark"></i>
+</button>
+</div>
+<div class="d-none d-md-block">
+<div class="d-flex">
+<p class="m-0 date-stamp text-black text-uppercase align-self-center">Share</p>
+<a class="pl-3 align-self-center" href="https://www.facebook.com/dialog/feed?app_id=329929024447985&amp;link=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+</a>
+<a class="pl-3 align-self-center" href="https://twitter.com/intent/tweet?via=newstalkfm&amp;text=NEWSTALK+BREAKFAST&amp;url=https%3A%2F%2Fwww.newstalk.com%2Fshows%2Fnewstalk-breakfast-234855%3Futm_source%3Dtwitter%26utm_campaign%3Darticle%26utm_medium%3Dweb" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+</a>
+</div> </div>
+</div>
+</div> </div>
 </div>
 </div>
 </div>
 </div>
-<div id="reset_password_modal" class="modal fade login_modals" role="dialog" data-keyboard="false" data-backdrop="static">
-<div class="modal-dialog" role="document">
-
-<div class="modal-content form_style">
-<div class="modal-header">
-<h4 class="modal-title" id="myModalLabel">Forgot your Newstalk password</h4>
-<a class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></a>
+</div> </div>
 </div>
-<div class="modal-body">
-<form>
-<div id="reset_password_email_holder">
-<div class="form-group">
-<input type="text" class="form-control" placeholder="Enter your email" name="email" id="reset_password_email">
+<div class="player-controls position-relative bg-red">
+<div class="d-flex justify-content-center align-items-center h-100">
+<div>
+<button class="btn btn-link back-10" data-action="rewind"></button>
 </div>
+<div class="date-stamp track-time text-gray-light2 px-5 d-podcast">
+<span class="track-current-time text-white">00:00:00</span> <span class="text-white">/</span> <span class="track-duration text-white">00:00:00</span>
 </div>
-<div id="reset_password_message_holder"></div>
-</form>
-</div>
-<div class="modal-footer">
-<a href="javascript:;" id="reset_password" class="btn btn-default">Reset Password</a>
+<div>
+<button class="btn btn-link forward-10" data-action="forward"></button>
 </div>
 </div>
 </div>
 </div>
-<script>
-   	var jslocID 		= '47.1153',
-   		jsis_count 		= 0,
-   		jsitemID		= '111721',
-   		timerRunning 	= false;
-   	</script>
-<script src="/assets/includes/js/bootstrap-slider.js"></script>
-<script src="/assets/includes/js/bootstrap.min.js"></script>
-<script src="/assets/includes/js/jquery.focuspoint.js"></script>
-<script src="/assets/includes/js/jquery.bxslider.min.js"></script>
-<script src="/assets/includes/js/global_new.js?v=1527513253"></script>
-<script type="text/javascript" src="/assets/includes/js/fitvid.js"></script>
-
-<script src="/assets/includes/velocity/velocity.min.js"></script>
-<script src="/assets/includes/velocity/velocity.ui.min.js"></script>
-<script src="/assets/includes/js/writeCapture.js" type="text/javascript" charset="utf-8">
-		</script>
-<script src="/assets/includes/js/jquery.writeCapture.js" type="text/javascript" charset="utf-8">
-		</script>
-
-
-<script>
-	var opta_settings = {
-		subscription_id: '5c06b9ad78b7d6a491dd5ce3caed8f2c',
-		language: 'en_GB',
-		timezone: 'Europe/Dublin'
-	};
-</script>
+</div>
+</div>
+</div><div class="fixed-bottom social-share-bar d-block d-md-none">
+<p class="text-center date-stamp text-white">Share on</p>
+<div class="d-flex justify-content-center justify-content-md-start">
+<a data-facebook-share="" class="px-2 align-self-center text-white text-center" href="javascript:void(0)" data-share="facebook" rel="external">
+<i class="icon-facebook"></i>
+<small class="d-block d-md-none text-center pt-2 social-name">Facebook</small>
+</a>
+<a data-twitter-share="" class="px-2 align-self-center text-white text-center" href="javascript:void(0)" data-share="twitter" rel="external">
+<i class="icon-twitter"></i>
+<small class="d-block d-md-none text-center pt-2 text-white social-name">Twitter</small>
+</a>
+<a data-whatsapp-share="" class="px-2 align-self-center text-white text-center d-md-none" href="javascript:void(0)" data-share="whatsapp" rel="external">
+<i class="icon-whatsapp"></i>
+<small class="d-block text-center pt-2 text-white social-name">Whatsapp</small>
+</a>
+</div>
+<button class="btn btn-link d-block d-md-none p-0 position-absolute border-0" data-action="socials-toggler" target="_blank">
+<i class="icon-close-gray"></i>
+</button>
+</div> </div>
+<div class="d-none" id="div-gpt-oop">
 <script type="text/javascript">
-
-	 
-
-	$(document).ready(function(){
-
-		
-		//XXX: GE
-		// results map
-		if ( $( ".results_map" ).length ) {
-			
-			//build_results_map(999);
-		}
-		// fade in message on const pages that shows if is count is true and the const does not have votes returned 
-		  $( ".const_status" ).delay(1000).animate({
-			    opacity: 1
-			  }, 1000, function() {
-			    // Animation complete.
-			  });
-		  
-		$("#article_player").fitVids();
-
-		// temp budget code
-		
-		// inject nt tv on load
-		
-		if ($('#budget_player').length) {
-			//instantiate_nttv();
-		}
-		
-		$('body').on('click', '.pTabs div', function(){
-			
-			var $this 		= $(this),
-				tabs 		= $('.pTabs'),
-				myTarget 	= $this.data("target"),
-				pFeed 		= '<div id="budget_player" style="position: relative; display: inline-block; width: 100%; height: auto;"></div>',
-				oFeed 		= '<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://flashhost.heanet.ie/oireachtas/dvr/oireachtas_iframe.html?channel=dail" name="aa3ad774931a43efb6ace45dc3eada0f" marginwidth="0" marginheight="0" scrolling="no" webkitAllowFullScreen allowFullScreen></iframe></div>';
-
-				
-			var myFeed = (myTarget == 'o_stream') ? oFeed : pFeed;
-
-			
-			$('.pTabTarget').html(myFeed);
-
-			// play nt tv
-			if(myTarget != 'o_stream'){
-
-				instantiate_nttv();
-			}
-
-			tabs.children().css({'background': '#312F2F'});
-			$this.css({'background': '#E31D3E'});
-		});
-		// temp budget code
-		
-		
-
-
-		// ad overlay
-		var adCheck = $.cookie('ad_played');
-		//var adCheck;
-		
-		// screensize check for apps
-		var width_win 	= window.innerWidth,
-			height_win 	= window.innerHeight
-			isTablet 	= false;
-
-		if (width_win == 1024 && height_win == 768) {
-			isTablet = true;
-		}
-
-
-		
-		$('body').on('click', '.play_audio', function(e){		
-	
-			e.preventDefault();
-			
-			var self = $(this);
-			var type = self.attr('data-type');
-			var media_id = self.attr('data-media_id');
-			var showID = self.attr('data-showID');
-			
-			var partNumber = self.attr('data-partNumber');
-	
-	
-	
-								
-				// no video tag, build player normally
-				//console.log('no video tag');
-				load_audio(type, media_id, showID, partNumber);
-				
-	
-		});
-
-		
-		window.onAirShow = 'Moncrieff';
-		window.slug='/Privacy-Policy-';
-		window.live_stream_url = 'https://playerservices.streamtheworld.com/api/livestream-redirect/NEWSTALK.mp3?csegid=101';
-		window.curPlayType = 'On Air';
-        window.endOfShowChange = false;
-		jwplayer('player').setup({
-		file: 'https://playerservices.streamtheworld.com/api/livestream-redirect/NEWSTALK.mp3?csegid=101',
-		width: 1,
-		height: 1,
-		controls:  false,
-		autostart: '',
-		type: 'mp3',
-		'analytics': {
-		enabled: false
-		},
-		primary: 'html5',
-		'advertising': {
-					    'client': 'vast'
-		},
-		events: {
-		onReady: function() {
-		
-			$('#playIcon').css('display', 'table-cell');
-			$('#volumeButton').css('display', 'table-cell');
-			
-			jwplayer('player').setVolume(60);
-			
-		},onPause: function() {
-		
-			$('#pauseIcon').hide();
-			$('#playIcon').css('display', 'table-cell');
-		
-		},
-		onAdPlay: function(){
-			
-			var myPlayType = window.curPlayType.toLowerCase();
-			
-			$('#playIcon').hide();
-			if(myPlayType=='on air'){
-				$('#stopIcon').css('display', 'table-cell');
-				$('#stopIcon').addClass('disabled');
-				$('#pauseIcon').hide();
-			}
-			else {
-				$('#pauseIcon').css('display', 'table-cell');
-				$('#stopIcon').hide();
-			}
-		
-		},
-		onPlay: function() {
-		
-			var myPlayType = window.curPlayType.toLowerCase();
-			
-			$('#playIcon').hide();
-			if(myPlayType=='on air'){
-				$('#stopIcon').css('display', 'table-cell');
-				$('#stopIcon').removeClass('disabled');
-				$('#pauseIcon').hide();
-			}
-			else {
-				$('#pauseIcon').css('display', 'table-cell');
-				$('#stopIcon').hide();
-			}
-			
-			//Adjusted bounce rate
-			
-			//Adjusted bounce rate event
-			clearTimeout(window.bounceTimer);
-			window.bounceTimer = setTimeout(function(){ 
-			
-			if(myPlayType=='podcast'){
-			
-				var gaType = 'Podcast';
-				var gaSlug = window.slug;
-			
-			}else if(myPlayType=='archive'){
-			
-				var gaType = 'Listen Back';
-				var gaSlug = window.slug;
-			
-			}else if(myPlayType=='on air'){
-			
-				var gaType = 'Live Stream';
-				var gaSlug = window.onAirShow;
-			
-			}else{
-			
-				var gaType = window.curPlayType;
-				var gaSlug = window.slug;
-			
-			}
-			
-			
-			
-		
-						
-			//console.log('Send play event');			
-			ga('send', 'event', 'Player', gaType+' Play', gaSlug); 
-
-            if(gaType=='Live Stream'){
-                if(window.endOfShowChange == false){
-                    ga('send', 'event', 'Live Stream', 'Initial Play', gaSlug); 
-                }                
-                ga('send', 'event', 'Live Stream', 'Show Listen', gaSlug); 
-                window.endOfShowChange = false;
-            }
-			
-			}, 1000);
-			
-		},
-		onComplete: function(e){
-	
-			
-			
-			check_que();
-			
-			
-		
-		},
-		onTime: function(e){
-			
-		
-			
-			if(window.curPlayType.toLowerCase()=='podcast' || window.curPlayType.toLowerCase()=='archive'){
-					var curTime = e.position;
-					var duration = e.duration;
-					var curPercentage = (curTime/duration)*100;
-					$('#progress_bar').css({ width: curPercentage+'%'});
-					
-					
-			}
-		},
-		onBeforePlay: function() {
-				
-			if(window.curPlayType == 'On Air'){
-				jwplayer('player').playAd('https://cmod301.live.streamtheworld.com/ondemand/ars?type=preroll&stid=104623&fmt=vast&banners=none&version=1.5.5');
-			}
-		
-		}
-					
-					
-		}
-		});
-		
-		$('#playIcon').on('click', function(e){
-			e.preventDefault();
-			
-			jwplayer('player').play();
-		});
-		
-		$('#pauseIcon').on('click', function(e){
-			e.preventDefault();
-			jwplayer('player').pause();
-			$('#pauseIcon').hide();
-			$('#playIcon').css('display', 'table-cell');
-		});
-		
-		$('#stopIcon').on('click', function(e){
-			e.preventDefault();
-			jwplayer('player').stop();
-			$('#stopIcon').hide();
-			$('#playIcon').css('display', 'table-cell');
-		});window.upDateOnAir = window.setInterval(function(){ 
-
-			update_on_air_progress();
-		
-		}, 36000);		
-
-		update_que_count();
-
-		window.GLOBAL_iPhone = 'GLOBAL_iPhone';
-
-		window.USE_JWPLAYER_ON_MOBILE = '1';
-		
-		window.archiveMaxDate = '2018-05-28 23:59:59';
-
-					$('body').removeClass().addClass('item_view');
-		
-		
-
-
-		$('body').on('click', '.ajaxer', function( e ){
-
-			e.preventDefault();
-
-			 var self = $(this);
-			 var itemID = self.attr('data-itemID');
-			 var locID = self.attr('data-locID');
-			 var current_page = self.attr('data-current_page');
-			 var catID = self.attr('data-catID');
-			 var search_query = self.attr('data-search_query');
-			 var show_filter  = self.attr('data-show_filter');
-			 var series_filter  = self.attr('data-series_filter'); 
-
-			 //XXX: GE
-			 clearTimeout(al_timeout);
-
-			 if( locID !='47'){
-				$('#budget_player').remove();
-			 }
-	    	
-	    	
-			 ajaxer(itemID, locID, current_page, catID, search_query, show_filter, series_filter, '', 0);
-
-		});
-
-
-
-
-
-		if(html5Support){ 
-			
-			 var item = {
-						'itemID':'111721',
-						'locID':'47.1153',
-						'current_page':'0',
-						'catID':'',
-						'search_query':'',
-						'show_filter':'',
-						'series_filter':''
-				}; 				
-
-										history.replaceState({state:stateNum,content:item},'','/Privacy-Policy-');
-								
-		}
-		
-		landing_events('47.1153','Privacy-Policy-','111721','','','','', '', '0', true);
-
-		
-		ga('send', 'event', 'Views By Author', 'Pageview', 'newstalk.com');
-		ga('send', 'event', 'Views By Category', 'Pageview', 'Footer Pages');
-		
-
-	});
-
-
-
-
-	
-//XXX: EURO
-
-function getQueryVariable(variable, query)
-{
-       var vars = query.split("&");
-       for (var i=0;i<vars.length;i++) {
-               var pair = vars[i].split("=");
-               if(pair[0] == variable){return pair[1];}
-       }
-       return(false);
-}
-
-$('body').on('change', '.ajaxer_team_sel', function( e ){
-	
-	var itemID 	= $(this).val(),
-		locID 	= 'EURO_TEAMS';
-	
-	if (itemID && locID) { 
-		ajaxer(itemID, locID);
-	}
-});
-
-// add ajaxer class + data attributes to team link
-// will also need to do something with match link here
-/*
-Opta.events.subscribe('widget.drawn', function (widget) {
-	
-	if (widget.widget.attr.widget === 'fixtures') {
-
-		$( ".container .Opta-Ext" ).each(function( index ) {
-
-			var $this 		= $(this),
-				this_url 	= $this.attr('href'),
-				this_team 	= getQueryVariable('team', this_url)
-				this_match 	= getQueryVariable('match', this_url);
-
-			$this.addClass('ajaxer');
-			
-			if (this_team) {
-				$this.attr('data-itemid', this_team);
-				$this.attr('data-locid', '47.1333.1335');
-			}
-			if (this_match) {
-				$this.attr('data-itemid', this_match);
-				$this.attr('data-locid', '47.1333.1374');
-			}
-		});
-	}
-
-	if (widget.widget.attr.widget === 'standings') {
-
-		$( ".container .Opta-Ext" ).each(function( index ) {
-
-			var $this 		= $(this),
-				this_url 	= $this.attr('href'),
-				this_team 	= getQueryVariable('team', this_url);
-
-			
-			if (this_team) {
-				$this.addClass('ajaxer');
-				$this.attr('data-itemid', this_team);
-				$this.attr('data-locid', '47.1333.1335');
-			}
-
-		});
-	}
-
-	if (widget.widget.attr.widget === 'match_summary') {
-
-		$( ".container .Opta-Ext" ).each(function( index ) {
-
-			var $this 		= $(this),
-				this_url 	= $this.attr('href'),
-				this_team 	= getQueryVariable('team', this_url);
-
-			
-			if (this_team) {
-				$this.addClass('ajaxer');
-				$this.attr('data-itemid', this_team);
-				$this.attr('data-locid', '47.1333.1335');
-			}
-
-		});
-	}
-});
-*/
-
-
-$('body').on('click', '.EURO_loader', function(){
-    
-   // console.log('EURO_loader');
-	var locID 	= $(this).attr('data-locID'),
-		offset 	= $('.content_bloc').attr('data-offset');
-
-	offset++;
-	
-	$('.content_bloc').attr('data-offset', offset);
-	$('.EURO_loader').html('<i class="fa fa-spinner fa-spin"></i>');
-	
-	$.ajax({
-		url: '/euro2016_assets/assets/includes/ajax/EURO_article_loader.php', 
-		data: {'locID': locID, 'offset': offset}
-	}).done(function(data){
-
-		if (data){
-			$('.content_bloc').append(data);
-			$('.focuspoint').focusPoint();
-			$('.EURO_loader').html('Load More');
-		}
-		else {
-			$('.EURO_loader').hide();
-		}
-
-		var liveStreamPlaying = 'No';
-		
-		if(jwplayer("player").getState()=="PLAYING" && window.curPlayType=='On Air'){				  
-              liveStreamPlaying = 'Yes';              
-        }
-        else{
-        	  liveStreamPlaying = 'No';
-        }
-
-		ga_set_content_groups(window.gaCategory, window.gaParent_category, liveStreamPlaying);
-		ga('send', 'pageview', window.gaPage+'/page-'+offset+'/');
-	});
-});
-
-
-/*
- * EURO MATCH ARTICLE
- */
- 
-/*
- * reload ads and log a GA page view for clicks on tabs on the match article page
- */
-$('body').on('click', '.match-article-tab li', function(e){
-	
-	var tab_type 		= $(this).find('a').html(),
-		kickoffTS 		= $('.match-article-tab').attr('data-kickoffts'),
-		matchendTS 		= kickoffTS + 7200,
-		currentTS 		= e.timeStamp,
-		match_status 	= '';
-	
-	record_match_status();
-	
-	ga('send', 'pageview', window.location.pathname + ' ' + tab_type);
-	googletag.pubads().refresh();
-});
-
-function record_match_status(){
-	
-	var kickoffTS 		= $('.match-article-tab').attr('data-kickoffts') * 1000,
-		matchendTS 		= kickoffTS + 7200,
-		currentTS 		= $.now(),
-		match_status 	= '';
-
-
-	if (currentTS < kickoffTS) {
-		match_status = 'pre';
-	}
-	else if (currentTS > kickoffTS && currentTS < matchendTS) {
-		match_status = 'during';
-	}
-	else if (currentTS > matchendTS) {
-		match_status = 'post';
-	}
-
-	
-	//send match status (pre, during, post)
-	if(window.location.hostname=='test.newstalk.ie'){
-		ga('set', 'dimension6', match_status);	
-	}
-	else{
-		var dimensionValue = 'SOME_DIMENSION_VALUE';
-		ga('set', 'dimension5', match_status);
-	}
-}
-
-
-//XXX: GE
-
-// update elements
-if ( $( ".progress-bar-ge" ).length ) {
-	(function ud_turnout_bar() {
-		$.ajax({
-			url: '/ge2016/assets/includes/ajax/turnout_bar_updater.php', 
-			success: function(data) {
-				$('.progress-bar-ge').css( "width", data + '%' );
-				$('.progress-bar-ge p').html( "Election Turnout: " + data + '%');
-			},
-			complete: function() {
-				// Schedule the next request when the current one's complete
-				setTimeout(ud_turnout_bar, 60000);
-			}
-		});
-	})();
-}
-	
-
-
-var al_timeout = '';
-$('body').on('change', '.ajaxer_con_sel', function( e ){
-	
-	var itemID 	= $(this).val(),
-		locID 	= 'GE_CONSTITUENCIES';
-	
-	if (itemID && locID) { 
-		
-		ajaxer(itemID, locID, '', '', '', '', '', '', 0);
-
-		clearTimeout(al_timeout);
-		//al_timeout = window.setInterval(function() { ajaxer(itemID, locID, '', '', '', '', '', '', 0)}, 60000);
-		//console.log('const js load');
-		window.timerRunning = true;
-
-	}
-});
-
-
-
-//console.log('is timer running' + window.timerRunning);
-if (jslocID === '47.1252.1264' && jsis_count == 0 && window.timerRunning == false && jsitemID > 0){ 
-	//al_timeout = window.setInterval(function() { ajaxer(jsitemID, jslocID, '', '', '', '', '', '', jsis_count)}, 60000);
-	//console.log('const direct load');
-	window.timerRunning = true;
-}
-
-	
-	// content list loader
-    $('body').on('click', '.GE_loader', function(){
-        
-	    //console.log('ge loader');
-    	var locID 	= $(this).attr('data-locID'),
-    		offset 	= $('.content_bloc').attr('data-offset');
-
-    	offset++;
-    	
-    	$('.content_bloc').attr('data-offset', offset);
-    	$('.GE_loader').html('<i class="fa fa-spinner fa-spin"></i>');
-    	
-    	$.ajax({
-			url: '/ge2016/assets/includes/ajax/GE_article_loader.php', 
-			data: {'locID': locID, 'offset': offset}
-		}).done(function(data){
-
-			if (data){
-				$('.content_bloc').append(data);
-				$('.focuspoint').focusPoint();
-				$('.GE_loader').html('Load More');
-			}
-			else {
-				$('.GE_loader').hide();
-    		}
-
-			var liveStreamPlaying = 'No';
-			
-			if(jwplayer("player").getState()=="PLAYING" && window.curPlayType=='On Air'){				  
-	              liveStreamPlaying = 'Yes';              
-	        }
-	        else{
-	        	  liveStreamPlaying = 'No';
-	        }
-
-			ga_set_content_groups(window.gaCategory, window.gaParent_category, liveStreamPlaying);
-			ga('send', 'pageview', window.gaPage+'/page-'+offset+'/');
-		});
-	});
-
-
-    
-	
-    if ( $( "#map_quiz" ).length ) {
-	// GE map for quiz
-	var map = L.map('map_quiz').setView([53.328, -8.300], 6.8);
-
-	
-    mapLink = 
-        ''; // link copy right map: <a href="http://openstreetmap.org">OpenStreetMap</a>
-    L.tileLayer(
-        '', {// map tiles url: http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
-        minZoom: 7,
-        maxZoom: 10,
-        }).addTo(map);
-
- // control that shows state info on hover
-    var info = L.control();
-
-    info.onAdd = function (map) {
-        this._div = L.DomUtil.create('div', 'info');
-        this.update();
-        return this._div;
-    };
-
-    info.update = function (props) {
-        this._div.innerHTML = '<h3>Constituency:</h3>' +  (props ?
-            '<h4>' + props.name + '</h4>'
-            : 'Hover to see name');
-
-        var p_name = this._div.innerHTML;
-          if (p_name == "<h2>Constituency:</h2><h4>Northern Ireland</h4><br>undefined Seats") {
-            
-            this._div.innerHTML =  '<h2>' + props.name + '</h2>';
-        }
-
-    };
-
-    info.addTo(map);
-
-        geojson = L.geoJson(statesData, {
-            style: style,
-            onEachFeature: onEachFeature
-        }).addTo(map);
-
-        map.attributionControl.addAttribution(''); // attribution data links
-    }
-
-	function zoomToFeature(e) {
-        
-    	var layer 			= e.target,
-    		layerID 		= layer.feature.id;
-    	
-    	if (layerID != 99) {// skip NI
-    		
-    		// do the zoom if it's one of the small dublin areas
-    		if ((layerID == 11 || layerID == 16 || layerID == 18 || layerID == 49 || layerID == 50) && !window.zoomed) {
-           		map.fitBounds(layer.getBounds());
-           		window.zoomed = 1;
-    		}
-    		else {
-    			
-    			//console.log('zoomToFeature');
-    			ajaxer(layerID, '47.1252.1279', '', '', '', '', '',  '', 0);
-    			
-    			window.zoomed = 0;
-    		}
-    	}
-    }
-
-
-	// results map 
-	$('body').on('change', '.map_select', function( e ){
-		var itemID = $(this).val();
-     	build_results_map(itemID);
-	});
-
-
-
-	
-    // mobile quiz const select
-   	$('body').on('change', '.quiz_sel', function( e ){
-   	 	var itemID = $(this).val();
-   	 	
-   	 	if (itemID) {
-    		ajaxer(itemID, 'GE_QUIZ', '', '', '', '', '', '', 0);
-   	 	}
-     });
-
-    // quiz answer submit
-    $('body').on('submit', '.quiz_form', function( e ){
-    	e.preventDefault();
-    	var $this 		= $(this),
-    		form_data 	= $this.serialize(),
-    		constname 	= $this.data('constname'),
-    		constid 	= $this.data('constid');
-        
-    	$.ajax({
-			url: '/ge2016/assets/includes/ajax/GE_quiz.php', 
-			data: form_data,
-			dataType: 'json'
-		}).done(function(data){
-			
-			if (data.content){
-				$('.quiz_wrapper').html(data.content);
-				$("html, body").animate({ scrollTop: 0 }, "slow");
-			}
-			
-			var liveStreamPlaying = 'No';
-			
-			if(jwplayer("player").getState()=="PLAYING" && window.curPlayType=='On Air'){				  
-	              liveStreamPlaying = 'Yes';
-	        }else{
-	        	  liveStreamPlaying = 'No';
-	        }
-
-			ga_set_content_groups(window.gaCategory, window.gaParent_category, liveStreamPlaying);			        			
-			
-			refresh_addthis();
-			refresh_addthis(); // yes, really
-			//ga('send', 'pageview', window.gaPage+'/page-'+offset+'/');
-
-			// add pushstate with score
-			
-			
-			var item = {
-						'itemID':constid,
-						'locID':'GE_QUIZ'
-				}; 				
-				
-				// update document.title
-
-			
-			history.pushState({state:stateNum,content:item}, 'Quiz', '/election2016/quiz/' + constname);   
-			stateNum++;
-			
-		});
-
-    	
-    });
-
-	$('body').on('click', '.quiz_wrapper li label', function(e) {
-		
-		$(this).parents('.list-group').children('li').removeClass('on').addClass('unsel');
-		
-		$(this).parent('li').removeClass('unsel').addClass('on');
-	});
-
-
-	
-	window.addEventListener("resize", function(){
-		
-		// XXX: GE add chart function calls here
-				
-	});
-	
-		$( window ).load(function() {
-		$('#collapseOne, #collapseListGroup1').collapse('show');		
-	});	
-		
-</script>
-
+            googletag.cmd.push(function() {
+                googletag.display("div-gpt-oop");
+            });
+        </script>
+</div><iframe name="__cmpLocator" style="display: none;"></iframe>
+<div class="d-none" id="div-gpt-spon-1x1">
 <script type="text/javascript">
-var _qevents = _qevents || [];
-
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-jN0y3t-S03qsc"
-});
-</script>
-<noscript>
-<div style="display:none;">
-<img alt="quant cast tag" src="//pixel.quantserve.com/pixel/p-jN0y3t-S03qsc.gif" border="0" height="1" width="1" alt="Quantcast"/>
+            googletag.cmd.push(function() {
+            googletag.display("div-gpt-spon-1x1");
+            });
+        </script>
 </div>
-</noscript>
-<script>
-var addthis_share = {
-   templates : {
-      twitter : "{{title}} {{url}} via @NewstalkFM"
-   }
-}
-</script>
+<script src="/js/app.js?id=26f0227b4494a44feac7"></script>
+<script src="https://synchrobox.adswizz.com/register2.php"></script>
+<script src="https://cdn.adswizz.com/adswizz/js/SynchroClient2.js"></script>
 
 </body></html>
