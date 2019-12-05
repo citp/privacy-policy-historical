@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401090255id_/https%3A//www.frontiertouring.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontiertouring.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205024025id_/https%3A//www.frontiertouring.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Frontier Touring Australia & New Zealand
 
@@ -17,7 +17,7 @@
 
 
 
-##  1.    Overview
+## 1.    Overview
 
 Frontier Touring Co Music Pty Ltd (ACN: 005 602 602) (“Frontier, we, us, our”) respects the privacy of the individuals it deals with, and is committed to complying with its obligations under the Australian Privacy Principles (APP) which are contained in the Privacy Act (Cth) 1998.
 
@@ -25,7 +25,7 @@ This privacy policy outlines the personal information handling practices of Fron
 
 By using the website and submitting your personal information to us, you agree to the collection, use and disclosure of personal information by us as set out in this Online Privacy Policy.
 
-##  2.    Collection of personal information
+## 2.    Collection of personal information
 
 We are an Australian and New Zealand promoter of music and entertainment goods and services. For the purpose of this Privacy Policy, these are referred to as “our goods” and/or “services”.
 
@@ -85,7 +85,7 @@ To opt-out of personalized ad delivery on the Google content network, please vis
 
 We may collect your email and, if you provide it, other contact details when you subscribe to our email list, join our membership lists, or enter our promotions. We only use this information for the purpose that we informed you of at the time that you supplied this information.
 
-##  3.    Disclosure
+## 3.    Disclosure
 
 There are limited circumstances where we have to disclose your personal information to third parties, including:
 
@@ -97,7 +97,7 @@ e.    when you authorise us to do so (for example, through your profile setti
 
 Other than these limited circumstances, we will not disclose your personal information to any third party (including advertisers or other companies) unless you have authorised us to do so.
 
-##  4.    Quality of personal information
+## 4.    Quality of personal information
 
 We take reasonable steps to ensure that the personal information we collect from you is accurate, complete and up to date. These include
 
@@ -105,7 +105,7 @@ a.    taking care to accurately collect and store the information you provide
 b.    where possible, we will run update campaigns to refresh the inform that we collect from you, and  
 c.    provide you access to check and the quality of your personal information and promptly correct any personal information that you notify us of as being inaccurate.
 
-##  5.    Storage and security of personal information
+## 5.    Storage and security of personal information
 
 We will take reasonable steps to keep any personal information we hold secure from unauthorised disclosure or access, including:
 
@@ -114,7 +114,7 @@ b.    regularly assessing the risk of personal information being accessed or 
 
 You agree that in order for us to provide the Website and any incidental goods and services, we may need to store or transfer your personal information to servers located outside of Australia.
 
-##  6.    Accessing and correcting your personal information
+## 6.    Accessing and correcting your personal information
 
 We take all reasonable steps to ensure the information it collects from you is accurate, complete and up-to-date. We also takes steps to maintain the security of all personal information provided by you and to prevent misuse or unauthorised access to that information.
 
@@ -122,15 +122,15 @@ Under the Privacy Act (Australian Privacy Principles 12 and 13) you have the rig
 
 If at any time you wish to access or correct your personal details, please let us know using the contact details below and we will comply with your request. We will ask you to verify your identity before we will disclose the personal information you request or modify that information.
 
-##  7.    Unsubscribe
+## 7.    Unsubscribe
 
 If at any time you do not wish to be notified about goods, services and promotions offered by us, or if you don’t wish to receive any further communications from us, please contact us by send an email to info@frontiertouring.com.au.
 
-##  8.    How to make a complaint
+## 8.    How to make a complaint
 
 If you wish to complain to us about how we have handled your personal information you show complain in writing using the details in the ‘How to contact us’ section of this Privacy Policy. We will respond to all complains within 30 days of us receiving your complaint.
 
-##  9.    How to contact us
+## 9.    How to contact us
 
 If you have any questions concerning this Privacy Policy, or to make any requests as outlined above, please contact
 
@@ -142,6 +142,6 @@ Dundas Lane, Albert Park, Victoria 3206
 By email:  
 info@frontiertouring.com.au
 
-##  10.    Policy Changes
+## 10.    Policy Changes
 
-We may edit this Privacy Policy from time to time by publishing the changed Privacy Policy on our Sties.  This Privacy Policy was last updated on 15 May 2014.
+We may edit this Privacy Policy from time to time by publishing the changed Privacy Policy on our Sites.  This Privacy Policy was last updated on 15 May 2014.
