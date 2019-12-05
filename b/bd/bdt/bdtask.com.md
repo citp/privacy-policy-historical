@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdtask.com privacy policy that was archived on 2019-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190223084620id_/https%3A//www.bdtask.com/yourprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdtask.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206002055id_/https%3A//www.bdtask.com/yourprivacy.php) for the most accurate reproduction.*
 
-# BDTASK | Top Rated Software Company in Bangladesh
+# Bdtask Privacy Policy
 
 This Privacy Policy governs the manner in which bdtask collects, uses, maintains and discloses information collected from users (each, a "User") of the http://www.bdtask.com website ("Site").
 
