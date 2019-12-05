@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531164404id_/https%3A//relix.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relix.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205070924id_/https%3A//relix.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -88,6 +88,8 @@ Modification of Privacy Policy by Relix
 Relix reserves the right to change or update this Privacy Policy at any time by posting a notice explaining the changes. You will be deemed to have accepted such change if you continue to use our website after the revised policy has been posted.
 
 Read more: https://relix.com/about#ixzz4wl2xqGi3
+
+[Read Ezoic Privacy Policy Here](https://g.ezoic.net/privacy/relix.com)
 
   
 
