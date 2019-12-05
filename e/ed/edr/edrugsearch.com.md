@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307003556id_/https%3A//edrugsearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edrugsearch.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205050039id_/https%3A//edrugsearch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - eDrugSearch
 
@@ -89,7 +89,7 @@ eDrugSearch.com may update this policy. We will notify you about significant or 
 
 NOTICE: [Click here](https://www.consumer.ftc.gov/features/feature-0038-onguardonline) for important information about safe surfing from the Federal Trade Commission.
 
-Effective Date: July 2, 2016
+Effective Date: May 8, 2019
 
 ### Links to Other Web Sites
 
@@ -117,13 +117,14 @@ We may use a third party service provider to conduct these surveys or contests; 
 
 eDrugSearch is owned by Squawkia, Inc.
 
-Here is our physical mailing address:
+Here is our physical and mailing address:
 
-1207 Breeze Way  
-Boerne, Texas 78006  
+eDrugSearch.com  
+227 North Loop 1604 East Suite 150G  
+San Antonio, TX 78232  
 (210) 789-2973
 
- **Community  Rules and Regulations**
+**Community  Rules and Regulations**
 
 To participate in the eDrugSearch.com community, we ask that you follow these requirements:
 
