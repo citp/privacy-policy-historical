@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pervertedfamilies3d.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604121113id_/http%3A//cs.cf-mail.com/udsl-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pervertedfamilies3d.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205120222id_/http%3A//cs.cf-mail.com/udsl-privacy.html) for the most accurate reproduction.*
 
 # CF-Mail.com - ConvertFamily.com Support Page > Policy
 
