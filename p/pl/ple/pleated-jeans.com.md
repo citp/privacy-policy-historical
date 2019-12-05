@@ -1,45 +1,75 @@
-> *The following text is extracted and transformed from the pleated-jeans.com privacy policy that was archived on 2017-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171110074036id_/http%3A//pleated-jeans.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleated-jeans.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205010456id_/https%3A//pleated-jeans.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Pleated Jeans
+# Privacy Policy | Pleated Jeans
 
-Please read this statement regarding Pleated-Jeans.com. If you have any questions or suggestions regarding the privacy policy, please contact me.
+In compliance with the European Union legislation, we inform you that our website will store some information about your preferences on your own computer inside a tiny file called a ‘cookie’.
 
-Third Party Cookies
+A cookie is a small piece of data that a website asks your browser to store on your computer or mobile device. The cookie allows the website to “remember” your actions or preferences over time.
 
-Some of our business partners may use cookies on our site (for example, advertisers). However, Pleated-Jeans has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Pleated-Jeans only and does not cover the use of cookies by any advertisers.
+You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
 
-Third Party Advertising
+Most browsers support cookies, but users can set their browsers to decline them and can delete them whenever they like. A third-party website called aboutcookies.org has been setup to help you with instructions how you can do that on various browsers.
 
-The ads appearing on Pleated-Jeans are delivered to users by third party advertisers including Google, among others. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. This site allows third-party companies to serve ads and/or collect certain anonymous information when you and other Internet users visit. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this site and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third-party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. Users may opt out of behavioral targeting through the opt-out link [HERE](http://www.networkadvertising.org/managing/opt_out.asp).
+  1. Identify you as a returning user and to count your visits in our traffic statistics analysis;
+  2. remember your custom display preferences;
+  3. Suggest any recent searches you’ve made on our site
+  4. Other usability features including tracking whether you’ve already given your consent to cookies
 
-Log Files
 
-Like most standard website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.
 
-Legal Disclaimer
+Enabling cookies from our website is not strictly necessary for the website to work but it will provide you with a better browsing experience.
 
-Though Pleated-Jeans makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on Pleated-Jeans.com.
+The cookie-related information is not used to identify you personally and the pattern data is fully under our control. These cookies are not used for any purpose other than those described here.
 
-Links
+There may also be other types of cookies created after you’ve visited our website.
 
-Pleated-Jeans contain links to other sites. Please be aware that Pleated-Jeans. is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+We use Google Analytics, a popular web analytics service provided by Google, Inc. Google Analytics uses cookies to help us to analyze how users use the site.
 
-Copyright Information
+The information generated by the cookie about your use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity and providing other services relating to website activity and internet usage.
 
-All images on Pleated-Jeans.com readily available in various places on the Internet and believed to be in public domain. Images posted are believed to be posted within our rights according to the U.S. Copyright Fair Use Act (title 17, U.S. Code.)
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google undertakes not to associate your IP address with any other data held by Google.
 
-If you believe that any content appearing on Pleated-Jeans.com infringes on your copyright, please let us know. E-Mail jeff[at]pleated-jeans[dot]com and provide the following information and the infringing material will be removed as soon as possible.
+We collect information at various points in the Website to facilitate its use by our customers. Non-Personal Information: Upon accessing the Website, certain non-personal information will be automatically collected without your knowledge or consent, such as your IP address, location data (which is anonymous) and the referring website (“Non-Personal Information). We use Non-Personal Information to examine our traffic and to view how our customers use the Website. This type of information will not allow you to be personally identified. For example, we use “cookies, which contains only certain statistical information. You can instruct your computer to inform you whenever a cookie is being sent, or you can disallow cookies through your web browser. If you do choose to disallow cookies, your experience on the Website may be diminished, or your ability to choose some of the options on the Website may be limited.
 
-(a) your name, address, telephone number, and e-mail address;
+We will not sell, rent or disclose to outside parties the information we collect, save and except that we may share the collected information with other parties as follows:
 
-(b) a description of the copyrighted work that you claim has been infringed;
+  1. Affiliated Service Providers: We have agreements with various affiliated service providers to facilitate the functioning of the Website, with whom we may share the information we have collected. For example, we may share your credit card information with the credit card service provider to process your purchase. All administrative service providers that we use are required to have the same level of privacy protection as we have, and therefore we expect that your information will be handled with the same level of care that we employ. Additionally, for example, we may use analytic or marketing services such as Google Analytics, Google Adsense, Taboola, or RevContent, to which collection you hereby unconditionally consent.
+  2. Where required by law: We may share the collected information where required by law, specifically in response to a demand from government authorities where such demand meets the legal requirements.
+  3. Statistical Analysis: We may share Non-Personal Information and aggregated information with third parties, including but not limited to for advertising or marketing purposes. No Personal Information will be shared in this manner.
+  4. Transactions: In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition, or in any other situation where Personal Information may be disclosed or transferred as one of our business assets.
 
-(c) the exact URL or a description of each place where alleged infringing material is located;
 
-(d) a statement by you that you have a good faith belief that the disputed use has not been authorized by you, your agent, or the law;
 
-(e) your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf; and
+(a) Opting Out of Interest-Based Advertising Services
 
-(f) a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner’s behalf
+This website is a member of the Network Advertising Initiative (NAI) and adheres to the NAI Codes of Conduct as described on the NAI website. This website also adheres to the Digital Advertising Alliance (DAA) Self- Regulatory Principles. For a description of the DAA Program, please visit the DAA website. As described above, this website may use or transfer Device Data that it directly collects or that it receives from this website’s Customers, who may use cookies or non-cookie technologies, to enable advertising that is more tailored to Consumers’ inferred interests, preferences, and locations. This practice is known as interest-based advertising.
 
-Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
+(b) Opting Out of Interest-Based Advertising by Third Parties
+
+This website may permit third parties to collect information on its Site and combine that information with other information collected on non-affiliated websites or applications over time. These third parties may use technologies, including cookies and web beacons, to collect information about Consumers’ or Customers’ use of the Site in order to analyze, report on, or customize content or advertising on this website or on other sites, or to help us operate and improve the Site. To find out more about interest-based advertising in the web environment, and how to opt-out of information collection for this purpose by companies that participate in the
+
+Network Advertising Initiative or the Digital Advertising Alliance, visit [NAI’s ](http://optout.networkadvertising.org/)[opt-out](http://optout.networkadvertising.org/)[ page](http://optout.networkadvertising.org/) or visit the Network Advertising Initiative (US) and the Digital Advertising Alliance Ad Choices – [DAA](https://www.aboutads.info/consumers/) (US), [EDAA](https://www.youronlinechoices.com/) (EU), [DAAC](http://youradchoices.ca/understanding-online-advertising) (Canada), [ADAA](http://www.youronlinechoices.com.au/) (AU/NZ) to see your opt-out choices from other participating companies.
+
+(c) [Explore](http://www.networkadvertising.org/understanding-online-advertising/what-are-my-options) other controls and tools to help set and maintain your privacy choices.
+
+We may have third-party advertising companies, including but not limited to [Google](https://policies.google.com/technologies/partner-sites) (see below for Google’s privacy policy), serving ads to you when you visit our website. These companies may store information about your visits to our website and to other websites in order to provide you with relevant advertisements about goods and services.
+
+These companies may employ cookies and other identifiers to measure advertising effectiveness. The information is generally not personally identifiable unless, for example, you provide personally identifiable information to them through an ad or an e-mail message.
+
+If you would like to learn more about what options you have about limiting the gathering of information by third-party ad networks, you can consult the website of the Network Advertising Initiative.
+
+You can opt out of participating in interest-based advertising networks but opting out does not mean you will no longer receive online advertising. It does mean that the companies from which you opted out will no longer customize ads based on your interests and web usage patterns using cookie-based technology.
+
+Google uses the information shared by sites and apps to deliver our services, maintain and improve them, develop new services, measure the effectiveness of advertising, protect against fraud and abuse, and personalize content and ads you see on Google and on our partners’ sites and apps. See Google’s [Privacy Policy](https://policies.google.com/privacy) to learn more about how we process data for each of these purposes and Google’s [Advertising](https://policies.google.com/technologies/ads) page for more about Google ads, how your information is used in the context of advertising, and how long Google stores this information.
+
+## How you can control the information collected by Google on these sites and apps
+
+Here are some of the ways you can control the information that is shared by your device when you visit or interact with sites and apps that use Google services:
+
+  * [Ad Settings](https://adssettings.google.com/) helps you control ads you see on Google services (such as Google Search or YouTube), or on non-Google websites and apps that use Google ad services. You can also [learn how](https://policies.google.com/technologies/ads) ads are personalized, opt out of ad personalization, and block specific advertisers.
+  * If you are signed in to your Google Account, and depending on your Account settings, [My Activity](https://myactivity.google.com/) allows you to review and control data that’s created when you use Google services, including the information we collect from the sites and apps you have visited. You can browse by date and by topic, and delete part or all of your activity.
+  * Many websites and apps use Google Analytics to understand how visitors engage with their sites or apps. If you don’t want Analytics to be used in your browser, you can [install the Google Analytics browser add-on](https://tools.google.com/dlpage/gaoptout). Learn more about [Google Analytics and privacy](https://support.google.com/analytics/answer/6004245).
+  * [Incognito mode in Chrome](https://support.google.com/chrome/answer/95464) allows you to browse the web without recording webpages and files in your browser or Account history (unless you choose to sign in). Cookies are deleted after you’ve closed all of your incognito windows and tabs, and your bookmarks and settings are stored until you delete them. Learn more about [cookies](https://policies.google.com/technologies/cookies).
+  * Many browsers, including Chrome, allow you to block third-party cookies. You can also clear any existing cookies from within your browser. Learn more about [managing cookies in Chrome](https://support.google.com/chrome/answer/95647).
+
+
