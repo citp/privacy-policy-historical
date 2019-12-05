@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickz.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624185409id_/https%3A//www.clickz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickz.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205020734id_/https%3A//www.clickz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ClickZ
 
@@ -42,7 +42,7 @@ _We will process data under the legitimate interest legal basis as we only use t
 
 _We will retain active cookie data for a period of up to 1 year, a cookie will remain active if a user re-visits our platform._
 
-Learn more about how we use cookies <https://www.clickz.com/cookie-policy/>
+Learn more about how we use cookies <http://www.clickz.com/cookie-policy/>
 
 **Updating These Terms  
 **We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can request an account deletion.
