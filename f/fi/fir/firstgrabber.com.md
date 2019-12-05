@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstgrabber.com privacy policy that was archived on 2018-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180910034029id_/http%3A//www.firstgrabber.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgrabber.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205224254id_/https%3A//www.firstgrabber.com/index/privacy) for the most accurate reproduction.*
 
 # FirstGrabber Affiliate Platform is Online!
 
@@ -8,7 +8,7 @@ FirstGrabber respects your privacy and is committed to protecting your personal 
 
 If you are located in the European Economic Area (“EEA”), our processing of your personal information will be based on the following: To the extent that we obtain your consent for the processing of your personal information such processing will be justified pursuant to Article 6(1) lit. (a) of the General Data Protection Regulation (EU) 2016/679 (“GDPR”). If the processing of your personal information is necessary for the performance of a contract between you and us or for taking pre-contractual steps upon your request, such processing will be based on GDPR Article 6(1) lit. (b). Where the processing is necessary for us to comply with a legal obligation, we will process your personal information on basis of GDPR Article 6(1) lit. (c), and where the processing is necessary for the purposes of our legitimate interests, such processing will be made in accordance with GDPR Article 6(1) lit. (f).
 
-Please note that where you have given your consent to the processing of your personal information you may withdraw your consent, for example by sending an e-mail to [support@firstgrabber.com](mailto:support@firstgrabber.com) at any time which withdrawal will not affect the lawfulness of any processing previously made on basis of your consent.
+Please note that where you have given your consent to the processing of your personal information you may withdraw your consent, for example by sending an e-mail to <a href="mailto:support@firstgrabber.com">support@firstgrabber.com</a> at any time which withdrawal will not affect the lawfulness of any processing previously made on basis of your consent.
 
 ### Use Of This Website Constitutes Acceptance Of The Following Terms And Conditions:
 
@@ -49,5 +49,3 @@ We may occasionally make changes to this Privacy Policy. If we do, we will updat
 ### You may feel completely free to contact us at: 
 
 [affiliate@firstgrabber.com](mailto:affiliate@firstgrabber.com)
-
-[support@firstgrabber.com](mailto:support@firstgrabber.com)
