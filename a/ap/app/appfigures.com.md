@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appfigures.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426054341id_/https%3A//appfigures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appfigures.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205203634id_/https%3A//appfigures.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Appfigures app analytics
 
