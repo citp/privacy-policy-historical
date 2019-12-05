@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the floridatoday.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604064130id_/https%3A//cm.floridatoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatoday.com privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205171129id_/https%3A//cm.floridatoday.com/privacy) for the most accurate reproduction.*
 
-# static.floridatoday.com
+# Florida Today
 
 Last Updated: May 14, 2018
 
