@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630034021id_/https%3A//www.capitalone.ca/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalone.ca privacy policy that was archived on 2019-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191205220349id_/https%3A//www.capitalone.ca/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,14 +10,14 @@ Your privacy is important to us. The personal information we collect about you i
 
 This information may be used for specific purposes, including:
 
-  * [To contact you](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#contact)
-  * [To authenticate you](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#authenticate)
-  * [To continually assess your creditworthiness](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#assess)
-  * [To service you](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#service)
-  * [To make improvements](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#improvements)
-  * [To prevent fraud](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#fraud)
-  * [To serve you offers, advertising and marketing](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#offers)
-  * [To report](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#report)
+  * [To contact you](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#contact)
+  * [To authenticate you](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#authenticate)
+  * [To continually assess your creditworthiness](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#assess)
+  * [To service you](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#service)
+  * [To make improvements](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#improvements)
+  * [To prevent fraud](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#fraud)
+  * [To serve you offers, advertising and marketing](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#offers)
+  * [To report](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#report)
   * As required by law 
 
 
@@ -27,17 +27,17 @@ We will not add your name to marketing campaigns for the first 30 days after the
 
 We may share your information with third parties who help us to assess, process, collect on, make offers for, and service your account. These third parties include:
 
-  * [Credit reporting agencies](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#agencies)
-  * [Plastic manufacturers](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#plastic)
-  * [Print suppliers](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#print)
-  * [Payment processing suppliers](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#processing)
-  * [Collections and law firms](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#law-firms)
-  * [Fraud detection services](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#fraud-detection)
-  * [Mastercard® (and merchants through Mastercard)](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#mastercard)
-  * [Call centres](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#call-centre)
-  * [Marketing and research companies](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#marketing)
-  * [Credit card Partners](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#partners)
-  * [Regulators, courts, law enforcement and other government institutions](https://web.archive.org/web/20190630034021id_/https://www.capitalone.ca/privacypolicy/#regulators)
+  * [Credit reporting agencies](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#agencies)
+  * [Plastic manufacturers](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#plastic)
+  * [Print suppliers](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#print)
+  * [Payment processing suppliers](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#processing)
+  * [Collections and law firms](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#law-firms)
+  * [Fraud detection services](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#fraud-detection)
+  * [Mastercard® (and merchants through Mastercard)](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#mastercard)
+  * [Call centres](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#call-centre)
+  * [Marketing and research companies](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#marketing)
+  * [Credit card Partners](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#partners)
+  * [Regulators, courts, law enforcement and other government institutions](https://web.archive.org/web/20191205220349id_/https://www.capitalone.ca/privacypolicy/#regulators)
 
 
 
