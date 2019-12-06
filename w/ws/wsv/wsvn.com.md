@@ -1,67 +1,127 @@
-> *The following text is extracted and transformed from the wsvn.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401173741id_/https%3A//wsvn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsvn.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207001254id_/https%3A//wsvn.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – WSVN 7News | Miami News, Weather, Sports | Fort Lauderdale
 
-This Privacy Policy describes the types of information collected from you, what we do with it, and with whom we share it for this website [http://www.wsvn.com](http://www.wsvn.com/). (Site). This Privacy Policy applies only to information collected by or through the Site. It does not apply to information obtained by other means. Your privacy is important to us. It is your responsibility to carefully review this Privacy Policy before providing any information through this Site, especially personal information. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [webmaster@wsvn.com](mailto:webmaster@wsvn.com) or write to us at WSVN-TV, 1401-79th Street Causeway, Miami, FL 33141, ATT: Webmaster, WSVN.com.
+LAST UPDATED:  May 30, 2019
 
-Please review this Privacy Policy and the accompanying Terms of Use for the websites carefully. Your use of our sites signifies your agreement to the Privacy Policy and Terms of Use.
+**Privacy Policy**
 
-**Information We Collect** Personal Data is any information that can be used to identify a specific individual, such as your name, email address, home address or phone number. We collect Personal Data whenever you visit the Site to, for example, register for certain services on-line; agree to participate in on-line surveys; request certain on-line information from us; participate in chat rooms, blogs or other user forums; or participate in on-line contests and promotions sponsored by us. We also may collect information when you register for wireless services via your mobile phone or other wireless devices. Because participation in these activities is completely voluntary, the user has a choice whether or not to disclose this information. The type of information requested or collected by us includes user contact information (such as name and email address) and user demographic information (like gender or age).
+Sunbeam Television Corp. (“we,” or “us”) respects your privacy. This Privacy Policy is intended to describe how we collect, use, and disclose Personal Information that you submit to us and that we collect through the WSVN and WHDH-TV websites, [http://www.wsvn.com](http://www.wsvn.com/) and [http://www.whdh.com](http://www.whdh.com/) (“Sites”).   This Privacy Policy applies to anyone accessing or visiting our Sites (collectively, “you”).
 
-Aggregate and anonymous data is information that does not identify you specifically including data collected automatically through operation of the Site (AA Data). Like many sites, the Site makes use of browser “cookies” or other similar technologies to collect AA Data. Cookies are files written to a user’s hard disk and read by the server programs to inform a website if the user has previously visited that site. We use cookies to improve your user experience by delivering content specific to your interests, saving your password so you don’t have to re-enter it each time you visit our sites, tracking progress and number of entries in activities that require registration or entry, such as sweepstakes and for other purposes. You can set your browser to reject cookies or to alert you when cookies are being used, but it is possible that some parts of the Site will not function properly if you do so.
+**Information We Collect**
 
-**Our Use of Your Information**
+For purposes of this Privacy Policy, Personal Information is information about you that can be used to identify you, which may include, for example, your name, postal address, email address, phone number, as well as other non-public information that is associated with that information.  We may collect and use certain Personal Information in order to offer, maintain, provide, improve, and administer our Sites and services, including to provide news information, and to offer you additional information on our services and other offerings (collectively, “Services”), including:
 
-We will use your Personal Data for the purposes for which it was provided. For example, if you provided Personal Data to enter a contest or sweepstakes, we will use it to register you and will use your contact information to notify contest winners and award prizes. We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you. Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you. If any AA Data is linked with Personal Data, the linked AA Data will then be treated as Personal Data.
+  * **When you communicate with us, engage with our Sites, or sign up for materials.** We collect Personal Information, such as your email address or contact information and other information you may submit, when you communicate with us, sign up to receive our newsletter, publications, subscriptions, news, offers, promotional materials, or other information, or otherwise submit information through the Sites.  We may also collect Personal Information when you engage with content on or interact with our Sites, such as when you view a video.
 
-AA Data collected through surveys will be used for purposes of reporting survey results and monitoring or improving the use and satisfaction of this site. We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve users of the Site, we often conduct research on customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. We may share this type of AA Data with a variety of third parties, including affiliates, agents and current and prospective business partners.
 
-We use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various third parties. For example, IP addresses are used to administer the Site and to provide AA Data to advertisers about the volume of use on the Site. We track and record IP addresses that access our site for reporting and profiling purposes only. We also gather anonymous browsing habits of our visitors to better identify content preferences. Clickstream data and demographic AA Data may be shared with our advertisers and business partners.
+  * **When you participate in surveys, contests, sweepstakes, or rewards or other programs.** We may request or otherwise collect Personal Information, such as your name, email address, and other contact information, when you enroll or participate in surveys, contests, sweepstakes, or rewards or other programs.  Participation in these programs is voluntary.
 
-**Disclosure of Personal Data**
 
-We reserve the right to share Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliates for their marketing purposes, you may opt-out of such sharing by contacting us at [webmaster@wsvn.com](mailto:webmaster@wsvn.com)
+  * **When you apply for a job with us.** We may collect Personal Information from you when you apply for a job with us, such as if you submit your resume for consideration.
 
-We sometimes hire other companies to perform certain business-related functions on our behalf, such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services and mailing information. When we hire a third party to perform these functions, that third party will only be provided with the Personal Data it needs to perform its function, and is required to afford the same level of protection to your Personal Data. We may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. If you prefer that we not share your Personal Data in this way, you may opt-out of such sharing by contacting us at webmaster@wsvn.com. For third-party sponsored contests, sweepstakes or promotions, we may request Personal Data from you that may be shared with the sponsor.
 
-**Disclosure Exceptions**
+  * **When we collect data from third parties or publicly-available sources.** We may obtain certain data about you from third-party sources to help us provide and improve the Services and for marketing and advertising.  We may combine your Personal Information with data we obtain from our Services, other users, or third parties to enhance your experience and improve the Services.
 
-We may disclose Personal Data without providing you with a choice under the following limited circumstances: a) to protect the legal rights, privacy or safety of WSVN, or its employees, agents and contractors; b) to protect the safety and security of visitors to our Site or other properties; c) to protect against fraud or other illegal activity or for risk management purposes; d) to respond to inquiries or requests from governmental authorities; e) to permit us to pursue available remedies or limit the damages that we may sustain; f) to enforce our Terms of Use; or g) to comply with the law or legal process.
 
-If WSVN or its affiliates make a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity will govern the further use of your Personal Data.
+  * **When we leverage and/or collect cookies, device IDs, location data, data from the environment, and other tracking technologies.** We may collect certain Personal Information using cookies and other technologies, such as web beacons, device IDs, geolocation, HTML5 local storage, Flash cookies, and IP addresses. We specifically use browser cookies for different purposes, including cookies that are strictly necessary for functionality and cookies that are used for personalization, performance/analytics, and advertising. Our “Cookies and Similar Technologies” section contains more information and options to control or opt-out of certain data collection or uses.
 
-**Third Party Advertising** The ads appearing on this Web site are delivered to you by several third parties. These third parties’ websites and advertisers, or the advertising companies that work on their behalf, may use technology to send (or “serve”) ads directly to your browser. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including clickstream data about your activities on our Site) may be shared with these companies for this purpose.
 
-**Third Party Cookies** In the course of serving advertisements to this site, a third-party advertiser may place or recognize a unique cookie on your browser, or use Javascript, Pixel Tags and other technologies to deliver advertisements, to collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the site (but not your name, address or other Personal Data). While we use cookies in other parts of our website, cookies received with these ads are not being collected by us and we do not have access to this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, we suggest you visit [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
-**Linking and Framing**  
-This Site contains links to other sites. This Site is not responsible for the privacy practices or the content of such websites. Occasionally when linking to another site, you may still see our Site’s logo or frame. This is to provide you with a seamless experience when visiting our Site. In these cases you are no longer on [http://www.wsvn.com](http://www.wsvn.com/) and are now on a different website whose information collection practices may differ from ours. These sites may send their own cookies to you and may collect data and make use of that data in ways that this Site would not. You should check the applicable privacy policy to determine how other sites will use the information collected from you.
+You are not required to provide all Personal Information identified in this Privacy Policy in order to use the Sites; however, please note that if you do not provide the Personal Information requested, we may be unable to provide some or all of the Services to you.
 
-**Security** This site has reasonable security measures in place to protect the loss, misuse and alteration of the Personal Data under our control. Please remember that no transmission of data over the Internet is guaranteed to be safe from intrusion. Email may pass through many computer systems, and should not be considered as a secure means of communication unless encrypted. Even then, information is only as secure as the encryption method. Access to Personal Data is limited to a very small number of employees with a defined need and is password protected.
+**Information Use and Disclosure**
 
-**Choice/Opt-Out**  
-You can use the Site without providing any Personal Data, but if you do not provide Personal Data, you may not be able to use certain services or features. Our Site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. You will also notice in all free email subscriptions generated from this website there is an unsubscribe link at the bottom of the message. Simply click on this link to go to a page that allows you to unsubscribe from any or all of the lists you are subscribed to. In addition to using the unsubscribe page, you can send an email to webmaster@wsvn.com or write to us at WSVN-TV, 1401-79th Street Causeway, Miami, FL 33141, ATT: Webmaster, WSVN.com .
+We may use the Personal Information we collect in order to offer, maintain, provide, improve, and administer the Sites and Services, including:
 
-**Correct/Update**  
-If you desire to change or modify information previously provided you may email webmaster@wsvn.com. We will take reasonable steps to update or correct the Personal Data you share with us.
+  * To communicate with you regarding the Services, features, and other offerings;
+  * To register you for contests, promotions, and sweepstakes, and to notify contest winners and award prizes;
+  * To send surveys in connection with our Services;
+  * For marketing purposes, including to contact you about offers, products, promotions, subscriptions, developments or services which we think may be of interest to you, and for third parties’ marketing purposes in connection with our Services;
+  * To develop, provide, and improve our Sites and Services, including to better tailor the features, performance and support of our Services, and for statistical and analytics purposes;
+  * To assist in the investigation of suspected illegal or wrongful activity, and to protect and defend our rights and property, or the rights or safety of third parties;
+  * To enforce our Terms of Services, this Privacy Policy, or agreements with third parties;
+  * To comply with laws, regulators, court orders, or other legal obligations, or pursuant to legal process.
 
-**Children and Privacy**
 
-The Site is a general audience site and does not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent. If you are under the age of 13, please do not provide personally identifiable information of any kind whatsoever.
 
-**Message Boards, Chat Rooms, Blogs and Other User Forums**
+We may disclose your Personal Information as described in this Privacy Policy, including:
 
-Please remember that information posted to message boards, chat rooms, blogs and other user forums becomes public information. Use caution when posting. Please see our Terms of Use for the standards of behavior that must be followed when using these portions of the Site.
+  * We may disclose some or all of your Personal Information to our subsidiaries, joint ventures, and other companies under our common control (collectively, “Affiliates”), for the purposes described in this Privacy Policy.  Where we share Personal Information with our Affiliates, we will require our Affiliates to honor this Privacy Policy.
 
-**Applicable Law**
 
-We control and operate this Site from the United States. The Site is not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Please note that we do not represent or warrant that the Site is appropriate for use in any particular jurisdiction. Those who choose to access the Site do so at their own initiative and are responsible for complying with all local laws, rules and regulations.
+  * **Service Providers and Vendors.** We may disclose Personal Information to distributors, service providers, marketing partners, payment processors, and vendors in order to maintain the Sites and provide, improve, and personalize the products and Services, including to fulfill a request for programs or services.  We may also share Personal Information for other technical and processing functions, such as sending e-mails on our behalf, fulfilling orders, technical support, or otherwise operating the Sites, for analytics, and for marketing and advertising purposes.
 
-Contacting the Website If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-Webmaster [webmaster@wsvn.com](mailto:webmaster@wsvn.com)
+  * **Pursuant to Legal Process and Protection of Rights and Interests.** We may also disclose Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant, or other lawful request for information we receive, or as otherwise pursuant to legal process. We may also use and disclose Personal Information to establish or exercise our legal rights, to enforce our Terms of Services or this Privacy Policy, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.
 
-**Changes to This Policy**  
-We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users’ Personal Data in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days.
 
-Last Updated: February 5, 2009
+  * **Business Transactions.** Subject to applicable law, we reserve the right to transfer some or all Personal Information in our possession to a successor organization in the event of a merger, acquisition, bankruptcy, or other sale or transfer of all or a portion of our assets, including for the purpose of permitting the due diligence required to decide whether to proceed with a transaction. Other than to the extent ordered by a bankruptcy or other court, if the sale occurs, the purchaser will be entitled to use and disclose the Personal Information collected by us, and the purchaser will assume the rights and obligations regarding Personal Information as described in this Privacy Policy.
+
+
+
+**Cookies and Similar Technologies**
+
+We use cookies and similar technologies to enhance and customize your experience on the Sites and for analytics.  We also use cookies and similar technologies for purposes of marketing and advertising, including interest-based advertising.
+
+A “cookie” is a small text file that a web server stores in browser software.  A browser sends cookies to a server when the browser makes a connection to the server (for example, when requesting a web page from the same domain that created the cookie). The purpose of cookies is to remember the browser over time and distinguish one browser instance (or user) from all others.  Some cookies and other technologies may serve to track Personal Information previously entered by a web user on our Site. Most browsers allow you to control cookies, including whether or not to accept them, and how to remove them. Cookies can remember login information, preferences, and similar information.
+
+Cookies, as well as other tracking technologies such as HTML5 local storage, and Local Shared Objects (such as “Flash” cookies), and similar mechanisms, may record information such as a unique identifier, information you enter in a form, IP address, and other categories of data.
+
+We also use web beacons or “pixels,” and in certain circumstances may collect IP address, screen resolution and browser software and operating system types, clickstream patterns, dates and times that our site is accessed, and other categories of data.
+
+If you want to block the use and saving of cookies from the Sites on to the computer’s hard drive, you should take the necessary steps within your web browser’s settings to block all cookies from the Sites and their external serving vendors.  Please note that if you choose to erase or block your cookies, certain parts of our Sites may not function correctly. For information on how to disable cookies, refer to your browser’s documentation.
+
+**Interest-Based Advertising**
+
+Interest-based advertising is advertising that is targeted to you based on your web browsing and app usage over time and across websites or apps. You have the option to restrict the use of information for interest-based advertising and to opt-out of receiving interest-based ads. Depending on from where you access our Sites, you may also be asked to consent to our use of cookies, including advertising cookies.
+
+The opt-outs for interest-based advertising require that strictly necessary cookies are not blocked by the settings in your web browser. We support the Self-Regulatory Principles for Online Behavioral Advertising of the [Digital Advertising Alliance](http://www.aboutads.info/) in the U.S., the [Canadian Digital Advertising Alliance](https://youradchoices.ca/) in Canada, and the [European Digital Advertising Alliance](http://www.edaa.eu/European-principles/) in the EU. If you live in the United States, Canada, or the European Union, you can visit [Ad Choices](http://optout.aboutads.info/) (US), [Your Ad Choices](http://youradchoices.ca/choices/) (Canada), or [Your Online Choices](http://www.youronlinechoices.com/) (EU) to find a convenient place to opt-out of interest-based advertising with participating entities for each region. These websites also provide detailed information about how interest-based advertising works. Opting out does not mean that you will no longer receive advertising from us, or when you use the Internet. It just means that the data collected from our website will not be used for interest-based advertising and that the advertising you see displayed on websites will not be customized to your interests.
+
+**DO-NOT-TRACK**
+
+Do-Not-Track is a public-private initiative that has developed a “flag” or signal that an Internet user may activate in the user’s browser software to notify websites that the user does not wish to be “tracked” by third-parties as defined by the initiative. The online community has not agreed on what actions, if any, should be taken by the websites that receive the “do not track” signal, and therefore Do-Not-Track is not yet standardized. Please note that the Sites do not alter their behavior or use practices when we receive a Do Not Track signal from your browser.
+
+**Social Network Widgets**
+
+Our Sites may include social network sharing widgets that may provide information to their associated social networks or third parties about your interactions with our web pages that you visit, even if you do not click on or otherwise interact with the plug-in or widget. Information may be transmitted from your browser and may include an identifier assigned by the social network or third party, information about your browser type, operating system, device type, IP address, and the URL of the web page where widget appears. If you use social network tools or visit social networking sites, we encourage you to read their privacy disclosures, to learn what information they collect, use, and share.
+
+**De-Identified or Anonymized Data**
+
+We may create de-identified or anonymous data from Personal Information by removing data components (such as your name, email address, or linkable tracking ID) that makes the data personally identifiable to you or through obfuscation or through other means.  Our use of de-identified and anonymized data is not subject to this Privacy Policy.
+
+**Information from Children Under 13 Years of Age**
+
+We do not knowingly collect Personal Information online from individuals under 13 years without parental consent.  If you become aware that an individual under 13 years of age has provided us with Personal Information without parental consent, please contact us at _privacypolicy@wsvn.com_ or the address listed in the “Contact Us” section of this Privacy Policy.  If we become aware that an individual under 13 years has provided us with Personal Information without parental consent, we will take steps to remove the data as permitted by law.
+
+**Links to Other Sites**
+
+Our Sites may contain links or otherwise provide access to another website, mobile application, or Internet location (collectively “Third-Party Sites”). We provide these links merely for your convenience. We have no control over, do not review, and are not responsible for Third-Party Sites, their content, or any goods or services available through the Third-Party Sites. Our Privacy Policy does not apply to Third-Party Sites.  We encourage you to review the privacy policies of any Third-Party Sites with which you choose to interact.
+
+**Opting-Out of Certain Communications**
+
+If you want to stop receiving future marketing messages and materials, you can do so by clicking the “unsubscribe” link included in our email marketing messages or by contacting us at _privacypolicy@wsvn.com_ or the contact information listed in the “Contact Us” section of this Privacy Policy. Once you have submitted your email address to “unsubscribe,” please note that you may continue to receive emails for a period of time while our system updates your request.  Please note that you may continue to receive communications from us for non-marketing purposes, such as communications regarding the Services.
+
+**Processing in the United States**
+
+Please note that if you are visiting the Sites from outside of the United States, your information may be transferred to, stored, and/or processed in the United States.  The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country.  If you are located outside of the United States, the transfer of Personal Information is necessary to provide you with the requested information, products, and services and/or to perform any requested transaction.  By using any portion of the Sites, you acknowledge and consent to the transfer of your information to our facilities in the United States.
+
+**Security**
+
+We implement technical and organizational security safeguards designed to protect your Personal Information. However, please be advised that we cannot fully eliminate security risks associated with the storage and transmission of Personal Information.
+
+**Accessing or Updating Your Information**
+
+Subject to applicable law, you may also make a request to access, update, correct, modify, or delete your Personal Information that we maintain by contacting us at  _privacypolicy@wsvn.com_ or the contact information listed in the “Contact Us” section of this Privacy Policy.
+
+**California Privacy Rights**
+
+Under Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information (as defined by California law) the business shares with third parties for those third parties’ direct marketing purposes, and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To exercise your rights, you may make one request each year by emailing us at _privacypolicy@wsvn.com_ with “Request for California Privacy Information” in the subject line and in the body of your message. Be sure to provide in the request sufficient information to properly identify you and/or the members of your family.
+
+**Privacy Policy Updates**
+
+We may update our Privacy Policy from time to time. The most recent version of the Privacy Policy is reflected by the version date located at the top of this Privacy Policy. We encourage you to periodically review this page to stay informed of how we may process your information.
+
+**Contact**
+
+For questions regarding this Privacy Policy, please contact us at:
