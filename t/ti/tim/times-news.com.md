@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403051336id_/https%3A//www.times-news.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the times-news.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206013528id_/https%3A//www.times-news.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | times-news.com
 
@@ -78,6 +78,6 @@ This Site uses services provided by AP News Registry. AP News Registry collects 
 
 If you have any questions or comments about this Policy, please contact us by e-mail at digital@cnhi.com, or write to us at: CNHI LLC, Attn: General Counsel, 445 Dexter Avenue; Montgomery, AL 36104. Please provide a concise communication with complete information, including your contact information.
 
-BEL AIR - Francis "Frank" L. Garlitz, 78, passed away on Sunday, March 31, 2019, at Upper Chesapeake Medical Center in Bel Air. Born in Lonaconing, he was the son of the late Wilmoth Francis and Audrel Ella (Hanekamp) Garlitz and husband of Sue Ayres Garlitz. He was a 1959 graduate of Valley…
+[ ](https://www.times-news.com/allegany_magazine/)
 
-CUMBERLAND - Deborah Louise "Debbie" Stallings, 65, died Tuesday, April 2, 2019, at WMHS-RMC. Visitation Scarpelli Funeral Home, Cumberland, Thursday, April 4, 4 to 8 p.m. Services funeral home Friday, April 5, noon. Interment Davis Memorial Cemetery. 
+FORT ASHBY, W.Va. - Charles W. Pownell died Tuesday, Dec. 3 at Ruby Memorial Hospital. Visitation Upchurch Funeral Home, Inc., Fort Ashby, Saturday from 11a.m.-noon. Funeral service will follow at noon in funeral home. Interment Abe Cemetery. 
