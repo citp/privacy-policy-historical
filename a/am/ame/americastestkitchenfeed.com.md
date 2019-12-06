@@ -1,10 +1,26 @@
-> *The following text is extracted and transformed from the americastestkitchenfeed.com privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405214029id_/https%3A//www.americastestkitchen.com/guides/corporate-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americastestkitchenfeed.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206165944id_/https%3A//www.americastestkitchen.com/guides/corporate-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corporate Pages
 
-Effective: September, 2018
+Effective: August, 2019
 
-We at America's Test Kitchen and our related brands, including Cook's Illustrated and Cook's Country (collectively, “ATK”), are committed to respecting your privacy. The purpose of this privacy policy is to inform you of how we collect, use, disclose, transfer, and store your information when you visit our websites. This policy discloses the privacy practices for americastestkitchen.com, cooksillustrated.com, cookscountry.com, onlinecookingschool.com, americastestkitchenfeed.com, and the Cook’s Illustrated and Cook's Country iPad Apps, and applies only to users accessing these websites and Apps from the United States.
+We at America's Test Kitchen and our related brands, including Cook's Illustrated and Cook's Country (collectively, “ATK”), are committed to respecting your privacy. The purpose of this privacy policy is to inform you of how we collect, use, disclose, transfer, and store your information when you visit our websites. This policy discloses the privacy practices for americastestkitchen.com, cooksillustrated.com, cookscountry.com, onlinecookingschool.com, americastestkitchenfeed.com, and the Cook’s Illustrated and Cook's Country iPad Apps, and applies only to users accessing these websites and Apps from the United States. This Policy also applies to information we collect from registrants and participants over the age of 13 through and in our ATK Kids website at americastestkitchen.com/kids/grownups.  All of our adult sites and apps are referred to collectively as the “Sites.” All of our Sites are targeted to users and individuals located in the United States.
+
+If you are accessing this Policy from our ATK Kids site at amercastestkitchen.com/kids/home, please see our [America's Test Kitchen Kids privacy policy](https://www.americastestkitchen.com/guides/corporate-pages/america-s-test-kitchen-kids-privacy-policy).
+
+Our Policy provides the following information:
+
+  * Collection of Personal Information
+  * Use of Information about You
+  * Public Forums
+  * Security
+  * Business Transactions
+  * California Residents
+  * Changes in this Privacy Statement
+  * Kids and Parents
+  * Contacting Us
+
+
 
 ## COLLECTION OF PERSONAL INFORMATION
 
@@ -20,9 +36,11 @@ Some Internet browsers include the ability to transmit Do Not Track signals. Our
 
 ATK uses the information we collect from site visitors in part to understand site usage and control the content and offerings on our sites or present offerings across third party sites.
 
-From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some of your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party).
+From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some of your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party). 
 
-Your email address is added to our electronic mailing list so that, from time to time, we can send you our newsletters or information about special promotions.
+You may opt-out of our sharing or selling your information by contacting us at [customerservice@americastestkitchen.com](mailto:customerservice@americastestkitchen.com).
+
+Your email address is added to our electronic mailing list so that, from time to time, we can send you our newsletters or information about special promotions. You may unsubscribe from our newsletters and marketing materials through the “unsubscribe” function in our emails or by changing your preferences in your account.
 
 Email addresses registered to our TV show websites are sometimes shared with third party underwriters of our television shows. Registrants have the opportunity to opt-out of any third party communications at the time that they register. Email addresses registered to CooksIllustrated.com are not shared with third parties.
 
@@ -38,13 +56,17 @@ Content posted in these public forums becomes the sole property of ATK. ATK rese
 
 ## SECURITY
 
-The security of your personal information is important to us. Our sites have security measures in place to protect the loss, misuse and alteration of the information under our control, and all orders are communicated to us via a secure server. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+The security of your personal information is important to us. Our sites have reasonable security measures in place to protect the loss, misuse and alteration of the information under our control, and all orders are communicated to us via a secure server. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially reasonable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our sites, you can send an email to us at [security@americastestkitchen.com](mailto:security@americastestkitchen.com).
 
 ## BUSINESS TRANSITIONS
 
-In the event ATK goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site of any such change in ownership or control of your personal information.
+In the event ATK  or any of its divisions or affiliates goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site of any such change in ownership or control of your personal information.
+
+## CALIFORNIA RESIDENTS
+
+The California Consumer Privacy Act (CCPA) provides our customers who are California residents with certain rights relating to their personal data.  California residents may contact us at any time to exercise the following rights: (i) to opt-out of allowing us to sell their personal information, (ii) to require that we delete their personal information from our marketing archives, and (iii) to receive a disclosure from us of how we have used their personal information and with whom we have shared it for marketing purposes. If you are a California resident and wish to exercise any of your rights under the CCPA, please send a request by email to [cap](mailto:caprivacy@americastestkitchen.com)[caprivacy@americastestkitchen.com](mailto:caprivacy@americastestkitchen.com).
 
 ## CHANGES IN THIS PRIVACY STATEMENT
 
@@ -54,11 +76,11 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ## KIDS AND PARENTS
 
-ATK’s primary sites are not intended for children under the age of 13. We will not knowingly collect personally identifiable information via any ATK site from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
+ATK’s sites, except for ATK Kids home page at americastestkitchen.com/kids/home, are not intended for children under the age of 13. We will not knowingly collect personally identifiable information via any ATK site from visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
 
 For information about our America's Test Kitchen Kids pages, please see the [America's Test Kitchen Kids privacy policy](https://www.americastestkitchen.com/guides/corporate-pages/america-s-test-kitchen-kids-privacy-policy).  
 
-CONTACTING AMERICA'S TEST KITCHEN
+## CONTACTING AMERICA'S TEST KITCHEN
 
 We are committed to privacy, and we support current industry initiatives to preserve individual privacy rights on the Internet. If you have any comments or questions regarding our privacy policy, please contact us at [customerservice@americastestkitchen.com](mailto:customerservice@americastestkitchen.com) or:
 
@@ -72,7 +94,3 @@ Boston, MA 02210 
 We will address any issue to the best of our abilities.
 
 For more details about web pages for children, please see the [separate privacy policy notice](https://www.americastestkitchen.com/guides/corporate-pages/america-s-test-kitchen-kids-privacy-policy) for America's Test Kitchen Kids pages.
-
-## CALIFORNIA RESIDENTS
-
-California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. If you are a California resident and wish to request information about how to exercise your third party disclosure choices, please send a request by email to [caprivacy@americastestkitchen.com](mailto:caprivacy@americastestkitchen.com).
