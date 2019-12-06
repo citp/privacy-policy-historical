@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419235814id_/https%3A//letsfreckle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsfreckle.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206010113id_/https%3A//nokotime.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Freckle Time Tracking
+# Privacy Policy - Noko Time Tracking
 
-[Thomas Fuchs](http://nokotime.com/blog/author/thomas/)
+[Thomas Fuchs](https://nokotime.com/blog/author/thomas/)
 
-[Terms of Service (User Agreement)](http://nokotime.com/terms) | [Privacy Policy](http://nokotime.com/privacy) | [Data Security](http://nokotime.com/security) | [GDPR Data Processing Agreement](http://nokotime.com/gdpr-dpa)
+[Terms of Service (User Agreement)](https://nokotime.com/terms) | [Privacy Policy](https://nokotime.com/privacy) | [Data Security](https://nokotime.com/security) | [GDPR Data Processing Agreement](https://nokotime.com/gdpr-dpa)
 
-At Freckle, we collect and manage data according to the following Privacy Policy (last update May 22, 2018).
+At Noko, we collect and manage data according to the following Privacy Policy (last update March 31, 2019).
 
 ### **TL;DR**
 
@@ -17,13 +17,13 @@ At Freckle, we collect and manage data according to the following Privacy Policy
   * You’re welcome to use content blocking software (e.g. to remove analytics tags); however be aware that this may interfere with our ability to track errors and performance issues that affect your account.
   * We encrypt backups, don’t store credit card numbers on our servers and generally make sure your data is safe.
   * When legally required, or when we suspect fraud, we may share data with law enforcement.
-  * If you have questions, or want to export or delete your data, please write to [support@letsfreckle.com](mailto:support@letsfreckle.com).
+  * If you have questions, or want to export or delete your data, please write to [support@nokotime.com](mailto:support@nokotime.com).
 
 
 
 ## Privacy Policy
 
-By using letsfreckle.com (the “Website”) and/or a Freckle account (the “Service”), you agree to the terms of this Privacy Policy and the Terms of Service. Freckle is designed and operated by Slash7 LLC (“Slash7”). Please read the [Terms of Service](http://nokotime.com/terms/) in their entirety, and refer to those for definitions and contacts.
+By using NokoTime.com (the “Website”) and/or a Noko account (the “Service”), you agree to the terms of this Privacy Policy and the Terms of Service. The Service is designed and operated by Slash7 LLC (“Slash7”). Please read the [Terms of Service](https://nokotime.com/terms/) in their entirety, and refer to those for definitions and contacts.
 
 ### GDPR compliance and Privacy Shield
 
@@ -40,7 +40,7 @@ If you are a resident of the EEA, you have the following data protection rights:
 
 ##### Right to Access, Correct, Update, or Request Deletion of Data
 
-If you want to request an export or deletion of your personal data, and have an account with us, please contact us at [support@letsfreckle.com](mailto:support@letsfreckle.com). Please note that we cannot delete personal data in open accounts when you’re not the account owner, as this would prevent us from providing the service the account owner is paying for (We suggest that you contact the account owner of the Freckle account in question to ask them to anonymize or remove your data).
+If you want to request an export or deletion of your personal data, and have an account with us, please contact us at [support@ nokotime.com](mailto:support@nokotime.com). Please note that we cannot delete personal data in open accounts when you’re not the account owner, as this would prevent us from providing the service the account owner is paying for (We suggest that you contact the account owner of the Noko account in question to ask them to anonymize or remove your data).
 
 In order to accommodate customers who need older data restored, we keep backups indefinitely and cannot delete personal data form them as these are stored off-site, read-only and heavily encrypted and compressed. If we do have access or restore data to our production systems or for purposes of debugging, any deletions of personal data will be applied retroactively or the personal data will be anonymized.
 
@@ -114,7 +114,7 @@ In order to take advantage of certain features of the Service, you may also choo
 
 We only use your personal information to provide you with the Service to communicate with you about the Service or the Website. This includes both automated and manual processing of data.
 
-With respect to any data you may choose to enter or upload to Freckle, we take the privacy and confidentiality of this data seriously. Your data (in the Service) is specifically not shared between accounts or with the public. We employ industry standard techniques to protect against unauthorized access of data that we store, including personal information. All off-site backups of your data are securely encrypted.
+With respect to any data you may choose to enter or upload to the Service, we take the privacy and confidentiality of this data seriously. Your data (in the Service) is specifically not shared between accounts or with the public. We employ industry standard techniques to protect against unauthorized access of data that we store, including personal information. All off-site backups of your data are securely encrypted.
 
 Please note that if you choose to share data (like sharing invoices with your clients), we are not responsible for any violation of privacy law you may be liable for.
 
@@ -128,21 +128,21 @@ We do not share personal information you have provided to us without your consen
 
 
 
-Freckle is operated from the United States. If you are visiting the Website from outside the U.S., you agree to any processing of any personal information you provide us according to this policy.
+Noko is operated from the United States. If you are visiting the Website from outside the U.S., you agree to any processing of any personal information you provide us according to this policy.
 
-Freckle may contact you by email. For example, Freckle may send you promotional emails relating to Freckle or communicate with you about your use of the Freckle Website and Service. If you do not want to receive email from Freckle, please opt out of receiving emails at the bottom of any Freckle email. Please note that for some emails (for example billing issues), there’s no option to opt-out.
+Noko may contact you by email. For example, Noko may send you promotional emails relating to Noko or communicate with you about Noko use of the Noko Website and Service. If you do not want to receive email from Noko, please opt out of receiving emails at the bottom of any Noko email. Please note that for some emails (for example billing issues), there’s no option to opt-out.
 
 ### Sharing of Data
 
-We don’t share your personal information with third parties except as listed below. Other then the information outlined below, only aggregated, statistical data is periodically transmitted to external services to help us improve the Freckle Website and Service.
+We don’t share your personal information with third parties except as listed below. Other then the information outlined below, only aggregated, statistical data is periodically transmitted to external services to help us improve the Noko Website and Service.
 
-For client-side analytics and tracking beacons, you’re welcome to use content blocking software; just be aware that this may influence our ability to identify errors and performance problems in your account. We can’t guarantee that Freckle will work as intended when browser extensions alter the HTML, CSS or JavaScript code we transmit (however, we don’t take any active steps to prevent you from using extensions, including content blockers).
+For client-side analytics and tracking beacons, you’re welcome to use content blocking software; just be aware that this may influence our ability to identify errors and performance problems in your account. We can’t guarantee that Noko will work as intended when browser extensions alter the HTML, CSS or JavaScript code we transmit (however, we don’t take any active steps to prevent you from using extensions, including content blockers).
 
-We currently use Customer.io (mailing lists), Helpscout (support desk), Stripe (billing service and credit card vault), Goole Apps (mail server for support questions), Google Analytics, ScoutApp (performance monitoring), Postmark (transactional emails), Honeybadger (error tracking), Datadog (performance monitoring), PayPal (if you let customers pay invoices via PayPal), Quickbooks (if you set up the QuickBooks Online integration); as well as 3rd-party apps that you specifically allow access to your Freckle account via our API. 
+We currently use Customer.io (mailing lists), Helpscout (support desk), Stripe (billing service and credit card vault), Google Apps (mail server for support questions), Google Analytics, ScoutApp (performance monitoring), Postmark (transactional emails), Honeybadger (error tracking), Datadog (performance monitoring), PayPal (if you let customers pay invoices via PayPal), Quickbooks (if you set up the QuickBooks Online integration); as well as 3rd-party apps that you specifically allow access to your Noko account via our API. 
 
 We listed below what data these third parties extract exactly. Feel free to check out their own Privacy Policies to find out more.
 
-**Communication when getting started with Freckle, about new features, special offers relating to the service and recommendations on how to use the app:**
+**Communication when getting started with Noko, about new features, special offers relating to the service and recommendations on how to use the app:**
 
   * Customer.io: your name, email and aggregated account statistics ([privacy policy](https://customer.io/privacy-policy.html))
 
@@ -183,18 +183,18 @@ We listed below what data these third parties extract exactly. Feel free to chec
 **Service hosting and data backups**
 
   * Amazon AWS: storing encrypted archives of backup data, avatars and import files. This data is not readable by Amazon AWS. ([privacy policy](https://aws.amazon.com/privacy/))
-  * DigitalOcean: hosting of Freckle servers and databases including all customer data, but does not include credit card information. Some data, like passwords, is always encrypted by industry standard measures. ([privacy policy](https://www.digitalocean.com/legal/privacy/))
+  * DigitalOcean: hosting of Noko servers and databases including all customer data, but does not include credit card information. Some data, like passwords, is always encrypted by industry standard measures. ([privacy policy](https://www.digitalocean.com/legal/privacy/))
   * KeyCDN: hosting of Application avatars ([privacy policy](https://www.keycdn.com/privacy))
 
 
 
-Additionally, Slash7  uses third party vendors that provide the necessary hardware, software, networking, storage and other technology required to run the Website and the Service. While Slash7 owns the rights to the Freckle Website and Service, you retain all rights to the data you enter into Freckle.
+Additionally, Slash7  uses third party vendors that provide the necessary hardware, software, networking, storage and other technology required to run the Website and the Service. While Slash7 owns the rights to the Noko Website and Service, you retain all rights to the data you enter into Noko.
 
 In other to provide the Service, we also share data with services that help us track errors and bugs, keep backups of log files and identify performance issues.
 
 We employ and contract with people and other entities that perform certain tasks on our behalf and who are under our control (our “Agents”). We may need to share personal information with our Agents in order to provide products or services to you. Unless we tell you differently, our Agents do not have any right to use Personal Information or other information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information with our Agents.
 
-If Slash7 is acquired or merged with an other company, or Slash7 sells the Freckle Website and Service to an other company, or if Slash7 goes out of business or enters bankruptcy, user information may be transferred to a third party. You acknowledge that such transfers may occur, and that any acquirer of Slash7 or its assets may continue to use your personal information as set forth in this policy.
+If Slash7 is acquired or merged with an other company, or Slash7 sells the Noko Website and Service to an other company, or if Slash7 goes out of business or enters bankruptcy, user information may be transferred to a third party. You acknowledge that such transfers may occur, and that any acquirer of Slash7 or its assets may continue to use your personal information as set forth in this policy.
 
 ### Changes to the Privacy Policy
 
@@ -202,7 +202,7 @@ We may amend this Privacy Policy from time to time. Use of information we collec
 
 ### Questions
 
-Should you have any question or concern, please write to [support@letsfreckle.com](mailto:support@letsfreckle.com), or write to:
+Should you have any question or concern, please write to [support@ nokotime.com](mailto:support@nokotime.com), or write to:
 
 Slash7 LLC  
 PO Box 411  
@@ -213,6 +213,7 @@ If you need to contact a data privacy officer, please use the contact informatio
 
 ### Change Log
 
+  * _Version 3.0, March 31, 2018._ Name change (“Noko”, “NokoTime.com”).
   * _Version 2.0, May 22, 2018._ Update 3rd-party services; GDPR.
   * _Version 1.8, November 3, 2017._ Add EU-U.S. and Swiss-U.S. Privacy Shield Frameworks section. Update postal address. Update used 3rd-party services.
   * _Version 1.7, December 3, 2016._ Update business postal address.
@@ -226,6 +227,6 @@ If you need to contact a data privacy officer, please use the contact informatio
 
 
 
-[](http://nokotime.com/blog/author/thomas/)
+[](https://nokotime.com/blog/author/thomas/)
 
 Thomas’ work on Prototype.js, Zepto.js and Micro.js has made him a certified JavaScript Guru. Before founding Freckle, Thomas was consulting with some of the world’s best known companies on their craziest interactive JavaScript needs. A Ruby on Rails core alumni, he is passionate about creating the best user interface experience possible and penned the Scriptaculous JavaScript UI library to share the love, counting sites like Apple.com and Nasa.gov among its users. Thomas’ master plan: work toward a more delicious web using open source goodness.
