@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankonesport.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123205844id_/https%3A//www.rankonesport.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankonesport.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206130323id_/https%3A//www.rankonesport.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Rank One Sport
 
