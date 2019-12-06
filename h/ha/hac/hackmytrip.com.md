@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackmytrip.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415035528id_/https%3A//www.travelcodex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackmytrip.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206153538id_/https%3A//www.travelcodex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Travel Codex
 
@@ -39,3 +39,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 Travel Codex continues to add, remove, and develop new ways to ways to improve the services and features provided. As such, this policy is subject to change. The current Privacy Policy will be available in this section of the web site.
 
 Any questions, comments, or concerns can be addressed by email to [scott@travelcodex.com](mailto:scott@travelcodex.com).
+
+## Reader Interactions
