@@ -1,300 +1,361 @@
-> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2018-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181230152842id_/https%3A//www.lucidpress.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidpress.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206105948id_/https%3A//www.lucidpress.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucidpress
 
-_
+Click here for our Lucid for Education Privacy Policy
 
-## Click here for our COPPA Privacy Policy
+[Click here for our Cookie Policy](https://www.lucidpress.com/pages/cookies)
 
-_ _
+Click here for our California Privacy Disclosure
 
-## [Click here for our Cookie Policy](https://web.archive.org/pages/cookies)
+[Contact us with questions](mailto:support@lucidpress.com)
 
-_ _
+Updated November 21, 2019
 
-Updated May 22, 2018
+This Privacy Policy (“Policy”) describes how Lucid Software Inc. (“Lucid,” “we,” or “us”) collects, uses and discloses your personal information. This Policy applies to information we collect when you use our websites, mobile applications and other online products and services where this Policy is posted (collectively, the “Services”).
 
-_
+We may change the provisions of this Policy at any time and will indicate when changes have been made by revising the date at the top of this Policy. We encourage you to review the Policy whenever you access the Services to make sure that you understand our information collection, use and disclosure practices. If we make material changes to this policy, we will provide you with additional notice of such changes.
 
-This Lucidpress Privacy Policy (“Policy”) describes how Lucid Software Inc. (“Lucidpress,” “Lucid,” “we,” or “us”) collects, uses and discloses your personal information. This Policy applies to information we collect when you use our websites, mobile applications and other online products and services where this Policy is posted (collectively, the "Services").
+### Information We Collect
 
-We may change the provisions of this Policy at any time and will indicate when changes have been made by revising the date at the top of this Policy. We encourage you to review the Policy whenever you access the Services to make sure that you understand our information collection, use and disclosure practices. If we make material changes to this policy, we will provide you with additional notice of such changes and request your affirmative consent before using or sharing previously collected information in a materially different way.
+_Information That You Provide to Us_
 
-## Information That You Provide to Us
+Lucid may collect information that you provide when you use the Services, such as when you: (1) create an account; (2) make a purchase; (3) participate in events or promotions; (4) send questions or comments via e-mail or live chat to Lucid customer support; (5) apply for a job with us online; (6) fill out surveys; or (7) otherwise communicate with us through or about the Services. The types of personal information that you provide may include your name, e-mail address, telephone number, postal address, credit card information, and other contact or identifying information that you choose to provide.
 
-  * Lucid may collect information that you provide when you use the services, such as when you: (1) create an account; (2) make a purchase; (3) participate in events or promotions; (4) send questions or comments via e-mail or live chat to Lucid customer support; (5) submit your resume to us online; (6) fill out surveys; or (7) otherwise communicate with us through the Services. The types of personal information that you provide may include your name, e-mail address, telephone number, postal address, credit card information, and other contact or identifying information that you choose to provide.
-  * Content. Lucidpress stores, processes and maintains files that you create and/or upload using the Services (as well as previous versions of your files), including Lucidpress documents that you create, sharing lists, and other data related to your account in order to provide the service to you.
+Lucid stores, processes and maintains files that you create and/or upload using the Services (as well as previous versions of your files), including Lucid documents that you create, sharing lists, and other data related to your account in order to provide the service to you.
+
+_Information About Use of Our Services_
+
+Lucid’s servers automatically record certain information about your use of the Services. Lucid uses a variety of technologies to collect this information, including persistent and session cookies, web beacons, and pixel tracking technology. The information we collect includes storage usage, number of log-ins, actions taken, data displayed or clicked on (e.g., UI elements, links), and other login information (e.g., browser type, IP address, date and time of access, cookie ID, referrer URL, etc.). Lucid may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the Lucid applications or service. 
+
+When you participate in a videoconference with us, we may record the session and retain recordings of the session if we notify you that the session is being recorded so that you can opt out.
+
+If you participate in a training or product course, we collect course completion data.
+
+### Information We Collect from Third Parties
+
+We may obtain information from other sources and combine that with information we collect through our Services. For example:
+
+  * If you create or log into your account through a third-party social networking site or one of our integration partners, we will have access to certain information from that service, such as your name and account information. 
+
+  * If you elect to purchase a license to use our products, we may receive information about your purchase from our third-party payment processor.
+
+  * We may collect information from unaffiliated third parties so we can better understand you and provide you with information and offers that may be of interest to you. For example, we may receive information about your company, company size, job title, and job level as well as contact information, such as email address or phone number. 
 
 
 
-## Information That We Collect Automatically From You
 
-  * Account activity. Lucid's servers automatically record certain information about your use of Lucidpress. Similar to other web services, Lucid uses both persistent and session cookies, web beacons, and pixel tracking technology to record information such as account activity (e.g., storage usage, number of log-ins, actions taken), data displayed or clicked on (e.g., UI elements, links), other log information (e.g., browser type, IP address, date and time of access, cookie ID, referrer URL, etc.), and to remember user preferences while using the services. Lucidpress may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the Lucidpress software or service.
+Please note that all of the information we collect about you may be combined and used for the purposes described in the “How We Use Your Information” section below.
+
+### How We Use the Information We Collect
+
+We use personal information collected through our Services for purposes described in this Policy or otherwise disclosed to you on or in connection with our Services. For example, we may use your information to:
+
+  * Operate and improve our Services;
+
+  * Send you advertising or promotional materials, including information about new products, contests, features and enhancements, special offers and other events of interest from Lucid and our select partners;
+
+  * Provide and deliver the products and Services you request, process transactions, and to send you related information, including confirmations and invoices;
+
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+
+  * Respond to your comments, questions and requests and provide customer service;
+
+  * Monitor and evaluate trends, usage and activities in connection with our Services;
+
+  * Personalize and improve the Services and provide content, communications or features that match user profiles or interests; and
+
+  * Link or combine with other information we get from third parties to help understand your needs and provide you with better service.
 
 
 
-## Information We Collect From Third Parties
 
-  * We may obtain information from other sources and combine that with information we collect through our Services. For example, if you create or log into your account through a third-party social networking site, we will have access to certain information from that site, such as your name, account info and friends, in accordance with the authorization procedures determined by such third-party social networking site.
-  * If you elect to purchase a license to use Lucidpress, we may receive information about your purchase from our third-party payment processor. 
-  * We use analytics services and software provided by third parties to help us understand how users access and use the Services. These tools and services place cookies, web beacons and other devices or technologies on our Services to enable them to track traffic data. The data collected typically includes information such as your IP address, your Internet Service Provider, your web browser, the time spent on webpages, the links clicked and the advertisements viewed on those pages. We use this information to improve our Services and your experience, to see which areas and features of our Services are popular and to count visits. 
-  * We may display advertising to you on our site that is provided by third parties. 
+Lucid reserves the right to review documents to help resolve problems with our software or Services, or to ensure compliance with our Terms of Service.
+
+### Information Sharing
+
+Lucid may share your personal information with third parties in the following circumstances:
+
+  * Files you create, upload, or copy into our products may, if you choose, be read, copied, used and redistributed by people you know or, again if you choose, by people you do not know. Information you disclose using the chat function of the Services may be read, copied, used and redistributed by people participating in the chat. Use care when including sensitive personal information, such as home addresses or phone numbers, in files you share or in chat sessions.
+
+  * Some features of our Services may be provided by third parties (e.g., payments processing, sharing features of social networks such as Facebook and Google+, integration features, etc.), who may receive and process your data. When you use one of these features, you may be sharing data with the third party, including allowing the third party to process your data. Access to your data by these third parties is not governed by this Privacy Policy.
+
+  * With your employer if you are a registered user, and the domain of the primary email address associated with your account is owned by your employer and that email address was assigned to you as an employee of that organization, and an authorized representative of that organization wishes to establish an enterprise account and add you to it, then certain information concerning your individual account may become accessible to that organization’s administrator, including your name and email address, and your account may be added to the corporate account.
+
+  * With third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us. These entities have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us, and, unless we notify you otherwise and provide you with an opportunity to opt-out, will not use your personal information for any purpose other than as described in this Policy.
+
+  * With data analytics and advertising services in order to understand your preferences and to show you advertising about our Services.
+
+  * With law enforcement, courts of competent jurisdiction, or others when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Lucid, its users or the public as required or permitted by law.
+
+  * When we have your consent.
+
+  * In connection with, or during negotiations of, any merger, sale of some or all of Lucid’s assets, bankruptcy or reorganization, financing or acquisition of all or a portion of Lucid’s business to another company.
 
 
 
-## How We Use Your Information
 
-  * We use personal information collected through Lucid’s services for purposes described in this Policy or otherwise disclosed to you on or in connection with our services. For example, we may use your information to: 
-    * Operate and improve our services;
-    * Send you advertising or promotional materials, including information about new products, contests, features and enhancements, special offers and other events of interest from Lucid and our select partners;
-    * Provide and deliver the products and services you request, process transactions, and to send you related information, including confirmations and invoices;
-    * Send you technical notices, updates, security alerts and support and administrative messages;
-    * Respond to your comments, questions and requests and provide customer service;
-    * Monitor and evaluate trends, usage and activities in connection with our Services;
-    * Personalize and improve the Services and provide ads, content, communications or features that match user profiles or interests; and
-    * Link or combine with other information we get from third parties to help understand your needs and provide you with better service.
-  * Files you create, upload, or copy to Lucidpress may, if you choose, be read, copied, used and redistributed by people you know or, again if you choose, by people you do not know. When you submit an order for Lucidpress to have your documents printed, your documents may be read by individuals you do not know. Information you disclose using the chat function of Lucidpress may be read, copied, used and redistributed by people participating in the chat. Use care when including sensitive personal information in files you share or in chat sessions, such as social security numbers, financial account information, home addresses or phone numbers.
-  * Some features may be provided by third parties (e.g., the payments processing services such as Amazon Payments, sharing features of social networks such as Facebook and Google+, etc.), who may receive and process your data. When you use one of these features, you may be sharing data with the third party, including allowing the third party to process your data. Access to your data by these third parties is not governed by this Privacy Policy.
-  * Lucidpress reserves the right to review documents to help resolve problems with the Lucidpress software or service, or to ensure compliance with our Terms of Service.
+We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who used a type of document or how many users clicked on a particular advertisement. Such information does not identify you individually.
 
-## Information Sharing
+### Advertising and Analytics Services Provided by Others
 
-    * Lucidpress may share your personal information with third parties in the following limited circumstances:
-      * When we have your consent.
-      * With third party vendors, consultants and other service providers who are working on our behalf, who are hosting our data, and need access to your information to carry out their work for us. These entities have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us, and, unless we notify you otherwise and provide you with an opportunity to opt-out, will not use your personal information for any purpose other than as described in this Policy.
-      * With data analytics and advertising services in order to understand your preferences and to show you advertising on our site or through our service.
-      * With law enforcement, courts of competent jurisdiction, or others when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Lucidpress, its users or the public as required or permitted by law.
-      * With your employer if you are a Lucidpress registered user, and the domain of the primary email address associated with your Lucidpress account is owned by your employer and that email address was assigned to you as an employee of that organization, and an authorized representative of that organization wishes to establish a Lucidpress company account and add you to it, then certain information concerning your individual account may become accessible to that organization’s administrator including your name and email address, and your account may be added to the corporate account.
-      * When you submit an order for a document to be printed by one of our third-party print partners
-    * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who used a type of document, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
-    * In connection with, or during negotiations of, any merger, sale of some or all of Lucid’s assets, bankruptcy or reorganization, financing or acquisition of all or a portion of Lucid’s business to another company.
+We may allow others to provide analytics services and display advertisements for our Services. These providers (for example, [Google Analytics](https://www.google.com/policies/privacy/partners/)) may use cookies, web beacons, device identifiers, and other tracking technologies which collect information about your use of our Services. This information may be used by us and others to determine the popularity of our Services, deliver advertising and content targeted to your interests in the Services and on other websites, apps, and other services, and to better understand your online activity. You can find more information about this practice or opt out of use of your web browsing activity for interest-based advertising purposes by visiting <https://aboutads.info/choices>. You can opt out of Google Analytics by visiting <https://tools.google.com/dlpage/gaoptout>. 
 
-## Data Security
+### Data Security
 
-    * Lucidpress takes reasonable measures to protect your personal information and your documents from loss, misuse and unauthorized access, disclosure, alteration and destruction and to ensure that your documents remain available to you.
+Lucid takes reasonable measures to protect your personal information and your documents from loss, misuse and unauthorized access, disclosure, alteration and destruction and to ensure that your documents remain available to you.
 
-## Data Retention
+### Data Retention
 
-    * We store the information we collect about you for as long as is necessary for the purpose(s) for which we originally collected it. We store our backups for six (6) months. We may retain certain information for legitimate business purposes or as required by law. 
+We store the information we collect about you for as long as is necessary for the purpose(s) for which we originally collected it. We store our backups for six (6) months. We may retain certain information for legitimate business purposes or as required by law.
 
-## EU-U.S. Privacy Shield and Dispute Resolution for Users in the European Union
+### Privacy Shield and Dispute Resolution for Users in the European Economic Area and Switzerland
 
-    * In connection with Lucid’s processing of personal data it receives from the EU (“EU Data”), Lucid adheres to the EU-U.S. Privacy Shield Framework Principles issued by the U.S. Department of Commerce (the “Principles”). For more information about the Principles, please visit the Department of Commerce’s [Privacy Shield website](https://www.commerce.gov/page/eu-us-privacy-shield).
-    * Please direct any inquiries or complaints regarding our compliance with the Principles to the point of contact listed in the “Contact Us” section below. If Lucid does not resolve your complaint, you may submit your complaint free of charge to [privacy@lucidchart.com](mailto:privacy@lucidchart.com), Lucid’s designated Privacy Shield dispute resolution provider. Lucid has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim> for more information or to file a complaint. The services of JAMS are provided at no cost to you. Under certain conditions specified by the Principles, you may also be able to invoke binding arbitration to resolve your complaint.
-    * Lucid is subject to the investigatory and enforcement powers of the FTC. If Lucid shares EU Data with a third-party service provider that processes the data solely on our behalf, then Lucid will be liable for that third party’s processing of EU Data in violation of the Principles, unless Lucid can prove that it is not responsible for the event giving rise to the damage.
-    * Under the Principles, you have the right to access your information that Lucid has collected from you. You may do so by contacting Lucid using the “Contact Us” information below or through our designated Privacy Shield dispute resolution provider. You have the right to limit the use and disclosure of your personal data by not providing said information to Lucid or by not using the Lucid Services. You may request that Lucid correct, amend, or delete your information where it is inaccurate, or has been processed in violation of the Principles, except where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, or where the rights of other persons would be violated.
+In connection with Lucid’s processing of personal data it receives from the European Union, United Kingdom, or Switzerland (“European Data”), Lucid adheres to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework Principles issued by the U.S. Department of Commerce (the “Principles”). For more information about the Principles, please visit the Department of Commerce’s [Privacy Shield website](https://www.commerce.gov/page/eu-us-privacy-shield).
 
-## Your Choices
+Please direct any inquiries or complaints regarding our compliance with the Principles to the point of contact listed in the “Contact Us” section below. If Lucid does not resolve your complaint, you may submit your complaint to JAMS, Lucid’s designated alternative dispute resolution provider for Privacy Shield issues at <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. JAMS is located in the United States and their services are provided at no cost to you. Under certain conditions specified by the Principles, you may also be able to invoke binding arbitration to resolve your complaint.
 
-    * You may terminate your use of Lucidpress at any time.
-    * Editing or Deleting your Personal Information. If you have created an account, you may at any time review and/or update the contact information we have for you. Please note that even if you delete information from your account, or deactivate it, we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time.
-    * Promotional Communications. You may opt out of receiving promotional emails, text messages, or mail from Lucid by visiting your user settings page at [https://www.Lucidpress.com/users/settings](https://www.lucidpress.com/users/settings) and updating your communications preferences, by following the instructions in emails or text messages, or by sending an e-mail to [privacy@Lucidpress.com.](mailto:privacy@Lucidpress.com) If you opt out, we may still send you transactional or relationship messages, such as emails about your account or updates to our Services.
-    * Cookies. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. For more information about how to delete or disable flash cookies please visit www.adobe.com/products/flashplayer/security. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+Lucid is subject to the investigatory and enforcement powers of the FTC. If Lucid shares European Data with a third-party service provider that processes the data solely on our behalf, then Lucid will be liable for that third party’s processing of European Data in violation of the Principles, unless Lucid can prove that it is not responsible for the event giving rise to the damage.
 
-## Residents of the European Economic Area
+Under the Principles, you have the right to access your information that Lucid has collected from you. You may do so by contacting Lucid using the “Contact Us” information below or through our designated Privacy Shield dispute resolution provider. You have the right to limit the use and disclosure of your personal data by not providing said information to Lucid or by not using our Services. You may request that Lucid correct, amend, or delete your information where it is inaccurate, or has been processed in violation of the Principles, except where the burden or expense of providing access would be disproportionate to the risks to your privacy in the case in question, or where the rights of other persons would be violated.
 
-    * If you are a resident of the European Economic Area (EEA), you have certain rights and protections under the law regarding the processing of your personal data. 
-    * Legal Basis for Processing. If you are a resident of the EEA, when we process your personal data we will only do so in the following situations: 
-      * We have your consent to do so. For example, we may ask your consent to send you marketing communications. 
-      * We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the Lucidchart Services you have requested). 
-      * We have a legitimate interest in processing your personal data. For example, we may process your personal data to communicate with you about changes to our Services, and to provide, secure, and improve our Services. 
-    * Data Subject Requests. If you are a resident of the EEA, you have the right to access personal data we hold about you and to ask that your personal data be corrected, erased, or transferred. You may also have the right to object to, or request that we restrict, certain processing. If you would like to exercise any of these rights, you may do so by following the instructions under “Your Choices.” Alternatively, you may contact us as indicated below. 
-    * Questions or Complaints. If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: <http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm>. 
+### Your Choices and Rights
 
-## Contact Us
+You have several choices with respect to your personal information, as follows: 
 
-    * If you have questions or concerns regarding this Policy, please contact Lucid at: [privacy@Lucidpress.com](mailto:privacy@Lucidpress.com) or at 10808 South Riverfront Parkway, Suite 600, South Jordan, UT 84095.
+  * You may terminate your use of the Services at any time.
 
+  * Accessing, Editing, or Deleting your Personal Information. If you have created an account, you may at any time review and/or update the contact information we have for you. Please note that even if you delete information from your account, or deactivate it, we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of your information for a certain period of time. 
+
+  * Promotional Communications. You may opt out of receiving promotional emails, text messages, or mail from Lucid by visiting your user settings page at [www.lucidchart.com/users/settings](https://www.lucidchart.com/users/settings) or  [www.lucidpress.com/users/settings](http://www.lucidpress.com/users/settings), as applicable. and updating your communications preferences, by following the instructions in emails or text messages, or by sending an e-mail to [privacy@lucidchart.com](mailto:privacy@lucidchart.com) or [privacy@lucidpress.com](mailto:privacy@lucidpress.com), as applicable. If you opt out, we may still send you transactional or relationship messages, such as emails about your account or updates to our Services.
+
+  * Cookies. Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject browser cookies. Removing or rejecting browser cookies does not necessarily affect third party flash cookies used in connection with our Services. For more information about how to delete or disable flash cookies please visit www.adobe.com/products/flashplayer/security. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Services.
+
+
+
+
+### California Privacy Disclosure
+
+Under the California Consumer Privacy Protection Act (CCPA), we are required to provide you with information about the information Lucid may collect, the purpose for which we collect such information, the sources of that information, and the categories of third parties with whom we share that information. This privacy policy provides this information, and below we provide a summary of the information we collect and the purposes for which we collect it. We may share all the information we collect as described in the information sharing section above. 
+
+Category of Information Collected
+
+| 
+
+Examples
+
+| 
+
+Source of Personal Information
+
+| 
+
+Business Purpose for Which Personal Information is Used  
   
-
-
-This COPPA Privacy Policy ("COPPA Policy") is designed to comply with the Children's Online Privacy Protection Act ("COPPA") and contains information about how we collect, use, and disclose the personal information we collect from children under thirteen years old who use our websites, [www.lucidpress.com](http://www.lucidpress.com/) or [www.lucidchart.com](http://www.lucidchart.com/) (the "Sites"), our mobile applications (the "Apps"), and the services available through our Sites and Apps (collectively, the "Lucid Services"). The Lucid Services are Internet websites, applications and other interactive services that are offered by Lucid for use on mobile devices, tablets, personal computers and any other devices that connect to the Internet. This COPPA Policy describes what information the Lucid Services collect from users (see “Information Collection & Use,” below), including children, when they visit the Sites; how such information is used and stored; when such information may be disclosed to third parties; how users, parents, and guardians can control the use and disclosure of collected information; and how information is protected.
-
-Our visitors' privacy is important to us, and we recognize the need to provide additional privacy protection for children on the Sites permitting such visitors. Our privacy practices are guided by the United States' Children's Online Privacy Protection Act of 1998, as well as data privacy laws in the United States and other applicable countries. Younger visitors should always check with their parents or guardians before entering information on any website or mobile application, and we encourage families to discuss their household guidelines regarding the online sharing of personal information.
-
-The Lucid Services are web-based visual communication tools that end users can use to create flowcharts, diagrams, and design materials. To use the Lucid Services, Lucid may need to collect personal information, including from children who are under 13 years old (“Children”), from users of the Lucid Services. For the purposes of this Policy, "Child" or "Children" means a person under 13 years old.
-
-Teacher end users (“Teachers”) and academic institutions with which the Teachers and the Teachers’ students are affiliated (“Schools”) are also responsible for providing parents with notice about how personal information from their Child(ren) is collected and used by us.
-
-Children's personal information will be handled only as described in this COPPA Policy. Any personal information we collect about other users (e.g., Children over 13 years old, Teachers, and parents) will be treated in accordance with the Policy.
-
+---|---|---|---  
   
+Identifiers
 
+| 
 
-## Who Is Collecting Information About Children
+Name, username, e-mail address, phone number, mailing address, photo, and IP address
 
-Lucid operates the Lucid Services and will collect Children’s personal information as described in this COPPA Policy. We can be contacted at:
+| 
 
-Lucid Software Inc.   
-10808 S. Riverfront Pkwy  
-South Jordan, UT 84095  
-(888) 705-4096  
-support@lucidchart.com 
+You when you set up an account, interact with our Services, or apply for a job as well as any services that you connect to your account, such as a social network or integration partner, or your employer, for multi-user  accounts
 
+| 
+
+Maintaining and servicing accounts, detecting security incidents and protecting against malicious and fraudulent activity, debugging, providing customer services fulfilling orders and transactions, verifying customer information, processing payments, advertising and marketing, analytics, internal research and to improve our Services, and to ensure the quality and safety of our Services  
   
+Internet or electronic network activity information
 
+| 
 
-## Information Collection and Use
+Information about your interaction with our Services, such as your IP address, cookie and device identifiers, and information about your device and interaction with the Services, such as your Internet service provider (ISP), browser type and operating system version, language settings, access times, pages viewed, the routes by which you access our Services, and your use of any hyperlinks available within our Services 
 
-  * We may request or collect certain information when you visit the Sites. However, visitors are required to share only the information that is reasonably necessary to participate in the particular activity. We may collect information about Children directly from Children and/or their Teachers, as well as automatically through a Child's use of our Sites, Apps, and/or Services. 
+| 
 
+Collected automatically when you interact with our website, mobile applications, and other online services
 
+| 
 
-
-## Registration information
-
-  * Lucid collects personal information from Children in the form of (1) email address, and (2) password. This information is collected for the purpose of account creation and to enable visitors to log into their accounts and access the Lucid Services. Registration information may be provided by the Child directly or from a Child’s Teacher to create an account. Registration information is used to enable visitors to log into their accounts across different devices and platforms; respond to visitor's requests for products, services, and information; and send communications to users in connection with their account. Certain non-child-directed pages on the Sites may offer visitors opportunities to apply for employment or internship opportunities. In order to submit an application for any one of these opportunities, the applicant may be required to supply other pertinent personal information including, without limitation, full name, postal address, telephone number(s) and email address. Additional personal information and other information may be requested during the application process (but may not be required). 
-
-
-
-
-## Information requested from Teachers
-
-  * Through our Services, Teachers can create assignments and view submitted assignments. By creating assignments, Teachers may require the Child’s personal information to view and assess assignments. Teachers are responsible for ensuring that their collection and use of personal information from Children complies with applicable laws, including COPPA and FERPA. If you are a parent and you have questions about your Child's Teacher's use of the Lucid Services and any information collected, you should discuss your questions with your child's Teacher or school. 
-
-
-
-
-## Requests from Parents
-
-  * Parents can tell us to stop collecting personal information from their Child(ren); however, in such cases, the Child(ren) will not be able to use the Lucid Services, as the email address is necessary to log into Lucid accounts. If you direct us to stop collecting and using your Child's personal information, we must disable his or her use of the Lucid Services to prevent access to the account.
-
-
-
-
-## Information We Collect Automatically
-
-  * We may automatically collect the following information about a Child’s use of the Lucid Services through our servers and in log files: 
-
-    * domain name; browser type and operating system; web pages viewed on the Sites; links clicked; the length of time spent on our Sites or Apps; the length of time the Lucid Services are used; the referring URL, or the webpage that led a user to our Site; language information; device name and model; operating system type, name, and version; IP address, device identifier or a similar unique identifier from users of our Apps and Sites; and activities within our Sites and Apps. 
-
-  * We use this information to analyze trends, administer the Sites, track users’ movements around the Sites, gather demographic information about our user base as a whole, support the internal operations of our Sites and Apps, and better tailor our Services to our users’ needs. Except as noted in this COPPA Policy, we do not link this automatically-collected data to a Child’s personal information.
-
-
-
-* We may also collect information from any mobile devices that a Child uses if the Child has downloaded one or more of our Apps to the device. This information is generally used to help us deliver the most relevant information to the Child. Examples of information that may be collected and used include how the Child uses the App(s) and information about the type of device the Child is using. In addition, in the event our App(s) crash on a mobile device, we will receive information about the mobile device model software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our App(s). This information is sent to us as aggregated information and is not traceable to any individual and cannot be used to identify an individual.
-
-## Use of information
-
-  * We may use the personal information that we collect from Children as follows: to provide the Lucid Services; to respond to support issues and requests; to identify users; to improve the Lucid Services; and to provide a personalized experience to users.
-
-
-
-
-## Use of information in Educational Premium accounts:
-
-  * When information is provided by Teachers or educational institutions in connection with an Educational Premium account, we use the personal information to create an account and to track the number of users on the account for billing purposes. 
-
-
-
-
-## Aggregate or De-Identified Information
-
-  * We do not use information in personally identifiable form for our own commercial purposes. If we analyze or use any activity data for our own commercial purposes, we will de-identify and/or aggregate such information. We may use aggregate or de-identified information about Children for research, analysis, and similar purposes. For use in these purposes, we remove email addresses and other personal identifiers. We may use aggregate or de-identified information to better understand how users access and use the Lucid Services; to improve the Lucid Services; or for other research and analytical purposes.
-
-
-
-
-## Sharing Information
-
-  * We will disclose the personal information that we collect from Children only as described in this COPPA Policy. We may disclose Children’s personal information as follows:
-
-
-
-
-**Parents and Teachers**
-
-  * We will disclose Children’s personal information: (1) to each Child’s individual Teacher(s) and parent(s); and (2) as directed by the Child’s Teacher(s) or educational institution. The Child’s Teacher(s) may share the Child’s completed assignment with other Children in the Child’s class or school and with other Teachers. Parents may request information about the information we have collected from their Child(ren) by contacting us at support@lucidchart.com.
-
-
-
-
-**Third Party Service Providers**
-
-  * We may disclose a Child’s personal information to third-party vendors, service providers, contractors or agents who perform functions on our behalf and/or at the request of a school or district Education Premium customer to: provide the Child and the Child’s Teacher with the Lucid Services that we offer through our Sites and Apps; conduct quality assurance testing; create accounts; provide technical support; and/or provide other services to us. These third party service providers are required not to use personal information other than to provide the services requested by Lucid. We will not disclose Personal Information to third parties for any purposes not described in this COPPA Policy. 
-
-
-
-
-**Business Transfers**
-
-  * In the event that assets relating to Lucid are transferred or sold to another entity as a result of, for example, a corporate sale, merger, consolidation, asset sale, or in the unlikely event of bankruptcy, information collected by Lucid may be transferred to the acquiring company.
-
-
-
-
-**Legal Process and Safety**
-
-  * We may disclose personal information collected from Children to law enforcement, courts of competent jurisdiction, or others when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, the Privacy Policy, or this COPPA Policy, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Lucid, its users or the public as required or permitted by law.
-
-
-
-
-**No Disclosure to Third Party Companies for Marketing.**
-
-  * As stated above, we will not disclose personal information that we have collected from Children to any third party company for the third party company’s own direct marketing purposes.
-
-
-
-
-**Consent**
-
-  * We may otherwise disclose your information pursuant to your consent.
-
-
-
-
-## Cookies and Other Tracking Mechanisms
-
-**Cookies**
-
-  * We use cookies to track information about a Child’s use of our Sites, Apps, or Services. “Cookies” are alphanumeric identifiers that we transfer to a computer’s hard drive through a web browser for record-keeping purposes. We may use both session Cookies (which expire once a user closes a web browser) and persistent Cookies (which stay on a computer until a user deletes them). Some Cookies allow us to make it easier for a Child to navigate our Site and Services, while others are used to enable a faster log-in process or to allow us to track a Child’s activities, but only as those activities relate to a Child’s use of our Sites and Service.
-
-
-
-
-**Third-Party Analytics**
-
-  * We may also use third party analytics tools and technologies to track and analyze data from our the Lucid Services. These tools use Cookies to collect information such as how often users visit the Sites, what pages they visit, and what other sites they used prior to coming to the Sites. We use the data collected by such third party analytics tools only to help us administer and improve the quality of the Lucid Services and to analyze Sites and Apps usage. These third parties are not permitted to use the information collected on our behalf, except to help us conduct and improve our business. These services collect the IP address assigned to a user on the date the user visits the Sites, rather than a user’s name or other personally identifying information. These Cookies cannot be used by anyone at the third-party provider other than to provide these services as described.
-
-
-
-
-**Third-Party Links**
-
-  * Teachers may provide Children with links to third-party educational and learning resources located on third party websites. Children may also access image search and links to other websites through the use of the Lucid Services. Any access to and use of such linked websites is not governed by this COPPA Policy, but instead is governed by the privacy policies of those third-party websites. We are not responsible for the information practices of such third-party websites. 
-
-
+Maintaining and servicing accounts, detecting security incidents and protecting against malicious and fraudulent activity, debugging, providing customer services fulfilling orders and transactions, verifying customer information, processing payments, advertising and marketing, analytics, internal research and to improve our Services, and to ensure the quality and safety of our Services  
   
+Professional and employment-related information 
 
+| 
 
-## Your Rights to Review, Delete, and Control Our Use of Children’s Personal Information
+Identifiers described above and additional information about prior jobs you have held
 
-  * Parents and Teachers have a right to review the information we have collected about their Child(ren) and students, respectively, and to delete it, and to tell us to stop using it. To exercise these rights, you may contact us at support@lucidchart. You will be required to authenticate yourself as the Child's parent or Teacher to receive information about that Child. Please note that we cannot delete copies of information that a Child's Teacher has already collected and/or copied, and copies of information that you have deleted may remain viewable in cached and archived pages of the Sites or Apps for a period of time.
+| 
 
+You, when you apply for a job
 
+| 
+
+Determine your eligibility for a position with Lucid    
   
+Education information 
 
+| 
 
-## Additional Choices Regarding Children’s Personal Information
+Information about your education history
 
-**Disabling Cookies**
+| 
 
-  * Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our Sites who disable cookies will be able to browse certain areas of the Site, but some features may not be available to you.
+You, when you apply for a job
 
+| 
 
-
-
-**Applications**
-
-  * You can stop all collection of information by the App(s) by uninstalling the App(s). You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. 
-
-
+Determine your eligibility for a position with Lucid    
   
+Inferences
+
+| 
+
+Information we infer about your use of the service and other information we collect 
+
+| 
+
+Collected from you, third party partners, and any services that you connect to your account 
+
+| 
+
+To show more relevant content or features, to provide the Services, and to customize your experience  
+  
+Other information you choose to provide
+
+| 
+
+Information you provide to, for example, request information, apply for a job, participate in an event or survey, enter a contest, or get help from customer service 
+
+| 
+
+You, any integrations that you connect to your account, and our third-party partners
+
+| 
+
+To customize your experience   
+  
+_Your California Rights_
+
+California residents have the right to request access to or deletion of their personal data. You may exercise these rights as described in the “Your Choices and Rights” section above, or by emailing us at [privacy@lucidchart.com](mailto:privacy@lucidchart.com) or [privacy@lucidpress.com](mailto:privacy@lucidpress.com), as applicable. California residents also have the right to request additional details about our information practices and to not be discriminated against for exercising their rights.  
+
+Lucid does not sell the personal information of its users, but as described above, we may share your personal data with advertising partners so that they can show ads promoting Lucid on other properties. You may opt out of the use of your information for interest-based advertising purposes as described in the “Advertising and Analytics Services Provided by Others” section above.
+
+### Residents of the European Economic Area
+
+If you are a resident of the European Economic Area (EEA), please review this additional information.
+
+_Legal Basis for Processing_
+
+When we process your personal data, we will only do so in the following situations:
+
+  * We have your consent to do so. For example, we may ask your consent to send you marketing communications.
+
+  * We need to use your personal data to perform our responsibilities under our contract with you (e.g., processing payments for and providing the Services you have requested).
+
+  * We have a legitimate interest in processing your personal data. For example, we may process your personal data to communicate with you about changes to our Services, and to provide, secure, and improve our Services.
 
 
-## Changes to this COPPA Policy
 
-  * We reserve the right to revise this COPPA Policy at any time for any reason in our sole discretion by posting an updated Privacy Policy without advance notice to you. Such revisions shall be effective immediately upon posting and if you use the Site after they become effective it will signify your agreement to be bound by the changes. We shall post or display notices of material changes on the Site's homepage or otherwise on the Site and/or e-mail you or notify you upon login about these changes; the form of such notice is at our discretion. However, we encourage you to check this Privacy Policy often for updates.
+
+_Your Rights_
+
+You have certain rights and protections under the law regarding the processing of your personal data. You may access, review, modify, and delete your personal data by following the instructions under “[Your Choices](https://docs.google.com/document/d/15JWzcHhQ8Ts8p-7RSrALw28blzQYj1Fo/edit#bookmark=id.2et92p0)” above.
+
+_Questions or Complaints  _
+
+If you are a resident of the EEA and have a concern about our processing of personal data that we are not able to resolve, you have the right to lodge a complaint with the data privacy authority where you reside. For contact details of your local Data Protection Authority, please see: [http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm.](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm)
+
+### Contact Us
+
+If you have questions or concerns regarding this Policy, please contact Lucid at: [privacy@lucidchart.com](mailto:privacy@lucidchart.com) or [privacy@lucidpress.com](mailto:privacy@lucidpress.com), as applicable, or at 10355 S Jordan Gateway, Suite 150, South Jordan, UT 84095, Attn: Privacy Notices.
+
+### What is Lucid for Education?
+
+Lucid Software Inc. (“Lucid,” “we,” or “us”) offers web- and app-based visual communication tools that students and teachers can use to create flowcharts, diagrams, and design materials that bring 21st century learning to the classroom. Our services include Lucidchart, a visual diagramming tool and Lucidpress, a design creation tool (collectively, “the Services”).
+
+Teachers and students use these Services to learn core content in creative and collaborative ways that foster critical thinking while mastering the key literacies.  More than 5 million students, teachers, and administrators around the world are using Lucid for Education to learn and work together. We are committed to protecting the privacy and security of all our users, including students. We care deeply about empowering today’s students for the future of work and are humbled that millions already trust us to do that. We are committed to keeping the trust of schools and parents by protecting the personal information we collect and using that information only to provide our Services.
+
+### When does this Privacy Policy Apply?
+
+This Lucid for Education Privacy Policy (“Policy”) applies to information we collect from students who are using our Services through a K-12 school (“Students”). This Policy does not apply to Lucid’s general services offered outside of a K-12 classroom setting.  To understand how Lucid collects, uses, and discloses personal information outside of its relationship with K-12 schools, please visit the [Lucidpress Privacy Policy](https://www.lucidpress.com/pages/privacy).
+
+Schools that use our Services may integrate with other technology services such as Canvas or Google Classroom and allow students to access or share content through our Services. This Policy does not apply to features or other services Students may access through our Services.
+
+### What Information Do We Collect about Students?
+
+Lucid will not collect, maintain, use or share Student personal information beyond that needed for authorized educational/school purposes, as authorized by the parent or Student or as otherwise allowed by this Policy.
+
+#### _Account Information_
+
+When a Student registers for the Services, Lucid collects (1) name, (2) email address, and (3) password. Registration information may be provided by the Student directly or by their school.
+
+In limited situations, we may receive additional information, such as questions or comments via e-mail or live chat to Lucid customer support or responses to surveys. If a Student upgrades to a paid account or participates in an event (e.g. a webinar), we will collect additional information subject to our regular privacy policy above.
+
+#### _Information That We Collect Automatically from Students_
+
+When Students use the Services, we collect and maintain the files that Students create and/or upload using the Services (as well as previous versions of those files), including documents that Students create, sharing lists, and other data related to the Student’s account.
+
+Similar to other web services, Lucid uses both persistent and session cookies, web beacons, and pixel tracking technology to record information such as:
+
+  * account activity (e.g., storage usage, number of log-ins, actions taken);
+  * data displayed or clicked on (e.g., UI elements, links, web pages viewed);
+  * other log information (e.g., browser type, operating system, device name and model, IP address, date and time of access, length of time spent on our websites or in our Services, device identifier or a similar unique identifier, referrer URL, webpage that led a user to our website); and
+  * user preferences while using the Services (e.g. language).
+
+
+
+“Cookies” are alphanumeric identifiers that we transfer to a computer’s hard drive through a web browser for record-keeping purposes. We may use both session Cookies (which expire once a user closes a web browser) and persistent Cookies (which stay on a computer until a user deletes them). Some Cookies allow us to make it easier for a Student to navigate our website and Services, while others are used to enable a faster log-in process or to allow us to track a Student’s activities, but only as those activities relate to the Student’s use of our websites and Services.
+
+### How Do We Use Student Information?
+
+We use the information we collect from Students to provide, administer, operate, and improve our Services, to support the internal operations of our websites and Services, monitor and evaluate trends, usage and activities in connection with our Services and better tailor our Services to our users’ needs. We also use the information we collect to respond to comments, questions and requests and provide customer service and for security reasons and to comply with legal obligations.
+
+When information is provided by schools, we use that information to create an account and to track the number of users on the account for billing purposes. We may use aggregate or de-identified information about the use of the Services for research, analysis, and similar purposes, for example, to better understand how users access and use the Services; to improve the Services; or for other research and analytical purposes.
+
+### How Do We Share Student Information?
+
+We are committed to not advertising or marketing to Students or others based on Students’ use of the Services. We will not disclose any personal information about Students to third parties, except as described below.  We never sell, rent, or trade any Student information.
+
+Lucid may share Student personal information with third parties in the following circumstances:
+
+  * We will disclose Students’ personal information: (1) to each Student’s individual teacher(s) and parent(s) or guardian(s); and (2) as directed by the Student’s school. In addition, if the Student has an account through a school, the Student’s teacher(s) and school administrators can see the Student’s profile and work. Teachers may share assignments with other students and with other teachers or administrators.
+  * When we have a parent’s or guardian’s consent directly or through the school.
+  * With third-party vendors, consultants and other service providers who are working on our behalf, who are hosting our data, and need access to information to carry out their work for us. These entities have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us, and, will not use personal information for any purpose other than as described in this Policy.
+  * With law enforcement, courts of competent jurisdiction, or others when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (1) satisfy any applicable law, regulation, legal process or enforceable governmental request, (2) enforce the applicable Terms of Service, including investigation of potential violations thereof, (3) detect, prevent, or otherwise address fraud, security or technical issues, or (4) protect against harm to the rights, property or safety of Lucid, its users or the public as required or permitted by law.
+  * In connection with, or during negotiations of, any merger, sale of some or all of Lucid’s assets, bankruptcy or reorganization, financing or acquisition of all or a portion of Lucid’s business to another company; provided that a successor entity may only maintain Student personal information subject to these same commitments for the previously collected Student personal information.
+  * When schools use integrations, like Google Classroom or Canvas, these integrations may receive information needed to provide their services. For example, an assignment created in Lucidchart or Lucidpress may be submitted through Canvas. In this case, Canvas would receive the assignment and submission data.
+  * Schools may enable Students to share, publish, or collaborate with other services using our Services. When Schools enable these features, other users will receive access to information Students share or collaborate on and third parties may receive information that Students publish, all of which may be redistributed by those users or third parties.
+
+
+
+### What Controls Do We Make Available?
+
+Schools control the personal information shared with us, and are responsible for ensuring that they have any parental consent necessary to share personal information with us and to allow us to collect personal information from Students.
+
+#### _Account Information_
+
+#### Parents or legal guardians of a Student who is using the Services through their schools can contact the appropriate official at the Student’s school to access, review, correct, or delete their Student’s personal information or accounts. If the school determines that the request should be implemented, the school may either make the change themselves or submit the request to us.
+
+If your child has registered for a Lucid account independent of a school (or if you set up an account for your child independent of a school), you may update, correct, or delete your child’s profile information or preferences at any time by logging into your child’s account and accessing the account setting page or by emailing [privacy@lucidpress.com](mailto:privacy@lucidpresscom).  You may ask us to delete the account by emailing us at [privacy@lucidpress.com](mailto:privacy@lucidpress.com). When you exercise these rights, we may ask you to provide proof of legal guardianship.
+
+If you are not sure what type of account your child has, please contact us at [privacy@lucidpress.com](mailto:privacy@lucidpress.com) and we will assist you.
+
+Please note that even if you delete information from your account or deactivate it, we may retain certain information as required by law. We may also retain cached or archived copies of your Student’s information or content for a certain period of time.
+
+#### _Disabling Cookies_
+
+Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Visitors to our websites who disable cookies will still be able to browse certain areas of the website, but some features may not be available to you.
+
+### Contact Us
+
+If you have questions or concerns regarding this Policy, please contact Lucid at: 
+
+  * Email us at: [privacy@lucidpress.com](mailto:privacy@lucidpress.com);
+  * Call us at: 844-465-8243 and ask for the Lucid for Education team; or
+  * Write us at: 10355 S Jordan Gateway, Suite 300, South Jordan, UT 84095, Attn: Legal Notice.
 
 
