@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newschool.edu privacy policy that was archived on 2019-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190323002651id_/https%3A//www.newschool.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newschool.edu privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206185123id_/https%3A//www.newschool.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The New School
 
-  * Revision 1.2, May 4, 2017
+Revision 1.3, October 1, 2019
 
 The New School recognizes the importance of protecting the privacy and security of your personal information. We provide this Privacy Statement to help you understand what we may do with any personal information that we obtain from you. By providing your personal information to us, you signify your acceptance of this Privacy Statement, and agree that we may collect, use, and disclose your personal information as described herein. If you do not agree to this statement, please do not provide your personal information to us via this website.
 
@@ -37,32 +37,32 @@ Some sections of our website use Google Analytics, a web analytics service provi
 The New School works with a variety of business partners to collect and manage information from prospective students and employees and to provide services to students, staff, and alumni. As part of the services they provide, these companies operate websites on behalf of The New School and may display The New School’s name, logos, and other information to identify themselves as New School–affiliated websites. These sites, because they are not owned or controlled by The New School, are not governed by this Privacy Statement.   
 We have provided links below to the privacy statements of many of the business partners with whom we work to collect information and provide services. If you have questions about a company not listed below, please see the “Contact Us” section at the bottom of this webpage.
 
-    * This is the privacy statement for _Hobsons ApplyYourself_ , which we use to collect undergraduate and graduate applications, collect information requests from prospective students, and schedule campus visits: 
-      * [app.applyyourself.com/Common/AppSecurity.asp](https://app.applyyourself.com/Common/AppSecurity.asp)
-    * This is the privacy statement for the _Common App_ , which is used by undergraduate students to apply to Eugene Lang College of Liberal Arts: 
-      * [commonapp.org/Login#!PublicPages/PrivacyPolicy](http://www.commonapp.org/Login#!PublicPages/PrivacyPolicy "www.commonapp.org/Login#!PublicPages/PrivacyPolicy")
-    * This is the privacy statement for _World Education Services_ , which we use to evaluate academic credits earned at institutions outside the United States: 
-      * [wes.org/privacy.asp](http://www.wes.org/privacy.asp)
-    * This is the privacy statement for _TouchNet_ , which we use to process application fees and tuition, residence hall, and meal plan payments by Automated Clearing House or credit card transactions (except for Continuing Education): 
-      * [touchnet.com/web/display/TN/Privacy+Policy](http://www.touchnet.com/web/display/TN/Privacy+Policy)
-    * This is the privacy statement for _PeopleAdmin_ , which we use to collect résumés and employment applications from prospective employees: 
-      * [peopleadmin.com/privacy-policy](https://www.peopleadmin.com/privacy-policy/) 
-    * This is the privacy statement for _Google Apps for Education_ , which we use to provide electronic mail and other collaboration services to faculty, staff, students, and alumni: 
-      * [google.com/intl/en/policies/privacy](http://www.google.com/intl/en/policies/privacy/) 
-    * Google also provides a description of some of the privacy features specific to the _Google Apps for Education_ version of their services: 
-      * [google.com/edu/privacy.html](http://www.google.com/edu/privacy.html)
-    * This is the privacy statement for the _Canvas_ _Learning Management System_ , which we use to deliver the online components of most courses at The New School: 
-      * [instructure.com/policies/privacy](https://www.instructure.com/policies/privacy)[](ttp://www.instructure.com/privacy-policy)
-    * This is the privacy statement for _Edublogs_ , which we use to provide the New School Learning Portfolio: 
-      * [edublogs.org/privacy-policy ](https://edublogs.org/privacy-policy/)
-    * This is the privacy statement for Starfish CONNECT, Starfish EARLY ALERT, and Starfish ADVISING applications (Student Success Network), which we use to help improve communications between students and advisors and to connect students with New School resources: 
-      * [starfishsolutions.com/privacy.html](http://www.starfishsolutions.com/privacy.html)
-    * This is the privacy statement for The Village, a New School community environment for socializing, collaborating, sharing, and accessing certain university services: 
-      * [village.newschool.edu/privacy-policy ](https://village.newschool.edu/privacy-policy)
-    * This is the privacy statement for Workday (MyDay), which we use to provide human resources services such as payroll, benefits administration, time off and leave management, etc., to employees: 
-      * [workday.com/en-us/service-privacy.html](https://www.workday.com/en-us/service-privacy.html)
-    * This is the privacy statement for _Listrak_ , which we use to manage some of our email marketing campaigns: 
-      * [listrak.com/privacy.aspx](http://www.listrak.com/privacy.aspx)
+  * This is the privacy statement for _Hobsons ApplyYourself_ , which we use to collect undergraduate and graduate applications, collect information requests from prospective students, and schedule campus visits: 
+    * [app.applyyourself.com/Common/AppSecurity.asp](https://app.applyyourself.com/Common/AppSecurity.asp)
+  * This is the privacy statement for the _Common App_ , which is used by undergraduate students to apply to Eugene Lang College of Liberal Arts: 
+    * [commonapp.org/Login#!PublicPages/PrivacyPolicy](http://www.commonapp.org/Login#!PublicPages/PrivacyPolicy "www.commonapp.org/Login#!PublicPages/PrivacyPolicy")
+  * This is the privacy statement for _World Education Services_ , which we use to evaluate academic credits earned at institutions outside the United States: 
+    * [wes.org/privacy.asp](http://www.wes.org/privacy.asp)
+  * This is the privacy statement for _TouchNet_ , which we use to process application fees and tuition, residence hall, and meal plan payments by Automated Clearing House or credit card transactions (except for Continuing Education): 
+    * [touchnet.com/web/display/TN/Privacy+Policy](http://www.touchnet.com/web/display/TN/Privacy+Policy)
+  * This is the privacy statement for _PeopleAdmin_ , which we use to collect résumés and employment applications from prospective employees: 
+    * [peopleadmin.com/privacy-policy](https://www.peopleadmin.com/privacy-policy/) 
+  * This is the privacy statement for _Google Apps for Education_ , which we use to provide electronic mail and other collaboration services to faculty, staff, students, and alumni: 
+    * [google.com/intl/en/policies/privacy](http://www.google.com/intl/en/policies/privacy/) 
+  * Google also provides a description of some of the privacy features specific to the _Google Apps for Education_ version of their services: 
+    * [google.com/edu/privacy.html](http://www.google.com/edu/privacy.html)
+  * This is the privacy statement for the _Canvas_ _Learning Management System_ , which we use to deliver the online components of most courses at The New School: 
+    * [instructure.com/policies/privacy](https://www.instructure.com/policies/privacy)
+  * This is the privacy statement for _Edublogs_ , which we use to provide the New School Learning Portfolio: 
+    * [edublogs.org/privacy-policy ](https://edublogs.org/privacy-policy/)
+  * This is the privacy statement for Starfish CONNECT, Starfish EARLY ALERT, and Starfish ADVISING applications (Student Success Network), which we use to help improve communications between students and advisors and to connect students with New School resources: 
+    * [starfishsolutions.com/privacy.html](http://www.starfishsolutions.com/privacy.html)
+  * This is the privacy statement for Workday (MyDay), which we use to provide human resources services such as payroll, benefits administration, time off and leave management, etc., to employees: 
+    * [workday.com/en-us/service-privacy.html](https://www.workday.com/en-us/service-privacy.html)
+  * This is the privacy statement for _Listrak_ , which we use to manage some of our email marketing campaigns: 
+    * [listrak.com/privacy.aspx](http://www.listrak.com/privacy.aspx)
+
+
 
 ## Links to Other Sites
 
@@ -138,7 +138,4 @@ Updated the list of Starfish applications to include EARLY ALERT and ADVISING
 
 Deleted co-branded sites we no longer use: NACElink
 
-Added new co-branded sites: The Village  
-  
-
-
+Added new co-branded sites: The Village
