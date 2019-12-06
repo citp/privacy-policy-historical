@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dsm.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406131926id_/https%3A//www.dsm.com/corporate/generic/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dsm.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206233857id_/https%3A//www.dsm.com/corporate/website-info/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | DSM
+# Privacy policy | DSM
+
+DSM is committed to protecting your privacy on this website. Please read this Privacy & Cookie Statement carefully so that you understand how we collect and use your personal data.
 
 ### General
 
@@ -16,9 +18,7 @@ The type of personal information we collect as a result of a cookie is specific 
 
 You may set your browser to notify you when you receive a cookie or to refuse receiving it. You can also withdraw your consent at all times by re-entering our website and select the right options. By changing settings, you can also determine that your browser will not accept cookies from this website. Be aware that in such events you may no longer be able to use all the possibilities and features of our website.
 
-### Google Analytics
-
-Currently we are using Google Analytics to analyze the audience of the website and improve our content. No personal information is collected from Google Analytics. For further information on the privacy policy concerning Google Analytics, please go here: [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html).
+Currently we are using Google Analytics to analyze the audience of the website and improve our content. No personal information is collected from Google Analytics.  Click [here](https://marketingplatform.google.com/about/analytics/ "Visit Website") for further information on the privacy policy concerning Google Analytics.
 
 ### Collection of data, purpose and recipients
 
@@ -45,9 +45,7 @@ Please be aware that the DSM Privacy & Cookie Statement does not apply to other 
 
 
 
-### Right to access / rectification / object
-
-At all times you can request access to and/or rectification and/or deletion of your data if such data are incorrect or irrelevant for the mentioned purposes. For these purposes please send us your request for access, rectification or deletion of your personal data via [e-mail](mailto:privacy.dsm@dsm.com).
+At all times you can request access to and/or rectification and/or deletion of your data if such data are incorrect or irrelevant for the mentioned purposes. For these purposes please send us your request for access, rectification or deletion of your personal data via [e-mail](mailto:privacy.dsm@dsm.com "Email DSM's Privacy Team").
 
 At all times you can object against the use of your data for direct marketing purposes.
 
