@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisconsingazette.com privacy policy that was archived on 2019-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190327070520id_/https%3A//www.wisconsingazette.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisconsingazette.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206022244id_/https%3A//www.wisconsingazette.com/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | wisconsingazette.com
 
