@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellnessfx.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607223435id_/https%3A//www.wellnessfx.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellnessfx.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206162751id_/https%3A//www.wellnessfx.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - WellnessFX
 
