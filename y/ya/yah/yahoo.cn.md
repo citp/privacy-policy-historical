@@ -1,106 +1,98 @@
-> *The following text is extracted and transformed from the yahoo.cn privacy policy that was archived on 2015-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150329081119id_/http%3A//info.yahoo.com/privacy/sg/yahoo/search) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoo.cn privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206232800id_/http%3A//info.yahoo.com/privacy/sg/yahoo/search) for the most accurate reproduction.*
 
-# Yahoo Search
+# Media | Verizon Media Policies
 
-## WHAT THIS PRIVACY POLICY COVERS
+This policy describes our current privacy practices for the Verizon Media Media brands, websites, features, products, apps, software and other services (“Media Services”).  All information that is collected, provided to Verizon Media or stored in your Verizon Media Account will be treated, used and protected in accordance with the [Verizon Media Privacy Policy](https://web.archive.org/policies/sg/en/verizonmedia/privacy/index.html). This information may change as Verizon Media revises these Media Services by adding or removing features or using different service providers. Some features are only available if you are a registered user. Please visit [Help](http://help.yahoo.com/l/us/yahoo/) if you have questions about these Media Services.
 
-### Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+This page describes specific privacy practices with respect to Yahoo Answers, Yahoo Autos, Yahoo Celebrity, Yahoo Finance, Yahoo Movies, Yahoo Music, My Yahoo, Yahoo News, Rivals, Yahoo Sports, Yahoo View and Yahoo Weather. 
 
-### How Yahoo! Uses Your Personal Information
+**Information Collection & Use Practices**
 
-This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
-
-### This privacy policy only applies to Yahoo!
-
-This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, some companies that Yahoo! has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](https://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/).
-
-Return to top
-
-## INFORMATION COLLECTION AND USE
-
-### General
-
-Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](http://stage.info.yahoo.com/privacy/sg/yahoo/products.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://info.yahoo.com/privacy/sg/yahoo/promotions/). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-
-When you register we ask for information such as your name, email address, birth date, gender, postal code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-
-Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
-
-Yahoo! automatically receives and records information from your computer and browser, including your [IP address](https://info.yahoo.com/privacy/sg/yahoo/ip/), Yahoo! [cookie](https://info.yahoo.com/privacy/sg/yahoo/cookies/) information, software and hardware attributes, and the page you request.
-
-Yahoo! uses information for the following general purposes: to customise the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-
-Return to top
-
-## INFORMATION SHARING AND DISCLOSURE
-
-Yahoo! does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
-
-  * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-  * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
+  * We may personalize articles, videos, and other content shown to you based on your interests. We determine interests using what we may know about you, including information you provide to us directly, your browsing activity, watched history, items liked and followed, media consumed, and searches. 
+  * Verizon Media collects information about your activity on our services such as title queries, watched history and page views for product improvements, research and analysis, and to help provide you a more personalized experience.
+  * We offer suggestion and feedback options within our products which allow you to send us comments and feedback regarding our products. These forms may ask for various information to respond to your inquiry.
+  * On some Media Services, by default, we will send email notifications related to the service (for example, a fantasy sports game) in which you are participating. Some games provide you with controls for the type and frequency of these emails
 
 
 
-Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
+#### **Information Sharing & Disclosure Practices**
 
-  * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-  * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
+  * Comments you make in the Media Services are public and may include your name, nickname, avatar, image and/or contact information associated with your account. These comments may also be surfaced to other users.
+  * You may share articles, videos, and other content using our email or other social media sharing features. When using these features, your name, user profile/name, and/or email address may be visible to the recipient(s). 
+  * When you complete a form to receive more information (e.g. quotes, travel services, real estate services) from our partners and/or third parties, your information will be shared with, or in some cases collected directly by, these partners and/or third parties as described on those forms. To learn how they use your information, please review their respective privacy policies. They are solely responsible for their use of this information.
+  * Some features on Yahoo may be provided by [partners](https://web.archive.org/policies/sg/en/verizonmedia/privacy/topics/thirdparties/index.html) that collect information from our site or from services associated with our site but hosted by the partner.
+  * We also analyse and store all other content and other information you provide when you use our Services
+  * This can also include information within or about the content you provide, such as [photos](https://web.archive.org/policies/sg/en/verizonmedia/privacy/products/communications/faq/index.html)[, attachments and other communications](https://web.archive.org/policies/sg/en/verizonmedia/privacy/products/communications/faq/index.html). For example, when it's included as part of your images, we may collect information describing your camera, camera settings, or EXIF information. This information allows us to improve our services and provide additional features and functionality.
+  * Some Media Services may collect your location to provide various services. This information may be used in accordance with our [Location Privacy practices](https://web.archive.org/policies/sg/en/verizonmedia/privacy/topics/location/index.html)
+  * To learn more about how we use information when you use the Yahoo Messenger feature or other instant messaging services embedded within Media Services, please see the [Communications Privacy Policy](https://web.archive.org/policies/sg/en/verizonmedia/privacy/products/communications/index.html).  
 
 
 
-Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://stage.info.yahoo.com/privacy/sg/yahoo/products.html). 
+Additional information is included for certain Media Services listed below. 
 
-Return to top
+### **Yahoo Answers**
 
-## COOKIES
+#### **Information collection and use practices**
 
-Yahoo! may set and access Yahoo! [cookies](https://info.yahoo.com/privacy/sg/yahoo/cookies/) on your computer.
+  * Yahoo Answers collects information about your activity in both anonymous and information that on its own reasonably identifies you (such as your name or email address)  \- including specific questions, answers, comments, and votes.
+  * You can see your activity and watchlist, edit your preferences, find your Profile, and change your settings using Yahoo Answers [My Activity](http://answers.yahoo.com/my-activity).
 
-Yahoo! lets [other companies](https://info.yahoo.com/privacy/sg/yahoo/thirdparties/) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies.
 
-Yahoo! uses [web beacons](http://stage.info.yahoo.com/privacy/sg/yahoo/webbeacons/) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services.
 
-Return to top
+#### **Information Sharing and Disclosure Practices**
 
-## YOUR ABILITY TO EDIT AND DELETE YOUR ACCOUNT INFORMATION AND PREFERENCES
+  * All activities outside of viewing and voting (asking, answering, and commenting) are assigned a name. This name can be: 
+    * Your Yahoo User ID;
+    * or any nickname you desire.
+  * Your activities will be tied to the name you select. 
+    * You may change this name at any time and the name linked to all previous activity will be changed as well.
+  * You can make your Yahoo Messenger ID public in your profile. 
+    * By choosing to make your Yahoo Messenger ID public, all viewers of Yahoo Answers can link to your Yahoo Answers profile and there can see your Yahoo Messenger ID.All questions, answers, and comments created by you can be viewed by anyone visiting the Yahoo Answers site or visiting partner sites that include Yahoo Answers content.
+  * When enabling user-to-user emails in Yahoo Answers, your Yahoo User ID and email address are not shared.
 
-### General
 
-You can edit your [Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
 
-New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+#### **Practices Regarding Your Ability to Update or Delete Information**
 
-We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo!7 account, without offering you the opportunity to opt out of receiving them. 
+  * You can add details to or delete questions you've asked for as long as the question is open. 
+    * Once the question is resolved, you cannot make changes or delete your content.
+  * You can edit and delete answers while the question being asked is open. 
+    * Once the question is resolved, you cannot make changes or delete your answer.
+  * Questions, answers, comments, or nicknames can be removed at any time if they violate the [Yahoo Answers Community Guidelines](http://answers.yahoo.com/info/community_guidelines.php). 
+    * If your account is deactivated your content will remain (including photos and videos), however your nickname and profile picture will be anonymised. If you wish to have content removed, you will need to contact Yahoo Customer Care.
 
-You can delete your Yahoo! account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](http://stage.info.yahoo.com/privacy/sg/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
 
-Return to top
 
-##  CONFIDENTIALITY AND SECURITY
+### **Yahoo Finance/AOL Finance**
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+Yahoo Finance and AOL Finance offer a wide variety of financial resources that anyone can access. To customize Yahoo Finance and AOL Finance and to take advantage of certain offerings, you must be a registered user.
 
-We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+#### **Information collection and use practices**
 
-To learn more about security, including the security steps Yahoo! has taken and security steps you can take, please read [Security at Yahoo!](https://info.yahoo.com/privacy/sg/yahoo/security/).
+**Stock Portfolio**
 
-Return to top
+  * In addition to registration, if you would like to track a stock portfolio you will need to create a portfolio and, at a minimum, include the stock or fund ticker symbols.
+  * You can view this portfolio within Yahoo Finance or from a number of other Verizon Media products and services. Your stock portfolio ticker symbols are used to present the information you specify.
 
-## CHANGES TO THIS PRIVACY POLICY
 
-Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
 
-Return to top
+**Calculators**
 
-##  QUESTIONS AND SUGGESTIONS 
+  * You do not need to be logged-in to your account to use the calculator tools. Certain calculator tools on Yahoo Finance and AOL Finance are provided by a third party. 
+  * Linked Accounts In Yahoo Finance and AOL Finance My Portfolio 
+    * If you would like to conduct stock trades or see your trading data, you can link your brokerage accounts in My Portfolio. Verizon Media does not save your brokerage login credentials. If you link your brokerage accounts or conduct trades, My Portfolio may collect and store the following type of information: brokerage name, account balances, and number of shares purchased and stock symbol. Verizon Media will collect and store this information to show you your balance and holdings data, improve your product experience, reduce latency and send you breaking news or important alerts about your positions.
 
-If you have questions or suggestions, please complete a [feedback form](http://io.help.yahoo.com/contact/index?locale=en_SG&y=PROD_ACCT&page=contact) or you can contact us at:
 
-Yahoo! Asia Pacific Pte. Ltd.   
-60 Anson Road, #13-01 Mapletree Anson, Singapore 079914 
 
-Last Updated: January 26, 2011
+#### **Information Sharing and Disclosure Practices**
 
-Return to top
+  * **My Portfolio may share:**
+    * Information to process your transactions and maintain your account with your existing brokerage accounts whose accounts you have linked to My Portfolio;
+    * Information with Verizon Media’s service providers, such as TradeIt and any other types of companies who provide services on Verizon Media’s behalf;
+    * Information collected for our affiliates’ everyday business purposes. We will not share information regarding your creditworthiness.
+  * Yahoo Finance and AOL Finance have relationships with partners who provide tools that are linked from our services. When you use these tools, our partners may be collecting information from you directly.
+  * Yahoo Finance and AOL Finance have other partners with whom we will share non-personal information collected from you, without restriction, such as when you use tools such as mortgage calculators.
+  * Yahoo Finance may also share personal information about you with a non-affiliated Yahoo Finance partner who has an independent right to use that information, but only if you have been given notice and the opportunity to opt-out of such sharing. 
+    * Yahoo is not responsible for the privacy policies of sites that are linked to from Yahoo Finance or anywhere on Yahoo.
+
+
