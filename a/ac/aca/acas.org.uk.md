@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525115613id_/http%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acas.org.uk privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206190408id_/https%3A//www.acas.org.uk/index.aspx%3Farticleid%3D1922) for the most accurate reproduction.*
 
 # Acas website: privacy policy | Acas
 
@@ -48,7 +48,7 @@ After the two purges, case references, jurisdictions and (on ET1 claims only) th
 
 ### 3\. Collective Dispute Resolution
 
-Collective conciliators keep names and contact details of the trade union representatives and employers which they speak to. This is so they can help if there is a dispute. Collective conciliators may keep these details until they are no longer needed. If you wish a collective conciliator to remove your contact details because you have moved job, or trade union role, please contact Acas at [foi@acas.org.uk](mailto:foi@acas.org.uk) with the details of your request.
+Collective conciliators keep names and contact details of the trade union representatives and employers which they speak to. This is so they can help if there is a dispute. Collective conciliators may keep these details until they are no longer needed. If you wish a collective conciliator to remove your contact details because you have moved job, or trade union role, please contact Acas at [dataprotection@acas.org.uk](mailto:dataprotection@acas.org.uk) with the details of your request.
 
 Collective conciliators sometimes process personal data as a third party. This occurs when collective conciliators are invited in to organise ballots or conciliate in trade union recognition disputes. 
 
@@ -56,7 +56,7 @@ On these occasions, personal information is not collected directly from the indi
 
 Data collected may consist of: Name, Employer, Trade Union Membership number, Name of Trade Union and dates of births of both workers/employees and trade union members. Employers and trade unions make an agreement in each case which information is given to Acas.
 
-Acas keeps these lists for one month after the announcement of the results of a ballot or a membership check has been made and then destroys the lists. Collective conciliators keep names and contact details of the trade union representatives and employers which they speak to. This is so they can help if there is a dispute. Collective conciliators may keep these details until they are no longer needed. If you wish a collective conciliator to remove your contact details because you have moved job, or trade union role, please contact Acas at [foi@acas.org.uk](mailto:foi@acas.org.uk) with the details of your request.
+Acas keeps these lists for one month after the announcement of the results of a ballot or a membership check has been made and then destroys the lists. Collective conciliators keep names and contact details of the trade union representatives and employers which they speak to. This is so they can help if there is a dispute. Collective conciliators may keep these details until they are no longer needed. If you wish a collective conciliator to remove your contact details because you have moved job, or trade union role, please contact Acas at [dataprotection@acas.org.uk](mailto:dataprotection@acas.org.uk) with the details of your request.
 
 Collective conciliators sometimes process personal data as a third party. This occurs when collective conciliators are invited in to organise ballots or conciliate in trade union recognition disputes. 
 
@@ -130,34 +130,18 @@ Customer, claimant and respondent data is held in a government secure data centr
 
 ## Lawful basis for processing
 
-Under data protection laws, Acas must have a 'lawful basis' to justify our collection, storage and use of your personal data. Where sensitive personal data is used, we also need to have a second lawful basis to justify our use of your sensitive data.
+Under data protection laws, Acas must have a 'lawful basis' to justify our collection, storage and use of your personal data. Where sensitive personal data (or 'special category' data) is used, we also need to have a second lawful basis to justify our use of your sensitive data.
 
-## Lawful basis - Data Protection Act 2018
+The purpose of most activities where Acas processes personal data, relates to our legal duties under the Trade Union and Labour Relations (Consolidated) Act 1992.
 
-Our lawful basis for processing of personal data, including for marketing of our charged-for training services, is therefore that it is necessary:
+Our lawful basis for processing personal data is:
 
-" the exercise of a function of the Crown, a Minister of the Crown or a government department" Data Protection Act 2018 (c. 12) PART 2 CHAPTER 2 Lawfulness of processing Section 8 (d)
+  * For 'ordinary' personal data - 'Task in the Public Interest' (Article 6(1)(e) GDPR) and " the exercise of a function of the Crown, a Minister of the Crown or a government department" Data Protection Act 2018 (c. 12) PART 2 CHAPTER 2 Lawfulness of processing Section 8 (d)
+  * For 'special category' personal data - 'reasons of substantial public interest' (Article 9(2)(g) GDPR) and " the exercise of a function of the Crown, a Minister of the Crown or a government department" Data Protection Act 2018 (c.12) Schedule 1 PART 2 Substantial Public Interest Conditions Section 6 Paragraph 2 (b)
 
-Where we process sensitive personal data, our additional lawful basis to do this is that it is necessary:
 
-" the exercise of a function of the Crown, a Minister of the Crown or a government department" Data Protection Act 2018 (c.12) Schedule 1 PART 2 Substantial Public Interest Conditions Section 6 Paragraph 2 (b)
 
-## Lawful basis - General Data Protection Regulations or GDPR
-
-The purpose of most activities where Acas processes personal data, relates to our legal duties under the Trade Union and Labour Relations (Consolidated) Act 1992.  
- 
-
-Our lawful basis for processing of personal data, including for marketing of our charged-for training services, is therefore that it is necessary:
-
-"for the performance of a task carried out in the public interest, or in the exercise of official authority vested in the data controller" (Article 6(1)(e) of the GDPR).
-
-For sensitive personal data that may be processed as part of our Helpline, Conciliation and Arbitration services, and to respond to FOI and Subject Access Requests, our lawful basis is where:
-
-"processing is necessary for the establishment, exercise or defence of legal claims or where courts are acting in their judicial capacity" (Article 9(2)(f) of the GDPR).
-
-Where sensitive personal data may be processed for research and analysis purposes, our lawful basis is where:
-
-"processing is necessary for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes" (Article 9(2)(j) of the GDPR).
+You can find out the difference between 'ordinary' and 'special category' information on the [ICO website](https://ico.org.uk/).
 
 ## Your rights under data protection law
 
@@ -183,7 +167,7 @@ London
 
 NW1 3JJ
 
-Email: [foi@acas.org.uk](mailto:foi@acas.org.uk)
+Email: [dataprotection@acas.org.uk](mailto:dataprotection@acas.org.uk)
 
 ## Use of our website and Social Networking
 
@@ -216,3 +200,5 @@ Territories outside the United Kingdom may not have laws which provide the same 
 ## Changes to this Privacy statement
 
 If this privacy statement changes in any way, we will place an updated version on this webpage. If you do not agree with the changes we make please do not continue to use the website. Regularly reviewing this webpage ensure you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
+
+### Last updated: 09/08/2019
