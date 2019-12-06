@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipreo.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515224941id_/http%3A//info.ipreo.com/Ipreo-Private-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipreo.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206162639id_/http%3A//info.ipreo.com/Ipreo-Private-Policy.html) for the most accurate reproduction.*
 
 # Ipreo Privacy and Cookie Policies
 
