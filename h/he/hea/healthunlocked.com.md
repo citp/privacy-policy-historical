@@ -1,40 +1,38 @@
-> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2019-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190411143512id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthunlocked.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206231713id_/https%3A//healthunlocked.com/policies/privacy) for the most accurate reproduction.*
 
 # HealthUnlocked | The social network for health
 
-**Last modified: 15/01/2019**
+**Last modified: 27/11/2019**
 
-###  **INTRODUCTION**
-
-Welcome to HealthUnlocked’s privacy notice.
+Welcome to HealthUnlocked’s Privacy policy.
 
 HealthUnlocked is a private company that aims to transform individual health experiences into support, insight and understanding for others. We do this by enabling people to share personal health experiences and information online using our site (“Our Site”). In turn this provides support, aids self-management, and improves interactions with professionals, with the aim of improving day-to-day health and well-being.
 
 At HealthUnlocked we believe in the potential of shared experiences to transform lives and uncover understanding in health. Because this may involve you sharing sensitive information about your health and treatment we also believe in the importance of clear and transparent privacy guidelines. As a user it’s important you know how we use and share your data and how you can control what happens to information you share on Our Site.
 
-This privacy notice will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
+This privacy policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
-This privacy notice is provided in a layered format so you can click through to the specific areas set out below. Please also use the Glossary to understand the meaning of some of the terms used in this privacy notice.
+This privacy policy is provided in a layered format. Please also use the Glossary to understand the meaning of some of the terms used in this privacy policy.
 
 ###  **1\. IMPORTANT INFORMATION AND WHO WE ARE**
 
-####  **PURPOSE OF THIS PRIVACY NOTICE**
+####  **PURPOSE OF THIS PRIVACY POLICY**
 
-This privacy notice aims to give you information on how HealthUnlocked collects and processes your personal data through your use of this website, including any data you may provide through this website when you share your experiences and contribute to our online discussions, sign up to our newsletter, purchase a product or service or take part in a competition.
+This privacy policy aims to give you information on how HealthUnlocked collects and processes your personal data through your use of this website, including any data you may provide through this website when you share your experiences and contribute to our online discussions, sign up to our newsletter, purchase a product or service or take part in a competition.
 
 This website is not intended for children and we do not knowingly collect data relating to children. In fact we ask users to verify they are over the age of 16 upon signing up to use the service so all our users have represented to us they are over 16.
 
 If you are under the age of 16 then you are prohibited from creating an account and becoming a member of HealthUnlocked. In registering as a member you are acknowledging that you are aged 16 or above. If we become aware that a child under 16 has provided us with personal information, we take steps to remove such information and will delete the child’s account.
 
-It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy notice supplements the other notices and is not intended to override them.
+It is important that you read this privacy policy together with any other privacy policy or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data. This privacy policy supplements the other notices and is not intended to override them.
 
 ####  **CONTROLLER**
 
 HealthUnlocked is owned and operated by Everything Unlocked Limited registered in England and Wales under company number 6596274. Its registered office address is: First Floor, Clover House, 147-149 Farringdon Road, London EC1R 3HN, United Kingdom.
 
-Everything Unlocked Limited is the controller and responsible for your personal data (collectively referred to as “Everything Unlocked”, “HealthUnlocked” “we”, “us” or “our” in this privacy notice).
+Everything Unlocked Limited is the controller and responsible for your personal data (collectively referred to as “Everything Unlocked”, “HealthUnlocked” “we”, “us” or “our” in this privacy policy).
 
-We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise _your legal rights_ , please contact the data privacy manager using the details set out below.
+We have appointed a Data Protection Office (DPO) who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise _your legal rights_ , please contact our DPO using the details set out below.
 
 ####  **CONTACT DETAILS**
 
@@ -42,23 +40,23 @@ Our full details are: Everything Unlocked Limited
 
 Full name of legal entity: Everything Unlocked Limited, First Floor, Clover House, 147-149 Farringdon Road, London EC1R 3HN, United Kingdom. HealthUnlocked is a trading name of Everything Unlocked Limited.
 
-Name or title of data privacy manager: Adeela Sharif
+Name or title of data protection officer: Pepa Gonzalez
 
-Email address: adeela.sharif@healthunlocked.com
+Email address: pepa@healthunlocked.com
 
 Postal address: First Floor, Clover House, 147-149 Farringdon Road, London EC1R 3HN, United Kingdom
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues [www.ico.org.uk](https://ico.org.uk/). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
-####  **CHANGES TO THE PRIVACY NOTICE AND YOUR DUTY TO INFORM US OF CHANGES**
+####  **CHANGES TO THE PRIVACY POLICY AND YOUR DUTY TO INFORM US OF CHANGES**
 
-This version was last updated on 14 January 2019. You will be notified if there are any changes to this Privacy Notice.
+You will be notified if there are any changes to this privacy policy.
 
 It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes during your relationship with us.
 
 ####  **THIRD-PARTY LINKS**
 
-This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
+This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy policy of every website you visit.
 
 ###  **2\. THE DATA WE COLLECT ABOUT YOU**
 
@@ -75,11 +73,11 @@ We may collect, use, store and transfer different kinds of personal data about y
 
 
 
-We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. **Aggregated Data** may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy notice.
+We also collect, use and share Aggregated Data such as statistical or demographic data for any purpose. **Aggregated Data** may be derived from your personal data but is not considered personal data in law as this data does **not** directly or indirectly reveal your identity. For example, we may aggregate your Usage Data to calculate the percentage of users accessing a specific website feature. However, if we combine or connect Aggregated Data with your personal data so that it can directly or indirectly identify you, we treat the combined data as personal data which will be used in accordance with this privacy policy.
 
 Health organizations and other affiliates of HealthUnlocked (“Affiliates”) can access and export anonymized and aggregated data reports from users within the HealthUnlocked community who have chosen to share their data. If you have not chosen to share your data with third parties, your data will not be included in the aggregated data reports.
 
-We sometimes collect **Special Categories of Personal Data** about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, information about your health and genetic and biometric data) should you choose to give us this information to provide the HealthUnlocked user experience. We take extensive measures to keep these Special Categories anonymised and secure but cannot guarantee it will remain anonymised if you chose to register using a username making you personally identifiable.
+We process **Special Categories of Personal Data** when you choose to add this information to your profile. We use the information within your profile to recommend relevant people, posts, communities, programs and services to you which match the conditions, health topics or ethnicity. We also allow you to share this information with other HealthUnlocked users if you choose. We rely on your consent to process this type of data for these purposes. You can withdraw your consent at any time by removing this information from your profile.
 
 We do not collect any information about criminal convictions and offences, unless this has been voluntarily shared by you on Our Site.
 
@@ -113,13 +111,13 @@ We will only use your personal data when the law allows us to. Most commonly, we
 
 
 
-Click [here] to find out more about the types of lawful basis that we will rely on to process your personal data.
+Click [here](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/lawful-basis-for-processing) to find out more about the types of lawful basis that we will rely on to process your personal data.
 
-You have the right to withdraw consent to marketing at any time by [contacting us](https://support.healthunlocked.com/customer/portal/emails/new?ticket%5Bcustom_contact_options=Data) or changing your communication preferences in your [account settings](https://healthunlocked.com/settings).
+You have the right to withdraw consent to marketing at any time by [contacting us](https://support.healthunlocked.com/contact) or changing your communication preferences in your [account settings](https://healthunlocked.com/settings).
 
 ####  **Communications with you**
 
-By becoming an account holder, you agree that we may provide you with information about Our Site (whether by email or any other medium) that we consider appropriate. You may opt-out of receiving these materials and notifications in the [contacting us](https://support.healthunlocked.com/customer/portal/emails/new?ticket%5Bcustom_contact_options=Data) or changing your communication preferences in your [settings](https://healthunlocked.com/settings) area of your account or by writing to or emailing us to inform us that you wish to be removed from our contact list.
+By becoming an account holder, you agree that we may provide you with information about Our Site (whether by email or any other medium) that we consider appropriate. You may opt-out of receiving these materials and notifications in the [contacting us](https://support.healthunlocked.com/contact) or changing your communication preferences in your [settings](https://healthunlocked.com/settings) area of your account or by writing to or emailing us to inform us that you wish to be removed from our contact list.
 
 ####  **PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA**
 
@@ -146,7 +144,7 @@ We will process your personal data only where there is a lawful basis to do so, 
 
 
 
-Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](https://support.healthunlocked.com/customer/portal/emails/new?ticket%5Bcustom_contact_options=Data) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
+Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](https://support.healthunlocked.com/contact) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
 ####  **MARKETING**
 
@@ -164,7 +162,7 @@ We will get your express opt-in consent before we share your personal data with 
 
 ####  **OPTING OUT**
 
-You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by [contacting us](https://support.healthunlocked.com/customer/portal/emails/new?ticket%5Bcustom_contact_options=Data) at any time.
+You can ask us or third parties to stop sending you marketing messages at any time by logging into the website and checking or unchecking relevant boxes to adjust your marketing preferences or by following the opt-out links on any marketing message sent to you or by [contacting us](https://support.healthunlocked.com/contact) at any time.
 
 Where you opt out of receiving these marketing messages, this will not apply to personal data provided to us as a result of service experience or other transactions.
 
@@ -174,9 +172,9 @@ HealthUnlocked uses cookies to provide basic functionality and to improve the pe
 
 You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please see our [Cookie Policy](https://healthunlocked.com/policies/cookies) here.
 
-If you want to delete cookies that are already on your computer, please refer to the instructions for your particular system here: [http://www.aboutcookies.org/default.aspx?page=1.](http://www.aboutcookies.org/default.aspx?page=1)
+If you want to delete cookies that are already on your computer, please refer to the instructions for your particular system here: [https://www.aboutcookies.org/default.aspx?page=1.](https://www.aboutcookies.org/default.aspx?page=1)
 
-If you want to learn about how to control cookies, you can find instructions for your particular system here: [http://www.aboutcookies.org/default.aspx?page=2.](http://www.aboutcookies.org/default.aspx?page=2)
+If you want to learn about how to control cookies, you can find instructions for your particular system here: [https://www.aboutcookies.org/default.aspx?page=2.](https://www.aboutcookies.org/default.aspx?page=2)
 
 #####  **Authentication cookies**
 
@@ -192,7 +190,7 @@ When you share information on the site with other social networks, their cookies
 
 ####  **CHANGE OF PURPOSE**
 
-We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](https://support.healthunlocked.com/customer/portal/emails/new?ticket%5Bcustom_contact_options=Data).
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to get an explanation as to how the processing for the new purpose is compatible with the original purpose, please [contact us](https://support.healthunlocked.com/contact).
 
 If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
@@ -204,7 +202,7 @@ We may have to share your personal data with the parties set out below for the p
 
   * Internal Third Parties as set out in the Glossary.
   * External Third Parties as set out in the Glossary.
-  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice. If Everything Unlocked Ltd. is sold to or merges with another company not owned by Everything Unlocked Ltd., you should expect that some or all of the personal information collected from Our Site may be transferred to the buyer/surviving company. If so, Everything Unlocked Ltd. will seek to obligate the acquiring company to use any personal information transferred by Our Site in a manner consistent with this Privacy Statement, but you accept that the acquiring company will be responsible for use after the acquisition and that Everything Unlocked Ltd. cannot control this. If you do not wish the personal information you provide to be subject to this possibility, you should deactivate your membership by notifying deactivate@healthunlocked.com and including "DEACTIVATE" in the subject line or by deleting your account in your [account settings](https://healthunlocked.com/settings) in Our Site.
+  * Third parties to whom we may choose to sell, transfer, or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy. If Everything Unlocked Ltd. is sold to or merges with another company not owned by Everything Unlocked Ltd., you should expect that some or all of the personal information collected from Our Site may be transferred to the buyer/surviving company. If so, Everything Unlocked Ltd. will seek to obligate the acquiring company to use any personal information transferred by Our Site in a manner consistent with this Privacy Statement, but you accept that the acquiring company will be responsible for use after the acquisition and that Everything Unlocked Ltd. cannot control this. If you do not wish the personal information you provide to be subject to this possibility, you should deactivate your membership by notifying deactivate@healthunlocked.com and including "DEACTIVATE" in the subject line or by deleting your account in your [account settings](https://healthunlocked.com/settings) in Our Site.
 
 
 
@@ -226,7 +224,7 @@ Whenever we transfer your personal data out of the EEA, we ensure a similar degr
 
 
 
-Please [contact us](https://support.healthunlocked.com/customer/portal/emails/new?ticket%5Bcustom_contact_options=Data) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
+Please [contact us](https://support.healthunlocked.com/contact) if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
 ###  **7\. DATA SECURITY**
 
@@ -238,9 +236,11 @@ In order to register with us and become an account holder, you will be invited t
 
 You agree to notify [security@healthunlocked.com](mailto:security@healthunlocked.com) immediately of any unauthorized use of your account or any other breach of security. We will not be liable for any loss or damage that you may incur as a result of someone else using your password or account, either with or without your knowledge. However, you could be held liable for loss or damage incurred by us or another party due to someone else using your account or password. You may not use anyone else’s account at any time, without the express permission of the account holder. If you think that someone else has access to your password you should change it immediately.
 
+We take extensive measures to keep your personal data secure and to protect your privacy and will only process your data for the purposes set out within this privacy policy.
+
 None of your personally identifiable information (i.e. email address, postcode/zipcode, date of birth) is ever visible to other users or third parties without your explicit consent. We encourage you to choose a non-identifiable username as this is visible to other users.
 
-If you choose to use a username that may identify you, then certain information you choose to post may be identified as your data. This may also happen if you upload a photo of yourself, or a likeness of yourself, as a profile picture. Prior to posting any photo or likeness of you, choosing a username that may identify you, and/or post other information that may identify you, you should carefully consider whether you:
+You can choose what information you share with other HealthUnlocked users. If you chose to register using a username which could be used to identify you, or if you share other information using HealthUnlocked which allows you to be identified, information you have chosen to share from your profile, including Special Categories of Personal Data, could be identified as your data. This may also happen if you upload a photo of yourself, or a likeness of yourself, as a profile picture. Prior to posting any photo or likeness of you, choosing a username that may identify you, and/or posting other information that may identify you, you should carefully consider whether you:
 
   1. wish to be identifiable on Our Site; and
   2. want to post information that may be capable of being linked to you.
@@ -251,7 +251,7 @@ When you do, and you also make available Special Categories of data about yourse
 
 HealthUnlocked provides industry standard security across all of our platform and complies with health IT standards. We have secure connections (HTTPS) with 2048 bit encryption certificates across all the areas. All passwords assigned during the signup processes are protected using salted cryptographic hashing, and cannot be decrypted by us.
 
-Our third party cloud provider uses secure servers hosted in a protected environments with secure backups performed regularly and compliant with [ISO 27001](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=42103) and [HIPAA](http://www.hhs.gov/ocr/privacy/index.html). We update our security system regularly and perform ongoing research on new practices and technologies that can improve our services. HealthUnlocked has received assurance from an external auditor for its annual HIPAA Security audit.
+Our third party cloud provider uses secure servers hosted in a protected environments with secure backups performed regularly and compliant with [ISO 27001](https://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=42103) and [HIPAA](https://www.hhs.gov/ocr/privacy/index.html). We update our security system regularly and perform ongoing research on new practices and technologies that can improve our services. HealthUnlocked has received assurance from an external auditor for its annual HIPAA Security audit.
 
 Our service is hosted on third party servers. We have contracts in place with our third party service providers which require them to implement security measures to protect the data they hold and the current security provisions in place are described above.
 
@@ -263,7 +263,7 @@ We will only retain your personal data for as long as necessary to fulfil the pu
 
 To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. Generally, once an account has been closed we will process your data only for limited purposes, and would generally look to delete or anonymise data on inactive accounts after 7 years.
 
-Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by [contacting us](https://support.healthunlocked.com/customer/portal/emails/new?ticket%5Bcustom_contact_options=Data). 
+Details of retention periods for different aspects of your personal data are available in our retention policy which you can request from us by [contacting us](https://support.healthunlocked.com/contact). 
 
 In some circumstances you can ask us to delete your data: see Request erasure below for further information.
 
@@ -292,7 +292,7 @@ Under certain circumstances, you have rights under data protection laws in relat
 
  **Right to withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
 
-If you wish to exercise any of the rights set out above, please [contact us](https://support.healthunlocked.com/customer/portal/emails/new?ticket%5Bcustom_contact_options=Data).
+If you wish to exercise any of the rights set out above, please [contact us](https://support.healthunlocked.com/contact).
 
 ####  **NO FEE USUALLY REQUIRED**
 
@@ -310,7 +310,7 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 
 ####  **LAWFUL BASIS**
 
- **Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](https://support.healthunlocked.com/customer/portal/emails/new?ticket%5Bcustom_contact_options=Data).
+ **Legitimate Interest** means the interest of our business in conducting and managing our business to enable us to give you the best service/product and the best and most secure experience. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal data for our legitimate interests. We do not use your personal data for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). You can obtain further information about how we assess our legitimate interests against any potential impact on you in respect of specific activities by [contacting us](https://support.healthunlocked.com/contact).
 
  **Performance of Contract** means processing your data where it is necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract.
 
