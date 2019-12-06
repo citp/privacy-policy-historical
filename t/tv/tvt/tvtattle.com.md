@@ -1,43 +1,91 @@
-> *The following text is extracted and transformed from the tvtattle.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329201106id_/https%3A//www.tvtattle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtattle.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207003546id_/https%3A//www.primetimer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TV Tattle
+# Privacy Policy - PRIMETIMER
 
 ### Privacy Policy
 
-**Introduction.**
+It is our policy to respect the privacy of the people who access and use our site and the services we provide to you on the site. Your accessing and continued use of our site and services constitutes your consent to and acceptance of the terms and conditions of this Privacy Policy. This Privacy Policy applies to information that you provide to us through our site and our services, and when you access, download, purchase or use any information, services, products or content appearing on our site. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on this site. You should consult this Privacy Policy regularly for any changes.
 
-The following statement describes the policy of Snugglefish Media ("we," "us" and derivatives) with respect to the personal information that we may collect from the users of this website, TV Tattle. This statement does not apply to any third party entities or their websites to which we may link. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.
+**What information do we collect?**
 
-**Information Collection.**
+We collect information from you when you register on our site and/or fill out a form. When registering or filling out a form on our site, you may be asked to enter your name, e-mail address, and age. However, you may visit our site anonymously, if you prefer.
 
-Snugglefish Media, LLC is the sole owner of the information collected on this website. We collect information from users of this website in the following ways:
+We, and/or our ad providers, may also collect non-personally identifiable information, such as technical data or information such as your age, gender or interests. This information will not identify you personally. Here are examples of such information that may be collected:
 
-_Email Submissions and Tips._ We require a user to enter a valid email address when the user submits a tip via our "Tips and Submissions" form. We also retain a copy of all emails sent to us from users of this site. While we will not sell or license the email addresses of our users to any third parties, we reserve the right to send our users occasional updates related to this site.
+Your IP address, which information can be used to deliver our webpages to you on request, to tailor or suit to the interests of our users and to measure traffic within our site.
 
-_Amazon Associates._ Our site participates in the Amazon Associates program offered by Amazon.com. We are not privy to the type of personal information collected by Amazon.com as a result of a user's purchase of a product through our Amazon Associate pages. This privacy statement does not apply to Amazon.com.
+Cookies, which are small text files that may be used to collect information about your activity on the site. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but, if you do, you may not be able to take advantage of the personalized features enjoyed by other users to our site. Cookies are harmless, but they may contain demographic information and, depending on your browser, these cookies may not normally be deleted when your cookies are otherwise deleted. Please check your browser to determine where these types of cookies are stored and how they may be deleted.
 
-_Cookies._ A cookie is a packet of information that includes specific information regarding a user of this website. We use cookies for user authentication, user tracing, and maintaining user-specific information. Our cookies are both session-specific and "persistent." Session-specific cookies are designed to ease our users' use and navigation of this website, and may, for example, temporarily retain information entered into an online form. They are deleted when a user closes out of the user's browser. "Persistent" cookies are small files stored on the user's hard drive, and are used by this site to identify returning users. Third party advertisers may place and/or recognize cookies on our site. However, we have no access to or control over these cookies, and this policy does not apply to the practices of such third parties. 
+Web beacons, which are tiny graphics with a unique identifier, similar in function to cookies, and are used to allow us to count users who have visited certain pages of the site and to help determine the effectiveness of promotional or advertising campaigns. When used in html-formatted email messages, web beacons can tell the sender whether and when the email has been opened. Unlike cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on web pages.
 
-_Third Party Advertising._ Some of the advertisements that appear on this site may be delivered by a third party advertising server. Information about a user's visit to this site, such as number of times the user views an advertisement (but not user name, email address, or other personal user information), is used to serve ads to users on this site.
+**We and/or our ad providers collect the above non-personally identifiable information from all visitors to our site. If you do not want us or ad providers to have access to this information, please do not visit our site.**
 
-_Server Log and Third Party Analytics Tools._ Our servers maintain a history of this site's page requests in a log file. This log contains information regarding our users' internet protocol addresses, browser types, internet service providers, referring addresses, platform types, date and time stamps, and numbers of clicks. We use these log files to analyze the use of our site, administer the site, and track aggregate demographic information. The data contained in these log files are not linked to personally identifiable information. We may also use third-party analytics tools, to help us measure traffic and usage trends for the Service and to understand more about the demographics of our visitors. 
+Also, some ads on this site may be provided through Google. Google uses a cookie system known as DART, which enables Google to provide ads specifically to you, based on your visits to this site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy and following the instructions there.
 
-**Information Disclosure.**
+**What do we use your information for?**
 
-We not license, sell, or share personal information about our users with third parties or companies unaffiliated with us, except:
+Any of the information we collect from you may be used in one of the following ways:
 
-\- If you have provided us with permission to do so;
+  1. To personalize your experience (your information helps us to better respond to your individual needs)
+  2. To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  3. o improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  4. To administer a contest, promotion, survey or other site feature
 
-\- If required by law, and as necessary to comply with a judicial proceeding, a court order or legal process served on us or this website;
 
-\- If necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Terms of Use; and
 
-\- If a third party acquires us or this website, or in the event of our merger with a third party, upon which we will make reasonable efforts to notify users before user information is transferred and becomes subject to a different privacy policy.
+**How do we protect your information?**
 
-**Notification of Changes.**
+We offer the use of a secure server. However, we cannot and do not guarantee that, despite our security efforts, your private information cannot be obtained by a third party.
 
-If we change our privacy policy, we will make reasonable efforts to notify users of such a change, for example, by posting any such changes on this site.
+**Do we use cookies?**
 
-**Contact Information.**
+Yes. We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-Please feel free to [contact us](https://web.archive.org/web/20190329201106id_/https%3A//www.tvtattle.com/feedback.html) with any questions regarding our privacy statement.
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Despite the foregoing, please remember that this privacy statement applies solely to information collected on our site. Our site may contain links to other web sites. We are not responsible for the privacy policies or practices or the content of other web sites to which we link or which link to us. Also, we may use advertisers, third party ad networks, and other advertising companies to serve ads on our site. Please be advised that such advertising companies may gather information about your visit to our site or other sites (such as through cookies, web beacons and other technologies) to enable such advertising companies to market products or services to you, to monitor which ads have been served to your browser and which webpages you were viewing when such ads were delivered. **Please note that our policy does not cover the collection and use of information by such third parties.**
+
+If all or part of our assets are acquired by, sold or otherwise transferred to another party, or in the event of a merger, you grant us the right to assign to such other party the personally identifiable and non-personally identifiable information collected via the site.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent, except as set forth above.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not knowingly collect any information from anyone under 13 years of age. Our website and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information that might be collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.primetimer.com/terms>
+
+**Disclaimer**
+
+**YOUR PRIVACY IS IMPORTANT TO US. HOWEVER, NO DATA TRANSMISSIONS OVER THE INTERNET CAN BE GUARANTEED TO BE 100% SECURE. CONSEQUENTLY, WE CANNOT ENSURE OR WARRANT THE SECURITY OF ANY INFORMATION YOU TRANSMIT TO US. YOU UNDERSTAND THAT ANY INFORMATION THAT YOU TRANSFER TO US IS DONE AT YOUR OWN RISK. ONCE WE RECEIVE YOUR TRANSMISSION, WE WILL MAKE REASONABLE EFFORTS TO ENSURE SECURITY ON OUR SYSTEMS. HOWEVER, THIS IS NOT A GUARANTEE THAT SUCH INFORMATION MAY NOT BE ACCESSED, DISCLOSED, ALTERED OR DESTROYED BY BREACH OF OUR SYSTEMS. IF WE LEARN OF A SECURITY SYSTEM BREACH WE MAY ATTEMPT TO NOTIFY YOU ELECTRONICALLY SO THAT YOU CAN TAKE APPROPRIATE PROTECTIVE STEPS. BY USING THE SITE OR PROVIDING PERSONALLY IDENTIFIABLE INFORMATION TO US YOU AGREE THAT WE CAN COMMUNICATE WITH YOU ELECTRONICALLY REGARDING SECURITY, PRIVACY AND ADMINISTRATIVE ISSUES RELATING TO YOUR USE OF THIS SITE. WE MAY POST A NOTICE ON OUR SITE IF A SECURITY BREACH OCCURS. WE MAY ALSO SEND AN EMAIL TO YOU AT THE EMAIL ADDRESS YOU HAVE PROVIDED TO US.**
+
+**Your Consent**
+
+By using our site, you consent to our web site privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+
+This policy was last modified on April 7, 2019.
+
+**Consumer Education Related to Social Networking**
+
+Creating a safe social networking environment is important to us. While we do not target or knowingly allow users under 13 to use ours site, interested persons may visit the following links created by the Federal Trade Commission to learn more about social networking safety tips:
+
+<http://onguardonline.gov/socialnetworking.html>  
+<http://onguardonline.gov/socialnetworking_youth.html>
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us via [this form](https://web.archive.org/web/20191207003546id_/https%3A//www.primetimer.com/feedback.html)
