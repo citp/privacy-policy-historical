@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mintly.in privacy policy that was archived on 2018-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181110223155id_/http%3A//www.mintly.in/sales/auth/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mintly.in privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206184902id_/https%3A//www.mintly.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Job Seekers and Recruiters
 
@@ -6,9 +6,9 @@ Privacy Policy
 
 This Privacy Policy was last modified on Sep 15, 2017.
 
-HR CUBE LLC ("us", "we", or "our") operates [www.hrcube.com](http://www.mintly.in/sales/) (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+Mintly ("us", "we", or "our") operates [www.mintly.in](https://www.mintly.in/) (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.hrcube.com.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at www.mintly.in.
 
 Information Collection And Use
 
@@ -30,13 +30,13 @@ Google, as a third party vendor, uses cookies to serve ads on our Site. Google's
 
 You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the [Google Ads Settings](https://www.google.com/ads/preferences/) page.
 
-HR CUBE LLC uses Remarketing with Google Analytics to advertise on third party sites to you after you visited our Site. We and our third party vendors, like Google, use first party cookies (such as the Google Analytics cookie) and third party cookies (such as the DoubleClick cookie) to inform, optimize and serve ads based on your past visits to our Site.
+Mintly uses Remarketing with Google Analytics to advertise on third party sites to you after you visited our Site. We and our third party vendors, like Google, use first party cookies (such as the Google Analytics cookie) and third party cookies (such as the DoubleClick cookie) to inform, optimize and serve ads based on your past visits to our Site.
 
 You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the [Google Ads Settings](https://www.google.com/settings/ads) page. Google also recommends installing the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout) for your browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
 Do Not Track Disclosure
 
-HR CUBE LLC does not respond to Do Not Track (DNT) signals.
+Mintly does not respond to Do Not Track (DNT) signals.
 
 Do Not Track (DNT) is a preference you can set in your web browser to let the websites you visit know that you do not want to be tracked. You can disable or enable this setting by visiting the Preferences or Settings menu of your web browser.
 
@@ -46,11 +46,11 @@ We may use your Personal Information to contact you with newsletters, marketing 
 
 Compliance With Laws
 
-HR CUBE LLC will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Site.
+Mintly will disclose your Personal Information where required to do so by law or subpoena or if we believe that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of our Site.
 
 Business Transaction
 
-If HR CUBE LLC is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
+If Mintly is involved in a merger, acquisition or asset sale, your Personal Information may be transferred. We will provide notice before your Personal Information is transferred and becomes subject to a different Privacy Policy.
 
 Security
 
@@ -60,16 +60,16 @@ Links To Other Sites
 
 Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-HR CUBE LLC has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
+Mintly has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
 Children's Privacy
 
-Our Site does not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and are aware that your Children has provided us with Personal Information, please [contact us.](https://web.archive.org/jobs/contact/) If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
+Our Site does not address anyone under the age of 13 ("Children"). We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and are aware that your Children has provided us with Personal Information, please [contact us.](https://web.archive.org/content/contact/) If we discover that a Children under 13 has provided us with Personal Information, we will delete such information from our servers immediately.
 
 Changes To This Privacy Policy
 
-HR CUBE LLC may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
+Mintly may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
 Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us.](https://web.archive.org/jobs/contact/)
+If you have any questions about this Privacy Policy, please [contact us.](https://web.archive.org/content/contact/)
