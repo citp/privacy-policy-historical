@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lcsun-news.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526220148id_/https%3A//cm.lcsun-news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcsun-news.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206132534id_/https%3A//cm.lcsun-news.com/privacy) for the most accurate reproduction.*
 
-# static.lcsun-news.com
+# Las Cruces Sun-News
 
 Last Updated: May 14, 2018
 
