@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2019-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190208112104id_/https%3A//leasing.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contracthireandleasing.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206212040id_/https%3A//leasing.com/privacy-terms) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Leasing.com
 
@@ -6,13 +6,15 @@ At Leasing.com (a website operated by Leasing.com Group Ltd (company number: 039
 
 We have published this data protection guide to ensure that you are fully aware of how and why we collect information about you, to whom such information is disclosed and what your rights are. You should ensure that you have read and understood this guide before providing your information to us.
 
-This guide, along with our **Terms of Use** and **Cookie Policy** sets out how we will use your personal information.
+This guide, along with our **Terms of Use**, **Cookie Policy** and [**Application Form Privacy Policy**](https://web.archive.org/application-form-privacy-terms/) sets out how we will use your personal information.
 
 ## PRIVACY POLICY
 
 ### What personal information do we collect and how do we obtain it?
 
 We receive your personal information when you complete any of the forms on any of our websites, register to receive our newsletter or enter one of our competitions.
+
+If you have been invited to make an application for a lease deal via our website, please see our [**Application Form Privacy Policy**](https://web.archive.org/application-form-privacy-terms/) which describes how we will use your personal information in connection with such application.
 
 We also use cookies on our website which may (with your consent) collect personal information about you. Please see our **Cookie Policy** for further information. Please see the “How do we use your information?” section below for further details of the personal information we collect.
 
@@ -145,25 +147,25 @@ Cookies are small encrypted text files that are stored on your computer or other
 
 ### Types of Cookies
 
- **Session Cookies**
+**Session Cookies**
 
 Session cookies are stored in your computer's memory for the length of your browsing session. They become inaccessible after the session has been inactive for a time and are automatically deleted from your computer when the browser is closed. They help keep track of your progress so you don't have to enter the same information more than once.
 
- **Persistent Cookies**
+**Persistent Cookies**
 
 Persistent cookies are stored on the user's computer memory and are not deleted when the browser is closed. They are used to keep your preferences for the website, so that they will be remembered for next time you visit the website. They are also used to collect information about the numbers of visitors, the average time spent on a particular page and analyse browsing behaviour on the website. This information is used to find out how well the website works and where it can be improved.
 
- **First Party Cookies**
+**First Party Cookies**
 
 These are cookies set by this website. Some are necessary to the functionality of the site, others provide information to us that we analyse to monitor and improve the site. These cookies will be deleted after each session.
 
- **Third Party Cookies**
+**Third Party Cookies**
 
 We want to provide interesting and engaging content on our website and provide relevant advertisements to you relating to products and services in which you have shown an interest. On a number of pages we use 'plug ins' or embedded media.
 
 For example, we embed YouTube videos and Advertising in many pages. We may also collect and store your IP address to enable us to serve relevant advertisements to you through your internet browser. The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content.
 
- **Sharing with social networks**
+**Sharing with social networks**
 
 If you use the buttons that allow you to share products and content with your friends via social networks like Twitter and Facebook, these companies may set a cookie on your computer. Find out more about these here:
 
@@ -185,50 +187,122 @@ Please visit [**www.youronlinechoices.com**](http://www.youronlinechoices.com/) 
 
 ### Conditions of using this website
 
- **1.** We (Leasing.com Group Ltd) provide this website (as renamed, relocated, re-designed or otherwise changed from time to time) (Website). We are a limited company registered in England and Wales (registration number 3934283) and our registered office is at Domain House, 4 Watchgate, Newby Road, Hazel Grove, Stockport, SK7 5DB.
+**1.** We (Leasing.com Group Ltd) provide this website (as renamed, relocated, re-designed or otherwise changed from time to time) and all content and functionality available on it from time to time (Website). We are a limited company registered in England and Wales (registration number 3934283) and our registered office is at Domain House, 4 Watchgate, Newby Road, Hazel Grove, Stockport, SK7 5DB.
 
- **2.** We legally own a wide range of intellectual property rights used in and relating to the Website, including:
-
-     1\. the car deal-listings directory database ('the database') which you can get access to using our Website;
-
-     2\. the design, text, graphics and other content of the web pages on the Website, together with all the web addresses associated with those web pages;
-
-     3\. in all the software used in relation to this Website.
+**2.** We are authorised and regulated by the Financial Conduct Authority and are a credit broker and not a lender.
 
 ### About these conditions
 
- **1.** For the purpose of these conditions, we refer to the Website and the database collectively as 'the Website'.
+**1.** For the purpose of these conditions, we refer to the Website and the database collectively as 'the Website'.
 
- **2.** If you log on to or use any part of the Website you agree to these conditions. If you do not want to agree to these conditions, do not log on to or use this Website.
+**2.** If you log on to or use any part of the Website you agree to these conditions. If you do not want to agree to these conditions, do not log on to or use this Website.
 
- **3.** We may change these conditions at any time without giving you notice. Please check these conditions from time to time for any changes. By continuing to use the Website you agree to all the changes we make to these conditions.
+**3.** We may change these conditions at any time without giving you notice. Please check these conditions from time to time for any changes. By continuing to use the Website you agree to all the changes we make to these conditions.
+
+**4.** Certain provisions of these conditions may only apply to you if you are using the Website as a consumer, rather than a business user, and vice versa. We have made it clear where this is the case.
 
 ## Using the Website
 
- **1.** The Website allows you to search for car deals and to contact the organisations that provide these deals and services. You are allowed to use the Website and the results of any search you carry out on the website for this purpose unless this is not allowed under paragraph 6 of these conditions.
+**1.** You must be 18 or over to use the Website.
 
- **2.** Prices on the Website are for information purposes only and do not constitute an offer by advertisers which is capable of acceptance by you.
+**2.** The Website allows you to:
 
- **3.** The information contained on the Website and from any communication related to the Website does not constitute financial advice.
+     a. search for car deals and to contact the organisations that provide these deals and services (such organisations being 'the **advertisers** ') ('the **Search Functionality** '); and
 
- **4.** We may limit your access to some parts of the Website depending on whether you have registered with us. Please do not tell other people your log in, password or any other piece of information that is part of our security procedures. We take steps to prevent people misusing the Website and to make sure that our rights are not affected.
+     b. where you have been invited to do so, submit an application for a car lease deal to an advertiser ('the **Application Functionality** ').
 
- **5.** We process information about you in line with our [**privacy policy**](https://leasing.com/privacy-policy/). By using the Website, you agree to the way in which we process your personal information.
+**3.** You are allowed to use the Website and the results of any search you carry out on the Website for the purposes set out above, unless this is not allowed under the your use of the Website section of these conditions.
 
- **6.** You cannot use the Website:
+**4.** Prices of car deals made available on the Website by advertisers are for information purposes only and do not constitute an offer by advertisers which is capable of acceptance by you. Prices are subject to change on a regular basis. This applies to both the Search Functionality and the Application Functionality.
 
-     1\. for any unlawful purpose;
+**5.** The information contained on the Website and from any communication related to the Website does not constitute financial advice. 
 
-     2\. to harm, threaten, abuse or harass another person, or in a way that invades someone's privacy or is (in our reasonable opinion) offensive or is unacceptable or damaging to us;
+**6.** We may limit your access to some parts of the Website depending on whether you have registered for an account with us.
 
-     3\. to create, check, confirm, update or amend your own or someone else's databases, records, directories, customer lists, mailing or prospecting lists;
+**7.** Please do not tell other people your log in, password or any other piece of information that is part of our security procedures.
 
-     4\. to tamper with, update or change any part of the Website;
+**8.** We have the right to disable any log in or password, whether chosen by you or allocated by us, at any time if in our reasonable opinion you have failed to comply with any of the provisions of these conditions.
 
-     5\. in a way that affects how it is run;
+**9.** Although we take reasonable steps to prevent people misusing the Website and to make sure that your information is protected, given the nature of the internet, we cannot guarantee the security of your information.
 
-     6\. in a way that imposes an unreasonable or disproportionately large burden on our technical systems as determined by us; or
+### Personal data
 
-     7\. using any automated means to monitor, copy or scrape the Website or its content, or to interfere with or attempt to interfere with how the Website works.
+**1.** We process information about you in line with our **privacy policy**. By using the Website, you agree to the way in which we process your personal information. 
 
- **7.** Unless otherwise stated, these terms shall apply to all Websites operated by us from time to time.
+### Your use of the website
+
+**1.** You cannot use the Website:
+
+     a. for any unlawful purpose; to harm, threaten, abuse or harass another person, or in a way that invades someone's privacy or is (in our reasonable opinion) offensive or is unacceptable or damaging to us; to create, check, confirm, update or amend your own or someone else's databases, records, directories, customer lists, mailing or prospecting lists;
+
+     b. to tamper with, update or change any part of the Website;
+
+     c. in a way that affects how it operates;
+
+     d. to transmit any material that is defamatory, offensive or otherwise objectionable; 
+
+     e. in a way that imposes an unreasonable or disproportionately large burden on our technical systems as determined by us; or
+
+     f. using any automated means to monitor, copy or scrape the Website or its content, or to interfere with or attempt to interfere with how the Website works.
+
+**2.** You shall not input any personal data relating to any other person to the Website. 
+
+**3.** Unless otherwise stated, these conditions shall apply to all Websites operated by us from time to time.
+
+**4.** The Website may contain links to other independent websites which are not operated by us. Such websites are not under our control and we are not responsible for and have not checked and approved their content or their privacy policies (if any). You will need to make your own independent judgement about whether to use any such independent websites, including whether to buy any products or services offered by them.
+
+**5.** We do not guarantee that the Website, or any content on it, will always be available or be uninterrupted. We may suspend or withdraw or restrict the availability of all or any part of the Website for business and operational reasons. 
+
+### Application functionality
+
+**1.** If you use the Application Functionality, the following terms shall apply:
+
+     a. we act as a credit broker and not a lender;
+
+     b. we will transfer all the information inputted by you to an application form (including your personal data) to the advertiser who has invited you to complete such application form (who may also share this information with a lender on who behalf they are acting) to determine your eligibility for credit;
+
+     c. the application form is an application for finance. Before completing and submitting the form you should ensure that you fully understand the finance for which you are applying and the terms upon which such finance may be granted;
+
+     d. an invitation to apply for finance is not an offer of finance capable of your acceptance and we provide no guarantee that your application will be accepted by the relevant advertiser or result in entry into a finance deal;
+
+     e. an invitation for an application may be withdrawn by the advertiser or rejected by you at any time prior to submission of the application to the advertiser. We provide no guarantees or representations in respect of the continued availability of any invitation to make an application; 
+
+     f. you are solely responsible for ensuring that all information inputted by you into the application form is complete, accurate and up to date and that the vehicle and lease agreement in respect of which you are making an application is the correct agreement; 
+
+     g. you understand that a check in respect of your credit history may be carried out by the advertiser following receipt of your application to determine your eligibility for the lease agreement. This will leave a record on your credit history which could (particularly if multiple checks are performed in a short period of time) adversely affect your credit score and affect your ability to apply for future credit, regardless of whether a lease agreement is entered into; and 
+
+     h. you may only complete an application form on your own account and shall not complete an application form on behalf of any other person save where you are applying for a business leasing deal and have been duly authorised by the relevant applicant to make such application on their behalf.
+
+### Our liability
+
+**1.** We do not exclude or limit in any way our liability to you where it would be unlawful to do so. This includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors and for fraud or fraudulent misrepresentation.
+
+**2.** Subject to point 1 of this section, we will not be liable to you for any loss or damage suffered or incurred by you as a result of: (i) the conduct (including any omissions) of an advertiser; and (ii) any breach by you of these conditions.
+
+**3.** Although we make reasonable efforts to update the information made available on the Website we rely on our advertisers to provide correct and up to date information to use and we make no representations, warranties or guarantees, whether express or implied, that such information is accurate, complete or up to date and shall not be responsible for any loss or damage suffered by you as a result of reliance on such information.
+
+**4.** We recommend that you back up any information submitted to the Website which you wish to retain for future use. Such information may be removed from the Website at any time without prior notice.
+
+**5\. If you are a business user:**
+
+     a. We exclude all implied conditions, warranties, representations or other terms that may apply to the Website, any content on it and/or any functionality made available through it.
+
+     b. We will not be liable to you for any loss or damage, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, even if foreseeable, arising under or in connection with: (i) use of, or inability to use, the Website; or (ii) use of or reliance on any content displayed on or functionality of the Website. In particular, we will not be liable for: (i) loss of profits, sales, business, or revenue; (ii) business interruption; (iii) loss of anticipated savings; (iv) loss of business opportunity, goodwill or reputation; or (v) any indirect or consequential loss or damage.
+
+**6\. If you are a consumer user** you should only use the Website for domestic and private use. You agree not to use the Website for any commercial or business purposes, and we have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
+
+### Intellectual property rights
+
+**1.** We legally own a wide range of intellectual property rights used in and relating to the Website, including:
+
+     a. the car deal-listings directory database ('the database') which you can get access to using our Website;
+
+     b. the design, text, graphics and other content of the web pages on the Website, together with all the web addresses associated with those web pages;
+
+     c. in all the software used in relation to this Website.
+
+### Applicable laws
+
+**1.** If you are a consumer, please note that these conditions, their subject matter and their formation, are governed by English law. You and we both agree that the courts of England and Wales will have exclusive jurisdiction except that if you are a resident of Northern Ireland you may also bring proceedings in Northern Ireland, and if you are resident of Scotland, you may also bring proceedings in Scotland.
+
+**2.** If you are a business, these conditions, their subject matter and their formation (and any non-contractual disputes or claims) are governed by English law. We both agree to the exclusive jurisdiction of the courts of England and Wales.
