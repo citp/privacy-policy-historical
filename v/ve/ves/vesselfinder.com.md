@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vesselfinder.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330231508id_/https%3A//www.vesselfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesselfinder.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206011516id_/https%3A//www.vesselfinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - VesselFinder
 
@@ -102,4 +102,4 @@ In addition, we have the right to delete any account at any time if required to 
 
 ## How to Contact us?
 
-VesselFinder welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this Policy, please contact us by submitting a request [here](https://web.archive.org/contact).
+VesselFinder welcomes your feedback regarding this Privacy Policy. If you have questions, comments or concerns about this Policy, please contact us by submitting a request [here](https://web.archive.org/contact). 
