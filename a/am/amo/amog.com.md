@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amog.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627102801id_/http%3A//www.amog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amog.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206191713id_/http%3A//www.amog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AMOG
 
