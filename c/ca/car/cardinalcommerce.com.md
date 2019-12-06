@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cardinalcommerce.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525035450id_/https%3A//www.cardinalcommerce.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardinalcommerce.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206132318id_/https%3A//www.cardinalcommerce.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Effective: May 23, 2018
 
-Cardinal Commerce (“Cardinal”) is committed to protecting the privacy and security of your Personal Information. The information you share with us allows us to provide the best experience with our products and services. We have a Global Privacy Program that protects all the Personal Information we collect and helps ensure that Personal Information is handled properly worldwide. Please read below to learn how we collect, use and disclose Personal Information.
+CardinalCommerce (“Cardinal”) is committed to protecting the privacy and security of your Personal Information. The information you share with us allows us to provide the best experience with our products and services. We have a Global Privacy Program that protects all the Personal Information we collect and helps ensure that Personal Information is handled properly worldwide. Please read below to learn how we collect, use and disclose Personal Information.
 
 This Privacy Notice explains the privacy practices of Cardinal and those Affiliates1 whose websites, platforms or services link to it.  
 
@@ -315,6 +315,8 @@ Visa Global Privacy Office
 900 Metro Center Boulevard  
 Foster City, CA 94494   
 USA
+
+**[Visa Global Privacy Notice](https://usa.visa.com/legal/global-privacy-notice.html)**
 
 * * *
 
