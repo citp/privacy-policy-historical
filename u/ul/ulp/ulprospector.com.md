@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ulprospector.com privacy policy that was archived on 2018-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181130161735id_/https%3A//www.ulprospector.com/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulprospector.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206222033id_/https%3A//www.ulprospector.com/en/Privacy) for the most accurate reproduction.*
 
 # Prospector Privacy Statement
 
 Privacy Notice
 
-##### Effective Date: September 25, 2018
+##### Effective Date: August 22, 2019
 
-Please take a few minutes to familiarize yourself with our Privacy Notice. This Privacy Notice applies to all webpages on [www.ulprospector.com](https://www.ulprospector.com/) and [www.iq.ulprospector.com](https://iq.ulprospector.com/) (collectively referred to as the "Site") offered by Underwriters Laboratories Inc. or its subsidiaries or affiliated companies (collectively referred to as "UL"). The first part of this Privacy Notice details our general privacy practices for visitors of the Site. The second part outlines specific privacy practices applying to registered members of the Site, which may be different from the general privacy practices. YOUR USE OF THE SITE CONSTITUTES ACCEPTANCE OF UL's PRIVACY NOTICE.
+Please take a few minutes to familiarize yourself with our Privacy Notice. This Privacy Notice applies to all webpages on [www.ulprospector.com](https://www.ulprospector.com/) and [iq.ulprospector.com](https://iq.ulprospector.com/) (collectively referred to as the "Site") offered by Underwriters Laboratories Inc. or its subsidiaries or affiliated companies (collectively referred to as "UL"). The first part of this Privacy Notice details our general privacy practices for visitors of the Site. The second part outlines specific privacy practices applying to registered members of the Site, which may be different from the general privacy practices. YOUR USE OF THE SITE CONSTITUTES ACCEPTANCE OF UL's PRIVACY NOTICE.
 
 ### GENERAL PRIVACY PRACTICES
 
@@ -144,12 +144,12 @@ UL uses cookies to enhance website functionality. Cookies allow us to remember y
   
 Marketing and Sharing Data: 
 
-UL exists to make the world a safer place, including putting customers in touch with suppliers of good quality and safe products and services. Originally this was done via a paper directory of UL certified goods and services, now that happens via our websites. An inherent part of that business model is marketing our service and sharing customer data with UL client companies to enable their follow up sales and marketing activity. These activities are viewed as legitimate UL interests. You are agreeing to these data uses when you tick the Terms and Conditions box.
+UL exists to make the world a safer place, this includes helping customers and stakeholders find suppliers of products and services that meet their needs. Originally this was done via a paper directory of UL certified goods and services, now that happens via our websites. An inherent part of that business model is marketing our service and sharing customer data with UL client companies to enable their follow up sales and marketing activity. These activities are viewed as legitimate UL interests. You are agreeing to these data uses when you tick the Terms and Conditions box.
 
 Types of recipient companies include:
 
-  * Suppliers of UL certified products and services listed on Product iQ
-  * Suppliers of products and services listed on Prospector, including their distributors that may send product samples or otherwise follow up on products or services the member has expressed an interest in
+  * Suppliers of products and services that are certified, or otherwise evaluated, by UL and listed on Product iQ
+  * Suppliers of products and services listed on Prospector, including their partners (i.e. distributors, converters, etc.) that may send product samples or otherwise follow up on products or services the member has expressed an interest in
 
 **What we do** | **Why we do it**  
 ---|---  
@@ -170,7 +170,7 @@ Sharing member, subscriber, and site usage details with UL client companies who 
 
 | 
 
-UL sells member and subscriber details to companies who provide goods and services that those members or subscribers have implicitly or explicitly expressed an interest in during site registration, or site use. Note that this use is required for membership.
+UL sells member and subscriber details to companies who provide goods and services that those members or subscribers have implicitly or explicitly expressed an interest in during site registration, or site use. Note that this use is required for membership. Members who register as consumers and do not use Product iQ in a professional capacity will not have their information used in this way.
 
 The companies who receive those details are required to limit usage to the purposes agreed with UL at the time of collection, or notify you should there be any substantial change in planned usage.  
   
@@ -180,7 +180,7 @@ UL using member and subscriber contact details to create direct email marketing 
 
 UL will create mailing lists of members and subscribers based on the goods and services they have expressed an explicit or implicit interest in during site registration or use. 
 
-The lists will be used by UL to create direct email marketing campaigns that UL will carry out as a paid service offered to client companies.   
+The lists will be used by UL to create direct email marketing campaigns that UL will carry out as a paid service offered to client companies. Members who register as consumers and do not use Product iQ in a professional capacity will not be part of these marketing campaigns.   
   
 Should you object to your data being shared and used in this way please either contact UL through the Contact Us button on the Site, or contact the client firm directly through the methods provided when contacting you. You may also update your preferences and your member information by accessing your Member Account page on the Site.
 
