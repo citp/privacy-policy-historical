@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allivet.com privacy policy that was archived on 2019-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190619022832id_/https%3A//www.allivet.com/t-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allivet.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206124237id_/https%3A//www.allivet.com/t-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,7 @@ This online privacy policy applies only to information collected through our web
 
 ##### Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20190619022832id_/https%3A//www.allivet.com/t-terms-and-conditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20191206124237id_/https%3A//www.allivet.com/t-terms-and-conditions.aspx) section establishing the use, disclaimers, and limitations of liability governing the use of our website.  
 
 
 ##### Your consent
