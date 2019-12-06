@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613190010id_/https%3A//www.allconnect.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allconnect.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206145244id_/https%3A//www.allconnect.com/corporate/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Allconnect
-
-## Privacy Policy
+# Privacy Policy - Allconnect
 
 _Allconnect_ ® respects your privacy and is committed to protecting personal information you may provide us through our website.
 
@@ -16,7 +14,7 @@ We urge you to read this privacy policy so that you understand our commitment to
 
 We collect information from you in a number of ways including when you use our site, create an online account, request information, sign up for newsletters or our email list, post a review, make a purchase, participate in a survey or contest, or otherwise contact or interact with us. The information we collect may include your name, address, email address, telephone number, social security number, billing information, credit information and other information you provide to us via this website. We use the information to improve our service to you, fulfill your request for services, provide you with updates, respond to your requests, to notify contest winners and award prizes.
 
-Our website also offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [customercare@allconnect.com](mailto:customercare@allconnect.com).
+Our website also offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [customercare@allconnect.com](mailto:customercare@allconnect.com).
 
 Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our website.
 
@@ -26,7 +24,7 @@ We gather and store certain information about your visit automatically. We typic
 
 We may also collect information about your use of our website through cookies and similar technology. A “cookie” is a small file we transfer to your computer, so we can keep track of your interests and/or preferences and recognize you as a return visitor. For example, we may use these technologies to collect information about ways visitors use our websites, track users’ movements around the website (session replay), to support the features and functionality of our websites, and to personalize your experience when you use our website.
 
-This website also uses a tool called Google Analytics to collect information about your use of this site. The tool uses cookies to collect standard internet log and visitor behavior information. This information is used to optimize the functionality of our site and serve ads to you based on your past visits. You may opt-out of Google Analytics cookies by visiting [this link](https://tools.google.com/dlpage/gaoptout/).
+This website also uses a tool called Google Analytics to collect information about your use of this site. The tool uses cookies to collect standard internet log and visitor behavior information. This information is used to optimize the functionality of our site and serve ads to you based on your past visits. You may opt-out of Google Analytics cookies by visiting [this link](https://tools.google.com/dlpage/gaoptout/).
 
 If you don’t want us to use cookies when you use our website, you will need to change your internet browser settings so that your browser does not accept them. For more information about cookies, visit the help page for your web browser or see http:www.allaboutcookies.org. Please note that if you disable your web browser’s cookies and other technologies, certain features of our website and services will be disabled and you will limit the functionality we can provide when you visit our site.
 
@@ -34,7 +32,7 @@ By visiting our website or using any of our services, you consent to our collect
 
 ## **What Information May Be Collected By Third Parties?**
 
-When accessing our website or services, you may have the option to obtain a coupon or purchase products and services from a third party through our website. For example, when you sign up to initiate service to your home by a third party service provider, _Allconnect_ passes the personal information needed for that service on to the third party service provider that provides services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. Please pay close attention when you obtain a coupon or are purchasing products and services from a third party because different rules may apply to those parties’ use or disclosure of such information regardless of their affiliation or relationship with us. This privacy policy only addresses the use and disclosure of personal information collected by us and not third parties from whom you may obtain a coupon or purchase products and services.
+When accessing our website or services, you may have the option to obtain a coupon or purchase products and services from a third party through our website. For example, when you sign up to initiate service to your home by a third-party service provider,  _Allconnect_  passes the personal information needed for that service on to the third-party service provider that provides services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. Please pay close attention when you obtain a coupon or are purchasing products and services from a third party because different rules may apply to those parties’ use or disclosure of such information regardless of their affiliation or relationship with us. This privacy policy only addresses the use and disclosure of personal information collected by us and not third parties from whom you may obtain a coupon or purchase products and services.
 
 ### **Information Collected from Other Sources**
 
@@ -42,7 +40,7 @@ We may obtain information about you from other sources, including commercially a
 
 ## **Information Use**
 
-In addition to the uses described above, we use your personal information to personalize our offerings to you, improve the usage and functionality of our site, and process payments. We also use your personal information to support our business functions, such as fraud prevention, marketing, and legal functions. To do this, we combine personal and non-personal information, collected online and offline, including information from third party sources.
+In addition to the uses described above, we use your personal information to personalize our offerings to you, improve the usage and functionality of our site, and process payments. We also use your personal information to support our business functions, such as fraud prevention, marketing, and legal functions. To do this, we combine personal and non-personal information, collected online and offline, including information from third-party sources.
 
 ## **Information Disclosure**
 
@@ -74,10 +72,14 @@ _Allconnect_ , Inc.
 c/o Red Ventures  
 1423 Red Ventures Drive  
 Fort Mill, SC 29707  
-Email: [customercare@allconnect.com](mailto:customercare@allconnect.com)
+Email: [customercare@allconnect.com](mailto:customercare@allconnect.com)
 
 ## **Revisions to This Statement**
 
 We may review and update this privacy policy periodically without any prior notice. We will post a notice to our website to inform you of any material changes to our privacy policy and indicate when it was most recently updated. Policy changes will apply only to information collected after the date of the change.
 
 Last Update: May 28, 2019
+
+## Compare internet plans near you
+
+Moving or looking for a new deal? Let Allconnect help you find the right internet plan for your needs. Call now to start comparing providers, prices and speeds in your local area.
