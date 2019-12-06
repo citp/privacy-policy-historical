@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitium.com privacy policy that was archived on 2018-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180623100355id_/http%3A//www.bitium.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitium.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206131251id_/https%3A//www.bitium.com/site/privacy) for the most accurate reproduction.*
 
 # Legal | Bitium | Manage Your Apps and Passwords
 
@@ -14,7 +14,7 @@ Bitium adheres to the EU-US and Swiss-US Privacy Shield Frameworks as set forth 
 
 Bitium remains responsible for any of your personal data that is shared under the Onward Transfer Principle with third parties.
 
-If you have an inquiry regarding our privacy practices in relation to our Privacy Shield certification, we encourage you to contact us at [bitium-dpt@google.com](mailto:bitium-dpt@google.com). Bitium is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC). You may also refer a complaint to your local EU data protection authority and we will work with them to resolve your concern. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
+If you have an inquiry regarding our privacy practices in relation to our Privacy Shield certification, we encourage you to contact us at [bitium-dpt@google.com](mailto:bitium-dpt@google.com). Bitium is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC). You may also refer a complaint to your local data protection authority and we will work with them to resolve your concern. In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in Annex I to the Privacy Shield Principles.
 
 
 
