@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspsnippets.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613053103id_/https%3A//www.aspsnippets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspsnippets.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206150650id_/https%3A//www.aspsnippets.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # ASP Snippets
 
@@ -30,6 +30,16 @@ They may also share this information with third parties.
 Privacy Policies:   
 [Developer Media](https://developermedia.com/developer-media-privacy-policy/)   
 [Google Adsense](https://privacy.google.com/businesses/compliance/#?modal_active=none)
+
+Third-parties and Opt-Out:   
+Third-parties may display interest-based advertising to you in applications or websites, based on your use of applications or websites over time and across non-affiliated apps.   
+Such third-parties may combine and use information from websites or applications on your current browser or device with information from your other browsers or devices for advertising purposes. 
+
+To opt-out of such interest-based advertising and/or cross-device targeting, please use the methods provided below for opting out on each of your browsers and on each of your devices:   
+[Network Advertising Initiative (NAI)](http://optout.networkadvertising.org/)   
+[Digital Advertising Alliance (DAA)](http://www.aboutads.info/choices/)   
+[Digital Advertising Alliance Canada (DAAC)](http://youradchoices.ca/choices)   
+[Digital Advertising Alliance EU (EDAA)](http://www.youronlinechoices.com/)
 
 **_Contact_**  
 If you have any objections regarding the website content, its external links, users or your information privacy, please don’t hesitate to [contact us.](https://aspsnippets.com/Contact.aspx)
