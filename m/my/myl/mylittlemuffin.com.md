@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylittlemuffin.com privacy policy that was archived on 2018-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180828092531id_/https%3A//mylittlemuffin.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylittlemuffin.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207001509id_/https%3A//mylittlemuffin.com/terms) for the most accurate reproduction.*
 
 # Terms and Privacy policy » My Little Muffin
 
