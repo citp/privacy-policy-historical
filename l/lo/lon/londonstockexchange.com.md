@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonstockexchange.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326055032id_/https%3A//www.londonstockexchange.com/global/legal/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonstockexchange.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206150351id_/https%3A//www.londonstockexchange.com/global/legal/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy and Cookies Policy - London Stock Exchange
 
@@ -18,7 +18,7 @@
 
             1.1.5       visit or register to use [www.londonstockexchange.com](http://www.londonstockexchange.com/) (the “Website”)
 
-1.2  The Website uses cookies and other tracking technologies to improve and tailor your browsing experience.  Please read our Cookies Policy for more information.
+1.2  The Website uses cookies and other tracking technologies to improve and tailor your browsing experience.  Please read our Cookies Policy for more information.
 
 1.3  Please read this Privacy Policy carefully and re-visit this page from time to time to review any changes that may have been made.
 
@@ -70,7 +70,7 @@
 
 2.4  We may in limited circumstances collect certain types of sensitive Personal Information which are protected more strictly by law.  These include:
 
-             2.4.1       disability information (where you choose to share this with us in relation to accessing to our services or our physical premises); and
+             2.4.1       disability information (where you choose to share this with us in relation to accessing our services or our physical premises); and
 
              2.4.2       religious affiliation (for example, where this relates to your dietary requirements for an LSE Group hosted event).
 
