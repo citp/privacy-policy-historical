@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilsoncenter.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331163755id_/https%3A//www.wilsoncenter.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsoncenter.org privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206205337id_/https%3A//www.wilsoncenter.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wilson Center
 
