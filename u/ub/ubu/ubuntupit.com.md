@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubuntupit.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630194752id_/https%3A//www.ubuntupit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntupit.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206203737id_/https%3A//www.ubuntupit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UbuntuPIT
 
