@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331192154id_/https%3A//www.tpexpress.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206164305id_/https%3A//tpexpress.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TransPennine Express
 
@@ -212,6 +212,252 @@ We have set out below a list of all the ways we may use your personal data and w
 
 In some cases we may use more than one legal basis for processing your personal data; this will depend on the specific purpose for which we are using your personal data. Please contact us if you have any queries about the specific legal basis that we rely on for processing your personal data.
 
+**What we use your personal data for (purpose)**
+
+| 
+
+**Type of data**
+
+| 
+
+**Legal basis for processing (including basis of legitimate interest)**  
+  
+---|---|---  
+  
+**To register you as a new customer**
+
+| 
+
+(a)        Identity
+
+(b)        Contact
+
+| 
+
+Performance of a contract with you  
+  
+To carry out our obligations arising from any contracts entered into between you and us including  
+(a)  managing payments, paying refunds or compensation, fees and charges;  
+(b)           collecting and recovering money owed to us  
+(c)           **running fraud checks if we have reasonable suspicions;  
+**(d)           **provide you with the information, products and services that you request from us including, but not limited to, contacting you about your journey;**
+
+| 
+
+(a)        Identity
+
+(b)        Contact
+
+(c)        Financial
+
+(d)        Transaction
+
+(e)        Health
+
+(f)         Marketing and Communications
+
+| 
+
+(a)       Performance of a contract with you
+
+(b)        Necessary for our legitimate interests (to recover debts due to us, to pay refunds or compensation owed to you and to prevent us facilitating fraud)  
+  
+**To respond to your enquiries or to process your requests in relation to your information.**
+
+| 
+
+  
+(a) Identity  
+(b) Contact
+
+| 
+
+Performance of a contract with you  
+  
+**To maintain a suppression list should you opt-out of receiving communications**
+
+| 
+
+                         (a)        Identity
+
+| 
+
+Necessary for our legitimate interests (to ensure that we are not at risk of breaching data protection laws by communicating with you where you have asked us not to.)  
+  
+**To manage our relationship with you which will include:  
+**(a)    notifying you about changes to our Website, services, terms or privacy policy; and  
+(b)    **asking you to leave a review or take a survey**
+
+| 
+
+                       (a)        Identity
+
+                       (b)        Contact
+
+                      (c)        Profile
+
+ (d)        Marketing Communications
+
+| 
+
+(a)       Performance of a contract with you
+
+(b)       Necessary to comply with a legal obligation
+
+(c)       Necessary for our legitimate interests (to recover debts due to us)  
+  
+**
+
+To help provide a safe environment for our employees and customers; to reduce the number of assaults on our employees during revenue enforcement duties; and to improve the quality of evidence available for submission to the authorities.
+
+** | 
+
+                      (a)        Identity
+
+| 
+
+(a)    Necessary for our legitimate interests (to protect employee and customer safety and assist with the verification of claim)  
+  
+**To enable you to partake in a prize draw, competition or complete a survey**
+
+| 
+
+                        (a)        Identity
+
+  
+      (b)        Contact
+
+                        (c)        Profile
+
+                       (d)        Usage
+
+ (e)        Marketing and Communications
+
+| 
+
+(a)       Performance of a contract with you
+
+(b)       Necessary for our legitimate interests (to study how customers use our products/services, to develop them and grow our business)  
+  
+**To administer and protect our business and the Website (including training our employees, troubleshooting, data analysis, testing, system maintenance, security audits, support, reporting and hosting of data).**
+
+| 
+
+(a)         Identity
+
+                     (b)        Contact
+
+                     (c)        Profile
+
+| 
+
+(a)        Necessary for our legitimate interest (for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise)
+
+(b)        Necessary to comply with a legal obligation
+
+(c)        Performance of a contract with you  
+  
+**To conduct health and safety assessments and record keeping; and compliance with related legal obligations.**
+
+| 
+
+                      (a)        Identity
+
+(b)        Contact 
+
+(c)        Profile 
+
+(d)        Health
+
+| 
+
+(a)       Necessary for our legitimate interest (in providing a safe and secure environment at our premises)
+
+(b)        Necessary for compliance with a legal obligation
+
+(c)        Necessary to protect the vital interests of any individual  
+  
+**To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you**
+
+| 
+
+                       (a)        Identity
+
+                       (b)        Contact
+
+                       (c)        Profile
+
+                      (d)        Usage
+
+(e)        Marketing Communications
+
+ (f)         Technical
+
+| 
+
+Necessary for our legitimate interest (to study how you use our products/services, to develop them, to grow our business and to inform our marketing strategy)   
+  
+**To use data analytics to improve the Website, products/services, marketing, customer relationships and experiences**
+
+| 
+
+                       (a)        Technical
+
+                       (b)        Usage
+
+| 
+
+Necessary for our legitimate interests (to define types of customers for our products and services, to keep the Website updated and relevant, to develop our business and to inform our marketing strategy)  
+  
+**To make suggestions and recommendations to you about goods or services that we feel may interest you**
+
+| 
+
+                         (a)        Identity
+
+                         (b)        Contact
+
+                         (c)        Technical
+
+                         (d)        Usage
+
+   (e)        Profile
+
+   (f)         Marketing Communications
+
+| 
+
+Necessary for our legitimate interest (to develop our products/services and grow our business)  
+  
+**To establish, exercise and defend our legal rights**
+
+| 
+
+                       (a)        Identity
+
+                       (b)        Contact
+
+                       (c)        Financial
+
+                       (d)        Transactional
+
+                       (e)        Technical
+
+                       (f)         Profile
+
+                       (g)        Usage
+
+                       (h)        Health 
+
+     (i)        Marketing Communications 
+
+| 
+
+(a)        Necessary for compliance with a legal obligation
+
+(b)        Necessary for our legitimate interest (for the purpose of establishing, exercising or defending our legal   
+rights)  
+  
 **
 
 6  
@@ -410,6 +656,151 @@ d) Targeting cookies: We use these anonymous cookies to determine the content of
 
 You can find more information about the individual cookies we use and the purposes for which we use them in the table below:
 
+ Cookie
+
+| 
+
+ Name
+
+| 
+
+ Category  
+  
+---|---|---  
+  
+ Google Analytics
+
+| 
+
+ __qca  
+__utmb  
+__utmc  
+__utmz  
+_gat  
+_gat_UA-11525711-4  
+__utma  
+_ga  
+_gid  
+collect  
+
+
+| 
+
+Analytics/ performance cookies  
+  
+ Web Trends Analytics
+
+| 
+
+ _wt_FPC  
+_wt.control-771644-ta_  
+_wt.mode-771644  
+_wt.user-771644  
+_wt.conversion-771644-ta_   
+_wt.visitorType  
+_wt.taAH.NR  
+_wt.weekly  
+_wt.32bnectarUser  
+
+
+| 
+
+Analytics/ performance cookies  
+  
+  
+ Website Functionality
+
+| 
+
+Qualaroo  
+__qca  
+ki_r  
+ki_s  
+ki_t  
+ki_u  
+vuid  
+PREF  
+tr  
+VISITOR_INFO1_LIVE  
+YSC  
+yt-remote-cast-installed  
+yt-remote-connected-devices  
+yt-remote-device-id  
+yt-remote-fast-check-period  
+yt-remote-session-app  
+yt-remote-session-name  
+k2c_Firstgroup_cids  
+k2c_history  
+k2c_Launch  
+k2c_tpcstsrv  
+k2c_tpcstsrv  
+yt.innertube::nextId  
+yt.innertube::requests  
+
+
+| 
+
+Functionality cookies  
+  
+ Website Operation
+
+| 
+
+ AWSELB  
+userJourney-integration  
+mixingDeck  
+UsedNewMixingDeck  
+sc.ASP.NET_SESSIONID  
+ASP.NET_SessionId  
+sc_expview  
+SC_ANALYTICS_GLOBAL_COOKIE  
+sess_track  
+perm_track  
+WebTisLogin  
+WebTisUser  
+SecureToken  
+WebTISToken  
+WebTISPersonalisation  
+SESS#  
+lang  
+GPS  
+IDE  
+mc  
+fsr.a  
+fsr.r  
+fsr.s  
+FSR_TPEXPRESSCOUKPOOL_BLOB  
+FSR_TPEXPRESSCOUKPOOL_OBJ  
+mixingDeck  
+UsedNewMixingDeck  
+userJourney-integration  
+
+
+| 
+
+Strictly necessary cookies  
+  
+ Advertising Partners
+
+| 
+
+MediaIQ  
+test_cookie  
+flashtalkingad1  
+QuantCast  
+__widgetsettings  
+ads/ga-audiences  
+fr  
+i/jot/syndication  
+segment/2/read/a;;pixel  
+Facebook Custom Audience Pixel  
+pxl.jivox.com/tags/re/pxjs.php  
+ad.doubleclick.net
+
+| 
+
+Targeting cookies  
+  
 **Cookies and similar technologies set by third parties**
 
 On some pages of our site other organisations, for example Facebook and other social networks, may also set their own cookies or use other similar technologies (e.g. web beacons, pixels and local storage technologies) to collect or receive information from our website or elsewhere on the internet and use that information to provide measurement services and target ads. Because of how these technologies work, our site cannot access this information. These third parties are responsible for setting out their own cookie and privacy policies. 
@@ -437,9 +828,9 @@ These links may also assist you:
 
 With most Internet browsers, you can erase or block cookies or ask to receive a warning before a cookie is stored. The “Help” function within your browser should tell you how. Alternatively, you may wish to visit the following sites:
 
-[www.youronlinechoices.eu ](https://web.archive.org/web/20190331192154id_/https%3A//www.tpexpress.co.uk/www.youronlinechoices.eu)  
-[www.aboutcookies.org](https://web.archive.org/web/20190331192154id_/https%3A//www.tpexpress.co.uk/www.aboutcookies.org)  
-[www.allaboutcookies.org ](https://web.archive.org/web/20190331192154id_/https%3A//www.tpexpress.co.uk/www.allaboutcookies.org)
+[www.youronlinechoices.eu ](https://web.archive.org/web/20191206164305id_/https%3A//tpexpress.co.uk/www.youronlinechoices.eu)  
+[www.aboutcookies.org](https://web.archive.org/web/20191206164305id_/https%3A//tpexpress.co.uk/www.aboutcookies.org)  
+[www.allaboutcookies.org ](https://web.archive.org/web/20191206164305id_/https%3A//tpexpress.co.uk/www.allaboutcookies.org)
 
 which contain comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
 
