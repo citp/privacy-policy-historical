@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the letsencrypt.org privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527000643id_/https%3A//letsencrypt.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsencrypt.org privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206144058id_/https%3A//letsencrypt.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Let's Encrypt - Free SSL/TLS Certificates
 
-Last updated: June 22, 2018
+Last updated: Sep 19, 2019
 
 The Let’s Encrypt Privacy Policy describes how we collect, use, and disclose your information in three different contexts:
 
@@ -44,7 +44,7 @@ In addition, we reserve the right, solely at our discretion, to independently ob
 
 We process personal data as described in this policy. We rely on your consent to send emails. When we collect IP address, we process that data based on contractual necessity of being able to demonstrate that the service performs as expected. Please note that we may be unable to delete information, including IP addresses, as this information is necessary for others to rely on in determining the trustworthiness of our certificates. In some cases, we may process personal data pursuant to legal obligation or to protect your vital interests or those of another person.
 
-Individuals located in the European Economic Area (EEA) have certain rights in respect to their personal information, including the right to access, correct, or delete personal data we process through your use of the site. If you’re a user based in the EEA, you can:
+Individuals located in the European Economic Area (EEA) have certain rights in respect to their personal information, including the right to access, correct, or delete personal data we process through your use of the site. If you’re a relying party, subscriber, or visitor based in the EEA, you can:
 
   * Request a personal data report by emailing us at security@letsencrypt.org. This report will include the personal data we have about you, provided to you in a structured, commonly used, and portable format. Please note that we may request additional information from you to verify your identity before we disclose any information.
   * Request that your information be corrected or deleted by contacting us at security@letsencrypt.org.
