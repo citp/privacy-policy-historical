@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the by-art.com privacy policy that was archived on 2019-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190325163706id_/https%3A//by-art.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the by-art.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206180307id_/https%3A//www.by-art.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,9 +24,9 @@ Several java games at by-art.com set cookies to save the game state between sess
 
 Google, as a third party vendor, uses cookies to serve ads on our site.
 
-Google's use of the [DART](http://www.doubleclick.com/privacy/faq.aspx) cookie enables it to serve ads to users based on their visit to your sites and other sites on the Internet. 
+Google's use of the [DART](https://www.doubleclick.com/privacy/faq.aspx) cookie enables it to serve ads to users based on their visit to your sites and other sites on the Internet. 
 
-You and other users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+You and other users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/privacy_ads.html). 
 
 Software registration.
 
@@ -34,7 +34,7 @@ If you decide to register one of our screen savers, you will need to contact one
 
 Advertisers.
 
-We use Google to serve ads when you visit our website. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used, [click here](http://www.google.com/policies/privacy/partners/). 
+We use Google to serve ads when you visit our website. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used, [click here](https://www.google.com/policies/privacy/partners/). 
 
 If you click on an advertised link, you will leave our site. Please check the corresponding privacy policy at advertised pages.
 
