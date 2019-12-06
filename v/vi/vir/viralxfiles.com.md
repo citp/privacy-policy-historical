@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viralxfiles.com privacy policy that was archived on 2019-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190530180846id_/http%3A//www.viralxfiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralxfiles.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206173520id_/http%3A//www.viralxfiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Viral X Files
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](http://www.viralxfiles.com/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://www.viralxfiles.com/contact-us/).
 
 At http://www.viralxfiles.com/ we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by http://www.viralxfiles.com/ and how we use it.
 
@@ -16,7 +16,7 @@ http://www.viralxfiles.com/ uses cookies to store information about visitors’ 
 
 → Google, as a third party vendor, uses cookies to serve ads on http://www.viralxfiles.com/.  
 → Google’s use of the DART cookie enables it to serve ads to our site’s visitors based upon their visit to http://www.viralxfiles.com/ and other sites on the Internet.  
-→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+→ Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [http://www.google.com/privacy_ads.html](https://www.google.com/privacy_ads.html "Opt out of the Dart Cookie")
 
 **Our Advertising Partners**  
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….
