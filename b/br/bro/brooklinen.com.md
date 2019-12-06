@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brooklinen.com privacy policy that was archived on 2019-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190506230100id_/https%3A//www.brooklinen.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooklinen.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206074532id_/https%3A//www.brooklinen.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
