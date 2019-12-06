@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikepics.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210010127id_/http%3A//www.bikepics.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikepics.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206182149id_/https%3A//www.bikepics.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BikePics.com
 
@@ -24,7 +24,7 @@ We collect the following types of information.
 
     * User Content (e.g., photos, comments, and other materials) that you post to the Service.
 
-    * Communications between you and BikePics. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.
+    * Communications between you and BikePics. For example, we may send you Service and Marketing-related emails. Note that you may not opt out of Service-related e-mails (e.g., account verification, changes/updates to features of the Service, technical and security notices).
 
 ### Finding your friends on BikePics:
 
@@ -171,38 +171,12 @@ BikePics may modify or update this Privacy Policy from time to time, so please r
 
 Large images and videos can take longer to upload. Please be patient!
 
-My Motorcycles
-
-* * *
-
-Manufacturer
-
-Year
-
-Model
-
-Description
-
-My Motorcycles
-
-* * *
-
-Manufacturer
-
-Year
-
-Model
-
-Description
-
 Deleting a motorcycle will **delete all associated pictures**
 
-  * {{text}}
 
 
 
 Deleting a category will **delete all associated pictures**
 
-  * {{text}}
 
 
