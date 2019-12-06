@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovingitvegan.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331121734id_/https%3A//lovingitvegan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingitvegan.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206140530id_/https%3A//lovingitvegan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Loving It Vegan
 
