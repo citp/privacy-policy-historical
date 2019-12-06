@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clovia.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313121649id_/https%3A//www.clovia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clovia.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206160019id_/https%3A//www.clovia.com/privacy-policy) for the most accurate reproduction.*
 
 # FAQ Privacy policy - Clovia
 
