@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the africanbites.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629155426id_/https%3A//www.africanbites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africanbites.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206075649id_/https%3A//www.africanbites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Immaculate Bites
 
