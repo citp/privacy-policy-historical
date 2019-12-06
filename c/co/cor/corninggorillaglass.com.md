@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corninggorillaglass.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616064502id_/http%3A//www.corning.com/worldwide/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corninggorillaglass.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206011843id_/http%3A//www.corning.com/worldwide/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Corning.com
 
@@ -91,6 +91,6 @@ One Riverfront Plaza
 MP-HQ-W1-Z12  
 Corning, NY 14831  
 (607) 974-9000  
-[privacy@corning.com](mailto:privacy@corning.com)  
+[](mailto:)[privacy@corning.com](mailto:privacy@corning.com)  
 
 For more information, please use the following links to access the Internet Privacy Data Protection Notice and Global Data Privacy Policy in a variety of languages.
