@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the classdojo.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621105508id_/https%3A//www.classdojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classdojo.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206075725id_/http%3A//www.classdojo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ClassDojo
 
 ### Privacy Policy Highlights
 
-We believe you should always know what data we collect from you and how we use it, and that you should have meaningful control over both. We want to empower users to make the best decisions about the information that they share with us. In fact, we made a [short video](https://vid.ly/7d4i1b) for students that highlights the most important details in our Privacy Policy that they should know about. We also have a [Student Data Protection Addendum](https://app.hellosign.com/s/c5488d3f), an agreement we enter into with schools, that further describes our duties, responsibilities, and commitments with respect to Student Data (as defined therein) that we collect or receive.
+We believe you should always know what data we collect from you and how we use it, and that you should have meaningful control over both. We want to empower users to make the best decisions about the information that they share with us. In fact, we made a [short video](https://vid.ly/7d4i1b) for students that highlights the most important details in our Privacy Policy that they should know about. We also have a [Student Data Protection Addendum](https://static.classdojo.com/docs/DPA/2019-07-ClassDojo_DPA.pdf), an agreement we enter into with schools, that further describes our duties, responsibilities, and commitments with respect to Student Data (as defined therein) that we collect or receive.
 
 You should read this policy in full, but here are a few key points:
 
@@ -342,8 +342,6 @@ Additionally, we will process your personal information for the purposes listed 
 
 * * *
 
-## Will ClassDojo share any information it collects?
-
 First and foremost, you should know that ClassDojo **does not sell or rent** your (or your child’s) [personal information](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#PersonalInformation) to any third-party for any purpose - including for advertising or marketing purposes. [Third-party advertising](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#ThirdPartyAdvertising) is not permitted on areas where users are required to log in to ClassDojo and personal information collected from students is never used for [behaviorally-targeted advertising](https://classdojo.zendesk.com/hc/en-us/articles/115004741703#BehaviorallyTargetedAdvertising) to students (by us or third-parties). Furthermore, we do not share personal information with any third-parties except in the limited circumstances described in this Privacy Policy and as set forth below:
 
   * **Other Users You Share and Communicate with on ClassDojo:** No teacher, school leader, parent or student profiles are made available to the general public through our Service. Furthermore, students cannot share their account information or portfolio with anyone on ClassDojo, outside of their parents, teachers, or school leaders. If you are a teacher, school leader, or a parent, you may choose to share information or content through the Service with other ClassDojo teachers, school leaders, students, or parents - for example, things like your account information, [feedback points](https://classdojo.zendesk.com/hc/en-us/articles/204422125) awarded to students you teach (if you are a teacher or school leader) or to your children (if you are a parent) or other information you share with teachers, school leaders, or parents you are communicating with through [ClassDojo Messaging](https://classdojo.zendesk.com/hc/en-us/articles/203730309), Class Story, or School Story or our other collaboration features.
@@ -650,8 +648,6 @@ If you are under the age of 18, or the parent of a child using ClassDojo under t
 > If you are a minor or parent of a minor, you may delete information per the "How can I delete my account?" section.
 
 * * *
-
-## How can I contact ClassDojo with questions?
 
 If you have any questions or concerns about this Privacy Policy or how we protect our community, please contact us at [privacy@classdojo.com](mailto:privacy@classdojo.com) \- we'd love to help. If you’d like, you may also write to us at:
 
