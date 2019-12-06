@@ -1,84 +1,182 @@
-> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605221105id_/https%3A//www.gop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gop.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206213735id_/http%3A//www.gop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GOP
 
-**Updated September 15, 2014**
+**Last modified and effective on September 9, 2019.**
 
-**Terms & Conditions and Privacy Policy**
+**1. INTRODUCTION. **
 
-Welcome to GOP.com, the official website of the Republican National Committee (RNC). We hope you enjoy your visit. The RNC knows your right to privacy online is important. You do not have to identify yourself or divulge personal information unless you choose to give us your personal information.
+Welcome to GOP.com, the official website (the “website” or “site”) of the Republican National Committee (“RNC”, “we”, “us”, “our”). We hope you enjoy your visit.  The RNC knows your right to privacy online is important and understands that visitors to our website may have questions about how this website collects and uses information. The RNC is committed to safeguarding the privacy of our supporters’ information. This Privacy Policy explains our privacy practices, including the information we collect from you when you use our website, apps, and other digital and online services (collectively, the “
 
-Should you choose to share your personal information, we would like you to know how that information is used by us to provide a better user experience, and the steps we take to protect your information. This privacy policy has been created to answer any questions you may have regarding the RNC’s data collection and protection policies. 
+ _Services_
 
-We reserve the right to change this Policy.  As a service to our users, we will post the date of the most recent updates to this policy at the top of the page.
+”); how we and our affiliated committees may use that information; our rights to share and disclose such information to third parties; how you can review and modify information that you provide to us; and how you can communicate your preferences regarding our use and disclosure of such information. Please review our 
 
-**What information is being collected at GOP.com?**
+[_Terms of Service_](https://gop.com/terms-of-service)
 
-**The only personal information collected is information you give us:** In our effort to grow our Republican grassroots community online, the RNC may at times ask you to submit information – such as your name, address, phone number and email address – in an effort to provide you the information you want in a more timely manner. If you choose not to give us any information, we may not be able to provide you with the most timely information pertaining to: breaking news, online events, personal appearances, TV appearances, talking points, activists alerts and other Republican related information.
+, which govern your use of the Services. Any capitalized terms that are not defined in this Privacy Policy shall have the meaning ascribed in the 
 
-**Use of cookies and protecting your privacy:** We make use of cookies to personalize and customize your interaction with GOP.com and to provide you with the best possible online experience. A cookie is a tiny encrypted text file that is placed on your hard drive.
+[_Terms of Service_.](https://gop.com/terms-of-service)
 
-If you choose to register as a member of GOP.com, a cookie will be used to recognize your computer in order to improve your experience on our site. By using a cookie, GOP.com allows you to bypass future log-ins and remembers your preferences to make navigation as easy and seamless as possible.
+This Privacy Policy only applies to the information collected by the RNC and any third parties acting with our authorization and information otherwise provided to us by third parties about you, in each instance, in connection with your use of the Services. This Privacy Policy applies regardless of the computer, mobile phone, tablet, or other electronic devices (“Device”) you use to access the Services and whether you are accessing the Services as a registered user or otherwise. 
 
-**How we analyze GOP.com to better serve you:** We use a third-party analytic providers, such as Google Analytics, to collect internet log information and assess the aggregate level of traffic to GOP.com including what pages people are visiting, and to diagnose any potential problems with the Web site..
+By using the Services, you agree that your use of the Services is governed by this Privacy Policy and our Terms of Service. From time to time, we may update this Privacy Policy. As a service to our users, we will post the date of the most recent updates to this page at the top of the page.  We encourage you to periodically check this Privacy Policy for updates. Your continued use of the Services affirms your agreement to any changes we make to this Privacy Policy.
 
-These aggregated performance reports contain information including but not limited to “Internet Protocol” or IP address, unique device ID, type of mobile device, date and time, web browser, referring website and general geographic location. We do not use analytics reports to track a particular individual’s use of GOP.com.  Aggregated data does not identify you as an individual. All users remain anonymous unless they choose to give us personally identifiable information.  You can learn more about Google Analytics by [clicking here](https://support.google.com/analytics/answer/6004245?hl=en&ref_topic=2919631) or opt out of being tracked via Google Analytics across the web here: <http://tools.google.com/dlpage/gaoptout>.
+**2. WHAT INFORMATION DOES THE RNC COLLECT?**
 
-**Information collected when you donate:** When you make a contribution to the RNC, federal law requires us to obtain the following information: name, mailing address, employer, occupation, and amount of contribution. Federal law requires us to report this information to the Federal Election Commission if an individual’s contribution or contributions aggregate in excess of $200 in a single calendar year. Contributions from corporations, government contractors, and foreign nationals without a “green card” are prohibited.
+**A. Registration Information.** In order to access and use certain features, content or functions of the Services (e.g., contributions, communication/networking features, promotions, etc.), you may be asked to provide certain information, including your name, username, password, e-mail, date of birth, gender, address, employment information, and other descriptive information. 
 
-Online donors to the RNC have the option to store their credit card information when registering with GOP.com.  Online donors taking advantage of this option will have their credit card information securely saved through a third-party payment processor, [Stripe](https://stripe.com/help/security), which has been audited by a PCI-certified auditor, and is certified to PCI Service Provider Level 1.  This is the most stringent level of certification available.
+**B. Contributions and Payment Information.** If you make any contribution (including any purchase) on or through the Services, your payment information (e.g., credit or debit card type, number and expiration date) and related information (e.g., physical address) may be collected by us and/or our third-party payment processors. 
 
-**We ask that children under 18 do not submit their information:** In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA) GOP.com does not knowingly collect information from children. Additionally, In accordance with (COPPA), the RNC will never knowingly collect personal identifiable information from persons 13 years old or younger.
+To comply with Federal election law and the regulations of the Federal Election Commission, we are required to make our best efforts to collect and report the name, mailing address, occupation, and name of employer of individuals whose contributions aggregate in excess of $200 per election cycle. Generally, contributions are non-refundable. Should you choose to contribute, you will receive an email confirmation of your contribution. 
 
-Parents with questions may email [ecampaign@GOP.com](mailto:webmaster@GOP.com) or write to: Digital & Data Department, Republican National Committee, 310 First Street SE, Washington, DC 20003.
+**C. Information You Choose to Provide to Us**. We collect any information you provide to us on or through the Services or in any other way. For example, we collect any information you provide when you update your user account and profile (
 
-**How is the information collected at GOP.com used?**
+ _“User Account”_
 
-**We personalize the Web site and email communications.** When you offer your personal information and/or choose to participate in our volunteer efforts, we use your information to personalize and customize Web pages and emails from GOP.com to you.
+); participate in contests, surveys, and other promotions; and/or sign up to receive newsletters and other communications. 
 
-**We will not sell your personal information.** Under no circumstances will the RNC sell your information to third parties or any commercial entities.
+In addition, the Services may include features that rely on the use of information stored on, or made available through, your mobile Device. We may also ask to collect or use the specific location of your mobile Device (e.g., by accessing your Device’s GPS). If you agree to allow access to your location, you agree that we and our service providers may collect such location-based information from your Device. We may also collect other information based on your location and your Device’s proximity to “beacons” and other similar proximity systems, including, for example, the strength of the signal between the beacon and your Device and the duration that your Device is near the beacon. The type of location data we collect depends on a number of factors, including the type of Device you are using (e.g., laptop, smartphone, tablet) and the type of connection enabled on your Device (e.g., wifi, Bluetooth, broadband cable). The RNC Apps, if they become available, or other features of the Services may rely on this location information in order to provide certain location-based services, such as promotional offers, merchandise offers, or event information or other RNC-related content that may be of interest to you. We may also use location information to improve the functionality of the RNC Apps and our other applications and services. If you do not wish to have this location information collected and used by the RNC, you may opt-out by disabling the location and Bluetooth features on your Device and/or in the RNC Apps. As a general note, you may choose not to provide certain information, but you may not be able to access certain content or take advantage of certain features of the Services. 
 
-**We may share your information with like-minded organizations.** The RNC may share information — that you voluntarily provide us — with like-minded organizations committed to the principles or candidates of the Republican Party, Republican State Party organizations and local Republican groups. The RNC may provide your email address or other personal information to authorized third parties required to deliver a particular service. These third parties may not use said information for any other purpose than to carry out the services they are performing for the RNC.
+Depending on the Device you are using, we may use third-party services to provide mapping services. For example, the RNC may use Google maps on certain Devices. You can learn more about the information that Google collects through its mapping services at <http://www.google.com/privacy.html>.
 
-**Is my information secure, and how can I manage my online information?**
+**D. User Submissions.**  You may have the ability to use the Services to communicate with other users of the Services and post comments to or otherwise interact with certain aspects of the Services that are available to the public and/or other users. We may collect any information you submit, post, or provide in the course of such activities, and reserve the right to store any information about the people you contact via the Services. 
 
-**Protecting information you provide via GOP.com.** Protecting your information is important to the RNC.  GOP.com uses a secure socket layer (SSL) – with the highest level of encryption commercially available – on every page of the website.
+Any information, communications, or material of any type or nature that you submit to our Services (including, but not limited to any of our pages contained on a social media platform or websites such as Facebook or Twitter) by email, posting, messaging, uploading, downloading, or otherwise (collectively, a “
 
-Strict security measures are in place to protect the loss, misuse and alteration of any and all information pertaining to GOP.com.  Access to personally identifiable information is limited to dedicated staff and vendors subject to non-disclosures agreements. To ensure the highest level of security the RNC employs best practices, including running GOP.com on secure servers located in a protected location.
+ _Submission_
 
-However, no data transmission over the Internet can be guaranteed as 100% secure.  As a result, while we strive to protect your information, we cannot ensure or warrant the security of any information you transmit to us or receive from us.
+”), is done at your own risk and without any expectation of privacy. We cannot control the actions of other users of any social media platform or website and we are therefore not responsible for any content or Submissions contained on such sites and platforms. By visiting any of our pages or websites contained on a social media platform or website, you are representing and warranting to us that you have reviewed the applicable privacy policy and terms of use of that platform or website and that you will abide by all such provisions contained therein.
 
-**GOP.com** uses a secured/encrypted server for online credit card donations. The online contribution form is in compliance with FEC regulations. The RNC has put in place appropriate physical, electronic and managerial procedures to prevent unauthorized access.
+Additionally, in the event that we offer a message board or any other interactive or social-type feature on a website administered directly by us, please be aware that these areas may allow you to publicly post, and share with other users, certain messages, content, or other information (e.g., stories, pictures, etc.). Although we may take certain precautions to protect those who use these areas of one of our websites, we encourage you to be wary of giving out any personal information in such public forums. The information you post can be collected and used by people you do not know. We cannot guarantee the privacy and safety of these areas and are therefore not responsible for any information you choose to post. Your use of these features is fully at your own risk.
 
-**Opting out of 3 rd Advertising Cookies:** The RNC respects your right to privacy on the internet.  In order to provide more relevant advertising and content to you, we may work with third party advertising companies that may use cookies to serve advertisements based upon your interests as well as visits to our website or other websites on the internet.
+**E. Usage Data and Technical Information.** The Services include features that automatically collect certain information, which may include the unique Device identifier assigned to your Device, Third Party Platform anonymous identifiers, and other information regarding your use of the Services to, among other things, assist us in authenticating your usage and/or Device, keeping track of your preferences, creating a more tailored user experience, and better serving your particular interests and needs. The Services and/or third parties may use "cookies" (which are small data files containing information about you that is stored on your hard drive), "embedded scripts," "pixel tags," and other similar tracking technologies (collectively, "
 
-If you would like to opt-out of third party behavioral advertising, please visit the Digital Advertising Alliance site, <http://www.aboutads.info/choices/>.
+ _Tracking Technologies_
 
-For additional information on managing cookies, please select your browser below: 
+") to collect information automatically as you interact with the Services. Such information may include "clickstream" data, the domain name of the service providing you with Internet access, your Device type and attributes, Internet protocol (IP) address, network connection type (e.g., WiFi, 3G, LTE), browser type and version, operating system and platform, the average time spent on the Services, pages viewed, content searched for, access times and other relevant statistics, and your interactions with playlists, audiovisual content, other users of the Services, advertising, and products and services which are offered, linked to or made available on or through the Services. Such information may be collected by us and/or our third-party service providers and partners. Certain Tracking Technologies enable us to customize your experience on the Services and provide tailored recommendations, promotions, advertisements and other content relating to your specific interests. Other Tracking Technologies are used to make login to the Services easier (such as by remembering your user ID) and allow us to collect non-specific location information. You can learn more about the use of cookies and other Tracking Technologies on the Services in 
 
-  * For Microsoft Internet Explorer, please visit: [http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies - ie=ie-11](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11)
-  * For Mozilla Firefox, please visit: <https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences>
-  * For Google Chrome, please visit: <https://support.google.com/chrome/?hl=en#topic=3421433>
-  * For Apple Safari, please visit: <http://support.apple.com/kb/PH17191>
+_Section 4.D_
+
+below.
+
+**F. Third Party Platform Information.** If you access the Services via your Third Party Platform account (e.g., by logging in to the Services using your Third Party Platform account credentials) and/or integrate your RNC account with your Third Party Platform account, we may collect certain information from the Third Party Platform, such as your username and other information you provided to the Third Party Platform in connection with your account (e.g., name, country, date of birth, gender and e-mail address). You can learn more about adjusting your settings and preferences with respect to Third Party Platforms in 
+
+_Section 4.A_
+
+below.
+
+**3. HOW DOES THE RNC USE INFORMATION THAT IT COLLECTS?**
+
+A.  Except as prohibited by the terms and conditions of any applicable Third Party Platform (e.g., Facebook, Twitter, etc.) and subject to 
+
+_Section 4_
+
+, we may use the information we collect for, among other things, the following purposes:
+
+  * Sending you RNC and affiliated committees’ marketing, promotional, e-mails, messages, and other correspondence and notifications regarding the Services;
+  * To notify you about new features and offerings of the Services, including, but not limited to, promotions, events, discounts, news about products and services, and/or special offers;
+  * Delivery of features, content, services, and products available to you through the Services based on your location;
+  * Allowing affiliates, service providers, contractors, agents, sponsors, and other third parties to assist us in providing and managing the Services;
+  * Contacting you regarding the administration of any features or functions of the Services you have registered to use;
+  * Sending you information about your relationship or transactions with us;
+  * Marketing and promoting the Services, including, without limitation, promotions and other initiatives and activities; 
+  * For the prevention and detection of fraud or infringement of our or any third party’s rights;
+  * Responding to your questions or other requests; 
+  * Subject to applicable contractual or legal restrictions, in connection with the sale or exchange of Service user information and related data to a broker, political committee, or other non-profit or for-profit entity;
+  * Tailoring your experience on the Services and/or otherwise customizing what you see when you visit and use the Services; 
+  * Saving your User Account, registration and profile data or other information (so you do not have to re-enter it each time you visit or use the Services); 
+  * Tracking your return visits to and use of the Services; 
+  * For other purposes disclosed at the time you provide us with the information or which are reasonably necessary to provide the Services or other related product and/or service requested; 
+  * For research purposes, for marketing/promotional purposes and/or to provide anonymous reporting for Third Party Platforms, etc.;
+  * Accumulating and reporting aggregate, statistical information in connection with the Services and user activity;
+  * Determining which features and services users like best to help us operate the Services, enhance and improve our services and the Services and display advertising and marketing information; and
+  * Saving certain information for your ongoing use of the Services.
 
 
 
-**GOP.com links to other sites:** Our site may contain links to other Web sites and servers. The RNC does not bear responsibility for privacy policies or content on linked Web sites. Because the RNC has no control over websites to which we provide links, you acknowledge that the RNC is not responsible for the availability of resources or external sites and does not endorse and is not responsible or liable for any content provided therein.
+**4. OPTING-OUT OF CERTAIN USES OF YOUR INFORMATION.**
 
-Accordingly, you also acknowledge that the RNC will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, services on or through any such site or resource or goods. We encourage you to read the privacy statements on each Web site you visit.
+**A. User Account Privacy Settings.** With regard to RNC apps, to the extent they are available, you may be able to adjust certain privacy, permission and User Account settings by responding to request alerts or notifications that may be presented to you on your Device prior to or following the collection of the relevant information or by navigating to the settings, account or privacy section (as the case may be) of your Device or the applicable Third Party Platform and limiting certain Service functionality (e.g., location services, etc.). Please be aware that if you limit the collection of certain information, you may not be able to use all of the features and functionality of the Services.
 
-The RNC provides links to original articles written and maintained by third parties. These links are provided as a convenience and do not imply a claim of ownership in that content.
+**B. Marketing and Promotional Communications. **At times, you may be presented with the option of whether to subscribe to receive, or be automatically entered to receive, certain marketing and promotional communications from us and/or the RNC’s affiliated committees that we think will be of interest to you.  The RNC may send you such communications by text message if the RNC has received your consent to do so or is otherwise able to send you such communications by text message in compliance with all applicable laws.  Recipients of such communications can unsubscribe by either following the specific instructions included in such communications or by “opting-out” of receiving marketing and promotional e-mails from us at any time by visiting <https://www.gop.com/unsubscribe>; sending an email to us at [email@gop.com](mailto:email@gop.com) with “Unsubscribe” in the subject line; or writing to Digital & Data, Republican National Committee, 310 First Street SE, Washington DC 20003.  When writing, please include your full name, address, zip, and phone number.   Recipients of text messages may “opt-out” of our mobile messaging program by replying “STOP” (or “QUIT”, “END”, “CANCEL”, “UNSUBSCRIBE”, or “STOP ALL”) to 80810 or any mobile message you receive from us, or by contacting us via the means provided above and clearly communicating your intent to unsubscribe from our mobile messaging program. Other privacy requests can be emailed to [email@gop.com](mailto:email@gop.com). Please note that “opt-out” and “unsubscribe” requests may not take effect immediately and may take a reasonable amount of time to receive, process, and apply, during which time your information shall remain subject to the prior privacy settings. Additionally, you should be aware that any information provided to third parties prior to your election to opt-out or unsubscribe cannot be retrieved or rescinded by us unless required by applicable law, and you cannot retroactively opt-out or unsubscribe with respect to such third parties.  
 
-**Can I opt out of campaign mailings?**
+Please note that in order to keep you informed about the operation of our Services and related services, we may always send you emails and announcements that are needed for the proper functioning and administration of our Services, including for the purposes described in Section 3 above, in connection with your use of such Services. We may also have features that allow you to submit information, questions, or feedback to us. In those instances, we may retain your emails and other information you submit to us for our internal purposes and to help us to serve you better.
 
-**How to unsubscribe from our email list:** Communicating via email is one of the most powerful online tools Republicans use. We’re sure you will find the information useful and take advantage of the opportunities to assist the Party.
+**C. Privacy Preferences.** You may also change certain privacy preferences (e.g., choose to cease receiving certain communications or ask us not to share your personal information with a particular third party) by sending an email with “PRIVACY REQUEST” in the subject line to us at detailing your privacy request. If you ask the RNC to stop using your personal information, we will honor that request, provided that we may retain a record of such information as necessary to comply with applicable law and we may continue to use your contact information to contact you about your Services-related transactions and to respond to your requests, as well as your IP address to determine the country in which you are accessing the Services. Consumers may also have the option to modify other privacy preferences for any RNC apps that may become available (e.g., deactivating your User Account, etc.) by modifying your User Account settings. 
 
-When registering with GOP.com, donating, signing a petition, participating in a survey, or submitting information for volunteer opportunities please know that you are opting to receive these emails by providing your email address. All signups for email communications and other features of our Web site are voluntary. We give you the opportunity to opt-in and we give you the power to opt-out of email communications. Should you wish to opt-out, an unsubscribe link is included in every email. If your link is not working properly, or you wish to communicate your desire to opt-out directly to us:
+**D. Opting-Out of Use of Certain Information That May be Collected by Tracking Technologies.** 
 
-  * Visit: <http://www.gop.com/unsubscribe>
-  * E-mail: [eCampaign@GOP.com](mailto:eCampaign@GOP.com) with Unsubscribe in the subject line.
-  * Or write: Digital & Data, Republican National Committee, 310 First Street SE, Washington DC 20003.  When writing, please include your full name, address, zip and phone number.
+  * _Tracking Technologies:_ Most browsers are initially set to accept cookies (other than Flash cookies) and allow local storage, but you should be able to change your settings to notify you when a cookie is being set or updated, local storage is being used, and/or to block cookies and/or the use of local storage altogether. Please consult the "Help" section of your browser for more information. Please note that by blocking any or all cookies you may not have access to certain features, content and/or other personalization available through the Services.
+  * _Flash Cookies:_ Users can manage the use of Flash technologies, with the Flash management tools available at Adobe’s website, see http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html. 
+  * _Do-Not-Track Signals:_ Certain browsers transmit "do-not-track" signals to the websites with which such browsers communicate; however, this feature, and how it is used and activated, varies from browser to browser. Therefore, it is not clear whether the signals are intentionally transmitted by a user, or whether a user is even aware of this. Despite current efforts, there is still disagreement amongst leading Internet standards organizations, industry groups, technology companies and regulators, concerning what, if anything, websites should do when they receive such signals and no standard has been adopted to date. The RNC takes privacy and security very seriously. With respect to “do not track signals,” we currently do not respond to do-not-track signals. Third parties may collect information about an individual consumer's online activities over time and across different Internet websites or online services when the consumer uses our Services.  If a standard is established and accepted, we may reassess how to respond to do-not-track signals. 
 
 
 
-**Contact information for the Republican National Committee:** If you have any questions, comments or concerns, please contact the RNC by e-mail or by phone using the contact information published at the bottom of each page of this Web site.
+**E. Your Nevada Privacy Rights.** Under Nevada Law, Nevada residents have the right to submit a verified request directing us not to sell certain personal information about you that we have collected or may collect.  To submit such a request, Nevada residents can email [email@gop.com](mailto:email@gop.com) with “NEVADA PRIVACY REQUEST” in the subject line.  We will respond to such verified requests within 60-90 days.
+
+**5. SHARING AND DISCLOSURE OF INFORMATION WE COLLECT.**
+
+**A. Disclosure to Third Parties. **We reserve the right to use, share, exchange and/or disclose to the RNC’s affiliated committees and third parties any of your information for any lawful purpose, including, but not limited to, as described in 
+
+_Section 3._
+
+You may choose to opt-out of certain such uses at the time such information is collected or by subsequently changing your preferences, as further described in 
+
+_Section 4_
+
+above.
+
+**B. Disclosure of Certain Information in User Submissions Intended to Be Disclosed.** Certain information associated with a Submission may be intended for disclosure, such as your username. We will disclose any such information in connection with the display of, and other services relating to, such Submission, and by submitting a Submission on or in connection with the Services you affirmatively consent to the distribution of your information as described herein. 
+
+**C. Service Providers, Owners and Licensees**. We may provide and disclose your information to affiliates, operators, service providers, and other third parties for the purpose of providing, offering, supporting, administering and maintaining the Services, and providing the full range of content, activities, services, features, and functions offered on or in connection with the Services.
+
+**D. Additional Disclosures. **There may be instances when the RNC may access or disclose information without providing you a choice in the following circumstances: (i) to protect or defend the legal rights or property of the RNC; our employees, agents and contractors; our affiliated committees; or their employees, agents and contractors (including enforcement of our agreements), (ii) to protect the safety and security of our Services and users, (iii) to protect against fraud or for risk management purposes, (iv) if we believe your actions violate this Privacy Policy or [Terms of Service](https://gop.com/terms-of-service), or (v) to comply with law or legal process.
+
+**6. DATA COLLECTION FROM CHILDREN. **
+
+This website complies with the Children’s Online Privacy Protection Act of 1998. We do not knowingly contact or collect personal information from children under the age of 13 without appropriate parental notice and consent, and our Services are not intended to solicit information of any kind from children under the age of 13. If we are informed that we have unintentionally received personal information from a child under the age of 13, we will delete that information. If you want to notify us of our possible receipt of information by children under the age of 13, please contact us at [email@gop.com](mailto:email@gop.com) with “PRIVACY REQUEST” in the subject line. Please visit <https://www.ftc.gov/tips-advice/business-center/privacy-and-security/children%27s-privacy> for information from the Federal Trade Commission about protecting children’s privacy online. 
+
+**7. SECURITY. **
+
+While no data transmission over the Internet is 100% secure from intrusion, we maintain reasonable physical, electronic, and procedural safeguards to protect your information. However, it is possible that third parties may unlawfully intercept or access transmissions or private communications despite our efforts to prevent this, and we therefore make no guarantees regarding the security of user information.
+
+**8. YOUR CALIFORNIA PRIVACY RIGHTS.** 
+
+Under California Law, California residents have the right to request from businesses with whom they have an established business relationship information that the business has disclosed (if any) with third parties during the immediately preceding calendar year for the third parties’ direct marketing purposes. To request the above information, write to us (with a reference to California Disclosure Information) at [email@gop.com](mailto:email@gop.com).  We will respond to such requests for information access within 30 days following receipt at the e-mail or mailing address stated above. If we receive your request at a different e-mail or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
+
+**9. INTEGRATION OF THIRD PARTY PLATFORMS AND SERVICES. **
+
+The Services may be linked to, rely on, and/or be integrated with websites, applications, interfaces, services, and/or platforms operated by third-party companies, including service providers and Third Party Platforms. The RNC is not responsible for the privacy practices of any websites, applications, interfaces, services, and platforms operated by such third parties that are linked to, rely on, and/or are integrated with the Services. Once you leave the Services via such a link, access a third-party application, interface, service, or platform, including Third Party Platforms and websites operated by service providers, you should check the applicable privacy policy of such third party to determine, among other things, how they will handle any personally identifiable or other information that they may collect from you.
+
+**10. PRIVACY POLICY CHANGES. **
+
+From time to time, we may modify this Privacy Policy to reflect industry initiatives, third party requirements or changes in the law, technology, our information collection and use practices, or the features and functionality of the Services, and such modifications shall be effective upon posting. When we change this Privacy Policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. Your continued use of the Services after we post a revised Privacy Policy (and, where appropriate, notify you of this change) signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. We may also seek your affirmative consent to the terms of the updated Privacy Policy. For example, we may ask for your consent before implementing new uses of the personal information that we have already collected from you, if such new use was not addressed by the privacy policy under which such information was collected. 
+
+**11. ACCURACY. **
+
+It is your responsibility to give us current, complete, truthful, and accurate information, and to keep such information up to date. **We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful, or complete information, or you fail to update such information.** We will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy.
+
+**12. INTERNATIONAL USAGE.** 
+
+The Services are controlled, operated, and administered entirely within the United States. If you visit, access, interact with, and/or otherwise use the Services from a location outside the United States, please be advised that any information you provide in connection with any such activity may be processed in and/or transferred to the United States of America and/or other territories and locations, where privacy protections may not be as comprehensive as those in the territory or location where you interact with or otherwise use the Services. By using the Services, you affirmatively consent to the transfer, use, disclosure, provision, and other administration of your information as described herein.
+
+**13. CONTACT US.** 
+
+If you have any questions about our privacy practices or any of the terms or conditions of this Privacy Policy, please feel free to contact us at: 
+
+OR
+
+Mail: Digital & Data, Republican National Committee
+
+Attn: Privacy Matters 
+
+310 First Street SE
+
+Washington DC 20003
+
+1 **4. SOLE STATEMENT. **
+
+This document is the sole statement of the Services’ Privacy Policy and no summary, restatement or other versions thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
+
+​
