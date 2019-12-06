@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bozzuto.com privacy policy that was archived on 2019-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190313125339id_/https%3A//www.bozzuto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bozzuto.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206054736id_/https%3A//www.bozzuto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bozzuto
 
@@ -82,4 +82,4 @@ By using this site, or providing information to us, you acknowledge your awarene
 2017 THE BOZZUTO GROUP. All rights reserved.
 
 **WEBSITE DISCLAIMER**  
-The materials provided on this server are intended for informational purposes only and are not intended to constitute an offer or solicitation. Despite the efforts of Bozzuto to provide accurate information, it is not possible to ensure that all information is constantly correct. The materials contained on this server could include technical inaccuracies or typographical errors. Bozzuto assumes no responsibility for any actions taken as a result of using this server, or for errors or omissions in the materials on this server. 
+The materials provided on this server are intended for informational purposes only and are not intended to constitute an offer or solicitation. Despite the efforts of Bozzuto to provide accurate information, it is not possible to ensure that all information is constantly correct. The materials contained on this server could include technical inaccuracies or typographical errors. Bozzuto assumes no responsibility for any actions taken as a result of using this server, or for errors or omissions in the materials on this server.
