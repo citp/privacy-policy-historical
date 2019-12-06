@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the emailoctopus.com privacy policy that was archived on 2019-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190120184934id_/https%3A//emailoctopus.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailoctopus.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206194311id_/https%3A//emailoctopus.com/legal/privacy) for the most accurate reproduction.*
 
 # EmailOctopus - Privacy Policy - EmailOctopus
 
-EmailOctopus (referred to as "we" throughout this policy) are committed to protecting and respecting your privacy and keeping personal information secure. This policy applies to our email marketing service, and to our associated websites. Those websites are emailoctopus.com (and its subdomains) and our shortened tracking domains, which will always begin with eocampaign or eomail. All of these websites are referred to as ‘our website’ in this policy.
+EmailOctopus (referred to as "we" throughout this policy) are committed to protecting and respecting your privacy and keeping personal information secure. This policy applies to our email marketing service and to our associated websites, including emailoctopus.com (and its subdomains) and our other sites you visit in which this Privacy Policy is linked to in the footer. All of these websites are referred to as ‘our website’ in this policy.
 
 This policy (together with our [Terms of Use and Anti-Spam Policy](https://web.archive.org/legal/terms), our [Cookie Policy](https://web.archive.org/legal/cookies) and any other documents that they refer to) sets out:
 
@@ -16,21 +16,31 @@ This policy (together with our [Terms of Use and Anti-Spam Policy](https://web.a
 
 Please read this policy carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
+#### Some key points to note:
+
+  * We use FullStory to track user behaviour on our website – learn more
+  * Our websites use cookies – [learn more](https://web.archive.org/legal/cookies)
+  * We use third party email services providers who will have access to your data – learn more
+
+
+
 #### Who is this policy addressed to?
 
-For the purpose of data protection legislation including the EU General Data Protection Regulation (‘GDPR’), the data controller of your personal data is Three Hearts Digital Ltd of Unit 6, 14a Andre Street, London, E8 2AA (registered at Companies House with company number 09897211 and trading as EmailOctopus). 
+For the purpose of data protection legislation including the General Data Protection Regulation (‘GDPR’), the data controller of your personal data is Three Hearts Digital Ltd of Keltan House, 115 Mare Street, London, E8 4RU (registered at Companies House with company number 09897211 and trading as EmailOctopus). 
 
-When we refer in this policy to ‘you’, we are referring to a customer of our services, or a person visiting our website. We are not referring to a person receiving an email sent by a customer using our service, or a person on a mailing list maintained by one of our customers. We refer to those people in this policy as ‘Contacts’. We do not have any relationship with Contacts, and process information relating to them solely for the purposes of providing our service to our customers. When we refer to a ‘marketing list’ in this policy, we are referring to details of Contacts (including their email addresses) processed by us on your behalf to provide you with our EmailOctopus service.
+When we refer in this policy to ‘you’, we are referring to a customer of our services, or a person visiting our website. We are not referring to a person receiving an email sent by a customer using our service, or a person on a mailing list maintained by one of our customers. We refer to those people in this policy as ‘Contacts’. We do not have any relationship with Contacts, and process information relating to them solely for the purposes of providing our service to our customers.
 
-If you are a Contact and wish to cease receiving emails from one of our customers, please unsubscribe directly using the unsubscribe link in the customer’s email message, or contact the customer directly.
+When we refer to a ‘marketing list’ in this policy, we are referring to details of Contacts (including their email addresses) processed by us on your behalf to provide you with our EmailOctopus service.
 
-If a Contact makes a direct request to be removed from the marketing list of one of our customers, we may do so on behalf of our customer, while providing notice to the customer of the Contact’s request. Our customer is the data controller in respect of Contacts’ personal data, and Contacts should consult our customer’s own Privacy Policy for details on the customer’s data protection practices. We will never use and disclose the Contact email addresses to send our own informational and promotional content. We may conduct analysis on the events (such as bounces, unsubscribes, clicks, and opens) arising from emails sent using our service this will never be in relation to a specific Contact. It will always be on an aggregated and anonymised basis, which does not identify any individual Contact.
+If you are a Contact and wish to cease receiving emails from one of our customers, please unsubscribe directly using the unsubscribe link in the customer’s email, or contact the customer directly.
+
+If a Contact makes a direct request to be removed from the marketing list of one of our customers, we may do so on behalf of our customer, while providing notice to the customer of the Contact’s request. Our customer is the data controller in respect of Contacts’ personal data, and Contacts should consult our customer’s own Privacy Policy for details on the customer’s data protection practices. We will never use the Contact email addresses to send our own informational and promotional content. We may refer to Contact’s personal data when generating usage reports and analysis as data processor for our data controller customers. This may involve analysis on the events (such as bounces, unsubscribes, clicks, and opens) arising from emails sent to Contacts using our service.
 
 #### Information we may collect from you
 
 We may collect and process the following data about you:
 
-  * Information that you provide to us. You may give us your information by filling in forms on our website or by corresponding with us by email, live chat, phone or otherwise. This includes information you provide when you register to use our service, respond to any surveys that we send to you to complete, and when you contact us for any reason. When you register for our service we will collect your username, email, password, your business category, AWS access keys and your IP address. If you contact us, we may keep a record of any information contained in the correspondence.
+  * Information that you provide to us. You may give us your information by filling in forms on our website or by corresponding with us by email, live chat, phone or otherwise. This includes information you provide when you register to use our service, respond to any surveys that we send to you to complete, and when you contact us for any reason. When you register for our service we will ask for a range of information we need to collect in order to set up your account and engage one or more of our upstream email service providers to handle your emails. If you contact us, we may keep a record of any information contained in the correspondence.
   * With regard to each of your visits to our website, we will collect your IP address. This information is used for fraud and abuse detection.
   * We also collect data from you for the purposes of retargeting – see the ‘Retargeting’ section below.
   * Payment information  
@@ -48,6 +58,7 @@ We use information held about you for the following purposes:
   * to administer our site and for internal operations, including troubleshooting;
   * to help optimise and develop our service, for example through statistical analysis and research on your use of our service;
   * as part of our efforts to keep our website safe and secure and to monitor actual or suspected fraudulent activity;
+  * to determine your regional location for the purposes of recommending a billing currency;
   * and to carry out retargeting advertising (see “Retargeting” section below).
 
 
@@ -64,29 +75,31 @@ Conversely, we also use Facebook to ensure that we don’t present some EmailOct
 
 #### Your marketing lists
 
-Your marketing lists are stored in Ireland, within the European Economic Area ("EEA"), on the secure servers of Amazon Web Services (“AWS”). We don't, under any circumstances, sell or share your marketing lists. If someone on your marketing list complains or contacts us, only then will we respond to that person. Only you, and our authorised employees, have access to view your marketing lists.
+Your marketing lists are stored in Ireland, within the European Economic Area ("EEA"), on the secure servers of Amazon Web Services (“AWS”). Unless you are using our ‘EmailOctopus Connect’ service, they will also be available to our email service providers (”ESPs”). ESPs will only have access to your lists when you are sending an email. Once the email is sent, the ESPs no longer have access to your marketing list. Our ESPs are Mailgun, SendGrid, Sparkpost and Elastic Email. We don't, under any circumstances, sell or share your marketing lists with anyone else. If someone on your marketing list complains or contacts us, only then will we respond to that person. Only you, our authorised employees, and our ESPs have access to view your marketing lists.
 
-You may export (download) your marketing lists from EmailOctopus at any time. We'll only ever use and disclose the information in your marketing lists for the reasons listed in this section or in the section entitled “How we use your personal information” above.
+We may also monitor those events for the purposes of administering our service (including checking for any abuse of our service) and research on patterns and trends in the use of our service. We will never use any Contact data for the purposes of that administration or generating that research. It will always be conducted on an aggregated and anonymised dataset, which does not identify any individual Contact.
 
-We will never use or disclose the information in your marketing lists to send our own informational and promotional content. If we detect abusive or illegal behaviour related to your marketing list, we may share your marketing list or portions of it with affected ISPs or anti-spam organisations. We may also be required to disclose it to law enforcement or regulatory bodies. We will only do so if legally required.
+You may export (download) your marketing lists from EmailOctopus at any time. We'll only ever use and disclose the information in your marketing lists for the reasons listed in this section or in the section entitled ’How we use your personal information’ above.
+
+We will never use or disclose the information in your marketing lists to send our own informational and promotional content. If we detect abusive or illegal behaviour related to your marketing list, we may share your marketing list or portions of it with affected internet service providers (“ISPs”) or anti-spam organisations. We may also be required to disclose it to law enforcement or regulatory bodies. We will only do so if legally required.
 
 We may conduct analysis on your use of the service and the results generated by your emails sent by means of the service. This analysis is conducted solely on an aggregated and anonymised basis.
 
 #### Cookies and tracking technologies
 
-Our website uses cookies to distinguish you from other users of our website. The majority of these cookies are required to provide our service, ensuring you remain logged in to EmailOctopus and that we can personalise the service offered. Cookies (or ‘pixels’ which are similar tracking mechanisms) are also used for retargeting purposes (see the “Retargeting” section above). Please see our [Cookie Policy](https://web.archive.org/legal/cookies) for full details on our use of cookies.
+Our website uses cookies to distinguish you from other users of our website. The majority of these cookies are required to provide our service, ensuring you remain logged in to EmailOctopus and that we can personalise the service offered. Cookies (or ‘pixels’ which are similar tracking mechanisms) are also used for retargeting purposes (see the ’Retargeting’ section above). Please see our [Cookie Policy](https://web.archive.org/legal/cookies) for full details on our use of cookies.
 
-If you use one of our pre-launch ‘beta’ services, it is in the legitimate interest of us and our clients to optimise how we roll out these services into full production. We therefore use FullStory to help us review how people are using these beta services. FullStory enables us to see where people click on a page, follow mouse patterns, and track text that people might type using those services. FullStory is provided by FullStory Inc. Their privacy statement is [here](https://www.fullstory.com/legal/privacy/). You are a ‘User’, for the purposes of that Privacy Policy. You are able to [opt-out](https://www.fullstory.com/optout/) of FullStory at anytime.
+We use FullStory to help us review how people are using our services. FullStory enables us to see where people click on a page, follow mouse patterns, and track text that people might type using those services. It will involve FullStory processing all data on the screen of our websites when you use them, we ensure that all data in relation to your Contacts is redacted and is not recorded. FullStory is provided by FullStory Inc. Their privacy statement is [here](https://www.fullstory.com/legal/privacy/). You are a ‘User’, for the purposes of that Privacy Policy. You are able to [opt-out](https://www.fullstory.com/optout/) of FullStory at anytime. The legal basis for processing this data is that it is in the legitimate interests of use and our users that we optimise the service and our users’ experience on our website.
 
 #### Where we store your personal data
 
-The account details and IP address that we collect from you are stored on our AWS servers in Ireland, inside the European Economic Area ("EEA"). All the personal data we collect from you may be processed by our staff, or those of our service providers [(See our List of Service Providers)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSjAnGYQME6C5_-sLM2e6L3dhVXXJWM17P7QfXzcmaMnRu2zwirJ7vG1kkGbgvfTF0-mAwWWl20ZYK8/pubhtml#) operating outside the EEA. Such staff may be engaged in, among other things, the fulfilment of your services, and the provision of support services. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Please [contact us](mailto:contact@emailoctopus.com) if you would like more details on the appropriate safeguards we employ to require that these providers process your data with due respect for its privacy.
+The account details and IP address that we collect from you are stored on our AWS servers in Ireland, inside the UK and European Economic Area ("EEA"). All the personal data we collect from you may be processed by our staff, or those of our ESPs and other service providers [(See our List of Service Providers)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSjAnGYQME6C5_-sLM2e6L3dhVXXJWM17P7QfXzcmaMnRu2zwirJ7vG1kkGbgvfTF0-mAwWWl20ZYK8/pubhtml#) operating outside the UK and EEA. Such staff may be engaged in, among other things, the fulfilment of your services, and the provision of support services. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Please contact us if you would like more details on the appropriate safeguards we employ to require that these providers process your data with due respect for its privacy.
 
 #### Security
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be carried out by Stripe over encrypted connections using SSL technology (see the “Payment Information” section above). Where we have given you (or where you have chosen) a password or API key which enables you to access certain parts of our site, or you have invited team members to access parts of our site, you are responsible for keeping this password or API key confidential.
+All information you provide to us is stored on our secure servers. Any payment transactions will be carried out by Stripe over encrypted connections using SSL technology (see the ’Payment Information’ section above). Where we have given you (or where you have chosen) a password or API key which enables you to access certain parts of our site, or you have invited team members to access parts of our site, you are responsible for keeping this password or API key confidential.
 
-We take security very seriously, and ‘privacy by design’ is baked into our engineering and product development principles but as with any online service, despite our use of leading security tools and techniques, the personal data we hold about you can never be 100% immune from unauthorised access.
+We take security very seriously, and ‘privacy by design’ is baked into our engineering and product development principles but, as with any online service, despite our use of leading security tools and techniques, the personal data we hold about you can never be 100% immune from unauthorised access.
 
 #### Disclosure of your information
 
@@ -97,33 +110,35 @@ We may disclose your personal information to selected third parties, including:
   * in the event that we sell or buy any business or assets, the prospective seller or buyer of such business or asset;
   * if EmailOctopus or substantially all of its assets are acquired by a third party, to the relevant third party;
   * business parties and subcontractors for the purposes of providing the EmailOctopus services (please see our current List of Service Providers, available [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSjAnGYQME6C5_-sLM2e6L3dhVXXJWM17P7QfXzcmaMnRu2zwirJ7vG1kkGbgvfTF0-mAwWWl20ZYK8/pubhtml#));
+  * Our ESPs will receive different information at different times. When you verify your domain for the purposes of receiving the services, they will see a user’s email address, phone number, street address, domain, and user ID. When an email is sent using an ESPs service, the ESP will see the ‘from’ name and address, the subject, the body of the email, and the destination email addresses. When an email recipient opens an email you have sent or clicks a link in the email, the ESP will see the IP address of the recipient (from which may be inferred a notional latitude and longitude associated with that IP address). For a detailed list of which ESPs have access to which information, please [contact us](mailto:contact@emailoctopus.com).
   * analytics providers that assist us in the improvement and optimisation of our website; and 
   * law enforcement agencies or regulatory bodies; or other third parties for fraud detection and prevention. We will only do this is if we are legally required to do so.
   * We may also disclose your personal information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms of Use and Anti-Spam Policy](https://web.archive.org/legal/terms) and other agreements, or to protect the rights, property, or safety of EmailOctopus, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud detection and protection and credit risk reduction.
 
 
 
-#### Integrations – Amazon SES and other third parties
+#### Integrations: EmailOctopus Connect and other third party integrations
 
-Our service integrates with your AWS (Amazon Web Services) account. Please see the [AWS Privacy Policy](https://aws.amazon.com/privacy/) and [Terms and Conditions of Service](https://aws.amazon.com/legal/) to review their practices and processes regarding the usage, storage and disclosure of any data used in relation to their service.
+Our service integrates with your own account held with an email service provider, such as AWS (Amazon Web Services). Please see your provider’s Privacy Policy and Terms and Conditions of Service to review their practices and processes regarding the usage, storage and disclosure of any data used in relation to their service.
 
-You can additionally integrate your EmailOctopus account with third party apps, websites or other services. If you do so, the third party may as a result receive your marketing lists, and information about your use of our services. Information collected by these third parties is subject to their own terms and privacy policies. An example of such a third party is Zapier. 
+You can additionally integrate your EmailOctopus account with third party apps, websites or other services with whom you have your own account independent of EmailOctopus. If you do decide to connect your account with that third party to EmailOctopus, the third party you integrate will as a result receive your marketing lists, information about your use of our services, and access to any other personal data you make available to them. All third parties you integrate in this way are your own data processors – they are not sub-contractors or sub-processors of Email Octopus. Information collected by these third parties is subject to their own terms and privacy policies. An example of such a third party is Zapier. 
 
-#### Retention of your Personal Information
+#### Retention of your personal information
 
 The periods for which we keep your information depend on why your information was collected and what we use it for. We will not keep your personal information for longer than necessary for our business purposes or for legal requirements.
 
-Some account information will be held for 6 years from your last sign in or use of the service. Logs of your use of the services will be deleted within 12 months of your last sign in or use of the service.
+Some account information will be held for 6 years from your last sign in or use of the service. Logs of your use of the services will be deleted within 13 months of your last sign in or use of the service.
 
-We will keep your contact information, emails and lists for 12 months after your last sign in or use of the service, in case you decide to use our services again. We may contact you about our services during this time (unless you have asked us not to contact you for marketing purposes).
+We will keep your contact information, emails and lists for 13 months after your last sign in or use of the service, in case you decide to use our services again. We may contact you about our services during this time (unless you have asked us not to contact you for marketing purposes).
 
 #### Legal basis for processing
 
 We are required to state the legal basis on which we undertake processing of your personal information. We will only use your information where:
 
-  * We have your consent to do so; or
-  * We need to process the personal information to perform services for you under our terms and conditions of service.
-  * We have a legitimate interest in engaging in the provision of our EmailOctopus service and in offering products and services of value to you.
+  * we have your consent to do so; or
+  * we need to process the personal information to perform services for you under our terms and conditions of service.
+  * We have a legitimate interest in engaging in the provision of our EmailOctopus service and in offering products and services of value to you. Please contact us if you would like to learn more about our assessment of our legitimate interests in processing data.
+  * We are processing the data to meet a legal requirement.
 
 
 
@@ -154,8 +169,8 @@ If we have collected and processed your personal information with your consent, 
 You also have the right to ask us to stop processing your personal data for direct marketing purposes. You can do this through your EmailOctopus dashboard or via email. If you wish to exercise this right via email, you should:
 
   * put your request in writing ([an email](mailto:contact@emailoctopus.com) with a header that says 'Unsubscribe' is acceptable);
-  * provide us with enough information to identify you (e.g email address); and
-  * if your objection is not to direct marketing in general, but to direct marketing by a particular channel (e.g., email or telephone), please specify the channel you are objecting to.
+  * provide us with enough information to identify you (e.g. email address); and
+  * if your objection is not to direct marketing in general, but to direct marketing by a particular channel (e.g. email or telephone), please specify the channel you are objecting to.
 
 
 
