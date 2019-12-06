@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bikudo.com privacy policy that was archived on 2018-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180624232657id_/http%3A//www.bikudo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikudo.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206082848id_/https%3A//www.bikudo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Bikudo
+# Bikudo: Discover manufacturer and supplier companies and their products
 
-Last Updated: 2017-07-19
+Last Updated: 2019-04-10
 
 ## Our Policy
 
-Welcome to the web site (the "Site") of Bikudo Ltd., Sti. ("Bikudo", "we", "us" and/or "our"). This Site is operated by Bikudo and has been created to provide information about our company and services (our services, together with the Site, the "Services") to our Service visitors and users ("you" and/or "your"). This Privacy Policy sets forth Bikudo's policy with respect to information, including personally identifiable data ("Personal Data") and other information, that is collected from visitors and users of the Services.
+Welcome to the web site (the "Site") of Bikudo. ("we", "us" and/or "our"). This Site is operated by Bikudo and has been created to provide information about our company and services (our services, together with the Site, the "Services") to our Service visitors and users ("you" and/or "your"). This Privacy Policy sets forth Bikudo's policy with respect to information, including personally identifiable data ("Personal Data") and other information, that is collected from visitors and users of the Services.
 
 ## Information We Collect
 
@@ -14,7 +14,7 @@ When you interact with us through the Services, we may collect Personal Data and
 
   * **Personal Data That You Provide Through the Services:** We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the Services or use certain Services. Wherever Bikudo collects Personal Data we make an effort to provide a link to this Privacy Policy.
 
-**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Bikudo and the authorized third parties referred to herein located in the Turkey.**
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to the Services, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of Bikudo and the authorized third parties referred to herein located in the United States.**
 
   * **Non-Identifiable Data:** When you interact with Bikudo through the Services, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Bikudo may store such information itself or such information may be included in databases owned and maintained by Bikudo's affiliates, agents or service providers. The Services may use such information and pool it with other information to track, for example, the total number of users of our Services, the number of visitors to each page of our Site and the domain names of our visitors' Internet service providers. It is important to note that no Personal Data is available or used in this process.
 
@@ -44,11 +44,18 @@ Bikudo is not in the business of selling your information. We consider this info
 
 ## Cookies
 
-See [Information We Collect](https://www.bikudo.com/privacy-policy#cookies) for more information about our cookies.
+See [Information We Collect](https://www.bikudo.com/privacy#cookies) for more information about our cookies.
 
 ## Your Choices
 
 You can visit the Services without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain Bikudo Services.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. For more information on third-party advertising-related cookies and how to opt-out of them, please visit on of the following third party websites: 
+
+https://www.youronlinechoices.eu   
+https://www.aboutads.info/choices   
+https://www.networkadvertising.org/choices   
+https://www.google.com/policies/technologies/ads/ 
 
 ## Exclusions
 
@@ -56,7 +63,7 @@ This Privacy Policy does not apply to any Personal Data collected by Bikudo othe
 
 ## California Privacy Rights
 
-California Civil Code Section 1798.83 permits users that are residents of California to request from companies conducting business in California certain information regarding Company's disclosures of personally identifiable information to third parties for such third parties' direct marketing purposes. If you are a California resident and would like to make such a request, please contact [support@bikudo.com](mailto:support@bikudo.com).
+California Civil Code Section 1798.83 permits users that are residents of California to request from companies conducting business in California certain information regarding Company's disclosures of personally identifiable information to third parties for such third parties' direct marketing purposes. If you are a California resident and would like to make such a request, please contact support@bikudo.com.
 
 ## Children
 
@@ -72,7 +79,7 @@ Bikudo takes reasonable steps to protect the Personal Data provided via the Serv
 
 ## Other Terms and Conditions
 
-Your access to and use of the Services is subject to the Terms of Use at [www.bikudo.com/terms-of-service](https://www.bikudo.com/terms-of-service).
+Your access to and use of the Services is subject to the Terms of Use at https://www.bikudo.com/terms
 
 ## Changes to Bikudo's Privacy Policy
 
@@ -82,13 +89,5 @@ The Services and our business may change from time to time. As a result, at time
 
 To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Services. Please also feel free to contact us if you have any questions about Bikudo's Privacy Policy or the information practices of the Services.
 
-You may contact us as follows: [Contact Customer Service](https://www.bikudo.com/contact).  
+You may contact us as follows: https://www.bikudo.com/contact  
 
-
-Bikudo Ltd, Sti.  
-
-
-M. Fevzi Cakmak 14/5, Yali/Maltepe, Istanbul, Turkey.
-
-Phone: +90-216-370-6523  
-Email: [support@bikudo.com](mailto:support@bikudo.com)
