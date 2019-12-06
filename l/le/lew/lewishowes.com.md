@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2019-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190408052713id_/https%3A//lewishowes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206145724id_/https%3A//lewishowes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Lewis Howes
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy was last modified on May 15, 2018 and the new provisions will take effect May 25, 2018.
 
-We at 418 Media, LLC are strongly committed to protecting your privacy and providing a safe online experience for all of our visitors while offering a high-quality user experience here at [www.LewisHowes.com](https://lewishowes.com/) (the “Website”). We know that you care about how the information you provide to us is used and shared. We have developed this Privacy Policy to inform you of our policies regarding the collection, use, and disclosure of Information we receive from users of the Website. 418 Media, LLC (the “Company”) operates the Website.
+We at 418 Media, LLC are strongly committed to protecting your privacy and providing a safe online experience for all of our visitors while offering a high-quality user experience here at [www.LewisHowes.com](https://lewishowes.com/) (the “Website”). The “Website” means the website located at [www.LewisHowes.com](http://www.lewishowes.com/) (or any subsequent URL which may replace it) and all associated websites and micro sites of 418 Media, LLC. We know that you care about how the information you provide to us is used and shared. We have developed this Privacy Policy to inform you of our policies regarding the collection, use, and disclosure of Information we receive from users of the Website. 418 Media, LLC (the “Company”) operates the Website.
 
 This Privacy Policy, along with our [Term & Conditions](https://lewishowes.com/terms-and-conditions/), governs your use of this site. By using [www.LewisHowes.com](https://lewishowes.com/) (the “Website”), or by accepting the Terms of Use (via opt-in, checkbox, pop-up, or clicking an email link confirming the same), you agree to be bound by our terms and this Privacy Policy.
 
@@ -42,7 +42,7 @@ For more information on Google Analytics, including how to opt out from certain 
 
  **How to Access Your Personal Information**
 
-If you have provided personal, billing or other voluntarily provided information, you may access, review and make changes to it via instructions found on the Website or by emailing us at [support@lewishowes.com](mailto:support@lewishowes.com). To manage your receipt of marketing and non-transactional communications, you may unsubscribe by clicking the “unsubscribe” link located on the bottom of any related email from the Company. Emails related to the purchase or delivery of orders are provided automatically – Customers are not able to opt out of transactional emails. We will try to accommodate any requests related to the management of Personal Information in a timely manner. However, it is not always possible to completely remove or modify information in our databases (for example, if we have a legal obligation to keep it for certain timeframes, for example).
+If you have provided personal, billing or other voluntarily provided information, you may access, review and make changes to it via instructions found on the Website or by emailing us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a0d3d5d0d0cfd2d4e0ccc5d7c9d3c8cfd7c5d38ec3cfcd). To manage your receipt of marketing and non-transactional communications, you may unsubscribe by clicking the “unsubscribe” link located on the bottom of any related email from the Company. Emails related to the purchase or delivery of orders are provided automatically – Customers are not able to opt out of transactional emails. We will try to accommodate any requests related to the management of Personal Information in a timely manner. However, it is not always possible to completely remove or modify information in our databases (for example, if we have a legal obligation to keep it for certain timeframes, for example).
 
  **How We Use and Share the Information**
 
@@ -87,7 +87,7 @@ Or, via an opt-out browser add-on, you can opt out of having your site activity 
 
  **Google Ad Words** : We may utilize Google Ad Words, which provides certain of the information collected on our website to the Adwords advertising network. To opt out of Google Ad Words, visit <https://support.google.com/ads/answer/2662922?hl=en>
 
-**Facebook Custom Audience:** We may utilize Facebook’s Custom Audience capability which allows us to display ads on Facebook to individuals on our email lists or in our database. We may provide personal information to Facebook, such as your name, email address and phone number to enable Facebook to identify whether you are a Facebook account holder. To opt-out of the Facebook Custom Audience, please email us at [support@lewishowes.com](mailto:support@lewishowes.com) with (1)“Facebook Custom Audience Opt-Out” in your Subject Line, and (2) your name and email address in the body of the email.
+**Facebook Custom Audience:** We may utilize Facebook’s Custom Audience capability which allows us to display ads on Facebook to individuals on our email lists or in our database. We may provide personal information to Facebook, such as your name, email address and phone number to enable Facebook to identify whether you are a Facebook account holder. To opt-out of the Facebook Custom Audience, please email us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ed9e989d9d829f99ad81889a849e85829a889ec38e8280) with (1)“Facebook Custom Audience Opt-Out” in your Subject Line, and (2) your name and email address in the body of the email.
 
  **Other Personalized and Behavioral Advertising Services:** We may participate in other retargeting services that are similar to those described above.
 
@@ -117,7 +117,7 @@ While we have carefully chosen those vendors with whom we work, especially those
 
  **California Privacy Rights**
 
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business with whom the California has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by the Company pursuant to this provision, please contact us via email at [support@lewishowes.com](mailto:support@lewishowes.com).
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business with whom the California has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. To request a copy of the information disclosure provided by the Company pursuant to this provision, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f5868085859a8781b59990829c869d9a829086db969a98).
 
  **Our California Do Not Track Notice**
 
@@ -151,7 +151,7 @@ The categories of data processors with whom we work, and that help us in the col
 
 You may contact us at any time to have your information with any of these processors updated or corrected, deleted, or to obtain a copy for your records. Additionally, you may opt out of receiving any additional emails or marketing messages from us by clicking the “unsubscribe” link at the bottom of our email notifications.
 
-Further, if you feel that we have not complied with the relevant data protection regulations, please contact us by sending us an email at [support@lewishowes.com](mailto:support@lewishowes.com) with your first and last name, your country of origin, and a summary of your concern or complaint. We will endeavor to respond at our earliest possible convenience to address your concern. If contacting us does not resolve your complaint, you may have additional options.
+Further, if you feel that we have not complied with the relevant data protection regulations, please contact us by sending us an email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#681b1d1818071a1c28040d1f011b00071f0d1b460b0705) with your first and last name, your country of origin, and a summary of your concern or complaint. We will endeavor to respond at our earliest possible convenience to address your concern. If contacting us does not resolve your complaint, you may have additional options.
 
 Residents in Designated Countries may also have the right to lodge a complaint with the relevant EU data protection authority. You may access a list of the Data Protection Authorities in the EU [here](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm).
 
@@ -161,6 +161,6 @@ The Company may update this Privacy Policy from time to time as necessary to pro
 
  **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us via email at [support@lewishowes.com](mailto:support@lewishowes.com) with “Privacy Policy” in the subject line.
+If you have any questions about this Privacy Policy, please contact us via email at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#43303633332c3137032f26342a302b2c3426306d202c2e) with “Privacy Policy” in the subject line.
 
 © 2015 – 2018 by The Legal Website Warrior ([www.LegalWebsiteWarrior.com](http://www.legalwebsitewarrior.com/)). All Rights Reserved.  _DO NOT DUPLICATE THIS PRIVACY POLICY (OR ANY PORTION THEREOF). THIS CONSTITUTES COPYRIGHT INFRINGEMENT.  _
