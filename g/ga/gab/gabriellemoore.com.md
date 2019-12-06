@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gabriellemoore.com privacy policy that was archived on 2019-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190525122432id_/https%3A//www.gabriellemoore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gabriellemoore.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206152345id_/https%3A//www.gabriellemoore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Sex Tips And Positions
 
