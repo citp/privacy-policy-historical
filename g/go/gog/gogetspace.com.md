@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the gogetspace.com privacy policy that was archived on 2018-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181217121944id_/http%3A//www.gogetspace.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogetspace.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206181441id_/https%3A//gogetspace.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - GoGetSpace
+# Privacy Policy - GoGetSpace
 
 When you sign up for service with Gogetspace Web Hosting, we collect personal information from you including your name, e-mail address, billing address, security question (and answer), credit card or other payment information, and a password. We may also collect the URL from which you linked into our site, your IP address, and your browser type and version, all of which are collected in an anonymous manner without being linked to any of your personal information.
+
+### Use of Customer Information
 
 Customer privacy is something we take very seriously at Gogetspace. We do not sell or disseminate (except in cases where required to by law enforcement agencies) the personal information of our customers to any parties outside of Gogetspace or its subsidiary companies, for any purpose other than communicating messages provided by Gogetspace. We use customer information for the purposes of creating and maintaining individual customer accounts, contacting customers in case of problems with their account(s), sending personal information, for statistical purposes, to administer our systems, to conduct surveys, to administer drawings or contests, to provide product and marketing updates, and to provide technical support.
 
