@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repairmymobile.in privacy policy that was archived on 2017-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170607033426id_/http%3A//repairmymobile.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repairmymobile.in privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206093303id_/https%3A//repairmymobile.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RepairMyMobile.in
 
@@ -44,7 +44,7 @@ Because we value your privacy we have taken the necessary precautions to be in c
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **10- Online Privacy Policy Only**  
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+This online [privacy policy](https://g.ezoic.net/privacy/repairmymobile.in) applies only to information collected through our website and not to information collected offline.
 
 **11-Reviews, Rating & Comments by users:-**
 
@@ -56,12 +56,26 @@ We can use your communication as per requirement from time to time. We also have
 
 **12- Warranty Disclaimer**
 
-We are not responsible for any Warranty issued by third party and if you are buying product from us and we have offered warranty on that product, then you have to courier the products with your cost with no physical damage.
+We are not responsible for any Warranty issued by the third party and if you are buying a product from us and we have offered a warranty on that product, then you have to courier the products with your cost with no physical damage.
+
+***Software Boxes does not come with Warranty.
+
+But when you receive the product, we will install it for the first time. In case, if it fails to run. The product will be replaced.  
+***Carrier Unlock Sim like o2 & Voda doesn’t come with any warranty and no replacement if it fails to Support.
 
 **13- Content Disclaimer on http://directory.repairmymobile.in  
 **
 
-We communicates information provided and created by advertisers, content partners, users, resellers and other third parties. Attempts are made to verify the authenticity of the shops and service center, the accuracy of such content, integrity or quality of such content and the information on our pages,  and we make no guarantees, nor can we be responsible for any such information, including its authenticity, content, quality, copyright compliance or legality, or any other intellectual property rights compliance, or any resulting loss or damage. Further, we are not liable for any kind of damages, losses or action arising directly or indirectly due to any content, including any errors or omissions in any content, access and/or use of the content on the Platforms or any of them including but not limited to content based decisions resulting in loss of data, revenue, profits, property, infection by viruses etc.
+We communicate information provided and created by advertisers, content partners, users, resellers and other third parties. Attempts are made to verify the authenticity of the shops and service center, the accuracy of such content, integrity or quality of such content and the information on our pages,  and we make no guarantees, nor can we be responsible for any such information, including its authenticity, content, quality, copyright compliance or legality, or any other intellectual property rights compliance, or any resulting loss or damage. Further, we are not liable for any kind of damages, losses or action arising directly or indirectly due to any content, including any errors or omissions in any content, access and/or use of the content on the Platforms or any of them including but not limited to content based decisions resulting in loss of data, revenue, profits, property, infection by viruses etc.
+
+**14- Third-parties and Opt-Out**  
+Third-parties may display interest-based advertising to you in applications or websites, based on your use of applications or websites over time and across non-affiliated apps.  
+Such third parties may combine and use information from websites or applications on your current browser or device with information from your other browsers or devices for advertising purposes. To opt-out of such interest-based advertising and/or cross-device targeting, please use the methods provided below for opting out on each of your browsers and on each of your devices:  
+Network Advertising Initiative (NAI) – http://optout.networkadvertising.org/  
+Digital Advertising Alliance (DAA) – http://www.aboutads.info/choices/  
+Digital Advertising Alliance Canada (DAAC) – http://youradchoices.ca/choices  
+Digital Advertising Alliance EU (EDAA) – http://www.youronlinechoices.com/  
+Please note that opting out of interest-based advertising and cross-device targeting does not mean you will no longer receive online advertising. It does mean that the third-party from which you have opted out of receiving interest-based advertising or cross-device targeting by using the methods provided above will no longer deliver ads tailored to your Web preferences and usage patterns on a particular web browser or device.”
 
 **Your Consent**  
 By using our site, you consent to our websites privacy policy.
@@ -69,7 +83,7 @@ By using our site, you consent to our websites privacy policy.
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below.
 
-This policy was updated on 15/06/2015.
+This policy was updated on 30/10/2019.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.  
