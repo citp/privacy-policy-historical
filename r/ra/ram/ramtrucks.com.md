@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ramtrucks.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417065947id_/https%3A//www.ramtrucks.com/crossbrand_us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ramtrucks.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206024634id_/https%3A//www.ramtrucks.com/crossbrand_us/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
