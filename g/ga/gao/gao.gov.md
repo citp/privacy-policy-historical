@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2019-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190412233156id_/https%3A//www.gao.gov/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gao.gov privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206012129id_/https%3A//www.gao.gov/privacy-policy) for the most accurate reproduction.*
 
 # U.S. GAO - Privacy Policy
 
@@ -34,7 +34,7 @@ When you visit our Web site, small bits of text known as cookies are stored on y
 
 Per-session cookies are stored in memory, are only available during an active browser session, and are erased as soon as you leave our Web site. Persistent cookies, which are not erased when you leave our site, anonymously track how you interact with our site, including where you came from and what you did during your visit. Neither our persistent nor our per-session cookies collects PII on users. All data collected is used only for the purposes described above, and is accessible to GAO staff whose duties require it. 
 
-If you do not wish to have your visit information collected, you may opt-out by disabling cookies in your browser settings (instructions: <http://www.usa.gov/optout-instructions.shtml>). Doing so will still permit you to access our full Web site. 
+If you do not wish to have your visit information collected, you may opt-out by disabling cookies in your browser settings (instructions: <https://www.acquisition.gov/cookies-opt-out>). Doing so will still permit you to access our full Web site. 
 
 ### Site Security and Intrusion Detection
 
