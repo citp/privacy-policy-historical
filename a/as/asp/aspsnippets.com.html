@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aspsnippets.com privacy policy that was archived on 2019-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190613053103id_/https%3A//www.aspsnippets.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aspsnippets.com privacy policy that was archived on 2019-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191206150650id_/https%3A//www.aspsnippets.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,7 +27,7 @@ ASP Snippets</title>
 <meta http-equiv="content-language" name="content-language" content="en-us">
 <link rel="search" type="application/opensearchdescription+xml" title="ASPSnippets" href="/opensearch.xml">
 <link rel="alternate" type="application/rss+xml" title="ASP Snippets" href="/RSS.ashx">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script type="text/javascript" async="" src="https://cdn1.DeveloperMedia.com/a.min.js"></script></head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script type="text/javascript" async="" src="https://cdn2.DeveloperMedia.com/a.min.js"></script></head>
 <body style="margin: 0; padding: 0">
 <style type="text/css">.leaderboard_ad, .leaderboard_ad .dvAdContainer{background-color:#0090CB !important}</style>
 <script type="text/javascript">
@@ -45,10 +45,15 @@ return;
 CheckBrowser();
 var PageName = "";
 var scriptLoaded = false;
-var isMobile;
+var isMobile = false;
+try {
+if (/Android|webOS|iPhone|iPad|iPod|pocket|psp|kindle|avantgo|blazer|midori|Tablet|Palm|maemo|plucker|phone|BlackBerry|symbian|IEMobile|mobile|ZuneWP7|Windows Phone|Opera Mini/i.test(navigator.userAgent)) {
+isMobile =  true;
+};
+} catch (e) { console.log("Error in IsMobile"); isMobile = false; }
 var elem = document.createElement('script');
 elem.onload = function () {
-$.getScript('https://www.aspsnippets.com/scripts/min141.js?17_05_2019_556', function () {
+$.getScript('https://www.aspsnippets.com/scripts/min141.js', function () {
 scriptLoaded = true;
 //document.getElementById("cover").style.display = "none";
 LoadjQueryScripts();
@@ -58,19 +63,6 @@ Load2();
 elem.src = 'https://cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js';
 document.getElementsByTagName('head')[0].appendChild(elem);
 </script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css" media="screen">
-<link rel="stylesheet" href="/Bootstrap-3.0/css/override.css?30_6_2018">
-<!--[if gt IE 8]><!-->
-<link rel="stylesheet" media="all and (min-width: 1024px)" href="/Bootstrap-3.0/media/Above_1024.css?01_07_16_05_50">
-<link rel="stylesheet" media="all and (max-width: 767px)" href="/Bootstrap-3.0/media/below_767.css?01_07_16_05_50">
-<!--<![endif]-->
-<!--[if !IE]><!-->
-<link rel="stylesheet" media="all and (min-width: 1024px)" href="/Bootstrap-3.0/media/Above_1024.css?01_07_16_05_50">
-<link rel="stylesheet" media="all and (max-width: 767px)" href="/Bootstrap-3.0/media/below_767.css?01_07_16_05_50">
-<!--<![endif]-->
-<!--[if lt IE 9]>
-<link rel="stylesheet" href='/Bootstrap-3.0/css/IE.css?01_07_16_05_50' />
-<![endif]-->
 <div id="IsMobile" class="visible-xs">
 </div>
 <form name="aspnetForm" method="post" action="./PrivacyPolicy.aspx" id="aspnetForm">
@@ -91,7 +83,7 @@ document.getElementsByTagName('head')[0].appendChild(elem);
 </div>
 <div class="leaderboard_ad hidden-xs">
 <div id="ctl00_ucAds738x90_adContainer" style="height:90px;width:728px;clear: both">
-<a href="/Redirect.aspx?AdId=10563&amp;RedirectUrl=https%3a%2f%2fwww.infosaic.com%2f%3fsrc%3dASPSnip" rel="nofollow" target="_blank"><img src="https://www.infosaic.com/images/ads/infosaichosting.jpg" alt="Advertisement"></a>
+<div data-type="ad" data-publisher="lqm.aspsnippets.site" data-zone="ron" data-format="728x90">    </div>
 </div>
 </div>
 <button type="button" class="navbar-toggle" data-target=".navbar-responsive-collapse">
@@ -217,47 +209,6 @@ Search</button>
 <div class="title pull-left">
 Privacy Policy
 </div>
-<div class="pull-right hidden-xs social-wrap" align="right">
-<div>
-<div class="visible-xs">
-<div class="row">
-<div class="col-xs-3">
-<div class="fb-like" data-href="https://www.facebook.com/ASPSnippets-306994206006035/" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="false"></div>
-</div>
-<div class="col-xs-5">
-<div class="g-follow" data-annotation="none" data-height="20" data-href="//plus.google.com/u/0/110371172807820981480" data-rel="publisher">
-</div>
-</div>
-</div>
-<div class="row">
-<div class="col-xs-8">
-<a title="Follow us onblur Twitter" href="https://twitter.com/ASPSnippets" class="twitter-follow-button" data-show-count="false" data-size="small">Follow @ASPSnippets</a>
-</div>
-<div class="col-xs-3">
-<a title="RSS Feed: www.aspsnippets.com" href="/Rss.ashx" target="_blank" class="SocialLink rss" data-container="body" data-toggle="popover" data-placement="top" data-content="Subscribe to RSS feed."><span class="fa fa-rss-square fa-fw"></span></a>
-</div>
-</div>
-</div>
-<div class="hidden-xs">
-<div class="SocialButtonWrap" style="position: relative">
-<div class="g-ytsubscribe" data-channelid="UCZ-lC0IHFNlHuuivMRhqoHA" data-layout="default" data-count="default"></div>     
-</div>
-<div class="SocialButtonWrap">
-<div class="fb-like" data-href="https://www.facebook.com/ASPSnippets-306994206006035/" data-layout="button_count" data-action="like" data-size="large" data-show-faces="false" data-share="false"></div>
-</div>        
-<div class="SocialButtonWrap GooglePlusButtonWrap" style="position: relative; top: 3px;">
-<div class="g-follow" data-annotation="bubble" data-height="24" data-href="//plus.google.com/u/0/110371172807820981480" data-rel="publisher">
-</div>
-</div>
-<div class="SocialButtonWrap">
-<a href="https://twitter.com/ASPSnippets" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @ASPSnippets</a>
-</div>
-<div class="SocialButtonWrap rssButtonWrap" style="position: relative; top: 4px;">
-<a href="/Rss.ashx" target="_blank" class="SocialLink rss" data-container="body" data-toggle="popover" data-placement="top" data-content="Subscribe to RSS feed."><span class="fa fa-rss-square fa-fw"></span></a>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
@@ -314,6 +265,20 @@ Privacy Policies:
 <a target="_blank" href="https://developermedia.com/developer-media-privacy-policy/">Developer Media</a>
 <br>
 <a target="_blank" href="https://privacy.google.com/businesses/compliance/#?modal_active=none">Google Adsense</a>
+<br>
+<br>
+Third-parties and Opt-Out:
+<br>
+Third-parties may display interest-based advertising to you in applications or websites, based on your use of applications or websites over time and across non-affiliated apps.
+<br>
+Such third-parties may combine and use information from websites or applications on your current browser or device with information from your other browsers or devices for advertising purposes.
+<br><br>
+To opt-out of such interest-based advertising and/or cross-device targeting, please use the methods provided below for opting out on each of your browsers and on each of your devices:
+<br>
+<a target="_blank" href="http://optout.networkadvertising.org/">Network Advertising Initiative (NAI)</a> <br>
+<a target="_blank" href="http://www.aboutads.info/choices/">Digital Advertising Alliance (DAA)</a> <br>
+<a target="_blank" href="http://youradchoices.ca/choices">Digital Advertising Alliance Canada (DAAC)</a> <br>
+<a target="_blank" href="http://www.youronlinechoices.com/">Digital Advertising Alliance EU (EDAA)</a>
 <br>
 <br>
 <b><u>Contact</u></b><br>
@@ -416,8 +381,22 @@ _dma.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + f
 //function _dmFollowup(file) { if (Browser != "IE") { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); } }
 //(function () { if (Browser != "IE") { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); } })();
 function _dmFollowup(file) { if (typeof DMAds === 'undefined') _dmBootstrap('cdn2.DeveloperMedia.com/a.min.js'); }
-(function () {_dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+//(function () { _dmBootstrap('cdn1.DeveloperMedia.com/a.min.js'); setTimeout(_dmFollowup, 2000); })();
+(function () { setTimeout(_dmFollowup, 1000); setTimeout(_dmFollowup, 3000); })();
 </script>
+<link rel="stylesheet" href="https://www.aspsnippets.com/Bootstrap-3.0/css/bootstrap.min.css" media="screen">
+<link rel="stylesheet" href="/Bootstrap-3.0/css/override.css?30_6_2018">
+<!--[if gt IE 8]><!-->
+<link rel="stylesheet" media="all and (min-width: 1024px)" href="/Bootstrap-3.0/media/Above_1024.css?01_07_16_05_50">
+<link rel="stylesheet" media="all and (max-width: 767px)" href="/Bootstrap-3.0/media/below_767.css?01_07_16_05_50">
+<!--<![endif]-->
+<!--[if !IE]><!-->
+<link rel="stylesheet" media="all and (min-width: 1024px)" href="/Bootstrap-3.0/media/Above_1024.css?01_07_16_05_50">
+<link rel="stylesheet" media="all and (max-width: 767px)" href="/Bootstrap-3.0/media/below_767.css?01_07_16_05_50">
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<link rel="stylesheet" href='/Bootstrap-3.0/css/IE.css?01_07_16_05_50' />
+<![endif]-->
 <div id="dvCookie" class="popup" style="display: block; bottom: 15px; box-shadow: rgb(102, 102, 102) 1px 1px 8px; z-index: 99; right: 15px; min-width: 300px;">
 <div class="float-box-white-bg">
 <div class="header">
@@ -465,8 +444,6 @@ var AlreadySubcribeMessageWithIcon = "<i class='fa fa-times-circle text-info'></
 var SubscribeThankyouMessage = "Thank you! You are now subscribed.";
 var AlreadySubcribeMessage = "You are already subscribed.";
 </script>
-<script>var EnableSocialIcons = true;</script>
-<script src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v2.12&amp;appId=137087399669781&amp;autoLogAppEvents=1"></script>
 <script type="text/javascript" src="/scripts/wr1.js"></script>
 <script type="text/javascript">
 //<![CDATA[
