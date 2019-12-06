@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the qubitproducts.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630060827id_/https%3A//www.qubit.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qubitproducts.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206142817id_/https%3A//www.qubit.com/legal/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy | Legal | Qubit
 
-_Version as of May 25, 2018_
+### Privacy and Cookie Policy
+
+ _Version as of May 25, 2018_
 
 At Qubit Digital Limited (“Qubit”), data privacy is at the heart of what we do, and protecting the privacy of those who use our services or visit our website (“Visitors”) is of paramount important to us. This Privacy Policy describes our privacy practices in relation to the use of the Qubit websites and the related applications and services we offer (collectively, “Services”).  For information about the privacy practices Qubit employs when Qubit’s customers use any of our cloud-based product solutions (“Products”) or associated consultancy services, please see our Product Privacy Policy, available [here](https://www.qubit.com/legal/product-privacy-policy).
 
@@ -10,13 +12,13 @@ Qubit Inc. has certified under the EU–U.S. Privacy Shield framework set forth 
 
 Qubit has appointed Emre Baran as its Data Protection Officer.  Please contact Emre if you have any questions on any of Qubit’s privacy or data handling practices using the details in the “Contact us” section below.
 
-## 1\. Websites covered by this Privacy Policy
+ **1\. Websites covered by this Privacy Policy**
 
 This Privacy Policy covers the information practices of websites that link to this Privacy Policy, including: www.qubit.com (collectively referred to as the “Sites”).
 
 To enhance your experience, the Sites may include links to other, unaffiliated sites. Those websites will have their own privacy policies that you may wish to review. We have no responsibility for such linked websites or any use of those sites or those sites’ privacy practices. The Sites may also contain links to our presence on various social media platforms. As we do not operate or control such platforms, this Privacy Policy does not apply to your use of such platforms.
 
-## 2\. Information collected
+ **2\. Information collected**
 
 As a Visitor, you may ask for additional information about the Qubit Products, including signing up to receive a newsletter, registering to use the Sites, or registering for an event. In that case, we may ask you to give us personal contact information, such as name, company name, address, phone number, and email address (“Contact Information”).
 
@@ -28,7 +30,7 @@ Contact Information, Billing Information, Applicant Information, Optional Inform
 
 As you navigate Sites, Qubit may also collect information through the use of gathering tools, such as cookies, ETags and web beacons (“Website Navigational Information”). Website Navigational Information includes standard information from your web browser (such as browser type and browser language), your Internet Protocol (“IP”) address, and the actions you take on Sites (such as the pages viewed and the links clicked).
 
-## 3\. Use of information collected (purpose and legal basis)
+ **3\. Use of information collected (purpose and legal basis)**
 
 Qubit uses Website Navigational Information to operate and improve its Sites. Qubit may also use Website Navigational Information alone or in combination with Data about Visitors to provide personalized information about Qubit. For additional information about the use of Website Navigational Information, please see Section 4 below.  We use legitimate interest as a legal basis for this processing. Our legitimate interest is operating and improving our website.
 
@@ -42,7 +44,7 @@ Qubit may also use Data about Visitors for marketing purposes. For example, Qubi
 
 Qubit uses credit card information solely to collect payment from Visitors. We use performance of the contract as a legal basis for this processing.
 
-## 4\. Cookies and other types of Website Navigational Information
+ **4\. Cookies and other types of Website Navigational Information**
 
 This section describes the types of Website Navigational Information used on Sites, including cookies, and how this information may be used.
 
@@ -96,7 +98,7 @@ Sites may use social media features, such as the Facebook ‘like’ button (“
  **Do Not Track**  
 Currently, various browsers — including Internet Explorer, Firefox, and Safari — offer a “do not track” or “DNT” option that relies on a technology known as a DNT header, which sends a signal to Sites’ visited by the user about the user's browser DNT preference setting. Qubit does not currently commit to responding to browsers' DNT signals with respect to Qubit's Sites, in part, because no common industry standard for DNT has been adopted by industry groups, technology companies or regulators, including no consistent standard of interpreting user intent. Qubit takes privacy and meaningful choice seriously and will make efforts to continue to monitor developments around DNT browser technology and the implementation of a standard.
 
-## 5\. Sharing of information collected
+ **5\. Sharing of information collected**
 
  **Service Providers**  
 Qubit may share Data about Qubit Visitors with Qubit’s contracted service providers so that these service providers can provide services on our behalf. Without limiting the foregoing, Qubit may also share Data about Visitors with Qubit’s service providers to ensure the quality of information provided, and with third–party social networking and media websites, such as Facebook, for marketing and advertising on those sites.
@@ -116,15 +118,15 @@ Qubit uses a third-party service provider to manage credit card processing. This
  **Compelled Disclosure**  
 Qubit reserves the right to use or disclose information provided if required by law or if Qubit reasonably believes that use or disclosure is necessary to protect Qubit’s rights and/or to comply with a judicial proceeding, court order, or legal process.
 
-## 6\. International transfer of information collected
+ **6\. International transfer of information collected**
 
 Qubit primarily stores Data about Visitors in the European Economic Area and in the United States. To facilitate Qubit’s global operations, Qubit may transfer and access such information from around the world, including from other countries in which Qubit has operations. A list of Qubit’s global offices is available [here](https://www.qubit.com/contact). This Privacy Policy shall apply even if Qubit transfers Data about Visitors to other countries. For the purpose of transfer outside the European Economic Area, Qubit Inc. has certified under the EU–U.S. Privacy Shield framework set forth by the U.S. Department of Commerce and the European Union. You can view a description of how we comply with the Privacy Shield Principles in our [Privacy Shield Notice](https://www.qubit.com/legal/privacy-shield-notice). For more information on the EU–U.S. Privacy Shield, please visit the U.S. Department of Commerce’s Privacy Shield website [here](https://www.privacyshield.gov/). 
 
-## 7\. Communications preferences
+ **7\. Communications preferences**
 
 Qubit offers Visitors who provide contact information a means to choose how Qubit uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of Qubit’s marketing emails. Additionally, you may send a request to [legal@qubit.com](mailto:legal@qubit.com).
 
-## 8\. Data subject requests, retention period, supervisory authority and other information
+ **8\. Data subject requests, retention period, supervisory authority and other information**
 
  **Data subject requests**  
 You can ask us to update, change or delete any information Qubit holds about you.  Requests to access, change, or delete your information will be handled within 28 days. You can find out if we hold any personal data by making a ‘data subject access request’ under the General Data Protection Regulation. If we do hold information about you we will:
@@ -159,7 +161,7 @@ Unless otherwise required by law, Data shall be stored for a maximum of six year
  **Supervisory authority**  
 The lead supervisory authority for Qubit and the Qubit Group is the Information Commissioner in the United Kingdom. We would always encourage our Visitors to reach out to us directly regarding any concerns about our data privacy or handling practices.  However, you may also reach to our supervisory authority (ideally our lead supervisory authority the ICO in the United Kingdom), and lodge a complaint with them.
 
-## 9\. Security
+ **9\. Security**
 
 Qubit maintains tight controls over Data, retaining it in firewalled and secured databases with strictly limited and controlled access rights, to ensure it is secure.
 
@@ -167,19 +169,19 @@ Qubit is ISO 27001 certified and has comprehensive privacy and security assessme
 
 Qubit also uses third party tools to store Data. We use CRM services from Salesforce to store Data about our prospective and current customers. We use Google services as a platform for Qubit’s own products. And we use Hubspot as a marketing automation tool where store Data related to our marketing activities. If you want to learn more about security measures that our main third-party providers employ please see the links here: [Salesforce, ](https://help.salesforce.com/articleView?id=Salesforce-Services-Trust-and-Compliance-Documentation&type=1)[Google, ](https://cloud.google.com/security/)[Hubspot](https://www.hubspot.com/security).
 
-## 10\. “Powered by Qubit”
+ **10\. “Powered by Qubit”**
 
 As you browse the Internet, you may see or interact with certain applications, widgets or features that our customers run on, or have implemented into, their own websites with the label “Powered by Qubit”.  This indicates that Qubit technology is being used to deliver personalized content, or otherwise enhance a user’s online experience. Importantly, however, Qubit does not operate or control such websites, and has no responsibility for those sites’ privacy practices. Those sites will have their own privacy policies that you may wish to review, and this Privacy Policy does not apply to your use of such websites.
 
-## 11\. Your information if there is a business transfer:
+ **11\. Your information if there is a business transfer:**
 
 As we continue to develop our business, we may sell or purchase a business or assets. If we purchase another entity or if another entity acquires us or all or substantially all of our assets, or assets related to the Qubit product offering, personal data, user data, and any other information that we have collected about the users of our products and services may be disclosed to such entity as part of the due diligence process and, if we or our assets are acquired, will be transferred to such entity as one of the transferred assets. You acknowledge that such transfers may occur, and that any acquiror of Qubit may continue to use your personal data as set forth in this policy.
 
-## 12\. Changes to this Privacy Policy
+ **12\. Changes to this Privacy Policy**
 
 Qubit reserves the right to change this Privacy Policy. Qubit will provide reasonably in advance a notification of the material changes to this Privacy Policy through Sites.
 
-## 13\. Contacting us
+ **13\. Contacting us**
 
 Questions regarding this Privacy Policy or the information practices of Sites should be directed to “Attn: Qubit Privacy” by e-mailing [legal@qubit.com](mailto:legal@qubit.com) or by mailing Qubit to: **ATTN: Privacy, 35 King Street London WC2E 8JG, United Kingdom**.
 
