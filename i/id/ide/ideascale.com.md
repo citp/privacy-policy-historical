@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ideascale.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410110837id_/https%3A//support.ideascale.com/publishing-recruiting/ideascale-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideascale.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206113020id_/https%3A//support.ideascale.com/publishing-recruiting/ideascale-privacy-policy) for the most accurate reproduction.*
 
 # IdeaScale Privacy Policy | IdeaScale Support Center
 
-**1\. GENERAL INFORMATION**  
+  1. **GENERAL INFORMATION**  
+
+
 
 This privacy policy applies to the collection, use, and disclosure of information collected through [www.ideascale.com](http://www.ideascale.com/), the IdeaScale services, and related products and services owned and operated by IdeaScale and its subsidiaries (the "Services"). The use of information collected through the Services shall be limited to the purpose of providing the Services for which IdeaScale customers have engaged IdeaScale. As used in this policy, the term "IdeaScale" collectively refers to IdeaScale, a California corporation, and its subsidiaries. 
 
@@ -60,7 +62,7 @@ IdeaScale uses ad targeting cookies, only within its marketing pages, that colle
 
 As is true of most web sites, IdeaScale gathers certain information automatically and stores it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. IdeaScale does not link this automatically collected data to other information collected about you.   
 
-Technologies such as cookies, beacons, tags and scripts and similar tracking technologies are used by IdeaScale, IdeaScale affiliates, marketing partners, analytics providers and online customer support providers. These technologies are used to analyze trends, to administer the Services, to track activity in the Services, to gather demographic information about the user base, and to create reports regarding use for internal review. To manage cookies, see Section 7 below.  
+Technologies such as cookies, beacons, tags and scripts and similar tracking technologies are used by IdeaScale, IdeaScale affiliates, marketing partners, analytics providers and online customer support providers. These technologies are used to analyze trends, to administer the Services, to track activity in the Services, to gather demographic information about the user base, to market IdeaScale services, and to create reports regarding use for internal review. To manage cookies, see Section 7 below.  
 
 For end users within the IdeaScale applications, your publicly available IP address is collected for the purpose determining the appropriate language in which to provide the Services. In non-United States jurisdictions an IP address may be classified as personal information or personal data under applicable laws; therefore, to the extent that IdeaScale collects IP addresses, IdeaScale will collect, use, maintain, secure and/or disclose IP addresses in accordance with applicable Laws. Additionally, and only for visitors to IdeaScale’s marketing pages, IP addresses are collected to advertise IdeaScale services to these visitors elsewhere on the Internet. See Section 7 to learn how to delete and control these cookies.
 
@@ -85,7 +87,7 @@ Cookies are used on its marketing pages and within its Services. IdeaScale may p
 
 **8\. ACCOUNT CORRECTION AND CANCELLATION**  
 
-Upon request, IdeaScale will provide you with information about whether it holds, or processes on behalf of a third party, any of your personal information. To request this information please contact IdeaScale at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#87f4f2f7f7e8f5f3c7eee3e2e6f4e4e6ebe2a9e4e8ea) or the postal address listed below.  
+Upon request, IdeaScale will provide you with information about whether it holds, or processes on behalf of a third party, any of your personal information. To request this information please contact IdeaScale at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a1d2d4d1d1ced3d5e1c8c5c4c0d2c2c0cdc48fc2cecc) or the postal address listed below.  
 
 IdeaScale collects information under the direction of its customers and has no direct relationship with the individuals whose personal data it processes on behalf of its customers. IdeaScale acknowledges that you have the right to access your personal information. If you seek to access your personal information, or seek to correct, amend, or delete inaccurate data and are unable to do so by logging into your account, please contact the IdeaScale customer with which your account is associated for assistance. Customers may correct, amend, or delete inaccurate personal information through their administrator panels. If a customer requests IdeaScale’s assistance to remove data, IdeaScale will respond within a reasonable timeframe.
 
@@ -95,11 +97,11 @@ The security of your personally identifiable information is important to IdeaSca
 
 **11\. BLOG**  
 
-IdeaScale offers publicly accessible blogs, community forums and IdeaScale communities. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them, and could be used to send you unsolicited messages. IdeaScale is not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personally identifiable information from an IdeaScale blog or community forum, contact IdeaScale at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f98a8c8989968b8db9909d9c988a9a98959cd79a9694) In some cases, IdeaScale may not be able to remove your personally identifiable information, in which case it will let you know if is unable to do so and why.
+IdeaScale offers publicly accessible blogs, community forums and IdeaScale communities. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them, and could be used to send you unsolicited messages. IdeaScale is not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personally identifiable information from an IdeaScale blog or community forum, contact IdeaScale at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8cbcdc8c8d7caccf8d1dcddd9cbdbd9d4dd96dbd7d5) In some cases, IdeaScale may not be able to remove your personally identifiable information, in which case it will let you know if is unable to do so and why.
 
 **12\. TESTIMONIALS**  
 
-IdeaScale displays personal testimonials of satisfied customers on its site in addition to other endorsements. With your consent IdeaScale may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact IdeaScale at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#ccbfb9bcbca3beb88ca5a8a9adbfafada0a9e2afa3a1)
+IdeaScale displays personal testimonials of satisfied customers on its site in addition to other endorsements. With your consent IdeaScale may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact IdeaScale at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#acdfd9dcdcc3ded8ecc5c8c9cddfcfcdc0c982cfc3c1)
 
 **13\. LINKS TO THIRD PARTY SITES**  
 
@@ -113,19 +115,21 @@ IdeaScale Services include social media features, such as the Facebook share but
 
 You can log into the Services using sign-in services such as the social media login features provided by sites such as Facebook and LinkedIn. These services will authenticate your identity and provide you the option to share certain personal information with IdeaScale, such as your name and email address, to pre-populate your sign up form and profile. Social media login gives you the option to post information about your activities on the Services to your profile page to share with others in your network. 
 
-**16\. EUROPEAN UNION & SWISS USERS**
+**16\. EUROPEAN UNION, UNITED KINGDOM, & SWITZERLAND**
 
-**Scope**    
-This Section 16 only applies to personal information from European Union member countries and Switzerland.
+**Scope  
+** This Section 16 only applies to personal information from European Union (EU) member countries, the United Kingdom (UK), and Switzerland.
 
 **EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield**   
-IdeaScale participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. IdeaScale is committed to subjecting all personal data received from European Union (EU) member countries and Switzerland, in reliance on each Privacy Shield Framework, to the Frameworks’ applicable Principles. To learn more about the Privacy Shield Frameworks, and to view IdeaScale’s certification, visit the U.S. Department of Commerce's Privacy Shield [List](https://www.privacyshield.gov/) . IdeaScale is responsible for the processing of personal data it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. IdeaScale complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions. IdeaScale shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless IdeaScale proves that it is not responsible for the event giving rise to the damage.  
+IdeaScale participates in and complies with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the EU, UK and Switzerland to the United States in reliance on Privacy Shield. IdeaScale is committed to subjecting all personal data received from EU member countries, the UK, and Switzerland, to the Frameworks’ applicable Principles. IdeaScale is responsible for the processing of personal data it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. Additionally, IdeaScale complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, UK, and Switzerland, including the onward transfer liability provisions. IdeaScale shall remain liable under the Principles if its agent processes such personal information in a manner inconsistent with the Principles, unless IdeaScale proves that it is not responsible for the event giving rise to the damage. 
+
+IdeaScale has certified to the Department of Commerce that it adheres to the Privacy Shield Principles with respect to such information.If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [https://www.privacyshield.gov/](https://www.privacyshield.gov/welcome)
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, IdeaScale is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, IdeaScale may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 **Dispute Resolution**
 
-Within the scope of this privacy notice, if a privacy complaint or dispute cannot be resolved through IdeaScale’s internal processes, IdeaScale has agreed to participate in the [VeraSafe Privacy Shield Dispute Resolution Procedure](https://www.verasafe.com/privacy-services/dispute-resolution/privacy-shield-dispute-procedure/). Subject to the terms of the VeraSafe Privacy Shield Dispute Resolution Procedure, VeraSafe will provide appropriate recourse free of charge to you. To file a complaint with VeraSafe under the Privacy Shield Dispute Resolution Procedure, please submit the required information to VeraSafe [here](https://www.verasafe.com/privacy-services/dispute-resolution/submit-dispute/):
+Within the scope of this privacy notice, if a privacy complaint or dispute cannot be resolved through IdeaScale’s internal processes, IdeaScale has agreed to participate in the [VeraSafe Privacy Shield Dispute Resolution Procedure](https://www.verasafe.com/privacy-services/dispute-resolution/privacy-shield-dispute-procedure/). Subject to the terms of the VeraSafe Privacy Shield Dispute Resolution Procedure, VeraSafe will provide appropriate recourse free of charge to you. To file a complaint with VeraSafe under the Privacy Shield Dispute Resolution Procedure, please submit the required information to VeraSafe [here](https://www.verasafe.com/privacy-services/dispute-resolution/submit-dispute/).
 
  Under certain conditions, more fully described on the Privacy Shield website [[How to submit a complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint)], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
