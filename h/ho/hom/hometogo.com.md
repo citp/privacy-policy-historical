@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometogo.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606070112id_/https%3A//www.hometogo.com/legal/%23dataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometogo.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206045333id_/https%3A//www.hometogo.com/legal/%23dataprotection) for the most accurate reproduction.*
 
 # Legal, Terms and Conditions, & Privacy Policy | HomeToGo
 
@@ -14,7 +14,7 @@ The following Privacy Policy contains information about the way and extent to wh
 
 This Privacy Policy applies to the data processing performed by HomeToGo GmbH, Perleberger Str. 42a, 10559 Berlin (the "controller", hereinafter "HomeToGo"), to be contacted at [info@hometogo.com](mailto:info@hometogo.com), and for the following website or application: www.hometogo.com.
 
-The company Data Protection Officer of HomeToGo can be reached at datenschutzbeauftragter@datenschutzexperte.de (Datenschutzexperte.de, PROLIANCE GmbH, Leopoldstr. 21, 80802 Munich, Germany).
+The company Data Protection Officer of HomeToGo can be reached at [privacy@hometogo.com](mailto:privacy@hometogo.com) (Waterside DS GmbH, Bergstr. 28, 22095 Hamburg, Germany).
 
 3. The purposes for which data is processed, the legal basis and legitimate interests pursued by HomeToGo or a third party, as well as categories of recipients
 
@@ -42,7 +42,9 @@ We use the IP address of your device and the other data listed above for the fol
 
 
 
-The data is stored for a period of up to 7 days and is then deleted automatically. We also use what are known as cookies for our website/application, as well as tracking tools, targeting methods and social media plug-ins. The exact procedures used and how your data are used for this purpose are explained in more detail below.
+The data will be erased as soon as it is no longer required for the purpose of its initial collection. In the case of data collection to enable making the website available, this is the case when the respective session ends. The data is stored in log-files for a period of up to 6 weeks and is then deleted automatically so that it is no longer possible to allocate the user.
+
+We also use what are known as cookies for our website/application, as well as tracking tools, targeting methods and social media plug-ins. The exact procedures used and how your data are used for this purpose are explained in more detail below.
 
 3.2. Creating and using a user account; bookings, booking inquiries and HomeToGo Money-Back Guarantee
 
@@ -56,7 +58,7 @@ When you create a user account with us, we process personal data in the followin
 
 
 
-A user account is also created when you enter your email address in order to receive separate offers by email. Likewise, a user account is created when you enter your email address and then make a booking or booking inquiry through our website (see section 3.2.2.), or if you choose the HomeToGo Money-Back Guarantee (see section 3.3.). These services require the setup of a user account for technical reasons, storing email address, name and travel dates.
+Likewise, a user account is created when you enter your email address and then make a booking or booking inquiry through our website (see section 3.2.2.), or if you choose the HomeToGo Money-Back Guarantee (see section 3.3.). These services require the setup of a user account for technical reasons, storing email address, name and travel dates.
 
 Each time you log in, technical information is stored about your device and your browser, as well as information about your searches. This helps us to improve your overall user experience on the website, as well as the overall services.
 
@@ -178,6 +180,14 @@ You can block the connection within your Google account.
 
 Please refer to Google’s privacy policy for details regarding the purpose and scope of the data collection and further processing and use of the data by Google, as well as regarding your associated rights and the settings options you can use to protect your privacy (<https://policies.google.com/privacy?hl>).
 
+3.4.3. Email service
+
+We use the SendGrid service of Twilio / SendGrid, Inc., 1801 California Street, Suite 500, Denver, Colorado 80202, USA, to send some emails (booking and inquiry confirmations and notifications, as well as advertising). Your email address and your first and last name will be processed to personalize the emails sent. A data processing relationship is in place with Twilio / SendGrid.
+
+The legal basis for this is the fulfillment of our contractual obligations pursuant to Article 6 (1) (b) GDPR or the consent pursuant to Article 6 (1) (a) GDPR that you may revoke at any time. The lawfulness of the data processing already carried out remains unaffected by the revocation. There is a legitimate interest to process data through Twilio / SendGrid pursuant to Article 6 (1) (f) GDPR.
+
+Further information can be found in Twilio / SendGrid’s Privacy Policy (<https://sendgrid.com/policies/privacy/>). 
+
 3.5. Data processing for advertising purposes
 
 3.5.1. Newsletter
@@ -238,11 +248,15 @@ is transmitted to a Google server in the US and stored there. Google complies wi
 
 The information is used to evaluate the use of the website, to compile reports on the activity on the website, and to provide other services related to the use of the website and internet usage for the purposes of market research and to customize the design of these websites in line with the needs of users. This information may also be transferred to third parties if required by law or if third parties are contracted to process this data. Under no circumstances will your IP address be combined with any other data from Google. The IP addresses are anonymized, which means that it is not possible to identify specific individuals (“IP masking”).
 
-3.7.2. New Relic
+3.7.2. Google Tag Manager
+
+We use the Google Tag Manager. This Google service allows website tags to be managed through an interface. Only tags are implemented, i.e. no cookies are set and no personal data is collected. The Tag Manager triggers other tags that may themselves collect data. Google Tag Manager does not access this data. If deactivation has been done at the domain or cookie level, it will apply to all tracking tags implemented with Google Tag Manager. More information can be found in the Google Tag Manager use policy: <https://www.google.com/intl/de/tagmanager/use-policy.html>.
+
+3.7.3. New Relic
 
 To perform accessibility and performance monitoring for our servers, we use the "New Relic" web analytics service provided by New Relic Inc., 188 Spear Street, Suite 1200, San Francisco, CA 94105, USA. Using pseudonymized usage data, technical performance data (e.g., response and load times) is measured and analyzed to improve our server performance. Further details and information can be found in the New Relic Privacy Policy at <https://newrelic.com/privacy/>.
 
-3.7.3. Snowplow
+3.7.4. Snowplow
 
 We use the Snowplow open source web analytics service provided by Snowplow Analytics Limited, 32-38 Scrutton Street, London, EC2A 4RQ, United Kingdom. Cookies are used as part of this. The information generated by the cookie about your use of this website, e.g.
 
@@ -260,7 +274,7 @@ is transmitted to a HomeToGo server in Frankfurt and stored there.
 
 The information is used to evaluate the use of the website, to compile reports on the activity on the website, and to provide other services related to the use of the website and internet usage for the purposes of market research and to customize the design in line with the needs of users.
 
-3.7.4. Adjust
+3.7.5. Adjust
 
 In our app, we use the analytics service of Adjust GmbH, Saarbrücker Str. 37A, 10405 Berlin, Germany. The analytics service is implemented in our app via a development environment (SDK - Software Developer Kit). The information generated by the development environment, e.g.
 
@@ -276,7 +290,11 @@ is collected and used by Adjust GmbH to evaluate the use of the app, to compile 
 
 You can find more information about Adjust's privacy policy here: <https://www.adjust.com/privacy-policy/>. You can object to tracking by Adjust at any time within the "Opt-out" section of Adjust's Privacy Policy. To do this, you must select the device for which you do not want Adjust to perform tracking and specify your Device Identifier. Behavior tracking from apps that use Adjust will then be immediately removed on your device.
 
-3.7.5. Videobeat
+3.7.6. TrackJS
+
+We use the services of TrackJS LLC. TrackJS allows us to analyze technical errors in JavaSkript, so that we can check and improve the quality of our website and app. More information can be found in TrackJS privacy policy: <https://trackjs.com/privacy/>.
+
+3.7.7. Videobeat
 
 We use the Videobeat analytics software by Videobeat Networks GmbH, Rathausstr. 4, 20095 Hamburg, Germany, for the analysis of television and online marketing activities. Traffic on our website is monitored via a tracking pixel.
 
@@ -286,7 +304,7 @@ Through the pixel, IP addresses already collected anonymously are stored togethe
 
 Videobeat’s Privacy Policy can be found here: <https://www.videobeat.net/us/data-privacy-policy/>. You can object to the collection of your data by Videobeat at any time by clicking here: [https://pa.videobeat.net/index.php?module=CoreAdminHome&action=optOut&language=en](https://pa.videobeat.net/index.php?module=CoreAdminHome&action=optOut&language=en).
 
-3.7.6. Matomo
+3.7.8. Matomo
 
 Additionally, we use the Matomo (formerly Piwik) open source web analytics service provided by InnoCraft Ltd., 150 Willis St, 6011 Wellington, New Zealand (“Matomo”). For this, cookies are used to enable analysis the use of our website. From this data, pseudonymized user profiles can be created and analyzed. The information generated by the cookie, such as your browser and pseudonymized IP address, is processed on our servers. The information generated by the cookie in the pseudonymous user profile is not used to personally identify you and is not combined with your personal data.
 
@@ -440,11 +458,11 @@ Technology from Ad Up, a service provider of Axel Springer Teaser Ad GmbH, Axel-
 
 More information can be found in Ad Up’s privacy policy here: <https://www.adup-tech.com/en/privacy>. You can deactivate Ad Up in your browser by clicking the button “activate opt-out cookie” there.
 
-3.8.16 BingAds Services
+3.8.16. BingAds Services
 
 On our website, we use BingAds Services by Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, D18 P521, Ireland, for displaying advertisements. In this way we can show you advertisements that may be of interest to you. These advertisements can be recognized by the note “Ads by Microsoft” or a similar reference. Microsoft uses web beacons and cookies (see section 3.6). The information generated by cookies and web beacons about the use of the website (including you IP address and device ID) and delivery of advertising formats is transmitted to a Microsoft server in Ireland and the US and stored there.
 
-For more information, as well as the provisions regarding data privacy, please see the Microsoft Privacy Policy at <https://privacy.microsoft.com/en-us/privacystatement>. There is explained how you can object to the interest-based advertisement via opt out.
+For more information, as well as the provisions regarding data privacy, please see the Microsoft Privacy Policy at <https://privacy.microsoft.com/en-us/privacystatement>. There it is explained how you can object to the interest-based advertisement via opt-out.
 
 3.8.17. Other third parties
 
@@ -470,21 +488,65 @@ Neither partners, nor intermediaries of the partner’s offers (affiliate) drop 
 
 
 
-4\. Google Maps
+4\. Third party services and plugins
 
-We use Google Maps API for displaying interactive maps directly on our website and to enable the simplified use of map functionality. Your IP address is transmitted and stored on one of Google’s servers in the US for the usage of Google Maps functionality (see section 3.7.1 regarding the US Privacy Shield). Legal basis is (Article 6 (1) (f) GDPR). 
+4.1. Google Maps
 
-Please see the Terms of Service for Google Maps here: <https://www.google.com/intl/en/help/terms_maps.html>. You can find further information on data privacy in Google’s Privacy Policy here: <https://policies.google.com/privacy>.
+We use Google Maps API for displaying interactive maps directly on our website and to enable the simplified use of map functionality. Your IP address is transmitted and stored on one of Google’s servers in the US for the usage of Google Maps functionality (see section 3.7.1 regarding the US Privacy Shield). Legal basis is Article 6 (1) (f) GDPR. 
 
-5. Contact form
+Please see the Terms of Service for Google Maps here: <https://www.google.com/intl/en/help/terms_maps.html>. You can find further information on data privacy in Google’s Privacy Policy here: <https://policies.google.com/privacy>.
+
+4.2. Google Fonts
+
+On our website we use fonts (“Google Fonts”) provided by Google. For this your browser loads the required font into your browser cache when our website is opened. This is necessary so that the browser can display a visually improved version of our texts. If your browser does not support this feature, a default font will be used by your computer for display. The integration of these fonts is completed by a server call, usually a Google server in the USA. This will communicate to the server that you have visited this website.
+
+When the page is accessed, cookies are not sent by users to the Google Fonts API. Data transferred in connection with the pageview is sent to resource-specific domains such as fonts.googleapis.com or fonts.gstatic.com. You will not be associated with any information collected or used in connection with the parallel use of authenticated Google services, such as Gmail. You can set your browser so that the fonts from Google servers are not loaded.
+
+HomeToGo uses Google fonts to ensure an appealing presentation of its services. The legal basis is Article 6 (1) (f) GDPR.
+
+Further information can be found in Google’s privacy policy (<https://policies.google.com/privacy>).
+
+5. Group
+
+HomeToGo is a company of the HomeToGo Group. We may share your personal data with our associated companies within the HomeToGo Group on an occasional basis. The HomeToGo Group includes all (current and future) entities that are directly or indirectly controlled by HomeToGo GmbH (“HomeToGo”) or are under common control of HomeToGo. The transfer of data within the HomeToGo Group takes place for the following purposes:
+
+a)     Provision of our intermediary services and of our portal
+
+b)     Provision of customer service services
+
+c)     Sending advertising with your consent or if permitted by applicable law
+
+d)     Analysis, optimization and improvement of our website and app
+
+e)     Identification and investigation of fraud and illegal activities
+
+f)      Compliance with laws and regulations
+
+The legal basis for the transfer of data within the HomeToGo Group is Article 6 (1) (a), (b) and (f) GDPR.
+
+In detail, the legal basis for the purposes a) and b) is Article 6 (1) (b) GDPR. Sharing this data enables us to fulfill our contractual obligations arising from our terms of service.
+
+The legal basis for purpose c) is your explicit consent (Article 6 (1) (a) GDPR) that you may revoke any time, or our legitimate interest to do marketing for existing customers (Article 6 (1) (f) GDPR). The lawfulness of the data processing already carried out remains unaffected by the revocation.
+
+For purposes d), e) and f), our legitimate interest derives from the improvement of our services as well as the protection of your identity and the prevention of fraudulent activities (Article 6 (1) (f) GDPR).
+
+6. Contact form
 
 We provide you with a contact form which you can use to ask us questions by entering your name and your email address. The use of the contact form is voluntary, and your data is processed in order to fulfill our contractual service obligations (Article 6 (1) (b) GDPR).
 
 The questions and the information you enter will be transferred to our ticket system. To this end, we make use of the support services of Desk.com, 1 Market Steet, San Francisco, CA 94105, USA. If you do not wish to have your data processed by Desk.com, please contact our customer service directly at [info@hometogo.com](mailto:info@hometogo.com).
 
-6. Your rights
+7\. Feedback
 
-6.1. Overview
+We use the services of Zenloop GmbH, Pappelallee 78/79, 10437 Berlin, Germany. Zenloop allows us to collect and analyze user feedback through various channels. Zenloop collects the IP address, device and browser data, and the website from which the feedback tool is deployed.
+
+The legal basis for this is Article 6 (1) (f) GDPR. Our legitimate interest is based on the purpose of optimizing the marketing of our services. Zenloop processes personal data on our behalf.
+
+For more information, please see Zenloop’s Privacy Policy at <https://www.zenloop.com/en/legal/privacy>.
+
+8. Your rights
+
+8.1. Overview
 
 In addition to the right to revoke the consent you have granted to us, you are entitled to the following further rights if the relevant legal requirements apply:
 
@@ -496,10 +558,10 @@ In addition to the right to revoke the consent you have granted to us, you are e
 
 
 
-6.2. Right to object
+8.2. Right to object
 
  _Under the conditions of Article 21 (1) GDPR, data processing can be objected to on grounds relating to the particular situation of the data subject._
 
-The above general right of objection applies to all processing purposes described in this Privacy Policy which are based on Article 6 (1) (f) GDPR. Unlike the special right of objection to data processing for advertising purposes, under the GDPR we are only obliged to implement such a general objection if you give us reasons of overriding importance for this (for example, possible danger to life or health). In addition, you may also contact the supervisory authority responsible for HomeToGo, the Berlin Commissioner for Data Protection and Freedom of Information, Friedrichstr. 219, 10969 Berlin, Germany, Phone: +49 (0) 30 13889-0, Fax: +49 (0) 30 2155050, Email: mailbox@datenschutz-berlin.de.
+The above general right of objection applies to all processing purposes described in this Privacy Policy which are based on Article 6 (1) (f) GDPR. Unlike the special right of objection to data processing for advertising purposes, under the GDPR we are only obliged to implement such a general objection if you give us reasons of overriding importance for this (for example, possible danger to life or health). In addition, you may also contact the supervisory authority responsible for HomeToGo, the Berlin Commissioner for Data Protection and Freedom of Information, Friedrichstr. 219, 10969 Berlin, Germany, Phone: +49 (0) 30 13889-0, Fax: +49 (0) 30 2155050, Email: [mailbox@datenschutz-berlin.de](mailto:mailbox@datenschutz-berlin.de).
 
-Version 1.1 – As of 25 May 2018
+Version 2 – As of the 1st of October 2019
