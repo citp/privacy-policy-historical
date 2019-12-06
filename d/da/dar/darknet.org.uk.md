@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the darknet.org.uk privacy policy that was archived on 2019-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190425165701id_/https%3A//www.darknet.org.uk/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darknet.org.uk privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206203749id_/https%3A//www.darknet.org.uk/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Darknet
 
