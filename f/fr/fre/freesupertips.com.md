@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331091246id_/https%3A//www.freesupertips.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesupertips.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206191640id_/https%3A//www.freesupertips.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Super Tips
 
-About this privacy policy  
+**See our Fair Processing Notice here:  <https://www.freesupertips.com/fair-processing-notice/>**
+
+ **About this privacy policy  
+**  
 This policy sets out how we will use and share the information that you give us.
 
 freesupertips is a trading name of Apsley Group International Ltd which is registered in England with company number 08774926 and has its registered office at 5 Fleet Place, London, EC4M 7RD. Apsley Group International Ltd is registered with the Information Commissioner’s Office under the Data Protection Act 1998; its registration number is ZA296667. When we refer to “we”, “us”, or “freesupertips” we are referring to this company.
@@ -133,10 +136,6 @@ Cloudare Security, cache storage Cloudare cookies help optimise the website  an
 cookieFB holds the ID of a featured bet used to perform a check to see if the user has  already seen and closed the featured bet modal seen
 
 Offers stores an array containing bet used to display a notification of bets that the  ID’s that the user has user hasn’t seen previously seen
-
- **Whatsapp**
-
-We use a 3rd party provider to provide WhatsApp messages. Your data will never be shared or sold and you will be unsubscribed if you message and say stop. Inactive users will be removed from our list after 1 year or on request.
 
  **Changes**
 
