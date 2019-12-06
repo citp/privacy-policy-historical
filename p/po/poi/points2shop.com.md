@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the points2shop.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127165543id_/https%3A//www.points2shop.com/rules/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the points2shop.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206135245id_/https%3A//www.points2shop.com/rules/privacy_policy) for the most accurate reproduction.*
 
 # Points2shop - Earn Points for Free Rewards
 
-**Last updated:** 05/23/2018
+**Last updated:** 06/11/2019
 
 **1\. Overview**
 
@@ -53,7 +53,7 @@ We reserve the right to share your identity with others within the stipulations 
 
 **7\. Sharing and Cookies**
 
-Points2Shop uses cookies and similar technologies to recognize you when you visit our websites. Our cookie policy explains what these technologies are and why we use them, as well as your rights to control our use of them. Read our [cookie policy](https://web.archive.org/rules/cookies). 
+Points2Shop uses cookies and similar technologies to recognize you when you visit our websites. Our cookie policy explains what these technologies are and why we use them, as well as your rights to control our use of them. Read our [cookie policy](https://www.points2shop.com/rules/cookies). 
 
 **8\. Children's Privacy**
 
@@ -114,17 +114,11 @@ You can close your account through our website. If you close your account, we wi
 
 **13.      International Data Transfers**
 
-Our servers are located in United States. If you are accessing our from outside United States, please be aware that your information may be transferred to, stored, and processed by us in our facilities and by those third parties with whom we may share your personal information in Poland, Sweden, France, United Kingdom, United States, and other countries. 
+We operate internationally and may transfer information about you to any jurisdiction where we do business, including the United States. When you use our websites or applications, you acknowledge that we may transfer information about you as described in this policy. 
 
-If you are a resident in the European Economic Area, then these countries may not have data protection or other laws as comprehensive as those in your country. We will however take all necessary measures to protect your personal information in accordance with this privacy policy and applicable law. 
+We will transfer your personal information for any of the purposes identified in this policy to any of our subsidiaries, affiliates, service providers, and business partners that may be located outside of the jurisdiction where you are located. The laws in those jurisdictions may not provide the same level of data protection compared to the laws in your country. However, we will treat your personal information as subject to the protections described in this policy. 
 
-EU-U.S. Privacy Shield Framework:  
-
-In particular points2shop llc complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States and has certified its compliance with it. As such, points2shop llc is committed to subjecting all personal information received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. 
-
-Points2shop llc is responsible for the processing of personal information it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. 
-
-With respect to personal information received or transferred pursuant to the Privacy Shield Framework, points2shop llc is subject to the regulatory enforcement powers of the U.S. FTC. In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+When we transfer personal information subject to the General Data Protection Regulation to entities located outside of the European Economic Area ("EEA"), we will rely on an appropriate legal basis, such as appropriate safeguards, which could include the standard contractual clauses, binding corporate rules, the EU-US Privacy Shield program, or another framework deemed adequate by the European Commission, or as otherwise permitted by applicable law, such as pursuant to your consent or in order to perform our contractual agreements with you. 
 
 **14\. Privacy Compliance**
 
