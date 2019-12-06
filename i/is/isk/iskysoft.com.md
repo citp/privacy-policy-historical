@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iskysoft.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613113323id_/https%3A//www.iskysoft.com/other/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskysoft.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206171538id_/https%3A//www.iskysoft.com/other/privacy.html) for the most accurate reproduction.*
 
 # iSkysoft Privacy Policy
 
