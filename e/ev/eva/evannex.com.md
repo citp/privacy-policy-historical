@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evannex.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414115545id_/https%3A//evannex.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evannex.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206044903id_/https%3A//evannex.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Aftermarket Tesla Accessories, Gear, parts for Model S | EVANNEX Aftermarket Tesla Accessories
 
