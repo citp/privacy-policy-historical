@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ximad.com privacy policy that was archived on 2019-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190625030006id_/https%3A//www.zimad.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ximad.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206081114id_/https%3A//zimad.com/policy) for the most accurate reproduction.*
 
-# ZiMAD
+# Privacy Policy - ZiMAD
 
 ZiMAD’s mission is to deliver enjoyable entertainment experiences to people around the world.  In pursuit of our mission, we collect and use certain information from our players.  We have created this Privacy Policy to be fully transparent and to demonstrate our firm commitment to protecting and respecting your privacy.
 
@@ -60,7 +60,7 @@ The information we receive depends on the ZiMAD app you are playing, the third-p
 
   * Your first and last name
   * Your profile picture or its URL
-  * Your user identification number (e.g., Facebook ID)
+  * Your user identification number (e.g., Facebook ID) or Online handles 
   * Your friends’ user ID numbers and other public data
   * The email address provided to that third-party application
   * Your gender
@@ -114,7 +114,7 @@ The primary use of the personal information we collect and store is to provide y
 
 
 
-For purposes of the EU Data Protection legislation, ZiMAD is the “data controller” of your personal information.
+For purposes of the EU Data Protection legislation and California Consumer Privacy Act, ZiMAD is the “data controller” of your personal information.
 
 **Who We Share Personal Information with and the Purposes of Data Sharing**
 
@@ -208,13 +208,29 @@ Residents of the European Countries have the right to complain to a data protect
 
 Please note that because most of the information we store can only identify a particular browser or device, and cannot directly identify you personally, you may need to provide us with some additional information to enable us to identify the personal information we hold about you and ensure that we accurately fulfil your request and do not infringe on the privacy rights of other individuals.
 
-**United States and Other Countries**
+**United States (excluding California) and Other Countries**
 
-Opt Out:  If you are located in the United States or another country outside the European Countries, you can opt out of receiving personalized advertising by changing your device settings, per methods above.
+Opt Out: If you are located in the United States (excluding California) or another country outside the European Countries, you can opt out of receiving personalized advertising by changing your device settings, per methods above.
 
 _Managing Third-Party Apps and Platform Information Sharing_
 
 To manage the information ZiMAD receives from a third-party application or platform where you play our apps and games, like Facebook, Apple, Google, Microsoft, or Amazon, you will need to follow the third-party application’s instructions for updating your information and changing your privacy settings.
+
+**State of California**
+
+Opt Out: at any time, you may direct ZIMAD to stop sharing your Personal Information with _third-party service providers and other partners._
+
+_Excessing such right will not affect quality or cost of Services._
+
+_To exercise your rights you may contact us ether at_ [privacy@zimad.com](mailto:privacy@zimad.com), or by calling 8 (800) 504-9838.
+
+_Rights of Access_
+
+At your request, we will provide you a copy of your personal information in an electronic format free of charge. Please note, that we may ask for the proof of your identity. This right may be exercised no more than twice in a 12-month period.
+
+_Disclosure_
+
+Types of Personal Information collected, modes of collection and purposes of collection are disclosed above.
 
 **International Data Transfers**
 
@@ -234,7 +250,7 @@ ZiMAD will retain personal information for the period necessary to fulfill the p
 
 **Children’s Privacy**
 
-ZiMAD does not knowingly collect, maintain, or share personal information from children under 13 (and in certain jurisdictions and the European Countries, under the age of 16).  If you are under 13 years of age (or in certain jurisdictions, including the European Countries, under the age of 16), ask your legal guardian’s permission to use or access the Services and please do not send any personal information about yourself to us.
+ZiMAD does not knowingly collect, maintain, or share personal information from children under 13 (and in certain jurisdictions and the European or United States Countries, under the age of 16). If you are under 13 years of age (or in certain jurisdictions, including the European Countries and United States, under the age of 16), ask your legal guardian’s permission to use or access the Services and please do not send any personal information about yourself to us.
 
 We take children’s’ privacy seriously and encourage parents/guardians to play an active role in their children’s online experience. We hereby state that our Service is not directly targeted at users under 13 (or in certain jurisdictions, under the age of 16).  If we learn that we have collected any personal information from children under 13 (and in certain jurisdictions under the age of 16), we will promptly take steps to delete such information and terminate the child’s account.
 
