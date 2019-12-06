@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradschools.com privacy policy that was archived on 2019-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190106044449id_/https%3A//www.gradschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradschools.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206200308id_/https%3A//www.gradschools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,10 +118,9 @@ If you are a California resident and you provided your personal information to E
 
 EducationDynamics, LLC
 
-Attn: Legal Department  
-5 Marine View Plaza  
-Suite 212  
-Hoboken, NJ 07030
+Compliance Department, c/o EducationDynamics, LLC,
+
+111 River Street, 10th Floor, Hoboken NJ 07030
 
 with "Request for California Privacy" in the letter subject line.
 
@@ -174,7 +173,7 @@ We may update or amend this Privacy Policy at any time. This Privacy Policy will
 
 If you have questions or concerns about this Privacy Policy, our information practices, or wish to make a request regarding your information, please contact us at any of the following:
 
-  * EducationDynamics, LLC, Attn: Legal Department, 5 Marine View Plaza, Suite 212, Hoboken, NJ  07030 or
+  * EducationDynamics, LLC, Attn: Compliance Department, 111 River Street, 10th Floor, Hoboken NJ 07030 or
   * [Contact us by email](https://www.unigo.com/aboutus/contact "Contact") at [info@educationdynamics.com](mailto:info@educationdynamics.com).
 
 
