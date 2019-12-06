@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oxfordeconomics.com privacy policy that was archived on 2017-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171212154901id_/http%3A//www.oxfordeconomics.com/privacy/overview) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordeconomics.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206160350id_/https%3A//www.oxfordeconomics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy > Overview
+# Privacy Policy
 
-Oxford Economics is the world leader in global economic forecasting and global economy research. Founded in 1981 OE provides economic advice and forecasts to international organisations. OE produces projections, analysis and data on 190 countries and regions, 100 industrial sectors and 2,600 sub-regions and cities.
+Oxford Economics is the world leader in global economic forecasting and global economy research. Founded in 1981 OE provides economic advice and forecasts to international organisations. OE produces projections, analysis and data on 200+ countries, 100+ industrial sectors and 7,000+ cities and regions.
 
-Oxford Economics Ltd. ("Oxford Economics," "Us," or "We") is committed to protecting the privacy of the users of MyOxford Service ([www.oxfordeconomics.com/my-oxford](http://www.oxfordeconomics.com/my-oxford)) and Global Data Services ([services.oxfordeconomics.com/data](http://services.oxfordeconomics.com/data)) web sites (the "Service Sites") and company web site ([www.oxfordeconomics.com](http://www.oxfordeconomics.com/), the "Web Site") and any other such sites that we may notify you of from time to time. The Web Site was designed to help you and your company develop a good understanding of Oxford Economics' offerings.
+Oxford Economics Ltd. ("Oxford Economics," "Us," or "We") is committed to protecting the privacy of the users of MyOxford Service (www.oxfordeconomics.com/my-oxford) and Global Data Services (services.oxfordeconomics.com/data) web sites (the "Service Sites") and company web site (www.oxfordeconomics.com, the "Web Site") and any other such sites that we may notify you of from time to time. The Web Site was designed to help you and your company develop a good understanding of Oxford Economics' offerings.
 
 This privacy policy (the "Policy") discloses Oxford Economics' information privacy practices for the Service Sites and where applicable to the Web Site, and is intended to inform registered users and other visitors to the Sites of the data collection and use practices of the "Sites" (i.e. both "Service Sites" and "Web Site").
 
@@ -39,7 +39,11 @@ The personally identifiable information we may collect from you will include, by
 
 
 
-YOU SHOULD NOT PROVIDE OXFORD ECONOMICS WITH ANY PERSONALLY IDENTIFIABLE INFORMATION (OR SUBMIT OR POST ANY PERSONALLY IDENTIFIABLE INFORMATION TO THE SITE) UNLESS YOU WOULD LIKE THAT INFORMATION TO BE USED BY OXFORD ECONOMICS IN ACCORDANCE WITH THIS POLICY. LIKEWISE, YOU SHOULD NOT SUBMIT OR POST ANY PERSONALLY IDENTIFIABLE INFORMATION TO THE WEB SITE UNLESS YOU WANT THAT INFORMATION TO BE ACCESSIBLE BY OTHER USERS OF THE WEB SITE, AS INFORMATION POSTED ON THE WEB SITE MAY BE MADE AVAILABLE TO OTHER USERS OF THE WEB SITE. PERSONALLY IDENTIFIABLE INFORMATION POSTED TO THE SERVICE SITE IS NOT ACCESSIBLE BY OTHER USERS OF THE SERVICE SITE WHO DO NOT BELONG TO YOUR PEER USER GROUP OR ORGANISATION AND WHO ARE ALSO REGISTERED ON THE SERVICE SITE.
+YOU SHOULD NOT PROVIDE OXFORD ECONOMICS WITH ANY PERSONALLY IDENTIFIABLE INFORMATION OR SUBMIT OR POST ANY PERSONALLY IDENTIFIABLE INFORMATION TO THE SITE UNLESS YOU WOULD LIKE THAT INFORMATION TO BE USED BY OXFORD ECONOMICS IN ACCORDANCE WITH THIS POLICY. 
+
+LIKEWISE, YOU SHOULD NOT SUBMIT OR POST ANY PERSONALLY IDENTIFIABLE INFORMATION TO THE WEB SITE UNLESS YOU WANT THAT INFORMATION TO BE ACCESSIBLE BY OTHER USERS OF THE WEB SITE, AS INFORMATION POSTED ON THE WEB SITE MAY BE MADE AVAILABLE TO OTHER USERS OF THE WEB SITE. 
+
+PERSONALLY IDENTIFIABLE INFORMATION POSTED TO THE SERVICE SITE IS NOT ACCESSIBLE BY OTHER USERS OF THE SERVICE SITE WHO DO NOT BELONG TO YOUR PEER USER GROUP OR ORGANISATION AND WHO ARE ALSO REGISTERED ON THE SERVICE SITE.
 
 The personally identifiable information that Oxford Economics collects from users of the Sites (both registered and unregistered) may be used for a variety of purposes, for example to provide the services and products offered through the Sites to users of the Sites, to customise content and/or layout of the Sites for each individual user of the Sites, to notify users of the Sites about updates to and activities on the Sites and about goods and services that we feel may be of interest to you, to improve the content of the Sites, to analyse data and patterns regarding usage of the Sites, to contact users of the Sites for marketing purposes, and to contact users of the Sites for information verification purposes.
 
@@ -95,4 +99,4 @@ We will use at least industry standard measures on the Sites to protect the loss
 
 Any questions or suggestions about this Privacy Policy should be addressed via email to: ‘support@oxfordeconomics.com’.
 
-Thank you for using [www.oxfordeconomics.com](http://www.oxfordeconomics.com/) / [services.oxfordeconomics.com/data](http://services.oxfordeconomics.com/data).
+Thank you for using www.oxfordeconomics.com / services.oxfordeconomics.com/data.
