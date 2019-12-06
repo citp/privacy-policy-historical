@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523161548id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theotaku.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207001420id_/http%3A//www.theotaku.com/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - theOtaku.com
 
@@ -22,8 +22,6 @@ From time to time, we may use customer information for new, unanticipated uses n
   
 
 
-**ICICLES Dating Card Game**
+**Join theO at this year's Anime NYC!**
 
-Introducing [ICICLES](https://www.iciclesgame.com/), the first ever card game for dating!
-
-Break it out to break the ice. ICICLES uses tiny cards on a keyring that fit in a purse or pocket. Play it in a coffee shop, bar, or Uber! From the creators of theOtaku.com. [Buy now - ships in time for Valentine's Day!](https://www.iciclesgame.com/)
+[](http://www.animenyc.com/)
