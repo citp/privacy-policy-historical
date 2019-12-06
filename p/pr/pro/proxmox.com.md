@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxmox.com privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521170535id_/https%3A//www.proxmox.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxmox.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206123341id_/https%3A//www.proxmox.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,7 +41,7 @@ Generally you may use our website without disclosing your identity and personal 
 
 ### Public Forum Reminder
 
-Proxmox subdomains include a forum, a wiki, a customer portal, and mailing lists which are available to users. These are public areas so please remember that any information that is disclosed there becomes public. Think twice bevore disclosing your personal data or your company data there if you don't wont them to become public.
+Proxmox subdomains include a forum, a wiki, a customer portal, and mailing lists which are available to users. These are public areas so please remember that any information that is disclosed there becomes public. Think twice befor disclosing your personal data or your company data there if you don't wont them to become public.
 
 ### Matomo
 
