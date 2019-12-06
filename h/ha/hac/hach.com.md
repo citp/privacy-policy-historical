@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hach.com privacy policy that was archived on 2019-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190522163546id_/https%3A//www.hach.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hach.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206135451id_/https%3A//www.hach.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Hach
 
