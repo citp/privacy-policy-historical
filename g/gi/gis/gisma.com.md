@@ -1,34 +1,6 @@
-> *The following text is extracted and transformed from the gisma.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509135241id_/https%3A//www.gisma.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gisma.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206114609id_/https%3A//www.gisma.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-### GLOBAL UNIVERSITY SYSTEMS’ PRIVACY NOTICE
-
-Welcome to the Global University Systems privacy notice.
-
-Global University Systems, a trading name of Global University Systems B.V. and its subsidiary companies including GISMA Business School GmbH, respects your privacy and is committed to protecting your personal data. This privacy notice tells you how we look after your personal data when you visit our websites (regardless of where you visit from) and tells you about your privacy rights and how the law protects you.
-
-This privacy notice is provided in a layered format so you can click through to the specific areas set out below.  Please also use the Glossary at section 12 for the meaning of some of the terms used in this privacy notice.
-
-### Purpose of this privacy notice
-
-This privacy notice aims to give you information on how Global University Systems collects and processes your personal data including any data you may provide through this website when you:
-
-  * arrive on our website from a social media site such as Facebook Twitter, Instagram, Snapchat, Pinterest, VKontakte or LinkedIn;
-  * complete a call back / enquiry form;
-  * you register on our site to apply for a course or programme, corporate/ executive education, professional training, (online, distance learning or campus based) and whether you are applying for yourself or for employees or other staff at your organisation which may be or become a customer of ours;
-  * sign up for marketing materials; or
-  * you provide us with your personal data by any other means.
-
-
-
-This website is not intended for children and we do not knowingly collect data relating to children on this website.  However where GUS processes personal data of children in its business operations, we ensure that appropriate safeguards and consents are obtained from parents or caregivers as applicable [and that we follow relevant guidance from the Information Commissioner’s Office in relation to the processing of children’s data]. You may contact dataprotection@gus.global for further information about this.
-
-It is important that you read this privacy notice together with any other privacy notice or fair processing notice we may provide on specific occasions when we are collecting or processing personal data about you so that you are fully aware of how and why we are using your data.
-
-This privacy notice supplements the other notices and does not replace them.
-
-1- IMPORTANT INFORMATION AND WHO WE ARE
+# Privacy Policy | GISMA Business School, Germany
 
 **DATA  CONTROLLER**
 
@@ -80,8 +52,6 @@ It is important that the personal data we hold about you is accurate and current
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-2- THE DATA WE COLLECT ABOUT YOU
-
 Personal data, or personal information, means any information about an individual from which that person can be identified. Anonymous data is therefore not treated as personal data.
 
 We have grouped together different kinds of personal data which we may collect, use, store and transfer as follows:
@@ -117,8 +87,6 @@ For the purposes of compliance with our Safeguarding Policy, we may ask for DBS 
 
 Where we need to collect personal data by law, or under the terms of a contract we have with you and you fail to provide that data when requested, we may not be able to perform the contract we have or are trying to enter into with you (for example, to provide you with goods or services). In this case, we may have to cancel a product or service you have with us but we will notify you if this is the case at the time.
 
-3-HOW IS YOUR PERSONAL DATA COLLECTED
-
 We use different methods to collect data from and about you including through:
 
   * **Direct interactions.**  You may give us your Identity, Contact and Financial Data by filling in forms or by communicating with us by post, phone, email or otherwise. This includes personal data you provide when you:
@@ -127,7 +95,7 @@ We use different methods to collect data from and about you including through:
 
 apply for our products or services; create an account on our website; use our site; subscribe to our service or publications; request marketing to be sent to you; enter a promotion or survey; or give us some feedback.
 
-  * **Automated technologies or interactions.**  As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://web.archive.org/legal-notices/ "Legal Notices") for further details.
+  * **Automated technologies or interactions.**  As you interact with our website, we may automatically collect Technical Data about your equipment, browsing actions and patterns. We collect this personal data by using cookies, server logs and other similar technologies. We may also receive Technical Data about you if you visit other websites employing our cookies. Please see our [cookie policy](https://web.archive.org/legal-notices "Legal Notices") for further details.
   * **Third parties or publicly available sources.**  We may receive personal data about you from various third parties and public sources as set out below:
 
 
@@ -150,8 +118,6 @@ Technical Data from the following parties:
 
 (h)        Academic, contact, identity, marketing and communications and technical data from (i) publishers, who are owners of private websites, and are based in and outside Europe and (ii) agents, referring organisations such as other universities and (iii) UCAS.
 
-4-HOW WE USE YOUR PERSONAL DATA
-
 We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
 
   * Where we need to perform the contract we are about to enter into or have entered into with you.
@@ -163,8 +129,6 @@ We will only use your personal data when the law allows us to. Most commonly, we
 Please see the table below to find out about the types of lawful basis that we will rely on to process your personal data.
 
 Generally we do not rely on consent as a legal basis for processing your personal data other than in relation to sending direct marketing communications to you via email or SMS. You have the right to withdraw consent to marketing at any time by contacting us at info@gisma.com or by clicking the unsubscribe link in the relevant emails.
-
-5-PURPOSES FOR WHICH WE WILL USE YOUR PERSONAL DATA
 
 We have set out below a description of all the ways we plan to use your personal data, and which of the legal bases we rely on to do so. We have also identified what our legitimate interests are where appropriate.
 
@@ -606,8 +570,6 @@ To make suggestions and recommendations to you about goods or services that may 
 
 Necessary for our legitimate interests (to develop our products/services and grow our business)  
   
-6-HOW WE USE SENSITIVE PERSONAL INFORMATION (SPECIAL CATEGORY DATA)
-
 The law requires us to meet additional conditions for collecting, storing and using personal data that is considered ‘special category’ data. We have in place an appropriate policy document and safeguards which we are required by law to maintain when processing such data. We may process special categories of personal information in the following circumstances:
 
 **Purpose/Activity**
@@ -720,7 +682,7 @@ Where you opt out of receiving these marketing messages, this will not stop us s
 
 **Cookies**
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please click  **[here](https://web.archive.org/legal-notices/ "Legal Notices")**.
+You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of this website may become inaccessible or not function properly. For more information about the cookies we use, please click  **[here](https://web.archive.org/legal-notices "Legal Notices")**.
 
 **Change of purpose**
 
@@ -729,8 +691,6 @@ We will only use your personal data for the purposes for which we collected it, 
 If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.
 
 Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
-
-7- DISCLOSURES OF YOUR PERSONAL DATA
 
 We may have to share your personal data with the parties set out below for the purposes set out in the table in paragraph 4 above.
 
@@ -742,8 +702,6 @@ We may have to share your personal data with the parties set out below for the p
 
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with our instructions.
-
-8-INTERNATIONAL TRANSFERS
 
 We share your personal data within the GUS Group. This will involve transferring your data outside the European Economic Area ( **EEA** ).
 
@@ -767,13 +725,9 @@ The transfer is made from a register which according to Union or Member State la
 
 Please contact our DPO if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA.
 
-9-DATA SECURITY
-
 We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.
 
 We have put in place procedures to deal with any suspected personal data breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
-
-10-DATA RETENTION
 
 **How long will you use my personal data for?**
 
@@ -784,8 +738,6 @@ To determine the appropriate retention period for personal data, we consider the
 In some circumstances you can ask us to delete your data: see below for further information.
 
 In some circumstances we may anonymise your personal data (so that it can no longer be associated with you) for research or statistical purposes in which case we may use this information indefinitely without further notice to you.
-
-11-YOUR LEGAL RIGHTS
 
 Under certain circumstances, you have rights under data protection laws in relation to your personal data. Please click on the links below to find out more about these rights:
 
@@ -838,8 +790,6 @@ This applies only where we rely on your consent to process your personal data. H
 In certain circumstances, you can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also contact us at info@interactivepro.org.uk if you wish to exercise your rights.
 
 If you wish to exercise any of the rights set out above, please contact our DPO.
-
-12-GLOSSARY
 
 **LAWFUL BASIS**
 
