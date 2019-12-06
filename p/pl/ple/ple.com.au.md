@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502061943id_/https%3A//www.ple.com.au/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206074931id_/https%3A//www.ple.com.au/Privacy-Policy) for the most accurate reproduction.*
 
-# PLE Computers Pty Ltd
+# Privacy Policy | PLE Computers
 
-This is the PLE Computers Privacy Policy, a document which outlines PLE Computers use of your personal information when buying and using PLE Computers Products and Services.
+This is the PLE Computers Privacy Policy, a document which outlines PLE Computers use of your personal information when buying and using PLE Computers Products and Services. 
 
   1. PLE Computers uses and may disclose your personal information in order to: 
     1. Provide products and services to you;
