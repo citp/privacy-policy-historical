@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crresearch.com privacy policy that was archived on 2018-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180731112455id_/http%3A//www.crresearch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crresearch.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206132156id_/https%3A//www.crresearch.com/privacy-policy) for the most accurate reproduction.*
 
 # C+R Research Privacy Policy | C+R Research
 
 ## Who We Are
 
-This Policy describes C+R Research, Inc.'s information collection practices for www.crresearch.com. C+R Research is located at 500 N. Michigan Ave, Chicago IL 60611. **This policy does not cover information collected offline or elsewhere by C+R Research.**
+This Policy describes C+R Research, Inc.'s information collection practices for [www.crresearch.com](http://www.crresearch.com/). C+R Research is located at 500 N. Michigan Ave, Chicago IL 60611. **This policy does not cover information collected offline or elsewhere by C+R Research.**
 
 ## What We Collect
 
@@ -70,7 +70,7 @@ You have the following rights, which apply in certain circumstances and subject 
 
 
 
-If you wish to exercise any of the rights set out above, please contact us at privacy@crresearch.com.
+If you wish to exercise any of the rights set out above, please contact us at [privacy@crresearch.com](mailto:privacy@crresearch.com).
 
 ## Links To Third Party Sites
 
