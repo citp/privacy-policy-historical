@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lvrj.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618173907id_/https%3A//www.reviewjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lvrj.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206104510id_/https%3A//www.reviewjournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Las Vegas Review-Journal
 
@@ -51,8 +51,7 @@ If you have any questions about our Privacy Policy, email us at [privacy@reviewj
 Las Vegas Review-Journal  
 P.O. Box 70  
 Las Vegas, NV 89125  
-Attn: Privacy Officer  
-Telephone contact: (702) 224-5599
+Attn: Privacy Officer
 
 ## **PRIVACY POLICY**
 
