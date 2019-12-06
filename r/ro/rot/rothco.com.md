@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rothco.com privacy policy that was archived on 2018-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180823083213id_/https%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rothco.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206151000id_/https%3A//www.rothco.com/cms/rothco-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Effective as of May 25th, 2018.
+Effective as of October 22nd, 2019.
 
-This privacy policy applies to [www.rothco.com](http://www.rothco.com/) and other technology owned and operated by Rothco ("Rothco", "we", "us", "our") such as Rothco’s online store, mobile applications, social platforms ("Sites"), and to information collected when you visit or otherwise communicate or interact with us outside of the Site. This privacy policy describes how we collect and use the information you provide and the information that we otherwise collect. It also describes the options available to you regarding our collection and use of your information and how you can access and update this information.
+This privacy policy applies to [www.rothco.com](https://web.archive.org/) and other technology owned and operated by Rothco ("Rothco", "we", "us", "our") such as Rothco’s online store, mobile applications, social platforms ("Sites"), and to information collected when you visit or otherwise communicate or interact with us outside of the Site. This privacy policy describes how we collect and use the information you provide and the information that we otherwise collect. It also describes the options available to you regarding our collection and use of your information and how you can access and update this information.
 
 **WHAT INFORMATION WE COLLECT**
 
