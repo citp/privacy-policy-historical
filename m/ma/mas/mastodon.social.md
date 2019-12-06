@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mastodon.social privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606221546id_/https%3A//mastodon.social/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastodon.social privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206215522id_/https%3A//mastodon.social/terms) for the most accurate reproduction.*
 
 # mastodon.social Terms of Service and Privacy Policy - Mastodon
 
