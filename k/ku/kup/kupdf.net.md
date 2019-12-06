@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kupdf.net privacy policy that was archived on 2019-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190521132601id_/https%3A//kupdf.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kupdf.net privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206075156id_/https%3A//kupdf.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
