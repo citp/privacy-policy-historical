@@ -1,43 +1,43 @@
-> *The following text is extracted and transformed from the flywire.com privacy policy that was archived on 2018-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181229072821id_/https%3A//www.flywire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flywire.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206191150id_/https%3A//www.flywire.com/privacy) for the most accurate reproduction.*
 
-# Global Privacy Policy - Flywire
+# Privacy Policy | English
 
-Effective date: Nov 02, 2018
+Flywire Payments Corporation, doing business as Flywire, and our subsidiaries and affiliates (collectively “Flywire”, “we”, “us”, “our”) respect your privacy. Our Privacy Policy explains how we may collect, use, and disclose information we obtain through our website and online services (the “Service”) and the choices you can make about the handling of the information. We also describe how you can contact us about our privacy practices. This Privacy Policy is incorporated by reference into the Flywire [Terms of Use](https://flywire.com/legal/terms-of-use).
 
-Flywire Payments Corporation, doing business as Flywire, and our subsidiaries and affiliates (collectively “Flywire”, “we”, “us”, “our”) respect your privacy. Our Privacy Policy explains how we may collect, use, and disclose information we obtain through our website and online services (the “Service”) and the choices you can make about the handling of the information. We also describe how you can contact us about our privacy practices. This Privacy Policy is incorporated by reference into the Flywire [Terms of Use](https://web.archive.org/terms).
+On our website, you may choose to use certain features which are provided by other entities. These features, which include social networking buttons (which will be prominently displayed on our webpage), are operated by third parties that are not affiliated with Flywire, and they may collect information directly from you. These third parties may use your information in accordance with their own privacy policies and practices.
 
-## A. Information We Collect
+##  **A. Information We Collect**
 
 We may obtain information about you in a variety of ways, such as when you voluntarily provide it to us, in our role as a processor of payment transactions, or when it is automatically sent to us by the device you use to access the Service.
 
-### _Information We Collect From You_
+###  _Information We Collect From You_
 
 When you use the Service, you may provide us with the following types of information:
 
-  * **Your Account information.  ** To create an account you will need to provide us with your name, email address, and password. We will also ask about your relationship with the person on whose behalf you are making a payment, if different from you.
-  * **Payment Information.  **When submitting a payment through our Service, we ask the payer for information such as the payer’s name, address, phone number, and government identification number. You will also need to provide information about the person for whom you are submitting a payment. For example, when submitting a payment to an educational institution, we will also ask for the student’s name, student ID, invoice number, date of birth, year of graduation, educational institution, and student email address. When submitting a payment to a healthcare organization, we will ask the payer to provide information such as the patient’s name, medical record number or patient account number, bill identification number, invoice and health care organization. As part of the payment process, or to process a refund or charge-back, we and/or our partners may need the payer’s credit card information, financial account information, such as bank account numbers, names, and routing codes.
-  * **Referrals.  ** To invite others to use the Service, you may submit their names, emails, and, for students, their educational institution.
-  * **Job Application Information.  ** If you apply for a job with us, you may provide us with employment-related information such as your C.V. or resume.
-  * **Messages and Customer Service Requests.  **We collect the information you submit when you communicate with us by email, chat, or other methods.  This includes customer support where you may choose to submit information regarding a problem or whether you speak to one of our representatives directly or otherwise engage with our support team.  A summary of the problem you are experiencing, screen shots, documentation or information that would be helpful in resolving the issue.
-  * **Use of the service.** We collect information about you when browsing our website and taking certain actions.  This information includes links you click on; the type, size and filenames of attachments you upload to the services, content using analytics techniques that hash, filter or otherwise scrub the information and we collect clickstream data about how you interact with and use features of the services.
-  * **Device Information.** We collect information about your computer, phone, tablet or other devices you use to access the services. Including browser type, IP address, device identifiers and crash data.  We will also use your IP address and/or country preference to provide you with better service.
+  * Your Account information. To create an account you will need to provide us with your name, email address, and password. We will also ask about your relationship with the person on whose behalf you are making a payment, if different from you.
+  * Payment Information. When submitting a payment through our Service, we ask the payer for information such as the payer’s name, address, phone number, and government identification number. You will also need to provide information about the person for whom you are submitting a payment. For example, when submitting a payment to an educational institution, we will also ask for the student’s name, student ID, invoice number, date of birth, year of graduation, educational institution, and student email address. When submitting a payment to a healthcare organization, we will ask the payer to provide information such as the patient’s name, medical record number or patient account number, bill identification number, invoice and health care organization. As part of the payment process, or to process a refund or charge-back, we and/or our partners may need the payer’s credit card information, financial account information, such as bank account numbers, names, and routing codes.
+  * Referrals. To invite others to use the Service, you may submit their names, emails, and, for students, their educational institution.
+  * Job Application Information. If you apply for a job with us, you may provide us with employment-related information such as your C.V. or resume.
+  * Messages and Customer Service Requests. We collect the information you submit when you communicate with us by email, chat, or other methods. This includes customer support where you may choose to submit information regarding a problem or whether you speak to one of our representatives directly or otherwise engage with our support team. A summary of the problem you are experiencing, screen shots, documentation or information that would be helpful in resolving the issue.
+  * Use of the service. We collect information about you when browsing our website and taking certain actions. This information includes links you click on; the type, size and filenames of attachments you upload to the services, content using analytics techniques that hash, filter or otherwise scrub the information and we collect clickstream data about how you interact with and use features of the services.
+  * Device Information. We collect information about your computer, phone, tablet or other devices you use to access the services. Including browser type, IP address, device identifiers and crash data. We will also use your IP address and/or country preference to provide you with better service.
 
 
 
-### _Information We Collect From Others_
+###  _Information We Collect From Others_
 
 We may receive information from others, including:
 
-  * **Financial Institutions and Service Providers.** In the course of processing your payment transaction we may work with a number of institutions, who we have partnered with, to help us provide our Service including banks and non-bank financial institutions such as card processors, electronic money institutions and payment service providers. To process a payment, a financial institution or service provider may share with us information about the payer’s account such as account name, number, routing code and other identifying information.
-  * **Designated Entities.** We may be provided with your name and email address, before your create an account, from the educational institutions, healthcare providers and other entities for which we serve as a payment agent, in order to contact you to encourage you to make a payment through our Service. Furthermore, these Designated Entities, may use the Service to communicate with you and manage the receipt of payments.
+  * Financial Institutions and Service Providers. In the course of processing your payment transaction we may work with a number of institutions, who we have partnered with, to help us provide our Service including banks and non-bank financial institutions such as card processors, electronic money institutions and payment service providers. To process a payment, a financial institution or service provider may share with us information about the payer’s account such as account name, number, routing code and other identifying information.
+  * Designated Entities. We may be provided with your name and email address, before your create an account, from the educational institutions, healthcare providers and other entities for which we serve as a payment agent, in order to contact you to encourage you to make a payment through our Service. Furthermore, these Designated Entities, may use the Service to communicate with you and manage the receipt of payments.
 
 
 
-_Information We Collect Using Cookies and Similar Technologies_
+###  _Information We Collect Using Cookies and Similar Technologies_
 
 When you visit our Service or open our emails, we and our third-party service providers may collect certain information by automated means, such as cookies, web beacons and web server logs. The information collected in this manner includes IP address, browser characteristics, device IDs and characteristics, operating system version, language preferences, referring URLs, and information about the usage of our Service. We may link this data to your profile. You may be able to change browser settings to block and delete cookies when you access the Service through a web browser. However, if you do that, the Service may not work properly.
 
-We work with third party partners such as analytics and advertising partners, who may collect information about your use of other websites and online services over time. To learn more about Google Analytics and the choices Google provides regarding your information, please visit [http:///www.google.com/policies/privacy/partners/](http://flywire-com.admin.datocms.com/www.google.com/policies/privacy/partners/ "http:///www.google.com/policies/privacy/partners/").
+We work with third party partners such as analytics and advertising partners, who may collect information about your use of other websites and online services over time. To learn more about Google Analytics and the choices Google provides regarding your information, please visit <http://www.google.com/policies/privacy/partners/>.
 
 Our advertising partners may collect your information in order to show you ads that may interest you. Where required under applicable law, we will request your consent to such collection and use of your information. You may opt out of receiving personalized advertisements from us and our advertising partners who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising by visiting the opt-out sections on the websites of each of those organizations. Links to those sites are here:
 
@@ -45,9 +45,9 @@ Network Advertising Initiative: <http://www.networkadvertising.org/choices/>.
 
 Digital Advertising Alliance: <http://www.aboutads.info/choices/>.
 
-To learn more about the use of cookies by us and third parties, including your opt out options, please visit our [Cookie Policy](https://web.archive.org/cookie_policy).
+To learn more about the use of cookies by us and third parties, including your opt out options, please visit our [Cookie Policy](https://flywire.com/legal/cookie-policy).
 
-## B. How We Use the Information We Collect
+##  **B. How We Use the Information We Collect**
 
 We may use the information we obtain about you, as permitted by applicable law, to:
 
@@ -64,11 +64,11 @@ We may use the information we obtain about you, as permitted by applicable law, 
   * Further our business relationship with you, if we have collected your personal information in the context of an actual or potential business relationship;
   * Evaluate your application for employment and contact you regarding possible employment at Flywire, if you have applied for a job;
   * De-identify or aggregate data collected through the Service and use and disclose it for any purpose; and
-  * Fulfill other purposes to which you have consented, which would be reasonably expected by you, or which are otherwise authorised or required by law.  Where required by law or where we believe it is necessary to protect or legal rights; we will use information about you in connection to legal claims, regulatory issues, audit function, merger or funding.
+  * Fulfill other purposes to which you have consented, which would be reasonably expected by you, or which are otherwise authorised or required by law. Where required by law or where we believe it is necessary to protect or legal rights; we will use information about you in connection to legal claims, regulatory issues, audit function, merger or funding.
 
 
 
-## C. Information We Share
+##  **C. Information We Share**
 
 We may share your information, as permitted by applicable law, in connection with the purposes described in Section B of this privacy policy. This includes sharing your information in the following ways:
 
@@ -83,18 +83,18 @@ We may share your information, as permitted by applicable law, in connection wit
 
 We do not rent, sell, or share personal information (as defined by California Civil Code § 1798.83) about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission.
 
-On our website, you may choose to use certain features which are provided by other entities. These features, which include social networking buttons (which will be prominently displayed on our webpage), are operated by third parties that are not affiliated with Flywire, and they may collect information directly from you. These third parties may use your information in accordance with their own privacy policies and practices.
+Flywire is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Flywire complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-## D. Legal basis for processing
+##  **D. Legal basis for processing**
 
-We collect and process information about you only when we have a legal basis for doing so under applicable laws.  This means we collect and use your information where:
+We collect and process information about you only when we have a legal basis for doing so under applicable laws. This means we collect and use your information where:
 
-  *    We need to provide you the service, provide customer support, and to protect the security of the service;
-  *    In some instances, we may share your information if we believe that having your information is reasonably necessary to comply with any applicable laws.
+  * We need to provide you the service, provide customer support, and to protect the security of the service;
+  * In some instances, we may share your information if we believe that having your information is reasonably necessary to comply with any applicable laws.
 
 
 
-## E. Your Rights and Choices
+##  **E. Your Rights and Choices**
 
 You may have certain rights regarding the personal information we collect and maintain about you and how we communicate with you.
 
@@ -107,11 +107,17 @@ You may have certain rights regarding the personal information we collect and ma
 
 
 
-## F. Data Transfer
+##  **F. Data Transfer**
 
-To facilitate our global operations, we transfer and store information in the U.S and allow access to that information from other countries in which Flywire operates.  These countries may not have the equivalent privacy laws as those of the EU or UK. When we share information about you within and among our corporate affiliate we make use of standard contractual data protection clauses, which have been approved by the European Commission.
+To facilitate our global operations, we transfer and store information in the U.S and allow access to that information from other countries in which Flywire operates. These countries may not have the equivalent privacy laws as those of the EU or UK. When we share information about you within and among our corporate affiliate _(Flywire LTD, Flywire Romania, OnPlan Holdings, Flywire Securities, Flywire Global, Flywire Canada, Flywire Heathcare, Flywire Singapore, Flywire Pacific, Flywire G.K., Flywire Hong Kong, Pingfufei Commercial Shanghai)_ we make use of standard contractual data protection clauses, which have been approved by the European Commission.
 
-## G. How We Protect Your Personal Information
+### EU-U.S. and Swiss-US Privacy Shield
+
+When transferring any Personal Data from the EEA and Switzerland to the U.S., we adhere to the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce. Flywire has certified to the Department of Commerce that it adheres to the Privacy Shield Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability.
+
+We commit to cooperate with EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) and comply with the advice given by such authorities with regard to human resources data transferred from the EU and Switzerland in the context of the employment relationship.
+
+##  **G. How We Protect Your Personal Information**
 
 Flywire maintains reasonable safeguards combining administrative, technical, and physical measures to provide protection to the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, interference, modification, disclosure or misuse.
 
@@ -119,35 +125,53 @@ We use data hosting service providers in the US and Ireland to host the informat
 
 We use Secure Socket Layer (SSL) encryption on our website when transmitting information and use other commercially reasonable efforts to protect your information. We continue to assess new technology for protection of information and upgrade our information security systems where appropriate. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us.
 
-## H. Notice
+##  **H. Security Practices**
 
-During account registration (which is required to use Flywire’s services), every Flywire user is provided with our Global Privacy Policy, which provides details regarding our collection and handling of Personal Information and instructions for accessing this European privacy policy.
+Flywire makes sure that our employees know and adhere to our security policies. We require periodic training on our security policies for all personnel, no matter their department. Personnel who work directly with customers receive extra training on emerging risks, such as identity theft.
 
-## I. Retention
+All Flywire resources agree when joining the Company to a form of confidentiality/non-disclosure agreement or specific confidentiality undertaking in their agreements of employment. Flywire resources must understand and comply fully with these terms upon commencing work at Flywire, and keep information confidential that comes into their possession or control in connection with employment with Flywire. This includes internal Flywire information, as well as information relating to clients and third parties, and applies at any time during and after employment.
 
-We retain your account information for as long as your account is active and as necessary to comply with our legal obligations.  After such time we will either delete or anonymize your information or if it is not possible then we will securely store your information and isolate it from any further use until deletion is possible.
+##  **I. Notice**
 
-## J. Children’s Privacy
+During account registration (which is required to use Flywire’s services), every Flywire user is provided with our Global Privacy Policy, which provides details regarding our collection and handling of Personal Information.
+
+Flywire complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Flywire has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Flywire is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+##  **J. Retention**
+
+We retain your account information for as long as your account is active and as necessary to comply with our legal obligations. After such time we will either delete or anonymize your information or if it is not possible then we will securely store your information and isolate it from any further use until deletion is possible.
+
+##  **K. Children’s Privacy**
 
 Flywire is not directed to children, and we do not knowingly collect personal information from children under 13. If we find out that a child under 13 has given us personal information, we will take steps to delete that information. If you believe that a child under the age of 13 has given us personal information, please [let us know](https://www.flywire.com/contact).
 
-## K. Links to Other Websites
+##  **L. Links to Other Websites**
 
 Our site may include links to other websites. When you access another website, we strongly suggest you review the privacy policy or notices on those external websites. Flywire is not responsible for the content or privacy practices of external websites.
 
-## L. Changes to Our Privacy Policy
+##  **M. Changes to Our Privacy Policy**
 
 Flywire may periodically make changes to this privacy policy to reflect any changes in our information practices. We will notify you by revising the “Last Updated” date at the top of this Privacy Policy. If we make any material changes, we will let you know through the Service, by email, or other communication. We encourage Users to read this Privacy Policy periodically to stay up-to-date about our privacy practices. As long as you use the Service, you are agreeing to this Privacy Policy and any updates we make to it.
 
-## M. Questions, Comments and Complaints about Our Handling of Personal Information
+##  **N. Questions, Comments and Complaints about Our Handling of Personal Information**
 
 If you have any questions, comments or complaints about our collection, use, storage or disclosure of personal information, please contact us as set forth below. Flywire will take any privacy complaint seriously and we will aim to resolve any issue in a timely and efficient manner. We request that you cooperate with us during this process and provide us with any relevant information that we may need.
 
-## N. Contact Information
+In compliance with the Privacy Shield Principles, Flywire commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Flywire using the contact information details below
 
-If you have any questions or concerns related to this privacy policy, or if you wish to request access to, or correction of, your personal information or make a privacy complaint you may [contact us](https://web.archive.org/contact), or write to us at:
+##  **O. Contact Information**
+
+If you have any questions or concerns related to this privacy policy, or if you wish to request access to, or correction of, your personal information or make a privacy complaint you may [contact us](https://flywire.com/company/contact), or write to us at:
 
 Flywire  
 Attn: Privacy Officer  
 141 Tremont Street, 10th Floor  
 Boston, MA 02111, USA
+
+Flywire has further committed to refer unresolved Privacy Shield complaints to JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact or visit
+
+<https://www.jamsadr.com/eu-us-privacy-shield> for more information or to file a complaint. The services of JAMS are provided at no cost to you.
+
+Under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
