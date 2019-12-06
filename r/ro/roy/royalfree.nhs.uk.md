@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514232230id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalfree.nhs.uk privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206201944id_/https%3A//www.royalfree.nhs.uk/patients-visitors/privacy-statement) for the most accurate reproduction.*
 
 # Privacy notice | For patients, carers and visitors | The Royal Free
 
@@ -18,7 +18,7 @@ If you are looking for information about privacy while using our website, please
 
 
 
-The trust also records CCTV images for the prevention and detection of crime.
+The trust also records CCTV images for the prevention and detection of crime; this may include body worn video and audio recordings.
 
 ## Why we collect information about you
 
