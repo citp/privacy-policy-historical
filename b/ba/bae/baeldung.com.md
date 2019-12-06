@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baeldung.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630070536id_/https%3A//www.baeldung.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baeldung.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206090351id_/https%3A//www.baeldung.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Baeldung
 
@@ -18,11 +18,11 @@ Our full details are:
 
 Full name of legal entity: Baeldung SRL
 
-Email address: [support@baeldung.com](mailto:support@baeldung.com)
+Email address: [[email protected]](https://www.baeldung.com/cdn-cgi/l/email-protection#c8bbbdb8b8a7babc88aaa9ada4acbda6afe6aba7a5)
 
 Postal address: Str. Ion Baiulescu, nr. 3, Bucharest, Romania
 
-It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [support@baeldung.com](mailto:support@baeldung.com).
+It is very important that the information we hold about you is accurate and up to date. Please let us know if at any time your personal information changes by emailing us at [[email protected]](https://www.baeldung.com/cdn-cgi/l/email-protection#3e4d4b4e4e514c4a7e5c5f5b525a4b5059105d5153).
 
 ### **2\. WHAT DATA DO WE COLLECT ABOUT YOU, FOR WHAT PURPOSE AND ON WHAT GROUNDS**
 
@@ -46,7 +46,7 @@ We do not collect any Sensitive Data about you. Sensitive data refers to data th
 
 Where we are required to collect personal data by law, or under the terms of the contract between us and you do not provide us with that data when requested, we may not be able to perform the contract (for example, to deliver goods or services to you). If you don’t provide us with the requested data, we may have to cancel a product or service you have ordered but if we do, we will notify you at the time.
 
-We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [support@baeldung.com](mailto:support@baeldung.com). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
+We will only use your personal data for a purpose it was collected for or a reasonably compatible purpose if necessary. For more information on this please email us at [[email protected]](https://www.baeldung.com/cdn-cgi/l/email-protection#f685838686998482b69497939a92839891d895999b). In case we need to use your details for an unrelated new purpose we will let you know and explain the legal grounds for processing.
 
 We may process your personal data without your knowledge or consent where this is required or permitted by law.
 
@@ -68,7 +68,7 @@ Under the Privacy and Electronic Communications Regulations, we may send you mar
 
 Before we share your personal data with any third party for their own marketing purposes we will get your express consent.
 
-You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you OR by emailing us at [support@baeldung.com](mailto:support@baeldung.com) at any time.
+You can ask us or third parties to stop sending you marketing messages at any time by following the opt-out links on any marketing message sent to you OR by emailing us at [[email protected]](https://www.baeldung.com/cdn-cgi/l/email-protection#e5969095958a9791a58784808981908b82cb868a88) at any time.
 
 If you opt out of receiving marketing communications this opt-out does not apply to personal data provided as a result of other transactions, such as purchases, warranty registrations etc.
 
@@ -116,7 +116,7 @@ Under data protection laws you have rights in relation to your personal data tha
 
 You can see more about these rights at: <https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/individual-rights/>.
 
-If you wish to exercise any of the rights set out above, please email us at [support@baeldung.com](mailto:support@baeldung.com).
+If you wish to exercise any of the rights set out above, please email us at [[email protected]](https://www.baeldung.com/cdn-cgi/l/email-protection#21525451514e5355614340444d45544f460f424e4c).
 
 You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive or refuse to comply with your request in these circumstances.
 
@@ -124,7 +124,7 @@ We may need to request specific information from you to help us confirm your ide
 
 We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you.
 
-If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](http://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
+If you are not happy with any aspect of how we collect and use your data, you have the right to complain to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([www.ico.org.uk](https://www.ico.org.uk/)). We should be grateful if you would contact us first if you do have a complaint so that we can try to resolve it for you.
 
 ### **10\. THIRD-PARTY LINKS**
 
@@ -132,7 +132,7 @@ This website may include links to third-party websites, plug-ins, and applicatio
 
 ## **11\. COOKIE POLICY**
 
-We use cookies to help improve your experience of [http://www.baeldung.com](https://www.baeldung.com/). This cookie policy is part of Baeldung’s privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy.
+We use cookies to help improve your experience of [http://www.baeldung.com](https://www.baeldung.com/). This cookie policy is part of Baeldung's privacy policy, and covers the use of cookies between your device and our site. We also provide basic information on third-party services we may use, who may also use cookies as part of their service, though they are not covered by our policy.
 
 If you don’t wish to accept cookies from us, you should instruct your browser to refuse cookies from [http://www.baeldung.com](https://www.baeldung.com/), with the understanding that we may be unable to provide you with some of your desired content and services.
 
@@ -164,7 +164,7 @@ Targeting/advertising cookies are used in determining what promotional content i
 
 ### **Third-party cookies on our site**
 
-We may employ third-party companies and individuals on our websites—for example, analytics providers and content partners. We grant these third parties access to selected information to perform specific tasks on our behalf. They may also set third-party cookies in order to deliver the services they are providing. Third-party cookies can be used to track you on other websites that use the same third-party service. As we have no control over third-party cookies, they are not covered by Baeldung’s cookie policy.
+We may employ third-party companies and individuals on our websites—for example, analytics providers and content partners. We grant these third parties access to selected information to perform specific tasks on our behalf. They may also set third-party cookies in order to deliver the services they are providing. Third-party cookies can be used to track you on other websites that use the same third-party service. As we have no control over third-party cookies, they are not covered by Baeldung's cookie policy.
 
 #### **Our third-party privacy promise**
 
