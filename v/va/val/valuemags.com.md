@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617190133id_/https%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuemags.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206232113id_/https%3A//www.valuemags.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -54,7 +54,7 @@ You can [click here](https://web.archive.org/supportticket.asp) and provide your
 
 **Third Parties**
 
-We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](https://web.archive.org/web/20190617190133id_/https%3A//www.valuemags.com/home/www.aboutads.info) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](https://web.archive.org/web/20190617190133id_/https%3A//www.valuemags.com/home/www.networkadvertising.org/choices/). 
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](https://web.archive.org/web/20191206232113id_/https%3A//www.valuemags.com/home/www.aboutads.info) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](https://web.archive.org/web/20191206232113id_/https%3A//www.valuemags.com/home/www.networkadvertising.org/choices/). 
 
 **General Data Protection Regulations**
 
