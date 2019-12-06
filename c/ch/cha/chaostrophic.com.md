@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaostrophic.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508034121id_/https%3A//www.chaostrophic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaostrophic.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206183914id_/https%3A//www.chaostrophic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chaostrophic
 
