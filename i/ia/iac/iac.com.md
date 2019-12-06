@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iac.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505195755id_/http%3A//www.iac.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iac.com privacy policy that was archived on 2019-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191206175122id_/https%3A//www.iac.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IAC
 
@@ -23,7 +23,7 @@ We use Google Analytics to track your activities to help us understand how the S
 
 You may choose to send us communications through the email addresses listed on the Site. We may use emails that you send to us for any purpose, including communicating with you, and we may disclose such correspondence with third parties. You may request to receive newsletters such as Investor Relations emails. You may unsubscribe at any time by following the instructions at the bottom of the any such email or sending an email [ here ](mailto:privacy@iac.com). We will not sell your email address to third parties for marketing purposes.
 
-You may choose to apply for a position at IAC or one of [ our operating businesses ](http://www.iac.com/brands). If you do, we may share your job application with any of our operating businesses that might have a relevant position for you. We (and our operating businesses) will only use your job application for employment-related purposes. You online job application will be collected and processed by a third party, Jobvite, Inc. For more information on Jobvite’s privacy practices, please review [ Jobvite’s Privacy Policy ](http://recruiting.jobvite.com/privacy-policy.php).
+You may choose to apply for a position at IAC or one of [ our operating businesses ](http://www.iac.com/brands). If you do, we may share your job application with any of our operating businesses that might have a relevant position for you. We (and our operating businesses) will only use your job application for employment-related purposes. You online job application will be collected and processed by a third party, Jobvite, Inc. For more information on Jobvite’s privacy practices, please review [ Jobvite’s Privacy Policy ](https://www.jobvite.com/privacy-policy/).
 
 ### 3\. Legal Compliance  
 
