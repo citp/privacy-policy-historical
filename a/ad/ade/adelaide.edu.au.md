@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405100846id_/https%3A//www.adelaide.edu.au/legals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adelaide.edu.au privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207060643id_/https%3A//www.adelaide.edu.au/legals/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | Legal Notices
+# Privacy Statement | Legal Notices | University of Adelaide
+
+This Privacy Statement informs visitors to our website about the type of information that may be collected about them and their browsing activity when they visit University of Adelaide webpages and how the information is used.
+
+This website is administered by the University of Adelaide.
 
 Expand
   * ## Cookies
