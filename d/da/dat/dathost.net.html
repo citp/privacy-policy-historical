@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the dathost.net privacy policy that was archived on 2019-03-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190302203422id_/https%3A//dathost.net/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dathost.net privacy policy that was archived on 2019-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191208003954id_/https%3A//dathost.net/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--[if IE 7]><html lang="en" class="ie7"><![endif]--><!--[if IE 8]><html lang="en" class="ie8"><![endif]--><!--[if IE 9]><html lang="en" class="ie9"><![endif]--><!--[if (gt IE 9)|!(IE)]><html lang="en"><![endif]--><!--[if !IE]><html lang="en"><![endif]--><head>
+    <link type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.5.1/min/dropzone.min.css" rel="stylesheet">
     <link type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
-    <link type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/css/bootstrap.min.css" rel="stylesheet">
-    <link type="text/css" href="https://cdn.dathost.net/assets/css/dathost_combined-deployid-1551535706.css" rel="stylesheet">
+    <link type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+    <link type="text/css" href="https://cdn.dathost.net/assets/css/style-deployid-1575189384.css" rel="stylesheet">
     <noscript>
         <div class="alert alert-danger" role="alert" style="margin-bottom: 0px; text-align: center; line-height: 1.5em;">
             DatHost.net does not work properly without javascript enabled, please enable javascript and reload this webpage
@@ -14,7 +15,14 @@
         Your web browser is outdated and not supported, we support the latest versions of <a href="https://www.google.com/chrome/browser/desktop/index.html">Google Chrome</a>, <a href="https://www.mozilla.org/en-US/firefox/new/">Mozilla Firefox</a>, Microsoft Edge and Apple Safari
     </div>
 
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://cdn.dathost.net/assets/bundle-deployid-1551535706.js"></script>
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.5.1/min/dropzone.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mithril/1.1.6/mithril.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.18/topojson.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/datamaps/0.5.9/datamaps.world.min.js"></script>
+    <script src="https://cdn.dathost.net/assets/bundle-deployid-1575189384.js"></script>
 
   <link rel="icon" href="/assets/img/favicon.png" type="image/png">
 
@@ -61,7 +69,7 @@
     
       window.serverName = "dathost.net";
       window.skrytsiffra = "200,000";
-      window.csrfToken = "ImZhMjY2MGFhMDk1NzFmODYyYzU2ODU2YmI2MDRmM2YwOWE4ZDAxN2Ii.XHrozw.XivULM8wmgcjDidgPD974rTzKTQ";
+      window.csrfToken = "ImY5YjUzZWIwYTkwNjc5MzczMzljNTVlMGRhZjQ1YTE3ZjFhZGVlYTUi.XexGWw.64bD0p4FWcqvn0IWZN9c67CrRmA";
   </script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -306,18 +314,15 @@
         </div>
       </div>
     </div>
-    
     <script>
-        function steamGameServerLoginTokenModal(submitValue, hideOnSuccess, callback) {
+        function steamGameServerLoginTokenModal(submitValue, callback) {
             $("#steam-game-server-login-token-submit").attr('value', submitValue);
             $("#steam-game-server-login-token-modal-form").on('submit', function (e) {
                 e.preventDefault();
                 $("#steam-game-server-login-token-modal-form").off('submit');
                 $("#steam-game-server-login-token-spinner").show();
                 callback($("#steam-game-server-login-token").val());
-                if (hideOnSuccess) {
-                    $("#steam-game-server-login-token-modal").modal('hide');
-                }
+                $("#steam-game-server-login-token-modal").modal('hide');
             });
             $("#steam-game-server-login-token-modal").on('shown.bs.modal', function () {
                 $("#steam-game-server-login-token").focus();
