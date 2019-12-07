@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624095108id_/https%3A//concord.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207053505id_/https%3A//concord.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Concord Consortium
 
@@ -44,7 +44,7 @@ This policy does not apply to:
 
 Please read this policy carefully. If you do not agree with our policies and practices, you may refrain from using this Site. If you have questions about this policy, please feel free to email Concord at: [privacy@concord.org](mailto:privacy@concord.org).
 
-This policy was last updated on February 1, 2019.
+This policy was last updated on November 5, 2019.
 
 return to top
 
@@ -56,7 +56,7 @@ We collect several types of information from and about users of our Site and App
 
 “Personal Information” generally means information or data that can be used to identify an individual person, and with respect to our Site, is information you have provided to us. Some of our services, such as subscription to our newsletter or the use of activities with enabled classroom reporting, require the creation of a Concord Consortium student or teacher account, processes which may require the collection of personal information.
 
-When creating a Concord Consortium account _as a teacher_ , you may be asked to provide your first and last name, email address, password, your role, country, state, district, school name, class descriptions, and grade. To create a Concord Consortium account _as a student_ , you will be asked to enter your name and password, answer three questions, and enter the class word you have been given by your teacher.
+When creating a Concord Consortium account _as a teacher_ , you may be asked to provide your first and last name, email address, password, your role, country, state, district, school name, class descriptions, and grade. To create a Concord Consortium account _as a student_ , you will be asked to enter your name, a password, and the class word you have been given by your teacher. Students may enter pseudonyms or code names in place of their real name to avoid entering any individually identifiable information into our system.
 
 If you wish to subscribe to the Newsletter, you may be asked to provide your first and last name, email address, phone number, name of school, grade, and courses you teach. We also may collect personal information when you contact us with questions, or respond to a survey that we might ask you to complete or if you input personal information into a web query available via the Site.
 
@@ -81,6 +81,12 @@ Like most websites, whether or not you are a registered member, we may send one 
 ### Third-Party Service Providers
 
 The Concord Consortium uses a variety of third-party service providers to operate this Site and provide the services found here. These third parties include but are not limited to Google Analytics to help us understand our Site usage; Survey Monkey, to facilitate and process user surveys; MailChimp, to facilitate the distribution of our email Newsletter; Amazon Web Services, which provides servers to host our Sites, and NewRelic, which monitors performance of our Sites. In some cases, these third parties place and read their own cookies, web beacons, and similar technologies to collect information through the Site. Some of the third-party service providers have access to certain personal information (as described above); and in other cases, they have access to only non-personal information. If required under applicable law, the Concord Consortium engages third-party service providers under written agreements that limit the third-party service provider’s use of personal information in a manner consistent with this policy.
+
+#### Google Analytics
+
+Google Analytics is a free web analytics service offered by Google. We use Google Analytics to track information, such as how many people visit our websites, pages they view, links they click, and more. We do not use the [advertising features](https://support.google.com/analytics/answer/3450482?hl=en "Google Analytics advertising features") of Google Analytics on our websites.
+
+If you do not wish to have any of your usage data collected by Google Analytics, Google has developed an Opt-out Browser add-on, which is available on the [Google Analytics Opt-out Browser Add-on page](https://tools.google.com/dlpage/gaoptout "Opt out of Google Analytics tracking").
 
 ### Links to Third-Party Websites & Services
 
