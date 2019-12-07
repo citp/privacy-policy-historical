@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621234132id_/https%3A//www.irishexaminer.com/breakingnews/ireland/confidentiality-and-privacy-policy-830432.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishexaminer.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207021237id_/https%3A//www.irishexaminer.com/breakingnews/ireland/confidentiality-and-privacy-policy-830432.html) for the most accurate reproduction.*
 
 # Confidentiality and Privacy Policy
 
@@ -10,17 +10,19 @@ Your privacy is important to The Irish Examiner  and maintaining your trust is 
 
 We collect personal information about you when you access this website or other websites controlled by us or by a company within our group or when you use any of our products, applications or services (collectively our “Services”). This document also outlines our approach to compliance with the General Data Protection Regulation (GDPR) and all other relevant data-protection legislation.  It also sets forth your privacy rights. Please take a moment to familiarise yourself with our privacy practices.
 
-Throughout this privacy policy, “we” “us” and “ours” refers to the Examiner Group and its subsidiaries. The Examiner Group is a registered company located at 2nd Floor, Linn Dubh, Assumption Road, Blackpool Cork.  Companies within our group include, but are not limited to The Irish Examiner, [ The Echo, ](http://irishexaminer.com/)[echolive.ie](http://echolive.ie/). [breakingnews.ie](http://breakingnews.ie/), [RecruitIreland.com](https://www.recruitireland.com/), [benchwarmers.ie](http://benchwarmers.ie/), the Laois Nationalist, Kildare Nationalist, Carlow Nationalist, Western People; Waterford News and Star, the Roscommon Herald, and radio stations Beat 102-103 and WLR FM.
+Throughout this privacy policy, “we” “us” and “ours” refers to The Irish Times DAC and The Irish Times Group. The Irish Times DAC is a registered company with an address at 24-28 Tara Street, Dublin 2, Ireland. We are the company that controls your data known as the “ data controller” under data protection law. The Irish Times Group means all fully consolidated subsidiaries under the management control of The Irish Times DAC. Companies within our group include, but are not limited to The Irish Examiner, [ The Echo, ](http://irishexaminer.com/)[echolive.ie](http://echolive.ie/). [breakingnews.ie](http://breakingnews.ie/), [RecruitIreland.com](https://www.recruitireland.com/), [benchwarmers.ie](http://benchwarmers.ie/), the Laois Nationalist, Kildare Nationalist, Carlow Nationalist, Western People; Waterford News and Star, the Roscommon Herald, and radio stations Beat 102-103 and WLR FM.
+
+We can be contacted by email at services@irishtimes.com or by phone at +353-1-675 8000.
 
 It is important that you read this privacy policy together with any other privacy policy we may provide on specific occasions so that you are fully aware of how and why we are using your data. This privacy policy supplements the other notices and is not intended to override them.
 
-We value your opinions.  Should you have any questions or comments related to this privacy policy, please contact us at [dataprotection@landmarkmedia.ie](mailto:dataprotection@landmarkmedia.ie).
+We value your opinions.  Should you have any questions or comments related to this privacy policy, please contact us at [dataprotection@examiner.ie](mailto:dataprotection@examiner.ie).
 
  **We may update this privacy policy from time to time. If we make changes, we will notify you prior to the changes taking effect by posting a notice on our websites and, where appropriate, sending you a notification.**
 
  **Data protection  **
 
-We have appointed an internal data protection team for you to contact if you have any questions regarding this privacy policy, our privacy practices or if you wish to exercise your data rights.  The data protection team can be reached by email at [dataprotection@landmarkmedia.ie](mailto:dataprotection@landmarkmedia.ie).
+We have appointed an internal data protection team for you to contact if you have any questions regarding this privacy policy, our privacy practices or if you wish to exercise your data rights.  The data protection team can be reached by email at [dataprotection@examiner.ie](mailto:dataprotection@examiner.ie).
 
  **Information we collect and how we use it**
 
@@ -30,7 +32,7 @@ We collect and use your personal information for a variety of reasons including:
 
  **To create an account with us**
 
-To become a subscriber to The Irish Examiner or to purchase or subscribe to one of our other Services, you will need to create an account with us.  You will also need to create an online account if you wish to interact with any of our free online content.
+To become a subscriber to The Irish Examiner or to purchase or subscribe to one of our other Services, you will need to create an account with us.
 
 We will use your personal information to carry out our obligations arising from any contract you as our customer have entered into with us. We will also use your personal information to provide you welcome emails to help you get the most out of your subscription, subscriber-only content, and subscriber rewards.
 
@@ -74,10 +76,6 @@ We offer all readers access to a number of email newsletters. We will only send 
 
 We provide tools that enable users of our services to share or forward our content to a nominated email address. If someone else shares our content with you, we may temporarily collect your email address for the purpose of sharing the requested content. We will only use this information to fulfil the sharing request and this contact information is not retained by us.
 
- **To recommend content**
-
-We may use aggregate information we collect about you to suggest and recommend tailored content. This processing is necessary for the purpose of our legitimate interest in delivering relevant content to our readers.  You have the right to object to this processing, and if you wish to do so please contact us at [dataprotection@landmarkmedia.ie](mailto:dataprotection@landmarkmedia.ie)
-
  **To understand how you use our services**
 
  **To track how you gain access to or read our content**
@@ -96,13 +94,13 @@ When you sign up for or subscribe to one of our services, we will track and aggr
 
 \- To understand the demographics of our customers and readers
 
-You have the right to object to this processing or change these preferences at any time. If you wish to do so please contact us at [dataprotection@landmarkmedia.ie](mailto:dataprotection@landmarkmedia.ie).
+You have the right to object to this processing or change these preferences at any time. If you wish to do so please contact us at [dataprotection@examiner.ie](mailto:dataprotection@examiner.ie).
 
 We log technical information that your browser sends us, as well as usage information about the use of our website and services. This may include including a history of the pages viewed, articles, content and products viewed or searched for, and page interaction information, and any phone number used to call our customer service number.
 
 We may log information related to the type of mobile device used, including unique mobile identifies and mobile network information. We also track how our mobile applications are used including but not limited to traffic data, location data, and weblogs.
 
-We use cookies and similar technologies to facilitate our Services in the retrieving of your user preferences; to personalise your visits; for the operation of our website; to collect statistical information about our visitors for analytical purposes; to simplify any sign-in procedures; to personalise content and ads and to provide social media features. We use some of the information you provide to personalise your experience with us as you use our Services. For more information on the use of cookies and similar technologies, please see our [Cookie Policy](https://www.irishexaminer.com/info/cookiepolicy/).
+We use cookies and similar technologies to facilitate our Services in the retrieving of your user preferences; to personalise your visits; for the operation of our website; to collect statistical information about our visitors for analytical purposes (we use Google Analytics and Comscore); to simplify any sign-in procedures; and to provide social media features. We use some of the information you provide to personalise your experience with us as you use our Services. For more information on the use of cookies and similar technologies, please see our [Cookie Policy](https://www.irishexaminer.com/info/cookiepolicy/).
 
  **To measure the effectiveness of our email communications**
 
@@ -112,7 +110,7 @@ We use such technologies to determine whether you’ve opened an email communica
 
 Third-party vendors, including Google, display advertising on our Services. Some of the ads you see are targeted based on interests that have been inferred from the type of content you view when visiting our site. This type of behavioral advertising is targeted towards groups of users in an anonymous and aggregated manner as opposed to you as an individual. Such online advertising helps support the content, products and services we provide.
 
-We and third-party vendors use first-party cookies and third-party cookies together to inform, optimise and serve ads based on your browsing activities and interests. Any information we disclose to advertisers and advertising networks is non-personally identifiable.
+Third-party vendors (such as advertising networks) use third-party cookies to inform, optimise and serve ads based on your browsing activities and interests. When you visit our Site, your browser redirects to the third party vendor and information is transmitted from your browser to this third party vendor. Any information transmitted to advertisers and advertising networks in this manner is non-personally identifiable.
 
 Advertising networks may use cookies and similar technologies track you in order to measure the effectiveness of the ads they serve, detect fraudulent traffic, or to create a browsing profile that is used to deliver more relevant ads.
 
@@ -186,7 +184,7 @@ We use your personal information to carry out our obligations arising from any c
 
  **With your consent, which can be withdrawn at any time**
 
-We will, in certain circumstances, rely on your explicit consent to process your personal information. Where we do, you have the right to withdraw your consent at any time. In most circumstances, your consent can be withdrawn by following the unsubscribe instructions included at the end of each email communication from us. You can also contact us at [dataprotection@landmarkmedia.ie](mailto:dataprotection@landmarkmedia.ie) and we will be happy to facilitate your request.
+We will, in certain circumstances, rely on your explicit consent to process your personal information. Where we do, you have the right to withdraw your consent at any time. In most circumstances, your consent can be withdrawn by following the unsubscribe instructions included at the end of each email communication from us. You can also contact us at [dataprotection@examiner.ie](mailto:dataprotection@examiner.ie) and we will be happy to facilitate your request.
 
  **To comply with our legal obligations**
 
@@ -238,7 +236,7 @@ We may share your personal information with any member of our group, which means
 
  **With third parties**
 
-We may share your personal information with third parties for a number of reasons as outlined below. We do not sell your personal information to anyone and only share it with third parties who are facilitating the delivery or fulfilment of our services and or are working on our behalf. We contractually require that our suppliers protect such information from unauthorised access, use, and disclosure.
+We may share your personal information with third parties for a number of reasons as outlined below. We do not sell your personal information to anyone and only share it with third parties who are facilitating the delivery or fulfilment of our services and or are working on our behalf. We contractually require that our suppliers protect such information from unauthorised access, use, and disclosure. These third parties have their own security and privacy policies. You are advised to review these separately.
 
  **Third-party service providers**
 
@@ -250,7 +248,7 @@ We provide certain services and run promotions in conjunction with third parties
 
  **Third-party advertisers**
 
-We disclose non-personally identifiable anonymous information to third-party advertisers to help them reach the kind of audience they want to target. We share summary aggregate reports for our advertisers to measure the effectiveness of the ads they have served. These advertising parties may combine the information we send with other information that you’ve provided to them or that they’ve collected from your use of their services.
+Third party vendors, such as ad networks, may retrieve information from your browser by using third party tracking cookies when you visit our site. We do not transmit or disclose any information to these third parties and any information collected from your browser is non personally identifiable. Third-party advertisers use this information to help them reach the kind of audience they want to target. These advertising parties may combine the information which they collect from your browser with other information which they have about you and use it to create a profile of you for advertising purposes. To find out more about third party advertising cookies visit our Cookie Policy [here](https://www.irishexaminer.com/info/cookiepolicy/).
 
 We use services offered by Inskin Media Ltd, 233 - High Holborn, London, WC1V 7DN, UK. Inskin works with limited third-party service providers for reach assessment and broad targeting. To Opt-Out of these services please see <http://www.inskinmedia.com/opt-out.html>.
 
@@ -298,7 +296,7 @@ You have several rights under data-protection law in relation to how we use your
 
 \- [Lodge a complaint](https://www.dataprotection.ie/docs/Making-a-Complaint-to-the-Data-Protection-Commissioner/r/18.htm) with the appropriate data-protection authority if you have concerns about how we process your personal data
 
-These rights are in some circumstances limited by data-protection legislation. If you wish to exercise any of these rights please contact us at [dataprotection@landmarkmedia.ie](mailto:dataprotection@landmarkmedia.ie). We will take measures to verify your identify which we will do by reference to copies of acceptable identification documentation supplied by you.
+These rights are in some circumstances limited by data-protection legislation. If you wish to exercise any of these rights please contact us at [dataprotection@examiner.ie](mailto:dataprotection@examiner.ie). We will take measures to verify your identify which we will do by reference to copies of acceptable identification documentation supplied by you.
 
 We will endeavour to respond to your request within a month.  If we are unable to deal with your request within a month we may extend this period by a further two months and we will contact you and explain why.
 
