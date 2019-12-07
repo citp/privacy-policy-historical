@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiva.org privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331172343id_/https%3A//www.kiva.org/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiva.org privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207035214id_/https%3A//www.kiva.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kiva
 
