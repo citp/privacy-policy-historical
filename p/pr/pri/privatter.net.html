@@ -1,0 +1,202 @@
+<!--The following is the downloaded HTML source of the privatter.net privacy policy that was archived on 2019-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191207080637id_/https%3A//privatter.net/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="https://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"b7ea635e9a",applicationID:"79182691"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta name="format-detection" content="telephone=no">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="application-name" content="privatter.net">
+<meta name="og:image" content="https://privatter.net/apple-touch-icon.png">
+<meta name="og:title" content="Privacy Policy - Privatter -">
+<meta name="og:description" content="">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy - Privatter -">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="https://privatter.net/apple-touch-icon.png">
+
+
+<title>Privacy Policy - Privatter</title>
+
+    
+<link href="/css/all.css" rel="stylesheet">
+<script defer="" src="/js/all.js"></script>
+<link href="/bootstrap/css/bootstrap.cerulean.min.css" rel="stylesheet">
+<link href="/bootstrap/css/plus.css" rel="stylesheet">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<script src="/js/jquery.min.js"></script>
+
+
+<script type="text/javascript">
+var microadCompass = microadCompass || {};
+microadCompass.queue = microadCompass.queue || [];
+</script>
+<script type="text/javascript" charset="UTF-8" src="//j.microad.net/js/compass.js" onload="new microadCompass.AdInitializer().initialize();" async=""></script>
+
+</head>
+<body>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38656321-1', 'privatter.net');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+<!--SERVER_ID-->
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                                            <a href="/login"><span class="navbar-text">Login</span></a>
+                                </button>
+            <a href="/" class="navbar-brand">Privatter</a>
+        </div>
+        <div class="collapse navbar-collapse" id="navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right visible-xs-inline-block" role="menu" aria-labelledby="dropdownMenuDivider">
+                                    <li><a href="/login"><i class="fas fa-sign-in-alt"></i> Login</a></li>
+                            </ul>
+            <ul class="nav navbar-nav navbar-right hidden-xs">
+                <li class="dropdown hidden-xs">
+</li><li><a href="/login">Login</a></li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="pull-right text-muted"><small class="text-muted">.</small></div>
+
+<div class="container">
+
+
+<p class="“hidden-print”">
+<span class="label label-default">
+Sponsored Links
+</span>
+</p><div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privatter Responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8798241518113232" data-ad-slot="2785171726" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p></p>
+<div class="container">
+<div class="row">
+<div class="col-sm-10 col-sm-offset-1">
+<h2 class="lead">Privacy Policy</h2>
+As described below, we will establish personal information protection policy, establish a mechanism for personal information protection, and promote the protection of personal information by thoroughly recognizing the importance of personal information protection and efforts.
+<hr>
+<h4> Collecting personal information </h4>
+This site collects user information in the following way.
+<ol>
+<li> Twitter account information (screen name, profile, user name, etc.) used to register to this site </li>
+<li> Your name, email address, Twitter account etc. you enter at the time of inquiry </li>
+<li> E-mail address you will register to receive notifications from this site <!-- li-->
+</li></ol>
+<hr>
+<h4> Purpose of using personal information </h4>
+We will manage personal information you keep from the user properly, and will use it to contact you and information from this site, to respond to questions.
+<hr>
+<h4> About handling personal information </h4>
+This site properly manages the personal information deposited from the user and does not disclose personal information to a third party unless it falls under any of the following.
+<ol>
+<li> If you have consent </li>
+<li> When we disclose to a contractor our company outsourges to do the desired service </li>
+<li> When it is necessary to disclose based on laws and regulations </li>
+</ol>
+<br>
+If you wish to inquire, modify or delete personal information of the person himself / herself, we will confirm that you are the principal and will respond.
+<hr>
+<h4>Advertising on this site</h4>
+In our site, we use the services of third party ad delivery. For example, Google Adsense, i-mobile, Amazon Associates, Rakuten Affiliate and so on.<br>
+<br>
+The ad serving these companies, you may order to display advertisements of products or services in accordance with the interests of the user, information about access to other sites and the site "cookie" is used. The use of Cookie, information name, address, email address, and phone number are not retrieved.<br>
+<br>
+If you want to get more information about Google Adsense and the method how Cookie is not used for the advertisement delivery enterprise, please read <a href="http://www.google.com/analytics/terms/us.html" target="_blank">here</a>.<br>
+<br>
+<h4>Access analysis tool</h4>
+In our site, we use access analysis tool "Google Analytics" by Google.<br>
+<br>
+This tool uses Cookie for collection of traffic data.<br>
+This traffic data is collected by anonymity, and it is not a thing identifying an individual.
+If you want to get more information about this, please read <a href="http://www.google.com/analytics/terms/us.html" target="_blank">here</a>.<br>
+<br>
+<hr>
+<h4> Inquiry </h4>
+For inquiries about the handling of personal information of this site from <a href="/mailform"> inquiry form </a> thank you.
+<hr>
+<div class="pull-right">
+2014/4/22 created<br>
+2018/5/18 modified
+</div></div><!--left-->
+</div><!--row-->
+</div><!--container-->
+<p class="“hidden-print”">
+<span class="label label-default">
+Sponsored Links
+</span>
+</p><div>
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Privatter Responsive -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8798241518113232" data-ad-slot="2785171726" data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<p></p><script src="/lightbox/js/lightbox.js"></script>
+<script src="/js/jquery.lazyload.min.js"></script>
+<script>
+$(function() {
+    $("img.lazy").lazyload();
+});
+</script>
+</div><!--container-->
+<hr>
+<ul class="breadcrumb text-center">
+  <li><a href="/rule/en">Terms of Use</a> <span class="divider"></span></li>
+  <li><a href="/privacy">Privacy Policy</a> <span class="divider"></span></li>
+  <li><a href="/mailform">Inquiry</a></li>
+</ul>
+
+<small>
+<div class="text-center">
+Theme change :     <a href="/theme/darkly">夜間モード</a>
+</div>
+
+<ul class="list-inline text-center">
+<li>Language : </li>
+<li><a href="/lang/ja" rel="nofollow">日本語</a></li>
+<li><a href="/lang/en" rel="nofollow">English</a></li>
+<li><a href="/lang/ko" rel="nofollow">한국어</a></li>
+<li><a href="/lang/cn" rel="nofollow">簡体中文</a></li>
+<li><a href="/lang/tw" rel="nofollow">繁體中文</a></li>
+</ul>
+</small>
+
+<div class="mute text-center">© 2019 Privatter All Rights Reserved.</div>
+
+<div id="fb-root"></div>
+<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&amp;version=v4.0"></script>
+
+
+<script type="text/javascript">
+<!--
+if(window!=parent){
+    top.window.location.href ='https://privatter.net/privacy';
+}
+// -->
+</script>
+<script src="/bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b7ea635e9a","applicationID":"79182691","transactionName":"M11RMEFVD0EAUhdfCgoXZhZaGxFACEcCVRw=","queueTime":0,"applicationTime":3,"atts":"HxpSRglPHE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>
