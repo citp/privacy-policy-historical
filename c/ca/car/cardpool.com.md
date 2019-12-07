@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardpool.com privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406221253id_/https%3A//www.cardpool.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardpool.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207124807id_/https%3A//www.cardpool.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Online Privacy - Gift Card Exchange | Cardpool.com
 
@@ -264,9 +264,6 @@ This Policy may be subject to change. Please review it from time to time. If we 
 If you have any questions or concerns regarding the way in which your personal data is being processed or you want to exercise your rights above, please reach out to us using the contact information below:
 
 Chief Privacy Officer  
-Cardpool, LLC  
-2200 Ross Ave Suite 2300  
-Dallas, TX 75201  
 [privacy@cardpool.com](mailto:privacy@cardpool.com)
 
 Where we act as joint controllers with our affiliates, you may contact Cardpool, LLC. or our EU Data Protection Officer, and we will work with our affiliates to properly respond to your inquiry or request.
