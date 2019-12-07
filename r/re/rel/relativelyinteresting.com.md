@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relativelyinteresting.com privacy policy that was archived on 2018-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181112093804id_/http%3A//www.relativelyinteresting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relativelyinteresting.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207195721id_/https%3A//www.relativelyinteresting.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy – Relatively Interesting
+# Privacy Policy - Relatively Interesting
 
 ## **Privacy Notice**
 
@@ -8,13 +8,14 @@
 
 ## _Data Controller Contact Information_
 
-Dalia International OOD
+Adspire LLC
 
-14 Benkovski Street,  
-Sofia, Bulgaria, 1000
+224 Datura Street,  
+West Palm Beach  
+33401, Florida, US
 
 relatively.interesting AT gmail .com  
-This document governs the privacy notice of our website [www.relativelyinteresting.com](http://www.relativelyinteresting.com/).
+This document governs the privacy notice of our website [www.relativelyinteresting.com](https://www.relativelyinteresting.com/).
 
 ### Our privacy notice tells you what personal data (PD) and non-personal data (NPD) we may collect from you, how we collect it, how we protect it, how we may share it, how you can access and change it, and how you can limit our sharing of it. Our privacy notice also explains certain legal rights that you have with respect to your personal data. Any capitalized terms not defined herein will have the same meaning as where they are defined elsewhere on our website.
 
