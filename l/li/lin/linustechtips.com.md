@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linustechtips.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621011830id_/https%3A//linustechtips.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linustechtips.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208005228id_/https%3A//linustechtips.com/main/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Linus Tech Tips
 
@@ -104,17 +104,3 @@ If you would like an individual post removed, you can report it and a member of 
 If you would like all information associated with your account removed, please contact a member of staff and they will sort it out for you. When your account is deleted, you can elect to leave the content that you have submitted publicly listed on the site, but dissociated from any account. 
 
 Before requesting the removal of your information, please consider whether the information may be useful to other visitors in future. 
-
-### Third Parties
-
-**Google Analytics**
-
-Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this website, to prepare reports on its activities and share them with other Google services.
-
-**Spam Defense**
-
-The IPS Spam Defense Service passes the email address and IP address of the registering member to the service to determine the likelihood a registering account is a spam source.
-
-**reCAPTCHA V2**
-
-This site uses a CAPTCHA to ensure humans are performing certain actions. The CAPTCHA provider may set a session cookie and get information about your internet browser and device accessing this website.
