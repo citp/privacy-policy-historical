@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401074913id_/https%3A//www.hrp.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrp.org.uk privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207071627id_/https%3A//www.hrp.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Historic Royal Palaces
 
@@ -39,7 +39,7 @@ We use your personal data for the following purposes:
 
 ### **How long will you use my personal data for**
 
-We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. Details of retention periods for different aspects of your personal data are available in our retention policy and schedule that you can request a copy of by contacting us at [gdpr@hrp.org.uk](mailto:gdpr@hrp.org.uk).
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements. To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements. Details of retention periods for different aspects of your personal data are available in our retention policy and schedule that you can request a copy of by contacting us at [mydata@hrp.org.uk](mailto:mydata@hrp.org.uk).
 
 ### **Information we may collect from you**
 
@@ -81,14 +81,14 @@ We use information held about you in the following ways:
 1\. When using an online form:
 
   * We ask for your details so we can respond in an appropriate way, for example when enquiring about a venue for hire or requesting materials.
-  * In accordance with your preferences, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you. If you wish us to stop contacting you please email [gdpr@hrp.org.uk](mailto:gdpr@hrp.org.uk).
+  * In accordance with your preferences, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you. If you wish us to stop contacting you please email [mydata@hrp.org.uk](mailto:mydata@hrp.org.uk).
 
 
 
 2\. When signing up for e-mail updates:
 
   * We ask for your details so we can add you to our email database and send you updates you’ve requested.
-  * This information will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law, or where you have consented to it. If you wish us to stop contacting you please email [gdpr@hrp.org.uk](mailto:gdpr@hrp.org.uk).
+  * This information will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law, or where you have consented to it. If you wish us to stop contacting you please email [mydata@hrp.org.uk](mailto:mydata@hrp.org.uk).
 
 
 
@@ -102,7 +102,7 @@ We use information held about you in the following ways:
   * Additionally, our bank recommends that we take the billing address of people purchasing tickets in advance as this can help to prevent fraudulent use of credit cards.
   * However, if you would prefer not to provide us with any of your personal information, you can buy tickets in person at any of the ticket offices at our palaces. For further information please see our [Terms of use](https://web.archive.org/terms-of-use/ "Terms of use").
   * The information we collect in this way will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law.
-  * By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by Historic Royal Palaces in the manner set out in this Privacy Policy. If you have any questions or concerns about the information we hold about you, you can also email [gdpr@hrp.org.uk](mailto:gdpr@hrp.org.uk).
+  * By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by Historic Royal Palaces in the manner set out in this Privacy Policy. If you have any questions or concerns about the information we hold about you, you can also email [mydata@hrp.org.uk](mailto:mydata@hrp.org.uk).
 
 
 
@@ -187,7 +187,7 @@ We may need to request specific information from you to help us confirm your ide
 
 We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-For more information, or to make a Subject Access Request, please [download our Subject Access Request form](https://web.archive.org/media/1858/2018-05-24_sarinformation_v1.pdf "2018-05-24_SARInformation_v1.pdf").
+For more information, or to make a Subject Access Request, please [download our Subject Access Request form](https://web.archive.org/media/2439/2019-06-16_sarinformation_v1.pdf "2019-06-16_SARInformation_v1.pdf").
 
 ### **Sensitive personal data**
 
@@ -206,7 +206,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### **Contact**
 
-Questions, comments and requests regarding this privacy policy should be addressed to [gdpr@hrp.org.uk](mailto:gdpr@hrp.org.uk).
+Questions, comments and requests regarding this privacy policy should be addressed to [mydata@hrp.org.uk](mailto:mydata@hrp.org.uk).
 
 ### **Information about our use of cookies**
 
