@@ -1,283 +1,1297 @@
-<!--The following is the downloaded HTML source of the swayam.gov.in privacy policy that was archived on 2016-08-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160821181312id_/http%3A//swayam.gov.in/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swayam.gov.in privacy policy that was archived on 2019-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191207073651id_/https%3A//swayam.gov.in/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" ng-app="ui.bootstrap.demo"><head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>swayam</title>
-    
-   
-    
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Swayam Central</title>
+<!-- Swayam CSS -->
+<link href="https://storage.googleapis.com/swayam2_central/assets/css/swayam_css/bootstrap.min.css" rel="stylesheet">
+<link href="https://storage.googleapis.com/swayam2_central/assets/css/swayam_css/main.css" rel="stylesheet">
 
-    <style type="text/css">
-        a.back-to-top {
-            display: none;
-            width: 60px;
-            height: 60px;
-            text-indent: -9999px;
-            position: fixed;
-            z-index: 999;
-            right: 20px;
-            bottom: 20px;
-            background: #157dc1 url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAM1JREFUeNrs12ELgyAQBuDcPx9OxIlrErGfeysQBs4r7zwJohfuo/dEqFcKAIYjchsOygVTcl9Ks1evm4tRGn55cHpwUAP/Mb1hC3hsL9jBfpw07KE+XgoOQE9ohV/Az7iUosIqLWzNG8MxNIJcYgkvoVNlw0+qmkw5nsNzZaM5NVLENSjMeXrKW2LDEdkstfuCBW8ej8qTQIZHwtUapODAmGC+FfbAm9drPbmwa0CxibYLWwG0NMM3YSOI5l8tKKw7oMXe6vqTOD38FWAAl8JSohyMtPcAAAAASUVORK5CYII=') no-repeat center 43%;
-            -webkit-border-radius: 30px;
-            -moz-border-radius: 30px;
-            border-radius: 30px;
-        }
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Restrict CSS/JS loading from external CDN. Reverting to cloudflare as its not working from our CDN. Check this later -->
+<!--link rel="stylesheet" href="https://storage.googleapis.com/swayam2_central/assets/css/swayam_css/font-awesome.min.css" -->
 
-        a:hover.back-to-top {
-            background-color: #000;
-        }
-    </style>
+<!-- Swayam JS -->
+<script src="https://storage.googleapis.com/swayam2_central/assets/js/swayam_js/jquery.js"></script>
+<script src="https://storage.googleapis.com/swayam2_central/assets/js/swayam_js/bootstrap.min.js"></script>
+<script type="text/javascript">
+var idleTime = 0;
+$(document).ready(function () {
+    //Increment the idle time counter every minute.
+    var currentUserEmail = 'None'
+
+    if (currentUserEmail != "None"){
+       var idleInterval = setInterval(timerIncrement, 60000); // 1 minute
+    }
+
+
+    //Zero the idle timer on mouse movement.
+    $(this).mousemove(function (e) {
+        idleTime = 0;
+    });
+    $(this).keypress(function (e) {
+        idleTime = 0;
+    });
+});
+
+function timerIncrement() {
+    idleTime = idleTime + 1;
+
+    if (idleTime > 119) { // 120 minutes
+        window.location.replace("https://swayam.gov.in/_ah/logout?continue=https://accounts.google.com/Logout%3Fcontinue%3Dhttps://appengine.google.com/_ah/logout%253Fcontinue%253Dhttps://google.com/url%25253Fsa%25253DD%252526q%25253Dhttps://swayam.gov.in/%252526ust%25253D1575790612896222%252526usg%25253DAFQjCNFn8XdwRnA3k512XT4HLwv60-KLdQ%26service%3Dah");
+    }
+}
+</script>
 </head>
-<body ng-controller="HomeController">
-
-    
-
-<link href="//assets.swayam.gov.in/Swayam/css/innerstyle.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-    a.back-to-top {
-        display: none;
-        width: 60px;
-        height: 60px;
-        text-indent: -9999px;
-        position: fixed;
-        z-index: 999;
-        right: 20px;
-        bottom: 20px;
-        background: #157dc1 url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAM1JREFUeNrs12ELgyAQBuDcPx9OxIlrErGfeysQBs4r7zwJohfuo/dEqFcKAIYjchsOygVTcl9Ks1evm4tRGn55cHpwUAP/Mb1hC3hsL9jBfpw07KE+XgoOQE9ohV/Az7iUosIqLWzNG8MxNIJcYgkvoVNlw0+qmkw5nsNzZaM5NVLENSjMeXrKW2LDEdkstfuCBW8ej8qTQIZHwtUapODAmGC+FfbAm9drPbmwa0CxibYLWwG0NMM3YSOI5l8tKKw7oMXe6vqTOD38FWAAl8JSohyMtPcAAAAASUVORK5CYII=') no-repeat center 43%;
-        -webkit-border-radius: 30px;
-        -moz-border-radius: 30px;
-        border-radius: 30px;
-    }
-
-    a:hover.back-to-top {
-        background-color: #000;
-    }
-    .navbar-default {background-color:#fff!important; border-color:#fff!important
-    }
-</style>
-
-
-<header class="hv-roman" id="main-header" style="border-bottom:1px outset">
-    <div class="top-header clearfix">
-        <div class="container container-max">
-            <!--<div class="pull-left-md"> <img src="images/govt-logo.jpg" alt="" class="img-responsive" />  </div>-->
-            <span class="pull-left-md">
-                <a href="http://mhrd.gov.in/" target="_blank" style="float:left"><img src="//assets.swayam.gov.in/Swayam/images/ministry-logo.jpg" alt="" class="img-responsive"></a>
-                <a href="http://www.aicte-india.org/" target="_blank" style="float:left"><img src="//assets.swayam.gov.in/Swayam/images/council-logo.jpg" alt="" class="img-responsive"></a>
-            </span>
-
-            <div class="pull-right-md login-part">
-                <ul class="list-inline text-uppercase" ng-controller="DropdownCtrl">
-                        <li class="reg-btn df-sign"><a href="User/Registration" meta:resourcekey="PressMeButtonResources" translate="">Register <span class="glyphicon glyphicon-user"></span></a></li>
-                            <li class="log-btn df-sign"><a href="/Account/SignIn" translate="">Login <span class="glyphicon glyphicon-lock"></span></a></li>
-                    <li class="btn-group" uib-dropdown="" dropdown-append-to-body="">
-                        <button id="btn-append-to-body" type="button" class="btn btn-default text-uppercase" uib-dropdown-toggle="">
-                            {{LanguageValue}} <span class="mtn-pad-btn"><span class="caret"></span></span>
-                        </button>
-                        <ul class="dropdown-menu language-drop" uib-dropdown-menu="" role="menu" aria-labelledby="btn-append-to-body">
-                            <li role="menuitem"><a href="javascript:void(0)" ng-click="setLanguage('en')">English</a></li>
-                            <li role="menuitem"><a href="javascript:void(0)" ng-click="setLanguage('hi')">हिंदी</a></li>
-                        </ul>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div id="set_header">
-        <div class="container  container-max">
-            <nav class="navbar navbar-default">
-                <div class="">
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-3" ng-click="isCollapsed = !isCollapsed"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-                        <a class="navbar-brand" href="http://swayam.gov.in">
-                            <img src="https://assets.swayam.gov.in/Swayam/images/swyam logo final.jpg" style="height:75px;margin-top:-18px;margin-bottom:-20px;" alt="Swayam">
-                        <!--<img src="images/swayam-logo.jpg" alt="Everest" />--></a>
-                    </div>
-                    <div class="col-md-6 col-lg-8 col-sm-12 col-xs-20 top15">
-                    </div>
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" uib-collapse="!isCollapsed">
-                        <ul class="nav navbar-nav navbar-right text-uppercase menu-top" style="margin-top:15px">
-                            <li><a href="http://swayam.gov.in/Home" translate="Home">Home</a></li>
-                            <li><a href="http://swayam.gov.in/About" translate="About SWAYAM">About SWAYAM</a></li>
-                            <li><a href="http://swayam.gov.in/publiccourse" translate="courses">courses</a></li>
-                            <li><a href="http://swayam.gov.in/Faculty" translate="faculty">faculty</a></li>
-                            <li><a href="http://swayam.gov.in/Institutions" translate="Institutions">Institutions</a></li>
-                            <li><a href="javascript:void(0);" ng-click="scrolldown()"><span class="app-ico"></span></a></li>
-                          
-                        </ul>
-                    </div>
-                    <!-- /.navbar-collapse -->
-                </div>
-                <!-- /.container-fluid -->
-            </nav>
-        </div>
-    </div>
-</header>
-<!-- header end -->
-
-<script src="https://assets.swayam.gov.in/Swayam/js/angular.min.js"></script>
-<script src="https://assets.swayam.gov.in/Swayam/js/library.js"></script>
-<script src="https://assets.swayam.gov.in/Swayam/MultiLanguage/angular-cookies.js"></script>
-<script src="https://assets.swayam.gov.in/Swayam/js/angular-animate.js"></script>
-<script src="https://assets.swayam.gov.in/Swayam/js/ui-bootstrap-tpls-1.3.3.min.js"></script>
-<script src="https://assets.swayam.gov.in/Swayam/MultiLanguage/angular-translate.js"></script>
-<script src="https://assets.swayam.gov.in/Swayam/MultiLanguage/angular-translate-loader-url.js"></script>
-<script src="https://assets.swayam.gov.in/Swayam/js/MHRDDesingMainJs/AppMain.js"></script>
-<script src="https://assets.swayam.gov.in/Swayam/js/jquery-ui-1.10.4.js"></script>
-<script src="https://assets.swayam.gov.in/Swayam/js/app-services/user.service.js"></script>;
-
-    <div>
-        
-
-
-
-
-    <p class="clearfix"></p>
-
-
-    <section id="university_page" class="df_inner_page">
-        <div class="container">
-            <h3 class="df-h3 ft-light ft-30 text-uppercase">Privacy Policy</h3>
-            <div class="text_for_prof">
-                <p align="justify" translate="As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.">As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.</p><br>
-                <h5 class="ft-light ft-20 text-uppercase" translate="Site Visit data">Site Visit data</h5>
-                <p align="justify" translate="This website records your visit and logs the following information for statistical purposes -your server's address; the name of the top-level domain from which you access the Internet (for example, .gov, .com, .in, etc.); the type of browser you use; the date and time you access the site; the pages you have accessed and the documents downloaded and the previous Internet address from which you linked directly to the site">This website records your visit and logs the following information for statistical purposes -your server's address; the name of the top-level domain from which you access the Internet (for example, .gov, .com, .in, etc.); the type of browser you use; the date and time you access the site; the pages you have accessed and the documents downloaded and the previous Internet address from which you linked directly to the site</p><br>
-                <p align="justify" translate="We will not identify users or their browsing activities, except when a law enforcement agency may exercise a warrant to inspect the service provider's logs.">We will not identify users or their browsing activities, except when a law enforcement agency may exercise a warrant to inspect the service provider's logs.</p><br>
-                <h5 class="ft-light ft-20 text-uppercase" translate="Cookies">Cookies</h5>
-                <p align="justify" translate="A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. This site does not use cookies.">A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. This site does not use cookies.</p><br>
-                <h5 class="ft-light ft-20 text-uppercase" translate="Email Management">Email Management</h5>
-                <p align="justify" translate="Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose, and will not be disclosed, without your consent.">Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose, and will not be disclosed, without your consent.</p><br>
-                <h5 class="ft-light ft-20 text-uppercase" translate="Collection of Personal Information">Collection of Personal Information</h5>
-                <p align="justify" translate="If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the contact us page.">If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the contact us page.</p><br>
-                <p align="justify" translate="Note: The use of the term 'Personal Information' in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.">Note: The use of the term 'Personal Information' in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.</p>
-            </div>
-        </div>
-    </section>
-
-
-
-    </div>
-
-
-
-    
-   
-
-<div id="social_connections">
-    <div class="container container-max">
-
-        <div class="col-md-24 col-sm-24 col-xs-24 pad-0">
-            <div class="dw-app">
-                <div class="row">
-                    <div class="col-md-14 col-sm-24 col-xs-24">
-                        <div class="dw-app-primary" style="margin-bottom:60px">
-                            
-                            <b><p class="ft-16" translate="">Download App</p></b>
-                            <p class="ft-14" translate="">Swayam application coming soon</p>
-
-                            <div class="click-download hidden-xs">
-                                <a href="javascript:void(0)" style="cursor: default" title="coming soon" class="play-store"><img src="//assets.swayam.gov.in/Swayam/images/google-app.png" class="img-responsive" alt=""></a>
-                                <a href="javascript:void(0)" style="cursor: default" title="coming soon" class="play-store"><img src="//assets.swayam.gov.in/Swayam/images/button-app-store.png" class="img-responsive" alt=""></a>
-                                <a href="javascript:void(0)" style="cursor: default" title="coming soon" class="play-store"><img src="//assets.swayam.gov.in/Swayam/images/window-app.png" class="img-responsive" alt=""></a>
-                                
-                            </div>
-
-                            <div class="click-download visible-xs">
-                                <a href="javascript:void(0)" style="cursor: default" title="coming soon" class="play-store"><img src="//assets.swayam.gov.in/Swayam/images/google-app.png" class="img-responsive" alt=""></a>
-                                <a href="javascript:void(0)" style="cursor: default" title="coming soon" class="play-store"><img src="//assets.swayam.gov.in/Swayam/images/button-app-store.png" class="img-responsive" alt=""></a>
-                                <a href="javascript:void(0)" style="cursor: default" title="coming soon" class="play-store"><img src="//assets.swayam.gov.in/Swayam/images/window-app.png" class="img-responsive" alt=""></a>
-                               
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-10 col-sm-24 col-xs-24">
-                        
-                    </div>
-
-                </div>
-
-
-            </div>
-        </div>
-    </div>
-</div>
-<footer id="main-footer">
-    <div class="container ft-12">
+<body class="homepage">
+<header id="header">
+  <!--Top Bar [START]-->
+  <div class="top-bar">
+      <div class="container">
         <div class="row">
-            <div class="col-md-8 col-sm-24">
-                <div class="ft-links">
-                    <ul class="list-inline">
-                        <li><a href="http://swayam.gov.in/indexpublic.html#/Help" translate="">Help</a></li>
-                        <li><a href="http://swayam.gov.in/TermsOfUse" translate="">Terms of Use</a></li>
-                        <li><a href="http://swayam.gov.in/PrivacyPolicy" translate="">Privacy Policy</a></li>
-                    </ul>
-                </div>
+          <div class="col-sm-3 col-xs-12 top-left">
+              <a class="navbar-brand" href="/">
+                  <img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/swayam_logo.png" alt="swayam-logo">
+              </a>
+              &nbsp; &nbsp; &nbsp;
+              
+          </div>
+          <div class="col-sm-9 col-xs-12">
+            <div class="top-navigation">
+                  <a href="/about">About Swayam</a> |
+                  <a href="/explorer">All Courses</a> |
+                  <a href="/nc_details/">National Coordinators</a> |
+                  <a href="https://nptel.ac.in/LocalChapter/">Local Chapters</a>
+                  <!--<a href="swayam_universities">Universities</a> |-->
+                  <!--<a href="swayam_institutes">Institutes</a> |-->
+                  <!--<a href="swayam_instructors">Instructors</a>-->
             </div>
-            <div class="col-md-16 col-sm-24">
-                <div class="swayam_helplines">
-                    <ul class="list-inline">
-                        <li><strong translate="Swayam helpline:">Swayam helpline: </strong><span translate="coming soon" style="padding-left:3px;"> coming soon </span></li>
-                        <li><strong translate="email:">email:</strong>&nbsp;<a href="mailto:support@swayam.gov.in"> support@swayam.gov.in</a></li>
-                    </ul>
-                </div>
-                <div class="copyright">
-                    <span translate="Copyright © 2016. MHRD">Copyright © 2016. MHRD</span>
-                    <a href="#toTop" class="toTop"></a>
-                    <a name="toTop"></a>
-                </div>
-            </div>
+          </div>
         </div>
+      </div>
     </div>
-    <div class="container container-max">
+  <!--Top Bar [END]-->
 
-        <div class="col-lg-24">
+  <!--Menu Container [START]-->
+  <div class="container">
+    <div class="row">
+      <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <!--Mobile + Brand Logo [START]-->
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+          </div>
+          <!--Mobile + Brand Logo [END]-->
 
-
-            <p class="clearfix"></p>
-
+          <!--Main Menu [START]-->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+              <li class="dropdown">
+                <a href="/explorer" class="dropdown-toggle" data-toggle="dropdown">
+                    COURSE CATALOG <i class="fa fa-angle-down"></i>
+                </a>
+                <div class="dropdown-menu" role="list" style="width: 240px;">
+                  <div class="megamenuWrapper">
+                    <div><a href="/explorer">All</a></div>
+                    
+                      
+                    
+                      
+                    
+                      
+                        
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                        
+                            <div><a href="/explorer?category=ARPIT">Annual Refresher Programme in Teaching (ARPIT)</a></div>
+                        
+                      
+                    
+                      
+                    
+                      
+                        
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                        
+                            <div><a href="/explorer?category=ARCHI_COURSES">Architecture and Planning</a></div>
+                        
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                        
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    
+                                    <div class="dropdown-submenu">
+                                        <a class="submenu" href="#">Education &nbsp; <i class="fa fa-angle-down"></i></a>
+                                        <div class="dropdown-menu" role="list" style="display: none;">
+                                            <div class="megamenuWrapper">
+                                                <div><a href="/explorer?category=Education">All</a></div>
+                                                <div><a href="/explorer?category=TEACHER_EDUCATION">Teacher Education</a></div>
+                                
+                            
+                        
+                            
+                        
+                        
+                                            </div>
+                                        </div>
+                                    </div>
+                        
+                      
+                    
+                      
+                    
+                      
+                        
+                        
+                            
+                                
+                                    
+                                    <div class="dropdown-submenu">
+                                        <a class="submenu" href="#">Engineering and Technology &nbsp; <i class="fa fa-angle-down"></i></a>
+                                        <div class="dropdown-menu" role="list" style="display: none;">
+                                            <div class="megamenuWrapper">
+                                                <div><a href="/explorer?category=Engineering_and_Technology">All</a></div>
+                                                <div><a href="/explorer?category=AERO_COURSES">Aerospace Engineering</a></div>
+                                
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=AGRI_COURSES">Agricultural and Food Engineering</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=BIO_TECH">Biological Sciences &amp; Bioengineering</a></div>
+                                
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=CHEMICAL_COURSES">Chemical Engineering</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=CIVIL_ENGINEERING">Civil Engineering</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=COMP_SCI_ENGG">Computer Science and Engineering</a></div>
+                                
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=DESIGN_COURSES">Design Engineering</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=ELEC_ENGG">Electrical, Electronics and Communications Engineering</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=MECH_ENGG">Mechanical Engineering</a></div>
+                                
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=METALLURGY_COURSES">Metallurgy and Material science &amp; Mining Engineering</a></div>
+                                
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Multidisciplinary">Multidisciplinary</a></div>
+                                
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=OCEAN_COURSES">Ocean Engineering</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=TEXTILE_COURSES">Textile Engineering</a></div>
+                                
+                            
+                        
+                        
+                                            </div>
+                                        </div>
+                                    </div>
+                        
+                      
+                    
+                      
+                    
+                      
+                        
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    
+                                    <div class="dropdown-submenu">
+                                        <a class="submenu" href="#">Humanities &amp; Arts &nbsp; <i class="fa fa-angle-down"></i></a>
+                                        <div class="dropdown-menu" role="list" style="display: none;">
+                                            <div class="megamenuWrapper">
+                                                <div><a href="/explorer?category=Humanities_and_Arts">All</a></div>
+                                                <div><a href="/explorer?category=Arts">Arts</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Humanities_and_Social_Sciences">Humanities and Social Sciences</a></div>
+                                
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Language">Language</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                        
+                                            </div>
+                                        </div>
+                                    </div>
+                        
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                        
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                        
+                            <div><a href="/explorer?category=Law">Law</a></div>
+                        
+                      
+                    
+                      
+                    
+                      
+                        
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    
+                                    <div class="dropdown-submenu">
+                                        <a class="submenu" href="#">Management &amp; Commerce &nbsp; <i class="fa fa-angle-down"></i></a>
+                                        <div class="dropdown-menu" role="list" style="display: none;">
+                                            <div class="megamenuWrapper">
+                                                <div><a href="/explorer?category=Management_and_Commerce">All</a></div>
+                                                <div><a href="/explorer?category=Commerce">Commerce</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Management">Management Studies</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                        
+                                            </div>
+                                        </div>
+                                    </div>
+                        
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                        
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    
+                                    <div class="dropdown-submenu">
+                                        <a class="submenu" href="#">Maths &amp; Sciences &nbsp; <i class="fa fa-angle-down"></i></a>
+                                        <div class="dropdown-menu" role="list" style="display: none;">
+                                            <div class="megamenuWrapper">
+                                                <div><a href="/explorer?category=Math_and_Sciences">All</a></div>
+                                                <div><a href="/explorer?category=Applied_Sciences">Applied Sciences</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Chemistry">Chemistry</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Earth_Sciences">Earth Sciences</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Environmental_Sciences">Environmental Sciences</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Library_and_Information_Sciences">Library and Information Sciences</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Mathematics">Mathematics</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                                
+                                    <div><a href="/explorer?category=Physics">Physics</a></div>
+                                
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                        
+                                            </div>
+                                        </div>
+                                    </div>
+                        
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                    
+                      
+                        
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                            
+                        
+                        
+                            <div><a href="/explorer?category=SCHOOL">School</a></div>
+                        
+                      
+                    
+                      
+                    
+                      
+                    
+                  </div>
+                </div>
+              </li>
+              <!--<li><a href="#">GOI PROGRAMS <i class="fa fa-angle-down"></i></a></li>-->
+              <li>
+                <form class="form-search" action="/explorer">
+                  <div class="form-group search">
+                    <input id="header-search-query" name="searchText" type="text" class="input-medium search-query" placeholder="Search Catalog..." value="">
+                    <span class="search_keyword" onclick="redirectToCatalogWithSearchQuery(event)">
+                        <img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/icon_search_16px.png">
+                    </span>
+                  </div>
+                </form>
+              </li>
+              
+              <li>
+                <a href="/azurelogin?continue=/" style="padding-top:0px;">
+                  <button type="submit" name="submit" class="btn btn-primary btn-lg" style="margin: 0px;">
+                      Sign-In / Register
+                  </button>
+                </a>
+              </li>
+              <!--<li>-->
+                <!--<a href="#" style="padding-top:0px">-->
+                  <!--<button type="submit" name="submit" class="btn btn-primary btn-lg" disabled style="filter: grayscale(100%); margin:0px">Sign Up</button>-->
+                <!--</a>-->
+              <!--</li>-->
+              
+            </ul>
+          </div>
+          <!--Main Menu [END]-->
         </div>
+      </nav>
     </div>
-</footer>;
+  </div>
+  <!--Menu Container [END]-->
+</header>
 
-    <script type="text/javascript">
-        // create the back to top button
-        $('body').prepend('<a href="#" class="back-to-top">Back to Top</a>');
+<script>
+  function redirectToCatalogWithSearchQuery(event) {
+    // Proceed only if user clicks on Search icon
+    if (event.type == "click") {
+        document.location = "/explorer?searchText=" + document.getElementById('header-search-query').value;
+    }
+  }
+</script>
+<!--Breadcrumb [START]-->
+<div class="bccontainer">
+   <div class="container breadcrumb">
+      <div> <a href="/">Home</a> &gt; <a href="#">Privacy Policy</a></div>
+            <div class="public_header">Privacy Policy</div>
+            <div class="marginTop25 boxMarginBottom">As a general rule, this website does not collect Personal Information about you when you visit the site. You can generally visit the site without revealing Personal Information, unless you choose to provide such information.</div>
+      </div>
 
-        // change the value with how many pixels scrolled down the button will appear
-        var amountScrolled = 200;
+</div>
+<div class="container" style="margin-bottom: 32px;">
+   <div class="row">
+      <div class="col-xs-12">
+         <h3>SITE VISIT DATA</h3>
+         <p>This website records your visit and logs the following information for statistical purposes -your server's address; the name of the top-level domain from which you access the Internet (for example, .gov, .com, .in, etc.); the type of browser you use; the date and time you access the site; the pages you have accessed and the documents downloaded and the previous Internet address from which you linked directly to the site</p>
+         <p>We will not identify users or their browsing activities, except when a law enforcement agency may exercise a warrant to inspect the service provider's logs.</p>
+         <br>
 
-        $(window).scroll(function () {
-            if ($(window).scrollTop() > amountScrolled) {
-                $('a.back-to-top').fadeIn('slow');
-            } else {
-                $('a.back-to-top').fadeOut('slow');
+         <h3>Cookies</h3>
+         <p>A cookie is a piece of software code that an internet web site sends to your browser when you access information at that site. This site uses cookies.</p>
+         <br>
+
+         <h3>Email Management</h3>
+         <p>Your email address will only be recorded if you choose to send a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list. Your email address will not be used for any other purpose, and will not be disclosed, without your consent.</p>
+         <br>
+
+         <h3>COLLECTION OF PERSONAL INFORMATION</h3>
+         <p>If you are asked for any other Personal Information you will be informed how it will be used if you choose to give it. If at any time you believe the principles referred to in this privacy statement have not been followed, or have any other comments on these principles, please notify the webmaster through the contact us page.</p>
+         <br>
+
+         <p><b>Note</b>: The use of the term 'Personal Information' in this privacy statement refers to any information from which your identity is apparent or can be reasonably ascertained.</p>
+      </div>
+   </div>
+</div>
+
+<style>
+.public_header{
+      font-size: 26px;
+      color: #FFCC33;
+      font-family:roboto-light;
+      padding-top: 32px;
+}
+</style>
+<section class="main">
+<section id="social">
+  <div class="container">
+
+      <div class="row appcontainer">
+        <!--<div class="col-lg-2 col-md-2 col-sm-12 col-xs-12" style="padding-top:12px"> <img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/social_GOI.jpg" /> </div>-->
+        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+          <img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/mhrd_logo.png" style="margin-top:12px">
+          <img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/swayam_logo.png" style="margin-top: 24px;margin-left: 20px;">
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-lg-4 col-md-4 col-sm-7 col-xs-12" style="font-size:11px; color:#666666; line-height:14px;">
+        <h4>DOWNLOAD APP</h4>
+        <!--<div><a href="https://itunes.apple.com/in/app/swayam-online-education/id1146833429?mt=8"><img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/download_app_store_logo.png" /></a></div>-->
+        <div><a href="https://play.google.com/store/apps/details?id=in.gov.swayam.app"><img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/download_google_play_logo.png"></a></div>
+        <!--<div><a href="https://www.microsoft.com/en-in/store/p/swayam/9nblggh4xxml"><img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/download_windows_store_logo.png" /></a></div>-->
+
+         </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-5 col-xs-12 ">
+          <h4>FOLLOW US</h4>
+          <!--<img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/social.jpg" />-->
+          <ul class="social_icons">
+            <li><a href="https://www.facebook.com/swayammoocs/"><img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/icon_social/icon_facebook_selected.png" class="facebook"></a></li>
+            <li><a href="https://www.instagram.com/swayammhrd/"><img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/icon_social/icon_instagram_selected.png" class="instagram"></a></li>
+            <!--<li><a href="#"><img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/icon_social/icon_linkedin_selected.png" class="linkedin"/></a></li>-->
+            <li><a href="https://twitter.com/SWAYAMMHRD"><img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/icon_social/icon_twitter_selected.png" class="twitter"></a></li>
+            <!--<li><a href="#"><img src="https://storage.googleapis.com/swayam2_central/assets/img/swayam_images/icon_social/icon_youtube_selected.png" class="youtube"/></a></li>-->
+          </ul>
+        </div>
+      </div>
+
+  </div>
+</section>
+
+<section id="legal">
+  <div class="container">
+
+  <div class="row">
+      <div class="col-md-6 col-sm-6 col-xs-12">
+
+  <a href="/privacy_policy">Privacy Policy</a>   <span>|</span>   <a href="/terms_of_use">Terms of Use</a>   <span>|</span>   <a href="/honor_code">Honor Code</a> <span style="display:none">|</span>   <a href="#" style="display:none">FAQs</a></div>
+
+  <div class="col-md-6 col-sm-6 col-xs-12 helpline">Helpline : 1 800 121 9025    <span>|</span>   email :  support@swayam.gov.in </div>
+
+  </div>
+  </div>
+</section>
+<!--/#bottom-->
+<footer id="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6"> © 2019 SWAYAM. All rights reserved. </div>
+      <div class="col-sm-6">
+        <div class="pull-right"> Initiative by : MHRD ( Govt of India) </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!--/#footer-->
+</section>
+<style>
+  .main{
+   position: absolute;
+   bottom: 0px;
+   width: 100%;
+   }
+   @media (max-width: 767px) {
+   body{
+   padding-bottom: 400px;
+   }
+   }
+   @media (min-width: 768px) and (max-width: 991px) {
+   body{
+   padding-bottom: 240px;
+   }
+   }
+   @media (min-width: 992px) {
+   body{
+   padding-bottom: 175px;
+   }
+   }
+
+</style>
+<script>
+$('.carousel').carousel({
+  interval: 5000
+})
+</script>
+
+
+<script>
+$(document).ready(function(){
+  $('[data-toggle="tooltip"]').tooltip();
+});
+
+$(document).ready(function() {
+
+  $(".CheckboxContainer .container").click(function(){
+
+      $("input[type='checkbox']").click(function(e){
+
+          $div = $(this).parent();
+          text = $div[0].firstChild.nodeValue;
+          id_text = text.replace(/\s+/g, "");
+          id_text = id_text.replace("&", "_");
+
+          if($(this).prop("checked") == true){
+            $(".sf-filtertags ul").prepend("<li>"+text+"<a href='#' name='"+text+"' id='"+id_text+"' onclick='removeTagAndUncheck(this.id,this.name)'> X </a></li>");
+          }
+          else{
+            $("#"+id_text).parent().remove();
+          }
+
+          clearAllShowHide();
+          e.stopImmediatePropagation();
+        });
+    });
+
+    $('.dropdown-submenu a.submenu').on("click", function(e){
+        $.each($(".dropdown-submenu div.dropdown-menu"), function(){
+            if($(this).is(":visible")) {
+                if( $( "div" ).index( $(this).parent() ) != $( "div" ).index( $(e.target).next('div.dropdown-menu').parent() ) ){
+                    $(this).css("display","none");
+                    $(this).parent().find("i").removeClass("fa-angle-right");
+                    $(this).parent().find("i").addClass("fa-angle-down");
+                }
             }
         });
 
-        $('a.back-to-top, a.simple-back-to-top').click(function () {
-            $('body, html').animate({
-                scrollTop: 0
-            }, 'slow');
-            return false;
-        });
-        //function getId(url) {
-        //    var regExp = /^.*(youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
-        //    var match = url.match(regExp);
+        $(e.target).next('div').toggle();
 
-        //    if (match && match[2].length == 11) {
-        //        return match[2];
-        //    } else {
-        //        return 'error';
-        //    }
-        //}
-        //var myId = getId('https://www.youtube.com/watch?v=6LVzGk8Ytgo')
-        //$('#videoCode').html('<iframe width="100%" height="250px" src="//www.youtube.com/embed/' + myId + '" frameborder="0" ></iframe>');
-    </script>
+        if(($(e.target).next('div')).is( ":visible" )){
+            $(e.target).find("i").removeClass("fa-angle-down");
+            $(e.target).find("i").addClass("fa-angle-right");
+        }
+        else{
+            $(e.target).find("i").removeClass("fa-angle-right");
+            $(e.target).find("i").addClass("fa-angle-down");
+        }
+        e.stopPropagation();
+        e.preventDefault();
+    });
+
+    $(".dropdown").on("show.bs.dropdown", function(event){
+        $( event.target).find("div.dropdown-menu").css("display","table") ;
+        $(event.target).find("i").removeClass("fa-angle-right");
+        $(event.target).find("i").addClass("fa-angle-down");
+    });
+    $(".dropdown").on("shown.bs.dropdown", function(){
+        $('.dropdown-submenu a.submenu').next('div').toggle();
+    });
+    $(".dropdown").on("hide.bs.dropdown", function(event){
+        $( event.target).find("div.dropdown-menu").css("display","none") ;
+    });
+});
+
+function clearAllShowHide(){
+  if ( $('.sf-filtertags ul li').length > 2 ) {
+    $("#clearAllTags").css("visibility","visible");
+  }else{
+    $("#clearAllTags").css("visibility","hidden");
+  }
+}
+
+function removeTagAndUncheck(id, name){
+  $("input[name='"+name.trim()+"']:checkbox").prop('checked', false);
+  $("#"+id).parent().remove();
+  clearAllShowHide();
+}
+
+function clearAllTags(){
+  $('.sf-filtertags ul').empty();
+  $('.sf-filtertags ul').prepend('<li id="clearAllTags" style="border:none;visibility: hidden;" onclick="clearAllTags()"><a href="#">Clear All</a></li>');
+  $('input:checkbox').removeAttr('checked');
+  clearAllShowHide();
+}
+
+//Hide Dropdown popover on out-focus
+$(document).on("focusin", function(event){
+    var $trigger = $(".dropdown");
+    if($trigger !== event.target && !$trigger.has(event.target).length){
+        $(".dropdown-menu").slideUp("fast");
+    }
+});
+
+$(window).click(function() {
+    $(".dropdown-menu").slideUp("fast");
+});
+</script>
+
+<script>
+$('a').click(function(){
+    if($(this).text().trim() == 'Show More' ){
+        $(this).html('Show Less <i class="fa fa-chevron-up"></i>');
+    }
+    else if($(this).text().trim() == 'Show Less' ){
+         $(this).html('Show More <i class="fa fa-chevron-down"></i>');
+    }
+});
+</script>
+
+
 
 
 </body></html>
