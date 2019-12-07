@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630202614id_/https%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicines.org.uk privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207194202id_/https%3A//www.medicines.org.uk/emc/privacy-policy-and-legal) for the most accurate reproduction.*
 
-# Privacy Policy and Legal - electronic Medicines Compendium (eMC)
+# Privacy Policy and Legal - electronic medicines compendium (emc)
 
-The eMC website is owned and operated by Datapharm Communications Ltd.
+The emc website (and the collation and formation of its content) is owned and operated by Datapharm Ltd.
 
-Use of this site is subject to the following terms and disclaimers ("Terms") and by continuing to use the site you signify your acceptance of these Terms.                           
+Use of this site is subject to the following terms and disclaimers ("Terms") and by continuing to use the site you signify your acceptance of these Terms.
 
 Datapharm reserves the right to amend these Terms from time to time and any such amendment will be effective from the date when revised Terms appear on the site.
 
-**The material on the site must not be systematically reproduced, linked to and / or sold for commercial gain.**
+**The material on the site must not be used, reproduced, linked to and/or sold for commercial benefit. Datapharm’s decision, on whether it is of commercial benefit, is final.**
 
 We reserve the right to restrict access to some or all of the website, at our discretion.
 
@@ -35,32 +35,34 @@ The material featured on this site is subject to copyright protection unless oth
 
 ### Allowed use
 
-The copyright protected material may be reproduced by anyone free of charge in any format or medium for research, private study or personal use. This is subject to the material being reproduced accurately and not being used in a misleading context.
+The copyright protected material may be reproduced for private study or personal use. This is subject to the material being reproduced accurately and not being used in a misleading context and emc must always be referenced as the source.
 
 In addition and subject to any restrictions on use and the disclaimers published on this website from time to time
 
-  * healthcare professionals may use and download any content available on the site for professional use either by themselves or other healthcare professionals and may copy from the site (a) for distribution with related products or (b) for supply to members of the general public or other healthcare professionals for information purposes provided that in either case the relevant content is reproduced and supplied in their entirety and not in part.
-  * Pharmaceutical companies who are subscribers to eMC Publishing may reproduce the content for any purpose.
+  * healthcare professionals may use and download any content available on the site for clinical use either by themselves or other healthcare professionals and may copy from the site (a) for distribution with related products or (b) for supply to members of the general public or other healthcare professionals for information purposes provided that in either case the relevant content is reproduced and supplied in their entirety and not in part.
+  * pharmaceutical companies who are subscribers to emc publishing may reproduce their own content for any purpose.
 
 
 
 ### Prohibited use
 
-**The material on the site must not be systematically reproduced, linked to and / or sold for commercial gain.**
+**The material on the site must not be used, reproduced, linked to and/or sold for commercial benefit.**
 
 You agree **not** to use the Website:
 
   * for any commercial purposes (which includes using the Website to promote or encourage the sale of your goods/services or for inclusion into healthcare and prescribing systems);
   * to create or populate a database or knowledge bank (electronic or otherwise) that includes material downloaded or otherwise obtained from the Website
   * to transmit or re-circulate any material obtained from the Website to any third party except where expressly permitted on the Website
+  * to routinely or systematically check/track changes/updates to 3rd party information 
+  * to create additional information or summarise content for your own company
 
 
 
-For further information on Datapharm copyright policy; if you require clarification of how you can use the content on this site or you would like to enquire about licensing eMC content please contact [servicedesk@medicines.org.uk]()
+For further information on Datapharm copyright policy, if you require clarification of how you can use the content on this site or you would like to enquire about licensing emc content please contact [servicedesk@medicines.org.uk]()
 
 ## Privacy policy
 
-Datapharm is committed to protecting the privacy of all individuals using our websites. The following statement discloses the legal and privacy practices for the eMC website.
+Datapharm is committed to protecting the privacy of all individuals using our websites. The following statement discloses the legal and privacy practices for the emc website.
 
 ### Information collection and use
 
@@ -74,7 +76,7 @@ Datapharm does not collect or store any personally identifiable information abou
 
 
 
-We always aim to ensure that the personally identifiable information that we collect will be adequate, relevant and not excessive in relation to the purpose or purposes for which they are processed.
+We always aim to ensure that the personally identifiable information that we collect will be adequate, relevant and not excessive in relation to the purpose or purposes for which it is processed.
 
 Datapharm does not sell personal information it has gathered about you to third parties.
 
@@ -102,9 +104,9 @@ When you use our website, we collect details of visitor behaviour patterns. For 
 
 We may from time to time use various cookies that retain information about you and your use of our websites.
 
-A cookie is a small piece of data that is transferred from a website, via your web browser and is automatically stored on your device's hard drive. Cookies are widely used to make websites work or make them work better. Cookies provide us with information about your activities or preferences whilst using our websites and provide statistical and technical information about how you use our websites. We use this information to improve our websites and deliver a better personalised service. We use two different cookies on our websites.
+A cookie is a small piece of data that is transferred from a website, via your web browser and is automatically stored on your device's hard drive. Cookies are widely used to make websites work or make them work better. Cookies provide us with information about your activities or preferences whilst using our websites and provide statistical and technical information about how you use our websites. We use this information to improve our websites and deliver a better personalised service. We use two different classes of cookies on our websites.
 
-  * **Persistent cookies** : if you log on to a restricted section of our website, we may set a cookie on your device to remember your login details. We may also set a cookie on your device to retain selected preferences so they can be recalled on subsequent visits. These cookies stays on your device indefinitely, even after you leave our websites
+  * **Persistent cookies** : if you log on to a restricted section of our website, we may set a cookie on your device to remember your login details. We may also set a cookie on your device to retain selected preferences so they can be recalled on subsequent visits. These cookies stay on your device indefinitely, even after you leave our websites
   * **Session cookies** : we use these to remember your preferences during your visit, for example the number of search results displayed per page. Session cookies are stored only temporarily during the browsing sessions and are deleted once the browser is closed
 
 
@@ -148,7 +150,7 @@ Any personally identifiable information that you provide will be stored on secur
 
 ### Updates to legal and privacy policy
 
-From time to time, Datapharm may revise this legal and privacy policy. Continued use of our websites after receiving notice of a change in our privacy policy indicates your consent to the use of newly submitted information in accordance with the amendments. This legal and privacy policy was last updated on 11th May 2018.
+From time to time, Datapharm may revise this legal and privacy policy. Continued use of our websites after receiving notice of a change in our privacy policy indicates your consent to the use of newly submitted information in accordance with the amendments. This legal and privacy policy was last updated in August 2019.
 
 ## Links policy
 
@@ -158,7 +160,7 @@ We reserve the right to withdraw a link or refuse to link to any website without
 
 ## Links to this website
 
-We encourage organisations and individuals to create hypertext links to our website for non-commercial use. However, unless you are a subscriber to eMC Publishing, we require such organisations and individuals to request permission to do so via [servicedesk@medicines.org.uk](mailto:servicedesk@medicines.org.uk?subject=This%20is%20a%20link%20request...).
+We encourage organisations and individuals to create hypertext links to our website for non-commercial use or benefit. However, unless you are a subscriber to emc publisher, we require such organisations and individuals to request permission to do so via [servicedesk@medicines.org.uk](mailto:servicedesk@medicines.org.uk?subject=This%20is%20a%20link%20request...).
 
 We do request that those linking to our website respect the following conditions:
 
@@ -170,6 +172,6 @@ We do request that those linking to our website respect the following conditions
 
 
 
-_Datapharm Communications Ltd is a company registered in England and Wales._  
- _Registered number: 1317421_  
+_Datapharm Ltd is a company registered in England and Wales._  
+ _Registered number: 11275607_  
  _Registered office address: Pascal Place, Randalls Way, Leatherhead, Surrey, KT22 7TW_
