@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helifreak.com privacy policy that was archived on 2018-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181129171755id_/http%3A//www.versatile.ky/websiteacquisitions/site-privacy-policy/index.php%3Fsite%3DHeliFreak.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helifreak.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208001630id_/http%3A//www.versatile.ky/websiteacquisitions/site-privacy-policy/index.php%3Fsite%3DHeliFreak.com) for the most accurate reproduction.*
 
 # 
 
