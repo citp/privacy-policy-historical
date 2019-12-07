@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdg.ac.uk privacy policy that was archived on 2019-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190626063401id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdg.ac.uk privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207052642id_/http%3A//www.reading.ac.uk/15/about/about-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy and cookies information – University of Reading
 
@@ -114,6 +114,7 @@ Session ID
 These cookies automatically set and help perform essential functions and some interactive features of the University website such as online forms or to remember your login. It is only put on your computer when you use one of these features.  
   
  mysite#lang |  Stores the current site language. Used when switching the site content to a different language.  
+ qtrans_front_language |  Stores the current site language  
   
 PHPSESSID
 
@@ -153,6 +154,8 @@ _dc_gtm_ (prefix)
 
 _gcl_au
 
+_gat
+
 | We use Google Analytics to help us to understand how you make use of our content and work out how we can make things better. These cookies follow your progress through our website, collecting data on where you have come from, which pages you visit, and how long you spend on the site. This data is then stored by Google in order to create reports. These cookies do not store your personal data.  
  nmstat |  This cookie is used to help record visitors' use of the website. This information is then used to improve the user experience on the website. The cookie contains no personal information and is used only for web analytics.  
   
@@ -177,6 +180,36 @@ _author
 _author_email
 
 _author_url |  We use the WordPress platform for our blogs. When you comment on a blog post, WordPress will put some cookies on your machine that record the information you type in when you leave your comment. This means that you don't have to retype your details if you want to leave another comment.  
+ _hjIncludedInSample | This cookie is used for user journey analytics on our Henley Business School sites  
+  
+Giosg_chat_id_{$COMPANY_ID}
+
+Giosg_gid_{$COMPANY_ID}
+
+Giosg_gsessid_{$COMPANY_ID}
+
+| These cookies are used to distinguish unique users and determine new sessions and visits, to allow chat to continue from page to page and domain to domain in the case of shared rooms and for analytics  
+ Hotjar 
+
+_hjClosedSurveyInvites
+
+_hjDonePolls
+
+_hjMinimizedPolls
+
+_hjDoneTestersWidgets
+
+_hjIncludedInSample
+
+_hjShownFeedbackMessage
+
+_hjid
+
+| 
+
+We use Hotjar, an analytics and feedback tool, to improve the usability of our site. Hotjar sets persistent cookies (up to 365 days) for analytics purposes and to display the correct content to our visitors. You can read about what cookies are stored by visiting [_Hotjar's website_](http://docs.hotjar.com/docs/hotjar-cookies). 
+
+Hotjar also records visitor information including mouse clicks and movements, scrolling activity and user input on our website (for example on the search box) - this information is anonymous. Recordings are automatically deleted after 365 days. You can opt-out of Hotjar collecting your information at any time by [_following these instructions_](https://www.hotjar.com/opt-out).   
   
 ## Advertising/targeting/remarketing third party cookies
 
@@ -217,10 +250,18 @@ BizoID 
 
 | Used for targeted and optimised advertising to distinguish first time users.  
   
+**Dotmailer**
+
+DmSessionID
+
+recordID
+
+| These cookies are used to identify when visitors that have been included in an email campaign visit our sites. This helps us to monitor the effectiveness of those campaigns  
+  
 ****Snapchat****
 
 sc_at | Used for targeted adverting   
-  ** **Twitter****
+****Twitter****
 
 Personalization_id
 
@@ -231,6 +272,14 @@ K, js, external referrer
 ****Youtube****
 
 GPS, YSC, PREF, VISITOR_INFO1_LIVE | Keeps track of your preferences, location, viewing history, when using imbedded Youtube videos  
+  
+**GetSocial**
+
+_smb_api_session
+
+LSW_WEB
+
+| These cookies enable the usage of GetSocial toolbars for sharing webpages on social networks and is used to track social shares  
   
 We know that a lot of visitors to our website use social networking tools, so we have tried to make it easy for you to share our content using these services. We use a button provided by ShareThis to enable this functionality and this button places its own cookies on your machine. We also pull through content from social networks into our own pages, such as embedded Twitter feeds. The social networks, such as Facebook and Twitter, may themselves also put cookies on your machine. We have little control over these 'third party' cookies, so we suggest that you check the respective privacy policies for these external services to help you understand what data these organisations hold about you and what they do with it. For instance, the [Facebook Data Use Policy](http://www.facebook.com/about/privacy/) and the [Twitter privacy policy](https://twitter.com/privacy) give further information about those services.
 
