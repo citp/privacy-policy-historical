@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rockfordfosgate.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513225358id_/https%3A//rockfordfosgate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockfordfosgate.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207062236id_/https%3A//rockfordfosgate.com/privacy-policy) for the most accurate reproduction.*
 
-# Rich Text | Rockford Fosgate ®
+# Privacy Policy | Rockford Fosgate ®
 
 ### This Privacy Policy Was Updated 4/20/2017
 
