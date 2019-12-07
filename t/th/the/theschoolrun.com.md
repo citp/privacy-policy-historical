@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418172525id_/https%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theschoolrun.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207171736id_/https%3A//www.theschoolrun.com/privacy-policy) for the most accurate reproduction.*
 
 # TheSchoolRun's privacy policy | TheSchoolRun
 
 This policy (together with our [terms and conditions](https://www.theschoolrun.com/terms-and-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
 
-**Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
+ **Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.**
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998, the EC Communications Directive 2003, PECR 2003 and PECR II.
 
@@ -39,7 +39,7 @@ All personal information will be held in accordance with our internal security p
 
 We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
-For the same reason, we may obtain information about your general internet usage by [using a cookie file](http://www.theschoolrun.com/about-cookies) which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
+For the same reason, we may obtain information about your general internet usage by [using a cookie file](https://www.theschoolrun.com/about-cookies) which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
 
   * To estimate our audience size and usage pattern.
   * To store information about your preferences, and so allow us to customise our site according to your individual interests.
@@ -70,4 +70,4 @@ Our site may, from time to time, contain links to and from the websites of our p
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by email.
 
-If you have any questions or comments about privacy, please email us at [enquiries@theschoolrun.com](http://enquiries@theschoolrun.com/).
+If you have any questions or comments about privacy, please email us at [enquiries@theschoolrun.com](mailto:enquiries@theschoolrun.com).
