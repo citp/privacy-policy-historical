@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the suttontrust.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416163038id_/https%3A//www.suttontrust.com/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suttontrust.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207173351id_/https%3A//www.suttontrust.com/your-privacy) for the most accurate reproduction.*
 
 # Your Privacy - Sutton Trust
+
+Skip to content
 
 Your Privacy[Grace Veenman](https://www.suttontrust.com/author/rebecca/ "Posts by Grace Veenman")2019-02-27T13:30:08+00:00
 
@@ -178,7 +180,7 @@ University of York
 US-UK Fulbright Commission  
 Warwick University  
   
-The Sutton Trust holds data on teachers to deliver its programmes effectively.
+The Sutton Trust holds data on teachers to deliver its programmes effectively. 
 
 Throughout this policy we use language which can be defined as:
 
@@ -487,7 +489,7 @@ If we do hold information about you we will:
 
 We want to make sure that your personal information is accurate and up to date and we will be happy to correct or remove information you think is inaccurate.
 
-If you have any concerns about the processing or use of data for these purposes or would like a copy of the data you have supplied directly to us, requests should be made in writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4622273227363429322325322f29280635333232292832343335326825292b) _._
+If you have any concerns about the processing or use of data for these purposes or would like a copy of the data you have supplied directly to us, requests should be made in writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#593d382d38292b362d3c3a2d303637192a2c2d2d36372d2b2c2a2d773a3634) _._
 
 If you decide in the future that you no longer want your information to be used in any evaluation, please contact the Sutton Trust by e-mailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#85e6eaebf1e4e6f1a8f0f6c5f6f0f1f1eaebf1f7f0f6f1abe6eae8) or phoning 020 7802 1660.
 
@@ -553,7 +555,7 @@ Higher Education Funding Council for England (HEFCE), Department for Education, 
 By signing up to Sutton Trust Alumni you accept the full terms of use as detailed below. For your ease, we have summarises the main points:
 
   1. If you are unable to abide by the following requirements, you should not use Sutton Trust Alumni
-  2. If you would like to get in touch with us, please email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#721b1c141d32010706061d1c06000701065c111d1f), or call on +44 (0207) 802 1660
+  2. If you would like to get in touch with us, please email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b1d8dfd7def1c2c4c5c5dedfc5c3c4c2c59fd2dedc), or call on +44 (0207) 802 1660
   3. These terms of use should be understood alongside our privacy policy [hyperlink: <https://www.suttontrust.com/alumni/alumni-your-privacy/> ] and cookie policy [hyperlink: <https://www.suttontrust.com/alumni/alumni-your-privacy/>]
   4. We may from time to time make changes to our terms of use
   5. We may from time to time make changes to Sutton Trust Alumni, and we cannot guarantee that the service will be available uninterrupted
@@ -561,7 +563,7 @@ By signing up to Sutton Trust Alumni you accept the full terms of use as detaile
   7. The Trust owns the intellectual property for the content we create on Sutton Trust Alumni, you should not use this content for other ends, and you should treat the content as information only
   8. You own the intellectual property for content you create, and you should ensure that you have permission to share this content
   9. You should be careful of the content you post – it should not be offensive, as per the categories set out in section 8 of the terms of use. You should be sensitive of the way you treat others, and should not use Sutton Trust Alumni for any illegal purposes. You should not interfere with Sutton Trust Alumni, create unauthorised accounts, or attempt to restrict others from using it. You should not unreasonably financially or politically profit from Sutton Trust Alumni, and should not reproduce content. You should also be careful not to imply that the Trust endorses or is responsible for content you create.
-  10. You are encouraged to report any inappropriate content to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#82ebece4edc2f1f7f6f6edecf6f0f7f1f6ace1edef) immediately.
+  10. You are encouraged to report any inappropriate content to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#7910171f16390a0c0d0d16170d0b0c0a0d571a1614) immediately.
   11. We agree to use your details in accordance with our privacy policy [hyperlink: <https://www.suttontrust.com/alumni/alumni-your-privacy/>]
   12. We do not seek to exclude or limit in any way our liability to you where it would be unlawful to do so
   13. We can delete your account should you breach these terms of use, and we can also cease offering Sutton Trust Alumni should we decide to
@@ -719,7 +721,7 @@ i) Other prohibited activities include, but are not limited to:
 
 
 
-All users are encouraged to report any content which they feel is inappropriate, particularly in relation to Section 9: (Prohibited Uses of the Network). This can be done by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#acc5c2cac3ecdfd9d8d8c3c2d8ded9dfd882cfc3c1), including brief details of the content you object to and where it has been posted. If possible include a link to where the content appears on the network.
+All users are encouraged to report any content which they feel is inappropriate, particularly in relation to Section 9: (Prohibited Uses of the Network). This can be done by emailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#93fafdf5fcd3e0e6e7e7fcfde7e1e6e0e7bdf0fcfe), including brief details of the content you object to and where it has been posted. If possible include a link to where the content appears on the network.
 
 We aim to respond to your complaint within five working days, including our decision and the action we will be taking. Please be aware that complaints about content made outside of office hours may be subject to a delay on our target response time. If content is found to be offensive the user who posted the content will be contacted to let them know their post has been deleted, and to remind them about our community standards.
 
@@ -1125,7 +1127,7 @@ More information about your rights can be found on the ICO [website](https://ico
 
 **Making an enquiry**
 
-If you have any concerns about the processing or use of data for these purposes or would like a copy of the data we hold on you, requests should be made in writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#e18580958091938e95848295888e8fa1929495958e8f9593949295cf828e8c) using our [Subject Access Request form](https://www.suttontrust.com/wp-content/uploads/2018/05/SuttonTrust-SARForm-May2018-1.pdf).
+If you have any concerns about the processing or use of data for these purposes or would like a copy of the data we hold on you, requests should be made in writing to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b8dcd9ccd9c8cad7ccdddbccd1d7d6f8cbcdccccd7d6cccacdcbcc96dbd7d5) using our [Subject Access Request form](https://www.suttontrust.com/wp-content/uploads/2018/05/SuttonTrust-SARForm-May2018-1.pdf).
 
 We will consider all such requests and will try to respond to your request within 5 working days (and in any event within any time period required by law). Please note, however, that certain personal information will be exempt from such requests in certain circumstances. If an exception applies, we will tell you this when responding to your request. We may request you provide us with information necessary to confirm your identity before responding to any.
 
@@ -1142,11 +1144,11 @@ If we do hold information about you we will:
 
 We want to make sure that your personal information is accurate and up to date and we will be happy to correct or remove information you think is inaccurate.
 
-If you decide in the future that you no longer want your data to be used , please contact the Sutton Trust by e-mailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#721613061302001d061711061b1d1c32010706061d1c06000701065c111d1f) or phoning 020 7802 1660.
+If you decide in the future that you no longer want your data to be used , please contact the Sutton Trust by e-mailing [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#4a2e2b3e2b3a38253e2f293e2325240a393f3e3e25243e383f393e64292527) or phoning 020 7802 1660.
 
 **Making a complaint**
 
-If you have any complaints about the way your data has been handled you should make a written complaint to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#f891969e97b88b8d8c8c97968c8a8d8b8cd69b9795)
+If you have any complaints about the way your data has been handled you should make a written complaint to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#462f2820290635333232292832343335326825292b)
 
 Alternatively, you can contact the ICO on 0303 123 1113, or write to them using the address below. They are open Monday to Friday between 9am and 5pm.
 
