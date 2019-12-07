@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the amirite.net privacy policy that was archived on 2018-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180607093552id_/http%3A//www.amirite.com/help%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amirite.net privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207061030id_/https%3A//www.amirite.com/privacy) for the most accurate reproduction.*
 
-# Help - Amirite
+# Privacy Policy - Amirite? - Post your opinion and see who agrees.
 
-_Effective Date: Thursday, June 13th 2013_
-
-## _Welcome to Amirite!_
-
-Amirite provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the Amirite website located at[ www.amirite.com](http://%20www.amirite.com/) (the “ ** _Site_** ”). If you have questions or concerns regarding this Privacy Policy, you should first contact Amirite at support@amirite.com.
+Amirite provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit and use the Amirite website located at [www.amirite.com](https://www.amirite.com/) (the “ ** _Site_** ”). If you have questions or concerns regarding this Privacy Policy, you can contact Amirite [using the contact page](https://web.archive.org/contact). 
 
 This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy on the home page of the Site and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are advised to consult this Privacy Policy regularly for any changes.
 
@@ -33,11 +29,11 @@ Personal information
 
 
 
-### Publicly available information
+## Publicly available information
 
-When you sign up for an Amirite account, your user name, photograph and bio are publicly available. Such information may, for example, be accessed by everyone on the Internet (including people not logged into Amirite), be indexed by third party search engines, and be imported, exported, distributed, and redistributed by us and others without privacy limitations. Such information may also be associated with you, including your name and profile picture, even outside of Amirite, such as on public search engines and when you visit other sites on the internet. The default privacy setting for certain types of information you post on Amirite is set to “public.” You can review and change the default settings in your [privacy settings](http://www.amirite.com/settings#privacy), and also select to make your account “Protected” which allows you to control who has access to viewing your profile.
+When you sign up for an Amirite account, your user name, photograph and bio are publicly available. Such information may, for example, be accessed by everyone on the Internet (including people not logged into Amirite), be indexed by third party search engines, and be imported, exported, distributed, and redistributed by us and others without privacy limitations. Such information may also be associated with you, including your name and profile picture, even outside of Amirite, such as on public search engines and when you visit other sites on the internet. The default privacy setting for certain types of information you post on Amirite is set to “public.” You can review and change the default settings in your [privacy settings](https://web.archive.org/settings/privacy), and also select to make your account “Protected” which allows you to control who has access to viewing your profile.
 
-## LogData
+## Log Data
 
 When you use the Site, our servers automatically record information that your browser sends whenever you visit a website or online service (“ _ **Log Data**_ ”). This Log Data may include, but is not limited to, your computer's Internet Protocol address, browser type, the web page you were visiting before you came to the Site and information you search for on our Site. We use this information to monitor and analyze use of the Site and our services and for the Site's technical administration, to increase the Site's functionality and user-friendliness, and to better tailor our Site and services to our visitors' needs.
 
@@ -67,7 +63,7 @@ We may employ third party companies and individuals to facilitate the Site and t
 
 As an Amirite Registered User, you can link your Amirite account information with certain social networking services (“ _ **SNSs**_ ”) and blogging services (“ _ **Blogs**_ ”) and share your posts with your friends or visitors to your Blogs. In these instances, with your permission and on your behalf we will share the information contained in your Amirite account (i.e., profile information and answers) with the SNSs and Blogs with which you choose to link your Amirite account. We also receive certain information (which may include your Personal Information) in accordance with the privacy settings you have set in your SNS account, if any. Other than what we may share with the SNS or Blog in connection with your linking of accounts, the personal information a SNS or Blog has about you is obtained by the SNS or Blog independent of our Services. Other services follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other online services you use
 
-_**To remove yourself from these SNS connections, please log into your account, and “remove” under “social accounts”.**_
+To remove yourself from these SNS connections, please log into your account, and “remove” under “social accounts”.
 
 ### Compliance with Laws and Law Enforcement
 
@@ -93,7 +89,7 @@ Your friend may contact us at support@amirite.com to request that we remove th
 
 ## Import Contacts
 
-We utilize an import contacts feature to help you keep in touch with your contacts and other members. We make it easy for you to invite people from your email address books to join you on our Site. At your request we will search your email address book to help you import your contacts to our site.
+We provide an import contacts feature to help you keep in touch with your contacts and other members. We make it easy for you to invite people from your email address books to join you on our Site. At your request we will search your email address book to help you import your contacts to our site.
 
 ## Security
 
@@ -113,5 +109,4 @@ The Site contains links to other websites and online services that are not owned
 
 ## Contacting Us
 
-If you have any questions about this Privacy Policy, please contact us at [support@amirite.com](mailto:support@amirite.com)[  
-](mailto:privacy@formspring.me)
+If you have any questions about this Privacy Policy, please contact us [using the contact form](https://web.archive.org/contact).
