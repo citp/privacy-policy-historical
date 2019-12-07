@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beastgrip.com privacy policy that was archived on 2019-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190123075702id_/https%3A//beastgrip.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beastgrip.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207182612id_/https%3A//beastgrip.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BEASTGRIP CO
 
