@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoocasa.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502144845id_/https%3A//www.zoocasa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoocasa.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207063732id_/https%3A//www.zoocasa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Zoocasa
 
@@ -141,7 +141,7 @@ Zoocasa has a designated a Privacy Officer who is responsible for Zoocasa's comp
 
 Privacy Officer  
 c/o Zoocasa Realty Inc.  
-184 Front Street East, Suite 701  
+184 Front Street East, Suite 402  
 Toronto, ON M5A 4N3
 
   
