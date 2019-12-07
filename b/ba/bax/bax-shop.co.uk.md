@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bax-shop.co.uk privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105054815id_/https%3A//www.bax-shop.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bax-shop.co.uk privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207173034id_/https%3A//www.bax-shop.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Bax Music
 
@@ -68,7 +68,7 @@ If you are no longer interested in receiving emails from us, you can always unsu
 
 _Magazine and direct mail_
 
-Once you've ordered from our webshop, you can expect to receive mail from us occasionally. If you've spent more than £100 with us within a year, you'll get the Bax Music Magazine delivered to your home address for free. If you no longer wish to receive mail from Bax Music, you can unsubscribe online via the ‘[Unsubscribe from Bax Music mailings](https://web.archive.org/customer-service/unsubscribe-from-bax-music-mailings "Unsubscribe from Bax Music mailings")’ page. 
+Once you've ordered from our webshop, you can expect to receive mail from us occasionally. If you've spent more than £100 with us within a year, you'll get the Bax Music Magazine delivered to your home address for free. If you no longer wish to receive mail from Bax Music, you can unsubscribe online via the ‘[Unsubscribe from Bax Music mailings](https://web.archive.org/unsubscribe "Unsubscribe from Bax Music mailings")’ page. 
 
 _Online advertisements_
 
