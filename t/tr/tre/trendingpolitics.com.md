@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendingpolitics.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508001653id_/https%3A//trendingpolitics.com/static/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendingpolitics.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207230607id_/https%3A//trendingpolitics.com/static/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Trending Politics
 
@@ -47,5 +47,3 @@ We do not sell products or services to children. If you are under 18, you may us
 Other Websites 
 
 Various Web sites may be linked to from this site. If you link to another site, your privacy depends on the policy of that site. We strongly urge you to check their privacy policy. Not all sites guarantee that they will not share your personally identifiable information with others. You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (www.privacyalliance.org).
-
-Have a news tip? [Sign up](https://web.archive.org/signup/) (or [login](https://web.archive.org/login/))! and submit your news link. It's free to join and participate on TrendingPolitics.com! 
