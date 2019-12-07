@@ -1,397 +1,345 @@
-<!--The following is the downloaded HTML source of the pcgamesn.com privacy policy that was archived on 2018-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20180626102631id_/https%3A//www.pcgamesn.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pcgamesn.com privacy policy that was archived on 2019-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191207171533id_/https%3A//www.pcgamesn.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
-	<meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="p:domain_verify" content="74fb19398a91c4d498a3a18347e0e18c">
-  <meta name="msvalidate.01" content="C076CC9EF700AC7B451B9CEA026B75A9">
-  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet" type="text/css">
- <meta name="viewport" content="width=device-width, initial-scale=1">
- <link rel="shortcut icon" href="/favicon.ico?v=2">
- <meta property="fb:pages" content="252674101507273">
-
-<style>.button_button--lgX0P{border-radius:0!important;}.intro_intro--Ntqks{background:#eeeeee!important;}</style>
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/2880.js?438991" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KJV9C7D"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>window.__cmp={config:{globalVendorListLocation:'https://cmp.network-n.com/vendorlist.json',customLogo:'https://www.pcgamesn.com/PCGN_icon_80px.png',customLogoLink:'/'}};</script>
-<script src="https://cmp.network-n.com/js/cmp.cf.complete.bundle.js"></script>
-
-<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
-<script>
-
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
-googletag.cmd.push(function () {
-  googletag.pubads().disableInitialLoad();
-});
-
-
-function initAdserver(){
-  googletag.cmd.push(function(){
-    googletag.pubads().refresh();
-  });
-}
-
-// Load GPT when timeout is reached.
-// Change to use initPBAdserver for prebid
-// 
-//setTimeout(initPBAdserver, PREBID_TIMEOUT);
-
-
-//load GPT library here
-(function(){
-    var gads = document.createElement('script');
-    gads.async = true;
-    gads.type = 'text/javascript';
-    var useSSL = 'https:' == document.location.protocol;
-    gads.src = (useSSL ? 'https:' : 'http:') +
-            '//www.googletagservices.com/tag/js/gpt.js';
-    var node = document.getElementsByTagName('script')[0];
-    node.parentNode.insertBefore(gads, node);
-})();
-
-
-
-    // Edit these settings if the units need changing
-  var skin_path = '/6928793/PCGamesN-Skin(1570x970)-T';
-  var skin_size = [[1570, 970], [300, 600]];
-  var adScreenWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-  var showSkin = true;
-  var showLeader = true;
-  var showMPUTop = true;
-
-  var slot_skin;
-  var slot_billboard;
-  var slot_mpu_top;
-  var slot_mpu_bottom;
-
-  if(adScreenWidth < 1300) {
-   showSkin = false; 
-  }
-  if(adScreenWidth < 900) {
-   showLeader = false; 
-  }
-  if(adScreenWidth < 940) {
-   // Sidebar appears below, don't show main mpu
-    showMPUTop = false;
-  }
- 
-  if(showLeader) {
-    var billboard_path = '/6928793/PCGamesN-BB1-T(Flex)';
-    var billboard_size = [[970, 250], [728, 90]];
-    var mpu_top_path = '/6928793/PCGamesN-MPU1-T(Flex)';
-    var mpu_top_size = [[300, 600], [300, 250]];
-    var mpu_left_path = '/6928793/PCGamesN-MPU2';
-    var mpu_left_size = [300, 250];
-  } else {
-    var mobile_path = '/6928793/PCGamesN-Mobile-MPU1';
-    var mobile_size = [[300, 250], [300, 600]];
-  }
-  
-   var uricomp = window.location.pathname.split("/");
-
-  // Don't edit anything below this line
-  var resizeRail = false;
-googletag.cmd.push(function() {
-  if(document.getElementById("pcgamesn_ad_skin") != null) {
-    if(showSkin) {
-       slot_skin = googletag.defineSlot(skin_path , skin_size, 'pcgamesn_ad_skin').addService(googletag.pubads()); 
-    }
-  }
-  
-  if(showLeader) {
-    if(document.getElementById("pcgamesn_ad_billboard") != null) {
-      slot_billboard = googletag.defineSlot(billboard_path , billboard_size, 'pcgamesn_ad_billboard').addService(googletag.pubads());
-    }
-    if(document.getElementById("pcgamesn_ad_mputop") != null) {
-      slot_mpu_top = googletag.defineSlot(mpu_top_path , mpu_top_size, 'pcgamesn_ad_mputop').addService(googletag.pubads());  
-    }
-    if(document.getElementById("pcgamesn_ad_mpubottom") != null) {
-      slot_mpu_bottom = googletag.defineSlot(mpu_left_path , mpu_left_size, 'pcgamesn_ad_mpubottom').addService(googletag.pubads());
-    }
-  } else {
-    slot_mobile = googletag.defineSlot(mobile_path , mobile_size, 'ph_1').addService(googletag.pubads());
-    resizeRail = true;
-    
-  }
-
-  var uricomp = window.location.pathname.split("/");
-  var urlIndex = uricomp.length;
-  if(uricomp.length > 0){
-    googletag.pubads().setTargeting("urlkeyword", uricomp[1]);
-    var urlFragment = uricomp[(urlIndex-1)].substring(0,40)
-    googletag.pubads().setTargeting("url",urlFragment);
-  }
-  googletag.pubads().enableSingleRequest();
-  googletag.enableServices();
-});
- 
-  if(showSkin) {
-
-    googletag.cmd.push(function() { googletag.display('pcgamesn_ad_skin'); });  
-  }
-
-  googletag.cmd.push(function() { googletag.display('pcgamesn_ad_billboard'); });
-  if(showLeader) {
-
-    googletag.cmd.push(function() { googletag.display('pcgamesn_ad_mputop'); });  
-
-    googletag.cmd.push(function() { googletag.display('pcgamesn_ad_mpubottom'); });
-  } else {
-
-  }
-  initAdserver();
-</script>
-<!-- Begin comScore Tag -->
-<script>
-  var _comscore = _comscore || [];
-  _comscore.push({ c1: "2", c2: "25110922" });
-  (function() {
-    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-    el.parentNode.insertBefore(s, el);
-  })();
-</script>
-<noscript>
-  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=25110922&cv=2.0&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortlink" href="/node/167417">
-<link rel="canonical" href="https://pcgamesn.com/privacy-policy">
-   <link type="text/css" rel="stylesheet" href="https://pcgamesn.com/sites/default/files/css/css_hEC-Gq3O7Ejje4X9pG9TCOY9aIIyKQdUXupz8Bl_Yuw.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://pcgamesn.com/sites/default/files/css/css_pJrjlTCQYxONS4cH7zbz6b5jUVNs6jJyg9rubORVZBw.css" media="screen">
-<link type="text/css" rel="stylesheet" href="https://pcgamesn.com/sites/default/files/css/css_fEuBJTkJ_fuO14Dio9m0Ks36Laqv8jUWfzlwlbdxfvI.css" media="all">
-<style type="text/css" media="all">
-<!--/*--><![CDATA[/*><!--*/
-.inm260618{padding:20px 0px;border-bottom:1px dotted #b2b2b2;width:610px;}.inm260618 div:first-child{margin-right:5px;}.inm260618 .widget{padding:0px;margin:0px;}.inm260618 .article_mpu1,.article_mpu2{float:none;display:inline-block;width:300px;vertical-align:top;}.inm260618 .article_mpu1{margin-right:5px;}.page-node .inm260618{padding:0px 0px 20px 0px;border-bottom:none;}@media (max-width:600px){.inm260618{width:300px;.article_mpu1{margin-bottom:20px;}}}
-#bsk260618{position:fixed;top:60px;left:50%;margin-left:-715px;z-index:0;width:1430px;height:970px;}body.hasCarousel #bsk260618{top:330px;}
-
-/*]]>*/-->
-</style>
-<link type="text/css" rel="stylesheet" href="https://pcgamesn.com/sites/default/files/css/css_lvHShG76JuSBtlKE4yLO7X0DxIhWlN2OpMcrmdenQLE.css" media="all">
-<link type="text/css" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" media="all">
-<link type="text/css" rel="stylesheet" href="https://pcgamesn.com/sites/default/files/css/css_cUj3f0SvQNwLdo2CgJx1FnNSA_qcX19O2YvM7uosn5k.css" media="screen">
-   
-  <!--
-<script src="https://apis.google.com/js/plusone.js"></script>
-<script src="https://apis.google.com/js/client:plusone.js"></script>
--->
-
-  <title>Privacy policy | PCGamesN</title>
- <script>/*(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  
-})();
-window._fbq = window._fbq || [];
-*/</script>
-<!--[if lt IE 9]>
-<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
-<script async="" src="https://apis.google.com/js/client.js?onload=init"></script>
-<!-- TradeDoubler site verification 2277944 -->
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  	ga('create', 'UA-31105670-2', 'auto');
-  	ga('send', 'pageview');
-  	setTimeout(ga('send', 'event', '15_seconds', 'read'));
+<!DOCTYPE html><html lang="en-GB" class=" async-hide"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.pcgamesn.com/wp-content/themes/pcgamesn-8/dist/styles/main-821f33ea35.css" type="text/css"><link rel="apple-touch-icon" href="https://www.pcgamesn.com/wp-content/themes/pcgamesn-8/favicon/apple-touch-icon.png">
+<link rel="shortcut icon" href="https://www.pcgamesn.com/wp-content/themes/pcgamesn-8/favicon/favicon.ico">  <link rel="alternate" type="application/rss+xml" title="PCGamesN - PC games news and reviews" href="/feed">  <style>.async-hide { opacity: 0 !important} </style> 
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KJV9C7D"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+(function(a,s,y,n,c,h,i,d,e){
+  s.className+=' '+y;h.start=1*new Date; 
+  h.end=i=function(){
+    s.className=s.className.replace(RegExp(' ?'+y),'')
+  };
+  (a[n]=a[n]||[]).hide=h;
+  setTimeout(function(){
+    i();h.end=null
+  },c);
+  h.timeout=c; 
+})(window,document.documentElement,'async-hide','dataLayer',4000, {'GTM-WQ6TJNQ':true});
 </script>
 <script>
-/**
-* Function that tracks a click on an outbound link in Analytics.
-* This function takes a valid URL string as an argument, and uses that URL string
-* as the event label. Setting the transport method to 'beacon' lets the hit be sent
-* using 'navigator.sendBeacon' in browser that support it.
-*/
-var trackOutboundLink = function(url, linkType) {
-   ga('send', 'event', 'outbound', 'click-' + linkType, url, {
-     'transport': 'beacon',
-     'hitCallback': function(){}
-   });
-   return false;
-}
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-31105670-2', 'auto');
+ga('require', 'GTM-WQ6TJNQ');
+ga('send', 'pageview');
+setTimeout(ga('send', 'event', '15_seconds', 'read'), 15000);
 </script>
+    <!-- NetworkN CMP Tool -->
+<style>.button_button--lgX0P{border-radius:0!important}.app_gdpr--2k2uB{--cmpBgColor:#ededed;--cmpTextColor:#333333;--cmpBrandColor:#f65002;--cmpHoverColor:#912f01}</style>
+<script>
+window.cmpConfig = {
+  globalVendorListLocation: 'https://cmp.network-n.com/vendorlist.json',
+  customLogo: '/cmp.svg',
+  customLogoLink: '/'
+};
+!function(t,n){if(!t.__cmp){t.__cmp=function(){(t.attachEvent||t.addEventListener)("message",function(e){t.__cmp.receiveMessage(e)},!1),function e(){
+if(!t.frames.__cmpLocator)if(n.body){var a=n.createElement("iframe");a.style.display="none",a.name="__cmpLocator",n.body.appendChild(a)}else setTimeout(e,5)}();
+var c=[],e=function(e,a,n){"ping"===e?n&&n({gdprAppliesGlobally:!!(t.__cmp&&t.__cmp.config&&t.__cmp.config.storeConsentGlobally),cmpLoaded:!1}):c.push({command:e,parameter:a,callback:n})};
+return e.commandQueue=c,e.receiveMessage=function(e){var a=e&&e.data&&e.data.__cmpCall;a&&c.push({callId:a.callId,command:a.command,parameter:a.parameter,event:e})},
+e.config=t.cmpConfig||{globalVendorListLocation:"https://cmp.network-n.com/vendorlist.json"},e}();var e=n.createElement("script");e.async=!0,
+e.src="https://cmp.network-n.com/js/cmp.cf.complete.bundle.js",n.getElementsByTagName("head")[0].appendChild(e)}}(window,document);
+</script><script async="" src="https://cmp.network-n.com/js/cmp.cf.complete.bundle.js"></script>
+  <!-- Begin ComScore Tag -->
+<script>
+!function(o,n){if(o._localCS={consent:null,loaded:!1,tx:null},o._comscore=o._comscore||[],o.__cmp){
+o.__cmp("getVendorConsents",[77],function(o,c){function e(o){return"object"==typeof o}c&&(_localCS.consent=e(o)
+&&e(o.vendorConsents)&&o.vendorConsents[77],_localCS.consent=_localCS.consent?"1":"0",t())}),function c(){
+o.__cmp("ping",null,function(o){if(!1===o.cmpLoaded){if(null===_localCS.tx)return void(_localCS.tx=setTimeout(c,3e3));
+t()}o.cmpLoaded&&(clearTimeout(_localCS.tx),t())})}()}function t(){var o,c,e;_localCS.loaded||
+(_comscore.push({c1:"2",c2:"25110922",cs_ucfr:_localCS.consent}),c=(o=n).createElement("script"),
+e=o.getElementsByTagName("script")[0],c.async=!0,c.src=("https:"==o.location.protocol?"https://sb":"http://b")
++".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e),_localCS.loaded=!0)}o.__cmp||t()}(window,document);
+</script>
+<!-- End ComScore Tag -->  <title>Privacy Policy | PCGamesN</title>
+    <meta name="description" content="">
+    <meta name="twitter:site" content="@pcgamesn">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="fb:app_id" content="176901196528333">
+    <meta property="og:site_name" content="PCGamesN">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="">
+    <meta property="og:title" content="Privacy Policy">
+    <meta property="og:url" content="https://www.pcgamesn.com/privacy-policy">
 
+    <link rel="canonical" href="https://www.pcgamesn.com/privacy-policy">
+    <link rel="dns-prefetch" href="//www.pcgamesn.com">
+	<script>var site = {"ajax_url":"https:\/\/www.pcgamesn.com\/wp-admin\/admin-ajax.php"};</script>
+			<meta property="fb:pages" content="252674101507273">
+			<script>collapseEmptyDivs=false;</script><script src="https://www.pcgamesn.com/wp-content/plugins/new-advertising/pcgamesn.min.js?ashasd8as7dahq" defer=""></script>
+<script type="application/ld+json">[{"@context":"https:\/\/schema.org\/","@type":"WPHeader","author":"Joel Gregory","dateCreated":"2018-07-24T15:48:29+00:00","datePublished":"2018-07-24T15:48:29+00:00","dateModified":"2019-10-08T10:55:53+00:00","thumbnailUrl":false,"image":false},{"@context":"https:\/\/schema.org\/","@type":"WPFooter","url":"https:\/\/www.pcgamesn.com\/privacy-policy","headline":"Privacy Policy","description":"1. Introduction 1.1 We are committed to safeguarding the privacy of our website visitors and service users. 1.2 This policy applies where we are acting as a...","copyrightYear":"2018"}]</script>
 
-<!-- Google Tag Manager -->
+<!-- BEGIN wp-parsely Plugin Version 1.13.0 -->
+<meta name="wp-parsely_version" id="wp-parsely_version" content="1.13.0">
+	<script type="application/ld+json">
+	{"@context":"https:\/\/schema.org","@type":"WebPage","headline":"Privacy Policy","url":"https:\/\/www.pcgamesn.com\/privacy-policy","dateModified":"2019-10-08T10:55:53+00:00","image":{"url":false}}
+	</script>
+
+	<!-- END wp-parsely Plugin Version 1.13.0 -->
+<link rel="preconnect" href="https://use.typekit.net"><style>@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/71f83c/00000000000000003b9b093b/27/a?fvd=n7&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("opentype");font-style:normal;font-weight:700;font-display:fallback}@font-face{font-family:proxima-nova;src:url(https://use.typekit.net/af/437c3d/00000000000000003b9b0932/27/a?fvd=n3&primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&v=3) format("opentype");font-style:normal;font-weight:300;font-display:fallback}body{font-family:proxima-nova;color:#333}a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:"";content:none}table{border-collapse:collapse;border-spacing:0}.feature-header{text-align:center;position:relative}.feature-header .featured-video-image{display:none}.entry-meta{height:50px}#site_wrap .entry-content .entry-meta p{margin-bottom:0}.entry-meta-avatar{display:inline-block;margin-right:5px}.entry-meta-details{display:inline-block;text-align:left;font-size:14px;line-height:17px;margin-top:8px;vertical-align:top}.entry-meta-details span,.link-author{color:#f65002}.link-author{font-weight:700;border:0}a{text-decoration:none}h1.entry-title{margin-top:14px;position:relative;z-index:3;font-weight:300}.entry-content{font-size:18px;line-height:30px}.intro_text{font-weight:700}.single .entry-content p{word-break:break-word;margin-bottom:35px}.article-header{text-align:center}.banner{height:60px;width:100%;background:#f65002;position:fixed;top:0;z-index:10}.banner .nav a{color:#fff}.banner .brand{display:block;height:30px;width:170px;background:url(/wp-content/themes/pcgamesn-8/assets/images/pcgamesn.svg) 0 0 no-repeat;text-indent:-8000px}header .nav-secondary{float:right;position:relative;z-index:5}a.header-search{text-indent:-999px;overflow:hidden;display:inline-block;margin-top:15px;background:url(/wp-content/themes/pcgamesn-8/assets/images/search_white.svg) 50% no-repeat;background-size:24px 24px;height:30px;width:30px}.nav-secondary{height:60px;line-height:60px}header .nav-primary ul,header .nav-secondary ul{list-style:none}header .nav-primary .sub-menu li.menu-item:last-child a{border-bottom:none}.banner .container{position:relative}#header-searchbox,.sub-menu{display:none}#home_features{position:relative}#home_features,.post_full{margin-bottom:35px}#panel_welcome h1{text-align:center;font-weight:300}.feature_posts{overflow:hidden}.post_med{position:relative;margin-bottom:35px}.feature_wrap:after{display:block;clear:both;content:""}.readmore_bar{height:30px;padding:0 7px;background:#eee;line-height:30px;position:relative}.readmore_bar .readmore_letterbox{overflow:hidden;position:absolute;left:120px;height:30px}.readmore_bar .readmore{display:inline-block;line-height:12px;text-transform:uppercase;font-weight:700;border-right:4px solid #f65002;padding-right:12px;margin-right:8px}@media (max-width:900px){.banner .brand{margin:18px auto 12px}#menu_toggle{display:block;position:relative;top:0;left:0;z-index:1;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.network-logo{display:none}header .nav-primary{position:absolute;top:0;left:0;width:100%}#menu_toggle input{display:block;position:absolute;top:0;left:5px;width:40px;height:32px;cursor:pointer;opacity:0;z-index:2;-webkit-touch-callout:none}.hamburger{display:inline-block;width:26px;height:3px;margin-bottom:5px;position:absolute;top:10px;left:10px;background:#fff;border-radius:1px;z-index:1;transition:transform .2s cubic-bezier(.77,.2,.05,1);transform-origin:50% 0;box-shadow:0 10px 0 0 #fff,0 -10px 0 0 #fff}.header-dropdown{display:none;width:100%}header .nav-secondary{position:absolute;top:-18px;right:10px;margin:0}#site_wrap{padding:20px 0;margin:60px auto 0;background:#fff}header #menu-primary_navigation{transform-origin:0 0;transform:translate(-100%)}h1.entry-title{font-size:28px;line-height:32px;padding:0 20px;color:#333;margin-bottom:20px}.single .feature-header .caption{margin:15px 20px 20px;font-size:18px;line-height:24px;color:#666;font-weight:400}.single .feature-header .article-featured-image{position:relative}.post_full,.single .feature-header .article-featured-image img{width:100%;height:auto}.post_full{background:transparent;text-align:left;color:#333;display:block;padding-top:56%}.post_full .post_full_img_wrap{position:absolute;top:0;padding-bottom:56.25%;width:100%;height:auto;line-height:0}.post_full .post_full_img_wrap img{top:0;left:0;position:absolute;width:100%;height:auto;z-index:1}.post_full .entry-meta{float:none;width:auto;padding:0 15px;height:auto;min-height:50px}.post_full .entry-meta .entry-meta-details{width:calc(100% - 60px)}.post_full .entry-meta a{color:#f65002}.post_full .entry-meta time{display:inline-block}.post_full .entry-meta .post-categories{display:inline;line-height:22px}.post_full .entry-meta .post-categories a{color:#333}.post_full .strap{display:none}.post_full a{color:#333}.post_full .byline:before{content:none}.post_full h2{font-size:22px;line-height:28px;font-weight:700;margin:20px 20px 15px;padding:0;float:none;width:auto;height:auto}.posts_wrap{width:100%;display:block;-ms-flex-wrap:nowrap;flex-wrap:nowrap;float:none}.post_sml{width:100%;height:auto;background:transparent;text-align:left;color:#333;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;-ms-grid-rows:auto auto;grid-template-rows:auto auto;overflow:visible}.post_sml .post_sml_img_wrap{-ms-grid-row:1;grid-row-start:1;width:100%;height:0;padding-bottom:56.25%;position:relative;display:block;-ms-flex-order:1;order:1}.post_sml .post_sml_img_wrap img{display:block;position:absolute;top:0;z-index:1;width:100%;height:100%;-o-object-fit:fill;object-fit:fill}.post_sml .post_sml_img_wrap:after{display:none}.post_sml h2{-ms-grid-row:2;grid-row-start:2;font-size:22px;line-height:28px;font-weight:700;margin:20px;padding:0;float:none;width:auto;height:auto;text-align:left;bottom:0;position:relative;-ms-flex-order:2;order:2;max-height:none}.post_sml h2 a{color:#333}.post_sml .entry-meta{display:block;float:none;width:auto;margin:0 0 20px 15px;min-height:50px;height:auto;-ms-flex-order:3;order:3}.post_sml .entry-meta .entry-meta-details{width:calc(100% - 60px)}.post_sml .entry-meta .entry-meta-avatar{display:inline-block}.post_sml .entry-meta .author{display:block}.post_sml .entry-meta .post-categories{display:inline;line-height:22px}.post_sml_3,.post_sml_4{top:0}#thought_otd{display:none}.single .entry-content{width:100%;padding-top:0;box-sizing:border-box;position:relative;margin:30px 0 0;padding:0 20px}.single .entry-content p{word-break:break-word;margin-bottom:35px}.single .inlinerail{float:none;margin:20px auto}.single .content_expander{margin:0;width:100%}#panel_welcome h1{font-size:28px;line-height:32px;margin-bottom:22px}.feature_posts,.post_med{width:100%;height:auto;float:none}.post_med{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column}.feature_details{position:relative;text-align:left;bottom:0;width:100%;margin:0;padding:0;-ms-flex-order:2;order:2}.post_med_img_wrap{width:100%;-ms-flex-order:1;order:1}.post_med_img_wrap img{width:100%;height:auto}.feature_details h2{font-size:22px;font-weight:700;line-height:28px;margin:10px 20px 15px}.feature_details h2 a{color:#333}.feature_details .entry-meta{position:relative;padding:0 15px;height:auto;min-height:50px}.feature_posts .post-categories,.post_med .post-categories{display:inline;line-height:22px;font-size:14px;color:#333;font-weight:400}}@media (min-width:901px){.banner .container{width:970px;margin:0 auto}.banner .brand{float:left;margin:18px 40px 10px 0}#menu_toggle input{display:none}.nav-secondary{float:right}header .nav-primary ul li.menu-item,header .nav-secondary ul li.menu-item{display:block;float:left;padding-right:15px}header .nav-primary ul li.menu-item a,header .nav-secondary ul li.menu-item a{display:block;line-height:57px;text-decoration:none;font-weight:600;font-size:14px;text-transform:uppercase;color:#fff;height:57px;border-bottom:3px solid #f65002;padding-right:12px}.network-logo{width:35px;height:35px;display:inline-block;background:url(/wp-content/themes/pcgamesn-8/assets/images/NetworkN.svg) 19px 0 no-repeat;background-size:35px 35px;text-indent:-2000px;padding-left:19px;margin-left:10px;vertical-align:top;margin-top:12px;overflow:hidden;position:relative}.network-logo:after{content:"";display:block;height:35px;width:1px;background-image:linear-gradient(0deg,#fff 50%,transparent 0);position:absolute;top:0;left:0;background-position:0 2px;background-repeat:repeat-y;background-size:1px 4px}header .nav-primary{float:left;position:relative;z-index:2;width:760px}#site_wrap{width:100%;margin:60px auto 0;padding:35px;position:relative;background:#fff;z-index:2;max-width:900px}.post_full{background:#f65002;color:#fff;text-align:center;margin-bottom:35px;height:340px}.post_full a{color:#fff;height:226px}.post_full h2{float:right;width:250px;padding:18px 25px;font-size:36px;line-height:40px;font-weight:300;height:226px;overflow:hidden;margin-bottom:8px}.post_full .strap{clear:right;float:right;width:260px;padding:0 20px;font-size:18px;line-height:30px;font-weight:600;height:94px;overflow:hidden}.post_full .entry-meta{clear:right;float:right;width:250px;padding:0 25px}.post_full time{display:none}.post_full_img_wrap{position:absolute;top:0;left:0;overflow:hidden;line-height:0;display:inline-block}.post_full_img_wrap,.post_full_img_wrap img{width:600px;height:340px}.post_full .link-author:before{content:"by";display:block;font-weight:300}.post_full .post-categories,.post_sml .post-categories{display:none}.posts_wrap{width:600px;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;float:left}.post_sml{width:265px;height:250px;margin:0 35px 35px 0;overflow:hidden;position:relative}.post_sml .entry-meta{display:none}.post_sml h2{position:absolute;z-index:1;bottom:20px;text-align:center;font-size:20px;line-height:24px;font-weight:300;padding:0 15px;width:235px;max-height:72px}.post_sml h2 a{color:#fff}.post_sml .post_sml_img_wrap{width:265px;height:250px;overflow:hidden;display:block}.post_sml .post_sml_img_wrap:after{display:block;position:relative;background-image:linear-gradient(180deg,transparent 0,#000);margin-top:-150px;height:192px;width:100%;content:""}.post_sml .post_sml_img_wrap img{-o-object-fit:none;object-fit:none;-o-object-position:center;object-position:center;width:265px;height:250px}.entry-title{font-size:48px;line-height:58px;margin-bottom:20px}.article-featured-image,.feature-header{text-align:center}.feature-header{margin:0;padding:0;position:relative;height:505px;margin-bottom:25px;overflow:hidden;width:900px}.feature-header .article-featured-image{position:absolute;top:0;left:0;z-index:1;width:100%}.feature-header .article-featured-image img{width:100%;height:auto}.feature-header .fader{height:364px;width:900px;opacity:.58;background:linear-gradient(180deg,transparent,#000);position:absolute;bottom:0;left:0;z-index:2}.feature-header #article-details{position:absolute;bottom:0;padding-bottom:32px;width:100%;transition:bottom 1s}.feature-header #article-details.hidden{bottom:-100%}.feature-header .entry-meta{z-index:3;position:relative;margin-bottom:20px}.feature-header .entry-meta .entry-meta-details{color:#fff}.feature-header .entry-title{position:relative;z-index:3;color:#fff;padding:0 70px;margin-top:16px;margin-bottom:2px;font-weight:300;font-size:48px;line-height:58px}.feature-header .caption{margin:0 160px;color:#fff;position:relative;z-index:3;font-size:18px;line-height:30px;font-weight:600}.entry-content{width:580px;margin:30px 160px}#panel_welcome h1{font-size:48px;line-height:58px;margin-bottom:35px}.feature_posts{width:565px;display:block;float:left}.post_med{position:relative;margin-bottom:35px;width:565px}.feature_details{position:absolute;bottom:30px;text-align:center;margin:0 85px;padding-top:50px;z-index:10}.feature_details h2 a{color:#fff;display:block;font-weight:300;margin:10px 20px 15px}.feature_details .entry-meta{position:absolute;top:0;width:100%}.feature_details .post-categories{display:none}.feature_aside{display:block;float:right;width:300px}}</style><link rel="amphtml" href="https://www.pcgamesn.com/privacy-policy?amp">  <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-KJV9C7D');</script>
-<!-- End Google Tag Manager -->
-<script src="//cdn.teads.tv/media/format/v3/teads-format.min.js" async=""></script></head>
-<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-167417 node-type-page">
+<!-- End Google Tag Manager --></head>
+<body class="page-template-default single single-page postid-88724 wp-featherlight-captions privacy-policy">
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KJV9C7D"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) --><header class="banner">
+  <noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=25110922&cv=2.0&cj=1" /></noscript>  <div class="container" data-nosnippet="">
+    <div><a class="brand" href="https://www.pcgamesn.com/">PC Games news and reviews from PCGamesN.com</a></div>                        <a href="#site_wrap" id="skipToContent" class="sr-only">Skip to Content</a>
+                <nav class="nav-primary">
+      <div id="menu_toggle"><input type="checkbox"><span class="hamburger"></span><div class="menu-primary_navigation-container"><ul id="menu-primary_navigation" class="nav"><li class="menu-header-post menu-item"><a title="PC Games News | PCGamesN" href="/news">News</a></li>
+<li class="menu-header-feature menu-item"><a title="PC Games Features | PCGamesN" href="/features">Features</a></li>
+<li class="menu-header-review menu-item"><a title="PC Games Reviews | PCGamesN" href="/reviews">Reviews</a></li>
+<li class="menu-header-hardware menu-item"><a title="PC Games Hardware | PCGamesN" href="/hardware">Hardware</a></li>
+<li class="menu-header-guide menu-item"><a title="PC Games Guides | PCGamesN" href="/guides">Guides</a></li>
+<li class="menu-header-community menu-item menu-item-has-children main-dropdown"><a>Community</a>
+<ul class="sub-menu">
+	<li class="community__facebook menu-item"><a target="_blank" href="https://www.facebook.com/PCGamesNetwork/">Facebook</a></li>
+	<li class="community__instagram menu-item"><a target="_blank" href="https://www.instagram.com/pcgamesn/">Instagram</a></li>
+	<li class="community__steam menu-item"><a target="_blank" href="https://store.steampowered.com/curator/3693985-PCGamesN/">Steam</a></li>
+	<li class="community__twitch menu-item"><a target="_blank" href="https://www.twitch.tv/PCGamesN">Twitch</a></li>
+	<li class="community__twitter menu-item"><a target="_blank" href="https://twitter.com/pcgamesn">Twitter</a></li>
+	<li class="community__youtube menu-item"><a target="_blank" href="https://www.youtube.com/pcgamesn?sub_confirmation=1">YouTube</a></li>
+	<li class="community__newsletter menu-item"><a target="_blank" href="https://com.us8.list-manage.com/subscribe?u=b09c45c59147708b1dc1679db&amp;id=577acfd741">Newsletter</a></li>
+</ul>
+</li>
+<li class="menu-header-more menu-item menu-item-has-children main-dropdown"><a title="More | PCGamesN" href="#">More</a>
+<ul class="sub-menu">
+	<li class="menu-item"><a title="Privacy Policy" href="https://www.pcgamesn.com/privacy-policy">Privacy Policy</a></li>
+	<li class="menu-item"><a title="Terms and Conditions" href="https://www.pcgamesn.com/terms-and-conditions">Terms and Conditions</a></li>
+	<li class="menu-item"><a title="Careers" href="https://www.pcgamesn.com/careers">Careers</a></li>
+	<li class="menu-item"><a title="About Us" href="https://www.pcgamesn.com/about-us">About Us</a></li>
+	<li class="cmp_link menu-item"><a title="Cookie Policy" href="/privacy-policy">Cookie Policy</a></li>
+</ul>
+</li>
+</ul></div></div>          <div class="nav-secondary">
+            <a href="https://www.pcgamesn.com/search" class="header-search"></a>
+            <a href="https://www.network-n.com" target="_blank" rel="noopener" class="network-logo">Network-N</a>
+          </div>
+              <div id="header-searchbox">
+        <form method="get" action="https://www.pcgamesn.com/" id="header-search-form"><input id="header-search-input" name="s"></form>
+      </div>
+      <div id="header-search-suggestions"></div>
+    </nav>
+  </div>
+</header><div class="nn_bb ad" id="nn_bb1"></div><div id="site_wrap" role="document">
+<a href="#skipToContent" id="backToTop" class="sr-only">Back to Top</a>  <article class="post-88724 page type-page status-publish hentry">
+        <header>
+      <h1 class="entry-title">Privacy Policy</h1>
+    </header>
+    
+    <div class="entry-content">
+      <p dir="ltr"><strong>1. Introduction</strong></p>
+<p dir="ltr">1.1 We are committed to safeguarding the privacy of our website visitors and service users.</p>
+<p dir="ltr">1.2 This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.</p>
+<p dir="ltr">1.3 We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.</p>
+<p dir="ltr">1.4 We use third party advertisements to support our site. Some of these advertisers may be served from our third party advertiser. You can view their <a href="https://www.network-n.com/network-privacy-policy/" rel="noopener">privacy policy</a> and <a href="https://www.network-n.com/network-cookie-policy/" rel="noopener">cookie policy</a> here. <span style="font-weight: 400;">You can manage your cookies <a href="#" onclick="return cookie_popup()" rel="noopener">here</a>.<br><script>function cookie_popup() 
+{
+ __cmp('showConsentModal');
+return false;
+}
+</script></span></p>
+<p dir="ltr">1.5 In this policy, ‘we’, ‘us’ and ‘our’ refer to Network N Limited. For more information about us, see Section 13.</p>
+<p dir="ltr"><strong>2. Credit</strong></p>
+<p dir="ltr">2.1 This document was created using a template from Docular (https://docular.net).</p>
+<p dir="ltr"><strong>3. How we use your personal data</strong></p>
+<p dir="ltr">3.1 In this Section 3 we have set out:</p>
+<p dir="ltr">(a) the general categories of personal data that we may process;</p>
+<p dir="ltr">(b) in the case of personal data that we did not obtain directly from you, the source and specific categories of that data;</p>
+<p dir="ltr">(c) the purposes for which we may process personal data; and</p>
+<p dir="ltr">(d) the legal bases of the processing.</p>
+<p dir="ltr">3.2 We may process data about your use of our website and services (‘<strong>usage data</strong>‘). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is consentorour legitimate interests, namely monitoring and improving our website and services.</p>
+<p dir="ltr">3.3 We may process your account data (‘<strong>account data</strong>‘). The account data may include your name and email address. The source of the account data is either directly from you or via your Disqus Account, but only with your explicit permission. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</p>
+<p dir="ltr">3.4 We may process your information included in your personal profile on our website (‘<strong>profile data</strong>‘). The profile data may include your name, email address, profile pictures, date of birth, interests and hobbies. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</p>
+<p dir="ltr">3.5 We may process your personal data that is provided in the course of the use of our services (‘<strong>service data</strong>‘). The service data may include the timing, frequency and pattern of service use. The source of the service data is you. The service data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</p>
+<p dir="ltr">3.6 We may process information that you post for publication on our website or through our services (‘<strong>publication data</strong>‘). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</p>
+<p dir="ltr">3.7 We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters (‘<strong>notification data</strong>‘). The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.</p>
+<p dir="ltr">3.8 We may process information contained in or relating to any communication that you send to us (‘<strong>correspondence data</strong>‘). The correspondence data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.</p>
+<p dir="ltr">3.9 In addition to the specific purposes for which we may process your personal data set out in this Section 3, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.</p>
+<p dir="ltr">3.10 Please do not supply any other person’s personal data to us, unless we prompt you to do so.</p>
+<p dir="ltr"><strong>4. Providing your personal data to others</strong></p>
+<p dir="ltr">4.1 We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.</p>
+<p dir="ltr">4.2 We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.</p>
+<p dir="ltr">4.3 We may disclose email addresses to MailChimp insofar as reasonably necessary for sending you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter).</p>
+<p dir="ltr">4.4 We may disclose your enquiry data to one or more of those selected third party suppliers of goods and services identified on our website for the purpose of enabling them to contact you so that they can offer, market and sell to you relevant goods and/or services. Each such third party will act as a data controller or data processor in relation to the enquiry data that we supply to it; and upon contacting you, each such third party will supply to you a copy of its own privacy policy, which will govern that third party’s use of your personal data.</p>
+<p dir="ltr">4.5 In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.</p>
+<p dir="ltr"><strong>5. International transfers of your personal data</strong></p>
+<p dir="ltr">5.1 In this Section 5, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).</p>
+<p dir="ltr">5.2 The hosting facilities for our website are situated in US, Europe and UK. The European Commission has made an ‘adequacy decision’ with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely EU-U.S. Privacy Shield Framework.</p>
+<p dir="ltr">5.3 Mailing databases are situated in US and Australia. The European Commission has made an ‘adequacy decision’ with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely &nbsp;EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.</p>
+<p dir="ltr">5.4 You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.</p>
+<p dir="ltr"><strong>6. Retaining and deleting personal data</strong></p>
+<p dir="ltr">6.1 This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.</p>
+<p dir="ltr">6.2 Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.</p>
+<p dir="ltr">6.3 We will retain and delete your personal data as follows:</p>
+<p dir="ltr">(a) Profile data containing personal data will be retained for two years following your last login, if you have not logged in for over two years, you will be notified of this. If we have not received notification within 30 days of your intent to use your account we will delete your profile data and notify you of this deletion.</p>
+<p dir="ltr">(b) Cookie data will be retained for no longer than 30 days.</p>
+<p dir="ltr">6.4 Notwithstanding the other provisions of this Section 6, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.</p>
+<p dir="ltr"><strong>7. Amendments</strong></p>
+<p dir="ltr">7.1 We may update this policy from time to time by publishing a new version on our website.</p>
+<p dir="ltr">7.2 You should check this page occasionally to ensure you are happy with any changes to this policy.</p>
+<p dir="ltr">7.3 We may notify you of changes to this policy by email or through the private messaging system on our website.</p>
+<p dir="ltr"><strong>8. Your rights</strong></p>
+<p dir="ltr">8.1 In this Section 8, we have summarised the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.</p>
+<p dir="ltr">8.2 Your principal rights under data protection law are:</p>
+<p dir="ltr">(a) the right to access</p>
+<p class="intro_text">(b) the right to rectification</p>
+<p>(c) the right to erasure</p>
+<p>(d) the right to restrict processing</p>
+<p>(e) the right to object to processing</p>
+<p>(f) the right to data portability</p>
+<p>(g) the right to complain to a supervisory authority</p>
+<p>(h) the right to withdraw consent.</p>
+<p dir="ltr">8.3 You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. Provision of such information will be subject to:</p>
+<p dir="ltr">(a) the first copy will be provided free of charge, but additional copies will be subjected to a GBP 10 administration fee; and</p>
+<p dir="ltr">(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).</p>
+<p dir="ltr">8.4 You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.</p>
+<p dir="ltr">8.5 In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.</p>
+<p dir="ltr">8.6 In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.</p>
+<p dir="ltr">8.7 You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.</p>
+<p dir="ltr">8.8 You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.</p>
+<p dir="ltr">8.9 If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.</p>
+<p dir="ltr">8.10 To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.</p>
+<p dir="ltr">8.11 You may exercise any of your rights in relation to your personal data by contacting us using the details outlined in section 13.</p>
+<p dir="ltr"><strong>9. About cookies</strong></p>
+<p dir="ltr">9.1 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.</p>
+<p dir="ltr">9.2 Cookies may be either ‘persistent’ cookies or ‘session’ cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.</p>
+<p dir="ltr">9.3 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.</p>
+<p dir="ltr"><strong>10. Cookies that we use</strong></p>
+<p dir="ltr">10.1 We use cookies for the following purposes:</p>
+<p dir="ltr">(a) authentication – we use cookies to identify you when you visit our website and as you navigate our website</p>
+<p dir="ltr">(b) status – we use cookies to help us to determine if you are logged into our website</p>
+<p dir="ltr">(c) security – we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally</p>
+<p dir="ltr">(d) advertising – we use cookies to help us to display advertisements that will be relevant to you (cookies used for this purpose are: Google AdSense, Google AdExchange, Avocet, OpenX, PulsePoint, Sovrn, Teads, Skimlinks, Monetizer 101)</p>
+<p dir="ltr">(e) analysis – we use cookies to help us to analyse the use and performance of our website and services (cookies used for this purpose are: Google Analytics, ComScore, Google Tag Manager, Crazy Egg, Facebook Audience, Google Analytics Audience)</p>
+<p dir="ltr">(f) cookie consent – we use cookies to store your preferences in relation to the use of cookies more generally.</p>
+<p dir="ltr"><strong>11. Cookies used by our service providers</strong></p>
+<p dir="ltr">11.1 Our service providers use cookies and those cookies may be stored on your computer when you visit our website.</p>
+<p dir="ltr">11.2 We use Google Analytics and Comscore to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google’s privacy policy is available at: https://policies.google.com/privacy. Comscore’s privacy policy is available at https://www.comscore.com/About-comScore/Privacy-Policy.</p>
+<p dir="ltr">11.3 We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative’s multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: https://support.google.com/ads/answer/7395996.</p>
+<p dir="ltr">11.4 We use Avocet, OpenX, PulsePoint, Sovrn and Google Audiences to carry out retargeting and Header Bidding. These service uses cookies for retargeting ads and targeting ads based on your interests. You can view the privacy policy of these service providers at&nbsp;http://avocet.io/privacy-policy,&nbsp;https://www.openx.com/legal/privacy-policy/,&nbsp;https://www.pulsepoint.com/privacy-policy.html,&nbsp;https://www.sovrn.com/privacy-policy/&nbsp;and&nbsp;https://www.google.com/policies/privacy/</p>
+<p dir="ltr"><strong>12. Managing cookies</strong></p>
+<p dir="ltr">12.1 Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:</p>
+<p dir="ltr">(a) https://support.google.com/chrome/answer/95647?hl=en (Chrome)</p>
+<p>(b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox)</p>
+<p>(c) http://www.opera.com/help/tutorials/security/cookies/ (Opera)</p>
+<p>(d) https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer)</p>
+<p>(e) https://support.apple.com/kb/PH21411 (Safari)</p>
+<p>(f) https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).</p>
+<p dir="ltr">12.2 Blocking all cookies will have a negative impact upon the usability of many websites.</p>
+<p dir="ltr">12.3 If you block cookies, you will not be able to use all the features on our website.</p>
+<p dir="ltr"><strong>13 .Our details</strong></p>
+<p dir="ltr">13.1 This website is owned and operated by Network N Limited.</p>
+<p dir="ltr">13.2 We are registered in England and Wales under registration number 08063183, and our registered office is at Circus Mews House, Circus Mews, Bath, England, BA1 2PW.</p>
+<p dir="ltr">13.3 Our principal place of business is at Circus Mews House, Circus Mews, Bath, England, BA1 2PW.</p>
+<p dir="ltr">13.4 You can contact us:</p>
+<p dir="ltr">(a) by post, using the postal address given above;</p>
+<p dir="ltr">(b) by email, using this email address&nbsp;<a href="mailto:data@network-n.com" rel="noopener">data@network-n.com</a></p>
+    </div>
+  </article>
+</div><!-- /.wrap -->
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-brand">
+      <span class="footer-copyright">© 2019</span>
+      <span class="brand-networkn">Powered by Network-N</span>
+    </div>
+    <ul class="footer-links">
+      <li><a href="https://www.pcgamesn.com/terms-and-conditions">Terms and conditions</a>
+      </li><li><a href="https://www.pcgamesn.com/about-us">About us</a>
+      </li><li><a href="https://www.pcgamesn.com/careers">Careers</a>
+    </li></ul>
+  </div>
+</footer>
+<div class="nn_skin ad" id="nn_skin"></div><iframe name="__cmpLocator" style="display: none;"></iframe><script>window.disableFlowAds = true;</script><script>window.disableContentAds = true;</script><div class="js-ifs-nextpage articles_container">
+<div class="loading"><div class="loading-text"></div>
+<svg class="spinner" viewBox="0 0 50 50"><circle class="path" cx="25" cy="25" r="20" fill="none" stroke-width="5"></circle></svg>
+</div>
+</div>
 
-  
-    <div id="skip-link">
-    <a href="#content" class="element-invisible element-focusable">Skip to main content</a>
-</div>
-<header id="site-header">
-    <!-- Start Block -->
-<div id="header-wrapper"><h2 id="header-logo"><a href="/">PC Games news and reviews from PCGamesN.com</a></h2><div id="header-sections"><ul><li><a href="https://www.pcgamesn.com/reviews/popular" title="PC games reviews" class="first leaf">Reviews</a></li><li><a href="https://www.pcgamesn.com/hardware" title="Hardware" class="leaf">Hardware</a></li><li><a href="https://www.pcgamesn.com/about" title="About" class="last leaf">About</a></li></ul></div><div id="header-search-form"><form class="search-form" action="/search/node" method="post" id="search-form" accept-charset="UTF-8"><div><div class="container-inline form-wrapper" id="edit-basic"><div class="form-item form-type-textfield form-item-keys">
- <input type="text" id="edit-keys" name="keys" value="Search PCGamesN" size="40" maxlength="255" class="form-text">
-</div>
-<input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-jyB6wxMDUIlmlIXq9u_JwFaWgWJpVBmmhSd0YHUQdp8">
-<input type="hidden" name="form_id" value="search_form">
-</div></form></div><div id="header-aside"><div id="header-search" class="header-aside-section"></div><div id="header-share" class="header-aside-section"><a href="https://www.facebook.com/PCGamesNetwork" target="_blank" class="fa fa-facebook"></a><a href="https://twitter.com/pcgamesn" target="_blank" class="fa fa-twitter"></a><a href="https://www.youtube.com/user/PCGamesN" target="_blank" class="fa fa-youtube"></a><a href="https://steamcommunity.com/groups/pcgamesn" target="_blank" class="fa fa-steam"></a><a href="/mainrss.xml" class="fa fa-rss-square"></a></div><a href="/user/login?destination=privacy-policy" id="header-profile" class="header-aside-section" rel="lightframe[|width: 576px]"></a></div></div></header>
-	
-<div class="section-advert-banner">
-	<div id="resp_unit_dest"></div><div id="pcgamesn_ad_billboard"></div></div>
-<div id="site-wrapper">
-	<header class="article-header">
-				<h1>Privacy policy</h1>
-	</header>
-	<div id="content" class="full-width m-content"><!--smart_paging_filter--><!--smart_paging_autop_filter--><p dir="ltr"><strong>1. Introduction</strong></p><p dir="ltr">1.1 We are committed to safeguarding the privacy of our website visitors and service users.</p><p dir="ltr">1.2 This policy applies where we are acting as a data controller with respect to the personal data of our website visitors and service users; in other words, where we determine the purposes and means of the processing of that personal data.</p><p dir="ltr">1.3 We use cookies on our website. Insofar as those cookies are not strictly necessary for the provision of our website and services, we will ask you to consent to our use of cookies when you first visit our website.</p><p dir="ltr">1.4 In this policy, "we", "us" and "our" refer to Network N Limited. For more information about us, see Section 13.</p><p dir="ltr"><strong>2. Credit</strong></p><p dir="ltr">2.1This document was created using a template from Docular (https://docular.net).</p><p dir="ltr"><strong>3. How we use your personal data</strong></p><p dir="ltr">3.1In this Section 3 we have set out:</p><p dir="ltr">(a)the general categories of personal data that we may process;</p><p dir="ltr">(b)in the case of personal data that we did not obtain directly from you, the source and specific categories of that data;</p><p dir="ltr">(c) the purposes for which we may process personal data; and</p><p dir="ltr">(d) the legal bases of the processing.</p><p dir="ltr">3.2 We may process data about your use of our website and services ("<strong>usage data</strong>"). The usage data may include your IP address, geographical location, browser type and version, operating system, referral source, length of visit, page views and website navigation paths, as well as information about the timing, frequency and pattern of your service use. The source of the usage data is our analytics tracking system. This usage data may be processed for the purposes of analysing the use of the website and services. The legal basis for this processing is consentorour legitimate interests, namely monitoring and improving our website and services.</p><p dir="ltr">3.3 We may process your account data ("<strong>account data</strong>"). The account data may include your name and email address. The source of the account data is either directly from you or via your Disqus Account, but only with your explicit permission. The account data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</p><p dir="ltr">3.4 We may process your information included in your personal profile on our website ("<strong>profile data</strong>"). The profile data may include your name, email address, profile pictures, date of birth, interests and hobbies. The profile data may be processed for the purposes of enabling and monitoring your use of our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</p><p dir="ltr">3.5 We may process your personal data that is provided in the course of the use of our services ("<strong>service data</strong>"). The service data may include the timing, frequency and pattern of service use. The source of the service data is you. The service data may be processed for the purposes of operating our website, providing our services, ensuring the security of our website and services, maintaining back-ups of our databases and communicating with you. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</p><p dir="ltr">3.6 We may process information that you post for publication on our website or through our services ("<strong>publication data</strong>"). The publication data may be processed for the purposes of enabling such publication and administering our website and services. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business.</p><p dir="ltr">3.7 We may process information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters ("<strong>notification data</strong>"). The notification data may be processed for the purposes of sending you the relevant notifications and/or newsletters. The legal basis for this processing is the performance of a contract between you and us and/or taking steps, at your request, to enter into such a contract.</p><p dir="ltr">3.8 We may process information contained in or relating to any communication that you send to us ("<strong>correspondence data</strong>"). The correspondence data may include the communication content and metadata associated with the communication. Our website will generate the metadata associated with communications made using the website contact forms. The correspondence data may be processed for the purposes of communicating with you and record-keeping. The legal basis for this processing is our legitimate interests, namely the proper administration of our website and business and communications with users.</p><p dir="ltr">3.9 In addition to the specific purposes for which we may process your personal data set out in this Section 3, we may also process any of your personal data where such processing is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.</p><p dir="ltr">3.10 Please do not supply any other person's personal data to us, unless we prompt you to do so.</p><p dir="ltr"><strong>4. Providing your personal data to others</strong></p><p dir="ltr">4.1 We may disclose your personal data to any member of our group of companies (this means our subsidiaries, our ultimate holding company and all its subsidiaries) insofar as reasonably necessary for the purposes, and on the legal bases, set out in this policy.</p><p dir="ltr">4.2 We may disclose your personal data to our insurers and/or professional advisers insofar as reasonably necessary for the purposes of obtaining or maintaining insurance coverage, managing risks, obtaining professional advice, or the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.</p><p dir="ltr">4.3 We may disclose email addresses to Mailchimp insofar as reasonably necessary for sending you our email newsletter, if you have requested it (you can inform us at any time if you no longer require the newsletter).</p><p dir="ltr">4.4 We may disclose your enquiry data to one or more of those selected third party suppliers of goods and services identified on our website for the purpose of enabling them to contact you so that they can offer, market and sell to you relevant goods and/or services. Each such third party will act as a data controller or data processor in relation to the enquiry data that we supply to it; and upon contacting you, each such third party will supply to you a copy of its own privacy policy, which will govern that third party's use of your personal data.</p><p dir="ltr">4.5 In addition to the specific disclosures of personal data set out in this Section 4, we may disclose your personal data where such disclosure is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person. We may also disclose your personal data where such disclosure is necessary for the establishment, exercise or defence of legal claims, whether in court proceedings or in an administrative or out-of-court procedure.</p><p dir="ltr"><strong>5. International transfers of your personal data</strong></p><p dir="ltr">5.1In this Section 5, we provide information about the circumstances in which your personal data may be transferred to countries outside the European Economic Area (EEA).</p><p dir="ltr">5.2 The hosting facilities for our website are situated in US, Europe and UK. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely EU-U.S. Privacy Shield Framework.</p><p dir="ltr">5.3 Mailing databases are situated in US and Australia. The European Commission has made an "adequacy decision" with respect to the data protection laws of each of these countries. Transfers to each of these countries will be protected by appropriate safeguards, namely &nbsp;EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield.</p><p dir="ltr">5.4 You acknowledge that personal data that you submit for publication through our website or services may be available, via the internet, around the world. We cannot prevent the use (or misuse) of such personal data by others.</p><p dir="ltr"><strong>6. Retaining and deleting personal data</strong></p><p dir="ltr">6.1 This Section 6 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in relation to the retention and deletion of personal data.</p><p dir="ltr">6.2 Personal data that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.</p><p dir="ltr">6.3 We will retain and delete your personal data as follows:</p><p dir="ltr">(a) Profile data containing personal data will be retained for two years following your last login, if you have not logged in for over two years, you will be notified of this. If we have not received notification within 30 days of your intent to use your account we will delete your profile data and notify you of this deletion.</p><p dir="ltr">(b) Cookie data will be retained for no longer than 30 days.</p><p dir="ltr">6.4 Notwithstanding the other provisions of this Section 6, we may retain your personal data where such retention is necessary for compliance with a legal obligation to which we are subject, or in order to protect your vital interests or the vital interests of another natural person.</p><p dir="ltr"><strong>7. Amendments</strong></p><p dir="ltr">7.1 We may update this policy from time to time by publishing a new version on our website.</p><p dir="ltr">7.2 You should check this page occasionally to ensure you are happy with any changes to this policy.</p><p dir="ltr">7.3 We may notify you of changes to this policy by email or through the private messaging system on our website.</p><p dir="ltr"><strong>8. Your rights</strong></p><p dir="ltr">8.1 In this Section 8, we have summarised the rights that you have under data protection law. Some of the rights are complex, and not all of the details have been included in our summaries. Accordingly, you should read the relevant laws and guidance from the regulatory authorities for a full explanation of these rights.</p><p dir="ltr">8.2 Your principal rights under data protection law are:</p><p dir="ltr">(a) the right to access;<br><br>(b) the right to rectification;<br><br>(c) the right to erasure;<br><br>(d) the right to restrict processing;<br><br>(e) the right to object to processing;<br><br>(f) the right to data portability;<br><br>(g) the right to complain to a supervisory authority; and<br><br>(h) the right to withdraw consent.</p><p dir="ltr">8.3 You have the right to confirmation as to whether or not we process your personal data and, where we do, access to the personal data, together with certain additional information. That additional information includes details of the purposes of the processing, the categories of personal data concerned and the recipients of the personal data. Providing the rights and freedoms of others are not affected, we will supply to you a copy of your personal data. The first copy will be provided free of charge, but additional copies may be subject to a reasonable fee. Provision of such information will be subject to:</p><p dir="ltr">(a) the first copy will be provided free of charge, but additional copies will be subjected to a GBP 10 administration fee; and</p><p dir="ltr">(b) the supply of appropriate evidence of your identity (for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or bank plus an original copy of a utility bill showing your current address).</p><p dir="ltr">8.4 You have the right to have any inaccurate personal data about you rectified and, taking into account the purposes of the processing, to have any incomplete personal data about you completed.</p><p dir="ltr">8.5 In some circumstances you have the right to the erasure of your personal data without undue delay. Those circumstances include: the personal data are no longer necessary in relation to the purposes for which they were collected or otherwise processed; you withdraw consent to consent-based processing; you object to the processing under certain rules of applicable data protection law; the processing is for direct marketing purposes; and the personal data have been unlawfully processed. However, there are exclusions of the right to erasure. The general exclusions include where processing is necessary: for exercising the right of freedom of expression and information; for compliance with a legal obligation; or for the establishment, exercise or defence of legal claims.</p><p dir="ltr">8.6 In some circumstances you have the right to restrict the processing of your personal data. Those circumstances are: you contest the accuracy of the personal data; processing is unlawful but you oppose erasure; we no longer need the personal data for the purposes of our processing, but you require personal data for the establishment, exercise or defence of legal claims; and you have objected to processing, pending the verification of that objection. Where processing has been restricted on this basis, we may continue to store your personal data. However, we will only otherwise process it: with your consent; for the establishment, exercise or defence of legal claims; for the protection of the rights of another natural or legal person; or for reasons of important public interest.</p><p dir="ltr">8.7 You have the right to object to our processing of your personal data on grounds relating to your particular situation, but only to the extent that the legal basis for the processing is that the processing is necessary for: the performance of a task carried out in the public interest or in the exercise of any official authority vested in us; or the purposes of the legitimate interests pursued by us or by a third party. If you make such an objection, we will cease to process the personal information unless we can demonstrate compelling legitimate grounds for the processing which override your interests, rights and freedoms, or the processing is for the establishment, exercise or defence of legal claims.</p><p dir="ltr">8.8 You have the right to object to our processing of your personal data for direct marketing purposes (including profiling for direct marketing purposes). If you make such an objection, we will cease to process your personal data for this purpose.</p><p dir="ltr">8.9 If you consider that our processing of your personal information infringes data protection laws, you have a legal right to lodge a complaint with a supervisory authority responsible for data protection. You may do so in the EU member state of your habitual residence, your place of work or the place of the alleged infringement.</p><p dir="ltr">8.10 To the extent that the legal basis for our processing of your personal information is consent, you have the right to withdraw that consent at any time. Withdrawal will not affect the lawfulness of processing before the withdrawal.</p><p dir="ltr">8.11 You may exercise any of your rights in relation to your personal data by contacting us using the details outlined in section 13.</p><p dir="ltr"><strong>9. About cookies</strong></p><p dir="ltr">9.1 A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.</p><p dir="ltr">9.2 Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.</p><p dir="ltr">9.3 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to the information stored in and obtained from cookies.</p><p dir="ltr"><strong>10. Cookies that we use</strong></p><p dir="ltr">10.1 We use cookies for the following purposes:</p><p dir="ltr">(a) authentication - we use cookies to identify you when you visit our website and as you navigate our website;</p><p dir="ltr">(b) status - we use cookies to help us to determine if you are logged into our website;</p><p dir="ltr">(c) security - we use cookies as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect our website and services generally;</p><p dir="ltr">(d) advertising - we use cookies to help us to display advertisements that will be relevant to you (cookies used for this purpose are: Google AdSense, Google AdExchange, Avocet, OpenX, PulsePoint, Sovrn, Teads, Skimlinks, Monetizer 101);</p><p dir="ltr">(e) analysis - we use cookies to help us to analyse the use and performance of our website and services (cookies used for this purpose are: Google Analytics, ComScore, Google Tag Manager, Crazy Egg, Facebook Audience, Google Analytics Audience);</p><p dir="ltr">(f) cookie consent - we use cookies to store your preferences in relation to the use of cookies more generally.</p><p dir="ltr"><strong>11. Cookies used by our service providers</strong></p><p dir="ltr">11.1 Our service providers use cookies and those cookies may be stored on your computer when you visit our website.</p><p dir="ltr">11.2 We use Google Analytics to analyse the use of our website. Google Analytics gathers information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: https://www.google.com/policies/privacy/.</p><p dir="ltr">11.3 We publish Google AdSense interest-based advertisements on our website. These are tailored by Google to reflect your interests. To determine your interests, Google will track your behaviour on our website and on other websites across the web using cookies. You can view, delete or add interest categories associated with your browser by visiting: https://adssettings.google.com. You can also opt out of the AdSense partner network cookie using those settings or using the Network Advertising Initiative's multi-cookie opt-out mechanism at: http://optout.networkadvertising.org. However, these opt-out mechanisms themselves use cookies, and if you clear the cookies from your browser your opt-out will not be maintained. To ensure that an opt-out is maintained in respect of a particular browser, you may wish to consider using the Google browser plug-ins available at: https://support.google.com/ads/answer/7395996.</p><p dir="ltr">11.4 We use Avocet, OpenX, PulsePoint, Sovrn and Google Audiences to carry out retargeting and Header Bidding. These service uses cookies for retargeting ads and targeting ads based on your interests. You can view the privacy policy of these service providers at <a href="http://avocet.io/privacy-policy">http://avocet.io/privacy-policy</a>, <a href="https://www.openx.com/legal/privacy-policy/">https://www.openx.com/legal/privacy-policy/</a>, <a href="https://www.pulsepoint.com/privacy-policy.html">https://www.pulsepoint.com/privacy-policy.html</a>, <a href="https://www.sovrn.com/privacy-policy/">https://www.sovrn.com/privacy-policy/</a> and <a href="https://www.google.com/policies/privacy/">https://www.google.com/policies/privacy/</a></p><p dir="ltr"><strong>12. Managing cookies</strong></p><p dir="ltr">12.1 Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:</p><p dir="ltr"><br>(a) https://support.google.com/chrome/answer/95647?hl=en (Chrome);<br><br>(b) https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);<br><br>(c) http://www.opera.com/help/tutorials/security/cookies/ (Opera);<br><br>(d) https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);<br><br>(e) https://support.apple.com/kb/PH21411 (Safari); and<br><br>(f) https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).<br><br></p><p dir="ltr">12.2 Blocking all cookies will have a negative impact upon the usability of many websites.</p><p dir="ltr">12.3 If you block cookies, you will not be able to use all the features on our website.</p><p dir="ltr"><strong>13 .Our details</strong></p><p dir="ltr">13.1 This website is owned and operated by Network N Limited.</p><p dir="ltr">13.2 We are registered in England and Wales under registration number 08063183, and our registered office is at Circus Mews House, Circus Mews, Bath, England, BA1 2PW.</p><p dir="ltr">13.3 Our principal place of business is at Circus Mews House, Circus Mews, Bath, England, BA1 2PW.</p><p dir="ltr">13.4 You can contact us:</p><p dir="ltr">(a) by post, using the postal address given above;</p><p>&nbsp;</p><p dir="ltr">(b) by email, using this email address <a href="mailto:data@network-n.com">data@network-n.com</a></p></div>	
-</div>    	
-<footer id="site-footer">
-	<ul class="links">
-		<a href="/" id="pcgamesn-footer">PCGamesN</a>			
-		<li class="first">©  Network N Ltd</li>
-		<li><a href="mailto:editor@pcgamesn.com" title="Contact PCGamesN">Contact Us</a></li>
-		<li><a href="/careers">Careers</a></li>
-		<li><a href="http://steampowered.com" id="steamFooterLink">Powered by Steam</a></li>
-	</ul>
-	
-	<div id="footer-aside">
-		<ul id="footer-rss">
-			<li>Full RSS <a href="/mainrss.xml"><img src="/sites/all/themes/pcgamesn/images/icons/rss_24.png" alt="RSS" title="PCGamesN RSS" width="24" height="24"></a></li>
-					</ul>
-	</div>
-	<ul id="footer-submenu"><li><a href="https://www.pcgamesn.com/best-pc-games" title="Best PC games" class="first leaf">Best PC games</a></li><li><a href="https://www.pcgamesn.com/15-best-pc-first-person-shooters" title="Best FPS" class="leaf">Best FPS</a></li><li><a href="https://www.pcgamesn.com/10-best-pc-mmos" title="Best MMORPGs" class="leaf">Best MMORPGs</a></li><li><a href="https://www.pcgamesn.com/100-best-free-pc-games" title="Best free PC games" class="leaf">Best free PC games</a></li><li><a href="https://www.pcgamesn.com/nine-best-free-play-games-steam" title="Best free Steam games" class="leaf">Best free Steam games</a></li><li><a href="https://www.pcgamesn.com/10-best-racing-games-pc" title="Best racing games" class="leaf">Best racing games</a></li><li><a href="https://www.pcgamesn.com/15-great-strategy-games-you-really-should-play-or-else" title="Best strategy games" class="leaf">Best strategy games</a></li><li><a href="https://steamidfinder.com/" title="Steam ID" class="leaf">Steam ID</a></li><li><a href="https://steamprofile.com/" title="Steam Profile" class="last leaf">Steam Profile</a></li></ul>	
-</footer>  <div id="bsk260618"></div><div id="pcgn_1987199" class="ad_bgskin"><div id="pcgamesn_ad_skin"></div></div>  <div style="display:none;" id="pcgnab_lb" data-link="" data-img="https://pcgamesn.com/sites/default/files/1x1_pixel.jpg"></div>
-      				<div style="display:none;" id="pcgnab_mp1" data-link="" data-img="https://pcgamesn.com/sites/default/files/1x1_pixel_0.jpg"></div>
-      				<div style="display:none;" id="pcgnab_mp2" data-link="" data-img="https://pcgamesn.com/sites/default/files/1x1_pixel_1.jpg"></div>
-      				<div style="display:none;" id="pcgnab_mp3" data-link="" data-img="https://pcgamesn.com/sites/default/files/1x1_pixel_2.jpg"></div>
-      				<div style="display:none;" id="pcgnab_sk" data-link="" data-img="https://pcgamesn.com/sites/default/files/1x1_pixel_3.jpg"></div>
-      
-      <script type="text/javascript">
 
-	setTimeout(function(){var a=document.createElement("script");
-	var b=document.getElementsByTagName("script")[0];
-	a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0017/2880.js?"+Math.floor(new Date().getTime()/3600000);
-	a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+<!-- START Parse.ly Include: Standard -->
+
+<div id="parsely-root" style="display: none">
+	<div id="parsely-cfg" data-parsely-site="pcgamesn.com"></div>
+<script id="parsely-script" async="" data-cfasync="false" src="https://d1z2jf7jlzjs58.cloudfront.net/p.js"></script></div>
+<script data-cfasync="false">
+	(function (s, p, d) {
+		var h = d.location.protocol, i = p + "-" + s,
+			e = d.getElementById(i), r = d.getElementById(p + "-root"),
+			u = h === "https:" ? "d1z2jf7jlzjs58.cloudfront.net"
+				: "static." + p + ".com";
+		if (e) return;
+		e = d.createElement(s);
+		e.id = i;
+		e.async = true;
+		e.setAttribute('data-cfasync', 'false');
+		e.src = h + "//" + u + "/p.js";
+		r.appendChild(e);
+	})("script", "parsely", document);
 </script>
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-_qevents.push({
-qacct:"p-RjEjuLgJaKFyH"
-});
-</script>
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-RjEjuLgJaKFyH.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
-<script type="text/javascript" src="https://pcgamesn.com/sites/default/files/js/js_leAPos3XpDfOgUe92Ch6jY3ecpy5bZ34QgcBdf373Do.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"pcgamesn","theme_token":"buUhO1cCu-uiiac5Pb5Hrit4vXlGPgqi8PZoa4_dtpY","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/ui\/jquery.ui.core.min.js":1,"misc\/ui\/jquery.ui.widget.min.js":1,"misc\/ui\/jquery.ui.position.min.js":1,"misc\/ui\/jquery.ui.autocomplete.min.js":1,"misc\/jquery.cookie.js":1,"misc\/jquery.form.js":1,"misc\/ui\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.mouse.min.js":1,"misc\/ui\/jquery.ui.slider.min.js":1,"sites\/all\/libraries\/jquery-ui-timepicker\/jquery-ui-sliderAccess.js":1,"sites\/all\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/custom\/gamesn_ads\/fancybox\/source\/jquery.fancybox.js":1,"sites\/all\/modules\/custom\/gamesn_commenting\/js\/gamesn_commenting.js":1,"sites\/all\/modules\/custom\/gamesn_games\/js\/gamesn_games_forms.js":1,"sites\/all\/modules\/custom\/gamesn_profile\/gamesn_profile.js":1,"sites\/all\/modules\/custom\/gamesn_reviews\/js\/gamesn_reviews.js":1,"sites\/all\/modules\/custom\/pcgamesn_adblock\/pcgamesn_adblock.js":1,"sites\/all\/modules\/custom\/pcgamesn_adverts\/pcgamesn_adverts.js":1,"sites\/all\/modules\/custom\/pcgamesn_archives\/pcgamesn_archives.js":1,"sites\/all\/modules\/custom\/pcgamesn_facebook\/pcgamesn_facebook.js":1,"sites\/all\/modules\/custom\/pcgamesn_google_search\/pcgamesn_google_search.js":1,"sites\/all\/modules\/custom\/pcgamesn_header\/header_v2.js":1,"sites\/all\/modules\/custom\/pcgamesn_next_page\/pcgamesn_next_page.js":1,"sites\/all\/modules\/custom\/pcgamesn_pagespeed\/pcgamesn_pagespeed.js":1,"sites\/all\/modules\/custom\/pcgamesn_scheduler\/pcgamesn_scheduler.js":1,"sites\/all\/modules\/custom\/pcgamesn_social\/pcgamesn_social.js":1,"sites\/all\/modules\/custom\/pcgamesn_steam\/pcgamesn_steam.js":1,"sites\/all\/modules\/custom\/pcgamesn_submit_story\/pcgamesn_submit_story.js":1,"sites\/all\/modules\/custom\/pcgamesn_v2_sidebar\/pcgamesn_v2_sidebar.js":1,"sites\/all\/modules\/custom\/pcgamesn_youtube_api\/pcgamesn_youtube_api.js":1,"sites\/all\/themes\/pcgamesn\/js\/social.js":1,"sites\/all\/themes\/pcgamesn\/js\/scripts.js":1,"sites\/all\/themes\/pcgamesn\/js\/responsive.js":1,"misc\/progress.js":1,"":1,"sites\/all\/modules\/lightbox2\/js\/lightbox_video.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/date\/stanford_date_timepicker\/js\/stanford_date_timepicker.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.autocomplete.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.slider.css":1,"sites\/all\/libraries\/jquery-ui-timepicker\/jquery-ui-timepicker-addon.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/custom\/gamesn_ads\/fancybox\/source\/jquery.fancybox.css":1,"sites\/all\/modules\/custom\/gamesn_ads\/fancybox_custom.css":1,"sites\/all\/modules\/custom\/gamesn_games\/css\/gamesn_games.css":1,"sites\/all\/modules\/custom\/gamesn_profile\/css\/gamesn_profile.css":1,"sites\/all\/modules\/custom\/gamesn_reviews\/css\/gamesn_reviews3.css":1,"sites\/all\/modules\/custom\/gamesn_user_manager\/user_manager.css":1,"modules\/node\/node.css":1,"sites\/all\/modules\/custom\/pcgamesn_adblock\/pcgamesn_adblock.css":1,"sites\/all\/modules\/custom\/pcgamesn_adverts\/pcgamesn_adverts.css":1,"sites\/all\/modules\/custom\/pcgamesn_affiliates\/pcgamesn_affiliates.css":1,"sites\/all\/modules\/custom\/pcgamesn_archives\/pcgamesn_archives.css":1,"sites\/all\/modules\/custom\/pcgamesn_facebook\/pcgamesn_facebook.css":1,"sites\/all\/modules\/custom\/pcgamesn_google_search\/pcgamesn_google_search.css":1,"sites\/all\/modules\/custom\/pcgamesn_header\/header_v2.css":1,"sites\/all\/modules\/custom\/pcgamesn_iframe_pages\/pcgamesn_iframe_pages.css":1,"sites\/all\/modules\/custom\/pcgamesn_next_page\/pcgamesn_next_page.css":1,"sites\/all\/modules\/custom\/pcgamesn_pagespeed\/pcgamesn_pagespeed.css":1,"sites\/all\/modules\/custom\/pcgamesn_scheduler\/pcgamesn_scheduler.css":1,"sites\/all\/modules\/custom\/pcgamesn_social\/pcgamesn_social.css":1,"sites\/all\/modules\/custom\/pcgamesn_submit_story\/pcgamesn_submit_story.css":1,"sites\/all\/modules\/custom\/pcgamesn_v2_sidebar\/pcgamesn_v2_sidebar.css":1,"sites\/all\/modules\/custom\/pcgamesn_youtube_api\/pcgamesn_youtube_api.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"0":1,"1":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.3.0\/css\/font-awesome.min.css":1,"sites\/all\/themes\/pcgamesn\/style.css":1,"sites\/all\/themes\/pcgamesn\/screen.css":1}},"ajax-login":{"modalSize":{"type":"fixed","width":800,"height":500},"modalTheme":"loginModal","animation":"fadeIn"},"lightbox2":{"rtl":0,"file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":0,"font_color":"000","box_color":"000","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":0,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":1,"flvPlayer":"\/","flvFlashvars":"autoplay=1"},"stanford_date_timepicker":{"classes":"","default_date_format":"yy-mm-dd","default_time_format":"hh:mm","default_separator":" "}});
-//--><!]]>
-</script>
-<div id="fb-root"></div>
-<!-- Google Code for Remarketing Tag -->
+
+<!-- END Parse.ly Include: Standard -->
+    <script type="text/javascript">
+    var main_css = document.createElement('link');
+    main_css.rel = 'stylesheet';
+    main_css.href = 'https://www.pcgamesn.com/wp-content/themes/pcgamesn-8/dist/styles/main-821f33ea35.css';
+    main_css.type = 'text/css';
+    let linkTags = document.getElementsByTagName('link');
+    var main_css_target = linkTags[(linkTags.length)];
+    var main_css_target = document.getElementsByTagName('link')[0];
+    main_css_target.parentNode.insertBefore(main_css, main_css_target);
+    </script>
+    <link rel="stylesheet" href="https://www.pcgamesn.com/wp-content/plugins/new-advertising/dist/css/app.f8ff78ab.css">
+<link rel="stylesheet" href="https://www.pcgamesn.com/wp-content/plugins/nn-images/featherlight-overrides.css">
+<link rel="stylesheet" href="https://www.pcgamesn.com/wp-content/plugins/pcgn-affiliates/dist/css/app.b21afcfd.css">
+<link rel="stylesheet" href="https://www.pcgamesn.com/wp-content/plugins/pcgn-post-types/patch-notes/patch-notes.css?v=1.01">
+<link rel="stylesheet" href="https://www.pcgamesn.com/wp-content/plugins/pcgn-post-types/pcgn-post-types.css">
+<link rel="stylesheet" href="https://www.pcgamesn.com/wp-content/plugins/pcgn_games/js/jquery-ui.min.css">
+<link rel="stylesheet" href="https://www.pcgamesn.com/wp-content/plugins/wp-featherlight/css/wp-featherlight.css">
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/new-advertising/dist/js/app.f8ff78ab.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var google_conversion_id = 988691481;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
+var ifs_data = {"target_container":".js-ifs-nextpage","ordering":{"home":["home-normal"],"game":["game-normal","home-normal"],"article":["148001","article-specified","146603","game-normal"]},"flow_type":"article","author_name":"","pid":"88724","paged":"2","homepage":"","search_keyword":"","gametype":"","month":"0","year":"0","ignore_post_ids":[]};
 /* ]]> */
 </script>
-<div style="position: absolute;bottom:0;">
-<script type="text/javascript" src="//&#10;www.googleadservices.com/pagead/conversion.js">
-</script>
-</div>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="Google remarketing image" src="//
-googleads.g.doubleclick.net/pagead/viewthroughconversion/988691481/?value=0&amp;guid=ON&amp;script=0
-"/>
-</div>
-</noscript>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/new-infinite-scroll/dist/js/app.c80de817.min.js"></script>
+<script src="https://www.pcgamesn.com/wp-includes/js/jquery/jquery.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/nn-images/nn-images.js"></script>
 <script type="text/javascript">
-window.addEventListener('load',function(){	 
-jQuery('[href="/counter-strike-global-offensive/csgo-update"]').click(function(){
-ga('send','event','link','click','latest best FPS');
-})
-
-
-jQuery('[href="/civilization-vi/civilization-6-america-strategy-guide-roosevelt"]').click(function(){
-ga('send','event','link','click','Civilization');
-})
-
-jQuery('[href="/this-week-in-user-reviews"]').click(function(){
-ga('send','event','link','click','user reviews');
-})
-});
+/* <![CDATA[ */
+var pcgn_affiliate_data = {"post_id":"88724"};
+/* ]]> */
 </script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/pcgn-affiliates/dist/js/app.b21afcfd.min.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/pcgn-post-types/patch-notes/patch-notes.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/pcgn-post-types/pcgn-post-types.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/pcgn_games/js/jquery-ui.min.js"></script>
 <script type="text/javascript">
-	window.addEventListener('message',function(event) {
-		var source = event.origin;
-		if(event.origin.slice(-12) == 'pcgamesn.com') {
-			if (event.data == "Resize_register") {
-				document.getElementById('lightboxFrame').height = '560';
-				document.getElementById('outerImageContainer').style.height = '540px';
-			}
-		}
-},false);
+/* <![CDATA[ */
+var pcgn_games = {"ajax_url":"https:\/\/www.pcgamesn.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
 </script>
-<script>
-  (function(w, d, s) {
-
-  selector = '#ph_1';
-  if(!showLeader) {
-    selector = '#ph_2';
-    
-    googletag.cmd.push(function() { googletag.display('ph_1'); });
-    document.getElementById("ph_1").classList.add("sticky600");
-    if(resizeRail) {
-      var stickyWraps = document.getElementsByClassName("rail_wrap");
-      stickyWraps[0].classList.add("rails600");  
-    }
-    
-
-  }
-  try {
-    d = w.top.document || d; w = w.top.document ? w.top : w;
-  } catch (e) {}
-  var ttag = function() {
-    w.teads.page(63501).placement(68455, {slider: {allow_corner_position: false, allow_top_position: false}, "css":"margin: 0px 0px 20px;","format":"inread","slot":{"btf":false,"selector":selector,"minimum":1}}).serve();
-  };
-  if (w.teads && w.teads.page) { ttag(); }
-  else if (!w.teadsscript) {
-    s.src = '//cdn.teads.tv/media/format/v3/teads-format.min.js';
-    s.async = true; s.onload = ttag; w.teadsscript = d.getElementsByTagName('head')[0].appendChild(s);
-  }
-})(window, document, document.createElement('script'));
-</script>
-<script src="https://ads.avocet.io/s?add=58aed95a08dd7d6b0a6c4156&amp;ty=j"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/pcgn_games/js/pcgn-games.js?v=0.2"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/pcgn-pagespeed/js/lazysizes.min.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/wp-featherlight/js/vendor/jquery.detect_swipe.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/wp-featherlight/js/vendor/featherlight.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/wp-featherlight/js/vendor/featherlight.gallery.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/plugins/wp-featherlight/js/wpFeatherlight.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/themes/pcgamesn-8/dist/scripts/main-39b928dd1d.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/themes/pcgamesn-8/dist/scripts/custom-6ff50ceec5.js"></script>
+<script defer="defer" src="https://www.pcgamesn.com/wp-content/themes/pcgamesn-8/dist/scripts/mobile-f815759939.js"></script>
 
 
-
-<!-- Page cached by Boost @ 2018-06-26 04:00:13, expires @ 2018-06-26 10:00:13, lifetime 6 hours --></body></html>
+<!-- Page created in 2.090 seconds from 32 queries on 2019-12-07 @ 16:58:32 GMT -->
+</body></html>
