@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moonbitcoin.cash privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630012306id_/https%3A//moonbitcoin.cash/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonbitcoin.cash privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207053140id_/https%3A//moonbitcoin.cash/) for the most accurate reproduction.*
 
 # Moon Cash | Free bitcoin cash faucet
 
