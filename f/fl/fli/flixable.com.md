@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixable.com privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418151342id_/https%3A//flixable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixable.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207114035id_/https%3A//flixable.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Flixable
 
