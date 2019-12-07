@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concordia.ca privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627072604id_/https%3A//www.concordia.ca/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concordia.ca privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207072501id_/https%3A//www.concordia.ca/web/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
