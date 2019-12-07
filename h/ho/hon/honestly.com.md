@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the honestly.com privacy policy that was archived on 2019-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190113203001id_/https%3A//www.honestly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honestly.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207153518id_/https%3A//www.honestly.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Honestly
 
 Honestly MT GmbH  
 Hansaring 68-70  
 50670 Köln  
-Telefonnummer: [+49 221 6430 7890 ](tel://+4922164307890)  
-E-Mail-Adresse: [kontakt@honestly.de](mailto:kontakt@honestly.de)  
-Faxnummer: [+49 221 6430 7899](tel://+4922164307899)  
-Vertretungsberechtigte Geschäftsführer: Sven Bläse, Mateo Freudenthal
+Phone number: [+49 221 6430 7890 ](tel://+4922164307890)  
+E-mail address: [kontakt@honestly.de](mailto:kontakt@honestly.de)  
+Fax number: [+49 221 6430 7899](tel://+4922164307899)  
+Authorized managing director: Sven Bläse, Mateo Freudenthal
 
-Registergericht: Amtsgericht Köln Registernummer: HRB 84298 USt-IdNr.: DE284320814
+Register Court: Cologne Local Court Register Number: HRB 84298 USt-IdNr.: DE284320814
 
-Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV:  
-Sven Bläse (Anschrift wie oben)
+Responsible for content according to § 55 Abs. 2 RStV:  
+Sven Bläse (address as above)
 
-Haftungshinweis:  
-Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+Disclaimer:  
+Despite careful content control, we assume no liability for the content of external links. The operators of the linked pages are solely responsible for their content.
 
 ## Data privacy policy
 
