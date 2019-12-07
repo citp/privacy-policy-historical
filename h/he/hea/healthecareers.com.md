@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417144617id_/https%3A//www.medpagetoday.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthecareers.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207050309id_/https%3A//www.medpagetoday.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MedPage Today
 
-Effective May 18, 2018
+Effective May 7, 2019
 
 ## 6\. Direct Marketing
 
@@ -108,7 +108,11 @@ We may transfer your Personal Information to recipients in other countries. Wher
 
 Because of the international nature of our business, we may need to transfer your User Information within the Everyday Health group of companies, and to third parties as noted in Section 9 above, in connection with the purposes set out in this Policy. For this reason, we may transfer your User Information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located. 
 
+Everyday Health, Inc. participates in and has certified its compliance with the E.U.-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. Everyday Health is committed to subjecting all Personal Information received from European Union (E.U.) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable principles. To learn more about the Privacy Shield Framework, please visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list). Everyday Health is responsible for the processing of Personal Information it receives under the Privacy Shield Framework and subsequent transfers to a third party acting as an agent on its behalf. Everyday Health complies with the Privacy Shield principles for all onward transfers of Personal Information from the E.U. and Switzerland, including the onward transfer liability provisions. With respect to Personal Information received or transferred pursuant to the Privacy Shield Framework, Everyday Health is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Everyday Health may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you are a European individual with a privacy related complaint, concern or question about Everyday Health’s privacy practices, please contact us through our [DSAR Portal](https://dsar.medpagetoday.com/). Under certain conditions, more fully described on the Privacy Shield website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
 Where we transfer your Personal Information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for Personal Information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our [DSAR Portal](https://dsar.medpagetoday.com/). 
+
+Everyday Health privacy practices described in this Privacy Policy comply with the Asia-Pacific Economic Cooperation (“ **APEC** ”) Cross Border Privacy Rules System. To learn more about this program, please click [here](http://www.apec.org/Groups/Committee-on-Trade-and-Investment/~/media/Files/Groups/ECSG/CBPR/CBPR-PoliciesRulesGuidelines.ashx).
 
 Please note that when you transfer any Personal Information directly to a Company entity established outside the EEA, we are not responsible for that transfer of your Personal Information. We will nevertheless Process your Personal Information, from the point at which we receive the data, in accordance with the provisions of this Privacy Policy.
 
@@ -180,7 +184,7 @@ Applicants for Healthcare-Related Positions. If you are looking for a job and us
 
 California Residents. In accordance with the California Online Privacy Protection Act, we may collect Personal Information about your online activities when you use the Services. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ "do not track" signals. California’s "Shine the Light" law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any Personal Information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request or if you wish for us to refrain from gathering your Personal Information, please submit your request in writing to the contact details set out in Section 17 below.
 
-EU Residents. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the [DSAR Portal](https://dsar.medpagetoday.com/). If you are an EU resident and have any unresolved privacy concern that we have not addressed satisfactorily after contacting us, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
+EU Residents. GDPR provides certain rights for EU residents. You may decline to share certain information with us, in which case we may not be able to provide some of the features and functionality of the Services. These rights include, in accordance with applicable law, the right to object to or request the restriction of processing of your information, and to request access to, rectification, erasure and portability of your own information. Where we process your information on the basis of your consent, you have the right to withdraw that consent (noting that such withdrawal does not affect the lawfulness of any Processing performed prior to the date on which we receive notice of such withdrawal, and does not prevent the Processing of your Personal Information in reliance upon any other available legal bases). Requests should be submitted by contacting us using the [DSAR Portal](https://dsar.medpagetoday.com/). If you are an EU resident and have any unresolved privacy concern, you have the right to contact the appropriate EU Supervisory Authority and lodge a complaint.
 
 ## 16\. Terms of Use
 
@@ -218,6 +222,8 @@ New York, NY 10014
 
 
 Our Data Protection Officer may be contacted at [dpo@everydayhealth.com](mailto:dpo@everydayhealth.com) For GDPR related inquiries, please use our webform at [DSAR Portal](https://dsar.medpagetoday.com/).
+
+If you have an unresolved concern regarding your privacy or our use of data that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) by clicking [here](https://feedback-form.truste.com/watchdog/request).
 
 ## 18\. How this Privacy Policy May Change
 
