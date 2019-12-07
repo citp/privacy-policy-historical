@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ytmp3.cc privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616182750id_/https%3A//ytmp3.cc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytmp3.cc privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207230022id_/https%3A//ytmp3.cc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ytmp3.cc
 
-[]()
+[](https://ytmp3.cc/en/)
 
 Pursuant to our [Terms of Use](https://ytmp3.cc/terms-of-use/), this document describes how we treat personal information related to your use of this website and the services offered on and through it (the „Service”), including information you provide when using it. 
 
