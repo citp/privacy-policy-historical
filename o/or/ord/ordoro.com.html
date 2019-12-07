@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ordoro.com privacy policy that was archived on 2019-01-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190127130252id_/https%3A//www.ordoro.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ordoro.com privacy policy that was archived on 2019-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191207200243id_/https%3A//www.ordoro.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -14,7 +14,7 @@
     
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/favicon.ico">
-    <link rel="stylesheet" href="https://storage.googleapis.com/ordoro-landing-assets/v1.234.0/css/app.css">
+    <link rel="stylesheet" href="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/css/app.css">
     <!--[if lt IE 9]>
     <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
@@ -171,7 +171,7 @@
                             <a class="link--utility link--login" href="/login" title="Login">Login</a>
                         </li>
                         <li class="list__item--utility list__item--wrap-cta">
-                            <button class="btn btn--sm btn--cta" data-pricing-sign-up="pro" title="Try Ordoro for Free">Free Trial</button>
+                            <button class="btn btn--sm btn--cta" data-reveal-id="salesAppointmentModal" title="Try Ordoro for Free">Schedule A Demo</button>
                         </li>
                     </ul>
                     <ul>
@@ -509,7 +509,8 @@
             <div class="medium-8 columns divider--right">
                 <dl class="list--contact">
                     <dt class="list__title--contact">Address:</dt>
-                    <dd class="list__item--contact fs-02 lh-md">106 E. 6th St, Suite 710</dd>
+                    <dd class="list__item--contact fs-02 lh-md">815 Brazos Street</dd>
+                    <dd class="list__item--contact fs-02 lh-md">Suite 900</dd>
                     <dd class="list__item--contact fs-02 lh-md">Austin, TX 78701</dd>
                 </dl>
             </div>
@@ -543,73 +544,137 @@
             <span class="icon btn__icon x-sm icon-close" aria-hidden="true"></span>
         </button>
     </div>
-    <div id="registrationFormModal" class="reveal-modal small">
-        <div class="row">
-            <div class="medium-12 columns">
-                <h3 class="subheader fs-02 lh-sm margin-top-0 margin-bottom-10">Start your 15-day free trial</h3>
-                <div class="registration--stacked">
-                    <form id="registrationForm" action="https://app.ordoro.com/register" method="POST">
-    <input type="hidden" name="plan">
-    <fieldset class="form-fieldset">
-        <ul class="list--form">
-            <li class="list__item--form registration-callout">
-                <span class="registration-callout__prefix">Begin your</span>
-                <span>15-day Free Trial</span>
-            </li>
-            <li class="list__item--form">
-                <label class="form-label" for="email">Email</label>
-                <input type="text" name="email" id="email">
-            </li>
-            <li class="list__item--form">
-                <label class="form-label" for="password">Password <span class="form-label__helper">(at least 4 characters)</span></label>
-                <input type="password" name="password" id="password">
-            </li>
-            <li class="list__item--form">
-                <button type="submit" class="btn btn--registration full-width">Create <span class="hide-for-horizontal">your</span> account</button>
-            </li>
-        </ul>
-    </fieldset>
-</form>
-<script>
-// We use to use the templates to put pappy's url in the form action, but we can't now. The html
-// files are built during the Docker image build, which means we can't set an ENV to determine how
-// to render the templates. So this is the easiest fix. By default pappy prod is hardcoded as the
-// action and we will switch out the value if not on prod.
-if (document.querySelector) {
-    const form = document.querySelector('#registrationForm')
+    
+<div id="salesAppointmentModal" class="reveal-modal small">
+    <div class="row">
+        <div class="medium-12 columns">
+            <h3 class="subheader fs-02 lh-sm margin-top-0 margin-bottom-10">Schedule a Demo</h3>
+            <p class="fs-01">Book some time with one of our Product Experts to see Ordoro in action and to start your free trial.</p>
+            <form id="request_demo_form" autocomplete="off">
+                <ul class="list--form">
+                    <li class="list__item--form">
+                        <label class="form-label" for="name">
+                            Full Name<span class="required">*</span>
+                        </label>
+                        <div>
+                            <input id="name" name="name" type="text" maxlength="255" required="">
+                        </div>
+                    </li>
+                    <li class="list__item--form">
+                        <label class="form-label" for="company">
+                            Company
+                        </label>
+                        <div>
+                            <input id="company" name="company" type="text" maxlength="255">
+                        </div>
+                    </li>
+                    <li class="list__item--form">
+                        <label class="form-label" for="phone">
+                            Phone<span class="required">*</span>
+                        </label>
+                        <div>
+                            <input id="phone" name="phone" type="text" required="">
+                        </div>
+                    </li>
+                    <li class="list__item--form">
+                        <label class="form-label" for="email">
+                            Email<span class="required">*</span>
+                        </label>
+                        <div>
+                            <input id="email" name="email" type="email" spellcheck="false" maxlength="255" required="">
+                        </div>
+                    </li>
+                    <li class="list__item--form">
+                        <label class="form-label" for="subject">
+                            Have anything specific that you’d like to discuss?
+                        </label>
+                        <textarea class="textarea" id="subject" name="subject" spellcheck="true" rows="6" cols="50"></textarea>
+                    </li>
+                    <li class="list__item--form">
+                        <button class="btn btn--md" id="saveForm" name="saveForm" type="submit">
+                            Submit
+                        </button>
+                    </li>
+                </ul>
+            </form>
+        </div>
+    </div>
+    <button class="btn--close">
+        <span class="icon btn__icon x-sm icon-close" aria-hidden="true"></span>
+    </button>
+</div>
 
-    if (document.location.origin === 'http://localhost:8800') {
-        form.action = 'http://localhost:8080/register'
-    }
-    else if (document.location.origin === 'https://dev.ordoro.com') {
-        form.action = 'https://dev-app.ordoro.com/register'
-    }
-}
+
+
+<script>
+(function() {
+    var form = document.querySelector('#request_demo_form')
+
+    form.addEventListener('submit', function(event) {
+        event.preventDefault()
+
+        form.querySelector('#saveForm').disabled = true
+
+        var utmSource = Cookies.get('signup_utm_source_first')
+
+        fetch(window.VERDE_URL + '/wufoo/requestDemo', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                utm_source: utmSource || undefined,
+                name: form.querySelector('#name').value,
+                company: form.querySelector('#company').value || undefined,
+                phone: form.querySelector('#phone').value,
+                email: form.querySelector('#email').value,
+                subject: form.querySelector('#subject').value || undefined,
+            })
+        })
+        .then(function() {
+            form.querySelector('#name').value = ''
+            form.querySelector('#company').value = ''
+            form.querySelector('#phone').value = ''
+            form.querySelector('#email').value = ''
+            form.querySelector('#subject').value = ''
+
+            form.querySelector('#saveForm').disabled = false
+
+            $('#salesAppointmentModal').trigger('reveal:close')
+        })
+    })
+})()
 </script>
 
-                </div>
-            </div>
-        </div>
-        <button class="btn--close">
-            <span class="icon btn__icon x-sm icon-close" aria-hidden="true"></span>
-        </button>
-    </div>
+
 
   
   
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/libs/promise.polyfill.min.js"></script>
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/libs/fetch.umd.js"></script>
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/foundation/modernizr.foundation.js"></script>
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/foundation/jquery.js"></script>
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/libs/js.cookie-2.2.0.min.js"></script>
 
-  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.234.0/js/foundation/modernizr.foundation.js"></script>
-  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.234.0/js/foundation/jquery.js"></script>
-  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.234.0/js/libs/js.cookie-2.2.0.min.js"></script>
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/plan-signup.js"></script>
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/utm-source-cookies.js"></script>
 
-  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.234.0/js/plan-signup.js"></script>
-  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.234.0/js/utm-source-cookies.js"></script>
-
+  <script>
+    if (document.location.hostname === 'localhost') {
+        window.VERDE_URL = 'http://localhost:8082';
+    }
+    else if (document.location.hostname === 'www.ordoro-dev.com') {
+        window.VERDE_URL = 'https://verde.ordoro-dev.com';
+    }
+    else {
+        window.VERDE_URL = 'https://verde.ordoro.com';
+    }
+  </script>
   
 
-  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.234.0/js/foundation/jquery.foundation.reveal.js"></script>
-  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.234.0/js/foundation/jquery.foundation.topbar.js"></script>
-  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.234.0/js/foundation/app.js"></script>
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/foundation/jquery.foundation.reveal.js"></script>
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/foundation/jquery.foundation.topbar.js"></script>
+  <script src="https://storage.googleapis.com/ordoro-landing-assets/v1.304.0/js/foundation/app.js"></script>
 
   
     <script type="text/javascript">
