@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613060429id_/http%3A//www.aopa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207010231id_/http%3A//aopa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AOPA
 
@@ -140,7 +140,7 @@ Please let us know your preferences by calling us at 800/USA-AOPA (872-2672), [u
 
   * Companies related to Aircraft Owners and Pilots Association by common ownership or control. They include companies with an “AOPA” name; such as The AOPA Foundation, Inc. (“AFI”), and AOPA Holdings Corporation. 
   * AOPA has one other Affiliated Company that is required by law to have its own privacy policy. It's called AOPA Aviation Finance Company, LLC, an aviation loan broker (not a lender).  You may view their privacy policy on their website: 
-    * [AOPA Aviation Finance Company, LLC privacy policy »](https://web.archive.org/-/media/files/finance/aopaaviationfinanceprivacypolicy.pdf?la=en&hash=1A8B9ECE94E8797494F6AA1FF4C762446B343DBF)
+    * [AOPA Aviation Finance Company, LLC privacy policy »](https://web.archive.org/-/media/Files/Finance/aopaaviationfinanceprivacypolicy.pdf)
 
 
 
