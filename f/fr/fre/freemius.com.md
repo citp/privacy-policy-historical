@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemius.com privacy policy that was archived on 2019-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190607114812id_/https%3A//freemius.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemius.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207222104id_/https%3A//freemius.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Freemius
 
