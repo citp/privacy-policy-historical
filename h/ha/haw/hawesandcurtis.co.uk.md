@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawesandcurtis.co.uk privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326233215id_/https%3A//www.hawesandcurtis.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawesandcurtis.co.uk privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207052314id_/https%3A//www.hawesandcurtis.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hawes and Curtis
 
@@ -262,6 +262,9 @@ To make suggestions and recommendations to you about goods or services that may 
 Consent where you have signed up to or subscribed to receive our newsletter
 
 Necessary for our legitimate interests (to develop our products/services and grow our business)  
+  
+We use SessionCam on our website to help us understand the behavior of our website visitors. SessionCam will collect information such as the details of mouse movements, page scrolling and click activity of individual visitors. We use the data collected by SessionCam to identify where visitors struggle the most so that we can improve these areas of our website. If you do not wish your website visit to be recorded by SessionCam, [click here](https://sessioncam.com/choose-not-to-be-recorded/).   
+ _Please note: I am not a lawyer and this is not legal advice!_  
   
 ## Marketing
 
