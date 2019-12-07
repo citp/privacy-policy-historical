@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321190908id_/https%3A//www.wi-fi.org/wi-fi-alliance-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi-fi.org privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207100301id_/https%3A//www.wi-fi.org/wi-fi-alliance-privacy-policy) for the most accurate reproduction.*
 
 # Wi-Fi Alliance Privacy Policy | Wi-Fi Alliance
 
@@ -22,6 +22,8 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 
 We take appropriate steps to protect your privacy and implement reasonable security measures to protect your personal information in storage. We use secure transmission methods to collect personal data such as website passwords.
 
+Any information you have access to via Wi-Fi Alliance systems, such as other members’ email addresses, must be used for Wi-Fi Alliance business purposes only. It is strictly forbidden to use Wi-Fi Alliance contacts for any external gain, including sending product marketing or company promotions.  Providing Wi-Fi Alliance members’ contact information to third parties is strictly forbidden, unless you have documented express consent from the Wi-Fi Alliance member in question. 
+
 **Control of Your Information**
 
 You can help Wi-Fi Alliance maintain the accuracy of your information by notifying us of any changes to your address, title, company name, phone number or email address. Wi-Fi Alliance members may update their contact information on the Members-Only website or by contacting Wi-Fi Alliance staff.
@@ -36,4 +38,4 @@ Wi-Fi Alliance
 10900-B Stonelake Boulevard, Suite 126  
 Austin, TX 78759  USA  
 Email: [website@wi-fi.org](mailto:website@wi-fi.org)  
-Last update: June 2018
+Last update: September 2019
