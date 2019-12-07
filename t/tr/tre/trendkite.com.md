@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the trendkite.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407071314id_/https%3A//www.trendkite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendkite.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207195956id_/https%3A//www.trendkite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Whats New ](https://web.archive.org/privacy-policy/whats-new) |  [Download PDF Version](https://web.archive.org/hubfs/Privacy%20Policy/TrendKite%20Website%20-%20Privacy%20Policy%20March%2027%202019.pdf)
+[Whats New ](https://web.archive.org/privacy-policy/whats-new) |  [Download PDF Version](https://web.archive.org/hubfs/Privacy%20Policy/TK%20Website%20Privacy%20Policy_June_10_2019.pdf)
+
+**These terms apply to your use of our public-facing marketing site, www.trendkite.com, including regional variations. If you’re looking for the terms that apply to our paid software-as-a-service, please click here:[TrendKite App Privacy Policy](https://web.archive.org/hubfs/Privacy%20Policy/TrendKite%20App%20Privacy%20Policy%20June%207%202019.pdf).**
 
 Welcome to TrendKite, and thanks for visiting us! We put together this privacy notice to let you know how we collect and process your personal data when you visit our company sites, as well as your privacy rights and how the law protects you.
 
@@ -20,8 +22,8 @@ When we say personal data, we’re referring to any information about an individ
 
 **Data we collect** : When you visit our sites or request information from us, we may collect, use, store and transfer the following kinds of personal data about you:
 
-  * **Identity Data** : first name, last name, place of employment, title, and social media user names
-  * **Contact Data** : email address and telephone number
+  * **Identity Data** : first name, last name, company name
+  * **Contact Data** : email address
   * **Technical Data** : location, internet protocol (IP) address, browser information, time zone setting, operating system and other information on the devices you use to access our sites
   * **Profile Data** : interests, preferences, feedback and survey responses
   * **Usage Data** : information about how you use our websites, content and services
