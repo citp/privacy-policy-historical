@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sevenrooms.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203214646id_/https%3A//sevenrooms.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenrooms.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207081834id_/https%3A//sevenrooms.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SEVENROOMS
 
