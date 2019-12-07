@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaseya.com privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509015849id_/https%3A//www.kaseya.com/legal/kaseya-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaseya.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207074430id_/https%3A//www.kaseya.com/legal/kaseya-privacy-statement) for the most accurate reproduction.*
 
 # Kaseya Privacy Statement | Kaseya
 
