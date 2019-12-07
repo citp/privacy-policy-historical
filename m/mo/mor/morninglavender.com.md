@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morninglavender.com privacy policy that was archived on 2018-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181228131310id_/https%3A//morninglavender.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morninglavender.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208005801id_/https%3A//morninglavender.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Morning Lavender
 
