@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628004332id_/https%3A//whatismyipaddress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatismyipaddress.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207051837id_/https%3A//whatismyipaddress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Home](https://whatismyipaddress.com/)  »  Privacy Policy
+[Home](https://whatismyipaddress.com/)  » Privacy Policy 
 
 WhatIsMyIPAddress.com would like to inform You how We protect Your privacy and use information We collect via this Website. This Privacy Policy is an agreement between You and CGP Holdings, Inc. d/b/a WhatIsMyIPAddress.com (hereinafter "WhatIsMyIPAddress"). Please read the terms of this Privacy Policy carefully.
 
