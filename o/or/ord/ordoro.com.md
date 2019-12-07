@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ordoro.com privacy policy that was archived on 2019-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190127130252id_/https%3A//www.ordoro.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ordoro.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207200243id_/https%3A//www.ordoro.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
