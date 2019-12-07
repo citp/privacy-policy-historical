@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belden.com privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430060645id_/https%3A//www.belden.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belden.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207060009id_/https%3A//www.belden.com/about/privacy) for the most accurate reproduction.*
 
 # Belden - Privacy
 
@@ -160,11 +160,11 @@ If you have any questions or would like additional information about our privacy
 Belden Legal Department  
 1 N. Brentwood Blvd., 15th Floor  
 St. Louis, MO 63105  
-Email: [belden.legal@belden.com](mailto:belden.legal@belden.com); [belden,privacy@belden.com](mailto:belden,privacy@belden.com)
+Email: [belden.legal@belden.com](mailto:belden.legal@belden.com); [belden.privacy@belden.com](mailto:belden,privacy@belden.com)
 
 The data controller of your personal information is Belden Inc.
 
-Belden has appointed the law firm Shoosmiths as its external Data Protection Officer and should you have any questions or concerns for our DPO regarding the way in which your personal information has been used, please contact them at [belden,privacy@belden.com](mailto:belden,privacy@belden.com).
+Belden has appointed the law firm Shoosmiths as its external Data Protection Officer and should you have any questions or concerns for our DPO regarding the way in which your personal information has been used, please contact them at [belden.privacy@belden.com](mailto:belden,privacy@belden.com).
 
 _This Privacy Policy was last revised in March 2019._
 
