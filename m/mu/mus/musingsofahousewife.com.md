@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musingsofahousewife.com privacy policy that was archived on 2019-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190316031144id_/https%3A//jolynneshane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musingsofahousewife.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207183042id_/https%3A//jolynneshane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jo-Lynne Shane
 
