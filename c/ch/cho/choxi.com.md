@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the choxi.com privacy policy that was archived on 2019-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190121171532id_/https%3A//www.jclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choxi.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207231224id_/https%3A//www.jclub.com/privacy) for the most accurate reproduction.*
 
-# jClub - Just great deals.
+# jClub.com: Great deals on Electronics, Jewelry, Lifestyle, Men, Women, Pets, Kids & more
 
 J Club, Inc. (“jClub”, the “Company”, “we”, or “us”) knows that you care about how your personal information is used and shared. We take your privacy seriously and want to outline the measures we take in safe guarding your personal information, the choices available to you regarding our use of your personal information and how you can access and update this information. By visiting the jClub website and domain name, and any other linked pages, features, content, or mobile application services offered from time to time by the Company in connection therewith (collectively, the “Website”), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
