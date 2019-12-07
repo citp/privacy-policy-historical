@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the limesurvey.org privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605004110id_/https%3A//www.limesurvey.org/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limesurvey.org privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207235650id_/https%3A//www.limesurvey.org/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -100,6 +100,10 @@ We also respect the'Do-not-track' setting of your browser.
 * ### Social media plug-ins
 
 We do not use social plug-ins on our website. Possible social media symbols are normally linked and do not transmit data to social media platforms.
+
+* ### App Store
+
+Your data will not be passed on to third parties or to the developer of the app as a result of the mere use of our App Store and the apps. The only recipients are, in individual cases, our contract data processors (specifically the creators of the relevant app), to the extent that this is necessary for the provision of the service. 
 
 * ### Rights of the persons concerned
 
