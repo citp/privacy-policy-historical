@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iadt.ie privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505131125id_/http%3A//www.iadt.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iadt.ie privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207155120id_/https%3A//www.iadt.ie/privacy) for the most accurate reproduction.*
 
 # Privacy + Cookies | IADT
 
@@ -56,7 +56,7 @@ The Institute website contains links to other websites which may be of interest 
 
 The information that we collect from you may under rare or exceptional circumstances be transferred to, and stored at, a destination outside the European Economic Area (this includes the EU, Iceland, Norway and Lichtenstein), however we endeavour to keep your information with-in the EEA and where possible limit the information to Ireland.
 
-More information on security can be accessed at the [ITC Policy](http://www.iadt.ie/study/current-student-info/information-services) section of this site.
+More information on security can be accessed at the [ITC Policy](https://www.iadt.ie/study/current-student-info/information-services) section of this site.
 
 Within the Institute domain (.iadt.ie) you may find websites over which the Institute has no editorial responsibility. Such sites can include the websites of student organisations, etc. While the Institute expects compliance with this privacy statement at such sites, please contact webmaster@iadt.ie if you encounter Institute websites that are not compliant with this privacy and cookie statement.
 
@@ -64,7 +64,7 @@ Within the Institute domain (.iadt.ie) you may find websites over which the Inst
 
 The Institute will not sell, distribute or lease your personal information to third parties unless we have informed you, have your permission or are required to by law. Information may be shared with third parties who are under contract to act for us.
 
-The Institute takes its responsibilities under the Data Protection Act (DPA) and the EU’s General Data Protection Regulations seriously and will only process personal data in accordance with the Act. Under the DPA you have the right to access your personal data held by the Institute. Further information about this is available from the [Freedom of Information](http://www.iadt.ie/contact/freedom-of-information) section of this site.
+The Institute takes its responsibilities under the Data Protection Act (DPA) and the EU’s General Data Protection Regulations seriously and will only process personal data in accordance with the Act. Under the DPA you have the right to access your personal data held by the Institute. Further information about this is available from the [Freedom of Information](https://www.iadt.ie/contact/freedom-of-information) section of this site.
 
 Under the Data Protection Act you have the right to request a copy of the information we hold about you and to have any inaccuracies corrected. For information requests and will require you to prove your identity with 2 pieces of approved photographic identification. We will use reasonable efforts to supply, correct or delete personal information about you on our files. If you believe the information we are holding on you is incorrect or you require further information about how we use your information please contact foi@iadt.ie
 
