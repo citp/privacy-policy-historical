@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the airpano.com privacy policy that was archived on 2019-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190501232832id_/http%3A//www.airpano.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the airpano.com privacy policy that was archived on 2019-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191207093108id_/http%3A//www.airpano.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -22,7 +22,7 @@
     <link rel="stylesheet" type="text/css" href="css/photogallery_list_items.css">
 
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://mc.yandex.ru/metrika/watch.js"></script><script async="" type="text/javascript" src="https://openstat.net/cnt.js"></script><script type="text/javascript" src="js/tween.js"></script>
-    <script type="text/javascript" src="js/spinner.js"></script><style type="text/css"></style>
+    <script type="text/javascript" src="js/spinner.js"></script>
     <script type="text/javascript" src="js/imgLazyLoad.js"></script>
     <script type="text/javascript" src="js/tags_input.js"></script>
     <script type="text/javascript" src="js/widget_list.js"></script>
@@ -101,7 +101,7 @@
 
 
 
-<div id="top_menu_stage_img" style="transform: translateX(42px);"></div>
+<div id="top_menu_stage_img" style="transform: translateX(28px);"></div>
 
 <script type="text/javascript">
     var d = document.getElementById("top_menu_stage_img");
@@ -133,18 +133,18 @@
         <span><a href="/get_price.php" class="link_button_green">Price List</a></span><br>
     </div>
     <div id="top_menu_more">
-          
-        <!-- <div class="footer_column_h">INFORMATION</div> -->
-            <a href="/services.php">Our services</a>
-            <a href="/news_list.php">News</a>
-            <a href="/about.php">About AirPano</a>
-            <a href="/about.php#team">Team</a>
-            <a href="/article_list.php">Articles</a>
-            <a href="/guestbook.php">Guest book</a>
-            <a href="/contact.php">Contact</a>
-            <a href="/frequently_asked_questions.php">FAQ</a>
-            <a href="/citations.php">Citation Rules</a>
-         
+        <a href="/services.php">Our services</a>
+        <a href="/news_list.php">News</a>
+        <a href="/merch.php">Clothing &amp; Accessories</a>
+        <a href="/google_map.php">AirPano on world map</a>
+        <a href="/about.php">About AirPano</a>
+        <a href="/about.php#team">Team</a>                
+        <a href="/article_list.php">Articles</a>
+        <a href="/guestbook.php">Guest book</a>
+        <a href="/contact.php">Contact</a>
+        <a href="/frequently_asked_questions.php">FAQ</a>
+        <a href="/citations.php">Citation Rules</a>
+        <a href="/partners.php">Our clients and partners</a>
     </div>
 </div>
 </div>
@@ -160,18 +160,19 @@
     <button type="submit" id="top_menu_search_btn"></button>
 </form>
     
-    <!-- <a href="https://www.airpano.com/privacy_policy.php" class="top_menu_lang_item elm_hover_bg_green">EN</a> -->
+    <!-- <a href="http://www.airpano.com/privacy_policy.php" class="top_menu_lang_item elm_hover_bg_green">EN</a> -->
 
 <div id="top_menu_lang">
     <a href="/contact.php" class="top_menu_lang_item elm_hover_bg_green"><img src="/images/phone_icon.png" width="24" height="auto" style="margin: 6px 0 -7px 0;"></a>
-        <a id="langLink" href="https://web.archive.org/web/20190501232832id_/http%3A//www.airpano.ru/privacy_policy.php" class="top_menu_lang_item elm_hover_bg_green">RU</a>
-    <a id="langLinkCN" href="https://web.archive.org/web/20190501232832id_/http%3A//www.airpano.org.cn/privacy_policy.php" class="top_menu_lang_item elm_hover_bg_green">中文</a>
+        <a id="langLink" href="https://web.archive.org/web/20191207093108id_/http%3A//www.airpano.ru/privacy_policy.php" class="top_menu_lang_item elm_hover_bg_green">RU</a>
+    <a id="langLinkCN" href="http://web.archive.org/web/20191207093108id_/http%3A//www.airpano.org.cn/privacy_policy.php" class="top_menu_lang_item elm_hover_bg_green">中文</a>
     <script type="text/javascript">
-        function languageLinkUpdate(){
-            document.querySelector("#langLink").setAttribute("href",window.location.href.replace("airpano.com","airpano.ru"));
-            document.querySelector("#langLinkCN").setAttribute("href",window.location.href.replace("airpano.com","airpano.org.cn"));
-        }
-        languageLinkUpdate();
+        (function(){
+            var lh = window.location.href;
+            document.querySelector("#langLink").setAttribute("href",lh.replace("airpano.com","airpano.ru"));
+            var cnl = lh.replace("airpano.com","airpano.org.cn"); cnl = cnl.replace("https","http");
+            document.querySelector("#langLinkCN").setAttribute("href",cnl);
+        })();
     </script>
     
 </div>
@@ -318,6 +319,7 @@
     </script>
 
 </div>
+
  -->
         
     </div>
@@ -395,14 +397,55 @@
 		-o-transition: margin-right .3s;
 		transition: background-color .3s;
 	}
+
+	#downScroller {
+		position: fixed;
+		right: 0;
+		bottom: 10px;
+		width: 40px;
+		height: 50px;
+		/*margin-top: -25px;*/
+		text-align: center;
+		z-index: 10000;
+		border-radius: 4px 0 0 4px;
+		background: #51b72d;
+		margin-right: 0px;
+		-webkit-transition: margin-right .3s;
+		-moz-transition: margin-right .3s;
+		-ms-transition: margin-right .3s;
+		-o-transition: margin-right .3s;
+		transition: margin-right .3s;
+	}
+	#downScroller > a:hover {
+		background-color: #6cd646!important;
+	}
+	#downScroller > a {
+		display: block;
+		width: 100%;
+		height: 100%;
+		border-radius: 0 4px 4px 0;
+		background: url(/images/arrow_back_scroll.png) center no-repeat;
+		background-color: transparent;
+		-webkit-transition: margin-right .3s;
+		-moz-transition: margin-right .3s;
+		-ms-transition: margin-right .3s;
+		-o-transition: margin-right .3s;
+		transition: background-color .3s;
+		transform: rotate(180deg);
+	}
 </style>
 
 <div id="backScroller" style="margin-right:-40px;">
     <a href="#" onclick="event.preventDefault();scrollToTop();"></a>
 </div>
 
+<div id="downScroller" style="margin-right: 0px;">
+    <a href="#" onclick="event.preventDefault();scrollDown();"></a>
+</div>
+
 <script type="text/javascript">
 	window.backScroller = document.querySelector("#backScroller");
+	window.downScroller = document.querySelector("#downScroller");
     window.backScrollerTimeout = null;
 
     // window.addEventListener("resize", function(){
@@ -427,7 +470,9 @@
         });
     }
 
-    window.addEventListener("scroll",function(){
+    window.addEventListener("scroll",updateScrollers,false);
+
+    function updateScrollers(){
 
         clearTimeout(backScrollerTimeout);
 
@@ -435,13 +480,25 @@
             if(window.scrollY > 200) {
                 if(parseInt(backScroller.style.marginRight) < 0)
                     backScroller.style.marginRight = 0;
+                    downScroller.style.marginRight = "-40px";
             } else {
                 if(parseInt(backScroller.style.marginRight) > -40)
                     backScroller.style.marginRight = "-40px";
+                    downScroller.style.marginRight = 0;
             }
         },100);
 
-    },false);
+    }
+
+    updateScrollers();
+
+	function scrollDown(){
+		var bodyElm = (document.body.scrollTop > 0) ? document.body : document.documentElement;				    
+        tween(bodyElm, { scrollTop: bodyElm.clientHeight - 230 },500,"",null,function(){
+                
+        });
+	}
+
 </script>
 
 
@@ -462,7 +519,7 @@
                 <div style="font-size: 30px; margin-top:-4px; margin-bottom:-20px">
                     <a href="https://facebook.com/airpano" class="fa fa-facebook jssocials-share-logo"></a>
 
-                    <a href="https://www.youtube.com/user/airpanoru" class="fa fa-youtube jssocials-share-logo" style="color: #ec0005"></a>
+                    <a href="https://www.youtube.com/airpanovr" class="fa fa-youtube jssocials-share-logo" style="color: #ec0005"></a>
                     
                     <a href="https://twitter.com/airpano" class="fa fa-twitter jssocials-share-logo"></a>
                     
@@ -479,22 +536,55 @@
             
             <div id="footer_subscribe" class="footer_column_social_item">
                 <div class="footer_column_h">Subscribe</div>
-                <form id="footer_search" action="maillist.php" method="post">
+                <!-- <form id="footer_search"  action="maillist.php" method="post">
                     <input type="text" id="footer_search_input" name="email" placeholder="E-mail">
                     <button type="submit" name="submit" id="footer_search_btn">Ok</button>
-                </form>
+                </form>-->
+
+
+<!-- Begin Mailchimp Signup Form -->
+<!-- <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css"> -->
+<style type="text/css">
+/*#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }*/
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+#mc_embed_signup_scroll { position: relative; }
+</style>
+<div id="mc_embed_signup">
+    <form style="padding: 0!important" action="https://airpano.us3.list-manage.com/subscribe/post?u=d8ce90d5297327e36adc60587&amp;id=8fac375023" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="">
+<div id="mc_embed_signup_scroll">
+<!-- <h2>Subscribe</h2> -->
+<!-- <div class="mc-field-group"> -->
+<!-- <label for="mce-EMAIL">Email Address </label> -->
+<input type="email" value="" name="EMAIL" class="required email footer_search_input" id="mce-EMAIL" placeholder="E-mail">
+<input type="submit" value="Ok" name="subscribe" id="mc-embedded-subscribe" class="link_button_green footer_search_btn">
+<!-- </div> -->
+ <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d8ce90d5297327e36adc60587_8fac375023" tabindex="-1" value=""></div>
+</div>
+<div id="mce-responses" class="clear">
+<div class="response" id="mce-error-response" style="display:none"></div>
+<div class="response" id="mce-success-response" style="display:none"></div>
+</div>
+</form>
+</div>
+<script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->
+
+
+
             </div>
         </div>
 
         <div id="footer_info" class="footer_column" style="width: 23%; min-width: 160px;">
             <!-- <div class="btn"></div> -->
-              
             <div class="footer_column_h">INFORMATION</div>
             <div class="footer-menu">
                 <a href="/news_list.php">News</a>
                 <a href="/about.php">About AirPano</a>
                 <a href="/google_map.php">AirPano on world map</a>
-                <a href="/about.php#team">Team</a>
+				<a href="/maillist.php">Subscribe</a>
+                <a href="/about.php#team">Team</a>                
                 <a href="/article_list.php">Articles</a>
                 <a href="/guestbook.php">Guest book</a>
                 <a href="/contact.php">Contact</a>
@@ -502,12 +592,10 @@
                 <a href="/citations.php">Citation Rules</a>
                 <a href="/partners.php">Our clients and partners</a>
             </div>
-              
         </div>
 
         <div id="footer_services" class="footer_column" style="width: 23%; min-width: 160px;">
             <!-- <div class="btn"></div> -->
-                        
             <div class="footer_column_h">SERVICES</div>
             <div class="footer-menu">
                 <a href="/services.php">Our services</a>
@@ -516,27 +604,28 @@
                 <a href="/services.php?service=service360giga">360° Gigapanorama</a>
                 <a href="/services.php?service=service360laps">360° Timelapse</a>
                 <a href="/services.php?service=serviceTour#b2">Virtual tours</a>
-                <a href="/services.php?service=serviceFotobank#b2">Stock Photos</a>
                 <a href="/services.php?service=serviceVideobank#b2">Stock 360° Videos</a>
+                <a href="/services.php?service=serviceFotobank#b2">Stock Photos</a>
+                <a href="/merch.php">Clothing &amp; Accessories</a>
                 <a href="/services.php?service=serviceApps#b2">Applications</a>
                 <a href="/services.php?service=serviceCinema#b3">Panoramic cinemas</a>
                 <a href="/services.php?service=servicePanel#b3">Touch screens</a>
                 <a href="/services.php?service=serviceVRGlasses#b3">VR headsets</a>
                 <a href="/services.php?service=serviceBinocular#b3">Binocular</a>
             </div>
-                        
+            
         </div>
 
         <div id="footer_links" class="footer_column" style="width: 18%; min-width: 160px;">
             <!-- <div class="btn"></div> -->
-                        <div class="footer_column_h">LINKS</div>
+            <div class="footer_column_h">LINKS</div>
             <div class="footer-menu">
                 <a target="_blank" href="https://antarctica360.airpano.com/">AirPano Antarctica</a>
                 <a target="_blank" href="https://travelbook.airpano.com/">TravelBook for iOS</a>
-                <a target="_blank" href="https://citybook.airpano.com/">CityBook for iOS</a>
+                <a target="_blank" href="http://citybook.airpano.com/">CityBook for iOS</a>
                 <a target="_blank" href="https://tv.airpano.com/">AirPano for AppleTV</a>
             </div>
-                    </div>
+        </div>
     </div>
 
     <div id="footer_splitter">
@@ -544,17 +633,17 @@
     </div>
 
     <div id="footer_introtext" class="footer_column" style="width: 59%">
-                Our panoramas and photos are widely used by top western companies. Among the clients and partners of AirPano are Google, Microsoft, Adobe, Facebook, LG, Samsung, Nokia and others. AirPano Travel Book app for iOS is one of the best apps of 2014 estimated by Apple.<br>
+        Our panoramas and photos are widely used by top western companies. Among the clients and partners of AirPano are Google, Microsoft, Adobe, Facebook, LG, Samsung, Nokia and others. AirPano Travel Book app for iOS is one of the best apps of 2014 estimated by Apple.<br>
         <a href="/terms_and_conditions.php">Terms and Conditions</a> | <a href="/privacy_policy.php">Privacy Policy</a>
-            </div>
+    </div>
     <div id="footer_contact" class="footer_column" style="width: 40%; ">
         <div style="width: 56%; min-width-: 100px;">
-                        <div class="footer_column_h">Contacts us</div>
-            <a href="tel:+79168276307" class="tel">+7 916-827-63-07</a>
-			<!-- <a href="tel:+79104018302" class="tel">+7 910-401-83-02</a> -->
+            <div class="footer_column_h">Contacts us</div>
+            <!-- <a href="tel:+79168276307" class="tel">+7 916-827-63-07</a> -->
+			<a href="tel:+79104018302" class="tel">+7 910-401-83-02</a>
             <br>
             <a href="mailto:info@airpano.ru" class="email">info@airpano.ru</a>                      
-                    </div>
+        </div>
         <div style="width: 43%; min-width-: 240px;">
             <div class="footer_column_h">AirPano</div>
             <p>2019 © All Rights Reserved</p>
