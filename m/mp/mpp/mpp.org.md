@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2019-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190417084936id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpp.org privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207104617id_/https%3A//www.mpp.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
