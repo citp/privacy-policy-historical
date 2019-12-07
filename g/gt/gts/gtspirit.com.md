@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614075518id_/http%3A//gtspirit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtspirit.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207113206id_/https%3A//gtspirit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GTspirit
 
@@ -32,7 +32,7 @@ Cookies, by themselves, do not provide us with any personally-identifying inform
 
 On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs. These tiny images help us to analyze our users’ online behavior and collect other data, such as page views or advertising responses. Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us. Pixel tags may also be used to deliver cookies.
 
-We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this website](http://www.networkadvertising.org/managing/opt_out.asp).
+We use third-party advertising companies to serve ads and collect information when users visit our site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our site, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this website](https://www.networkadvertising.org/managing/opt_out.asp).
 
 We work with reputable third parties that provide data tracking and collection technologies in order to:
 
