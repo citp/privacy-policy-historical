@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nsandi.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119122237id_/https%3A//www.nsandi.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsandi.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207155546id_/https%3A//www.nsandi.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy notice | NS&I
 
@@ -84,13 +84,17 @@ While this right applies to data processing for any of the purposes listed in th
 
 There are some cases where rectification would not be possible, for example where we have anonymised your personal data for market research purposes or statistical analysis. In these cases it would not be possible to identify your data, so it would be impossible to verify its accuracy or restrict its use or delete it. 
 
-You also have the ‘right to be notified‘ about any rectification of your personal data or restriction of its processing with regard to any organisations if and when we have shared your information with them. You also have the right to be informed of who we share your information with and why. Much of this information is provided in this privacy notice and is again available through a data subject access request (see ‘Right of access’, above) 
+You also have the ‘right to be notified‘ about any rectification of your personal data or restriction of its processing with regard to any organisations if and when we have shared your information with them. You also have the right to be informed of who we share your information with and why. Much of this information is provided in this privacy notice and is again available through a data subject access request (see ‘Right of access’, above). 
+
+You can download and print a right to rectification form or contact us with all the information we ask for on the form. 
+
+[Download a Right to rectification form](https://web.archive.org/files/asset/pdf/gdpr-right-to-rectification-form.pdf)
 
 #### Right to restrict processing 
 
 You can limit the way NS&I uses your personal data if you are concerned about the accuracy of the data or how it is being used. If necessary, you can also stop NS&I deleting your data. Together, these opportunities are known as your ‘right to restriction’. 
 
-Like the right to rectification, this right applies to data processing for any of the purposes listed in the lawful bases section, unless we have anonymised your personal data (for example, for market research purposes or statistical analysis). In these cases it would not be possible to identify your data in order to restrict its use. 
+Like the right to restriction, this right applies to data processing for any of the purposes listed in the lawful bases section, unless we have anonymised your personal data (for example, for market research purposes or statistical analysis). In these cases it would not be possible to identify your data in order to restrict its use. 
 
 You can ask us to temporarily restrict the use of your data when we are considering: 
 
@@ -106,7 +110,7 @@ You may also ask us to restrict the use of your data rather than delete it if:
 
 
 
-There are some cases where rectification would not be necessary, for example: 
+There are some cases where restriction would not be necessary, for example: 
 
   * we have your consent to continue processing your data 
   * the data are needed for legal claims 
@@ -165,6 +169,10 @@ Before objecting you will need to know which lawful basis we are relying on (see
 Generally, the reason we process your personal data will determine whether or not you can object. However, there are some cases where we would be unable to comply with your objection, for example where we have anonymised your personal data for market research or statistical analysis. In these cases it would not be possible to identify your data, so it would be impossible to comply with your right to object. 
 
 We can refuse to comply with your objection if we can prove we have a strong reason to continue processing your data that overrides your objection, or where the use of your data is for a legal claim. 
+
+You can download and print a right to object form or contact us with all the information we ask for on the form. 
+
+[Download a Right to object form](https://web.archive.org/files/asset/pdf/gdpr-right-to-object-form.pdf)
 
 #### Right not to be subject to automated decision-making 
 
