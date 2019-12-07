@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611220657id_/https%3A//www.interfolio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207185603id_/https%3A//www.interfolio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Interfolio
 
-_Last updated on April 2018_
+_Last updated on September 1, 2019_
 
 Interfolio complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data transferred from the European Union to the United States. If there is any conflict between the terms in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall take precedence. To learn more about the Privacy Shield program, the Privacy Shield Principles, and to view our certification, please visit [www.privacyshield.gov](http://www.privacyshield.gov/). Interfolio is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
 
@@ -115,7 +115,7 @@ Certain information is necessary in order for us to provide the Site or Services
 
 Please note that even though you may request the deletion of your Personal Information by us, we may be required (by law or otherwise, such as to prevent fraud, resolve disputes, troubleshoot problems, or enforce our Services Agreement) to keep this information and not delete it (or to keep this information for a certain time) in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives.
 
-In compliance with the Privacy Shield Principles, Interfolio commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact Interfolio at privacy@interfolio.com. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Interfolio, please visit the BBB EU PRIVACY SHIELD website at <http://www.bbb.org/EUprivacy-shield/for-eu-consumers/> for more information and to file a complaint. Finally, as a last resort and under limited circumstances EU individuals with unresolved privacy complaints can invoke binding arbitration before a Privacy Shield Panel.
+In compliance with the Privacy Shield Principles, Interfolio commits to resolve complaints about your privacy and our collection or use of your Personal Information. European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact Interfolio at privacy@interfolio.com. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Interfolio, please visit the BBB EU PRIVACY SHIELD website at [https://www.bbb.org/EU-privacy-shield](https://www.bbb.org/EU-privacy-shield/) for more information and to file a complaint. Finally, as a last resort and under limited circumstances EU individuals with unresolved privacy complaints can invoke binding arbitration before a Privacy Shield Panel.
 
 ### USER FEEDBACK
 
