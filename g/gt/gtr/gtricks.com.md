@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtricks.com privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621221941id_/http%3A//www.gtricks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtricks.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208005152id_/https%3A//www.gtricks.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -49,6 +49,6 @@ Gtricks has implemented commercially reasonable precautions designed to protect 
 Gtricks currently retains all user and business data indefinitely, until you specifically delete the data or shut down your Gtricks account.
 
 **Who can I ask if I have additional questions?**  
-Gtricks is committed to respecting your privacy. This Online Privacy Policy describes the privacy practices for Gtricks applications and their website. In case, you have additional questions, feel free to use the [Contact](http://www.gtricks.com/contact/) page or mail us at 89FB, Scheme 94, Indore-452001, Madhya Pradesh, India.
+Gtricks is committed to respecting your privacy. This Online Privacy Policy describes the privacy practices for Gtricks applications and their website. In case, you have additional questions, feel free to use the [Contact](https://www.gtricks.com/contact/) page or mail us at 89FB, Scheme 94, Indore-452001, Madhya Pradesh, India.
 
-Also see [Disclaimer](http://www.gtricks.com/disclaimer) and [Terms of Service](http://www.gtricks.com/tos).
+Also see [Disclaimer](https://www.gtricks.com/disclaimer) and [Terms of Service](https://www.gtricks.com/tos).
