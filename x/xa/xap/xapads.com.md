@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xapads.com privacy policy that was archived on 2019-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190112074950id_/https%3A//www.xapads.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xapads.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207110319id_/https%3A//www.xapads.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Xapads
+# Privacy Policy | www.xapads.com
 
-## Xapads ‘s Privacy Policy
+## XAPADS ‘S PRIVACY POLICY
 
 The Following Privacy Policy Details the Xapads Pledge to Keep Information Provided By Our Clients Private, Safe & Secure! At Xapads, we take online user privacy very-very seriously and we strongly recommend you to fully read our Privacy policy; explaining how we collect, utilize and protect information and in what circumstances we share it. Xapads – Work Profile
 
