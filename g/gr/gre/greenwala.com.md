@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenwala.com privacy policy that was archived on 2019-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190410053826id_/http%3A//www.greenwala.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenwala.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207230737id_/http%3A//www.greenwala.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
