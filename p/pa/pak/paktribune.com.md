@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paktribune.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628192821id_/http%3A//paktribune.com/contents/privacy-policy-13.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paktribune.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207174946id_/http%3A//paktribune.com/contents/privacy-policy-13.html) for the most accurate reproduction.*
 
 # Privacy Statement - PakTribune
 
