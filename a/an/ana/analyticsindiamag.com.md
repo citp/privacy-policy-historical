@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analyticsindiamag.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330090931id_/https%3A//www.analyticsindiamag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analyticsindiamag.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207054809id_/https%3A//analyticsindiamag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Analytics India Magazine
 
