@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adaware.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624191414id_/https%3A//www.adaware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adaware.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207225346id_/https%3A//www.adaware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Adaware: The best FREE Antivirus & ad block
 
 **Adaware Privacy Policy**
 
-Adaware is a leading actor within the IT security field. We make every effort to protect the privacy of the users of the Adaware web sites, software, and mobile apps (we refer to these Adaware offerings throughout our policy as “Adaware Sites”). Among other things, in this privacy policy, we inform you of what type of personal information that we collect about you when you use the Adaware Sites. We describe the limited purposes for which we collect, process and share your personal information. And we provide information on your rights to the information that you provide us.
+Lavasoft Software Canada Inc. (Adaware) is a leading actor within the IT security field. We make every effort to protect the privacy of the users of the Adaware web sites, software, and mobile apps (we refer to these Adaware offerings throughout our policy as “Adaware Sites”). Among other things, in this privacy policy, we inform you of what type of personal information that we collect about you when you use the Adaware Sites. We describe the limited purposes for which we collect, process and share your personal information. And we provide information on your rights to the information that you provide us.
 
 Please click on the link to the each section below to review more detail.  
  
