@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330055031id_/https%3A//www.pyramydair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207130919id_/https%3A//www.pyramydair.com/privacy-policy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
@@ -233,4 +233,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us by email: secadmin@pyramydair.com
+If you have any questions about this Privacy Policy, please contact us by email: [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
