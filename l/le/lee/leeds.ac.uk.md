@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leeds.ac.uk privacy policy that was archived on 2019-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190609113153id_/https%3A//www.leeds.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leeds.ac.uk privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208000334id_/https%3A//www.leeds.ac.uk/privacy) for the most accurate reproduction.*
 
 # University of Leeds | About > Privacy and cookies
 
@@ -213,9 +213,9 @@ Under the GDPR, in certain circumstances, you have the right to:
 
 **11\. Queries and complaints**
 
-If you have any queries or concerns relating to this privacy notice or the way your data is being processed through this website then please contact the University’s Data Protection Officer, David Wardle on [d.wardle@adm.leeds.ac.uk](mailto:d.wardle@adm.leeds.ac.uk) or by post to University of Leeds, 11.72 EC Stoner Building, Leeds LS2 9JT, UK.  
+If you have any queries or concerns relating to this privacy notice or the way your data is being processed through this website then please contact the University’s Data Protection Officer, Alice Temple on [dpo@leeds.ac.uk](mailto:dpo@leeds.ac.uk) or by post to University of Leeds, 11.72 EC Stoner Building, Leeds LS2 9JT, UK.  
 The University’s main telephone number is +44 (0) 113 2431751.
 
-The UK’s regulator for the DPA and GDPR is the Information Commissioner’s Office (ICO). The University is registered as a Data Controller with the ICO
+The UK’s regulator for the DPA and GDPR is the Information Commissioner’s Office (ICO). The University is registered as a Data Controller with the ICO.
 
 Should you be dissatisfied with our handling of your concerns you have the right to complain to a supervisory authority. In the case of the UK this is the Information Commissioner’s Office and details can be found at [https://ico.org.uk.](https://ico.org.uk/)
