@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silicon.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331015022id_/https%3A//www.silicon.co.uk/privacy-cookie-policy-update) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silicon.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207211232id_/https%3A//www.silicon.co.uk/privacy-cookie-policy-update) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy Update | Silicon UK High Tech News
 
