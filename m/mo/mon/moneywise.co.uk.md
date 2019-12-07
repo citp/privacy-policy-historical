@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the moneywise.co.uk privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403192633id_/https%3A//www.moneywise.co.uk/moneywise-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneywise.co.uk privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207200949id_/https%3A//www.moneywise.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Moneywise Privacy Policy | Moneywise
+# Privacy policy | Moneywise
 
 ## General information
 
 Moneywise takes the issue of privacy very seriously and we are committed to protecting and respecting your privacy. It is our policy to take all necessary steps to ensure that Personal Information held by us is processed fairly and lawfully in accordance with the requirements of all applicable legislation including the General Data Protection Regulations (GDPR). We will take all necessary steps to implement this policy. All our employees and data processors who have access to Personal Information are obliged to respect the confidentiality of your Personal Information.
 
-This policy sets out how we will treat your personal information. If you have any concerns regarding this policy you should contact the Data Protection Officer at [dataprotection@ii.co.uk](mailto:dataprotection@ii.co.uk).
+This policy sets out how we will treat your personal information. If you have any concerns regarding this policy you should contact the Data Protection Officer at [dataprotection@ii.co.uk](mailto:dataprotection@ii.co.uk).
 
 ## Collection of information
 
 When you are on our website
 
-When you log onto our website, we will automatically log certain information about how you are using the website. This may include the URL that you came from, your IP address and the pages that you visited. To find out more read our [cookie policy](https://www.moneywise.co.uk/use-cookies).
+When you log onto our website, we will automatically log certain information about how you are using the website. This may include the URL that you came from, your IP address and the pages that you visited. To find out more read our [cookie policy](https://www.moneywise.co.uk/use-cookies).
 
 ## Competitions, information enquiries and offers
 
@@ -34,11 +34,11 @@ We collect address details and e-mail details at the end of the survey as a sepa
 
 ## Aggregated statistics
 
-We may share your personal data with a third-party auditing organisation (ABC) so they can verify aggregated statistics about circulation and usage of our products or review our policies, processes and procedures for compliance with relevant standards. You can view their privacy policy by following [this link](http://www.abc.org.uk/privacy-policy). 
+We may share your personal data with a third-party auditing organisation (ABC) so they can verify aggregated statistics about circulation and usage of our products or review our policies, processes and procedures for compliance with relevant standards. You can view their privacy policy by following [this link](http://www.abc.org.uk/privacy-policy). 
 
 ## Cookies
 
-We use cookies to manage your experience and to measure the use of our website. By using the site you are giving consent to our use of cookies and 3rd party use of cookies. You can find more information including details on how to manage your settings on our [Use of cookies](https://www.moneywise.co.uk/info/use-of-cookies) page.
+We use cookies to manage your experience and to measure the use of our website. By using the site you are giving consent to our use of cookies and 3rd party use of cookies. You can find more information including details on how to manage your settings on our [Use of cookies](https://www.moneywise.co.uk/info/use-of-cookies) page.
 
 ## Where we store your information
 
