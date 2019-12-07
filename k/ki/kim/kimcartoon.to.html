@@ -1,14 +1,15 @@
-<!--The following is the downloaded HTML source of the kimcartoon.to privacy policy that was archived on 2019-03-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190316001138id_/https%3A//kimcartoon.to/Message/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kimcartoon.to privacy policy that was archived on 2019-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191207060123id_/https%3A//kimcartoon.to/Message/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	
 	Privacy Policy
 
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta property="fb:admins" content="100006233868825"><meta property="fb:app_id" content="130397647116314">
+</title><meta name="propeller" content="a12ab7b2ba0054671eec6971d90202d3"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta property="fb:admins" content="100006233868825"><meta property="fb:app_id" content="130397647116314">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//code.jquery.com/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="/Scripts/common.js?v=1"></script>
 <!-- CSS -->
-<link href="/Content/css/tpl_style.css?v=10.14.1" rel="stylesheet" type="text/css">
+<link href="/Content/css/tpl_style.css?v=10.14.2" rel="stylesheet" type="text/css">
 <link href="/Content/css/upload-progress.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="/Content/images/favicon.ico" type="image/x-icon">
 <!--[if IE 6]><link href="/Content/css/tpl_ie_6.css"  rel="stylesheet" type="text/css" media="screen" /><![endif]-->
@@ -27,10 +28,57 @@
         ga('create', 'UA-63783416-9', 'auto');
         ga('send', 'pageview');
     </script>
-    <script async="" data-cfasync="false" type="text/javascript" src="//yinmyar.xyz/1clk/10526"></script>
     
+    <script async="" data-cfasync="false" type="text/javascript" src="//keapeiros.xyz/1clkn/10526"></script>
+    
+    <script type="text/javascript" src="//services.bilsyndication.com/adv1/?d=850" defer="" async=""></script>
+    <script>var vitag = vitag || {}; vitag.outStreamConfig = { type: "slider", position: "right" };</script>
 </head>
 <body>
+    <div id="adbWarnContainer" class="adbWarnContainer">
+        <div class="background"></div>
+        <div class="content">
+            <p style="color: #ff0000; font-size: 20px;">PLEASE DISABLE ADBLOCK</p>
+            <p><img src="/Content/images/adb.png"></p>
+            <p>Adblock extensions will affect to a several website features, the VIDEO might to be UNPLAYABLE because of that. Please turn off for best experience!</p>
+            <p><a id="closeAdbWarn" href="javascript:void(0);" class="aButton" style="width: 140px; padding: 5px;">OK! I understood</a></p>
+        </div>
+    </div>
+    <script type="text/javascript">
+        $('#closeAdbWarn').click(function() {
+            $('#adbWarnContainer').remove();
+            setCookieInMin('adbWarn', 1, 30);
+        });
+
+        var adbWarn = getCookie('adbWarn');
+        if (adbWarn == null) {
+            $.ajaxSetup({
+                cache: false
+            });
+
+            var alb = true;
+
+            $.getScript('https://pubmatic.com/wp-content/themes/pubmatic/js/jquery.alignHeight.js?ver=1.0').done(function(script, textStatus) {
+                alb = false;
+            });
+
+            $.getScript('https://propellerads.com/wp-content/plugins/radiantthemes-addons/tabs/js/radiantthemes-tab-element-four.js').done(function(script, textStatus) {
+                alb = false;
+            });
+
+            $.getScript('https://www.bebi.com/js/plugins.js').done(function(script, textStatus) {
+                alb = false;
+            });
+
+            setTimeout(function() {
+                if (alb) {
+                    $('#adbWarnContainer').css({
+                        display: "block"
+                    });
+                }
+            }, 8000);
+        }
+    </script>
     
     <div id="containerRoot">
         <div id="head">
@@ -165,6 +213,9 @@
             <li id="liRequest"><a rel="nofollow" target="_blank" href="https://www.facebook.com/messages/t/kimcartoonfp">
                 Request Cartoon</a></li>
             
+            <li><a href="/Mobile/SwitchToMobile">Mobile</a></li>
+            
+            <li id="li2"><a target="_blank" href="https://readcomiconline.to">Read Comic</a></li>
         </ul>
     </div>
 </div>
@@ -223,36 +274,14 @@
         <div class="clear">
             &nbsp;</div>
         
-
-
-<!-- BEGIN BEBI SKIN JS TAG -->
-<script type="text/javascript">
-    if(!window.BB_ind) { BB_ind = 0; }
-    if(!window.BB_r) { BB_r = Math.floor(Math.random()*1000000000)}
-    BB_ind++;
-
-    window.BB_skin = {
-        centerWidth: 1038,
-        centerDomId: '',
-        leftOffset: 5,
-        rightOffset: 5,
-        topPos: 0,
-        deferLoading: false,
-        fixed: true,
-        fixedStickTopOnScroll: true,
-        fixedScrollSecondaryTop: 0,
-        adjustSkinOnDynamicCenter: true,
-        zIndex: 0,
-        leftFrameId: '',
-        rightFrameId: '',
-
-        pl: 41349,
-        index: BB_ind
-    };
-
-</script>
-<script type="text/javascript" async="" src="//st.bebi.com/bebi_v3.js"></script>
-<!-- END TAG -->
+<div style="position: fixed; top: 0px; left: 0px; z-index: 100; width: 100%; height: 600px; overflow: hidden; visibility: hidden;">
+    <div style="position: absolute; left: 50%; margin-left: -684px; margin-right: 0px; visibility: visible;">
+        <div class="adsbyvli" data-ad-slot="vi_8502068"></div><script>(vitag.Init = window.vitag.Init || []).push(function() { viAPItag.display("vi_8502068") })</script>
+    </div>
+    <div style="position: absolute; left: 50%; margin-left: 524px; margin-right: 0px; visibility: visible;">
+        <div class="adsbyvli" data-ad-slot="vi_8502071"></div><script>(vitag.Init = window.vitag.Init || []).push(function() { viAPItag.display("vi_8502071") })</script>
+    </div>
+</div>
 
 
     </div>
@@ -271,43 +300,14 @@
         $('#footer').css('top', $(document).height() - $('#containerRoot').height());
     </script>
     
-    
 
 
 
 
-<script data-cfasync="false" type="text/javascript" src="//inastina.pw/rzctjidpyrqGaHyS/10790"></script>
 
-    <div class="top_page_alert">Adblock extensions will affect to a several website features. Please turn it off for best experience!</div>
-    <script type="text/javascript">
-        $.ajaxSetup({
-            cache: false
-        });
+<script data-cfasync="false" type="text/javascript" src="//arcartall.club/rL1xkQ3AI7dDIkJw/10790"></script>
 
-        var alb = true;
 
-        $.getScript('https://pubmatic.com/wp-content/themes/pubmatic/js/jquery.alignHeight.js?ver=1.0').done(function(script, textStatus) {
-            alb = false;
-        });
-
-        $.getScript('https://propellerads.com/wp-content/plugins/radiantthemes-addons/tabs/js/radiantthemes-tab-element-four.js').done(function(script, textStatus) {
-            alb = false;
-        });
-
-        $.getScript('https://www.bebi.com/js/plugins.js').done(function(script, textStatus) {
-            alb = false;
-        });
-
-        setTimeout(function() {
-            if (alb) {
-                $('.top_page_alert').css({
-                    background: "#ff0000",
-                    display: "block"
-                });
-            }
-        }, 8000);
-    </script>
-    
 
 
 </body></html>
