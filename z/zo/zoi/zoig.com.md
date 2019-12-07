@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoig.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508051341id_/https%3A//www.zoig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoig.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207223816id_/https%3A//www.zoig.com/privacy) for the most accurate reproduction.*
 
 # ZOIG.COM - Privacy policy
 
