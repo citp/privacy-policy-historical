@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616160536id_/https%3A//cosmicbook.news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207225847id_/https%3A//cosmicbook.news/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cosmic Book News
 
@@ -90,7 +90,7 @@ You will be notified of any Privacy Policy changes:
 
 Can change your personal information:
 
-**•** By emailing us ([[email protected]](https://web.archive.org/cdn-cgi/l/email-protection))
+**•** By emailing us (webmaster@cosmicbooknews.com)
 
 **How does our site handle Do Not Track signals?**
 
@@ -145,15 +145,17 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 **If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-[[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will promptly remove you from **ALL** correspondence.
+webmaster@cosmicbooknews.com and we will promptly remove you from **ALL** correspondence.
 
 **GDPR:**
 
-Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [[email protected]](http://privacy@exponential.com/).
+Exponential Interactive, Inc, as our partner, have a legitimate interest to collect and profile personal data in the form of IP address and cookie ID from users on our website in order to provide targeted online advertising and ad measurement. For more details including opt-out requests, access requests or complaints, please review their [privacy policy](http://exponential.com/privacy/) or contact their data protection officer via [privacy@exponential.com](http://privacy@exponential.com/).
 
 **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.  
  
+
+webmaster@cosmicbooknews.com
 
 Last Edited on 2018-05-21
