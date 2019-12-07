@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the techxplore.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630194858id_/https%3A//sciencex.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techxplore.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207200111id_/https%3A//sciencex.com/help/privacy) for the most accurate reproduction.*
 
 # Science X Network :: Phys.org, Medical Xpress, Tech Xplore
 
 Your privacy on the Internet is of the utmost importance to us. At Science X, we want to make your experience online satisfying and safe. 
 
-This Privacy Policy governs your use of **Science X and its network** ('Science X'), including its websites (phys.org, medicalxpress.com, techxplore.com), any subdomains of those websites, mobile sites, apps, and APIs.
+This Privacy Policy governs your use of **Science X and its network** ('Science X'), including all of the products, services, and websites (phys.org, medicalxpress.com, techxplore.com), any subdomains of those websites, mobile sites, apps, and APIs.
 
 We automatically receive and record certain personal data of yours when you visit our websites. This includes device model, IP address, the type of browser and operating system being used. 
 
@@ -30,7 +30,7 @@ Consistent with the Federal Children's Online Privacy Protection Act of 1998 (CO
 
 ### Third-party advertisements
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site or mobile application. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+We may allow third-party companies to serve ads and/or collect certain anonymous information when you use our services, visit our web sites or mobile applications. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 ### Audience measurement
 
