@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscrapercity.com privacy policy that was archived on 2019-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190505161609id_/http%3A//www.versatile.ky/websiteacquisitions/site-privacy-policy/index.php%3Fsite%3Dskyscrapercity.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscrapercity.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207173647id_/http%3A//www.versatile.ky/websiteacquisitions/site-privacy-policy/index.php%3Fsite%3Dskyscrapercity.com) for the most accurate reproduction.*
 
 # 
 
