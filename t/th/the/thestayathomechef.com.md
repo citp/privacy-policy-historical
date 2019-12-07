@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the thestayathomechef.com privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319080844id_/https%3A//thestayathomechef.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestayathomechef.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207224630id_/https%3A//thestayathomechef.com/policies) for the most accurate reproduction.*
 
 # Policies - thestayathomechef.com
 
 The Stay At Home Chef is a property of Farnsworth Media LLC  
-**_  
+ ** _  
 _**  
-**_Content Use Policy_**
+ ** _Content Use Policy_**
 
 Before using any content from this blog, including pictures or recipes, please contact me for permission at stayathomechefblog at gmail dot com. All work is copyright of Rachel Farnsworth and The Stay At Home Chef. Any use of material without written consent is prohibited.
 
@@ -17,7 +17,7 @@ The Stay At Home Chef is a participant in other affiliate programs including Com
 
 **_Disclosure Policy_**
 
-This blog is a personal blog written and edited by me. For questions about this blog, please contact GlitterWalkerBlog@gmail.com.
+This blog is a personal blog written and edited by me. For questions about this blog, please contact [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection)
 
 This blog accepts forms of cash advertising, sponsorship, paid insertions or other forms of compensation.
 
@@ -43,6 +43,6 @@ We also use third party advertisements on www.thestayathomechef.com to support
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-### Get New Recipes Sent To Your Inbox 😃
+### Get New Recipes Sent To Your Inbox ?
 
 Join my newsletter and get new mouth watering recipes sent directly to you weekly!
