@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the high-logic.com privacy policy that was archived on 2017-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20171118190638id_/http%3A//www.high-logic.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the high-logic.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207061712id_/https%3A//www.high-logic.com/privacy-policy) for the most accurate reproduction.*
 
-# High-Logic - Privacy Policy
-
-#### Privacy Policy
-
-* * *
+# Privacy Policy
 
 Updated: Thursday, July 23, 2009
 
@@ -26,7 +22,7 @@ We will not sell your e-mail address, nor do we provide it to advertisers or mas
 
 ##### Newsletter (opt-in mailing list)
 
-Information gathered from e-newsletter subscriptions is used to provide you with the e-mails you have requested and to allow us to customize future e-mail and e-newsletter offerings. You may remove yourself from our electronic mailing lists by following the directions included in each e-mail or at [this page](http://www.high-logic.com/newsletter.html).
+Information gathered from e-newsletter subscriptions is used to provide you with the e-mails you have requested and to allow us to customize future e-mail and e-newsletter offerings. You may remove yourself from our electronic mailing lists by following the directions included in each e-mail or at this page.
 
 ##### Ordering
 
@@ -38,7 +34,7 @@ This website provides links to websites outside of High-Logic. High-Logic is not
 
 ##### Copyright
 
-All documents, information and logos included on this website are copyright High-Logic 1997-2011, except where noted otherwise. You may access, download and print materials on this web site for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from this web site. Furthermore, you may not use the materials found on this web site on any other web sites or in a networked environment without written permission by High-Logic.
+All documents, information and logos included on this website are copyright High-Logic, except where noted otherwise. You may access, download and print materials on this web site for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from this web site. Furthermore, you may not use the materials found on this web site on any other web sites or in a networked environment without written permission by High-Logic.
 
 ##### Terms of Use
 
@@ -48,4 +44,6 @@ All advice provided on this website is for general informational purposes only. 
 
 If we decide to change our privacy policy commitment, we will post changes here. We reserve the right to change our privacy policy without notice.
 
-Please feel free to [contact us](http://www.high-logic.com/company/contact-us.html) with any questions you may have about this privacy policy.
+\--
+
+Please feel free to contact us with any questions you may have about this privacy policy.
