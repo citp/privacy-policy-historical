@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricecheck.co.za privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630215044id_/https%3A//www.pricecheck.co.za/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricecheck.co.za privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208000848id_/https%3A//www.pricecheck.co.za/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Compare Prices Online | PriceCheck
 
