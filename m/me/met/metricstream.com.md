@@ -1,26 +1,24 @@
-> *The following text is extracted and transformed from the metricstream.com privacy policy that was archived on 2017-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170728214155id_/https%3A//www.metricstream.com/about-us/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metricstream.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207053428id_/https%3A//www.metricstream.com/about-us/privacy-policy.htm) for the most accurate reproduction.*
 
 # MetricStream Privacy Policy
-
-**MetricStream Privacy Policy**
 
 In this Privacy Policy, "MetricStream", "us", "we" and "our" refers to MetricStream Inc.
 
 MetricStream is committed to protecting your privacy. This privacy statement explains MetricStream's data collection and use practices. By accessing this site, you agree to the terms of this Privacy Policy. This policy does not override any terms directly established between you and MetricStream.
 
-**MetricStream International Compliance**
+### **MetricStream International Compliance**
 
 This Privacy Policy also explains how we will store your information in the United States, in the European Economic Area (EEA), and in other locations outside of the EEA. Any transfer of your data to the United States or another location outside the European Economic Area will be in compliance with applicable European data protection laws and in respect of transfers to the United States comply with the E.U. - U.S. Privacy Shield Framework, details of which are set out below.
 
-**Collection and Use of Information**
+### **Collection and Use of Information**
 
 Parts of this site may invite you to register for events, download white papers or literature, or obtain more information. MetricStream collects the email addresses of those who communicate via email, as well as information volunteered by consumers, such as in information requests and/or site registrations. Under no circumstances will any information provided to MetricStream be sold or rented to a third party without your prior consent. MetricStream may use your contact information to send you company and product information that you requested, and for marketing analysis of MetricStream' website traffic.
 
-This site may use technology that lets MetricStream collect certain technical information, such as IP addresses, browser types, traffic patterns and the address of any referring Web sites, and uses HTTP cookies for systems administration. However, if you do not wish to receive cookies, or want to be notified of when they are placed, you may set your Web browser to do so, if your browser so permits.
+This site may use technology that lets MetricStream collect certain technical information, such as IP addresses, browser types, traffic patterns and the address of any referring Web sites  and uses HTTP cookies for systems administration. However, if you do not wish to receive cookies, or want to be notified of when they are placed, you may set your Web browser to do so, if your browser so permits.
 
-MetricStream may monitor how a visitor arrives at the Web site, but cannot and will not gather information about other sites you have been on. MetricStream does not link IP addresses to anything personally identifiable.
+MetricStream may monitor how a visitor arrives at the Web site but cannot and will not gather information about other sites you have been on. MetricStream does not link IP addresses to anything personally identifiable.
 
-**Use of Personal Information**
+### **Use of Personal Information**
 
 MetricStream may use your personal information for the following purposes:
 
@@ -34,41 +32,37 @@ You may remove your name from any MetricStream' distribution list by clicking on
 
 If you supply MetricStream with your telephone number online, you may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by calling the telephone number below.
 
-**Links to Other Sites**
+### **Links to Other Sites**
 
 MetricStream' website may provide links that can take you to other Web sites, which may include MetricStream' partner Web sites. You should review the privacy and other policies at third party sites you visit, since those sites are not bound by MetricStream' privacy policy, and MetricStream has no control over the content of these other sites, nor the usage of information they gather.
 
-This Privacy Policy covers the privacy practices by MetricStream, and does not cover the privacy practices of third party websites or features. MetricStream is not responsible for the privacy policies and/or practices of third parties.
+This Privacy Policy covers the privacy practices by MetricStream and does not cover the privacy practices of third party websites or features. MetricStream is not responsible for the privacy policies and/or practices of third parties.
 
-**Legal Compliance**
+### **Legal Compliance**
 
 We reserve the right to access and disclose your information when we believe in good faith that such disclosure is necessary to: (a) enforce legal rights and comply with the law; (b) comply with an order from a government entity or other competent authority, (c) prevent or address potential or actual injury or interference with our rights, property, operations, users or others who may be harmed or may suffer loss or damage; (d) protect our rights, prevent fraud and/or comply with judicial proceeding, court order, or legal process served on MetricStream.
 
-**Law Enforcement**
+### **Law Enforcement**
 
 Under certain circumstances, we may be required to disclose your information to government or law enforcement officials in response to a lawful request by a public authority or if we have to do so to comply with a legal obligation, including to meet national security or law enforcement requirements. We can also disclose your information in order to apply or enforce our terms and conditions or to respond to any claims, to protect our rights or the rights of a third party, to protect the safety of any person or to prevent or prevent any illegal activity (including for the purposes of fraud protection and credit risk reduction).
 
 You will be notified when any identifying information about you is collected or shared by any third party that is not our service provider, so you can make an informed choice as to whether to share your information with that party. If you do not wish to have your information shared and want to opt out from receiving further communications from any third party that is not our agent or service provider, please contact that third party directly.
 
-**Security**
+### **Security**
 
 Protecting your privacy and your information is a top priority at MetricStream. MetricStream has taken appropriate measures to prevent the loss, misuse and alteration of your information (including as required by the Privacy Shield (described below). Once MetricStream receives information that is entered into its Web site, it is stored behind a firewall. All MetricStream employees are aware of the company's privacy and security policies. Your information is only accessible to those employees who need it in order to perform their jobs.
 
-**Privacy Shield - EU - US Data Transfers  **
+### **Privacy Shield - EU - US Data Transfers  **
 
-If you are located inside the EU and provide personal data to us, MetricStream may transfer your personal data to the United States with your prior permission and process it in the United States in accordance with this Privacy Policy. 
+If you are located inside the EU and provide personal data to us, MetricStream may transfer your personal data to the United States with your prior permission and process it in the United States in accordance with this Privacy Policy.
 
-**Our Obligations to you under the Privacy Shield**
+### **Our Obligations to you under the Privacy Shield**
 
-MetricStream complies with the EU-U.S Privacy Shield Framework (“ **Privacy Shield** ”) as set forth by the U.S. Department of Commerce and approved by the European Commission regarding the collection, use, and retention of personal information MetricStream may receive from European Union member countries.
+MetricStream has filed its recertification application with the EU-U.S Privacy Shield Framework (“ **Privacy Shield** ”) as set forth by the U.S. Department of Commerce and approved by the European Commission regarding the collection, use, and retention of personal information MetricStream may receive from European Union member countries.
 
-MetricStream has certified that it adheres to the following Privacy Shield Principles of (1) Notice; (2) Choice; (3) Accountability for Onward Transfer; (4) Security; (5) Data Integrity and Purpose Limitation; (6) Access; and (7) Recourse, Enforcement and Liability in respect of any personal data received from the European Union.
+MetricStream has certified that it adheres to the following Privacy Shield Principles of (1) Notice; (2) Choice; (3) Accountability for Onward Transfer; (4) Security; (5) Data Integrity and Purpose Limitation; (6) Access; and (7) Recourse, Enforcement and Liability in respect of any personal data received from the European Union. If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall take priority.  To learn more about the Privacy Shield program, and to view our pending recertification status on the Privacy Shield List, please visit <https://www.privacyshield.gov/>
 
-If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall take priority. 
-
-To learn more about the Privacy Shield program, and to view our certification page on the Privacy Shield List, please visit <https://www.privacyshield.gov/>
-
-**Accountability and Liability for Onward Transfer**
+### **Accountability and Liability for Onward Transfer**
 
 MetricStream is required to take certain steps when transferring personal data received from the European Union to third parties (such as including contractual provisions in our third party contracts which require them to provide the same level of protection the Privacy Shield requires and limiting their use of the data to the specified services provided on our behalf).
 
@@ -76,11 +70,9 @@ We take reasonable and appropriate steps to ensure that third parties process pe
 
 Under certain circumstances, we may remain liable for the acts of third parties who perform services on our behalf in connection with their handling of personal data that we transfer to them (including where we transfer personal data to them pursuant to the Privacy Shield).
 
-**Privacy Complaints Handling, Recourse and Enforcement**
+### **Privacy Complaints Handling, Recourse and Enforcement**
 
-In compliance with the Privacy Shield Principles, MetricStream commits to resolve complaints about your privacy and our collection or use of your personal information (without charge to you). European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact us at:
-
-[privacypolicy@metricstream.com](mailto:privacypolicy@metricstream.com)
+In compliance with the Privacy Shield Principles, MetricStream commits to resolve complaints about your privacy and our collection or use of your personal information (without charge to you). European Union individuals with inquiries or complaints regarding this Privacy Policy should first contact us at:[privacypolicy@metricstream.com](mailto:privacypolicy@metricstream.com)
 
 We will respond to any complaints as soon as possible and within 45 days.
 
@@ -90,25 +82,59 @@ Please note that if your complaint is not resolved through these channels, in ce
 
 MetricStream is subject to the investigatory and enforcement powers of the Federal Trade Commission in the case of any failure to comply with the Privacy Shield.
 
-**Access to information**
+### **Access to information**
 
 You have the right to access the personal data we collect about you in the EEA and to request that we correct, amend, or delete it if it is inaccurate or processed in violation of the Privacy Shield. These access rights may not apply in some cases, including where we must comply with legal requirements or if providing access is unreasonably burdensome or expensive under the circumstances or where it would violate the rights of someone other than the individual requesting access.
 
 If you would like to request access to, correction, or deletion of your personal data collected in the EEA, you can submit a written request using the contact information provided below. We may request specific information from you in order to confirm your identity. In some circumstances, we may charge a reasonable fee for access to your information.
 
-**Processing information for our enterprise customers:**
+### **Processing information for our customers and GDPR:**
 
 Where we process personal information in connection with the provision of our software solutions to our enterprise customers, we only collect, process and store personal information to support and provide those solutions. We act as data processors on behalf of our customers and do not use such information for our own purposes. You should refer to the agreements governing your use of those solutions with such enterprises to find out more about how your data is being used by them.
 
-**Modifications**
+### **MetricStream as Data Processor**
+
+MetricStream Applications and Cloud Services provide Governance, Risk, and Compliance (GRC) systems of records to its customers. As a service provider to its customers, MetricStream applications may capture personal data (name, email address, contact info, company affiliation) to track the records entered into the system from an authentication and authorization perspective. In this capacity, MetricStream acts as a data processor on behalf of its customers.
+
+As a data processor, MetricStream has put in place appropriate technical and organizational measures to help ensure that its processing activities meet the requirements of GDPR, some of which we have described in this statement.
+
+MetricStream has implemented various security measures including controls and application and network level security audits by third-parties as well as robust standard operating procedures to manage any security incident in collaboration with the customer.
+
+MetricStream has self-certified under the EU-U.S. Privacy Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce and approved by the European Commission regarding the collection, use, and retention of personal information MetricStream may receive from the European Union.  You can read our Privacy Shield statement on our website.
+
+MetricStream is committed to ensuring that it has data transfer and data management mechanisms in place as required by the GDPR.  Further, as an ISO 27001 and SSAE16 SOC 2 certified organization, MetricStream adheres to all necessary controls to protect customer data.
+
+### **MetricStream Customers as Data Controller**
+
+MetricStream is working with its customers to enable them with specific capabilities within its applications to assist them in meeting their GDPR requirements.  These measures include the following:
+
+**_Processing Records and Audit Trail:_**
+
+MetricStream applications are designed to assist customers with their record keeping and accountability obligations by providing audit trails for information changes within the system which captures the data flow and user navigation from login to logout.
+
+**_Data Purge and Archiving_** **:**  MetricStream applications are designed to provide capabilities to its customers to assist responding to requests by end users exercising their rights under GDPR.  For example, MetricStream applications help its customer end users to find out where personal information is captured and used.  If an end user asks for removal of their personal information (right-to-erasure) we will work with our customer to provide a solution while preserving the tenents of GRC. MetricStream will work with our customers to on a case-by-case basis using a data-change request.
+
+**_Information access authorization management_** **:**  MetricStream applications are designed to provide customers with administrative access to manage user information along with user roles and responsibilities across the system.
+
+**_Robust Incident Management capability_** **:**  MetricStream Cloud team will work in collaboration with customers to institute robust GDPR compliant standard operating procedures for security breach related incidents
+
+**_Contractual obligations_** **:  **MetricStream will work with customers to confirm appropriate data processing agreements are in place.
+
+### **Brexit**
+
+MetricStream is monitoring the current developments with regards to UK Brexit and regulations that may arise.  
+MetricStream anticipates there will minimal or no impact to our Cloud (hosted) customers if there is a Brexit event, and any possible disruptions will governed by the standard terms of the Cloud Service Tier that customers have opted for. With regards to data privacy MetricStream complies with EU-US Privacy Shield requirements.  
+MetricStream will continue to keep you updated.
+
+### **Modifications**
 
 MetricStream may, in its discretion, alter or add to this Privacy Policy. You should check this part of MetricStream' Web periodically to determine if there has been a change. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on our home page.
 
-**General**
+### **General**
 
-This Privacy Policy reflects MetricStream' internal guidelines, and is not a contract.
+This Privacy Policy reflects MetricStream' internal guidelines and is not a contract.
 
-**MetricStream Contact Information**
+### **MetricStream Contact Information**
 
 Questions regarding this policy and any requests to access or modify data should be directed to our data privacy team at the following email address: [privacypolicy@MetricStream.com](mailto:privacypolicy@MetricStream.com)
 
