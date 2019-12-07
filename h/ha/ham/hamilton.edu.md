@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamilton.edu privacy policy that was archived on 2019-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190621113424id_/https%3A//www.hamilton.edu/gdpr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamilton.edu privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207154316id_/https%3A//www.hamilton.edu/gdpr) for the most accurate reproduction.*
 
 # GDPR - Hamilton College
 
