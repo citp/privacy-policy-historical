@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523083605id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliveroo.ie privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207061005id_/https%3A//deliveroo.ie/privacy) for the most accurate reproduction.*
 
 # Deliveroo Privacy Policy - Deliveroo
 
@@ -28,13 +28,15 @@ You can set your browser to refuse all or some browser cookies, or to alert you 
 
 ## 7\. Direct Marketing
 
-Where you have given your consent or where we have a justifiable reason for doing so (and are permitted to do so by law) we will use your information to let you know about our other products and services that may be of interest to you and we may contact you to do so by email or phone. You can control your email marketing preferences by:
+Where you have given your consent or where we have a justifiable reason for doing so (and are permitted to do so by law) we will use your information to let you know about our other products and services that may be of interest to you and we may contact you to do so by email or phone (including by push notification). You can control your email marketing preferences by:
 
   * visiting our website, [www.deliveroo.ie](https://www.deliveroo.ie/), or mobile application;
   * clicking on "Account" (for our website this is under the drop-down menu); and
   * scrolling down to "Marketing Preferences".
 
 
+
+You can control your push notification marketing preferences either by changing your preferences on your mobile device or by getting in touch with us (see Contact Details).  
 
 ## 8\. Automated Decision Making
 
@@ -60,7 +62,7 @@ Under data protection law, you may have a number of rights concerning the data w
 
 Any changes to our privacy policy will be posted to the Sites and, where appropriate, we will notify you of the changes for example by email or push notification.
 
-This privacy policy was last updated: 22/05/2018
+This privacy policy was last updated: June 2019
 
 ## 14\. Complaints
 
