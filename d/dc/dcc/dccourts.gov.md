@@ -1,19 +1,7 @@
-> *The following text is extracted and transformed from the dccourts.gov privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144108id_/http%3A//www.dccourts.gov/dccourts/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccourts.gov privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207112302id_/https%3A//www.dccourts.gov/privacypolicy) for the most accurate reproduction.*
 
-# About D.C. Courts - Privacy & Security
+# Privacy Policy | District of Columbia Courts
 
-The District of Columbia Courts ("D.C. Courts") are committed to protecting the privacy of all visitors to our website.
+If you visit our website to view or download information, we collect and store the following navigational information: 1) the browser you use to access the website; 2) the pages that you visit; 3) the date and time any page on the website is accessed; and 4) if you linked to dccourts.gov from another website, the referring website. This navigational information is used to assist us in making our website more useful.
 
-**Collection and Use of Online Information  
-**Our web server automatically collects your Internet Protocol (IP) address when you visit our site. Your IP address is your computer's unique address that lets other computers attached to the Internet know where to send data, but rarely can be used to identify you individually. We use your IP address solely to help diagnose problems with our server and to compile statistics about site usage. We will not make your IP address available to anyone outside the D.C. Courts technology staff, unless required to do so by law. 
-
-To help us provide better service and a more effective website, sections of this site may use "cookies" as part of its interaction with your browser. A cookie is a small text file that we place on your hard drive to allow our server to identify your computer. Our cookies will not attempt to read any additional information on your hard drive, and we do not combine information collected through cookies with other personal information to determine your identity or your email address. 
-
-**Secure Transmissions  
-**Please be assured that this site is equipped with security measures to protect the information you provide us.
-
-**Protection of Personal Information  
-**Your personal information will not be shared, sold, or transferred to any third party without your prior consent, or unless it is required by law. It is available to D.C. Courts web development employees and contractors only for the purpose of maintaining the DCCourts.Gov web portal and improving the site visitor experience.
-
-**Other Sites  
-**The D.C. Court's privacy policy extends to the District of Columbia Courts' website only.
+If you choose to provide us with personal information by submitting a form such as the language access feedback form, the information will be used only for the purposes for which it is being submitted.
