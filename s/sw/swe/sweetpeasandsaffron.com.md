@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetpeasandsaffron.com privacy policy that was archived on 2019-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190426023039id_/https%3A//sweetpeasandsaffron.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetpeasandsaffron.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207075234id_/https%3A//sweetpeasandsaffron.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy & Terms Of Use | Sweet Peas and Saffron
 
