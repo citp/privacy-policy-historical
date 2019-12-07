@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiskybase.com privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613012617id_/https%3A//whiskybase.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiskybase.com privacy policy that was archived on 2019-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191207030509id_/https%3A//www.whiskybase.com/page/privacy) for the most accurate reproduction.*
 
 # Whiskybase - Ratings and reviews for whisky
 
