@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mvmtwatches.com privacy policy that was archived on 2018-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180627095752id_/https%3A//www.mvmtwatches.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mvmtwatches.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208001624id_/https%3A//www.mvmtwatches.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – MVMT
 
-**Last Updated: May 24, 2018**
+**Last Updated: November 1, 2018**
 
-MVMT Watches Inc. (“MVMT”, “us”, “we” or “our”) is committed to protecting the privacy and confidentiality of Personal Information we may collect. MVMT has created this privacy policy (“Privacy Policy”) to advise you about our information practices, such as the types of information we collect and how we may use that information, and to inform you about your privacy rights and how the law protects you. We urge you to read this Privacy Policy carefully to understand our policies and practices regarding your Personal Information and how we will treat it.  By visiting any part of our Websites (as defined below) or otherwise providing MVMT with Personal Information by any means, you accept and agree to the practices described in this Privacy Policy and your continued use of the Websites (following the posting of a revised privacy policy) means that you accept and agree to the terms of the revised privacy policy, so please check the policy periodically for updates.
+Movado Group, Inc. d/b/a MVMT (“MVMT”, “us”, “we” or “our”) is committed to protecting the privacy and confidentiality of Personal Information we may collect. MVMT has created this privacy policy (“Privacy Policy”) to advise you about our information practices, such as the types of information we collect and how we may use that information, and to inform you about your privacy rights and how the law protects you. We urge you to read this Privacy Policy carefully to understand our policies and practices regarding your Personal Information and how we will treat it.  By visiting any part of our Websites (as defined below) or otherwise providing MVMT with Personal Information by any means, you accept and agree to the practices described in this Privacy Policy and your continued use of the Websites (following the posting of a revised privacy policy) means that you accept and agree to the terms of the revised privacy policy, so please check the policy periodically for updates.
 
 Individuals in the European Union (“EU”) should be sure to read the important information provided below, in addition to the other provisions in this Privacy Policy.
 
@@ -36,7 +36,7 @@ Individuals in the European Union (“EU”) should be sure to read the importan
 
 ##  **A.  ** **APPLICATION OF THIS PRIVACY POLICY**
 
-This Privacy Policy applies to www.mvmtwatches.com and all other websites, features, or online services that are owned or controlled by MVMT and that post a link to this Privacy Policy (collectively, the “Websites”), whether accessed via computer, mobile device, or otherwise. Note, however, this Privacy Policy does not apply to use of unaffiliated websites that link to our Websites. Once you enter another website (whether through an advertisement, service, or content link), be aware that we are not responsible for the privacy practices of such other websites.
+This Privacy Policy applies to www.mvmtwatches.com and all other websites, features, or online services that are both (i) owned or controlled by MVMT and (ii) post a link to this Privacy Policy (collectively, the “Websites”), whether accessed via computer, mobile device, or otherwise. Note, however, this Privacy Policy does not apply to use of unaffiliated websites that link to our Websites. Once you enter another website (whether through an advertisement, service, or content link), be aware that we are not responsible for the privacy practices of such other websites.
 
 ##  **B.  ** **PURPOSE OF THIS PRIVACY POLICY**
 
@@ -50,7 +50,7 @@ The Websites are not designed for, or directed to, children under the age of 16 
 
 ##  **D.  ** **CHANGES TO THE PRIVACY POLICY AND YOUR DUTY TO INFORM US OF CHANGES**
 
-This version was last updated on May 24, 2018 and historic versions can be obtained by contacting us.
+This version was last updated on November 1, 2018 and historic versions can be obtained by contacting us.
 
 We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Websites. Any such change, update or modification will be effective immediately upon posting on the Websites. If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice of such changes at <http://www.mvmtwatches.com/pages/privacy-policy>. However, unless you consent, MVMT will not use your Personal Information in a manner materially different than what was stated in our posted Privacy Policy at the time your Personal Information was collected. Please check this Privacy Policy regularly to ensure you are aware of any changes in our practices.
 
@@ -127,7 +127,7 @@ We do not collect any **Special Categories** of Personal Information about you (
   * give us feedback about products, services, or the Websites.
 
 
-  * **Automated technologies or interactions.** As you navigate through the Websites, we may automatically collect Technical, Usage, and Location Information about your equipment, browsing actions and patterns. We collect this Personal Information by using cookies, pixel tags, embedded scripts and other similar technologies. [We may also receive Technical Information about you if you visit other websites employing our cookies.]
+  * **Automated technologies or interactions.** As you navigate through the Websites, we may automatically collect Technical, Usage, and Location Information about your equipment, browsing actions and patterns. We collect this Personal Information by using cookies, pixel tags, embedded scripts and other similar technologies. We may also receive Technical Information about you if you visit other websites employing our cookies.
 
 
   * **Cookies** \- Cookies are small data files that a website sends to your Device while you are viewing the website that are stored on the Device. Cookies can be used for many purposes, including to monitor use of websites, to customize content specific to your interests, to ensure that you do not see the same advertisement repeatedly, to speed up your searches and purchases and to recognize you when you return to our Websites and/or store your user name and password so you do not have to re-enter it each time you visit the Websites. You may refuse to accept cookies by activating the appropriate setting on your browser. However, if you choose to disable cookies on your Device, some features of the Websites or our content may not function properly.
@@ -301,7 +301,7 @@ We may disclose the information we have collected about you, including Personal 
 
 ##  **A.              ****INTERNAL THIRD PARTIES**
 
-MVMT may, and reserves the right to, share your information with any other company that is not presently, but becomes, a MVMT parent, subsidiary, or affiliate.
+MVMT shares your information with the Movado Group of affiliated companies worldwide. This may require a transfer of your personal data to the United States and to countries outside the country in which we originally collected the information. When we transfer your information to other countries we will protect that information as described in this Privacy Policy. Details of the Movado Group of affiliated companies are provided in Section XIV of this Privacy Policy.
 
 You may be presented with an opportunity to receive information and/or marketing offers from MVMT and our affiliated businesses, partners and agents. If you agree at that time to receive such communications, your Personal Information will be disclosed to that third party (or parties). For more information, please refer to the Marketing Communications section.
 
@@ -394,9 +394,13 @@ We have put in place procedures to deal with any suspected Personal Information 
 
 The Websites are hosted and operated in the United States and MVMT and its third party service providers and partners operate in the United States and other jurisdictions. If you are located outside of the United States, please be aware that any information you provide to us may be transferred to and processed in the United States and other countries. By using the Websites, or providing us with any information, you acknowledge and consent to this transfer, processing and storage of your information in countries where the privacy laws may be less stringent than those in the country where you reside or are a citizen.
 
+Consistent with its commitment to protect personal privacy, Movado Group, Inc. has entered into agreements with its subsidiaries resident in the European Economic Area (EEA) and Switzerland to ensure that adequate protection be given to personal data transferred from the EEA and Switzerland to the United States. These agreements are based on "standard contractual clauses" promulgated by the EU and Swiss governments. Copies of the non-confidential provisions of these agreements are available by contacting us at privacy@mvmt.com. When Movado Group transfers personal information to external third parties it obtains assurances that the information will be used consistently with this Privacy Policy. If the personal data from a resident of the EEA or Switzerland is transferred out of the EEA or Switzerland, then we ensure a similar degree of protection is afforded to it by implementing at least one of the following safeguards: (i) confirming that the European Commission has determined that the country provides an adequate level of protection of personal data; (ii) using specific contracts approved by the European Commission or Switzerland that give personal data the same level of production it has in the EEA or Switzerland; (iii) using providers based in the transferee countries under arrangements approved by the European Commission, such as the Privacy Shield in the United States; or (iv) putting contractual provisions in place that provide appropriate data protections. 
+
+If you are a resident of the EEA or Switzerland, please contact us at privacy@mvmt.com if you want further information on the specific mechanism used by us when transferring your personal data out of the EEA or Switzerland.
+
 Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California certain information regarding MVMT’s disclosure within the immediately preceding calendar year of that California resident’s personal information to third parties (and in some cases, affiliates) for their direct marketing purposes.
 
-If you are a California resident and you have questions about our practices with respect to sharing information with third parties and affiliates for their direct marketing purposes, please send your request to the following email address: privacy@mvmt.com or write to us at the following mailing address: MVMT Inc., Attn: Joe Spallone, 5454 Beethoven St Suite 200, Los Angeles, CA 90404. You must put the statement "Your California Privacy Rights" in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
+If you are a California resident and you have questions about our practices with respect to sharing information with third parties and affiliates for their direct marketing purposes, please send your request to the following email address: privacy@mvmt.com or write to us at the following mailing address: MVMT Inc., Attn: Joe Spallone, 5454 Beethoven St Suite 200, Los Angeles, CA 90404, with a copy to Movado Group, Inc., Attn: Legal Department, 650 From Road, Suite 375, Paramus, NJ 07652. You must put the statement "Your California Privacy Rights" in the subject field of your e-mail or include it in your writing if you choose to write to us at the designated mailing address. You must include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labelled or sent properly, or do not have complete information.
 
 If you have any questions or concerns regarding our privacy policy or practices, please feel free to contact us via email at privacy@mvmt.com. We can also be contacted by mail at:
 
@@ -679,3 +683,193 @@ We try to respond to all legitimate requests within one month. Occasionally it m
 _Complaints to Supervisory Authority_
 
 EU Residents may have the right to make a complaint at any time to the supervisory authority for data protection issues. However, we would appreciate the chance to deal with your concerns before you approach the supervisory authority so please first contact us directly to allow us to do so.
+
+## **_UNITED STATES_**
+
+**Movado Group, Inc.**
+
+650 From Road
+
+Ste. 375
+
+Paramus, NJ  07652
+
+**Movado Retail Group, Inc.**
+
+650 From Road
+
+Ste. 375
+
+Paramus, NJ  07652
+
+## **_CANADA_**
+
+**Movado Group of Canada Inc.**
+
+One Main Street West
+
+Hamilton, Ontario L8P 4Z5 Canada
+
+## **_CHINA_**
+
+**MGI Luxury Trading (Shanghai) Co., Ltd.**
+
+Room 20F02, Plaza 889
+
+1111 ChangShou Road
+
+Jing’an District
+
+Shanghai 200042
+
+Peoples Republic of China
+
+## **_FRANCE_**
+
+**Movado Group France SAS**
+
+47 rue de la Chaussee d’Antin
+
+75009 Paris
+
+France
+
+## **_GERMANY_**
+
+**MGI Luxury Group GmbH**
+
+Landsberger Str. 94
+
+80339 München
+
+Germany
+
+**Movado Group Deutschland GmbH**
+
+Gartenstr. 97
+
+73431 Aalen
+
+Germany
+
+## **_HONG KONG_**
+
+**Swissam Products Ltd.**
+
+29th Floor, Citicorp Centre
+
+18 Whitfield Road, North Point
+
+Hong Kong
+
+**MGI Luxury Asia Pacific Limited**
+
+29th Floor, Citicorp Centre
+
+18 Whitfield Road, North Point
+
+Hong Kong
+
+## **_MALAYSIA_**
+
+**MGI Luxury Malaysia Sdn. Bhd.**
+
+Level 30, The Gardens North Tower Mid Valley City
+
+Lingkaran Syed Putra
+
+59200 Kuala Lumpur
+
+Malaysia
+
+## **_MEXICO_**
+
+**MGI Distribución, S. de R.L. de C.V.**
+
+Torre Esmeralda III
+
+Blvd Manuel Ávila Camacho #32
+
+Piso 6 Oficina 687
+
+Col. Lomas de Chapultepec CP 11000
+
+Mexico
+
+## **_NETHERLANDS_**
+
+**MGI Luxury Group B.V.**
+
+c/o Intertrust Prins Bernharplein 200
+
+1097 JB Amsterdam
+
+The Netherlands
+
+**Movado Group Nederland B.V.**
+
+c/o Intertrust Prins Bernharplein 200
+
+1097 JB Amsterdam
+
+## **_SINGAPORE_**
+
+**MGI Luxury Singapore Ptd Ltd**
+
+#06-02 Tong Building
+
+302 Orchard Road
+
+Singapore 238862
+
+## **_SWITZERLAND_**
+
+**Movado Watch Company SA**
+
+Bettlachstr. 8
+
+2540 Grenchen
+
+Switzerland
+
+**MGI Luxury Group SA**
+
+Bahnhofplatz 2B
+
+2502 Biel/Bienne
+
+Switzerland
+
+**Concord Watch Company SA**
+
+c/o MGI Luxury Group SA
+
+Bahnhofplatz 2B
+
+2502 Biel/Bienne
+
+Switzerland
+
+**Ebel Watches SA**
+
+c/o MGI Luxury Group SA
+
+Bahnhofplatz 2B
+
+2502 Biel/Bienne
+
+Switzerland
+
+## **_UNITED KINGDOM_**
+
+**Movado Group UK Limited**
+
+Meadway
+
+Haslemere
+
+Surrey
+
+GU27 1NN
+
+United Kingdom
