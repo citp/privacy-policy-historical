@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparebrokers.co privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401193902id_/https%3A//comparebrokers.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparebrokers.co privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208000157id_/https%3A//comparebrokers.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
