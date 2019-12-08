@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caption.it privacy policy that was archived on 2019-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190528144406id_/http%3A//www.caption.it/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caption.it privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208030726id_/http%3A//www.caption.it/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Service - Caption.iT
 
