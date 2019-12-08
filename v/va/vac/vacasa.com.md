@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the vacasa.com privacy policy that was archived on 2019-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190627162746id_/https%3A//www.vacasa.com/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacasa.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208074514id_/https%3A//www.vacasa.com/policies) for the most accurate reproduction.*
 
 # Vacasa Privacy Policy
 
-Here's everything you need to know about our privacy and cookie policies. 
+Here's everything you need to know about our privacy and cookie policies. You can also find details about information security at Vacasa [here](http://www.vacasa.com/security).
 
-#### If you're looking for our full rental agreement, including our cancellation policy, you can view that [here](https://web.archive.org/rental-terms).
+ **If you're looking for our full rental agreement, including our cancellation policy, you can view that** [**here**](http://www.vacasa.com/rental-terms) **.**
 
-## 
-
+##   
 VACASA PRIVACY POLICY
 
 Last Updated: May 25, 2018
