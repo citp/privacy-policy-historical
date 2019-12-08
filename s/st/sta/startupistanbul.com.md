@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the startupistanbul.com privacy policy that was archived on 2019-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190315170035id_/https%3A//startupistanbul.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupistanbul.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208095619id_/https%3A//startupistanbul.com/Privacy) for the most accurate reproduction.*
 
-# Privacy | Startup Istanbul 2018
+# Privacy | Startup Istanbul 2019
 
   1. In order to provide better service to Users, the Website and Application require certain personal information (Name, age, e-mail, etc.). That information is used by the Website and Application for campaigns or special and personal promotions for Users. Statistics of transactions on the Website and Application are analyzed and saved except personal information. The User declares his consent to the storage and processing of personal data by the Company and expressly agrees that it can be used according to the Personal Data Protection Act and can be shared with the third parties. 
   2. The Company, without approval of the User, shall not reveal the information submitted by registration forms to third parties, and/or use it for commercial purposes other than the subject of activity, and/or sell. 
