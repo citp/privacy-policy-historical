@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the cloudconvert.com privacy policy that was archived on 2018-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181221232328id_/https%3A//cloudconvert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudconvert.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208223739id_/https%3A//cloudconvert.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CloudConvert
 
 June 28, 2018
 
-Privacy is important to us! Our service can only exist if our customers trust us and our customers can be sure their data is secure. Thus, privacy has the highest priority for us. To be transparent we will explain in more detail how CloudConvert handles your data in the following. 
+Our service can only exist if our customers can be sure that their data is safe. Thus, privacy has the highest priority for us. To be transparent we will explain in more detail how CloudConvert handles your data in the following. 
 
-CloudConvert is maintained by Lunaweb Ltd, Munich (Germany). As a Data Controller, CloudConvert is bound by the requirements of the General Data Protection Regulations (GDPR). If you do not agree to our Privacy Policy and the other terms stated below, please do not use our services and [let us know](https://web.archive.org/contact) about your concerns. We reserve the right to change our Privacy Policy and other terms stated below at any time. If changes occur, we will clearly indicate such alterations at the top of this page with the date of modification. 
+CloudConvert is maintained by Lunaweb GmbH, Gruenwald (Germany). As a Data Controller, CloudConvert is bound by the requirements of the General Data Protection Regulations (GDPR). If you do not agree to our Privacy Policy and the other terms stated below, please do not use our services and [let us know](https://web.archive.org/contact) about your concerns. We reserve the right to change our Privacy Policy and other terms stated below at any time. If changes occur, we will clearly indicate such alterations at the top of this page with the date of modification. 
 
 **June 28, 2018:** Added information about sharing data with our support ticket system Freshdesk. 
 
