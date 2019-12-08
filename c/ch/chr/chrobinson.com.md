@@ -1,165 +1,348 @@
-> *The following text is extracted and transformed from the chrobinson.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606175702id_/https%3A//www.chrobinson.com/en-US/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrobinson.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208021217id_/https%3A//www.chrobinson.com/en-us/privacy-notice) for the most accurate reproduction.*
 
-# Global Privacy Policy - C.H. Robinson
+# Privacy Notice | C.H. Robinson — United States
 
-_This Web Site, as defined below, is maintained by C.H. Robinson Worldwide, Inc.’s ©1998-2016. Content on this site may not be used for commercial benefit without expressed written consent of C.H. Robinson Worldwide, Inc._
+This Global Privacy Notice was updated September, 2019 to provide a more enhanced user experience through the additional of layers and simplified language, and to better explain the different types of cookies used on the website and how visitors can control the cookies placed on their devices. 
 
-C.H. Robinson Worldwide, Inc., and its affiliates and subsidiaries and each of their directors, officers, employees, and authorized representative (collectively, "C.H. Robinson") respect your privacy. This Global Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. As used herein, all references to "Web Site" may include, individually, all and/or in any combination, CHROBINSON.COM, NAVISPHERE.COM, NAVISPHERECARRIER.COM, CHRWCAREER.COM, and any other website produced, managed and maintained by C.H. Robinson. The information you provide on a C.H. Robinson Web Site will be used only for its intended purpose. Submitting information is strictly voluntary. By doing so, you are giving C.H. Robinson your permission to use the information for the intended purpose and in accordance with this Global Privacy Policy. If you do not want to give C.H. Robinson permission to use your information, simply do not provide it. However, not providing certain information may result in C.H. Robinson's inability to provide you with the information or services you desire.
+This Global Privacy Notice explains how we, the C.H. Robinson group, process personal information obtained via our websites, application software and mobile apps. Click this link to find out more
 
-### Your Consent
+C.H. Robinson Worldwide, Inc., and its affiliates and subsidiaries (collectively, "C.H. Robinson") respect your privacy. 
 
-This policy is global in nature and governs our data protection practices whether we collect your personal information through one of our Web Sites, through application software or through other means. When we collect information about you other than through one of our Web Sites, we will first obtain your permission to do so, if and as required by applicable law. However, by using any C.H. Robinson Web Site on which this policy is posted, you agree that this policy governs our collection, use, and disclosure of any personal information submitted to us on or through that Web Site. If you do not agree to be bound by this policy, you may not access or use our Web Sites and/or use our application software.
+This Global Privacy Notice describes the types of personal information we collect, how we use your personal information, with whom we share it, the choices you can make about our use of your personal information and how you can contact us.
 
-### Information We Collect
+This notice is global in nature and describes our data protection practices in relation to personal information collected through our websites, through application software and mobile apps.
 
-C.H. Robinson collects information about you from various sources. For example, we may have a direct relationship with you, and you may choose to provide personal information to us in connection with that relationship. You may choose to submit information to us, for example, on our Web Sites, in connection with use of our products, services or applications software, when you participate in an offer or promotion, or in connection with an actual or potential business or employment relationship with us. We also may obtain information about you from companies that use our products or services, publicly available information systems, consumer reporting agencies, and commercial information services. The types of personal information we may obtain are:
+References to "website" include CHROBINSON.COM, MYTMC.COM, FREIGHTQUOTE.COM, NAVISPHERE.COM, NAVISPHERECARRIER.COM, CHROBINSON.COM/EN-US/CAREERS, CHROBINSON.COM/EN-UK/CAREERS, and any other website produced, managed, and maintained by C.H. Robinson.
 
-  * Contact information (such as name, postal or e-mail address, and phone or fax number)
-  * Business contact information (such as job title, department and name of organization) 
-  * Country of origin information (from which country you are accessing the Web Site)
-  * Usernames and passwords used to access C.H. Robinson resources
-  * Financial information (such as financial account information used for payment purposed and/or information that may be contained in a consumer report)
-  * Contact information for friends or other people you would like us to contact
-  * Content you provide (such as photographs, articles and comments) 
-  * Employment information (such as employment history, employee number, performance appraisals, salary and benefits)
+References to “mobile apps” include Navisphere® Carrier Mobile Application, Navisphere Driver Mobile Application, Navisphere Customer Mobile Application and any other mobile application produced, managed, and maintained by C.H. Robinson.
+
+Collapse
+
+We process information about you that you have provided either directly (for example where you have submitted information to us on our websites) or indirectly (for example from publically available sources, trade associations or from the cookie technology we use on our websites). Click this link to find out more
+
+C.H. Robinson collects information about you from various sources. For example, we may have a direct relationship with you, and you may choose to provide personal information to us in connection with that relationship. You may choose to submit information to us, for example, on our websites, in connection with the use of our products, services, or application software, when you participate in an offer or promotion, when you respond to a survey, request white papers, or in connection with an actual or potential business relationship with us. We also may obtain information about you from companies that use our products or services, publicly available information systems, consumer reporting agencies, agents and trade associations, and commercial information services. We also collect information from you when you browse our websites through the use of cookie technology. (See Cookie Statement).
+
+**The types of information we may obtain are:**
+
+Users of Website 
+
+  * Operating system data
+  * Weblog data
+  * URL Clickstream and path through our website
+  * Name and version of your browser
   * Mobile device unique identifier
-  * Social Media identifier (such as Facebook ID)
-  * Geo-location data
-  * Other information (such as language preference) 
+  * IP Address
+  * Website visit statistics
 
 
 
-We also collect certain information by automated means. For example, we collect information that is sent to us automatically by your Web browser when you visit our Web Sites, or though applications software that you have downloaded. This information typically includes your IP address, the identity of your Internet service provider, the name and version of your operating system, the name and version of your browser, the date and time of your visit, the pages you visit, your location and your mobile device unique identifier. We also use "cookies" and other Web technologies to collect information and support certain features of our Web Sites. For example, we may use these technologies to collect information about the ways visitors use this Site—which pages they visit, which links they use, and how long they stay on each page. The information we collect from your Web browser and from cookies and other Web technologies does not identify you personally but in some cases we may link it to personally identifiable information.
+  
+
+
+Customers/Shippers 
+
+  * Business contact information (such as job title, department and name of organization) 
+  * Contact information (such as name, postal and/or e-mail address, and phone or fax number, country)
+  * Third party contact information that support business processes completed on your behalf (such as consignee or transferee)
+  * Information pertaining to shipments and delivery (such as origin and destination locations)
+  * Business Financial information (such as financial account information used for payment purposes)
+  * Usernames and passwords used to access C.H. Robinson resources (such as account registration information to Navisphere Online)
+  * IP Address, device ID and statistical information (such as throughput based on use of online tools such as Navisphere Online)
+  * Survey responses
+  * Social Media identifier(s) (only when you contribute content on our platform)
+
+
+
+  
+
+
+Carriers/Drivers 
+
+  * Business and contact information (such as name, postal and/or e-mail address, and phone or fax number, country)
+  * Financial information (such as financial account information used for payment and credit purposes)
+  * Government Identification (such as drivers license or passport)
+  * Usernames and passwords used to access C.H. Robinson resources (such as account registration information to our Carrier or Driver Apps)
+  * Survey responses
+  * Social Media identifier(s) (when you contribute to content on our platform)
+  * Geo-location data (such as location data processed via the Navisphere Driver app, and/or information received via in vehicle devices)
+  * IP Address, device ID (when using our Carrier or Driver Apps)
+
+
+
+  
+
+
+Applicants/Potential Employees, Contractors, and/or Contingent Workers 
+
+  * Information necessary to identify potential candidates for employment such as;
+    * Professional social media public profile data on professional sites (e.g. LinkedIn).
+    * Browsing data from our Careers site (including IP address, website statistics, browsing preferences, clickstream data, etc.) 
+    * Contact information
+    * Employment application data 
+    * Previous employment, education, and industry certifications
+  * Information necessary to make employment decisions and onboard new candidates for employment such as;
+    * Information required by federal, state, or country laws to enable compliance with jurisdictional requirements such as diversity information, citizenship, etc. 
+    * Results of medical evaluations (only where required by law or where necessary for the job role in question)
+    * Results of background checks
+
+
+
+  
+
+
+Employees (Current/Former) 
+
+  * Employment information (Employees can find additional information about our employment data processes and procedures by contacting a Human Resources representative at [HRSC@chrobinson.com](mailto:HRSC@chrobinson.com))
+  * Information necessary to identify and onboard new and potential candidates for employment 
+
+
+
+Collapse
 
 ### How We Use the Information We Collect
 
-We may use the information we obtain about you to:
+We use your personal information for a variety of purposes, but in particular to: provide our products and services, handle your job application, market to you (in accordance with your privacy preferences) and, when you’re using our websites and mobile apps, to keep a record of the pages you have visited so that we can promote more relevant products and services to you. We also make sure that we have a lawful legal basis to use your personal information. Click this link to find out more
 
-  * provide the information, products and services you request;
-  * provide you, if you are a consumer, with effective customer service;
-  * provide our customers and carriers with shipment information such as location;
-  * provide you with a personalized experience when you use our Web sites;
+**We may use the information we obtain about you to:**
+
+Users of our Website 
+
+  * keep a record of the pages on our website that you have interacted with so that we can better understand your interests and therefore promote more relevant products and services to you; 
+  * understand and improve the effectiveness of, and troubleshoot our websites’ and mobile apps’ content, functionality and usability;
+  * enforce our websites' and mobile apps’ terms of use; and;
+  * provide information you request, such as white papers.
+
+
+
+  
+
+
+Customers/Shippers 
+
+  * provide information (such as white papers, for example), products, and services you request;
+  * provide effective customer service and facilitate payments for services;
   * contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us);
-  * contact you with information and notices related to your use of our products and services, including our Web sites;
+  * contact you with information and notices related to your use of our products and services, including our websites;
+  * utilize remarketing campaigns using online behavioral advertising techniques;
   * invite you to participate in surveys and provide feedback to us (in accordance with any privacy preferences you have expressed to us);
-  * better understand your needs and interests;
   * improve our products and services and develop new products and services;
-  * improve our marketing and promotional efforts;
-  * improve the content, functionality and usability of the Web sites;
-  * evaluate your interest in employment and contact you regarding possible employment with C.H. Robinson
-  * help you, if you are a C.H. Robinson employee, perform your job functions and to manage our workforce;
-  * enforce our Web sites' terms of use;
+  * optimize our business operations (for example, to help us understand best routes so that we can deliver a more effective service); 
+  * improve our marketing and promotional efforts (for example, by using technology and social media to help understand whether a particular company may be considering making a transportation decision);
+  * understand and improve the effectiveness of, and troubleshoot our application software, websites’ and mobile apps’ content, functionality and usability; and enforce any commercial agreement.
+  * provide services that require regulatory oversight (such as customs procedures)
+
+
+
+  
+
+
+Carriers/Drivers 
+
+  * provide information, products, and services you request;
+  * provide effective customer service and facilitate payments or provide credit for services;
+  * communicate and coordinate shipment status information such as location and estimated time of arrival;
+  * comply with the security requirements of our customers (verification procedures to access facilities);
+  * provide insights into shipment characteristics, strategies and allocation of transportation assets; 
+  * utilize remarketing campaigns using online behavioral advertising techniques
+  * contact you with special offers and other information we believe will be of interest to you (in accordance with any privacy preferences you have expressed to us);
+  * contact you with information and notices related to your use of our products and services, including our websites; 
+  * invite you to participate in surveys and provide feedback to us (in accordance with any privacy preferences you have expressed to us);
+  * improve our products and services and develop new products and services;
+  * optimize our business operations (for example, to help us understand best routes so that we can deliver a more effective service); 
+  * understand and improve the effectiveness of, and troubleshoot our application software, websites’ and mobile apps’ content, functionality and usability; and enforce any commercial agreement.
+
+
+
+  
+
+
+Applicants/Potential Employees, Contractors, and/or Contingent Workers 
+
+  * assess suitability for employment and contact you regarding possible employment;
+  * process your application and eligibility for employment;
+  * to keep you up-dated about future roles that we think you may be interested in.
+
+
+
+  
+
+
+Employees (Current/Former) 
+
+  * Evaluate your interest in employment and contact you regarding possible employment with C.H. Robinson;
+  * Help you, if you are a C.H. Robinson employee, perform your job functions and to manage our workforce;
+  * Provide services and benefits to our employees; 
+
+
+
+  
+
+
+All audiences 
+
   * promote compliance with applicable legal requirements, industry standards, and corporate policies;
-  * promote security; to protect against and prevent fraud, claims and other liabilities; and to manage corporate risk exposure; and
-  * use for any other purpose about which we provide notice at the time of collection.
+  * promote security to protect against and prevent fraud, claims, and other liabilities and to manage corporate risk exposure; and
+  * any other purpose about which we provide notice at the time of collection.
 
 
+
+Collapse
+
+### Legal basis for processing
+
+C.H. Robinson will only processes personal information where we have an appropriate lawful basis, for example when: Click this link to find out more
+
+  * we have your consent; or
+  * the processing is necessary for our legitimate interests, for example to ensure that our products and services are properly provided, to ensure the security and performance of our network, to promote our products and services; or
+  * we need to comply with legal, contractual, and regulatory requirements.
+
+
+
+Collapse
 
 ### Information We Share
 
-We do not sell or otherwise disclose personal information we collect about you, except as described herein or otherwise disclosed to you at the time the data is collected.
+### Data Transfers
 
-We share information to perform activities that you request. For example, we may share the personal information we collect with our affiliates, or to cooperate with an authorized law enforcement or regulatory investigation. In addition, we may share personal information with other third parties with the consent of the individual to whom the information pertains.
+We transfer your personal information outside of your home country to countries which may not offer an equivalent level of protection for personal information to the laws of your home country. For example, to the USA. When we do this, we take steps that the law requires to make sure that your personal information is properly protected. Click this link to find out more
 
-If you are performing services directly or indirectly for us and using an application provided by us, then we may collect information for the purpose of providing information to our carriers and customers.
+When we transfer your personal information to other countries, we will take measures required by the law to protect that information. These measures include data transfer agreements implementing standard data protection clauses.
 
-We may also share your personal information with third-party vendors that perform tasks on our behalf and under our instruction. These third-party vendors may use your personal information only in connection with the services they perform on our behalf and they are bound to protect your personal information in a manner consistent with our own policies and practices.
+To obtain more information about the safeguards we have put in place, please contact us using the information below.
 
-On our Web Sites, you may have an opportunity to post user-generated content using social networking tools available on those sites. If you take advantage of this opportunity, remember that the user-generated content you post is available to others who visit the Web Site and therefore you should have no expectation of privacy with respect to such content. In addition, you may choose to use certain features on our Web Sites for which we partner with other entities. These features, which may include social networking and geographic location tools, are operated by third parties that are not affiliated with C.H. Robinson. These third parties may use personal information in accordance with their own privacy policies. On sites on which these features are offered, the relevant third parties are identified. We strongly suggest you review the third parties' privacy policies if you use the relevant features.
-
-We may also disclose information about you when we, in good faith, believe disclosure is appropriate to comply with the law, a court order, or a subpoena. We may also disclose information about you to prevent or investigate a possible crime, such as fraud or identity theft; to protect the security of our Web Sites; to enforce or apply our Web Sites' terms of use or other agreements; or to protect our own rights or property or the rights, property or safety of our users or others.
-
-We also reserve the right to transfer information about you to a successor organization if, for example, we transfer the ownership or operation of one of our Web Sites to another organization or if we merge with another organization. If such a transfer occurs, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner consistent with this policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
+Collapse
 
 ### Your Rights and Choices
 
-You may have certain rights regarding the personal information we maintain about you. We offer you certain choices about what personal information we collect from you, how we use that information, and how we communicate with you.
+We want to make sure that you feel in control of your personal information and, in particular, to know how you can change your mind if you don’t want to receive our marketing emails anymore. Click this link to find out more
 
-You may refrain from submitting information directly to us, although doing so may impact our ability to provide the products, services, and information you request and/or affect your ability to use applications software.
+We will offer you certain choices about what personal information we collect from you, how we use that information, and how we communicate with you.
 
-You may elect not to have a unique cookie identification number assigned to your computer to avoid aggregation and analysis of data collected on our Web Sites. Generally, if you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit our Web Sites, you may be unable to use all of the functionality of our sites if your browser rejects our cookies.
+We typically offer you an opportunity to choose whether you want to receive certain communications from us, generally by offering an "opt-in" or an "opt-out" option, depending on applicable law, when you first provide contact information through one of our websites, software applications, and/or mobile apps. In addition, we will include an "unsubscribe" link in each electronic newsletter or promotional e-mail we send you, so that you can inform us if you do not wish to receive such communications from us in the future.
 
-We typically offer you an opportunity to choose whether you want receive certain communications from us, generally by offering an "opt in" or an "opt out," depending on applicable law, when you first provide contact information through one of our Web Sites. In addition, we will include an "unsubscribe" link in each electronic newsletter or promotional e-mail we send you, so that you can inform us that you do not wish to receive such communications from us in the future.
+Subject to applicable law, you may have the right to: 
 
-When accepting the terms of use/end user license agreement for applications software, you must opt in to collection of data from your mobile device in order for the applications software to work properly.
+  * request access to and receive information about the personal information we maintain about you;
+  * update and correct inaccuracies in your personal information; and
+  * have your personal information transferred, blocked, or deleted. 
 
-If you are located in the European Economic Area or Switzerland, you may direct us not to share your personal information with third parties, except (i) with service providers we have retained to perform services on our behalf, (ii) in the event we sell or transfer all or a portion of our business or assets, (iii) if disclosure is required by law or legal process, (iv) with law enforcement authorities or other government officials, or (v) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraud or other illegal activity. If you are located in the European Economic Area or Switzerland, we use your personal information only for the purposes indicated in this policy unless we have a legal basis, such as consent, to use it for other purposes. Where required by law, C.H. Robinson obtains your prior opt-in consent at the time of collection for the processing of (i) personal information for marketing purposes and (ii) personal information deemed sensitive pursuant to applicable law.
 
-Subject to applicable law, you may have the right to request access to and receive information about the personal data we maintain about you, update and correct inaccuracies in your personal data, and have the information blocked or deleted, as appropriate. We will respond to such requests within a reasonable time and, in any case, within the time limits established by applicable law. We may ask you for additional information to verify your identity. In most cases, we will provide access and correct or delete any inaccurate information you discover. In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identify.
 
-To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified below.
+We will promptly respond to such requests and may ask you for additional information to verify your identity in order to appropriately respond. In most cases, we will provide access and correct or delete any inaccurate information you discover. In some cases, however, we may limit or deny your request if we have a lawful justification. If you would like to exercise any of these rights about your personal information that we hold, please use our contact details set out under the header “How to Contact Us” below.
 
-### Data Transfers
+Please note that there are some instances where we must process your personal information in order to deliver our services. For example, when accepting the terms of use/end user license agreement for our mobile application software, we must collect data from your mobile device in order for software to work properly.
 
-We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this policy.
+Collapse
 
-If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. C.H. Robinson has certified that it abides by the Safe Harbor privacy principles as set forth by the U.S. Department of Commerce regarding the collection, storage, use, transfer, and other processing of personal data transferred from the EEA or Switzerland to the United States. [Click here](https://web.archive.org/en-US/Privacy-Policy/Safe-Harbor/) to view our Safe Harbor Privacy Policy. For more information about the Safe Harbor privacy principles, visit [export.gov/safeharbor](http://export.gov/safeharbor/).
+### Cookie Statement
 
-The following C.H. Robinson entities in Europe may process personal data provided from the C.H. Robinson Europe website and/or may be considered the responsible party under your local law:
+C.H. Robinson uses cookies, pixel tags, and other technologies (“Cookies”) to automatically collect information about your interactions, such as browser type, pages viewed, links clicked, and other actions you take in connection with our websites, online ads, and email. Click this link to find out more
 
-C.H. Robinson Worldwide, Inc.: 14701 Charlson Road, Eden Prairie, Minnesota, USA 55347 (No EU VAT#).
+**What are Cookies?**
 
-C.H. Robinson Europe B.V.: Teleportboulevard 120, Amsterdam, 1043 EJ, The Netherlands, Registration# 34184256, VAT# NL811514274B01
+Cookies are small pieces of data (alpha-numerical files) which are downloaded to your device when you visit a website to collect information about your use of the website. Cookies are sent back to the originating website on each subsequent visit, or to another website that recognizes that cookie. Cookies are useful because they allow our websites to remember information about you to make it easier for you to use our websites. Other tracking technologies may use unique identifiers to track and facilitate your use of our websites. 
 
-C.H. Robinson Belgium BVBA: Noorderplaats 5, 2000 Antwerp, Registration# 0477976606, VAT# BE 0477976606
+You can find more information about Cookies and at [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) and [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
 
-C.H. Robinson Czech Republic s.r.o.: Prague 3, Vinoh•rady, Vinohradskã 2396/184, Postal Code 130 00, Registration# 27250440, VAT# CZ 27250440
+**Why do we use Cookies?**
 
-C.H. Robinson France SAS: 6, rue du Colonel Rémy 14000 Caen, France, Registration# 322939265, VAT# FR 43322939265
+We use Cookies for a variety of purposes, including to facilitate navigation, to display information more effectively, to personalize your experience, to understand how our websites are used, to market our products and services, to measure the success of our marketing campaigns, and for security purposes.
 
-C.H. Robinson Worldwide GmbH: Heidenkampsweg 100 Hamburg 20097, Germany, Registration# B 31 797, VAT# DE 118656348
+**What Cookies do we use and how long will they stay on your device?**
 
-C.H. Robinson Hungaria Szallitmanyozasi Kft.: Office Garden 2, Aliz utca. 2 1117 Budapest, Hungary, Registration# 01-09-706042, VAT# HU 12840937
+We categorize our cookies into four types: Necessary, Preferences, Statistics, and Marketing.
 
-C.H. Robinson International Italy, S.r.l.: Viale Del Mulino 1 - Palazzo U10 Livello 2° 20090 Assago Milanofiori (MI) Italy, Registration# 04741940961, VAT# IT 04741940961
+Type of Cookie | Purpose  
+---|---  
+Necessary | Necessary Cookies help make our websites usable by enabling basic functions like page navigation and access to secure areas of the website. The websites cannot function properly without these cookies.  
+Preferences | Preferences Cookies enable our websites to remember information that changes the way the website behaves or looks, like your preferred language or your preferred region.  
+Statistics | Statistics Cookies help us understand how visitors interact with our websites. They provide us information about the ways visitors use our technology, which pages they visit, which links they use, and how long they stay on each page. The information we collect from these Cookies does not identify you personally but in some cases we may be able to link the information from statistics Cookies to your personal identifiable information.  
+Marketing | Marketing Cookies are used to track visitors using our websites and across other websites. The intention is to display information relevant and engaging for you and thereby providing you a more enhanced user experience, as well as to identify future business opportunities.  
+Unclassified | Unclassified Cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.  
+  
+**How to change your preferences so that Cookies are not set on your device**
 
-C.H. Robinson Luxembourg S.a.r.l.: Cubus C3 4 Rue Peternelchen Howald, 2370 Luxembourg, Registration# B 141.488, VAT# LU23145858
+Most devices allow you to block Cookies by adjusting the settings on your browser. However, if you use your browser settings to block all Cookies (including necessary Cookies, such as those allowing you to log-in) you may not be able to access all or parts of our websites or our websites may not function as effectively. 
 
-C.H. Robinson Ibérica, S.L.: Avenida Diagonal 67, 2-B, Barcelona 08019, Spain, Registration# 8-73792, VAT# ESB 80434756
+For further information about how to block Cookies, please refer to your browser 'help' section or see [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
-C.H. Robinson Worldwide (UK) Limited: Units 8/9, Blackthorne Crescent Colnbrook SL3 0QR, United Kingdom, Registration# 1383545, VAT# GB 225433289
+Collapse
 
-C.H. Robinson Sweden AB: Spannramen 1, Adress Göteborgsvägen 175, Post.nr 50463 Borås Sweden Registration # 556817-1390, VAT# SE556817139001
+### The General Data Protection Regulation ("GDPR")
 
-C.H. Robinson Polska, S.A.: al. Jana Pawła II 29, 00-867 Warszawa, Poland Registration Nr: (KRS) 0000281670 VAT Nr: PL525-23-92-290
+The GDPR requires us to tell individuals some extra information about how we process their personal information. Click this link to find out more
 
-CHROBINSON Logistics and Transport Services Limited (Turkey): Veko Giz Plaza, Meydan Sokak No 3/45, Kat: 14, Oda: 1401, 34396, Maslak, Instanbul, Turkey, Registration # ITO - 856134, VAT# TR 209 056 8121, tax ID 2090568121
+We take steps to ensure that the personal information we process about you is retained for only as long as it is necessary for the purpose for which it was collected. After this period it will be deleted or in some cases anonymized.
 
-C.H. Robinson Freight Services (Ireland) Ltd.: International Logistics Centre, Unit 1, North West Business Park, Ballycoolin, Dublin 15, Ireland, Registration # 304282, VAT# IE6324282V
+For more information about the retention periods we apply to personal data please contact us at [privacy@chrobinson.com](mailto:privacy@chrobinson.com).
 
-Phoenix International Freight Services, Ltd. (UK): Unit 2 Sycamore Rd, Trent Lane Ind Est, Castle Donington, Derby DE74 2NP United Kingdom, Registration Nr: 1447025, VAT Nr. GB30 970 32 68
+You have certain rights in relation to your personal information. These include: the right to object to the processing of your information for certain purposes, the right to access your personal information, and the ability to erase, restrict or receive a machine-readable copy of your personal information. We will handle any request to exercise your rights in accordance with applicable law and any relevant legal exemptions. To exercise your rights under the GDPR, please contact us as specified in the _How to Contact Us_ section below. 
 
-C.H. Robinson Switzerland GmbH: Stänzlergasse 4, Basel, 4051 Switzerland, Registration # CHE-374.524.846, VAT# CHE-374.524.846
+You may also have the right to complain to a data protection authority if you think we have processed your personal information unlawfully. If you have such concerns please contact us in the first instance (using the contact details specified in the _How to Contact Us_ section below) so that we can investigate, and hopefully resolve, your concerns.
 
-C.H. Robinson Austria GmbH: Kaiserjägerstraße 1 Innsbruck 6020, Austria, Registration # FN 401953 h, VAT# ATU 68252669
+Collapse
 
-### How We Protect Personal Information
+### Use of Our websites by Children under the Age of 16
 
-We maintain reasonable administrative, physical and technological measures to protect the confidentiality and security of information about you. Unfortunately, no site, server or database is completely secure or "hacker proof." We therefore cannot guarantee that information about you will not be disclosed, misused or lost by accident or by the unauthorized acts of others. C.H. Robinson never collects information for third party commercial marketing purposes nor does it create individual profiles or provide your information to any third party organization. C.H. Robinson will only share your information with third parties when and as you request or as otherwise required by law.
+Our websites are not intended for children under the age of 16. Click this link to find out more
 
-### Use of Our Web Sites by Children Under the Age of Thirteen
+We are proud of our websites and we strive to ensure that they do not offend people of any age. However, unless otherwise noted on a particular site, our websites are not intended for children under the age of 16 years without the permission of a parent or guardian. If you believe that a child has submitted personal information on or through our websites without the consent and supervision of a parent or guardian, please contact us using the information provided below so that we can take appropriate action.
 
-We are proud of our Web Sites and we strive to ensure that they do not offend people of any age. However, unless otherwise noted on a particular site, our Web Sites are not intended for children under the age of thirteen years without the permission of a parent or guardian. If you believe that a child has submitted personally identifiable information on or through our Web Sites without the consent and supervision of a parent or guardian, please contact us using the information provided below so that we can take appropriate action.
+Collapse
 
-### Links to Other Web sites
+### Updates to Our Global Privacy Notice
 
-Our Web Sites may provide links to other sites for your convenience and information. These sites may operate independently from C.H. Robinson. Linked sites may have their own privacy notices or policies, which we strongly suggest you review. In addition, a link to a non-C.H. Robinson site does not mean that C.H. Robinson endorses or accepts any responsibility for the content, or the use, of such site. It is up to you to take precautions to ensure that whatever you select for your use is free of such items as viruses, worms, Trojan horses and other items of a destructive nature. C.H. Robinson is not liable for the privacy practices or the content of other sites and to the extent any linked sites you visit are not owned or controlled by C.H. Robinson, we are not responsible for the sites' content, any use of the sites, or the privacy practices of the sites.
+This Notice describes C.H. Robinson's current data protection policies and practices. We reserve the right to update it periodically. When we do, we will indicate at the top of the notice when it was most recently updated and why the changes were made.
 
-### Use of Navisphere® Carrier Mobile Application
+### How to Contact Us
 
-The provisions and disclosures in this paragraph pertain solely to the use of our Navisphere® Carrier Mobile Application within North America. In addition to the processes and policies set forth in this Global Privacy Policy, the Navisphere® Carrier Mobile Application also utilizes Google Analytics to collect and process data related to use of the Navisphere® Carrier Mobile Application, including but not limited to storing cookies and your IP address. C.H. Robinson is required to share the information collected through Google Analytics with Google. For a more thorough description of Google’s use of data collected through the Beta Mobile App and the restrictions it follows with regard to privacy concerns related to such data, please see the Google Analytics policy regarding privacy and its partners’ apps located at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/). 
+If you have any questions or comments about this notice, or if you would like us to update information we have about you or your preferences, you may contact us using the information below.
 
-### Updates to Our Global Privacy Policy
-
-This Policy describes C.H. Robinson's current data protection policies and practices. We reserve the right to update it periodically and without prior notice to you to reflect changes in those policies and practices. When we do, we will post the revised version behind the link marked "Global Privacy Policy" at the bottom of each page of our Web Sites. We will also indicate at the top of the policy when it was most recently updated.
-
-### How To Contact Us
-
-If you have any questions or comments about this policy, or if you would like us to update information we have about you or your preferences, you may contact us using the information below. Please make all inquiries or requests regarding your information in English so we can respond to and resolve requests.
-
-Corporate Data Protection Officer  
+**Global Data Privacy Director**  
 C.H. Robinson Worldwide, Inc.  
-14900 Charlson Rd.  
-Eden Prairie, MN 55347  
-United States  
-[privacy@chrobinson.com](mailto:privacy@chrobinson.com)
+14701 Charlson Road, Suite 1200  
+Eden Prairie, MN 55347 United States  
+[privacy@chrobinson.com](mailto:privacy@chrobinson.com)  
+Phone: 952-683-3399
+
+Clicks [here](https://www.chrobinson.com/es-us/privacy-policy/) for Spanish version of the C.H. Robinson privacy notice
+
+Review the [C.H. Robinson Ocean Transportation Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/Ocean-Transportation-Terms-and-Conditions.pdf)
+
+Review the [C.H. Robinson Customs Brokerage & Global Forwarding Services Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/Customs-Brokerage-Global-Forwarding%20Services-Terms-and-Conditions.pdf)
+
+Review the [C.H. Robinson Domestic Air Shipment Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/Domestic-Air-transportation-Terms-and-Conditions-of-Service.pdf)
+
+Review the [C.H. Robinson Global Air Shipment Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/Global-Air-transportation-Terms-and-Conditions-of-Service.pdf)
+
+Review the [C.H. Robinson Air Quote Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/Air_Quote_Terms_and_Conditions_GlobalForwarding.pdf)
+
+Review the [C.H. Robinson Ocean Quote Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/Ocean_Quote_Terms_and_Conditions_GlobalForwarding.pdf)
+
+Review the [C.H. Robinson Australia Trading Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/Australia%20Trading%20Terms%20and%20Conditions.pdf)
+
+Review the [C.H. Robinson New Zealand Trading Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/New%20Zealand%20Trading%20Terms%20and%20Conditions.pdf)
+
+Review the [C.H. Robinson Canada Standard Freight Forwarding Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/CH%20Robinson%20Worldwide%20Canada%20Ltd%20Freight%20Forwarding%20Standard%20Trading%20Terms%20and%20Conditions.pdf)
+
+Review the [C.H. Robinson Canada Conditions commerciales standards pour le transit de C.H. Robinson Mondial Canada, Ltée](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/Canada-Standard%20Freight%20Forwarding%20Terms%20and%20Conditions%20-%20French.pdf)
+
+Review the [C.H. Robinson Canada Warehouse Trading Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/CH%20Robinson%20Worldwide%20Canada%20Ltd%20Warehouse%20Trading%20Terms%20and%20Conditions.pdf)
+
+Review the [C.H. Robinson Canada Customs Brokerage Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/CH%20Robinson%20Worldwide%20Canada%20Ltd%20Customs%20Brokerage%20Terms%20and%20Conditions%20English.pdf)
+
+Review the [C.H. Robinson Canada Conditions commerciales standards pour le courtage en douane de C.H. Robinson Mondial Canada, Ltée ](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/Canada%20Ltd%20Customs%20Brokerage%20Terms%20and%20Conditions%20-%20French.pdf)
+
+Review the [C.H. Robinson EU Global Forwarding Terms and Conditions](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/EU%20Global%20Forwarding%20General%20Terms%20and%20Conditions.pdf) 
+
+Review the [C.H. Robinson EU Global Forwarding Terms and Conditions - Romanian](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/terms-conditions/EU%20Global%20Forwarding%20General%20Terms%20and%20Conditions%20-%20Romanian.pdf)
+
+Review the[ C.H. Robinson EU Global Forwarding Terms and Conditions - Spanish](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/carrier-conditions/EU%20Global%20Forwarding%20General%20Terms%20and%20Conditions%20-%20Spanish.pdf)
+
+Review the [C.H. Robinson EU Global Forwarding Terms and Conditions - French](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/carrier-conditions/EU%20Global%20Forwarding%20General%20Terms%20and%20Conditions%20-%20French.pdf)
+
+Review the [C.H. Robinson EU Global Forwarding Terms and Conditions - Italian](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/carrier-conditions/EU%20Global%20Forwarding%20General%20Terms%20and%20Conditions%20-%20Italian.pdf)
+
+Review the [C.H. Robinson EU Global Forwarding Terms and Conditions - German](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/carrier-conditions/EU%20Global%20Forwarding%20General%20Terms%20and%20Conditions%20-%20German.pdf)
+
+Review the [C.H. Robinson EU Global Forwarding Terms and Conditions - Polish](https://web.archive.org/en//en-US/-/media/ChRobinson/documents/carrier-conditions/EU%20Global%20Forwarding%20General%20Terms%20and%20Conditions%20-%20Polish.pdf)
