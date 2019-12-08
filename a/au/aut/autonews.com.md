@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529061345id_/https%3A//www.autonews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonews.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208234530id_/https%3A//www.autonews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Automotive News
 
@@ -6,7 +6,7 @@
 
 _Effective starting: May 25, 2018_
 
-**_  Automotive News and the associated newsletters, news alerts, data centers, research reports, and other features are products_of Crain Communications Inc. Our postal address is 1155 Gratiot Ave., Detroit, MI 48207.  We can be reached by e-mail at [customerservice@autonews.com](mailto:customerservice@autonews.com) or by telephone at (877) 812-1584. **
+**_  Automotive News and the associated newsletters, news alerts, data centers, research reports, and other features are __products  _of Crain Communications Inc. Our postal address is 1155 Gratiot Ave., Detroit, MI 48207.  We can be reached by e-mail at [customerservice@autonews.com](mailto:customerservice@autonews.com) or by telephone at (877) 812-1584. **
 
 **What this Privacy Policy covers**
 
