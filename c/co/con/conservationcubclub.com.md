@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservationcubclub.com privacy policy that was archived on 2019-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190203135523id_/https%3A//conservationcubclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservationcubclub.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208072426id_/https%3A//conservationcubclub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tiniest Tiger Cat Community
 
