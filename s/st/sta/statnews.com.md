@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statnews.com privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612201425id_/https%3A//www.statnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statnews.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208182952id_/https%3A//www.statnews.com/privacy) for the most accurate reproduction.*
 
 # Privacy - STAT
 
@@ -202,7 +202,7 @@ We recognize and respect that your privacy and Personal Information is important
 
 **_Your Data Subject Rights (EU/EEA and UK)_**
 
-Under certain circumstances, you have rights under applicable data protection laws with respect to Personal Information we knowingly collected. Please click on the links below to expand and find out more about those rights.
+Under certain circumstances, you have rights under applicable data protection laws with respect to Personal Information we knowingly collected. Please see below for more information on the following rights:
 
   1.     1.       * **Choice**
       * **Request access to your personal data**
@@ -215,7 +215,7 @@ Under certain circumstances, you have rights under applicable data protection la
 
 
 
-We will try to comply with any of these requests pertaining to your Personal Information in accordance with applicable law. Please recognize that we may in certain circumstances be unable to provide the access or information sought, or correction or deletion requested. For example, we may be unable to fulfil a request if it requires us to release commercial confidential information, the disclosure of Personal Information relating to another person that is not the requestor, or would result in impracticability, excessive redundancy, and/or an undue burden or expense to the Boston Globe. We may need to verify your identity before acting on your request. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
+We will try to comply with any of these requests pertaining to your Personal Information in accordance with applicable law. Please recognize that we may in certain circumstances be unable to provide the access or information sought, or correction or deletion requested. For example, we may be unable to fulfill a request if it requires us to release commercial confidential information, the disclosure of Personal Information relating to another person that is not the requestor, or would result in impracticability, excessive redundancy, and/or an undue burden or expense to the Boston Globe. We may need to verify your identity before acting on your request. This is a security measure to ensure that personal data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
 You will not have to pay a fee to access your Personal Information (or to exercise any of the other rights). However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. Alternatively, we may refuse to comply with your request in these circumstances.
 
