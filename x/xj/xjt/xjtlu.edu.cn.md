@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xjtlu.edu.cn privacy policy that was archived on 2018-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181118232848id_/http%3A//www.xjtlu.edu.cn/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xjtlu.edu.cn privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208073449id_/https%3A//www.xjtlu.edu.cn/en/privacy) for the most accurate reproduction.*
 
 # Privacy | Xi'an Jiaotong-Liverpool University (XJTLU)
 
@@ -28,7 +28,7 @@ All aspects of the Xi'an Jiaotong-Liverpool University Site - design, text, grap
 
 In accessing the University web pages, you agree that any downloading of content is for personal, non-commercial reference only. No part of this Site may be reproduced or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without prior permission of the University. 
 
-For rights clearance please [contact us](http://www.xjtlu.edu.cn/en/contact). 
+For rights clearance please [contact us](https://www.xjtlu.edu.cn/en/contact). 
 
 ###  2.1. Trademarks and Logos
 
@@ -99,4 +99,4 @@ Appropriate security measures are in place to protect against loss, misuse or al
 
 ##  5\. Contacts and Feedback
 
-Any comments or feedback regarding this statement should be emailed to [[email protected]](http://www.xjtlu.edu.cn/cdn-cgi/l/email-protection#d6a1b3b4a2b3b7bb96aebca2baa3f8b3b2a3f8b5b8) or sent by post to: Web Development Manager, University Marketing and Communications Office, Central Building, Xi'an Jiaotong-Liverpool University, 111 Ren’ai Road, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou, P. R. China, 215123. 
+Any comments or feedback regarding this statement should be emailed to [webteam@xjtlu.edu.cn](mailto:webteam@xjtlu.edu.cn) or sent by post to: Web Development Manager, University Marketing and Communications Office, Central Building, Xi'an Jiaotong-Liverpool University, 111 Ren’ai Road, Suzhou Dushu Lake Science and Education Innovation District, Suzhou Industrial Park, Suzhou, P. R. China, 215123. 
