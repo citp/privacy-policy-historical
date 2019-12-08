@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the capilanou.ca privacy policy that was archived on 2019-04-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190409145650id_/https%3A//www.capilanou.ca/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the capilanou.ca privacy policy that was archived on 2019-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191208203122id_/https%3A//www.capilanou.ca/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -23,8 +23,9 @@
 	<meta name="msvalidate.01" content="D838B33DE3B57BF19A4CE4F3D0248289">
 <!-- Stylesheets -->
 	<link rel="stylesheet" type="text/css" media="" href="/media/capilanouca/images/css/style.css"> <!-- styles.css -->
-        <link rel="stylesheet" type="text/css" media="" href="/media/capilanouca/images/css/print.css"> <!-- print.css -->	
         <link rel="stylesheet" type="text/css" media="" href="/media/capilanouca/images/css/t4.css"> <!-- t4.css -->
+        <link rel="stylesheet" type="text/css" media="" href="/media/capilanouca/images/css/print.css"> <!-- print.css -->	
+        
 	<!--[if IE]>
   	<link rel="stylesheet" type="text/css" href="css/ie.css" />
   <![endif]-->
@@ -41,7 +42,7 @@
   <![endif]-->
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1507277-1"></script>
+<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-ND3CQHM"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1507277-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -79,6 +80,11 @@ fbq('track', 'PageView');
          ga('send', 'pageview');
 
     </script> 
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-ND3CQHM');</script>
 
 </head>  
 
@@ -89,6 +95,8 @@ fbq('track', 'PageView');
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5QJJZ"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-ND3CQHM"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <header id="header">
     <div id="header-bg"></div><!-- #header-bg is used to fill in background colour of the header -->
@@ -110,13 +118,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <li><a href="/about-capu/connect-with-capu/give-to-capu/">Give to CapU</a></li><li><a href="/about-capu/connect-with-capu/alumni/">Alumni</a></li><li><a href="/about-capu/connect-with-capu/employees/">Employees</a></li><li><a href="/mycapu/">myCapU</a></li>
         </ul>
          <div id="site-search-container">
-          <form>
+          <form action="https://search.capilanou.ca/s/search.html" method="get">
             <p>What can we help you find? </p>
-            <div class="input-group">
+            <div class="input-group has-text">
               <!-- Elements in this section need a tabindex of -1 to hide from tab navigation until search is active --> 
               <label for="site-search">Search CapU</label> 
-              <input id="site-search" type="text" aria-label="Search CapU" tabindex="-1">
-              <button id="site-search-submit" type="submit" tabindex="-1" class="button dark-blue" onclick="javascript:window.location.href = '/search//?q=' + document.getElementById('site-search').value; return false;">Search</button>
+               <input name="query" id="site-search" type="text" aria-label="Search CapU" tabindex="-1">
+              <input name="collection" type="hidden" value="capu-search">
+              <button id="site-search-submit" type="submit" tabindex="-1" class="button dark-blue" onclick="javascript:window.location.href = 'https://search.capilanou.ca/s/search.html?collection=capu-search&amp;query=' + document.getElementById('site-search').value; return false;">Search</button>
             </div>
           </form>
           <button id="site-search-close" class="close-button" tabindex="-1" aria-label="Close site search">Close<span>×</span></button>
@@ -133,6 +142,69 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           </svg><span class="button-text">Search</span>
         </button>
 
+  <script src="//t4-search.clients.us.funnelback.com/s/resources-global/js/jquery/jquery-1.10.2.min.js"></script>
+  <script src="//t4-search.clients.us.funnelback.com/stencils/resources/autocompletion/js/typeahead.bundle-0.11.1.min.js"></script>
+  <script src="//t4-search.clients.us.funnelback.com/stencils/resources/autocompletion/js/handlebars.min-v4.0.5.js"></script>
+  <script src="//t4-search.clients.us.funnelback.com/s/resources/capu-search/_default/typeahead.fb-2.6.js"></script>
+
+  <script>
+var fbJQ = jQuery.noConflict(true);
+    fbJQ (document).ready( function() {
+    fbJQ ('#site-search').qc({
+        program: '//t4-search.clients.us.funnelback.com/s/suggest.json',
+        alpha: '0.5',
+        show: '10',
+        sort: '0',
+        length: '3',
+        datasets:{
+            organic: {
+                name: 'Suggestions',
+                collection: 'capu-search',
+                profile: '_default',
+                show: '10'
+            }
+        }
+    });
+    });
+  </script>
+<style>
+#site-search-container .tt-menu {
+  border: solid 1px rgba(0, 0, 0, .125);
+  background-color: #fff;
+  width: 100%;
+  z-index: 1000 !important;
+  color: #33281c;
+}
+
+#site-search-container .tt-menu .tt-suggestion, #site-search-container .tt-menu .tt-category {
+  padding: 0.2rem 1rem;
+  width: 100%;
+}
+
+#site-search-container .tt-menu .tt-selectable {
+  cursor: pointer;
+}
+
+#site-search-container .tt-menu .tt-selectable:hover {
+  background: #ddd;
+}
+
+#site-search-container .tt-category {
+  margin: 0.2rem 0;
+ font-family: brandon-grotesque,Helvetica,Arial,sans-serif;
+ text-transform: uppercase;
+ font-weight: 500;
+ letter-spacing: .1em;
+ font-size: 1rem;
+}
+
+#site-search-container .tt-menu {
+  border-radius: 3px;
+}
+#site-search-container form .input-group label {
+ z-index:100;
+}
+</style>
 
         
       </div><!--#siteTools-->
@@ -190,7 +262,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li><a href="/programs--courses/search--select/explore-our-areas-of-study/subscribe-to-newsletters/" tabindex="-1">Subscribe to Newsletters</a></li>
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/subscribe-to-our-newsletter/" tabindex="-1">Subscribe to Our Newsletter</a></li>
 
 </ul>
 
@@ -231,6 +303,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="/programs--courses/search--select/academic-upgrading/english-for-academic-purposes-esl/" tabindex="-1">English for Academic Purposes (ESL)</a>
 <ul class="multilevel-linkul-3">
 <li><a href="/programs--courses/search--select/academic-upgrading/english-for-academic-purposes-esl/eap-pathway-programs/" tabindex="-1">EAP Pathway Programs</a></li>
+<li><a href="/programs--courses/search--select/academic-upgrading/english-for-academic-purposes-esl/eap-part-time-evening-classes/" tabindex="-1">EAP Part-time Evening Classes</a></li>
 <li><a href="/programs--courses/search--select/academic-upgrading/english-for-academic-purposes-esl/placement-test/" tabindex="-1">Placement Test</a></li>
 
 </ul>
@@ -240,6 +313,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
+<li class="hide-nav-item"><a href="/programs--courses/search--select/capu-lonsdale-courses/" tabindex="-1">CapU Lonsdale Courses</a></li>
+<li class="hide-nav-item"><a href="/programs--courses/search--select/continuing-studies--executive-education/" tabindex="-1">Continuing Studies &amp; Executive Education</a></li>
 <li class="hide-nav-item"><a href="/programs--courses/search--select/study-abroad/" tabindex="-1">Study Abroad</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/programs--courses/search--select/study-abroad/full-term-exchanges/" tabindex="-1">Full Term Exchanges</a>
@@ -252,7 +327,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li><a href="/programs--courses/search--select/study-abroad/field-schools/" tabindex="-1">Field Schools</a>
 <ul class="multilevel-linkul-3">
-<li><a href="/programs--courses/search--select/study-abroad/field-schools/how-to-apply/" tabindex="-1">How to Apply</a></li>
+<li><a href="/programs--courses/search--select/study-abroad/field-schools/field-school-application/" tabindex="-1">Field School Application</a></li>
 
 </ul>
 
@@ -266,7 +341,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li class="hide-nav-item"><a href="/programs--courses/search--select/continuing-studies--executive-education/" tabindex="-1">Continuing Studies &amp; Executive Education</a></li>
 
 <a class="view-all" tabindex="-1" href="/programs--courses/search--select/">View All</a></ul>
 
@@ -284,7 +358,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="/programs--courses/capu-for-you/international-students/" tabindex="-1">International Students</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/programs--courses/capu-for-you/international-students/apply-to-capu-as-an-international-student/" tabindex="-1">Apply to CapU as an International Student</a></li>
-<li><a href="/programs--courses/capu-for-you/international-students/pathway-partner-schools/" tabindex="-1">Pathway Partner Schools</a></li>
+<li><a href="/programs--courses/capu-for-you/international-students/english-language-pathway-partner-schools/" tabindex="-1">English Language Pathway Partner Schools</a></li>
 <li><a href="/programs--courses/capu-for-you/international-students/services--support-for-international-students/" tabindex="-1">Services &amp; Support for International Students</a></li>
 <li><a href="/programs--courses/capu-for-you/international-students/international-agents--counsellors/" tabindex="-1">International Agents &amp; Counsellors</a>
 <ul class="multilevel-linkul-3">
@@ -312,7 +386,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="multilevel-linkul-2">
 <li><a href="/programs--courses/capu-for-you/parents--families/parents-as-career-coaches/" tabindex="-1">Parents as Career Coaches</a></li>
 <li><a href="/programs--courses/capu-for-you/parents--families/parent--student-supporter-orientation/" tabindex="-1">Parent &amp; Student Supporter Orientation</a></li>
-<li><a href="/programs--courses/capu-for-you/parents--families/student-confidentialty/" tabindex="-1">Student Confidentialty</a></li>
+<li><a href="/programs--courses/capu-for-you/parents--families/student-confidentiality/" tabindex="-1">Student Confidentiality</a></li>
 
 </ul>
 
@@ -321,7 +395,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="multilevel-linkul-2">
 <li><a href="/programs--courses/capu-for-you/high-school-counsellors/recruitment-update/" tabindex="-1">Recruitment Update</a></li>
 <li><a href="/programs--courses/capu-for-you/high-school-counsellors/high-school-visits--fairs/" tabindex="-1">High School Visits &amp; Fairs</a></li>
-<li><a href="/programs--courses/capu-for-you/high-school-counsellors/counsellors-conference/" tabindex="-1">Counsellors' Conference</a></li>
+<li><a href="/programs--courses/capu-for-you/high-school-counsellors/counsellors-conference/" tabindex="-1">Counsellors' Conference</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/programs--courses/capu-for-you/high-school-counsellors/counsellors-conference/counsellors-conference---rsvp/" tabindex="-1">Counsellors' Conference - RSVP</a></li>
+
+</ul>
+
+</li>
 
 </ul>
 
@@ -343,13 +423,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="/programs--courses/get-started/talk-to-an-advisor/" tabindex="-1">Talk to an Advisor</a></li>
 <li><a href="/programs--courses/get-started/visit-capu/" tabindex="-1">Visit CapU</a>
 <ul class="multilevel-linkul-2">
-<li><a href="/programs--courses/get-started/visit-capu/campus-tours-for-canadians--prs/" tabindex="-1">Campus Tours for Canadians &amp; PRs</a></li>
+<li><a href="/programs--courses/get-started/visit-capu/campus-tours-for-canadians--permanent-residents/" tabindex="-1">Campus Tours for Canadians &amp; Permanent Residents</a></li>
 <li><a href="/programs--courses/get-started/visit-capu/campus-tours-for-international-students/" tabindex="-1">Campus Tours for International Students</a></li>
 <li><a href="/programs--courses/get-started/visit-capu/explore-capu-info-night/" tabindex="-1">Explore CapU Info Night</a></li>
 
 </ul>
 
 </li>
+<li><a href="/programs--courses/get-started/subscribe-to-our-newsletter/" tabindex="-1">Subscribe to Our Newsletter</a></li>
 
 </ul>
 
@@ -409,6 +490,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="multilevel-linkul-1 large-nav">
 <li><a href="/admissions/fees--finances/tuition--fees/" tabindex="-1">Tuition &amp; Fees</a>
 <ul class="multilevel-linkul-2">
+<li><a href="/admissions/fees--finances/tuition--fees/fee-refunds/" tabindex="-1">Fee Refunds</a></li>
 <li><a href="/admissions/fees--finances/tuition--fees/tuition--other-fees/" tabindex="-1">Tuition &amp; Other Fees</a></li>
 <li><a href="/admissions/fees--finances/tuition--fees/incidental-fees/" tabindex="-1">Incidental Fees</a></li>
 <li><a href="/admissions/fees--finances/tuition--fees/tuition--fee-estimator/" tabindex="-1">Tuition &amp; Fee Estimator</a></li>
@@ -454,7 +536,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </li>
 <li><a href="/admissions/fees--finances/how-to-pay/" tabindex="-1">How to Pay</a>
 <ul class="multilevel-linkul-2">
-<li><a href="/admissions/fees--finances/how-to-pay/fee-refunds/" tabindex="-1">Fee Refunds</a></li>
+<li><a href="/admissions/fees--finances/how-to-pay/international-students/" tabindex="-1">International Students</a></li>
+<li><a href="/admissions/fees--finances/how-to-pay/sponsored-students/" tabindex="-1">Sponsored Students</a></li>
 
 </ul>
 
@@ -470,69 +553,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="multilevel-linkul-0"><span class="menu-title"><a href="/student-life/" tabindex="-1">Student Life</a><a class="button dark-blue" href="/about-capu/get-to-know-us/events/">Events </a></span>
 <li><a href="/student-life/academic-support/" tabindex="-1">Academic Support</a>
 <ul class="multilevel-linkul-1 large-nav">
-<li><a href="/student-life/academic-support/centre-for-student-success/" tabindex="-1">Centre for Student Success</a>
+<li><a href="/student-life/academic-support/academic-advising/" tabindex="-1">Academic Advising</a>
 <ul class="multilevel-linkul-2">
-<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/" tabindex="-1">Student Affairs</a>
-<ul class="multilevel-linkul-3">
-<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/capuleads/" tabindex="-1">CapULeads</a></li>
-<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/learning--skill-support/" tabindex="-1">Learning &amp; Skill Support</a></li>
-<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/student-code-of-conduct/" tabindex="-1">Student Code of Conduct</a></li>
-<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/information-for-complainants/" tabindex="-1">Information for Complainants</a></li>
-<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/information-for-respondents/" tabindex="-1">Information for Respondents</a></li>
-<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/academic-integrity/" tabindex="-1">Academic Integrity</a></li>
-<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/appeals--complaints/" tabindex="-1">Appeals &amp; Complaints</a></li>
-<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/student-life-hub/" tabindex="-1">Student Life Hub</a></li>
+<li><a href="/student-life/academic-support/academic-advising/gpa-calculator/" tabindex="-1">GPA Calculator</a></li>
+<li><a href="/student-life/academic-support/academic-advising/program-planners/" tabindex="-1">Program Planners</a></li>
+<li><a href="/student-life/academic-support/academic-advising/faqs/" tabindex="-1">FAQs</a></li>
+<li><a href="/student-life/academic-support/academic-advising/course-planning-workshops/" tabindex="-1">Course Planning Workshops</a></li>
 
 </ul>
 
 </li>
-
-</ul>
-
-</li>
-<li><a href="/student-life/academic-support/academic-advising/" tabindex="-1">Academic Advising</a></li>
-<li><a href="/student-life/academic-support/learning-commons/" tabindex="-1">Learning Commons</a>
-<ul class="multilevel-linkul-2">
-<li><a href="/student-life/academic-support/learning-commons/math-learning-centre/" tabindex="-1">Math Learning Centre</a></li>
-<li><a href="/student-life/academic-support/learning-commons/writing-centre/" tabindex="-1">Writing Centre</a>
-<ul class="multilevel-linkul-3">
-<li><a href="/student-life/academic-support/learning-commons/writing-centre/popular-writing-handouts/" tabindex="-1">Popular Writing Handouts</a></li>
-<li><a href="/student-life/academic-support/learning-commons/writing-centre/tips-for-using-the-writing-centre/" tabindex="-1">Tips for using the Writing Centre</a></li>
-<li><a href="/student-life/academic-support/learning-commons/writing-centre/online-writing-resources/" tabindex="-1">Online Writing Resources</a></li>
-<li><a href="/student-life/academic-support/learning-commons/writing-centre/books-at-the-writing-centre/" tabindex="-1">Books at the Writing Centre</a></li>
-<li><a href="/student-life/academic-support/learning-commons/writing-centre/student-workshops/" tabindex="-1">Student Workshops</a></li>
-<li><a href="/student-life/academic-support/learning-commons/writing-centre/proofreading-vs-instructional-editing/" tabindex="-1">Proofreading vs Instructional Editing</a></li>
-<li><a href="/student-life/academic-support/learning-commons/writing-centre/how-to-prepare-for-the-edt/" tabindex="-1">How to Prepare for the EDT</a></li>
-
-</ul>
-
-</li>
-<li><a href="/student-life/academic-support/learning-commons/english-language-support-els/" tabindex="-1">English Language Support (ELS)</a></li>
-
-</ul>
-
-</li>
-<li><a href="https://library.capilanou.ca/" target="_blank" tabindex="-1">Library</a></li>
-<li><a href="/student-life/academic-support/centre-for-teaching-excellence/" tabindex="-1">Centre for Teaching Excellence</a></li>
-<li class="hide-nav-item"><a href="/student-life/academic-support/additional-learning-support/" tabindex="-1">Additional Learning Support</a>
-<ul class="multilevel-linkul-2">
-<li><a href="/student-life/academic-support/additional-learning-support/language-resource-centre/" tabindex="-1">Language Resource Centre</a></li>
-<li><a href="/student-life/academic-support/additional-learning-support/english-diagnostic-test/" tabindex="-1">English Diagnostic Test</a></li>
-<li><a href="/student-life/academic-support/additional-learning-support/math-placement-test-mpt/" tabindex="-1">Math Placement Test (MPT)</a></li>
-
-</ul>
-
-</li>
-<li class="hide-nav-item"><a href="/student-life/academic-support/career-development-centre/" tabindex="-1">Career Development Centre</a>
+<li><a href="/student-life/academic-support/career-development-centre/" tabindex="-1">Career Development Centre</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/student-life/academic-support/career-development-centre/students--alumni/" tabindex="-1">Students &amp; Alumni</a>
 <ul class="multilevel-linkul-3">
 <li><a href="/student-life/academic-support/career-development-centre/students--alumni/book-an-appointment/" tabindex="-1">Book an Appointment</a></li>
-<li><a href="/student-life/academic-support/career-development-centre/students--alumni/career-development-ambassador-cda/" tabindex="-1">Career Development Ambassador (CDA)</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/capu-launch/" tabindex="-1">CapU Launch</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/career-ambassador-ca/" tabindex="-1">Career Ambassador (CA)</a></li>
 <li><a href="/student-life/academic-support/career-development-centre/students--alumni/cpa-recruit/" tabindex="-1">CPA Recruit</a></li>
 <li><a href="/student-life/academic-support/career-development-centre/students--alumni/job-board/" tabindex="-1">Job Board</a></li>
 <li><a href="/student-life/academic-support/career-development-centre/students--alumni/organizational-spotlight/" tabindex="-1">Organizational Spotlight</a></li>
-<li><a href="/student-life/academic-support/career-development-centre/students--alumni/workshops--events/" tabindex="-1">Workshops &amp; Events</a></li>
+<li><a href="/student-life/academic-support/career-development-centre/students--alumni/workshops-events--programs/" tabindex="-1">Workshops, Events &amp; Programs</a></li>
 
 </ul>
 
@@ -559,6 +600,63 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
+<li><a href="/student-life/academic-support/centre-for-student-success/" tabindex="-1">Centre for Student Success</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/academic-support/centre-for-student-success/learning-success/" tabindex="-1">Learning Success</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/academic-support/centre-for-student-success/learning-success/uss100---introduction-to-university-success-strategies/" tabindex="-1">USS100 - Introduction to University Success Strategies</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/" tabindex="-1">Student Affairs</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/capuleads/" tabindex="-1">CapULeads</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/student-code-of-conduct/" tabindex="-1">Student Code of Conduct</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/information-for-complainants/" tabindex="-1">Information for Complainants</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/information-for-respondents/" tabindex="-1">Information for Respondents</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/academic-integrity/" tabindex="-1">Academic Integrity</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/appeals--complaints/" tabindex="-1">Appeals &amp; Complaints</a></li>
+<li><a href="/student-life/academic-support/centre-for-student-success/student-affairs/student-life-hub/" tabindex="-1">Student Life Hub</a></li>
+
+</ul>
+
+</li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/academic-support/learning-commons/" tabindex="-1">Learning Commons</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/academic-support/learning-commons/math-learning-centre/" tabindex="-1">Math Learning Centre</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/" tabindex="-1">Writing Centre</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/popular-writing-handouts/" tabindex="-1">Popular Writing Handouts</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/tips-for-using-the-writing-centre/" tabindex="-1">Tips for using the Writing Centre</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/online-writing-resources/" tabindex="-1">Online Writing Resources</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/books-at-the-writing-centre/" tabindex="-1">Books at the Writing Centre</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/student-workshops/" tabindex="-1">Student Workshops</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/proofreading-vs-instructional-editing/" tabindex="-1">Proofreading vs Instructional Editing</a></li>
+<li><a href="/student-life/academic-support/learning-commons/writing-centre/how-to-prepare-for-the-edt/" tabindex="-1">How to Prepare for the EDT</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/academic-support/learning-commons/english-language-support-els/" tabindex="-1">English Language Support (ELS)</a></li>
+
+</ul>
+
+</li>
+<li><a href="https://library.capilanou.ca/" target="_blank" tabindex="-1">Library</a></li>
+<li class="hide-nav-item"><a href="/student-life/academic-support/learning-supports/" tabindex="-1">Learning Supports</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/academic-support/learning-supports/language-resource-centre/" tabindex="-1">Language Resource Centre</a></li>
+<li><a href="/student-life/academic-support/learning-supports/english-diagnostic-test/" tabindex="-1">English Diagnostic Test</a></li>
+<li><a href="/student-life/academic-support/learning-supports/math-placement-test-mpt/" tabindex="-1">Math Placement Test (MPT)</a></li>
+
+</ul>
+
+</li>
 
 <a class="view-all" tabindex="-1" href="/student-life/academic-support/">View All</a></ul>
 
@@ -569,7 +667,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="multilevel-linkul-2">
 <li><a href="/student-life/campus-community/capu-residence/how-to-apply/" tabindex="-1">How to Apply</a></li>
 <li><a href="/student-life/campus-community/capu-residence/accommodations--access/" tabindex="-1">Accommodations &amp; Access</a></li>
-<li><a href="/student-life/campus-community/capu-residence/agreement--standards/" tabindex="-1">Agreement &amp; Standards</a></li>
+<li><a href="/student-life/campus-community/capu-residence/agreement--handbook/" tabindex="-1">Agreement &amp; Handbook</a></li>
 <li><a href="/student-life/campus-community/capu-residence/buildings--rooms/" tabindex="-1">Buildings &amp; Rooms</a></li>
 <li><a href="/student-life/campus-community/capu-residence/frequently-asked-questions/" tabindex="-1">Frequently Asked Questions</a></li>
 <li><a href="/student-life/campus-community/capu-residence/meal-plan/" tabindex="-1">Meal Plan</a></li>
@@ -589,12 +687,28 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li><a href="/student-life/campus-community/student-engagement/" tabindex="-1">Student Engagement</a></li>
+<li><a href="/student-life/campus-community/new-student-orientation/" tabindex="-1">New Student Orientation</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/new-student-orientation/new-all-student-orientation/" tabindex="-1">New All Student Orientation</a></li>
+<li><a href="/student-life/campus-community/new-student-orientation/new-international-student-orientation/" tabindex="-1">New International Student Orientation</a></li>
+
+</ul>
+
+</li>
 <li><a href="/student-life/campus-community/athletics--recreation/" tabindex="-1">Athletics &amp; Recreation</a>
 <ul class="multilevel-linkul-2">
 <li><a href="http://athletics.capilanou.ca/" target="_blank" tabindex="-1">Capilano Blues</a></li>
 <li><a href="/student-life/campus-community/athletics--recreation/fees-and-hours/" tabindex="-1">Fees and Hours</a></li>
-<li><a href="/student-life/campus-community/athletics--recreation/weight-room/" tabindex="-1">Weight Room</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/athletics--recreation-events/" tabindex="-1">Athletics &amp; Recreation Events</a></li>
+<li><a href="/student-life/campus-community/athletics--recreation/capilano-basketball-league/" tabindex="-1">Capilano Basketball League</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/student-life/campus-community/athletics--recreation/capilano-basketball-league/past-champions/" tabindex="-1">Past Champions</a></li>
+<li><a href="https://admin.esportsdesk.com/leagues/schedules.cfm?leagueID=30900&amp;clientID=6678" target="_blank" tabindex="-1">Schedule</a></li>
+<li><a href="https://admin.esportsdesk.com/leagues/stats_basketball.cfm?leagueID=30900&amp;clientID=6678" target="_blank" tabindex="-1">Statistics</a></li>
+
+</ul>
+
+</li>
 <li><a href="/student-life/campus-community/athletics--recreation/drop-in-sports/" tabindex="-1">Drop-In Sports</a></li>
 <li><a href="/student-life/campus-community/athletics--recreation/lillooet-park/" tabindex="-1">Lillooet Park</a></li>
 <li><a href="/student-life/campus-community/athletics--recreation/lockers-and-equipment/" tabindex="-1">Lockers and Equipment</a></li>
@@ -607,15 +721,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li><a href="/student-life/campus-community/athletics--recreation/capilano-basketball-league/" tabindex="-1">Capilano Basketball League</a>
-<ul class="multilevel-linkul-3">
-<li><a href="/student-life/campus-community/athletics--recreation/capilano-basketball-league/past-champions/" tabindex="-1">Past Champions</a></li>
-<li><a href="https://admin.esportsdesk.com/leagues/schedules.cfm?leagueID=30900&amp;clientID=6678" target="_blank" tabindex="-1">Schedule</a></li>
-<li><a href="https://admin.esportsdesk.com/leagues/stats_basketball.cfm?leagueID=30900&amp;clientID=6678" target="_blank" tabindex="-1">Statistics</a></li>
-
-</ul>
-
-</li>
+<li><a href="/student-life/campus-community/athletics--recreation/weight-room/" tabindex="-1">Weight Room</a></li>
 <li><a href="/student-life/campus-community/athletics--recreation/department-contacts/" tabindex="-1">Department Contacts</a></li>
 
 </ul>
@@ -635,7 +741,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/capu-speaker-series/" tabindex="-1">CapU Speaker Series</a></li>
 <li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/capu-choral--classical-series/" tabindex="-1">CapU Choral &amp; Classical Series</a></li>
 <li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/north-shore-jazz-series/" tabindex="-1">North Shore Jazz Series</a></li>
-<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/special-events/" tabindex="-1">Special Events</a></li>
+<li><a href="/student-life/campus-community/blueshore-financial-centre-for-the-performing-arts/our-events/special-presentations/" tabindex="-1">Special Presentations</a></li>
 
 </ul>
 
@@ -663,29 +769,44 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li class="hide-nav-item"><a href="/student-life/campus-community/orientation/" tabindex="-1">Orientation</a>
+<li class="hide-nav-item"><a href="/student-life/campus-community/capilano-students-union/" tabindex="-1">Capilano Students' Union</a></li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/capilano-universe/" tabindex="-1">Capilano Universe</a></li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/chatlive/" tabindex="-1">ChatLive</a></li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/earthworks/" tabindex="-1">EarthWorks</a>
 <ul class="multilevel-linkul-2">
-<li><a href="/student-life/campus-community/orientation/new--returning-student-orientation/" tabindex="-1">New &amp; Returning Student Orientation</a></li>
-<li><a href="/student-life/campus-community/orientation/new-international-student-orientation/" tabindex="-1">New International Student Orientation</a>
+<li><a href="/student-life/campus-community/earthworks/2019-earthworks-videos/" tabindex="-1">2019 EarthWorks Videos</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/peer-leadership-program/" tabindex="-1">Peer Leadership Program</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/peer-leadership-program/applying-to-be-a-peer-leader/" tabindex="-1">Applying to be a Peer Leader</a></li>
+<li><a href="/student-life/campus-community/peer-leadership-program/peer-leadership-programs/" tabindex="-1">Peer Leadership Programs</a></li>
+<li><a href="/student-life/campus-community/peer-leadership-program/request-a-peer-leader/" tabindex="-1">Request a Peer Leader</a></li>
+<li><a href="/student-life/campus-community/peer-leadership-program/international-leadership--mentorship-program-ilmp/" tabindex="-1">International Leadership &amp; Mentorship Program (ILMP)</a>
 <ul class="multilevel-linkul-3">
-<li><a href="/student-life/campus-community/orientation/new-international-student-orientation/attend-the-new-international-student-orientation/" tabindex="-1">Attend the New International Student Orientation</a></li>
+<li><a href="/student-life/campus-community/peer-leadership-program/international-leadership--mentorship-program-ilmp/become-a-mentor/" tabindex="-1">Become a Mentor</a></li>
+<li><a href="/student-life/campus-community/peer-leadership-program/international-leadership--mentorship-program-ilmp/request-a-mentor/" tabindex="-1">Request a Mentor</a></li>
+<li><a href="/student-life/campus-community/peer-leadership-program/international-leadership--mentorship-program-ilmp/mentor-roles-and-responsibilities/" tabindex="-1">Mentor Roles and Responsibilities</a></li>
+<li><a href="/student-life/campus-community/peer-leadership-program/international-leadership--mentorship-program-ilmp/mentee-expectations/" tabindex="-1">Mentee Expectations</a></li>
 
 </ul>
 
 </li>
-<li><a href="/student-life/campus-community/orientation/full-schedule/" tabindex="-1">Full Schedule</a>
-<ul class="multilevel-linkul-3">
-<li><a href="/student-life/campus-community/orientation/full-schedule/app/" tabindex="-1">App</a></li>
 
 </ul>
 
 </li>
-<li><a href="/student-life/campus-community/orientation/get-involved/" tabindex="-1">Get Involved</a></li>
-<li><a href="/student-life/campus-community/orientation/faq/" tabindex="-1">FAQ</a></li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/positive-space/" tabindex="-1">Positive Space</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/campus-community/positive-space/faqs/" tabindex="-1">FAQs</a></li>
+<li><a href="/student-life/campus-community/positive-space/resources/" tabindex="-1">Resources</a></li>
 
 </ul>
 
 </li>
+<li class="hide-nav-item"><a href="/student-life/campus-community/student-engagement/" tabindex="-1">Student Engagement</a></li>
 <li class="hide-nav-item"><a href="/student-life/campus-community/study--gathering-spaces/" tabindex="-1">Study &amp; Gathering Spaces</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/student-life/campus-community/study--gathering-spaces/meditation--silent-prayer-room/" tabindex="-1">Meditation &amp; Silent Prayer Room</a></li>
@@ -693,26 +814,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li class="hide-nav-item"><a href="/student-life/campus-community/peers-helping-peers/" tabindex="-1">Peers Helping Peers</a>
-<ul class="multilevel-linkul-2">
-<li><a href="/student-life/campus-community/peers-helping-peers/applying-to-be-a-peer-helper/" tabindex="-1">Applying to be a Peer Helper</a></li>
-<li><a href="/student-life/campus-community/peers-helping-peers/peers-helping-peers-programs/" tabindex="-1">Peers Helping Peers Programs</a></li>
-<li><a href="/student-life/campus-community/peers-helping-peers/request-a-peer-helper/" tabindex="-1">Request a Peer Helper</a></li>
-<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/" tabindex="-1">International Leadership &amp; Mentorship Program</a>
-<ul class="multilevel-linkul-3">
-<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/become-a-mentor/" tabindex="-1">Become a Mentor</a></li>
-<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/request-a-mentor/" tabindex="-1">Request a Mentor</a></li>
-<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/mentor-roles-and-responsibilities/" tabindex="-1">Mentor Roles and Responsibilities</a></li>
-<li><a href="/student-life/campus-community/peers-helping-peers/international-leadership--mentorship-program/mentee-expectations/" tabindex="-1">Mentee Expectations</a></li>
-
-</ul>
-
-</li>
-
-</ul>
-
-</li>
-<li class="hide-nav-item"><a href="/student-life/campus-community/capilano-students-union/" tabindex="-1">Capilano Students' Union</a></li>
 <li class="hide-nav-item"><a href="/student-life/campus-community/sustainability/" tabindex="-1">Sustainability</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/student-life/campus-community/sustainability/get-involved/" tabindex="-1">Get Involved</a></li>
@@ -727,45 +828,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li class="hide-nav-item"><a href="/student-life/campus-community/chatlive/" tabindex="-1">ChatLive</a></li>
-<li class="hide-nav-item"><a href="/student-life/campus-community/earthworks/" tabindex="-1">EarthWorks</a>
-<ul class="multilevel-linkul-2">
-<li><a href="/student-life/campus-community/earthworks/2019-earthworks-videos/" tabindex="-1">2019 EarthWorks Videos</a></li>
-
-</ul>
-
-</li>
-<li class="hide-nav-item"><a href="/student-life/campus-community/capilano-universe/" tabindex="-1">Capilano Universe</a></li>
-<li class="hide-nav-item"><a href="/student-life/campus-community/positive-space/" tabindex="-1">Positive Space</a>
-<ul class="multilevel-linkul-2">
-<li><a href="/student-life/campus-community/positive-space/faqs/" tabindex="-1">FAQs</a></li>
-<li><a href="/student-life/campus-community/positive-space/resources/" tabindex="-1">Resources</a></li>
-
-</ul>
-
-</li>
 
 <a class="view-all" tabindex="-1" href="/student-life/campus-community/">View All</a></ul>
 
 </li>
 <li><a href="/student-life/support--wellness/" tabindex="-1">Support &amp; Wellness</a>
 <ul class="multilevel-linkul-1 large-nav">
-<li><a href="/student-life/support--wellness/health--counselling-services/" tabindex="-1">Health &amp; Counselling Services</a>
+<li><a href="/student-life/support--wellness/accessibility-services/" tabindex="-1">Accessibility Services</a>
 <ul class="multilevel-linkul-2">
-<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/" tabindex="-1">Learning Specialist Services</a>
-<ul class="multilevel-linkul-3">
-<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/study-skills-handouts/" tabindex="-1">Study Skills Handouts</a></li>
-<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/office-hours/" tabindex="-1">Office Hours</a></li>
-<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/study-skills-videos/" tabindex="-1">Study Skills Videos</a></li>
-<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/student-success-workshops/" tabindex="-1">Student Success Workshops</a></li>
-<li><a href="/student-life/support--wellness/health--counselling-services/learning-specialist-services/introduction-to-university-success-strategies/" tabindex="-1">Introduction to University Success Strategies</a></li>
+<li><a href="/student-life/support--wellness/accessibility-services/how-to-request-an-academic-accommodation/" tabindex="-1">How to Request an Academic Accommodation</a></li>
+<li><a href="/student-life/support--wellness/accessibility-services/accommodation-request-form/" tabindex="-1">Accommodation Request Form</a></li>
+<li><a href="/student-life/support--wellness/accessibility-services/examination-request-form/" tabindex="-1">Examination Request Form</a></li>
+<li><a href="/student-life/support--wellness/accessibility-services/funding-supports/" tabindex="-1">Funding Supports</a></li>
+<li><a href="/student-life/support--wellness/accessibility-services/information-for-faculty/" tabindex="-1">Information for Faculty</a></li>
 
 </ul>
 
 </li>
+<li><a href="/student-life/support--wellness/first-nations-student-services/" tabindex="-1">First Nations Student Services</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/support--wellness/first-nations-student-services/kexwusm-ayakn-student-centre/" tabindex="-1">Kéxwusm-áyakn Student Centre</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/support--wellness/health--counselling-services/" tabindex="-1">Health &amp; Counselling Services</a>
+<ul class="multilevel-linkul-2">
 <li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/" tabindex="-1">Counselling Services</a>
 <ul class="multilevel-linkul-3">
-<li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/student-success-workshops--support/" tabindex="-1">Student Success Workshops &amp; Support</a></li>
 <li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/resources-for-students/" tabindex="-1">Resources for Students</a></li>
 <li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/resources-for-faculty-and-staff/" tabindex="-1">Resources for Faculty and Staff</a></li>
 <li><a href="/student-life/support--wellness/health--counselling-services/counselling-services/frequently-asked-questions/" tabindex="-1">Frequently Asked Questions</a></li>
@@ -781,39 +871,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li><a href="/student-life/support--wellness/first-nations-student-services/" tabindex="-1">First Nations Student Services</a>
-<ul class="multilevel-linkul-2">
-<li><a href="/student-life/support--wellness/first-nations-student-services/kexwusm-ayakn-student-centre/" tabindex="-1">Kéxwusm-áyakn Student Centre</a></li>
-
-</ul>
-
-</li>
-<li><a href="/student-life/support--wellness/sunshine-coast-student-services/" tabindex="-1">Sunshine Coast Student Services</a></li>
-<li><a href="/student-life/support--wellness/accessibility-services/" tabindex="-1">Accessibility Services</a>
-<ul class="multilevel-linkul-2">
-<li><a href="/student-life/support--wellness/accessibility-services/how-to-request-an-academic-accommodation/" tabindex="-1">How to Request an Academic Accommodation</a></li>
-<li><a href="/student-life/support--wellness/accessibility-services/accommodation-request-form/" tabindex="-1">Accommodation Request Form</a></li>
-<li><a href="/student-life/support--wellness/accessibility-services/examination-request-form/" tabindex="-1">Examination Request Form</a></li>
-<li><a href="/student-life/support--wellness/accessibility-services/funding-supports/" tabindex="-1">Funding Supports</a></li>
-<li><a href="/student-life/support--wellness/accessibility-services/information-for-faculty/" tabindex="-1">Information for Faculty</a></li>
-
-</ul>
-
-</li>
-<li><a href="/student-life/support--wellness/childrens-centre/" tabindex="-1">Children's Centre</a>
-<ul class="multilevel-linkul-2">
-<li><a href="/student-life/support--wellness/childrens-centre/waitlist-application-form/" tabindex="-1">Waitlist Application Form</a></li>
-
-</ul>
-
-</li>
-<li class="hide-nav-item"><a href="/student-life/support--wellness/safety--security/" tabindex="-1">Safety &amp; Security</a>
+<li><a href="/student-life/support--wellness/safety--security/" tabindex="-1">Safety &amp; Security</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/student-life/support--wellness/safety--security/capu-safe-app/" tabindex="-1">CapU Safe App</a></li>
 <li><a href="/student-life/support--wellness/safety--security/report-an-incident/" tabindex="-1">Report an Incident</a></li>
 <li><a href="/student-life/support--wellness/safety--security/winter-weather-procedures/" tabindex="-1">Winter Weather Procedures</a></li>
 <li><a href="/student-life/support--wellness/safety--security/security-faqs/" tabindex="-1">Security FAQs</a></li>
 <li><a href="/student-life/support--wellness/safety--security/contact-us/" tabindex="-1">Contact Us</a></li>
+
+</ul>
+
+</li>
+<li><a href="/student-life/support--wellness/sunshine-coast-student-services/" tabindex="-1">Sunshine Coast Student Services</a></li>
+<li class="hide-nav-item"><a href="/student-life/support--wellness/childrens-centre/" tabindex="-1">Children's Centre</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/student-life/support--wellness/childrens-centre/waitlist-application-form/" tabindex="-1">Waitlist Application Form</a></li>
 
 </ul>
 
@@ -843,25 +915,40 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="multilevel-linkul-1 large-nav">
 <li><a href="/about-capu/get-to-know-us/our-campuses/" tabindex="-1">Our Campuses</a>
 <ul class="multilevel-linkul-2">
+<li><a href="/about-capu/get-to-know-us/our-campuses/capu-main-campus/" tabindex="-1">CapU Main Campus</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/capu-lonsdale/" tabindex="-1">CapU Lonsdale</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/sunshine-coast-campus/" tabindex="-1">Sunshine Coast Campus</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/capu-residence/" tabindex="-1">CapU Residence</a></li>
 <li><a href="/about-capu/get-to-know-us/our-campuses/maps--directions/" tabindex="-1">Maps &amp; Directions</a></li>
-<li><a href="/about-capu/get-to-know-us/our-campuses/parking-car-pooling--transit/" tabindex="-1">Parking, Car Pooling &amp; Transit</a>
+<li><a href="/about-capu/get-to-know-us/our-campuses/building-floor-plans/" tabindex="-1">Building Floor Plans</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/capu-bike-storage/" tabindex="-1">CapU Bike Storage</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-services/" tabindex="-1">Parking Services</a>
 <ul class="multilevel-linkul-3">
-<li><a href="/about-capu/get-to-know-us/our-campuses/parking-car-pooling--transit/permit-prices/" tabindex="-1">Permit Prices</a></li>
-<li><a href="/about-capu/get-to-know-us/our-campuses/parking-car-pooling--transit/purchasing-your-permit/" tabindex="-1">Purchasing Your Permit</a></li>
-<li><a href="/about-capu/get-to-know-us/our-campuses/parking-car-pooling--transit/parking-services-office/" tabindex="-1">Parking Services Office</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-services/epermits/" tabindex="-1">ePermits</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-services/daily-parking/" tabindex="-1">Daily parking</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-services/carpool/" tabindex="-1">Carpool</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-services/evo-carshare/" tabindex="-1">Evo CarShare</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-services/accessible-parking/" tabindex="-1">Accessible parking</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-services/electric-vehicle-charging/" tabindex="-1">Electric vehicle charging</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/parking-services/parking-office/" tabindex="-1">Parking Office</a></li>
 
 </ul>
 
 </li>
-<li><a href="/about-capu/get-to-know-us/our-campuses/building-floor-plans/" tabindex="-1">Building Floor Plans</a></li>
 <li><a href="/about-capu/get-to-know-us/our-campuses/room-booking--facilities-rental/" tabindex="-1">Room Booking &amp; Facilities Rental</a></li>
-<li><a href="https://capu50.capilanou.ca/whats-happening/capfest/" target="_blank" tabindex="-1">CapFest</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/smoking--vaping-on-campus/" tabindex="-1">Smoking &amp; Vaping on Campus</a></li>
 
 </ul>
 
 </li>
 <li><a href="/about-capu/get-to-know-us/our-history/" tabindex="-1">Our History</a></li>
-<li><a href="/about-capu/get-to-know-us/our-brand/" tabindex="-1">Our Brand</a></li>
+<li><a href="/about-capu/get-to-know-us/our-brand/" tabindex="-1">Our Brand</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/get-to-know-us/our-brand/awards-and-recognition/" tabindex="-1">Awards and Recognition</a></li>
+
+</ul>
+
+</li>
 <li><a href="/about-capu/get-to-know-us/news/" tabindex="-1">News</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/about-capu/get-to-know-us/news/2019/" tabindex="-1">2019</a></li>
@@ -880,8 +967,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="/about-capu/get-to-know-us/research/research-ethics-board/" tabindex="-1">Research Ethics Board</a>
 <ul class="multilevel-linkul-3">
 <li><a href="/about-capu/get-to-know-us/research/research-ethics-board/when-is-ethical-review-required/" tabindex="-1">When is Ethical Review Required?</a></li>
-<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/student-research/" tabindex="-1">Student Research</a></li>
-<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/application/" tabindex="-1">Application</a></li>
+<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/course-based-activities-and-departmental-review/" tabindex="-1">Course-based Activities and Departmental Review</a></li>
+<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/application-and-review-process/" tabindex="-1">Application and Review Process</a></li>
+<li><a href="/about-capu/get-to-know-us/research/research-ethics-board/forms-guides--examples/" tabindex="-1">Forms, Guides &amp; Examples</a></li>
 <li><a href="/about-capu/get-to-know-us/research/research-ethics-board/reb-members/" tabindex="-1">REB Members</a></li>
 
 </ul>
@@ -899,36 +987,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="multilevel-linkul-1 large-nav">
 <li><a href="/about-capu/connect-with-capu/alumni/" tabindex="-1">Alumni</a>
 <ul class="multilevel-linkul-2">
-<li><a href="https://alumnicapilanou.ca" target="_blank" tabindex="-1">CapU Connect</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/update-your-information/" tabindex="-1">Update Your Information</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/get-involved/" tabindex="-1">Get Involved</a>
+<li><a href="/about-capu/connect-with-capu/alumni/capu-alumni-association/" tabindex="-1">CapU Alumni Association</a>
 <ul class="multilevel-linkul-3">
-<li><a href="/about-capu/connect-with-capu/alumni/get-involved/cuaa-board-of-directors/" tabindex="-1">CUAA Board of Directors</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/get-involved/cuaa-committees/" tabindex="-1">CUAA Committees</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/get-involved/alumni-representative-to-the-senate/" tabindex="-1">Alumni Representative to the Senate</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/get-involved/alumni-representative-to-the-board-of-governors/" tabindex="-1">Alumni Representative to the Board of Governors</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/capu-alumni-association/get-involved/" tabindex="-1">Get Involved</a></li>
 
 </ul>
 
 </li>
 <li><a href="/about-capu/connect-with-capu/alumni/alumni-benefits/" tabindex="-1">Alumni Benefits</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/alumni-chapters/" tabindex="-1">Alumni Chapters</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/2019-alumni-awards-of-excellence-nomination-form/" tabindex="-1">2019 Alumni Awards of Excellence Nomination Form</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/2019-alumni-homecoming-at-sechelt/" tabindex="-1">2019 Alumni Homecoming at Sechelt</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/" tabindex="-1">2018 Alumni Awards of Excellence</a>
+<li><a href="/about-capu/connect-with-capu/alumni/career-development-support/" tabindex="-1">Career Development Support</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/events--awards/" tabindex="-1">Events &amp; Awards</a>
 <ul class="multilevel-linkul-3">
-<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/jullian-kolstee-luminous-award/" tabindex="-1">Jullian Kolstee, Luminous Award</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/amina-el-mantari-unified-award/" tabindex="-1">Amina El Mantari, Unified Award</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/petie-chalifoux-enduring-award/" tabindex="-1">Petie Chalifoux, Enduring Award</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/kaya-dorey-confident-award/" tabindex="-1">Kaya Dorey, Confident Award</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-awards-of-excellence/randy-celebrini-creative-award/" tabindex="-1">Randy Celebrini, Creative Award</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/events--awards/alumni-award-of-excellence/" tabindex="-1">Alumni Award of Excellence</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/events--awards/alumni-chapters/" tabindex="-1">Alumni Chapters</a></li>
 
 </ul>
 
 </li>
-<li><a href="/about-capu/connect-with-capu/alumni/2018-alumni-homecoming-at-capfest/" tabindex="-1">2018 Alumni Homecoming at CapFest</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/2018-year-in-review/" tabindex="-1">2018 Year in Review</a></li>
-<li><a href="/about-capu/connect-with-capu/alumni/official-transcripts/" tabindex="-1">Official Transcripts</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/news--highlights/" tabindex="-1">News &amp; Highlights</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/connect-with-capu/alumni/news--highlights/2018-year-in-review/" tabindex="-1">2018 Year in Review</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/news--highlights/2019-alumni-homecoming-at-sechelt-/" tabindex="-1">2019 Alumni Homecoming at Sechelt </a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/news--highlights/2018-alumni-homecoming-at-capfest-/" tabindex="-1">2018 Alumni Homecoming at CapFest </a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/connect-with-capu/alumni/resources/" tabindex="-1">Resources</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/connect-with-capu/alumni/resources/join-capu-connect/" tabindex="-1">Join CapU Connect</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/resources/official-transcripts/" tabindex="-1">Official Transcripts</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/connect-with-capu/alumni/connect/" tabindex="-1">Connect</a></li>
+<li><a href="/about-capu/connect-with-capu/alumni/update-your-information/" tabindex="-1">Update Your Information</a></li>
 
 </ul>
 
@@ -936,13 +1030,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="/about-capu/connect-with-capu/give-to-capu/" tabindex="-1">Give to CapU</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/about-capu/connect-with-capu/give-to-capu/impacts-of-giving/" tabindex="-1">Impacts of Giving</a></li>
-<li><a href="/about-capu/connect-with-capu/give-to-capu/giving-opportunities/" tabindex="-1">Giving Opportunities</a>
-<ul class="multilevel-linkul-3">
-<li><a href="/about-capu/connect-with-capu/give-to-capu/giving-opportunities/giving-tuesday/" tabindex="-1">Giving Tuesday</a></li>
-
-</ul>
-
-</li>
+<li><a href="/about-capu/connect-with-capu/give-to-capu/giving-opportunities/" tabindex="-1">Giving Opportunities</a></li>
 <li><a href="/about-capu/connect-with-capu/give-to-capu/donor-community/" tabindex="-1">Donor Community</a>
 <ul class="multilevel-linkul-3">
 <li><a href="/about-capu/connect-with-capu/give-to-capu/donor-community/testimonials/" tabindex="-1">Testimonials</a></li>
@@ -966,26 +1054,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li><a href="/about-capu/connect-with-capu/employment/" tabindex="-1">Employment</a>
+<li><a href="/about-capu/connect-with-capu/careers/" tabindex="-1">Careers</a>
 <ul class="multilevel-linkul-2">
-<li><a href="/about-capu/connect-with-capu/employment/human-resources/" tabindex="-1">Human Resources</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/employee-stories/" tabindex="-1">Employee Stories</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/current-opportunities/" tabindex="-1">Current Opportunities</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/who-we-are/" tabindex="-1">Who We Are</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/what-we-do/" tabindex="-1">What We Do</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/where-we-are/" tabindex="-1">Where We Are</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/why-work-here/" tabindex="-1">Why Work Here</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/how-to-apply-/" tabindex="-1">How To Apply </a></li>
-<li><a href="/about-capu/connect-with-capu/employment/faqs/" tabindex="-1">FAQs</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/testing/" tabindex="-1">Testing</a>
+<li><a href="/about-capu/connect-with-capu/careers/why-capu/" tabindex="-1">Why CapU</a></li>
+<li><a href="/about-capu/connect-with-capu/careers/our-employees/" tabindex="-1">Our Employees</a>
 <ul class="multilevel-linkul-3">
-<li><a href="/about-capu/connect-with-capu/employment/testing/microsoft-access-2016-testing-criteria/" tabindex="-1">Microsoft Access 2016 Testing Criteria</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/testing/microsoft-excel-2016-testing-criteria/" tabindex="-1">Microsoft Excel 2016 Testing Criteria</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/testing/microsoft-word-2016-testing-criteria/" tabindex="-1">Microsoft Word 2016 Testing Criteria</a></li>
+<li><a href="/about-capu/connect-with-capu/careers/our-employees/employee-stories/" tabindex="-1">Employee Stories</a></li>
 
 </ul>
 
 </li>
+<li><a href="/about-capu/connect-with-capu/careers/faqs/" tabindex="-1">FAQs</a></li>
 
 </ul>
 
@@ -998,45 +1077,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
+<li class="hide-nav-item"><a href="/about-capu/connect-with-capu/contractor-information/" tabindex="-1">Contractor Information</a></li>
 
-</ul>
+<a class="view-all" tabindex="-1" href="/about-capu/connect-with-capu/">View All</a></ul>
 
 </li>
 <li><a href="/about-capu/governance/" tabindex="-1">Governance</a>
 <ul class="multilevel-linkul-1 large-nav">
-<li><a href="/about-capu/governance/presidents-office/" tabindex="-1">President's Office</a>
-<ul class="multilevel-linkul-2">
-<li><a href="/about-capu/governance/presidents-office/administration/" tabindex="-1">Administration</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/" tabindex="-1">Our Team</a>
-<ul class="multilevel-linkul-3">
-<li><a href="/about-capu/governance/presidents-office/our-team/paul-dangerfield/" tabindex="-1">Paul Dangerfield</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/toran-savjord/" tabindex="-1">Toran Savjord</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/laureen-styles/" tabindex="-1">Laureen Styles</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/jacqui-stewart/" tabindex="-1">Jacqui Stewart</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/cyndi-banks/" tabindex="-1">Cyndi Banks</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/chris-bottrill/" tabindex="-1">Chris Bottrill</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/ted-gervan/" tabindex="-1">Ted Gervan</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/pouyan-mahboubi/" tabindex="-1">Pouyan Mahboubi</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/brad-martin/" tabindex="-1">Brad Martin</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/jennifer-moore/" tabindex="-1">Jennifer Moore</a></li>
-<li><a href="/about-capu/governance/presidents-office/our-team/halia-valladares-montemayor/" tabindex="-1">Halia Valladares Montemayor</a></li>
-
-</ul>
-
-</li>
-<li><a href="/about-capu/governance/presidents-office/presidents-installation/" tabindex="-1">President's Installation</a></li>
-<li><a href="/about-capu/governance/presidents-office/reports--initiatives/" tabindex="-1">Reports &amp; Initiatives</a>
-<ul class="multilevel-linkul-3">
-<li><a href="/about-capu/governance/presidents-office/reports--initiatives/envisioning-2030/" tabindex="-1">Envisioning 2030</a></li>
-
-</ul>
-
-</li>
-<li><a href="/about-capu/governance/presidents-office/history-of-the-office/" tabindex="-1">History of the Office</a></li>
-
-</ul>
-
-</li>
+<li><a href="/about-capu/governance/administration/" tabindex="-1">Administration</a></li>
 <li><a href="/about-capu/governance/board-of-governors/" tabindex="-1">Board of Governors</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/" tabindex="-1">Members of the Board</a>
@@ -1045,17 +1093,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/duncan-brown/" tabindex="-1">Duncan Brown</a></li>
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/paul-dangerfield/" tabindex="-1">Paul Dangerfield</a></li>
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/r-paul-dhillon/" tabindex="-1">R. Paul Dhillon</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/grace-dupasquier/" tabindex="-1">Grace Dupasquier</a></li>
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/michael-fleming/" tabindex="-1">Michael Fleming</a></li>
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/david-fung/" tabindex="-1">David Fung</a></li>
-<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/emily-gaudette/" tabindex="-1">Emily Gaudette</a></li>
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/patricia-heintzman/" tabindex="-1">Patricia Heintzman</a></li>
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/cherian-itty/" tabindex="-1">Cherian Itty</a></li>
-<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/soon-kim/" tabindex="-1">Soon Kim</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/barbara-joe/" tabindex="-1">Barbara Joe</a></li>
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/mila-mattson/" tabindex="-1">Mila Mattson</a></li>
-<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/aurelea-mahood/" tabindex="-1">Aurelea Mahood</a></li>
-<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/hassan-merali/" tabindex="-1">Hassan Merali</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/layne-north/" tabindex="-1">Layne North</a></li>
 <li><a href="/about-capu/governance/board-of-governors/members-of-the-board/andrew-petrozzi/" tabindex="-1">Andrew Petrozzi</a></li>
-<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/carleen-thomas/" tabindex="-1">Carleen Thomas</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/majid-raja/" tabindex="-1">Majid Raja</a></li>
+<li><a href="/about-capu/governance/board-of-governors/members-of-the-board/rodger-so/" tabindex="-1">Rodger So</a></li>
 
 </ul>
 
@@ -1065,7 +1113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="/about-capu/governance/board-of-governors/schedule-of-board-meetings/" tabindex="-1">Schedule of Board Meetings</a></li>
 <li><a href="/about-capu/governance/board-of-governors/board-of-governors-elections/" tabindex="-1">Board of Governors Elections</a>
 <ul class="multilevel-linkul-3">
-<li><a href="/about-capu/governance/board-of-governors/board-of-governors-elections/elections-result/" tabindex="-1">Elections Result</a></li>
+<li><a href="/about-capu/governance/board-of-governors/board-of-governors-elections/elections-results/" tabindex="-1">Elections Results</a></li>
 
 </ul>
 
@@ -1144,9 +1192,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </ul>
 
 </li>
-<li><a href="/about-capu/governance/chancellor/" tabindex="-1">Chancellor</a></li>
 <li><a href="/about-capu/governance/policies/" tabindex="-1">Policies</a></li>
-<li class="hide-nav-item"><a href="/about-capu/governance/budget-plans--reports/" tabindex="-1">Budget, Plans &amp; Reports</a>
+<li><a href="/about-capu/governance/budget-plans--reports/" tabindex="-1">Budget, Plans &amp; Reports</a>
 <ul class="multilevel-linkul-2">
 <li><a href="/about-capu/governance/budget-plans--reports/aboriginal-service-plan--reports/" tabindex="-1">Aboriginal Service Plan &amp; Reports</a></li>
 <li><a href="/about-capu/governance/budget-plans--reports/academic--strategic-plan/" tabindex="-1">Academic &amp; Strategic Plan</a></li>
@@ -1178,6 +1225,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li><a href="/about-capu/governance/accreditation/core-themes/" tabindex="-1">Core Themes</a></li>
 <li><a href="/about-capu/governance/accreditation/nwccu-reporting-schedule/" tabindex="-1">NWCCU Reporting Schedule</a></li>
 <li><a href="/about-capu/governance/accreditation/education-quality-assurance-designation/" tabindex="-1">Education Quality Assurance Designation</a></li>
+
+</ul>
+
+</li>
+<li class="hide-nav-item"><a href="/about-capu/governance/chancellor/" tabindex="-1">Chancellor</a></li>
+<li class="hide-nav-item"><a href="/about-capu/governance/presidents-office/" tabindex="-1">President's Office</a>
+<ul class="multilevel-linkul-2">
+<li><a href="/about-capu/governance/presidents-office/presidents-news/" tabindex="-1">President's News</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/" tabindex="-1">Executive Leadership</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/paul-dangerfield/" tabindex="-1">Paul Dangerfield</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/toran-savjord/" tabindex="-1">Toran Savjord</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/laureen-styles/" tabindex="-1">Laureen Styles</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/jacqui-stewart/" tabindex="-1">Jacqui Stewart</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/cyndi-banks/" tabindex="-1">Cyndi Banks</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/chris-bottrill/" tabindex="-1">Chris Bottrill</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/ted-gervan/" tabindex="-1">Ted Gervan</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/pouyan-mahboubi/" tabindex="-1">Pouyan Mahboubi</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/brad-martin/" tabindex="-1">Brad Martin</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/dawn-whitworth/" tabindex="-1">Dawn Whitworth</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/lara-duke/" tabindex="-1">Lara Duke</a></li>
+<li><a href="/about-capu/governance/presidents-office/executive-leadership/jennifer-ingham/" tabindex="-1">Jennifer Ingham</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/presidents-office/reports--initiatives/" tabindex="-1">Reports &amp; Initiatives</a>
+<ul class="multilevel-linkul-3">
+<li><a href="/about-capu/governance/presidents-office/reports--initiatives/envisioning-2030/" tabindex="-1">Envisioning 2030</a></li>
+
+</ul>
+
+</li>
+<li><a href="/about-capu/governance/presidents-office/history-of-the-office/" tabindex="-1">History of the Office</a></li>
+<li><a href="/about-capu/governance/presidents-office/university-memberships/" tabindex="-1">University Memberships</a></li>
+<li><a href="/about-capu/governance/presidents-office/presidents-community-involvement/" tabindex="-1">President's Community Involvement</a></li>
 
 </ul>
 
@@ -1340,32 +1423,36 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     
          
     
-        <footer id="footer">
+          <footer id="footer">
       <div class="container">
         <div id="footer-address">
-          <h2 id="footer-logo"><a href="#">Capilano University</a></h2>
-          <div class="cap-address">
-            <h3>North Shore Campus<br>Capilano University</h3>
-            <p>2055 Purcell Way<br> North Vancouver, BC<br> V7J 3H5</p>
-          </div>
-          <div class="cap-address">
-            <h3><span class="underline">k</span>ála<span class="underline">x</span>-ay Sunshine Coast Campus<br>Capilano University</h3>
-            <p>5627 Inlet Avenue<br> Sechelt, BC<br> V0N 3A0</p>
-          </div>
-        </div><!--#cap-address-->
+           <div id="print-footer-logo">
+              <img src="/media/capilanouca/images/interface/svg/CapU-logo-b-w.svg">
+          </div>           
+            <h2 id="footer-logo"><a href="https://www.capilanou.ca">Capilano University</a></h2>
+           <div class="cap-address">
+            <h3>Capilano University Campuses</h3>
+            <ul>
+<li><a href="/about-capu/get-to-know-us/our-campuses/capu-main-campus/">CapU Main Campus</a></li>
+<li><a title="Sunshine Coast Campus" href="https://www.capilanou.ca/about-capu/get-to-know-us/our-campuses/sunshine-coast-campus/" target="_blank"><span style="text-decoration: underline;">k</span>ála<span style="text-decoration: underline;">x</span>-ay Sunshine Coast Campus</a></li>
+<li><a href="/about-capu/get-to-know-us/our-campuses/capu-lonsdale/">CapU Lonsdale</a></li>
+</ul>
+           </div><!--.cap-address-->
+        </div><!--#footer-address-->
         <div id="footer-links">
           <ul>
 <li><a href="/programs--courses/get-started/visit-capu/">Visit Capilano University</a></li>
 <li><a href="/about-capu/connect-with-capu/contact-us/">Contact Us</a></li>
 <li><a href="/about-capu/get-to-know-us/our-campuses/maps--directions/">Maps &amp; Directions</a></li>
-<li><a href="/programs--courses/search--select/explore-our-areas-of-study/subscribe-to-newsletters/">Subscribe to Newsletters</a></li>
+<li><a href="/programs--courses/search--select/explore-our-areas-of-study/subscribe-to-our-newsletter/">Subscribe to Our Newsletter</a></li>
 </ul>
 <ul>
 <li><a href="/mycapu/">myCapU</a></li>
 <li><a href="/student-life/support--wellness/safety--security/">Safety &amp; Security</a></li>
-<li><a href="/about-capu/connect-with-capu/employment/">Employment</a></li>
+<li><a href="/about-capu/connect-with-capu/careers/">Careers</a></li>
+<li><a title="BC's Top Employers" href="https://content.eluta.ca/top-employer-capilano-university" target="_blank">BC's Top Employers</a></li>
 <li><a title="Library" href="https://library.capilanou.ca/">Library</a></li>
-</ul>
+</ul>          
         </div><!--#footer-links-->
         <div id="footer-social">
           <div id="icon-facebook">
@@ -1431,7 +1518,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <ul>
 <li><a href="/">Capilano University</a></li>
 <li><a href="/privacy-statement/">Privacy Statement</a></li>
-<li><a href="/-copyright-policy/">Copyright Policy</a></li>
+<li><a href="/copyright-policy/">Copyright Policy</a></li>
 <li><a href="/about-capu/get-to-know-us/media-releases/">Media</a></li>
 </ul>
         </div><!--#footer-bottom-->
@@ -1449,7 +1536,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script type="text/javascript" src="/media/capilanouca/javascript/warning.js"></script><!--- Warning Message ---->
 <script type="text/javascript" src="/media/capilanouca/javascript/tagged.js"></script><!-- news Tagging-->
 <script type="text/javascript" src="/media/capilanouca/php/event-calendar/js/php-events-calendar.js"></script><!-- Event Calendar Script - Needed for Event Type View -->
-
+<script type="text/javascript" src="/media/capilanouca/javascript/slick.js"></script><!-- This is specific to the homepage - or any page that includes the carousel/slider -->
+<script type="text/javascript" src="/media/capilanouca/javascript/slider-controls.js"></script><!-- Used to activate the carousel/slider - slider-controls-->
 
   <!-- fitvids.js enables responsive youtube embeds. Ideally, this would only be needed in basic pages-->
   <script>$(".container").fitVids();</script><!-- call fitvids.js -->
