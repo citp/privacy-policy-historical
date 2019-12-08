@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2019-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190419175532id_/https%3A//www.thegreatcourses.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208121826id_/https%3A//www.thegreatcourses.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
