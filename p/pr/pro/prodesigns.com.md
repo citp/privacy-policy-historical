@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodesigns.com privacy policy that was archived on 2018-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180921124325id_/https%3A//www.prodesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodesigns.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208170603id_/https%3A//www.prodesigns.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ProDesigns
 
