@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bris.ac.uk privacy policy that was archived on 2019-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190613161734id_/https%3A//www.bristol.ac.uk/style-guides/web/policies/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bris.ac.uk privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208163246id_/http%3A//www.bristol.ac.uk/style-guides/web/policies/legal/privacy) for the most accurate reproduction.*
 
 # Privacy and cookies | Style guides | University of Bristol
 
