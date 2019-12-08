@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330152241id_/https%3A//www.buildabear.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildabear.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208171810id_/https%3A//www.buildabear.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Build-A-Bear Workshop Global Privacy Policy - effective May 30, 2018
+# Build-A-Bear Workshop Global Privacy Policy - effective October 21, 2019
 
-Scope: This Privacy Policy applies to websites and retail stores operated by or on behalf of Build-A-Bear Workshop and its Affiliates worldwide.  
+Scope: This Privacy Policy applies to websites and retail stores operated by or on behalf of Build-A-Bear Workshop and its Affiliates (including, without limitation, Build-A-Bear Card Services LLC, Build-A-Bear Entertainment, LLC, Build-A-Bear Retail Management, Inc. and Build-A-Bear Workshop Franchise Holdings, Inc.) worldwide.  
 Except for the Build-A-Bear “Play” website, which is intended for all ages, the Build-A-Bear websites, including but not limited to the “Shop” website, are not intended for children under 16 years of age and are for adults only. Build-A-Bear does not sell products for purchase by children. We sell children’s products for purchase by adults. If you are under 18, you may use our websites only with the involvement of a parent or guardian (except for the Build-A-Bear “Play” website, which can be used by people of all ages).
 
 Personal Information:
@@ -69,15 +69,15 @@ Slough, Berkshire SL1 3SA, United Kingdom
 [privacy@buildabear.co.uk](mailto:privacy@buildabear.co.uk)  
 Telephone: +44 (0) 800 5420635
 
-## Build-A-Bear Workshop Global Privacy Policy - effective May 30, 2018
+## Build-A-Bear Workshop Global Privacy Policy - effective October 21, 2019
 
 The Build-A-Bear Workshop family of companies respects your privacy, and we will do our best to earn and keep your trust. All Personal Information that you share with us is treated with the utmost care. Build-A-Bear Workshop has created this Privacy Policy in order to demonstrate our firm commitment to the privacy of all our guests from all over the world. This Privacy Policy identifies what Personal Information we collect when you visit our stores or use our websites or other online services, what choices you can make about your Personal Information, how we use this data, and how we protect your Personal Information, and applies to all Personal Information provided to us in our stores or through our websites or other online services.
 
 Except for the Build-A-Bear “Play” website, which is intended for all ages, the Build-A-Bear websites, including but not limited to the “Shop” website, are not intended for children under 16 years of age and are for adults only. Build-A-Bear does not sell products for purchase by children. We sell children’s products for purchase by adults. If you are under 18, you may use our websites only with the involvement of a parent or guardian (except for the Build-A-Bear “Play” website, which can be used by people of all ages).
 
-Build-A-Bear Workshop complies with the EU-U.S. Privacy Shield Principles, including the Supplemental Principles (collectively, the “Privacy Shield Principles”), as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union (the “EU”) to the United States (the “U.S.”). Build-A-Bear Workshop has certified to the Department of Commerce that it adheres to the Privacy Shield Principles, including the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability, as well as the Supplemental Principles. If there is any conflict between the terms in the Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/). A list of companies that are currently certified under the Privacy Shield is available at [www.privacyshield.gov/list.](https://www.privacyshield.gov/list)
+Build-A-Bear Workshop complies with the EU-U.S. Privacy Shield Principles, including the Supplemental Principles (collectively, the “Privacy Shield Principles”), as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information transferred from the European Union (the “EU”) and the United Kingdom (the “UK”) to the United States (the “U.S.”) in reliance on Privacy Shield. Build-A-Bear Workshop has certified to the Department of Commerce that it adheres to the Privacy Shield Principles, including the Privacy Shield Principles of Notice; Choice; Accountability for Onward Transfer; Security; Data Integrity and Purpose Limitation; Access; and Recourse, Enforcement, and Liability, as well as the Supplemental Principles. If there is any conflict between the terms in the Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/). A list of companies that are currently certified under the Privacy Shield is available at [www.privacyshield.gov/list.](https://www.privacyshield.gov/list)
 
-We may, but shall not be required to, also process Personal Information submitted relating to individuals in the EU via other compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses. Our Privacy Shield compliance is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (“FTC”), and we are committed to responding promptly to inquiries and requests by the United States Department of Commerce for information relating to the Privacy Shield Principles.
+We may, but shall not be required to, also process Personal Information submitted relating to individuals in the EU and the UK via other compliance mechanisms, including data processing agreements based on the EU Standard Contractual Clauses. Our Privacy Shield compliance is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (“FTC”), and we are committed to responding promptly to inquiries and requests by the United States Department of Commerce for information relating to the Privacy Shield Principles.
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://ico.org.uk/concerns/eu-us-privacy-shield/>.
 
@@ -108,6 +108,7 @@ first and last names;
 email address;  
 postal address;  
 date of birth and/or age;  
+phone number;  
 sex/gender;  
 credit card information;  
 payment details;  
@@ -141,6 +142,7 @@ Build-A-Bear Workshop collects and uses your Personal Information to:
   * Send friends and families emails and e-cards on your behalf
   * Send surveys
   * Help you receive email and direct mail
+  * Help you receive text messages
   * Help you register for contests, sweepstakes, promotions, lotteries, loyalty programs and competitions
   * Help you send us testimonials, guest submissions, or other communications
   * Help you submit a book review
@@ -164,7 +166,7 @@ Build-A-Bear Workshop will also contact individuals whose Personal Information i
 
 #### Children’s Privacy
 
-Build-A-Bear Workshop is committed to protecting children’s privacy on the Internet. No one under age 16 may provide any Personal Information to or on the websites. Build-A-Bear Workshop does not knowingly collect Personal Information from children under 16. If you are under 16, do not use or provide any information on our websites or retail stores, make any purchases through our websites, use any of the interactive or public comment features of our websites or retail stores or provide any information about yourself or others to us, including your/others name, address, telephone number, email address, or any screen name or user name you/others may use. If we learn we have collected or received Personal Information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from a child under 16, please contact us at [privacy@buildabear.com](mailto:privacy@buildabear.com) or [privacy@buildabear.co.uk](mailto:privacy@buildabear.co.uk).
+Build-A-Bear Workshop is committed to protecting children’s privacy on the Internet. No one under age 16 may provide any Personal Information to or on the websites. Build-A-Bear Workshop does not knowingly collect Personal Information from children under 16. _If you are under 16, do not use or provide any information on our websites or retail stores, make any purchases through our websites, use any of the interactive or public comment features of our websites or retail stores or provide any information about yourself or others to us, including your/others name, address, telephone number, email address, or any screen name or user name you/others may use._ If we learn we have collected or received Personal Information from a child under 16 without verification of parental consent, we will delete that information. If you believe we might have any information from a child under 16, please contact us at [privacy@buildabear.com](mailto:privacy@buildabear.com) or [privacy@buildabear.co.uk](mailto:privacy@buildabear.co.uk).
 
 #### What Personal Information is collected online from children under 16 and how is it used?
 
@@ -242,11 +244,11 @@ The FTC has committed to reviewing on a priority basis referrals alleging non-co
 
 #### Use of Human Resource Personal Information Subject to Privacy Shield
 
-Where a member of the Build-A-Bear Workshop group in the EU transfers Personal Information about its employees (past or present) collected in the context of the employment relationship, to a parent, affiliate, or unaffiliated service provider in the U.S. participating in the Privacy Shield, the transfer enjoys the benefits of the Privacy Shield. In such cases, Build-A-Bear Workshop will comply with the Privacy Shield Principles, make reasonable efforts to accommodate employee privacy preferences, and will not use employees’ exercise of their rights under Privacy Shield to restrict employment opportunities or take punitive action against employees.
+Where a member of the Build-A-Bear Workshop group in the EU or UK transfers Personal Information about its employees (past or present) collected in the context of the employment relationship, to a parent, affiliate, or unaffiliated service provider in the U.S. participating in the Privacy Shield, the transfer enjoys the benefits of the Privacy Shield. In such cases, Build-A-Bear Workshop will comply with the Privacy Shield Principles, make reasonable efforts to accommodate employee privacy preferences, and will not use employees’ exercise of their rights under Privacy Shield to restrict employment opportunities or take punitive action against employees.
 
 Build-A-Bear Workshop collects Personal Information from its employees to administer employee evaluations, payroll, compensation surveys, benefits, and its Employee Discount Program. Build-A-Bear Workshop will comply with all relevant laws, and, as applicable, the Privacy Shield Principles, in the collection and use of employee-related Personal Information. To the extent and for the period necessary to avoid prejudicing the ability of Build-A-Bear Workshop in making promotions, appointments, or other similar employment decisions, we may not offer employees the notice and choice options described in the Privacy Shield Principles. Similarly, for occasional employment-related operational needs, such as the booking of a flight, hotel room, or insurance coverage, transfers of Personal Information of a small number of employees may take place with limited access or the entering into a contract with the third-party transferee, provided that we otherwise comply with the Privacy Shield Principles. Access must also be limited in the context of employee security investigations or grievance proceedings or in connection with employee succession planning and corporate re-organizations.
 
-Where employees in the EU make complaints about violations of their Personal Information protection rights and are not satisfied with the results of our internal review, complaint, and appeal procedures, they will be directed to the state or national data protection or labor authority in the jurisdiction where the employees work. Build-A-Bear Workshop commits to cooperate with competent EU Data Protection Authorities in the investigation and resolution of Privacy Shield complaints with regard to human resources Personal Information transferred from a European country to the U.S. Build-A-Bear Workshop will comply with any advice given by the Data Protection Authorities where such authorities take the view that we need to take specific action to comply with the Privacy Shield Principles.
+Where employees in the EU or UK make complaints about violations of their Personal Information protection rights and are not satisfied with the results of our internal review, complaint, and appeal procedures, they will be directed to the state or national data protection or labor authority in the jurisdiction where the employees work. Build-A-Bear Workshop commits to cooperate with competent EU or UK Data Protection Authorities in the investigation and resolution of Privacy Shield complaints with regard to human resources Personal Information transferred from a European country to the U.S. Build-A-Bear Workshop will comply with any advice given by the Data Protection Authorities where such authorities take the view that we need to take specific action to comply with the Privacy Shield Principles.
 
 #### Changes to This Privacy Policy
 
@@ -357,22 +359,23 @@ Build-A-Bear Workshop UK Limited
 2nd Floor, Aquasulis House  
 10 - 14 Bath Road  
 Slough, Berkshire SL1 3SA, United Kingdom  
-Email: [privacy@buildabear.co.uk](https://web.archive.org/web/20190330152241id_/https%3A//www.buildabear.com/privacy@buildabear.co.uk)  
+Email: [privacy@buildabear.co.uk](https://web.archive.org/web/20191208171810id_/https%3A//www.buildabear.com/privacy@buildabear.co.uk)  
 Telephone: +44 (0) 800 5420635
 
-If you are a resident of a European country participating in the Privacy Shield and you believe we maintain your Personal Information within the scope of this Privacy Shield certification, you may direct any questions or complaints to our United Kingdom email and postal addresses above. We are committed and required to respond to any of your inquiries on this issue within forty-five (45) days of receiving the complaint.
+If you are a resident of the EU or the UK and you believe we maintain your Personal Information within the scope of this Privacy Shield certification, you may direct any questions or complaints to our United Kingdom email and postal addresses above. We are committed and required to respond to any of your inquiries on this issue within forty-five (45) days of receiving the complaint.
 
 ### USES OF PERSONAL INFORMATION
 
 #### Customers and visitors to our site
 
-What we collect: | We may use your information for the following purposes, based on the following legal grounds: | Recipients:  
+Uses for Site Guests What we collect: | We may use your information for the following purposes, based on the following legal grounds: | Recipients:  
 ---|---|---  
   
   * first and last names;
   * email address;
   * postal address;
   * date of birth and/or age;
+  * phone number;
   * sex/gender;
   * credit card information;
   * payment details;
@@ -416,7 +419,7 @@ What we collect: | We may use your information for the following purposes, based
   
 #### Suppliers and supplier personnel
 
-What we collect: | We may use your information for the following purposes, based on the following legal grounds: | Recipients:  
+Uses for Supplier Personnel What we collect: | We may use your information for the following purposes, based on the following legal grounds: | Recipients:  
 ---|---|---  
   
   * first and last names;
@@ -479,4 +482,4 @@ Health and Safety | Assessments
 Policy Statements  
 Records of consultations with safety representatives | Permanently  
   
-[Click here](https://www.buildabear.com/brand-about-cookies.html) to learn about cookies on Build-A-Bear.com and Build-A-Bear.co.uk.
+[Click here](https://www.buildabear.com/brand-about-cookies.html) to learn about cookies on buildabear.com and buildabear.co.uk.
