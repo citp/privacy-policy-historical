@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628005121id_/http%3A//www.wabcradio.com/1111/11/11/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabcradio.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208035833id_/https%3A//www.wabcradio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WABC-AM | Cumulus
+# Privacy Policy | 77 WABC Radio
 
 ## CUMULUS MEDIA, INC  
 INTERNET PRIVACY POLICY
@@ -50,7 +50,7 @@ Third‐party platforms and services accessible through the Cumulus Platform hav
 
 ### INFORMATION WE RECEIVE FROM THIRD PARTIES
 
-We may receive information about you from third parties. For example, if you are on another website and you opt‐ in to receive information from Cumulus, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information, Device Identifiers, and Personal Information such as lists of your friends, “likes”, comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on the Cumulus Platform to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections'” web page, profile page, or similar page on a social networking or other third party website or interactive service. We may also receive information about you from third party data providers. We may supplement the information we collect about you through the Cumulus Platform with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you.
+We may receive information about you from third parties. For example, if you are on another website and you opt‐ in to receive information from Cumulus, that website will submit to us your email address and other information about you so that we may contact you as requested. You may also choose to participate in a third party application or feature (such as one of our Facebook or Twitter applications or a similar application or feature on a third party website) through which you allow us to collect (or the third party to share) information about you, including Usage Information, Device Identifiers, and Personal Information such as lists of your friends, “likes”, comments you have shared, groups and location. Services like Facebook Connect give you the option to post information about your activities on the Cumulus Platform to your profile page to share with others within your network. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections” or information about you is otherwise accessible through your “connections’” web page, profile page, or similar page on a social networking or other third party website or interactive service. We may also receive information about you from third party data providers. We may supplement the information we collect about you through the Cumulus Platform with such information from third parties in order to enhance our ability to serve you, to tailor our content to you and/or to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
 ### SECURITY
 
@@ -90,6 +90,5 @@ Cumulus Digital Department
 3280 Peachtree Road  
 Suite 2300  
 Atlanta, GA 30305  
-Attn: Customer Service
-
+Attn: Customer Service  
 E‐Mail: [privacy@cumulus.com](mailto:privacy@cumulus.com)
