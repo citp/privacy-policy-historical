@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331205346id_/https%3A//www.editorandpublisher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the editorandpublisher.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209001246id_/https%3A//www.editorandpublisher.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Editor & Publisher
+# Privacy Policy – Editor & Publisher Magazine
 
 Duncan McIntosh Company Inc. (“DMC”), owner of editorandpublisher.com, strives to offer its visitors the many advantages of Internet technology to make your visit to our website informative and enjoyable and to protect your privacy online. Please note this policy applies only to information collected by DMC online and does not impact information collected or used by DMC or its affiliates through other means. This privacy policy may change from time to time so please check back periodically.
 
