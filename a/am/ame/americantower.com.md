@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americantower.com privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520052059id_/http%3A//www.americantower.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americantower.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208215614id_/https%3A//www.americantower.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,7 @@ This notice is intended for all landlords, employees, and other natural persons 
 
 ### What is the applicable law?
 
-American Tower is subject to the rules of the various jurisdictions in which it handles personal data including, but not limited to, the Massachusetts Data Privacy Act and the General Regulation on the Protection of Personal Data 2016/679 of April 27, 2016 (directly applicable from May 25, 2018).
+American Tower is subject to the rules of the various jurisdictions in which it handles personal data including, but not limited to, the Massachusetts Data Privacy Act and the General Regulation on the Protection of Personal Data 2016/679 of April 27, 2016 (directly applicable from May 25, 2018) (“GDPR”), and the California Consumer Protection Act (“CCPA”).
 
 ### What data is collected?
 
@@ -56,7 +56,7 @@ In addition, under the applicable regulations, you have the right to lodge a com
 
 In the event of a dispute and in the event that an amicable agreement cannot be reached with respect to the subject matter set forth herein, the competent court will be the one determined according to the applicable rules of procedure.
 
-You may contact American Tower for any purpose concerning this Privacy Notice by leaving e-mail for the Privacy Officer and/or Data Protection Officer at [privacy.officer@americantower.com](mailto:privacy.officer@americantower.com), or contacting the Privacy Officer at +1-617-375-7500 or 116 Huntington Avenue, 11th Floor, Boston, MA 02116.
+You may contact American Tower for any purpose concerning this Privacy Notice by leaving e-mail for the Privacy Officer and/or Data Protection Officer at [privacy.officer@americantower.com](mailto:privacy.officer@americantower.com), or contacting the Privacy Officer at +1-617-375-7500, in the United States toll-free at 1-877-282-7483 or 116 Huntington Avenue, 11th Floor, Boston, MA 02116.
 
 ## Web Site Privacy Notice
 
@@ -80,9 +80,9 @@ Unless explicitly stated to the contrary on this web site, American Tower uses a
 
 ### Cookies
 
-A "cookie" is a small file or part of a file which American Tower creates and stores on your computer for a period of time. The cookies contains information about the things you do on this web site (such as a user identification code, customized preferences, or a record of pages visited) which is used by American Tower to provide you with automated features and/or customized materials or services. Most internet browsers allow you to refuse to accept cookies if you wish to do so. Please refer to your browser’s help function for more information. Be aware that at least some of the functionality of the American Tower web site will not be available if you set your browser to refuse cookies.
+A “cookie” is a small file or part of a file which American Tower creates and stores on your computer for a period of time. The cookies contain information about the things you do on this web site (such as a user identification code, customized preferences, or a record of pages visited) which is used by American Tower to provide you with automated features and/or customized materials or services. Most internet browsers allow you to refuse to accept cookies if you wish to do so. Please refer to your browser’s help function for more information. Be aware that at least some of the functionality of the American Tower web site will not be available if you set your browser to refuse cookies.
 
-### On Line Advertising
+### Online Advertising
 
 American Tower does not allow third party advertising on its web site. Unless otherwise explicitly stated to the contrary on the web site, no information collected on this web site will be used for the purpose of targeting third party advertising, nor will any such information be provided to any third party advertising firm.
 
