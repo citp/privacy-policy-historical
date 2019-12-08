@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515110729id_/https%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppst.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208020359id_/https%3A//www.pppst.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Pete's Place Privacy Policy
 
@@ -6,18 +6,22 @@
 
 [pppst.com](https://www.pppst.com/index.html) does not collect information on visitors to its Website.
 
-However, Google, as a third party vendor, uses cookies to serve ads on our site.
+Google, as a third party vendor, uses cookies to serve ads on our site.
 
-  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website.
+  * Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to our website. These ads are provided by [Google](http://www.google.com/) via the [Google AdSense program](http://www.google.com/adsense). pppst.com does not select the ads or control the content of ads provided by Google via the Google AdSense program.
 
-  * Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet.
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our site and/or other sites on the Internet.
 
-  * Users may opt out of the use of the [DoubleClick cookie](http://www.google.com/ads/preferences/html/opt-out.html) for interest-based advertising by visiting the [ads preference manager](http://www.google.com/ads/preferences/). (Alternatively, users can opt out of a third-party vendor's use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+  * Users may opt out of the use of the DoubleClick cookie for interest based advertising by visiting Google’s [Ads Personalization Settings](https://adssettings.google.com/).
+
+  * Alternately, users can opt out of Google’s use of cookies for interest based advertising by visiting [aboutads.info](http://www.aboutads.info/).
+
+  * To learn more about how Google uses information from pppst.com, see [“How Google Uses Information from Sites or Apps That Use Our Services”](https://policies.google.com/technologies/partner-sites) and visit the Google [Privacy & Terms](https://policies.google.com/) site. 
 
 
 
 
-The only ads we use on our website, pppst.com, are ads provided by [Google](http://www.google.com/) via the [Google AdSense program.](http://www.google.com/adsense)
+**pppst.com uses a third party technology called Ezoic.** To learn more about how Ezoic collects and uses information—or to change your privacy consent settings for Ezoic services on this website—visit the [Ezoic Service Privacy Policy](https://g.ezoic.net/privacy/pppst.com) for pppst.com.
 
 ## Privacy Policy Regarding Children
 
