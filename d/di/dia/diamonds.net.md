@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diamonds.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331041750id_/https%3A//www.diamonds.net/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diamonds.net privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209000919id_/https%3A//www.diamonds.net/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Diamonds.Net - Privacy Policy
 
