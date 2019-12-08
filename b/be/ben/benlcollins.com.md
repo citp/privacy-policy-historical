@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benlcollins.com privacy policy that was archived on 2019-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190423205352id_/https%3A//www.benlcollins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benlcollins.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208013544id_/https%3A//www.benlcollins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ben Collins
 
