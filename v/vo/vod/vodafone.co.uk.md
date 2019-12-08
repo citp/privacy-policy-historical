@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624001115id_/https%3A//www.vodafone.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.uk privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208085236id_/https%3A//www.vodafone.co.uk/privacy) for the most accurate reproduction.*
 
 # Read the Vodafone privacy and cookies policies
 
@@ -6,7 +6,7 @@ Our privacy and cookies policy gets updated from time to time. Whenever we make 
 
 We have revised our privacy and cookies policy, refreshing it to tie in with the launch of our new Privacy Portal.  
 
-  **Last updated: 29  August 2018**
+  **Last updated: 12  November 2019**
 
 **How to use this privacy and cookies policy**
 
@@ -147,11 +147,8 @@ Vodafone uses personal data such as your name, email address, password, mobile p
 **Marketing**
 
   * As our customer, we will contact you to keep you informed about new and existing products and services, competitions, prize draws and other promotions. We may also send you newsletters or white papers and occasionally invite you to participate in market research. We tailor these messages based on the products and services you’ve bought from us in the past, or information we have from third parties such as Experian.
-
   * With your permission, we can use your calling and messaging activities, location information and browsing information to further tailor our messages to you. To **opt in** text **Start Network**  and/or **Start Location**  to **9774** on your Vodafone mobile. Alternatively, you can contact a member of our [customer services](http://www.vodafone.co.uk/contact-us/) team, or use our [privacy query form](https://www.vodafone.co.uk/gdpr-privacy-query-form/index.htm) to have a member of our dedicated team respond to you.
-
   * If you have given your permission, we will also contact you to let you know about products and services of Vodafone Group companies and those of other companies which we think may interest you
-
   * There are various ways that we may do this – including by email, post, phone, text, picture message or notifications through our apps.
   * You can control your marketing permissions and the data we use to tailor these communications at any time. See 'Opting out of marketing' within the 'Your rights' ** ** section of this privacy policy.
 
@@ -208,7 +205,7 @@ Where applicable, we share information about you with:
   * Emergency services (if you make an emergency call), including your approximate location
   * Third parties for joint promotions with that third party. They’ll be responsible for their own compliance with applicable privacy laws
   * Other third parties when you are signing up to their service and it is used by them for authentication and fraud-prevention purposes
-  * Third parties that we advertise with, such as Facebook, in order to serve you advertisements online
+  * Third parties that we advertise with in order to serve you advertisements online (e.g. Facebook, Google, Twitter, Amazon). You can opt-out of this by managing your account permissions. To do this see the ‘Your Rights’ section below.
   * Third parties that we use to serve you marketing, for example, MailChimp
 
 
@@ -237,6 +234,10 @@ We collect and combine information in order to monitor your use of products and 
 Where you buy a third-party product or service through your Vodafone account (such as [Charge to Bill for mobile](http://www.vodafone.co.uk/explore/music-tv-and-sports/vodafone-charge-to-bill/)), the contract for it is with the party selling that product or service. Vodafone is only charging the amount directly to your bill as part of its arrangements with the seller (or with a third party authorised by the seller). As part of this, you’re agreeing that Vodafone may pass certain personal information to such parties to complete your purchase.
 
 The seller’s terms and conditions and privacy and cookies policies will apply to how it uses your personal information – please read them carefully.
+
+You may connect third party devices to your SIM, either manually via a SIM card or electronically through our OneNumber product. These include mobile phone devices or connected devices such as smart speakers or smart watches.
+
+When you connect your SIM to these devices those third parties may record your SIM details or your interaction with the network. The third party device manufacturers will process your personal data in accordance with their privacy policies and we recommend that you read these before choosing to connect.
 
 We may need to transfer your information to other Vodafone Group companies or service providers in countries outside the European Economic Area (EEA). The EEA consists of countries in the European Union, Switzerland, Iceland, Liechtenstein and Norway: they are considered to have equivalent laws when it comes to data protection and privacy. This kind of data transfer may happen if our servers (i.e. where we store data) or our suppliers and service providers are based outside the EEA, or if you use our services and products while visiting countries outside this area.
 
@@ -328,20 +329,20 @@ If you want to know more about cookies, head to [aboutcookies.org](http://www.ab
 
 **How we use cookies**
 
-We use cookies to do a number of things. For example, remembering your preferences, recording what you've put in your shopping basket, or counting the number of people looking at a website. We also use them to keep track of what you've bought from us, what you've done on the site, and to make online advertising more relevant to you.
+We use cookies to do a number of things. For example, remembering your preferences, recording what you've put in your shopping basket, or counting the number of people looking at a website. We also use them to keep track of what you've bought from us, what you've done on the site, and to make advertising more relevant to you.
 
-Cookies themselves don't hold personal information. They only have a unique alphanumeric identifier that sits on your browser. And in many cases, we won’t be able to link the information we collect by using a cookie back to you. They can, however, enable us to link that information back to you and your personal information, for example, when you log in, or choose to register for a service, white paper or newsletter.
+Cookies have a unique alphanumeric identifier that sits on your browser. In many cases, we won’t be able to link the information we collect by using a cookie back to you. They can, however, enable us to link that information back to you and your personal information, for instance, when you log in, or choose to register for a service, white paper or newsletter. For example, we may use web analytics to determine which ISP your IP address uses for browsing which can then be used to personalise the communications you receive from us (if you are opted into receiving personalised communications). For further information on how we use your information please see our [Privacy Policy](https://www.vodafone.co.uk/privacy#privacy-policy).
 
-We've put our cookies into the following categories, to make it easier for you to understand why we need them:
+We have categorised our cookies into the following categories:
 
   1. Strictly necessary – these are used to help make our website work efficiently.
   2. Performance – these are used to analyse the way our website works and how we can improve it.
   3. Functionality – these help to enhance your experience by doing things like remembering products you've added to your basket.
-  4. Targeting/advertising – these are used to share some information with third parties who we advertise with, so we know how you've reached our website. We can also use cookies to identify the parts of the website that you are interested in. We then use this information to show you adverts and pages we think may also be of interest to you, to tailor how we communicate with you, or to tailor the contents of the communications we send to you. If you prefer, you can opt out of these. Tailoring of content means it includes information reflecting the interest you’ve shown in the content of our web pages, or offers or promotions that we think may interest you, and to improve how we respond to your needs.
+  4. Targeting/advertising – these are used to share some information with third parties who we advertise with, so we know how you've reached our website and to be able to reconcile at an aggregate level with our affiliate partners. We can also use cookies to identify the parts of the website that you are interested in. We then use this information to show you adverts and pages we think may also be of interest to you, to tailor how we communicate with you, or to tailor the contents of the communications we send to you. If you prefer, you can manage your cookies on our website. Tailoring of content means it includes information reflecting the interest you’ve shown in the content of our web pages, or offers or promotions that we think may interest you, and to improve how we respond to your needs.
 
 
 
-Sometimes, other Vodafone Group companies will add a cookie to show you adverts and pages which may be of interest to you. Details on these, and how to opt out if you prefer, can be found in the ‘Third-party cookies’ section of this cookies policy.
+Sometimes, other companies will add a cookie on our website to show you adverts and pages which may be of interest to you. Details on these, and how to opt out if you prefer, can be found in the ‘Third-party cookies’ section of this cookies policy.
 
 In addition to the cookies we use on our websites, we also use cookies and similar technologies in some emails and push notifications we send to mobile devices from our apps. These help us to understand whether you have opened the email and how you have interacted with it. If you have enabled images, cookies may be set on your computer or mobile device. Cookies will also be set if you click on any link within the email.
 
@@ -368,27 +369,28 @@ See our list of first-party cookies (shown later on in this cookies policy).
 
 **Third-party cookies**
 
-Third-party cookies originate from a domain that’s different to the website being visited. For example, when you visit our website, we may link to another company's website – like our Facebook or Twitter account, or a video from our YouTube page. We don't control how they use their cookies, so we suggest you check their website to see how they're using them and how you can manage them.
+Third-party cookies originate from a domain that’s different to the website being visited. For example, when you visit our website, we may link to another company's website – like our Facebook or Twitter account, or a video from our YouTube page. We don't control how they use their cookies, so we suggest you check their website to see how they're using them or block the cookies via our “cookie settings” button.
 
 Affiliates of the Vodafone Group with a different domain name may also place cookies on our website, to show you adverts or pages of other Vodafone Group companies that may be of interest to you. Details of these affiliates – and how to opt out – are included in our list of third parties (shown later on in this cookies policy) that may put cookies on our website.
 
 **Controlling your cookies**
 
-You can opt in or out of cookies at any time – except strictly necessary cookies (these are used to help make our website work efficiently). Click on the **cookie settings** button to control your cookies, and toggle each cookie to **Active** or **Inactive**. You can select by category or individual cookie.
+You can opt-out of each cookie category (except strictly necessary cookies) by clicking on the “cookie settings” button below:
 
 Go to Cookie Settings
 
-Alternatively, you can enable or disable cookies in your browser. If you wish to restrict or block the cookies set by any website – including a Vodafone website – you can do this through the web browser settings for each web browser you use, on each device you use to access the internet.
+  
+Alternatively, you can control cookies in your browser, to enable or disable them. If you wish to restrict or block the cookies which are set by any website – including a Vodafone website – you can do this through the web browser settings for each web browser you use, on each device you use to access the internet.
 
-Information on controlling and deleting cookies, including on a wide variety of browsers, is also available at [allaboutcookies.org](http://www.allaboutcookies.org/)
+Information on controlling and deleting cookies, including on a wide variety of browsers, is also available at [allaboutcookies.org](http://www.allaboutcookies.org/).
 
-In our cookie policy under the heading 'Cookies and you', we’ve also provided a few links for some of the more popular browsers – but check your particular browser and device for correct and up-to-date information.
+Under the heading 'Cookies and you', we’ve also provided a few links for some of the more popular browsers – but check your particular browser and device for correct and up-to-date information.
 
 Some services – My Vodafone, for example – may not function or may have more limited functionality if your web browser does not accept cookies. However, you can allow cookies from specific websites by making them 'trusted websites' in your web browser.
 
-If you want to opt-out of cookies across different advertising networks The Internet Advertising Bureau website – [Your Online Choices](http://www.youronlinechoices.com/uk/) – has more information and guidance.
+The Internet Advertising Bureau website – [Your Online Choices](http://www.youronlinechoices.com/uk/) – allows you to install opt-out cookies across different advertising networks.
 
-If you don't wish to accept cookies from one of our emails, you can choose not to download any images or click on any links. You can also set your browser to restrict cookies or to reject them entirely. These settings will apply to all cookies, whether included on websites or in emails. Depending on your email or browser settings, cookies in an email may sometimes be automatically accepted (for example, when you've added an email address to your address book or safe senders list). For more information, refer to your email browser or device instructions.
+If you do not wish to accept cookies from one of our emails, you can choose not to download any images or click on any links. You can also set your browser to restrict cookies or to reject them entirely. These settings will apply to all cookies whether included on websites or in emails. Sometimes, depending on your email or browser settings, cookies in an email may be automatically accepted (for example, when you've added an email address to your address book or safe senders list). For more information, refer to your email browser or device instructions.
 
 **What it’s called**
 
@@ -1295,7 +1297,7 @@ _4_
 
 | 
 
-For more information, please see <http://scoota.com/privacy-policy/>  
+For more information, please see <https://www.scoota.com/privacy>  
   
 Adobe Media Optimizer
 
