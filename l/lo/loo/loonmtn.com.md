@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415114252id_/http%3A//loonmtn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loonmtn.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208175856id_/https%3A//www.loonmtn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Loon Mountain Resort, NH | Loon Mountain
+# Privacy Policy | Loon Mountain Resort, NH | Loon Mountain Resort
 
 **Information Collection & Use **  
 Boyne Resorts collects personally identifiable information from a variety of sources including:
