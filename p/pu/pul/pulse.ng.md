@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulse.ng privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630230559id_/https%3A//www.pulse.ng/info/privacy-policy-how-we-respect-your-privacy-or-pulseng/k6400dg) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulse.ng privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208162716id_/https%3A//www.pulse.ng/info/privacy-policy-how-we-respect-your-privacy-or-pulseng/k6400dg) for the most accurate reproduction.*
 
 # Privacy Policy - How We Respect Your Privacy | Pulse.ng - Pulse Nigeria
 
