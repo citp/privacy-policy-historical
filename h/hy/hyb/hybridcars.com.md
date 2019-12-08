@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2019-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190515093503id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dhybridcars.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybridcars.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208233919id_/https%3A//www.verticalscope.com/site-privacy-policy/index.php%3Fsite%3Dhybridcars.com) for the most accurate reproduction.*
 
 # 
 
