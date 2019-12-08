@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620003330id_/http%3A//jobg8.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobg8.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208090304id_/http%3A//www.jobg8.com/privacy.aspx) for the most accurate reproduction.*
 
 # Jobg8 - Privacy Policy
 
@@ -16,7 +16,7 @@ Back To Top
 
 Jobg8 Limited (“Jobg8”) is an online global marketplace for buying and selling qualified Job Applications, Job Seeker Traffic and Jobs. We are the world’s largest job board network. Jobg8 supplies high quality vacancies and pre-qualified applicants to job boards that deliver revenue. Since 2008, we have established our reputation as the ultimate job board resource – by growing our clients’ brands, not competing against them.
 
-Jobg8 Limited (“Jobg8”) is committed to preserving the privacy of all data passed to or processed by Jobg8, or through www.jobg8.com or www.jobg8alerts.com (either to be known as “the site”).
+Jobg8 Limited (“Jobg8”) is committed to preserving the privacy of all data passed to or processed by Jobg8, or through www.jobg8.com, www.jobg8alerts.com or www.usajobcentral.com (either to be known as “the site”).
 
 #### 1.3 Data Controller / Data Processor
 
@@ -143,7 +143,7 @@ If you change your mind about being contacted by Jobg8 and would like personal d
 
 ### 4 Cookies
 
-Cookies are small amounts of data, which we store on your computer and are essential for proper use of the Jobg8 sites. Our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in this case, you may not be able to use our site to its full capabilities. For further details, please refer to our [Cookies Policy](https://web.archive.org/web/20190620003330id_/http%3A//jobg8.com/cookiepolicy.aspx)
+Cookies are small amounts of data, which we store on your computer and are essential for proper use of the Jobg8 sites. Our system will issue cookies to your computer when you log on to the site. Cookies make it easier for you to log on and use the site during future visits. They also allow us to monitor website traffic and to personalise the content of the site for you. You may set up your computer to reject cookies although, in this case, you may not be able to use our site to its full capabilities. For further details, please refer to our [Cookies Policy](https://web.archive.org/web/20191208090304id_/http%3A//www.jobg8.com/cookiepolicy.aspx)
 
 ### 5 Links to Other Websites
 
