@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the freephonenum.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624214712id_/https%3A//freephonenum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freephonenum.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208150546id_/https%3A//freephonenum.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Disposable Phone Numbers for Text | Privacy Policy | Receive Text Free
+
+  
+We use Ezoic to provide personalization and analytic services on this website, as such Ezoic's privacy policy is in effect and can be reviewed [here](https://g.ezoic.net/privacy/freephonenum.com).  
+
 
 Our Privacy Policy was last updated and posted on June 8, 2017. It governs the privacy terms of our Website, located at https://freephonenum.com, sub-domains, and any associated web-based and mobile applications (collectively, "Website"), as owned and operated by FreePhoneNum.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
