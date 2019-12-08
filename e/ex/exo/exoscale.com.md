@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exoscale.com privacy policy that was archived on 2019-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190602224610id_/https%3A//www.exoscale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoscale.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208174118id_/https%3A//www.exoscale.com/privacy) for the most accurate reproduction.*
 
 # Privacy License Agreement | Exoscale European Cloud
 
