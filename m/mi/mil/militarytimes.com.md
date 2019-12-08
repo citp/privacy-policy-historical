@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militarytimes.com privacy policy that was archived on 2019-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190615170653id_/https%3A//www.militarytimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarytimes.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208175236id_/https%3A//www.militarytimes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,8 @@
   * **Service Providers.**
   * **Business Partners.**
   * **Law Enforcement.**
-  * **Social Networking Sites (SNS)**
+  * **Social Networking Sites (SNS).**
+  * **External Recruiters and Additional Service Providers.**
   * **Third Parties.**
   * **Otherwise With Your Consent Or At Your Direction.**
 
@@ -56,15 +57,17 @@
 
 **XI. SECURITY, RETENTION, AND STORAGE OF INFORMATION**
 
-**XII. INTERNATIONAL TRANFERS**
+**XII. MARKETING**
 
-**XIII. CHANGES TO OUR PRIVACY POLICY**
+**XIII. INTERNATIONAL TRANFERS**
 
-**XIV. HOW TO CONTACT US**
+**XIV. CHANGES TO OUR PRIVACY POLICY**
+
+**XV. HOW TO CONTACT US**
 
 ### I. INTRODUCTION 
 
-This Privacy Policy applies to your use of websites, interactive services, email programs and mobile device applications as well as any other products, features, materials or other services provided by Sightline Media Group (collectively, the “Services”). Sightline respects your privacy and is committed to protecting your personal data.
+This Privacy Policy applies to your use of websites, interactive services, email programs and mobile device applications as well as any other products, features, materials or other services provided by Sightline Media Group LLC (collectively, the “Services”). Sightline respects your privacy and is committed to protecting your personal data.
 
 By using any of our Services, you agree that this Privacy Policy and our [Terms of Service](http://sightlinemediagroup.com/terms-of-service/) govern your use of our Services and any dispute concerning our Services. Please take a few minutes to read them before using or registering for access to our Services.
 
@@ -129,7 +132,7 @@ The following links provide useful information about how to manage your advertis
 
 In addition, the following links provide useful information about how to manage your advertising cookie choices: 
 
-  * [www.networkadvertising.org/choices/](https://web.archive.org/web/20190615170653id_/https://www.militarytimes.com/privacy/www.networkadvertising.org/choices/)
+  * [www.networkadvertising.org/choices/](https://web.archive.org/web/20191208175236id_/https://www.militarytimes.com/privacy/www.networkadvertising.org/choices/)
   * <http://www.aboutads.info/choices/>
   * <http://youronlinechoices.com/>
 
@@ -191,9 +194,13 @@ We may share your personal data with our channel partners to fulfill obligations
 
 We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
-**Social Networking Sites (SNS)**
+**Social Networking Sites (SNS).**
 
 Our Services may enable you to post content to a SNS. If you choose to do this, we will provide information to the SNS in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third-party provider of such SNS. We will not be responsible or liable for: (i) the availability or accuracy of such SNS; (ii) the content, products or services on or availability of such SNS; or (iii) your use of any such SNS.
+
+**External Recruiters and Additional Service Providers.**
+
+We contract with other companies to provide products, services or functions on our behalf, including credit card and billing processing, ad serving, email distribution, analytics, promotions management, and recruiting initiatives. We provide these companies only with the information they need to perform their services. These service providers agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them. These service providers are restricted from using personal information in any way other than to provide services for Sightline, and they may not share, resell or use the data for their own direct marketing purposes.
 
 **Third Parties.**
 
@@ -213,7 +220,7 @@ Our Services may contain links to third-party websites. When you click on a link
 
 **Postal Mail.**
 
-To remove your name and postal address from lists that we sell or rent to third parties for their direct marketing purposes, or to opt-out of receiving marketing offers by mail, please email us at [opt-out@sightlinemg.com](mailto:opt-out@sightlinemg.com), or write to us at Opt-Out Postal, Sightline Media Group, 1919 Gallows Road, Suite 400, Vienna, VA 22182. Please note that if you choose to opt-out of Sightline’s promotional mailings, you may still receive renewal notices and related offers for any magazines to which you subscribe.
+To remove your name and postal address from lists that we sell or rent to third parties for their direct marketing purposes, or to opt-out of receiving marketing offers by mail, please email us at [opt-out@sightlinemg.com](mailto:opt-out@sightlinemg.com), or write to us at Opt-Out Postal, Sightline Media Group LLC, 1919 Gallows Road, Suite 400, Vienna, VA 22182. Please note that if you choose to opt-out of Sightline’s promotional mailings, you may still receive renewal notices and related offers for any magazines to which you subscribe.
 
 If you prefer not to receive e-mail marketing from Sightline Media Group or any of its affiliates, please follow the “unsubscribe” instructions near the bottom of each email or email us at [opt-out@sightlinemg.com](mailto:opt-out@sightlinemg.com). If you no longer wish to receive a specific newsletter, follow the “unsubscribe” instructions located near the bottom of each newsletter. If you feel you have received an email or newsletter from us in error, please contact [privacy@sightlinemg.com](mailto:privacy@sightlinemg.com).
 
@@ -261,7 +268,7 @@ You, and we, confirm that it is our wish that this Privacy Policy and all other 
 
 ###  IX. YOUR CALIFORNIA PRIVACY RIGHTS 
 
-Under the California “Shine The Light” law, California residents may opt-out of Sightline’s disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by emailing us at [opt-out@sightlinemg.com](mailto:opt-out@sightlinemg.com), or submitting a request to Opt-Out Postal, Sightline Media Group, 1919 Gallows Road, Suite 400, Vienna, VA 22182. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
+Under the California “Shine The Light” law, California residents may opt-out of Sightline’s disclosure of personal information to third parties for their direct marketing purposes. As detailed above, you may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by emailing us at [opt-out@sightlinemg.com](mailto:opt-out@sightlinemg.com), or submitting a request to Opt-Out Postal, Sightline Media Group LLC, 1919 Gallows Road, Suite 400, Vienna, VA 22182. It is important to note that this opt-out does not prohibit disclosures made for non-marketing purposes.
 
 ###  X. KIDS AND PARENTS 
 
@@ -273,23 +280,27 @@ Sightline is committed to protecting the security of your personal data. We use 
 
 We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws.
 
-###  XII. INTERNATIONAL TRANFERS 
+###  XII. MARKETING 
+
+We may use your personal data to send you information about the services and/or job opportunities provided by Sightline Media Group, LLC; provided, however that we will obtain consent to do so from European Economic Area data subjects. You may unsubscribe from our marketing e-mails by clicking “Unsubscribe” in any promotional or job opportunities e-mail communications we send you. As permitted by applicable law, you cannot opt-out of non-marketing, services-related notices.
+
+###  XIII. INTERNATIONAL TRANFERS 
 
 Sightline is headquartered in the United States. Please be aware that if information you provide to us or that we obtain as a result of your use of the Services may be collected in your country and subsequently transferred to the United States or to another country in accordance with applicable law.
 
 Sightline (as Data Controller and Data Exporter) has, where local data protection regulations so require, put in place security measures for the export of personal data from its jurisdiction. For instance, where required, Sightline takes steps to ensure that your personal data is processed only in accordance with EU Data Protection laws. If you wish to learn more about international transfers of your personal data, you may contact our Data Protection Officer at [dpo@sightlinemg.com](mailto:dpo@sightlinemg.com).
 
-###  XIII. CHANGES TO OUR PRIVACY POLICY 
+###  XIV. CHANGES TO OUR PRIVACY POLICY 
 
 This Privacy Policy may be updated from time to time for any reason. If we decide to change our Privacy Policy in the future, we will post the changes here and indicate at the top of the policy the last date on which it was updated. Unless otherwise noted, all changes will be effective when posted. Continued use of our Services, following posting of such changes, shall indicate your acknowledgement of such changes and agreement to be bound by the terms of such changes. If you do not agree, you should immediately discontinue your use of the Services.
 
-###  XIV. HOW TO CONTACT US 
+###  XV. HOW TO CONTACT US 
 
 If you have any questions or concerns about the Sightline Media Group Privacy Policy or its implementation, please contact us via email at [privacy@sightlinemg.com](mailto:privacy@sightlinemg.com) or in writing to:
 
 Legal Department
 
-Sightline Media Group
+Sightline Media Group LLC
 
 1919 Gallows Road, Ste. 400
 
@@ -297,4 +308,4 @@ Vienna, Virginia 22182
 
 This website may include links to third-party websites, plug-ins and applications. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third-party websites and are not responsible for their privacy statements. When you leave our website, we encourage you to read the privacy notice of every website you visit.
 
-This Privacy Policy was revised January 29, 2019.
+This Privacy Policy was revised September 13, 2019.
