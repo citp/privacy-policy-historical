@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the farming-simulator.com privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523081033id_/https%3A//farming-simulator.com/privacyPolicy.php%3Flang%3Den%26country%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farming-simulator.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208153439id_/https%3A//farming-simulator.com/privacyPolicy.php%3Flang%3Den%26country%3Dus) for the most accurate reproduction.*
 
 # Official Website | Farming Simulator
 
-[ ](https://web.archive.org/web/20190523081033id_/https%3A//farming-simulator.com/index.php?lang=en&country=us)
+[ ](https://web.archive.org/web/20191208153439id_/https%3A//farming-simulator.com/index.php?lang=en&country=us)
 
 This is the Privacy Policy of GIANTS Software GmbH (“GIANTS”, “we”). We offer information and the opportunity to download electronic games (hereinafter jointly referred to as “Services”) in the Shop section (“Shop”) of our websites (“Website”). This Privacy Policy will inform you about the type of personal data we collect in the context of your use of the Services and about the purpose for which it will be used. It will also inform you about your rights. We take our responsibility for the protection and processing of personal data very seriously. We use a variety of technical means and contractual arrangements to protect your data against unauthorised access and loss. We have implemented the necessary technical and organizational measures. Please note that where links lead to the websites of third parties, those companies provide their own privacy notices which apply to the use of their websites. We only offer our services to individuals who are at least 16 years old. Therefore we do not knowingly collect data from, or process data of, individuals under the age of 16.
 
