@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401111428id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-amateur-videos.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208130916id_/http%3A//www.ccbill.com/cs/policies/PP-consumer-english.html) for the most accurate reproduction.*
 
 # CCBill Consumer Privacy Policy
 
@@ -97,7 +97,7 @@ CCBill may share your Personal Data (name, address and email) with unaffiliated 
 
 9\. Changes
 
-We reserve the right to change this Privacy Policy. We constantly review our Privacy Policy and strive towards making it better. CCBill will not reduce your rights stated in this Policy without asking for explicit prior consent to the changes. All changes to our Privacy Policy will be available on this website. You can access the previous versions of this Policy [here](https://www.ccbill.com/gdpr/gdpr_v1.html).
+We reserve the right to change this Privacy Policy. We constantly review our Privacy Policy and strive towards making it better. CCBill will not reduce your rights stated in this Policy without asking for explicit prior consent to the changes. All changes to our Privacy Policy will be available on this website. You can access the previous versions of this Policy [here](https://ccbill.com/gdpr/gdpr_v1.html).
 
 10\. To Sum Up
 
