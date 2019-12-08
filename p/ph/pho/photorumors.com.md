@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the photorumors.com privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624040218id_/http%3A//nikonrumors.com/2012/09/01/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photorumors.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208171727id_/https%3A//photorumors.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nikon Rumors
+# Privacy Policy - Photo Rumors
 
 ## **Privacy Policy**
 
-This Privacy Policy governs your use of this web site and any content made available from or through this web site located at [https://nikonrumors.com](https://nikonrumors.com/), including any subdomains thereof (the "Web Site"). The Web Site is made available by NikonRumors (or "we" or "us").
+This Privacy Policy governs your use of this web site and any content made available from or through this web site located at [https://photorumors.com](https://photorumors.com/), including any subdomains thereof (the "Web Site"). The Web Site is made available by PhotoRumors (or "we" or "us").
 
 By visiting this Web Site or using the services offered on or through this Web Site, you agree to the terms of this Privacy Policy, as they may be amended from time to time. As we update and expand our Web Site and services, this Privacy Policy may change, so check back to this page from time to time.
 
@@ -94,7 +94,7 @@ In the unlikely event that we believe that the security of your Personal Informa
 
 With identity theft a continuing problem, it has become increasingly common for unauthorized individuals to send e-mail messages to consumers, purporting to represent a legitimate company such as a bank or on-line merchant, requesting that the consumer provide personal, often sensitive information. Sometimes, the domain name of the e-mail address from which the e-mail appears to have been sent, and the domain name of the web site requesting such information, appears to be the domain name of a legitimate, trusted company. In reality, such sensitive information may be collected by an unauthorized individual to be used for purposes of identity theft. This illegal activity has come to be known as "phishing."
 
-If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and [report](https://nikonrumors.com/tips/) such request to us at.
+If you receive an e-mail or other correspondence requesting that you provide any sensitive information (including your Web Site password or credit card information) via e-mail or to a web site that does not seem to be affiliated with our Web Site, or that otherwise seems suspicious to you, please do not provide such information, and [report](https://photorumors.com/tips/) such request to us at.
 
 **F.** **Children**
 
@@ -120,8 +120,8 @@ The Web Site reserves the right to change or update this Privacy Policy, or any 
 
 **(iii) Contact Us**
 
-If you have any questions or comments regarding our privacy practices, you may [contact us](https://nikonrumors.com/tips/).
+If you have any questions or comments regarding our privacy practices, you may [contact us](https://photorumors.com/tips/).
 
 Effective Date: September 1, 2012
 
-This entry was posted in [Other Nikon stuff](https://nikonrumors.com/category/uncategorized/). Bookmark the [permalink](https://nikonrumors.com/2012/09/01/privacy-policy.aspx/ "Permalink to Privacy Policy"). Both comments and trackbacks are currently closed. 
+This entry was posted in [Other](https://photorumors.com/category/uncategorized/). Bookmark the [permalink](https://photorumors.com/2012/09/01/privacy-policy/ "Permalink to Privacy Policy"). Both comments and trackbacks are currently closed. 
