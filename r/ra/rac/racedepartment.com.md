@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407184229id_/https%3A//www.racedepartment.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racedepartment.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208013106id_/https%3A//www.racedepartment.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | RaceDepartment - Latest Formula 1, Motorsport, and Sim Racing News
+# Privacy Policy | RaceDepartment
 
-  * Welcome to the largest (sim) racing website in the world!
-
-Blurring the line between real and virtual motorsports. 
-  * 
-
-
-[ ](https://www.racedepartment.com/)
-
-We are RaceDepartment.com operated by Department Network ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://web.archive.org/web/20190407184229id_/https://www.racedepartment.com/help/privacy/misc/contact).
+We are RaceDepartment.com operated by Department Network ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us]().
 
 ## What information we hold about you
 
@@ -64,7 +56,7 @@ We may collect non-personally identifiable information about you in the course o
 
 By creating an account on our sites or any of their related services you may make personal data about yourself public and accessible to others on your profile or through interactions such as replying to or creating forum posts. This may in some cases constitute special category protected data which is considered manifestly made public by the user.
 
-Due to the public nature of information posted on our sites and services it may be possible for third parties to derive identifying personal data from posts by reading, inference, supplemental research, or automated extraction and analysis. You may also choose to use the service without posting data or engaging in network interactions. However, if you do not agree with and accept the risks of such usage, you may not use the services. You are free to use your real name or pseudonym of your choosing as your username. You may request your username be changed to a pseudonym at any time if your current username contains personally identifying information by using the [contact us](https://web.archive.org/web/20190407184229id_/https://www.racedepartment.com/help/privacy/misc/contact) form.
+Due to the public nature of information posted on our sites and services it may be possible for third parties to derive identifying personal data from posts by reading, inference, supplemental research, or automated extraction and analysis. You may also choose to use the service without posting data or engaging in network interactions. However, if you do not agree with and accept the risks of such usage, you may not use the services. You are free to use your real name or pseudonym of your choosing as your username. You may request your username be changed to a pseudonym at any time if your current username contains personally identifying information by using the [contact us]() form.
 
 Some game services are hosted wholly or in part by the games developer/publisher or other third party. Due to this some information about you or your game session is exposed and possibly collected by those parties.
 
@@ -98,19 +90,21 @@ Our current payment processors are:
 
 ## Advertising
 
-We use third-party advertising companies who serve ads to help keep content free. For these partners, we put additional restrictions on how your data can be used to prevent it from misuse. For instance, we do not allow these partners to take your information for profiling and personalising ads on other sites.
+We use third-party advertising companies who serve ads to help keep content free. For these partners, we put additional restrictions on how your data can be used to prevent it from misuse. For instance, we do not allow these partners to take information we have collected for profiling and personalising ads on other sites.
 
-You may review the following for a full list of partners and purposes: 
+### Common ID Cookie
 
-  * [PubGalaxy (Titan Gate AD)](https://www.pubgalaxy.com/privacy-policy.html)
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie by clicking here.
 
+### Advertising Privacy Settings
 
+When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking here.
 
 ## Rights
 
-You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](https://web.archive.org/web/20190407184229id_/https://www.racedepartment.com/help/privacy/misc/contact). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us](https://web.archive.org/web/20190407184229id_/https://www.racedepartment.com/help/privacy/misc/contact) to ask us to complete or correct that information.
+You have a right to access the personal data we hold about you or obtain a copy of it. To do so please [contact us](). If you believe that the information we hold for you is incomplete or inaccurate, you may [contact us]() to ask us to complete or correct that information.
 
-You also have the right to request the erasure of your personal data. Please [contact us](https://web.archive.org/web/20190407184229id_/https://www.racedepartment.com/help/privacy/misc/contact) if you would like us to remove your personal data. The removal process will not remove your public facing content such as forum posts and comments. This data will be anonymised and no longer linked to you personal information. After removal some of your combined account data may continue to exist in backups for a period of 90 days. Some single data points such as your IP may continue to reside in logs for up to 1 year.
+You also have the right to request the erasure of your personal data. Please [contact us]() if you would like us to remove your personal data. The removal process will not remove your public facing content such as forum posts and comments. This data will be anonymised and no longer linked to you personal information. After removal some of your combined account data may continue to exist in backups for a period of 90 days. Some single data points such as your IP may continue to reside in logs for up to 1 year.
 
 If there are posts or other content on the site which contain personally identifying information you wish to remove, please click the 'report' button under the post and provide an explanation of the nature of the information.
 
@@ -124,11 +118,4 @@ Continued use of our site signifies your acceptance of this policy. If you do no
 
 We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.
 
-**This policy was last updated: 26th May 2018**
-
-  1. This site uses cookies to help personalise content, tailor your experience and to keep you logged in if you register.  
-By continuing to use this site, you are consenting to our use of cookies. 
-
-[__](https://web.archive.org/web/20190407184229id_/https://www.racedepartment.com/help/privacy/account/dismiss-notice?notice_id=-1 "Dismiss Notice")
-
-
+**This policy was last updated: 15th November 2019**
