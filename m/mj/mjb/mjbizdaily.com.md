@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mjbizdaily.com privacy policy that was archived on 2019-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190517091411id_/https%3A//mjbizdaily.com/privacy-policy-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mjbizdaily.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208174852id_/https%3A//mjbizdaily.com/privacy-policy-copyright) for the most accurate reproduction.*
 
 # How Marijuana Business Daily Respects Your Right to Privacy + Our Copyright Policies
 
