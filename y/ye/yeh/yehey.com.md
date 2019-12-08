@@ -1,99 +1,63 @@
-> *The following text is extracted and transformed from the yehey.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628021608id_/http%3A//www.yehey.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yehey.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208142446id_/https%3A//yehey.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to the New Yehey!
+# Yehey.com Privacy Policy
 
-Privacy Policy
+### Summary
 
-Yehey! is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. This policy may change from time to time so please check back periodically. 
+This privacy policy explains what information is collected and how it is used. Your privacy is important and the goal of this Privacy Policy is to be as simple and non-technical as possible. This version of the Privacy Policy replaces and supersedes any prior privacy policies.
 
-What personally identifiable information does Yehey! collect from me? 
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Yehey! collects information in several ways from different parts of our network of web sites. 
+### What Information is Collected and How
 
-Some personal information is gathered when you register. Upon registration, Yehey! asks for your name, email address, birth date, gender, zip code, occupation, industry, personal interests and more. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register you are no longer anonymous to Yehey! - you are given a Yehey! ID and are able to take full advantage of Yehey!'s many offerings.
+**Collection of Personal Information**  
+When visiting our website, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-In addition to registration we may ask you for personal information at other times, including (but not limited to) when you enter a contest or promotion sponsored by Yehey! and/or our many partners; when you submit a listing for a web site; and when you report a problem with one of our sites or services. If you constantly keep in contact with Yehey! we may keep a record of that correspondence. Yehey! also occasionally asks users to complete surveys that we use for research purposes. Wherever Yehey! collects personal information we make an effort to include a link to this Privacy Policy on that page.   
-What are cookies and how does Yehey! use them? 
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-As part of offering and providing customizable and personalized services, Yehey! uses cookies to store and sometimes track information about you. A “cookie” is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. All sites on Yehey! where you are prompted to log-in or that are customizable require that you accept cookies. (See "What are my choices regarding collection, use and distribution of my information?" for more information on cookies.) 
+#### Technical information is collected when you interact with the Network
 
-**Generally, we use cookies to:**
+Like almost all websites or mobile applications, the Network may create and record certain information in an automated way. For example, when you use the Network, its servers may automatically record information about your interaction with its products (“Log Data”), including information that your browser sends whenever you visit a website. Log Data may include the address of the web page you were visiting before you came to the Network, your Internet Protocol address, the date and time of your request, browser type and settings, and how you interacted with the Network.
 
-**(1)** Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services. Yehey! also uses cookies to store your zip code for other services, such as Yellow Pages. 
+The Network may also use “cookies” (a small text file that is stored on a user’s computer for record-keeping purposes), or similar technologies to record Log Data. When cookies are used, the Network may use “session” cookies (that last until you close your browser) or “persistent” cookies (that last until you or your browser delete them). For example, the Network may use cookies to store your language preferences or other Network settings so you don’t have to set them up every time you visit the Network.
 
-**(2)** Estimate our audience size. Each browser accessing Yehey! is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus an unregistered user, and to help target advertisements based on user interests and behavior. 
+The Network may also collect information about the device you’re using when accessing the Network, including what type of device it is, what operating system you’re using, device settings, unique device identifiers, and crash data. Whether the Network collects some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or an Android phone. To learn more about what information your device makes available, please also check the policies of your device manufacturer or software provider.
 
-**(3)** Assist merchants to track visits to and business at their stores. This information collected by cookies is sometimes called "clickstream" or "click trail" and may also describe which pages you have seen in each merchant's store. 
+#### Information is collected when you give it, or give permission to collect it
 
-**(4)** Track your progress and number of entries in some of our promotions and contests. When a Yehey!-hosted promotion uses cookies, the information written to the cookie indicates the player's progress through the promotion, and may be used to track entries, submissions, and status in prize drawings. 
+When you sign up for or use the Network’s Services, you may voluntarily share certain information. This can include information such as your your name, profile photo, comments, email address, and any other information you provide.
 
-**(5)** Measure certain traffic patterns, which areas of Yehey!'s network of web sites you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on Yehey! a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites. 
+### How Information is Used
 
-**Advertising networks that serve ads onto Yehey! may also use their own cookies.**
+Information collected is used to provide the Services to you and make them better, develop new Services, and protect the Network and its users.
 
-Yehey! also collects IP addresses for system administration and to report aggregate information to our advertisers. In addition, Yehey! eMail includes IP addresses in outgoing mail message headers. 
+The information collected may be “personally identifiable” (meaning it can be used to specifically identify you as a unique person) or “non-personally identifiable” (meaning it can’t be used to specifically identify you). The Network uses both types of information, and combinations of both types, as described above.
 
-**How does Yehey! use my information?**
+### How Information is Shared
 
-Yehey!'s primary goal in collecting personal information is to provide you, the user, with a customized experience on our network of sites. This includes personalization services, interactive communications, online shopping and many other types of services, most of which are completely free to you. In order to provide services free of charge, we display advertisements. By knowing a little about you, Yehey! is able to deliver more relevant advertisements and content, and hence, be of better service to you. 
+If you provide the Network with personal information, that information may be used to alert you of new products or services, features, or enhancements; handle your customer service questions or issues; request feedback; and notify you of promotions, updates, or special offers that may interest you.
 
-In our role of delivering targeted advertisements, Yehey! plays the middleman. Advertisers and Clients give us advertisements and tell us the type of audience they want to reach (for example, females over 20 years old). Yehey! takes the advertisement and displays it to users meeting that criteria. 
+Your personal information may be used with non-personal information that was collected in a manner such that the end-product does not personally identify you or any other user. Your personal information may be made non-personally identifiable by either combining it with information about other users (aggregating your personal information with information about other users), or by removing characteristics (such as your name or email address) that make the information personally identifiable. This process is known as de-personalizing your information. You grant the Network a royalty-free, worldwide, perpetual, irrevocable and fully transferable right and license to use your personal information in connection with the creation and development of analytical and statistical analysis tools relating to the use of the customer data collected (the “Analytical Data”).
 
-It is important to remember that, via this process, the advertiser never has access to individual account information—only Yehey! has access to individuals' accounts. This kind of advertisement targeting is done with multimedia ads as well as promotional email. You will only receive special offers via email from Yehey! if you have indicated in your account preferences that you would like to receive them. You can change your account preferences at any time. 
+### Children’s Privacy
 
-Yehey! does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. Yehey! may share this aggregated data with advertisers or business partners. 
+The Network is not intended for children under 13. Children’s privacy is a serious matter and parents are encouraged to play an active role in their children’s online experience at all times.
 
-**Who is collecting information?**
+### Consent
 
-When you are on a Yehey! site and are asked for personal information, you are sharing that information with Yehey! alone, unless it is specifically stated otherwise. For example, some Yehey! services, like Yehey! Jobs, are offered in conjunction with a partner company. In order to provide this co-branded service to you, it is necessary for us to share your personal information with our partner company. If data is being collected and/or maintained by any company other than Yehey!, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service. 
+By using the Network, you consent to the collection and use of this information by the Network.
 
-Promotions that run on Yehey! may be sponsored by companies other than Yehey! or may be co-sponsored by Yehey! Some or all data collected during a promotion may be shared with the sponsor. If data will be shared, you will be notified prior to the time of data collection or transfer. You can decide not to participate in the promotion if you don't want your data to be shared. Currently, most Yehey! promotions are limited to Philippine residents. 
+### Notification of Changes
 
-Please be aware that Yehey! advertisers or web sites that have links on our site may collect personally identifiable information about you. The information practices of those web sites linked to Yehey! are not covered by this privacy statement. 
+This Privacy Policy may change from time to time and all such changes will be posted on this page.
 
-**With whom does Yehey! share my information?**
+### Terms of Use
 
-As a general rule, Yehey! will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Use for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed. 
+Please read the Terms of Service governing the use of the Network.
 
-Business Partners and Sponsors: Yehey! may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data. Details of shared use can be found in specific Terms of Use, and promotions rules. Some or all data collected during a Yehey! promotion may be shared with a sponsor. If personally identifying data about you will be shared, we will tell you before we collect or transfer the data. 
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion.
 
-Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give Yehey! permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer. 
-
-From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, Yehey! will (with your permission) share your name and email address with them . 
-
-Third Party Data & Data in the Aggregate: Under confidentiality agreements, Yehey! may match user information with third party data. Also, Yehey! discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
-
-Other: Yehey! may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Yehey!'s Terms of Use or may be causing injury to or interference with (either intentionally or unintentionally) Yehey!'s rights or property, other Yehey! users, or anyone else that could be harmed by such activities. Yehey! may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
-
-**What are my choices regarding collection, use, and distribution of my information?**
-
-Yehey! may, from time to time, send you email regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from Yehey! and our partners, we may occasionally send you direct mail about products and services that we feel may be of interest to you. Only Yehey! (or agents working on behalf of Yehey! and under confidentiality agreements) will send you these direct mailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily edit your Yehey! Account Information to no longer receive such offers and mailings. You will need your Yehey! ID and Password in order to access your Yehey! Account Information. 
-
-On some types of Yehey! promotions, we will ask for your email address in order to update you on your score, entries, and status in prize drawings. When you participate in these types of promotions, you automatically receive promotion-related email, unless you choose the no-email option that some promotions offer. Occasionally these promotion-related email messages may include targeted advertisements. 
-
-You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those Yehey! services that require registration in order to participate. 
-
-Yehey! does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests. 
-
-**What is Yehey!'s policy on allowing me to update, correct, or delete my personally identifiable information?**
-
-You may edit your YEHEY! Account Information and your public Yehey! Profile at any time by using your YEHEY! ID and password. If you have forgotten your password, please click here to request a new password. For all other problems signing in to Yehey!, please complete this form 
-
-Your Yehey! account can be deleted or deactivated, but doing so will result in not being able to access any members-only area of the Yehey! network, including your Yehey! eMail account (if you have one). If you saved the confirmation email you received when you first created your Yehey! account, you can use the URL provided in that message to delete your account at any time.   
-Please contact privacy@teamyehey.com for further instructions about deleting or deactivating your Yehey! account. 
-
-**What security precautions are in place to protect the loss, misuse, or alteration of my information?**
-
-Your Yehey! Account Information and Yehey! Profile are password-protected so that you and only you have access to this personal information. You may edit your Yehey! Account Information and Yehey! Profile by using your Yehey! ID and password. 
-
-We recommend that you do not divulge your password to anyone. Yehey! will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your Yehey! account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
-
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Yehey! cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
-
-**What else should I know about my privacy?**
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
-
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
-
-Questions regarding this statement should be directed to [privacy@teamyehey.com. ](mailto:privacy@teamyehey.com)
+If you have any questions regarding the privacy policy of our website then you may contact us at support@yehey.com
