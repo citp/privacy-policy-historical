@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skidrowrepacks.com privacy policy that was archived on 2019-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190307000811id_/https%3A//skidrowrepacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skidrowrepacks.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208084711id_/https%3A//skidrowrepacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
