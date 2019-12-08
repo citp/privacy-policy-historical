@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxhealthcare.in privacy policy that was archived on 2019-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190520180840id_/https%3A//www.maxhealthcare.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxhealthcare.in privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208055620id_/https%3A//www.maxhealthcare.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Max Hospital
 
@@ -17,8 +17,6 @@ Please enter 10 digit mobile number *
 Please provide your phone number with country code
 
 Hospital Network *
-
-What code is in the image? *
 
 ## [Doc Connect](https://web.archive.org/case-study/doc-connect)
 
