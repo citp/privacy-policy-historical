@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offshoreenergytoday.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630130134id_/https%3A//www.navingo.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offshoreenergytoday.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209001112id_/https%3A//www.navingo.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Navingo
 
@@ -32,27 +32,11 @@ Navingo will be recording their events by taking pictures and recording videos. 
 Exhibitor Services - Events  
 Exhibitors of our events will be granted access to an exhibitor portal. Services in this portal may include but are not limited to:
 
-\- Entry form for data to be published in catalogue, app, website  
-\- Ordering furniture  
-\- Ordering other services  
-\- Stand services  
-\- Registration of stand personnel  
-\- Ordering exhibitor passes and other (paid) tickets
-
-Data is used to process and to communicate about orders, to inform you about event related services and to send you invoices. On top of that we publish data about your company in our catalogue, app and on our event websites. We only publish content with permission from you and your company. When registering personal data of the stand personnel is used to send delegates their e-ticket. Depending on which event you attend, name, company name, job title, country and educational level can be printed on your badge.
-
-The basis of processing this data is our justifiable interest to provide our services.
-
-Subscriptions – Print Publications
-
-If you have subscribed to (one of) our print publications, we use your personal data, name & address details to end you the publication(s). This information may also be used to send you an invoice.
-
 The basis of processing this data is our justifiable interest to provide our services.
 
 CV information – Job Portals
 
-Create account
-
+Create account  
 When you create an account you the following data about you is processed; First name, last name, sex, e-mail address, password, date of birth, address, postal code, city of residence, country, nationality, (mobile) telephone number, applications and CV-data such as, career level, aspired job position, availability, information about your educational institution, working experience, language proficiency, courses, references, computer skills, extracurricular activities, hobbies, drivers licence.
 
 When you indicate that you want to be found by companies who have vacancies on the website. The data that is collected pertains to information that is relevant for companies in order to decide if they would like to have an interview with you. This could be your personal data and CV information. When you create your account, you are able to indicate if you would like your CV information to be anonymised. If you would like to change this setting at a later moment, you can always go back into your account and change your settings or delete your account.
@@ -65,11 +49,13 @@ Through the job portals, you can also apply personally to vacancies that are off
 
 The basis of processing this data is the execution of the agreement that job portals closes with you about usage of the website. Afterwards, the concerning employer is responsible for handling the data.
 
-Analytics
-
+Analytics  
 In order to get a clear picture of the quality and effectivity of our website, we use Google Analytics and similar tools. The program uses the following data about you: IP address (last 8 numbers hidden), global location (at country level), surfing behaviour (which companies you visited and amount of time you spent on a specific page).
 
 The basis of processing this data is our justifiable interest in wanting to improve our website.
+
+Matchmaking  
+The OEEC Matchmaking program makes use of the Networktables software. If you opt-in for Offshore Energy Matchmaking, registration data such as your name, company name, job title and sector information may be shared for functional reasons. You can optionally enter more information to your profile at Networkworktables platform that will also be shared online. On the platform attendees can also exchange their contact details, but only if both parties consent. If other attendees contact you on the Networktables platform you will be notified through an email from Networktables of Offshore Energy (approximately once a week).
 
 **4\. How do we receive your personal data?**  
 Navingo has received your personal data, because you have provided this data to us.
@@ -102,7 +88,7 @@ Reaction by Navingo
 Requests may be sent to info@navingo.com. Navingo will grant your request as soon as possible, with a maximum of one (1) month after Navingo received such a request. In case Navingo rejects your request, we will inform you why the request was rejected.
 
 **6\. Recipients of data**  
-The information may be passed on to parties Navingo works with to process data, including – but not limited to - : E-mark Mail, Copernica, E-concepts, Webstecks, HVMP, Salesforce, Exonet, Piwik, SmartAdServer, Twinfield, Otys, Instant Magazine, Winsys, Microsoft, Axoft, KPN, SMPT, Drukkerij Crezee, Amsterdam RAI, Adexpo, Arti 70, CEVA, Survey Monkey, Uptrends, Add This, CloudFare, DigitalOcean, LevelLevel, Online Department, Leedfeeder, TriplePro.
+The information may be passed on to parties Navingo works with to process data, including – but not limited to - : E-mark Mail, Copernica, E-concepts, Webstecks, HVMP, Salesforce, Exonet, Piwik, SmartAdServer, Twinfield, Otys, Instant Magazine, Winsys, Microsoft, Axoft, KPN, SMPT, Drukkerij Crezee, Amsterdam RAI, Adexpo, Arti 70, CEVA, Survey Monkey, Uptrends, Add This, CloudFare, DigitalOcean, LevelLevel, Online Department, Leedfeeder, TriplePro, Networktables.
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include the trusted third parties listed above who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential.
 
