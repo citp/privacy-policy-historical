@@ -1,22 +1,79 @@
-<!--The following is the downloaded HTML source of the ondeck.com privacy policy that was archived on 2019-01-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190111003049id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ondeck.com privacy policy that was archived on 2019-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191208042038id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class=" async-hide"><head><script src="https://js-agent.newrelic.com/nr-1118.min.js"></script><script src="//tags.tiqcdn.com/utag/ondeckcapital/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);</script>
-		<title>Privacy Policy | OnDeck</title>
+<!DOCTYPE html><html lang="en-US" class=""><head><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script type="text/javascript" async="" src="//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MFTLH5S"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"8dc9f667bf",applicationID:"61354487"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+			<script>
+		document.addEventListener( 'DOMContentLoaded', function() {
+			// Set distinct_id after the mixpanel library has loaded.
+			if ( typeof window.mixpanel !== 'undefined' ) {
+
+				function getUrlParameter(name) {
+					name = name.replace(/[\[]/, '\\[').replace(/[\]]/, '\\]');
+					var regex = new RegExp('[\\?&]' + name + '=([^&#]*)', 'i' );
+					var results = regex.exec(location.search);
+					return results === null ? '' : decodeURIComponent(results[1].replace(/\+/g, ' '));
+				};
+
+				// var distinctId = window.mixpanel.get_distinct_id();
+				// window.dataLayer = window.dataLayer || [];
+				// window.dataLayer.push( {
+				// 	'userId': distinctId
+				// });
+
+				// Check for a unique query string.
+				var gclid = getUrlParameter( 'GCLID' );
+
+				if ( gclid ) {
+					window.mixpanel.register( { 'GCLID': gclid } );
+
+					window.mixpanel.track(
+						'GCLID',
+						{ 'GCLID': gclid }
+					);
+				}
+			}
+		} );
+	</script>
+	
+	<!-- Google Tag Manager -->
+	<script>(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({
+				'gtm.start': new Date().getTime(), event: 'gtm.js'
+			});
+			var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src =
+				'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer',"GTM-MFTLH5S");</script>
+	<!-- End Google Tag Manager -->
+			<title>Privacy Policy | OnDeck</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="dns-prefetch" href="//tags.tiqcdn.com">
-<script type="text/javascript">
-var utag_data = {
-    "site_name": "OnDeck",
-    "site_description": "OnDeck is the largest online small business lender in the U.S. issuing over $6 billion dollars in loans and trusted by over 60,000 small businesses providing them business loans an lines of credit.",
-    "page_type": "page",
-    "post_title": "Privacy Policy",
-    "post_author": "khicks",
-    "post_date": "2017\/07\/24"
-};
-</script>
+		<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Privacy Policy | OnDeck</title>
+<link rel="dns-prefetch" href="//munchkin.marketo.net">
+<link rel="dns-prefetch" href="//widget.trustpilot.com">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//www.youtube.com">
+<link rel="dns-prefetch" href="//player.vimeo.com">
+<link rel="dns-prefetch" href="//cdn.mxpnl.com">
+<link rel="dns-prefetch" href="//tags.tiqcdn.com">
+<link rel="dns-prefetch" href="//lptag.liveperson.net">
+<link rel="dns-prefetch" href="//tag.bounceexchange.com">
+<link rel="dns-prefetch" href="//sjs.bizographics.com">
+<link rel="dns-prefetch" href="//fullstory.com">
+<link rel="dns-prefetch" href="//connect.facebook.net">
+<link rel="dns-prefetch" href="//c1.rfihub.net">
+<link rel="dns-prefetch" href="//843-nfk-688.mktoresp.com">
+<link rel="dns-prefetch" href="//page.cdnbasket.net">
+<link rel="dns-prefetch" href="//data.cdnbasket.net">
+<link rel="dns-prefetch" href="//view.cdnbasket.net">
+<link rel="dns-prefetch" href="//cx.atdmt.com">
+<link rel="dns-prefetch" href="//www.google-analytics.com">
 
-<!-- This site is optimized with the Yoast SEO plugin v7.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v11.7 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="OnDeck values your privacy and our privacy policy has been updated effective December 29, 2016.">
 <link rel="canonical" href="https://www.ondeck.com/privacy">
 <meta property="og:locale" content="en_US">
@@ -25,101 +82,58 @@ var utag_data = {
 <meta property="og:description" content="OnDeck values your privacy and our privacy policy has been updated effective December 29, 2016.">
 <meta property="og:url" content="https://www.ondeck.com/privacy">
 <meta property="og:site_name" content="OnDeck">
-<meta property="og:image" content="https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png?fit=1304%2C617&amp;ssl=1">
-<meta property="og:image:secure_url" content="https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png?fit=1304%2C617&amp;ssl=1">
+<meta property="og:image" content="https://www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png">
+<meta property="og:image:secure_url" content="https://www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png">
 <meta property="og:image:width" content="1304">
 <meta property="og:image:height" content="617">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:description" content="OnDeck values your privacy and our privacy policy has been updated effective December 29, 2016.">
 <meta name="twitter:title" content="Privacy Policy | OnDeck">
-<meta name="twitter:image" content="https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png?fit=1304%2C617&amp;ssl=1">
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.ondeck.com\/","sameAs":[],"@id":"https:\/\/www.ondeck.com\/#organization","name":"OnDeck Capital","logo":""}</script>
-<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.ondeck.com\/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.ondeck.com\/privacy","name":"Privacy Policy"}}]}</script>
+<meta name="twitter:image" content="https://www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.ondeck.com/#organization","name":"OnDeck Capital","url":"https://www.ondeck.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.ondeck.com/#logo","url":"https://www.ondeck.com/wp-content/uploads/2017/07/favicon.png","width":520,"height":520,"caption":"OnDeck Capital"},"image":{"@id":"https://www.ondeck.com/#logo"}},{"@type":"WebSite","@id":"https://www.ondeck.com/#website","url":"https://www.ondeck.com/","name":"OnDeck","publisher":{"@id":"https://www.ondeck.com/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://www.ondeck.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://www.ondeck.com/privacy#primaryimage","url":"https://www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png","width":1304,"height":617},{"@type":"WebPage","@id":"https://www.ondeck.com/privacy#webpage","url":"https://www.ondeck.com/privacy","inLanguage":"en-US","name":"Privacy Policy | OnDeck","isPartOf":{"@id":"https://www.ondeck.com/#website"},"primaryImageOfPage":{"@id":"https://www.ondeck.com/privacy#primaryimage"},"datePublished":"2017-07-24T21:02:47+00:00","dateModified":"2019-05-30T18:29:46+00:00","description":"OnDeck values your privacy and our privacy policy has been updated effective December 29, 2016.","breadcrumb":{"@id":"https://www.ondeck.com/privacy#breadcrumb"}},{"@type":"BreadcrumbList","@id":"https://www.ondeck.com/privacy#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.ondeck.com/","url":"https://www.ondeck.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.ondeck.com/privacy","url":"https://www.ondeck.com/privacy","name":"Privacy Policy"}}]}]}</script>
 <!-- / Yoast SEO plugin. -->
 
 <link rel="dns-prefetch" href="//www.ondeck.com">
-<link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//www.youtube.com">
 <link rel="dns-prefetch" href="//player.vimeo.com">
-<link rel="dns-prefetch" href="//s.w.org">
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ondeck.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.ondeck.com/wp-includes/js/wp-emoji-release.min.js?ver=4.9.9" type="text/javascript" defer=""></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="dashicons-css" href="https://www.ondeck.com/wp-includes/css/dashicons.min.css?ver=4.9.9" type="text/css" media="all">
-<link rel="stylesheet" id="ondeck-css" href="https://www.ondeck.com/wp-content/themes/ondeck/assets/css/ondeck.min.css?ver=0.4.4" type="text/css" media="all">
-<link rel="stylesheet" id="ondeck_us-css" href="https://www.ondeck.com/wp-content/themes/ondeck-us/assets/css/ondeck-us.min.css?ver=1.0.3" type="text/css" media="all">
-<link rel="stylesheet" id="swiper-css" href="https://www.ondeck.com/wp-content/themes/ondeck/assets/js/vendor/swiper/dist/css/swiper.min.css?ver=0.4.4" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="https://www.ondeck.com/wp-content/plugins/jetpack/css/jetpack.css?ver=6.3.2" type="text/css" media="all">
-<script type="text/javascript" src="https://www.ondeck.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
-<script type="text/javascript" src="https://www.ondeck.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
-<script type="text/javascript" src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default&amp;ver=0.4.4"></script>
+<link rel="alternate" type="application/rss+xml" title="OnDeck » Feed" href="https://www.ondeck.com/feed">
+<link rel="alternate" type="application/rss+xml" title="OnDeck » Comments Feed" href="https://www.ondeck.com/comments/feed">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.ondeck.com/wp-includes/css/dist/block-library/style.min.css?ver=5.2.3" type="text/css" media="all">
+<link rel="stylesheet" id="styles-css" href="https://www.ondeck.com/wp-content/themes/ondeck-2019/dist/css/style.min.css?ver=0.1.1" type="text/css" media="all">
 <link rel="https://api.w.org/" href="https://www.ondeck.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ondeck.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ondeck.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.9.9">
 <link rel="shortlink" href="https://www.ondeck.com/?p=166276">
 <link rel="alternate" type="application/json+oembed" href="https://www.ondeck.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ondeck.com%2Fprivacy">
 <link rel="alternate" type="text/xml+oembed" href="https://www.ondeck.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ondeck.com%2Fprivacy&amp;format=xml">
 <link rel="alternate" hreflang="en-us" href="https://www.ondeck.com/privacy"><link rel="alternate" hreflang="en-ca" href="https://en-ca.ondeck.com/privacy/"><link rel="alternate" hreflang="en-au" href="https://www.ondeck.com.au/privacy-policy/"><!-- Stream WordPress user activity plugin v3.2.3 -->
-
-<link rel="dns-prefetch" href="//i0.wp.com">
-<link rel="dns-prefetch" href="//i1.wp.com">
-<link rel="dns-prefetch" href="//i2.wp.com">
-    <!-- TrustBox script -->
-    <script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
-    <!-- End Trustbox script -->
-    	<!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
+<link rel="manifest" href="https://www.ondeck.com/wp-content/themes/ondeck-2019/manifest.json">	<!-- TrustBox script -->
+	<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
+	<!-- End Trustbox script -->
+		<!-- start Mixpanel --><script type="text/javascript">(function(e,a){if(!a.__SV){var b=window;try{var c,l,i,j=b.location,g=j.hash;c=function(a,b){return(l=a.match(RegExp(b+"=([^&]*)")))?l[1]:null};g&&c(g,"state")&&(i=JSON.parse(decodeURIComponent(c(g,"state"))),"mpeditor"===i.action&&(b.sessionStorage.setItem("_mpcehash",g),history.replaceState(i.desiredHash||"",e.title,j.pathname+j.search)))}catch(m){}var k,h;window.mixpanel=a;a._i=[];a.init=function(b,c,f){function e(b,a){var c=a.split(".");2==c.length&&(b=b[c[0]],a=c[1]);b[a]=function(){b.push([a].concat(Array.prototype.slice.call(arguments,
 			0)))}}var d=a;"undefined"!==typeof f?d=a[f]=[]:f="mixpanel";d.people=d.people||[];d.toString=function(b){var a="mixpanel";"mixpanel"!==f&&(a+="."+f);b||(a+=" (stub)");return a};d.people.toString=function(){return d.toString(1)+".people (stub)"};k="disable time_event track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config reset people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
 			for(h=0;h<k.length;h++)e(d,k[h]);a._i.push([b,c,f])};a.__SV=1.2;b=e.createElement("script");b.type="text/javascript";b.async=!0;b.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";c=e.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c)}})(document,window.mixpanel||[]);
 		mixpanel.init('131312ce67923818800f21775e932f7d');</script><!-- end Mixpanel -->
-<link rel="icon" href="https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/cropped-favicon.png?fit=32%2C32&amp;ssl=1" sizes="32x32">
-<link rel="icon" href="https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/cropped-favicon.png?fit=192%2C192&amp;ssl=1" sizes="192x192">
-<link rel="apple-touch-icon-precomposed" href="https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/cropped-favicon.png?fit=180%2C180&amp;ssl=1">
-<meta name="msapplication-TileImage" content="https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/cropped-favicon.png?fit=270%2C270&amp;ssl=1">
-<!-- Google Optimize Page-Hiding Snippet -->
-<style>.async-hide { opacity: 0 !important} </style>
-<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
-		h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
-		(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
-	})(window,document.documentElement,'async-hide','dataLayer',4000,
-		{'GTM-5HN4LTT':true});</script>
-<!-- END: Google Optimize Page-Hiding Snippet -->
-
-<!-- Loading script asynchronously -->
-<script type="text/javascript">
- (function(a,b,c,d){
- a='//tags.tiqcdn.com/utag/ondeckcapital/main/prod/utag.js';
- b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
- a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
- })();
-</script>
-<!-- END: T-WP -->	<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=1643695"></script></head>
-	<body class="page-template-default page page-id-166276 page-privacy">
-
+	<link rel="icon" href="https://www.ondeck.com/wp-content/uploads/2017/07/cropped-favicon-150x150.png" sizes="32x32">
+<link rel="icon" href="https://www.ondeck.com/wp-content/uploads/2017/07/cropped-favicon-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.ondeck.com/wp-content/uploads/2017/07/cropped-favicon-300x300.png">
+<meta name="msapplication-TileImage" content="https://www.ondeck.com/wp-content/uploads/2017/07/cropped-favicon-300x300.png">
+	<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=1643695"></script></head>
+	<body class="page-template-default page page-id-166276 page-privacy theme-ondeck2019">
+		<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MFTLH5S"
+				height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
 	<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="position:absolute;width:0;height:0;visibility:hidden">
 	<defs>
 		<symbol viewBox="0 0 12 20" id="svg-arrow">
 			<title>Arrow</title>
 			<path d="M10 10a.283.283 0 0 0-.08-.197L2.492 2.087A.284.284 0 0 0 2 2.286c0 .077.03.146.08.197L9.317 10 2.08 17.516a.285.285 0 1 0 .41.395h.002L9.92 10.2c.05-.052.08-.12.08-.198" stroke-width="3" fill-rule="evenodd" fill="currentcolor"></path>
 		</symbol>
-		<symbol viewBox="0 0 24 24" id="svg-checkmark">
+		<symbol viewBox="0 0 139 110" id="svg-checkmark">
 			<title>Checkmark</title>
-			<g transform="translate(1 1)" fill="none" fill-rule="evenodd"><circle stroke="currentcolor" stroke-width="1.5" cx="11" cy="11" r="11"></circle><path d="M15.435 6l-6.262 6.667L6.565 9.89 5 11.555l2.608 2.777L9.173 16 17 7.667 15.436 6z" fill="currentcolor"></path></g>
+			<path d="M54 109.86a7.701 7.701 0 0 1-5.46-2.25L2.6 61.71a7.73 7.73 0 0 1 0-10.91l18.21-18.22a7.73 7.73 0 0 1 10.91 0L54 54.85l52-52a7.73 7.73 0 0 1 10.91 0l10.95 10.95a4.002 4.002 0 1 1-5.66 5.66L111.44 8.72l-52 52a7.73 7.73 0 0 1-10.91 0L26.27 38.43 8.45 56.25 54 101.75l78-78a4.002 4.002 0 0 1 5.66 5.66l-78.17 78.2a7.691 7.691 0 0 1-5.49 2.25" fill="currentcolor" fill-rule="evenodd"></path>
 		</symbol>
 		<symbol viewBox="0 0 28 26" id="svg-quote">
 			<title>Quotation Mark</title>
@@ -137,11 +151,11 @@ img.emoji {
 			<ellipse class="st0" cx="-419.9" cy="257.2" rx="1.5" ry="1.5" fill="currentcolor"></ellipse>
 			<path d="M-419.9 255.8v.5c.5 0 1 .4 1 1 0 .5-.4 1-1 1-.5 0-1-.4-1-1 0-.5.4-1 1-1v-1c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2v.5z" fill="currentcolor"></path>
 		</symbol>
-		<symbol viewBox="0 0 15 23" id="svg-bulb">
+		<symbol viewBox="0 0 81 126" id="svg-bulb">
 			<title>Lightbulb</title>
-			<path d="M9.771 19.197H5.198a.728.728 0 0 0-.732.724c0 .4.328.725.732.725H9.77a.728.728 0 0 0 .732-.725c0-.4-.328-.724-.732-.724M9.04 21.37H5.93a.728.728 0 0 0-.732.725c0 .4.328.724.732.724h3.11a.728.728 0 0 0 .731-.724c0-.4-.328-.725-.732-.725M12.677 2.122a.737.737 0 0 0-1.034.03.72.72 0 0 0 .03 1.024c1.123 1.05 1.741 2.446 1.741 3.931a5.346 5.346 0 0 1-1.448 3.638c-.106.112-2.588 2.775-2.588 5.772 0 .15-.005.258-.013.337h-3.76a3.656 3.656 0 0 1-.013-.336c0-2.998-2.482-5.661-2.583-5.769a5.35 5.35 0 0 1-1.453-3.642c0-3.062 2.66-5.554 5.93-5.554.782 0 1.542.14 2.26.418a.735.735 0 0 0 .947-.411.722.722 0 0 0-.416-.939A7.716 7.716 0 0 0 7.485.104C3.41.104.092 3.246.092 7.107c0 1.703.653 3.345 1.843 4.627.022.023 2.194 2.351 2.194 4.784 0 1.475.628 1.785 1.155 1.785h4.402c.527 0 1.155-.31 1.155-1.785 0-2.42 2.172-4.761 2.198-4.789 1.186-1.277 1.839-2.919 1.839-4.622 0-1.888-.782-3.659-2.2-4.985" fill-rule="evenodd" fill="currentcolor"></path>
+			<g fill="currentcolor" fill-rule="nonzero"><path d="M53 105.54H28a4 4 0 1 0 0 8h25a4 4 0 1 0 0-8M49 117.54H32a4 4 0 1 0 0 8h17a4 4 0 1 0 0-8M68.9 11.26a4 4 0 1 0-5.49 5.82A29.47 29.47 0 0 1 65 58.87c-.58.62-14.14 15.32-14.15 31.88 0 .82 0 1.42-.07 1.86H30.24c0-.44-.07-1-.07-1.86 0-16.56-13.57-31.27-14.17-31.86a29.7 29.7 0 0 1-7.9-20.11c0-16.91 14.54-30.67 32.41-30.67a33.81 33.81 0 0 1 12.35 2.31A4 4 0 1 0 55.78 3 41.81 41.81 0 0 0 40.52.11C18.23.11.1 17.46.1 38.78a37.7 37.7 0 0 0 10.08 25.55c.12.13 12 13 12 26.41 0 8.15 3.44 9.86 6.32 9.86h24.05c2.88 0 6.32-1.71 6.32-9.86 0-13.36 11.87-26.29 12-26.44a37.47 37.47 0 0 0-2-53"></path></g>
 		</symbol>
-		<symbol viewBox="0 0 30 30" id="svg-calendar">
+		<symbol viewBox="0 0 116 110" id="svg-calendar">
 			<title>Calendar</title>
 			<g stroke-width="0.6" fill-rule="evenodd">
 				<g transform="translate(-664.000000, -13855.000000)">
@@ -170,15 +184,18 @@ img.emoji {
 			<path class="cls-svg-chat5-2" d="M137.41,28.76h-.05A2.29,2.29,0,0,0,135.05,31q0,.1,0,.2a2.28,2.28,0,0,0,2.08,2.46h.22a2.37,2.37,0,0,0,2.3-2.44v0h0A2.38,2.38,0,0,0,137.41,28.76Z"></path>
 			<path class="cls-svg-chat5-2" d="M201.91,1H30.06a29.05,29.05,0,1,0,0,58.11H201.91a29.05,29.05,0,1,0,0-58.11ZM36.45,36.29a6.65,6.65,0,0,1,0-13.3h0a6.23,6.23,0,0,1,6.4,4.88l-3.08.72a3.21,3.21,0,0,0-3.32-2.74,3.79,3.79,0,0,0,0,7.58,3.28,3.28,0,0,0,3.34-2.81l3.08.62A6.12,6.12,0,0,1,36.45,36.29ZM47.64,36h-3V22.33h3ZM53,36H50V26.47h3ZM51.43,25.28a1.76,1.76,0,0,1-1.62-1.62,1.76,1.76,0,0,1,3.51,0A1.76,1.76,0,0,1,51.43,25.28Zm8.57,11a5.06,5.06,0,1,1-.45-10.11H60a4.85,4.85,0,0,1,4.86,3.67L62,30.54a2,2,0,0,0-2-1.69A2.24,2.24,0,0,0,57.72,31q0,.1,0,.2a2.23,2.23,0,0,0,2.06,2.38H60A2,2,0,0,0,62.08,32l2.79.61A4.79,4.79,0,0,1,60,36.29ZM73.14,36,70,32.57h-.55V36h-3V22.33h3v7.39h.42l3-3.25H76.6L72.42,31,77,36ZM87,36.29a3.43,3.43,0,0,1-3.8-3.8V28.88H81.43V26.47h1.73V23.66h3v2.81H89v2.41H86.19v3.31c0,1,.47,1.39,1.27,1.39a3.1,3.1,0,0,0,1.39-.38l.71,2.39A5.18,5.18,0,0,1,87,36.29Zm8.46.46a5.26,5.26,0,0,1-.52-10.51h.29A5,5,0,0,1,100.41,31q0,.11,0,.22A5.26,5.26,0,0,1,95.42,36.75Zm17.3-.46a6.65,6.65,0,0,1,0-13.3h0a6.23,6.23,0,0,1,6.4,4.88L116,28.6a3.21,3.21,0,0,0-3.32-2.74,3.79,3.79,0,0,0,0,7.58A3.28,3.28,0,0,0,116,30.63l3.12.61A6.12,6.12,0,0,1,112.72,36.29ZM130.58,36h-3V30.8a1.68,1.68,0,0,0-1.47-1.87h-.18c-1.18,0-2,.82-2,2.66V36h-3V22.33h3v5.05a4,4,0,0,1,2.94-1.2,3.64,3.64,0,0,1,3.71,4Zm9.12,0v-.76a4.3,4.3,0,0,1-3,1A4.75,4.75,0,0,1,132,31.45q0-.1,0-.21a4.76,4.76,0,0,1,4.46-5h.19a4.3,4.3,0,0,1,3,1v-.76h3l0,9.57Zm9.7.29a3.43,3.43,0,0,1-3.8-3.8V28.88h-1.73V26.47h1.73V23.66h3v2.81h2.81v2.41H148.6v3.31c0,1,.47,1.39,1.27,1.39a3.1,3.1,0,0,0,1.39-.38l.74,2.39A5.18,5.18,0,0,1,149.4,36.29ZM182,32.5,177.24,35l1.09-4.49a7.67,7.67,0,0,1-3.22-6c0-4.88,5.46-8.83,12.2-8.83s12.2,4,12.2,8.83S194,33.4,187.31,33.4A16,16,0,0,1,182,32.5Zm25.83,8.7L203,38.65a15.94,15.94,0,0,1-5.32.9,13.87,13.87,0,0,1-10.15-3.94c8.19-.07,14.79-5,14.79-11a8.24,8.24,0,0,0-.28-2.11c4.58,1.27,7.84,4.5,7.84,8.22a7.68,7.68,0,0,1-3.23,5.95Z"></path>
 		</symbol>
-		<symbol viewBox="0 0 26 21" id="svg-check">
+		<symbol viewBox="0 0 139 110" id="svg-check">
 			<title>Check</title>
-			<path d="M9.863 20.071c-.363 0-.725-.138-1.002-.414L.415 11.224A1.407 1.407 0 0 1 0 10.222c0-.38.147-.735.414-1.003l3.347-3.346a1.42 1.42 0 0 1 2.005 0l4.09 4.091 9.55-9.55A1.408 1.408 0 0 1 20.41 0c.379 0 .735.147 1.002.414l2.01 2.011a.735.735 0 1 1-1.038 1.04L20.409 1.49l-9.55 9.55a1.42 1.42 0 0 1-2.005 0l-4.09-4.09L1.49 10.22l8.372 8.36L24.201 4.244a.735.735 0 0 1 1.04 1.039L10.865 19.656c-.276.277-.64.415-1.003.415" fill="currentcolor"></path>
+			<path d="M54.16 109.61a7.7 7.7 0 0 1-5.46-2.25l-46-45.91a7.73 7.73 0 0 1 0-10.91l18.24-18.21a7.73 7.73 0 0 1 10.91 0L54.12 54.6l52-52a7.73 7.73 0 0 1 10.91 0L128 13.56a4.002 4.002 0 1 1-5.66 5.66L111.57 8.47l-52 52a7.73 7.73 0 0 1-10.91 0L26.4 38.18 8.58 56l45.58 45.5 78-78a4.002 4.002 0 0 1 5.66 5.66l-78.2 78.2a7.69 7.69 0 0 1-5.46 2.26" fill="currentcolor" fill-rule="nonzero"></path>
 		</symbol>
 		<symbol viewBox="0 0 25 24" id="svg-checkbox">
 			<title>Rounded Square Check</title>
 			<path d="M17.672 8.143a.432.432 0 0 0-.305.124l-6.591 6.557L6.77 10.84a.432.432 0 0 0-.61.608l4.311 4.286a.432.432 0 0 0 .305.124.432.432 0 0 0 .304-.124l6.897-6.857a.43.43 0 0 0-.305-.733zm5.604 5.447c0 7.166-2.402 9.553-9.606 9.553h-3.202c-7.205 0-9.606-2.387-9.606-9.553v-3.18c0-7.166 2.401-9.553 9.606-9.553h3.202c7.204 0 9.606 2.387 9.606 9.553v3.18zM13.793 0h-3.448C2.586 0 0 2.571 0 10.286v3.428C0 21.43 2.586 24 10.345 24h3.448c7.758 0 10.345-2.571 10.345-10.286v-3.428C24.138 2.57 21.55 0 13.793 0z" fill="currentcolor"></path>
 		</symbol>
-
+		<symbol viewBox="0 0 95 125" id="svg-checklist">
+			<title>Checklist</title>
+			<g fill="currentcolor" fill-rule="nonzero"><path d="M74.32 39.95H52.58a4 4 0 1 1 0-8h21.74a4 4 0 1 1 0 8zM74.32 67.77H52.58a4 4 0 1 1 0-8h21.74a4 4 0 1 1 0 8zM28.89 46.63a4 4 0 0 1-2.83-1.17l-7.63-7.63a4.002 4.002 0 0 1 5.66-5.66l4.8 4.8 12-12a4.002 4.002 0 0 1 5.66 5.66L31.72 45.46a4 4 0 0 1-2.83 1.17zM28.89 73.13A4 4 0 0 1 26.06 72l-7.63-7.63a4.002 4.002 0 1 1 5.66-5.66l4.8 4.8 12-12a4.002 4.002 0 0 1 5.66 5.66L31.72 72a4 4 0 0 1-2.83 1.13zM74.32 95.08H52.58a4 4 0 1 1 0-8h21.74a4 4 0 1 1 0 8zM28.89 100.43a4 4 0 0 1-2.83-1.17l-7.63-7.63A4 4 0 0 1 24.09 86l4.8 4.8 12-12a4.002 4.002 0 0 1 5.66 5.66l-14.83 14.8a4 4 0 0 1-2.83 1.17z"></path><path d="M90.06 124.75H4.46a4 4 0 0 1-4-4V4a4 4 0 0 1 4-4h85.6a4 4 0 1 1 0 8H8.46v108.75h77.6V18.89a4 4 0 1 1 8 0v101.86a4 4 0 0 1-4 4z"></path></g>
+		</symbol>
 		<symbol viewBox="0 0 27 27" id="svg-clock">
 			<title>Clock</title>
 			<path d="M18.6 1c-1.6-.7-3.4-1-5.1-1C6 0 0 6 0 13.5S6 27 13.5 27 27 21 27 13.5c0-4.1-1.8-7.9-4.9-10.4-.4-.4-1.1-.3-1.4.1-.4.4-.3 1.1.1 1.4C23.5 6.8 25 10 25 13.5 25 19.9 19.9 25 13.5 25S2 19.9 2 13.5 7.1 2 13.5 2c1.5 0 3 .3 4.4.9.5.2 1.1 0 1.3-.5s0-1.2-.6-1.4zm-4.2 13.8l6.5-3.2c.5-.2.7-.8.5-1.3s-.8-.7-1.3-.5L13.5 13c-.5.3-.7.9-.4 1.3.2.5.8.7 1.3.5zM6 8.2l7.3 6.5c.4.4 1 .3 1.4-.1.4-.4.3-1-.1-1.4L7.3 6.7c-.4-.4-1-.3-1.4.1-.4.4-.3 1 .1 1.4z" fill="currentcolor"></path>
@@ -224,9 +241,9 @@ img.emoji {
 			<title>Google+</title>
 			<path d="M12.848 10.517v5.085s4.924-.007 6.929-.007c-1.086 3.297-2.774 5.092-6.929 5.092-4.205 0-7.487-3.415-7.487-7.628 0-4.212 3.282-7.627 7.487-7.627 2.223 0 3.659.783 4.976 1.874 1.054-1.056.966-1.207 3.648-3.745A12.757 12.757 0 0 0 12.848.22C5.77.22.031 5.968.031 13.059s5.739 12.84 12.817 12.84c10.58 0 13.166-9.229 12.309-15.382H12.848zm23.095.254V6.322h-3.172v4.449h-4.569v3.178h4.569v4.577h3.172v-4.577h4.441v-3.178h-4.441z" fill="currentcolor" fill-rule="evenodd"></path>
 		</symbol>
-		<symbol viewBox="0 0 23 20" id="svg-hand">
+		<symbol viewBox="0 0 110 97" id="svg-hand">
 			<title>Hand</title>
-			<path d="M22.412 11.76c0-1.016-.691-1.87-1.627-2.126a2.207 2.207 0 0 0-2.047-3.018h-6.455L13.1 2.85A2.32 2.32 0 0 0 11.372.067C10.328-.177 9.31.263 8.839 1.162l-.002.006-.003.004-3.396 6.73H2.756A2.759 2.759 0 0 0 0 10.657v5.695a.735.735 0 0 0 1.47 0v-5.695c0-.709.576-1.285 1.286-1.285H5.89a.735.735 0 0 0 .656-.404l3.596-7.125c.191-.364.587-.417.895-.345a.85.85 0 0 1 .63 1.029l-.995 4.58a.734.734 0 0 0-.012.196c-.001.016-.005.031-.005.048 0 .406.329.735.735.735h7.348a.736.736 0 0 1 0 1.47h-3.674a.735.735 0 0 0 0 1.469h5.143a.736.736 0 0 1 0 1.47h-5.143a.735.735 0 0 0 0 1.47h4.592a.736.736 0 0 1 0 1.469h-4.592a.735.735 0 0 0 0 1.47h2.939a.736.736 0 0 1 0 1.47H.735a.735.735 0 0 0 0 1.469h17.268a2.207 2.207 0 0 0 2.204-2.205 2.19 2.19 0 0 0-.143-.774 2.207 2.207 0 0 0 1.797-2.165c0-.431-.126-.832-.341-1.172a2.2 2.2 0 0 0 .892-1.767" fill="currentcolor" fill-rule="evenodd"></path>
+			<path d="M101.38 47.6a10.65 10.65 0 0 0-9.9-14.6H60.24l4-18.22A11.22 11.22 0 0 0 55.83 1.3a10.77 10.77 0 0 0-12.25 5.3L27.12 39.21h-13C6.767 39.232.815 45.196.81 52.55V80.1a3.56 3.56 0 0 0 7.11 0V52.55a6.23 6.23 0 0 1 6.22-6.22h15.11a3.57 3.57 0 0 0 3.23-2L49.88 9.9a3.71 3.71 0 0 1 4.33-1.67 4.12 4.12 0 0 1 3 5l-4.76 22.14a4 4 0 0 0 3.47 4.74h35.56a3.56 3.56 0 1 1 0 7.11H73.7a3.56 3.56 0 1 0 0 7.11h24.89a3.56 3.56 0 1 1 0 7.11H73.7a3.56 3.56 0 1 0 0 7.11h22.22a3.56 3.56 0 0 1 0 7.11H73.7a3.56 3.56 0 1 0 0 7.11h14.22a3.56 3.56 0 1 1 0 7.11H4.36a3.56 3.56 0 0 0 0 7.11h83.56a10.64 10.64 0 0 0 10-14.41 10.64 10.64 0 0 0 7-16.15 10.64 10.64 0 0 0-3.56-18.83h.02z" fill="currentcolor" fill-rule="nonzero"></path>
 		</symbol>
 		<symbol viewBox="0 0 26 23" id="svg-heart">
 			<title>Heart</title>
@@ -383,11 +400,9 @@ img.emoji {
 				</g>
 			</g>
 		</symbol>
-		<symbol viewBox="0 0 37 36" id="svg-rocket">
+		<symbol viewBox="0 0 117 117" id="svg-rocket">
 			<title>Rocket</title>
-			<g stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="transparent" stroke="currentcolor">
-				<path d="M32.1 12.9c-4.5 4.4-9 8.8-13.4 13.3l-.9.9M25.6 14c-.6.6-1.6.6-2.2 0-.6-.6-.6-1.5 0-2.1.6-.6 1.6-.6 2.2 0 .6.6.6 1.6 0 2.1m0 0c-.6.6-1.6.6-2.2 0-.6-.6-.6-1.5 0-2.1.6-.6 1.6-.6 2.2 0 .6.6.6 1.6 0 2.1zm-1-9.2L18.2 11H9.5m8.3 16l-7.5-8.2-8.3.3L9.5 11m8.3 16.1v7.6m7.8-15.4L26 27m0 0l-8.2 7.7M3.5 32.9l6.4-3.4 1.5 3.7 2.2-5.4-4.3-4.1m-5.8 9.2L7.3 27l-3.8-1.5 5.9-1.8M32.8 1.9c2.4-.1 2.8 2.3 2.7 4.2-.1 1.2-.4 2.3-.9 3.3C33.9 10.7 33 12 32 13m-7.4-8.2s1.7-2 4.3-3M18.2 11l-7.9 7.9"></path>
-			</g>
+			<g fill="currentcolor" fill-rule="nonzero"><path d="M35.44 61.13l20 20 .37-.35c14.36-14.35 28.76-28.67 43-43.09A36.2 36.2 0 0 0 108.48 21 19.64 19.64 0 0 0 108 9.24a.85.85 0 0 0-.64-.63c-1.48-.35-2.95-.79-4.44-1.06a3.84 3.84 0 0 1-3.13-4A3.72 3.72 0 0 1 103.27.1a17.38 17.38 0 0 1 5.63 1.06c1.09.35 2.14.81 3.19 1.26a4 4 0 0 1 2.09 2.05 26.48 26.48 0 0 1 2.39 8.35 31.24 31.24 0 0 1-3 16.64A49.47 49.47 0 0 1 106 41.12c-.57.67-1.18 1.31-1.8 1.93-6.367 6.373-12.737 12.74-19.11 19.1a1.13 1.13 0 0 0-.36.88v24.43a3.63 3.63 0 0 1-1.47 3 7.69 7.69 0 0 0-.64.57l-24.28 24.29a4 4 0 0 1-2.59 1.33 3.59 3.59 0 0 1-1.34-.14 4.37 4.37 0 0 1-3.26-4.29V88.14a1.13 1.13 0 0 0-.36-.89 13339.06 13339.06 0 0 1-21.71-21.72 1.2 1.2 0 0 0-.93-.38H4.32a4.52 4.52 0 0 1-2.74-.7 3.77 3.77 0 0 1-.51-5.71C5.377 54.433 9.687 50.127 14 45.82c4-4 8.02-8.023 12.06-12.07a4.06 4.06 0 0 1 3-1.25h23.81c.35.017.691-.122.93-.38 6.54-6.56 13-13.16 19.66-19.63a46.9 46.9 0 0 1 15.9-10.3 3.74 3.74 0 0 1 5.09 2.63 3.67 3.67 0 0 1-2.19 4.31 41.46 41.46 0 0 0-8.67 4.75 42.43 42.43 0 0 0-5.28 4.4 254874.212 254874.212 0 0 1-42.46 42.45l-.41.4zm23.31 43.06l.32-.28C65.023 97.93 71 91.96 77 86a1 1 0 0 0 .26-.65V70.09l-.43.41-17.75 17.7a1 1 0 0 0-.33.79V104.19zM12.94 57.46l.08.12H27.99a1 1 0 0 0 .6-.27c5.66-5.64 11.327-11.29 17-16.95.09-.09.16-.19.3-.35h-.64C40.497 40.003 35.747 40 31 40a1.23 1.23 0 0 0-1 .39 7920.816 7920.816 0 0 1-16.73 16.74 4.32 4.32 0 0 1-.33.33z"></path><path d="M28.15 101.39l-15.94 8.68a11 11 0 0 1-2.08 1.07 3.82 3.82 0 0 1-4.61-3.54 4.6 4.6 0 0 1 .82-2.59c.74-1.18 1.37-2.44 2-3.67L15 89.09l.24-.48-5.1-2.07c-1.08-.44-2.16-.86-3.22-1.32a3.59 3.59 0 0 1-2.32-3.44 3.5 3.5 0 0 1 2.21-3.45c2.63-1.12 5.28-2.18 7.93-3.26l9.58-3.9a3.78 3.78 0 0 1 4.56.94l15.78 15.74a3.77 3.77 0 0 1 .92 4.56c-2.347 5.727-4.697 11.45-7.05 17.17a3.87 3.87 0 0 1-7.06-.08l-3.32-8.11zm-9.7-19.65c1.16.47 2.18 1 3.24 1.31a3.9 3.9 0 0 1 2.08 5.82c-1.63 2.81-3.12 5.71-4.67 8.56a6.8 6.8 0 0 0-.21.44l.53-.26c2.95-1.6 5.9-3.18 8.84-4.79a3.68 3.68 0 0 1 4.53.77 8.44 8.44 0 0 1 1.05 1.88c.42.91.76 1.85 1.17 2.86.9-2.2 1.76-4.3 2.6-6.4a.58.58 0 0 0-.1-.51 3490.966 3490.966 0 0 0-12.17-12.17.53.53 0 0 0-.46-.1c-2.11.85-4.22 1.69-6.43 2.59zM70.75 40.39a5 5 0 1 1 10 0 5 5 0 0 1-10 0z"></path></g>
 		</symbol>
 		<symbol viewBox="0 0 30 30" id="svg-share-email">
 			<title>Share with Email</title>
@@ -508,11 +523,6 @@ img.emoji {
 			<title>Twitter</title>
 			<path d="M47.507 2.374a17.735 17.735 0 0 1-5.715 2.234 8.867 8.867 0 0 0-6.564-2.91c-4.963 0-8.99 4.129-8.99 9.221 0 .724.077 1.426.232 2.101-7.475-.385-14.1-4.053-18.539-9.638a9.385 9.385 0 0 0-1.217 4.64c0 3.198 1.587 6.022 4.002 7.676a8.83 8.83 0 0 1-4.077-1.15v.113c0 4.47 3.1 8.198 7.218 9.043a8.617 8.617 0 0 1-2.37.324c-.58 0-1.144-.055-1.692-.164 1.144 3.662 4.464 6.33 8.4 6.401-3.077 2.475-6.957 3.95-11.17 3.95-.725 0-1.443-.042-2.145-.126 3.98 2.612 8.71 4.14 13.787 4.14 16.543 0 25.587-14.051 25.587-26.238 0-.401-.007-.803-.022-1.196a18.45 18.45 0 0 0 4.484-4.773 17.543 17.543 0 0 1-5.164 1.451 9.205 9.205 0 0 0 3.955-5.099" fill="currentcolor"></path>
 		</symbol>
-		<symbol viewBox="0 0 24 24" id="shape-close">
-			<title>Close</title>
-			<line x1="18" y1="6" x2="6" y2="18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
-			<line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
-		</symbol>
 
 		<symbol viewBox="0 0 512 512" id="svg-share-print">
 			<path d="M464 192h-16V81.941a24 24 0 0 0-7.029-16.97L383.029 7.029A24 24 0 0 0 366.059 0H88C74.745 0 64 10.745 64 24v168H48c-26.51 0-48 21.49-48 48v132c0 6.627 5.373 12 12 12h52v104c0 13.255 10.745 24 24 24h336c13.255 0 24-10.745 24-24V384h52c6.627 0 12-5.373 12-12V240c0-26.51-21.49-48-48-48zm-80 256H128v-96h256v96zM128 224V64h192v40c0 13.2 10.8 24 24 24h40v96H128zm304 72c-13.254 0-24-10.746-24-24s10.746-24 24-24 24 10.746 24 24-10.746 24-24 24z"></path>
@@ -524,6 +534,11 @@ img.emoji {
 
 		<symbol viewBox="0 0 512 512" id="svg-share-envelope">
 			<path d="M464 64H48C21.49 64 0 85.49 0 112v288c0 26.51 21.49 48 48 48h416c26.51 0 48-21.49 48-48V112c0-26.51-21.49-48-48-48zm0 48v40.805c-22.422 18.259-58.168 46.651-134.587 106.49-16.841 13.247-50.201 45.072-73.413 44.701-23.208.375-56.579-31.459-73.413-44.701C106.18 199.465 70.425 171.067 48 152.805V112h416zM48 400V214.398c22.914 18.251 55.409 43.862 104.938 82.646 21.857 17.205 60.134 55.186 103.062 54.955 42.717.231 80.509-37.199 103.053-54.947 49.528-38.783 82.032-64.401 104.947-82.653V400H48z"></path>
+		</symbol>
+		<symbol viewBox="0 0 24 24" id="shape-close">
+			<title>Close</title>
+			<line x1="18" y1="6" x2="6" y2="18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+			<line x1="6" y1="6" x2="18" y2="18" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
 		</symbol>
 
 		<symbol viewBox="0 0 59.34 59.34" id="sharing-email">
@@ -635,25 +650,52 @@ img.emoji {
 			<path class="cls-icon-secure" d="M40,73.13A25.31,25.31,0,1,1,65.3,47.83,25.34,25.34,0,0,1,40,73.13Zm0-45.61A20.31,20.31,0,1,0,60.3,47.83,20.33,20.33,0,0,0,40,27.52Z"></path>
 			<path class="cls-icon-secure" d="M35.63,59.36h0a2.5,2.5,0,0,1-1.77-.73l-9.35-9.35A2.5,2.5,0,0,1,28,45.74l7.58,7.58L51.93,37a2.5,2.5,0,0,1,3.54,3.54L37.4,58.63A2.5,2.5,0,0,1,35.63,59.36Z"></path>
 		</symbol>
+		<symbol viewBox="0 0 116 110" id="svg-calendar-v2">
+			<title>Calendar v2</title>
+			<g fill="currentcolor" fill-rule="nonzero"><path d="M.53 105.28v-90.8a4 4 0 1 1 8 0v86.8h99v-82.8H18a4 4 0 1 1 0-8h93.57a4 4 0 0 1 4 4v90.8a4 4 0 0 1-4 4H4.53a4 4 0 0 1-4-4z"></path><path d="M28.81 26.82a4 4 0 0 1-4-4v-18a4 4 0 1 1 8 0v18a4 4 0 0 1-4 4zM92.06 26.82a4 4 0 0 1-4-4v-18a4 4 0 1 1 8 0v18a4 4 0 0 1-4 4zM1.62 38.83a4 4 0 0 1 4-4h104a4 4 0 1 1 0 8h-104a4 4 0 0 1-4-4z"></path></g>
+		</symbol>
+		<symbol id="svg-hand-money" viewBox="0 0 152 123">
+			<g fill="currentcolor" fill-rule="nonzero"><path d="M149.75 73.5c-2.76-5.13-9.16-7.65-13.19-6.7-1.19.28-2.37.58-3.58.89l-1.38.31v-.05l-.64-.85a13 13 0 0 0-14.81-4.52c-4.29 1.65-8.83 3.55-14.7 6.18a5 5 0 0 0-2.25 2.56 3.34 3.34 0 0 0 1 3.94 4.23 4.23 0 0 0 4.64.56l5.22-2.17c2.48-1 5-2.07 7.45-3.09a8.06 8.06 0 0 1 2.44-.67 4.8 4.8 0 0 1 4.12 1.52l-26.7 11.35a3.7 3.7 0 0 1-.09-.57c-.24-5.69-3.05-9.78-8.34-12.16-8.34-3.74-19.34-8.67-30.5-13.56a39.74 39.74 0 0 0-27.32-1.79c-6.79 1.9-12.36 5.93-17.38 10A7.4 7.4 0 0 0 11 71c.09 8.22.07 16.58.06 24.66v11H4.34c-2.64.14-4.13 1.63-4.081 4.07.051 2.44 1.621 3.78 4.311 3.8h9.17c3.78 0 5.06-1.27 5.06-5V95.69v-18.9c0-.64-.06-1.31-.11-2-.12-1.47-.25-3 .31-4 .77-1.37 2.36-2.39 3.9-3.38.42-.27.85-.54 1.25-.82 9.16-6.29 19-7.54 29.23-3.72 4.67 1.74 9.29 3.87 13.75 5.93 1.92.88 3.83 1.77 5.76 2.62 3.77 1.68 8.22 3.67 12.66 5.71 2.67 1.23 4.07 3.62 3.59 6.09a5.58 5.58 0 0 1-2.81 4c-1.6.78-3.47.78-5.07 0A642.365 642.365 0 0 1 68 81.46l-9.65-4.28a4.87 4.87 0 0 0-3.81-.26 3.64 3.64 0 0 0-2 2.05c-.94 2.26.06 4.36 2.61 5.49l10.7 4.74L78 94.61a13.56 13.56 0 0 0 11.22.07c4.667-2 9.31-3.963 13.93-5.89l9.93-4.2 14.66-6.23 7.33-3.12c2.61-1.11 4.75-.8 6.53 1a5.36 5.36 0 0 1 1.6 4.78 5.82 5.82 0 0 1-3.45 4.24c-2.89 1.33-5.88 2.57-8.77 3.77l-3.52 1.47L111 97.43a29749.378 29749.378 0 0 0-37.36 15.77 20.3 20.3 0 0 1-17.9-.48c-7.19-3.59-14.55-7.14-21.67-10.57l-5.45-2.63A4.72 4.72 0 0 0 25 99.2a3.64 3.64 0 0 0-2.09 1.94c-1 2.14 0 4.28 2.37 5.45l8.28 4c6.273 3.06 12.543 6.13 18.81 9.21a28.57 28.57 0 0 0 12.74 3.08 29.84 29.84 0 0 0 11.6-2.44c25.57-10.72 46.59-19.61 66.15-28a15.81 15.81 0 0 0 5.49-4.15 13.37 13.37 0 0 0 1.4-14.79zM104.2 18.05L97 19.54C96.47 16.2 93.55 14 90 14s-5.78 2-5.78 4.4c0 1.8.8 3.07 3.55 3.6l7.63 1.54c5.78 1.22 9.33 4.66 9.33 10.17 0 6.89-5.67 11.18-14.09 11.18-7.42 0-13.94-3.44-14.84-10.54l7.58-1.54c1 4 3.92 5.78 7.95 5.78s6.31-2 6.31-4.5c0-2-1-3.23-4.13-3.87L86 28.81c-4.24-.9-9.33-3.23-9.33-10.17 0-6.36 5.19-10.81 13.51-10.81 7.19 0 12.65 3.92 14.02 10.22z"></path><path d="M90.09 13.73a3.39 3.39 0 0 1-3.39-3.39V3.49a3.39 3.39 0 0 1 6.78 0v6.85a3.39 3.39 0 0 1-3.39 3.39zM90.09 54.06a3.39 3.39 0 0 1-3.39-3.39v-6.86a3.39 3.39 0 0 1 6.78 0v6.85a3.39 3.39 0 0 1-3.39 3.4z"></path></g>
+		</symbol>
+		<symbol id="svg-handshake" viewBox="0 0 137 122">
+			<path d="M133.52 35.91L101.16 3.54c-4.3-4.3-10.38-2.87-13.91.66L56.18 35.27a12.233 12.233 0 1 0 17.3 17.3l9.26-9.26 28.48 28.47a4.243 4.243 0 0 1-6 6l-11.1-11.1a4.002 4.002 0 0 0-5.66 5.66l11.1 11.1a4.243 4.243 0 0 1-6 6l-11.1-11.1A4 4 0 0 0 76.83 84l11.1 11.1a4.243 4.243 0 0 1-6 6L70.83 90a4.002 4.002 0 0 0-5.66 5.66l11.1 11.1a4.243 4.243 0 0 1-6 6L13.8 56.18c-3.4-3.4-5.26-6.66-5.53-9.7-.27-3.04 1-5.67 3.72-8.44l22.77-22.75c2.46-2.46 4.52-3.1 7.61-2.35 4.18 1 20.05 5.48 20.21 5.52a4 4 0 1 0 2.16-7.7c-.66-.19-16.17-4.54-20.48-5.59-5.78-1.41-10.74 0-15.16 4.47L6.34 32.39c-8.78 8.79-8.12 19.52 1.81 29.45l56.51 56.51a12.21 12.21 0 0 0 20.85-8.1 12.14 12.14 0 0 0 11.63-11.64A12.14 12.14 0 0 0 108.78 87a12.21 12.21 0 0 0 8.1-20.85l-31.3-31.3a4 4 0 0 0-5.66 0l-12.1 12.06a4.243 4.243 0 0 1-6-6L92.91 9.86s1.67-1.59 2.6-.66l32.36 32.36c.49.49 1.1 1.53-.31 2.95l-9.86 9.86a4 4 0 0 0 5.65 5.63l9.86-9.86a9.87 9.87 0 0 0 .31-14.23z" fill="currentcolor" fill-rule="nonzero"></path>
+		</symbol>
+		<symbol id="svg-pricing" viewBox="0 0 140 86">
+			<g fill="currentcolor" fill-rule="nonzero"><path d="M101.25 85.54H4.91a4 4 0 0 1-4-4V4.43a4 4 0 0 1 4-4h91a4 4 0 1 1 0 8h-87v69.11H99.7l30.11-33.94L106 14.34c-1.27-1.56-1.66-4.05-.14-5.66a4 4 0 0 1 5.66-.14l26.88 32.22a4.001 4.001 0 0 1-.06 5.85l-34.42 37.88a4 4 0 0 1-2.67 1.05z"></path><path d="M73.83 34.19l-7.43 1.53c-.55-3.44-3.56-5.72-7.22-5.72-3.66 0-6 2.08-6 4.54 0 1.86.82 3.17 3.66 3.72l7.87 1.58c6 1.26 9.62 4.81 9.62 10.5 0 7.11-5.85 11.54-14.54 11.54-7.65 0-14.38-3.55-15.31-10.88l7.82-1.59c1 4.16 4 6 8.2 6 4.2 0 6.51-2 6.51-4.65 0-2.08-1-3.33-4.26-4L55 45.29c-4.37-.93-9.62-3.34-9.62-10.5 0-6.56 5.36-11.15 13.94-11.15 7.46 0 13.09 4.04 14.51 10.55z"></path><path d="M59.27 29.73a3.5 3.5 0 0 1-3.5-3.5v-7.07a3.5 3.5 0 0 1 7 0v7.07a3.5 3.5 0 0 1-3.5 3.5zM59.27 71.34a3.5 3.5 0 0 1-3.5-3.5v-7.07a3.5 3.5 0 0 1 7 0v7.07a3.5 3.5 0 0 1-3.5 3.5z"></path><circle cx="110.52" cy="43.99" r="5.3"></circle></g>
+		</symbol>
+		<symbol id="svg-sliders" viewBox="0 0 92 90">
+			<g fill="currentcolor" fill-rule="nonzero"><path d="M87.06 10.24h-55.2v8h55.2a4 4 0 1 0 0-8zM20.3 10.24H4.76a4 4 0 1 0 0 8H20.3v-8z"></path><path d="M26.08 30.39c-5.4-.006-9.774-4.38-9.78-9.78V9.78C16.3 4.379 20.679 0 26.08 0s9.78 4.379 9.78 9.78v10.83c-.006 5.4-4.38 9.774-9.78 9.78zm0-22.4a1.8 1.8 0 0 0-1.78 1.78v10.84a1.78 1.78 0 1 0 3.56 0V9.78A1.8 1.8 0 0 0 26.08 8v-.01zM60 40.4H4.76a4 4 0 1 0 0 8H60v-8zM87.06 40.4H71.53v8h15.53a4 4 0 1 0 0-8z"></path><path d="M65.75 60.18A9.79 9.79 0 0 1 56 50.4V39.57c0-5.401 4.379-9.78 9.78-9.78s9.78 4.379 9.78 9.78V50.4a9.79 9.79 0 0 1-9.81 9.78zm0-22.4A1.8 1.8 0 0 0 64 39.57V50.4a1.78 1.78 0 1 0 3.56 0V39.57a1.8 1.8 0 0 0-1.81-1.78v-.01zM87.06 70.56h-55.2v8h55.2a4 4 0 1 0 0-8zM20.3 70.56H4.76a4 4 0 1 0 0 8H20.3v-8z"></path><path d="M26.08 89.75A9.79 9.79 0 0 1 16.3 80V69.14c0-5.401 4.379-9.78 9.78-9.78s9.78 4.379 9.78 9.78V80a9.79 9.79 0 0 1-9.78 9.75zm0-22.4a1.8 1.8 0 0 0-1.78 1.78V80a1.78 1.78 0 1 0 3.56 0V69.14a1.8 1.8 0 0 0-1.78-1.78v-.01z"></path></g>
+		</symbol>
+		<symbol id="svg-recurring-arrows" viewBox="0 0 102 103">
+			<g fill="currentcolor" fill-rule="nonzero"><path d="M91.1 22.07H95a4 4 0 1 0 0-8H76V33a4 4 0 1 0 8 0v-7c11.425 14.373 12.263 34.478 2.073 49.75-10.19 15.274-29.075 22.22-46.733 17.19a4.001 4.001 0 0 0-2.18 7.7c20.77 5.929 43.006-2.076 55.23-19.883 12.226-17.808 11.706-41.434-1.29-58.687zM21.48 66a4 4 0 0 0-4 4v7C6.081 62.626 5.258 42.54 15.442 27.28 25.627 12.023 44.492 5.078 62.14 10.09a4.003 4.003 0 0 0 2.19-7.7C43.55-3.548 21.3 4.464 9.075 22.287-3.15 40.109-2.612 63.752 10.41 81h-3.9a4 4 0 1 0 0 8h19V70a4 4 0 0 0-4.03-4z"></path></g>
+		</symbol>
+		<symbol id="svg-prepay" viewBox="0 0 92 121">
+			<g fill="none" fill-rule="evenodd"><path d="M47.24 120.28a4.005 4.005 0 0 1-2.65-1L2.06 81.75a4 4 0 0 1 2.65-7h17.78c.07-7.41 1.58-23.3 11.51-42.31C47.85 6 78.46.38 79.76.15A4 4 0 0 1 83.19 7c-.07.06-9 9-11 31.28A269.92 269.92 0 0 0 71 74.36h16.9a4 4 0 0 1 2.73 6.92L50 119.2a4 4 0 0 1-2.76 1.08zM15.31 82.77l31.86 28.11 30.58-28.52H67.19a4 4 0 0 1-4-3.62c-.06-.62-1.42-15.47 1-41.2 1.11-12 4.05-20.63 6.91-26.47-9.25 3.6-22.61 11-30 25.11-12.29 23.54-10.5 42-10.49 42.18a4 4 0 0 1-4 4.43l-11.3-.02z" fill="currentcolor" fill-rule="nonzero"></path></g>
+		</symbol>
 	</defs>
 </svg>
 
-	<div class="skip-links">
+	
+<div class="skip-links">
 	<a href="#main">Skip to Content</a>
 	<a href="#main-footer">Skip to Footer</a>
 </div>
+
+	
 	<header class="site-header" id="main-header" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
 		<div class="site-header__wrapper">
-				<div class="site-title" itemscope="" itemtype="http://schema.org/Organization">
-		<a href="https://www.ondeck.com" rel="home" class="site-link" itemprop="url" tabindex="0">
-			<svg class="stickyheader__logoWhite" width="102" height="22" viewBox="0 0 75 16" aria-labelledby="ondecklogowhite-title">
-				<title id="ondecklogowhite-title">OnDeck</title>
-				<path class="svg-ondecklogo__on" d="M12.07 10.294c0 3.424-2.588 5.635-6 5.635-3.4 0-5.964-2.2-5.964-5.6 0-3.423 2.588-5.635 6-5.635 3.4 0 5.965 2.2 5.965 5.6zM6.06 13.071c1.6 0 2.73-1.177 2.73-2.777s-1.095-2.73-2.695-2.73c-1.6 0-2.73 1.177-2.73 2.777.012 1.6 1.095 2.73 2.695 2.73zM16.87 15.659h-3.188V4.976h3.189v1.212A4.375 4.375 0 0 1 20.2 4.694c2.482 0 3.87 1.67 3.87 4.506v6.447h-3.188V9.706c0-1.365-.764-2.2-2.011-2.2-1.236 0-2.012.835-2.012 2.176v5.977h.012z" fill="currentColor"></path>
-				<path class="svg-ondecklogo__deck" d="M34.224 14.4c-.765.965-1.906 1.541-3.377 1.541-3.165 0-5.13-2.459-5.13-5.623 0-3.165 2.048-5.624 5.212-5.624 1.447 0 2.542.53 3.295 1.447V.06h3.188v15.588h-3.188V14.4zm-2.612-1.282c1.623 0 2.73-1.212 2.73-2.836 0-1.576-1.071-2.753-2.648-2.753-1.623 0-2.718 1.177-2.718 2.8.012 1.565 1.06 2.789 2.636 2.789zM39.024 10.318c0-3.377 2.482-5.624 5.811-5.624 3.2 0 5.553 2.259 5.553 5.388 0 .365-.023.753-.047 1.094h-8.035c.341 1.212 1.341 2.048 2.753 2.048 1.023 0 1.835-.389 2.565-1.212l1.964 1.917c-1.259 1.389-2.823 2.012-4.682 2.012-3.365 0-5.882-2.247-5.882-5.623zm3.329-1.212h4.718c-.26-1.047-1.177-1.753-2.33-1.753-1.235 0-2.059.718-2.388 1.753zM57.541 13.047c1 0 1.835-.53 2.459-1.341l2.153 1.918c-1.153 1.447-2.73 2.305-4.659 2.305-3.376 0-5.894-2.247-5.894-5.623 0-3.377 2.518-5.624 5.894-5.624 1.906 0 3.53.789 4.659 2.26L60 8.928c-.6-.811-1.447-1.34-2.459-1.34-1.576 0-2.67 1.152-2.67 2.729 0 1.576 1.094 2.73 2.67 2.73zM67.93 11.07l-1.306.871v3.718h-3.189V.059h3.189v8.565l6.752-4.577h.13v3.53l-2.824 1.882 3.565 6.07v.13h-3.635z" fill="currentColor"></path>
-			</svg>
+			
+	<div class="site-title" itemscope="" itemtype="http://schema.org/Organization">
+		<a href="https://www.ondeck.com/" rel="home" class="site-link" itemprop="url" tabindex="0">
+	<svg width="102" height="22" viewBox="0 0 75 16">
+		<title id="ondecklogo-site-title">OnDeck</title>
+		<path class="svg-ondecklogo__on" d="M12.07 10.294c0 3.424-2.588 5.635-6 5.635-3.4 0-5.964-2.2-5.964-5.6 0-3.423 2.588-5.635 6-5.635 3.4 0 5.965 2.2 5.965 5.6zM6.06 13.071c1.6 0 2.73-1.177 2.73-2.777s-1.095-2.73-2.695-2.73c-1.6 0-2.73 1.177-2.73 2.777.012 1.6 1.095 2.73 2.695 2.73zM16.87 15.659h-3.188V4.976h3.189v1.212A4.375 4.375 0 0 1 20.2 4.694c2.482 0 3.87 1.67 3.87 4.506v6.447h-3.188V9.706c0-1.365-.764-2.2-2.011-2.2-1.236 0-2.012.835-2.012 2.176v5.977h.012z" fill="currentColor"></path>
+		<path class="svg-ondecklogo__deck" d="M34.224 14.4c-.765.965-1.906 1.541-3.377 1.541-3.165 0-5.13-2.459-5.13-5.623 0-3.165 2.048-5.624 5.212-5.624 1.447 0 2.542.53 3.295 1.447V.06h3.188v15.588h-3.188V14.4zm-2.612-1.282c1.623 0 2.73-1.212 2.73-2.836 0-1.576-1.071-2.753-2.648-2.753-1.623 0-2.718 1.177-2.718 2.8.012 1.565 1.06 2.789 2.636 2.789zM39.024 10.318c0-3.377 2.482-5.624 5.811-5.624 3.2 0 5.553 2.259 5.553 5.388 0 .365-.023.753-.047 1.094h-8.035c.341 1.212 1.341 2.048 2.753 2.048 1.023 0 1.835-.389 2.565-1.212l1.964 1.917c-1.259 1.389-2.823 2.012-4.682 2.012-3.365 0-5.882-2.247-5.882-5.623zm3.329-1.212h4.718c-.26-1.047-1.177-1.753-2.33-1.753-1.235 0-2.059.718-2.388 1.753zM57.541 13.047c1 0 1.835-.53 2.459-1.341l2.153 1.918c-1.153 1.447-2.73 2.305-4.659 2.305-3.376 0-5.894-2.247-5.894-5.623 0-3.377 2.518-5.624 5.894-5.624 1.906 0 3.53.789 4.659 2.26L60 8.928c-.6-.811-1.447-1.34-2.459-1.34-1.576 0-2.67 1.152-2.67 2.729 0 1.576 1.094 2.73 2.67 2.73zM67.93 11.07l-1.306.871v3.718h-3.189V.059h3.189v8.565l6.752-4.577h.13v3.53l-2.824 1.882 3.565 6.07v.13h-3.635z" fill="currentColor"></path>
+	</svg>
+
 		</a>
 	</div>
-
+	
 							<nav class="site-navigation" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" aria-label="Main">
 
 					<a href="#primary-menu" id="js-menu-toggle" class="site-menu-toggle">
@@ -662,31 +704,23 @@ img.emoji {
 						<span aria-hidden="true">☰</span>
 					</a>
 
-					<ul id="menu-primary-navigation" class="primary-nav"><li id="menu-item-170317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-170317 menu-item"><a href="https://www.ondeck.com/business-loans">Business Loans</a>
+					<ul id="menu-primary-navigation" class="primary-nav"><li id="menu-item-182422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-182422 menu-item"><a href="https://www.ondeck.com/business-loans">Business Loans</a>
 <ul class="sub-menu">
-	<li id="menu-item-168404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168404 menu-item"><a href="https://www.ondeck.com/business-loans">Overview</a></li>
-	<li id="menu-item-166124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166124 menu-item"><a href="https://www.ondeck.com/term-loans">Fixed Term Loans</a></li>
-	<li id="menu-item-166762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166762 menu-item"><a href="https://www.ondeck.com/lines-of-credit">Lines of Credit</a></li>
-	<li id="menu-item-167293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167293 menu-item"><a href="https://www.ondeck.com/loan-qualifications">Loan Qualifications</a></li>
-	<li id="menu-item-166764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166764 menu-item"><a href="https://www.ondeck.com/restricted-industries">Restricted Industries</a></li>
+	<li id="menu-item-182424" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182424 menu-item"><a href="https://www.ondeck.com/business-loans">Overview</a></li>
+	<li id="menu-item-182423" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182423 menu-item"><a href="https://www.ondeck.com/term-loans">Term Loan</a></li>
+	<li id="menu-item-182409" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182409 menu-item"><a href="/lines-of-credit/">Line of Credit</a></li>
 </ul>
 </li>
-<li id="menu-item-170318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-170318 menu-item"><a href="https://www.ondeck.com/why-ondeck">Why OnDeck</a>
+<li id="menu-item-182425" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182425 menu-item"><a href="https://www.ondeck.com/how-it-works">How It Works</a></li>
+<li id="menu-item-182402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-182402 menu-item"><a href="https://www.ondeck.com/why-ondeck">Why OnDeck</a>
 <ul class="sub-menu">
-	<li id="menu-item-166589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166589 menu-item"><a href="https://www.ondeck.com/why-ondeck">Overview</a></li>
-	<li id="menu-item-167361" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167361 menu-item"><a href="https://www.ondeck.com/success-stories">Success Stories</a></li>
+	<li id="menu-item-182427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-182427 menu-item"><a href="https://www.ondeck.com/why-ondeck">Overview</a></li>
+	<li id="menu-item-184146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-184146 menu-item"><a href="https://www.ondeck.com/company">About Us</a></li>
+	<li id="menu-item-181663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181663 menu-item"><a href="https://www.ondeck.com/success-stories">Success Stories</a></li>
 	<li id="menu-item-166765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166765 menu-item"><a href="https://www.ondeck.com/reviews">Reviews</a></li>
-</ul>
-</li>
-<li id="menu-item-170319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-170319 menu-item"><a href="https://www.ondeck.com/company">About Us</a>
-<ul class="sub-menu">
-	<li id="menu-item-166097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166097 menu-item"><a href="https://www.ondeck.com/company">Overview</a></li>
-	<li id="menu-item-166890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166890 menu-item"><a href="https://www.ondeck.com/ondeck-core-principles">Core Principles</a></li>
 	<li id="menu-item-166891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166891 menu-item"><a href="https://www.ondeck.com/in-the-news">In The News</a></li>
-	<li id="menu-item-170140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170140 menu-item"><a href="https://www.ondeck.com/careers">Careers</a></li>
 </ul>
 </li>
-<li id="menu-item-170320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170320 menu-item"><a href="https://www.ondeck.com/partner">Partner</a></li>
 <li id="menu-item-166128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-166128 menu-item"><a href="https://www.ondeck.com/resources">Resources</a>
 <ul class="sub-menu">
 	<li id="menu-item-166592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166592 menu-item"><a href="https://www.ondeck.com/resources">Small Business Center</a></li>
@@ -697,20 +731,20 @@ img.emoji {
 </ul>				</nav>
 			
 							<nav class="utility-nav" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" aria-label="Secondary">
-					<ul id="menu-secondary-navigation" class="menu"><li id="menu-item-165802" class="svg-lock odo-sign-in-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-165802 menu-item"><a target="_blank" href="https://online.ondeck.com/login" id="sign-in-click">Sign In</a></li>
-<li id="menu-item-165817" class="svg-phone menu-item menu-item-type-custom menu-item-object-custom menu-item-165817 menu-item"><a href="tel:8882694246">(888) 269-4246</a></li>
-<li id="menu-item-165822" class="button odo-apply-now-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-165822 menu-item"><a target="_blank" href="https://online.ondeck.com/" id="apply-now-header">Apply Now</a></li>
+					<ul id="menu-secondary-navigation" class="menu"><li id="menu-item-182429" class="partners menu-item menu-item-type-custom menu-item-object-custom menu-item-182429 menu-item"><a href="https://www.ondeck.com/partner">Partners</a></li>
+<li id="menu-item-165802" class="signin odo-sign-in-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-165802 menu-item"><a href="https://online.ondeck.com/login" id="sign-in-click">Sign In</a></li>
+<li id="menu-item-165817" class="phone menu-item menu-item-type-custom menu-item-object-custom menu-item-165817 menu-item"><a href="tel:8882694246">(888) 269-4246</a></li>
+<li id="menu-item-165822" class="ctabutton odo-apply-now-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-165822 menu-item"><a href="https://online.ondeck.com/" id="apply-now-header">Apply Now</a></li>
 </ul>				</nav>
 					</div>
 	</header>
 
 	
-			
 	
 											<section class="hero dark-blue-bg -has-image -align-center -bg-full-width" style="background-color: #000082;" role="region" aria-label="Hero">
 				<div class="hero-media-container ">
 					
-											<img width="1304" height="617" src="https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png?fit=1304%2C617&amp;ssl=1" class="attachment-xlarge size-xlarge" alt="" srcset="https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png?w=1304&amp;ssl=1 1304w, https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png?resize=300%2C142&amp;ssl=1 300w, https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png?resize=768%2C363&amp;ssl=1 768w, https://i1.wp.com/www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png?resize=1024%2C485&amp;ssl=1 1024w" sizes="(max-width: 1304px) 100vw, 1304px">									</div>
+											<img width="1304" height="617" src="https://www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png" class="attachment-xlarge size-xlarge" alt="" srcset="https://www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero.png 1304w, https://www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero-300x142.png 300w, https://www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero-768x363.png 768w, https://www.ondeck.com/wp-content/uploads/2017/07/small_business_center_hero-1024x485.png 1024w" sizes="(max-width: 1304px) 100vw, 1304px">									</div>
 
 				<header class="hero__wrapper">
 
@@ -724,14 +758,12 @@ img.emoji {
 					
 	
 
-	
-	<div class="wrap">
+<div class="wrap">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
 							
 					
-		<section class="text-block  " style="">
-
+		<section class="text-block " style="">
 						<div class="text-block__wrapper min-width">
 									<div class="text-icon text-light-blue">
 						<svg width="64" height="64">
@@ -741,13 +773,13 @@ img.emoji {
 				
 				
 				<div class="text-block__content">
-					<p style="text-align: center"><span style="color: #000000">This Privacy Policy has been updated effective January 2nd, 2019.</span></p><hr><h4>&nbsp;</h4><h4><span style="color: #000000">Overview</span></h4><p>This Privacy Policy applies to&nbsp;<a href="https://www.ondeck.com/">www.ondeck.com</a>&nbsp;(“Website”), which is owned and operated by On Deck Capital, Inc. or a subsidiary thereof (collectively, “OnDeck,” “Us,” or We”). The Website facilitates our business loan products and related services (collectively “Services”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide (directly or through third parties), or which is automatically generated, when you interact with our website&nbsp;<a href="https://www.ondeck.com/">www.ondeck.com</a>&nbsp;(“Website”) and our mobile application (“Mobile App”).</p><p>This Privacy Policy also describes the choices available to you regarding our use of your personal information and how you can access and update such information. For purposes of this Privacy Policy, “Personal Information” means information that personally identifies you, including your contact information, IP address, and loan application information. A large portion of the Personal Information we collect, use, share, and store is sensitive in nature, including your social security number and financial account information (“Sensitive Personal Information”).</p><h4><span style="color: #000000">Information We Collect</span></h4><p>We collect the following information from you:</p><ul><li>Contact information such as name, business name, email address, mailing address, and phone number;</li><li>Financial information such as bank statements, credit card statements, your average bank balance, personal and business credit history, payment behavior, bank account information, and tax ID number;</li><li>Social security number;</li><li>Unique identifiers such as user name and password, and IP address; and</li><li>Business information including company size, and business type.</li><li>Beneficial ownership information*</li></ul><p>In addition to collecting information via our Website and Mobile App, we may also conduct a site visit to collect information, and obtain information and external data used by lenders to process applications and complete and manage transactions, e.g., from credit reporting agencies and other vendors, as well as from social media. Once you are an OnDeck customer, we may reach out to you for, or otherwise obtain, information if you decide to renew your loan or as otherwise needed to provide the Service.</p><p>* In the U.S., we will collect information on the beneficial owners of our business customers for purposes of verifying their identity only. The U.S. Government implemented the new beneficial ownership regulation to help deter financial crimes. By complying, we are doing part in upholding the new regulation to protect the financial system. Pursuant to our privacy policies and procedures, we will maintain beneficial ownership information in our system of record.</p><h4><span style="color: #000000">Use of Information</span></h4><p>We use the information we collect to:</p><ul><li>Compile, save, use and analyze your Personal Information in both a personally-identifiable form and as part of an aggregated data;</li><li>Operate, maintain, improve, and provide to you the Service and to conduct our business, including our own lending and referring you to third party small business lenders;</li><li>Verify your identity and conduct appropriate diligence;</li><li>Register you as a user and identify you when you sign in to your account;</li><li>Process your application and determine whether or not your business qualifies for one of our loan products;</li><li>Process your business loan product account, including deducting automatic payments;</li><li>Communicate with you to send order confirmations, respond to customer service requests, send marketing communications, and send account update notifications;</li><li>Post and review your comments on our blog.</li><li>Conduct research and analyses to better understand our customers; and produce data analytics and reports containing anonymized summaries of Personal Information and other information that is not Personal Information (such information, “General Information”) that we share with business partners. General Information may include Personal Information that has been aggregated, anonymized and will not identify you.</li></ul><p><span style="color: #000000">&nbsp;</span></p><h4><span style="color: #000000">Privacy and Sharing of Information</span></h4><p>OnDeck will share your Personal Information with third parties only in the ways that are described in this Privacy Policy and as required by law. We do not sell your Personal Information to third parties. </p><p>We will provide your Personal Information to our trusted business partners, third party lenders of OnDeck products, service providers and subsidiaries and affiliates to provide services to help us with our business activities, such as offering customer service, processing credit checks or secure data storage, and other similar services. These companies are authorized to use your Personal Information only as necessary to provide these types of services to us. In addition, we may share your basic information (name, company name, phone number, email address and requested loan amount) with one of our business partners to market their services to you , provided, however, if you do not want us to share your Personal Information in these circumstances with these business partners, please contact us to opt out by email at <a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a> or by postal mail at the contact information listed below. In addition, we may also share General Information for the same reasons as we provide Personal Information and for business partners and others to conduct analyses and research and track marketing performance or as otherwise provided in the Tracking Technologies part herein.</p><p><span style="color: #000000">Some of our pages utilize framing or white-labeling techniques to serve content from our partners while preserving the look and feel of our Website. For example, our Careers page utilizes white-labeling techniques. Please be aware that in these instances you are providing your Personal Information to these third parties and not to OnDeck.</span></p><p><span style="color: #000000">We may also disclose your Personal Information:</span></p><ul><li><span style="color: #000000">As required by law, such as to comply with a subpoena, or similar legal process, including in a bankruptcy proceeding;</span></li><li><span style="color: #000000">When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a request from a governmental entity;</span></li><li><span style="color: #000000">If OnDeck is involved in a merger, acquisition, or sale of all or substantially all of its assets or equity, in which case, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information; and</span></li><li><span style="color: #000000">To any other third party with your prior consent to do so.</span></li></ul><h4><span style="color: #000000">User Access and Choice</span></h4><p><span style="color: #000000">If your Personal Information changes, or if you no longer desire our Service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum or testimonial on our Website or deactivate it by emailing our Customer Support at&nbsp;marketing@ondeck.com&nbsp;or by contacting us by postal mail at the contact information listed below. We will respond to your request within 30 days. </span></p><p><span style="color: #000000">We will retain your information for as long as your account is active or as long as reasonably useful for commercial purposes. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</span></p><p><span style="color: #000000"><em>Opt-Out Policy</em></span></p><p><span style="color: #000000"> OnDeck and our business partners may contact you to offer you products and services that may be of interest to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails, telephone solicitations or other forms of contact from OnDeck and our trusted business partners by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or by contacting us by email at&nbsp;<a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a>&nbsp;or by postal mail at the contact information listed below.</span></p><h4><span style="color: #000000">Tracking Technologies</span></h4><p><span style="color: #000000">OnDeck and our partners (for example, our marketing partners), affiliates, or analytics or service providers, including our live chat, marketing trackers, and survey tool service providers use cookies or similar technologies. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. </span></p><p><span style="color: #000000">A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies for user authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Website, but your ability to use some features or areas of our Website may be limited. If you would like to learn more about cookies or how to configure your browser, please visit <a target="_blank" href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a>.</span></p><p><span style="color: #000000"><em>Log Files</em></span></p><p><span style="color: #000000">As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you and to improve marketing, analytics, and Website functionality. </span></p><p><span style="color: #000000"><em>Behavioral Advertising/Re-Targeting</em></span></p><p><span style="color: #000000"> We partner with third parties to display advertising on our Website and manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking&nbsp;<a target="_blank" href="http://preferences-mgr.truste.com/">here</a>. Please note this does not opt you out of being served advertisements. You will continue to receive generic advertisements.</span></p><h4><span style="color: #000000">Security of Information</span></h4><p>OnDeck takes the security of your information very seriously. Your information is securely sent to OnDeck with 128 bit-encryption over the Transport Layer Security (TLS) protocol. This creates an encrypted connection between your browser and our servers. Thus, when you enter Sensitive Personal Information (such as a bank account number) on our order forms, we encrypt the transmission of that information. If you have any questions about the security of your personal information, you can contact us at&nbsp;<span style="color: #000000"><a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a></span>.</p><p>If you allow OnDeck to see your banking information online rather than in paper form, it is on a read-only basis. We do not have access to change, edit, or modify bank account information in any way. OnDeck employees cannot view your banking username and passwords.</p><h4><span style="color: #000000">Additional Information</span></h4><p><span style="color: #000000"><em>Links to 3rd Party Sites</em></span></p><p><span style="color: #000000"> Our Website includes links to other websites whose privacy practices may differ from those of OnDeck. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. </span></p><p><span style="color: #000000"><em>Blog/Forum</em></span></p><p><span style="color: #000000">Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.&nbsp;To request removal of your Personal Information from our blog or community forum, contact us by email at&nbsp;<a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a>&nbsp;or by postal mail at the contact information listed below. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.</span></p><p><span style="color: #000000"><em>Testimonials</em></span></p><p><span style="color: #000000">We display personal testimonials of satisfied customers on our Website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us by email at&nbsp;<a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a>&nbsp;or by postal mail at the contact information listed below.</span></p><p><span style="color: #000000"><em>Social Media Widgets</em></span></p><p><span style="color: #000000">Our Website includes social media features, such as the Facebook “Like” button. These features may collect your IP address, which pages you are visiting on our Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it.</span></p><p><span style="color: #000000"><em>Changes To This Policy</em></span></p><p><span style="color: #000000"> We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email or by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</span></p><h4>&nbsp;</h4><h4><span style="color: #000000">Contact Information</span></h4><p><span style="color: #000000">If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us by email at&nbsp;<a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a>, or with a letter by postal mail to:</span></p><p><span style="color: #000000"><em>OnDeck</em></span><br><span style="color: #000000"><em>ATTN: Marketing</em></span><br><span style="color: #000000"><em>1400 Broadway. 25th Floor</em></span><br><span style="color: #000000"><em>New York, NY 10018</em></span><br><span style="color: #000000"><em>USA&nbsp;</em></span></p><p>To opt-out of marketing communications, you must include your full name and business mailing email addresses and account number. Once we locate your contact information based on the information you provide us, it will be removed from our databases and mailings lists.</p><p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a target="_blank" href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>. &nbsp;</p>				</div>
+					<p style="text-align: center"><span style="color: #000000">This Privacy Policy has been updated effective January 2nd, 2019.</span></p><hr><h4>&nbsp;</h4><p><strong>Overview</strong></p><p>This Privacy Policy applies to&nbsp;<a href="https://www.ondeck.com/">www.ondeck.com</a>&nbsp;(“Website”), which is owned and operated by On Deck Capital, Inc. or a subsidiary thereof (collectively, “OnDeck,” “Us,” or We”). The Website facilitates our business loan products and related services (collectively “Services”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide (directly or through third parties), or which is automatically generated, when you interact with our website&nbsp;<a href="https://www.ondeck.com/">www.ondeck.com</a>&nbsp;(“Website”) and our mobile application (“Mobile App”).</p><p>This Privacy Policy also describes the choices available to you regarding our use of your personal information and how you can access and update such information. For purposes of this Privacy Policy, “Personal Information” means information that personally identifies you, including your contact information, IP address, and loan application information. A large portion of the Personal Information we collect, use, share, and store is sensitive in nature, including your social security number and financial account information (“Sensitive Personal Information”).</p><p><strong>Information We Collect</strong></p><p>We collect the following information from you:</p><ul><li>Contact information such as name, business name, email address, mailing address, and phone number;</li><li>Financial information such as bank statements, credit card statements, your average bank balance, personal and business credit history, payment behavior, bank account information, and tax ID number;</li><li>Social security number;</li><li>Unique identifiers such as user name and password, and IP address; and</li><li>Business information including company size, and business type.</li><li>Beneficial ownership information*</li></ul><p>In addition to collecting information via our Website and Mobile App, we may also conduct a site visit to collect information, and obtain information and external data used by lenders to process applications and complete and manage transactions, e.g., from credit reporting agencies and other vendors, as well as from social media. Once you are an OnDeck customer, we may reach out to you for, or otherwise obtain, information if you decide to renew your loan or as otherwise needed to provide the Service.</p><p>* In the U.S., we will collect information on the beneficial owners of our business customers for purposes of verifying their identity only. The U.S. Government implemented the new beneficial ownership regulation to help deter financial crimes. By complying, we are doing part in upholding the new regulation to protect the financial system. Pursuant to our privacy policies and procedures, we will maintain beneficial ownership information in our system of record.</p><p><strong>Use of Information</strong></p><p>We use the information we collect to:</p><ul><li>Compile, save, use and analyze your Personal Information in both a personally-identifiable form and as part of an aggregated data;</li><li>Operate, maintain, improve, and provide to you the Service and to conduct our business, including our own lending and referring you to third party small business lenders;</li><li>Verify your identity and conduct appropriate diligence;</li><li>Register you as a user and identify you when you sign in to your account;</li><li>Process your application and determine whether or not your business qualifies for one of our loan products;</li><li>Process your business loan product account, including deducting automatic payments;</li><li>Communicate with you to send order confirmations, respond to customer service requests, send marketing communications, and send account update notifications;</li><li>Post and review your comments on our blog.</li><li>Conduct research and analyses to better understand our customers; and produce data analytics and reports containing anonymized summaries of Personal Information and other information that is not Personal Information (such information, “General Information”) that we share with business partners. General Information may include Personal Information that has been aggregated, anonymized and will not identify you.</li></ul><p>&nbsp;</p><p><strong>Privacy and Sharing of Information</strong></p><p>OnDeck will share your Personal Information with third parties only in the ways that are described in this Privacy Policy and as required by law. We do not sell your Personal Information to third parties. </p><p>We will provide your Personal Information, which may include application information, to our trusted business partners, third party lenders of OnDeck products, service providers, and subsidiaries and affiliates to provide financing and/or to provide services to help us with our business activities, such as offering customer service, processing credit checks or secure data storage, and other similar services. These companies are authorized to use your Personal Information only as necessary to provide these types of services to us. In addition, we may share your basic information (name, company name, phone number, email address and requested loan amount) with one of our business partners to market their services to you , provided, however, if you do not want us to share your Personal Information in these circumstances with these business partners, please contact us to opt out by email at&nbsp;<a href="mailto:optout@ondeck.com">optout@ondeck.com</a> &nbsp;or by postal mail at the contact information listed below. In addition, we may also share General Information for the same reasons as we provide Personal Information and for business partners and others to conduct analyses and research and track marketing performance or as otherwise provided in the Tracking Technologies part herein.</p><p>Some of our pages utilize framing or white-labeling techniques to serve content from our partners while preserving the look and feel of our Website. For example, our Careers page utilizes white-labeling techniques. Please be aware that in these instances you are providing your Personal Information to these third parties and not to OnDeck.</p><p>We may also disclose your Personal Information:</p><ul><li>As required by law, such as to comply with a subpoena, or similar legal process, including in a bankruptcy proceeding;</li><li>When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a request from a governmental entity;</li><li>If OnDeck is involved in a merger, acquisition, or sale of all or substantially all of its assets or equity, in which case, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your Personal Information, as well as any choices you may have regarding your Personal Information; and</li><li>To any other third party with your prior consent to do so.</li></ul><p><strong>User Access and Choice</strong></p><p>If your Personal Information changes, or if you no longer desire our Service, you may correct, update, amend, delete/remove, ask to have it removed from a public forum or testimonial on our Website or deactivate it by emailing our Customer Support at&nbsp;marketing@ondeck.com&nbsp;or by contacting us by postal mail at the contact information listed below. We will respond to your request within 30 days. </p><p>We will retain your information for as long as your account is active or as long as reasonably useful for commercial purposes. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p><p><em>Opt-Out Policy</em></p><p>OnDeck and our business partners may contact you to offer you products and services that may be of interest to you. Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails, telephone solicitations or other forms of contact from OnDeck and our trusted business partners by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or by contacting us by email at&nbsp;<a href="mailto:optout@ondeck.com">optout@ondeck.com</a> &nbsp;or by postal mail at the contact information listed below.</p><p><strong>Tracking Technologies</strong></p><p>OnDeck and our partners (for example, our marketing partners), affiliates, or analytics or service providers, including our live chat, marketing trackers, and survey tool service providers use cookies or similar technologies. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. </p><p>A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies for user authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Website, but your ability to use some features or areas of our Website may be limited. If you would like to learn more about cookies or how to configure your browser, please visit&nbsp;<a rel="noopener noreferrer" target="_blank" href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a>.</p><p><em>Log Files</em></p><p>As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you and to improve marketing, analytics, and Website functionality. </p><p><em>Behavioral Advertising/Re-Targeting</em></p><p>We partner with third parties to display advertising on our Website and manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking&nbsp;<a rel="noopener noreferrer" target="_blank" href="http://preferences-mgr.truste.com/">here</a>. Please note this does not opt you out of being served advertisements. You will continue to receive generic advertisements.</p><p><strong>Security of Information</strong></p><p>OnDeck takes the security of your information very seriously. Your information is securely sent to OnDeck with 128 bit-encryption over the Transport Layer Security (TLS) protocol. This creates an encrypted connection between your browser and our servers. Thus, when you enter Sensitive Personal Information (such as a bank account number) on our order forms, we encrypt the transmission of that information. If you have any questions about the security of your personal information, you can contact us at&nbsp;<a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a>.</p><p>If you allow OnDeck to see your banking information online rather than in paper form, it is on a read-only basis. We do not have access to change, edit, or modify bank account information in any way. OnDeck employees cannot view your banking username and passwords.</p><p><strong>Additional Information</strong></p><p><em>Links to 3rd Party Sites</em></p><p>Our Website includes links to other websites whose privacy practices may differ from those of OnDeck. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. </p><p><em>Blog/Forum</em></p><p>Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.&nbsp;To request removal of your Personal Information from our blog or community forum, contact us by email at&nbsp;<a href="mailto:optout@ondeck.com">optout@ondeck.com</a> &nbsp;or by postal mail at the contact information listed below. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.</p><p><em>Testimonials</em></p><p>We display personal testimonials of satisfied customers on our Website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us by email at&nbsp;<a href="mailto:optout@ondeck.com">optout@ondeck.com</a> &nbsp;or by postal mail at the contact information listed below.</p><p><em>Social Media Widgets</em></p><p>Our Website includes social media features, such as the Facebook “Like” button. These features may collect your IP address, which pages you are visiting on our Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it.</p><p><em>Changes to This Policy</em></p><p>We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email or by means of a notice on this Website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.</p><p><strong>&nbsp;</strong></p><p><strong>Contact Information</strong></p><p><strong><u>General Queries</u></strong>: If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us by email at&nbsp;<a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a>, or with a letter by postal mail to:</p><p><em>OnDeck</em><br><em>ATTN: Marketing</em><br><em>1400 Broadway. 25th Floor</em><br><em>New York, NY 10018</em><br><em>USA&nbsp;</em></p><p><strong><u>To opt-out of marketing communications</u></strong>: &nbsp;please use one of the communication methods below, and include your full name and business mailing email addresses and account number. Once we locate your contact information based on the information you provide us, it will be removed from our databases and mailings lists.</p><ol><li>Send an email to <a href="mailto:optout@ondeck.com">optout@ondeck.com</a></li><li>Send a letter to:</li></ol><p><em>OnDeck</em><br><em>ATTN: Marketing Opt-Out<br>1400 Broadway. 25th Floor</em><br><em>New York, NY 10018</em><br><em>USA&nbsp;</em></p><p>&nbsp;</p><p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at&nbsp;<a rel="noopener noreferrer" target="_blank" href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>. &nbsp;</p><p>&nbsp;</p>				</div>
 			</div>
 		</section>
 
 		
 
-		<section class="text-block  " style=" margin-bottom: 0px;" "="">
+		<section class="text-block" style="margin-bottom: 0px;">
 						<div class="text-block__wrapper min-width">
 
 				
@@ -769,31 +801,96 @@ img.emoji {
 		<nav class="footer-nav" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement" aria-label="Footer">
 			<ul id="menu-footer-navigation" class="menu"><li id="menu-item-170148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-170148 menu-item"><a href="https://www.ondeck.com/careers">Careers</a></li>
 <li id="menu-item-166331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-166331 menu-item"><a href="https://investors.ondeck.com">Investors</a></li>
-<li id="menu-item-166422" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-166276 current_page_item menu-item-166422 menu-item"><a href="https://www.ondeck.com/privacy">Privacy Policy</a></li>
+<li id="menu-item-166422" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-166276 current_page_item menu-item-166422 menu-item"><a href="https://www.ondeck.com/privacy" aria-current="page">Privacy Policy</a></li>
 <li id="menu-item-166421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-166421 menu-item"><a href="https://www.ondeck.com/security-policy">Security Policy</a></li>
 <li id="menu-item-167338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-167338 menu-item"><a href="https://www.ondeck.com/support">Support</a></li>
-</ul>		</nav>
+</ul>			<a class="footer-nav__backtotop" href="#">Back to Top</a>
+		</nav>
 
-		<nav class="social-nav" aria-label="Social">
-			<ul id="menu-footer-social" class="social-share social-share--footer"><li id="menu-item-165856" class="svg-share-facebook menu-item menu-item-type-custom menu-item-object-custom menu-item-165856 menu-item"><a href="https://www.facebook.com/OnDeckCapital/">Facebook</a></li>
-<li id="menu-item-165869" class="svg-share-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item-165869 menu-item"><a href="https://twitter.com/OnDeckCapital/">Twitter</a></li>
-<li id="menu-item-165895" class="svg-share-linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item-165895 menu-item"><a href="https://www.linkedin.com/company/ondeck/">Linkedin</a></li>
-</ul>		</nav>
+		<div class="global-footer__content-wrap">
 
-		<div class="regions">
-			<ul id="menu-footer-regions" class="menu"><li id="menu-item-165897" class="svg-usa menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-165897 menu-item"><a href="https://www.ondeck.com/">USA</a></li>
-<li id="menu-item-165898" class="svg-can menu-item menu-item-type-custom menu-item-object-custom menu-item-165898 menu-item"><a target="_blank" href="https://en-ca.ondeck.com/">Canada</a></li>
-<li id="menu-item-166336" class="svg-aus menu-item menu-item-type-custom menu-item-object-custom menu-item-166336 menu-item"><a target="_blank" href="https://www.ondeck.com.au/">Australia</a></li>
-</ul>		</div>
+			<div>
 
-		<div class="copyright">
-						<p>Loans Subject to Lender Approval. Depending on the state where your business is located and other attributes of the loan, your business loan may be issued by Celtic Bank, a Utah-Chartered Industrial Bank, Member FDIC. Your loan agreement will identify the loan issuer prior to your signing.<br>
+				<div class="global-footer__logo-wrap">
+					<svg class="global-footer__ondeck-logo" width="140" height="30" viewBox="0 0 75 16">
+						<title id="ondecklogo-site-footer">OnDeck</title>
+						<path class="svg-footer-ondecklogo__on" d="M12.07 10.294c0 3.424-2.588 5.635-6 5.635-3.4 0-5.964-2.2-5.964-5.6 0-3.423 2.588-5.635 6-5.635 3.4 0 5.965 2.2 5.965 5.6zM6.06 13.071c1.6 0 2.73-1.177 2.73-2.777s-1.095-2.73-2.695-2.73c-1.6 0-2.73 1.177-2.73 2.777.012 1.6 1.095 2.73 2.695 2.73zM16.87 15.659h-3.188V4.976h3.189v1.212A4.375 4.375 0 0 1 20.2 4.694c2.482 0 3.87 1.67 3.87 4.506v6.447h-3.188V9.706c0-1.365-.764-2.2-2.011-2.2-1.236 0-2.012.835-2.012 2.176v5.977h.012z" fill="currentColor"></path>
+						<path class="svg-footer-ondecklogo__deck" d="M34.224 14.4c-.765.965-1.906 1.541-3.377 1.541-3.165 0-5.13-2.459-5.13-5.623 0-3.165 2.048-5.624 5.212-5.624 1.447 0 2.542.53 3.295 1.447V.06h3.188v15.588h-3.188V14.4zm-2.612-1.282c1.623 0 2.73-1.212 2.73-2.836 0-1.576-1.071-2.753-2.648-2.753-1.623 0-2.718 1.177-2.718 2.8.012 1.565 1.06 2.789 2.636 2.789zM39.024 10.318c0-3.377 2.482-5.624 5.811-5.624 3.2 0 5.553 2.259 5.553 5.388 0 .365-.023.753-.047 1.094h-8.035c.341 1.212 1.341 2.048 2.753 2.048 1.023 0 1.835-.389 2.565-1.212l1.964 1.917c-1.259 1.389-2.823 2.012-4.682 2.012-3.365 0-5.882-2.247-5.882-5.623zm3.329-1.212h4.718c-.26-1.047-1.177-1.753-2.33-1.753-1.235 0-2.059.718-2.388 1.753zM57.541 13.047c1 0 1.835-.53 2.459-1.341l2.153 1.918c-1.153 1.447-2.73 2.305-4.659 2.305-3.376 0-5.894-2.247-5.894-5.623 0-3.377 2.518-5.624 5.894-5.624 1.906 0 3.53.789 4.659 2.26L60 8.928c-.6-.811-1.447-1.34-2.459-1.34-1.576 0-2.67 1.152-2.67 2.729 0 1.576 1.094 2.73 2.67 2.73zM67.93 11.07l-1.306.871v3.718h-3.189V.059h3.189v8.565l6.752-4.577h.13v3.53l-2.824 1.882 3.565 6.07v.13h-3.635z" fill="currentColor"></path>
+					</svg>
+
+					<nav class="regions">
+						<ul id="menu-footer-regions" class="menu"><li id="menu-item-182430" class="svg-usa menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-182430 menu-item"><a href="https://www.ondeck.com/">USA</a></li>
+<li id="menu-item-165898" class="svg-can menu-item menu-item-type-custom menu-item-object-custom menu-item-165898 menu-item"><a target="_blank" rel="noopener noreferrer" href="http://www.ondeck.ca">Canada</a></li>
+<li id="menu-item-166336" class="svg-aus menu-item menu-item-type-custom menu-item-object-custom menu-item-166336 menu-item"><a target="_blank" rel="noopener noreferrer" href="https://www.ondeck.com.au/">Australia</a></li>
+</ul>					</nav>
+
+					<nav class="social-nav" aria-label="Social">
+						<ul id="menu-footer-social" class="social-share social-share--footer">
+															<li class="svg-share-facebook menu-item menu-item-type-custom menu-item-object-custom menu-item">
+									<a href="https://www.facebook.com/OnDeckCapital/" rel="noopener noreferrer">
+										<span class="screen-reader-text">
+											Facebook										</span>
+									</a>
+								</li>
+							
+															<li class="svg-share-twitter menu-item menu-item-type-custom menu-item-object-custom menu-item">
+									<a href="https://www.facebook.com/OnDeckCapital/" rel="noopener noreferrer">
+										<span class="screen-reader-text">
+											Twitter										</span>
+									</a>
+								</li>
+							
+															<li class="svg-share-linkedin menu-item menu-item-type-custom menu-item-object-custom menu-item">
+									<a href="https://www.linkedin.com/company/ondeck/" rel="noopener noreferrer">
+										<span class="screen-reader-text">
+											Linkedin										</span>
+									</a>
+								</li>
+													</ul>
+					</nav>
+				</div>
+
+				<div class="copyright">
+										<p>Loans Subject to Lender Approval. Depending on the state where your business is located and other attributes of the loan, your business loan may be issued by Celtic Bank, a Utah-Chartered Industrial Bank, Member FDIC. Your loan agreement will identify the loan issuer prior to your signing.<br>
 <br>
 			OnDeck® is a Registered Trademark. All rights reserved.<br>
 <br>
 			1400 Broadway, New York, New York.</p>
-							<img src="https://www.ondeck.com/wp-content/themes/ondeck/assets/images/logo-made-in-ny.png" srcset="https://www.ondeck.com/wp-content/themes/ondeck/assets/images/logo-made-in-ny.png 1x, https://www.ondeck.com/wp-content/themes/ondeck/assets/images/logo-made-in-ny@2x.png 2x, https://www.ondeck.com/wp-content/themes/ondeck/assets/images/logo-made-in-ny@3x.png 3x" alt="Made in NY" width="48" height="48">
-					</div>
+				</div>
+
+			</div>
+
+			
+<ul class="footer-logos">
+	<li>
+		<a href="https://www.lendingtree.com/reviews/business/ondeck/51886298#rating-breakdown" rel="noopener noreferrer" target="_blank">
+			<img src="https://www.ondeck.com/wp-content/themes/ondeck-2019/assets/images/footer/svg/award-lending-tree.svg" alt="Lending Tree Business Loans Award Logo">
+		</a>
+	</li>
+	<li>
+		<a href="https://www.bbb.org/us/ny/new-york/profile/financial-services/on-deck-capital-inc-0121-101780" rel="noopener noreferrer" target="_blank">
+			<img src="https://www.ondeck.com/wp-content/themes/ondeck-2019/assets/images/footer/svg/bbb-a-rating.svg" alt="BBB Acredited Business: A+ Rating">
+		</a>
+	</li>
+	<li>
+		<a href="https://innovativelending.org/" rel="noopener noreferrer" target="_blank">
+			<img src="https://www.ondeck.com/wp-content/themes/ondeck-2019/assets/images/footer/svg/ilpa.svg" alt="Innovative Lending Platform Assocation Logo">
+		</a>
+	</li>
+	<li>
+		<a href="https://loans.usnews.com/small-business#ondeck-business-loans-review" rel="noopener noreferrer" target="_blank">
+			<img src="https://www.ondeck.com/wp-content/themes/ondeck-2019/assets/images/footer/svg/usa-news.svg" alt="US News: Best Small Business Loans Award">
+		</a>
+	</li>
+	<li>
+		<a href="https://innovativelending.org/smart-box/" rel="noopener noreferrer" target="_blank">
+			<img src="https://www.ondeck.com/wp-content/themes/ondeck-2019/assets/images/footer/svg/smart-box.svg" alt="SmartBox Logo">
+		</a>
+	</li>
+</ul>
+
+		</div>
+
 	</div>
 </footer>
 
@@ -802,60 +899,31 @@ img.emoji {
 	<a href="#main-header">Back to Header</a>
 </div>
 
-<div class="modal modal--fade modal--in modal--redirect">
-	<div class="modal__dialog">
-		<div class="modal__content">
-			<div class="modal__header">
-				<button type="button" class="modal__close" aria-label="Close">
-					<svg class="icon">
-						<use xlink:href="#shape-close"></use>
-					</svg>
-				</button>
-				<h4 class="modal__title">Is your business based in <span class="country"></span>?</h4>
-			</div>
-			<div class="modal__body">
-				<p>If so, please visit our <span class="country2"></span> website.</p>
-				<a href="" class="button do-redirect" role="button">Take me to the <span class="country2"></span> website</a>
-				<p>or</p>
-				<a href="https://www.ondeck.com" class="no-redirect">Continue to the US website</a>
-			</div>
-			<div class="modal__footer"></div>
-		</div>
-	</div>
-</div>
-<script>window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'1643695'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;}</script>	<!-- hidden div required by liveperson chat -->
-	<div id="LP_DIV_1477333915988"></div>
-		<a href="#main" class="back-to-top" id="js-back-to-top">
+
+<script>window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'1643695'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;}</script>	<a href="#main" class="back-to-top" id="js-back-to-top">
 		<svg width="64" height="64">
 			<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#shape-angle-left"></use>
 		</svg>
 		<span class="screen-reader-text">
 			Back to top		</span>
 	</a>
-	<script type="text/javascript" src="https://www.ondeck.com/wp-content/plugins/jetpack/_inc/build/photon/photon.min.js?ver=20130122"></script>
-<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201902"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var ONDLocationConfig = {"locationAPI":"\/\/api.ipgeolocation.io\/ipgeo\/","cookieDomain":".ondeck.com","canadaUrl":"https:\/\/en-ca.ondeck.com","australiaUrl":"https:\/\/www.ondeck.com.au","apiKey":""};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.ondeck.com/wp-content/themes/ondeck-us/assets/js/ondeck-us.min.js?ver=1.0.3"></script>
-<script type="text/javascript" src="https://www.ondeck.com/wp-content/themes/ondeck/assets/js/vendor/espi-a11y-dialog/a11y-dialog.min.js?ver=0.4.4"></script>
-<script type="text/javascript" src="https://www.ondeck.com/wp-content/themes/ondeck/assets/js/vendor/swiper/dist/js/swiper.min.js?ver=0.4.4"></script>
-<script type="text/javascript" src="https://www.youtube.com/iframe_api?ver=0.4.4"></script>
-<script type="text/javascript" src="https://player.vimeo.com/api/player.js?ver=0.4.4"></script>
-<script type="text/javascript" src="https://www.ondeck.com/wp-content/themes/ondeck/assets/js/vendor/jquery-selectability/jquery.selectability.js?ver=0.4.4"></script>
-<script type="text/javascript" src="https://www.ondeck.com/wp-content/themes/ondeck/assets/js/vendor/picturefill/dist/picturefill.min.js?ver=0.4.4"></script>
-<script type="text/javascript" src="https://www.ondeck.com/wp-content/themes/ondeck/assets/js/vendor/object-fit-images/dist/ofi.browser.js?ver=0.4.4"></script>
+	<script type="text/javascript" src="https://www.ondeck.com/wp-content/themes/ondeck-2019/dist/js/blocks.min.js?ver=0.1.1" async=""></script>
+<script type="text/javascript" src="https://www.youtube.com/iframe_api?ver=0.1.1" async=""></script>
+<script type="text/javascript" src="https://player.vimeo.com/api/player.js?ver=0.1.1" async=""></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var ONDTrackingConfig = {"cookieDomain":".ondeck.com"};
 var ONDJSVars = {"ajaxurl":"https:\/\/www.ondeck.com\/wp-admin\/admin-ajax.php"};
-var ONDi18n = {"resourceHeroHeading":"OnDeck\u2019s Top Picks","resourceLoadMore":"Load More","resourceHeroSubheading":"Showing %1$s tagged to %2$s.","resourceAllTopics":"all topics","articles":"Read the article","ebook":"Read the ebook","infographics":"See the results","videos":"Watch the video","webinars":"Join the webinar","guides":"Read the guide"};
+var ONDi18n = {"resourceHeroHeading":"OnDeck\u2019s Top Picks","resourceLoadMore":"Load More","resourceHeroSubheading":"Showing %1$s tagged to %2$s.","resourceAllTopics":"all topics","articles":"Read the article","ebook":"Read the ebook","infographics":"See the results","videos":"Watch the video","webinars":"Join the webinar","guides":"Read the guide","languageSlug":""};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.ondeck.com/wp-content/themes/ondeck/assets/js/ondeck.min.js?ver=0.4.4"></script>
-<script type="text/javascript" src="https://www.ondeck.com/wp-includes/js/wp-embed.min.js?ver=4.9.9"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8dc9f667bf","applicationID":"61354487","transactionName":"NgdWZkEAXEtZVBcLCg9NdVFHCF1WF14NBgAZ","queueTime":0,"applicationTime":190,"atts":"GkBVEAkaT0U=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript" src="https://www.ondeck.com/wp-content/themes/ondeck-2019/dist/js/frontend.min.js?ver=0.1.1"></script>
+<script type="text/javascript" src="https://www.ondeck.com/wp-includes/js/wp-embed.min.js?ver=5.2.3"></script>
+
+<!-- This site is optimized with Phil Singleton's WP SEO Structured Data Plugin v1.2.8 - https://kcseopro.com/wordpress-seo-structured-data-schema-plugin/ -->
+
+<!-- / WP SEO Structured Data Plugin. -->
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8dc9f667bf","applicationID":"61354487","transactionName":"NgdWZkEAXEtZVBcLCg9NdVFHCF1WF14NBgAZ","queueTime":0,"applicationTime":261,"atts":"GkBVEAkaT0U=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
