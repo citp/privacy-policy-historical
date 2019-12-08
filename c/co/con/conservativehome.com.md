@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservativehome.com privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608100932id_/https%3A//www.conservativehome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservativehome.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208101116id_/https%3A//www.conservativehome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Conservative Home
 
