@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the century21.ca privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331193534id_/https%3A//images.century21.ca/Brokers/C21/Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the century21.ca privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208073203id_/https%3A//images.century21.ca/Brokers/C21/Privacy.pdf) for the most accurate reproduction.*
 
 # CENTURY 21 CANADA LIMITED PARTNERSHIP PRIVACY POLICY
 
