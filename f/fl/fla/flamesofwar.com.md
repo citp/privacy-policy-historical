@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flamesofwar.com privacy policy that was archived on 2019-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190618064936id_/https%3A//www.flamesofwar.com/hobby.aspx%3Fart_id%3D6037) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamesofwar.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208154827id_/https%3A//www.flamesofwar.com/hobby.aspx%3Fart_id%3D6037) for the most accurate reproduction.*
 
 # Hobby
 
@@ -56,9 +56,9 @@ Please note that sometimes we will require you to provide additional personal in
 ** Battlefront Miniatures will use your personal information for a number of purposes including the following:
 
   * to provide our services, activities or online content, to provide you with information about them and to deal with your requests and enquiries;
-  * for ” administration purposes”, which means that Battlefront Miniatures may contact you for reasons related to the purchases, services or online content you have signed up for, as set out in section 4 below (e.g. to provide you with password reminders, to notify you that a particular service, activity or online content has been suspended for maintenance, to notify you of updates to our Privacy and Cookies Policy or [Terms of Use](https://web.archive.org/web/20190618064936id_/https%3A//www.flamesofwar.com/hobby.aspx?art_id=6038));
+  * for ” administration purposes”, which means that Battlefront Miniatures may contact you for reasons related to the purchases, services or online content you have signed up for, as set out in section 4 below (e.g. to provide you with password reminders, to notify you that a particular service, activity or online content has been suspended for maintenance, to notify you of updates to our Privacy and Cookies Policy or [Terms of Use](https://web.archive.org/web/20191208154827id_/https%3A//www.flamesofwar.com/hobby.aspx?art_id=6038));
   * we do not share personal data with 3rd parties without your express permission;
-  * to contact you about a submission you have made, including any content you provide. For additional information, please see the [Terms of Use](https://web.archive.org/web/20190618064936id_/https%3A//www.flamesofwar.com/hobby.aspx?art_id=6038);
+  * to contact you about a submission you have made, including any content you provide. For additional information, please see the [Terms of Use](https://web.archive.org/web/20191208154827id_/https%3A//www.flamesofwar.com/hobby.aspx?art_id=6038);
   * to use IP addresses and device identifiers to identify the location of users, to block disruptive use and to establish the number of visits from different countries;
   * we may also use and disclose information in aggregate (so that no individuals are identified) for marketing and strategic development purposes
 
@@ -103,7 +103,7 @@ Where Battlefront Miniatures reasonably believes that you are or may be in breac
 **9\. How long will Battlefront Miniatures keep my information?  
 ** We will hold your personal information on our systems for as long as is necessary for the relevant activity, or as long as is set out in any relevant contract you hold with Battlefront Miniatures. If you delete your Battlefront Miniatures account then your personal information will be deleted provided no monies are owing, and the remaining information is anonymised for analytical purposes. For further information about deleting your Battlefront Miniatures account, please see section 10 below.
 
-Where you contribute content together with your personal information (User Generated Content or UGC) please refer to our [Terms of Use](https://web.archive.org/web/20190618064936id_/https%3A//www.flamesofwar.com/hobby.aspx?art_id=6038) for further information about how long we may store such material.
+Where you contribute content together with your personal information (User Generated Content or UGC) please refer to our [Terms of Use](https://web.archive.org/web/20191208154827id_/https%3A//www.flamesofwar.com/hobby.aspx?art_id=6038) for further information about how long we may store such material.
 
 If you have not used your Battlefront Miniatures account in the last year then your account may be classed as dormant or may be deleted in line with this privacy policy.
 
