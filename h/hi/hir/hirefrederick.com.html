@@ -1,0 +1,847 @@
+<!--The following is the downloaded HTML source of the hirefrederick.com privacy policy that was archived on 2019-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191208193708id_/https%3A//www.mindbodyonline.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js" lang="en"><head>
+  <meta charset="utf-8"><iframe src="javascript:void(0)" title="" style="width: 0px; height: 0px; border: 0px; display: none;"></iframe><script src="https://js-agent.newrelic.com/nr-spa-1153.min.js"></script><script src="//tags.tiqcdn.com/utag/mindbody/main/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).init={distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"373255742",accountID:"2135991",trustKey:"84467",xpid:"VgcEVF9aCRADUlhaBAYHX1U=",licenseKey:"2b9dc5e3d9",applicationID:"369837091"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(24),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(25),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError",l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(13),t(12),"addEventListener"in window&&t(6),c.xhrWrappable&&t(14),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(){L++,C=g.hash,this[u]=y.now()}function o(){L--,g.hash!==C&&i(0,!0);var t=y.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+g,e])}function a(t,e){t.on(e,function(){this[e]=y.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,g=w.location,y=t("loader");if(w[v]&&y.xhrWrappable){var x=t(10),b=t(11),E=t(8),R=t(6),O=t(13),N=t(7),P=t(14),M=t(9),T=t("ee"),S=T.get("tracer");t(16),y.features.spa=!0;var C,L=0;T.on(u,r),T.on(p,r),T.on(d,o),T.on(l,o),T.buffer([u,d,"xhr-done","xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),P.buffer([u,"new-xhr","send-xhr"+s]),N.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),x.buffer([u]),b.buffer(["propagate",p,l,"executor-err","resolve"+s]),S.buffer([u,"no-"+u]),M.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(P,"send-xhr"+s),a(T,"xhr-resolved"),a(T,"xhr-done"),a(N,m+s),a(N,m+"-done"),a(M,"new-jsonp"),a(M,"jsonp-end"),a(M,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,!0),w[v]("load",i,!0),w[v]("popstate",function(){i(0,L>1)},!0)}},{}],5:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(13),s=t(12),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",p="resource",l="-start",h="-end",m="fn"+l,v="fn"+h,w="bstTimer",g="pushState",y=t("loader");y.features.stn=!0,t(8),"addEventListener"in window&&t(6);var x=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof x&&(this.bstStart=y.now())}),o.on(v,function(t,e){var n=t[0];n instanceof x&&i("bst",[n,e,this.bstStart,y.now()])}),a.on(m,function(t,e,n){this.bstStart=y.now(),this.bstType=n}),a.on(v,function(t,e){i(w,[e,this.bstStart,y.now(),this.bstType])}),s.on(m,function(){this.bstStart=y.now()}),s.on(v,function(t,e){i(w,[e,this.bstStart,y.now(),"requestAnimationFrame"])}),o.on(g+l,function(t){this.time=y.now(),this.startPath=location.pathname+location.hash}),o.on(g+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(p)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],6:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],7:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=i(arguments),e={};o.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var s=r.apply(this,t);return o.emit(n+"start",[t,a],s),s.then(function(t){return o.emit(n+"end",[null,t],s),t},function(t){throw o.emit(n+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(25),a=t(24);e.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,p=s.Response,l=s.fetch,h="prototype",m="nr@context";d&&p&&l&&(a(u,function(t,e){r(d[h],e,f),r(p[h],e,f)}),r(s,"fetch",c),o.on(c+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(c+"done",[null,e],n)}else o.emit(c+"done",[t],n)}))},{}],8:[function(t,e,n){var r=t("ee").get("history"),o=t("wrap-function")(r);e.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],9:[function(t,e,n){function r(t){function e(){c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}function n(){c.emit("jsonp-error",[],p),c.emit("jsonp-end",[],p),t.removeEventListener("load",e,!1),t.removeEventListener("error",n,!1)}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var u=s(a),d="function"==typeof u.parent[u.key];if(d){var p={};f.inPlace(u.parent,[u.key],"cb-",p),t.addEventListener("load",e,!1),t.addEventListener("error",n,!1),c.emit("new-jsonp",[t.src],p)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(u);return e?e[1]:null}function a(t,e){var n=t.match(p),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(d);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t("ee").get("jsonp"),f=t("wrap-function")(c);if(e.exports=c,o()){var u=/[?&](?:callback|cb)=([^&#]+)/,d=/(.*)\.([^.]+)/,p=/^(\w+)(\.|$)(.*)$/,l=["appendChild","insertBefore","replaceChild"];Node&&Node.prototype&&Node.prototype.appendChild?f.inPlace(Node.prototype,l,"dom-"):(f.inPlace(HTMLElement.prototype,l,"dom-"),f.inPlace(HTMLHeadElement.prototype,l,"dom-"),f.inPlace(HTMLBodyElement.prototype,l,"dom-")),c.on("dom-start",function(t){r(t[0])})}},{}],10:[function(t,e,n){var r=t("ee").get("mutation"),o=t("wrap-function")(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],11:[function(t,e,n){function r(t){var e=a.context(),n=s(t,"executor-",e),r=new f(n);return a.context(r).getCtx=function(){return e},a.emit("new-promise",[r,e],e),r}function o(t,e){return e}var i=t("wrap-function"),a=t("ee").get("promise"),s=i(a),c=t(24),f=NREUM.o.PR;e.exports=a,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){a.emit("propagate",[null,!o],i),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var i=e.apply(f,arguments),s=f.resolve(i);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&a.emit("propagate",[t,!0],n),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),a.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this),t[1]=s(t[1],"resolve-",this)}),a.on("executor-err",function(t,e,n){t[1](n)}),s.inPlace(f.prototype,["then"],"then-",o),a.on("then-start",function(t,e){this.promise=e,t[0]=s(t[0],"cb-",this),t[1]=s(t[1],"cb-",this)}),a.on("then-end",function(t,e,n){this.nextPromise=n;var r=this.promise;a.emit("propagate",[r,!0],n)}),a.on("cb-end",function(t,e,n){a.emit("propagate",[n,!0],this.nextPromise)}),a.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=a.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],12:[function(t,e,n){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],13:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],14:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,g,"fn-",s)}function i(t){y.push(t),h&&(b?b.then(a):v?v(a):(E=-E,R.data=E))}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(6);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),p=NREUM.o,l=p.XHR,h=p.MO,m=p.PR,v=p.SI,w="readystatechange",g=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var x=window.XMLHttpRequest=function(t){var e=new l(t);try{u.emit("new-xhr",[e],e),e.addEventListener(w,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(l,x),x.prototype=l.prototype,d.inPlace(x.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var b=m&&m.resolve();if(!v&&!m){var E=1,R=document.createTextNode(E);new h(a).observe(R,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],15:[function(t,e,n){function r(){var t=window.NREUM;if(!t.loader_config)return null;var e=(t.loader_config.accountID||"").toString()||null,n=(t.loader_config.agentID||"").toString()||null,r=(t.loader_config.trustKey||"").toString()||null;if(!e||!n)return null;var a=i.generateCatId(),s=i.generateCatId(),c=Date.now(),f=o(a,s,c,e,n,r);return{header:f,guid:a,traceId:s,timestamp:c}}function o(t,e,n,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:e,ti:n}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}var i=t(22);e.exports={generateTracePayload:r,generateTraceHeader:o}},{}],16:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<l;r++)t.removeEventListener(p[r],this.listener,!1);e.aborted||(n.duration=s.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):a(this,t),n.cbTime=this.cbTime,d.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime]))}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return v(r)}function i(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}function a(t,e){t.params.status=e.status;var n=o(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(17),u=t(15).generateTracePayload,d=t("ee"),p=["load","error","abort","timeout"],l=p.length,h=t("id"),m=t(20),v=t(19),w=window.XMLHttpRequest;s.features.xhr=!0,t(14),t(7),d.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,t.addEventListener("load",function(n){a(e,t)},!1),m&&(m>34||m<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),d.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),d.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=!!NREUM.init.distributed_tracing.enabled),n&&this.sameOrigin){var r=u();r&&r.header&&(e.setRequestHeader("newrelic",r.header),this.dt=r)}}),d.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=v(r);i&&(n.txSize=i)}this.startTime=s.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{d.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<l;a++)e.addEventListener(p[a],this.listener,!1)}),d.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),d.on("xhr-load-added",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),d.on("xhr-load-removed",function(t,e){var n=""+h(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),d.on("addEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-added",[t[1],t[2]],e)}),d.on("removeEventListener-end",function(t,e){e instanceof w&&"load"===t[0]&&d.emit("xhr-load-removed",[t[1],t[2]],e)}),d.on("fn-start",function(t,e,n){e instanceof w&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=s.now()))}),d.on("fn-end",function(t,e){this.xhrCbStart&&d.emit("xhr-cb-time",[s.now()-this.xhrCbStart,this.onload,e],e)}),d.on("fetch-before-start",function(t){var e,n=t[1]||{};"string"==typeof t[0]?e=t[0]:t[0]&&t[0].url&&(e=t[0].url),e&&(this.sameOrigin=f(e).sameOrigin);var r=!1;if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(r=!!NREUM.init.distributed_tracing.enabled),r&&this.sameOrigin){var o=u();if(!o||!o.header)return;var i=o.header;if("string"==typeof t[0]){var a={};for(var s in n)a[s]=n[s];a.headers=new Headers(n.headers||{}),a.headers.set("newrelic",i),this.dt=o,t.length>1?t[1]=a:t.push(a)}else t[0]&&t[0].headers&&(t[0].headers.append("newrelic",i),this.dt=o)}})}},{}],17:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],18:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(24),s=t(25),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],p="api-",l=p+"ixn-";a(d,function(t,e){u[e]=o(p+e,!0,"api")}),u.addPageAction=o(p+"addPageAction",!0),u.setCurrentRouteName=o(p+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(l+e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,e])}},{}],19:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],20:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],21:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?a("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&a("timing",["fcp",Math.floor(t.startTime)])})}function o(t){if(t instanceof c&&!u){var e,n=Math.round(t.timeStamp);e=n>1e12?Date.now()-n:s.now()-n,u=!0,a("timing",["fi",n,{type:t.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var i,a=t("handle"),s=t("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){i=new PerformanceObserver(r);try{i.observe({entryTypes:["paint"]})}catch(f){}}if("addEventListener"in document){var u=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(t){document.addEventListener(t,o,!1)})}}},{}],22:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&Uint8Array&&(e=r.getRandomValues(new Uint8Array(31)));for(var o=[],i=0;i<16;i++)o.push(t().toString(16));return o.join("")}e.exports={generateUuid:r,generateCatId:o}},{}],23:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],24:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],25:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],26:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function n(n,r,o,i){if(!p.aborted||i){t&&t(n,r,o);for(var a=e(o),s=m(n),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[n]];return d&&d.push([x,n,r,a]),a}}function l(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function v(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var g={},y={},x={on:l,addEventListener:l,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:a,aborted:!1};return x}function i(){return new r}function a(){(u.api||u.feature)&&(p.aborted=!0,u=p.backlog={})}var s="nr@context",c=t("gos"),f=t(24),u={},d={},p=e.exports=o();p.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!E++){var t=b.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()+b.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return R.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(24),u=t("ee"),d=t(23),p=window,l=p.document,h="addEventListener",m="attachEvent",v=p.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:v,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var g=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1153.min.js"},x=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),b=e.exports={offset:s,now:a,origin:g,features:{},xhrWrappable:x,userAgent:d};t(18),t(21),l[h]?(l[h]("DOMContentLoaded",i,!1),p[h]("load",r,!1)):(l[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,R=t(26)},{}],"wrap-function":[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(25),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(f){p([f,"",[r,a,o],s])}u(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],s),d}finally{u(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<e.length;c++)s=e[c],a=t[s],r(a)||(t[s]=n(a,f?s+o:o,i,s))}function u(n,r,o){if(!c||e){var i=c;c=!0;try{t.emit(n,r,o,e)}catch(a){p([a,n,r,o])}c=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){p([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function p(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}]},{},["loader",2,16,5,3,4]);</script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="https://company.mindbodyonline.com/sites/all/themes/mbo/favicon.ico" type="image/vnd.microsoft.icon">
+<meta name="description" content="At MINDBODY, we respect your privacy and are committed to maintaining your trust. This Privacy Policy describes our policies on the collection, use, and disclosure of information in connection with your use of our products and services">
+<meta name="robots" content="follow, index">
+<meta name="rating" content="general">
+<link rel="canonical" href="https://company.mindbodyonline.com/legal/privacy-policy">
+<meta property="og:site_name" content="MINDBODY">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:url" content="https://company.mindbodyonline.com/legal/privacy-policy">
+<meta property="og:description" content="At MINDBODY, we respect your privacy and are committed to maintaining your trust. This Privacy Policy describes our policies on the collection, use, and disclosure of information in connection with your use of our products and services">
+<meta property="og:updated_time" content="2019-11-30T23:52:58-08:00">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@mindbodypowered">
+<meta name="twitter:site:id" content="23471129">
+<meta name="twitter:title" content="Privacy Policy">
+<meta name="twitter:url" content="https://company.mindbodyonline.com/legal/privacy-policy">
+<meta name="twitter:description" content="At MINDBODY, we respect your privacy and are committed to maintaining your trust. This Privacy Policy describes our policies on the collection, use, and disclosure of information in connection with">
+<meta property="article:published_time" content="2013-02-25T14:59:40-08:00">
+<meta property="article:modified_time" content="2019-11-30T23:52:58-08:00">
+<meta name="twitter:app:name:iphone" content="MINDBODY">
+<meta name="twitter:app:id:iphone" content="689501356">
+<meta name="twitter:app:name:ipad" content="MINDBODY">
+<meta name="twitter:app:id:ipad" content="689501356">
+<meta name="twitter:app:name:googleplay" content="MINDBODY">
+<meta name="twitter:app:id:googleplay" content="com.mindbodyonline.connect">
+<meta property="al:android:package" content="com.mindbodyonline.connect">
+<meta property="al:android:app_name" content="MINDBODY">
+<meta property="al:ios:app_store_id" content="689501356">
+<meta property="al:ios:app_name" content="MINDBODY">
+<meta property="al:ipad:app_store_id" content="689501356">
+<meta property="al:ipad:app_name" content="MINDBODY">
+<meta property="al:iphone:app_store_id" content="689501356">
+<meta property="al:iphone:app_name" content="MINDBODY">
+  <title>Privacy Policy | MINDBODY</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">
+
+  <!-- Styles -->
+  <link type="text/css" rel="stylesheet" href="https://company.mindbodyonline.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all">
+<link type="text/css" rel="stylesheet" href="https://company.mindbodyonline.com/sites/default/files/css/css_EPsgvacVXxxhwhLr4DGj8P1D4es4L_QnnRJPHn_TJHE.css" media="all">
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+@font-face{font-family:averta;font-style:normal;font-weight:400;src:url(/sites/all/themes/mbo/fonts/averta-normal.woff) format("woff");}@font-face{font-family:averta;font-style:normal;font-weight:600;src:url(/sites/all/themes/mbo/fonts/averta-semibold.woff) format("woff");}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="https://company.mindbodyonline.com/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all">
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:400,300,700" media="all">
+<link type="text/css" rel="stylesheet" href="https://company.mindbodyonline.com/sites/default/files/css/css_Nye6ar2id_Yyp6Ammdet0yVe_x7n3vCeYSrutuhG7HM.css" media="all">
+
+  <!-- Injected Scripts -->
+  
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "name" : "MINDBODY",
+    "alternateName" : "MINDBODY, Inc.",
+    "url" : "https://www.mindbodyonline.com"
+  }
+</script>
+
+  <!-- href lang -->
+<link rel="alternate" hreflang="en" href="https://company.mindbodyonline.com/legal/privacy-policy">
+<link rel="alternate" hreflang="de" href="https://company.mindbodyonline.com/de/legal/datenschutzrichtlinien">
+<link rel="alternate" hreflang="es" href="https://company.mindbodyonline.com/es/legal/politica-de-privacidad">
+<link rel="alternate" hreflang="fr" href="https://company.mindbodyonline.com/fr/legal/politique-confidentialite">
+<!-- END href lang -->
+
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "Organization",
+    "logo": "https://www.mindbodyonline.com/sites/default/files/mindbody-logo-150v2.png",
+    "url": "https://www.mindbodyonline.com",
+    "name" : "MINDBODY",
+    "sameAs" : [
+      "https://www.facebook.com/mindbodypowered",
+      "https://twitter.com/mindbodypowered",
+      "https://www.instagram.com/mindbodypowered/",
+      "https://www.youtube.com/user/MINDBODYonline",
+      "https://www.linkedin.com/company/mindbody",
+      "https://en.wikipedia.org/wiki/Mindbody_Inc.",
+      "https://www.pinterest.com/mindbodypowered/"
+    ],
+    "contactPoint" : [{
+  	"@type" : "ContactPoint",
+      "telephone" : "+1-877-755-4279",
+      "contactType" : "technical support",
+      "contactOption" : "TollFree",
+      "areaServed" : [
+        "US",
+        "CA"
+      ],
+      "availableLanguage" : "English"
+    },{
+      "@type" : "ContactPoint",
+      "telephone" : "+1-877-755-4279",
+      "contactType" : "sales",
+      "contactOption" : "TollFree",
+      "areaServed" : [
+        "US",
+        "CA"
+      ],
+      "availableLanguage" : "English"
+    },{
+      "@type" : "ContactPoint",
+      "telephone" : "+1800-082-989",
+      "contactType" : "technical support",
+      "contactOption" : "TollFree",
+      "areaServed" : "AU",
+      "availableLanguage" : "English"
+    },{
+      "@type" : "ContactPoint",
+      "telephone" : "+1800-082-989",
+      "contactType" : "sales",
+      "contactOption" : "TollFree",
+      "areaServed" : "AU",
+      "availableLanguage" : "English"
+    }]
+  }
+</script>
+
+
+  <script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
+  <script>!function(e){var a="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,a="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="9S4VG-C8PHA-4F9RR-QGLHU-GD8MM",function(){function n(a){e.BOOMR_onload=a&&a.timeStamp||(new Date).getTime()}if(!e.BOOMR||!e.BOOMR.version&&!e.BOOMR.snippetExecuted){e.BOOMR=e.BOOMR||{},e.BOOMR.snippetExecuted=!0;var i,o,r,_=document.createElement("iframe");if(e[t])e[t]("load",n,!1);else if(e.attachEvent)e.attachEvent("onload",n);_.src="javascript:void(0)",_.title="",_.role="presentation",(_.frameElement||_).style.cssText="width:0;height:0;border:0;display:none;",r=document.getElementsByTagName("script")[0],r.parentNode.insertBefore(_,r);try{o=_.contentWindow.document}catch(O){i=document.domain,_.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",o=_.contentWindow.document}o.open()._l=function(){var e=this.createElement("script");if(i)this.domain=i;e.id="boomr-if-as",e.src=a+"9S4VG-C8PHA-4F9RR-QGLHU-GD8MM",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(e)},o.write("<bo"+'dy onload="document._l();">'),o.close()}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var a=""=="true"?1:0,t="",n="z7y6dc3ipnedaxpnkdsa-f-f63a7ec33-clientnsv4-s.akamaihd.net",i={"ak.v":25,"ak.cp":"877148","ak.ai":parseInt("560121",10),"ak.ol":"0","ak.cr":3,"ak.ipv":4,"ak.proto":"","ak.rid":"4269a091","ak.r":35696,"ak.a2":a,"ak.m":"b","ak.n":"essl","ak.bpcip":"207.241.225.0","ak.cport":41290,"ak.gh":"104.123.70.60","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1575833828"};if(""!==t)i["ak.ruds"]=t;var o={i:!1,av:function(a){var t="http.initiator";if(a&&(!a[t]||"spa_hard"===a[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:n,init:function(){if(!o.i){var e=BOOMR.subscribe;e("before_beacon",o.av,null,null),e("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body class="animated fadeIn html not-front not-logged-in no-sidebars page-node page-node- page-node-2504 node-type-page">
+
+  <div class="page">
+    <!-- Begin Tealium Integration -->
+
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    var utag_data = {"analyticsID":"dcsez9ztc00000sdh8ab222yd_7i3n","page_friendly_url":"\/legal\/privacy-policy","page_name":"Privacy Policy","page_type":"corporate","campaignID":"","referralSource":"","customer_primary_market":"","browser_language_code":""};
+    //--><!]]>
+  </script>
+
+  <script type="text/javascript">
+    <!--//--><![CDATA[//><!--
+    (function(a,b,c,d){
+      a='//tags.tiqcdn.com/utag/mindbody/main/prod/utag.js';
+      b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+      a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+    })();
+    //--><!]]>
+  </script>
+
+  
+<!-- End Tealium Integration -->
+    <header class="d8-elements">
+  <div class="ht-a-l of-h wh-100 zi-10">
+    <nav class="bb-s1gl bc-w ctnr-grid ctnr-main d-f d-b-l ps-a ps-r-m py-1 py-2-m py-3-l jc-sb wh-100 zi-10">
+      <div class="d-ib d-n-l logo-wrapper mr-4">
+        <img class="img-mb-header-logo va-b" src="/sites/all/themes/mbo/img/logos/MINDBODY_Logo_H_B2C_GrayRadiance.svg" alt="MINDBODY Inc.">
+      </div>
+      
+      <div class="hamburger dp-n-m">
+        <div class="box">
+          <div class="content">
+          </div>
+        </div>
+      </div>
+      <a href="https://www.mindbodyonline.com" class="back-btn d-n dp-b-m fw-6 pr ft-b ta-r tealium-event-click" data-tealium-details="{'event_name':'top_nav_menu_link_click','event_action':'click','event_detail':'Back to mindbodyonline.com','event_category':'navigation'}"><span class="cl-o hv-bb or"><img class="img-arrow-left" src="/sites/all/themes/mbo/img/d8-elements/icons/global/arrow-left-orange.svg"> Back to mindbodyonline.com</span>
+      </a>
+    </nav>
+
+    <nav class="ctnr-grid ctnr-main-m fd-r ps-r stn-main-nav zi-1 bc-w menu-mobile">
+
+        <section class="ai-c jc-sb pr-0 ht-100vh ht-a-m dp-f-m">
+
+          <div class="d-n d-ib-l logo-wrapper mr-4">
+            <img class="img-mb-header-logo va-b" src="/sites/all/themes/mbo/img/logos/MINDBODY_Logo_H_B2C_GrayRadiance.svg" alt="MINDBODY Inc.">
+          </div>
+
+          <ul aria-label="Main menu" class=" d-ib mx-a-m mr-0-l pt-8 pt-2-m wh-100 w-a-m" role="menubar">
+            <li class="d-ib-m px-1 px-2-m">
+                <a class=" cs-p d-b fw-6 pb-1 pb-2-m pr pt-1 pt-0-m px-1 ft-b" href="/" role="menuitem" title="Learn more about MINDBODY">
+                  About
+                </a>
+            </li>
+            <li class="d-ib-m px-1 px-2-m">
+                <a class=" cs-p d-b fw-6 pb-1 pb-2-m pr pt-1 pt-0-m px-1 ft-b" href="/careers" role="menuitem" title="See open positions">
+                  Careers
+                </a>
+            </li>
+            <li class="d-ib-m px-1 px-2-m">
+                <a class=" cs-p d-b fw-6 pb-1 pb-2-m pr pt-1 pt-0-m px-1 ft-b" href="/press" role="menuitem" title="Read MINDBODY news coverage and press releases">
+                  Press
+                </a>
+            </li>
+            <li class="d-ib-m px-1 px-2-m">
+                <a class=" cs-p d-b fw-6 pb-1 pb-2-m pr pt-1 pt-0-m px-1 ft-b" href="/security" role="menuitem" title="See how MINDBODY keeps your data secure">
+                  Security
+                </a>
+            </li>
+            <li class="d-ib-m px-1 px-2-m">
+                <a class="active cs-p d-b fw-6 pb-1 pb-2-m pr pt-1 pt-0-m px-1 ft-b" href="/legal" role="menuitem" title="View MINDBODY legal terms">
+                  Legal
+                </a>
+            </li>
+            <li class="d-ib-m px-1 px-2-m">
+                <a class=" cs-p d-b fw-6 pb-1 pb-2-m pr pt-1 pt-0-m px-1 ft-b" href="/contact-us" role="menuitem" title="Sales, support, office locations and more">
+                  Contact
+                </a>
+            </li>
+          </ul>
+         <div class="bt-0 ps-a px-1 wh-100 zi-10">
+            <a href="https://www.mindbodyonline.com" class="back-btn bc-w bt-s1gl2 d-b dp-n-m fw-6 pr mx-a pb-6 pt-2 ta-c tealium-event-click" data-tealium-details="{'event_name':'top_nav_menu_link_click','event_action':'click','event_detail':'Back to mindbodyonline.com','event_category':'navigation'}">
+              <span class="cl-o hv-bb or"><img class="img-arrow-left" src="/sites/all/themes/mbo/img/d8-elements/icons/global/arrow-left-orange.svg">
+                Back to mindbodyonline.com</span>
+            </a>
+          </div>
+        </section>
+    </nav>
+    
+
+  </div>
+</header>
+
+<div class="d8-elements">
+<a href="https://www.mindbodyonline.com" class="back-btn d-b dp-n-m fw-6 pr ft-b mx-a ta-c tealium-event-click wh-100 zi-10 bt-0 py-1" data-tealium-details="{'event_name':'top_nav_menu_link_click','event_action':'click','event_detail':'Back to mindbodyonline.com','event_category':'navigation'}">
+  <span class="cl-o hv-bb or"><img class="img-arrow-left" src="/sites/all/themes/mbo/img/d8-elements/icons/global/arrow-left-orange.svg"> Back to mindbodyonline.com</span>
+</a>
+</div>
+<div id="main" role="main">
+  
+
+
+
+<div class="page-main">
+  <div class="page-content">
+                        <div class="region region-content">
+      <div id="block-system-main" class="block block-system clearfix">
+            
+    <div class="content">
+      <div id="node-2504" class="node node-page clearfix" about="/legal/privacy-policy" typeof="foaf:Document">
+
+  
+      <span property="dc:title" content="Privacy Policy" class="rdf-meta element-hidden"></span>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div class="tos">
+        <div class="container"> 
+          <h1 class="h2--style">MINDBODY Privacy Policy</h1>
+          <p><em>Last Updated: December 1, 2019</em></p> <br>
+          <p>At MINDBODY, Inc. and our subsidiaries (“MINDBODY”), we respect your privacy and are committed to maintaining your trust. This privacy policy (“Privacy Policy”) applies to visitors of our sites and users of the MINDBODY Services.</p>
+      
+          <div class="my-3x"><a class="tealium-event-click m-0x" data-tealium-details="{'event_name':'security_badge_click','event_action':'click','event_detail':'truste','event_category':'engagement'}" href="//privacy.truste.com/privacy-seal/validation?rid=410762eb-4f24-4e0b-bc94-86d0d4a8224b" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/seal?rid=410762eb-4f24-4e0b-bc94-86d0d4a8224b" alt="TRUSTe"></a></div>
+      
+          <p>This Privacy Policy describes our practices and your rights in connection with information that we collect, use, or disclose through:</p>
+          <ul class="bullets">
+            <li>our consumer-facing mobile application (“MINDBODY App”),</li>
+            <li>our consumer-facing website (“MINDBODY.io”),</li>
+            <li>our online business management software products (“Software Service”),</li>
+            <li>our social media pages,</li>
+            <li>HTML-formatted email messages that we send to you that link to this Privacy Policy,</li>
+            <li>and any other products and services offered through any other venues, websites and mobile applications that direct you to this Privacy Policy.</li>
+          </ul>
+          <p>Collectively the “MINDBODY Services”.</p>
+          <p>When you access or use the MINDBODY Services, you agree to the terms and conditions of this Privacy Policy and that the information contained in this Privacy Policy serves as notice at or before the point of collection for all information collected as described below.</p>
+           
+          <div class="tos__chapter">
+            <h2 class="tos__header">1. Defined Terms</h2>
+            <div class="tos__chapter-body">
+              <p>The following terms will have the meanings indicated below. Please refer to our <a href="/legal/terms-of-service">Subscriber Terms of Service</a> or the <a href="/legal/consumer-agreement">MINDBODY Consumer Agreement</a> for any capitalized terms that are not defined in this Privacy Policy.</p>
+              <p>“End User” means any individual who interacts with the MINDBODY Services, including users of our mobile applications such as the MINDBODY App, and individuals who book appointments, purchase services and otherwise interact with our Subscribers through the MINDBODY Services.</p>
+              <p>“Other Information” is any information that does not reveal your specific identity or does not relate to an individual, such as usage data not linked to any unique identifiers.</p>
+              <p>“Personal Information” means data that relates to or about an identified or identifiable natural person or, where applicable, household as defined under relevant law.  This may include information such as name, postal address, telephone number, email address, or unique online identifiers. </p>
+              <p>“Subscriber” is any business or entity that subscribes to (or otherwise accesses or uses) our Software Service, including any staff, employees, consultants, advisors, or independent contractors accessing the MINDBODY Services on the Subscriber’s behalf.</p>
+              <p>Sometimes, we use the term “information” in this Privacy Policy, which may refer to either Personal Information or Other Information.</p>
+            </div> <!-- .tos__chapter-body --> 
+          </div> <!-- .tos__chapter -->
+          
+          
+          <div class="tos__chapter">
+            <h2 class="tos__header">2. Categories of Personal Information</h2>
+            <div class="tos__chapter-body">
+              <p>While the Personal Information we collect varies depending upon the nature of the MINDBODY Services provided or used and our interactions with individuals, Personal Information we may collect or obtain includes:</p>
+              <ul class="bullets">
+                <li>Contact details (e.g., name, address, email, telephone number, which may include third party emergency contact information),</li>
+                <li>Personal details (e.g., date of birth, education, nationality),</li>
+                <li>Financial and transaction data (e.g., purchase history, account information, shipping and billing information, including credit card information etc.),</li>
+                <li>Health and fitness tracker data collected from heart rate monitors and other performance monitoring activities, </li>
+                <li>Other MINDBODY Services related data (e.g., customer requests, statistics, etc.),</li>
+                <li>Geolocation data with your permission (e.g. geolocation data sent via a mobile device), </li>
+                <li>Online identifiers (e.g. IP address, Device IDs, etc.), and</li>
+                <li>Cookie-related data as described below and as detailed in our <a href="https://company.mindbodyonline.com/legal/cookies-and-similar-technologies-policy">Cookie Policy</a>.</li>
+              </ul>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+          
+          <div class="tos__chapter">
+            <h2 class="tos__header">3.  How We Collect Information </h2>
+            <div class="tos__chapter-body">
+              <ul class="bullets">
+                <li>Through the MINDBODY Services<br>
+                  <p>We collect information about you whenever you use the MINDBODY Services, for example:</p>
+                  <ul class="bullets">
+                    <li>If you are an End User, when you create an account on the MINDBODY App or through MINDBODY.io, we may ask for Personal Information such as your name, email and postal address, social media account ID, and Other Information you may provide with your account.  </li>
+                    <li>If you are an End User interacting with the MINDBODY Services through a Subscriber, we also collect Personal Information that you provide to the MINDBODY Services when you initiate a transaction or otherwise engage with the Subscriber, such as to book an appointment, make a purchase, or respond to a marketing campaign.</li>
+                    <li>If you are a Subscriber, when you sign up for our Software Service, we ask for your company name, address, phone number, email, credit card information, tax identification number, and other information about your business, as well as names and email addresses of authorized individuals on your account. If you attend one of our events (e.g., a tradeshow, webinar, or training), we may ask for your feedback, contact details or other information to follow-up with you, such as send you marketing communications consistent with your choices.</li>
+                    <li>We collect information about you when you interact with the MINDBODY Services. For example, if you initiate a transaction through the MINDBODY Services, such as a purchase, we may collect information about you, such as your name, email, phone number, address, credit card information, as well as any other information you provide in order to process the transaction. This information may be shared with others for the same purposes. We encrypt credit card numbers using industry standard technology. We may also collect other Personal Information at the request of the Subscriber you are transacting with or through. We may also store information that your computer or mobile device provides to us in connection with your use of the MINDBODY Services, such as IP address, operating system, device ID, and device type.</li>
+                    <li>We may collect information about others from you, including your emergency contacts, and only use this information for the reason it was provided.</li>
+                    <li>We and our service providers collect information about your location when you use or access MINDBODY Services. The degree of precision of the location data varies depending on the source of such information. Those sources include:
+                      <ul class="bullets">
+                        <li>Data from your device through settings you activate:</li>
+                        <li>Other location sources:
+                          <ul class="bullets">
+                            <li>IP address</li>
+                          </ul>
+                        </li>
+                      </ul>
+                      We collect and use this location-related data in order to
+                      <ul class="bullets">
+                        <li>Provide you with services you have purchased or requested</li>
+                        <li>Deliver content that is relevant to you based upon your location</li>
+                        <li>Deliver marketing or ad content that is relevant to you based on your location</li>
+                        <li>Protect against abuse or misuse of services or of your account</li>
+                        <li>Improve our site and services</li>
+                      </ul>
+                      You may disable the collection and use of your location data through your browser-, operating system- or device-level settings. Consent concerning location data may be withdrawn at any time by changing these settings.
+                    </li>
+                  </ul>
+                </li>
+                <li>From other sources
+                  <ul class="bullets">
+                    <li>In addition to the information we collect from you through MINDBODY Services, we may receive information about you from other sources, such as public databases, strategic and joint marketing partners, social media pages and platforms, people with whom you are friends or otherwise connected on social media platforms, as well as from other third parties. For example, if you elect to connect your social media account to your MINDBODY App account, certain information from your social media account may be shared with us, including information that’s part of your profile or your friends’ profiles. We may also collect other Personal Information through the MINDBODY Services under the direction of our Subscribers.</li>
+                  </ul>
+                </li>   
+            </ul>
+              <p>You do not have to provide us with certain of your Personal Information, however, if you do not provide or enable us to collect the necessary information, we may not be able to provide the MINDBODY Service. If you disclose any Personal Information relating to other people to us or to our service providers in connection with the MINDBODY Services, you represent that you have the authority to do so and to permit us to use the information in accordance with this Privacy Policy.</p>
+            </div><!-- .tos__chapter-body --> 
+          </div><!-- .tos__chapter -->
+          
+          
+          <div class="tos__chapter">
+            <h2 class="tos__header">4.  How Personal Information May Be Used</h2>
+            <div class="tos__chapter-body">
+              <p>We may use your Personal Information for legitimate business purposes, including:</p>
+              <ul class="bullets">
+                <li><strong>To provide the functionality of MINDBODY Services and related support.</strong>
+                  <ul class="bullets">
+                    <li>To create, and administer accounts, fulfill and record transactions, and provide you with related assistance (e.g., technical help, answer inquiries relating to Personal Information, etc.).</li>
+                    <li>To send administrative information to you, for example, information regarding our services and changes to our terms, conditions, and policies.</li>
+                  </ul>
+                  <p>We will engage in these activities to manage our contractual relationship with you, with your consent, and/or to comply with a legal obligation.</p>
+                </li>
+                <li><strong>To provide you with marketing and promotional materials and opportunities and facilitate social sharing.</strong>
+                  <ul class="bullets">
+                    <li>To send you marketing communications and offer other materials that we believe may be of interest to you, such as to send you newsletters or other direct communications.</li>
+                    <li>To share information with other marketers (and their service providers) to permit them to send you marketing communications, consistent with your choices.</li>
+                    <li>To allow you to participate in sweepstakes, contests or similar promotions.</li>
+                    <li>To facilitate social sharing functionality if you choose to do so.</li>
+                  </ul>
+                  <p>We will engage in this activity with your consent, to manage our contractual relationship with you, or where we have a legitimate interest. (Note: Health and fitness tracker data that is obtained via third parties will not be used for this purpose).</p>
+                </li>
+                <li><strong>For reporting and trending.</strong>
+                  <ul class="bullets">
+                    <li>To better understand you and our other users, so that we can tune and personalize our offering.</li>
+                    <li>For trending and statistics, and to improve our products and services</li>
+                  </ul>
+                  <p>We will engage in this activity because we have a legitimate interest.</p>
+                </li>            
+                <li><strong>To accomplish our business purposes.</strong>
+                  <ul class="bullets">
+                    <li>For audits, to verify that our internal processes function as intended and are compliant with legal, regulatory or contractual requirements.</li>
+                    <li>For fraud and security monitoring purposes, for example, to detect and prevent cyberattacks or attempts to commit identity theft.</li>
+                    <li>For responding to legal duties, such as requests from public and government authorities.</li>
+                    <li>To defend our legal rights or those of others.</li>
+                  </ul>
+                  <p>We will engage in these activities to comply with a legal obligation or because we have a legitimate interest.</p>
+                </li>           
+              </ul>
+              <p>To the extent that we process your Personal Information based on your consent, you may withdraw your consent at any time.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">5.  What and How Personal Information May Be Disclosed</h2>
+            <div class="tos__chapter-body">
+              <p>Certain privacy laws require that we disclose certain information about the categories of Personal Information (as defined by applicable law) that we have disclosed for a business purpose as well as the categories that we have “sold” as defined under applicable law.  </p>
+              <p><strong>Disclosed for a business purpose.</strong>  In general, we may disclose the following categories of Personal Information (as described above in more detail) to our Partners and Service Providers to provide the MINDBODY services:
+                  </p><ul class="bullets">
+                      <li>Contact details,</li>
+                      <li>Personal details,</li>
+                      <li>Financial and transaction data,</li>
+                      <li>Health and fitness tracker data collected from heart rate monitors and other performance monitoring activities, </li>
+                      <li>Other MINDBODY Services related data,</li>
+                      <li>Geolocation data,</li>
+                      <li>Online identifiers, and</li>
+                      <li>Cookie-related data.</li>
+                  </ul>
+            <p><strong>We do not sell your data.</strong> </p>
+              <p></p>
+              <p>We may disclose your Personal Information:</p>
+              <ul class="bullets">
+                <li>To our affiliates for the purposes described in this Privacy Policy. MINDBODY, Inc. is the party responsible for the management of the jointly-used Personal Information.</li>
+                <li>To our strategic partners and service providers who provide services to us or to our Subscribers, such as website hosting, data analysis, payment processing services, order fulfillment, information technology and related infrastructure provision, customer service, email delivery, credit card processing, auditing and other similar services.</li>
+                <li>To our Subscribers if you are an End User and are using our MINDBODY Services to interact with that Subscriber. Please contact the Subscriber you interact with directly for more information on that Subscriber’s privacy practices.</li>
+                <li>To third parties to permit them (or their own customers) to send you marketing communications, consistent with your choices. </li>
+                <li>To sponsors of sweepstakes, contests and similar promotions, consistent with your choices.</li>
+                <li>To you, through message boards, dashboards, challenges, chat, profile pages and blogs and other services to which you are able to post information and materials, including as described in the sections below titled “Testimonials, Ratings and Reviews” and “Public Forum.”</li>
+                <li>To other website users and as well as to your social media account provider, in connection with your social sharing activity, such as if you connect your Facebook account to your MINDBODY App account or our social media pages.</li>
+                <li>In the context of a corporate transaction. If MINDBODY is involved in a sale or business transaction (e.g., merger or acquisition), MINDBODY will retain a legitimate interest in disclosing or transferring your Personal Information to other parties in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings), including in any negotiations leading to such. Such parties may include, for example, an acquiring or target entity and its advisors.</li>
+              </ul>
+              <p>Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it for all the purposes for which we use and disclose Personal Information. In some instances, we may combine Other Information with Personal Information. If we combine any Other Information with Personal Information, we will treat the combined information as Personal Information.</p>
+            </div><!-- .tos__chapter-body -->  
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">6.  Privacy Rights regarding your Personal Information </h2>
+            <div class="tos__chapter-body">
+            <p>This section provides specific information for California residents, as required under California privacy laws, including the California Consumer Privacy Act (“CCPA”) as well as other jurisdictions and regulations that allow for individual privacy rights such as the European Economic Area, including the United Kingdom, and the General Data Protection Regulation (“GDPR”). </p>
+            <p><strong>Explanation of Individual Rights</strong></p>
+            <p><strong>Right to a Copy/Access or Portability:</strong> You may have the right to request, free of charge, a copy of the specific pieces of Personal Information that we have collected about you in a readily useable format that allows you to transmit this information to another entity without hindrance.</p>
+            <p><strong>Right to Know:</strong> You may have the right to request, free of charge, that we provide certain information about how we have handled your Personal Information, including the categories of Personal Information collected; categories of sources of Personal Information; business and/or commercial purposes for collecting your Personal Information; categories of third parties/with whom we have shared your Personal Information; and whether we sell any categories of Personal Information to third parties (however, we do not sell your Personal Information). </p>
+            <p><strong>Right to Deletion:</strong> You may have the right to request deletion of your Personal Information that we have collected, subject to certain exemptions.  Please note that we may need to retain certain information for recordkeeping purposes and/or to complete any transactions that you began prior to requesting a change or deletion (e.g., when you make a purchase or enter a promotion, you may not be able to change or delete the Personal Information provided until after the completion of such purchase or promotion). We may also retain residual information, such as records to document that your request has been fulfilled.</p>
+            <p><strong>Right to Non-Discrimination:</strong> You may have the right not to receive discriminatory treatment on the basis of exercising your privacy rights under applicable law. </p>
+            <p><strong>Right to Correct/Rectify:</strong> You may have the right to rectify any incorrect Personal Information we may hold about you.</p>
+            <p><strong>Right to Object/Restrict:</strong> You may have the right to object to a specific use of your Personal Information as it is laid out in this Privacy Policy subject to our legitimate business interests.</p>
+            <p><strong>Submitting a Request</strong></p>
+              <p>Where applicable law allows for such a right, if you would like to request to access, correct, object to the use, restrict or delete Personal Information that you have previously provided to us, or if you would like to request to receive an electronic copy of your Personal Information for purposes of transmitting it to another company (to the extent this right to data portability is provided to you by applicable law), you may submit a request through the MINDBODY Services themselves or contact us at <a href="mailto:privacy@mindbodyonline.com">privacy@mindbodyonline.com</a> with a subject line "Data Subject Request". We will respond to your request consistent with applicable law.</p>
+              <p>If you are an End User you may, depending on the MINDBODY Service utilized, be able to access, correct or request deletion of Personal Information that you have previously provided to us through your online customer account. These Data Subject Requests and other rights, including objection, restriction and portability (to the extent this right to data portability is provided to you by applicable law), can also be made directly to the relevant Subscriber.</p>
+              <p>For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. Where applicable law allows for an authorized agent to submit such a request, please contact us at <a href="mailto:privacy@mindbodyonline.com">privacy@mindbodyonline.com</a> with a subject line "Data Subject Request – Agent Request" and someone will be in touch with the agent and the End User to verify the request.  We will try to comply with your request as soon as reasonably practicable. Moreover, where you are an End User, MINDBODY may need to forward your request and refer you to your Subscriber who may be better placed to address your request.</p>
+              <p>If you are under 18 years of age and a user of the MINDBODY Services, you may also be entitled to ask us to remove content or information that you have posted to the MINDBODY Service by submitting a request to <a href="mailto:support@mindbodyonline.com">support@mindbodyonline.com</a>. Please note that your request does not ensure complete or comprehensive removal of the content or information if doing so infringes on the rights of another user.</p>
+              <p>If you are an End User of one of our Subscribers and would no longer like to be contacted by one of our Subscribers, or would like request the exercise of a right as set out above in relation to Personal Information held by a Subscriber, please contact the Subscriber directly.</p>
+            </div><!-- .tos__chapter-body --> 
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">7.  Your choices regarding our use and disclosure of information</h2>
+            <div class="tos__chapter-body">
+              <p>Except for health and fitness tracker data that is obtained via third parties, information we collect may be used by MINDBODY for marketing purposes such as one-off promotional emailing, mobile text messages, direct mail, and sales contacts. We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may:</p>
+              <ul class="bullets">
+                <li><strong>Opt-in or opt-out from receiving electronic communications from us:</strong> If you are a user of the MINDBODY App or MINDBODY.io and no longer want to receive marketing-related emails or mobile text messages from us on a going-forward basis, you may opt-out of receiving these marketing-related emails or mobile text messages by changing your preferences in your account settings or following the unsubscribe prompts from within the messages themselves. If you have provided your information to MINDBODY, and opt-out, MINDBODY will put in place processes to honor your request. This may entail keeping some information for the purpose of remembering that you have opted-out.</li>
+                <li><strong>Consent to sharing of your Personal Information with unaffiliated third parties for their (or their customers’) direct marketing purposes:</strong> We only share your Personal Information with unaffiliated third-parties for their marketing purposes when you have consented to the sharing. We do not share data with unaffiliated third-parties in the absence of your consent and such consent will only be valid for a single data transfer. To address what these unaffiliated third-parties do with your data once you have consented to the sharing, please contact the third-party to learn more about your choices.</li>         
+              </ul>
+              <p>We will try to comply with your request(s) as soon as reasonably practicable. Please also note that if you do opt-out of receiving marketing-related emails from us, we may still send you messages for administrative, transactional or other purposes directly relating to your use of the MINDBODY Services, and you cannot opt-out from receiving those messages.</p>
+              <p>Our mobile applications may also send push notifications to your mobile device, provided you consented to this. If you have previously consented to receiving push notifications and no longer wish to receive them, you can also turn push notifications off at the device level. The applications may also request access to your device’s calendar application, storage, Bluetooth, camera, and microphone. If you have previously allowed access to your device’s calendar and no longer wish to allow access, you may edit the application settings at the device level.</p> 
+            </div><!-- .tos__chapter-body -->
+          </div> <!-- .tos__chapter -->
+         
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">8.  Tracking and Advertising</h2>
+            <div class="tos__chapter-body">
+              <p>We, our service providers and partners may collect Other Information and certain Personal Information in a variety of ways. We and/or our service providers may employ various tracking technologies, such as cookies, web beacons and analytics software, that help us better manage content on the MINDBODY Services by informing us what content is effective. For more information on our use of cookies and similar technologies, including instructions on how to opt-out, please refer to our <a href="/legal/cookies-and-similar-technologies-policy">Cookies Policy</a>.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">9. Social Media Features and Widgets</h2>
+            <div class="tos__chapter-body">
+              <p>The MINDBODY Services includes social media features such as the Facebook Like button, and widgets, such as the Share This button or interactive mini-programs that run on our websites. These features may collect your IP address, which page you are visiting on our websites, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our websites. Your interactions with these features are shared with such third parties and governed by the privacy policy of the company providing it.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">10. Public Forum</h2>
+            <div class="tos__chapter-body">
+              <p>Our websites offer publicly accessible message boards, blogs, and community forums. Please keep in mind that if you disclose Personal Information through MINDBODY public message boards, blogs, or forums, as offered through the MINDBODY Services, this information may be viewed, collected and used by others. To request removal of your Personal Information from our blog or community forum, contact us at <a href="support@mindbodyonline.com">support@mindbodyonline.com</a>. In some cases, we may not be able to remove your Personal Information or some content (if, for example, it is reposted by another user), in which case we will let you know if we are unable to do so and why.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">11. Sign-In Services</h2>
+            <div class="tos__chapter-body">
+              <p>You can log in to some of the MINDBODY Services using sign-in services such as Facebook Connect, Google or an Open ID provider. These services will authenticate your identity and provide you the option to share certain Personal Information with us such as your name and email address to pre-populate our sign-up form. Some services like Facebook Connect give you the option to post information about your activities on our websites to your profile page to share with others within your network. In addition, when using some of our mobile applications we may allow you a chance to tell friends about our services by accessing the contacts in your Facebook or other social media account.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">12. Testimonials, Ratings and Reviews</h2>
+            <div class="tos__chapter-body">
+              <p>If you submit testimonials, ratings or reviews to the MINDBODY Services, any Personal Information you include may be displayed in the MINDBODY Services. If you want your testimonial removed, please contact us at <a href="mailto:support@mindbodyonline.com">support@mindbodyonline.com</a>.</p>
+              <p>We also partner with service providers to collect and display ratings and review content on our web sites.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">13. Payment Processors</h2>
+            <div class="tos__chapter-body">
+              <p>We currently use payment processors as a Third Party Offering for internet-based payment services. If you wish to make a payment through MINDBODY Services, your Personal Information may be collected by such third parties directly and not by us, and will be subject to the third party’s privacy policy. We have no control over, and are not responsible for, third parties’ collection, use and disclosure of your Personal Information.  </p>
+              <p>Where a third-party payment processor is utilized as a sub-processor, we have implemented appropriate onward transfer safeguards over your Personal Information. See <a href="#third_party">Section 23</a> for a list of sub-processors and their applicable privacy policies.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">14. Links To Other Websites</h2>
+            <div class="tos__chapter-body">
+              <p>This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including our Subscribers and any third party operating any Third Party Offering, site or other products and services used in connection with the MINDBODY Services.  The inclusion of a link does not imply endorsement of the linked site or service by us or by our affiliates.</p>
+              <p>Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the MINDBODY Services, including our social media pages.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">15. Data Retention</h2>
+            <div class="tos__chapter-body">
+              <p>We will retain your Personal Information for as long as needed or permitted in light of the purpose(s) for which it was obtained and consistent with applicable law. The criteria used to determine our retention periods include:</p>
+              <ul class="bullets">
+                <li>The length of time we have an ongoing relationship with you and provide the MINDBODY Services to you (for example, for as long as you have an account with us or keep using the MINDBODY Services);</li>
+                <li>Whether there is a legal obligation to which we are subject (for example, certain laws require us to keep records of your transactions for a certain period of time before we can delete them); or</li>
+                <li>Whether retention is advisable in light of our legal position (such as in regard to applicable statutes of limitations, litigation or regulatory investigations).</li>
+              </ul>        
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">16. Security of Your Information</h2>
+            <div class="tos__chapter-body">
+              <p>The security of Personal Information is a high priority at MINDBODY. We seek to use reasonable technical, administrative and physical safeguards designed to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have any questions about the security of your interaction with us please refer to our <a href="/legal/security-policy">Security Policy</a></p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">17. Use of Service By Minors</h2>
+            <div class="tos__chapter-body">
+              <p>The MINDBODY Services are not directed or targeted at children under the age of sixteen (16), and we request that they do not provide Personal Information through the MINDBODY Services.</p>    
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">18. Cross-Border Transfer</h2>
+            <div class="tos__chapter-body">
+              <p>The MINDBODY Services are controlled and operated by us from the United States and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities, including the United States, or in which we engage service providers, and by using the MINDBODY Services you understand that your information will be transferred to countries outside of your country of residence, including the United States, which may have data protection rules that are different from those of your country. In certain circumstances, courts, law enforcement agencies, regulatory agencies or security authorities in those other countries may be entitled to access your Personal Information.</p>
+              <p>Some of the non-European Economic Area (“EEA”) countries are recognized by the European Commission as providing an adequate level of data protection according to EEA standards (the full list of these countries is available at <a href="https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en" rel="noopner">https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en</a>. For transfers from the EEA to countries not considered adequate by the European Commission, we have put in place adequate measures, such as standard contractual clauses with our vendors (based on the clauses published at <a href="http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087" rel="noopner">http://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX%3A32010D0087</a>, a copy of which can be obtained by <a href="#contact">Contacting Us</a>, see below) and/or participation in the E.U.-U.S. Privacy Shield and Swiss-U.S. Privacy Shield to protect your Personal Information in the U.S as further explained below. You can consult our Privacy Shield certification at <a href="https://www.privacyshield.gov/participant?id=a2zt0000000TOHGAA4&amp;status=Active" rel="noopener">https://www.privacyshield.gov/participant?id=a2zt0000000TOHGAA4&amp;status=Active</a>.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+          
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">19. Sensitive Information</h2>
+            <div class="tos__chapter-body">
+              <p>We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g. information related to racial or ethnic origin, political opinions, religion or other beliefs, genetic characteristics, trade union membership or criminal background) on or through the MINDBODY Services or otherwise to us, except where explicitly requested or consented to.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">20. EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield</h2>
+            <div class="tos__chapter-body">
+              <p>MINDBODY and its subsidiaries participate in and has certified compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Economic Area (EEA) member countries, the United Kingdom, and Switzerland, respectively, in reliance on each Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Frameworks, and to view our certification, visit the U.S. Department of Commerce’s Privacy Shield List. <a href="https://www.privacyshield.gov/list" rel="noopener">https://www.privacyshield.gov/list</a>.</p>
+              <p>MINDBODY is responsible for the processing of personal data it receives under each Privacy Shield Framework and subsequently transfers to a third party acting as an agent on its behalf. MINDBODY complies with the Privacy Shield Principles for all onward transfers of personal data from the EEA, the United Kingdom, and Switzerland, including the onward transfer liability provisions.</p>
+              <p>With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, MINDBODY is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+              <p>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" rel="noopener">https://feedback-form.truste.com/watchdog/request</a>.</p>
+              <p>Under certain conditions, more fully described on the Privacy Shield website, you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->      
+      
+          <div class="tos__chapter">
+            <h2 class="tos__header">21. Changes to This Privacy Policy</h2>
+            <div class="tos__chapter-body">
+              <p>MINDBODY may make changes to this Privacy Policy from time to time.  Any changes we make will become effective when we post a modified version of the Privacy Policy to <a href="/legal/privacy-policy">/legal/privacy-policy</a>. If we make any material changes to the Privacy Policy, we may also notify you by posting notice on our websites or within the applicable MINDBODY Services, or by sending you an email. If you continue using the MINDBODY Services after any notice of any such changes, it means you have accepted them. If you do not agree to any changes, you must stop using the MINDBODY Services, as applicable. It is your obligation to ensure that you read, understand and agree to the latest version of The Privacy Policy. The “Last Updated” legend at the top of the Privacy Policy indicates when it was last updated.</p>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->     
+      
+          <div id="contact" class="tos__chapter">
+            <h2 class="tos__header">22. Contact Us</h2>
+            <div class="tos__chapter-body">
+              <p>If you have any questions regarding this Privacy Policy you can contact us via email at <a href="mailto:privacy@mindbodyonline.com">privacy@mindbodyonline.com</a> or via postal mail at:<br>
+                ATTN: MINDBODY Legal - Privacy Policy Issues<br>
+                MINDBODY, Inc.<br>
+                4051 Broad Street Suite 220<br>
+                San Luis Obispo, CA 93401<br>
+              </p>
+              <p>For the EEA, you may also:</p>
+              <ul class="bullets">
+                <li>Contact our Data Protection Officer responsible for your country or region, if applicable at <a href="mailto:privacy@mindbodyonline.com">privacy@mindbodyonline.com</a>.</li>
+                <li>Lodge a complaint with a data protection authority for your country or region or where an alleged infringement of applicable data protection law occurs.  A list of data protection authorities is available at <a href="http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080" rel="noopener">http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080</a>.</li>
+              </ul>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->   
+      
+          <div id="third_party" class="tos__chapter">
+            <h2 class="tos__header">23. Sub-Processors</h2>
+            <div class="tos__chapter-body">
+              <p>The following is a list of current third-party vendors that may either directly or indirectly collect information from you in their capacity as a Sub-Processor. Please review the relevant privacy policies (links current as of the date of publication of this Privacy Policy) for further information on how each third-party handles your Personal Information:</p>
+              <table class="basic-table">
+                <thead>
+                  <tr>
+                    <th>Third Party Name</th>
+                    <th>Privacy Policy/Notice Link</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Sendgrid</td>
+                    <td><a href="https://sendgrid.com/policies/privacy/" rel="noopener">https://sendgrid.com/policies/privacy/</a></td>
+                  </tr>
+                  <tr>
+                    <td>Stripe</td>
+                    <td><a href="https://stripe.com/us/privacy" rel="noopener">https://stripe.com/us/privacy</a></td>
+                  </tr>
+                  <tr>
+                    <td>Twilio</td>
+                    <td><a href="https://www.twilio.com/legal/privacy" rel="noopener">https://www.twilio.com/legal/privacy</a></td>
+                    </tr><tr>
+                            <td>Mailchimp</td>
+                            <td><a href="https://mailchimp.com/legal/privacy" rel="noopener">https://mailchimp.com/legal/privacy</a></td>
+                  </tr>                                      
+                </tbody>
+              </table>
+            </div><!-- .tos__chapter-body -->
+          </div><!-- .tos__chapter -->    
+      
+        </div><!-- .container --> 
+      </div><!-- .tos --></div></div></div>  </div>
+
+  
+  
+</div>
+    </div>
+  </div>
+
+  </div>
+            </div><!-- .page-content -->
+</div><!-- .page-main -->
+
+<footer class="d8-elements mx-8-x">
+  <section class="footer footer-primary ctnr-grid bc-g mx-a SL_swap" id="mbo-d8-footer-links">
+
+    <div class="dp-f fd-c fd-r-l jc-fe mb-5-l mt-3-l mx-6-l mx-8-x">
+
+      <!-- Column 1 -->
+      <section id="stn-company" class="cln-3-l dp-f fd-c">
+        <div class="bb-s1g2 bb-n-l mb--1">
+          <h2 class="cl-gl cl-w fw-6 hd-p js-toggle my-0 pl-2 pl-0-l pr py-1 tt-u">
+            <span class="cl-gl cs-p cs-i-l fs-14">Company</span>
+            <div class="img-chevron-footer bs-cv cs-p dp-ib dp-n-l mb-05 ml-1 va-b"></div>
+          </h2>
+        </div>
+        <div class="bb-s1g2 bb-n-l">
+          <ul class="my-0 pl-2 pl-0-l">
+            <li class="mb-05-l pb-3 pb-0-l pt-2 pt-0-l">
+              <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="/" role="menuitem" title="Learn more about MINDBODY" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'About','event_category':'navigation'}">About
+              </a>
+            </li>
+            <li class="mb-05-l pb-3 pb-0-l">
+              <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="/careers" role="menuitem" title="See open positions" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'Careers','event_category':'navigation'}">Careers
+              </a>
+            </li>
+            <li class="mb-05-l pb-3 pb-0-l">
+              <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="/press" role="menuitem" title="Read MINDBODY news coverage and press releases" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'Press','event_category':'navigation'}">Press
+              </a>
+            </li>
+            <li class="mb-05-l pb-3 pb-0-l">
+              <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="/security" r="" ole="menuitem" title="See how MINDBODY keeps your data secure" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'Security','event_category':'navigation'}">Security
+              </a>
+            </li>
+            <li class="mb-05-l pb-3 pb-0-l">
+              <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="/legal" role="menuitem" title="View MINDBODY legal terms" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'Legal','event_category':'navigation'}">Legal
+              </a>
+            </li>
+            <li class="mb-05-l pb-2 pb-3-xx">
+              <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="/contact-us" role="menuitem" title="Sales, support, office locations and more" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'Contact','event_category':'navigation'}">Contact
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- Column 2 -->
+      <section id="stn-resources" class="cln-5-l l-11-l pr-0 wh-100">
+        <div class="bb-s1g2 bb-n-l">
+          <h2 class="cl-gl cl-w fw-6 hd-p js-toggle mb-1-l my-0 pb-0-l pl-2 pl-0-l pr py-1 tt-u">
+            <span class="cl-gl cs-p cs-i-l fs-14">
+              Additional Resources
+            </span>
+            <div class="img-chevron-footer bs-cv cs-p dp-ib dp-n-l ml-1 va-b"></div>
+          </h2>
+        </div>
+        <div class="bb-s1g2 bb-n-l">
+          <ul class="pl-2 pl-0-l my-0">
+            <li class="mb-05-l pb-3 pb-0-l pt-2 pt-0-l">
+              <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="/research-and-insights" role="menuitem" title="Find opportunities to participate in our research" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'Participate in Research','event_category':'navigation'}">Participate in Research
+              </a>
+            </li>
+            <li class="mb-05-l pb-2 pb-3-xx">
+              <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="https://go.mindbodyonline.com/Manage-Subscription-Request" role="menuitem" target="_blank" title="Manage your email subscriptions" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'Manage Email Subscriptions','event_category':'navigation'}">Manage Email Subscriptions
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <!-- Column 3 -->
+      <div class="cln-4-l l-11-l pr-0 wh-100">
+        <section id="stn-business-accounts" class="pr-0 wh-100">
+          <div class="bb-s1g2 bb-n-l">
+            <h2 class="cl-gl cl-w fw-6 hd-p js-toggle mb-1-l my-0 pb-0-l pl-2 pl-0-l pr py-1 tt-u">
+              <span class="cl-gl cs-p cs-i-l fs-14">
+                Business Accounts
+              </span>
+              <div class="img-chevron-footer bs-cv cs-p dp-ib dp-n-l ml-1 va-b"></div>
+            </h2>
+          </div>
+          <div class="bb-s1g2 bb-n-l">
+            <ul class="pl-2 pl-0-l my-0">
+              <li class="mb-05-l pb-2 pb-0-l pt-2 pt-0-l">
+                <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="https://clients.mindbodyonline.com/launch" role="menuitem" target="_blank" title="Log in to your business software" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'Staff Log In','event_category':'navigation'}">Staff Log In
+                </a>
+              </li>
+            </ul>
+          </div>
+        </section>
+        <section id="stn-booking" class="mt-3-l pr-0 wh-100">
+          <div class="bb-s1g2 bb-n-l">
+            <h2 class="cl-gl cl-w fw-6 hd-p js-toggle mb-1-l my-0 pb-0-l pl-2 pl-0-l pr py-1 tt-u">
+              <span class="cl-gl cs-p cs-i-l fs-14">
+                Book a Class
+              </span>
+              <div class="img-chevron-footer bs-cv cs-p dp-ib dp-n-l ml-1 va-b"></div>
+            </h2>
+          </div>
+          <div class="bb-s1g2 bb-n-l">
+            <ul class="pl-2 pl-0-l my-0">
+              <li class="mb-05-l pb-2 pb-0-l pt-2 pt-0-l">
+                <a class="cl-w fw-6 hv-tdu pr we tealium-event-click" href="https://mindbody.io/login" role="menuitem" title="Sign in to your account" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'Sign In','event_category':'navigation'}">Sign In
+                </a>
+              </li>
+            </ul>
+          </div>
+        </section>
+      </div>
+
+      <!-- Column 4 -->
+      <section class="cln-4-l pl-0 pr-0 wh-11">
+        <h2 class="cl-gl cl-w fw-6 hd-p my-0 pl-2 pl-0-l pr py-1 tt-u">
+            <span class="cl-gl cs-p cs-i-l fs-14">Explore</span>
+        </h2>
+        <div class="ctnr-social dp-f dp-b-l jc-sb pl-2 pl-0-l pt-1">
+          <a class="tealium-event-click" href="https://www.instagram.com/mindbody" rel="nofollow" role="menuitem" target="_blank" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'instagram_icon','event_category':'navigation'}">
+            <span class="icon-16 icon-instagram-white mb-1 mr-3 mr-2-l"></span>
+          </a>
+          <a class="tealium-event-click" href="https://www.facebook.com/mindbodyinc" rel="nofollow" role="menuitem" target="_blank" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'facebook_icon','event_category':'navigation'}">
+            <span class="icon-16 icon-fb-white mb-1 mr-3 mr-2-l"></span>
+          </a>
+          <a class="tealium-event-click" href="https://twitter.com/askmindbody" rel="nofollow" role="menuitem" target="_blank" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'twitter_icon','event_category':'navigation'}">
+            <span class="icon-16 icon-twitter-white img-twitter mb-1 mr-3 mr-2-l"></span>
+          </a>
+          <a class="tealium-event-click" href="https://www.youtube.com/MINDBODY" rel="nofollow" role="menuitem" target="_blank" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'youtube_icon','event_category':'navigation'}">
+            <span class="icon-16 icon-youtube-white mb-1 mr-3 mr-2-l"></span>
+          </a>
+          <a class="tealium-event-click" href="https://www.linkedin.com/company/mindbody/" rel="nofollow" role="menuitem" target="_blank" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'linkedin_icon','event_category':'navigation'}">
+            <span class="icon-16 icon-linkedin-white mb-1 mr-3 mr-2-l"></span>
+          </a>
+          <a class="tealium-event-click" href="https://www.pinterest.com/mindbodyinc" rel="nofollow" role="menuitem" target="_blank" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'pinterest_icon','event_category':'navigation'}">
+            <span class="icon-16 icon-pinterest-white mb-1 mr-2-l"></span>
+          </a>
+        </div><!-- /.cntr-social -->
+
+        <div class="dp-f-xx wh-100">
+          <section class="ml-12-xx mt-3-l pl-2 pl-0-l we">
+            <h2 class="cl-gl cl-gl-l fs-14 hd-p mb-1 mt-3 mt-1-l tt-u">Contact</h2>
+            <div class="cl-w fw-6 mb-05-l p-s mt-0 pr">
+              <div class="mb-05-l">
+                <a class="cl-w d-b fw-6 hv-tdu py-1 py-0-l td-n we tealium-event-click" href="tel:877 755 4279" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'phone_contact','event_category':'navigation'}">
+                  US: (877) 755-4279
+                </a>
+              </div>
+              <div class="mb-05-l">
+                <a class="cl-w d-b fw-6 hv-tdu py-1 py-0-l td-n we tealium-event-click" href="tel:855 852 0418" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'phone_contact','event_category':'navigation'}">
+                  Canada: (855) 852-0418
+                </a>
+              </div>
+              <div class="mb-05-l pb-3">
+                <a class="cl-w d-b fw-6 hv-tdu py-1 py-0-l td-n we tealium-event-click" href="/contact-us#section-global-phone data-tealium-details=" {'event_name':'footer_link_click','event_action':'click','event_detail':'all="" global="" phone="" numbers','event_category':'navigation'}""="">
+                  All global phone numbers
+                </a>
+              </div>
+            </div>
+          </section>
+        </div>
+   
+      </section>
+
+    </div>
+  </section><!-- /.footer-primary -->
+
+  <section class="footer-secondary ctnr-grid footer bc-gl2" role="contentinfo">
+    <div class="ctnr-main dp-f-x pb-3 pt-2 pt-4-l">
+      <section class="cln-6-l pb-1">
+        <a href="/legal/privacy-policy" class="dp-b dp-ib-m pr-sm tealium-event-click" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'privacy_policy','event_category':'navigation'}">
+          <span class="hv-tdu">
+            Privacy Policy and Your Privacy Rights
+          </span>
+        </a>
+        <span class="br-1sg2 dp-n dp-ib-m mx-1"> </span>
+        <a href="/legal/terms-of-service" class="dp-b dp-ib-m pr-sm tealium-event-click" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'terms_of_service','event_category':'navigation'}">
+          <span class="hv-tdu">
+            Terms of Service
+          </span>
+        </a>
+        <span class="br-1sg2 dp-n dp-ib-m mx-1"></span>
+        <a href="/site-map" class="dp-b dp-ib-m pr-sm tealium-event-click" data-tealium-details="{'event_name':'footer_link_click','event_action':'click','event_detail':'sitemap','event_category':'navigation'}">
+          <span class="hv-tdu">
+            Sitemap
+          </span>
+        </a>
+        <p class="pr-tn my-0 pt-2 pt-0-m">
+          Copyright © 2019 MINDBODY, Inc.
+        </p>
+      </section>
+
+      <section class="cln-6-l ta-r-x">
+        <p class="mb-0 mt-1 pr-tn">
+          MINDBODY Processing is a registered ISO/Agent of Wells Fargo Bank, N.A., Concord, CA<span class="dp-n-m">.</span>
+          <span class="dp-b-m"></span>
+          MINDBODY Processing is a registered ISO/Agent of Elavon, Inc. Georgia
+        </p>
+      </section>
+    </div>
+  </section>
+</footer></div>      </div>
+
+  
+  <!-- Rest of the scripts -->
+  <script type="text/javascript" src="/sites/all/themes/mbo/js/vendor/jquery.min.js"></script>
+  <script src="//js.maxmind.com/js/apis/geoip2/v2.1/geoip2.js" type="text/javascript"></script>
+  <script type="text/javascript" src="https://company.mindbodyonline.com/sites/default/files/js/js_dYOGV15VEcvR5zyP3UKzyEH3a6wcYkaWkQCEZ8Wpd8c.js"></script>
+<script type="text/javascript" src="https://company.mindbodyonline.com/sites/default/files/js/js_ttT_aquxJsS4WtXxYqSFHV-cweu_WMaowpM7OvcDFPg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"mbo","theme_token":"lq3bXL3RjX8gpQgI-HABHpwDyIwaecA3xPaWJx-uHSw","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/themes\/mbo\/js\/vendor\/jquery.min.js":1,"sites\/all\/themes\/mbo\/js\/vendor\/jquery.loadTemplate.min.js":1,"sites\/all\/themes\/mbo\/js\/vendor\/sprout_player_api.js":1,"sites\/all\/themes\/mbo\/js\/main.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"0":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"\/\/fonts.googleapis.com\/css?family=Lato:400,300,700":1,"sites\/all\/themes\/mbo\/src\/bower_components\/chosen\/chosen.min.css":1,"sites\/all\/themes\/mbo\/dist\/css\/styles-sections.css":1}}});
+//--><!]]>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2b9dc5e3d9","applicationID":"369837091","transactionName":"bwABY0pTD0YEBU1QX1ZKNkVRHU5cCwJcQR5IDRM=","queueTime":0,"applicationTime":16,"atts":"Q0cWFQJJHBlHBxsDS0UY","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
