@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the steamidfinder.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502071821id_/https%3A//steamidfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamidfinder.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208170923id_/http%3A//steamidfinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SteamProfile.com
 
 ## Privacy policy
+
+We use third party advertisements to support our site. Some of these advertisers may be served from our third party advertiser. You can view their [privacy policy](https://www.network-n.com/network-privacy-policy/) and [cookie policy](https://www.network-n.com/network-cookie-policy/) here. You can manage your cookies here.
+
+We use Google Analytics and Comscore to analyse the use of our website. Google Analytics and Comscore gather information about website use by means of cookies. The information gathered relating to our website is used to create reports about the use of our website. Google's privacy policy is available at: [www.google.com/policies/privacy](https://www.google.com/policies/privacy). Comscore’s privacy policy is available at [www.comscore.com/About-comScore/Privacy-Policy](https://www.comscore.com/About-comScore/Privacy-Policy).
 
 1\. Introduction
 
