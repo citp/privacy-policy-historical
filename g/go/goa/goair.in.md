@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goair.in privacy policy that was archived on 2019-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190430131712id_/https%3A//www.goair.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goair.in privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208025236id_/https%3A//www.goair.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GoAir
 
