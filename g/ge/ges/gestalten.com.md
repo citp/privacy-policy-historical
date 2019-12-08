@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gestalten.com privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321194859id_/https%3A//gestalten.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gestalten.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208063139id_/https%3A//gestalten.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - gestalten
 
