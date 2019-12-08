@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transnet.net privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617113732id_/http%3A//www.transnet.net/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transnet.net privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208232200id_/http%3A//www.transnet.net/Pages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Transnet Transnet SOC Limited HR Privacy Statement
 
