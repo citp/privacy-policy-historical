@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the texasrealestate.com privacy policy that was archived on 2019-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190103093717id_/https%3A//www.texasrealestate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasrealestate.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208080659id_/https%3A//www.texasrealestate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Texas REALTORS®
 
-The Texas REALTORS® (“we”, “us”, “our”) is committed to protecting your privacy. This privacy policy informs you of the personal information that we collect, disclose, or use through (i) websites, products, services and software that we operate and in which we post a direct link to this privacy policy (collectively, our “ **Services** ”); and (ii) business interactions in person or by phone, email, or mail.
+Texas REALTORS® (“we”, “us”, “our”) is committed to protecting your privacy. This privacy policy informs you of the personal information that we collect, disclose, or use through (i) websites, products, services and software that we operate and in which we post a direct link to this privacy policy (collectively, our “ **Services** ”); and (ii) business interactions in person or by phone, email, or mail.
 
-Please read the privacy policy below and if you have any questions, contact us at [privacy@texasrealtors.com](mailto:privacy@texasrealtors.com) or by mail addressed to the Texas REALTORS®, Attn: General Counsel, 1115 San Jacinto Blvd., Suite 200, Austin, TX, 78701. From time to time, we may change this privacy policy. You should check our website regularly to see any recent changes we may have made.
+Please read the privacy policy below and if you have any questions, contact us at [privacy@texasrealtors.com](mailto:privacy@texasrealtors.com) or by mail addressed to Texas REALTORS®, Attn: General Counsel, 1115 San Jacinto Blvd., Suite 200, Austin, TX, 78701. From time to time, we may change this privacy policy. You should check our website regularly to see any recent changes we may have made.
 
-Please note that our Services may contain links that may take you to sites operated by a third party other than the Texas REALTORS®. If you click on one of these links, you understand that this policy no longer applies. We have no control over third-party sites or their operation.
+Please note that our Services may contain links that may take you to sites operated by a third party other than Texas REALTORS®. If you click on one of these links, you understand that this policy no longer applies. We have no control over third-party sites or their operation.
 
 **By accessing or using our Services or otherwise actively providing us with your personal information, you agree that we may collect, use and process your personal information as outlined in this privacy policy and as permitted by applicable laws. If you do not agree to the terms of this privacy policy, please do not use our Services or provide us with any personal information.**
 
@@ -93,7 +93,7 @@ Our staff has access to your personal information for the purposes outlined in t
   * We may employ companies and individuals to perform functions on our behalf, such as to send email, analyze data, provide marketing assistance, tailor communications, process credit or debit card payments, and provide customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
   * We may partner with companies and individuals to provide benefits or discounts to our members. They have access to personal information needed to identify and/or market the services to our members, but may not use it for other purposes.
   * We may provide personal information about attendees of our annual conference or winter meeting to major sponsors of the event(s) and to certain hotels as necessary.
-  * We disclose personal information when we believe it is appropriate to comply with the law or to cooperate with law enforcement; to comply with or enforce our agreements; or to protect the rights, property, or safety of the Texas REALTORS®, our members, or others. This may include, but is not limited to, sharing personal information of our members with the National Association of REALTORS®, the Texas Ethics Commission, the Federal Election Commission, and our banking institutions, as necessary.
+  * We disclose personal information when we believe it is appropriate to comply with the law or to cooperate with law enforcement; to comply with or enforce our agreements; or to protect the rights, property, or safety of Texas REALTORS®, our members, or others. This may include, but is not limited to, sharing personal information of our members with the National Association of REALTORS®, the Texas Ethics Commission, the Federal Election Commission, and our banking institutions, as necessary.
 
 
 
@@ -119,7 +119,7 @@ Otherwise, to access, change, or delete other personal information or exercise o
 
 ­­­­­­­­ _This following applies to individuals protected by the European Union’s General Data Protection Regulation (“GDPR”) who access our Services or otherwise provide us with personal information._
 
-The Texas REALTORS®, Inc. is the controller of the personal information you provide to us and such information is housed on servers in the United States.
+The Texas Association of REALTORS®, Inc. is the controller of the personal information you provide to us and such information is housed on servers in the United States.
 
 **What Are Our Legal Bases for Processing Personal Information?**
 
@@ -147,4 +147,4 @@ Under the GDPR, you may have the following rights:
 
 To exercise your rights, please contact us at [privacy@texasrealtors.com](mailto:privacy@texasrealtors.com).
 
-Last updated August 24, 2018
+Last updated January 8, 2019
