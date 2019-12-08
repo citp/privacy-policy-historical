@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcallforwarding.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403223800id_/https%3A//www.globalcallforwarding.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcallforwarding.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208220257id_/https%3A//www.globalcallforwarding.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at Global Call Forwarding Services and Features
 
