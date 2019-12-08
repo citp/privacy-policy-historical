@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resco.net privacy policy that was archived on 2019-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190523052605id_/https%3A//www.resco.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resco.net privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208202040id_/https%3A//www.resco.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Resco Mobile CRM
 
@@ -31,3 +31,5 @@ Should you have additional questions, feel free to contact us at [mobilecrm@resc
 ## Consent
 
 By downloading and using Resco Mobile CRM, you agree with the above mentioned Privacy Policy. The Privacy Policy is a subject to change. All amendments will be published here.
+
+## [Right to Withdraw Consent](https://site.adform.com/privacy-center/platform-privacy/opt-out/)
