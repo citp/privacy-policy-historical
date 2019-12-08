@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moosejaw.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414014123id_/https%3A//www.moosejaw.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moosejaw.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208045908id_/https%3A//www.moosejaw.com/content/privacy) for the most accurate reproduction.*
 
 # Moosejaw Privacy Policy at Moosejaw.com
 
-Amended: December 2018
+Amended: October 2019
 
 New Moosejaw, LLC ("Moosejaw") is committed to protecting online user privacy because we love you. In order to help ensure your privacy, information Moosejaw collects through the Moosejaw website at www.moosejaw.com ("Site") is used and disclosed only in the manners and for the purposes described in this Moosejaw.com Privacy Policy ("Privacy Policy"). Moosejaw is a part of the Walmart family of companies.
 
@@ -54,6 +54,9 @@ We only share your Information with reputable companies who provide products or 
 **California Privacy Rights**  
 Our California customers have a legal right to inquire about the categories of personal information we share with third parties for their marketing purposes. We share personal information with our corporate affiliates, including Walmart and Jet. California customers may send those inquiries to us by email at [privacy@moosejaw.com ](mailto:privacy@moosejaw.com)to learn the categories of personal information that we may have shared during the prior calendar year.
 
+**Nevada Privacy Rights**  
+If you are a Nevada resident, you can make a request to Moosejaw to stop the current or future sale of certain types of personal information. To initiate, please contact us at [Nevada.Privacy@Moosejaw.com](mailto:nevada.privacy@moosejaw.com) and provide the following information: First name, last name, email and address.
+
 **Linked Internet Websites**  
 The Site may provide links to a third party website not controlled by Moosejaw. These hyperlinked third party websites may collect and disclose Information different than this Site. Moosejaw is not responsible for the collection, use, or disclosure of information collected through other websites, and Moosejaw expressly disclaims any and all liability related to such collection, use, or disclosure..
 
@@ -69,6 +72,32 @@ Because we love you, this Site has security measures designed to protect against
 
 **Applicable Law/International Issues**  
 We may transfer Information to any jurisdiction where we do business. Even if those jurisdictions do not have the same privacy laws as the jurisdiction where you reside, we will treat Information as subject to the protections described in this Privacy Policy. By providing us with your Information, you acknowledge that you have read this Privacy Policy, understand it, agree to its terms and consent to the transfer of such Information outside your resident jurisdiction. If you do not consent to the terms of this Policy, please do not use this Site. If you have any questions or concerns, please contact us at [privacy@moosejaw.com.](mailto:privacy@moosejaw.com)
+
+**Moosejaw Rewards**  
+_Opting-in to Moosejaw Rewards:_  
+All users must accept these terms and conditions and create an account with Moosejaw to opt-in to the program and earn, accrue and redeem Moosejaw Reward Dollars (MJ$). The program is FREE to join and membership is ongoing until or unless the user requests to be removed or is removed due to abuse of the program. Users can opt-in to the program while checking out on Moosejaw.com or at one of our stores or at any time within 30 days of purchase to accrue the MJ$ earned on that purchase. Once opted-in to the program, all future MJ$ will earn and accrue for redemption as described below until the MJ$ expire or the user leaves the program. 
+
+All information collected and used to facilitate the Moosejaw Rewards program is directly related to the program's ability to provide value to the customer. A customer opting-in to the Moosejaw Rewards program is a separate action from establishing a user profile as a result of making a purchase. 
+
+The program opt-in requirement was added on August 6th, 2019. Existing program members prior to that date must still formally opt-in and accept the terms and conditions to continue to retain, earn and redeem MJ$. Pre-existing program members that fail to opt-in prior to June 28, 2020 will be removed from the program, and any unused MJ$ will be voided. We really, really don't want to that to happen, so please opt-in or we'll feel terrible. 
+
+_Earning MJ$:_  
+All items we sell are eligible with the exception of gift cards or other items specifically noted. Full-priced items earn 10% back while discounted items earn 2.5%. "Discounted items" includes items on sale or discounted via coupon code or use of MJ$. You do not earn MJ$ for shipping or tax charges, only from the item value. MJ$ expire two years after earning and are redeemed on a first-in, first out basis (in other words, we always use your oldest MJ$ that are closest to expiration). 
+
+_Checking & Redeeming MJ$:_  
+On Moosejaw.com, just sign-in on any page to see your available balance. Once signed in, you will see your available MJ$ and maximum that can be redeemed in the payment section of the checkout process. In stores, provide the email address attached to your account to learn your balance and apply to your purchase. We will also send you a monthly email that details your balance and other account activity. This is a transactional email that you will receive even if you are not subscribed to our marketing emails. 
+
+_Bonus Rewards Promotions:_  
+Every so often, we'll have special offers where you can earn bonus MJ$, like an additional 10%, 20% or 40% back. So if we are running a 50% back special offer, and you buy a regular-priced item for $100.00, you will receive MJ$10.00 in base points, and a bonus of MJ$40. These special offers may have a cap on how many bonus MJ$ you earn during the promotion, but you will always earn the base Reward Dollars. Make sure to check us out on our social channels for other ways to win some extra MJ$! 
+
+_MJ$ on Gift Cards:_  
+You don't get earn MJ$ when you buy a gift card, but you do get MJ$ when you spend a gift card. Sorry gift givers. You're welcome gift receivers. 
+
+_Product Returns and MJ$:_  
+If you return an item, we deduct the MJ$ earned on that item from your balance. If you used the MJ$ and your balance is less than deduction, then your refund is reduced by the difference. 
+
+_Program Abuse:_  
+The intent of the program is to provide our loyal customers with a way to buy great gear for less. Moosejaw reserves the right to remove any user from the program and zero out their MJ$ balance if Moosejaw determines that the user is abusing the program by buying for resale, attempting to game the program or any other reason at Moosejaw's sole discretion.
 
 **Amendments to Privacy Policy**  
 Moosejaw reserves the right to amend this Privacy Policy periodically. We will post the date this Privacy Policy was last updated. You should check the Site periodically to review the most recent Privacy Policy.
