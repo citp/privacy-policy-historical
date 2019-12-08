@@ -1,99 +1,118 @@
-> *The following text is extracted and transformed from the bright.com privacy policy that was archived on 2016-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160523005253id_/http%3A//www.linkedin.com/legal/privacy-policy%3Ftrk%3Dhb_ft_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bright.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208070623id_/https%3A//bright.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | LinkedIn
+# Bright Event Rentals - Privacy Policy
 
-##  2\. How we use your personal information 
+Privacy Policy
 
-You agree that information you provide on your profile can be seen by others and used by us as described in this Privacy Policy and our User Agreement.
+Effective as of April 18, 2019.
 
-The personal information that you provide to us may reveal or allow others to identify aspects of your life that are not expressly stated on your profile (for example, your picture or your name may reveal your gender). By providing personal information to us when you create or update your account and profile, **you are expressly and voluntarily accepting the terms and conditions of our User Agreement and freely accepting and agreeing to our processing of your personal information in ways set out by this Privacy Policy.** Supplying to us any information deemed “sensitive” by applicable law is entirely voluntary on your part. **You can withdraw or modify your consent to our collection and processing of the information you provide at any time, in accordance with the terms of this Privacy Policy and the User Agreement, by changing your account settings or your profile on[LinkedIn](https://web.archive.org/settings/) or SlideShare, or by closing your [LinkedIn](https://web.archive.org/psettings/account-management/close-action-needed), [SlideShare](https://linkedin.com/help/linkedin/answer/53671?lang=en) and [Pulse](https://linkedin.com/help/linkedin/answer/49959?lang=en) accounts.**
+Bright Event Rentals (“Bright”) understands that privacy of information is of utmost importance to our employees, customers, suppliers, business partners and website users.  This Privacy Policy spells out Bright’s commitment to respecting the privacy of our clients and visitors to our site.  We reserve the right to change this policy at any time, which we'll do as described in Notification of Privacy Statement Changes, below. 
 
-We communicate with you using LinkedIn messaging, email, and other ways available to us. We may send you messages relating to the availability of the Services, security, or other service-related issues. We also may send promotional InMail messages to your LinkedIn inbox. You can change your email settings at any time.
+This Privacy Policy describes how Bright collects and uses the personal information you provide to us on our website www.bright.com .  It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-We communicate with you through email, notices posted on the LinkedIn websites or apps, messages to your LinkedIn inbox, and other means available through the Services, including mobile text messages and push notifications. Examples of these communications include: (1) welcome and engagement communications - informing you about how to best use our Services, new features, updates about other Members you are connected to and their actions, etc.; (2) service communications - these will cover service availability, security, and other issues about the functioning of our Services; (3) promotional communications - these include both email and InMail messages (InMail messages are only delivered to your LinkedIn InBox), and may contain promotional information directly or on behalf of our partners, including job opportunities and information from companies that are hiring. These messages will be sent to you based on your profile information and messaging preferences. We track the open rate of your InMails to provide your InMail acceptance score. You may change your email and contact preferences at any time by signing into your account and changing your [LinkedIn](https://web.archive.org/settings/?tab=email) or [SlideShare](https://linkedin.com/help/linkedin/answer/53692?lang=en) email settings. You can also opt out of promotional messages by sending a request to LinkedIn [Help Center](https://linkedin.com/help/linkedin?lang=en).
+Collection and Use of Personal Information
 
-Please be aware that you cannot opt out of receiving service messages from us.
+We collect personal information from you to provide an efficient, meaningful and customized experience for you on Bright’s website.
 
-With certain communications you send on our Services, the recipient can see your name, email address, and some network information.
+We collect the following personal information from you:
 
-Many communications that you initiate through our Services (for example, an invitation sent to a non-Member) will list your name and primary email address in the header of the message. Messages you initiate may also provide the recipient with aggregate information about your network (for example, how many people are in your network). Other communications that you initiate through the Services, like a request for an introduction, will list your name as the initiator but will not include your personal email address contact information. Once you have connected with an individual, regardless of who sent the invitation, your contact information will be shared with that individual.
+Contact Information such as name, email address, mailing address and phone number  
+Billing Information such as credit card number and billing address  
+Unique Identifiers such as user name, account number and password  
+Preferences Information such as product wish lists, order history and marketing preferences  
+ 
 
-We use automatic scanning technology to help protect you and other Members. Such technology checks links and other content in your InMails, network updates and Group contributions to help us identify and block malicious links and malware, reduce spam and optimize the delivery of our Services.
+As is true of most websites, we automatically gather information about your computer such as your IP address, time and date of visit, browser type, referring/exit pages and operating system. We may log this information for system administration, order verification, internal marketing and system troubleshooting purposes.  
 
-We use the information and content you provide to us to conduct research and development and to customize your experience and try to make it relevant and useful to you.
+We use this information to:  
 
-We use information and content that you and other Members provide to us to conduct [research](http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fengineering%2Elinkedin%2Ecom%2Fab-testing%2Fxlnt-platform-driving-ab-testing-linkedin&urlhash=0Cup) and development for the improvement of our Services in order to provide you and other Members and Visitors with a better, more intuitive experience and drive membership growth and engagement on our Services and to help connect professionals to economic opportunity.
+Fulfill your order  
+Send you an order confirmation  
+Assess the needs of your business to determine suitable products  
+Send you requested product or service information  
+Respond to customer service requests  
+Administer your account  
+Send you marketing communications  
+Respond to your questions and concerns  
+Improve our website and marketing efforts  
+Conduct research and analysis  
+Display content based upon your interests  
+To review and update your personal information to ensure it is accurate, contact us at:
 
-We also customize your experience and the experiences of others on our Services. For example, when you sign in to your account, we may display the names and photos of new Members who have recently joined your network or recent updates from your connections and companies you follow. We try to show you content, such as news and presentations, that is relevant to you, your industry, or your profession. We also use Members information and content for invitations and communications promoting our Services that are tailored to the recipient.
+Bright Event Rentals  
+1640 West 190th Street, Los Angeles, Ca 90501  
+Email: info@bright.com  
+Phone: 310.202.1100
 
-We share your information across our different Services, among companies in the LinkedIn family. 
+Location Information
 
-We may share your personal information with our affiliates (meaning entities controlled by, controlling or under common control with LinkedIn) outside of the LinkedIn entity that is your data controller (for example, LinkedIn Corporation may share your information with LinkedIn Ireland, or other LinkedIn operating entities) as reasonably necessary to provide the Services. You are consenting to this sharing.
+If you have enabled location services on your mobile device, we collect your location information to provide the retail locator function. If you do not want this information collected by us, you can disable location services on your mobile device.
 
-We combine information internally across different Services. For example, SlideShare may recommend better content to you based on your LinkedIn content preferences and the articles you read on Pulse, and LinkedIn could present you a better tailored network update stream based on your SlideShare activity, whether or not you tied your SlideShare, Pulse and/or LinkedIn accounts (e.g. by signing in SlideShare or Pulse with your LinkedIn account), as we may be able to identify you across different Services using cookies or similar technologies.
+Information Sharing
 
-Any information you put on your profile and any content you post on LinkedIn may be seen by others.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties, and we do not authorize the collection of our members' or visitors' personally identifiable information by any third parties for the third parties' use.
 
-We don’t provide any of your non-public information (like your email address) to third parties without your consent, unless required by law, or as described in Sections 2.6 and 2.14 of this Policy.
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
-Other people may find your LinkedIn profile information through search engines (you can choose which parts of your public profile are accessible to public search engines in your settings), or use services like Twitter in conjunction with your LinkedIn account.
+We may also disclose your personal information:
 
-We offer a “public profile” feature that allows you as a Member to publish portions of your professional profile to the public Internet. This public profile will be indexed and displayed through public search engines when someone searches for your name. You may choose the parts of your profile that search engines index or completely opt out of this feature in your LinkedIn account [settings](https://web.archive.org/profile/public-profile-settings), or limit the publicly visible information in your SlideShare profile. However, third-party search engines may not automatically update their caches, which may contain old public profile information. Unless you delete them, your profiles on LinkedIn.com and our corresponding app or on SlideShare.net are always viewable on the respective Services.
+As required by law such as to comply with a subpoena or similar legal process  
+When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or respond to a government request  
+If Bright engages in a joint promotion with an affiliate and/or partner, we may share your contact information with our affiliate and/or partner to be used in relation to the promotion.
 
-The visibility of your professional profile to other Members depends on your degree of connection with the viewing Member, the subscriptions they may have, their [usage of the Services](https://linkedin.com/help/linkedin/answer/52950?lang=en), access channels and search types (e.g. by name or by keyword). For example, first degree connections can see your full profile and contact information. Others have more limited access, as detailed in our [Help Center](https://linkedin.com/help/linkedin/answer/77?lang=en). Please note that recruiters and other such professional subscribers can see your full profile even if you did not approve their InMail.
+We may share non-personal information (such as the number of daily visitors to a particular web page or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
 
-We do not rent or sell personal information that you have not posted on our Services, except as described in this Privacy Policy. We will not disclose personal information that is not published to your profile or generated through engagement with our other services, such as Groups and Company Pages, except to carry out your instructions (for example, to process payment information) or unless we have your separate consent, unless we have a good faith belief that disclosure is permitted by law or is reasonably necessary to: (1) comply with a legal requirement or process, including, but not limited to, civil and criminal subpoenas, court orders or other compulsory disclosures; (2) enforce this Privacy Policy or our User Agreement; (3) respond to claims of a violation of the rights of third parties; (4) respond to Member service inquiries; or (5) protect the rights, property, or safety of LinkedIn, our Services, our Members, Visitors, or the public. See Section 2.14 for additional details about our compliance with legal requests for information.
+If Bright is involved in a merger, acquisition or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
-We support middleware providers that offer archiving solutions to firms subject to legal and regulatory archiving requirements, which, with your permission, facilitate the archiving of your communications and other activity by a third party for compliance purposes. Content distributed through our sharing features and third-party integrations may result in displaying some of your personal information outside of our Services. For example, when you post content to a Group that is open for public discussion, your content, including your name as the contributor, may be displayed in search engine results.
+The Site may enable you to post content to social media (e.g., Facebook or Twitter). If you choose to do this, we will provide information to such social sites in accordance with your elections. You acknowledge and agree that you are solely responsible for your use of those websites and that it is your responsibility to review the terms of use and privacy policy of the third party provider of such social sites. 
 
-Also, if you have opted to bind any of your Service accounts to your Twitter, Facebook or other similar account, you can easily share content from our Services to these third party services, in accordance with your account settings (which you may change at any time) and respective policies of these third parties. Further, we allow third parties to look-up profile information (subject to your privacy settings) using your email address or first and last name information through its profile API (see Section 2.7. below).
+Third Party Websites
 
-Third parties (for example, your email provider) may give you the option to upload certain information in your contacts stored with us onto their own service. If you choose to share your contacts in this way, you will be granting your third party provider the right to store, access, disclose and use these contacts in the ways described in such third party's terms and privacy policy.
+Our Site may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site and go to another site, and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of your personal information after you click on links to such outside websites. We encourage you to read the privacy policies of every website you visit. The links to third party websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content or websites.
 
-We work with developers to build Platform Applications using our developer tools. Whether you use Platform Applications is up to you.
+Choice/Opt-Out
 
-If you have given a Platform Application access to your LinkedIn account, you can revoke that permission anytime. Also, you can opt out of providing information to developers through your connections.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, updating your communications preferences in your membership account on our website or contacting us at:
 
-We collaborate with and allow third parties to use our developer platform to offer services and functionality in conjunction with our Services. These third-party developers have either negotiated an agreement to use our platform technology or have agreed to our self-service API and Plugin terms in order to build applications (“Platform Applications”). Both the negotiated agreements and our API and Plugin terms contain restrictions on how third parties may access, store, and use the personal information you provide to us.
+  
+Email: info@bright.com
 
-If you choose to use a Platform Application, you will be asked to confirm acceptance of the privacy policy and user agreement of the third-party developer. To revoke permission granted to a Platform Application, please visit your [settings](https://web.archive.org/settings/). Note, however, that even if you revoke the permission granted to a Platform Application, your connections may still be using the Platform Application, so the Platform Application may still have access to certain information about you, just as your connections do. You may opt out of providing information to third-party developers through your connections by accessing the “[Turn on/off data sharing with third-party applications](https://web.archive.org/settings/?tab=groups&modal=nsettings-data-sharing)” control in the “Groups, Companies, and Applications” tab under [settings](https://web.archive.org/settings/?tab=groups).
+You may change any of your personal information in your account by editing your profile within your account or by sending an email to us at the email address set forth above. You may request deletion of your personal information by us, and we will use commercially reasonable efforts to honor your request, but please note that we may be required to keep such information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may also retain your information for fraud or similar purposes.
 
-We conduct our own surveys and polls and also help third parties do this type of research. Your participation in surveys or polls is up to you. You may also opt out of getting invitations to participate in surveys.
+Cookies and Other Tracking Technologies
 
-Polls and Surveys may be conducted by us, Members, or third parties. Some third parties may target advertisements to you on the results page based on your answers in the poll. We or third parties may follow up with you via InMail regarding your participation unless you have opted out of receiving InMail messages. We may use third parties to deliver incentives to you to participate in surveys or polls. If the delivery of incentives requires your contact information, you may be asked to provide personal information to the third party fulfilling the incentive offer, which will be used only for the purpose of delivering incentives and verifying your contact information. It is up to you whether you provide this information, or whether you desire to take advantage of an incentive. Your consent to use any personal information for the purposes set forth in the poll or survey will be explicitly requested by the party conducting it. We are a member of the Council of American Survey Research Organizations (“CASRO”) and abides by CASRO guidelines for market research. You may opt out of participating in surveys by changing your [settings](https://web.archive.org/settings/?tab=email&modal=nsettings-research-invitations) to stop receiving these inquiries and requests.
+Cookies are small text files of information stored by the Internet browser on your computer's hard drive. For example, we may use cookies to collect browsing data to keep track of your preferences and profile information and to collect general usage and volume statistical information. Our cookies do not collect personal or confidential information and are not spyware. 
 
-Our Services help you search for other professionals, companies, groups, professional content, and jobs.
+You may set your Internet web browser to refuse cookies or to remove cookies from your hard drive.
 
-You can search for Members, employment opportunities, information about companies, and community content from Groups on our Services. For example, you can find Members with particular expertise or experience, or Members that you may know from your industry or profession. You can also find employment opportunities and information about companies. You can also find content from Groups, SlideShare and Pulse. We use personal information from our Services, including Member profiles, Groups content, and Company Pages, to inform and refine our search service.
+Targeted Advertising
 
-You are responsible for any information you post on our Services, and this content will be accessible to others.
+Targeted Advertising (also known as online behavioral advertising) uses information collected on an individual's web browsing behavior such as the pages they have visited or the searches they have made. Third parties collect this information by placing or accessing cookies in your browser when you visit this, or other, websites. If you would like to learn more about the third party advertisers that may be aware of the fact that you visit this website, and to understand your choices about having such advertisers' cookies turned off, please visit www.networkadvertising.org.
 
-If you participate in Groups, share content on your network update stream, or import a blog or other content, you should be aware that any information you choose to disclose using these services can be read, collected, and used by other Members in these forums, developers, and other third parties, including advertisers. We are not responsible for the information you choose to submit in these forums. Your Groups contributions are typically searchable on our Services and some content in Groups may be public and searchable on the Internet if the group owner has not closed the group for public discussions. You can identify closed groups by the padlock icon next to the group name. You can remove your Groups posts at any time. However, others may have copied and used the information that you shared.
+Security
 
-### 2.11. Testimonials and Advertisements Placed through LinkedIn Ads
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-If you provide any testimonials about our goods or services or place advertisements through the LinkedIn Ads, we may post those testimonials and examples of advertisements you place in connection with our promotion of these services to third parties. Testimonials and advertisements may include your name and other personal information that you have provided. For more information about LinkedIn Ads, please see the [LinkedIn Ads Terms of Use](http://www.linkedin.com/legal/pop/pop-sas-terms).
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
 
-We offer a premium service to recruiters and others, which can be used to search for, organize, and communicate with potential candidates or offer business opportunities. In some cases we allow the export of public profile information. You can control how your information is exported by changing which parts of your public profile are accessible to search engines.
+If you have any questions about security on our Site, you can contact us at:
 
-We offer customized people-search functionality along with organizational and communications tools (including activity alerts) as part of our talent recruiting, marketing and sales solutions. These services allow subscribers - generally, enterprises and professional organizations - to export limited information from Members’ public profiles, such as name, headline, current company, current title, and location (for example, San Francisco Bay Area), in order to effectively manage candidate sourcing. You may limit or prevent such subscribers from exporting your profile information by configuring your [public profile visibility settings](http://www.linkedin.com/profile/public-profile-settings) to restrict access to these fields. We do not provide email or other contact information to these subscribers. However, if you post that information as part of your profile it will be available to them and others. A recruiter or other such subscriber may also manage and store information it has independently obtained about you outside of our Services, such as a resume, in connection with our platform. Any personal information obtained independently of our Services will not be added by us to your profile and is not under our control but is subject to the policies of our recruiting, marketing or sales solution subscriber. We store such information on behalf of such subscriber who can remove it at any time. We do not further process such information.
+  
+Email: info@bright.com
 
-Companies and other entities can create pages on our Services. If you follow one of these pages, non-identifiable information about you will be provided to the page’s administrators.
+Notification of Privacy Statement Changes
 
-Certain pages on the Services are public (e.g., company and college pages), and any communications or information shared through them will be accessible by the entity that created them. If you follow a person or organization, you will be listed among its followers, which can be viewed by others including the page owner. We use aggregate information about followers and viewers to provide data about such pages’ performance (for example, visits and updates).
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes, we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this policy for the latest information on our privacy practices.
 
-We may disclose your personal information if compelled by law, subpoena, or other legal process, or if necessary to enforce our User Agreement.
+A Note to Users Outside of the United States
 
-It is possible that we may need to disclose personal information, profile information, or information about your activities as a Member or Visitor when required by law, subpoena, or other legal process, whether in the United States, Ireland, or other jurisdictions, or if we have a good faith belief that disclosure is reasonably necessary to (1) investigate, prevent, or take action regarding suspected or actual illegal activities or to assist government enforcement agencies; (2) enforce the User Agreement, investigate and defend ourselves against any third-party claims or allegations, or protect the security or integrity of our Service; or (3) exercise or protect the rights, property, or safety of LinkedIn, our Members, personnel, or others. We attempt to notify Members about legal demands for their personal information when appropriate in our judgment, unless prohibited by law or court order or when the request is an emergency. In light of our principles, we may dispute such demands when we believe, in our discretion, that the requests are overbroad, vague or lack proper authority, but do not commit to challenge every demand. To find out more about how we engage with government requests for data see our [Law Enforcement Data Request Guidelines](https://linkedin.com/help/linkedin/answer/16880?lang=en).
+If you are a non-U.S. user of the Site, by visiting the Site and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in the Privacy Policy. In addition, your personal information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country. By providing your data, you consent to such transfer.
 
-If there is a change in control or sale of all or part of LinkedIn, we may share your information with a third party, who will have the right to use that information in line with this Privacy Policy.
+Contact Information
 
-We may also disclose your personal information to a third party as part of a sale of the assets of LinkedIn Corporation, a subsidiary, or division, or as the result of a change in control of the company or one of its affiliates, or in preparation for any of these events. Any third party to which we transfers or sells our assets will have the right to continue to use the personal and other information that you provide to us in the manner set out in this Privacy Policy.
+You can contact us about this Privacy Policy by emailing us at the address below:
 
-We may employ third parties to help us with the Services
+  
+Email: info@bright.com
 
-We may employ third party companies and individuals to facilitate our Services (e.g. maintenance, analysis, audit, marketing and development). These third parties have limited access to your information only to perform these tasks on our behalf and are obligated to LinkedIn not to disclose or use it for other purposes.
-
-We may process your information outside the country where you live.
-
-We may transfer your information and process it outside your country of residence, wherever LinkedIn, its affiliates and service providers operate.
+©2019 Bright Event Rentals, LLC, dba Bright Event Rentals®.  All Rights Reserved.
