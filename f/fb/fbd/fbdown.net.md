@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbdown.net privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518232553id_/https%3A//fbdown.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbdown.net privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208073336id_/https%3A//www.fbdown.net/privacy.php) for the most accurate reproduction.*
 
 # FBDOWN.net - Our Privacy Policy
 
@@ -57,9 +57,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 **Contacting us**
 
-You can contact us using the [Contact Page](https://web.archive.org/web/20190518232553id_/https%3A//fbdown.net/contact.php) or our email contact[at]fbdown.net. By contacting us you agree to our terms of service.
+You can contact us using the [Contact Page](https://web.archive.org/web/20191208073336id_/https%3A//www.fbdown.net/contact.php) or our email contact[at]fbdown.net. By contacting us you agree to our terms of service.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us here: [Contact Form](https://web.archive.org/web/20190518232553id_/https%3A//fbdown.net/contact.php)  
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us here: [Contact Form](https://web.archive.org/web/20191208073336id_/https%3A//www.fbdown.net/contact.php)  
 [Facebook Video Downloader](https://fbdown.net/)  
 [https://fbdown.net](https://fbdown.net/)
 
