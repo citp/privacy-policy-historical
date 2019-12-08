@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326193045id_/https%3A//www.eltonjohn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eltonjohn.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208120556id_/https%3A//www.eltonjohn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Elton John
 
