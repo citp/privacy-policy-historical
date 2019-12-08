@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rigzone.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330133534id_/https%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rigzone.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208182010id_/https%3A//www.rigzone.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Rigzone
 
