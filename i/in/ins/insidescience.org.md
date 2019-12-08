@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidescience.org privacy policy that was archived on 2019-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190529143109id_/https%3A//www.aip.org/aip/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidescience.org privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208205609id_/https%3A//www.aip.org/aip/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | American Institute of Physics
 
