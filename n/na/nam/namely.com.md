@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the namely.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415221139id_/https%3A//www.namely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namely.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208212743id_/http%3A//www.namely.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Namely
+# Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=bd060ee6-104c-4575-a697-77ea7ff58f3a)
 
@@ -103,11 +103,11 @@ Except as set forth above, you will be notified when your Personal Information i
 
 ## Data Retention
 
-We will retain your Personal Information and the Personal Information We process on behalf of Our Clients for as long as needed to provide Services to Our Clients in accordance with Namely data retention policies, and as necessary to comply with Our legal obligations, resolve disputes, and enforce Our agreements. You may request removal of your Personal Information at any time by contacting [support@namely.com](mailto:support@namely.com).
+We will retain your Personal Information and the Personal Information We process on behalf of Our Clients for as long as your account is active or as needed to provide Services to Our Clients in accordance with Namely data retention policies, and as necessary to comply with Our legal obligations, resolve disputes, and enforce Our agreements. You may request removal of your Personal Information at any time by contacting [service@namely.com](mailto:service@namely.com).
 
 ## Data Security
 
-The security of your Personal Information and Our Clients’ information is important to Us. We put in place appropriate technical and organizational measures to ensure your Personal Information is kept secure and protected from unauthorized access, use, disclosure, alteration or destruction, in accordance with applicable laws and regulations. When you enter sensitive information (such as login credentials), We encrypt the transmission of that information using secure socket layer technology (SSL). We follow generally accepted standards to protect the Personal Information submitted to Us, both during transmission and once We receive it. When We share your Personal Information with Sub-Processors or other third party service providers, We base our selection on said parties having adequate safeguards in place that meet Our data protection standards. We audit their compliance with such standards and incorporate contractual provisions ensuring compliance with (i) such standards and (ii) applicable data privacy laws and regulations.
+The security of your Personal Information and Our Clients’ information is important to Us. We put in place appropriate technical and organizational measures to ensure your Personal Information is kept secure and protected from unauthorized access, use, disclosure, alteration or destruction, in accordance with applicable laws and regulations. When you enter sensitive information (such as login credentials), We encrypt the transmission of that information using Transport Layer Security (TLS). We follow generally accepted standards to protect the Personal Information submitted to Us, both during transmission and once We receive it. When We share your Personal Information with Sub-Processors or other third party service providers, We base our selection on said parties having adequate safeguards in place that meet Our data protection standards. We audit their compliance with such standards and incorporate contractual provisions ensuring compliance with (i) such standards and (ii) applicable data privacy laws and regulations.
 
 If you have any questions about security on Our Site, you can contact Us at [info@namely.com](mailto:info@namely.com).
 
@@ -123,7 +123,7 @@ Namely participates in and has certified its compliance with the EU-U.S. Privacy
 
 Namely is responsible for the processing of personal data it receives, under each Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Namely complies with the Privacy Shield Principles for all onward transfers of personal data from the EU and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Namely is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, We may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Frameworks, Namely is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, We may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 If you have an unresolved privacy or data use concern that We have not addressed satisfactorily, please contact Our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -157,7 +157,7 @@ As part of the Services, you may choose to opt-in to receive occasional email an
 
 ## Rights with regard to Your Personal Information
 
-In the event that you have provided Personal Information to Us in your use of the Site, We will provide you with information about whether We hold any of your Personal Information. You may access, correct, or request deletion of your Personal Information by contacting Us at [info@namely.com](mailto:info@namely.com). We will respond to your request within a reasonable timeframe.
+We respect your control over your information and, in the event that you have provided Personal Information to Us in your use of the Site, We will provide you with information about whether We hold any of your Personal Information. You may access, correct, or request deletion of your Personal Information by contacting Us at [info@namely.com](mailto:info@namely.com). We will respond to your request within a reasonable timeframe.
 
 When acting as a service provider of Our Clients, Namely has no direct relationship with the individuals whose Personal Information is provided to Namely through the Services. An individual who is or was employed by one of Our Clients and who seeks access to, or who seeks to correct, amend, object to the processing or profiling of, or to delete his/her Personal Information in the Platform, should direct his/her query to the HR department of the Client that uses the Platform and for which he/she works or used to work if he/she cannot make the appropriate changes via its access to the Platform provided by the Client.
 
@@ -205,7 +205,7 @@ Where We rely on Our legitimate interests (or that of a third party) to process 
 You will not be subject to decisions with a legal or similarly significant effect (including profiling) that are based solely on the automated processing of your Personal Information, unless you have given Us your explicit consent or where they are necessary for the performance of a contract with Us.
 
   * **Right to withdraw consent**  
-You have the right to withdraw any consent you may have previously given Us at any time. In order to exercise your rights in this section We may ask you for certain identifying information to ensure the security of your Personal Information. To request to exercise any of the above rights, please contact Us at support@namely.com. We will respond to your request within 30 days or provide you with reasons for the delay.
+You have the right to withdraw any consent you may have previously given Us at any time. In order to exercise your rights in this section We may ask you for certain identifying information to ensure the security of your Personal Information. To request to exercise any of the above rights, please contact Us at support@namely.com. We will respond to your request within 30 days or provide you with reasons for the delay.
 
 
 
@@ -219,8 +219,8 @@ Right to complain to a supervisory authority. If you are not satisfied with Our 
 
 ## Changes to this Privacy Policy:
 
-We may amend this Privacy Policy from time to time to reflect changes to Our information practices. Our use of Personal Information We collect is subject to the Privacy Policy in effect at the time such information is used. If We make material changes in the way We collect or use information, We will notify you by posting an announcement on Our Site or sending you an email prior to the changes becoming effective.
+We may amend this Privacy Policy from time to time to reflect changes to applicable laws and regulations or other requirements applicable to us, changes in technology, or changes to Our information practices. Our use of Personal Information We collect is subject to the Privacy Policy in effect at the time such information is used. If We make material changes in the way We collect or use information, We will notify you by posting an announcement on Our Site or sending you an email prior to the changes becoming effective.
 
 If you have any questions or concerns regarding this Privacy Policy, please send Us a detailed message to [info@namely.com](mailto:info@namely.com) or at Our mailing address at 195 Broadway, 15th Floor, New York, NY 10007. We will make every effort to resolve your concerns. You may also raise any concerns or complaints with your local Data Protection Authority.
 
-Effective Date: May 25, 2018.
+Effective Date: July 1, 2019.
