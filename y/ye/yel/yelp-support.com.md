@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp-support.com privacy policy that was archived on 2019-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190503130202id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp-support.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208015624id_/http%3A//www.yelp.com/static%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Yelp
 
@@ -81,7 +81,7 @@ You can set some Cookie preferences through your device or browser settings, but
 
 Third parties may receive information about you as follows:
 
-  1. **Advertisers:** We may allow third parties to use Cookies through the Service to collect the same type of information for the same purposes as we do. In doing so, we adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. Third parties may be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the Cookies they use, but you may be able to opt out of some of their practices by visiting the following links: [Network Advertising Initiative](http://www.networkadvertising.org/choices/),[Omniture](https://www.d1.sc.omtrdc.net/optout.html?omniture=1&popup=1&locale=en_US&second=1&second_has_cookie=0) and [Digital Advertising Alliance](http://www.aboutads.info/choices/). Please note that opting out does not prevent the display of all advertisements to you. Additionally, we may share non-personally identifiable information from or about you, such as location data, advertising identifiers, or a cryptographic hash of a common account identifier (such as an email address), with third parties in connection with advertising programs and data analytics, including with third parties that help determine the efficacy of such advertising programs by aggregating information they receive from multiple services like the Service. You may be able to limit our sharing of some of this information through your mobile device settings, as described in Section 2 above, or through the Service’s settings. 
+  1. **Advertisers:** We may allow third parties to use Cookies through the Service to collect the same type of information for the same purposes as we do. In doing so, we adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising. Third parties may be able to associate the information they collect with other information they have about you from other sources. We do not necessarily have access to or control over the Cookies they use, but you may be able to opt out of some of their practices by visiting the following links: [Network Advertising Initiative](http://www.networkadvertising.org/choices/), [Omniture](https://www.d1.sc.omtrdc.net/optout.html?omniture=1&popup=1&locale=en_US&second=1&second_has_cookie=0) and [Digital Advertising Alliance](http://www.aboutads.info/choices/). Please note that opting out does not prevent the display of all advertisements to you. Additionally, we may share non-personally identifiable information from or about you, such as location data, advertising identifiers, or a cryptographic hash of a common account identifier (such as an email address), with third parties in connection with advertising programs and data analytics, including with third parties that help determine the efficacy of such advertising programs by aggregating information they receive from multiple services like the Service. You may be able to limit our sharing of some of this information through your mobile device settings, as described in Section 2 above, or through the Service’s settings. 
 
   2. **Content Partners:** We allow third party partners to use and display some of the public content available through the Service, such as your photos, reviews, and other information detailed in Section 1(b) above. 
 
@@ -124,21 +124,16 @@ You may [contact us online](https://web.archive.org/contact?topic=privacy) conce
 
 If you are a resident of the United States or Canada:
 
-Yelp, Attn: Data Privacy Manager
-
-140 New Montgomery St., 9th Floor
-
-San Francisco, California 94105
+Yelp, Attn: Data Privacy Manager  
+140 New Montgomery St., 9th Floor  
+San Francisco, California 94105 
 
 If you are a resident of the EEA or anywhere else outside the United States or Canada:
 
-Yelp Ireland Ltd.
-
-Attn: Data Privacy Manager
-
-70 Sir John Rogerson’s Quay
-
-Dublin 2, Ireland
+Yelp Ireland Ltd.  
+Attn: Data Privacy Manager  
+70 Sir John Rogerson’s Quay  
+Dublin 2, Ireland 
 
 We will take such steps as we deem necessary to confirm your identity before sharing any personal data with you. We will respond to proper and confirmed requests relating to personal data within 30 days, or as otherwise required by applicable law.
 
