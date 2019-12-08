@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wakeupandsmellthebacon.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620041627id_/https%3A//www.myfoodandfamily.com/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeupandsmellthebacon.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208172636id_/https%3A//www.myfoodandfamily.com/privacynotice) for the most accurate reproduction.*
 
 # Kraft Privacy Notice - My Food and Family
 
