@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620123231id_/https%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastbeat.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208222716id_/https%3A//www.broadcastbeat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – NAB Show News by Broadcast Beat, Official Broadcaster of NAB Show – NAB Show LIVE
 
