@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the armadamusic.com privacy policy that was archived on 2019-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190507140638id_/https%3A//www.armadamusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armadamusic.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208230624id_/https%3A//www.armadamusic.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT & SECURITY | Armada Music - Home to the music you love
 
