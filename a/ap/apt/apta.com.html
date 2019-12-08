@@ -1,0 +1,1307 @@
+<!--The following is the downloaded HTML source of the apta.com privacy policy that was archived on 2019-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191208133634id_/https%3A//www.apta.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="avada-html-layout-wide avada-html-header-position-top" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" data-useragent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/69.0.3494.0 Safari/537.36"><head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-58XD9DS"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"fc10c7825f",applicationID:"157719508"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Privacy Policy - American Public Transportation Association</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.6.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://www.apta.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - American Public Transportation Association">
+<meta property="og:description" content="American Public Transportation Association Privacy Policy APTA values your privacy. …">
+<meta property="og:url" content="https://www.apta.com/privacy-policy/">
+<meta property="og:site_name" content="American Public Transportation Association">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="American Public Transportation Association Privacy Policy APTA values your privacy. […]">
+<meta name="twitter:title" content="Privacy Policy - American Public Transportation Association">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.apta.com/#website","url":"https://www.apta.com/","name":"American Public Transportation Association","description":"American Public Transportation Association","potentialAction":{"@type":"SearchAction","target":"https://www.apta.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"WebPage","@id":"https://www.apta.com/privacy-policy/#webpage","url":"https://www.apta.com/privacy-policy/","inLanguage":"en-US","name":"Privacy Policy - American Public Transportation Association","isPartOf":{"@id":"https://www.apta.com/#website"},"datePublished":"2018-10-26T21:20:27+00:00","dateModified":"2019-01-18T16:48:28+00:00"}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//www.apta.com">
+<link rel="dns-prefetch" href="//maps.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="American Public Transportation Association » Feed" href="https://www.apta.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="American Public Transportation Association » Comments Feed" href="https://www.apta.com/comments/feed/">
+					<link rel="shortcut icon" href="https://www.apta.com/wp-content/uploads/favicon-32.png" type="image/x-icon">
+		
+					<!-- For iPhone -->
+			<link rel="apple-touch-icon" href="https://www.apta.com/wp-content/uploads/favicon-57.png">
+		
+		
+					<!-- For iPad -->
+			<link rel="apple-touch-icon" sizes="72x72" href="https://www.apta.com/wp-content/uploads/favicon-72.png">
+		
+				
+		<meta property="og:title" content="Privacy Policy">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="https://www.apta.com/privacy-policy/">
+		<meta property="og:site_name" content="American Public Transportation Association">
+		<meta property="og:description" content="American Public Transportation Association Privacy Policy
+
+
+
+APTA values your privacy. This privacy policy (Policy) describes the information we collect when you become a member of APTA and/or purchase goods/services from APTA.&nbsp; This policy sets out how we use, disclose, and protect this information. This policy also tells you about rights and choices you may have with">
+
+									<meta property="og:image" content="https://www.apta.com/wp-content/uploads/apta-logo-200.png">
+							<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="bootstrap-css-css" href="https://www.apta.com/wp-content/plugins/wd-google-maps/css/bootstrap.css?ver=1.0.62" type="text/css" media="all">
+<link rel="stylesheet" id="frontend_main-css-css" href="https://www.apta.com/wp-content/plugins/wd-google-maps/css/frontend_main.css?ver=1.0.62" type="text/css" media="all">
+<link rel="stylesheet" id="learndash-blocks-css" href="https://www.apta.com/wp-content/plugins/sfwd-lms/includes/gutenberg/lib/../assets/css/blocks.style.css?ver=1575757589" type="text/css" media="all">
+<link rel="stylesheet" id="ucec-gutenberg-blocks-css" href="https://www.apta.com/wp-content/plugins/uncanny-continuing-education-credits/src/blocks/dist/blocks.style.build.css?ver=3.0.4" type="text/css" media="all">
+<link rel="stylesheet" id="dnd-upload-cf7-css" href="https://www.apta.com/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/css/dnd-upload-cf7.css?ver=1.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="crp-style-rounded-thumbs-css" href="https://www.apta.com/wp-content/plugins/contextual-related-posts/css/default-style.css?ver=1.0" type="text/css" media="all">
+<style id="crp-style-rounded-thumbs-inline-css" type="text/css">
+
+.crp_related a {
+  width: 150px;
+  height: 150px;
+  text-decoration: none;
+}
+.crp_related img {
+  max-width: 150px;
+  margin: auto;
+}
+.crp_related .crp_title {
+  width: 100%;
+}
+                
+</style>
+<link rel="stylesheet" id="rs-plugin-settings-css" href="https://www.apta.com/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.1.4" type="text/css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<link rel="stylesheet" id="learndash_quiz_front_css-css" href="//www.apta.com/wp-content/plugins/sfwd-lms/templates/learndash_quiz_front.css?ver=2.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="learndash_style-css" href="//www.apta.com/wp-content/plugins/sfwd-lms/assets/css/style.min.css?ver=2.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="sfwd_front_css-css" href="//www.apta.com/wp-content/plugins/sfwd-lms/assets/css/front.min.css?ver=2.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-dropdown-css-css" href="//www.apta.com/wp-content/plugins/sfwd-lms/assets/css/jquery.dropdown.min.css?ver=2.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="learndash_pager_css-css" href="//www.apta.com/wp-content/plugins/sfwd-lms/templates/learndash_pager.css?ver=2.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="learndash_template_style_css-css" href="//www.apta.com/wp-content/plugins/sfwd-lms/templates/learndash_template_style.css?ver=2.6.4" type="text/css" media="all">
+<link rel="stylesheet" id="uncannyowl-learndash-toolkit-free-css" href="https://www.apta.com/wp-content/plugins/uncanny-learndash-toolkit/src/assets/frontend/dist/bundle.min.css?ver=3.1.4" type="text/css" media="all">
+<link rel="stylesheet" id="ultp-frontend-css" href="https://www.apta.com/wp-content/plugins/uncanny-toolkit-pro/src/assets/dist/frontend/bundle.min.css?ver=3.3.1" type="text/css" media="all">
+<link rel="stylesheet" id="ecwd-popup-style-css" href="https://www.apta.com/wp-content/plugins/event-calendar-wd/css/ecwd_popup.css?ver=1.1.33_5c9e3314dd834" type="text/css" media="all">
+<link rel="stylesheet" id="ecwd_font-awesome-css" href="https://www.apta.com/wp-content/plugins/event-calendar-wd/css/font-awesome/font-awesome.css?ver=1.1.33_5c9e3314dd834" type="text/css" media="all">
+<link rel="stylesheet" id="ecwd-public-css" href="https://www.apta.com/wp-content/plugins/event-calendar-wd/css/style.css?ver=1.1.33_5c9e3314dd834" type="text/css" media="all">
+<style id="ecwd-public-inline-css" type="text/css">
+div.current-month > div {font-size: 10px;}
+</style>
+<link rel="stylesheet" id="avada-stylesheet-css" href="https://www.apta.com/wp-content/themes/Avada/assets/css/style.min.css?ver=6.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="child-style-css" href="https://www.apta.com/wp-content/themes/Avada-Child-Theme/style.css?ver=5.2.4" type="text/css" media="all">
+<!--[if IE]>
+<link rel='stylesheet' id='avada-IE-css'  href='https://www.apta.com/wp-content/themes/Avada/assets/css/ie.min.css?ver=6.1.1' type='text/css' media='all' />
+<style id='avada-IE-inline-css' type='text/css'>
+.avada-select-parent .select-arrow{background-color:#ffffff}
+.select-arrow{background-color:#ffffff}
+</style>
+<![endif]-->
+<link rel="stylesheet" id="tablepress-default-css" href="https://www.apta.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.9.2" type="text/css" media="all">
+<style id="tablepress-default-inline-css" type="text/css">
+.tablepress-id-100 .column-1{width:250px}
+</style>
+<link rel="stylesheet" id="fusion-dynamic-css-css" href="https://www.apta.com/wp-content/uploads/fusion-styles/4a4cc698bfd1b90b2089274e6826013f.min.css?ver=2.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="moove_gdpr_frontend-css" href="https://www.apta.com/wp-content/plugins/gdpr-cookie-compliance/dist/styles/gdpr-main-nf.css?ver=4.0.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.apta.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_login_object = {"ajaxurl":"https:\/\/www.apta.com\/wp-admin\/admin-ajax.php","redirecturl":"https:\/\/www.apta.com","loadingmessage":"Authenticating user, please wait...","returnUrlParam":"ReturnURL"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada-Child-Theme/assets/js/ajax-login-script.js?ver=5.2.4"></script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?libraries=places%2Cgeometry&amp;v=3.exp&amp;key=AIzaSyBrft-lEaKtYoSqlgaRYP605lSjoZ8Va-g&amp;ver=5.2.4"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/wd-google-maps/js/init_map.js?ver=1.0.62"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/wd-google-maps/js/frontend_main.js?ver=1.0.62"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/sfwd-lms/includes/gutenberg/lib/../assets/js/frontend.blocks.js?ver=1575757589"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/revslider/public/assets/js/revolution.tools.min.js?ver=6.0"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.1.4"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/uncanny-learndash-toolkit/src/assets/frontend/dist/bundle.min.js?ver=3.1.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var UncannyToolkitPro = {"restURL":"https:\/\/www.apta.com\/wp-json\/uo_toolkit\/v1\/","nonce":"624490211b"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/uncanny-toolkit-pro/src/assets/dist/frontend/bundle.min.js?ver=3.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var MyAjax = {"ajaxurl":"https:\/\/www.apta.com\/wp-admin\/admin-ajax.php","security":"b5ea8478f7"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/advanced-iframe/js/ai.js?ver=195711"></script>
+<link rel="https://api.w.org/" href="https://www.apta.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.apta.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.apta.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.apta.com/?p=3">
+<link rel="alternate" type="application/json+oembed" href="https://www.apta.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.apta.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.apta.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.apta.com%2Fprivacy-policy%2F&amp;format=xml">
+
+
+<!-- This site uses the Open External Links in a New Window plugin v1.4 by WebFactory Ltd. Download it for free at https://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+  function external_links_in_new_windows_loop() {
+    if (!document.links) {
+      document.links = document.getElementsByTagName('a');
+    }
+    var change_link = false;
+    var force = '';
+    var ignore = 'youtu.be';
+
+    for (var t=0; t<document.links.length; t++) {
+      var all_links = document.links[t];
+      change_link = false;
+      
+      if(document.links[t].hasAttribute('onClick') == false) {
+        // forced if the address starts with http (or also https), but does not link to the current domain
+        if(all_links.href.search(/^http/) != -1 && all_links.href.search('www.apta.com') == -1 && all_links.href.search(/^#/) == -1) {
+          // console.log('Changed ' + all_links.href);
+          change_link = true;
+        }
+          
+        if(force != '' && all_links.href.search(force) != -1) {
+          // forced
+          // console.log('force ' + all_links.href);
+          change_link = true;
+        }
+        
+        if(ignore != '' && all_links.href.search(ignore) != -1) {
+          // console.log('ignore ' + all_links.href);
+          // ignored
+          change_link = false;
+        }
+
+        if(change_link == true) {
+          // console.log('Changed ' + all_links.href);
+          document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+          document.links[t].removeAttribute('target');
+        }
+      }
+    }
+  }
+  
+  // Load
+  function external_links_in_new_windows_load(func)
+  {  
+    var oldonload = window.onload;
+    if (typeof window.onload != 'function'){
+      window.onload = func;
+    } else {
+      window.onload = function(){
+        oldonload();
+        func();
+      }
+    }
+  }
+
+  external_links_in_new_windows_load(external_links_in_new_windows_loop);
+  //]]></script>
+
+    <style type="text/css" media="screen">
+      div.printfriendly a, div.printfriendly a:link, div.printfriendly a:hover, div.printfriendly a:visited, div.printfriendly a:focus {
+        text-decoration: none;
+        border: none;
+        -webkit-box-shadow:none!important;
+        box-shadow:none!important;
+      }
+    </style>
+           <style type="text/css" media="screen">
+          div.printfriendly {
+            margin: 25px 10px 5px 10px;
+          }
+          div.printfriendly a, div.printfriendly a:link, div.printfriendly a:visited {
+            font-size: 14px;
+            color: #002b56;
+          }
+        </style>
+		<link rel="stylesheet" href="https://www.apta.com/wp-content/plugins/printfriendly/printfriendly.css" media="screen">
+        <style type="text/css" media="print">
+          .printfriendly {
+            display: none;
+          }
+        </style>
+<style type="text/css" id="css-fb-visibility">@media screen and (max-width: 640px){body:not(.fusion-builder-ui-wireframe) .fusion-no-small-visibility{display:none !important;}}@media screen and (min-width: 641px) and (max-width: 1024px){body:not(.fusion-builder-ui-wireframe) .fusion-no-medium-visibility{display:none !important;}}@media screen and (min-width: 1025px){body:not(.fusion-builder-ui-wireframe) .fusion-no-large-visibility{display:none !important;}}</style><meta name="generator" content="Powered by Slider Revolution 6.1.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<script type="text/javascript">function setREVStartSize(t){try{var h,e=document.getElementById(t.c).parentNode.offsetWidth;if(e=0===e||isNaN(e)?window.innerWidth:e,t.tabw=void 0===t.tabw?0:parseInt(t.tabw),t.thumbw=void 0===t.thumbw?0:parseInt(t.thumbw),t.tabh=void 0===t.tabh?0:parseInt(t.tabh),t.thumbh=void 0===t.thumbh?0:parseInt(t.thumbh),t.tabhide=void 0===t.tabhide?0:parseInt(t.tabhide),t.thumbhide=void 0===t.thumbhide?0:parseInt(t.thumbhide),t.mh=void 0===t.mh||""==t.mh||"auto"===t.mh?0:parseInt(t.mh,0),"fullscreen"===t.layout||"fullscreen"===t.l)h=Math.max(t.mh,window.innerHeight);else{for(var i in t.gw=Array.isArray(t.gw)?t.gw:[t.gw],t.rl)void 0!==t.gw[i]&&0!==t.gw[i]||(t.gw[i]=t.gw[i-1]);for(var i in t.gh=void 0===t.el||""===t.el||Array.isArray(t.el)&&0==t.el.length?t.gh:t.el,t.gh=Array.isArray(t.gh)?t.gh:[t.gh],t.rl)void 0!==t.gh[i]&&0!==t.gh[i]||(t.gh[i]=t.gh[i-1]);var r,a=new Array(t.rl.length),n=0;for(var i in t.tabw=t.tabhide>=e?0:t.tabw,t.thumbw=t.thumbhide>=e?0:t.thumbw,t.tabh=t.tabhide>=e?0:t.tabh,t.thumbh=t.thumbhide>=e?0:t.thumbh,t.rl)a[i]=t.rl[i]<window.innerWidth?0:t.rl[i];for(var i in r=a[0],a)r>a[i]&&0<a[i]&&(r=a[i],n=i);var d=e>t.gw[n]+t.tabw+t.thumbw?1:(e-(t.tabw+t.thumbw))/t.gw[n];h=t.gh[n]*d+(t.tabh+t.thumbh)}void 0===window.rs_init_css&&(window.rs_init_css=document.head.appendChild(document.createElement("style"))),document.getElementById(t.c).height=h,window.rs_init_css.innerHTML+="#"+t.c+"_wrapper { height: "+h+"px }"}catch(t){console.log("Failure at Presize of Slider:"+t)}};</script>
+		<style type="text/css" id="wp-custom-css">
+			/* Additional CSS for APTA.com made by Marc */
+
+h1.fusion-post-title {font-size: 150% !important; line-height: 100% !important;}
+
+em.small-italic {font-size: 11px;}
+
+div.APTA-signin > a:hover {color: #f4f7f6 !important; text-decoration: underline !important;}
+
+li.menu-item-type-custom { padding-bottom: 10px; line-height: 20px;}
+
+.fusion-breadcrumbs a {color: #2596f0 !important;} a:hover {color: #7a003c !important;}
+
+a.fusion-read-more:hover {color: #7a003c !important;}
+
+h3.newsfeed-entry {padding-top: 5px !important; padding-bottom: 20px !important;}
+
+a.newsfeed-link {text-decoration: none !important; color: #8dc8f6 !important;}
+a.newsfeed-link:hover {color: #c0c0c0 !important; text-decoration: underline !important;}
+
+/* styling of affiliates section of homepage */
+h2.affiliate-heading {font-size: 48px !important; font-weight: 600 !important;}
+span.affiliate-pipe {font-size: 42px !important; color: #c3c3c3 !important;}
+a.affiliate-link {font-size: 24px !important;}
+
+/* links in footer menu */
+.link-text:hover {color:#ffffff; text-decoration:underline !important;}
+.arrow {color: #7a003c}
+
+/* fixing footer links so text stays white on all hover */
+ul[id^="menu-footer"] > li[id^="menu-item"] > a:hover {color: #ffffff !important;}
+
+/* Hover Color - Secondary Menu Items */
+.fusion-secondary-menu > ul > li > a:hover {color: #e2e2e2 !important; text-decoration: underline !important;}
+
+/* Countering hover for a tags within p and h tags */
+h2 > a:hover {color: #7a003c !important;}
+h3 > a:hover {color: #7a003c !important;}
+p > a {text-decoration: none !important;}
+p > a:hover {color: #7a003c !important;}
+
+/*Changing the Stanrds, Join APTA and About APTA links in top right of page */
+.top-join-about a:hover {color: #7a003c !important; text-decoration: none !important;}
+
+li.m {opacity: 0.0 !important;}
+
+/* Social media icon links in footer - style to combat changes in Spotlight box */
+div.footer-social > a {color: #ffffff !important;}
+div.footer-social > a:hover{color: #f4f7f6 !important;}
+
+/* Data tables */
+table.datatable {width: 880px !important; font-size: 15px;}
+
+table.datatable > tbody th {background-color: #dedede !important;}
+
+table.datatable > tbody tr:nth-child(odd) {background-color: #f2f2f2}
+
+table.datatable > tbody > tr > td {border: 1px black solid !important;}
+
+/* Meetings & Conferences tables */
+table.meetings-conferences-table {width: 880px !important;}
+
+table.meetings-conferences-table > tbody th {background-color: #dedede !important; font-size: 21px;}
+
+table.meetings-conferences-table > tbody tr {background-color: #ffffff !important;} 
+
+table.meetings-conferences-table > tbody tr:nth-child(odd) {background-color: #f2f2f2 !important;}
+
+
+hr.meetings-conferences-table {width: 100%; margin-top: 10px; margin-bottom: 35px;}
+
+/* link color in Spotlight box */
+div.customvalue > a {color: #abcfed !important; font-size: 18px !important;}
+
+div.customvalue > a:hover {color: #f4f7f6 !important; text-decoration: underline !important; font-size: 18px !important;}
+
+/* Homepage map */
+b.map-box-headline {color: #88001b;}
+
+/* TCRP Tabs */
+div.tcrp-tabs > div.nav > ul.nav-tabs > li > a > h4 {font-size: 16px !important; line-height: 14px !important;}
+
+/* links in H4 and H5 */
+table > tbody > tr > td > h4 > a:hover {color: #7a003c !important;}
+
+
+/*Quick Links non-indent of second lines */
+a.underline {margin-left: 0px !important;}
+
+/* FAQs Category active */
+div.membership-faq > ul.fusion-filters > li.fusion-active > a {color: #610030 !important;}
+
+[aria-current] {border-right: 0px !important;}
+
+/* photo captions on right side of image
+.image-caption {
+    display:inline-block;
+    transform: rotate(-90deg);
+    transform-origin:100% 100%;
+    margin-left:-175px;
+	  font-size: 12px;
+}
+.caption {
+    float: left;
+    display: inline-block;
+}
+li.fusion-li-item {font-size: 120%;}
+*/
+
+/* Event page grid */
+div.fusion-columns-total-1 {margin-bottom: -35px !important;}
+
+/* Our Purpose page */
+div.larger-subheading > h2 {font-size: 33px !important;}
+
+/* 404 styles */
+span.circle-yes {background-color: #7a003c !important;}
+
+div.title-sep.sep-double.sep-solid {border-color: transparent !important;}
+
+.adwheeladwardbutton {font-size: 125% !important;}
+
+.blue-button {background-color: #003a73 !important;}
+
+.large-button-text {font-size: 30px !important;}
+
+/* National Public Trans Career Day flip box links */
+div.public-trans-day-flip-boxes > div > div > div > div > div > h3 > a {color: #ffffff !important;}
+
+div.public-trans-day-flip-boxes > div > div > div > div > div > h3 > a:hover {color: #2596f0 !important;}
+
+/* Mobility Innovation Hub pages
+div.mobility-hub-flip-boxes > div > div > div > div > div > h2.flip-box-heading {font-size: 14px;}
+*/
+
+sup {font-size: 75% !important; line-height: 0 !important; position: relative !important; vertical-align: baseline !important; top: -0.5em;}
+
+div.moove-gdpr-cookie-notice > p > a {color: #2596f0 !important;}
+
+div.moove-gdpr-cookie-notice > p > a:hover {color: #7a003c !important;}
+
+h6.warning {font-size: 90% !important;}
+
+h2.standards-title {font-size: 40px !important;}
+
+h2.classified-section {font-size: 42px !important;}
+
+span.number > input.narrow-number-selection {width: 100px !important;}
+
+/* 2019 TRANSform reg list */
+tr.regroworg {background-color: #e2e2e2 !important; border-top: 4px solid #000; margin-top: 15px !important }
+tr.regrow { border-bottom: 1px solid #000; }
+span.regorgname {font-weight: bold !important;}
+
+/* Modernization page */
+h5.modernization-text {font-weight: normal !important; font-size: 80% !important;}
+
+div > style > div > div> div.content-box-centering > div > a > h2.content-box-heading {text-align: center !important;}		</style>
+				<script type="text/javascript">
+			var doc = document.documentElement;
+			doc.setAttribute( 'data-useragent', navigator.userAgent );
+		</script>
+		<!-- Start GPT Tag -->
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+  var gptadslots = [];
+  var googletag = googletag || {cmd:[]};
+</script>
+<script>
+  googletag.cmd.push(function() {
+    //Adslot 1 declaration
+    gptadslots.push(googletag.defineSlot('/14444846/APTA_Leaderboard', [[728,90]], 'div-gpt-ad-9402659-1')
+                             .addService(googletag.pubads()));
+    //Adslot 2 declaration
+    gptadslots.push(googletag.defineSlot('/14444846/APTA_Rectangle1', [[300,250]], 'div-gpt-ad-9402659-2')
+                             .addService(googletag.pubads()));
+    //Adslot 3 declaration
+    gptadslots.push(googletag.defineSlot('/14444846/APTA_Rectangle2', [[300,250]], 'div-gpt-ad-9402659-3')
+                             .addService(googletag.pubads()));
+
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+<!-- End GPT Tag -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-2221395-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-2221395-1');
+</script>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-58XD9DS');</script>
+<!-- End Google Tag Manager --></head>
+
+<body class="privacy-policy page-template-default page page-id-3 ecwd-theme-parent-Avada ecwd-theme-child-Avada-Child-Theme fusion-image-hovers fusion-pagination-sizing fusion-button_size-xlarge fusion-button_type-flat fusion-button_span-no avada-image-rollover-circle-yes avada-image-rollover-yes avada-image-rollover-direction-fade fusion-body ltr fusion-sticky-header no-tablet-sticky-header no-mobile-sticky-header no-mobile-slidingbar no-desktop-totop no-mobile-totop avada-has-rev-slider-styles fusion-disable-outline fusion-sub-menu-fade mobile-logo-pos-left layout-wide-mode avada-has-boxed-modal-shadow-none layout-scroll-offset-full avada-has-zero-margin-offset-top fusion-top-header menu-text-align-center mobile-menu-design-modern fusion-show-pagination-text fusion-header-layout-v4 avada-responsive avada-footer-fx-none avada-menu-highlight-style-background fusion-search-form-classic fusion-main-menu-search-dropdown fusion-avatar-square avada-sticky-shrinkage avada-dropdown-styles avada-blog-layout-large avada-blog-archive-layout-large avada-header-shadow-no avada-menu-icon-position-left avada-has-megamenu-shadow avada-has-mobile-menu-search avada-has-breadcrumb-mobile-hidden avada-has-titlebar-bar_and_content avada-header-border-color-full-transparent avada-has-pagination-padding avada-flyout-menu-direction-fade">
+		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="boxed-wrapper">
+		<div class="fusion-sides-frame"></div>
+		<div id="wrapper" class="fusion-wrapper">
+			<div id="home" style="position:relative;top:-1px;"></div>
+			
+			<header class="fusion-header-wrapper">
+				<div class="fusion-header-v4 fusion-logo-alignment fusion-logo-left fusion-sticky-menu-1 fusion-sticky-logo-1 fusion-mobile-logo- fusion-sticky-menu-and-logo fusion-header-menu-align-center fusion-mobile-menu-design-modern">
+					
+<div class="fusion-secondary-header">
+	<div class="fusion-row">
+					<div class="fusion-alignleft">
+				<!--<div class="fusion-contact-info"><span class="fusion-contact-info-phone-number">Call Today! (202) 496-4800</span></div> -->
+				<span>Transit links by state: </span>
+				<select id="state-select" name="transitstates" onchange="location = this.value;">
+					<option value="" disabled="" selected="">Select State</option>
+					<option value="/research-technical-resources/public-transportation-links/alabama">Alabama</option>
+					<option value="/research-technical-resources/public-transportation-links/alaska">Alaska</option>
+					<option value="/research-technical-resources/public-transportation-links/arizona">Arizona</option>
+					<option value="/research-technical-resources/public-transportation-links/arkansas">Arkansas</option>
+					<option value="/research-technical-resources/public-transportation-links/california">California</option>
+					<option value="/research-technical-resources/public-transportation-links/colorado">Colorado</option>
+					<option value="/research-technical-resources/public-transportation-links/connecticut">Connecticut</option>
+					<option value="/research-technical-resources/public-transportation-links/delaware">Delaware</option>
+					<option value="/research-technical-resources/public-transportation-links/district-of-columbia">District of Columbia</option>
+					<option value="/research-technical-resources/public-transportation-links/florida">Florida</option>
+					<option value="/research-technical-resources/public-transportation-links/georgia">Georgia</option>
+					<option value="/research-technical-resources/public-transportation-links/hawaii">Hawaii</option>
+					<option value="/research-technical-resources/public-transportation-links/idaho">Idaho</option>
+					<option value="/research-technical-resources/public-transportation-links/illinois">Illinois</option>
+					<option value="/research-technical-resources/public-transportation-links/indiana">Indiana</option>
+					<option value="/research-technical-resources/public-transportation-links/iowa">Iowa</option>
+					<option value="/research-technical-resources/public-transportation-links/kansas">Kansas</option>
+					<option value="/research-technical-resources/public-transportation-links/kentucky">Kentucky</option>
+					<option value="/research-technical-resources/public-transportation-links/louisiana">Louisiana</option>
+					<option value="/research-technical-resources/public-transportation-links/maine">Maine</option>
+					<option value="/research-technical-resources/public-transportation-links/maryland">Maryland</option>
+					<option value="/research-technical-resources/public-transportation-links/massachusetts">Massachusetts</option>
+					<option value="/research-technical-resources/public-transportation-links/michigan">Michigan</option>
+					<option value="/research-technical-resources/public-transportation-links/minnesota">Minnesota</option>
+					<option value="/research-technical-resources/public-transportation-links/mississippi">Mississippi</option>
+					<option value="/research-technical-resources/public-transportation-links/missouri">Missouri</option>
+					<option value="/research-technical-resources/public-transportation-links/montana">Montana</option>
+					<option value="/research-technical-resources/public-transportation-links/nebraska">Nebraska</option>
+					<option value="/research-technical-resources/public-transportation-links/nevada">Nevada</option>
+					<option value="/research-technical-resources/public-transportation-links/new-hampshire">New Hampshire</option>
+					<option value="/research-technical-resources/public-transportation-links/new-jersey">New Jersey</option>
+					<option value="/research-technical-resources/public-transportation-links/new-mexico">New Mexico</option>
+					<option value="/research-technical-resources/public-transportation-links/new-york">New York</option>
+					<option value="/research-technical-resources/public-transportation-links/north-carolina">North Carolina</option>
+					<option value="/research-technical-resources/public-transportation-links/north-dakota">North Dakota</option>
+					<option value="/research-technical-resources/public-transportation-links/ohio">Ohio</option>
+					<option value="/research-technical-resources/public-transportation-links/oklahoma">Oklahoma</option>
+					<option value="/research-technical-resources/public-transportation-links/oregon">Oregon</option>
+					<option value="/research-technical-resources/public-transportation-links/pennsylvania">Pennsylvania</option>
+					<option value="/research-technical-resources/public-transportation-links/puerto-rico">Puerto Rico</option>
+					<option value="/research-technical-resources/public-transportation-links/rhode-island">Rhode Island</option>
+					<option value="/research-technical-resources/public-transportation-links/south-carolina">South Carolina</option>
+					<option value="/research-technical-resources/public-transportation-links/south-dakota">South Dakota</option>
+					<option value="/research-technical-resources/public-transportation-links/tennessee">Tennessee</option>
+					<option value="/research-technical-resources/public-transportation-links/texas">Texas</option>
+					<option value="/research-technical-resources/public-transportation-links/united-states-territories">United States Territories</option>
+					<option value="/research-technical-resources/public-transportation-links/utah">Utah</option>
+					<option value="/research-technical-resources/public-transportation-links/vermont">Vermont</option>
+					<option value="/research-technical-resources/public-transportation-links/virginia">Virginia</option>
+					<option value="/research-technical-resources/public-transportation-links/washington">Washington</option>
+					<option value="/research-technical-resources/public-transportation-links/west-virginia">West Virginia</option>
+					<option value="/research-technical-resources/public-transportation-links/wisconsin">Wisconsin</option>
+					<option value="/research-technical-resources/public-transportation-links/wyoming">Wyoming</option>
+				</select>
+			</div>
+							<div class="fusion-alignright">
+				<nav class="fusion-secondary-menu" role="navigation" aria-label="Secondary Menu"><ul id="menu-utility" class="menu"><li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31" data-item-id="31"><a rel="noopener noreferrer" href="https://apta.officialbuyersguide.net/" class="fusion-background-highlight" onclick="javascript:window.open('https://apta.officialbuyersguide.net/'); return false;"><span class="menu-text">Buyers Guide</span></a></li><li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32" data-item-id="32"><a href="/about/contact/" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/about/contact/'); return false;"><span class="menu-text">Contact Us</span></a></li></ul></nav><nav class="fusion-mobile-nav-holder fusion-mobile-menu-text-align-left" aria-label="Secondary Mobile Menu"></nav>			</div>
+			</div>
+</div>
+<div class="fusion-header-sticky-height"></div>
+<div class="fusion-sticky-header-wrapper"> <!-- start fusion sticky header wrapper -->
+	<div class="fusion-header">
+		<div class="fusion-row">
+							<div class="fusion-logo" data-margin-top="-8px" data-margin-bottom="-15px" data-margin-left="5px" data-margin-right="0px">
+			<a class="fusion-logo-link" href="https://www.apta.com/">
+
+						<!-- standard logo -->
+			<img src="https://www.apta.com/wp-content/uploads/apta-logo-200.png" srcset="https://www.apta.com/wp-content/uploads/apta-logo-200.png 1x" width="200" height="110" alt="American Public Transportation Association Logo" data-retina_logo_url="" class="fusion-standard-logo">
+
+			
+											<!-- sticky header logo -->
+				<img src="https://www.apta.com/wp-content/uploads/apta-logo-130.png" srcset="https://www.apta.com/wp-content/uploads/apta-logo-130.png 1x" width="130" height="72" alt="American Public Transportation Association Logo" data-retina_logo_url="" class="fusion-sticky-logo">
+					</a>
+		
+<div class="fusion-header-content-container">
+    <div class="fusion-header-content-3-wrapper test-class">
+                                                        <div class="fusion-secondary-menu-search">
+                        <form role="search" class="searchform fusion-search-form fusion-live-search" method="get" action="https://www.apta.com/">
+	<div class="fusion-search-form-content">
+		<div class="fusion-search-field search-field">
+			<label><span class="screen-reader-text">Search for:</span>
+									<input type="search" value="" name="s" class="s" placeholder="Search ..." required="" aria-required="true" aria-label="Search ...">
+							</label>
+		</div>
+		<div class="fusion-search-button search-button">
+			<input type="submit" class="fusion-search-submit searchsubmit" value="">
+					</div>
+	</div>
+	</form>
+                    </div>
+                    <div class="APTA-signin" id="APTASSOLogin">
+                                                    <a href="/login?ReturnURL=https%3A%2F%2Fwww.apta.com%2Fprivacy-policy" class="fusion-button button-flat fusion-button-pill button-medium button-default button-1">Sign
+                                in</a>
+                                                </div>
+                    <h3 class="fusion-header-tagline">
+                        <div>
+<ul class="list-inline">
+<li class="underline top-join-about"><a href="/about/" onclick="javascript:window.open('https://web.archive.org/about/'); return false;">About APTA</a></li>
+<li class="underline top-join-about"><a href="/join-apta/" onclick="javascript:window.open('https://web.archive.org/join-apta/'); return false;">Join APTA</a></li>
+<li class="underline top-join-about"><a href="/research-technical-resources/standards/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/standards/'); return false;">Standards</a></li>
+</ul>
+</div>                    </h3>
+                                        </div>
+    
+	
+
+	
+</div></div>
+								<div class="fusion-mobile-menu-icons">
+							<a href="#" class="fusion-icon fusion-icon-bars" aria-label="Toggle mobile menu" aria-expanded="false"></a>
+		
+					<a href="#" class="fusion-icon fusion-icon-search" aria-label="Toggle mobile search"></a>
+		
+		
+			</div>
+			
+					</div>
+	</div>
+	<div class="fusion-secondary-main-menu">
+		<div class="fusion-row">
+			<nav class="fusion-main-menu" aria-label="Main Menu"><ul id="menu-main" class="fusion-menu"><li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18 fusion-dropdown-menu" data-item-id="18"><a href="/conferences-events" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/conferences-events'); return false;"><span class="menu-text">Events</span></a><ul role="menu" class="sub-menu"><li id="menu-item-12296" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12296 fusion-dropdown-submenu"><a href="/conferences-events" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/conferences-events'); return false;"><span>2019 Meetings &amp; Conferences</span></a></li><li id="menu-item-2972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2972 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/future-meetings/" class="fusion-background-highlight"><span>2020 &amp; Future Meetings</span></a></li><li id="menu-item-14043" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14043 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/aptau/learning-and-development/webinars/" class="fusion-background-highlight"><span>Webinars</span></a></li><li id="menu-item-4364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4364 fusion-dropdown-submenu"><a rel="noopener noreferrer" href="http://www.aptaexpo.com/" class="fusion-background-highlight" onclick="javascript:window.open('http://www.aptaexpo.com/'); return false;"><span>EXPO</span></a></li><li id="menu-item-2973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2973 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/previous/" class="fusion-background-highlight"><span>Previous Meetings</span></a></li><li id="menu-item-2638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2638 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/call-for-abstracts/" class="fusion-background-highlight"><span>Call For Abstracts</span></a></li><li id="menu-item-4370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4370 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/industry-events/" class="fusion-background-highlight"><span>Industry Events</span></a></li></ul></li><li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19 fusion-dropdown-menu" data-item-id="19"><a href="/advocacy-legislation-policy" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/advocacy-legislation-policy'); return false;"><span class="menu-text">Advocacy, Legislation, &amp; Policy</span></a><ul role="menu" class="sub-menu"><li id="menu-item-1928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1928 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/advocacy/" class="fusion-background-highlight"><span>Advocacy</span></a></li><li id="menu-item-12640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12640 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/testimonies/" class="fusion-background-highlight"><span>Congressional Testimonies</span></a></li><li id="menu-item-1926" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/federal-legislative-issues/" class="fusion-background-highlight"><span>Federal Legislative Issues</span></a></li><li id="menu-item-2052" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2052 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/federal-rulemaking-and-notices/" class="fusion-background-highlight"><span>Federal Rulemaking &amp; Notices</span></a></li><li id="menu-item-2167" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2167 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/legislative-updates-alerts/" class="fusion-background-highlight"><span>Legislative Updates &amp; Alerts</span></a></li><li id="menu-item-19650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19650 fusion-dropdown-submenu"><a href="https://cfte.org/" class="fusion-background-highlight" onclick="javascript:window.open('https://cfte.org/'); return false;"><span>Center for Transportation Excellence</span></a></li><li id="menu-item-12639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12639 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/letters/" class="fusion-background-highlight"><span>Letters</span></a></li><li id="menu-item-4381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4381 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/research-reports/" class="fusion-background-highlight"><span>Research Reports</span></a></li><li id="menu-item-22610" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22610 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/public-transportation-facts/" class="fusion-background-highlight"><span>Public Transit Facts</span></a></li></ul></li><li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20 fusion-dropdown-menu" data-item-id="20"><a href="/research-technical-resources" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/research-technical-resources'); return false;"><span class="menu-text">Research &amp; Technical Resources</span></a><ul role="menu" class="sub-menu"><li id="menu-item-4281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4281 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/aptau/" class="fusion-background-highlight"><span>APTAU</span></a></li><li id="menu-item-3083" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3083 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/research-reports/" class="fusion-background-highlight"><span>Research Reports</span></a></li><li id="menu-item-3382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3382 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/transit-statistics/" class="fusion-background-highlight"><span>Transit Statistics</span></a></li><li id="menu-item-3380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3380 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/tcrp/" class="fusion-background-highlight"><span>Transit Cooperative Research  Program (TCRP)</span></a></li><li id="menu-item-3060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3060 fusion-dropdown-submenu"><a href="/research-technical-resources/industry-footprint/" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/industry-footprint/'); return false;"><span>Industry Footprint</span></a></li><li id="menu-item-11546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11546 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/mobility-innovation-hub/" class="fusion-background-highlight"><span>Mobility Innovation Hub</span></a></li><li id="menu-item-12111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12111 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/my-economic-impact-tool/" class="fusion-background-highlight"><span>Economic Impact Tool</span></a></li><li id="menu-item-6742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6742 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/safety-security/safety-management-resource-center/" class="fusion-background-highlight"><span>Safety</span></a></li><li id="menu-item-6741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6741 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/safety-security/security-resources/" class="fusion-background-highlight"><span>Security and Emergency Management</span></a></li><li id="menu-item-8637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8637 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/standards/" class="fusion-background-highlight"><span>Standards</span></a></li><li id="menu-item-3059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3059 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/high-speed-passenger-rail/" class="fusion-background-highlight"><span>High-Speed Passenger Rail</span></a></li><li id="menu-item-3320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3320 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/sustainability/" class="fusion-background-highlight"><span>Sustainability</span></a></li><li id="menu-item-4373" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4373 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/key-issues/" class="fusion-background-highlight"><span>Key Issues</span></a></li><li id="menu-item-4379" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4379 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/member-benefits/peer-review/" class="fusion-background-highlight"><span>Peer Review</span></a></li><li id="menu-item-3381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3381 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/public-transportation-links/" class="fusion-background-highlight"><span>Transit Links by State</span></a></li></ul></li><li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21 fusion-dropdown-menu" data-item-id="21"><a href="/news-publications" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/news-publications'); return false;"><span class="menu-text">News &amp; Publications</span></a><ul role="menu" class="sub-menu"><li id="menu-item-3481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3481 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/passenger-transport/" class="fusion-background-highlight"><span>Passenger Transport</span></a></li><li id="menu-item-6712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6712 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/press-releases/" class="fusion-background-highlight"><span>Recent Press Releases</span></a></li><li id="menu-item-4380" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4380 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/research-reports/" class="fusion-background-highlight"><span>Research Reports</span></a></li><li id="menu-item-22609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22609 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/public-transportation-facts/" class="fusion-background-highlight"><span>Public Transit Facts</span></a></li></ul></li><li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22 fusion-dropdown-menu" data-item-id="22"><a href="/member-resources" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/member-resources'); return false;"><span class="menu-text">Member Resources</span></a><ul role="menu" class="sub-menu"><li id="menu-item-3484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3484 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/member-benefits/" class="fusion-background-highlight"><span>Member Benefits</span></a></li><li id="menu-item-17396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17396 fusion-dropdown-submenu"><a href="https://www.aptaconnect.com/home" class="fusion-background-highlight" onclick="javascript:window.open('https://www.aptaconnect.com/home'); return false;"><span>APTAconnect</span></a></li><li id="menu-item-3482" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3482 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/committees/" class="fusion-background-highlight"><span>Committees</span></a></li><li id="menu-item-3483" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3483 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/international-programs/" class="fusion-background-highlight"><span>International Programs &amp; Partners</span></a></li><li id="menu-item-4378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4378 fusion-dropdown-submenu"><a rel="noopener noreferrer" href="https://www.aptaconnect.com/member-directory" class="fusion-background-highlight" onclick="javascript:window.open('https://www.aptaconnect.com/member-directory'); return false;"><span>Member Directory</span></a></li><li id="menu-item-23379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23379 fusion-dropdown-submenu"><a href="https://www.aptagateway.com/eWeb/DynamicPage.aspx?Webcode=mbrOrgSrch2&amp;action=add" class="fusion-background-highlight" onclick="javascript:window.open('https://www.aptagateway.com/eWeb/DynamicPage.aspx?Webcode=mbrOrgSrch2&amp;action=add'); return false;"><span>Member Organization Directory</span></a></li><li id="menu-item-3485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3485 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/member-information/" class="fusion-background-highlight"><span>Member Information</span></a></li><li id="menu-item-3486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3486 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/recognition-programs/" class="fusion-background-highlight"><span>Recognition Programs</span></a></li></ul></li></ul></nav><nav class="fusion-main-menu fusion-sticky-menu" aria-label="Main Menu Sticky"><ul id="menu-main-1" class="fusion-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18 fusion-dropdown-menu" data-item-id="18"><a href="/conferences-events" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/conferences-events'); return false;"><span class="menu-text">Events</span></a><ul role="menu" class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12296 fusion-dropdown-submenu"><a href="/conferences-events" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/conferences-events'); return false;"><span>2019 Meetings &amp; Conferences</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2972 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/future-meetings/" class="fusion-background-highlight"><span>2020 &amp; Future Meetings</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14043 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/aptau/learning-and-development/webinars/" class="fusion-background-highlight"><span>Webinars</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4364 fusion-dropdown-submenu"><a rel="noopener noreferrer" href="http://www.aptaexpo.com/" class="fusion-background-highlight" onclick="javascript:window.open('http://www.aptaexpo.com/'); return false;"><span>EXPO</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2973 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/previous/" class="fusion-background-highlight"><span>Previous Meetings</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2638 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/call-for-abstracts/" class="fusion-background-highlight"><span>Call For Abstracts</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4370 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/industry-events/" class="fusion-background-highlight"><span>Industry Events</span></a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-19 fusion-dropdown-menu" data-item-id="19"><a href="/advocacy-legislation-policy" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/advocacy-legislation-policy'); return false;"><span class="menu-text">Advocacy, Legislation, &amp; Policy</span></a><ul role="menu" class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1928 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/advocacy/" class="fusion-background-highlight"><span>Advocacy</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12640 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/testimonies/" class="fusion-background-highlight"><span>Congressional Testimonies</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1926 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/federal-legislative-issues/" class="fusion-background-highlight"><span>Federal Legislative Issues</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2052 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/federal-rulemaking-and-notices/" class="fusion-background-highlight"><span>Federal Rulemaking &amp; Notices</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2167 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/legislative-updates-alerts/" class="fusion-background-highlight"><span>Legislative Updates &amp; Alerts</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19650 fusion-dropdown-submenu"><a href="https://cfte.org/" class="fusion-background-highlight" onclick="javascript:window.open('https://cfte.org/'); return false;"><span>Center for Transportation Excellence</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12639 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/letters/" class="fusion-background-highlight"><span>Letters</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4381 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/research-reports/" class="fusion-background-highlight"><span>Research Reports</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22610 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/public-transportation-facts/" class="fusion-background-highlight"><span>Public Transit Facts</span></a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20 fusion-dropdown-menu" data-item-id="20"><a href="/research-technical-resources" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/research-technical-resources'); return false;"><span class="menu-text">Research &amp; Technical Resources</span></a><ul role="menu" class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4281 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/aptau/" class="fusion-background-highlight"><span>APTAU</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3083 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/research-reports/" class="fusion-background-highlight"><span>Research Reports</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3382 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/transit-statistics/" class="fusion-background-highlight"><span>Transit Statistics</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3380 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/tcrp/" class="fusion-background-highlight"><span>Transit Cooperative Research  Program (TCRP)</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3060 fusion-dropdown-submenu"><a href="/research-technical-resources/industry-footprint/" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/industry-footprint/'); return false;"><span>Industry Footprint</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11546 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/mobility-innovation-hub/" class="fusion-background-highlight"><span>Mobility Innovation Hub</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12111 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/my-economic-impact-tool/" class="fusion-background-highlight"><span>Economic Impact Tool</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6742 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/safety-security/safety-management-resource-center/" class="fusion-background-highlight"><span>Safety</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6741 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/safety-security/security-resources/" class="fusion-background-highlight"><span>Security and Emergency Management</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8637 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/standards/" class="fusion-background-highlight"><span>Standards</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3059 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/high-speed-passenger-rail/" class="fusion-background-highlight"><span>High-Speed Passenger Rail</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3320 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/sustainability/" class="fusion-background-highlight"><span>Sustainability</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4373 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/key-issues/" class="fusion-background-highlight"><span>Key Issues</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4379 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/member-benefits/peer-review/" class="fusion-background-highlight"><span>Peer Review</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3381 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/public-transportation-links/" class="fusion-background-highlight"><span>Transit Links by State</span></a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21 fusion-dropdown-menu" data-item-id="21"><a href="/news-publications" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/news-publications'); return false;"><span class="menu-text">News &amp; Publications</span></a><ul role="menu" class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3481 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/passenger-transport/" class="fusion-background-highlight"><span>Passenger Transport</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6712 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/press-releases/" class="fusion-background-highlight"><span>Recent Press Releases</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4380 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/research-reports/" class="fusion-background-highlight"><span>Research Reports</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22609 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/public-transportation-facts/" class="fusion-background-highlight"><span>Public Transit Facts</span></a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22 fusion-dropdown-menu" data-item-id="22"><a href="/member-resources" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/member-resources'); return false;"><span class="menu-text">Member Resources</span></a><ul role="menu" class="sub-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3484 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/member-benefits/" class="fusion-background-highlight"><span>Member Benefits</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17396 fusion-dropdown-submenu"><a href="https://www.aptaconnect.com/home" class="fusion-background-highlight" onclick="javascript:window.open('https://www.aptaconnect.com/home'); return false;"><span>APTAconnect</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3482 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/committees/" class="fusion-background-highlight"><span>Committees</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3483 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/international-programs/" class="fusion-background-highlight"><span>International Programs &amp; Partners</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4378 fusion-dropdown-submenu"><a rel="noopener noreferrer" href="https://www.aptaconnect.com/member-directory" class="fusion-background-highlight" onclick="javascript:window.open('https://www.aptaconnect.com/member-directory'); return false;"><span>Member Directory</span></a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23379 fusion-dropdown-submenu"><a href="https://www.aptagateway.com/eWeb/DynamicPage.aspx?Webcode=mbrOrgSrch2&amp;action=add" class="fusion-background-highlight" onclick="javascript:window.open('https://www.aptagateway.com/eWeb/DynamicPage.aspx?Webcode=mbrOrgSrch2&amp;action=add'); return false;"><span>Member Organization Directory</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3485 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/member-information/" class="fusion-background-highlight"><span>Member Information</span></a></li><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3486 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/recognition-programs/" class="fusion-background-highlight"><span>Recognition Programs</span></a></li></ul></li></ul></nav><div class="fusion-mobile-navigation"><ul id="menu-main4mobile" class="fusion-mobile-menu"><li id="menu-item-11280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11280" data-item-id="11280"><a href="https://www.apta.com/about/" class="fusion-background-highlight"><span class="menu-text">About APTA</span></a></li><li id="menu-item-11282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11282" data-item-id="11282"><a href="https://www.apta.com/join-apta/" class="fusion-background-highlight"><span class="menu-text">Join APTA</span></a></li><li id="menu-item-11281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11281" data-item-id="11281"><a href="https://www.apta.com/about/contact/" class="fusion-background-highlight"><span class="menu-text">Contact Us &amp; Directions</span></a></li><li id="menu-item-11237" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11237 fusion-dropdown-menu" data-item-id="11237"><a href="/conferences-events" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/conferences-events'); return false;"><span class="menu-text">Events</span></a><ul role="menu" class="sub-menu"><li id="menu-item-15028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15028 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/" class="fusion-background-highlight"><span>2019 Conferences and Events</span></a></li><li id="menu-item-11239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11239 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/future-meetings/" class="fusion-background-highlight"><span>2020 &amp; Future Meetings</span></a></li><li id="menu-item-14039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14039 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/aptau/learning-and-development/webinars/" class="fusion-background-highlight"><span>Webinars</span></a></li><li id="menu-item-11241" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11241 fusion-dropdown-submenu"><a rel="noopener noreferrer" href="http://www.aptaexpo.com/" class="fusion-background-highlight" onclick="javascript:window.open('http://www.aptaexpo.com/'); return false;"><span>EXPO</span></a></li><li id="menu-item-11240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11240 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/previous/" class="fusion-background-highlight"><span>Previous Meetings</span></a></li><li id="menu-item-11243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11243 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/call-for-abstracts/" class="fusion-background-highlight"><span>Call For Abstracts</span></a></li><li id="menu-item-11244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11244 fusion-dropdown-submenu"><a href="https://www.apta.com/conferences-events/industry-events/" class="fusion-background-highlight"><span>Industry Events</span></a></li></ul></li><li id="menu-item-11245" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11245 fusion-dropdown-menu" data-item-id="11245"><a href="/advocacy-legislation-policy" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/advocacy-legislation-policy'); return false;"><span class="menu-text">Advocacy, Legislation, &amp; Policy</span></a><ul role="menu" class="sub-menu"><li id="menu-item-11246" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11246 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/advocacy/" class="fusion-background-highlight"><span>Advocacy</span></a></li><li id="menu-item-12642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12642 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/testimonies/" class="fusion-background-highlight"><span>Congressional Testimonies</span></a></li><li id="menu-item-11247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11247 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/federal-legislative-issues/" class="fusion-background-highlight"><span>Federal Legislative Issues</span></a></li><li id="menu-item-11248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11248 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/federal-rulemaking-and-notices/" class="fusion-background-highlight"><span>Federal Rulemaking &amp; Notices</span></a></li><li id="menu-item-11249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11249 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/legislative-updates-alerts/" class="fusion-background-highlight"><span>Legislative Updates &amp; Alerts</span></a></li><li id="menu-item-19652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19652 fusion-dropdown-submenu"><a href="https://cfte.org/" class="fusion-background-highlight" onclick="javascript:window.open('https://cfte.org/'); return false;"><span>Center for Transportation Excellence</span></a></li><li id="menu-item-12641" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12641 fusion-dropdown-submenu"><a href="https://www.apta.com/advocacy-legislation-policy/letters/" class="fusion-background-highlight"><span>Letters</span></a></li><li id="menu-item-11250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11250 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/research-reports/" class="fusion-background-highlight"><span>Research Reports</span></a></li><li id="menu-item-22893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22893 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/public-transportation-facts/" class="fusion-background-highlight"><span>Public Transportation Facts</span></a></li></ul></li><li id="menu-item-11252" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11252 fusion-dropdown-menu" data-item-id="11252"><a href="/research-technical-resources" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/research-technical-resources'); return false;"><span class="menu-text">Research &amp; Technical Resources</span></a><ul role="menu" class="sub-menu"><li id="menu-item-11253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11253 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/aptau/" class="fusion-background-highlight"><span>APTAU</span></a></li><li id="menu-item-11258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11258 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/research-reports/" class="fusion-background-highlight"><span>Research Reports</span></a></li><li id="menu-item-11265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11265 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/transit-statistics/" class="fusion-background-highlight"><span>Transit Statistics</span></a></li><li id="menu-item-11263" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11263 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/tcrp/" class="fusion-background-highlight"><span>Transit Cooperative Research  Program (TCRP)</span></a></li><li id="menu-item-11255" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11255 fusion-dropdown-submenu"><a href="/research-technical-resources/industry-footprint/" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/industry-footprint/'); return false;"><span>Industry Footprint</span></a></li><li id="menu-item-13656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13656 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/mobility-innovation-hub/" class="fusion-background-highlight"><span>Mobility Innovation Hub</span></a></li><li id="menu-item-12955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12955 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/my-economic-impact-tool/economic-impact-tool/" class="fusion-background-highlight"><span>Economic Impact Tool</span></a></li><li id="menu-item-11259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11259 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/safety-security/safety-management-resource-center/" class="fusion-background-highlight"><span>Safety</span></a></li><li id="menu-item-11260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11260 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/safety-security/security-resources/" class="fusion-background-highlight"><span>Security and Emergency Management</span></a></li><li id="menu-item-11261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11261 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/standards/" class="fusion-background-highlight"><span>Standards</span></a></li><li id="menu-item-11254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11254 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/high-speed-passenger-rail/" class="fusion-background-highlight"><span>High-Speed Passenger Rail</span></a></li><li id="menu-item-11262" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11262 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/sustainability/" class="fusion-background-highlight"><span>Sustainability</span></a></li><li id="menu-item-11266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11266 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/key-issues/" class="fusion-background-highlight"><span>Key Issues</span></a></li><li id="menu-item-11257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11257 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/member-benefits/peer-review/" class="fusion-background-highlight"><span>Peer Review</span></a></li><li id="menu-item-11264" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11264 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/public-transportation-links/" class="fusion-background-highlight"><span>Transit Links by State</span></a></li></ul></li><li id="menu-item-11267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11267 fusion-dropdown-menu" data-item-id="11267"><a href="/news-publications" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/news-publications'); return false;"><span class="menu-text">News &amp; Publications</span></a><ul role="menu" class="sub-menu"><li id="menu-item-11268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11268 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/passenger-transport/" class="fusion-background-highlight"><span>Passenger Transport</span></a></li><li id="menu-item-11269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11269 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/press-releases/" class="fusion-background-highlight"><span>Recent Press Releases</span></a></li><li id="menu-item-11270" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11270 fusion-dropdown-submenu"><a href="https://www.apta.com/research-technical-resources/research-reports/" class="fusion-background-highlight"><span>Research Reports</span></a></li><li id="menu-item-22892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22892 fusion-dropdown-submenu"><a href="https://www.apta.com/news-publications/public-transportation-facts/" class="fusion-background-highlight"><span>Public Transportation Facts</span></a></li></ul></li><li id="menu-item-11271" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11271 fusion-dropdown-menu" data-item-id="11271"><a href="/member-resources" class="fusion-background-highlight" onclick="javascript:window.open('https://web.archive.org/member-resources'); return false;"><span class="menu-text">Member Resources</span></a><ul role="menu" class="sub-menu"><li id="menu-item-11275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11275 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/member-benefits/" class="fusion-background-highlight"><span>Member Benefits</span></a></li><li id="menu-item-17397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17397 fusion-dropdown-submenu"><a href="https://www.aptaconnect.com/home" class="fusion-background-highlight" onclick="javascript:window.open('https://www.aptaconnect.com/home'); return false;"><span>APTAconnect</span></a></li><li id="menu-item-11273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11273 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/committees/" class="fusion-background-highlight"><span>Committees</span></a></li><li id="menu-item-11274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11274 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/international-programs/" class="fusion-background-highlight"><span>International Programs &amp; Partners</span></a></li><li id="menu-item-11276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11276 fusion-dropdown-submenu"><a rel="noopener noreferrer" href="https://www.aptaconnect.com/member-directory" class="fusion-background-highlight" onclick="javascript:window.open('https://www.aptaconnect.com/member-directory'); return false;"><span>Member Directory</span></a></li><li id="menu-item-23380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23380 fusion-dropdown-submenu"><a href="https://www.aptagateway.com/eWeb/DynamicPage.aspx?Webcode=mbrOrgSrch2&amp;action=add" class="fusion-background-highlight" onclick="javascript:window.open('https://www.aptagateway.com/eWeb/DynamicPage.aspx?Webcode=mbrOrgSrch2&amp;action=add'); return false;"><span>Member Organization Directory</span></a></li><li id="menu-item-11272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11272 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/member-information/" class="fusion-background-highlight"><span>Member Information</span></a></li><li id="menu-item-11278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11278 fusion-dropdown-submenu"><a href="https://www.apta.com/member-resources/recognition-programs/" class="fusion-background-highlight"><span>Recognition Programs</span></a></li></ul></li></ul></div>
+<nav class="fusion-mobile-nav-holder fusion-mobile-menu-text-align-left" aria-label="Main Menu Mobile"></nav>
+
+	<nav class="fusion-mobile-nav-holder fusion-mobile-menu-text-align-left fusion-mobile-sticky-nav-holder" aria-label="Main Menu Mobile Sticky"></nav>
+			
+<div class="fusion-clearfix"></div>
+<div class="fusion-mobile-menu-search">
+	<form role="search" class="searchform fusion-search-form fusion-live-search" method="get" action="https://www.apta.com/">
+	<div class="fusion-search-form-content">
+		<div class="fusion-search-field search-field">
+			<label><span class="screen-reader-text">Search for:</span>
+									<input type="search" value="" name="s" class="s" placeholder="Search ..." required="" aria-required="true" aria-label="Search ...">
+							</label>
+		</div>
+		<div class="fusion-search-button search-button">
+			<input type="submit" class="fusion-search-submit searchsubmit" value="">
+					</div>
+	</div>
+	</form>
+</div>
+		</div>
+	</div>
+</div> <!-- end fusion sticky header wrapper -->
+				</div>
+				<div class="fusion-clearfix"></div>
+			</header>
+						
+			
+		<div id="sliders-container">
+					</div>
+				
+			
+			<div class="avada-page-titlebar-wrapper">
+				<div class="fusion-page-title-bar fusion-page-title-bar-none fusion-page-title-bar-right">
+	<div class="fusion-page-title-row">
+		<div class="fusion-page-title-wrapper">
+
+												<div class="fusion-page-title-secondary">
+						<div class="fusion-breadcrumbs" itemscope="" itemtype="https://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><a itemprop="item" href="https://www.apta.com"><span itemprop="name">Home</span></a><meta itemprop="position" content="1"></span><span class="fusion-breadcrumb-sep">/</span><span itemprop="itemListElement" itemscope="" itemtype="https://schema.org/ListItem"><span itemprop="name" class="breadcrumb-leaf">Privacy Policy</span><meta itemprop="position" content="2"></span></div>					</div>
+							
+			<div class="fusion-page-title-captions">
+
+				
+																			<h1 class="entry-title">Privacy Policy</h1>
+
+									
+			</div>
+
+		</div>
+	</div>
+</div>
+			</div>
+
+						<main id="main" class="clearfix ">
+				<div class="fusion-row" style="">
+<section id="content" style="width: 100%;">
+					<div id="post-3" class="post-3 page type-page status-publish hentry">
+			<span class="entry-title rich-snippet-hidden">Privacy Policy</span><span class="vcard rich-snippet-hidden"><span class="fn"><a href="https://www.apta.com/author/aptaadmin/" title="Posts by APTAAdmin" rel="author">APTAAdmin</a></span></span><span class="updated rich-snippet-hidden">2019-01-18T11:48:28-05:00</span>
+			
+			<div class="post-content">
+				<div class="pf-content"><h1>American Public Transportation Association Privacy Policy</h1>
+<div>
+<div>
+<p>APTA values your privacy. This privacy policy (Policy) describes the information we collect when you become a member of APTA and/or purchase goods/services from APTA.&nbsp; This policy sets out how we use, disclose, and protect this information. This policy also tells you about rights and choices you may have with respect to your information, and how you can reach us to update your information or get answers to questions you may have about our privacy practices. Your access and use of our website indicates your consent to the terms of this policy and our Terms of Use.</p>
+<p><strong>Information We Collect and You Provide</strong></p>
+<p>To be an APTA member or purchase goods/services from APTA, we require you to provide us with certain information, including: (1) your name, location, and your contact information (such as your e-mail address, phone number, billing and physical address); and (2) payment information (such as your credit or debit card number, bank account routing number, and billing and shipping address). If you communicate with us by, for example, e-mail, telephone, online form, any information voluntarily provided in such communication may be collected. Note, when you become a member of APTA or purchase goods/services from APTA, our payment processor directly collects and processes the payment information that you provide, as necessary to complete your membership/purchase.</p>
+<p><strong>Company Information</strong></p>
+<p>In order to be an APTA member or purchase good/services from APTA, we may ask you to provide information about your company, which includes, but is not limited to: company name, company address, billing and payment information, location, team size, budget, payment information (e.g. payment number and invoice details), and currency.</p>
+<p><strong>Account Administrators</strong></p>
+<p>In some cases, APTA members can assign several levels of administrative access to their personnel that use our APTA website. You should be aware that certain user roles include heightened privileges with an account on our website and may be able to access, view, and edit your information, as needed to perform their functions. For example, some users can enter information on behalf of their fellow team members, access, edit, or otherwise change information on the account. In addition, some users may have the ability to view information about team members without the ability to edit or change the information.</p>
+<p><strong>Information We Receive from Third Parties</strong></p>
+<p>In order to support your APTA membership or purchase of good/services, we may also collect information about you from credit card processors, sales, and housing bureau third party partners and combine it with other information we collect from you.</p>
+<p><strong>Automatically Collected Information</strong></p>
+<p>We automatically collect information when you become an APTA member or purchase goods/services from APTA. We may also track user activity (e.g. pages visited and meeting attended) and use cookies and other tracking technologies. Cookies are small text files that web servers place on your device; they are designed to store basic information and to help websites and applications recognize a browser. Cookies help us track and target the interests of our members to enhance their experience with our association. We use IP address to derive your approximate location. We work with analytics providers such as Google Analytics, which use cookies and similar technologies to collect and analyze information about use of the website and report on activities, trends, and demographics. You can learn about Google’s practices by going to&nbsp;<a href="http://www.google.com/policies/privacy/partners/" onclick="javascript:window.open('http://www.google.com/policies/privacy/partners/'); return false;">www.google.com/policies/privacy/partners/</a>, and opt out of them by downloading the Google Analytics opt-out browser add-on, available at&nbsp;<a href="http://tools.google.com/dlpage/gaoptout" onclick="javascript:window.open('http://tools.google.com/dlpage/gaoptout'); return false;">tools.google.com/dlpage/gaoptout</a>. For information about how to opt-out of certain use of cookies and other technologies, please see the Your Rights and Choices section below.</p>
+<p><strong>How We Use Information</strong></p>
+<p>We may use the information we collect for various purposes, including:</p>
+<blockquote><p><em>Providing &amp; Improving Our Services</em></p>
+<p>When you become an APTA member or purchase goods/services from APTA, we use the information you provide to create and maintain your account. The information we collect also helps us improve, enhance, personalize, and promote our association.</p>
+<p><em>Communications</em></p>
+<p>We will communicate with you if you’ve provided us the means to do so. For example, if you’ve provided your phone number, we may call you to discuss association activities/events, to the extent permitted under applicable law. If you’ve given us your email address, we may send you promotional email offers or email you about APTA events, to the extent permitted under applicable law. If you do not want to receive promotional emails from us, please indicate your preference by opting-out via the links provided in the emails. Note, that if you opt-out of receiving our promotional emails, you may still receive transactional emails from us.</p>
+<p><em>Legal</em></p>
+<p>We reserve the right to access, use, preserve, transfer, or disclose, at any time without notice to you, any information as reasonably necessary to: (1) comply with any applicable law, regulation, subpoena, or legal process, or respond to any governmental requests or regulatory investigation and to cooperate with law enforcement, if we believe such action is required or permitted by law; (2) enforce this Policy or our Terms of Use, including investigating any potential violations; (3) protect the safety, integrity, rights, or security of our users, our Services or equipment, or any third party; or (4) detect, prevent, or otherwise address fraud, security, or technical issues related to APTA.</p>
+<p><em>Data Analyses</em></p>
+<p>We may also perform data analyses (including anonymization of personal information).</p>
+<p><em>Business Purposes</em></p>
+<p>We may process personal information in connection with prospective service engagements, partnerships or vendor relationships.</p>
+<p><em>Data Controller and Processor</em></p>
+<p>Note that when we collect personal information provided by our members or when a good/service is purchased, we are a data controller and we collect personal information for very limited purposes.&nbsp; In addition, we often use third-party vendors to process personal information and we have contracts in place requiring those data processors to protect your personal information consistent with this policy.</p></blockquote>
+<div><strong>How We Disclose Information</strong></div>
+<div><b><br>
+</b>We may disclose the information we collect, including in the following ways:</div>
+<blockquote>
+<div>
+<p><em>Affiliates &amp; Partners</em></p>
+</div>
+<div>
+<p>We may share your information with other APTA members and other APTA affiliates and subsidiaries, on a limited basis as is reasonably necessary or desirable for us to disclose your information in order to carry out the above-mentioned information processing purposes.</p>
+<p><em>Service providers</em></p>
+</div>
+<div>
+<p>We employ credit card processors, sales, and a housing bureau service provider to perform tasks on our behalf when providing the services to our members. We do not authorize these service providers to use or disclose the data except as necessary to perform tasks on APTA’s behalf or comply with legal requirements. If you would like to review a list of the third-party services used to support APTA, please see our sub processors list.</p>
+<p><em>Analytics</em></p>
+</div>
+<div>
+<p>In addition, our third-party analytics vendors may set and access their own cookies, pixel tags and similar technologies to collect or have access to information about you which they may collect over time and across different websites, to provide us with aggregate information.</p>
+</div>
+</blockquote>
+<div>
+<p><strong>Legal/Protection</strong></p>
+<p>We reserve the right to access, read, preserve, and disclose any information that we reasonably believe is necessary to comply with law or court order; enforce or apply this Policy or our Terms of Use and other agreements; or protect the rights, property, or safety of APTA, our employees, our users, or others.</p>
+<p><strong>Aggregate Data</strong></p>
+<p>We may de-identify your information and process and share it in an anonymous and aggregated form for purposes in addition to those described above. For example, we may share aggregate reports about business metrics.</p>
+<p><strong>Your Rights and Choices</strong></p>
+<p>You may update your preferences, ask us to remove your information from our mailing lists, delete your membership account, submit a request to exercise your rights available under applicable law, or express your concern about the use of your information at any time. To do so, please contact us via the email address or phone number provided below in the Contact Us section. Additionally, you may choose not to provide information to us. However, if you do not provide information when requested, you may not be able to benefit from APTA membership or purchases from APTA as the information may be necessary to provide you with the services or we may be legally required to collect it in the context of the APTA membership. Please note that if you cease being an APTA member, we will terminate your access to all APTA member services and you may no longer have the ability to access or update your information.</p>
+<p><strong>Tracking</strong></p>
+<p>Many web browsers allow you to manage your preferences relating to cookies. You may be able to adjust your browser to manage cookies using your browser’s preferences, however, if you choose to block cookies, doing so may impair the use of APTA services.</p>
+<p><strong>GDPR Rights for EU Individuals</strong></p>
+<p>Pursuant to the EU General Data Protection Regulations, we may obtain your opt-in consent at the time of collection for the processing of certain information for direct marketing purposes or to use cookies and similar tracking technologies. If we rely on consent for the processing of your information, you may have the right to withdraw your consent at any time and, when you do so, this will not affect the lawfulness of the processing before your consent withdrawal. Under certain jurisdictions, you may have the right to request access to and receive information about the information we maintain about you, to update and correct inaccuracies in your information, to restrict or to object to the processing of your information, have the information deleted, or to exercise your right to data portability, as appropriate. Those rights may be limited in some circumstances by local law requirements. In addition to the above-mentioned rights, you have the right to lodge a complaint with a competent EU supervisory authority subject to applicable law. Please refer to&nbsp;<a href="http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm" onclick="javascript:window.open('http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm'); return false;">http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm</a>&nbsp;if you would like to locate the appropriate Data Protect Authority.</p>
+<p><strong>Security</strong></p>
+<p>We are committed to protecting your information. We seek to use reasonable organizational, technical, and administrative measures to protect information within our organization. We also take measures to delete your personal information or keep it in a form that does not permit identifying you when this information is no longer necessary for the purposes for which we process it or when you request their deletion. Unfortunately, no data transmission or storage system can be guaranteed to be 100 percent secure. Your password protects your user account, so you should use a unique and strong password, limit access to your computer and browser, and log out after having used our website. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the Contact Us section below.</p>
+<p>Please note requests to delete or remove your information do not necessarily ensure complete or comprehensive removal of the content or information posted and removed information may persist in backup copies indefinitely. Please note that if you choose to delete your information or opt-out of the collection and use of your information, you understand that certain features, including but not limited to access to the Services, may no longer be available to you.</p>
+<p>We may store the information we collect about you indefinitely, but information generally will be retained only for as long as necessary to fulfill the purposes for which the information was collected, or as other required by law.&nbsp; Following termination or deactivation of an APTA membership, APTA may retain your information and content for backup, archival, and audit purposes.</p>
+<p><strong>Children</strong></p>
+<p>APTA membership and services are not directed to children under the age of 16. We do not knowingly collect personal information from children under 16.</p>
+<p><strong>Updates to this Policy</strong></p>
+<p>From time to time we may, in our discretion, make changes to this Policy. The “Last Updated” date at the top of this page indicates when this Privacy Policy was last revised. If we make material changes, we may notify you by sending you an email or other communication. We encourage you to read this Privacy Policy periodically to stay up-to-date about our privacy practices. Your continued membership in APTA or the purchases of goods/services from APTA after we have updated this Policy constitutes your acceptance of the changes.</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have questions about this Policy please contact us:</p>
+<p>American Public Transportation Association<br>
+1300 I Street NW, Suite 1200<br>
+Washington, D.C. 20005<br>
+202.496-4800<br>
+<a href="mailto:memberservices@apta.com">memberservices@apta.com​</a></p>
+<p>&nbsp;</p>
+<p><strong>APTA Privacy Shield Policy for EU &amp; Swiss Personal Data Transferred to the U.S.</strong></p>
+<p>APTA will comply with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield (the “Frameworks”) as set forth by the U.S. Department of Commerce regarding the processing of Personal Information (as defined below) that is transferred from the European Economic Area (“EEA”) and Switzerland to the United States, respectively. APTA created this Privacy Shield Policy to help you learn about how we handle Personal Information that is collected in the EEA and Switzerland and transferred to APTA in the U.S.</p>
+<p>If there is any conflict between this Policy and the Principles, the Principles will govern. To learn more about the Frameworks please visit&nbsp;<a href="http://www.privacyshield.gov/" onclick="javascript:window.open('http://www.privacyshield.gov/'); return false;">www.privacyshield.gov</a>. This Privacy Shield Policy supplements our Privacy Policy above. Capitalized terms used in this Privacy Shield Policy have the meaning given to them by our Privacy Policy, unless specifically defined in this Policy.</p>
+<p>APTA is subject to the jurisdiction and enforcement authority of the US Federal Trade Commission in relation to the EU and Swiss data we handle under the Privacy Shield.</p>
+<p><strong>How we Obtain Personal Information</strong></p>
+<p>We obtain and process Personal Information in different capacities.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As a data controller, we collect and process EEA Personal Information directly from individuals, either via our publicly available websites, including www.apta.com, or in connection with our customer, partner, and vendor relationships.</p>
+<p>We commit to be subject to the Principles received from the EEA and Switzerland in reliance on the Frameworks.</p>
+<p><strong>Personal Information Received from the European Economic Area and Switzerland</strong></p>
+<p>We may receive from the EEA and Switzerland some or all of the information listed in our Privacy Policy. Some of that information may qualify as “personal information” or “personal data” (collectively, “Personal Information”) as defined in the Frameworks.</p>
+<p><b>Access</b></p>
+<p>Pursuant to the Privacy Shield Frameworks EEA and Swiss individuals have access to their personally identifying data we hold. Individuals wishing to exercise this right may do so by contacting memberservices@apta.com.</p>
+<p><strong>Data Integrity and Purpose Limitation</strong></p>
+<p>We may use the Personal Information we receive from the EEA and Switzerland for the purposes set forth in our Privacy Policy or as you may otherwise be notified. We take reasonable steps to ensure that the Personal Information we process is relevant and reliable for its intended use, accurate, complete, and current to the extent necessary for the purposes for which we use the Personal Information. We will not process Personal Information in a way that is incompatible with the purposes for which it has been collected or subsequently authorized by you. We will adhere to the Principles for as long as we retain the Personal Information collected under the Frameworks.</p>
+<p><strong>Onward Transfers</strong></p>
+<p>Our Privacy Policy describes the types of third parties that we may disclose your Personal information to, and the purposes of such disclosures. If we disclose your Personal Information to a third party acting as a data processor, we will comply with, and protect the Personal Information as provided in, the Accountability for Onward Transfer Principle. We remain responsible for the processing of Personal Information received under the Frameworks and subsequently transferred to a third party acting as an agent if the agent processes such Personal Information in a manner inconsistent with the Principles, unless we prove that we are not responsible for the event giving rise to the damage. We may be required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</p>
+<p><strong>Choice</strong></p>
+<p>You may choose to change your Personal Information or cancel your APTA membership by contacting us using the contact details below. You can also unsubscribe from our marketing communications by following the instructions or unsubscribe mechanism in the e-mail message. If we intend to use your Personal Information for a purpose that is materially different from the purposes listed in this policy or our Privacy Policy, or if we intend to disclose it to a third party acting as a data processor not previously identified, we will offer you the opportunity to opt-out of such uses and/or disclosures where it involves non-sensitive information or opt-in where sensitive information is involved.</p>
+<p><strong>Recourse and Enforcement</strong></p>
+<p>In compliance with the Privacy Shield Principles,&nbsp;APTA&nbsp;commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to Privacy Shield. European Union and/or Swiss individuals with Privacy Shield inquiries or complaints should first contact&nbsp;APTA&nbsp;&nbsp;by referring to the contact information at the end of this policy.</p>
+<p>APTA&nbsp;has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to an independent dispute resolution mechanism, the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit&nbsp;<a href="https://www.bbb.org/EU-privacy-shield/for-eu-consumers/" onclick="javascript:window.open('https://www.bbb.org/EU-privacy-shield/for-eu-consumers/'); return false;">www.bbb.org/EU-privacy-shield/for-eu-consumers</a>&nbsp; for more information and to file a complaint. This service is provided free of charge to you.</p>
+<p>If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms.&nbsp; See Privacy Shield Annex 1 at&nbsp;<a href="https://www.privacyshield.gov/article?id=ANNEX-I-introduction" onclick="javascript:window.open('https://www.privacyshield.gov/article?id=ANNEX-I-introduction'); return false;">https://www.privacyshield.gov/article?id=ANNEX-I-introduction</a>:</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have questions, concerns, or complaints about this Privacy Shield Policy or our privacy practices, please contact us.</p>
+<p>American Public Transportation Association<br>
+1300 I Street NW, Suite 1200<br>
+Washington, D.C. 20005<br>
+202.496-4800<br>
+<a href="mailto:memberservices@apta.com">memberservices@apta.com</a></p>
+</div>
+</div>
+</div>
+<div class="printfriendly pf-alignleft"><a href="#" style="outline:none;" rel="nofollow" onclick="window.print();if(typeof(_gaq) != 'undefined') { _gaq.push(['_trackEvent','PRINTFRIENDLY', 'print', 'NULL']);
+          }else if(typeof(ga) != 'undefined') {  ga('send', 'event','PRINTFRIENDLY', 'print', 'NULL'); } return false;" class="noslimstat" title="Printer Friendly, PDF &amp; Email"><img src="https://www.apta.com/wp-content/uploads/ops/icon-print-pdf.png" alt="Print Friendly, PDF &amp; Email" style="display: inline"></a></div></div>							</div>
+																													</div>
+	</section>
+					
+				</div>  <!-- fusion-row -->
+			</main>  <!-- #main -->
+
+			<div id="apta-subfooter" class="fusion-fullwidth fullwidth-box apta-subfooter nonhundred-percent-fullwidth non-hundred-percent-height-scrolling fusion-equal-height-columns" style="background-color: rgba(255,255,255,0);background-position: center center;background-repeat: no-repeat;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px;">
+				<div class="fusion-builder-row fusion-row ">
+					<div class="fusion-layout-column fusion_builder_column fusion_builder_column_1_5  fusion-one-fifth fusion-column-first 1_5" style="margin-top:0px;margin-bottom:20px;width:20%;width:calc(20% - ( ( 4% + 4% ) * 0.2 ) );margin-right: 4%;">
+						<div class="fusion-column-wrapper" style="padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; min-height: 152px; height: auto;" data-bg-url="">
+							<span style="max-width:213px;" class="fusion-imageframe imageframe-none imageframe-5 hover-type-none"><img src="/wp-content/uploads/apta-logo1b.png" width="400" height="220" alt="APTA Logo" title="APTA Logo" class="img-responsive wp-image-15" srcset="/wp-content/uploads/apta-logo1b-200x110.png 200w, /wp-content/uploads/apta-logo1b.png 400w" sizes="(max-width: 800px) 100vw, 400px"></span>
+							<div class="fusion-clearfix"></div>
+
+						</div>
+					</div>
+					<div class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth apta-subfooter-address 2_5" style="margin-top:0px;margin-bottom:0px;width:40%;width:calc(40% - ( ( 4% + 4% ) * 0.4 ) );margin-right: 4%;">
+						<div class="fusion-column-wrapper" style="border-left: 1px solid rgb(128, 128, 128); padding: 0px 0px 0px 60px; background-position: left top; background-repeat: no-repeat; background-size: cover; min-height: 152px; height: auto;" data-bg-url="">
+							<div class="fusion-text">
+								<p>1300 I Street NW<br>
+									Suite 1200 East<br>
+									Washington, DC 20005<br>
+									Telephone:&nbsp;(202) 496-4800<br>
+									Fax:&nbsp;(202) 496-4324</p>
+							</div>
+							<div class="fusion-clearfix"></div>
+
+						</div>
+					</div>
+					<div class="fusion-layout-column fusion_builder_column fusion_builder_column_2_5  fusion-two-fifth fusion-column-last 2_5" style="margin-top:0px;margin-bottom:20px;width:40%;width:calc(40% - ( ( 4% + 4% ) * 0.4 ) );">
+						<div class="fusion-column-wrapper" style="padding: 0px; background-position: left top; background-repeat: no-repeat; background-size: cover; min-height: 152px; height: auto;" data-bg-url="">
+							<div class="fusion-column-content-centered" style="min-height: 152px; height: auto;">
+								<div class="fusion-column-content">
+									<div class="fusion-button-wrapper fusion-aligncenter">
+										<style type="text/css" scoped="scoped">
+											.fusion-button.button-1 .fusion-button-text,
+											.fusion-button.button-1 i {
+												color: #ffffff;
+											}
+
+											.fusion-button.button-1 .fusion-button-text {
+												text-transform: none;
+											}
+
+											.fusion-button.button-1 {
+												border-width: 0px;
+												border-color: #ffffff;
+											}
+
+											.fusion-button.button-1 .fusion-button-icon-divider {
+												border-color: #ffffff;
+											}
+
+											.fusion-button.button-1:hover .fusion-button-text,
+											.fusion-button.button-1:hover i,
+											.fusion-button.button-1:focus .fusion-button-text,
+											.fusion-button.button-1:focus i,
+											.fusion-button.button-1:active .fusion-button-text,
+											.fusion-button.button-1:active {
+												color: #ffffff;
+											}
+
+											.fusion-button.button-1:hover,
+											.fusion-button.button-1:focus,
+											.fusion-button.button-1:active {
+												border-width: 0px;
+												border-color: #ffffff;
+											}
+
+											.fusion-button.button-1:hover .fusion-button-icon-divider,
+											.fusion-button.button-1:hover .fusion-button-icon-divider,
+											.fusion-button.button-1:active .fusion-button-icon-divider {
+												border-color: #ffffff;
+											}
+
+											.fusion-button.button-1 {
+												background: #7a003c;
+											}
+
+											.fusion-button.button-1:hover,
+											.button-1:focus,
+											.fusion-button.button-1:active {
+												background: #650032;
+											}
+
+											.fusion-button.button-1 {
+												width: auto;
+											}
+										</style><a class="fusion-button button-flat fusion-button-pill button-large button-custom button-1" href="/about/general-info/logo-usage/" onclick="javascript:window.open('https://web.archive.org/about/general-info/logo-usage/'); return false;"><span class="fusion-button-text">Logo Usage</span></a>
+										<a class="fusion-button button-flat fusion-button-pill button-large button-custom button-1" href="/privacy-policy/" onclick="javascript:window.open('https://web.archive.org/privacy-policy/'); return false;"><span class="fusion-button-text">Privacy Policy</span></a>
+									</div>
+								</div>
+							</div>
+							<div class="fusion-clearfix"></div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+
+			
+			
+			
+										
+				<div class="fusion-footer">
+						
+	<footer class="fusion-footer-widget-area fusion-widget-area">
+		<div class="fusion-row">
+			<div class="fusion-columns fusion-columns-5 fusion-widget-area">
+				
+																									<div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+							<section id="avada-vertical-menu-widget-2" class="widget-odd widget-last widget-first widget-1 fusion-footer-widget-column widget avada_vertical_menu" style="background-color: rgba(255,255,255,0);"><h4 class="widget-title">Events</h4><style>#avada-vertical-menu-widget-2 ul.menu li a {font-size:18px;}#avada-vertical-menu-widget-2 > ul.menu { margin-top: -8px; }</style><nav id="avada-vertical-menu-widget-2" class="fusion-vertical-menu-widget fusion-menu hover left no-border" aria-label="Secondary Navigation: Events"><ul id="menu-footer-1" class="menu"><li id="menu-item-14392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14392"><a href="/conferences-events" onclick="javascript:window.open('https://web.archive.org/conferences-events'); return false;"><span class="link-text">2019 Meetings &amp; Conferences</span><span class="arrow"></span></a></li><li id="menu-item-38" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-38"><a href="/conferences-events/future-meetings/" onclick="javascript:window.open('https://web.archive.org/conferences-events/future-meetings/'); return false;"><span class="link-text">2020 &amp; Future Meetings</span><span class="arrow"></span></a></li><li id="menu-item-42" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-42"><a href="/research-technical-resources/aptau/learning-and-development/webinars/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/aptau/learning-and-development/webinars/'); return false;"><span class="link-text">Webinars</span><span class="arrow"></span></a></li><li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-39"><a rel="noopener noreferrer" href="https://www.aptaexpo.com/apta2017/public/enter.aspx" onclick="javascript:window.open('https://www.aptaexpo.com/apta2017/public/enter.aspx'); return false;"><span class="link-text">EXPO</span><span class="arrow"></span></a></li><li id="menu-item-41" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-41"><a href="/conferences-events/previous/" onclick="javascript:window.open('https://web.archive.org/conferences-events/previous/'); return false;"><span class="link-text">Previous Meetings</span><span class="arrow"></span></a></li><li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="/conferences-events/call-for-abstracts/" onclick="javascript:window.open('https://web.archive.org/conferences-events/call-for-abstracts/'); return false;"><span class="link-text">Call for Abstracts</span><span class="arrow"></span></a></li><li id="menu-item-43" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43"><a href="/conferences-events/industry-events/" onclick="javascript:window.open('https://web.archive.org/conferences-events/industry-events/'); return false;"><span class="link-text">Industry Events</span><span class="arrow"></span></a></li></ul></nav><div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+							<section id="avada-vertical-menu-widget-3" class="widget-odd widget-last widget-first widget-1 fusion-footer-widget-column widget avada_vertical_menu" style="background-color: rgba(255,255,255,0);"><h4 class="widget-title">Advocacy, Legislation, &amp; Policy</h4><style>#avada-vertical-menu-widget-3 ul.menu li a {font-size:18px;}#avada-vertical-menu-widget-3 > ul.menu { margin-top: -8px; }</style><nav id="avada-vertical-menu-widget-3" class="fusion-vertical-menu-widget fusion-menu hover left no-border" aria-label="Secondary Navigation: Advocacy, Legislation, &amp; Policy"><ul id="menu-footer-2" class="menu"><li id="menu-item-50" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-50"><a href="/advocacy-legislation-policy/advocacy/" onclick="javascript:window.open('https://web.archive.org/advocacy-legislation-policy/advocacy/'); return false;"><span class="link-text">Advocacy</span><span class="arrow"></span></a></li><li id="menu-item-45" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-45"><a href="/advocacy-legislation-policy/testimonies/" onclick="javascript:window.open('https://web.archive.org/advocacy-legislation-policy/testimonies/'); return false;"><span class="link-text">Congressional Testimonies</span><span class="arrow"></span></a></li><li id="menu-item-46" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46"><a href="/advocacy-legislation-policy/federal-legislative-issues/" onclick="javascript:window.open('https://web.archive.org/advocacy-legislation-policy/federal-legislative-issues/'); return false;"><span class="link-text">Federal Legislative Issues</span><span class="arrow"></span></a></li><li id="menu-item-49" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-49"><a href="/advocacy-legislation-policy/federal-rulemaking-and-notices/" onclick="javascript:window.open('https://web.archive.org/advocacy-legislation-policy/federal-rulemaking-and-notices/'); return false;"><span class="link-text">Federal Rulemaking &amp; Notices</span><span class="arrow"></span></a></li><li id="menu-item-44" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-44"><a href="/advocacy-legislation-policy/legislative-updates-alerts/" onclick="javascript:window.open('https://web.archive.org/advocacy-legislation-policy/legislative-updates-alerts/'); return false;"><span class="link-text">Legislative Updates &amp; Alerts</span><span class="arrow"></span></a></li><li id="menu-item-12661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12661"><a href="/advocacy-legislation-policy/letters/" onclick="javascript:window.open('https://web.archive.org/advocacy-legislation-policy/letters/'); return false;"><span class="link-text">Letters</span><span class="arrow"></span></a></li><li id="menu-item-48" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48"><a href="/research-technical-resources/research-reports/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/research-reports/'); return false;"><span class="link-text">Reports &amp; Publications</span><span class="arrow"></span></a></li><li id="menu-item-22890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22890"><a href="/public-transportation-facts/" onclick="javascript:window.open('https://web.archive.org/public-transportation-facts/'); return false;"><span class="link-text">Public Transit Facts</span><span class="arrow"></span></a></li></ul></nav><div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+							<section id="avada-vertical-menu-widget-4" class="widget-odd widget-last widget-first widget-1 fusion-footer-widget-column widget avada_vertical_menu" style="background-color: rgba(255,255,255,0);"><h4 class="widget-title">Research &amp; Technical Resources</h4><style>#avada-vertical-menu-widget-4 ul.menu li a {font-size:18px;}#avada-vertical-menu-widget-4 > ul.menu { margin-top: -8px; }</style><nav id="avada-vertical-menu-widget-4" class="fusion-vertical-menu-widget fusion-menu hover left no-border" aria-label="Secondary Navigation: Research &amp; Technical Resources"><ul id="menu-footer-3" class="menu"><li id="menu-item-60" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="/research-technical-resources/aptau/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/aptau/'); return false;"><span class="link-text">APTAU</span><span class="arrow"></span></a></li><li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53"><a href="/research-technical-resources/research-reports/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/research-reports/'); return false;"><span class="link-text">Research Reports</span><span class="arrow"></span></a></li><li id="menu-item-54" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-54"><a href="/research-technical-resources/transit-statistics/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/transit-statistics/'); return false;"><span class="link-text">Transit Statistics</span><span class="arrow"></span></a></li><li id="menu-item-56" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56"><a href="/research-technical-resources/tcrp/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/tcrp/'); return false;"><span class="link-text">TCRP</span><span class="arrow"></span></a></li><li id="menu-item-55" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55"><a href="#"><span class="link-text">Industry Footprint</span><span class="arrow"></span></a></li><li id="menu-item-59" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59"><a href="/research-technical-resources/mobility-innovation-hub/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/mobility-innovation-hub/'); return false;"><span class="link-text">Mobility Innovation Hub</span><span class="arrow"></span></a></li><li id="menu-item-14096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14096"><a href="/research-technical-resources/my-economic-impact-tool/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/my-economic-impact-tool/'); return false;"><span class="link-text">My Economic Impact Tool</span><span class="arrow"></span></a></li><li id="menu-item-14097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14097"><a href="/research-technical-resources/safety-security/safety-management-resource-center/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/safety-security/safety-management-resource-center/'); return false;"><span class="link-text">Safety</span><span class="arrow"></span></a></li><li id="menu-item-14095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14095"><a href="/research-technical-resources/safety-security/security-resources/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/safety-security/security-resources/'); return false;"><span class="link-text">Security and Emergency Management</span><span class="arrow"></span></a></li><li id="menu-item-57" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-57"><a href="/research-technical-resources/standards/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/standards/'); return false;"><span class="link-text">Standards</span><span class="arrow"></span></a></li><li id="menu-item-64" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64"><a href="/research-technical-resources/high-speed-passenger-rail/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/high-speed-passenger-rail/'); return false;"><span class="link-text">High-Speed Passenger Rail</span><span class="arrow"></span></a></li><li id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62"><a href="/research-technical-resources/sustainability/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/sustainability/'); return false;"><span class="link-text">Sustainability</span><span class="arrow"></span></a></li><li id="menu-item-61" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-61"><a href="/research-technical-resources/key-issues/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/key-issues/'); return false;"><span class="link-text">Key Issues</span><span class="arrow"></span></a></li><li id="menu-item-58" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-58"><a href="/member-resources/member-benefits/peer-review/" onclick="javascript:window.open('https://web.archive.org/member-resources/member-benefits/peer-review/'); return false;"><span class="link-text">Peer Reviews</span><span class="arrow"></span></a></li><li id="menu-item-4446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4446"><a href="/research-technical-resources/public-transportation-links/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/public-transportation-links/'); return false;"><span class="link-text">Transit Links by State</span><span class="arrow"></span></a></li></ul></nav><div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column col-lg-2 col-md-2 col-sm-2">
+							<section id="avada-vertical-menu-widget-5" class="widget-odd widget-last widget-first widget-1 fusion-footer-widget-column widget avada_vertical_menu" style="background-color: rgba(255,255,255,0);"><h4 class="widget-title">News &amp; Publications</h4><style>#avada-vertical-menu-widget-5 ul.menu li a {font-size:18px;}#avada-vertical-menu-widget-5 > ul.menu { margin-top: -8px; }</style><nav id="avada-vertical-menu-widget-5" class="fusion-vertical-menu-widget fusion-menu hover left no-border" aria-label="Secondary Navigation: News &amp; Publications"><ul id="menu-footer-4" class="menu"><li id="menu-item-65" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-65"><a href="/news-publications/passenger-transport/" onclick="javascript:window.open('https://web.archive.org/news-publications/passenger-transport/'); return false;"><span class="link-text">Passenger Transport</span><span class="arrow"></span></a></li><li id="menu-item-67" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-67"><a href="/news-publications/press-releases/" onclick="javascript:window.open('https://web.archive.org/news-publications/press-releases/'); return false;"><span class="link-text">Recent Press Releases</span><span class="arrow"></span></a></li><li id="menu-item-68" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-68"><a href="/research-technical-resources/research-reports/" onclick="javascript:window.open('https://web.archive.org/research-technical-resources/research-reports/'); return false;"><span class="link-text">Reports &amp; Publications</span><span class="arrow"></span></a></li><li id="menu-item-22891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22891"><a href="/public-transportation-facts/" onclick="javascript:window.open('https://web.archive.org/public-transportation-facts/'); return false;"><span class="link-text">Public Transit Facts</span><span class="arrow"></span></a></li></ul></nav><div style="clear:both;"></div></section>																					</div>
+																										<div class="fusion-column fusion-column-last col-lg-2 col-md-2 col-sm-2">
+							<section id="avada-vertical-menu-widget-6" class="widget-odd widget-last widget-first widget-1 fusion-footer-widget-column widget avada_vertical_menu" style="background-color: rgba(255,255,255,0);"><h4 class="widget-title">Member Resources</h4><style>#avada-vertical-menu-widget-6 ul.menu li a {font-size:18px;}#avada-vertical-menu-widget-6 > ul.menu { margin-top: -8px; }</style><nav id="avada-vertical-menu-widget-6" class="fusion-vertical-menu-widget fusion-menu hover left no-border" aria-label="Secondary Navigation: Member Resources"><ul id="menu-footer-5" class="menu"><li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a href="/member-resources/member-benefits/" onclick="javascript:window.open('https://web.archive.org/member-resources/member-benefits/'); return false;"><span class="link-text">Member Benefits</span><span class="arrow"></span></a></li><li id="menu-item-73" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-73"><a rel="noopener noreferrer" href="https://www.aptaconnect.com/home" onclick="javascript:window.open('https://www.aptaconnect.com/home'); return false;"><span class="link-text">APTAconnect</span><span class="arrow"></span></a></li><li id="menu-item-72" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-72"><a href="/member-resources/committees/" onclick="javascript:window.open('https://web.archive.org/member-resources/committees/'); return false;"><span class="link-text">Committees</span><span class="arrow"></span></a></li><li id="menu-item-77" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-77"><a href="/member-resources/international-programs/" onclick="javascript:window.open('https://web.archive.org/member-resources/international-programs/'); return false;"><span class="link-text">International Programs &amp; Partners</span><span class="arrow"></span></a></li><li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a rel="noopener noreferrer" href="https://www.aptaconnect.com/member-directory" onclick="javascript:window.open('https://www.aptaconnect.com/member-directory'); return false;"><span class="link-text">Member Directory</span><span class="arrow"></span></a></li><li id="menu-item-69" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-69"><a href="/member-resources/member-information/" onclick="javascript:window.open('https://web.archive.org/member-resources/member-information/'); return false;"><span class="link-text">Membership Information</span><span class="arrow"></span></a></li><li id="menu-item-74" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-74"><a href="/member-resources/recognition-programs/" onclick="javascript:window.open('https://web.archive.org/member-resources/recognition-programs/'); return false;"><span class="link-text">Recognition Programs</span><span class="arrow"></span></a></li></ul></nav><div style="clear:both;"></div></section>																					</div>
+																		
+				<div class="fusion-clearfix"></div>
+			</div> <!-- fusion-columns -->
+		</div> <!-- fusion-row -->
+	</footer> <!-- fusion-footer-widget-area -->
+
+	
+	<footer id="footer" class="fusion-footer-copyright-area fusion-footer-copyright-center">
+		<div class="fusion-row">
+			<div class="fusion-copyright-content">
+
+				<div class="fusion-copyright-notice">
+		<div>
+		<div>Copyright © 2019 American Public Transportation Association. All rights reserved.</div>
+<div class="footer-social">
+<a href="https://www.facebook.com/AmericanPublicTransportationAssociation" targe="_blank" title="APTA on Facebook" onclick="javascript:window.open('https://www.facebook.com/AmericanPublicTransportationAssociation'); return false;"><i class="fab fa-facebook"></i></a>
+<a href="https://twitter.com/APTA_info" title="APTA on Twitter" onclick="javascript:window.open('https://twitter.com/APTA_info'); return false;"><i class="fab fa-twitter"></i></a>
+<a href="https://www.youtube.com/user/APTAtv" title="APTAtv on YouTube" onclick="javascript:window.open('https://www.youtube.com/user/APTAtv'); return false;"><i class="fab fa-youtube"></i></a>
+<a href="https://www.linkedin.com/company/american-public-transportation-association/ " title="APTA on LinkedIn" onclick="javascript:window.open('https://www.linkedin.com/company/american-public-transportation-association/'); return false;"><i class="fab fa-linkedin"></i></a>
+</div>	</div>
+</div>
+
+			</div> <!-- fusion-fusion-copyright-content -->
+		</div> <!-- fusion-row -->
+	</footer> <!-- #footer -->
+				</div> <!-- fusion-footer -->
+			
+								</div> <!-- wrapper -->
+
+								<a class="fusion-one-page-text-link fusion-page-load-link"></a>
+
+		  <div id="moove_gdpr_cookie_info_bar" class="moove-gdpr-info-bar-hidden moove-gdpr-align-center moove-gdpr-light-scheme gdpr_infobar_postion_bottom">
+    <div class="moove-gdpr-info-bar-container">
+      <div class="moove-gdpr-info-bar-content">
+        <div class="moove-gdpr-cookie-notice">
+  <p>We are using cookies to give you the best experience on our website.<br>
+<a href="https://www.apta.com/privacy-policy/">APTA's Privacy Policy</a> is available for review.</p>
+</div>
+<!--  .moove-gdpr-cookie-notice -->        <div class="moove-gdpr-button-holder">
+  <button class="mgbutton moove-gdpr-infobar-allow-all">Accept</button>
+  		<button class="mgbutton moove-gdpr-infobar-reject-btn">Reject</button>
+			</div>
+<!--  .button-container -->      </div>
+      <!-- moove-gdpr-info-bar-content -->
+    </div>
+    <!-- moove-gdpr-info-bar-container -->
+  </div>
+  <!-- #moove_gdpr_cookie_info_bar  -->
+      <script type="text/javascript">
+
+          var pfHeaderImgUrl = '';
+          var pfHeaderTagline = '';
+          var pfdisableClickToDel = '1';
+          var pfImagesSize = 'full-size';
+          var pfImageDisplayStyle = 'right';
+          var pfEncodeImages = '0';
+          var pfDisableEmail = '1';
+          var pfDisablePDF = '0';
+          var pfDisablePrint = '0';
+          var pfCustomCSS = '';
+          var pfPlatform = 'Wordpress';
+      </script>
+      <script async="" src="https://cdn.printfriendly.com/printfriendly.js"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/event-calendar-wd/js/ecwd_popup.js?ver=1.1.33_5c9e3314dd834"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-includes/js/masonry.min.js?ver=3.3.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ecwd = {"ajaxurl":"https:\/\/www.apta.com\/wp-admin\/admin-ajax.php","ajaxnonce":"508b185030","loadingText":"Loading...","event_popup_title_text":"Event Details","plugin_url":"https:\/\/www.apta.com\/wp-content\/plugins\/event-calendar-wd","gmap_key":"","gmap_style":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/event-calendar-wd/js/scripts.js?ver=1.1.33_5c9e3314dd834"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.apta.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.1.6"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/codedropz-uploader-min.js?ver=1.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var dnd_cf7_uploader = {"ajax_url":"https:\/\/www.apta.com\/wp-admin\/admin-ajax.php","drag_n_drop_upload":{"text":"Drag & Drop Files Here","or_separator":"or","browse":"Browse Files","server_max_error":"The uploaded file exceeds the maximum upload size of your server.","large_file":"Uploaded file is too large","inavalid_type":"Uploaded file is not allowed for file type","max_file_limit":"Note : Some of the files are not uploaded ( Only %count% files allowed )"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/drag-and-drop-multiple-file-upload-contact-form-7/assets/js/dnd-upload-cf7.js?ver=1.3.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpcf7_redirect_forms = {"23393":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"23231":{"page_id":"2635","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"25","after_sent_script":"","thankyou_page_url":"https:\/\/www.apta.com\/member-resources\/recognition-programs\/call-center-challenge\/"},"23119":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"21543":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"21533":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"21465":{"page_id":"2640","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"25","after_sent_script":"","thankyou_page_url":"https:\/\/www.apta.com\/member-resources\/recognition-programs\/photo-invitational\/"},"20929":{"page_id":"2640","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"40","after_sent_script":"","thankyou_page_url":"https:\/\/www.apta.com\/member-resources\/recognition-programs\/photo-invitational\/"},"20860":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"20850":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"20387":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"18643":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"17140":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"15185":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"14822":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"14638":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"14635":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"14634":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"13415":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"13371":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"13360":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"13356":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"13346":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"11175":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"10370":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"8201":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"8169":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"8168":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"8133":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"6216":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"6206":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"6178":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"5837":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"5585":{"page_id":"1832","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"10","after_sent_script":"","thankyou_page_url":"https:\/\/www.apta.com\/about\/general-info\/logo-thanks\/"},"5464":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""},"4525":{"page_id":"0","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"0","after_sent_script":"","thankyou_page_url":""},"4432":{"page_id":"","external_url":"","use_external_url":"","open_in_new_tab":"","http_build_query":"","http_build_query_selectively":"","http_build_query_selectively_fields":"","delay_redirect":"","after_sent_script":"","thankyou_page_url":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/wpcf7-redirect/js/wpcf7-redirect-script.js"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/modernizr.js?ver=3.3.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fitvids.js?ver=1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionVideoGeneralVars = {"status_vimeo":"1","status_yt":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-general.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionLightboxVideoVars = {"lightbox_video_width":"1280","lightbox_video_height":"720"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.ilightbox.js?ver=2.2.3"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.mousewheel.js?ver=3.0.6"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionLightboxVars = {"status_lightbox":"1","lightbox_gallery":"1","lightbox_skin":"metro-white","lightbox_title":"1","lightbox_arrows":"1","lightbox_slideshow_speed":"5000","lightbox_autoplay":"","lightbox_opacity":"0.9","lightbox_desc":"1","lightbox_social":"1","lightbox_deeplinking":"1","lightbox_path":"vertical","lightbox_post_images":"1","lightbox_animation_speed":"normal"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-lightbox.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/imagesLoaded.js?ver=3.1.8"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/isotope.js?ver=3.0.4"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/packery.js?ver=2.0.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaPortfolioVars = {"lightbox_behavior":"all","infinite_finished_msg":"<em>All items displayed.<\/em>","infinite_blog_text":"<em>Loading the next set of posts...<\/em>","content_break_point":"800"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-core/js/min/avada-portfolio.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.infinitescroll.js?ver=2.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-core/js/min/avada-faqs.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/library/Chart.js?ver=2.7.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-chart.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionBgImageVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column-bg-image.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/cssua.js?ver=2.1.28"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.waypoints.js?ver=2.0.3"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-waypoints.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionAnimationsVars = {"status_css_animations":"desktop"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-animations.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionEqualHeightVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-equal-heights.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-column.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fade.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.requestAnimationFrame.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-parallax.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionVideoBgVars = {"status_vimeo":"1","status_yt":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/fusion-video-bg.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionContainerVars = {"content_break_point":"800","container_hundred_percent_height_mobile":"0","is_sticky_header_transparent":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-container.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-content-boxes.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countdown.js?ver=1.0"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-countdown.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.countTo.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.appear.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionCountersBox = {"counter_box_speed":"1000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-box.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easyPieChart.js?ver=2.1.7"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-counters-circle.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-flip-boxes.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-gallery.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionMapsVars = {"admin_ajax":"https:\/\/www.apta.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.fusion_maps.js?ver=2.2.2"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-google-map.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.event.move.js?ver=2.0"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-image-before-after.js?ver=1.0"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.modal.js?ver=3.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-modal.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-progress.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionRecentPostsVars = {"infinite_loading_text":"<em>Loading the next set of posts...<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-recent-posts.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-syntax-highlighter.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.transition.js?ver=3.3.6"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tab.js?ver=3.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionTabVars = {"content_break_point":"800"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-tabs.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.cycle.js?ver=3.0.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionTestimonialVars = {"testimonials_speed":"4000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-testimonials.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/library/jquery.textillate.js?ver=2.0"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-title.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.collapse.js?ver=3.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-toggles.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/vimeoPlayer.js?ver=2.2.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionVideoVars = {"status_vimeo":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-builder/assets/js/min/general/fusion-video.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverintent.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-core/js/min/fusion-vertical-menu-widget.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/lazysizes.js?ver=4.1.5"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.tooltip.js?ver=3.3.5"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/bootstrap.popover.js?ver=3.3.5"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.carouFredSel.js?ver=6.2.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.easing.js?ver=1.3"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.flexslider.js?ver=2.2.2"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.hoverflow.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.placeholder.js?ver=2.0.7"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/library/jquery.touchSwipe.js?ver=1.6.6"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-alert.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionCarouselVars = {"related_posts_speed":"2500","carousel_speed":"2500"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-carousel.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionFlexSliderVars = {"status_vimeo":"1","slideshow_autoplay":"1","slideshow_speed":"7000","pagination_video_slide":"","status_yt":"1","flex_smoothHeight":"false"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-flexslider.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-popover.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-tooltip.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-sharing-box.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionBlogVars = {"infinite_blog_text":"<em>Loading the next set of posts...<\/em>","infinite_finished_msg":"<em>All items displayed.<\/em>","slideshow_autoplay":"1","lightbox_behavior":"all","blog_pagination_type":"load_more_button"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-blog.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-button.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-general-global.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion.js?ver=2.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaHeaderVars = {"header_position":"top","header_sticky":"1","header_sticky_type2_layout":"menu_and_logo","header_sticky_shadow":"1","side_header_break_point":"800","header_sticky_mobile":"","header_sticky_tablet":"","mobile_menu_design":"modern","sticky_header_shrinkage":"1","nav_height":"52","nav_highlight_border":"0","nav_highlight_style":"background","logo_margin_top":"-8px","logo_margin_bottom":"-15px","layout_mode":"wide","header_padding_top":"0px","header_padding_bottom":"4px","scroll_offset":"full"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-header.js?ver=6.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaMenuVars = {"site_layout":"wide","header_position":"top","logo_alignment":"left","header_sticky":"1","header_sticky_mobile":"","header_sticky_tablet":"","side_header_break_point":"800","megamenu_base_width":"custom_width","mobile_menu_design":"modern","dropdown_goto":"Go to...","mobile_nav_cart":"Shopping Cart","mobile_submenu_open":"Open submenu of %s","mobile_submenu_close":"Close submenu of %s","submenu_slideout":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-menu.js?ver=6.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionScrollToAnchorVars = {"content_break_point":"800","container_hundred_percent_height_mobile":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-scroll-to-anchor.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var fusionTypographyVars = {"site_width":"1170px","typography_responsive":"1","typography_sensitivity":"0.60","typography_factor":"1.50","elements":"h1, h2, h3, h4, h5, h6"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/includes/lib/assets/min/js/general/fusion-responsive-typography.js?ver=1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-skip-link-focus-fix.js?ver=6.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/library/bootstrap.scrollspy.js?ver=3.3.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaCommentVars = {"title_style_type":"double solid","title_margin_top":"","title_margin_bottom":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-comments.js?ver=6.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-general-footer.js?ver=6.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-quantity.js?ver=6.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-scrollspy.js?ver=6.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-select.js?ver=6.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaSidebarsVars = {"header_position":"top","header_layout":"v4","header_sticky":"1","header_sticky_type2_layout":"menu_and_logo","side_header_break_point":"800","header_sticky_tablet":"","sticky_header_shrinkage":"1","nav_height":"52","sidebar_break_point":"800"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-sidebars.js?ver=6.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/library/jquery.sticky-kit.js?ver=6.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-tabs-widget.js?ver=6.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaSelectVars = {"avada_drop_down":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-drop-down.js?ver=6.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaRevVars = {"avada_rev_styles":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-rev-styles.js?ver=6.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-contact-form-7.js?ver=6.1.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/library/jquery.elasticslider.js?ver=6.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaElasticSliderVars = {"tfes_autoplay":"1","tfes_animation":"sides","tfes_interval":"3000","tfes_speed":"800","tfes_width":"150"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/themes/Avada/assets/min/js/general/avada-elastic-slider.js?ver=6.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var avadaFusionSliderVars = {"side_header_break_point":"800","slider_position":"below","header_transparency":"0","mobile_header_transparency":"0","header_position":"top","content_break_point":"800","status_vimeo":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/fusion-core/js/min/avada-fusion-slider.js?ver=1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var moove_frontend_gdpr_scripts = {"ajaxurl":"https:\/\/www.apta.com\/wp-admin\/admin-ajax.php","post_id":"3","plugin_dir":"https:\/\/www.apta.com\/wp-content\/plugins\/gdpr-cookie-compliance","is_page":"1","strict_init":"1","enabled_default":{"third_party":0,"advanced":0},"geo_location":"false","force_reload":"false","is_single":"","current_user":"0","load_lity":"true","cookie_expiration":"365"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.apta.com/wp-content/plugins/gdpr-cookie-compliance/dist/scripts/main.js?ver=4.0.1"></script>
+<script type="text/javascript" src="https://www.apta.com/wp-includes/js/wp-embed.min.js?ver=5.2.4"></script>
+<style>
+	#moove_gdpr_cookie_modal,#moove_gdpr_cookie_info_bar,.gdpr_cookie_settings_shortcode_content{font-family:inherit}#moove_gdpr_save_popup_settings_button{background-color:#373737;color:#fff}#moove_gdpr_save_popup_settings_button:hover{background-color:#000}#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton,#moove_gdpr_cookie_info_bar .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton{background-color:#610030}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green{background-color:#610030;border-color:#610030}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder a.mgbutton:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-footer-content .moove-gdpr-button-holder button.mgbutton:hover,.gdpr_cookie_settings_shortcode_content .gdpr-shr-button.button-green:hover{background-color:#fff;color:#610030}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon{background-color:#610030;border:1px solid #610030}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close i:hover,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close span.gdpr-icon:hover{color:#610030}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li:hover a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li:hover button{color:#7a003c}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a span.gdpr-icon,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button span.gdpr-icon{color:inherit}#moove_gdpr_cookie_modal .gdpr-acc-link{line-height:0;font-size:0;color:transparent;position:absolute}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-close:hover i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li button i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-tab-main .moove-gdpr-tab-main-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button.mgbutton:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content a:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content button:hover,#moove_gdpr_cookie_info_bar.moove-gdpr-dark-scheme .moove-gdpr-info-bar-container .moove-gdpr-info-bar-content span.change-settings-button:hover{color:#610030}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button{color:#7a003c}#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected a i,#moove_gdpr_cookie_modal .moove-gdpr-modal-content .moove-gdpr-modal-left-content #moove-gdpr-menu li.menu-item-selected button i{color:#7a003c}#moove_gdpr_cookie_modal.lity-hide{display:none}</style><!-- V2 -->
+<div id="moove_gdpr_cookie_modal" class="lity-hide">
+  <div class="moove-gdpr-modal-content moove-clearfix logo-position-left moove_gdpr_modal_theme_v2">
+    <a href="#" class="moove-gdpr-modal-close" rel="nofollow"><span class="gdpr-icon moovegdpr-arrow-close"></span></a>
+    <div class="moove-gdpr-modal-left-content">
+      <ul id="moove-gdpr-menu">
+        <li class="menu-item-on menu-item-privacy_overview menu-item-selected">
+  <button data-href="#privacy_overview" class="moove-gdpr-tab-nav"><span class="gdpr-icon moovegdpr-privacy-overview"></span> <span class="gdpr-nav-tab-title">Privacy Overview</span></button>
+</li>
+
+  <li class="menu-item-strict-necessary-cookies menu-item-off">
+    <button data-href="#strict-necessary-cookies" class="moove-gdpr-tab-nav"><span class="gdpr-icon moovegdpr-strict-necessary"></span> <span class="gdpr-nav-tab-title">Strictly Necessary Cookies</span></button>
+  </li>
+
+
+
+
+      </ul>
+    </div>
+    <!--  .moove-gdpr-modal-left-content -->
+  
+    <div class="moove-gdpr-modal-right-content">
+        <div class="moove-gdpr-modal-title"> 
+          <div>
+            <span class="tab-title">Privacy Overview</span>
+          </div>
+          <div class="moove-gdpr-company-logo-holder">
+  <img src="https://www.apta.com/wp-content/uploads/APTA_Logo_cookie_banner-1.jpg" alt="" class="img-responsive">
+</div>
+<!--  .moove-gdpr-company-logo-holder -->        </div>
+        <!-- .moove-gdpr-modal-ritle -->
+        <div class="main-modal-content">
+
+          <div class="moove-gdpr-tab-content">
+            <div id="privacy_overview" class="moove-gdpr-tab-main">
+    <div class="moove-gdpr-tab-main-content">
+  	<p>This website uses cookies so that we can provide you with the best user experience possible. Cookie information is stored in your browser and performs functions such as recognising you when you return to our website and helping our team to understand which sections of the website you find most interesting and useful.</p>
+  	  </div>
+  <!--  .moove-gdpr-tab-main-content -->
+
+</div>
+<!-- #privacy_overview -->              <div id="strict-necessary-cookies" class="moove-gdpr-tab-main">
+    <span class="tab-title">Strictly Necessary Cookies</span>
+    <div class="moove-gdpr-tab-main-content">
+      <p>Strictly Necessary Cookie should be enabled at all times so that we can save your preferences for cookie settings.</p>
+<p>If you disable this cookie, we will not be able to save your preferences. This means that every time you visit this website you will need to enable or disable cookies again.</p>
+      <div class="moove-gdpr-status-bar ">
+        <form>
+          <fieldset>
+            <label class="gdpr-acc-link" for="moove_gdpr_strict_cookies">disable</label>
+            <label class="cookie-switch">                            
+              <input type="checkbox" value="check" name="moove_gdpr_strict_cookies" id="moove_gdpr_strict_cookies">
+              <span class="cookie-slider cookie-round" data-text-enable="Enabled" data-text-disabled="Disabled"></span>
+            </label>
+          </fieldset>
+        </form>
+      </div>
+      <!-- .moove-gdpr-status-bar -->
+                                              
+    </div>
+    <!--  .moove-gdpr-tab-main-content -->
+  </div>
+  <!-- #strict-necesarry-cookies -->
+                                              </div>
+          <!--  .moove-gdpr-tab-content -->
+        </div>
+        <!--  .main-modal-content -->
+        <div class="moove-gdpr-modal-footer-content">
+          <div class="moove-gdpr-button-holder">
+  <button class="mgbutton moove-gdpr-modal-allow-all button-visible">Enable All</button>
+  <button class="mgbutton moove-gdpr-modal-save-settings button-visible">Save Changes</button>
+</div>
+<!--  .moove-gdpr-button-holder -->          <div class="moove-gdpr-branding-cnt">
+  
+		<a href="https://wordpress.org/plugins/gdpr-cookie-compliance" rel="noopener" class="moove-gdpr-branding" onclick="javascript:window.open('https://wordpress.org/plugins/gdpr-cookie-compliance'); return false;">Powered by GDPR plugin</a>
+		</div>
+<!--  .moove-gdpr-branding -->        </div>
+        <!--  .moove-gdpr-modal-footer-content -->
+    </div>
+    <!--  .moove-gdpr-modal-right-content -->
+
+    <div class="moove-clearfix"></div>
+
+  </div>
+  <!--  .moove-gdpr-modal-content -->
+</div>
+<!-- #moove_gdpr_cookie_modal  -->				<script type="text/javascript">
+				jQuery( document ).ready( function() {
+					var ajaxurl = 'https://www.apta.com/wp-admin/admin-ajax.php';
+					if ( 0 < jQuery( '.fusion-login-nonce' ).length ) {
+						jQuery.get( ajaxurl, { 'action': 'fusion_login_nonce' }, function( response ) {
+							jQuery( '.fusion-login-nonce' ).html( response );
+						});
+					}
+				});
+				</script>
+				<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-58XD9DS" 
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"fc10c7825f","applicationID":"157719508","transactionName":"NQRWNRQADxZWARdfXQxOdQISCA4LGBICUVc=","queueTime":0,"applicationTime":4156,"atts":"GUNVQ1waHBg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</div></body></html>
