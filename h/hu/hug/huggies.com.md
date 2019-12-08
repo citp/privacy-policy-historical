@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2019-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190518200245id_/https%3A//www.huggies.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huggies.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208173156id_/https%3A//www.huggies.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Huggies® Privacy Policy
 
-_Effective Date: January 2015_
+_Effective Date: September 2019_
 
 This Site is owned, operated and maintained by KIMBERLY-CLARK CORPORATION ("Kimberly-Clark"). At Kimberly-Clark, we recognize that visitors to our Site may be concerned about the information they provide and how we treat that information. This Privacy Policy addresses those concerns. The purpose of the Kimberly-Clark Privacy Policy is to describe how the websites and mobile applications owned or operated by Kimberly-Clark collect, share, and secure information. Before you provide us with any personal information or otherwise browse our site, you should read through this Privacy Policy completely and make sure that you are comfortable with our privacy practices. We may update the Privacy Policy from time to time, so please check in occasionally.
 
@@ -60,6 +60,11 @@ _Other Third Parties_. We may share non-personal information with other third pa
 ** We provide you with the ability to exercise certain controls and choices regarding how we collect, use and share your personal information. By changing your User Profile or contacting us as described within this Privacy Policy, you may do the following: (1) You may correct, update and delete your registration account; (2) You may change your choices for subscriptions, newsletters and alerts; (3) You may choose whether to receive offers and promotions for our products and services, or products and services that we think may be of interest to you; (4) You may choose whether we share your contact information with partners so they can send you offers and promotions about their products and services; (5) You may choose whether to receive interest-based advertising; and (6) You may request access to the personal information we hold about you and that we amend or delete it and we request partners with whom we have shared the information do the same.
 
 Some web browsers and devices permit you to broadcast a preference that you not be “tracked” online. At this time we do not modify your experience based upon whether such a signal is broadcast.
+
+##  Unsubscribe, Correct, Update, or Delete your account
+
+**  
+** [Click here](https://web.archive.org/profile.sso) to unsubscribe, correct, or update your account. You can also contact our Consumer Services group at 1-877-648-2484 to unsubscribe, correct, update, or delete your account.
 
 ##  Security Measures
 
