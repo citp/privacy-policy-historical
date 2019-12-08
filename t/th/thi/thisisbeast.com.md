@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisisbeast.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202014750id_/https%3A//www.thisisbeast.com/sites/default/files/privacy-policy-use-app.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisisbeast.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208083420id_/https%3A//www.thisisbeast.com/sites/default/files/privacy-policy-use-app.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
