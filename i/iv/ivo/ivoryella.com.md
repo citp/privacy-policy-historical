@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ivoryella.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401135555id_/https%3A//www.ivoryella.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivoryella.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208040046id_/https%3A//www.ivoryella.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy – Ivory Ella
+# Privacy - Ivory Ella
 
 **WEBSITE PRIVACY POLICY**
 
