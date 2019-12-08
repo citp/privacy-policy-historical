@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesdaily.com privacy policy that was archived on 2019-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190401155614id_/http%3A//www.timesdaily.com/site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesdaily.com privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208231944id_/http%3A//www.timesdaily.com/site/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Site | timesdaily.com
 
@@ -125,11 +125,7 @@ TN Valley Media
 201 First Ave. S.E  
 Decatur, AL 35601
 
-[ ](https://www.timesdaily.com/site/shoals_woman_of_the_year_nomination_form.html "Shoals Woman of the Year Nomination")
-
-###  TNValley Brides e-Edition 
-
-[ ](https://tnvalleymedia.pageflip.site/editions/TVB50211)
+[ ](http://tennesseevalleynow.com/pdf/2019/TD-Christmas-Coloring-Contest.pdf "2019 Santa Christmas Coloring Contest")
 
 [](http://www.timesdaily.com/sports/high_school/ "HS FB Player Vote")
 
