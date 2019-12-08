@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319144543id_/https%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2019-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191208172828id_/https%3A//www.careerfaqs.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Page | Career FAQs
 
@@ -23,6 +23,7 @@ This Privacy Policy applies to any personal information you provide:
 
   * When you visit the site
   * When you submit a course inquiry
+  * When you submit a career service provider inquiry
   * When you purchase a course
   * When you download a free career resource, including, but not limited to, a resume, cover letter or resignation template
   * When you subscribe to our newsletter
@@ -38,13 +39,13 @@ The type of information that Career FAQs collects about you is dependent on how 
 
 ### (a) Personal Information
 
-Career FAQs collects personal information about its users. Once an individual decides to make an enquiry about a course, subscribe to our newsletter or download a career or education-related resource, Career FAQs (upon the individual completing an online form) will collect all or some of the following personal information:
+Career FAQs collects personal information about its users. Once an individual decides to make an enquiry about a course or career service provider, subscribe to our newsletter or download a career or education-related resource, Career FAQs (upon the individual completing an online form) will collect all or some of the following personal information:
 
   * Full name
   * Address
   * Email address
   * Telephone number(s)
-  * State and country of residence
+  * Suburb, State and country of residence
   * Enrolment readiness status
   * Career(s) and/or course(s) of interest
 
@@ -74,21 +75,22 @@ Like most websites, Career FAQs collects non-personal information in aggregated 
 
 
 
-We use this information, which remains in aggregate form, to understand how our users use our website. We may also share this information with our third-party education partners for the purpose of providing you with the best course choices.
+We use this information, which remains in aggregate form, to understand how our users use our website. We may also share this information with our third-party education and career service provider partners for the purpose of providing you with the best course choices and career advice.
 
 Career FAQs will only collect information about an individual from that individual, unless it is reasonable and practicable to do so or for reasons compliant with the APP.
 
 ## Use and Disclosure of Personal Information
 
-Personal information is requested or collected by us when it is required to assist in efficiently handling your request. You acknowledge that any disclosure of personal information by you during a visit to our website, whether as part of completing a course enquiry or otherwise, is being made freely by you without any pressure or undue influence being exerted on you.
+Personal information is requested or collected by us when it is required to assist in efficiently handling your request. You acknowledge that any disclosure of personal information by you during a visit to our website, whether as part of completing a course enquiry, career service provider enquiry or otherwise, is being made freely by you without any pressure or undue influence being exerted on you.
 
 Your personal information is used for the following purposes: 
 
   * To answer your enquiries or to assist in processing your enrolment through Career FAQs’ education and training partners, which will involve disclosing your personal information to the educational entity that provides the course you have enquired about
-  * To offer you personalised and relevant educational information and services to enhance your study and career opportunities
+  * To answer your enquiries through Career FAQs’ career service provider partners, which will involve disclosing your personal information to the entity that provides the service you have enquired about
+  * To offer you personalised and relevant educational and career related information and services to enhance your study and career opportunities
   * To provide information on government study loans, financial subsidies, student support services, or changes to regulations or legislation
   * To provide more information about the courses provided by education providers from time to time, as authorised by law
-  * To provide you with marketing communications as permitted by law, including in relation to our partners’ career and education-related products and services, which includes, but is not limited to, news about education-related products and services similar to those you have made enquiries about
+  * To provide you with marketing communications as permitted by law, including in relation to our partners’ career and education-related products and services, which includes, but is not limited to, news about education-related and career-related products and services similar to those you have made enquiries about
   * To provide to any partners on our website (which will be determined by Career FAQs and may include tertiary and other educational providers as well as other careers stakeholders) – see our quality assurance process for the providers we partner with above.
 
 
@@ -139,7 +141,7 @@ Career FAQs will take reasonable steps to de-identify and destroy any personal i
 
 ## Changes to the Privacy Policy
 
-This Privacy Policy is current as of 2016. 
+This Privacy Policy is current as of 2019. 
 
 Career FAQs may make changes to or update this privacy policy from time to time and we suggest you periodically review this policy to remain informed as to how we collect and protect your personal information.
 
