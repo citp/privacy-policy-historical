@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 3dcoat.com privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628171702id_/https%3A//3dcoat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dcoat.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210000710id_/https%3A//3dcoat.com/privacy) for the most accurate reproduction.*
 
 # Privacy – 3DCoat
 
-At 3DCoat.com, we know you care about your personal information, so we have prepared this privacy policy (the “Privacy Policy”) to explain what personal data we collect from you, for what purpose and how we use it. It applies to the website [www.3dcoat.com](http://3dcoat.com/home/ "Opens internal link in current window") and all the services available through this website (together the “Service”) and other services of 3DCoat.com.
+At 3DCoat.com, we know you care about your personal information, so we have prepared this privacy policy (the “Privacy Policy”) to explain what personal data we collect from you, for what purpose and how we use it. It applies to the website [www.3dcoat.com](https://3dcoat.com/ "Opens internal link in current window") and all the services available through this website (together the “Service”) and other services of 3DCoat.com.
 
-This Privacy Policy is an integral part of 3D COAT License Agreement and [Terms of Use](http://3dcoat.com/terms/ "Opens internal link in current window"). All definitions used in the Terms of Use shall have the same meaning in this Privacy Policy. 
+This Privacy Policy is an integral part of 3D COAT License Agreement and [Terms of Use](https://3dcoat.com/terms/ "Opens internal link in current window"). All definitions used in the Terms of Use shall have the same meaning in this Privacy Policy. 
 
 By using or accessing the Service, you agree to the terms of this Privacy Policy.
 
