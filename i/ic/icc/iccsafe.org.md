@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2019-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190319115537id_/https%3A//www.iccsafe.org/about-icc/icc-online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccsafe.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209234909id_/https%3A//www.iccsafe.org/about/icc-online-privacy-policy) for the most accurate reproduction.*
 
 # ICC Online Privacy Policy - ICC
 
@@ -130,7 +130,7 @@ You may instruct us not to use your contact information to contact you by email,
 
 ICC values your concerns about the privacy of your Information. Therefore, we offer you the opportunity to opt out of use or sharing of certain Information.
 
-Any commercial emails sent by ICC will include an option to unsubscribe from further correspondence. In addition, you can always opt-out of receiving commercial emails from ICC [here](http://www.iccsafe.org/content/icc-email-preference-center/). Please note that even if you opt-out from receiving commercial emails from ICC, you will continue to receive transactional messages, such as messages confirming a product purchase, messages about an event you registered for, and certain essential ICC membership information.
+Any commercial emails sent by ICC will include an option to unsubscribe from further correspondence. In addition, you can always opt-out of receiving commercial emails from ICC [here](http://www.iccsafe.org/preferences/). Please note that even if you opt-out from receiving commercial emails from ICC, you will continue to receive transactional messages, such as messages confirming a product purchase, messages about an event you registered for, and certain essential ICC membership information.
 
 You may also access your “My ICC” profile to change what profile information is displayed to other ICC Members or to the public. Please note, however, that the visibility of some profile information, such as your name and location, cannot be changed through “My ICC.”
 
