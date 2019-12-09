@@ -1,147 +1,191 @@
-> *The following text is extracted and transformed from the rezovation.com privacy policy that was archived on 2019-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190212084138id_/https%3A//eviivo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rezovation.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209104840id_/http%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# eviivo's Privacy Policy
+# HomeAway Vacation Rentals: Privacy Policies
 
-We are committed to ensuring that your privacy is protected and We understand the need for appropriate protection of all Personal Information provided by You to Us. This Privacy Policy has been created in order that You understand the importance that we attach to this issue and Our commitment to ensure that we comply with UK legislation and the General Data Protection Regulations (“GDPR“).
+### Privacy Policies
 
-This Privacy Policy (“Privacy Policy”) describes the treatment of any personal data provided to or collected by eviivo Limited, a company registered in England and Wales under number 5002392 with offices at 154 Pentonville Road, London, N1 9JE (eviivo, We, Us).
+ **Privacy Policies**
 
-### 1\. Definitions
+**HomeAway Privacy Policy**
 
-**Booking(s)** refers to the reservation of accommodation with a specified Establishment.
+Last updated November 14, 2017
 
-**Booking Confirmation** refers to the notification issued by Us, to confirm a Booking made with an Establishment.
+We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to HomeAway.com, VRBO.com, VacationRentals.com, software.homeaway.com, any subdomains thereof and any other websites where this policy is linked to in the footer of the page and any mobile application of such HomeAway websites (which we have collectively called the “Site” in this policy).
 
-**Booking Service** refers to the accommodation search facility operated by Us which may be used to search for, book and pay for accommodation.
+The Site is operated by HomeAway.com, Inc., which is part of the HomeAway group.  The terms “users” or “you” as used in this Privacy Policy, refer to travelers, who use the Site to look for properties to rent, property owners and managers who list properties for rent on the Site and other users who use software or other tools or services we provide on a Site.  It also applies to other visitors to our site - for example those applying for a job through the Site.
 
-**Communication Facility** refers to any bulletin boards, chat rooms, web based forms, or other messaging or communication facilities between You and Us (if any), as may be available from time to time on any Website or Booking Service operated by Us.
+We use information collected about you as explained in this Privacy Policy. The Site may contain links to third parties' websites. We're not responsible for the privacy practices or the content of those websites. The Site may also contain links to terms and conditions and privacy policies of third party providers who provide tools or services on a Site. Therefore, please read carefully any privacy policies on those links or websites before either agreeing to their terms or using those tools, services or websites.  Unless we explain otherwise in this policy, the words and phrases used in this policy have the same meaning as in the Terms and Conditions - available at  _[Terms& Conditions](https://web.archive.org/web/20171228000410/https:/www.homeaway.com/info/about-us/legal/terms-conditions)_.
 
-**Establishment** refers to accommodation included in and displayed via eviivo’s Booking Service.
+By providing information to us when listing a property, searching for a property, using any tool or service on a Site or otherwise using the Site, you expressly agree to this Privacy Policy and our terms of use. This Privacy Policy was last updated on the date set forth above and applies from that date.  We may occasionally amend this Privacy Policy to reflect regulatory requirements, advances in technology, Site updates and changes in our information collection and disclosure practices. Any new policy will automatically be effective when it is published on a Site. You should therefore return here regularly to view our most up to date Privacy Policy. You should also print a copy for your records.
 
-**Form** refers to a web-based or an email-based data entry form designed by Us and used to help Us collect information about You.
+**Who processes your personal data, and where?**
 
-eviivo refers to eviivo Limited, a company registered in England and Wales under the number 05002392 and having its registered offices at 154 Pentonville Road, London, N1 9JE. eviivo’s VAT number is 877374571. eviivo operates the www.toprooms.com and www.eviivo.com Websites and the eviivo Booking Service, which includes the processing of online payments for bookings made via the Booking Service.
+Your personal data (also referred to as personal information) - that is, data that identifies you, or from which you are identifiable - will be collected, processed, stored and used by us, and passed to and processed by companies in the HomeAway group and third party data processors acting on our behalf. HomeAway is a global business.  As a result, personal data contributed by or collected from users may be stored and processed in the United States or any other country in which we, members of the HomeAway group or our agents maintain facilities.  By using our Site, you acknowledge and agree that you may be transferring your personal data outside of the country in which you have contributed it (“your country”), and that you consent to any transfer of information outside of your country. These countries may not have similar data protection laws to those that apply in your country. However, if we transfer your personal data outside of your country in this way, we will take steps to try to ensure that your privacy rights are protected in compliance with applicable data protection law and this Privacy Policy.
 
-**Intellectual Property Rights** refers to all patents, copyright, database rights, design rights, moral rights, registered designs, trademarks or service marks, trade names, or know-how (whether registered or not and including any applications or rights to apply for registration) and all rights or forms of protection of a similar nature whether subsisting now or at any time in the future anywhere in the world.
+We do not knowingly collect or process data from anyone under the age of eighteen (18) years old.
 
-**You** (and related expressions like “ **Your** ” and “ **Yours** ” and “ **Yourself** ”) refers to you, a user of the Website or the Booking Service or the Communication Facility operated by Us.
+HomeAway Group sites may also use Google Analytics to gather statistics on site usage.  This may involve the use of cookies.  There are more details in our Cookie Notice and in Google’s own privacy policy.  Google may aggregate data they collect from their various services including Google Analytics, Google Translate, Google Maps and YouTube.  You acknowledge and accept that HomeAway Group has no control over Google’s data collection.  We strongly advise you to look at Google’s privacy policy for details of their data collection practices. You can find more information about how Google uses data here:  _[https://www.google.com/policies/privacy/partners/](https://web.archive.org/web/20171228000410/https:/www.google.com/policies/privacy/partners/)_. If you want to opt out from Google Analytics, please check here:  _[https://tools.google.com/dlpage/gaoptout](https://web.archive.org/web/20171228000410/https:/tools.google.com/dlpage/gaoptout)_.
 
-**Your Content** refers to business contact information, ratings, reviews, comments, photographs or other information and material, including personal information which may include, without limitation, Your name, address, town, postcode, country, email and phone number as well as billing information or payment card details (“ **Personal Information** “) which You consent to share with Us when you submit a Form, a Booking or a Guest Review.
+**The information we gather**
 
-**We** (and related expressions like “ **Us** ” and “ **Our** ” and “ **Ours** ” and “ **Ourselves** ”) refers to eviivo as the operator of the toprooms Website and Booking Service.
+At various times you may give your personal data to us. For example, in order to send a booking request or inquiry from you to a property owner or manager, we may need to know all or some of the following: your full name, address, telephone number, e-mail address, your current location, and, in the case of a listing, a method of payment. You may also give personal data to us at other times, such as when registering on the Site or when submitting a listing for a property. We also receive your personal information when you set up financial account information for payment processing.  We may also gather information from cookies or web beacons.  You can find out more about how they operate in the relevant section of this policy below.  We also collect IP addresses, mobile device identifier details, your location, navigation and click-stream data, the time of accessing the Site, homes you viewed, what you searched for, the duration of your visit, and other  details of your activity on the Site. If you ask us to connect with other sites (for example if you ask us to connect with your Facebook account) we may get information about you that way too.  In connection with electronic communications we facilitate through a Site, we use electronic or manual checks to monitor such communications for trust and security purposes.  For further details on how we collect personal data, see Surveys and Communications below.  We obtain data from you either by you inputting your personal details, by the automatic collection of information about you as you use the Site, when we speak to you, or from third parties.  Third party information may include financial information from our payment processor partners that we use to update our records and to prevent and detect fraud, information from your mobile provider if you are accessing the Site over a mobile device or information from a third party such as a social media or travel opinions site where you have asked us to share your data with them. 
 
-Website refers to a website operated by Us, which includes a Communications Facility or a Booking Service operated by Us. The Website may refer to any website using a domain or sub-domains owned by us including but not limited to eviivo.com, toprooms.com, bookdirectrooms.com, and on.eviivo.com
+**How we use your personal data**
 
-### 2\. Your consent
+Our primary purpose in collecting your personal data is to provide you with the services you request and those which we believe will optimize your use of the Site.  You agree that we may use your personal data for the following purposes:
 
-When using this Website, or the Booking Service or Guest Review Service operated by Us on the Website, and providing your personal details, We collect, use and retain Your personal information for the sole purpose of fulfilling our services to You or completing a Booking transaction (contractual obligation), including the sharing of any necessary Personal Information with the relevant third parties (for example an accommodation provider or a travel agency) where this is necessary to allow us to fulfil Our obligations under the terms of this Privacy Policy.
+•    For the services provided on the Site or to support your request;
 
-Where you have expressly provided consent online when asked to do so, we may also use Your Personal Information to communicate information to You about our products and services and to improve our understanding of the needs of potential and existing users of our services.
+•    To contact you from time to time with user or service updates;
 
-### 3\. Collection, use & retention of Personal Information
+•    To send other messages that help us provide our services on the Site;
 
-We collect, use and retain Personal Information about you only to the extent that is reasonably required to conduct our business effectively.
+•    To assist people you have done (or have agreed to do) business with.  For example if you are an owner and a traveler who has booked or inquired with you needs your details we may pass them on. If you are a traveler and an owner you have booked with needs to contact you we may give them your details;
 
-The information collected by Us varies depending on the service you request from us.
+•    To customize, measure, report on and improve our services, content and advertising;
 
-We may collect personal details such as but not limited to Your name, address, accommodation details, credit/debit card number and expiry date, billing details and telephone numbers (“Personal Information”) either when You use Our Communication Facility, or when You use Our Booking Service. Your credit/debit card details are only used to process the transaction You have requested, and are NOT stored or used in any other way by Us.
+•    To promote services related to the Site or those of the HomeAway group and/or our affiliates;
 
-We may also collect Personal Information directly from You when You speak to Us over the telephone or send Us correspondence or submit an accommodation review or a review of Our services.
+•    To compare information for accuracy, update our records, and verify it with third parties;
 
-We use Personal Information to complete transactions on Your behalf and to ensure that we can efficiently manage and track transactions that are processed through Our system. We also use Personal Information to monitor Our system’s efficiency and usability, and to test and develop enhancements and changes to the way We do business.
+•    To prevent, investigate or prosecute activity we think may be potentially illegal, unlawful or harmful; and
 
-We may also collect Your Personal Information when we undertake market research, or ask a third party to undertake market research on Our behalf, in accordance with the terms of this Privacy Policy. When You agree to participate in any such market research, and give us consent to Use Your Personal Information where asked to do so, Your Personal Information shall remain confidential in compliance with the terms of this Privacy Policy, and shall be used for the sole purpose of improving our services to You, or analysing, compiling and publishing general market trends. For the avoidance of doubt, published market trend information shall be provided at aggregate level only and shall not disclose any Personal Information.
+•    To enforce our Privacy Policy and/or our Terms and Conditions or any other purpose referenced herein or therein.
 
-The Personal Information that We collect is stored securely on servers in our United Kingdom and processed by our staff based in the United Kingdom, in Tunisia and the European Union. The Personal Information we collect may also be accessed by staff outside the European Economic Area (EEA) who work for us, including our affiliated subsidiary in Tunisia.
+We collate statistics about site traffic, sales and other commercial information which we pass onto third parties to assist us with improving the services we provide to you. We also use demographic information to tailor the Site and we share that information with third parties so that they can build up a better picture of our customer base and general consumer trends.
 
-The Personal Information we collect may also be shared with third parties where this is necessary to process and complete Bookings or payment transactions on Your behalf, to fulfil Our contractual obligation to You, or allow the relevant third parties to fulfil their obligations to You in providing the service You requested. Such third parties may be located outside the EEA and may store the data we share with them outside the EEA. Third parties may include without limitations:-
+If you are a property owner or manager, we may also display your phone number on the listing itself so that travelers may contact you and to restrict fraudulent behavior. We may also contact you about your account and your use of our services.
 
-An accommodation provider that You selected via the Booking Service, a third party operating the website which made the Booking Service available to You (for example: an online travel website, or regional and local tourism organisations), or a payment processor (for the processing of card payments) (“Booking Partners”).  
-one of our contracted suppliers (for example: the data centre hosting our services, or a market research company handling surveys on our behalf). (“Suppliers”).
+**How We May Disclose Your Personal Data**
 
-Booking Partners and Suppliers operating under a contractual agreement with Us are either bound by the terms of this Privacy Policy or required to comply with current applicable data protection regulations.
+We may disclose your personal data to enforce our policies, or where we are permitted (or believe in good faith that we are required) to do so by applicable law, such as in response to a request by a law enforcement or governmental authority, or in connection with actual or proposed litigation, or to protect our property, people and other rights or interests.
 
-Although this Privacy Policy applies to Personal Information about You that may have been shared with third parties under the terms of this Privacy Policy, or provided to Us by third parties, We are not responsible for the privacy policies of those third parties or the operators of the sites that offer our Booking Service, and We will not be liable for those third parties’ data protection policies and practices.
+We may also share your personal data with:
 
-If You are an accommodation provider or business partner concerned with the protection of Your Personal Information, We recommend that you use a distinct separate business email, business address, business phone line and business bank account rather than use Your personal data.
+•    One of our partners if you've requested their services or if you’ve requested to be provided with information by them;
 
-Should You, as an accommodation provider or business partner, choose to provide Personal Information to Us in response to a specific request for business contact details (for example a business email, address, and phone number), You understand and agree that any Personal Information provided in this context shall be deemed to be Your business contact data, and Your consent to its use as business information, and that this data will NOT be protected by the provisions of this Privacy Policy and GDPR. You understand and agree that when you provide business contact data and business Content to Us, You give us the right to use and publish said business Content and contact data via the internet, via email, and/or share it or publish it via Our travel distribution partners.
+  * The provider behind HomeAway’s $1M Liability Insurance, including traveler information related to covered stays; 
 
-### 4\. Protection of Personal Information
 
-We maintain appropriate security standards and procedures in relation to the collection, use and retention of Your Personal Information in order to prevent unauthorised access or disclosure.
 
-We are compliant with the Payment Card Industry security standard (PCI-DSS Level 1). We are audited annually by an independent expert and the card schemes, including a full review of our systems and procedures, and the relevant penetration tests, to ensure that we provide the highest level of card payment security. Card details processed on eviivo.com, toprooms.com or via on.eviivo.com are encrypted and fully tokenised and are not held beyond the scope of the booking duration. We cannot be held liable for the security of any card information that You may have passed on to an accommodation provider or to a travel agency by means other than Our Website or Booking Service.
+•    Another member if you have done business with them;
 
-### 5\. Disclosure to third parties
+•    A third party performing services on our behalf, such as to process payments;
 
-Personal Information is shared with our group companies, contractors, data processing companies including operators of global distribution systems and payment clearing houses, banks and professional advisers. We share only the Personal Information necessary to deliver any supply of products and/or services by Us to You or in order to ensure the successful completion of a transaction processed through our system or for other related purposes. We may also disclose Your Personal Information when necessary to protect against fraud or any other crime (usually by providing such information to a reputable information reporting organisation) or in the event that we sell our business then to the purchaser of that business.
+•    Companies in the HomeAway group and/or affiliates; or
 
-Your Personal Information will also be processed by Our Merchant Bank Ingenico Financial Solutions SA/NV, for the sole purpose of being able to process your card payment where applicable. The processing of Your card payment includes fraud monitoring and fraud management and other checks related to the fight against money laundering and the financing of terrorism. Ingenico’s privacy policy is available at https://www.ingenico.com/epayments/legal/account-holder
+•    Other companies or business entities, for example if we are thinking of a merger with or sale to that company or business entity;
 
-We may in addition from time to time share non-personal, non-individual information in aggregate form with third parties for business purposes, for example we may tell our Booking Partners including regional tourism agencies and commercial distributors the number of customers or level of bookings in certain demographic groups. The sharing of aggregate data does not involve the disclosure of Personal Information which can identify any particular individual.
+•    Other companies we work with to feature all or part of the property listings or otherwise provide promotional or other services related to our or HomeAway group’s business.  This might include featuring your listings and photographs on other websites;
 
-Third parties may publish or use Your Personal Information if you have expressly provided this Personal Information to Us as your business contact information, as part of the Content You supply when advertising Your accommodation on certain travel sites, to ensure that third parties and potential guests are able to contact You.
+•    Any third party you have asked us to share your personal data with – such as Facebook if you have asked us to connect with your Facebook account; or
 
-Finally, we may disclose your Personal Information to the relevant competent authorities (for example police, customs, central banks and tax authorities) at any time and where required to do so by law.or to comply with any legal obligation or requirement, such as an order of the court.
+•    Any legal or governmental entity pursuant to a subpoena or other legal request, or as necessary to remit certain taxes in the course of processing payments.
 
-### 6\. Employee access to Personal Information
+You may have accessed our Site through a hyperlink from the website of one of our partners.  If so, you consent to your personal details and purchase information, including behavioral patterns, being shared with that trading partner in accordance with our contractual relationship with them.
 
-Your Personal Information is disclosed to our employees, agents and representatives on “a need to know” basis and we confirm that all such persons understand the importance of client confidentiality and privacy.
+In the event that any part of the HomeAway group is sold, or some of its assets transferred to a third party, your personal information, as a valuable asset, may also be transferred.  Potential purchasers and their advisors may have access to data as part of the sale process. We will request the acquiring party to follow the practices described in this Privacy Policy with respect to previously collected information.  Nevertheless, we cannot promise that an acquiring party or the merged entity will have the same privacy practices or treat your information the same as described in this Privacy Policy. Similarly, your personal information may be passed on to a successor in interest in the unlikely event of a liquidation, bankruptcy, or administration. Our customer database could be sold separately from the rest of the business, in whole or in a number of parts.  It could be that the purchaser's business is different from ours, too.
 
-We, and our business partners, may use Your Personal Information in order to contact You to perform the fulfilment or payment of any Bookings made via the Booking Service, or to respond to or follow-up any enquiries You have made via the website(s) we operate.
+**Communications**
 
-### 7\. Share facility
+We and the HomeAway group may offer different communications from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these communications at any time, although it may take a short while for the changes in your preferences to become effective.
 
-If you use any social media share facility on our Website and give us details of another person (e.g. their name and email address), you should make sure that the other person is content to share their personal information with Us and receive information from Us. We will only use their data for the purpose of sharing information via email or social media.
+**Surveys**
 
-### 8\. Updating, maintenance and accuracy of your information
+We also use surveys to collect information about our users. From time to time, we request users' input in order to evaluate potential features and services. The decision to answer a survey is completely yours. We use information gathered from surveys to improve our services.
 
-We do our best to ensure that all information held relating to You is kept up-to-date, accurate and complete.
+**Games**
 
-Data populated by You (including your personal details entered in any fields) is Your sole responsibility and any changes to any aspect of Your personal data should be updated directly by You.
+From time to time we may provide games on the Site.  These games may allow for connectivity with other users or third parties. The rules for each game will specify how the information gathered from you will be used and disclosed if it is different than as described in this Privacy Policy. If that is the case you consent to your personal data being used and transferred accordingly.
 
-If you have any questions or comments about our Privacy Policy, please contact us on privacy@eviivo.com and we will endeavour to respond as soon as possible. All of our processes and data storage methods have been approved by the Information Commissioner’s Office ( www.informationcommissioner.gov.uk ) and our registration number is Z1431368.
+**Mobile Applications**
 
-### 9\. Cookies and other non-personal information
+When you download or use apps relating to our websites, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as advertising, search results, and other personalized content. Most mobile devices allow you to turn off location services. If you have questions about how to disable your device's location services, we recommend you consult your device’s manual, or contact your mobile service carrier or your device manufacturer.
 
-Cookies are tiny files placed onto the hard drive of Your device when You register or fill-out a Form or subscribe and cookies enable Our server to recognize who You are each time You return. Cookies may be either “persistent” cookies or “session” cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+**Telephone Calls**
 
-Our Website uses cookies to store certain information and this includes both session and persistent cookies, and We may automatically use cookies to collect non-personal information about You, such as the type of internet browser You use, the website from which You have come to Our Website. Cookies also allow us to collect Your IP address (the unique address which identifies Your computer on the internet and classifies as Personal Information) which is automatically recognised by Our web server.
+As well as collecting data online and from correspondence we may also speak with you face to face (for example at a Summit or other conference) or by telephone.  We may record telephone conversations for quality assurance and training purposes.  This Privacy Policy also governs those recordings and we keep this data in the same way that we keep other data.  Recordings of calls may also be transferred to locations or processed worldwide.
 
-This information is only used to assist Us in providing an effective service on the Website and to collect broad demographic information for aggregate use. We may make limited use of cookies to deliver content specific to Your interests, retain Your personal preferences or hold session information in order to improve the Website’s usability, analyse how Our Website is being used, administer the Website, prevent fraud and improve the security of the Website, or personalise the Website for each user. We use Google Analytics to analyse cookies.
+**Inquiries and other Electronic Communications**
 
-We ask You to consent to our use of cookies in accordance with the terms of this policy when you first visit Our Website. By using Our Website and agreeing to use cookies when asked to do so, You consent to Our use of cookies in accordance with the terms of this policy.
+Travelers may send inquiries to property owners or managers via clickable links on the listings on a Site. Further, travelers and property owners or managers may communicate with each other via tools on a Site. If you choose to send an inquiry or booking request through these links, your personal information, including your email address and any other information you supply (unless the Site specifies otherwise), will be visible to the property owner or manager in question so that they might reply directly to you. Your details may also be sent to us and we have access to those communications even if you contact the property owner or manager directly. If property owners or managers and travelers further engage in communications through a Site, we also have access to those communications, which we monitor for compliance and security purposes. Additionally those inquiries and messages may be hosted on, be processed by or transmit through our servers. If you engage in such communications and call the other party, you may be asked to leave a return telephone number. Do not share information in the e-mail or phone call that you are not prepared to allow such person and HomeAway group to have, including, but not limited to, credit card and bank account information. In addition inquiries and messages can be sent to the individual member you selected and to our system. Our customer service team may share such communications with property owners or managers. We may also from time to time, use third party e-mail servers to send and track receipt of such communications, and analyze the pattern of such communications for trust and security purposes as well as to gather data, such as inquiry and booking data (on an anonymous basis), to assist us in better understanding our business.
 
-We may use third-party advertising companies to serve ads on Our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If You would like more information about this practice and Your choices, please visit the Network Advertising Initiative website (//www.networkadvertising.org).
+**How Do We Protect Your Personal Information Once We Have It?**
 
-You can erase or block cookies from Your device if You want to (Your device manual or Help information for Your browser should tell You how to do this). If You block or delete cookies, you may not be able to use all the features of Our Website or you may find the Website less usable.
+We take reasonable technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data. While no system is completely secure, we believe the measures implemented by the Site reduce our vulnerability to security problems to a level appropriate to the type of data involved. We have security measures in place to protect our user database and access to this database is restricted internally. However, it remains your responsibility:
 
-### 10\. Your rights
+•    To protect against unauthorized access to your use of the Site;
 
-You have the right to request a copy of the Personal Information we hold about You, and you have the right to request that Your Personal Information be rectified, transferred elsewhere, and/or deleted from our systems. You also have the right to withdraw any consent previously given to Us with regard to the collection and processing of Your Personal Information.
+•    To ensure no one else uses the Site while your machine is logged on to the Site (including by logging on to your machine through a mobile, Wi-Fi or shared access connection you are using);
 
-To the extent that We have a legal obligation to hold Your Personal Information – for example the requirement to hold invoice information for up to seven (7) years and the requirement to provide guest registration information to the local health & safety or police authorities – the minimum information required, including Personal Information, shall be held until the legal requirement expires and this minimum required Information shall be passed to the relevant authorities.
+•    To log off or exit from the Site when not using it;
 
-Our security procedures mean that we may request proof of identity before we are able to disclose any Personal Information to You.
+•    Where relevant, to keep your password or other access information secret.  Your password and log in details are personal to you and should not be given to anyone else or used to provide shared access for example over a network; and
 
-### 11\. Complaints Procedure
+•    To maintain good internet security.  For example if your email account or Facebook account is compromised this could allow access to your account with us if you have given us those details and/or permitted access through those accounts. If your email account is compromised it could be used to ask us to reset a password and gain access to your account with us.
 
-Where applicable, if as part of our Booking Service and under the terms of this Privacy Policy, we have passed Your Personal Information to an accommodation provider or to a travel agency for the sole purpose of completing a Booking on Your behalf, You may need to direct your request to these third parties also.
+You should keep all of your account details secure.  If you think that any of your accounts has been compromised you should change your account credentials with us, and in particular make sure any compromised account does not allow access to your account with us.  You should also tell us as soon as you can, so that we can try to help you keep your account secure and if necessary warn anyone else who could be affected.
 
-If You wish to make a complaint about eviivo’s data protection and privacy policy, including the rights given to You under GDPR, you may contact us by telephone, email, letter or fax. We do not require complaints to be made in writing. Wherever possible, complaints will be dealt with promptly, and you will receive a response under thirty (30) working days.
+If you have asked us to share data with third party sites, however (such as Facebook) their servers may not be secure. Payment card and bank account information is generally stored by our payment processing partners and we contractually require them to keep that data secure.  We also use third parties to help us optimize our Site flow, content and advertising (see below). 
 
-If you are dissatisfied with the outcome of your complaint, you may choose to escalate the complaint internally by contacting Us at privacy@eviivo.com. A response to an escalated complaint will be made within a further ten (10) working days.
+Note that, despite the measures taken by us and the third parties we engage, the Internet is not secure.  As a result others may nevertheless unlawfully intercept or access private transmissions or data.
 
-Our contact details are as follows:
+**What are Cookies, Web Beacons and Clear GIFs and Why Do We Use Them?**
 
-eviivo Limited
+A "cookie" is a small file placed on your hard drive by some of our web pages.   We, or third parties we do business with, may use cookies to help us analyze our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety. Cookies are commonly used at most major transactional websites in much the same way we use them here at our Site.
 
-Address: 154 Pentonville Road, London N1 9JE  
-Telephone & Fax: +44 (0) 844 880 3000
+You may delete and block all cookies from this site, but parts of the site will not work. We want to be open about our cookie use.
 
-General enquiries: info@eviivo.com
+Even if you are only browsing the Site, certain information (including computer and connection information, browser type and version, operating system and platform details, and the time of accessing the Site) is automatically collected about you. This information will be collected every time you access the Site and it will be used for the purposes outlined in this Privacy Policy.
 
-Accommodation Providers: click on the Help button, then on Chat with an eviivo expert within eviivo suite.
+You can reduce the information cookies collected from your device.  An easy way of doing this is often to change the settings in your browser. If you do that you should know that (a) your use of the Site may be adversely affected (and possibly entirely prevented), (b) your experience of this and other sites that use cookies to enhance or personalize your experience may be adversely affected, and (c) you may not be presented with advertising that reflects the way that you use our and other sites. You find out how to make these changes to your browser at this site: www.allaboutcookies.org/manage-cookies/.  Unless you have adjusted your browser settings so that it will refuse cookies, our system will send cookies as soon as you visit our Site.  By using the Site you consent to this, unless you change your browser settings.  
 
-Data Privacy complaints: privacy@eviivo.com
+We gather and share information concerning the use of the Site by property owners and managers and travelers with one or more third-party tracking companies for the purpose of reporting statistics. To do this, some of the pages you visit on our Site use electronic images placed in the web page code, called pixel tags (also called "clear GIFs" or "web beacons") that can serve many of the same purposes as cookies.
+
+Web beacons may be used to track the traffic patterns of users from one page to another in order to maximize web traffic flow. Our third-party advertising service providers may also use web beacons to recognize you when you visit the Site and to help determine how you found the Site. If you would like more information about this and to know your choices about not having this information used by these companies, please visit: the Digital Advertising Alliance’s website,  _[http://www.aboutads.info/](https://web.archive.org/web/20171228000410/http:/www.aboutads.info/)_ , or the Network Advertising Initiative’s website,  _[http://networkadvertising.org/consumer/opt_out.asp](https://web.archive.org/web/20171228000410/http:/networkadvertising.org/consumer/opt_out.asp)_.
+
+Your browser or device may include “Do Not Track” functionality. Our information collection and disclosure practices, and the choices that we provide to visitors, will continue to operate as described in this Privacy Policy, whether or not a Do Not Track signal is received.
+
+**Phishing or False emails**
+
+If you receive an unsolicited email that appears to be from us or a property owner or manager that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link.  Please contact us at  _[Customer Support](https://help.homeaway.com/)_  if you get an email like this.
+
+**Job applicants, current and former employees**
+
+If you use the Site to apply to work with us, we will use the information you supply to process your application and to monitor recruitment statistics.  Where we want to disclose information to a third party, for example where we want to take up a reference, will not do so without informing you beforehand unless the disclosure is required by law.  Personal information about unsuccessful candidates will be held for 12 months after the recruitment exercise has been completed, it will then be destroyed or deleted.  We retain de-personalized statistical information about applicants to help inform our recruitment activities . HomeAway is based in the US and employee and recruitment data is held there and in other HomeAway group locations worldwide.
+
+Once a person has taken up employment with us, we will compile a file relating to their employment.  At that stage we will give you more details about how we hold employee details.
+
+**Your California Privacy Rights**
+
+If you are a California resident, California law permits you to request certain information regarding the disclosure of your personal information by us and our related companies to third parties for the third parties' direct marketing purposes.  To make such a request, please use the contact information below.
+
+**How do I correct or update my information?**
+
+If you are a property owner or manager, the best way of seeing any personal information processed by us is to log on to your account by using the ‘Owner Login’ tab at the top of the screen.  You can see your basic details and correct or update them there at any time to suit you.  We also want to give you the opportunity to identify any inaccuracies in any other information we hold about you. Where possible, if we're told about the inaccuracy of any personal information, we will make appropriate corrections. You can ask to see, update or amend any information we hold on you by contacting us using the information below. We may not be able to delete your personal information without also deleting your user account.  You will not be permitted to examine the personal information of any other person or entity.  In order to verify your identity, you may be required to provide us with personal information prior to accessing any records containing information about you.  We may not accommodate a request to change or delete personal information if we believe doing so would violate any law or legal requirement, or cause the information to be incorrect.
+
+We will honor any legal right that you have to access, modify or erase your personal information.  To request access and to find out whether any fees may apply, if permitted by applicable state, federal, or national law (outside of the United States), please contact us using the information below.
+
+**How do I opt-out of receiving marketing communications from you?**
+
+We will contact you from time to time for marketing purposes. Unless you have opted out, this could include contacting you by phone or email.
+
+You may opt-out of receiving marketing communications from us by the following means:
+
+1.    Contact us at  _[Customer Support](https://help.homeaway.com/)_ ;
+
+2.    Follow the instructions included in each communication or newsletter;
+
+3.    Use the  _[Unsubscribe function](http://mailaway.homeaway.com/PreferenceCenter)_ ; or
+
+4.    Mail the request to us at 1011 W. Fifth Street, Suite 300 Austin, Texas 78703.
+
+Please remember that if you change your preferences it may take a short time for those preferences to become effective.
+
+**How long will we keep your personal data?**
+
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the Terms and Conditions and this Privacy Policy, or as is required by applicable law, and then we will delete it.
+
+**How do I contact you?**
+
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at  _[Customer Support](https://help.homeaway.com/)_. 
