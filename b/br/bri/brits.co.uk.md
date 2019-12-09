@@ -1,178 +1,173 @@
-> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2019-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190105054248id_/https%3A//www.brits.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209192550id_/https%3A//www.brits.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - bpi
 
-**BRIT AWARDS LIMITED PRIVACY POLICY**  
-**the “Privacy Policy”**
+### 01.  **What is the purpose of this privacy notice and to whom does it apply?**
 
-BRIT Awards Limited (referred to in the Privacy Policy as “ **BAL** ”, “ **we** ”, “ **us** ” or “ **our** ”) is a wholly owned subsidiary of BPI (British Recorded Music Industry) Limited (“ **BPI** ”).  BPI is the data controller for the purposes of the Data Protection Act 1998.  BAL and BPI are committed to protecting your privacy online. The registered address of both BAL and BPI is Riverside Building, County Hall, Westminster Bridge Road, London SE1 JA. We use the information we collect about you to provide services to you when you visit the websites currently located at [www.brits.co.uk](http://www.brits.co.uk/) and the BRITs pages of the [www.bpi.co.uk](http://www.bpi.co.uk/) website (each a “ **Site** ” and, together, the “ **Sites** ”). We appreciate that you do not want any personal information you provide to us distributed indiscriminately and here, we explain how we collect information, what we do with it and what controls you have.
+BPI (British Recorded Music Industry) Limited (“BPI, “we” or “us”) is committed to protecting the privacy and security of your personal data.  References to your “personal data” include any or all of your personal data, as the context requires, including “special categories of personal data”, which involves more sensitive information about you.  This is most likely to include information about your racial or ethnic origin or health data.  There are other categories of “special categories of personal data” which are less likely to be processed, but for a full definition, see Article 9 of the General Data Protection Regulation (“GDPR”).
 
-It is your responsibility to read and understand this Privacy Policy.  If you do not understand or accept this Privacy Policy then you should contact our Information Protection Officer using the contact details are set out below.  
+BPI is a “data controller”. This means that we are responsible for deciding how we hold and use personal data about you. This privacy notice describes how we are or will be processing personal data about you during and after your working relationship with us.  By “processing”, we mean such actions as collecting, using, storing, disclosing, erasing or destroying your personal data.
 
-By visiting a Site, you are accepting and consenting to the practices described in the Privacy Policy. 
+This notice applies to all employees, workers and contractors.  It does not form part of any contract of employment or other contract to provide services. We may update this notice at any time and without notifying you before we do so.
 
-If you do not agree to all of this Privacy Policy and do not wish to be bound by it, you are not authorised to access or otherwise use any of our Sites and should cease accessing or otherwise using the Site(s) immediately.
+### **02.** What information will BPI collect about me?
 
-**Introduction  **
+We operate four websites, [BPI](https://web.archive.org/), [Mercury Prize](https://www.mercuryprize.com/), [Classic BRIT Awards](http://www.classicbrits.co.uk/) and [The Brit Awards](http://www.brits.co.uk/). These four websites and their subpages are referred to in this Notice as the “Sites”.  
 
-This Privacy Policy together with our [terms and conditions](http://www.brits.co.uk/terms-and-conditions) explains the following:
+In respect of members who use the members’ area on our Sites, we collect:
 
-  * What information we collect about you;
-  * How we store your information;
-  * Our use of cookies on the Sites and how you can reject these cookies;
-  * How your information is used;
-  * When we may contact you;
-  * Whether we will disclose your details to anyone else;
-  * Any age restrictions on supplying personal information to us;
-  * How long we may keep your personal information; and
-  * How to contact us. 
+_Name_
 
+_Email Address_
 
+In respect of third parties/suppliers, we collect:
 
-**1\. What information we collect about you**
+_Name_
 
-So that we can provide a personalised service, we may at certain times on our Sites ask you to submit personal information to us.  You may also be required to provide personal information to enter competitions, vote in polls or otherwise express an opinion, subscribe to one of our services such as an online newsletter or participate in one of our online forums or communities.  The types of information that may be collected at these pages include: your name, e-mail address, Twitter handle or other basic social media information, postal address, telephone/mobile number, your gender and date of birth.  Different web pages on a Site may ask for different personal information. We may ask you for other information, including, but not limited to, your interests, opinions and the way you use our service to assist us in our initiatives outlined above and to improve our understanding of customer trends and patterns.
+_Contact details_
 
-You are under no obligation to provide such information.  However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
+We collect the following information from Site visitors who make purchases:
 
-If you're entering a competition, you can choose to tick either 'yes' or 'no' to let us know if you would like to be contacted or not.  Don't worry, ticking 'no' won't affect your entry into the competition - your chances are as good as everyone else's!  If you're registering specifically to hear from us, we'll take this as your consent, so we won't ask you to tick 'yes' or 'no'.
+_Name_
 
-Please note that sometimes on particular web pages on the Sites we will require you to provide additional personal information.  When we do this we will specify further on these web pages why we are collecting your information and how we will use it.
+_Email address_
 
-We may also collect technical information such as the browser that your device uses, your device’s IP address, length of visits to certain pages of Sites and page interaction information (for example the number of clicks you make on any of the Sites).
+_Telephone number_
 
-**2\. How we store your information  **
+_Date of Birth_
 
-Information you submit via a Site is sent to a device located in the United Kingdom.  Information submitted by you may be transferred to, stored and processed by us, our subsidiaries, BPI and any subsidiaries of BPI as well as BAL and BPI's service providers and to other reputable third party organisations, which may be situated outside the European Economic Area.  In addition if you use our services while you are outside the EEA, your information may be transferred outside the EEA in order to provide you with those services.
+_Transaction details (i.e. payment card details) – these are generally input by customers directly into a transaction gateway, but purchasers can elect to store their payment details, in which case we would save them._
 
-By submitting information, you agree to the collection, transfer, storage or processing of information about you for the purposes described in this Privacy Policy.  BAL and BPI will take all reasonable steps to ensure that information about you is treated securely in accordance with this policy and that all information you provide to us is stored on BAL or BPI’s secure servers or those of our service providers.
+### **03.  ** **How do we collect your personal data?**
 
-Unfortunately as the transmission of information via the internet is not completely secure, we cannot guarantee the security of your data transmitted to the Sites. Any transmission is at your own risk.
+We collect data from Site visitors who have made a purchase through the Site visitors themselves, who input this data either at the point of purchase, or in order to maintain a log in to make repeated purchases on our Sites.
 
-**3\. Cookies  **
+We collect data from members either from members themselves, or from their employer, where (as for most members) they have a membership in the course of their employment or engagement.
 
-Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you can change your browser to prevent that. However, you may not be able to take full advantage of a website if you do so.  Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web.  Although they do identify a user's device, cookies do not personally identify users and passwords and credit card information are not stored in cookies.
+We collect contact details from suppliers and third parties from the data subjects themselves. 
 
-We may use cookies to:
+Our Sites use Cookies to collect data (please see here for our [Cookies policy](https://web.archive.org/cookies-policy/)). We use Google Analytics to examine this data, but please note that all such data is anonymised.
 
-  * identify who you are and to access your account information;
-  * estimate our audience size and patterns;
-  * control how often visitors see similar adverts on the Sites; and
-  * track preferences to improve and update our Sites. 
+### **04.  **Why do we collect your information?
 
+We collect data from Site visitors who make purchasers in order to deliver their purchase, and we store that data, where required by the purchaser, in order to make future purchases easier. We collect data from individuals who have access to our members’ area in order to identify them and permit their access. We collect data about third party contacts in order to maintain business relationships with third parties, such as suppliers.
 
+### **05.  ** **What are the legal bases and the purposes for which we process your personal data?**
 
-For more information on cookies and how to disable them you can consult the information provided by the Interactive Advertising Bureau UK at [www.allaboutcookies.org/](http://www.allaboutcookies.org/).
+We will only use your personal data as permitted by law.  We will use your personal data in either of the following circumstances:
 
-The Sites may from time to time include advertisements generated by third parties.  Some of these third parties use their own cookies to track the number of people who have seen their advertisements, measure how effective they are or provide you with advertisements that are closer to your interests.  These cookies cannot be used to identify an individual and we do not have access to them. The third party companies that create these cookies have their own privacy policies. If you would like to disable "third party" cookies from them, you can turn them off by going to the third party's website and getting them to create a one-time cookie which prevents any further cookies being generated.
+  * Where we need to perform the contract we have entered into with you.
 
-**4\. How your information is used  **
 
-We will use the information you provide to us to:
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests. We are required to specify what the legitimate interests are (see below for further details). 
 
-  * monitor, develop and improve the Sites, services and your experience;
-  * assist in and administer the provision of services to you (i.e. send news and communications via email, social media, post, fax or phone or to notify you that a particular service has been suspended for maintenance);
-  * process and deal with any complaints or enquiries made about you;
-  * contact you about a submission you have made to a Site, including any content you provide; and
-  * understand customer trends and patterns. 
 
 
+**Necessary for the Performance of a Contract with You**
 
-We will use the technical information we collect about you:
+We use the information provided by Site visitors who have made a purchase in order to process that transaction in compliance with the contract between us and the purchaser. Where individuals have a personal membership for our Site, we use their data as necessary to give effect to their membership rights under the contract they have entered into with us.
 
-  * to administer the Sites and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
-  * to improve the Sites to ensure that content is presented in the most effective manner for you and for your device, including by detecting the geolocation of your IP address;
-  * to allow you to participate in interactive features of our service, when you choose to do so; and
-  * as part of our efforts to keep our Sites safe and secure.
+**Necessary for our legitimate interests or those of a third party**
 
+It is in our legitimate interests to use the personal information of individuals who use a membership log in paid for by the employer/engager in order to give effect to their membership and permit individuals the agreed level of access to the content of our site.  
 
+It is in our legitimate interests to use contact information for suppliers/third parties in order to properly perform the business arrangements we have entered into with suppliers/third parties.
 
-**5\. When we may contact you  **
+**“Special categories” of personal data**
 
-We may contact you:
+“Special categories” of personal data require higher levels of protection. We need to have further justification for collecting, storing and using this type of personal data. We may process special categories of personal data in limited circumstances with your explicit written consent. We do not process any special category data.
 
-  * in relation to the functioning of any service you have signed up for in order to ensure that we can deliver the services to you;
-  * where you have opted to receive further correspondence;
-  * in relation to any contribution you have made to a Site; and
-  * to invite you to participate in surveys about our services (participation is always voluntary).
-  * Local pages will give you information about how we will contact you in relation to specific services. 
+### **06.** Change of Purpose
 
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so, before we start using it for that unrelated purpose. Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is permitted by law.
 
+### **07\. Sharing Data**
 
-**6\. Will I be contacted for marketing purposes?  **
+We may share your data with third parties, including third-party service providers and any sub-contractors of those service providers where required by law, or where we have a legitimate interest in doing so. We use a third party, currently Sage Pay, to process transactions for purchases from our website.
 
-We will not contact you for marketing purposes.
+We require third parties to respect the security of your data and to treat it in accordance with the law.
 
-**7\. Will we share your personal information with anyone else?  **
+**How secure is your information with third party service providers?**
 
-We may share your information with our group companies and our ultimate holding company.  However, we will keep your information confidential except where disclosure is required or permitted by law (e.g. to government bodies and law enforcement agencies) or as described in paragraph 8.
+All our third party service providers are required to take appropriate security measures to protect your personal data in line with our policies. We do not allow our third party service providers to use your personal data for their own purposes unless they are data controllers in their own right in relation to your personal data. Where they operate as our “data processors” (ie they process your personal data on our behalf and acting only on our instructions), we only permit them to process your personal data for specified purposes and in accordance with our instructions.
 
-**8.  Use of information within BAL and other parties**
+**What about disclosure to other third parties?**
 
-Generally, we will only use your information within BAL, BAL’s subsidiaries, BPI and any subsidiaries of BPI. However, sometimes BAL and/or BPI use third parties to process your information.  BAL and/or BPI will require these third parties to comply strictly with its instructions and will require that they do not use your personal information for their own business purposes.
+We may share your personal data with other third parties, for example to external legal or other professional advisers, or to otherwise comply with the law.
 
-**9\. Offensive or inappropriate content on a site  **
+**What safeguards are in place in relation to the transfer of your personal data outside of the EU?**
 
-If you post or send offensive, inappropriate or objectionable content anywhere on or to a Site, or otherwise engage in any disruptive behaviour on a Site, we may use your personal information to stop such behaviour.  Where we reasonably believe that you are or may be in breach of any of applicable laws (for example, but without limitation, content you have posted may be defamatory), we may use your personal information to inform relevant third parties such as your employer, school email/Internet provider or law enforcement agencies about the content and your behaviour.
+Neither we nor any of our third party suppliers envisage transferring your personal data outside the EU.  If the position changes, we will let you know and also let you know of the safeguards we will be putting in place to keep your personal data secure.
 
-**10\. What if you are a user aged 16 or under?  **
+### **08.  ** **How long will we retain your personal data?**
 
-Please get your parent/guardian's permission before providing personal information to a Site if you are aged 16 or under.  Users without this consent are not allowed to provide us with personal information. If we become aware that you are under 16 and are attempting to or have submitted personal information via a Site without your parent/guardian's permission, we will not accept such information and we will take steps to remove such information from our records.  This may involve us having to access and verify your age and other relevant details.
+We will only retain your personal data for as long as necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.  Details of retention periods for different aspects of your personal data are available in our Records Management Policy which is available from the DPM.  To determine the appropriate retention period for personal data, we consider the amount, nature, and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
-**11\. Keeping our records accurate  **
+### **09.  ** **What are your rights and obligations as a data subject?**
 
-We aim to keep our information about you as accurate as possible, but we depend on our users to update their personal information whenever necessary.  You can inform us of a change in your details or unsubscribe from our mailing list by emailing us at [britwebsite@bpi.co.uk](mailto:britwebsite@bpi.co.uk) or by writing to us at the address set out below.  If you have another query relating to your information, please contact us as set out below. 
+**Your duty to inform us of changes:**
 
-**12\. Limitation of liability  **
+It is important that the personal data we hold about you is accurate and current. Please let us know of any changes.  We will update your records promptly upon being notified of such changes.
 
-The Sites may contain links to other websites where information practices may be different to ours.  For example, if you "click" on a link, the "click" may take you off the Site.  Visitors should consult the other websites' privacy policies as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.
+**Your rights in connection with personal data:**
 
-We may sometimes offer content (e.g. competitions, sweepstakes, or promotions) sponsored by or co-branded with identified third parties.  The third parties may obtain personally identifiable information that you voluntarily submit to participate in the website activity.  We are not responsible for and have no control over these third parties' use of this information.
+Under certain circumstances, by law you have the right to:
 
-However, we will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.  We may use a reputable third party to present or serve the advertisements that you may see at the Sites.  This Privacy Policy does not cover any use of information that a third-party ad server may have collected from you.
+  * Request access to your personal data (commonly known as a “data subject access request”). This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+  * Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+  * Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have exercised your right to object to processing (see below).
+  * Object to processing of your personal data where we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this ground.
+  * Request the restriction of processing of your personal data. This enables you to ask us to suspend the processing of personal data about you, for example if you want us to establish its accuracy or the reason for processing it.
+  * Request the transfer of your personal data to another party.
 
-**13\. Legal disclaimer  **
 
-We are not responsible nor will we be liable to you in any way for events beyond our direct control.  Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that our performance will be error free, and to the maximum extent permitted by law we will not be liable for any direct, indirect, incidental, consequential or punitive damages or any other loss suffered by you and relating to the use or release of your personal information.
 
-**14\. How long will we keep your personal information?  **
+If you want to review, verify, correct or request erasure of your personal data, object to the processing of your personal data, or request that we transfer a copy of your personal data to another party, please contact the DPM in writing.
 
-We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with BAL.
+**No fee usually required:**
 
-Where you contribute to a Site, we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted by you.
+You will not have to pay a fee to access your personal data (or to exercise any of the other rights). However, we may charge a reasonable fee if your request for access is clearly unfounded or excessive.  Alternatively, we may refuse to comply with the request in such circumstances, as permitted by the GDPR.
 
-**15\. Can you find out what personal information we hold about you?  **
+**What we may need from you:**
 
-Under the Data Protection Act 1998 you have the right to request a copy of the personal information we hold about you and to have any inaccuracies corrected.  We charge £10 for information requests and will require you to prove your identity with two pieces of approved photographic identification.  We will use reasonable efforts to supply, correct or delete personal information about you on our files.
+We may need to request specific information from you to help us confirm your identity and ensure your right to access the information (or to exercise any of your other rights). This is another appropriate security measure to ensure that personal data is not disclosed to any person who has no right to receive it.
 
-Please address requests and questions about this or any other question about this Privacy Policy to The Information Protection Officer, BRIT Awards Limited, Riverside Building, County Hall, London, SE1 7JA.
+**What are your rights to withdraw consent to processing?**
 
-**16\. Accessing a site outside the UK  **
+Where you may have provided your consent to the processing of your personal data for a specific purpose, you have the right to withdraw your consent for that specific processing at any time. To withdraw your consent, use our unsubscribe buttons, or contact the DPM. Once we have received notification that you have withdrawn your consent, we will no longer process your information for the purpose or purposes you originally agreed to, unless we have another legitimate basis for doing so in law.
 
-The Sites are published in the UK by BAL.  All personal information submitted by you to a Site will be processed in accordance with this Privacy Policy (and any local terms that apply on a Site) unless terms on a Site specify otherwise.
+### **10.  ** **Using our Sites**
 
-**17\. Updates  **
+The Sites may contain links to other websites where information practices may be different to ours. For example, if you click on a link, this may take you off the Sites. In particular, our Sites have links to external sites which might offer a member discount, an external ticketing platform, and Brit Award merchandise is sold through an external site.
 
-We reserve the right, from time to time, and at our sole discretion, to change or update this Privacy Policy.  All changes to this Privacy Policy will be published on this page and on the applicable Site(s).  Each change will become effective once posted on this page and you will be deemed to be aware of and bound by it.  You should therefore review this Privacy Policy regularly to ensure that you are up-to-date with the current terms of the Privacy Policy.
+Visitors should consult the privacy policies of the websites they are taken to for further details, as we are not responsible for and have no control over information that is submitted to, or collected by, these third parties.
 
-**18\. Security  **
+The Sites are published in the UK by BPI. All personal information submitted by you to the Sites will be processed in accordance with this Privacy Policy (and any local terms that apply on the Sites) unless terms on the Sites specify otherwise.
 
-Our Sites have security installed to ensure that any personal data entered onto the Sites is protected against loss, misuse or alteration.  However, due to the nature of the Internet, we can't guarantee the protection of your personal information and we can't be responsible for any outcomes resulting from a breach of security when the Sites are used.  We're confident in our security, and it is always a top priority to ensure we do not get any problems.
+Our site uses Cookies. Read our [Cookies policy](https://web.archive.org/cookies-policy/).
 
-**19\. Your acceptance of these terms  **
+### **11.  **Security
 
-By using a Site, you consent to the collection and use of this information by BAL and or BPI and to this Privacy Policy. 
+Our Sites have security installed to ensure that any personal data entered onto the Site is protected against loss, misuse or alteration. However, due to the nature of the Internet, we can't guarantee the protection of your personal information and we can't be responsible for any outcomes resulting from a breach of security when the Site is used. We're confident in our security, and it is always a top priority to ensure we do not get any problems.
 
-**20\. Contacting us and cancellation of registration  **
+We have put in place measures to protect the security of your information. Details of these measures are available upon request but in brief, we secure the storage of your data on our servers, and restrict access to only those employees, agents, contractors and other third parties who have a business need to know. We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed.
 
-If you have any questions or comments about this Privacy Policy at any time, please contact:   
-The Information Protection Officer  
-BRIT Awards Limited  
-Riverside Building  
-County Hall  
-London  
-SE1 7JA 
+We have put in place procedures to deal with any suspected data security breach and will notify you and any applicable regulator of a suspected breach where we are legally required to do so.
 
-The Information Protection Officer BRIT Awards Limited Riverside Building County Hall London SE1 7JA 
+### **12.  **Changes to BPI's Privacy Policy
 
-This Privacy Policy was last updated on 4 November 2015.
+We reserve the right, from time to time, and at our sole discretion, to change or update this Privacy Policy.
+
+All changes to this Privacy Policy will be published on this page and on the applicable Site(s). Upon publication, each change will become effective and you will be deemed to be aware of and bound by it. You should therefore review this Privacy Policy regularly to ensure that you are up-to-date with the current terms of the Privacy Policy.
+
+### **13.  **Contacting BPI about this Privacy Policy and Cancellation of Registration
+
+BPI is not obliged to appoint a statutory data protection officer, but has appointed an internal Data Protection Manager (“DPM”). For any queries, please contact:
+
+Data Protection Manager, BPI, County Hall, Westminster Bridge Road, London, SE1 7JA
+
+Email: [dataprotection@bpi.co.uk](mailto:dataprotectionofficer@bpi.co.uk)
+
+Telephone: +44 (0)20 7803 1300
+
+The DPM is responsible for overseeing compliance with this privacy notice and for handling any data protection queries or issues involving BPI.  You should contact the DPM in the first instance about any issue involving data protection, whether it involves your data or anyone else’s.
