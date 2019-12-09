@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tickettailor.com privacy policy that was archived on 2018-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180815181607id_/https%3A//www.tickettailor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickettailor.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209062917id_/https%3A//www.tickettailor.com/privacy-policy) for the most accurate reproduction.*
 
-# Ticket Tailor - Sell tickets online - No ticket fees. No Fuss.
+# Ticket Tailor - Sell tickets online - Low fees. No fuss.
 
 Last updated 22nd May 2018
 
@@ -88,6 +88,10 @@ We use your personal information in order to deploy and develop our services, to
 Our website uses cookies to distinguish you from other users of our website. This helps us provide you with a good experience when you browse our website and allows us to improve our site and to deliver a better and more personalised service. 
 
 Please read our [Cookie Policy](https://web.archive.org/cookie-policy/) to find out about the cookies we use and what they are used for.
+
+### Retargeting
+
+Our website uses retargeted advertising provided by AdRoll. As a result of this retargeting, you may see ads for our services on other sites such as Facebook. Our retargeting provider will read a cookie that is already in your browser, or they will place an anonymous cookie or ‘pixel’ in your browser when you visit our site. Click here to change your cookie consent. [Click here for AdRoll's privacy policy](https://www.adrollgroup.com/privacy).
 
 ### Disclosure of your personal information
 
