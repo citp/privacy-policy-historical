@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biblica.com privacy policy that was archived on 2019-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190427203622id_/https%3A//www.biblica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblica.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209054212id_/https%3A//www.biblica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Biblica - The International Bible Society
 
