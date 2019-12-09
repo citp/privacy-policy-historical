@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2019-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190612044345id_/https%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209172142id_/https%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
 # Zoopla’s Privacy Policy
 
 This service is operated by Zoopla Limited. If you visit our website, use our apps or contact us, this policy is for you. It’s about how we protect your data and respect your privacy.
 
-This policy was last updated in **May 2019**. We update it from time to time as we make improvements or when laws change. Please check it every now and then to make sure you know exactly how we use your data.
+This policy was last updated in **December 2019**. We update it from time to time as we make improvements or when laws change. Please check it every now and then to make sure you know exactly how we use your data.
 
 Zoopla
 
@@ -332,6 +332,6 @@ Our websites and apps contain links to other websites. This policy does not appl
 
 We hope all of the above makes sense and you're happy with how we use your personal data. If not, please contact us using any of the following methods.
 
-Our Data Protection Officer (DPO) is Michael Haynes. You can contact him at [dpo@zpg.co.uk](mailto:dpo@zpg.co.uk).
+Our Data Protection Officer (DPO) is Jane Hill. You can contact her at [dpo@zoopla.co.uk](mailto:dpo@zoopla.co.uk).
 
 You can complain about how we use your personal data at any time to the Information Commissioner’s Office. [Find out more](https://ico.org.uk/make-a-complaint/)
