@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princeton.edu privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604033113id_/https%3A//www.princeton.edu/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princeton.edu privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209235410id_/https%3A//www.princeton.edu/privacy-notice) for the most accurate reproduction.*
 
 # Princeton University Privacy Notice | Princeton University
 
