@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purpleculture.net privacy policy that was archived on 2018-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181023025449id_/https%3A//www.purpleculture.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpleculture.net privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209212503id_/https%3A//www.purpleculture.net/privacy) for the most accurate reproduction.*
 
 # Privacy Notice : Purple Culture, Online Chinese Bookstore for Chinese Language Learning, Culture Studying, Statistics & Yearbooks and More
 
@@ -48,7 +48,7 @@ We take appropriate measures to ensure that any personal data is kept secure and
 
 ##### Behavioural Advertising
 
-As described above, we use your personal information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the network advertising initiative's ("NAI") educational page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
+As described above, we use your personal information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the network advertising initiative's ("NAI") educational page at [http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work](https://www.networkadvertising.org/understanding-online-advertising/how-does-it-work).
 
 You can opt out of targeted advertising by visiting:  
 Facebook - <https://www.facebook.com/settings/?tab=ads>  
