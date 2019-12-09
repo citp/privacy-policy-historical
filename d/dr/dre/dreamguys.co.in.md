@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamguys.co.in privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330152217id_/https%3A//dreamguys.co.in/privacy-policy-dreamguys-technologies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamguys.co.in privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209210335id_/https%3A//dreamguys.co.in/privacy-policy-dreamguys-technologies) for the most accurate reproduction.*
 
 # privacy-policy-dreamguys-technologies | Dreamguy's Technologies
 
