@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfshark.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617075238id_/https%3A//surfshark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfshark.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209012237id_/https%3A//surfshark.com/privacy-policy) for the most accurate reproduction.*
 
 # Surfshark Privacy Policy
 
@@ -37,6 +37,10 @@ A cookie is a small string of information that transfers to your computer for id
 
 A web beacon is an invisible pixel-sized graphic image on a web page, web-based document or e-mail message. It helps us do things like view the URL of the page on which the beacon appears and the time the Website, document or email in question is viewed. They can be used to confirm the receipt of, and response to, our emails, including those that you forward to friends and family; and they help deliver a more personalized online experience.
 
+**Privacy beyond VPN products**
+
+Detailed privacy related information regarding additional Surfshark products can be accessed [here](https://surfshark.com/privacy-beyond-vpn-notice) and [here](https://surfshark.com/trustdns-privacy-policy).
+
 ## 2\. How does our Website interact with third party services and content?
 
 We use third-party service providers to help handle parts of our business. These parties will only use the minimum amount of your data as specified above in Clause 1 for the purpose of carrying out the work as agreed with us. Such service providers are:
@@ -74,7 +78,7 @@ If you request, we will delete your information specified in Clause 1, unless, w
 
 
 
-Please keep in mind, that one of our most important principals is No-logs Policy (see more in our [Terms of Service](https://surfshark.com/terms-of-service)), therefore we collect only the minimum amount of information about you, which is required to provide you with our Services.
+Please keep in mind, that one of our most important principals is [No-logs Policy](https://web.archive.org/features/no-logs) (see more in our [Terms of Service](https://surfshark.com/terms-of-service)), therefore we collect only the minimum amount of information about you, which is required to provide you with our Services.
 
 ## 6\. Does our Website respond to do-not-track signals?
 
@@ -131,4 +135,4 @@ If you have any questions or comments relating to Surfshark Services or this Pri
 
 ## 13\. When was this policy last updated?
 
-March 8, 2019.
+August 22, 2019.
