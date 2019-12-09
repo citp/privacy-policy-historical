@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the teachstarter.com privacy policy that was archived on 2018-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181009200530id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachstarter.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209013055id_/https%3A//www.teachstarter.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Teach Starter Privacy Policy
 
 ## 1\. Privacy Policy
 
-Teach Starter Pty Ltd ACN 163 164 869 ( **Teach Starter** ) takes all reasonable steps to implement processes and procedures to safeguard Personal Information.  Teach Starter endeavours to but is not required to comply with the Australian Privacy Principles contained in the _Privacy Act 1988_ (Cth) ( **Law** ).  While not claiming to be a statement of compliance, this Privacy Policy outlines Teach Starter’s use, collection and storage of Personal Information.
+Teach Starter Pty Ltd ABN 69 634 768 817 ( **Teach Starter** ) takes all reasonable steps to implement processes and procedures to safeguard Personal Information.  Teach Starter endeavours to but is not required to comply with the Australian Privacy Principles contained in the _Privacy Act 1988_ (Cth) ( **Law** ).  While not claiming to be a statement of compliance, this Privacy Policy outlines Teach Starter’s use, collection and storage of Personal Information.
 
 This Privacy Policy applies to all Personal Information collected by Teach Starter in the course of providing services to users ( **Users** ) regardless of the source of that Personal Information.  This Privacy Policy is available on the Site.
 
@@ -61,14 +61,14 @@ If a User would like to access or correct Personal Information that Teach Starte
 
 Scott Tonges
 
-Teach Starter Pty Ltd ACN 163 164 869  
-PO Box 392  
-Ashgrove  West, QLD 4060  
+Teach Starter Pty Ltd ABN 69 634 768 817  
+Level 2, 55 Railway Terrace  
+Milton, QLD 4064  
 Australia
 
 Telephone: 1800 790 441
 
-Email: scott@teachstarter.com
+Email: support@teachstarter.com
 
 The User will need to identify themselves to the reasonable satisfaction of Teach Starter before Teach Starter will provide the User with their Personal Information which Teach Starter may or may not have in its possession.
 
