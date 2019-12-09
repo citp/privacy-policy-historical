@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work4labs.com privacy policy that was archived on 2018-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180906032639id_/http%3A//www.work4labs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work4labs.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209182554id_/https%3A//www.work4labs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Work4
 
@@ -16,6 +16,8 @@ The GDPR (EU regulation 2016/679) provides strong guarantees and rights related 
   * – Provide means for the same individuals to exercise all of their rights over their personal data (access, erasure, portability, etc.), as defined in the GDPR, and ensure such requests are processed in a timely manner.
 
 
+
+For all legal purposes, Work4 SAS is the subsidiary company  acting as the EU representative mandated by the parent company Work4 Labs, Inc. to be addressed by supervisory authorities and data subjects, on all issues related to processing, for the purposes of ensuring compliance with the EU General Data Protection Regulation. 
 
 ## U.S.-EU Privacy Shield Statement
 
@@ -78,6 +80,10 @@ We may share the information we collect from and about you with third parties as
   * – In the event that Work4 goes through a business transaction, such as a merger, an acquisition by another company, or a sale of all or a portion of its assets, your information may be one of the transferred assets.
 
 
+
+## Information Retention
+
+We do not store personally identifiable information longer than required for the adequate provision of our services. In particular, we do not retain Customer candidate Information longer than one year after they are submitted. If you wish to ask to remove personally identifiable information, please contact us at: privacy@work4labs.com. 
 
 ## Links
 
