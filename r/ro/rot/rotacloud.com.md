@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotacloud.com privacy policy that was archived on 2019-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190204201426id_/https%3A//rotacloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotacloud.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209084028id_/https%3A//rotacloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RotaCloud Terms
 
@@ -9,6 +9,19 @@ Welcome to RotaCloud's privacy policy.
 RotaCloud respects your privacy and is committed to protecting your personal data. This privacy policy will inform you as to how we look after your personal data when you visit our website (regardless of where you visit it from) and tell you about your privacy rights and how the law protects you.
 
 This privacy policy is provided in a layered format so you can click through to the specific areas set out below. Please also use the Glossary to understand the meaning of some of the terms used in this privacy policy.
+
+  1. Important information and who we are
+  2. The data we collect about you
+  3. How is your personal data collected
+  4. How we use your personal data
+  5. Disclosures of your personal data
+  6. International transfers
+  7. Data security
+  8. Data retention
+  9. Your legal rights
+  10. Glossary
+
+
 
 ## Important information and who we are
 
@@ -24,7 +37,7 @@ It is important that you read this privacy policy together with any other privac
 
 ### Controller
 
-Kettle and Keyboard Ltd (trading as RotaCloud, whose correspondence address is 20 George Hudson Street, York YO1 6WR, and company number is 08625682) is the controller and responsible for your personal data (collectively referred to as "RotaCloud", "we", "us" or "our" in this privacy policy).
+Kettle and Keyboard Ltd (trading as RotaCloud, whose correspondence address is RotaCloud, 20 George Hudson Street, York YO1 6WR, and company number is 08625682) is the controller and responsible for your personal data (collectively referred to as "RotaCloud", "we", "us" or "our" in this privacy policy).
 
 We have appointed a data privacy manager who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise your legal rights, please contact the data privacy manager using the details set out below.
 
@@ -38,7 +51,7 @@ Our full details are:
 
 **Email address:** privacy@rotacloud.com
 
-**Postal address:** 20 George Hudson Street, York YO1 6WR
+**Postal address:** RotaCloud, 20 George Hudson Street, York YO1 6WR
 
 You have the right to make a complaint at any time to the Information Commissioner's Office (ICO), the UK supervisory authority for data protection issues (www.ico.org.uk). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please [contact us](https://rotacloud.com/contact/) in the first instance.
 
@@ -118,7 +131,6 @@ We have set out below, in a table format, a description of all the ways we plan 
 
 Note that we may process your personal data for more than one lawful ground depending on the specific purpose for which we are using your data. Please [contact us](https://rotacloud.com/contact/) if you need details about the specific legal ground we are relying on to process your personal data where more than one ground has been set out in the table below.
 
-  
 Purpose/Activity | Type of data | Lawful basis for processing including basis of legitimate interest  
 ---|---|---  
 To register you as a new customer | (a) Identity  
