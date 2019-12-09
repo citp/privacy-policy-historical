@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myweddingsongs.com privacy policy that was archived on 2019-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190416154953id_/https%3A//www.myweddingsongs.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myweddingsongs.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209050454id_/https%3A//www.myweddingsongs.com/terms-privacy) for the most accurate reproduction.*
 
 # Privacy, Terms & Disclosure | My Wedding Songs
 
@@ -21,7 +21,7 @@ HOW YOUR INFORMATION MAY BE USED
 We may use the information collected in the following ways:
 
   * To operate and maintain the Website;
-  * To create your account, identify you as a user of the Website, and customize the Website for your account;
+  * To create your account, identify you as a user of the Website, and customize the Website for your account; 
   * To send you promotional information, such as newsletters. Each email promotion will provide information on how to opt-out of future mailings;
   * To send you administrative communications, such as administrative emails, confirmation emails, technical notices, updates on policies, or security alerts;
   * To respond to your comments or inquiries;
@@ -110,7 +110,7 @@ CHILDREN’S INFORMATION
 
 The Website does not knowingly collect any personally identifiable information from children under the age of 16. If a parent or guardian believes that the Website has personally identifiable information of a child under the age of 16 in its database, please contact us immediately at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) and we will use our best efforts to promptly remove such information from our records.
 
- **How To Change the Information You Provided Us**  
+**How To Change the Information You Provided Us**  
 Please send us an email to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection) or request through our contact us form.
 
 My Wedding Songs uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
@@ -137,7 +137,7 @@ Visitors to My Wedding Songs may subscribe or opt-in for advertising packages. 
 
 5) Communication Usage
 
-The My Wedding Songs site may contain phone numbers, website addresses, and various types of email, direct or other communication facilities designed for members to contact wedding product and service providers and for the same providers to contact My Wedding Songs members (as Communication Usage). Communication Usage also entails all Guest books. By utilizing My Wedding Songs, you agree to the Communication Usage only to inquire of listed services or products that a proper and related to the particular Communication Usage.
+The My Wedding Songs site may contain phone numbers, website addresses, and various types of email, direct or other communication facilities designed for members to contact wedding product and service providers and for the same providers to contact My Wedding Songs members (as Communication Usage). Communication Usage also entails all Guest books. By utilizing My Wedding Songs, you agree to the Communication Usage only to inquire of listed services or products that a proper and related to the particular Communication Usage. 
 
 By the way of example, and not limited to, you agree that when related to Communication Usage, you will not:
 
@@ -207,7 +207,7 @@ However, you will still be able to place orders .
 
 Third-party disclosure
 
-We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety.
+We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information unless we provide users with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or serving our users, so long as those parties agree to keep this information confidential. We may also release information when it’s release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property or safety. 
 
 However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
@@ -217,7 +217,7 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 Google
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
 
 We use Google AdSense Advertising on our website.
 
