@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vpnhub.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526022951id_/https%3A//www.vpnhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnhub.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209012237id_/https%3A//www.vpnhub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - VPNHUB
+# Privacy Policy
 
 #### **_Last Modified: January 7th, 2019_**
 
@@ -13,16 +13,16 @@ By accessing or using our Services and Website, you accept the terms of this Pri
 We collect, process and retain personal data to the extent it is necessary to provide users with our service. This privacy policy applies to information we collect:
 
   * on the Services and Website,
-  * in e-mail or other communications between you and the Services and Website,
-  * through the desktop and mobile applications of VPNhub you download from the Website, Google Play, or Apple App Store, or
-  * when you interact with our advertising and Services on third-party websites and services, if those services or advertising include links to this privacy policy.
+  * in e-mail or other communications between you and the Services and Website, 
+  * through the desktop and mobile applications of VPNhub you download from the Website, Google Play, or Apple App Store, or 
+  * when you interact with our advertising and Services on third-party websites and services, if those services or advertising include links to this privacy policy. 
 
 
 
 It does not apply to information collected by:
 
-  * us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or
-  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from the Services or Website. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third- party websites and we are not responsible for their privacy statements, information or other practices.
+  * us offline or through any other means, including on any other website operated by us or any third party (including our affiliates and subsidiaries); or 
+  * any third party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from the Services or Website. Clicking on those links or enabling those connections may allow third parties to collect or share data about you. We do not control these third- party websites and we are not responsible for their privacy statements, information or other practices. 
 
 
 
@@ -45,9 +45,9 @@ We use different methods to collect data from and about you including through:
 
 Through Direct Interactions we may collect, use, store and transfer the following information that users choose to provide to us:
 
-  * **Account Information.** E-mail/username and password if you create VPNHub Premium account. No email is required to create a free version of VPNhub account. We will never require you to register or provide us any contact information to download or use our products.
-  * **Contact data.** Email address and additional Personal Information you may provide us if you contact us.
-  * **Marketing and Communications Data.** Your communication preferences and preferences in receiving marketing from us, our third parties affiliates or partners.
+  * **Account Information.** E-mail/username and password if you create VPNHub Premium account. No email is required to create a free version of VPNhub account. We will never require you to register or provide us any contact information to download or use our products. 
+  * **Contact data.** Email address and additional Personal Information you may provide us if you contact us. 
+  * **Marketing and Communications Data.** Your communication preferences and preferences in receiving marketing from us, our third parties affiliates or partners. 
 
 
 
@@ -57,22 +57,22 @@ If you choose to purchase a subscription for VPNhub Premium account, we will not
 
 We and our third party service providers may automatically collect, use, store and transfer the following information about you or your device as follows:
 
-  * **When VPNHub app is launched, but before you connect to the VPN,** we and our third party service providers collect device-specific information such as unique mobile ID, operating system and platform, browser type and version, network information and other technology on the devices you use to access the Website or the Services.
-  * **When you connect to the VPNhub VPN,** we collect your internet protocol (IP) address, which we pseudonymize, immediately encrypt it and store it only for the duration of your VPN session. Your IP address is deleted after you disconnect from the VPN without storing or logging it. We do not associate your IP address with your online activities and we do not store or log your IP address with your online activities.
+  * **When VPNHub app is launched, but before you connect to the VPN,** we and our third party service providers collect device-specific information such as unique mobile ID, operating system and platform, browser type and version, network information and other technology on the devices you use to access the Website or the Services. 
+  * **When you connect to the VPNhub VPN,** we collect your internet protocol (IP) address, which we pseudonymize, immediately encrypt it and store it only for the duration of your VPN session. Your IP address is deleted after you disconnect from the VPN without storing or logging it. We do not associate your IP address with your online activities and we do not store or log your IP address with your online activities. 
   * **Usage Data** includes non-personally identifiable aggregated information about how you use our Services and Website. We do not attribute any specific website visits or app usage to any specific user. **We do not keep logs of your online activities and will never associate any domains, websites or applications that you use with you, your device or your email.**
-  * **Transaction Data** in case of purchases, it may include details about payments to and from you and details of products and services you have purchased or received from us.
-  * **Aggregated Data.** We may also collect, use and share your data to produce and share aggregated data that do not identify you and therefore not considered as Personal Information. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific Services feature, to generate statistics about our users or to calculate ad impressions clicked on.
+  * **Transaction Data** in case of purchases, it may include details about payments to and from you and details of products and services you have purchased or received from us. 
+  * **Aggregated Data.** We may also collect, use and share your data to produce and share aggregated data that do not identify you and therefore not considered as Personal Information. For example, we may aggregate your usage data to calculate the percentage of users accessing a specific Services feature, to generate statistics about our users or to calculate ad impressions clicked on. 
 
 
 
 **Information Collected through Automatic Data Collection Technologies and Cookies when you visit the Website**
 
-  * As you navigate through the Website, we and our third party service providers use automatic data collection technologies to collect certain information about your equipment, including information such as your device information (including device and application IDs), unique mobile ID, advertising ID, operating system and platform, browser type and version, internet service providers, mobile network names and cookie information. Such information is used only used to improve the Website, provide troubleshoot and perform analytics.
-  * We also use these technologies to collect information about your online activities over time and across third-party websites or other online services (“interest-based advertising”). See “Choices About How We Collect, Use and Disclose Your Personal Information” below for information on how you can opt out of behavioral tracking on this Website and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking.
-  * We may use or engage others to use cookies, web beacons, clear gifs, and similar technologies to understand how users access and use our Website. In general, you can browse our Website without telling us who you are or submitting any Personal Information.
+  * As you navigate through the Website, we and our third party service providers use automatic data collection technologies to collect certain information about your equipment, including information such as your device information (including device and application IDs), unique mobile ID, advertising ID, operating system and platform, browser type and version, internet service providers, mobile network names and cookie information. Such information is used only used to improve the Website, provide troubleshoot and perform analytics. 
+  * We also use these technologies to collect information about your online activities over time and across third-party websites or other online services (“interest-based advertising”). See “Choices About How We Collect, Use and Disclose Your Personal Information” below for information on how you can opt out of behavioral tracking on this Website and how we respond to web browser signals and other mechanisms that enable consumers to exercise choice about behavioral tracking. 
+  * We may use or engage others to use cookies, web beacons, clear gifs, and similar technologies to understand how users access and use our Website. In general, you can browse our Website without telling us who you are or submitting any Personal Information. 
   * _Browser Cookies._ We do not use cookies on our Website.
-  * _Disabling Cookies._ The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, be notified when you receive a new cookie, or to disable cookies. Website visitors who disable their browsers’ ability to accept cookies will be able to browse the Website but certain Website features will not function.
-  * _Analytics._ We use third party analytics and advertising tools, in particular Google Analytics, Facebook Pixel and Twitter Pixel (Website only) and Firebase and AppsFlyer (for Services only). Google Analytics and Firebase are provided by Google, Inc., USA (“Google”). These tools and technologies may collect and analyze certain types of information, including IP addresses, device and software identifiers, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), and other similar information via the use of cookies or pixels. The information generated by Google Analytics or Firebase about your use of the Website or Services may be transmitted to and stored by Google (for Google Analytics and Firebase) on servers in the United States. Because we activated IP anonymization for Google Analytics or Firebase, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Facebook, Twitter, Google and AppsFlyer will use this information for the purpose of evaluating your use of the Services, compiling reports on Services activity and managing advertising content. To learn how you can opt out from this information collection by Facebook (for Facebook Pixel) by Twitter (for Twitter pixel) by Google (for both Google Analytics and Firebase) or by AppsFlyer, see “Choices About How We Collect, Use and Disclose Your Personal Information” below.
+  * _Disabling Cookies._ The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, be notified when you receive a new cookie, or to disable cookies. Website visitors who disable their browsers’ ability to accept cookies will be able to browse the Website but certain Website features will not function. 
+  * _Analytics._ We use third party analytics and advertising tools, in particular Google Analytics, Facebook Pixel and Twitter Pixel (Website only) and Firebase and AppsFlyer (for Services only). Google Analytics and Firebase are provided by Google, Inc., USA (“Google”). These tools and technologies may collect and analyze certain types of information, including IP addresses, device and software identifiers, onsite behavior and usage information, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), and other similar information via the use of cookies or pixels. The information generated by Google Analytics or Firebase about your use of the Website or Services may be transmitted to and stored by Google (for Google Analytics and Firebase) on servers in the United States. Because we activated IP anonymization for Google Analytics or Firebase, Google will anonymize the last octet of a particular IP address. Only in exceptional cases, the full IP address is sent to and shortened by Google servers in the USA. Facebook, Twitter, Google and AppsFlyer will use this information for the purpose of evaluating your use of the Services, compiling reports on Services activity and managing advertising content. To learn how you can opt out from this information collection by Facebook (for Facebook Pixel) by Twitter (for Twitter pixel) by Google (for both Google Analytics and Firebase) or by AppsFlyer, see “Choices About How We Collect, Use and Disclose Your Personal Information” below. 
 
 
 
@@ -98,22 +98,22 @@ In general, we use information that we collect about you or that you provide to 
 
   * To verify your identity when you login to the Services;
   * To administer, maintain and improve our Services;
-  * Provision of services: to present our Services and their contents to you, including any interactive features on the Services, and to provide you with information, products or services that you request from us;
-  * Customization of content: to perform research and analysis about your use of, or interest in, our Services and Website content, products, or services, in order to develop and display content and advertising tailored to your interests on our Website and other sites;
-  * Advertising: To communicate with you and send you promotional information that may interest you about products, services, and offers made available by us, our affiliates or our marketing partners if you have consented to receive such information from us (For more information, see “Choices About How We Collect, Use and Disclose Your Personal Information”); and
-  * To analyze usage and trends on our Services and to better understand how users use the Services.
+  * Provision of services: to present our Services and their contents to you, including any interactive features on the Services, and to provide you with information, products or services that you request from us; 
+  * Customization of content: to perform research and analysis about your use of, or interest in, our Services and Website content, products, or services, in order to develop and display content and advertising tailored to your interests on our Website and other sites; 
+  * Advertising: To communicate with you and send you promotional information that may interest you about products, services, and offers made available by us, our affiliates or our marketing partners if you have consented to receive such information from us (For more information, see “Choices About How We Collect, Use and Disclose Your Personal Information”); and 
+  * To analyze usage and trends on our Services and to better understand how users use the Services. 
   * Business purposes such as audits.
-  * Functionality and security: to diagnose or fix technology problems, and detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement;
-  * Compliance: to enforce our terms and conditions and to comply with legal and regulatory obligations;
-  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests;
-  * in any other way we may describe when you provide the information; or for any other purpose with your consent provided separately from this privacy policy.
-  * _Service Providers._ With third party service providers who provide services on our behalf such as processing payments ([Probiller](https://probiller.com/legal/privacy), Google Play and Apple App Store). Our service providers receive only the information necessary to perform their designated functions, and are not permitted to use or disclose this information or your Personal Information for their own marketing or other purposes;
+  * Functionality and security: to diagnose or fix technology problems, and detect, prevent, and respond to actual or potential fraud, illegal activities, or intellectual property infringement; 
+  * Compliance: to enforce our terms and conditions and to comply with legal and regulatory obligations; 
+  * Where it is necessary for our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests; 
+  * in any other way we may describe when you provide the information; or for any other purpose with your consent provided separately from this privacy policy. 
+  * _Service Providers._ With third party service providers who provide services on our behalf such as processing payments ([Probiller](https://probiller.com/legal/privacy), Google Play and Apple App Store). Our service providers receive only the information necessary to perform their designated functions, and are not permitted to use or disclose this information or your Personal Information for their own marketing or other purposes; 
   * **Provider** | **Service** | **About**  
 ---|---|---  
 Probiller | Payment Processor | [Learn more](https://probiller.com/legal/privacy)  
 Google Play | Payment Processor | [Learn more](https://policies.google.com/privacy)  
 Apple App Store | Payment Processor | [Learn more](https://www.apple.com/legal/privacy/)  
-  * _Aggregate, Anonymous or De-Identified Information._ Sharing aggregate or non- personally identifiable information with non-affiliated third parties for advertising, marketing or research purposes. We do not share your personal information with any third parties for their own marketing, advertising or research purposes.
+  * _Aggregate, Anonymous or De-Identified Information._ Sharing aggregate or non- personally identifiable information with non-affiliated third parties for advertising, marketing or research purposes. We do not share your personal information with any third parties for their own marketing, advertising or research purposes. 
 
 
 
@@ -127,9 +127,9 @@ Despite our efforts, no data security methods guarantee 100% protection. We do n
 
 We do not disclose your Personal Information except in the limited circumstances described here:
 
-  * **Members of corporate group.** To members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) who operate services that help us with: customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance.
-  * **Service providers.** To our authorized service providers that perform services on our behalf such as payment processing who may have access to Personal Information necessary to perform their functions but are not permitted to share or use such information for other purposes.
-  * **Legal successors.** To a buyer or successor in the event of merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which Personal Information held by us about our Services and Website users is among the assets transferred. Should such sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your Personal Information uses it in a manner that is consistent with this privacy policy.
+  * **Members of corporate group.** To members of our corporate group (that is, entities that control, are controlled by, or are under common control with us) who operate services that help us with: customer management, customization of content, advertising, analytics, verifications, functionality and security, and compliance. 
+  * **Service providers.** To our authorized service providers that perform services on our behalf such as payment processing who may have access to Personal Information necessary to perform their functions but are not permitted to share or use such information for other purposes. 
+  * **Legal successors.** To a buyer or successor in the event of merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of our assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which Personal Information held by us about our Services and Website users is among the assets transferred. Should such sale or transfer occur, we will use reasonable efforts to try to ensure that the entity to which we transfer your Personal Information uses it in a manner that is consistent with this privacy policy. 
 
 
 
@@ -157,9 +157,9 @@ Where we no longer need to process your Personal Information for the purposes se
 
 We strive to provide you with choices regarding the Personal Information you provide to us.
 
-  * You can choose not to provide us with certain Personal Information, but that may result in you being unable to use our Services or certain features of them because such information may be required in order to register as a member (email is required to create a VPNhub Premium account); purchase products or services; contact us (email is required when contacting customer support); or initiate other transactions on our Services.
-  * You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, some parts of the Website may become inaccessible or not function properly.
-  * You may opt out of Firebase cookie or Google Analytics by visiting the [Google advertising opt-out](https://adssettings.google.com/authenticated) page or by downloading and installing the browser plug-in available at [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout).
+  * You can choose not to provide us with certain Personal Information, but that may result in you being unable to use our Services or certain features of them because such information may be required in order to register as a member (email is required to create a VPNhub Premium account); purchase products or services; contact us (email is required when contacting customer support); or initiate other transactions on our Services. 
+  * You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent. If you disable or refuse cookies, some parts of the Website may become inaccessible or not function properly. 
+  * You may opt out of Firebase cookie or Google Analytics by visiting the [Google advertising opt-out](https://adssettings.google.com/authenticated) page or by downloading and installing the browser plug-in available at [Google Analytics opt-out page](https://tools.google.com/dlpage/gaoptout). 
   * Opt-Out from Third-Party Pixels:
   * **Source** | **Listing** | **About** | **Opt-Out**  
 ---|---|---|---  
@@ -167,11 +167,11 @@ Facebook | staticxx.facebook.com
 www.facebook.com | [Learn more](https://www.facebook.com/help/403786193017893) | [Disable](https://www.facebook.com/help/211829542181913)  
 Google Analytics | ssl- googleanalytics.com | [Learn more](https://marketingplatform.google.com/about/) | [Disable](https://tools.google.com/dlpage/gaoptout)  
 Twitter | platform.twitter.com  
-branalytics.twitter.com t.co | [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-cookies) | [Disable](https://twitter.com/settings/personalization)  
-  * AppsFlyer: You can opt-out from being tracked by AppsFlyer by emailing a request to [privacy@appsflyer.com](mailto:privacy@appsflyer.com) or by completing the [ApplsFlyer Opt-Out form](https://www.appsflyer.com/optout).
-  * MoPub: You may opt-out from MoPub by visiting the [MoPub Opt-Out Information Page](https://www.mopub.com/optout/).
-  * When you create an account on our Services, you may be given a choice as to whether you want to receive email messages, newsletters or both about product updates, improvements, special offers, or containing special distributions of content. If you no longer want to receive commercial or promotional emails or newsletters from us, you will need to avail yourself of the unsubscribe mechanism set out in the applicable communication. It may take up to seven days for us to process an opt-out request. Please note that we may send you other types of transactional and relationship e-mail communications, such as administrative notices without offering you the opportunity to opt out of receiving them.
-  * You may delete your account with us at any time. If you delete your account, your Personal Information and all account-related information will no longer be accessible by you and will not be saved. After deleting your account, if you choose to have an account with us in the future, you will have to sign up for a new account.
+branalytics.twitter.com t.co |  [Learn more](https://help.twitter.com/en/rules-and-policies/twitter-cookies) | [Disable](https://twitter.com/settings/personalization)  
+  * AppsFlyer: You can opt-out from being tracked by AppsFlyer by emailing a request to [privacy@appsflyer.com](mailto:privacy@appsflyer.com) or by completing the [ApplsFlyer Opt-Out form](https://www.appsflyer.com/optout). 
+  * MoPub: You may opt-out from MoPub by visiting the [MoPub Opt-Out Information Page](https://www.mopub.com/optout/). 
+  * When you create an account on our Services, you may be given a choice as to whether you want to receive email messages, newsletters or both about product updates, improvements, special offers, or containing special distributions of content. If you no longer want to receive commercial or promotional emails or newsletters from us, you will need to avail yourself of the unsubscribe mechanism set out in the applicable communication. It may take up to seven days for us to process an opt-out request. Please note that we may send you other types of transactional and relationship e-mail communications, such as administrative notices without offering you the opportunity to opt out of receiving them. 
+  * You may delete your account with us at any time. If you delete your account, your Personal Information and all account-related information will no longer be accessible by you and will not be saved. After deleting your account, if you choose to have an account with us in the future, you will have to sign up for a new account. 
 
 
 
@@ -179,12 +179,12 @@ branalytics.twitter.com t.co | [Learn more](https://help.twitter.com/en/rules-an
 
 Subject to local law, you have certain rights regarding the Personal Information we collect, use or disclose, including the right:
 
-  * to receive information on the Personal Information concerning we hold about you and how such Personal Information is used (right to access);
-  * to rectify inaccurate Personal Information concerning you (right to data rectification);
-  * to erase your Personal Information (right to erasure, “right to be forgotten”);
-  * to receive the Personal Information provided by you in a structured, commonly used and machine-readable format and to transmit those Personal Information to another data controller (right to data portability);
-  * to object to the use of your Personal Information where such use is based on our legitimate interests or on public interests (right to object); and
-  * in some cases, to restrict our use of your Personal Information (right to restriction of processing).
+  * to receive information on the Personal Information concerning we hold about you and how such Personal Information is used (right to access); 
+  * to rectify inaccurate Personal Information concerning you (right to data rectification); 
+  * to erase your Personal Information (right to erasure, “right to be forgotten”); 
+  * to receive the Personal Information provided by you in a structured, commonly used and machine-readable format and to transmit those Personal Information to another data controller (right to data portability); 
+  * to object to the use of your Personal Information where such use is based on our legitimate interests or on public interests (right to object); and 
+  * in some cases, to restrict our use of your Personal Information (right to restriction of processing). 
 
 
 
