@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agorapulse.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330185310id_/https%3A//www.agorapulse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agorapulse.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209134244id_/https%3A//www.agorapulse.com/privacy-policy) for the most accurate reproduction.*
 
 # Agorapulse | Privacy Policy
 
@@ -112,6 +112,31 @@ Agorapulse uses Customer Content for the following purposes:
 
 
 
+ _Third-Party Apps and Social Networks_
+
+The Service enables an ecosystem where you can choose to connect with Supported Platforms. If you choose to send your content to a Supported Platform, Agorapulse is no longer responsible for that content from the point in time that it leaves the Service. Instead, the content will be in the control of the relevant Supported Platforms’ terms and privacy policies. For example, if you use the Service to post a message on Facebook, Facebook’s privacy policy and terms of service will apply to that message on Facebook’s server. While we attempt to facilitate access only to those Supported Platforms that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of any Supported Platform. We encourage you to carefully review the privacy policies of any Supported Platform you access via the Services. For reference, the privacy policies of our current supported platforms are as follows:
+
+  * <https://www.youtube.com/yt/about/policies/#community-guidelines>
+  * <https://twitter.com/privacy>
+  * <https://www.facebook.com/policy.php>
+  * <https://help.instagram.com/402411646841720>
+  * <https://www.linkedin.com/legal/privacy-policy>
+  * <http://www.google.com/policies/privacy>
+
+
+
+###  **2.3- Revoking access to the Supported Platforms**
+
+As the Service relies entirely on its connections to Supported Platforms and their APIs (such as the Facebook API, the Instagram API, the Twitter API, the LinkedIn API and the Youtube API services), if you wish to ensure that the Service doesn’t access data from the Social Profiles you have previously connected to the Service, this is how you should proceed
+
+  * For Youtube: <https://security.google.com/settings/security/permissions>
+  * For Twitter: <https://help.twitter.com/en/managing-your-account/connect-or-revoke-access-to-third-party-apps>
+  * For Facebook: <https://www.facebook.com/help/204306713029340>
+  * For Instagram: <https://www.facebook.com/help/204306713029340>
+  * For LinkedIn: <https://www.linkedin.com/pulse/remove-third-party-apps-connected-your-linkedin-hector-rodriguez/>
+
+
+
 ##  **3- Cookies and related technologies**
 
 Like many websites, we collect certain information through the use of “cookies,” which are small text files that are saved by your browser when you access our Site. We may use both session cookies and persistent cookies to identify that you’ve logged in to the Site and to tell us how and when you interact with our Site. We may also use cookies to monitor aggregate usage and web traffic routing on our Site and to customize and improve our Service.
@@ -133,11 +158,11 @@ The Network Advertising Initiative has also developed a tool that may help you u
 
 Agorapulse may also use related technologies including web beacons, pixels, and software tokens in order to facilitate your use of the Service. Most notably, the Service use software tokens (stored securely on Agorapulse-controlled servers) in order to facilitate the logging in to and the functioning of both the Supported Platforms.
 
-##  **4- How is your information secured ?**
+##  **4- How is your information secured?**
 
  **The security of your personal information is important to us.**
 
-Agorapulse has implemented various measures to ensure that the information is adequately protected against unauthorised access, use, disclosure and destruction. Please keep in mind that risk can never be eliminated but can be significantly mitigated and reduced. You should bear in mind that submission of information over the internet is never entirely secure.
+Agorapulse has implemented various measures to ensure that the information is adequately protected against unauthorized access, use, disclosure and destruction. Please keep in mind that risk can never be eliminated but can be significantly mitigated and reduced. You should bear in mind that submission of information over the internet is never entirely secure.
 
 All measures which Agorapulse has taken significantly reduce the risk. Agorapulse shall not be held liable by any third party, including you, in any event of unauthorized access, use and/or disclosure of information provided that such is not due to Gross Negligence, willful misconduct, fraud or bad faith by Agorapulse.
 
@@ -209,9 +234,9 @@ The governing law and dispute resolution mechanism found in Our Terms of Service
 
  **“Site”** shall mean the website www.agorapulse.com, in addition to any sub-pages that are integrated within this website;
 
- **“Social Profile”** means a personal or business profile created by a Customer on a Supported Platform. That includes, but not limited to: Facebook pages, Facebook groups, Facebook personal profiles, Twitter profiles, Instagram personal or business profiles, Youtube channels, LinkedIn personal profiles or company pages and Google+ company pages.
+ **“Social Profile”** means a personal or business profile created by a Customer on a Supported Platform. That includes, but not limited to: Facebook pages, Facebook groups, Facebook personal profiles, Twitter profiles, Instagram personal or business profiles, Youtube channels, LinkedIn personal profiles and company pages.
 
- **“Supported Platform(s)”** means the social networking site(s) currently supported by the Service, including Twitter, Facebook, LinkedIn, Instagram, Youtube, Google+ and other social networks as described on the Site;
+ **“Supported Platform(s)”** means the social networking site(s) currently supported by the Service, including Twitter, Facebook, LinkedIn, Instagram, Youtube and other social networks as described on the Site;
 
 All capitalized terms that are not otherwise defined herein shall have the meaning given to them in our Terms of Service which can be found at <https://www.agorapulse.com/terms-of-service>.
 
