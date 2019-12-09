@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326193756id_/https%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debt.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209024807id_/https%3A//www.debt.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - We Will Not Share Your Information
 
@@ -14,9 +14,9 @@ ClayRun LLC reserves the right to revise this Policy at any time, in our discret
 
 When you interact with us through the Site, or otherwise use or visit the Site, we may collect personal information, that is, information that identifies you personally, alone or in combination with other information available to us.  For example, we may collect your name, contact information, date of birth, and debt information.  In certain instances, you may have the choice to provide such information.  However, if you choose not to do so, it may impact our ability to provide you with certain services or assistance.  You may also have the opportunity to opt into receiving communications from us.  Where indicated just select the appropriate option.  We may also collect non-personally identifiable information, including through the use of cookies.
 
-_Information from your web browser or mobile device._  You may generally visit most of our Site without telling us who you are or providing personal information.  We may collect information that is sent to us automatically by your web browser or mobile device when you visit our Site.  For example, we may collect your IP address, the name and type of your browser, and the date and time you visit our Site, depending on your browser or device settings which you may be able to change.  While this information is not, on its own, personally identifiable, we may combine it with other information that does identify you.
+ _Information from your web browser or mobile device._ You may generally visit most of our Site without telling us who you are or providing personal information.  We may collect information that is sent to us automatically by your web browser or mobile device when you visit our Site.  For example, we may collect your IP address, the name and type of your browser, and the date and time you visit our Site, depending on your browser or device settings which you may be able to change.  While this information is not, on its own, personally identifiable, we may combine it with other information that does identify you.
 
-_Cookies and Other Technologies:_  A “cookie” is a small file placed on your device when you visit a site, such as ours.  A “session cookie” expires immediately when you end your session (i.e., close your browser).  A “persistent cookie” stores information on the hard drive so that when you end your session and return to the same web site at a later date, the cookie information is still available.  We use cookies and other technologies to collect information to improve and support functions on this Site so we can serve you better.  For example, we may use these technologies to:
+ _Cookies and Other Technologies:_ A “cookie” is a small file placed on your device when you visit a site, such as ours.  A “session cookie” expires immediately when you end your session (i.e., close your browser).  A “persistent cookie” stores information on the hard drive so that when you end your session and return to the same web site at a later date, the cookie information is still available.  We use cookies and other technologies to collect information to improve and support functions on this Site so we can serve you better.  For example, we may use these technologies to:
 
   * collect information about how visitors access and use this Site, such as which pages they visit and for how long, and what functions or links they use most often; and
   * support the features and functionality of this Site and make it more personal, for example, by repopulating information you have already provided so you do not need to enter that information again.
@@ -33,11 +33,11 @@ Please be aware that if you do not configure your browser or actively opt out, y
 
 We use the information we collect from or about you for various purposes, including: to provide you with requested information and services; to contact you as needed for your use of the Site; and to enhance our security and prevent fraud.  We understand that you may wish to make choices about how we collect, use, and share your information.  In certain instances, you may opt-out of how we or third parties collect or handle your personal information.  If you have a question about your ability to opt-out or would like to exercise this right, please contact us as provided below.
 
-_Do Not Track Mechanisms._ Your browser may deliver a “Do-Not-Track (‘DNT’) signal,” or similar mechanism for exercising choices about the collection of information about your online activities.  Because technology continues to change, we do not guarantee that we will honor DNT signals or similar mechanisms at this time.
+ _Do Not Track Mechanisms._ Your browser may deliver a “Do-Not-Track (‘DNT’) signal,” or similar mechanism for exercising choices about the collection of information about your online activities.  Because technology continues to change, we do not guarantee that we will honor DNT signals or similar mechanisms at this time.
 
 You may change previously-expressed preferences for how we use information you provide on or through this Site.  For example, if you have provided your contact information and receive periodic emails from us, you may choose to stop receiving those emails by clicking the “unsubscribe” link in an email’s footer.  You may be able to change other preferences through an account you create on this Site.  Otherwise, please contact us using the information provided below.
 
-_Click-Through Agreements._ When you sign up to use special features of this Site, you may be asked to agree to special terms governing your use of the special feature.  In some cases, you may be asked to expressly consent to special terms, for example, by checking a box or clicking on a button marked “I agree.”  This type of agreement is known as a “click-through” agreement. If any terms of the click-through agreement differ from the terms of this Policy, the terms of the click-through agreement will supplement or amend this Policy and be binding upon you, but only with respect to the matters specified in the “click-through” agreement.
+ _Click-Through Agreements._ When you sign up to use special features of this Site, you may be asked to agree to special terms governing your use of the special feature.  In some cases, you may be asked to expressly consent to special terms, for example, by checking a box or clicking on a button marked “I agree.”  This type of agreement is known as a “click-through” agreement. If any terms of the click-through agreement differ from the terms of this Policy, the terms of the click-through agreement will supplement or amend this Policy and be binding upon you, but only with respect to the matters specified in the “click-through” agreement.
 
 ## Reviewing Your Information
 
@@ -51,15 +51,15 @@ We maintain reasonable administrative, physical and technical measures to protec
 
 All financial organizations need to share client personal information to provide the programs and services requested by the client.   In the section below, we list the primary reasons financial organizations can share their clients’ personal information; the reasons ClayRun LLC chooses to share; and whether you can limit this sharing.
 
-**Reasons we can share your personal information** | **Does ClayRun LLC Share?** | **Can you limit this sharing?**  
+ **Reasons we can share your personal information**|  **Does ClayRun LLC Share?**|  **Can you limit this sharing?**  
 ---|---|---  
-**For our everyday business purposes**  – such as to respond to court orders and legal investigations. | Yes | No  
-**For our marketing purposes**  – to offer programs and services to you | Yes | Yes  
-**For joint marketing with other financial organizations** | Yes | Yes  
-**For our affiliates’ everyday business purposes**  – information about your creditworthiness | Yes | Yes  
-**For our affiliates to market to you** | Yes | Yes  
-**For non-affiliates to market to you** | Yes | Yes  
-**For our research and statistical analysis purposes  **– to improve our services to you and to other consumers | Yes | Yes  
+ **For our everyday business purposes**  – such as to respond to court orders and legal investigations.| Yes| No  
+ **For our marketing purposes**  – to offer programs and services to you| Yes| Yes  
+ **For joint marketing with other financial organizations**|  Yes| Yes  
+ **For our affiliates’ everyday business purposes**  – information about your creditworthiness| Yes| Yes  
+ **For our affiliates to market to you**|  Yes| Yes  
+ **For non-affiliates to market to you**|  Yes| Yes  
+ **For our research and statistical analysis purposes  **– to improve our services to you and to other consumers| Yes| Yes  
   
 We may offer you the opportunity to opt-out of some of our sharing, as required by applicable law, by contacting us as provided in this Policy.  You may also be able to exercise “opt out” choices by contacting the third party directly.
 
