@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaytimes.co.uk privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330092846id_/https%3A//www.gaytimes.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaytimes.co.uk privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209233449id_/https%3A//www.gaytimes.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Gay Times
 
@@ -44,7 +44,7 @@ It is important that you read this privacy notice together with any other privac
 
 **CONTROLLER**
 
-For the purpose of the General Data Protection Regulations (“GDPR”) 8, the data controller is Gay Times Limited, 81 Rivington Street, London, EC2A 3AY (collectively referred to as Gay Times, ”COMPANY”, “we”, “us” or “our” in this privacy notice).
+For the purpose of the General Data Protection Regulations (“GDPR”) 8, the data controller is Gay Times Limited, 133 Whitechapel High Street, London, E1 7PT (collectively referred to as Gay Times, ”COMPANY”, “we”, “us” or “our” in this privacy notice).
 
 We have appointed a data protection manager (DPM) who is responsible for overseeing questions in relation to this privacy notice. If you have any questions about this privacy notice, including any requests to exercise _your legal rights_ , please contact the DPO using the details set out below.
 
@@ -56,7 +56,7 @@ Name of DPM: Robert Hanwell
 
 Email address: robert@gaytimes.co.uk
 
-Postal address: 81 Rivington Street, London, EC2A 3AY
+Postal address: 133 Whitechapel High Street, London, E1 7PT
 
 You have the right to make a complaint at any time to the Information Commissioner’s Office (ICO), the UK supervisory authority for data protection issues ([ _www.ico.org.uk_](http://www.ico.org.uk/)). We would, however, appreciate the chance to deal with your concerns before you approach the ICO so please contact us in the first instance.
 
