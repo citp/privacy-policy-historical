@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2019-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190601000357id_/http%3A//www.boyneresorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitatsnoqualmie.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209141818id_/http%3A//www.boyneresorts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Boyne Resorts
+# Boyne Resorts | Privacy Policy | Boyne Resorts
 
 Boyne Resorts recognizes the importance of protecting the privacy of all information provided by users of our web sites, registrants and visitors for our resorts and activities, recipients of our e-mail newsletters and all other customers of our products and services. We created this policy with a fundamental respect for our customers' right to privacy and to guide our relationships with our customers. This Privacy Statement discloses the privacy practices for all products and services owned and operated by Boyne Resorts.
 
 _Updated: 5/3/2017_
 
-## Information Collection & Use
+### Information Collection & Use
 
 Boyne Resorts collects personally identifiable information from a variety of sources including:
 
@@ -57,7 +57,7 @@ In addition, Boyne Resorts is in partnership with New Frontiers, LLC in the owne
 
 
 
-## Products and Services
+### Products and Services
 
 If you purchase a product or service online from us, we request certain personally identifiable information from you on our login and checkout pages. These products and services include but are not limited to products of (online) tee-time reservations, season pass sales, lodging reservations, equiment rental and instruction. You must provide contact information (such as name, e-mail, and shipping address) and financial information (such as credit card number, expiration date).
 
@@ -115,11 +115,11 @@ Snoqualmie Pass, Washington 98068
 
 
 
-## Social Security Numbers
+### Social Security Numbers
 
 Social Security Numbers are not collected from our customers or used for any purpose.
 
-## Surveys or Contests
+### Surveys or Contests
 
 From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
@@ -127,53 +127,53 @@ Your personally identifiable information will be added to our corporate marketin
 
 Your customer survey ratings will be used as a tool to help us improve our products and services.
 
-## Tell-A-Friend
+### Tell-A-Friend
 
 If you choose to use our referral services to tell a friend, we will ask you for your friend's name and e-mail address. We will automatically send your friend a one-time e-mail inviting him or her to visit the site. Boyne Resorts stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program. Your friend's name and e-mail address will not be added to our corporate marketing database.
 
-## Special Offers and Updates
+### Special Offers and Updates
 
 We will occasionally send you information on products, services, special deals, promotions through the use of monthly e-newsletters and individual e-mail campaigns.
 
-## BoyneRewards Registration
+### BoyneRewards Registration
 
 Based upon the personally identifiable information you provide us via www.BoyneRewards.com, we will send you a welcoming e-mail. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by e-mail or telephone, in accordance with your wishes.
 
-## Profiles
+### Profiles
 
 We do not collect profile information through the use of cookies or log files. We do allow our customers to choose which e-mail marketing campaign to receive. See the "Choice/Opt-out" section for more information about our use of profiles.
 
 Boyne Resorts will share profile information with other third parties that have contracted with us in new business ventures.
 
-## Supplementation of Information
+### Supplementation of Information
 
 In order to keep your contact information current, we use a third party to verify your postal address prior to any direct mailing. Your records will also be checked for a change-of-address form filed at the United States Post Office. Our corporate marketing database will be updated as a result of this process.
 
-## **Information Sharing and Disclosure Personally identifiable information:**
+### **Information Sharing and Disclosure Personally identifiable information:**
 
 We Occasionally Share Personally Identifiable Information with Third Parties.
 
 In the normal course of business, Boyne Resorts will contract with certain business partners to develop new product or service offerings. As a normal part of these business ventures, our corporate marketing database will be shared with our business partner.
 
-## Current Business Partners:
+### Current Business Partners:
 
 Boyne Resorts currently has an agreement with McKeough Land Company Inc. (an Illinois Corporation, whose address is 208 Franklin Avenue, Grand Haven, Michigan, 49417) to allow two mailings per year to our corporate marketing database in an effort to advertise all phases of the "Boyne Reserve" development. 
 
 Boyne Resorts also currently has a mailing list agreement with Bluegreen Vacations Unlimited, Inc., (Bluegreen Vacation Club) whose address is 4960 Conference Way North, Suite 100, Boca Raton, Florida 33431. Boyne Resorts has granted Bluegreen Vacation Club a non-exclusive, limited, license to use and access the Boyne Mailing List for the duration of contract agreement that expires in 2007.
 
-## Agents
+### Agents
 
 We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
-## Service Providers
+### Service Providers
 
 Boyne Resorts does not utilize any third party service providers at this time.
 
-## Legal Disclaimer
+### Legal Disclaimer
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web sites.
 
-## Choice/Opt-out
+### Choice/Opt-out
 
 If you no longer wish to receive our e-newsletter and promotional communications, you may opt-out of receiving them by following the instructions (update profile/unsubscribe link) included at the bottom of each e-newsletter or e-mail communication. We offer an opportunity to opt-out of certain communications on each Web site, or you may contact us at [info@boyneresorts.com](mailto:info@boyneresorts.com) or by mail (See the Contact Us section) to opt-out.
 
@@ -181,7 +181,7 @@ Through the use the profile page mentioned above, individuals would also be able
 
 Announcements of any third parties planning on using your personal information will be made on our corporate Web site at [boyneresorts.com](http://www.boyneresorts.com/), so you can make an informed choice as to whether or not to share your information with that party.
 
-## Log Files
+### Log Files
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
@@ -189,17 +189,17 @@ We use this information, which does not identify individual users, to analyze tr
 
 We use a third-party tracking service called Google Analytics that uses a small JavaScript string on each web page to track non-personally identifiable information about visitors to our site in the aggregate state of what information is captured, e.g., usage and volume statistics to assist in analyzing our Web site traffic trends and patterns.
 
-## Cookies
+### Cookies
 
 Boyne Resorts does not utilize cookies at this time.
 
-## Clear Gifs
+### Clear Gifs
 
 (Web Beacons/Web Bugs) We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
 
 We use clear gifs in our HTML-based e-mails to let us know which e-mails recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these e-mails, please see "Choice and Opt-out."
 
-## Links to Other Sites
+### Links to Other Sites
 
 Various links across Boyne Resorts' Web sites do contain links to other sites that are not owned or controlled by Boyne Resorts. Please be aware that we, Boyne Resorts, are not responsible for the privacy practices of such other sites.
 
@@ -207,11 +207,11 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 
 This privacy statement applies only to information collected by Boyne Resorts' Web sites.
 
-## Access to Personally Identifiable Information
+### Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our profile update page at www.Boyne.com/Profile or by contacting us by postal mail at the contact information listed below.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate by contact the resort at the contact information listed below, or you can send e-mail us at [info@boyneresorts.com](mailto:info@boyneresorts.com).
 
-## Security
+### Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or shopping pages, we encrypt that information using secure socket layer technology (SSL). 
 
@@ -219,17 +219,17 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can send e-mail us at [info@boyneresorts.com](mailto:info@boyneresorts.com).
 
-## Business Transitions
+### Business Transitions
 
 In the event Boyne Resorts goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via e-mail or notice on our corporate Web site BoyneResorts.com of any such change in ownership or control of your personal information.
 
-## Changes in this Privacy Statement
+### Changes in this Privacy Statement
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by e-mail, or by means of a notice on our home page at BoyneResorts.com.
 
-## Contact Us
+### Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
