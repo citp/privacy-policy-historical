@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wphub.com privacy policy that was archived on 2018-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181210003918id_/https%3A//www.wphub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wphub.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209065613id_/https%3A//www.wphub.com/privacy-policy) for the most accurate reproduction.*
 
 # WPHUB Privacy Policy
 
@@ -184,7 +184,7 @@ Google may use the Data collected to contextualize and personalize the ads of it
 
 Personal Data collected: Cookie and Usage Data. 
 
-Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://tools.google.com/dlpage/gaoptout?hl=en)
+Place of processing : USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://tools.google.com/dlpage/gaoptout?hl=en)
 
   * ### Backup saving and management
 
@@ -196,7 +196,7 @@ Vaultpress is a service to save and manage backups provided by Automattic Inc.
 
 Personal Data collected: Various types of Data. 
 
-Place of processing : USA – [Privacy Policy](http://automattic.com/privacy/)
+Place of processing : USA – [Privacy Policy](https://automattic.com/privacy/)
 
   * ### Contacting the User
 
@@ -217,7 +217,7 @@ Google Maps is a maps visualization service provided by Google Inc. that allows 
 
 Personal Data collected: Cookie and Usage Data. 
 
-Place of processing : USA – [Privacy Policy](http://www.google.it/intl/en/policies/privacy/)
+Place of processing : USA – [Privacy Policy](https://www.google.it/intl/en/policies/privacy/)
 
   * ### Handling payments
 
@@ -241,7 +241,7 @@ Crazyegg is a heat mapping service provided by Crazy Egg Inc.
 
 Personal Data collected: Cookie and Usage Data. 
 
-Place of processing : USA – [Privacy Policy](http://www.crazyegg.com/privacy)
+Place of processing : USA – [Privacy Policy](https://www.crazyegg.com/privacy)
 
   * ### Interaction with external social networks and platforms
 
@@ -256,7 +256,7 @@ Depending on the configuration, this service can display widgets belonging to th
 
 Personal Data collected: Cookie and Usage Data. 
 
-Place of processing : USA – [Privacy Policy](http://www.addthis.com/privacy/privacy-policy)
+Place of processing : USA – [Privacy Policy](https://www.addthis.com/privacy/privacy-policy)
 
 #### Google+ +1 button and social widgets (Google)
 
@@ -264,7 +264,7 @@ The Google+ +1 button and social widgets are services allowing interaction with 
 
 Personal Data collected: Cookie and Usage Data. 
 
-Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/)
+Place of processing : USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/)
 
 #### Twitter Tweet button and social widgets (Twitter)
 
@@ -272,7 +272,7 @@ The Twitter Tweet button and social widgets are services allowing interaction wi
 
 Personal Data collected: Cookie and Usage Data. 
 
-Place of processing : USA – [Privacy Policy](http://twitter.com/privacy)
+Place of processing : USA – [Privacy Policy](https://twitter.com/privacy)
 
   * ### Location-based interactions
 
@@ -302,7 +302,7 @@ Mailchimp is an email address management and message sending service provided by
 
 Personal Data collected: Email. 
 
-Place of processing : USA – [Privacy Policy](http://mailchimp.com/legal/privacy/)
+Place of processing : USA – [Privacy Policy](https://mailchimp.com/legal/privacy/)
 
 #### Sendgrid (Sendgrid)
 
@@ -335,7 +335,7 @@ AdWords Remarketing is a Remarketing and Behavioral Targeting service provided b
 
 Personal Data collected: Cookie and Usage Data. 
 
-Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout)
+Place of processing : USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout)
 
 #### Remarketing through Google Analytics for Display Advertising (Google)
 
@@ -343,7 +343,7 @@ Google Analytics for Display Advertising is a Remarketing and Behavioral Targeti
 
 Personal Data collected: Cookie and Usage Data. 
 
-Place of processing : USA – [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout)
+Place of processing : USA – [Privacy Policy](https://www.google.com/intl/en/policies/privacy/) – [Opt Out](https://www.google.com/settings/ads/onweb/optout)
 
   * ### Traffic optimization and distribution
 
@@ -358,7 +358,7 @@ The way CloudFlare is integrated means that it filters all the traffic through t
 
 Personal Data collected: Various types of Data. 
 
-Place of processing : USA – [Privacy Policy](http://www.cloudflare.com/security-policy)
+Place of processing : USA – [Privacy Policy](https://www.cloudflare.com/security-policy)
 
 
 
