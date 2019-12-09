@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financedigest.com privacy policy that was archived on 2019-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190403010141id_/https%3A//www.financedigest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financedigest.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209204905id_/https%3A//www.financedigest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Finance Digest Magazine
 
