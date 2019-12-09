@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629180224id_/http%3A//www.ftdcompanies.com/privacy%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proflowers.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209225205id_/http%3A//www.ftdcompanies.com/privacy%3F) for the most accurate reproduction.*
 
 # FTD Companies | Privacy Policy
 
@@ -6,13 +6,11 @@
 * What does this Privacy Policy cover?
 **
 
-Thank you for visiting a website or application provided by FTD Companies, Inc. FTD Companies, Inc. and its affiliates **("FTD")** are committed to respecting your privacy. This Privacy Policy outlines FTD's collection and use of personal information **("Privacy Policy")**.
+Thank you for visiting a website or application provided by FTD, LLC. FTD, LLC and its affiliates **("FTD")** are committed to respecting your privacy. This Privacy Policy outlines FTD's collection and use of personal information **("Privacy Policy")**.
 
-FTD currently owns or operates the following brands: FTD.COM, FTD, INTERFLORA, the MERCURY MAN Emblem, PROFLOWERS, PROPLANTS, SHARI'S BERRIES, CHERRY MOON FARMS, PERSONAL CREATIONS, REDENVELOPE, FLORIST EXPRESS, GIFTS.COM, SINCERELY, POSTAGRAM, INK and SESAME GIFTS, among others. These brands may be updated from time to time by FTD without notice.
+FTD currently owns or operates the following brands: FTD.COM, FTD, the MERCURY MAN Emblem, PROFLOWERS, PROPLANTS and FLORIST EXPRESS,, among others. These brands may be updated from time to time by FTD without notice.
 
-FTD collects information through: (a) its various websites including, but not limited to, [www.ftd.com](http://www.ftd.com/), [www.proflowers.com](http://www.proflowers.com/), [www.proplants.com](http://www.proplants.com/), [www.berries.com](http://www.berries.com/), [www.prvd.com](http://www.prvd.com/), [www.cherrymoonfarms.com](http://www.cherrymoonfarms.com/), [www.personalcreations.com](http://www.personalcreations.com/), [www.providecommerce.com](http://www.providecommerce.com/), [www.gifts.com](http://www.gifts.com/), [www.sincerely.com](http://www.sincerely.com/), [www.postagramapp.com](http://www.postagramapp.com/), [www.sesamegifts.com](http://www.sesamegifts.com/) and other websites as it may introduce or acquire in the future; (b) various social media accounts and channels including, but not limited to, Facebook, Twitter, Instagram, Pinterest and YouTube; and (c) through our various other messaging, telephone and other forms of communications, mobile technologies, applications and services, in each case, as may be updated by FTD from time to time (collectively, the " **FTD Services** "). The privacy practices outlined in this policy are incorporated by reference into the [Terms of Use](https://web.archive.org/web/20190629180224id_/http%3A//www.ftdcompanies.com/terms) for the FTD Services.
-
-Please note that FTD may have separate privacy policies for certain websites such as ProFlowers International, Interflora and Flying Flowers. Please be sure to consult with the website or application that you are using to understand FTD's privacy practices for that website or application.
+FTD collects information through: (a) its various websites including, but not limited to, [www.ftd.com](http://www.ftd.com/), [www.proflowers.com](http://www.proflowers.com/), [www.proplants.com](http://www.proplants.com/), [www.roses.com](http://www.roses.com/), and other websites as it may introduce or acquire in the future; (b) various social media accounts and channels including, but not limited to, Facebook, Twitter, Instagram, Pinterest and YouTube; and (c) through our various other messaging, telephone and other forms of communications, mobile technologies, applications and services, in each case, as may be updated by FTD from time to time (collectively, the " **FTD Services** "). The privacy practices outlined in this policy are incorporated by reference into the [Terms of Use](https://web.archive.org/web/20191209225205id_/http%3A//www.ftdcompanies.com/terms) for the FTD Services.
 
 This Privacy Policy is current as of the Effective Date. Please consult this Privacy Policy from time to time since FTD may, at any time, and without notice, revise this Privacy Policy by updating this posting.
 
@@ -57,7 +55,7 @@ By using the FTD Services, you acknowledge that your personal information may be
 
 FTD may collect non-personal information from you including, but not limited to, demographic data, location data (as more fully discussed in Section 7 below), browser type, your Internet Service Provider or operating system, the URL of previous FTD Services you visited, and your IP address. Unless otherwise required by applicable law, FTD may use and share this information, which does not personally identify you, for any purpose, including sharing with our third party partners, affiliates, agents or service providers for various administrative, analytical and marketing purposes.
 
-We may use your IP address to help diagnose problems with our server, to detect fraud, and to administer the FTD Services. We may also use your IP address to assist in attempting to identify you when we feel it is necessary to enforce compliance with this Privacy Policy or the [Terms of Use](https://web.archive.org/web/20190629180224id_/http%3A//www.ftdcompanies.com/terms), to protect the FTD Services, systems, information, employees, business partners, service providers, users, customers or others or as may be required by law enforcement.
+We may use your IP address to help diagnose problems with our server, to detect fraud, and to administer the FTD Services. We may also use your IP address to assist in attempting to identify you when we feel it is necessary to enforce compliance with this Privacy Policy or the [Terms of Use](https://web.archive.org/web/20191209225205id_/http%3A//www.ftdcompanies.com/terms), to protect the FTD Services, systems, information, employees, business partners, service providers, users, customers or others or as may be required by law enforcement.
 
 * **What are cookies, clear GIFs and other similar technologies and how does FTD use them?**
 
@@ -105,11 +103,11 @@ FTD shares your personal information in the manner described below.
 
 You may opt out of receiving **_email marketing_** promotions from the FTD family of brands. However, each of our brands manages its own ** _email marketing_** , so please note that you may only be opted out of receiving **_email marketing_** promotions from the brand you contact. In addition to being able to opting out of receiving marketing promotions by following the unsubscribe instructions in the applicable promotion you received.
 
-**FTD Companies Family of Brands**
+**FTD Brand         **
 
 | 
 
-**Follow the Links or Email Below to Unsubscribe**
+**Follow the Links or Email Below to Unsubscribe      **
 
 | 
 
@@ -121,7 +119,7 @@ FTD
 
 | 
 
-[ordering.ftd.com/unsubscribe](https://ordering.ftd.com/unsubscribe/)
+[www.ftd.com/custserv/](https://www.ftd.com/custserv/)
 
 | 
 
@@ -131,7 +129,7 @@ ProFlowers
 
 | 
 
-[accounts.proflowers.com](https://accounts.proflowers.com/)
+[www.proflowers.com/customerservice](https://www.proflowers.com/customerservice)
 
 | 
 
@@ -141,58 +139,11 @@ ProPlants
 
 | 
 
-[accounts.proplants.com](https://accounts.proplants.com/)
+[www.proflowers.com/customerservice](https://www.proflowers.com/customerservice)
 
 | 
 
 (888) 549-4014  
-  
-Shari's Berries
-
-| 
-
-[accounts.berries.com](https://accounts.berries.com/)
-
-| 
-
-(877) 237-7437  
-  
-Gifts.com
-
-| 
-
-[unsubscribe@customercare.providecommerce.com](mailto:unsubscribe@customercare.providecommerce.com)
-
-|   
-  
-Cherry Moon Farms
-
-| 
-
-[accounts.cherrymoonfarms.com](https://accounts.cherrymoonfarms.com/)
-
-| 
-
-(888) 378-2758  
-  
-Sincerely  
-( _Ink/Sesame/Postagram_ )
-
-| 
-
-[unsubscribe@customercare.providecommerce.com](mailto:unsubscribe@customercare.providecommerce.com)
-
-|   
-  
-Personal Creations
-
-| 
-
-[accounts.personalcreations.com](https://accounts.personalcreations.com/)
-
-| 
-
-(888) 741-0508  
   
 **Text and Mobile Applications**
 
@@ -214,7 +165,7 @@ Our FTD Services are not directed at children under the age of 13 and we do not 
 
 FTD takes your privacy concerns seriously. If you have questions regarding this Privacy Policy, please contact us at:
 
-FTD Companies, Inc.  
+FTD, LLC  
 3113 Woodcreek Dr.  
 Downers Grove, Illinois 60515  
 Attn: Customer Service
