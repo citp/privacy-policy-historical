@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desiplaza.tv privacy policy that was archived on 2019-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190605104810id_/http%3A//www.desiplaza.tv/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.tv privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209234644id_/http%3A//www.desiplaza.tv/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Desiplaza TV - Face of the Community.
 
