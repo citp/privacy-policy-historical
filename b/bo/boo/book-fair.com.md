@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the book-fair.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414095617id_/https%3A//www.buchmesse.de/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the book-fair.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209053520id_/https%3A//www.buchmesse.de/en/privacy-policy) for the most accurate reproduction.*
 
 # The Privacy policy of Frankfurter Buchmesse.
 
@@ -13,7 +13,7 @@ b – Managing director and head of data processing
 Juergen Boos
 
 c – Data protection officer of the operation  
-Tatjana Walter, [privacy@book-fair.com](mailto:privacy@book-fair.com)
+Tatjana Walter, [privacy@buchmesse.de](mailto:privacy@buchmesse.de "E-mail privacy@buchmesse.de")
 
 d – Address of the controller of the data file according to data protection law  
 Braubachstraße 16, 60311 Frankfurt am Main
@@ -69,6 +69,10 @@ The websites of Frankfurter Buchmesse GmbH use cookies. Cookies are text files t
 
 Cookies make it possible to recognise the users of the website. The purpose of this tracking is to facilitate the use of our website for the users. The users can always block cookies by adjusting the browser settings and thus object to the setting of cookies on a permanent basis. In addition, users can use the delete function of the browser or other software programmes to delete cookies that were already installed. This adjustment can be made with all standard internet browsers. However, if you disable the possibility to set cookies, you may not be able to fully use all functions of our website.
 
+## ReCaptcha
+
+To protect our databases and to distinguish human individuals from automated bots, we include [Google LLC](https://about.google/intl/en/)'s reCaptcha service in some online forms. Among other things, Google collects the IP address, sets a cookie and may process other personal data in order to track users across websites. Information on the collection and processing of personal data by Google can be found at [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+
 ## Data logging and log files
 
 With each user access, the website of Frankfurter Buchmesse GmbH collects a series of general data and information. This data and information are stored in the log files of the server. The following information can be collected:
@@ -106,14 +110,6 @@ This website uses Google Maps API for the visual representation of geographical 
 ## YouTube (Video-Embedding)
 
 Our website uses plugins of YouTube that is operated by Google. The operator of the websites is YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. If you visit one of our websites that has an integrated YouTube-Plugin, a connection to the servers of YouTube is established. In this process, the YouTube server receives notification which of our pages you have accessed. If you are logged in to your Youtube account, you enable YouTube to associate your browsing behaviour with your personal profile. You can avoid this by logging out of your YouTube-Account. If you wish to read more about how YouTube handles user data, please go to the [privacy policy of YouTube](https://policies.google.com/privacy?hl=en-GB&gl=de).
-
-## Google+
-
-This website uses Google Plus of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States.
-
-If you visit one of our internet pages that have a Google Plus button, your browser sets up a direct connection to the Google servers. The content of the button is transmitted directly from Google to your browser and integrated by it into the website.  
-For information on the purpose and extent of data capture and the further processing and use of data by Google, as well your rights in this regard and turn-off options for the protection of your personal privacy, please refer to the Google data protection information: <https://developers.google.com/+/web/buttons-policy>.  
-If you wish to block Google’s ability to collect data about you via our website and link these data with your GooglePlus membership data stored on Google, please log out of Google Plus before you visit our website.
 
 ## Facebook
 
@@ -201,8 +197,8 @@ The data gathered by means of these tracking pixels that are contained in the in
 
 Possibilities to raise objections
 
-  * Any data subject has the possibility to object to the use of his or her data for advertising purposes. Please send your objection to [privacy@book-fair.com](mailto:privacy@book-fair.com) or to: Frankfurter Buchmesse GmbH, Datenschutzbeauftragte, Braubachstr. 16, 60311 Frankfurt am Main.
-  * Each data subject has the right to object to the processing of his or her personal data, unless the storage of data is a legal obligation in connection with the business processes. Please send your objection in writing to [privacy@book-fair.com](mailto:privacy@book-fair.com) or to: Frankfurter Buchmesse GmbH, Datenschutzbeauftragte, Braubachstr. 16, 60311 Frankfurt am Main.
+  * Any data subject has the possibility to object to the use of his or her data for advertising purposes. Please send your objection to [privacy@buchmesse.de](mailto:privacy@buchmesse.de "E-mail privacy@buchmesse.de") or to: Frankfurter Buchmesse GmbH, Datenschutzbeauftragte, Braubachstr. 16, 60311 Frankfurt am Main.
+  * Each data subject has the right to object to the processing of his or her personal data, unless the storage of data is a legal obligation in connection with the business processes. Please send your objection in writing to [privacy@buchmesse.de](mailto:privacy@buchmesse.de "E-mail privacy@buchmesse.de") or to: Frankfurter Buchmesse GmbH, Datenschutzbeauftragte, Braubachstr. 16, 60311 Frankfurt am Main.
 
 
 
@@ -216,10 +212,10 @@ In addition, each individual (data subject) has the following rights:
 
 
 
-Please send your request in writing to [privacy@book-fair.com](mailto:privacy@book-fair.com) or to: Frankfurter Buchmesse GmbH, Datenschutzbeauftragte, Braubachstr. 16, 60311 Frankfurt am Main, Germany.
+Please send your request in writing to [privacy@buchmesse.de](mailto:privacy@buchmesse.de "E-mail privacy@buchmesse.de") or to: Frankfurter Buchmesse GmbH, Datenschutzbeauftragte, Braubachstr. 16, 60311 Frankfurt am Main, Germany.
 
   * In addition, each data subject whose personal data are subject to processing has the right to an effective judicial remedy before a court or to lodge a complaint with a supervisory authority.
 
 
 
-Last updated: 20 August 2018
+Last updated: November 2019
