@@ -1,0 +1,1168 @@
+<!--The following is the downloaded HTML source of the propertytribes.com privacy policy that was archived on 2019-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191209120412id_/https%3A//www.propertytribes.com/misc.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head>
+<title>
+                    Privacy notice
+            
+
+            </title>
+
+
+<script src="https://js-agent.newrelic.com/nr-1153.min.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-1683733-2"></script>
+<script>
+
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-1683733-2');
+
+</script>
+<meta http-equiv="Content-Type" content="text/html; charset={$charset}">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"3b6e6b70f7",applicationID:"397708472"};window.NREUM||(NREUM={}),__nr_require=function(n,e,t){function r(t){if(!e[t]){var i=e[t]={exports:{}};n[t][0].call(i.exports,function(e){var i=n[t][1][e];return r(i||e)},i,i.exports)}return e[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(n,e,t){function r(){}function i(n,e,t){return function(){return o(n,[u.now()].concat(f(arguments)),e?null:this,t),e?void 0:this}}var o=n("handle"),a=n(4),f=n(5),c=n("ee").get("tracer"),u=n("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(n,e){s[e]=i(d+e,!0,"api")}),s.addPageAction=i(d+"addPageAction",!0),s.setCurrentRouteName=i(d+"routeName",!0),e.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(n,e){var t={},r=this,i="function"==typeof e;return o(l+"tracer",[u.now(),n,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return e.apply(this,arguments)}catch(n){throw c.emit("fn-err",[arguments,this,n],t),n}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(n,e){m[e]=i(l+e)}),newrelic.noticeError=function(n,e){"string"==typeof n&&(n=new Error(n)),o("err",[n,u.now(),!1,e])}},{}],2:[function(n,e,t){function r(n,e){var t=n.getEntries();t.forEach(function(n){"first-paint"===n.name?a("timing",["fp",Math.floor(n.startTime)]):"first-contentful-paint"===n.name&&a("timing",["fcp",Math.floor(n.startTime)])})}function i(n){if(n instanceof c&&!s){var e,t=Math.round(n.timeStamp);e=t>1e12?Date.now()-t:f.now()-t,s=!0,a("timing",["fi",t,{type:n.type,fid:e}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var o,a=n("handle"),f=n("loader"),c=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){o=new PerformanceObserver(r);try{o.observe({entryTypes:["paint"]})}catch(u){}}if("addEventListener"in document){var s=!1,p=["click","keydown","mousedown","pointerdown","touchstart"];p.forEach(function(n){document.addEventListener(n,i,!1)})}}},{}],3:[function(n,e,t){function r(n,e){if(!i)return!1;if(n!==i)return!1;if(!e)return!0;if(!o)return!1;for(var t=o.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}e.exports={agent:i,version:o,match:r}},{}],4:[function(n,e,t){function r(n,e){var t=[],r="",o=0;for(r in n)i.call(n,r)&&(t[o]=e(r,n[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],5:[function(n,e,t){function r(n,e,t){e||(e=0),"undefined"==typeof t&&(t=n?n.length:0);for(var r=-1,i=t-e||0,o=Array(i<0?0:i);++r<i;)o[r]=n[e+r];return o}e.exports=r},{}],6:[function(n,e,t){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(n,e,t){function r(){}function i(n){function e(n){return n&&n instanceof r?n:n?c(n,f,o):o()}function t(t,r,i,o){if(!d.aborted||o){n&&n(t,r,i);for(var a=e(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(n,e){h[n]=v(n).concat(e)}function m(n,e){var t=h[n];if(t)for(var r=0;r<t.length;r++)t[r]===e&&t.splice(r,1)}function v(n){return h[n]||[]}function g(n){return p[n]=p[n]||i(t)}function w(n,e){u(n,function(n,t){e=e||"feature",y[t]=e,e in s||(s[e]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:e,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var f="nr@context",c=n("gos"),u=n(4),s={},p={},d=e.exports=i();d.backlog=s},{}],gos:[function(n,e,t){function r(n,e,t){if(i.call(n,e))return n[e];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(n,e,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return n[e]=r,r}var i=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(n,e,t){function r(n,e,t,r){i.buffer([n],r),i.emit(n,e,t)}var i=n("ee").get("handle");e.exports=r,r.ee=i},{}],id:[function(n,e,t){function r(n){var e=typeof n;return!n||"object"!==e&&"function"!==e?-1:n===window?0:a(n,o,function(){return i++})}var i=1,o="nr@id",a=n("gos");e.exports=r},{}],loader:[function(n,e,t){function r(){if(!x++){var n=E.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(n&&n.licenseKey&&n.applicationID&&e))return s.abort();u(y,function(e,t){n[e]||(n[e]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=l.createElement("script");t.src="https://"+n.agent,e.parentNode.insertBefore(t,e)}}function i(){"complete"===l.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=n("handle"),u=n(4),s=n("ee"),p=n(3),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1153.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=e.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};n(1),n(2),l[m]?(l[m]("DOMContentLoaded",o,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",i),d[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=n(6)},{}],"wrap-function":[function(n,e,t){function r(n){return!(n&&n instanceof Function&&n.apply&&!n[a])}var i=n("ee"),o=n(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;e.exports=function(n,e){function t(n,e,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){d([u,"",[r,a,i],f])}s(e+"start",[r,a,i],f);try{return c=n.apply(a,r)}catch(p){throw s(e+"err",[r,a,p],f),p}finally{s(e+"end",[r,a,c],f)}}return r(n)?n:(e||(e=""),nrWrapper[a]=n,p(n,nrWrapper),nrWrapper)}function u(n,e,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<e.length;c++)f=e[c],a=n[f],r(a)||(n[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||e){var o=c;c=!0;try{n.emit(t,r,i,e)}catch(a){d([a,t,r,i])}c=o}}function p(n,e){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(n);return t.forEach(function(t){Object.defineProperty(e,t,{get:function(){return n[t]},set:function(e){return n[t]=e,e}})}),e}catch(r){d([r])}for(var i in n)f.call(n,i)&&(e[i]=n[i]);return e}function d(e){try{n.emit("internal-error",e)}catch(t){}}return n||(n=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=2.0, shrink-to-fit=no">
+<meta http-equiv="Content-Type" content="application/json">
+<meta name="csrf-token" content="f5NVBNs5auvITDRDfgYXs7IdTAG2BRobRDXDhDan">
+<script type="text/javascript"> var time = new Date().getTime();</script>
+<meta http-equiv="EXPIRES" content="Mon, 02 May 2015 21:00:00 GMT">
+
+<link rel="shortcut icon" href="https://www.propertytribes.com/images/default_avatar_48.gif">
+<link href="/css/ptv2.css?id=f3c200e12c73d4d5a622" rel="stylesheet">
+<link href="/css/app.css?id=ed1b0fa4b8105508b4a5" rel="stylesheet">
+<script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/096814e7-c068-4043-9125-73bdf9ea009d.js"></script></head><body id="" class="discover-members page-body loaded c-browser"><input type="hidden" name="_token" value="f5NVBNs5auvITDRDfgYXs7IdTAG2BRobRDXDhDan">
+<input type="hidden" name="maintenance_message_popup" value="">
+<input type="hidden" name="onesignal_app_id" value="86b69868-aa93-4dd2-8fe7-13f614ce520a">
+<script src="https://www.propertytribes.com/js/jquery-2.1.3.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+
+</script>
+<script type="text/javascript">jQuery.noConflict();</script>
+<script type="text/javascript">
+
+	
+	var onesignal_app_id = "86b69868-aa93-4dd2-8fe7-13f614ce520a";
+
+
+
+</script>
+<script type="text/javascript">
+	var _mfq = _mfq || [];
+	(function() {
+		var mf = document.createElement("script");
+		mf.type = "text/javascript"; mf.async = true;
+		mf.src = "//cdn.mouseflow.com/projects/096814e7-c068-4043-9125-73bdf9ea009d.js";
+		document.getElementsByTagName("head")[0].appendChild(mf);
+	})();
+
+</script> 
+<meta property="og:title" content="Privacy notice">
+<meta property="og:image" content="https://www.propertytribes.com/images/pt-logo.png">
+
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=S5kAg1awAe008W" style="display:none" height="1" width="1" alt="" /></noscript>
+
+
+<div class="closeSearchSlide">
+<span class="glyphicon glyphicon-chevron-right"></span>
+</div>
+<div id="mobileTribes" style="display:none;">
+<button class="btn tribesTrigger" type="button" data-toggle="collapse" data-target="#tribesList" aria-expanded="false" aria-controls="tribesList">
+<span class="glyphicon glyphicon-chevron-down"></span>
+</button>
+<div id="customButton" style="display:none;">
+<div class="search-toggle search-icon custom-button">
+<span aria-hidden="true" class="glyphicon glyphicon-menu-hamburger"></span>
+</div>
+</div>
+</div>
+<div id="slideSearchBar" class="closeSearchBar">
+<div class="search-toggle search-icon custom-button">
+<span aria-hidden="true" class="glyphicon glyphicon-menu-hamburger"></span>
+</div>
+<div class="search-holder"> </div>
+</div>
+
+<div id="wrapper" class="non-login">
+
+<header id="fixed-header-guest" class="header-admin hidden-sm hidden-xs hidden-sm not-login">
+<div class="header-inn">
+<div class="container">
+<div class="row">
+<div class="col-sm-3 no-padding-left">
+<a href="/" class="logoWrapper img-responsive">
+<img src="https://uploads.propertytribes.com/header_banner_images/bENCi.png?v=5" alt="Property Tribes - Start Your Landlord Journey Today" title="Property Tribes - Start Your Landlord Journey Today">
+</a>
+</div>
+<div class="col-sm-9 hidden-xs">
+<div class="headerSearchSection">
+<a id="tribesTigger" href="#browsTribeData" title="" class="btn btn-primary dropdown-toggle browesTribesHeader" data-toggle="collapse">Browse All Tribes <i class="pt icon-down-arrow v-bottom margin-left-05"></i></a>
+<script type="text/javascript">
+                    
+                    jQuery(document).ready(function($){
+                         $(document).on("click","#searchbutton",function(e){      
+                               //need to reference the hidden input with name="Name" above
+                              var input= $(this).closest('form').find('input[id="keywords"]').val();
+                               if(input == ''){
+                                  e.preventDefault;
+                                  return false;
+                               }
+                        });
+
+                        $.widget("custom.catcomplete", $.ui.autocomplete, {
+                            _renderMenu: function(ul, items) {
+                                var self = this,
+                                currentCategory = "";
+                                $.each(items, function(index, item) {
+                                    if (item.category != currentCategory) {
+                                        ul.append("<li class='ui-category'>" + item.category + "</li>");
+                                        currentCategory = item.category;
+                                    }
+                                    self._renderItemData(ul, item);
+                                });
+                            }
+                        });
+                        
+                            $(document).on("click",".search_result:visible",function(e){
+                                
+                  
+                    
+                    
+                    $(this).catcomplete({
+                                   
+                                    source:'https://www.propertytribes.com/ajaxsearch',
+                                    minLength:1,
+                                    autoFocus: true,
+                                    appendTo:  $(this).parent(),
+                                    width:300,
+                                    
+                                    open: function(event,ui) {
+                      
+                        $('.ui-autocomplete#keywords').css('width', '20px');
+                  
+                    $("ul.ui-menu").width($("#keywords").innerWidth());
+                   
+                    
+                    
+                },
+                close: function (event, ui) {
+                    
+                    $(this).find('input').autocomplete( "search");
+                  
+                },
+                select: function(event, ui) {
+                    if(event.keyCode!=13){
+                        $("#keywords").val(ui.item.value);
+                        $('input[name=category]').val(ui.item.category);
+                        
+                        $("#searchForm").submit();
+                        if(ui.item.category == "Tribes")
+                        {
+                          window.location.href = 'https://www.propertytribes.com/forumdisplay.php?fid='+ui.item.id+'&action=latest_posts';
+                      }else if(ui.item.category == "Topics" && ui.item.id!=0)
+                      {
+                          window.location.href = 'https://www.propertytribes.com/showthread/tid'+'/'+ui.item.id;
+
+                      }else if(ui.item.category == "Members" && ui.item.id!=0)
+                      {
+                          window.location.href = 'https://www.propertytribes.com/profile'+"/"+ui.item.id;
+
+                      }else if(ui.item.category == "Events" && ui.item.id!=0)
+                      {
+                          window.location.href = 'https://www.propertytribes.com/calendar.php?action=event'+"&eid="+ui.item.id;
+                          
+                      }
+                        else
+                        {
+                            $("#searchForm1").submit();
+                        }
+                    }
+                }
+            });
+
+                }).keydown(function(e){
+                    var keywords =      jQuery("#keywords").text();
+                    if(keywords.trim().length>0){
+                        if (e.keyCode === 13){
+                            $("#searchForm1").submit();
+                        }
+
+                    }
+                });
+                $(window).resize(function() {
+                       
+                                        var position = $("#keywords").position();
+                                        var properties = {left: position.left,
+                                            top: position.bottom
+                                        };
+                                        $(".ui-autocomplete").css(properties);
+                       
+                        $('.search_result').on('click', function(){
+                            $("#keywords").catcomplete({
+                                            //alert('abc');
+                                            source:'https://www.propertytribes.com/ajaxsearch',
+                                            minLength:1,
+                                            autoFocus: true,
+                                            appendTo: $("#keywords").parent(),
+                                            
+                                            
+                                            select: function(event, ui) {
+                                                
+                                                $("#keywords").val(ui.item.value);
+                                                $('input[name=category]').val(ui.item.category);
+                                                
+                                                $("#searchForm1").submit();
+                                                
+                                            }
+                                            
+                                            
+                                        });
+                        });
+                    });
+
+            });
+        </script>
+<div id="search-header-section">
+<form method="get" action="https://www.propertytribes.com/topicsearch" class="form-inline" id="searchForm">
+<div class="form-group">
+<input type="search" placeholder="Search content, discussions, advice and more …" name="keywords" id="keywords" value="" class="search_result form-control searchField">
+<button class="btn btn-primary search-btn" id="searchbutton"> <span class="search-text">Search</span> <i class="pt icon-search margin-left-10 pt-lg v-bottom"></i></button>
+</div>
+</form>
+</div>
+<div class="result_search"></div>
+</div>
+<div class=" pull-right text-right signUpButtons">
+<button id="signupButton" class="btn btn-success showSignup" type="button">
+<span class="pt pt-fw icon-up-arrow-line v-bottom margin-right-05"></span>
+<span class="editButtonsHeader">Sign Up</span>
+</button>
+<button id="loginButton" class="btn btn-info showSignup" type="button">
+<span class="pt pt-fw icon-user v-bottom margin-right-05"></span>
+<span class="editButtonsHeader">Log In</span>
+</button>
+</div> </div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="top-navigation">
+<nav class="navbar navbar-inverse">
+<div class="container">
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+</div>
+
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<div id="mainNavigationMobile">
+<ul class="nav navbar-nav">
+<li class="btn-new-topic-link">
+<a class="hvr-fade" onclick="loginModal();collapseSearchBar();" title="New Topic">New Topic
+</a>
+ </li>
+<li class="nav-tribes">
+<a class="hvr-fade" href="https://www.propertytribes.com/categories.php" title="Tribes">Tribes
+</a>
+</li>
+<li>
+<a class="hvr-fade" href="https://www.propertytribes.com/memberlist.php" title="Members">Members</a></li>
+<li><a class="hvr-fade" href="https://www.propertytribes.com/videos.php" title="videos">Videos</a></li>
+<li><a class="hvr-fade" href="https://www.propertytribes.com/events_list.php?type=upcoming" title="Events">Events</a></li>
+<li><a class="hvr-fade" href="https://www.mortgagesforbusiness.co.uk/property-tribes" title="Mortgages">Mortgages</a></li>
+<li><a class="hvr-fade" href="https://www.alanboswell.com/landlords-insurance-2697/?utm_source=2697&amp;utm_medium=banner_ad&amp;utm_campaign=price_beater16&amp;utm_content=property_tribes" title="Insurance" target="_blank">Insurance</a></li>
+<li><a class="hvr-fade" href="http://www.fixedfeeepc.co.uk/propertytribes" title="EPCs" target="_blank">EPCs</a></li>
+<li><a class="hvr-fade" href="https://www.propertytribes.com/forumdisplay.php?fid=4158&amp;action=topics" title="MarketPlace" target="_blank">MarketPlace</a></li>
+<li><a class="hvr-fade" href="https://www.propertytribes.com/forumdisplay.php?fid=4164&amp;action=topics" title="First Time Buyer" target="_blank">First Time Buyer</a></li>
+</ul>
+</div>
+</div>
+</div>
+</nav>
+<script type="text/javascript">
+        function loginModal(){
+                var x = jQuery(document).scrollTop() + 160;
+                jQuery("#signUpForms").attr("style", "top:" + x + "px");
+                jQuery("#signUpForms").fadeIn(500);
+                jQuery("body").addClass("popup-open");
+                jQuery("#signUpForms").show();
+                jQuery("#loginForm").addClass('active');
+                jQuery("#loginForm").removeClass('fade');
+                jQuery("#signupNavigation").removeClass('active');
+                jQuery(" #signupForm").removeClass('active');
+        }
+    </script>
+</div>
+<div id="browsTribeData" class=" collapse col-md-12" style="background-color:#FFF">
+<div class="container">
+<div class="popHolder ">
+<p class="small2 margin-bottom-25" style="color:#ca0571; font-weight:bold;">Browse All Tribes or choose a Tribe below:</p>
+<div class="row">
+<div id="tribesListHolder" class="col-md-12">
+<div id="tribesList">
+<ul class="static_links">
+<li><a href="https://www.propertytribes.com/forumdisplay.php?action=featured">Featured</a></li>
+<li><a href="https://www.propertytribes.com/forumdisplay.php?&amp;action=trending">Trending</a></li>
+<li><a href="https://www.propertytribes.com/forumdisplay.php?&amp;action=latest_posts">New Replies</a></li>
+<li><a href="https://www.propertytribes.com/forumdisplay.php?&amp;action=topics">New Topics</a></li>
+<li><a href="https://www.propertytribes.com/forumdisplay.php?&amp;action=unanswered">Unanswered</a></li>
+</ul>
+<ul class="list-unstyled unorder-list-inline">
+<ul class="tribes-holder">
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=34&amp;action=latest_posts" title="">Property-a-holics</a>
+</li> 
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=21&amp;action=latest_posts" title="">Buy-to-Let</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4160&amp;action=latest_posts" title="">Short Term Rentals</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=23&amp;action=latest_posts" title="">Mortgages &amp; Finance</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4145&amp;action=latest_posts" title="">Tax</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4149&amp;action=latest_posts" title="">Legal FAQs</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=24&amp;action=latest_posts" title="">HMO &amp; Multi-Lets</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=35&amp;action=latest_posts" title="">Refurbish/Develop</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4143&amp;action=latest_posts" title="">Deposit Protection</a>
+</li>
+</ul>
+<ul class="tribes-holder">
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=27&amp;action=latest_posts" title="">Entrepreneurs</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=26&amp;action=latest_posts" title="">In the Spotlight</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=31&amp;action=latest_posts" title="">Landlords in Distress</a>
+</li> 
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=41&amp;action=latest_posts" title="">On-line Landlords</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4144&amp;action=latest_posts" title="">Tenant Referencing</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=37&amp;action=latest_posts" title="">Stickies &amp; Evergreen</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4137&amp;action=latest_posts" title="">Student Accommodation</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=25&amp;action=latest_posts" title="">Holiday Lets</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=39&amp;action=latest_posts" title="">Landlord Resources</a>
+</li>
+</ul>
+<ul class="tribes-holder">
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4142&amp;action=latest_posts" title="">Rent-to-Rent</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4136&amp;action=latest_posts" title="">Scottish PRS</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4148&amp;action=latest_posts" title="">Products and Services</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4146&amp;action=latest_posts" title="">Peer to Peer Lending</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=33&amp;action=latest_posts" title="">Overseas Investing</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4134&amp;action=latest_posts" title="">Community</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=38&amp;action=latest_posts" title="">Property Management</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4147&amp;action=latest_posts" title="">Debt &amp; Negative Equity</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=22&amp;action=latest_posts" title="">Commercial Property</a>
+</li>
+</ul>
+<ul class="tribes-holder">
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=32&amp;action=latest_posts" title="">New Members</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4150&amp;action=latest_posts" title="">LHA/Universal Credit</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4152&amp;action=latest_posts" title="">Property Prices</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4153&amp;action=latest_posts" title="">Property Yields</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4154&amp;action=latest_posts" title="">Wanted &amp; Recommendations</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4155&amp;action=latest_posts" title="">Leasehold Property</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4156&amp;action=latest_posts" title="">Auction Tribe</a>
+ </li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4159&amp;action=latest_posts" title="">Section 24 HQ</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4161&amp;action=latest_posts" title="">Welsh PRS</a>
+</li>
+</ul>
+<ul class="tribes-holder">
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4162&amp;action=latest_posts" title="">Problem Tenants</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4163&amp;action=latest_posts" title="">London Property Market</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4164&amp;action=latest_posts" title="">First Time Buyer</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4165&amp;action=latest_posts" title="">Deal Finding</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4166&amp;action=latest_posts" title="">Insurance</a>
+</li>
+<li>
+<a href="https://www.propertytribes.com/forumdisplay.php?fid=4167&amp;action=latest_posts" title="">Property Training/Mentoring</a>
+</li>
+</ul>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</header>
+<div id="signUpForms" class="loginWrapper collapse">
+<div class="tab-content signupFormsHolders">
+<div class="closeSignup">X</div>
+
+
+
+<div role="tabpanel" class="tab-pane" id="signupNavigation">
+<div class="loginArea">
+<h4 class="text-center">Sign Up</h4>
+<div class="button-holder"> <a class="btn btn-block btn-lg socialButton facebook" href="https://www.propertytribes.com/login/facebook">With Facebook<span><i class="fa fa-facebook"></i></span></a> </div>
+<div class="button-holder"> <a class="btn btn-block btn-lg socialButton twitter" href="https://www.propertytribes.com/login/twitter">With Twitter<span><i class="fa fa-twitter"></i></span></a> </div>
+<div class="button-holder"> <a class="btn btn-block btn-lg socialButton googleplus" href="https://www.propertytribes.com/login/google">With Google<span><i class="fa fa-google-plus"></i></span></a> </div>
+<p class="fancy"><span>or</span></p>
+<div class="button-holder"> <a href="#signupForm" aria-controls="signupForm" role="tab" data-toggle="tab" class="btn btn-primary btn-block btn-lg socialButton">With Your Email<span><i class="pt icon-message"></i></span></a> </div>
+<p class="text-center signingUpText">By signing up I agree to Property Tribes <a href="https://www.propertytribes.com/misc.php?page=terms-privacy">Terms and Conditions</a> </p>
+<hr>
+<p class="text-center">Already a PT member?<a href="#loginForm" aria-controls="loginForm" role="tab" data-toggle="tab"> Log In</a> </p>
+</div>
+</div>
+<div role="tabpanel" class="tab-pane fade " id="signupForm">
+<div class="loginArea">
+<h4 class="text-center">Sign Up</h4>
+<p>Sign Up With <a href="https://www.propertytribes.com/fblogin/fblogin?action=login"> Facebook,</a> <a href="https://www.propertytribes.commytwconnect?action=login"> Twitter,</a> or <a href="https://www.propertytribes.com/mygpconnect?action=login"> Google</a></p>
+<p class="fancy"><span>or</span></p>
+<form id="pt-signup" class="" action="https://www.propertytribes.com/register" method="post">
+<input type="hidden" name="_token" value="f5NVBNs5auvITDRDfgYXs7IdTAG2BRobRDXDhDan"> <div class="form-group">
+<input type="text" class="form-control" name="profile_fields[fid4]" id="exampleInputEmail1" placeholder="Full Name">
+<small style="display:none" id="pt-login-error" class="help-block">The required field can't be empty</small>
+</div>
+<div class="form-group">
+<input type="text" class="form-control" name="username" id="username" placeholder="Username">
+<small style="display:none" id="pt-login-error" class="help-block">The required field can't be empty</small>
+</div>
+<div class="form-group">
+<input type="text" class="form-control" name="email" id="exampleInputEmail1" placeholder="Email Address">
+<small style="display:none" id="pt-login-error" class="help-block">The required field can't be empty</small>
+</div>
+<div class="form-group">
+<input type="password" class="form-control" name="password" id="exampleInputPassword1" placeholder="Password">
+<small style="display:none" id="pt-login-error" class="help-block">The required field can't be empty</small>
+</div>
+<div class="form-group">
+<input type="hidden" class="form-control" name="password2" id="exampleInputPassword1" placeholder="Confirm Password">
+</div>
+<input type="hidden" name="step" value="registration">
+<input type="hidden" name="action" value="do_register">
+<input type="submit" name="regsubmit" class="btn btn-primary" value="Sign Up">
+</form>
+<br>
+<p>By signing up I agree to Property Tribes <a href="https://www.propertytribes.com/misc.php?page=terms-privacy">Terms and Conditions</a></p>
+<hr>
+<p class="text-center">Already a PT member? <a href="#loginForm" aria-controls="loginForm" role="tab" data-toggle="tab"> Log In</a></p>
+</div>
+</div> 
+
+<div role="tabpane2" class="tab-pane fade " id="loginForm">
+<div class="loginArea">
+<h4 class="text-center">Log In</h4>
+<div class="button-holder">
+<a class="btn btn-block btn-lg socialButton facebook" href="https://www.propertytribes.com/login/facebook">With Facebook
+<span>
+<i class="fa fa-facebook"></i>
+</span>
+</a>
+</div>
+<div class="button-holder">
+<a class="btn btn-block btn-lg socialButton twitter" href="https://www.propertytribes.com/login/twitter">With Twitter
+<span>
+<i class="fa fa-twitter"></i>
+</span>
+</a>
+</div>
+<div class="button-holder">
+<a class="btn btn-block btn-lg socialButton googleplus" href="https://www.propertytribes.com/login/google">With Google
+<span>
+<i class="fa fa-google-plus"></i>
+</span>
+</a>
+</div>
+<p class="fancy"><span>or</span></p>
+<form id="pt-login" action="https://www.propertytribes.com/login" method="post">
+<input type="hidden" name="_token" value="f5NVBNs5auvITDRDfgYXs7IdTAG2BRobRDXDhDan"> <div class="form-group">
+<input type="text" name="email" class="form-control" id="exampleInputEmail1" placeholder="Email Address or Username">
+<small style="display:none" id="pt-login-error" class="help-block">The required field can't be empty</small>
+</div>
+<div class="form-group lg-pas-fgrp">
+<input type="password" name="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+<small style="display:none" id="pt-login-password-error" class="help-block">The required field can't be empty</small>
+</div>
+<div class="form-group checkbox-custom chekbox-primary">
+<input type="checkbox" name="remember" value="yes" tabindex="3" class="checkbox" id="modopt-1">
+<label for="modopt-1">Remember me</label>
+<div class="pull-right"><a href="#forgot-password" aria-controls="forgot-password" role="tab" data-toggle="tab">Forgot Password?</a></div> </div>
+<div class="button-holder">
+<input type="submit" value="Log In" class="btn btn-primary btn-block btn-lg socialButton alignLeft">
+</div>
+</form>
+<hr>
+<p class="text-center">Don't have an account?<a href="#signupNavigation" aria-controls="signupNavigation" role="tab" data-toggle="tab"> Sign Up</a></p>
+</div>
+</div> 
+
+<div role="tabpane3" class="tab-pane fade" id="forgot-password">
+<div class="loginArea">
+<h4 class="text-center">Forgot Password</h4>
+<form id="forgot_password" action="https://www.propertytribes.com/forgetpassword" method="post">
+<input type="hidden" name="_token" value="f5NVBNs5auvITDRDfgYXs7IdTAG2BRobRDXDhDan"> <div class="form-group">
+<p>
+To reset your password just enter the email address you registered with and we'll send you a link to access a new password.
+</p>
+</div>
+<div class="form-group">
+<input type="text" class="form-control" name="email" id="exampleInputEmail1" placeholder="Email Address">
+<small style="display:none" id="pt-login-error" class="help-block">The required field can't be empty</small>
+</div>
+<input type="hidden" name="action" value="do_lostpw">
+<div class="button-holder">
+<input type="submit" value="Request Password" class="btn btn-primary     btn-block btn-lg socialButton alignLeft">
+</div>
+</form>
+<hr>
+<p class="text-center">Already a PT member?
+<a href="#loginForm" aria-controls="loginForm" role="tab" data-toggle="tab"> Log In
+</a>
+</p>
+<p class="text-center">
+Don't have an account?
+<a href="#signupNavigation" aria-controls="signupNavigation" role="tab" data-toggle="tab">Sign Up
+</a></p>
+</div>
+</div> 
+</div>
+</div>
+
+<header id="fixed-header-mobile" class="header-admin mobileHeader">
+<div class="col-xs-2">
+<a class="logoWrapper img-responsive" href="/">
+<picture class="ChangeAbleImage">
+<source media="(max-width: 768px)" srcset="https://www.propertytribes.com/images/mobile-logo.png">
+<source media="(min-width: 800px)" srcset="https://www.propertytribes.com/images/mobile-logo.png">
+<img class="logo" src="https://www.propertytribes.com/images/logo.png" alt="Property Tribes - Start Your Landlord Journey Today" title="Property Tribes - Start Your Landlord Journey Today">
+</picture>
+</a>
+</div>
+<div class="col-xs-8 text-center signupButtonarea">
+<button id="signupButtonSM" class="btn btn-sm btn-success showSignup" type="button"><span class="pt pt-fw icon-up-arrow-line v-bottom margin-right-05"></span><span class="signtext">Sign Up</span></button>
+<button id="loginButtonSM" class="btn btn-sm btn-info showSignup" type="button"><span class="pt pt-fw icon-user v-bottom margin-right-05"></span><span class="signtext">Log In</span></button>
+</div>
+<div class="col-xs-2 text-right">
+<li class="search-toggle search-icon"><span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span></li>
+</div>
+<div class="transBackground hidden-md hidden-lg"></div>
+</header>
+
+<div class="container">
+<div class="row">
+<div id="mainContent" class="col-sm-12">
+<div class="row">
+<section class="adad1 col-xs-12 col-sm-12 col-md-9 padding-bottom-40">
+
+<div class="ContentArea">
+<div class="full-width-area">
+<div class="width100 floatLeft">
+
+<div class="simple-panel panel-default">
+<div class="panel-heading border-bottom tb-spacing-panel">
+<h1 class="panel-title">Privacy notice</h1>
+</div>
+</div>
+</div>
+</div>
+<div class="full-width-area floatLeft">
+<div class="new-topic-preview-area generic-content-page">
+<p>This privacy notice lets you know what happens to any personal data that you give to Property Tribes Ltd.</p>
+<p>This privacy notice applies to personal information processed by Property Tribes Ltd.</p>
+<p><b>1. Property Tribes Ltd and our Data Protection Officer</b></p>
+<p>We are Property Tribes Ltd, 69, High Street, London, N14 6LD, and a data controller of your personal data. The company registration number is 07875701.</p>
+<p>We have a dedicated data protection officer (“DPO”). You can contact the DPO using the email nick-tadd@mac.com.</p>
+<p><b>2. What kinds of personal information about you does Property Tribes process?</b></p>
+<p>Personal information that we’ll process in connection with your membership of our site, if relevant, includes:</p>
+<p>Personal and contact details, such as title, full name, and email address, although some users use a different name to their own.</p>
+<p>Your date of birth, gender and/or age - should you choose to input that information.</p>
+<p>
+When you visit our site we may automatically log your IP address, a unique identifier for your computer or other access device. This information is not used in any way other to identify trolling activity, cyber attacks, or people holding multiple profiles.</p>
+<p><b>3. How does Property Tribes use this data to communicate with you?</b></p>
+<p>We use this data for communication with you when sending you our bi-weekly emailer newsletter (if you opted in), including history of those communications, whether you open them or click on links.</p>
+<p>You can withdraw your consent at any time by unsubscribing or contacting the Data Protection Officer.</p>
+<p><b>4. What is the source of your personal information?</b></p>
+<p>We collect personal information from you directly.</p>
+<p><b>5. What does Property Tribes use your personal information for?</b></p>
+<p>As per no. 2, we use your email address to send you our newsletter, if you opted in, or to send you notifications that threads have been up-dated, if you opted in.</p>
+<p>You can manually opt out of these if you no longer which to receive them, and can contact us for help if you require assistance.</p>
+<p><b>6. Do you share my personal information?</b></p>
+<p>Property Tribes respects your privacy and does not share your personal data with any third party or any of our commercial partners.</p>
+<p><b>7. What are your rights under data protection laws?</b></p>
+<p>Here is a list of the rights that all individuals have under data protection laws. They don’t apply in all circumstances. If you wish to use any of them, we’ll explain at that time if they are engaged or not. The right of data portability is only relevant from May 2018.</p>
+<p>The right to be informed about the processing of your personal information</p>
+<p>The right to have your personal information corrected if it is inaccurate and to have incomplete personal information completed</p>
+<p>The right to object to processing of your personal information</p>
+<p>The right to restrict processing of your personal information</p>
+<p>The right to have your personal information erased (the “right to be forgotten”)</p>
+<p>The right to request access to your personal information and to obtain information about how we process it
+The right to move, copy or transfer your personal information (“data portability”)</p>
+<p><b>8. Google “push” notifications</b></p>
+<p>You may have elected to receive notifications of new threads being added to Property Tribes by opting in to our google push notifications service. You would have pressed the “Allow” button when offered this service. If you have done this, you will see a small opaque bell icon on the
+bottom right of your screen when visiting Property Tribes.</p>
+<p>Property Tribes does not hold any personal data for opting in to this service and cannot identify you in any way.</p>
+<p>Should you wish to no longer receive these notifications, simply press the small “bell” icon bottom right of your screen when on Property Tribes, and the notifications will be disabled.</p>
+<p><b>9. Any questions?</b></p>
+<p>Please contact the Data Protection Office by <a class="mail" href="mailto:nicktadd@badmail.mac.com">e-mail</a> or use the <a href="/misc.php?page=contact-us" target="_blank">Contact Us</a> information.</p>
+<p>
+<script type="text/javascript">
+
+		jQuery( document ).ready(function() {
+
+			console.log( "ready!" );
+
+			jQuery('a.mail').on('click', function(){
+
+				var href = jQuery(this).attr('href');
+				jQuery(this).attr('href', href.replace('badmail.', ''));
+			});
+
+		});
+
+	</script>
+</p></div>
+</div>
+</div>
+</section>
+<aside class="col-xs-12 col-sm-12 col-md-3 padding-bottom-40 right-area-cont no-padding-right-md">
+
+<div class="width100">
+<div class="col-sm-12 right-side-portion">
+<div id="right-bar-menu"></div>
+
+<div class="widget-cont trending-replies">
+<div class="">
+
+<ul class="nav nav-tabs bordered">
+
+<li class="active">
+<a href="#trending" data-toggle="tab" aria-expanded="true">
+<span class="">Trending</span>
+</a>
+</li>
+<li class="">
+<a href="#latest-posts" data-toggle="tab" aria-expanded="false">
+<span class="">New Replies</span>
+</a>
+</li>
+</ul>
+<div class="tab-content">
+<div class="tab-pane active" id="trending">
+<ol class="trending-orderlist">
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/property-gurus-negative-experiences-sought-t-127644049.html" title="">Property 'gurus'- negative experiences sought</a>
+</span>
+<span class="post-detail">
+<a href="https://www.propertytribes.com/wanted-recommendations-f-4154.html">Wanted &amp; Recommendations</a>
+</span>
+</div>
+</li>
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/hmrc-have-not-finished-with-landlord-taxation-t-127643990.html" title="">HMRC have not finished with landlord taxation</a>
+</span>
+<span class="post-detail">
+<a href="https://www.propertytribes.com/tax-f-4145.html">Tax</a>
+</span>
+</div>
+</li>
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/suing-tenant-for-damage-and-arrears-t-127644021.html" title="">Suing tenant for damage and arrears</a>
+</span>
+<span class="post-detail">
+<a href="https://www.propertytribes.com/problem-tenants-f-4162.html">Problem Tenants</a>
+</span>
+</div>
+</li>
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/to-use-or-not-to-use-equity-that-is-the-q-t-127644038.html" title="">To use or not to use (equity) that is the q!</a>
+</span>
+<span class="post-detail">
+<a href="https://www.propertytribes.com/buy-to-let-f-21.html">Buy-to-Let</a>
+</span>
+</div>
+</li>
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/tragic-events-unfolding-in-training-sector-t-127643302.html" title="">Tragic events unfolding in training sector</a>
+</span>
+<span class="post-detail">
+ <a href="https://www.propertytribes.com/community-f-4134.html">Community</a>
+</span>
+</div>
+</li>
+</ol>
+<div class="widget-view-more">
+<a href="https://www.propertytribes.com/forumdisplay.php?action=trending" title="View more" rel="nofollow">View more</a>
+</div>
+</div>
+<div class="tab-pane" id="latest-posts">
+<ol class="trending-orderlist">
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/paragon-as-a-lender-for-a-ltd-co-t-127644051.html" title="">Paragon as a lender? (for a Ltd Co)</a>
+</span>
+<span class="post-detail">
+<a href="https://www.propertytribes.com/mortgages-finance-f-23.html">Mortgages &amp; Finance</a>
+</span>
+</div>
+</li>
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/property-gurus-negative-experiences-sought-t-127644049.html" title="">Property 'gurus'- negative experiences sought</a>
+</span>
+<span class="post-detail">
+<a href="https://www.propertytribes.com/wanted-recommendations-f-4154.html">Wanted &amp; Recommendations</a>
+</span>
+</div>
+</li>
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/london-best-value-areas-t-127644052.html" title="">London - Best Value Areas</a>
+</span>
+<span class="post-detail">
+<a href="https://www.propertytribes.com/first-time-buyer-f-4164.html">First Time Buyer</a>
+</span>
+</div>
+</li>
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/family-investment-company-fic-t-127643465.html" title="">Family Investment Company - FIC</a>
+</span>
+<span class="post-detail">
+<a href="https://www.propertytribes.com/tax-f-4145.html">Tax</a>
+</span>
+</div>
+</li>
+<li>
+<div>
+<span class="post-title">
+<a href="https://www.propertytribes.com/rent2rent-sample-contract-mortgage-letter-t-127644050.html" title="">Rent2Rent sample contract &amp; mortgage letter</a>
+</span>
+<span class="post-detail">
+<a href="https://www.propertytribes.com/hmo-multi-lets-f-24.html">HMO &amp; Multi-Lets</a>
+</span>
+</div>
+</li>
+</ol>
+<div class="widget-view-more">
+<a href="https://www.propertytribes.com/forumdisplay.php?action=latest_posts" title="View more" rel="nofollow">View more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="square-banner-area">
+<div class="square-banner"></div>
+</div>
+</aside> </div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="footerWrapper">
+<footer>
+<div class="container">
+<div class="row no-margin-xs no-margin-sm">
+<div class="col-md-8 no-padding-xs no-padding-sm">
+<ul class="footer-links">
+<li><a href="https://www.propertytribes.com/misc.php?page=about" title="About">About</a></li>
+<li><a href="https://www.propertytribes.com/misc.php?page=contact-us" title="Contact Us">Contact Us</a></li>
+<li><a href="https://www.propertytribes.com/misc.php?page=advertise" title="Advertise">Advertise</a></li>
+<li><a href="https://www.propertytribes.com/misc.php?page=terms-privacy" title="Terms &amp; Privacy">Terms &amp; Conditions</a></li>
+<li><a href="https://www.propertytribes.com/misc.php?page=complaints" title="Complaints">Complaints</a></li>
+<li><a href="https://www.propertytribes.com/misc.php?page=privacy" title="privacy notice">Privacy notice</a></li>
+</ul>
+</div>
+<div class="col-md-4 no-padding-xs no-padding-sm">
+<ul class="social-media-icon">
+<li><a href="https://twitter.com/4_Walls" title="Follow Us on Twitter" class="btn-social social-twitter"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.facebook.com/propertytribesnewsfeed/" title="Follow Us on Facebook" class="btn-social social-facebook"><i class="fa fa-facebook-square"></i></a></li>
+<li><a href="https://www.youtube.com/user/propertytribes" title="Follow Us on Youtube" class="btn-social social-youtube"><i class="fa fa-youtube-square"></i></a></li>
+</ul>
+</div>
+</div>
+</div>
+
+
+</footer>
+</div>
+<input type="hidden" name="_token" value="f5NVBNs5auvITDRDfgYXs7IdTAG2BRobRDXDhDan">
+<script type="text/javascript" src="https://www.propertytribes.com/js/image.js?v=10"></script>
+<script type="text/javascript" src="https://www.propertytribes.com/js/ckeditor/ckeditor.js?v=38"></script>
+
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script src="/js/master.js?id=9a2b541cd9d4b24039ea"></script>
+<script type="text/javascript">//jQuery.noConflict();</script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/blazy/latest/blazy.min.js"></script>
+<script>
+        ;(function() {
+            // Initialize
+              var bLazy = new Blazy();
+        })();
+
+    if(jQuery("#discuss-mode").length==0){
+        setInterval(function(){
+
+          var bLazy = new Blazy();
+            
+        },1000);
+      }
+        
+       
+    </script>
+
+<script>
+  jQuery(function($){
+
+    var j = $.noConflict();
+    j('[data-toggle="tooltip"]').tooltip();
+
+    if($('tbody').length>0)
+    {
+      var class1 = '.table-area';
+
+  }
+  else if(jQuery("ul.alltribes").length>0)
+  {
+      var class1 = '.alltribes';
+  }
+  else
+  {
+      var class1 = '.ContentArea';
+  }
+
+  $(class1).infinitescroll({
+      navSelector  : '.pagination',    // selector for the paged navigation
+      nextSelector : '.pagination a',  // selector for the NEXT link (to page 2)
+      itemSelector : '.data-area',     // selector for all items you'll retrieve
+      loading: {
+        finishedMsg: 'No more pages to load.',
+        'img':'https://www.propertytribes.com/images/ajax-loader.gif'
+
+    }
+},
+
+    // trigger Masonry as a callback
+    function( newElements ) {
+
+      jQuery("select.selectboxit").each(function(i,el){
+
+        var newElems = jQuery(el),
+        opts = {
+          showFirstOption: attrDefault(newElems, 'first-option', true),
+          'native': attrDefault(newElems, 'native', false),
+          defaultText: attrDefault(newElems, 'text', '')
+
+      };
+
+      newElems.addClass('visible');
+      newElems.selectBoxIt(opts);
+
+  });
+
+  });
+
+    // padding-left: 67.5px; margin-left: 0px;
+    var authUserId = jQuery("input[name='auth_user_id']").val();
+
+});
+</script>
+<script type="text/javascript">
+  var _sf_async_config = { uid: 43211, domain: 'propertytribes.com' };
+  (function() {
+    function loadChartbeat() {
+      window._sf_endpt = (new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+        (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+        "js/chartbeat.js");
+      document.body.appendChild(e);
+  };
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+  loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3b6e6b70f7","applicationID":"125303137","transactionName":"MQBUNxBUXhZTURFaVghKYxELGlkLVlcdHUkOFQ==","queueTime":0,"applicationTime":561,"atts":"HUdXQVhOTRg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">
+
+  jQuery(document).ready(function($){
+
+
+    $(document).on("click","#searchbutton",function(e){     
+    //need to reference the hidden input with name="Name" above
+    var input= $(this).closest('form').find('input[id="keywords"]').val();
+    $("#searchForm1").submit();
+});
+
+    $.widget("custom.catcomplete", $.ui.autocomplete, {
+      _renderMenu: function(ul, items) {
+        var self = this,
+        currentCategory = "";
+        $.each(items, function(index, item) {
+          if (item.category != currentCategory) {
+            ul.append("<li class='ui-category'>" + item.category + "</li>");
+            currentCategory = item.category;
+        }
+        self._renderItemData(ul, item);
+    });
+    }
+});
+
+      $(document).on("click",".search_result:visible",function(e)
+      {
+
+  
+  $(this).catcomplete({
+                  
+                  source:'https://www.propertytribes.com/ajaxsearch',
+                  minLength:1,
+                  autoFocus: true,
+                  appendTo:  $(this).parent(),
+                  width:300,
+                  
+                  open: function(event,ui) {
+
+      
+      $('.ui-autocomplete#keywords').css('width', '20px');
+  $("ul.ui-menu").width($("#keywords").innerWidth());
+  
+
+},
+close: function (event, ui) {
+
+  $(this).find('input').autocomplete( "search");
+  
+},
+select: function(event, ui) {
+
+  if(event.keyCode!=13){
+    $("#keywords").val(ui.item.value);
+    $('input[name=category]').val(ui.item.category);
+
+    $("#searchForm").submit();
+    if(ui.item.category == "Tribes")
+                        {
+                          window.location.href = 'https://www.propertytribes.com/forumdisplay.php?fid='+ui.item.id+'&action=latest_posts';
+                      }else if(ui.item.category == "Topics" && ui.item.id!=0)
+                      {
+                          window.location.href = 'https://www.propertytribes.com/showthread/tid'+'/'+ui.item.id;
+
+                      }else if(ui.item.category == "Members" && ui.item.id!=0)
+                      {
+                          window.location.href = 'https://www.propertytribes.com/profile'+"/"+ui.item.id;
+
+                      }else if(ui.item.category == "Events" && ui.item.id!=0)
+                      {
+                          window.location.href = 'https://www.propertytribes.com/calendar.php?action=event'+"&eid="+ui.item.id;
+
+                      }
+  else
+  {
+      $("#searchForm1").submit();
+  }
+}
+}
+});
+
+}).keydown(function(e){
+  var keywords =    jQuery("#keywords").text();
+  if(keywords.trim().length>0){
+        
+        if (e.keyCode === 13){
+            $("#searchForm1").submit();
+        }
+
+  }
+
+});
+
+$(window).resize(function() {
+
+ 
+  var position = $("#keywords").position();
+  var properties = {left: position.left,
+    top: position.bottom
+};
+$(".ui-autocomplete").css(properties);
+  
+
+  $('.search_result').on('click', function(){
+
+     
+      $("#keywords").catcomplete({
+         
+          source:'https://www.propertytribes.com/ajaxsearch',
+          minLength:1,
+          autoFocus: true,
+          appendTo: $("#keywords").parent(),
+          
+          
+          select: function(event, ui) {
+
+            $("#keywords").val(ui.item.value);
+            $('input[name=category]').val(ui.item.category);
+
+            $("#searchForm1").submit();
+
+        }
+
+    });
+  });
+});
+
+});
+
+  // This is OneSignal JS Code 
+  var OneSignal = window.OneSignal || [];
+  OneSignal.push(["init", {
+    appId: onesignal_app_id,
+    persistNotification: false,
+    autoRegister: true,
+
+    notifyButton: {
+      enable: true /* Set to false to hide */
+    },
+
+    httpPermissionRequest: {
+      enable: true
+
+    }, 
+
+    welcomeNotification: {
+      disable: false,
+      title: "Thank you for",
+      message: "Subscribing to Property Tribes, the #1 Property Forum for Private Landlords!"
+    }     
+
+  }]);
+
+
+  function subscribe() {
+
+    OneSignal.push(["registerForPushNotifications"]);
+    event.preventDefault();
+  }
+
+  function unsubscribe(){
+    OneSignal.setSubscription(true);
+  }
+
+  var OneSignal = OneSignal || [];
+  OneSignal.push(function() {
+
+    /* These examples are all valid */
+    // Occurs when the user's subscription changes to a new value.
+    OneSignal.on('subscriptionChange', function (isSubscribed) {
+
+      console.log("The user's subscription state is now:", isSubscribed);
+
+      var isPushSupported = OneSignal.isPushNotificationsSupported();
+      if (isPushSupported)
+      {
+        // Push notifications are supported
+        OneSignal.isPushNotificationsEnabled().then(function(isEnabled)
+        {
+          if (isEnabled)
+          {
+            console.log("Push notifications are enabled!");
+
+          } else {
+                //OneSignal.showHttpPrompt();
+                console.log("Push notifications are not enabled yet.");
+              }
+            });
+
+      } else {
+        console.log("Push notifications are not supported.");
+      }
+    });
+  }); 
+  // OneSignal JS Code Ends here. 
+
+</script>
+
+<div id="dimScreen"></div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"3b6e6b70f7","applicationID":"397708472","transactionName":"MQBUNxBUXhZTURFaVghKdwAWXF8LHXMVQ2UuEUITPnZfC0ZACl9VAxdFPyFYQyZdXBFBVgoJUxEiXF4BV0o=","queueTime":0,"applicationTime":73,"atts":"HUdXQVhOTRg=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
