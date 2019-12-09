@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keysearch.co privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616011357id_/https%3A//www.keysearch.co/application/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysearch.co privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209085256id_/https%3A//www.keysearch.co/privacy) for the most accurate reproduction.*
 
-# KeySearch
+# Keysearch - Privacy Policy
 
 Effective date: May 20, 2018
 
@@ -257,6 +257,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 If you have any questions about this Privacy Policy, please contact us:
 
-  * By email: contact@keysearch.co
-
-
+Email Us: contact@keysearch.co  
+Contact: <https://www.keysearch.co/contact>
