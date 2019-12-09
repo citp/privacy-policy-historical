@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hide-my-ip.com privacy policy that was archived on 2019-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190519185001id_/https%3A//www.hide-my-ip.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hide-my-ip.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209012237id_/https%3A//www.hide-my-ip.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -29,13 +29,12 @@ We may use "cookies", small data files saved in your web browser, to improve the
 
 #### Collected Personal Information
 
-The information we collect about you depends on the products and services you use or purchase from My Privacy Tools, Inc. Such information may include, but not limited to:  
+We do not monitor or keep logs your Internet traffic or activity while using the service. The information we collect about you depends on the products and services you use or purchase from My Privacy Tools, Inc. Such information may include, but not limited to:  
 
 
-  * Your name, address, E-mail address, IP address, and other information required to validate your identity.
+  * Your name, address, E-mail address, IP address, and other information required to validate your identity when you make contact with us regarding your account or payment.
   * Credit or debit card information or other payment information.
   * Use or access any of our our products, services, websites, or network.
-  * Your preferences for particular products or services when you tell us what they are (for example in surveys), or when we assume what they are, depending on how you use our products and services. 
   * Any communication with us, such as a ticket request to our support team, an E-mail, or live chat session. 
   * Your account information, such as billing dates, subscription type, and account details. 
   * Information relating to your use of our websites.
@@ -45,14 +44,13 @@ The information we collect about you depends on the products and services you us
 
 #### Using Your Personal Information
 
-We may use and analyze your information to:  
+Your privacy is safe with our no-logging policy for all VPN and proxy products. Information you provide to us through our website, CRM software, or applications is used to maintain quality service and:  
 
 
   * Provide you the products and services you have purchased or from us. 
   * Update you about new products and services, unless you have opted out of our marketing communications. 
   * Contact you with offers based on how you use our products and services. 
   * Reply to any inquiries you may have about our products, services, website, or network. 
-  * Provide quality service to you.
   * Prevent fraud or other crimes, or recover debts.
 
 
