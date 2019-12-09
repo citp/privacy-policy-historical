@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philosophy.com privacy policy that was archived on 2018-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20181111023854id_/http%3A//www.philosophy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philosophy.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209211952id_/https%3A//www.philosophy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # privacy policy | philosophy
 
@@ -48,7 +48,7 @@ philosophy.com may contain links to or from other websites. please be aware that
 
 facebook
 
-if you click "like" or make a comment on philosophy.com using a facebook social plugin, your activity may be published on facebook and shown to your facebook friends who visit philosophy.com. we encourage you to read the [facebook privacy policy](http://www.facebook.com/policy.php "facebook privacy policy") for more information.
+if you click "like" or make a comment on philosophy.com using a facebook social plugin, your activity may be published on facebook and shown to your facebook friends who visit philosophy.com. we encourage you to read the [facebook privacy policy](https://www.facebook.com/policy.php "facebook privacy policy") for more information.
 
 notification of changes
 
