@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoder.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623024505id_/https%3A//www.videoder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoder.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209045743id_/https%3A//www.videoder.com/privacy) for the most accurate reproduction.*
 
 # Videoder Video Downloader Privacy Policy
 
@@ -6,7 +6,7 @@ Videoder is an affiliate product of GLENNIO SOFTWARE PRIVATE LIMITED. When you u
 
 This Privacy Policy is meant to help you understand what information we collect, why we collect it, and how you can manage and delete your information. IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE THE SERVICES.
 
-Effective May 13, 2018
+Effective October 2, 2019
 
 * * *
 
@@ -59,12 +59,6 @@ Flurry Analytics by Yahoo
 Fabric Analytics and Crashlytics
 
 Mobvista (Mintegral) Ad Network
-
-Glispa Connect Ad Network
-
-Man Power Technology Limited
-
-BAT TECHNOLOGY CO. LIMITED
 
 We do not share your personal information with companies, organizations, or individuals outside of Videoder, except when we have a good-faith belief that access, use, preservation, or disclosure of the information is reasonably necessary to:
 
