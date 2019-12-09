@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2019-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190321161615id_/https%3A//www.ancestry.com.au/cs/privacyphilosophy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com.au privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209034602id_/https%3A//www.ancestry.com.au/cs/privacyphilosophy) for the most accurate reproduction.*
 
-# Ancestry and AncestryDNA Privacy Philosophy | Ancestry.com.au
+# Ancestry and AncestryDNA® Privacy Philosophy | Ancestry.com.au
 
 ## Your trust is our top priority.
 
@@ -19,15 +19,25 @@ Whether it’s your family history or your DNA data, we always strive to manage 
 
 [Read our full Privacy Statement](https://www.ancestry.com.au/cs/legal/privacystatement)
 
-## You're at the center of the AncestryDNA story.
+## You're at the center of the AncestryDNA® story.
 
-From your kit to your results and beyond, see how we put you and   
-your privacy first all along the way of your DNA experience.
+See how we put you and your privacy first all along the way of your DNA experience.
 
-## How do we help ensure you have control of your data?
+You’re in control of your  
+DNA and data.
 
-From what you choose to display to how your data can be shared,   
-learn AncestryDNA policies and processes to keep your data safe.
+From activation to results,  
+your privacy is protected.
+
+Our safeguards for law enforcement requests.
+
+You’re in control of your DNA and data.
+
+From activation to results,  
+your privacy is protected.
+
+Our safeguards for law  
+enforcement requests.
 
 ## Frequently Asked Questions
 
@@ -229,7 +239,7 @@ Your DNA results are viewable to you, and also to your DNA relatives if you have
 
     
 
-It is important to us that you feel safe communicating with other members of the Ancestry Community, so we’ve created an online messaging service that lets our users contact each other anonymously. When another user sends you a message, you’ll receive an alert in your Ancestry inbox and an email. You can respond through the Ancestry website without sharing any personal contact information with the sender (except your username). Ancestry stores these messages as described in our Privacy Statement.
+It is important to us that you feel safe communicating with other members of the Ancestry Community, so we’ve created an online messaging service that lets our users contact each other. When another user sends you a message, you’ll receive an alert in your Ancestry inbox and an email. You can respond through the Ancestry website without sharing any personal contact information with the sender (except your username). Ancestry stores these messages as described in our Privacy Statement.
 
 You can also choose not to communicate with anyone or [block specific users](https://www.ancestry.com.au/secure/Account/MemberBlock). To update your contact preferences, click on your username in the upper right corner and select [Site Preferences](https://www.ancestry.com.au/secure/account/sitepreferences).
 
@@ -249,6 +259,9 @@ To change these settings, go to [Activity Preferences](https://www.ancestry.com.
 
 **Public Trees**   
 If your tree is public, other users can view all content in your tree except information about living people and notes. Other users can also see your username or full name depending on your account settings. See [Privacy for Your Family Tree](https://www.ancestry.com.au/cs/legal/PrivacyForYourFamilyTree) for more information.
+
+**Messaging**   
+When you are using Ancestry’s messaging system to send messages to other Ancestry members, they will see your online status. They will also see when their message was delivered to you and read by you.
 
 **Message Boards**   
 Anything you post on message boards is public. If you ever have a concern about what is being shared, you can contact a Message Board Administrator at [messageboards@rootsweb.com](mailto:messageboards@rootsweb.com).
