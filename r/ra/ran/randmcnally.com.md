@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2019-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190512020648id_/https%3A//www.randmcnally.com/legal/doc/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randmcnally.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209011127id_/https%3A//www.randmcnally.com/legal/doc/privacy_policy) for the most accurate reproduction.*
 
 # Rand McNally | Privacy Policy
 
 * * *
 
-##### Last Updated: January 22, 2019
+##### Last Updated: October 22, 2019
 
 By using this web site, you agree to the following policy:
 
@@ -137,7 +137,7 @@ return to top
 
 ### Product specific policies
 
-  * [Rand McNally DriverConnect](http://www.randmcnally.com/legal/doc/driverconnect-privacy-policy)
+  * [Rand McNally DriverConnect](https://www.randmcnally.com/legal/doc/driverconnect-privacy-policy)
   * [HD 100 Terms and Conditions of Use](https://www.randmcnally.com/legal/promo/terms-and-conditions-for-use-of-the-hd-100)
   * [TND 760/765 Service Terms](https://www.randmcnally.com/pages/765-service-terms)
 
