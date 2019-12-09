@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2019-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190629140404id_/https%3A//www.thisoldhouse.com/old-house-ventures-llc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisoldhouse.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209072634id_/https%3A//www.thisoldhouse.com/old-house-ventures-llc-privacy-policy) for the most accurate reproduction.*
 
 # THIS OLD HOUSE VENTURES, LLC PRIVACY POLICY | This Old House
 
