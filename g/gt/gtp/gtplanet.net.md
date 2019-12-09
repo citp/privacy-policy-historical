@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331003456id_/https%3A//www.gtplanet.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209154815id_/https%3A//www.gtplanet.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – GTPlanet
 
@@ -51,13 +51,13 @@ All emails sent by GTPlanet also include links with instructions on how to disab
 
 We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.
 
-## Cookie Usage
+## Common ID Cookie
 
-Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie by clicking here.
 
-We have a detailed cookie policy and more information about the cookies that we set on [this page](https://www.gtplanet.net/forum/help/cookies).
+## Advertising Privacy Settings
 
-In the course of serving advertisements, our third-party advertising partners may place or recognize their own cookies in your browser.
+When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking here.
 
 ## Right To Access Personal Data
 
