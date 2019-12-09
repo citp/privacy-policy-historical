@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garmentory.com privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620114714id_/https%3A//www.garmentory.com/static/terms_and_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garmentory.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209202510id_/https%3A//www.garmentory.com/static/terms_and_privacy) for the most accurate reproduction.*
 
 # Garmentory | Boutique designer fashion for men + women
 
