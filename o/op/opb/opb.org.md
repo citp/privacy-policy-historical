@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616175653id_/https%3A//www.opb.org/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opb.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209165833id_/https%3A//www.opb.org/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy . About | OPB
 
