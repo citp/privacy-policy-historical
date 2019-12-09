@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2019-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190326135520id_/https%3A//www.bmc-switzerland.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc-switzerland.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209153550id_/https%3A//www.bmc-switzerland.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy
 
