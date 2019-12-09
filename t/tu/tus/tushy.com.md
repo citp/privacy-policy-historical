@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tushy.com privacy policy that was archived on 2019-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190329221616id_/https%3A//www.tushy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tushy.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209215901id_/https%3A//www.tushy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : TUSHY.com
 
-Last updated: 29 March 2018
+Last updated: 22 August 2019
 
 This Privacy Policy describes how and when we collect, use, and share your information. It also describes your rights regarding the data we store. Please read this document carefully.
 
@@ -16,7 +16,7 @@ This is an **adult website** that expressly and strictly limits its membership t
 
 This website is operated by General Media Systems, LLC and is part of the VIXEN network of websites that includes blacked.com, blackedraw.com, vixen.com and tushy.com, as well as other websites.
 
-You can contact us by email [support@tushy.com](mailto:support@tushy.com)
+You can contact us by email
 
 ### Disclaimer
 
@@ -34,7 +34,7 @@ In order to **provide our service** when you subscribe we collect the following 
 \- Your **IP address** to determine your general location and protect your account from being hacked.  
 \- Your **name** , **country** , **ZIP** or **post code** , **credit card** or **other billing information** , through a third party billing provider (as listed below), so we can charge you the subscription fees.
 
-We also occasionally send you **content updates** and **special offers** from us or our partners. You can opt out of receiving these at any time in your [Account Settings](https://members.tushy.com/account).
+We also occasionally send you **content updates** and **special offers** from us or our partners. You can opt out of receiving these at any time in your[Account Settings](https://members.tushy.com/account).
 
 ### Keeping your data secure
 
@@ -59,7 +59,7 @@ Credit card, email, first and last name, country, ZIP or post code
 
 | 
 
-If you sign up to one or more of our websites, your credit card or other billing data is processed by one of our payment processors; [EPOCH](https://epoch.com/billingsupport), [SEGPAY](http://cs.segpay.com/), [VXNBILL](https://web.archive.org/vxnbill), [CCBILL](https://support.ccbill.com/) or [CENTROBILL](https://centrobill.com/consumer/contact.html), .
+If you sign up to one or more of our websites, your credit card or other billing data is processed by one of our payment processors; [EPOCH](https://epoch.com/billing_support), [SEGPAY](http://cs.segpay.com/), [VXNBILL](https://web.archive.org/vxnbill), [CCBILL](https://support.ccbill.com/), [CENTROBILL](https://centrobill.com/consumer/contact.html) or [ECHST](https://www.echst.net/).
 
 You can tell which of these companies processes your data from both the page you see when you pay for your subscription, as well as from the billing related emails you receive.
 
@@ -95,6 +95,16 @@ All data
 
 We use [Amazon Web Services](https://aws.amazon.com/) to host our websites on its infrastructure in the USA. We also use Amazon Web Services to host all data (including yours) in securely encrypted form. On top of that we use [Loggly](https://www.loggly.com/) and [Cloudflare](https://www.cloudflare.com/) to protect both ourselves and you from fraudulent attempts to access the site and your data.  
   
+Partners
+
+| 
+
+Email address and username
+
+| 
+
+In the case you decide to subscribe to any of our partners websites through our services we share your email and username in order to facilitate account creation. These partners are [Bang](https://www.bang.com/), [James Deen](https://jamesdeen.com/), [Streamate](https://streamate.com/), [Flirt4Free](https://www.flirt4free.com/), [Camsoda](https://www.camsoda.com/).  
+  
 ### How long we store your data
 
 Unless you ask to have it deleted, we will store your data indefinitely in order to give you continued access to any content that was present at the time your subscription ended.
@@ -125,7 +135,7 @@ You have the right to **access** or **rectify** the personally identifiable data
 
 You also have the right to ask for your data to be **deleted**. Just keep in mind that we might need it in order to fulfil the rest of your subscription.
 
-If you want to access, rectify or delete your data, please send us an [email](mailto:support@tushy.com).
+If you want to access, rectify or delete your data, please send us an .
 
 ### Optional Features
 
