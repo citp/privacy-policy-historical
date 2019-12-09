@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aarons.com privacy policy that was archived on 2019-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190407070152id_/https%3A//www.aarons.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarons.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209120149id_/https%3A//www.aarons.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Policy Details and Info | Aaron's
+# Aaron’s: Rent to Own Furniture, Electronics, Appliances | Aaron's
 
 This ("Policy") describes how Aaron's, Inc. and its affiliates, subsidiaries, divisions, and franchisees (collectively "Aaron's," "we" "our" or "us"), collects, uses and shares your information.  This Policy does not cover the collection of mobile device information for in-store analytics.  To the extent individual stores collect such information, please see store signage for more information and opt-out choices. 
 
