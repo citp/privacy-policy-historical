@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rusi.org privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509233628id_/https%3A//rusi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusi.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209043118id_/https%3A//rusi.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RUSI
 
@@ -51,7 +51,7 @@ Throughout our website, we provide links to other servers which may contain info
 
 ## Use of Text and Images
 
-If you would like to publish information that you find on our website, please send your request to [reception@rusi.org](https://web.archive.org/web/20190509233628id_/https%3A//rusi.org/reception@rusi.org). Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
+If you would like to publish information that you find on our website, please send your request to [reception@rusi.org](https://web.archive.org/web/20191209043118id_/https%3A//rusi.org/reception@rusi.org). Where text or images are posted on our site with the permission of the original copyright holder, a copyright statement appears at the bottom of the page.
 
 ## Disclosure of Your Information
 
