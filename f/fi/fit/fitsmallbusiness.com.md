@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitsmallbusiness.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617025153id_/https%3A//fitsmallbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitsmallbusiness.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209100043id_/https%3A//fitsmallbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,5 +46,5 @@ If you have any questions or concerns regarding this policy, please contact us b
 
 Fitsmallbusiness.com  
 dwaring@Fitsmallbusiness.com  
-262 4th Avenue Suite 4  
-Brooklyn, NY 11215
+355 Lexington Ave, 18th Floor  
+New York, NY 10017
