@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterfox.net privacy policy that was archived on 2019-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190620192826id_/https%3A//www.waterfox.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterfox.net privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209234742id_/https%3A//www.waterfox.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Waterfox Web Browser
 
