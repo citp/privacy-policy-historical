@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerforinquiry.net privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406181851id_/https%3A//centerforinquiry.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerforinquiry.net privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209020004id_/https%3A//centerforinquiry.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Inquiry
 
