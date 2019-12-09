@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2019-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190406115109id_/https%3A//www.eccouncil.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eccouncil.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209194127id_/https%3A//www.eccouncil.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | EC-Council
 
