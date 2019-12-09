@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eveningexpress.co.uk privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630205604id_/https%3A//www.dctmedia.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eveningexpress.co.uk privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209125428id_/https%3A//www.dctmedia.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DC Thomson Media
 
