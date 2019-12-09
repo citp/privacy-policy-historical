@@ -1,146 +1,180 @@
-> *The following text is extracted and transformed from the cgtn.com privacy policy that was archived on 2019-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190324182818id_/https%3A//www.cgtn.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgtn.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209040903id_/https%3A//www.cgtn.com/privacy) for the most accurate reproduction.*
 
-# CGTN
+# CGTN - Homepage - Breaking News, China News, World News and Video
 
-Privacy Policy
+Privacy Notice
 
-We are strongly committed to letting you know how we will collect and use your personal information. The policies below are applicable to the network of websites China Global Television Network (collectively “CGTN” or “we”, “us”, or “our”), including [www.cgtn.com](https://www.cgtn.com/) and its affiliated websites (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by CGTN; all apps published by CGTN; and all other interactive features, services, and communications provided by CGTN (collectively “Sites”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by CGTN. We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to these Sites, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. 
+China Global Television Network (collectively “CGTN” or “we”, “us”, or “our”) respects your right to privacy when visiting <https://www.cgtn.com/> both under the [General Data Protection Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679) (GDPR) of the European Union and the [Cybersecurity Law](http://www.npc.gov.cn/npc/c30834/201611/270b43e8b35e4f7ea98502b6f0e26f8a.shtml) (CSL) of the People’s Republic of China. In compliance with relevant laws and regulations, we have prepared the following Privacy Notice. It covers the personal data we collect, how we use it, as well as your rights and how to exercise them. 
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Sites. It does not apply to information that you may submit to us offline, or to Sites maintained by other companies or organizations to which we may link or who may link to us. 
+The term **personal data** in this Privacy Notice is defined as any information that recorded electronically or otherwise can solely or combined with others can identify you. For example, your IP address. 
 
-By visiting our Sites, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively or to personal information already in our possession, we will provide you with notice of the modifications or amendments. 
+We recommend reading carefully this Privacy Notice. It details how we collect, use and disclose the personal data. If you are under 16 years old, do not provide any personal data without your parents or legal guardian’s permission. 
 
-If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at  _digital.media@cgtn.com_. 
+For any question on this Privacy Notice, our website or any other issue unrelated to the exercise of your privacy rights, you can contact us or our DPO at the following: 
 
-Controllers of Personal Information
-
-Any personal information provided to or to be gathered by CGTN is controlled primarily by CGTN. 
-
-What Information About Me Is Collected and Stored?
-
-We collect two basic types of information from you in conjunction with your use of the Sites, personal information and non-personal information. Personal information is information that you may supply to us, as described more fully below, i.e., when you register for a Site or any part thereof, upload content, participate in a community, or provide your e-mail address. Personal information is any information that can individually identify you and includes, among other things, your name, e-mail address, telephone number, postal address, and contact information. Non-personal information includes information that does not personally identify you, but it may include tracking and usage information about your location, demographics, use of the Sites and the Internet. 
-
-As a general matter, you can browse the Sites without submitting your personal information to us. However, there are a number of circumstances in which you may supply us with your personal information. The following lists the most common ways in which we may collect your personal information. 
-
-  * Registration for an account on the Sites 
-  * Sign up to receive e-mail newsletters or e-mail alerts from us 
-  * Request for customer service or other assistance 
-  * Completing the contact form to contact CGTN 
-  * Participation on social media accounts involving CGTN, our Sites and our brands 
-  * Participation in communities, comment threads, other fora, and other interactive services 
-  * Submission of user generated content on any part of the Sites that permit it 
-  * Any other place on the Sites where you knowingly volunteer personal information 
+China Global Television Network  
+Name: Yang Guijun  
+Address: 9 Floor, ENFEI Plaza, NO.12 FUXING Road, HaiDian District ,BeiJing, China  
+E-mail: yangguijun@cgtncorp.com  
 
 
+China Global Television Network’s DPO  
+Name: Asha Pankhania  
+Address: 11th Floor, Building 7, Chiswick Park, London W4 5YG, UK  
+E-mail: asha.pankhania@cgtn.com  
 
-Collection of Personal Information from or through Social Media Sites
 
-When you interact with any CGTN property page or account on a social media platform, such as Facebook, Weibo, WeChat, Twitter, Google+, Tumblr, YouTube, or Pinterest, we may collect the personal information that you make available to us on that page or account including your account ID or “handle.” However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personal information that we are permitted to collect by these social media platforms. If you choose to link or login to your CGTN account with or through a social networking service, CGTN and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you view on the Sites, with that social network’s users. 
+What type of data we collect
 
-In addition, when you interact with the Sites, we may collect certain information that does not identify you individually and our servers may automatically keep an activity log of your use of our Sites (“Non-Personal Information”). Generally, we collect and store the following categories of Non-Personal Information: 
+We follow the GDPR or CSL in collecting and using your personal data. We collect the following types of data: 
 
-  * Demographic data such as age, gender, and five digit zip code as part of collecting personal information.
-  * Neighborhood information
-  * Device information about your computer, mobile device, or other device that you use to access the Sites. This information may include IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information.
-  * Usage information about your use of the Sites. This information includes a reading history of the pages you view. We use this information to provide you a more customized experience on the Sites.
-  * Additional “traffic data” such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses.
-  * Your search terms and search results.
-  * Other information regarding your use of the Sites.
+  * Identity data such as your gender, age 
+  * Location data such as the city where you are located, the country you reside 
+  * Technical data such as your IP address, the browser you are using 
+  * Usage data such as how you use our website, what news you have read and when 
+  * Contact data such as your name, email address when you reach us by email and other data you disclose in such email 
+  * Cookies data (see the details in **Cookies and Local Storage Policy** ) 
 
 
 
-Collection of Your Source IP Address/Location Information
+How we get your data and why we do have it
 
-We collect and store your device’s source IP address which may disclose the location of your device at the time you access the Sites. In addition, in some cases the Sites can deliver content based on your current location if you choose to enable that feature. If you enable that feature, your current location will be stored locally on your device which will be used by the Sites to serve you certain content tied to your location. If you elect to have your location-based searches saved to your history, we will store such information on our servers. 
+We process your personal data in accordance with the legal basis under Article 6.1.a of the GDPR or Article 41 of the CSL. 
 
-Collection of Personal and Non-Personal Information from Other Sources
+The purposes of our collection and use of the personal data are specified as following: 
 
-We also may collect and store information about you that we receive from other sources (including by us from our offline interactions with you) to, among other things, enable us to update and correct the information contained in our database and to better customize your experience on the Sites. 
+Type of Personal Data | Purpose  
+---|---  
+Identity data | To provide you with a more tailored experience of our application, such as recommended news that would be more interesting for you  
+Usage data | To provide you with a more tailored experience of our application, such as recommended news that would be more interesting for you  
+Location data | To improve our games and services and to make our application compatible with your device  
+Technical data | To improve our games and services and to make our application compatible with your device  
+  
+Cookies and Local Storage Policy
 
-Like many websites, we use “cookies”, which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences and actions. We use cookies to track use of our Sites and online services. We may also use cookies to monitor traffic, improve the Sites and make it easier and/or relevant for your use. You may occasionally get cookies from third parties with content or links on our Sites. We do not control these cookies, and these cookies are not subject to this cookie policy. 
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. The table below explains the cookies we use and why. 
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Sites may not work or may not work as designed. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org. 
+Cookie | Name | Purpose  
+---|---|---  
+Universal Analytics (Google) |  AMP_TOKEN  
+IDE  
+__auc  
+_ga  
+_gat_newsTracker  
+_gat_webTracker  
+_gid  |  Those cookies are used to collect information about your use of our website. We use them to estimate the number of visitors on our website as well as the pages they visit. We then use such information to improve our website and its content. To know more about how Google through Google Analytics process your data, you can visit their [presentation](https://support.google.com/analytics/answer/6004245) on how Privacy works with their services.   
+Search query cookie | searchList | This cookie records the queries you input in the research bar. We collect and use this information to then provide you with a more tailored experience of our website.  
+  
+As most web browsers include the functionality of managing the cookies that you receive, you can at any time change your web browser settings to opt-out of our cookies. You can do this for the following popular browsers like this: 
 
-The Sites use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics may also use cookies or other tracking technology to help us analyze how users interact with and use the Sites, compile reports on Site activity, and provide other services related to Site activity and usage. The cookies and other technology may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The Sites do not use Google Analytics to gather any Personal Information. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s privacy policies. 
-
-How Do We Use Your Information?
-
-We use the information we learn from you to help us personalize and continually improve your experience on the Sites. We may use your Personal and Non-Personal Information in the following ways: 
-
-  * Provide you with the content, products and services you request
-  * Post your user generated content to our Sites as you request 
-  * Communicate with you about your account
-  * Communicate with you about information, features and enhancements on or to our Sites, content on our Sites that may be of interest to you, and breaking news
-  * Communicate with you about changes to our policies
-  * Communicate with you about your comment to a story or topic
-  * Personalize content and experiences on our Sites, including providing you recommendations based on your preferences
-  * Optimize or improve our Sites, products, services and operations
-  * Detect, investigate, and prevent activities that may violate our policies or be illegal
-  * Perform statistical, demographic, and marketing analyses of users of the Sites and their usage patterns
-
-
-
-Combination of Your Personal Information
-
-We use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by CGTN, and we may combine information gathered from multiple portions of the Sites into a single customer record. We also use and/or combine information that we collect off-line or we collect or receive from third party sources to enhance, expand, and check the accuracy of your user records. 
-
-Use of Your Location Information
-
-Specifically, we use your location information to: 
-
-  * Provide you with the content and services you request
-  * Personalize content and experiences on our Sites, including providing you recommendations based on your preferences 
-  * Personalize your newsletters and other communications for our services or special events
-  * Optimize or improve our products, services and operations
-  * Detect, investigate, and prevent activities that may violate our policies or be illegal
-  * Perform statistical, demographic, and marketing analyses of users of the Sites and their usage patterns
+  * [For Google Chrome](https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&hl=en)
+  * [For Microsoft Edge](https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy)
+  * [For Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences)
+  * [For Microsoft Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [For Opera](https://www.opera.com/help/tutorials/security/privacy/)
+  * [For Apple Safari](https://support.apple.com/en-gb/safari)
 
 
 
-Who Do We Provide Your Information To?
+Local Storage is a functionality of HTML 5 that allows website to store information in your browser that will remain once you close it. We use this functionality to record your consent to our Privacy Notice with the Key “GDPR”. 
 
-Except as disclosed in this Privacy Policy, we do not disclose information about your Personal Information collected online to any companies not part of CGTN or its subsidiaries or related entities. Although, as disclosed below, we may provide your information to our partners, in no event will we sell or rent your Personal Information as part of a customer list or similar transaction. 
+Accessing Local Storage is different from browser to browser, but generally is accessed through an option called “Developer tools”, then Storage and Local Storage. 
 
-We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, such as hosting, content syndication, content management tools, social media integration, marketing, analytics, customer service, fraud protection, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites. 
+Third parties accessing your data
 
-Business Partners and Third Parties
+When we follow your use of our website, your personal data will be collected and processed on our behalf by Google Big Query as well as Google Analytics. Their processing allows us to provide you with a more tailored experience of our website, such as recommended news that would be more interesting for you. To do so we need to draw a profile of your preferences to present you with the news you may prefer based on the analyses of your personal data and data. The processing of your personal data and third-party data also allows us to better understand how our website is used and how to improve it. Through analytics of your data we are able to always improve our website and content. 
 
-We may share your Personal Information with our business partners from time to time. We may also share your Personal Information with third parties that provide products and services that we think you may be interested in. Although our treatment of your Personal Information is governed by this Privacy Policy, the business partner or third party’s treatment of your Personal Information will be governed by the business partner or third party’s privacy policy. You may withdraw your consent to our sharing of your Personal Information with business partners and third parties at any time by following the opt-out process described below. 
+We combine personal data collected through your use of our website with demographical and statistical data to process them through Google Analytics and Google Big Query. Demographical and statistical data can be acquired through: 
 
-We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Sites; (b) protect and defend our rights or property, the Sites or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Sites or the public. 
+  * Third party data suppliers from which we purchase demographic data to supplement the data we collect 
+  * Social networks when you reference our Services or grant permission to CGTN to access your data on one or more of these services 
+  * Partners with which we offer co-branded services, sell or distribute our products, or engage in joint marketing activities 
+  * Publicly-available sources such as open government databases or other data in the public domain 
 
-Use of Non-Personal Information
 
-We may disclose or share Non-Personal Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary. Among other things, we will disclose Non-Personal Information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose Non-Personal Information to our partners and other third parties about how our users collectively use the Sites. 
 
-What Steps Are Taken To Keep Personal Information Secure?
+Google Analytics uses statistical information collected from our website and your usage of our website to analyze information such as click-through rate, geographic distribution of our users. 
 
-We are concerned about ensuring the security of your Personal Information. Personal Information collected by our Sites are stored in secure operating environments that are not available to the public. Our security procedures mean that we may occasionally request proof of identity before we disclose your Personal Information to you. Please understand, however, that while we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. 
+Google Big Query uses information regarding your use of our website to help us presenting you with relevant news and video that you may be interested in by drawing a profile of your potential interests. 
 
-What Happens When I Link To or From Another Website?
+For more details on how Google Analytics and Google Big Query use your personal data, you can visit their [privacy policy](https://policies.google.com/technologies/partner-sites?hl=en) and Google Big Query [commitment](https://cloud.google.com/security/gdpr/) to the GDPR. 
 
-These Sites may contain links to other websites operated by affiliates of CGTN or third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other websites. We are not responsible for the actions and privacy policies of third parties and other websites. 
+Where are your data stored
 
-Public Areas, Comments, and Community Areas
+When surfing our website, any data that we collect will be stored on Google Cloud, as well as our cloud server within the People’s Republic of China. 
 
-Please remember that any information you share in public areas, such as comments to stories, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any Personal Information that you expect to keep private. 
+When you contact us by email, any data included with your email will be stored in the People’s Republic of China. 
 
-Contributing offensive or inappropriate content to CGTN.com
+How do we store your information
 
-If you post or send offensive, inappropriate or objectionable content or otherwise engage in any disruptive behavior at CGTN.com, we may use your personal information to stop such behavior. CGTN reserves the right of interpretation and judgment regarding the above mentioned content. 
+We securely store personal data that we collect within the People’s Republic of China in compliance with state-of-the-art cybersecurity practice and the Cybersecurity Law of the People’s Republic of China. 
 
-These Sites are published in the People’s Republic of China. We attempt to protect the Personal Information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to our services, but our family of Sites are located and targeted to citizens of the People’s Republic of China and our policies are directed at compliance with those laws. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to us. 
+For personal data collected when you visit our website: 
 
-Notice to Non-Chinese Users
+  * Identity data are kept for **one year** following your last visit on our website 
+  * Profile data are kept for **one year** following your last visit on our website  
+Location data are kept for **one year** following your last visit on our website 
+  * Technical data are kept for **one year** following your last visit on our website 
+  * Usage data are kept for **one year** following your last visit on our website 
 
-If you are located outside the People’s Republic of China, you should be aware that your personally identifiable information will be transferred to the People’s Republic of China, the laws of which may be deemed by your country to have inadequate data protection. If you are located in a country outside the People’s Republic of China and voluntarily submit personal information to us, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the People’s Republic of China. 
 
-We may change our ownership or corporate organization while providing the Sites and services. We may also sell certain assets associated with the Sites. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy. 
 
-As our Sites continue to develop, we may add new services and features to our Sites. In the event that these additions affect our Privacy Policy, this document will be updated appropriately. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use our Sites in case you missed our notice of changes to the Privacy Policy. We will not, however, materially change our policies and practices to make them less protective of Personal Information we have previously collected from you without your express consent. 
+For personal data we collect when you send an email to us: 
 
-How Do I Opt-Out or Correct Information About Me
+  * Identity data are kept for **two years** from the time we receive your email 
+  * Contact data are kept for **two years** from the time we receive your email 
+  * Technical data are kept for **two years** from the time we receive your email 
+  * Other data are kept for **two years** from the time we receive your email 
 
-You may always opt-out of receiving future e-mail messages and newsletters from CGTN. To opt-out, you can send us a message at  [digital.media@cgtn.com](mailto:EMAIL). 
 
-Chinese laws permit customers of CGTN to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [digital.media@cgtn.com](mailto:EMAIL). 
+
+Following the expiration of the retention period, your personal data is erased from our systems. 
+
+You have rights concerning the collection and use of your personal data that are as follows: 
+
+  * **Your right to access your personal data** \- You have the right to ask us for copies of your personal data. 
+  * **Your right to rectification** \- You have the right to ask us to rectify your personal data that is inaccurate or incomplete. 
+  * **Your right to erasure** \- You have the right to ask us to erase your personal data in certain circumstances. 
+  * **Your right to restriction of processing** \- You have the right to ask us to restrict the processing of your personal data in certain circumstances. 
+  * **Your right to object to processing** \- You have the right to object to the processing of your personal data in certain circumstances. 
+  * **Your right to data portability** \- You have the right to ask that we transfer the information you gave us to another organization, or to you, in certain circumstances. 
+
+
+
+You are not required to pay any charge for exercising your rights. If you make a request, we will respond within one month. 
+
+Please contact us at [digital.media@cgtn.com](mailto:digital.media@cgtn.com) if you wish to make a request. 
+
+How to withdraw your consent
+
+You have the right at any time to withdraw your consent from any further collection and use of your personal data. You can withdraw your consent by: 
+
+  * Deleting cookies related to cgtn.com in your web browser. You can do so on [Microsoft Internet Explorer](https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorerIE), [Microsoft Edge](https://support.microsoft.com/en-us/help/4027947/windows-delete-cookies), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox), [Google Chrome](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&hl=en), [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac), as well as most web browser 
+  * Setting to 0 the GDPR key in your Local Storage 
+
+
+
+If you are not satisfied by the way we handle your personal data and wish to issue a complain, you can do so by contacting either: 
+
+  * Your national Data Protection Authority which contact information is located on this [webpage](https://edpb.europa.eu/about-edpb/board/members_en)
+  * The Cyberspace Administration of China through this [webpage](http://www.cac.gov.cn/zrxx.htm) (in Chinese) 
+
+
+
+Regarding automated decision-making
+
+No automated decision-making is performed based on the personal data that we collect from you. 
+
+Notification in the occurrence of a data breach
+
+In the unlikely occurrence of a data breach including your personal data, we will notify accordance with the applicable legal requirements (such as the GDPR for the European Union, the CSL for Mainland China, etc.). 
+
+Using this website without agreeing to the Privacy Notice
+
+Refusing to agree to this Privacy Notice will not prevent you from using our website. However, doing so will prevent us from recommending news and video to you. 
+
+Updates to the Privacy Notice
+
+We can update this Privacy Notice in the future, to supplement how we process your personal data or for other reasons. When doing so, we will automatically consider that your consent is withdrawn if such changes were to be substantial until you agree once more with our Privacy Notice terms. 
+
+Last update: 2019-08-15 
