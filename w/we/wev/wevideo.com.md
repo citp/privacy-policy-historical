@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2019-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190415074711id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209180522id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
 
 # WeVideo | Privacy Policy
 
-_Last Modified: January 5, 2019_   
-[Print PDF](https://s3.amazonaws.com/wevideo-static/assets/WeVideoPrivacyPolicy_Jan2019.pdf)
+_Last Modified: June 7, 2019_
+
+[Print PDF](https://s3.amazonaws.com/wevideo-static/assets/Privacy_Policy_Jun_2019.pdf)
+
+For WeVideo Education Services Privacy Policy, please [click here](https://web.archive.org/eduprivacy)
 
 Data privacy is important to WeVideo. We believe you should always know how information about you is collected, used, and disclosed by WeVideo when you use our services, or otherwise interact with us.
 
@@ -83,7 +86,7 @@ Activity that we collect may include:
 
 We do not sell any information that we collect about you or your activity.
 
-We do not share personally identifiable activity information with trusted third parties unless you provide your consent. 
+We do not share personally identifiable activity information with trusted third parties unless you provide your consent or provide such information when interacting with a third party form. 
 
 When we track anonymously, we use methods so that any tracking is not identified with you and is aggregated and processed in an anonymous manner.
 
@@ -228,4 +231,4 @@ We may use any of the following methods to verify that you have your parents’ 
 
 WeVideo complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. WeVideo has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit https://www.privacyshield.gov/. In any such cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, WeVideo understands that it may be potentially liable.
 
-In compliance with the Privacy Shield Principles, WeVideo commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact WeVideo at support@wevideo.com. WeVideo has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+In compliance with the Privacy Shield Principles, WeVideo commits to resolve complaints about our collection or use of your personal information. EU and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact WeVideo at support@wevideo.com. WeVideo has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. WeVideo is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). WeVideo is required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
