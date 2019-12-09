@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414102223id_/https%3A//www.cru.org/us/en/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209122057id_/https%3A//www.cru.org/us/en/about/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy | Cru
 
