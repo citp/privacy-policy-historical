@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623215010id_/https%3A//www.uidai.gov.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uidai.gov.in privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209223057id_/https%3A//uidai.gov.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Unique Identification Authority of India | Government of India
 
