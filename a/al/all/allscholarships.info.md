@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allscholarships.info privacy policy that was archived on 2019-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190611042802id_/http%3A//allscholarships.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allscholarships.info privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209034746id_/http%3A//allscholarships.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – AllScholarships
 
