@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2019-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190328133627id_/https%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209212801id_/https%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
 
 # Co-Optimus - Your Prime Source for Co-Op Gaming - Privacy Policy Page
 
 ## Co-Optimus - Web Site Privacy Policy
 
-_Last updated 5/15/2018_
+_Last updated 11/15/2019_
 
 This privacy policy sets out how Co-Optimus / BA Productions LLC uses and protects any information that you give Co-Optimus / BA Productions LLC when you use this website.
 
@@ -76,3 +76,11 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to admin@co-optimus.com.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible at the above address. We will promptly correct any information found to be incorrect.
+
+### Common ID Cookie
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie by clicking here.
+
+### Advertising Privacy Settings
+
+When you use our site, pre-selected companies may access and use certain information on your device and about your interests to serve ads or personalized content. You may revisit or change consent-choices at any time by clicking here.
