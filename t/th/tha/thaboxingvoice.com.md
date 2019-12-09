@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaboxingvoice.com privacy policy that was archived on 2019-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190623103334id_/http%3A//thaboxingvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaboxingvoice.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209170430id_/http%3A//thaboxingvoice.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tha Boxing Voice
 
