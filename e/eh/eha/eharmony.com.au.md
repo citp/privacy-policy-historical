@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2019-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190527050734id_/https%3A//www.eharmony.com.au/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210003036id_/https%3A//www.eharmony.com.au/privacy/statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | eHarmony Australia Dating Site
 
