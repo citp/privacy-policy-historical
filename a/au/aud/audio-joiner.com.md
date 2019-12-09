@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio-joiner.com privacy policy that was archived on 2019-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190616192436id_/https%3A//audio-joiner.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio-joiner.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209163951id_/https%3A//audio-joiner.com/legal) for the most accurate reproduction.*
 
 # Privacy Policy
 
