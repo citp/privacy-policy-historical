@@ -1,129 +1,223 @@
-> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2017-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170606030726id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209043820id_/https%3A//www.jessops.com/c/help/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Jessops
 
-Jessops.com Privacy Policy
+We are Jessops Europe Limited, an English company (Jessops). 
 
-This privacy statement covers the site www.jessops.com. As this Web sites wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices. 
+Our registered address Network House Third Avenue, Globe Park, Marlow, Buckinghamshire, SL7 1EY.
 
-1\. What personally identifiable information Jessops collects.  
-2\. What personally identifiable information third parties collect through the Web site.  
-3\. What organization collects the information.  
-4\. How Jessops uses the information.  
-5\. With whom Jessops may share user information.  
-6\. What choices are available to users regarding collection, use and distribution of the information.  
-7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Jessops control.  
-8\. How users can correct any inaccuracies in the information.  
-9\. How users can contact us with questions regarding this privacy policy.
+We are registered with the Information Commissioner’s Office as a data controller with registration number Z3615965.
 
-If users have questions or concerns regarding this statement, they should contact the Jessops Web Site Department by email - webmaster@jessops.com.
+### When you purchase products from our website
 
-If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact us at: [cs@jessops.com](mailto:cs@jessops.com) or call 0344 800 4444.
+When you purchase goods from Jessops website, Jessops will use your personal information to complete your purchase. The details Jessops collect from you will include your name, address, email address, phone number and payment details.
 
-**Information Collection and Use**
+When you purchase goods from the Jessops Photo website, If you use Jessops Photo storage and printing services, the data Jessops holds about you and others will depend on the content of the photos you are uploading to the platform. 
 
-_Information Collection_  
-Jessops is the sole owner of the information collected on www.jessops.com. Jessops collects information from our users at several different points on our Web site. 
+To complete your purchase, we share your personal information with our subcontractors who are involved in the purchase process, such as payment providers, as well as credit reference agencies who we use to assess fraud, credit and/or security risks.
 
-_Order_  
-We request information from the user on our order form. A user must provide contact information (such as name, email, and delivery address) and financial information (such as credit card number, expiry date). This information is used for billing purposes and to fulfill customer's orders. If we have trouble processing an order, the information is used to contact the user.
+For Jessops Photo, we also use subcontractors to operate our online photo printing and storage platform.
 
-_Information Use_  
-We use the following information in order to process your order from our e-commerce site:  
-Full Name, including title, Address, Telephone or Fax numbers, Email Address.
+We need to process your personal information in this way to enter into and perform the contract for the item you have purchased from us.
 
-More details of this can be found in our third party section, below.
+### When you collect photos or purchase products in store
 
-_Member's Area_  
-Membership of our "Member's Area" is optional, and membership is not essential to make a purchase.  
-Customers who choose to join our Member's Area are subject to the same Privacy Policy as non-members. We may ask for additional information from users who sign up for the Member's Area, including an additional delivery address. We will not share this information with third parties, except for the purposes of fulfilling an order.  
-We send update emails to our Members from time to time, to keep them up to date with product launches, promotions and site news. Members can opt-out of these emails at the time of registration, or by replying to the original email with the word "unsubscribe" in the subject line, or by emailing webmaster@jessops.com.
+As with an online purchase, when you purchase goods from us in store, we will use your personal information to complete your purchase. The details we collect from you will include your name, address, payment and other contact details.
 
-_Cookies_  
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. More information on cookies can be found here: <http://www.allaboutcookies.org/>
+To complete your purchase, we share your personal information with our subcontractors who are involved in the purchase process, such as payment providers, as well as credit reference agencies who we use to assess fraud, credit and/or security risks.
 
-By setting a cookie on our site, the site can 'remember' who you are, if you are a "Member" of our "Member's Area". Persistent cookies enable the site to "remember" what you have in your trolley. No personal information is recorded in these cookies - only the contents of your trolley.
+We need to process your personal information in this way to enter into and perform the contract for the item you have purchased from us
 
-_Log Files_  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We use a tracking utility called Webtrends that uses log files to analyze user movement.
+### When you phone us or use our website chat service
 
-**back to top**  
+When you phone us or message us using our website chat service, we may also handle your personal information (your name, contact details and the other details you provide to us) in order to provide the customer services you have asked us to. This could be when you ask us to confirm whether a particular product is available or explain how our delivery or returns process works.
 
+We rely on your consent to handle your personal information in this way. If you do not provide us with the personal information we request from you for customer services purposes, we may not be able to fully answer your queries.
 
-**Communications from the Site**
+### When you have expressed an interest in our products
 
-_Special Offers and Updates_  
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+If you have opted in via our website or over the telephone to receive marketing communications from us, we will handle your personal information (such as your name, email address, postal address and telephone number) to provide you with marketing communications in line with any preferences you have told us about.
 
-_Newsletter_  
-If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
+When we send you marketing emails, we rely on your consent to contact you for marketing purposes. Every email we send to you for marketing purposes will also contain instructions on how to unsubscribe from receiving them. 
 
-_Service Announcements_  
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
+You are not under any obligation to provide us with your personal data for marketing purposes. We will also occasionally contact you to ensure you are happy to continue receiving electronic marketing communications from us.
 
-_Customer Service_  
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account. We reply via email or phone, in accordance with the users wishes.
+You can tell us that you do not want your personal information to be processed in this way at any time by contacting us at cs@jessops.com or, where relevant, by following the unsubscribe link shown in every marketing communication you receive from us.
 
-**back to top**  
+### To make our site and Apps better
 
+We will use your personal information to:
 
-**Sharing**
+Provide you with a more effective user experience (such as by displaying products we think you will be interested in, based on your purchase history and browsing habits). 
 
-_Legal Disclaimer_  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+Remind you about incomplete purchases, if you are logged into your online account and don’t complete a purchase.
 
-_Aggregate Information (non-personally identifiable)_  
-We share aggregated demographic information with our partners and advertisers. For example, we may pass details to our suppliers of the number of users looking at/purchasing their products, or the number of click-throughs from their own sites. This is not linked to any personally identifiable information.
+Make our site more secure, to troubleshoot problems and for testing, research and statistical purposes.
 
-_Third Party Intermediaries_  
-For the purpose of credit/debit card authorisation we will pass your name and address to our Bank.   
-For the purpose of delivering your parcel we will pass your name and address to Parcelforce, or another of our parcel carriers.  
-These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+If you use the Jessops Photo App, we use a tool provided by [Mixpanel](https://mixpanel.com/legal/privacy-policy/) to understand how our users interact with the App. The personal information we collect when you use the App includes your location, the device you are using, how you interact with the App and whether you have used the App before.
 
-_Jessops Photo_  
-We partner with a third party company “CEWE”, to provide “Jessops Photo” online printing service. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these servies. . If the customer places an order using the "Jessops Photo" service then payment will be taken by CEWE. CEWE are not allowed to use personally identifiable information except for the purpose of providing the "Jessops Photo" service. Customer wishing to opt-out of emails and online marketing promotions may do so from the Jessops Photo website. 
+We also share aggregated, anonymous data with Google to help us optimise our site.
 
-_Business Transitions_  
-In the event Jessops goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via a prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+We process your data for these reasons because we have a legitimate interest to provide you with the best experience we can, to improve our site, and make sure it’s kept secure.
 
-_Choice/Opt-out_  
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
+You can prevent us from using your personal information in this way by using the 'do not track' functionality in your internet browser. If you enable do not track functionality, our site may be less tailored to your needs and preferences.
 
-User of the Jessops Photo may opt-out of email newsletters via the Jessops Photo website.
+If we use Mixpanel’s cookies rather than their server-side functionality, we also need to add a line in to the cookies section of the policy (naming the cookie with a sentence on what it does).
 
-_Links_  
-This Web site contains links to other sites. Please be aware that we, Jessops, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+### If our business is sold
 
-_Surveys & Contests_  
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as postcode). Contact information will be used and may be shared with the contest/survey sponsors to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
+We will transfer your personal information to a third party:
 
-_Send Wishlist Facility_  
-If a user elects to use our referral service for informing a friend about our site/products on our site, we ask them for the friend's name and email address. Jessops does not store this information, which is used for the sole purpose of sending this one-time email and tracking the success of our referral program.
+• If we sell or buy any business or assets, we will provide your personal information to the seller or buyer (but only to the extent we need to, and always in accordance with data protection legislation); or
 
-_Security_  
-This Web site takes every precaution to protect our users' information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+• If Jessops or the majority of its assets are acquired by somebody else, in which case the personal information held by Jessops will be transferred to the buyer.
 
-When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. This uses 128 bit encryption, the highest currently commercially available.
+We process your personal information for this purpose because we have a legitimate interest to ensure our business can be continued by the buyer. If you object to our use of your personal information in this way, the relevant seller or buyer of our business may not be able to provide services to you.
 
-While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'.
+In some circumstances we may also need to share your personal information if we are under a duty to disclose or share it to comply with a legal obligation.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our Web Sales or Dispatch teams) are granted access to personally identifiable information. The servers that store personally identifiable information are in a secure environment, in a locked facility.
+### Information we collect about you
 
-If users have any questions about the security at our Web site, users can send an email to webmaster@jessops.com
+When you visit our site, we will automatically collect the following information:
 
-_Supplementation of Information_  
-In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
+• Technical information, including the Internet protocol (IP) address used to connect your computer to the internet, your login information, browser type and version, time zone setting, browser plug-in types and versions, screen resolution, operating system and platform; and
 
-_Address Verification_  
-We use AFD software to verify a user's address to gain authorisation for sales charged to their credit/debit card.
+• Information about your visit, including the full Uniform Resource Locators, clickstream to, through and from our site (including date and time), page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page.
 
-_Correcting/Updating/Deleting/Deactivating Personal Information_  
-If a user's personally identifiable information changes (such as postcode, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support at webmaster@jessops.com. Or, contact us by telephone or postal mail at the contact information listed at the bottom of this page.
+### Information we receive from other sources
 
-_Notification of Changes_  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+We are also working closely with third party advertising networks, analytics providers, hosting providers and search information providers from whom we may also receive general aggregated anonymous information about you.
 
-If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
+We will combine the information you provide to us with information we collect about you
 
-**back to top**  
+### Why do we use cookies?
 
+Our site uses cookies to distinguish you from other users of our site. This helps us to provide you with a good experience when you browse our site and also allows us to improve our site. By continuing to browse the site, you are agreeing to our use of cookies.
+
+### What is a cookie?
+
+A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. We only use (and store) non-essential cookies on your computer's browser or hard drive if you provide your consent.
+
+**Jessops.com  **This cookie is used to set various preferences for the website, for example a list of recently viewed products. It also sets parameters for some third-party analytics providers e.g. Google.
+
+**Doubleclick.net  **This cookie is part of Google’s advertising network. It is used to provide engaging and relevant advertising to the end user. No personally identifiable information is stored in this cookie. Depending on user settings information contained in this cookie may be added to the user’s account.
+
+**Hotjar.com  **Hotjar enables us to better understand how people are using our site through providing analytics, feedback and using a cookie to track how users click, tap and scroll.
+
+**Fresh Relevance** This is a service which helps us manage some of the promotions and merchandise we display on the website (banners, selected cameras, drones, lens etc.) and to help you to make sure you don’t miss out on a great offer from us. The cookie enables us to email you a reminder if you have started, but not completed a purchase after you have filled in your email address. We also do this if you are just browsing our website, but you have given us your email address previously. This service is designed to helps us provide you with a great user experience, and we will not use this email to send you other communications unless you specifically ask us to. To manage your cookie preferences in relation to this tool at any time, please see their cookie policy: <https://www.freshrelevance.com/cookies-policy>
+
+**Rakuten Marketing** – Use of Rakuten’s platform allows us to work with a wide variety of publishers and websites who advertise for us. Cookies are used to track those who purchase from us or who have clicked on our adverts in the Rakuten network. To understand more on how Rakuten uses your information, and to manage your cookie preferences in relation to this platform at any time, please see their cookie policy - <https://rakutenmarketing.com/en-uk/legal-notices/services-privacy-policy>
+
+Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, which we do not have any control over. These cookies are likely to be analytical/performance cookies or targeting cookies.
+
+You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. 
+
+Except for essential cookies, all cookies will expire after 2 years.
+
+### Where is my data stored?
+
+All information you provide to us is stored on our secure servers or those of our third party data storage providers. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. You must not share your password with anyone.
+
+Many of the third parties we work with who help us run our business are based outside the European Economic Area (EEA). Because of this, their processing of your personal information will often involve it being transferred outside of the EEA.
+
+Whenever we transfer your personal information outside of the EEA, we ensure it is protected by making sure at least one of the following safeguards is in place: 
+
+by transferring your personal information to a country that has been deemed to provide an adequate level of protection by the European Commission;
+
+by using specific contracts approved by the European Commission which give your personal information the same legal protection it has as if it never left the EEA; and
+
+where we use organisations based in the United States, we may transfer your personal information to them if they are part of the Privacy Shield, which requires them to provide similar protections to those your personal information has when it is in the EEA.
+
+To keep this privacy policy as short and easy to understand as possible, we have not set out the specific circumstances when each of these protection measures are used. You can contact us at cs@jessops.com for the details as to how we protect specific transfers of your data.
+
+### How long do we retain your data for?
+
+Where you have purchased goods from us, we will retain your data for a period of 6 years for legal purposes, to ensure that we are able to assist you should you have any questions, feedback or issues in connection with a product you have purchased from us or if any legal issues arise.
+
+If you tell us that you no longer wish to receive marketing communications from us, we promise to stop sending them to you and will delete any additional data we no longer need to hold about you within 90 days of your unsubscribe request.
+
+Where we have processed your data for any other reason (such as where you have contacted us with a question in connection with potentially purchasing a product) we will retain your data for 2 years.
+
+If you upload photos to your account for the purposes of our photo printing products and services, we will retain those photos for up to 6 months.
+
+### Your right to object under data protection laws
+
+You have the right to object to us handling your personal information when:
+
+• we are handling your personal information based on our legitimate interests (as described in the “How do you use my data” section above). If you ask us to stop handling your personal information in this way, we will stop unless we can show you that we have compelling grounds as to why our use of your personal information should continue; or
+
+• for marketing purposes. If you ask us to stop handling your personal information on this basis, we will stop.
+
+### What are my rights under data protection laws?
+
+You have various rights under the data protection laws, which you can exercise by contacting us. The easiest way to do this is by email at [cs@jessops.com](mailto:cs@jessops.com)
+
+### Right of access
+
+You are entitled to receive confirmation as to whether your personal information is being processed by us, as well as various other details relating to our use of your personal information. 
+
+You also have the right to access your personal information which we are handling.
+
+### Right to rectification
+
+You have the right to require us to rectify any inaccurate personal information we hold about you.
+
+You also have the right to have incomplete personal information we hold about you completed, by providing a supplementary statement to us.
+
+### Right to restriction
+
+You can restrict our processing of your personal information where:
+
+• You think we hold inaccurate personal information about you;
+
+• Our handling of your personal information breaks the law, but you do not want us to delete it;
+
+• We no longer need to process your personal information, but you want us to keep it for legal reasons; or
+
+• Where we are handling your personal information because we have a legitimate interest (as described in the “How We Use Your Data” section above, and are in the process of objecting to this use of your personal information.
+
+Where you exercise your right to restrict us from using your personal information, we will then only process your personal information when you agree, except for storage purposes and to handle legal claims.
+
+### Right to data portability
+
+You have the right to receive the personal information we hold about you in a structured, standard machine readable format and to send this to another organisation controlling your personal information.
+
+###  Right to erasure
+
+You have the right to require us to erase your personal information which we are handling in the following circumstances
+
+• Where we no longer need to use your personal information for the reasons we told you we collected it for;
+
+• Where we **needed** your consent to use your personal information and you have withdrawn your consent;
+
+• When you object to our use of your personal information and we have no compelling reason to carry on handling your personal information; 
+
+• If our handling of your personal information has broken the law; or
+
+• When we must erase your personal information to comply with a law we are subject to.
+
+### Right to complain
+
+You have the right to lodge a complaint with the Information Commissioner's Office, the supervisory authority for data protection issues in England and Wales.
+
+### Websites we link to
+
+Our site may, from time to time, contain links to and from the websites of our partner networks and affiliates.
+
+Our site connects you to different websites. If you follow a link to any of these websites or use our services, please note that you have left our site and these websites have their own privacy policies.
+
+We do not accept any responsibility or liability for these policies or websites. Please check their policies before you submit any personal information to these websites.
+
+### Changes
+
+Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail or post.
+
+Please check back frequently to see any updates or changes to our privacy policy.
+
+### Contact
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed t [cs@jessops.com](mailto:cs@jessops.com)
+
+## Sign up for our latest news and offers
+
+Receive the best offers right to your inbox by signing up to our newsletter
