@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the motionarray.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531012854id_/https%3A//motionarray.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionarray.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209164332id_/https%3A//motionarray.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motion Array
 
-As of September 10, 2018
+As of October 18, 2019
 
 This Privacy Statement describes how Motion Array manages personal information and respect your privacy. This policy may be amended from time to time. We encourage visitors to and users of our sites to regularly review our Privacy Policy.
 
@@ -66,6 +66,8 @@ If you provide us personal information about others, or if others give us your i
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties.
 
+By uploading videos as a content contributor, you grant Motion Array permission to use your content for marketing purposes, which may include, but is not limited to, uploading previews of your content to YouTube and other third party content sharing platforms. Motion Array requires that content contributors who upload videos agree to the [**YouTube Terms of Service**](https://www.youtube.com/t/terms) set forth her
+
 We may disclose your personal information to third-party service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, to provide data storage, processing or management, to host websites or computer servers, to fulfill orders and shipments, to assist in marketing, to conduct audits, etc. Those third-party service providers (i) are permitted to obtain only the personal information they need to provide the service, (ii) are required by Motion Array  to protect personal information to the same extent as Motion Array and as required by applicable law, including, if they process personal information of persons residing in the EU, the GDPR, (iii) are permitted to use such personal information only for the purposes for which it is provided to them, and (iv) are prohibited from using it for any other purpose.
 
 We may also disclose your personal information
@@ -97,7 +99,7 @@ We use third-party website analytic services, including Google Analytics and oth
 
 ### Web beacons
 
-Certain of our emails may contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party service providers. Web beacons are used along with cookies enabling us to associate your responses to your Website account and/or compile aggregated statistics to analyze how our email campaigns are received by their recipients.
+Certain of our emails may contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third-party service providers. Web beacons are used along with cookies enabling us to associate your responses to your Website account and/or compile aggregated statistics to analyze how our email campaigns are received by their recipients.
 
 ### Widgets
 
@@ -109,7 +111,7 @@ Our Website includes links to other Internet sites whose privacy practices may d
 
 ### Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at hello@motionarray.com. If you have any question about the security of a payment gateway or processor, you should contact the payment gateway or processor.  
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Website, you can contact us at hello@motionarray.com. If you have any questions about the security of a payment gateway or processor, you should contact the payment gateway or processor.  
 
 
 ### Website Blogs and Forums
@@ -126,14 +128,15 @@ Under the GDPR, you have the right to restrict processing of or request erasure 
 
 ### Notification of Privacy Policy Changes
 
-We may update this privacy policy to reflect changes to our information practices or law or new information at any time and from time to time without notice. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued access to or use of the Website after any such changes are posted will constitute your acceptance of an agreement to the changes. Again, the privacy policy and security practices of payment gateways and processors used to process payments to or from Motion Array will apply to information you provide to them. We encourage you to read those privacy policies before providing your information.
+We may update this privacy policy to reflect changes to our information practices or law or new information at any time and from time to time without notice. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued access to or use of the Website after any such changes are posted will constitute your acceptance of an agreement to the changes. Again, the privacy policy and security practices of payment gateways and processors used to process payments to or from Motion Array will apply to the information you provide to them. We encourage you to read those privacy policies before providing your information.
 
 ### Contact Information
 
 You can contact us about this privacy policy by writing or email us at the address below: 
 
-404 Media LLC  
-PO Box 2213  
-Decatur, Ga, 30031  
+Motion Array  
+235 Ponce de Leon Place  
+Suite M-234  
+Decatur, GA 30030  
 Attention: Privacy  
-Email: hello@MotionArray.com
+Email: hello [at] MotionArray.com
