@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531190633id_/https%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209211434id_/https%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | Evans Cycles
 
@@ -303,3 +303,29 @@ You have the right to:
 **Request to opt out of automated profiling** of your personal data. You have the legal right to opt-out of any automated profiling of your personal data that could have a legal consequence for you, and have a human being involved in the processing decision rather than it being automated. The only profiling of this type that we undertake is in our marketing activities, in which we tailor our marketing communications to your transactional history and product preferences. If you wish to opt-out of this automated profiling please contact us, though please be aware that our systems are not configured to send un-tailored marketing communications to you, so in practice opting out of automated profiling will result in you being opted out of receiving marketing communications from us.
 
 **Withdraw consent at any time** where we are relying on consent to process your personal data. However, this will not affect the lawfulness of any processing carried out before you withdraw your consent. If you withdraw your consent, we may not be able to provide certain products or services to you. We will advise you if this is the case at the time you withdraw your consent.
+
+## What are cookies and other Tracking Technologies and how we use them?
+
+A cookie is a small text file which we transfer to your device through your web browser when you visit our website or open certain emails. Cookies are used on this shopping site to recognise you when you visit our website, keep track of the contents of your shopping cart once you have selected an item, to store delivery addresses when you register, to understand visitor behaviour on our site and to provide relevant and targeted advertising messages to our site visitors. This information can be used to enhance the content of our website and make your use of it easier. Other tracking technologies, like web beacons, clear GIFs, page tags and web bugs, are used to understand how people are using our services and to target advertising.
+
+When you first use our Website, we will ask you to consent to our use of cookies and give you information about them. If you continue to browse our Website, and don't take steps to change your preferences, you are consenting to our use of cookies.
+
+For instructions on how to control or delete cookies from your computer please visit [www.aboutcookies.org.](https://www.aboutcookies.org.uk/managing-cookies) However, if you disable or delete certain cookies you may not be able to shop or access important parts of our website.
+
+## What type of Cookies do we use?
+
+Our website uses session cookies and persistent cookies. Session cookies operate from the moment you enter the Website until the moment you leave. Once you log off, session cookies are deleted. Persistent cookies will not be deleted after each session.
+
+First-Party cookies are placed by Evans Cycles and Third-Party cookies may be used on our website by approved organisations to provide services on our website.
+
+## What Cookies are on our website?
+
+Below is a list of all the cookies we use on our website
+
+**Strictly Necessary Cookies** are essential to our Website, if these are disabled, your experience on our Website may be interrupted and you may not be able to use a shopping basket or make payment.
+
+**Performance Cookies** collect anonymous data about visitors. We use the data to improve your future experience and identify issues that our users may be experiencing.
+
+**Functionality Cookies** customise the look and appearance of our Website. For example, a functionality cookie will remember your username and language preferences next time you visit.
+
+**Targeting or Advertising Cookies** deliver advertisements which are tailored to your web activity. A targeting cookie tracks what you click on whilst on our Website and may share details of what you click on with other organisations such as advertisers. These cookies can also help us to measure the effectiveness of an advertising campaign.
