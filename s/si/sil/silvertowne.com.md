@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvertowne.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329070429id_/https%3A//www.silvertowne.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvertowne.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209060403id_/https%3A//www.silvertowne.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security Policy | SilverTowne
 
@@ -62,7 +62,7 @@ Children under the age of 13 should always ask their parents or guardians for pe
 
 **Policy Changes**
 
-From time to time, it may become necessary for us to change our privacy policy in whole or in part. If we do so, the new policy will be posted on our website. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our website and will replace any prior policies that may be inconsistent. This policy was posted in September 2011.
+From time to time, it may become necessary for us to change our privacy policy in whole or in part. If we do so, the new policy will be posted on our website. Those changes will go into effect on the date posted in the notice. The new policy will apply to all current and past users of our website and will replace any prior policies that may be inconsistent. This policy was posted in September 2018.
 
   
 
