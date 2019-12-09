@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantteleseminar.com privacy policy that was archived on 2019-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190606104144id_/https%3A//instantteleseminar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantteleseminar.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209195039id_/https%3A//instantteleseminar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Instant Teleseminar
 
