@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the resetera.com privacy policy that was archived on 2019-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190617145036id_/https%3A//www.resetera.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resetera.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209160253id_/https%3A//www.resetera.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | ResetEra
 
-  * 
+  *   * [](https://web.archive.org/account/dismiss-notice?notice_id=72 "Dismiss notice") An old favorite feature returns: [Q&ERA is back!](https://www.resetera.com/threads/next-q-era-submit-questions-to-remedy-entertainment-max-payne-alan-wake-quantum-break-control.157096/) This time we'll be collecting questions for Remedy Entertainment, makers of Max Payne, Alan Wake, Quantum Break, and Control. Members can submit questions for the next 2 days, 12 hours, 57 minutes, 6 seconds. Submissions will close on Dec 12, 2019 at 12:00 AM. 
+
+
 
 
 ## **ResetEra Privacy Policy**
@@ -119,4 +121,4 @@ We may update our Privacy Policy from time to time.  Thus, we advise you to rev
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#492a26273d282a3d093b2c3a2c3d2c3b28672a2624).
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#b4d7dbdac0d5d7c0f4c6d1c7d1c0d1c6d59ad7dbd9).
