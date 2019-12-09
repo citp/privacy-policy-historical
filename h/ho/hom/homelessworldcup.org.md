@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homelessworldcup.org privacy policy that was archived on 2019-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190418032652id_/https%3A//homelessworldcup.org/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homelessworldcup.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209191623id_/https%3A//homelessworldcup.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice - Homeless World Cup
 
