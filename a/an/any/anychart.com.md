@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anychart.com privacy policy that was archived on 2019-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190428150833id_/https%3A//www.anychart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anychart.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209040818id_/https%3A//www.anychart.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | AnyChart
 
