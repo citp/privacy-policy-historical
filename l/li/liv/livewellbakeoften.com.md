@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livewellbakeoften.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526115700id_/https%3A//www.livewellbakeoften.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livewellbakeoften.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209170532id_/https%3A//www.livewellbakeoften.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Live Well Bake Often
 
