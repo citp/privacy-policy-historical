@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the counseling.org privacy policy that was archived on 2019-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190514150354id_/https%3A//www.counseling.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counseling.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209051605id_/https%3A//www.counseling.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,7 +32,7 @@ ACA uses information voluntarily submitted by members and other customers in the
 
 **ACA Member Services and Products.**  Generally, ACA and its direct, branches, divisions and affiliates use data collected to improve its own web content; to respond to visitors’ interests, needs and preferences; and to develop new products and services.
 
-**Disclosures to Third Parties.**  ACA also makes member contact information available through the ACA Connect Membership Directory to other members using its websites and to those who register for its conferences. On occasion, ACA may also provide limited data to third parties that offer products and services. These limited data include names, job titles, companies, business addresses, and email addresses, but do not include business phone or fax numbers. Users may contact ACA at [privacy@counseling.org](mailto:privacy@counseling.org?subject=Web%20Privacy%20Policy%20Question%20or%20Comment) or 703-823-9800 to express their preferences if they determine later that they do not wish to have the information shared. Please include “Web Privacy Policy Question or Comment” in the subject line.
+**Disclosures to Third Parties.**  ACA also makes member contact information available through the ACA Connect Membership Directory to other members using its websites and to those who register for its conferences. On occasion, ACA may also provide limited data to third parties that offer products and services. These limited data include names, job titles, companies, business addresses, and email addresses, but do not include business phone or fax numbers. Users may contact ACA by [email](mailto:) or phone at 703-823-9800 to express their preferences if they determine later that they do not wish to have the information shared. Please include “Web Privacy Policy Question or Comment” in the subject line.
 
 **Credit Card Account Information.**  When members and customers choose to pay using their credit cards, ACA submits the information needed to obtain payment to the appropriate third-party payment vendors for the limited purpose of processing your payment. ACA does not otherwise disclose your credit card information.
 
@@ -40,9 +40,9 @@ ACA uses information voluntarily submitted by members and other customers in the
 
 ### **DATA STORAGE AND RETENTION**
 
-Your personal information is stored on servers in the United States.  You understand and agree that ACA may collect, use, disclose, and otherwise process the information you provide as described in this Privacy Policy even if you are from an area outside the United States.  Your personal information may be disclosed in response to inquiries or requests from government authorities or to respond to judicial process in the United States. We will retain your personal information for as long as it is needed to provide you with the Services, or to fulfill any legal or contractual obligations we may have.
+Your personal information is stored on servers in the United States.  You understand and agree that ACA may collect, use, disclose, and otherwise process the information you provide as described in this Privacy Policy even if you are from an area outside the United States. Your personal information may be disclosed in response to inquiries or requests from government authorities or to respond to judicial process in the United States. We will retain your personal information for as long as it is needed to provide you with the Services, or to fulfill any legal or contractual obligations we may have.
 
-If you are a resident of the EEA: Your personal information will be transferred to and processed in the United States, which has data protection laws that are different than those in your country and may not be as protective. For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact ACA’s data protection officer at [privacy@counseling.org](mailto:privacy@counseling.org?subject=Data%20Storage%20and%20Retention).
+If you are a resident of the EEA: Your personal information will be transferred to and processed in the United States, which has data protection laws that are different than those in your country and may not be as protective. For more information on where and how long your personal data is stored, and for more information on your rights of erasure and portability, please contact ACA’s data protection officer via [email](mailto:privacy@counseling.org).
 
 ## **HOW DOES ACA USE COOKIES AND PIXEL TAGS?**
 
@@ -54,7 +54,7 @@ For more information on our use of cookies, click [here](https://web.archive.org
 
 Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-We also work with business partners that use tracking technologies to deliver advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites, and your interaction with our advertising and other communications.
+We also work with business partners that use tracking technologies to deliver advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites, and your interaction with our advertising and other communications. You may opt-out from receiving targeted advertisements from Feathr by visiting [the NAI website opt-out page](http://www.networkadvertising.org/choices/) or the [DAA opt-out page](http://www.aboutads.info/), or for EU users, the [EDAA opt-out page](http://youronlinechoices.eu/). Please see our [cookie policy](https://www.counseling.org/about-us/cookies) for additional information. 
 
 ## **WHAT PRIVACY ISSUES ARISE WITH LINKS TO OTHER SITES?**
 
@@ -62,7 +62,7 @@ These websites contains links to other websites. ACA has no control over and is 
 
 ## **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Under California Civil Code, California residents are entitled to ask us for a notice describing what categories of personal information we share with third parties or corporate affiliates for those third parties’, or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 6101 Stevenson Avenue, Suite 600, Alexandria, VA 22304, Attn: Website Privacy Policy or by email to [privacy@counseling.org](mailto:privacy@counseling.org?subject=Request%20for%20California%20Privacy%20Information) with the subject line “Request for California Privacy Information.” Please allow 30 days for a response.
+Under California Civil Code, California residents are entitled to ask us for a notice describing what categories of personal information we share with third parties or corporate affiliates for those third parties’, or corporate affiliates’ direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 6101 Stevenson Avenue, Suite 600, Alexandria, VA 22304, Attn: Website Privacy Policy or [email us](mailto:privacy@counseling.org) with the subject line “Request for California Privacy Information.” Please allow 30 days for a response.
 
 ## **Your rights as a visitor from the European Economic area (EEA)**
 
@@ -82,7 +82,7 @@ You also have the right to:
 
 To withdraw consent or exercise these rights, please:
 
-  * Contact: [privacy@counseling.org](mailto:privacy@counseling.org)
+  * [Contact us by email](mailto:privacy@counseling.org)
   * Adjust your preferences through the [Member Login](https://web.archive.org/log-in/log-in)
 
 
@@ -95,8 +95,8 @@ Similarly, if we collect and use your personal information in reliance on our or
 
 ## **WHAT MEANS OF REDRESS ARE AVAILABLE?**
 
-If any user suspects ACA has handled its personal information in a manner that does not comply with this privacy statement, please contact us by e-mailing to [privacy@counseling.org](mailto:privacy@counseling.org?subject=Web%20Privacy%20Policy%20Question%20or%20Comment) or by calling 703-823-9800. Please include “Web Privacy Policy Question or Comment” in the subject line.
+If any user suspects ACA has handled its personal information in a manner that does not comply with this privacy statement, please contact us via [email ](mailto:privacy@counseling.org)or phone at 703-823-9800. Please include “Web Privacy Policy Question or Comment” in the subject line.
 
-For residents of the EEA, with questions, concerns or requests relating to your personal information, you may contact our Data Protection Officer (DPO) at: [privacy@counseling.org](mailto:privacy@counseling.org)
+For residents of the EEA, with questions, concerns or requests relating to your personal information, you may contact our Data Protection Officer (DPO) via [email](mailto:privacy@counseling.org).
 
-May 24, 2018
+June 19, 2019
