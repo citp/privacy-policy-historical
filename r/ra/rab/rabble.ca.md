@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rabble.ca privacy policy that was archived on 2019-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190608195710id_/http%3A//www.rabble.ca/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rabble.ca privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209063101id_/http%3A//www.rabble.ca/about/privacypolicy) for the most accurate reproduction.*
 
 # privacy policy | rabble.ca
 
