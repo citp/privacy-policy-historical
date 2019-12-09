@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the meundies.com privacy policy that was archived on 2019-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190409082116id_/https%3A//www.meundies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meundies.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209204422id_/https%3A//www.meundies.com/privacy) for the most accurate reproduction.*
 
 # MeUndies | The World's Most Comfortable Underwear for Men & Women - MeUndies
-
-Free US Shipping & Returns 
-
-**Experience mind-blowing softness or get your money back** ☁️
-
-**Try it for 90 days.** Experience Mind-blowing softness or get your money back ☁️
 
 Last Updated: May 25, 2018 
 
@@ -169,6 +163,10 @@ If you decide at any time that you no longer wish to have your SNS account linke
   4. ###  Changing or Deleting Your Personal Data. 
 
 Except for payment information, you may change any of your Personal Data stored in your Account by editing your Personal Data within your Account or by sending an e-mail to us at [support@meundies.com](mailto:support@meundies.com) Payment information stored by MeUndies as described in Section 8 cannot be edited. If you wish to edit such payment information, you will need to delete the payment information and add new payment information. Payment information may only be deleted if you do not have an active subscription at the time you submit a deletion request. When you request deletion of your Personal Data by us, we will remove the display of such Personal Data so that you will no longer see such data in your Account. However, we may retain your information for record keeping, auditing, fraud prevention, and similar purposes. 
+
+  5. ###  Text Message Communications. 
+
+You may agree to receive text messages regarding product offers and promotions by MeUndies via automated technology. You are not required to agree to receive text messages to make a purchase. You may, at any time, decide to stop receiving text messages regarding product offers and promotions by MeUndies by replying STOP to any text message you receive from MeUndies. If you need help or assistance with the messages, you may text HELP or call (888) 552-6775. So long as you agree to receive text messages, you will receive messages periodically and generally around four (4) messages per month. MSG and data rates may apply. Carriers are not liable for delayed or undelivered messages. 
 
 
 
