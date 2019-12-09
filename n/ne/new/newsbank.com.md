@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsbank.com privacy policy that was archived on 2019-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190614075247id_/https%3A//www.newsbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbank.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209210132id_/https%3A//www.newsbank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewsBank
 
@@ -36,9 +36,9 @@ NewsBank cares about the safety of children and their use of the Internet. There
 
 ### Opting-Out
 
-We respect your privacy and ability to choose whether to share information with Us and any third party. When choosing to use certain features or services on the Site, you can choose whether to share optional Personal Information in connection with that feature or service. If you receive communications from Us that you prefer not to receive, you may request to opt out from receiving these communications by contacting Us at [privacypolicy[at]newsbank[dot]com](https://web.archive.org/contact/privacypolicy/newsbank/com).
+We respect your privacy and ability to choose whether to share information with Us and any third party. When choosing to use certain features or services on the Site, you can choose whether to share optional Personal Information in connection with that feature or service. If you receive communications from Us that you prefer not to receive, you may request to opt out from receiving these communications by contacting Us at [privacypolicy@newsbank.com](mailto:privacypolicy@newsbank.com).
 
-You may "opt-out" altogether from providing Personal Information to Us by not registering on the Site and thereby not providing Personal Information. You may also choose at a later date to confirm the accuracy of your Personal Information that you have provided to Us, or inactivate your account by contacting Us at [privacypolicy[at]newsbank[dot]com](https://web.archive.org/contact/privacypolicy/newsbank/com).
+You may "opt-out" altogether from providing Personal Information to Us by not registering on the Site and thereby not providing Personal Information. You may also choose at a later date to confirm the accuracy of your Personal Information that you have provided to Us, or inactivate your account by contacting Us at [privacypolicy@newsbank.com](mailto:privacypolicy@newsbank.com).
 
 Certain portions of the Site and certain services provided on the Site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you.
 
@@ -50,7 +50,7 @@ NewsBank maintains industry standard safeguards to help protect the security, in
 
 Given that NewsBank is established in the U.S., your Personal Data will be transferred to the U.S. for processing, where less strict privacy protections may apply to your Personal Data than those in the EU. However, NewsBank will take reasonable measures to ensure your Personal Data remain protected in compliance with the EU’s General Data Protection Regulation (GDPR).
 
-You acknowledge that the transfer of your Personal Data to the U.S. is necessary for the purposes described above. You have the right to request access to, correction of, or erasure of your Personal Data. You may also request restrictions on or object to certain Processing of your Personal Data, or request the portability of your Personal Data. If you would like to make any such requests or would like more information about your rights related to your Personal Data, you can contact the NewsBank’s Privacy Officer at: [privacypolicy[at]newsbank[dot]com](https://web.archive.org/contact/privacypolicy/newsbank/com), or 1.800.762.8182. You understand and agree that NewsBank’s ability to comply with the requests you may make regarding the Processing of your Personal Data may be limited by NewsBank’s internal policies, and applicable laws and regulatory requirements that NewsBank is required to comply with. You acknowledge that the Personal Data collection, use, and transfer activities described in this Policy are necessary for the performance of the services rendered by NewsBank.
+You acknowledge that the transfer of your Personal Data to the U.S. is necessary for the purposes described above. You have the right to request access to, correction of, or erasure of your Personal Data. You may also request restrictions on or object to certain Processing of your Personal Data, or request the portability of your Personal Data. If you would like to make any such requests or would like more information about your rights related to your Personal Data, you can contact the NewsBank’s Privacy Officer at: [privacypolicy@newsbank.com](mailto:privacypolicy@newsbank.com), or 1.800.762.8182. You understand and agree that NewsBank’s ability to comply with the requests you may make regarding the Processing of your Personal Data may be limited by NewsBank’s internal policies, and applicable laws and regulatory requirements that NewsBank is required to comply with. You acknowledge that the Personal Data collection, use, and transfer activities described in this Policy are necessary for the performance of the services rendered by NewsBank.
 
 You also have a right to lodge a complaint with your country’s supervisory authority.
 
@@ -58,7 +58,7 @@ NewsBank will retain a copy of your Personal Data until completion of the purpos
 
 ### How to Contact Us
 
-If you have any questions or comments about this Policy, please contact Us at: [privacypolicy[at]newsbank[dot]com](https://web.archive.org/contact/privacypolicy/newsbank/com).
+If you have any questions or comments about this Policy, please contact Us at: [privacypolicy@newsbank.com](mailto:privacypolicy@newsbank.com).
 
 ### Notice to Freelance Authors
 
