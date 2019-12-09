@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silktide.com privacy policy that was archived on 2019-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190603195008id_/https%3A//silktide.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silktide.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209070700id_/https%3A//silktide.com/privacy) for the most accurate reproduction.*
 
 # Silktide privacy policy
 
@@ -62,7 +62,7 @@ We delete your data from our servers 12 months after you terminate your service 
 
 ## Improving your experience
 
-Once logged in to one of our products, we may also track your visit using [Hotjar](https://www.hotjar.com/) or [Fullstory](https://www.fullstory.com/).
+Once logged in to one of our products, we may also track your visit using [Hotjar](https://www.hotjar.com/) or [FullStory](https://www.fullstory.com/).
 
 These services record your activity while using our products so that we can analyze the experience of our users and diagnose problems. Sensitive data, such as passwords and payment details, are obscured from the recordings.
 
