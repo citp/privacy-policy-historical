@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513093831id_/https%3A//www.mightynetworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightybell.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209221434id_/https%3A//www.mightynetworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mighty Networks
 
@@ -8,7 +8,7 @@
 
 ### Welcome to Mighty Networks!
 
-Mighty Networks is a Service of Mighty Software. Inc. All visitors to our Service (“Visitors”) who register with the Service and join a Mighty Network are Members or Hosts. Hosts are the organizers of Mighty Networks. Members register and participate in Mighty Networks. Hosts decide who can join their Mighty Network and whether they choose to run advertising or paid Member subscriptions on their Mighty Network. This Privacy Policy describes how we, Mighty Software, Inc., obtain and use information about you and your visits to our website at mightynetworks.com and your participation in a Mighty Network and your use of Mighty Networks mobile applications. To offer the personalized experience of a Mighty Network, we collect personal information about you (“Personal Data”). This policy describes how we collect, use, and share your Personal Data with your Host and other Members in connection with your use of the Service, including our mobile applications. Unless defined here, capitalized words have the same meaning as in the [Mighty Networks Terms of Use](https://www.mightynetworks.com/terms-of-use), which this Privacy Policy is part of.
+Mighty Networks is a Service of Mighty Software. Inc. All visitors to our Service (“Visitors”) who register with the Service and join a Mighty Network are Members or Hosts. Hosts are the organizers of Mighty Networks. Members register and participate in Mighty Networks. Hosts decide who can join their Mighty Network and whether they choose to run advertising or paid Member subscriptions on their Mighty Network. This Privacy Policy describes how we, Mighty Software, Inc., obtain and use information about you and your visits to our website at mightynetworks.com and your participation in a Mighty Network and your use of Mighty Networks mobile applications. To offer the personalized experience of a Mighty Network, we collect personal information about you (“Personal Data”). This policy describes how we collect, use, and share your Personal Data with your Host and other Members in connection with your use of the Service, including our mobile applications. Unless defined here, capitalized words have the same meaning as in the [Mighty Networks Terms of Use](https://live-mightynetworks.pantheonsite.io/terms-of-use), which this Privacy Policy is part of.
 
 ### 1\. Information we collect and how we use it
 
@@ -118,9 +118,9 @@ We will respond to your request within a reasonable period of time.
 
 Please note, we will keep your personal information for as long as necessary for us to provide the Service to you. We will also keep and use your personal data or information to comply with laws including tax laws and other applicable laws. We will also keep your Personal Data and Information as necessary for backup, archiving, audit, preventing fraud, resolving disputes, and troubleshooting problems.
 
-If you are located in the European Union (EU), European Economic Area (EEA) or Switzerland, please see also the EU-US and Swiss-US Privacy Shield section below about how to make complaints regarding personal data collected in the EU and transferred to the U.S. under the Privacy Shield Frameworks.
+If you are located in the European Union (EU), European Economic Area (EEA), UK, or Switzerland, please see also the EU-US and Swiss-US Privacy Shield section below about how to make complaints regarding personal data collected in the EU, UK, and Switzerland and transferred to the U.S. under the Privacy Shield Frameworks.
 
-You may also make a privacy or data use complaint about us to the Data Protection Authority in the EU/EEA Member State where you live or work by visiting the Office of the Data Protection Commissioner list of Data Protection Authorities at <https://www.dataprotection.ie/docs/European-Functions-Useful-Links/b/99.htm>. Our GDPR Article 27 Representative is Antonius Kromwijk, Managing Director, Glownexus Nederland B.V., Wilsonsplein 15, 2011 VG Haarlem, Netherlands. You can email him at [27mightynetworks@glownexus.com](mailto:27mightynetworks@glownexus.com). Our Data Protection Officer is at [dpo@mightynetworks.com](mailto:dpo@mightynetworks.com).
+You may also make a privacy or data use complaint about us to the Data Protection Authority in the UK or EU/EEA Member State where you live or work by visiting the Office of the Data Protection Commissioner list of Data Protection Authorities at <https://www.dataprotection.ie/docs/European-Functions-Useful-Links/b/99.htm>. Our GDPR Article 27 Representative is Antonius Kromwijk, Managing Director, Glownexus Nederland B.V., Wilsonsplein 15, 2011 VG Haarlem, Netherlands. You can email him at [27mightynetworks@glownexus.com](mailto:27mightynetworks@glownexus.com). Our Data Protection Officer is at [dpo@mightynetworks.com](mailto:dpo@mightynetworks.com).
 
 ### 4\. Your choices
 
@@ -152,7 +152,7 @@ To opt out of Google behavioral advertising, [click here](https://www.google.co
 
 ##### G. Opting out of tracking
 
-Please see our [Cookie Policy](https://www.mightynetworks.com/cookie-policy/) for important information about non-Google cookies that are placed by us or by our business partners on your computer, mobile phone or other device and how to opt out. We do not have access to, nor does this Privacy Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device by non-affiliated, third-party ad technology, ad servers, ad networks, or any other non-affiliated third parties. If you would like to learn more about OBA or to opt out of having this information used by companies that are part of the Network Advertising Initiative to deliver targeted ads, please visit  <https://www.networkadvertising.org/managing/opt_out.asp>, or if you are located in the European Union/European Economic Area, please visit European Interactive Digital Advertising Alliance (EDAA) Your Online Choices website at <http://www.youronlinechoices.eu/>. Please note you will continue to receive generic ads.
+Please see our [Cookie Policy](https://live-mightynetworks.pantheonsite.io/cookie-policy/) for important information about non-Google cookies that are placed by us or by our business partners on your computer, mobile phone or other device and how to opt out. We do not have access to, nor does this Privacy Policy govern, the use of cookies or other tracking technologies that may be placed on your computer, mobile phone, or other device by non-affiliated, third-party ad technology, ad servers, ad networks, or any other non-affiliated third parties. If you would like to learn more about OBA or to opt out of having this information used by companies that are part of the Network Advertising Initiative to deliver targeted ads, please visit  <https://www.networkadvertising.org/managing/opt_out.asp>, or if you are located in the UK, European Union/European Economic Area, please visit European Interactive Digital Advertising Alliance (EDAA) Your Online Choices website at <http://www.youronlinechoices.eu/>. Please note you will continue to receive generic ads.
 
 ##### H. Deleting cookies
 
@@ -170,7 +170,7 @@ If your Host has an additional privacy policy covering the Host’s use of Perso
 
 ### 7\. Disputes with Hosts or other Members
 
-Mighty Networks cannot control the actions of Hosts or other Members; if you have a privacy-related dispute with a Host or another Member, you should contact that person directly. You should alert us [dpo@mightynetworks.com](mailto:dpo@mightynetworks.com) if you believe that a Host or another Member has violated this Privacy Policy or our [Acceptable Use Policy](https://www.mightynetworks.com/acceptable-use-policy).
+Mighty Networks cannot control the actions of Hosts or other Members; if you have a privacy-related dispute with a Host or another Member, you should contact that person directly. You should alert us [dpo@mightynetworks.com](mailto:dpo@mightynetworks.com) if you believe that a Host or another Member has violated this Privacy Policy or our [Acceptable Use Policy](https://live-mightynetworks.pantheonsite.io/acceptable-use-policy).
 
 ### 8\. Children
 
@@ -202,7 +202,7 @@ Our website and mobile applications are provided from within the United States a
 
 **_EU-US and Swiss-US Privacy Shield_**
 
-Mighty Software Inc. strives to comply with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of your Personal Information transferred from the European Union and Switzerland transferred into the United States under the Privacy Shield Frameworks.
+Mighty Software Inc. complies with the EU-US Privacy Shield Framework and the Swiss-US Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of your Personal Information transferred from the European Union, UK, and Switzerland transferred into the United States under the Privacy Shield Frameworks.
 
 We adhere to the Privacy Shield Principles of the EU-US and Swiss-US Privacy Shield Frameworks. To learn more, please visit the U.S. Department of Commerce’s Privacy Shield website at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
@@ -210,17 +210,17 @@ As explained above in this Privacy Policy in Section II(b), we sometimes share y
 
 Under the Privacy Shield Frameworks, we are subject to the regulatory and enforcement authority of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose Personal Information requested by government authorities, including for national security or law enforcement purposes.
 
-In compliance with the Privacy Shield Principles, Mighty Software Inc. commits to resolve complaints about our collection or use of your Personal Information. If you are located in the European Union (EU), Switzerland or European Economic Area (EEA), and have a question or complaint regarding data collected in the EU, EEA or Switzerland and subsequently transferred to the U.S. under the Privacy Shield Frameworks, you should first direct your question or complaint to [dpo@mightnetworks.com](mailto:dpo@mightynetworks.com). You can also write or call us at the following address: Mighty Software, Inc., 127 Lytton Ave, Palo Alto, CA 94301, Phone: 707-794-2437.
+In compliance with the Privacy Shield Principles, Mighty Software Inc. commits to resolve complaints about our collection or use of your Personal Information. If you are located in the UK, European Union (EU), Switzerland or European Economic Area (EEA), and have a question or complaint regarding data collected in the UK, EU, EEA or Switzerland and subsequently transferred to the U.S. under the Privacy Shield Frameworks, you should first direct your question or complaint to [dpo@mightnetworks.com](mailto:dpo@mightynetworks.com). You can also write or call us at the following address: Mighty Software, Inc., 127 Lytton Ave, Palo Alto, CA 94301, Phone: 707-794-2437.
 
 Mighty Software Inc. has further committed to refer unresolved privacy complaints under the Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus.
 
 If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers> for more information or to file a complaint. The services of the BBB EU Privacy Shield are provided free of charge to you.
 
-Finally, as a last resort and in limited circumstances, EU & Swiss individuals with residual complaints may be eligible to request binding arbitration before a Privacy Shield Panel described on the Privacy Shield Annex I website found at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
+Finally, as a last resort and in limited circumstances, UK, EU & Swiss individuals with residual complaints may be eligible to request binding arbitration before a Privacy Shield Panel described on the Privacy Shield Annex I website found at <https://www.privacyshield.gov/article?id=ANNEX-I-introduction>.
 
 ### 14\. Access to information; contacting us
 
-We acknowledge the right of EU and Swiss individuals to access their personal data under the Privacy Shield. Section III (“[Your Personal Data Rights](https://www.mightynetworks.com/privacy-policy#personal-data-rights)”) explains how to contact us to access your data. To keep your Personal Data accurate, current, and complete, please update your account settings or contact us at the email address below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Service.
+We acknowledge the right of UK, EU and Swiss individuals to access their personal data under the Privacy Shield. Section III (“[Your Personal Data Rights](https://live-mightynetworks.pantheonsite.io/privacy-policy#personal-data-rights)”) explains how to contact us to access your data. To keep your Personal Data accurate, current, and complete, please update your account settings or contact us at the email address below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via the Service.
 
 Please also feel free to contact us if you have any questions about Mighty Networks’ Privacy Policy or the information practices of the Service. Our email address for privacy issues is [dpo@mightynetworks.com](mailto:dpo@mightynetworks.com). Our postal address is Mighty Software, Inc., 127 Lytton Ave, Palo Alto, CA 94301.
 
