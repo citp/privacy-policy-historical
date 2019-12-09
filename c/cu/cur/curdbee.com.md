@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the curdbee.com privacy policy that was archived on 2019-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190119052115id_/https%3A//www.hiveage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curdbee.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209222105id_/https%3A//www.hiveage.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Hiveage
 
-**Effective Date: May 20, 2018**
-
-Hiveage is a product of Vesess Inc. (“Vesess”). Vesess (collectively "we", "us", and "ours") is committed to protecting your privacy. This Privacy Notice (“Notice”) describes how Vesess processes Personal Data in its capacity as a controller (i.e. Vesess decides what Personal Data is collected and what it is used for) or processor (i.e. Vesess only processes the data as per the controller's instructions), as the case may be. It also describes your choices regarding use, access and correction of your Personal Data.
+This invoicing software is a product of Hiveage Inc. (“Hiveage”). Hiveage (collectively "we", "us", and "ours") is committed to protecting your privacy. This Privacy Notice (“Notice”) describes how Hiveage processes Personal Data in its capacity as a controller (i.e. Hiveage decides what Personal Data is collected and what it is used for) or processor (i.e. Hiveage only processes the data as per the controller's instructions), as the case may be. It also describes your choices regarding use, access and correction of your Personal Data.
 
 ## Definitions
 
@@ -12,19 +10,19 @@ The capitalized terms used in this Notice but not defined herein shall have the 
 
 ## Whom Does This Notice Apply To?
 
-This Notice applies to (i) entities or individuals, excluding End-Users and Users, who have subscribed to our Service(s) and have agreed to the Terms (hereinafter referred to as the “Customer”) and (ii) individuals (“Individuals”) from whom Vesess collects data as a controller as specified below.
+This Notice applies to (i) entities or individuals, excluding End-Users and Users, who have subscribed to our Service(s) and have agreed to the Terms (hereinafter referred to as the “Customer”) and (ii) individuals (“Individuals”) from whom Hiveage collects data as a controller as specified below.
 
 ## Any Questions?
 
 If you have questions or complaints regarding our privacy notice or practices, please contact us at [support@hiveage.com](mailto:support@hiveage.com).
 
-## What Personal Data Does Vesess Collect and Why?
+## What Personal Data Does Hiveage Collect and Why?
 
 ### A) Personal Data we collect and process for our own purposes: Collected Data
 
-When you visit our Websites or participate in Vesess’s events, Vesess may collect information, which may include Personal Data, from Individuals as set forth below (collectively referred to as “Collected Data”). For the purposes of General Data Protection Regulation (GDPR), Vesess shall be the controller for the Collected Data – this means that Vesess decides what Collected Data is processed and why.
+When you visit our Websites or participate in Hiveage’s events, Hiveage may collect information, which may include Personal Data, from Individuals as set forth below (collectively referred to as “Collected Data”). For the purposes of General Data Protection Regulation (GDPR), Hiveage shall be the controller for the Collected Data – this means that Hiveage decides what Collected Data is processed and why.
 
-When Does Vesess Process Collected Data?
+When Does Hiveage Process Collected Data?
 
 #### 1) Sign-up, billing and Account information.
 
@@ -32,7 +30,7 @@ When you subscribe and sign-up to any of our Service(s), we may collect your (i)
 
 Subject to this Notice and the Terms, we will use such data, including without limitation, to (i) provide you the Service(s); (ii) send you communication from the Service(s); (iii) assess needs of your business to determine or suggest suitable Service(s); (iv) send you requested information about the Service(s); (v) respond to customer service requests, questions and concerns; (vi) administer your Account; (vii) send you promotional and marketing communications (where you have requested us to do so); and (viii) facilitate your transactions with other users when you use our Service(s).
 
-#### 2) Vesess Careers.
+#### 2) Hiveage Careers.
 
 When you apply for an open position by populating the application form, we may collect your (i) contact information, such as name, email address, mailing address, phone number, links to your social networking profiles; and (ii) any other information contained in the resume that you submit to us.
 
@@ -42,7 +40,7 @@ For the purposes of evaluating you for an open position, you understand that we 
 
 #### 3) Events.
 
-When you attend an event conducted by Vesess, including webinars or seminars, we may collect your contact information such as name, e-mail address, designation and company name.
+When you attend an event conducted by Hiveage, including webinars or seminars, we may collect your contact information such as name, e-mail address, designation and company name.
 
 Subject to this Notice, we will use such data, including without limitation, to (i) assess needs of your business to determine or suggest suitable Service(s); (ii) send you requested information about the Service(s); (iii) send you promotional and marketing communications (where you have requested us to do so); and (iv) respond to your questions and concerns.
 
@@ -74,7 +72,7 @@ Please see our Cookies Policy for further information about our use of Cookies a
 
 Apart from the aforementioned information collected by us, we automatically receive and record certain Personal Data of yours when You visit our Websites. This includes device model, IP address, the type of browser being used, usage pattern through cookies and browser settings, query logs and product usage logs. We also collect clicks, scrolls, conversion and drop-off on our Websites and Service(s) to render user journey at real-time. Subject to this Notice, we will use such data, including without limitation, to (i) assess needs of your business to determine or suggest suitable Service(s); (ii) send you requested information about the Service(s); (iii) respond to customer service requests, questions and concerns; and (iv) for analytical purposes.
 
-You authorize Vesess and its service providers to perform analytics on such Collected Data, to (i) improve, enhance, support and operate the Websites; and (ii) compile statistical reports and record insights into usage patterns. You acknowledge that Vesess uses Collected Data, as the case may be, for the aforementioned purposes.
+You authorize Hiveage and its service providers to perform analytics on such Collected Data, to (i) improve, enhance, support and operate the Websites; and (ii) compile statistical reports and record insights into usage patterns. You acknowledge that Hiveage uses Collected Data, as the case may be, for the aforementioned purposes.
 
 #### 9) Testimonials.
 
@@ -98,7 +96,7 @@ If you have questions about or need further information concerning the legal bas
 
 ### B) Data We Process On Your Behalf: Service Data
 
-We only process Service Data as per our Customer's instructions. For purposes of the GDPR and the Swiss Federal Act on Data Protection, we are the processor and not the controller of the Service Data. Service Data, as defined in the Terms, means all electronic data, text, messages or other materials, including Personal Data of Users and End-Users, submitted to the Service(s) by our Customers through Customer’s Account in connection with Customer’s use of the Service(s), including data collected under “Other Information” and “Mobile Applications” below. Our EEA or Switzerland based Customers are the “controllers” of that data and are responsible for compliance with the applicable data protection law. We work with our Customers to help them provide notice to their customers concerning the purpose for which Personal Data is processed by Vesess.
+We only process Service Data as per our Customer's instructions. For purposes of the GDPR and the Swiss Federal Act on Data Protection, we are the processor and not the controller of the Service Data. Service Data, as defined in the Terms, means all electronic data, text, messages or other materials, including Personal Data of Users and End-Users, submitted to the Service(s) by our Customers through Customer’s Account in connection with Customer’s use of the Service(s), including data collected under “Other Information” and “Mobile Applications” below. Our EEA or Switzerland based Customers are the “controllers” of that data and are responsible for compliance with the applicable data protection law. We work with our Customers to help them provide notice to their customers concerning the purpose for which Personal Data is processed by Hiveage.
 
 If you are our Customer from EEA or Switzerland, then in your role as a controller, you are authorizing, on behalf of you and your authorized agents and End-Users, and representing that you have the authority to provide such authorization to the processing and transfer of Personal Data in and to the United States and other countries which may have different privacy laws from your or their country of residence. We will take all steps reasonably necessary to ensure that the Service Data is treated securely and in accordance with this Notice.
 
@@ -130,21 +128,21 @@ Our Websites includes social media features, such as the Facebook “Like” but
 
 ## Sharing of Personal Data
 
-Except as outlined in this Notice and the Terms, Personal Data contained in Collected Data and Service Data will never be sold to or shared with other companies or organizations for commercial purposes. We process Personal Data in the United States and the European Economic Area (“EEA”) and in other countries through third parties that we may use. You may refer to the page here for more information on hosting options. Third parties with whom Collected Data is shared may include third-party payment processors who process your credit card and other payment information for Vesess but are otherwise not permitted to store, retain or use such information. Third parties that we utilize to assist in providing the Service(s) with whom Service Data may be shared are listed here (“Sub-Processors”). Further, we may transfer Personal Data to our Group Companies for the purposes identified in the Terms and this Notice. All such transfers are covered by the service agreements with the relevant recipients and we have taken appropriate safeguards to ensure that your Personal Data will remain protected in accordance with this Privacy Notice. Further details can be provided upon request.
+Except as outlined in this Notice and the Terms, Personal Data contained in Collected Data and Service Data will never be sold to or shared with other companies or organizations for commercial purposes. We process Personal Data in the United States and the European Economic Area (“EEA”) and in other countries through third parties that we may use. You may refer to the page here for more information on hosting options. Third parties with whom Collected Data is shared may include third-party payment processors who process your credit card and other payment information for Hiveage but are otherwise not permitted to store, retain or use such information. Third parties that we utilize to assist in providing the Service(s) with whom Service Data may be shared are listed here (“Sub-Processors”). Further, we may transfer Personal Data to our Group Companies for the purposes identified in the Terms and this Notice. All such transfers are covered by the service agreements with the relevant recipients and we have taken appropriate safeguards to ensure that your Personal Data will remain protected in accordance with this Privacy Notice. Further details can be provided upon request.
 
 Subject to the Terms and this Notice, we and our Group Companies shall have the right to access Customer’s Account and to process Service Data solely to the extent necessary to provide, enhance and improve the Service(s), including, without limitation, in response to Customer’s support requests. Our Sub-Processors will only be given access to Customer’s Account and Service Data as is reasonably necessary to provide the Service(s) and will be subject to confidentiality obligations in their service agreements.
 
 ## Privacy Shield Compliance
 
-Vesess, Inc. participates in and has certified its compliance with the EU-U.S. and Swiss-US Privacy Shield Framework. Vesess, Inc. is committed to subjecting all Personal Data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List [<https://www.privacyshield.gov/list>].
+Hiveage, Inc. participates in and has certified its compliance with the EU-U.S. and Swiss-US Privacy Shield Framework. Hiveage, Inc. is committed to subjecting all Personal Data received from European Union (EU) member countries and Switzerland, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List [<https://www.privacyshield.gov/list>].
 
-Vesess, Inc. is responsible for the Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Vesess, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, and Switzerland including the onward transfer liability provisions. In compliance with the Privacy Shield Principles, Vesess commits to resolve complaints about our collection or use of your personal information. Vesess has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland.
+Hiveage, Inc. is responsible for the Personal Data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Hiveage, Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, and Switzerland including the onward transfer liability provisions. In compliance with the Privacy Shield Principles, Hiveage commits to resolve complaints about our collection or use of your personal information. Hiveage has further committed to cooperate with the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved Privacy Shield complaints concerning data transferred from the EU and Switzerland.
 
-With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, Vesess, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Vesess, Inc. and/or its Group Companies may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+With respect to Personal Data received or transferred pursuant to the Privacy Shield Framework, Hiveage, Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Hiveage, Inc. and/or its Group Companies may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 Under certain conditions, more fully described on the Privacy Shield website [<https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>], you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-## How Does Vesess Keep Personal Data Secure?
+## How Does Hiveage Keep Personal Data Secure?
 
 We use appropriate technical and organizational measures to protect the Personal Data that we collect and process. The measures we use are designed to provide a level of security appropriate to the risk of processing your Personal Data.
 
@@ -184,11 +182,11 @@ Notwithstanding the foregoing, we will retain Collected Data and Service Data as
 
 ## Links to Third Party Sites
 
-Our Websites contain links to other websites that are not owned or controlled by Vesess. Please be aware that we are not responsible for the privacy practices of such other websites or third parties. We encourage you to be aware when you leave our Websites and to read the privacy policies of each and every website that collects Personal Data.
+Our Websites contain links to other websites that are not owned or controlled by Hiveage. Please be aware that we are not responsible for the privacy practices of such other websites or third parties. We encourage you to be aware when you leave our Websites and to read the privacy policies of each and every website that collects Personal Data.
 
 ## Children's Personal Data
 
-Vesess does not knowingly collect any Personal Data from children under the age of 16. If you are under the age of 16, please do not submit any Personal Data through our Websites or Service(s). We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Notice by instructing their children never to provide Personal Data through our Service(s) or Websites without their permission. If you have reason to believe that a child under the age of 16 has provided Personal Data to us through our Websites or Service(s), please contact us and we will endeavor to delete that information and terminate the child's account from our databases.
+Hiveage does not knowingly collect any Personal Data from children under the age of 16. If you are under the age of 16, please do not submit any Personal Data through our Websites or Service(s). We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce this Notice by instructing their children never to provide Personal Data through our Service(s) or Websites without their permission. If you have reason to believe that a child under the age of 16 has provided Personal Data to us through our Websites or Service(s), please contact us and we will endeavor to delete that information and terminate the child's account from our databases.
 
 ## Amendments
 
@@ -198,8 +196,8 @@ Amendments to this Notice will be posted to this URL and will be effective when 
 
 We reserve the right to disclose your personal data contained in Collected Data and Service Data as required by applicable law, in response to lawful requests by public authorities, including meeting national security or law enforcement requirements and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or other legal process served on us. Collected Data and Service Data will also be shared between our Group Companies for the activities permitted under the Terms and this Notice.
 
-In the event Vesess goes through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, Customer’s Account, Collected Data and Service Data will likely be among the assets transferred. A prominent notice will be displayed on our Websites to intimate you of any such change in ownership or control and Customers will be notified via an e-mail from [support@hiveage.com](mailto:support@hiveage.com).
+In the event Hiveage goes through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, Customer’s Account, Collected Data and Service Data will likely be among the assets transferred. A prominent notice will be displayed on our Websites to intimate you of any such change in ownership or control and Customers will be notified via an e-mail from [support@hiveage.com](mailto:support@hiveage.com).
 
-## Contacting Vesess
+## Contacting Hiveage
 
-If you have any questions about this privacy notice or your dealings with the Vesess, you can contact us at [support@hiveage.com](mailto:support@hiveage.com) or via postal mail at Vesess Inc., 5348 Vegas Dr, Suite 373, Las Vegas NV 89108, USA with a CC to [legal@vesess.com](mailto:legal@vesess.com).
+If you have any questions about this privacy notice or your dealings with the Hiveage, you can contact us at [support@hiveage.com](mailto:support@hiveage.com) or via postal mail at Hiveage Inc., One Marina Park Drive, Suite 900, Boston, MA 02210, USA with a CC to [legal@hiveage.com](mailto:legal@hiveage.com).
