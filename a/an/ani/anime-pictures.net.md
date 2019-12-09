@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anime-pictures.net privacy policy that was archived on 2018-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180329034742id_/https%3A//anime-pictures.net/index/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-pictures.net privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209032722id_/http%3A//anime-pictures.net/index/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy governs the manner in which Uriy Zhuravlev collects, uses, maintains and discloses information collected from users (each, a "User") of the <https://anime-pictures.net/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Uriy Zhuravlev.
+This Privacy Policy governs the manner in which Yury Zhuravlev collects, uses, maintains and discloses information collected from users (each, a "User") of the <https://anime-pictures.net/> website ("Site"). This privacy policy applies to the Site and all products and services offered by Uriy Zhuravlev.
 
 **Personal identification information**
 
@@ -56,8 +56,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Uriy Zhuravlev](https://anime-pictures.net/)  
+[Yury Zhuravlev](https://anime-pictures.net/)  
 <https://anime-pictures.net/>  
 stalkerg@gmail.com
 
-This document was last updated on June 26, 2013
+This document was last updated on Aug 25, 2018
