@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2018-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180305025350id_/https%3A//www.heartmath.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartmath.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209054710id_/https%3A//www.heartmath.org/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement - HeartMath Institute
+# Privacy Policy Statement | HeartMath Institute
 
 **We agree to notify you of:**  
 
@@ -39,7 +39,7 @@ We use Internet Protocol (IP) addresses to analyze trends, administer the site, 
 
 ## Sharing
 
-We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+We may share aggregated demographic information with our research team. This is not linked to any personal information that can identify any individual person.
 
 We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
