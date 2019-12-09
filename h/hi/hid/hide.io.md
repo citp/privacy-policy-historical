@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hide.io privacy policy that was archived on 2019-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190628185642id_/https%3A//hide.me/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hide.io privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209012237id_/https%3A//hide.me/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | hide.me
 
-_Effective date 24th May 2018_
+_Effective date 24th July 2019_
 
 eVenture Ltd. ("us", "we", or "our") operates the VPN service “hide.me VPN” ("Service").
 
@@ -142,7 +142,7 @@ These third parties have access to your Personal Data to the extent necessary to
 
 ##### Payments
 
-We are not saving any details about the payments in our system. The subscriptions are renewed or updated by Cleverbridge AG with a dedicated user id for each user account.
+We are not saving any details about the payments in our system. The subscriptions are renewed or updated by Cleverbridge AG or Paddle.com Market Ltd with a dedicated user id for each user account.
 
 We may provide paid products and/or services within the Service. In that case, we use third-party services for payment processing (e.g. payment processors).
 
@@ -150,6 +150,8 @@ We will not store or collect your details. That information is provided directly
 
 The payment processors we work with are: 
 
+* **Paddle.com Market Ltd**  
+Their Privacy Policy can be viewed at https://paddle.com/privacy-buyers/
 * **Cleverbridge AG**  
 Their Privacy Policy can be viewed at https://www.cleverbridge.com/corporate/privacy-policy/
 * **Paypal Inc**  
