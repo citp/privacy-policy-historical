@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the game-solver.com privacy policy that was archived on 2019-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190414195330id_/https%3A//game-solver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-solver.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209164704id_/https%3A//game-solver.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Game-Solver.com
+# Privacy Policy for Game-Solver.com - Game Solver
 
 **Game-Solver.com Privacy Policy**
 
