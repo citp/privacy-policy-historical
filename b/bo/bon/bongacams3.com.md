@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bongacams3.com privacy policy that was archived on 2018-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180826183041id_/http%3A//bongacams3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongacams3.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209063112id_/https%3A//bongacams3.com/privacy) for the most accurate reproduction.*
 
-# Live Sexcams: XXX Adult Shows - Free Porn Chat - Bongacams
+# Privacy Policy at Bongacams
 
 LAST REVISION: July 20, 2018
 
@@ -58,7 +58,7 @@ The Company will use Individual Information collected through its’ affiliates,
 
 We may also share and disclose Individual Information with our Marketing Affiliates for the purpose of providing you different marketing offers, which we, or our Marketing Affiliates, believe are relevant for you. Our Marketing Affiliates may use this Individual Information for different marketing techniques, such as direct email, post etc. marketing purposes.
 
-You may at any time decline receiving further marketing offers from us or from our business partners and marketing affiliates by contacting us at to [support@webcamsupport.net](mailto:support@webcamsupport.net).
+You may at any time decline receiving further marketing offers from us or from our business partners and marketing affiliates by contacting us at to [support@bongacams3.com](mailto:support@bongacams3.com).
 
 ## 4\. Private Communications.
 
@@ -116,8 +116,8 @@ The end-Users may have the following rights in respect of processing personal da
 
 6\. exercise their right to the portability of the data pursuant to Article 20 of Regulation 2016/679 of the European Parliament and of the Council.
 
-Contact details of DPO: Tiffany Waldorf, e-mail [dpo@webcamsupport.net](mailto:dpo@webcamsupport.net)
+Contact details of DPO: Tiffany Waldorf, e-mail [dpo@bongacams.com](mailto:dpo@bongacams.com)
 
 ## 9\. Questions.
 
-If you have any questions regarding this privacy policy you may email us at [dpo@webcamsupport.net](mailto:dpo@webcamsupport.net), or send a letter to the following postal address:
+If you have any questions regarding this privacy policy you may email us at [dpo@bongacams.com](mailto:dpo@bongacams.com), or send a letter to the following postal address:
