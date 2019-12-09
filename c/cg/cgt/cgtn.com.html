@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the cgtn.com privacy policy that was archived on 2019-03-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190324182818id_/https%3A//www.cgtn.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cgtn.com privacy policy that was archived on 2019-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191209040903id_/https%3A//www.cgtn.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <title>CGTN</title>
+            <title>CGTN - Homepage - Breaking News, China News, World News and Video</title>
+            <meta name="Description" content="CGTN.com is the official website for China Global Television Network, which brings a Chinese perspective to global news. Find the latest breaking news and information on the day’s top stories, politics, business, culture, sports, nature, travel, technology and more.">
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
 
 
-    <link rel="shortcut icon" href="https://ui.cgtn.com/static/resource/images/logo_title.png" type="image/x-icon">
+    <link rel="shortcut icon" href="https://ui.cgtn.com/static/ng/resource/images/logo_title.png" type="image/x-icon">
     <!-- Bootstrap -->
-    <link href="https://ui.cgtn.com/static/resource/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://ui.cgtn.com/static/resource/vendor/floatPlayer/css/style.css">
-
-    <link rel="stylesheet" href="https://ui.cgtn.com/static/resource/website/css/g-header.css">
-    <link rel="stylesheet" href="https://ui.cgtn.com/static/resource/website/css/g-footer.css">
-    <link rel="stylesheet" href="https://ui.cgtn.com/static/resource/website/css/m-appendix.css">
-    <link rel="stylesheet" href="https://ui.cgtn.com/static/resource/website/css/tools.css">
-    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ui.cgtn.com/static/resource/website/js/unsupp.js" type="text/javascript"></script>
+    <link href="https://ui.cgtn.com/static/ng/resource/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://ui.cgtn.com/static/ng/resource/vendor/floatPlayer/css/style.css">
+    <link rel="stylesheet" href="https://ui.cgtn.com/static/ng/resource/website/css/ng-g-header.css">
+    <link rel="stylesheet" href="https://ui.cgtn.com/static/ng/resource/website/css/ng-g-footer.css">
+    <link rel="stylesheet" href="https://ui.cgtn.com/static/ng/resource/website/css/ng-appendix.css">
+    <link rel="stylesheet" href="https://ui.cgtn.com/static/ng/resource/website/css/tools.css">
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://ui.cgtn.com/static/ng/resource/website/js/unsupp.js" type="text/javascript"></script>
 
 
 <meta http-equiv="Cache-Control" content="no-transform">
@@ -24,13 +24,12 @@
 <meta name="format-detection" content="telephone=no">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
 <!-- FB -->
 <meta property="fb:pages" content="565225540184937">
-
 </head>
 <body>
-<input value="Privacy" id="pageNameContent" style="display:none">
+<input value="privacy" id="pageNameContent" style="display:none">
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -43,13 +42,41 @@
         ga('webTracker.set', 'dimension14', clientID);
     });
     ga('webTracker.require', 'ec');
-    ga('webTracker.set', 'dimension1', "");
+
+    var newsId = '';
+
+    if(newsId != ""){
+
+        ga('webTracker.ec:addProduct', {
+
+            'id':newsId,                        // 新闻的ID （string），id或name必需设置其一
+            'name':"",         // 新闻的名称（string）， id或name必需设置其一
+            'category':"",      // 新闻的类别（string），非必需
+            'variant': "",               // 新闻的时间(string)，非必需
+            'position': '',               // 新闻在列表中的位置(number)，非必需
+            'brand': ""
+        });
+
+        ga('webTracker.ec:setAction', 'detail');
+        ga('webTracker.set','dimension1', newsId);
+        ga('webTracker.set','dimension2', "");
+        ga('webTracker.set','dimension3', "");
+        ga('webTracker.set','dimension47', "");
+        ga('webTracker.set','dimension48', "");
+
+        var ua = navigator.userAgent;
+        var isAndroid = ua.indexOf('CGTN/Android') > -1; //android终端
+        var isiOS = ua.indexOf('CGTN/iOS') > -1; //ios终端
+        var dimension46=(isAndroid && 'Android') || (isiOS && 'IOS') || 'WEB';
+        ga('webTracker.set', 'dimension46', dimension46);
+
+    }else{
+        ga('webTracker.set', 'dimension1', "");
+    }
 
     ga('webTracker.send', 'pageview');
 
 
-    ga('create', 'UA-89339688-1', 'auto', 'newsTracker');
-    ga('newsTracker.send', 'pageview');
 
     window.sendWebEvent = function(eventCategory, eventAction, eventLabel, dimensions) {
         var gaParameters = $.extend({
@@ -70,538 +97,651 @@
         ga('newsTracker.send', gaParameters);
     };
 
+
+
     window.sendVideoPlayEvent= function(newsId, headline, videoUrl, origin) {
+        var ua = navigator.userAgent;
+        var isAndroid = ua.indexOf('Android') > -1 || ua.indexOf('Adr') > -1; //android终端
+        var isiOS = !!ua.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+        var dimension46=(isAndroid && 'Android') || (isiOS && 'IOS') || 'WEB';
+
         window.sendWebEvent && window.sendWebEvent('Video', 'video_play', videoUrl, {
             'dimension1': newsId,
             'dimension2': headline,
             'dimension12': origin,
-            'dimension43': videoUrl
+            'dimension43': videoUrl,
+            'dimension46':dimension46
         });
-    },
+    };
 
     window.sendVideoOtherEvent= function(type, newsId, headline, videoUrl, origin) {
+        var ua = navigator.userAgent;
+        var isAndroid = ua.indexOf('Android') > -1 || ua.indexOf('Adr') > -1; //android终端
+        var isiOS = !!ua.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/); //ios终端
+        var dimension46=(isAndroid && 'Android') || (isiOS && 'IOS') || 'WEB';
         window.sendWebEvent && window.sendWebEvent('Video', type, videoUrl, {
             'dimension1': newsId,
             'dimension2': headline,
             'dimension12': origin,
-            'dimension43': videoUrl
+            'dimension43': videoUrl,
+            'dimension46':dimension46
         });
     }
 
 
 </script>
 <input value="https://100.cgtn.com" id="analyticRoute" style="display:none">
-<input value="https://page-newstypeset.cgtn.com" id="pageAjaxDomain" style="display:none">
+<input value="https://api.cgtn.com/website" id="pageAjaxDomain" style="display:none">
 
 <div class="g-layout">
 
 
-
-<div class="cg-header">
-    <div class="cg-nav-bar js-nav-bar">
-        <div class="cg-mainWrapper" style="height: 100%">
-            <div class="cg-main-container cg-padding" style="height: 100%">
-                <div class="container-fluid  cg-nav-bar-wrapper">
-                    <div class="cg-nav-top" data-domain="https://www.cgtn.com">
-                        <a href="javascript:;" class="icon-more"></a>
-                        <div class="fl bar-l">
-
-<a href="https://www.cgtn.com/about-us" class="" target="_self" data-category="Privacy" data-action="AboutUs_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                <span class="about">ABOUT US</span>
-</a>
-
-                            <a> <span class="icon-diff-w"></span></a>
-                        </div>
-
-<a href="https://www.cgtn.com" class="bar-logo" target="_self" data-category="Privacy" data-action="Logo_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                        <div class="fr bar-r">
-                            <div class="icon-list oh">
-                                <a href="javascript:;" class="fr icon more js-iconList"></a>
-                                <ul class="header-follow fr">
-                                       <li class="fl">
-
-<a href="https://www.cgtn.com/socialmedia/facebook" class="icon fb" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                       <li class="fl">
-
-<a href="https://www.cgtn.com/socialmedia/twitter" class="icon twitter" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                       <li class="fl">
-
-<a href="https://www.cgtn.com/socialmedia/youtube" class="icon youtube" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                       <li class="fl">
-
-<a href="https://www.cgtn.com/socialmedia/instagram" class="icon ins" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                       <li class="fl">
-
-<a href="https://www.cgtn.com/socialmedia/weibo" class="icon weibo" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                       <li class="fl">
-
-<a href="javascript:;" class="icon wechat" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                       <li class="fl">
-
-<a href="https://www.cgtn.com/socialmedia/tumblr" class="icon tumblr" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                       <li class="fl">
-
-<a href="https://www.cgtn.com/socialmedia/pinterest" class="icon pinterest" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                       <li class="fl">
-
-<a href="https://www.cgtn.com/socialmedia/googleplus" class="icon googleplay" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                       <li class="fl">
-
-<a href="https://www.cgtn.com/socialmedia/miaopai" class="icon miaopai" target="_blank" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                       </li>
-                                </ul>
-                            </div>
-                            <div class="search-wrapper fr">
-
-<a href="javascript:;" class="icon-search js-hd-search" target="_self" data-category="Privacy" data-action="Search_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                                <input type="text" name="search" class="search">
-                            </div>
-                        </div>
-                        <div class="qr-img js-hd-qr">
-                            <img src="//ui.cgtn.com/ui/attention/attention.jpg">
-                        </div>
+<div class="cg-pc-header">
+    <div class="cg_header_info_bg"></div>
+    <div class="pc-nav-info-wrapper js-nav-bar">
+        <div class="cg-mainWrapper nav-info">
+            <div class="cg-nav-top cg-nav-padding-lr" data-domain="https://www.cgtn.com">
+                <a href="javascript:;" class="icon-more"></a>
+                <div class="fl bar-l">
+        <a href="https://www.cgtn.com/about-us" class="" target="_self" data-category="privacy" data-action="AboutUs_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        <span class="about">ABOUT US</span>
+        </a>
+                    <a> <span class="icon-diff-w"></span></a>
+                </div>
+        <a href="https://www.cgtn.com" class="bar-logo" target="_self" data-category="privacy" data-action="Logo_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                <div class="fr bar-r">
+                    <div class="icon-list oh hide-tiktok">
+                        <a href="javascript:;" class="fr icon more js-iconList"></a>
+                        <ul class="header-follow fr">
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/facebook" class="icon fb" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/twitter" class="icon twitter" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/youtube" class="icon youtube" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/instagram" class="icon ins" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/douyin" class="icon douyin" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/weibo" class="icon weibo" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="javascript:;" class="icon wechat" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/pinterest" class="icon pinterest" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/miaopai" class="icon miaopai" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/toutiao" class="icon toutiao" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/quora" class="icon quora" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/socialmedia/linkedin" class="icon linkedin" target="_blank" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                        </ul>
                     </div>
+                    <div class="search-wrapper fr">
+        <a href="javascript:;" class="icon-search js-hd-search" target="_self" data-category="privacy" data-action="Search_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                        <input type="text" name="search" class="search">
+                    </div>
+                </div>
+                <div class="qr-img js-hd-qr">
+                    <img src="//ui.cgtn.com/ui/attention/attention.jpg">
                 </div>
             </div>
         </div>
     </div>
-
-    <div class="js-nav">
-        <div class="cg-link-wrapper">
-            <div class="cg-mainWrapper ">
-                <div class="cg-main-container cg-padding">
-                    <div class="container-fluid cg-link">
-                        <ul class="cg-link-bar">
-                            <li data-click-name="Home" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Home
-</a>
-
-
-                            </li>
-                            <li data-click-name="China" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/china" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    China
-</a>
-
-
-                            </li>
-                            <li data-click-name="World" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/world" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    World
-</a>
-
-
-                            </li>
-                            <li data-click-name="Politics" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/politics" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Politics
-</a>
-
-
-                            </li>
-                            <li data-click-name="Business" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/business" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Business
-</a>
-
-
-                            </li>
-                            <li data-click-name="Opinions" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Opinions
-</a>
-
-
-                            </li>
-                            <li data-click-name="Tech &amp; Sci" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Tech &amp; Sci
-</a>
-
-
-                            </li>
-                            <li data-click-name="Culture" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/culture" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Culture
-</a>
-
-
-                            </li>
-                            <li data-click-name="Sports" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/sports" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Sports
-</a>
-
-
-                            </li>
-                            <li data-click-name="Travel" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/travel" class="" target="_blank" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Travel
-</a>
-
-
-                            </li>
-                            <li data-click-name="Nature" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/nature" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Nature
-</a>
-
-
-                            </li>
-                            <li data-click-name="Picture" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/picture" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Picture
-</a>
-
-
-                            </li>
-                            <li data-click-name="Video" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/video" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Video
-</a>
-
-
-                            </li>
-                            <li data-click-name="Live" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/live" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Live
-</a>
-
-
-                            </li>
-                            <li data-click-name="Specials" data-page="Privacy" data-list="" class="">
-
-<a href="https://www.cgtn.com/specials" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Specials
-</a>
-
-
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="cg-link-children">
-            <div class="cg-mainWrapper cg-padding" style="height: 100%">
-                <div class="container-fluid children-wrapper">
-     <ul class="cg-link-bar link-content" data-display-name="World">
-            <li>
+    <div class="pc-nav-link-wrapper js-nav">
+        <div class="cg_header_link_bg"></div>
+        <div class="pc-link">
+            <div class="cg-mainWrapper">
+                <ul class="pc-link-list nav-list-bj cg-nav-padding-lr">
+                        <li data-click-name="Home" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Home
+        </a>
+                        </li>
+                        <li data-click-name="China" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/china" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                China
+        </a>
+                        </li>
+                        <li data-click-name="World" data-page="privacy" data-list="children_list" class="">
+        <a href="https://www.cgtn.com/world" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                World
+                                    <i class="icon-top"></i>
+        </a>
+                                    <div class="pc-link-children">
+                                        <div class="cg-mainWrapper children-wrapper">
+     <ul class="link-content" data-display-name="World">
+            <li class="sub-section sub-header-section">
                 <a href="javascript:;">
+                    World
+                </a>
+            </li>
+            <li class="sub-section ">
+                <a href="https://www.cgtn.com/europe">
                     Europe
                 </a>
             </li>
-            <li>
+     </ul>
+                                        </div>
+                                    </div>
+                        </li>
+                        <li data-click-name="Politics" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/politics" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Politics
+        </a>
+                        </li>
+                        <li data-click-name="Business" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/business" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Business
+        </a>
+                        </li>
+                        <li data-click-name="Opinions" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Opinions
+        </a>
+                        </li>
+                        <li data-click-name="Tech &amp; Sci" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Tech &amp; Sci
+        </a>
+                        </li>
+                        <li data-click-name="Culture" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/culture" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Culture
+        </a>
+                        </li>
+                        <li data-click-name="Sports" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/sports" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Sports
+        </a>
+                        </li>
+                        <li data-click-name="Travel" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/travel" class="" target="_blank" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Travel
+        </a>
+                        </li>
+                        <li data-click-name="Nature" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/nature" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Nature
+        </a>
+                        </li>
+                        <li data-click-name="Picture" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/picture" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Picture
+        </a>
+                        </li>
+                        <li data-click-name="Video" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/video" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Video
+        </a>
+                        </li>
+                        <li data-click-name="Live" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/live" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Live
+        </a>
+                        </li>
+                        <li data-click-name="TV" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/tv" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                TV
+        </a>
+                        </li>
+                        <li data-click-name="Specials" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/specials" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Specials
+        </a>
+                        </li>
+                </ul>
+                <ul class="pc-link-list nav-list-eu cg-nav-padding-lr">
+                        <li data-click-name="Home" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Home
+        </a>
+                        </li>
+                        <li data-click-name="China" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/china" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                China
+        </a>
+                        </li>
+                        <li data-click-name="World" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/world" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                World
+        </a>
+                                    <div class="pc-link-children">
+                                        <div class="cg-mainWrapper children-wrapper">
+     <ul class="link-content" data-display-name="World">
+            <li class="sub-section sub-header-section">
                 <a href="javascript:;">
-                    North America
+                    World
                 </a>
             </li>
-            <li>
-                <a href="javascript:;">
-                    Aferica
+            <li class="sub-section ">
+                <a href="https://www.cgtn.com/europe">
+                    Europe
                 </a>
             </li>
      </ul>
-                </div>
+                                        </div>
+                                    </div>
+                        </li>
+                        <li data-click-name="Europe" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/europe" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Europe
+        </a>
+                        </li>
+                        <li data-click-name="Politics" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/politics" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Politics
+        </a>
+                        </li>
+                        <li data-click-name="Business" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/business" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Business
+        </a>
+                        </li>
+                        <li data-click-name="Opinions" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Opinions
+        </a>
+                        </li>
+                        <li data-click-name="Tech &amp; Sci" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Tech &amp; Sci
+        </a>
+                        </li>
+                        <li data-click-name="Culture" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/culture" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Culture
+        </a>
+                        </li>
+                        <li data-click-name="Sports" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/sports" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Sports
+        </a>
+                        </li>
+                        <li data-click-name="Travel" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/travel" class="" target="_blank" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Travel
+        </a>
+                        </li>
+                        <li data-click-name="Nature" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/nature" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Nature
+        </a>
+                        </li>
+                        <li data-click-name="Picture" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/picture" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Picture
+        </a>
+                        </li>
+                        <li data-click-name="Video" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/video" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Video
+        </a>
+                        </li>
+                        <li data-click-name="Live" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/live" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Live
+        </a>
+                        </li>
+                        <li data-click-name="TV" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/tv" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                TV
+        </a>
+                        </li>
+                        <li data-click-name="Specials" data-page="privacy" data-list="" class="">
+        <a href="https://www.cgtn.com/specials" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                Specials
+        </a>
+                        </li>
+                </ul>
             </div>
         </div>
     </div>
 </div>
 
 
-<div class="cg-m-wrapper">
-    <div class="cg-header cg-m-style">
-        <div class="cg-nav-bar js-nav-bar2">
-            <div class="cg-nav-mainWrapper" style="height: 100%">
-                <div class="container-fluid  cg-nav-bar-wrapper">
-                    <div class="cg-nav-top" data-domain="https://www.cgtn.com">
-                        <a href="javascript:;" class="icon-more"></a>
-                        <div class="menu-search">
-                            <a href="javascript:;" class="fl bar-more js-hd-more"></a>
-
-<a href="javascript:;" class="fr bar-search js-hd-search" target="_self" data-category="Privacy" data-action="Search_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                        </div>
-
-<a href="https://www.cgtn.com" class="bar-logo2" target="_self" data-category="Privacy" data-action="Logo_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                    </div>
+<div class="cg-m-header">
+    <div class="m-header-info">
+        <div class="cg_header_info_bg"></div>
+        <div class="cg-mainWrapper  nav-info">
+            <div class="cg-nav-top cg-nav-padding-lr" data-domain="https://www.cgtn.com">
+                <a href="javascript:;" class="icon-more"></a>
+                <div class="menu-search">
+                    <a href="javascript:;" class="fl bar-more js-hd-more"></a>
+        <a href="javascript:;" class="fr bar-search js-hd-search" target="_self" data-category="privacy" data-action="Search_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
                 </div>
-                <div class="cg-link2-wrapper js-link">
-                    <ul class="cg-link2">
-                            <li data-click-name="Home" data-list="" class="">
-
-
-<a href="https://www.cgtn.com" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Home
-</a>
-
-
-                            </li>
-                            <li data-click-name="China" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/china" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    China
-</a>
-
-
-                            </li>
-                            <li data-click-name="World" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/world" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    World
-</a>
-
-
-                            </li>
-                            <li data-click-name="Politics" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/politics" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Politics
-</a>
-
-
-                            </li>
-                            <li data-click-name="Business" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/business" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Business
-</a>
-
-
-                            </li>
-                            <li data-click-name="Opinions" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Opinions
-</a>
-
-
-                            </li>
-                            <li data-click-name="Tech &amp; Sci" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Tech &amp; Sci
-</a>
-
-
-                            </li>
-                            <li data-click-name="Culture" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/culture" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Culture
-</a>
-
-
-                            </li>
-                            <li data-click-name="Sports" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/sports" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Sports
-</a>
-
-
-                            </li>
-                            <li data-click-name="Travel" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/travel" class="" target="_blank" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Travel
-</a>
-
-
-                            </li>
-                            <li data-click-name="Nature" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/nature" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Nature
-</a>
-
-
-                            </li>
-                            <li data-click-name="Picture" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/picture" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Picture
-</a>
-
-
-                            </li>
-                            <li data-click-name="Video" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/video" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Video
-</a>
-
-
-                            </li>
-                            <li data-click-name="Live" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/live" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Live
-</a>
-
-
-                            </li>
-                            <li data-click-name="Specials" data-list="" class="">
-
-
-<a href="https://www.cgtn.com/specials" class="" target="_self" data-category="Privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                    Specials
-</a>
-
-
-                            </li>
-                    </ul>
-                    <ul class="icon-list">
-                            <li class="fl ">
-
-
-<a href="https://www.cgtn.com/socialmedia/facebook" class="icon phone_fb" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                            <li class="fl ">
-
-
-<a href="https://www.cgtn.com/socialmedia/twitter" class="icon phone_twitter" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                            <li class="fl ">
-
-
-<a href="https://www.cgtn.com/socialmedia/youtube" class="icon phone_youtube" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                            <li class="fl ">
-
-
-<a href="https://www.cgtn.com/socialmedia/instagram" class="icon phone_ins" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                            <li class="fl ">
-
-
-<a href="https://www.cgtn.com/socialmedia/weibo" class="icon phone_weibo" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                            <li class="fl ">
-
-
-<a href="javascript:;" class="icon phone_wechat" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                            <li class="fl ">
-
-
-<a href="https://www.cgtn.com/socialmedia/tumblr" class="icon phone_tumblr" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                            <li class="fl ">
-
-
-<a href="https://www.cgtn.com/socialmedia/pinterest" class="icon phone_pinterest" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                            <li class="fl ">
-
-
-<a href="https://www.cgtn.com/socialmedia/googleplus" class="icon phone_googleplay" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                            <li class="fl mar0">
-
-
-<a href="https://www.cgtn.com/socialmedia/miaopai" class="icon phone_miaopai" target="_self" data-category="Privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-
-                            </li>
-                    </ul>
-                </div>
+        <a href="https://www.cgtn.com" class="bar-logo2" target="_self" data-category="privacy" data-action="Logo_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
             </div>
         </div>
+    </div>
+
+    <div class="m-link-children js-link">
+        <ul class="cg-link2 nav-list-bj">
+                <li data-click-name="Home" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Home
+        </a>
+                </li>
+
+                <li data-click-name="China" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/china" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        China
+        </a>
+                </li>
+
+                <li data-click-name="World" data-list="children_list" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/world" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        World
+                            <i class="icon-top"></i>
+        </a>
+                </li>
+                                <li data-click-name="Europe" class="m-nav-section  m-section-children">
+        <a href="https://www.cgtn.com/europe" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                        Europe
+        </a>
+                                </li>
+
+                <li data-click-name="Politics" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/politics" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Politics
+        </a>
+                </li>
+
+                <li data-click-name="Business" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/business" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Business
+        </a>
+                </li>
+
+                <li data-click-name="Opinions" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Opinions
+        </a>
+                </li>
+
+                <li data-click-name="Tech &amp; Sci" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Tech &amp; Sci
+        </a>
+                </li>
+
+                <li data-click-name="Culture" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/culture" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Culture
+        </a>
+                </li>
+
+                <li data-click-name="Sports" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/sports" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Sports
+        </a>
+                </li>
+
+                <li data-click-name="Travel" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/travel" class="" target="_blank" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Travel
+        </a>
+                </li>
+
+                <li data-click-name="Nature" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/nature" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Nature
+        </a>
+                </li>
+
+                <li data-click-name="Picture" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/picture" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Picture
+        </a>
+                </li>
+
+                <li data-click-name="Video" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/video" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Video
+        </a>
+                </li>
+
+                <li data-click-name="Live" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/live" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Live
+        </a>
+                </li>
+
+                <li data-click-name="TV" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/tv" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        TV
+        </a>
+                </li>
+
+                <li data-click-name="Specials" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/specials" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Specials
+        </a>
+                </li>
+
+        </ul>
+        <ul class="cg-link2 nav-list-eu">
+                <li data-click-name="Home" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Home
+        </a>
+                </li>
+
+                <li data-click-name="China" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/china" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        China
+        </a>
+                </li>
+
+                <li data-click-name="World" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/world" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        World
+        </a>
+                </li>
+                                <li data-click-name="Europe" class="m-nav-section  m-section-children">
+        <a href="https://www.cgtn.com/europe" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                                        Europe
+        </a>
+                                </li>
+
+                <li data-click-name="Europe" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/europe" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Europe
+        </a>
+                </li>
+
+                <li data-click-name="Politics" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/politics" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Politics
+        </a>
+                </li>
+
+                <li data-click-name="Business" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/business" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Business
+        </a>
+                </li>
+
+                <li data-click-name="Opinions" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Opinions
+        </a>
+                </li>
+
+                <li data-click-name="Tech &amp; Sci" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Tech &amp; Sci
+        </a>
+                </li>
+
+                <li data-click-name="Culture" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/culture" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Culture
+        </a>
+                </li>
+
+                <li data-click-name="Sports" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/sports" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Sports
+        </a>
+                </li>
+
+                <li data-click-name="Travel" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/travel" class="" target="_blank" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Travel
+        </a>
+                </li>
+
+                <li data-click-name="Nature" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/nature" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Nature
+        </a>
+                </li>
+
+                <li data-click-name="Picture" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/picture" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Picture
+        </a>
+                </li>
+
+                <li data-click-name="Video" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/video" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Video
+        </a>
+                </li>
+
+                <li data-click-name="Live" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/live" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Live
+        </a>
+                </li>
+
+                <li data-click-name="TV" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/tv" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        TV
+        </a>
+                </li>
+
+                <li data-click-name="Specials" data-list="" class="m-nav-section ">
+
+        <a href="https://www.cgtn.com/specials" class="" target="_self" data-category="privacy" data-action="Nav_Click" data-label="" data-position="" data-news-id="" data-time="">
+                        Specials
+        </a>
+                </li>
+
+        </ul>
+        <ul class="icon-list">
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/facebook" class="icon phone_fb" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/twitter" class="icon phone_twitter" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/youtube" class="icon phone_youtube" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/instagram" class="icon phone_ins" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/douyin" class="icon phone_douyin" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/weibo" class="icon phone_weibo" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="javascript:;" class="icon phone_wechat" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/pinterest" class="icon phone_pinterest" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/miaopai" class="icon phone_miaopai" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/toutiao" class="icon phone_toutiao" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl ">
+        <a href="https://www.cgtn.com/socialmedia/quora" class="icon phone_quora" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+                <li class="fl mar0">
+        <a href="https://www.cgtn.com/socialmedia/linkedin" class="icon phone_linkedin" target="_self" data-category="privacy" data-action="Socialmedia_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                </li>
+        </ul>
     </div>
     <div class="m-qr-img js-m-qr">
         <img src="//ui.cgtn.com/ui/attention/attention.jpg">
@@ -635,23 +775,25 @@
         </div>
     </div>
 </div>
-    <div class="cg-mainWrapper-col4">
+    <div class="cg-mainWrapper">
         <div class="cg-main-container cg-privacy">
             <div class="content">
-                <img class="top-banner" src="https://ui.cgtn.com/static/resource/images/icon_new/siteinfo/about-us.png">
-                <div class="main-title">Privacy Policy</div>
+                <img class="top-banner" src="https://ui.cgtn.com/static/ng/resource/images/icon_new/siteinfo/about-us.png">
+                <div class="main-title">Privacy Notice</div>
+
+
                 <div class="paragraph">
-                    <div class="part-text">
-                        We are strongly committed to letting you know how we will collect and use your personal information.&nbsp;The policies below are applicable to the network of websites China Global Television Network (collectively “CGTN” or “we”, “us”, or “our”), including <a class="underline" href="https://www.cgtn.com">www.cgtn.com</a> and its affiliated websites (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by CGTN; all apps published by CGTN; and all other interactive features, services, and communications provided by CGTN (collectively “Sites”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by CGTN. We have established this privacy policy (“Privacy Policy”) to let you know the kinds of personal information we may gather during your visit to these Sites, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information.&nbsp;
+                    <div class="sub-title">
+                        <div class="title-text ml2">We value your privacy</div>
                     </div>
                     <div class="part-text">
-                        Please be advised that the practices described in this Privacy Policy apply only to information gathered online at our Sites. It does not apply to information that you may submit to us offline, or to Sites maintained by other companies or organizations to which we may link or who may link to us.
+                        China Global Television Network (collectively “CGTN” or “we”, “us”, or “our”) respects your right to privacy when visiting <a class="underline" href="//www.cgtn.com/">https://www.cgtn.com/</a> both under the <a class="underline" href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679">General Data Protection Regulation</a> (GDPR) of the European Union and the <a class="underline" href="http://www.npc.gov.cn/npc/c30834/201611/270b43e8b35e4f7ea98502b6f0e26f8a.shtml">Cybersecurity Law</a> (CSL) of the People’s Republic of China. In compliance with relevant laws and regulations, we have prepared the following Privacy Notice. It covers the personal data we collect, how we use it, as well as your rights and how to exercise them.
                     </div>
                     <div class="part-text">
-                        By visiting our Sites, you are accepting the practices described in our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites. We reserve the right to modify or amend the terms of our Privacy Policy from time to time without notice. Your continued use of our Sites following the posting of changes to these terms will mean you accept those changes. If we intend to apply the modifications or amendments to this Privacy Policy retroactively or to personal information already in our possession, we will provide you with notice of the modifications or amendments.
+                        The term <strong>personal data</strong> in this Privacy Notice is defined as any information that recorded electronically or otherwise can solely or combined with others can identify you. For example, your IP address.
                     </div>
                     <div class="part-text">
-                        If you have any questions about this Privacy Policy or don’t see your concerns addressed here, you should contact us by email at&nbsp;<i class="italy">digital.media@cgtn.com</i>.
+                        We recommend reading carefully this Privacy Notice. It details how we collect, use and disclose the personal data. If you are under 16 years old, do not provide any personal data without your parents or legal guardian’s permission.
                     </div>
 
                 </div>
@@ -659,80 +801,51 @@
 
                 <div class="paragraph">
                     <div class="sub-title">
-                        <div class="title-text ml2">Controllers of Personal Information</div>
+                        <div class="title-text ml2">Contacting us</div>
                     </div>
                     <div class="part-text">
-                        Any personal information provided to or to be gathered by CGTN is controlled primarily by CGTN.
+                        For any question on this Privacy Notice, our website or any other issue unrelated to the exercise of your privacy rights, you can contact us or our DPO at the following:
+                    </div>
+                    <div class="part-text">
+                        China Global Television Network<br>
+                        Name: Yang Guijun<br>
+                        Address: 9 Floor, ENFEI Plaza, NO.12 FUXING Road, HaiDian District ,BeiJing, China<br>
+                        E-mail: yangguijun@cgtncorp.com<br>
+                    </div>
+                    <div class="part-text">
+                        China Global Television Network’s DPO<br>
+                        Name: Asha Pankhania<br>
+                        Address: 11th Floor, Building 7, Chiswick Park, London W4 5YG, UK<br>
+                        E-mail: asha.pankhania@cgtn.com<br>
                     </div>
                 </div>
 
 
                 <div class="paragraph">
                     <div class="sub-title">
-                        <div class="title-text">What Information About Me Is Collected and Stored?</div>
+                        <div class="title-text">What type of data we collect</div>
                     </div>
                     <div class="part-text">
-                        We collect two basic types of information from you in conjunction with your use of the Sites, personal information and non-personal information. Personal information is information that you may supply to us, as described more fully below, i.e., when you register for a Site or any part thereof, upload content, participate in a community, or provide your e-mail address. Personal information is any information that can individually identify you and includes, among other things, your name, e-mail address, telephone number, postal address, and contact information. Non-personal information includes information that does not personally identify you, but it may include tracking and usage information about your location, demographics, use of the Sites and the Internet.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml6">Personal Information</div>
-                    </div>
-                    <div class="part-text">
-                        As a general matter, you can browse the Sites without submitting your personal information to us. However, there are a number of circumstances in which you may supply us with your personal information. The following lists the most common ways in which we may collect your personal information.
+                        We follow the GDPR or CSL in collecting and using your personal data. We collect the following types of data:
                         <ul class="point">
                             <li>
-                                Registration for an account on the Sites
+                                Identity data such as your gender, age
                             </li>
                             <li>
-                                Sign up to receive e-mail newsletters or e-mail alerts from us
+                                Location data such as the city where you are located, the country you reside
                             </li>
                             <li>
-                                Request for customer service or other assistance
+                                Technical data such as your IP address, the browser you are using
                             </li>
                             <li>
-                                Completing the contact form to contact CGTN
+                                Usage data such as how you use our website, what news you have read and when
                             </li>
                             <li>
-                                Participation on social media accounts involving CGTN, our Sites and our brands
+                                Contact data such as your name, email address when you reach us by email and other data you disclose in such email
                             </li>
                             <li>
-                                Participation in communities, comment threads, other fora, and other interactive services
+                                Cookies data (see the details in <a href="#privacyLink1"><strong>Cookies and Local Storage Policy</strong></a> )
                             </li>
-                            <li>
-                                Submission of user generated content on any part of the Sites that permit it
-                            </li>
-                            <li>
-                                Any other place on the Sites where you knowingly volunteer personal information
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml6">Collection of Personal Information from or through Social Media Sites</div>
-                    </div>
-                    <div class="part-text">
-                        When you interact with any CGTN property page or account on a social media platform, such as Facebook, Weibo, WeChat, Twitter, Google+, Tumblr, YouTube, or Pinterest, we may collect the personal information that you make available to us on that page or account including your account ID or “handle.” However, we will comply with the privacy policies of the corresponding social media platform and we will only collect and store such personal information that we are permitted to collect by these social media platforms. If you choose to link or login to your CGTN account with or through a social networking service, CGTN and that service may share certain information about you and your activities. With your consent, we also may share information about your activities, including what you view on the Sites, with that social network’s users.
-                    </div>
-                </div>
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml6">Non-Personal Information</div>
-                    </div>
-                    <div class="part-text">
-                        In addition, when you interact with the Sites, we may collect certain information that does not identify you individually and our servers may automatically keep an activity log of your use of our Sites (“Non-Personal Information”). Generally, we collect and store the following categories of Non-Personal Information:
-                        <ul class="point">
-                            <li>Demographic data such as age, gender, and five digit zip code as part of collecting personal information.</li>
-                            <li>Neighborhood information</li>
-                            <li>Device information about your computer, mobile device, or other device that you use to access the Sites. This information may include IP address, geolocation information, unique device identifiers, browser type, browser language, and other transactional information.</li>
-                            <li>Usage information about your use of the Sites. This information includes a reading history of the pages you view. We use this information to provide you a more customized experience on the Sites.</li>
-                            <li>Additional “traffic data” such as time of access, date of access, software crash reports, session identification number, access times, and referring website addresses.</li>
-                            <li>Your search terms and search results.</li>
-                            <li>Other information regarding your use of the Sites.</li>
                         </ul>
                     </div>
                 </div>
@@ -740,66 +853,273 @@
 
                 <div class="paragraph">
                     <div class="sub-title">
-                        <div class="title-text ml1">Collection of Your Source IP Address/Location Information</div>
+                        <div class="title-text ml6">How we get your data and why we do have it</div>
                     </div>
                     <div class="part-text">
-                        We collect and store your device’s source IP address which may disclose the location of your device at the time you access the Sites. In addition, in some cases the Sites can deliver content based on your current location if you choose to enable that feature. If you enable that feature, your current location will be stored locally on your device which will be used by the Sites to serve you certain content tied to your location. If you elect to have your location-based searches saved to your history, we will store such information on our servers.
+                        We process your personal data in accordance with the legal basis under Article 6.1.a of the GDPR or Article 41 of the CSL.
+                    </div>
+                    <div class="part-text">
+                        The purposes of our collection and use of the personal data are specified as following:
                     </div>
                 </div>
 
-
                 <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml2">Collection of Personal and Non-Personal Information from Other Sources</div>
-                    </div>
-                    <div class="part-text">
-                        We also may collect and store information about you that we receive from other sources (including by us from our offline interactions with you) to, among other things, enable us to update and correct the information contained in our database and to better customize your experience on the Sites.
-                    </div>
+                    <table class="privacy-table">
+                        <tbody><tr class="header">
+                            <th class="item-l">Type of Personal Data</th>
+                            <th class="item-r item-text">Purpose</th>
+                        </tr>
+                        <tr class="item">
+                            <td class="item-l">Identity data</td>
+                            <td class="item-r">To provide you with a more tailored experience of our application, such as recommended news that would be more interesting for you</td>
+                        </tr>
+                        <tr class="item bg">
+                            <td class="item-l">Usage data</td>
+                            <td class="item-r">To provide you with a more tailored experience of our application, such as recommended news that would be more interesting for you</td>
+                        </tr>
+                        <tr class="item">
+                            <td class="item-l">Location data</td>
+                            <td class="item-r">To improve our games and services and to make our application compatible with your device</td>
+                        </tr>
+                         <tr class="item bg">
+                            <td class="item-l">Technical data</td>
+                            <td class="item-r">To improve our games and services and to make our application compatible with your device</td>
+                        </tr>
+                    </tbody></table>
                 </div>
 
-
-                <div class="paragraph">
+                <div class="paragraph" id="privacyLink1">
                     <div class="sub-title">
-                        <div class="title-text ml3">Use of Cookies</div>
+                        <div class="title-text ml6">Cookies and Local Storage Policy</div>
                     </div>
                     <div class="part-text">
-                        Like many websites, we use “cookies”, which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences and actions. We use cookies to track use of our Sites and online services. We may also use cookies to monitor traffic, improve the Sites and make it easier and/or relevant for your use. You may occasionally get cookies from third parties with content or links on our Sites. We do not control these cookies, and these cookies are not subject to this cookie policy.
+                        Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. The table below explains the cookies we use and why.
                     </div>
-                    <div class="part-text">
-                        You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but, if you prefer, you can usually modify your browser setting to decline cookies. If you delete your cookies or if you set your web browser to decline cookies, some features of the Sites may not work or may not work as designed. For more information on cookies and how to disable them, you can consult the information provided by the Interactive Advertising Bureau at www.allaboutcookies.org.
-                    </div>
-                    <div class="part-text">
-                        The Sites use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics may also use cookies or other tracking technology to help us analyze how users interact with and use the Sites, compile reports on Site activity, and provide other services related to Site activity and usage. The cookies and other technology may collect information such as your IP address, time of visit, whether you are a return visitor, and any referring website. The Sites do not use Google Analytics to gather any Personal Information. The information generated by Google Analytics will be transmitted to and stored by Google and will be subject to Google’s privacy policies.
-                    </div>
-                </div>
 
+                    <div class="part-text">
+                        <table class="privacy-table">
+                        <tbody><tr class="header">
+                            <th class="item-l">Cookie</th>
+                            <th class="item-l">Name</th>
+                            <th class="item-r item-text">Purpose</th>
+                        </tr>
+                        <tr class="item">
+                            <td class="item-l">Universal Analytics (Google)</td>
+                            <td class="item-l">
+                                AMP_TOKEN<br>
+                                IDE<br>
+                                __auc<br>
+                                _ga<br>
+                                _gat_newsTracker<br>
+                                _gat_webTracker<br>
+                                _gid
+                            </td>
+                            <td class="item-r">
+                            Those cookies are used to collect information about your use of our website. We use them to estimate the number of visitors on our website as well as the pages they visit. We then use such information to improve our website and its content.
+                            To know more about how Google through Google Analytics process your data, you can visit their <a class="underline" href="https://support.google.com/analytics/answer/6004245">presentation</a> on how Privacy works with their services.
+                            </td>
+                        </tr>
+                        <tr class="item item-t">
+                            <td class="item-l">Search query cookie</td>
+                            <td class="item-l">searchList</td>
+                            <td class="item-r">This cookie records the queries you input in the research bar. We collect and use this information to then provide you with a more tailored experience of our website.</td>
+                        </tr>
 
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml2">How Do We Use Your Information?</div>
+                    </tbody></table>
                     </div>
+
                     <div class="part-text">
-                        We use the information we learn from you to help us personalize and continually improve your experience on the Sites. We may use your Personal and Non-Personal Information in the following ways:
-                    </div>
-                </div>
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text">General Uses</div>
-                    </div>
-                    <div class="part-text">
+                        As most web browsers include the functionality of managing the cookies that you receive, you can at any time change your web browser settings to opt-out of our cookies. You can do this for the following popular browsers like this:
                         <ul class="point">
-                            <li>Provide you with the content, products and services you request</li>
                             <li>
-                                Post your user generated content to our Sites as you request
+                                <a class="underline" href="https://support.google.com/accounts/answer/61416?co=GENIE.Platform%3DDesktop&amp;hl=en" target="_blank">For Google Chrome</a>
                             </li>
-                            <li>Communicate with you about your account</li>
-                            <li>Communicate with you about information, features and enhancements on or to our Sites, content on our Sites that may be of interest to you, and breaking news</li>
-                            <li>Communicate with you about changes to our policies</li>
-                            <li>Communicate with you about your comment to a story or topic</li>
-                            <li>Personalize content and experiences on our Sites, including providing you recommendations based on your preferences</li>
-                            <li>Optimize or improve our Sites, products, services and operations</li>
-                            <li>Detect, investigate, and prevent activities that may violate our policies or be illegal</li>
-                            <li>Perform statistical, demographic, and marketing analyses of users of the Sites and their usage patterns</li>
+                            <li>
+                                <a class="underline" href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy">For Microsoft Edge</a>
+                            </li>
+                            <li>
+                                <a class="underline" href="https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences">For Mozilla Firefox</a>
+                            </li>
+                            <li>
+                                <a class="underline" href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies">For Microsoft Internet Explorer</a>
+                            </li>
+                            <li>
+                                <a class="underline" href="https://www.opera.com/help/tutorials/security/privacy/">For Opera</a>
+                            </li>
+                            <li>
+                                <a class="underline" href="https://support.apple.com/en-gb/safari">For Apple Safari</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="part-text">
+                        Local Storage is a functionality of HTML 5 that allows website to store information in your browser that will remain once you close it. We use this functionality to record your consent to our Privacy Notice with the Key “GDPR”.
+                    </div>
+                    <div class="part-text">
+                        Accessing Local Storage is different from browser to browser, but generally is accessed through an option called “Developer tools”, then Storage and Local Storage.
+                    </div>
+                </div>
+
+                <div class="paragraph">
+                    <div class="sub-title">
+                        <div class="title-text ml6">Third parties accessing your data</div>
+                    </div>
+                    <div class="part-text">
+                        When we follow your use of our website, your personal data will be collected and processed on our behalf by Google Big Query as well as Google Analytics. Their processing allows us to provide you with a more tailored experience of our website, such as recommended news that would be more interesting for you. To do so we need to draw a profile of your preferences to present you with the news you may prefer based on the analyses of your personal data and data. The processing of your personal data and third-party data also allows us to better understand how our website is used and how to improve it. Through analytics of your data we are able to always improve our website and content.
+                    </div>
+                    <div class="part-text">
+                        We combine personal data collected through your use of our website with demographical and statistical data to process them through Google Analytics and Google Big Query. Demographical and statistical data can be acquired through:
+                        <ul class="point">
+                            <li>
+                                Third party data suppliers from which we purchase demographic data to supplement the data we collect
+                            </li>
+                            <li>
+                                Social networks when you reference our Services or grant permission to CGTN to access your data on one or more of these services
+                            </li>
+                            <li>
+                                Partners with which we offer co-branded services, sell or distribute our products, or engage in joint marketing activities
+                            </li>
+                            <li>
+                                Publicly-available sources such as open government databases or other data in the public domain
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="part-text">
+                        Google Analytics uses statistical information collected from our website and your usage of our website to analyze information such as click-through rate, geographic distribution of our users.
+                    </div>
+                    <div class="part-text">
+                        Google Big Query uses information regarding your use of our website to help us presenting you with relevant news and video that you may be interested in by drawing a profile of your potential interests.
+                    </div>
+                    <div class="part-text">
+                        For more details on how Google Analytics and Google Big Query use your personal data, you can visit their <a class="underline" href="https://policies.google.com/technologies/partner-sites?hl=en">privacy policy</a> and Google Big Query <a class="underline" href="https://cloud.google.com/security/gdpr/">commitment</a> to the GDPR.
+                    </div>
+                </div>
+
+
+                <div class="paragraph">
+                    <div class="sub-title">
+                        <div class="title-text ml1">Where are your data stored</div>
+                    </div>
+                    <div class="part-text">
+                        When surfing our website, any data that we collect will be stored on Google Cloud, as well as our cloud server within the People’s Republic of China.
+                    </div>
+                    <div class="part-text">
+                        When you contact us by email, any data included with your email will be stored in the People’s Republic of China.
+                    </div>
+                </div>
+
+
+                <div class="paragraph">
+                    <div class="sub-title">
+                        <div class="title-text ml2">How do we store your information</div>
+                    </div>
+                    <div class="part-text">
+                        We securely store personal data that we collect within the People’s Republic of China in compliance with state-of-the-art cybersecurity practice and the Cybersecurity Law of the People’s Republic of China.
+                    </div>
+                    <div class="part-text">
+                        For personal data collected when you visit our website:
+                        <ul class="point">
+                            <li>
+                                Identity data are kept for <strong>one year</strong> following your last visit on our website
+                            </li>
+                            <li>
+                                Profile data are kept for  <strong>one year</strong> following your last visit on our website<br>
+                                Location data are kept for <strong>one year</strong> following your last visit on our website
+                            </li>
+                            <li>
+                                Technical data are kept for <strong>one year</strong> following your last visit on our website
+                            </li>
+                            <li>
+                                Usage data are kept for <strong>one year</strong> following your last visit on our website
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="part-text">
+                        For personal data we collect when you send an email to us:
+                        <ul class="point">
+                            <li>
+                                Identity data are kept for <strong>two years</strong> from the time we receive your email
+                            </li>
+                            <li>
+                                Contact data are kept for <strong>two years</strong> from the time we receive your email
+                            </li>
+                            <li>
+                                Technical data are kept for <strong>two years</strong> from the time we receive your email
+                            </li>
+                            <li>
+                                Other data are kept for <strong>two years</strong> from the time we receive your email
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="part-text">
+                        Following the expiration of the retention period, your personal data is erased from our systems.
+                    </div>
+                </div>
+
+
+                <div class="paragraph">
+                    <div class="sub-title">
+                        <div class="title-text ml3">Your privacy rights</div>
+                    </div>
+                    <div class="part-text">
+                        You have rights concerning the collection and use of your personal data that are as follows:
+                        <ul class="point">
+                            <li>
+                                <strong>Your right to access your personal data</strong> - You have the right to ask us for copies of your personal data.
+                            </li>
+                            <li>
+                                <strong>Your right to rectification</strong> - You have the right to ask us to rectify your personal data that is inaccurate or incomplete.
+                            </li>
+                            <li>
+                                <strong> Your right to erasure</strong> - You have the right to ask us to erase your personal data in certain circumstances.
+                            </li>
+                            <li>
+                                <strong> Your right to restriction of processing </strong>- You have the right to ask us to restrict the processing of your personal data in certain circumstances.
+                            </li>
+                            <li>
+                                <strong>Your right to object to processing</strong> - You have the right to object to the processing of your personal data in certain circumstances.
+                            </li>
+                            <li>
+                                <strong>Your right to data portability </strong>- You have the right to ask that we transfer the information you gave us to another organization, or to you, in certain circumstances.
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="part-text">
+                        You are not required to pay any charge for exercising your rights. If you make a request, we will respond within one month.
+                    </div>
+                    <div class="part-text">
+                        Please contact us at <a class="underline" href="mailto:digital.media@cgtn.com">digital.media@cgtn.com</a> if you wish to make a request.
+                    </div>
+                </div>
+
+
+                <div class="paragraph">
+                    <div class="sub-title">
+                        <div class="title-text ml2">How to withdraw your consent</div>
+                    </div>
+                    <div class="part-text">
+                        You have the right at any time to withdraw your consent from any further collection and use of your personal data. You can withdraw your consent by:
+                        <ul class="point">
+                            <li>
+                                Deleting cookies related to cgtn.com in your web browser. You can do so on <a class="underline" href="https://support.microsoft.com/en-us/help/278835/how-to-delete-cookie-files-in-internet-explorerIE">Microsoft Internet Explorer</a>, <a class="underline" href="https://support.microsoft.com/en-us/help/4027947/windows-delete-cookies">Microsoft Edge</a>, <a class="underline" href="https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox">Mozilla Firefox</a>, <a class="underline" href="https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DDesktop&amp;hl=en">Google Chrome</a>, <a class="underline" href="https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac">Apple Safari</a>, as well as most web browser
+                            </li>
+                            <li>
+                                Setting to 0 the GDPR key in your Local Storage
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="paragraph">
+                    <div class="sub-title">
+                        <div class="title-text">How to complain</div>
+                    </div>
+                    <div class="part-text">
+                        If you are not satisfied by the way we handle your personal data and wish to issue a complain, you can do so by contacting either:
+                        <ul class="point">
+                            <li>Your national Data Protection Authority which contact information is located on this <a class="underline" href="https://edpb.europa.eu/about-edpb/board/members_en">webpage</a></li>
+                            <li>
+                                The Cyberspace Administration of China through this <a class="underline" href="http://www.cac.gov.cn/zrxx.htm">webpage</a> (in Chinese)
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -808,10 +1128,10 @@
 
                 <div class="paragraph">
                     <div class="sub-title">
-                        <div class="title-text ml1">Combination of Your Personal Information</div>
+                        <div class="title-text ml1">Regarding automated decision-making</div>
                     </div>
                     <div class="part-text">
-                        We use the information from one portion of the Sites on other portions of Sites in our network of Sites, all of which are owned and operated by CGTN, and we may combine information gathered from multiple portions of the Sites into a single customer record. We also use and/or combine information that we collect off-line or we collect or receive from third party sources to enhance, expand, and check the accuracy of your user records.
+                        No automated decision-making is performed based on the personal data that we collect from you.
                     </div>
                 </div>
 
@@ -820,20 +1140,10 @@
 
                 <div class="paragraph">
                     <div class="sub-title">
-                        <div class="title-text ml2">Use of Your Location Information</div>
+                        <div class="title-text ml2">Notification in the occurrence of a data breach</div>
                     </div>
                     <div class="part-text">
-                        Specifically, we use your location information to:
-                        <ul class="point">
-                            <li>Provide you with the content and services you request</li>
-                            <li>
-                                Personalize content and experiences on our Sites, including providing you recommendations based on your preferences
-                            </li>
-                            <li>Personalize your newsletters and other communications for our services or special events</li>
-                            <li>Optimize or improve our products, services and operations</li>
-                            <li>Detect, investigate, and prevent activities that may violate our policies or be illegal</li>
-                            <li>Perform statistical, demographic, and marketing analyses of users of the Sites and their usage patterns</li>
-                        </ul>
+                        In the unlikely occurrence of a data breach including your personal data, we will notify accordance with the applicable legal requirements (such as the GDPR for the European Union, the CSL for Mainland China, etc.).
                     </div>
                 </div>
 
@@ -841,151 +1151,26 @@
 
                 <div class="paragraph">
                     <div class="sub-title">
-                        <div class="title-text">Who Do We Provide Your Information To?</div>
+                        <div class="title-text">Using this website without agreeing to the Privacy Notice</div>
                     </div>
                     <div class="part-text">
-                        Except as disclosed in this Privacy Policy, we do not disclose information about your Personal Information collected online to any companies not part of CGTN or its subsidiaries or related entities. Although, as disclosed below, we may provide your information to our partners, in no event will we sell or rent your Personal Information as part of a customer list or similar transaction.
+                        Refusing to agree to this Privacy Notice will not prevent you from using our website. However, doing so will prevent us from recommending news and video to you.
                     </div>
                 </div>
 
 
                 <div class="paragraph">
                     <div class="sub-title">
-                        <div class="title-text ml3">Third-Party Agents</div>
+                        <div class="title-text ml3">Updates to the Privacy Notice</div>
                     </div>
                     <div class="part-text">
-                        We have third party agents, subsidiaries, affiliates and partners that perform functions on our behalf, such as hosting, content syndication, content management tools, social media integration, marketing, analytics, customer service, fraud protection, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Sites.
+                        We can update this Privacy Notice in the future, to supplement how we process your personal data or for other reasons. When doing so, we will automatically consider that your consent is withdrawn if such changes were to be substantial until you agree once more with our Privacy Notice terms.
+                    </div>
+                    <div class="part-text">
+                        Last update: 2019-08-15
                     </div>
                 </div>
 
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml1">Business Partners and Third Parties</div>
-                    </div>
-                    <div class="part-text">
-                        We may share your Personal Information with our business partners from time to time. We may also share your Personal Information with third parties that provide products and services that we think you may be interested in. Although our treatment of your Personal Information is governed by this Privacy Policy, the business partner or third party’s treatment of your Personal Information will be governed by the business partner or third party’s privacy policy. You may withdraw your consent to our sharing of your Personal Information with business partners and third parties at any time by following the opt-out process described below.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml3">Emergency Situations</div>
-                    </div>
-                    <div class="part-text">
-                        We may also use or disclose Personal Information if required to do so by law or in the good-faith belief that such action is necessary to (a) conform to applicable law or comply with legal process served on us or the Sites; (b) protect and defend our rights or property, the Sites or our users, and (c) act under emergency circumstances to protect the personal safety of us, our affiliates, agents, or the users of the Sites or the public.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml2">Use of Non-Personal Information</div>
-                    </div>
-                    <div class="part-text">
-                        We may disclose or share Non-Personal Information (or other information, other than Personal Information) in any other manner that we deem appropriate or necessary. Among other things, we will disclose Non-Personal Information to third parties to help us determine how people use parts of the Sites and who our users are so we can improve our Sites. We will also disclose Non-Personal Information to our partners and other third parties about how our users collectively use the Sites.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text">What Steps Are Taken To Keep Personal Information Secure?</div>
-                    </div>
-                    <div class="part-text">
-                        We are concerned about ensuring the security of your Personal Information. Personal Information collected by our Sites are stored in secure operating environments that are not available to the public. Our security procedures mean that we may occasionally request proof of identity before we disclose your Personal Information to you. Please understand, however, that while we try our best to safeguard your Personal Information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text">What Happens When I Link To or From Another Website?</div>
-                    </div>
-                    <div class="part-text">
-                        These Sites may contain links to other websites operated by affiliates of CGTN or third parties. Please be advised that the practices described in this Privacy Policy do not apply to information gathered through these other websites. We are not responsible for the actions and privacy policies of third parties and other websites.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml3">Public Areas, Comments, and Community Areas</div>
-                    </div>
-                    <div class="part-text">
-                        Please remember that any information you share in public areas, such as comments to stories, becomes public and anyone may take and use that information. Please be careful about what you disclose and do not post any Personal Information that you expect to keep private.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml2">Contributing offensive or inappropriate content to CGTN.com</div>
-                    </div>
-                    <div class="part-text">
-                        If you post or send offensive, inappropriate or objectionable content or otherwise engage in any disruptive behavior at CGTN.com, we may use your personal information to stop such behavior. CGTN reserves the right of interpretation and judgment regarding the above mentioned content.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml2">Governing Law</div>
-                    </div>
-                    <div class="part-text">
-                        These Sites are published in the People’s Republic of China. We attempt to protect the Personal Information of all users of our Sites and we attempt to comply with local data protection and consumer rights laws to the extent they may apply to our services, but our family of Sites are located and targeted to citizens of the People’s Republic of China and our policies are directed at compliance with those laws. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to us.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml1">Notice to Non-Chinese Users</div>
-                    </div>
-                    <div class="part-text">
-                        If you are located outside the People’s Republic of China, you should be aware that your personally identifiable information will be transferred to the People’s Republic of China, the laws of which may be deemed by your country to have inadequate data protection. If you are located in a country outside the People’s Republic of China and voluntarily submit personal information to us, you thereby consent to the general use of such information as provided in this Privacy Policy and to the transfer of that information to, and/or storage of that information in, the People’s Republic of China.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text">Assignment</div>
-                    </div>
-                    <div class="part-text">
-                        We may change our ownership or corporate organization while providing the Sites and services. We may also sell certain assets associated with the Sites. As a result, please be aware that in such event we may transfer some or all of your information to a company acquiring all or part of our assets or to another company with which we have merged. Under such circumstances we would, to the extent possible, require the acquiring party to follow the practices described in this Privacy Policy, as it may be amended from time to time. Nevertheless, we cannot promise that an acquiring company or the merged company will have the same privacy practices or treat your information the same as described in this Privacy Policy.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml1">Changes to This Policy</div>
-                    </div>
-                    <div class="part-text">
-                        As our Sites continue to develop, we may add new services and features to our Sites. In the event that these additions affect our Privacy Policy, this document will be updated appropriately. We will post those changes prominently so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. We do, however, recommend that you read this Privacy Policy each time you use our Sites in case you missed our notice of changes to the Privacy Policy. We will not, however, materially change our policies and practices to make them less protective of Personal Information we have previously collected from you without your express consent.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml2">How Do I Opt-Out or Correct Information About Me</div>
-                    </div>
-                    <div class="part-text">
-                        You may always opt-out of receiving future e-mail messages and newsletters from CGTN. To opt-out, you can send us a message at&nbsp;&nbsp;<a class="underline" href="mailto:EMAIL">digital.media@cgtn.com</a>.
-                    </div>
-                </div>
-
-
-                <div class="paragraph">
-                    <div class="sub-title">
-                        <div class="title-text ml5">Your Privacy Rights</div>
-                    </div>
-                    <div class="part-text">
-                        Chinese laws permit customers of CGTN to request certain information regarding its disclosure of their personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to&nbsp;<a class="underline" href="mailto:EMAIL">digital.media@cgtn.com</a>.
-                    </div>
-                </div>
 
 
             </div>
@@ -993,320 +1178,438 @@
     </div>
 
 
-<div class="cg-footer">
-    <div class="cg-mainWrapper">
-        <div class="cg-main-container cg-padding">
-            <div class="container-fluid">
-                <div class="cg-footer-top-wrapper">
-                    <div class="cg-footer-top">
-                        <a href="https://www.cgtn.com" class="icon-logo"></a>
-                        <a class="icon-different marl"></a>
-                    </div>
-                </div>
-                <div class="cg-footer-middle">
-                    <div class="cg-item-w4x fl">
-                        <div class="title">SITEMAP</div>
-                        <ul class="cg-list">
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/china" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-China</a>
 
 
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/world" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-World</a>
 
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/politics" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Politics</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/business" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Business</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Tech &amp; Sci</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/culture" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Culture</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/sports" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Sports</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Opinions</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/travel" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Travel</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/nature" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Nature</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/picture" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Picture</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/video" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Video</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/live" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Live</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/specials" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Specials</a>
-
-
-                                </li>
-                                <li class="fl">
-                                    
-<a href="https://www.cgtn.com/transcript" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Transcript</a>
-
-
-                                </li>
-                        </ul>
-                    </div>
-                    <div class="cg-item-w3x fl">
-                        <div class="title">EXPLORE MORE</div>
-                        <ul class="cg-list">
-                                <li class="fl ">
-                                    
-<a href="https://www.cgtn.com/channel/en.do" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-English</a>
-
-
-                                </li>
-                                <li class="fl ">
-                                    
-<a href="//espanol-m.cgtn.com" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-Español</a>
-
-
-                                </li>
-                                <li class="fl ">
-                                    
-<a href="//francaism.cgtn.com" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-Français</a>
-
-
-                                </li>
-                                <li class="fl pdb0">
-                                    
-<a href="//arabic-m.cgtn.com/" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-العربية</a>
-
-
-                                </li>
-                                <li class="fl ">
-                                    
-<a href="//russian-m.cgtn.com" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-Русский</a>
-
-
-                                </li>
-                                <li class="fl ">
-                                    
-<a href="https://www.cgtn.com/channel/do.do" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-Documentary</a>
-
-
-                                </li>
-                                <li class="fl ">
-                                    
-<a href="http://www.cctvplus.com" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-CCTV+</a>
-
-
-                                </li>
-                        </ul>
-                    </div>
-                    <div class="cg-item-w2x fl">
-                        <div class="title">DOWNLOAD OUR APP</div>
-                        <ul class="cg-list no-border">
-                                <li class="fl">
-
-<a href="https://itunes.apple.com/us/app/cctvnews/id922456579" class="icon apple" target="_blank" data-category="Privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                </li>
-                                <li class="fl">
-
-<a href="https://play.google.com/store/apps/details?id=com.imib.cctv" class="icon google" target="_blank" data-category="Privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                </li>
-                                <li class="fl">
-
-<a href="//news.cgtn.com/download/CGTN.apk" class="icon web" target="_blank" data-category="Privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                </li>
-                                <li class="fl">
-
-<a href="https://www.cgtn.com/appletv-download" class="icon apple-tv" target="_blank" data-category="Privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="cg-copyright">
-                    <p class="fl copyright">Copyright © 2018 CGTN. Beijing ICP prepared NO.16065310-3</p>
-                    <ul class="fr link">
+<div class="cg_footer_info_bg"></div>
+<div class="cg-footer cg-max-footer">
+    <div class="cg-mainWrapper cg-footer-padding cg-footer-w">
+        <div class="cg-footer-top-wrapper">
+            <div class="cg-footer-top">
+                <a href="https://www.cgtn.com" class="icon-logo"></a>
+                <a class="icon-different marl"></a>
+            </div>
+        </div>
+            <div class="cg-footer-middle">
+                <div class="cg-item-w4x fl">
+                    <div class="title">SITEMAP</div>
+                    <ul class="cg-list">
                         <li class="fl">
+                                    <a href="https://www.cgtn.com/china" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+China        </a>
 
-<a href="https://www.cgtn.com/terms-of-use" class="" target="_self" data-category="Privacy" data-action="TeamOfUs_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                 Terms of use
-</a>
-
-                            <span class="hr-r"></span>
                         </li>
                         <li class="fl">
+                                    <a href="https://www.cgtn.com/world" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+World        </a>
 
-<a href="https://www.cgtn.com/copyright" class="" target="_self" data-category="Privacy" data-action="Copyright_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                 Copyright
-</a>
-
-                            <span class="hr-r"></span>
                         </li>
                         <li class="fl">
-
-<a href="https://www.cgtn.com/privacy" class="pdr0" target="_self" data-category="Privacy" data-action="PrivacyPolicy_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                 Privacy policy
-</a>
+                                    <a href="https://www.cgtn.com/politics" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Politics        </a>
 
                         </li>
-                        <li class="fl about">
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/business" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Business        </a>
 
-<a href="https://www.cgtn.com/about-us" class="" target="_self" data-category="Privacy" data-action="AboutUs_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                 About us
-</a>
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Tech &amp; Sci        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/culture" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Culture        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/sports" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Sports        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Opinions        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/travel" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Travel        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/nature" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Nature        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/picture" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Picture        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/video" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Video        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/live" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Live        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/specials" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Specials        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/transcript" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Transcript        </a>
+
+                        </li>
+                        <li class="">
+                                    <a href="https://www.cgtn.com/europe" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+EUROPE        </a>
 
                         </li>
                     </ul>
                 </div>
+                <div class="cg-item-w3x fl">
+                    <div class="title">EXPLORE MORE</div>
+                    <ul class="cg-list no-border">
+                        <li class="fl ">
+                                    <a href="https://www.cgtn.com/tv" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+English        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="//espanol-m.cgtn.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Español        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="//francaism.cgtn.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Français        </a>
+
+                        </li>
+                        <li class="fl pdb0">
+                                    <a href="//arabic-m.cgtn.com/" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+العربية        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="//russian-m.cgtn.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Русский        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="https://www.cgtn.com/channel/documentary" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Documentary        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="http://www.cctvplus.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+CCTV+        </a>
+
+                        </li>
+                    </ul>
+                </div>
+                <div class="cg-item-w2x fl">
+                    <div class="title">DOWNLOAD OUR APP</div>
+                    <ul class="cg-list no-border">
+                        <li class="fl">
+        <a href="https://itunes.apple.com/us/app/cctvnews/id922456579" class="icon apple" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                        </li>
+                        <li class="fl">
+        <a href="https://play.google.com/store/apps/details?id=com.imib.cctv" class="icon google" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                        </li>
+                        <li class="fl">
+        <a href="//news.cgtn.com/download/CGTN.apk" class="icon web" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                        </li>
+                        <li class="fl">
+        <a href="https://www.cgtn.com/appletv-download" class="icon apple-tv" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                        </li>
+                    </ul>
+                </div>
             </div>
-        </div>
+             <div class="cg-copyright">
+             <p class="fl copyright">Copyright © 2018 CGTN. Beijing ICP prepared NO.16065310-3</p>
+             <ul class="fr link">
+                 <li class="fl">
+        <a href="https://www.cgtn.com/terms-of-use" class="" target="_self" data-category="privacy" data-action="TeamOfUs_Click" data-label="" data-position="" data-news-id="" data-time="">
+                         Terms of use
+        </a>
+                     <span class="hr-r"></span>
+                 </li>
+                 <li class="fl">
+        <a href="https://www.cgtn.com/copyright" class="" target="_self" data-category="privacy" data-action="Copyright_Click" data-label="" data-position="" data-news-id="" data-time="">
+                         Copyright
+        </a>
+                     <span class="hr-r"></span>
+                 </li>
+                 <li class="fl">
+        <a href="https://www.cgtn.com/privacy" class="pdr0" target="_self" data-category="privacy" data-action="PrivacyPolicy_Click" data-label="" data-position="" data-news-id="" data-time="">
+                         Privacy policy
+        </a>
+                 </li>
+                 <li class="fl about">
+        <a href="https://www.cgtn.com/about-us" class="" target="_self" data-category="privacy" data-action="AboutUs_Click" data-label="" data-position="" data-news-id="" data-time="">
+                         About us
+        </a>
+                 </li>
+             </ul>
+         </div>
     </div>
 </div>
 
+<div class="cg-footer cg-mid-footer">
+    <div class="cg-mainWrapper cg-footer-padding cg-footer-w">
+        <div class="cg-footer-top-wrapper">
+            <div class="cg-footer-top">
+                <a href="https://www.cgtn.com" class="icon-logo"></a>
+                <a class="icon-different marl"></a>
+            </div>
+        </div>
+            <div class="cg-footer-middle">
+                <div class="cg-item-w4x fl">
+                    <div class="title">SITEMAP</div>
+                    <ul class="cg-list">
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/china" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+China        </a>
 
-<div class="cg-footer cg-m-footer">
-    <div class="cg-mainWrapper">
-        <div class="cg-main-container cg-padding">
-            <div class="container-fluid">
-                <div class="cg-footer-top-wrapper">
-                    <div class="cg-footer-top">
-                        <a href="https://www.cgtn.com" class="icon-logo"></a>
-                        <a class="icon-different marl"></a>
-                    </div>
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/world" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+World        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/politics" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Politics        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/business" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Business        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Tech &amp; Sci        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/culture" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Culture        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/sports" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Sports        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Opinions        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/travel" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Travel        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/nature" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Nature        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/picture" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Picture        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/video" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Video        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/live" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Live        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/specials" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Specials        </a>
+
+                        </li>
+                        <li class="fl">
+                                    <a href="https://www.cgtn.com/transcript" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Transcript        </a>
+
+                        </li>
+                        <li class="">
+                                    <a href="https://www.cgtn.com/europe" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+EUROPE        </a>
+
+                        </li>
+                    </ul>
                 </div>
-                <div class="cg-footer-middle">
+                <div class="cg-item-w3x fl">
+                    <div class="title">EXPLORE MORE</div>
+                    <ul class="cg-list no-border">
+                        <li class="fl ">
+                                    <a href="https://www.cgtn.com/tv" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+English        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="//espanol-m.cgtn.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Español        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="//francaism.cgtn.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Français        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="//arabic-m.cgtn.com/" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+العربية        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="//russian-m.cgtn.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Русский        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="https://www.cgtn.com/channel/documentary" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Documentary        </a>
+
+                        </li>
+                        <li class="fl ">
+                                    <a href="http://www.cctvplus.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+CCTV+        </a>
+
+                        </li>
+                    </ul>
+                </div>
+                <div class="cg-item-w2x fl">
+                    <div class="title">DOWNLOAD OUR APP</div>
+                    <ul class="cg-list no-border">
+                        <li class="fl">
+        <a href="https://itunes.apple.com/us/app/cctvnews/id922456579" class="icon apple" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                        </li>
+                        <li class="fl">
+        <a href="https://play.google.com/store/apps/details?id=com.imib.cctv" class="icon google" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                        </li>
+                        <li class="fl">
+        <a href="//news.cgtn.com/download/CGTN.apk" class="icon web" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                        </li>
+                        <li class="fl">
+        <a href="https://www.cgtn.com/appletv-download" class="icon apple-tv" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="cg-copyright">
+        <p class="fl copyright">Copyright © 2018 CGTN. Beijing ICP prepared NO.16065310-3</p>
+        <ul class="fr link">
+            <li class="">
+        <a href="https://www.cgtn.com/terms-of-use" class="" target="_self" data-category="privacy" data-action="TeamOfUs_Click" data-label="" data-position="" data-news-id="" data-time="">
+                     Terms of use
+        </a>
+                <span class="hr-r"></span>
+            </li>
+            <li class="">
+        <a href="https://www.cgtn.com/copyright" class="" target="_self" data-category="privacy" data-action="Copyright_Click" data-label="" data-position="" data-news-id="" data-time="">
+                     Copyright
+        </a>
+                <span class="hr-r"></span>
+            </li>
+            <li class="">
+        <a href="https://www.cgtn.com/privacy" class="" target="_self" data-category="privacy" data-action="PrivacyPolicy_Click" data-label="" data-position="" data-news-id="" data-time="">
+                     Privacy policy
+        </a>
+                <span class="hr-r"></span>
+            </li>
+            <li class="about">
+        <a href="https://www.cgtn.com/about-us" class="" target="_self" data-category="privacy" data-action="AboutUs_Click" data-label="" data-position="" data-news-id="" data-time="">
+                     About us
+        </a>
+            </li>
+        </ul>
+    </div>
+    </div>
+</div>
+
+<div class="cg-footer cg-min-footer">
+    <div class="cg-mainWrapper cg-footer-padding cg-footer-w">
+        <div class="cg-footer-top-wrapper">
+            <div class="cg-footer-top">
+                <a href="https://www.cgtn.com" class="icon-logo"></a>
+                <a class="icon-different marl"></a>
+            </div>
+        </div>
+            <div class="cg-footer-middle">
                          <div class="cg-item-w3x fl">
                              <div class="title ">SITEMAP</div>
                              <ul class="cg-list list2">
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/china" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-China</a>
-
+                                                <a href="https://www.cgtn.com/china" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+China        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/world" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-World</a>
-
+                                                <a href="https://www.cgtn.com/world" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+World        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/politics" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Politics</a>
-
+                                                <a href="https://www.cgtn.com/politics" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Politics        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/business" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Business</a>
-
+                                                <a href="https://www.cgtn.com/business" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Business        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Opinions</a>
-
+                                                <a href="https://www.cgtn.com/opinions" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Opinions        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Tech &amp; Sci</a>
-
+                                                <a href="https://www.cgtn.com/tech-sci" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Tech &amp; Sci        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/culture" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Culture</a>
+                                                <a href="https://www.cgtn.com/culture" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Culture        </a>
 
+                                    </li>
+                                    <li class="fl ">
+                                                <a href="https://www.cgtn.com/sports" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Sports        </a>
 
                                     </li>
                                     <li class="fl padb0">
-                                        
-<a href="https://www.cgtn.com/sports" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Sports</a>
-
+                                                <a href="https://www.cgtn.com/europe" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+EUROPE        </a>
 
                                     </li>
                              </ul>
@@ -1315,192 +1618,145 @@ Sports</a>
                              <div class="title visibility">SITEMAP</div>
                              <ul class="cg-list ">
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/travel" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Travel</a>
-
+                                                <a href="https://www.cgtn.com/travel" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Travel        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/nature" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Nature</a>
-
+                                                <a href="https://www.cgtn.com/nature" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Nature        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/picture" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Picture</a>
-
+                                                <a href="https://www.cgtn.com/picture" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Picture        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/video" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Video</a>
-
+                                                <a href="https://www.cgtn.com/video" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Video        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/specials" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Specials</a>
-
+                                                <a href="https://www.cgtn.com/specials" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Specials        </a>
 
                                     </li>
                                     <li class="fl ">
-                                        
-<a href="https://www.cgtn.com/live" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Live</a>
-
+                                                <a href="https://www.cgtn.com/live" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Live        </a>
 
                                     </li>
                                     <li class="fl padb0">
-                                        
-<a href="https://www.cgtn.com/transcript" class="" target="_self" data-category="Privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
-Transcript</a>
-
+                                                <a href="https://www.cgtn.com/transcript" class="" target="_self" data-category="privacy" data-action="Sitemap_Click" data-label="" data-position="" data-news-id="" data-time="">
+Transcript        </a>
 
                                     </li>
                              </ul>
                          </div>
-                    <div style="clear: both"></div>
-                    <div class="list-wrapper">
-                        <div class="cg-item-w3x fl">
-                            <div class="title">EXPLORE MORE </div>
-                            <ul class="cg-list list2">
+                <div style="clear: both"></div>
+                <div class="list-wrapper">
+                    <div class="cg-item-w3x fl">
+                        <div class="title">EXPLORE MORE </div>
+                        <ul class="cg-list list2">
                                 <li class="fl ">
-                                    
-<a href="https://www.cgtn.com/channel/en.do" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-English</a>
-
+                                            <a href="https://www.cgtn.com/tv" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+English        </a>
 
                                 </li>
                                 <li class="fl ">
-                                    
-<a href="//espanol-m.cgtn.com" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-Español</a>
-
+                                            <a href="//espanol-m.cgtn.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Español        </a>
 
                                 </li>
                                 <li class="fl ">
-                                    
-<a href="//francaism.cgtn.com" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-Français</a>
-
+                                            <a href="//francaism.cgtn.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Français        </a>
 
                                 </li>
                                 <li class="fl ">
-                                    
-<a href="//arabic-m.cgtn.com/" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-العربية</a>
-
+                                            <a href="//arabic-m.cgtn.com/" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+العربية        </a>
 
                                 </li>
                                 <li class="fl ">
-                                    
-<a href="//russian-m.cgtn.com" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-Русский</a>
-
+                                            <a href="//russian-m.cgtn.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Русский        </a>
 
                                 </li>
                                 <li class="fl ">
-                                    
-<a href="https://www.cgtn.com/channel/do.do" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-Documentary</a>
-
+                                            <a href="https://www.cgtn.com/channel/documentary" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+Documentary        </a>
 
                                 </li>
                                 <li class="fl padb0">
-                                    
-<a href="http://www.cctvplus.com" class="" target="_blank" data-category="Privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
-CCTV+</a>
-
+                                            <a href="http://www.cctvplus.com" class="" target="_blank" data-category="privacy" data-action="ExploreMore_Click" data-label="" data-position="" data-news-id="" data-time="">
+CCTV+        </a>
 
                                 </li>
-                            </ul>
-                        </div>
-                        <div class="cg-item-w2x fl">
-                            <div class="title">OUR APPS</div>
-                            <ul class="cg-list no-border">
-                                <li class="fl">
-
-<a href="https://itunes.apple.com/us/app/cctvnews/id922456579" class="icon apple" target="_blank" data-category="Privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                </li>
-                                <li class="fl">
-
-<a href="https://play.google.com/store/apps/details?id=com.imib.cctv" class="icon google" target="_blank" data-category="Privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                </li>
-                                <li class="fl">
-
-<a href="//news.cgtn.com/download/CGTN.apk" class="icon web" target="_blank" data-category="Privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                </li>
-                                <li class="fl">
-
-<a href="https://www.cgtn.com/appletv-download" class="icon apple-tv" target="_blank" data-category="Privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
-</a>
-
-                                </li>
-                            </ul>
-                        </div>
+                        </ul>
                     </div>
-
-                </div>
-                <div class="cg-copyright">
-                    <p class="fl copyright">Copyright © 2018 CGTN. Beijing ICP prepared NO.16065310-3</p>
-                    <ul class="fr link">
-                        <li class="">
-
-<a href="https://www.cgtn.com/terms-of-use" class="" target="_self" data-category="Privacy" data-action="TeamOfUs_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                 Terms of use
-</a>
-
-                            <span class="hr-r"></span>
-                        </li>
-                        <li class="">
-
-<a href="https://www.cgtn.com/copyright" class="" target="_self" data-category="Privacy" data-action="Copyright_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                 Copyright
-</a>
-
-                            <span class="hr-r"></span>
-                        </li>
-                        <li class="">
-
-<a href="https://www.cgtn.com/privacy" class="" target="_self" data-category="Privacy" data-action="PrivacyPolicy_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                 Privacy policy
-</a>
-
-                            <span class="hr-r"></span>
-                        </li>
-                        <li class="about">
-
-<a href="https://www.cgtn.com/about-us" class="" target="_self" data-category="Privacy" data-action="AboutUs_Click" data-label="" data-position="" data-news-id="" data-time="">
-                                 About us
-</a>
-
-                        </li>
-                    </ul>
+                    <div class="cg-item-w2x fl">
+                        <div class="title">OUR APPS</div>
+                        <ul class="cg-list no-border">
+                                <li class="fl">
+        <a href="https://itunes.apple.com/us/app/cctvnews/id922456579" class="icon apple" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://play.google.com/store/apps/details?id=com.imib.cctv" class="icon google" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="//news.cgtn.com/download/CGTN.apk" class="icon web" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                                <li class="fl">
+        <a href="https://www.cgtn.com/appletv-download" class="icon apple-tv" target="_blank" data-category="privacy" data-action="Download_Click" data-label="" data-position="" data-news-id="" data-time="">
+        </a>
+                                </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-        </div>
+            <div class="cg-copyright">
+        <p class="fl copyright">Copyright © 2018 CGTN. Beijing ICP prepared NO.16065310-3</p>
+        <ul class="fr link">
+            <li class="">
+        <a href="https://www.cgtn.com/terms-of-use" class="" target="_self" data-category="privacy" data-action="TeamOfUs_Click" data-label="" data-position="" data-news-id="" data-time="">
+                     Terms of use
+        </a>
+                <span class="hr-r"></span>
+            </li>
+            <li class="">
+        <a href="https://www.cgtn.com/copyright" class="" target="_self" data-category="privacy" data-action="Copyright_Click" data-label="" data-position="" data-news-id="" data-time="">
+                     Copyright
+        </a>
+                <span class="hr-r"></span>
+            </li>
+            <li class="">
+        <a href="https://www.cgtn.com/privacy" class="" target="_self" data-category="privacy" data-action="PrivacyPolicy_Click" data-label="" data-position="" data-news-id="" data-time="">
+                     Privacy policy
+        </a>
+                <span class="hr-r"></span>
+            </li>
+            <li class="about">
+        <a href="https://www.cgtn.com/about-us" class="" target="_self" data-category="privacy" data-action="AboutUs_Click" data-label="" data-position="" data-news-id="" data-time="">
+                     About us
+        </a>
+            </li>
+        </ul>
+    </div>
     </div>
 </div></div>
 
-<script type="text/javascript" src="https://ui.cgtn.com/static/resource/vendor/jquery.min.js"></script>
-<script type="text/javascript" src="https://ui.cgtn.com/static/resource/vendor/jquery.cookie.js"></script>
-<script type="text/javascript" src="https://ui.cgtn.com/static/resource/vendor/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="https://ui.cgtn.com/static/ng/resource/vendor/jquery.min.js"></script>
+<script type="text/javascript" src="https://ui.cgtn.com/static/ng/resource/vendor/jquery.cookie.js"></script>
+<script type="text/javascript" src="https://ui.cgtn.com/static/ng/resource/vendor/jquery.lazyload.min.js"></script>
 
 
-<script type="text/javascript" src="https://ui.cgtn.com/static/resource/vendor/intersection-observer.js"></script>
-<script type="text/javascript" src="https://ui.cgtn.com/static/resource/website/js/m-appendix.js"></script>
+<script type="text/javascript" src="https://ui.cgtn.com/static/ng/resource/vendor/intersection-observer.js"></script>
+<script type="text/javascript" src="https://ui.cgtn.com/static/ng/resource/website/js/ng-appendix.js"></script>
 
 
 
