@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the xtensio.com privacy policy that was archived on 2019-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190330230323id_/https%3A//xtensio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtensio.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209221039id_/https%3A//xtensio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Agreement | Xtensio
 
-Xtensio is a collaboration hub for [living documents](https://xtensio.com/tour). Build any business collateral from strategy docs to presentations, pitches, agendas, reports and more. [Sign up for free >](https://app.xtensio.com/account/signup)
-
- _Last Updated: May 25th, 2018_
+_Last Updated: May 25th, 2018_
 
 The Xtensio website (the “ **Site** ”) is operated by Xtensio, Inc. Xtensio is committed to respecting and protecting your privacy. To that end, we have prepared this privacy policy (the “ **Privacy Policy** ”) to describe our information gathering, dissemination, and protection practices for the Site. The terms “ **Xtensio** ,” “ **we** ,” “ **us** ,” and “ **our** ” refer to Xtensio, Inc. and its subsidiaries and affiliates. The terms “ **you** ,” “ **your** ,” and “ **yours** ” refer to the user/customer utilizing the Site. “ **Service** ” refers to Xtensio’s service which can be accessed via the Site. This Privacy Policy is governed by our [Terms of Use](https://xtensio.com/terms/).
 
@@ -118,7 +116,7 @@ If you are a resident of California, you have the right to request information f
 If you have any questions regarding this Privacy Policy or the practices of this Site, please contact us here:
 
 Xtensio Inc.  
-PO Box 93455  
+PO Box 93416  
 Los Angeles, CA 90093
 
 Email: help@xtensio.com
