@@ -1,61 +1,57 @@
-> *The following text is extracted and transformed from the alltechabout.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321171144id_/https%3A//www.alltechabout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltechabout.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209110316id_/https%3A//www.alltechabout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - All Tech About
 
-**What information do we collect?**
+This Privacy Policy governs the manner in which alltechabout.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.alltechabout.com website (“Site”).
 
-We collect information from you when you register on our site, subscribe to our newsletter, fill out a form or comment on the site. When registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or website URL. You may, however, visit our site anonymously.
+ **Personal identification information**
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, email address, mailing address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-**What do we use your information for?**
+ **Non-personal identification information**
 
-Any of the information we collect from you may be used in one of the following ways:
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-To personalize your experience : (your information helps us to better respond to your individual needs)  
-To improve our website : (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
-To improve customer service : (your information helps us to more effectively respond to your customer service requests and support needs)  
-To send periodic emails : The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.  
-How do we protect your information?
+ **Web browser cookies**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Do we use cookies?**
+ **How we use collected information**
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+alltechabout.com may collect and use Users personal information for the following purposes:  
+– To run and operate our Site  
+We may need your information display content on the Site correctly.  
+– To improve customer service  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.  
+– To send periodic emails  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests.
 
-We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+ **How we protect your information**
 
-**Do we disclose any information to outside parties?**
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+ **Sharing your personal information**
 
-**Third party links**
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+ **Advertising**
 
-**Online Privacy Policy Only**
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers. You may learn more about opting out of major ad networks at https://websitebuilders.com/tools/advertiser-opt-out/.
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+ **Google Adsense**
 
-**Terms and Conditions**
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.alltechabout.com
+ **Changes to this privacy policy**
 
-**Your Consent**
+alltechabout.com has the discretion to update this privacy policy at any time. When we do, we will post a notification on the main page of our Site and send you an email. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-By using our site, you consent to our online privacy policy.
+ **Your acceptance of these terms**
 
-**Changes to our Privacy Policy**
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. This privacy policy was built using the www.PrivacyPolicies.com generator.
 
-If we decide to change our privacy policy, we will post those changes on this page.
+ **Contacting us**
 
-This policy was last modified on 23/10/2016
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
-**Contacting Us**
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-http://www.alltechabout.com
-
-Support@alltechabout.com
+This document was last updated on May 29, 2018
