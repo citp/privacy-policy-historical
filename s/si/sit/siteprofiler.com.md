@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siteprofiler.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331223442id_/https%3A//mangools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteprofiler.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209084031id_/https%3A//mangools.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Mangools
+# Privacy Policy | Mangools
 
 Itrinity, s.r.o. (hereinafter referred to as Mangools) considers data protection and privacy to be of paramount importance. 
 
@@ -107,7 +107,11 @@ We may occasionally send you notification emails about updates to our products, 
 ### We agree to the following:
 
   * Not use false or misleading subjects or email addresses.
-Identify the message as an advertisement in some reasonable way. Include the physical address of our business or site headquarters. Honor opt-out/unsubscribe requests quickly. Allow users to unsubscribe by using the link at the bottom of each email. 
+  * Identify the message as an advertisement in some reasonable way.
+  * Include the physical address of our business or site headquarters.
+  * Honor opt-out/unsubscribe requests quickly.
+  * Allow users to unsubscribe by using the link at the bottom of each email.
+
 
 
 If at any time you would like to unsubscribe from receiving future marketing emails or newsletter, you can follow the instructions at the bottom of each email. 
