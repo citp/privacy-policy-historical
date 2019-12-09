@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bach-cantatas.com privacy policy that was archived on 2019-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190604232722id_/http%3A//www.bach-cantatas.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bach-cantatas.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209151428id_/https%3A//www.bach-cantatas.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Bach Cantatas Website - Privacy-Policy
 
@@ -13,7 +13,7 @@
   
 The Operators of the Bach Cantatas Website (in this Policy: " **us** ", " **we** " and " **our** ") respects your privacy. This Policy (the “ **Policy** ”) explains our privacy practices for our Services at [www.bach-cantatas.com](http://www.bach-cantatas.com/) and any other related domain names (collectively - the " **Service** " or the “ **Services** ”). It describes the ways your personal information and data is collected and used and the rights and options available to you with respect to your information. 
 
-This Policy is incorporated to the Service's [Terms of Use](https://web.archive.org/web/20190604232722id_/http%3A//www.bach-cantatas.com/Terms-of-Use.htm) (the “ **Terms** ”) and constitutes an integral part of them.  
+This Policy is incorporated to the Service's [Terms of Use](https://web.archive.org/web/20191209151428id_/https%3A//www.bach-cantatas.com/Terms-of-Use.htm) (the “ **Terms** ”) and constitutes an integral part of them.  
   
 ****
 
@@ -126,8 +126,8 @@ We are doing our utmost to comply with this Policy. If you have any questions, c
 **Incorporated documents**  
   
 The following documents, forms and policies are incorporated by reference to Privacy Policy and are part of the Terms. Whenever expressing your consent to the Policy you also acknowledge your consent to these documents, as well:  
-[Terms of Use](https://web.archive.org/web/20190604232722id_/http%3A//www.bach-cantatas.com/Terms-of-Use.htm)  
-[Copyright Policy](https://web.archive.org/web/20190604232722id_/http%3A//www.bach-cantatas.com/Copyright-Policy.htm)  
+[Terms of Use](https://web.archive.org/web/20191209151428id_/https%3A//www.bach-cantatas.com/Terms-of-Use.htm)  
+[Copyright Policy](https://web.archive.org/web/20191209151428id_/https%3A//www.bach-cantatas.com/Copyright-Policy.htm)  
   
 ****
 
