@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the temple.edu privacy policy that was archived on 2019-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190511215116id_/https%3A//www.temple.edu/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temple.edu privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209151524id_/https%3A//www.temple.edu/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Temple University
 
