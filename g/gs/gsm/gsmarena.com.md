@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsmarena.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630083356id_/https%3A//www.gsmarena.com/privacy-policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsmarena.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209162849id_/https%3A//www.gsmarena.com/privacy-policy.php3) for the most accurate reproduction.*
 
 # Privacy Policy - GSMArena.com
 
