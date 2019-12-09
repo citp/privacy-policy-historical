@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pydata.org privacy policy that was archived on 2019-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190405192504id_/https%3A//www.numfocus.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pydata.org privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209035426id_/https%3A//www.numfocus.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NumFOCUS - NumFOCUS
 
@@ -27,17 +27,12 @@ We transmit your personal data to the third parties named below in order to prov
 
   * Cloudflare (U.S.)
   * Eventbrite (U.S.)
-  * Flipcause (U.S.)
+  * Salsa Labs (U.S.)
   * Google (U.S.)
-  * Little Green Light (U.S.)
-  * Mailchimp (U.S.)
   * TypeForm (Spain)
   * WordPress (U.S.)
   * WP Engine (U.S.)
   * Zapier (U.S.)
-  * NumFOCUS Staff (U.S.)
-  * NumFOCUS Committee Members (U.S., U.K., Germany, Poland, The Netherlands, Italy, India, Argentina, France, Spain)
-  * NumFOCUS Board Members (U.S., Belgium, Canada)
 
 
 
@@ -95,9 +90,9 @@ The information you provide us may be archived or stored periodically by us acco
 
 You can do the following at any time by contacting us via email at privacy@numfocus.org:
 
-  * See what data we have about you, if any.
-  * Change/correct any data we have about you.
-  * Have us delete any data we have about you.
+  * Request to see what data we have about you, if any.
+  * Request changes/corrections to any data we have about you.
+  * Request that we delete any data we have about you.
   * Express any concern you have about our use of your data.
 
 
@@ -108,8 +103,8 @@ If you are a registered user, you may access certain information associated with
 
 If you are a resident of the EEA, you have the following data protection rights:
 
-  * If you wish to access, correct, update, or request deletion of your personal data, you can do so at any time by emailing [privacy@numfocus.org](mailto:privacy@numfocus.org). Such requests may or may not be honored, depending upon the specific circumstances of the request, as enumerated in the GDPR.
-  * In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by emailing [privacy@numfocus.org](mailto:privacy@numfocus.org). Such requests may or may not be honored, depending upon the specific circumstances of the request, as enumerated in the GDPR.
+  * If you wish to access, correct, update, or request deletion of your personal data, you can do so at any time by emailing privacy@numfocus.org. Such requests may or may not be honored, depending upon the specific circumstances of the request, as enumerated in the GDPR.
+  * In addition, you can object to the processing of your personal information, ask us to restrict the processing of your personal information, or request portability of your personal information. Again, you can exercise these rights by emailing privacy@numfocus.org. Such requests may or may not be honored, depending upon the specific circumstances of the request, as enumerated in the GDPR.
   * You have the right to opt-out of marketing communications we send you at any time. You can exercise this right by clicking on the “unsubscribe” link in the marketing emails we send you or by emailing privacy@numfocus.org.
   * Similarly, if we have collected and process your personal information with your consent, then you can withdraw your consent at any time.  Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
   * You have the right to complain to a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
@@ -135,11 +130,10 @@ The data controller of your personal information is:
 NumFOCUS, Inc.  
 P.O. Box 90596  
 Austin, TX, USA 78709  
-[info@numfocus.org  
-](mailto:info@numfocus.org)+1 ​(512) 222-5449
+info@numfocus.org+1 ​(512) 222-5449
 
-For the purposes of GDPR, our NumFOCUS representative in the EU is Didrik Pinte, NumFOCUS Treasurer, [dpinte@enthought.com](mailto:dpinte@enthought.com) (Belgium).
+For the purposes of GDPR, our NumFOCUS representative in the EU is Sylvain Corlay, member of the NumFOCUS Board of Directors, sylvain.corlay@gmail.com (France).
 
-July 17, 2018
+UPDATED: November 26, 2019
 
 A history of updates to this privacy policy can be found on GitHub at <https://github.com/numfocus/privacy-policy>.
