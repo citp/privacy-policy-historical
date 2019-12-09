@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paxforex.com privacy policy that was archived on 2019-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190502225450id_/https%3A//paxforex.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paxforex.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209183109id_/https%3A//paxforex.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Refund Policy - PaxForex
 
