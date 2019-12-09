@@ -1,24 +1,20 @@
-<!--The following is the downloaded HTML source of the showtimes.com privacy policy that was archived on 2019-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190415173310id_/https%3A//www.showtimes.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the showtimes.com privacy policy that was archived on 2019-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191209022624id_/https%3A//www.showtimes.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
 <title>Privacy Policy | showtimes.com</title>
 <meta name="description" content="">
-
-
 <meta property="og:title" content="Privacy Policy | showtimes.com">
 <meta property="og:description" content="Showtimes.com - Privacy Policy">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="showtimes.com">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 <meta charset="utf-8">
 <link href="/images/apple-touch-icon-180-precomposed.png" rel="apple-touch-icon-precomposed">
 
-
 	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" type="text/css" rel="stylesheet" media="all">
     <link href="/styles/main.min.css?v=5" type="text/css" rel="stylesheet" property="stylesheet" media="all">
-	<link href="/styles/queries.min.css?v=10" type="text/css" rel="stylesheet" property="stylesheet" media="all">
+	<link href="/styles/queries.min.css?v=3" type="text/css" rel="stylesheet" property="stylesheet" media="all">
 
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -28,39 +24,35 @@
 	<![endif]-->
 
 
-
-
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript">
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-	(function () {
-		var gads = document.createElement("script");
-		gads.async = true;
-		gads.type = "text/javascript";
-		var useSSL = "https:" == document.location.protocol;
-		gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
-		var node = document.getElementsByTagName("script")[0];
-		node.parentNode.insertBefore(gads, node);
-	})();
-</script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script type="text/javascript">
-	var windowWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-	var isIpad = navigator.userAgent.match(/iPad/i) ? true : false;
-	var isDesktopAds = (windowWidth > 779 || isIpad);
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  googletag.cmd.push(function () {
 
-	googletag.cmd.push(function () {
+    var responsivelb = googletag.sizeMapping().
+      addSize([735, 0], [728, 90]). //Desktop and tablet
+      addSize([320, 0], [320, 50]). //mobile
+      build();
 
-		if (isDesktopAds) googletag.defineSlot('/26924457/USD_300x250_ATF_1', [300, 250], 'Desktop_300x250_ATF_1962973599').addService(googletag.pubads());
-		if (!isDesktopAds) googletag.defineSlot('/26924457/USM_300x250_1', [300, 250], 'Mobile_300x250_1455236924').addService(googletag.pubads());
-		if (isDesktopAds) googletag.defineSlot('/26924457/USD_300x250_1', [300, 250], 'Both_300x250_554614347').addService(googletag.pubads());
-		if (!isDesktopAds) googletag.defineSlot('/26924457/USM_300x250_2', [300, 250], 'Both_300x250_554614347').addService(googletag.pubads());
-		if (isDesktopAds) googletag.defineSlot('/26924457/USD_728x90_1', [728, 90], 'Desktop_728x90_782585311').addService(googletag.pubads());
-		if (isDesktopAds) googletag.defineSlot('/26924457/USD_286x90_1', [286, 90], 'Desktop_286x90_849183750').addService(googletag.pubads());
-		if (!isDesktopAds) googletag.defineSlot('/26924457/USM_320x50_ATF_1', [320, 50], 'Mobile_320x50_ATF_39269256').addService(googletag.pubads());
-		googletag.pubads().setTargeting('Section', ['Default']);
-		googletag.pubads().enableSingleRequest();
-		googletag.enableServices();
-	});
+    var responsivebb = googletag.sizeMapping().
+      addSize([735, 0], [, ]). //Desktop and tablet
+      addSize([320, 0], [300, 250]). //mobile
+      build();
+
+      googletag.defineSlot('/26924457/showtimes/ros_leaderboard_atf', [[728, 90], [320, 50]], 'leaderboardatf').defineSizeMapping(responsivelb).addService(googletag.pubads());
+      googletag.defineSlot('/26924457/showtimes/ros_button_atf', [286, 90], 'button').addService(googletag.pubads());
+      googletag.defineSlot('/26924457/showtimes/ros_rec_atf', [300, 250], 'bigboxatf').addService(googletag.pubads());
+      googletag.defineSlot('/26924457/showtimes/ros_rec_btf1', [300, 250], 'bigboxbtf1').addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+  function loadAds(divID) {
+    googletag.cmd.push(function () { googletag.display(divID); });
+  }
+
 </script>
 
 </head>
@@ -81,29 +73,15 @@
 
 <header>
   <div class="ad-placeholder">
-    <div class="leaderboard">
-<div id="Desktop_728x90_782585311">
-	<script type="text/javascript">
-		if (isDesktopAds) googletag.cmd.push(function () { googletag.display('Desktop_728x90_782585311'); });
-	</script>
-</div>
-
+    <div class="leaderboard" id="leaderboardatf">
+      <script type="text/javascript">
+        loadAds('leaderboardatf');
+      </script>
     </div>
-    <div class="internalad">
-<div id="Desktop_286x90_849183750">
-	<script type="text/javascript">
-		if (isDesktopAds) googletag.cmd.push(function () { googletag.display('Desktop_286x90_849183750'); });
-	</script>
-</div>
-
-    </div>
-    <div class="mobilead">
-<div id="Mobile_320x50_ATF_39269256">
-	<script type="text/javascript">
-		if (!isDesktopAds) googletag.cmd.push(function () { googletag.display('Mobile_320x50_ATF_39269256'); });
-	</script>
-</div>
-
+    <div class="internalad" id="button">
+      <script type="text/javascript">
+        loadAds('button');
+      </script>
     </div>
   </div>
   <div class="top-nav">
@@ -127,7 +105,6 @@
         <div class="nav-wrap">
           <div class="collapse navbar-collapse navbar-left" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-              <!--top nenu is not a css class its used for selection from jquery-->
               <li class="hvr-bounce-to-bottom dropdown menufix drop-desk">
                 <a href="/movie-times/" class="dropdown-toggle menufix" data-toggle="dropdown">Theaters &amp; Tickets <b class="caret"></b></a>
                 <ul class="dropdown-menu fadeIn animated">
@@ -154,9 +131,9 @@
                 </ul>
               </li>
               <li class="hvr-bounce-to-bottom dropdown menufix drop-desk">
-                <a href="/movie-trailers/popular/" class="dropdown-toggle menufix" data-toggle="dropdown">Trailers &amp; Videos <b class="caret"></b></a>
+                <a href="/movie-trailers/new-trailers/" class="dropdown-toggle menufix" data-toggle="dropdown">Trailers &amp; Videos <b class="caret"></b></a>
                 <ul class="dropdown-menu fadeIn animated">
-                  <li><a href="/movie-trailers/popular/" tabindex="-1">Movie Trailers</a></li>
+                  <li><a href="/movie-trailers/new-trailers/" tabindex="-1">Movie Trailers</a></li>
                   <li><a href="/celebrity-interviews/" tabindex="-1">Interviews</a></li>
                   <li><a href="/videos/" tabindex="-1">All Videos</a></li>
                 </ul>
@@ -195,9 +172,8 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "item": {
-        "name": "Privacy Policy"
-      }
+      "name": "Privacy Policy",
+      "item": "https://www.showtimes.com/privacy-policy/"
     }
   ]
 }
@@ -423,18 +399,11 @@
 <aside class="col-md-4">
 
   <center>
-<div id="Desktop_300x250_ATF_1962973599">
-	<script type="text/javascript">
-		if (isDesktopAds) googletag.cmd.push(function () { googletag.display('Desktop_300x250_ATF_1962973599'); });
-	</script>
-</div>
-
-<div id="Mobile_300x250_1455236924">
-	<script type="text/javascript">
-		if (!isDesktopAds) googletag.cmd.push(function () { googletag.display('Mobile_300x250_1455236924'); });
-	</script>
-</div>
-
+    <div id="bigboxatf">
+      <script>
+        googletag.cmd.push(function() { googletag.display('bigboxatf'); });
+      </script>
+    </div>
 	</center>
 
 	<div class="widget-box">
@@ -446,39 +415,39 @@
 			<tbody>
 					<tr>
 						<td class="movie">
-							<a href="/news/game-of-thrones-season-8-episode-1-recap-453908/">Game of Thrones Season 8 Episode 1 Recap</a><br>
-							<span>We offer a recap of last night's episode of Game of Thrones. Read it and cast your...</span>
+							<a href="/news/star-wars-rise-of-the-resistance-ride-open-at-disney-world-478292/">Star Wars: Rise of the Resistance ride open at Disney World!</a><br>
+							<span>We were among the first to experience the new ride at Star Wars: Galaxy's Edge at...</span>
 						</td>
 						<td class="news-thumbnail">
 								<div class="tdiv">
-									<a href="/news/game-of-thrones-season-8-episode-1-recap-453908/">
-										<img class="img-responsive border-img" src="https://www.showtimes.com/images/news/2019/04/gotfeature-100x100.jpg" alt="GOTfeature">
+									<a href="/news/star-wars-rise-of-the-resistance-ride-open-at-disney-world-478292/">
+										<img class="img-responsive border-img" src="https://www.showtimes.com/images/news/2019/12/StormTroopers-150x225.jpg" alt="StormTroopers">
 									</a>
 								</div>
 						</td>
 					</tr>
 					<tr>
 						<td class="movie">
-							<a href="/news/shazam-tops-the-box-office-for-second-weekend-in-a-row-453781/">Shazam! tops the box office for second weekend in a row</a><br>
-							<span>DC film Shazam! came in first place for the second weekend at the box office! Click...</span>
+							<a href="/news/game-of-thrones-the-complete-series-and-season-8-now-on-blu-ray-478522/">Game of Thrones: The Complete Series and Season 8 now on Blu-ray</a><br>
+							<span>Game of Thrones: Season 8 and The Complete Series is now available on Blu-ray and DVD...</span>
 						</td>
 						<td class="news-thumbnail">
 								<div class="tdiv">
-									<a href="/news/shazam-tops-the-box-office-for-second-weekend-in-a-row-453781/">
-										<img class="img-responsive border-img" src="https://www.showtimes.com/images/news/2019/04/shazam_xlg-100x100.jpg" alt="shazam_xlg">
+									<a href="/news/game-of-thrones-the-complete-series-and-season-8-now-on-blu-ray-478522/">
+										<img class="img-responsive border-img" src="https://www.showtimes.com/images/news/2019/12/game-of-thrones-complete-collection-100x100.jpg" alt="Game-of-Thrones-Complete-Collection">
 									</a>
 								</div>
 						</td>
 					</tr>
 					<tr>
 						<td class="movie">
-							<a href="/news/david-harbour-is-on-fire-in-hellboy-movie-review-453628/">David Harbour is on fire in Hellboy - movie review</a><br>
-							<span>David Harbour plays the titular character in the new film Hellboy, directed by Neil...</span>
+							<a href="/news/watch-our-exclusive-game-of-thrones-interviews-with-the-cast-478455/">Watch our exclusive Game of Thrones interviews with the cast</a><br>
+							<span>To celebrate the Game of Thrones: Season 8 Blu-ray and DVD release (Dec. 3), we...</span>
 						</td>
 						<td class="news-thumbnail">
 								<div class="tdiv">
-									<a href="/news/david-harbour-is-on-fire-in-hellboy-movie-review-453628/">
-										<img class="img-responsive border-img" src="https://www.showtimes.com/images/news/2019/04/hellboy-135514-100x100.jpg" alt="hellboy-135514">
+									<a href="/news/watch-our-exclusive-game-of-thrones-interviews-with-the-cast-478455/">
+										<img class="img-responsive border-img" src="https://www.showtimes.com/images/news/2019/12/Game-of-THrones-1-150x225.jpg" alt="Game of THrones">
 									</a>
 								</div>
 						</td>
@@ -497,44 +466,43 @@
 
             <tbody><tr>
                 <td class="movie">
-                    <a href="/movie-trailers/after-trailer-20229/">'After' Trailer</a><br>
-                    <span>15,494 views</span>
+                    <a href="/movie-trailers/knives-out-final-trailer-21204/">'Knives Out' Final Trailer</a><br>
+                    <span>45,042 views</span>
                 </td>
                 <td class="movie-thumbnail">
                     <div class="tdiv">
-                        <a href="/movie-trailers/after-trailer-20229/"><img src="https://static2.showtimes.com/video/120x90/after-trailer-135427.jpg" alt="'After' Trailer Video Thumbnail"></a>
+                        <a href="/movie-trailers/knives-out-final-trailer-21204/"><img src="https://static1.showtimes.com/video/120x90/knives-out-final-trailer-141966.jpg" alt="'Knives Out' Final Trailer Video Thumbnail"></a>
                     </div>
                 </td>
             </tr>            <tr>
                 <td class="movie">
-                    <a href="/movie-trailers/shazam-trailer-2-20239/">'Shazam!' Trailer #2</a><br>
-                    <span>36,691 views</span>
+                    <a href="/movie-trailers/dark-waters-trailer-21002/">'Dark Waters' Trailer</a><br>
+                    <span>14,989 views</span>
                 </td>
                 <td class="movie-thumbnail">
                     <div class="tdiv">
-                        <a href="/movie-trailers/shazam-trailer-2-20239/"><img src="https://static1.showtimes.com/video/120x90/shazam-trailer-2-135534.jpg" alt="'Shazam!' Trailer #2 Video Thumbnail"></a>
+                        <a href="/movie-trailers/dark-waters-trailer-21002/"><img src="https://static1.showtimes.com/video/120x90/dark-waters-trailer-140594.jpg" alt="'Dark Waters' Trailer Video Thumbnail"></a>
                     </div>
                 </td>
             </tr>            <tr>
                 <td class="movie">
-                    <a href="/movie-trailers/breakthrough-trailer-20004/">'Breakthrough' Trailer</a><br>
-                    <span>14,961 views</span>
+                    <a href="/movie-trailers/midway-trailer-21166/">'Midway' Trailer</a><br>
+                    <span>89,990 views</span>
                 </td>
                 <td class="movie-thumbnail">
                     <div class="tdiv">
-                        <a href="/movie-trailers/breakthrough-trailer-20004/"><img src="https://static2.showtimes.com/video/120x90/breakthrough-trailer-133551.jpg" alt="'Breakthrough' Trailer Video Thumbnail"></a>
+                        <a href="/movie-trailers/midway-trailer-21166/"><img src="https://static1.showtimes.com/video/120x90/midway-trailer-141742.jpg" alt="'Midway' Trailer Video Thumbnail"></a>
                     </div>
                 </td>
             </tr>    </tbody></table>
 </div>
 
 	<center>
-<div id="Both_300x250_554614347">
-	<script type="text/javascript">
-		googletag.cmd.push(function () { googletag.display('Both_300x250_554614347'); });
-	</script>
-</div>
-
+    <div id="bigboxbtf1">
+      <script>
+        googletag.cmd.push(function() { googletag.display('bigboxbtf1'); });
+      </script>
+    </div>
 	</center>
 
 
@@ -542,28 +510,28 @@
 		<h3>Top Box Office Movies<a href="/movies/box-office/" title="Weekend box office">See All <em class="fa fa-caret-right"></em></a></h3>
 		<table class="table">
 				<tbody><tr>
-					<td class="movie-name"><a href="/movies/shazam-133934/" title="Shazam! Movie Info">Shazam!</a></td>
-					<td class="movie-numbers">$25.14M</td>
+					<td class="movie-name"><a href="/movies/frozen-ii-137321/" title="Frozen II Movie Info">Frozen II</a></td>
+					<td class="movie-numbers">$34.67M</td>
 				</tr>
 				<tr>
-					<td class="movie-name"><a href="/movies/little-136381/" title="Little Movie Info">Little</a></td>
-					<td class="movie-numbers">$15.5M</td>
+					<td class="movie-name"><a href="/movies/knives-out-142612/" title="Knives Out Movie Info">Knives Out</a></td>
+					<td class="movie-numbers">$14.15M</td>
 				</tr>
 				<tr>
-					<td class="movie-name"><a href="/movies/hellboy-133612/" title="Hellboy Movie Info">Hellboy</a></td>
-					<td class="movie-numbers">$12.02M</td>
+					<td class="movie-name"><a href="/movies/ford-v-ferrari-135837/" title="Ford v Ferrari Movie Info">Ford v Ferrari</a></td>
+					<td class="movie-numbers">$6.54M</td>
 				</tr>
 				<tr>
-					<td class="movie-name"><a href="/movies/pet-sematary-135851/" title="Pet Sematary Movie Info">Pet Sematary</a></td>
-					<td class="movie-numbers">$10M</td>
+					<td class="movie-name"><a href="/movies/queen-slim-139253/" title="Queen &amp; Slim Movie Info">Queen &amp; Slim</a></td>
+					<td class="movie-numbers">$6.53M</td>
 				</tr>
 				<tr>
-					<td class="movie-name"><a href="/movies/dumbo-133255/" title="Dumbo Movie Info">Dumbo</a></td>
-					<td class="movie-numbers">$9.19M</td>
+					<td class="movie-name"><a href="/movies/a-beautiful-day-in-the-neighborhood-137322/" title="A Beautiful Day in the Neighborhood Movie Info">A Beautiful Day in the Neighborhood</a></td>
+					<td class="movie-numbers">$5.2M</td>
 				</tr>
 				<tr>
-					<td class="movie-name"><a href="/movies/captain-marvel-122552/" title="Captain Marvel Movie Info">Captain Marvel</a></td>
-					<td class="movie-numbers">$8.63M</td>
+					<td class="movie-name"><a href="/movies/dark-waters-145484/" title="Dark Waters Movie Info">Dark Waters</a></td>
+					<td class="movie-numbers">$4.1M</td>
 				</tr>
 		</tbody></table>
 	</div>
@@ -652,7 +620,7 @@
 			<div class="col-md-6 col-sm-6 col-xs-12 foot-note text-left">
 				<p>
 					Copyright © 2019 Tribute Ent. Media Group<br>
-					Last Updated: April 15, 2019
+					Last Updated: December 8, 2019
 				</p>
 			</div>
 			<div class="col-md-6 col-sm-6 col-xs-12 foot-note text-right">
@@ -689,7 +657,7 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
     <script src="/scripts/ui.min.js?v=1"></script>
 	<script src="/scripts/jquery.matchHeight.min.js"></script>
-	<script src="/scripts/main.min.js?v=7"></script>
+	<script src="/scripts/main.min.js?v=6"></script>
 	<link href="/styles/print.min.css" type="text/css" rel="stylesheet" media="print"> 
 
 	
