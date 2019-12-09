@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturesocial.com privacy policy that was archived on 2019-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190331104828id_/https%3A//www.picturecorrect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturesocial.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209115800id_/https%3A//www.picturecorrect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - PictureCorrect
 
