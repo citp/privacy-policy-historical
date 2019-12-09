@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2019-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190526095453id_/http%3A//www.qrz.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210005959id_/http%3A//www.qrz.com/page/privacy.html) for the most accurate reproduction.*
 
 # privacy by QRZ Ham Radio
 
