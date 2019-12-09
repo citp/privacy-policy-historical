@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fdmgroup.com privacy policy that was archived on 2019-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190508113307id_/https%3A//www.fdmgroup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fdmgroup.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209072640id_/https%3A//www.fdmgroup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Recruit, Train, Deploy | FDM Group
 
@@ -10,7 +10,7 @@ FDM Group Limited, Cottons Centre, Cottons Lane, London, SE1 2QG, UK
 
 Tel: +44 (0) 203 056 8240 [www.fdmgroup.com](http://www.fdmgroup.com/)
 
-Our Data Protection Officer can be contacted via email [DPO@FDMGroup.com](mailto:DPO@FDMGroup.com) or Tel: 02030568267
+Our Data Protection Officer can be contacted via email [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#a3e7f3ece3e5e7eee4d1ccd6d38dc0ccce) or Tel: 02030568267
 
 **What information do we collect about you?**
 
@@ -48,7 +48,7 @@ FDM Group is a global business, but your personal data is held in the EU and man
 
 **What can you do if you are not happy with the way we have processed your information?**
 
-Should you feel this is the case please contact our Data Protection Officer at [DPO@FDMGroup.com](mailto:DPO@FDMGroup.com) or 02030568267. You have the right to lodge a complaint with the UK supervisory authority the Information Commissioner’s Office.
+Should you feel this is the case please contact our Data Protection Officer at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#5e1a0e111e181a13192c312b2e703d3133) or 02030568267. You have the right to lodge a complaint with the UK supervisory authority the Information Commissioner’s Office.
 
 **Changes to our privacy policy**
 
