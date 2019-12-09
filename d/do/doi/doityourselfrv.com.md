@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doityourselfrv.com privacy policy that was archived on 2019-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190531223239id_/http%3A//www.doityourselfrv.com/about-us/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doityourselfrv.com privacy policy that was archived on 2019-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191210000611id_/http%3A//www.doityourselfrv.com/about-us/disclosure) for the most accurate reproduction.*
 
 # Privacy Policy | RV Mods - RV Guides - RV Tips | DoItYourselfRV
 
