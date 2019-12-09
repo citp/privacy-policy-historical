@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arkaybeverages.com privacy policy that was archived on 2018-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20180915084421id_/https%3A//arkaybeverages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkaybeverages.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209041913id_/https%3A//arkaybeverages.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - ArKay Beverages - United States
 
 We endeavor to protect your personal privacy. We provide this Privacy Policy to help you to understand what we may do with any personal information that we obtain from you. By providing your personal information to us, you signify your acceptance of our Privacy Policy and agree that we may collect, use and disclose your personal information as described in this Privacy Policy (“Policy”). All references to ‘our’, ‘us’, ‘we’ or ‘company’ within this Policy are deemed to refer to ArKayBeverages.com and its subsidiaries, affiliates and associates (collectively, “Arkay”).
 
@@ -41,6 +41,8 @@ We use a third party to send promotional e-mails to customers. Images contained 
 
 **Website Analysis Agent**  
 We may contract with several online partners to help manage and optimize our Internet business and marketing. We use the services of marketing companies to help us measure the effectiveness of our advertising and how visitors use our Website. To do this, we use action tags and cookies provided by the marketing companies on this site. Although the marketing companies log the information coming from our Website on our behalf, we control how that data may and may not be used.
+
+By using this website you agree and consent that your purchase order and choice of products, your  gender, your name , your address, your e-mail address and phone number may be used for analytics and that the information collected by Arkay Beverages shall be shared with Google Inc.
 
 **Marketing Partners, Co-Branded Services, Framing/Windows on Third-Party Sites**  
 We may run promotions for merchants where you may visit the merchants’ sites. In some of those promotions, a window or frame containing the merchant’s site may appear. Any time you are in a window, you should assume that your personal information is being collected, used and disclosed in accordance with that merchant’s policies. This Privacy Policy does not apply to information that you supply to those merchants. Any information that you share with them will be used and disclosed in accordance with that merchant’s privacy policy.
@@ -83,7 +85,7 @@ ArKaybeverages.com is not responsible for the policies or practices of third par
 
 On behalf of various sponsors, ArKaybeverages.com provides sponsored links to third party web sites. If you click on a sponsored link or banner ad, a “window” or “frame” containing a third party’s web site may appear in the foreground with the Website in the background. Unless you are on the Website, any time that you have moved to a window, you should assume that your personal information is being collected, used and disclosed in accordance with the windowed site’s privacy policy (if any).
 
-The Network Advertising Initiative (NAI) is a self-regulatory cooperative of online marketing and analytics companies. The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices. Through the NAI’s online options, you may opt out of particular NAI network members’ behavioral advertising programs or you may opt out of all NAI network members’ programs. Opting out will prevent the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads. The NAI opt-out only works with participating third party advertising networks that use cookies and Web beacons to execute their advertising initiatives. If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the NAI website at <http://www.networkadvertising.org/index.asp>.
+The Network Advertising Initiative (NAI) is a self-regulatory cooperative of online marketing and analytics companies. The NAI provides educational content and opt-out tools to help Internet users learn about and address online behavioral marketing practices. Through the NAI’s online options, you may opt out of particular NAI network members’ behavioral advertising programs or you may opt out of all NAI network members’ programs. Opting out will prevent the given network from which you opted out from using your Web preferences and usage patterns to deliver targeted online ads. The NAI opt-out only works with participating third party advertising networks that use cookies and Web beacons to execute their advertising initiatives. If you would like additional information about online behavioral marketing and your options regarding these standard Internet practices, please visit the NAI website at [http://www.networkadvertising.org/index.asp](https://www.networkadvertising.org/index.asp).
 
 ### Security Measures
 
@@ -95,13 +97,13 @@ The transmission of information via the Internet is not completely secure. We wi
 
 ### What Are Your Choices Regarding Collection, Use, And Distribution Of Your Information?
 
-You may “opt-out,” or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us, or sent on our behalf, or by sending an e-mail to [unsubscribe@ArkayBeverages.com](mailto:unsubscribe@ArkayBeverages.com)
+You may “opt-out,” or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us, or sent on our behalf, or by sending an e-mail to [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#cfbaa1bcbaadbcacbda6adaa8f8ebda4aeb68daab9aabdaea8aabce1aca0a2)
 
 **Please Note:**  If you agree to receive e-mails from any of our third party service providers or any third party merchants on our site, you will receive e-mails separately from them, and information that you choose to disclose to them will be subject to the privacy policy of each. If you later decide that you no longer want to receive their e-mails, you will need to follow their own specific opt-out instructions.
 
 ### A Special Note About Children’s Privacy
 
-You must be at least 18 years old to use this Website. Our policy is that we do not knowingly collect, use or disclose personally identifiable information about visitors under 18 years of age. If you are the parent or guardian of a child under 18 years of age and believe that they have disclosed personally identifiable information to us, please contact us at [privacy@ArkayBeverages.com](mailto:privacy@ArkayBeverages.com) so that we may delete the information.
+You must be at least 18 years old to use this Website. Our policy is that we do not knowingly collect, use or disclose personally identifiable information about visitors under 18 years of age. If you are the parent or guardian of a child under 18 years of age and believe that they have disclosed personally identifiable information to us, please contact us at [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#2454564d5245475d6465564f455d6641524156454341570a474b49) so that we may delete the information.
 
 ### Privacy Policy Changes
 
@@ -111,4 +113,4 @@ This Policy was last changed on June 1, 2017. If ArKaybeverages.com makes change
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact ArKaybeverages.com by sending a email to:
 
-**Attn:**  Privacy Compliance Officer [privacy@ArkayBeverages.com](mailto:privacy@ArkayBeverages.com)
+**Attn:**  Privacy Compliance Officer [[email protected]](https://web.archive.org/cdn-cgi/l/email-protection#1c6c6e756a7d7f655c5d6e777d655e796a796e7d7b796f327f7371)
