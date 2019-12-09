@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxx.com.au privacy policy that was archived on 2019-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190509222148id_/http%3A//www.lionco.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxx.com.au privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209044655id_/http%3A//www.lionco.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Lion
 
