@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imgbin.com privacy policy that was archived on 2019-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190513043058id_/https%3A//imgbin.com/doc_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgbin.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209185452id_/https%3A//imgbin.com/doc_privacy) for the most accurate reproduction.*
 
 # IMGBIN Privacy Policy
 
@@ -29,11 +29,11 @@ If you create an account, we require some basic information at the time of accou
 User Personal Information does not include aggregated, non-personally identifying information. We may use aggregated, non-personally identifying information to operate, improve, and optimize our website and service. 
 
 **Why do we collect this?**   
-   **▶** We need your User Personal Information to create your account, and to provide the services you request.   
-   **▶** We use your User Personal Information, specifically your user name, to identify you on IMGBIN.   
-   **▶** We use it to fill out your profile and share that profile with other users if you ask us to.   
-   **▶** We will use your email address to communicate with you, if you've said that's okay, and only for the reasons you’ve said that’s okay. Please see our section on email communication for more information.   
-   **▶** We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile. 
+   **•** We need your User Personal Information to create your account, and to provide the services you request.   
+   **•** We use your User Personal Information, specifically your user name, to identify you on IMGBIN.   
+   **•** We use it to fill out your profile and share that profile with other users if you ask us to.   
+   **•** We will use your email address to communicate with you, if you've said that's okay, and only for the reasons you’ve said that’s okay. Please see our section on email communication for more information.   
+   **•** We limit our use of your User Personal Information to the purposes listed in this Privacy Statement. If we need to use your User Personal Information for other purposes, we will ask your permission first. You can always see what information we have, how we're using it, and what permissions you have given us in your user profile. 
 
 What information IMGBIN does not collect
 
@@ -95,10 +95,10 @@ We provide the same standard of privacy protection to all our users around the w
 
 In particular: 
 
-   **▶** IMGBIN provides clear methods of unambiguous, informed consent at the time of data collection, when we do collect your personal data.   
-   **▶** We collect only the minimum amount of personal data necessary, unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.   
-   **▶** We offer you simple methods of accessing, correcting, or deleting the data we have collected.   
-   **▶** We provide our users notice, choice, accountability, security, and access, and we limit the purpose for processing. We also provide our users a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices. 
+   **•** IMGBIN provides clear methods of unambiguous, informed consent at the time of data collection, when we do collect your personal data.   
+   **•** We collect only the minimum amount of personal data necessary, unless you choose to provide more. We encourage you to only give us the amount of data you are comfortable sharing.   
+   **•** We offer you simple methods of accessing, correcting, or deleting the data we have collected.   
+   **•** We provide our users notice, choice, accountability, security, and access, and we limit the purpose for processing. We also provide our users a method of recourse and enforcement. These are the Privacy Shield Principles, but they are also just good practices. 
 
 Resolving Complaints
 
