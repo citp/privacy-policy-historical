@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadfiles.io privacy policy that was archived on 2019-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190624024023id_/https%3A//uploadfiles.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadfiles.io privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209040338id_/https%3A//uploadfiles.io/privacy) for the most accurate reproduction.*
 
 # Uploadfiles.io - Privacy Policy
 
@@ -13,6 +13,10 @@ Like many other Web sites, Uploadfiles.io makes use of log files. These files me
 ## Cookies and Web Beacons
 
 Uploadfiles.io uses cookies to store information about visitors' preferences, to record user-specific information on which pages the site visitor accesses or visits, and to personalise or customise our web page content based upon visitors' browser type or other information that the visitor sends via their browser. 
+
+## Apple ITP
+
+This site uses cookies and similar tracking technologies such as the Common ID cookie to provide its services. Cookies are important devices for measuring advertising effectiveness and ensuring a robust online advertising industry. The Common ID cookie stores a unique user id in the first party domain and is accessible to our ad partners. This simple ID that can be utilized to improve user matching, especially for delivering ads to iOS and MacOS browsers. Users can opt out of the Common ID tracking cookie.
 
 ## DoubleClick DART Cookie
 
