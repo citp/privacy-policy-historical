@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the screenr.com privacy policy that was archived on 2019-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190630031740id_/https%3A//articulate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenr.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209070009id_/https%3A//articulate.com/privacy) for the most accurate reproduction.*
 
 # Articulate Privacy Policy
 
-This Privacy Policy was last updated effective June 14, 2018.
+This Privacy Policy was last updated effective December 6, 2019.
 
 We are Articulate Global, Inc. ("Articulate") of 244 5th Avenue, Suite 2960, New York, NY 10001, USA. All references to "we", "us", or "our" shall be construed to mean Articulate.
 
@@ -58,6 +58,8 @@ Marketing Partners for Purposes of Re-Marketing. We may share your information w
 
 Your California Privacy Rights. Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to the email address provided in our contact information below and include the phrase "California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
+Your Nevada Privacy Rights. Under Nevada Law SB 220, Nevada consumers may submit a do-not-sell request of their personal information. Articulate does not sell the personal information of our customers. In accordance with the law, if you wish to submit a do-not-sell request, please do so by contacting us at [privacy@articulate.com](mailto:privacy@articulate.com) with the phrase “Nevada Privacy Request” in the subject line.
+
 ### Cookies and Opt-Out Procedures
 
 Articulate may automatically collect Usage Data through the use of "cookies." Cookies are small text files a website uses to recognize repeat users, facilitate the user’s ongoing access to the site, and facilitate the use of the site. "Cookies" also allow a site to track usage behavior and compile site-usage information that will allow for the improvement of content.
@@ -108,13 +110,16 @@ Articulate may automatically collect Usage Data through the use of "cookies." Co
 .articulate.com | __ar_v4 | Google DoubleClick - used to track conversion rates for ads. | 5 years  
 .articulate.com | __stripe_mid | Stripe - used to aid in fraud detection for purchases. | 1 year  
 .articulate.com | __stripe_sid | Stripe - used to aid in fraud detection for purchases. | 30 minutes  
-.articulate.com | _articulate_session_id | Enables single sign on across all Articulate applications. | 6 months  
+.articulate.com | _articulate_session_id | Enables single sign on across all Articulate applications. | 6 months (Note: We are no longer placing this cookie. They'll persist until expiration for existing users.)  
 .articulate.com | _articulate_user_email | Used for commenting in Review 360 | Cookie is removed when user logs out, browser is closed, or idle session times out.  
+.articulate.com | _articulate_user_id | Session-level cookie used to enable single sign-on across all Articulate apps. | Cookie is removed when user logs out or when their Okta session is expired.  
+.articulate.com | _articulate_username_prefill | Session-level cookie used to prefill username on id.articulate.com. | Cookie is removed when user logs out or browser is closed.  
 .articulate.com | _dc_gtm_UA-68728-1 | Google Tag Manager - logs detailed application usage data in Google Analytics. | 5 hours  
 .articulate.com | _ga | Google Analytics - logs application usage data in Google Analytics. | 2 years  
 .articulate.com | _gat_UA-68728-1 | Google Analytics - used to throttle request rate. | 1 minute  
 .articulate.com | _gid | Google Analytics - used to distinguish users. | 24 hours  
 .articulate.com | _mkto_trk | Marketo - allows a website to link visitor behavior to the recipient of an email marketing campaign, to measure campaign effectiveness. | 2 years  
+.articulate.com | _post_widget_path | Returns user to their original location after registering or resetting their password via id.articulate.com | 7 days or upon return from completed login, registration, or forgot password flows.  
 .articulate.com | _uetsid | Bing Ads - universal event tracking ID used to advertise via Bing. | 30 minutes  
 .articulate.com | _vis_opt_exp_EXPERIMENT_ID_combi | VWO - used for A/B testing and generated when user reaches a particular combination to ensure user continues to see same variation on future visits. | 100 days (Note: We are no longer placing this cookie. They'll persist until expiration for existing users.)  
 .articulate.com | _vis_opt_exp_EXPERIMENT_ID_exclude | VWO - used for A/B testing and generated when a user has been excluded from a campaign. | 100 days (Note: We are no longer placing this cookie. They'll persist until expiration for existing users.)  
@@ -126,6 +131,8 @@ Articulate may automatically collect Usage Data through the use of "cookies." Co
 .articulate.com | _vwo_uuid_v2 | VWO - used for A/B testing to analyze unique website visits via dynamic sampling. | 1 year (Note: We are no longer placing this cookie. They'll persist until expiration for existing users.)  
 .articulate.com | cookiesEnabled | Stores whether the browser has cookies enabled. | Cookie is removed when user logs out, browser is closed, or idle session times out  
 .articulate.com | country_code | Stores the 3-character country code for the website visitor. | Cookie is removed when user logs out, browser is closed, or idle session times out.  
+.articulate.com | intercom-id-[app_id] | This is an Intercom cookie that enables Intercom live chat when a visitor is on our website. | 9 months  
+.articulate.com | intercom-session-[app_id] | This is an Intercom session cookie that is used to track user sessions and store user conversation data. | 1 week  
 .articulate.com | locale | Identifies the region of the visitor. | Cookie is removed when user logs out, browser is closed, or idle session times out.  
 .blogs.articulate.com | _dc_gtm_UA-68728-1 | Google Tag Manager - logs detailed application usage data in Google Analytics. | 5 hours  
 .blogs.articulate.com | _ga | Google Analytics - logs application usage data in Google Analytics. | 2 years  
@@ -135,6 +142,14 @@ Articulate may automatically collect Usage Data through the use of "cookies." Co
 .community.articulate.com | _ga | Google Analytics - logs application usage data in Google Analytics. | 2 years  
 .community.articulate.com | _gat_UA-68728-1 | Google Analytics - used to throttle request rate. | 1 minute  
 .community.articulate.com | _gid | Google Analytics - used to distinguish users. | 24 hours  
+.id.articulate.com | ADRUM_BT1 | This is an AppDynamics server cookie that provides performance data to Okta for troubleshooting and service-level agreement compliance. It does not store or process PII. | < 1 min  
+.id.articulate.com | ADRUM_BTa | This is an AppDynamics server cookie that provides performance data to Okta for troubleshooting and service-level agreement compliance. It does not store or process PII. | < 1 min  
+.id.articulate.com | DT | This is an Okta cookie that is used for device-based and time-based, multi-factor identification on id.articulate.com. | 1 year 11 months 13 days  
+.id.articulate.com | JSESSIONID | This is an Okta session cookie that is used to track user sessions. | Cookie is removed when user logs out or browser is closed.  
+.id.articulate.com | oktaStateToken | This is an Okta cookie that supports users on the Articulate custom login page at id.articulate.com. | 4 min  
+.id.articulate.com | proximity_{identifier} | This is an Okta cookie that enables an anti-phishing security image on id.articulate.com. | 11 months 13 days  
+.id.articulate.com | sid | This is an Okta session cookie that enables single sign-on across all Articulate apps. | Cookie is removed when user logs out or browser is closed.  
+.id.articulate.com | t | This is an Okta cookie that supports user interface themes on id.articulate.com. | Cookie is removed when user logs out or browser is closed.  
 360.articulate.com | AWSELB | Amazon Web Services Elastic Load Balancing - used to map the session to the instance. | Cookie is removed when user logs out, browser is closed, or idle session times out.  
 360.articulate.com | __ar_v4 | Google DoubleClick - used to track conversion rates for ads. | 5 years  
 360.articulate.com | __distillery | Wistia - used for stats tracking on Wistia video views across multiple sessions and/or page loads. | 1 year  
@@ -176,9 +191,9 @@ You may refuse to accept cookies by activating the setting on your browser which
 
 ### Remarketing
 
-Articulate uses 3rd party vendor remarketing tracking cookies and pixels, including the Google Adwords tracking cookie and the Adroll tracking pixel. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN) and through Adroll’s network for remarketing. The third-party vendors, including Google, will place cookies on web browsers in order to serve ads based on past visits to our website. This allows us to make special offers and continue to market our products to those who have shown interest in them. **We do not remarket to users in the European Union**.
+Articulate uses 3rd party vendor remarketing tracking cookies and pixels, including the Google Adwords tracking cookie and the NextRoll tracking pixel. This means we will continue to show ads to you across the internet, specifically on the Google Content Network (GCN) and through NextRoll’s network for remarketing. The third-party vendors, including Google, will place cookies on web browsers in order to serve ads based on past visits to our website. This allows us to make special offers and continue to market our products to those who have shown interest in them. **We do not remarket to users in the European Union**.
 
-You may opt-out of Google’s use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/). You can opt-out of Adroll’s remarketing by visiting the [Your Ad Choices website](http://youradchoices.com/control). Also, you can opt out of other third-party use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
+You may opt-out of Google’s use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/ads/preferences/). You can opt-out of NextRoll’s remarketing by visiting the [Your Ad Choices website](https://youradchoices.com/control). Also, you can opt out of other third-party use of cookies by visiting the [Network Advertising Initiative opt-out page](http://optout.networkadvertising.org/).
 
 ### Analytics
 
@@ -198,15 +213,15 @@ We may decline a request for access to or correction of PII in circumstances pre
 
 In addition, you may: (i) request access to and rectification or erasure of your PII, (ii) request restriction of processing your PII, and (iii) withdraw your consent at any time. If you provide a notice to us regarding your exercise any of the above rights, we will forward your notice to other authorized parties which are holding and processing your PII, where appropriate.
 
-Privacy Shield Notice for Users in the European Union and Switzerland
+Privacy Shield Notice for Users in the European Union, United Kingdom, and Switzerland
 
-Articulate Global, Inc. complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and the United Kingdom and/or Switzerland to the United States. Articulate Global, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU and Swiss individuals received pursuant to the EU-US Privacy Shield and Swiss-U.S. Privacy Shield, Articulate Global, Inc. is potentially liable. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
+Articulate Global, Inc. complies with the EU-U.S. Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union, the United Kingdom and/or Switzerland to the United States. Articulate Global, Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. In cases of onward transfer to third parties of data of EU, United Kingdom, and Swiss individuals received pursuant to the EU-US Privacy Shield and Swiss-U.S. Privacy Shield, Articulate Global, Inc. is potentially liable. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit [www.privacyshield.gov](https://www.privacyshield.gov/).
 
-In compliance with the EU-US and Swiss-U.S. Privacy Shield Principles, Articulate Global, Inc. commits to resolve complaints about our collection or use of your personal information. EU and Swiss Individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Articulate Global, Inc. at [privacy@articulate.com](mailto:privacy@articulate.com).
+In compliance with the EU-US and Swiss-U.S. Privacy Shield Principles, Articulate Global, Inc. commits to resolve complaints about our collection or use of your personal information. EU, United Kingdom, and Swiss individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Articulate Global, Inc. at [privacy@articulate.com](mailto:privacy@articulate.com).
 
-Articulate Global, Inc. has further committed to refer unresolved Privacy Shield complaints to the EU Data Protection Authorities and/or the Swiss Federal Data Protection and Information Commissioner (FDPIC). Contact details for the EU data protection authorities can be found at [http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm). Contact details for the Swiss Federal Data Protection and Information Commissioner can be found at [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/task.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/task.html). Articulate Global, Inc. will cooperate with the appropriate EU Data Protection Authorities and/or the Swiss Federal Data Protection and Information Commissioner during investigation and resolution of complaints brought under Privacy Shield. These recourse mechanisms are available at no cost to you.
+Articulate Global, Inc. has further committed to refer unresolved Privacy Shield complaints to the EU Data Protection Authorities, United Kingdom Information Commissioner, and/or the Swiss Federal Data Protection and Information Commissioner (FDPIC). Contact details for the EU data protection authorities can be found at [https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm](https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm). Contact details for the United Kingdom Information Commissioner can be found at [https://ico.org.uk/](https://ico.org.uk/). Contact details for the Swiss Federal Data Protection and Information Commissioner can be found at [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/task.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/task.html).
 
-The Federal Trade Commission has jurisdiction over Articulate Global, Inc.'s compliance with this Policy and the EU-US Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework. As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel to be created jointly by the US Department of Commerce and the European Commission and/or the Swiss Federal Data Protection and Information Commissioner (FDPIC).
+Articulate Global, Inc. will cooperate with the appropriate EU Data Protection Authorities, United Kingdom Information Commissioner and/or the Swiss Federal Data Protection and Information Commissioner during investigation toward the resolution of complaints brought under Privacy Shield. These recourse mechanisms are available at no cost to you. The Federal Trade Commission has jurisdiction over Articulate Global, Inc.'s compliance with this Policy and the EU-US Privacy Shield Framework and Swiss-U.S. Privacy Shield Framework. As a last resort, privacy complaints that remain unresolved after pursuing these and other channels may be subject to binding arbitration before the Privacy Shield Panel to be created jointly by the US Department of Commerce, the European Commission, the United Kingdom Information Commissioner, and/or the Swiss Federal Data Protection and Information Commissioner (FDPIC).
 
 ### International Transfers
 
