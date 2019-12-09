@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenhub.com privacy policy that was archived on 2019-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20190322164937id_/https%3A//www.zenhub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenhub.com privacy policy that was archived on 2019-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20191209183218id_/https%3A//www.zenhub.com/privacy-policy) for the most accurate reproduction.*
 
 # ZenHub Privacy Policy
 
