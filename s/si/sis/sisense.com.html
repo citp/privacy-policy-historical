@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sisense.com privacy policy that was archived on 2019-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20190623105646id_/https%3A//www.sisense.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sisense.com privacy policy that was archived on 2019-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20191209062853id_/https%3A//www.sisense.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
 <meta charset="UTF-8">
@@ -17,6 +17,10 @@
 <title>Privacy Policy | Sisense</title>
 <link rel="alternate" hreflang="en" href="https://www.sisense.com/privacy-policy/">
 <link rel="alternate" hreflang="de" href="https://www.sisense.com/de/privacy-policy/">
+<link rel="alternate" hreflang="fr" href="https://www.sisense.com/fr/privacy-policy/">
+<link rel="alternate" hreflang="ja" href="https://www.sisense.com/ja/privacy-policy/">
+<link rel="alternate" hreflang="en-gb" href="https://www.sisense.com/en-gb/privacy-policy/">
+<link rel="alternate" hreflang="en-au" href="https://www.sisense.com/en-au/privacy-policy/">
 
 <link rel="canonical" href="https://www.sisense.com/privacy-policy/">
 <link rel="publisher" href="https://plus.google.com/107992045240342264692">
@@ -41,156 +45,15 @@
 
 <link rel="dns-prefetch" href="//cdn.sisense.com">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="sisense-style-css" href="https://cdn.sisense.com/dotcom/build/app.3984148c.css?ver=5.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.sisense.com/wp/wp-includes/css/dist/block-library/style.min.css?ver=5.3" type="text/css" media="all">
+<link rel="stylesheet" id="lazysizes-fadein-style-css" href="https://www.sisense.com/app/plugins/lazysizes/css/lazysizes.fadein.css?ver=5.0.0" type="text/css" media="all">
+<link rel="stylesheet" id="sisense-style-css" href="https://cdn.sisense.com/dotcom/build/app.291d1f1e.css?ver=5.3" type="text/css" media="all">
+<script type="text/javascript" src="https://www.sisense.com/app/plugins/lazysizes/js/lazysizes.js?ver=5.0.0"></script>
+<script type="text/javascript" src="https://www.sisense.com/app/plugins/lazysizes/js/lazysizes.unveilhooks.js?ver=5.0.0"></script>
 <link rel="https://api.w.org/" href="https://www.sisense.com/wp-json/">
 <link rel="alternate" type="application/json+oembed" href="https://www.sisense.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sisense.com%2Fprivacy-policy%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.sisense.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sisense.com%2Fprivacy-policy%2F&amp;format=xml">
- <script type="text/javascript">
-        window.abm = {
-            fetched:                 false,
-            error:                   false,
-            data:                    {},
-            redirectOptions:         [],
-            customizations:          {},
-            getAbmData:                    function getAbmData(callback) {
-                var xmlHttp                = new XMLHttpRequest();
-                xmlHttp.onreadystatechange = function () {
-                    if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
-                        callback(xmlHttp.responseText);
-                };
-                xmlHttp.open("GET", "https://api.company-target.com/api/v2/ip.json"
-                    + "?key=87e9b7b3964fe03ce56d0a6c158cb96a", true); // true for asynchronous
-                xmlHttp.send(null);
-            },
-            getVisitorData:                function getVisitorData(key, cb) {
-                var _this = this;
-                try {
-                    if (this.fetched) {
-                        if (typeof this.data.watch_list === "undefined")
-                            this.data.watch_list = {};
-                        cb(this.data[key]);
-                    }
-                    else
-                        setTimeout(function () {
-                            _this.getVisitorData(key, cb)
-                        }, 30);
-                } catch (e) {
-                    return null;
-                }
-            },
-            /**
-             *
-             *  Override ABM value for admin previews
-             *
-             * @param key
-             * @param val
-             */
-            overrideAbmValue:              function overrideAbmValue(key, val) {
-                this.getVisitorData('demandbase_sid', function () {
-                    if (key.indexOf('.') !== -1)
-                        window.abm.data[key.split('.')[0]][key.split('.')[1]] = val;
-                    else
-                        window.abm.data[key] = val;
-                });
-            },
-            /**
-             *
-             */
-            personalizationRedirect:       function personalizationRedirect() {
-                var _this      = this;
-                var foundMatch = false;
-                if (window.abm.data.marketing_alias === "Sisense")
-                    return;
-                window.abm.redirectOptions.forEach(function (redirect) {
-                    var matches = redirect.pattern.test(_this.normalizeValue(_this.backwardsCompatibleGetAbmData(redirect.property)));
-                    if (matches && !foundMatch) {
-                        foundMatch                                                  = true;
-                        document.querySelector('#transition-overlay').style.display = 'block';
-                        var qs                                                      = (window.location.search.indexOf('?') === -1) ? "?rtp=true" : "?rtp=true&" + window.location.search.substring(1, window.location.search.length);
-                        window.location                                             = redirect.url + qs;
-                    }
-                });
-            },
-            /**
-             *
-             * @param key
-             * @returns {*}
-             */
-            backwardsCompatibleGetAbmData: function backwardsCompatibleGetAbmData(key) {
-                if (!window.abm.fetched)
-                    return null;
-                var reference = {
-                    abmIndustry:      "industry",
-                    abmWatchList:     "watch_list.abx_advertising",
-                    abmCompanyCustom: "watch_list.company_commercial_name",
-                };
-                if (typeof reference[key] !== "undefined")
-                    key = reference[key];
-                return (key.indexOf('.') !== -1) ? window.abm.data[key.split('.')[0]][key.split('.')[1]] : window.abm.data[key];
-            },
-
-            /**
-             *
-             * @param val
-             * @returns {string}
-             */
-            normalizeValue: function normalizeValue(val) {
-                return String(val)
-                    .toLowerCase()
-                    .replace(/ /g, '')
-                    .replace(/-/g, '')
-                    .replace(/_/g, '');
-            },
-
-            /**
-             *
-             * @param id
-             */
-            showMatchedVariation: function showMatchedVariation(id) {
-                if (window.location.search.indexOf('personalize=false') > -1)
-                    return;
-                var _this = this;
-                try {
-                    this.getVisitorData('demandbase_sid', function () {
-                        if (!_this.backwardsCompatibleGetAbmData('watch_list.company_commercial_name'))
-                            return;
-                        var foundMatch = false;
-                        var variations = abm.customizations[id];
-                        for (var i = 0; i < variations.length; i++) {
-                            if (!foundMatch) {
-                                var testVal = _this.backwardsCompatibleGetAbmData(variations[i]['attribute_name']);
-                                var pattern = new RegExp(_this.normalizeValue(variations[i]['regex']), 'i');
-                                if (testVal && pattern.test(_this.normalizeValue(testVal))) {
-                                    foundMatch                                                          = true;
-                                    //found match, display the variation
-                                    document.querySelector('.rtp-string-customization-' + id).innerHTML = variations[i]['variation_html']
-                                        .replace(/{{abmCompanyCustom}}/g, _this.backwardsCompatibleGetAbmData('watch_list.company_commercial_name'))
-                                        .replace(/{{company_commercial_name}}/g, _this.backwardsCompatibleGetAbmData('watch_list.company_commercial_name'))
-                                        .replace(/{{industry}}/g, _this.backwardsCompatibleGetAbmData('industry'));
-                                }
-                            }
-                        }
-                    });
-                } catch (e) {
-                    console.log("could not display customization for id", id);
-                }
-            }
-
-        };
-        (function () {
-            try {
-                abm.getAbmData(function (response) {
-                    window.abm.fetched = true;
-                    window.abm.error   = false;
-                    window.abm.data    = JSON.parse(response);
-                });
-            } catch (e) {
-                window.abm.fetched = false;
-                window.abm.error   = true;
-            }
-        })();
-    </script>
-<script type="text/javascript">window.SISENSE_ALGOLIA_INDEX = "prod_UNIFIED_SEARCH";</script><style type="text/css"></style> 
+<meta name="generator" content="Site Kit by Google 1.1.1"><script type="text/javascript">window.SISENSE_ALGOLIA_INDEX = "prod_UNIFIED_SEARCH";</script><style type="text/css"></style> 
 <script type="text/javascript">
             var _vwo_code       = (function () {
                 var account_id          = 321502,
@@ -236,7 +99,7 @@
                 };
             }());
             _vwo_settings_timer = _vwo_code.init();
-        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=321502&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20190623105646id_%2Fhttps%3A%2F%2Fwww.sisense.com%2Fprivacy-policy%2F&amp;r=0.4018688749777606" type="text/javascript"></script>
+        </script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=321502&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20191209062853id_%2Fhttps%3A%2F%2Fwww.sisense.com%2Fprivacy-policy%2F&amp;r=0.9212894692247002" type="text/javascript"></script>
 
 <script type="text/javascript">
             /*jslint browser: true*/
@@ -268,18 +131,6 @@
 </div>
 <div class="whenRendered"></div>
 <form id="mktoForm_680"></form>
-<p class="thePrivacy">By submitting this form, I agree to Sisense's<br> <a href="https://www.sisense.com/privacy-policy/" target="_blank" rel="noopener">privacy policy</a> and <a href="https://www.sisense.com/end-user-license-agreement/" target="_blank" rel="noopener">terms of service</a>.</p>
-</div>
-</div> <div id="lbf-3068" class="modal-box">
-<div id="3068" class="mktoFormBox 3068 ">
-<h2 class="theTitle">Request a POC</h2>
-<div class="loading">
-<div class="circ1"></div>
-<div class="circ2"></div>
-<div class="circ3"></div>
-</div>
-<div class="whenRendered"></div>
-<form id="mktoForm_3068"></form>
 <p class="thePrivacy">By submitting this form, I agree to Sisense's<br> <a href="https://www.sisense.com/privacy-policy/" target="_blank" rel="noopener">privacy policy</a> and <a href="https://www.sisense.com/end-user-license-agreement/" target="_blank" rel="noopener">terms of service</a>.</p>
 </div>
 </div> <div id="lbf-2310" class="modal-box">
@@ -314,23 +165,30 @@
 <div class="exit-unified-search"></div>
 </div>
 <nav class="menu-items"><ul id="menu-top-main-menu" class=""><li id="menu-item-54807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54807"><a href="https://www.sisense.com/why-sisense/">Why Sisense</a></li>
-<li id="menu-item-54809" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54809"><a href="https://www.sisense.com/product/">Platform</a>
+<li id="menu-item-54809" class="platform menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54809"><a href="https://www.sisense.com/product/">Platform</a>
 <ul class="sub-menu">
-<li id="menu-item-60938" class="embed menu-item menu-item-type-post_type menu-item-object-page menu-item-60938"><a href="https://www.sisense.com/product/embedded-analytics/"><strong>Embed</strong>Analytics for your customers</a></li>
-<li id="menu-item-60943" class="mashup menu-item menu-item-type-post_type menu-item-object-page menu-item-60943"><a href="https://www.sisense.com/product/mash-up/"><strong>Mashup</strong>Connect &amp; prepare your data</a></li>
-<li id="menu-item-60939" class="analyze menu-item menu-item-type-post_type menu-item-object-page menu-item-60939"><a href="https://www.sisense.com/product/analyze/"><strong>Analyze</strong>Get the answers you need</a></li>
-<li id="menu-item-60942" class="impact menu-item menu-item-type-post_type menu-item-object-page menu-item-60942"><a href="https://www.sisense.com/product/impact/"><strong>Impact</strong>Explore insights across devices</a></li>
-<li id="menu-item-60940" class="deploy menu-item menu-item-type-post_type menu-item-object-page menu-item-60940"><a href="https://www.sisense.com/product/deploy/"><strong>Deploy</strong>On-premises or in the cloud</a></li>
-<li id="menu-item-60941" class="control menu-item menu-item-type-post_type menu-item-object-page menu-item-60941"><a href="https://www.sisense.com/product/govern/"><strong>Control</strong>Securely manage users &amp; data</a></li>
+<li id="menu-item-63989" class="business-teams menu-item menu-item-type-custom menu-item-object-custom menu-item-63989"><a href="https://www.sisense.com/product/business-teams/"><strong>Business Teams</strong>Explore and <br class="hidden-xs">Collaborate</a></li>
+<li id="menu-item-63988" class="enterprise menu-item menu-item-type-custom menu-item-object-custom menu-item-63988"><a href="https://www.sisense.com/product/enterprise/"><strong>Enterprise</strong>Scale, Secure, <br class="hidden-xs">Govern</a></li>
+<li id="menu-item-63990" class="product-analysis menu-item menu-item-type-custom menu-item-object-custom menu-item-63990"><a href="https://www.sisense.com/product/embedded-analytics/"><strong>Product Teams</strong>Customize, Embed and White Label</a></li>
+<li id="menu-item-69894" class="data-teams menu-item menu-item-type-custom menu-item-object-custom menu-item-69894"><a href="https://www.sisense.com/product/data-teams/"><strong>Data Teams</strong>Connect to Cloud Data, Deploy at Scale</a></li>
+<li id="menu-item-63994" class="misc-items menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-63994"><a href="#">_</a>
+<ul class="sub-menu">
+<li id="menu-item-79244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-79244"><a href="https://www.sisense.com/releases/latest-release/">New Features</a></li>
+<li id="menu-item-63991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63991"><a href="https://www.sisense.com/marketplace/">Sisense Add-Ons</a></li>
+<li id="menu-item-63992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63992"><a href="https://www.sisense.com/sisense-labs/">Sisense Labs</a></li>
+<li id="menu-item-63993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63993"><a href="https://www.sisense.com/get/become-partner/">Sisense Partners</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li id="menu-item-54808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-54808"><a href="https://www.sisense.com/solutions/">Solutions</a>
 <ul class="sub-menu">
-<li id="menu-item-54823" class="application menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54823"><a href="#"><strong>Application</strong></a>
+<li id="menu-item-54823" class="builders menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54823"><a href="#"><strong>Builders</strong></a>
 <ul class="sub-menu">
-<li id="menu-item-60944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60944"><a href="https://www.sisense.com/dashboard-examples/">Dashboard Examples</a></li>
-<li id="menu-item-60945" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60945"><a href="https://www.sisense.com/business-analytics-software/">Analytics for Business Users</a></li>
-<li id="menu-item-60946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60946"><a href="https://www.sisense.com/product/embedded-analytics/">Analytics for Embedded &amp; OEM</a></li>
+<li id="menu-item-66843" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66843"><a href="/solutions/developer">Developers</a></li>
+<li id="menu-item-66844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66844"><a href="/solutions/data-engineer">Data Engineers</a></li>
+<li id="menu-item-66845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66845"><a href="/solutions/business-analyst">Business Analysts</a></li>
+<li id="menu-item-66846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-66846"><a href="/solutions/business-user">Business Users</a></li>
 </ul>
 </li>
 <li id="menu-item-54824" class="industry menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54824"><a href="#"><strong>Industry</strong></a>
@@ -342,7 +200,7 @@
 <li id="menu-item-54833" class="menu-item menu-item-type-post_type menu-item-object-solution menu-item-54833"><a href="https://www.sisense.com/solutions/manufacturing/">Manufacturing</a></li>
 <li id="menu-item-55135" class="menu-item menu-item-type-post_type menu-item-object-solution menu-item-55135"><a href="https://www.sisense.com/solutions/retail/">Retail</a></li>
 <li id="menu-item-55133" class="menu-item menu-item-type-post_type menu-item-object-solution menu-item-55133"><a href="https://www.sisense.com/solutions/software/">Software</a></li>
-<li id="menu-item-60949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60949"><a href="https://www.sisense.com/marketing-analytics-dashboard/">Digital Marketing</a></li>
+ <li id="menu-item-60949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-60949"><a href="https://www.sisense.com/marketing-analytics-dashboard/">Digital Marketing</a></li>
 <li id="menu-item-54837" class="menu-item menu-item-type-post_type menu-item-object-solution menu-item-54837"><a href="https://www.sisense.com/solutions/travel-and-hospitality/">Travel and Hospitality</a></li>
 </ul>
 </li>
@@ -367,6 +225,7 @@
 <li id="menu-item-57466" class="resource-dashboard-examples menu-item menu-item-type-post_type menu-item-object-page menu-item-57466"><a href="https://www.sisense.com/dashboard-examples/"><strong>Dashboard Examples</strong></a></li>
 <li id="menu-item-57462" class="resource-whitepapers menu-item menu-item-type-post_type menu-item-object-page menu-item-57462"><a href="https://www.sisense.com/whitepapers/"><strong>Whitepapers &amp; eBooks</strong></a></li>
 <li id="menu-item-57463" class="resource-webinars menu-item menu-item-type-post_type menu-item-object-page menu-item-57463"><a href="https://www.sisense.com/webinars/"><strong>Webinars</strong></a></li>
+<li id="menu-item-68787" class="resource-brochures menu-item menu-item-type-custom menu-item-object-custom menu-item-68787"><a href="https://www.sisense.com/guides/"><strong>Brochures</strong></a></li>
 <li id="menu-item-54812" class="resource-customers menu-item menu-item-type-post_type menu-item-object-page menu-item-54812"><a href="https://www.sisense.com/case-studies/"><strong>Case Studies</strong></a></li>
 <li id="menu-item-57467" class="resource-glossary menu-item menu-item-type-post_type menu-item-object-page menu-item-57467"><a href="https://www.sisense.com/glossary/"><strong>Glossary</strong></a></li>
 <li id="menu-item-57464" class="resource-blog menu-item menu-item-type-post_type menu-item-object-page menu-item-57464"><a href="https://www.sisense.com/blog/"><strong>Blog</strong></a></li>
@@ -467,7 +326,7 @@ This Privacy Policy shall be exclusively governed by and construed in all respec
 <li id="menu-item-2290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2290"><a href="https://www.sisense.com/press-room/">News &amp; Buzz</a></li>
 <li id="menu-item-4522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4522"><a href="https://www.sisense.com/careers/">Careers</a></li>
 <li id="menu-item-3284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3284"><a href="https://www.sisense.com/company/contact/">Contact Us</a></li>
-<li id="menu-item-11650" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11650"><a href="https://www.sisense.com/get/refer-friend/">Refer a Friend</a></li>
+<li id="menu-item-63122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63122"><a href="https://www.sisense.com/case-studies/">Case Studies</a></li>
 <li id="menu-item-56804" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56804"><a href="https://www.sisense.com/get/become-partner/">Partners</a></li>
 <li id="menu-item-24119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24119"><a href="https://www.sisense.com/support/">Support &amp; Community</a></li>
 <li id="menu-item-24123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24123"><a href="https://documentation.sisense.com/">Online Documentation</a></li>
@@ -481,7 +340,7 @@ This Privacy Policy shall be exclusively governed by and construed in all respec
 <li id="menu-item-24107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24107"><a href="https://www.sisense.com/data-connectors/">Data Connectors</a></li>
 <li id="menu-item-1508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1508"><a href="https://www.sisense.com/product/analyze/technology/">Technology</a></li>
 <li id="menu-item-16738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16738"><a href="https://www.sisense.com/demo/">BI Dashboard Solution</a></li>
-<li id="menu-item-29653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29653"><a href="https://www.sisense.com/whitepapers/sisense-vs-alternatives/">Sisense vs Alternatives</a></li>
+<li id="menu-item-29653" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29653"><a href="https://www.sisense.com/whitepapers/sisense-vs-alternatives/">Sisense vs. Alternatives</a></li>
 <li id="menu-item-16740" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16740"><a href="/get/one-on-one-demo/">Schedule a Demo</a></li>
 <li id="menu-item-24126" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24126"><a href="https://www.sisense.com/business-analytics-software/">Analytics Software</a></li>
 <li id="menu-item-24127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24127"><a href="https://www.sisense.com/product/big-data-analytics/">Big Data Analytics</a></li>
@@ -490,10 +349,10 @@ This Privacy Policy shall be exclusively governed by and construed in all respec
 <div class="col-xs-12 col-sm-4">
 <h3 class="widget-title footerSectionToggle">Resources <i class="fa fa-chevron-down" aria-hidden="true"></i></h3>
 <nav class="footer-column"><ul id="menu-resources" class=""><li id="menu-item-7563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7563"><a href="https://www.sisense.com/blog/">Blog</a></li>
-<li id="menu-item-11651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11651"><a href="https://www.sisense.com/whitepapers/">Whitepapers &amp; Ebooks</a></li>
+<li id="menu-item-11651" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11651"><a href="https://www.sisense.com/whitepapers/">Whitepapers &amp; eBooks</a></li>
 <li id="menu-item-16741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16741"><a href="https://www.sisense.com/webinars/">Webinars</a></li>
 <li id="menu-item-24133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24133"><a href="https://www.sisense.com/reporting/">Reporting Software</a></li>
-<li id="menu-item-24134" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24134"><a href="https://www.sisense.com/dashboard-software/">Dashboard Software</a></li>
+<li id="menu-item-64017" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64017"><a href="https://www.sisense.com/product/mash-up/">Data Mashup</a></li>
 <li id="menu-item-16742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16742"><a href="https://www.sisense.com/dashboard-examples/">Dashboard Examples</a></li>
 <li id="menu-item-24112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24112"><a href="https://www.sisense.com/product/data-visualization/">Data Visualization Tools</a></li>
 <li id="menu-item-24129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24129"><a href="https://www.sisense.com/solutions/">BI Solutions</a></li>
@@ -529,10 +388,11 @@ Copyright © 2019 Sisense Inc.<br class="visible-xs"> All rights reserved. </div
 <script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.31.0/autocomplete.min.js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var php_vars = {"ajaxURL":"https:\/\/www.sisense.com\/wp\/wp-admin\/admin-ajax.php","headerLoggedInString":"My Account","headerNotLoggedInString":"Customer Login"};
+var php_vars = {"ajaxURL":"https:\/\/www.sisense.com\/wp\/wp-admin\/admin-ajax.php","headerLoggedInString":"My Account","headerNotLoggedInString":"Customer Login","formPrivacyPolicy":"I agree to receive marketing and other emails from Sisense."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://cdn.sisense.com/dotcom/build/app.3984148c.js?ver=5.2.1"></script>
+<script type="text/javascript" src="https://cdn.sisense.com/dotcom/build/app.291d1f1e.js?ver=5.3"></script>
+<script src="https://cdn.sisense.com/dotcom/build/spa.291d1f1e.js?ver=5.3" defer="defer" type="text/javascript"></script>
 <div id="mktoForms2BaseStyle"></div><div id="mktoForms2ThemeStyle"></div><script type="text/javascript">        /*jslint browser: true, plusplus: true */
 
         MktoForms2.loadForm('//app-abb.marketo.com', '601-OXE-081', 680, function (form) {
@@ -553,42 +413,8 @@ var php_vars = {"ajaxURL":"https:\/\/www.sisense.com\/wp\/wp-admin\/admin-ajax.p
             if(typeof form.getValues().FirstName !== "undefined")
                 new marketoFormFieldFullName(form);
 
-            abm.isEu(function(isEu){
-                if(isEu)
-                    new marketoFormPrivacy(form);
-            });
 
-            new marketoFormTranslation(form);
-
-            // SKIP BUTTON
-            
-            // FIX MKTO LABELS FOR RADIO AND CHECKBOX
-            $('.mktoFieldWrap input[type=radio]').parentsUntil('.mktoFieldDescriptor').find('.mktoLabel').addClass('mktoRadioLabel');
-            $('.mktoFieldWrap input[type=checkbox]').parentsUntil('.mktoFieldDescriptor').find('.mktoLabel').addClass('mktoCheckboxLabel');
-        });</script><script type="text/javascript">        /*jslint browser: true, plusplus: true */
-
-        MktoForms2.loadForm('//app-abb.marketo.com', '601-OXE-081', 3068, function (form) {
-
-            // FORM VALUES
-            form.vals({
-                'Email'     : '',
-                'FirstName' : '',
-                'LastName'  : '',
-                'Company'   : '',
-                'Phone'     : ''
-                
-            });
-            // ONSUCCESS
-            
-
-            // FullName Field
-            if(typeof form.getValues().FirstName !== "undefined")
-                new marketoFormFieldFullName(form);
-
-            abm.isEu(function(isEu){
-                if(isEu)
-                    new marketoFormPrivacy(form);
-            });
+            new marketoFormPrivacy(form);
 
             new marketoFormTranslation(form);
 
@@ -611,28 +437,14 @@ var php_vars = {"ajaxURL":"https:\/\/www.sisense.com\/wp\/wp-admin\/admin-ajax.p
                 
             });
             // ONSUCCESS
-                  form.onSuccess(function () {
-
-        var translatedUrl = window.marketoTYUrlTranslation("/thank-you/recorded-demo-on-demand/?fof=recorded-demo");
-
-        if(translatedUrl === null) {
-          location.href = "/thank-you/recorded-demo-on-demand/?fof=recorded-demo";
-        } else {
-          location.href = translatedUrl;
-        }
-
-        return false;
-
-    });
+            
 
             // FullName Field
             if(typeof form.getValues().FirstName !== "undefined")
                 new marketoFormFieldFullName(form);
 
-            abm.isEu(function(isEu){
-                if(isEu)
-                    new marketoFormPrivacy(form);
-            });
+
+            new marketoFormPrivacy(form);
 
             new marketoFormTranslation(form);
 
